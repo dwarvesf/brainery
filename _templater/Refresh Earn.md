@@ -1,8 +1,8 @@
 <%*
 const dv = this.app.plugins.plugins["dataview"].api;
-const indexPage = dv.pages(`"bounty.md"`);
+const bountyPage = dv.pages(`"bounty.md"`);
 
-for (const element of indexPage) {
+for (const element of bountyPage) {
 	let content = "---\n";
 	for (const prop in element.file.frontmatter) {
 		const value = element.file.frontmatter[prop]
