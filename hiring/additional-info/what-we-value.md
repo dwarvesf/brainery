@@ -4,11 +4,11 @@ tags:
   - work
 title: what-we-value
 date: 2023-10-16
-description: 
+description:
 authors: []
 menu: hiring
 toc: false
-notice: 
+notice:
 type: hiring
 ---
 # What we value
@@ -25,7 +25,7 @@ There is no such specific guide for culture code. So many of these employee hand
 
 We believe the culture is defined by whom we hire, what we promote and encourage. It is dynamic, and it should expand like our business. We welcome its change as long as we still stay on the ground. Just like we want people to contribute new skills and ideas, we want people to contribute to the new culture.
 
-![](/../images/culture.png)
+![](../images/culture.png)
 
 A few things that we observed over the last few years:
 - [No asshole rules](https://www.amazon.com/Asshole-Rule-Civilized-Workplace-Surviving/dp/0446698202): no matter how great a candidate may be, being an asshole is an automatic deal breaker.
