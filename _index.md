@@ -1,10 +1,10 @@
 ---
 tags:
-  - consolelabs
+  - dwarves
   - work
 title: Dwarves Foundation
 date: 2023-10-04
-description: We’re Console Labs. We’re all about that finance and making things fun. We’re diving deep into tech, data, web3, blockchain, and jotting down all the cool stuff we find, hoping to whip up something rad for everyone online.
+description: 
 authors: []
 menu: 
 toc: false

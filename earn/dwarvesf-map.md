@@ -3,15 +3,18 @@ tags:
   - earn
 title: A webpage showing where the Dwarves from
 date: 2023-07-05
-description:
-authors: [hnh, tieubao]
-menu:
+description: 
+authors:
+  - hnh
+  - tieubao
+menu: 
 toc: false
-notice:
+notice: 
 bounty: 80
-due_date:
+due_date: 
 status: Open
 PICs: []
+type: earn
 ---
 
 👀 Imagine having a map flexing dwarves all around the globe

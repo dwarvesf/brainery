@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1a4b52a8ba312fcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f1d96f8e67df72be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_templater/Refresh Members' Profile.md",
+                "file": "playbook/engineering/blockchain/general.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "1,00",
+                "query": "b9b9b",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_templater/Refresh Members' Profile.md",
+                "file": "playbook/engineering/blockchain/general.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_templater/Refresh Members' Profile.md",
+                "file": "playbook/engineering/blockchain/general.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_templater/Refresh Members' Profile.md"
+                "file": "playbook/engineering/blockchain/general.md"
               }
             }
           },
@@ -173,51 +160,51 @@
   },
   "active": "f1d96f8e67df72be",
   "lastOpenFiles": [
-    "_templater/Refresh Earn.md",
-    "_templater/Refresh Index.md",
-    "site-index.md",
-    "bounty.md",
-    "earn/fortress-mma-score.md",
-    "_templater/Refresh Members' Profile.md",
+    "playbook/engineering/blockchain/external-calls.md",
+    "playbook/engineering/blockchain/documents.md",
+    "playbook/engineering/blockchain/blockchain-security.md",
+    "playbook/engineering/blockchain/assert-require-revert.md",
+    "playbook/engineering/frontend/code-style.md",
+    "playbook/engineering/working-together.md",
+    "playbook/design/wireframe.md",
+    "playbook/design/UX.md",
+    "playbook/design/UI.md",
+    "playbook/design/README.md",
+    "playbook/design/prototype.md",
+    "playbook/design/lean-canvas.md",
+    "playbook/design/IX.md",
+    "playbook/design/IA.md",
+    "playbook/design/design-system.md",
+    "playbook/design/design-sprint.md",
+    "playbook/design/aarrr.md",
     "_index.md",
-    "_templates/New Post.md",
-    "earn/dwarvesf-map.md",
-    "members/hnh.md",
-    "members/minh_cloud.md",
-    "members/anna.md",
-    "members/vincent.md",
-    "members/neko-san.md",
-    "members",
-    "README.md",
-    "earn/data-aptos-chain.md",
-    "purpose.md",
-    "philosophy.md",
-    "contributors.md",
-    "about.md",
-    "images/playbook/evm-integration/wd-success.png",
-    "images/playbook/evm-integration/wd-submitted.png",
-    "images/playbook/evm-integration/wallet-track.png",
-    "images/playbook/evm-integration/wallet-track-sent-noti.png",
-    "images/playbook/evm-integration/wallet-track-received-noti.png",
-    "images/playbook/evm-integration/ticker.png",
-    "images/playbook/evm-integration/insert-chain.png",
-    "images/playbook/evm-integration/dep-success.png",
-    "images/playbook/evm-integration/coingecko-search-token.png",
-    "images/playbook/evm-integration/chat-gpt-extract-coin-result.png",
-    "images/playbook/evm-integration",
-    "earn/mochi-tip-bot-on-slack.md",
-    "earn/mochi-terminal.md",
-    "earn/mochi-rock-payer-scissor.md",
-    "earn/mochi-blockchain-event-calendar.md",
-    "earn/mochi-blackjack.md",
-    "earn/mochi-raycast-extension.md",
-    "earn",
-    "images/_reference",
-    "consolelabs",
-    "images/experiments/wagmi",
-    "images/experiments/neko",
-    "images/experiments",
-    "_templater",
-    "blog"
+    "playbook/business/service-feedbacks.md",
+    "playbook/business/README.md",
+    "playbook/business/nda.md",
+    "playbook/business/invoice.md",
+    "playbook/business/how-to-work-with-clients.md",
+    "playbook/business/fbsc.md",
+    "playbook/business/df-workflow.md",
+    "_templates/New Earn.md",
+    "assets/memo",
+    "assets",
+    "memo/assets/august-forward-engineering_(1).mp4",
+    "memo/assets/distributed-access-platform.png",
+    "memo/assets/rag-ai.png",
+    "assets/memo/rag.png",
+    "memo/assets/llm-story-map.png",
+    "memo/assets/product-engineer-twitter.png",
+    "memo/assets/erd-ai-generated.png",
+    "memo/assets/brainery-tags-august.png",
+    "assets/memo/brainery-tags.png",
+    "assets/memo/brainery.png",
+    "memo/assets/brainery-discord-gomock.png",
+    "memo/assets/insertion_sort.mp4",
+    "memo/assets",
+    "images/memo",
+    "images",
+    "hiring/open-positions",
+    "hiring/images",
+    "hiring/additional-info"
   ]
 }

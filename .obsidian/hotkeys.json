@@ -7,5 +7,13 @@
       ],
       "key": "P"
     }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
   ]
 }

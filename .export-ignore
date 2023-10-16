@@ -1,0 +1,10 @@
+# ignore any obsidian templates
+_templates/
+_templater/
+
+# ignore reference images or files
+_reference/
+
+# ignore any readmes
+*README.md
+

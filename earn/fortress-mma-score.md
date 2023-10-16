@@ -4,15 +4,18 @@ tags:
   - fortress
 title: "Fortress: MMA data"
 date: 2023-10-04
-description:
-authors: [hnh]
-menu:
+description: 
+authors:
+  - hnh
+menu: 
 toc: false
-notice:
+notice: 
 bounty: 120
-due_date:
+due_date: 
 status: Open
-PICs: [nam]
+PICs:
+  - nam
+type: earn
 ---
 
 1. Update fortress database

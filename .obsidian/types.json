@@ -10,6 +10,7 @@
     "status": "text",
     "due_date": "date",
     "PICs": "multitext",
-    "completion_date": "date"
+    "completion_date": "date",
+    "publish": "checkbox"
   }
 }

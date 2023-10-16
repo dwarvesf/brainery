@@ -1,12 +1,13 @@
 ---
 tags:
-  - consolelabs
+  - dwarves
   - work
 title: "{{title}}"
 date: "{{date:YYYY-MM-DD}}"
-description: 
+description:
 authors: []
-menu: 
+menu:
 toc: false
 notice:
+type:
 ---
