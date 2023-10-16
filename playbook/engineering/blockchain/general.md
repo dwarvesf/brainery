@@ -241,7 +241,7 @@ which is empty at block `n`, but which has a contract deployed to it at some blo
 `n`.
 
 !!! Warning "This issue is nuanced."
-    If your goal is to prevent other contracts from being able to call your contract, the `extcodesize` check is probably sufficient. An alternative approach is to check the value of `(tx.origin == msg.sender)`, though this also [has drawbacks](../../development-recommendations/solidity-specific/tx-origin.md).
+    If your goal is to prevent other contracts from being able to call your contract, the `extcodesize` check is probably sufficient. An alternative approach is to check the value of `(tx.origin == msg.sender)`, though this also has drawbacks.
 
     There may be other situations in which the `extcodesize` check serves your purpose. Describing all of them here is out of scope. Understand the underlying behaviors of the EVM and use your Judgement.
 
