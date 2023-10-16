@@ -7,7 +7,7 @@
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": true,
   "shell_path": "",
@@ -15,8 +15,24 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "earn",
+      "template": "_templater/New Earn.md"
+    },
+    {
+      "folder": "members",
+      "template": "_templater/New Member.md"
+    },
+    {
+      "folder": "memo",
+      "template": "_templater/New Post.md"
+    },
+    {
+      "folder": "playbook",
+      "template": "_templater/New Post.md"
+    },
+    {
+      "folder": "hiring",
+      "template": "_templater/New Post.md"
     }
   ],
   "syntax_highlighting": true,

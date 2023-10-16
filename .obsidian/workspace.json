@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "playbook/engineering/blockchain/general.md",
+                "file": "_templater/New Earn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "playbook/engineering/blockchain/general.md",
+                "file": "_templater/New Earn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "playbook/engineering/blockchain/general.md",
+                "file": "_templater/New Earn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "playbook/engineering/blockchain/general.md"
+                "file": "_templater/New Earn.md"
               }
             }
           },
@@ -160,6 +160,15 @@
   },
   "active": "f1d96f8e67df72be",
   "lastOpenFiles": [
+    "playbook/engineering/blockchain/general.md",
+    "earn/Untitled.md",
+    "_templates/New Earn.md",
+    "_templater/New Post.md",
+    "_templater/New Member.md",
+    "_templater/New Earn.md",
+    "_templates/New Post copy.md",
+    "_templates/New Member copy.md",
+    "_templates/New Earn copy.md",
     "playbook/engineering/blockchain/external-calls.md",
     "playbook/engineering/blockchain/documents.md",
     "playbook/engineering/blockchain/blockchain-security.md",
@@ -177,15 +186,6 @@
     "playbook/design/design-system.md",
     "playbook/design/design-sprint.md",
     "playbook/design/aarrr.md",
-    "_index.md",
-    "playbook/business/service-feedbacks.md",
-    "playbook/business/README.md",
-    "playbook/business/nda.md",
-    "playbook/business/invoice.md",
-    "playbook/business/how-to-work-with-clients.md",
-    "playbook/business/fbsc.md",
-    "playbook/business/df-workflow.md",
-    "_templates/New Earn.md",
     "assets/memo",
     "assets",
     "memo/assets/august-forward-engineering_(1).mp4",
