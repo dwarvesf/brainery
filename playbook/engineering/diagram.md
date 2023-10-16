@@ -175,7 +175,7 @@ erDiagram
         PRODUCT ||--o{ ORDER-ITEM : "ordered in"
 ```
 
-The [syntax]([Mermaid](https://mm.daf.ug/)) mostly focus on Entities, relationship and identification.
+The [syntax](https://mm.daf.ug/) mostly focus on Entities, relationship and identification.
 
 ```
 <first-entity> <relationship> <second-entity> : <relationship-label>
