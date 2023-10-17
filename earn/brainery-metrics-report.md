@@ -3,14 +3,14 @@ tags:
   - tooling
 title: "Brainery metrics report"
 date: 2023-06-30
-description: 
+description:
 authors:
   - thanh
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 100
-due_date: 
+due_date:
 status: Done
 PICs:
   - thangnguyen

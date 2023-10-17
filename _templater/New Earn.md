@@ -3,16 +3,13 @@ tags:
   - earn
 title: "{{title}}"
 date: "{{date:YYYY-MM-DD}}"
-description: 
+description:
 authors: []
-menu: 
+menu:
 toc: false
-notice: 
-due_date: 
-status: 
-PICs: 
+notice:
+due_date:
+status:
+PICs:
 completion_date:
 ---
-```dataviewjs
-
-```

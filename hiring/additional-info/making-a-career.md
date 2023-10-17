@@ -4,11 +4,11 @@ tags:
   - work
 title: making-a-career
 date: 2023-10-16
-description: 
+description:
 authors: []
 menu: hiring
 toc: false
-notice: 
+notice:
 type: hiring
 ---
 # Making a Career

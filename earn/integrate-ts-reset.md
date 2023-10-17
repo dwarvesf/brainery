@@ -3,14 +3,14 @@ tags:
   - r&d
 title: "Integrate ts-reset to nextjs boilerplate"
 date: 2023-06-02
-description: 
+description:
 authors:
   - khacvy
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 10
-due_date: 
+due_date:
 status: Done
 PICs:
   - khacvy

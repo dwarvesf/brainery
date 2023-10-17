@@ -4,11 +4,11 @@ tags:
   - work
 title: wireframe
 date: 2023-10-16
-description: 
+description:
 authors: []
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 type: playbook
 ---
 ## Wireframe: Workflow Design

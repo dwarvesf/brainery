@@ -4,11 +4,11 @@ tags:
   - work
 title: Growth
 date: 2023-10-16
-description: 
+description:
 authors: []
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 type: hiring
 ---
 # Marketing
@@ -30,7 +30,7 @@ The activities at Dwarves are consisted of
 ## Marketing position at Dwarves
 We do inbound marketing to grow our audience base. We deliver values and establish strong connections with the audience.
 
-You will work closely with the operations & engineering team 
+You will work closely with the operations & engineering team
 - Developing tactics to boost the company's reputation, drive qualified traffic of Dwarves satellite channels.
 - Growing the audience base.
 - Pipeline setup, campaign execution, report, and monitoring.
@@ -52,7 +52,7 @@ Learn more:
 - Home: https://d.foundation
 - Consulting: https://d.foundation/work
 - Products: https://superbits.co
-- Community works: 
+- Community works:
     - [Techie Story](https://techiestory.co)
     - [WeBuild Community](https://webuild.community)
     - [Golang Vietnam](https://golang.org.vn)

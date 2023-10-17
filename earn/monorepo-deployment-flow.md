@@ -3,14 +3,14 @@ tags:
   - r&d
 title: "Monorepo deployment flow with Vercel"
 date: 2023-06-20
-description: 
+description:
 authors:
   - antran
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 80
-due_date: 
+due_date:
 status: Done
 PICs:
   - chinhle

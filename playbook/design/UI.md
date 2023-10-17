@@ -4,10 +4,10 @@ tags:
   - work
 title: UI
 date: 2023-10-16
-description: 
+description:
 authors: []
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 type: playbook
 ---

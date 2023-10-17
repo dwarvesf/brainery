@@ -3,14 +3,14 @@ tags:
   - oss
 title: "Hunger Game - Submit 2022"
 date: 2022-11-30
-description: 
+description:
 authors:
   - hieuphq, mashiro
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 100
-due_date: 
+due_date:
 status: Done
 PICs:
   - hieuphq, mashiro

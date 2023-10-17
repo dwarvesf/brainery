@@ -3,14 +3,14 @@ tags:
   - r&d
 title: "Optimize Query Database 500M records, filter multiple tables"
 date: 2022-12-31
-description: 
+description:
 authors:
   - thanhpham, quang, minhth, tay, dungho
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 100
-due_date: 
+due_date:
 status: Done
 PICs:
   - thanhpham, quang, minhth, tay, dungho

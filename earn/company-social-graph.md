@@ -3,14 +3,14 @@ tags:
   - tooling
 title: "Company Social Graph"
 date: 2022-11-29
-description: 
+description:
 authors:
   - bien
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 40
-due_date: 
+due_date:
 status: Done
 PICs:
   - bien

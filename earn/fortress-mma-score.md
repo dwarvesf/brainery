@@ -4,14 +4,14 @@ tags:
   - fortress
 title: "Fortress: MMA data"
 date: 2023-10-04
-description: 
+description:
 authors:
   - hnh
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 120
-due_date: 
+due_date:
 status: Open
 PICs:
   - nam

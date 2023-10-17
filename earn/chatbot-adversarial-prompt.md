@@ -3,14 +3,14 @@ tags:
   - r&d
 title: "Chatbot: Adversarial prompts - politics, weapons, etc"
 date: 2022-11-30
-description: 
+description:
 authors:
   - thanh
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 30
-due_date: 
+due_date:
 status: Done
 PICs:
   - thanh

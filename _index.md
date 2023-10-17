@@ -4,9 +4,9 @@ tags:
   - work
 title: Dwarves Foundation
 date: 2023-10-04
-description: 
+description:
 authors: []
-menu: 
+menu:
 toc: false
 notice:
 ---

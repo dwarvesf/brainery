@@ -3,14 +3,14 @@ tags:
   - r&d
 title: "Financial Literacy outline: Phổ cập Kiến thức Tài chính"
 date: 2023-06-14
-description: 
+description:
 authors:
   - hnh
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 45
-due_date: 
+due_date:
 status: Done
 PICs:
   - hnh

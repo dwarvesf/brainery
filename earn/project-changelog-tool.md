@@ -3,14 +3,14 @@ tags:
   - tooling
 title: "Project Weekly Changelog Tooling"
 date: 2023-06-05
-description: 
+description:
 authors:
   - minhluu
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 100
-due_date: 
+due_date:
 status: Done
 PICs:
   - minhluu

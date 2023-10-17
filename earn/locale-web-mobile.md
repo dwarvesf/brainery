@@ -3,14 +3,14 @@ tags:
   - r&d
 title: "Locale on Web, Mobile"
 date: 2023-03-27
-description: 
+description:
 authors:
   - hieuvd, antran, bien, binhle, taipham
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 100
-due_date: 
+due_date:
 status: Done
 PICs:
   - hieuvd, antran, bien, binhle, taipham
@@ -42,7 +42,7 @@ type: r&d
 4. How would you like to handle this problem, for example
     1. Cost (optional): we need ready to implement the solution in 1 week and 1 developer can complete the setup in 2 or 3 days.
     2. Time (optional): within 2 weeks
-    3. Maximum and minimum results that you can accept  (optional): 
+    3. Maximum and minimum results that you can accept  (optional):
 5. Assess the complexity of the problem
     1. We have two options:
         - Self implementation
@@ -50,11 +50,11 @@ type: r&d
     2. Need admin portal to manage language translation
     3. Need high-speed change locale and dynamic change by setting when user comeback
 6. Describe the output
-    
-    Need a solution for an easy move a single-language app to a multiple-language app
-    
 
-Problem statement: 
+    Need a solution for an easy move a single-language app to a multiple-language app
+
+
+Problem statement:
 
 Software/Solution input: Website, mobile app, language translation dictionary
 
@@ -78,9 +78,9 @@ Software/Solution output: Website, mobile app support multiple language, multipl
 
 Solution:
 
-@An Tran 
+@An Tran
 
-@Hieu Vu 
+@Hieu Vu
 
 **Pending Actions:**
 

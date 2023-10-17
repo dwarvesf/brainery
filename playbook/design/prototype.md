@@ -4,11 +4,11 @@ tags:
   - work
 title: prototype
 date: 2023-10-16
-description: 
+description:
 authors: []
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 type: playbook
 ---
 ## Low-fidelity prototype: UI Design
@@ -102,7 +102,7 @@ There are different approaches to naming colors in a design system. You can name
 * Step 6: Test the color palette against the colors in the inventory
 * Step 7: Implement new color palette in CSS (consider using a preprocessor and build a list of variables) on a test server
 * Step 8: Test how the new palette affects the interface
-* Step 9: Check the contrast between colors in the new UI. Make sure you comply with WCAG guidelines. 
+* Step 9: Check the contrast between colors in the new UI. Make sure you comply with WCAG guidelines.
 Use the Contrast Ratio web app for quick access to WCAG color contrast ratios. You can read more the rules of contrast color to create “Contrast pairs” which clearly shows a WCAG tests.
 
 * Step 10: Finalize the color palette

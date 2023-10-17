@@ -3,14 +3,14 @@ tags:
   - community
 title: "Integrate RSS feeds to chapter discord channels"
 date: 2023-03-27
-description: 
+description:
 authors:
   - quang
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 50
-due_date: 
+due_date:
 status: Done
 PICs:
   - quang

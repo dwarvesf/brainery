@@ -1,11 +1,11 @@
 ---
-tags: 
+tags:
   - dwarves
   - work
 title: Index
 date: 2023-09-30
 description: null
-authors: 
+authors:
   - monotykamary
 menu: main
 toc: false

@@ -3,14 +3,14 @@ tags:
   - tooling
 title: "Company Signature "
 date: 2022-12-30
-description: 
+description:
 authors:
   - hieuvd
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 20
-due_date: 
+due_date:
 status: Done
 PICs:
   - hieuvd

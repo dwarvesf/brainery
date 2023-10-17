@@ -7,11 +7,11 @@ description: A webpage our consulting record, where our clients locate
 authors:
   - hnh
   - tieubao
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 80
-due_date: 
+due_date:
 status: Open
 PICs: []
 type: earn

@@ -3,14 +3,14 @@ tags:
   - community
 title: "Rework Discord Role"
 date: 2022-11-30
-description: 
+description:
 authors:
   - hnh
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 20
-due_date: 
+due_date:
 status: Done
 PICs:
   - hnh

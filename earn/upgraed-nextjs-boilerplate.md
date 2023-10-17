@@ -3,14 +3,14 @@ tags:
   - r&d
 title: "Upgrade nextjs-boilerplate to Nextjs 13"
 date: 2023-06-05
-description: 
+description:
 authors:
   - chinhle
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 10
-due_date: 
+due_date:
 status: Done
 PICs:
   - chinhle

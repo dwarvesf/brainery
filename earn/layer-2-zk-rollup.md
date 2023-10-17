@@ -3,16 +3,18 @@ tags:
   - r&d
 title: "Design system for layer 2 using ZK rollup"
 date: 2023-03-27
-description: 
+description:
 authors:
-  - bien, thanhpham
-menu: 
+  - bien
+  - thanhpham
+menu:
 toc: false
-notice: 
+notice:
 bounty: 100
-due_date: 
+due_date:
 status: Done
 PICs:
-  - bien, thanhpham
+  - bien
+  - thanhpham
 type: r&d
 ---

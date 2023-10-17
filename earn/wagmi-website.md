@@ -3,14 +3,14 @@ tags:
   - tooling
 title: "wagmi website, fork xkcd, with crm for img uploading"
 date: 2023-06-14
-description: 
+description:
 authors:
   - hieuvd
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 150
-due_date: 
+due_date:
 status: Done
 PICs:
   - hieuvd

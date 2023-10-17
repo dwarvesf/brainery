@@ -3,14 +3,14 @@ tags:
   - tooling
 title: "Rework Dwarves Email Domain"
 date: 2022-11-28
-description: 
+description:
 authors:
   - quang
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 100
-due_date: 
+due_date:
 status: Done
 PICs:
   - quang

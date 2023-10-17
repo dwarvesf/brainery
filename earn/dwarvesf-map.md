@@ -3,15 +3,15 @@ tags:
   - earn
 title: A webpage showing where the Dwarves from
 date: 2023-07-05
-description: 
+description:
 authors:
   - hnh
   - tieubao
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 80
-due_date: 
+due_date:
 status: Open
 PICs: []
 type: earn

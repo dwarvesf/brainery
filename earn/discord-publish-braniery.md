@@ -3,14 +3,14 @@ tags:
   - tooling
 title: "Add new discord command to publish new brainery post"
 date: 2023-06-20
-description: 
+description:
 authors:
   - nam
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 40
-due_date: 
+due_date:
 status: Done
 PICs:
   - nam

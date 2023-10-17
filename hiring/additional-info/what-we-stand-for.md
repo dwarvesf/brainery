@@ -4,11 +4,11 @@ tags:
   - work
 title: what-we-stand-for
 date: 2023-10-16
-description: 
+description:
 authors: []
 menu: hiring
 toc: false
-notice: 
+notice:
 type: hiring
 ---
 # What we stand for

@@ -3,14 +3,14 @@ tags:
   - r&d
 title: "Chatbot: memory (few shot) "
 date: 2023-12-07
-description: 
+description:
 authors:
   - thanh
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 100
-due_date: 
+due_date:
 status: Done
 PICs:
   - thanh

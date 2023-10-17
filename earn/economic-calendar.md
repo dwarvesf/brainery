@@ -3,14 +3,14 @@ tags:
   - tooling
 title: "Economic calendar"
 date: 2023-03-27
-description: 
+description:
 authors:
   - nam
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 40
-due_date: 
+due_date:
 status: Done
 PICs:
   - nam

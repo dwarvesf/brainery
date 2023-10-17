@@ -4,11 +4,11 @@ tags:
   - work
 title: benefits-and-perks
 date: 2023-10-16
-description: 
+description:
 authors: []
 menu: hiring
 toc: false
-notice: 
+notice:
 type: hiring
 ---
 # Benefits & Perks

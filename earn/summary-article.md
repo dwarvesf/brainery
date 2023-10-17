@@ -3,14 +3,14 @@ tags:
   - tooling
 title: "A discord cmd to summary article, using ChatGPT"
 date: 2023-06-12
-description: 
+description:
 authors:
   - minhluu
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 60
-due_date: 
+due_date:
 status: Done
 PICs:
   - minhluu

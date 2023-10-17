@@ -3,14 +3,14 @@ tags:
   - community
 title: "Centralize Dwarves Calendar"
 date: 2022-11-30
-description: 
+description:
 authors:
   - tom
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 30
-due_date: 
+due_date:
 status: Done
 PICs:
   - tom

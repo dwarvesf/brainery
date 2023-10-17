@@ -4,11 +4,11 @@ tags:
   - work
 title: Apprentice
 date: 2023-10-16
-description: 
+description:
 authors: []
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 type: hiring
 ---
 # Apprenticeship Program
@@ -33,7 +33,7 @@ During your six months program, you will sit down with our Dwarves and do group 
 
 ### Part 1: Catch up with the state of the art
 
-Learn the state of the art of software engineering in action, from the foundation of engineering to the cutting-edge tech stack and best practices.	
+Learn the state of the art of software engineering in action, from the foundation of engineering to the cutting-edge tech stack and best practices.
 
 **Engineering**
 - Speak multi programming language at once
@@ -60,12 +60,12 @@ Learn the state of the art of software engineering in action, from the foundatio
 - Business model & Lean canvas
 - AARRR funnel
 - UX Design framework
-- Information Architecture 
+- Information Architecture
 - Atomic Design
 - Visual Design Principle
 - Design System
 - Apply guidelines for designing on different platform
-     
+
 ### Part 2: Be a team player
 
 Teamwork understanding and learn how to collaborate smoothly with different kinds of stakeholders.
@@ -123,7 +123,7 @@ Getting to know your strength will keep you stay with the industry many years ah
 
 ## Program Timeline
 
-Below is the list of activities during your six months 
+Below is the list of activities during your six months
 
 ### Your first month: Warming-up
 

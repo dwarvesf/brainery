@@ -3,14 +3,14 @@ tags:
   - tooling
 title: "?trend command"
 date: 2023-08-17
-description: 
+description:
 authors:
   - thanh
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 bounty: 60
-due_date: 
+due_date:
 status: Open
 PICs:
   - tom
