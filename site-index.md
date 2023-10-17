@@ -1,11 +1,11 @@
 ---
-tags:
+tags: 
   - dwarves
   - work
 title: Index
 date: 2023-09-30
 description: null
-authors:
+authors: 
   - monotykamary
 menu: main
 toc: false
@@ -13,23 +13,71 @@ notice: null
 ---
 ## Dwarves Foundation
 
+- [[trend-command|?trend command]]
+- [[fleeting-notes|A discord cmd to receive a link, and create a brainery fleeting note]]
+- [[summary-article|A discord cmd to summary article, using ChatGPT]]
 - [[dwarvesf-map|A webpage showing where the Dwarves from]]
+- [[aarrr|aarrr]]
+- [[discord-publish-braniery|Add new discord command to publish new brainery post]]
 - [[Android|Android]]
 - [[Apprentice|Apprentice]]
 - [[august-forward-engineering|august-forward-engineering]]
 - [[benefits-and-perks|benefits-and-perks]]
+- [[brainery-metrics-report|Brainery metrics report]]
+- [[business-playbook-outline|business-playbook-outline]]
+- [[centralize-dwarves-calendar|Centralize Dwarves Calendar]]
+- [[chatbot-adversarial-prompt|Chatbot: Adversarial prompts - politics, weapons, etc]]
+- [[chatbot-llc-accuracy|Chatbot: LLM accuracy with RLHF]]
+- [[chatbot-memory|Chatbot: memory (few shot) ]]
+- [[chatbot-prompt-size|Chatbot: prompt size, context (zero shot)]]
+- [[collaboration-guideline|collaboration-guideline]]
+- [[company-signature|Company Signature ]]
+- [[company-social-graph|Company Social Graph]]
 - [[consulting-map|Consulting record webpage]]
+- [[layer-2-zk-rollup|Design system for layer 2 using ZK rollup]]
+- [[design-sprint|design-sprint]]
+- [[df-workflow|df-workflow]]
+- [[economic-calendar|Economic calendar]]
+- [[engagament-log|Engagement Log]]
+- [[fbsc|fbsc]]
+- [[feature-toggle|Feature toggle]]
+- [[financial-literacy-outline|Financial Literacy outline: Phổ cập Kiến thức Tài chính]]
 - [[fortress-shanky-data|Fortress: API to show shanky data]]
 - [[fortress-mma-score|Fortress: MMA data]]
 - [[Frontend|Frontend]]
 - [[Golang|Golang]]
 - [[Growth|Growth]]
+- [[how-to-work-with-clients|how-to-work-with-clients]]
 - [[how-we-hire|how-we-hire]]
 - [[how-we-work|how-we-work]]
+- [[hunger-game|Hunger Game - Submit 2022]]
+- [[integrate-rss-feed|Integrate RSS feeds to chapter discord channels]]
+- [[integrate-ts-reset|Integrate ts-reset to nextjs boilerplate]]
 - [[Intern|Intern]]
 - [[iOS|iOS]]
+- [[lean-canvas|lean-canvas]]
+- [[locale-web-mobile|Locale on Web, Mobile]]
 - [[making-a-career|making-a-career]]
+- [[monorepo-deployment-flow|Monorepo deployment flow with Vercel]]
+- [[enigma-checksum|Open source Enigma checksum]]
+- [[optimize-query-database|Optimize Query Database 500M records, filter multiple tables]]
+- [[project-changelog-tool|Project Weekly Changelog Tooling]]
+- [[prototype|prototype]]
 - [[QA|QA]]
+- [[react-server-component|React Server Componen]]
+- [[discord-role|Rework Discord Role]]
+- [[dwarves-email-domain|Rework Dwarves Email Domain]]
+- [[service-feedbacks|service-feedbacks]]
+- [[tech-radar-status|Tech radar status report]]
+- [[tech-radar-report|Tech radar status report]]
+- [[treasure-hunt|Treasure Hunt - Submit 2022]]
+- [[UI|UI]]
+- [[upgraed-nextjs-boilerplate|Upgrade nextjs-boilerplate to Nextjs 13]]
+- [[zod-nextjs-boilerplate|Use Zod to validate schema in nextjs-boilerplate]]
+- [[UX|UX]]
+- [[wagmi-website|wagmi website, fork xkcd, with crm for img uploading]]
+- [[type-safe-framework|wagmi website, fork xkcd, with crm for img uploading]]
 - [[what-we-stand-for|what-we-stand-for]]
 - [[what-we-value|what-we-value]]
 - [[where-we-work|where-we-work]]
+- [[wireframe|wireframe]]

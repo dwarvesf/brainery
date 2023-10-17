@@ -10,6 +10,7 @@ menu: memo
 toc: false
 notice: 
 type: memo
+template: post
 ---
 # August’s Forward Engineering
 

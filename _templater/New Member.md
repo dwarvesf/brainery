@@ -1,6 +1,6 @@
 ---
-social:
-github:
-website:
+social: 
+github: 
+website: 
 avatar:
 ---
