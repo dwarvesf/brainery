@@ -7,7 +7,7 @@ description:
 authors:
   - hnh
   - tieubao
-menu:
+menu: earn
 toc: false
 notice:
 bounty: 80

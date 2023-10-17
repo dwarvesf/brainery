@@ -6,7 +6,7 @@ date: 2022-12-30
 description:
 authors:
   - hieuvd
-menu:
+menu: earn
 toc: false
 notice:
 bounty: 20

@@ -6,7 +6,7 @@ date: 2023-06-13
 description:
 authors:
   - luke huynh thanh hai
-menu:
+menu: earn
 toc: false
 notice:
 bounty: 10

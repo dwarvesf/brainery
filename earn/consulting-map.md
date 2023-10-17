@@ -7,7 +7,7 @@ description: A webpage our consulting record, where our clients locate
 authors:
   - hnh
   - tieubao
-menu:
+menu: earn
 toc: false
 notice:
 bounty: 80

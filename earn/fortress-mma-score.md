@@ -7,7 +7,7 @@ date: 2023-10-04
 description:
 authors:
   - hnh
-menu:
+menu: earn
 toc: false
 notice:
 bounty: 120

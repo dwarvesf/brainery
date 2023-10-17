@@ -6,7 +6,7 @@ date: 2023-06-20
 description:
 authors:
   - chinhle
-menu:
+menu: earn
 toc: false
 notice:
 bounty: 20

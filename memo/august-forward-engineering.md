@@ -4,11 +4,11 @@ tags:
   - work
 title: august-forward-engineering
 date: 2023-10-16
-description:
+description: 
 authors: []
-menu:
+menu: memo
 toc: false
-notice:
+notice: 
 type: memo
 ---
 # August’s Forward Engineering

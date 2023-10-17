@@ -6,7 +6,7 @@ date: 2023-10-17
 description:
 authors:
   - han
-menu:
+menu: earn
 toc: false
 notice:
 bounty: 60

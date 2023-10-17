@@ -6,7 +6,7 @@ date: 2023-06-05
 description:
 authors:
   - minhluu
-menu:
+menu: earn
 toc: false
 notice:
 bounty: 100

@@ -6,7 +6,7 @@ date: 2022-11-29
 description:
 authors:
   - bien
-menu:
+menu: earn
 toc: false
 notice:
 bounty: 40

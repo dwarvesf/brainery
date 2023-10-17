@@ -6,7 +6,7 @@ date: 2023-10-17
 description:
 authors:
   - thanh
-menu:
+menu: earn
 toc: false
 notice:
 bounty: 60

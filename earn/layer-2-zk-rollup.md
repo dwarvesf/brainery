@@ -7,7 +7,7 @@ description:
 authors:
   - bien
   - thanhpham
-menu:
+menu: earn
 toc: false
 notice:
 bounty: 100

@@ -6,7 +6,7 @@ date: 2022-11-30
 description:
 authors:
   - huytq
-menu:
+menu: earn
 toc: false
 notice:
 bounty: 100

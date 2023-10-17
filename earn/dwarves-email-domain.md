@@ -6,7 +6,7 @@ date: 2022-11-28
 description:
 authors:
   - quang
-menu:
+menu: earn
 toc: false
 notice:
 bounty: 100

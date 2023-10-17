@@ -6,7 +6,7 @@ date: 2023-03-27
 description:
 authors:
   - hieuvd, antran, bien, binhle, taipham
-menu:
+menu: earn
 toc: false
 notice:
 bounty: 100

@@ -6,7 +6,7 @@ date: 2022-11-30
 description:
 authors:
   - tom
-menu:
+menu: earn
 toc: false
 notice:
 bounty: 30

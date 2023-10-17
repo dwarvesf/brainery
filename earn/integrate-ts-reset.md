@@ -6,7 +6,7 @@ date: 2023-06-02
 description:
 authors:
   - khacvy
-menu:
+menu: earn
 toc: false
 notice:
 bounty: 10

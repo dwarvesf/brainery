@@ -6,7 +6,7 @@ date: 2022-12-31
 description:
 authors:
   - thanhpham, quang, minhth, tay, dungho
-menu:
+menu: earn
 toc: false
 notice:
 bounty: 100
