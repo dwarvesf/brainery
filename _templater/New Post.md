@@ -4,11 +4,10 @@ tags:
   - work
 title: <% tp.file.title %>
 date: <% await tp.file.creation_date("YYYY-MM-DD") %>
-description: 
+description:
 authors: []
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 type:
 ---
-
