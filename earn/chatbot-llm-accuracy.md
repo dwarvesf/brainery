@@ -2,10 +2,11 @@
 tags:
   - r&d
 title: "Chatbot: LLM accuracy with RLHF"
-date: 2023-12-07
+date: 2022-12-07
 description:
 authors:
-  - thanhpham, toanho
+  - thanhpham
+  - toanho
 menu: earn
 toc: false
 notice:
@@ -13,6 +14,7 @@ bounty: 100
 due_date:
 status: Done
 PICs:
-  - thanhpham, toanho
+  - thanhpham
+  - toanho
 type: r&d
 ---

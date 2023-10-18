@@ -2,7 +2,7 @@
 tags:
   - r&d
 title: "Chatbot: memory (few shot) "
-date: 2023-12-07
+date: 2022-12-07
 description:
 authors:
   - thanh
