@@ -29,7 +29,7 @@ for (const element of membersList) {
 		WHERE contains(authors, "${element.file.name}")
 	`);
 	content += `## Written Notes\n\n${memberArticles.value}`;
-
+	console.log(content, element.file.name);
 	// get folder and file path
 	const filePath = app.vault.getAbstractFileByPath(element.file.path);
 	const folder = app.vault.getAbstractFileByPath(element.file.folder)

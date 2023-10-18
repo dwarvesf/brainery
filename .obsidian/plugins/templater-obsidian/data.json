@@ -19,10 +19,6 @@
       "template": "_templater/New Earn.md"
     },
     {
-      "folder": "members",
-      "template": "_templater/New Member.md"
-    },
-    {
       "folder": "memo",
       "template": "_templater/New Post.md"
     },
