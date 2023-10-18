@@ -27,6 +27,7 @@ obsidian.zip
 .obsidian/workspace
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.trash/
 
 # exclude publish.json to avoid account conflicts
 .obsidian/publish.json
