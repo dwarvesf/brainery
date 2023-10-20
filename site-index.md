@@ -1,15 +1,14 @@
 ---
-tags: 
+tags:
   - dwarves
   - work
 title: Index
 date: 2023-09-30
-description: null
-authors: 
-  - monotykamary
+description: 
+authors: []
 menu: main
 toc: false
-notice: null
+notice:
 ---
 ## Dwarves Foundation
 
@@ -21,7 +20,7 @@ notice: null
 - [[discord-publish-braniery|Add new discord command to publish new brainery post]]
 - [[Android|Android]]
 - [[Apprentice|Apprentice]]
-- [[august-forward-engineering|august-forward-engineering]]
+- [[august-forward-engineering|August Forward Engineering]]
 - [[benefits-and-perks|benefits-and-perks]]
 - [[brainery-metrics-report|Brainery metrics report]]
 - [[business-playbook-outline|business-playbook-outline]]
@@ -37,6 +36,7 @@ notice: null
 - [[layer-2-zk-rollup|Design system for layer 2 using ZK rollup]]
 - [[design-sprint|design-sprint]]
 - [[df-workflow|df-workflow]]
+- [[guild|Dwarves Adventure Guild]]
 - [[economic-calendar|Economic calendar]]
 - [[engagament-log|Engagement Log]]
 - [[fbsc|fbsc]]

@@ -7,12 +7,12 @@
       ""
     ]
   ],
-  "trigger_on_file_creation": true,
+  "trigger_on_file_creation": false,
   "auto_jump_to_cursor": false,
   "enable_system_commands": true,
   "shell_path": "",
   "user_scripts_folder": "",
-  "enable_folder_templates": true,
+  "enable_folder_templates": false,
   "folder_templates": [
     {
       "folder": "earn",
@@ -39,7 +39,7 @@
   "startup_templates": [
     "_templater/Refresh Index.md",
     "_templater/Refresh Members' Profile.md",
-    "_templater/Refresh Earn.md",
+    "_templater/Refresh Guild.md",
     ""
   ],
   "enable_ribbon_icon": true

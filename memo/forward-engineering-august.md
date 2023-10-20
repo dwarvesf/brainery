@@ -2,23 +2,20 @@
 tags:
   - dwarves
   - work
-title: august-forward-engineering
+title: August Forward Engineering
 date: 2023-10-16
-description: 
+description:
 authors: []
 menu: memo
 toc: false
-notice: 
+notice:
 type: memo
-template: post
 ---
-# August’s Forward Engineering
-
 As we step into the exciting opportunities of August, we are at a crucial point in the ever-changing world of technology. Our adventure until now has been incredibly thrilling, with a strong focus on 'LLM in Production.' Now, we shift our attention to a topic that is always important and never outdated: **Fullstack Engineering**.
 
 In a world where new businesses and product teams are always changing, there is a high demand for engineers who are skilled in many areas and can handle both sides of the development process. The rise of AI-powered development tools has blurred the lines between front-end and back-end development, making it essential for engineers to know a wide range of technologies and methods.
 
-# Tech Radar
+## Tech Radar
 
 ---
 

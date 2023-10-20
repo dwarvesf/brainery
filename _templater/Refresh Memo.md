@@ -1,8 +1,9 @@
 <%*
 const dv = this.app.plugins.plugins["dataview"].api;
-const bountyPage = dv.pages(`"bounty.md"`);
+const indexPage = dv.pages(`"memo/index"`);
+console.log(indexPage);
 
-for (const element of bountyPage) {
+for (const element of indexPage) {
 	let content = "---\n";
 	for (const prop in element.file.frontmatter) {
 		const value = element.file.frontmatter[prop]
@@ -14,18 +15,14 @@ for (const element of bountyPage) {
 	}
 	content += "---\n";
 
-	const earnArticles = await dv.queryMarkdown(`
-		TABLE WITHOUT ID
-			"[[" + file.name + "|" + title + "]]" as title,
-			bounty + " ICY" as bounty,
-			status
-		FROM "earn"
-		WHERE status = "Open"
-		SORT status DESC
+	const indexArticles = await dv.queryMarkdown(`
+		LIST WITHOUT ID "[[" + file.name + "|" + title + "]]"
+		FROM "memo" AND !"memo/index"
+		WHERE title != NULL
+		SORT title
 	`);
-	content += `## Earn and Bounty Program\n\n`;
-	content += `Our earn and bounty program for all of the open-source work we do at Console Labs. A good portion of the earns and bounties help to improve quality-of-life for our community, creating bots and extensions for our messaging apps, and more serious work such as aggregating data from blockchains.\n\n`
-	content += earnArticles.value
+	content += `## Dwarves Memo \n\n${indexArticles.value}`;
+	console.log(content);
 
 	// get folder and file path
 	const filePath = app.vault.getAbstractFileByPath(element.file.path);
