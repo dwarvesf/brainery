@@ -16,7 +16,7 @@ for (const element of indexPage) {
 	content += "---\n";
 
 	const indexArticles = await dv.queryMarkdown(`
-		LIST WITHOUT ID "[[" + file.name + "|" + title + "]]"
+		LIST WITHOUT ID "[[" + file.path + "|" + title + "]]"
 		FROM "memo" AND !"memo/index"
 		WHERE title != NULL
 		SORT title

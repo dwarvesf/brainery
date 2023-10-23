@@ -4,11 +4,11 @@ tags:
   - work
 title: August Forward Engineering
 date: 2023-10-16
-description:
-authors: []
+description: 
+authors: 
 menu: memo
 toc: false
-notice:
+notice: 
 type: memo
 ---
 As we step into the exciting opportunities of August, we are at a crucial point in the ever-changing world of technology. Our adventure until now has been incredibly thrilling, with a strong focus on 'LLM in Production.' Now, we shift our attention to a topic that is always important and never outdated: **Fullstack Engineering**.

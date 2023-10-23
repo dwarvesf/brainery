@@ -24,7 +24,7 @@ for (const element of membersList) {
 	content += `<div class="profile"/>\n\n${profileTable.value}\n`;
 
 	const memberArticles = await dv.queryMarkdown(`
-		LIST WITHOUT ID "[[" + file.name + "|" + title + "]]"
+		LIST WITHOUT ID "[[" + file.path + "|" + title + "]]"
 		FROM "/"
 		WHERE contains(authors, "${element.file.name}")
 	`);
