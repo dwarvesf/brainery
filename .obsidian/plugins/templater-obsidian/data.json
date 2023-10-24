@@ -39,7 +39,8 @@
   "startup_templates": [
     "_templater/Refresh Index.md",
     "_templater/Refresh Members' Profile.md",
-    "_templater/Refresh Guild.md",
+    "_templater/Refresh Hiring.md",
+    "_templater/Refresh Earn.md",
     ""
   ],
   "enable_ribbon_icon": true
