@@ -71,7 +71,7 @@ In parallel with the AI-centric discussions, we have also seen increased explora
 
 The tags for August include: `#backend` `#test-cases` `#best-practices` `#golang` and many others:
 
-![brainery-tags-august](brainery-tags-august.png)
+![brainery-tags-august](assets/brainery-tags-august.png)
 
 ### **Top Contributors and Notes**
 
