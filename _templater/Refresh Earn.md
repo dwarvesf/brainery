@@ -25,7 +25,7 @@ for (const element of earnPage) {
 		SORT status DESC
 	`);
 	content += `## Earn and Bounty Program\n\n`;
-	content += `Our earn and bounty program for all of the open-source work we do at Console Labs. A good portion of the earns and bounties help to improve quality-of-life for our community, creating bots and extensions for our messaging apps, and more serious work such as aggregating data from blockchains.\n\n`;
+	content += `Our earn and bounty program for all of the open-source work we do at Dwarves Foundation. A good portion of the earns and bounties help to improve quality-of-life for our community, creating bots and extensions for our messaging apps, and more serious work such as aggregating data from blockchains.\n\n`;
 	content += earnArticles.value;
 
 	// get folder and file path
