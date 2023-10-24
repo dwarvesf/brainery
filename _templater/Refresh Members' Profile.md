@@ -18,7 +18,7 @@ for (const element of membersList) {
 		TABLE WITHOUT ID
 			"![avatar\|100x100](" + avatar + ")" as ${element.file.name},
 			join(social, "<br>") as contact
-		FROM "members"
+		FROM "members" and !"_templates" and !"_templater" and !"_index" and !"site-index" and !"README
 		WHERE file.name = "${element.file.name}"
 	`);
 	content += `<div class="profile"/>\n\n${profileTable.value}\n`;
@@ -32,7 +32,7 @@ for (const element of membersList) {
 	console.log(content, element.file.name);
 	// get folder and file path
 	const filePath = app.vault.getAbstractFileByPath(element.file.path);
-	const folder = app.vault.getAbstractFileByPath(element.file.folder)
+	const folder = app.vault.getAbstractFileByPath(element.file.folder);
 
 	// delete the file
 	await app.vault.trash(filePath, true);

@@ -12,10 +12,10 @@ avatar: null
 
 ## Written Notes
 
-- [[consulting-map|Consulting record webpage]]
-- [[discord-role|Rework Discord Role]]
-- [[dwarvesf-map|A webpage showing where the Dwarves from]]
-- [[engagament-log|Engagement Log]]
-- [[fortress-mma-score|Fortress: MMA data]]
-- [[fortress-shanky-data|Fortress: API to show shanky data]]
-- [[financial-literacy-outline|Financial Literacy outline: Phổ cập Kiến thức Tài chính]]
+- [[earn/consulting-map.md|Consulting record webpage]]
+- [[earn/discord-role.md|Rework Discord Role]]
+- [[earn/dwarvesf-map.md|A webpage showing where the Dwarves from]]
+- [[earn/engagament-log.md|Engagement Log]]
+- [[earn/fortress-mma-score.md|Fortress: MMA data]]
+- [[earn/fortress-shanky-data.md|Fortress: API to show shanky data]]
+- [[earn/financial-literacy-outline.md|Financial Literacy outline: Phổ cập Kiến thức Tài chính]]
