@@ -12,11 +12,10 @@ toc: false
 notice: null
 type: null
 ---
-- [[hiring/_index.md|WeAreHiring]]
 - [[hiring/open-positions/iOS.md|iOS]]
+- [[hiring/open-positions/Intern.md|Intern]]
 - [[hiring/open-positions/QA.md|QA]]
 - [[hiring/open-positions/Growth.md|Growth]]
-- [[hiring/open-positions/Intern.md|Intern]]
 - [[hiring/open-positions/Golang.md|Golang]]
 - [[hiring/open-positions/Frontend.md|Frontend]]
 - [[hiring/open-positions/Apprentice.md|Apprentice]]
@@ -28,6 +27,7 @@ type: null
 - [[hiring/additional-info/how-we-work.md|how-we-work]]
 - [[hiring/additional-info/how-we-hire.md|how-we-hire]]
 - [[hiring/additional-info/benefits-and-perks.md|benefits-and-perks]]
+- [[hiring/_index.md|WeAreHiring]]
 
 
 ---

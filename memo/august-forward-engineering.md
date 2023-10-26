@@ -4,11 +4,11 @@ tags:
   - work
 title: August Forward Engineering
 date: 2023-10-16
-description: 
-authors: 
+description:
+authors:
 menu: memo
 toc: false
-notice: 
+notice:
 type: memo
 ---
 As we step into the exciting opportunities of August, we are at a crucial point in the ever-changing world of technology. Our adventure until now has been incredibly thrilling, with a strong focus on 'LLM in Production.' Now, we shift our attention to a topic that is always important and never outdated: **Fullstack Engineering**.
@@ -79,9 +79,11 @@ Our community continues to thrive due to the collective effort of our talented c
 
 Each month, we acknowledge their contributions in our Brainery's **[Latest Notes](https://brain.d.foundation/Latest+Notes)** section, linking their GitHub accounts for further reference.
 
+<!-- col-2 -->
 We also value and encourage our community's interaction on our **[Discord](https://chat.openai.com/discord.gg/dwarvesv)** server. It's a great space to stay updated, engage in lively discussions, and catch up on the latest from us. Be sure to join us there!
 
 ![brainery-discord-gomock](assets/brainery-discord-gomock.png)
+<!-- end-col-2 -->
 
 Here are some noteworthy articles that were shared in our Brainery during August:
 
@@ -173,10 +175,7 @@ We have a lot more to share. If you want to keep up with us, we’d love to have
 
 ### **Get in touch with Dwarves**
 
-Discord: [discord.gg/dwarvesv](https://discord.gg/dwarvesv?fbclid=IwAR0nzdqNuclemLUa7Pg4e2xwAMG2SqPvsD_3EbkVP3p1Oy1c5tl8zHKZPAM)
-
-Fanpage: [https://www.facebook.com/dwarvesf](https://www.facebook.com/dwarvesf)
-
-Website: [https://dwarves.foundation](https://dwarves.foundation/)
-
-Hashnode: [dwarvesf.hashnode.dev](https://dwarvesf.hashnode.dev/)
+- Discord: [discord.gg/dwarvesv](https://discord.gg/dwarvesv?fbclid=IwAR0nzdqNuclemLUa7Pg4e2xwAMG2SqPvsD_3EbkVP3p1Oy1c5tl8zHKZPAM)
+- Fanpage: [https://www.facebook.com/dwarvesf](https://www.facebook.com/dwarvesf)
+- Website: [https://dwarves.foundation](https://dwarves.foundation/)
+- Hashnode: [dwarvesf.hashnode.dev](https://dwarvesf.hashnode.dev/)
