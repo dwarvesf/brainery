@@ -1,0 +1,59 @@
+---
+author: 
+created_time: 2022-02-25
+tags: dwarves
+created: 2022-02-25
+---
+
+
+
+Anh, in short, is the UI wizard behind most of our branding identity. You'll be seeing her work of art on every Dwarves's digital asset.
+
+
+<!-- column_list d8e9a590-64b7-4bc7-8693-37fbce1f27b5 -->
+
+<!-- column 73a7a422-fd5d-42da-8113-6d3d98a6abe8 -->
+
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bacf1b9a-26b6-413b-a698-8b04ad0b0b63/anht-1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202229Z&X-Amz-Expires=3600&X-Amz-Signature=fd276950c5e4ab16de1665501057ddc004de6bb831ce532746ce58b5e4bfb58f&X-Amz-SignedHeaders=host&x-id=GetObject)
+
+<!-- column 616bec77-98f6-4160-994a-c6b7e582ab06 -->
+
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cd5437db-0d94-46df-a2b2-d72d0d712ae6/anht-2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202229Z&X-Amz-Expires=3600&X-Amz-Signature=f34168799157a17d1f227099a1fdfe9d392ee9c69e309ed04823e2558c5faa3c&X-Amz-SignedHeaders=host&x-id=GetObject)
+
+
+### <span style='color:red'>A person can take care of both UX and UI design if the project is small. As a product designer, you're expected to know both.</span>
+
+---
+
+“I work for the graphic side, mainly on UI, app appearance, and app research to gain more insight for the team. Our workload depends on each project. A person can take care of both UX and UI design if the project is small. As a product designer, you're expected to know both.
+
+I've been with the Dwarves for 5 years already. Graduated as a Graphic Designer and after 2 years working on this, I didn't feel so good about my career path. There are just too many designers in this sector. By that time, UX & UI were becoming a thing. People started to know about it. So I decided to try it out. As graphic designers, you're welcome to work on ideas & creativity. But product designers are bound with technology, rules and terms. It was rough at first, but my decision stayed solid.”
+
+
+### <span style='color:red'>It’s the environment that matters.</span>
+
+---
+
+“Newbies usually seek big firms or local companies to start their careers. Since those corps have been structuring their projects, everything was well-developed. Our job was only to maintain and update. But somehow, this blocks me from learning and exploring. I used to jump between 2-3 local corporations since I couldn't find a fitting place to grow in UI & UX design. That's when HR reached out to me, and I knew about Dwarves.
+At the moment, Dwarves was still a startup. This gave me more opportunities to learn since all our projects are brand new. Dwarves have chosen hard mode since then. They were always ahead of their game, and I learned a lot from them. It's the main reason that convinces me to stay this long.”
+
+
+### <span style='color:red'>Communication over everything.</span>
+
+---
+
+“The office was very active before the pandemic. It took people a while to cope with the whole work-from-home mode. But I'm glad everyone was able to catch up with the productivity.
+It's a great experience working here. The journey includes high notes and little stuff that gets on my nerves. 
+
+<!-- column_list 72fdaff5-5f7e-4d47-9d8f-54bda52979af -->
+
+<!-- column 7acf03b8-b85b-4709-b0f8-47000509a7b3 -->
+
+There are times that people have their subjective opinions and are ready to protect them. I used to be the only designer on the team. That makes the communication issue between me with the rest of the developer team much harder. Our work scope is different, and so are our perspectives. We ended up arguing over everything. 
+
+So the team began to hold seminars, mostly to remove the roadblock once a for all. I got the chance to explain my work as a designer and understand things from a developer's point of view. It helped us to walk in each other's shoes. That move revamped our collaboration real fast. We know what others need and prepare to back them up.”
+
+<!-- column 293a1271-8b34-4ca7-923e-abe6e98dd7d1 -->
+
+
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8eb07cbf-e7f8-479c-9a79-4ff02f372392/anht-4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202230Z&X-Amz-Expires=3600&X-Amz-Signature=29e0d5f73d87356336afbaf36bc4a355920cc4cb4aa34476aede968575418ea2&X-Amz-SignedHeaders=host&x-id=GetObject)

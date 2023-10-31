@@ -13,8 +13,8 @@ notice: null
 type: null
 ---
 - [[hiring/open-positions/iOS.md|iOS]]
-- [[hiring/open-positions/Intern.md|Intern]]
 - [[hiring/open-positions/QA.md|QA]]
+- [[hiring/open-positions/Intern.md|Intern]]
 - [[hiring/open-positions/Growth.md|Growth]]
 - [[hiring/open-positions/Golang.md|Golang]]
 - [[hiring/open-positions/Frontend.md|Frontend]]
