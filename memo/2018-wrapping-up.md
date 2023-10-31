@@ -14,7 +14,7 @@ We moved to new office. We welcomed the new dwarves to join us.
 
 We scaled up from 15 to 30ish with all the smart people gathering around and commit to the dream of building our first global software company.
 
-![](https://s3-ap-southeast-1.amazonaws.com/dwarvesf-outline/uploads/34adb8ba-29bc-4ab8-b128-fea45fade09c/0c2a1172-5732-4cae-bb76-57f8c4397987/IMG_9100.jpeg)
+![[4333853d2b402683ec67b4fa5e7c03aa_MD5.webp]]
 
 
 We learned how to do things right and started using it to help deliver quality software.

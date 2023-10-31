@@ -28,7 +28,7 @@ For these current and upcoming triumphs, it’s an honor for me to call for a sm
 To step up means to diversify the way we run.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/76fd6c77-5744-493a-9566-4434478e30a4/Dwarves_Hub_Danang.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202212Z&X-Amz-Expires=3600&X-Amz-Signature=e4bd1d23de411ba5893805d3cc3295e19c09f02f4b7e861965bf4f9a18ee8bd0&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[4d913fb4cbfac771e8b55d79a1855b46_MD5.webp]]
 
 
 ## <span style='color:red'>INTRODUCING THE LEADING CHAIRS</span>
@@ -44,4 +44,4 @@ We like the idea of labeling teams by what they deliver. Hence, the next chapter
 My best of applause to have these rising elements for the next phase of Dwarves.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/083309f8-b003-4611-91bd-43394545c0a3/IMG_4555.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202212Z&X-Amz-Expires=3600&X-Amz-Signature=dbde4087f5cab9be990ea34a8bad633fe1ee6eb1e8babc4d69138b04089d0de3&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[0b2a2535fa84512ad9d05bd2dc24f3ae_MD5.webp]]

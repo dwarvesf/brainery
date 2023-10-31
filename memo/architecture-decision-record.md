@@ -16,7 +16,7 @@ That happens in a long-term project, and that's fine. We believe we're not the o
 * Demo of ADR and example
 * Support tools for ADR
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e08a4fe2-880d-4d32-98dd-fcef6f000984/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202405Z&X-Amz-Expires=3600&X-Amz-Signature=f12defee03899bf23ab9e3e58fbd21e58dbab82a035273e4df6912b152d2c0d2&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[4d815bb79330db7c753064e343bbf411_MD5.webp]]
 
 
 So first, the picture demonstrated a crew of soldiers in a room, seeking for bugs to destroy. Once the bugs were found and the boss asked his soldiers to put an end on it, they told him not to touch anything, because the whole room would collapse. And they all ran out. So no bugs were ended.

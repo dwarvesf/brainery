@@ -26,4 +26,4 @@ We don't believe in retaining people by creating a non-challenging environment o
 So, if you're looking for a place where growth is the norm, come join us at Dwarves. You'll be part of a team that's always hungry for more and committed to reaching new heights. We believe that growth is our universal language, and we can't wait to share it with you.
 
 
-![](https://images.unsplash.com/photo-1494178270175-e96de2971df9?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb)
+![[aa45d5d9f6a7dc8c1d87e835a8be0f87_MD5.webp]]

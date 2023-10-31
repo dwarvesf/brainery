@@ -9,7 +9,7 @@ created: 2023-04-11
 
 ## What is PNPM?
 
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--5LB7xZGh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/o8e2at4huuuv08y24jvg.png)
+![[0f651d536ab6e1811cdf37eb2b15550d_MD5.webp]]
 
 *At Dwarves Foundation, we are always on the lookout for new tech. Researching PNPM was originally from research on what package manager **[Next.js](https://github.com/vercel/next.js/)** uses. We then tried to experiment with it for **[dwarves/react-toolkit](https://github.com/dwarvesf/react-toolkit/pull/46)**, which has given us some insights into some of the cost-benefits of using the package manager.*
 
@@ -35,7 +35,7 @@ Supposing you have 10 Node.js projects on your personal computer if you use NPM/
 
 If you use PNPM, things will be different. It introduces a new concept to us, called a *content-addressable store*. See the image below:
 
-![*(source: **[https://pnpm.io/motivation#saving-disk-space](https://pnpm.io/motivation#saving-disk-space)**)*](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/464be4c9-8cd4-4718-961e-6a2bdaf603f4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202141Z&X-Amz-Expires=3600&X-Amz-Signature=00e32d8fa01a9442ab4d2f28f72623643f61c682fccba07b86aec7b7cd1458d0&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/what-is-pnpm-compare-to-npmyarn/949760adee1b7a897e0b53044b7b0a89_MD5.jpeg]]
 
 As you can see, PNPM does not store packages in the `node_modules` folder, but rather in the content-addressable store. Therefore, in the `node_modules` folders of projects using PNPM, the packages are *linked* from the global store.
 
@@ -49,11 +49,11 @@ PNPM performs installation in three stages:
 1. Directory structure calculation: determining the layout of the `node_modules` directory based on these dependencies.
 1. Linking dependencies: retrieving and establishing hard links from the store to `node_modules` for all remaining dependencies.
 
-![*(source: **[https://pnpm.io/motivation#boosting-installation-speed](https://pnpm.io/motivation#boosting-installation-speed)**)*](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/86e5d4b2-189d-4f69-b1fc-82dbda452564/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202141Z&X-Amz-Expires=3600&X-Amz-Signature=7690e388bc6c9d8e68d13d1a637f41a644124f95e896eef9b6ee237d3b72129f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/what-is-pnpm-compare-to-npmyarn/4cde4958507a5ac4d8e7d614175b57de_MD5.jpeg]]
 
 This approach is significantly faster than the conventional method of identifying, obtaining, and saving all dependencies directly to the `node_modules` directory.
 
-![*(source: **[https://pnpm.io/motivation#boosting-installation-speed](https://pnpm.io/motivation#boosting-installation-speed)**)*](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/629dc048-0687-46b7-97e2-2b6690b0d1ae/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202141Z&X-Amz-Expires=3600&X-Amz-Signature=f1aebdfc7c63612006c17312f1b67753a67b1ab7f4f592c6b03743def3eacbd1&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/what-is-pnpm-compare-to-npmyarn/acaaed15e34c391a1ff6b81bbbf6163f_MD5.jpeg]]
 
 ### **Creating a non-flat node_modules directory****[](https://pnpm.io/motivation#creating-a-non-flat-node_modules-directory)**
 
@@ -126,7 +126,7 @@ Another potential issue with PNPM is that its nested dependency structure may no
 
 Thankfully, PNPM is employed by numerous large companies, demonstrating its effectiveness. For an updated list, you can visit [https://pnpm.io/users](https://pnpm.io/users).
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/196e0dde-ed42-4255-a12a-77b3f25e598e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202141Z&X-Amz-Expires=3600&X-Amz-Signature=1819a7d5affccdcadcc0c091955c51560614e32f59c1850507b6761b4e0030ed&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[55e4a8514dc89f283ed5e6b77d839d42_MD5.webp]]
 
 ## Conclusion
 

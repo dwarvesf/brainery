@@ -9,7 +9,7 @@ At Dwarves Foundation, we pride ourselves on being a team of seasoned technology
 
 ## Basic building blocks
 
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--3KGtx8dm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/yo35aymkgnlgfk6t5fcf.png)
+![[974445b14fdc44d726716ff2a1c499a0_MD5.webp]]
 
 ### React
 
@@ -55,7 +55,7 @@ Although TailwindCSS may initially appear verbose and lead to larger HTML files,
 
 Our frontend applications rely on a thoughtfully designed, multi-layered architecture that guarantees production-readiness and exceptional results. Each layer plays a critical role in the overall performance and scalability of the application.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/769c5e33-0fed-4c51-85f6-ea8ead89812b/architecture.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202145Z&X-Amz-Expires=3600&X-Amz-Signature=7f82c00f9d69343f16083dbf0346d89b31ccb57e0eae8eb25d47fe310d7bd43a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[1ff4c200530392d7cfd5ff04c8edb60a_MD5.webp]]
 
 ### Service Connector: Fetch API
 

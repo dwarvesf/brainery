@@ -9,7 +9,7 @@ created: 2020-05-28
 
 It's in human nature to instantly lose their mind when things get hard, and somehow they split nasty things that can't be undone. So, to reduce the ratio of unnecessary conflicts, let's make the feedback great again.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8bea4c97-373e-4ad9-b6ab-230d30aa6dc4/1_1O2SKbxASqmL8c5Ly9nbTA.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202456Z&X-Amz-Expires=3600&X-Amz-Signature=9261326a0634b3a6e8ea267c01fb18c256c47d1030612a8cee2968ebc6807934&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[87ebb746e32fe99c9e895e0ef1ca29f8_MD5.webp]]
 
 ## Know the Time
 

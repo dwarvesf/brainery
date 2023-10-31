@@ -55,16 +55,16 @@ ENTRYPOINT ["/web/web"]
 * And link library by:`CGO_ENABLED=0 GOOS=linux go build -a -installsuffix cgo -o web .`
 * Build with docker: `docker build -t beego-web .`
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b84fdaf2-0b3b-4c00-aa8a-0c36290f85bd/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202421Z&X-Amz-Expires=3600&X-Amz-Signature=c9d5f62ba42cd13023b57b02673675a94003f8d7cbc889782b63b0b055ce5463&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[9f15d2c4686cfe88873b99b117d8f372_MD5.webp]]
 
 
 
 * Creating an image only takes 17.5MB
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/76d67572-288b-4f41-b72d-baf57dfa819a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202421Z&X-Amz-Expires=3600&X-Amz-Signature=f19596121117f69ffa6a8d9bbf999b1b768e1c7f50298703e9c147999d8b06a0&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[6e719ca68d6f109ffe4061996ee21aa6_MD5.webp]]
 
 
 
 * Your laptop had an image, which is beego-web
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f6bfaea6-e439-44f3-b09d-376fb87174c9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202421Z&X-Amz-Expires=3600&X-Amz-Signature=4c0d066a23da5a4f9a9cb92c8ec3fe329a6d27f2beec41a81e47c080a440396a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[ae0b817a27464a31365a74e65dc37101_MD5.webp]]

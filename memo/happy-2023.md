@@ -24,4 +24,4 @@ I wish everyone health and prosperity in the new year. Good luck to us all as we
 *From Dwarves with <3*
 
 
-![](https://images.unsplash.com/photo-1643695342031-550cac7c8aa3?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb)
+![[1e89b732d608e54d1edb7239b5c5c692_MD5.webp]]

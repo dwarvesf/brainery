@@ -18,7 +18,7 @@ The broker pattern is an architectural pattern that can be used to structure dis
 1. Server-side proxy: calls services within the server, encapsulates system-specific functionality, mediates between server and the broker
 1. Bridge( responsible for communication among brokers): encapsulates network-specific functionality, mediates between the local broker and the bridge of a remote broker
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c04d58b6-9d74-4181-8062-7db4f7eb76ae/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202411Z&X-Amz-Expires=3600&X-Amz-Signature=fe5c735b17a383e6be4fc380c5cf75941df68aac31194b1966882dda449d2729&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[e4d47aa7182bbec713b6dc4f858fb1dd_MD5.webp]]
 
 # The role of Broker Patter
 

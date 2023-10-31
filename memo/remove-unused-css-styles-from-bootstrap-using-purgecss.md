@@ -5,7 +5,7 @@ tags: css
 created: 2019-02-01
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a5e2ca13-4ff6-4a54-943c-b0e1a9be112a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202410Z&X-Amz-Expires=3600&X-Amz-Signature=330fe6d307634f1535a7bba882f4227fb57edbeef5ce13862745ebda4c3e6703&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[50067f1125ee42d2d68068bd93443235_MD5.webp]]
 
 # Introduction
 
@@ -39,7 +39,7 @@ Now look at
 bootstrap-grid.min.css
 ```
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0187f043-3695-4386-8ab4-b1501ae030ca/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202410Z&X-Amz-Expires=3600&X-Amz-Signature=c3b8d10cd1976c2d9cdfa9a07654c3d82822fe9af6be1d7c7c0f3430a763a9e2&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[50067f1125ee42d2d68068bd93443235_MD5.webp]]
 
 Quite huge isn’t it? Thanks to PurgeCss here is the CSS file after being purged will only contain parts of the CSS file (only used selectors), as you can see horizontal scrollbar is not very long:
 
@@ -55,7 +55,7 @@ Basically, you run it against your CSS files and your HTML/JavaScript files. It 
 
 PurgeCSS can be used as a CLI. This is our project structure, we gonna need to transform CSS files so we have to download bootstrap distro and get file we want to transform.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4747d9cd-527c-4de3-bfd1-c5e97a696581/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202410Z&X-Amz-Expires=3600&X-Amz-Signature=2d2f4529a9dc04b5632c2440cfc09025ef61b6c68f80baffe012e592d2d716ff&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[a903c03602f38038a2c4e4eb4344e0b9_MD5.webp]]
 
 
 CLI command syntax
@@ -87,9 +87,9 @@ Then create npm script to run purgecss
 
 Then run npm run build, you should see new bootstrap-grid.min.css in dist folder with unused CSS content being removed
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/27529b33-2d27-4037-b566-0fb99830ed82/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202410Z&X-Amz-Expires=3600&X-Amz-Signature=2582cff06a973285fc5f70407beec3ab51619092e9312d41c3f8f66848dde7f8&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[04ee21f4b60188ce76c21df96695e6cf_MD5.webp]]
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3e6d20d7-4fe4-4175-9306-a62d92b86c57/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202410Z&X-Amz-Expires=3600&X-Amz-Signature=cc8c816d138f4f136ccfca076317e1bc6b384d7549693e79fb45c7e337dc4d74&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[dd640e027b4421ee74d88c2864f0c9ed_MD5.webp]]
 
 You can view full CLI options at [https://www.purgecss.com/cli\](https://www.purgecss.com/cli%5C)
 
@@ -158,7 +158,7 @@ In my index.js file, I simply import bootstrap grid CSS.
 
 Here is the build output which includes CSS grid file
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ca7bf12d-9d40-474d-aa23-907c34a1fc38/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202410Z&X-Amz-Expires=3600&X-Amz-Signature=4984c89b582390aec718b220adbd37e206f4fa6dda4226b77667c61a7d44b63e&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[429bb8c82f4e38465293c6f79d782394_MD5.webp]]
 
 
 To use PurgeCss with Webpack simply install this Webpack plugin:
@@ -219,7 +219,7 @@ module.exports = {
 };
 ```
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/897c26f8-b726-46db-9475-2a3bdcbcd504/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202410Z&X-Amz-Expires=3600&X-Amz-Signature=a1753030a0a4eeabd9624f3b4b7612d0dc3e3ef4d2d115baeea20f79014a5e1c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[97c7bfa1adf49d7c225f00976d99eb8c_MD5.webp]]
 
 
 Full example repository: [https://github.com/PhmNgocNghia/purge\-css\-example\-webpack\](https://github.com/PhmNgocNghia/purge%5C-css%5C-example%5C-webpack%5C)

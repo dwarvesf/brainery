@@ -23,11 +23,11 @@ There are 2 basic forms of communication with a Message Broker:
 
 * Publish and Subscribe (Topics)
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/631a11ec-5ba3-42b3-ba0e-2f5e871cb044/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202134Z&X-Amz-Expires=3600&X-Amz-Signature=2f33dc15bda013a9d7efeb39e8ca8633c2d84a9a94133ac59998ccd71a6acf7b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[60a043f2ead4abd52c76f9fd47b0af68_MD5.webp]]
 
 * Point-to-Point (Queues)
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c653bf40-e777-47cf-ac34-550fd16e0641/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202134Z&X-Amz-Expires=3600&X-Amz-Signature=646f02df37f9811df6bcbf08fec7ced271433bb61de66118c063881668747edb&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[56d936f810e3423ac48427e1d7ca3f64_MD5.webp]]
 
 # When and why to use Message Broker
 
@@ -52,7 +52,7 @@ A consumer takes a message from the queue and starts processing the PDF while a 
 1. An exchange is agreed upon by the producer application and leads them to the right PDF creation queue.
 1. A PDF creation worker (consumer) receives a task and starts processing the PDF.
 
-![](https://topdev.vn/blog/wp-content/uploads/2018/08/rabbitmq-beginners.png)
+![[c17d6fd298e5729424b4b04d7cee315f_MD5.webp]]
 
 ## Advantages and Disadvantages
 
@@ -83,7 +83,7 @@ RabbitMQ and messaging in general use some technical terms:
 * Consuming is similar to receiving. A **consumer** is a program that primarily waits to receive messages.
 * Between the publisher and queue, we also can put a component call **exchange **which has the main function to decide the message will go to which queues. I will explain more about that late.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2d93a2b7-c87f-4760-9d2b-150d064c5eb2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202134Z&X-Amz-Expires=3600&X-Amz-Signature=e410c70a959a3918c93f8ef069918c9cde2397eac6df914f61d28a2de1074efa&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[173f812d33c4807b85a655a67c0dbc04_MD5.webp]]
 
 
 ### Exchanges
@@ -115,7 +115,7 @@ A header exchange will use the header attributes of the message to route it. Hea
 
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5e52a1ce-1645-4ffe-9a3a-396cc58aa454/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202134Z&X-Amz-Expires=3600&X-Amz-Signature=564b8daf6fe49e58cf3ec2bc333b575548c11b53265413b9d9f1d67bc35d964a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[59d782666f97eef826223c424dba2e03_MD5.webp]]
 
 
 The main idea behind Work Queues (aka: Task Queues) is to avoid doing a resource-intensive task immediately and having to wait for it to complete. Instead we schedule the task to be done later. We encapsulate a task as a message and send it to a queue. A worker process running in the background will pop the tasks and eventually execute the job. When you run many workers the tasks will be shared between them.

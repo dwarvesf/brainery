@@ -5,7 +5,7 @@ tags: frontend, engineering, productivity, DX, radar
 created: 2023-07-31
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5b720bc3-dd49-485a-8e31-247d54d119ba/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202127Z&X-Amz-Expires=3600&X-Amz-Signature=78c352de7aa864b6e92c4610c42b75bc3af9098501da3a881e94c6008089557b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[4601b8f71eebe7c7fbc4a6fc7925a8b6_MD5.webp]]
 
 We're excited to share that the Dwarves team has officially decided to switch to [pnpm](https://radar.d.foundation/pnpm-198b80c6b5444f8cb1d11392ddc2bf63) as our primary package management tool. After careful evaluation, we found that pnpm is widely embraced by the development community and has been successfully used by great teams at Vercel, Nx, and Chakra UI.
 

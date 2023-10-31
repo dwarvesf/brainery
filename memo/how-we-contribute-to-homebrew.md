@@ -14,7 +14,7 @@ For now, you can access homebrew via
 * Homepage: http://brew.sh
 * Github: https://github.com/Homebrew/homebrew
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/edcd89e2-8784-4dc4-97eb-61d6c0485018/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202416Z&X-Amz-Expires=3600&X-Amz-Signature=fd6cb27baad97a9db46c762f4fcc717ce67738e23fcb1643460b8e37f84b47b3&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[2cb764be7c789e87ab8df174d9e799e3_MD5.webp]]
 
 
 To install homebrew, you just need to run the `brew` and you will get brew command ready in couple of minutes.
@@ -53,7 +53,7 @@ Note: In this post, we just cover the command line or tool part of Homebrew. The
 
 When you look into the repo of Homebrew, you can easily find the doc directory in `homebrew/share/doc/homebrew/` which contains all the information. The most important file for this tutorial is the `Formula-Cookbook.md.`
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5da5c72e-7084-49f0-aa77-5be10b3b9dbe/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202416Z&X-Amz-Expires=3600&X-Amz-Signature=5adaf85e0ecb7ae9667fbc8805d3d23c9ca72fda516547bb6bce75b43e315534&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[d720976fff56c521e1fb95eb8696c975_MD5.webp]]
 
 
 Basically, when you use homebrew, it will create a separate folder on your machine. Everything usually will be installed in `/usr/local/Cellar` and all formulas was stored at `/usr/local/Library/Formula.`
@@ -64,7 +64,7 @@ So in short, if you want to contribute a new one, you need to create a new formu
 
 ## Fork from Homebrew
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/edd2d5ff-c858-4290-a227-d973e460285a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202416Z&X-Amz-Expires=3600&X-Amz-Signature=d7afcb1a7154719ca41efab56609513feb053f6f52bb7fec3a0a0e058d9e24d0&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[023366a1f0837a41a52f37788092a6fa_MD5.webp]]
 
 For us, we will have a repo called `dwarvesf/homebrew` which we can clone and start from there.
 
@@ -150,7 +150,7 @@ $ brew cleanup
 
 One note for the test block, there are still a lot of formula that try to cheat by printing out the help or version. As a good contributor, you should write good tests for your formulas or your pull request will be rejected (like us)
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/14e657f5-8f75-4b98-8b48-f631d48a82ad/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202416Z&X-Amz-Expires=3600&X-Amz-Signature=c512f27ed856e5705989b4f961d54d26ba9f1d2430333ca7ed873a7a28df455c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[8af79f8ad176a520effb9282ffd621de_MD5.webp]]
 
 ```javascript
 $ brew test $FORMULA
@@ -176,11 +176,11 @@ $ cp -f /usr/local/Library/Formula/glod-cli.rb ~/Workspace/dwarvesf/homebrew/Lib
 
 Commit and push your changes to **YOUR** Github. Then we open the Github Repo (still yours), click on button `New pull request` and we get
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2859eb27-6d38-416a-8908-edadc424fd24/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202416Z&X-Amz-Expires=3600&X-Amz-Signature=803e66ecfa6fd2e01412b15dd51c2bb5340203a43db3f72630bd31a950a5bd10&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[6b2b8ce5d8671f85ddf41e15f637dd04_MD5.webp]]
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5aa65e1a-9a2a-484d-bb63-8541e2b9a5e4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202416Z&X-Amz-Expires=3600&X-Amz-Signature=16626f5b61f499c5b428f195882ab31b62f4d62a19d02f5ffcfcc8f985d4d382&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[096ad9e94b7139c6f99bdac0c463196d_MD5.webp]]
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/803fbcd4-f8cd-46f3-8de9-17392950aa91/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202416Z&X-Amz-Expires=3600&X-Amz-Signature=1e8fc11346be2863bf1f53d183cbe7531eb050b5529c309444f13e96e0e53ef2&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[096ad9e94b7139c6f99bdac0c463196d_MD5.webp]]
 
 
 We did it! You only still need the feedback from Homebrew team. You can leave your keyboard and take a cup of coffee. If everything goes well, well done boss! you have just contribute to one of the famous repo in the internet. Congratulations!

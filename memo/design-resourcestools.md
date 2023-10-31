@@ -96,22 +96,22 @@ Interviews with major influencers in design, business, and technology.
 # Books
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/db61b5cb-9d3e-4696-ac3a-96440d8278e3/Untitled?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202458Z&X-Amz-Expires=3600&X-Amz-Signature=70f61c1cc18c95af3d65e77f3bb23762775a90c191d5e22b1cb8f41556b0aef0&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[1d108bd8a65ff50110c20d550f63945e_MD5.webp]]
 
 A foundational book on UX and Design, introducing design as a competitive advantage in business.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/25542fd1-421b-40f3-a0be-b8e651222af8/Untitled?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202458Z&X-Amz-Expires=3600&X-Amz-Signature=80c5e1de65fd9b4a1c4d677ecd7e968ade49e95a430f662603d0fc29d0c6d1d7&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[9863db6fd97f581087152cab779966e2_MD5.webp]]
 
 A straightforward book on usability, serving as a great introduction to UX.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/847a92f5-bfd3-4656-bfe6-c1c86d4569b6/Untitled?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202458Z&X-Amz-Expires=3600&X-Amz-Signature=7b70f1e5653fa7b22083b6aa7eccad70e130d5cdd7984bae56b6f9389e22b239&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[35a07daafda041800eb792f9dfb52744_MD5.webp]]
 
 An introduction to statistics and data visualization (and how they can both be manipulated).
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f00b4a2c-a060-483a-936e-31037659021b/Untitled?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202458Z&X-Amz-Expires=3600&X-Amz-Signature=997aad994e6f7252626d311ba423c0d90c729f671e7e84ea230534b42bcd73f2&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[22750df99a8ae9d95127999f8d41614b_MD5.webp]]
 
 Part of the Lean Startup movement, this book introduces the process for Lean UX.
 

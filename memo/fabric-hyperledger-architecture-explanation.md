@@ -89,7 +89,7 @@ Base on the properties of a peer, cryptography constructing a pair of public and
 
 **Certificate Revocation List(CRL)**: a list of references to certificates that a CA knows to be revoked.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0b71211a-c3d5-4e66-831b-fd98c8bb78ed/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202421Z&X-Amz-Expires=3600&X-Amz-Signature=8de8255db425accd80311c1c0d450f467f46adac25c28c3b53f137d9d874caa9&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[acecde099998e363519533076028fb4e_MD5.webp]]
 
 
 ### MSP (Membership Service Provider)
@@ -109,7 +109,7 @@ Identifies which Root CAs and Intermediate CAs are trusted to define the members
 * Peer MSP: is a local MSP provides private communications between peer belong to an Organization.
 * Orderer MSP: is a local MSP, function like Peer MSP, only apply for node.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dc2d26d9-4daf-462e-ab38-116306936114/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202421Z&X-Amz-Expires=3600&X-Amz-Signature=762f37a3aa76c55c004cf7f9907fc541ac0b688b663beb2067b7fb5f855cc724&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[a9852ce4f9889dd96d9efe61fd1cdc0c_MD5.webp]]
 
 
 ## Transaction Flow from Application
@@ -118,7 +118,7 @@ Identifies which Root CAs and Intermediate CAs are trusted to define the members
 * Send it to required peers ( indicate by transaction it own )
 * These peers the n become endorsing peers, then independently executes a chaincode -> proposal responses(difference peers can return different, inconsistent transaction responses, application is free to discard inconsistent transaction responses)
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/96fedd91-d0cc-4926-a5a9-06f12f595811/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202421Z&X-Amz-Expires=3600&X-Amz-Signature=f83320a0b1049d29b521d781fb02d133c8151ef69036d2c33511a645d96e732c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[871c33102b9552789598d25986ccd406_MD5.webp]]
 
 * Orderer receives transactions containing endorsed transaction proposal responses from many applications
 * Orders each transaction relative to other transactions
@@ -126,7 +126,7 @@ Identifies which Root CAs and Intermediate CAs are trusted to define the members
 * Strict order: transactions can be packaged in any order into a block, and it’s this sequence that becomes the order of execution
 * No ledger fork: Once transactions are captured in a block, history cannot be rewritten for that transaction at a future point in time.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/801f5cd1-a734-47ed-b9ef-741047538e0b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202421Z&X-Amz-Expires=3600&X-Amz-Signature=ee7e47a2a69010f6d4644de2f86087b5e617d7dfd10562805f7dc5d5290d1dc5&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[4717184a9972241d126ccab41d22390e_MD5.webp]]
 
 
 
@@ -134,4 +134,4 @@ Identifies which Root CAs and Intermediate CAs are trusted to define the members
 * Failed transactions are retained for audit, but are not applied to the ledger
 * Every time a block is committed to a peer's ledger, that peer generates an appropriate event(include full block content)
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/56053c62-ac43-47aa-be56-a8f92d627d53/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202421Z&X-Amz-Expires=3600&X-Amz-Signature=1f2dfec06532a90344178df35c4699bd7f228bbf2688a045854acb0626bd6352&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[2e60ff9cb71f5ecb312418e4228c7964_MD5.webp]]

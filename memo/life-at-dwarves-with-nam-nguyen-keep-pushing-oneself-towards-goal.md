@@ -19,7 +19,7 @@ Với Nam, “được trải nghiệm nhiều điều mới lạ” luôn là c
 
 <!-- column a0535427-cba7-4b77-abe1-c03da2bf6ed4 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/189e431c-d874-4d71-9074-eec0027a118d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202217Z&X-Amz-Expires=3600&X-Amz-Signature=349e4e9ae0e28f21bc1249ccb13c23db782938a83f84a45a8e71d8d3dfdfa4d9&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[d6b7f9003146b59e78897e98860ae7fb_MD5.webp]]
 
 Từ Frontend cho đến QC và giờ đây là Backend cùng với DevOps, Nam chưa bao giờ cho bản thân mình ngừng học hỏi.
 
@@ -49,11 +49,11 @@ Nên anh quyết định tham gia GopherCon 2018, 2019. Ngoài việc làm event
 
 <!-- column b58c9e58-81f9-4ba5-a3cb-e8a6f63bca8a -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5b7f7589-5d62-48c5-b806-273947061264/GopherCon_2018.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202217Z&X-Amz-Expires=3600&X-Amz-Signature=4fdb5a0c3d522259d9b57663f481408b35d150dcb4e7de9a47fd8bd98a633b3b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[db58e2c0129b57ea91027e8ccc549312_MD5.webp]]
 
 <!-- column f7b1d168-37d5-4346-bdf5-7b7e953604c0 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/372851c2-26d9-4d1b-9b0f-aeaa288a7c33/GopherCon_2018_2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202218Z&X-Amz-Expires=3600&X-Amz-Signature=61372f598907fa20912e6cbccdf78f2bc646a58f5850e417dd12fa7abff1e8db&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[18818c254d28a247aa45f57bfcffb86c_MD5.webp]]
 
 Hồi đấy anh còn là một trong những thành viên trẻ nhất trong team. Một phần động lực của anh lúc đó chính là các thành viên của Dwarves - Mọi người rất giỏi kỹ năng mềm. Tham gia tổ chức sự kiện cho cộng đồng là cách anh rèn luyện & chủ động học hỏi để hoàn thiện mình.”
 
@@ -71,7 +71,7 @@ Dwarves giờ phát triển và có nhiều thành viên hơn. Thành ra các b�
 
 Tham gia Discord để gặp & chuyện trò với Nam và team Dwarves: [https://discord.gg/dwarvesv](https://discord.gg/dwarvesv).
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3e43edca-fadd-4fdd-95d3-9ac381bed7c9/2019-06-28_10.02.35_2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202215Z&X-Amz-Expires=3600&X-Amz-Signature=764ca77e6cf2862262c5ea2c2699e5832d2adc345a64371f857ecbf69735695e&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[3ba7431a0e85c8bdb1b663f5d0cc922f_MD5.webp]]
 
 
 ---
@@ -116,11 +116,11 @@ By that time, I was still one of the team's youngest members. So part of the mot
 
 <!-- column 4dc280bc-a512-4fed-9d8f-81b3c008be13 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9f0a6903-1d1b-4a64-add6-df5354325621/GopherCon_2018.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202220Z&X-Amz-Expires=3600&X-Amz-Signature=adbaa329e3a5a94edd5d5d260391d0c006fb236a49c684f449822035669d5978&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[db58e2c0129b57ea91027e8ccc549312_MD5.webp]]
 
 <!-- column 49d798ee-6010-4120-bfa8-1d9851eb058e -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/917698f6-ceef-4d8f-b84f-17748af38fe9/GopherCon_2018_2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202220Z&X-Amz-Expires=3600&X-Amz-Signature=1ca744c71ba482c1ca6da1c0b2a7e6533b388e76afcdee175ca9dad2c63875c3&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[18818c254d28a247aa45f57bfcffb86c_MD5.webp]]
 
 
 ### <span style='color:red'>**The 200% motto.**</span>
@@ -134,7 +134,7 @@ Dwarves is scaling up and getting bigger every day. So as a long-time contributo
 
 Swing by our Discord to meet & chat with Nam and the rest of Dwarves team: [https://discord.gg/dwarvesv](https://discord.gg/dwarvesv).
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e1c6e673-f48d-4b27-9f5c-954be0f6d6a4/Team_building_2019.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202215Z&X-Amz-Expires=3600&X-Amz-Signature=5b8d62732f7d6517f510fb5da7620a9807ac26da6449808be9caf83c3cd3fac6&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[7a80737e168731ddb08a001e5a9d4062_MD5.webp]]
 
 
 ---

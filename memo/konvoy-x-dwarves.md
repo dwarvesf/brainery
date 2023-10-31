@@ -38,7 +38,7 @@ Increase the operational efficiency and profitability of breweries with a flexib
 
 Product Consulting, Staff Augmentation
 
-![](https://prod-files-secure.s3.us-west-2.amazonaws.com/498ebd7b-383c-459f-a9ad-b74073208ddd/851c56c6-804e-4620-845b-fe9d543c4a0c/Screenshot_2023-09-14_at_10.19.04_AM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202123Z&X-Amz-Expires=3600&X-Amz-Signature=20bc3a4ee528d05d8368002416754b2b363945b0c8b1558a75b131a10ccf9a1e&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[9dc23633d853a046448b04fd5b43f189_MD5.webp]]
 
 
 ### In brief
@@ -88,7 +88,7 @@ The strategic collaboration between **Dwarves Foundation** and **Konvoy** has re
 * Implementation of robust monitoring and logging using the PLG stack, ensuring optimal application health and performance.
 * A major revamp of the Admin Dashboard, leading to a more user-friendly, visually appealing, and intuitive interface.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1108caf8-126a-46c1-9c14-cd279b2bbcce/Screenshot_2023-07-12_at_14.01.21.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202129Z&X-Amz-Expires=3600&X-Amz-Signature=5d042daabeb9cacb5dcca191727ed81821170f672e0e5200a1a2eac0bab935ff&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[82158455a3c4433253d356e1b4a3accb_MD5.webp]]
 
 * Dramatic speed enhancements in fetching keg history location and routes, reducing latency response time from tens of seconds to mere seconds – an improvement largely credited to Brad, the leader of the engineering team.
 

@@ -9,7 +9,7 @@ created: 2019-09-27
 
 Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f3d08bdc-5705-455d-96d8-d5dcfb04a140/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202408Z&X-Amz-Expires=3600&X-Amz-Signature=5b1a497d0e91c45ad21aa0af10f46d4567c864daa22fa10ce2b2910f2a85bee5&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[ca7490cb6fe10475c91a359a8177d29c_MD5.webp]]
 
 
 ### **Traditional Deployment Era**

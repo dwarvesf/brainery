@@ -5,7 +5,7 @@ tags: case study
 created: 2021-07-01
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7ba7dc59-58ea-40f2-aad2-b16f5abc8938/momos.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202319Z&X-Amz-Expires=3600&X-Amz-Signature=5e54f32516ff0de7aba562518f8df185f1442721259e03b47a1633e4d5f1e663&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[514bbd80a0d5b2ac3e486b555e76bcac_MD5.webp]]
 
 ### <span style='color:red'>**In brief**</span>
 
@@ -40,7 +40,7 @@ By using Momos as a <span style='color:red'>**centralized data hub**</span>, bu
 
 <!-- column b12ebdd1-2305-4690-9bd8-7850067c0a26 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bd872ffe-038f-4ac9-a848-d2e5a3782e85/momos-ws.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202321Z&X-Amz-Expires=3600&X-Amz-Signature=b267480de089e5cc942f910ea32049df658808555afdbfc724d256f17114bc26&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[7ab1ca707a007169087c6d5f337deac3_MD5.webp]]
 
 The founders planned to <span style='color:red'>**expand the integration**</span> when they found us through their connections. We took the initial step with Food delivery partner (Grab, Foodpanda + Deliveroo), starting with mapping the API into Facebook platform. The priority falls for API mapping and dashboard to analyze the core metrics, create report summary, and measure the product impact.
 
@@ -90,7 +90,7 @@ The weekly achievement is summarized and delivered as weekly change logs.
 
 <!-- column b6389a66-c348-4589-a82d-ee39ed663c3c -->
 
-![Weekly Momos changelog crafted by the Dwarves](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/223a03d8-9544-4f13-8c49-fff9cfb231b4/momos-changelog.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202323Z&X-Amz-Expires=3600&X-Amz-Signature=889e30713595c887be5de92d83de26e38e26c9899bcf9fe8f771c9407b36bf0e&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[f6d49407f04a4f963f2f8dd28b706103_MD5.webp]]
 
 
 ### <span style='color:red'>**Outcome**</span>
@@ -108,11 +108,11 @@ See more at: <span style='color:red'>**[momos.io](https://www.momos.io/)**</span
 
 <!-- column 6aa2c7be-cbbc-486e-ad01-a694aa1eefbc -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/75eceb0c-105d-4d91-a23f-abf63b5b42bd/momos-mkt.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202323Z&X-Amz-Expires=3600&X-Amz-Signature=adb980c8814620f58bb2fd81c0dfd355bf50ef4c97e4bd07a85428c31ade02f6&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[bf1d4c22750395b3792bae00e9c2f441_MD5.webp]]
 
 <!-- column 1b8eee84-e8ac-4be2-962d-c310faca0f13 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d57fe249-5167-4106-b364-776ce50a68cc/momos-content.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202324Z&X-Amz-Expires=3600&X-Amz-Signature=d179646121db42a5bb4044dc497dac7283c320628d45e341d91d125f42d32f15&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[da8b1ed04fc1ec815f6667456352c9b8_MD5.webp]]
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5fac1aaa-ebef-4513-9bc0-9795350df3cc/momos-metrics.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202319Z&X-Amz-Expires=3600&X-Amz-Signature=bd03d2a64f0225fffb9f7a4de1680bf8532574c37e629688ae7c338cb0327be2&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[c252d4367144a36e352020df14f829b7_MD5.webp]]

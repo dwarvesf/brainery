@@ -5,7 +5,7 @@ tags: react.js
 created: 2019-06-06
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2f2fc78c-b90e-429e-aa3c-f91fa189eada/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202422Z&X-Amz-Expires=3600&X-Amz-Signature=a7c6f44ee09d66d0fab7ce820e84782977fecc14ba705c67e47748eddca3015f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[b057b9816631efa15334f5edbd90c8ea_MD5.webp]]
 
 ## Introduction
 
@@ -18,7 +18,7 @@ This repository contains source code for the carousel component which we gonna t
 
 ## Carousel is specifications
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ee0aa0dd-d6b5-4a29-bc4e-51ac12690cdd/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202422Z&X-Amz-Expires=3600&X-Amz-Signature=6330508e34c280eb4242e2f571b60f8046e2e27dd272c5cc51e80e66ae21c4c0&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[873b9dc0badda67e3d5ef65f63c7d160_MD5.webp]]
 
 
 

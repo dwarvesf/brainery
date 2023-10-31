@@ -26,7 +26,7 @@ We can reference https://github.com/trending to make our list. Otherwise, we wil
 
 There are no particular design requirements for this command, but it should use an embed and look similar to the outputs of our other commands.
 
-![example](https://earn.d.foundation/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F498ebd7b-383c-459f-a9ad-b74073208ddd%2F7520df9b-0957-42b3-a0b0-9e957f156b08%2FUntitled.png?table=block&id=985742a1-78f9-4e8f-853f-2aee8f2e1177&spaceId=498ebd7b-383c-459f-a9ad-b74073208ddd&width=380&userId=&cache=v2)
+![[d0b559649b02683978bb96cfc06b1569_MD5.webp]]
 
 ### Filters
 

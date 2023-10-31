@@ -5,7 +5,7 @@ tags: case study, blockchain, crypto
 created: 2022-06-17
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/34041eff-1a08-473a-914c-ead412f30d2a/Screenshot_2023-07-24_at_6.56.23_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202222Z&X-Amz-Expires=3600&X-Amz-Signature=320ab1029942abbe79020369f4a369a1b8db97d63bcf595a91135c52ff8ecddd&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[7a9cdd9e9da725426a2859509b94f1d3_MD5.webp]]
 
 ### <span style='color:purple'>In brief</span>
 
@@ -28,7 +28,7 @@ Move alongside the crypto era, Hedge Foundation works to be part of the industry
 * Use custom Balancer and Forwarder services to deal with rate limits when crawling from almost third parties.
 * Integrate TradingView with custom indicator and drawing tools to visualize trading strategies.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6fadde0a-e6af-4294-8187-086e6bda4fda/nghenhan-forex-data.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202222Z&X-Amz-Expires=3600&X-Amz-Signature=35bd83072ad2c071a8b3749f9533219f9edf527902678068d999a9114ef35c20&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[e498a5a3ab250c4dc8a24a8c1a813cb9_MD5.webp]]
 
 
 ### <span style='color:purple'>The Context</span>
@@ -51,11 +51,11 @@ He visioned Hedge Foundation as the all-in-one managing system for crypto accoun
 
 <!-- column 8f5bc0f0-e418-463e-a343-c9c749486721 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e1270952-c3ef-4855-98e1-abb9d99bdda5/nghenhan-4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202224Z&X-Amz-Expires=3600&X-Amz-Signature=1ce5588e4b69c7263aee2b30d1d7b39dded4f9d6b027886b720fe76919498d9e&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[e47920a7b8c97022ce8bbaecdb21496c_MD5.webp]]
 
 <!-- column 5f4b70b8-fc24-4fc0-902a-c3086da31f35 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/932a47cd-d3aa-4f99-855a-b2167f433b39/nghenhan-2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202224Z&X-Amz-Expires=3600&X-Amz-Signature=4224bbaef5df02f5035fc2314044e495ce754d594d707c1ae1100f6fdf41d0cd&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[a756b023d1f2b51e9426c70b4993f8e2_MD5.webp]]
 
 
 ### <span style='color:purple'>Engagement Model</span>
@@ -104,7 +104,7 @@ The feature list is gradually checked up. Hedge Foundation has met all the premi
 
 <!-- column d70a9c5e-8115-40f3-80f6-95e1be578dbb -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4e0f4ce3-8670-4839-a34f-67052275346e/nghenhan-1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202226Z&X-Amz-Expires=3600&X-Amz-Signature=0d7859dffd912662ad17983acf2e5d47a96e50897f9ddf330f983bb82ea5ceeb&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[a28c16f35596efa1df3a0680b6b1225a_MD5.webp]]
 
 
 ---

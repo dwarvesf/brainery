@@ -23,7 +23,7 @@ And you have no idea what's happening in other places. Teammate. Departments. Or
 
 It's the process of being upfront about various company operations, on the ups & downs. We choose to be straightforward in every issue, as it's everyone's mission to keep the team moving forward. 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2feaa743-505f-4d93-80c0-e6c86610fc80/Screen_Shot_2020-05-29_at_14.27.27.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202456Z&X-Amz-Expires=3600&X-Amz-Signature=e03a6550ed207a6e813da22f5bb5dbd263149c265364b2f98239788a2b62e5a3&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[e154f274bd4946e9b9e6decb621dfe7d_MD5.webp]]
 
 ## Validate the Possibility
 

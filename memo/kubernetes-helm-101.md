@@ -9,7 +9,7 @@ In recent years, Kubernetes has exploded tremendously. At the same time, it crea
 
 **Helm is a Package Manager for Kubernetes**, analogous to NPM or YARN. However, it’s not just the Package Manager, it is also a Deployment Management for Kubernetes. In simpler terms, instead of having to define various Kubernetes resources to deploy an application, with Helm you just type a few commands in the terminal and enter, done.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5b5dead8-7765-4bce-8c61-4920388d9a96/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202413Z&X-Amz-Expires=3600&X-Amz-Signature=0762f9ecf566add26661d2a4b6160962153eaab48b9c5586ddfd3f7f86f18b64&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[6a409c81c3372fda59fd6217eab2fabc_MD5.webp]]
 
 In this article, we will learn about Helm, a powerful tool that makes life working with Kubernetes easier than ever. Although these terms are quite common with developers today, we will skim a jiffy for those who don’t know:
 
@@ -25,25 +25,25 @@ Helm has 4 basic concepts:
 
 * ***Chart***: a collection of YAML files; bundle of the Kubernetes resources needed to build a Kubernetes application. For ease of visualization, Helm Chart can be compared like a Docker Image. Of course, Helm also has a Helm Hub where to search and share Charts for popular apps
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/231df0a7-6a9d-45d4-b91e-0638b194998b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202413Z&X-Amz-Expires=3600&X-Amz-Signature=439c411566d8fdc66aa14bdc31203a7df04104f7dc5b7f9598ca4860fee6f9b2&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[6a409c81c3372fda59fd6217eab2fabc_MD5.webp]]
 
 * ***Config***: a configuration in the values.yaml file, which contains configuration explicit to a release of Kubernetes application. It can be the config for service, ingress, deployment, etc. until specific applications such as Kafka, Consul, Vault, NATS-streaming, etc.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fc431268-dea4-43ca-a839-8b638f75a6a6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202413Z&X-Amz-Expires=3600&X-Amz-Signature=38cd5b7193bebdb7c90c5bb6862f3e323febe90e1075ea8de7cc6f5d9c5a6c92&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[ea686ec580638794529f8054ef266a45_MD5.webp]]
 
 * ***Release***: a chart instance is loaded into Kubernetes. It can be viewed as a version of the Kubernetes application running based on Chart and associated with a specific Config.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/be70d50f-f964-43d4-aba1-d9d0a93a81bd/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202413Z&X-Amz-Expires=3600&X-Amz-Signature=dda3971d0eb38de6a92daec656ace29d287106b720161e74ebb7136ad7cd2a06&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[17c2731e7fc3be306d1da3317bbee37a_MD5.webp]]
 
 * ***Repositories***: a repository of published Charts. These can be private repositories that are only used within the company or public through the Helm Hub. Some Charts may have different versions of many companies or publishers. Particularly, Charts in a Stable repository must always meet the criteria from the Technical Requirements of Helm.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b5c5dc73-8d4c-4ae6-83da-4d316dac72f5/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202413Z&X-Amz-Expires=3600&X-Amz-Signature=a00b576a9b487fafdd4fc9e7c91679d657ec4559f0ad4c358a2a7c7a92c1efa4&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[426db2b83abcad55d8b8ce46b11fa2d0_MD5.webp]]
 
 ## Architecture
 
 Helm has a fairly simple client-server architecture, including a CLI client and an in-cluster server running in the Kubernetes cluster:
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/125c579b-80f0-4201-8669-368257e620ef/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202413Z&X-Amz-Expires=3600&X-Amz-Signature=2f2c7fa7c1f5a34d33eeaf279b93a88dd33cc2a9b2b2f92d83031ddadd698272&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[63fcd3d5115887bdd2e46fd0f8c337b7_MD5.webp]]
 
 * *Helm Client*: Provides the developer to use it a command-line interface (CLI) to work with Charts, Config, Release, Repositories. Helm Client will interact with Tiller Server, to perform various actions such as *install*, *upgrade* and *rollback* with Charts, Release.
 * *Tiller Server*: an in-cluster server in the Kubernetes cluster, interacting with the Helm Client and communicating with the Kubernetes API server. Thus, Helm can easily manage Kubernetes with tasks such as *install*, *upgrade*, *query* and *remove* for Kubernetes resources.
@@ -105,7 +105,7 @@ helm install bitnami/kafka --name kafka --namespace queue
 
 Now, it already installed on your Kubernetes cluster, but it may not work properly for your needs. For me, I usually looking for a values.yaml file, and store it locally to save a specific configuration for instance of the application.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0b1cc862-14e9-445c-a890-0b595b7f763d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202413Z&X-Amz-Expires=3600&X-Amz-Signature=40c68596d878eecae42a8db228d41a913a0450853bb94571ed74fe783c06005f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[cf8bf24ef2e60c2dbc46df36ee6a9639_MD5.webp]]
 
 
 Execute the following helm install command to deploy a Kafka with your Config in `values-prod.yaml`. It will download the Kafka helm chart from the Bitnami repo and apply your configuration via `values.yaml file`.
@@ -117,7 +117,7 @@ helm install bitnami/kafka \
   -f bitnami/values-prod.yaml
 ```
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/79ad180d-8408-4f7b-ad3e-907c761a30d5/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202413Z&X-Amz-Expires=3600&X-Amz-Signature=f2492c76499dfc1d5b6de0bd66c0eb9e2bce1ce60a91b39bed003a46910a1262&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/kubernetes-helm-101/f864eb297f5f2ff0a55adc3876a07a3c_MD5.webp]]
 
 
 Check the install helm chart using this command

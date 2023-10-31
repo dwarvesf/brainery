@@ -8,7 +8,7 @@ created: 2023-05-29
 <!-- table_of_contents 5205cfd6-7c31-4925-96ea-fdaa4b7d7a99 -->
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/27d9e5fe-d9e5-44c2-bd04-8ae48a767340/Screenshot_2023-05-29_at_16.09.15.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202132Z&X-Amz-Expires=3600&X-Amz-Signature=935cfb40c27bd54f797edec6b38370221216fa93429f556060b764e820369037&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[7fbe880aa3a51713c213dc3db6043fc7_MD5.webp]]
 
 
 ### <span style='color:blue'>The Idea</span>
@@ -38,7 +38,7 @@ The concept of InterviewGPT revolves around leveraging AI to create a website th
 In the future, the system will incorporate additional features, including interview history storage, comprehensive evaluations of the entire process, suggestions for suitable positions and companies with active hiring needs. Furthermore, candidates will have the ability to submit their CVs for the system to automatically search for suitable positions.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8ea18173-47d6-4d2b-a237-fe076bb22346/Screenshot_2023-05-29_at_14.57.21.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202132Z&X-Amz-Expires=3600&X-Amz-Signature=616ff497d1809fb799f542873b608274bc80fa383058866290c8d28e019b5371&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[8d4d17b65a040f22cd2482f841361f93_MD5.webp]]
 
 
 Overall, the automated interview system, driven by ChatGPT, offers significant contributions towards an efficient and effective automated interview experience, fostering seamless interactions with users. 

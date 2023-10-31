@@ -41,7 +41,7 @@ For the CLI framework, We are using *[Cobra](https://github.com/spf13/cobra)*. T
 
 ## Application flow
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f439218e-5113-46c8-85e3-0ca2e669f830/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202424Z&X-Amz-Expires=3600&X-Amz-Signature=22d3385d3ca25ec30783a2ce5524c10eb516a629df40f9859a98bcdb010f3416&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[898d0616614b4483301cd1793967a1ef_MD5.webp]]
 
 The tool takes the users' input and extracted its keywords using the TextRank algorithm. Then, the keywords are pushed through a layer of heuristic function to determine where it should get the answer and how to parse the answer. The answer was then summarized using the TF-IDF algorithm and formatted and returned to users.
 

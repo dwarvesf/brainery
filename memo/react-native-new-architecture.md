@@ -8,7 +8,7 @@ created: 2022-06-14
 📖 Introducing react-native's new architecture changes that boost performance, bringing react-native back into the race with Flutter
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/16c50586-b49f-4e65-aa2d-12c2cce677ca/react-native-re-architecture-banner.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202224Z&X-Amz-Expires=3600&X-Amz-Signature=a3b0136f0d2fe284ba0fffebf773746a00e5738a22645c828a5782e064382909&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[ca02c7ac30b22ad423bf3285f8cdaa16_MD5.webp]]
 
 ## Introduction of react-native 📱
 
@@ -30,13 +30,13 @@ The content of the post will include the following main sections:
 
 Basically, the old react-native architecture was standing on 3 threads running in parallel
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2a1bcba3-cf24-47cf-9922-027af9b6827c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202224Z&X-Amz-Expires=3600&X-Amz-Signature=1312bdfcab6bf2f5fbd5f790ba41df6ef544ba401934604f396d29efa736283d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[be56fa7f4ae19c9284e37e61706d1133_MD5.webp]]
 
 1. **JavaScript thread: **Where the JS code is read and compiled and where the React Native app business logic is handled
 1. **Native UI thread:** Responsible for the app's UI, this is where the native code is executed
 1. **Shadow thread**: Where React Native calculates your app's layout using Facebook's Yoga (its own layout engine), which turns flexbox-based styles and turns them into native height, spacing, width...
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/035da268-ee5d-4400-88fd-01f9330dd5ad/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202224Z&X-Amz-Expires=3600&X-Amz-Signature=c08ac789cfd68eca646305b773dab0a63687e0130c989bd2e160e568b3078f48&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[00906c2cfe7b99ad8994125f2dad50e8_MD5.webp]]
 
 ## Cause of congestion, slowness, f**rame drop -** **Bridge  **🐌
 
@@ -53,12 +53,12 @@ Basically, the old react-native architecture was standing on 3 threads running i
 
 Threads based on a JSON signal stream get sent over a Bridge asynchronously, but certain events on the JS thread can block the UI events.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a215efe5-bab8-4f47-a16a-da36c671d158/Screen_Shot_2022-06-14_at_01.28.11.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202224Z&X-Amz-Expires=3600&X-Amz-Signature=bffaf1de510eecc667e45b06d300db1f9e58dd79251b4961c8cc5c05eab3decf&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[044af91a93a00b09540b03b991e4e32a_MD5.webp]]
 
 # 🌟 **What's new in New Architecture **🌟
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e28076c8-8034-4dfa-be6f-e49482f3d7eb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202224Z&X-Amz-Expires=3600&X-Amz-Signature=3e1d401b46801405ed78a7b156c888b070fbe4ccc0e764563946fb4a0b2750dc&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[fb23cab260bd0ec3a95ac7d6a69c461a_MD5.webp]]
 
 * **Fabric: **Fabric is the rendering system, which will replace the current UI Manager.
 * **JSI:** JavaScript Interface, general-purpose layer, written in C++ can be used by the JavaScript engine to directly invoke/call methods in the native realm.
@@ -71,7 +71,7 @@ Threads based on a JSON signal stream get sent over a Bridge asynchronously, but
 * Fabric is the rendering system, which will replace the current UI Manager.
 * The Fabric renderer seeks to improve the interoperability of React Native with host platforms, which are responsible for embedding React Native in Android, iOS, macOS, Windows, etc.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/21732465-3c1b-472d-86a0-d31657e0f07e/Screen_Shot_2022-06-14_at_01.30.54.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202224Z&X-Amz-Expires=3600&X-Amz-Signature=0180553da8f555ddca9f6ae252afdae206825ef0f15bad64d3627184be8c48e2&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[08f9602cedbc58744cf72fc3580bf068_MD5.webp]]
 
 ReactElementTree (JavaScript) --> ReactShadowTree(C++) --> HostViewTree(Native) 
 
@@ -83,7 +83,7 @@ Through the JSI, Native methods will be exposed to JavaScript via C++ Host Objec
 * JavaScript has a direct reference to a native module
 * It calls a method on this native module, via the JavaScript Interface
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4ad635e9-6d0a-4933-85d8-8828c98da5b6/Screen_Shot_2022-06-14_at_01.37.35.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202224Z&X-Amz-Expires=3600&X-Amz-Signature=a5d88bd6b2049db79a191664cb5e68fb74c8123b3f87be8c1229e5f9922b25d7&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[1066bb62cbc4d9beda7e03d43006c669_MD5.webp]]
 
 # **Turbo modules **🚀
 
@@ -91,7 +91,7 @@ Through the JSI, Native methods will be exposed to JavaScript via C++ Host Objec
 * JavaScript will be able to hold reference to these module
 * Which will allow JS Code to load each module only when it is required. This will significantly improve startup time for react-native apps
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/db145db6-4ec5-4111-8829-3f85cccff301/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202224Z&X-Amz-Expires=3600&X-Amz-Signature=5e50e7269ba31f9723d95c874d590b5d8eeffd89f76527b2e2b1947677edf2b2&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[193938237761968661a5f11f23670f3d_MD5.webp]]
 
 ## **The advantages of the New architecture**
 

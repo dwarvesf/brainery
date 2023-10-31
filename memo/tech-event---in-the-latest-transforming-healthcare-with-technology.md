@@ -42,7 +42,7 @@ created: 2022-11-22
 <!-- column c6e938c6-0b66-4c67-8c03-269f949d9d22 -->
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e06b3d9a-546e-4361-803d-2df9a182da63/3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202208Z&X-Amz-Expires=3600&X-Amz-Signature=376f10e0737816129f752c24a0979e4902798ecc9c8d5b43187c242f3d5b33a2&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[5229aebc7cd27591813e0396644ef0bb_MD5.webp]]
 
 
 ### <span style='color:red'>**Young engineers, draw your own roadmap.**</span>

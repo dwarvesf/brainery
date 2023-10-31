@@ -14,7 +14,7 @@ created: 2022-06-23
 * In mid-2022, we successfully built iCross-chain Swap that shortened cross-chain transaction times by up to 15 seconds. This is the first time that cross-chain transaction time has been shortened to seconds.** **
 * It’s a system that requires a safe consensus mechanism between validated nodes in bridges. With that being said, we’re able to create a mechanism that leverages the ability of the decentralized platform’s liquidity
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/808b09e5-cd77-47fe-ba99-f7c03dbb7175/Screen_Shot_2022-06-21_at_09.57.36.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202220Z&X-Amz-Expires=3600&X-Amz-Signature=caa5c94c681f98f6c1c36233490dd01c31b4d5b7bdd60782b4180618fecc660c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[d62f913d7d2981f4fe1322f4dfb4076f_MD5.webp]]
 
 
 ### <span style='color:green'>Technical Highlight</span>
@@ -41,11 +41,11 @@ In addition, users using ICC tokens can benefit from transaction fees on the net
 
 <!-- column 8694a9b3-2c97-458f-835e-0964ed0ac6b0 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9cb28cd6-4683-4188-ae72-0dcf4a2e7df9/spike-1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202221Z&X-Amz-Expires=3600&X-Amz-Signature=8ff5777d886ae24cff5b7f213fb22a6485af9b639a8b11e309e23c81490c892a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[b07699aeef4627805ce87190d57b19ec_MD5.webp]]
 
 <!-- column 03d4ca7d-5175-4662-8c8a-50d001ffb4d0 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/58ee87af-c55b-4fc7-832b-78acc65c7acc/spike-2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202222Z&X-Amz-Expires=3600&X-Amz-Signature=79dcca857adac740c3cbfc1d8749ae49794070a2b2491844955237554b61c43b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[10a286e91bf3c887de8b7ae82ce1a9a2_MD5.webp]]
 
 
 ### <span style='color:green'>Engagement Model</span>
@@ -96,10 +96,10 @@ Icrosschain has successfully developed the bridging solution for 8 chains: Ether
 
 <!-- column 35922750-523f-42bf-96a3-7eefdcc07a32 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/662f267e-f906-40ef-8b0b-229eba1876ef/Screen_Shot_2022-06-21_at_10.07.25.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202224Z&X-Amz-Expires=3600&X-Amz-Signature=cf3b784486e0981ea78a68c633f92cf3f24f50786cab5ff65d00ba1a6aa6b3fb&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[4f51b06b1496a711c0abdc8f1cb543ed_MD5.webp]]
 
 <!-- column f7228945-a285-4147-88d7-75b08dff9238 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f9ade4d5-d41d-4d16-a3a8-ec8c9fba05f5/spike-3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202225Z&X-Amz-Expires=3600&X-Amz-Signature=384fd930af84255380d72b415a7952476d194847854885d9079b959ced81257c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[d3137b95072f99fd861b885ca7a5ccbf_MD5.webp]]
 
 

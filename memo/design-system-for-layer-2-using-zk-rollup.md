@@ -28,7 +28,7 @@ However, zkEVM is not just a compilation but a zero-knowledge compilation. Its d
 State machines are best suited for repetitive deterministic computations, which are common in Ethereum. In contrast, arithmetic circuits will need unrolled loops and thus lead to undesired larger circuits.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/971686c9-d045-4e07-a732-308d04b51629/zkevm-scale-dapps.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202137Z&X-Amz-Expires=3600&X-Amz-Signature=a90a5f80ad6836146bf4cfd4765b2ca5a91f87ad5bbbd55f9dd51ebca26e6fb0&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/design-system-for-layer-2-using-zk-rollup/5c893d5303e63e3b680f53b79b2878de_MD5.svg]]
 
 ## System Requirements
 
@@ -58,7 +58,7 @@ Similar to other blockchains, the system will include the main components of a r
 
 The Aggregator is responsible for aggregating and compressing user transactions into a single proof, which is then validated by the ZKProver and submitted to the Ethereum network via the Ethereum bridge. The Rollup smart contract is deployed on the Ethereum network and handles the creation and management of layer 2 transactions. The Ethereum bridge connects the layer 2 and layer 1 networks, enabling the transfer of assets between the two networks.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b9995980-74e5-4947-8623-ac364e2c1b4d/layer2-component-2023-01-11-1527-2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202137Z&X-Amz-Expires=3600&X-Amz-Signature=85ceb63875d80b01077f0f297b200e709ae2c5cee2a96b0b8bfc0c99701a56bb&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[63557ccfde06ef52ab5c8580590e6b8e_MD5.webp]]
 
 
 ## Components
@@ -79,7 +79,7 @@ The main components we need for the layer 2 system (that also include components
 
 The proof and verification of transactions in Polygon zkEVM are both handled by a zero-knowledge proofing component called zkProver. All the rules for a valid transaction are implemented and executed in zkProver. Prover relies on the transactions to be processed, and the state of the network to calculate the proof. zkProver mainly interacts with two components i.e. Node and Database (DB). Therefore, before diving deeper into other components, we must understand the control flow between zkProver, Node and Database. Here is a diagram to explain the process clearly.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fe854791-0719-4d56-829c-7e82cd4c421b/Prover-2023-01-11-1459.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202137Z&X-Amz-Expires=3600&X-Amz-Signature=612291744331d844824afae097e85bb97a9f31e3e14acc6b84547c52b0a2cdd7&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[6d0dcbf83e5dea68e8d346c66b1637bb_MD5.webp]]
 
 
 
@@ -92,7 +92,7 @@ The proof and verification of transactions in Polygon zkEVM are both handled by 
 
 ### State machine Component
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0167bdaa-d26c-46ce-aae4-c46c655a55a1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202137Z&X-Amz-Expires=3600&X-Amz-Signature=0dba3b7ae8a175f65dd9cd4740a5b02de69a88412a94b143ce2a16e91ae68f65&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[6966283d889117a7e021bfd7d29d47a7_MD5.webp]]
 
 *[https://docs.hermez.io/zkEVM/zkProver/State-Machines/Overview/figures/fig-actions-sec-sm.png](https://docs.hermez.io/zkEVM/zkProver/State-Machines/Overview/figures/fig-actions-sec-sm.png)*
 
@@ -135,13 +135,13 @@ Once the Trusted Sequencer has committed the batch chains fetched directly from 
 
 Execution of off-chain batches will eventually be verified on-chain via Zero-Knowledge proof and the resulting L2 state root will be committed. As the zkEVM protocol evolves, new L2 state roots will be synchronized directly from L1 by the L2 network nodes.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dadee0fc-c3e4-431a-8ca5-e8add1a6df25/Screenshot_2023-03-28_at_15.50.08.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202137Z&X-Amz-Expires=3600&X-Amz-Signature=74cd28b3e10332900818018ee5c6226c907c910df69ea0a14b433e1d815ce951&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[111fc823c12887002c2b8db6b1fb3bd1_MD5.webp]]
 
 ### Bridge Component
 
 The bridge is responsible for receiving and processing requests to transfer information across different blockchain networks. For example, the user wants to send ETH from the Ethereum network to the layer 2 blockchains, the user will send a request to a smart contract on Ethereum or smart contract on layer 2, Aggregator will listen for pre-registered events for processing. You can follow the diagram below:
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/81324c8e-4d01-48b5-a854-8599ac39a533/Untitled-2023-01-11-1442.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202137Z&X-Amz-Expires=3600&X-Amz-Signature=97d95ad98326f75d29a315aba42889039ea86001ca82db1da20e3db50d87d429&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[cf2dd7dd7ccbdbdb75fb3d0f31ca5d68_MD5.webp]]
 
 * The bridge client creates a request to deposit or claim to Ethereum or zkEVM node (layer 2) to start transferring the token
 * The Aggregator will sync events with Ethereum and store bridge events to Bridge DB and update the Merkle tree root
@@ -178,7 +178,7 @@ RPC (Remote Procedure Call) is a JSON-RPC interface compatible with the Ethereum
 
 One node will include all the components as we have shown above. the components will be started and run simultaneously as a whole
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5ae633cf-e70f-4944-8f62-ced5892be35e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202137Z&X-Amz-Expires=3600&X-Amz-Signature=33abaf88e716833f5f3c975394e700f7adc3c257df1fece0b8d1308615adb942&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[554108b34cb2175db1ecec15e3b7bfc3_MD5.webp]]
 
 
 The diagram represents the main components of the software and how they interact between them. Note that this reflects a single entity running a node, in particular a node that acts as the trusted sequencer. But there are many entities running nodes in the network, and each of these entities can perform different roles.

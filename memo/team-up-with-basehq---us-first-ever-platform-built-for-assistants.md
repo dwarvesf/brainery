@@ -5,7 +5,7 @@ tags: case study
 created: 
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c807a126-6627-4733-9969-7f7ebeb602a8/basehq.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202253Z&X-Amz-Expires=3600&X-Amz-Signature=17b67b6b3a1054507ab9732f3954594268f51e4188ad0b35606e4822f8d24739&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[019ef328b59808b45c4541243f71c875_MD5.webp]]
 
 ### <span style='color:green'>In brief</span>
 
@@ -40,7 +40,7 @@ By pulling necessary data into one system, assistants can generate and use data 
 ⚙️ Their goal is <span style='color:green'>an all-in-one platform for critical data</span>. From calendar, tasks, decision stream, digest builders and scheduler. 
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b3f06681-f49f-4d9a-95bd-8e42d52bae8b/Screen_Shot_2021-08-09_at_17.06.15.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202253Z&X-Amz-Expires=3600&X-Amz-Signature=50961e1b1c99a0026e884ae49b51670986610086be3902feb0110142a9b08391&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[3d15a0c958a3f23f8935c803726b9d2a_MD5.webp]]
 
 
 ### <span style='color:green'>Engagement Model</span>
@@ -86,7 +86,7 @@ Currently, we're in the phase of wrapping Availability Offer - Base's most signi
 
 <!-- column 69ef455f-df39-4820-9aa6-6556b5a45531 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/030817c8-a8f8-4192-84f9-7ad97a1b7056/ba-log.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202257Z&X-Amz-Expires=3600&X-Amz-Signature=8fb333b714f4e57fde0c5a099f16ff76e408c4908ac5ed149bfea7bed72ad381&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[3393da02505c90c30f246cf025e31661_MD5.webp]]
 
 Base just rolled out their [101 Demo](https://www.linkedin.com/posts/basehq_base-101-demo-get-back-to-the-base-ics-activity-6800435873860120576-G7ZI) not so long ago, detailedly describe how Base works. 
 
@@ -97,10 +97,10 @@ Base remains as one of our most extended collaborations. We assist them through 
 
 <!-- column adf0a0f8-3fe2-44d6-ab59-8a1501bce973 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f2eb7326-a5b5-4c3e-bbf1-ecd8ce8f44dc/ba-task.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202259Z&X-Amz-Expires=3600&X-Amz-Signature=24263bea19522ebdd42c7db75c61dc37c2fd6399d031fc17f907e781dd5060b5&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[0fc0a747cbb535c9a10b6e797d4a4060_MD5.webp]]
 
 <!-- column 7af252d8-9125-466c-8d49-1e503090d70f -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3b288653-196a-4393-a30b-d5c7e1a3acce/ba-exe.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202259Z&X-Amz-Expires=3600&X-Amz-Signature=8d3487e7d2dcc551d7098a72352155edc31f857d3d5b0f244db445bd82c6ecaf&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[d22f939d826b00d349511d32bf7b6707_MD5.webp]]
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f7f95f17-f0d9-4fcb-a907-c6dacc10dccd/ba-scheduler.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202253Z&X-Amz-Expires=3600&X-Amz-Signature=3b42decbdacb7657c9431c37ae339e1191d6be8f277ac3ac8e781df5e8472130&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[ff9a65b700cebf714977fb219434a0f9_MD5.webp]]

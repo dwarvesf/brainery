@@ -28,7 +28,7 @@ Each convention is written in a compact format so that designers can easily read
 
 ## Manage versions by releases
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/138291bb-e4a7-4eba-a0ef-c98097b3af3f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202447Z&X-Amz-Expires=3600&X-Amz-Signature=ec8cee8d1af7082c9a80ce861382b21c43571ae040b5191f4f3dae604287889f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[1c3f1857f449f57c470ce40efff1bd01_MD5.webp]]
 
 
 On the management of Pages in Figma. This is a recommended structure:
@@ -48,7 +48,7 @@ Devs and the client discuss the design with designers through Figma's comments, 
 
 ## Manage Layers
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/744ca489-d76b-4b7b-8338-a7cac9fd8fa7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202447Z&X-Amz-Expires=3600&X-Amz-Signature=5cd27a4a35a298bdf7640c14179f929d8962840dd09c6a83070848b453edaaf4&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[a46ebf821728ad559bf23e5e6bd7d5a9_MD5.webp]]
 
 
 
@@ -74,7 +74,7 @@ Context: Minh pre-booked room 102 from 19:00 to 20:00
 * [Design Decision]
 * Booking time slots from 18:30 to 20:29 will no be shown as available
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/88021583-c7b1-4ed4-96ff-97f506dcd4be/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202447Z&X-Amz-Expires=3600&X-Amz-Signature=50d5a50766b9e0093d2152870528db271da25322765951aaaa71590e8751a686&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[016986df82ac5332b050a9cf55425f3b_MD5.webp]]
 
 # **Design System File presentation**
 
@@ -83,7 +83,7 @@ Context: Minh pre-booked room 102 from 19:00 to 20:00
 Design System is a tool that makes the component management of the project clear and easy. For more details, please see [this example file](https://www.figma.com/file/6CuLQBxwh1QlLp386Ths7h/Blackpink-Example-for-Design-System-File?node-id=83%3A1098).
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1546e902-9921-40c2-9eb7-d24b97de8bcb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202447Z&X-Amz-Expires=3600&X-Amz-Signature=53f5e74533257e0b43839958aeb025786d835c0df45e03b722127d611d87944f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[9ebb07075efeda26bfeb2a82876bd2ef_MD5.webp]]
 
 ## **Naming Color Style**
 
@@ -93,7 +93,7 @@ Design System is a tool that makes the component management of the project clear
 * Designers complete the color palette, inform developers to add a suffix to the name of the Color Styles
 * When designers make changes to the color palette, designers need to inform developers so they can update their code accordingly.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7dbdefda-7a22-47c4-a8ca-b149ea5bf7ae/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202447Z&X-Amz-Expires=3600&X-Amz-Signature=6a584e4989b9539a23c7fc3bc9c24ec2f5a32d80c7daa7c2e557e7c6ca99861f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[a70427baf7d24194ab5037713ee0a063_MD5.webp]]
 
 
 **Naming Color Style for designer and developer are both convenient in the working process.**
@@ -101,10 +101,10 @@ Design System is a tool that makes the component management of the project clear
 The developer has a way to name the color in the form of numbers (100,200,300 ...). Meanwhile, the designer names the color based on the color's function (Primary, Secondary, Disable….)
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d56b96d5-d0f8-4511-a81c-be7aea0e0274/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202447Z&X-Amz-Expires=3600&X-Amz-Signature=6b963b91ef70712cacc38509f06677b7184c32df47893d77e50b2074788b1faa&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[f7bcaa80f7503bce54c8f48be4535454_MD5.webp]]
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e3aff197-3a9a-44c5-9a65-ee8c638f77a3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202447Z&X-Amz-Expires=3600&X-Amz-Signature=635c27428e95bba3ca03674a07ad72c22cb94c10e29895c79219d711165fff5b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[b37bb057d318c523f8de54660823255a_MD5.webp]]
 
 ## **Tips when using the Design System file in Figma:**
 

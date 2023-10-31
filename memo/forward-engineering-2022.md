@@ -57,7 +57,7 @@ A summary of some trending tags we see in our Brainery. These tags represent wha
 Our company, as well as the industry, is very frontend heavy, so it’s refreshing to see that frontend still has a strong place in our learning endeavors. We’ve been able to hear voices from our backend engineers, our data team, and definitely our community members.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ea484caf-1006-41e4-a7a6-be05b737d86f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202156Z&X-Amz-Expires=3600&X-Amz-Signature=6bfd95edc421d880301cc9c7a7c231a74ae4e0f3ade6460f9ad71e60f645b59d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[fdc3f02efffae1ad50e061ba23e81362_MD5.webp]]
 
 
 ### <span style='color:green'>**Newest Contributors**</span>
@@ -103,7 +103,7 @@ Below are some of the common problems we’ve begun more critical research and e
 * ***Query Database 500M Records, Filter Multiple Table: ***If a day, our database contained 500 million records and despite our customers having to wait five minutes, they were still unable to complete a transaction. How would you approach this difficulty if you were a business owner? We are here to help you find a solution.
 * ***Database Connection Concurrency: ***As a Software Engineer, I'm sure you're aware that when working at the Backend level, we must manage any transactions that occur between our services and the database. Sure, have you considered how we can implement it effectively if you need to interact with more than one entity at the same time?
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8bc42a30-8f53-4df0-bc5d-88f6d45c4e74/Frame_4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202156Z&X-Amz-Expires=3600&X-Amz-Signature=4239feb2ca918e5cb2f1383b9523fca96b15a6a07c7cdd55aa6af69288f2f32a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[5c73807e107d674db4880be752f44319_MD5.webp]]
 
 
 This year, we’ve completed one of our challenges, **Feature Flags**. This was a concern spanning across our DevOps, Management, and Engineering domains. We’re proud to list it as one of our completed challenges:
@@ -183,7 +183,7 @@ Right before New Year, we were able to finish off the year with some exciting to
 [Dwarves Rewind](https://www.linkedin.com/newsletters/dwarves-rewind-6963734647327375360/) is a reading list serving as a collection of news we aggregate weekly. Tech is a very high-paced industry, and rewind helps to serve as a curated list of trending and high-profile topics that everyone can look back on.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0d295ca4-7017-4432-8cc0-fc65c9b37e76/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202156Z&X-Amz-Expires=3600&X-Amz-Signature=279b19f7f9f0b647dd5bdae2a76ada0e2fc8ac2d7fb2fd11dc905deea618273d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[ae9016b58831984c03b5125922855553_MD5.webp]]
 
 
 ### <span style='color:green'>Trending Topics</span>

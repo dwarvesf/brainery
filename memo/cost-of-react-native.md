@@ -7,7 +7,7 @@ created: 2023-04-17
 
 
 
-![*Source: **[https://www.crowdbotics.com/blog/how-to-create-a-custom-gallery-view-in-react-native](https://www.crowdbotics.com/blog/how-to-create-a-custom-gallery-view-in-react-native)*](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/45f9b1e4-0cbd-444a-b0e3-4a6e88d54b1a/React-Native-Img.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202138Z&X-Amz-Expires=3600&X-Amz-Signature=b3a2f3930d2bb5eddb73ee74b86feda2d4ba7a0a72be0b0851932ae1a136821d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/cost-of-react-native/69b49ec589ff19151408b8959ace27bd_MD5.jpeg]]
 
 *React Native is a popular cross-platform app development framework that allows developers to build mobile apps for both iOS and Android platforms using a single codebase. It has gained popularity in recent years due to its ability to provide a native-like experience while reducing development time and cost.*
 
@@ -68,7 +68,7 @@ Coinbase, a leading cryptocurrency exchange platform, uses React Native to build
 Discord, a popular communication platform for gamers, adopted React Native for its mobile applications. React Native allowed Discord to develop and iterate their app quickly. However, they faced challenges in maintaining optimizing specific native features, such as voice and video chat, and needed to develop custom native modules to help address these issues.
 
 
-![*source: **[https://techexactly.com/blogs/top-companies-using-react-native-and-how-they-benefit-from-it/](https://techexactly.com/blogs/top-companies-using-react-native-and-how-they-benefit-from-it/)*](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/65f814df-3283-48d8-ad32-82572024352a/banner-Recovered-1.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202138Z&X-Amz-Expires=3600&X-Amz-Signature=8aacf78f3992ede64e193ef158886f94738e8c48c7f2c57c752f5e2e35ac5e88&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/cost-of-react-native/cb4a01ca2ab93832ae3ffec401441e07_MD5.jpeg]]
 
 # **The development cost of React Native**
 
@@ -81,7 +81,7 @@ However, it’s essential to consider the trade-offs of outsourcing development 
 Furthermore, while React Native is a cost-effective option for mobile application development, it’s not always the best choice. For instance, if the application requires advanced hardware features, such as fingerprint scanning or camera functionality, native application development may be a better choice. Native development provides better access to platform-specific features, but it also increases development costs.
 
 
-![*Source: **[https://vironit.com/react-native-app-development-cost/](https://vironit.com/react-native-app-development-cost/)*](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a226ba8f-86e1-4ec1-81eb-905b96b4ca5f/React-Native-App-Development-Cost-735ox21irlhjam6cyvyql6yj9bjkgnzfqdygs7aw0q8.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202138Z&X-Amz-Expires=3600&X-Amz-Signature=8a72d63c1eaac9dba6c5fc5c4c28fe15dad8b53b12daf1f762d64956020130ae&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/cost-of-react-native/076bec90671c2f71c0fdb93849498a01_MD5.jpeg]]
 
 # **Conclusion**
 

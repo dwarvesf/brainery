@@ -78,14 +78,14 @@ Based on the programming languages, mobile application can be categorized into 4
 
 Still, there are some researches claim that Hybrid App and Cross Platform are the same. Some said these two are different, so I'll put these into 4 types, so the traits of each type can be described clearer.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9a69153b-21d6-4d30-b8dc-01866bebdcf9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202403Z&X-Amz-Expires=3600&X-Amz-Signature=d6c782b9a1175f64e187582082880d1e8b083bcbdd4f79f96e116f9726699a0e&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[56fa2f8d701c84b46a715ca629e77f27_MD5.webp]]
 
 ### Pros & Cons of each Platform
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1cab86cd-d988-46d4-bfb5-ede5c83d9f98/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202403Z&X-Amz-Expires=3600&X-Amz-Signature=e94656b69994a9eeb14612b617f0bd5a78fc9384813e540845658c402a91daee&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[7c641059d4d0fad9e7fd2c85c45edbaa_MD5.webp]]
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/17a95cf6-c268-49a7-99a1-88f719a0d576/Screen_Shot_2021-07-21_at_11.08.53.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202403Z&X-Amz-Expires=3600&X-Amz-Signature=2c1abef8fa1f5d7e80d8651d5ae63d01f45fe75cea380b33412823678d65ddf4&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[3db029547cf3f0df87733d42e499f2b5_MD5.webp]]
 
 ## Useful tips to create effective Mobile Application
 

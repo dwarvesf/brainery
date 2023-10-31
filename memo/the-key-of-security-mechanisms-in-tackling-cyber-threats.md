@@ -45,7 +45,7 @@ Thirdly, build a strong infrastructure. A solid foundation will make it much har
 
 <!-- column 07704fc3-9c99-4c83-a3e4-df6485f5d116 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a7eec568-3d1a-47b5-9fac-7511b0d08c58/7_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202207Z&X-Amz-Expires=3600&X-Amz-Signature=41ab5b47c8187c6ba2d7f6330b060e8fb0278c466fda1a9a48723500d9830e7b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[fa62db10ed0a80b37040e7fd674e6a0b_MD5.webp]]
 
 Finally, all important accounts should enable 2-step security. In today's digital age, a single password is simply not enough to protect your data.
 

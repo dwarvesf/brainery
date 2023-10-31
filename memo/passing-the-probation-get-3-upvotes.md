@@ -26,9 +26,9 @@ More to be found at: <span style='color:red'>**[The Second Period](https://gith
 
 <!-- column 4b60b447-3353-43d9-8f59-70198e67f15a -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5b5ccadf-9ea3-49c8-a556-c1d09d8c4492/team-2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202211Z&X-Amz-Expires=3600&X-Amz-Signature=e66155da92dc979ae9aa2ed82243526011259d30b94349eca8ab901b5f17034d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/passing-the-probation-get-3-upvotes/f3d04cda19cc5bfc2126f840d4dddf1d_MD5.webp]]
 
 <!-- column cb55603a-3552-4f3e-8ce8-bc64e03256be -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/251ac8cb-4548-40f5-befd-e9e62ad7a01a/team-1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202211Z&X-Amz-Expires=3600&X-Amz-Signature=ca73f53bfffc50289669f55c36b01839882c8112f77964345afcb6a91c73f10b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/passing-the-probation-get-3-upvotes/b6627bd506ccd793e7c6177b8c941947_MD5.webp]]
 

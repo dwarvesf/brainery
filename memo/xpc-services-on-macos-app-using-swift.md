@@ -86,7 +86,7 @@ To use the NSXPCConnection API, you must create the following:
 * A connection object on both sides. On the service side, this was described previously in Creating the Service. On the client side, this is described in Connecting to and Using an Interface.
 * A listener. This code in the XPC service accepts connections. This is described in Accepting a Connection in the Helper. Messages.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6ff62bf1-4650-4708-b71c-e8b0297154fc/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202408Z&X-Amz-Expires=3600&X-Amz-Signature=9c85799788ce6d2efa5e391b84ecde19791c4e2217eeff3861d46a55cd517231&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[4f420a9f1bcea4a66160e3c83f2c0870_MD5.webp]]
 
 ## Overall Architecture
 
@@ -154,7 +154,7 @@ myConnection.remoteObjectInterface = myCookieInterface;
 
 Note: For communicating with XPC services outside your app bundle, you can also configure an XPC connection with the initWithMachServiceName: method.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1b75c57e-f838-4762-b4ae-5874c3508874/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202408Z&X-Amz-Expires=3600&X-Amz-Signature=caa33aee4fa1850a7dcb61a9e8638bfdf4e97270f385f731c5b6e7396b763cd6&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[87c72866837ca130efa881629660714f_MD5.webp]]
 
 
 At this point, the main application can call the remoteObjectProxy or remoteObjectProxyWithErrorHandler: methods on the myConnection object to obtain a proxy object.

@@ -28,7 +28,7 @@ With NextJS-Boilerplate, developers can follow a streamlined workflow that invol
 
 What sets NextJS-Boilerplate apart from other boilerplate solutions is its pre-configured tools and established best practices, which help developers save valuable time during the initial setup process. Additionally, by utilizing TypeScript and adhering to coding conventions, developers can maintain consistency, code maintainability, and predictability across various projects.
 
-![[https://df-nextjs-boilerplate.netlify.app/](https://df-nextjs-boilerplate.netlify.app/)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1a2faec8-97eb-4d71-97a5-71305b60e6b6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202142Z&X-Amz-Expires=3600&X-Amz-Signature=9d1c485bbb0b01b08090414399402578523953ea9fb0723c710229f35a77346e&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/accelerate-project-initiation-with-advanced-nextjs-boilerplate-react-toolkit/149cb7501d21ad52e476f168b93085cc_MD5.jpeg]]
 
 ## React Toolkit
 
@@ -36,7 +36,7 @@ What sets NextJS-Boilerplate apart from other boilerplate solutions is its pre-c
 
 What makes React-Toolkit unique is its focus on reducing redundancy and increasing developer productivity. By integrating custom ESLint configurations and Prettier into the library, developers can enforce coding conventions and ensure that the codebase remains clean, readable, and maintainable. Additionally, the collection of pre-built hooks and utilities can help developers write high-quality, maintainable code without having to spend time on solving already-addressed problems or implementing redundant solutions for common tasks.
 
-![[https://react.toolkit.d.foundation/getting-started](https://react.toolkit.d.foundation/getting-started)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a6070789-faed-4083-8587-e55df181ffab/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202142Z&X-Amz-Expires=3600&X-Amz-Signature=78eefde2dcc1b619e64e20b714abb0f68ae9dd8f448261d8e40859c87caf0a59&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/accelerate-project-initiation-with-advanced-nextjs-boilerplate-react-toolkit/8b4ce5b2e752b7bbc96be21b6d2f1349_MD5.jpeg]]
 
 ## **The Outcomes**
 

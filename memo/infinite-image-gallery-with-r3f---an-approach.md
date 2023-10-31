@@ -5,7 +5,7 @@ tags: tutorial
 created: 2020-09-14
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4d1b5398-1305-4bd1-8ed3-c8dbf9e59323/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202414Z&X-Amz-Expires=3600&X-Amz-Signature=3d3c7a14cc4dcffce7dbff5175cbae261a5e5163420fff713daa1a2fb785fb2d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[eb91b6c0aa14997e1a88191e1acaa8dd_MD5.webp]]
 
 
 As I was looking for inspiration on Awwwards, I came across this beautiful little site: [Bien Joué](https://bien-joue.ca/fr/). The site features an infinite image gallery in a 3D space, with some amazing WebGL effects on user interactions.
@@ -36,7 +36,7 @@ I suggest you take a look at my demo app first to have better visualization of t
 * User can click & drag to move around
 * On mouse-down, there will be some distortion effect on the images, depending on their distance to the center of the screen
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3bedacf4-8c53-408a-9bf6-f9c5ceb1a1b6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202415Z&X-Amz-Expires=3600&X-Amz-Signature=23fded24188bee064ae8290c7e53fb059e06b5ed600865ffd7e7a795a9e77da0&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[2e152cf173f2ed991e018bb6126f6cc3_MD5.webp]]
 
 
 ## Building the infinite gallery
@@ -64,14 +64,14 @@ After putting in some thoughts, I decided to go for the below approach:
 1. In stead of tracking every single image’s position, I’ll track the position of them all as a group. This is obviously better for performance, as well as keeping track of the whole grid’s position is clearly cleaner & easier than tracking every single image.
 1. We’ll be duplicating the whole image grid. As a result, I ended up with 3x3 = 9 grids in total, vertically and horizontally, with the original grid in the center:
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/feb7e948-d1a1-4531-88d5-13683a7a1601/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202415Z&X-Amz-Expires=3600&X-Amz-Signature=534afa8a7d757007d8b4504e91d91b2de9d33decdb98801da270ab2ea957201f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[541015267939c46a3258073ebd192e01_MD5.webp]]
 
 We will also keep track of all 9 grids’ order: which is the center grid, which are the clones (the boundary grids), and their respective positions. This is important.
 
 1. On the other hand, we will also keep track of the user’s current “look-at” position (think of this like a camera), which I see as the **center point** - the center of the screen. While user is navigating, in a way we can also say that the user is moving the center point around. **By default, the user will be looking at the center grid.**
 1. Now upon user navigation, we’ll be calculating if the center point is close to the boundary grids, and updating the whole boundary (each grid in the column/row) when needed. For example, if the user is moving past the right boundary, we will update the left column’s position to be after the right bound:
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/516409e8-4d3f-4943-b462-fd2712b189d7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202415Z&X-Amz-Expires=3600&X-Amz-Signature=8c61c3fc010ad82e1580ee2fa9a5aa440ee49734f27d018aaf61e9c4423d0b7f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[8d2876047f5078dfd49bb28cb7703643_MD5.webp]]
 
 After the position update, we will also update the 9 grids’ order: re-calculating again which one is now the center and which ones belong to the bounds.
 
@@ -99,7 +99,7 @@ Having both the image and the grid’s position, we can calculate the image’s 
 
 I want an effect like this graph (also similar to the effect seen on Bien Joué):
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ffe8f46d-1b5a-4bf3-895a-602ee96b80ee/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202414Z&X-Amz-Expires=3600&X-Amz-Signature=541c87c6dbc1ac50ee233deb23b736fcdfc30526f8661a1da7de9ea4124154ca&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[8ae015f43c500413e1239f24be2847cd_MD5.webp]]
 
 You can see that the further a point is from the center point, the greater the distortion, thus the need to calculate the distance between each image and the center point. You can see my demo for a better visualization.
 

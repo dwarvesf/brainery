@@ -13,7 +13,7 @@ During our [recent sharing session](https://www.youtube.com/watch?v=wgKssBAfih8&
 
 A monorepo is a version control strategy where all the code for an organization's projects is stored in a single repository. This centralized approach simplifies code management and fosters greater collaboration across teams.
 
-![*Source: https://www.endorlabs.com/blog/polyrepo-vs-monorepo-how-does-it-impact-dependency-management*](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2a583fd7-6f20-4242-9964-034486a2db78/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202144Z&X-Amz-Expires=3600&X-Amz-Signature=66e7e8644f43a736db74a517f663d5efc8f3ed02debae3a99caa2f5315c50d3f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[31a12727d33e9854fbded1b9fbe36668_MD5.webp]]
 
 ## Why choose a monorepo?
 

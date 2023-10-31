@@ -38,7 +38,7 @@ Process re-engineering is probably the most telling skill. Engineers are not bei
 
 Availability is generally calculated based on how long a service was unavailable over some period. Assuming no planned downtime, Table 1-1 indicates how much downtime is permitted to reach a given availability level.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/eefdfcb5-a664-460e-8769-d00a7fe6ef94/Screen_Shot_2018-02-28_at_12.36.30_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202458Z&X-Amz-Expires=3600&X-Amz-Signature=73d07a41f363a2778677033dd3eba3ea54bd1b14ce2c1fd6b278b64f6f9eafe5&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[9332ba5aa78b621a63f04a098e8ff602_MD5.webp]]
 
 
 Using an aggregate unavailability metric (i.e., "***X***% of all operations failed") is more useful than focusing on outage lengths for services that may be partially available—for instance, due to having multiple replicas, only some of which are unavailable—and for services whose load varies over the course of a day or week rather than remaining constant.
@@ -130,5 +130,5 @@ target environment.
 ## Roadmap 2018
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9be5c733-f369-4f6a-951f-a81940b6383b/68747470733a2f2f692e696d6775722e636f6d2f77706a3570716b2e706e67.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202458Z&X-Amz-Expires=3600&X-Amz-Signature=9624a5f796d86fc6c6087c16a8b853fe32a579e633e6b4f8c6108fe6e715a5ea&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[3ff5afb2faea481c0d85fe0d0f4591b5_MD5.webp]]
 

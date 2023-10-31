@@ -5,7 +5,7 @@ tags: react.js
 created: 2019-05-02
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c7818608-7e5e-4f60-8142-b24456ff6eed/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202408Z&X-Amz-Expires=3600&X-Amz-Signature=b1a9bd8c9d3635e4ef11d1d3eaaf43eeb036c9485623681a826a75d29bb3c444&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[5f86abdbff47c3d17d6258e3b001ceb8_MD5.webp]]
 
 ## Introduction
 
@@ -124,7 +124,7 @@ export default class HOCCOmponent extends React.Component {
 
 React component has some reserve props and children is one it’s. It’s represent anything pass in this component
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/225e3033-7d41-4dc3-85fb-cb39f679f1f0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202408Z&X-Amz-Expires=3600&X-Amz-Signature=521c2faee71f732be943ea03098fd679fd8df4f2b1394f886285430891685576&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[322e43365b34b2a13564d85a3adddcae_MD5.webp]]
 
 For example, The Foo children prop ais the Bar component. The component above use child as a function since react is just the function that return react component. We pass repetitive data and methods that have been stored and processed in HOC Component to children function.
 

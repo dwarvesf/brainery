@@ -18,7 +18,7 @@ The purpose of every story is to bring the audience a little closer to the autho
 Memo is our medium, takes place as the 3rd tab on our current [Dwarves Website](https://dwarves.foundation/memo/). In other words, it's a blog for team researches, company updates, case studies, podcast transcript. Everything about us, in document form.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/069bf6a4-eb6c-4ab2-818e-67f9677d57f2/Dwarves_Memo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202456Z&X-Amz-Expires=3600&X-Amz-Signature=44de89abfa4d50b7b1f0aa78d61e94cca2bfd68c05a483a93f16754252a6df2e&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[239c060cb55e40fa10443ecf782af86b_MD5.webp]]
 
 
 ## How to Use
@@ -43,7 +43,7 @@ A direct parse was conducted from Outline to Memo. Once you hit the 'publish' 
 
 A qualified draft for a blog post should appear like this
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/73e73ea6-a35e-421b-bcc9-cf0fd0713ac0/Format_example.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202456Z&X-Amz-Expires=3600&X-Amz-Signature=461d4042859ee092546d37959ed49c932af29f5579ac3ccc7b71b3c8892f3201&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[3133939df6615e90808d5e5d62d1d44e_MD5.webp]]
 
 ### **Headlines**
 

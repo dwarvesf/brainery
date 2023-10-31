@@ -171,4 +171,4 @@ curl -O http://<bootstrap-ip>:<your_port>/dcos_install.sh
 
 You can access to web interface at `http://<master-node-public-ip>/`and bingo !
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2a43fe88-8975-4b01-8c4e-73e991fef8ba/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202401Z&X-Amz-Expires=3600&X-Amz-Signature=81a0e22dfcf19fe0121dd7ca6fd36c2f65d91039cbd8acbc2f212febe0c4ed21&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[7e7988a963f67f1005ed0e19e2b93e01_MD5.webp]]

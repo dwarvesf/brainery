@@ -20,7 +20,7 @@ User experience (UX) focuses on having a deep understanding of users, what they 
 
 ## **The 7 Factors that Influence User Experience**
 
-![](https://dwarvesf-outline.s3.amazonaws.com/uploads/08852c07-eed1-4703-b411-fe1581277313/5a6cbfa8-ade7-462c-af28-65a2dcea7aa9/image.png)
+![[e75aeb9b90122499635bddc51805aca3_MD5.webp]]
 
 Good design is not just what looks good. It also needs to perform, convert, astonish, and fulfill its purpose. It can be innovative or it might just get the job done.
 
@@ -94,7 +94,7 @@ Here are Jason Cranford Teague’s nine design principles for creating credibili
 
 Findable refers to the idea that the product must be easy to find and in the instance of digital and information products; the content within them must be easy to find too. If you cannot find a product, you’re not going to buy it and that is true for all potential users of that product.
 
-![](https://dwarvesf-outline.s3.amazonaws.com/uploads/08852c07-eed1-4703-b411-fe1581277313/52894ff0-6b65-4cd6-b8d5-dd7adaa34c86/image.png)
+![[77e7ee12b43f15d452c133150959dd8f_MD5.webp]]
 
 ### 7. Value
 
@@ -104,7 +104,7 @@ Finally, the product must deliver value. It must deliver value to the business w
 
 ## What is a good UI Design
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ae239935-5038-4c3f-8bb5-2021d176df2a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202307Z&X-Amz-Expires=3600&X-Amz-Signature=61a1a48913113ff0236434aa132e88940600cd2af2d78f2c7f62782255d21b01&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[e474e00ace9a524ebdff60d52f5e944c_MD5.webp]]
 
 User interface (UI) design is the design of user interfaces for software or machines, such as the look of a mobile app, with a focus on ease of use and pleasurability for the user. UI design usually refers to the design of graphical user interfaces—but can also refer to others, such as natural and voice user interfaces.
 

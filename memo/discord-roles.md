@@ -7,7 +7,7 @@ created: 2023-01-30
 
 To organize our discord and make it fun to interact between community members, we setup those roles for specific purposes. They are ladder-based and function-based roles.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0e799723-6f5d-46fe-b10e-7570e82c721e/Dwarves_Discord_Roles-3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202150Z&X-Amz-Expires=3600&X-Amz-Signature=cbd0180842c2e3b36cde9c82a2321bc85e55a106a4b2cfe9c6aba36d810367bf&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[809b8c41f7237b45d24ab0af9469fa8b_MD5.webp]]
 
 ### Moderating
 

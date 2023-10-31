@@ -18,7 +18,7 @@ SwiftUI came with two companions, which I believe will be the game changers and 
 
 ## Xcode canvas
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/31c23dc0-1854-4b9c-b49c-30455dc7a30a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202404Z&X-Amz-Expires=3600&X-Amz-Signature=e892f842734dac20b151fcafc7ec86a568e500909df828846f0c61d58c364c43&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[120898c723705d91ebf2d810ceabc827_MD5.webp]]
 
 Xcode canvas brings us some nice features.
 
@@ -32,7 +32,7 @@ So, what does this mean?
 
 ## Combine framework
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d0fb2ff2-c49e-4423-a51e-870b205a8b5f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202404Z&X-Amz-Expires=3600&X-Amz-Signature=357d4c9862bcc668dbc1fd6eefbbf84fc32f387e984b9785402adc97bdb246b8&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[9763d9353b8111827278a5ac32b636ac_MD5.webp]]
 
 The Combine framework is a tool to help us make an app in a functional reactive programming (FRP) way. The FRP is just a “style“ of programming, which makes our code more declarative and intuitive. Before the Combine framework, iOS developers would use other third-party libraries like RxSwift or Reactive Cocoa to get the power of FRP.
 
@@ -94,7 +94,7 @@ struct SwiftUIView: View {
 }
 ```
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7cd414bb-a0be-4a14-8216-c86b69e73182/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202404Z&X-Amz-Expires=3600&X-Amz-Signature=3c27975e712005a2f2e28afa9fa12e6b473e9ecb8547b027585f496bc591aed8&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[9d1afc2c27da03af1082096b35e05153_MD5.webp]]
 
 These are the steps for SwiftUI to layout our UI.
 
@@ -130,7 +130,7 @@ struct SwiftUIView: View {
 }
 ```
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/edaec4cf-b05c-44f5-8e6a-d38634ae2f71/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202404Z&X-Amz-Expires=3600&X-Amz-Signature=641eee2d32d5d96a5b5bd88687e106e81dc647ee78d1ad383ea5cd221e7479af&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[015727996aa07cf040f8fe04573a0ab8_MD5.webp]]
 
 There are 3 steps to process the above layout.
 

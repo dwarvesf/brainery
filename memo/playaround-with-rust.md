@@ -132,7 +132,7 @@ fn main() {
 ```
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1274d2ab-b65f-438e-b7bb-d4439390a4f1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202412Z&X-Amz-Expires=3600&X-Amz-Signature=69f5ffcbb12d41001253f444cb9f3ab7b6af68490c8d6157a9be2ce3b6c07b90&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[8b2e8ecd35a0b2b6be39e220dcb4c333_MD5.webp]]
 
 
 In order to correct the function, we just put the lifetime in parameter like:

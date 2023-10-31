@@ -5,7 +5,7 @@ tags: web, engineering
 created: 2023-04-11
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/857ec3cc-e970-49b0-acd9-a14d1c099498/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202142Z&X-Amz-Expires=3600&X-Amz-Signature=5002efd2ccf1822b89d7fe4ebfa8bfa9eb54fffa30ee62a7bcc07b27f025a352&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[eaf982ca480d0677ec9d8fd34553b51a_MD5.webp]]
 
 # Introduction
 
@@ -17,7 +17,7 @@ Unlike traditional translation workflows, Continuous Translation eliminates the 
 
 ## How localization generally works
 
-![*Classical approach*](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cfa5ce3a-7d27-457c-906f-656416f46118/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202142Z&X-Amz-Expires=3600&X-Amz-Signature=f99fe2a4df8d857a4b5ae745c3e7e19271061abaa0b4c926d660aeec12f59a39&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[0ca3440b9dbd840d349d587dd7fd6a1d_MD5.webp]]
 
 The classical or typical approach in any software project will have translated data be coupled with the repository (plus its software release) and its access to the data. This data could exist in a database or directly as a file. Changes to the data would be dependent on the coupling of the git repository and the translation management system, which becomes a blocker for translation teams.
 
@@ -119,7 +119,7 @@ Here are what the steps to use Google Sheets would look like for managing transl
 
 For this approach, we can use [Locize](https://locize.com/) as our continuous localization management platform. This approach isn’t limited to Locize, but the idea is to have a platform to decouple software release from the translation work and minimize work friction for translation.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f72b67ef-fd91-406a-a7a4-7fa6effddf63/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202142Z&X-Amz-Expires=3600&X-Amz-Signature=82e6405340a165c6482ed2240d0a5caedb23da9fd1ced6d716eb980d18af718d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/continuous-translation/5d971ebb8af780ed2ad9e7626daf0d8c_MD5.png]]
 
 Locize has integration support for a variety of frontend systems. You can integrate Locize by following steps:
 

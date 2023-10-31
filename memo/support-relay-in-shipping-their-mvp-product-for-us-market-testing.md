@@ -5,7 +5,7 @@ tags: case study
 created: 2021-04-29
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/05c51f77-90a5-4642-b6de-76d7806446ab/relay-scrn.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202317Z&X-Amz-Expires=3600&X-Amz-Signature=39e5251fc3a579d89abeaef9fc3053c596cda94fae966cebd8bf9d70d6c2e34e&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[7ba0ab212be0b82800b89bcd86505dba_MD5.webp]]
 
 ### <span style='color:blue'>In brief</span>
 
@@ -83,11 +83,11 @@ That comes with <span style='color:blue'>**a Google Extension**</span>, <span st
 
 <!-- column b91d7f4d-86a0-4487-82d0-67183b50821a -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c0216797-38c8-4314-8a90-9538ab861abc/relay-welcome.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202322Z&X-Amz-Expires=3600&X-Amz-Signature=a3dc069697ec9b7316c764e4b2ea1d6752c52497d6732746ecd5ce65221e2628&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[57b30c85eea9fbabca8c8894a019ff71_MD5.webp]]
 
 <!-- column 212e8fb1-17ad-4a84-80c5-c1800e65beab -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8e4cccb1-6076-4bcd-9148-4e66f34a679e/relay-dashboard.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202322Z&X-Amz-Expires=3600&X-Amz-Signature=ab77160e2c2dcd65af9d8ae5a59130fdbd1ecf02f99a7ebb4f840c109517e28a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[cf7deedef0cc5bb418fd945d594c68ef_MD5.webp]]
 
 
 Relay starts to acquire paid users and prepares for their next funding seed. Followed by their <span style='color:blue'>**[May Product Updates](https://teamrelay.medium.com/relay-product-updates-may-2021-f7b3db7002c5)**</span>, we're delighted to be a part of this journey. The work evolves with two more features: Relay Sequence Chart and Relay Progress - both for team productivity boosting.

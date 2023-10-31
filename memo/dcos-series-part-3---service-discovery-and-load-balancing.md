@@ -237,9 +237,9 @@ So, your configuration file will be like this:
 
 1. Deploy it and let’s check `nginx.dwarvesf.com`
 
-![](https://res.cloudinary.com/dwf/image/upload/q_100/v1575368292/Websites/Blog/20170705-dcos-part-3-haproxy-vhost-0_cow1qb.jpg)
+![[93c6fdb9cee529cbeb2a4141d910bb8f_MD5.webp]]
 
 
 or, you also can access by this way `<public-node-elb>`:`<service-port>`
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/57413ef5-088f-491b-99e0-d8dcd8bc8b0b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202402Z&X-Amz-Expires=3600&X-Amz-Signature=6c8c0dc40dad32dd10eb0ef1ca277d351171bd3ca9cb23bce79cbd10e767b117&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[d90d63eed205052f3f560b4a6ebd5fba_MD5.webp]]

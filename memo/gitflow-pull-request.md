@@ -5,7 +5,7 @@ tags: git
 created: 2021-04-10
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e4330fc7-34e0-452c-b082-f8f831b791a3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202419Z&X-Amz-Expires=3600&X-Amz-Signature=6d0902998bdf7a48b37b3a63e562f38e01aa2d52381a99a781ee54cba7582a04&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[0150827f46aae013c7fa3a68c509e812_MD5.webp]]
 
 
 Git is one of the most popular source control. Github is one platform built over the top of Git and well adapted by lots of companies. Knowing the right workflow will help to increase the team productivity. In this post, I will try to cover some of the best practices from the community and the way we applied them at Dwarves Foundation.

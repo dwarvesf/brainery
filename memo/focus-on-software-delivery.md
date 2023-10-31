@@ -29,4 +29,4 @@ Ship the right thing to your users.
 p.s. If anyone blocks you from delivery, they block your way to success.
 
 
-![](https://images.unsplash.com/photo-1581094651181-35942459ef62?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb)
+![[b34c705f1ff97b2dceb3556cfeecf6a0_MD5.webp]]

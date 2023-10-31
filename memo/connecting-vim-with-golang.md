@@ -89,7 +89,7 @@ That’s enough for you to pick Vim up from the ground.
 
 Vim is a text-editor program first built on UNIX, in order to work in non-user interface environment. At this time, the keyboard hasn’t been upgraded completely, which is why the action on Vim is still different from today.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c5d46ec6-d705-47ff-9a21-a2e10d6a1406/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202416Z&X-Amz-Expires=3600&X-Amz-Signature=a6f36f3f1bf45a69baad8085001895f9de0a3500c15c2a217cc446b3b10ed4c3&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[5ca1828b88d41d78ead1d47ac32aeabd_MD5.webp]]
 
 You can practice using these keys by [vim game](https://vim-adventures.com/)
 
@@ -165,7 +165,7 @@ In these:
 
 * nerdtree: Help you organize the folders in vim in folder structure, which makes it easier to open file and folder. After finished setting up:
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d2033176-b5b2-4aa0-a564-257075df3d80/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202418Z&X-Amz-Expires=3600&X-Amz-Signature=f25d8d58387f7bd33f8b36277ef42ec6ad51e6cc74fa088180d39425cc7dcba4&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[ac42721e6ddb17d3204d4596f55f96ce_MD5.webp]]
 
 
 Thanks to plugin of git, you can know which file is under editing, which one has just been added up, and which one has not been committed yet.
@@ -174,7 +174,7 @@ Thanks to plugin of git, you can know which file is under editing, which one has
 
 * neocomplete: Support auto complete vim
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/93055c44-94d4-44eb-a503-18aa08c3f253/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202416Z&X-Amz-Expires=3600&X-Amz-Signature=e137750e1166aa2f2714b8503bc450b719c96855912d84bdd7a6e8185639ea16&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[db43f35dc945a8dde4b51e4b97221c86_MD5.webp]]
 
 
 

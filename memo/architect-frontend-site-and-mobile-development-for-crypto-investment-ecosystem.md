@@ -5,7 +5,7 @@ tags: case study, design
 created: 
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/62b84c20-cd83-4b8e-aad4-da883ce3e481/tokenomy.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202250Z&X-Amz-Expires=3600&X-Amz-Signature=aad68b7b6f5c4e1bf639d08a159e4a0e59789b2584964f1bdf1a552ea9f45bee&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[b20655a884273b1b8ccc6866067ed593_MD5.webp]]
 
 ### <span style='color:blue'>In brief</span>
 
@@ -38,7 +38,7 @@ The Android app is expected to release first, followed by applying the new desig
 With a team of 4, we work along side with them to make sure the progress moves forward. 
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fc40b7d8-44c9-4198-a726-9b8466045261/tokenomy-2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202250Z&X-Amz-Expires=3600&X-Amz-Signature=ce9a46bc41ad9782980ec26a6569d9764d67bd23c510bba97640428ffd62e1ec&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[d96b9989d4c51b4c56fa6606fc0e7c98_MD5.webp]]
 
 
 ### <span style='color:blue'>Engagement Model</span>
@@ -56,7 +56,7 @@ The app supports dark/light theme switching, data caching, and retrying failed A
 
 <!-- column b18d586a-88f6-45b9-ac9a-1c7732af2277 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3b26c9e2-47da-4b4b-8c5f-428c6e2c48cb/toke-architecture.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202251Z&X-Amz-Expires=3600&X-Amz-Signature=5babb0cc1c6cf42e7426efbdcad1e46f65df4ab52d7fe77ffa110ef12eeb45a8&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[ba8c0a78e8ba694a66084cddfd15c53e_MD5.webp]]
 
 Every UI and user flow get reviewed before implementation. That's how we give feedback to the product team. We keep everyone on the same page with weekly product changelogs.
 
@@ -92,14 +92,14 @@ The architected solid frontend foundation allows their new features to be implem
 
 <!-- column 7bbbb572-eed3-46b3-b8fe-ba5fab91c6b2 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bbce55f3-1ec1-4a4b-8a97-c7d75d875b72/toke-light.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202253Z&X-Amz-Expires=3600&X-Amz-Signature=89af4218fcf406e9ff3caaed71343d0e892dbcee05177cc3fb6b13c5bbde68eb&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[5ed994f543d12d33b13a0c4ddbe2fdd5_MD5.webp]]
 
 <!-- column 4607766f-bb43-45eb-a9a9-03b121333d1f -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0f15aa6e-fa7d-4c43-ac37-af41dae1ee3f/Onboarding_2_Dark.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202253Z&X-Amz-Expires=3600&X-Amz-Signature=4e0feba6c47912d5c5ed5e86682f51f817d444addedec4c51fb56809f105d551&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[e1eb25446c7780fecc60e959ab784b3f_MD5.webp]]
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/19da67ef-831e-4009-827f-f1f4a49f0fc2/toke-ws.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202250Z&X-Amz-Expires=3600&X-Amz-Signature=593cee98d25be319313a02adfce356499db874b9ae0cd25aef4277720f911956&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[d464b8b171de78c5007777ac2c8a2682_MD5.webp]]
 
 
 

@@ -21,7 +21,7 @@ Meanwhile, **#blockchain** **#web3** channels are there for the Dwarves to learn
 
 The teammates also propose to join blockchain projects. We’re happy onboard Hien, Tu and Ngoc Mai on Spike Inu and Eklipse -  and actively seek more chances for our teammates.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ad0e0adb-7d7a-4636-a37b-210285f418ab/true-blockchain-project.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202236Z&X-Amz-Expires=3600&X-Amz-Signature=20abb281d7a7582552d1e0c44fb64ad9367be090060301a6aa9faac0d1e142d2&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[61172e1155a4a184faddc31bf62d492b_MD5.webp]]
 
 ## Selective in Project Decision
 
@@ -38,7 +38,7 @@ We were able to drop the long-term projects that no longer match our business di
 A special congrats to Cuong Mai, Tom & Ngoc Mai for passing the probation and becoming the Dwarves for real. Last month brought us Phat Ha, who’s currently in charge of Nghe Nhan Trading. The Dwarves are growing, by all means. 
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3bd6d0d2-d713-414f-b6be-ba21b306e5bf/grow-team.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202236Z&X-Amz-Expires=3600&X-Amz-Signature=9798b4544ae802f898e6b0b638619ee15737f7a807385549b11177f067d68eb8&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[e3077e1e538246f43986740a60bbe2a8_MD5.webp]]
 
 
 <!-- column_list 31039ce5-a174-4b92-98f9-886f92f7da97 -->
@@ -82,11 +82,11 @@ Here’s to rock 2022!
 
 <!-- column 9d742e33-60ec-4772-b51c-019a752ae232 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ffd30b8d-d52c-4dce-9cd5-ee3e49dc597b/true-team-post.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202240Z&X-Amz-Expires=3600&X-Amz-Signature=0eb2565f45ac43677a6b1edcc505a5a8a5b32408d7249791e652c393b16c286b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[ff19993744fb6047810b5411ce69b707_MD5.webp]]
 
 <!-- column ceeea0c8-e4d9-42f9-86e9-b24d8dd12479 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ad221426-8dd8-4c4f-a34b-6d64a136312c/real-merch.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202240Z&X-Amz-Expires=3600&X-Amz-Signature=b22bd14eeace114526c1d087516766d0aa098ee60530ddc221db061843d6106c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/december-all-hands-meeting/fd61221cb31785842fecd3ff2339aab6_MD5.webp]]
 
 
 

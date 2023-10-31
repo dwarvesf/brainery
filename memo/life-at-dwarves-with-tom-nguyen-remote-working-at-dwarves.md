@@ -14,11 +14,11 @@ A catch-up with Tom - our Data Lead, and hear how remote working has fit him per
 
 <!-- column 360811a8-afc4-462c-afdd-85e77cf82ede -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/77cbceff-b214-4c85-a132-c4c739a46ec6/tom-1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202229Z&X-Amz-Expires=3600&X-Amz-Signature=9c188212404ce882bb32651818802df18ff2464027676e29f24a8ef1046eb94f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[2774f85a6539584bd90c345344f142f8_MD5.webp]]
 
 <!-- column 6766d99b-5ac9-4333-b3a5-e209095c7c04 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/251ea2b4-5a01-4019-b933-6677db751eb6/tom-2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202231Z&X-Amz-Expires=3600&X-Amz-Signature=9cbd8d2c6844102914df86f9f64e28f3d1499148a745be7ccfd7ef84a1452d07&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[23e7e12588d10f00b12bc32d7b510a50_MD5.webp]]
 
 
 ### <span style='color:red'>Working remotely fits me well. It keeps me from distraction.</span>
@@ -42,7 +42,7 @@ Going to the office can make you focus on your work. But it's more enjoyable at 
 <!-- column 8b8357ff-7d65-455a-8b31-a638546b15de -->
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e270d52d-5ded-4350-be14-02f6a7346a45/tom-desk.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202234Z&X-Amz-Expires=3600&X-Amz-Signature=949cc7c0437f7ccff405d9836cb2b913a6b00c11510ff0e49fb49114b891ed14&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[4c39af0ca3f74b8a4f41d92a6eecadd8_MD5.webp]]
 
 
 ### <span style='color:red'>Remote working can significantly benefit when you use it wisely.</span>

@@ -17,7 +17,7 @@ Concurrency means “out of order” execution. Another concept talk about concu
 
 Parallelism is doing lots of things at the same time like other running tasks on a multicore processor. Let’s come back with the example above. Instead of taking order my mother, I play the game and listen to music at once freely. In this case, playing game and listening to music is "lots of things".
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a8db4224-3ed7-415a-902c-fe44cd4cbb05/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202418Z&X-Amz-Expires=3600&X-Amz-Signature=8e3955bdaa85cc115d2bf83ef4b5786fb4e9e3ac91a4d01b8315ea1561d79bc4&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[9cb01cacb1edc3373acd7570cc280cd7_MD5.webp]]
 
 After understanding the way to compare concurrency with parallelism, we can research about Goroutines/channel and other well.
 
@@ -26,7 +26,7 @@ After understanding the way to compare concurrency with parallelism, we can rese
 Goroutines can be understood like a light weight thread. Instead of OS, Goroutines exists only in the virtual space of Go runtime. A Goroutines is started up with initial 2KB of stack size (This is the location where store answer of the question "what is this Go routine's current state?". It is contains local variables as well as pointers to heap allocated variables). Because Go’s stacks are dynamically sized, growing and shrinking with the amount of data stored. So we need only 4KB memory for Goroutines.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f629a657-7652-455e-987a-cef67223a402/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202418Z&X-Amz-Expires=3600&X-Amz-Signature=8d1cb65c7dd6be1a3e98d7d1adbd6e04a323710729660f9bb339e869782c6a52&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[d82335b0ffffc63ae92aa7339a5867e8_MD5.webp]]
 
 
 Goroutines are cheaper than others thing like it (thread) in other programming language because of ability growing and shrinking depend on programmer's desire. e.g a Java thread initially have 4MB while go-routine is somewhere around 2KB.
@@ -56,7 +56,7 @@ For buffered channel, providing the buffer length as the second argument to make
 
 Capacity should be greater than 0 for a channel to have a buffer and we can send data to our channel until this is full, similar receives will not block when we read data until empty.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d66cdce4-f43c-4115-9bf5-78f9c6786e07/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202418Z&X-Amz-Expires=3600&X-Amz-Signature=34de538d784c63d9e663cbe8ead5e2faf2596c5afafc805c3789e4508ae95199&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[eb379f648c223af56819605adfeb118d_MD5.webp]]
 
 
 ## Under the hood
@@ -67,19 +67,19 @@ When we implement a Go channel, a struct will be created, then it looks like fol
 
 To have a comprehensive view, we have a few descriptions about the fields encountered in the channel structure.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4d7b1c1f-7c40-4707-b423-249752b15d34/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202418Z&X-Amz-Expires=3600&X-Amz-Signature=3643c8886542d8386c20b974a8151db861b7726ebf68ceb247d9a292d59bcc32&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[23c2cb6d27ce23dcdc500decd9a59398_MD5.webp]]
 
 * **buf** is the location where our data is actually stored. It is a circular queue.
 * **dataqsize** is size of the circular queue. It represent capability of channel. When we declare make(chan int, N), **dataqsize** is N. It also let us know how many Goroutines can write data into this channel until blocked
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/999e0e45-7f84-491a-93f0-4a123dbe7179/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202418Z&X-Amz-Expires=3600&X-Amz-Signature=78725c621e66fa62b91a303d8cd9adfdf2c3c419c4d0202b9f61a412744c4ca6&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[966768c61d35099632b9e31f581807c6_MD5.webp]]
 
 * **qcount** represents the number of slots in the buf currently filled up.
 * **elemsize** Is the size of a channel corresponding to a single element.
 * **elemtype** used when messages are copied over from one Go-routine to the other. It has a bunch of fields which provide type and size information for the type of values the channel can hold.
 * **closed** Indicates whether the current channel is in the closed state. After a channel is created, this field is set to 0, that is, the channel is open; by calling close to set it to 1, the channel is closed.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a9a2bb07-55d6-4a8f-85ec-f2efa5955bf3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202418Z&X-Amz-Expires=3600&X-Amz-Signature=3b105b36c56416667c2aa2c9b620ee6b0cf7813256d565257a454ea5053fc089&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[80543471c1dd9c44e63c7fa281d4b6c0_MD5.webp]]
 
 * **sendx** and **recvx** indicates the current index of buffer — backing array from where it can send data and receive data.
 * **recvq** and **sendq** waiting queues, which are used to store the blocked Goroutines while trying to read data on the channel or while trying to send data from the channel.
@@ -89,7 +89,7 @@ To have a comprehensive view, we have a few descriptions about the fields encoun
 
 We mentioned about sudog struct above. What is sudog? See the following image:
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f9bf6f3d-ef3d-4783-9821-7d4d862e0aec/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202418Z&X-Amz-Expires=3600&X-Amz-Signature=ff9b333bf5d98db41b4321538cd1b7efdd800bcb422389ec3c734e3b656b2c9b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[2ec27e55f9c531e5aab4f885f5915f30_MD5.webp]]
 
 
 We have a full description for sudog struct in source. If something confuse, ignore it by looking at the original concept. Then we have a good description about sudog: sudog represents a Goroutine. recvq and sendq hold the information on the Goroutines which are currently blocking on the channel while receiving and sending respectively. They are pointers to sudog.
@@ -97,19 +97,19 @@ We have a full description for sudog struct in source. If something confuse, ign
 
 An example to know what happen when we declare Goroutines and channel.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fc0f6a0e-23ef-4d06-9c69-0d5c94614ecc/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202418Z&X-Amz-Expires=3600&X-Amz-Signature=79c1bf72628fe53efdef8989b47b54823a01e418d7963def8fdc71ec3fea1b42&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[026784030ef13c5d006328ea47cfc657_MD5.webp]]
 
 
 What will be the structure of the channel before line **No 22?**
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0e5e1d3c-6763-461e-8ae0-c01adf6ce75a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202418Z&X-Amz-Expires=3600&X-Amz-Signature=d29f8172213fed53c982a9ff6c8bce2fabcd9c435b9c4d269bd614a05088fe36&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[28bee5f5381e186532a5ceda7746c017_MD5.webp]]
 
 
 In Our Example Code before line 22 there are two Goroutines (goroutineA and goroutineB ) trying to read data from the channel ch.
 
 Since before line 22 on a channel, there is no data we have put on the channel so both the Goroutines blocked for receive operation have been wrapped inside the **sudog** struct and is present on the recvq of the channel. **recvq** and **sendq** are basically linked list, which looks basically as below
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f829f5a0-af1f-4c06-ac07-0a7be436c6c2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202418Z&X-Amz-Expires=3600&X-Amz-Signature=fc9857d182e76969e96de94b9dcac80975edbe9ffefd82b86bbe1be9e026d06b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[2da8e4e08c9af6c09a70149ce0bee0c1_MD5.webp]]
 
 
 ### Go scheduler
@@ -126,7 +126,7 @@ If you are running on Linux, Mac or Windows, you are running on an OS that has a
 
 Existing a piece called Program Counter in a Thread that allows the thread keep track of the next instruction to execute.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/11d14727-28ef-4fd3-8498-2654a32a4f56/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202418Z&X-Amz-Expires=3600&X-Amz-Signature=07ea7b6e815f7ec86504d28edc30673ded7c68f958846d3675691d525f732eed&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[bf66c5b925d9c162acc9d0fb055c353e_MD5.webp]]
 
 
 There are 3 states in thread
@@ -148,7 +148,7 @@ After surfing over above all things, we have ability to understand following par
 
 When our program start up, it’s given a Logical Processor (P) for every virtual core identified on the host machine. So how many virtual core exist in your computer? Suppose that we have a Macbook with following system report:
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a2f7e071-0440-4f2f-ab58-a2431ff5af7f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202418Z&X-Amz-Expires=3600&X-Amz-Signature=b19d7a7235ffa67292ec0b16943ce947e5fbce950541d68fa18eeb3e380583ae&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[8c56d98dd1917a5c479f487977ccfb9f_MD5.webp]]
 
 We have 1 processor with total 4 cores. As you see the report don’t let us know directly how many virtual core here. But the Intel Core i7 processor has Hyper-Threading, which means there are 2 hardware threads per physical core. This will report to the Go program that 8 virtual cores are available for executing OS Threads in parallel. In another word, a hardware thread serve for a virtual cores.
 
@@ -163,7 +163,7 @@ Each P is given a Local Run Queue LRQ that manages the Goroutines assigned to be
 
 Following figure provides an image of all these components together
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/94d6c58c-6cb3-4f6e-9a29-e83e91f1f10d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202418Z&X-Amz-Expires=3600&X-Amz-Signature=78594319a59027f80dc682b9c2fbb83bedab9ac10dbfcd6df26b1ac07c27a55d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[ad2ef462e022466f3eab445763ef2bda_MD5.webp]]
 
 
 The Go scheduler is part of the Go runtime, which is built into our application. This means the Go scheduler runs in user space. The current implementation of the Go schedule is a cooperating scheduler that needs well-defined user space events.

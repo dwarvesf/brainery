@@ -67,7 +67,7 @@ In parallel with the AI-centric discussions, we have also seen increased explora
 
 The tags for August include: `#backend` `#test-cases` `#best-practices` `#golang` and many others:
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d531e22b-d7b9-45ba-b65f-def2d69bf85e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202124Z&X-Amz-Expires=3600&X-Amz-Signature=7237bbce0a8a829e012b620b21c08f779c4ad6114aed95a96d4f10a2bf08dd5b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[6ee23ade19901e6c8634676424d18388_MD5.webp]]
 
 ### **Top Contributors and Notes**
 
@@ -83,7 +83,7 @@ We also value and encourage our community's interaction on our **[Discord](https
 
 <!-- column 777c63f5-5308-4212-81f0-bdc15eae80d5 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a93ca480-a648-464c-bb55-8ed9735e7663/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202126Z&X-Amz-Expires=3600&X-Amz-Signature=cfcc1803c227e4372bc5a3c026810591570b44e7c4531f52eb05d76833d1de49&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[e5dccd4a857f77f41f71cc744a916605_MD5.webp]]
 
 Here are some noteworthy articles that were shared in our Brainery during August:
 
@@ -137,7 +137,7 @@ Key discussions this month included:
 
 <!-- column e19314d4-b218-4408-b432-db31078e1340 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fb9f125d-8195-449c-898e-b841ed14cc4c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202128Z&X-Amz-Expires=3600&X-Amz-Signature=39b78424707bd3b993db8b26f4ab8759a6aefe3ac7561a38cdb4b25bc3f18551&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[982514c306a616ecbd5c4451112ec201_MD5.webp]]
 
 <!-- column_list 71cdf43b-880a-4ebd-ae41-d79bac0eaf0e -->
 
@@ -159,7 +159,7 @@ These insights continue to broaden our understanding of both traditional and eme
 
 [Dwarves Rewind](https://www.linkedin.com/newsletters/dwarves-rewind-6963734647327375360/) is a reading list serving as a collection of news we aggregate weekly. Tech is a very high-paced industry, and rewind helps to serve as a curated list of trending and high-profile topics that everyone can look back on.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4e4959a6-273a-4d44-bca1-a0ebeb2eda4c/Frame_91_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202124Z&X-Amz-Expires=3600&X-Amz-Signature=89433d9b5c03583346232725cf96671f92cc6eb37751ab8b8b03831338031ac6&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/augusts-forward-engineering/7d72b4327ffbaf2595178ba126a3d16a_MD5.webp]]
 
 ### <span style='color:green'>Trending and Hot Topics</span>
 
@@ -173,7 +173,7 @@ This month, our engineers have been on top of topics related to full stack and D
 
 <!-- column 871e8209-2d4f-45e2-9e3b-f6096507742e -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8ed47c56-fca6-4a92-aad0-186b64ab57eb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202130Z&X-Amz-Expires=3600&X-Amz-Signature=378e5a3e208c48a35e23473ef7230728a3a6dd503696adb5a7b78aa70bb82eec&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[297808eb5b9e65cd393bf16028f5ea4d_MD5.webp]]
 
 <!-- column_list 59cb8c25-a88e-4596-aaf1-81a475dc1398 -->
 
@@ -183,7 +183,7 @@ This month, our engineers have been on top of topics related to full stack and D
 
 <!-- column 0e5021ed-893a-48db-9e2b-d7eac2e15f7c -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/da24cb7e-83ed-44a3-900c-cb23a24885db/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202131Z&X-Amz-Expires=3600&X-Amz-Signature=c04018c725a54490561ace8327a57f0c31610e3f72697e47f0280edc586677fe&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[1780847ec8d1a39bed3a7f562fd5a9a4_MD5.webp]]
 
 
 <!-- column_list d90a4205-3ec4-42af-b321-1733a91c7b32 -->
@@ -194,7 +194,7 @@ This month, our engineers have been on top of topics related to full stack and D
 
 <!-- column 8780148d-42e8-40d9-add6-eb054b8dea3d -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e0691d0d-1e86-4fc8-9d98-7f793130dc9c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202132Z&X-Amz-Expires=3600&X-Amz-Signature=4add03ebec28ccba4f579361efac68be8f4accf622b2dfcf21b88c6c38fb2cf8&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[86c0a3ea4d4cdf5b9d0a359a22942fa0_MD5.webp]]
 
 <!-- column_list 99f2d877-d901-4779-a699-6fe33916dddc -->
 
@@ -204,7 +204,7 @@ This month, our engineers have been on top of topics related to full stack and D
 
 <!-- column 3b3ba844-d9d3-40ff-8924-23a4623b125f -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d16ddde5-64bb-4949-9c3e-f7ea1c78308e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202133Z&X-Amz-Expires=3600&X-Amz-Signature=41f14a6d4e5eb1dc82bfda262d6542c5a613f95f99370c0f16f63f0e0949f9db&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[ffd18682180d9335dbe0ac7418727372_MD5.webp]]
 
 
 ---

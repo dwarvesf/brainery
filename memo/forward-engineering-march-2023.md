@@ -70,7 +70,7 @@ This has reflected in our Brainery, where we see much more concise writing from 
 A summary of some trending tags we see in our Brainery. These tags represent what things our contributors are actively thinking about and researching. For this month, we still see a strong focus on frontend, but we also see trending tags related to backend and DevOps with more focus on foundational topics such as API, state management, and algorithms.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b21757a7-c998-48f0-a014-e8b9e23d4007/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202143Z&X-Amz-Expires=3600&X-Amz-Signature=a2dec80c880673d09f575c8705a02c8b5d999d4932559383addb7ec30b36da30&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[6e1ba482fa7dd25d9da74f9114333197_MD5.webp]]
 
 
 ### <span style='color:green'>**Top Contributors and Notes**</span>
@@ -86,7 +86,7 @@ We also make sure to give recognition on our [Discord](discord.gg/dwarvesv) serv
 
 <!-- column 2d2ea0ce-73e2-4a80-beb8-0cf0dd2c99fc -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/66cd3943-338c-4c05-9e94-ce075a3e720f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202144Z&X-Amz-Expires=3600&X-Amz-Signature=81337223fb90a55e739005fa05bc7ea3216cababc006f1d6675f5aeddf289098&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[b3fb572286808f5d94e7fea27d48c68e_MD5.webp]]
 
 * [leduyhien152](https://github.com/leduyhien152) - [When should we use useReducer instead of useState?](https://brain.d.foundation/Engineering/Frontend/When+should+we+use+useReducer+instead+of+useState%3F)
 * [mirageruler](https://github.com/mirageruler) - [GraphQL in microservices - Unified API gateway](https://brain.d.foundation/Engineering/Backend/GraphQL+in+microservices+-+Unified+API+gateway)
@@ -163,7 +163,7 @@ We’ve held our Software Design research group for just over a year. This month
 
 [Dwarves Rewind](https://www.linkedin.com/newsletters/dwarves-rewind-6963734647327375360/) is a reading list serving as a collection of news we aggregate weekly. Tech is a very high-paced industry, and rewind helps to serve as a curated list of trending and high-profile topics that everyone can look back on.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5bdc70fc-9584-42c2-b8c0-43d6f338966f/Frame_84.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202143Z&X-Amz-Expires=3600&X-Amz-Signature=c60b04c877b4a6338070156cdd5daa3835da4d1b58efc6e9a39f4d7f5b518a4a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[a466f7386392e5af7d8836ff803f1472_MD5.webp]]
 
 
 ### <span style='color:green'>Trending and Hot Topics</span>

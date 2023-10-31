@@ -57,7 +57,7 @@ With 50+ people in the team, we have been distributing our technology practices 
 - Tech startups collaborate with us to launch and scale their products.
 - Others partner with us to extend their development capacity and level up their tech team.
  
-![](https://i.imgur.com/wBJE1p4.png)
+![[cec8c2437ea62d5f3788d12888c5a8c9_MD5.webp]]
 
 ## We believe the future is built, not discovered
 
@@ -141,13 +141,13 @@ We make angel-size investments into early-stage startups, makers, and hustlers b
 
 List of products that we are proud to be a part
 
-![](https://i.imgur.com/vvdWOOB.jpg)
+![[566d96c8c3045b97e9cc0ceb27a05e58_MD5.webp]]
 
 ### Cutting-edge Tech Index
 
 We pick up the technology that brings true impact and helps build software efficiently.
 
-![](https://i.imgur.com/JjWbqj7.jpg)
+![[54eefa8557986f93e325d269c588bd1f_MD5.webp]]
 
 ### Dwarves handbook
 
@@ -173,7 +173,7 @@ The program provides real-world experience
 
 Checkout & apply at [**Apprenticeship Program**](https://github.com/dwarvesf/WeAreHiring/blob/master/open-positions/Apprentice.md)
 
-![](https://i.imgur.com/YvOiMJR.png)
+![[hiring/assets/README/8e5f7f8bb132590bfbf3105155047b6c_MD5.webp]]
 
 ### Knowledge exchange activities
 

@@ -5,17 +5,17 @@ tags: js
 created: 2019-09-07
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/640a5ba2-ab3b-4d80-8622-32c654a148ef/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202410Z&X-Amz-Expires=3600&X-Amz-Signature=8f53a4a42e4b8a29c5a2b355f5f1768920586348e7a781d487594122963c7acd&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[08f14b555ce54599844167b5700622ca_MD5.webp]]
 
 # Introduction
 
 Imagine you have a lot of components and you imported it like this:
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b1ad5bbb-1dbb-4a7c-bd02-e940952bd0b0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202410Z&X-Amz-Expires=3600&X-Amz-Signature=dcc7bde6b6fc21cd7110f0e31732c86f9841e605ad3b98caf5f676fdd851ef5b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[c733b9fb01a2eb50f4a8895d2cd68acd_MD5.webp]]
 
 Instead of importing component like above. You would want to import your components like this:
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf4fe369-8cc8-4649-a900-1265a98e85f9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202410Z&X-Amz-Expires=3600&X-Amz-Signature=bfd52578ffe1d9c0d159e9dbdc3c0335c9e9622b6878794cfe8956a4cae72e2c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[024be7746f1d8a3f25ffad7888a47caf_MD5.webp]]
 
 **The pros of this style are**
 

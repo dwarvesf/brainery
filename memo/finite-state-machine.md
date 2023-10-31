@@ -7,7 +7,7 @@ created: 2018-08-29
 
 A Finite State Machine is a model of computation based on a hypothetical machine made of one or more states. Only one single state of this machine can be active at the same time. It means the machine has to transition from one state to another in to perform different actions
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f2cf1f93-d816-44e8-b533-2817ce43ccc9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202419Z&X-Amz-Expires=3600&X-Amz-Signature=ee6d724f6109dbdf0c247e0b6dbdc01f78f148610269b425e40c6f36018a123a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[db5600646453d67b0df29dfa3c9dc5b0_MD5.webp]]
 
 
 Above image is a simple FSM, each circle is a `state` and arrow is an `event` or `action`.
@@ -41,7 +41,7 @@ Before get into state machines, my workflow for building such a feature is somet
 * Show it to the user.
 * Or, if there is an error, display the error message and show the fetch-data button so that we can trigger the process again.
 
-![](https://dwarvesf-outline.s3.amazonaws.com/uploads/08852c07-eed1-4703-b411-fe1581277313/19824c90-8cb9-4977-9f5b-1db9d7c9dd56/image.png)
+![[93ba1268646d3675466aa8887079d580_MD5.webp]]
 
 
 It seems pretty right for me, until there are a bunch of bugs coming because user dispatched an unexpected action
@@ -78,7 +78,7 @@ What if we think in the `states` way:
 error: We show an error message and display the fetch-data button. This state accepts one action:
 retry: When the user clicks the retry button, we fire the request again and transition the machine to the “fetching” state.
 
-![](https://dwarvesf-outline.s3.amazonaws.com/uploads/08852c07-eed1-4703-b411-fe1581277313/c2982f92-a418-4c4d-9aae-e84f1b42dac1/image.png)
+![[b5d7d35ae8b3b4cbd6c0c9d8589d4dae_MD5.webp]]
 
 
 This simplifies the logic and makes it more predictable. It also solves some of the problems mentioned above. Notice that, while we are in “fetching” state, we are not accepting any clicks. So, even if the user clicks the button, nothing will happen because the machine is not configured to respond to that action while in that state. This approach automatically eliminates the unpredictable branching of our code logic

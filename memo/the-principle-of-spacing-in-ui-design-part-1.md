@@ -20,5 +20,5 @@ Spacing has not only an impact directly on this factors but also on aesthetics d
 
 Now let’s check the below example:
 
-![](https://cdn-images-1.medium.com/max/2476/1*DnWx_QWieekjSUdECNHxbg.png)
+![[cdf0d4d3eccb21431ec5e9c04b336c24_MD5.webp]]
 

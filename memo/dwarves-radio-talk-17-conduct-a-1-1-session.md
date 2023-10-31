@@ -14,7 +14,7 @@ Why do we need to run this practice, and how to avoid wasting time? First of all
 When issues happen, without trust, they keep the information, breaking the flow of information among the team.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dd10e5f8-5d56-4684-8cea-ec5cce50fdc1/17.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202244Z&X-Amz-Expires=3600&X-Amz-Signature=d42a747952cb547fe8c7cee47aaf5a73dfc4327f06e2d8191bc59e5a1caa906f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[06395a8d9f4970db75d51feef9c89fa0_MD5.webp]]
 
 
 ### How we conduct our 1-1 session

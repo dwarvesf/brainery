@@ -15,9 +15,9 @@ Look at the release notes of those apps or the changelog of Go programming langu
 
 They are not the standard but should capture what we want to deliver.
 
-![](./img/changelog-sample.png)
+![](changelog-sample.webp)
 
-![](./img/changelog-go.png)
+![](changelog-go.webp)
 
 #### What makes a good change log?
 

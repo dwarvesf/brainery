@@ -11,7 +11,7 @@ Blue-green deployment has become an important topic in modern software developme
 
 Blue-green deployment is a software deployment strategy that involves creating two identical environments: one that is live and serving user traffic (blue) and one that is not (green). The new version of the software is deployed to the green environment, and once the deployment is complete, traffic is switched from the blue to the green environment. This strategy allows for a seamless transition between versions, with reduced downtime, and the ability to roll back to the previous version if needed.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c905fc00-2ce2-480b-b24f-9a4b9c03494f/blue-green-deployment-model.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202146Z&X-Amz-Expires=3600&X-Amz-Signature=008fdf99f6a632f903fdf6ba9e6f1c410bd7818ccc486501ef253d22ef11b2ae&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/radio-talk-60-blue-green-deployment/3e12057cf9cee4df856d0720a11e0fc7_MD5.gif]]
 
 ## Why it helps
 

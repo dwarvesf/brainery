@@ -24,7 +24,7 @@ type: r&d
 
 NgheNhan painpoint
 
-![example](https://earn.d.foundation/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd94c5847-f19f-44a9-80c8-b6a46e78da0f%2FUntitled-2022-07-13-1437.png?table=block&id=24c4df97-3f98-4b9d-a7a1-5d6ddc91186a&spaceId=498ebd7b-383c-459f-a9ad-b74073208ddd&width=2000&userId=&cache=v2)
+![[ae85ddb8d8ce4a14849a8bdc5a16a60f_MD5.webp]]
 
 Case studies:
 

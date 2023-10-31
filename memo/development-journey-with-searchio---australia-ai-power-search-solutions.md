@@ -11,7 +11,7 @@ created:
 * The Dwarves partnered with Search.io to help with their Console dashboard app, improve open-source packages quality and tailor the brand UI for plugin consumers.
 * Search.io is one of those matured projects that requires <span style='color:orange'>stability over speed</span><span style='color:purple'>.</span> Everything we do, we do with plans and foreseeable vision.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7a648a93-91f5-43fa-a965-16f1a09eb242/Screen_Shot_2022-09-28_at_14.23.39.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202246Z&X-Amz-Expires=3600&X-Amz-Signature=c19e7bfb34482580c52df5287b8b43533dcf9c6a0aacde31d07c28303c782f28&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[5168d3582cc3384817547ef263a5eaa8_MD5.webp]]
 
 
 ### <span style='color:orange'>Technical Highlight</span>
@@ -39,7 +39,7 @@ That comes with a full package of platform integration, search through images, A
 
 That explains the work on open-source and search-widget support.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e40c3b80-7e40-47e1-8252-fb5eaad62c8b/search.io-2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202246Z&X-Amz-Expires=3600&X-Amz-Signature=23cb3e86b9e7fc5be3c6b0cbc41414b5cfbbc91b79a132de8f123d349208abf5&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[dd55bea9f42adaff0ca67b9f0398ad98_MD5.webp]]
 
 
 ### <span style='color:orange'>Engagement Model</span>
@@ -97,7 +97,7 @@ A few highlights we're proud to deliver. Various achievements for open-source pa
 
 <!-- column 7faa84c5-e3a8-4ba3-a86a-047f60d0a9be -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5b48208b-b4fc-4c2a-a0ac-e86bb0cbce91/search.io-3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202251Z&X-Amz-Expires=3600&X-Amz-Signature=98b4b3b6c587963b5a7e83305aa08624bf51d95bb04a3a7f9e09f3f201ebcbaa&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[553a8839ac6f2ddb246b3801a3d3ed46_MD5.webp]]
 
 Our partnership helps Search.io to enhance their development team to deliver a powerful search and discovery platform. The platform provides real-time searching as-a-service and is trusted by large businesses worldwide. 
 
@@ -106,8 +106,8 @@ Our partnership helps Search.io to enhance their development team to deliver a p
 
 <!-- column 41336ad3-5d85-48e9-aa09-21179a252674 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c7422703-d448-46e7-ba40-df881b81ddc3/search.io-4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202252Z&X-Amz-Expires=3600&X-Amz-Signature=6aa1720e74212247e642cad69bc74de2cbd9c070ed2ea9d3dbcc92c4d7345015&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[b57cb7d4546a27e2d01deb2968f970ce_MD5.webp]]
 
 <!-- column e519ad25-0515-4c2a-a88f-c084aad2e880 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ecb7e701-5e7a-45f7-b02c-4991a41f896a/search.io-5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202252Z&X-Amz-Expires=3600&X-Amz-Signature=3c83dc45f8376eabc55f73612389ccc2a053002b8e868987bbfa2f832dbbb5a4&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[b70a3de226205f3dcdc72155e8ed362d_MD5.webp]]

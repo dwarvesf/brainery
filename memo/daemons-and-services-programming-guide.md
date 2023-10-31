@@ -11,7 +11,7 @@ Many kinds of tasks that do not require user interaction are most effectively ha
 
 **Provide server functionality**, such serving web pages. Coordinate access to of a shared resource, such as a database. Perform work for a foreground application, such as file system access.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/be20d16c-bfcf-479b-9dbd-7410e0392723/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202422Z&X-Amz-Expires=3600&X-Amz-Signature=7619c563563843d0a5f508c1be4dfb82afb0ad18341fd15c5804fb644f4b445b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[8f72ec64cac909319e7fc79210c69563_MD5.webp]]
 
 
 T**erminology Note**: The terms `service` and `daemon` have several meanings in different contexts, with further variation over time and from one development community to another.
@@ -28,7 +28,7 @@ There are four types of background processes in OS X. The differences are summar
 
 Whether it does something for the currently logged in user or for all users. Whether it will be used by single application or by multiple applications. Whether it ever needs to display a user interface or launch a GUI application.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1581aba9-f50b-4ab7-b023-063bff3d6e30/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202422Z&X-Amz-Expires=3600&X-Amz-Signature=62f25edc895fda860650c874ce199a5991eafe8482781017d8fcd70df4e1a53f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[93dcafb893273d168521685e97d42ad8_MD5.webp]]
 
 /Login items are started by the per-user instance of launchd, but it doesn't take any actions to manage them.
 
@@ -81,4 +81,4 @@ If you want to see the daemons currently running on your system, use the Activit
 Note: If you want to know more about the services provided by a particular daemon, consult the man page for that daemon. You can also view the manual pages online by reading OS X Man Pages.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1efa3f1e-afe7-49cc-abdc-72bea891cac9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202422Z&X-Amz-Expires=3600&X-Amz-Signature=570dd6d41851f39e61cc0c5f57733145f45f119745570072053b4205fc1e2294&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[6b7ebc46edfa8c99dbdbfb540f15bb11_MD5.webp]]

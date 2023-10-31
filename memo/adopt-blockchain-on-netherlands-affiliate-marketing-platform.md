@@ -22,7 +22,7 @@ created: 2021-06-18
 * GDPR standard for data privacy
 * Fraud detection & verification network
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b70ebfb8-cd0e-4d86-a124-88445ad61552/attrace-1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202341Z&X-Amz-Expires=3600&X-Amz-Signature=b2f2d1c591835e8637c10b1c99578a6b0fbe78054b3f6441e75261a00eb55058&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[6578a064addd53628b3834fae77a02ec_MD5.webp]]
 
 
 ### <span style='color:blue'>The Context</span>
@@ -41,17 +41,17 @@ Attrace's blockchain network logs agreements between parties through a smart con
 
 <!-- column 7fd5c26f-b2ae-4003-a597-e7ab43f2ed3c -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ce1a6c4a-4980-4e5a-ac82-8f27897c63ea/attrace-4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202342Z&X-Amz-Expires=3600&X-Amz-Signature=999a2be529c548739eb2eca0e4009482d633e44570f0614e612eabb5c54a0a4a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[d12369129b769931e4bb619e6379d9e4_MD5.webp]]
 
 <!-- column_list b9d5a518-87bc-4b05-acab-791cb9513044 -->
 
 <!-- column af8f329c-d32c-438a-bd2f-7d033f9560bd -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/24bd199c-a764-42b7-9936-bd298b0d70a0/attrace-2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202343Z&X-Amz-Expires=3600&X-Amz-Signature=2c17118005bf26c769094a458bbbe4fdafed04e101d1c3ae9eaa4430d9244a78&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[a224d0cec6cf759749ce7beedce4126d_MD5.webp]]
 
 <!-- column 45fa0529-906b-4e24-a9ef-122e61be5212 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2994f5a8-502d-4f66-a807-0c55ce089507/attrace-3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202344Z&X-Amz-Expires=3600&X-Amz-Signature=d79cc07d30026ad45809b27a38746506ed55b5ed6009df9cae4fb07b001b990b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[0e1d426b2c16abe626d720908cb46124_MD5.webp]]
 
 🌀 We build Attrace with <span style='color:blue'>**blockchain-nodes**</span>. It provides transparent transactions, creates secure networks and real-time communications between parties.
 
@@ -115,13 +115,13 @@ Attrace marked up their next highlights with an achievement streak
 
 <!-- column 3e2bda47-f6b4-40b6-8057-bc3a69590170 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f2ddfc17-74da-4243-8d31-dc33559911fe/attrace-roadmap.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202345Z&X-Amz-Expires=3600&X-Amz-Signature=f4bd8d8777b5cb38538059da9de6de9a543ae31625dcffa7e062d09afce66b2b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[6766c6400bdfbac0aa0a6e034aa0ebf6_MD5.webp]]
 
 <!-- column_list 0dce8056-1c92-4044-8335-8c5839b61233 -->
 
 <!-- column 6e56ffaf-4073-498c-846e-e464dffd6fa0 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/edce3b18-8f5a-465d-9a61-bf0d919e61f2/attrace-uniswap.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202346Z&X-Amz-Expires=3600&X-Amz-Signature=3ccbe0c6e60339f95225c8c8bd38c11d3a39024d2d07b72c5f8c58026a62aa0c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[6dc1bb651373493e08a0fab484f17c5c_MD5.webp]]
 
 <!-- column 0f44f1d7-649f-49af-ae1b-98b73b7273be -->
 

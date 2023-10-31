@@ -17,7 +17,7 @@ Hiếu Vũ từng là thực tập sinh ở tập đoàn công nghệ KMS, và h
 
 <!-- column 57a08984-9a9b-4899-a581-89c10e53c7e9 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/538e5650-beeb-401c-81d7-0e19cd0b319d/IMG_2446.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202214Z&X-Amz-Expires=3600&X-Amz-Signature=f2e9b8271ac4adb254a6bdb76632add47f88dda96ffae3fc03d0c7564a0f7b26&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[a9601721f5d8394ce510d39c585b40a9_MD5.webp]]
 
 
 ### <span style='color:red'>Python, Java hay NodeJS? Golang!</span>
@@ -72,7 +72,7 @@ Nếu chấp nhận offer đó, cuộc sống của mình sẽ không khác gì 
 
 <!-- column de07a786-81bf-4834-bd00-984378c8ff79 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/01d6f5db-3afd-485e-b5ca-47afc6882db2/278710684_1752875818249597_4205680704354881771_n.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202215Z&X-Amz-Expires=3600&X-Amz-Signature=a1800fbea7a7ea3f228ed1b0a2df4d542d61c0e2b91c728414996837b82c492f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[c0286ef2d21aad2ddb8aa2f2ee9e2592_MD5.webp]]
 
 Ở công ty 3 năm, mình cảm nhận rõ rệt về sự thay đổi của bản thân: Từ một người không mạnh dạn nói chuyện với nhiều người, bây giờ mình tự tin truyền đạt kinh nghiệm & những điều mình biết cho các bạn đi sau. Đó cũng là phần khó nhất khi trở thành supporter cho các bạn intern: Học cách hiểu mong muốn và nhu cầu của con người và làm sao để giúp đỡ một cách hiệu quả nhất.”
 
@@ -145,7 +145,7 @@ To interact with people and to learn from them. Folks at Dwarves are more knowle
 
 <!-- column a2a1755f-504c-4671-8bf2-94e49e89e2b6 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3fd7ba3d-da99-49f8-ac03-dad1391a5736/DJI_20220421_113908_44.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202217Z&X-Amz-Expires=3600&X-Amz-Signature=ce73af64c84be3238c3411c8ede44733d19a7b9590605d1263852124878e5bfe&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[27fe0d8a27cb8fd173cf17003989cd7e_MD5.webp]]
 
 After three years working here, I grew from someone who would not dare to speak to anyone to a person who can now confidently convey his experience and knowledge to interns. That's also the most challenging aspect of being an intern supporter: Learning to understand people's wants and needs and how to provide the most efficient support."
 

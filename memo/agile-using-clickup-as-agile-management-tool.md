@@ -21,14 +21,14 @@ and support following Views
 * Board as Kanban Board with columns showing the statuses. This is status-based view. This view is useful when you want to track the whole progress of the project.
 * Box: showing the ticket for the individual in their box. This view is useful when you want to focus on your tickets and get things done.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8ede8f75-a176-47f9-a870-f457226747a3/ScreenShot2018-07-08at12.55.55AM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202355Z&X-Amz-Expires=3600&X-Amz-Signature=6b101498032704f29083df4e8d5365856c8aeb81f51b61c801066c3506ecf306&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[d8e39beb699cc7ddaee213574dc787d7_MD5.webp]]
 
 
 
 * Calendar: showing the calendar with tickets due date. I found it's not very useful.
 * List: Same as Board but in another point of view. Some people may find this view is clearer than Kanban board because it's more like a project todo list.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e9ada86b-d8d2-4ed0-8c05-4671d312986f/ScreenShot2018-07-08at1.02.29AM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202355Z&X-Amz-Expires=3600&X-Amz-Signature=153b248a9366166516e5b8bbea1299f6ad31fa1215ce28b2c9dbf3c5d842e572&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[e0d2a879c286008152df56ddf41b28a0_MD5.webp]]
 
 ## Workflow
 
@@ -72,7 +72,7 @@ Archive the sprint.
 
 To get my things done, I use **List View** with **Me** filter to show my assigned tickets across all the Spaces.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8232e643-ba10-4fcf-956b-85b9e6b67042/ScreenShot2018-07-08at1.35.40AM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202352Z&X-Amz-Expires=3600&X-Amz-Signature=47cefaa04e3b9533959cd2d71e6066ec7e6a085f0f3f2281b37d7cff420920c1&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[3c9972095d36b20c00564bbedce679cf_MD5.webp]]
 
 
 To keep track the whole project progress or member progress, both Board View, List View and Box View work very efficient.

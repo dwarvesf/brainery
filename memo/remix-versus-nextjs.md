@@ -111,7 +111,7 @@ Next.js define some custom pages for certain status errors like 404 or 500 error
 
 Remix has an error boundary for handling errors. When we create a route component, we can also define an error boundary for catching any errors that occur in the route component. It likes having two components in a route file, with one being the actual route component and one being the fallback when errors happen in the former. One noteworthy thing is when there is an error in a nested component route and this route has no error boundary, the error bubbles up the nested tree until caught by a parent’s error boundary.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/51fd2f94-e7e8-4c89-837d-e5ebd15f94fe/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202226Z&X-Amz-Expires=3600&X-Amz-Signature=61fe74b7169c1fad9392fcbe7fdb625b891eae3f18588935046766b9a8036adb&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[a7d49c4d71418c892f72a5c2a7dbee19_MD5.webp]]
 
 ## **Conclusion**
 

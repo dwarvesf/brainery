@@ -5,7 +5,7 @@ tags: design, research
 created: 2020-08-26
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/680f519a-1281-4e57-a77f-144bdf12878c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202442Z&X-Amz-Expires=3600&X-Amz-Signature=3c58a88f79387d988135a92af9f54913d10aea20a55c2f3c3a9dda73a89e30d1&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[c090fa939fb85f75f0df5757eca321e4_MD5.webp]]
 
 
 # How is the real estate market moving?
@@ -39,7 +39,7 @@ created: 2020-08-26
 # Overview insight about Proptech in general micro-investing in Viet Nam
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1ffb2740-73cb-4277-a820-1a81dd9acbbf/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202442Z&X-Amz-Expires=3600&X-Amz-Signature=e9bc99fc52c46d6bf713ee060e3d0f3e4d43ccce431614452d100a4e692d87f6&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[2585fae6f148111f1bde12ffd49b9cb5_MD5.webp]]
 
 
 
@@ -49,7 +49,7 @@ created: 2020-08-26
 
 # Target consumer
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b45cba76-49c2-41a0-a0bd-c3238eefbe43/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202442Z&X-Amz-Expires=3600&X-Amz-Signature=c1d2c868a7dbcdb9c3881fe27944669b64b281426de4e9c1ef1d516e5834f95c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[b6ef22eca339a6bcd76f440bb4facf00_MD5.webp]]
 
 
 ### The challenge of the micro invest model for persona that this model is aiming for
@@ -60,7 +60,7 @@ created: 2020-08-26
 
 # The impact does COVID-19 have on changing market trends and the opportunity for real estate to grow in the future
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/537edbe2-c3b4-42c8-bfd4-e0a6a6002fe6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202442Z&X-Amz-Expires=3600&X-Amz-Signature=1e4516b308d9eb091083d531355a8484a6e869e1bfc599bb233eb2b0386ab00f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[15b159e5ae0649832e2dcd5c0db6a97e_MD5.webp]]
 
 
 

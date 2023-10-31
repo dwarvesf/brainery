@@ -47,7 +47,7 @@ Found in 2014, Dwarves Foundation is an innovation service firm. [We stand for t
 - Find and address performance issues
 - Identify and communicate front-end best practices
 
-![](../images/process.png)
+![](process.png)
 
 ## Benefits & Perks
 
@@ -71,7 +71,7 @@ Dwarves Foundation offers two weeks of paid vacation, a few extra personal days 
 
 And more at [Benefits & Perks](../additional-info/benefits-and-perks.md)
 
-![](../images/team.png)
+![](team.png)
 
 ## How to be a dwarf?
 

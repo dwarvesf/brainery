@@ -27,7 +27,7 @@ But the most important ones are
 * Budget
 * Time
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5c2d98a7-2b08-4d9d-8a95-021674ac5a05/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202402Z&X-Amz-Expires=3600&X-Amz-Signature=658176b04745b4dbf3bf60b517bcbebf811b2f7c84484a0da546ddf3a201f123&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[8d20afb24ee3dfc8607352f6574e549a_MD5.webp]]
 
 ## Why does a project fail
 
@@ -76,7 +76,7 @@ In detail, the SDLC methodology focuses on the following phases of software deve
 
 Let's take a look back on what we have learned and how this methodology could guarantee project success.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e7b63edd-ac2a-41c9-a689-1097f8542a5a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202402Z&X-Amz-Expires=3600&X-Amz-Signature=06f4b74a8224945d46493a3bb933ea0e5153b0716810190841f5b761a1bf6fab&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[c9f99108433a5d2449ef51fb884a23dd_MD5.webp]]
 
 
 ## Requirement Analysis
@@ -89,13 +89,13 @@ The two most important artifacts of this stage that need to be well-documented i
 
 * **Lean Canvas:** a lean business model which defines problem - solution - market - cost - revenue of a digital product. Lean Canvas needs to be validated before moving to the next stage else we will develop software based on imaginary
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/09cdbbb9-30a3-4410-81d6-cb74cd8583c9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202402Z&X-Amz-Expires=3600&X-Amz-Signature=946458015443244f2bb9939d2b9b2cb5e856092f4f9dd299e0af55b3aef26142&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[3a385622cfd9745a70201ab14b616a09_MD5.webp]]
 
 
 
 * **AARRR Funnel**: after the Lean Canvas is validated, define funnel for each revenue stream. This artifact will be the foundation of the System Design Stage.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ba6592cb-f4d8-4426-ac8b-cd3dbc5a9f95/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202402Z&X-Amz-Expires=3600&X-Amz-Signature=d5535bee1a037ee711d3430e305e59c91864d3568c9cf24a72f51a70ec465e92&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[fdea8ce098bbc365ecd7ffaaec9010a4_MD5.webp]]
 
 Those two will be generated with the agreement between **Product Managers, UX researchers, and Clients.** This stage would take time, but with well-documented artifacts in-hand, we could save a lot of time later on.
 
@@ -108,7 +108,7 @@ In other words, the team should determine the feasibility of the project and how
 
 > #Why: To manage project constraints :) (or we will fail real damn fast)
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/13013814-c3c3-4a5d-81f8-fac84630ccb0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202402Z&X-Amz-Expires=3600&X-Amz-Signature=f871c4b5dba3b70e159df8f4cb65c79d5ee80a025a8e449d2e3a21a4d5d4f0f4&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[40fe66c43cf65cacbed33cf70df11995_MD5.webp]]
 
 
 We have a validated business model, few funnels of revenue streams. We have things that need to be built. Now we need a plan to build it at top-quality within budget and time.
@@ -117,7 +117,7 @@ Product Manager and Technical Architecture need to sit down with Clients to defi
 
 * **Project Charter** (Product Roadmap, Milestone Release, People in charge...)
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b0b9c8eb-c5c1-4201-bca0-4ca04c6aa1a2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202402Z&X-Amz-Expires=3600&X-Amz-Signature=d5f0add15533cf1f4ca4fdc91dc2588326b9d93d75986cb49b3527e7b835018c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[2c5adf742029b611a1459c48c5d1ccb8_MD5.webp]]
 
 * **Work Breakdown Structure** (Job need to be done)
 * **Tech Stacks**
@@ -134,7 +134,7 @@ The list below is just as general as possible but those artifacts are the least 
 
 * **Information Architecture Design** **(IA): the** foundation of information which will be presented to connect the user to the content they're looking for when using the software.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6ea4451f-82a5-42fa-b2c2-622672e1c697/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202402Z&X-Amz-Expires=3600&X-Amz-Signature=71d2a02665a570cc6dc30e1227993b8ff1f7f8e0903a738f019a784c18a6cf73&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[121f206d154f23e1049f0edd39e921cf_MD5.webp]]
 
 * **Software Modeling** (Usecase Diagram, State Machine Diagram, Activity Diagram, High-level Architecture Diagram, ERD...)
 * **User flows, User stories, Wireframe**
@@ -157,7 +157,7 @@ This is the longest stage of SDLC Process. Work is divided into units or modules
 
 Make it count and share with the team what you have learned recently.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ccbf179e-4034-447c-b85a-ebf586852b83/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202402Z&X-Amz-Expires=3600&X-Amz-Signature=5d77565b718951e8d4e2e03afb09d51d31448cde09c79fea8ea1d42dfb0f4111&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[c5d490b4e34e3a156230e0f702348538_MD5.webp]]
 
 ## Testing
 
@@ -166,7 +166,7 @@ Make it count and share with the team what you have learned recently.
 In short, we want to verify if the code meets the defined requirements.
 Provide stakeholders information about the **project quality** then sign off application deliverable to release it to end-user.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0985ab99-aa1f-4d2f-9e6a-5baa1e041292/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202402Z&X-Amz-Expires=3600&X-Amz-Signature=f2978d91b07ab54166d3315ee947c724850b9c9c5fd8b00b15c87edad1058a88&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[fce9cd7be98a3a0133ae89129f323211_MD5.webp]]
 
 
 ## Deployment

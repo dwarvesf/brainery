@@ -25,11 +25,11 @@ Với An, mọi thứ sẽ rất nhàm chán nếu chỉ xoay quanh Frontend. N�
 
 <!-- column aa3d4f33-7533-4690-8a11-ed2a548f3b9f -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6afc8b5e-130f-464d-8e7f-d3a4ca1a6cc2/an.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202218Z&X-Amz-Expires=3600&X-Amz-Signature=d70f5a550db4deff109df08648ee8c34b20d441867b123b6c44543ebeec627b1&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[9e2ac4cd6681cdf0a45399021f20a4cd_MD5.webp]]
 
 <!-- column 9f51dbb1-e7cd-4677-9b4d-93a770304e4d -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a59bc12d-ef25-461f-bcfe-8d47b7678211/4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202219Z&X-Amz-Expires=3600&X-Amz-Signature=74592adf843749c3266fd91fa78136e7ba227e0d6cd9f4c1d609702f5ced9dec&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[e4a85a883ca48d5cf9094440167bd587_MD5.webp]]
 
 
 ### <span style='color:red'>Theo An, </span><span style='color:red'>**Senior ở Dwarves sẽ khác biệt thế nào so với các công ty trước?**</span>
@@ -68,7 +68,7 @@ Hệ thống của Nghệ Nhân phức tạp hơn so các project trước đây
 
 <!-- column 1c9a3ee6-2f28-44f8-afe8-c939936d29ec -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b4285a5d-71a9-49ca-a617-71f94e4840d9/2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202220Z&X-Amz-Expires=3600&X-Amz-Signature=533c1c5b241478553d44c60da2b2acff932fc314096382911fe2e385a794f2de&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[59dfbb443e860eb8a3222b0f23901628_MD5.webp]]
 
 
 ### <span style='color:red'>**Dwarves là một môi trường có nhịp độ nhanh. Mọi thứ có thể lộn xộn đối với Senior khi họ có quá nhiều trách nhiệm. Anh quản lý công việc của mình và teammate như thế nào?**</span>

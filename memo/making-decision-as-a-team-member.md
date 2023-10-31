@@ -24,7 +24,7 @@ We hire people to tell us how to work better, instead of holding their hand show
 * People x Customer x Number
 * Now x Then
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/83a87a8d-0193-4701-a54f-2eb05a06a390/df-3x2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202454Z&X-Amz-Expires=3600&X-Amz-Signature=419b6d780451e67112697b3bf3000d6eed72689d1be26400ebb4015d6aaab451&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[4824b7755ec089244dca64fc4a9d6fa3_MD5.webp]]
 
 
 All the aspects are equal. Every business decision revolves around these things. A decision should benefit those aspects as much as possible. Keep asking yourself: Does this do anyone any favor? Is it possible to make a profit out of it? Can it be maintained?

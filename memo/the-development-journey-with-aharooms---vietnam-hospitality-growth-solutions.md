@@ -5,7 +5,7 @@ tags: case study, design
 created: 2020-12-01
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/42446800-8155-44ca-8472-abe4bf8ff84f/Screenshot_2023-07-24_at_6.58.15_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202425Z&X-Amz-Expires=3600&X-Amz-Signature=bc050e06d360011f457c75d279ec5cf0249dca87da5017e65d552fa2c2ce4b56&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[a8e6908312ad0eeb1a4dc8e9c6cd287a_MD5.webp]]
 
 ### <span style='color:green'>In brief</span>
 
@@ -42,7 +42,7 @@ They wish to access, understand and localize a Vietnamese product, for Vietnames
 
 <!-- column a295822b-66b2-4b70-aa77-c859fef5bdc7 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a8b75692-392c-4f00-9a0d-91c8adea61ac/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202425Z&X-Amz-Expires=3600&X-Amz-Signature=f481742cbd81ace2f4474efe014de5513d3d804db9240427da937461abe2ab5a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[2b6b4cbc18bc22e8663f711e821a4d78_MD5.webp]]
 
 
 The affordable hotel segment(2-3 stars) is a potential market. But the services standard still run with  a lack of uniformity. Traditional business operations is blocking them from better quality. 
@@ -73,7 +73,7 @@ With selective technology and business insights, we provide high-level architect
 
 <!-- column 82d521de-f2be-430c-a706-f7c58b1df910 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4e691dd5-b555-4938-9872-b07ab74800bd/aha-solu.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202426Z&X-Amz-Expires=3600&X-Amz-Signature=8345f37936f5ec748b28d59c4a4f7291482fd3f2303512a74a1bde3d5fd31975&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[470979fc905480eb099b9672f7035296_MD5.webp]]
 
 <span style='color:green'>**1. Efficient Business Operations**</span>
 
@@ -139,7 +139,7 @@ Users will get noticed on a new release. Meanwhile, we're able to resolve issues
 
 <!-- column 9e28bd1a-41db-4178-8ef1-3cd31300a46a -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f3526334-9ab1-475a-9800-5292170e69e3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202433Z&X-Amz-Expires=3600&X-Amz-Signature=787435354fc333b3d9a1075d8164edd69f57bb7defd4803bdb216f35d767c070&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/the-development-journey-with-aharooms---vietnam-hospitality-growth-solutions/fa32c5b22664bf943dd7d4314b012a83_MD5.webp]]
 
 
 ### <span style='color:green'>Outcome</span>
@@ -158,7 +158,7 @@ We're confident to shift the focus on expanding sales channels, increasing the p
 
 <!-- column 28fe66a5-8f0a-46a2-8223-d7e53d8d5a62 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3b7225e4-774c-4dd6-ada8-16cb87c764c1/aha-book.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202435Z&X-Amz-Expires=3600&X-Amz-Signature=a4e3d650c67e238bacb18eb44c4391affd1676c05b4796d506968723b410e985&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[dc3d4963dc8979095979e7b5a0c94dc0_MD5.webp]]
 
 The collaboration brought great impacts on our partnership. Aharooms has <span style='color:green'>[made its way to the market](https://doanhnghiep.quocgiakhoinghiep.vn/en/doanhnghiep/aharooms/)</span> and created <span style='color:green'>[significant achievement](https://baodautu.vn/doanh-nhan-ngo-duc-nguyen-ceo-aharooms-giac-mo-chuoi-khach-san-dai-ca-thap-ky-d115045.html)</span>.
 
@@ -169,8 +169,8 @@ As a technical partner and a venture builder, the Dwarves contribute to the prod
 
 <!-- column 5ad3de1b-f26d-4988-8373-12b4576d32d1 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/664afea9-0b20-4f07-ae6b-8c2c12450cd7/aha-ws.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202436Z&X-Amz-Expires=3600&X-Amz-Signature=40aa31a591839569f1a5ca15b393b4b802acdfac50f31fefd2b04690fac69fc7&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[bfa13c61855eb878f62c9deaa5638cde_MD5.webp]]
 
 <!-- column 12f9232a-81fb-444c-a934-81ce71a35072 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a08fd9e6-f2c5-40c7-a449-a89734105928/aha-pms.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202437Z&X-Amz-Expires=3600&X-Amz-Signature=126aa7b0a123b29db88bd0caf7f518f155cacfe1cf9cd1be59420dfb68796eeb&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[9c6f4c4f116f9f8ae4ea80f98e649720_MD5.webp]]

@@ -174,7 +174,7 @@ kubectl apply -f app/service.yaml
 kubectl apply -f app/ingress.yaml
 ```
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5e8c5f6d-258c-4205-899b-465ddcafb829/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202144Z&X-Amz-Expires=3600&X-Amz-Signature=bcb33db0d6bb73e0a2dd6be124b81787d01870b61cebf40aa113c5c05eeb248a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[f711c252bf191800d3184c8839221899_MD5.webp]]
 
 When releasing a new version, we changed the image of the application and applied the changes to the cluster. Argo rollouts created a new ReplicaSet with the new image and initiated the rollout of the updated version in the preview environment, accessible at the preview domain - `preview-mochiapp.bluegreen.domain`.
 
@@ -197,13 +197,13 @@ kubectl argo rollouts promote mochi
 
 With the deployment complete, the updated application was accessible on the active environment in the blue domain - `mochiapp.bluegreen.domain`.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8d4e4843-8247-4bd9-a9a0-0c621557877c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202144Z&X-Amz-Expires=3600&X-Amz-Signature=5060633e685f8fd40d7ca9efce0bd688529c1e280bcf19590f6cd06c8c94b107&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[dbebe30b5e9fa94fd865c1c66b41c5f6_MD5.webp]]
 
 An alternative would be to utilize the ArgoCD UI for the promotion, as it could prove to be exceptionally helpful for those who may not be able to operate the CLI, including QC, during the release rollout. Additionally, any issues that may arise can quickly be reverted with just the click of the "Rollback" button.
 
-![ArgoCD rollout dashboard to manage blue-green applications](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d1542b39-d569-45b5-b89c-102234aa20c2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202144Z&X-Amz-Expires=3600&X-Amz-Signature=042f779bd093a76c3cf7ecc85b36a58cd38c07ab94b121d8ceb541c5bd22a540&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[8a98dc8c92776e0f68f1db43bf3b4a9a_MD5.webp]]
 
-![ArgoCD service Mochi API](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6e62f7ed-9c83-4afd-ab4d-ee9eff5dfca8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202144Z&X-Amz-Expires=3600&X-Amz-Signature=ba4f7ef2016c91039e799256d91d8cb3cd4dbe977cb208d880037b3a5aa9b6a4&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[8ee42dc2d4a9b07dbfc76db9b009a8cc_MD5.webp]]
 
 ## Conclusion
 

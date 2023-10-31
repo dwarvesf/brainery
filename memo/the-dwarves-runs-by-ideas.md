@@ -21,7 +21,7 @@ We figure a small team is easier to share perspectives, update on what's happeni
 Fewer committee lets us run things in a startup model. Draft a plan. Execute the todos. Fail fast. Learn. Do it again and do it better. Other than productivity, we aim for collaborative.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/da128ec3-411d-4fe5-8b64-b69fa9fca56c/rules.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202455Z&X-Amz-Expires=3600&X-Amz-Signature=8e51bcd5ea66398bf4fd36a26b60f6cc2148be9be3af2a1940825df9924c6e57&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[bd8f655b05178f380d8e75076cfe3002_MD5.webp]]
 
 
 ## We run by the right ideas

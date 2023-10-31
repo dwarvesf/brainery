@@ -7,7 +7,7 @@ created: 2023-04-11
 
 <!-- table_of_contents 646286df-cb90-4d19-9c5b-c689bd3c14c6 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/649cfd9e-97e2-4026-bfea-f88ed6cb0767/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202141Z&X-Amz-Expires=3600&X-Amz-Signature=41f963b7d250c187e66592ebf1e4057fcea69a4883303a46ee8787bba91c1bbe&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[c9a1b2c55d33bd432d3b0ace8d0a65e7_MD5.webp]]
 
 *This story comes from the necessity of multi-language support across our applications. Dwarves Foundation handles a lot of international clients and there is always some level of concern for supporting multiple languages for certain apps. This is a concern not just from our clients, but also from us, which motivated our research for multilingual support.*
 
@@ -29,7 +29,7 @@ The column-based approach is the simplest solution for managing translations in 
 
 Here's an example of how a table using this approach might look:
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a36e7a2b-ec7f-4c3e-885f-3d1ac4edf4e5/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202141Z&X-Amz-Expires=3600&X-Amz-Signature=66ffc448330c02a3a16776954ce25d8b936ac429a83577ae72ba19ac334d7af5&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[f257e0952b3c5b44d18722936afa96b6_MD5.webp]]
 
 ### **Retrieving Translation**
 
@@ -68,7 +68,7 @@ In the column JSON-based approach, a single column is used to store all translat
 For example, if you have a table with columns for "title" and "description," you can use a single column named `translations` to store the translations in JSON format. The JSON object will have a key for each language, and each key will contain the translated column values for that language:
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3dd481c8-d2fb-4dea-99a0-9fef118ddf61/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202141Z&X-Amz-Expires=3600&X-Amz-Signature=da1535fde2a2160e036638ac72887de371199670d7126ea83b355e9766fc1f2f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[41a7d2c490ccbd641b6c819e39fefdeb_MD5.webp]]
 
 ### **Retrieving Translation**
 
@@ -128,11 +128,11 @@ The translation table approach involves creating a separate table for storing tr
 
 Here's an example of how a translation table might look:
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/23e07db4-8804-4386-a4ee-6e6168a08b72/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202141Z&X-Amz-Expires=3600&X-Amz-Signature=3f4fea172f5132cb3e4f534b1880d08a3393eca968881a817aa3b903ef01fc0c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[5a3973c10e77842fa50e038b4c9755b8_MD5.webp]]
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1f65f285-f4cc-4037-9af6-d4d7e793f00a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202141Z&X-Amz-Expires=3600&X-Amz-Signature=4d4a80e01f4d23809555a33f84b1dd709279bfb19eaf977509e5ce94c03fdbec&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[04501b291da585ce90758a6b363be5e9_MD5.webp]]
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3bdb30cb-3c14-4e3f-9cbe-351e4b5d4b54/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202141Z&X-Amz-Expires=3600&X-Amz-Signature=b6f8f554cb37812462e830a5497e70b6f912d6d65f2c62ec595a5c5f356ba5ba&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[6b6695453f90a53f40ccc71a42275e36_MD5.webp]]
 
 ### **Retrieving Translation**
 

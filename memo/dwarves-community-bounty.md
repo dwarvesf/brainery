@@ -47,4 +47,4 @@ We hope to provide a welcoming community for those who do. Bounties are here for
 🤖 Give @smod or @hnh a ping if you want to take any todo
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/905029a6-0fa3-438d-87bd-c0a5b9e0ea0c/Option_2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202130Z&X-Amz-Expires=3600&X-Amz-Signature=a69eea2f8748eacec746701c8fef14c44ccf9e0783f43cc72a5d1ea436d47f36&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[64ec467481612369df3f5cff12c2e5e9_MD5.webp]]

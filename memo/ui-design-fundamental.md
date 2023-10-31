@@ -46,7 +46,7 @@ When you design a website or an app, you have to reply the question: What is thi
 Interaction design is specifically a discipline which examines the interaction (via an interface) between a system and its user. It may also incorporate design focused on how information should be presented within such a system to enable the user to best understand that information though this is often considered to be the separate discipline of “information design” too.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3d407be2-6935-4951-afb4-7677abd0f988/Screen_Shot_2021-07-26_at_14.41.07.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202309Z&X-Amz-Expires=3600&X-Amz-Signature=9ae4484b2ea2c0704af8b5c266dca0927b91184c086fa8b9a6e40a07ea521435&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[4718c084b78a2e641043dff2ffb94dad_MD5.webp]]
 
 ### Visibility & Simplicity
 
@@ -107,7 +107,7 @@ In the physical world, the ridges or dots of a bottle cap provides a high-grip s
 
 The following example will show how the individual bricks of the content type “event” can be mapped to different shapes of a “teaser” UI component in the target system (here: a website with desktop-like presentation). The teaser in the example is simplified and consists of four different text bricks, an image and metadata. (It’s the same for any other target UI component as with the teaser example.)
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7f9c31f2-22f0-4ce2-b71f-16a471e6101d/Screen_Shot_2021-07-26_at_14.48.21.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202309Z&X-Amz-Expires=3600&X-Amz-Signature=0e60b1ff20f262dd54944d11cd4a827a0a8ac46f4ba72ff55d17f81d628b8507&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[5c2e41286c6c2f47ccdbe589a50c4033_MD5.webp]]
 
 *Same content and different presentation: The three teaser variants extracted and isolated from the website with the individual UI bricks (except the image all exemplary available information is outputted textually).*
 
@@ -117,7 +117,7 @@ The following example will show how the individual bricks of the content type �
 
 *Different content and same presentation: The basically different content types “event” and “article” are structurally different, but generically identical. Thus the bricks of both content types can be mapped to a generic teaser component that can display these bricks. In short: Different content types can be displayed identically. Which also means that different UI types can be served by content bricks from the same content type (see above).*
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a5168fdc-5916-46aa-aaf7-a0b39b502e1d/Screen_Shot_2021-07-26_at_14.49.15.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202309Z&X-Amz-Expires=3600&X-Amz-Signature=8aea9c2d5e2d118c2e01ba347ed349266d5e60a14d9971913001be2e7398e7b2&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[2f86f2fad6448f61bf19fa256a25c973_MD5.webp]]
 
 
 ## Conclusion: 

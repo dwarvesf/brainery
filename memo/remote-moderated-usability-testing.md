@@ -19,7 +19,7 @@ In this article, we would like to share about the testing of the MVP version of 
 
 ## Personas
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/853d0a4d-c11b-4000-ab2a-6d8f7f2108c0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202441Z&X-Amz-Expires=3600&X-Amz-Signature=87a93b806faae676fda38648760c1bfb8fb42b26f53247b5b99574c9398bda84&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[c758a02d96ab191760c143e5770e7d9b_MD5.webp]]
 
 ## The problem
 
@@ -31,15 +31,15 @@ In this article, we would like to share about the testing of the MVP version of 
 
 * Provide a search engine, which provides detailed information about most B2B companies in Vietnam. This product also recommends suitable suppliers, based on specific requirements of each product.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7491aa86-32de-4482-a225-44c6078c638d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202441Z&X-Amz-Expires=3600&X-Amz-Signature=20a45874210284177516ddf0b9767773078003c695670409facb61d1ab0aaa33&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[ba8cd8431044e571ad786c4f3b208125_MD5.webp]]
 
 * Potential suppliers list to manage suitable suppliers and send inquiries to each or all of them at the same time.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/db4cbadf-e10f-49aa-9628-712d0b3d3a92/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202441Z&X-Amz-Expires=3600&X-Amz-Signature=489a42d610c233aeec3a52a9ab44a5e9a0b12fc7c83dc3c0a08ddcef88974223&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[9b9fbacb59ea16e62b05e8a8cd7d461a_MD5.webp]]
 
 * Management dashboard to track the performance of each employee and the project’s progress. In addition, managers can report expenses to the financial department.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4c9f1aa6-c22c-4346-ab64-a8af0f95121a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202441Z&X-Amz-Expires=3600&X-Amz-Signature=23a0e08c44d51d3c5a04f161c91952b22e98eca709bfdee27cf4d74ac7fbdac8&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[096e90b331b560e88f267337c92af6a4_MD5.webp]]
 
 # Method
 
@@ -116,14 +116,14 @@ Create a project ⇒ Add new item (product) ⇒ Source suppliers for this item �
 
 **Task successful rates**
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0cd84405-8566-4f34-bb08-87ee142489cc/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202441Z&X-Amz-Expires=3600&X-Amz-Signature=29fd983de4b1db83e0ba7b5951851efad84da5e03bb63bea8c1140123a6eb2e0&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[1a275995943ea3ccb70e132a50132b62_MD5.webp]]
 
 Note: S = success, F = failure, P = partial success
 
 
 **Time-to-task measure**
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/569a2c2e-2065-4b66-8bc9-8f993abe1edf/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202441Z&X-Amz-Expires=3600&X-Amz-Signature=45c8db4f2281bf044b1023274194b3e816782f9094dda8e0d546303e141cd971&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[8bdc47d5f231e0cb5568bd2ee69ae639_MD5.webp]]
 
 ## Analysis and user feedbacks
 

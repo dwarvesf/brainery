@@ -5,7 +5,7 @@ tags: case study
 created: 2019-11-18
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f53df7f7-2291-4e17-99b5-2e8231a4ff35/begroup.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202342Z&X-Amz-Expires=3600&X-Amz-Signature=77941cb52190cc00a0abd2272532ab04673d2f9e41804f0c961c0fdc3b91d164&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[ca0b190a9c3b5efdcee6b76a84de9c5f_MD5.webp]]
 
 ### <span style='color:yellow'>In brief</span>
 
@@ -35,7 +35,7 @@ created: 2019-11-18
 
 <!-- column 158b674b-7f8a-4d0d-857a-1e1fd184117c -->
 
-![](https://s3-ap-southeast-1.amazonaws.com/dwarvesf-outline/uploads/abe80375-161a-4643-b7ac-a3a5ecb67011/cd54089b-bbfd-4573-9bfa-a08201afcd16/Log%20in-filled.png)
+![[3407a5c0fbbe296de86c5b0802a6872f_MD5.webp]]
 
 Their release timeline for <span style='color:yellow'>**beCorporate**</span> couldn't change due to the business roadmap. The market was welcoming <span style='color:yellow'>**beApp**</span>, and was ready to see more. 
 
@@ -56,7 +56,7 @@ Back in 2018, it was challenge to build an in-house team of experienced Golang d
 
 We figured integrating <span style='color:yellow'>**beCorporate**</span> into the ecosystem was more reasonable. Users are capable of experience other services. Hence, microservice was the final option for system architecture.
 
-![](https://s3-ap-southeast-1.amazonaws.com/dwarvesf-outline/uploads/abe80375-161a-4643-b7ac-a3a5ecb67011/884f3804-851a-4828-bda3-dff8d4221480/be-system-diagram-topright-logo.png)
+![[ea8665d018277b323545f81180d583b2_MD5.webp]]
 
 <!-- column_list 1e5793ed-b2c3-4b89-9fd2-128b44e8caf4 -->
 
@@ -97,15 +97,15 @@ See the full version at: <span style='color:yellow'>[be.com.vn/khach-hang-doanh-
 
 <!-- column c29f4006-a5a1-4512-babe-a6e3dee24d14 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ba2c7f0b-a128-4c3a-856e-c92b98dc444e/be-register.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202346Z&X-Amz-Expires=3600&X-Amz-Signature=76e9bf69372154774ed6b668890d6a83a17d9b4c1e34c65a6941f567c4bb8b38&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[05af781fc86209505eb928d390fb7595_MD5.webp]]
 
 
 <!-- column_list a0a0bf79-ec47-4865-a5a6-6256f9dd9ead -->
 
 <!-- column 80ca8183-5da9-466b-9df7-6ad41ae834b0 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bab7aa01-6fdc-417b-9974-46bf9466e779/be-corp2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202346Z&X-Amz-Expires=3600&X-Amz-Signature=b6cbca9aa04ef3962be5fcb4cfafa36ef8116435292e3e0588779f24c4f009dd&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[98b3be37936cc22032f52d776aa4c211_MD5.webp]]
 
 <!-- column b22213f5-2ed3-4943-be59-be9d800aa1eb -->
 
-![](https://s3-ap-southeast-1.amazonaws.com/dwarvesf-outline/uploads/abe80375-161a-4643-b7ac-a3a5ecb67011/095c3e12-ad40-4503-9a1d-572e63493ab2/Log%20in%20-%20%20Success.png)
+![[69537f10e0a7c768d1c85a6f15ff5ecd_MD5.webp]]

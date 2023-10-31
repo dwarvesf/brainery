@@ -17,7 +17,7 @@ There are 2 types of research you can do to figure this out:
 You can create a provisional persona of potential user base on your research and people around you who you think they are able to your object of study.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c4df18ae-93c5-488b-9264-a6e32e3aa0d7/Screen_Shot_2021-07-26_at_14.51.44.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202309Z&X-Amz-Expires=3600&X-Amz-Signature=c389ae1121769f562cfb755ca403aff1d2ffb3b43fb46a69ead2aee0c8da983f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[aad2cd76d88ab384bd09ba16793dab87_MD5.webp]]
 
 
 ## 2. Job Story & Scenario
@@ -57,7 +57,7 @@ After that, you should make statistical tables base on your test.
 
 After you review the user interviews, you write each users' pain points onto Post-Its. Then you categorize pain points with Affinity Mapping and prioritize them with 2x2 Matrix.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bc61f359-268e-44cc-9108-aa160cf382f2/Screen_Shot_2021-07-26_at_14.52.39.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202309Z&X-Amz-Expires=3600&X-Amz-Signature=5139bfccc1d7cecba45d3c1a65024456034c27c7634147b354f7b38c2a4b67ca&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[d8fe23347d8bff5a0be6ae56bd0fc438_MD5.webp]]
 
 
 ## 5. Flowchart
@@ -65,13 +65,13 @@ After you review the user interviews, you write each users' pain points onto Pos
 Next step, you draw a flowchart what is a diagram of the sequence of movements or actions of people or things involved in a complex system or activity.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a48294ad-15ab-436f-9fb3-77b89b913e19/Screen_Shot_2021-07-26_at_14.53.06.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202309Z&X-Amz-Expires=3600&X-Amz-Signature=9c63cfba7e508824a8f1e9474780a98c8f9f8ae0525077e5c5070e0b8d3cac2f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[1ce44520b17bffd06b033406e0d794a6_MD5.webp]]
 
 ## 6. Design Decisions
 
 **Sketch wire-frames**
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1b8e8426-968e-4678-a4bf-2c1aa9c4a521/Screen_Shot_2021-07-26_at_14.53.16.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202309Z&X-Amz-Expires=3600&X-Amz-Signature=cf44c9d878fd6630aaaf14f3b2a08a05e5dd8d7d1d363dbcbe83913e6a8fd528&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[d6a68d2878bdf01a430afc77624683a2_MD5.webp]]
 
 Sketching wire-frames using pencil & paper make easier to iterate your design and get feedback. 
 
@@ -146,7 +146,7 @@ Delivering your design with a design system is a **MUST. **So keep that in mind 
 This step will support the development team to understand what system you are doing so that they can follow up faster.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/25d8881e-fac5-4ed7-b1ca-77b0309e2be2/Screen_Shot_2021-07-26_at_14.54.54.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202309Z&X-Amz-Expires=3600&X-Amz-Signature=1f64a19b56a73555e0799b702c5009f1ff7b66fbe92517ba7d3c73e6d88d7fdf&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[a19657465a449ff547f2c9008bbfab8c_MD5.webp]]
 
 
 ## 9. **Review, Feedback**

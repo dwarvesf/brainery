@@ -5,7 +5,7 @@ tags: case study, design
 created: 2020-09-20
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8d978754-eb57-4735-9064-4ca27d372ddd/dental.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202335Z&X-Amz-Expires=3600&X-Amz-Signature=162a03b04e6d8d3770ce68da1aa0ea3f436891466b1ef122756bdfc8d841682d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[750273299ccf35fa1955d76bec350c9e_MD5.webp]]
 
 ### <span style='color:gray'>In brief</span>
 
@@ -39,7 +39,7 @@ Singapore dentists faces bottlenecks to practice dentistry and operates dental c
 
 <!-- column 930cfe66-7212-4747-9d81-827d410cc6c3 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/286c19dd-82e9-4972-9038-ea1983d0b0a7/dental-ws.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202336Z&X-Amz-Expires=3600&X-Amz-Signature=ef3e7ff30f6e6e49d4ea6ec223e9dc5f882c55a1890901dbf29a1f97a2f71580&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[0a64a21eed5328c78fabbc3310ad4dd0_MD5.webp]]
 
 Singapore dentistry market is USD $24M/ year generating by at least 688 clinics. These clinics are spending USD$2,064,000 a month on dental supplies. The growth is robust. But the operation is outdated. Disrupt the long-term habits and optimize them is challenging.
 
@@ -69,7 +69,7 @@ We started everything from a fresh idea. The process started out as market resea
 📍 With Agile practices and Scrum framework to iterate the product release and adapt to changes, we came across as exactly what Desmond is seeking for. 
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e3c27a07-9b59-491e-829a-59cd368a4c5d/dental-chart.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202335Z&X-Amz-Expires=3600&X-Amz-Signature=bf0daf5fd28d2dedf7bfd6fc185391b9a3acbac013e786cd5c53cac91d34380f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[ab7ac6266fe7ab7df8050695751d996c_MD5.webp]]
 
 
 <!-- column_list 62d9dd15-5fe4-4217-b905-c2c07cad9696 -->
@@ -96,11 +96,11 @@ We started everything from a fresh idea. The process started out as market resea
 
 <!-- column 9e2c2a48-6fa8-4063-8b68-ef2609174c9c -->
 
-![](https://s3-ap-southeast-1.amazonaws.com/dwarvesf-outline/uploads/abe80375-161a-4643-b7ac-a3a5ecb67011/3615c953-5354-4773-b853-3ce7834a362f/DM%203.png)
+![[32cdb72ad303446c1735a18d08137f1b_MD5.webp]]
 
 <!-- column c8038c72-134e-44c0-8079-d9d917ef375b -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2270fe26-acec-4e7f-8ad8-ff47a1eec755/dentral-services.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202339Z&X-Amz-Expires=3600&X-Amz-Signature=5f9d2cc4324e2f727ac1384062d314b370f3f3ef239bf86de320c4f70aa919e7&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[5241af2f0c67f40f4385917da088a7d7_MD5.webp]]
 
 ### <span style='color:gray'>Outcome</span>
 
@@ -118,7 +118,7 @@ Desmond had solved his issue from day one: <span style='color:gray'>Build a play
 
 <!-- column 57dd1c34-05cc-4e2e-ae40-e9cb8ddb58a9 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4cf6713d-0dfb-4b4f-87e7-0388c3c957e1/dental-cde.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202340Z&X-Amz-Expires=3600&X-Amz-Signature=2d9c18ca93ff9cde60f2d5a774a8f08eed52c60ace20143c0fc343fd48f4ed27&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[99617c82d4309f4529b87fa9be52e0cb_MD5.webp]]
 
 
 💬 "It was hard to disrupt Singapore dentistry market. But the work  with Dwarves Foundation made me believe Dental Marketplace would make a difference. The MVP was high-quality and expected to grow. Every of our question and feedback was explained and resolved well. 

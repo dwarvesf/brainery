@@ -7,7 +7,7 @@ created: 2022-04-20
 
 **Tuan Dao - Senior Frontend/ Blockchain Engineer**
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/89daf8fc-7c41-427d-afdd-c9bd2daff16c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202227Z&X-Amz-Expires=3600&X-Amz-Signature=650c5cc335b881f657a333f26e8637d4b4843c9ca9fd114f80580ae84aed5095&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[4be54ce3d8d423df9ba6725bae6056ce_MD5.webp]]
 
 
 Tuan has 4+ years of experience under his belt, 2 out of those 4+ was spent at Dwarves Foundation. Tuan’s years of experience don’t quite do him justice though, for he’s skilled and knowledge beyond the year, and has took part in projects of various sizes and domains.

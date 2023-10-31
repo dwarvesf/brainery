@@ -5,7 +5,7 @@ tags: case study, design
 created: 2019-11-15
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0345fcc8-e225-4018-bf45-d5462479fe1a/airwatt.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202336Z&X-Amz-Expires=3600&X-Amz-Signature=394c4526257c557b3466b966e39cc07e03c12a3e8d988fb33f63695e143118e4&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[b1d2f4d32b1a3a8f8085bf8a5aebe92f_MD5.webp]]
 
 ### <span style='color:blue'>In brief</span>
 
@@ -41,7 +41,7 @@ The problem is hard to solve, yet, it's worthwhile and improved all the time.
 
 <!-- column f9cd192b-3841-48fe-b8b3-1002950189be -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d9334671-c271-4a89-b586-03cc0ff6c74b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202338Z&X-Amz-Expires=3600&X-Amz-Signature=5198ca8b57ca1152b4fbc89b189f55aea9b4f09ca847f967eb5837f0e39abbe2&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[cce56122290dff1fee0a827b148f1e41_MD5.webp]]
 
 They have the capability to handle hardware production and Machine learning. But they face obstacle in building the MVP to visualize and nurture all the data structure. That's where we dive in to help, as technical partner and venture builder. 
 
@@ -74,7 +74,7 @@ All data must be synced to the AI system in real-time. AirWatt faces <span style
 
 <!-- column 646ca5cc-c0ab-45de-bb9e-d3b21b97b7e1 -->
 
-![A look at our main components graphs](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5688d0cd-1490-440b-9e8d-1a1a268c84cf/Untitled-2020-12-15-1431-5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202339Z&X-Amz-Expires=3600&X-Amz-Signature=c03d1e9b9dac5602150abfef96022beeacac35ad7f503864eeb82e9f34ac396d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[c91a49d28d91773c00b3165feaaa9319_MD5.webp]]
 
 <!-- column_list 87bb159c-cc40-495f-a25b-8fc1be8bffc5 -->
 
@@ -160,7 +160,7 @@ We use smart config integration with ESP2866 as wifi protocol. This requires man
 * Development: Figma, Git/Github, Insomnia, K9s
 * Practices: Agile, Gitflow, CI/CD, Code Review, Automation
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/255865d3-c6a5-4ed4-a56d-9ee56767c7f1/Untitled-2020-12-15-1431-2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202346Z&X-Amz-Expires=3600&X-Amz-Signature=c4300c85d454dce043febd403f9cc418c49df29e5376cc66a197cffcd981b35b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[8d005fd066a63c376836e9440523ee69_MD5.webp]]
 
 ### <span style='color:blue'>Outcome</span>
 
@@ -179,7 +179,7 @@ After three months, we have accomplished the MVP development stage with necessar
 
 <!-- column e83b311e-7580-41de-902c-fb1266e6a791 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6b4ec91d-4025-480f-8b8e-2c8bfb8e8511/aw-report.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202346Z&X-Amz-Expires=3600&X-Amz-Signature=c65f8f2d5f81a07aec7c1661f10a083dc34aa7335530e24e8267f991b1988a23&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[98ff38b1521894691a908557706aedcc_MD5.webp]]
 
 <span style='color:blue'>**Airwatt**</span>** **has successfully made its way to the problem-solution fit stage. And event marked itself at <span style='color:blue'>[Vietnam Zone Startup](https://vietnam.zonestartups.com/zone-startups-portfolio/)</span><span style='color:blue'>. </span>The next milestone customizing the web app for a specific domain: FnB. A spinoff to the energy monitor solution for FnB is Airwatt's nearest goal. 
 
@@ -188,11 +188,11 @@ After three months, we have accomplished the MVP development stage with necessar
 
 <!-- column e8c744dc-0b7c-4a72-abe8-5fd4d706eb89 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5c54ac22-7e45-498c-bae7-9449918d97e3/aw-solution.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202347Z&X-Amz-Expires=3600&X-Amz-Signature=6b1f0002399a11b8c30732407bf55d5ecf488000c4d426434a819213d05f0535&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[cce56122290dff1fee0a827b148f1e41_MD5.webp]]
 
 <!-- column 2ab90555-540b-4b0f-94dc-14089ab7314e -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/db8b2c73-d2bb-4b63-aedb-b8a8bd08b4e8/aw-suz.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202347Z&X-Amz-Expires=3600&X-Amz-Signature=6ffcdccb292cbed434d054efc14cb946322620522c69330d521a5c5bbae4417d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[c371c2899128501e8f1ae7b28e17fa72_MD5.webp]]
 
 
 

@@ -13,11 +13,11 @@ Firstly, I start the simplest content type — paragraph. One of the atoms decid
 
 Everything almost has a proportional so line-height also it. **1.5** is a suggestion for you to have a good starting point.
 
-![](https://cdn-images-1.medium.com/max/11520/1*I0HTKiu4qGCVomjcni8Fjg.jpeg)
+![[83a1ac346ab98c836ab637c14c3ac9cf_MD5.webp]]
 
 However, you should not use the same line-height for all text. Here is a common mistake for beginners. 1.5 is a great proportional for body text, but as heading or title, it should get tighter. I suggest that the text of the content will use the title of **1.2**, the subtitle of **1.3** and the body copy of **1.5**.
 
-![](https://cdn-images-1.medium.com/max/11520/1*g3Js2T85ffKvjwpG_8C40g.jpeg)
+![[7edc02bcf0ab2561f68d9869b7addbac_MD5.webp]]
 
 
 ### Spacing between two consecutive paragraphs

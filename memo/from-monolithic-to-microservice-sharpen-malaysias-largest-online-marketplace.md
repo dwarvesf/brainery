@@ -5,7 +5,7 @@ tags: case study
 created: 2021-03-09
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/edb927d0-12de-4323-b7f7-e666494639eb/mudah.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202331Z&X-Amz-Expires=3600&X-Amz-Signature=67573dc9bdbc3982ad737ffe207866b8537051cccf511d9208243ea43ac424fe&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[6be4a77492fe56879670e7842673e411_MD5.webp]]
 
 <span style='color:red'>In brief</span>
 
@@ -38,7 +38,7 @@ With 12 years in the market, their system starts to slow down. It affects the da
 
 <!-- column 2b30674a-782f-4eab-91b7-11071971be0b -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6131019a-3171-4b13-89f3-71f6a8dddbf6/mudah-ws.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202332Z&X-Amz-Expires=3600&X-Amz-Signature=952c16efbb9305fb855289f2e89f6a8e04f7f111dadb27b2ba4e9188958f8a81&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[78b9b340766e04c40cbb7e8aadf4be69_MD5.webp]]
 
 The world develops, Mudah must targets a younger customer segment. The website interface and stagnant system are holding their goal back. 
 
@@ -98,7 +98,7 @@ It was amazing to facilitate their growth and contribute our best practices. The
 
 <!-- column 9ce16f6a-34d8-4173-b703-c2816f72af00 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/802a6499-75d4-40c6-be49-cf6d4c3b98df/mudah-sell.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202334Z&X-Amz-Expires=3600&X-Amz-Signature=67bc8f7159b946d2e0a6c51bb95943d43f39eb9848c839223edab4d1c749f957&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[828660c66933d83b79c4f5ba817fd265_MD5.webp]]
 
 
 💬 Completing the tech platform changing and stretching the revenue are two main goals that Mudah.my intends to follow. To maintain two biggest challenges at once is quite difficult. We got positive responses from the team, the skillset and the member were in high quality. That helped increase our confidence in the Dwarves and we're very interested in working with them.

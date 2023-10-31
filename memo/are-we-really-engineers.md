@@ -5,7 +5,7 @@ tags: engineering
 created: 2021-03-08
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1577c29c-dbb1-4dfe-894a-19d4d33e0327/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202424Z&X-Amz-Expires=3600&X-Amz-Signature=01ad490c90396d8d7a5dd0226f0c63a90d18e48dbef2bd537fa8dfaca1344405&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[6cf3675a02ca90a8745a69479b359671_MD5.webp]]
 
 
 Is software engineering "really" engineering? As the Dwarves asked this question during the [Apprenticeship Training Program](https://github.com/dwarvesf/WeAreHiring/blob/master/open-positions/Apprentice.md), we had a chance to dig more into the topic. Many professionals discuss this, but there's not a full answer. The engineers strictly follow the engineering process, apply math to solve the problem, and build products. We software engineers don't feel like the same as described. I found the originated articles from [Hillel Wayne](https://www.hillelwayne.com/post/crossover-project/are-we-really-engineers/), and it perfectly answers the question.
@@ -19,7 +19,7 @@ In software, we don’t use these things, leading to the conception that we don�
 This falls in line with the rest of engineering. Different branches use different kinds of math in different ways. Industrial engineers are concerned with very different things than mechanical engineers are. Just because we use a different branch of math doesn’t mean we’re not doing engineering.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/004c6fdb-def3-4b4e-8891-05f055fc7c08/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202424Z&X-Amz-Expires=3600&X-Amz-Signature=cf7198f4cfd5890c3e0083897ea24a9bf4fce61a82270bc990a0976503696539&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[cfc74d29d5032e4015de69984f910062_MD5.webp]]
 
 
 ## The other differences
@@ -39,7 +39,7 @@ Traditional is waterfall, software is agile. If there's one thing we think is un
 It's true that traditional engineers do a lot more upfront design and spend more time in dedicated testing than software engineers do. But this doesn't mean they have Waterfall level rigidity, nor does it mean that our Agile is alien to them. Rather, spending a lot of time in phases is a natural consequence of the economic model. When iterations are longer and more expensive it makes more sense to spend more time planning them out.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/68c38a14-17b9-4cfb-8551-ee868e725e93/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202424Z&X-Amz-Expires=3600&X-Amz-Signature=ccb47422d746ddc40076c9e4905de2ef1acb0a0e559398925abc25968cbcc7f8&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[22ca6a7a31c29b15355a09a6cbd7129b_MD5.webp]]
 
 
 While there are many ways we are different, there's a difference between being "different" and being "special". Yes, mechanical and electrical engineers don't have to deal with the same security concerns we do. They also don't have to deal with weather patterns to the same degree that civil engineers need to, and none of those three need to deal with the problems inherent in chemical engineering. Every field of engineering has unique challenges and software is no different.

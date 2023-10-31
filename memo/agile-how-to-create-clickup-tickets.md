@@ -64,5 +64,5 @@ Created on: May 10th, 2018
 Due Date: May 20th, 2018
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/74e5f1d5-4f05-4545-8886-416876ba76b6/ScreenShot2018-06-04at1.13.20PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202350Z&X-Amz-Expires=3600&X-Amz-Signature=bab9e2283dd166f2784fc2b0a270648fb5001eb4eb804cafd7389378adaf1d0c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[0a0e01fd89063d645b741fc4020c6a5b_MD5.webp]]
 

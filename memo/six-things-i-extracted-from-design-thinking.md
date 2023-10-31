@@ -26,7 +26,7 @@ In my team, we discuss Design Thinking a lot. Everyone has a different point of 
 ## Keep an open, curious mind
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/292444f5-720e-41cd-a790-f0b89f91afeb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202447Z&X-Amz-Expires=3600&X-Amz-Signature=eb6b4d06ed756e19660b92cc797d389f311661997ef45347ded7534fa5194613&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[79c08449fbd6f94151675d1e9b64eb98_MD5.webp]]
 
 
 We fear what we don't know. It is a common human thing, to fall into a panic mode when we are faced with newness. When we start or encounter something we're not familiar with, we often feel stuck with not knowing where to start, and gradually, we avoid it.
@@ -41,7 +41,7 @@ With information, now we have an idea what we’re dealing with, the panic shoul
 
 ## Make sense of information
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/72e635f2-175b-4c19-a974-e9342541a554/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202447Z&X-Amz-Expires=3600&X-Amz-Signature=a1b7ae56a55c7f42ec1c38a103b5d50df5a6df6fed51756c63a6e7d3b624e63a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[d2c2897e585f20d406067bc9aa6d628d_MD5.webp]]
 
 
 In "Things that make us smart: defending human attributes in the age of the machine", my favorite author Don Norman, shared:
@@ -53,14 +53,14 @@ Having a lot of information helps us understand, but without systemizing it, inf
 Everyone has their own method to organize data. Personally, I’ve found taking notes using the [Zettelkasten](https://zettelkasten.de/posts/your-first-note/) method to be the most effective. “The Zettelkasten note archive is the storage of your knowledge”. The great thing about this method is that we are able to create connections among data. That helps not only remember and process flows of data but also spark new ideas. This process is non-linear and potentially never-ending, as new information keeps being added as notes.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4467086f-785c-4eae-9297-c6bcc254bdb5/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202447Z&X-Amz-Expires=3600&X-Amz-Signature=0c75eb9022704b193e27c167a0d21ebba2bf5146efd55048e7ceb202a1ac2b57&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[41a4d5306abb2cbebf67b66af3bb7377_MD5.webp]]
 
 
 The Obsidian tool was designed based on the Zettelkasten method and deems to be one of the most fitting ones so far. At first, I didn't like writing, but obsidian notes made me come to it naturally. It soon became a habit to collect everyday data, organize, and analyze them.
 
 ## Make unbiased decisions
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2384ab7d-5483-417c-953b-fde5a0a24b04/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202447Z&X-Amz-Expires=3600&X-Amz-Signature=c6dffe1ba7850a11dae59456dd73dcba94b51673d1bde6f45c77ddd59bb5a7f0&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[9e4f26e9fc6da86f7941f0da35485279_MD5.webp]]
 
 Most of the time, we are offered the power to make decisions. Either we could do this or we could do that. As humans, we perceive things and make decisions based on our personal set of values, including our upbringings, beliefs, cultures… Avoiding bias is a big challenge.
 
@@ -76,7 +76,7 @@ Relying on knowledge, context, and data to make decisions helps us avoid being b
 
 ## Make better decisions
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d873eeb3-77b4-4abd-be0f-265ee668ca26/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202447Z&X-Amz-Expires=3600&X-Amz-Signature=3505de7db142d8ee3d5d5405d08e6229d7a3bf6caaceb9d0a7ecb2ce414030d8&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[8f1780f4af0d9ab2db8f05e84a8d064a_MD5.webp]]
 
 Usually, we would think coming to a decision is the end of it. But as designers who solve problems using Design Thinking, we know tracking the effectiveness of our decisions is just as important as making decisions.
 
@@ -88,7 +88,7 @@ Testing and checking are not a waste of time, they are a way of improvement. Wit
 ## Change. Adapt. Evolve
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7de43a81-84b2-4319-9602-13465149636b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202447Z&X-Amz-Expires=3600&X-Amz-Signature=651ecacfc559a0e7eee3a9da4e6336a002e8e9c0b34c8388a18fc894a359932d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[a312bb97ae7e137118339c676689e1dc_MD5.webp]]
 
 
 We live in an era of rapid change, especially in technology. Something we deem work today, might not be anymore tomorrow. Things change all the time, our decisions should too. We should always be aware of what‘s happening around us, so we could align and revolve as quickly as we can.

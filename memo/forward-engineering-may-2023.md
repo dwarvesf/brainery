@@ -58,7 +58,7 @@ This has reflected in our Brainery, where we see much more concise writing from 
 A summary of some trending tags we see in our Brainery. These tags represent what things our contributors are actively thinking about and researching. For this month, we see a stronger focus on LLM and AI topics, but we also see trending tags related to backend and frontend with more focus on foundational topics such as web-design, OOP, SOLID, etc.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4a8ed28d-a125-4e24-b6ae-54d7c650bfde/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202134Z&X-Amz-Expires=3600&X-Amz-Signature=4da46fab26bf19b252b6df1594d5e8d44e7a9186440ab62ec542fdedd868ea89&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[286f7e7f87cc09dee3370332640b937d_MD5.webp]]
 
 ### <span style='color:green'>**Top Contributors and Notes**</span>
 
@@ -66,7 +66,7 @@ Every month, we collect a list of top contributors, those who have contributed k
 
 We also make sure to give recognition on our [Discord](discord.gg/dwarvesv) server, so be sure to catch up with us there!
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/eec1ea5e-fe83-40f7-bfd1-546039b28958/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202134Z&X-Amz-Expires=3600&X-Amz-Signature=f42d82ade1f09254c529e1b494cd26480beb59d175704084641a24420e9ede64&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[540e3597ede09140b3b405d8c88eb206_MD5.webp]]
 
 * [monotykamary](https://github.com/monotykamary) - [Working with langchain document loaders](https://brain.d.foundation/Engineering/AI/Working+with+langchain+document+loaders)
 * [monotykamary](https://github.com/monotykamary) - [Workaround with OpenAI's token limit with Langchain](https://brain.d.foundation/Engineering/AI/Workaround+with+OpenAI%27s+token+limit+with+Langchain)
@@ -126,7 +126,7 @@ We’ve held our Software Design research group for just over a year. This month
 
 [Dwarves Rewind](https://www.linkedin.com/newsletters/dwarves-rewind-6963734647327375360/) is a reading list serving as a collection of news we aggregate weekly. Tech is a very high-paced industry, and rewind helps to serve as a curated list of trending and high-profile topics that everyone can look back on.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ccc9cad2-0439-45d6-88b3-422d3c4e6920/Frame_87.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202134Z&X-Amz-Expires=3600&X-Amz-Signature=619c24bcb259c4bb08c54fc8d1da055b07858a96371b25a2b51d4a9440a8939c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[2169474a34f559c08a1f41e2a7d188c1_MD5.webp]]
 
 ### <span style='color:green'>Trending and Hot Topics</span>
 

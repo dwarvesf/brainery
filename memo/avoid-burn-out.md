@@ -17,7 +17,7 @@ It describes the state of physical and emotional exhaustion. Burnout reduces and
 Fellas, welcome to the burnout station.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ab9f17a6-4cae-4e1c-8bd4-a51ea0f42bb0/burnout.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202457Z&X-Amz-Expires=3600&X-Amz-Signature=68f5fbbb8c7bed11724304fec9113fdb9e3eafaa8ffaf03fbde0837b425003c8&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[10437bf97d35a54a0ca1b65fc00984b1_MD5.webp]]
 
 
 

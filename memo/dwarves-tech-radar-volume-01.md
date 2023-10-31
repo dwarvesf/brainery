@@ -15,7 +15,7 @@ It is the first time we sit down and do it in written form. It's a bit hard for 
 Besides volume 01, we have an opportunity to sort out our current technology index and put it at<span style='color:pink_background'> </span><span style='color:pink_background'>[https://d.foundation/radar](https://d.foundation/radar)</span><span style='color:pink_background'>.</span> And for this edition, the theme is to get the whole team used to the concept of a central knowledge base—every study to expand our view to the tech scene counts. The design team also has a place to contribute and discuss their practices.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3ee54756-9911-4227-875d-ae42ab575ae6/radar.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202451Z&X-Amz-Expires=3600&X-Amz-Signature=91c5b3e9c5219325bc244e6e2fed275740da8f9a53c37a8ca38bdf55bde589c4&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[d6ad0adba1f212243cbd321a44cc2e53_MD5.webp]]
 
 
 

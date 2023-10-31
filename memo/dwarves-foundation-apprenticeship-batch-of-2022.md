@@ -7,7 +7,7 @@ created: 2022-09-23
 
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/29909a29-15dd-4315-a362-46dac01deb72/banner.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202207Z&X-Amz-Expires=3600&X-Amz-Signature=0f8f20b98e09b72fbc37a3584ad2007a1c10eaadcb06eb25d33ff78eb6e65306&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[78a3d92a37a80df03892be456361742e_MD5.webp]]
 
 
 It’s our second attempt rolling out this program. But the motivation stays the same: <span style='color:red'>Accelerating someone’s current software development skillset</span>.
@@ -119,7 +119,7 @@ After every training session, we  required the apprentices to share their feedba
 * <span style='color:red'>Guiding Method</span>: Instead of the traditional mentor-mentee method, we’d prefer a peer-to-peer collaboration. Apprentices are trusted with their work and free to raise their ideas. 
 * <span style='color:red'>Teamwork Mindset</span>: Regardless of roles and seniorities, we provide the absolute support for those who need it.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/eafab7b1-b56d-45aa-ba97-b181700f8b1b/values.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202207Z&X-Amz-Expires=3600&X-Amz-Signature=20008116b52ec878c96bff80024755f6e97eb3b1262008ce063335d1f30f286a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[9726985cf7f5aabace53ea202291bdc3_MD5.webp]]
 
 
 # The next roster
@@ -144,7 +144,7 @@ None We have a lot to learn ourselves, and we hope to improve them at our next y
 
 <!-- column f1701f2c-c4ef-454a-a12e-5e6c180fdafc -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8e3fa169-dcfe-4130-9698-ecb73ee3d939/2._Khang_Le.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202214Z&X-Amz-Expires=3600&X-Amz-Signature=864b650836676f9d079aa59f1af1be896d4c903aaf45fd0c8022c96358e2fd14&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[e8c0afe85eea656357812dc687d5668d_MD5.webp]]
 
 ### [Khang Le](https://www.linkedin.com/in/khanglna/)
 
@@ -152,7 +152,7 @@ None We have a lot to learn ourselves, and we hope to improve them at our next y
 
 <!-- column c109ed97-7905-4d57-ba09-c1172f8f7f85 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/01e59dd3-eefa-4919-937a-d0c544544760/1._Ho_Minh_Hoang.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202214Z&X-Amz-Expires=3600&X-Amz-Signature=a45bcbf1db319ab6d4bdbca5b7caf2a0f14f87ec27dcbec7fdf24c824fcfca35&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[ed3e89a78837a3760bfee0c5ec4b4ecd_MD5.webp]]
 
 ### [Hoang Ho](https://www.linkedin.com/in/hoangho0106/)
 
@@ -160,7 +160,7 @@ Fullstack
 
 <!-- column 9d21d3dc-2dcc-48ed-9df3-1e40ac8a4114 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6ff1bc9e-a881-4486-b294-662fe8d75c21/4._Nguyen_Huu_Nghia.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202214Z&X-Amz-Expires=3600&X-Amz-Signature=7a1e10c67a78d9278949a94c66424360b3d82e04241aedaebfd17534eb307269&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[cfb99f36061038652a298a06cc7132c8_MD5.webp]]
 
 ### [Nghia Nguyen](https://www.linkedin.com/in/nguyen-hieu-nghia-8603301b5/)
 
@@ -170,7 +170,7 @@ Backend
 
 <!-- column 5a44225a-d5c8-4a21-95cc-a50a8af44de6 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3b33839c-f0f6-4cf3-889e-693b2d4344e9/3._Khoi_Nguyen.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202218Z&X-Amz-Expires=3600&X-Amz-Signature=516d666dc15b847f6189fa909996754856a813c58e6f6222724f4998ae86240b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[4d66f56c5c2cb79aac6997569d9467ee_MD5.webp]]
 
 ### [Khoi Nguyen](https://www.linkedin.com/in/khoi-nguyen-a31a6a1b6/)
 
@@ -178,7 +178,7 @@ Backend
 
 <!-- column 95edc828-d63b-4cba-9ff3-2ee321214eda -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a50677c8-fc8b-44fa-879a-e80203c60d72/6._Nguyen_Truong_My_Anh.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202218Z&X-Amz-Expires=3600&X-Amz-Signature=36de06c2f25ccab55b020da6fd20c19556d1e8d9cfa433b11db31913dd7d8f52&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[b3c67009fa8b96015ff2841c43a51094_MD5.webp]]
 
 ### [My Anh](http://linkedin.com/in/anne-n-bb440116a)
 
@@ -186,7 +186,7 @@ Backend
 
 <!-- column 3bfe80bf-af65-4e10-bb12-92881a28ecc0 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ed855bd5-cdec-4cfd-aeff-10129abd6b9c/5._Nguyen_Huu_Nguyen.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202218Z&X-Amz-Expires=3600&X-Amz-Signature=ed145561b427d419d316eb1726e520ad2ac778d01f2f9c581f4c99d0133851f7&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[e5f4ac7530ad0b779e9cca71072587ab_MD5.webp]]
 
 ### [Huu Nguyen](https://www.linkedin.com/in/nhn/)
 
@@ -194,7 +194,7 @@ Backend
 
 <!-- column e9884fe6-7476-416e-a005-a9ae230c4ab5 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0b808d7b-2238-481c-9b33-8af9e5592492/7._Nam_Bui.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202219Z&X-Amz-Expires=3600&X-Amz-Signature=26268cce61302195c3e75e346996cd14b02c38b2a29f534629f63152f05e8c45&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[c85c0642662081dd22c2d1d0f90175c6_MD5.webp]]
 
 ### [Nam Bui](https://www.linkedin.com/in/nam-bui-36060521a/)
 

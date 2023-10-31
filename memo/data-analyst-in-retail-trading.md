@@ -21,7 +21,7 @@ For BI tools, I am familiar with Power BI, Tableau and Google Data Studio for ma
 
 ## Data Science Hierarchy of Needs
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a20bad02-a9c0-4a64-858a-6dfd099cbaba/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202211Z&X-Amz-Expires=3600&X-Amz-Signature=883d9982a6bb619b2ce807edeb640c19b74bfc63d7d34486795848dbbdddad3c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[b51792aac952213b495c5a808756aaea_MD5.webp]]
 
 This diagram show what all the general departments in data do. Firstly, **Data Infrastructure Engineers** will set up infrastructures for data systems such as setup for databases, Kafka, etc. Secondly, **Data Engineers** will then create data pipelines, ETL process and convert raw data to modeled data for transfer to data warehouses. Then **Data Analysts** prepare data from those sources. This involves cleaning, transforming, and analyzing data to curate and compose metrics, infographics, and insights for reports. After that, other tasks regarding machine learning, AI, and deep learning are handled by **Data Scientists**.
 
@@ -31,7 +31,7 @@ A good Data Analyst should understand how a company does business and an underst
 
 ### System Overview
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d975786b-9e1e-4c5f-bbc9-9f16e3887926/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202211Z&X-Amz-Expires=3600&X-Amz-Signature=c8852813e727973df1ce91a1e23efaf17000a24f59c99a5f1aba5a228f5de84d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[14e655f71283c0bb4e3f9b48de8f69a0_MD5.webp]]
 
 Understanding the overall system can help Data Analysts get a feel for where data resides across databases and how they relate with each other. Each system is designed differently fitted for its business use case, but there are typically 2 main types: the core system and services/microservices.
 
@@ -39,7 +39,7 @@ Examples of core system solutions are Hybris, POS systems, SAP, TMS, etc. For se
 
 ## Data Process
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ee2f50fc-7a4b-4494-ac95-b751268fe72b/Data_Process.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202211Z&X-Amz-Expires=3600&X-Amz-Signature=52b1da08a6a104e0a3aef9e76d0a89efdb21741ec07dd8d312b9c149ae66da08&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[8e94c2b1eae7bec4aa0736af3576cca7_MD5.webp]]
 
 The data process to creating the report as a data analyst is dependent on 12 steps, where responsibilities are shared between the Data Engineer, Analytics Engineer, and Data Analyst.
 
@@ -70,7 +70,7 @@ There are mainly 3 types of Data Analysts with regard to retail trading: Operati
 
 ### Operation Data Analyst
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6b201671-bc54-4ad0-8257-9bae10cb55c9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202211Z&X-Amz-Expires=3600&X-Amz-Signature=ea0b2017f3d39ba604d11e6faf129cce4ea6bf27c0bf8947f554b63af1f434c1&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[18cef87bd2e06e47fc4c26388b3b6897_MD5.webp]]
 
 Operation Data Analyst are responsible for tracking for daily sales of the company and its general operations. For instance, they need to be able to explain for volatility of company sales, give sale insights as to which product brings the highest Gross Merchandise Value (GMV), which vendor has the highest growth rate, etc.
 
@@ -78,7 +78,7 @@ They also help track for risk and fraud. This includes, but is not limited to, t
 
 ### Finance Data Analyst
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e25d7265-75c6-4466-bc5d-14d971cdaa16/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202211Z&X-Amz-Expires=3600&X-Amz-Signature=8b0da4e1f97cbdf213baa940846c7a44e0d23e087ad37af5e7e35d8241c9126f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[3d7425b1a0728a1b0bb3464749880f6a_MD5.webp]]
 
 Finance Data Analysts have two main concerns: margin control and transport management system (TMS):
 
@@ -94,7 +94,7 @@ $ \text{Margin} = \text{Revenue} - \text{Cost} $
 
 Transportation cost is based on route distance, cargo volume, distribution rate of the distributor, bonus, or payoff for distributor with the data aggregated from the TMS system and manual input. Warehouse cost is based on amount of space, rental rate, operational cost, etc. Promotion costs refer to marketing campaign costs.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a8e6aa0a-b4ca-46a2-b98e-6edf4090ddc8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202211Z&X-Amz-Expires=3600&X-Amz-Signature=0fe68b58ed54ecfc251b570d5efa4fcfcd9f80b040d4903a531c33156f8bba9c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[7d514b708e3dd2bff8747f1a3adb3001_MD5.webp]]
 
 
 **Transport Management System**
@@ -102,7 +102,7 @@ Transportation cost is based on route distance, cargo volume, distribution rate 
 You need to optimize the rate of distributor gains against your company gains. If your company pays a low rate for the distributor, they may not distribute your product to your customer or settle with low quality service level agreement (SLA). By contrast, if you pay your distributor too high, your margins will be lower as a consequence.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c8d743b2-d5d1-4bfc-a2f3-b7acb8d21366/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202211Z&X-Amz-Expires=3600&X-Amz-Signature=61f421e16a3d52da5b73b8f9ee95687446abd67630a3cca4dd33d2650b3e072d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[58bf592103e00d6b6caa5eead9bd4310_MD5.webp]]
 
 
 ### Marketing Data Analyst
@@ -115,7 +115,7 @@ Marketing Data Analysts are concerned with tracking consumer related data, that 
 Tracking processes to acquire customer and customer conversion rate. In the example chart below, we can see the process of how a company acquires a customer. With this funnel and data, we can know which stage has the lowest conversion rate and improve upon it.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a3ee4ad1-34a4-4b09-99a2-4ae2a16d2817/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202211Z&X-Amz-Expires=3600&X-Amz-Signature=a05c88c43c8a361f4c24558099012edd1f5b6c75815053acf98ff7aabeafe176&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[3aca3432d1627444ce28b323e9773b65_MD5.webp]]
 
 
 **Customer Segmentation**
@@ -125,7 +125,7 @@ Taken from the Pareto principle, we see that 20% of big customers will bring 80%
 For the improved customer and good customer group, we have different strategies to improve their standings, such as deploying marketing campaigns or investment in sales. For the rest, we see that 50% of all customers generally fill the low quality group. This group often trials the product and see few repeat purchases, so spending resources and money on improving their standing may prove wasteful.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/beedd1a1-5559-4ed6-a915-e2062f27a045/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202211Z&X-Amz-Expires=3600&X-Amz-Signature=bdf5367fcc880a6ab38287eb380a82f4cfc66646a19700a8aa68f1d309294534&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[dfe1dcf3b249f0a1569997f9ba5a8f66_MD5.webp]]
 
 ## Conclusion
 

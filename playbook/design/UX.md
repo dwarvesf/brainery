@@ -106,4 +106,4 @@ For each user flow, the questions you need to consider are:
 * What additional information will the user need to accomplish the task?
 * What are the user’s hesitations or barriers to accomplishing the task?
 
-![alt text](https://cdn.dribbble.com/users/331539/screenshots/3511356/uxflow_dribbble.png "User Flow")
+![[3d7c3626f0c1880f74be8d46181f9e1b_MD5.webp|"User Flow"]]

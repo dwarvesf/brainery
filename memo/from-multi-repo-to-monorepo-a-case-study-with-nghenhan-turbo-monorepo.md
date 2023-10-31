@@ -35,7 +35,7 @@ Turbo, a purpose-built tool for managing monorepos, offers numerous benefits tha
 
 Here is the diagram for the full flow of the migration process of our apps:
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a1d812e5-8d09-4436-961f-0706eb874e71/Untitled-2023-03-13-1037.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202144Z&X-Amz-Expires=3600&X-Amz-Signature=88128ae3d486c9a33ae328413cbabec1c82c9dc0bacee8949d9917d7297f3135&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[8dc9116f98bf7a170ec249c0e63ad699_MD5.webp]]
 
 Our migration process entailed several well-planned steps to ensure a seamless transition to a monorepo using Turbo:
 

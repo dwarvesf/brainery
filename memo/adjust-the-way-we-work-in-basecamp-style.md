@@ -17,7 +17,7 @@ Basecamp, for example.
 Our path with Basecamp didn't cross by accident. Years ago, we embarked on the Slack community and had it applied for internal communication. And project management on another tool, where documents & files are in G-suite. Every day is a short strip from one place to another. Then get back. Then do it again tomorrow.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/edc65451-9eb1-45a8-9972-17339d6af9b0/workflow.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202455Z&X-Amz-Expires=3600&X-Amz-Signature=6176030bafafe2d25df7aa7c9075a4a31a0bc53b25a70c5a2bd7b6f727022a02&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[658f6b0263106796290e37aa78015232_MD5.webp]]
 
 
 As much as we enjoyed the fast replies and high-engaging interaction amongst the member, it's challenging to focus on the work. Every smallest message can become a team gossip/ discussion, not to mention the biggest distracting part - memes. That shit is unstoppable.
@@ -102,7 +102,7 @@ When you've had enough with the scrolling, a shortcut is a savior. Basecamp take
 Basecamp is formal enough to keep people concentrated on what they do, but still it gives them the chance to be creative.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a544364f-cb00-4aff-a2ce-e85545a2e0cf/basecamp_auto_x2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202455Z&X-Amz-Expires=3600&X-Amz-Signature=09c9f98201981e342ed9a7696332400e495d15269c2d1cbf3ff72fc5321f6f34&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[f6faf06ec700b2002c00cd15aa3ea707_MD5.webp]]
 
 
 Another thing that drives us toward is how Basecamp makes things transparent. The 'Activity' tab reveals everything we need to know, whenever we need it. That somehow helps us focus on what matters, and reduce the risk of FOMO.

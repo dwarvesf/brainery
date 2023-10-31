@@ -25,7 +25,7 @@ We push hard on our clients to build the right features, and build them to the r
 
 The right level of complexity is achieved by managing the depth, breadth and scope of features. When you represent your product in a story map, you can hit your project budget by subordinating the scope of total experiences (breadth), tasks within an experience (depth), and level of ease (polish).
 
-![](https://s3-ap-southeast-1.amazonaws.com/dwarvesf-outline/uploads/34adb8ba-29bc-4ab8-b128-fea45fade09c/f457e313-135f-4ddd-8b1a-0da0c3babc5a/image.png)
+![[092695110fbd8d07129008b2f256b9d9_MD5.webp]]
 
 Vendors may use the phrase "time and materials" (T&M) to describe how they engage in projects and invoice their clients.
 
@@ -47,4 +47,4 @@ We push hard on our clients to build the right features, and build them to the r
 
 The right level of complexity is achieved by managing the depth, breadth and scope of features. When you represent your product in a story map, you can hit your project budget by subordinating the scope of total experiences (breadth), tasks within an experience (depth), and level of ease (polish).
 
-![](https://s3-ap-southeast-1.amazonaws.com/dwarvesf-outline/uploads/34adb8ba-29bc-4ab8-b128-fea45fade09c/f457e313-135f-4ddd-8b1a-0da0c3babc5a/image.png)
+![[092695110fbd8d07129008b2f256b9d9_MD5.webp]]

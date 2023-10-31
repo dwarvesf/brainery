@@ -43,13 +43,13 @@ view rawApp.js hosted with ❤ by GitHub
 ```
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/411d6fde-fcc4-4a4e-aad6-820b8018583e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202417Z&X-Amz-Expires=3600&X-Amz-Signature=2ba9c70e29cee3c2e9fb2d386fc0908818391e62f2f60eca4cf494c864335fcc&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[c02d8b16fe8c6c8b864064441c8ac84d_MD5.webp]]
 
 
 But if i want to add more text like XYZ and i want another button that toggle the text XYZ, i will have to create visible state for button and the method for toggle its visibility
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7fe7bc6e-65b5-43ae-87f1-c040c4a51273/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202417Z&X-Amz-Expires=3600&X-Amz-Signature=22f8e5af645d7d02654d547a1fbb210994cd42e0a38d25b6a150cc1854d08e26&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[c02d8b16fe8c6c8b864064441c8ac84d_MD5.webp]]
 
 
 ```javascript
@@ -269,7 +269,7 @@ While the second inject into first high-order component
 * state: isAsdToggle
 * method: toggleAsd
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6515189b-ac3c-46e5-af7a-05da1e981ab0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202417Z&X-Amz-Expires=3600&X-Amz-Signature=a546855823498b0ecb2a06c7dcc80af5dec308a874a16465de23ca9d6d8ef52b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[c02d8b16fe8c6c8b864064441c8ac84d_MD5.webp]]
 
 ## Refactor the component using hook
 

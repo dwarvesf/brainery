@@ -5,7 +5,7 @@ tags: R&D, data
 created: 2023-05-04
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1b08611e-4284-4ec6-9e01-f724c09d24cf/67a4c3bcc547f149b4ebb69a1ed13e98.avif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202138Z&X-Amz-Expires=3600&X-Amz-Signature=614e9405eabe8d488556edd58c6cce35ffe432f667e353de9acdcf3bd7caf213&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/managing-dataflow-and-sql-database-with-concurrency-control/c11c827159778f301fbd67b9d155b80b_MD5.avif]]
 
 
 Some of us had built a game, while others were familiar with e-commerce platforms, D-apps, or even all of these types of applications, and more. Each type of software that we were working on needed different techniques, some of which were similar. So the same problem can happen in every software product. In this post, we will discuss an issue in high-workload databases together. It is **Concurrency Control**.

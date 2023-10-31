@@ -15,24 +15,24 @@ You just need to go `Universe` > `Packages` and choose `Gitlab` to install it wi
 
 1. Setting up your gitlab domain
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/184cfc2a-6016-4a4c-b3e3-0690b6b23453/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202400Z&X-Amz-Expires=3600&X-Amz-Signature=724e9c145481f34429fe5c7cfdf1293355fb7b62af5cb4e867eaebda7cfe7f9a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[4a171771af9dd3725d809a02f3cbd80a_MD5.webp]]
 
 
 
 1. Setting up email client
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/94da9abd-c40c-46a1-a19e-c1e5a3c2f418/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202400Z&X-Amz-Expires=3600&X-Amz-Signature=63df0708620e633876dbedb8ff0976637f36c93d0edb86352d4bbdbf71789d85&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[0a331d4343f65dc0f3d0a1d28fcd08a6_MD5.webp]]
 
 
 
 1. Set a specific private node IP, so when we need to restart or upgrade new gitlab version, we wont lost data
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4c49717c-2c8b-4f94-a8da-70ac742fcbe9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202400Z&X-Amz-Expires=3600&X-Amz-Signature=5db28c85944966928664629a4b13e180e72a2255c3182e5f063c8ddcb773ce92&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[07cb48f22769c4bdb7555e122aa2c24c_MD5.webp]]
 
 
 After all, we can do `Review and Install`. If everything is OK, Gitlab service will be like this:
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/004e0b12-8bf4-421f-8a6c-21cf59e5eb60/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202400Z&X-Amz-Expires=3600&X-Amz-Signature=fad8995d92a3fd238d42108ee0510f1761c5587e13c8542de0b5e90027878ba6&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[1293c7d7f3ddd11d274b6a78461f93a5_MD5.webp]]
 
 
 ## Setting HTTPS
@@ -74,7 +74,7 @@ $ sudo mv cert.pem /srv/marathon-lb/domains/ssl/example-git-domain.com
 
 3.2. Add `"/etc/ssl/domains/example-git-domain.com/cert.pem"\`to `args`in `JSON Editor`
 
-![](https://res.cloudinary.com/dwf/image/upload/q_100/v1575366749/Websites/Blog/20171106-dcos-part-5-gitlab-5_hjdtyv.jpg)
+![[6d0a8c8c9d3f0ea69d31fd97da4de9b1_MD5.webp]]
 
 
 3.3. `Review & Run` marathon-lb again to update new changes

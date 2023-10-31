@@ -14,11 +14,11 @@ Anh, in short, is the UI wizard behind most of our branding identity. You'll be 
 
 <!-- column 73a7a422-fd5d-42da-8113-6d3d98a6abe8 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bacf1b9a-26b6-413b-a698-8b04ad0b0b63/anht-1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202229Z&X-Amz-Expires=3600&X-Amz-Signature=fd276950c5e4ab16de1665501057ddc004de6bb831ce532746ce58b5e4bfb58f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[2a8ea12a2d98238fe84f9c80dc882a7a_MD5.webp]]
 
 <!-- column 616bec77-98f6-4160-994a-c6b7e582ab06 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cd5437db-0d94-46df-a2b2-d72d0d712ae6/anht-2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202229Z&X-Amz-Expires=3600&X-Amz-Signature=f34168799157a17d1f227099a1fdfe9d392ee9c69e309ed04823e2558c5faa3c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[525aae93901af5138fef6d6c5b68245f_MD5.webp]]
 
 
 ### <span style='color:red'>A person can take care of both UX and UI design if the project is small. As a product designer, you're expected to know both.</span>
@@ -56,4 +56,4 @@ So the team began to hold seminars, mostly to remove the roadblock once a for al
 <!-- column 293a1271-8b34-4ca7-923e-abe6e98dd7d1 -->
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8eb07cbf-e7f8-479c-9a79-4ff02f372392/anht-4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202230Z&X-Amz-Expires=3600&X-Amz-Signature=29e0d5f73d87356336afbaf36bc4a355920cc4cb4aa34476aede968575418ea2&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[4211cc90d9e6cb654d86bdd9d25a5ac5_MD5.webp]]

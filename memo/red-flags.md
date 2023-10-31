@@ -32,4 +32,4 @@ The employee may exhibit a negative attitude towards their work, colleagues, or 
 If the employee has a high turnover rate, it could be a sign of a bad hire.
 
 
-![](https://images.unsplash.com/photo-1503980850968-b7c3b4af0e05?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb)
+![[8e2d26f28c0d107f0b2dba0b99c0da5e_MD5.webp]]

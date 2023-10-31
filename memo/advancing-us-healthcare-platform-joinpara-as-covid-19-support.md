@@ -11,7 +11,7 @@ created: 2021-04-29
 * Continuing with Go microservices, we have shipped numerous features, markedly workshift management and candidate screening. We partnered and helped unburden Para from the financial stress during the early stage of <span style='color:blue'>their MVP development.</span>
 * Our Covid-19 program was launched in early 2020. We aim to provide software development, technical support for startups and businesses to help them stay stable during and progress forward despite the pandemic. 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c9c7f2a7-75f7-46e1-9666-71a89ff4e2f8/joinpara.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202242Z&X-Amz-Expires=3600&X-Amz-Signature=ad0dff7404ecf867797bb6ce249fa6b3e7e93879c5e1fdab773e59584d893f14&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[23c2750aca83b48416a9e63bf57d7059_MD5.webp]]
 
 
 ### <span style='color:blue'>Highlights</span>
@@ -36,7 +36,7 @@ Para was in a rushing period. They saw a demand for its product peak when Covid-
 
 <!-- column 07b4bbe4-06a0-4855-aab1-ced3ab3cae32 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d911ed0b-7bc4-4e2c-bf88-f85c635c0e3b/pa1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202243Z&X-Amz-Expires=3600&X-Amz-Signature=5021fcc0acba692014f40153e8575b228e08ba36beb5208a9a991f5c4feb2c3c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[e4592d2181b5f20125756e5a2ef6c34a_MD5.webp]]
 
 We offer our top-tier core services. Our quick-to-adapt Dwarves experts give them full support as staff augmentation, where Para focuses on building their business.
 
@@ -104,9 +104,9 @@ This output enabled Para to reduce development time and tackle pivotal features 
 
 <!-- column b5886d37-41fa-4234-99b8-d43b9087ea5f -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a3b69637-8711-460b-a429-e0f12a2c9315/pa2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202249Z&X-Amz-Expires=3600&X-Amz-Signature=950586ee7eaf1c2ffffc92b8bc6db9ace68f3e02995a34d0adbd0b99da8912bc&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[7b6bba65009be1f4c48f23d434e7ca4d_MD5.webp]]
 
 <!-- column f1b613a2-9913-46c9-a4c8-4c14528ba9cf -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/244aae09-d9c2-4483-a0da-476ab6e7441b/pa3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202249Z&X-Amz-Expires=3600&X-Amz-Signature=0d96abd99c99234a330ce3d6cd525a927f69c01e59e08261fb647952822c3cc3&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[f954361604a9be8bf9b436e57a156d62_MD5.webp]]
 

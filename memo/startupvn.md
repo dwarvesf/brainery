@@ -26,7 +26,7 @@ With the true intention of community goodwill, we're honored to have joined forc
 
 <!-- column 3afe4d99-95f4-4dff-b686-54f08f81bbc6 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/54057e16-6275-4664-8ce6-3224ea7459ad/Screen_Shot_2021-07-29_at_1.19.32_AM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202303Z&X-Amz-Expires=3600&X-Amz-Signature=3e0e46de70d37e0f5c095c9e7368766aa67f77baefc68ceb9284b4569e876d3b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[ea2ffe136a0c7d8ccd7e9dd9c6919b62_MD5.webp]]
 
 <!-- column 6127dfb9-6ef3-4a20-8026-a65d73d5d759 -->
 

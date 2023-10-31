@@ -17,7 +17,7 @@ In this article, we'll dive deeper into the practice of applying micro frontend 
 
 ## Case Study Interview: Building a shared design system
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5bcc407b-93fa-4e97-ada0-23f1298c82f5/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202143Z&X-Amz-Expires=3600&X-Amz-Signature=d6b67bdf8407d7e2534ec5b64b02d362effe650e4e6a49d4706fe36be603f961&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[88ee17472ae46934b5dcf3be218aba09_MD5.webp]]
 
 ### What's the reason behind choosing micro-frontend as the main architecture?
 

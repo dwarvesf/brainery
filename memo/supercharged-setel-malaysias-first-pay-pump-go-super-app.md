@@ -5,7 +5,7 @@ tags: case study
 created: 2021-05-27
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d48591e4-fa7d-4460-8f6f-de8d71542959/setel.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202323Z&X-Amz-Expires=3600&X-Amz-Signature=ffc2cc8c27709278d63b598c5486edb2a10d472ebc44cb46b19dbc3c348d2931&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[85caa8bdd0121608f33b230e54fe563d_MD5.webp]]
 
 ### <span style='color:blue'>In brief</span>
 
@@ -44,7 +44,7 @@ Setel moves toward one goal: <span style='color:blue'>**Making refuel experience
 
 <!-- column f5836528-3759-4ce4-8ce5-cbb13819cec2 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/24982d47-072d-443c-97a2-96f97d5b47a9/Screen_Shot_2021-09-29_at_11.41.06.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202326Z&X-Amz-Expires=3600&X-Amz-Signature=c47baa19ab47a973f9c4620b9289cedb254b3906f2e73b9db0769ea582228f17&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[ccd01facaa7b07ae954700b20a360ad1_MD5.webp]]
 
 We help build up a place where users can interact and personalize their experience with <span style='color:blue'>**Setel Website**</span> and <span style='color:blue'>**Gifts Campaign**</span>.
 
@@ -86,7 +86,7 @@ Daily communication happens in Slack, while we pick Jira for sprint tracking and
 Through months of partnership, we're glad to ship out <span style='color:blue'>**The Food Bank Programme**</span>: A community-support initiative by Petronas Station Business Partners and the communities to provide essential items at selected Petronas stations nationwide. 
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/81dcca4b-89f1-4a08-8cd1-1d645afcaa15/Screen_Shot_2021-09-29_at_11.37.54.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202323Z&X-Amz-Expires=3600&X-Amz-Signature=88225b21b5177450cb86982a1e2936c9824011a4c2580e6e0e10d8e3c0e4328f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[ac414946573baa1c8baa276992a535d4_MD5.webp]]
 
 
 

@@ -16,7 +16,7 @@ A simple way to understand the CI/CD is to take it as a process, often visualize
 
 ## The overall process @ Dwarves
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2dd74c9c-dcbc-4f3e-8c35-23ab47db7b13/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202414Z&X-Amz-Expires=3600&X-Amz-Signature=fae3580993e928ac12d70ee8a651adb33146deafb3cc3a91efb8693455e96b8c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/how-we-setup-cicd/fa32c5b22664bf943dd7d4314b012a83_MD5.webp]]
 
 At Dwarves, most projects happen in Gitlab, so Gitlab-CI would be our first adaption. Lately, more and more Ventures projects land in Github, we have to look at Github Action. It doesn't mention that we also have a CI/CD for a Frontend-ers setup with Netlify or Vercel.
 
@@ -50,7 +50,7 @@ When we have all the green lights, we pull the image from the Registry in our pr
 
 ## Test stack
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/558e7cfe-1b43-476b-81e8-86e24e85a80c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202414Z&X-Amz-Expires=3600&X-Amz-Signature=1722b8b8db0f9a5f2f7c164f394a91f1032d03a044fdf2622c1217fc07ab3f4c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[9dd15aea3c3de09d92b44754a736b607_MD5.webp]]
 
 ## What to expect
 
@@ -74,7 +74,7 @@ It is a nice thing to do, but we’re still far from easily integrating that int
 
 Experiments are and will be made to get us close to the goal. For now, we are settling with the daily scheduled E2E run, and the QC team will provide us with the results every day.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/29416145-d09b-467d-bf28-49c367333216/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202414Z&X-Amz-Expires=3600&X-Amz-Signature=192e15fb7b377db87dc574bdc4d31cfef16a62f17bdf2f71cda676265cd9dab1&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[f38b955faad846c6c75b4252b56fe1b4_MD5.webp]]
 
 ## CI - Continuous Improving
 

@@ -7,7 +7,7 @@ created: 2023-03-20
 
 # Micro-Frontend - What & Why?
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/66ef05d1-6263-4bf6-90b1-4e8255674425/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202146Z&X-Amz-Expires=3600&X-Amz-Signature=8c3727f227fdd0aa13d280eeb473946d5b3deed3f551c90c973ed34c278e017c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[a5bf635d4856ea99f487589001781c71_MD5.webp]]
 
 As web applications become more complex and feature-rich, traditional frontend architectures such as monolithic will become harder to maintain, scale, and evolve. Micro-frontend is an emerging front-end architecture that aims to address these challenges by breaking down the front-end into small, independent and reusable modules.
 
@@ -37,7 +37,8 @@ In a lot of cases, this approach is fine, it works if you do it right and a lot 
 
 There might be a need for a more efficient solution - by breaking it down:
 
-![Image Source: [micro-frontends.org](http://micro-frontends.org/)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ad51aa34-b6f0-4a27-8727-c675c2aaca1b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202146Z&X-Amz-Expires=3600&X-Amz-Signature=a1455bf9c4967ca7708e7cc633fe06cc59b69ba147c5a8afaa86ae793af7d12b&X-Amz-SignedHeaders=host&x-id=GetObject)
+[[memo/assets/why-micro-frontend/149cb7501d21ad52e476f168b93085cc_MD5.jpeg]]
+![[memo/assets/why-micro-frontend/149cb7501d21ad52e476f168b93085cc_MD5.jpeg]]
 
 We can see that the backend work has been broken into microservices - a term we are probably too familiar with at this point. However, front-end work is still one big chunk. This is where micro-frontend comes in.
 
@@ -45,13 +46,14 @@ We can see that the backend work has been broken into microservices - a term we 
 
 Let’s take the previous monolithic example (The Shop Team), broken into micro-frontends:
 
-![Image Source: [micro-frontends.org](http://micro-frontends.org/)](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e2d5f5e2-c25c-49fd-8cce-a5aff6eeedb6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202146Z&X-Amz-Expires=3600&X-Amz-Signature=3eba4a0f76b8c6f606f2f0e52d9f8755daace9d5681caf75b4fd7421e53fdefb&X-Amz-SignedHeaders=host&x-id=GetObject)
-
+[[memo/assets/why-micro-frontend/8b4ce5b2e752b7bbc96be21b6d2f1349_MD5.jpeg]]
+![[memo/assets/why-micro-frontend/8b4ce5b2e752b7bbc96be21b6d2f1349_MD5.jpeg]]
+![[Pasted image 20231101050539.webp]]
 With micro-frontends, codebase, teams, and responsibilities are split vertically in a way that the coupling between them is very low. Each team owns a smaller codebase, and can individually test, deploy and scale according to the needs. Now the teams only need to coordinate the moving parts, which can be kept minimal with a good system design. The teams can easily manage their dependencies and even use a separate tech stack.
 
 Finally, all micro-frontends can be served to the users altogether through a container (shell) app:
 
-![Image Source: C# Corner](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/df07cd60-78e6-4c1d-b7cd-2fa957391cc1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202146Z&X-Amz-Expires=3600&X-Amz-Signature=1c95da33ad32d97b12ea2c9523b3ad51630445066245b42dfa0118b10b69e5db&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[336c82e3b7bd0e20a3196bd23f043f6a_MD5.webp]]
 
 Now that we’ve already got the gist of what micro-frontend is, let’s take a closer look at the key benefits it brings.
 
@@ -85,7 +87,7 @@ Of course, while there are many advantages to using a micro-frontend architectur
 
 ## Challenges and Considerations
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c81e416a-82ed-46eb-8ef8-560386ba80a6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202146Z&X-Amz-Expires=3600&X-Amz-Signature=29ad19ab72b087a1c6bef4eac0ad74d297239bd462aad596ea36b80d4ef035ea&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[f956742770614138c3736e182be7da7a_MD5.webp]]
 
 ### Increased complexity
 

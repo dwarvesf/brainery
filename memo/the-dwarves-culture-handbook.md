@@ -23,7 +23,7 @@ Instead of introducing a list of exciting bonding crap, make yourself comfy with
 Or spend less than 20 minutes scanning through <span style='color:pink_background'>**[the Dwarves Culture Handbook](https://github.com/dwarvesf/handbook/blob/master/what-we-value.md)**</span>
 
 
-![We have a hard-copy as well.](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a2901401-377e-44d4-816b-64fc741f0b46/handbook.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202455Z&X-Amz-Expires=3600&X-Amz-Signature=134a8482f356636bf441065782f851483a63e5b1a7788713f614af8ea134d143&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[464cd6715a58d2bd2f0f97ab9e8adeac_MD5.webp]]
 
 
 It conveys our spirit and everything that made us who we are. In a broader context, it defines our belief and what we aim to follow in the future. It speaks the original aspects at Dwarves Foundation. It took time to build through observation, through the day-to-day at the office, through the message or the pings. It's what occurs and forms through times when no one is watching.

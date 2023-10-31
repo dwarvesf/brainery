@@ -44,24 +44,24 @@ Here’s a quick list of the disciplines that can be represented in your team to
 
 * **The solitary model:** an “overlord” rules the design system.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/29abbfc7-5ec5-446d-bccf-89ab15544b13/Untitled?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202506Z&X-Amz-Expires=3600&X-Amz-Signature=71b744268225c226b26bc04a020c339e03cae9d10725ef3cae6e40659e716799&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[cfe9acf6fd2d1adde475eac22289689b_MD5.webp]]
 
 
 The team model that brings people together is as important as the team creating the design system. In “Team Models for Scaling a Design System,” design systems veteran Nathan Curtis outlines 3 popular team models used by many companies.
 
 * **The centralized team model:** a single team maintains the design system as their full-time job.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/910b984c-0144-474b-99c4-f2ec2bf73ef3/Untitled?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202506Z&X-Amz-Expires=3600&X-Amz-Signature=33bff880d64c5f0c43015a7a3d0219d3632685a79f336e4de3d4c8d1f9a15aeb&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[29a2cbbe18c551fb6c02d550c7eba526_MD5.webp]]
 
 * **The federated model:** team members from across the company come together to work on the system.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a43bd7d5-ea0d-4810-912d-b2e7c02871d5/Untitled?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202507Z&X-Amz-Expires=3600&X-Amz-Signature=8032fa0ac1e3dcccb746cb41ab2cbf724a86dd4acfdfc6177738fac0d1d44e24&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[777f120275d29fe97d756a8d98d5be91_MD5.webp]]
 
 * Other model
 
 A hybrid design system team model that we used at Salesforce—a central team and members of other teams come together to manage and govern the system.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/092ed87a-7e0b-4ea3-a2cd-77f3e3bc942e/Untitled?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202507Z&X-Amz-Expires=3600&X-Amz-Signature=59dd015660c8aa57196fa8e0193a821dc795dddf1fc889990968cb0ab2ab0f45&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[b187e07f45c64d9eabd7e524b39a31ed_MD5.webp]]
 
 
 ## **3. Interviewing customers**
@@ -88,7 +88,7 @@ Creating the visual identity isn’t something that will be created overnight. I
 As we start to take inventory, it’s good practice to take a look at the CSS used to create all of those elements you just captured in your visual inventory. Use a tool like **[CSS Stats](http://cssstats.com/)** to see how many rules, selectors, declarations, and properties you have in your style sheets. More relevant, it will show you how many unique colors, font sizes, and font families you have. It also shows a bar chart for the number of spacing and sizing values. This is a great way to see where you can merge or remove values.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3ca714e8-44a9-4e81-86c1-25ed416def59/Untitled?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202506Z&X-Amz-Expires=3600&X-Amz-Signature=0dbe6d583787a931b2ad61e79ac4194edf6f0c72410b09b0d66fb13b4dc168a7&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[a9cdca95e3ffef0e55cd90fdec84527a_MD5.webp]]
 
 
 **Do a UI inventory audit**
@@ -105,7 +105,7 @@ Before you start anything, its best to identify how inconsistent the current bui
 
 An example of a UI Audit: Brad Frost has put together a great article around how you go about doing a UI audit.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2661681a-fd13-421a-8c70-e635d2448067/Untitled?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202506Z&X-Amz-Expires=3600&X-Amz-Signature=98c4adeac397d07f2c10fbff9c1996e4d0227a5427c12a8908c94c3f97c0648d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[3e3694f6596e6a67a2a10b4bb6ea8eed_MD5.webp]]
 
 Link source: [http://bradfrost.com/blog/post/interface-inventory/](http://bradfrost.com/blog/post/interface-inventory/)
 
@@ -132,14 +132,14 @@ Before we dive into visual design standards, you should discuss design tokens. D
 Example of design token: [https://www.lightningdesignsystem.com/design-tokens/](https://www.lightningdesignsystem.com/design-tokens/)
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/90661d24-d105-4e21-852d-be18108f1d51/Untitled?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202506Z&X-Amz-Expires=3600&X-Amz-Signature=12d571d3c257849d4c53843fec06d1c040bac614bc2cb69e4ef6ef52ebf9694a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[0018d0d34bb133667d90e34ce27c5fd0_MD5.webp]]
 
 [https://uxdesign.cc/design-tokens-for-dummies-8acebf010d71](https://uxdesign.cc/design-tokens-for-dummies-8acebf010d71)
 
 The workflow of design tokens would look like: 
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c739dff3-4063-43a0-9444-e8d0a729ff5b/Untitled?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202506Z&X-Amz-Expires=3600&X-Amz-Signature=b52a477dafb95a9478ecf4b1def005d87df7a79db70899a39f1e684da65bc124&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[d4b5482e66a2d78fe46a315c5d2a4646_MD5.webp]]
 
 
 1) The designer would update the color in the design tool.
@@ -155,7 +155,7 @@ Currently, the only way to create a design tokens is by using [Theo](https://git
 
 After you complete the inventory, you can merge and remove what you don’t need (either in a spreadsheet or even directly in a code refactor if you want more immediate change). Also, document what the component is and when to use it. This will become your UI library (or pattern library, or component library, depending on what your organization chooses to call it.).
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d00a3d2d-0e02-4495-a8c0-6c55dfae14fe/Untitled?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202506Z&X-Amz-Expires=3600&X-Amz-Signature=3e5cab33ae7e5844d79d24b62dfca13113343820295a73b62e00e59f46c29d7d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[b0d28b9d30e9d838276303ad69f6e89a_MD5.webp]]
 
 Most design system documentation includes the component’s name, description, example, and code. Others may show meta data, release histories, examples, and more. What matters most is that you show what’s necessary for your team to get your work done.
 

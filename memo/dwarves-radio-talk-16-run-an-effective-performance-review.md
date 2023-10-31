@@ -12,7 +12,7 @@ We perform bi-yearly reviews in July and January. The primary purpose of these r
 * Everyone writes up a **1-2 page summary** and sends it to the head of their team.
 * The head of your team reviews your summary and prepares their thoughts. He schedules a one-hour meeting to discuss.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/afb2d075-2677-4c74-88d3-2581afd26bd3/16.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202245Z&X-Amz-Expires=3600&X-Amz-Signature=c5a06d59eb64783f5d4262b7d7ad05087ad6439a89b5d0fb656554c6036367df&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[e46576a1c9314d3a36be38e50ae55763_MD5.webp]]
 
 
 ### Inside the summary

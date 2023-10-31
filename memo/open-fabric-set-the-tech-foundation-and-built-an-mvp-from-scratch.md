@@ -5,7 +5,7 @@ tags: case study
 created: 2022-09-28
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e0159404-1249-48ad-b273-d843ef0522c1/ofabric.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202220Z&X-Amz-Expires=3600&X-Amz-Signature=6d96a9e20bb215dc92bc43e9f66606a464b5b6fe27c7c464655d47e48e60fc6e&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[34964aa39f1e63930a9b8c2104aa26cb_MD5.webp]]
 
 Founded and led by veterans from fintech players like Paypal & Grab, **[Open Fabric](https://openfabric.co/)** is a BNPL platform, built to enable an open commerce network for customers and credit providers in South East Asia to radically simplify merchant integrations for digital payment methods. 
 
@@ -49,7 +49,7 @@ MVP Development, Tech Consulting, Staff Augmentation
 
 # The Challenges
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f9b97dee-251b-46f8-bd41-82d2e132a62b/Screen_Shot_2022-07-28_at_14.26.52.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202220Z&X-Amz-Expires=3600&X-Amz-Signature=b6ba9da85475c2036f8ae4ddfee6e7b5eafcbb0e5cbb5657efbefd05a7dc697d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[a391484a82928431344bb4a1220bea85_MD5.webp]]
 
 OpenFabric’s key value proposition includes:
 
@@ -123,7 +123,7 @@ With limited resources and a rushed time to launch, we have to weigh between bui
 
 Open Fabric was designed to become a high-performance, low-latency system that follows practices for Domain-driven design. The system separates some corporate services with different databases. At the MVP (Minimum Viable Product) stage, we need to test the market as fast as possible. The team balances efforts on release milestones and application performance. However, setting boundaries for separate services is top priority for maintenance and improvement.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2afd9ed5-5078-4b8a-a40b-d81e37ac9867/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202220Z&X-Amz-Expires=3600&X-Amz-Signature=099ae933ca99364a1749ab7cc9a9b148b039077ba90939736daff2d8ac6810e5&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[e754f89627c971e81eec2c9222d9db98_MD5.webp]]
 
 **List of main services**
 
@@ -141,7 +141,7 @@ We deploy our system to Amazon Web Service Cloud and keep them there. The overal
 * **AWS Cloud**: Open Fabric nodes are regionally placed in Singapore, and AWS Cloud gives us operating freedom with lower administration risks in the event of a major cloud security issue.
 * **AWS S3**: For both front-page websites and admin dashboards, we deploy our ReactJS sites to AWS S3. The service lets you store files and data as **objects**, and these** **objects can range from image files, video files, as well as HTML, CSS, and JavaScript files. This allows us to deploy static assets as website.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7b4a0014-7605-4484-b66f-fe8b1065aa20/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202220Z&X-Amz-Expires=3600&X-Amz-Signature=056ca147da3a4a0b440ee0bc510c33b0deba1a0c14f9ac35bbf45ff15e223d28&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[0903f2700a511a9a15597148cade6e19_MD5.webp]]
 
 ## Deployment
 
@@ -152,7 +152,7 @@ Open Fabric runtime is divided into 4 separate environments. This helps members 
 * **Sandbox** is set up exactly like production. Changes to the production environment will not be accepted before rehearsing deployment here. Any mysterious production issues will also be debugged here.
 * **Production**: The big iron. This environment is fully logged, monitored, managed periodically, squared away, and secured.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/db7464db-7b2e-4c77-b713-f2da59256891/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202220Z&X-Amz-Expires=3600&X-Amz-Signature=5200dd81daed3c1abce30ee76b04f67111c833ce17410c1f6b11b8aaecf0dc4d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[2e8eda3011a6e6a5cd8dd9bf8530b5d5_MD5.webp]]
 
 For the deployment process, we apply a few practices to make remote collaboration more effective.
 

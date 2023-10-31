@@ -24,7 +24,7 @@ Dwarves Apprentices, batch of 2022
 
 <!-- column 054dc064-c9f1-4da9-83ee-24f1cce897c7 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3f028d9f-ce90-417e-a439-6ecfac40868d/My-Anh.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202210Z&X-Amz-Expires=3600&X-Amz-Signature=0f25b284a13c48a0fa9b99aa12d293c12696d7567931713e3f46932c1d0f7e66&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[9b67e38d0c1276e257fa386d351c11a8_MD5.webp]]
 
 
 ### <span style='color:red'>How did you first envision the Dwarves Apprenticeship Program?</span>

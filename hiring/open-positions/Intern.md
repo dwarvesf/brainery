@@ -11,7 +11,7 @@ toc: false
 notice:
 type: hiring
 ---
-![](../images/internship.png)
+![](internship.png)
 
 # The Program
 
@@ -24,7 +24,7 @@ We strive to create a generation of new tech enthusiasts who possess the [same D
 - You get paid for your experience with an allowance worths $300/month.
 - Expand your network and boost your competencies.
 
-![](../images/internship-program-01.png)
+![](internship-program-01.png)
 
 # About Us
 
@@ -47,7 +47,7 @@ To make sure your time with us is well-spent, we offer you real projects with ou
 
 We want to help you become the product person. We know that things take steps to learn and we will help you persuit the **can-do-everything** mindset. The problems solving skill is the key and lifetime skill that you also need to learn.
 
-![](../images/internship-program-02.png)
+![](internship-program-02.png)
 
 ## How to be a mining intern?
 

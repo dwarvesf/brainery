@@ -26,7 +26,7 @@ Blockchain projects at Dwarves stretch to different potential corners of web3, f
 
 <!-- column c606d487-024b-40ab-aa1d-72291c58517c -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b7eaca7c-b26d-4aa4-9f18-059fdafacc98/Ngoc_Thanh_Pham_1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202228Z&X-Amz-Expires=3600&X-Amz-Signature=1bf81fbc4ce93ffb4536a09ed26727325f3f12c0d0efe34ee45164e14fd209aa&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[6200459018d58aabbad34c4dea3d42c7_MD5.webp]]
 
 To seamlessly craft an output with a deliverable quality, understanding the product requirements is a sine qua non.”
 

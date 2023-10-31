@@ -76,12 +76,12 @@ I read in a meetup of Agile team in 2008, Uncle Bob once said: *Craftsmanship ov
 
 Years later, he came up with a Manifesto for Software Craftsmanship
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/faac954a-81df-4934-8c29-0309b541aeeb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202402Z&X-Amz-Expires=3600&X-Amz-Signature=40e95b82adaca341c7948109d9af87e50f9cdab001a117d1b8c5a9e610c32b6e&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[9484dea11666b2ee45cd5a11769bde32_MD5.webp]]
 
 
 and people tried to compare it to the Manifesto for Agile Software Development
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3655e28b-552c-4b6f-9470-c5bbcecf8eb3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202402Z&X-Amz-Expires=3600&X-Amz-Signature=3288f1b4e23bde84738a815d0e63c4103f47eac5d9a0bca6c50655b69c292b67&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[f4dd9cc532dd7e1845e424a9274811d9_MD5.webp]]
 
 
 I've noticed Craftsmanship would be a next level of Agile. Sure, people from Agile will get offended, or being under-looked.

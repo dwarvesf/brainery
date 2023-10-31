@@ -5,7 +5,7 @@ tags: case study
 created: 2023-08-16
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c50f5685-cce9-4062-bc71-774beed20f03/Screenshot_2023-06-27_at_14.50.10.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202125Z&X-Amz-Expires=3600&X-Amz-Signature=74ca0fc687d4ed0046c742ebaed6735ef9392242ae0ecdcbb88527fa4f0a63c8&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[2fa7fc70c8f1608d99e6ae08dad2b952_MD5.webp]]
 
 <!-- column_list 965d1377-6f96-489f-b351-cc82004ed569 -->
 

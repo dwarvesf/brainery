@@ -5,7 +5,7 @@ tags: js, testing
 created: 2019-08-02
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7efa8c16-2ea4-4eee-8687-09a4fad5ab06/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202419Z&X-Amz-Expires=3600&X-Amz-Signature=92b9d73a130806b4b99c3473d28ab641e051a22121f90c051063e7b7798196dd&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[7578257d37750f65869976d63ebb2b57_MD5.webp]]
 
 
 ## Introduction
@@ -16,7 +16,7 @@ Cypress is an e2e testing framework that offers simplicity API and performant te
 
 ## Application being tested
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0c23b056-dfdb-438c-a0e0-437af659017b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202419Z&X-Amz-Expires=3600&X-Amz-Signature=53de44e0b726e59872e87d09f316104dd4c74246f1dd5785734cecdeac23d8d9&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[706c9f06c1ddbab02d7e04195d24bc16_MD5.webp]]
 
 
 The application that we are going to test against is autocomplete textbox. Features
@@ -64,7 +64,7 @@ describe('Auto Complete', function () {
 ```
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0e91deb3-155c-4661-9a45-e891e6455af4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202419Z&X-Amz-Expires=3600&X-Amz-Signature=808c7371fe58c6897b53a3caacb7b1c99f605c7ff258af1339481969f272deda&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/fundamental-end-to-end-frontend-testing-with-cypress/dabaf075b757602a5af2c6bfcead3283_MD5.webp]]
 
 
 Run command yarn e2e it will show window and browser like this. A window is for select test and the browser is for testing result
@@ -114,7 +114,7 @@ it ('Set textbox input when click into list item', function () {
 
 After inserting e2e test into the spec file. Run yarn e2e again to see the result of the test:
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/86f521ed-3987-435d-b700-1b33e4c8f709/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202419Z&X-Amz-Expires=3600&X-Amz-Signature=a501f447a20fdd6771afb1ffd6305cd276dda2b5f234e02caf005854a07eb9fc&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/fundamental-end-to-end-frontend-testing-with-cypress/8fbb0902507f83afa2b0ef1bc5f830a0_MD5.webp]]
 
 
 ## Conclusion

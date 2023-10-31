@@ -38,9 +38,9 @@ If there's one amongst the things we stay proud of, is that whenever the situati
 The latest stats on our current referral bonus & the top leaderboard. A huge thanks to Huy Nguyen & Khoi Le for helping making this happened. 
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/13c8de69-c424-4464-808a-6cb6fa52ba1a/2..jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202211Z&X-Amz-Expires=3600&X-Amz-Signature=6e9e3c83b01eaf5a3f8f5268a463824a02e24d4307b7650812de7d7040d89b7f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[95d0da92d70d9f9296c5f6272250ad6f_MD5.webp]]
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0d371f25-cef6-4bee-be17-c0d3258a63b1/1..jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202211Z&X-Amz-Expires=3600&X-Amz-Signature=86c9858da9cb121f98cea62d1a0b93699b0ea07e4af1e9b34854abe757e77384&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[8a7a01a12a0d02bfbc4ea9dc305d68e1_MD5.webp]]
 
 # <span style='color:red'>Grow a better squad</span>
 

@@ -33,17 +33,17 @@ The capabilities that Blockchain offers to solve these problems are explained in
 
 ## What is Blockchain
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/48aac3fa-7f83-4400-8222-76d4b8c96bd1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202445Z&X-Amz-Expires=3600&X-Amz-Signature=65fc68ef892208b89b73f5af92a356aeddc1ed617830f52a903c81d74603ce18&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[e1bfa96832cd4042e417869a7c426a77_MD5.webp]]
 
 
 As the name, it is a chain of blocks that store data. Each block of a chain is connected with the previous one by a key called "hash". In a nutshell, a block contains data, its own hash, and the previous block’s hash. This structure links all the blocks one by one, making the chain continuous and unbreakable
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6c08bc50-295b-40e1-88a4-e98feae1ea60/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202445Z&X-Amz-Expires=3600&X-Amz-Signature=8ed4493a2bda5f3d4449b1ad82cf3b4d10929b0dc993036802be0ce9f003cf2b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[fc723d7bffd27c3988c8b5ea62194db0_MD5.webp]]
 
 ## How it works
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f642959a-c022-42ec-9ca4-89a37d07ad52/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202445Z&X-Amz-Expires=3600&X-Amz-Signature=664cb713beb154676e630b0f04837c17c8155c2074c8c771ef8d4c91a6550a56&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[d86795011c5ab5910ec0b5f6b55c74fe_MD5.webp]]
 
 1. I want to send you money, so I create a transaction and submit it.
 1. The transaction information is recorded and published to the blockchain network.
@@ -72,7 +72,7 @@ When a user creates a transaction in a Blockchain network, everyone in that netw
 No one can tamper data in a Blockchain network and thus it’s an immutable platform since hashing converts any input data into an unmatched string of text. Immutability keeps data be privacy, unattackable and imperishable.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/faa2a0af-b26a-46aa-967c-e85e9051d8f9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202445Z&X-Amz-Expires=3600&X-Amz-Signature=5771c335db39b6b9b9bd91d7b6e00bbc05f29b961c2de74aa7bfca9fa24dbe5d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[a533a30cdbb6139ad9f5f98a57b9b558_MD5.webp]]
 
 # Help user to believe in the value of Blockchain
 
@@ -86,7 +86,7 @@ Like everything else, it starts with trust; the trust that this product helps me
 
 Besides, we designers also have to develop ways for prototyping, not only individual experience but also whole systems. Since Blockchain is a decentralized application, this is not for one persona only, but for a group of people collaborating and transfer value for one another.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9c65b79d-3cd3-42ff-88c0-cc6214c8d8d5/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202445Z&X-Amz-Expires=3600&X-Amz-Signature=54ee814717e1bf760f3035f1118787be92c18a7983fff689df8d049c0695379d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[60e714810139595dfd5ee4591022b6cd_MD5.webp]]
 
 ## Blockchain design principles
 
@@ -102,7 +102,7 @@ It’s tough to convince people to believe in terms that they have never heard b
 **1. Steady, painless exposure to new technology**
 In order to create trust in the new technology, users need to understand and see how the application processes work. We also want users to understand how blockchain brings improvements to the way they normally do things. Those improvements could be data visibility. Be mindful of each piece of data we present on the app. In other words, shown-data must be straight-forward, desired call-to-actions are clear.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b8da70c2-f4aa-466d-883a-fc45a359c38a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202445Z&X-Amz-Expires=3600&X-Amz-Signature=bd351bae084d1421db6b04ea2cb81bc1d8a011306fbec3adbce2efb733c7e195&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[bbdedf1451e87a0024ee6e71a138c663_MD5.webp]]
 
 
 How to ease users into the blockchain domain?
@@ -123,7 +123,7 @@ Establishing visual consistency across products and the customer experience is e
 * A simple but concise language which aligns with users' natural communication patterns
 * Consistent experience through and through, regardless of platform and device
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2f631ab9-7089-4000-a4fc-126ec2be4eab/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202445Z&X-Amz-Expires=3600&X-Amz-Signature=3c2f831fcd788e6eb3c0b7abf0471dd1fd6485467895711185769ba0fefec2cd&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[83a093e62fa61b069e3ea4b2f22b407e_MD5.webp]]
 
 
 Colors have a significant impact on the psychology of users. When it comes to trustworthiness, we should consider using colors that bring stability. Avoid choosing the vibrant color to show the decrease or increase of transactions, it might create unnecessary stress to users. Since Blockchain is a peer-to-peer network, clean and simple minimalistic UI or whatever trending styles are not always the super idea that will satisfy all users. There're always many types of users in a Blockchain network, hence, user research is the most important step in Blockchain design, to ensure the final product does not miss any object.
@@ -137,7 +137,7 @@ With Blockchain application, all users want to complete the process without any 
 One important thing, don’t make users wait too long, though Blockchain is much lower than other traditional transactions, we need to keep updating the status to users, even if it is just a microcopy on the loading/processing screen. Otherwise, we can set proper expectations about the timing of tasks and activities within the product.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/90c45914-6b5a-41d7-914c-6ab450ac3168/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202445Z&X-Amz-Expires=3600&X-Amz-Signature=7ccd7bbbcd5e7e2af5d187cc7c9535fdc57c5f3d204b683e348103352d6f7e4c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[19b7383d98cf76a0b76e3c19de34d88e_MD5.webp]]
 
 
 **4. Alert user about one-way actions **
@@ -145,7 +145,7 @@ One important thing, don’t make users wait too long, though Blockchain is much
 Blockchain is known as a one-way action that keeps the network safe and transparent. There are no take-backs or undo's in a blockchain system. Forgot private key, wrong recipient information, cancel a transaction, etc., these problems cannot be resolved in a blockchain network. Therefore, we should design purposeful notifications, alerts, and confirmation at each important step for users, without falsely giving off a sense of danger. Be responsible for the user’s mental experience and physical assets is one of our duties
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e5c94a07-7b24-4f24-b207-697013df09fb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202445Z&X-Amz-Expires=3600&X-Amz-Signature=cb3fedf9d16193ac8d05a1a781d6bc3c9d86e35bc9524dc445a4c0712b59787c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[f7c25751bae3d7b1b87f6c7b94d141d2_MD5.webp]]
 
 
 **5. Guide users until they accomplish their tasks** As we mentioned at the beginning of this article, there is a large awareness gap in the public about Blockchain. We are here to help bridge this gap. We can help simplify the complexity of the Blockchain until it becomes invisible. Begin with the easiest-to-understand onboarding journey, provide knowledge/tips at every step where they might experience confusion or doubts, make help available, and easy to access, encourage and guide users through their journeys to meet their goals. Plus, don’t hide any information. Blockchain brings transparency, a key benefit for users which not any 3rd parties can compete with.

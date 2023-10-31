@@ -27,7 +27,7 @@ In 2014, [Evan You](https://twitter.com/youyuxi), who previously worked at Googl
 
 As we embark on our journey through the world of React, Angular, and Vue, it's crucial to grasp the fundamental differences that set these popular JavaScript frameworks apart. Although they share common ground in building sophisticated and interactive web applications, each framework exhibits unique attributes that shape the developer experience. It’s useful to provide a quick comparison of React, Angular and Vue, laying the foundation for a more in-depth exploration of their technical nuances in the sections to follow.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8e35ab35-79f6-478a-b544-cc96f16fcbfb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202136Z&X-Amz-Expires=3600&X-Amz-Signature=36bdda8fae22ee5bcb7ab57aa4e1fc6c10778ad93147658e61410cbe859d4e70&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[fca70866d812e626a871c73732276b8b_MD5.webp]]
 
  | **Feature** | **React** | **Angular** | **Vue** | 
  | ---- | ---- | ---- | ---- | 

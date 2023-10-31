@@ -26,7 +26,7 @@ Haravan: Support offline shop on online selling to trigger O2O (standardize data
 
 ### Retail 4.0
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5052e6c0-c180-4ac3-8e50-92c5d1c8bf7d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202311Z&X-Amz-Expires=3600&X-Amz-Signature=33ecc4e45f359a51adfd45a0f30c72748d41d98a0c8602842c987482cd5850c3&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[9c8390ea196dd16d4d3dd5a56311ba94_MD5.webp]]
 
 ### O2O - Online to Offline
 
@@ -34,7 +34,7 @@ Haravan: Support offline shop on online selling to trigger O2O (standardize data
 * Evolvingly, it is the ability to pay online and then pick up a product in an offline place, such as the retailers' physical store or 3rd party locations.
 * Another O2O feature is returning items purchased online to the retailers' offline location.Open banking is also known as "open bank data." Open banking is a banking practice that provides third-party financial service providers open access to consumer banking, transaction, and other financial data from banks and non-bank financial institutions through the use of application programming interfaces (APIs). Open banking will allow the networking of accounts and data across institutions for use by consumers, financial institutions, and third-party service providers. Open banking is becoming a major source of innovation that is poised to reshape the banking industry.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/baa3ff56-2485-457d-bd62-fe2399e511b2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202311Z&X-Amz-Expires=3600&X-Amz-Signature=29a36693b2af49c671c0d2961eae8a2e484a4e9eef490a9375d4efa2e2674bbd&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[4bc9024bc646f7b46a1675cd62ff9350_MD5.webp]]
 
 
 ```javascript

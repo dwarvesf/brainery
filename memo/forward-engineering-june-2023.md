@@ -75,7 +75,7 @@ The tags for June include: `#nghenhan #` `llm` `#ai` `#caching` `binance` `q-lea
 
 Our community continues to thrive due to the collective effort of our talented contributors. Each month, we acknowledge their contributions in our Brainery's **[Latest Notes](https://brain.d.foundation/Latest+Notes)** section, linking their GitHub accounts for further reference.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/11310438-bb9c-49be-8753-6422f4fc5ad1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202129Z&X-Amz-Expires=3600&X-Amz-Signature=c474da4cde034644869fd4670f59744dc0069645ac0dbe7bd73dfdb6c97776d2&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[2fbe2f31190fe0c73606912485107f88_MD5.webp]]
 
 We also value and encourage our community's interaction on our **[Discord](https://chat.openai.com/discord.gg/dwarvesv)** server. It's a great space to stay updated, engage in lively discussions, and catch up on the latest from us. Be sure to join us there!
 
@@ -142,7 +142,7 @@ These insights continue to broaden our understanding of both traditional and eme
 
 [Dwarves Rewind](https://www.linkedin.com/newsletters/dwarves-rewind-6963734647327375360/) is a reading list serving as a collection of news we aggregate weekly. Tech is a very high-paced industry, and rewind helps to serve as a curated list of trending and high-profile topics that everyone can look back on.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4e4959a6-273a-4d44-bca1-a0ebeb2eda4c/Frame_91_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202129Z&X-Amz-Expires=3600&X-Amz-Signature=e9b2928e27bd0fe97581122cd6da96fada7d64694e872402567efe3886371837&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/forward-engineering-june-2023/7d72b4327ffbaf2595178ba126a3d16a_MD5.webp]]
 
 ### <span style='color:green'>Trending and Hot Topics</span>
 

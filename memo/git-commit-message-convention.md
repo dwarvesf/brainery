@@ -8,7 +8,7 @@ created: 2021-04-06
 I bumped into an article a few days ago. It was short and simple, related enough to make me wonder if we have the same thing in the team. [How a git commit message should look like.](https://dev.to/i5han3/git-commit-message-convention-that-you-can-follow-1709)
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9ad0f9cd-ab1f-4580-8079-43b030c5e696/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202419Z&X-Amz-Expires=3600&X-Amz-Signature=180da03d9004028dd4eb88347a617d96f2f18d0bf01b29e6b3033095e5c0ef7c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[3e7f02ebed61d22e2cade0e4c3c9ed61_MD5.webp]]
 
 
 ## From the article
@@ -58,7 +58,7 @@ Examples for 2 scenarios:
 
 ### 1. The commit affects one small scope
 
-![](https://i.imgur.com/i4fUAI5.png)
+![[c3a26eeaa2a55880f60f0219fd54ecbe_MD5.webp]]
 
 * type: fix
 * scope: foundation
@@ -66,7 +66,7 @@ Examples for 2 scenarios:
 
 ### 2. The commit affects the whole project
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/17432a3f-0c7c-4d54-8280-18fe7927f250/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202419Z&X-Amz-Expires=3600&X-Amz-Signature=f3892b64bf638398e48d76595516b344a9db25bdac0a4537856b00a717784dc4&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[a0d2b484d0d87baddace0446623c0af0_MD5.webp]]
 
 * type: chore
 * subject: upgrade tailwind and twin.macro
@@ -75,7 +75,7 @@ Examples for 2 scenarios:
 
 We have a playbook - our guides on getting things done. Here's the old flow we have on git commit message.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/484f9cf2-4240-4eb9-ad92-4096912eaad7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202419Z&X-Amz-Expires=3600&X-Amz-Signature=61f8f7ec54df0a76ee88f90115dcd32205406a5f07c2099cf5ed193e1680c3e6&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[822a84298b02559d0d1224f7aa82e039_MD5.webp]]
 
 
 and I think it's time to update a new version. Check out our latest update at [dwarvesf/playbook/write-a-good-commit-message](https://github.com/dwarvesf/playbook/blob/master/engineering/git.md#write-a-good-commit-message).

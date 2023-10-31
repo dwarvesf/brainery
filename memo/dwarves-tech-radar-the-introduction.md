@@ -47,7 +47,7 @@ For each batch, we will organize into volume in our github repository (dwarvesf/
 
 # The Tech Knowledge Areas
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ab4a0f2b-aac6-4a6e-b0df-c783bbcd5697/B7DECA3D-A9E9-4B0D-B6DF-CA17AAD7C727.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202451Z&X-Amz-Expires=3600&X-Amz-Signature=85f9e438bce059a04c209e7c60ebb62ee224b77b2cfe6464bbb67d5e0e25e9b2&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/dwarves-tech-radar-the-introduction/8e5f7f8bb132590bfbf3105155047b6c_MD5.webp]]
 
 Above is the knowledge areas that we think the software engineers should have been through. Our current tech stack is the reflection of how we apply those theoretical knowledge in real life. Run through the software development lifecycle and engineering disciplines, it mainly cover
 

@@ -5,7 +5,7 @@ tags: react.js
 created: 2019-05-02
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/65557410-db8d-4323-87eb-1857a44c513d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202408Z&X-Amz-Expires=3600&X-Amz-Signature=83425ee7f6ccaddd072356ef7ecf30508cc22322f36fdd17676345716e07e804&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[1390995c704e49aab8915f9a87fcd7ce_MD5.webp]]
 
 
 ## Introduction
@@ -21,7 +21,7 @@ First you need to config three file such as:
 * webpack.dev.js: this is our webpack config use in develop environment
 * webpack.prod.js: this is our webpack config use in production enviroment
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/de5f7182-7df0-4a5c-a5ec-7c687d17a8e8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202408Z&X-Amz-Expires=3600&X-Amz-Signature=b40d51d1415b6276aa76fba4e41a4271fe0d3d063f283c842f0a849cb08c2cb9&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[0eb458d1be6d0f37210105e714a1a304_MD5.webp]]
 
 ## Webpack development config
 

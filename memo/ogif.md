@@ -9,7 +9,7 @@ I would like to introduce to you our new initiative called <span style='color:re
 
 Let's take a moment to reflect on our achievements from the past week, and look forward to the next with optimism and enthusiasm.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a1257672-c553-44e1-bb95-69629fd4f233/dwight-funny-friday-memes.jpg.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202146Z&X-Amz-Expires=3600&X-Amz-Signature=cfe1a109fa9b24dd9a08d3c4a1a818b16fb2eefa033009b8eb5b86035934af07&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/ogif/a8411e1b4a3fdf5e1f29d01dbdedc0e1_MD5.webp]]
 
 ### The tradition
 
@@ -18,7 +18,7 @@ At Dwarves, we value work-life balance and believe that it comes after fulfillin
 We understand that some may not resonate with the idea of TGIF, as it implies an escape from a job that they are not passionate about. Instead, we encourage everyone to pursue their interests and passions, and not spend their life working on something they don't enjoy. I feel sorry for you.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/79b7fd17-996a-4c39-8259-12742505f301/Lion-meme-2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202146Z&X-Amz-Expires=3600&X-Amz-Signature=d104bb173d0dcb5b3f4ac70e82b0ea2dbaae38ccb0a9f398507a6bf698b5f781&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[a128a26090cab6b29e5f0e4dfe120b67_MD5.webp]]
 
 
 Our 70/50 culture is a well-adopted protocol among us. It means dedicating 70% of our time to our duties, and investing 50% in personal growth. 30% of Dwarves continue working on their side projects after fulfilling their weekly commitments, indicating their desire for growth.
@@ -36,4 +36,4 @@ TGIF sometime, OGIF all the time.
 Cheers,
 
 
-![](https://images.unsplash.com/photo-1472289065668-ce650ac443d2?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb)
+![[9e18ff0f5c1d17e5dc7c193d51d1c6b3_MD5.webp]]

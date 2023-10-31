@@ -15,4 +15,4 @@ In conclusion, organizations must recognize that the value and performance of em
 
 Are you helping?
 
-![](https://images.unsplash.com/photo-1533090161767-e6ffed986c88?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb)
+![[ed16be5f935ca5845b3a42984cdee76a_MD5.webp]]

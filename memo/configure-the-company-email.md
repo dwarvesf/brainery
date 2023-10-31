@@ -16,7 +16,7 @@ For this method to work, you need to have [two factor authentification](https:/
 
 Google will verify your ownership with this app password. Select “Mail” under app, and “Mac” under device. Hit “Generate”. Copy and keep for later!
 
-![](https://improvmx.com/wp-content/themes/improvmx/img/app-password-google.gif)
+![[memo/assets/configure-the-company-email/75bba213e343be0d54245f70f1bb00b8_MD5.gif]]
 
 
 ### 3. **Add your email to Gmail**
@@ -30,7 +30,7 @@ Go to Gmail -> Settings -> Accounts and Import. Then, select “Add another emai
 
 Set your forwarded email (example@d.foundation) and your sender’s name. Untick “treat as an alias”.
 
-![](https://improvmx.com/wp-content/themes/improvmx/img/smtp-sender-info-gmail.gif)
+![[memo/assets/configure-the-company-email/e40460b7c3bb0a5b24d84d2916ef058a_MD5.gif]]
 
 
 ### 5. **Fill in your email informations**
@@ -43,7 +43,7 @@ Password is the password you generated on Step 2.
 
 Leave TLS enabled as is
 
-![](https://improvmx.com/wp-content/themes/improvmx/img/smtp-gmail.gif)
+![[memo/assets/configure-the-company-email/a0083c2a2c03b49be443442fd9b9d388_MD5.gif]]
 
 
 ### 6. **Confirm Ownership**
@@ -59,13 +59,13 @@ Now you can just select your alias in the list when you compose a new message.
 
 * Go to Mail client -> Settings -> Choose your individual email which added alias -> Edit Email Addresses
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6587c635-f994-4486-bf34-e6e0c5b2e659/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202207Z&X-Amz-Expires=3600&X-Amz-Signature=734bea29c96b1eada7d110edc7d83497f2cf2c31abd9378e77b84632df774dcc&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[c636f82d2c678d9d015131573a8bd8e2_MD5.webp]]
 
 * Fill your alias information
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ee94e766-1fb2-438a-bff4-9c99b9181ad9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202207Z&X-Amz-Expires=3600&X-Amz-Signature=e03b51a19c1a62fd9013e673d2e9c6d8f617e0f03a3453bbcb55f1926b73faae&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[5ae2d96d24c6e58a28b97536eb54364e_MD5.webp]]
 
 * Now you can just select your alias in the list when you compose a new message in your Mac client.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ed6c500f-251d-4838-a5a9-77db8c195ff0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202207Z&X-Amz-Expires=3600&X-Amz-Signature=b3787f16b539a885813e34f7e71e3f6ab1ad1e457619e6dcee283000ba0437db&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[a064fb3d515cf37f25f840c5fc850689_MD5.webp]]
 

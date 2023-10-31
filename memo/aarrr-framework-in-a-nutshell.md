@@ -18,7 +18,7 @@ AARRR funnel contains 5 stages: **Acquisition, Activation, Retention, Referral, 
 These 5 stages often change order, depends on what we want to attain. Sometimes you might want visitors first before turning them into your users and bring them your unique values. Sometimes you just want them to keep using your product as long as possible.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5ffb4610-79e0-49de-b08f-7b565b613e49/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202443Z&X-Amz-Expires=3600&X-Amz-Signature=6aac486f1168cd08c2c60aad382620f356ce2ab194ce371612bb9929c330c63d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[68ba2966f6fa3c2f176e35fac09460a7_MD5.webp]]
 
 
 As we can see the above image which is the AARRR ecosystem. Based on our assumption about Problem - Solution, we (and input from the Business owner) will decide the order of 5 stages and what need to do at each stage to drive the User into the funnel. We could know which metrics of each stage and which ones need to be focused first in a matter of time.
@@ -57,7 +57,7 @@ Keep in mind the current product stages and its goal then optimize the metrics.
 This could save you a lot of money.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/117a0089-89c1-4fd0-9f00-0e2db822b77f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202443Z&X-Amz-Expires=3600&X-Amz-Signature=21bb5e934e0b076f195f1b760f42605701a2b1ed18f04ee65a8100d3bf36fa5e&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[ad253f7dc9bffec98ab4c536f6cfc2d4_MD5.webp]]
 
 
 ## Conclusion

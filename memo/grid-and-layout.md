@@ -19,11 +19,11 @@ Let’s make it simple.
 
 Either you want your design looks like this:
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8e7878f7-627e-4820-b746-c63608dfdb66/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202441Z&X-Amz-Expires=3600&X-Amz-Signature=f0f0f901e0d9ac83ccfb6695e11057afb7f11e6d334124bebc74ccd1ebbfde4b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[3bdce6d13717bd0834f92c4a79970069_MD5.webp]]
 
 Or this
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/67c410b0-eea3-4917-a564-2bb87680e53f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202441Z&X-Amz-Expires=3600&X-Amz-Signature=ae8d763779b82b31a0cf456519d5134def1bb01ac94e9c39e0855756457a2690&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[36c8e99a111f6eed2d177b9b0eb8228f_MD5.webp]]
 
 There are several things that make your work turn into “not good looking design” and one of that is you didn’t choose and prepare your layout good enough. (It happened to me once when I first started working as a visual designer).
 
@@ -51,25 +51,25 @@ With **Row** and **Column,** we mostly have 12 counts, margin, width, gutter.
 
 It's a block of design, whether that be text, image, or both. Background colors don't count as field elements unless they are a container for your text/image. I've seen the name field element be interchangeable with units, elements, parent containers — they're all the same.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/334c22e4-b848-435d-ac71-86451df29019/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202441Z&X-Amz-Expires=3600&X-Amz-Signature=8a383821bf1d3e78a376bd9c5351f72226dde8a6c3b7ed123e558c1d8f6a3651&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[1d7ff36ad43140f04c22a1344327120a_MD5.webp]]
 
 ### Columns
 
 Columns are the thick colored blocks that make up the content width of your design. Field elements are to sit on a certain number of columns. Traditionally in a design system, the column width doesn’t change. But the number of columns varies from 12 on a desktop or 8 on a tablet and 4 on mobile. You can use anything you want, but most grids have 60–80px column widths. Choosing a column width that works for you is the most important since it’s the main determinant of your content width.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9b3ffd8d-bce3-4a2d-adda-215bc4a792a4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202441Z&X-Amz-Expires=3600&X-Amz-Signature=a6d4d1a5605fe15d3df1159f24a31b2071c7005559c07c3b63956a54bc155057&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[910a469e5bc586180f41f88680bba4bd_MD5.webp]]
 
 ### Gutters
 
 Gutters are the space between the columns. 20px is a standard gutter size, and this spacing will be critical when you have a masonry design or a grid of card elements, a simple example being a photo gallery.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ee6c9da4-9ca7-4e36-ae74-2e77407e57f6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202441Z&X-Amz-Expires=3600&X-Amz-Signature=de4639f3a6cc591c7073b4d902086c4d12356454769610d5cc305bce03bf4de3&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[024c62923ce47df299bd7ee36aa26a77_MD5.webp]]
 
 ### Side margins
 
 Side margins on mobile are usually 20–30px, and vary a lot between tablet and desktop. Whatever you choose as the side margin, will be the minimum white space you allow when you shrink your browser. When you expand your browser from this point, there will be white space until the next breakpoint.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6da78b47-4066-4f11-bcd1-8e5fda1c1bac/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202441Z&X-Amz-Expires=3600&X-Amz-Signature=e9d648d636e6917d5efd7fcb9d4e98113f574e387cfe32449bad9e1c1c32c911&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[a043920fee14ac284854524a4e074fd1_MD5.webp]]
 
 # How to use grid in the right way
 
@@ -77,22 +77,22 @@ I’ve learned a lot from my leader how to apply the grid in design. We can’t 
 
 ## Field elements must sit on some number of columns
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/49b619f2-012b-438b-b1b9-71574fea70f6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202441Z&X-Amz-Expires=3600&X-Amz-Signature=22e7b5c884d68483a65540596bfb62d5ef6cdfe8bae4c8bcd0fed6b16f1de675&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[99ba657b5b121158b61df8f51c3935df_MD5.webp]]
 
 I mean, not all elements. As you see, just only the container must be between columns; the number of columns depended on the container’s size. It’s easier for the development team to code if we follow this rule, in case of force majeure (only if it make our UI better), we can create an exception.
 
 ## Do not leave field elements in the gutters
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/75d27e08-1901-4334-8da6-e58320a96031/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202441Z&X-Amz-Expires=3600&X-Amz-Signature=36f58cf9e12290b160fe9aa345a1a045d3fa6a3d170d8739a178358f50f6cdc3&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[c7cd9400e4b6a7c96f2df3c7f24791f9_MD5.webp]]
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f9dd041f-2e9b-44f4-aa81-b0026e1b2464/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202441Z&X-Amz-Expires=3600&X-Amz-Signature=8e6ea551443145c51264347223aca505a8b78aa9d68a4e487ffc6542c71ab79b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[7417c8675f9f592d8b8fee0d635848e8_MD5.webp]]
 
 
 Your elements should sit within the columns and not be bleeding into the gutters. You CANNOT leave things in the gutters, that defeats the purpose of the grid.
 
 ## It’s okay to nest elements inside fields that don’t align to the grid, as long as the parent field itself sits on columns
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/06c53742-da13-4347-b52c-6c6f4cf5baa7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202441Z&X-Amz-Expires=3600&X-Amz-Signature=fe77653c648931678cdb609c9c7ffa669e1b052369ae3fc9ea5e9889b33d32a6&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[7df1c65ee21b0bfe2452413491f8f9bf_MD5.webp]]
 
 Sound weird right, everything I wrote about seems nonsense here. But It’s a trick to me, whenever you want to put an element that not fit to your grid (you should put them into the grid. But in case don’t do it make your design look better), all you need is creating a container fitted into a grid and put your elements into them.
 
@@ -101,9 +101,9 @@ The Dev team always want our design put into a grid to save their time coding, w
 ## Do not use a column as outside padding unless intentional
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3e6a028c-c040-4918-b846-4ce0954127d9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202441Z&X-Amz-Expires=3600&X-Amz-Signature=3840739b3066906fb4cf0290766a7e8400572b58c576987a8a69479903317a15&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[4052e7ff934548603afc4e9abb43548d_MD5.webp]]
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/813cf2ac-38a4-45ec-99a7-f42f82c76af0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202441Z&X-Amz-Expires=3600&X-Amz-Signature=fba71b4848ab8c57e4b1a0eada751fe58de67b77d0382815607d6b0408313ec5&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[a106abd338fb3f0957d15d343faef1c5_MD5.webp]]
 
 We actually don’t need to indented 1 column each side, it will make our main images smaller, that’s the margin jobs already.
 
@@ -113,7 +113,7 @@ We actually don’t need to indented 1 column each side, it will make our main i
 In a traditional design grid, the column widths and gutters stay the same, just the number of columns change. Why? And how does that work? This was to make things easier when you designed. If a set of three cards sat on 4 columns each on desktop, you would show two cards on a tablet and wrap the third one so that it’d show on a second row. Yay! You didn’t need to do any resizing, because you already knew that it sat on four columns. On mobile, the answer is easy too, you would show one card, and the rest stacked beneath it. If you wanted, you could also get creative and choose only to show one card on mobile or do a horizontal scroll. These breakpoints are the point of reference in code.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/158681bb-1133-4c42-b818-baa4f0d1e7d2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202441Z&X-Amz-Expires=3600&X-Amz-Signature=a1ecf9fd11747919a431d98e92fc4c4ded2bb970dc10045b4fa10aaf537c898c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[f0045709ef2c31affbb508461c5229cd_MD5.webp]]
 
 # Fixed & Fluid Grid
 

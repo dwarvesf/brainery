@@ -79,7 +79,7 @@ It is essential to choose the right methods, apply them flexibly to each industr
 There are different ways to conduct market research and collect data. Still, we don’t limit ourselves to just one research method. This is one of our simple methods we applied to our previous projects
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/160f58ac-acb8-4c4c-824f-4a3dfa7add7f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202444Z&X-Amz-Expires=3600&X-Amz-Signature=d560e64f56d04ef93b5c6ce750577bc303a8c9fec99e3ad37e7b8e84f839dc79&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[212c5cd2b79ff8385855412c63292329_MD5.webp]]
 
 
 **Primary research**

@@ -79,7 +79,7 @@ For many companies, hiring means selecting people who fit the existing culture a
 Our culture is dynamic. It should expand like our business. We welcome its change. Just like we want people to contribute new skills and ideas, we want people to contribute new culture. Hiring culture-fitters does not make our culture better.﻿
 Hire culture-contributors who will make our culture better.
 
-![](https://dwarvesf-outline.s3.amazonaws.com/uploads/08852c07-eed1-4703-b411-fe1581277313/b7accbaf-5d68-4b88-a7c1-068754d4a55d/image.png)
+![[446cd358745fe9024a7304905bb0572a_MD5.webp]]
 
 ### Culture add, not culture fit
 

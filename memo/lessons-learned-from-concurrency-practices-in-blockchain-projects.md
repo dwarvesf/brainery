@@ -88,7 +88,7 @@ TryXactLock:
 }
 ```
 
-![](https://external-preview.redd.it/grKEXVBH0RQjR0dy91zxEJn0o15RLuGrWK8GDswyV5Q.png?auto=webp&s=549efea9047e3c4294bcc9e46c71955c87bb30ba)
+![[d24c06b91424a0367b9728cd76f4c3fc_MD5.webp]]
 
 *Source:* *[https://xkcd.com/](https://imgs.xkcd.com/comics/goto.png)*
 

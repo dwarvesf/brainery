@@ -15,7 +15,7 @@ Service mesh has been really a hot term recently, comparing to another microserv
 
 The key objective API Gateway is to expose microservices as managed API. API Gateways comes with a number of powerful features such as load balancing, health checks, API versioning and routing, authentication & authorization, data transformation, analytics, logging, SSL termination, etc. Kong, Ambassador is two of successful open source API gateways.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ef4b9120-9f57-4d11-a1ee-79d2bac9b9a8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202413Z&X-Amz-Expires=3600&X-Amz-Signature=3291ad3b062f5f5fa74c7a2e373a23437ed5d3fd2faca6f18c780806f7e52083&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[72c7525c7279dec224c4d4a2fe92915e_MD5.webp]]
 
 **Pros**
 
@@ -34,7 +34,7 @@ The key objective API Gateway is to expose microservices as managed API. API Gat
 
 Unlike API Gateways, Service meshes are focus on decentralized and self-organizing networks between microservices. that handle load balancing, service discovery, health checks, monitoring, and tracing. The mesh work by attaching small agents container, also known as "sidecar" alongside with every instance that manipulate the inbound/outbound traffic and handles instance registration, metric collection, and tracing. Istio, Linkerd are the most known service meshes.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d51e87e8-1852-4c10-b124-2c55e5c48ee3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202413Z&X-Amz-Expires=3600&X-Amz-Signature=c00c159cd9aae3b2cb59f14741dfc8de18b2daa4acf9656df9964c798bd1dde3&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[c3a18948994827d122dccffab6bb925e_MD5.webp]]
 
 
 **Pros**
@@ -64,28 +64,28 @@ Let's begin with Kubernetes - the famous container orchestration platforms To ma
 
 So we have the microservices the Kubernetes way:
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/99043530-c763-4b7a-99e3-3311d05d5c31/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202413Z&X-Amz-Expires=3600&X-Amz-Signature=af6ba2aae42946d18bfe83f802bf37e7b7989210bb890c6e55433fe95af4be52&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[fea0e8efe47df6b5ee4ec298ca2af085_MD5.webp]]
 
 
 What if  I found microservices grow up like this?
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6da149d9-eaad-49d1-9a9e-13b303886b26/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202413Z&X-Amz-Expires=3600&X-Amz-Signature=8076290b7cabfa7433c5db5cbbcb8a9194bf0df8ba882d7ef2e02518b8b91224&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[ff46797937114ab9f237e8a4e6c75717_MD5.webp]]
 
 
 Definitely it will become a multiple points of failure. This is where the savior Service Mesh come in, and Istio can solve the problem. Istio injects a sidecar in every pod in the network:
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d5f400be-6f7e-4612-8aef-e6d08e9f08b4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202413Z&X-Amz-Expires=3600&X-Amz-Signature=c12f3507ed7e344119efde54150f2684a98a0d3d725ac1fe05ef73ac7e810efd&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[e9b3b350df578cb36174854b3cf061a7_MD5.webp]]
 
 
 So instead of continuously writing code for the routing, the circuit breaker or every networking stuff, we can focus on the business logic of each application in the network.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/521c00aa-0af5-4e75-8f4c-fa243f5e6516/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202413Z&X-Amz-Expires=3600&X-Amz-Signature=7e9f1c08ea6c0ee8d17c1aec859650341609ebb0ecb6d36be4c7956af80be8c6&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[8bc273d9f58042ffc8b0dc8bcba5c4d7_MD5.webp]]
 
 
 Our system's network now becomes more under controlled:
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/920df72c-b847-4662-8f11-2fcf682526d2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202413Z&X-Amz-Expires=3600&X-Amz-Signature=ecde569de8f7c5fb1cb57cf488b6d229820f4da5f43cc7328573238c1d9ccacb&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[5ad7aeee9b729f36ab6d6a0cb8c33acc_MD5.webp]]
 
 # Istio Architecture
 
@@ -103,7 +103,7 @@ Istio utilizes an expanded Envoy proxy version which is a high-performance proxy
 * Fault injection
 * Rich metrics
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b44f1f1c-7710-4bc1-bf3e-9c08512ae004/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202413Z&X-Amz-Expires=3600&X-Amz-Signature=ed600014d73b419f9440a6d608a1111157c551068e907678a442fc9ff7b4b9b3&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[2d2ef1b3abadb1e298b1cde0c5614f6a_MD5.webp]]
 
 Envoy is deployed along side with every Kubernetes pods as a sidecar to the appropriate proxy. This deployment allows Istio to extract information about traffic behavior as attributes. Istio can, in turn, use these attributes in Mixer to enforce policy decisions, and send them to monitoring systems to provide information about the behavior of the entire mesh.
 
@@ -111,7 +111,7 @@ Envoy is deployed along side with every Kubernetes pods as a sidecar to the appr
 
 Pilot provides service discovery for the Envoy sidecars, traffic management capabilities for intelligent routing (e.g., A/B tests, canary rollouts, etc.), and resiliency (timeouts, retries, circuit breakers, etc.).
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0322d2f2-4fbe-43b8-b28d-95426ef32301/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202413Z&X-Amz-Expires=3600&X-Amz-Signature=31efe9649e281b11d18d1657ae310e6b6ae0df8e0a28dc0dc52e8bd06e2ff8d0&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[59b3a1cd6fd186a9203774101e1f6ab6_MD5.webp]]
 
 Pilot transforms high-level scheduling rules into Envoy-specific settings that regulate the traffic and propagates them in real time to the sidecars. Pilot summarizes and synthesizes platform-specific service discovery processes (Kubernetes, Consul, etc) into a normal file that can be consumed by any sidecar compliant with the APIs of the Envoy data plane. This loose coupling allows Istio to run on multiple environments while maintaining the same operator interface for traffic management.
 
@@ -119,9 +119,9 @@ Pilot transforms high-level scheduling rules into Envoy-specific settings that r
 
 Mixer enforces access control and utilization strategies across the system mesh and gathers information from the Envoy Proxy and other facilities for telemetry. In another word, Mixer is the monitoring agent of Istio network.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e1e091fa-d16f-48ca-a057-326c18b45fc8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202413Z&X-Amz-Expires=3600&X-Amz-Signature=25b8560cbb83a1d162f3b6afd2263ef8b9397ec2890ef791e41c60dfa4d17aa8&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[76c3d8d9b9ee843b5445a06359a73111_MD5.webp]]
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/331b9741-e60f-44a2-8aa8-9cddff793d48/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202413Z&X-Amz-Expires=3600&X-Amz-Signature=bbe1f1bff3385be415382d3a52f7966274a1236887991be28ef5462f2e6a0c26&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[b26506ec8999334276375c45f5510191_MD5.webp]]
 
 
 Mixer involves a versatile plugin system. It allows Istio to interact with multiple backend infrastructures. Istio therefore extracts from these information of the Envoy Proxy and Istio-managed facilities.
@@ -130,7 +130,7 @@ Mixer involves a versatile plugin system. It allows Istio to interact with multi
 
 Citadel enables strong service-to-service and end-user authentication with built-in identity and credential management. Citadel can be used to upgrade unencrypted traffic in the service mesh.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bcc08093-ae89-4119-8bcb-7ddcd87fb369/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202413Z&X-Amz-Expires=3600&X-Amz-Signature=d7b41375d084b147d471fa582b183d9fb8d5f3a7502453d5232a472992872f47&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[44d2292a4e7d6391c544bfb68ad30f41_MD5.webp]]
 
 ##  Galley
 

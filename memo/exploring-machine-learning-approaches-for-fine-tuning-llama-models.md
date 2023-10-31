@@ -5,7 +5,7 @@ tags: machine learning, LLM, engineering
 created: 2023-05-04
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ad6f8079-33ef-47f0-957a-69ebf8a73b1e/deepmind-8heReYC6Zt0-unsplash.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202135Z&X-Amz-Expires=3600&X-Amz-Signature=8b41884d4c4b3b78e97d214ed2f064010fdcfc1a4cc84339ed66ba21ee17bf10&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[b6f4054793fd3b5ef748c5dcf072cc09_MD5.webp]]
 
 *At Dwarves, we've been increasingly exposed to more state-of-the-art news coming from AI than ever before, of course, related to Large Language Models (LLM). We've had a taste of what AI has to offer with Stable Diffusion and more commercial apps, and have been eager to learn and hone our skillsets in applying these new AI breakthroughs in our everyday lives and our apps.*
 
@@ -44,7 +44,7 @@ One novel approach to enhancing the performance of LLMs involves the fine-tuning
 
 PEFT LoRA works on top of pre-trained language models by adding LoRA weights to the feed-forward layer of the transformer. It does this in a way without needing to fine-tune all of the model's parameters. This is particularly great if the majority of the AI workload is in vector indexing and we just want a chatbot specialized for a particular dialogue path without sounding too stupid.
 
-![](https://miro.medium.com/v2/resize:fit:1400/0*9sRHGErm4Y5PDc2w.png)
+![[20f6cea84bc8d93af997167eb7b3f224_MD5.webp]]
 
 The trained weights from PEFT LoRA are significantly much smaller (within a few MBs depending on your data) and don't require as much CPU/GPU power to fine-tune existing frozen models.
 
@@ -180,7 +180,7 @@ All that is left to do is run the `trainer` to train our model. Thankfully that 
 trainer.train(resume_from_checkpoint=False)
 ```
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1682405773386/598a1fca-07fb-4fe6-b2b8-99697c75596e.png)
+![[21b3ea87423ab6377aed99987dbad148_MD5.webp]]
 
 Then if we want to save the file to our disk, we can use the `save_pretrained` method on our model to save it to a named folder.
 

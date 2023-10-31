@@ -5,7 +5,7 @@ tags: case study
 created: 2020-10-24
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8795249a-c8b9-43a0-a33f-febf1feedf50/voc-ws.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202330Z&X-Amz-Expires=3600&X-Amz-Signature=560102682575a639f8d21a2da25a444927c20f9a2b5c204b2c712b3d0ccc40d8&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[d42e1b682d5069810f253775bf7e64f8_MD5.webp]]
 
 ### <span style='color:blue'>In brief</span>
 
@@ -39,7 +39,7 @@ They believe spending manually effort on deploying and managing products in clou
 
 <!-- column 4838b88b-eae6-4d86-8da2-a31ae188ce94 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/40e985b1-ee37-4c39-9e54-59f5856ebf57/cjc.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202330Z&X-Amz-Expires=3600&X-Amz-Signature=6e9247a1abbe4c72849a186f2381c32051f2c65c6a9533ded3352f618ee3f4de&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[bcff96e19ba6327284fb20c3dfb2520c_MD5.webp]]
 
 Provides people with convenience in deploying while maintaining an error-prone process is what derives Voconic's basic concept. 
 
@@ -108,14 +108,14 @@ Through months with dedicated work, we're proud to deliver <span style='color:bl
 * Custom-made yaml format to define how to create a product, using CLI support for product creation
 * Automation Test System
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9a850683-eec9-4746-8075-950fee9afd32/voc-cloud.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202330Z&X-Amz-Expires=3600&X-Amz-Signature=069b1b19eff6dc349bda7179c0f587a1966955b81aca2d174b92491d68f429c6&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[e71cf9f79de31ebb88a3099afa763aa9_MD5.webp]]
 
 <!-- column_list 7a1f5a01-9283-4693-8b5e-e8399849b27a -->
 
 <!-- column 9085493d-8e6b-404a-bfa9-96767ba91c9a -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9f31ab3b-cdbf-46da-a4fd-9849a6a61f26/voc-market.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202333Z&X-Amz-Expires=3600&X-Amz-Signature=0f0d1622c7f89b138d6b45316fdb9101526cd8a790d3eb148b192e64de747b7d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[b342080cdad3bc962e651e60af089e11_MD5.webp]]
 
 <!-- column b99b080e-5277-49ec-a2df-25d3ea005fa0 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6e0ba14b-a248-4b4c-8a01-42128e070c1a/voc-prin.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202334Z&X-Amz-Expires=3600&X-Amz-Signature=10c487f5bf4efec065a2be69bf1552e4b5d8a82d943e2fd3eb45617e2f357ae6&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[712c2440e0e6066fec45f53a1bfa510a_MD5.webp]]

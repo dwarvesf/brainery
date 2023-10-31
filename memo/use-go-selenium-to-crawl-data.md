@@ -5,7 +5,7 @@ tags: go
 created: 2016-06-02
 ---
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/00518f22-c30b-4821-be5d-341b220b412d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202410Z&X-Amz-Expires=3600&X-Amz-Signature=273871d7d5062b47eb9b5aef66d8038870dc9c52e7349feec8950d08117011d2&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[f963144e3cfac24481dbfeb02cf6a0e6_MD5.webp]]
 
 ## Crawl data
 
@@ -30,7 +30,7 @@ To run it, we go to the folder containing file jar and run the command:
 java -jar selenium-server-standalone-2.50.1.jar -port 8081
 ```
 
-![](https://res.cloudinary.com/dwf/image/upload/q_100/v1575366062/Websites/Blog/Screen_20Shot_202016-02-26_20at_203.57.22_20PM_rhexud.png)
+![[79536b2784ffffd405fdcbd54b56927f_MD5.webp]]
 
 
 \=> We have server selenium running at port 8081.

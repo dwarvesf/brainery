@@ -21,11 +21,11 @@ We've finished the shipment for all the WFH gears. Since the annual company trip
 
 <!-- column 18beac08-4c7f-4b75-9e0f-93e89ac74aaf -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/382d0586-fc62-4d9e-a18e-3a4b0f5f95e5/wfh.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202255Z&X-Amz-Expires=3600&X-Amz-Signature=8392f050d68ebd834d3e6b6bac41df9a5504eb3d9c92045983f38e9daf47017e&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[733d0121febec06d18e9531f92400ab8_MD5.webp]]
 
 <!-- column 8f3c7d97-a82b-45b7-ad40-5649485f3982 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4042417c-1da8-4826-a4aa-f0acd1b95aea/wfh2.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202255Z&X-Amz-Expires=3600&X-Amz-Signature=a191fd22e2dc4114f63cbab3a75e68987f4d2293010f6c247578e0879074aa06&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[541d9540dd68b6a75696f615a1a6c879_MD5.webp]]
 
 ### Your fleeting notes
 
@@ -52,7 +52,7 @@ Feel free to ask the CEO anything. Workload, feature request, product discuss or
 
 <!-- column daea2df8-0e8a-4ed4-95a8-745776e817ea -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/acba3b13-6d1a-4df1-8973-e99c6302bbf5/Screen_Shot_2021-07-30_at_09.19.46.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202256Z&X-Amz-Expires=3600&X-Amz-Signature=4237d98e0443f31a90cd719f8190a416499e1149e330de733573c59e7fb91340&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[0b035e736bb615bcdde24b2efa950ec5_MD5.webp]]
 
 
 ### Moving toward Blockchain industry
@@ -71,7 +71,7 @@ Sneak peek at the [landing website](http://legendfantasywar.com/) →
 
 <!-- column 56aabae4-c1a2-4d6d-b1db-19bbd5e740e9 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e0734b09-8178-4b27-b311-a816f5418215/Screen_Shot_2021-07-30_at_09.25.07.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202315Z&X-Amz-Expires=3600&X-Amz-Signature=180cdfde77b53abb868cd77dd2218554ca9377f050f260ef75b499cb7d7bd861&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[4ac57a6a422a69aad933db59d4c43095_MD5.webp]]
 
 ### Notion OS: Running our team from Notion pages
 
@@ -129,7 +129,7 @@ We are hiring again. This would be a massive focuses on senior level to upgrade 
 
 Thanks Vy, Hoang for the referral. Thanks everyone else for sharing the post. It works.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fb19ee2c-3ae8-4521-b4a4-c9242c529128/hiring.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202316Z&X-Amz-Expires=3600&X-Amz-Signature=daa2b8baf5a02cb9048cd3806f5f43a786ee87e98586496f4b48724b7220b33c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[1b220da25eec9897a33cce413616f132_MD5.webp]]
 
 
 ### Shaping our image

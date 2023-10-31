@@ -14,7 +14,7 @@ Being a junior is where everyone once began. It's the point where we start disco
 But more importantly. Should or Shouldn't? And how?
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/856e74ba-c782-4272-8632-28d2c53e5b13/question.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202454Z&X-Amz-Expires=3600&X-Amz-Signature=70d342a504147905a96e92548b4d7734d41cae8302d18ee314e8428676e42eb6&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[e04f198b4f3729cac86ed127717fd1b6_MD5.webp]]
 
 
 ## The Hesitation

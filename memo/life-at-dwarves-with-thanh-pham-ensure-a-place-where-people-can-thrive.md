@@ -12,11 +12,11 @@ Been with us for nearly 5 years, Thanh has been taking care of the juniors and e
 
 <!-- column 7d05c4b4-bceb-46d0-ae24-c74de13f2246 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/be94a80a-9ef1-4f07-91fd-5ca9be098fde/tp-1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202230Z&X-Amz-Expires=3600&X-Amz-Signature=7f83891284f3d28e2d5cfcac595e72d88bddc50ca6857d7457e908f5950e90a7&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[99d1d4af639e7bf4f1c447790068f1c8_MD5.webp]]
 
 <!-- column 3fc167bb-b2aa-46e2-8604-4c8832a06eca -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9fb0ddee-e00d-45af-addb-5c38c9f3d6aa/tp-3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202231Z&X-Amz-Expires=3600&X-Amz-Signature=88d0d1233c6919d79eea2e8ab0989a28cd01bc1ed9fb0c2099f790e8b3d2e65f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[b23fdddad0fb430f796516fd844f55c3_MD5.webp]]
 
 
 ### <span style='color:red'>My job is to ensure a healthy environment for everyone to thrive.</span>
@@ -64,4 +64,4 @@ My future goal is to become a CTO, maybe in around 5-6 years - or sooner if I'm 
 
 <!-- column 815a1882-d9d8-4858-a7d6-01dcb6391887 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2a9482d6-2bde-4b2b-8946-109ac9da4362/tp-2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202232Z&X-Amz-Expires=3600&X-Amz-Signature=51c485ec5e7033f29791937612d832490e4ed74e7356cb4b6d97b3c3196811b6&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[da2dc41bc6f10b6067410a68f1c232b2_MD5.webp]]

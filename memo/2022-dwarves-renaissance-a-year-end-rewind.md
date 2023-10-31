@@ -34,11 +34,11 @@ Expanding the team doesn’t mean we have to disregard our culture. We have laun
 
 <!-- column cb1166c9-7d52-409b-9d00-65d5ce1d6905 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/65192837-dea6-49d4-a583-941676cc5274/team-2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202155Z&X-Amz-Expires=3600&X-Amz-Signature=ffa32f4c060544013ffc60747ff4e7dda170b2de79e060ed3ce52c740ef4547a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/2022-dwarves-renaissance-a-year-end-rewind/f3d04cda19cc5bfc2126f840d4dddf1d_MD5.webp]]
 
 <!-- column e0c5d7f3-6480-402e-9694-a07142408e83 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/74aee304-8c5e-44fa-abe6-1f829df0b875/team-1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202155Z&X-Amz-Expires=3600&X-Amz-Signature=8e8949556a5d89ad8883b910738e16135fd470ae606bdf0bdd101a43fad4b09a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/2022-dwarves-renaissance-a-year-end-rewind/b6627bd506ccd793e7c6177b8c941947_MD5.webp]]
 
 <span style='color:gray'>*The Dwarves Collective, using markdown to visualize bonds between members.*</span>
 
@@ -76,7 +76,7 @@ Feature Flags tackled a concern spanning across our DevOps, Management, and Engi
 * [https://dwarvesf.hashnode.dev/common-challenges-feature-flag](https://dwarvesf.hashnode.dev/common-challenges-feature-flag)
 * [https://medium.com/dwarves-foundation/design-a-feature-flag-system-7986b4a080cc](https://medium.com/dwarves-foundation/design-a-feature-flag-system-7986b4a080cc)
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/191214dc-64a5-4074-aea2-b8f7cb0d954c/Option_2_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202153Z&X-Amz-Expires=3600&X-Amz-Signature=1be36866e28ecee4481a87324440b05610742db8e02b6ad13c04b839085e4330&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[807095e97b173fac69c60aeffb7536ec_MD5.webp]]
 
 
 ### Learning As The North-star Metric
@@ -109,7 +109,7 @@ Just a bit of research on new tech could mean a job opportunity, or perhaps a tu
 * <span style='color:red'>[Dwarves Tech Radar Volume 4](https://www.facebook.com/photo.php?fbid=833917351164701&set=pb.100036393316096.-2207520000.&type=3)</span>: a place for our engineers to trial and evaluate emerging technologies, and to help set the direction for Dwarves’ tech stack.
 * <span style='color:red'>[Engineering Publication](/827064fb759b4cd79d398a2099b212ed)</span>: our extra effort goes into learning and researching on how we can get better with technology.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/95171f1c-dcd7-4451-81e2-120ef13a9e03/Screenshot_2023-01-17_at_3.28.11_PM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202153Z&X-Amz-Expires=3600&X-Amz-Signature=81723ad194e3ad9c80332f922495aab9c6d8716d2f4dfb84e670a4eba8fafe4b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[1f5bd3a773b8f02d7f50d46102c2fa01_MD5.webp]]
 
 
 
@@ -136,11 +136,11 @@ Along with encompassing know-how on designing system architectures, we’ve also
 
 <!-- column ad1c268f-fd64-453e-8132-5e1ccaedf573 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/418eb05f-06de-4356-9bae-1363e856683b/Frame_48095399.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202203Z&X-Amz-Expires=3600&X-Amz-Signature=82b88df797529fa354f8e41fa5def0b0f746871f9e00b92542757a83d6bea3fd&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[8e20d43e2280cb6d73b66cb32589d347_MD5.webp]]
 
 <!-- column faa546d1-7cd3-42bb-8d65-734ff7e6467f -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a4297fdc-018b-47a4-ad7f-858b43126776/Frame_48095398.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202203Z&X-Amz-Expires=3600&X-Amz-Signature=8ee734a20f31e552efbb0df579f2bd60c3f8416673f0a6a1ff740fceefaae278&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[3ffe6be8770c28e27e4cfb57fdc52141_MD5.webp]]
 
 <!-- column_list c31af15a-e44c-494a-a34b-afce7c201efb -->
 
@@ -173,15 +173,15 @@ Came after [Summit 2022](/a97f5ddc0611460abc0212b4ba5d10d4), we’ve piloted a f
 
 <!-- column 760411bb-9c83-4ad4-8c17-24213d3458c3 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/422fbf4b-a69b-4593-a2d9-b2eeb1b9e85f/Untitled_%281%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202205Z&X-Amz-Expires=3600&X-Amz-Signature=6f789e5d47cce2531802e6cb3c72d3a1867b3de8e4c5dbcade829329af378287&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[2307207050288356f6f0bdf691a75197_MD5.webp]]
 
 
 <!-- column 3fe86009-14b0-428a-8567-7df6a9a63658 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/baf6c090-3983-4f5c-bc32-e5b31807247e/Untitled_%282%29.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202206Z&X-Amz-Expires=3600&X-Amz-Signature=976d5a50bb853918ac3e69770180f85f3de3b9a0e556685b051c86bb6dcafd78&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[85890bb5c8f1c3913cd7ab75bf307868_MD5.webp]]
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/198656c0-5de7-49aa-a60a-781fab0743b0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202206Z&X-Amz-Expires=3600&X-Amz-Signature=29023a18d30401a9f0abfb709aced13d19d2bb48188aacd4c60131c23a9da391&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[491ec1fee97cb5ea2f004a8fb7161e0a_MD5.webp]]
 
 
 
@@ -199,11 +199,11 @@ The Dwarves actively take part in developer networks to bring makers and tech en
 A variety of things, from lessons learned in a well-written format to Radio Talk live every Monday on Youtube and hanging out with techies at [Dwarves Discord Network](/f5ff4edfd8cf44d2ad7f2781ba717577) where we talk about technology and life as developers can help you stay tuned with us. 
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/021a571b-155f-493f-891c-4120d0fe5eeb/Youtube.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202153Z&X-Amz-Expires=3600&X-Amz-Signature=569bcbb32103bd7831f394a2e22c2796119d9e9844ef4527a6646679c310c61a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[2efc2bdd5fc9eaa0c2e3cedd125136af_MD5.webp]]
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a461cb54-ecde-42c3-966b-3a0796c99a74/Screenshot_2022-09-13_110329.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202153Z&X-Amz-Expires=3600&X-Amz-Signature=8b4d640778124eafe882205cc35d6483689ff657a1c6b8e58511431ed447b33e&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[0b08b0849c1f71ecd736377f09caa3d8_MD5.webp]]
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f3d615b0-f147-4baf-91a7-06ea13be49c7/Frame_8856.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202153Z&X-Amz-Expires=3600&X-Amz-Signature=fcda7cf3120ae8fd3f28a336cbcc375b44e7e3553675d18692aca13a38d617cc&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[7eb2878df66bc8e99728e180f5da4eb6_MD5.webp]]
 
 
 ### Offline Contests
@@ -217,9 +217,9 @@ The second <span style='color:red'>**[Coding Camp](https://codingcamp.so/)**</sp
 We are proud to be a part of the movement toward blockchain-based technology and become a web3-centric tech firm. Keep up the spirit of building, expanding, and evolving!
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6bb4a713-b1e2-48df-a6be-64aac7c7b1a3/Screen_Shot_2023-01-04_at_11.44.15.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202153Z&X-Amz-Expires=3600&X-Amz-Signature=47b6c3fb4728d04f11b0739e5621f94bf257991fc5e2197d4c178606e0bd1cee&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[95ceffdd3b94a2cdf5685c867eade869_MD5.webp]]
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/16ccbfd4-7eb1-4c0a-9b40-b036c98c2a41/Screen_Shot_2023-01-04_at_11.35.48.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202153Z&X-Amz-Expires=3600&X-Amz-Signature=cef07fdf355f97ccb016f447d6522e678c075c21c9d9305073a70f5483b0c2ed&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[39671de1e1c71865eb802461a2f0ee5c_MD5.webp]]
 
 
 ---
@@ -233,7 +233,7 @@ We are proud to be a part of the movement toward blockchain-based technology and
 
 Since June 2020, we've been planning on a new office, a cozy studio in Da Lat and a summer house in Danang. It’s our **second initiative**: Dwarves Hubs should be placed across the country to offer our team a comfy remote experience when they need it. After the pandemic, as a new chapter, we’re proud of how it turned out, our first time went from sketches to reality - Danang and Dalat Hub. 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e0f52a07-a198-4850-9eec-f68ec979d633/Frame_8852.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202153Z&X-Amz-Expires=3600&X-Amz-Signature=f6e5e9e574b76274cd30423684f8a738174e81de8a39812af142e0046dfa2e17&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[02e84402b9218f304990d32161fe679e_MD5.webp]]
 
 
 ### 1-way Flight Ticket

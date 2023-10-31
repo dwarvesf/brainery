@@ -14,5 +14,5 @@ At Dwarves, there is also an inner circle of individuals who run the company and
 It is not about who one knows or what they have done in the past, but rather, it's about consistently showing that they matter and can make a significant impact on the company's success. This is the key to being a part of the inner circle at Dwarves.
 
 
-![](https://images.unsplash.com/photo-1523348837708-15d4a09cfac2?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb)
+![[b69eeaaf88abe3c06f4937341beb4619_MD5.webp]]
 

@@ -83,12 +83,12 @@ The last one is called **“Not-invented-here” syndrome**, when you focus on 
 
 After time passed, the reuse in software development has been increasingly supported by a lot of new techniques. The base of these techniques is the fact that the system in the same application domain are similar and have the potential for reuse. There are many different ways of Software reuse, from simple components such as class, object to complete system, and that standards for reusable components facilitate reuse. You can see an overall picture of the “reuse landscape”—different ways of implementing software reuse below.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6cb3f240-43ea-49a9-a777-16a3c8d4e574/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202409Z&X-Amz-Expires=3600&X-Amz-Signature=8674234575b545f0d78c61f9477d28800f98ebf9efd5dba99a99deb41029dc4b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[ea401e3ee43cf4ee90e7edc92fe83900_MD5.webp]]
 
 
 if you feel unclear and want to walk into details of each approach of Software reuse, you can see the following figure.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b15f150c-8e99-481c-b46a-15eaddbe1771/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202409Z&X-Amz-Expires=3600&X-Amz-Signature=21a582494137a780f3164de8c900a9261c51d24f42088b3b571972c95ca1be55&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[54089293152bc5fd40b4e0ddb7dd69e7_MD5.webp]]
 
 
 After having an overview of the reuse landscape, for sure, you will wonder “which is the most appropriate technique to use in a particular situation?”.

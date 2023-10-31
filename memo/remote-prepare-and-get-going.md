@@ -27,7 +27,7 @@ We want our Dwarves to wake up at 7am in the beach, grab a coffee and start doin
 
 > Pick the best location you would like to work.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/31e1e479-0576-4e4d-9238-6e493e664235/remote.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202358Z&X-Amz-Expires=3600&X-Amz-Signature=083a3beae3a9c278f9a8b1ed06d175069efab4cb6cc4a4ad4180adaad7a977d5&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[c02371c7846c1100e23ace26df8c0be1_MD5.webp]]
 
 
 ### The good and the bad
@@ -50,7 +50,7 @@ We want our Dwarves to wake up at 7am in the beach, grab a coffee and start doin
 * Basic ability to do one’s job: Will I miss out on conversations in the office? How will communication work? Will people forget I exist?
 * Career growth: Can I take responsibility for really important projects? Can I get promoted? Can I be a leader?
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/da200c88-dec5-49e8-9daa-3d6bfe001135/compare.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202358Z&X-Amz-Expires=3600&X-Amz-Signature=af337959c82abb3d83e114fda6c9419ae5c05108b39af9ff3604659d7f435110&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[e1c5c0804d03534fa9d995ac7ba85c24_MD5.webp]]
 
 ## Things to prepare
 

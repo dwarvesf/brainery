@@ -35,7 +35,7 @@ The results are way beyond our expectations. We work with several great clients 
 And along with everything, we do everything we can to level up our team.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0b2c1463-71c8-4f1d-8939-6e81ec4864a7/2021-timeline.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202235Z&X-Amz-Expires=3600&X-Amz-Signature=9918f800415c7045cbc4307447f7ce456e7f54c93233de8be856da0dd5860b7a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[56d0fabfde3af84e9e6ff527359cd869_MD5.webp]]
 
 
 ---
@@ -61,7 +61,7 @@ The Dwarves are our greatest asset. Most of our effort goes into hiring the righ
 By launching <span style='color:yellow'>[Dwarves Discord](https://discord.gg/dwarvesv)</span>, we’re able to connect and interchange our knowledge with the people who care about tech as much as we do. 
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3cadab5b-dbf3-4180-88d1-83d325c2573f/channel.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202235Z&X-Amz-Expires=3600&X-Amz-Signature=941482f33f64e99b2733610b3c0e6e17c5e0fa82f2438ad4a26afedcc61c7f81&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[eb05959ef1c030328fba76afd1a971ce_MD5.webp]]
 
 
 ### <span style='color:yellow'>Making our marks in new tech</span>
@@ -80,7 +80,7 @@ New technologies shape the future. It's our all-time belief. Within this year, o
 
 We attract the same DNA. Our clients are organizations that put tech at great importance to their businesses. It's always a proud feeling when our clients share their achievements with us, knowing we play a part in it.
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e36022dd-b1f4-41cd-b026-14c9b6f8f1ce/Frame_1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202235Z&X-Amz-Expires=3600&X-Amz-Signature=d836751a6ccd060b0b58cb389666800756a72529d00284b590af4d8375388add&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[5658b14e0a88058716dd1b30f9cc3976_MD5.webp]]
 
 
 ### <span style='color:yellow'>Our vision and belief stays the same</span>
@@ -115,7 +115,7 @@ Though the Dwarves can work anywhere they want, we still have offices in 3 diffe
 
 <!-- column eadb78ae-5140-4b88-9176-cd53c24fbe83 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/48d057a7-1d21-44f4-ba58-fcfdc1fc34da/danang-office.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202241Z&X-Amz-Expires=3600&X-Amz-Signature=3b7bbf056d7900fcf4b724c4d9df554ed1795f7cf442614d2eccf25e424c2232&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[752f7389d4aded1c4a3c9052587f80e3_MD5.webp]]
 
 
 ### <span style='color:yellow'>Expanding the Community</span>
@@ -126,7 +126,7 @@ Though the Dwarves can work anywhere they want, we still have offices in 3 diffe
 
 <span style='color:purple'>**Dwarves Discord Network**</span>
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/85bcfa3b-c84d-46f3-8cdd-51a86af55963/df-logo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202242Z&X-Amz-Expires=3600&X-Amz-Signature=85bde7005d29af145a6fa14da2c2aa9501f3657fcf05297cf5dbfe76f5868b5d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/2021-dwarves-in-review/7659f88fe3fb9a15aa23ee75e761602f_MD5.webp]]
 
 <span style='color:purple'>**[Dwarves Network](http://discord.gg/dwarvesv)**</span> in Discord hit 200 users in <4 months of launching in public. 
 
@@ -138,7 +138,7 @@ We offer various channels for the community to take part in, and a weekly 101 Te
 
 <span style='color:green'>**[WeBuild](http://webuild.community/)**</span>
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/824b7fee-b10b-41e7-8ab0-07551ded9486/webuild-logo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202242Z&X-Amz-Expires=3600&X-Amz-Signature=7fbbbc07db9f8aeb6f0c385d4c292b5190d8bed08a0fed1ced52a66c57095262&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/2021-dwarves-in-review/08a3d630f879009d5387865ef4e132e9_MD5.webp]]
 
 <span style='color:green'>**WeBuild Day 2021**</span> turned out with +100 attendees. It was a sum up of what’s been trending in tech, from Build in Public, Developers in Covid Support, and the so-called NFT hype.
 
@@ -146,7 +146,7 @@ We offer various channels for the community to take part in, and a weekly 101 Te
 
 <span style='color:gray'>**[Vietcetera](http://vietcetera.com/)**</span>
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/264a3f8d-1f25-4a3b-badb-56f15d3dcb56/vietcetera-logo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202242Z&X-Amz-Expires=3600&X-Amz-Signature=9fd4c6498372020ecd98e7643b10771f625ea5c662cbc14da9e310f6c8cc1f5c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[3058a8635428afe93d525a57f1959755_MD5.webp]]
 
 <span style='color:gray'>**Techie Story**</span> has now landed a new space on this fast-growing media platform, officially marking a new milestone for us to keep spreading the inspiring tech stories.
 
@@ -168,15 +168,15 @@ We offer various channels for the community to take part in, and a weekly 101 Te
 
 <!-- column 71f4865a-82f5-4af2-8b14-b36e74afe51e -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/32ac1a24-fc79-4c21-a5c7-c9f65e01ba3e/techie-logo.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202244Z&X-Amz-Expires=3600&X-Amz-Signature=def9edba642fb2e27f11316c0484578a5b7b0ceb14c8fe6a780953d03bde2bf0&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[90945150b030200c9284641b631f7e1c_MD5.webp]]
 
 <!-- column fad76666-9e61-4d79-8761-9550b0e039fd -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/af1032ef-53e0-41e1-adcd-f2f826c0e094/golang-vietnam.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202244Z&X-Amz-Expires=3600&X-Amz-Signature=59e32d537b71c5b50f87b9412864e91274cfbf61f28999f401df7eb33627d0e1&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[aa2064f270859e09e89909f1379a68b9_MD5.webp]]
 
 <!-- column 803bc799-c339-433c-a1ee-e280f6f68803 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/35ce0ca6-558f-465f-a2a3-d049e0c1a86e/startup-vn-logo.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202244Z&X-Amz-Expires=3600&X-Amz-Signature=53c6c0ee64c2418aa3bc1a05343bda0a41300152657f7d3e49185ba6ef646c5b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[bee392a359a9a3a9a27913b19348d7a9_MD5.webp]]
 
 
 ---
@@ -251,7 +251,7 @@ With the subtotal prize value up to $10.000 - we equip the nominees with what th
 
 <!-- column f8d730a7-86b8-40b5-82a7-0b467afbaabd -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/46d885de-cd25-4c4b-9085-fb79a8ad6d80/Tuan_Dao.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202250Z&X-Amz-Expires=3600&X-Amz-Signature=0aece74be61be8ca1b981d6a895e5d373bf8f6b425f1b7f6b0f0f18ebd9e6164&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[c58d5c53f69df4213a10437422c86d47_MD5.webp]]
 
 **Tuan Dao - **Frontend Engineer
 
@@ -259,7 +259,7 @@ With the subtotal prize value up to $10.000 - we equip the nominees with what th
 
 <!-- column 422fb179-a5c8-4fb8-b79c-836a3cbb018e -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d2d4190f-4c1a-4560-91e5-c10203721340/Ngoc_Truong.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202250Z&X-Amz-Expires=3600&X-Amz-Signature=44338b58dc0eb11159f63ba23a70e8b0332509dc78da93f223f534093b83c0c5&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[19cbcb7b4aa256574b709a5a3baa3f23_MD5.webp]]
 
 **Ngoc Truong **- Head of Business
 
@@ -274,7 +274,7 @@ With the subtotal prize value up to $10.000 - we equip the nominees with what th
 
 <!-- column 90790cc4-7672-463c-b754-69c16cf8fe2d -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ec0474e1-c26e-4dca-b5b3-71386f2ad813/Khoi_Ngo.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202251Z&X-Amz-Expires=3600&X-Amz-Signature=0575183372f5cc5471f60413f5f91822d0d04f71d0dfc156e895ec04d4c6a11a&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[d796adac45c1ec645b7071ceaf1023e6_MD5.webp]]
 
 **Khoi Ngo - **Backend Engineer
 
@@ -282,7 +282,7 @@ With the subtotal prize value up to $10.000 - we equip the nominees with what th
 
 <!-- column 3ec32290-17d1-4dd3-8819-9efd51cc6bde -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9dd4e6aa-5b8e-464a-909f-25a1ad23e799/Tai_Pham.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202251Z&X-Amz-Expires=3600&X-Amz-Signature=3b5bc90b9bec83445aa1ceb16857398608ab585e1fe468c538bdbe394a64f1b8&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[4dfc0034abc2b6a9fb3220bfe4e0cc9d_MD5.webp]]
 
 **Tai Pham - **Frontend Engineer
 
@@ -297,7 +297,7 @@ With the subtotal prize value up to $10.000 - we equip the nominees with what th
 
 <!-- column 2fb4f6e0-ab64-4bfe-860e-f469047c8d4f -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/31114d6c-63e5-46a3-8cb5-0f2269118fc6/Huy_Giang.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202252Z&X-Amz-Expires=3600&X-Amz-Signature=c333e9591db23d591ff60a0441046a656b950e17b3c07815e8a9a4fef0872fc3&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[61655033a683f8fa778d59b42dd7a1db_MD5.webp]]
 
 **Huy Giang - **Frontend Lead
 
@@ -305,7 +305,7 @@ With the subtotal prize value up to $10.000 - we equip the nominees with what th
 
 <!-- column 1a11ea52-13be-4636-9d2e-08fb165e190b -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/595fd52e-a6b1-4a1d-81d9-ab0d8f59d05b/Hieu_Phan.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202252Z&X-Amz-Expires=3600&X-Amz-Signature=30a7d1f7325cdadc3fa86393f1301f752b4432bb1bb7c5fbd0aaa83827f12d9c&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[c288d30e5f92a5a01d2a496c0cbdcec0_MD5.webp]]
 
 **Hieu Phan - **Principal Engineer
 
@@ -313,7 +313,7 @@ With the subtotal prize value up to $10.000 - we equip the nominees with what th
 
 <!-- column 56147d75-6cf5-46ae-82d7-b86337f8b440 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/42025d57-e373-454d-a0d8-d8928bc04a18/Anh_Nguyen.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202252Z&X-Amz-Expires=3600&X-Amz-Signature=e9d10b20aebd61d3fa324f792eab63fbf47a4093528bed73aafaef1526aff553&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[11ad2e93d89c1d932241f37f48d90317_MD5.webp]]
 
 **Anh Nguyen - **Fullstack Engineer
 
@@ -328,7 +328,7 @@ With the subtotal prize value up to $10.000 - we equip the nominees with what th
 
 **INFLUENCE**
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/59ec621b-bf1b-4af6-aa6b-745d38c6cd26/Thanh_Pham.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202256Z&X-Amz-Expires=3600&X-Amz-Signature=bfd4320a788ca702714eeb4a20464620952d7474ec7557c4459352975ffc2fdc&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[f831b11db074584bcb5a28f0ed90fc00_MD5.webp]]
 
 **Thanh Pham - **Engineering Manager
 
@@ -338,7 +338,7 @@ With the subtotal prize value up to $10.000 - we equip the nominees with what th
 
 **CLIENT ENDORSED**
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a650eb18-2989-4bb4-9ad2-9d18a7571636/Hieu_Vu.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202256Z&X-Amz-Expires=3600&X-Amz-Signature=ec538cef848932be0fd858dbc66af6a22399e0d457957a3c8099a739bf9e0d88&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[1e23f9fa1117be93e0c96310adbf1673_MD5.webp]]
 
 **Hieu Vu - **Fullstack Engineer
 
@@ -352,7 +352,7 @@ With the subtotal prize value up to $10.000 - we equip the nominees with what th
 
 **TEAMWORK**
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/47f4cd70-4baf-4a63-a97b-b8c3e967d7bc/Nhut.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202257Z&X-Amz-Expires=3600&X-Amz-Signature=a61c982fcc41e6783e463c19cbf1a048bb3cf9a1b519c97ec0e7a0adfe6386da&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[94fa9b82faef2cdeab0475b69f33624d_MD5.webp]]
 
 **Nhut Huynh - **QC Engineer
 
@@ -361,7 +361,7 @@ With the subtotal prize value up to $10.000 - we equip the nominees with what th
 <!-- column b191b197-a799-4ed0-99ae-34c433e0d346 -->
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b1e33ec4-3492-4e18-b24f-ceedaf3dc91f/Hoang_Ng.heic?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202257Z&X-Amz-Expires=3600&X-Amz-Signature=4e6dd879601c395ab414a0f9b1d83a8e330d8df6183ca834b56c2f5ba3cf2ca5&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[6685dc8e216ad8d431e21691a5cc9641_MD5_2.jpg]]
 
 **Hoang Nguyen - **Fullstack Engineer
 
@@ -376,28 +376,28 @@ With the subtotal prize value up to $10.000 - we equip the nominees with what th
 
 <!-- column 2b691d56-4ea7-4af6-92ea-2130960d0e45 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f41ce4c5-b2e8-4eb3-b16c-b38f562832b8/Bien_Vo.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202258Z&X-Amz-Expires=3600&X-Amz-Signature=cc9ac2bdb53227dce01465e1fa8f74356a7fff6182ed88ebc080393079c42e9b&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/2021-dwarves-in-review/3449df9c13777f6f3bcaa3fec43a996f_MD5.jpg]]
 
 **Bien Vo
 **Backend Engineer
 
 <!-- column 94d229ba-c464-4cae-ac23-2d5129d85bd2 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cafa8f4c-30ff-49a5-bf8d-a2d937638d20/1623950087699.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202258Z&X-Amz-Expires=3600&X-Amz-Signature=afa45a64253dfdcf51308f4676910c2c2b3d03a6d351fd563bd098d85875b478&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/2021-dwarves-in-review/58a5fb9447abaa39c45e0da25adc0d6c_MD5.jpg]]
 
 **Hien Le** **
 **Frontend Engineer
 
 <!-- column 23f6244f-0b6c-4697-b197-3a1b2b76084c -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/683bee0c-7a3e-4180-94de-04e59e752c6c/Ly_Nguyen.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202258Z&X-Amz-Expires=3600&X-Amz-Signature=b9bb5b9d08f8943838bcc69dc1523f45d80af679fbae1f966447d4eb738b64e0&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/2021-dwarves-in-review/322199801505d94b1999e697ea1d4b57_MD5.jpg]]
 
 **Ly Nguyen
 **UX Designer
 
 <!-- column 1f7e07fa-0595-42fa-b2aa-220fcda06b60 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3322b64c-1370-4d16-b0a5-1d45bf91521b/Minh_Tran.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202258Z&X-Amz-Expires=3600&X-Amz-Signature=de303a79963206f0ba2c96ffe00ca025719bc001cbf0d369491f28d932cd15c5&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/2021-dwarves-in-review/b98055da678fa16a745b595458924ec9_MD5.jpg]]
 
 **Minh Tran
 **Web Lead
@@ -406,21 +406,21 @@ With the subtotal prize value up to $10.000 - we equip the nominees with what th
 
 <!-- column 3c77c835-b635-4bf1-ac23-759e54a89a51 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dbae60b9-9cbe-410d-93ec-7e54db0dc87a/Lap_Nguyen.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202259Z&X-Amz-Expires=3600&X-Amz-Signature=acc6d109a9e4bc2c1e0a79886013a8b8c8b797fc66f38f76c6bcb32fb34808e3&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/2021-dwarves-in-review/80574b6ace57eb39c45298ade20449bc_MD5.jpg]]
 
 **Lap Nguyen
 **Frontend Engineer
 
 <!-- column 239b3f48-41da-42cc-a3ef-e338990b740e -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cba0ec6d-7c10-4f88-982c-61e632bf1a13/Vy_Tran.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202259Z&X-Amz-Expires=3600&X-Amz-Signature=99b02c7051024630f83542d3a39780c5760f8f68c6d3777eaf9c33c4695e15e2&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/2021-dwarves-in-review/f2607fd4e1b2817c1a1830a2b05dc88a_MD5.jpg]]
 
 **Vy Tran
 **Frontend Engineer
 
 <!-- column 0c8d3aed-140f-46c0-83e3-a9e61ca87879 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c258ae03-de86-471c-a773-c08ba133e9e3/Ngoc_Thanh_.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202300Z&X-Amz-Expires=3600&X-Amz-Signature=2c0ffd71f714919469a96df2ab3fd0df422ac05d3cc59251daca23ef9b7a0a5d&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/2021-dwarves-in-review/a4658ff6ee7dd2a220ebdf04ac69e7f9_MD5.jpg]]
 
 **Thanh Pham           **Fullstack Engineer
 
@@ -433,11 +433,11 @@ All the Dwarves are gifted with a brand new merchandise combo - More iconic item
 
 <!-- column d277694a-4d00-44be-9c98-f4b3a3c8255f -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5aff1e01-846c-41fa-b187-76259b3e5b5b/df-merch.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202300Z&X-Amz-Expires=3600&X-Amz-Signature=1492462a15a0658a32f5b4909c4c0f73b81382c80703bb89e7ba79ca78c4dc68&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/2021-dwarves-in-review/11f821799acf0b2c9d65163cfed1d038_MD5.jpg]]
 
 <!-- column e496bb78-41ca-43fc-aed4-8a5b5eac6ad8 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/748611ce-a430-45a3-9929-9a01a687edf2/real-merch.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202300Z&X-Amz-Expires=3600&X-Amz-Signature=03c3589bd3c602b0cecb99fe7540d033c278360d3abdaecfe7f9220a7763ee8f&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/2021-dwarves-in-review/fd61221cb31785842fecd3ff2339aab6_MD5.jpg]]
 
 
 ⭐ It wraps our 2021 with talented people, promising work chances, bigger partnerships, and the preparation to face new open doors.<span style='color:yellow'> </span>It all forms a motivation to keep us moving forward. 

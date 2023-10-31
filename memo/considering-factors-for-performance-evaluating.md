@@ -45,7 +45,7 @@ Using Performance-Values Matrix. All the sample metrics are included in
 
 [📎 Careers_by_design_short.pdf](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bfd4f308-9c8b-4368-8963-9d45be5c13f0/Careers_by_design_short.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202348Z&X-Amz-Expires=3600&X-Amz-Signature=c05a9fc51d923c3e7a42dd87d63451b76168ce743d8625b4c22301e1895b5abb&X-Amz-SignedHeaders=host&x-id=GetObject)
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3f2d03b1-6d8f-465e-a559-4b7552bc7c75/Screen_Shot_2018-02-13_at_11.11.03_AM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202348Z&X-Amz-Expires=3600&X-Amz-Signature=5fe0deedf1de443a28335f0253c47bb24a9015708be596e2be06f7aeee8e4615&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/considering-factors-for-performance-evaluating/c4defc89db73b3ffe140319a420998c1_MD5.webp]]
 
 
 
@@ -53,7 +53,7 @@ Using Performance-Values Matrix. All the sample metrics are included in
 * Team
 * Personal
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5bb5897e-79a7-4889-9551-aedc5e356d30/Screen_Shot_2018-02-13_at_10.56.55_AM.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202348Z&X-Amz-Expires=3600&X-Amz-Signature=08544a46e1c09070d6932c585f5aaee5eb9338ce609833c7022661c854d1d836&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[memo/assets/considering-factors-for-performance-evaluating/da1531180d70a98b2ea3efb18dfc4be4_MD5.webp]]
 
 ### Incompetent Assholes (Fire fast)
 

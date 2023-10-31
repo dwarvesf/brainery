@@ -15,5 +15,14 @@
       ],
       "key": "["
     }
+  ],
+  "image-converter:process-all-images-current-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
   ]
 }

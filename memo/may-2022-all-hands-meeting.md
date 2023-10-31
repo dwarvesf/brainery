@@ -48,7 +48,7 @@ Highlights will be summarized and shared through Memo to those who want to keep 
 Feels more like listening? Pay a visit to **[Dwarves Youtube](http://www.youtube.com/channel/UC_SyzGLf6wiqctQFsRI_frw)** for every streaming.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9d90ec7d-b685-4cde-a86d-f670db13d113/youtube.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202225Z&X-Amz-Expires=3600&X-Amz-Signature=dec1ac553d4c9eb3598cecb8f428c197a5f370957a476bcd01effd09c03c31a7&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[68bd765a75c1591b2074d672d1d123e5_MD5.webp]]
 
 
 ## <span style='color:green'>TEAM</span>
@@ -67,18 +67,18 @@ The balcony was also retouched. And hear us out, standing desks will be a thing 
 
 <!-- column a0c9816d-aef7-4aad-877d-d537b3bd69f6 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9e9ccc79-386e-4501-86ef-b6f0eae6975a/balcony-1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202226Z&X-Amz-Expires=3600&X-Amz-Signature=c95c79a81382470549e8a1a3ef2d6c0f1b1fab935e770d506afe8a669df43296&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[946b29130bc76f1374d606747319db5a_MD5.webp]]
 
 
 <!-- column_list e32178f8-b9d7-47e8-bd6d-9b7d0c90bfe7 -->
 
 <!-- column 1c132290-07eb-48bf-9c07-2641023404af -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cea42bde-9441-438a-9a95-27b3414a5fe2/garden-1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202226Z&X-Amz-Expires=3600&X-Amz-Signature=1abd335737a4fe93be28feb04f20b11cf88cd678c80f4e4e05b0a2c3b4bbb158&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[1c48a97cb9d7384b03048e4718d98744_MD5.webp]]
 
 <!-- column c67646d1-b9cd-4212-8810-787f2eba9679 -->
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/466eb99e-c19d-49c9-b406-045c8999dd86/garden-2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202227Z&X-Amz-Expires=3600&X-Amz-Signature=466a2b55e5861f6cfd86b74dc8da179ad9ed81001e42844705d3b078ea25e263&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[c8dfb110e429e31cac8a2066dfb56046_MD5.webp]]
 
 
 ## <span style='color:green'>COMING UP NEXT</span>

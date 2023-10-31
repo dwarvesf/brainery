@@ -11,7 +11,7 @@ Hire without plan bored talent people out. There's no good to put people in a pl
 Unless you're reaching out for help, hiring is the last thing you should keep in mind.
 
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bbe38493-6842-4c86-923c-6a888400ee69/hiring.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202457Z&X-Amz-Expires=3600&X-Amz-Signature=35d38fd43da3c1d2b16d9637a04bc886fd1344d119dca3fe764e34551f2e4644&X-Amz-SignedHeaders=host&x-id=GetObject)
+![[da9b94aa8e48a237d59aebc14e95e07d_MD5.webp]]
 
 
 
