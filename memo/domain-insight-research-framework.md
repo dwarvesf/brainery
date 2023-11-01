@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - design
+title: Domain Insight Research Framework
+date: 2020-10-21
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-19
-tags: design
 created: 2020-10-21
 ---
 

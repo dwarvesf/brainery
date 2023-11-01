@@ -2,12 +2,12 @@
 tags: 
   - dwarves
   - work
-title: Dwarves Memo
+title: Index
 date: 2023-10-19
 description: null
 authors: null
-menu: null
-toc: false
+menu: memo
+toc: null
 notice: null
 type: memo
 ---

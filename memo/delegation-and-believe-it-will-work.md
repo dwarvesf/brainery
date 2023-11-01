@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - tips
+  - leadership
+title: Delegation And Believe It Will Work
+date: 2020-06-10
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: tips, leadership
 created: 2020-06-10
 ---
 

@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - swift
+title: Create Circular Text Using Swiftui
+date: 2020-03-23
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: swift
 created: 2020-03-23
 ---
 

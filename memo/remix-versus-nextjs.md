@@ -1,7 +1,18 @@
 ---
-author: 
+tags: 
+  - engineering
+  - frontend
+  - radio
+title: Remix Versus Nextjs
+date: 2022-05-27
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2022-05-27
-tags: engineering, frontend, radio
 created: 2022-05-27
 ---
 

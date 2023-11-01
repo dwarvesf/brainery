@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - people
+  - mbti
+title: Applying Myersbriggs Type Indicator In Hr
+date: 2021-07-17
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-13
-tags: people, mbti
 created: 2021-07-17
 ---
 

@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - micro-frontend
+title: Micro Frontends Microservices For Frontend Development
+date: 2021-07-09
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: micro-frontend
 created: 2021-07-09
 ---
 

@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - git
+title: Git Commit Message Convention
+date: 2021-04-06
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: git
 created: 2021-04-06
 ---
 

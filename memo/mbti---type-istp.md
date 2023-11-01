@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - mbti
+  - ISTP
+title: Mbti Type Istp
+date: 2021-07-25
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-26
-tags: mbti, ISTP
 created: 2021-07-25
 ---
 

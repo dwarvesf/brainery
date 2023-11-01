@@ -1,7 +1,19 @@
 ---
-author: 
+tags: 
+  - frontend
+  - web
+  - engineering
+  - performance
+title: I18n Frontend Guideline
+date: 2023-04-03
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2023-04-03
-tags: frontend, web, engineering, performance
 created: 2023-04-03
 ---
 

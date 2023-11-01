@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - agile
+title: Agile How To Create Clickup Tickets
+date: 2016-05-04
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-23
-tags: agile
 created: 2016-05-04
 ---
 

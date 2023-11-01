@@ -1,7 +1,18 @@
 ---
-author: 
+tags: 
+  - community
+  - bounty
+  - updates
+title: Dwarves Community Bounty
+date: 2023-06-21
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2023-06-21
-tags: community, bounty, updates
 created: 2023-06-21
 ---
 

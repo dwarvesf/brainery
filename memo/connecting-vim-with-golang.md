@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - go
+  - vim
+title: Connecting Vim With Golang
+date: 2015-10-16
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: go, vim
 created: 2015-10-16
 ---
 

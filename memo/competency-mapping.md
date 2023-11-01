@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - design
+title: Competency Mapping
+date: 2018-04-01
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-26
-tags: design
 created: 2018-04-01
 ---
 

@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - pm
+title: An Alternative To Tm
+date: 2020-05-09
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-26
-tags: pm
 created: 2020-05-09
 ---
 

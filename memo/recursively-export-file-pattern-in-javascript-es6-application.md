@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - js
+title: Recursively Export File Pattern In Javascript Es6 Application
+date: 2019-09-07
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: js
 created: 2019-09-07
 ---
 

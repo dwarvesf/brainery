@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - clojure
+title: Playaround With Clojure
+date: 2019-09-06
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: clojure
 created: 2019-09-06
 ---
 

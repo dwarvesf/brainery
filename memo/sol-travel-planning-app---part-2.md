@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - design
+  - case study
+title: Sol Travel Planning App Part 2
+date: 2018-10-01
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: design, case study
 created: 2018-10-01
 ---
 

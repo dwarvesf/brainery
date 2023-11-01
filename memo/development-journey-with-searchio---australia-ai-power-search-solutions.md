@@ -1,8 +1,17 @@
 ---
-author: 
+tags: 
+  - case study
+title: Development Journey With Searchio Australia Ai Power Search Solutions
+date: null
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-08-10
-tags: case study
-created: 
+created: null
 ---
 
 ### <span style='color:orange'>In brief</span>

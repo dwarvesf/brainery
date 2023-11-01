@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - dwarves
+  - apprenticeship
+title: Dwarves Foundation Apprenticeship Batch Of 2022
+date: 2022-09-23
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2022-09-22
-tags: dwarves, apprenticeship
 created: 2022-09-23
 ---
 

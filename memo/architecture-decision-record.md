@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - engineering
+  - architecture
+title: Architecture Decision Record
+date: 2020-03-27
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: engineering, architecture
 created: 2020-03-27
 ---
 

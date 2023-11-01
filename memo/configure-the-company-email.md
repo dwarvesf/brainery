@@ -1,7 +1,19 @@
 ---
-author: 
+tags: 
+  - dwarves
+  - team
+  - process
+  - updates
+title: Configure The Company Email
+date: 2022-11-29
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2022-11-29
-tags: dwarves, team, process, updates
 created: 2022-11-29
 ---
 

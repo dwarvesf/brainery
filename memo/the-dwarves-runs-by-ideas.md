@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - practice
+title: The Dwarves Runs By Ideas
+date: 2020-09-07
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2020-09-01
-tags: practice
 created: 2020-09-07
 ---
 

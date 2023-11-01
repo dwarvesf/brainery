@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - css
+title: Remove Unused Css Styles From Bootstrap Using Purgecss
+date: 2019-02-01
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: css
 created: 2019-02-01
 ---
 

@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - remote
+title: Make Remote Working Works
+date: 2016-01-17
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2020-03-24
-tags: remote
 created: 2016-01-17
 ---
 

@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - ventures
+title: Dwarves Ventures Fund 0
+date: 2021-03-11
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: ventures
 created: 2021-03-11
 ---
 

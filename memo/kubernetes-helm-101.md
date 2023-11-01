@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - k8s
+title: Kubernetes Helm 101
+date: 2019-10-30
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: k8s
 created: 2019-10-30
 ---
 

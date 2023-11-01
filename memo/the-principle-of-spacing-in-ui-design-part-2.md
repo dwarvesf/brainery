@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - design
+  - technique
+title: The Principle Of Spacing In Ui Design Part 2
+date: 2018-11-01
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: design, technique
 created: 2018-11-01
 ---
 

@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - web
+  - micro-frontend
+title: Lessons Learned From Being A Part Of Corporate Micro Frontend Implementation
+date: 2023-04-24
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2023-04-24
-tags: web, micro-frontend
 created: 2023-04-24
 ---
 

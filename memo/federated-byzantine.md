@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - distributed
+  - blockchain
+title: Federated Byzantine
+date: 2019-05-18
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: distributed, blockchain
 created: 2019-05-18
 ---
 

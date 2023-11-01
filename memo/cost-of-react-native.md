@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - framework
+  - web
+title: Cost Of React Native
+date: 2023-04-17
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2023-04-17
-tags: framework, web
 created: 2023-04-17
 ---
 

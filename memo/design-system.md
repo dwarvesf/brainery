@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - design
+title: Design System
+date: 2018-03-23
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2018-02-20
-tags: design
 created: 2018-03-23
 ---
 

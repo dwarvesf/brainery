@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - tutorial
+title: Build An Assistant On The Terminal
+date: 2020-03-27
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: tutorial
 created: 2020-03-27
 ---
 

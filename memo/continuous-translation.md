@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - web
+  - engineering
+title: Continuous Translation
+date: 2023-04-11
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2023-04-11
-tags: web, engineering
 created: 2023-04-11
 ---
 

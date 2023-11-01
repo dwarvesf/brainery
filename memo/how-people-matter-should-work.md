@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - people
+  - practice
+title: How People Matter Should Work
+date: 2020-06-24
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-19
-tags: people, practice
 created: 2020-06-24
 ---
 

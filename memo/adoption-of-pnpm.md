@@ -1,7 +1,20 @@
 ---
+tags: 
+  - frontend
+  - engineering
+  - productivity
+  - DX
+  - radar
+title: Adoption Of Pnpm
+date: 2023-07-31
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
 author: Thanh Pham
 created_time: 2023-07-31
-tags: frontend, engineering, productivity, DX, radar
 created: 2023-07-31
 ---
 

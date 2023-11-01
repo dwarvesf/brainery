@@ -1,7 +1,18 @@
 ---
-author: 
+tags: 
+  - tips
+  - operation
+  - productivity
+title: Resource Assignment
+date: 2019-04-10
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-24
-tags: tips, operation, productivity
 created: 2019-04-10
 ---
 

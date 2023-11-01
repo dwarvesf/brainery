@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - design
+  - technique
+title: Card Sorting And A Glimpse At Experimental Sorting Session
+date: 2018-08-26
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: design, technique
 created: 2018-08-26
 ---
 

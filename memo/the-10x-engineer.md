@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - engineering
+title: The 10x Engineer
+date: 2016-03-01
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-23
-tags: engineering
 created: 2016-03-01
 ---
 

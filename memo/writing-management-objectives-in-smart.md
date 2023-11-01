@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - operation
+  - tips
+title: Writing Management Objectives In Smart
+date: 2020-02-25
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-24
-tags: operation, tips
 created: 2020-02-25
 ---
 

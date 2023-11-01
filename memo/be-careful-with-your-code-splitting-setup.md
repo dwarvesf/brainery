@@ -1,7 +1,18 @@
 ---
-author: 
+tags: 
+  - engineering
+  - practice
+  - technique
+title: Be Careful With Your Code Splitting Setup
+date: 2017-07-17
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: engineering, practice, technique
 created: 2017-07-17
 ---
 

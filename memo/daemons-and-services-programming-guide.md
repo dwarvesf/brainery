@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - macos
+title: Daemons And Services Programming Guide
+date: 2020-05-11
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: macos
 created: 2020-05-11
 ---
 

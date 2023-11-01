@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - tips
+  - operation
+title: Objective
+date: 2020-01-15
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-24
-tags: tips, operation
 created: 2020-01-15
 ---
 

@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - go
+  - license
+title: Bunk License Check
+date: 2020-02-05
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-24
-tags: go, license
 created: 2020-02-05
 ---
 

@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - go
+title: Use Go Selenium To Crawl Data
+date: 2016-06-02
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: go
 created: 2016-06-02
 ---
 

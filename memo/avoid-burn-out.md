@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - tips
+title: Avoid Burn Out
+date: 2020-03-17
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2020-03-25
-tags: tips
 created: 2020-03-17
 ---
 

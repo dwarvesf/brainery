@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - updates
+title: 2020 In A Flashback
+date: 2021-02-05
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-13
-tags: updates
 created: 2021-02-05
 ---
 

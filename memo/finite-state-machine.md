@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - engineering
+  - modeling
+title: Finite State Machine
+date: 2018-08-29
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: engineering, modeling
 created: 2018-08-29
 ---
 

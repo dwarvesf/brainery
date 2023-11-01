@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - engineering
+title: Skill Of Software Engineer
+date: 2017-03-14
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2018-02-25
-tags: engineering
 created: 2017-03-14
 ---
 

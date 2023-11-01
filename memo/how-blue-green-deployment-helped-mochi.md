@@ -1,7 +1,18 @@
 ---
-author: 
+tags: 
+  - devops
+  - performance
+  - engineering
+title: How Blue Green Deployment Helped Mochi
+date: 2023-04-03
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2023-04-03
-tags: devops, performance, engineering
 created: 2023-04-03
 ---
 

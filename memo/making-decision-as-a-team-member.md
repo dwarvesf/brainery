@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - process
+title: Making Decision As A Team Member
+date: 2021-07-12
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-02-22
-tags: process
 created: 2021-07-12
 ---
 

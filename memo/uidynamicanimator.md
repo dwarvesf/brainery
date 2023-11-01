@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - swift
+  - macos
+title: Uidynamicanimator
+date: 2019-07-26
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: swift, macos
 created: 2019-07-26
 ---
 

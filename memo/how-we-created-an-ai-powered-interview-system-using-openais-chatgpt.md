@@ -1,7 +1,18 @@
 ---
-author: 
+tags: 
+  - LLM
+  - AI
+  - engineering
+title: How We Created An Ai Powered Interview System Using Openais Chatgpt
+date: 2023-05-29
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2023-05-29
-tags: LLM, AI, engineering
 created: 2023-05-29
 ---
 

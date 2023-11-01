@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - design
+  - process
+title: Ui Design Best Practices Dwarves
+date: 2020-11-24
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-19
-tags: design, process
 created: 2020-11-24
 ---
 

@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - operation
+title: Bric A Brac
+date: 2020-04-10
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-24
-tags: operation
 created: 2020-04-10
 ---
 

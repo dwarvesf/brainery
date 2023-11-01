@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - macos
+  - swift
+title: Xpc Services On Macos App Using Swift
+date: 2020-11-05
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: macos, swift
 created: 2020-11-05
 ---
 

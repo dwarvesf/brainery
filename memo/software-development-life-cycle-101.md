@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - SDLC
+title: Software Development Life Cycle 101
+date: 2020-05-19
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-21
-tags: SDLC
 created: 2020-05-19
 ---
 

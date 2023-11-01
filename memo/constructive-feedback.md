@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - tips
+title: Constructive Feedback
+date: 2020-05-28
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2020-03-26
-tags: tips
 created: 2020-05-28
 ---
 

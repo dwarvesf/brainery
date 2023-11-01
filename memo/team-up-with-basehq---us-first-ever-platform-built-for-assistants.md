@@ -1,8 +1,17 @@
 ---
-author: 
+tags: 
+  - case study
+title: Team Up With Basehq Us First Ever Platform Built For Assistants
+date: null
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-08-06
-tags: case study
-created: 
+created: null
 ---
 
 ![[019ef328b59808b45c4541243f71c875_MD5.webp]]

@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - operation
+  - people
+title: Hiring For Operations Team
+date: 2020-01-25
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-24
-tags: operation, people
 created: 2020-01-25
 ---
 

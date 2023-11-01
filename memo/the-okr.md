@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - performance
+  - okr
+title: The Okr
+date: 2016-04-06
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-23
-tags: performance, okr
 created: 2016-04-06
 ---
 

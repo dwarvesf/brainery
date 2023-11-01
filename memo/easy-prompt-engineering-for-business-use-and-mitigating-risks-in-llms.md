@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - engineering
+  - LLM
+title: Easy Prompt Engineering For Business Use And Mitigating Risks In Llms
+date: 2023-05-22
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2023-05-22
-tags: engineering, LLM
 created: 2023-05-22
 ---
 

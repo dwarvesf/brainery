@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - dwarves
+  - team
+title: 2021 Dwarves In Review
+date: 2022-01-07
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-12-15
-tags: dwarves, team
 created: 2022-01-07
 ---
 

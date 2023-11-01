@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - mbti
+title: The Four Preferences
+date: 2021-07-16
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-17
-tags: mbti
 created: 2021-07-16
 ---
 

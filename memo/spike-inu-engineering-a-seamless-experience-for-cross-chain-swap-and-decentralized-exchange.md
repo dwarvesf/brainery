@@ -1,7 +1,18 @@
 ---
-author: 
+tags: 
+  - case study
+  - blockchain
+  - crypto
+title: Spike Inu Engineering A Seamless Experience For Cross Chain Swap And Decentralized Exchange
+date: 2022-06-23
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2022-06-23
-tags: case study, blockchain, crypto
 created: 2022-06-23
 ---
 

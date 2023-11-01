@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - dwarves
+title: The Dwarves Culture Handbook
+date: 2020-07-27
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2020-07-23
-tags: dwarves
 created: 2020-07-27
 ---
 

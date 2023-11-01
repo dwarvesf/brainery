@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - performance
+  - people
+title: Our Metrics For Performance Review
+date: 2016-04-04
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-23
-tags: performance, people
 created: 2016-04-04
 ---
 

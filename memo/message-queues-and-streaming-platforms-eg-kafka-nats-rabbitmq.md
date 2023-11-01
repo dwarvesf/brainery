@@ -1,7 +1,18 @@
 ---
-author: 
+tags: 
+  - backend
+  - go
+  - engineering
+title: Message Queues And Streaming Platforms Eg Kafka Nats Rabbitmq
+date: 2023-05-04
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2023-05-04
-tags: backend, go, engineering
 created: 2023-05-04
 ---
 

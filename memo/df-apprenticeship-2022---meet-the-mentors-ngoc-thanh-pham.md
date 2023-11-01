@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - apprenticeship
+  - dwarves
+title: Df Apprenticeship 2022 Meet The Mentors Ngoc Thanh Pham
+date: 2022-04-22
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2022-04-26
-tags: apprenticeship, dwarves
 created: 2022-04-22
 ---
 

@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - updates
+title: 2018 Wrapping Up
+date: 2018-12-31
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-13
-tags: updates
 created: 2018-12-31
 ---
 

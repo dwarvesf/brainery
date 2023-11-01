@@ -1,7 +1,19 @@
 ---
+tags: 
+  - engineering
+  - updates
+  - team
+  - dwarves
+title: Forward Engineering 2022
+date: 2023-01-11
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
 author: Tom X Nguyen
 created_time: 2023-01-11
-tags: engineering, updates, team, dwarves
 created: 2023-01-11
 ---
 

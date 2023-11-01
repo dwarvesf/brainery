@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - engineering
+title: Well Crafted Software
+date: 2020-01-19
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2020-03-25
-tags: engineering
 created: 2020-01-19
 ---
 

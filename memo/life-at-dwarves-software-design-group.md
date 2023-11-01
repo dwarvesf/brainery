@@ -1,7 +1,19 @@
 ---
-author: 
+tags: 
+  - team
+  - engineering
+  - software design
+  - dwarves
+title: Life At Dwarves Software Design Group
+date: 2023-06-01
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2023-06-01
-tags: team, engineering, software design, dwarves
 created: 2023-06-01
 ---
 

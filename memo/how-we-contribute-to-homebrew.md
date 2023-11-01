@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - oss
+title: How We Contribute To Homebrew
+date: 2016-03-13
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: oss
 created: 2016-03-13
 ---
 

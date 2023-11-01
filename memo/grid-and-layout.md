@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - design
+  - technique
+title: Grid And Layout
+date: 2020-08-17
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: design, technique
 created: 2020-08-17
 ---
 

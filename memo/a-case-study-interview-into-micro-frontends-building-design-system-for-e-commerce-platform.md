@@ -1,7 +1,20 @@
 ---
-author: 
+tags: 
+  - web
+  - engineering
+  - frontend
+  - case study
+  - micro-frontend
+title: A Case Study Interview Into Micro Frontends Building Design System For E Commerce Platform
+date: 2023-04-03
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2023-04-03
-tags: web, engineering, frontend, case study, micro-frontend
 created: 2023-04-03
 ---
 

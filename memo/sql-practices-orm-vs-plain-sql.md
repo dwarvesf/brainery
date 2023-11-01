@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - SQL
+  - database
+title: Sql Practices Orm Vs Plain Sql
+date: 2021-07-07
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-10
-tags: SQL, database
 created: 2021-07-07
 ---
 

@@ -1,7 +1,18 @@
 ---
-author: 
+tags: 
+  - engineering
+  - bounty
+  - community
+title: Working On A Project Interview Assessment At Dwarves
+date: 2023-06-08
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2023-06-08
-tags: engineering, bounty, community
 created: 2023-06-08
 ---
 

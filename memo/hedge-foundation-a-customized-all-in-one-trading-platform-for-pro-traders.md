@@ -1,7 +1,18 @@
 ---
-author: 
+tags: 
+  - case study
+  - blockchain
+  - crypto
+title: Hedge Foundation A Customized All In One Trading Platform For Pro Traders
+date: 2022-06-17
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2022-06-17
-tags: case study, blockchain, crypto
 created: 2022-06-17
 ---
 

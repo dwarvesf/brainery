@@ -1,7 +1,19 @@
 ---
-author: 
+tags: 
+  - tool
+  - go
+  - engineering
+  - practice
+title: Approaches To Manage Concurrent Workloads Like Worker Pools And Pipelines
+date: 2023-05-22
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2023-05-22
-tags: tool, go, engineering, practice
 created: 2023-05-22
 ---
 

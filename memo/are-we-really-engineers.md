@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - engineering
+title: Are We Really Engineers
+date: 2021-03-08
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: engineering
 created: 2021-03-08
 ---
 

@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - case study
+title: Supercharged Setel Malaysias First Pay Pump Go Super App
+date: 2021-05-27
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-26
-tags: case study
 created: 2021-05-27
 ---
 

@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - performance
+  - people
+title: Considering Factors For Performance Evaluating
+date: 2016-04-02
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-23
-tags: performance, people
 created: 2016-04-02
 ---
 

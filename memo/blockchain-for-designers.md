@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - design
+  - blockchain
+title: Blockchain For Designers
+date: 2020-05-04
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-19
-tags: design, blockchain
 created: 2020-05-04
 ---
 

@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - mbti
+  - INTJ
+title: Mbti Type Intj
+date: 2021-07-26
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-26
-tags: mbti, INTJ
 created: 2021-07-26
 ---
 

@@ -1,7 +1,16 @@
 ---
+tags: 
+  - case study
+title: Cimb Dwarves X Netizen Initiating A Digital Wealth Management Experience
+date: 2023-08-16
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
 author: Huy Tieu
 created_time: 2023-08-16
-tags: case study
 created: 2023-08-16
 ---
 

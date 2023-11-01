@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - R&D
+  - data
+title: Managing Dataflow And Sql Database With Concurrency Control
+date: 2023-05-04
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2023-05-04
-tags: R&D, data
 created: 2023-05-04
 ---
 

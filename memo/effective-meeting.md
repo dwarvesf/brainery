@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - remote
+  - meeting
+title: Effective Meeting
+date: 2016-01-10
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-23
-tags: remote, meeting
 created: 2016-01-10
 ---
 

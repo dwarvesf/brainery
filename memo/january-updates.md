@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - team
+title: January Updates
+date: 2022-01-28
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2022-01-28
-tags: team
 created: 2022-01-28
 ---
 

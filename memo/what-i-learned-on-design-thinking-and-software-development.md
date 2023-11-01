@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - design-thinking
+title: What I Learned On Design Thinking And Software Development
+date: 2021-05-10
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-19
-tags: design-thinking
 created: 2021-05-10
 ---
 

@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - design-thinking
+title: Six Things I Extracted From Design Thinking
+date: 2021-04-14
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-19
-tags: design-thinking
 created: 2021-04-14
 ---
 

@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - people
+title: Hiring Approach
+date: 2018-06-26
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-25
-tags: people
 created: 2018-06-26
 ---
 

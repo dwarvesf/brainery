@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - tips
+  - people
+title: A Tips Of Hiring Dont
+date: 2020-07-28
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2020-03-26
-tags: tips, people
 created: 2020-07-28
 ---
 

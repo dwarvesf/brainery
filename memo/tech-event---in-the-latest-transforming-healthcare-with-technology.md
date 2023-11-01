@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - dwarves
+title: Tech Event In The Latest Transforming Healthcare With Technology
+date: 2022-11-22
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2022-11-22
-tags: dwarves
 created: 2022-11-22
 ---
 

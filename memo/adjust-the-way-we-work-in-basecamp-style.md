@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - process
+title: Adjust The Way We Work In Basecamp Style
+date: 2021-04-20
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2020-05-26
-tags: process
 created: 2021-04-20
 ---
 

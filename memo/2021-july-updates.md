@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - updates
+title: 2021 July Updates
+date: 2021-07-31
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-29
-tags: updates
 created: 2021-07-31
 ---
 

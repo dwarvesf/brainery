@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - dwarves
+  - apprenticeship
+title: From Data To Backend An Apprentice Sharing
+date: 2022-09-21
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2022-09-20
-tags: dwarves, apprenticeship
 created: 2022-09-21
 ---
 

@@ -1,7 +1,19 @@
 ---
+tags: 
+  - engineering
+  - team
+  - updates
+  - performance
+title: Forward Engineering June 2023
+date: 2023-06-30
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
 author: Thanh Pham
 created_time: 2023-06-30
-tags: engineering, team, updates, performance
 created: 2023-06-30
 ---
 

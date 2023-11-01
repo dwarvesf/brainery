@@ -1,7 +1,18 @@
 ---
-author: 
+tags: 
+  - team
+  - dwarves
+  - updates
+title: 2022 Dwarves Renaissance A Year End Rewind
+date: 2023-01-19
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2023-01-19
-tags: team, dwarves, updates
 created: 2023-01-19
 ---
 

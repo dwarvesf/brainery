@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - tips
+  - productivity
+title: Beyond The Title
+date: 2021-02-19
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-02-01
-tags: tips, productivity
 created: 2021-02-19
 ---
 

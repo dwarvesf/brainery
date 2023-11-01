@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - engineering
+  - go
+title: Go In Software Engineering
+date: 2020-08-07
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: engineering, go
 created: 2020-08-07
 ---
 

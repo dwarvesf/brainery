@@ -1,7 +1,18 @@
 ---
+tags: 
+  - engineering
+  - web
+  - technique
+title: Why We Chose Our Tech Stack Accelerating Development With A Robust Frontend Solution
+date: 2023-03-20
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
 author: Thanh Pham
 created_time: 2023-03-20
-tags: engineering, web, technique
 created: 2023-03-20
 ---
 

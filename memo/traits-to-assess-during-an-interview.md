@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - people
+title: Traits To Assess During An Interview
+date: 2019-09-20
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-26
-tags: people
 created: 2019-09-20
 ---
 

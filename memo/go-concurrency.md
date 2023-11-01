@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - go
+title: Go Concurrency
+date: 2019-12-04
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: go
 created: 2019-12-04
 ---
 

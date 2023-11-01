@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - dwarves
+title: Life At Dwarves With Nam Nguyen Keep Pushing Oneself Towards Goal
+date: 2022-08-16
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2022-08-16
-tags: dwarves
 created: 2022-08-16
 ---
 

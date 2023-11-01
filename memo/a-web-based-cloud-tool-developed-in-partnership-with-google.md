@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - case study
+title: A Web Based Cloud Tool Developed In Partnership With Google
+date: 2020-10-24
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-23
-tags: case study
 created: 2020-10-24
 ---
 

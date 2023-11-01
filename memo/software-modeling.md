@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - modeling
+title: Software Modeling
+date: 2020-05-08
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: modeling
 created: 2020-05-08
 ---
 

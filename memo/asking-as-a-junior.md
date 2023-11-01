@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - tips
+title: Asking As A Junior
+date: 2020-09-21
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2020-09-15
-tags: tips
 created: 2020-09-21
 ---
 

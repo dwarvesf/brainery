@@ -1,7 +1,18 @@
 ---
+tags: 
+  - engineering
+  - micro-frontend
+  - architecture
+title: Why Micro Frontend
+date: 2023-03-20
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
 author: Mashiro
 created_time: 2023-03-20
-tags: engineering, micro-frontend, architecture
 created: 2023-03-20
 ---
 

@@ -1,7 +1,17 @@
 ---
-author: 
+tags: 
+  - blockchain
+  - architecture
+title: Fabric Hyperledger Architecture Explanation
+date: 2019-05-15
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-20
-tags: blockchain, architecture
 created: 2019-05-15
 ---
 

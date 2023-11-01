@@ -1,7 +1,16 @@
 ---
+tags: 
+  - culture
+title: Ogif
+date: 2023-02-16
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
 author: Han 🐸
 created_time: 2023-02-16
-tags: culture
 created: 2023-02-16
 ---
 

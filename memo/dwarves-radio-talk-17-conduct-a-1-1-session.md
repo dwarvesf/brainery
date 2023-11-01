@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - team
+title: Dwarves Radio Talk 17 Conduct A 1 1 Session
+date: 2021-08-09
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-08-17
-tags: team
 created: 2021-08-09
 ---
 

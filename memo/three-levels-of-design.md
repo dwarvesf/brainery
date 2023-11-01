@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - design
+title: Three Levels Of Design
+date: 2018-03-21
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-26
-tags: design
 created: 2018-03-21
 ---
 

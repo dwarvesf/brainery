@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - dcos
+title: Dcos Series Part 3 Service Discovery And Load Balancing
+date: 2017-05-17
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-21
-tags: dcos
 created: 2017-05-17
 ---
 

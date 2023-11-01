@@ -1,7 +1,16 @@
 ---
-author: 
+tags: 
+  - radar
+title: Dwarves Tech Radar Volume 03
+date: 2021-04-29
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
+author: null
 created_time: 2021-07-13
-tags: radar
 created: 2021-04-29
 ---
 

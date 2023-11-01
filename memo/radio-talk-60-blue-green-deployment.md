@@ -1,7 +1,18 @@
 ---
+tags: 
+  - radar
+  - devops
+  - technique
+title: Radio Talk 60 Blue Green Deployment
+date: 2023-03-10
+description: null
+authors: null
+menu: memo
+toc: null
+notice: null
+type: null
 author: Thanh Pham
 created_time: 2023-03-10
-tags: radar, devops, technique
 created: 2023-03-10
 ---
 
