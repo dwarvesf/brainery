@@ -22,7 +22,6 @@ for (const element of indexPage) {
 		SORT title
 	`);
 	content += `## Dwarves Memo \n\n${indexArticles.value}`;
-	console.log(content);
 
 	// get folder and file path
 	const filePath = app.vault.getAbstractFileByPath(element.file.path);
