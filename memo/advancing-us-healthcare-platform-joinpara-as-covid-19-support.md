@@ -57,7 +57,7 @@ Beyond that, our expertise provides them with business & tech consultancy that s
 
 ---
 
-<span style='color:blue'>**Team size**</span>
+**<span style='color:blue'>Team size</span>**
 
 The Dwarves initially joined in with 1 Backend Engineer. Working together with Para team, we helped build a sturdy backend system to sort out different logics. 
 
@@ -71,7 +71,7 @@ Throughout the process, we keep 1 PM in the team to oversee and provide on-time 
 
 <!-- column a218cb60-08bd-43d1-b863-20aa6afebb10 -->
 
-<span style='color:blue'>**Tech stacks**</span>
+**<span style='color:blue'>Tech stacks</span>**
 
 * Backend: Microservices, Go
 * Frontend: React, Redux, Material UI
@@ -80,7 +80,7 @@ Throughout the process, we keep 1 PM in the team to oversee and provide on-time 
 
 <!-- column 75f8c6e8-3d58-4470-92e4-64df20cdcabc -->
 
-<span style='color:blue'>**Communication**</span>
+**<span style='color:blue'>Communication</span>**
 
 * Slack & Google Meets: Team discussion
 * Figma: Design storage

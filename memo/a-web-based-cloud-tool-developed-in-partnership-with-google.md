@@ -68,7 +68,7 @@ With Voconic, users have as internal working version before releasing the offici
 
 <!-- column 7847f9a6-27be-46a6-b9ce-9988c531295a -->
 
-<span style='color:blue'>**Team size**</span>
+**<span style='color:blue'>Team size</span>**
 
 From 3 engineers in the early stage, we grew the number up to 6 with deeper involvement.
 
@@ -76,7 +76,7 @@ Voconic was built upon the industry standard - Docker containers and k8s. A whol
 
 <!-- column d5d7d2ed-d76a-4480-86d7-9a771b7f2a2f -->
 
-<span style='color:blue'>**Golang Heavy Back-end System**</span>
+**<span style='color:blue'>Golang Heavy Back-end System</span>**
 
 The robust back-end system in Golang
 
@@ -91,7 +91,7 @@ Voconic auto diagnoses and fixes the current state when a container crashes. Its
 
 <!-- column d7970076-81f4-483c-b409-d42523fdc759 -->
 
-<span style='color:blue'>**Tech stacks**</span>
+**<span style='color:blue'>Tech stacks</span>**
 
 * Backend: Golang
 * Frontend: React
@@ -100,7 +100,7 @@ Voconic auto diagnoses and fixes the current state when a container crashes. Its
 
 <!-- column 806754a1-44dd-4a62-a716-a2674b85f0ea -->
 
-<span style='color:blue'>**Collaboration**</span>
+**<span style='color:blue'>Collaboration</span>**
 
 * Google Chat: daily discussion
 * Google Hangout: team meetings & sync-up
