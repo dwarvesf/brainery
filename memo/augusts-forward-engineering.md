@@ -27,7 +27,7 @@ In a world where new businesses and product teams are always changing, there is 
 
 Step into the latest edition of the Dwarves Foundation Tech Radar Report, where we shed light on the technologies steering our engineering team's growth and success. In this report, we illuminate the technologies shaping our path forward, from evaluating new methodologies to embracing tools that amplify our efficiency.
 
-![[august-forward-engineering_(1).mp4]]
+![](assets/august-forward-engineering_(1).mp4)
 
 ### <span style='color:green'>Type-safe Server Client Development</span>
 
@@ -69,7 +69,7 @@ As we proceed in our journey of knowledge and skill enhancement, our Brainery co
 
 This month, we are thrilled to highlight our learning journey towards Full stack engineering. Unlike previous months, there has been a greater focus on backend engineering from our Golang 2023 course. We’re really proud of our frontend engineers that participated in our backend course and really excited what they can do with their newfound knowledge. 
 
-### **<span style='color:green'>Trending Tags</span>**
+### <span style='color:green'>Trending Tags</span>
 
 The trending tags of this month offer a fascinating snapshot of our contributors' current research interests and thought processes. It's been particularly interesting to see the ongoing focus on LLM, with the addition of our [story map for LLMs](https://brain.d.foundation/Engineering/AI/Story+map+for+LLMs), and research on [reinforcement learning](https://brain.d.foundation/Engineering/AI/RLHF+with+Open+Assistant).
 
@@ -157,9 +157,7 @@ Key discussions this month included:
 
 <!-- column 0cf977cf-7b1a-454c-9582-5a138b8deebb -->
 
-<p><div class="res_emb_block">
-<iframe width="640" height="480" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cf437c32-fead-415e-a357-91eb75b91c91/insertion_sort.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202129Z&X-Amz-Expires=3600&X-Amz-Signature=36181a7605a87224625eff8f569f4b5e3a5666b8c9ef8c286eee0ee9c51966d9&X-Amz-SignedHeaders=host&x-id=GetObject" frameborder="0" allowfullscreen></iframe>
-</div></p>
+![](assets/insertion_sort.mp4)
 
 These insights continue to broaden our understanding of both traditional and emerging software design concepts, equipping us to better tackle real-world challenges.
 
