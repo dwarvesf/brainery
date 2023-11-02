@@ -27,9 +27,7 @@ In a world where new businesses and product teams are always changing, there is 
 
 Step into the latest edition of the Dwarves Foundation Tech Radar Report, where we shed light on the technologies steering our engineering team's growth and success. In this report, we illuminate the technologies shaping our path forward, from evaluating new methodologies to embracing tools that amplify our efficiency.
 
-<p><div class="res_emb_block">
-<iframe width="640" height="480" src="https://prod-files-secure.s3.us-west-2.amazonaws.com/498ebd7b-383c-459f-a9ad-b74073208ddd/b1387917-b8cc-492b-889e-ac5078670908/august-forward-engineering_%281%29.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202124Z&X-Amz-Expires=3600&X-Amz-Signature=6d8326ea07ff1d51cf371e5d4d914443fe60b9708a666655c134192c6f5aadae&X-Amz-SignedHeaders=host&x-id=GetObject" frameborder="0" allowfullscreen></iframe>
-</div></p>
+![[august-forward-engineering_(1).mp4]]
 
 ### <span style='color:green'>Type-safe Server Client Development</span>
 
@@ -65,13 +63,13 @@ In the software industry, the exploration of rapidly evolving AI tools for code 
 
 ---
 
-### <span style='color:green'>**Growth and Direction**</span>
+### **<span style='color:green'>Growth and Direction</span>**
 
 As we proceed in our journey of knowledge and skill enhancement, our Brainery continues to bloom with exciting ideas and valuable insights. Our contributors have exhibited an increased proficiency in delivering concise writings, covering work delivery, practical concepts, and foundational knowledge.
 
 This month, we are thrilled to highlight our learning journey towards Full stack engineering. Unlike previous months, there has been a greater focus on backend engineering from our Golang 2023 course. We’re really proud of our frontend engineers that participated in our backend course and really excited what they can do with their newfound knowledge. 
 
-### <span style='color:green'>**Trending Tags**</span>
+### **<span style='color:green'>Trending Tags</span>**
 
 The trending tags of this month offer a fascinating snapshot of our contributors' current research interests and thought processes. It's been particularly interesting to see the ongoing focus on LLM, with the addition of our [story map for LLMs](https://brain.d.foundation/Engineering/AI/Story+map+for+LLMs), and research on [reinforcement learning](https://brain.d.foundation/Engineering/AI/RLHF+with+Open+Assistant).
 
