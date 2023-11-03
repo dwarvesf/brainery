@@ -211,3 +211,53 @@ With a reference later in the document defining the URL location:
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
 ----- 
+
+**Syntax Highlighting:**
+
+- SQL:
+```sql
+SELECT * FROM users
+```
+
+- Python:
+
+```python
+# This is a comment
+def hello_world():
+    print("Hello, world!")
+```
+
+- HTML:
+
+```html
+<!-- This is a comment -->
+<h1>Hello, world!</h1>
+```
+
+- JavaScript:
+
+```javascript
+// This is a comment
+function helloWorld() {
+    console.log("Hello, world!");
+}
+```
+
+- C++:
+
+```cpp
+// This is a comment
+#include <iostream>
+using namespace std;
+
+void helloWorld() {
+    cout << "Hello, world!" << endl;
+}
+```
+
+- Markdown:
+
+```markdown
+<!-- This is a comment -->
+# Hello, world!
+```
