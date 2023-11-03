@@ -68,6 +68,12 @@ This is component Nested Blockquotes
 >>Nested Blockquotes example
 >>>For more Nested Blockquotes, can put > before the first one
 
+> Blockquote
+>
+> > Indented blockquote
+>
+> Continuation of original
+
 ------
 
 ```
