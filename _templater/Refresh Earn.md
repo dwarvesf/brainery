@@ -19,9 +19,8 @@ for (const element of earnPage) {
 			"[[" + file.path + "|" + title + "]]" as title,
 			bounty + " ICY" as bounty,
 			status
-		FROM "earn" and !"_templates" and !"_templater" and !"_index" and !"site-index" and !"README"
-		WHERE status = "Open"
-			AND title != NULL
+		FROM "earn" AND !"earn/_index"
+		WHERE title != NULL
 		SORT status DESC
 	`);
 	content += `## Earn and Bounty Program\n\n`;

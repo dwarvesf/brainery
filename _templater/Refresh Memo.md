@@ -1,7 +1,6 @@
 <%*
 const dv = this.app.plugins.plugins["dataview"].api;
 const indexPage = dv.pages(`"memo/_index.md"`);
-console.log(indexPage);
 
 for (const element of indexPage) {
 	let content = "---\n";
