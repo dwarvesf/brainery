@@ -23,8 +23,10 @@ for (const element of earnPage) {
 		WHERE title != NULL
 		SORT status DESC
 	`);
-	content += `## Earn and Bounty Program\n\n`;
-	content += `Our earn and bounty program for all of the open-source work we do at Dwarves Foundation. A good portion of the earns and bounties help to improve quality-of-life for our community, creating bots and extensions for our messaging apps, and more serious work such as aggregating data from blockchains.\n\n`;
+	content += `## Dwarves Community Bounty\n\n`;
+	content += `Dwarves bounty program is the way for both peeps and community can contribute to our day to day activities, including building internal tools, new tech r&d or knowledge sharing.\n\n`;
+	content += `**→ Apply for research team:** open ticket in [our Discord](https://discord.com/invite/dwarvesv)\n`
+	content += `**→ To contribute**: open ticket in [our Discord](https://discord.com/invite/dwarvesv) and give @hnh a ping\n\n`
 	content += earnArticles.value;
 
 	// get folder and file path

@@ -1,21 +1,25 @@
 ---
-tags: 
+tags:
   - dwarves
   - work
 title: Dwarves Earn
 date: 2023-10-19
 description: null
-authors: 
+authors:
   - monotykamary
 menu: main
 toc: null
 notice: null
 type: null
-show_frontmatter: null
+show_frontmatter: false
 ---
-## Earn and Bounty Program
 
-Our earn and bounty program for all of the open-source work we do at Dwarves Foundation. A good portion of the earns and bounties help to improve quality-of-life for our community, creating bots and extensions for our messaging apps, and more serious work such as aggregating data from blockchains.
+## Dwarves Community Bounty
+
+Dwarves bounty program is the way for both peeps and community can contribute to our day to day activities, including building internal tools, new tech r&d or knowledge sharing.
+
+**→ Apply for research team:** open ticket in [our Discord](https://discord.com/invite/dwarvesv)
+**→ To contribute**: open ticket in [our Discord](https://discord.com/invite/dwarvesv) and give @hnh a ping
 
 | title                                                                | bounty  | status |
 | -------------------------------------------------------------------- | ------- | ------ |
@@ -38,13 +42,13 @@ Our earn and bounty program for all of the open-source work we do at Dwarves Fou
 | [[earn/optimize-query-database.md\|Optimize Query Database]]         | 100 ICY | Done   |
 | [[earn/monorepo-deployment-flow.md\|Monorepo Deployment Flow]]       | 80 ICY  | Done   |
 | [[earn/locale-web-mobile.md\|Locale Web Mobile]]                     | 100 ICY | Done   |
-| [[earn/hunger-game.md\|Hunger Game]]                                 | 100 ICY | Done   |
 | [[earn/layer-2-zk-rollup.md\|Layer 2 Zk Rollup]]                     | 100 ICY | Done   |
 | [[earn/integrate-ts-reset.md\|Integrate Ts Reset]]                   | 10 ICY  | Done   |
 | [[earn/integrate-rss-feed.md\|Integrate Rss Feed]]                   | 50 ICY  | Done   |
-| [[earn/enigma-checksum.md\|Enigma Checksum]]                         | 20 ICY  | Done   |
+| [[earn/hunger-game.md\|Hunger Game]]                                 | 100 ICY | Done   |
 | [[earn/financial-literacy-outline.md\|Financial Literacy Outline]]   | 45 ICY  | Done   |
 | [[earn/feature-toggle.md\|Feature Toggle]]                           | 100 ICY | Done   |
+| [[earn/enigma-checksum.md\|Enigma Checksum]]                         | 20 ICY  | Done   |
 | [[earn/engagament-log.md\|Engagament Log]]                           | 100 ICY | Done   |
 | [[earn/economic-calendar.md\|Economic Calendar]]                     | 40 ICY  | Done   |
 | [[earn/dwarves-email-domain.md\|Dwarves Email Domain]]               | 100 ICY | Done   |
