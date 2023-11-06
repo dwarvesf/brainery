@@ -1,20 +1,21 @@
 ---
-tags:
+tags: 
   - earn
-title: A webpage showing where the Dwarves from
+title: Dwarvesf Map
 date: 2023-07-05
-description:
-authors:
+description: null
+authors: 
   - hnh
   - tieubao
 menu: earn
-toc: false
-notice:
-bounty: 80
-due_date:
-status: Open
-PICs: []
+toc: null
+notice: null
 type: earn
+show_frontmatter: true
+bounty: 80
+due_date: null
+status: Open
+PICs: null
 ---
 
 👀 Imagine having a map flexing dwarves all around the globe

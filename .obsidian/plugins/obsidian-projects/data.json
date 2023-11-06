@@ -52,57 +52,6 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "earn",
-          "recursive": true
-        }
-      },
-      "newNotesFolder": "",
-      "views": [
-        {
-          "config": {},
-          "filter": {
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "0ac7c4fd-b212-4eb2-8079-66c7c6edf1ec",
-          "name": "Table",
-          "type": "table"
-        },
-        {
-          "config": {
-            "groupByField": "status"
-          },
-          "filter": {
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "sort": {
-            "criteria": []
-          },
-          "id": "845c52d7-e290-46a8-9ab7-148914b9b9c9",
-          "name": "Board",
-          "type": "board"
-        }
-      ],
-      "id": "94ee5953-5bce-49fc-87a7-0b3652ca382a",
-      "name": "earn"
-    },
-    {
-      "fieldConfig": {},
-      "defaultName": "",
-      "templates": [],
-      "excludedNotes": [],
-      "isDefault": false,
-      "dataSource": {
-        "kind": "folder",
-        "config": {
           "path": "members",
           "recursive": true
         }
@@ -161,6 +110,60 @@
       ],
       "id": "df021693-2cf1-4e10-a537-9c3927fd0288",
       "name": "memo"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "earn",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "c6e46b12-d298-461b-ab71-7e9a4afd50cf",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "includeFields": [
+              "PICs"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "4f190363-082b-4ae2-9c17-e923a79d500b",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "42ee00cf-7395-497b-95cb-5efa45ef580d",
+      "name": "earn"
     }
   ],
   "preferences": {

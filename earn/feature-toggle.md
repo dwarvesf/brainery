@@ -1,18 +1,19 @@
 ---
-tags:
+tags: 
   - r&d
-title: Feature toggle
+title: Feature Toggle
 date: 2022-11-30
-description:
-authors:
+description: null
+authors: 
   - huytq
 menu: earn
-toc: false
-notice:
-bounty: 100
-due_date:
-status: Done
-PICs:
-  - thanhpham, minhth
+toc: null
+notice: null
 type: r&d
+show_frontmatter: true
+bounty: 100
+due_date: null
+status: Done
+PICs: 
+  - thanhpham, minhth
 ---

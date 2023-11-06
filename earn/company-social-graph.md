@@ -1,18 +1,19 @@
 ---
-tags:
+tags: 
   - tooling
 title: Company Social Graph
 date: 2022-11-29
-description:
-authors:
+description: null
+authors: 
   - bien
 menu: earn
-toc: false
-notice:
-bounty: 40
-due_date:
-status: Done
-PICs:
-  - bien
+toc: null
+notice: null
 type: tooling
+show_frontmatter: true
+bounty: 40
+due_date: null
+status: Done
+PICs: 
+  - bien
 ---

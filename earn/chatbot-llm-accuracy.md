@@ -1,22 +1,23 @@
 ---
-tags:
+tags: 
   - r&d
-title: "Chatbot: LLM accuracy with RLHF"
+title: Chatbot Llm Accuracy
 date: 2022-12-07
-description:
-authors:
+description: null
+authors: 
   - thanhpham
   - toanho
 menu: earn
-toc: false
-notice:
+toc: null
+notice: null
+type: r&d
+show_frontmatter: true
 bounty: 100
-due_date:
+due_date: null
 status: Done
-PICs:
+PICs: 
   - thanhpham
   - toanho
-type: r&d
 ---
 
 ### Legacy

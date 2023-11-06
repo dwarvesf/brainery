@@ -1,20 +1,21 @@
 ---
-tags:
+tags: 
   - tooling
-title: ?trend command
+title: Trend Command
 date: 2023-08-17
-description:
-authors:
+description: null
+authors: 
   - thanh
 menu: earn
-toc: false
-notice:
-bounty: 60
-due_date:
-status: Open
-PICs:
-  - tom
+toc: null
+notice: null
 type: tooling
+show_frontmatter: true
+bounty: 60
+due_date: null
+status: Open
+PICs: 
+  - tom
 ---
 ## Requirements
 

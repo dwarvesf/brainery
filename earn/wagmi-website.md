@@ -1,18 +1,19 @@
 ---
-tags:
+tags: 
   - tooling
-title: wagmi website, fork xkcd, with crm for img uploading
+title: Wagmi Website
 date: 2023-06-14
-description:
-authors:
+description: null
+authors: 
   - hieuvd
 menu: earn
-toc: false
-notice:
-bounty: 150
-due_date:
-status: Done
-PICs:
-  - hieuvd
+toc: null
+notice: null
 type: tooling
+show_frontmatter: true
+bounty: 150
+due_date: null
+status: Done
+PICs: 
+  - hieuvd
 ---

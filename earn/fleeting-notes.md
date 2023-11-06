@@ -1,20 +1,21 @@
 ---
-tags:
+tags: 
   - tooling
-title: A discord cmd to receive a link, and create a brainery fleeting note
+title: Fleeting Notes
 date: 2023-10-17
-description:
-authors:
+description: null
+authors: 
   - han
 menu: earn
-toc: false
-notice:
-bounty: 60
-due_date:
-status: Open
-PICs:
-  - han
+toc: null
+notice: null
 type: tooling
+show_frontmatter: true
+bounty: 60
+due_date: null
+status: Open
+PICs: 
+  - han
 ---
 
 **Input**

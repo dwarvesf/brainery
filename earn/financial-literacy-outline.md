@@ -1,20 +1,21 @@
 ---
-tags:
+tags: 
   - r&d
-title: "Financial Literacy outline: Phổ cập Kiến thức Tài chính"
+title: Financial Literacy Outline
 date: 2023-06-14
-description:
-authors:
+description: null
+authors: 
   - hnh
 menu: earn
-toc: false
-notice:
-bounty: 45
-due_date:
-status: Done
-PICs:
-  - hnh
+toc: null
+notice: null
 type: r&d
+show_frontmatter: true
+bounty: 45
+due_date: null
+status: Done
+PICs: 
+  - hnh
 ---
 
 - Pls provide topic outline in gsheet

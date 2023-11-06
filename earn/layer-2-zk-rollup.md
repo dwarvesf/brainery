@@ -1,20 +1,21 @@
 ---
-tags:
+tags: 
   - r&d
-title: Design system for layer 2 using ZK rollup
+title: Layer 2 Zk Rollup
 date: 2023-03-27
-description:
-authors:
+description: null
+authors: 
   - bien
   - thanhpham
 menu: earn
-toc: false
-notice:
+toc: null
+notice: null
+type: r&d
+show_frontmatter: true
 bounty: 100
-due_date:
+due_date: null
 status: Done
-PICs:
+PICs: 
   - bien
   - thanhpham
-type: r&d
 ---

@@ -1,20 +1,21 @@
 ---
-tags:
+tags: 
   - r&d
-title: Integrate ts-reset to nextjs boilerplate
+title: Integrate Ts Reset
 date: 2023-06-02
-description:
-authors:
+description: null
+authors: 
   - khacvy
 menu: earn
-toc: false
-notice:
-bounty: 10
-due_date:
-status: Done
-PICs:
-  - khacvy
+toc: null
+notice: null
 type: r&d
+show_frontmatter: true
+bounty: 10
+due_date: null
+status: Done
+PICs: 
+  - khacvy
 ---
 
 Motivation: https://discord.com/channels/462663954813157376/810481888619135046/1111542588818849883

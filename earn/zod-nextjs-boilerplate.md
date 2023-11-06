@@ -1,18 +1,19 @@
 ---
-tags:
+tags: 
   - r&d
-title: Use Zod to validate schema in nextjs-boilerplate
+title: Zod Nextjs Boilerplate
 date: 2023-06-13
-description:
-authors:
+description: null
+authors: 
   - luke huynh thanh hai
 menu: earn
-toc: false
-notice:
-bounty: 10
-due_date:
-status: Done
-PICs:
-  - luke huynh thanh hai
+toc: null
+notice: null
 type: r&d
+show_frontmatter: true
+bounty: 10
+due_date: null
+status: Done
+PICs: 
+  - luke huynh thanh hai
 ---

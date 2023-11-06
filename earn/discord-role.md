@@ -1,18 +1,19 @@
 ---
-tags:
+tags: 
   - community
-title: Rework Discord Role
+title: Discord Role
 date: 2022-11-30
-description:
-authors:
+description: null
+authors: 
   - hnh
 menu: earn
-toc: false
-notice:
-bounty: 20
-due_date:
-status: Done
-PICs:
-  - hnh
+toc: null
+notice: null
 type: community
+show_frontmatter: true
+bounty: 20
+due_date: null
+status: Done
+PICs: 
+  - hnh
 ---

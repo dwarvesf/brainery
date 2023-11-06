@@ -1,21 +1,22 @@
 ---
-tags:
+tags: 
   - earn
   - fortress
-title: "Fortress: MMA data"
+title: Fortress Mma Score
 date: 2023-10-04
-description:
-authors:
+description: null
+authors: 
   - hnh
 menu: earn
-toc: false
-notice:
-bounty: 120
-due_date:
-status: Open
-PICs:
-  - nam
+toc: null
+notice: null
 type: earn
+show_frontmatter: true
+bounty: 120
+due_date: null
+status: Open
+PICs: 
+  - nam
 ---
 
 1. Update fortress database

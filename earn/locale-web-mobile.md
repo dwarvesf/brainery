@@ -1,28 +1,29 @@
 ---
-tags:
+tags: 
   - r&d
-title: Locale on Web, Mobile
+title: Locale Web Mobile
 date: 2023-03-27
-description:
-authors:
+description: null
+authors: 
   - hieuvd
   - antran
   - bien
   - binhle
   - taipham
 menu: earn
-toc: false
-notice:
+toc: null
+notice: null
+type: r&d
+show_frontmatter: true
 bounty: 100
-due_date:
+due_date: null
 status: Done
-PICs:
+PICs: 
   - hieuvd
   - antran
   - bien
   - binhle
   - taipham
-type: r&d
 ---
 ## **Problem definition**
 

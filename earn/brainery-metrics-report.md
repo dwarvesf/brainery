@@ -1,20 +1,21 @@
 ---
-tags:
+tags: 
   - tooling
-title: Brainery metrics report
+title: Brainery Metrics Report
 date: 2023-06-30
-description:
-authors:
+description: null
+authors: 
   - thanh
 menu: earn
-toc: false
-notice:
-bounty: 100
-due_date:
-status: Done
-PICs:
-  - thangnguyen
+toc: null
+notice: null
 type: tooling
+show_frontmatter: true
+bounty: 100
+due_date: null
+status: Done
+PICs: 
+  - thangnguyen
 ---
 
 Collect & persist brainery post in discord channel.

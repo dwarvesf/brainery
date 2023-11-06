@@ -1,18 +1,19 @@
 ---
-tags:
+tags: 
   - r&d
-title: "Chatbot: prompt size, context (zero shot)"
+title: Chatbot Prompt Size
 date: 2022-11-30
-description:
-authors:
+description: null
+authors: 
   - thanh
 menu: earn
-toc: false
-notice:
-bounty: 30
-due_date:
-status: Done
-PICs:
-  - thanh
+toc: null
+notice: null
 type: r&d
+show_frontmatter: true
+bounty: 30
+due_date: null
+status: Done
+PICs: 
+  - thanh
 ---

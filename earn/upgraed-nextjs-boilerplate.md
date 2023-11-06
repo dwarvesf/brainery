@@ -1,19 +1,20 @@
 ---
-tags:
+tags: 
   - r&d
-title: Upgrade nextjs-boilerplate to Nextjs 13
+title: Upgraed Nextjs Boilerplate
 date: 2023-06-05
-description:
-authors:
+description: null
+authors: 
   - chinhle
 menu: earn
-toc: false
-notice:
-bounty: 10
-due_date:
-status: Done
-PICs:
-  - chinhle
+toc: null
+notice: null
 type: r&d
+show_frontmatter: true
+bounty: 10
+due_date: null
+status: Done
+PICs: 
+  - chinhle
 ---
 https://github.com/dwarvesf/nextjs-boilerplate/pull/21

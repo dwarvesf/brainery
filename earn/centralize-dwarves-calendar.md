@@ -1,20 +1,21 @@
 ---
-tags:
+tags: 
   - community
 title: Centralize Dwarves Calendar
 date: 2022-11-30
-description:
-authors:
+description: null
+authors: 
   - tom
 menu: earn
-toc: false
-notice:
-bounty: 30
-due_date:
-status: Done
-PICs:
-  - tom
+toc: null
+notice: null
 type: community
+show_frontmatter: true
+bounty: 30
+due_date: null
+status: Done
+PICs: 
+  - tom
 ---
 
 ### Legacy

@@ -1,20 +1,21 @@
 ---
-tags:
+tags: 
   - tooling
-title: Tech radar status report
+title: Tech Radar Report
 date: 2023-10-17
-description:
-authors:
+description: null
+authors: 
   - thanh
 menu: earn
-toc: false
-notice:
-bounty: 60
-due_date:
-status: Open
-PICs:
-  - thanh
+toc: null
+notice: null
 type: tooling
+show_frontmatter: true
+bounty: 60
+due_date: null
+status: Open
+PICs: 
+  - thanh
 ---
 
 Create a Discord bot to send notification to a channel when status of a radar item change or a new research or experiment has been made for the blip.

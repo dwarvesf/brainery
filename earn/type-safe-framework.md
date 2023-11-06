@@ -1,21 +1,22 @@
 ---
-tags:
+tags: 
   - tooling
-title: wagmi website, fork xkcd, with crm for img uploading
+title: Type Safe Framework
 date: 2023-08-18
-description:
-authors:
+description: null
+authors: 
   - thanh
 menu: earn
-toc: false
-notice:
+toc: null
+notice: null
+type: tooling
+show_frontmatter: true
 bounty: 100
-due_date:
+due_date: null
 status: Done
-PICs:
+PICs: 
   - hieuphq
   - antran
-type: tooling
 ---
 ## Background
 

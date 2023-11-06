@@ -1,20 +1,21 @@
 ---
-tags:
+tags: 
   - r&d
-title: React Server Componen
+title: React Server Component
 date: 2023-06-20
-description:
-authors:
+description: null
+authors: 
   - chinhle
 menu: earn
-toc: false
-notice:
-bounty: 20
-due_date:
-status: Done
-PICs:
-  - chinhle
+toc: null
+notice: null
 type: r&d
+show_frontmatter: true
+bounty: 20
+due_date: null
+status: Done
+PICs: 
+  - chinhle
 ---
 
 Output:

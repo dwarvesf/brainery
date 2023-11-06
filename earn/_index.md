@@ -1,16 +1,17 @@
 ---
-tags:
+tags: 
   - dwarves
   - work
-title: Dwarves Earn
+title: Index
 date: 2023-10-19
-description:
-authors:
+description: null
+authors: 
   - monotykamary
 menu: main
-toc: false
-notice:
-type:
+toc: null
+notice: null
+type: null
+show_frontmatter: null
 ---
 ## Earn and Bounty Program
 

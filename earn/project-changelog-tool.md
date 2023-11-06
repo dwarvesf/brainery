@@ -1,20 +1,21 @@
 ---
-tags:
+tags: 
   - tooling
-title: Project Weekly Changelog Tooling
+title: Project Changelog Tool
 date: 2023-06-05
-description:
-authors:
+description: null
+authors: 
   - minhluu
 menu: earn
-toc: false
-notice:
-bounty: 100
-due_date:
-status: Done
-PICs:
-  - minhluu
+toc: null
+notice: null
 type: tooling
+show_frontmatter: true
+bounty: 100
+due_date: null
+status: Done
+PICs: 
+  - minhluu
 ---
 1) migrate new changelog structure to new fortress database
 2) use official notion api instead of private like now

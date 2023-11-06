@@ -1,18 +1,19 @@
 ---
-tags:
+tags: 
   - tooling
-title: Engagement Log
+title: Engagament Log
 date: 2022-11-30
-description:
-authors:
+description: null
+authors: 
   - tom, hnh
 menu: earn
-toc: false
-notice:
-bounty: 100
-due_date:
-status: Done
-PICs:
-  - tom, hnh
+toc: null
+notice: null
 type: tooling
+show_frontmatter: true
+bounty: 100
+due_date: null
+status: Done
+PICs: 
+  - tom, hnh
 ---

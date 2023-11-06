@@ -1,20 +1,21 @@
 ---
-tags:
+tags: 
   - r&d
-title: Monorepo deployment flow with Vercel
+title: Monorepo Deployment Flow
 date: 2023-06-20
-description:
-authors:
+description: null
+authors: 
   - antran
 menu: earn
-toc: false
-notice:
-bounty: 80
-due_date:
-status: Done
-PICs:
-  - chinhle
+toc: null
+notice: null
 type: r&d
+show_frontmatter: true
+bounty: 80
+due_date: null
+status: Done
+PICs: 
+  - chinhle
 ---
 
 **Output:**

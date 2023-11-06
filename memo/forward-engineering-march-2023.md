@@ -7,9 +7,11 @@ date: 2023-04-03
 description: null
 authors: null
 menu: memo
+menu: memo
 toc: null
 notice: null
 type: null
+show_frontmatter: true
 author: Thanh Pham, Tom X Nguyen
 created_time: 2023-04-03
 created: 2023-04-03

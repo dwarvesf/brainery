@@ -1,20 +1,21 @@
 ---
-tags:
+tags: 
   - tooling
-title: Add new discord command to publish new brainery post
+title: Discord Publish Braniery
 date: 2023-06-20
-description:
-authors:
+description: null
+authors: 
   - nam
 menu: earn
-toc: false
-notice:
-bounty: 40
-due_date:
-status: Done
-PICs:
-  - nam
+toc: null
+notice: null
 type: tooling
+show_frontmatter: true
+bounty: 40
+due_date: null
+status: Done
+PICs: 
+  - nam
 ---
 Input: ?brainery post <url> <author>  <tags> <reward>(optional, default: 10) <github_id>(optional)
 

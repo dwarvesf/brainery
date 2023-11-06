@@ -1,7 +1,7 @@
 <%*
 const dv = this.app.plugins.plugins["dataview"].api;
 const postTemplate = dv.pages(`"_templater/New Post"`);
-const memoPages = dv.pages(`"memo"`)
+const memoPages = dv.pages(`"earn"`)
 
 const titleCase = (s) => s
 	.replace (/^[-_]*(.)/, (_, c) => c.toUpperCase())
@@ -14,7 +14,7 @@ for (const element of memoPages) {
 		const value = element.file.frontmatter[prop]
 
 		if (prop === "menu" && value === undefined) {
-			content += `${prop}: memo\n`;
+			content += `${prop}: earn\n`;
 		}
 		if (prop === "show_frontmatter" && value === undefined) {
 			content += `${prop}: true\n`;

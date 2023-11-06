@@ -9,9 +9,11 @@ date: 2023-06-30
 description: null
 authors: null
 menu: memo
+menu: memo
 toc: null
 notice: null
 type: null
+show_frontmatter: true
 author: Thanh Pham
 created_time: 2023-06-30
 created: 2023-06-30

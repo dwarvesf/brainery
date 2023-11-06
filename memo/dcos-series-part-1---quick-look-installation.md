@@ -6,9 +6,11 @@ date: 2017-05-04
 description: null
 authors: null
 menu: memo
+menu: memo
 toc: null
 notice: null
 type: null
+show_frontmatter: true
 author: null
 created_time: 2021-07-21
 created: 2017-05-04

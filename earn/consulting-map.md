@@ -1,20 +1,21 @@
 ---
-tags:
+tags: 
   - earn
-title: Consulting record webpage
+title: Consulting Map
 date: 2023-07-05
 description: A webpage our consulting record, where our clients locate
-authors:
+authors: 
   - hnh
   - tieubao
 menu: earn
-toc: false
-notice:
-bounty: 80
-due_date:
-status: Open
-PICs: []
+toc: null
+notice: null
 type: earn
+show_frontmatter: true
+bounty: 80
+due_date: null
+status: Open
+PICs: null
 ---
 
 References [[dwarvesf-map.md]]

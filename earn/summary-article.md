@@ -1,20 +1,21 @@
 ---
-tags:
+tags: 
   - tooling
-title: A discord cmd to summary article, using ChatGPT
+title: Summary Article
 date: 2023-06-12
-description:
-authors:
+description: null
+authors: 
   - minhluu
 menu: earn
-toc: false
-notice:
-bounty: 60
-due_date:
-status: Done
-PICs:
-  - minhluu
+toc: null
+notice: null
 type: tooling
+show_frontmatter: true
+bounty: 60
+due_date: null
+status: Done
+PICs: 
+  - minhluu
 ---
 
 ?sum <link>

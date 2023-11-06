@@ -1,20 +1,21 @@
 ---
-tags:
+tags: 
   - oss
-title: Hunger Game - Submit 2022
+title: Hunger Game
 date: 2022-11-30
-description:
-authors:
+description: null
+authors: 
   - hieuphq
   - mashiro
 menu: earn
-toc: false
-notice:
+toc: null
+notice: null
+type: oss
+show_frontmatter: true
 bounty: 100
-due_date:
+due_date: null
 status: Done
-PICs:
+PICs: 
   - hieuphq
   - mashiro
-type: oss
 ---

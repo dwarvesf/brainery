@@ -1,18 +1,19 @@
 ---
-tags:
+tags: 
   - tooling
-title: "Company Signature "
+title: Company Signature
 date: 2022-12-30
-description:
-authors:
+description: null
+authors: 
   - hieuvd
 menu: earn
-toc: false
-notice:
-bounty: 20
-due_date:
-status: Done
-PICs:
-  - hieuvd
+toc: null
+notice: null
 type: tooling
+show_frontmatter: true
+bounty: 20
+due_date: null
+status: Done
+PICs: 
+  - hieuvd
 ---

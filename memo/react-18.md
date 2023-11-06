@@ -8,9 +8,11 @@ date: 2022-06-06
 description: null
 authors: null
 menu: memo
+menu: memo
 toc: null
 notice: null
 type: null
+show_frontmatter: true
 author: null
 created_time: 2022-06-06
 created: 2022-06-06

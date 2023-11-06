@@ -1,20 +1,21 @@
 ---
-tags:
+tags: 
   - tooling
-title: Economic calendar
+title: Economic Calendar
 date: 2023-03-27
-description:
-authors:
+description: null
+authors: 
   - nam
 menu: earn
-toc: false
-notice:
-bounty: 40
-due_date:
-status: Done
-PICs:
-  - nam
+toc: null
+notice: null
 type: tooling
+show_frontmatter: true
+bounty: 40
+due_date: null
+status: Done
+PICs: 
+  - nam
 ---
 
 ![[ac92367a233c232c011356c8531ba40e_MD5.webp]]

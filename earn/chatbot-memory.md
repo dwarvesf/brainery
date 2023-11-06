@@ -1,18 +1,19 @@
 ---
-tags:
+tags: 
   - r&d
-title: "Chatbot: memory (few shot) "
+title: Chatbot Memory
 date: 2022-12-07
-description:
-authors:
+description: null
+authors: 
   - thanh
 menu: earn
-toc: false
-notice:
-bounty: 100
-due_date:
-status: Done
-PICs:
-  - thanh
+toc: null
+notice: null
 type: r&d
+show_frontmatter: true
+bounty: 100
+due_date: null
+status: Done
+PICs: 
+  - thanh
 ---

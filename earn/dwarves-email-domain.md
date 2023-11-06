@@ -1,18 +1,19 @@
 ---
-tags:
+tags: 
   - tooling
-title: Rework Dwarves Email Domain
+title: Dwarves Email Domain
 date: 2022-11-28
-description:
-authors:
+description: null
+authors: 
   - quang
 menu: earn
-toc: false
-notice:
-bounty: 100
-due_date:
-status: Done
-PICs:
-  - quang
+toc: null
+notice: null
 type: tooling
+show_frontmatter: true
+bounty: 100
+due_date: null
+status: Done
+PICs: 
+  - quang
 ---
