@@ -46,7 +46,7 @@ Your primary responsibility is to **Ensure the quality of the products**
 - Verify our product development process
 - Study new technique and methods in testing domain, apply and promote them
 
-![](process.png)
+![](../assets/process.png)
 
 ## Benefits & Perks
 
@@ -70,7 +70,7 @@ Dwarves Foundation offers two weeks of paid vacation, a few extra personal days 
 
 And more at [Benefits & Perks](../additional-info/benefits-and-perks.md)
 
-![](team.png)
+![](../assets/team.png)
 
 ## How to be a dwarf?
 
