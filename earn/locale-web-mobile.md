@@ -1,11 +1,15 @@
 ---
 tags:
   - r&d
-title: "Locale on Web, Mobile"
+title: Locale on Web, Mobile
 date: 2023-03-27
 description:
 authors:
-  - hieuvd, antran, bien, binhle, taipham
+  - hieuvd
+  - antran
+  - bien
+  - binhle
+  - taipham
 menu: earn
 toc: false
 notice:
@@ -13,7 +17,11 @@ bounty: 100
 due_date:
 status: Done
 PICs:
-  - hieuvd, antran, bien, binhle, taipham
+  - hieuvd
+  - antran
+  - bien
+  - binhle
+  - taipham
 type: r&d
 ---
 ## **Problem definition**

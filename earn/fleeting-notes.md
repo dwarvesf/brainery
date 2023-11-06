@@ -1,7 +1,7 @@
 ---
 tags:
   - tooling
-title: "A discord cmd to receive a link, and create a brainery fleeting note"
+title: A discord cmd to receive a link, and create a brainery fleeting note
 date: 2023-10-17
 description:
 authors:

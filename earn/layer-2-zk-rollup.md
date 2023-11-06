@@ -1,7 +1,7 @@
 ---
 tags:
   - r&d
-title: "Design system for layer 2 using ZK rollup"
+title: Design system for layer 2 using ZK rollup
 date: 2023-03-27
 description:
 authors:

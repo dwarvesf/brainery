@@ -1,7 +1,7 @@
 ---
 tags:
   - tooling
-title: "A discord cmd to summary article, using ChatGPT"
+title: A discord cmd to summary article, using ChatGPT
 date: 2023-06-12
 description:
 authors:

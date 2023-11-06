@@ -1,7 +1,7 @@
 ---
 tags:
   - tooling
-title: "Company Social Graph"
+title: Company Social Graph
 date: 2022-11-29
 description:
 authors:

@@ -1,7 +1,7 @@
 ---
 tags:
   - r&d
-title: "Integrate ts-reset to nextjs boilerplate"
+title: Integrate ts-reset to nextjs boilerplate
 date: 2023-06-02
 description:
 authors:

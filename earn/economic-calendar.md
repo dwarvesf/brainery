@@ -1,7 +1,7 @@
 ---
 tags:
   - tooling
-title: "Economic calendar"
+title: Economic calendar
 date: 2023-03-27
 description:
 authors:

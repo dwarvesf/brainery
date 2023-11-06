@@ -1,7 +1,7 @@
 ---
 tags:
   - community
-title: "Rework Discord Role"
+title: Rework Discord Role
 date: 2022-11-30
 description:
 authors:

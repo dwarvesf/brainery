@@ -1,7 +1,7 @@
 ---
 tags:
   - community
-title: "Centralize Dwarves Calendar"
+title: Centralize Dwarves Calendar
 date: 2022-11-30
 description:
 authors:

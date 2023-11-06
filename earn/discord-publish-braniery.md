@@ -1,7 +1,7 @@
 ---
 tags:
   - tooling
-title: "Add new discord command to publish new brainery post"
+title: Add new discord command to publish new brainery post
 date: 2023-06-20
 description:
 authors:

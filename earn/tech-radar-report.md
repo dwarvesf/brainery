@@ -1,7 +1,7 @@
 ---
 tags:
   - tooling
-title: "Tech radar status report"
+title: Tech radar status report
 date: 2023-10-17
 description:
 authors:

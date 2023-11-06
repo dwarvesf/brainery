@@ -1,7 +1,7 @@
 ---
 tags:
   - r&d
-title: "Upgrade nextjs-boilerplate to Nextjs 13"
+title: Upgrade nextjs-boilerplate to Nextjs 13
 date: 2023-06-05
 description:
 authors:

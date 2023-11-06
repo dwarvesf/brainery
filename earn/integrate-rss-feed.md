@@ -1,7 +1,7 @@
 ---
 tags:
   - community
-title: "Integrate RSS feeds to chapter discord channels"
+title: Integrate RSS feeds to chapter discord channels
 date: 2023-03-27
 description:
 authors:

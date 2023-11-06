@@ -1,7 +1,7 @@
 ---
 tags:
   - tooling
-title: "Project Weekly Changelog Tooling"
+title: Project Weekly Changelog Tooling
 date: 2023-06-05
 description:
 authors:

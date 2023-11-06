@@ -1,7 +1,7 @@
 ---
 tags:
   - tooling
-title: "Open source Enigma checksum"
+title: Open source Enigma checksum
 date: 2022-11-30
 description:
 authors:

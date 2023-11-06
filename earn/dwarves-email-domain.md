@@ -1,7 +1,7 @@
 ---
 tags:
   - tooling
-title: "Rework Dwarves Email Domain"
+title: Rework Dwarves Email Domain
 date: 2022-11-28
 description:
 authors:

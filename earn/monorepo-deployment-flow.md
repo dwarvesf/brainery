@@ -1,7 +1,7 @@
 ---
 tags:
   - r&d
-title: "Monorepo deployment flow with Vercel"
+title: Monorepo deployment flow with Vercel
 date: 2023-06-20
 description:
 authors:

@@ -1,7 +1,7 @@
 ---
 tags:
   - r&d
-title: "Use Zod to validate schema in nextjs-boilerplate"
+title: Use Zod to validate schema in nextjs-boilerplate
 date: 2023-06-13
 description:
 authors:

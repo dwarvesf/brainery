@@ -1,7 +1,7 @@
 ---
 tags:
   - tooling
-title: "?trend command"
+title: ?trend command
 date: 2023-08-17
 description:
 authors:

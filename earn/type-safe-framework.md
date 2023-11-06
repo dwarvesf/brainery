@@ -1,7 +1,7 @@
 ---
 tags:
   - tooling
-title: "wagmi website, fork xkcd, with crm for img uploading"
+title: wagmi website, fork xkcd, with crm for img uploading
 date: 2023-08-18
 description:
 authors:
@@ -13,7 +13,8 @@ bounty: 100
 due_date:
 status: Done
 PICs:
-  - hieuphq, antran
+  - hieuphq
+  - antran
 type: tooling
 ---
 ## Background

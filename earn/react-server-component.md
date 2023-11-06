@@ -1,7 +1,7 @@
 ---
 tags:
   - r&d
-title: "React Server Componen"
+title: React Server Componen
 date: 2023-06-20
 description:
 authors:

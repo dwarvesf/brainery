@@ -1,7 +1,7 @@
 ---
 tags:
   - tooling
-title: "Brainery metrics report"
+title: Brainery metrics report
 date: 2023-06-30
 description:
 authors:

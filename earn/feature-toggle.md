@@ -1,7 +1,7 @@
 ---
 tags:
   - r&d
-title: "Feature toggle"
+title: Feature toggle
 date: 2022-11-30
 description:
 authors:

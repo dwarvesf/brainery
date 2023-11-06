@@ -1,7 +1,7 @@
 ---
 tags:
   - tooling
-title: "wagmi website, fork xkcd, with crm for img uploading"
+title: wagmi website, fork xkcd, with crm for img uploading
 date: 2023-06-14
 description:
 authors:
