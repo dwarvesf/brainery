@@ -22,7 +22,7 @@ for (const element of memoPages) {
 		else if (prop === "date" && frontmatter.created) {
 			content += `${prop}: ${frontmatter.created}\n`;
 		}
-		else if (prop === "title") {
+		else if (prop === "title" && value === undefined) {
 			content += `${prop}: ${titleCase(element.file.name)}\n`;
 		}
 		else if (prop === "tags" && typeof value == "string") {
