@@ -6,7 +6,6 @@ date: 2023-01-31
 description: null
 authors: null
 menu: memo
-menu: memo
 toc: null
 notice: null
 type: null

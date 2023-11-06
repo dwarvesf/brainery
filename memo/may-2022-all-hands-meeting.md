@@ -7,7 +7,6 @@ date: 2022-05-31
 description: null
 authors: null
 menu: memo
-menu: memo
 toc: null
 notice: null
 type: null

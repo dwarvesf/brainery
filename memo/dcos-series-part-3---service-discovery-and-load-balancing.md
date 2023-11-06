@@ -6,7 +6,6 @@ date: 2017-05-17
 description: null
 authors: null
 menu: memo
-menu: memo
 toc: null
 notice: null
 type: null

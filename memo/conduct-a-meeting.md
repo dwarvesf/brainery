@@ -6,7 +6,6 @@ date: 2018-07-10
 description: null
 authors: null
 menu: memo
-menu: memo
 toc: null
 notice: null
 type: null

@@ -6,7 +6,6 @@ date: 2020-10-24
 description: null
 authors: null
 menu: memo
-menu: memo
 toc: null
 notice: null
 type: null
