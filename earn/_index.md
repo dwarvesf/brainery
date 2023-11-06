@@ -1,25 +1,23 @@
 ---
-tags:
+tags: 
   - dwarves
   - work
-title: Dwarves Earn
+title: Dwarves Community Earn
 date: 2023-10-19
 description: null
-authors:
+authors: 
   - monotykamary
+  - hnh
 menu: main
 toc: null
 notice: null
 type: null
 show_frontmatter: false
 ---
+The Dwarves bounty program is the means through which both company peeps and the community can contribute to our daily activities. This includes tasks like building internal tools, engaging in new technology research and development, or sharing knowledge session.
 
-## Dwarves Community Bounty
-
-Dwarves bounty program is the way for both peeps and community can contribute to our day to day activities, including building internal tools, new tech r&d or knowledge sharing.
-
-**→ Apply for research team:** open ticket in [our Discord](https://discord.com/invite/dwarvesv)
-**→ To contribute**: open ticket in [our Discord](https://discord.com/invite/dwarvesv) and give @hnh a ping
+**→ Apply for research team:** open ticket in [our Discord](https://discord.com/invite/dwarvesv) 
+**→ To contribute**: open ticket in [our Discord](https://discord.com/invite/dwarvesv) and give @hnh a ping 
 
 | title                                                                | bounty  | status |
 | -------------------------------------------------------------------- | ------- | ------ |

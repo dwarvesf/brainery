@@ -20,13 +20,13 @@ for (const element of earnPage) {
 			bounty + " ICY" as bounty,
 			status
 		FROM "earn" AND !"earn/_index"
-		WHERE title != NULL
+		WHERE title != null
 		SORT status DESC
 	`);
-	content += `## Dwarves Community Bounty\n\n`;
-	content += `Dwarves bounty program is the way for both peeps and community can contribute to our day to day activities, including building internal tools, new tech r&d or knowledge sharing.\n\n`;
-	content += `**→ Apply for research team:** open ticket in [our Discord](https://discord.com/invite/dwarvesv)\n`
-	content += `**→ To contribute**: open ticket in [our Discord](https://discord.com/invite/dwarvesv) and give @hnh a ping\n\n`
+
+	content += `The Dwarves bounty program is the means through which both company peeps and the community can contribute to our daily activities. This includes tasks like building internal tools, engaging in new technology research and development, or sharing knowledge session.\n\n`;
+	content += `**→ Apply for research team:** open ticket in [our Discord](https://discord.com/invite/dwarvesv) \n`
+	content += `**→ To contribute**: open ticket in [our Discord](https://discord.com/invite/dwarvesv) and give @hnh a ping \n\n`
 	content += earnArticles.value;
 
 	// get folder and file path
