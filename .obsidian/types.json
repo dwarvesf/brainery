@@ -11,6 +11,7 @@
     "due_date": "date",
     "PICs": "multitext",
     "completion_date": "date",
-    "publish": "checkbox"
+    "publish": "checkbox",
+    "show_frontmatter": "checkbox"
   }
 }

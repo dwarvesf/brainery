@@ -7,30 +7,13 @@
       ""
     ]
   ],
-  "trigger_on_file_creation": false,
+  "trigger_on_file_creation": true,
   "auto_jump_to_cursor": false,
   "enable_system_commands": true,
   "shell_path": "",
   "user_scripts_folder": "",
-  "enable_folder_templates": false,
-  "folder_templates": [
-    {
-      "folder": "earn",
-      "template": "_templater/New Earn.md"
-    },
-    {
-      "folder": "memo",
-      "template": "_templater/New Post.md"
-    },
-    {
-      "folder": "playbook",
-      "template": "_templater/New Post.md"
-    },
-    {
-      "folder": "hiring",
-      "template": "_templater/New Post.md"
-    }
-  ],
+  "enable_folder_templates": true,
+  "folder_templates": [],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": true,
   "enabled_templates_hotkeys": [
