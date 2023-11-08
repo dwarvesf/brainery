@@ -1,14 +1,14 @@
 ---
-tags:
+tags: 
   - dwarves
   - work
 title: Dwarves Memo
 date: 2023-10-19
-description: 
-authors: 
+description: null
+authors: null
 menu: memo
-toc: 
-notice: 
+toc: null
+notice: null
 type: memo
 show_frontmatter: false
 ---
