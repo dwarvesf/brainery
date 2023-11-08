@@ -1,7 +1,17 @@
 ---
-status: Adopt
+tags: null
+title: Migrate Yarn To Pnpm In Nghe Nhan Droppii
 date: 2023-07-21
-note: 
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+status: Adopt
+note: null
 person: Thanh Pham, Chinh Le
 ---
 

@@ -1,11 +1,21 @@
 ---
-confidence: 
-assign: 
-priority: 
-status: 
-date: 
+tags: null
+title: Duckdb
+date: null
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+confidence: null
+assign: null
+priority: null
+status: null
 quadrant: Tools
-tag: 
+tag: null
 ---
 
 <!-- table_of_contents 282332bc-e49e-4234-a386-5ad0d0050320 -->

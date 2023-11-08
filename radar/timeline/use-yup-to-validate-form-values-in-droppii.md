@@ -1,7 +1,17 @@
 ---
-status: Assess
+tags: null
+title: Use Yup To Validate Form Values In Droppii
 date: 2022-10-03
-note: 
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+status: Assess
+note: null
 person: Thanh Pham
 ---
 

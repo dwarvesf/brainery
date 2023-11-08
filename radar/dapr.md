@@ -1,9 +1,19 @@
 ---
-confidence: 
+tags: null
+title: Dapr
+date: null
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+confidence: null
 assign: Tom X Nguyen
-priority: 
+priority: null
 status: Archived
-date: 
 quadrant: Platforms
 tag: DevOps
 ---

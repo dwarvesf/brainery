@@ -1,7 +1,17 @@
 ---
-status: Assess
+tags: null
+title: Reinforcement Learning
 date: 2023-06-15
-note: 
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+status: Assess
+note: null
 person: Thanh Pham
 ---
 

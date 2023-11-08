@@ -1,9 +1,19 @@
 ---
+tags: null
+title: Event Sourcing
+date: null
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
 confidence: Low
 assign: Tom X Nguyen
-priority: 
+priority: null
 status: Hold
-date: 
 quadrant: Techniques
 tag: Database, Backend
 ---

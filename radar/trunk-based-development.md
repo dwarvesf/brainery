@@ -1,9 +1,19 @@
 ---
-confidence: 
+tags: null
+title: Trunk Based Development
+date: null
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+confidence: null
 assign: Thanh Pham
-priority: 
+priority: null
 status: Backlog
-date: 
 quadrant: Techniques
 tag: DevOps
 ---

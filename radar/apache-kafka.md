@@ -1,9 +1,19 @@
 ---
+tags: null
+title: Apache Kafka
+date: null
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
 confidence: Low
 assign: Thanh Pham
-priority: 
+priority: null
 status: Backlog
-date: 
 quadrant: Platforms
 tag: Backend
 ---

@@ -1,9 +1,19 @@
 ---
+tags: null
+title: Team Topologies
+date: null
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
 confidence: Moderate
 assign: Thanh Pham
-priority: 
+priority: null
 status: Archived
-date: 
 quadrant: Techniques
 tag: Management, Process
 ---

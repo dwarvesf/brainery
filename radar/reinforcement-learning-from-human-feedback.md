@@ -1,9 +1,19 @@
 ---
+tags: null
+title: Reinforcement Learning From Human Feedback
+date: 2023-06-01
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
 confidence: Moderate
 assign: Thanh Pham
 priority: 🎯FOCUS
 status: Hold
-date: 2023-06-01
 quadrant: Frameworks
 tag: Backend
 ---

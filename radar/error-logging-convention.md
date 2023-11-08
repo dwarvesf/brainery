@@ -1,9 +1,19 @@
 ---
-confidence: 
+tags: null
+title: Error Logging Convention
+date: null
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+confidence: null
 assign: Andy Hieu Phan
-priority: 
+priority: null
 status: Backlog
-date: 
 quadrant: Techniques
 tag: Backend
 ---

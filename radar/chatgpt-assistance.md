@@ -1,9 +1,19 @@
 ---
-confidence: 
+tags: null
+title: Chatgpt Assistance
+date: null
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+confidence: null
 assign: hnh
 priority: 🌟 NEW
 status: Adopt
-date: 
 quadrant: Tools
 tag: Automation
 ---

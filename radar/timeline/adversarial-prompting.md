@@ -1,7 +1,17 @@
 ---
-status: Trial
+tags: null
+title: Adversarial Prompting
 date: 2023-07-10
-note: 
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+status: Trial
+note: null
 person: Thanh Pham
 ---
 

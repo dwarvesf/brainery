@@ -1,7 +1,17 @@
 ---
-status: Trial
+tags: null
+title: Use Monorepos To Resolve The Problem Of Sharing Ui Components In Aharoom
 date: 2018-09-11
-note: 
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+status: Trial
+note: null
 person: Thanh Pham
 ---
 

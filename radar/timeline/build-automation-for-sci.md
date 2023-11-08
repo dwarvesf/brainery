@@ -1,7 +1,17 @@
 ---
-status: Adopt
+tags: null
+title: Build Automation For Sci
 date: 2020-09-10
-note: 
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+status: Adopt
+note: null
 person: Steve Huynh
 ---
 

@@ -1,7 +1,17 @@
 ---
-status: Assess
+tags: null
+title: Vercel Switching Their Packages From Yarn To Pnpm Caught Our Attention
 date: 2022-05-26
-note: 
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+status: Assess
+note: null
 person: Thanh Pham
 ---
 

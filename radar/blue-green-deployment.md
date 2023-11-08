@@ -1,9 +1,19 @@
 ---
+tags: null
+title: Blue Green Deployment
+date: null
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
 confidence: Moderate
 assign: quang
-priority: 
+priority: null
 status: Trial
-date: 
 quadrant: Techniques
 tag: DevOps
 ---

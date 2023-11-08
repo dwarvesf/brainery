@@ -1,9 +1,19 @@
 ---
+tags: null
+title: Prompt Engineering
+date: null
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
 confidence: Moderate
 assign: Thanh Pham
 priority: 🎯FOCUS
 status: Trial
-date: 
 quadrant: Techniques
 tag: Backend
 ---

@@ -1,9 +1,19 @@
 ---
+tags: null
+title: Large Language Model Llm
+date: 2023-04-10
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
 confidence: Moderate
 assign: Tom X Nguyen
 priority: 🎯FOCUS
 status: Trial
-date: 2023-04-10
 quadrant: Frameworks
 tag: Backend
 ---

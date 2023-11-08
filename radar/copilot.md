@@ -1,9 +1,19 @@
 ---
+tags: null
+title: Copilot
+date: null
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
 confidence: Moderate
 assign: Tay DF
-priority: 
+priority: null
 status: Archived
-date: 
 quadrant: Tools
 tag: Automation
 ---

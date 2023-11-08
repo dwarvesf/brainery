@@ -1,7 +1,17 @@
 ---
-status: Trial
+tags: null
+title: Sum Command
 date: 2023-06-16
-note: 
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+status: Trial
+note: null
 person: Minh Luu
 ---
 

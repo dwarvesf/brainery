@@ -1,7 +1,17 @@
 ---
-status: Adopt
+tags: null
+title: Why We Chose Our Tech Stack
 date: 2023-03-20
-note: 
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+status: Adopt
+note: null
 person: Thanh Pham, Khac Vy
 ---
 

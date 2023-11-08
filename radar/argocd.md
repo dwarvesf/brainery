@@ -1,9 +1,19 @@
 ---
+tags: null
+title: Argocd
+date: null
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
 confidence: High
 assign: quang
-priority: 
+priority: null
 status: Adopt
-date: 
 quadrant: Platforms
 tag: DevOps
 ---

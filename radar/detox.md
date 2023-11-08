@@ -1,9 +1,19 @@
 ---
+tags: null
+title: Detox
+date: null
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
 confidence: Moderate
-assign: 
-priority: 
+assign: null
+priority: null
 status: Archived
-date: 
 quadrant: Frameworks
 tag: Testing, Automation, React-Native
 ---

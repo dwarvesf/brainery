@@ -1,9 +1,19 @@
 ---
-confidence: 
+tags: null
+title: React Query
+date: null
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+confidence: null
 assign: An Tran
 priority: 🌟 NEW
 status: Assess
-date: 
 quadrant: Frameworks
 tag: Frontend
 ---

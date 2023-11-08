@@ -1,7 +1,17 @@
 ---
-status: Adopt
+tags: null
+title: Radio Talk Using Nextjs As A Fullstack Framework
 date: 2022-11-28
-note: 
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+status: Adopt
+note: null
 person: Toan Ho
 ---
 

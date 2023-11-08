@@ -1,7 +1,17 @@
 ---
-status: Adopt
+tags: null
+title: Llms Accuracy Self Refinement
 date: 2023-07-11
-note: 
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+status: Adopt
+note: null
 person: Thanh Pham
 ---
 

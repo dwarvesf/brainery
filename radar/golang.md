@@ -1,9 +1,19 @@
 ---
+tags: null
+title: Golang
+date: null
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
 confidence: High
 assign: Andy Hieu Phan
-priority: 
+priority: null
 status: Adopt
-date: 
 quadrant: Languages
 tag: Backend
 ---

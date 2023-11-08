@@ -1,9 +1,19 @@
 ---
-confidence: 
+tags: null
+title: Playwright
+date: null
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+confidence: null
 assign: Steve Huynh, Tuan Tran, Ngan Le Kim
-priority: 
+priority: null
 status: Trial
-date: 
 quadrant: Frameworks
 tag: Testing, Automation
 ---

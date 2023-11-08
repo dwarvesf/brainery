@@ -1,9 +1,19 @@
 ---
+tags: null
+title: Figma
+date: null
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
 confidence: High
-assign: 
-priority: 
+assign: null
+priority: null
 status: Adopt
-date: 
 quadrant: Tools
 tag: Design
 ---

@@ -1,7 +1,17 @@
 ---
-status: Adopt
+tags: null
+title: Apply Page Object Model Structure To Artzy
 date: 2020-09-17
-note: 
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+status: Adopt
+note: null
 person: Steve Huynh
 ---
 

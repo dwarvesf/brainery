@@ -1,7 +1,17 @@
 ---
-status: Assess
+tags: null
+title: Learn Typescript As A Mandatory To Develop Reapit Foundation
 date: 2019-03-11
-note: 
-person: 
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+status: Assess
+note: null
+person: null
 ---
 

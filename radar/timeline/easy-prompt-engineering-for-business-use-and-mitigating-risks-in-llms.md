@@ -1,7 +1,17 @@
 ---
-status: Trial
+tags: null
+title: Easy Prompt Engineering For Business Use And Mitigating Risks In Llms
 date: 2023-05-19
-note: 
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+status: Trial
+note: null
 person: Tom X Nguyen
 ---
 

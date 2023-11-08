@@ -1,7 +1,17 @@
 ---
-status: Assess
+tags: null
+title: Brainery Validation With Zod
 date: 2023-01-17
-note: 
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+status: Assess
+note: null
 person: Nam Trần Hoàng
 ---
 

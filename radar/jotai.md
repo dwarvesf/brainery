@@ -1,12 +1,21 @@
 ---
-confidence: 
-assign: "\x1dHien Le"
-priority: 
-status: Backlog
-date: 
-quadrant: Tools
-tags:
+tags: 
   - Frontend
+title: Jotai
+date: null
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+confidence: null
+assign: Hien Le
+priority: null
+status: Backlog
+quadrant: Tools
 ---
 
 <!-- table_of_contents df7ca1cc-8ce8-47ec-afc5-911e821a5f75 -->

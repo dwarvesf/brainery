@@ -1,7 +1,17 @@
 ---
-status: Trial
+tags: null
+title: Apply Blue Green Deployment To Mochi
 date: 2023-03-11
-note: 
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+status: Trial
+note: null
 person: quang
 ---
 

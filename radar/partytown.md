@@ -1,9 +1,19 @@
 ---
-confidence: 
-assign: 
+tags: null
+title: Partytown
+date: null
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+confidence: null
+assign: null
 priority: 🌟 NEW
 status: Backlog
-date: 
 quadrant: Tools
 tag: Frontend
 ---

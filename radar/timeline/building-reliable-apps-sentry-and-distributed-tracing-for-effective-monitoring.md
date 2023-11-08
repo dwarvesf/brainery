@@ -1,7 +1,17 @@
 ---
-status: Adopt
+tags: null
+title: Building Reliable Apps Sentry And Distributed Tracing For Effective Monitoring
 date: 2023-08-22
-note: 
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
+status: Adopt
+note: null
 person: Dat Pham
 ---
 

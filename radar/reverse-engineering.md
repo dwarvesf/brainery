@@ -1,9 +1,19 @@
 ---
+tags: null
+title: Reverse Engineering
+date: 2023-07-25
+description: null
+authors: null
+menu: radar
+menu: null
+toc: null
+notice: null
+type: null
+show_frontmatter: true
 confidence: Moderate
 assign: Andy Hieu Phan
 priority: 🌟 NEW
 status: Backlog
-date: 2023-07-25
 quadrant: Techniques
 tag: Engineering
 ---
