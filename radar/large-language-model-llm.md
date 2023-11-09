@@ -5,7 +5,6 @@ date: 2023-04-10
 description: null
 authors: null
 menu: radar
-menu: null
 toc: null
 notice: null
 type: null

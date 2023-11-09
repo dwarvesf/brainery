@@ -16,7 +16,7 @@ for (const element of memoPages) {
 		if (prop === "menu" && value === undefined) {
 			content += `${prop}: earn\n`;
 		}
-		if (prop === "show_frontmatter" && value === undefined) {
+		else if (prop === "show_frontmatter" && value === undefined) {
 			content += `${prop}: true\n`;
 		}
 		else if (prop === "date" && frontmatter.created) {
