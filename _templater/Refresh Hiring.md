@@ -4,7 +4,6 @@ const hiringPage = dv.pages(`"hiring/_index.md"`);
 const readme = dv.pages(`"hiring/README.md"`);
 const readmeFile = await app.vault.getAbstractFileByPath(readme[0].file.path);
 const readmeContent = await app.vault.read(readmeFile);
-console.log(readmeContent);
 
 for (const element of hiringPage) {
 	let content = "---\n";

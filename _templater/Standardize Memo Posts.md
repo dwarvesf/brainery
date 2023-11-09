@@ -1,7 +1,7 @@
 <%*
 const dv = this.app.plugins.plugins["dataview"].api;
 const postTemplate = dv.pages(`"_templater/New Post"`);
-const memoPages = dv.pages(`"memo"`)
+const memoPages = dv.pages(`"memo and !memo/README.md"`)
 
 const titleCase = (s) => s
 	.replace (/^[-_]*(.)/, (_, c) => c.toUpperCase())

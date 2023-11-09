@@ -1,13 +1,13 @@
 <%*
 const dv = this.app.plugins.plugins["dataview"].api;
 const postTemplate = dv.pages(`"_templater/New Post"`);
-const memoPages = dv.pages(`"hiring"`)
+const hiringPages = dv.pages(`"hiring and !hiring/README.md"`)
 
 const titleCase = (s) => s
 	.replace (/^[-_]*(.)/, (_, c) => c.toUpperCase())
 	.replace (/[-_]+(.)/g, (_, c) => ' ' + c.toUpperCase())
 
-for (const element of memoPages) {
+for (const element of hiringPages) {
 	const frontmatter = { ...postTemplate[0].file.frontmatter, ...element.file.frontmatter };
 	let content = "---\n";
 	for (const prop in frontmatter) {
