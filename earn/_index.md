@@ -57,6 +57,6 @@ The Dwarves bounty program is the means through which both company peeps and the
 | [[earn/chatbot-prompt-size.md\|Chatbot Prompt Size]]                 | 30 ICY  | Done   |
 | [[earn/chatbot-memory.md\|Chatbot Memory]]                           | 100 ICY | Done   |
 | [[earn/chatbot-llm-accuracy.md\|Chatbot Llm Accuracy]]               | 100 ICY | Done   |
-| [[earn/centralize-dwarves-calendar.md\|Centralize Dwarves Calendar]] | 30 ICY  | Done   |
 | [[earn/chatbot-adversarial-prompt.md\|Chatbot Adversarial Prompt]]   | 30 ICY  | Done   |
+| [[earn/centralize-dwarves-calendar.md\|Centralize Dwarves Calendar]] | 30 ICY  | Done   |
 | [[earn/brainery-metrics-report.md\|Brainery Metrics Report]]         | 100 ICY | Done   |
