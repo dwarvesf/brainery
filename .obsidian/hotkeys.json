@@ -16,11 +16,20 @@
       "key": "["
     }
   ],
-  "image-converter:process-all-images-current-note": [
+  "obsidian-local-images-plus:download-images": [
     {
       "modifiers": [
         "Mod",
         "Shift"
+      ],
+      "key": "I"
+    }
+  ],
+  "image-converter:process-all-images-current-note": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
       ],
       "key": "I"
     }

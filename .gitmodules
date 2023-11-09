@@ -1,3 +1,6 @@
 [submodule "playbook"]
 	path = playbook
 	url = git@github.com:dwarvesf/playbook.git
+[submodule "hiring"]
+	path = hiring
+	url = git@github.com:dwarvesf/WeAreHiring.git

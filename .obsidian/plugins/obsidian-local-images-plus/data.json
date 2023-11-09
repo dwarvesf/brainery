@@ -3,7 +3,7 @@
   "ignoredExt": "cnt|php|htm|html",
   "processAll": true,
   "useCaptions": true,
-  "pathInTags": "fullDirPath",
+  "pathInTags": "onlyRelative",
   "downUnknown": false,
   "saveAttE": "nextToNoteS",
   "realTimeUpdate": true,
@@ -18,8 +18,8 @@
   "useMD5ForNewAtt": true,
   "removeMediaFolder": true,
   "removeOrphansCompl": false,
-  "PngToJpeg": true,
-  "PngToJpegLocal": true,
+  "PngToJpeg": false,
+  "PngToJpegLocal": false,
   "JpegQuality": 80,
   "DoNotCreateObsFolder": false
 }
