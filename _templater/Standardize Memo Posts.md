@@ -25,7 +25,11 @@ for (const element of memoPages) {
 		else if (prop === "title" && value === undefined) {
 			content += `${prop}: ${titleCase(element.file.name)}\n`;
 		}
-		else if (prop === "tags" && typeof value == "string") {
+		else {
+			content += `${prop}: ${frontmatter[prop]}`
+		}
+
+		if (prop === "tags" && typeof value == "string") {
 			content += `${prop}: \n  - ${value.split(", ").join("\n  - ")}\n`;
 		}
 		else if (Array.isArray(value) && value.length > 0) {
