@@ -9,7 +9,6 @@ avatar: null
 undefined
 ## Written Notes
 
-- [[earn/_index.md|Dwarves Community Earn]]
 - [[earn/consulting-map.md|Consulting Map]]
 - [[earn/discord-role.md|Discord Role]]
 - [[earn/dwarvesf-map.md|Dwarvesf Map]]
@@ -17,3 +16,4 @@ undefined
 - [[earn/financial-literacy-outline.md|Financial Literacy Outline]]
 - [[earn/fortress-mma-score.md|Fortress Mma Score]]
 - [[earn/fortress-shanky-data.md|Fortress Shanky Data]]
+- [[earn/_index.md|Dwarves Community Earn]]
