@@ -33,5 +33,14 @@
       ],
       "key": "I"
     }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "\\"
+    }
   ]
 }
