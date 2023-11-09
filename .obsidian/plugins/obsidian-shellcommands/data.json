@@ -25,7 +25,7 @@
     {
       "id": "0pdwubkiwo",
       "platform_specific_commands": {
-        "default": "git submodule update --init --recursive"
+        "default": "git submodule update --init --recursive && "
       },
       "shells": {},
       "alias": "",
