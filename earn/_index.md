@@ -41,8 +41,8 @@ The Dwarves bounty program is the means through which both company peeps and the
 | [[earn/monorepo-deployment-flow.md\|Monorepo Deployment Flow]]       | 80 ICY  | Done   |
 | [[earn/locale-web-mobile.md\|Locale Web Mobile]]                     | 100 ICY | Done   |
 | [[earn/layer-2-zk-rollup.md\|Layer 2 Zk Rollup]]                     | 100 ICY | Done   |
-| [[earn/integrate-rss-feed.md\|Integrate Rss Feed]]                   | 50 ICY  | Done   |
 | [[earn/integrate-ts-reset.md\|Integrate Ts Reset]]                   | 10 ICY  | Done   |
+| [[earn/integrate-rss-feed.md\|Integrate Rss Feed]]                   | 50 ICY  | Done   |
 | [[earn/hunger-game.md\|Hunger Game]]                                 | 100 ICY | Done   |
 | [[earn/financial-literacy-outline.md\|Financial Literacy Outline]]   | 45 ICY  | Done   |
 | [[earn/feature-toggle.md\|Feature Toggle]]                           | 100 ICY | Done   |
@@ -50,13 +50,13 @@ The Dwarves bounty program is the means through which both company peeps and the
 | [[earn/engagament-log.md\|Engagament Log]]                           | 100 ICY | Done   |
 | [[earn/economic-calendar.md\|Economic Calendar]]                     | 40 ICY  | Done   |
 | [[earn/dwarves-email-domain.md\|Dwarves Email Domain]]               | 100 ICY | Done   |
-| [[earn/discord-publish-braniery.md\|Discord Publish Braniery]]       | 40 ICY  | Done   |
 | [[earn/discord-role.md\|Discord Role]]                               | 20 ICY  | Done   |
+| [[earn/discord-publish-braniery.md\|Discord Publish Braniery]]       | 40 ICY  | Done   |
 | [[earn/company-social-graph.md\|Company Social Graph]]               | 40 ICY  | Done   |
 | [[earn/company-signature.md\|Company Signature]]                     | 20 ICY  | Done   |
 | [[earn/chatbot-prompt-size.md\|Chatbot Prompt Size]]                 | 30 ICY  | Done   |
 | [[earn/chatbot-memory.md\|Chatbot Memory]]                           | 100 ICY | Done   |
 | [[earn/chatbot-llm-accuracy.md\|Chatbot Llm Accuracy]]               | 100 ICY | Done   |
-| [[earn/chatbot-adversarial-prompt.md\|Chatbot Adversarial Prompt]]   | 30 ICY  | Done   |
 | [[earn/centralize-dwarves-calendar.md\|Centralize Dwarves Calendar]] | 30 ICY  | Done   |
+| [[earn/chatbot-adversarial-prompt.md\|Chatbot Adversarial Prompt]]   | 30 ICY  | Done   |
 | [[earn/brainery-metrics-report.md\|Brainery Metrics Report]]         | 100 ICY | Done   |
