@@ -11,6 +11,6 @@ type: null
 show_frontmatter: true
 status: Adopt
 note: null
-person: Hien Le
+person: Hien Le
 ---
 
