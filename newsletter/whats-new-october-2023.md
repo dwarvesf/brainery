@@ -41,7 +41,7 @@ We think of this site as our company wiki. It's where we note (hence the name) a
 
 With [note.d.foundation](note.d.foundation), we hope the time and effort we spent being in the tech industry will become valuable lessons and stories for everyone who also cares about technology and innovation like we do.
 
-Community members are welcome to share their learning notes with us too, by dropping a message in relevant channels in our [Discord](http://discord.gg/dwarvesv)
+Community members are welcome to share their learning notes too. Simply drop a message in relevant channels in our [Discord](http://discord.gg/dwarvesv)
 
 
 ## New functional teams
@@ -54,15 +54,12 @@ In October, we re-organized the core team into 5 functional teams with clear res
 - Techie: folks enjoying celebrating humans in tech
 - Ventures: investing in cool tech teams and products
 
-Once we can prove this new model is effective, we hope to onboard community members with the same passion in tech to join with us.
-
-
 ## MMA-based career development
 
 The only legit performance indicator at Dwarves is MMA; Mastery - Meaning - Autonomous.
 
 - Mastery: Are you highly talented skilled? Are you doing anything to become even better?
-- Meaning: Do you work just for the money? Or do you have a purpose in the tech industry?
+- Meaning: Do you work just for the money, or do you have a purpose in the tech industry?
 - Autonomy: Are you proactive? Are you a high performer?
 
 Since we adopted this model last year, everything we do revolve around it. Thanks to the consistency, we have been able to see improved performance, higher drive at work, more transparency across project teams, and more peeps expressed their interested in R&D activities.
