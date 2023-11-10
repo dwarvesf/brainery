@@ -76,7 +76,7 @@ Our free FE Course is successfully finished. The stats are astounding, because c
 
 When [Droppii](http://droppii.com/en/) first came to Dwarves, their products were built on an outdated tech stack and couldn't handle their fast growing user base.
 
-When we came onboard as a technical partner, we helped develop the tech foundation, shape up their processes, workflows and also participates in development. After 15 months of working together, we have completed our mission with helping Droppii build & run their own tech teams, and shipping 4 different products.
+When we came onboard as a technical partner, we helped develop the tech foundation, shape up their processes, and also participates in development. After 15 months, we have completed our mission with helping Droppii build & run their own tech teams, and shipping 4 different products.
 
 
 ### Community Growth
