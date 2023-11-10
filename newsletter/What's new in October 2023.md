@@ -4,11 +4,12 @@ tags:
   - work
 title: What's new in October 2023
 date: 2023-11-10
-description: 
-authors: 
-menu: 
+description: Updates across October 2023.
+authors:
+  - nikki
+menu: newsletter
 toc: false
 notice: 
-type: 
+type: newsletter
 show_frontmatter: true
 ---
