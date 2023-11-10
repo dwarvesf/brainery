@@ -4,7 +4,7 @@ tags:
   - work
 title: What's New in October 2023
 date: 2023-11-10
-description: Each month, we release a recap noting all the significant changes with our company and our team.
+description: Each month, we release a recap noting all the significant changes with our company and our team. October is our month for open-source and reflections.
 authors:
   - nikki
 menu: newsletter
