@@ -32,7 +32,11 @@ For our tech people, you only need `git` and some basic knowledge on how to clon
 - [Git Credential Manager](https://github.com/git-ecosystem/git-credential-manager/blob/release/docs/install.md)
 - [GitHub Desktop](https://desktop.github.com/)
 
-You will also need to add an [SSH key to your GitHub settings](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account). You can run our script 
+You will also need to add an [SSH key to your GitHub settings](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account). You can run our script to create and copy a key to your clipboard:
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/dwarvesf/note.d.foundation/main/ssh-keygen.sh | sh
+```
 
 ### Working with our content
 
