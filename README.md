@@ -29,7 +29,8 @@ The general idea is getting this repository to load as a "vault" in Obsidian. Th
 
 For our tech people, you only need `git` and some basic knowledge on how to clone a repository, and you should be good. For everyone else, we recommend installing the following packages:
 
-- G
+- [Git Credential Manager](https://github.com/git-ecosystem/git-credential-manager/blob/release/docs/install.md)
+- 
 
 ### Working with our content
 
