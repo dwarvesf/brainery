@@ -31,7 +31,8 @@ For our tech people, you only need `git` and some basic knowledge on how to clon
 
 - [Git Credential Manager](https://github.com/git-ecosystem/git-credential-manager/blob/release/docs/install.md)
 - [GitHub Desktop](https://desktop.github.com/)
-- 
+
+You will also e
 
 ### Working with our content
 
