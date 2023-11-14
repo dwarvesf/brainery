@@ -6,8 +6,8 @@ This repo contains the practices and notes of the Dwarves Foundation, a software
 
 We use some plugins to enhance our workflow on Obsidian, such as:
 
-- [Obsidian Git] ( )
-- [ImageConverter](https://github.com/xryul/obsidian-image-converter): A plugin that helps with mass compression of local images
+- [Obsidian Git](https://github.com/denolehov/obsidian-git) A plugin that helps with automating git interactions for our non-tech folks.
+- [ImageConverter](https://github.com/xryul/obsidian-image-converter): A plugin that helps with mass compression of local images.
 - [Local Images Plus](https://github.com/Sergei-Korneev/obsidian-local-images-plus): A plugin that helps compress and localize images.
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview): A SQL-like plugin that helps us query and manage our Obsidian vault as a database.
 - [Templater](https://github.com/SilentVoid13/Templater): A plugin to help automate templates and run arbitrary code on our vault.
@@ -25,6 +25,13 @@ We use some plugins to enhance our workflow on Obsidian, such as:
 ## Getting Started
 
 The general idea is getting this repository to load as a "vault" in Obsidian. The configuration files are baked into the repository, so you don't need to mess with the settings.
+### Prerequisites
+
+For our tech people, you only need `git` and some basic knowledge on how to clone a repository, and you should be good. For everyone else, we recommend installing the following packages:
+
+- G
+
+### Working with our content
 
 1. Clone this repository with either git or GitHub Desktop. You can get started with GitHub Desktop here: https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop. Otherwise:
 	```
