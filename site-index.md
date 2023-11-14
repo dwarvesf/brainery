@@ -182,6 +182,7 @@ notice: null
 - [[earn/_index.md|Dwarves Community Earn]]
 - [[earn/dwarves-email-domain.md|Dwarves Email Domain]]
 - [[memo/dwarves-foundation-apprenticeship-batch-of-2022.md|Dwarves Foundation Apprenticeship Batch Of 2022]]
+- [[memo/_index.md|Dwarves Memo]]
 - [[newsletter/_index.md|Dwarves Newsletter]]
 - [[memo/dwarves-of-2021.md|Dwarves Of 2021]]
 - [[memo/dwarves-of-the-year-2022.md|Dwarves Of The Year 2022]]
