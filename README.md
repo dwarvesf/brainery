@@ -6,6 +6,8 @@ This repo contains the practices and notes of the Dwarves Foundation, a software
 
 We use some plugins to enhance our workflow on Obsidian, such as:
 
+- [Obsidian Git] ( )
+- [ImageConverter](https://github.com/xryul/obsidian-image-converter): A plugin that helps with mass compression of local images
 - [Local Images Plus](https://github.com/Sergei-Korneev/obsidian-local-images-plus): A plugin that helps compress and localize images.
 - [Dataview](https://github.com/blacksmithgu/obsidian-dataview): A SQL-like plugin that helps us query and manage our Obsidian vault as a database.
 - [Templater](https://github.com/SilentVoid13/Templater): A plugin to help automate templates and run arbitrary code on our vault.
