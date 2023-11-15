@@ -100,7 +100,7 @@ When we came on board as a technical partner, we helped develop the tech foundat
 
 **Q: How can I contribute to Dwarves network?**
 > Everyone can contribute knowledge in our [Discord](http://discord.gg/dwarvesv) and/or contribute to our [Bounties](http://earn.d.foundation).
-> All valuable contributions will be rewarded in ICY ( 1 ICY ~ #1.5)
+> All valuable contributions will be rewarded in ICY ( 1 ICY ~ $1.5)
 
 **Q: Do Dwarves have any events?**
 > We have these reoccurring events:
