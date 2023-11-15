@@ -31,7 +31,7 @@ Each month, we release a recap noting all the significant changes in our company
 For a tech team like Dwarves, there are only a few things that matter. Coming to the end of the year, we're reflecting and re-enforcing what matters to us.
 - Cross-team transparency: we're bringing more documentation, reports, cross-team meetings so everyone knows what the others are up to.
 - R&D: fueled by innovations, more hands are joining R&D to learn the next best thing in tech and programming.
-- Diverse projects: we are now more open to whichever projects that can promise an exciting challenges, regardless of domain, scale, duration.
+- Diverse projects: we are now more open to whichever projects that can promise an exciting challenge, regardless of domain, scale, or duration.
 
 ## note.d.foundation
 
