@@ -30,9 +30,9 @@ The Dwarves bounty program is the means through which both company peeps and the
 | [[earn/dwarvesf-map.md\|Dwarvesf Map]]                               | 80 ICY  | Open   |
 | [[earn/consulting-map.md\|Consulting Map]]                           | 80 ICY  | Open   |
 | [[earn/zod-nextjs-boilerplate.md\|Zod Nextjs Boilerplate]]           | 10 ICY  | Done   |
+| [[earn/type-safe-framework.md\|Type Safe Framework]]                 | 100 ICY | Done   |
 | [[earn/wagmi-website.md\|Wagmi Website]]                             | 150 ICY | Done   |
 | [[earn/upgraed-nextjs-boilerplate.md\|Upgraed Nextjs Boilerplate]]   | 10 ICY  | Done   |
-| [[earn/type-safe-framework.md\|Type Safe Framework]]                 | 100 ICY | Done   |
 | [[earn/treasure-hunt.md\|Treasure Hunt]]                             | 100 ICY | Done   |
 | [[earn/summary-article.md\|Summary Article]]                         | 60 ICY  | Done   |
 | [[earn/react-server-component.md\|React Server Component]]           | 20 ICY  | Done   |
