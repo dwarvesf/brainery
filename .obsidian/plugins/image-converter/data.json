@@ -1,5 +1,5 @@
 {
-  "autoRename": false,
+  "autoRename": true,
   "convertToWEBP": true,
   "convertToJPG": false,
   "convertToPNG": false,
