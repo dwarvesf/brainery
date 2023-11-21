@@ -181,6 +181,7 @@ show_frontmatter: false
 - [[memo/message-queues-and-streaming-platforms-eg-kafka-nats-rabbitmq.md|Message Queues And Streaming Platforms Eg Kafka Nats Rabbitmq]]
 - [[memo/micro-frontends---microservices-for-frontend-development.md|Micro Frontends Microservices For Frontend Development]]
 - [[memo/objective.md|Objective]]
+- [[memo/october-forward-engineering.md|October Forward Engineering]]
 - [[memo/ogif.md|Ogif]]
 - [[memo/open-fabric-set-the-tech-foundation-and-built-an-mvp-from-scratch.md|Open Fabric Set The Tech Foundation And Built An Mvp From Scratch]]
 - [[memo/our-daily-standup-format.md|Our Daily Standup Format]]
