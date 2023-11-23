@@ -25,6 +25,7 @@ For R&D activities, there are a few factors will contribute to your performance:
 
 1. **Alignment with Team Objectives:** Your research should be aligned with topics identified as crucial for the future growth and success of our team.
 2. **Relevance to Sales and Consulting Team:** The outcomes of your R&D activities should resonate with the interests and needs of our sales and consulting teams.
+3. **Personal Topic Selection:** While topic selection is often a collective effort, we acknowledge that your preferred tech might not always be on the list. We understand that our choices may not always be perfect. If you have a topic you're passionate about and believe in its potential, we encourage you to pursue it. Please keep us informed about your progress and demonstrate the value of your chosen topic.
 
 ### ****Goal Setting and Review Process****
 
