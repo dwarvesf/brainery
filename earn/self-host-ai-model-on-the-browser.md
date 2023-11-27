@@ -1,32 +1,32 @@
 ---
-tags:
+tags: 
   - labs
   - AI
   - browser
   - wasm
 title: Self-host AI model in the browser
-product: 
+product: null
 date: 2023-11-27
 description: Deploy an AI model directly in the browser for applications like OCR for security cameras or private browser chatbots.
-authors: 
-menu: 
-toc: 
-notice: 
-due_date: 
+authors: null
+menu: null
+toc: null
+notice: null
+due_date: null
 status: Figure Out
-PICs: 
-completion_date: 
+PICs: null
+completion_date: null
 bounty: 150
 show_frontmatter: false
-function: 
-🔺_priority: 
+function: null
+🔺_priority: null
 reward_🧊: 150
-remark: 
-requester: 
-ranking: 
-pi_cs: 
-start_date: 
-progress:
+remark: null
+requester: null
+ranking: null
+pi_cs: null
+start_date: null
+progress: null
 ---
 
 Deploy an AI model directly in the browser for applications like OCR for security cameras or private browser chatbots.

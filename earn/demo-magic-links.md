@@ -1,32 +1,32 @@
 ---
-tags:
+tags: 
   - magic-links
   - passwordless
   - labs
-title: "Demo: Magic Links"
-product: 
+title: Demo: Magic Links
+product: null
 date: 2023-11-27
 description: Implement a 'Magic Link' system for passwordless authentication.
-authors: 
-menu: 
-toc: 
-notice: 
-due_date: 
+authors: null
+menu: null
+toc: null
+notice: null
+due_date: null
 status: Figure Out
-PICs: 
-completion_date: 
+PICs: null
+completion_date: null
 bounty: 100
-show_frontmatter: 
-type: 
-function: 
-🔺_priority: 
+show_frontmatter: null
+type: null
+function: null
+🔺_priority: null
 reward_🧊: 100
-remark: 
-requester: 
-ranking: 
-pi_cs: 
-start_date: 
-progress:
+remark: null
+requester: null
+ranking: null
+pi_cs: null
+start_date: null
+progress: null
 ---
 
 Implement a 'Magic Link' system for passwordless authentication:

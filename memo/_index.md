@@ -14,6 +14,7 @@ show_frontmatter: false
 ---
 ## Dwarves Memo 
 
+- [[memo/df-protocol-icy-dfg.md|💠 df protocol, $icy and $dfg]]
 - [[memo/2018-wrapping-up.md|2018 Wrapping Up]]
 - [[memo/2020-in-a-flashback.md|2020 In A Flashback]]
 - [[memo/2021-dwarves-in-review.md|2021 Dwarves In Review]]
@@ -164,6 +165,7 @@ show_frontmatter: false
 - [[memo/kubernetes-helm-101.md|Kubernetes Helm 101]]
 - [[memo/labs/Labs - New Member Onboarding.md|Labs - New Member Onboarding]]
 - [[memo/labs/Labs - Topic proposal & progress tracking.md|Labs - Topic proposal & progress tracking]]
+- [[memo/labs/Labs Roadmap (Nov 23 update).md|Labs Roadmap (Nov 23 update)]]
 - [[memo/labs/Labs x Consulting Workflow.md|Labs x Consulting Workflow]]
 - [[memo/lessons-learned-from-being-a-part-of-corporate-micro-frontend-implementation.md|Lessons Learned From Being A Part Of Corporate Micro Frontend Implementation]]
 - [[memo/lessons-learned-from-concurrency-practices-in-blockchain-projects.md|Lessons Learned From Concurrency Practices In Blockchain Projects]]
