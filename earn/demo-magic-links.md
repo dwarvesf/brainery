@@ -3,7 +3,7 @@ tags:
   - magic-links
   - passwordless
   - labs
-title: "Demo: Biometrics on the web (through external device connection)"
+title: "Demo: Magic Links"
 product: 
 date: 2023-11-27
 description: Implement a 'Magic Link' system for passwordless authentication.

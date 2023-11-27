@@ -3,7 +3,7 @@ tags:
   - passwordless
   - qr-code
   - labs
-title: "Demo: Biometrics on the web (through external device connection)"
+title: "Demo: QR Code based Login"
 product: 
 date: 2023-11-27
 description: Create a QR code-based login system for easy and secure access to web applications.
