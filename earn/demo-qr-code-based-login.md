@@ -3,7 +3,7 @@ tags:
   - passwordless
   - qr-code
   - labs
-title: Demo: QR code based login
+title: Demo QR code based login
 product: null
 date: 2023-11-27
 description: Create a QR code-based login system for easy and secure access to web applications.

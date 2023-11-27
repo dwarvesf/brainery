@@ -3,7 +3,7 @@ tags:
   - passwordless
   - labs
   - biometrics
-title: Demo: Biometrics on the web (through external device connection)
+title: Demo Biometrics on the web (through external device connection)
 product: null
 date: 2023-11-27
 description: Implement biometric authentication for web applications via external devices.

@@ -3,7 +3,7 @@ tags:
   - magic-links
   - passwordless
   - labs
-title: Demo: Magic Links
+title: Demo Magic Links
 product: null
 date: 2023-11-27
 description: Implement a 'Magic Link' system for passwordless authentication.
