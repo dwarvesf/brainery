@@ -2,7 +2,8 @@
 tags:
   - rust
   - wasm
-title: Implementing a game server on Rust
+  - labs
+title: Implement a rust game through WASM
 product: 
 date: 2023-11-27
 description: Develop a game using Rust that runs in the browser through WASM

@@ -20,7 +20,8 @@ for (const element of earnPage) {
 			bounty + " ICY" as bounty,
 			status
 		FROM "earn" AND !"earn/_index"
-		WHERE title != null AND status = "Open"
+		WHERE title != null
+			AND (status = "Open" OR status = "Figure Out")
 		SORT status DESC
 	`);
 
@@ -30,13 +31,9 @@ for (const element of earnPage) {
 	content += earnArticles.value;
 
 	// get folder and file path
-	const filePath = app.vault.getAbstractFileByPath(element.file.path);
-	const folder = app.vault.getAbstractFileByPath(element.file.folder);
+	const file = app.vault.getAbstractFileByPath(element.file.path);
+	const fileContent = await app.vault.read(file);
 
-	// delete the file
-	await app.vault.trash(filePath, true);
-
-	// create a new file with the matching template
-	await tp.file.create_new(content, element.file.name, false, folder);
+	await app.vault.modify(file, content);
 }
 %>

@@ -13,7 +13,7 @@ menu:
 toc: 
 notice: 
 due_date: 
-status: 
+status: Figure Out
 PICs: 
 completion_date: 
 bounty: 150
