@@ -2,6 +2,7 @@
 tags: 
   - tooling
 title: Brainery Metrics Report
+product: null
 date: 2023-06-30
 description: null
 authors: 
@@ -9,13 +10,14 @@ authors:
 menu: earn
 toc: null
 notice: null
-type: tooling
-show_frontmatter: true
-bounty: 100
 due_date: null
 status: Done
 PICs: 
   - thangnguyen
+completion_date: null
+bounty: 100
+show_frontmatter: false
+type: tooling
 ---
 
 Collect & persist brainery post in discord channel.

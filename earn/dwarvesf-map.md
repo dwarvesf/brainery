@@ -2,6 +2,7 @@
 tags: 
   - earn
 title: Dwarvesf Map
+product: null
 date: 2023-07-05
 description: null
 authors: 
@@ -10,12 +11,13 @@ authors:
 menu: earn
 toc: null
 notice: null
-type: earn
-show_frontmatter: true
-bounty: 80
 due_date: null
 status: Open
 PICs: null
+completion_date: null
+bounty: 80
+show_frontmatter: false
+type: earn
 ---
 
 👀 Imagine having a map flexing dwarves all around the globe

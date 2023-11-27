@@ -1,6 +1,6 @@
 <%*
 const dv = this.app.plugins.plugins["dataview"].api;
-const postTemplate = dv.pages(`"_templater/New Post"`);
+const postTemplate = dv.pages(`"_templater/New Earn"`);
 const earnPages = dv.pages(`"earn"`)
 
 const titleCase = (s) => s
@@ -25,8 +25,8 @@ for (const element of earnPages) {
 		else if (prop === "title" && value === undefined) {
 			content += `${prop}: ${titleCase(element.file.name)}\n`;
 		}
-		else {
-			content += `${prop}: ${frontmatter[prop]}`
+		else if (frontmatter.length > 0) {
+			content += `${prop}: ${frontmatter[prop]}\n`
 		}
 
 		if (prop === "tags" && typeof value == "string") {

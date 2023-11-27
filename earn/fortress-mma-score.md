@@ -3,6 +3,7 @@ tags:
   - earn
   - fortress
 title: Fortress Mma Score
+product: null
 date: 2023-10-04
 description: null
 authors: 
@@ -10,13 +11,14 @@ authors:
 menu: earn
 toc: null
 notice: null
-type: earn
-show_frontmatter: true
-bounty: 120
 due_date: null
 status: Open
 PICs: 
   - nam
+completion_date: null
+bounty: 120
+show_frontmatter: false
+type: earn
 ---
 
 1. Update fortress database

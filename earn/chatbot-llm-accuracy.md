@@ -2,6 +2,7 @@
 tags: 
   - r&d
 title: Chatbot Llm Accuracy
+product: null
 date: 2022-12-07
 description: null
 authors: 
@@ -10,14 +11,15 @@ authors:
 menu: earn
 toc: null
 notice: null
-type: r&d
-show_frontmatter: true
-bounty: 100
 due_date: null
 status: Done
 PICs: 
   - thanhpham
   - toanho
+completion_date: null
+bounty: 100
+show_frontmatter: false
+type: r&d
 ---
 
 ### Legacy

@@ -2,6 +2,7 @@
 tags: 
   - tooling
 title: Trend Command
+product: null
 date: 2023-08-17
 description: null
 authors: 
@@ -9,13 +10,14 @@ authors:
 menu: earn
 toc: null
 notice: null
-type: tooling
-show_frontmatter: true
-bounty: 60
 due_date: null
 status: Open
 PICs: 
   - tom
+completion_date: null
+bounty: 60
+show_frontmatter: false
+type: tooling
 ---
 ## Requirements
 

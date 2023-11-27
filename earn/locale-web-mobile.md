@@ -2,6 +2,7 @@
 tags: 
   - r&d
 title: Locale Web Mobile
+product: null
 date: 2023-03-27
 description: null
 authors: 
@@ -13,9 +14,6 @@ authors:
 menu: earn
 toc: null
 notice: null
-type: r&d
-show_frontmatter: true
-bounty: 100
 due_date: null
 status: Done
 PICs: 
@@ -24,6 +22,10 @@ PICs:
   - bien
   - binhle
   - taipham
+completion_date: null
+bounty: 100
+show_frontmatter: false
+type: r&d
 ---
 ## **Problem definition**
 

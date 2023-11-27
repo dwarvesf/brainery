@@ -2,6 +2,7 @@
 tags: 
   - r&d
 title: Monorepo Deployment Flow
+product: null
 date: 2023-06-20
 description: null
 authors: 
@@ -9,13 +10,14 @@ authors:
 menu: earn
 toc: null
 notice: null
-type: r&d
-show_frontmatter: true
-bounty: 80
 due_date: null
 status: Done
 PICs: 
   - chinhle
+completion_date: null
+bounty: 80
+show_frontmatter: false
+type: r&d
 ---
 
 **Output:**

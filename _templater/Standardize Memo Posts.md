@@ -25,8 +25,8 @@ for (const element of memoPages) {
 		else if (prop === "title" && value === undefined) {
 			content += `${prop}: ${titleCase(element.file.name)}\n`;
 		}
-		else {
-			content += `${prop}: ${frontmatter[prop]}`
+		else if (frontmatter.length > 0) {
+			content += `${prop}: ${frontmatter[prop]}\n`
 		}
 
 		if (prop === "tags" && typeof value == "string") {
