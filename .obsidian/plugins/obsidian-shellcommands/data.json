@@ -54,6 +54,25 @@
       "events": {
         "on-layout-ready": {
           "enabled": true
+        },
+        "every-n-seconds": {
+          "enabled": false,
+          "seconds": 60
+        },
+        "file-content-modified": {
+          "enabled": true
+        },
+        "file-created": {
+          "enabled": true
+        },
+        "file-deleted": {
+          "enabled": true
+        },
+        "file-moved": {
+          "enabled": true
+        },
+        "file-renamed": {
+          "enabled": true
         }
       },
       "command_palette_availability": "enabled",
