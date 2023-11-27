@@ -9,6 +9,7 @@ avatar: null
 undefined
 ## Written Notes
 
+- [[earn/_base.md|Dwarves Community Earn]]
 - [[earn/_index.md|Dwarves Community Earn]]
 - [[earn/consulting-map.md|Consulting Map]]
 - [[earn/discord-role.md|Discord Role]]

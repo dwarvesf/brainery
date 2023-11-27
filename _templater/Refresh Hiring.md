@@ -1,36 +1,35 @@
 <%*
 const dv = this.app.plugins.plugins["dataview"].api;
-const hiringPage = dv.pages(`"hiring/_index.md"`);
-const readme = dv.pages(`"hiring/README.md"`);
-const readmeFile = await app.vault.getAbstractFileByPath(readme[0].file.path);
-const readmeContent = await app.vault.read(readmeFile);
+const baseEarnPage = dv.pages(`"hiring/_base.md"`);
+const indexEarnPage = dv.pages(`"hiring/_index.md"`);
 
-for (const element of hiringPage) {
-	let content = "---\n";
-	for (const prop in element.file.frontmatter) {
-		const value = element.file.frontmatter[prop];
-		if (Array.isArray(value) && value.length > 0) {
-			content += `${prop}: \n  - ${value.join("\n  - ")}\n`;
-		} else {
-			content += `${prop}: ${value}\n`;
-		}
-	}
-	content += "---\n";
+async function asyncReplace(str, regex, asyncFn) {
+    const promises = [];
+    str.replace(regex, (match, ...args) => {
+        const promise = asyncFn(match, ...args);
+        promises.push(promise);
+    });
 
-	const hiringArticles = await dv.queryMarkdown(`
-		LIST WITHOUT ID
-			"[[" + file.path + "|" + title + "]]" 
-		FROM "hiring" and !"_templates" and !"_templater" and !"_index" and !"site-index" and !"README"
-		WHERE title != NULL
-	`);
-	content += hiringArticles.value;
-	content += `\n\n---\n\n`;
-	content += readmeContent;
-
-	// get folder and file path
-	const file = app.vault.getAbstractFileByPath(element.file.path);
-	const fileContent = await app.vault.read(file);
-
-	await app.vault.modify(file, content);
+    const data = await Promise.all(promises);
+    return str.replace(regex, () => data.shift());
 }
+
+// get folder and file path
+const baseFile = app.vault.getAbstractFileByPath(baseEarnPage[0].file.path);
+const indexFile = app.vault.getAbstractFileByPath(indexEarnPage[0].file.path);
+const fileContent = await app.vault.read(baseFile);
+
+const dataviewRegex = /^```dataview[\s\S]*?^```/m;
+const dataviews = await asyncReplace(fileContent, dataviewRegex, async (match) => {
+	const dataviewLines = match.split('\n');
+	dataviewLines.shift();
+	dataviewLines.pop();
+	
+	const parsedDataview = dataviewLines.join('\n')
+	const dataviewMarkdown = await dv.queryMarkdown(parsedDataview);
+	
+	return dataviewMarkdown.value
+});
+
+await app.vault.modify(indexFile, dataviews);
 %>

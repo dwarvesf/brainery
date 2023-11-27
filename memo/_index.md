@@ -1,18 +1,17 @@
 ---
-tags: 
+tags:
   - dwarves
   - work
 title: Dwarves Memo
-date: 2023-10-19
-description: null
-authors: null
-menu: memo
-toc: null
-notice: null
-type: memo
-show_frontmatter: false
+date: 2023-11-27
+description: 
+authors: 
+menu: 
+toc: false
+notice: 
+type: 
+show_frontmatter: true
 ---
-## Dwarves Memo 
 
 - [[memo/df-protocol-icy-dfg.md|💠 df protocol, $icy and $dfg]]
 - [[memo/2018-wrapping-up.md|2018 Wrapping Up]]
@@ -102,6 +101,7 @@ show_frontmatter: false
 - [[memo/draw-watch-face-using-swiftui.md|Draw Watch Face Using Swiftui]]
 - [[memo/dwarves-community-bounty.md|Dwarves Community Bounty]]
 - [[memo/dwarves-foundation-apprenticeship-batch-of-2022.md|Dwarves Foundation Apprenticeship Batch Of 2022]]
+- [[memo/_base.md|Dwarves Memo]]
 - [[memo/_index.md|Dwarves Memo]]
 - [[memo/dwarves-of-2021.md|Dwarves Of 2021]]
 - [[memo/dwarves-of-the-year-2022.md|Dwarves Of The Year 2022]]
