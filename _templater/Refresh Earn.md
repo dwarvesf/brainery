@@ -5,7 +5,7 @@ const earnPage = dv.pages(`"earn/_index.md"`);
 for (const element of earnPage) {
 	let content = "---\n";
 	for (const prop in element.file.frontmatter) {
-		const value = element.file.frontmatter[prop]
+		const value = element.file.frontmatter[prop];
 		if (Array.isArray(value) && value.length > 0) {
 			content += `${prop}: \n  - ${value.join("\n  - ")}\n`;
 		} else {

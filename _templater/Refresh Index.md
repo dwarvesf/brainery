@@ -27,4 +27,5 @@ for (const element of indexPage) {
 	const fileContent = await app.vault.read(file);
 
 	await app.vault.modify(file, content);
+}
 %>

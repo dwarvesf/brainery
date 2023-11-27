@@ -8,7 +8,7 @@ const readmeContent = await app.vault.read(readmeFile);
 for (const element of hiringPage) {
 	let content = "---\n";
 	for (const prop in element.file.frontmatter) {
-		const value = element.file.frontmatter[prop]
+		const value = element.file.frontmatter[prop];
 		if (Array.isArray(value) && value.length > 0) {
 			content += `${prop}: \n  - ${value.join("\n  - ")}\n`;
 		} else {
