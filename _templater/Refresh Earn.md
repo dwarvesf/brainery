@@ -20,8 +20,7 @@ for (const element of earnPage) {
 			bounty + " ICY" as bounty,
 			status
 		FROM "earn" AND !"earn/_index"
-		WHERE title != null
-			AND (status = "Open" OR status = "Figure Out")
+		WHERE title != null AND status != "Done"
 		SORT status DESC
 	`);
 
