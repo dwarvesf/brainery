@@ -1,32 +1,32 @@
 ---
-tags: 
+tags:
   - magic-links
   - passwordless
   - labs
-title: Demo Magic Links
-product: null
+title: "Demo: Biometrics on the web (through external device connection)"
+product: 
 date: 2023-11-27
 description: Implement a 'Magic Link' system for passwordless authentication.
-authors: null
-menu: null
-toc: null
-notice: null
-due_date: null
+authors: 
+menu: 
+toc: 
+notice: 
+due_date: 
 status: Figure Out
-PICs: null
-completion_date: null
+PICs: 
+completion_date: 
 bounty: 100
-show_frontmatter: null
-type: null
-function: null
-🔺_priority: null
+show_frontmatter: 
+type: 
+function: 
+🔺_priority: 
 reward_🧊: 100
-remark: null
-requester: null
-ranking: null
-pi_cs: null
-start_date: null
-progress: null
+remark: 
+requester: 
+ranking: 
+pi_cs: 
+start_date: 
+progress:
 ---
 
 Implement a 'Magic Link' system for passwordless authentication:
