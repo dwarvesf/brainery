@@ -12,22 +12,23 @@ authors:
   - thanh
 menu: memo
 toc: false
-notice: 
+notice:
 type: memo
 show_frontmatter: true
 ---
+
 In a recent collaborative discussion between key members of the Labs and Consulting teams, we've made decisive strides in pinpointing key topics and potential projects for development. Each topic is paired with specific challenges to ensure we engage deeply with the technology, understanding its practical applications. The focal point for the coming month is WebAssembly (WASM), alongside a range of exciting use-cases we plan to implement and demonstrate.
 
 Our discussions have led to the identification of several intriguing topics, each with its own set of challenges. It's particularly noteworthy how some of these topics intersect and overlap.
 
-|Topic|PIC|Challenges|
-|---|---|---|
-|**WASM**|An Tran|- Self-host AI model on the browser (e.g. OCR for security cams, private browser chatbot...) <br> - Data processing and visual infographics (through DuckDB-WASM) <br> - Implement a Rust game through WASM|
-|**Passwordless**|An Tran|- Biometrics on the web (through external device connection) <br> - QR code based login <br> - Magic Links|
-|**Rust**|Hieu Phan|- Implementing a game server on Rust|
-|**AI**|Tom|- Realtime memory knowledge updates (RAG updates)|
-|**MPC**|Huy Nguyen|- Applying MPC for authentication for web3 (Console)|
-|**UI practices**|Thanh Pham|- Build mochi-ui|
+| Topic            | PIC        | Challenges                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ---------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **WASM**         | An Tran    | - [Self-host AI model on the browser (e.g. OCR for security cams, private browser chatbot...)](https://note.d.foundation/earn/self-host-ai-model-on-the-browser/) <br> - [Data processing and visual infographics (through DuckDB-WASM)](https://note.d.foundation/earn/data-processing-and-visual-infographics-through-duckdb-wasm/) <br> - [Implement a Rust game through WASM](https://note.d.foundation/earn/implement-a-rust-game-through-wasm/) |
+| **Passwordless** | An Tran    | - [Biometrics on the web (through external device connection)](https://note.d.foundation/earn/demo-biometrics-on-the-web-through-external-device-connection/) <br> - [QR code based login]() <br> - [Magic Links](https://note.d.foundation/earn/demo-magic-links/)                                                                                                                                                                                   |
+| **Rust**         | Hieu Phan  | - [Implementing a game server on Rust](https://note.d.foundation/earn/implementing-a-game-server-on-rust/)                                                                                                                                                                                                                                                                                                                                            |
+| **AI**           | Tom        | - [Realtime memory knowledge updates (RAG updates)](https://note.d.foundation/earn/realtime-memory-knowledge-updates-rag-updates/)                                                                                                                                                                                                                                                                                                                    |
+| **MPC**          | Huy Nguyen | - [Applying MPC for authentication for web3 (Console)](https://note.d.foundation/earn/applying-mpc-for-authentication-for-web3-console/)                                                                                                                                                                                                                                                                                                              |
+| **UI practices** | Thanh Pham | - [Build mochi-ui](https://note.d.foundation/earn/mochi-ui)                                                                                                                                                                                                                                                                                                                                                                                           |
 
 ![[Labs Roadmap (Nov 23 update)-20231127143515779.webp]]
 
@@ -37,7 +38,7 @@ As we concentrate on these topics, other potential areas will stay in our backlo
 - DX enhancement: Mock API development, devcontainer…
 - Aspect-oriented programming
 - CRDT vs OT
-- cloudHSM
+- CloudHSM
 - Fullstack development/multipage application shift
 - GA4
 - DuckDB
@@ -46,4 +47,4 @@ As we concentrate on these topics, other potential areas will stay in our backlo
 - openid Zero Trust Infras/CI
 - Self-hosted feature flag
 
-We hope that the upcoming months will be promising. Not only do we aim to enhance our knowledge and skills, but we also hope that it will unlock new opportunities in our tech business. Let’s embark on this journey with excitement!
+All challenges have been recorded in our earn program. Please visit the corresponding link or contact the PIC for details.
