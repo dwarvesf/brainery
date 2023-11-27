@@ -1,8 +1,9 @@
 ---
 tags:
+  - labs
   - AI
-  - RAG
   - LLM
+  - RAG
 title: Realtime memory knowledge updates (RAG updates)
 product: 
 date: 2023-11-27
