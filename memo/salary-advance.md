@@ -14,23 +14,23 @@ type: memo
 show_frontmatter: true
 ---
 
-as we said in our recent post [[memo/icy-in-2024|$icy in 2024 plan]].
+as we said in our recent post [[memo/icy-in-2024|$icy in 2024 plan]]. Today, we're launching the first feature from our 2024 roadmap: an $icy salary advance.
 
-Today, we're launching the first feature from our 2024 roadmap: an $icy salary advance.
-It's a short-term credit benefit available to all full-time employees in our company.
+tl:dr, It's a short-term credit benefit available to all full-time employees in our company.
 
-Simply put, it's a policy that allows you to receive a portion of your upcoming payroll in the form of icy. Currently, everyone can access up to 25% of their total payroll.
+e.g:
 
-Just head over to the DMs of the 'Fortress' bot and type ?salary advance, and we'll guide you through the process with a small 0.5% service fee.
+- hnh earn $5000 a month
+- hnh can ask for upto `25%` ($1250) of his monthly allowance in advanced
+- the credit will be paid automatically by hnh next pay day, plus `0.5% service fee`
 
-**Use the `?salary advance` command the start**
+**How to use?**
+
+- head over to the DMs of the 'Fortress' bot
+- type `?salary advance`
+- input credit amount in icy.
+- done.
+
+Cheers.
 
 ![](assets/icy/salary-advance.jpg)
-
-**Simply input your amount**
-
-![](assets/icy/salary-advance-amount.jpg)
-
-and, that's it, your credit will be paid automatically in your next pay check.
-
-Cheers
