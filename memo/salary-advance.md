@@ -23,7 +23,7 @@ Simply put, it's a policy that allows you to receive a portion of your upcoming 
 
 Just head over to the DMs of the 'Fortress' bot and type ?salary advance, and we'll guide you through the process with a small 0.5% service fee.
 
-**Use the `?salary advance`` command the start**
+**Use the `?salary advance` command the start**
 
 ![](assets/icy/salary-advance.jpg)
 
