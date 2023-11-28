@@ -20,7 +20,7 @@ Since 2020, $icy has been a part of our workflow. Here's a quick recap.
 - 2020: we introduced ICY as our first community experiment.
 - 2021: we launched [icy.so](https://icy.so), a site to redeem $icy.
 - 2022: $icy became our primary reward method, starting with summit-2022 and doty where we sent out about $20000
-- 2023: we introduced `vault`` as a reward avenue for our functional team.
+- 2023: we introduced `vault` as a reward avenue for our functional team.
 
 and we have more exciting things on the horizon:
 
