@@ -35,10 +35,6 @@
       "template": "_templater/New Post.md"
     },
     {
-      "folder": "radar",
-      "template": "_templater/New Post.md"
-    },
-    {
       "folder": "newsletter",
       "template": "_templater/New Post.md"
     }
@@ -51,9 +47,7 @@
   "startup_templates": [
     "_templater/Refresh Index.md",
     "_templater/Refresh Members' Profile.md",
-    "_templater/Refresh Hiring.md",
-    "_templater/Refresh Earn.md",
-    "_templater/Refresh Memo.md",
+    "_templater/Refresh Home Pages.md",
     ""
   ],
   "enable_ribbon_icon": true

@@ -18,3 +18,5 @@ undefined
 - [[earn/financial-literacy-outline.md|Financial Literacy Outline]]
 - [[earn/fortress-mma-score.md|Fortress Mma Score]]
 - [[earn/fortress-shanky-data.md|Fortress Shanky Data]]
+- [[memo/icy-in-2024.md|$icy in 2024]]
+- [[memo/salary-advance.md|$icy Salary Advance]]

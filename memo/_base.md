@@ -15,7 +15,7 @@ show_frontmatter: true
 
 ```dataview
 LIST WITHOUT ID "[[" + file.path + "|" + title + "]]"
-FROM "memo" AND !"memo/index"
+FROM "memo" AND !"memo/_index"
 WHERE title != NULL
 SORT title
 ```

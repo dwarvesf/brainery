@@ -14,6 +14,8 @@ show_frontmatter: true
 ---
 
 - [[memo/df-protocol-icy-dfg.md|💠 df protocol, $icy and $dfg]]
+- [[memo/icy-in-2024.md|$icy in 2024]]
+- [[memo/salary-advance.md|$icy Salary Advance]]
 - [[memo/2018-wrapping-up.md|2018 Wrapping Up]]
 - [[memo/2020-in-a-flashback.md|2020 In A Flashback]]
 - [[memo/2021-dwarves-in-review.md|2021 Dwarves In Review]]
@@ -102,7 +104,6 @@ show_frontmatter: true
 - [[memo/dwarves-community-bounty.md|Dwarves Community Bounty]]
 - [[memo/dwarves-foundation-apprenticeship-batch-of-2022.md|Dwarves Foundation Apprenticeship Batch Of 2022]]
 - [[memo/_base.md|Dwarves Memo]]
-- [[memo/_index.md|Dwarves Memo]]
 - [[memo/dwarves-of-2021.md|Dwarves Of 2021]]
 - [[memo/dwarves-of-the-year-2022.md|Dwarves Of The Year 2022]]
 - [[memo/dwarves-radio-talk-16-run-an-effective-performance-review.md|Dwarves Radio Talk 16 Run An Effective Performance Review]]
