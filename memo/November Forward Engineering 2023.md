@@ -51,7 +51,7 @@ In the present fast-moving business world, both startups and established enterpr
 This move towards an open-source framework, however, presents a distinct set of challenges compared to closed-source development. Essential factors such as comprehensive documentation, efficient release workflows, and modular design for tree-shaking components require careful consideration. Our journey has been rich with lessons learned, which we are eager to transform into best practices for both our team and the wider community.
 
 ### DuckDB
-_**************Trial**************_
+_***Trial***_
 
 |Tags|`#data` `#data-analysis` `#data-engineering` `#database` `#embedded-database` `#columnar-storage` `#sql` `#data-science`|
 |---|---|
@@ -65,7 +65,7 @@ DuckDB is fast and has great data analysis capabilities, optimized for aggregati
 ![[November Forward Engineering 2023-20231130164855761.webp]]
 
 ### Parallel Processing
-_**************Trial**************_
+_***Trial***_
 
 |Tags|`#data` `#data-science` `#parallel-execution`|
 |---|---|
