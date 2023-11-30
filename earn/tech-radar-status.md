@@ -1,18 +1,18 @@
 ---
-tags: 
+tags:
   - tooling
 title: Tech Radar Status
 product: null
 date: 2023-06-30
 description: null
-authors: 
+authors:
   - thanh
 menu: earn
 toc: null
 notice: null
 due_date: null
-status: Open
-PICs: 
+status: Closed
+PICs:
   - thanh
 completion_date: null
 bounty: 60

@@ -1,18 +1,18 @@
 ---
-tags: 
+tags:
   - earn
 title: Dwarvesf Map
 product: null
 date: 2023-07-05
 description: null
-authors: 
+authors:
   - hnh
   - tieubao
 menu: earn
 toc: null
 notice: null
 due_date: null
-status: Open
+status: Closed
 PICs: null
 completion_date: null
 bounty: 80
