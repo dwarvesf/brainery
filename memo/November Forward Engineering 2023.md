@@ -25,12 +25,11 @@ This month, we have focused on revamping how we learn, familiarize, and work wit
 This is to hopefully provide you with a more comprehensive publication that not only keeps you informed about the latest technologies and where they are applied, but also foster collaboration and innovation within our organization. We hope you find this edition of Forward Engineering informative and give you a better idea of what we’re doing. As always, we welcome your feedback and encourage you to share your thoughts on the content.
 ## Tech Radar
 
-![[assets/November Forward Engineering 2023/8e1ba07a614cb4250d5cb2d80f208379_MD5.mp4]]
-
+![](assets/November%20Forward%20Engineering%202023/8e1ba07a614cb4250d5cb2d80f208379_MD5.mp4)
 ### Rust
 ******************Assess******************
 
-| Tags     | #memory-management #systems-language #backend #embedded-systems |
+| Tags     | `#memory-management` `#systems-language` `#backend` `#embedded-systems` |
 | -------- | --------------------------------------------------------------- |
 | Domain   | `Embedded Systems` `Networking and DNS` `Security` `Fintech`    |
 | Projects | Upcoming                                                        |
@@ -42,7 +41,7 @@ Furthermore, we've observed that Rust continues to evolve, increasingly supporti
 ## Building UI Library Practices
 ***Trial***
 
-| Tags     | #ui #ux #best-practices #frontend #react |
+| Tags     | `#ui` `#ux` `#best-practices` `#frontend` `#react` |
 | -------- | ---------------------------------------- |
 | Domain   | `Web3` `Fintech` `Frontend`                    |
 | Projects | `consolelabs/web-foundation` `mochi-web`     |
@@ -54,7 +53,7 @@ This move towards an open-source framework, however, presents a distinct set of 
 ### DuckDB
 _**************Trial**************_
 
-|Tags|#data #data-analysis #data-engineering #database #embedded-database #columnar-storage #sql #data-science|
+|Tags|`#data` `#data-analysis` `#data-engineering` `#database` `#embedded-database` `#columnar-storage` `#sql` `#data-science`|
 |---|---|
 |Domain|`Data Science` `Embedded Systems` `Business Intelligence` `Machine Learning` `Research`|
 |Projects|`dwarvesf/note.d.foundation` `consolelabs/log.console.so`|
@@ -68,7 +67,7 @@ DuckDB is fast and has great data analysis capabilities, optimized for aggregati
 ### Parallel Processing
 _**************Trial**************_
 
-|Tags|#data #data-science #parallel-execution|
+|Tags|`#data` `#data-science` `#parallel-execution`|
 |---|---|
 |Domain|`Data Science` `Data Processing` `Fintech` `Ride-sharing`|
 |Projects|`dwarvesf/notion-export-markdown` `dwarvesf/note-algolia-scraper`|
