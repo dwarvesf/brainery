@@ -32,7 +32,7 @@ TABLE WITHOUT ID
 	"🧊 " + bounty as "💰 Bounty",
 	status as Status,
   join(PICs) as PIC,
-  functional as Type
+  functional as Function
 FROM "earn" AND !"earn/_index" AND !"earn/_base"
 WHERE title != null AND (status = "Open" OR status = "Doing")
 SORT date DESC
