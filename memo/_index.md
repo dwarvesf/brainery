@@ -13,6 +13,7 @@ type:
 show_frontmatter: true
 ---
 
+- [[memo/labs/_index.md|_index]]
 - [[memo/df-protocol-icy-dfg.md|💠 df protocol, $icy and $dfg]]
 - [[memo/icy-in-2024.md|$icy in 2024]]
 - [[memo/salary-advance.md|$icy Salary Advance]]
@@ -167,6 +168,7 @@ show_frontmatter: true
 - [[memo/labs/Labs - New Member Onboarding.md|Labs - New Member Onboarding]]
 - [[memo/labs/Labs - Topic proposal & progress tracking.md|Labs - Topic proposal & progress tracking]]
 - [[memo/labs/Labs Roadmap (Nov 23 update).md|Labs Roadmap (Nov 23 update)]]
+- [[memo/labs/_base.md|Labs Team]]
 - [[memo/labs/Labs x Consulting Workflow.md|Labs x Consulting Workflow]]
 - [[memo/lessons-learned-from-being-a-part-of-corporate-micro-frontend-implementation.md|Lessons Learned From Being A Part Of Corporate Micro Frontend Implementation]]
 - [[memo/lessons-learned-from-concurrency-practices-in-blockchain-projects.md|Lessons Learned From Concurrency Practices In Blockchain Projects]]
@@ -188,6 +190,7 @@ show_frontmatter: true
 - [[memo/mbti---type-istp.md|Mbti Type Istp]]
 - [[memo/message-queues-and-streaming-platforms-eg-kafka-nats-rabbitmq.md|Message Queues And Streaming Platforms Eg Kafka Nats Rabbitmq]]
 - [[memo/micro-frontends---microservices-for-frontend-development.md|Micro Frontends Microservices For Frontend Development]]
+- [[memo/November Forward Engineering 2023.md|November Forward Engineering 2023]]
 - [[memo/objective.md|Objective]]
 - [[memo/october-forward-engineering.md|October Forward Engineering]]
 - [[memo/ogif.md|Ogif]]

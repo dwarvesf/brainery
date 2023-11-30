@@ -37,3 +37,4 @@ FROM "earn" AND !"earn/_index" AND !"earn/_base"
 WHERE title != null AND (status = "Open" OR status = "Doing")
 SORT date DESC
 ```
+

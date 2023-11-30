@@ -37,6 +37,10 @@
     {
       "folder": "newsletter",
       "template": "_templater/New Post.md"
+    },
+    {
+      "folder": "radar",
+      "template": "_templater/New Post.md"
     }
   ],
   "syntax_highlighting": true,

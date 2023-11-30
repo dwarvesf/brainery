@@ -9,14 +9,8 @@ avatar: null
 undefined
 ## Written Notes
 
-- [[earn/_base.md|Dwarves Community Earn]]
-- [[earn/_index.md|Dwarves Community Earn]]
-- [[earn/consulting-map.md|Consulting Map]]
-- [[earn/discord-role.md|Discord Role]]
-- [[earn/dwarvesf-map.md|Dwarvesf Map]]
-- [[earn/engagament-log.md|Engagament Log]]
-- [[earn/financial-literacy-outline.md|Financial Literacy Outline]]
-- [[earn/fortress-mma-score.md|Fortress Mma Score]]
-- [[earn/fortress-shanky-data.md|Fortress Shanky Data]]
+- [[earn/icy-utility-command.md|$icy utility commands]]
+- [[earn/rework-fortress-command.md|Rework Fortress Command]]
+- [[earn/withdrawl-icy.md|$icy withdrawal]]
 - [[memo/icy-in-2024.md|$icy in 2024]]
 - [[memo/salary-advance.md|$icy Salary Advance]]
