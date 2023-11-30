@@ -12,7 +12,7 @@ menu: earn
 toc: null
 notice: null
 due_date: null
-status: Open
+status: Doing
 PICs:
   - bienvh
   - phucld

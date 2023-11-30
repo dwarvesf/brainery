@@ -30,8 +30,8 @@ The Dwarves bounty program is the means through which both company peeps and the
 | ------------------------------------------------------------ | --------- | ------ | --------------------------- | ----------- |
 | [[earn/icy-staking.md\|$icy staking]]                        | 350 🧊    | Open   | phucld, minhlq, nam, bienvh | 🛠️ Tooling |
 | [[earn/icy-store.md\|$icy store]]                            | 100 🧊    | Open   | minhlq                      | 🛠️ Tooling |
-| [[earn/withdrawl-icy.md\|$icy withdrawal]]                   | 120 🧊    | Open   | minhlq                      | 🛠️ Tooling |
-| [[earn/icy-utility-command.md\|icy utility commands]]        | 50 🧊     | Open   | bienvh, phucld              | 🛠️ Tooling |
+| [[earn/withdrawl-icy.md\|$icy withdrawal]]                   | 120 🧊    | Doing  | minhlq                      | 🛠️ Tooling |
+| [[earn/icy-utility-command.md\|$icy utility commands]]       | 50 🧊     | Doing  | bienvh, phucld              | 🛠️ Tooling |
 | [[earn/rework-fortress-command.md\|Rework Fortress Command]] | 100 🧊    | Open   | \-                          | 🛠️ Tooling |
 | [[earn/fortress-shanky-data.md\|Fortress Shanky Data]]       | 120 🧊    | Open   | nam                         | 🛠️ Tooling |
 
