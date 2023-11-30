@@ -1,20 +1,21 @@
 ---
-tags: 
+tags:
   - earn
   - fortress
 title: Fortress Shanky Data
 product: null
 date: 2023-10-04
 description: null
-authors: 
+authors:
   - hnh
 menu: earn
 toc: null
 notice: null
 due_date: null
 status: Open
-PICs: 
+PICs:
   - nam
+functional: 🛠️ Tooling
 completion_date: null
 bounty: 120
 show_frontmatter: false
