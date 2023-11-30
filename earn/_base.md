@@ -29,7 +29,7 @@ The Dwarves bounty program is the means through which both company peeps and the
 ```dataview
 TABLE WITHOUT ID
 	"[[" + file.path + "|" + title + "]]" as Title,
-	bounty + " 🧊" as "💰 Bounty",
+	"🧊 " + bounty as "💰 Bounty",
 	status as Status,
   join(PICs) as PIC,
   functional as Type
