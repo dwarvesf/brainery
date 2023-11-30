@@ -39,7 +39,7 @@ Rust, the programming language, has been on our radar for quite some time, prima
 
 Furthermore, we've observed that Rust continues to evolve, increasingly supporting a wider array of applications, notably in web development and artificial intelligence. This evolution has motivated us to delve deeper into the language. Our initial steps involve comprehending Rust's concurrency model, which is pivotal for our community project. Simultaneously, we are eager to explore new facets of Rust, expanding our understanding and application of this powerful language.
 
-## Building UI Library Practices
+### Building UI Library Practices
 ***Trial***
 
 |          |                                                    |
