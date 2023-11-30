@@ -35,7 +35,7 @@ for (const element of basePages) {
 		break;
 	}
 
-	const dataviewRegex = /^```dataview[\s\S]*?^```/m;
+	const dataviewRegex = /^```dataview[\s\S]*?^```/gm;
 	const dataviews = await asyncReplace(baseContent, dataviewRegex, async (match) => {
 		const dataviewLines = match.split('\n');
 		dataviewLines.shift();
@@ -43,7 +43,8 @@ for (const element of basePages) {
 		
 		const parsedDataview = dataviewLines.join('\n')
 		const dataviewMarkdown = await dv.queryMarkdown(parsedDataview);
-		
+		console.log(match);
+
 		return dataviewMarkdown.value
 	});
 	

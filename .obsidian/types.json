@@ -12,6 +12,7 @@
     "PICs": "text",
     "completion_date": "date",
     "publish": "checkbox",
-    "show_frontmatter": "checkbox"
+    "show_frontmatter": "checkbox",
+    "event-date": "date"
   }
 }

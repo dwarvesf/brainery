@@ -13,7 +13,7 @@ date: 2023-11-21
 description: Our Tech Labs is a hub of continuous learning and application of advanced technologies. To encourage andensive nomination system. This program is designed to celebrate contributions at various levels, from enhancing knowledge to contributing to business growth.
 authors:
   - thanh
-menu: memo
+menu: labs
 toc: false
 notice: 
 type: memo

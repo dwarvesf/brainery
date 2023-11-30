@@ -1,17 +1,21 @@
 ---
-tags: 
+tags:
   - engineering
   - performance
   - updates
   - team
-title: Augusts Forward Engineering
+  - forward-engineering
+  - dwarves
+title: Forward Engineering August 2023
 date: 2023-08-30
-description: null
-authors: null
+description: "Our adventure until now has been incredibly thrilling, with a strong focus on 'LLM in Production.' Now, we shift our attention to a topic that is always important and never outdated: **Fullstack Engineering**."
+authors:
+  - thanh
+  - monotykamary
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 show_frontmatter: true
 author: Thanh Pham, Tom X Nguyen
 created_time: 2023-08-30

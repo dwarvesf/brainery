@@ -10,11 +10,11 @@ tags:
   - passwordless
 title: November Forward Engineering 2023
 date: 2023-11-30
-description: This month, we have focused on revamping how we learn, familiarize, and work with tech. We are excited to announce that we have updated our Forward Engineering to better reflect the feedback and insights from our Labs team, Operations Team, and Consulting Team.
+description: We have focused on revamping how we learn, familiarize, and work with tech. We are excited to announce that we have updated our Forward Engineering to better reflect the feedback and insights from our Labs team, Operations Team, and Consulting Team.
 authors:
   - thanh
   - monotykamary
-menu: memo
+menu: labs
 toc: false
 notice: 
 type: memo
@@ -25,7 +25,7 @@ This month, we have focused on revamping how we learn, familiarize, and work wit
 This is to hopefully provide you with a more comprehensive publication that not only keeps you informed about the latest technologies and where they are applied, but also foster collaboration and innovation within our organization. We hope you find this edition of Forward Engineering informative and give you a better idea of what we’re doing. As always, we welcome your feedback and encourage you to share your thoughts on the content.
 ## Tech Radar
 
-![](assets/November%20Forward%20Engineering%202023/8e1ba07a614cb4250d5cb2d80f208379_MD5.mp4)
+![](assets/Forward%20Engineering%20November%20%202023/8e1ba07a614cb4250d5cb2d80f208379_MD5.mp4)
 ### Rust
 ******************Assess******************
 

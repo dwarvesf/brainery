@@ -2,9 +2,15 @@
 tags:
   - dwarves
   - forward-engineering
-title: October Forward Engineering
+  - type-safe-server-client-development
+  - AI
+  - devcontainers
+  - duckdb
+  - grok
+  - nextjs
+title: October Forward Engineering 2023
 date: 2023-11-17
-description: 
+description: "As we step into the exciting opportunities of October, we are at a crucial point in the ever-changing world of technology. Our adventure until now has been for the most part very exciting, with a strong focus on 'Full-stack engineering’ Now, we shift our attention to a topic that is prolific and always true: Open-source."
 authors:
   - monotykamary
   - thanh
@@ -38,7 +44,7 @@ This month has been the month of trying out new and existing tech. We’ve been 
 
   
 
-![](assets/october-forward-engineering/october-forward-engineering.mp4)
+![](assets/Forward%20Engineering%20October%202023/october-forward-engineering.mp4)
 
   
 
