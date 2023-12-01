@@ -17,7 +17,7 @@ show_frontmatter: true
 ## Latest from Labs Team
 
 ```dataview
-LIST description
+LIST
 FROM #labs AND !"memo/labs/_index" AND !"memo/labs/_base"
 SORT date DESC
 LIMIT 10
@@ -26,7 +26,7 @@ LIMIT 10
 ## Forward Engineering Publications
 
 ```dataview
-LIST description
+LIST
 FROM #forward-engineering
 SORT date DESC
 LIMIT 3
@@ -46,7 +46,7 @@ WHERE event_date >= date(today)
 ### Past Events
 
 ```dataview
-LIST description
+LIST
 FROM #labs AND #event 
 LIMIT 3
 WHERE event_date < date(today)
