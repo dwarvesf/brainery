@@ -1,20 +1,19 @@
 ---
-tags: null
+tags: 
 title: Langchain
-date: null
-description: null
-authors: null
+date: 2023-04-29
+description: 
+authors: 
 menu: radar
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 show_frontmatter: true
 confidence: Moderate
 assign: Thanh Pham
-priority: null
+priority: 
 status: Assess
 quadrant: Frameworks
-tag: Backend
 ---
 
 <!-- table_of_contents b118734d-b0a4-4658-87fc-f48938aad6f8 -->

@@ -42,7 +42,7 @@ show_frontmatter: true
 
 
 ### Past Events
-
+	
 - [[memo/labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]]
 
 

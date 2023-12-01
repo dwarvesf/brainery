@@ -12,3 +12,10 @@ notice:
 type: 
 show_frontmatter: true
 ---
+
+```dataview
+LIST
+FROM "radar"
+WHERE date = date("29-04-2023")
+```
+

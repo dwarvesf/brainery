@@ -44,7 +44,7 @@ WHERE event_date >= date(today)
 ```
 
 ### Past Events
-
+	
 ```dataview
 LIST
 FROM #labs AND #event 

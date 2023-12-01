@@ -245,6 +245,7 @@ show_frontmatter: true
 - [[memo/swiftui.md|Swiftui]]
 - [[memo/team-up-with-basehq---us-first-ever-platform-built-for-assistants.md|Team Up With Basehq Us First Ever Platform Built For Assistants]]
 - [[memo/tech-event---in-the-latest-transforming-healthcare-with-technology.md|Tech Event In The Latest Transforming Healthcare With Technology]]
+- [[memo/Test.md|Test]]
 - [[memo/the-10x-engineer.md|The 10x Engineer]]
 - [[memo/the-adjacent-possible.md|The Adjacent Possible]]
 - [[memo/the-correct-way-to-build-kpi.md|The Correct Way To Build Kpi]]
