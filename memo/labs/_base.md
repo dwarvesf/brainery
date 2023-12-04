@@ -54,7 +54,7 @@ WHERE event_date < date(today)
 
 ## Frequently Asked Questions (FAQ)
 
-### Who we are
+### [[Labs - Who we are|Who we are]]
 
 The Labs team are a group of engineers working together towards a common goal, introducing new tech to better help our requirements, engineering quality of life, developer experience, and so much more.
 

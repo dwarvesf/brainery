@@ -16,16 +16,16 @@ show_frontmatter: true
 ---
 ## Latest from Labs Team
 
+- [[memo/labs/Labs - Who we are.md|Labs - Who we are]]
 - [[memo/Forward Engineering November  2023.md|Forward Engineering November  2023]]
 - [[earn/implementing-a-game-server-on-rust.md|implementing-a-game-server-on-rust]]
 - [[earn/implement-a-rust-game-through-wasm.md|implement-a-rust-game-through-wasm]]
-- [[earn/demo-qr-code-based-login.md|demo-qr-code-based-login]]
 - [[earn/demo-magic-links.md|demo-magic-links]]
 - [[earn/demo-biometrics-on-the-web-through-external-device-connection.md|demo-biometrics-on-the-web-through-external-device-connection]]
 - [[earn/applying-mpc-for-authentication-for-web3-console.md|applying-mpc-for-authentication-for-web3-console]]
+- [[earn/demo-qr-code-based-login.md|demo-qr-code-based-login]]
 - [[memo/labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]]
-- [[memo/labs/Reward Model & Nomination.md|Reward Model & Nomination]]
-- [[memo/labs/Labs x Consulting Workflow.md|Labs x Consulting Workflow]]
+- [[memo/labs/Labs Roadmap (Nov 23 update).md|Labs Roadmap (Nov 23 update)]]
 
 
 ## Forward Engineering Publications
@@ -48,7 +48,7 @@ show_frontmatter: true
 
 ## Frequently Asked Questions (FAQ)
 
-### Who we are
+### [[Labs - Who we are|Who we are]]
 
 The Labs team are a group of engineers working together towards a common goal, introducing new tech to better help our requirements, engineering quality of life, developer experience, and so much more.
 
