@@ -54,40 +54,41 @@ WHERE event_date < date(today)
 
 ## Frequently Asked Questions (FAQ)
 
-### Who we are
+## Who we are
 
-The Labs team are a group of engineers working together towards a common goal, introducing new tech to better help our requirements, engineering quality of life, developer experience, and so much more.
+At Labs, our team is united by a shared passion for new technologies. We are a diverse group of individuals, each with unique backgrounds and personalities, but our common ground lies in our dedication to exploring and understanding emerging technologies. Our goal is to investigate and learn about advancements that have the potential to enhance our lives and contribute to a better future.
 
-### [[Labs x Consulting Workflow|How we work]]
+For a deeper insight into the core beliefs that drive us, please visit this [[Labs - Who we are|link]].
 
-We essentially consolidate how new tech is introduced through the Labs team and how it gets processed to Consulting team to apply for projects and bring awareness of our tech expertise. We make sure that our team in particular needs to:
-- Be able to introduce new tech to help enrich our engineers’ expertise
-- Be able to understand what tech is trending and how we can use them
+## How we work
 
-### What we are working towards
+We collaborate to exchange insights about emerging technologies and assess their potential for innovative applications. In partnership with consulting and product teams, we rigorously reexamine our assumptions and immerse ourselves hands-on in these technologies. Our goal is to ensure that these advancements are not only practical but also instrumental in unlocking the doors to the future.
 
-On top of understanding what our engineers' are good at, we want to foster a culture of continuous learning and improvement to enrich our engineers' tech expertise. This way, we can allow for pockets of innovation within our organization and allow us to better suit our engineers' skills to the right projects as well as for sales and advisory.
-
-### [[Labs - New Member Onboarding|How to become a member?]]
-
-New members joining our Labs team can be recommended either personally by an existing team member or through a development plan survey. Once onboarded, each new member is paired with a mentor who provides guidance on our operational practices within the team, specifically in relation to a chosen research topic. The initial probation period for new members is set to one month.
-
-During this probation, we expect two main deliverables from the new team member:
-
-- First, an assessment report which should include a use-case and a cost-benefit analysis. This report should be completed within two weeks.
-- Second, the new member is expected to conduct a demonstration for the team labs, which should be prepared within a week.
-
-### How to propose a topic?
+For a comprehensive understanding of our workflow, please refer to the detailed documentation available in this [[Labs x Consulting Workflow|note]].
 
 
-### [[Reward Model & Nomination|How do we reward?]]
+## What we are working towards
 
-Our Tech Labs is a hub of continuous learning and application of advanced technologies. This program is designed to celebrate contributions at various levels, from enhancing knowledge to contributing to business growth.
+We are diligently exploring and analyzing trending technologies, identifying those with the potential to unleash innovations and shape a promising future. To discover the latest technologies we are focusing on, please explore our roadmap [[Labs Roadmap (Nov 23 update)|here]].
 
-- **Level 1: Knowledge Enrichment**: Team members enriching our knowledge base with notes, analysis, or demonstrations.
-- **Level 2: Project Application**: Those implementing new technologies or solutions in projects, whether internal, open-source, or client-focused.
-- **Level 3: Standardization**: Contributors whose methods or technologies become a standard in our Playbook, showcasing exemplary innovation.
-- **Level 4: Deal Acquisition**: Members instrumental in securing new business deals, significantly aiding our growth.
+
+## How to become a member?
+
+Currently, we primarily onboard new members through recommendations from existing members of our Labs team. However, if you're not yet connected with us but aspire to join, we invite you to actively contribute to tech discussions on our Discord server. Demonstrate your passion for technology there. We are always on the lookout for like-minded individuals and will warmly welcome those who share our enthusiasm and mindset.
+
+Once invited, you'll be paired with a mentor who will guide you through our operational practices and assist you in focusing on a specific research topic. You'll have one month to delve into this topic, culminating in the presentation of a technical report and a demonstration highlighting the advantages of the new technology.
+
+For a detailed outline of the onboarding process, please refer to [[Labs - New Member Onboarding|our guidance]].
+
+## How to propose a topic?
+
+Only members of the labs and consulting teams can officially propose new topics. However, if you're not part of these teams, you can still catch our eye by sharing your insights or discoveries on our Discord server. Our labs team is always eager for fresh ideas, and if your topic truly stands out, we'll not only champion it but also express our gratitude with some ICY tokens as appreciation. See more details [[Labs - Topic proposal & progress tracking|here]].
+
+## How do we reward?
+
+We celebrate your technological contributions by awarding ICY tokens, with the amount varying based on the impact of your input. This could range from enriching our knowledge base to driving real-world innovation. For more details on how we value different contributions, you can refer to our guidelines [[Reward Model & Nomination|here]].
+
+For Dwarves team members, engaging in future research projects is an excellent way to foster personal growth. Your R&D outputs play a crucial role in our performance evaluations. To understand how your research and development efforts contribute to your performance review, please visit [[How R&D contributes to Performance Review|this note]].
 
 ---
 
