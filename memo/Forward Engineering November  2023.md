@@ -20,20 +20,20 @@ notice:
 type: memo
 show_frontmatter: true
 ---
-This month, we have focused on revamping how we learn, familiarize, and work with tech. We are excited to announce that we have updated our Forward Engineering to better reflect the feedback and insights from our Labs team, Operations Team, and Consulting Team.
+**This** month, we have focused on revamping how we learn, familiarize, and work with tech. We are excited to announce that we have updated our Forward Engineering to better reflect the feedback and insights from our Labs team, Operations Team, and Consulting Team.
 
 This is to hopefully provide you with a more comprehensive publication that not only keeps you informed about the latest technologies and where they are applied, but also foster collaboration and innovation within our organization. We hope you find this edition of Forward Engineering informative and give you a better idea of what we’re doing. As always, we welcome your feedback and encourage you to share your thoughts on the content.
 ## Tech Radar
 
 ![](assets/Forward%20Engineering%20November%20%202023/8e1ba07a614cb4250d5cb2d80f208379_MD5.mp4)
 ### Rust
-******************Assess******************
+***Assess***
 
 |          |                                                                         |
 | -------- | ----------------------------------------------------------------------- |
 | Tags     | `#memory-management` `#systems-language` `#backend` `#embedded-systems` |
 | Domain   | `Embedded Systems` `Networking and DNS` `Security` `Fintech`            |
-| Projects | Upcoming                                                                |
+| Projects | `...`                                                                |
 
 Rust, the programming language, has been on our radar for quite some time, primarily in the context of developing compiler tooling – a niche that sparked only modest interest within our team. However, our perspective shifted significantly after engaging in [a community project](https://github.com/webuild-community/spacebot) aimed at creating a Rust-based game server. This experience opened our eyes to Rust's impressive capabilities. Our developers have come to greatly appreciate the language's speed, safety, and performance.
 

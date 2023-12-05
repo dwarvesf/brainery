@@ -3,7 +3,7 @@ tags:
   - community
   - bounty
   - updates
-title: Dwarves Community Bounty
+title: Community Bounty
 date: 2023-06-21
 description: null
 authors: null
