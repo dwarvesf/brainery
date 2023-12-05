@@ -19,7 +19,6 @@ event_date:
 
 #### Apply:
 
-- [[hiring/_base.md|_base]]
 
 
 ---
@@ -30,46 +29,18 @@ event_date:
 
 Once you are part of us, you become part of our greatest asset. We will always have your back: we throw away most traditional measures of success, and we do our best to set you up for growth from day one.
 
-### 💸 Fair salary
-Salary and benefit packages are based on role, expertise, and experience.
-
-### ⏰  Unlimited PTO
-We don't track your days off. Just make sure your team is well-informed and ready to back you up.
-
-### 🌿  Annual healthcare
-Bao Viet insurance support with a healthcare package per year.
-
-### 💳  Social insurance
-Social welfare provides insurance against economic risks.
-
-### ✔️ 13-month pay
-The annual extra paycheck for full-time Dwarves, is stipulated in the employment contract.
-
-### 📖 Learning sponsorship
-
-We provided an annual budget for learning and career development across all activities. This also applies to [community contributors](https://github.com/dwarvesf/brain#contributing).
-
-### 🏅  **Result-driven**
-We measure performance based on results, not processes.
-
-### 🌎 **Work from anywhere**
-We have offices in HCMC, Da Lat, Hanoi. But feel free to work anywhere you feel best.
-
-### 🎉 **Diverse by default**
-We encourage everyone to be loud-spoken about their perspectives, ideas, and opinions.
-
-### 🤝 **We are all owners**
-People at Dwarves receive company shares based on their contributions.
-
-### 🫂  Bonus packages
-We provide bonus packages ranging from project bonuses, R&D bonuses, and employee referral bonuses.
-
-### 🔆  Profit-sharing
-We offer annual profit sharing based on employees’ tenure.
+|                                                                                                                                                                                                                       |                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 💸 **Fair salary**<br>Salary and benefit packages are based on role, expertise, and experience.                                                                                                                       | 🏅  **Result-driven**<br>We measure performance based on results, not processes.                                              |
+| ⏰  **Unlimited PTO**<br>We don't track your days off. Just make sure your team is well-informed and ready to back you up.                                                                                            | 🌎 **Work from anywhere**<br>We have offices in HCMC, Da Lat, Hanoi. But feel free to work anywhere you feel best.            |
+| 🌿  **Annual healthcare**<br>Bao Viet insurance support with a healthcare package per year.                                                                                                                           | 🎉 **Diverse by default**<br>We encourage everyone to be loud-spoken about their perspectives, ideas, and opinions.           |
+| 💳  **Social insurance**<br>Social welfare provides insurance against economic risks.                                                                                                                                 | 🤝 **We are all owners**<br>People at Dwarves receive company shares based on their contributions.                            |
+| ✔️ **13-month pay**<br>The annual extra paycheck for full-time Dwarves, is stipulated in the employment contract.                                                                                                     | 🫂  **Bonus packages**<br>We provide bonus packages ranging from project bonuses, R&D bonuses, and employee referral bonuses. |
+| 📖 **Learning sponsorship**<br>We provided an annual budget for learning and career development across all activities. This also applies to [community contributors](https://github.com/dwarvesf/brain#contributing). | 🔆  **Profit-sharing**<br>We offer annual profit sharing based on employees’ tenure.                                                                                                                              |
 
 ---
 
-# What we do at Dwarves
+## What we do at Dwarves
 
 ### Build and ship top-notch software, set up and manage software teams
 Our clients are any organizations that put tech at great importance for their growth; no matter the size.
@@ -95,31 +66,21 @@ We are enthusiastic about the future of technology. We are the force behind some
 
 # Our team members have good things to say
 
-"One of my favorite things about Dwarves is how much we invest in learning new things. You will see yourself growing as a professional and as an individual."
-**[Thanh Pham](https://www.linkedin.com/in/thanh-pham-466326108/) -** Engineering Manager
-
-"I started with Dwarves, then joined one of our client's team afterward. Dwarves was very supportive, as long as it's the right move for my career path."
-[**An Duong**](https://www.linkedin.com/in/duongtruongan/) - Dwarves Alumnus
-
-"I always find new opportunities at Dwarves. There is so much room for growth as long as we are willing to accept challenges. We're all lifelong learners here."
-[**Minh Luu**](https://www.linkedin.com/in/minhluuquang/) - Full-stack Engineer
+|                                                                                                                                                               |                                                                                                                                                           |                                                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| "One of my favorite things about Dwarves is how much we invest in learning new things. You will see yourself growing as a professional and as an individual." | "I started with Dwarves, then joined one of our client's team afterward. Dwarves was very supportive, as long as it's the right move for my career path." | "I always find new opportunities at Dwarves. There is so much room for growth as long as we are willing to accept challenges. We're all lifelong learners here." |
+| **[Thanh Pham](https://www.linkedin.com/in/thanh-pham-466326108/) -** Engineering Manager                                                                     | [**An Duong**](https://www.linkedin.com/in/duongtruongan/) - Dwarves Alumnus                                                                              | [**Minh Luu**](https://www.linkedin.com/in/minhluuquang/) - Full-stack Engineer                                                                                  | 
 
 # We ensure a chance to grow
 Despite the background, if you have a passion for tech and the urge to improve, we provide all things that are needed.
 
-![[_base-20231205140745747.webp]]
-[**Huy Tieu**](https://techiestory.net/post/23-huy-tieu)
-[It’s okay to feel lost and level up after that](https://techiestory.net/post/23-huy-tieu)
+|                                                                                            |                                                                                                                                     |                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[_base-20231205140745747.webp\|200]]                                                     | ![[_base-20231205140925114.webp\|200]]                                                                                              | ![[_base-20231205140933323.webp\|200]]                                                                                                                              |
+| [**Huy Tieu**](https://techiestory.net/post/23-huy-tieu)                                   | [**An Tran**](https://careers.d.foundation/Dwarves-Careers-e55e8831f99f424d899b76c2a82fd21b?pvs=21)                                 | [**Ngoc Thanh**](https://memo.d.foundation/DF-Apprenticeship-2022-Meet-The-Mentors-Ngoc-Thanh-Pham-a6f8c3c7d4a14bd5be55d6465b9f330b)                                |
+| [It’s okay to feel lost and level up after that](https://techiestory.net/post/23-huy-tieu) | [Challenge yourself, and get excited over it](https://careers.d.foundation/Dwarves-Careers-e55e8831f99f424d899b76c2a82fd21b?pvs=21) | [Learning on the job can’t give you everything](https://memo.d.foundation/DF-Apprenticeship-2022-Meet-The-Mentors-Ngoc-Thanh-Pham-a6f8c3c7d4a14bd5be55d6465b9f330b) | 
 
-![[_base-20231205140925114.webp]]
-[**An Tran**](https://careers.d.foundation/Dwarves-Careers-e55e8831f99f424d899b76c2a82fd21b?pvs=21)
-[Challenge yourself, and get excited over it](https://careers.d.foundation/Dwarves-Careers-e55e8831f99f424d899b76c2a82fd21b?pvs=21)
-
-![[_base-20231205140933323.webp]]
-[**Ngoc Thanh**](https://memo.d.foundation/DF-Apprenticeship-2022-Meet-The-Mentors-Ngoc-Thanh-Pham-a6f8c3c7d4a14bd5be55d6465b9f330b)
-[Learning on the job can’t give you everything](https://memo.d.foundation/DF-Apprenticeship-2022-Meet-The-Mentors-Ngoc-Thanh-Pham-a6f8c3c7d4a14bd5be55d6465b9f330b)
-
-# Despite the level, we seek people that make things work
+## Despite the level, we seek people that make things work
 
 As a profitable and fast-moving company, the opportunities ahead of us are limitless. We are looking for people to grow with us and achieve great things together.
 
