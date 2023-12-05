@@ -19,11 +19,8 @@ event_date:
 
 #### Apply:
 
-```dataview
-LIST
-FROM "hiring" AND !"hiring/_index" AND !"hiring/_index"
-WHERE hiring = TRUE
-```
+- [[hiring/_base.md|_base]]
+
 
 ---
 
