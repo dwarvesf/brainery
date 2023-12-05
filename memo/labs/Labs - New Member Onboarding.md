@@ -30,4 +30,4 @@ We will do probation reviews based on the [review template](https://docs.google.
 
 ![[Labs - New Member Onboarding-20231121174522981.webp]]
 
-![[Labs - New Member Onboarding-20231121174536978.webp]]
+![[Labs - New Member Onboarding-20231205185801920.webp]]
