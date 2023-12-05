@@ -2,23 +2,23 @@
 tags:
   - dwarves
   - work
-title: Dwarves Community Earn
-product: null
+title: Community Earn
+product: 
 date: 2023-10-19
-description: null
+description: The Dwarves bounty program is the means through which both company peeps and the community can contribute to our daily activities. This includes tasks like building internal tools, engaging in new technology research and development, or sharing knowledge session
 authors:
   - monotykamary
   - hnh
 menu: main
-toc: null
-notice: null
-due_date: null
-status: null
-PICs: null
-completion_date: null
-bounty: null
-show_frontmatter: null
-type: null
+toc: 
+notice: 
+due_date: 
+status: 
+PICs: 
+completion_date: 
+bounty: 
+show_frontmatter: false
+type:
 ---
 
 The Dwarves bounty program is the means through which both company peeps and the community can contribute to our daily activities. This includes tasks like building internal tools, engaging in new technology research and development, or sharing knowledge session.
