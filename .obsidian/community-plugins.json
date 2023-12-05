@@ -2,9 +2,9 @@
   "digitalgarden",
   "dataview",
   "templater-obsidian",
-  "obsidian-projects",
-  "obsidian-local-images-plus",
-  "image-converter",
   "obsidian-shellcommands",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-local-images-plus",
+  "obsidian-projects",
+  "image-converter"
 ]

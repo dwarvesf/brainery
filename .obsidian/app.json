@@ -2,5 +2,7 @@
   "livePreview": true,
   "alwaysUpdateLinks": true,
   "strictLineBreaks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "./assets",
+  "newFileLocation": "current"
 }

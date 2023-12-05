@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "_templater",
+  "templates_folder": "",
   "templates_pairs": [
     [
       "",
@@ -24,7 +24,7 @@
     },
     {
       "folder": "hiring",
-      "template": "_templater/New Post.md"
+      "template": "_templater/New Hiring.md"
     },
     {
       "folder": "members",
