@@ -1,12 +1,12 @@
 ---
-tags: null
+tags: 
 title: Responsibility
-date: null
-description: null
-authors: null
+date: 2022-12-05
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 show_frontmatter: true
 ---

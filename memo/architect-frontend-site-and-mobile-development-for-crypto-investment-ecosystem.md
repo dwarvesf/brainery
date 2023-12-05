@@ -1,19 +1,20 @@
 ---
-tags: 
-  - case study
+tags:
+  - case
+  - study
   - design
 title: Architect Frontend Site And Mobile Development For Crypto Investment Ecosystem
-date: null
-description: null
-authors: null
+date: 2021-08-09
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 show_frontmatter: true
-author: null
+author: 
 created_time: 2021-08-09
-created: null
+created:
 ---
 
 ![[b20655a884273b1b8ccc6866067ed593_MD5.webp]]

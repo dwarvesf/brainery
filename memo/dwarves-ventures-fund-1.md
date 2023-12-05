@@ -1,12 +1,12 @@
 ---
-tags: null
+tags: 
 title: Dwarves Ventures Fund 1
-date: null
-description: null
-authors: null
+date: 2021-08-08
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 show_frontmatter: true
 ---

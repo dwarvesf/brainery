@@ -206,6 +206,7 @@ show_frontmatter: true
 - [[memo/passing-the-probation-get-3-upvotes.md|Passing The Probation Get 3 Upvotes]]
 - [[memo/playaround-with-clojure.md|Playaround With Clojure]]
 - [[memo/playaround-with-rust.md|Playaround With Rust]]
+- [[memo/consulting/Project Delivery Schedule and Guidelines.md|Project Delivery Schedule and Guidelines]]
 - [[memo/project-management.md|Project Management]]
 - [[memo/qc-onboarding.md|Qc Onboarding]]
 - [[memo/radio-talk-60-blue-green-deployment.md|Radio Talk 60 Blue Green Deployment]]
