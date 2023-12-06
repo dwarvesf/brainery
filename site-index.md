@@ -548,6 +548,7 @@ notice: null
 - [[memo/what-is-kubernetes.md|What Is Kubernetes]]
 - [[radar/timeline/what-is-pnpm.md|What Is Pnpm]]
 - [[memo/what-is-pnpm-compare-to-npmyarn.md|What Is Pnpm Compare To Npmyarn]]
+- [[newsletter/whats-new-november-2023.md|What's New in November 2023]]
 - [[newsletter/whats-new-october-2023.md|What's New in October 2023]]
 - [[radar/timeline/why-micro-frontend.md|Why Micro Frontend]]
 - [[memo/why-micro-frontend.md|Why Micro Frontend]]

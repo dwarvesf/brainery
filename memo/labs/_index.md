@@ -18,15 +18,15 @@ show_frontmatter: true
 <!-- labs-latest -->
 ## Latest from Labs Team
 - [[memo/labs/Labs - Who we are.md|Labs - Who we are]]
-- [[memo/Forward Engineering November  2023.md|Forward Engineering November  2023]]
-- [[earn/implementing-a-game-server-on-rust.md|implementing-a-game-server-on-rust]]
-- [[earn/implement-a-rust-game-through-wasm.md|implement-a-rust-game-through-wasm]]
-- [[earn/demo-qr-code-based-login.md|demo-qr-code-based-login]]
-- [[earn/demo-magic-links.md|demo-magic-links]]
-- [[earn/demo-biometrics-on-the-web-through-external-device-connection.md|demo-biometrics-on-the-web-through-external-device-connection]]
-- [[earn/applying-mpc-for-authentication-for-web3-console.md|applying-mpc-for-authentication-for-web3-console]]
 - [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup 1]]
 - [[memo/labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]]
+- [[memo/labs/Reward Model & Nomination.md|Reward Model & Nomination]]
+- [[memo/labs/Labs x Consulting Workflow.md|Labs x Consulting Workflow]]
+- [[memo/labs/Labs Roadmap (Nov 23 update).md|Labs Roadmap (Nov 23 update)]]
+- [[memo/labs/Labs - Topic proposal & progress tracking.md|Labs - Topic proposal & progress tracking]]
+- [[memo/labs/Labs - New Member Onboarding.md|Labs - New Member Onboarding]]
+- [[memo/labs/Knowledge Journey.md|Knowledge Journey]]
+- [[memo/labs/How R&D contributes to Performance Review.md|How R&D contributes to Performance Review]]
 
 <!-- /labs-latest -->
 <!-- forward-engineering-publications -->
