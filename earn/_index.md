@@ -2,6 +2,8 @@
 tags:
   - dwarves
   - work
+  - earn
+  - bounty
 title: Community Earn
 product: 
 date: 2023-10-19

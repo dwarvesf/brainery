@@ -39,7 +39,7 @@ With Labs team, it's all about researching cool, industry-moving technologies an
 
 Head to [November Forward Engineering](https://note.d.foundation/memo/forward-engineering-november-2023/) for more details.
 
-![[whats-new-november-2023-20231206133445648.webp]]
+![[whats-new-november-2023-20231206133445648.webp|600]]
 
 #### Monthly top performers
 
@@ -54,7 +54,7 @@ Dwarves' team members now can get an advance of up to 25% of their monthly salar
 
 This bot command can be used in our Discord server, and anonymously :)
 
-![[whats-new-november-2023-20231206133455685.webp]]
+![[whats-new-november-2023-20231206133455685.webp|500]]
 
 #### Misc
 - Our Discord server is for everyone. We're happy to see ~400 active users last month, and of course, top ten voices in get 5 $ICY each.
