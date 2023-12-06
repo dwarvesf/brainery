@@ -30,7 +30,7 @@ Last November, we kicked-off the Labs team, introduced Salary Advance for the Dw
 - **[[#Monthly top performers]]** - The top 5 high-performing members get rewards and NFT badges. NFT badges can be staked to earn shares of the company.
 - **[[#Salary Advance]]** - Dwarves' team members now can get an advance of their monthly salary in case of emergency.
 - **note.d.foundation** - upgraded homepage, categorized content, and now search-able.
-- **[[#Join our team]] - React Native Developer, Admin / Ops
+- **[[#Join our team]]** - React Native Developer, Admin / Ops
 
 
 #### Launching Labs team
