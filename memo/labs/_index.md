@@ -22,8 +22,8 @@ show_frontmatter: true
 - [[memo/labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]]
 - [[memo/labs/Reward Model & Nomination.md|Reward Model & Nomination]]
 - [[memo/labs/Labs x Consulting Workflow.md|Labs x Consulting Workflow]]
-- [[memo/labs/Labs Roadmap (Nov 23 update).md|Labs Roadmap (Nov 23 update)]]
 - [[memo/labs/Labs - Topic proposal & progress tracking.md|Labs - Topic proposal & progress tracking]]
+- [[memo/labs/Labs Roadmap (Nov 23 update).md|Labs Roadmap (Nov 23 update)]]
 - [[memo/labs/Labs - New Member Onboarding.md|Labs - New Member Onboarding]]
 - [[memo/labs/Knowledge Journey.md|Knowledge Journey]]
 - [[memo/labs/How R&D contributes to Performance Review.md|How R&D contributes to Performance Review]]
@@ -85,7 +85,6 @@ For Dwarves team members, engaging in future research projects is an excellent w
 
 ### Upcoming
 
-- [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup 1]]: Our first weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
 
 
 ### Past Events
@@ -94,6 +93,7 @@ For Dwarves team members, engaging in future research projects is an excellent w
 • Consolidate NYC taxi data in parallel (through map-reduce) over HTTPS
 • Aggregate IBM AML transactions (Anti-Money Laundering)
 • Some examples of how it is used to consolidate and do basic analytics on note.d and log.console.so
+- [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup 1]]: Our first weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
 
 
 <!-- /events -->

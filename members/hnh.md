@@ -9,6 +9,7 @@ avatar: null
 undefined
 ## Written Notes
 
+- [[earn/_base.md|Community Earn]]
 - [[earn/_index.md|Community Earn]]
 - [[earn/fortress-mma-score.md|Fortress Mma Score]]
 - [[earn/fortress-shanky-data.md|Fortress Shanky Data]]

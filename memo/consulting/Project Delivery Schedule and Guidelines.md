@@ -76,7 +76,7 @@ Dwarves Foundation Team's guide on our project delivery process. This post will 
 
 ## **Important Reminders**
 
-- **Weekly Report Completion**: Complete the report every Friday. For estimation help, check [Estimation Guidelines](https://www.notion.so/ee634aba774b41ef8f94d1203cdad75b?pvs=21).
+- **Weekly Report Completion**: Complete the report every Friday. For estimation help, check [[Estimation Guidelines]].
 - **Project Achievements**: If you have significant milestones or cool aspects of your project, notify the Consulting team for potential demo/showcase inclusion. Recognition is guaranteed.
 
 ![[Project Delivery Schedule and Guidelines-20231205231524556.webp]]

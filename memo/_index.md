@@ -117,6 +117,7 @@ show_frontmatter: true
 - [[memo/dwarves-ventures-fund-1.md|Dwarves Ventures Fund 1]]
 - [[memo/easy-prompt-engineering-for-business-use-and-mitigating-risks-in-llms.md|Easy Prompt Engineering For Business Use And Mitigating Risks In Llms]]
 - [[memo/effective-meeting.md|Effective Meeting]]
+- [[memo/consulting/Estimation Guidelines.md|Estimation Guidelines]]
 - [[memo/estimation-in-agile.md|Estimation In Agile]]
 - [[memo/exploring-machine-learning-approaches-for-fine-tuning-llama-models.md|Exploring Machine Learning Approaches For Fine Tuning Llama Models]]
 - [[memo/fabric-hyperledger-architecture-explanation.md|Fabric Hyperledger Architecture Explanation]]
