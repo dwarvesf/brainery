@@ -1,4 +1,4 @@
 [submodule "playbook"]
 	path = playbook
-	url = https://github.com:dwarvesf/playbook.git
+	url = https://github.com/dwarvesf/playbook.git
 	branch = master
