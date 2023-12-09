@@ -33,3 +33,36 @@ Among the topics we will cover, there will be a short topic discussion and demon
 ### Output:
 - Understand the research progress and passions of the labs team
 - Understand any shortcomings or things to improve for the next weekly catchup
+
+---
+
+## Notes from the catchup
+
+🧠 **AI - Realtime Memory**
+
+- LLMs are now using Retrieval Augmented Generation (RAG) for context and updates.
+- Realtime memory is another step into optimizing new data into an LLM's intuition through more unique base prompting.
+- Challenges like token limits are being addressed with fewer steps and unique base prompting.
+
+🕹️ **Rust Game Server on Actix**
+
+- Significant progress on the Rust game server built on Actix.
+- @khacvy also demoed a short multiplayer shooter game. 👾 
+- Exploring Tokio as an alternative framework to see cost benefits between it and Actix.
+- Documentation gaps identified, considering better tooling for a smoother development experience.
+
+🎨 **Mochi UI Practices**
+
+- Focus on standardization across Figma designs, component naming, and usability.
+- Practices and our open-source standard are mostly finished, with us hosting a workshop at Thursday, December 14, 2023 400 PM.
+
+🌐 **WebStudio - Emerging Tech**
+
+- WebStudio, an open-source low-code helper for building websites similar to WebFlow.
+- Utilizes immerhin for large tree synchronization and real-time collaboration.
+
+🌟 **Potential Standards**
+
+- JSON patches (RFC 6902) and design tokens (W3C standard) introduced by WebStudio.
+- JSON patches for lightweight changes to JSON documents.
+- Design tokens for consistent visual style in design systems.

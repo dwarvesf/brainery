@@ -87,6 +87,7 @@ LIST description
 FROM #labs AND #event 
 LIMIT 3
 WHERE event_date >= date(today)
+SORT event_date DESC
 ```
 
 ### Past Events
@@ -96,6 +97,7 @@ LIST description
 FROM #labs AND #event 
 LIMIT 3
 WHERE event_date < date(today)
+SORT event_date DESC
 ```
 
 <!-- /events -->
