@@ -5,7 +5,7 @@ tags:
   - home
 title: Labs Team
 date: 2023-11-30
-description: This is our labs team homepage, where we list out the latest advances in our engineering team, our publications, events & workshops, as well as frequently asked questions on who and what team labs are.
+description: This is our Labs team homepage, where we list out the latest advances in our engineering team, our publications, events & workshops, as well as frequently asked questions on who and what team labs are.
 authors:
   - monotykamary
 menu: labs
@@ -18,8 +18,8 @@ show_frontmatter: true
 <!-- labs-latest -->
 ## Latest from Labs Team
 - [[memo/labs/Labs - Who we are.md|Labs - Who we are]]
-- [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup 1]]
 - [[memo/labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]]
+- [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup 1]]
 - [[memo/labs/Reward Model & Nomination.md|Reward Model & Nomination]]
 - [[memo/labs/Labs x Consulting Workflow.md|Labs x Consulting Workflow]]
 - [[memo/labs/Labs Roadmap (Nov 23 update).md|Labs Roadmap (Nov 23 update)]]

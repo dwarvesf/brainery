@@ -11,5 +11,6 @@ toc: false
 notice: 
 type: 
 show_frontmatter: true
-event_date:
+event_date: 
+pinned:
 ---

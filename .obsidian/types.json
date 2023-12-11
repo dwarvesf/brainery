@@ -14,6 +14,7 @@
     "publish": "checkbox",
     "show_frontmatter": "checkbox",
     "event-date": "date",
-    "hiring": "checkbox"
+    "hiring": "checkbox",
+    "pinned": "checkbox"
   }
 }

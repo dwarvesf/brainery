@@ -1,6 +1,6 @@
 <%*
 const dv = this.app.plugins.plugins["dataview"].api;
-const basePages = dv.pages('"_base_home.md"');
+const basePages = dv.pages('"_base.md"');
 
 async function asyncReplace(str, regex, asyncFn) {
     const promises = [];

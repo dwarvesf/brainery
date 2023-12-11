@@ -20,9 +20,9 @@ event_date:
 #### Apply:
 
 ```dataview
-LIST
-FROM "hiring" AND !"hiring/_index" AND !"hiring/_base"
-WHERE hiring = TRUE
+LIST WITHOUT ID "[[" + file.path + "|" + title + "]]"
+FROM "hiring/open-positions"
+WHERE hiring = true
 ```
 
 ---

@@ -28,50 +28,32 @@ We believe that behind every success comes great preparation, accumulation and c
 ## Radar Index
 
 <!-- col-2 #1 -->
+<!-- radar-latest-1 -->
 ```dataview
 LIST WITHOUT ID "[[" + file.path + "|" + title + "]]"
 FROM "radar" AND !"radar/_index" AND !"radar/_base"
 LIMIT 5
 ```
-
+<!-- radar-latest-1 -->
+<!-- radar-latest-2 -->
+```dataview
+LIST WITHOUT ID "[[" + file.path + "|" + title + "]]"
+FROM "radar" AND !"radar/_index" AND !"radar/_base"
+LIMIT 5
+```
+<!-- radar-latest-2 -->
 <!-- /col-2 #1 -->
-
-<!-- col-2 #2 -->
-```dataview
-LIST WITHOUT ID "[[" + file.path + "|" + title + "]]"
-FROM "radar" AND !"radar/_index" AND !"radar/_base"
-LIMIT 5
-```
-
-<!-- /col-2 #2 -->
-
-
-<!-- col-2 #3 -->
-```dataview
-LIST WITHOUT ID "[[" + file.path + "|" + title + "]]"
-FROM "radar" AND !"radar/_index" AND !"radar/_base"
-LIMIT 5
-```
-
-<!-- /col-2 #3 -->
-
-<!-- col-2 #4 -->
-```dataview
-LIST WITHOUT ID "[[" + file.path + "|" + title + "]]"
-FROM "radar" AND !"radar/_index" AND !"radar/_base"
-LIMIT 5
-```
-
-<!-- /col-2 #4 -->
 ## Upcoming Events
 
 ```dataview
 LIST WITHOUT ID "[[" + file.path + "|" + title + "]] - " + event_date
-FROM #event 
+FROM #event
 LIMIT 3
 WHERE event_date < date(today)
 SORT event_date ASC
+WHERE !contains(file.path, "_index") AND !contains(file.path, "_base")
 ```
+
 
 
 ## Open Bounty

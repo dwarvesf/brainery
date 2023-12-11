@@ -28,49 +28,28 @@ We believe that behind every success comes great preparation, accumulation and c
 ## Radar Index
 
 <!-- col-2 #1 -->
+<!-- radar-latest-1 -->
 - [[radar/zustand.md|Zustand]]
 - [[radar/zod.md|Zod]]
 - [[radar/yup.md|Yup]]
 - [[radar/webflow.md|Webflow]]
 - [[radar/webdriverio.md|Webdriverio]]
 
+<!-- radar-latest-1 -->
+<!-- radar-latest-2 -->
+- [[radar/zustand.md|Zustand]]
+- [[radar/zod.md|Zod]]
+- [[radar/yup.md|Yup]]
+- [[radar/webflow.md|Webflow]]
+- [[radar/webdriverio.md|Webdriverio]]
 
+<!-- radar-latest-2 -->
 <!-- /col-2 #1 -->
-
-<!-- col-2 #2 -->
-- [[radar/zustand.md|Zustand]]
-- [[radar/zod.md|Zod]]
-- [[radar/yup.md|Yup]]
-- [[radar/webflow.md|Webflow]]
-- [[radar/webdriverio.md|Webdriverio]]
-
-
-<!-- /col-2 #2 -->
-
-
-<!-- col-2 #3 -->
-- [[radar/zustand.md|Zustand]]
-- [[radar/zod.md|Zod]]
-- [[radar/yup.md|Yup]]
-- [[radar/webflow.md|Webflow]]
-- [[radar/webdriverio.md|Webdriverio]]
-
-
-<!-- /col-2 #3 -->
-
-<!-- col-2 #4 -->
-- [[radar/zustand.md|Zustand]]
-- [[radar/zod.md|Zod]]
-- [[radar/yup.md|Yup]]
-- [[radar/webflow.md|Webflow]]
-- [[radar/webdriverio.md|Webdriverio]]
-
-
-<!-- /col-2 #4 -->
 ## Upcoming Events
 
 - [[memo/labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]] - November 23, 2023
 - [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup #1]] - December 06, 2023
+
 
 
 
@@ -86,6 +65,8 @@ We believe that behind every success comes great preparation, accumulation and c
 
 ## Memos
 
+- [[memo/consulting/_index.md|Consulting Team]] - monotykamary, huytq
+- [[memo/consulting/_base.md|Consulting Team]] - monotykamary, huytq
 - [[memo/consulting/Estimation Guidelines.md|Estimation Guidelines]] - huytq, monotykamary
 - [[memo/consulting/Project Delivery Schedule and Guidelines.md|Project Delivery Schedule and Guidelines]] - huytq
 - [[memo/labs/Labs - Who we are.md|Labs - Who we are]] - thanh
@@ -93,9 +74,7 @@ We believe that behind every success comes great preparation, accumulation and c
 - [[memo/labs/_base.md|Labs Team]] - monotykamary
 - [[memo/Forward Engineering November  2023.md|November Forward Engineering 2023]] - thanh, monotykamary
 - [[memo/salary-advance.md|$icy Salary Advance]] - hnh
-- [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup #1]] - monotykamary
 - [[memo/labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]] - monotykamary
-- [[memo/icy-in-2024.md|$icy in 2024]] - hnh
 
 
 ## Open positions

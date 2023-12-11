@@ -24,6 +24,7 @@ notice: This is an internal event demo workshop and showcase of DuckDB for evalu
 type: memo
 show_frontmatter: true
 event_date: 2023-11-23
+pinned: true
 ---
 
 | Event Date                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Discord Channel | Type     |
