@@ -83,5 +83,8 @@ LIMIT 10
 
 ## Open positions
 
-- Backend Engineer, Go/Elixir/Rust
-- React Native Developer
+```dataview
+LIST WITHOUT ID "[[" + file.path + "|" + title + "]]"
+FROM "hiring/open-positions"
+WHERE hiring = true
+```

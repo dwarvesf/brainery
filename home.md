@@ -80,5 +80,6 @@ We believe that behind every success comes great preparation, accumulation and c
 
 ## Open positions
 
-- Backend Engineer, Go/Elixir/Rust
-- React Native Developer
+- [[hiring/open-positions/backend-engineer-go-elixir-rust.md|Backend Engineer, Go/Elixir/Rust]]
+- [[hiring/open-positions/react-native-developer.md|React Native Developer]]
+
