@@ -8,7 +8,7 @@ menu: radar
 toc: 
 notice: 
 type: 
-show_frontmatter: true
+hide_frontmatter: false
 confidence: Moderate
 assign: Thanh Pham
 priority: 

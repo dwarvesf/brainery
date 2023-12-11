@@ -11,7 +11,7 @@ menu: memo
 toc: false
 notice:
 type: memo
-show_frontmatter: true
+hide_frontmatter: false
 ---
 
 as we said in our recent post [[memo/icy-in-2024|$icy in 2024 plan]]. Today, we're launching the first feature from our 2024 roadmap: an $icy salary advance.

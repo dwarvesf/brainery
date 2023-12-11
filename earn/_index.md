@@ -19,7 +19,7 @@ status:
 PICs: 
 completion_date: 
 bounty: 
-show_frontmatter: false
+hide_frontmatter: true
 type:
 ---
 

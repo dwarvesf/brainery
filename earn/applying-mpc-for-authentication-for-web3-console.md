@@ -17,7 +17,7 @@ status: Figure Out
 PICs: null
 completion_date: null
 bounty: 150
-show_frontmatter: null
+hide_frontmatter: null
 type: null
 function: null
 🔺_priority: null

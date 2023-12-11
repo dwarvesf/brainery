@@ -17,7 +17,7 @@ status: In Progress
 PICs: 
 completion_date: 
 bounty: 
-show_frontmatter: 
+hide_frontmatter: 
 function: 
 🔺_priority: 
 reward_🧊: 200

@@ -10,7 +10,7 @@ menu:
 toc: false
 notice: 
 type: 
-show_frontmatter: false
+hide_frontmatter: true
 event_date:
 ---
 **When we put Foundation in our name, we mean it. We want to put in place a team of go-getters who solve real-world problems, build big platforms, and spread goodwill across communities.**

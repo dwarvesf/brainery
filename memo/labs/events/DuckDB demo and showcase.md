@@ -22,7 +22,7 @@ menu:
 toc: false
 notice: This is an internal event demo workshop and showcase of DuckDB for evaluation and use for data science and analytical use-cases at our company.
 type: memo
-show_frontmatter: true
+hide_frontmatter: false
 event_date: 2023-11-23
 pinned: true
 ---

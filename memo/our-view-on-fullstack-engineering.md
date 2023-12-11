@@ -10,7 +10,7 @@ menu: memo
 toc: null
 notice: null
 type: null
-show_frontmatter: true
+hide_frontmatter: false
 author: Thanh Pham
 created_time: 2023-08-30
 created: 2023-08-30

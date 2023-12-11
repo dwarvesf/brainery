@@ -12,7 +12,7 @@ menu: labs
 toc: false
 notice: 
 type: memo
-show_frontmatter: true
+hide_frontmatter: true
 ---
 <!-- col-2 #1 -->
 <!-- labs-latest -->

@@ -3,7 +3,7 @@ tags:
   - dwarves
   - work
   - home
-title: 
+title: Home
 date: 2023-12-11
 description: A collection of notes for everything we do and operate at Dwarves. This is where we keep our internal notes.
 authors:
@@ -14,8 +14,9 @@ menu:
 toc: false
 notice: 
 type: 
-show_frontmatter: false
-event_date:
+hide_frontmatter: true
+event_date: 
+hide_title: true
 ---
 Welcome to Dwarves Notes, a collection of notes for everything we do and operate at Dwarves. Dwarves are a group of technology innovation advocates. This project is a part of our information engine, where we consolidate know-how and expertise from and for our team as part of our MMA system: **Mastery**, **Meaning**, and **Autonomy**.
 

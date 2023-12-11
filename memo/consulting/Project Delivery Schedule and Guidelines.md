@@ -13,7 +13,7 @@ menu: memo
 toc: false
 notice: 
 type: memo
-show_frontmatter: true
+hide_frontmatter: false
 event_date:
 ---
 Dwarves Foundation Team's guide on our project delivery process. This post will serve as your go-to resource for understanding our weekly, bi-weekly, and monthly activities, ensuring that we stay on track and excel in our deliveries.

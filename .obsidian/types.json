@@ -12,9 +12,10 @@
     "PICs": "text",
     "completion_date": "date",
     "publish": "checkbox",
-    "show_frontmatter": "checkbox",
+    "hide_frontmatter": "checkbox",
     "event-date": "date",
     "hiring": "checkbox",
-    "pinned": "checkbox"
+    "pinned": "checkbox",
+    "hide_title": "checkbox"
   }
 }

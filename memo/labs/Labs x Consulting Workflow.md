@@ -15,7 +15,7 @@ menu: labs
 toc: false
 notice: 
 type: 
-show_frontmatter: true
+hide_frontmatter: false
 ---
 This workflow consolidates how new tech is introduced through the Labs team and how it gets processed to Consulting team to apply for projects and bring awareness of our tech expertise.
 

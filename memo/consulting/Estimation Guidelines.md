@@ -16,7 +16,7 @@ menu: memo
 toc: false
 notice: 
 type: memo
-show_frontmatter: true
+hide_frontmatter: false
 event_date:
 ---
 

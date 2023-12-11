@@ -13,7 +13,7 @@ menu: memo
 toc: 
 notice: 
 type: 
-show_frontmatter: true
+hide_frontmatter: false
 author: Tom X Nguyen
 created_time: 2023-01-11
 created: 2023-01-11

@@ -11,7 +11,7 @@ menu: memo
 toc: null
 notice: null
 type: null
-show_frontmatter: true
+hide_frontmatter: false
 author: null
 created_time: 2022-12-26
 created: 2022-12-26

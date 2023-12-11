@@ -17,7 +17,7 @@ PICs:
   - nam
 completion_date: null
 bounty: 120
-show_frontmatter: false
+hide_frontmatter: true
 type: earn
 ---
 

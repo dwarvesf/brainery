@@ -10,7 +10,7 @@ menu:
 toc: false
 notice: 
 type: 
-show_frontmatter: true
+hide_frontmatter: false
 ---
 
 ```dataview

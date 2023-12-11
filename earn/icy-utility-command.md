@@ -19,7 +19,7 @@ PICs:
 functional: 🛠️ Tooling
 completion_date: null
 bounty: 50
-show_frontmatter: false
+hide_frontmatter: true
 type: earn
 ---
 

@@ -16,7 +16,7 @@ PICs:
   - tropicaldog
 completion_date: null
 bounty: 60
-show_frontmatter: false
+hide_frontmatter: true
 type: tooling
 ---
 

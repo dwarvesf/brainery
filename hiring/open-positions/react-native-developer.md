@@ -13,7 +13,7 @@ menu: hiring
 toc: false
 notice: 
 type: hiring
-show_frontmatter: false
+hide_frontmatter: true
 event_date: 
 hiring: true
 ---

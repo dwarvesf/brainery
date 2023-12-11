@@ -9,7 +9,7 @@ menu: memo
 toc: null
 notice: null
 type: null
-show_frontmatter: true
+hide_frontmatter: false
 author: null
 created_time: 2020-05-25
 created: 2020-05-17

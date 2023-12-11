@@ -16,7 +16,7 @@ menu: labs
 toc: false
 notice:
 type: memo
-show_frontmatter: true
+hide_frontmatter: false
 ---
 
 At Labs, our team is united by a shared passion for new technologies. We are a diverse group of individuals, each with unique backgrounds and personalities, but our common ground lies in our dedication to exploring and understanding emerging technologies. Our goal is to investigate and learn about advancements that have the potential to enhance our lives and contribute to a better future.

@@ -12,7 +12,7 @@ menu: events
 toc: false
 notice: 
 type: events
-show_frontmatter: false
+hide_frontmatter: true
 event_date:
 ---
 This page holds a collection of both our internal and external events, including the things we do with the Labs team, Consulting team, Operations, team, and the community.

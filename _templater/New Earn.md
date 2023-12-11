@@ -15,6 +15,6 @@ PICs:
 functional: 
 completion_date: 
 bounty: 150
-show_frontmatter: false
+hide_frontmatter: true
 pinned:
 ---

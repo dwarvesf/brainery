@@ -11,7 +11,7 @@ menu: memo
 toc: false
 notice:
 type: memo
-show_frontmatter: true
+hide_frontmatter: false
 ---
 
 Follow up on our recent post [[memo/df-protocol-icy-dfg|df protocol, $icy and $dfg]].

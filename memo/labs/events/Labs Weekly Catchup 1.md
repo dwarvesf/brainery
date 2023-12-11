@@ -16,7 +16,7 @@ menu:
 toc: false
 notice: 
 type: memo
-show_frontmatter: true
+hide_frontmatter: false
 event_date: 2023-12-06
 ---
 

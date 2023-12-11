@@ -8,5 +8,5 @@ menu: memo
 toc: 
 notice: 
 type: 
-show_frontmatter: true
+hide_frontmatter: false
 ---

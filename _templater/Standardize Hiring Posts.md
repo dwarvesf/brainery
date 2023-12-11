@@ -17,8 +17,6 @@ for (const element of hiringPages) {
 	    if (value === undefined) {
 	        if (prop === "menu") {
 	            value = "hiring";
-	        } else if (prop === "show_frontmatter") {
-	            value = true;
 	        } else if (prop === "date" && frontmatter.created) {
 	            value = frontmatter.created;
 	        } else if (prop === "title") {

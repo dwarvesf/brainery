@@ -8,7 +8,7 @@ menu: radar
 toc: null
 notice: null
 type: null
-show_frontmatter: true
+hide_frontmatter: false
 confidence: null
 assign: Tuan Dao, Mashiro
 priority: null

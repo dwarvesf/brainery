@@ -12,7 +12,7 @@ menu: memo
 toc: null
 notice: null
 type: null
-show_frontmatter: true
+hide_frontmatter: false
 author: null
 created_time: 2023-04-11
 created: 2023-04-11

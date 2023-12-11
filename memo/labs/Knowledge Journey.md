@@ -16,7 +16,7 @@ menu: labs
 toc: false
 notice: 
 type: memo
-show_frontmatter: true
+hide_frontmatter: false
 ---
 Our process for evaluating and integrating technology is designed to be thorough yet efficient, ensuring we adopt only the most effective tools into our operations. It consists of four key stages: Assess, Trial, Adopt, and Hold.
 

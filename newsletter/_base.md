@@ -12,7 +12,7 @@ menu: newsletter
 toc: false
 notice: 
 type: newsletter
-show_frontmatter: true
+hide_frontmatter: true
 event_date: 
 pinned:
 ---

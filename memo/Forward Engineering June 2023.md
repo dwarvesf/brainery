@@ -13,7 +13,7 @@ menu: memo
 toc: 
 notice: 
 type: 
-show_frontmatter: true
+hide_frontmatter: false
 author: Thanh Pham
 created_time: 2023-06-30
 created: 2023-06-30

@@ -8,7 +8,7 @@ menu: radar
 toc: null
 notice: null
 type: null
-show_frontmatter: true
+hide_frontmatter: false
 status: Adopt
 note: null
 person: minhth, trkhoi, An Tran, Andy Hieu Phan

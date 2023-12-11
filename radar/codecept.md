@@ -8,7 +8,7 @@ menu: radar
 toc: null
 notice: null
 type: null
-show_frontmatter: true
+hide_frontmatter: false
 confidence: Moderate
 assign: Steve Huynh, Tuan Tran, Ngan Le Kim
 priority: 🌟 NEW
