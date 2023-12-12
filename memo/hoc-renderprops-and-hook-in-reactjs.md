@@ -53,13 +53,10 @@ view rawApp.js hosted with ❤ by GitHub
 ```
 
 
-![[c02d8b16fe8c6c8b864064441c8ac84d_MD5.webp]]
 
 
 But if i want to add more text like XYZ and i want another button that toggle the text XYZ, i will have to create visible state for button and the method for toggle its visibility
 
-
-![[c02d8b16fe8c6c8b864064441c8ac84d_MD5.webp]]
 
 
 ```javascript
@@ -279,7 +276,6 @@ While the second inject into first high-order component
 * state: isAsdToggle
 * method: toggleAsd
 
-![[c02d8b16fe8c6c8b864064441c8ac84d_MD5.webp]]
 
 ## Refactor the component using hook
 

@@ -172,7 +172,7 @@ These insights continue to broaden our understanding of both traditional and eme
 
 [Dwarves Rewind](https://www.linkedin.com/newsletters/dwarves-rewind-6963734647327375360/) is a reading list serving as a collection of news we aggregate weekly. Tech is a very high-paced industry, and rewind helps to serve as a curated list of trending and high-profile topics that everyone can look back on.
 
-![[memo/assets/augusts-forward-engineering/7d72b4327ffbaf2595178ba126a3d16a_MD5.webp]]
+![[memo/assets/Forward Engineering August 2023/7d72b4327ffbaf2595178ba126a3d16a_MD5.webp]]
 
 ### <span style='color:green'>Trending and Hot Topics</span>
 

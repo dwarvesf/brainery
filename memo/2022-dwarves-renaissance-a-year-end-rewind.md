@@ -99,10 +99,8 @@ Feature Flags tackled a concern spanning across our DevOps, Management, and Engi
 
 <!-- column abaecf06-92ba-4cbc-a213-05192d7c5f20 -->
 
+![[Dwarves Renaissance.mov]]
 
-<p><div class="res_emb_block">
-<iframe width="640" height="480" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f179ef1f-1087-4ef9-ac4c-470b3d9a6a29/Brainery_Graph_1.mov?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202200Z&X-Amz-Expires=3600&X-Amz-Signature=05fb9eccc61e64b519493a13b51bb1fbed0a1e377442b939e8cffedcbc160c08&X-Amz-SignedHeaders=host&x-id=GetObject" frameborder="0" allowfullscreen></iframe>
-</div></p>
 
 *A 2022 look back on our Brainery timeline, with a total of 128 notes contributed.*
 
