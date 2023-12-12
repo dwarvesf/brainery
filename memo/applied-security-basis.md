@@ -27,7 +27,7 @@ Plus, if you are interested in security, poking around **capture the flag (CTF)*
 
 SSH, Secure Shell or Secure Socket Shell, is a network protocol that provides a secure channel to operate services over the unsecured network. It's used in authenticating to send remote command, log in or grant permission, ..etc.
 
-![[13c107925c2a38cd5786d6ae6022e104_MD5.webp]]
+![[applied-security-basis-20231212171038098.webp]]
 
 
 Whenever a computer sends data to the network with SSH integrated, SSH automatically encrypts it. When the data reaches its intended recipient, SSH automatically decrypts (unscrambles) it. The result is transparent encryption: users can work while their communications are safely encrypted on the network.
