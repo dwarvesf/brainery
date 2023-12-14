@@ -18,6 +18,7 @@ hide_frontmatter: true
 
 This is where we keep our internal updates, learned and curated by our engineers.
 
+- [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup #1]]: Our second weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
 - [[memo/consulting/_index.md|Consulting Team]]: This is our Consulting team homepage. Our consulting team helps businesses solve complex challenges and improve performance by identifying root causes, developing solutions, and collaborating with stakeholders for successful implementation. We offer expertise in various areas including strategy, operations, management, IT, finance, and marketing to help your business achieve its goals.
 - [[memo/consulting/_base.md|Consulting Team]]: This is our Consulting team homepage. Our consulting team helps businesses solve complex challenges and improve performance by identifying root causes, developing solutions, and collaborating with stakeholders for successful implementation. We offer expertise in various areas including strategy, operations, management, IT, finance, and marketing to help your business achieve its goals.
 - [[memo/consulting/Estimation Guidelines.md|Estimation Guidelines]]: When we conduct an estimation, it is recommended to abandon the transitional “exact hours” assessment method, instead, use the story point based on the Fibonacci number (1, 2, 3, 5, 8, 13, 21…). The number expresses an estimation of the overall effort required to fully implement a backlog item or any piece of work.
@@ -35,5 +36,4 @@ This is where we keep our internal updates, learned and curated by our engineers
 - [[memo/icy-in-2024.md|$icy in 2024]]: Quick recap about $icy progress and what's next in 2024.
 - [[memo/df-protocol-icy-dfg.md|💠 df protocol, $icy and $dfg]]: Here's our draft internal map/v0 for 🧊 $icy play, based on our current activities at this borderless software firm...
 - [[memo/labs/Reward Model & Nomination.md|Reward Model & Nomination]]: Our Tech Labs is a hub of continuous learning and application of advanced technologies. This program is designed to celebrate contributions at various levels, from enhancing knowledge to contributing to business growth.
-- [[memo/labs/Labs x Consulting Workflow.md|Labs x Consulting Workflow]]: This workflow consolidates how new tech is introduced through the Labs team and how it gets processed to Consulting team to apply for projects and bring awareness of our tech expertise.
 

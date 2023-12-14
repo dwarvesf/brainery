@@ -304,6 +304,7 @@ notice: null
 - [[memo/labs/Labs Roadmap (Nov 23 update).md|Labs Roadmap (Nov 23 update)]]
 - [[memo/labs/_index.md|Labs Team]]
 - [[memo/labs/_base.md|Labs Team]]
+- [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup #1]]
 - [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup #1]]
 - [[memo/labs/Labs x Consulting Workflow.md|Labs x Consulting Workflow]]
 - [[radar/ladle.md|Ladle]]

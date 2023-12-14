@@ -17,16 +17,16 @@ hide_frontmatter: true
 <!-- col-2 #1 -->
 <!-- labs-latest -->
 ## Latest from Labs Team
+- [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup 2]]
 - [[memo/labs/Labs - Who we are.md|Labs - Who we are]]
 - [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup 1]]
 - [[memo/labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]]
 - [[memo/labs/Reward Model & Nomination.md|Reward Model & Nomination]]
 - [[memo/labs/Labs x Consulting Workflow.md|Labs x Consulting Workflow]]
-- [[memo/labs/Labs Roadmap (Nov 23 update).md|Labs Roadmap (Nov 23 update)]]
 - [[memo/labs/Labs - Topic proposal & progress tracking.md|Labs - Topic proposal & progress tracking]]
+- [[memo/labs/Labs Roadmap (Nov 23 update).md|Labs Roadmap (Nov 23 update)]]
 - [[memo/labs/Labs - New Member Onboarding.md|Labs - New Member Onboarding]]
 - [[memo/labs/Knowledge Journey.md|Knowledge Journey]]
-- [[memo/labs/How R&D contributes to Performance Review.md|How R&D contributes to Performance Review]]
 
 <!-- /labs-latest -->
 <!-- forward-engineering-publications -->
@@ -89,6 +89,7 @@ For Dwarves team members, engaging in future research projects is an excellent w
 
 ### Past Events
 
+- [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup 2]]: Our second weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
 - [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup 1]]: Our first weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
 - [[memo/labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]]: DuckDB is a great starting point for modern stacks that don't need to worry about scalability, but want to derive hard analytics from the data that they have. This meeting will do a 3-part demo of DuckDB (15 minutes total):
 • Consolidate NYC taxi data in parallel (through map-reduce) over HTTPS

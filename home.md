@@ -50,6 +50,7 @@ We believe that behind every success comes great preparation, accumulation and c
 
 - [[memo/labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]] - November 23, 2023
 - [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup #1]] - December 06, 2023
+- [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup #1]] - December 13, 2023
 
 
 
@@ -66,6 +67,7 @@ We believe that behind every success comes great preparation, accumulation and c
 
 ## Memos
 
+- [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup #1]] - monotykamary
 - [[memo/consulting/_index.md|Consulting Team]] - monotykamary, huytq
 - [[memo/consulting/_base.md|Consulting Team]] - monotykamary, huytq
 - [[memo/consulting/Estimation Guidelines.md|Estimation Guidelines]] - huytq, monotykamary
@@ -75,7 +77,6 @@ We believe that behind every success comes great preparation, accumulation and c
 - [[memo/labs/_base.md|Labs Team]] - monotykamary
 - [[memo/Forward Engineering November  2023.md|November Forward Engineering 2023]] - thanh, monotykamary
 - [[memo/salary-advance.md|$icy Salary Advance]] - hnh
-- [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup #1]] - monotykamary
 
 
 ## Open positions
