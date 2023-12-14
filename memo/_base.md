@@ -11,7 +11,7 @@ authors:
 menu: 
 toc: false
 notice: 
-type: 
+type: memo
 hide_frontmatter: true
 ---
 ## Our newest memos

@@ -10,7 +10,7 @@ description: This is our Consulting team homepage. Our consulting team helps bus
 authors:
   - monotykamary
   - huytq
-menu: consulting
+menu: 
 toc: false
 notice: 
 type: memo

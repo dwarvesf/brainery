@@ -8,10 +8,10 @@ description: Sign up for our newsletter to stay up-to-date on our latest news, t
 authors:
   - nikki
   - monotykamary
-menu: newsletter
+menu: 
 toc: false
 notice: 
-type: newsletter
+type: 
 hide_frontmatter: true
 event_date: 
 pinned:

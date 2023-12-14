@@ -9,7 +9,7 @@ authors:
 menu: 
 toc: false
 notice: 
-type: 
+type: radar
 hide_frontmatter: false
 ---
 
@@ -85,8 +85,8 @@ hide_frontmatter: false
 - [[radar/progressive-delivery.md|progressive-delivery]]
 - [[radar/prometheus.md|prometheus]]
 - [[radar/prompt-engineering.md|prompt-engineering]]
-- [[radar/radix-ui.md|radix-ui]]
 - [[radar/qwik.md|qwik]]
+- [[radar/radix-ui.md|radix-ui]]
 - [[radar/react-hook-form.md|react-hook-form]]
 - [[radar/react-llm.md|react-llm]]
 - [[radar/react-native.md|react-native]]

@@ -11,7 +11,7 @@ authors:
 menu: 
 toc: false
 notice: 
-type: 
+type: memo
 hide_frontmatter: true
 ---
 ## Our newest memos
@@ -27,11 +27,11 @@ This is where we keep our internal updates, learned and curated by our engineers
 - [[memo/labs/_base.md|Labs Team]]: This is our Labs team homepage, where we list out the latest advances in our engineering team, our publications, events & workshops, as well as frequently asked questions on who and what team labs are.
 - [[memo/Forward Engineering November  2023.md|November Forward Engineering 2023]]: We have focused on revamping how we learn, familiarize, and work with tech. We are excited to announce that we have updated our Forward Engineering to better reflect the feedback and insights from our Labs team, Operations Team, and Consulting Team.
 - [[memo/salary-advance.md|$icy Salary Advance]]: A short-term credit benefit for full-time peeps.
+- [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup #1]]: Our first weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
 - [[memo/labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]]: DuckDB is a great starting point for modern stacks that don't need to worry about scalability, but want to derive hard analytics from the data that they have. This meeting will do a 3-part demo of DuckDB (15 minutes total):
 • Consolidate NYC taxi data in parallel (through map-reduce) over HTTPS
 • Aggregate IBM AML transactions (Anti-Money Laundering)
 • Some examples of how it is used to consolidate and do basic analytics on note.d and log.console.so
-- [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup #1]]: Our first weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
 - [[memo/icy-in-2024.md|$icy in 2024]]: Quick recap about $icy progress and what's next in 2024.
 - [[memo/df-protocol-icy-dfg.md|💠 df protocol, $icy and $dfg]]: Here's our draft internal map/v0 for 🧊 $icy play, based on our current activities at this borderless software firm...
 - [[memo/labs/Reward Model & Nomination.md|Reward Model & Nomination]]: Our Tech Labs is a hub of continuous learning and application of advanced technologies. This program is designed to celebrate contributions at various levels, from enhancing knowledge to contributing to business growth.

@@ -9,7 +9,7 @@ authors:
 menu: 
 toc: false
 notice: 
-type: 
+type: hiring
 hide_frontmatter: true
 event_date:
 ---

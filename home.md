@@ -75,7 +75,7 @@ We believe that behind every success comes great preparation, accumulation and c
 - [[memo/labs/_base.md|Labs Team]] - monotykamary
 - [[memo/Forward Engineering November  2023.md|November Forward Engineering 2023]] - thanh, monotykamary
 - [[memo/salary-advance.md|$icy Salary Advance]] - hnh
-- [[memo/labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]] - monotykamary
+- [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup #1]] - monotykamary
 
 
 ## Open positions

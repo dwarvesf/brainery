@@ -1,31 +1,22 @@
 ---
-tags: 
+tags:
   - team
   - dwarves
   - updates
 title: 2022 Dwarves Renaissance A Year End Rewind
 date: 2023-01-19
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2023-01-19
 created: 2023-01-19
+hide_title: false
 ---
-
-
-* **Table of Content:**
-
-<!-- table_of_contents 8c372871-8730-42a1-95d9-41f097fcf1ee -->
-
-
----
-
-# **2022 Dwarves Renaissance: A Year-End Rewind**
 
 Successfully went through 2022, a year that we might say -  a new record: team reached highest growth record, kickstarted community engagement, home, compliance training & individual development are speeding up, and a whole new place to call Dwarves.
 
