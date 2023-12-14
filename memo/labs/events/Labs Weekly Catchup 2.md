@@ -10,7 +10,7 @@ tags:
   - rust
   - elixir
   - LLM
-title: "Labs Weekly Catchup #1"
+title: "Labs Weekly Catchup #2"
 date: 2023-12-14
 description: Our second weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
 authors:
