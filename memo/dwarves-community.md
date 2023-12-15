@@ -2,6 +2,8 @@
 tags:
   - dwarves
   - work
+  - community
+  - learning
 title: Dwarves Community
 date: 2023-12-15
 description: Dwarves Community is melting pot for software engineers, thinkers, learners and techies who are to explore, learn and master the latest advancements in technology.
@@ -54,4 +56,4 @@ Available bounties are up for grab at https://note.d.foundation/earn/.
 - [Dwarves Github](https://github.com/dwarvesf?fbclid=IwAR0ZKArcsGvIEJgTc6g-JytLb2URQknU7U3L56n597tKJZT3nQAYlDx0e8k)
 - [Dwarves Website](https://d.foundation/)
 
-  ![[dwarves-community-20231215165541626.webp]]
+![[dwarves-community-20231215165541626.webp]]
