@@ -5,7 +5,7 @@ tags:
   - recruiter
 title: Technical Recruiter
 date: 2023-12-15
-description: "**The ideal candidates will be responsible for identifying new business opportunities, fostering strong client relationships, and driving growth by promoting our services to potential clients globally.**"
+description: "**We are seeking an experienced and proactive Technical Recruiter to join our HR team. The ideal candidate will play a pivotal role in sourcing, attracting, and hiring top-tier talents and take care of our team members' growth.**"
 authors:
   - nikki
   - vitran
