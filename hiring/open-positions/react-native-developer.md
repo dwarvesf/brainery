@@ -15,7 +15,7 @@ notice:
 type: hiring
 hide_frontmatter: true
 event_date: 
-hiring: true
+hiring: false
 ---
 > We're looking for talented developer with experience in React Native to join Dwarves and work remotely, on a fast-growing US startup.
 

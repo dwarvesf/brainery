@@ -19,8 +19,9 @@ event_date:
 
 #### Apply:
 
-- [[hiring/open-positions/backend-engineer-go-elixir-rust.md|Backend Engineer, Go/Elixir/Rust]]
-- [[hiring/open-positions/react-native-developer.md|React Native Developer]]
+- [[hiring/open-positions/business-development.md|Business Development]]
+- [[hiring/open-positions/executive-assistant.md|Executive Assistant]]
+- [[hiring/open-positions/technical-recruiter.md|Technical Recruiter]]
 
 
 ---

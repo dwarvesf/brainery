@@ -18,7 +18,7 @@ notice:
 type: hiring
 hide_frontmatter: true
 event_date: 
-hiring: true
+hiring: false
 ---
 ### **Requirements**
 

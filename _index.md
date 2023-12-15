@@ -30,19 +30,19 @@ We believe that behind every success comes great preparation, accumulation and c
 
 <!-- col-2 #1 -->
 <!-- radar-latest-1 -->
+- [[radar/large-language-model-llm.md|Large Language Model Llm]]
 - [[radar/zustand.md|Zustand]]
-- [[radar/zod.md|Zod]]
 - [[radar/yup.md|Yup]]
+- [[radar/zod.md|Zod]]
 - [[radar/webflow.md|Webflow]]
-- [[radar/webdriverio.md|Webdriverio]]
 
 <!-- radar-latest-1 -->
 <!-- radar-latest-2 -->
+- [[radar/large-language-model-llm.md|Large Language Model Llm]]
 - [[radar/zustand.md|Zustand]]
-- [[radar/zod.md|Zod]]
 - [[radar/yup.md|Yup]]
+- [[radar/zod.md|Zod]]
 - [[radar/webflow.md|Webflow]]
-- [[radar/webdriverio.md|Webdriverio]]
 
 <!-- radar-latest-2 -->
 <!-- /col-2 #1 -->
@@ -50,7 +50,7 @@ We believe that behind every success comes great preparation, accumulation and c
 
 - [[memo/labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]] - November 23, 2023
 - [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup #1]] - December 06, 2023
-- [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup #1]] - December 13, 2023
+- [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup #2]] - December 13, 2023
 
 
 
@@ -67,7 +67,7 @@ We believe that behind every success comes great preparation, accumulation and c
 
 ## Memos
 
-- [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup #1]] - monotykamary
+- [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup #2]] - monotykamary
 - [[memo/consulting/_index.md|Consulting Team]] - monotykamary, huytq
 - [[memo/consulting/_base.md|Consulting Team]] - monotykamary, huytq
 - [[memo/consulting/Estimation Guidelines.md|Estimation Guidelines]] - huytq, monotykamary
@@ -81,6 +81,7 @@ We believe that behind every success comes great preparation, accumulation and c
 
 ## Open positions
 
-- [[hiring/open-positions/backend-engineer-go-elixir-rust.md|Backend Engineer, Go/Elixir/Rust]]
-- [[hiring/open-positions/react-native-developer.md|React Native Developer]]
+- [[hiring/open-positions/business-development.md|Business Development]]
+- [[hiring/open-positions/executive-assistant.md|Executive Assistant]]
+- [[hiring/open-positions/technical-recruiter.md|Technical Recruiter]]
 

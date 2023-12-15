@@ -23,8 +23,8 @@ hide_frontmatter: true
 - [[memo/labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]]
 - [[memo/labs/Reward Model & Nomination.md|Reward Model & Nomination]]
 - [[memo/labs/Labs x Consulting Workflow.md|Labs x Consulting Workflow]]
-- [[memo/labs/Labs - Topic proposal & progress tracking.md|Labs - Topic proposal & progress tracking]]
 - [[memo/labs/Labs Roadmap (Nov 23 update).md|Labs Roadmap (Nov 23 update)]]
+- [[memo/labs/Labs - Topic proposal & progress tracking.md|Labs - Topic proposal & progress tracking]]
 - [[memo/labs/Labs - New Member Onboarding.md|Labs - New Member Onboarding]]
 - [[memo/labs/Knowledge Journey.md|Knowledge Journey]]
 

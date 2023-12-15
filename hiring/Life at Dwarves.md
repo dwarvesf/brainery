@@ -2,6 +2,8 @@
 tags:
   - dwarves
   - work
+  - life
+  - culture
 title: Life at Dwarves
 date: 2023-12-05
 description: We build this company like we build a product. There are roadmaps for growth; there are phases; there are iterations. There might also be bugs, places where the company crashes because of bad organizational design, or cultural oversights.
