@@ -52,6 +52,6 @@ Available bounties are up for grab at https://note.d.foundation/earn/.
 ---
 - [Dwarves Discord](https://discord.com/invite/dwarvesv)
 - [Dwarves Github](https://github.com/dwarvesf?fbclid=IwAR0ZKArcsGvIEJgTc6g-JytLb2URQknU7U3L56n597tKJZT3nQAYlDx0e8k)
-- [Dwarves Website]([https://d.foundation](https://d.foundation/))
+- [Dwarves Website](https://d.foundation/)
 
   ![[dwarves-community-20231215165541626.webp]]
