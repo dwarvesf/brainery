@@ -17,9 +17,9 @@ hide_frontmatter: false
 event_date: 
 hiring: true
 ---
-## ## We're looking for a Technical Recruiter to join Dwarves and work remotely.
+####We're looking for a Technical Recruiter to join Dwarves and work remotely.
 
-**The ideal candidates will be responsible for identifying new business opportunities, fostering strong client relationships, and driving growth by promoting our services to potential clients globally.**
+**The ideal candidate will play a pivotal role in sourcing, attracting, and hiring top-tier talents and take care of our team members' growth.**
 
 > 🤘 [**Apply now](https://form.typeform.com/to/ZBfyiqMM)** (We respond within three days)
 
