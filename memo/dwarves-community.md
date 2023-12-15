@@ -18,14 +18,14 @@ event_date:
 pinned: 
 hide_title: false
 ---
-###### Dwarves Community is melting pot for software engineers, thinkers, learners and techies who are to explore, learn and master the latest advancements in technology.
+## Dwarves Community is melting pot for software engineers, thinkers, learners and techies who are to explore, learn and master the latest advancements in technology.
 
 ![[dwarves-community-20231215165531369.webp]]
 
-#### Who should join us
+### Who should join us
 Technology is moving at the speed of light, and we want to stay at the forefront. Background or experience doesn’t matter to us, we are more keen on the mindset of always being curious about what’s next in tech, collaborating for the better, learning profusely and sharing unconditionally.
 
-#### Our activities
+### Our activities
 - Discussion channels for sharing knowledge and asking questions.  
 - Workshops, webinars, and tech talks on tech and industries  
 - Open source contributions  
@@ -33,21 +33,21 @@ Technology is moving at the speed of light, and we want to stay at the forefront
 - Meetups, networking events and summits  
 - Job boards for career opportunities within the industry.
 
-#### Monthly Activities
-###### Upcoming
+### Monthly Activities
+##### Upcoming
 - December community call
-###### Previous
+##### Previous
 - [Personal development at Dwarves](https://www.youtube.com/live/Dxya8IJxooM?si=ADjc_kmoZiNQjILn)
 - [Frontend Course Demo Day](https://www.youtube.com/live/xlBAODjOQWU?si=usNXiSOd9_DM3r1F)
 - [Golang Course Demo Day](https://www.youtube.com/live/ycaTh1O-rME?si=oYihUenCTMvmeghO)
 - [Fullstack development with tRPC](https://www.youtube.com/live/r2X6cuNATrw?si=NkCwPZIvPcPAOlEl)
 
 
-#### Level up to get greater rewards
-###### Contributor Hall of Fame
+### Level up to get greater rewards
+##### Contributor Hall of Fame
 Each month we honor members who have significant contributions and impacts in our growth. The top contributors have their own swaggy honor badges and rewards with ICY.
 
-###### Bounties
+##### Bounties
 We use bounties to encourage and motivate contributors, both experienced and newcomers. Through active collaboration and effort, community members level up, get accessed to more activities and receive greater rewards.  
 Available bounties are up for grab at https://note.d.foundation/earn/.
 
