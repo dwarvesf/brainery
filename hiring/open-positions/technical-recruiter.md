@@ -5,7 +5,7 @@ tags:
   - recruiter
 title: Technical Recruiter
 date: 2023-12-15
-description: "**We are seeking an experienced and proactive Technical Recruiter to join our HR team. The ideal candidate will play a pivotal role in sourcing, attracting, and hiring top-tier talents and take care of our team members' growth.**"
+description: The ideal candidate will play a pivotal role in sourcing, attracting, and hiring top-tier talents and take care of our team members' growth.
 authors:
   - nikki
   - vitran
@@ -17,7 +17,8 @@ hide_frontmatter: false
 event_date: 
 hiring: true
 ---
-####We're looking for a Technical Recruiter to join Dwarves and work remotely.
+
+## We're looking for a Technical Recruiter to join Dwarves and work remotely.
 
 **The ideal candidate will play a pivotal role in sourcing, attracting, and hiring top-tier talents and take care of our team members' growth.**
 

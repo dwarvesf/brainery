@@ -5,7 +5,7 @@ tags:
   - business
 title: Business Development
 date: 2023-12-15
-description: "**The ideal candidates will be responsible for identifying new business opportunities, fostering strong client relationships, and driving growth by promoting our services to potential clients globally.**"
+description: The ideal candidates will be responsible for identifying new business opportunities, fostering strong client relationships, and driving growth by promoting our services to potential clients globally.
 authors:
   - nikki
   - vitran
