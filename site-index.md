@@ -185,6 +185,7 @@ notice: null
 - [[memo/draw-watch-face-using-swiftui.md|Draw Watch Face Using Swiftui]]
 - [[radar/duckdb.md|Duckdb]]
 - [[memo/labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]]
+- [[memo/dwarves-community.md|Dwarves Community]]
 - [[memo/dwarves-foundation-apprenticeship-batch-of-2022.md|Dwarves Foundation Apprenticeship Batch Of 2022]]
 - [[memo/_index.md|Dwarves Memo]]
 - [[memo/_base.md|Dwarves Memo]]

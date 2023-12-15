@@ -13,5 +13,5 @@ type:
 hide_frontmatter: false
 event_date: 
 pinned: 
-hide_title: true
+hide_title: false
 ---

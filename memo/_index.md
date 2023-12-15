@@ -18,6 +18,7 @@ hide_frontmatter: true
 
 This is where we keep our internal updates, learned and curated by our engineers.
 
+- [[memo/dwarves-community.md|Dwarves Community]]: Dwarves Community is melting pot for software engineers, thinkers, learners and techies who are to explore, learn and master the latest advancements in technology.
 - [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup #2]]: Our second weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
 - [[memo/consulting/_index.md|Consulting Team]]: This is our Consulting team homepage. Our consulting team helps businesses solve complex challenges and improve performance by identifying root causes, developing solutions, and collaborating with stakeholders for successful implementation. We offer expertise in various areas including strategy, operations, management, IT, finance, and marketing to help your business achieve its goals.
 - [[memo/consulting/_base.md|Consulting Team]]: This is our Consulting team homepage. Our consulting team helps businesses solve complex challenges and improve performance by identifying root causes, developing solutions, and collaborating with stakeholders for successful implementation. We offer expertise in various areas including strategy, operations, management, IT, finance, and marketing to help your business achieve its goals.
@@ -35,5 +36,4 @@ This is where we keep our internal updates, learned and curated by our engineers
 • Some examples of how it is used to consolidate and do basic analytics on note.d and log.console.so
 - [[memo/icy-in-2024.md|$icy in 2024]]: Quick recap about $icy progress and what's next in 2024.
 - [[memo/df-protocol-icy-dfg.md|💠 df protocol, $icy and $dfg]]: Here's our draft internal map/v0 for 🧊 $icy play, based on our current activities at this borderless software firm...
-- [[memo/labs/Reward Model & Nomination.md|Reward Model & Nomination]]: Our Tech Labs is a hub of continuous learning and application of advanced technologies. This program is designed to celebrate contributions at various levels, from enhancing knowledge to contributing to business growth.
 

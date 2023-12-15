@@ -67,6 +67,7 @@ We believe that behind every success comes great preparation, accumulation and c
 
 ## Memos
 
+- [[memo/dwarves-community.md|Dwarves Community]] - nikki
 - [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup #2]] - monotykamary
 - [[memo/consulting/_index.md|Consulting Team]] - monotykamary, huytq
 - [[memo/consulting/_base.md|Consulting Team]] - monotykamary, huytq
@@ -76,7 +77,6 @@ We believe that behind every success comes great preparation, accumulation and c
 - [[memo/labs/_index.md|Labs Team]] - monotykamary
 - [[memo/labs/_base.md|Labs Team]] - monotykamary
 - [[memo/Forward Engineering November  2023.md|November Forward Engineering 2023]] - thanh, monotykamary
-- [[memo/salary-advance.md|$icy Salary Advance]] - hnh
 
 
 ## Open positions
