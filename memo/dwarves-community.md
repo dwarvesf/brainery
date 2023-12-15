@@ -18,7 +18,7 @@ event_date:
 pinned: 
 hide_title: false
 ---
-## Dwarves Community is melting pot for software engineers, thinkers, learners and techies who are to explore, learn and master the latest advancements in technology.
+#### Dwarves Community is melting pot for software engineers, thinkers, learners and techies who are to explore, learn and master the latest advancements in technology.
 
 ![[dwarves-community-20231215165531369.webp]]
 
