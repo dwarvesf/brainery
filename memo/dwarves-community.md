@@ -20,13 +20,12 @@ hide_title: false
 ---
 #### Dwarves Community is melting pot for software engineers, thinkers, learners and techies who are to explore, learn and master the latest advancements in technology.
 
+Technology is moving at the speed of light, and we want to stay at the forefront. Background or experience doesn’t matter to us, we are more keen on the mindset of always being curious about what’s next in tech, collaborating for the better, learning profusely and sharing unconditionally.
+
+If you share the same goals and mindsets, you're welcomed to join us.
+
 
 ![[dwarves-community-20231215165531369.webp]]
-
-
-
-### Who should join us
-Technology is moving at the speed of light, and we want to stay at the forefront. Background or experience doesn’t matter to us, we are more keen on the mindset of always being curious about what’s next in tech, collaborating for the better, learning profusely and sharing unconditionally.
 
 
 
