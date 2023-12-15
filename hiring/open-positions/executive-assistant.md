@@ -5,7 +5,7 @@ tags:
   - assistant
 title: Executive Assistant
 date: 2023-12-15
-description: "**We are seeking a highly organized, proactive, and experienced Executive Assistant to provide support to our senior executives. The ideal candidate will be a strategic partner to the leadership team, ensuring efficient workflow and contributing to the overall growth of the company.**"
+description: "**The ideal candidate will be a strategic partner to the leadership team, ensuring efficient workflow and contributing to the overall growth of the company.**"
 authors:
   - nikki
   - vitran
@@ -19,7 +19,7 @@ hiring: true
 ---
 ## We're looking for an Executive Assistant to join Dwarves and work remotely.
 
-**The ideal candidates will be responsible for identifying new business opportunities, fostering strong client relationships, and driving growth by promoting our services to potential clients globally.**
+**We are seeking a highly organized, proactive, and experienced Executive Assistant to provide support to our senior executives. The ideal candidates will be responsible for identifying new business opportunities, fostering strong client relationships, and driving growth by promoting our services to potential clients globally.**
 
 > 🤘 [**Apply now](https://form.typeform.com/to/ZBfyiqMM)** (We respond within three days)
 
