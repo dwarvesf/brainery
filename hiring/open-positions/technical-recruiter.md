@@ -22,7 +22,7 @@ hiring: true
 
 **The ideal candidate will play a pivotal role in sourcing, attracting, and hiring top-tier talents and take care of our team members' growth.**
 
-> 🤘 [**Apply now](https://form.typeform.com/to/ZBfyiqMM)** (We respond within three days)
+> 🤘 [**Apply now](mailto:spawn@d.foundation)** (We respond within three days)
 
 ## Dwarves is research-focused technology firm
 
@@ -89,7 +89,7 @@ Our goal is to provide and empower teammates with what they need to get the job 
 4. **Offer** The best candidate will receive an offer from us right away.
 
 
-> 🤘 [**Apply now](https://form.typeform.com/to/ZBfyiqMM)** (We respond within three days)
+> 🤘 [**Apply now](mailto:spawn@d.foundation)** (We respond within three days)
 
 
 |                                                              |                                                                                         |
