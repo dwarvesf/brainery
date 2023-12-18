@@ -21,7 +21,7 @@ hiring: true
 
 **We are seeking a highly organized, proactive, and experienced Executive Assistant to provide support to our senior executives. The ideal candidates will be responsible for identifying new business opportunities, fostering strong client relationships, and driving growth by promoting our services to potential clients globally.**
 
-> 🤘 [**Apply now](mailto:spawn@d.foundation)** (We respond within three days)
+> 🤘 **[Apply now](mailto:spawn@d.foundation)** (We respond within three days)
 
 ## Dwarves is research-focused technology firm
 
@@ -91,7 +91,7 @@ Our goal is to provide and empower teammates with what they need to get the job 
 4. **Offer** The best candidate will receive an offer from us right away.
 
 
-> 🤘 [**Apply now](mailto:spawn@d.foundation)** (We respond within three days)
+> 🤘 **[Apply now](mailto:spawn@d.foundation)** (We respond within three days)
 
 
 |                                                              |                                                                                         |
