@@ -360,6 +360,7 @@ notice: null
 - [[radar/timeline/migrate-yarn-to-pnpm-in-react-toolkit.md|Migrate Yarn To Pnpm In React Toolkit]]
 - [[playbook/engineering/presentation.md|monitoring]]
 - [[radar/monorepo.md|Monorepo]]
+- [[earn/obsidian-fork.md|Move internal notes to note.d.foundation]]
 - [[radar/msw.md|Msw]]
 - [[radar/n6n.md|N6n]]
 - [[playbook/design/IA.md|nda]]

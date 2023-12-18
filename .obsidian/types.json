@@ -9,7 +9,7 @@
     "social": "multitext",
     "status": "text",
     "due_date": "date",
-    "PICs": "text",
+    "PICs": "multitext",
     "completion_date": "date",
     "publish": "checkbox",
     "hide_frontmatter": "checkbox",
