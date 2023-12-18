@@ -17,7 +17,7 @@ PICs:
   - hnh
 functional: 🏗️ Chore
 completion_date: 
-bounty: 150
+bounty: 75
 hide_frontmatter: true
 pinned:
 ---
