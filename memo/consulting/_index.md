@@ -18,19 +18,19 @@ hide_frontmatter: true
 event_date: 
 pinned: false
 ---
-#### Who we are
+### Who we are
 
 **Dwarves Consulting is team of individuals who possess a combination of technical expertise, problem-solving skills, and strong communication abilities.**
 
 
-#### Our culture
+### Our culture
 
 - **Ahead of the market:** we continuously learn and discover about the market and technology so we can participate in new, cool challenges, strive for high-quality deliverables and maintaining high standards
 - **Tech to solve problems:** first we understand the problems, we provide solutions before any hard coding
 - **Network matters:** we welcome collaborations with everyone who has the same goals and believe as we do
 
 
-#### How we work
+### How we work
 
 Our working environment is dynamic. Instead of pure knowledge / learning sessions, we try to learn and work together through real-life inquiries or requests from our potential clients. 
 
@@ -39,14 +39,14 @@ We also monitor the industry and report on what is being built, what is creating
 We work in close collaboration with the [[memo/labs/_index|Labs Team]] and product team, to offer to specialized expertise to clients across various industries to ensure we apply our insights and learning to client projects.
 
 
-#### What we work forward to
+### What we work forward to
 
 We set out to become a team that can deliver the best client satisfaction possible, meaning continuously improve services. That involves taking care of the full project life cycle from providing client with the right solution, meeting their needs and constraints, to developing, delivering, transferring ownership.  
   
 We want our team to be thinkers and problem-solvers, rather than just coding and doing handy works all the time, projects from projects. Then everyone get the fair reward and recognition in return. The more involved we get, the better the returns.
 
 
-#### How to become a member?
+### How to become a member?
 
 At the beginning, the team consists of members appointed by BoD and referral from Labs / Deliver team.  
   
@@ -57,7 +57,7 @@ Once we invite you to the team, we will equip you with workshops on consulting, 
 [[Consulting - Who should join us|Are you a fit to join the Consulting team?]]
 
 
-#### How do we reward?
+### How do we reward?
 
 Below are a few activities that we current have rewards for:  
 - Monthly market report
@@ -68,7 +68,7 @@ Below are a few activities that we current have rewards for:
 
 Team members' effort is rewarded base on the weight of their contributions. The rewards range from ICY, to Dwarves token DFG, to % on project revenue. 
 
-## Latest from Consulting Team
+### Latest from Consulting Team
 
 - [[memo/consulting/Consulting - Who should join us.md|Consulting - Who should join us]] - nikki
 - [[memo/consulting/Consulting - Who we are.md|Consulting - Who We Are]] - nikki

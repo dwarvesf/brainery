@@ -16,7 +16,7 @@ event_date:
 pinned: 
 hide_title: false
 ---
-##### Our Approach: Collaborative Expertise
+### Our Approach: Collaborative Expertise
 
 - **Team of Specialists**: we favor collective expertise, encouraging knowledge sharing and collaboration, to craft innovative solutions that exceed expectations.
 - **Innovative Mindset:** we encourage out-of-the-box thinking, experimentation, and creative problem-solving

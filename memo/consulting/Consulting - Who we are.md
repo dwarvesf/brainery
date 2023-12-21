@@ -16,19 +16,19 @@ event_date:
 pinned: 
 hide_title: false
 ---
-#### Who we are
+### Who we are
 
 **Dwarves Consulting is team of individuals who possess a combination of technical expertise, problem-solving skills, and strong communication abilities.**
 
 
-#### Our culture
+### Our culture
 
 - **Ahead of the market:** we continuously learn and discover about the market and technology so we can participate in new, cool challenges, strive for high-quality deliverables and maintaining high standards
 - **Tech to solve problems:** first we understand the problems, we provide solutions before any hard coding
 - **Network matters:** we welcome collaborations with everyone who has the same goals and believe as we do
 
 
-#### Main functions of Consulting team
+### Main functions of Consulting team
 
 **We monitor the market** to stay informed about industry trends, advancements, emerging technologies, and market dynamics.
 
