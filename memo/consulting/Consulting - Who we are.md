@@ -10,14 +10,15 @@ authors:
 menu: consulting
 toc: false
 notice: 
-type: memo
+type: 
 hide_frontmatter: false
 event_date: 
 pinned: 
 hide_title: false
 ---
 #### Who we are
-###### Dwarves Consulting is team of individuals who possess a combination of technical expertise, problem-solving skills, and strong communication abilities.
+
+**Dwarves Consulting is team of individuals who possess a combination of technical expertise, problem-solving skills, and strong communication abilities.**
 
 
 #### Our culture
