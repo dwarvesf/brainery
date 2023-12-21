@@ -313,6 +313,7 @@ notice: null
 - [[memo/labs/_base.md|Labs Team]]
 - [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup #1]]
 - [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup #2]]
+- [[memo/labs/events/Labs Weekly Catchup 3.md|Labs Weekly Catchup #3]]
 - [[memo/labs/Labs x Consulting Workflow.md|Labs x Consulting Workflow]]
 - [[radar/ladle.md|Ladle]]
 - [[radar/langchain.md|Langchain]]

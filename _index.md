@@ -71,12 +71,12 @@ We believe that behind every success comes great preparation, accumulation and c
 - [[memo/consulting/Consulting - Who we are.md|Consulting - Who We Are]] - nikki
 - [[memo/consulting/Consulting - How we work.md|Consulting - How we work]] - nikki
 - [[memo/dwarves-community.md|Dwarves Community]] - nikki
+- [[memo/labs/events/Labs Weekly Catchup 3.md|Labs Weekly Catchup #3]] - monotykamary
 - [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup #2]] - monotykamary
 - [[memo/consulting/_index.md|Consulting Team]] - monotykamary, huytq
 - [[memo/consulting/_base.md|Consulting Team]] - monotykamary, huytq
 - [[memo/consulting/Estimation Guidelines.md|Estimation Guidelines]] - huytq, monotykamary
 - [[memo/consulting/Project Delivery Schedule and Guidelines.md|Project Delivery Schedule and Guidelines]] - huytq
-- [[memo/labs/Labs - Who we are.md|Labs - Who we are]] - thanh
 
 
 ## Open positions

@@ -17,6 +17,7 @@ hide_frontmatter: true
 <!-- col-2 #1 -->
 <!-- labs-latest -->
 ## Latest from Labs Team
+- [[memo/labs/events/Labs Weekly Catchup 3.md|Labs Weekly Catchup 3]]
 - [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup 2]]
 - [[memo/labs/Labs - Who we are.md|Labs - Who we are]]
 - [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup 1]]
@@ -26,7 +27,6 @@ hide_frontmatter: true
 - [[memo/labs/Labs Roadmap (Nov 23 update).md|Labs Roadmap (Nov 23 update)]]
 - [[memo/labs/Labs - Topic proposal & progress tracking.md|Labs - Topic proposal & progress tracking]]
 - [[memo/labs/Labs - New Member Onboarding.md|Labs - New Member Onboarding]]
-- [[memo/labs/Knowledge Journey.md|Knowledge Journey]]
 
 <!-- /labs-latest -->
 <!-- forward-engineering-publications -->
