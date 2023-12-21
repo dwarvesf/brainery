@@ -70,5 +70,5 @@ weekly meeting #3 - 20/12/2023:
 ---
 
 💭 **Thoughts and actions for next week**
-- @An + @Vincent) Will have an action + repository for passwordless next week
+- @An + @Vincent Will have an action + repository for passwordless next week
 - @Hieu wants to apply GenState and a few other tools in Elixir to help with scalability, next week will have a demo to improve the alarm on NgheNhan
