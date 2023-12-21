@@ -26,7 +26,7 @@ pinned: true
 This is to hopefully provide you with a more comprehensive publication that not only keeps you informed about the latest technologies and where they are applied, but also foster collaboration and innovation within our organization. We hope you find this edition of Forward Engineering informative and give you a better idea of what we’re doing. As always, we welcome your feedback and encourage you to share your thoughts on the content.
 ## Tech Radar
 
-![](assets/Forward%20Engineering%20November%20%202023/8e1ba07a614cb4250d5cb2d80f208379_MD5.mp4)
+![](assets/Forward%20Engineering%20November%202023/8e1ba07a614cb4250d5cb2d80f208379_MD5.mp4)
 ### Rust
 ***Assess***
 
@@ -83,7 +83,7 @@ We’ve also recently demoed the benefits of parallel processing in one of our D
 
 ![[November Forward Engineering 2023-20231130165019170.webp]]
 
-## **Labs Roadmap**
+## Labs Roadmap
 
 In a recent collaborative discussion between key members of the Labs and Consulting teams, we’ve made decisive strides in pinpointing key topics and potential projects for development. Each topic is paired with specific challenges to ensure we engage deeply with the technology, understanding its practical applications. The focal point for the coming month is WebAssembly (WASM), alongside a range of exciting use-cases we plan to implement and demonstrate.
 

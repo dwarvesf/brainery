@@ -48,7 +48,6 @@ We believe that behind every success comes great preparation, accumulation and c
 <!-- /col-2 #1 -->
 ## Upcoming Events
 
-- [[memo/labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]] - November 23, 2023
 - [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup #1]] - December 06, 2023
 - [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup #2]] - December 13, 2023
 
@@ -67,16 +66,16 @@ We believe that behind every success comes great preparation, accumulation and c
 
 ## Memos
 
+- [[memo/labs/events/Labs Weekly Catchup 3.md|Labs Weekly Catchup #3]] - monotykamary
 - [[memo/consulting/Consulting - Who should join us.md|Consulting - Who should join us]] - nikki
 - [[memo/consulting/Consulting - Who we are.md|Consulting - Who We Are]] - nikki
 - [[memo/consulting/Consulting - How we work.md|Consulting - How we work]] - nikki
 - [[memo/dwarves-community.md|Dwarves Community]] - nikki
-- [[memo/labs/events/Labs Weekly Catchup 3.md|Labs Weekly Catchup #3]] - monotykamary
 - [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup #2]] - monotykamary
 - [[memo/consulting/_index.md|Consulting Team]] - monotykamary, huytq
 - [[memo/consulting/_base.md|Consulting Team]] - monotykamary, huytq
 - [[memo/consulting/Estimation Guidelines.md|Estimation Guidelines]] - huytq, monotykamary
-- [[memo/consulting/Project Delivery Schedule and Guidelines.md|Project Delivery Schedule and Guidelines]] - huytq
+- [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup #1]] - monotykamary
 
 
 ## Open positions

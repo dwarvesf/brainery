@@ -19,8 +19,8 @@ hide_frontmatter: true
 ## Latest from Labs Team
 - [[memo/labs/events/Labs Weekly Catchup 3.md|Labs Weekly Catchup 3]]
 - [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup 2]]
-- [[memo/labs/Labs - Who we are.md|Labs - Who we are]]
 - [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup 1]]
+- [[memo/labs/Labs - Who we are.md|Labs - Who we are]]
 - [[memo/labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]]
 - [[memo/labs/Reward Model & Nomination.md|Reward Model & Nomination]]
 - [[memo/labs/Labs x Consulting Workflow.md|Labs x Consulting Workflow]]
@@ -32,7 +32,7 @@ hide_frontmatter: true
 <!-- forward-engineering-publications -->
 ## Forward Engineering Publications
 
-- [[memo/Forward Engineering November  2023.md|Forward Engineering November  2023]]
+- [[memo/Forward Engineering November 2023.md|Forward Engineering November 2023]]
 - [[memo/Forward Engineering October 2023.md|Forward Engineering October 2023]]
 - [[memo/Forward Engineering August 2023.md|Forward Engineering August 2023]]
 
@@ -90,11 +90,8 @@ For Dwarves team members, engaging in future research projects is an excellent w
 ### Past Events
 
 - [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup 2]]: Our second weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
+- [[memo/labs/events/Labs Weekly Catchup 3.md|Labs Weekly Catchup 3]]: Our third weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
 - [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup 1]]: Our first weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
-- [[memo/labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]]: DuckDB is a great starting point for modern stacks that don't need to worry about scalability, but want to derive hard analytics from the data that they have. This meeting will do a 3-part demo of DuckDB (15 minutes total):
-• Consolidate NYC taxi data in parallel (through map-reduce) over HTTPS
-• Aggregate IBM AML transactions (Anti-Money Laundering)
-• Some examples of how it is used to consolidate and do basic analytics on note.d and log.console.so
 
 
 <!-- /events -->

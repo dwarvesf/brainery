@@ -378,7 +378,7 @@ notice: null
 - [[radar/timeline/nghenhan-microservices.md|Nghenhan Microservices]]
 - [[radar/nodejs.md|Nodejs]]
 - [[radar/nostrum.md|Nostrum]]
-- [[memo/Forward Engineering November  2023.md|November Forward Engineering 2023]]
+- [[memo/Forward Engineering November 2023.md|November Forward Engineering 2023]]
 - [[radar/nx.md|Nx]]
 - [[memo/objective.md|Objective]]
 - [[memo/Forward Engineering October 2023.md|October Forward Engineering 2023]]
