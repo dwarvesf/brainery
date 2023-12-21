@@ -55,7 +55,7 @@ weekly meeting #3 - 20/12/2023:
 - @Tom's second demo uses DuckDB inside Observable Notebooks to do real-time analytics inside the browser
 	- ![[Labs Weekly Catchup 3-20231221151400953.webp]]
 
-🥽 **Bypassing reCaptcha using self-hosted AI model YoloV8 **
+🥽 **Bypassing reCaptcha using self-hosted AI model YoloV8**
 - @Toan Demo'ed YoloV8 over Tensorflow.js, using WebGPU as the backend, to do object detection over recaptcha images
 - ![[Labs Weekly Catchup 3-20231221150348859.webp]]
 
