@@ -30,7 +30,7 @@ The Dwarves bounty program is the means through which both company peeps and the
 
 | Title                                                               | 💰 Bounty | Status | PIC                         | Function    |
 | ------------------------------------------------------------------- | --------- | ------ | --------------------------- | ----------- |
-| [[earn/obsidian-fork.md\|Move internal notes to note.d.foundation]] | 🧊 150    | Doing  | monotykamary, hnh           | 🏗️ Chore   |
+| [[earn/obsidian-fork.md\|Move internal notes to note.d.foundation]] | 🧊 75     | Doing  | monotykamary, hnh           | 🏗️ Chore   |
 | [[earn/withdrawl-icy.md\|$icy withdrawal]]                          | 🧊 120    | Doing  | minhlq                      | 🛠️ Tooling |
 | [[earn/rework-fortress-command.md\|Rework Fortress Command]]        | 🧊 100    | Open   | \-                          | 🛠️ Tooling |
 | [[earn/icy-utility-command.md\|$icy utility commands]]              | 🧊 50     | Doing  | bienvh, phucld              | 🛠️ Tooling |

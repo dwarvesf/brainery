@@ -18,6 +18,9 @@ hide_frontmatter: true
 
 This is where we keep our internal updates, learned and curated by our engineers.
 
+- [[memo/consulting/Consulting - Who should join us.md|Consulting - Who should join us]]: Consulting teams consists of anyone who's hungry for more than just coding; those who are curious about the trends, the market, who can introduce new projects / challenges, who care about providing sensible solutions, and who take great care of projects.
+- [[memo/consulting/Consulting - Who we are.md|Consulting - Who We Are]]: Dwarves Consulting is team of individuals who possess a combination of technical expertise, problem-solving skills, and strong communication abilities.
+- [[memo/consulting/Consulting - How we work.md|Consulting - How we work]]: We believe in collaborative expertise and using our team of specialists to share knowledge with one another, think outside of the box, and transparently communicate, to foster a collaborative environment that promotes trust, clarity, and alignment.
 - [[memo/dwarves-community.md|Dwarves Community]]: Dwarves Community is melting pot for software engineers, thinkers, learners and techies who are to explore, learn and master the latest advancements in technology.
 - [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup #2]]: Our second weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
 - [[memo/consulting/_index.md|Consulting Team]]: This is our Consulting team homepage. Our consulting team helps businesses solve complex challenges and improve performance by identifying root causes, developing solutions, and collaborating with stakeholders for successful implementation. We offer expertise in various areas including strategy, operations, management, IT, finance, and marketing to help your business achieve its goals.
@@ -30,10 +33,4 @@ This is where we keep our internal updates, learned and curated by our engineers
 - [[memo/Forward Engineering November  2023.md|November Forward Engineering 2023]]: We have focused on revamping how we learn, familiarize, and work with tech. We are excited to announce that we have updated our Forward Engineering to better reflect the feedback and insights from our Labs team, Operations Team, and Consulting Team.
 - [[memo/salary-advance.md|$icy Salary Advance]]: A short-term credit benefit for full-time peeps.
 - [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup #1]]: Our first weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
-- [[memo/labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]]: DuckDB is a great starting point for modern stacks that don't need to worry about scalability, but want to derive hard analytics from the data that they have. This meeting will do a 3-part demo of DuckDB (15 minutes total):
-• Consolidate NYC taxi data in parallel (through map-reduce) over HTTPS
-• Aggregate IBM AML transactions (Anti-Money Laundering)
-• Some examples of how it is used to consolidate and do basic analytics on note.d and log.console.so
-- [[memo/icy-in-2024.md|$icy in 2024]]: Quick recap about $icy progress and what's next in 2024.
-- [[memo/df-protocol-icy-dfg.md|💠 df protocol, $icy and $dfg]]: Here's our draft internal map/v0 for 🧊 $icy play, based on our current activities at this borderless software firm...
 

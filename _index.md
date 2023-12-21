@@ -30,19 +30,19 @@ We believe that behind every success comes great preparation, accumulation and c
 
 <!-- col-2 #1 -->
 <!-- radar-latest-1 -->
-- [[radar/large-language-model-llm.md|Large Language Model Llm]]
 - [[radar/zustand.md|Zustand]]
-- [[radar/yup.md|Yup]]
 - [[radar/zod.md|Zod]]
+- [[radar/yup.md|Yup]]
 - [[radar/webflow.md|Webflow]]
+- [[radar/webdriverio.md|Webdriverio]]
 
 <!-- radar-latest-1 -->
 <!-- radar-latest-2 -->
-- [[radar/large-language-model-llm.md|Large Language Model Llm]]
 - [[radar/zustand.md|Zustand]]
-- [[radar/yup.md|Yup]]
 - [[radar/zod.md|Zod]]
+- [[radar/yup.md|Yup]]
 - [[radar/webflow.md|Webflow]]
+- [[radar/webdriverio.md|Webdriverio]]
 
 <!-- radar-latest-2 -->
 <!-- /col-2 #1 -->
@@ -67,6 +67,9 @@ We believe that behind every success comes great preparation, accumulation and c
 
 ## Memos
 
+- [[memo/consulting/Consulting - Who should join us.md|Consulting - Who should join us]] - nikki
+- [[memo/consulting/Consulting - Who we are.md|Consulting - Who We Are]] - nikki
+- [[memo/consulting/Consulting - How we work.md|Consulting - How we work]] - nikki
 - [[memo/dwarves-community.md|Dwarves Community]] - nikki
 - [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup #2]] - monotykamary
 - [[memo/consulting/_index.md|Consulting Team]] - monotykamary, huytq
@@ -74,9 +77,6 @@ We believe that behind every success comes great preparation, accumulation and c
 - [[memo/consulting/Estimation Guidelines.md|Estimation Guidelines]] - huytq, monotykamary
 - [[memo/consulting/Project Delivery Schedule and Guidelines.md|Project Delivery Schedule and Guidelines]] - huytq
 - [[memo/labs/Labs - Who we are.md|Labs - Who we are]] - thanh
-- [[memo/labs/_index.md|Labs Team]] - monotykamary
-- [[memo/labs/_base.md|Labs Team]] - monotykamary
-- [[memo/Forward Engineering November  2023.md|November Forward Engineering 2023]] - thanh, monotykamary
 
 
 ## Open positions
