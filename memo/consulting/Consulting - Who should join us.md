@@ -2,6 +2,7 @@
 tags:
   - dwarves
   - work
+  - consulting
 title: Consulting - Who should join us
 date: 2023-12-21
 description: Consulting teams consists of anyone who's hungry for more than just coding; those who are curious about the trends, the market, who can introduce new projects / challenges, who care about providing sensible solutions, and who take great care of projects.

@@ -2,6 +2,7 @@
 tags:
   - dwarves
   - work
+  - consulting
 title: Consulting - How we work
 date: 2023-12-21
 description: We believe in collaborative expertise and using our team of specialists to share knowledge with one another, think outside of the box, and transparently communicate, to foster a collaborative environment that promotes trust, clarity, and alignment.

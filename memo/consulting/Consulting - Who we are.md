@@ -2,6 +2,7 @@
 tags:
   - dwarves
   - work
+  - consulting
 title: Consulting - Who We Are
 date: 2023-12-21
 description: Dwarves Consulting is team of individuals who possess a combination of technical expertise, problem-solving skills, and strong communication abilities.
