@@ -11,7 +11,7 @@ authors:
 menu: consulting
 toc: false
 notice: 
-type: 
+type: consulting
 hide_frontmatter: false
 event_date: 
 pinned: 

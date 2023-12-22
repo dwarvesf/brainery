@@ -36,7 +36,7 @@ Our working environment is dynamic. Instead of pure knowledge / learning session
 
 We also monitor the industry and report on what is being built, what is creating impact, and turn them into use-cases for practices and productions.  
   
-We work in close collaboration with the [[memo/labs/_index|Labs Team]] and product team, to offer to specialized expertise to clients across various industries to ensure we apply our insights and learning to client projects.
+We work in close collaboration with the [[labs/_index|Labs Team]] and product team, to offer to specialized expertise to clients across various industries to ensure we apply our insights and learning to client projects.
 
 
 ### What we work forward to
@@ -70,8 +70,3 @@ Team members' effort is rewarded base on the weight of their contributions. The 
 
 ### Latest from Consulting Team
 
-- [[memo/consulting/Consulting - Who should join us.md|Consulting - Who should join us]] - nikki
-- [[memo/consulting/Consulting - Who we are.md|Consulting - Who We Are]] - nikki
-- [[memo/consulting/Consulting - How we work.md|Consulting - How we work]] - nikki
-- [[memo/consulting/Estimation Guidelines.md|Estimation Guidelines]] - huytq, monotykamary
-- [[memo/consulting/Project Delivery Schedule and Guidelines.md|Project Delivery Schedule and Guidelines]] - huytq

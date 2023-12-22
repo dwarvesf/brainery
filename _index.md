@@ -48,7 +48,7 @@ We believe that behind every success comes great preparation, accumulation and c
 <!-- /col-2 #1 -->
 ## Upcoming Events
 
-- [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup #2]] - December 13, 2023
+- [[labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]] - November 23, 2023
 
 
 
@@ -65,16 +65,16 @@ We believe that behind every success comes great preparation, accumulation and c
 
 ## Memos
 
-- [[memo/labs/events/Labs Weekly Catchup 3.md|Labs Weekly Catchup #3]] - monotykamary
-- [[memo/consulting/Consulting - Who should join us.md|Consulting - Who should join us]] - nikki
-- [[memo/consulting/Consulting - Who we are.md|Consulting - Who We Are]] - nikki
-- [[memo/consulting/Consulting - How we work.md|Consulting - How we work]] - nikki
 - [[memo/dwarves-community.md|Dwarves Community]] - nikki
-- [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup #2]] - monotykamary
-- [[memo/consulting/_index.md|Consulting Team]] - monotykamary, huytq
-- [[memo/consulting/_base.md|Consulting Team]] - monotykamary, huytq
-- [[memo/consulting/Estimation Guidelines.md|Estimation Guidelines]] - huytq, monotykamary
-- [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup #1]] - monotykamary
+- [[memo/Forward Engineering November 2023.md|November Forward Engineering 2023]] - thanh, monotykamary
+- [[memo/salary-advance.md|$icy Salary Advance]] - hnh
+- [[memo/icy-in-2024.md|$icy in 2024]] - hnh
+- [[memo/df-protocol-icy-dfg.md|💠 df protocol, $icy and $dfg]] - han
+- [[memo/Forward Engineering October 2023.md|October Forward Engineering 2023]] - monotykamary, thanh
+- [[memo/konvoy-x-dwarves.md|Konvoy X Dwarves]] - \-
+- [[memo/our-view-on-fullstack-engineering.md|Our View On Fullstack Engineering]] - \-
+- [[memo/Forward Engineering August 2023.md|Forward Engineering August 2023]] - thanh, monotykamary
+- [[memo/cimb-dwarves-x-netizen-initiating-a-digital-wealth-management-experience.md|Cimb Dwarves X Netizen Initiating A Digital Wealth Management Experience]] - \-
 
 
 ## Open positions

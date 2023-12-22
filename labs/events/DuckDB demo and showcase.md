@@ -18,10 +18,10 @@ description: |-
   • Some examples of how it is used to consolidate and do basic analytics on note.d and log.console.so
 authors:
   - monotykamary
-menu: 
+menu: labs
 toc: false
 notice: This is an internal event demo workshop and showcase of DuckDB for evaluation and use for data science and analytical use-cases at our company.
-type: memo
+type: labs
 hide_frontmatter: false
 event_date: 2023-11-23
 pinned: true

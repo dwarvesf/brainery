@@ -19,8 +19,8 @@ This page holds a collection of both our internal and external events, including
 
 ## Events
 
-- [[memo/labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup 2]]
-- [[memo/labs/events/Labs Weekly Catchup 3.md|Labs Weekly Catchup 3]]
-- [[memo/labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup 1]]
-- [[memo/labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]]
+- [[labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup 2]]
+- [[labs/events/Labs Weekly Catchup 3.md|Labs Weekly Catchup 3]]
+- [[labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup 1]]
+- [[labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]]
 

@@ -13,7 +13,7 @@ authors:
 menu: labs
 toc: false
 notice: 
-type: memo
+type: labs
 hide_frontmatter: false
 ---
 

@@ -12,10 +12,10 @@ description: When we conduct an estimation, it is recommended to abandon the tra
 authors:
   - huytq
   - monotykamary
-menu: memo
+menu: consulting
 toc: false
 notice: 
-type: memo
+type: consulting
 hide_frontmatter: false
 event_date:
 ---

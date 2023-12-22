@@ -14,10 +14,10 @@ date: 2023-12-06
 description: Our first weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
 authors:
   - monotykamary
-menu: 
+menu: labs
 toc: false
 notice: 
-type: memo
+type: labs
 hide_frontmatter: false
 event_date: 2023-12-06
 ---

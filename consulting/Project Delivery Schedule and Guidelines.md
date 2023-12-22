@@ -9,10 +9,10 @@ date: 2023-12-05
 description: Dwarves Foundation Team's guide on our project delivery process. This post will serve as your go-to resource for understanding our weekly, bi-weekly, and monthly activities, ensuring that we stay on track and excel in our deliveries.
 authors:
   - huytq
-menu: memo
+menu: consulting
 toc: false
 notice: 
-type: memo
+type: consulting
 hide_frontmatter: false
 event_date:
 ---

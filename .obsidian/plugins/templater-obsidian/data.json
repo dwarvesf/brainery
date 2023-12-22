@@ -45,6 +45,14 @@
     {
       "folder": "events",
       "template": "_templater/New Post.md"
+    },
+    {
+      "folder": "labs",
+      "template": "_templater/New Post.md"
+    },
+    {
+      "folder": "consulting",
+      "template": "_templater/New Post.md"
     }
   ],
   "syntax_highlighting": true,

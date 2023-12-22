@@ -14,8 +14,8 @@ authors:
   - thanh
 menu: labs
 toc: false
-notice:
-type: memo
+notice: 
+type: labs
 hide_frontmatter: false
 ---
 
