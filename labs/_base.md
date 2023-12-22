@@ -19,7 +19,7 @@ hide_frontmatter: true
 ## Latest from Labs Team
 ```dataview
 LIST
-FROM "memo/labs" AND !"memo/labs/_index" AND !"memo/labs/_base"
+FROM "labs" AND !"labs/_index" AND !"labs/_base"
 SORT date DESC
 LIMIT 10
 ```

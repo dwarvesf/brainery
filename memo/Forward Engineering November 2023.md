@@ -94,39 +94,39 @@ _PICs: An Tran_
 
 WASM is a technology that allows running code written in multiple languages on the web at near-native speed. The challenges in using WASM for these applications may include optimizing performance, managing memory efficiently, and ensuring compatibility across different web browsers:
 
-- [Self-host AI model on the browser (e.g. OCR for security cams, private browser chatbot…)](https://note.d.foundation/earn/self-host-ai-model-on-the-browser/)
-- [Data processing and visual infographics (through DuckDB-WASM)](https://note.d.foundation/earn/data-processing-and-visual-infographics-through-duckdb-wasm/)
-- [Implement a Rust game through WASM](https://note.d.foundation/earn/implement-a-rust-game-through-wasm/)
+- [[self-host-ai-model-on-the-browser|Self-host AI model on the browser (e.g. OCR for security cams, private browser chatbot…)]]
+- [[data-processing-and-visual-infographics-through-duckdb-wasm|Data processing and visual infographics (through DuckDB-WASM)]]
+- [[implement-a-rust-game-through-wasm|Implement a Rust game through WASM]]
 
 #### **Passwordless Authentication**
 _PICs: An Tran_
 
 An Tran has also discussed passwordless authentication, which involves allowing users to access systems without entering traditional passwords. The use-case challenges we hope to include are:
 
-- [Biometrics on the web (through external device connection)](https://note.d.foundation/earn/demo-biometrics-on-the-web-through-external-device-connection/)
-- [QR code based login](https://note.d.foundation/memo/labs/labs-roadmap-nov-23-update/)
-- [Magic Links](https://note.d.foundation/earn/demo-magic-links/)
+- [[demo-biometrics-on-the-web-through-external-device-connection|Biometrics on the web (through external device connection)]]
+- [[Labs Roadmap (Nov 23 update)|QR code based login]]
+- [[demo-magic-links|Magic Links]]
 
 #### **Artificial Intelligence (AI)**
 _PICs: Tom Nguyen_
 
 The challenges in this context may involve ensuring the real-time nature of the updates, managing the computational resources required for such updates, and addressing potential privacy and security concerns related to real-time knowledge updates.
 
-- [Realtime memory knowledge updates (RAG updates)](https://note.d.foundation/earn/realtime-memory-knowledge-updates-rag-updates/)
+- [[realtime-memory-knowledge-updates-rag-updates|Realtime memory knowledge updates (RAG updates)]]
 
 #### **Multi-Party Computation (MPC)**
 _PICs: Huy Nguyen_
 
 Huy Nguyen has discussed applying MPC for authentication in the context of web3 console. MPC allows multiple parties to jointly compute a function over their inputs while keeping those inputs private. The challenges may include ensuring the security and privacy of the computation, managing the communication overhead in multi-party settings, and addressing the complexity of implementing MPC protocols in web applications.
 
-- [Applying MPC for authentication for web3 (Console)](https://note.d.foundation/earn/applying-mpc-for-authentication-for-web3-console/)
+- [[applying-mpc-for-authentication-for-web3-console|Applying MPC for authentication for web3 (Console)]]
 
 ####  **Building UI Library Practices**
 _PICs: Thanh Pham_
 
 Thanh Pham has written about Mochi UI, which likely refers to a set of UI design and development practices. The challenges in this context may include ensuring consistency and usability across different devices and screen sizes, addressing accessibility considerations, and managing the complexity of implementing advanced UI interactions.
 
-- [Build mochi-ui](https://note.d.foundation/earn/mochi-ui)
+- [[mochi-ui|Build mochi-ui]]
 
 ## Dwarves Rewind - Discord Community
 

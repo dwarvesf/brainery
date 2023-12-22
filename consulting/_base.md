@@ -72,7 +72,7 @@ Team members' effort is rewarded base on the weight of their contributions. The 
 
 ```dataview
 LIST WITHOUT ID "[[" + file.path + "|" + title + "]] - " + authors
-FROM "memo/consulting" AND !"memo/consulting/_index" AND !"memo/consulting/_base"
+FROM "consulting" AND !"consulting/_index" AND !"consulting/_base"
 SORT date DESC
 LIMIT 10
 ```

@@ -49,6 +49,7 @@ We believe that behind every success comes great preparation, accumulation and c
 ## Upcoming Events
 
 - [[labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]] - November 23, 2023
+- [[labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup #1]] - December 06, 2023
 
 
 

@@ -17,6 +17,16 @@ hide_frontmatter: true
 <!-- col-2 #1 -->
 <!-- labs-latest -->
 ## Latest from Labs Team
+- [[labs/events/Labs Weekly Catchup 3.md|Labs Weekly Catchup 3]]
+- [[labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup 2]]
+- [[labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup 1]]
+- [[labs/Labs - Who we are.md|Labs - Who we are]]
+- [[labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]]
+- [[labs/Reward Model & Nomination.md|Reward Model & Nomination]]
+- [[labs/Labs x Consulting Workflow.md|Labs x Consulting Workflow]]
+- [[labs/Labs Roadmap (Nov 23 update).md|Labs Roadmap (Nov 23 update)]]
+- [[labs/Labs - Topic proposal & progress tracking.md|Labs - Topic proposal & progress tracking]]
+- [[labs/Labs - New Member Onboarding.md|Labs - New Member Onboarding]]
 
 <!-- /labs-latest -->
 <!-- forward-engineering-publications -->
