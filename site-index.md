@@ -348,6 +348,7 @@ notice: null
 - [[radar/makefile.md|Makefile]]
 - [[memo/making-decision-as-a-team-member.md|Making Decision As A Team Member]]
 - [[memo/managing-dataflow-and-sql-database-with-concurrency-control.md|Managing Dataflow And Sql Database With Concurrency Control]]
+- [[labs/Market Report Dec 2023.md|Market Report Dec 2023]]
 - [[memo/may-2022-all-hands-meeting.md|May 2022 All Hands Meeting]]
 - [[memo/mbti---type-estj.md|Mbti Type Estj]]
 - [[memo/mbti---type-intj.md|Mbti Type Intj]]
