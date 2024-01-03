@@ -67,6 +67,7 @@ We believe that behind every success comes great preparation, accumulation and c
 
 ## Memos
 
+- [[memo/droppii-dwarves-case-study.md|Droppii x Dwarves: Transforming E-Commerce with Innovative Dropshipping Solutions]] - huytq, han
 - [[memo/dwarves-community.md|Dwarves Community]] - nikki
 - [[memo/Forward Engineering November 2023.md|November Forward Engineering 2023]] - thanh, monotykamary
 - [[memo/salary-advance.md|$icy Salary Advance]] - hnh
@@ -76,7 +77,6 @@ We believe that behind every success comes great preparation, accumulation and c
 - [[memo/konvoy-x-dwarves.md|Konvoy X Dwarves]] - \-
 - [[memo/our-view-on-fullstack-engineering.md|Our View On Fullstack Engineering]] - \-
 - [[memo/Forward Engineering August 2023.md|Forward Engineering August 2023]] - thanh, monotykamary
-- [[memo/cimb-dwarves-x-netizen-initiating-a-digital-wealth-management-experience.md|Cimb Dwarves X Netizen Initiating A Digital Wealth Management Experience]] - \-
 
 
 ## Open positions

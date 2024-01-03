@@ -18,6 +18,7 @@ pinned:
 ---
 This is our newsletter page, where we keep you up to date with latest industry news and updates, valuable content from our engineers at Dwarves, and a picture of how we operate with our engineers and community.
 
+- [[newsletter/whats-new-december-2023.md|whats-new-december-2023]]
 - [[newsletter/whats-new-november-2023.md|whats-new-november-2023]]
 - [[newsletter/whats-new-october-2023.md|whats-new-october-2023]]
 
