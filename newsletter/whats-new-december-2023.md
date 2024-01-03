@@ -48,7 +48,7 @@ For the full read, [come here](https://note.d.foundation/labs/market-report-dec-
 - **Innovative Mindset:** we encourage out-of-the-box thinking, experimentation, and creative problem-solving
 - **Transparent Communication**: we lay everything out on the open, fostering a collaborative environment that promotes trust, clarity, and alignment
 
-![[Consulting - Who should join us-20231221144422875.webp]]
+![[Consulting - Who should join us-20231221144422875.webp|500]]
 
 #### Monthly top performers
 
