@@ -17,7 +17,7 @@ pinned: true
 hide_title: false
 ---
 
-> [!Before you dive in]
+> [Before you dive in]
 > Dwarves is operated as a 50% company, 50% community. Everything we learn along the way of work, we transform into knowledge and distribute back to our tech community.
 > 
 > If you want to get in touch, visit [Dwarves Network](http://discord.gg/dwarvesv)
@@ -29,7 +29,7 @@ In December, we launched our Consulting Team, released our finding on tech trend
 - **[[#Launching Consulting Team]]** - Dwarves Consulting is shaping up
 - **[[#Performance Review]]** - The Dwarves way. We don't just base our review by performance, but also on everyone's effort to grow in their career.
 - **[[#Dwarves of the Year 2023]]** - Time to tribute and reward team members who made significant impacts to our growth. 
-- **[[#Join our team]] - Admin / Ops, BD, Tech Recruiter
+- **[[#Join our team]]** - Admin / Ops, BD, Tech Recruiter
 
 
 #### Reporting tech signals
@@ -52,10 +52,10 @@ For the full read, [come here](https://note.d.foundation/labs/market-report-dec-
 
 #### Monthly top performers
 
-Each month we track how productive and valuable each of our team members by using delivery points. For now, the top 5 high-performing members get rewards with $ICY. In Nov, kudos to those peeps who outperformed the rest: Nam Nguyen, Lap Nguyen, Ngoc Thanh, Jim and Hung Vong.
+Each month we track how productive and valuable each of our team members by using delivery points. For now, the top 5 high-performing members get rewards with $ICY. In Dec, kudos to those peeps who outperformed the rest: Nam Nguyen, Lap Nguyen, Ngoc Thanh, Jim and Hung Vong.
 
 Last month we also shipped quite a number of features, highlighting:
-- Mochi v0 - an open source IU library for every software project
+- [Mochi UI]([url](https://mochiui.com/)) - an open source IU library for every software project
 - Rust game - an inhouse game we're developing for our upcoming summit
 
 
@@ -69,7 +69,7 @@ On Jan 13th, we're flying non-Saigon peeps to Saigon so everyone can get togethe
 
 #### Performance Review
 
-The Dwarves way. We don't just base our review by performance, but also on everyone's effort to grow in their career.
+The Dwarves way. We don't just base on our review by performance, but also on everyone's effort to grow in their career.
 
 As our theme for the year is MMA (Mastery, Meaning, Autonomy), we develop a system of metrics to make sure our engineers are not only skilled, but also head toward higher purpose.
 
@@ -80,8 +80,8 @@ As our theme for the year is MMA (Mastery, Meaning, Autonomy), we develop a syst
 
 #### Join our team
 We are looking for the following talents to join our team
-- Admin / Ops (Fulltime)
-- Business Development (Fulltime, Partner)
-- Technical Recruiter (Fulltime)
+- [Admin / Ops]([url](https://note.d.foundation/hiring/open-positions/executive-assistant/)) (Fulltime)
+- [Business Development]([url](https://note.d.foundation/hiring/open-positions/business-development/)) (Fulltime, Partner)
+- [Technical Recruiter]([url](https://note.d.foundation/hiring/open-positions/technical-recruiter/)) (Fulltime)
 
 Email us at spawn@d.foundation or ping @nikki on Discord for JDs / to refer someone you know. TIA!
