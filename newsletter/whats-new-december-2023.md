@@ -63,7 +63,7 @@ Last month we also shipped quite a number of features, highlighting:
 
 It's been one of our longest tradition, to tribute and reward team members who made significant impacts to our growth. Dwarves of the Year 2023 is brewing up with various categories and a total rewards of $25k.
 
-![[whats-new-december-2023-20240103153356468.webp]]
+![[whats-new-december-2023-20240103153356468.webp|400]]
 On Jan 13th, we're flying non-Saigon peeps to Saigon so everyone can get together and party their hearts out!
 
 
