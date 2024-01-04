@@ -55,7 +55,7 @@ For the full read, [come here](https://note.d.foundation/labs/market-report-dec-
 Each month we track how productive and valuable each of our team members by using delivery points. For now, the top 5 high-performing members get rewards with $ICY. In Dec, kudos to those peeps who outperformed the rest: Nam Nguyen, Lap Nguyen, Ngoc Thanh, Jim and Hung Vong.
 
 Last month we also shipped quite a number of features, highlighting:
-- [Mochi UI]([url](https://mochiui.com/)) - an open source IU library for every software project
+- [Mochi UI]([url](https://mochiui.com/) - an open source IU library for every software project
 - Rust game - an inhouse game we're developing for our upcoming summit
 
 
@@ -80,8 +80,8 @@ As our theme for the year is MMA (Mastery, Meaning, Autonomy), we develop a syst
 
 #### Join our team
 We are looking for the following talents to join our team
-- [Admin / Ops]([url](https://note.d.foundation/hiring/open-positions/executive-assistant/)) (Fulltime)
-- [Business Development]([url](https://note.d.foundation/hiring/open-positions/business-development/)) (Fulltime, Partner)
-- [Technical Recruiter]([url](https://note.d.foundation/hiring/open-positions/technical-recruiter/)) (Fulltime)
+- [[executive-assistant|Admin / Ops]] (Fulltime)
+- [[business-development|Business Development]] (Fulltime, Partner)
+- [[technical-recruiter|Technical Recruiter]] (Fulltime)
 
 Email us at spawn@d.foundation or ping @nikki on Discord for JDs / to refer someone you know. TIA!
