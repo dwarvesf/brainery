@@ -55,7 +55,7 @@ For the full read, [come here](https://note.d.foundation/labs/market-report-dec-
 Each month we track how productive and valuable each of our team members by using delivery points. For now, the top 5 high-performing members get rewards with $ICY. In Dec, kudos to those peeps who outperformed the rest: Nam Nguyen, Lap Nguyen, Ngoc Thanh, Jim and Hung Vong.
 
 Last month we also shipped quite a number of features, highlighting:
-- [Mochi UI]([url](https://mochiui.com/) - an open source IU library for every software project
+- [Mochi UI](https://mochiui.com/) - an open source IU library for every software project
 - Rust game - an inhouse game we're developing for our upcoming summit
 
 
