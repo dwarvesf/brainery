@@ -6,12 +6,12 @@ tags:
   - bounty
 title: Open Bounties
 product: 
-date: 2023-10-19
+date: 2024-01-05
 description: The Dwarves bounty program is the means through which both company peeps and the community can contribute to our daily activities. This includes tasks like building internal tools, engaging in new technology research and development, or sharing knowledge session
 authors:
   - monotykamary
   - hnh
-menu: 
+menu: earn
 toc: 
 notice: 
 due_date: 

@@ -1,4 +1,3 @@
-memo
 ---
 tags:
   - earn

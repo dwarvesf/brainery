@@ -66,6 +66,7 @@ notice: null
 - [[memo/approaches-to-manage-concurrent-workloads-like-worker-pools-and-pipelines.md|Approaches To Manage Concurrent Workloads Like Worker Pools And Pipelines]]
 - [[memo/architect-frontend-site-and-mobile-development-for-crypto-investment-ecosystem.md|Architect Frontend Site And Mobile Development For Crypto Investment Ecosystem]]
 - [[memo/architecture-decision-record.md|Architecture Decision Record]]
+- [[earn/archive.md|Archive]]
 - [[memo/are-we-really-engineers.md|Are We Really Engineers]]
 - [[memo/are-you-helping.md|Are You Helping]]
 - [[radar/argocd.md|Argocd]]
