@@ -30,27 +30,26 @@ We believe that behind every success comes great preparation, accumulation and c
 
 <!-- col-2 #1 -->
 <!-- radar-latest-1 -->
+- [[radar/elixir.md|Elixir]]
 - [[radar/zustand.md|Zustand]]
 - [[radar/zod.md|Zod]]
 - [[radar/yup.md|Yup]]
 - [[radar/webflow.md|Webflow]]
-- [[radar/webdriverio.md|Webdriverio]]
 
 <!-- radar-latest-1 -->
 <!-- radar-latest-2 -->
+- [[radar/elixir.md|Elixir]]
 - [[radar/zustand.md|Zustand]]
 - [[radar/zod.md|Zod]]
 - [[radar/yup.md|Yup]]
 - [[radar/webflow.md|Webflow]]
-- [[radar/webdriverio.md|Webdriverio]]
 
 <!-- radar-latest-2 -->
 <!-- /col-2 #1 -->
 ## Upcoming Events
 
+- [[labs/events/Labs Weekly Catchup 5.md|Labs Weekly Catchup #5]] - December 13, 2023
 - [[labs/events/Labs Weekly Catchup 4.md|Labs Weekly Catchup #4]] - December 13, 2023
-- [[labs/events/Labs Weekly Catchup 3.md|Labs Weekly Catchup #3]] - December 13, 2023
-- [[labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup #2]] - December 13, 2023
 
 
 
