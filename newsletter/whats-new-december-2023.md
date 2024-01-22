@@ -18,7 +18,7 @@ hide_title: false
 ---
 
 > [Before you dive in]
-> Dwarves is operated as a 50% company, 50% community. Everything we learn along the way of work, we transform into knowledge and distribute back to our tech community. <3
+> Dwarves is operated as a 50% company, 50% community. Everything we learn along the way of work, we transform into knowledge and distribute back to our tech community. 
 > 
 > If you want to get in touch, visit [Dwarves Network](http://discord.gg/dwarvesv)
 
@@ -35,7 +35,7 @@ In December, we launched our Consulting Team, released our finding on tech trend
 #### Reporting tech signals
 Technologies move fast. We're not ones to get left behind. Every month we watch tech trends closely to depict which ones have high potential, and can be part of our growing tech stack.
 
-This month highlights strong signals on AI gaining mainstream traction, the comeback of WebGPU, Actor Model in computing, Security and ComplianceAsCode, nNFT standards for asset provenance. And programming-language-wise: Rust, Lua Dart
+This month highlights strong signals on AI gaining mainstream traction, the comeback of WebGPU, Actor Model in computing, Security and ComplianceAsCode, nNFT standards for asset provenance. And programming-language-wise: Rust, Lua Dart.
 
 For the full read, [come here](https://note.d.foundation/labs/market-report-dec-2023/).
 
@@ -45,8 +45,8 @@ For the full read, [come here](https://note.d.foundation/labs/market-report-dec-
 [Dwarves' Consulting team](https://note.d.foundation/consulting/consulting-who-we-are/) consists of anyone who’s hungry for more than just coding.
 
 - **Team of Specialists**: we favor collective expertise, knowledge sharing and collaboration, to craft innovative solutions that exceed expectations.
-- **Innovative Mindset:** we encourage out-of-the-box thinking, experimentation, and creative problem-solving
-- **Transparent Communication**: we lay everything out on the open, fostering a collaborative environment that promotes trust, clarity, and alignment
+- **Innovative Mindset:** we encourage out-of-the-box thinking, experimentation, and creative problem-solving.
+- **Transparent Communication**: we lay everything out on the open, fostering a collaborative environment that promotes trust, clarity, and alignment.
 
 ![[Consulting - Who should join us-20231221144422875.webp|500]]
 
