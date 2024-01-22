@@ -12,10 +12,6 @@
     "PICs": "multitext",
     "completion_date": "date",
     "publish": "checkbox",
-    "hide_frontmatter": "checkbox",
-    "event-date": "date",
-    "hiring": "checkbox",
-    "pinned": "checkbox",
-    "hide_title": "checkbox"
+    "show_frontmatter": "checkbox"
   }
 }

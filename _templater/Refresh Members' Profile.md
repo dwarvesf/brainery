@@ -31,9 +31,13 @@ for (const element of membersList) {
 	content += `## Written Notes\n\n${memberArticles.value}`;
 
 	// get folder and file path
-	const file = app.vault.getAbstractFileByPath(element.file.path);
-	const fileContent = await app.vault.read(file);
+	const filePath = app.vault.getAbstractFileByPath(element.file.path);
+	const folder = app.vault.getAbstractFileByPath(element.file.folder);
 
-	await app.vault.modify(file, content);
+	// delete the file
+	await app.vault.trash(filePath, true);
+
+	// create a new file with the matching template
+	await tp.file.create_new(content, element.file.name, false, folder);
 }
 %>

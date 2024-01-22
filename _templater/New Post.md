@@ -10,8 +10,5 @@ menu:
 toc: false
 notice: 
 type: 
-hide_frontmatter: false
-event_date: 
-pinned: 
-hide_title: false
+show_frontmatter: true
 ---

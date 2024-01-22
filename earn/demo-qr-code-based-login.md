@@ -3,7 +3,7 @@ tags:
   - passwordless
   - qr-code
   - labs
-title: "Demo: QR Code based Login"
+title: "Demo: QR code based login"
 product: 
 date: 2023-11-27
 description: Create a QR code-based login system for easy and secure access to web applications.
@@ -12,11 +12,11 @@ menu:
 toc: 
 notice: 
 due_date: 
-status: Figure Out
+status: 
 PICs: 
 completion_date: 
 bounty: 100
-hide_frontmatter: 
+show_frontmatter: 
 type: 
 function: 
 🔺_priority: 

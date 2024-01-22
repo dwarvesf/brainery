@@ -12,9 +12,7 @@ notice:
 due_date: 
 status: 
 PICs: 
-functional: 
 completion_date: 
 bounty: 150
-hide_frontmatter: true
-pinned:
+show_frontmatter: false
 ---

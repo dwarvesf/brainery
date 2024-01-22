@@ -1,20 +1,32 @@
 ---
 tags:
-  - earn
-title: Data processing and visual infographics (through DuckDB-WASM)
+  - labs
+  - duckdb
+  - infographics
+  - wasm
+title: Data processing and visual infographics through DuckDB WASM
 product: 
-date: 2023-12-22
-description: Use DuckDB in the browser to facilitate in managing large data and plotting data with visual infographics or realtime analytics.
+date: 
+description: 
 authors: 
 menu: 
-toc: false
+toc: 
 notice: 
 due_date: 
 status: 
 PICs: 
-functional: 
 completion_date: 
 bounty: 150
-hide_frontmatter: true
-pinned:
+show_frontmatter: 
+function: 
+🔺_priority: 
+reward_🧊: 150
+remark: 
+requester: 
+ranking: 
+pi_cs: 
+start_date: 
+progress:
 ---
+
+Leverage DuckDB-WASM for efficient in-browser data processing and create dynamic visual infographics.

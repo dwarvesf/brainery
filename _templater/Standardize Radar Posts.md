@@ -11,28 +11,32 @@ for (const element of radarPages) {
 	const frontmatter = { ...postTemplate[0].file.frontmatter, ...element.file.frontmatter };
 	let content = "---\n";
 	for (const prop in frontmatter) {
-	    let value = element.file.frontmatter[prop];
-	
-	    // Default values for certain properties
-	    if (value === undefined) {
-	        if (prop === "menu") {
-	            value = "radar";
-	        } else if (prop === "date" && frontmatter.created) {
-	            value = frontmatter.created;
-	        } else if (prop === "title") {
-	            value = titleCase(element.file.name);
-	        }
-	    }
-	
-	    // Special handling for tags and arrays
-	    if (prop === "tags" && typeof value == "string") {
-	        value = `\n  - ${value.split(", ").join("\n  - ")}`;
-	    } else if (Array.isArray(value) && value.length > 0) {
-	        value = `\n  - ${value.join("\n  - ")}`;
-	    }
-	
-	    // Add property to content
-	    content += `${prop}: ${value ?? null}\n`;
+		const value = element.file.frontmatter[prop]
+
+		if (prop === "menu" && value === undefined) {
+			content += `${prop}: radar\n`;
+		}
+		else if (prop === "show_frontmatter" && value === undefined) {
+			content += `${prop}: true\n`;
+		}
+		else if (prop === "date" && frontmatter.created) {
+			content += `${prop}: ${frontmatter.created}\n`;
+		}
+		else if (prop === "title" && value === undefined) {
+			content += `${prop}: ${titleCase(element.file.name)}\n`;
+		}
+		else if (frontmatter.length > 0) {
+			content += `${prop}: ${frontmatter[prop]}\n`
+		}
+
+		if (prop === "tags" && typeof value == "string") {
+			content += `${prop}: \n  - ${value.split(", ").join("\n  - ")}\n`;
+		}
+		else if (Array.isArray(value) && value.length > 0) {
+			content += `${prop}: \n  - ${value.join("\n  - ")}\n`;
+		} else {
+			content += `${prop}: ${value || null}\n`;
+		}
 	}
 	content += "---\n";
 

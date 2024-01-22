@@ -8,6 +8,3 @@ _reference/
 # ignore any readmes
 *README.md
 
-# ignore any base files
-_base.md
-

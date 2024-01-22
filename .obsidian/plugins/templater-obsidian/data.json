@@ -8,53 +8,12 @@
     ]
   ],
   "trigger_on_file_creation": true,
-  "auto_jump_to_cursor": true,
+  "auto_jump_to_cursor": false,
   "enable_system_commands": true,
   "shell_path": "",
   "user_scripts_folder": "",
   "enable_folder_templates": true,
-  "folder_templates": [
-    {
-      "folder": "memo",
-      "template": "_templater/New Post.md"
-    },
-    {
-      "folder": "earn",
-      "template": "_templater/New Earn.md"
-    },
-    {
-      "folder": "hiring",
-      "template": "_templater/New Hiring.md"
-    },
-    {
-      "folder": "members",
-      "template": "_templater/New Member.md"
-    },
-    {
-      "folder": "playbook",
-      "template": "_templater/New Post.md"
-    },
-    {
-      "folder": "newsletter",
-      "template": "_templater/New Post.md"
-    },
-    {
-      "folder": "radar",
-      "template": "_templater/New Post.md"
-    },
-    {
-      "folder": "events",
-      "template": "_templater/New Post.md"
-    },
-    {
-      "folder": "labs",
-      "template": "_templater/New Post.md"
-    },
-    {
-      "folder": "consulting",
-      "template": "_templater/New Post.md"
-    }
-  ],
+  "folder_templates": [],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": true,
   "enabled_templates_hotkeys": [
@@ -63,7 +22,9 @@
   "startup_templates": [
     "_templater/Refresh Index.md",
     "_templater/Refresh Members' Profile.md",
-    "_templater/Refresh Home Pages.md",
+    "_templater/Refresh Hiring.md",
+    "_templater/Refresh Earn.md",
+    "_templater/Refresh Memo.md",
     ""
   ],
   "enable_ribbon_icon": true

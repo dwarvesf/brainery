@@ -17,7 +17,7 @@ Heading components section
 ------
 
 ```
-Alternate Syntax for Heading 1 and Heading 2 under Headings sections
+Alternate Syntax for Heading 1 and Heading 2 under Headings section
 ```
 
 Heading 1

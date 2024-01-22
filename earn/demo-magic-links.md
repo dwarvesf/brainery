@@ -12,11 +12,11 @@ menu:
 toc: 
 notice: 
 due_date: 
-status: Figure Out
+status: 
 PICs: 
 completion_date: 
 bounty: 100
-hide_frontmatter: 
+show_frontmatter: 
 type: 
 function: 
 🔺_priority: 

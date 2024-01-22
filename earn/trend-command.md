@@ -1,25 +1,24 @@
 ---
-tags:
+tags: 
   - tooling
 title: Trend Command
 product: null
 date: 2023-08-17
 description: null
-authors:
+authors: 
   - thanh
 menu: earn
 toc: null
 notice: null
 due_date: null
-status: Done
-PICs:
-  - tropicaldog
+status: Open
+PICs: 
+  - tom
 completion_date: null
 bounty: 60
-hide_frontmatter: true
+show_frontmatter: false
 type: tooling
 ---
-
 ## Requirements
 
 ### `?trend` command
@@ -42,6 +41,6 @@ Not all repositories are relevant to everyone. We need to support some kind of f
 
 ### Implementation
 
-There are no restrictions on how to implement this command and where to get the data. Scraping from https://github.com/trending is also a viable approach.
+There are no restrictions on how to implement this command and where to get the data. Scraping from  https://github.com/trending is also a viable approach.
 
 We do mostly code our Discord bots in Go, but there are no hard requirements in programming language for this Discord command as of the time of this writing.

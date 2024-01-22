@@ -54,10 +54,6 @@
       "events": {
         "on-layout-ready": {
           "enabled": true
-        },
-        "every-n-seconds": {
-          "enabled": false,
-          "seconds": 60
         }
       },
       "command_palette_availability": "enabled",

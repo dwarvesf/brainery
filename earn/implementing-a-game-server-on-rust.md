@@ -1,33 +1,33 @@
 ---
-tags: 
+tags:
   - rust
   - minigame
   - game-server
   - labs
 title: Implementing a game server on Rust
-product: null
+product: 
 date: 2023-11-27
 description: Develop a robust and efficient game server using Rust.
-authors: null
-menu: null
-toc: null
-notice: null
-due_date: null
-status: Figure Out
-PICs: null
-completion_date: null
+authors: 
+menu: 
+toc: 
+notice: 
+due_date: 
+status: 
+PICs: 
+completion_date: 
 bounty: 150
-hide_frontmatter: null
-type: null
-function: null
-🔺_priority: null
+show_frontmatter: 
+type: 
+function: 
+🔺_priority: 
 reward_🧊: 150
-remark: null
-requester: null
-ranking: null
-pi_cs: null
-start_date: null
-progress: null
+remark: 
+requester: 
+ranking: 
+pi_cs: 
+start_date: 
+progress:
 ---
 
 Develop a robust and efficient game server using Rust.

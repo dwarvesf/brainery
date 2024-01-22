@@ -1,23 +1,23 @@
 ---
-tags:
+tags: 
   - earn
   - fortress
 title: Fortress Mma Score
 product: null
 date: 2023-10-04
 description: null
-authors:
+authors: 
   - hnh
 menu: earn
 toc: null
 notice: null
 due_date: null
-status: Done
-PICs:
+status: Open
+PICs: 
   - nam
 completion_date: null
 bounty: 120
-hide_frontmatter: true
+show_frontmatter: false
 type: earn
 ---
 
