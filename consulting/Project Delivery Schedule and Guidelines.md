@@ -72,6 +72,18 @@ Dwarves Foundation Team's guide on our project delivery process. This post will 
 
 ![[Project Delivery Schedule and Guidelines-20231205231500387.webp]]
 
+### 5. Project Collect Feedback
+
+For every 3 or 6 months, by _**Monday of the 1st week from the 1st month**_, Delivery team or Project Leader will send out an email to client to gather feedbacks for our Dwarves members through this form: [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScVkRDy9w5_j_Tkj2MXs2Yi_n8yTUqNNBqy8w1-E3Beauodsw/viewform)
+
+**What we can collect from this form?**
+
+- Metrics: to evaluate our members if they are working effectively or not.
+- Start Stop Continue doing feedback model: to understand how we can improve our delivery better.
+- Leadership metrics: how effectiveness on the management from our Team Leader and Team Members.
+
+![[Project Delivery Schedule and Guidelines-20240122154413119.webp]]
+
 ---
 
 ## **Important Reminders**
