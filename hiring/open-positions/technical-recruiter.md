@@ -1,20 +1,19 @@
 ---
 tags:
-  - dwarves
-  - work
-  - recruiter
+  - hiring
+  - career
 title: Technical Recruiter
 date: 2023-12-15
 description: The ideal candidate will play a pivotal role in sourcing, attracting, and hiring top-tier talents and take care of our team members' growth.
 authors:
   - nikki
   - vitran
-menu: 
+menu:
 toc: false
-notice: 
+notice:
 type: hiring
 hide_frontmatter: false
-event_date: 
+event_date:
 hiring: true
 ---
 
@@ -34,7 +33,7 @@ On our way moving to the next goals, we're looking for talented members to join 
 
 |                     |                      |                   |
 | ------------------- | -------------------- | ----------------- |
-| [[Life at Dwarves]] | [[Culture Handbook]] | [[The Manifesto]] | 
+| [[Life at Dwarves]] | [[Culture Handbook]] | [[The Manifesto]] |
 
 ### **Requirement**
 
@@ -79,21 +78,19 @@ Our goal is to provide and empower teammates with what they need to get the job 
 ### Our interview process
 
 1. **Review & Reference check** After we receive applications, we will perform our screening process and double-check on the reference.
-    
-2. **Skills** **assessment test**
-    
-    Ideal candidates will receive links to our skills assessment test, which will focus on the three main skills: English, Writing, Logical Thinking.
-    
-3. **Team interview** Successful candidates will have a direct talk with our Ops members and/or relevant team members.
-    
-4. **Offer** The best candidate will receive an offer from us right away.
 
+2. **Skills** **assessment test**
+
+   Ideal candidates will receive links to our skills assessment test, which will focus on the three main skills: English, Writing, Logical Thinking.
+
+3. **Team interview** Successful candidates will have a direct talk with our Ops members and/or relevant team members.
+
+4. **Offer** The best candidate will receive an offer from us right away.
 
 > 🤘 **[Apply now](mailto:spawn@d.foundation)** (We respond within three days)
 
-
-|                                                              |                                                                                         |
-| ------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
-| **Or know someone who would be a great fit? Let them know!** | **Your dream job not listed? Not a big deal. We hardly ever say no to talented people.**    |
-| Share via Email Facebook LinkedIn Twitter                    | [Shoot us an email](mailto:spawn@dwarvesv.com) with your LinkedIn / CV                  |
-|                                                              | [Join our Discord](https://discord.gg/S9nDzc4yE9) of +300 other engineers and designers | 
+|                                                              |                                                                                          |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| **Or know someone who would be a great fit? Let them know!** | **Your dream job not listed? Not a big deal. We hardly ever say no to talented people.** |
+| Share via Email Facebook LinkedIn Twitter                    | [Shoot us an email](mailto:spawn@dwarvesv.com) with your LinkedIn / CV                   |
+|                                                              | [Join our Discord](https://discord.gg/S9nDzc4yE9) of +300 other engineers and designers  |

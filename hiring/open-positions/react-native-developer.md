@@ -1,9 +1,7 @@
 ---
 tags:
-  - dwarves
-  - work
   - hiring
-  - react-native
+  - career
 title: React Native Developer
 date: 2023-12-11
 description: We're looking for talented developer with experience in React Native to join Dwarves and work remotely, on a fast-growing US startup.
@@ -11,20 +9,20 @@ authors:
   - nikki
 menu: hiring
 toc: false
-notice: 
+notice:
 type: hiring
 hide_frontmatter: true
-event_date: 
+event_date:
 hiring: false
 ---
+
 > We're looking for talented developer with experience in React Native to join Dwarves and work remotely, on a fast-growing US startup.
 
 > 🤘 [Apply now](https://form.typeform.com/to/ZBfyiqMM) (We respond within three days)
 
 > 🤝 As an engineer at Dwarves, you will be working closely with a team of talented, kind people and working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself.
 
-
-### What you'll get to do
+## What you'll get to do
 
 - Set the tech foundation, develop and maintain on our client’s mobile product
 - As a member of the scrum team, we share and learn skills together. They will be opportunities to pick up other types of engineering skills.
@@ -34,7 +32,7 @@ hiring: false
 
 ---
 
-### What it takes to succeed
+## What it takes to succeed
 
 - 3-5+ years of React Native.
 - Excellent knowledge of JavaScript, HTML, Typescript and CSS.
@@ -49,7 +47,7 @@ hiring: false
 
 ---
 
-### What you can look forward to
+## What you can look forward to
 
 - You will be working closely with a team of talented, kind people. Your team will have your back. We love helping and uplifting our co-workers.
 - You will be working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself.
@@ -58,7 +56,7 @@ hiring: false
 
 ---
 
-### Our interview process
+## Our interview process
 
 1. **Review** After we receive applications, we will screen and review for various criteria.
 2. **Technical challenge** Promising engineers will receive a small technical project so we can assess relevant skills and abilities. Every engineer who completes the project will be presented with a small gift from us.
@@ -67,8 +65,8 @@ hiring: false
 
 > 🤘 [Apply now](https://form.typeform.com/to/ZBfyiqMM) (We respond within three days)
 
-|                                                              |                                                                                         |
-| ------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
-| **Or know someone who would be a great fit? Let them know!** | **Your dream job not listed? Not a big deal. We hardly ever say no to talented people.**    |
-| Share via Email Facebook LinkedIn Twitter                    | [Shoot us an email](mailto:spawn@dwarvesv.com) with your LinkedIn / CV                  |
-|                                                              | [Join our Discord](https://discord.gg/S9nDzc4yE9) of +300 other engineers and designers | 
+|                                                              |                                                                                          |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------- |
+| **Or know someone who would be a great fit? Let them know!** | **Your dream job not listed? Not a big deal. We hardly ever say no to talented people.** |
+| Share via Email Facebook LinkedIn Twitter                    | [Shoot us an email](mailto:spawn@dwarvesv.com) with your LinkedIn / CV                   |
+|                                                              | [Join our Discord](https://discord.gg/S9nDzc4yE9) of +300 other engineers and designers  |

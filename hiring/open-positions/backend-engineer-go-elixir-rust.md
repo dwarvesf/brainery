@@ -1,11 +1,7 @@
 ---
 tags:
-  - dwarves
-  - work
   - hiring
-  - elixir
-  - rust
-  - go
+  - career
 title: Backend Engineer, Go/Elixir/Rust
 date: 2023-12-11
 description: Looking for a well-rounded backend engineer with experience in shipping web applications to production, CI/CD with docker centric workflow, unit testing, performance and scaling, etc. with Go/Elixir/Rust.
@@ -14,13 +10,14 @@ authors:
   - monotykamary
 menu: hiring
 toc: false
-notice: 
+notice:
 type: hiring
 hide_frontmatter: true
-event_date: 
+event_date:
 hiring: false
 ---
-### **Requirements**
+
+## **Requirements**
 
 ---
 
@@ -33,7 +30,7 @@ hiring: false
 - Possess excellent communication, sharp analytical abilities with proven design skills, able to think critically of the current system regarding growth and stability
 - Experience in writing good unit test
 
-### **Responsibility**
+## **Responsibility**
 
 ---
 
