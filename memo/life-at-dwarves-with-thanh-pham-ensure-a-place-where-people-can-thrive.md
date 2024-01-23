@@ -29,7 +29,7 @@ Been with us for nearly 5 years, Thanh has been taking care of the juniors and e
 ![[b23fdddad0fb430f796516fd844f55c3_MD5.webp]]
 
 
-### <span style='color:red'>My job is to ensure a healthy environment for everyone to thrive.</span>
+## <span style='color:red'>My job is to ensure a healthy environment for everyone to thrive.</span>
 
 ---
 
@@ -40,7 +40,7 @@ Newbies can find it struggling to catch up. It happens for everyone - though the
 It was quite an experience to mentor. Young member needs guidance and advice to orient their path, while seniors need goals to pursue.”
 
 
-### <span style='color:red'>Career path is built based on teammate’s expectation.</span>
+## <span style='color:red'>Career path is built based on teammate’s expectation.</span>
 
 ---
 
@@ -49,7 +49,7 @@ It was quite an experience to mentor. Young member needs guidance and advice to 
 At first, I didn't really enjoy sitting in a manager's seat. My focus was on developing the technical skills only. But in the long run, the Team should have someone to pay attention to, connect every teammate and navigate them based on one direction. So I fit in that slot, expanding the knowledge and encouraging everyone to interact and work well with each other. Time goes by, and here I am - in charging as an Engineer Manager.”
 
 
-### <span style='color:red'>The key for a stable product quality: Connecting the key roles.</span>
+## <span style='color:red'>The key for a stable product quality: Connecting the key roles.</span>
 
 ---
 
@@ -62,7 +62,7 @@ I have conflicts to resolve too, either in the workload of the people. I once me
 
 <!-- column c572fb38-5a4f-462e-a6d9-ec5041677b1a -->
 
-### <span style='color:red'>Omw to becoming CTO.</span>
+## <span style='color:red'>Omw to becoming CTO.</span>
 
 ---
 
