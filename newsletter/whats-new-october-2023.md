@@ -1,9 +1,10 @@
 ---
 tags:
-  - dwarves
-  - work
   - open-source
   - reflection
+  - newsletter
+  - frontend
+  - community
 title: What's New in October 2023
 date: 2023-11-10
 description: Each month, we release a recap noting all the significant changes with our company and our team. October is our month for open-source and reflections.
@@ -29,7 +30,7 @@ Each month, we release a recap noting all the significant changes in our company
 - [[#Frontend Course 2023]] - Our free FE Course is successfully finished with a fun demo day.
 - [[#Wrapping up Droppii]] - We completed our mission of helping Droppii build up their tech foundation and products.
 
-### State of Dwarves
+## State of Dwarves
 For a tech team like Dwarves, there are only a few things that matter. Coming to the end of the year, we're reflecting and re-enforcing what matters to us.
 - Cross-team transparency: we're bringing more documentation, reports, cross-team meetings so everyone knows what the others are up to.
 - R&D: fueled by innovations, more hands are joining R&D to learn the next best thing in tech and programming.
@@ -81,7 +82,7 @@ When [Droppii](http://droppii.com/en/) first came to Dwarves, their products wer
 When we came on board as a technical partner, we helped develop the tech foundation, shape up their processes, and also participate in development. After 15 months, we have completed our mission of helping Droppii build & run their own tech team, and shipping 4 different products.
 
 
-### Community Growth
+## Community Growth
 
 - Discord welcomes 2050 members in total. Lots of good stuff on tech being shared at #tech #til #random
 - Top 10 voices contributing to our server get rewarded in ICY
