@@ -15,14 +15,14 @@ created_time: 2021-07-23
 created: 2021-06-18
 ---
 
-### <span style='color:blue'>In brief</span>
+## <span style='color:blue'>In brief</span>
 
 * Attrace is a Netherland decentralized affiliate marketing network that audits action and bridges e-commerce websites to merchants. 
 * The core concept is applying referral for different blockchain product use cases
 * They seek to launch MVP for market validation and early user acquisition
 * Our team of 3 join them to contribute to Attrace's core function with custom-made blockchain technology
 
-### <span style='color:blue'>Highlight</span>
+## <span style='color:blue'>Highlight</span>
 
 ---
 
@@ -35,7 +35,7 @@ created: 2021-06-18
 ![[6578a064addd53628b3834fae77a02ec_MD5.webp]]
 
 
-### <span style='color:blue'>The Context</span>
+## <span style='color:blue'>The Context</span>
 
 ---
 
@@ -75,7 +75,7 @@ ETH based network is primely used to create decentralized which are not in exist
 ETH isn't the only chain we keep in mind. Attrace team is working on more chain integration for a widen user segment. 
 
 
-### <span style='color:blue'>Engagement Model</span>
+## <span style='color:blue'>Engagement Model</span>
 
 ---
 
@@ -104,7 +104,7 @@ Data must be propagated in blockchain. Leverage IPFS keeps data persistently ava
 Slack chat & Trello task management.
 
 
-### <span style='color:blue'>Outcome</span>
+## <span style='color:blue'>Outcome</span>
 
 ---
 
