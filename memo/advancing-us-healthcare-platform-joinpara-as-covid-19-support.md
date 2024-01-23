@@ -1,31 +1,32 @@
 ---
-tags: 
-  - case study
+tags:
   - design
+  - case-study
+  - service
 title: Advancing Us Healthcare Platform Joinpara As Covid 19 Support
 date: 2021-04-29
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-08-26
 created: 2021-04-29
 ---
 
-### <span style='color:blue'>In brief</span>
+## In brief
 
 * Founded in 2019, Para is a platform connecting hospitals with medical professionals. 
-* Continuing with Go microservices, we have shipped numerous features, markedly workshift management and candidate screening. We partnered and helped unburden Para from the financial stress during the early stage of <span style='color:blue'>their MVP development.</span>
+* Continuing with Go microservices, we have shipped numerous features, markedly workshift management and candidate screening. We partnered and helped unburden Para from the financial stress during the early stage of <span style='color:pink'>their MVP development.</span>
 * Our Covid-19 program was launched in early 2020. We aim to provide software development, technical support for startups and businesses to help them stay stable during and progress forward despite the pandemic. 
 
 ![[23c2750aca83b48416a9e63bf57d7059_MD5.webp]]
 
 
-### <span style='color:blue'>Highlights</span>
+## Highlights
 
 * Microservices architecture, written in Go
 * Using K8s on Google Cloud (GKE) for deployment
@@ -35,7 +36,7 @@ created: 2021-04-29
 * Using [Codecov](https://about.codecov.io/) to ensure code coverage
 * Matching service based on multiple criteria
 
-### <span style='color:blue'>The Context</span>
+## The Context
 
 ---
 
@@ -54,15 +55,15 @@ We offer our top-tier core services. Our quick-to-adapt Dwarves experts give the
 Beyond that, our expertise provides them with business & tech consultancy that suits their roadmap, heading for user acquisition & revenue growth. 
 
 
-### <span style='color:blue'>Engagement Model</span>
+## Engagement Model
 
 ---
 
-**<span style='color:blue'>Team size</span>**
+**<span style='color:pink'>Team size</span>**
 
 The Dwarves initially joined in with 1 Backend Engineer. Working together with Para team, we helped build a sturdy backend system to sort out different logics. 
 
-Para's app serves multiple purposes and deals with a loaded volume of data. We went for a <span style='color:blue'>microservice architecture built from Go.</span>
+Para's app serves multiple purposes and deals with a loaded volume of data. We went for a <span style='color:pink'>microservice architecture built from Go.</span>
 
 When the system has been set up, our Designer and her director stepped in. Using Figma & Sketch, we delivered a stunning brush-up for Para's mobile app's interface. The app covered both Android & iOS versions for a wider user segment. Then our Frontend Engineer continued turning those canvas into a digital display. 
 
@@ -72,7 +73,7 @@ Throughout the process, we keep 1 PM in the team to oversee and provide on-time 
 
 <!-- column a218cb60-08bd-43d1-b863-20aa6afebb10 -->
 
-**<span style='color:blue'>Tech stacks</span>**
+**<span style='color:pink'>Tech stacks</span>**
 
 * Backend: Microservices, Go
 * Frontend: React, Redux, Material UI
@@ -81,14 +82,14 @@ Throughout the process, we keep 1 PM in the team to oversee and provide on-time 
 
 <!-- column 75f8c6e8-3d58-4470-92e4-64df20cdcabc -->
 
-**<span style='color:blue'>Communication</span>**
+**<span style='color:pink'>Communication</span>**
 
 * Slack & Google Meets: Team discussion
 * Figma: Design storage
 * Git/ Gitflow practice
 * Jira, Statushero & Confluence: Task management
 
-### <span style='color:blue'>Outcome</span>
+## Outcome
 
 ---
 
@@ -96,7 +97,7 @@ Throughout the process, we keep 1 PM in the team to oversee and provide on-time 
 
 <!-- column 0c6e98be-ec2c-4c6a-a045-f6d9c59c0a6c -->
 
-Through more than 6 months of working on the remaining features, we got to launch a <span style='color:blue'>shape MVP release on time</span> - a fully functioning app for nurse shifting schedules. 
+Through more than 6 months of working on the remaining features, we got to launch a <span style='color:pink'>shape MVP release on time</span> - a fully functioning app for nurse shifting schedules. 
 
 JoinPara app is a finetune product ready to demo for various clients, empowering Para to reach more funding opportunities and expand the market.
 

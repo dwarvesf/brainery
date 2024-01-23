@@ -1,8 +1,8 @@
 ---
 tags:
-  - case
-  - study
   - design
+  - case-study
+  - service
 title: Architect Frontend Site And Mobile Development For Crypto Investment Ecosystem
 date: 2021-08-09
 description: 
@@ -19,13 +19,13 @@ created:
 
 ![[b20655a884273b1b8ccc6866067ed593_MD5.webp]]
 
-### <span style='color:blue'>In brief</span>
+## In brief
 
 * Founded in 2017 as an innovation arm of INDODAX, Tokenomy is a crypto investment network through blockchain-enabled tokens.
 * Currently reached the seed round funded by LazyLedger, Tokenomy aims to reach a broader customer segment through web platforms and mobile apps.
 * We fully support a team of Senior Frontend Engineer, Android Mobile Engineer, and UX Designer to help them stay on track with the release timeline.
 
-### <span style='color:blue'>Technical Highlight</span>
+## Technical Highlight 
 
 ---
 
@@ -36,7 +36,7 @@ created:
 * Custom-built Android module to support different APIs
 * Weekly product changelog apply for the team synergy
 
-### <span style='color:blue'>The Context</span>
+## The Context
 
 ---
 
@@ -53,7 +53,7 @@ With a team of 4, we work along side with them to make sure the progress moves f
 ![[d96b9989d4c51b4c56fa6606fc0e7c98_MD5.webp]]
 
 
-### <span style='color:blue'>Engagement Model</span>
+## Engagement Model
 
 ---
 
@@ -76,7 +76,7 @@ Every UI and user flow get reviewed before implementation. That's how we give fe
 
 <!-- column b8c3ef49-17a2-4d6e-9066-27aeb92cb5a3 -->
 
-<span style='color:blue'>**Tech stacks**</span>
+**Tech stacks**
 
 * Backend: Elixir, Phoenix
 * Frontend: React, TailwindCSS, Redux
@@ -86,14 +86,14 @@ Every UI and user flow get reviewed before implementation. That's how we give fe
 
 <!-- column 16c17827-2243-489b-9c0c-ec6700f8ab21 -->
 
-<span style='color:blue'>**Collaboration**</span>
+**Collaboration**
 
 * Slack: Team discussion
 * Pivotal Tracker/ Jira: Task Management
 * Google Hangout: Team meeting
 * Design: Sketch, Figma
 
-### <span style='color:blue'>Outcome</span>
+## Outcome
 
 ---
 

@@ -1,29 +1,30 @@
 ---
-tags: 
-  - case study
+tags:
+  - case-study
+  - service
 title: A Web Based Cloud Tool Developed In Partnership With Google
 date: 2020-10-24
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-23
 created: 2020-10-24
 ---
 
 ![[d42e1b682d5069810f253775bf7e64f8_MD5.webp]]
 
-### <span style='color:blue'>In brief</span>
+## In brief
 
 * CJC Ptd is a 20-year expert in providing market data consultancy & professional services for global financial sector.
 * They want to make a new data ecosystem: Public and private cloud, containerization, software orchestration, AI to support the growth of DevOps
 * We team up with them to develop <span style='color:blue'>**Voconic**</span> - a cloud PaaS for CJC’s clients, aiming to make cloud deployment seamless across cloud providers and environment.
 
-### <span style='color:blue'>Technical Highlight</span>
+## Technical Highlight
 
 ---
 
@@ -35,7 +36,7 @@ created: 2020-10-24
 * Separated services for file upload. This divides chunk files into smaller packs with cache data, which optimizes large files uploading process (reduce CPU & RAM)
 * Automation test for product deployment on GCP (automated deploy and delete product on GCP)
 
-### <span style='color:blue'>The Context</span>
+## The Context
 
 ---
 
@@ -43,7 +44,7 @@ created: 2020-10-24
 
 <!-- column 31e8268d-217d-4504-bd62-8537474b43f7 -->
 
-CJC wants to provide cloud solutions with <span style='color:blue'>flexibility</span>, <span style='color:blue'>scalability</span> and <span style='color:blue'>adaptability</span>. It empowers users to pivot the demand of changing business opportunities. 
+CJC wants to provide cloud solutions with <span style='color:pink'>flexibility</span>, <span style='color:pink'>scalability</span> and <span style='color:pink'>adaptability</span>. It empowers users to pivot the demand of changing business opportunities. 
 
 They believe spending manually effort on deploying and managing products in cloud is cumbersome. 
 
@@ -61,7 +62,7 @@ With Voconic, users have as internal working version before releasing the offici
 -Paul Kossowski, Manager at CJC
 
 
-### <span style='color:blue'>Engagement Model</span>
+## Engagement Model
 
 ---
 
@@ -69,7 +70,7 @@ With Voconic, users have as internal working version before releasing the offici
 
 <!-- column 7847f9a6-27be-46a6-b9ce-9988c531295a -->
 
-**<span style='color:blue'>Team size</span>**
+**<span style='color:pink'>**Team size**</span>
 
 From 3 engineers in the early stage, we grew the number up to 6 with deeper involvement.
 
@@ -77,7 +78,7 @@ Voconic was built upon the industry standard - Docker containers and k8s. A whol
 
 <!-- column d5d7d2ed-d76a-4480-86d7-9a771b7f2a2f -->
 
-**<span style='color:blue'>Golang Heavy Back-end System</span>**
+**<span style='color:pink'>**Golang Heavy Back-end System**</span>
 
 The robust back-end system in Golang
 
@@ -92,7 +93,7 @@ Voconic auto diagnoses and fixes the current state when a container crashes. Its
 
 <!-- column d7970076-81f4-483c-b409-d42523fdc759 -->
 
-**<span style='color:blue'>Tech stacks</span>**
+**<span style='color:pink'>**Tech stacks**</span>
 
 * Backend: Golang
 * Frontend: React
@@ -101,17 +102,17 @@ Voconic auto diagnoses and fixes the current state when a container crashes. Its
 
 <!-- column 806754a1-44dd-4a62-a716-a2674b85f0ea -->
 
-**<span style='color:blue'>Collaboration</span>**
+**<span style='color:pink'>**Collaboration**</span>**
 
 * Google Chat: daily discussion
 * Google Hangout: team meetings & sync-up
 * Asana: task tracking & management
 
-### <span style='color:blue'>Outcome</span>
+## Outcome
 
 ---
 
-Through months with dedicated work, we're proud to deliver <span style='color:blue'>**[a runnable MVP](https://cjcit.com/market-data-cloud-solutions)**</span> with significant impact for Voconic platforms.
+Through months with dedicated work, we're proud to deliver <span style='color:pink'>**[a runnable MVP](https://cjcit.com/market-data-cloud-solutions)**</span> with significant impact for Voconic platforms.
 
 * Seamless Integration into Google Cloud and AWS with k8s library
 * User-friendly Web UI

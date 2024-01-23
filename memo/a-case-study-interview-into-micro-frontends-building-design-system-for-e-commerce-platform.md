@@ -1,25 +1,23 @@
 ---
-tags: 
-  - web
-  - engineering
-  - frontend
-  - case study
+tags:
+  - case-study
   - micro-frontend
+  - service
 title: A Case Study Interview Into Micro Frontends Building Design System For E Commerce Platform
 date: 2023-04-03
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2023-04-03
 created: 2023-04-03
 ---
 
-# A Case Study Interview into Micro-Frontends: Building Design System for E-commerce Platform
+## A Case Study Interview into Micro-Frontends: Building Design System for E-commerce Platform
 
 Previously on [Why Micro-Frontend](https://memo.d.foundation/Why-micro-frontend-6d5df5b9b71e4f248a7740bc51e096a4), we took a look into what is Micro-Frontend architecture, as well as some core concepts behind it. For some of you that have missed the memo, here’s a tl;dr:
 
@@ -85,7 +83,6 @@ Alas, Swift is not the only one among our partners that are utilizing a Micro-Fr
 
 
 ---
-
 ### Come be with us
 
 We’d love to have you in our next chapter, by all means.

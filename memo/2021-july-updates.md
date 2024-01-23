@@ -17,11 +17,11 @@ created: 2021-07-31
 
 We're closing July with some notable highlights. Let's go through them ✌️
 
-🚨 *Note: Covid situation is getting worse. Stay safe. 🦠
+🚨 *Note: Covid situation is getting worse. Stay safe.* 🦠
 
-*The pandemic is going stronger than ever. There has been over 100k internal cases over the country til now. Take good care of you and your beloved ones. We hope everyone can stay safe.
+*The pandemic is going stronger than ever. There has been over 100k internal cases over the country til now. Take good care of you and your beloved ones. We hope everyone can stay safe.*
 
-### Finish the shipment for our WFH station
+## Finish the shipment for our WFH station
 
 ---
 
@@ -95,7 +95,7 @@ Notion is our new document base. We've migrated our written document into this, 
 * Changelog: Our moving journey
 * New memo: Company blog
 
-## <span style='color:red'>What's next in Aug</span>
+## What's next in Aug
 
 ### **Brain Repo: Embedded & IoT R&D**
 
@@ -116,7 +116,7 @@ Performance review is starting next week. For those who wish to recognize your a
 * [Github](http://github.com/dwarvesf/handbook/blob/master/making-a-career.md#performance-review)
 * [Notion](/548a540a40714f11915d631fd5cec53f#434d285816e34dcaa12f4bc652eb5bed)
 
-### T**he value fit**
+### The value fit**
 
 ---
 

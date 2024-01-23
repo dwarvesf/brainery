@@ -1,28 +1,29 @@
 ---
-tags: 
-  - case study
+tags:
+  - case-study
+  - service
 title: Adopt Blockchain On Netherlands Affiliate Marketing Platform
 date: 2021-06-18
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-23
 created: 2021-06-18
 ---
 
-## <span style='color:blue'>In brief</span>
+## <span style='color:pink'>In brief</span>
 
 * Attrace is a Netherland decentralized affiliate marketing network that audits action and bridges e-commerce websites to merchants. 
 * The core concept is applying referral for different blockchain product use cases
 * They seek to launch MVP for market validation and early user acquisition
 * Our team of 3 join them to contribute to Attrace's core function with custom-made blockchain technology
 
-## <span style='color:blue'>Highlight</span>
+## <span style='color:pink'>Highlight</span>
 
 ---
 
@@ -35,7 +36,7 @@ created: 2021-06-18
 ![[6578a064addd53628b3834fae77a02ec_MD5.webp]]
 
 
-## <span style='color:blue'>The Context</span>
+## <span style='color:pink'>The Context</span>
 
 ---
 
@@ -63,10 +64,10 @@ Attrace's blockchain network logs agreements between parties through a smart con
 
 ![[0e1d426b2c16abe626d720908cb46124_MD5.webp]]
 
-🌀 We build Attrace with <span style='color:blue'>**blockchain-nodes**</span>. It provides transparent transactions, creates secure networks and real-time communications between parties.
+🌀 We build Attrace with <span style='color:pink'>**blockchain-nodes**</span>. It provides transparent transactions, creates secure networks and real-time communications between parties.
 
 
-<span style='color:blue'>**Rely heavily on ETH**</span>
+<span style='color:pink'>**Rely heavily on ETH**</span>
 
 ---
 
@@ -75,7 +76,7 @@ ETH based network is primely used to create decentralized which are not in exist
 ETH isn't the only chain we keep in mind. Attrace team is working on more chain integration for a widen user segment. 
 
 
-## <span style='color:blue'>Engagement Model</span>
+## <span style='color:pink'>Engagement Model</span>
 
 ---
 
@@ -85,7 +86,7 @@ Attrace provides solutions to apply referral into blockchain products (IDO, Liqu
 
 <!-- column 51527a49-be38-4e75-998e-6f9e3945d542 -->
 
-<span style='color:blue'>**Tech stacks**</span>
+<span style='color:pink'>**Tech stacks**</span>
 
 * Backend: Solidity & Index in Golang
 * Frontend: React
@@ -99,12 +100,12 @@ Attrace provides solutions to apply referral into blockchain products (IDO, Liqu
 Data must be propagated in blockchain. Leverage IPFS keeps data persistently available with access control. Meanwhile, it prevents data from being bloated by relying on cryptographic hashes. 
 
 
-<span style='color:blue'>**Communication**</span>
+<span style='color:pink'>**Communication**</span>
 
 Slack chat & Trello task management.
 
 
-## <span style='color:blue'>Outcome</span>
+## <span style='color:pink'>Outcome</span>
 
 ---
 
@@ -114,7 +115,7 @@ Slack chat & Trello task management.
 
 We rolled out the MVP version after 9 months. Followed by The Outlet Launch (NFT Cashback) and deep integration in multiples wallets.
 
-Notably such as <span style='color:blue'>achieving pBFT</span> for the consensus protocol, building a <span style='color:blue'>network connector</span> (for consumers to interact with Attrace’s blockchain network) and <span style='color:blue'>a dashboard for campaigns management</span>.
+Notably such as <span style='color:pink'>achieving pBFT</span> for the consensus protocol, building a <span style='color:pink'>network connector</span> (for consumers to interact with Attrace’s blockchain network) and <span style='color:pink'>a dashboard for campaigns management</span>.
 
 
 Attrace marked up their next highlights with an achievement streak 

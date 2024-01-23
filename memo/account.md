@@ -15,7 +15,7 @@ created_time: 2021-07-24
 created: 2020-03-25
 ---
 
-**Planning**
+## **Planning**
 
 Many people would say in order to have a good plan; you need to write out all vibrant details. A good plan needs lots of details, they said. But in real life, where nothing is certain and is filled with sudden surprises, a good plan should prioritize its flexibility and simplicity.
 
@@ -24,7 +24,7 @@ Start with the main goals of the week, then expand on the actual required action
 Lastly, being neat always help in many cases. It helps one to maintain the transparency in the work and can ensure that they will not miss out on anything.
 
 
-**Penetration**
+## **Penetration**
 
 How can we acquire more clients? How can we connect to our clients?
 
@@ -39,12 +39,12 @@ How can we acquire more clients? Once we can secure to have a good interaction w
 Truly, why would one should feel scare of the uncertainty?
 
 
-**Retention**
+## **Retention**
 
 Good service quality, fast response, keep an up-close-and-personal communication line had supported Dwarves Foundation to ensure the satisfaction of its clients. Of course, in order to acquire this achievement, the Account Manager will need to have a sharp “people” sense to understand the thinking and working style of its clients, and to know when we need to take a few step back, to move much further forward.
 
 
-**Management**
+## **Management**
 
 Know your team members and know the company goals very well.
 
@@ -57,7 +57,7 @@ Know how to identify when the client is being unreasonable
 Know how to let go of the ego, and embrace the present
 
 
-**Building Relationships**
+## **Building Relationships**
 
 One way to impress a client is firstly yielding to their paths first. Once they see that you are (kind of) on their sides, they will have more trust in you. Then they will become more open with you.
 

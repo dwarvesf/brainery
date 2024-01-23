@@ -16,7 +16,7 @@ created_time: 2021-07-19
 created: 2020-05-04
 ---
 
-# Intro
+## Intro
 
 Recently, **Bitcoin** and **Blockchain** become popular, they are the trending and media’s favorite topics. Blockchain is buzzing with the capability of solving trust issues in not only the technology but also other domains like economies and even government regulators. Though people are talking about this promising technology, it’s too complicated for everyone to understand what precisely it is and how it works. The complexity of Blockchain and what it does make users feel confused and suspicious, which builds a huge barrier between users and products. As product designers, our mission is to help users to comprehend Blockchain in a reliable way.
 

@@ -20,7 +20,7 @@ created: 2023-05-22
 
 <!-- table_of_contents b0b864d2-f3d0-41c7-b1dc-aea751ef35a0 -->
 
-# Introduction
+## Introduction
 
 Go provides us great and convenient ways to write concurrent programs with high performance to execute tasks concurrently (perhaps in parallel if the program is run on a machine with multiple physical cores, GOMAXPROCS are automatically set to the number of physical cores of the machine that the program is running on)
 
@@ -30,9 +30,9 @@ Concurrency patterns in Go are different ways to put Go’s concurrency primitiv
 
 This post will explain these patterns with a simple example and walk you through the code as well as the decision-making when writing these codes.
 
-# The Patterns
+## The Patterns
 
-## The Workers Pool pattern
+### The Workers Pool pattern
 
 The first popular one should be the `workers pool` pattern. Goroutine pools are a way of limiting the number of goroutines that can run concurrently. This pattern involves creating a fixed number of goroutines at startup and then using a channel to queue up work. When a new task arrives, it is added to the channel, and one of the idle goroutines picks it up and executes it.
 
@@ -84,17 +84,17 @@ func main() {
 
 ### The disadvantages of this pattern
 
-### Limited scalability
+#### Limited scalability
 
 The worker pool pattern, with a fixed number of workers, can be limited in terms of scalability. If the workload increases beyond the capacity of the worker pool, performance may suffer. One solution to this problem is to use a **dynamic worker pool**. In a dynamic worker pool, the number of workers varies based on the workload. When there are more tasks to be processed, the pool increases the number of workers, and when the workload decreases, it reduces the number of workers.
 
 To implement a dynamic worker pool, we can use a combination of channels and goroutines. We can create a channel to receive tasks and another channel to send results. We can also create a goroutine that listens to the task channel and assigns tasks to available workers. Each worker is a goroutine that receives a task from the worker channel, processes it, and sends the result back to the result channel. To dynamically adjust the number of workers, we can use a separate goroutine that monitors the workload and adjusts the number of workers accordingly. By using a dynamic worker pool, we can achieve better scalability and utilization of resources. However, it requires careful tuning of parameters such as the workload threshold and the rate of worker creation/destruction to avoid overloading the system or creating too many unnecessary goroutines.
 
-### Resource management
+#### Resource management
 
 Managing resources such as memory and CPU usage can be challenging with the worker pool pattern. Since the number of workers is fixed, it can be difficult to optimize resource usage for different types of workloads. If a worker takes too long to complete a task, we can **use a timeout mechanism for tasks**, such that the task can be timed out and reassigned to another worker. This ensures that no worker is blocked for an extended period of time and helps maintain the overall performance of the system.
 
-### Task prioritization
+#### Task prioritization
 
 The worker pool pattern does not provide a built-in mechanism for task prioritization. This means that all tasks are treated equally, regardless of their importance or urgency. We can introduce a **priority queue** data structure to the workers pool pattern. A priority queue is a data structure that stores elements with associated priorities and allows for efficient retrieval of the element with the highest priority.
 

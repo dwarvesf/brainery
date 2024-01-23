@@ -24,17 +24,16 @@ This is a part from our study how to recognize people traits at the first sight.
 
 No personality type is inherently better or more desirable than another in general. This reference is applied to the tech industry only.
 
-MBTI reveals **how we tend to interact/think. **It’s not that Thinkers don’t feel or Feelers don’t think, but only that they differ in the degree. The same for other preferences (I/E, S/N, P/J)
+MBTI reveals **how we tend to interact/think.** It’s not that Thinkers don’t feel or Feelers don’t think, but only that they differ in the degree. The same for other preferences (I/E, S/N, P/J)
 
 
 ## The Basic
 
 ---
 
-The MBTI (Myers-Briggs Type Indicator) is a framework designed to identify a person's personality type, strengths, and preferences<span style='color:blue'>**. **</span>Each type have [4 preferences](/cdeaa142edca44669867f8fbb120c342) among 8 available preferences.
+The MBTI (Myers-Briggs Type Indicator) is a framework designed to identify a person's personality type, strengths, and preferences. Each type have [4 preferences](/cdeaa142edca44669867f8fbb120c342) among 8 available preferences.
 
 <!-- link_to_page 1d622110-b3bd-4b69-81e1-10161a3247e6 -->
-
 
 <!-- column_list cf1a83c9-4f49-435c-ace5-2a4aff6e0a34 -->
 
@@ -101,7 +100,7 @@ A little N — Intuition is okay. (S + T + J)
 ---
 
 * **I spend my time pursuing my goals** <> I spend my time enjoying life
-* **I am more interested in what is real **<>** **I am more interested in what is possible
+* **I am more interested in what is real** <> I am more interested in what is possible
 * **I work first, play later** <> I play first, work later
 
 <!-- column c6e7a99c-2630-4502-bbf4-6c4fe9288e23 -->
@@ -119,8 +118,8 @@ A little N — Intuition is okay. (S + T + J)
 
 * **I spend my time pursuing my goals** <> I spend my time enjoying life
 * **I question traditional values** <> I trust traditional values
-* **I work first, play later **<> I play first, work later
-* **I enjoy experiencing new things **<> I enjoy activities that are familiar
+* **I work first, play later** <> I play first, work later
+* **I enjoy experiencing new things** <> I enjoy activities that are familiar
 
 <!-- column_list 971dbd89-d341-468b-811e-be3703430247 -->
 
@@ -137,7 +136,7 @@ A little N — Intuition is okay. (S + T + J)
 
 ---
 
-* **I put others’ needs ahead of my own **<>** **I put my needs first
+* **I put others’ needs ahead of my own** <> I put my needs first
 * **I seek attention from others** <> I avoid attention from others
 
 <!-- column 12a8d3bd-acc7-462c-b701-9368d730d904 -->
@@ -153,7 +152,7 @@ A little N — Intuition is okay. (S + T + J)
 
 ---
 
-* **I put others’ needs ahead of my own **<> I put my needs first
+* **I put others’ needs ahead of my own** <> I put my needs first
 * **I look for ways to help others** <> I look for ways to achieve my own goals
 
 ## Strategy for better guess

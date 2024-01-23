@@ -1,17 +1,18 @@
 ---
-tags: 
+tags:
   - design
-  - case study
+  - case-study
+  - service
 title: Bhd Cinema Redesign Bhds Booking Ticket App
 date: 2019-05-20
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-26
 created: 2019-05-20
 ---

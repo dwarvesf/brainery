@@ -102,7 +102,7 @@ Part of this is our preference for plaintext source code. Our VCS tools aren't n
 
 On top of this, our tooling surrounding version control is extraordinary. If I'm hosting a project on GitHub, I can make every pull request kick off a test suite for a dozen different OSes, check for merge conflicts, and ping a coworker for review. One chemical engineer talked about how, whenever he needed sign off on a project at his old job, he had to get everybody to physically sign an authorization form. If someone was working remotely that day, the authorization would be delayed by a day. He is very happy to now have pull requests and automated builds.
 
-## **To summary**
+## To summary
 
 So, we software engineers are "really" engineers. All the differences people give between software and "real" engineering don't accurately reflect what "real" engineering looks like. And the biggest difference, licensure, is a political construct, not a technical one. At the same time, there is a difference between the different ways people make software, and it makes sense to think of software developers and software engineers as distinct concepts. But even then, it's very easy for a software developer to become a software engineer and vice versa.
 
