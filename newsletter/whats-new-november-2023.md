@@ -1,12 +1,11 @@
 ---
 tags:
-  - dwarves
-  - work
   - craftsmanship
   - labs
   - meetups
   - golang
   - salary
+  - newsletter
 title: What's New in November 2023
 date: 2023-12-06
 description: Each month, we release a recap noting all the significant changes in our company and our team. November is our month for meetups and outstanding craftsmanship.
@@ -33,7 +32,7 @@ Last November, we kicked off the Labs team, introduced Salary Advance for the Dw
 - **[[#Join our team]]** - React Native Developer, Admin / Ops
 
 
-#### Launching Labs team
+## Launching Labs team
 
 With Labs team, it's all about researching cool, industry-moving technologies and producing practical use cases using those tech. In our backlog: WASM, Passwordless, Rust, AI, MPC, UI practices, Elixir, Golang.
 
@@ -41,7 +40,7 @@ Head to [November Forward Engineering](https://note.d.foundation/memo/forward-en
 
 ![[whats-new-november-2023-20231206133445648.webp|600]]
 
-#### Monthly top performers
+## Monthly top performers
 
 Each month we track how productive and valuable each of our team members by using delivery points. For now, the top 5 high-performing members get rewards with $ICY. In Nov, kudos to those peeps who outperformed the rest: **Hai Huynh, Chinh Le, Phat Nguyen, Minh Tran, Ngoc Thanh.**
 
@@ -49,19 +48,19 @@ Last month we also shipped quite a number of features for our clients:  [time-se
 
 Coming next: NFT badges. NFT badges can be staked to earn shares of the company.
 
-#### Salary Advance
+## Salary Advance
 Dwarves' team members now can get an advance of up to 25% of their monthly salary. The payment is made in $ICY and can be redeemed via https://icy.so
 
 This bot command can be used in our Discord server, and anonymously :)
 
 ![[whats-new-november-2023-20231206133455685.webp|500]]
 
-#### Misc
+## Misc
 - Our Discord server is for everyone. We're happy to see ~400 active users last month, and of course, the top ten voices in get 5 $ICY each.
 - More bounties are up for grab: https://note.d.foundation/earn/
 - Techie story are now on [Tiktok](https://www.tiktok.com/@techiestory.net), highlighting 4 stories about life in tech in US & Japan
 
-#### Join our team
+## Join our team
 We are looking for the following talents to join our team
 - React Native Developer (Project-based Contractor)
 - Admin / Ops (Fulltime)
