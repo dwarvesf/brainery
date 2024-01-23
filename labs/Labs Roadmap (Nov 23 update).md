@@ -1,10 +1,7 @@
 ---
 tags:
-  - dwarves
-  - work
   - labs
-  - continuous-learning
-  - roadmap
+  - updates
 title: Labs Roadmap (Nov 23 update)
 date: 2023-11-21
 description: Explore our November 2023 Labs Roadmap highlighting innovative technology projects and challenges for the upcoming month. Key focus areas include WebAssembly (WASM), Passwordless Authentication, Rust, AI, MPC, and UI practices.
@@ -12,7 +9,7 @@ authors:
   - thanh
 menu: labs
 toc: false
-notice: 
+notice:
 type: labs
 hide_frontmatter: false
 ---

@@ -1,13 +1,7 @@
 ---
 tags:
-  - dwarves
-  - work
-  - onboarding
   - labs
-  - guidance
-  - probation
-  - assessment
-  - internal
+  - process
 title: Labs - New Member Onboarding
 date: 2023-11-21
 description: New members joining our Labs team can be recommended either personally by an existing team member or through a development plan survey. Once onboarded, each new member is paired with a mentor who provides guidance on our operational practices within the team, specifically in relation to a chosen research topic. The initial probation period for new members is set to one month.
@@ -15,10 +9,11 @@ authors:
   - thanh
 menu: labs
 toc: false
-notice: 
+notice:
 type: labs
 hide_frontmatter: false
 ---
+
 New members joining our Labs team can be recommended either personally by an existing team member or through a development plan survey. Once onboarded, each new member is paired with a mentor who provides guidance on our operational practices within the team, specifically in relation to a chosen research topic. The initial probation period for new members is set to one month.
 
 During this probation, we expect two main deliverables from the new team member:

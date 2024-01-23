@@ -1,11 +1,7 @@
 ---
 tags:
-  - dwarves
-  - work
-  - consulting
   - labs
-  - planning
-  - internal
+  - process
 title: Labs x Consulting Workflow
 date: 2023-11-21
 description: This workflow consolidates how new tech is introduced through the Labs team and how it gets processed to Consulting team to apply for projects and bring awareness of our tech expertise.
@@ -13,28 +9,29 @@ authors:
   - thanh
 menu: labs
 toc: false
-notice: 
+notice:
 type: labs
 hide_frontmatter: false
 ---
+
 This workflow consolidates how new tech is introduced through the Labs team and how it gets processed to Consulting team to apply for projects and bring awareness of our tech expertise.
 
-**********Labs:**********
+**Labs:**
 
 - Be able to introduce new tech to help enrich our engineers’ expertise
 - Be able to understand what tech is trending and how we can use them
 
-**********************Consulting:**********************
+**Consulting:**
 
 - Be able understand landscape of tech expertise across engineers
 - Be able to use our engineer’s tech expertise in helping to get new deals
 
-**********************Operations:**********************
+**Operations:**
 
 - Be able to understand our company’s journey on tech for our objective statements
 - Be able to understand tech resources across the company
 
-This workflow summarizes the ************************************************three recommended meetings************************************************ we must have to be able to take advantage of our engineer’s expertise:
+This workflow summarizes the **three recommended meetings** we must have to be able to take advantage of our engineer’s expertise:
 
 1. **Weekly Catch-Up Meetings**: Conducted by the Labs team, these meetings focus on the progress of technology adoption, potentially including demos.
 2. **Ranking and Feedback with Labs & Consulting Team**: A monthly joint meeting between Labs and Consulting teams to review tech adoption progress, suggest topics, and gather feedback.

@@ -13,13 +13,14 @@ authors:
   - thanh
 menu: labs
 toc: false
-notice: 
+notice:
 type: labs
 hide_frontmatter: false
 ---
+
 Our organization values the research and development (R&D) efforts of our team members and aims to incorporate these contributions into performance reviews. It's important that individual R&D activities not only pursue personal growth but also align with our team and organizational objectives.
 
-### ****Key Assessment Factors****
+## Key Assessment Factors
 
 For R&D activities, there are a few factors will contribute to your performance:
 
@@ -27,7 +28,7 @@ For R&D activities, there are a few factors will contribute to your performance:
 2. **Relevance to Sales and Consulting Team:** The outcomes of your R&D activities should resonate with the interests and needs of our sales and consulting teams.
 3. **Personal Topic Selection:** While topic selection is often a collective effort, we acknowledge that your preferred tech might not always be on the list. We understand that our choices may not always be perfect. If you have a topic you're passionate about and believe in its potential, we encourage you to pursue it. Please keep us informed about your progress and demonstrate the value of your chosen topic.
 
-### ****Goal Setting and Review Process****
+## Goal Setting and Review Process
 
 Each research story will include R&D goals and objectives. These will be set by you with your team leader or supervisor and should be referenced in your self-review for the year-end performance evaluation process:
 

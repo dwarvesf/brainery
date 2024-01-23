@@ -1,12 +1,6 @@
 ---
 tags:
-  - dwarves
-  - work
-  - culture
-  - belief
   - labs
-  - guidance
-  - internal
 title: Labs - Who we are
 date: 2023-12-03
 description: Discover Labs team at Dwarves, where a passion for emerging technologies unites a diverse team dedicated to shaping a better future. Explore our human-centric approach, view technology as a catalyst for progress, and join our journey towards a technologically advanced, interconnected tomorrow.
@@ -14,7 +8,7 @@ authors:
   - thanh
 menu: labs
 toc: false
-notice: 
+notice:
 type: labs
 hide_frontmatter: false
 ---
