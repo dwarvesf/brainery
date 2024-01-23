@@ -30,7 +30,7 @@ Hiếu Vũ từng là thực tập sinh ở tập đoàn công nghệ KMS, và h
 ![[a9601721f5d8394ce510d39c585b40a9_MD5.webp]]
 
 
-### <span style='color:red'>Python, Java hay NodeJS? Golang!</span>
+## <span style='color:red'>Python, Java hay NodeJS? Golang!</span>
 
 ---
 
@@ -45,7 +45,7 @@ Mình nghĩ tương lai phát triển của Golang rất có tiềm năng. Ngày
 Mình thấy cái khó khi bắt đầu học một ngôn ngữ lập trình là việc chịu dành thời gian tìm hiểu, mày mò và tìm phương án giải quyết. Khi mình tiếp xúc và thực hành rồi, nếu vẫn cảm thấy không hợp và không có niềm vui dành cho ngôn ngữ ấy, đừng cố ép mình phải dùng nó. Đồng thời, bạn thử tìm đến những project để được tham gia vào nhiều giai đoạn để nâng cao kinh nghiệm cho bản thân.”
 
 
-### <span style='color:red'>Nỗi sợ “chưa có kinh nghiệm” là chuyện rất bình thường.</span>
+## <span style='color:red'>Nỗi sợ “chưa có kinh nghiệm” là chuyện rất bình thường.</span>
 
 ---
 
@@ -56,7 +56,7 @@ Từ những sự kiện mình trải qua, mình nhận ra hầu hết các bạ
 Mọi thứ đều có đường đi, và nếu có người nhìn thấy tiềm năng và muốn bạn tham gia dự án cùng thì đừng từ chối nó. Đồng thời, thử đặt câu hỏi cho bản thân xem bạn muốn trở thành phiên bản nào trong tương lai. Dù Indie hacker hay tự lập nghiệp, thì cũng phải trau dồi kỹ năng, kiến thức chuyên môn của ngành, và mở rộng các mối quan hệ”
 
 
-### <span style='color:red'>Teammate là điều giữ mình ở lại</span><span style='color:red'>** Dwarves.**</span>
+## <span style='color:red'>Teammate là điều giữ mình ở lại</span><span style='color:red'> Dwarves.</span>
 
 ---
 
@@ -99,7 +99,7 @@ Cảm ơn vì đã luôn đồng hành cùng tụi mình,
 Dwarves Team ♡
 
 
-### ENGLISH VERSION
+## ENGLISH VERSION
 
 
 <span style='color:red'>**Life at Dwarves #6**</span> is all about how Hieu Vu picked up Golang as his favorite programming, and how human factor happens to be the key element that ties him with Dwarves.
@@ -107,7 +107,7 @@ Dwarves Team ♡
 Hieu Vu is currently a Backend Engineer, who was formerly an intern at KMS Technology Corporation. Through Aharooms project, his interest for Golang began. After 3 years, it’s not just the programming language that he was fond of, but also the human and culture at Dwarves that led to his decision: To go further with Dwarves for its human and the exclusive learning culture.
 
 
-### <span style='color:red'>Python, Java or NodeJS? Golang!</span>
+## <span style='color:red'>Python, Java or NodeJS? Golang!</span>
 
 ---
 
@@ -122,7 +122,7 @@ From what I concept, Golang's future development is very promising, as more and 
 It was indeed a bit confusing when you first approached a new language. The willingness to learn, and the time spent to find a solution matter a lot. Don't force yourself if you have explored and practiced with a programming language and don't enjoy working with it. Find the language you love, and seek projects in which you can participate all you've learned.”
 
 
-### <span style='color:red'>It’s normal to be ‘inexperienced’.</span>
+## <span style='color:red'>It’s normal to be ‘inexperienced’.</span>
 
 ---
 
@@ -133,7 +133,7 @@ Another issue I discovered is that recently, fresh graduates are afraid to apply
 Use that as your confidence to gain your first job." Stay hungry, and stay foolish. At the same time, ask yourself what type of person you want to be in the future. Whether being an "indie hacker" or a self-employed, you should constantly improve your skills and industry expertise, as well as network to expand relationships.”
 
 
-### <span style='color:red'>It's the people and its culture that keep me at Dwarves.</span>
+## <span style='color:red'>It's the people and its culture that keep me at Dwarves.</span>
 
 ---
 
