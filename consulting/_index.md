@@ -72,8 +72,8 @@ Team members' effort is rewarded base on the weight of their contributions. The 
 
 - [[consulting/Consultant Growth Track.md|Consultant Growth Track]] - nikki
 - [[consulting/Consulting - Who we are.md|Consulting - Who We Are]] - nikki
-- [[consulting/Consulting - Who should join us.md|Consulting - Who should join us]] - nikki
 - [[consulting/Consulting - How we work.md|Consulting - How we work]] - nikki
+- [[consulting/Consulting - Who should join us.md|Consulting - Who should join us]] - nikki
 - [[consulting/Estimation Guidelines.md|Estimation Guidelines]] - huytq, monotykamary
 - [[consulting/Project Delivery Schedule and Guidelines.md|Project Delivery Schedule and Guidelines]] - huytq
 

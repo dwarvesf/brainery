@@ -32,25 +32,25 @@ We believe that behind every success comes great preparation, accumulation and c
 <!-- radar-latest-1 -->
 - [[radar/zustand.md|Zustand]]
 - [[radar/zod.md|Zod]]
-- [[radar/webflow.md|Webflow]]
 - [[radar/yup.md|Yup]]
-- [[radar/webdriverio.md|Webdriverio]]
+- [[radar/typescript.md|Typescript]]
+- [[radar/timescaledb.md|Timescaledb]]
 
 <!-- radar-latest-1 -->
 <!-- radar-latest-2 -->
 - [[radar/zustand.md|Zustand]]
 - [[radar/zod.md|Zod]]
-- [[radar/webflow.md|Webflow]]
 - [[radar/yup.md|Yup]]
-- [[radar/webdriverio.md|Webdriverio]]
+- [[radar/typescript.md|Typescript]]
+- [[radar/timescaledb.md|Timescaledb]]
 
 <!-- radar-latest-2 -->
 <!-- /col-2 #1 -->
 ## Upcoming Events
 
-- [[labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup #1]] - December 06, 2023
-- [[labs/events/Labs Weekly Catchup 3.md|Labs Weekly Catchup #3]] - December 13, 2023
 - [[labs/events/Labs Weekly Catchup 5.md|Labs Weekly Catchup #5]] - December 13, 2023
+- [[labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup #2]] - December 13, 2023
+- [[labs/events/Labs Weekly Catchup 4.md|Labs Weekly Catchup #4]] - December 13, 2023
 
 
 
@@ -81,7 +81,6 @@ We believe that behind every success comes great preparation, accumulation and c
 
 ## Open positions
 
-- [[hiring/open-positions/business-development.md|Business Development]]
-- [[hiring/open-positions/executive-assistant.md|Executive Assistant]]
 - [[hiring/open-positions/technical-recruiter.md|Technical Recruiter]]
+- [[hiring/open-positions/executive-assistant.md|Executive Assistant]]
 
