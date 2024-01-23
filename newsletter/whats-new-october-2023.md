@@ -100,7 +100,6 @@ When we came on board as a technical partner, we helped develop the tech foundat
 
 > Currently we don't have any internship positions available. Dwarves facilitate apprenticeship and internship as a program, instead of individually. News about these programs will be updated on [note.d.foundation](note.d.foundation).
 
-
 **Q: How can I contribute to Dwarves network?**
 > Everyone can contribute knowledge in our [Discord](http://discord.gg/dwarvesv) and/or contribute to our [Bounties](http://earn.d.foundation).
 > All valuable contributions will be rewarded in ICY ( 1 ICY ~ $1.5)
