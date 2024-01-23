@@ -1,7 +1,5 @@
 ---
 tags:
-  - dwarves
-  - work
   - internal
   - discussion
   - event
@@ -11,6 +9,7 @@ tags:
   - elixir
   - LLM
   - tauri
+  - community
 title: "Labs Weekly Catchup #3"
 date: 2023-12-21
 description: Our third weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
@@ -29,13 +28,13 @@ event_date: 2023-12-13
 | 20/12/2023 | 🍎 apple   | Internal |
 
 Our third weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
-### Agenda:
+## Agenda:
 - Rise on chatbot alternatives, LibreChat to use OpenAI and custom LLMs by @Tom
 - Bypass reCaptcha using self-hosted AI model by @Toan
 - Shared query processing through DuckDB WASM by @Tom
 - Build desktop app with Tauri by @Vy
 
-### Output:
+## Output:
 - Understand the research progress and passions of the labs team
 - Understand any shortcomings or things to improve for the next weekly catchup
 

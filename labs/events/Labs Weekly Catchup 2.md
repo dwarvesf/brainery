@@ -1,7 +1,5 @@
 ---
 tags:
-  - dwarves
-  - work
   - internal
   - discussion
   - event
@@ -10,6 +8,7 @@ tags:
   - rust
   - elixir
   - LLM
+  - community
 title: "Labs Weekly Catchup #2"
 date: 2023-12-14
 description: Our second weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
@@ -28,14 +27,14 @@ event_date: 2023-12-13
 | 13/12/2023 | 🍎 apple   | Internal |
 
 Our second weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
-### Agenda:
+## Agenda:
 - Kick-off topic - Self-hosted AI model in browsers with a quick demo by Thanh Phan and Toan Ho
 - Elixir cluster problem: scalability, broadcast messaging, leader election by Hieu Phan
 - Compare Rust 101 vs Go with experience in running Rust classes with the team by Hieu
 - Rust and understanding monadic error handling by Khac Vy
 - AI trending and understanding model and runtime architectures in LLMs by Tom Nguyen
 
-### Output:
+## Output:
 - Understand the research progress and passions of the labs team
 - Understand any shortcomings or things to improve for the next weekly catchup
 

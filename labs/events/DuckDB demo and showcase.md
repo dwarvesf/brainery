@@ -1,7 +1,5 @@
 ---
 tags:
-  - dwarves
-  - work
   - duckdb
   - internal
   - workshop
@@ -9,6 +7,7 @@ tags:
   - demo
   - event
   - labs
+  - community
 title: DuckDB demo and showcase
 date: 2023-11-23
 description: |-
@@ -33,14 +32,14 @@ pinned: false
 
 DuckDB has been an emerging OLAP database for analytical needs. Use cases for analytics usually use around 1GB-10GB of data, not enough to take advantage of the full potential of databases in data warehouses. The use case of analyzing data in small chunks is enough to pop up startups such as MotherDuck.
 
-### Agenda:
+## Agenda:
 DuckDB is a great starting point for modern stacks that don't need to worry about scalability, but want to derive hard analytics from the data that they have. This meeting will do a 3-part demo of DuckDB (15 minutes total):
 • Consolidate NYC taxi data in parallel (through map-reduce) over HTTPS
 • Aggregate IBM AML transactions (Anti-Money Laundering)
 • Some examples of how it is used to consolidate and do basic analytics on note.d and log.console.so
  In between, this meeting hopes to show some use-cases, possibilities, as well as costs and benefits of using DuckDB for introductory and advanced analytics.
 
-### Output:
+## Output:
 • Evaluate DuckDB and evaluating whether it is appropriate for the projects we do now or for future projects moving forward
 • Have a format for demos for other new tech moving forward
 

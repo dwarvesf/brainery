@@ -1,7 +1,5 @@
 ---
 tags:
-  - dwarves
-  - work
   - internal
   - discussion
   - event
@@ -9,6 +7,7 @@ tags:
   - catchup
   - rust
   - elixir
+  - community
 title: "Labs Weekly Catchup #4"
 date: 2023-12-28
 description: Our fourth weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
@@ -27,12 +26,12 @@ event_date: 2023-12-13
 | 27/12/2023 | 🍎 apple   | Internal |
 
 Our fourth weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
-### Agenda:
+## Agenda:
 - Broadway in elixir to handle million messages by @Hieu
 - Using WebAuthn API to implement passkeys by @Vincent
 - Labeling image using openAI vision and embedding flow by @Lap
 
-### Output:
+## Output:
 - Understand the research progress and passions of the labs team
 - Understand any shortcomings or things to improve for the next weekly catchup
 

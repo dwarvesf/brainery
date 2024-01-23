@@ -1,7 +1,5 @@
 ---
 tags:
-  - dwarves
-  - work
   - internal
   - discussion
   - event
@@ -9,6 +7,7 @@ tags:
   - catchup
   - rust
   - elixir
+  - community
 title: "Labs Weekly Catchup #5"
 date: 2024-01-03
 description: Our fifth weekly catchup to kick off the new year! We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
@@ -27,12 +26,12 @@ event_date: 2023-12-13
 | 03/01/2024 | 🍎 apple   | Internal |
 
 Our fifth weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
-### Agenda:
+## Agenda:
 - Auto pass reCAPTCHA by @Toan Ho
 - Passkey demo by @Tay
 - Github Trending Analyzer use-case discussion by @Hieu
 
-### Output:
+## Output:
 - Understand the research progress and passions of the labs team
 - Understand any shortcomings or things to improve for the next weekly catchup
 

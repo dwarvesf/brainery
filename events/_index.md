@@ -3,6 +3,7 @@ tags:
   - dwarves
   - work
   - event
+  - community
 title: Events
 date: 2023-12-11
 description: A collection of both our internal and external events, including the things we do with the Labs team, Consulting team, Operations, team, and the community.
@@ -20,9 +21,9 @@ This page holds a collection of both our internal and external events, including
 ## Events
 
 - [[labs/events/Labs Weekly Catchup 5.md|Labs Weekly Catchup 5]]
-- [[labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup 2]]
 - [[labs/events/Labs Weekly Catchup 4.md|Labs Weekly Catchup 4]]
 - [[labs/events/Labs Weekly Catchup 3.md|Labs Weekly Catchup 3]]
+- [[labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup 2]]
 - [[labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup 1]]
 - [[labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]]
 
