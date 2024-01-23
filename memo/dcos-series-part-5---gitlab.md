@@ -1,16 +1,18 @@
 ---
-tags: 
+tags:
   - dcos
+  - web
+  - git
 title: Dcos Series Part 5 Gitlab
 date: 2017-06-11
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-21
 created: 2017-06-11
 ---

@@ -1,21 +1,20 @@
 ---
-tags: 
+tags:
   - dcos
+  - web
 title: Dcos Series Part 4 Deploy Simple Application With Backend Database
 date: 2017-06-10
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-21
 created: 2017-06-10
 ---
-
-
 
 ## Create an Application with Golang
 
@@ -95,7 +94,7 @@ $ docker build -t <namespace>/todolist .
 $ docker push <namespace>/todolist
 ```
 
-## #=Setting up database on DC/OS
+### Setting up database on DC/OS
 
 Let’s go to our DC/OS and create a `postgres` service
 

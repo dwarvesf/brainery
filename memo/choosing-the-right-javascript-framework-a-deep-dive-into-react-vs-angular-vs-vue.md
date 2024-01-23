@@ -23,7 +23,7 @@ Selecting the ideal JavaScript framework can be a daunting task, particularly wh
 
 We’ve had our fair share of decision fatigue keeping up with new frameworks and choosing the right ones for the job. Our aim is to provide you with the necessary insights to determine the most suitable framework for your unique set of projects, helping you navigate the world of JavaScript frameworks with confidence.
 
-# A brief history of modern frontend development
+## A brief history of modern frontend development
 
 Embarking on a journey through the history of frontend development, we first encounter jQuery, a groundbreaking JavaScript library released in 2006 that simplified the process of constructing interactive web applications. As jQuery gained traction, so did the concept of Single-Page Applications (SPAs), which enabled web apps to dynamically rewrite pages without the need for loading new pages entirely. This transformation in web development can be attributed to the ongoing refinement and structuring of front-end frameworks.
 
@@ -35,7 +35,7 @@ Angular, first launched in 2016 as a comprehensive rewrite of AngularJS, assimil
 
 In 2014, [Evan You](https://twitter.com/youyuxi), who previously worked at Google and built applications with AngularJS, unveiled Vue, a progressive frontend framework explicitly tailored for crafting intricate user interfaces and views. Vue amalgamated the best aspects of React and Angular, presenting developers with a versatile, lightweight, and potent alternative.
 
-# A quick comparison: React vs Angular vs Vue
+## A quick comparison: React vs Angular vs Vue
 
 As we embark on our journey through the world of React, Angular, and Vue, it's crucial to grasp the fundamental differences that set these popular JavaScript frameworks apart. Although they share common ground in building sophisticated and interactive web applications, each framework exhibits unique attributes that shape the developer experience. It’s useful to provide a quick comparison of React, Angular and Vue, laying the foundation for a more in-depth exploration of their technical nuances in the sections to follow.
 
@@ -64,9 +64,9 @@ As we embark on our journey through the world of React, Angular, and Vue, it's c
 
 *Please note that the information provided in this table is an approximation and subject to change over time. It is always a good idea to keep up to date with the latest developments in these frameworks, as features and popularity may evolve.*
 
-# Detailed comparison: React vs Angular vs Vue
+## Detailed comparison: React vs Angular vs Vue
 
-## Rendering Performance
+### Rendering Performance
 
 **React**: React is renowned for its virtual DOM, which enables it to efficiently update and render components by comparing the changes with the actual DOM. This results in excellent rendering performance, particularly in large-scale applications. Additionally, React incorporates [concurrent rendering](https://react.dev/blog/2022/03/29/react-v18#what-is-concurrent-react), which further optimizes the rendering process by prioritizing updates based on their importance.
 
@@ -74,7 +74,7 @@ As we embark on our journey through the world of React, Angular, and Vue, it's c
 
 **Vue**: Vue amalgamates the best of both worlds by using a virtual DOM for efficient updates and reactive data binding for quick DOM manipulations. Its lightweight nature makes it particularly performant in smaller applications, but it scales well to larger projects too. Vue 3 introduced the [Composition API](https://vuejs.org/guide/extras/composition-api-faq), which further improves performance by facilitating more granular control over-reactivity and optimization.
 
-## Learning Curve
+### Learning Curve
 
 **React**: React has a moderate learning curve due to its unique JSX syntax and functional programming concepts, such as hooks and higher-order components. However, the vast community support, extensive documentation, and popularity in the industry make it easier to find resources and learn quickly. React's flexibility also allows developers to adopt different patterns and architectures based on their preferences.
 
@@ -82,7 +82,7 @@ As we embark on our journey through the world of React, Angular, and Vue, it's c
 
 **Vue**: Vue is known for its gentle learning curve, with an approachable API and clear documentation. It allows developers to integrate with existing projects incrementally and offers a smooth transition to a fully-featured framework. Its template syntax is familiar to developers with HTML, CSS, and JavaScript experience, making it more accessible to newcomers.
 
-## Tooling and Ecosystem
+### Tooling and Ecosystem
 
 **React**: React boasts a mature and extensive ecosystem, with a wide array of libraries and tools available for every need. Examples include Redux and MobX for state management, React Router and Reach Router for navigation, and Create React App and Next.js for project scaffolding. Additionally, React has a large and active community that consistently contributes to the growth and improvement of the ecosystem.
 
@@ -90,7 +90,7 @@ As we embark on our journey through the world of React, Angular, and Vue, it's c
 
 **Vue**: Vue's ecosystem is growing rapidly, with the official Vue CLI, Vue Router, Vuex for state management, ViteJS for build tooling. There are also several popular component libraries like Vuetify, Quasar, and Element. While Vue's ecosystem may not be as extensive as React's, it is continually expanding and improving. The Vue community is also known for its welcoming and supportive atmosphere.
 
-## API Stability
+### API Stability
 
 **React**: React's API has remained relatively stable over the years, with Facebook's commitment to providing smooth migration paths for major updates. Backward compatibility is a priority, minimizing breaking changes for developers. The introduction of hooks in React 16.8 was a significant addition, but it was designed to be fully compatible with existing class components.
 
@@ -98,7 +98,7 @@ As we embark on our journey through the world of React, Angular, and Vue, it's c
 
 **Vue**: Vue has maintained a stable API throughout its development, with only minor breaking changes between major versions. The Vue team prioritizes backward compatibility and provides detailed migration guides when necessary. [The transition from Vue 2 to Vue 3](https://v3-migration.vuejs.org/), for example, was accompanied by a dedicated migration build to help developers identify and address compatibility issues.
 
-## Real-world Use Cases and Industry Adoption
+### Real-world Use Cases and Industry Adoption
 
 **React**: React is widely adopted by large corporations and startups alike, including Facebook, Instagram, Airbnb, and Netflix. Its versatility and performance make it suitable for a wide range of applications, from social media platforms to e-commerce websites, enterprise-level solutions, and even virtual reality experiences with React VR.
 
@@ -106,6 +106,6 @@ As we embark on our journey through the world of React, Angular, and Vue, it's c
 
 **Vue**: Vue has seen increasing adoption in various industries, with companies like Alibaba, Xiaomi, and GitLab using it for their projects. Its ease of use and flexibility make it suitable for both small and large-scale applications, ranging from single-page applications to advanced web applications and progressive web apps. Vue's growing popularity has also led to its adoption in open-source projects and community-driven initiatives.
 
-# Conclusion
+## Conclusion
 
 In conclusion, React, Angular, and Vue each have their strengths and weaknesses, and the choice of framework ultimately depends on your project's specific requirements and your personal preferences as a developer. React excels in performance, scalability, and community support, making it a go-to choice for many developers. Angular is a comprehensive framework with powerful built-in tooling, making it a favorite among enterprise-level applications. Vue, on the other hand, offers a gentle learning curve and flexible approach, making it an attractive option for both beginners and experienced developers. By understanding the differences and unique aspects of each framework, you can make an informed decision and select the best tool for your next web development project.

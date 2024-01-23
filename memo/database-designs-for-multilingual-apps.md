@@ -1,22 +1,22 @@
 ---
-tags: 
+tags:
   - research
   - engineering
+  - design
 title: Database Designs For Multilingual Apps
 date: 2023-04-11
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2023-04-11
 created: 2023-04-11
 ---
 
-<!-- table_of_contents 646286df-cb90-4d19-9c5b-c689bd3c14c6 -->
 
 ![[c9a1b2c55d33bd432d3b0ace8d0a65e7_MD5.webp]]
 
@@ -31,8 +31,8 @@ In today's globalized world, many applications need to support multiple language
 In this article, we'll explore three common solutions for designing translation tables:
 
 * **the column-based approach** - incorporating languages in a different column as a text field of the same table
-* **the column JSON-based approach **- similar to the column based support, but using JSON data types as opposed to just a text field.
-* **the translation table approach **- a separate table to handle multiple languages and translation practices
+* **the column JSON-based approach** - similar to the column based support, but using JSON data types as opposed to just a text field.
+* **the translation table approach** - a separate table to handle multiple languages and translation practices
 
 ## **Solution 1: Column-Based Approach**
 

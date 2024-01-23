@@ -1,17 +1,18 @@
 ---
-tags: 
+tags:
   - framework
   - web
+  - frontend
 title: Cost Of React Native
 date: 2023-04-17
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2023-04-17
 created: 2023-04-17
 ---
@@ -22,17 +23,17 @@ created: 2023-04-17
 
 *React Native is a popular cross-platform app development framework that allows developers to build mobile apps for both iOS and Android platforms using a single codebase. It has gained popularity in recent years due to its ability to provide a native-like experience while reducing development time and cost.*
 
-# Introduction
+## Introduction
 
 At Dwarves, React Native has been on our radar and we use it in some of our projects. Lately, we have been investigating cost-benefits of using it and making light of some concerns we should be aware of. We haven’t seen many posts consolidating this in broader detail. So in this blog post, our focus will be on exploring the cost of React Native development, discussing the advantages and disadvantages of using the framework, and hopefully providing some insights for developers and engineering leaders to make more informed decisions on choosing React Native for their projects.
 
-# Choosing React Native
+## Choosing React Native
 
 Most likely the main reason why companies choose to use React Native in their projects is due to how similar it is to regular React. This is because React was designed to be able to work with different JavaScript runtimes. Typically, the common runtime or JavaScript engine used for React Native will be [Hermes](https://reactnative.dev/docs/hermes). Otherwise, it will fallback to [JavaScriptCore](https://trac.webkit.org/wiki/JavaScriptCore), the engine that powers Safari.
 
 This is great to avoid the need for polyglot developers, since if you know React, you can probably work with React Native albeit with a few nuances.
 
-## Advantages of React Native
+### Advantages of React Native
 
 Additionally, React Native boasts several advantages over other frameworks and native development methods:
 
@@ -42,7 +43,7 @@ Additionally, React Native boasts several advantages over other frameworks and n
 * **Developer productivity**: React Native allows developers to use JavaScript, which is a widely-used and popular programming language. This means that developers can leverage their existing skills and knowledge to build mobile apps, which can increase productivity and reduce the learning curve.
 * **Learning curve**: If you're already familiar with React, a popular JavaScript library for building user interfaces, learning React Native can be easier as it shares many concepts and syntax with React.
 
-## Disadvantages of React Native
+### Disadvantages of React Native
 
 Despite its many advantages, React Native has its share of drawbacks:
 
@@ -54,7 +55,7 @@ Despite its many advantages, React Native has its share of drawbacks:
 
 React Native is certainly great option for developers who want to build mobile applications quickly and easily while providing a native-like experience for their users. However, it may not be the best choice for all applications. Engineers should consider specific needs of their application to evaluate whether React Native is the best option for them.
 
-# Big Tech Companies Using React Native and Challenges Faced
+## Big Tech Companies Using React Native and Challenges Faced
 
 We were definitely interested at what enterprise-level companies do with React Native. Some of the big tech companies that have stories with using React Native are of course:
 
@@ -81,7 +82,7 @@ Discord, a popular communication platform for gamers, adopted React Native for i
 
 ![[memo/assets/cost-of-react-native/cb4a01ca2ab93832ae3ffec401441e07_MD5.jpeg]]
 
-# **The development cost of React Native**
+## **The development cost of React Native**
 
 The cost of developing a React Native application can vary depending on several factors, including the complexity of the application, design, features, and maintenance costs. The larger and more complex the application, the more expensive it is to develop. Similarly, applications with more advanced features, such as push notifications or in-app purchasing, will cost more to develop.
 
@@ -94,13 +95,13 @@ Furthermore, while React Native is a cost-effective option for mobile applicatio
 
 ![[memo/assets/cost-of-react-native/076bec90671c2f71c0fdb93849498a01_MD5.jpeg]]
 
-# **Conclusion**
+## **Conclusion**
 
 In conclusion, React Native is a popular cross-platform app development framework that offers several advantages, including cross-platform compatibility, faster development time, and a large developer community. However, it also has some drawbacks, such as performance issues, a nuanced learning curve, and limitations on native functionality.
 
 Whether a developer should use React Native really depends on the needs of their application. The cost of developing a React Native application can vary depending on several factors, including complexity, design, features, and maintenance costs. As such, it may be something to consider whether you should stay on the web or going native.
 
-# References:
+## References:
 
 * [https://reactnative.dev/](https://reactnative.dev/)
 * [https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a)

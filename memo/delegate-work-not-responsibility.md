@@ -23,7 +23,7 @@ We can bring in all the technology in the world, but if we can’t delegate prop
 * If a failure occurs due to person you delegated work to lacking skills, it is your fault you delegated work to the wrong person.
 * If you have to say “if you want it done right, do it yourself”, you may want to get some education on leadership and the art of delegation.
 
-### Practices
+## Practices
 
 * Do not assume team members (even highly-experienced ones) are clear on what needs to be done. Go into detail until YOU are confident the other person will execute the work as specified.
 * Micromanaging is not delegating. You must have trust your team member and not hover. If you must hover, re-evaluate if the task is delegable or if you need to readjust your management style.

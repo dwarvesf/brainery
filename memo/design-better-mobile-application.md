@@ -1,23 +1,24 @@
 ---
-tags: 
+tags:
   - design
+  - engineering
 title: Design Better Mobile Application
 date: 2020-05-01
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-21
 created: 2020-05-01
 ---
 
 This workshop wraps up the useful information on 2 types of operating system for UX/UI designers, based on the personal research on iOS and Android. The purpose is to create an application that brings comfortability and a great experience to the end user.
 
-### Table of Content
+## Table of Content
 
 1. Introduction to iOS & Android
 1. The platforms to build application

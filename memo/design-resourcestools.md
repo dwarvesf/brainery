@@ -1,16 +1,17 @@
 ---
-tags: 
+tags:
   - design
+  - user-experience
 title: Design Resourcestools
 date: 2018-03-25
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2018-03-15
 created: 2018-03-25
 ---
@@ -19,13 +20,11 @@ Besides learning the UI design, the most important thing is to learn UX design t
 
 This compilation is synthetic all the websites or tools to help you improve your knowledge of UX Design. All of these websites where UX designers around the world often go to learn, just as you usually do on Behance or Dribbble to find trends, styles or ideas.
 
-# UX Design 
+## UX Design 
 
-# ————    INFORMATION AND GUIDES  ————
+### INFORMATION AND GUIDES  
 
-# Publications
-
-
+#### Publications
 
 * **[Nielsen Norman Group](https://www.nngroup.com/articles/)**
 
@@ -63,7 +62,7 @@ Thought-provoking niche UX topics from Josh Porter and Josh Brewer.
 
 High quality design articles, guides, and interviews.
 
-# Communities
+### Communities
 
 * **[Designer News](https://www.designernews.co/)**
 
@@ -77,9 +76,9 @@ Slack community (more than 6,000 members) that is focused on UX
 
 Subreddit for UX related content, tools, and conversation
 
-# Podcasts
+### Podcasts
 
-* **[UX and Growth Podcas](https://austinknight.com/podcast/)****t**
+* **[UX and Growth Podcas](https://austinknight.com/podcast/)**
 
 A tactical, actionable UX podcast that I co-host with two friends.
 
@@ -103,18 +102,14 @@ Casual interviews with designers and product creators.
 
 Interviews with major influencers in design, business, and technology.
 
-# Books
+### Books
 
 
 ![[1d108bd8a65ff50110c20d550f63945e_MD5.webp]]
-
 A foundational book on UX and Design, introducing design as a competitive advantage in business.
 
-
 ![[9863db6fd97f581087152cab779966e2_MD5.webp]]
-
 A straightforward book on usability, serving as a great introduction to UX.
-
 
 ![[35a07daafda041800eb792f9dfb52744_MD5.webp]]
 
@@ -125,9 +120,9 @@ An introduction to statistics and data visualization (and how they can both be m
 
 Part of the Lean Startup movement, this book introduces the process for Lean UX.
 
-# ————-      TOOL AND RESOURCES    ————-
+### TOOL AND RESOURCES 
 
-# Quantitative
+#### Quantitative
 
 * **[Google Analytics](https://www.google.com/analytics/#?modal_active=none)**
 
@@ -161,7 +156,7 @@ Javascript-based A/B testing and multivariate testing platform.
 
 Free A/B testing platform that’s integrated with Google Analytics.
 
-# Testing
+#### Testing
 
 * **[UserTesting.com](http://usertesting.com/)**
 
@@ -183,7 +178,7 @@ Quickly test where users would click in wireframes and mockups.
 
 Platform for testing wireframes and prototypes, usability, and accessibility.
 
-# Diagrams
+#### Diagrams
 
 * **[Gliffy](https://www.gliffy.com/)**
 
@@ -205,7 +200,7 @@ Free tool for quick and easy to edit Mind Mapping.
 
 Great for creating personas, task and competitive analyses, etc.
 
-# Wireframes
+#### Wireframes
 
 * **[Balsamiq](https://balsamiq.com/)**
 

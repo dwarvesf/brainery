@@ -1,17 +1,18 @@
 ---
-tags: 
+tags:
   - go
   - vim
+  - backend
 title: Connecting Vim With Golang
 date: 2015-10-16
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-20
 created: 2015-10-16
 ---

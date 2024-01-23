@@ -1,17 +1,18 @@
 ---
-tags: 
-  - performance
+tags:
   - people
+  - performance-review
+  - engineering
 title: Considering Factors For Performance Evaluating
 date: 2016-04-02
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-23
 created: 2016-04-02
 ---
@@ -76,8 +77,7 @@ High-performers but exhibit behavioral tendencies that are incongruent with your
 
 Exceptions shouldn’t be made, otherwise it shows your values are merely aspirational. It should be made clear that value-incongruent behavior is not tolerated and they will need to remediate their behavior in a measurable way within a limited time.
 
-<!-- child_page e3ce81f5-e335-4b71-b97f-eeffa2aabde3 -->
-
+https://dwarves.notion.site/Copy-of-Values-Improvement-Plan-e3ce81f5e3354b71b97feeffa2aabde3?pvs=74
 
 ### Incompetent Nice Guys (Manage or Move)
 
@@ -87,8 +87,7 @@ Incompetent nice guys and gals should be put on a traditional performance improv
 
 Of course, if that is not possible or does not work out, they should also be separated from the company.
 
-<!-- child_page 4007b6a1-df17-48ad-aace-f815a7d07e86 -->
-
+https://www.notion.so/dwarves/Copy-of-Performance-Improvement-Plan-4007b6a1df1748adaacef815a7d07e86?pvs=4
 
 ### Competent and Outstanding Nice Guys (Praise and Raise)
 

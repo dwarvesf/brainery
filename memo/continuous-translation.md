@@ -1,32 +1,33 @@
 ---
-tags: 
+tags:
   - web
   - engineering
+  - frontend
 title: Continuous Translation
 date: 2023-04-11
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2023-04-11
 created: 2023-04-11
 ---
 
 ![[eaf982ca480d0677ec9d8fd34553b51a_MD5.webp]]
 
-# Introduction
+## Introduction
 
 Continuous Translation (CT) is a modern approach to translation management that involves synchronizing software development and translation workflows. This means that developers, translators, and product owners work together in a continuous cycle to ensure that all translations are up-to-date and aligned with the latest software developments.
 
 Unlike traditional translation workflows, Continuous Translation eliminates the need for file and space synchronization between different stakeholders, streamlining the translation process and promoting better collaboration. By implementing Continuous Translation, companies can achieve faster development cycles, higher-quality translations, and a better user experience for their customers.
 
-# Working with localization
+## Working with localization
 
-## How localization generally works
+### How localization generally works
 
 ![[0ca3440b9dbd840d349d587dd7fd6a1d_MD5.webp]]
 
@@ -90,7 +91,7 @@ Here are what the steps to use Google Sheets would look like for managing transl
 	});
 	```
 
-* **Step 3: **After having obtaining the translation data, generate locale files for supported languages using the following code:
+* **Step 3**: After having obtaining the translation data, generate locale files for supported languages using the following code:
 
 ```javascript
 	// Save on './public/manage-translations.ts' file
@@ -132,7 +133,7 @@ For this approach, we can use [Locize](https://locize.com/) as our continuous 
 
 ![[memo/assets/continuous-translation/5d971ebb8af780ed2ad9e7626daf0d8c_MD5.png]]
 
-Locize has integration support for a variety of frontend systems. You can integrate Locize by following steps:
+Localize has integration support for a variety of frontend systems. You can integrate Locize by following steps:
 
 * Follow [https://docs.locize.com/integration/getting-started](https://docs.locize.com/integration/getting-started) to create a Locize account and project.
 * After the project is created, we will have `project id` and `api key`.
@@ -171,10 +172,9 @@ In summary, `Solution 1` is a simpler and cheaper approach to manage translation
 * **Requires specialized tools**: Implementing Continuous Translation requires specialized tools and technologies, which can add to the overall cost of the project.
 * **Not suitable for all projects**: Continuous Translation may not be suitable for all projects, particularly those with limited budgets or resources. Traditional translation workflows may be more appropriate for smaller projects or those with less frequent updates.
 
-# Conclusion
+## Conclusion
 
 Multilingual support is a very important function for web or mobile applications nowadays. Users will come from all over the world and always ask for support for their language. The two options above have different advantages and disadvantages, so you need to consider the exact scope of the product to have the best choice for your team. Both methods can meet the needs of constantly translating products to support new features or new products, but it will cost production as well as quality assurance.
-
 
 If you have a difficult problem that you would like us to help you on, please feel free to submit a challenge request here.
 

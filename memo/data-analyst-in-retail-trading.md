@@ -1,18 +1,18 @@
 ---
-tags: 
+tags:
   - engineering
-  - practice
   - radar
+  - data
 title: Data Analyst In Retail Trading
 date: 2022-08-29
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2022-09-08
 created: 2022-08-29
 ---

@@ -22,9 +22,9 @@ Recently, **Bitcoin** and **Blockchain** become popular, they are the trending a
 
 In this article, we are not going to talk deeply about the definition and the way it works. We explain Blockchain in a simpler way, by sharing the challenges we have met in the process of designing a product basing on Blockchain technology.
 
-# I. Understand Blockchain
+## I. Understand Blockchain
 
-## Why Blockchain?
+### Why Blockchain?
 
 First of all, let’s start with the problem people are facing and solutions that Blockchain provides.
 
@@ -42,7 +42,7 @@ Blockchain operates in a decentralized form, which makes all information and tra
 
 The capabilities that Blockchain offers to solve these problems are explained in how a blockchain is structured.
 
-## What is Blockchain
+### What is Blockchain
 
 ![[e1bfa96832cd4042e417869a7c426a77_MD5.webp]]
 
@@ -52,7 +52,7 @@ As the name, it is a chain of blocks that store data. Each block of a chain is c
 
 ![[fc723d7bffd27c3988c8b5ea62194db0_MD5.webp]]
 
-## How it works
+### How it works
 
 ![[d86795011c5ab5910ec0b5f6b55c74fe_MD5.webp]]
 
@@ -66,26 +66,26 @@ As the name, it is a chain of blocks that store data. Each block of a chain is c
 
 A blockchain is essentially a digital ledger of transactions which is owned by nobody. All the information of transactions will be recorded, duplicated, and distributed across the blockchain network.
 
-## Value proposition
+### Value proposition
 
 The goal of Blockchain is to allow digital information to be recorded and distributed, but not edited. Understanding the meaning of the way Blockchain solving the trust issues among humans, we can come to the conclusion that the following outstanding values of Blockchain can completely solve the problems of trust that people are facing.
 
-### Decentralization
+#### Decentralization
 
 The Blockchain operates in a decentralized form, which makes all information and transactions transparent, as all transactions occurred must come from the consensus of many users. Every participant within the Blockchain network keeps the same copy of electronic data. Blockchain data is regularly updated with all the latest transactions and synchronized with all copies. When a user makes a transaction or inputs data, every system scattered in the peer-to-peer network verifies it. Moreover, there is no person or entity controlling the system. Hence, every party has equal rights to data and action.
 
-### Transparency
+#### Transparency
 
 When a user creates a transaction in a Blockchain network, everyone in that network can see and approve the same. However, complex cryptography hides personal information like the name of the user. As a result, there is no corruption and misconduct in this system.
 
-### Immutability
+#### Immutability
 
 No one can tamper data in a Blockchain network and thus it’s an immutable platform since hashing converts any input data into an unmatched string of text. Immutability keeps data be privacy, unattackable and imperishable.
 
 
 ![[a533a30cdbb6139ad9f5f98a57b9b558_MD5.webp]]
 
-# Help user to believe in the value of Blockchain
+## Help user to believe in the value of Blockchain
 
 Blockchain is very complicated. Speaking of Blockchain, most people, especially not so tech-savvy ones, thought it was the movement of numbers, codes, magic, or whatever stored in some cloud in the sky. Some people even mistakenly believe that Blockchain is bitcoin and call it virtual money.
 
@@ -99,7 +99,7 @@ Besides, we designers also have to develop ways for prototyping, not only indivi
 
 ![[60e714810139595dfd5ee4591022b6cd_MD5.webp]]
 
-## Blockchain design principles
+### Blockchain design principles
 
 As we researched and worked on multiple projects, we have analyzed through countless blockchain applications to come up with a list of current issues users encounter. Some cause users to approach these applications with a lot of distance.
 
@@ -164,7 +164,7 @@ Blockchain is known as a one-way action that keeps the network safe and transpar
 
 **6. Constantly receive feedback and improve product** Even if we build something and release it, it’s only the beginning of the road. So it’s essential to be with the users through the whole app-building building process — and its future development. End users should be allowed to leave feedback, and want to leave feedback as if the product was something of their own. They should feel that we're listening to them, and we're gonna change the product for the better.
 
-# Conclusion
+## Conclusion
 
 The key value proposition of Blockchain is to provide users with transparency and efficiency. Many businesses take off by applying Blockchain, especially in finance, supply chain, healthcare, and gaming. Blockchain is believed to help users resolve trust issues when it comes to personal information and assets.
 

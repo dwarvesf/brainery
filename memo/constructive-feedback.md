@@ -1,20 +1,20 @@
 ---
-tags: 
+tags:
   - tips
+  - teamwork
 title: Constructive Feedback
 date: 2020-05-28
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2020-03-26
 created: 2020-05-28
 ---
-
 
 
 It's in human nature to instantly lose their mind when things get hard, and somehow they split nasty things that can't be undone. So, to reduce the ratio of unnecessary conflicts, let's make the feedback great again.

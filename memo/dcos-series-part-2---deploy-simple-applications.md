@@ -1,16 +1,17 @@
 ---
-tags: 
+tags:
   - dcos
+  - web
 title: Dcos Series Part 2 Deploy Simple Applications
 date: 2017-05-05
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-21
 created: 2017-05-05
 ---
@@ -19,18 +20,18 @@ There are so many interesting things in DC/OS GUI (`Dashboard` with useful metri
 
 In this article, we will try to deploy applications to DC/OS and run it.
 
-# Universe packages
+## Universe packages
 
 The Universe tab shows all of the available DC/OS services from package repositories. You can install packages from the DC/OS Universe with a single click. The packages can be installed with defaults or customized directly in the web interface
 
 ![[e84b0a38362cbe07380b58ee7adae02d_MD5.webp]]
 
 
-# DC/OS CLI
+## DC/OS CLI
 
 You also can use the DC/OS command-line interface (CLI) to manage your cluster nodes, install DC/OS packages, inspect the cluster state, and administer the DC/OS service subcommands, deploy application, etc.
 
-## Installing
+### Installing
 
 You can quickly install the CLI from the DC/OS web interface.
 
@@ -39,13 +40,12 @@ You can quickly install the CLI from the DC/OS web interface.
 ![[8f79be9b29c62d95fe90e2e03bc62284_MD5.webp]]
 
 
-
 1. Copy and paste the code snippets into your terminal.
 
 ![[fad27ec33399ea4f93224edcc53bbfb3_MD5.webp]]
 
 
-## Usage
+### Usage
 
 To list available commands, either run dcos with no parameters or run dcos help
 
@@ -73,7 +73,7 @@ Get detailed command description with 'dcos <command> --help'.
 
 OK. We will focus on command `dcos marathon app add <app-resource>`which help us deploy application to DC/OS
 
-## Deploy a simple app
+### Deploy a simple app
 
 1. Create an app definition file named my-app.json with these contents
 
@@ -113,7 +113,6 @@ Created deployment d562b50a-17b0-44ce-b7d2-02a0c3cc799e
 ```
 
 
-
 1. Verify that the app is added with this command:
 
 ```javascript
@@ -127,7 +126,6 @@ The output can be look like this:
 ID      MEM  CPUS  TASKS  HEALTH  DEPLOYMENT  CONTAINER  CMD
 /nginx   64  0.1    0/1    ---      scale       DOCKER   None
 ```
-
 
 
 1. Check application on DC/OS GUI

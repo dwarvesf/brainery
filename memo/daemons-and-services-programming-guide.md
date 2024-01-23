@@ -15,7 +15,7 @@ created_time: 2021-07-20
 created: 2020-05-11
 ---
 
-# About Daemons and Services
+## About Daemons and Services
 
 Many kinds of tasks that do not require user interaction are most effectively handled by a process that runs in the background. You can use a daemon or service to:
 
@@ -24,15 +24,15 @@ Many kinds of tasks that do not require user interaction are most effectively ha
 ![[8f72ec64cac909319e7fc79210c69563_MD5.webp]]
 
 
-T**erminology Note**: The terms `service` and `daemon` have several meanings in different contexts, with further variation over time and from one development community to another.
+**Terminology Note**: The terms `service` and `daemon` have several meanings in different contexts, with further variation over time and from one development community to another.
 
 In this document, service refers to a background process that supports a full GUI application in some way, for example by registering a global hotkey or by performing network communication. Daemon refers to all other types of background processes, especially those that don’t present any kind of user interface.
 
-# Designing Daemons and Services
+## Designing Daemons and Services
 
 Two of the most important design decisions to consider when creating a background process are how it will be run and how other processes will communicate with it. These two considerations interact with each other: different types of background processes have different forms of communication available to them.
 
-## Types of Background Processes
+### Types of Background Processes
 
 There are four types of background processes in OS X. The differences are summarized in Table 1-1 and described in detail in the following subsections. To select the appropriate type of background process, consider the following:
 
