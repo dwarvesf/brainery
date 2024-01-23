@@ -36,7 +36,7 @@ Từ Frontend cho đến QC và giờ đây là Backend cùng với DevOps, Nam 
 
 📌 <span style='color:red'>***Chu kỳ thay đổi và trưởng thành sẽ cần nỗ lực chấp nhận bản thân và bứt ra vùng an toàn để cải thiện những điểm chưa hoàn thiện của mình. ***</span>
 
-### <span style='color:red'>**Cơ duyên với Dwarves.**</span>
+## <span style='color:red'>**Cơ duyên với Dwarves.**</span>
 
 ---
 
@@ -45,7 +45,7 @@ Từ Frontend cho đến QC và giờ đây là Backend cùng với DevOps, Nam 
 Sau khoảng 4 tháng part-time, anh chính thức chuyển sang vị trí Frontend Engineer ở Dwarves. Công ty lúc đó chưa có QC, anh Huy Tiêu vừa join team và trở thành Lead Team của anh. Anh được thử sức ở cả bốn vị trí Frontend, QC, Backend và Devops. Một trải nghiệm cực đáng nhớ với anh. Tới khi tham gia project Aharooms vào khoảng 2020, anh mới không đảm nhiệm nhiều vị trí nữa mà tập trung vào vai trò chính là một Backend Engineer.”
 
 
-### <span style='color:red'>Thử thách để hoàn thiện. </span>
+## <span style='color:red'>Thử thách để hoàn thiện. </span>
 
 ---
 
@@ -68,7 +68,7 @@ Nên anh quyết định tham gia GopherCon 2018, 2019. Ngoài việc làm event
 Hồi đấy anh còn là một trong những thành viên trẻ nhất trong team. Một phần động lực của anh lúc đó chính là các thành viên của Dwarves - Mọi người rất giỏi kỹ năng mềm. Tham gia tổ chức sự kiện cho cộng đồng là cách anh rèn luyện & chủ động học hỏi để hoàn thiện mình.”
 
 
-### <span style='color:red'>Phấn đấu</span><span style='color:red'>** 200% mỗi ngày.**</span>
+## <span style='color:red'>Phấn đấu</span><span style='color:red'>** 200% mỗi ngày.**</span>
 
 ---
 
@@ -105,14 +105,14 @@ Dwarves Team ♡
 <span style='color:red'>**Life at Dwarves #5**</span> is the career story of Nam, the Dwarves's DevOps Engineer. During 6 years turning from big corp to Dwarves Team, he lives upon the motto of constantly pushing himself above the limit. Listening to his sharing, we hope you might feel like we do, that Nam has always been and will be the key player who would strive to deliver his best.
 
 
-### <span style='color:red'>Joining </span><span style='color:red'>**Dwarves? A roller coaster ride.**</span>
+## <span style='color:red'>Joining </span><span style='color:red'>**Dwarves? A roller coaster ride.**</span>
 
 "2017 marked my first milestone with Dwarves. One of my friends asked me if I wanted to be part of a team that worked on cool projects and surrounded by like-minded peeps. I said yes, without a second thought. Looking back now, it must have been fate. Because my 2017 version was still figuring out how to finish the university degree. Joining any firm as a full-time job can't be the right move.
 
 I became a full-time FE after 4 months of part-time work. Dwarves didn't have any QC at that time besides Huy Tieu, and he became my mentor soon after that. I have worked in various engineering aspects, from Frontend to QC, Backend to DevOps. Until I joined Aharooms, where I finally decided to act as a Backend Engineer."
 
 
-### <span style='color:red'>Define. Grow. Complete.</span>
+## <span style='color:red'>Define. Grow. Complete.</span>
 
 "The peers my age tend to throw themselves into gym, movies or dining after work to blow off some steam. And they do that on a schedule. A schedule that I refuse to follow, mostly because I'm used to living as someone who prefers to do things alone. I find it hard to confine myself to meeting the same people, and doing the same thing on a specific timeline.
 
@@ -133,7 +133,7 @@ By that time, I was still one of the team's youngest members. So part of the mot
 ![[18818c254d28a247aa45f57bfcffb86c_MD5.webp]]
 
 
-### <span style='color:red'>**The 200% motto.**</span>
+## <span style='color:red'>**The 200% motto.**</span>
 
 "My trait of having an eye for details sometimes leads to slower productivity. Thus, I'm still today-year-old thriving to optimize it. While I was still working on Aharooms, staying up working until 1 or 2 AM was an everyday scheme. It bugs me to go to bed knowing I haven't finished the work. It's a principle to work with all I can, despite the role I'm playing as. Looking back at my 2017 version, I've always been amazed by what has been learned and changed.
 
