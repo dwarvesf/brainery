@@ -13,9 +13,9 @@ menu:
 toc: false
 notice: 
 type: hiring
-hide_frontmatter: false
+hide_frontmatter: true
 event_date: 
-hiring: true
+hiring: false
 ---
 ## We're looking for Business Development talents to join Dwarves and work remotely.
 
