@@ -81,7 +81,23 @@ As our theme for the year is MMA (Mastery, Meaning, Autonomy), we develop a syst
 #### Join our team
 We are looking for the following talents to join our team
 - [[executive-assistant|Admin / Ops]] (Fulltime)
-- [[business-development|Business Development]] (Fulltime, Partner)
 - [[technical-recruiter|Technical Recruiter]] (Fulltime)
 
 Email us at spawn@d.foundation or ping @nikki on Discord for JDs / to refer someone you know. TIA!
+
+## FAQ
+
+**Q: Do Dwarves offer internships?**
+
+> Currently we don't have any internship positions available. Dwarves facilitate apprenticeship and internship as a program, instead of individually. News about these programs will be updated on [note.d.foundation](note.d.foundation).
+
+
+**Q: How can I contribute to Dwarves network?**
+> Everyone can contribute knowledge in our [Discord](http://discord.gg/dwarvesv) and/or contribute to our [Bounties](http://earn.d.foundation).
+> All valuable contributions will be rewarded in ICY ( 1 ICY ~ $1.5)
+
+**Q: Do Dwarves have any events?**
+> We have these reoccurring events:
+> - Radio Talk (Weekly, Monday): sharing technical learning, demos, showcases
+> - Tech Event (Monthly): sharing programming trends, tech trends, panel discussions
+> - Community Call (Monthly):  summary wins and growth of the month
