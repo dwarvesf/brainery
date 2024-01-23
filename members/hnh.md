@@ -9,9 +9,8 @@ avatar: null
 undefined
 ## Written Notes
 
-- [[_base.md|Home]]
 - [[_index.md|Home]]
-- [[home.md|Home]]
+- [[_base.md|Home]]
 - [[earn/_base.md|Open Bounties]]
 - [[earn/_index.md|Open Bounties]]
 - [[earn/archive.md|Archive]]
@@ -23,5 +22,6 @@ undefined
 - [[earn/rework-fortress-command.md|Rework Fortress Command]]
 - [[earn/submit-a-bounty.md|Submit a Bounty]]
 - [[earn/withdrawl-icy.md|$icy withdrawal]]
+- [[home.md|Home]]
 - [[memo/icy-in-2024.md|$icy in 2024]]
 - [[memo/salary-advance.md|$icy Salary Advance]]

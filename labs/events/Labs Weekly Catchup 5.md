@@ -32,8 +32,8 @@ Our fifth weekly catchup. We organize an agenda the day beforehand and consolida
 - Github Trending Analyzer use-case discussion by @Hieu
 
 ## Output:
-- Understand the research progress and passions of the labs team
-- Understand any shortcomings or things to improve for the next weekly catchup
+- Understand the research progress and passions of the labs team.
+- Understand any shortcomings or things to improve for the next weekly catchup.
 
 ---
 
@@ -42,7 +42,7 @@ Our fifth weekly catchup. We organize an agenda the day beforehand and consolida
 weekly meeting #5 - 03/01/2024:
 
 🤖 **Auto-pass reCAPTCHA followup**
-- A follow up of @Toan's demo ov YoloV8 over Tensorflow.js, using WebGPU as the backend, to do object detection over recaptcha images
+- A follow up of @Toan's demo ov YoloV8 over Tensorflow.js, using WebGPU as the backend, to do object detection over recaptcha images.
 - @Toan demo includes image autodetection, keyword detection, object separation, and auto clicking.
 
 ![[Labs Weekly Catchup 5-20240105153824098.webp]]

@@ -1,8 +1,8 @@
 ---
 tags:
+  - event
   - dwarves
   - work
-  - event
   - community
 title: Events
 date: 2023-12-11
