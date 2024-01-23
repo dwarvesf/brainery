@@ -1,8 +1,10 @@
 ---
 tags:
-  - dwarves
-  - work
-title: What's New in November 2023
+  - performance-review
+  - newsletter
+  - consulting
+  - doty
+title: What's New in December 2023
 date: 2024-01-03
 description: In December, we launched our Consulting Team, released our finding on tech trends, and last but not least, got everyone ready to wrap up 2023.
 authors:
@@ -26,13 +28,13 @@ hide_title: false
 In December, we launched our Consulting Team, released our finding on tech trends, and last but not least, got everyone ready to wrap up 2023.
 
 - **[[#Reporting tech signals]]** - We stay ahead by monitoring high-potential trends in tech.
-- **[[#Launching Consulting Team]]** - Dwarves Consulting is shaping up
+- **[[#Launching Consulting Team]]** - Dwarves Consulting is shaping up.
 - **[[#Performance Review]]** - The Dwarves way. We don't just base our review by performance, but also on everyone's effort to grow in their career.
 - **[[#Dwarves of the Year 2023]]** - Time to tribute and reward team members who made significant impacts to our growth. 
-- **[[#Join our team]]** - Admin / Ops, BD, Tech Recruiter
+- **[[#Join our team]]** - Admin / Ops, BD, Tech Recruiter.
 
 
-#### Reporting tech signals
+## Reporting tech signals
 Technologies move fast. We're not ones to get left behind. Every month we watch tech trends closely to depict which ones have high potential, and can be part of our growing tech stack.
 
 This month highlights strong signals on AI gaining mainstream traction, the comeback of WebGPU, Actor Model in computing, Security and ComplianceAsCode, nNFT standards for asset provenance. And programming-language-wise: Rust, Lua Dart.
@@ -40,7 +42,7 @@ This month highlights strong signals on AI gaining mainstream traction, the come
 For the full read, [come here](https://note.d.foundation/labs/market-report-dec-2023/).
 
 
-#### Launching Consulting Team
+## Launching Consulting Team
 
 [Dwarves' Consulting team](https://note.d.foundation/consulting/consulting-who-we-are/) consists of anyone who’s hungry for more than just coding.
 
@@ -50,7 +52,7 @@ For the full read, [come here](https://note.d.foundation/labs/market-report-dec-
 
 ![[Consulting - Who should join us-20231221144422875.webp|500]]
 
-#### Monthly top performers
+## Monthly top performers
 
 Each month we track how productive and valuable each of our team members by using delivery points. For now, the top 5 high-performing members get rewards with $ICY. In Dec, kudos to those peeps who outperformed the rest: Nam Nguyen, Lap Nguyen, Ngoc Thanh, Jim and Hung Vong.
 
@@ -59,7 +61,7 @@ Last month we also shipped quite a number of features, highlighting:
 - Rust game - an inhouse game we're developing for our upcoming summit
 
 
-#### Dwarves of the Year 2023
+## Dwarves of the Year 2023
 
 It's been one of our longest tradition, to tribute and reward team members who made significant impacts to our growth. Dwarves of the Year 2023 is brewing up with various categories and a total rewards of $25k.
 
@@ -67,18 +69,18 @@ It's been one of our longest tradition, to tribute and reward team members who m
 On Jan 13th, we're flying non-Saigon peeps to Saigon so everyone can get together and party their hearts out!
 
 
-#### Performance Review
+## Performance Review
 
 The Dwarves way. We don't just base on our review by performance, but also on everyone's effort to grow in their career.
 
 As our theme for the year is MMA (Mastery, Meaning, Autonomy), we develop a system of metrics to make sure our engineers are not only skilled, but also head toward higher purpose.
 
 
-#### Community
+## Community
 - Top contributors to our Discord server this month brought in a lot of new knowledge. Thank you, and we hope you enjoy your $ICY rewards.
 - Techie's [Tiktok](https://www.tiktok.com/@techiestory.net) reached 16k followers! We're happy to be reaching new people through each story. And you can always let us know whose story you'd want to know, we'll try to make it happen!
 
-#### Join our team
+## Join our team
 We are looking for the following talents to join our team
 - [[executive-assistant|Admin / Ops]] (Fulltime)
 - [[technical-recruiter|Technical Recruiter]] (Fulltime)

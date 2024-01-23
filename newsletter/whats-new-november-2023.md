@@ -59,10 +59,15 @@ This bot command can be used in our Discord server, and anonymously :)
 #### Misc
 - Our Discord server is for everyone. We're happy to see ~400 active users last month, and of course, the top ten voices in get 5 $ICY each.
 - More bounties are up for grab: https://note.d.foundation/earn/
-- Techie story are now on [Tiktok](https://www.tiktok.com/@techiestory.net), highlighting 4 stories about life in tech in US & Japan
+- Techie story are now on [Tiktok](https://www.tiktok.com/@techiestory.net), highlighting 4 stories about life in tech in US & Japan.
 
+<<<<<<< Updated upstream
 #### Join our team
 We are looking for the following talents to join our team
+=======
+## Join our team
+We are looking for the following talents to join our team:
+>>>>>>> Stashed changes
 - React Native Developer (Project-based Contractor)
 - Admin / Ops (Fulltime)
 

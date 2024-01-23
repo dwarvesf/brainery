@@ -90,8 +90,8 @@ For Dwarves team members, engaging in future research projects is an excellent w
 ### Past Events
 
 - [[labs/events/Labs Weekly Catchup 5.md|Labs Weekly Catchup 5]]: Our fifth weekly catchup to kick off the new year! We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
-- [[labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup 2]]: Our second weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
 - [[labs/events/Labs Weekly Catchup 4.md|Labs Weekly Catchup 4]]: Our fourth weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
+- [[labs/events/Labs Weekly Catchup 3.md|Labs Weekly Catchup 3]]: Our third weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
 
 
 <!-- /events -->
