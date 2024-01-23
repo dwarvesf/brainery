@@ -74,7 +74,7 @@ We are enthusiastic about the future of technology. We are the force behind some
 | "One of my favorite things about Dwarves is how much we invest in learning new things. You will see yourself growing as a professional and as an individual." | "I started with Dwarves, then joined one of our client's team afterward. Dwarves was very supportive, as long as it's the right move for my career path." | "I always find new opportunities at Dwarves. There is so much room for growth as long as we are willing to accept challenges. We're all lifelong learners here." |
 | **[Thanh Pham](https://www.linkedin.com/in/thanh-pham-466326108/) -** Engineering Manager                                                                     | [**An Duong**](https://www.linkedin.com/in/duongtruongan/) - Dwarves Alumnus                                                                              | [**Minh Luu**](https://www.linkedin.com/in/minhluuquang/) - Full-stack Engineer                                                                                  | 
 
-# We ensure a chance to grow
+## We ensure a chance to grow
 Despite the background, if you have a passion for tech and the urge to improve, we provide all things that are needed.
 
 |                                                                                            |                                                                                                                                     |                                                                                                                                                                     |

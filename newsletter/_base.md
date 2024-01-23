@@ -19,7 +19,7 @@ pinned:
 This is our newsletter page, where we keep you up to date with latest industry news and updates, valuable content from our engineers at Dwarves, and a picture of how we operate with our engineers and community.
 
 ```dataview
-LIST
+LIST WITHOUT ID "[[" + file.path + "|" + title + "]]"
 FROM "newsletter" AND !"newsletter/_index" AND !"newsletter/_base"
 SORT date DESC
 LIMIT 10
