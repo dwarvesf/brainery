@@ -1,17 +1,17 @@
 ---
-tags: 
-  - R&D
+tags:
   - data
+  - SQL
 title: Managing Dataflow And Sql Database With Concurrency Control
 date: 2023-05-04
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2023-05-04
 created: 2023-05-04
 ---
@@ -21,7 +21,7 @@ created: 2023-05-04
 
 Some of us had built a game, while others were familiar with e-commerce platforms, D-apps, or even all of these types of applications, and more. Each type of software that we were working on needed different techniques, some of which were similar. So the same problem can happen in every software product. In this post, we will discuss an issue in high-workload databases together. It is **Concurrency Control**.
 
-# Problem
+## Problem
 
 Let's consider that we have an e-bank application that includes an account table. Each account stores the balance, and we need to subtract when there is a withdrawal transaction and add when there is a deposit transaction.
 
@@ -41,7 +41,7 @@ This is just a simple example. We also have many related scenarios like this, bu
 
 *Note that I will approach the problem by using PostgreSQL, so every concept in this article should be biased toward this database. Different databases can be implemented in different ways with different concepts and names, but under the hood, they should be similar.*
 
-# Firstly, what is the Explicit Locking in the Database?
+## Firstly, what is the Explicit Locking in the Database?
 
 Database locking is one of the most common mechanisms that helps us achieve concurrency control in a database by preventing multiple transactions from accessing the same data simultaneously. The first thing that we need to explore is the types of locking in SQL databases.
 
@@ -142,7 +142,7 @@ In the implementation, advisory locks try to acquire an `EXCLUSIVE` lock on a sp
 
 We're good to move on to the next part, where we'll discuss the actual problem.
 
-# Why do we need these locks, and how can we choose the right type of lock?
+## Why do we need these locks, and how can we choose the right type of lock?
 
 **Firstly, we continue with the problem that is raised at the beginning of this post.**
 
@@ -217,7 +217,7 @@ SELECT process_message(123);
 
 In general, advisory locks should be used sparingly and only when necessary. They can add complexity to the application code and can also be a source of contention and performance issues if not used correctly.
 
-# Conclusion
+## Conclusion
 
 Explicit locking is the most accessible way to resolve concurrency control in high-workload databases. Depending on the context of your application or feature, you can choose the proper type/level of database locking to avoid data conflicts, considering the pros and cons. However, this is not the only option. You can also choose other methods, such as implementing a queue or a separate service that divides and rules every request to your database. I hope this post helps you choose the right way to implement your application in the future.
 

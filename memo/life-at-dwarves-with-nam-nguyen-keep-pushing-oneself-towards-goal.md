@@ -1,16 +1,17 @@
 ---
-tags: 
-  - dwarves
+tags:
+  - people
+  - life
 title: Life At Dwarves With Nam Nguyen Keep Pushing Oneself Towards Goal
 date: 2022-08-16
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2022-08-16
 created: 2022-08-16
 ---
@@ -23,7 +24,7 @@ created: 2022-08-16
 
 <!-- column f241ce1a-3e14-4bbd-8358-ad37127d07ad -->
 
-<span style='color:red'>**Life at Dwarves #5**</span> là câu chuyện về Nam Nguyễn và hành trình hơn 5 năm gắn bó với Dwarves. Sau khi hoàn thành Cao Đẳng, Nam làm ở một công ty offshore của Nhật Bản với vị trí Fullstack Engineer. Sau khi quyết định nghỉ việc tại công ty cũ để tập trung cho tấm bằng Đại học, Nam gia nhập Dwarves, và trở thành một trong những contributor lâu nhất tại tech firm này.
+**Life at Dwarves #5** là câu chuyện về Nam Nguyễn và hành trình hơn 5 năm gắn bó với Dwarves. Sau khi hoàn thành Cao Đẳng, Nam làm ở một công ty offshore của Nhật Bản với vị trí Fullstack Engineer. Sau khi quyết định nghỉ việc tại công ty cũ để tập trung cho tấm bằng Đại học, Nam gia nhập Dwarves, và trở thành một trong những contributor lâu nhất tại tech firm này.
 
 Với Nam, “được trải nghiệm nhiều điều mới lạ” luôn là châm ngôn sống. Đúng như lối sống của Nam, anh luôn thử thách bản thân mình trong suốt thời gian tại Dwarves. 
 
@@ -34,9 +35,9 @@ Với Nam, “được trải nghiệm nhiều điều mới lạ” luôn là c
 Từ Frontend cho đến QC và giờ đây là Backend cùng với DevOps, Nam chưa bao giờ cho bản thân mình ngừng học hỏi.
 
 
-📌 <span style='color:red'>***Chu kỳ thay đổi và trưởng thành sẽ cần nỗ lực chấp nhận bản thân và bứt ra vùng an toàn để cải thiện những điểm chưa hoàn thiện của mình. ***</span>
+📌 ***Chu kỳ thay đổi và trưởng thành sẽ cần nỗ lực chấp nhận bản thân và bứt ra vùng an toàn để cải thiện những điểm chưa hoàn thiện của mình. ***
 
-### <span style='color:red'>**Cơ duyên với Dwarves.**</span>
+## **Cơ duyên với Dwarves.**
 
 ---
 
@@ -45,7 +46,7 @@ Từ Frontend cho đến QC và giờ đây là Backend cùng với DevOps, Nam 
 Sau khoảng 4 tháng part-time, anh chính thức chuyển sang vị trí Frontend Engineer ở Dwarves. Công ty lúc đó chưa có QC, anh Huy Tiêu vừa join team và trở thành Lead Team của anh. Anh được thử sức ở cả bốn vị trí Frontend, QC, Backend và Devops. Một trải nghiệm cực đáng nhớ với anh. Tới khi tham gia project Aharooms vào khoảng 2020, anh mới không đảm nhiệm nhiều vị trí nữa mà tập trung vào vai trò chính là một Backend Engineer.”
 
 
-### <span style='color:red'>Thử thách để hoàn thiện. </span>
+## Thử thách để hoàn thiện. 
 
 ---
 
@@ -68,7 +69,7 @@ Nên anh quyết định tham gia GopherCon 2018, 2019. Ngoài việc làm event
 Hồi đấy anh còn là một trong những thành viên trẻ nhất trong team. Một phần động lực của anh lúc đó chính là các thành viên của Dwarves - Mọi người rất giỏi kỹ năng mềm. Tham gia tổ chức sự kiện cho cộng đồng là cách anh rèn luyện & chủ động học hỏi để hoàn thiện mình.”
 
 
-### <span style='color:red'>Phấn đấu</span><span style='color:red'>** 200% mỗi ngày.**</span>
+## Phấn đấu 200% mỗi ngày.
 
 ---
 
@@ -99,21 +100,22 @@ Dwarves Team ♡
 ## ENGLISH VERSION
 
 
-📌 <span style='color:red'>***The process of transformation and progress will never be easy, but you need it for a better version.***</span>
+📌 ***The process of transformation and progress will never be easy, but you need it for a better version.***
 
 
-<span style='color:red'>**Life at Dwarves #5**</span> is the career story of Nam, the Dwarves's DevOps Engineer. During 6 years turning from big corp to Dwarves Team, he lives upon the motto of constantly pushing himself above the limit. Listening to his sharing, we hope you might feel like we do, that Nam has always been and will be the key player who would strive to deliver his best.
+**Life at Dwarves #5** is the career story of Nam, the Dwarves's DevOps Engineer. During 6 years turning from big corp to Dwarves Team, he lives upon the motto of constantly pushing himself above the limit. Listening to his sharing, we hope you might feel like we do, that Nam has always been and will be the key player who would strive to deliver his best.
 
 
-### <span style='color:red'>Joining </span><span style='color:red'>**Dwarves? A roller coaster ride.**</span>
+## Joining Dwarves? A roller coaster ride.
+---
 
 "2017 marked my first milestone with Dwarves. One of my friends asked me if I wanted to be part of a team that worked on cool projects and surrounded by like-minded peeps. I said yes, without a second thought. Looking back now, it must have been fate. Because my 2017 version was still figuring out how to finish the university degree. Joining any firm as a full-time job can't be the right move.
 
 I became a full-time FE after 4 months of part-time work. Dwarves didn't have any QC at that time besides Huy Tieu, and he became my mentor soon after that. I have worked in various engineering aspects, from Frontend to QC, Backend to DevOps. Until I joined Aharooms, where I finally decided to act as a Backend Engineer."
 
 
-### <span style='color:red'>Define. Grow. Complete.</span>
-
+## Define. Grow. Complete.
+---
 "The peers my age tend to throw themselves into gym, movies or dining after work to blow off some steam. And they do that on a schedule. A schedule that I refuse to follow, mostly because I'm used to living as someone who prefers to do things alone. I find it hard to confine myself to meeting the same people, and doing the same thing on a specific timeline.
 
 2019 was when I finally let myself try out new things in different settings. Staying at home too long shrinks my comfort zone, so I need to push myself out of it. That's when I signed up for GopherCon 2018 & 2019. The goal was not only to do another team thing but it also to observe and understand how a well-organized event works from A to Z.
@@ -133,8 +135,8 @@ By that time, I was still one of the team's youngest members. So part of the mot
 ![[18818c254d28a247aa45f57bfcffb86c_MD5.webp]]
 
 
-### <span style='color:red'>**The 200% motto.**</span>
-
+## **The 200% motto.**
+---
 "My trait of having an eye for details sometimes leads to slower productivity. Thus, I'm still today-year-old thriving to optimize it. While I was still working on Aharooms, staying up working until 1 or 2 AM was an everyday scheme. It bugs me to go to bed knowing I haven't finished the work. It's a principle to work with all I can, despite the role I'm playing as. Looking back at my 2017 version, I've always been amazed by what has been learned and changed.
 
 Last July rounded up my 5th year as a Dwarves. It was one hell of a roller coaster ride. I play by a motto where I'm down to perform at a 200% effort. I guess that motto layers my success at Open Fabric, a recently-wrapped up project where the teammates and the Project Lead himself endorsed me for being an absolute rock star. It's hard to describe the feeling, but 'proud' would be the right word.

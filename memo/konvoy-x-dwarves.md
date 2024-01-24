@@ -1,16 +1,17 @@
 ---
-tags: 
-  - case study
+tags:
+  - case-study
+  - service
 title: Konvoy X Dwarves
 date: 2023-09-14
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2023-09-14
 created: 2023-09-14
 ---
@@ -24,7 +25,7 @@ created: 2023-09-14
 
 <!-- column 8b465a34-968b-4d23-9c98-4f454640bc90 -->
 
-**Industry: **
+**Industry:**
 
 Logistics, Supply Chain Management
 
@@ -32,7 +33,7 @@ Logistics, Supply Chain Management
 
 Australia, 
 
-**Business Context: **
+**Business Context:**
 
 An innovative company providing beverage industry with a unique keg rental solution, emphasizing sustainability and ease of use.
 
@@ -73,7 +74,7 @@ Driven by its mission to track every keg's location, Konvoy reduces losses and b
 ---
 
 
-### Technology Stack
+## Technology Stack
 
 The deployed technology stack includes the following major components:
 
@@ -89,7 +90,7 @@ In a nutshell, this technology stack bestowed Konvoy with a resilient, cost-effe
 
 ---
 
-### Achievements
+## Achievements
 
 The strategic collaboration between **Dwarves Foundation** and **Konvoy** has resulted in remarkable achievements over two years:
 

@@ -1,17 +1,18 @@
 ---
-tags: 
+tags:
   - engineering
   - backend
+  - blockchain
 title: Lessons Learned From Concurrency Practices In Blockchain Projects
 date: 2023-04-17
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2023-04-17
 created: 2023-04-17
 ---

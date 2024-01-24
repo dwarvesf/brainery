@@ -1,26 +1,25 @@
 ---
-tags: 
-  - case study
+tags:
+  - case-study
+  - service
 title: Open Fabric Set The Tech Foundation And Built An Mvp From Scratch
 date: 2022-09-28
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2022-08-05
 created: 2022-09-28
 ---
-
 ![[34964aa39f1e63930a9b8c2104aa26cb_MD5.webp]]
 
 Founded and led by veterans from fintech players like Paypal & Grab, **[Open Fabric](https://openfabric.co/)** is a BNPL platform, built to enable an open commerce network for customers and credit providers in South East Asia to radically simplify merchant integrations for digital payment methods. 
 
 With a team of 8 engineers, Dwarves helped set the tech foundation and together built an MVP from scratch. Within a year, Dwarves helped ship the system to onboard and configure payment methods for companies to the Open Fabric commerce network.
-
 
 
 <!-- column_list 2ca6bb01-6d0c-4376-aa5b-b843392fe1ad -->
@@ -75,9 +74,9 @@ These business requirements require the following technical challenges to be sol
 
 At the same time, we also need to tackle the challenge which most startups encounter during their early stage: having a tech team skilled and experienced enough to align product development with business roadmap.
 
-# The Solutions
+## The Solutions
 
-## Rapid Team Scaling Solution
+### Rapid Team Scaling Solution
 
 The key to this collaboration is to provide OpenFabric with engineers who are highly skilled in both coding skills and solutions design skills. In a span of 2 weeks, Dwarves managed to deploy 3 engineers meeting the required skills. 
 
@@ -155,10 +154,10 @@ We deploy our system to Amazon Web Service Cloud and keep them there. The overal
 
 ## Deployment
 
-Open Fabric runtime is divided into 4 separate environments. This helps members develop the best technical solutions and resolve issues quickly, while only exposing new releases to users. We use Docker to compose our environments. Additionally, we use the **Sam CLI **(Command line interface) tool to invoke a lambda function in the local environment.
+Open Fabric runtime is divided into 4 separate environments. This helps members develop the best technical solutions and resolve issues quickly, while only exposing new releases to users. We use Docker to compose our environments. Additionally, we use the **Sam CLI** (Command line interface) tool to invoke a lambda function in the local environment.
 
 * **Local development**: This refers to local machines where we write code; any changes to product can be tested with minimal delay.
-* **Develop** environment** **builds the product and runs all automated tests for any and all changes in the codebase. Failures are reported immediately, with CI configured to run end-to-end and integration tests.
+* **Develop environment** builds the product and runs all automated tests for any and all changes in the codebase. Failures are reported immediately, with CI configured to run end-to-end and integration tests.
 * **Sandbox** is set up exactly like production. Changes to the production environment will not be accepted before rehearsing deployment here. Any mysterious production issues will also be debugged here.
 * **Production**: The big iron. This environment is fully logged, monitored, managed periodically, squared away, and secured.
 
@@ -168,7 +167,7 @@ For the deployment process, we apply a few practices to make remote collaboratio
 
 * **Gitflow**: We use Github to store all of our source code. There is only one eternal branch called the **main**. All other branches (feature, release, fix) are temporary and ephemeral and is only used for convenience to share code with other developers and as a backup measure.
 * **Feature** **Pull Requests**: A feature in a micro-service architecture can affect other services. A minor change in the **master** data service can implicitly make another change from the **transaction** service. The operational flow is to make changes to the API definition first, before submitting changes and waiting for approval and clearance to merge all pull requests in a given instance.
-* **Code Review: **Pull Requests are a great way to start a feature conversation. It gives us a chance to think through the solution without the overhead of changing code every time we change our minds about how something should be organized. The team can also comment on the feature as it evolves, instead of providing all their feedback at the very end.
+* **Code Review:** Pull Requests are a great way to start a feature conversation. It gives us a chance to think through the solution without the overhead of changing code every time we change our minds about how something should be organized. The team can also comment on the feature as it evolves, instead of providing all their feedback at the very end.
 * **Release branches**: Using git-flow, when the code is merged to master or when a new tag is pushed, it will trigger the deployment process to automate steps in building, verifying, and deploying the application.
 
 There are 2 releases in the sprint: a production release in the middle of the sprint (from changes in the previous sprint), and a sandbox release at the end of the sprint. QA has a week to test the release in the sandbox environment. The version in Production will always older than the Sandbox.
@@ -177,7 +176,7 @@ There are 2 releases in the sprint: a production release in the middle of the sp
 
 This allows us to always verify a bug fix/patch in the lower environment before moving it to production, and avoid the situation of reintroducing the bug because we forget to put the fix back into the main branch.
 
-# The Outcome
+## The Outcome
 
 Together with the Dwarves team, we were able to release essential services that became the foundation of the system. This included the master central configuration service and portals (TSP and OSP) that connects the whole payment gateway system.
 

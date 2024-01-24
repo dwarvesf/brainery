@@ -1,16 +1,17 @@
 ---
-tags: 
+tags:
   - process
+  - team
 title: Making Decision As A Team Member
 date: 2021-07-12
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-02-22
 created: 2021-07-12
 ---

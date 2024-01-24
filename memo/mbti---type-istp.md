@@ -1,24 +1,24 @@
 ---
-tags: 
+tags:
   - mbti
   - ISTP
 title: Mbti Type Istp
 date: 2021-07-25
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-26
 created: 2021-07-25
 ---
 
 <!-- table_of_contents af4c6894-9d3d-420d-b4a8-0b28622aa2a6 -->
 
-### Preferred Work Environment
+## Preferred Work Environment
 
 * Needs a more practical environment, where they can master skills and do things and see tangible results.
 * Need variety and the opportunity to dip in and out of activities.
@@ -26,7 +26,7 @@ created: 2021-07-25
 
 ---
 
-### ISTP and Career Exploration
+## ISTP and Career Exploration
 
 An ISTP tends to<span style='color:red'> find career satisfaction</span> with careers that have the following characteristics:
 
@@ -48,7 +48,7 @@ When <span style='color:red'>exploring career options</span>, an ISTP will often
 
 ---
 
-### How Type Affects Career Development
+## How Type Affects Career Development
 
 During their <span style='color:red'>job search</span>, an ISTP will often
 
@@ -70,7 +70,7 @@ During their <span style='color:red'>job search</span>, an ISTP will often
 
 ---
 
-### ISTP and Work
+## ISTP and Work
 
 At work, the ISTP will often
 
@@ -104,7 +104,7 @@ At work, the ISTP should <span style='color:red'>be aware</span> that they may
 
 ---
 
-### Teamwork
+## Teamwork
 
 On a team, the ISTP will often
 
@@ -125,7 +125,7 @@ On a team, the ISTP should <span style='color:red'>be aware</span> that they may
 
 ---
 
-### Leadership
+## Leadership
 
 ISTP generally enjoy and pursue leadership positions. As a leader, the ISTP will often
 
@@ -138,7 +138,7 @@ ISTP generally enjoy and pursue leadership positions. As a leader, the ISTP will
 
 ---
 
-### Communication
+## Communication
 
 The ISTP will often
 

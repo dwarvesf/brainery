@@ -1,16 +1,17 @@
 ---
-tags: 
+tags:
   - scrum
+  - engineering
 title: Our Daily Standup Format
 date: 2018-07-23
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2018-05-07
 created: 2018-07-23
 ---

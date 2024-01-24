@@ -1,25 +1,25 @@
 ---
-tags: 
+tags:
   - devops
   - performance
   - engineering
 title: How Blue Green Deployment Helped Mochi
 date: 2023-04-03
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2023-04-03
 created: 2023-04-03
 ---
 
 *At Dwarves Foundation, our team has always faced some bit of friction when deploying apps for our clients. We’ve known about blue-green deployments for a while and were recently given the chance to evaluate and demonstrate them for one of our Discord bot projects.*
 
-# Applying Blue-green deployment for Mochi Bot
+## Applying Blue-green deployment for Mochi Bot
 
 Introducing [Mochi Bot](https://mochi.gg/) to the Web3 space, our team has developed a flexible and user-friendly product with features like NFT rarity queries, sales alerts on Discord and Twitter, and showing various tips. To enhance user experience and streamline deployment, we had the chance to implement [blue-green deployment](https://radar.d.foundation/Blue-green-deployment-a93ea5c3d4d8439ba8701aec57d7ea3c) for the Mochi Bot application. Below is our case study that evaluates the cost and practicality of this deployment strategy in our current infrastructure.
 

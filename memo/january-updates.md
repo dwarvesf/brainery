@@ -1,21 +1,23 @@
 ---
-tags: 
+tags:
   - team
+  - updates
+  - newsletter
 title: January Updates
 date: 2022-01-28
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2022-01-28
 created: 2022-01-28
 ---
 
-### **Project Highlights**
+## **Project Highlights**
 
 ---
 
@@ -28,7 +30,7 @@ We get to deploy a full team for this project, consist of 6 people, with Khai Le
 In general, we’re getting multiple upselling requests which means we need more people to join our team. Team, dig through your network and refer to us for some handsome bonus! Positions we’re hiring can be found **[HERE](http://careers.d.foundation/)**.
 
 
-### **Performance Review**
+## **Performance Review**
 
 ---
 
@@ -37,7 +39,7 @@ The team has received all of the self-review notes. Due to the volume of our tea
 The final result will be announced before March. Hope to see the good updates by then - if you know what I mean 😏
 
 
-### **Study Groups/ Brainery Clean-up**
+## **Study Groups/ Brainery Clean-up**
 
 ---
 
@@ -46,16 +48,16 @@ We’re resuming Brainery Repo in 2022. Currently, the repo is getting formatted
 The reward mechanism for presenters and knowledge crafters is also back in the game. Ops Team has begun to recollect all the notes to ensure no effort is left behind.
 
 
-### **Profit-Sharing & 13th Bonus Salary**
+## **Profit-Sharing & 13th Bonus Salary**
 
 ---
 
 All sent through Viet Nam bank & TWise. It’s a part of our culture and is applied for teammates who have joined us > 24 months. Everyone has input their hard work to keep the team moving forward. Profit-sharing is the act of we reap what we sow. 
 
-To read more on the model and other team benefits, I’ve got you the latest updates of **[Dwarves Handbook/benefit-and-perks](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md#employee-profit-sharing)**** ←**
+To read more on the model and other team benefits, I’ve got you the latest updates of **[Dwarves Handbook/benefit-and-perks](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md#employee-profit-sharing)**** ←
 
 
-### **1-way Flight Ticket Policy**
+## **1-way Flight Ticket Policy**
 
 ---
 
@@ -73,7 +75,7 @@ Who is this package for: Full-time members who have worked with the Dwarves for 
 To sign up for your first trip, please head to this form → <span style='color:yellow_background'>[https://forms.gle/SusWDKUn2KjkewBH6](https://forms.gle/SusWDKUn2KjkewBH6)</span>
 
 
-### Team Hangouts
+## Team Hangouts
 
 ---
 
@@ -85,7 +87,8 @@ Since we have peeps in HCMC, Hanoi, Danang, we can't all meet at the same place.
 * We'll try to align so teams in all locations can hang out simultaneously, at least. Facetime can also be an option. Or team airdrop.
 * Ops will refund the expense in full.
 
-### **Lunar New Year Gift-set Delivery**
+## **Lunar New Year Gift-set Delivery**
+---
 
 <!-- column_list 06c1a3cf-894e-4864-82f4-81fd21b4d85c -->
 

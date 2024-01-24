@@ -1,16 +1,18 @@
 ---
-tags: 
+tags:
   - updates
+  - team
+  - newsletter
 title: Looking Back 2019
 date: 2020-01-25
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-13
 created: 2020-01-25
 ---

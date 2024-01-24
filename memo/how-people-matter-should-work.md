@@ -1,17 +1,18 @@
 ---
-tags: 
+tags:
   - people
   - practice
+  - teamwork
 title: How People Matter Should Work
 date: 2020-06-24
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-19
 created: 2020-06-24
 ---

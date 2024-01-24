@@ -18,7 +18,7 @@ created: 2021-07-20
 
 <!-- table_of_contents aee00dbb-f163-4643-8a92-d278eefb13cb -->
 
-### Preferred Work Environment
+## Preferred Work Environment
 
 * Company where the norms are clear
 * The culture is performance driven and where there is a place for everything and everything is in its place.
@@ -28,7 +28,7 @@ created: 2021-07-20
 
 ---
 
-### ISTJ and Career Exploration
+## ISTJ and Career Exploration
 
 An ISTJ tends to <span style='color:red'>find career satisfaction</span> with careers that have the following characteristics:
 
@@ -52,7 +52,7 @@ When <span style='color:red'>exploring career options</span>, an ISTJ will often
 
 ---
 
-### How Type Affects Career Development
+## How Type Affects Career Development
 
 During their <span style='color:red'>job search</span>, an ISTJ will often
 
@@ -70,7 +70,7 @@ During their <span style='color:red'>job search</span>, an ISTJ will often
 
 ---
 
-### ISTJ and Work
+## ISTJ and Work
 
 At work, the ISTJ will often
 
@@ -99,7 +99,7 @@ At work, the ISTJ should <span style='color:red'>be aware</span> that they may
 
 ---
 
-### Teamwork
+## Teamwork
 
 On a team, the ISTJ will often
 
@@ -120,7 +120,7 @@ On a team, the ISTJ should be aware that they may
 
 ---
 
-### Leadership
+## Leadership
 
 ISTJ <span style='color:red'>generally enjoy and pursue leadership positions</span>. As a leader, the ISTJ will often…
 
@@ -132,7 +132,7 @@ ISTJ <span style='color:red'>generally enjoy and pursue leadership positions</sp
 
 ---
 
-### Communication
+## Communication
 
 The ISTJ will often
 

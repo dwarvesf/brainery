@@ -1,25 +1,27 @@
 ---
-tags: 
+tags:
   - team
+  - performance-review
+  - hiring
 title: Passing The Probation Get 3 Upvotes
 date: 2022-08-26
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: hiring
 hide_frontmatter: false
 author: Han 🐸
 created_time: 2022-08-26
 created: 2022-08-26
 ---
 
-## <span style='color:red'>The talent pool</span>
+## The talent pool
 
 Dwarves are backed by the talent pool. We’re selective for those that are in the funnel. Like-minded people and their unique values stay above everything. Therefore, we run a significant adjustment on the admission principle: To pass the probation means the current Dwarves accept you.
 
-## <span style='color:red'>The 3 out of 4 principle</span>
+## The 3 out of 4 principle
 
 We’re divided into 4 kinds of association:
 
@@ -30,7 +32,7 @@ We’re divided into 4 kinds of association:
 
 When the time comes, we will require you to submit the 3 upvotes/ reviews from these mentioned kinds. By having this, you’re stepping into the door of becoming a Dwarves. It requires you to get along with your peers, knowing you are both running toward the mutual target, and working on the engine of innovation.
 
-More to be found at: <span style='color:red'>**[The Second Period](https://github.com/dwarvesf/handbook/blob/master/routine.md#the-second-period)**</span><span style='color:red'>.</span>
+More to be found at: [The Second Period](https://github.com/dwarvesf/handbook/blob/master/routine.md#the-second-period)
 
 <!-- column_list bcd75248-0159-43c2-b441-b28163331313 -->
 

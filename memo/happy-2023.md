@@ -1,14 +1,16 @@
 ---
-tags: 
-  - dwarves
+tags:
+  - newsletter
+  - team
+  - people
 title: Happy 2023
 date: 2023-01-22
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
 author: Han 🐸
 created_time: 2023-01-21

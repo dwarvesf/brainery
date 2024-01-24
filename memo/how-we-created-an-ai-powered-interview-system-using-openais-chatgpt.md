@@ -23,7 +23,7 @@ created: 2023-05-29
 ![[7fbe880aa3a51713c213dc3db6043fc7_MD5.webp]]
 
 
-### <span style='color:blue'>The Idea</span>
+## The Idea
 
 ---
 
@@ -31,14 +31,14 @@ While ChatGPT has garnered a lot of attention over the last few months, Ngoc Tha
 
 The concept of InterviewGPT revolves around leveraging AI to create a website that assists engineers in interview preparation with minimal or no human involvement. Throughout the interview, candidates respond to each question, and the system uses InterviewGPT to evaluate the responses and generate follow-up questions to further assess the candidate's abilities.
 
-### <span style='color:blue'>**Key features**</span>
+## Key features
 
 ---
 
 * The product is based on AgentGPT and works on the browser, allowing users to access and use it across multiple platforms.
 * The ChatGPT-based interview system interacts with users, responds to questions, requests, and feedback in a natural manner. It can respond to and process user requests in real-time, providing an experience similar to face-to-face interviews. 
 
-### <span style='color:blue'>**Technical implementation**</span>
+## Technical implementation
 
 ---
 
@@ -59,11 +59,7 @@ Overall, the automated interview system, driven by ChatGPT, offers significant c
 ---
 
 🚀 Try InterviewGPT now: [https://interviewgpt.netlify.app/](https://interviewgpt.netlify.app/)
-
 📩 Be a friend with us: http://discord.gg/dwarvesv
-
 📍Discover our journey: [memo.d.foundation](http://memo.d.foundation/) 
-
 📍Join us to work with awesome people on awesome products: [https://careers.d.foundation/](https://careers.d.foundation/) 
-
 ⚒️ Come and build with us: [https://dwarves.foundation/](https://dwarves.foundation/)

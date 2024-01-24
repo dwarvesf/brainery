@@ -22,7 +22,7 @@ As I was looking for inspiration on Awwwards, I came across this beautiful littl
 
 The infinite gallery fascinated me, and I wondered if I could re-implement the gallery-part with [react-three-fiber](https://github.com/react-spring/react-three-fiber). After some experiment & fumbling around, I was able to put out a small “demo-able” app:
 
-**[DEMO](https://nnl-infinite-image-gallery.netlify.app/)****.**
+**[DEMO](https://nnl-infinite-image-gallery.netlify.app/)****.
 
 It was a fun & challenging project, and I want to share my approach with you in this small memo. I’ll write about what I think are the two core problems we’d need to solve to make an infinite gallery possible:
 
@@ -88,7 +88,6 @@ After the position update, we will also update the 9 grids’ order: re-calculat
 1. Keep tracking the center point, rinse & repeat!
 
 Using the above-mentioned logic, we can make sure that the user is always looking at the center grid, and the boundary grids that surround it will always be updated to follow the user’s “look-at” position. This will create a feeling that the gallery is infinite, while in fact, there are only 9 grids moving around.
-
 
 ## Handle mouse events (create WebGL effects)
 

@@ -1,25 +1,26 @@
 ---
-tags: 
-  - case study
+tags:
   - blockchain
   - crypto
+  - case-study
+  - service
 title: Hedge Foundation A Customized All In One Trading Platform For Pro Traders
 date: 2022-06-17
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2022-06-17
 created: 2022-06-17
 ---
 
 ![[7a9cdd9e9da725426a2859509b94f1d3_MD5.webp]]
 
-### <span style='color:purple'>In brief</span>
+## In brief
 
 ---
 
@@ -28,7 +29,7 @@ created: 2022-06-17
 Move alongside the crypto era, Hedge Foundation works to be part of the industry by providing practical tools for crypto users in terms of automating, syncing & managing accounts by utilizing the most out of market database.
 
 
-### <span style='color:purple'>**Technical Highlight**</span>
+## Technical Highlight
 
 ---
 
@@ -43,8 +44,7 @@ Move alongside the crypto era, Hedge Foundation works to be part of the industry
 ![[e498a5a3ab250c4dc8a24a8c1a813cb9_MD5.webp]]
 
 
-### <span style='color:purple'>The Context</span>
-
+## The Context
 ---
 
 Hedge Foundation's founder has a unique strategy to trade on centralized exchange platforms. His work revolves around keeping track of multiple accounts at once, conducts a huge daily trading volume and interacts with many tools to touch all the data he needs.
@@ -70,7 +70,7 @@ He visioned Hedge Foundation as the all-in-one managing system for crypto accoun
 ![[a756b023d1f2b51e9426c70b4993f8e2_MD5.webp]]
 
 
-### <span style='color:purple'>Engagement Model</span>
+## Engagement Model
 
 ---
 
@@ -82,7 +82,7 @@ We picked Elixir for its fast, stable, and scalability potential. The data syste
 
 <!-- column e9132bfe-3d46-4d56-a8fd-2552d00f2559 -->
 
-<span style='color:purple'>**Tech stacks**</span>
+**Tech stacks**
 We optimize big data SQL query with for query, view and index.
 
 * Backend: Elixir & Phoenix framework
@@ -93,18 +93,17 @@ We optimize big data SQL query with for query, view and index.
 
 <!-- column 3477e796-a981-433c-8ff2-812adb46d1d8 -->
 
-<span style='color:purple'>**Collaboration**</span>
+**Collaboration**
 
 We spend the Saturday for product & development progress discussion. This also lays out what’s next to do. 
-
 Daily stand-ups are meant to sync and resolve problems incurred
 
-<span style='color:purple'>**Delivery tooling**</span>
+**Delivery tooling**
 
 * Discussion: Discord
 * Task management: Basecamp, GitHub
 
-### <span style='color:purple'>Outcome</span>
+## Outcome
 
 ---
 
@@ -120,7 +119,6 @@ The feature list is gradually checked up. Hedge Foundation has met all the premi
 
 
 ---
-
 
 Dwarves Foundation is a team of design and development experts working closely with clients to craft software, build tech teams, and invest in people who create world's next favorite things.
 

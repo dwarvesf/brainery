@@ -25,7 +25,7 @@ In today's digital world, the exchange of information between different systems 
 
 Without message brokers, communication between systems and applications would be much more difficult. They provide a common language that different systems can use to communicate with each other, regardless of the programming language or the hardware used. They also help to ensure that messages are delivered in the correct order, and can handle large volumes of messages without overwhelming the system.
 
-# What is a Message Broker?
+## What is a Message Broker?
 
 **A** **Message broker** is an intermediary program designed to validate, transform, and route messages. They serve the communication needs between applications.
 
@@ -41,7 +41,7 @@ There are 2 basic forms of communication with a Message Broker:
 
 ![[56d936f810e3423ac48427e1d7ca3f64_MD5.webp]]
 
-# When and why to use Message Broker
+## When and why to use Message Broker
 
 Message brokers are versatile tools that can address a wide range of business needs across industries and in a variety of enterprise computing environments.
 

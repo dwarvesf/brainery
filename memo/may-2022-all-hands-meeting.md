@@ -1,55 +1,56 @@
 ---
-tags: 
-  - dwarves
+tags:
   - team
+  - newsletter
+  - community
 title: May 2022 All Hands Meeting
 date: 2022-05-31
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: newsletter
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2022-06-06
 created: 2022-05-31
 ---
 
-## <span style='color:green'>FOUNDATION</span> 
+## FOUNDATION
 
 ---
 
-### <span style='color:green'>**Project Allocation**</span>
+### Project Allocation
 
 We concluded the partnership with Relay and Eklipse. It has been a fun (and wild) ride for some of you. New resources are being allocated to help balance the current workload of active projects. If you need to discuss your workload or seek more room for project work, please help ping Giang or Nikki.
 
-### <span style='color:green'>**Our view on Blockchain**</span>
+### **Our view on Blockchain**
 
 Got a quick chat with Ngoc Thanh, our Sr. Blockchain Engineer and his perception of blockchain at [memo.d.foundation/DF-Apprenticeship-2022-Meet-The-Mentors-Ngoc-Thanh-Pham-a6f8c3c7d4a14bd5be55d6465b9f330b](https://memo.d.foundation/DF-Apprenticeship-2022-Meet-The-Mentors-Ngoc-Thanh-Pham-a6f8c3c7d4a14bd5be55d6465b9f330b).
 
 Blockchain is taking shape in how we run the team. Peeps, please help update your insights if you haven’t. We have study groups and discussion channels. Peeps who are familiar, we’d be glad if you could share what you’ve learned to the rest of us.
 
 
-## <span style='color:green'>GROWTH</span>
+## GROWTH
 
 ---
 
-### <span style='color:green'>**Kicking off Apprenticeship Training**</span>
+### **Kicking off Apprenticeship Training**
 
 Training phase got kicked off last week with 7 new Apprentices. To keep up with the latest session, check out that Event button in Discord space and click ‘**Interested**’ on what you prefer. More room is still in need of improvements, but we’re following the right track.
 
-### <span style='color:green'>**Onboarding new Interns**</span>
+### **Onboarding new Interns**
 
 We got 4 new Interns from Bach Khoa this summer. They’re all excited to pick up new workflow and work with mentors. Can see the real progress happening through their daily updates. 
 
-### <span style='color:green'>**Data Team Form-up**</span>
+### **Data Team Form-up**
 
 Another direction besides blockchain? Data. Tom and Dung are the first members to take care of this. Data is becoming more and more critical to how we shape businesses. Having teammates with thorough insights on this will support us to go further.
 
 Ping Tom if you want to be part of the squad. And stay tuned for Dung’s first sharing on **Apache Spark**, coming this **[Jun 06 - 5PM](https://discord.com/events/462663954813157376/983032897567084634)**.
 
-### <span style='color:green'>**Revisit the Radio Talks**</span>
+### **Revisit the Radio Talks**
 
 Highlights will be summarized and shared through Memo to those who want to keep up
 
@@ -62,12 +63,11 @@ Feels more like listening? Pay a visit to **[Dwarves Youtube](http://www.youtube
 ![[68bd765a75c1591b2074d672d1d123e5_MD5.webp]]
 
 
-## <span style='color:green'>TEAM</span>
+## TEAM
 
 ---
 
-### <span style='color:green'>**Dalat Office**</span>
-
+### **Dalat Office**
 <!-- column_list 306d318e-c71f-4304-8eb2-44564b25e219 -->
 
 <!-- column 83be563e-c23b-41e6-9dbc-077eb4ffa0bc -->
@@ -92,7 +92,7 @@ The balcony was also retouched. And hear us out, standing desks will be a thing 
 ![[c8dfb110e429e31cac8a2066dfb56046_MD5.webp]]
 
 
-## <span style='color:green'>COMING UP NEXT</span>
+## COMING UP NEXT
 
 ---
 

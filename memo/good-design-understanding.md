@@ -1,16 +1,19 @@
 ---
-tags: 
+tags:
   - design
+  - design-thinking
+  - user-experience
+  - ux
 title: Good Design Understanding
 date: 2018-04-02
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-26
 created: 2018-04-02
 ---
@@ -182,3 +185,27 @@ Consistency is a key principle in life and in design. Without it we can’t get 
 Benefits of consistency:
 
 * Users will learn faster how to use your design
+* Consistency eliminates confusion!
+- Consistency saves money and time!
+
+**Visual consistency**
+
+Similar elements that are perceived the same way make up the visual consistency. **It increases learnability of the product.** Fonts, sizes, buttons, labeling and similar need to be consistent across the product to keep visual consistency.
+
+**Voice and Tone**
+
+The language and tone you use throughout the user flow influences how your user perceives the product. Keep the voice and tone consistent so it feels as one voice speaking to the user.
+
+**Use familiar patterns**
+
+People who will be using our designs be it digital or not, have been around for some time. This means they have experienced and learned other designs, and know the patterns used in them.
+
+## Reference
+
+- [uxpin_the_23-point_ux_design_checklist.pdf](https://www.notion.so/d470ff65dcd0495b9fabf3f64bdcd4df?pvs=21)
+- Pixel Perfect Precision - [http://cdn.ustwo.com/PPP/PP3.pdf](http://cdn.ustwo.com/PPP/PP3.pdf)
+- More Than Usability: The Four Elements of User Experience
+    - Part I: [https://www.uxmatters.com/mt/archives/2012/04/more-than-usability-the-four-elements-of-user-experience-part-i.php](https://www.uxmatters.com/mt/archives/2012/04/more-than-usability-the-four-elements-of-user-experience-part-i.php)
+    - Part II: [https://www.uxmatters.com/mt/archives/2012/08/more-than-usability-the-four-elements-of-user-experience-part-ii.php](https://www.uxmatters.com/mt/archives/2012/08/more-than-usability-the-four-elements-of-user-experience-part-ii.php)
+    - Part III: [https://www.uxmatters.com/mt/archives/2013/03/more-than-usability-the-four-elements-of-user-experience-part-iii.php](https://www.uxmatters.com/mt/archives/2013/03/more-than-usability-the-four-elements-of-user-experience-part-iii.php)
+    - Part IV: [https://www.uxmatters.com/mt/archives/2013/11/more-than-usability-the-four-elements-of-user-experience-part-iv.php](https://www.uxmatters.com/mt/archives/2013/11/more-than-usability-the-four-elements-of-user-experience-part-iv.php)

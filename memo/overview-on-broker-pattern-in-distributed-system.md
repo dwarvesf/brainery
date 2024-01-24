@@ -15,11 +15,11 @@ created_time: 2021-07-20
 created: 2019-08-24
 ---
 
-# Definition
+## Definition
 
 The broker pattern is an architectural pattern that can be used to structure distributed software systems with decoupled components that interact by remote procedure calls. A broker component is responsible for coordinating communication, such as forwarding requests, as well as for transmitting results and exceptions.
 
-# Component
+## Component
 
 1. Clients: implements user functionality, send requests to server through a client-side proxy
 1. Server: Implements services, registers itself with the local broker, send responses and exceptions back the client through a server-side proxy
@@ -30,12 +30,12 @@ The broker pattern is an architectural pattern that can be used to structure dis
 
 ![[e4d47aa7182bbec713b6dc4f858fb1dd_MD5.webp]]
 
-# The role of Broker Patter
+## The role of Broker Patter
 
 * Our system need to be dynamically removing or adding new agent(server, client)
 * The agents in our system need the ability to be independent of each other( scalable, partition functionality into independent agents)
 
-# The ability of Broker Pattern
+## The ability of Broker Pattern
 
 In the decoupled behavior, Broker acts like an interface, when a new server was adding on the system, it just like add a new object, and the only thing we need to do is to register the new server with Broker.
 

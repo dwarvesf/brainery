@@ -17,7 +17,7 @@ created: 2019-06-09
 
 Istio is an implementation of the Service mesh architecture, which is a network of microservices that interactive with each other to form an application. Besides Istio, there are several concept applying service mesh architecture such as Linkerd, Consul.
 
-# Service mesh vs API gateway
+## Service mesh vs API gateway
 
 Service mesh has been really a hot term recently, comparing to another microservice architecture, **API gateway**, which is considered simpler and a more mature solution. Therefore before digging into Istio, it is necessary to have a comparison between Service mesh and API gateway, to find out the pros/cons and the use case of each architecture, thus have a better overview for Istio.
 
@@ -40,7 +40,7 @@ The key objective API Gateway is to expose microservices as managed API. API Gat
 * Although they can be scalable, they still require a single point to register new APIs or change configuration
 * From an organizational perspective, they are likely to be maintained by a single team
 
-### **Service Mesh**
+## **Service Mesh**
 
 Unlike API Gateways, Service meshes are focus on decentralized and self-organizing networks between microservices. that handle load balancing, service discovery, health checks, monitoring, and tracing. The mesh work by attaching small agents container, also known as "sidecar" alongside with every instance that manipulate the inbound/outbound traffic and handles instance registration, metric collection, and tracing. Istio, Linkerd are the most known service meshes.
 
@@ -60,11 +60,11 @@ Unlike API Gateways, Service meshes are focus on decentralized and self-organizi
 * It requires the deployment of a separate traffic manager, a telemetry gatherer, a certificate manager and a sidecar process for each instance.
 * They are still young, and need a lot more of development to be fully ready for a production grade microservice network.
 
-# A nutshell
+## A nutshell
 
 It’s easy to see that both API Gateway and Service mesh have the strength that each other misses, so many developers agree that the best practice for microservices network are combining both of them. Istio is the very first pioneer in this approach, making it the worthiest architecture in the world, that’s why it is backed by many engineers from tech giants like Google, IBM and Redhat.
 
-# What leads to Istio
+## What leads to Istio
 
 Let's begin with Kubernetes - the famous container orchestration platforms To make a microservices network, k8s basically run these 3 entities:
 
@@ -97,7 +97,7 @@ Our system's network now becomes more under controlled:
 
 ![[5ad7aeee9b729f36ab6d6a0cb8c33acc_MD5.webp]]
 
-# Istio Architecture
+## Istio Architecture
 
 ## Envoy
 
@@ -146,7 +146,7 @@ Citadel enables strong service-to-service and end-user authentication with built
 
 Galley is Istio’s configuration validation, ingestion, processing and distribution component. It is responsible for insulating the rest of the Istio components from the details of obtaining user configuration from the underlying platform (e.g. Kubernetes).
 
-# References
+## References
 
 * Book: Istio In Action - Christian Posta
 * Istio docs: [https://istio.io/docs/concepts/what-is-istio/](https://istio.io/docs/concepts/what-is-istio/)

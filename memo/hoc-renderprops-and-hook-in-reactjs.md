@@ -1,21 +1,22 @@
 ---
-tags: 
-  - react.js
+tags:
+  - react
+  - engineering
 title: Hoc Renderprops And Hook In Reactjs
 date: 2019-04-12
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-20
 created: 2019-04-12
 ---
 
-# Introduction
+## Introduction
 
 HOC, Render-props, hook are different techniques to create reusable or composable logic in React.js.
 
@@ -108,7 +109,7 @@ view rawApp.js hosted with ❤ by GitHub
 
 This work but it’s not DRY. We gonna refactor the code with some methods above that help us write code that doesn’t violate DRY principle.
 
-## Refactor the component with Render props:
+## Refactor the component with Render props
 
 The term “[render prop](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)” refers to a technique for sharing code between React components using a prop whose value is a function.
 A component with a render prop takes a function that returns a React element and calls it instead of implementing its own render logic.
@@ -351,7 +352,7 @@ view rawApp.js hosted with ❤ by GitHub
 ```
 
 
-# Conclusion
+## Conclusion
 
 Although Hook is the best solution to reduce DRY in react.js application in mine opinion, HOC component and render props is still a viable choice in some specific or edge use case.
 

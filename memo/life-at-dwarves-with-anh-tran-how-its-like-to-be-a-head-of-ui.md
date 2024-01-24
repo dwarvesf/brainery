@@ -1,16 +1,17 @@
 ---
-tags: 
-  - dwarves
+tags:
+  - people
+  - life
 title: Life At Dwarves With Anh Tran How Its Like To Be A Head Of Ui
 date: 2022-02-25
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2022-02-25
 created: 2022-02-25
 ---

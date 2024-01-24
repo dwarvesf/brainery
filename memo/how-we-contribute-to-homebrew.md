@@ -1,21 +1,22 @@
 ---
-tags: 
+tags:
   - oss
+  - engineering
 title: How We Contribute To Homebrew
 date: 2016-03-13
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-20
 created: 2016-03-13
 ---
 
-# Homebrew
+## Homebrew
 
 Homebrew (or brew) is one of the biggest repo on Github with more than 29k stars, 14k forks and 1k watches. It was started by Max Howell in 2009 to build the missing package manager for OS X. Back to before 2009, in Mac OSX, if we wanted to install something, we had to install it via pkg files or bin files. We didn’t have anything fancy like `apt-get` in Ubuntu or `yum` in Fedora. MacPort was an only option but it was not too good. Check the very old article about it: [Homebrew, the perfect gift for command line lovers](https://www.engadget.com/2009/12/25/homebrew-the-perfect-gift-for-command-line-lovers/)
 
@@ -57,7 +58,7 @@ $ brew update
 $ brew upgrade
 ```
 
-# Contributing to Homebrew
+## Contributing to Homebrew
 
 Note: In this post, we just cover the command line or tool part of Homebrew. The example is taken from our **[glod-cli](https://github.com/dwarvesf/glod-cli)****.**
 
@@ -68,9 +69,7 @@ When you look into the repo of Homebrew, you can easily find the doc directory i
 
 Basically, when you use homebrew, it will create a separate folder on your machine. Everything usually will be installed in `/usr/local/Cellar` and all formulas was stored at `/usr/local/Library/Formula.`
 
-
 So in short, if you want to contribute a new one, you need to create a new formula in your local and submit a pull request to `https://github.com/Homebrew/homebrew.`
-
 
 ## Fork from Homebrew
 
@@ -195,7 +194,7 @@ Commit and push your changes to **YOUR** Github. Then we open the Github Repo (s
 
 We did it! You only still need the feedback from Homebrew team. You can leave your keyboard and take a cup of coffee. If everything goes well, well done boss! you have just contribute to one of the famous repo in the internet. Congratulations!
 
-# Acknowledgement
+## Acknowledgement
 
 * Our pull request: [https://github.com/Homebrew/homebrew/pull/49843](https://github.com/Homebrew/homebrew/pull/49843)
 * [glod-cli](https://github.com/dwarvesf/glod-cli): A small cli written in Go to help download music/video from multiple resources: Youtube, Vimeo, Facebook, Soundcloud … [https://github.com/dwarvesf/glod-cli](https://github.com/dwarvesf/glod-cli)

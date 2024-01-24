@@ -1,22 +1,22 @@
 ---
-tags: 
+tags:
   - devops
+  - engineering
 title: How We Setup Cicd
 date: 2021-02-16
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-20
 created: 2021-02-16
 ---
 
 Before we dig through a detailed process, let's set some grounded knowledge about the CI/CD:
-
 
 `CI` stands for continuous integration. It involves linting, testing, building, and merging developers' various code changes into a shared repository such as GitHub, Gitlab, or pushing software images to a container registry, usually multiple times per day.
 
@@ -24,7 +24,7 @@ On the other hand, `CD` refers to either continuous delivery or continuous deplo
 
 A simple way to understand the CI/CD is to take it as a process, often visualized as a pipeline, that involves some job like testing, building, ..., etc.
 
-## The overall process @ Dwarves
+## The overall process @Dwarves
 
 ![[memo/assets/how-we-setup-cicd/fa32c5b22664bf943dd7d4314b012a83_MD5.webp]]
 

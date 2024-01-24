@@ -1,16 +1,16 @@
 ---
-tags: 
+tags:
   - people
   - teamwork
   - culture
 title: Growth Is Our Universal Language
 date: 2023-02-16
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
 author: Han 🐸
 created_time: 2023-02-15

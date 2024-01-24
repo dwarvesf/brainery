@@ -1,20 +1,20 @@
 ---
-tags: 
-  - dwarves
+tags:
+  - life
+  - people
 title: Life At Dwarves With Tom Nguyen Remote Working At Dwarves
 date: 2022-03-17
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2022-03-17
 created: 2022-03-17
 ---
-
 
 
 A catch-up with Tom - our Data Lead, and hear how remote working has fit him perfectly. Tom is one of our core contributors of Dwarves Brainery, and he'll be playing as a key mentor for our upcoming Apprenticeship.
@@ -31,7 +31,7 @@ A catch-up with Tom - our Data Lead, and hear how remote working has fit him per
 ![[23e7e12588d10f00b12bc32d7b510a50_MD5.webp]]
 
 
-### <span style='color:red'>Working remotely fits me well. It keeps me from distraction.</span>
+## Working remotely fits me well. It keeps me from distraction.
 
 ---
 
@@ -39,7 +39,7 @@ A catch-up with Tom - our Data Lead, and hear how remote working has fit him per
 
 Going to the office can make you focus on your work. But it's more enjoyable at home! We still catch up through casual talks or sync up for a few minutes to ensure the work is good. The office creates a good vibe for work, but it also blocks us from having real work. We somehow can be disrupted by tedious & lengthy meetings, food ordering, or random discussions.”
 
-### <span style='color:red'>If you need suport, just tell the team.</span>
+## If you need suport, just tell the team.
 
 ---
 
@@ -55,7 +55,7 @@ Going to the office can make you focus on your work. But it's more enjoyable at 
 ![[4c39af0ca3f74b8a4f41d92a6eecadd8_MD5.webp]]
 
 
-### <span style='color:red'>Remote working can significantly benefit when you use it wisely.</span>
+## Remote working can significantly benefit when you use it wisely.
 
 ---
 

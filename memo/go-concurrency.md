@@ -15,7 +15,7 @@ created_time: 2021-07-20
 created: 2019-12-04
 ---
 
-# Golang concurrency
+## Golang concurrency
 
 When we talk about Golang, its most basic and popular characteristic is concurrency-support. Unlike other languages what is quite complex to build an concurrency system, Go concurrency primitives via Goroutines and channels make concurrent programming easy. So i am going to talk about Goroutines and similar things in other programming languages.
 

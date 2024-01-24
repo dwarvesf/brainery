@@ -1,16 +1,17 @@
 ---
-tags: 
+tags:
   - k8s
+  - engineering
 title: Kubernetes Helm 101
 date: 2019-10-30
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-20
 created: 2019-10-30
 ---
@@ -27,9 +28,9 @@ In this article, we will learn about Helm, a powerful tool that makes life worki
 * **Docker**: *a number one software to create, manage and run containers.* Most chosen for all popular *Containerization* applications today. Many large cloud solutions like Google Cloud, Amazon Web Services, Microsoft Azure are using it.
 * **Kubernetes**: *a famous open source used for container orchestration*. With the rise of *Containerization*, the management and coordination of container-based applications became complicated and difficult, making Kubernetes an effective and indispensable solution for systems using Containerization
 
-# Helm Overview
+## Helm Overview
 
-## Concepts
+### Concepts
 
 Helm has 4 basic concepts:
 
@@ -49,7 +50,7 @@ Helm has 4 basic concepts:
 
 ![[426db2b83abcad55d8b8ce46b11fa2d0_MD5.webp]]
 
-## Architecture
+### Architecture
 
 Helm has a fairly simple client-server architecture, including a CLI client and an in-cluster server running in the Kubernetes cluster:
 
@@ -60,7 +61,7 @@ Helm has a fairly simple client-server architecture, including a CLI client and 
 
 Here are some basic concepts and architectures to help you understand and grasp Helm more quickly. In the next section, we’ll take some tutorials to deep dive into Helm. Let’s do it!
 
-# Helm in Action
+## Helm in Action
 
 Before we begin, we’ll need to prepare a few things for us to be able to practice with Helm.
 
@@ -143,7 +144,7 @@ Delete the installation from Kubernetes cluster, use this command
 helm delete --purge kafka-prod
 ```
 
-# Conclusion
+## Conclusion
 
 We’ve witnessed the ecosystem around Kubernetes blossom, and new tools are appearing every day. Helm is an essential tool for DevOps and Developer using Kubernetes in their production environment. Tools like Helm are often used when considering quick deployment strategies and cost savings in operations.
 

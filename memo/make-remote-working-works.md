@@ -1,16 +1,17 @@
 ---
-tags: 
+tags:
   - remote
+  - team
 title: Make Remote Working Works
 date: 2016-01-17
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2020-03-24
 created: 2016-01-17
 ---
@@ -23,7 +24,7 @@ That brings us to the spring of 2020, aka, the Covid-19 outbreak. While many fir
 
 So here are some points that keeps us sane in remote working 
 
-* **Self-preparation. **Once, a Dwarves got freaked out because he was about to attend a meeting which he just only remembered about 10 minutes in advance. I've never seen someone with that fast typing skill my whole life. Still, the meeting went well. But sure, no one wants that kind of mini-crisis.
+* **Self-preparation.** Once, a Dwarves got freaked out because he was about to attend a meeting which he just only remembered about 10 minutes in advance. I've never seen someone with that fast typing skill my whole life. Still, the meeting went well. But sure, no one wants that kind of mini-crisis.
 * **Time.** Flexible working time has its downside. Begin a workday at any time and anywhere you wish sounds perfect until the day went by, and you are left with no shit done. Time can be tricky. Manage your own. 
 
 Pomodoro is a time-management technique that allows us to focus on 25 minutes straight, then take a short break (for 5 or 10') for coffee or small talks. After the 4th time, award ourselves with a long break to recover. 

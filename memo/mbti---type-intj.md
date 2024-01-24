@@ -1,17 +1,17 @@
 ---
-tags: 
+tags:
   - mbti
   - INTJ
 title: Mbti Type Intj
 date: 2021-07-26
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-26
 created: 2021-07-26
 ---
@@ -19,7 +19,7 @@ created: 2021-07-26
 <!-- table_of_contents af27c9f7-8c69-45d3-98d1-2bc2e8558fe5 -->
 
 
-### Preferred Work Environment
+## Preferred Work Environment
 
 * Offers opportunities to work with people who are experts in their field
 * Is on the cutting edge or innovative
@@ -29,7 +29,7 @@ created: 2021-07-26
 
 ---
 
-### How Type Affects Career Exploration
+## How Type Affects Career Exploration
 
 How you go about exploring career options will be influenced by your INTJ preferences. Your type will help you in your career exploration activities in distinct ways, just as it may present some distinct challenges for you.
 
@@ -56,7 +56,7 @@ When exploring career options, an INTJ will often
 
 ---
 
-### How Type Affects Career Development
+## How Type Affects Career Development
 
 The career development process will be influenced by INTJ preferences. Career development almost always involves coping with new demands that do not come naturally to you and often requires working and communicating with people with different preferences. At times, career change can be a beneficial stimulus to further development of your type. Type development means knowing and accepting your natural preferences and then consciously choosing to use nonpreferred preferences in certain situations when appropriate. Listed below are some typical strengths of and challenges faced by INTJs, as well as some suggestions for development.
 
@@ -82,7 +82,7 @@ During an interview, an INTJ will often
 
 ---
 
-### INTJ and Work
+## INTJ and Work
 
 At work, the INTJ will often
 
@@ -116,7 +116,7 @@ At work, the INTJ should be aware that they may
 
 ---
 
-### Teamwork
+## Teamwork
 
 On a team, the INTJ will often
 
@@ -136,7 +136,7 @@ On a team, the INTJ should be aware that they may
 
 ---
 
-### Leadership
+## Leadership
 
 An INTJ often has a natural inclination towards leadership and will often seek out these types of positions. 
 

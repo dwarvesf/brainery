@@ -18,13 +18,13 @@ created: 2021-07-24
 
 <!-- table_of_contents 891a2785-f7b5-4208-90e0-1153fddd68ae -->
 
-### Preferred Work Tasks
+## Preferred Work Tasks
 
 * Require thorough analysis
 * Practical planning and organizational skills
 * Process control and responsibility
 
-### Preferred Work Environment
+## Preferred Work Environment
 
 * Will fit best where the norms are clear
 * The culture is performance driven.
@@ -35,7 +35,7 @@ created: 2021-07-24
 
 ---
 
-### ESTJ and Career Exploration
+## ESTJ and Career Exploration
 
 An ESTJ tends to find career satisfaction with careers that have the following characteristics:
 
@@ -57,7 +57,7 @@ When exploring career options, an ESTJ will often…
 
 ---
 
-### How Type Affects Career Development
+## How Type Affects Career Development
 
 During their job search, an ESTJ will often...
 
@@ -75,7 +75,7 @@ During an interview, an ESTJ will often...
 
 ---
 
-### ESTJ and Work
+## ESTJ and Work
 
 At work, the ESTJ will often…
 
@@ -105,7 +105,7 @@ At work, the ESTJ should be aware that they may…
 
 ---
 
-### Teamwork
+## Teamwork
 
 On a team, the ESTJ will often…
 
@@ -126,7 +126,7 @@ On a team, the ESTJ should be aware that they may…
 
 ---
 
-### Leadership
+## Leadership
 
 ESTJs generally enjoy and pursue leadership positions. As a leader, the ESTJ will often…
 
@@ -141,7 +141,7 @@ ESTJs generally enjoy and pursue leadership positions. As a leader, the ESTJ wil
 
 ---
 
-### Communication
+## Communication
 
 The ESTJ will often…
 

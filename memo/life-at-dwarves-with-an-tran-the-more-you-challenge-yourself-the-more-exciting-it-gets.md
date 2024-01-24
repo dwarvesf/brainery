@@ -1,16 +1,17 @@
 ---
-tags: 
-  - dwarves
+tags:
+  - life
+  - people
 title: Life At Dwarves With An Tran The More You Challenge Yourself The More Exciting It Gets
 date: 2022-08-09
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2022-08-09
 created: 2022-08-09
 ---
