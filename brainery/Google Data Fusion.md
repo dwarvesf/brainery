@@ -10,9 +10,10 @@ tags:
   - reliability
   - CDAP
   - data-engineering
+  - data
 title: Google Data Fusion
 date: 2024-01-24
-description: 
+description: Google Data Fusion is a fully managed, cloud-native data integration service that enables users to efficiently build and manage ETL/ELT data pipelines. It is designed to streamline data engineering tasks for enterprise users and is built on top of the open-source project CDAP.
 authors:
   - mickwan1234
 menu: brainery
