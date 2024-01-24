@@ -26,6 +26,8 @@ github_id: mickwan1234
 ---
 ## Introduction
 
+![[Google Dataproc-20240124162722161.webp]]
+
 Google Dataproc is a fast and easy-to-use, fully managed cloud service for running Apache Spark and Hadoop workloads. It allows users to process and analyze large-scale data efficiently and at scale. Key features and benefits of Google Dataproc include:
 
 - **Fast and Scalable Processing**: Dataproc enables users to run Apache Spark and Hadoop workloads on Google Cloud Platform, taking advantage of its scalable infrastructure and resources.
