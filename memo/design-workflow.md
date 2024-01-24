@@ -1,16 +1,18 @@
 ---
-tags: 
+tags:
   - design
+  - user-experience
+  - design-thinking
 title: Design Workflow
 date: 2018-03-22
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-26
 created: 2018-03-22
 ---
@@ -29,7 +31,6 @@ You can create a provisional persona of potential user base on your research and
 
 ![[aad2cd76d88ab384bd09ba16793dab87_MD5.webp]]
 
-
 ## 2. Job Story & Scenario
 
 After collecting information and figuring out the above expected goals, we continue to conduct Job Stories and come up with Wire-frames.  
@@ -44,7 +45,7 @@ This is an example of a Job Story.
 
 After that, you write a scenario base on your job story.
 
-When you write a Job Story, the story need three things: ***Situation, Motivation ***and*** Outcome***. 
+When you write a Job Story, the story need three things: **Situation, Motivation and Outcome**. 
 
 Your final design should be a list of jobs to be done which help the users achieve their goals. Therefore, writing down job stories will help you know exactly what you should put in your final design for your users.
 
@@ -85,7 +86,7 @@ Next step, you draw a flowchart what is a diagram of the sequence of movements o
 
 Sketching wire-frames using pencil & paper make easier to iterate your design and get feedback. 
 
-**Here are ****[some reasons](https://www.designbetter.co/principles-of-product-design/pencils-before-pixels)**** why:**
+**Here are [some reasons](https://www.designbetter.co/principles-of-product-design/pencils-before-pixels) why**:
 
 1. *Pencils are inclusive*. They’re not just for designers—anyone can use a pencil to express their ideas clearly. The pencil is the great equalizer.
 1. *Pencils are low-fi*. Quick sketches give no impression of a complete thought, signaling to all that it’s okay to offer feedback.
@@ -100,7 +101,7 @@ We believe you already had a good taste of design so this step should mostly bas
 
 Getting to know how we humans read with digital screens and interact with computers is also helpful to build engaged users-interfaces.
 
-**Principles **
+**Principles**
 
 [https://www.smashingmagazine.com/2018/02/comprehensive-guide-ui-design/](https://www.smashingmagazine.com/2018/02/comprehensive-guide-ui-design/)
 
@@ -139,7 +140,7 @@ Getting to use your design is exciting. Waiting for it to be approved and built 
 
 Consistent is a key to good design. It might be easier for you to keep your design consistent throughout your design files. But it is not the same to developers. Building a design system or a design guideline for your design is healthy for your design and helpful for your fellow developers to keep your design's consistency on the real production app. 
 
-Delivering your design with a design system is a **MUST. **So keep that in mind in day one on designing it. 
+Delivering your design with a design system is a **MUST**. **So keep that in mind in day one on designing it**. 
 
 * **Read more** on how to create a design system based on your design using tools like Sketch or Figma. 
 

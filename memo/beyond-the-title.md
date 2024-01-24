@@ -1,17 +1,18 @@
 ---
-tags: 
+tags:
   - tips
   - productivity
+  - people
 title: Beyond The Title
 date: 2021-02-19
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-02-01
 created: 2021-02-19
 ---

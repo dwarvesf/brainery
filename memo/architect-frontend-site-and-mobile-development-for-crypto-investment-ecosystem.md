@@ -64,7 +64,7 @@ Tokenomy is our first Android project app for cryptocurrency trading platforms. 
 <!-- column 936d7164-1144-4d0d-9da1-a2d965add8f7 -->
 
 We develop the new Premium web app from scratch. We take over the Android mobile app, dive into market research to redesign the app UI.
-The app supports dark/light theme switching, data caching, and retrying failed API calls. With the fingerprint approach, the user's password is stored at <span style='color:blue'>keystore</span> - the safest system for encrypted critical data. We get to ensure privacy and no memory leak. There are 2 API versions in its backend. Our Android module was built to support both of them.
+The app supports dark/light theme switching, data caching, and retrying failed API calls. With the fingerprint approach, the user's password is stored at <span style='color:pink'>keystore</span> - the safest system for encrypted critical data. We get to ensure privacy and no memory leak. There are 2 API versions in its backend. Our Android module was built to support both of them.
 
 <!-- column b18d586a-88f6-45b9-ac9a-1c7732af2277 -->
 

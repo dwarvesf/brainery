@@ -1,17 +1,18 @@
 ---
-tags: 
+tags:
   - people
   - mbti
+  - operation
 title: Applying Myersbriggs Type Indicator In Hr
 date: 2021-07-17
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: hiring
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-13
 created: 2021-07-17
 ---
@@ -46,7 +47,6 @@ The MBTI (Myers-Briggs Type Indicator) is a framework designed to identify a per
 I — E
 
 How we interact
-
 
 ### Sensing — Intuition
 
@@ -87,7 +87,7 @@ How we deal with outer world
 
 <!-- column f67c70ea-8830-4ec3-b191-266902875972 -->
 
-### <span style='color:red'>Engineering</span>
+### Engineering
 
 <span style='color:red'>Sensing, Thinking and Judging</span>. 
 A little N — Intuition is okay. (S + T + J)
@@ -125,7 +125,7 @@ A little N — Intuition is okay. (S + T + J)
 
 <!-- column d086f079-95b0-404c-a0d7-3000da7252e2 -->
 
-### <span style='color:red'>Sales — Marketing</span>
+## Sales — Marketing
 
 <span style='color:red'>Extraverted and Feeling</span> 
 (E + F)
@@ -141,7 +141,7 @@ A little N — Intuition is okay. (S + T + J)
 
 <!-- column 12a8d3bd-acc7-462c-b701-9368d730d904 -->
 
-### <span style='color:red'>People Ops</span>
+## People Ops
 
 <span style='color:red'>Intuition and Feeling 
 </span>(N + F)

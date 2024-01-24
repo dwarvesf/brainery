@@ -1,16 +1,17 @@
 ---
-tags: 
+tags:
   - blockchain
+  - design-thinking
 title: Design System For Layer 2 Using Zk Rollup
 date: 2023-04-24
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: labs
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2023-04-24
 created: 2023-04-24
 ---

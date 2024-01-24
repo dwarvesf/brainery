@@ -1,17 +1,17 @@
 ---
-tags: 
+tags:
   - tips
   - people
 title: A Tips Of Hiring Dont
 date: 2020-07-28
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: hiring
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2020-03-26
 created: 2020-07-28
 ---

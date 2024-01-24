@@ -2,6 +2,7 @@
 tags:
   - agile
   - performance
+  - people
 title: Definition Of Done
 date: 2016-02-14
 description: 
@@ -9,7 +10,7 @@ authors:
 menu: memo
 toc: 
 notice: 
-type: 
+type: memo
 hide_frontmatter: false
 author: 
 created_time: 2021-07-23

@@ -1,16 +1,17 @@
 ---
-tags: 
-  - react.js
+tags:
+  - frontend
+  - guideline
 title: Different Ways To Test React Application
 date: 2019-06-06
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-20
 created: 2019-06-06
 ---

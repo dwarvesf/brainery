@@ -1,16 +1,16 @@
 ---
-tags: 
+tags:
   - wasm
 title: A Quick Intro To Webassembly
 date: 2020-06-15
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: labs
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-20
 created: 2020-06-15
 ---
@@ -110,7 +110,7 @@ Meanwhile, what JavaScript engine can also do is **gather profiling data of the
 As you can see from the above figure, the V8 team introduced a new interpreter pipeline Ignition whose job was to generate the bytecode from the JavaScript source code using a baseline compiler and later interpret that bytecode using an interpreter.
 
 
-The **TurboFan optimization compiler can optimize this bytecode in the background ** (in separate threads) as the application is running and generate a very optimized machine code that will be replaced eventually. Turbofan receives the profiling data from the Ignition interpreter and looks for the code that is Hot. **It can make the guesses on how to optimize the code better (by guessing the data types) and optimize or de-optimize the code**.
+The **TurboFan optimization compiler can optimize this bytecode in the background** (in separate threads) as the application is running and generate a very optimized machine code that will be replaced eventually. Turbofan receives the profiling data from the Ignition interpreter and looks for the code that is Hot. **It can make the guesses on how to optimize the code better (by guessing the data types) and optimize or de-optimize the code**.
 
 
 ## The invention of asm.js
@@ -365,7 +365,7 @@ A `backend module` **takes this bytecode and converts it to a specific build t
 
 Using `LLVM`, `Kotlin` can be compiled to `Java` bytecode and `Rust can be compiled to **multiple build targets**. If we combine different frontend and backend modules, we can generate pretty much anything.
 
-### #Official WebAssembly Toolchain
+### Official WebAssembly Toolchain
 
 To abstract users from getting into the trouble of the `LLVM toolchain`, `Emscripten` toolchain was created as a **collaborative effort between different WebAssembly teams**.
 

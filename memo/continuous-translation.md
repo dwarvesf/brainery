@@ -10,7 +10,7 @@ authors:
 menu: memo
 toc: 
 notice: 
-type: 
+type: labs
 hide_frontmatter: false
 author: 
 created_time: 2023-04-11

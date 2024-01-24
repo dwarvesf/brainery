@@ -2,6 +2,7 @@
 tags:
   - tips
   - teamwork
+  - people
 title: Conduct A Meeting
 date: 2018-07-10
 description: 
@@ -9,7 +10,7 @@ authors:
 menu: memo
 toc: 
 notice: 
-type: 
+type: memo
 hide_frontmatter: false
 author: 
 created_time: 2021-07-24

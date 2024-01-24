@@ -9,7 +9,7 @@ authors:
 menu: memo
 toc: 
 notice: 
-type: 
+type: consulting
 hide_frontmatter: false
 author: 
 created_time: 2021-07-23
@@ -22,14 +22,14 @@ created: 2020-10-24
 
 * CJC Ptd is a 20-year expert in providing market data consultancy & professional services for global financial sector.
 * They want to make a new data ecosystem: Public and private cloud, containerization, software orchestration, AI to support the growth of DevOps
-* We team up with them to develop <span style='color:blue'>**Voconic**</span> - a cloud PaaS for CJC’s clients, aiming to make cloud deployment seamless across cloud providers and environment.
+* We team up with them to develop <span style='color:pink'>**Voconic**</span> - a cloud PaaS for CJC’s clients, aiming to make cloud deployment seamless across cloud providers and environment.
 
 ## Technical Highlight
 
 ---
 
 * Backend, Frontend and CLI tools are built from scratch by engineers specialized in Cloud development
-* Golang heavy backend integrated with Google Cloud Platform for <span style='color:blue'>1-click deployment </span>experience
+* Golang heavy backend integrated with Google Cloud Platform for <span style='color:pink'>1-click deployment </span>experience
 * Deep integration with multiple cloud providers (Google & AWS)
 * Complex system auto-deployment and configuration function
 * CLI support for repetitive tasks and complex operation
@@ -57,7 +57,7 @@ Provides people with convenience in deploying while maintaining an error-prone p
 With Voconic, users have as internal working version before releasing the official  version to cloud providers. Another layer for error-detection. 
 
 
-☁️ *We were looking for a team that we can entrust our new Voconic cloud platform. And we found Dwarves among others which is well known for industry experience in Go development, cloud platform and K8s. *
+☁️ *We were looking for a team that we can entrust our new Voconic cloud platform. And we found Dwarves among others which is well known for industry experience in Go development, cloud platform and K8s.*
 
 -Paul Kossowski, Manager at CJC
 

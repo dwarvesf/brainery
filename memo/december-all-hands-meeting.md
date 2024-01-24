@@ -2,6 +2,8 @@
 tags:
   - team
   - updates
+  - newsletter
+  - community
 title: December All Hands Meeting
 date: 2022-01-06
 description: 
@@ -9,7 +11,7 @@ authors:
 menu: memo
 toc: 
 notice: 
-type: 
+type: newsletter
 hide_frontmatter: false
 author: 
 created_time: 2022-01-06

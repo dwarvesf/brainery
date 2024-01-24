@@ -1,17 +1,17 @@
 ---
-tags: 
+tags:
   - design
   - research
 title: An Overview Of Micro Investment In Real Estate
 date: 2020-08-26
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: consulting
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-19
 created: 2020-08-26
 ---

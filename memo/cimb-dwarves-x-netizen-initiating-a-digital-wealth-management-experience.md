@@ -9,7 +9,7 @@ authors:
 menu: memo
 toc: 
 notice: 
-type: 
+type: consulting
 hide_frontmatter: false
 author: Huy Tieu
 created_time: 2023-08-16

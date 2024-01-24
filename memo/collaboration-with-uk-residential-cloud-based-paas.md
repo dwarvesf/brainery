@@ -9,7 +9,7 @@ authors:
 menu: memo
 toc: 
 notice: 
-type: 
+type: consulting
 hide_frontmatter: false
 author: 
 created_time: 2021-07-23

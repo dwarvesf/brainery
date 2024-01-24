@@ -2,6 +2,7 @@
 tags:
   - design
   - user-experience
+  - design-thinking
 title: Design Resourcestools
 date: 2018-03-25
 description: 
@@ -9,7 +10,7 @@ authors:
 menu: memo
 toc: 
 notice: 
-type: 
+type: memo
 hide_frontmatter: false
 author: 
 created_time: 2018-03-15

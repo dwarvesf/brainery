@@ -10,7 +10,7 @@ authors:
 menu: memo
 toc: 
 notice: 
-type: 
+type: radar
 hide_frontmatter: false
 author: 
 created_time: 2022-09-08

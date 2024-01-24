@@ -1,16 +1,19 @@
 ---
-tags: 
+tags:
   - updates
+  - memo
+  - newsletter
+  - community
 title: 2020 In A Flashback
 date: 2021-02-05
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: newsletter
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-13
 created: 2021-02-05
 ---

@@ -1,11 +1,10 @@
 ---
 tags:
-  - dwarves
-  - work
   - icy
   - protocol
   - dfg
   - internal
+  - engagement
 title: 💠 df protocol, $icy and $dfg
 date: 2023-11-22
 description: Here's our draft internal map/v0 for 🧊 $icy play, based on our current activities at this borderless software firm...

@@ -1,7 +1,7 @@
 ---
 tags:
   - design
-  - memo
+  - user-experience
 title: Competency Mapping
 date: 2018-04-01
 description: 
@@ -9,7 +9,7 @@ authors:
 menu: memo
 toc: 
 notice: 
-type: 
+type: memo
 hide_frontmatter: false
 author: 
 created_time: 2021-07-26

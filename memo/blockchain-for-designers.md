@@ -1,17 +1,17 @@
 ---
-tags: 
+tags:
   - design
   - blockchain
 title: Blockchain For Designers
 date: 2020-05-04
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: labs
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-19
 created: 2020-05-04
 ---

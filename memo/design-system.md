@@ -1,16 +1,18 @@
 ---
-tags: 
+tags:
   - design
+  - user-experience
+  - design-thinking
 title: Design System
 date: 2018-03-23
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2018-02-20
 created: 2018-03-23
 ---
@@ -118,7 +120,7 @@ An example of a UI Audit: Brad Frost has put together a great article around how
 
 Link source: [http://bradfrost.com/blog/post/interface-inventory/](http://bradfrost.com/blog/post/interface-inventory/)
 
-### **5. Creating a visual design language**
+### 5. Creating a visual design language
 
 If we break apart each component of a design system we find that these fundamental elements make up its visual design language:
 
@@ -133,7 +135,7 @@ Depending on your needs, you may also include the following to further standardi
 * Motion
 * Sound
 
-### **6. Design token**
+### 6. Design token
 
 Before we dive into visual design standards, you should discuss design tokens. Design tokens are the “subatomic” foundation of a design system implementation. At its simplest, they’re name and value pairs stored as data to abstract the design properties you want to manage. With the values for all design tokens stored in a single place, it’s easier to achieve consistency while reducing the burden of managing your design system.
 
@@ -159,7 +161,7 @@ The workflow of design tokens would look like:
 Currently, the only way to create a design tokens is by using [Theo](https://github.com/salesforce-ux/theo), it made by Salesforce. What Theo does is simple: it takes as input a tech agnostic file format like JSON or YAML and outputs tech specific files for each platforms.
 
 
-### **7. UI Library (Pattern Library)**
+### 7. UI Library (Pattern Library)
 
 After you complete the inventory, you can merge and remove what you don’t need (either in a spreadsheet or even directly in a code refactor if you want more immediate change). Also, document what the component is and when to use it. This will become your UI library (or pattern library, or component library, depending on what your organization chooses to call it.).
 

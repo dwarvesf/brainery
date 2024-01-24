@@ -1,14 +1,15 @@
 ---
-tags: 
+tags:
   - engagement
+  - community
 title: Discord Roles
 date: 2023-01-30
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
 author: hnh
 created_time: 2023-01-30
@@ -19,13 +20,13 @@ To organize our discord and make it fun to interact between community members, w
 
 ![[809b8c41f7237b45d24ab0af9469fa8b_MD5.webp]]
 
-### Moderating
+## Moderating
 
 * <span style='color:yellow'>supporter: </span>help with day-to-day activity, welcome new folks.
 * <span style='color:pink'>moderator: </span>organize events, tech talks, ... .
 * <span style='color:purple'>smod: </span>run community & company-wide operational works.
 
-### Community members
+## Community members
 
 * <span style='color:blue'>guest</span>: it is a default role, you will gain this role joined discord.
 * <span style='color:blue'>newbie</span>: did an introduction within our network.
@@ -33,7 +34,7 @@ To organize our discord and make it fun to interact between community members, w
 * <span style='color:yellow'>contributor</span>: invite more frens into the network.
 * <span style='color:pink'>trustee: </span>trusted community member.
 
-### Consulting staffs
+## Consulting staffs
 
 * <span style='color:blue'>apprentice</span>: newcomers, qualified to work with us.
 * <span style='color:yellow'>crafter</span>: can ship qualified software.
@@ -43,7 +44,7 @@ To organize our discord and make it fun to interact between community members, w
 * <span style='color:orange'>principle: </span>who maintain and heighten team-wide standard.
 * <span style='color:red'>elite: </span>who set<span style='color:red'> </span>team-wide technically direction.
 
-### Functional
+## Functional
 
 * <span style='color:blue'>engagement: </span>align vision and value across the team.
 * <span style='color:pink'>learning: </span>continuous improvements, team-wise and individually.
@@ -51,7 +52,7 @@ To organize our discord and make it fun to interact between community members, w
 * <span style='color:green'>communication: </span>transparent information internally and externally.
 * <span style='color:red'>delivery: </span>ships high-quality deliverables.
 
-### How to upgrade?
+## How to upgrade?
 
 The Dwarves server operates primarily using $icy as its currency. 
 

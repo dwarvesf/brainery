@@ -1,17 +1,18 @@
 ---
-tags: 
+tags:
   - leadership
   - operation
+  - people
 title: Building A Solid High Performing Team
 date: 2020-02-21
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: hiring
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-24
 created: 2020-02-21
 ---

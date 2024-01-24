@@ -1,16 +1,17 @@
 ---
-tags: 
+tags:
   - process
+  - operation
 title: Adjust The Way We Work In Basecamp Style
 date: 2021-04-20
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2020-05-26
 created: 2021-04-20
 ---

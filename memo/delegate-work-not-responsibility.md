@@ -1,18 +1,18 @@
 ---
-tags: 
+tags:
   - tips
   - leadership
   - operation
 title: Delegate Work Not Responsibility
 date: 2019-11-27
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: hiring
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-24
 created: 2019-11-27
 ---

@@ -1,16 +1,18 @@
 ---
-tags: 
+tags:
   - tips
+  - apprenticeship
+  - people
 title: Asking As A Junior
 date: 2020-09-21
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2020-09-15
 created: 2020-09-21
 ---

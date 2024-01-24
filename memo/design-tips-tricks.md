@@ -1,16 +1,17 @@
 ---
-tags: 
+tags:
   - design
+  - design-thinking
 title: Design Tips Tricks
 date: 2018-03-24
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-26
 created: 2018-03-24
 ---

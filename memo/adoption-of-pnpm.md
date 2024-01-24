@@ -10,7 +10,7 @@ authors:
 menu: memo
 toc: 
 notice: 
-type: 
+type: labs
 hide_frontmatter: false
 author: Thanh Pham
 created_time: 2023-07-31

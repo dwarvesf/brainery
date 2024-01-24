@@ -2,6 +2,7 @@
 tags:
   - tips
   - teamwork
+  - people
 title: Constructive Feedback
 date: 2020-05-28
 description: 
@@ -9,7 +10,7 @@ authors:
 menu: memo
 toc: 
 notice: 
-type: 
+type: memo
 hide_frontmatter: false
 author: 
 created_time: 2020-03-26

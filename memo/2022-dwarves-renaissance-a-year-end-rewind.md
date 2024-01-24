@@ -1,6 +1,9 @@
 ---
 tags:
   - updates
+  - memo
+  - newsletter
+  - community
 title: 2022 Dwarves Renaissance A Year End Rewind
 date: 2023-01-19
 description: 
@@ -8,7 +11,7 @@ authors:
 menu: memo
 toc: 
 notice: 
-type: 
+type: newsletter
 hide_frontmatter: false
 author: 
 created_time: 2023-01-19

@@ -1,17 +1,16 @@
 ---
-tags: 
+tags:
   - apprenticeship
-  - dwarves
 title: Df Apprenticeship 2022 Meet The Mentors Ngoc Thanh Pham
 date: 2022-04-22
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2022-04-26
 created: 2022-04-22
 ---
@@ -21,7 +20,7 @@ created: 2022-04-22
 Dwarves Team is shifting our focus to blockchain technology. We offer study groups and blockchain-based projects for peeps to grow and catch up with this rising trend. Thanh is one of the vital elements of this team; and we know he’ll be more than happy to have you onboard.
 
 
-### <span style='color:red'>**What raises your interest for Dwarves?**</span>
+## What raises your interest for Dwarves?
 
 ---
 
@@ -42,7 +41,7 @@ Blockchain projects at Dwarves stretch to different potential corners of web3, f
 To seamlessly craft an output with a deliverable quality, understanding the product requirements is a sine qua non.”
 
 
-### <span style='color:red'>**Do you think blockchain knowledge is critical to engineer's career paths?**</span>
+## Do you think blockchain knowledge is critical to engineer's career paths?
 
 ---
 
@@ -51,7 +50,7 @@ To seamlessly craft an output with a deliverable quality, understanding the prod
 The foundation of blockchain derives from the backend technique. But as time goes by, its potential bypasses all the ongoing notions of software engineering. From what I concept, once people place reliance on blockchain technology and its ability, it grows as a burgeoning software foundation. This opens another career path alongside frontend or backend engineering. It's an alternative to explore and surpass one's seniority.”
 
 
-### <span style='color:red'>**Say, an engineer is ready to get started with blockchain. What key factor he should note?**</span>
+## Say, an engineer is ready to get started with blockchain. What key factor he should note?
 
 ---
 
@@ -60,14 +59,14 @@ The foundation of blockchain derives from the backend technique. But as time goe
 Blockchain requires a level of accuracy and meticulousness. That comes with a logical mindset and testing approach to deliver a product that brings value. This concept must be grasped before you design, test and validate any model.
 
 
-### <span style='color:red'>**What makes a product reach its definition of success?**</span>
+## What makes a product reach its definition of success?
 
 ---
 
 “For a product to succeed, it must first solve a user's need. No matter what you're building, a utility, a platform or an application, that product should empower the company revenue and align with the business goal. It's a target an engineer seeks to meet when he gets hands-on developing anything.”
 
 
-### <span style='color:red'>**Your secret sauce as a mentor?**</span>
+## Your secret sauce as a mentor?
 
 ---
 

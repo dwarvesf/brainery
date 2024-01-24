@@ -1,17 +1,16 @@
 ---
-tags: 
+tags:
   - apprenticeship
-  - dwarves
 title: Df Apprenticeship 2022 Meet The Mentors Tuan Dao
 date: 2022-04-20
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2022-04-20
 created: 2022-04-20
 ---

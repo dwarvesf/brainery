@@ -1,6 +1,9 @@
 ---
 tags:
   - updates
+  - memo
+  - newsletter
+  - community
 title: 2021 Dwarves In Review
 date: 2022-01-07
 description: 
@@ -8,7 +11,7 @@ authors:
 menu: memo
 toc: 
 notice: 
-type: 
+type: newsletter
 hide_frontmatter: false
 author: 
 created_time: 2021-12-15
