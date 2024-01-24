@@ -1,17 +1,16 @@
 ---
-tags: 
-  - dwarves
+tags:
   - apprenticeship
 title: Dwarves Foundation Apprenticeship Batch Of 2022
 date: 2022-09-23
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2022-09-22
 created: 2022-09-23
 ---
@@ -29,7 +28,7 @@ It’s neither for interns nor veterans. As stated in the beginning, our goal is
 * Real-projects Scenarios
 * Engineering Work Ethics & Principles
 
-# The stats speak
+## The stats speak
 
 ---
 
@@ -52,6 +51,7 @@ To convert from applicant to apprentice mode, peeps must finish 6 key factors
 * English competency
 
 With this in mind, we’re selective in choosing the next people for our squad. Narrowing down from over 140 applicants to the 7 newly joined isn’t an easy call. <span style='color:red'>It’s a successful ratio of 1 to 20. </span>
+
 
 <!-- column_list 2e6b7edc-466f-4d37-9ed1-008bb2110677 -->
 
@@ -117,7 +117,7 @@ Fullstack Developer
 
 Product Designer
 
-# The value generated
+## The value generated
 
 ---
 
@@ -133,7 +133,7 @@ After every training session, we  required the apprentices to share their feedba
 ![[9726985cf7f5aabace53ea202291bdc3_MD5.webp]]
 
 
-# The next roster
+## The next roster
 
 ---
 
@@ -211,7 +211,7 @@ Backend
 
 Designer
 
-# Come be with us
+## Come be with us
 
 ---
 
@@ -220,6 +220,7 @@ We’d love to have you on our next chapter, by all means.
 * Discover what we do: [https://dwarves.foundation](https://dwarves.foundation/)
 * Meet our team: [https://discord.gg/dwarvesv](https://discord.gg/dwarvesv)
 * Join the squad: [https://careers.d.foundation](https://careers.d.foundation/)
-* Follow our journey
+
+Follow our journey
 * Fanpage: [https://www.facebook.com/dwarvesf](https://www.facebook.com/dwarvesf)
 * LinkedIn: [https://www.linkedin.com/company/dwarvesf](https://www.linkedin.com/company/dwarvesf)

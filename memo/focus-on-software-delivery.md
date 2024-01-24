@@ -1,14 +1,15 @@
 ---
-tags: 
+tags:
   - engineering
+  - software
 title: Focus On Software Delivery
 date: 2023-02-04
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
 author: Han 🐸
 created_time: 2023-02-04

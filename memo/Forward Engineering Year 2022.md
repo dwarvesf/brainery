@@ -3,7 +3,6 @@ tags:
   - engineering
   - updates
   - team
-  - dwarves
   - forward-engineering
 title: Forward Engineering Year 2022
 date: 2023-01-11
@@ -12,7 +11,7 @@ authors:
 menu: memo
 toc: 
 notice: 
-type: 
+type: memo
 hide_frontmatter: false
 author: Tom X Nguyen
 created_time: 2023-01-11
@@ -21,7 +20,7 @@ created: 2023-01-11
 
 <!-- table_of_contents 0d000d52-c99d-436c-a418-3a451f30f43e -->
 
-# <span style='color:green'>What is Learning at Dwarves?</span>
+## What is Learning at Dwarves?
 
 ---
 
@@ -34,19 +33,17 @@ To grow as professionals, so we have built an environment where people feel comf
 
 Not only that, but we also believe that every employee has something to teach others, whether it is through formal instruction or simply by helping others with their work. We are committed to providing the tools, education, and training needed for all employees to be successful in their roles. In addition, we organize many events and activities for our people to express their ideas, share their knowledge, and learn with others:
 
-
-
 1. **Monday's radio talk**: a weekly show where people can share their thoughts on a given topic and hear what others have to say as well.
 1. **Friday's showcase**: a weekly presentation where people can share what they've been working on lately with the rest of the company.
 1. **Brainery**: a collection of learning pieces where we want to build up the 1% improvement habit of learning in public.
 1. **R&D Topics**: our hub for research and development to tackle common challenges and an environment to foster continuous improvement and learning.
 1. **Dwarves Rewind**: a curated list of trending and starred topics from our Discord and news list reviewing industry changes over every week.
 
-# <span style='color:green'>Brainery</span>
+## Brainery
 
 ---
 
-### <span style='color:green'>Inception and Growth</span>
+### Inception and Growth
 
 <!-- column_list 828ffcf9-2903-4cac-abd7-58afb893ceb3 -->
 
@@ -63,8 +60,7 @@ We were surprised to see that our knowledge graph has grown into something subst
 </div></p>
 
 
-
-### <span style='color:green'>Trending Tags</span>
+### Trending Tags
 
 A summary of some trending tags we see in our Brainery. These tags represent what things our contributors are actively thinking about and researching.
 
@@ -74,7 +70,7 @@ Our company, as well as the industry, is very frontend heavy, so it’s refreshi
 ![[fdc3f02efffae1ad50e061ba23e81362_MD5.webp]]
 
 
-### <span style='color:green'>**Newest Contributors**</span>
+### **Newest Contributors**
 
 We collect a list of new contributors, those who have contributed knowledge for the first time in our Brainery. A shout-out to **[Thanh Le](https://github.com/thanhlmm)**, who has not only contributed to our second brain, but also contributed to a [Radio Talk Discussion with our team](https://www.youtube.com/watch?v=z37-ZS7cKJ0).
 
@@ -103,7 +99,7 @@ We collect a list of new contributors, those who have contributed knowledge for 
 * **[truong-dwarvesv](https://github.com/truong-dwarvesv)**: [Scale up Application using Jetpack Navigation](https://brain.d.foundation/Engineering/Mobile/Scale+up+Application+using+Jetpack+Navigation)
 * **[yyyyaaa](https://github.com/yyyyaaa)**: [Mitigate blocking the main thread](https://brain.d.foundation/Engineering/Frontend/Mitigate+blocking+the+main+thread)
 
-# <span style='color:green'>R&D Topics and Challenges</span>
+## R&D Topics and Challenges
 
 ---
 
@@ -111,11 +107,11 @@ Research and Development (R&D) came about as a collective department for solving
 
 Below are some of the common problems we’ve begun more critical research and exploration on:
 
-### <span style='color:green'>Common problems</span>
+### Common problems
 
-* ***Locate on Web and Mobile: ***Have you considered making your application available in various languages, currencies, timezones, etc., to users across the globe? You can boost revenue with this method. With the help of the following research, development, and other efforts, we are currently attempting to present this engine to you as the Common Challenge solution.
-* ***Query Database 500M Records, Filter Multiple Table: ***If a day, our database contained 500 million records and despite our customers having to wait five minutes, they were still unable to complete a transaction. How would you approach this difficulty if you were a business owner? We are here to help you find a solution.
-* ***Database Connection Concurrency: ***As a Software Engineer, I'm sure you're aware that when working at the Backend level, we must manage any transactions that occur between our services and the database. Sure, have you considered how we can implement it effectively if you need to interact with more than one entity at the same time?
+* ***Locate on Web and Mobile:*** Have you considered making your application available in various languages, currencies, timezones, etc., to users across the globe? You can boost revenue with this method. With the help of the following research, development, and other efforts, we are currently attempting to present this engine to you as the Common Challenge solution.
+* ***Query Database 500M Records, Filter Multiple Table:*** If a day, our database contained 500 million records and despite our customers having to wait five minutes, they were still unable to complete a transaction. How would you approach this difficulty if you were a business owner? We are here to help you find a solution.
+* ***Database Connection Concurrency:*** As a Software Engineer, I'm sure you're aware that when working at the Backend level, we must manage any transactions that occur between our services and the database. Sure, have you considered how we can implement it effectively if you need to interact with more than one entity at the same time?
 
 ![[5c73807e107d674db4880be752f44319_MD5.webp]]
 
@@ -128,7 +124,7 @@ This year, we’ve completed one of our challenges, **Feature Flags**. This was 
 
 <!-- column f127baf7-bd1e-42b9-8e3a-6aa3597271d9 -->
 
-* **Feature flags:***** ***Options to enable/disable a feature in the application to help developers have a good experience and improve performance in the development process. We have discovered 3 solutions to resolve this challenge. With a wide range of solutions, we have the ability to serve any usage and project in development life.
+* **Feature flags:***** Options to enable/disable a feature in the application to help developers have a good experience and improve performance in the development process. We have discovered 3 solutions to resolve this challenge. With a wide range of solutions, we have the ability to serve any usage and project in development life.
 
 <!-- column 7858bab1-8131-4094-9858-4d3c36ef48f1 -->
 
@@ -137,7 +133,7 @@ This year, we’ve completed one of our challenges, **Feature Flags**. This was 
 * [https://dwarvesf.hashnode.dev/common-challenges-feature-flag](https://dwarvesf.hashnode.dev/common-challenges-feature-flag)
 * [https://medium.com/dwarves-foundation/design-a-feature-flag-system-7986b4a080cc](https://medium.com/dwarves-foundation/design-a-feature-flag-system-7986b4a080cc)
 
-### <span style='color:green'>Newest challenges</span>
+### Newest challenges
 
 Here are some of the new topics we’ve added this year that we believe will be pressing challenges we will face very soon:
 
@@ -146,7 +142,7 @@ Here are some of the new topics we’ve added this year that we believe will be 
 1. **Design system for indexing data on-chain**
 1. **Design multisign wallet support for all blockchain **
 
-### <span style='color:green'>Keywords for upcoming challenges</span>
+### Keywords for upcoming challenges
 
 Here are some of the keywords we’re on the watch for where we haven’t specified a problem statement but we expect will manifest challenges in the near future.
 
@@ -155,21 +151,21 @@ Here are some of the keywords we’re on the watch for where we haven’t specif
 * **Staking**
 * **Ethereum Adoption**
 
-# <span style='color:green'>Research Narratives</span>
+## Research Narratives
 
 ---
 
-### <span style='color:green'>Software Design Research Group</span>
+### Software Design Research Group
 
 We’ve held our Software Design research group for just over a year. Many changes have happened, with Hoang Nguyen, our backend engineer, leading the group. We’ve had quite a lot of topics, some are, but not limited to:
 
-* **Database Normalization **by Minh Luu. An inside look at normalization strategies in databases.
+* **Database Normalization** by Minh Luu. An inside look at normalization strategies in databases.
 * **Event-sourcing** by Cuong Mai. A simplified but enterprise outlook on managing persistence.
-* **Database Partitioning Design **by Hoang Nguyen. A look at vertical scalable practices for PostgreSQL.
-* **Sharding Design **by Hieu Vu. A look at horizontally scalable practices for PostgreSQL through a demo on Citus.
+* **Database Partitioning Design** by Hoang Nguyen. A look at vertical scalable practices for PostgreSQL.
+* **Sharding Design** by Hieu Vu. A look at horizontally scalable practices for PostgreSQL through a demo on Citus.
 * **HyperLogLog** by [Huy | Maius Pay#8518]. An algorithmic solution to a count-distinct problem.
 
-### <span style='color:green'>**Closing December 2022**</span>
+### Closing December 2022*
 
 Right before New Year, we were able to finish off the year with some exciting topics:
 
@@ -189,8 +185,7 @@ Right before New Year, we were able to finish off the year with some exciting to
 **We've also got to see a demo from Khang, our backend engineer, demoing CRUD, indexing, aggregation and other features from a distributed instance of MongoDB for his research on document databases. Khang has gone into great detail of the inner workings of MongoDB and the nuances of a document database.
 
 
-
-# <span style='color:green'>Dwarves Rewind 2022</span>
+## Dwarves Rewind 2022
 
 ---
 
@@ -200,4 +195,60 @@ Right before New Year, we were able to finish off the year with some exciting to
 ![[ae9016b58831984c03b5125922855553_MD5.webp]]
 
 
-### <span style='color:green'>Trending Topics</span>
+### Trending Topics
+
+Some of our trending topics over the year caught our eye as we see the industry progress.
+
+- **August:** Aptos and Sui Blockchain Platform
+- **September:** Grafana Tokio Console Data Source
+- **October:** Announcing TypeScript 4.9 Beta, Meta got bumped off world's top 20 companies' list, Tesla’s AI Day, Binance Becomes Second-largest Entity Of Uniswap
+- **November:** Kobecon + CloudNativeCon 2022, .NET 7 release, Meta's New AI System 'Galactica
+- **December:** Warner Music Group Joins Forces With Polygon, Starbucks Launched Web3 'Odyssey', Gate.io pledges $100M to revive the crypto industry.
+
+### Hottest Topics
+
+The hottest topics that shook the tech industry, from captivating and controversial products to groundbreaking AI, emerged from state-of-the-art tech.
+
+- **August:** Stable Diffusion release, DALL-E release, Github Copilot release
+- **September:** Apple Event - Far Out, Ethereum Mainnet Merge, iOS16, Adobe to buy Figma in $20 billion bid
+- **October:** Next.js Conf 2022, Acquisition of Twitter by Elon Musk, macOS Ventura 13.0 release, Vercel announces Turbopack, Mass layoffs at Twitter and giant tech firms, Made by Google 2022: Google Pixel 7 & 7 Pros, Aptos Mainnet “Aptos Autumn.”
+- **November:** Solana Breakpoint 2022, Github Codebase, GitHub Universe 2022, Introducing Notion AI, FTX Crashed, AWS re:Invent 2022, Schema by Figma 2022,
+- **December:** ChatGPT, Orbit 1 NFT, Metaverse, Year in Review, Google in Search 2022
+
+### Thoughts List
+
+On most of our Dwarves Rewind, we list our thoughts and burning questions each week. Here are some of our favorite ones:
+
+**#12:** For iOS 16, will you be able to restore or downgrade your device without losing data across versions? Ethereum will be different, but what does that mean to you?
+
+**#15:** With the introduction of “Matter” standardized home devices, Tesla’s AI Day, how will these Matter devices and AI work together in our homes? What will the future of technology look like overall?
+
+**#17:** All eyes on Aptos Mainet. While Ethereum has taken a major leap forward following ‘the merge’, challengers like Solana are making inroads with much faster transaction speeds. Do you think Aptos is likely to compete with ETH in the near future?
+
+**#18:** What will be the fate of Twitter’s employees once Musk takes the reign?
+
+**#19:** Meanwhile, some Twitter employees have expressed their desire to be laid off and get severance, and some are concerned that disagreeing with Musk means losing their jobs and packages. Does the fear of losing a job motivate employees to do better or make things worse?
+
+**#20:** Since Hey, GitHub! is an experimental tool, it seems it could reduce the amount of interaction required with a mouse and keyboard. The good news is that at the moment, it's only available when coding within VSCode.
+
+**#21:** Generative AI models are trained on copyright-protected data — is that legal? The question arises because of how generative AI systems are trained, and worked by identifying and replicating patterns in data, like most machine learning software.
+
+**#22:** What other technologies will AWS feature during re:Invent 2022? A passwordless future integrates two thought-provoking concepts—making logins more dependent on your knowledge than your identity, and integrating a login across platforms. Can it work?
+
+**#23:** It's refreshing to hear good news this crypto winter.
+
+**#24:** The last week has been abuzz with ChatGPT, for the non-technical friends, it was amazing to see the transcripts. Even though they knew it was an AI (with superhuman response times), they had natural conversations with it as if it were a human. The next step will maybe affect embedded systems. What are the possibilities for the future of AI in IoT?
+
+**#25**: After FTX’s collapse, several cryptocurrency firms have been trying to show that they still hold onto their users' assets. Many people seek auditing companies to give their clients and potential investors third-party assurances.
+
+**#26:** Remember when NFTs were cool and people thought their JPGs were worth millions? All this happened. The immersive internet is already here, in Web 3.0. How much deeper can we go, and how many more phases can we take?
+
+---
+In the ever-changing world of technology, design, and trending platforms. We’re dedicated to sharing our research and the knowledge we’ve learned to the community.
+We have a lot more to share. If you want to keep up with us, we’d love to have you in our next chapter.
+
+### **Get in touch with Dwarves**
+
+Discord: [discord.gg/dwarvesv](https://discord.gg/dwarvesv?fbclid=IwAR0nzdqNuclemLUa7Pg4e2xwAMG2SqPvsD_3EbkVP3p1Oy1c5tl8zHKZPAM)
+Fanpage: [https://www.facebook.com/dwarvesf](https://www.facebook.com/dwarvesf)
+Website: [](https://dwarves.foundation/)[https://dwarves.foundation](https://dwarves.foundation)

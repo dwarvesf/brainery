@@ -1,23 +1,25 @@
 ---
-tags: 
+tags:
   - radar
+  - tech
+  - innovation
 title: Dwarves Tech Radar The Introduction
 date: 2020-08-25
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: radar
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-13
 created: 2020-08-25
 ---
 
 ---
 
-# Our Perspective on Technology 
+## Our Perspective on Technology 
 
 Technology is eating the world. The technology we used yesterday may be deprecated today. New technology has enabled us to create new things. With the existing set of problems, new solutions will emerge along with new technologies.
 
@@ -26,7 +28,7 @@ Over five years of working as an innovative software firm, other than the energe
 
 We launch The Dwarves Tech Radar as a living asset to evaluate the adoption decision and keep the technology direction stays on track. Tech Radar is how we do R&D, how we work on self-growth and motivate continuous curiosity.
 
-# Adoption Process
+## Adoption Process
 
 When we observe a new tech, we map to the movement of the certain market to evaluate if the new tech could fit in. The main idea is to see if the new tech could help to make anything better than before in the long run and also serve our development direction.
 
@@ -35,7 +37,7 @@ The Dwarves are encouraged to gather into small focus groups to discuss and stud
 * Quadrants represent different kinds of topics.
 * The rings indicate what stage in an adoption lifecycle we think they should be in.
 
-# **Quadrants**
+## **Quadrants**
 
 The quadrants consist of:
 
@@ -44,7 +46,7 @@ The quadrants consist of:
 * Tools, e.g., editors, databases, software development tools.
 * Platforms, e.g., things provided by others that we build software on top like Vault, Istio, JupyterLab.
 
-# **Rings**
+## **Rings**
 
 Our radar has four rings, start from the middle.
 
@@ -55,7 +57,7 @@ Our radar has four rings, start from the middle.
 
 For each batch, we will organize into volume in our github repository (dwarvesf/radar) and track down the changes or comments from the study group.
 
-# The Tech Knowledge Areas
+## The Tech Knowledge Areas
 
 ![[memo/assets/dwarves-tech-radar-the-introduction/8e5f7f8bb132590bfbf3105155047b6c_MD5.webp]]
 

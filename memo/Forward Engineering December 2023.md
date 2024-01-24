@@ -1,13 +1,10 @@
 ---
 tags:
-  - dwarves
-  - work
   - forward-engineering
   - labs
   - AI
   - rust
   - passwordless
-  - passkeys
   - LLM
   - object-detection
 title: December Forward Engineering 2023

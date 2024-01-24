@@ -1,18 +1,19 @@
 ---
-tags: 
-  - machine learning
+tags:
+  - machine
+  - learning
   - LLM
   - engineering
 title: Exploring Machine Learning Approaches For Fine Tuning Llama Models
 date: 2023-05-04
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: labs
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2023-05-04
 created: 2023-05-04
 ---

@@ -2,7 +2,6 @@
 tags:
   - engineering
   - performance
-  - dwarves
   - forward-engineering
 title: Forward Engineering March 2023
 date: 2023-04-03
@@ -11,7 +10,7 @@ authors:
 menu: memo
 toc: 
 notice: 
-type: 
+type: memo
 hide_frontmatter: false
 author: Thanh Pham, Tom X Nguyen
 created_time: 2023-04-03

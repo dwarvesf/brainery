@@ -1,16 +1,17 @@
 ---
-tags: 
+tags:
   - pm
+  - engineering
 title: Fixed Budget Scope Controlled
 date: 2020-07-22
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-26
 created: 2020-07-22
 ---
@@ -19,7 +20,7 @@ Fixed-Budget, Scope-Controlled (FBSC) is applied at Atomic Object. They build cu
 ﻿
 As a result two different strategies for pricing services, such as building software, have traditionally been used by most companies. These are called “Fixed Price” and “Time And Materials”.
 
-### Fixed Price
+## Fixed Price
 
 * A Fixed Price strategy locks in the total price of the project upfront.
 * Static Variables: Scope, Cost
@@ -36,7 +37,7 @@ This is unrealistic, as it very difficult — almost impossible — to know ever
 ﻿
 Thus what appears to be a strategy for eliminating the financial risk to the client actually ends up introducing a new risk. By fixing the price and thus the scope of the project, we risk building the wrong product, or a product that doesn’t meet the needs of its intended audience.
 
-### Time and Materials
+## Time and Materials
 
 In a Time And Materials pricing strategy, the vendor will work on a project and bill for every hour worked without regard to any financial constraints. An estimate may have been created, but since they are paid regardless of whether they exceed the estimated amount, they don’t do more than just track their time.
 
@@ -51,7 +52,7 @@ In this scenario, the client is taking on all of the financial risk. The client 
 Also, the client may still be reluctant to make changes to the project scope in an attempt to not exceed the estimated amounts given by the vendor. But if they do make changes to the scope, the vendor will easily agree to these changes and complete them. Why not? They are being paid by the hour regardless of what gets delivered or if they exceed their estimates.
 So while the vendor has mitigated their financial risk, the client now shoulders that risk.
 
-### Fixed-Budget, Scope-Controlled
+## Fixed-Budget, Scope-Controlled
 
 We don’t feel either of these pricing strategies helps us to build better software within a responsible budget. So Atomic prices the services using a Fixed-Budget, Scope-Controlled (FBSC) strategy. In this strategy we work with our client at the beginning of the project to get a good understanding of the project. Using this information and our knowledge about building software, we then create a responsible budget. We do not fix the scope of the entire project upfront, we only fix the budget and time.
 

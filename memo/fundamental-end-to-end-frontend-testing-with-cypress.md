@@ -28,8 +28,6 @@ Cypress is an e2e testing framework that offers simplicity API and performant te
 ## Application being tested
 
 ![[706c9f06c1ddbab02d7e04195d24bc16_MD5.webp]]
-
-
 The application that we are going to test against is autocomplete textbox. Features
 
 * Enter filter text and render list item that has text match filter text

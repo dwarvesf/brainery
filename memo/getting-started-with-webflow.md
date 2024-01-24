@@ -1,16 +1,17 @@
 ---
-tags: 
+tags:
   - nocode
+  - web
 title: Getting Started With Webflow
 date: 2021-01-23
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-20
 created: 2021-01-23
 ---
@@ -19,7 +20,7 @@ created: 2021-01-23
 
 No-code platform has becoming a thing recently. With convenient and user-friendly workflow, no-code platform is a must to pick up for design and operation process, to shorten the development time and remove the misunderstanding between them with developers.
 
-# What is Webflow
+## What is Webflow
 
 In short, Webflow is a web design tool, CMS, and hosting platform. Each aspect of the platform is represented by a particular product/feature set:
 
@@ -49,7 +50,7 @@ The final piece of the Webflow puzzle is the Hosting platform. Backed by Amazon 
 
 Okay, now that we have the lay of the land, let’s talk about diving in.
 
-# Setup before designing
+## Setup before designing
 
 Let’s check the below image:
 
@@ -74,7 +75,7 @@ Let’s start with the first image. From left to right:
 1. **Typography:** We can input fonts from our laptop or directly from google font. You should check it out yourself; it’s easier than you think.
 1. **Background, Borders, and Effects:** like in Figma or sketch, we can edit the background image, radius, have fun with shadows.
 
-## Navigator
+### Navigator
 
 ![[f8d5b754890ffc243e735a6e4fb21394_MD5.webp]]
 
@@ -82,11 +83,11 @@ This point can be a red flag. In this case, we’re encouraged to create and nam
 
 ***Tips:*** Name a component right after you create one. The component arrangement is the foundation of your website, especially responsive. It is the same as in Figma or sketch, a carefully arranged component is easier to edit, modify, and check back when needed
 
-# Design a Website
+## Design a Website
 
 A website is divided into 3 parts: Header, Body, and Footer.
 
-## Header
+### Header
 
 ![[ab1951972be3533d03fe024933236f17_MD5.webp]]
 
@@ -105,7 +106,7 @@ NavBar is created with Brand, Nav Menu and Menu Button, located in one container
 
 ![[ad25c3727e62ea25c77238725e166cf3_MD5.webp]]
 
-## Body
+### Body
 
 ![[523f7073ae646470be25042035c8e949_MD5.webp]]
 
@@ -133,7 +134,7 @@ Example: Before doing design on Webflow, let’s define how these elements are g
 
 ![[f8fbcb003ce6c8b919bc0cc7235b3110_MD5.webp]]
 
-## Footer
+### Footer
 
 ![[868bfa2a53c561cff2296e7b08665242_MD5.webp]]
 
@@ -153,7 +154,7 @@ This section is divided into 2 parts:
 * For clickable content, choose “Link Block” instead of “Text Block”.
 * Layouts are critical to better create responsiveness.
 
-# Responsive
+## Responsive
 
 ![[d458119ad0184eee89c1d611a1543c50_MD5.webp]]
 
@@ -165,7 +166,7 @@ It always starts with a Base breakpoint screen. When you do the responsive for a
 * Layout, padding and margin can be adjusted based on screen sizes. In case the components position are changed, the whole process will be reset.
 * The color, text style, font size, font-weight can be modified.
 
-# Animation
+## Animation
 
 You can play with default animation or create your own one. For more Page animation, this [youtube link](https://www.youtube.com/watch?v=69RRSEHWfCQ&ab_channel=Webflow) might help.
 
@@ -178,7 +179,7 @@ Check out my **[full case study](https://kiwipay.webflow.io/)**. I added some ef
 
 ![[c1035a354ff1b911ba88d98c7815ad41_MD5.webp]]
 
-# Wrapping Up
+## Wrapping Up
 
 Within a month of designing with Webflow, I can learn and practice much more to produce a more high-end website. Besides, I found out that this tool's Preview is sometimes unstable, which annoyed me, but the output was outstanding.
 

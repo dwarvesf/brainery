@@ -1,30 +1,31 @@
 ---
-tags: 
-  - case study
+tags:
+  - case-study
+  - service
 title: From Monolithic To Microservice Sharpen Malaysias Largest Online Marketplace
 date: 2021-03-09
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-23
 created: 2021-03-09
 ---
 
 ![[6be4a77492fe56879670e7842673e411_MD5.webp]]
 
-<span style='color:red'>In brief</span>
+**In brief**
 
-* Mudah.my is a Malaysian 12-years-old online marketplace. A product derives from a partnership between Telenor ASA of Norway and 701Search Singapore. 
+* Mudahca.my is a Malaysian 12-years-old online marketplace. A product derives from a partnership between Telenor ASA of Norway and 701Search Singapore. 
 * Currently holds 19.8% Internet share, Mudah meets the increase of customers demand, which led to an overload in the current system.
 * We partnered to help migrating the monolithic architecture into microservices - Unlocking a scalable and feature-extendable platform
 * We spent a month working on-site at Malaysia to directly participate in the work and speed up productivity
 
-### <span style='color:red'>Technical Highlight</span>
+## Technical Highlight
 
 ---
 
@@ -34,7 +35,7 @@ created: 2021-03-09
 * Unit test that ensures at least 80% test coverage before deploying to production.
 * Mobile app with MVC architecture for fast debugging and development speed.
 
-### <span style='color:red'>The Context</span>
+## The Context
 
 ---
 
@@ -59,7 +60,7 @@ They decided to go for a <span style='color:red'>massive refactoring in: Infrast
 
 said Prateek - Mudah's Product Manager
 
-### <span style='color:red'>Engagement Model</span>
+## Engagement Model
 
 ---
 
@@ -73,7 +74,7 @@ We worked on shipping new features, refactoring the code and deep link manager i
 
 <!-- column 10e6b789-c77d-452d-8a16-0b378d9183e9 -->
 
-<span style='color:red'>**Tech stacks**</span>
+**Tech stacks**
 
 * Backend: Golang & Gin framework
 * Frontend: Next.js
@@ -84,17 +85,15 @@ We worked on shipping new features, refactoring the code and deep link manager i
 
 <!-- column d363cb28-929f-47f8-90d9-64629c9a46b4 -->
 
-<span style='color:red'>**Collaboration**</span>
+**Collaboration**
 
-The Dwarves spent a month in Malaysia to directly work with Mudah team. 
+The Dwarves spent a month in Malaysia to directly work with Mudah team. It was a great working process and exciting experience. 
 
-It was a great working process and exciting experience. 
-
-<span style='color:red'>**Delivery tooling**</span>
+**Delivery tooling**
 
 Slack chat, Jira card & Gitlab Merge Request for technical discussion. 
 
-### <span style='color:red'>Outcome</span>
+## Outcome
 
 ---
 

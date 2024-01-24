@@ -1,29 +1,29 @@
 ---
-tags: 
+tags:
   - dwarves
   - team
+  - event
 title: Dwarves Summit 2022 Engineering A Good Time
 date: 2023-01-09
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2023-01-09
 created: 2023-01-09
 ---
 
 ![[50d7ea1e7a9652013fd0cecdd7596784_MD5.webp]]
 
-# Dwarves Summit 2022: Engineering a good time.
+## Dwarves Summit 2022: Engineering a good time.
 
 We don’t treat team bonding the common way, because we understand our engineers. Most of our engineers don’t want running and getting sweaty on the beach for “team-building” activities, or pretending to smile in front of the travel agent’s camera.
 
 This was our first company get-together after 2 years of COVID. It was organized in ways that we can all look back to the progress we’ve made, pat ourselves on the back, have a blast together, and look forward to an even better 2023.
-
 
 ## Remote First Company
 
@@ -37,7 +37,6 @@ We started with *Remote OK* back in 2017, following 37Signals, our tech crush at
 Growing cross-functional teams at Dwarves is challenging, but it’s rewarding getting to collaborate with like-minded peeps. We’ve seen 1.5x growth of our team to a total of just over 100 team members, and everyone has given us unexpected and incredible results. 
 
 Although it’s short of our 2022 goal of 2x the team, we’re very proud nonetheless.
-
 
 **In 2022 alone, we:**
 
@@ -191,8 +190,6 @@ Whichever team has the most points wins the round.
 A global turn-based 4-team 12x12 grid game played on a real-time web application to collect points scatted across the grid.
 
 Teams who encountered a fruit would gain points. Those who encountered a bomb would have to drink 🍺. Whichever team has the most points wins the round.
-
-
 
 ### Enigma
 

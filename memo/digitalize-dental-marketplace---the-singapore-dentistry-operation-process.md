@@ -75,15 +75,12 @@ We started everything from a fresh idea. The process started out as market resea
 
 ![[ab7ac6266fe7ab7df8050695751d996c_MD5.webp]]
 
-
 **Tech stacks**
 
 * Backend: Golang
 * Frontend: React.js, Vue.js
 * iOS: Swift 
 * Android: Kotlin
-
-
 
 **Collaboration**
 

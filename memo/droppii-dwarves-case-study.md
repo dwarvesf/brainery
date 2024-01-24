@@ -1,7 +1,5 @@
 ---
 tags:
-  - dwarves
-  - work
   - dropshipping
   - case-study
   - e-commerce

@@ -23,7 +23,7 @@ A Finite State Machine is a model of computation based on a hypothetical machine
 
 Above image is a simple FSM, each circle is a `state` and arrow is an `event` or `action`.
 
-### Pros and Cons
+## Pros and Cons
 
 **Pros**
 
@@ -37,7 +37,7 @@ Above image is a simple FSM, each circle is a `state` and arrow is an `event` or
 * FSM works well when we have a well-organized set of states and transitions, when we add some additional states we have to re-define a logic between themConcurrency
 * When running multiple state machines in parallel, you either end up with deadlocks or you have edit them all in a way they are compatible.
 
-### Thinking in term of states (instead of transitions)
+## Thinking in term of states (instead of transitions)
 
 (Okay, tbh the concept of FSM is eye-opening for me :kappa:)
 
@@ -94,7 +94,7 @@ retry: When the user clicks the retry button, we fire the request again and tran
 
 This simplifies the logic and makes it more predictable. It also solves some of the problems mentioned above. Notice that, while we are in “fetching” state, we are not accepting any clicks. So, even if the user clicks the button, nothing will happen because the machine is not configured to respond to that action while in that state. This approach automatically eliminates the unpredictable branching of our code logic
 
-### Example
+## Example
 
 * Traffic light
 * Order management

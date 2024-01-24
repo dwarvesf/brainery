@@ -1,23 +1,24 @@
 ---
-tags: 
+tags:
   - team
+  - performance-review
 title: Dwarves Radio Talk 17 Conduct A 1 1 Session
 date: 2021-08-09
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-08-17
 created: 2021-08-09
 ---
 
 In this Radio Talk, [Thanh Pham](https://github.com/zlatanpham) - our Head of Web, shared how he conducts a 1-1 meeting with the Fellows. Working already four years at Dwarves, he has mentored a bunch of Juniors and realized many lesson-learned.
 
-### Understand the spirit of 1-1 session goal
+## Understand the spirit of 1-1 session goal
 
 Why do we need to run this practice, and how to avoid wasting time? First of all, it's all bout **building trust** and creates mutual belief. When people don't trust each other, there's a gap among the level of seniority. The Fellow feels unsafe when talking and expressing with their leader. Well, they may think their ideas are invaluable and generate bad habits.
 
@@ -27,7 +28,7 @@ When issues happen, without trust, they keep the information, breaking the flow 
 ![[06395a8d9f4970db75d51feef9c89fa0_MD5.webp]]
 
 
-### How we conduct our 1-1 session
+## How we conduct our 1-1 session
 
 **Timing**
 

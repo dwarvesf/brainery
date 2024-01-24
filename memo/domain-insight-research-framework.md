@@ -1,16 +1,18 @@
 ---
-tags: 
+tags:
   - design
+  - design-thinking
+  - user-experience
 title: Domain Insight Research Framework
 date: 2020-10-21
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-19
 created: 2020-10-21
 ---
@@ -182,6 +184,6 @@ The design principles are defined depending on the domain but usually will be in
 - Accessibility
 - Usability
 
-## **Conclusion**
+## Conclusion
 
 Product knowledge is so valuable. It increases our confidence as a problem-solver and clients’ trust that we are the right person to serve their needs. Clients today come armed with their level of product knowledge. The internet and competition have created a more educated consumer base. That is all the more reason we need to know more than our customers do about the things we're going to help them do

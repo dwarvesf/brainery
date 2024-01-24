@@ -1,17 +1,18 @@
 ---
-tags: 
+tags:
   - remote
   - meeting
+  - people
 title: Effective Meeting
 date: 2016-01-10
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-23
 created: 2016-01-10
 ---

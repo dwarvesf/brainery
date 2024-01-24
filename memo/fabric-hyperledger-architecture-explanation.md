@@ -1,22 +1,22 @@
 ---
-tags: 
+tags:
   - blockchain
   - architecture
 title: Fabric Hyperledger Architecture Explanation
 date: 2019-05-15
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-20
 created: 2019-05-15
 ---
 
-# What is Hyperledger
+## What is Hyperledger
 
 Hyperledger is an open source community focused on developing a suite of stable frameworks, tools and libraries for enterprise-grade blockchain deployments.
 

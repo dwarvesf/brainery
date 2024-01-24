@@ -1,16 +1,18 @@
 ---
-tags: 
+tags:
   - radar
+  - tech
+  - innovation
 title: Dwarves Tech Radar Volume 01
 date: 2020-08-26
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: radar
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-13
 created: 2020-08-26
 ---
@@ -113,15 +115,15 @@ Thanks to the usability test, we were able to address the user's trouble. It let
 
 As we have no idea when the Covid-19 pandemic is over and work from home is strongly recommended, it's the right time to adopt remote methods in UX design, including Remote Moderated Usability Testing. Although there are some drawbacks, it's still a good solution for our team, client, and test participants.
 
-# Reaching Toward
+## Reaching Toward
 
 These above are just the beginning of a long run. We're thinking of bringing everything alive once all the topics are wrapped up. In the meantime, we'd love to receive all of the comments, contributions, and advice to make this Radar more completed. The best can always become better.
 
 Though this began as a side project, The Dwarves Tech Radar speaks up the code that sticks us together for over the years.
 
-* <span style='color:pink_background'>**Innovation**</span> - the urge to discover new ways of solving the current problems and create impacts
-* <span style='color:pink_background'>**Craftsmanship**</span> - the mindset of dedicating your time and effort in every piece of work
-* <span style='color:pink_background'>**Teamwork**</span> - the spirit of connecting and collaborate effectively amongst the crew without breaking the present value.
+* **Innovation** - the urge to discover new ways of solving the current problems and create impacts
+* **Craftsmanship** - the mindset of dedicating your time and effort in every piece of work
+* **Teamwork** - the spirit of connecting and collaborate effectively amongst the crew without breaking the present value.
 
 Innovation happens almost every day, and it's our job to pursue the latest version. It's what sets the business successful and giving them a competitive advantage. That begins with nothing but keeps the employee updated on the latest development.
 

@@ -1,18 +1,18 @@
 ---
-tags: 
+tags:
   - community
   - bounty
   - updates
 title: Community Bounty
 date: 2023-06-21
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: events
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2023-06-21
 created: 2023-06-21
 ---
@@ -22,7 +22,7 @@ As you may know, Dwarves Discord network is where we connect with our friends,
 Bounties are rewards (in ICY - Dwarves’ token) given out to community members for work that encourages community developers to get more involved in the development outside of their core skills.
 
 
-## <span style='color:red'>**Who can join**</span>
+## **Who can join**
 
 ---
 
@@ -38,10 +38,10 @@ We offer a platform for those seeking development work and a dynamic environmen
 After joining Dwarves Network’s Discord, introduce yourself in 😀**・arrival**, then don’t forget to:
 
 1. Check the bounties board: [https://earn.d.foundation/](https://earn.d.foundation/). Choose the bounty which you want to work on.
-1. Claim a bounty via **⁠🎫・support-ticket. **
+1. Claim a bounty via **⁠🎫・support-ticket.**
 1. Deliver bounty, get $ICY in return
 
-## <span style='color:red'>**Reward**</span>
+## **Reward**
 
 ---
 

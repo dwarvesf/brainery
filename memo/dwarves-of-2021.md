@@ -1,22 +1,21 @@
 ---
-tags: 
-  - dwarves
-  - team
+tags:
+  - updates
+  - newsletter
+  - community
 title: Dwarves Of 2021
 date: 2022-01-05
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2022-01-05
 created: 2022-01-05
 ---
-
-
 
 ## Dwarves of 2021 - We met at last ♡
 

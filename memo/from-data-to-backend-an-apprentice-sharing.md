@@ -1,17 +1,17 @@
 ---
-tags: 
-  - dwarves
+tags:
   - apprenticeship
+  - people
 title: From Data To Backend An Apprentice Sharing
 date: 2022-09-21
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2022-09-20
 created: 2022-09-21
 ---
@@ -22,15 +22,12 @@ created: 2022-09-21
 
 <!-- column 139189a7-7a0d-4f7b-9197-160c6f948e7c -->
 
-> *For *<span style='color:red'>*[My Anh](http://linkedin.com/in/anne-n-bb440116a)*</span>*, Dwarves Foundation Apprenticeship has surpassed a traditional training program concept. With her, it’s been a huge shift: A supportive team that embraces her for who she is and unlocks her capabilities to grow in ways she never imagined. *
+> *For* <span style='color:red'>*[My Anh](http://linkedin.com/in/anne-n-bb440116a)*</span>*, Dwarves Foundation Apprenticeship has surpassed a traditional training program concept. With her, it’s been a huge shift: A supportive team that embraces her for who she is and unlocks her capabilities to grow in ways she never imagined. 
 
 
-- My Anh, Saigon-based
-
+My Anh, Saigon-based
 Data & Backend
-
 Dwarves Apprentices, batch of 2022
-
 
 
 <!-- column 054dc064-c9f1-4da9-83ee-24f1cce897c7 -->
@@ -38,21 +35,21 @@ Dwarves Apprentices, batch of 2022
 ![[9b67e38d0c1276e257fa386d351c11a8_MD5.webp]]
 
 
-### <span style='color:red'>How did you first envision the Dwarves Apprenticeship Program?</span>
+## How did you first envision the Dwarves Apprenticeship Program?
 
 ---
 
 “I expected it would be a stepping stone to reinforcing my software development skillset. As the agenda covers project work in different fields, I think it would provide specific working processes for each project type and how to level up team collaboration.”
 
 
-### <span style='color:red'>What are you working on? What is the toughest point you're hitting?</span>
+## What are you working on? What is the toughest point you're hitting?
 
 ---
 
 “I'm working alongside Huy Nguyen on a web3 project for Console Labs. The real challenge kicked in when I faced the programming techniques, learned to understand the prebuilt source code and figured out my solution approach. It's brand new and I'm lucky to have all the backup needed, especially from Huy Nguyen & Khoi Ngo, for their review, feedback and guidelines in such details.”
 
 
-### <span style='color:red'>You stepped into this woodland as a Data Analyst. What changed your mind about moving forward as a Backend Engineer?</span>
+## You stepped into this woodland as a Data Analyst. What changed your mind about moving forward as a Backend Engineer?
 
 ---
 
@@ -62,8 +59,7 @@ Working alongside other Backend Engineers led to many exciting fields: Database 
 
 New chances are opened up, and going from Data to Backend sounds like a promising decision.”
 
-
-### <span style='color:red'>Was it a hard call?</span>
+## Was it a hard call?
 
 ---
 
@@ -71,8 +67,7 @@ New chances are opened up, and going from Data to Backend sounds like a promisin
 
 It's great to know that your ideas are listened to, and can always receive absolute support. Rather than a mentee, they considered me a real peer - trust me with the progress and let me work on what I've never touched on before.”
 
-
-### <span style='color:red'>Do you find the training topics useful for your work?</span>
+## Do you find the training topics useful for your work?
 
 ---
 
@@ -81,19 +76,17 @@ It's great to know that your ideas are listened to, and can always receive absol
 As Dwarves is expanding its L&D sector, we're encouraged to participate in the weekly Radio Talk, events and tech training hosted by lecturers of universities.”
 
 
-### <span style='color:red'>**How have you grown as a technologist in your time here?**</span>
+## How have you grown as a technologist in your time here?
 
 ---
 
 “My foundation was layered with software development principles, concepts and real-case practices. I picked up Golang, obviously, and widened my expertise in blockchain/ web3 sectors. But on top of that, I get to be the manager of my work and continuously upgrade myself as a real engineer.”
 
-
-### <span style='color:red'>So what's your upcoming plan for the next My Anh?</span>
+## So what's your upcoming plan for the next My Anh?
 
 ---
 
 “I'm still on the way to enforcing the software engineer foundation and discovering what more I'm capable of. Backend and Data Science will probably be my next pursuit. The introvert me still working out how to bond with the rest of the team, but I sense that things should be fine since I've felt like a part of them already.”
-
 
 ---
 
@@ -101,7 +94,7 @@ As Apprentices are hitting their Performing stage, we’re excited to follow and
 
 But at the end of the day, it stays real and constructive to grow us all a better squad. 
 
-<span style='color:red'>**Follow us on**</span>
+**Follow us on**
 
 * Website: [https://dwarves.foundation](https://dwarves.foundation/)
 * Discord: [https://discord.gg/dwarvesv](https://discord.gg/dwarvesv)

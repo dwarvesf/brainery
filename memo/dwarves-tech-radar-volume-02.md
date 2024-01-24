@@ -1,16 +1,18 @@
 ---
-tags: 
+tags:
   - radar
+  - tech
+  - innovation
 title: Dwarves Tech Radar Volume 02
 date: 2021-01-14
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: radar
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-13
 created: 2021-01-14
 ---
@@ -18,11 +20,11 @@ created: 2021-01-14
 ---
 
 
-Once every month, we gather for Radar update to round up the cool techs and assess if we should adopt that to the team. Road to a wider and more diversified rings, Dwarves Tech Radar v2 contains the practices to <span style='color:pink_background'>**simplify the workflow**</span>, new techniques/ approach methods to <span style='color:pink_background'>**upgrade our current standards**</span><span style='color:pink_background'>,</span> and <span style='color:pink_background'>**expand the domain knowledge. **</span>
+Once every month, we gather for Radar update to round up the cool techs and assess if we should adopt that to the team. Road to a wider and more diversified rings, Dwarves Tech Radar v2 contains the practices to <span style='color:pink_background'>**simplify the workflow**</span>, new techniques/ approach methods to <span style='color:pink_background'>**upgrade our current standards**</span><span style='color:pink_background'>,</span> and <span style='color:pink_background'>**expand the domain knowledge.**</span>
 
 
 ## Trial
-
+---
 ### Earthly: The combination Dockerfile + Makefile
 
 [https://earthly.dev/](https://earthly.dev/)
@@ -37,7 +39,7 @@ We applied it on Voconic, our complex on-going project about Cloud platform, to 
 
 
 ## Assess
-
+---
 ### Webflow: Build visual canvas without coding techniques
 
  [https://webflow.com/](https://webflow.com/) 
@@ -61,8 +63,8 @@ During our work with Javascript, each project comes with different node versions
 One of our engineers started to work on Volta - a hassle-free approach to manage the CLIs. In short, Volta detects the node versions in the JSON package, unifies them into one place, and automatically switch them as developers change their projects. Since Volta supports quick engine setup, we get to install the npm package binaries into the toolchain once and for all and then let Volta take care of the rest.
 
 ## Adopt
-
-### **Upptime: Real time status update **
+---
+### Upptime: Real time status update
 
 [https://upptime.js.org/](https://upptime.js.org/)
 

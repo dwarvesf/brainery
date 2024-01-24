@@ -1,6 +1,5 @@
 ---
 tags:
-  - dwarves
   - forward-engineering
   - labs
   - duckdb

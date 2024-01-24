@@ -1,16 +1,17 @@
 ---
-tags: 
+tags:
   - swift
+  - web
 title: Draw Watch Face Using Swiftui
 date: 2020-03-23
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-21
 created: 2020-03-23
 ---
@@ -28,7 +29,7 @@ First of all, let split watch to small components for easy coding. A watch has t
 
 As usual, open Xcode and create new project, don’t forget to choose SwiftUI, add new SwiftUI file and named it Watch.
 
-### Draw Circular Bezel
+## Draw Circular Bezel
 
 Path is similar to BenzierPath, you can draw Oval, rectangle, line, arc using Path.
 I choose Arc for now. Later on we can using Arc, Oval or Circle to make different watch face style.
@@ -44,7 +45,7 @@ the Act function required center point, starting angle and ending angle, we need
 
 Try our new Arc struct, nice we have a black circle, you can try replace stroke(lineWidth) by fill() and see what happened, also try different starting and ending angle to see what happened.
 
-### Draw Ticks-Markers
+## Draw Ticks-Markers
 
 Create new Struct Named Tick, it also conform to Shape.
 This tick shape simple draw a line front top center down to 5 points
@@ -76,7 +77,7 @@ Let change our Tick and Ticks View a bit to add this extra.
 
 We have finished draw ticks, let move on hour Numbers.
 
-### Draw Numbers
+## Draw Numbers
 
 This use the same technique with [my previous article](https://medium.com/@phanviettrung/create-circular-text-using-swiftui-32cd7e5b6414), feel free to read it.
 
@@ -95,7 +96,7 @@ Try it and We got beautiful numbers indicator.
 ![[135752868b2e9b57c2e9b252a68d6a2d_MD5.webp]]
 
 
-### Draw Hour, Minus, and Second Hands
+## Draw Hour, Minus, and Second Hands
 
 Make a pad circle for our Watch Hands. This completed by helping of building circle
 
@@ -163,7 +164,7 @@ Congratulations, our watch now run as normal watch.
 ![[397bf52e863bd1e23b8d6ba2f5f11154_MD5.webp]]
 
 
-### Bonus part
+## Bonus part
 
 You can change Arc to Circle, mix with different color to get more watch face
 

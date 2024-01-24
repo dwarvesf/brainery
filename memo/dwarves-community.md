@@ -1,9 +1,8 @@
 ---
 tags:
-  - dwarves
-  - work
   - community
   - learning
+  - bounty
 title: Dwarves Community
 date: 2023-12-15
 description: Dwarves Community is melting pot for software engineers, thinkers, learners and techies who are to explore, learn and master the latest advancements in technology.
@@ -29,7 +28,8 @@ If you share the same goals and mindsets, you're welcomed to join us.
 
 
 
-### Our activities
+## Our activities
+
 - Discussion channels for sharing knowledge and asking questions.  
 - Workshops, webinars, and tech talks on tech and industries  
 - Open source contributions  
@@ -37,28 +37,22 @@ If you share the same goals and mindsets, you're welcomed to join us.
 - Meetups, networking events and summits  
 - Job boards for career opportunities within the industry.
 
-  
-
 ### Monthly Activities
 
-##### Upcoming
+#### Upcoming
 - December community call
 
-
-##### Previous
+#### Previous
 - [Personal development at Dwarves](https://www.youtube.com/live/Dxya8IJxooM?si=ADjc_kmoZiNQjILn)
 - [Frontend Course Demo Day](https://www.youtube.com/live/xlBAODjOQWU?si=usNXiSOd9_DM3r1F)
 - [Golang Course Demo Day](https://www.youtube.com/live/ycaTh1O-rME?si=oYihUenCTMvmeghO)
 - [Fullstack development with tRPC](https://www.youtube.com/live/r2X6cuNATrw?si=NkCwPZIvPcPAOlEl)
 
-
-
-### Level up to get greater rewards
-##### Contributor Hall of Fame
+## Level up to get greater rewards
+### Contributor Hall of Fame
 Each month we honor members who have significant contributions and impacts in our growth. The top contributors have their own swaggy honor badges and rewards with ICY.
 
-
-##### Bounties
+### Bounties
 We use bounties to encourage and motivate contributors, both experienced and newcomers. Through active collaboration and effort, community members level up, get accessed to more activities and receive greater rewards.  
 Available bounties are up for grab at https://note.d.foundation/earn/.
 
