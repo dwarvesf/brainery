@@ -1,7 +1,6 @@
 ---
 tags:
-  - dwarves
-  - work
+  - hiring
 title: <% tp.file.title %>
 date: <% await tp.file.creation_date("YYYY-MM-DD") %>
 description: 

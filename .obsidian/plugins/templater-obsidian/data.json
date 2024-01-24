@@ -53,6 +53,10 @@
     {
       "folder": "consulting",
       "template": "_templater/New Post.md"
+    },
+    {
+      "folder": "brainery",
+      "template": "_templater/New Brainery.md"
     }
   ],
   "syntax_highlighting": true,
