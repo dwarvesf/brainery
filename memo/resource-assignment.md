@@ -1,18 +1,18 @@
 ---
-tags: 
+tags:
   - tips
   - operation
   - productivity
 title: Resource Assignment
 date: 2019-04-10
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-24
 created: 2019-04-10
 ---

@@ -1,33 +1,34 @@
 ---
-tags: 
+tags:
   - SDLC
+  - software
 title: Software Development Life Cycle 101
 date: 2020-05-19
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-21
 created: 2020-05-19
 ---
 
 This workshop contains the basic knowledge on Software Development Life Cycle, provides people with a step-to-step guideline and the artifacts which will be created on the way. We don't dive in the details. Instead, we treat it as an overview look on how to build software successfully.
 
-### Table of Content
+## Table of Content
 
 1. What is Software Project?
 1. Software Development Life Cycle
 1. SDLC Models
 
-# What is Software Project?
+## What is Software Project?
 
 We build software, and we need a planned undertaking. So call software project is “A specific plan or design” or “A planned undertaking”.
 
-## Project Constraints
+### Project Constraints
 
 A software project has a lot of constraints. Cost, scope, quality, customer satisfaction, risk, resource, time, or anything in between.
 
@@ -39,7 +40,7 @@ But the most important ones are
 
 ![[8d20afb24ee3dfc8607352f6574e549a_MD5.webp]]
 
-## Why does a project fail
+### Why does a project fail
 
 With a lot of constraints, the project is easy to fail. We could have plenty of reasons why a software project fails: team politics, overdue payment,... but three of them could be prevented easily with proper methodology, framework
 
@@ -47,7 +48,7 @@ With a lot of constraints, the project is easy to fail. We could have plenty of 
 * Wrongly defined tech stacks
 * The wrong approach, develop practices
 
-## Project success
+### Project success
 
 If it's easy to fail, then what is a successful project?
 
@@ -59,7 +60,7 @@ This is just a simple definition of what is a successful project based on 3 impo
 
 But how 🤔
 
-# Software Development Life Cycle
+## Software Development Life Cycle
 
 The secret sauce of a successful project lies in the answer to those questions:
 
@@ -89,7 +90,7 @@ Let's take a look back on what we have learned and how this methodology could gu
 ![[c9f99108433a5d2449ef51fb884a23dd_MD5.webp]]
 
 
-## Requirement Analysis
+### Requirement Analysis
 
 “What are the current problems? What are we gonna build?” This stage of the SDLC means getting input from all stakeholders, including customers, salespeople, industry experts, and programmers. Learn the strengths and weaknesses of the current system with improvement as the goal.
 Business-oriented is a key in this stage. There are plenty of technique being used **(Lean Canvas, AARRR Framework, Industry Research, User Research, Competitor Analysis, Personas, Problem Statement, User Journey Mapping)** and with a lot of deliverables to analyze requirements and validate the business model that the software aims to empower.

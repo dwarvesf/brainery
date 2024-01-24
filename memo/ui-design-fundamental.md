@@ -1,16 +1,18 @@
 ---
-tags: 
+tags:
   - design
+  - ui
+  - user-experience
 title: Ui Design Fundamental
 date: 2018-03-20
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-26
 created: 2018-03-20
 ---
@@ -33,7 +35,7 @@ So we need research:
 
 USER INTERFACE: (has 3 main elements)
 
-## **AESTHETICS:**
+### **AESTHETICS:**
 
 You should reply this questions: Where/Why do you think that they are beautiful? You will see that each person has a different opinion. Aesthetics is only relative and bases on standards: layout, typography, color.  So, a beautiful design is a design that …?
 
@@ -42,7 +44,7 @@ Aesthetics changes over time, mostly comes from trends, If you can’t create tr
 Futuristic ornamentalism; Simplicity & Comfort; Extra Depth (with Semi-Flat Design); Custom Illustrations; Animations, Gifts & Cinemagraphs; Micro Interactions; Integrated Animations; Obnoxious Bright Gradients; Semi Realistic 3D; One Color 3D Design; 80s-90s Color Palettes & Patterns; Big Bold Typography; Creative Typography; Particle Background; Modular Blank; Split Page Design; Vibrant & Saturated Color Page; Mondrianism.
 
 
-## **CONTENT**
+### **CONTENT**
 
 When you design a website or an app, you have to reply the question: What is this site about? Because the user not only look at your website but also read content. One of the parts the user look most is landing page, the content should follow the items below:
 
@@ -51,7 +53,7 @@ When you design a website or an app, you have to reply the question: What is thi
 * Credible & Finable
 * Scannable & Simple.
 
-## **INTERACTION**
+### **INTERACTION**
 
 Interaction design is specifically a discipline which examines the interaction (via an interface) between a system and its user. It may also incorporate design focused on how information should be presented within such a system to enable the user to best understand that information though this is often considered to be the separate discipline of “information design” too.
 
@@ -80,12 +82,9 @@ A designer has the opportunity to use visual hierarchy to reinforce these natura
 
 **Read more:** [https://www.interaction-design.org/literature/topics/visual-hierarchy](https://www.interaction-design.org/literature/topics/visual-hierarchy)
 
-
 **Readability** is whether an extended amount of text—such as an article, book, web page - is easy to read
 
-
 **Legibility** is whether a small burst of text such as a sign or a headline is instantly recognizable.
-
 
 **Differentiate dissimilar things**
 

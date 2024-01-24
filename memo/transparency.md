@@ -1,23 +1,25 @@
 ---
-tags: 
+tags:
   - tips
+  - teamwork
+  - people
 title: Transparency
 date: 2020-05-27
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2020-03-26
 created: 2020-05-27
 ---
 
 ---
 
-<span style='color:pink_background'>***How much do you know about this woodland?***</span>
+<span style='color:pink_background'>**How much do you know about this woodland?**</span>
 
 → is the question we all get during the first interview. Sure, if you're lucky enough to nail the final offer; you're likely to get a better chance on gradually discovering the company's essential information.
 

@@ -1,16 +1,17 @@
 ---
-tags: 
+tags:
   - agile
+  - engineering
 title: Sprint Lifecycle
 date: 2016-02-10
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-23
 created: 2016-02-10
 ---
@@ -32,13 +33,13 @@ Below listed are the rules for each step of the sprint lifecycle. ***No except
 * Prepare improvement notes (if not discussed with the team) and tickets for the sprint planning
 * Continuous learning
 
-### Code release + Release notes
+## Code release + Release notes
 
 * The code will be tagged and released as per the release flow on Friday morning after the end of the sprint
 * The releases notes will be produced and given to the product team on Friday morning after the end of the sprint
 * Only the tickets that are closed when the sprint ends will be included in the release
 
-### Deployment on staging
+## Deployment on staging
 
 * The code release will be deployed on our *internal* staging on Friday
 * The code release will be deployed on the customer's staging Tuesday morning after the end of the sprint.

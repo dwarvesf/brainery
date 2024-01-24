@@ -1,23 +1,23 @@
 ---
-tags: 
+tags:
   - engineering
   - micro-frontend
   - architecture
 title: Why Micro Frontend
 date: 2023-03-20
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
 author: Mashiro
 created_time: 2023-03-20
 created: 2023-03-20
 ---
 
-# Micro-Frontend - What & Why?
+## Micro-Frontend - What & Why?
 
 ![[a5bf635d4856ea99f487589001781c71_MD5.webp]]
 
@@ -156,7 +156,7 @@ To ensure consistency across different micro-frontends, it's important to establ
 Each micro-frontend should be designed with testing in mind, with a suite of automated tests to verify its functionality and ensure that changes don't introduce regressions. This helps catch bugs early in the development process and ensures that the system remains stable and reliable.
 
 ## Conclusion
-
+---
 With that, we hope you now have a clear idea of what micro-frontend is, its pros and cons, as well as some key principles that ensure this architecture is correctly built.
 
 Micro-frontend is a powerful approach to building web applications, with a focus on scalability and maintainability. It is still growing, with companies such as AWS, IKEA, or DAZN which has begun their own adoption of the technology, and we here at Dwarves Foundation are no exception. We are actively practicing the architecture with some of our partners, including [Mudah](https://www.mudah.my/) and [Setel](https://www.setel.com/).
@@ -166,7 +166,7 @@ However, please do keep in my that regardless of its strength, Micro-Frontend is
 Until next time!
 
 ## References
-
+---
 * [5 Reasons You Should Adopt a Micro Frontend Architecture — SitePoint](https://www.sitepoint.com/micro-frontend-architecture-benefits/)
 * [5 Pitfalls of Using Micro Frontends and How to Avoid Them — SitePoint](https://www.sitepoint.com/micro-frontend-architecture-pitfalls/)
 * [Micro Frontends - A Complete Guide | Hygraph](https://hygraph.com/blog/micro-frontend)

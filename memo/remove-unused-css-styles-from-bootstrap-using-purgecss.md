@@ -1,23 +1,24 @@
 ---
-tags: 
+tags:
   - css
+  - web
 title: Remove Unused Css Styles From Bootstrap Using Purgecss
 date: 2019-02-01
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-20
 created: 2019-02-01
 ---
 
 ![[50067f1125ee42d2d68068bd93443235_MD5.webp]]
 
-# Introduction
+## Introduction
 
 Reducing assets size is one of the most practical ways to speed up your web application. I have a simple use case, lets imagine your HTML file looks like this
 
@@ -53,7 +54,7 @@ bootstrap-grid.min.css
 
 Quite huge isn’t it? Thanks to PurgeCss here is the CSS file after being purged will only contain parts of the CSS file (only used selectors), as you can see horizontal scrollbar is not very long:
 
-# Usage
+## Usage
 
 PurgeCSS can be installed with npm package
 
@@ -105,7 +106,7 @@ You can view full CLI options at [https://www.purgecss.com/cli\](https://www.pur
 
 Example repository: [https://github.com/PhmNgocNghia/purge\-css\-demo\-cli\](https://github.com/PhmNgocNghia/purge%5C-css%5C-demo%5C-cli%5C)
 
-# Setup using Webpack
+## Setup using Webpack
 
 Purge CSS can be used together with built tools such as webpack, gulp, grunt,… etc. You can view it’s documentation at [https://www.purgecss.com/\](https://www.purgecss.com/%5C)
 
@@ -234,7 +235,7 @@ module.exports = {
 
 Full example repository: [https://github.com/PhmNgocNghia/purge\-css\-example\-webpack\](https://github.com/PhmNgocNghia/purge%5C-css%5C-example%5C-webpack%5C)
 
-# Conclusion
+## Conclusion
 
 With PurgeCSS, our `bootstrap-grid.main.css` file reduce from **47kb** to **601byte**. All unused selectors has been removed. You can view the documentation at [https://www.purgecss.com/\](https://www.purgecss.com/%5C) which contain details instruction and api references.
 

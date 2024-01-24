@@ -1,23 +1,26 @@
 ---
-tags: 
+tags:
   - design
+  - ui
+  - user-experience
+  - technique
 title: Three Levels Of Design
 date: 2018-03-21
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-26
 created: 2018-03-21
 ---
 
 Don Norman in his book titled *The Design of Everyday Things* talks about three levels of design — Visceral Level, Behavioral Level and Reflective Level — on how they work together and play an important role in determining how people like or dislike the product. In other words, these three levels together determine whether your product is successful or not.
 
-# 1. **Visceral Level**
+##  1. **Visceral Level**
 
 * Visceral level is about ***first impression***
 
@@ -27,11 +30,11 @@ Don Norman in his book titled *The Design of Everyday Things* talks about three 
 
 The more attractive (pretty) your product is the more chances you are going to get users’ immediate attention. Its when you hear users say, “WoW! Look at that!”
 
-* Visceral level is about ***immediate***** *****emotional impact***
+* Visceral level is about ***immediate emotional impact***
 
 Immediate feeling users get looking at your product (color, design etc.,) or touching your product (it feels good…) or feeling the immediate need of the product!
 
-# 2. **Behavioral Level**
+## 2. **Behavioral Level**
 
 * Behavioral level is about ***user experience***
 
@@ -45,7 +48,7 @@ Its not just about building the user experience, it is also about understanding 
 
 It is about what users expect from your product. In other words, the product should deliver what it promises to the users. e.g., Dropbox should allow its users to put stuff in their Dropbox and get to it from their computers, phones, or tablets.
 
-# 3. **Reflective Level**
+## 3. **Reflective Level**
 
 * Reflective level is about ***memories***
 

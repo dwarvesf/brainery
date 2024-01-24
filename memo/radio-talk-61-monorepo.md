@@ -1,22 +1,23 @@
 ---
-tags: 
+tags:
   - engineering
   - web
+  - radio
 title: Radio Talk 61 Monorepo
 date: 2023-03-27
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2023-03-27
 created: 2023-03-27
 ---
 
-# Demystifying Monorepos: A Recap of Our Recent Sharing Session
+## Demystifying Monorepos: A Recap of Our Recent Sharing Session
 
 During our [recent sharing session](https://www.youtube.com/watch?v=wgKssBAfih8&t=1s&ab_channel=DwarvesFoundation), we delved into the world of monorepos, exploring their benefits, challenges, and the tools available to manage them effectively. This recap aims to summarize the key points of the discussion and highlight some potential business outcomes of adopting monorepos.
 
@@ -26,7 +27,7 @@ A monorepo is a version control strategy where all the code for an organization'
 
 ![[31a12727d33e9854fbded1b9fbe36668_MD5.webp]]
 
-## Why choose a monorepo?
+### Why choose a monorepo?
 
 The motivation for adopting a monorepo primarily stems from the desire for autonomy and to address communication problems often associated with breaking monoliths into multiple repositories.
 

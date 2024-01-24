@@ -1,30 +1,31 @@
 ---
-tags: 
+tags:
   - team
+  - leadership
 title: The Next Leading Chairs
 date: 2022-08-26
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
 author: Han 🐸
 created_time: 2022-08-26
 created: 2022-08-26
 ---
 
-## <span style='color:red'>OUR VISION FOR GROWTH</span>
+## OUR VISION FOR GROWTH
 
 Last Jan 2020, we got the chance to celebrate our first milestone - [Dwarves Foundation reached 5 years old](https://dwarves.foundation/five). The remarkable moment contained the proudest thing we delivered.
 
-* **Remote Culture - **That enables us to make things work without any physical constraints. We were able to focus on what we value: Knowledge and People. To name a few:
-* **[T](https://dwarves.foundation/radar/)****he Handbook **- To demonstrate our culture, the future we pursue and what portrays the Dwarves.
-* **ESOP **- Once we work toward the same goal, sharing those rewards for the contributors is vital.
-* **Automation Operation **- Automating mundane processes gives us the time and effort to focus on what we do best. The ratio between engineers and operation resources is 70s to 10s.
+* **Remote Culture** - That enables us to make things work without any physical constraints. We were able to focus on what we value: Knowledge and People. To name a few:
+ - **The Handbook:** To demonstrate our culture, the future we pursue and what portrays the Dwarves.
+* **ESOP** - Once we work toward the same goal, sharing those rewards for the contributors is vital.
+* **Automation Operation** - Automating mundane processes gives us the time and effort to focus on what we do best. The ratio between engineers and operation resources is 70s to 10s.
 
-## <span style='color:red'>WHERE ARE WE ON THE SUCCESS LADDER</span>
+## WHERE ARE WE ON THE SUCCESS LADDER
 
 For these current and upcoming triumphs, it’s an honor for me to call for a small celebration for Dwarves 2.5. - A team of 80s and still thrive to co-create the future using tech.
 
@@ -41,7 +42,7 @@ To step up means to diversify the way we run.
 ![[4d913fb4cbfac771e8b55d79a1855b46_MD5.webp]]
 
 
-## <span style='color:red'>INTRODUCING THE LEADING CHAIRS</span>
+## INTRODUCING THE LEADING CHAIRS
 
 We like the idea of labeling teams by what they deliver. Hence, the next chapter of Dwarves will be based on five angles.
 

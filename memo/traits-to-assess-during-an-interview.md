@@ -1,16 +1,18 @@
 ---
-tags: 
+tags:
   - people
+  - hiring
+  - performance
 title: Traits To Assess During An Interview
 date: 2019-09-20
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: hiring
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-26
 created: 2019-09-20
 ---

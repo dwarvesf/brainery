@@ -1,17 +1,17 @@
 ---
-tags: 
-  - case study
+tags:
   - csr
+  - case-study
 title: Startupvn
 date: 2021-07-29
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: consulting
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-28
 created: 2021-07-29
 ---
@@ -25,7 +25,7 @@ created: 2021-07-29
 
 <!-- column 5773cd81-ff60-45e2-bf00-d4d86fbc4751 -->
 
-💡 <span style='color:red'>**Fostering innovation and entrepreneurship in Vietnam since 2011.**</span>
+## 💡 <span style='color:red'>**Fostering innovation and entrepreneurship in Vietnam since 2011.**</span>
 
 What started out as a weekend passion project quickly progressed into a strong, proud, aspiring community. 10 years in, <span style='color:red'>[startup.vn](http://startup.vn/)</span> is now one of the fast-growing entrepreneurial ecosystems in Vietnam, representing Vietnam at Startups Nation ([Global Entrepreneurship Network](https://www.genglobal.org/)).
 

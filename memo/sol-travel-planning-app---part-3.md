@@ -1,26 +1,27 @@
 ---
-tags: 
+tags:
   - design
-  - case study
+  - case-study
+  - service
 title: Sol Travel Planning App Part 3
 date: 2018-10-09
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-20
 created: 2018-10-09
 ---
 
-# Introduction
+## Introduction
 
 Today we shall continue our series of designing “Sol-Travel Planning” app. As we mentioned our process on UX research and UI design in the last two articles, Sol’s target users are the young so keeping the app fun with interaction is a must.
 
-# Main Motions
+## Main Motions
 
 According to Issara Willenskomer from UxinMotion, motion implementation in UX design can greatly help improving usability in four noticeable ways: fulfilling expectation from the users, maintaining continuity among a set of scenes, inventing narrative — story-telling flow throughout the user experience.
 
@@ -69,15 +70,15 @@ When the user swipes an item, it will slide to the left side of the screen to re
 ![[3601ea3b7924b28bf5b235a6c19075ab_MD5.webp]]
 
 
-# Using Protopie in creating a real-life Prototype
+## Using Protopie in creating a real-life Prototype
 
-## Why we choose Protopie
+### Why we choose Protopie
 
 At first, we were looking for an app that not only supports many interactions but also is able to create useful animations. We came across popular apps as inVision, Framer, and Flinto. Each has their pros and cons. For example, inVision is great for webpage prototype because websites don’t require high-level of gestures as mobile (swipe up and down perhaps), just moving between the screens is enough for you to create a viable prototype of your website. But, when it comes to mobile app prototype, the need for other uses of interactions is inevitable, since smartphone users are getting more familiar to a myriad of gestures. That leads us to discover advance prototyping tools like Framer. It is a powerful tool to create a prototype with no limitation of animations or interactions, though it requires a high learning curve since it involves coding, and it doesn’t support importing from Sketch very well. Whereas Protopie is a similar tool that is code-free and requires a much lower learning curve. One of the things I like most about this tool is its document, it provides sufficient info in my learning process.
 
-# Steps to create our motions
+## Steps to create our motions
 
-## Switching between segments
+### Switching between segments
 
 The idea of this motion is that when the icon area of a segment is tapped, that segment will slide into the screen as respond. Breaking it down, we have the following rules to create:
 
@@ -97,7 +98,7 @@ In order to create the color change property for the icons, the red layers’ op
 ![[a5a61528d08088ddca39a677269ac6c4_MD5.webp]]
 
 
-As default view for a Trip Info, the first segment to be viewed is Members, so the default opacity for** Member grey** is 0% to reveal the layer **Member red**.
+As default view for a Trip Info, the first segment to be viewed is Members, so the default opacity for **Member grey** is 0% to reveal the layer **Member red**.
 
 
 ![[6d86b971f9b0d3bcf2f87c83848ab205_MD5.webp]]
@@ -109,7 +110,7 @@ Next, we need to bide the active state of an icon to the appearance of a content
 ![[5163ba11518b5bd5a5e2ae8a8f4dbcd6_MD5.webp]]
 
 
-Finally, the third rule was quite more complicated to create. Let take an example. If you move from Member to Journey, the transition should be right-to-left, while from Summary to Journey, the transition would be left-to-right. So, if the user taps in a left-to-right sequence, we can arrange the content components as layers horizontally (0 400 800 1200 respectively), then each tap on an icon the **Journey**, **Expense **or **Summary **could move to the position of **Members **to create the required transition.
+Finally, the third rule was quite more complicated to create. Let take an example. If you move from Member to Journey, the transition should be right-to-left, while from Summary to Journey, the transition would be left-to-right. So, if the user taps in a left-to-right sequence, we can arrange the content components as layers horizontally (0 400 800 1200 respectively), then each tap on an icon the **Journey**, **Expense or Summary could move to the position of Members to create the required transition.
 
 ![[fe8322f24df5c58f2acfa274152a12d2_MD5.webp]]
 

@@ -15,7 +15,7 @@ created_time: 2021-07-20
 created: 2020-05-21
 ---
 
-# Software Development Kit (SDK)
+## Software Development Kit (SDK)
 
 SDK stands for Software Development Kit: the tools and software to develop application through a specific platform. SDK provides libraries, document, templates, code sample, debugging, supportive documentation or additional document for developers to integrate into their software/ application. SDK can also be a combination of many APIs under the form of libraries to interact with the operating system.
 
@@ -27,7 +27,7 @@ Let's take a cellphone for an example. Every cellphone has an operating system w
 * Interact with files
 * Manage cookies
 
-# Event Sourcing
+## Event Sourcing
 
 Event Sourcing is a term for an architecture that is designed for interaction/ communication between app A and app B. Event Sourcing acts as a message-oriented middleware where data is stored and sorted on prioritized order, and ready to be called out for communication purpose between parties.
 

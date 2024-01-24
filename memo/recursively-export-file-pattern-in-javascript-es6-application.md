@@ -1,23 +1,24 @@
 ---
-tags: 
+tags:
   - js
+  - engineering
 title: Recursively Export File Pattern In Javascript Es6 Application
 date: 2019-09-07
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-20
 created: 2019-09-07
 ---
 
 ![[08f14b555ce54599844167b5700622ca_MD5.webp]]
 
-# Introduction
+## Introduction
 
 Imagine you have a lot of components and you imported it like this:
 
@@ -36,7 +37,7 @@ Instead of importing component like above. You would want to import your compone
 
 * Can’t export members who name has been exported already. Eg: Component/A export A member so Component/B cannot export A member.
 
-# Implementation
+## Implementation
 
 To implement this style, We use re-export statement which is all feature of Javascript ES6: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
 

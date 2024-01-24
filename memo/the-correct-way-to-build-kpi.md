@@ -1,17 +1,17 @@
 ---
-tags: 
+tags:
   - tips
   - productivity
 title: The Correct Way To Build Kpi
 date: 2020-11-03
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-20
 created: 2020-11-03
 ---

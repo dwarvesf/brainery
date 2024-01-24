@@ -1,16 +1,17 @@
 ---
-tags: 
-  - react.js
+tags:
+  - react
+  - web
 title: Setup React Project With Webpack And Babel
 date: 2019-05-02
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-20
 created: 2019-05-02
 ---

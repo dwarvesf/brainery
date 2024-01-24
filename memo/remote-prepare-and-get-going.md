@@ -1,16 +1,18 @@
 ---
-tags: 
+tags:
   - remote
+  - team
+  - performance
 title: Remote Prepare And Get Going
 date: 2016-01-15
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-23
 created: 2016-01-15
 ---
@@ -40,7 +42,7 @@ We want our Dwarves to wake up at 7am in the beach, grab a coffee and start doin
 ![[c02371c7846c1100e23ace26df8c0be1_MD5.webp]]
 
 
-### The good and the bad
+## The good and the bad
 
 <!-- column_list 104ceeb2-3db8-444c-97d3-85ac26587a57 -->
 
@@ -104,12 +106,10 @@ In other studies, people has found that exposure to certain colors can play a ro
 **At working space**
 
 [https://placestowork.net](https://placestowork.net/)
-
 [https://workfrom.co](https://workfrom.co/)
-
 [https://coworker.com](https://coworker.com/) 
 
-### Tooling & Setup
+## Tooling & Setup
 
 * Document: GDrive & Notion
 * Collaboration: ClickUp
@@ -118,8 +118,7 @@ In other studies, people has found that exposure to certain colors can play a ro
 * Internal Communication: Slack
 * Meeting: Google Calendar
 
-### Articles
+## Articles
 
 [https://blog.aha.io/remote-team-instant-message/](https://blog.aha.io/remote-team-instant-message/)
-
 [https://ux.shopify.com/remotely-remoting-cbdb68b2fb80](https://ux.shopify.com/remotely-remoting-cbdb68b2fb80)

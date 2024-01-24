@@ -1,7 +1,7 @@
 ---
 tags:
-  - case
-  - study
+  - case-study
+  - service
 title: Team Up With Basehq Us First Ever Platform Built For Assistants
 date: 2021-08-06
 description: 
@@ -9,7 +9,7 @@ authors:
 menu: memo
 toc: 
 notice: 
-type: 
+type: memo
 hide_frontmatter: false
 author: 
 created_time: 2021-08-06
@@ -18,13 +18,13 @@ created:
 
 ![[019ef328b59808b45c4541243f71c875_MD5.webp]]
 
-### <span style='color:green'>In brief</span>
+## In brief
 
 * Base launched in 2019 out of High Alpha Venture Studio, with a $2.6M funding round led by Matchstick Ventures with participation from Revolution's Rise of the Rest Seed Fund, High Alpha Capital, and Slack Fund.
 * Base is a software platform built specifically for executive assistants. Focus on smoothing out assistants' daily work. They demand a high integration between different platforms.
 * We stepped in to make it happen. Through 2 years straight, they engaged with Dwarves to develop various new modules and features. Our work helped Base to catch up with their release roadmap and ensured product quality.
 
-### <span style='color:green'>Technical Highlight</span>
+## Technical Highlight 
 
 ---
 
@@ -34,7 +34,7 @@ created:
 * Write end-user app with ReactJS/NextJS Typescript to scalability
 * Custom-library and webhook for EventCatching
 
-### <span style='color:green'>The Context</span>
+## The Context
 
 ---
 
@@ -48,25 +48,25 @@ By pulling necessary data into one system, assistants can generate and use data 
 
 <!-- column e0d6ea4d-043e-4aa9-9b71-a9a64edad1f8 -->
 
-⚙️ Their goal is <span style='color:green'>an all-in-one platform for critical data</span>. From calendar, tasks, decision stream, digest builders and scheduler. 
+⚙️ Their goal is <span style='color:pink'>an all-in-one platform for critical data</span>. From calendar, tasks, decision stream, digest builders and scheduler. 
 
 
 ![[3d15a0c958a3f23f8935c803726b9d2a_MD5.webp]]
 
 
-### <span style='color:green'>Engagement Model</span>
+## Engagement Model
 
 ---
 
 Our work with Base contains codebase development and technical consultancy. We help refactor the code while suggesting new architecture for new apps or UI/UX advice
 
-We took over the big legacy code and optimize them to ensure product stability. The architecture contains two main parts: <span style='color:green'>End-user App</span> and <span style='color:green'>Admin Tool</span>. 
+We took over the big legacy code and optimize them to ensure product stability. The architecture contains two main parts: <span style='color:pink'>End-user App</span> and <span style='color:pink'>Admin Tool</span>. 
 
 <!-- column_list cf55d995-2a44-4169-a47d-fafff94e1a1e -->
 
 <!-- column cba80473-839f-46cc-9e68-dc7129de3273 -->
 
-<span style='color:green'>**Tech stacks**</span>
+**Tech stacks**
 
 * Backend: Go, Node.js
 * Frontend: React.js, Next.js, Typescript
@@ -76,7 +76,7 @@ We took over the big legacy code and optimize them to ensure product stability. 
 
 <!-- column 2aa761da-0235-474e-aae9-a5855c7f30d2 -->
 
-<span style='color:green'>**Collaboration**</span>
+**Collaboration**
 
 * Jira: Task management
 * Slack: Team discussion
@@ -84,8 +84,7 @@ We took over the big legacy code and optimize them to ensure product stability. 
 * Git/ Gitflow: Codebase
 * Github Action: CI/CD
 
-### <span style='color:green'>Outcome</span>
-
+### Outcome
 ---
 
 <!-- column_list 1a001304-b7fc-4a48-8637-2ed301569088 -->

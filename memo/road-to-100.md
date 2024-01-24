@@ -1,14 +1,16 @@
 ---
-tags: 
+tags:
   - team
+  - performance
+  - hiring
 title: Road To 100
 date: 2022-08-26
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: hiring
 hide_frontmatter: false
 author: Han 🐸
 created_time: 2022-08-26
@@ -19,7 +21,7 @@ created: 2022-08-26
 
 On our way to meet the 81th and onward, we're launching a mechanism to help us find like-minded DNAs, and co-create our future using tech.
 
-# <span style='color:red'>The Dwarves Referral Program</span>
+## The Dwarves Referral Program
 
 We usually hire and keep the quality bar. The Dwarves are encouraged to recommend friends they think might be a good match for the team. The suggestion, then, appears more valuable that you already know who the missing piece is. A quick suggestion on the talent pool
 
@@ -29,7 +31,7 @@ We usually hire and keep the quality bar. The Dwarves are encouraged to recommen
 
 We want to spend the bonus on you rather than the headhunting agency. Once the referral gets successfully converted into a full-time position and deployed to a project, the referrer will receive <span style='color:red'>**2.5%**</span> of the project service fee. <span style='color:red'>This ratio is applicable until Jan 01/ 2023</span>.
 
-### <span style='color:red'>Calculation</span>
+## Calculation
 
 This bonus is paid upon completion of the project invoice. The referrer must still be employed with the company when the bonus is to be given.
 
@@ -41,7 +43,7 @@ Let's take this for example:
 
 📍 Thus, for <span style='color:red'>**5**</span> referral cases, you’ve just grown the passive income to <span style='color:red'>**$625/ month**</span>.
 
-# <span style='color:red'>Backed by the automation</span>
+## Backed by the automation
 
 If there's one amongst the things we stay proud of, is that whenever the situation calls for ad-hoc solutions, the team is ready to provide. Folks, meet the <span style='color:red'>**Dwarves' Referral Dashboard of 2022**</span>.
 
@@ -52,7 +54,7 @@ The latest stats on our current referral bonus & the top leaderboard. A huge tha
 
 ![[8a7a01a12a0d02bfbc4ea9dc305d68e1_MD5.webp]]
 
-# <span style='color:red'>Grow a better squad</span>
+## Grow a better squad
 
 Tempted to put your name in the dashboard?
 

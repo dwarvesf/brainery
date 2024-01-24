@@ -1,27 +1,26 @@
 ---
-tags: 
+tags:
   - design-thinking
+  - software
 title: What I Learned On Design Thinking And Software Development
 date: 2021-05-10
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-19
 created: 2021-05-10
 ---
 
 I'm Huyen Le - newcomer of Dwarves Foundation. Last week, I was taught under the instruction of Khai Le about design thinking and how it works in a design process of a software project. So I decided to write a recap of what I've learned.
 
-
 According to my knowledge, the basic definition of design thinking is an iterative process in which we understand the user's needs and problems. Define the problems to bring out the most ideal solutions, then we prototype the idea and test.
 
-
-### The five phases of Design Thinking
+## The five phases of Design Thinking
 
 * Empathize - Understand the audience.
 * Define - Define the user's problems, needs and insight.
@@ -33,8 +32,7 @@ As a graphic designer and illustrator at the beginning, I realize that design th
 
 Consequently, there is a methodology called Software Development Life Cycle (SDLC) that helps us produce software and possible. That means the software will be finished with the lowest budget and the highest quality in the shortest time.
 
-
-### The SDCL includes seven phases
+## The SDCL includes seven phases
 
 * Requirement analysis - Empathize, research, getting input
 * Planning - Manage project constraints

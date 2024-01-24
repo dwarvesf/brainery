@@ -1,18 +1,19 @@
 ---
-tags: 
+tags:
   - security
   - engineering
-  - dwarves
+  - event
+  - community
 title: The Key Of Security Mechanisms In Tackling Cyber Threats
 date: 2022-12-26
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2022-12-26
 created: 2022-12-26
 ---
@@ -23,7 +24,7 @@ created: 2022-12-26
 Hieu PC was a pro ex-hacker who made headlines and is now a Security Expert at Vietnam's National Cybersecurity Centre (NCSC). He leads the organization to build a robust ICT security infrastructure to protect Vietnam from external and internal attacks. One of the insiders who worked actively in preventing attacks by cyber terrorists on Vietnam's Internet Infrastructure and a founder of [chongluadao.vn](http://chongluadao.vn/) (the largest online community in Vietnam on hacking and ethical hacking).
 
 
-### <span style='color:red'>Produce first, secure later?</span>
+## Produce first, secure later?
 
 ---
 
@@ -31,7 +32,7 @@ There is a common misconception amongst programmers that product development is 
 
 Product development is an ongoing process that should never be considered complete. As new threats emerge, security vulnerabilities are discovered and new features are added, the product must continue to evolve to stay ahead of the curve. Failing to do so can have serious consequences for the project, the client, and the company.
 
-### <span style='color:red'>Elements of cybersecurity.</span>
+## Elements of cybersecurity.
 
 ---
 
@@ -39,7 +40,7 @@ Cybersecurity is divided into four elements: credibility, intellectual property 
 
 Customers are becoming more and more aware of the importance of their data security, and they will not hesitate to take their business elsewhere if they feel their information is at risk. By investing in a strong cybersecurity infrastructure, you can give your customers the peace of mind they need to stay with you for the long haul.
 
-### <span style='color:red'>Security should be built in, not bolt-on.</span>
+## Security should be built in, not bolt-on.
 
 ---
 
@@ -62,24 +63,22 @@ Thirdly, build a strong infrastructure. A solid foundation will make it much har
 Finally, all important accounts should enable 2-step security. In today's digital age, a single password is simply not enough to protect your data.
 
 
-### <span style='color:red'>**The most important thing for an engineer is to be up-to-date on the latest security standards.**</span>
-
+## The most important thing for an engineer is to be up-to-date on the latest security standards.
+---
 As a programmer, it is essential to be up-to-date on the latest security standards. Security should be a top priority for any programmer, as it is essential in keeping information safe. There are many ways to improve security, and it is important to learn as many of them as possible. 
 
 One way to stay informed about security standards is to regularly conduct core reviews. These reviews help identify potential security risks and vulnerabilities. Another way to improve security is to file centered on functional requirements. This ensures that all aspects of the project are properly secured. 
 
 Additionally, programmers should provide guidance on security for the project, apply security at each stage of product development, and don’t forget to keep learning. By following these best practices, programmers can help keep their projects secure and ensure that information remains safe.
 
-
+---
 
 The Teach Event #5 with Hieu PC was a great success, with everyone in attendance has received a wealth of useful information. Here is hoping that what we shared resonated, and believing that everyone left the session with some new and useful tips that theory can apply to their work and personal lives. 
 
 Hope to see you again at future events that promise to be even more exciting.
 
 📩  Reach out to Mr. Hieu PC and chongluadao: [chongluadao.vn](http://chongluadao.vn/) or [info@chongluadao.vn](mailto:info@chongluadao.vn)
-
 📍 We’re glad to hear your favorite topics at: [https://discord.gg/dwarvesv](https://discord.gg/dwarvesv)
-
 📍 For those who missed the session, please visit: [https://www.youtube.com/watch?v=8z33k8A-97g](https://www.youtube.com/watch?v=8z33k8A-97g)
 
 ---

@@ -1,15 +1,15 @@
 ---
-tags: 
+tags:
   - team
   - leadership
 title: The Inner Circle
 date: 2023-01-19
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
 author: Han 🐸
 created_time: 2023-01-19

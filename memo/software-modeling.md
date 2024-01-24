@@ -1,21 +1,20 @@
 ---
-tags: 
+tags:
   - modeling
+  - software
 title: Software Modeling
 date: 2020-05-08
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-20
 created: 2020-05-08
 ---
-
-
 
 ## Agenda
 
@@ -25,20 +24,20 @@ created: 2020-05-08
 
 This is how I approach a new topic or knowledge, starts with why, understand the concept and figure out how to make it happen.
 
-# Why do we need Software Modeling
+## Why do we need Software Modeling
 
 This can be summed up into 2 definitions:
 
 * Maintainability: Software Modeling helps to maintain a system, or a project. It ensures the based document for newbies to approach and get to know the system thoroughly.
 * Scalability: helps developers to add sub-system or new feature onto the current one, without creating conflicts.
 
-# What is Software Modeling
+## What is Software Modeling
 
 According to Wikipedia, Software Modeling came out in a lengthy definition. So I took the privilege to paraphrase it like below:
 
 → **Software Modeling is how to turn an activity of an object from reality to a form that computers can understand and execute.**
 
-# How to do Software Modeling
+## How to do Software Modeling
 
 People create things to help them solve a problem, instead of doing that themselves. Tools are made to help us do the work easier. The purpose of Software Modeling is to reconstruct the actions that an application needs to take, or the product owner wants to happen.
 
@@ -156,7 +155,7 @@ To create a completed main action, every object needs its own SMD. The core of a
 * Backend: Module of each object to collect database
 * A place to log the arising situation during the process of calling API
 
-# Recap
+## Recap
 
 ### Software Modeling in Agile team
 

@@ -1,16 +1,18 @@
 ---
-tags: 
+tags:
   - design
+  - design-thinking
+  - web
 title: Understanding An Application Design
 date: 2021-07-09
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-10
 created: 2021-07-09
 ---

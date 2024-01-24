@@ -1,18 +1,18 @@
 ---
-tags: 
+tags:
   - engineering
   - frontend
   - radio
 title: React 18
 date: 2022-06-06
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2022-06-06
 created: 2022-06-06
 ---
@@ -184,5 +184,3 @@ root.render(<App tab="home" />);
 
 * In a summary, React 18 comes with a few breaking changes, depending on how you use it. But all in all, it also brings out-of-the-box performance improvements including batching more by default, which removes the need to manually batch updates in application or library code.
 * Upgrading to React 18 should be straightforward, give it a try and let us know what you think.
-
-### 

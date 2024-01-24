@@ -1,17 +1,17 @@
 ---
-tags: 
+tags:
   - operation
   - tips
 title: Writing Management Objectives In Smart
 date: 2020-02-25
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-24
 created: 2020-02-25
 ---
@@ -29,14 +29,12 @@ When setting a goal, be specific about what you want to accomplish. Think about 
 * Which – Determine any related obstacles or requirements. This question can be beneficial in deciding if your goal is realistic. For example, if the goal is to open a baking business, but you’ve never baked anything before, that might be an issue. As a result, you may refine the specifics of the goal to be “Learn how to bake in order to open a baking business."
 * Why – What is the reason for the goal? When it comes to using this method for employees, the answer will likely be along the lines of company advancement or career development.
 
-*Incorrect Goal: Make a cross*-*browser layout of the www.site.com**Correct Goal: www.site.com must be equally displayed in browsers IE6* +*, Opera 6*+*, and Firefox 2*+
-*Incorrect Goal: Make a valid layout of the www.site.com**Correct Goal: www.site.com must completely pass check validators w3c.org*
-
+*Incorrect Goal: Make a cross-browser layout of the www.site.comCorrect Goal: www.site.com must be equally displayed in browsers IE6 +, Opera 6+, and Firefox 2+ Incorrect Goal: Make a valid layout of the www.site.comCorrect Goal: www.site.com must completely pass check validators w3c.org*
 ## M – Measurable
 
 What metrics are you going to use to determine if you meet the goal? This makes a goal more tangible because it provides a way to measure progress. If it’s a project that’s going to take a few months to complete, then set some milestones by considering specific tasks to accomplish.
 
-*Incorrect Goal: Increase traffic on the site.**Correct Goal: The traffic on the site must be 2,000 visitors per day.**Incorrect Goal: Make every visitor to buy more.**Correct Goal: Increase the sum of an average check by 10%.*
+*Incorrect Goal: Increase traffic on the site.**Correct Goal: The traffic on the site must be 2,000 visitors per day. Incorrect Goal: Make every visitor to buy more.** Correct Goal: Increase the sum of an average check by 10%.*
 
 ## A – Achievable/Attainable
 

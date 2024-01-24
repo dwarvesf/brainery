@@ -1,18 +1,18 @@
 ---
-tags: 
+tags:
   - frontend
   - engineering
   - radio
 title: React Native New Architecture
 date: 2022-06-14
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2022-06-14
 created: 2022-06-14
 ---
@@ -33,24 +33,24 @@ We will find out what changes this new architecture have made to improve the per
 
 The content of the post will include the following main sections:
 
-1. **Old architecture of react-native **📺
-1. **What's new in New Architecture **🌟
-1. **Fabric - JSI - Turbo module  **🚀
-1. **Migrate to the new architecture? **⬆️
+1. **Old architecture of react-native** 📺
+1. **What's new in New Architecture** 🌟
+1. **Fabric - JSI - Turbo module** 🚀
+1. **Migrate to the new architecture?** ⬆️
 
-# **Old architecture of react-native **📺
+## **Old architecture of react-native** 📺
 
 Basically, the old react-native architecture was standing on 3 threads running in parallel
 
 ![[be56fa7f4ae19c9284e37e61706d1133_MD5.webp]]
 
-1. **JavaScript thread: **Where the JS code is read and compiled and where the React Native app business logic is handled
+1. **JavaScript thread:** Where the JS code is read and compiled and where the React Native app business logic is handled
 1. **Native UI thread:** Responsible for the app's UI, this is where the native code is executed
 1. **Shadow thread**: Where React Native calculates your app's layout using Facebook's Yoga (its own layout engine), which turns flexbox-based styles and turns them into native height, spacing, width...
 
 ![[00906c2cfe7b99ad8994125f2dad50e8_MD5.webp]]
 
-## Cause of congestion, slowness, f**rame drop -** **Bridge  **🐌
+## Cause of congestion, slowness, frame drop - Bridge**🐌
 
 **In order to make the communication between the Native and the JS thread possible, you had to use a C++ module: Bridge.**
 
@@ -67,18 +67,18 @@ Threads based on a JSON signal stream get sent over a Bridge asynchronously, but
 
 ![[044af91a93a00b09540b03b991e4e32a_MD5.webp]]
 
-# 🌟 **What's new in New Architecture **🌟
+## 🌟 **What's new in New Architecture**🌟
 
 
 ![[fb23cab260bd0ec3a95ac7d6a69c461a_MD5.webp]]
 
-* **Fabric: **Fabric is the rendering system, which will replace the current UI Manager.
+* **Fabric:** Fabric is the rendering system, which will replace the current UI Manager.
 * **JSI:** JavaScript Interface, general-purpose layer, written in C++ can be used by the JavaScript engine to directly invoke/call methods in the native realm.
-* **Turbo modules: **This will significantly improve startup time for ReactNative apps.
+* **Turbo modules:** This will significantly improve startup time for ReactNative apps.
 
 ---
 
-# Fabric  🧩
+## Fabric  🧩
 
 * Fabric is the rendering system, which will replace the current UI Manager.
 * The Fabric renderer seeks to improve the interoperability of React Native with host platforms, which are responsible for embedding React Native in Android, iOS, macOS, Windows, etc.
@@ -88,7 +88,7 @@ Threads based on a JSON signal stream get sent over a Bridge asynchronously, but
 ReactElementTree (JavaScript) --> ReactShadowTree(C++) --> HostViewTree(Native) 
 
 
-# **JSI - JavaScript Interface **🎨
+## **JSI - JavaScript Interface** 🎨
 
 Through the JSI, Native methods will be exposed to JavaScript via C++ Host Objects. JavaScript can hold a reference to these objects. And can invoke the methods directly using that reference.
 
@@ -97,7 +97,7 @@ Through the JSI, Native methods will be exposed to JavaScript via C++ Host Objec
 
 ![[1066bb62cbc4d9beda7e03d43006c669_MD5.webp]]
 
-# **Turbo modules **🚀
+## **Turbo modules** 🚀
 
 * Turbo Modules are basically an enhancement over these old Native modules
 * JavaScript will be able to hold reference to these module
@@ -114,7 +114,7 @@ Through the JSI, Native methods will be exposed to JavaScript via C++ Host Objec
 
 ---
 
-# **Should I migrate to the new architecture? **⬆️
+## **Should I migrate to the new architecture?**⬆️
 
 Not yet!
 

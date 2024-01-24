@@ -1,17 +1,19 @@
 ---
-tags: 
+tags:
   - design
   - technique
+  - user-experience
+  - ui
 title: The Principle Of Spacing In Ui Design Part 2
 date: 2018-11-01
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-20
 created: 2018-11-01
 ---
@@ -70,7 +72,6 @@ Whatever you want to connect a group of elements, you always make sure around th
 ### Spacing within components with icons
 
 I used 8px for spacing between components with icons. It is a great number that you can apply for any adjacent components and connect them together. You can choose another reasonable number — giving yourself the freedom to find a lot of easier to build a better UI design.
-
 
 ## In conclusion
 

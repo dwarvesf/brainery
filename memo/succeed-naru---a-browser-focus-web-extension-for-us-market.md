@@ -1,29 +1,30 @@
 ---
-tags: 
-  - case study
+tags:
+  - case-study
+  - service
 title: Succeed Naru A Browser Focus Web Extension For Us Market
 date: 2021-04-18
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-26
 created: 2021-04-18
 ---
 
 ![[555ddca0569a9215693380803968f618_MD5.webp]]
 
-### <span style='color:purple'>In brief</span>
+## In brief
 
 * Being a digital designer who looks for inspiration and digital trends, Matt hopes for a productivity tool that could lend well to his browsing habit. 
 * Matt got in contact with us via a connection of a friend. We were surprised by the opportunity he provides: <span style='color:purple'>A browser extension for works management</span>. We did explore web extension - but never had an opportunity for real trial. 
 * We take the chance to help bring it to market. A great working experience with US timezone and a notable milestone for turning web extension into viable-type product.
 
-### <span style='color:purple'>Highlight</span>
+## Highlight
 
 ---
 
@@ -32,7 +33,7 @@ created: 2021-04-18
 * First time trial GraphQL instead of typical RESTful API - gave us the flexibility to query exactly what we need and nothing more. 
 * Async Communication practices to decide what's important based on current timeline, roadmap and release plan. It avoids quickly jump and redundant features. 
 
-### <span style='color:purple'>The Context</span>
+## The Context
 
 ---
 
@@ -52,7 +53,7 @@ An enhanced version of to-do list - but acts as a widget within user's browser.
 ![[d927454304f52e14ce05b4f4775a89e9_MD5.webp]]
 
 
-### <span style='color:purple'>Engagement Model</span>
+## Engagement Model
 
 ---
 
@@ -67,11 +68,11 @@ Making a web extension behaves like an application (says Trello) is nontrivial. 
 ![[b3b2601850f4c0d06180f0d42d3816b3_MD5.webp]]
 
 
-<span style='color:purple'>**Collaboration**</span>
+**Collaboration**
 
 Matt resides in the U.S. It's 11 hours away from us. He had to stay up at 9pm and we woke up at 8am for our daily catchup. We quickly realize such a schedule won't work in the long run. 
 
-After 2 sprints, we proposed "<span style='color:purple'>Async Communication</span>". Daily calls became daily check-in writeup.  Meeting turns to 15' quick calls: Sprint planning, Mid-sprint adjustment and Sprint retrospective. 
+After 2 sprints, we proposed "<span style='color:pink'>Async Communication</span>". Daily calls became daily check-in writeup.  Meeting turns to 15' quick calls: Sprint planning, Mid-sprint adjustment and Sprint retrospective. 
 
 Daily check-in forces us to define the daily focus. It removes unnecessary ideas. It sticks us on the right track.
 
@@ -81,7 +82,7 @@ Daily check-in forces us to define the daily focus. It removes unnecessary ideas
 
 As we partner, more product ideas & features come up from payment plans, team collaboration and analytics. The ideas are unorganized. 
 
-It leads us to 2 todo "list": "<span style='color:purple'>Icebox</span>" and "<span style='color:purple'>Client feedback</span>". This drives a sense in separating feedback and idea contribution. 
+It leads us to 2 todo "list": "<span style='color:pink'>Icebox</span>" and "<span style='color:pink'>Client feedback</span>". This drives a sense in separating feedback and idea contribution. 
 
 The team meet up twice a week to go through the lists, modify each item to structured software requirements, and propose for clarification. 
 
@@ -92,7 +93,7 @@ Once those requirements became new features. We either put to future sprints or 
 ![[0016a11ceee95f0f80f645246100a0b8_MD5.webp]]
 
 
-<span style='color:purple'>**Release-schedule**</span>
+**Release-schedule**
 
 * Prerelease (sideload version) every Monday morning: This gives us a week ahead to test the release. 
 * Web store releases: We wrap-up a prerelease a week in advance. All features are frozen. We spend the next sprint for prerelease testing. It must be stable before deployed on the web store.
@@ -101,7 +102,7 @@ Once those requirements became new features. We either put to future sprints or 
 
 <!-- column 0c8177ba-db9b-492b-917c-92c7b4e6ac86 -->
 
-<span style='color:purple'>**Tech stacks**</span>
+**Tech stacks**
 
 * Backend: Elixir
 * Framework: Phoenix
@@ -111,13 +112,13 @@ Once those requirements became new features. We either put to future sprints or 
 
 <!-- column a5d1a1b2-ba5b-4049-bf9c-fdf2ed020084 -->
 
-<span style='color:purple'>**Tooling**</span>
+**Tooling**
 
 * Basecamp: Team discussion and client advisory
 * Tracked: Task management
 * Async communication: Team sync-up
 
-### <span style='color:purple'>Outcome</span>
+## Outcome
 
 ---
 
@@ -125,7 +126,7 @@ Once those requirements became new features. We either put to future sprints or 
 
 <!-- column a7b0906e-d6c7-48a5-9dd2-6909d757f39f -->
 
-After 3 months, the very first stable version of <span style='color:purple'>[Naru.app](https://naru.app/)</span> hit the web store - indicating our very first success in web extension development. 
+After 3 months, the very first stable version of <span style='color:pink'>[Naru.app](https://naru.app/)</span> hit the web store - indicating our very first success in web extension development. 
 
 Moving forward, we head for advanced features: team collaboration, team space and activity dashboard.
 
@@ -133,7 +134,7 @@ Moving forward, we head for advanced features: team collaboration, team space an
 
 ![[42abd565f445828e197f8b58e17be8a4_MD5.webp]]
 
-It's going to be a busy and an exciting year. Currently, the beta-user is getting invited through <span style='color:purple'>[Typeform](https://naruappco.typeform.com/to/d3hurf)</span>. 
+It's going to be a busy and an exciting year. Currently, the beta-user is getting invited through <span style='color:pink'>[Typeform](https://naruappco.typeform.com/to/d3hurf)</span>. 
 
 <!-- column_list ca403362-39f6-4809-b204-c9aaec5b49fa -->
 

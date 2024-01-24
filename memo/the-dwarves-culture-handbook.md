@@ -1,16 +1,17 @@
 ---
-tags: 
-  - dwarves
+tags:
+  - culture
+  - handbook
 title: The Dwarves Culture Handbook
 date: 2020-07-27
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2020-07-23
 created: 2020-07-27
 ---

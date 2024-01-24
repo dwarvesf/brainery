@@ -28,7 +28,7 @@ created: 2023-04-11
 
 PNPM is a package manager for Node.js which stands for “Performant NPM”. It was introduced in 2016, the same year Yarn was released. PNPM is a fast, disk space efficient package manager that supports monorepos. It creates a non-flat `node_modules` by default, so code has no access to arbitrary packages. PNPM performs installation in three stages: 
 
-1. **Dependency resolution **- The package manager identifies and fetches all required dependencies to the store.
+1. **Dependency resolution** - The package manager identifies and fetches all required dependencies to the store.
 1. **Directory structure calculation** - Based on these dependencies, it calculates the layout of the `node_modules` directory.
 1. **Linking dependencies** - it retrieves and establishes hard links from the store to `node_modules` for all remaining dependencies.
 
@@ -52,7 +52,7 @@ As you can see, PNPM does not store packages in the `node_modules` folder, but r
 
 Thanks to this, package versions are only stored once on the disk
 
-### **Boosting installation speed****[](https://pnpm.io/motivation#boosting-installation-speed)**
+### **Boosting installation speed**[](https://pnpm.io/motivation#boosting-installation-speed)
 
 PNPM performs installation in three stages:
 
@@ -66,7 +66,7 @@ This approach is significantly faster than the conventional method of identifyin
 
 ![[memo/assets/what-is-pnpm-compare-to-npmyarn/acaaed15e34c391a1ff6b81bbbf6163f_MD5.jpeg]]
 
-### **Creating a non-flat node_modules directory****[](https://pnpm.io/motivation#creating-a-non-flat-node_modules-directory)**
+### **Creating a non-flat node_modules directory**[](https://pnpm.io/motivation#creating-a-non-flat-node_modules-directory)
 
 First of all, we must ask why NPM chooses the flat `node_modules` structure approach.
 
@@ -132,7 +132,6 @@ However, there are a few disadvantages of using PNPM. One of them is that it can
 PNPM's node_modules layout uses [symbolic links to create a nested structure of dependencies](https://pnpm.io/symlinked-node-modules-structure). This has some implications for certain setups, where Windows machines or certain permissioned Linux environments may have trouble accessing these links.
 
 Another potential issue with PNPM is that its nested dependency structure may not be compatible with certain older packages. [This can cause issues when trying to install packages that have dependencies that are not compatible with PNPM’s nested structure](https://pnpm.io/limitations).
-
 ## **Showcase**
 
 Thankfully, PNPM is employed by numerous large companies, demonstrating its effectiveness. For an updated list, you can visit [https://pnpm.io/users](https://pnpm.io/users).

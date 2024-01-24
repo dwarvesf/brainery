@@ -1,21 +1,22 @@
 ---
-tags: 
+tags:
   - k8s
+  - software
 title: What Is Kubernetes
 date: 2019-09-27
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-20
 created: 2019-09-27
 ---
 
-# What is Kubernetes
+## What is Kubernetes
 
 Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available.
 
@@ -51,7 +52,7 @@ Containers are becoming popular because they have many benefits. Some of the con
 * Resource isolation: predictable application performance.
 * Resource utilization: high efficiency and density.
 
-# **Why we need K8s ?**
+## **Why we need K8s ?**
 
 * Service discovery and load balancing
 * Storage orchestration
@@ -62,7 +63,7 @@ Containers are becoming popular because they have many benefits. Some of the con
 
 Take full docs at: [https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
 
-# The basic Kubernetes objects
+## The basic Kubernetes objects
 
 * [Pod](https://kubernetes.io/docs/concepts/workloads/pods/pod-overview/)
 * [Service](https://kubernetes.io/docs/concepts/services-networking/service/)

@@ -1,17 +1,19 @@
 ---
-tags: 
+tags:
   - design
+  - ui
+  - user-experience
   - technique
 title: The Principle Of Spacing In Ui Design Part 1
 date: 2018-01-18
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-19
 created: 2018-01-18
 ---

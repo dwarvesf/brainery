@@ -1,17 +1,17 @@
 ---
-tags: 
+tags:
   - people
   - process
 title: Qc Onboarding
 date: 2017-07-13
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2017-11-13
 created: 2017-07-13
 ---

@@ -1,16 +1,17 @@
 ---
-tags: 
+tags:
   - engineering
+  - performance
 title: The 10x Engineer
 date: 2016-03-01
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-23
 created: 2016-03-01
 ---
@@ -30,20 +31,20 @@ More:
 * [10X Engineer](https://gorillalogic.com/blog/10x-engineer-series-part-1-2/)
 * [Becoming a 10X engineer](https://hackernoon.com/becoming-a-10x-engineer-is-it-possible-a8cf593392c3)
 
-# The depict of a 10x Engineer
+## The depict of a 10x Engineer
 
-## Definition
+### Definition
 
 10x engineers (10xe) must not be mediocre engineers who are in the middle of the pyramid of the ability, productivity and quality, instead they must be above the middle of the pyramid. 10xes are always obsessed with the quality of the output they deliver, outperform the mediocre engineers in terms of specialized (e.g technical/designing) skills, communication, entrepreneurship mindset and skills, and contribution. They are doers, creators, thing breakers, on the way or already innovators to create better things.
 
-## Mindset
+### Mindset
 
 * Growth Mindset
 * Creative
 * Innovative
 * Contributive
 
-## Skillset
+### Skillset
 
 * Communication
 

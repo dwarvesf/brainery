@@ -15,18 +15,13 @@ created_time: 2020-09-01
 created: 2020-09-07
 ---
 
-
-
 ## Minimal human intervention
 
 Our operations runs on four branches: <span style='color:pink_background'>*Account*</span> for client happiness arrangement - <span style='color:pink_background'>*PeopleOps*</span> for resource allocation - <span style='color:pink_background'>*Human Resource*</span> for recruitment and employee experience, & <span style='color:pink_background'>*Communication*</span> for info transmission across the platforms. 
 
-
 It's a bit different from other operations flows out there. But we do it on purpose.
 
-
 We figure a small team is easier to share perspectives, update on what's happening and discuss different work aspects. Besides better communication, working cross functional creates a higher chance to understand the whole operation flow. 
-
 
 Fewer committee lets us run things in a startup model. Draft a plan. Execute the todos. Fail fast. Learn. Do it again and do it better. Other than productivity, we aim for collaborative.
 

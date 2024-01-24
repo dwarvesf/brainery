@@ -18,17 +18,17 @@ created: 2020-11-05
 
 Before XPC we used to pick up Sockets and Mach Messages (Mach Ports).
 
-# XPC for communicating processes
+## XPC for communicating processes
 
 The XPC mechanism offers an alternative to sockets (or Mach Services using MIG) for IPC. We could have, for example, a process that acts as a “server” waiting for clients to access its API and provide some service.
 
-# XPC Services on applications
+## XPC Services on applications
 
 When we talk about XPC Services (capital ‘S’), we are referring to the bundle called XPC Service. Bundles in Apple ecosystem refers to entities represented by a specific directory structure. The most common Bundle you encounter are Application Bundles. If you right-click on any application (For example Chess.app) and select Show content, what you’ll find is a directory structure. Back to XPC, applications can have may XPC Service bundles. You’ll find them inside the Contents/XPCServices/ directory inside the application bundle. Yo can search in your /Applications directory and see how many of the applications rely on XPC Services.
 
 You can also have XPC Services inside Frameworks (Which are another type of Bundle).
 
-# Additional Benefits of XPC Services
+## Additional Benefits of XPC Services
 
 Using XPC Services in our apps allow us to break some functionality in separate modules (The XPC Service). We could create an XPC Service that can be in charge of running some costly but infrequent tasks. For example, some crypto task to generate random numbers.
 
@@ -44,7 +44,7 @@ XPC Service can be stopped if it has been idle for a long time, or be spawned on
 
 launchd has information about system-wide resource availability and memory pressure, who best to make decisions on how to most effectively use our system’s resources than launchd
 
-# Implement XPC Services
+## Implement XPC Services
 
 ## Creating the Service
 

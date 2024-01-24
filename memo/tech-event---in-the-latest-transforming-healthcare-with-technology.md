@@ -1,16 +1,17 @@
 ---
-tags: 
-  - dwarves
+tags:
+  - event
+  - community
 title: Tech Event In The Latest Transforming Healthcare With Technology
 date: 2022-11-22
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: events
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2022-11-22
 created: 2022-11-22
 ---
@@ -18,21 +19,21 @@ created: 2022-11-22
 *Hosted by Nikki - Dwarves' COO, and Thanh Pham - Engineering Manager, Dwarves had a great lineup and gleaned insights on the new wave of healthcare through the immense knowledge and practical experience through inspiring stories from Ms. Ruby Nguyen and Mr. Binh Le.*
 
 
-### <span style='color:red'>**Start-up ideas come from your own needs.**</span>
+## **Start-up ideas come from your own needs.**
 
 ---
 
 “Momby started with the health needs of a pregnant mother and grew by understanding the worries of soon-to-be parents. Momby aims to provide a foundation for supporting knowledge, creating a safe and reliable space for expecting parents to freely learn, share, and help one another helping, thus making social impacts on Maternity care. On that journey, countless parents received timely supporting and evidence-based advice from Momby as it is today.”
 
 
-### <span style='color:red'>**Developing software for the health market is a long-term goal.**</span>
+## **Developing software for the health market is a long-term goal.**
 
 ---
 
 “The health market has always needed an intense level of information accuracy, especially as Momby belongs in the maternity sector. Software helps users save time and shorten the distance from a consulting doctor. To do this effectively, Momby's engineering team must constantly experiment with updating and fitting a lot of data exactly to user needs. That's why transforming health with Momby is a long-term goal.”
 
 
-### <span style='color:red'>**Being soft is not a problem for leaders.**</span>
+## **Being soft is not a problem for leaders.**
 
 ---
 
@@ -43,7 +44,7 @@ created: 2022-11-22
 
 <!-- column fa322a85-d161-424d-80e5-f18806061a5c -->
 
-### <span style='color:red'>**The most important thing is to start. All opportunities will open later if you follow the right path.**</span>
+## The most important thing is to start. All opportunities will open later if you follow the right path.
 
 ---
 
@@ -55,7 +56,7 @@ created: 2022-11-22
 ![[5229aebc7cd27591813e0396644ef0bb_MD5.webp]]
 
 
-### <span style='color:red'>**Young engineers, draw your own roadmap.**</span>
+## **Young engineers, draw your own roadmap.**
 
 ---
 
@@ -67,9 +68,7 @@ At the end of the inspirational sharing session, we believe that everyone in the
 See everyone in the next event with many more talents. 
 
 📩  Reach out to Ms. Ruby if you want a dedicated mentor or working innovatively to support women's health: [ngoc@momby.net](mailto:ngoc@momby.net) or [momby.vn](http://momby.vn/)
-
 📍 Shoot us your favorite topics at: [https://discord.gg/dwarvesv](https://discord.gg/dwarvesv)
-
 📍 For those who missed the session, please visit: [https://youtu.be/D-gcq3kZA28](https://youtu.be/D-gcq3kZA28)
 
 ___

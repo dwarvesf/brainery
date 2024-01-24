@@ -27,7 +27,7 @@ The concept of the adjacent possible originates from Stuart Kauffman and his wor
 
 Now let’s **apply this abstract notion to technology and innovation**. And let’s take today’s ‘technosphere’ as *the actual*, comprising all the tools and technologies we use in modern-day societies, together with the knowledge, concepts, facts and ideas required to devise, build, operate, and maintain them. Right outside that ‘technosphere’, in its *adjacent possible*, you’ll find the space for innovation, for combining known technologies in novel ways, and for developing and implementing novel problem-solutions that yield novel technologies.
 
-### **Progress**
+## **Progress**
 
 The in-going statement frames **the very essence of progress**: the future flows from the past, we shape it on the foundation of the past. The progress we achieve is path-dependent, it evolves step by step, but it cannot jump. We didn’t go straight from caves to skyscrapers. Galileo didn’t move on to devise radio telescopes. Early cattle breeders didn’t know about genes, let alone think about gene editing. Such developments take time as they go through many, many stages. But all the steps taken for all such developments (including intellectual dead ends, as well as short-cuts, highways, dirt roads, bridges, or tunnels) are available to us today as building blocks for our future.
 
@@ -35,7 +35,7 @@ Such progress is not just a lucky coincidence we enjoy at the beginning 21st cen
 
 To shape our future, we *“only”* need to find out how we can best combine the available ingredients to get the next task done. That’s what we call progress. And we can make progress in different ways.
 
-### The adjacent possible
+## The adjacent possible
 
 To illustrate the different paths we can take to make progress, I’ll borrow the concept of the adjacent possible that Stuart Kauffman originally developed to describe biological evolution, and transfer it to human non-biological development: some call that our cultural evolution, and that’s what I mean with progress.
 
@@ -50,7 +50,7 @@ However, the realm of *the possible* is far from homogeneous; not all possibil
 *The adjacent possible is the zone stay in between the actual (the current state of the art) & the possible.*
 
 
-### **Sketching five paths to progress**
+## **Sketching five paths to progress**
 
 But innovation is not our only path to making progress. I’d argue that there in fact five such paths:
 

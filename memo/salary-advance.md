@@ -1,7 +1,8 @@
 ---
 tags:
-  - dwarves
   - icy
+  - dgf
+  - performance
 title: $icy Salary Advance
 date: 2023-11-23
 description: A short-term credit benefit for full-time peeps.
@@ -9,7 +10,7 @@ authors:
   - hnh
 menu: memo
 toc: false
-notice:
+notice: 
 type: memo
 hide_frontmatter: false
 ---

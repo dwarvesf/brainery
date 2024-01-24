@@ -59,7 +59,7 @@ From the design stage, Tom and I agreed that I would try to complete the AOT ver
 
 ### Technical Implementation
 
-### Fortress API
+#### Fortress API
 
 On the [Fortress API](https://github.com/dwarvesf/fortress-api), one core function we use to get messages through a pull-based/polling design is through our `GetMessagesAfterCursor` function. Very similar to how we use block range in smart contract event fetching as a cursor to filter out the blockchain, we use a similar pull-based method for getting messages from Discord:
 
@@ -112,7 +112,7 @@ func (d *discordClient) GetMessagesAfterCursor(
 
 The reasoning for this method was to avoid the case of losing messages as a push-based method would introduce lossy messages. The pull-based method would help use Discord as a backpressure to avoid losing messages when aggregating them to our database.
 
-### Fortress Discord
+#### Fortress Discord
 
 I noticed soon that there were some limitations to Discord's API on reactions. This meant the normal way to pull data from Discord for, specifically, reactions would be much more challenging. As an alternative approach, I implemented a push-based design for reactions to aggregate their numbers. This will be lossy in design, but it is our best alternative.
 

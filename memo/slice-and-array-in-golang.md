@@ -15,7 +15,7 @@ created_time: 2018-04-22
 created: 2018-03-13
 ---
 
-### Array
+## Array
 
 In Go language, the terminology `Array` has a bit different from another language like C, JS, ... In Go, the `array has a fixed length and type `Take a look of array implementation in Go.
 
@@ -77,7 +77,7 @@ The different between array in Go and C:
 * In particular, if you pass an array to a function, it will receive a copy of the array, not a pointer to it.
 * The size of an array is part of its type. The types [4]int and [5]int are distinct.
 
-### Slice
+## Slice
 
 In Go code, we don't often see array because of its inflexible, slice - on the other hand - is everywhere. Slice is an abstraction built on top the array. Unlike the Array, Slice type has no specified length; you can declare a slice like an array but `without the count element`.
 
@@ -146,7 +146,7 @@ fmt.Println(len(a)) // 4
 fmt.Println(cap(a)) // 8
 ```
 
-# 2. Slice internal
+## 2. Slice internal
 
 Let's take a look at `slice` implementation in Go.
 
@@ -167,9 +167,9 @@ For example, if we create a slice by using make([]byte,5), the slice will be str
 A slice cannot be grown beyond its capacity. Attempting to do so will cause a runtime panic, just as when indexing outside the bounds of a slice or array. Similarly, slices cannot be re-sliced below zero to access earlier elements in the array.
 
 
-**So the question is, What if we **`**append**`** an element to a slice which has reached its capacity?**
+**So the question is, What if we** `**append**` an element to a slice which has reached its capacity?
 
-### Append
+## Append
 
 Let's dig into a source code (go/src/reflect/value)
 
@@ -188,7 +188,7 @@ So now we understand the mechanism behind the `append` function, it will allocat
 
 The interesting thing is how Go decide how much capacity the new slice is. As you can see if the old slice capacity is lesser than 1024, it will double the old slice's capacity, but when it grows bigger than 1024 Go adds `old slice's capacity / 4` to the old capacity
 
-### Appendix
+## Appendix
 
 * [https://golang.org/doc/effective_go.html#slices](https://golang.org/doc/effective_go.html#slices)
 * [https://blog.golang.org/slices](https://blog.golang.org/slices)

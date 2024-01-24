@@ -1,16 +1,17 @@
 ---
-tags: 
+tags:
   - people
+  - hiring
 title: Types Of Employees
 date: 2018-08-26
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: 
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-26
 created: 2018-08-26
 ---

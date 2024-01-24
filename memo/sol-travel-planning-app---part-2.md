@@ -1,17 +1,18 @@
 ---
-tags: 
+tags:
   - design
-  - case study
+  - case-study
+  - service
 title: Sol Travel Planning App Part 2
 date: 2018-10-01
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-20
 created: 2018-10-01
 ---
@@ -23,7 +24,7 @@ As we have gone through the UX research tasks in the last article, we started br
 ![[99b1cf15b00fdeb13f1963bb3b879265_MD5.webp]]
 
 
-# Process
+## Process
 
 Sol is an app designed for location tracking and plan making so we would like to emphasize on the clarity and simplicity.
 Now we are going through our process of creating the design which is composed of color, typography, icons, and components.
@@ -32,7 +33,7 @@ Now we are going through our process of creating the design which is composed of
 ![[116ac3ec9ed727b942dab6f2bf6f7894_MD5.webp]]
 
 
-# Color
+## Color
 
 As a result, we start off by picking our primary color — Cerise. The color is a dark pink with some hint of red, which gives the feeling of not only energy, excitement, and youth but caring as well — the core qualities associated with the product’s personality. Those are qualities which Sol should have to serve its users.
 Imaging being our future users — backpackers or road trip travelers, who mostly use Sol in varied harsh light conditions such as direct sunlight, of hazy light at sunset, we decided to focus on the legibility, hence the contrast of our color scheme needs to stands as our first priority.
@@ -43,7 +44,7 @@ Here is our use of color scheme in Onboarding flow.
 ![[14650bd3ed524630d548b1eb84fb9c74_MD5.webp]]
 
 
-# Logo
+## Logo
 
 For the logo, we combine two elements of the app, location-tracking feature and its name “Sol” — the sun. Applying negative spaces and gradient creates modern-looking and minimal style to it as well.
 “Drop me a pin” has been a trending phrase since the use of map apps became a worldwide trend, hence the term “location pin” has got the meaning of “share the location”. The sun and the mountains indicate the long journey to the wild. Taking those inspirations we create the logo for our app.
@@ -51,7 +52,7 @@ For the logo, we combine two elements of the app, location-tracking feature and 
 ![[32cd8cd1bba12d072316dd408dc2a780_MD5.webp]]
 
 
-# Typography
+## Typography
 
 Sol uses the default font type for iOS, San Francisco Pro Display to keep it clear and provide better reading experiences. This also maintains the app familiar to our iOS users.
 The type sizes are customized to match with our use of component.
@@ -60,7 +61,7 @@ The type sizes are customized to match with our use of component.
 ![[b1f8fe2d19189f0a49b9aab7c9e58f83_MD5.webp]]
 
 
-# Icons
+## Icons
 
 Our icons are kept simple following the design concept. The navigation menu also use the icons to give users some hints of each section’s content, this will help them to navigate faster and make fewer mistakes.
 
@@ -68,7 +69,7 @@ Our icons are kept simple following the design concept. The navigation menu also
 ![[236d02c366d5f15254b7027d8efbe52a_MD5.webp]]
 
 
-# Components
+## Components
 
 In this app, we promote the bottom sheet to display information from users: group list, member list, location, and expenses.
 
@@ -88,7 +89,7 @@ When the user taps on a member they receive detail information about where that 
 ![[a929e5effc4b5eae0f518348e1d4ac05_MD5.webp]]
 
 
-# Conclusion
+## Conclusion
 
 Throughout this stage, we have had a chance to learn more about designing an app UI. It was fun trying out the color variations and arranging the elements as well. Next time, we will share our process of motion design. Hope you will like it.
 Take a look at our last article on UX case study of the app View.

@@ -1,22 +1,22 @@
 ---
-tags: 
+tags:
   - swift
   - macos
 title: Uidynamicanimator
 date: 2019-07-26
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2021-07-20
 created: 2019-07-26
 ---
 
-# Definition
+## Definition
 
 A **dynamic item** is any iOS or custom object that conforms to the [UIDynamicItem](https://developer.apple.com/documentation/uikit/uidynamicitem) protocol. The [UIView](https://developer.apple.com/documentation/uikit/uiview) and [UICollectionViewLayoutAttributes](https://developer.apple.com/documentation/uikit/uicollectionviewlayoutattributes) classes implement this protocol in iOS 7 and later. You can implement this protocol to use a dynamic animator with custom objects for such purposes as reacting to rotation or position changes computed by an animator.
 
@@ -54,7 +54,7 @@ All types of dynamic animators share the following characteristics:
 
 You can implement a delegate to respond to changes in animator pause/resumption status, using the [dynamicAnimatorDidPause(_:)](https://developer.apple.com/documentation/uikit/uidynamicanimatordelegate/1621193-dynamicanimatordidpause) and [dynamicAnimatorWillResume(_:)](https://developer.apple.com/documentation/uikit/uidynamicanimatordelegate/1621188-dynamicanimatorwillresume)methods of the [UIDynamicAnimatorDelegate](https://developer.apple.com/documentation/uikit/uidynamicanimatordelegate) protocol.
 
-# Key Features
+## Key Features
 
 To create real-life animation experience, Apple simulates it using UIDynamicAnimator
 
@@ -84,7 +84,7 @@ Besides, UIDynamicItem(object) features can also adjust the elasticity of the ob
 
 Combine all of these factors, we end up with real-life physical interaction simulation.
 
-# **UIDynamicBehavior**
+## **UIDynamicBehavior**
 
 A field behavior defines an area in which forces such as gravity, magnetism, drag, velocity, turbulence, and others can be applied. After creating a field behavior object of the appropriate type, configure the strength of the intended force along with any other field attributes.
 

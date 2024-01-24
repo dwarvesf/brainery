@@ -1,23 +1,23 @@
 ---
-tags: 
-  - case study
+tags:
   - blockchain
   - crypto
+  - case-study
 title: Spike Inu Engineering A Seamless Experience For Cross Chain Swap And Decentralized Exchange
 date: 2022-06-23
-description: null
-authors: null
+description: 
+authors: 
 menu: memo
-toc: null
-notice: null
-type: null
+toc: 
+notice: 
+type: memo
 hide_frontmatter: false
-author: null
+author: 
 created_time: 2022-06-23
 created: 2022-06-23
 ---
 
-### <span style='color:green'>In brief</span>
+## In brief
 
 ---
 
@@ -29,7 +29,7 @@ created: 2022-06-23
 ![[d62f913d7d2981f4fe1322f4dfb4076f_MD5.webp]]
 
 
-### <span style='color:green'>Technical Highlight</span>
+## Technical Highlight
 
 ---
 
@@ -39,7 +39,7 @@ created: 2022-06-23
 * Decentralized exchange platform
 * Transaction validation and error detection
 
-### <span style='color:green'>The Context</span>
+## The Context
 
 ---
 
@@ -60,7 +60,7 @@ In addition, users using ICC tokens can benefit from transaction fees on the net
 ![[10a286e91bf3c887de8b7ae82ce1a9a2_MD5.webp]]
 
 
-### <span style='color:green'>Engagement Model</span>
+## Engagement Model
 
 ---
 
@@ -73,7 +73,7 @@ Our team has been diligently exploring technology and building from the underlyi
 
 <!-- column 4ae33924-f2db-46a0-814b-22aa3461bbc9 -->
 
-<span style='color:green'>**Tech stacks**</span>
+**Tech stacks**
 
 * Backend: Solidity & Index in Golang, private RPC Molaris, Infura, public RPC
 * Frontend: React.js, Next.JS, web3 Ethereum and web3 Solana
@@ -84,13 +84,13 @@ Our team has been diligently exploring technology and building from the underlyi
 
 * Validator network: Gossip protocol and Golang
 
-<span style='color:green'>**Collaboration**</span>
+**Collaboration**
 
 * Github
 * Basecamp
 * Jira
 
-### <span style='color:green'>Outcome</span>
+## Outcome
 
 ---
 
