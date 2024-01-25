@@ -29,6 +29,8 @@ github_id: mickwan1234
 ---
 ## Introduction
 
+![[Google Data Fusion-20240125172507510.webp]]
+
 Google Data Fusion is a fully managed, cloud-native data integration service that enables users to efficiently build and manage ETL/ELT data pipelines. It is designed to streamline data engineering tasks for enterprise users and is built on top of the open-source project CDAP
 
 . Key features and benefits of Google Data Fusion include:
