@@ -26,6 +26,7 @@ pinned: true
 **This** month, we have focused on revamping how we learn, familiarize, and work with tech. We are excited to announce that we have updated our Forward Engineering to better reflect the feedback and insights from our Labs team, Operations Team, and Consulting Team.
 
 This is to hopefully provide you with a more comprehensive publication that not only keeps you informed about the latest technologies and where they are applied, but also foster collaboration and innovation within our organization. We hope you find this edition of Forward Engineering informative and give you a better idea of what we’re doing. As always, we welcome your feedback and encourage you to share your thoughts on the content.
+
 ## Tech Radar
 
 ![](assets/december-forward-engineering.mp4)
@@ -55,20 +56,7 @@ Retrieval Augmented Generation (RAG) is a general technique used to embed knowle
 
 Before the term was coined, our team has had done several experimentation with this technique with the help of `pgvector` on Supabase on TypeScript deployments, `chroma` on Python deployments, as well as with prompt engineering to further augment context for better indexing. This technique, although coined from development with LLMs, turns out to be a useful indexing technique that can be used as an alternative to keyword-based indexing.
 
-### Langchain
-***Assess***
-
-|          |                                                                         |
-| -------- | ----------------------------------------------------------------------- |
-| Tags     | `#ai` `#llm` `#llm-knowledge` `#tooling` |
-| Domain   | `AI` `Language`            |
-| Projects | `...`                                                                |
-
-LangChain is a comprehensive framework specifically designed to streamline the process of building applications that integrate large language models (LLMs). In the rapidly growing field of generative AI, LangChain serves as a robust platform, providing unique features like prompt management, chaining, data augmented generation, and a diverse range of agents to direct actions and determine their sequence. This framework assists developers in harnessing the immense potential of LLMs, offering a more accessible and coordinated approach to generative AI application development.
-
-LangChain, although originally a Python framework, has a port for JavaScript/TypeScript environments. In the recent month, we've been using it mostly on Python to experiment with chaining specific logic on LLMs, both private and with ChatGPT, to help us better understand how we can manipulate nuances with LLMs to get more informed or predictable output.
-
-### YoloV8
+### Self-hosting AI Model in the Browser
 ***Assess***
 
 |          |                                                                         |
@@ -106,50 +94,36 @@ Our team has been experimenting with passkeys to provide authentication alternat
 
 ![[Forward Engineering December 2023-20240119160907180.webp]]
 
+### Building UI Library Practices
+***Trial***
+
+|          |                                                    |
+| -------- | -------------------------------------------------- |
+| Tags     | `#ui` `#ux` `#best-practices` `#frontend` `#react` |
+| Domain   | `Web3` `Fintech` `Frontend`                        | 
+| Projects | `consolelabs/web-foundation` `mochi-web`           |
+
+Along with making our library [open-source](https://github.com/consolelabs/web-foundation), there has been a lot of advancements making Mochi UI becoming more generally available to our team and reaching towards version 1.0. Extensive effort was made to make sure component designs stay modular and allow integrated foundations set by our designer to be represented as code. User Experience is a key detail we make sure gets ironed out in every component, and has been part of our focus in standardizing the designs on Mochi UI.
+
+Working through these challenges has given us the opportunity to lay out and consolidate our frontend foundations, showing our efforts through our recent demo workshop. Working with new standards while creating some of our own have promising results in easing developer experience and productivity. It has been an incredible learning experience and we will continue the path to transform into best practices for both our team and the wider community.
+
 ## Labs Roadmap
 
 In a recent collaborative discussion between key members of the Labs and Consulting teams, we’ve made decisive strides in pinpointing key topics and potential projects for development. Each topic is paired with specific challenges to ensure we engage deeply with the technology, understanding its practical applications. The focal point for the coming month is WebAssembly (WASM), alongside a range of exciting use-cases we plan to implement and demonstrate.
 
 ### Currently Researching
 
-#### **WebAssembly (WASM)**
-_PICs: An Tran_
+![[Forward Engineering December 2023-20240126104209647.webp]]
 
-WASM is a technology that allows running code written in multiple languages on the web at near-native speed. The challenges in using WASM for these applications may include optimizing performance, managing memory efficiently, and ensuring compatibility across different web browsers:
+| Research Topics         | Progress                                                                                                                                                                             | Next Step                                                                                                                                  |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Web Assembly (WASM)     | - Self-hosted a model in the browser with Tensorflow.js + YoloV8 to bypass reCaptcha v3<br>- Worked with data processing with DuckDB through WASM on the browser and on ObservableHQ | - Continue forward with porting Rust games and running them through WASM<br>- Process data with DuckDB WASM in a SME dashboard environment |
+| Passwordless            | - Worked on a simple frontend and backend system on handling Passkeys with WebAuthn                                                                                                  | - Implement QR-based login to handle authentication across multiple devices<br>- Experiment with Magic Links                                                                |
+| Artificial Intelligence | - Introduced a low-code and simple code example of implementing RAG on ChatGPT and local models                                                                                      | - Boilerplate AI and RAG integration on Elixir<br>- Deploy a Discord bot for recording and transcribing speech with Whisper                                                                                                                                           |
+| Building UI Practices   | - Demoed a workshop on Mochi UI, encompassing techniques and API composition across components                                                                                       | - Iron out practices and have Mochi UI to be GA                                                                                                                                           |
 
-- [[self-host-ai-model-on-the-browser|Self-host AI model on the browser (e.g. OCR for security cams, private browser chatbot…)]]
-- [[data-processing-and-visual-infographics-through-duckdb-wasm|Data processing and visual infographics (through DuckDB-WASM)]]
-- [[implement-a-rust-game-through-wasm|Implement a Rust game through WASM]]
+### Upcoming Research
 
-#### **Passwordless Authentication**
-_PICs: An Tran_
-
-An Tran has also discussed passwordless authentication, which involves allowing users to access systems without entering traditional passwords. The use-case challenges we hope to include are:
-
-- [[demo-biometrics-on-the-web-through-external-device-connection|Biometrics on the web (through external device connection)]]
-- [[Labs Roadmap (Nov 23 update)|QR code based login]]
-- [[demo-magic-links|Magic Links]]
-
-#### **Artificial Intelligence (AI)**
-_PICs: Tom Nguyen_
-
-The challenges in this context may involve ensuring the real-time nature of the updates, managing the computational resources required for such updates, and addressing potential privacy and security concerns related to real-time knowledge updates.
-
-- [[realtime-memory-knowledge-updates-rag-updates|Realtime memory knowledge updates (RAG updates)]]
-
-#### **Multi-Party Computation (MPC)**
-_PICs: Huy Nguyen_
-
-Huy Nguyen has discussed applying MPC for authentication in the context of web3 console. MPC allows multiple parties to jointly compute a function over their inputs while keeping those inputs private. The challenges may include ensuring the security and privacy of the computation, managing the communication overhead in multi-party settings, and addressing the complexity of implementing MPC protocols in web applications.
-
-- [[applying-mpc-for-authentication-for-web3-console|Applying MPC for authentication for web3 (Console)]]
-
-#### **Building UI Library Practices**
-_PICs: Thanh Pham_
-
-Thanh Pham has written about Mochi UI, which likely refers to a set of UI design and development practices. The challenges in this context may include ensuring consistency and usability across different devices and screen sizes, addressing accessibility considerations, and managing the complexity of implementing advanced UI interactions.
-
-- [[mochi-ui|Build mochi-ui]]
 
 ## Dwarves Rewind - Discord Community
 
