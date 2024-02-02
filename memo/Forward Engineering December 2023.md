@@ -122,9 +122,6 @@ In a recent collaborative discussion between key members of the Labs and Consult
 | Artificial Intelligence | - Introduced a low-code and simple code example of implementing RAG on ChatGPT and local models                                                                                      | - Boilerplate AI and RAG integration on Elixir<br>- Deploy a Discord bot for recording and transcribing speech with Whisper                                                                                                                                           |
 | Building UI Practices   | - Demoed a workshop on Mochi UI, encompassing techniques and API composition across components                                                                                       | - Iron out practices and have Mochi UI to be GA                                                                                                                                           |
 
-### Upcoming Research
-
-
 ## Dwarves Rewind - Discord Community
 
 ![[November Forward Engineering 2023-20231130165200911.webp]]
