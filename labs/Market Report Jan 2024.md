@@ -42,7 +42,7 @@ Rust’s ecosystem is constantly improving and expanding. Many big projects use 
 
 The rise in in-house productivity tools is driven by the need for businesses to adapt to remote work, improve efficiency, facilitate collaboration, and enhance employee motivation and satisfaction. Although there are a myriad of tools, **there is not a single tool that rules them all** and fits the needs of specific use-cases for certain firms. There is a common trend to **move away from data silos and fragmented tooling to more highly integrated software**.
 
-Likewise, tightly coupled integration of data enrichment for AI virtual assistants has allowed them to become generally available as consumer products. Although not a new trend, AI with knowledge enrichment has been a growing effort across all industries. Complex task AI apps like [Taskade](https://www.taskade.com/) as well as complementary apps like [Murf]([AI Voice Generator: Versatile Text to Speech Software | Murf AI](https://murf.ai/)) and [ElevenLabs](https://elevenlabs.io/) have changed the landscape for what a productivity tool can provide.
+Likewise, tightly coupled integration of data enrichment for AI virtual assistants has allowed them to become generally available as consumer products. Although not a new trend, AI with knowledge enrichment has been a growing effort across all industries. Complex task AI apps like [Taskade](https://www.taskade.com/) as well as complementary apps like [Murf](https://murf.ai/) and [ElevenLabs](https://elevenlabs.io/) have changed the landscape for what a productivity tool can provide.
 
 ### The big step towards LLMs away from OpenAI
 
@@ -58,7 +58,7 @@ Across both the crypto world and in the finance industry, there has been growing
 
 With an increase in cybercrime with the [‘Mother of all breaches’](https://www.msn.com/en-us/money/other/mother-of-all-breaches-data-leak-reveals-26-billion-account-records-stolen-from-twitter-linkedin-more/ar-BB1h8uz2) and the Congress hearing on [child safety on social networks](https://www.msn.com/en-us/news/technology/tiktok-snap-x-and-meta-ceos-grilled-at-tense-senate-hearing-on-social-media-and-kids/ar-BB1hxlbh), the demand for cybersecurity is higher than ever. Ransomware attacks continue to plague organizations worldwide, with these malicious incidents demanding better response strategies and proactive measures to prevent them. In addition, cybercriminals are increasingly using AI to craft sophisticated social engineering attacks.
 
-In the industry, there is a growing **skill gap** for cybersecurity engineers, creating demand on initiatives for upskilling and reskilling know-how on cybersecurity. The concept of **[Zero Trust](https://www.isaca.org/resources/news-and-trends/industry-news/2023/track-these-7-trends-for-proactive-cybersecurity-in-2024**—where) no one is automatically trusted, even within the organization—has gained much higher prominence leading up towards 2024.
+In the industry, there is a growing **skill gap** for cybersecurity engineers, creating demand on initiatives for upskilling and reskilling know-how on cybersecurity. The concept of [Zero Trust](https://www.isaca.org/resources/news-and-trends/industry-news/2023/track-these-7-trends-for-proactive-cybersecurity-in-2024)—where no one is automatically trusted, even within the organization—has gained much higher prominence leading up towards 2024.
 
 
 ## References
