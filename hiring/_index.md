@@ -20,8 +20,8 @@ event_date:
 
 #### Apply:
 
-- [[hiring/open-positions/technical-recruiter.md|Technical Recruiter]]
 - [[hiring/open-positions/executive-assistant.md|Executive Assistant]]
+- [[hiring/open-positions/technical-recruiter.md|Technical Recruiter]]
 
 
 ---

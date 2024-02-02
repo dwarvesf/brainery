@@ -30,27 +30,26 @@ We believe that behind every success comes great preparation, accumulation and c
 
 <!-- col-2 #1 -->
 <!-- radar-latest-1 -->
+- [[radar/type-safe-client-server.md|Type Safe Client Server]]
+- [[radar/tailwindcss.md|Tailwindcss]]
 - [[radar/zustand.md|Zustand]]
 - [[radar/zod.md|Zod]]
 - [[radar/yup.md|Yup]]
-- [[radar/typescript.md|Typescript]]
-- [[radar/timescaledb.md|Timescaledb]]
 
 <!-- radar-latest-1 -->
 <!-- radar-latest-2 -->
+- [[radar/type-safe-client-server.md|Type Safe Client Server]]
+- [[radar/tailwindcss.md|Tailwindcss]]
 - [[radar/zustand.md|Zustand]]
 - [[radar/zod.md|Zod]]
 - [[radar/yup.md|Yup]]
-- [[radar/typescript.md|Typescript]]
-- [[radar/timescaledb.md|Timescaledb]]
 
 <!-- radar-latest-2 -->
 <!-- /col-2 #1 -->
 ## Upcoming Events
 
+- [[labs/events/Labs Weekly Catchup 3.md|Labs Weekly Catchup #3]] - December 13, 2023
 - [[labs/events/Labs Weekly Catchup 5.md|Labs Weekly Catchup #5]] - December 13, 2023
-- [[labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup #2]] - December 13, 2023
-- [[labs/events/Labs Weekly Catchup 4.md|Labs Weekly Catchup #4]] - December 13, 2023
 
 
 
@@ -81,6 +80,6 @@ We believe that behind every success comes great preparation, accumulation and c
 
 ## Open positions
 
-- [[hiring/open-positions/technical-recruiter.md|Technical Recruiter]]
 - [[hiring/open-positions/executive-assistant.md|Executive Assistant]]
+- [[hiring/open-positions/technical-recruiter.md|Technical Recruiter]]
 

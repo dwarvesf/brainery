@@ -17,6 +17,7 @@ hide_frontmatter: true
 <!-- col-2 #1 -->
 <!-- labs-latest -->
 ## Latest from Labs Team
+- [[labs/Market Report Jan 2024.md|Market Report Jan 2024]]
 - [[labs/events/Labs Weekly Catchup 5.md|Labs Weekly Catchup 5]]
 - [[labs/Market Report Dec 2023.md|Market Report Dec 2023]]
 - [[labs/events/Labs Weekly Catchup 4.md|Labs Weekly Catchup 4]]
@@ -26,7 +27,6 @@ hide_frontmatter: true
 - [[labs/Labs - Who we are.md|Labs - Who we are]]
 - [[labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]]
 - [[labs/Reward Model & Nomination.md|Reward Model & Nomination]]
-- [[labs/Labs x Consulting Workflow.md|Labs x Consulting Workflow]]
 
 <!-- /labs-latest -->
 <!-- forward-engineering-publications -->
@@ -89,8 +89,8 @@ For Dwarves team members, engaging in future research projects is an excellent w
 
 ### Past Events
 
+- [[labs/events/Labs Weekly Catchup 3.md|Labs Weekly Catchup 3]]: Our third weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
 - [[labs/events/Labs Weekly Catchup 5.md|Labs Weekly Catchup 5]]: Our fifth weekly catchup to kick off the new year! We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
-- [[labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup 2]]: Our second weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
 - [[labs/events/Labs Weekly Catchup 4.md|Labs Weekly Catchup 4]]: Our fourth weekly catchup. We organize an agenda the day beforehand and consolidate our findings, notable research progress, possibly new tech, insight or technique everyone should know.
 
 
