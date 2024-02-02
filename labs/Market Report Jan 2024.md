@@ -70,7 +70,7 @@ In the industry, there is a growing **skill gap** for cybersecurity engineers, c
 - [Freethink on X: "#CES2024: AI startup Rabbit’s R1 device sells out in 24 hours https://t.co/Wzr2lzuh68 @rabbit_hmi https://t.co/4l3omjGjfX" / X (twitter.com)](https://twitter.com/freethinkmedia/status/1745560844824396135)
 - [NPUs are essential for AI, but what are they, and how do they differ from GPUs? | Windows Central](https://www.windowscentral.com/hardware/what-is-npu-vs-gpu)
 - [Django, HTMX and Alpine.JS: A Match Made In Heaven - DEV Community](https://dev.to/nicholas_moen/what-i-learned-while-using-django-with-htmx-and-alpine-js-24jg)
-- - [https://dev.to/matfrana/react-where-are-you-going-5284](https://dev.to/matfrana/react-where-are-you-going-5284 "https://dev.to/matfrana/react-where-are-you-going-5284")
+- [https://dev.to/matfrana/react-where-are-you-going-5284](https://dev.to/matfrana/react-where-are-you-going-5284 "https://dev.to/matfrana/react-where-are-you-going-5284")
 - [https://blog.cassidoo.co/post/annoyed-at-react/](https://blog.cassidoo.co/post/annoyed-at-react/ "https://blog.cassidoo.co/post/annoyed-at-react/")
 - [https://virtuslab.com/blog/trending-frontend-technologies/](https://virtuslab.com/blog/trending-frontend-technologies/ "https://virtuslab.com/blog/trending-frontend-technologies/")
 - [https://github.com/zed-industries/zed](https://github.com/zed-industries/zed "https://github.com/zed-industries/zed")
