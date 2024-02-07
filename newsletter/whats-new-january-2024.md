@@ -69,7 +69,7 @@ Our top ten achievements through 2023 are chosen by voting from everyone. With h
 - Golang training course with 82 community members participated
 - 102 published stories about human in tech, 77 tech events and radio talks
 
-Read through our full 2023 recap: ![[Dwarves_of_the_year_-_2024-compressed.pdf]].
+Read through our full 2023 recap: ![[DOTY2023.pdf]]
 ## Dwarves' YEP 2023
 
 We chose to host our YEP 2023 earlier than most companies, so that our team members can go home a bit earlier, spending a bit more time with their loved ones. 
