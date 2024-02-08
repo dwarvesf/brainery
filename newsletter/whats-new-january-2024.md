@@ -82,6 +82,7 @@ Thank you to all the team members, partners, alumni and community members who jo
 
 Relive the [best moments of Dwarves' YEP 2023](https://www.youtube.com/watch?v=2xPsj5TR_wA&feature=youtu.be)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2xPsj5TR_wA?si=Og_OrVtT0o16t2Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Community
 - Top contributors to our Discord server this month brought in a lot of new knowledge. Thank you, and we hope you enjoy your $ICY rewards.
