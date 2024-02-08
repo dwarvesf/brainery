@@ -80,8 +80,6 @@ Our YEP is also a bit different. It's a full one-day event filled with multiple 
 
 Thank you to all the team members, partners, alumni and community members who joined in with us. We hope to have more fun things for everyone to take part in next year.
 
-Relive the [best moments of Dwarves' YEP 2023](https://www.youtube.com/watch?v=2xPsj5TR_wA&feature=youtu.be)
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2xPsj5TR_wA?si=Og_OrVtT0o16t2Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Community
