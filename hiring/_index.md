@@ -20,8 +20,7 @@ event_date:
 
 #### Apply:
 
-- [[hiring/open-positions/executive-assistant.md|Executive Assistant]]
-- [[hiring/open-positions/technical-recruiter.md|Technical Recruiter]]
+- [[hiring/open-positions/marketing-and-communications-specialist.md|Marketing and Communications Specialist]]
 
 
 ---

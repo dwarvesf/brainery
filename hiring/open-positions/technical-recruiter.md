@@ -8,13 +8,13 @@ description: The ideal candidate will play a pivotal role in sourcing, attractin
 authors:
   - nikki
   - vitran
-menu:
+menu: 
 toc: false
-notice:
+notice: 
 type: hiring
 hide_frontmatter: false
-event_date:
-hiring: true
+event_date: 
+hiring: false
 ---
 
 ## We're looking for a Technical Recruiter to join Dwarves and work remotely.

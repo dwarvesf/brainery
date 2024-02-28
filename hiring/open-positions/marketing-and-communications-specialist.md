@@ -2,24 +2,28 @@
 tags:
   - hiring
   - career
-title: Executive Assistant
-date: 2023-12-15
-description: We are seeking a highly organized, proactive, and experienced Executive Assistant to provide support to our senior executives. The ideal candidates will be responsible for identifying new business opportunities, fostering strong client relationships, and driving growth by promoting our services to potential clients globally.
+  - marketing
+  - communications
+  - specialist
+title: Marketing and Communications Specialist
+date: 2024-02-28
+description: The ideal candidate will have a passion for technology, a strong understanding of the software development industry, and excellent communication skills. This role will involve developing and implementing marketing strategies, creating compelling content, managing social media presence, and maintaining effective communication with both internal and external stakeholders.
 authors:
   - nikki
-  - vitran
 menu: 
 toc: false
 notice: 
 type: hiring
 hide_frontmatter: false
 event_date: 
-hiring: false
+hiring: true
 ---
 
-## We're looking for an Executive Assistant to join Dwarves and work remotely.
+## We're looking for Marketing & Communications Specialists to join Dwarves and work remotely.
 
-**We are seeking a highly organized, proactive, and experienced Executive Assistant to provide support to our senior executives. The ideal candidates will be responsible for identifying new business opportunities, fostering strong client relationships, and driving growth by promoting our services to potential clients globally.**
+The ideal candidate will have a passion for technology, a strong understanding of the software development industry, and excellent communication skills.
+
+This role will involve developing and implementing marketing strategies, creating compelling content, managing social media presence, and maintaining effective communication with both internal and external stakeholders.
 
 > 🤘 **[Apply now](mailto:spawn@d.foundation)** (We respond within three days)
 
@@ -39,30 +43,30 @@ On our way moving to the next goals, we're looking for talented members to join 
 
 ---
 
-- Works with COO and other members of management board to help keep businesses running smoothly.
-- Support employee life-cycle from onboarding to off-boarding.
-- Monitoring employee satisfaction
-- Support and organize company-wise activities
-- Support and maintain company documentation, managing processes across multiple platforms such as Notion, GitHub, and Google Drive.
-- Work with Compliance team to enhance and ensure members are able to comply with the arranged processes.
-- Communicate with upper-layers to propose strategic operation goals
-- Serve as key point of internal engagement to support & build employee happiness
-- Managing the office, company assets and provide a healthy workplace for productive work
-- Support Community/Marketing team to organize company and community events
-- Support other members of the management board on other necessary tasks to enhance team's efficiency or other assigned tasks.
+- Collaborate with cross-functional teams to develop and execute comprehensive marketing and communication strategies.
+- Coordinate with the Operation team to plan and execute campaigns to promote business-centric programs, hiring programs and raise brand awareness.
+- Produce strategy & tactics content. Analyze and optimize our social exposure across Dwarves Foundation channels, including Facebook, LinkedIn, Twitter, Discord, IG, .. etc.
+- Draft press releases, articles, and other communication materials to share company achievements and updates.
+- Develop and nurture relationships with industry influencers, media outlets, and potential partners.
+- Plan and execute marketing events, webinars, and conferences to showcase our products and connect with the target audience.
+- Coordinate participation in industry-specific events to maximize brand exposure.
+- Set up and monitor online projects with proper tracking & reporting.
 
 ### What it takes to succeed
 
 ---
 
-- **Prior operation experience at technology firm preferred**
-- Has strong soft skills
-- Has a strong will to learn new knowledge domains
-- Resilient to new challenges
-- Able to travel for work (mostly national)
-- Proficient with multiple platforms: Github, Notion, GDrive
-- Excellent English proficiency in both speaking and writing
-- Experience in C&B role in foreign companies with strong background in C&B, good knowledge of labour law, PITlaw, Social Insurance Law and other related regulations
+- Can-do attitude & problem-solving mindset. You’ll be responsible for your work and proactively propose solutions to a problem.
+- 1 or 2+ years of applied marketing experience with a strong digital marketing focus, including strategy and execution.
+- Can-do attitude & problem-solving mindset. You’ll be responsible for your work and proactively propose solutions to a problem.
+- Proficiency in digital marketing tools and social media platforms.
+- Possess essential knowledge and practical skills in Digital Marketing such as Marketing Analytics, Social Media Marketing, and Email Marketing. Familiar with ads tools/ platforms such as Facebook Ads, LinkedIn Ads, and Google Ads.
+- Excellent organizational and project management skills.
+
+`Nice to have`
+
+- Experience working with IT companies.
+- Basic knowledge of Figma/ Photoshop or any design tools.
 
 ### Benefits
 
