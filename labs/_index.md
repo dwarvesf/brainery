@@ -17,6 +17,7 @@ hide_frontmatter: true
 <!-- col-2 #1 -->
 <!-- labs-latest -->
 ## Latest from Labs Team
+- [[labs/Market Report Feb 2024.md|Market Report Feb 2024]]
 - [[labs/Market Report Jan 2024.md|Market Report Jan 2024]]
 - [[labs/events/Labs Weekly Catchup 5.md|Labs Weekly Catchup 5]]
 - [[labs/Market Report Dec 2023.md|Market Report Dec 2023]]
@@ -26,7 +27,6 @@ hide_frontmatter: true
 - [[labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup 1]]
 - [[labs/Labs - Who we are.md|Labs - Who we are]]
 - [[labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]]
-- [[labs/Reward Model & Nomination.md|Reward Model & Nomination]]
 
 <!-- /labs-latest -->
 <!-- forward-engineering-publications -->
