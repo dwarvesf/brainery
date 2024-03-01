@@ -37,10 +37,12 @@ Amazon Web Services (AWS) introduced the Low Latency Runtime ([LLRT](https://git
 
 ## **AI and Machine Learning: The Dawn of Intuitive Programming**
 
-**Nvidia's Vision: Beyond Coding to System Engineering  
-**Jensen Huang, Nvidia's CEO, challenges the traditional coding education paradigm, advocating for a shift towards system engineering. In an era dominated by AI advancements, Huang's perspective underscores the importance of designing systems over writing code, suggesting that AI technologies like GPT models could democratize programming through natural language prompts.  
+**Nvidia's Vision: Beyond Coding to System Engineering**
+
+Jensen Huang, Nvidia's CEO, challenges the traditional coding education paradigm, advocating for a shift towards system engineering. In an era dominated by AI advancements, Huang's perspective underscores the importance of designing systems over writing code, suggesting that AI technologies like GPT models could democratize programming through natural language prompts.  
   
 **OpenAI's Sora: A New Frontier in Video Generation**  
+
 OpenAI introduces [Sora](https://openai.com/sora), a text-to-video model capable of producing up to one-minute videos from textual prompts. Leveraging a diffusion model and transformer architecture, Sora epitomizes the fusion of GPT and DALL·E methodologies, offering unparalleled visual content creation capabilities. This innovation not only enhances creative possibilities but also signifies a major leap in AI-generated visual media.
 
 **MobileLLM and TestGen-LLM: Meta's Forward-Thinking AI Applications**
