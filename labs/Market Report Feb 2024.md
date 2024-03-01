@@ -8,7 +8,7 @@ tags:
   - serverless
 title: Market Report Feb 2024
 date: 2024-03-01
-description: Here are some of the few trends we are seeing across the industry, in our projects, as well as our community. This market report isn't exhaustive, at least just yet, with certain trends not yet listed such as Blockchain, data management, DevEx, etc. We see a lot of promising trends and we hope that understanding what engineers and firms are becoming more passionate about that it will help us create a foundation of ideas and knowledge.
+description: This month has been a continuation of AI and a upwards trend on FinOps and CyberSecurity. On top of those domains, there has been smaller, but very notable trends on the growth of Software as a Service (SaaS) or MicroSaaS' that have created rebound and significant growth on serverless services, as a means to avoid startup and initial running costs. Likewise, AI has been changing how we work and how we design systems to enrich workflows and create more naturally interactive apps.
 authors:
   - monotykamary
   - thanh
@@ -21,6 +21,9 @@ event_date:
 pinned: true
 hide_title: false
 ---
+## Trends on our Radar
+
+This month has been a continuation of AI and a upwards trend on FinOps and CyberSecurity. On top of those domains, there has been smaller, but very notable trends on the growth of Software as a Service (SaaS) or MicroSaaS' that have created rebound and significant growth on serverless services, as a means to avoid startup and initial running costs. Likewise, AI has been changing how we work and how we design systems to enrich workflows and create more naturally interactive apps.
 
 ## **Serverless Computing: Redefining Efficiency and Scalability**
 
