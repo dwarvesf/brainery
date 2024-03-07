@@ -29,20 +29,11 @@ We believe that behind every success comes great preparation, accumulation and c
 ## Radar Index
 
 <!-- col-2 #1 -->
-<!-- radar-latest-1 -->
 ```dataview
 LIST WITHOUT ID "[[" + file.path + "|" + title + "]]"
 FROM "radar" AND !"radar/_index" AND !"radar/_base"
 LIMIT 5
 ```
-<!-- radar-latest-1 -->
-<!-- radar-latest-2 -->
-```dataview
-LIST WITHOUT ID "[[" + file.path + "|" + title + "]]"
-FROM "radar" AND !"radar/_index" AND !"radar/_base"
-LIMIT 5
-```
-<!-- radar-latest-2 -->
 <!-- /col-2 #1 -->
 ## Upcoming Events
 

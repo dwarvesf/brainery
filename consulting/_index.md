@@ -70,6 +70,7 @@ Team members' effort is rewarded base on the weight of their contributions. The 
 
 ### Latest from Consulting Team
 
+- [[consulting/Partners Network.md|Partners Network]] - nikki, han
 - [[consulting/Consultant Growth Track.md|Consultant Growth Track]] - nikki
 - [[consulting/Consulting - Who we are.md|Consulting - Who We Are]] - nikki
 - [[consulting/Consulting - Who should join us.md|Consulting - Who should join us]] - nikki

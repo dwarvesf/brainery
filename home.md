@@ -29,28 +29,17 @@ We believe that behind every success comes great preparation, accumulation and c
 ## Radar Index
 
 <!-- col-2 #1 -->
-<!-- radar-latest-1 -->
+- [[radar/type-safe-client-server.md|Type Safe Client Server]]
 - [[radar/zustand.md|Zustand]]
 - [[radar/zod.md|Zod]]
 - [[radar/yup.md|Yup]]
 - [[radar/webflow.md|Webflow]]
-- [[radar/webdriverio.md|Webdriverio]]
 
-<!-- radar-latest-1 -->
-<!-- radar-latest-2 -->
-- [[radar/zustand.md|Zustand]]
-- [[radar/zod.md|Zod]]
-- [[radar/yup.md|Yup]]
-- [[radar/webflow.md|Webflow]]
-- [[radar/webdriverio.md|Webdriverio]]
-
-<!-- radar-latest-2 -->
 <!-- /col-2 #1 -->
 ## Upcoming Events
 
-- [[labs/events/Labs Weekly Catchup 5.md|Labs Weekly Catchup #5]] - December 13, 2023
-- [[labs/events/Labs Weekly Catchup 4.md|Labs Weekly Catchup #4]] - December 13, 2023
-- [[labs/events/Labs Weekly Catchup 3.md|Labs Weekly Catchup #3]] - December 13, 2023
+- [[labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup #1]] - December 06, 2023
+- [[labs/events/Labs Weekly Catchup 2.md|Labs Weekly Catchup #2]] - December 13, 2023
 
 
 
@@ -67,6 +56,7 @@ We believe that behind every success comes great preparation, accumulation and c
 
 ## Memos
 
+- [[memo/how-to-push-content-on-note-d.md|How to push content on note.d.foundation]] - minhcloud
 - [[memo/droppii-dwarves-case-study.md|Droppii x Dwarves: Transforming E-Commerce with Innovative Dropshipping Solutions]] - huytq, han
 - [[memo/dwarves-community.md|Dwarves Community]] - nikki
 - [[memo/Forward Engineering November 2023.md|November Forward Engineering 2023]] - thanh, monotykamary
@@ -76,7 +66,6 @@ We believe that behind every success comes great preparation, accumulation and c
 - [[memo/Forward Engineering October 2023.md|October Forward Engineering 2023]] - monotykamary, thanh
 - [[memo/konvoy-x-dwarves.md|Konvoy X Dwarves]] - \-
 - [[memo/our-view-on-fullstack-engineering.md|Our View On Fullstack Engineering]] - \-
-- [[memo/Forward Engineering August 2023.md|Forward Engineering August 2023]] - thanh, monotykamary
 
 
 ## Open positions

@@ -18,6 +18,7 @@ hide_frontmatter: true
 
 This is where we keep our internal updates, learned and curated by our engineers.
 
+- [[memo/how-to-push-content-on-note-d.md|How to push content on note.d.foundation]]: This is a guide on how to setup your environment and settings to push content to our notes website, note.d.foundation.
 - [[memo/droppii-dwarves-case-study.md|Droppii x Dwarves: Transforming E-Commerce with Innovative Dropshipping Solutions]]: Droppii, in collaboration with Dwarves Foundation, revamps its e-commerce platform, enhancing dropshipping operations with the launch of Droppii for Business v3.0. This strategic partnership focuses on improving user experience and operational efficiency through a new dashboard, CMS, and ERP system. The initiative marks a significant step in Droppii's growth in the competitive e-commerce sector, showcasing the impact of technical and strategic collaboration.
 - [[memo/dwarves-community.md|Dwarves Community]]: Dwarves Community is melting pot for software engineers, thinkers, learners and techies who are to explore, learn and master the latest advancements in technology.
 - [[memo/Forward Engineering November 2023.md|November Forward Engineering 2023]]: We have focused on revamping how we learn, familiarize, and work with tech. We are excited to announce that we have updated our Forward Engineering to better reflect the feedback and insights from our Labs team, Operations Team, and Consulting Team.
@@ -32,5 +33,4 @@ This is where we keep our internal updates, learned and curated by our engineers
 - [[memo/adoption-of-pnpm.md|Adoption Of Pnpm]]: \-
 - [[memo/Forward Engineering June 2023.md|Forward Engineering June 2023]]: As we usher in the month of June, we embrace the ever-changing landscape of technological innovation, recognizing that every twist and turn propels us forward into a world of limitless possibilities. We continue to chart our course through this vast expanse, driven by a mission to remain at the forefront of our industry and deliver unparalleled value to our clients. In this month's report, we reflect on our achievements and share our visions for the future, focusing on a central theme: "**LLM in Production**".
 - [[memo/dwarves-community-bounty.md|Community Bounty]]: \-
-- [[memo/working-on-a-project-interview-assessment-at-dwarves.md|Working On A Project Interview Assessment At Dwarves]]: \-
 
