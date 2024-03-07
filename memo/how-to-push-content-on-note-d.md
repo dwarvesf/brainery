@@ -27,17 +27,17 @@ Clone the repository in the terminal by running this command in the Terminal
 
 1. Run the `xcode-select` command:
 
-```sh
-xcode-select
-```
+    ```sh
+    xcode-select
+    ```
 
 2. Install [`git-credential-manager`](https://github.com/git-ecosystem/git-credential-manager/releases/tag/v2.4.1). For Apple-silicon Macs, download the [gcm-osx-arm64-2.4.1.pkg](https://github.com/git-ecosystem/git-credential-manager/releases/download/v2.4.1/gcm-osx-arm64-2.4.1.pkg) file and run it. Otherwise, select the [gcm-osx-x64-2.4.1.pkg](https://github.com/git-ecosystem/git-credential-manager/releases/download/v2.4.1/gcm-osx-x64-2.4.1.pkg) package.
 
 3. Then clone the repo:
 
-```sh
-git clone https://github.com/dwarvesf/note.d.foundation.git
-```
+    ```sh
+    git clone https://github.com/dwarvesf/note.d.foundation.git
+    ```
 
 ### Open the folder in the Obsidian
 
