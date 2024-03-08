@@ -63,7 +63,7 @@ A handful of community members has expressed interest in joining hands. Of cours
 
 If you want to join our research group, open a support ticket on our [**Discord**](https://discord.gg/dwarvesv) and we'll talk to you asap!
 
-#### Dwarves' Reward System
+## Dwarves' Reward System
 Our server has been buzzing with quite a lot of knowledge sharing and discussing from members. It's only right that we start giving back to all contributors, through a Reward System.
 
 ICYMI, ICY is Dwarves' very own token used to reward both team members and community members. Anyone can earn ICY by participating in community activities. Even the simplest acts like sharing a link, or chatting count too.
