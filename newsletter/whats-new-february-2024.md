@@ -73,7 +73,7 @@ Our reward system is currently being developed. You can look forward to it!
 ![[whats-new-february-2024-20240308101902325.webp|500]]
 
 
-#### Monthly top performers
+## Monthly top performers
 
 Each month we track how productive and valuable each of our team members by using delivery points. The top 5 high-performing members get rewards with $ICY. 
 
