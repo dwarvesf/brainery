@@ -15,7 +15,7 @@ notice:
 type: newsletter
 hide_frontmatter: false
 event_date: 
-pinned: true
+pinned: false
 hide_title: false
 ---
 
