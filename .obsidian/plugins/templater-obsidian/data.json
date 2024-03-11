@@ -27,10 +27,6 @@
       "template": "_templater/New Hiring.md"
     },
     {
-      "folder": "members",
-      "template": "_templater/New Member.md"
-    },
-    {
       "folder": "playbook",
       "template": "_templater/New Post.md"
     },
@@ -57,6 +53,10 @@
     {
       "folder": "brainery",
       "template": "_templater/New Brainery.md"
+    },
+    {
+      "folder": "contributor",
+      "template": "_templater/New Member.md"
     }
   ],
   "syntax_highlighting": true,

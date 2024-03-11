@@ -1,6 +1,6 @@
 <%*
 const dv = this.app.plugins.plugins["dataview"].api;
-const membersList = dv.pages(`"members"`);
+const membersList = dv.pages(`"contributor"`);
 
 for (const element of membersList) {
 	let content = "---\n";
@@ -18,17 +18,27 @@ for (const element of membersList) {
 		TABLE WITHOUT ID
 			"![avatar\|100x100](" + avatar + ")" as ${element.file.name},
 			join(social, "<br>") as contact
-		FROM "members"
+		FROM "contributor"
 		WHERE file.name = "${element.file.name}"
 	`);
 	content += `<div class="profile"/>\n\n${profileTable.value}\n`;
+	const aliases = dv.pages(`"contributor"`)
+		.where(p => p.file.name === element.file.name)
+		.values[0].aliases ?? [];
 
-	const memberArticles = await dv.queryMarkdown(`
-		LIST WITHOUT ID "[[" + file.path + "|" + title + "]]"
-		FROM "/" and !"_base"
-		WHERE contains(authors, "${element.file.name}") AND !contains(file.name, "_base")
-	`);
-	content += `## Contributed Notes\n\n${memberArticles.value}`;
+	const articles = dv.pages(`"/" and !"_base"`)
+		.where(p => !p.file.name.includes("_base"))
+		.where(p => p.file.name !== "home")
+		.where(p => (p.authors ?? []).some(a => (aliases ?? []).includes(a)));
+
+	const articleTexts = articles.map(p => `- [[${p.file.path}|${p.title}]]`);
+	console.log({
+		aliases,
+		articles,
+		articleTexts
+	})
+
+	content += `## Contributed Notes\n\n${articleTexts.join('\n')}`;
 
 	// get folder and file path
 	const file = app.vault.getAbstractFileByPath(element.file.path);

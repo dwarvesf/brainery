@@ -29,10 +29,10 @@ View our list of amazing people who have contributed to our notes: [[contributor
 ## Radar Index
 
 <!-- col-2 #1 -->
-- [[radar/zod.md|Zod]]
-- [[radar/vector-database.md|Vector Database]]
-- [[radar/yup.md|Yup]]
 - [[radar/zustand.md|Zustand]]
+- [[radar/zod.md|Zod]]
+- [[radar/yup.md|Yup]]
+- [[radar/webflow.md|Webflow]]
 - [[radar/webdriverio.md|Webdriverio]]
 
 <!-- /col-2 #1 -->

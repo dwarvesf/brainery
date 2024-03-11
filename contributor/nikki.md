@@ -6,6 +6,11 @@ website: null
 avatar: https://cdn.discordapp.com/avatars/796991130184187944/38fb62c883ac41d5781bda6b6c1142a8
 discord_id: 796991130184187900
 hide_title: true
+title: null
+description: null
+aliases: 
+  - nikki
+  - ngoc
 ---
 <div class="profile"/>
 
@@ -34,5 +39,5 @@ hide_title: true
 - [[consulting/Partners Network.md|Partners Network]]
 - [[consulting/Consulting - Who we are.md|Consulting - Who We Are]]
 - [[consulting/Consulting - Who should join us.md|Consulting - Who should join us]]
-- [[consulting/Consultant Growth Track.md|Consultant Growth Track]]
 - [[consulting/Consulting - How we work.md|Consulting - How we work]]
+- [[consulting/Consultant Growth Track.md|Consultant Growth Track]]

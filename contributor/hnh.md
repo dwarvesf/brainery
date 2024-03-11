@@ -6,6 +6,11 @@ website: null
 avatar: https://cdn.discordapp.com/avatars/567326528216760320/608ffce140ad8830f6e2308763c7a127
 discord_id: 567326528216760300
 hide_title: true
+title: null
+description: null
+aliases: 
+  - hnh
+  - huynguyenh
 ---
 <div class="profile"/>
 
@@ -15,10 +20,8 @@ hide_title: true
 
 ## Contributed Notes
 
-- [[contributors/_index.md|Contributors]]
 - [[memo/salary-advance.md|$icy Salary Advance]]
 - [[memo/icy-in-2024.md|$icy in 2024]]
-- [[home.md|Home]]
 - [[earn/withdrawl-icy.md|$icy withdrawal]]
 - [[earn/submit-a-bounty.md|Submit a Bounty]]
 - [[earn/rework-fortress-command.md|Rework Fortress Command]]
@@ -29,4 +32,5 @@ hide_title: true
 - [[earn/fortress-mma-score.md|Fortress Mma Score]]
 - [[earn/archive.md|Archive]]
 - [[earn/_index.md|Open Bounties]]
+- [[contributors/_index.md|Contributors]]
 - [[_index.md|Home]]
