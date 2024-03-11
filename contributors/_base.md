@@ -25,6 +25,6 @@ Here are people at Dwarves Foundation and contributors who gave hands to make ou
 TABLE WITHOUT ID
 	"[[" + file.name + "]]" as member,
 	social
-FROM "members"
+FROM "contributor"
 SORT social DESC
 ```
