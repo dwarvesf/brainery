@@ -5,6 +5,7 @@ github: https://github.com/nikkingtr
 website: null
 avatar: https://cdn.discordapp.com/avatars/796991130184187944/38fb62c883ac41d5781bda6b6c1142a8
 discord_id: 796991130184187900
+hide_title: true
 ---
 <div class="profile"/>
 

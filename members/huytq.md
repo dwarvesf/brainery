@@ -5,6 +5,7 @@ github: null
 website: null
 avatar: https://cdn.discordapp.com/avatars/361172853326086144/fc16986d5e0c3348454336ab48eb1f1e
 discord_id: 361172853326086140
+hide_title: true
 ---
 <div class="profile"/>
 

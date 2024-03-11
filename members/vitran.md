@@ -5,6 +5,7 @@ github: https://github.com/tranthiaivi266
 website: null
 avatar: https://cdn.discordapp.com/avatars/977461299996930089/d9e13e896c0fc626b062e492eaaf9ce3
 discord_id: 977461299996930000
+hide_title: true
 ---
 <div class="profile"/>
 

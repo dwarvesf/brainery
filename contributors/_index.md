@@ -5,9 +5,11 @@ tags:
   - core
 title: Contributors
 date: 2024-03-11
-description: 
-authors: 
-menu: 
+description: "This is our contributors page, where our core members, engineers, and community help to give hand to our research, our field notes, and this site: https://note.d.foundation/."
+authors:
+  - monotykamary
+  - hnh
+menu: main
 toc: false
 notice: 
 type: 

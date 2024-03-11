@@ -524,7 +524,6 @@ notice: null
 - [[radar/team-topologies.md|Team Topologies]]
 - [[memo/team-up-with-basehq---us-first-ever-platform-built-for-assistants.md|Team Up With Basehq Us First Ever Platform Built For Assistants]]
 - [[memo/tech-event---in-the-latest-transforming-healthcare-with-technology.md|Tech Event In The Latest Transforming Healthcare With Technology]]
-- [[radar/_index.md|Tech Radar]]
 - [[radar/_base.md|Tech Radar]]
 - [[hiring/open-positions/technical-recruiter.md|Technical Recruiter]]
 - [[memo/the-10x-engineer.md|The 10x Engineer]]

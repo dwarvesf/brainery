@@ -3,5 +3,6 @@ social:
 github: 
 website: 
 avatar: 
-discord_id:
+discord_id: 
+hide_title: true
 ---

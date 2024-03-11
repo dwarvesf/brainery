@@ -5,6 +5,7 @@ github: https://github.com/huynguyenh
 website: null
 avatar: https://cdn.discordapp.com/avatars/567326528216760320/608ffce140ad8830f6e2308763c7a127
 discord_id: 567326528216760300
+hide_title: true
 ---
 <div class="profile"/>
 
@@ -14,6 +15,7 @@ discord_id: 567326528216760300
 
 ## Contributed Notes
 
+- [[contributors/_index.md|Contributors]]
 - [[memo/salary-advance.md|$icy Salary Advance]]
 - [[memo/icy-in-2024.md|$icy in 2024]]
 - [[home.md|Home]]

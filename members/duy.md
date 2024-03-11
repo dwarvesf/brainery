@@ -4,6 +4,7 @@ github: null
 website: null
 avatar: null
 discord_id: null
+hide_title: true
 ---
 <div class="profile"/>
 

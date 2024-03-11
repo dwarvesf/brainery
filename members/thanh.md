@@ -5,6 +5,7 @@ github: https://github.com/zlatanpham
 website: null
 avatar: https://cdn.discordapp.com/avatars/790170208228212766/2eb726f8baa632a90eb7600fabd804d8?size=1024
 discord_id: 790170208228212700
+hide_title: true
 ---
 <div class="profile"/>
 

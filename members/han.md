@@ -7,6 +7,7 @@ github: https://github.com/tieubao
 website: https://note.d.foundation/
 avatar: https://cdn.discordapp.com/avatars/151497832853929986/a_5d05b5a57ec0dfbc2e06ff82420ab1fb
 discord_id: 151497832853930000
+hide_title: true
 ---
 <div class="profile"/>
 

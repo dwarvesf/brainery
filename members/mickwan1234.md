@@ -5,6 +5,7 @@ github: https://github.com/mickwan1234
 website: null
 avatar: https://cdn.discordapp.com/avatars/383793994271948803/9f3042888d23b742411f6a45b4ba3b9c
 discord_id: 383793994271948800
+hide_title: true
 ---
 <div class="profile"/>
 

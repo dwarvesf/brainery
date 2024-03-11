@@ -6,6 +6,7 @@ github: https://github.com/monotykamary
 website: https://monotykamary.hashnode.dev/
 avatar: https://cdn.discordapp.com/avatars/184354519726030850/52f29f100864cb28552e935aaa4ad7f0
 discord_id: 184354519726030850
+hide_title: true
 ---
 <div class="profile"/>
 
@@ -15,6 +16,7 @@ discord_id: 184354519726030850
 
 ## Contributed Notes
 
+- [[contributors/_index.md|Contributors]]
 - [[newsletter/_index.md|Newsletter]]
 - [[memo/Forward Engineering October 2023.md|October Forward Engineering 2023]]
 - [[memo/Forward Engineering November 2023.md|November Forward Engineering 2023]]
