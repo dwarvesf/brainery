@@ -1,7 +1,5 @@
 ---
 tags:
-  - dwarves
-  - work
   - earn
   - bounty
 title: Open Bounties

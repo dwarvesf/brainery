@@ -18,17 +18,17 @@ for (const element of membersList) {
 		TABLE WITHOUT ID
 			"![avatar\|100x100](" + avatar + ")" as ${element.file.name},
 			join(social, "<br>") as contact
-		FROM "members" and !"_templates" and !"_templater" and !"_index" and !"site-index" and !"README
+		FROM "members"
 		WHERE file.name = "${element.file.name}"
 	`);
 	content += `<div class="profile"/>\n\n${profileTable.value}\n`;
 
 	const memberArticles = await dv.queryMarkdown(`
 		LIST WITHOUT ID "[[" + file.path + "|" + title + "]]"
-		FROM "/"
-		WHERE contains(authors, "${element.file.name}")
+		FROM "/" and !"_base"
+		WHERE contains(authors, "${element.file.name}") AND !contains(file.name, "_base")
 	`);
-	content += `## Written Notes\n\n${memberArticles.value}`;
+	content += `## Contributed Notes\n\n${memberArticles.value}`;
 
 	// get folder and file path
 	const file = app.vault.getAbstractFileByPath(element.file.path);

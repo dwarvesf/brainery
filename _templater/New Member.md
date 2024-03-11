@@ -2,5 +2,6 @@
 social: 
 github: 
 website: 
-avatar:
+avatar: 
+discord_id:
 ---

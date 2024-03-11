@@ -31,7 +31,7 @@ for (const element of basePages) {
 	}
 	catch (err) {
 		const folder = app.vault.getAbstractFileByPath(element.file.folder)
-		await tp.file.create_new("", indexFileName, false, folder);
+		await tp.file.create_new("", indexFileName.split('.md')[0], false, folder);
 		break;
 	}
 

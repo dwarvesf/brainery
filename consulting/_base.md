@@ -1,7 +1,5 @@
 ---
 tags:
-  - dwarves
-  - work
   - consulting
   - home
 title: Consulting Team
@@ -17,6 +15,7 @@ type: memo
 hide_frontmatter: true
 event_date: 
 pinned: false
+hide_title: true
 ---
 ### Who we are
 

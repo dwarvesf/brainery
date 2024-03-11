@@ -1,27 +1,30 @@
 ---
-social: null
-github: null
+social: 
+  - https://github.com/huynguyenh
+github: https://github.com/huynguyenh
 website: null
-avatar: null
+avatar: https://cdn.discordapp.com/avatars/567326528216760320/608ffce140ad8830f6e2308763c7a127
+discord_id: 567326528216760300
 ---
 <div class="profile"/>
 
-undefined
-## Written Notes
+| hnh                                                                                                        | contact                       |
+| ---------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| ![avatar\|100x100](https://cdn.discordapp.com/avatars/567326528216760320/608ffce140ad8830f6e2308763c7a127) | https://github.com/huynguyenh |
 
-- [[_base.md|Home]]
-- [[_index.md|Home]]
-- [[earn/_index.md|Open Bounties]]
-- [[earn/_base.md|Open Bounties]]
-- [[earn/archive.md|Archive]]
-- [[earn/fortress-mma-score.md|Fortress Mma Score]]
-- [[earn/fortress-shanky-data.md|Fortress Shanky Data]]
-- [[earn/icy-staking.md|$icy staking]]
-- [[earn/icy-store.md|$icy store]]
-- [[earn/icy-utility-command.md|$icy utility commands]]
-- [[earn/rework-fortress-command.md|Rework Fortress Command]]
+## Contributed Notes
+
+- [[memo/salary-advance.md|$icy Salary Advance]]
+- [[memo/icy-in-2024.md|$icy in 2024]]
+- [[home.md|Home]]
 - [[earn/withdrawl-icy.md|$icy withdrawal]]
 - [[earn/submit-a-bounty.md|Submit a Bounty]]
-- [[memo/icy-in-2024.md|$icy in 2024]]
-- [[memo/salary-advance.md|$icy Salary Advance]]
-- [[home.md|Home]]
+- [[earn/rework-fortress-command.md|Rework Fortress Command]]
+- [[earn/icy-utility-command.md|$icy utility commands]]
+- [[earn/icy-store.md|$icy store]]
+- [[earn/icy-staking.md|$icy staking]]
+- [[earn/fortress-shanky-data.md|Fortress Shanky Data]]
+- [[earn/fortress-mma-score.md|Fortress Mma Score]]
+- [[earn/archive.md|Archive]]
+- [[earn/_index.md|Open Bounties]]
+- [[_index.md|Home]]
