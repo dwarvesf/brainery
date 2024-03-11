@@ -25,7 +25,7 @@ We believe that behind every success comes great preparation, accumulation and c
 
 ![[information_flow.png]]
 
-
+View our list of amazing people who have contributed to our notes: [[contributors/_index|Contributors]]
 ## Radar Index
 
 <!-- col-2 #1 -->
