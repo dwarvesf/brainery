@@ -57,6 +57,10 @@
     {
       "folder": "contributor",
       "template": "_templater/New Member.md"
+    },
+    {
+      "folder": "updates",
+      "template": "_templater/New Post.md"
     }
   ],
   "syntax_highlighting": true,

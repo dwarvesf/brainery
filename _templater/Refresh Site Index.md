@@ -13,14 +13,21 @@ for (const element of indexPage) {
 		}
 	}
 	content += "---\n";
-
-	const indexArticles = await dv.queryMarkdown(`
-		LIST WITHOUT ID "[[" + file.path + "|" + title + "]]"
-		FROM "" and !"_templates" and !"_templater" and !"_index" and !"site-index"
-		WHERE title != NULL
-		SORT title
-	`);
-	content += `## Dwarves Foundation\n\n${indexArticles.value}`;
+	content += `## Dwarves Foundation\n\n`
+	let groups = dv.pages(`"" AND !"playbook"`)
+	    .where(p => p.file.folder != "_templater")
+	    .where(p => p.file.folder != "assets")
+	    .where(p => p.file.name != "_base")
+	    .sort(p => p.file.name)
+	    .groupBy(p => p.file.name.substring(0,1).toUpperCase())
+	
+	for (let group of groups) {
+	    content += `\n\n## ${group.key}\n\n- `;
+		const rows = group.rows
+	       .sort(k => k.file.name)
+	       .map(k => `[[${k.file.name}\|${k.title}]]`);
+	    content += rows.join('\n- ');
+	}
 
 	// get folder and file path
 	const file = app.vault.getAbstractFileByPath(element.file.path);
