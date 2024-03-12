@@ -131,7 +131,7 @@ notice: null
 - [[codecept|radar/Codecept]]
 - [[collaboration-with-uk-residential-cloud-based-paas|memo/Collaboration With Uk Residential Cloud Based Paas]]
 - [[commitlint|radar/Commitlint]]
-- [[common-component|/undefined]]
+- [[common-component|/common-component]]
 - [[common-design-patterns-in-golang---part-1|radar/timeline/Common Design Patterns In Golang Part 1]]
 - [[competency-mapping|memo/Competency Mapping]]
 - [[conduct-a-meeting|memo/Conduct A Meeting]]
@@ -151,7 +151,6 @@ notice: null
 - [[create-circular-text-using-swiftui|memo/Create Circular Text Using Swiftui]]
 - [[create-working-devcontainer-for-go-api|radar/timeline/Create Working Devcontainer For Go Api]]
 - [[create-working-devcontainer-for-nextjs-boilerplate|radar/timeline/Create Working Devcontainer For Nextjs Boilerplate]]
-- [[cta|_templater/components/undefined]]
 - [[cucumber|radar/Cucumber]]
 - [[Culture Handbook|hiring/Culture Handbook]]
 - [[cypress|radar/Cypress]]
@@ -207,7 +206,7 @@ notice: null
 - [[droppii-dwarves-case-study|memo/Droppii x Dwarves: Transforming E-Commerce with Innovative Dropshipping Solutions]]
 - [[duckdb|radar/Duckdb]]
 - [[DuckDB demo and showcase|labs/events/DuckDB demo and showcase]]
-- [[duy|contributor/null]]
+- [[duy|contributor/duy]]
 - [[dwarves-community|memo/Dwarves Community]]
 - [[dwarves-community-bounty|memo/Community Bounty]]
 - [[dwarves-foundation-apprenticeship-batch-of-2022|memo/Dwarves Foundation Apprenticeship Batch Of 2022]]
@@ -301,7 +300,7 @@ notice: null
 
 ## H
 
-- [[han|contributor/null]]
+- [[han|contributor/han]]
 - [[happy-2023|memo/Happy 2023]]
 - [[headless-ui|radar/Headless Ui]]
 - [[hedge-foundation-a-customized-all-in-one-trading-platform-for-pro-traders|memo/Hedge Foundation A Customized All In One Trading Platform For Pro Traders]]
@@ -309,7 +308,7 @@ notice: null
 - [[hiring-approach|memo/Hiring Approach]]
 - [[hiring-for-operations-team|memo/Hiring For Operations Team]]
 - [[hiring-stages|updates/The stages of hiring at Dwarves]]
-- [[hnh|contributor/null]]
+- [[hnh|contributor/hnh]]
 - [[hoc-renderprops-and-hook-in-reactjs|memo/Hoc Renderprops And Hook In Reactjs]]
 - [[home|/Home]]
 - [[hoppscotch|radar/Hoppscotch]]
@@ -321,7 +320,7 @@ notice: null
 - [[how-we-contribute-to-homebrew|memo/How We Contribute To Homebrew]]
 - [[how-we-created-an-ai-powered-interview-system-using-openais-chatgpt|memo/How We Created An Ai Powered Interview System Using Openais Chatgpt]]
 - [[how-we-setup-cicd|memo/How We Setup Cicd]]
-- [[huytq|contributor/null]]
+- [[huytq|contributor/huytq]]
 
 ## I
 
@@ -413,7 +412,7 @@ notice: null
 - [[memo-blue-green-deployment|radar/timeline/Memo Blue Green Deployment]]
 - [[memo-react-native-new-architecture|radar/timeline/Memo React Native New Architecture]]
 - [[message-queues-and-streaming-platforms-eg-kafka-nats-rabbitmq|memo/Message Queues And Streaming Platforms Eg Kafka Nats Rabbitmq]]
-- [[mickwan1234|contributor/null]]
+- [[mickwan1234|contributor/mickwan1234]]
 - [[micro-frontend|radar/Micro Frontend]]
 - [[micro-frontends---microservices-for-frontend-development|memo/Micro Frontends Microservices For Frontend Development]]
 - [[migrate-aharooms-pms-to-typescript|radar/timeline/Migrate Aharooms Pms To Typescript]]
@@ -422,10 +421,10 @@ notice: null
 - [[migrate-yarn-to-pnpm-in-nextjs-boilerplate|radar/timeline/Migrate Yarn To Pnpm In Nextjs Boilerplate]]
 - [[migrate-yarn-to-pnpm-in-nghe-nhan-droppii|radar/timeline/Migrate Yarn To Pnpm In Nghe Nhan Droppii]]
 - [[migrate-yarn-to-pnpm-in-react-toolkit|radar/timeline/Migrate Yarn To Pnpm In React Toolkit]]
-- [[minhcloud|contributor/null]]
-- [[mochi-ui|earn/null]]
+- [[minhcloud|contributor/minhcloud]]
+- [[mochi-ui|earn/mochi-ui]]
 - [[monorepo|radar/Monorepo]]
-- [[monotykamary|contributor/null]]
+- [[monotykamary|contributor/monotykamary]]
 - [[msw|radar/Msw]]
 
 ## N
@@ -437,7 +436,7 @@ notice: null
 - [[nextjs|radar/Nextjs]]
 - [[nextjs-boilerplate|radar/timeline/Nextjs Boilerplate]]
 - [[nghenhan-microservices|radar/timeline/Nghenhan Microservices]]
-- [[nikki|contributor/null]]
+- [[nikki|contributor/nikki]]
 - [[nodejs|radar/Nodejs]]
 - [[nostrum|radar/Nostrum]]
 - [[nx|radar/Nx]]
@@ -513,7 +512,7 @@ notice: null
 - [[react-testing-library|radar/React Testing Library]]
 - [[react-toolkit|radar/timeline/React Toolkit]]
 - [[react-toolkit-migrate-from-lerna-to-turporepo|radar/timeline/React Toolkit Migrate From Lerna To Turporepo]]
-- [[README|/undefined]]
+- [[README|/README]]
 - [[realtime-memory-knowledge-updates-rag-updates|earn/Realtime memory knowledge updates (RAG updates)]]
 - [[recursively-export-file-pattern-in-javascript-es6-application|memo/Recursively Export File Pattern In Javascript Es6 Application]]
 - [[red-flags|memo/Red Flags]]
@@ -589,7 +588,7 @@ notice: null
 - [[team-up-with-basehq---us-first-ever-platform-built-for-assistants|memo/Team Up With Basehq Us First Ever Platform Built For Assistants]]
 - [[tech-event---in-the-latest-transforming-healthcare-with-technology|memo/Tech Event In The Latest Transforming Healthcare With Technology]]
 - [[technical-recruiter|hiring/open-positions/Technical Recruiter]]
-- [[thanh|contributor/null]]
+- [[thanh|contributor/thanh]]
 - [[The Manifesto|hiring/The Manifesto]]
 - [[the-10x-engineer|memo/The 10x Engineer]]
 - [[the-adjacent-possible|memo/The Adjacent Possible]]
@@ -647,7 +646,7 @@ notice: null
 - [[vercel-switching-their-packages-from-yarn-to-pnpm-caught-our-attention|radar/timeline/Vercel Switching Their Packages From Yarn To Pnpm Caught Our Attention]]
 - [[vitejs|radar/Vitejs]]
 - [[vitejs-native-modules|radar/timeline/Vitejs Native Modules]]
-- [[vitran|contributor/null]]
+- [[vitran|contributor/vitran]]
 - [[volta|radar/Volta]]
 
 ## W

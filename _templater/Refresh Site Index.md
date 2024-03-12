@@ -21,6 +21,7 @@ for (const element of indexPage) {
 	content += "---\n";
 	let groups = dv.pages(`"" AND !"playbook"`)
 	    .where(p => p.file.folder != "_templater")
+	    .where(p => p.file.folder != "_templater/components")
 	    .where(p => p.file.folder != "assets")
 	    .where(p => p.file.name != "_base")
 	    .sort(p => p.file.name)
@@ -28,10 +29,11 @@ for (const element of indexPage) {
 	
 	for (let group of groups) {
 		const key = isNumeric(group.key) ? `#${group.key}` : group.key
+		
 	    content += `\n\n## ${key}\n\n- `;
 		const rows = group.rows
 	       .sort(k => k.file.name)
-	       .map(k => `[[${k.file.name}\|${k.file.folder}/${k.title}]]`);
+	       .map(k => `[[${k.file.name}\|${k.file.folder}/${k.title ?? k.file.name}]]`);
 	    content += rows.join('\n- ');
 	}
 
