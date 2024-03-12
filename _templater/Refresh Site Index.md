@@ -1,4 +1,10 @@
 <%*
+function isNumeric(str) {
+  if (typeof str != "string") return false
+  return !isNaN(str) &&
+         !isNaN(parseFloat(str))
+}
+
 const dv = this.app.plugins.plugins["dataview"].api;
 const indexPage = dv.pages(`"site-index"`);
 
@@ -21,10 +27,11 @@ for (const element of indexPage) {
 	    .groupBy(p => p.file.name.substring(0,1).toUpperCase())
 	
 	for (let group of groups) {
-	    content += `\n\n## ${group.key}\n\n- `;
+		const key = isNumeric(group.key) ? `#${group.key}` : group.key
+	    content += `\n\n## ${key}\n\n- `;
 		const rows = group.rows
 	       .sort(k => k.file.name)
-	       .map(k => `[[${k.file.name}\|${k.title}]]`);
+	       .map(k => `[[${k.file.name}\|${k.file.folder}/${k.title}]]`);
 	    content += rows.join('\n- ');
 	}
 
