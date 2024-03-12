@@ -2,7 +2,7 @@
 tags: 
   - dwarves
   - work
-title: Index
+title: Dwarves Index
 date: 2023-09-30
 description: null
 authors: null
@@ -10,8 +10,6 @@ menu: main
 toc: false
 notice: null
 ---
-## Dwarves Foundation
-
 
 
 ## _
@@ -551,7 +549,7 @@ notice: null
 - [[serverlessq|Serverlessq]]
 - [[setting-the-budget|Setting The Budget]]
 - [[setup-react-project-with-webpack-and-babel|Setup React Project With Webpack And Babel]]
-- [[site-index|Index]]
+- [[site-index|Dwarves Index]]
 - [[six-things-i-extracted-from-design-thinking|Six Things I Extracted From Design Thinking]]
 - [[skill-of-software-engineer|Skill Of Software Engineer]]
 - [[slice-and-array-in-golang|Slice And Array In Golang]]

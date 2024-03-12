@@ -13,7 +13,6 @@ for (const element of indexPage) {
 		}
 	}
 	content += "---\n";
-	content += `## Dwarves Foundation\n\n`
 	let groups = dv.pages(`"" AND !"playbook"`)
 	    .where(p => p.file.folder != "_templater")
 	    .where(p => p.file.folder != "assets")
