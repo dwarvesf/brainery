@@ -46,14 +46,12 @@ SORT event_date ASC
 WHERE !contains(file.path, "_index") AND !contains(file.path, "_base")
 ```
 
-
-
 ## Open Bounty
 
 ```dataview
 TABLE WITHOUT ID
 	"[[" + file.path + "|" + title + "]]" as Title,
-	"🧊 " + bounty as "💰 Bounty",
+	"🧊 " + bounty as "Reward",
 	status as Status,
   join(PICs) as PIC,
   functional as Function
@@ -71,9 +69,7 @@ WHERE title != NULL
 SORT date DESC
 LIMIT 10
 ```
-
 ## Open positions
-
 ```dataview
 LIST WITHOUT ID "[[" + file.path + "|" + title + "]]"
 FROM "hiring/open-positions"

@@ -47,12 +47,12 @@ View our list of amazing people who have contributed to our notes: [[contributor
 
 ## Open Bounty
 
-| Title                                                        | 💰 Bounty | Status | PIC                         | Function    |
-| ------------------------------------------------------------ | --------- | ------ | --------------------------- | ----------- |
-| [[earn/rework-fortress-command.md\|Rework Fortress Command]] | 🧊 100    | Open   | \-                          | 🛠️ Tooling |
-| [[earn/icy-store.md\|$icy store]]                            | 🧊 100    | Open   | minhlq                      | 🛠️ Tooling |
-| [[earn/icy-staking.md\|$icy staking]]                        | 🧊 350    | Open   | phucld, minhlq, nam, bienvh | 🛠️ Tooling |
-| [[earn/fortress-shanky-data.md\|Fortress Shanky Data]]       | 🧊 120    | Open   | nam                         | 🛠️ Tooling |
+| Title                                                        | Reward | Status | PIC                         | Function    |
+| ------------------------------------------------------------ | ------ | ------ | --------------------------- | ----------- |
+| [[earn/rework-fortress-command.md\|Rework Fortress Command]] | 🧊 100 | Open   | \-                          | 🛠️ Tooling |
+| [[earn/icy-store.md\|$icy store]]                            | 🧊 100 | Open   | minhlq                      | 🛠️ Tooling |
+| [[earn/icy-staking.md\|$icy staking]]                        | 🧊 350 | Open   | phucld, minhlq, nam, bienvh | 🛠️ Tooling |
+| [[earn/fortress-shanky-data.md\|Fortress Shanky Data]]       | 🧊 120 | Open   | nam                         | 🛠️ Tooling |
 
 
 ## Memos
@@ -67,7 +67,6 @@ View our list of amazing people who have contributed to our notes: [[contributor
 - [[memo/Forward Engineering October 2023.md|October Forward Engineering 2023]] - monotykamary, thanh
 - [[memo/konvoy-x-dwarves.md|Konvoy X Dwarves]] - \-
 - [[memo/our-view-on-fullstack-engineering.md|Our View On Fullstack Engineering]] - \-
-
 
 ## Open positions
 

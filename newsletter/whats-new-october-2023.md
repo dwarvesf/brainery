@@ -21,7 +21,6 @@ hide_frontmatter: false
 > 
 > If you want to get in touch, visit [Dwarves Network](http://discord.gg/dwarvesv)
 
-
 Each month, we release a recap noting all the significant changes in our company and our team. October's highlights include:
 
 - [[#note.d.foundation]] - The wiki of how we work, learn, and operate the team at Dwarves.
@@ -68,20 +67,14 @@ The only legit performance indicator at Dwarves is MMA; Mastery - Meaning - Auto
 Since we adopted this model last year, everything we do revolves around it. Thanks to the consistency, we have been able to see improved performance, higher drive at work, more transparency across project teams, and more peeps expressed their interest in R&D activities.
 
 From there, we design personalized growth paths, that fit their interest. With enough effort and grit, soon we will see the next part of teammates taking part in the 5 functional core teams.
-
-
 ## Frontend Course 2023
 
 Our free FE Course is successfully finished. The stats are astounding, because compared to our previous Golang Course, there is a 4x jump in participants. We believe this signal shows what we do is being well received by the tech community in Vietnam.
-
-
 ## Wrapping up Droppii
 
 When [Droppii](http://droppii.com/en/) first came to Dwarves, their products were built on an outdated tech stack and couldn't handle their fast-growing user base.
 
 When we came on board as a technical partner, we helped develop the tech foundation, shape up their processes, and also participate in development. After 15 months, we have completed our mission of helping Droppii build & run their own tech team, and shipping 4 different products.
-
-
 ## Community Growth
 
 - Discord welcomes 2050 members in total. Lots of good stuff on tech being shared at #tech #til #random
