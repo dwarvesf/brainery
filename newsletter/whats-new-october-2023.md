@@ -12,13 +12,14 @@ authors:
   - nikki
 menu: newsletter
 toc: false
-notice: 
+notice:
 type: newsletter
 hide_frontmatter: false
 ---
-> [!Before you dive in]
+
+> **Before you dive in**
 > Dwarves is operated as a 50% company, 50% community. Everything we learn along the way of work, we transform into knowledge and distribute back to our tech community.
-> 
+>
 > If you want to get in touch, visit [Dwarves Network](http://discord.gg/dwarvesv)
 
 Each month, we release a recap noting all the significant changes in our company and our team. October's highlights include:
@@ -30,7 +31,9 @@ Each month, we release a recap noting all the significant changes in our company
 - [[#Wrapping up Droppii]] - We completed our mission of helping Droppii build up their tech foundation and products.
 
 ## State of Dwarves
+
 For a tech team like Dwarves, there are only a few things that matter. Coming to the end of the year, we're reflecting and re-enforcing what matters to us.
+
 - Cross-team transparency: we're bringing more documentation, reports, cross-team meetings so everyone knows what the others are up to.
 - R&D: fueled by innovations, more hands are joining R&D to learn the next best thing in tech and programming.
 - Diverse projects: we are now more open to whichever projects that can promise an exciting challenge, regardless of domain, scale, or duration.
@@ -44,7 +47,6 @@ We think of this site as our company wiki. It's where we note (hence the name) a
 With [note.d.foundation](note.d.foundation), we hope the time and effort we spent in the tech industry will become valuable lessons and stories for everyone who also cares about technology and innovation as we do.
 
 Community members are welcome to share their learning notes too. Simply drop a message in relevant channels in our [Discord](http://discord.gg/dwarvesv)
-
 
 ## New functional teams
 
@@ -67,14 +69,17 @@ The only legit performance indicator at Dwarves is MMA; Mastery - Meaning - Auto
 Since we adopted this model last year, everything we do revolves around it. Thanks to the consistency, we have been able to see improved performance, higher drive at work, more transparency across project teams, and more peeps expressed their interest in R&D activities.
 
 From there, we design personalized growth paths, that fit their interest. With enough effort and grit, soon we will see the next part of teammates taking part in the 5 functional core teams.
+
 ## Frontend Course 2023
 
 Our free FE Course is successfully finished. The stats are astounding, because compared to our previous Golang Course, there is a 4x jump in participants. We believe this signal shows what we do is being well received by the tech community in Vietnam.
+
 ## Wrapping up Droppii
 
 When [Droppii](http://droppii.com/en/) first came to Dwarves, their products were built on an outdated tech stack and couldn't handle their fast-growing user base.
 
 When we came on board as a technical partner, we helped develop the tech foundation, shape up their processes, and also participate in development. After 15 months, we have completed our mission of helping Droppii build & run their own tech team, and shipping 4 different products.
+
 ## Community Growth
 
 - Discord welcomes 2050 members in total. Lots of good stuff on tech being shared at #tech #til #random
@@ -82,10 +87,10 @@ When we came on board as a technical partner, we helped develop the tech foundat
 - [Techie Story](http://techiestory.net) fanbase reached 8.8K members
 - Elixir Meetup in Saigon was a fun experience for the team
 
-**Coming up:** 
+**Coming up:**
+
 - Golang Meetup
 - Techie x Webuild Summit
-
 
 ## FAQ
 
@@ -93,13 +98,15 @@ When we came on board as a technical partner, we helped develop the tech foundat
 
 > Currently we don't have any internship positions available. Dwarves facilitate apprenticeship and internship as a program, instead of individually. News about these programs will be updated on [note.d.foundation](note.d.foundation).
 
-
 **Q: How can I contribute to Dwarves network?**
+
 > Everyone can contribute knowledge in our [Discord](http://discord.gg/dwarvesv) and/or contribute to our [Bounties](http://earn.d.foundation).
 > All valuable contributions will be rewarded in ICY ( 1 ICY ~ $1.5)
 
 **Q: Do Dwarves have any events?**
+
 > We have these reoccurring events:
+>
 > - Radio Talk (Weekly, Monday): sharing technical learning, demos, showcases
 > - Tech Event (Monthly): sharing programming trends, tech trends, panel discussions
-> - Community Call (Monthly):  summary wins and growth of the month
+> - Community Call (Monthly): summary wins and growth of the month
