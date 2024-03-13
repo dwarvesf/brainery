@@ -8,8 +8,10 @@ tags:
 title: How to withdraw ICY
 date: 2024-03-13
 description: 
-authors: 
-menu: 
+authors:
+  - minhcloud
+  - monotykamary
+menu: memo
 toc: false
 notice: 
 type: 
