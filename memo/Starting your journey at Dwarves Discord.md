@@ -51,8 +51,8 @@ In this update, we're thrilled to announce a new Discord System that can make it
     - 🏢・lobby
     - 🦄・pink-alert
 - moderation (mod-squad and community management zone)
-    - 🗣**・**community
-    - 🎗️**・**operation
+    - 🗣・community
+    - 🎗️・operation
 - misc & log (the archive with server logs and resources)
     - 🤖・bot-commands
     - 🧊・icy-log
