@@ -1,26 +1,24 @@
 ---
-tags:
-  - consulting
-  - home
 title: Consulting Team
 date: 2023-12-11
 description: This is our Consulting team homepage. Our consulting team helps businesses solve complex challenges and improve performance by identifying root causes, developing solutions, and collaborating with stakeholders for successful implementation. We offer expertise in various areas including strategy, operations, management, IT, finance, and marketing to help your business achieve its goals.
 authors:
   - monotykamary
   - huytq
+tags:
+  - consulting
+  - home
 menu: 
 toc: false
-notice: 
 type: memo
 hide_frontmatter: true
-event_date: 
 pinned: false
 hide_title: true
+
 ---
 ### Who we are
 
-**Dwarves Consulting is team of individuals who possess a combination of technical expertise, problem-solving skills, and strong communication abilities.**
-
+Dwarves Consulting is team of individuals who possess a combination of technical expertise, problem-solving skills, and strong communication abilities.
 
 ### Our culture
 
@@ -35,7 +33,7 @@ Our working environment is dynamic. Instead of pure knowledge / learning session
 
 We also monitor the industry and report on what is being built, what is creating impact, and turn them into use-cases for practices and productions.  
   
-We work in close collaboration with the [[labs/_index|Labs Team]] and product team, to offer to specialized expertise to clients across various industries to ensure we apply our insights and learning to client projects.
+We work in close collaboration with the [[playground/_labs/_index|Labs Team]] and product team, to offer to specialized expertise to clients across various industries to ensure we apply our insights and learning to client projects.
 
 
 ### What we work forward to

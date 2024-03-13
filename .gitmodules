@@ -2,3 +2,12 @@
 	path = playbook
 	url = https://github.com/dwarvesf/playbook.git
 	branch = master
+[submodule "handbook"]
+	path = handbook
+	url = git@github.com:dwarvesf/handbook.git
+[submodule "playground"]
+	path = playground
+	url = git@github.com:dwarvesf/brain.git
+[submodule "careers"]
+	path = careers
+	url = git@github.com:dwarvesf/WeAreHiring.git

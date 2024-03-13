@@ -35,7 +35,7 @@ Our working environment is dynamic. Instead of pure knowledge / learning session
 
 We also monitor the industry and report on what is being built, what is creating impact, and turn them into use-cases for practices and productions.  
   
-We work in close collaboration with the [[labs/_index|Labs Team]] and product team, to offer to specialized expertise to clients across various industries to ensure we apply our insights and learning to client projects.
+We work in close collaboration with the [[playground/_labs/_index|Labs Team]] and product team, to offer to specialized expertise to clients across various industries to ensure we apply our insights and learning to client projects.
 
 
 ### What we work forward to

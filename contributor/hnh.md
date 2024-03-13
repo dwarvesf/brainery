@@ -16,14 +16,12 @@ aliases:
 
 | hnh                                                                                                        | contact                       |
 | ---------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| ![avatar\|100x100](https://cdn.discordapp.com/avatars/567326528216760320/608ffce140ad8830f6e2308763c7a127) | https://github.com/huynguyenh |
+| ![[aeb6a954434a1ff6f9f6d3ffc0bc9fa6_MD5.png]]| https://github.com/huynguyenh |
 
 ## Contributed Notes
 
-- [[contributors/_index.md|Contributors]]
-- [[memo/Starting your journey at Dwarves Discord.md|Starting your journey at Dwarves Discord]]
-- [[memo/salary-advance.md|$icy Salary Advance]]
-- [[memo/icy-in-2024.md|$icy in 2024]]
+- [[salary-advance|$icy Salary Advance]]
+- [[icy-in-2024|$icy in 2024]]
 - [[earn/withdrawl-icy.md|$icy withdrawal]]
 - [[earn/submit-a-bounty.md|Submit a Bounty]]
 - [[earn/rework-fortress-command.md|Rework Fortress Command]]
@@ -34,4 +32,5 @@ aliases:
 - [[earn/fortress-mma-score.md|Fortress Mma Score]]
 - [[earn/archive.md|Archive]]
 - [[earn/_index.md|Open Bounties]]
+- [[contributor/_index|Contributors]]
 - [[_index.md|Home]]

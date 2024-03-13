@@ -201,15 +201,15 @@ Formatting Links
 Image components section
 ```
 Inline-style:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![[assets/common-component/fe9d47fb207a78f2ab92b1b77ffcd46b_MD5.png|"Logo Title Text 1"]]
 
 Reference-style:
 ![alt text][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+![[assets/common-component/8539fc2364a6deb0d63e6fa6bd60aaf0_MD5.png]]
+![[assets/common-component/d45f91af580deb773c11b9fea4eabd4c_MD5.png|"The Stormtroopocat"]]
 
 Like links, Images also have a footnote style syntax
 

@@ -19,11 +19,11 @@ aliases:
 
 | han                                                                                                          | contact                                                                                                |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| ![avatar\|100x100](https://cdn.discordapp.com/avatars/151497832853929986/a_5d05b5a57ec0dfbc2e06ff82420ab1fb) | https://twitter.com/abaddeed<br>https://bsky.app/profile/han.bsky.social<br>https://github.com/tieubao |
+| ![[c748b4f7eea47c81c2fa047c86f12d4e_MD5.gif]]| https://twitter.com/abaddeed<br>https://bsky.app/profile/han.bsky.social<br>https://github.com/tieubao |
 
 ## Contributed Notes
 
-- [[memo/droppii-dwarves-case-study.md|Droppii x Dwarves: Transforming E-Commerce with Innovative Dropshipping Solutions]]
-- [[memo/df-protocol-icy-dfg.md|💠 df protocol, $icy and $dfg]]
+- [[droppii-dwarves-case-study|Droppii x Dwarves: Transforming E-Commerce with Innovative Dropshipping Solutions]]
+- [[df-protocol-icy-dfg|💠 df protocol, $icy and $dfg]]
 - [[hiring/The Manifesto.md|The Manifesto]]
 - [[consulting/Partners Network.md|Partners Network]]

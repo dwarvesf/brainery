@@ -25,25 +25,20 @@ We believe that behind every success comes great preparation, accumulation and c
 
 ![[information_flow.png]]
 
-View our list of amazing people who have contributed to our notes: [[contributors/_index|Contributors]]
+View our list of amazing people who have contributed to our notes: [[contributor/_index|Contributors]]
 
 ## Radar Index
 
-<!-- col-2 #1 -->
-
-- [[radar/zustand.md|Zustand]]
-- [[radar/zod.md|Zod]]
-- [[radar/yup.md|Yup]]
-- [[radar/webflow.md|Webflow]]
-- [[radar/webdriverio.md|Webdriverio]]
-
-<!-- /col-2 #1 -->
-
+- [[zustand|Zustand]]
+- [[zod|Zod]]
+- [[yup|Yup]]
+- [[webflow|Webflow]]
+- [[webdriverio|Webdriverio]]
 ## Upcoming Events
 
-- [[labs/events/Labs Weekly Catchup 5.md|Labs Weekly Catchup #5]] - December 13, 2023
-- [[labs/events/Labs Weekly Catchup 4.md|Labs Weekly Catchup #4]] - December 13, 2023
-- [[labs/events/Labs Weekly Catchup 3.md|Labs Weekly Catchup #3]] - December 13, 2023
+- [[Labs Weekly Catchup 5|Labs Weekly Catchup #5]] - December 13, 2023
+- [[Labs Weekly Catchup 4|Labs Weekly Catchup #4]] - December 13, 2023
+- [[Labs Weekly Catchup 3|Labs Weekly Catchup #3]] - December 13, 2023
 
 ## Open Bounty
 
@@ -53,19 +48,18 @@ View our list of amazing people who have contributed to our notes: [[contributor
 | [[earn/icy-store.md\|$icy store]]                            | 🧊 100    | Open   | @minhlq                         | 🛠️ Tooling |
 | [[earn/icy-staking.md\|$icy staking]]                        | 🧊 350    | Open   | @phucld, @minhlq, @nam, @bienvh | 🛠️ Tooling |
 | [[earn/fortress-shanky-data.md\|Fortress Shanky Data]]       | 🧊 120    | Open   | @nam                            | 🛠️ Tooling |
-
 ## Memos
 
-- [[memo/how-to-push-content-on-note-d.md|How to push content on note.d.foundation]] - @minhcloud
-- [[memo/droppii-dwarves-case-study.md|Droppii x Dwarves: Transforming E-Commerce with Innovative Dropshipping Solutions]] - @huytq, @han
-- [[memo/dwarves-community.md|Dwarves Community]] - @nikki
-- [[memo/Forward Engineering November 2023.md|November Forward Engineering 2023]] - @thanh, @monotykamary
-- [[memo/salary-advance.md|$icy Salary Advance]] - @hnh
-- [[memo/icy-in-2024.md|$icy in 2024]] - @hnh
-- [[memo/df-protocol-icy-dfg.md|💠 df protocol, $icy and $dfg]] - @han
-- [[memo/Forward Engineering October 2023.md|October Forward Engineering 2023]] - @monotykamary, @thanh
-- [[memo/konvoy-x-dwarves.md|Konvoy X Dwarves]] - \-
-- [[memo/our-view-on-fullstack-engineering.md|Our View On Fullstack Engineering]] - \-
+- [[how-to-push-content-on-note-d|How to push content on note.d.foundation]] - @minhcloud
+- [[droppii-dwarves-case-study|Droppii x Dwarves: Transforming E-Commerce with Innovative Dropshipping Solutions]] - @huytq, @han
+- [[dwarves-community|Dwarves Community]] - @nikki
+- [[Forward Engineering November 2023|November Forward Engineering 2023]] - @thanh, @monotykamary
+- [[salary-advance|$icy Salary Advance]] - @hnh
+- [[icy-in-2024|$icy in 2024]] - @hnh
+- [[df-protocol-icy-dfg|💠 df protocol, $icy and $dfg]] - @han
+- [[Forward Engineering October 2023|October Forward Engineering 2023]] - @monotykamary, @thanh
+- [[konvoy-x-dwarves|Konvoy X Dwarves]] - \-
+- [[our-view-on-fullstack-engineering|Our View On Fullstack Engineering]] - \-
 
 ## Open positions
 

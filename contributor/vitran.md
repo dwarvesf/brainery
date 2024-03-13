@@ -17,7 +17,7 @@ aliases:
 
 | vitran                                                                                                     | contact                           |
 | ---------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| ![avatar\|100x100](https://cdn.discordapp.com/avatars/977461299996930089/d9e13e896c0fc626b062e492eaaf9ce3) | https://github.com/tranthiaivi266 |
+| ![[c0950ec92cd7ad2a727a9bcfba0c56d1_MD5.jpg]]| https://github.com/tranthiaivi266 |
 
 ## Contributed Notes
 

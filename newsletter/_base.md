@@ -1,26 +1,13 @@
 ---
-tags:
-  - dwarves
-  - work
-title: Newsletter
-date: 2023-12-11
-description: Sign up for our newsletter to stay up-to-date on our latest news, tips, and updates. We'll deliver valuable content straight to your inbox, keeping you informed and engaged with stuff happening at Dwarves.
-authors:
-  - nikki
-  - monotykamary
-menu: 
+title: _base
+date: 2024-03-12
+description: 
+authors: 
+tags: []
 toc: false
-notice: 
-type: 
 hide_frontmatter: true
-event_date: 
-pinned:
+pinned: 
+hide_title: false
+menu: 
+type: 
 ---
-This is our newsletter page, where we keep you up to date with latest industry news and updates, valuable content from our engineers at Dwarves, and a picture of how we operate with our engineers and community.
-
-```dataview
-LIST WITHOUT ID "[[" + file.path + "|" + title + "]]"
-FROM "newsletter" AND !"newsletter/_index" AND !"newsletter/_base"
-SORT date DESC
-LIMIT 10
-```

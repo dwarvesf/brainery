@@ -7,12 +7,11 @@ description:
 authors: 
 menu: brainery
 toc: false
-notice: 
-type: brainery
 hide_frontmatter: false
-event_date: 
 pinned: 
 hide_title: false
 icy: "10"
 github_id:
+type: brainery
+event_date: 
 ---
