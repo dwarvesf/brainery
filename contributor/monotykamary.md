@@ -21,7 +21,10 @@ aliases:
 
 ## Contributed Notes
 
+- [[contributors/_index.md|Contributors]]
 - [[newsletter/_index.md|Newsletter]]
+- [[memo/Starting your journey at Dwarves Discord.md|Starting your journey at Dwarves Discord]]
+- [[memo/How to withdraw ICY.md|How to withdraw ICY]]
 - [[memo/Forward Engineering October 2023.md|October Forward Engineering 2023]]
 - [[memo/Forward Engineering November 2023.md|November Forward Engineering 2023]]
 - [[memo/Forward Engineering December 2023.md|December Forward Engineering 2023]]
@@ -40,7 +43,6 @@ aliases:
 - [[events/_index.md|Events]]
 - [[earn/obsidian-fork.md|Move internal notes to note.d.foundation]]
 - [[earn/_index.md|Open Bounties]]
-- [[contributors/_index.md|Contributors]]
 - [[consulting/_index.md|Consulting Team]]
 - [[consulting/Estimation Guidelines.md|Estimation Guidelines]]
 - [[_index.md|Home]]

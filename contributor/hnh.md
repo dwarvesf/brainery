@@ -20,6 +20,8 @@ aliases:
 
 ## Contributed Notes
 
+- [[contributors/_index.md|Contributors]]
+- [[memo/Starting your journey at Dwarves Discord.md|Starting your journey at Dwarves Discord]]
 - [[memo/salary-advance.md|$icy Salary Advance]]
 - [[memo/icy-in-2024.md|$icy in 2024]]
 - [[earn/withdrawl-icy.md|$icy withdrawal]]
@@ -32,5 +34,4 @@ aliases:
 - [[earn/fortress-mma-score.md|Fortress Mma Score]]
 - [[earn/archive.md|Archive]]
 - [[earn/_index.md|Open Bounties]]
-- [[contributors/_index.md|Contributors]]
 - [[_index.md|Home]]

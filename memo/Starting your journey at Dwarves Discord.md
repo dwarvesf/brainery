@@ -3,13 +3,13 @@ tags:
   - discord
   - introduction
   - journey
-  - instructions
 title: Starting your journey at Dwarves Discord
 date: 2024-03-13
 description: We've grown a lot since launching our Discord server since the first day we made this network grow based on developers-centric. That’s why Dwarves Discord is operated as a 50% company, 50% community...
 authors:
   - innno_
   - monotykamary
+  - hnh
 menu: memo
 toc: false
 notice: 
@@ -33,7 +33,7 @@ In this update, we're thrilled to announce a new Discord System that can make it
 
 ## Welcome to our server
 
-**Community channels**
+### Community channels
 
 - off-topic (our general hangout zone)
     - ⛺・random
@@ -44,7 +44,7 @@ In this update, we're thrilled to announce a new Discord System that can make it
     - 💻・tech
     - 🎒・topics
 
-**Internal channels:**
+### Internal channels
 
 - project (on-going projects, consulting staffs zone)
 - consulting (peeps zone, company-wide channel for every discussion)
@@ -63,25 +63,25 @@ We’ve reorganized the discord roles system, these roles hold significant value
 
 Along with these roles come additional activities and benefits, especially once NFT and $icy staking are introduced.
 
-**MMA-based new roles system**
+#### MMA-based new roles system
 
 - @labs (Mastery): your expertise is admired
 - @sers (Meaning): your contributions are recognized, both at work and outside.
 - @chad (Autonomy): your effectiveness in terms of quality, quantity, communication, cooperation, and reliability has been noticed ~ high performer
 
-**Moderating**
+#### Moderating
 
 - supporter: help with day-to-day activity, welcome new folks.
 - moderator: organize events, tech talks,...
 - smod: run community & company-wide operational works.
 
-**Community members**
+#### Community members
 
 - guest: default role upon joining
 - newbie: granted after introduction, verify, get role
 - frens: folks who actively discuss in our public channel
 
-**Consulting staffs**
+#### Consulting staffs
 
 - apprentice: newcomers, qualified to work with us.
 - baby dwarf: purpose seeking

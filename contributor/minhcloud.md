@@ -20,5 +20,6 @@ aliases:
 
 ## Contributed Notes
 
+- [[memo/How to withdraw ICY.md|How to withdraw ICY]]
 - [[memo/how-to-push-content-on-note-d.md|How to push content on note.d.foundation]]
 - [[_index.md|Home]]
