@@ -13,7 +13,7 @@ date: 2024-02-07
 description: In this first month of 2024, we kept tap of what's brewing in the tech market, while reviewing what we went through in 2023.
 authors:
   - nikki
-menu: newsletter
+menu: changelog
 type: newsletter
 hide_frontmatter: false
 pinned: false
@@ -48,13 +48,11 @@ This month highlights:
 For the full read, [[Market Report Jan 2024|you can view our market report here]].
 
 ## Monthly top performers
-
-Each month we track how productive and valuable each of our team members by using delivery points. The top 5 high-performing members get rewards with $ICY.
+Each month we track how productive and valuable each of our team members by using delivery points. The top 5 high-performing members get rewards with $ICY. 
 
 In January, kudos to those peeps who outperformed the rest: Ngoc Thanh, Chinh Le, Cuong Mai, Tai Pham, Phat Nguyen
 
 ## Dwarves' 2023 in review
-
 2023 consisted of shifts and changes almost every step of the way. We managed to pull through, and it's all because of the hard work of our members, along with the trust from our clients & partners.
 
 Our top ten achievements through 2023 are chosen by voting from everyone. With half of them are team-related, while the other half are community-related, it shows we are still on the right path to "50% company, 50% community".
@@ -68,15 +66,10 @@ Our top ten achievements through 2023 are chosen by voting from everyone. With h
 - Golang training course with 82 community members participated
 - 102 published stories about human in tech, 77 tech events and radio talks
 
-<<<<<<< HEAD:newsletter/whats-new-january-2024.md
-Read through our full 2023 recap: ![](assets/DOTY2023.pdf)
-
-=======
 Read through our full 2023 recap: ![](DOTY2023.pdf)
->>>>>>> d31b38f (restructure folders):changelog/whats-new-january-2024.md
-## Dwarves' YEP 2023
 
-We chose to host our YEP 2023 earlier than most companies, so that our team members can go home a bit earlier, spending a bit more time with their loved ones.
+## Dwarves' YEP 2023
+We chose to host our YEP 2023 earlier than most companies, so that our team members can go home a bit earlier, spending a bit more time with their loved ones. 
 
 Our YEP is also a bit different. It's a full one-day event filled with multiple activities, as we aim for teamwork, team bonding and also, tremendous fun.
 

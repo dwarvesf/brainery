@@ -20,7 +20,6 @@ aliases:
 | ![[be400e2729efad6a029da3ec48726057_MD5.png]]| https://www.linkedin.com/in/nguyenxuananh/<br>https://twitter.com/monotykamary |
 
 ## Contributed Notes
-
 - [[changelog/_index|Newsletter]]
 - [[Forward Engineering October 2023|October Forward Engineering 2023]]
 - [[Forward Engineering November 2023|November Forward Engineering 2023]]

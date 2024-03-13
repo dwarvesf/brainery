@@ -19,7 +19,6 @@ aliases:
 | ![[aeb6a954434a1ff6f9f6d3ffc0bc9fa6_MD5.png]]| https://github.com/huynguyenh |
 
 ## Contributed Notes
-
 - [[salary-advance|$icy Salary Advance]]
 - [[icy-in-2024|$icy in 2024]]
 - [[earn/withdrawl-icy.md|$icy withdrawal]]

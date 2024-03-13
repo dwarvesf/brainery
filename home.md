@@ -11,11 +11,8 @@ authors:
   - monotykamary
   - hnh
 menu:
-toc: false
-notice:
 type:
 hide_frontmatter: true
-event_date:
 hide_title: true
 ---
 
@@ -28,28 +25,26 @@ We believe that behind every success comes great preparation, accumulation and c
 View our list of amazing people who have contributed to our notes: [[contributor/_index|Contributors]]
 
 ## Radar Index
-
 - [[zustand|Zustand]]
 - [[zod|Zod]]
 - [[yup|Yup]]
 - [[webflow|Webflow]]
 - [[webdriverio|Webdriverio]]
-## Upcoming Events
 
+## Upcoming Events
 - [[Labs Weekly Catchup 5|Labs Weekly Catchup #5]] - December 13, 2023
 - [[Labs Weekly Catchup 4|Labs Weekly Catchup #4]] - December 13, 2023
 - [[Labs Weekly Catchup 3|Labs Weekly Catchup #3]] - December 13, 2023
 
 ## Open Bounty
-
 | Title                                                        | 💰 Bounty | Status | PIC                             | Function   |
 | ------------------------------------------------------------ | --------- | ------ | ------------------------------- | ---------- |
 | [[earn/rework-fortress-command.md\|Rework Fortress Command]] | 🧊 100    | Open   | \-                              | 🛠️ Tooling |
 | [[earn/icy-store.md\|$icy store]]                            | 🧊 100    | Open   | @minhlq                         | 🛠️ Tooling |
 | [[earn/icy-staking.md\|$icy staking]]                        | 🧊 350    | Open   | @phucld, @minhlq, @nam, @bienvh | 🛠️ Tooling |
 | [[earn/fortress-shanky-data.md\|Fortress Shanky Data]]       | 🧊 120    | Open   | @nam                            | 🛠️ Tooling |
-## Memos
 
+## Memos
 - [[how-to-push-content-on-note-d|How to push content on note.d.foundation]] - @minhcloud
 - [[droppii-dwarves-case-study|Droppii x Dwarves: Transforming E-Commerce with Innovative Dropshipping Solutions]] - @huytq, @han
 - [[dwarves-community|Dwarves Community]] - @nikki
@@ -62,5 +57,4 @@ View our list of amazing people who have contributed to our notes: [[contributor
 - [[our-view-on-fullstack-engineering|Our View On Fullstack Engineering]] - \-
 
 ## Open positions
-
 - [[hiring/open-positions/marketing-and-communications-specialist.md|Marketing and Communications Specialist]]

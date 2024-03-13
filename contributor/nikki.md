@@ -19,7 +19,6 @@ aliases:
 | ![[1a527af873aa80ed88bcdb757f5451b0_MD5.png]]| https://github.com/nikkingtr |
 
 ## Contributed Notes
-
 - [[whats-new-october-2023|What's New in October 2023]]
 - [[whats-new-november-2023|What's New in November 2023]]
 - [[whats-new-january-2024|What's New in January 2024]]

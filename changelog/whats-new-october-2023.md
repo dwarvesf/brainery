@@ -10,9 +10,7 @@ date: 2023-11-10
 description: Each month, we release a recap noting all the significant changes with our company and our team. October is our month for open-source and reflections.
 authors:
   - nikki
-menu: newsletter
-toc: false
-notice:
+menu: changelog
 type: newsletter
 hide_frontmatter: false
 ---
@@ -39,7 +37,6 @@ For a tech team like Dwarves, there are only a few things that matter. Coming to
 - Diverse projects: we are now more open to whichever projects that can promise an exciting challenge, regardless of domain, scale, or duration.
 
 ## note.d.foundation
-
 We think of this site as our company wiki. It's where we note (hence the name) and share everything we learn as a team and as a community, knowledge-wise and operation-wise.
 
 ![[information_flow.png]]
@@ -49,7 +46,6 @@ With [note.d.foundation](note.d.foundation), we hope the time and effort we spen
 Community members are welcome to share their learning notes too. Simply drop a message in relevant channels in our [Discord](http://discord.gg/dwarvesv)
 
 ## New functional teams
-
 In October, we reorganized the core team into 5 functional teams with clear responsibilities and deliverables. Each team has its own thing and operates all differently. Different ways of facilitating activities, creating team bonds, delivering results and getting rewards.
 
 - Labs: folks learning, researching emerging tech
@@ -59,7 +55,6 @@ In October, we reorganized the core team into 5 functional teams with clear resp
 - Ventures: investing in cool tech teams and products
 
 ## MMA-based career development
-
 The only legit performance indicator at Dwarves is MMA; Mastery - Meaning - Autonomous.
 
 - Mastery: Are you highly talented and skilled? Are you doing anything to become even better?
@@ -71,17 +66,14 @@ Since we adopted this model last year, everything we do revolves around it. Than
 From there, we design personalized growth paths, that fit their interest. With enough effort and grit, soon we will see the next part of teammates taking part in the 5 functional core teams.
 
 ## Frontend Course 2023
-
 Our free FE Course is successfully finished. The stats are astounding, because compared to our previous Golang Course, there is a 4x jump in participants. We believe this signal shows what we do is being well received by the tech community in Vietnam.
 
 ## Wrapping up Droppii
-
 When [Droppii](http://droppii.com/en/) first came to Dwarves, their products were built on an outdated tech stack and couldn't handle their fast-growing user base.
 
 When we came on board as a technical partner, we helped develop the tech foundation, shape up their processes, and also participate in development. After 15 months, we have completed our mission of helping Droppii build & run their own tech team, and shipping 4 different products.
 
 ## Community Growth
-
 - Discord welcomes 2050 members in total. Lots of good stuff on tech being shared at #tech #til #random
 - Top 10 voices contributing to our server get rewarded in ICY
 - [Techie Story](http://techiestory.net) fanbase reached 8.8K members
@@ -93,7 +85,6 @@ When we came on board as a technical partner, we helped develop the tech foundat
 - Techie x Webuild Summit
 
 ## FAQ
-
 **Q: Do Dwarves offer internships?**
 
 > Currently we don't have any internship positions available. Dwarves facilitate apprenticeship and internship as a program, instead of individually. News about these programs will be updated on [note.d.foundation](note.d.foundation).

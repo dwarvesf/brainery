@@ -6,9 +6,7 @@ authors:
 tags:
   - hiring
 menu: 
-toc: false
 hide_frontmatter: false
 hiring: false
 type: 
-event_date: 
 ---

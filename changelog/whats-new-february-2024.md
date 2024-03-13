@@ -15,20 +15,12 @@ date: 2024-03-08
 description: In this second month of 2024, we're eyeing on what's brewing in the tech market, what's happening in our community and internally, the newest topics we're looking forward to researching and putting on the field, and expanding our partner network.
 authors:
   - nikki
-menu: newsletter
-toc: false
-notice:
+menu: changelog
 type: newsletter
 hide_frontmatter: false
-event_date:
 pinned: true
 hide_title: false
 ---
-
-> **Before you dive in**
-> Dwarves is operated as a 50% company, 50% community. Everything we learn along the way of work, we transform into knowledge and distribute back to our tech community.
->
-> If you want to get in touch, visit [Dwarves Network](http://discord.gg/dwarvesv)
 
 - **[[#Reporting tech signals]]** - Latest findings on Serverless Computing, AI & ML, FinOps and CyberSecurity
 - **[[#Research Topics 2024]]** - 40 topics on the most promising technologies.
@@ -75,15 +67,13 @@ Our reward system is currently being developed. You can look forward to it!
 ![[whats-new-february-2024-20240308101902325.webp|500]]
 
 ## Monthly top performers
-
-Each month we track how productive and valuable each of our team members by using delivery points. The top 5 high-performing members get rewards with $ICY.
+Each month we track how productive and valuable each of our team members by using delivery points. The top 5 high-performing members get rewards with $ICY. 
 
 In February, kudos to those peeps who outperformed the rest: Chinh Le, Hai Huynh, Khac Vy, Tai Pham, Tay Nguyen!
 
 ![[whats-new-february-2024-20240308101913942.webp|300]]
 
 ## Partner Network
-
 We are always seeking for business development partners, individuals and companies likewise, to develop a co-creation system driven by mutual purposes and interests.
 
 With our average proejct size at $30,000, a partner can generate at least $2,400 per project. Commission is paid from project start, every month until project end.

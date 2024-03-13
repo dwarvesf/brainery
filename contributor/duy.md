@@ -18,7 +18,6 @@ aliases:
 | ![[a0370d7459f495e0a5925a73f0fb31d3_MD5.png]]| \-      |
 
 ## Contributed Notes
-
 - [[hiring/The Manifesto.md|The Manifesto]]
 - [[hiring/Life at Dwarves.md|Life at Dwarves]]
 - [[hiring/Culture Handbook.md|Culture Handbook]]

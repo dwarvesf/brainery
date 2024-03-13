@@ -19,7 +19,6 @@ aliases:
 | ![[fa223a51d2baedc35313d71aaa1ac303_MD5.jpg]]| https://twitter.com/0xLight |
 
 ## Contributed Notes
-
 - [[droppii-dwarves-case-study|Droppii x Dwarves: Transforming E-Commerce with Innovative Dropshipping Solutions]]
 - [[consulting/_index.md|Consulting Team]]
 - [[consulting/Project Delivery Schedule and Guidelines.md|Project Delivery Schedule and Guidelines]]

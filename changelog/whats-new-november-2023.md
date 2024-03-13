@@ -11,17 +11,10 @@ date: 2023-12-06
 description: Each month, we release a recap noting all the significant changes in our company and our team. November is our month for meetups and outstanding craftsmanship.
 authors:
   - nikki
-menu: newsletter
-toc: false
-notice:
+menu: changelog
 type: newsletter
 hide_frontmatter: false
 ---
-
-> **Before you dive in**
-> Dwarves is operated as a 50% company, 50% community. Everything we learn along the way of work, we transform into knowledge and distribute back to our tech community.
->
-> If you want to get in touch, visit [Dwarves Network](http://discord.gg/dwarvesv)
 
 Last November, we kicked off the Labs team, introduced Salary Advance for the Dwarves, upgraded note.d.foundation, supported Golang meetup, and demonstrated craftsmanship through various case studies and demos.
 
@@ -32,7 +25,6 @@ Last November, we kicked off the Labs team, introduced Salary Advance for the Dw
 - **[[#Join our team]]** - React Native Developer, Admin / Ops
 
 ## Launching Labs team
-
 With Labs team, it's all about researching cool, industry-moving technologies and producing practical use cases using those tech. In our backlog: WASM, Passwordless, Rust, AI, MPC, UI practices, Elixir, Golang.
 
 Head to [November Forward Engineering](https://note.d.foundation/memo/forward-engineering-november-2023/) for more details.
@@ -40,7 +32,6 @@ Head to [November Forward Engineering](https://note.d.foundation/memo/forward-en
 ![[whats-new-november-2023-20231206133445648.webp|600]]
 
 ## Monthly top performers
-
 Each month we track how productive and valuable each of our team members by using delivery points. For now, the top 5 high-performing members get rewards with $ICY. In Nov, kudos to those peeps who outperformed the rest: **Hai Huynh, Chinh Le, Phat Nguyen, Minh Tran, Ngoc Thanh.**
 
 Last month we also shipped quite a number of features for our clients: [time-sensitive alarms for a trading platform](http://hedge.foundation), [money transfer with Mochi](http://mochi.gg), live annotation for various content formats, user signup/login flow at kiosks.

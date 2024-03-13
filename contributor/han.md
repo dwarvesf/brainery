@@ -22,7 +22,6 @@ aliases:
 | ![[c748b4f7eea47c81c2fa047c86f12d4e_MD5.gif]]| https://twitter.com/abaddeed<br>https://bsky.app/profile/han.bsky.social<br>https://github.com/tieubao |
 
 ## Contributed Notes
-
 - [[droppii-dwarves-case-study|Droppii x Dwarves: Transforming E-Commerce with Innovative Dropshipping Solutions]]
 - [[df-protocol-icy-dfg|💠 df protocol, $icy and $dfg]]
 - [[hiring/The Manifesto.md|The Manifesto]]

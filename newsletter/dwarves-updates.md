@@ -5,11 +5,8 @@ date: 2021-06-10
 description: 
 authors: 
 menu: 
-toc: false
-notice: 
 type: 
 hide_frontmatter: true
-event_date: 
 pinned: 
 hide_title: false
 ---
@@ -22,7 +19,6 @@ A company is like software. It has to be usable, it has to be useful. And it pro
 Dwarves Updates contains what we learned, our tech adoption, our investment in the team, and how we turn those experiences into our client's and partner's success. You're receiving this because we would love to have you as a part of the journey.
 
 ### HR: Apprenticeship Training
-
 In the past, one of our strategies to acquire talent was to conduct the Internship Program, twice a year when the university students graduate or start looking for real-world experience.
 
 In 2018 and 2019, with the tailored program for freshers, we hire many of them from top universities in Vietnam. Usually, it's about 150 applicants and filters out 140. That's a good number, but this year we decide to try another program call Apprenticeship.

@@ -11,3 +11,8 @@ _reference/
 # ignore any base files
 _base.md
 
+playground/_reports/*
+playground/
+<!-- playbook/ -->
+<!-- handbook/ -->
+<!-- changelog/ -->

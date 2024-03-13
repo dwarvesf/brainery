@@ -7,7 +7,6 @@ authors:
 tags:
   - earn
 menu: 
-toc: false
 due_date: 
 status: 
 PICs: 

@@ -6,25 +6,14 @@ date: 2023-08-16
 description: null
 authors: null
 menu: memo
-toc: null
-notice: null
 type: null
 hide_frontmatter: false
 author: Huy Tieu
-created_time: 2023-08-16
 created: 2023-08-16
 ---
 
 ![[2fa7fc70c8f1608d99e6ae08dad2b952_MD5.webp]]
-
-<!-- column_list 965d1377-6f96-489f-b351-cc82004ed569 -->
-
-<!-- column 0542b659-871a-4b54-9b3b-4c1872164e92 -->
-
 <!-- table_of_contents cd4ef05d-487b-4bd9-be49-7d247e47bc94 -->
-
-<!-- column a134106a-d42f-447c-8f78-0afa3af530fe -->
-
 **Industry**
 
 Fintech
@@ -51,9 +40,7 @@ In charge of the backend foundation, we marked a milestone in CIMB's digital tra
 
 Tech Consulting, Staff Augmentation
 
-
 ### <span style='color:red'>**In brief**</span>
-
 ---
 
 * [CIMB Malaysia](https://www.cimb.com.my/), incorporated in Malaysia in 1974 and headquartered in Kuala Lumpur, encompasses a well-established consumer bank, a premier regional investment bank and an Islamic bank, with about 15,800 employees in Malaysia as at March 2023.
@@ -61,16 +48,13 @@ Tech Consulting, Staff Augmentation
 * Dwarves team of 3 engineers focused solely on backend development. This comprised the construction of a robust API gateway and integration with CIMB's legacy database and APIs.
 
 ### <span style='color:red'>**The challenge**</span>
-
 ---
 
 CIMB Malaysia faced the challenge of adapting to rapidly changing customer expectations and technological advancements in the banking industry. 
 
 The objective was to overhaul the digital wealth management experience for CIMB's customers: improve user experience, streamline banking processes, and increase customer engagement through a seamless digital platform. 
 
-
 ### <span style='color:red'>**The Context**</span>
-
 ---
 
 The project focused on enhancing the Wealth Journey (ASNB), aiming to streamline the investment experience for preferred and mass-affluent customers. 
@@ -83,11 +67,9 @@ The project's tech stack included MySQL, JAVA Spring Boot, and Angular, with the
 * **Legacy Database and API Integration:** The team integrated the newly developed services with CIMB's existing legacy databases and APIs, ensuring uninterrupted operation and data consistency across the platform.
 
 ### <span style='color:red'>**Communication / Engagement Model**</span>
-
 ---
 
 Navigating a project with multiple stakeholders demands meticulous coordination and transparency. To ensure seamless interaction and productivity throughout the project's duration, we adopted a tailored communication model:
-
 
 1. **Rapid Recruitment through Talent Pool: **Have been building tech communities since 2020, we were about to quickly recruit and onboard developers suited for the job, ensuring a head start without any undue delays.
 1. **Three-Party Partner Engagement: **This project involved the collaboration of Dwarves, Netizen, and CIMB. Recognizing the intricacies of such a setup:
@@ -97,7 +79,6 @@ Navigating a project with multiple stakeholders demands meticulous coordination 
 1. **Weekly Changelog: **A weekly changelog providing all parties with a snapshot of our progress was maintained. It covered updates on newly rolled-out features, bug fixes, and modifications made during that period, fostering transparency and facilitating real-time feedback.
 
 ### <span style='color:red'>**Outcome**</span>
-
 ---
 
 The collaboration between CIMB Malaysia, Dwarves Foundation, and Netizen resulted in substantial benefits, reshaping both the customer-facing platform and the internal architecture of CIMB's systems:
@@ -112,10 +93,7 @@ The collaboration between CIMB Malaysia, Dwarves Foundation, and Netizen resulte
 
 CIMB's digital transformation, backed by architectural advancements, sets a benchmark for excellence, ensuring enhanced customer satisfaction and operational agility for the bank's future endeavors.
 
-
-
 ---
-
 
 Dwarves Foundation is a team of design and development experts working closely with clients to craft software, build tech teams, and invest in people who create world's next favorite things.
 

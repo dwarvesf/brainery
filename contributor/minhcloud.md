@@ -19,6 +19,5 @@ aliases:
 | ![[3532f647b336939edbc75653a908b2ae_MD5.png]]| https://github.com/minhcloud |
 
 ## Contributed Notes
-
 - [[how-to-push-content-on-note-d|How to push content on note.d.foundation]]
 - [[_index.md|Home]]

@@ -5,10 +5,8 @@ description:
 authors: 
 tags: []
 menu: 
-toc: false
 hide_frontmatter: false
-pinned: 
 hide_title: false
-type: 
-event_date: 
+pinned: false
+type: null
 ---

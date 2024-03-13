@@ -10,20 +10,15 @@ description: Dwarves Foundation Team's guide on our project delivery process. Th
 authors:
   - huytq
 menu: consulting
-toc: false
-notice: 
 type: consulting
 hide_frontmatter: false
-event_date:
 ---
 Dwarves Foundation Team's guide on our project delivery process. This post will serve as your go-to resource for understanding our weekly, bi-weekly, and monthly activities, ensuring that we stay on track and excel in our deliveries.
 
 ---
 
 ## **Weekly Activities**
-
 ### **1. Weekly Points/Effort Report**
-
 **Every Friday**
 
 - **Action**: Fill out the weekly points/effort report.
@@ -34,7 +29,6 @@ Dwarves Foundation Team's guide on our project delivery process. This post will 
 ![[Project Delivery Schedule and Guidelines-20231205231343953.webp]]
 
 ### **2. Sync-Up Between Project Lead and Delivery Manager**
-
 **Every Friday at 2:30 PM**
 
 - **Topics**:
@@ -45,10 +39,9 @@ Dwarves Foundation Team's guide on our project delivery process. This post will 
 ![[Project Delivery Schedule and Guidelines-20231205231409927.webp]]
 
 ---
+
 ## **Bi-Weekly and Monthly Activities**
-
 ### **3. Project Demo/Showcase:**
-
 **Every 3rd Wednesday**
 
 - **Audience**: Consulting and Labs team.
@@ -61,7 +54,6 @@ Dwarves Foundation Team's guide on our project delivery process. This post will 
 ![[Project Delivery Schedule and Guidelines-20231205231433316.webp]]
 
 ### **4. Community Call**
-
 **Last Friday of the Month**
 
 - **Contents**:
@@ -73,7 +65,6 @@ Dwarves Foundation Team's guide on our project delivery process. This post will 
 ![[Project Delivery Schedule and Guidelines-20231205231500387.webp]]
 
 ### 5. Project Collect Feedback
-
 For every 3 or 6 months, by _**Monday of the 1st week from the 1st month**_, Delivery team or Project Leader will send out an email to client to gather feedbacks for our Dwarves members through this form: [Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLScVkRDy9w5_j_Tkj2MXs2Yi_n8yTUqNNBqy8w1-E3Beauodsw/viewform)
 
 **What we can collect from this form?**
@@ -82,11 +73,9 @@ For every 3 or 6 months, by _**Monday of the 1st week from the 1st month**_, Del
 - Start Stop Continue doing feedback model: to understand how we can improve our delivery better.
 - Leadership metrics: how effectiveness on the management from our Team Leader and Team Members.
 
-
 ---
 
 ## **Important Reminders**
-
 - **Weekly Report Completion**: Complete the report every Friday. For estimation help, check [[Estimation Guidelines]].
 - **Project Achievements**: If you have significant milestones or cool aspects of your project, notify the Consulting team for potential demo/showcase inclusion. Recognition is guaranteed.
 

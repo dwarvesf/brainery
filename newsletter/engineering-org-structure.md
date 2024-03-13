@@ -5,11 +5,8 @@ date: 2021-12-01
 description: 
 authors: 
 menu: 
-toc: false
-notice: 
 type: 
 hide_frontmatter: true
-event_date: 
 pinned: 
 hide_title: false
 ---

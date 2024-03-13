@@ -21,7 +21,6 @@ aliases:
 | ![[d8722cbecd23016db728242572fe2cfd_MD5.png]]| https://github.com/zlatanpham |
 
 ## Contributed Notes
-
 - [[Forward Engineering October 2023|October Forward Engineering 2023]]
 - [[Forward Engineering November 2023|November Forward Engineering 2023]]
 - [[Forward Engineering December 2023|December Forward Engineering 2023]]

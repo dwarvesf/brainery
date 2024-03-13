@@ -5,11 +5,8 @@ date: 2021-08-23
 description: 
 authors: 
 menu: 
-toc: false
-notice: 
 type: 
 hide_frontmatter: true
-event_date: 
 pinned: 
 hide_title: false
 ---
@@ -18,8 +15,8 @@ Hey,
 It's Han & Nikki from Team Dwarves. This email is the third month we share about our journey to Software Craftsmanship. The last two issues were in June and July. And we received quite a little feedback from our friends and past clients. Thanks for supporting.
 
 This month, we share about how we do project delivery compliance.
-### **How we do compliance**
 
+### **How we do compliance**
 If there's something that we try to minimize at all costs, it's risks. Risks in software development come at the expense of both our clients and our team. Bigger cost, longer development time, slipping schedules, increasing in working hours, descending team spirit...
 
 Throughout August, the senior team at Dwarves put in the extra time to audit multiple projects. The goal is simple: maximize resource use and increase the success rate of the project.
@@ -35,8 +32,8 @@ The technical audit goes top-down from checking if the overall system architectu
 The other part is the management audit, where we focus on not our engineers' performance but also how well aware they are of the software they build and the business they build it for.
 
 ![[project-compliance-20240312105356342.webp]]
-### **Lesson learned**
 
+### **Lesson learned**
 While we didn't detect any major technical issues that may seriously harm a project, we found intriguing what we found out during the management audit.
 
 - The importance and success criteria of a project is something that needs to reminding everyone in a while. If the engineers don't feel like they're providing values, it's easy to slip. Our PMs have been instructed on this.

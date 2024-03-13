@@ -6,12 +6,8 @@ date: 2022-09-28
 description: null
 authors: null
 menu: memo
-toc: null
-notice: null
 type: null
 hide_frontmatter: false
-author: null
-created_time: 2022-08-05
 created: 2022-09-28
 ---
 
@@ -20,18 +16,7 @@ created: 2022-09-28
 Founded and led by veterans from fintech players like Paypal & Grab, **[Open Fabric](https://openfabric.co/)** is a BNPL platform, built to enable an open commerce network for customers and credit providers in South East Asia to radically simplify merchant integrations for digital payment methods. 
 
 With a team of 8 engineers, Dwarves helped set the tech foundation and together built an MVP from scratch. Within a year, Dwarves helped ship the system to onboard and configure payment methods for companies to the Open Fabric commerce network.
-
-
-
-<!-- column_list 2ca6bb01-6d0c-4376-aa5b-b843392fe1ad -->
-
-<!-- column 25a186fb-9e68-4987-b59d-b9fbc523a9ef -->
-
 <!-- table_of_contents 6e53c70c-99e7-4cc3-8142-bd1889b4eddd -->
-
-
-<!-- column c7a09aaf-1f4b-491d-a722-ee88cb11d48c -->
-
 **Industry**
 
 Fintech
@@ -56,9 +41,7 @@ Released the core master data service in the MVP version
 
 MVP Development, Tech Consulting, Staff Augmentation
 
-
 # The Challenges
-
 ![[a391484a82928431344bb4a1220bea85_MD5.webp]]
 
 OpenFabric’s key value proposition includes:
@@ -78,7 +61,6 @@ At the same time, we also need to tackle the challenge which most startups encou
 # The Solutions
 
 ## Rapid Team Scaling Solution
-
 The key to this collaboration is to provide OpenFabric with engineers who are highly skilled in both coding skills and solutions design skills. In a span of 2 weeks, Dwarves managed to deploy 3 engineers meeting the required skills. 
 
 The team consists of:
@@ -90,9 +72,7 @@ The team consists of:
 Our 3 engineers worked together with OpenFabric’s engineers as one unified team. With their prior experience working on similar products, it didn’t take long for our engineers to pick up and start performing.
 
 ## Customer Solutions
-
 ### Vision of the product
-
 For customers, we are a single interface that exponentially accelerates your merchant footprint across use cases, geographies, and channels. To create a friction-less experience for our customers, we help to ensure the product:
 
 * Leverages virtual cards to tokenize closed-loop payment instruments;
@@ -100,13 +80,10 @@ For customers, we are a single interface that exponentially accelerates your mer
 * Provide a white-labeled SaaS solution for alternate payment methods.
 
 ### How we handle the product
-
 Areas such as maintenance and production issues are risk assessed, planned, and managed as a joint effort with the engineering teams. We help to ensure a strong collaboration process between both our internal team and Dwarves team for any issues or incidents, and this requirement holds true for any remote team.
 
 ## Technical Solutions
-
 ### Solution Design
-
 For Open Fabric’s core business concept, in order to meet requirements for high scalability, horizontal scaling is more preferred over vertical scaling. With that, the system needs to be organized into several services in accordance to domain boundaries.
 
 **Multi-tenancy**
@@ -122,7 +99,6 @@ Internal staff and partner teams need ways to monitor their business operations,
 With limited resources and a rushed time to launch, we have to weigh between building our own report system and allowing easy customization or integrating an existing report service. After thorough research and evaluation, we decided to integrate Metabase to our system, as it was able to meet our requirements.
 
 ## System Design
-
  | **System** | **Tech Stacks** | 
  | ---- | ---- | 
  | Front-end | React, Typescript | 
@@ -154,7 +130,6 @@ We deploy our system to Amazon Web Service Cloud and keep them there. The overal
 ![[0903f2700a511a9a15597148cade6e19_MD5.webp]]
 
 ## Deployment
-
 Open Fabric runtime is divided into 4 separate environments. This helps members develop the best technical solutions and resolve issues quickly, while only exposing new releases to users. We use Docker to compose our environments. Additionally, we use the **Sam CLI **(Command line interface) tool to invoke a lambda function in the local environment.
 
 * **Local development**: This refers to local machines where we write code; any changes to product can be tested with minimal delay.
@@ -178,7 +153,6 @@ There are 2 releases in the sprint: a production release in the middle of the sp
 This allows us to always verify a bug fix/patch in the lower environment before moving it to production, and avoid the situation of reintroducing the bug because we forget to put the fix back into the main branch.
 
 # The Outcome
-
 Together with the Dwarves team, we were able to release essential services that became the foundation of the system. This included the master central configuration service and portals (TSP and OSP) that connects the whole payment gateway system.
 
 The partnership significantly impacted our collaboration in a positive way. With help from our Dwarves team, Open Fabric was able to:

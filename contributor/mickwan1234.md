@@ -19,6 +19,5 @@ aliases:
 | ![[a62184eb6c3c0603745431bc00646d33_MD5.png]]| https://github.com/mickwan1234 |
 
 ## Contributed Notes
-
 - [[playground/Engineering/Google Dataproc|Google Dataproc]]
 - [[playground/Engineering/Google Data Fusion|Google Data Fusion]]

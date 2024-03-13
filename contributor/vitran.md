@@ -20,7 +20,6 @@ aliases:
 | ![[c0950ec92cd7ad2a727a9bcfba0c56d1_MD5.jpg]]| https://github.com/tranthiaivi266 |
 
 ## Contributed Notes
-
 - [[hiring/open-positions/technical-recruiter.md|Technical Recruiter]]
 - [[hiring/open-positions/executive-assistant.md|Executive Assistant]]
 - [[hiring/open-positions/business-development.md|Business Development]]

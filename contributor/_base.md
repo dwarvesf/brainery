@@ -10,12 +10,10 @@ tags:
   - members
   - core
 menu: main
-toc: false
 type: 
 hide_frontmatter: true
 pinned: 
 hide_title: false
-event_date: 
 ---
 
 Here are people at Dwarves Foundation and contributors who gave hands to make our experiments and https://note.d.foundation/ happen:

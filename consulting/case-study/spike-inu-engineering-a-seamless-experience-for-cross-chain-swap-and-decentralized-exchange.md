@@ -8,17 +8,12 @@ date: 2022-06-23
 description: null
 authors: null
 menu: memo
-toc: null
-notice: null
 type: null
 hide_frontmatter: false
-author: null
-created_time: 2022-06-23
 created: 2022-06-23
 ---
 
 ### <span style='color:green'>In brief</span>
-
 ---
 
 * When blockchain becomes the new tech blockbuster, worldwide blockchain networks such as Ethereum, Polygon, Avalanche, Fantom, or Binance Smart Chance started to develop their own tokens. They all possess the same vision: Empower crypto users to transfer their assets in multiple chains hassle-free and effective.
@@ -28,9 +23,7 @@ created: 2022-06-23
 
 ![[d62f913d7d2981f4fe1322f4dfb4076f_MD5.webp]]
 
-
 ### <span style='color:green'>Technical Highlight</span>
-
 ---
 
 * Blockchain bridging solutions
@@ -40,7 +33,6 @@ created: 2022-06-23
 * Transaction validation and error detection
 
 ### <span style='color:green'>The Context</span>
-
 ---
 
 Icrosschain is a swap platform. It supports users to swap their tokens from one network to another while optimizing profits and the best gas fee for transaction.
@@ -48,40 +40,21 @@ Icrosschain is a swap platform. It supports users to swap their tokens from one 
 A token can be liquidated in one or more pools, at one or more DEX platforms. We need to synthesize the information, evaluate the best DEX platform and retrieve a reasonable fee to process the transaction.
 
 In addition, users using ICC tokens can benefit from transaction fees on the network. They can also create liquidity pools on iCrosschain's DEX to benefit from transaction fees.
-
-<!-- column_list 8d6fe9e1-2003-4103-8b8b-4e43742f4890 -->
-
-<!-- column 8694a9b3-2c97-458f-835e-0964ed0ac6b0 -->
-
 ![[b07699aeef4627805ce87190d57b19ec_MD5.webp]]
-
-<!-- column 03d4ca7d-5175-4662-8c8a-50d001ffb4d0 -->
-
 ![[10a286e91bf3c887de8b7ae82ce1a9a2_MD5.webp]]
 
-
 ### <span style='color:green'>Engagement Model</span>
-
 ---
 
 We work with customers as if building a technology startup in the field of blockchain, it helps us to build discipline, passion as well as creativity in the product development process,
 
 Our team has been diligently exploring technology and building from the underlying technologies and deep knowledge in the blockchain network with the spirit of ownership. who understands the product and is willing to exchange ideas with customers.
-
-
-<!-- column_list 3b7e944e-b781-44e7-b94c-81100d912e11 -->
-
-<!-- column 4ae33924-f2db-46a0-814b-22aa3461bbc9 -->
-
 <span style='color:green'>**Tech stacks**</span>
 
 * Backend: Solidity & Index in Golang, private RPC Molaris, Infura, public RPC
 * Frontend: React.js, Next.JS, web3 Ethereum and web3 Solana
 * Infas: k8s, AWS
 * Monitoring: Prometheus
-
-<!-- column f22c4ade-2ef4-4014-9e4e-c9e23a34cb7b -->
-
 * Validator network: Gossip protocol and Golang
 
 <span style='color:green'>**Collaboration**</span>
@@ -91,7 +64,6 @@ Our team has been diligently exploring technology and building from the underlyi
 * Jira
 
 ### <span style='color:green'>Outcome</span>
-
 ---
 
 The bridges are all operated and validated through centralized validators, but we have plans to deploy validators to our partners. We are developing DEX exchange on Avalanche with many upgrades and improvements, it may complete it in Q3 2022.
@@ -103,15 +75,6 @@ A few things we proud to deliver so far:
 * Listing tokens on Pancake
 
 Icrosschain has successfully developed the bridging solution for 8 chains: Ethereum, Binance Smart Chain, Polygon, Fantom, Avalanche, Arbitrum, Heco chain and Okex chain. Solana is currently on our WIP item list.
-
-<!-- column_list 5c2dadc1-f07a-40ee-ace4-ced7223ddd93 -->
-
-<!-- column 35922750-523f-42bf-96a3-7eefdcc07a32 -->
-
 ![[4f51b06b1496a711c0abdc8f1cb543ed_MD5.webp]]
-
-<!-- column f7228945-a285-4147-88d7-75b08dff9238 -->
-
 ![[d3137b95072f99fd861b885ca7a5ccbf_MD5.webp]]
-
 
