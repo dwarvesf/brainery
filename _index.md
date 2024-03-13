@@ -33,7 +33,7 @@ View our list of amazing people who have contributed to our notes: [[contributor
 - [[radar/zod.md|Zod]]
 - [[radar/yup.md|Yup]]
 - [[radar/webflow.md|Webflow]]
-- [[radar/webdriverio.md|Webdriverio]]
+- [[radar/wasm.md|Wasm]]
 
 <!-- /col-2 #1 -->
 ## Upcoming Events
@@ -41,8 +41,6 @@ View our list of amazing people who have contributed to our notes: [[contributor
 - [[labs/events/Labs Weekly Catchup 5.md|Labs Weekly Catchup #5]] - December 13, 2023
 - [[labs/events/Labs Weekly Catchup 4.md|Labs Weekly Catchup #4]] - December 13, 2023
 - [[labs/events/Labs Weekly Catchup 3.md|Labs Weekly Catchup #3]] - December 13, 2023
-
-
 
 
 ## Open Bounty
@@ -69,6 +67,4 @@ View our list of amazing people who have contributed to our notes: [[contributor
 - [[memo/our-view-on-fullstack-engineering.md|Our View On Fullstack Engineering]] - \-
 
 ## Open positions
-
 - [[hiring/open-positions/marketing-and-communications-specialist.md|Marketing and Communications Specialist]]
-
