@@ -17,29 +17,30 @@ authors:
   - nikki
 menu: newsletter
 toc: false
-notice: 
+notice:
 type: newsletter
 hide_frontmatter: false
-event_date: 
+event_date:
 pinned: true
 hide_title: false
 ---
-> [!Before you dive in]
-> Dwarves is operated as a 50% company, 50% community. Everything we learn along the way of work, we transform into knowledge and distribute back to our tech community.
-> 
-> If you want to get in touch, visit [Dwarves Network](http://discord.gg/dwarvesv)
 
+> **Before you dive in**
+> Dwarves is operated as a 50% company, 50% community. Everything we learn along the way of work, we transform into knowledge and distribute back to our tech community.
+>
+> If you want to get in touch, visit [Dwarves Network](http://discord.gg/dwarvesv)
 
 - **[[#Reporting tech signals]]** - Latest findings on Serverless Computing, AI & ML, FinOps and CyberSecurity
 - **[[#Research Topics 2024]]** - 40 topics on the most promising technologies.
 - **[[#Dwarves' Reward System]]** - Developing our community reward system
 - **[[#Calling for Partners]]** - One of the rare event where Dwarves and community members gather.
 
-
 ## Reporting tech signals
+
 Every month we watch tech trends closely to depict which ones have high potential, and can be part of our growing tech stack.
 
 This month highlights:
+
 - AWS introduces Low Latency Runtime (LLRT) for **serverless applications**, promising over 10x faster startup times and up to 2x lower operational costs. Languages to look out for: Rust, QuickJS JavaScript
 - In the age of AI, **system engineering** is more crucial than traditional coding education
 - A groundbreaking method using 1.58 bits per parameter in LLMs aims to dramatically reduce the computational cost and energy consumption of running LLMs
@@ -48,9 +49,9 @@ This month highlights:
 
 **[[Market Report Feb 2024|Read the full report here]]**
 
-
 ## Research Topics 2024
-Being able to solve problems using the latest, coolest technologies has always been our main goal. Therefore, we are going big on research this year. 
+
+Being able to solve problems using the latest, coolest technologies has always been our main goal. Therefore, we are going big on research this year.
 
 - At the moment, we have around 40 topics in our backlog.
 - Topics are chosen by nominating and voting.
@@ -64,6 +65,7 @@ A handful of community members has expressed interest in joining hands. Of cours
 If you want to join our research group, open a support ticket on our [**Discord**](https://discord.gg/dwarvesv) and we'll talk to you asap!
 
 ## Dwarves' Reward System
+
 Our server has been buzzing with quite a lot of knowledge sharing and discussing from members. It's only right that we start giving back to all contributors, through a Reward System.
 
 ICYMI, ICY is Dwarves' very own token used to reward both team members and community members. Anyone can earn ICY by participating in community activities. Even the simplest acts like sharing a link, or chatting count too.
@@ -72,20 +74,20 @@ Our reward system is currently being developed. You can look forward to it!
 
 ![[whats-new-february-2024-20240308101902325.webp|500]]
 
-
 ## Monthly top performers
 
-Each month we track how productive and valuable each of our team members by using delivery points. The top 5 high-performing members get rewards with $ICY. 
+Each month we track how productive and valuable each of our team members by using delivery points. The top 5 high-performing members get rewards with $ICY.
 
 In February, kudos to those peeps who outperformed the rest: Chinh Le, Hai Huynh, Khac Vy, Tai Pham, Tay Nguyen!
 
 ![[whats-new-february-2024-20240308101913942.webp|300]]
+
 ## Partner Network
 
 We are always seeking for business development partners, individuals and companies likewise, to develop a co-creation system driven by mutual purposes and interests.
 
 With our average proejct size at $30,000, a partner can generate at least $2,400 per project. Commission is paid from project start, every month until project end.
 
-But a stable income is not all we offer, there are [[Partners Network|other perks and benefits]] too! 
+But a stable income is not all we offer, there are [[Partners Network|other perks and benefits]] too!
 
 [Reach out to Nikki](mailto:nikki@d.foundation) if you're interested or know someone who might :)
