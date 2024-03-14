@@ -18,7 +18,6 @@ Successfully went through 2022, a year that we might say -  a new record: team r
 We’ve achieved to this year’s resolution: A team that cares about how to build software right and can teach others on that. 
 
 # **TEAM GROWTH**
-
 ### 30 New Team Members
 ---
 
@@ -31,15 +30,11 @@ Expanding the team doesn’t mean we have to disregard our culture. We have laun
 <span style='color:gray'>*The Dwarves Collective, using markdown to visualize bonds between members.*</span>
 
 ### The Next Leading Chairs
----
-
 Launching 3 offices across the country - Saigon, Danang, and Dalat, more initiatives to distribute our software know-how, and a <span style='color:red'>**46% growth**</span> in team scale calls for a different way to run the business. Shifting from a remote working model to a hybrid working model is a must, but it wasn’t easy. 
 
 The bigger team and the new model require more hands on deck. Instead of the old-school Board of Directors, we divide our leadership team based on what each member delivers.
 
 ### R&D Team
----
-
 Research and Development (R&D) came about as a collective department for solving common problems we encounter across all of our projects. As an innovative software firm, we found that the foundations for creating software are vital to making them successful.
 
 After its launch, the R&B has completed the first challenge: **Feature Flags**<span style='color:red'>. </span>
