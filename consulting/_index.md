@@ -61,8 +61,8 @@ Team members' effort is rewarded base on the weight of their contributions. The 
 - [[consulting/Consulting - Who we are.md|Consulting - Who We Are]] - nikki
 - [[consulting/Consulting - How we work.md|Consulting - How we work]] - nikki
 - [[consulting/Consulting - Who should join us.md|Consulting - Who should join us]] - nikki
-- [[consulting/Estimation Guidelines.md|Estimation Guidelines]] - huytq, monotykamary
-- [[consulting/Project Delivery Schedule and Guidelines.md|Project Delivery Schedule and Guidelines]] - huytq
+- [[Estimation Guidelines|Estimation Guidelines]] - huytq, monotykamary
+- [[Project Delivery Schedule and Guidelines|Project Delivery Schedule and Guidelines]] - huytq
 - [[consulting/case-study/konvoy-x-dwarves.md|Konvoy X Dwarves]] - \-
 - [[consulting/case-study/cimb-dwarves-x-netizen-initiating-a-digital-wealth-management-experience.md|Cimb Dwarves X Netizen Initiating A Digital Wealth Management Experience]] - \-
 - [[consulting/case-study/a-case-study-interview-into-micro-frontends-building-design-system-for-e-commerce-platform.md|A Case Study Interview Into Micro Frontends Building Design System For E Commerce Platform]] - \-

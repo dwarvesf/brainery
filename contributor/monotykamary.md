@@ -41,5 +41,5 @@ aliases:
 - [[earn/_index.md|Open Bounties]]
 - [[contributor/_index|Contributors]]
 - [[consulting/_index.md|Consulting Team]]
-- [[consulting/Estimation Guidelines.md|Estimation Guidelines]]
+- [[Estimation Guidelines|Estimation Guidelines]]
 - [[_index.md|Home]]

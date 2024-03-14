@@ -21,5 +21,5 @@ aliases:
 ## Contributed Notes
 - [[droppii-dwarves-case-study|Droppii x Dwarves: Transforming E-Commerce with Innovative Dropshipping Solutions]]
 - [[consulting/_index.md|Consulting Team]]
-- [[consulting/Project Delivery Schedule and Guidelines.md|Project Delivery Schedule and Guidelines]]
-- [[consulting/Estimation Guidelines.md|Estimation Guidelines]]
+- [[Project Delivery Schedule and Guidelines|Project Delivery Schedule and Guidelines]]
+- [[Estimation Guidelines|Estimation Guidelines]]
