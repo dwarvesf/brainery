@@ -3,18 +3,16 @@ title: Changelog
 date: 2024-03-14
 description: 
 authors:
-  - innno_
 tags: []
 hide_frontmatter: true
 pinned: 
-menu: 
+menu: changelog
 type:
 ---
 
-Community Changelog #162 - Feb - Latest Findings, Tech Market Report, Partner network, Research Topics, and Dwarves’ Reward System in
+Community Changelog #162 - Feb - Latest Findings, Tech Market Report, Partner network, Research Topics, and Dwarves’ Reward System in. Another month has passed, it's time for another monthly recap of what we've been working on. Hope everyone is ready for all the cool things below.
 
-Another month has passed, it's time for another monthly recap of what we've been working on. Hope everyone is ready for all the cool things below.
-
+## Intro
 ### **Stay ahead in tech**
 Road to an even greater knowledge base. With around 40 topics covering the most promising technologies to grow our expertise. 
 
