@@ -12,7 +12,6 @@ menu: memo
 type: 
 hide_frontmatter: false
 author: Thanh Pham, Tom X Nguyen
-created: 2023-04-03
 ---
 
 At the intersection of technology and innovation, our engineering team at Dwarves Foundation has been driving change and pushing boundaries. As we continue to navigate the rapidly evolving landscape of software development, we remain steadfast in our commitment to seeking out the latest technologies and practices to deliver exceptional results.

@@ -9,7 +9,6 @@ menu: memo
 type: null
 hide_frontmatter: false
 author: Han 🐸
-created: 2022-08-26
 ---
 ## <span style='color:red'>OUR VISION FOR GROWTH</span>
 Last Jan 2020, we got the chance to celebrate our first milestone - [Dwarves Foundation reached 5 years old](https://dwarves.foundation/five). The remarkable moment contained the proudest thing we delivered.

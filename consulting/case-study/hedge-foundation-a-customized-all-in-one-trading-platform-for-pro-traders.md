@@ -10,7 +10,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2022-06-17
 ---
 
 ![[7a9cdd9e9da725426a2859509b94f1d3_MD5.webp]]

@@ -13,7 +13,6 @@ menu: memo
 type: 
 hide_frontmatter: false
 author: Tom X Nguyen
-created: 2023-01-11
 ---
 
 <!-- table_of_contents 0d000d52-c99d-436c-a418-3a451f30f43e -->

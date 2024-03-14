@@ -10,7 +10,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2022-06-23
 ---
 
 ### <span style='color:green'>In brief</span>

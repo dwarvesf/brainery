@@ -9,7 +9,6 @@ menu: memo
 type: null
 hide_frontmatter: false
 author: Huy Tieu
-created: 2023-08-16
 ---
 
 ![[2fa7fc70c8f1608d99e6ae08dad2b952_MD5.webp]]

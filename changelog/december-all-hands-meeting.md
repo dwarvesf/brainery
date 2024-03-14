@@ -9,7 +9,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2022-01-06
 ---
 ## Moving with Blockchain
 ---

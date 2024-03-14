@@ -9,10 +9,9 @@ title: A Case Study Interview Into Micro Frontends Building Design System For E 
 date: 2023-04-03
 description: null
 authors: null
-menu: memo
+menu: consulting
 type: null
 hide_frontmatter: false
-created: 2023-04-03
 ---
 
 # A Case Study Interview into Micro-Frontends: Building Design System for E-commerce Platform

@@ -16,7 +16,6 @@ menu: memo
 type: 
 hide_frontmatter: false
 author: Thanh Pham, Tom X Nguyen
-created: 2023-08-30
 ---
 
 As we step into the exciting opportunities of August, we are at a crucial point in the ever-changing world of technology. Our adventure until now has been incredibly thrilling, with a strong focus on 'LLM in Production.' Now, we shift our attention to a topic that is always important and never outdated: **Fullstack Engineering**.

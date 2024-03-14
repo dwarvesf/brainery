@@ -8,7 +8,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2021-04-29
 ---
 
 We started [the 1st volume](https://github.com/dwarvesf/radar/tree/master/vol-01) a year ago, mostly about assessing all the tech indexes we have adopted for 5 years. Then we moved to [the 2nd volume](https://github.com/dwarvesf/radar/tree/master/vol-02), where we figured ways to simplify the workflow and complete our project toolkit.

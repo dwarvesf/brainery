@@ -1,5 +1,5 @@
 ---
-title: Changelog
+title: Community Changelog \#162 - Feb
 date: 2024-03-14
 description: 
 authors:
@@ -11,6 +11,10 @@ type:
 ---
 
 Community Changelog #162 - Feb - Latest Findings, Tech Market Report, Partner network, Research Topics, and Dwarves’ Reward System in. Another month has passed, it's time for another monthly recap of what we've been working on. Hope everyone is ready for all the cool things below.
+
+# title
+## section
+### sub-section
 
 ## Intro
 ### **Stay ahead in tech**

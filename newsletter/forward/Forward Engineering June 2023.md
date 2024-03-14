@@ -13,7 +13,6 @@ menu: memo
 type: 
 hide_frontmatter: false
 author: Thanh Pham
-created: 2023-06-30
 ---
 
 As we usher in the month of June, we embrace the ever-changing landscape of technological innovation, recognizing that every twist and turn propels us forward into a world of limitless possibilities. We continue to chart our course through this vast expanse, driven by a mission to remain at the forefront of our industry and deliver unparalleled value to our clients. In this month's report, we reflect on our achievements and share our visions for the future, focusing on a central theme: "**LLM in Production**".

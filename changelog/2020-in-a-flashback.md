@@ -8,7 +8,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2021-02-05
 ---
 
 Wrapping up 2019 with the first 5th-year milestone, many ideas popped up for the next steps. Heading to a new decade means we get to wrap up the old and in with the new. For us, the utmost target is to focus on territory expansion and team bootstrapping. Reinvest on the current foundation. Make it stable and make it impactful.

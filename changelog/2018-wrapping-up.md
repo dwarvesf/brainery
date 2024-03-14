@@ -8,7 +8,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2018-12-31
 ---
 
 2018 was the memorable year with lots of achievements.

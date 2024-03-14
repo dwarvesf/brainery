@@ -1,7 +1,7 @@
 ---
 tags: 
   - dwarves
-title: Happy 2023
+title: 2023 Happy xxx
 date: 2023-01-22
 description: null
 authors: null
@@ -9,7 +9,6 @@ menu: memo
 type: null
 hide_frontmatter: false
 author: Han 🐸
-created: 2023-01-22
 ---
 
 As we enter a new year, I want to reflect on the role that software has played in my life. From the early days of my career to now, software has been a constant presence and something that I have dedicated countless hours to as both an engineer and project manager. I have put in over 10,000 hours of work in this field, and it has become an integral part of my existence.

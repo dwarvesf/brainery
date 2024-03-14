@@ -9,7 +9,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2022-05-31
 ---
 ## <span style='color:green'>FOUNDATION</span> 
 ---

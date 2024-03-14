@@ -8,7 +8,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2021-07-31
 ---
 
 We're closing July with some notable highlights. Let's go through them ✌️

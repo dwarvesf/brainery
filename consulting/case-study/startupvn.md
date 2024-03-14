@@ -9,7 +9,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2021-07-29
 ---
 <span style='color:red'>[startup.vn](http://startup.vn/)</span> was founded 10 years ago, when the concept of "startups" was still fairly new in Vietnam. A handful of people from diverse backgrounds joined hands to create a homeland for Vietnamese who aim at building and growing their own businesses.
 💡 <span style='color:red'>**Fostering innovation and entrepreneurship in Vietnam since 2011.**</span>

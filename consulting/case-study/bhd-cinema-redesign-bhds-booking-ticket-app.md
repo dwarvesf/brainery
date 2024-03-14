@@ -9,7 +9,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2019-05-20
 ---
 
 <!-- child_database 77e75589-8bd4-448f-b38f-6995a6790e8f -->

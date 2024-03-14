@@ -5,10 +5,9 @@ title: A Web Based Cloud Tool Developed In Partnership With Google
 date: 2020-10-24
 description: null
 authors: null
-menu: memo
+menu: consulting
 type: null
 hide_frontmatter: false
-created: 2020-10-24
 ---
 
 ![[d42e1b682d5069810f253775bf7e64f8_MD5.webp]]
@@ -60,6 +59,7 @@ The robust back-end system in Golang
 * Ceaseless delivery and support premium real-time data solutions
 
 Voconic auto diagnoses and fixes the current state when a container crashes. Its level of automation, such as monitoring and alerting, enables the system to operate without human intervention.
+
 **<span style='color:blue'>Tech stacks</span>**
 
 * Backend: Golang

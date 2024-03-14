@@ -8,7 +8,6 @@ authors: null
 menu: memo
 type: null
 hide_frontmatter: false
-created: 2020-01-25
 ---
 
 Another year has gone by. And we just celebrated the 5th year that we survived all the challenges. Everyone was facing their own, but I have seen many of you reaching new stages and achieve new targets.
