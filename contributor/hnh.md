@@ -16,20 +16,22 @@ aliases:
 
 | hnh                                                                                                        | contact                       |
 | ---------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| ![[aeb6a954434a1ff6f9f6d3ffc0bc9fa6_MD5.png]]| https://github.com/huynguyenh |
+| ![avatar\|100x100](https://cdn.discordapp.com/avatars/567326528216760320/608ffce140ad8830f6e2308763c7a127) | https://github.com/huynguyenh |
 
 ## Contributed Notes
-- [[salary-advance|$icy Salary Advance]]
-- [[icy-in-2024|$icy in 2024]]
-- [[earn/withdrawl-icy.md|$icy withdrawal]]
-- [[earn/submit-a-bounty.md|Submit a Bounty]]
-- [[earn/rework-fortress-command.md|Rework Fortress Command]]
-- [[earn/icy-utility-command.md|$icy utility commands]]
-- [[earn/icy-store.md|$icy store]]
-- [[earn/icy-staking.md|$icy staking]]
-- [[earn/fortress-shanky-data.md|Fortress Shanky Data]]
-- [[earn/fortress-mma-score.md|Fortress Mma Score]]
-- [[earn/archive.md|Archive]]
-- [[earn/_index.md|Open Bounties]]
-- [[contributor/_index|Contributors]]
+
+- [[playground/_memo/salary-advance.md|$icy Salary Advance]]
+- [[playbook/community/icy-in-2024.md|$icy in 2024]]
+- [[playbook/community/Starting your journey at Dwarves Discord.md|Starting your journey at Dwarves Discord]]
+- [[contributor/_index.md|Contributors]]
+- [[careers/earn/withdrawl-icy.md|$icy withdrawal]]
+- [[careers/earn/submit-a-bounty.md|Submit a Bounty]]
+- [[careers/earn/rework-fortress-command.md|Rework Fortress Command]]
+- [[careers/earn/icy-utility-command.md|$icy utility commands]]
+- [[careers/earn/icy-store.md|$icy store]]
+- [[careers/earn/icy-staking.md|$icy staking]]
+- [[careers/earn/fortress-shanky-data.md|Fortress Shanky Data]]
+- [[careers/earn/fortress-mma-score.md|Fortress Mma Score]]
+- [[careers/earn/archive.md|Archive]]
+- [[careers/earn/_index.md|Open Bounties]]
 - [[_index.md|Home]]

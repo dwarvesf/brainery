@@ -15,9 +15,10 @@ aliases:
 
 | duy                                                                                                        | contact |
 | ---------------------------------------------------------------------------------------------------------- | ------- |
-| ![[a0370d7459f495e0a5925a73f0fb31d3_MD5.png]]| \-      |
+| ![avatar\|100x100](https://cdn.discordapp.com/avatars/788351441097195520/b5799a413a532ba4fbdcc53fcca65693) | \-      |
 
 ## Contributed Notes
-- [[hiring/The Manifesto.md|The Manifesto]]
-- [[hiring/Life at Dwarves.md|Life at Dwarves]]
-- [[hiring/Culture Handbook.md|Culture Handbook]]
+
+- [[careers/additional-info/The Manifesto.md|The Manifesto]]
+- [[careers/additional-info/Life at Dwarves.md|Life at Dwarves]]
+- [[careers/additional-info/Culture Handbook.md|Culture Handbook]]

@@ -1,28 +1,22 @@
 ---
 title: Contributors
 date: 2024-03-11
-description: "This is our contributors page, where our core members, engineers, and community help to give hand to our research, our field notes, and this site: https://note.d.foundation/."
-authors:
+description: This is our contributors page, where our core members, engineers, and community help to give hand to our research, our field notes, and this site: https://note.d.foundation/.
+authors: 
   - monotykamary
   - hnh
-tags:
+tags: 
   - contributors
   - members
   - core
 menu: main
-type: 
+type: null
 hide_frontmatter: true
-pinned: 
+pinned: null
 hide_title: false
 ---
+<div class="profile"/>
 
-Here are people at Dwarves Foundation and contributors who gave hands to make our experiments and https://note.d.foundation/ happen:
+undefined
+## Contributed Notes
 
-## Contributors:
-```dataview
-TABLE WITHOUT ID
-	"[[" + file.name + "]]" as member,
-	social
-FROM "contributor"
-SORT social DESC
-```

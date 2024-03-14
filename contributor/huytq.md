@@ -16,10 +16,11 @@ aliases:
 
 | huytq                                                                                                      | contact                     |
 | ---------------------------------------------------------------------------------------------------------- | --------------------------- |
-| ![[fa223a51d2baedc35313d71aaa1ac303_MD5.jpg]]| https://twitter.com/0xLight |
+| ![avatar\|100x100](https://cdn.discordapp.com/avatars/361172853326086144/fc16986d5e0c3348454336ab48eb1f1e) | https://twitter.com/0xLight |
 
 ## Contributed Notes
-- [[droppii-dwarves-case-study|Droppii x Dwarves: Transforming E-Commerce with Innovative Dropshipping Solutions]]
+
+- [[playbook/operations/Project Delivery Schedule and Guidelines.md|Project Delivery Schedule and Guidelines]]
+- [[playbook/business/Estimation Guidelines.md|Estimation Guidelines]]
+- [[consulting/case-study/droppii-dwarves-case-study.md|Droppii x Dwarves: Transforming E-Commerce with Innovative Dropshipping Solutions]]
 - [[consulting/_index.md|Consulting Team]]
-- [[Project Delivery Schedule and Guidelines|Project Delivery Schedule and Guidelines]]
-- [[Estimation Guidelines|Estimation Guidelines]]

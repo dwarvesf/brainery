@@ -16,8 +16,10 @@ aliases:
 
 | minhcloud                                                                                                   | contact                      |
 | ----------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| ![[3532f647b336939edbc75653a908b2ae_MD5.png]]| https://github.com/minhcloud |
+| ![avatar\|100x100](https://cdn.discordapp.com/avatars/1007496699511570503/ecf51b8fe204d894b1ef5328983cfd31) | https://github.com/minhcloud |
 
 ## Contributed Notes
-- [[how-to-push-content-on-note-d|How to push content on note.d.foundation]]
+
+- [[playground/_memo/how-to-push-content-on-note-d.md|How to push content on note.d.foundation]]
+- [[playbook/community/How to withdraw ICY.md|How to withdraw ICY]]
 - [[_index.md|Home]]
