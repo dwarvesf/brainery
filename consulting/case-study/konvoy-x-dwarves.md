@@ -37,10 +37,8 @@ The short-term rental solution, an ideal fit for one-way trips, guarantees trans
 Driven by its mission to track every keg's location, Konvoy reduces losses and bolsters profit margins. Its top-tier service and maintenance ensure minimal downtime for your kegs. Currently a dominant entity in the ANZ market, Konvoy is powered by a dedicated team of 30 professionals.
 
 ### Challenge
----
 
 ### Solution
----
 
 ### Technology Stack
 The deployed technology stack includes the following major components:
@@ -62,7 +60,7 @@ The strategic collaboration between **Dwarves Foundation** and **Konvoy** has re
 * Dramatic speed enhancements in fetching keg history location and routes, reducing latency response time from tens of seconds to mere seconds – an improvement largely credited to Brad, the leader of the engineering team.
 
 ![[82158455a3c4433253d356e1b4a3accb_MD5.webp]]
----
+
 Dwarves Foundation is a team of design and development experts working closely with clients to craft software, build tech teams, and invest in people who create world's next favorite things.
 
 **Love what we are doing?**
