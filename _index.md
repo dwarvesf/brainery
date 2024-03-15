@@ -29,7 +29,9 @@ View our list of amazing people who have contributed to our notes: [[contributor
 <!-- /col-2 #1 -->
 
 ## Upcoming Events
-- [[playground/_labs/events/DuckDB demo and showcase.md|DuckDB demo and showcase]] - November 23, 2023
+- [[playground/_labs/events/Labs Weekly Catchup 5.md|Labs Weekly Catchup #5]] - December 13, 2023
+- [[playground/_labs/events/Labs Weekly Catchup 4.md|Labs Weekly Catchup #4]] - December 13, 2023
+- [[playground/_labs/events/Labs Weekly Catchup 3.md|Labs Weekly Catchup #3]] - December 13, 2023
 
 
 ## Open Bounty

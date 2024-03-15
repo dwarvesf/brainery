@@ -30,7 +30,7 @@ aliases:
 - [[changelog/whats-new-november-2023.md|What's New in November 2023]]
 - [[changelog/whats-new-january-2024.md|What's New in January 2024]]
 - [[changelog/whats-new-february-2024.md|What's New in February 2024]]
-- [[changelog/whats-new-december-2023.md|What's New in December 2023]]
+- [[changelog/whats-new-december-2023.md|2023 Dec + title]]
 - [[changelog/_index.md|Changelog]]
 - [[careers/open-positions/technical-recruiter.md|Technical Recruiter]]
 - [[careers/open-positions/react-native-developer.md|React Native Developer]]

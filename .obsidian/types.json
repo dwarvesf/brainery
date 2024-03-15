@@ -17,6 +17,7 @@
     "hiring": "checkbox",
     "pinned": "checkbox",
     "hide_title": "checkbox",
-    "discord_id": "number"
+    "discord_id": "number",
+    "icy": "number"
   }
 }

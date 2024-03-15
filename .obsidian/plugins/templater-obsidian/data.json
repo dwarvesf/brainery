@@ -57,6 +57,10 @@
     {
       "folder": "brainery",
       "template": "_templater/New Brainery.md"
+    },
+    {
+      "folder": "contributor",
+      "template": "_templater/New Member.md"
     }
   ],
   "syntax_highlighting": true,

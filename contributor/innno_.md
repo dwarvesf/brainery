@@ -22,4 +22,3 @@ aliases:
 ## Contributed Notes
 
 - [[playbook/community/Starting your journey at Dwarves Discord.md|Starting your journey at Dwarves Discord]]
-- [[changelog/162-xxxx.md|Changelog]]

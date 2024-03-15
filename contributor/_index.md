@@ -1,17 +1,18 @@
 ---
 title: Contributors
-date: 2024-03-11
-description: "This is our contributors page, where our core members, engineers, and community help to give hand to our research, our field notes, and this site: https://note.d.foundation/."
+date: 2024-03-15
+description: Here is our home of contributors that helped out with writing field and research notes as well as those who helped out creating our memo.
 authors: 
   - monotykamary
-  - hnh
-tags: 
-  - contributors
-  - members
-  - core
-menu: main
-type: null
+tags: null
+menu: null
 hide_frontmatter: true
-pinned: null
 hide_title: false
+pinned: false
+type: null
 ---
+<div class="profile"/>
+
+undefined
+## Contributed Notes
+
