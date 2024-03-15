@@ -23,11 +23,6 @@ We believe that behind every success comes great preparation, accumulation and c
 
 View our list of amazing people who have contributed to our notes: [[contributor/_index|Contributors]]
 
-## Radar Index
-<!-- col-2 #1 -->
-
-<!-- /col-2 #1 -->
-
 ## Upcoming Events
 - [[playground/_labs/events/Labs Weekly Catchup 5.md|Labs Weekly Catchup #5]] - December 13, 2023
 - [[playground/_labs/events/Labs Weekly Catchup 4.md|Labs Weekly Catchup #4]] - December 13, 2023
@@ -35,10 +30,22 @@ View our list of amazing people who have contributed to our notes: [[contributor
 
 
 ## Open Bounty
-| Title | Reward | Status | PIC | Function |
-| ----- | ------ | ------ | --- | -------- |
+| Title                                                                | Reward | Status | PIC                         | Function    |
+| -------------------------------------------------------------------- | ------ | ------ | --------------------------- | ----------- |
+| [[careers/earn/rework-fortress-command.md\|Rework Fortress Command]] | 🧊 100 | Open   | \-                          | 🛠️ Tooling |
+| [[careers/earn/icy-store.md\|$icy store]]                            | 🧊 100 | Open   | minhlq                      | 🛠️ Tooling |
+| [[careers/earn/icy-staking.md\|$icy staking]]                        | 🧊 350 | Open   | phucld, minhlq, nam, bienvh | 🛠️ Tooling |
+| [[careers/earn/fortress-shanky-data.md\|Fortress Shanky Data]]       | 🧊 120 | Open   | nam                         | 🛠️ Tooling |
 
 
-## Memos
-undefined
-#^\nOpen positions
+---
+
+## Contributing
+At Dwarves, we encourage our people to read, write, share what we learn with others, and [[CONTRIBUTING|contributing to the Brainery]] is an important part of our learning culture. For visitors, you are welcome to read them, contribute to them, and suggest additions. We maintain a monthly pool of $1500 to reward contributors who support our journey of lifelong growth in knowledge and network.
+
+## Love what we are doing?
+- Check out our [products](https://superbits.co)
+- Hire us to [build your software](https://d.foundation)
+- Join us, [we are also hiring](https://github.com/dwarvesf/WeAreHiring)
+- Visit our [Discord Learning Site](https://discord.gg/dzNBpNTVEZ)
+- Visit our [GitHub](https://github.com/dwarvesf)

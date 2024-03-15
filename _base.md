@@ -23,15 +23,6 @@ We believe that behind every success comes great preparation, accumulation and c
 
 View our list of amazing people who have contributed to our notes: [[contributor/_index|Contributors]]
 
-## Radar Index
-<!-- col-2 #1 -->
-```dataview
-LIST WITHOUT ID "[[" + file.path + "|" + title + "]]"
-FROM "radar" AND !"radar/_index" AND !"radar/_base"
-LIMIT 5
-```
-<!-- /col-2 #1 -->
-
 ## Upcoming Events
 ```dataview
 LIST WITHOUT ID "[[" + file.path + "|" + title + "]] - " + event_date
@@ -50,22 +41,19 @@ TABLE WITHOUT ID
 	status as Status,
   join(PICs) as PIC,
   functional as Function
-FROM "earn" AND !"earn/_index" AND !"earn/_base"
+FROM "careers/earn" AND !"career/searn/_index" AND !"career/earn/_base"
 WHERE title != null AND (status = "Open")
 SORT date DESC
 ```
 
-## Memos
-```dataview
-LIST WITHOUT ID "[[" + file.path + "|" + title + "]] - " + join(authors, ", ")
-FROM "memo" AND !"memo/_index" AND !"memo/_base"
-^\nWHERE title != NULL
-SORT date DESC
-LIMIT 10
-```
-#^\nOpen positions
-```dataview
-LIST WITHOUT ID "[[" + file.path + "|" + title + "]]"
-FROM "hiring/open-positions"
-WHERE hiring = true
-```
+---
+
+## Contributing
+At Dwarves, we encourage our people to read, write, share what we learn with others, and [[CONTRIBUTING|contributing to the Brainery]] is an important part of our learning culture. For visitors, you are welcome to read them, contribute to them, and suggest additions. We maintain a monthly pool of $1500 to reward contributors who support our journey of lifelong growth in knowledge and network.
+
+## Love what we are doing?
+- Check out our [products](https://superbits.co)
+- Hire us to [build your software](https://d.foundation)
+- Join us, [we are also hiring](https://github.com/dwarvesf/WeAreHiring)
+- Visit our [Discord Learning Site](https://discord.gg/dzNBpNTVEZ)
+- Visit our [GitHub](https://github.com/dwarvesf)
