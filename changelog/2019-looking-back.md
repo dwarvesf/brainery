@@ -1,10 +1,12 @@
 ---
 tags: 
   - updates
+  - newsletter
 title: Looking Back 2019
 date: 2020-01-25
 description: null
-authors: null
+authors: 
+- Han 🐸
 menu: memo
 type: null
 hide_frontmatter: false

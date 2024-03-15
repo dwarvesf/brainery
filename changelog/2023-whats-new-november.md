@@ -1,7 +1,5 @@
 ---
 tags:
-  - craftsmanship
-  - labs
   - meetups
   - golang
   - salary
@@ -39,7 +37,6 @@ Last month we also shipped quite a number of features for our clients: [time-sen
 Coming next: NFT badges. NFT badges can be staked to earn shares of the company.
 
 ## Salary Advance
-
 Dwarves' team members now can get an advance of up to 25% of their monthly salary. The payment is made in $ICY and can be redeemed via https://icy.so
 
 This bot command can be used in our Discord server, and anonymously :)
@@ -47,13 +44,11 @@ This bot command can be used in our Discord server, and anonymously :)
 ![[whats-new-november-2023-20231206133455685.webp|500]]
 
 ## Misc
-
 - Our Discord server is for everyone. We're happy to see ~400 active users last month, and of course, the top ten voices in get 5 $ICY each.
 - More bounties are up for grab: https://note.d.foundation/earn/
 - Techie story are now on [Tiktok](https://www.tiktok.com/@techiestory.net), highlighting 4 stories about life in tech in US & Japan
 
 ## Join our team
-
 We are looking for the following talents to join our team
 
 - React Native Developer (Project-based Contractor)

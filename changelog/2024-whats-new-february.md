@@ -4,12 +4,6 @@ tags:
   - consulting
   - tech-report
   - performance
-  - community
-  - leaderboard
-  - icy
-  - learning-topics
-  - labs
-  - research-topics
 title: What's New in February 2024
 date: 2024-03-08
 description: In this second month of 2024, we're eyeing on what's brewing in the tech market, what's happening in our community and internally, the newest topics we're looking forward to researching and putting on the field, and expanding our partner network.
@@ -28,7 +22,6 @@ hide_title: false
 - **[[#Calling for Partners]]** - One of the rare event where Dwarves and community members gather.
 
 ## Reporting tech signals
-
 Every month we watch tech trends closely to depict which ones have high potential, and can be part of our growing tech stack.
 
 This month highlights:
@@ -42,7 +35,6 @@ This month highlights:
 **[[Market Report Feb 2024|Read the full report here]]**
 
 ## Research Topics 2024
-
 Being able to solve problems using the latest, coolest technologies has always been our main goal. Therefore, we are going big on research this year.
 
 - At the moment, we have around 40 topics in our backlog.
@@ -57,7 +49,6 @@ A handful of community members has expressed interest in joining hands. Of cours
 If you want to join our research group, open a support ticket on our [**Discord**](https://discord.gg/dwarvesv) and we'll talk to you asap!
 
 ## Dwarves' Reward System
-
 Our server has been buzzing with quite a lot of knowledge sharing and discussing from members. It's only right that we start giving back to all contributors, through a Reward System.
 
 ICYMI, ICY is Dwarves' very own token used to reward both team members and community members. Anyone can earn ICY by participating in community activities. Even the simplest acts like sharing a link, or chatting count too.

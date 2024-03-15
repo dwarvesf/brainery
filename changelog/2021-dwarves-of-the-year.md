@@ -1,11 +1,13 @@
 ---
 tags: 
-  - dwarves
+  - newsletter
+  - wrap-up
   - team
 title: Dwarves Of 2021
 date: 2022-01-05
 description: null
-authors: null
+authors: 
+- duy
 menu: memo
 type: null
 hide_frontmatter: false
@@ -27,8 +29,6 @@ Let’s all welcome our Dwarves of 2021 🛠
 ![[f2fcf2efddd0f570bec3dc89b7c5069a_MD5.webp]]
 
 ## Claim Your Prize
----
-
 Based on the prize value in each title, let’s select your prize item in this sheet [https://bit.ly/3G0LuAU](https://bit.ly/3G0LuAU). A few notes on this: 
 
 * You can choose ***any item*** - as long as the subtotal value is ***≤= your prize value***. 
@@ -40,6 +40,6 @@ Based on the prize value in each title, let’s select your prize item in this s
 **We’ve also prepared you all a mini merchandise set for the rest of the team**. Hope you can travel anywhere with this combo. Please help to input your info in the tab Team Address - [https://bit.ly/3G0LuAU](https://bit.ly/3G0LuAU).
 
 A big congratulation to our Dwarves of 2021! And thank you to all the Dwarves teammates for being with us through the past 7 years. May we all enter 2022 with happiness and success ♡
-![[11f821799acf0b2c9d65163cfed1d038_MD5.webp]]
-![[playground/_memo/assets/dwarves-of-2021/fd61221cb31785842fecd3ff2339aab6_MD5.webp]]
 
+![merch][https://file.notion.so/f/f/498ebd7b-383c-459f-a9ad-b74073208ddd/1679071f-d342-45b7-a734-b70e33382ed7/df-merch.jpg?id=9cdeabd0-80f0-48e7-a726-8c580e8deb0d&table=block&spaceId=498ebd7b-383c-459f-a9ad-b74073208ddd&expirationTimestamp=1710590400000&signature=TW_6VAdhWe5qKcnSoxBGUWp3MnhLTcoFXqAGGnzjgJk&downloadName=df-merch.jpg]]
+![merch2][https://file.notion.so/f/f/498ebd7b-383c-459f-a9ad-b74073208ddd/dc82aec6-66f3-4f2c-a55d-3a2e83e7936e/real-merch.jpeg?id=de479ebe-1d3c-4c20-b106-3e0aea6aba6d&table=block&spaceId=498ebd7b-383c-459f-a9ad-b74073208ddd&expirationTimestamp=1710590400000&signature=gTuY8O4vnJN07-enDPmeM8Z_WXACr8l8tsy8sgO5yzc&downloadName=real-merch.jpeg]
