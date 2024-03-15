@@ -15,7 +15,8 @@ pinned:
 hide_title: false
 ---
 
-### Consulting teams consists of anyone who's hungry for more than just coding; those who are curious about the trends, the market, who can introduce new projects / challenges, who care about ### providing sensible solutions, and who take great care of projects.
+**Consulting teams consists of anyone who's hungry for more than just coding; those who are curious about the trends, the market, who can introduce new projects / challenges, who care about providing sensible solutions, and who take great care of projects.**
+
 When assessing new members, we have a few qualities that we look for. Those qualities can be something that you have already possess, or can be something you are growing toward.
 
 ![[Consulting - Who should join us-20231221144422875.webp]]
