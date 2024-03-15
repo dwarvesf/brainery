@@ -8,6 +8,7 @@ authors:
 menu: memo
 type: 
 hide_frontmatter: false
+featured: true
 ---
 **Industry:**
 Logistics, Supply Chain Management

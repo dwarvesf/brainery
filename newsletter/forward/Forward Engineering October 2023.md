@@ -17,6 +17,7 @@ authors:
 menu: memo
 type: memo
 hide_frontmatter: false
+featured: true
 ---
 As we step into the exciting opportunities of October, we are at a crucial point in the ever-changing world of technology. Our adventure until now has been for the most part very exciting, with a strong focus on 'Full-stack engineering’ Now, we shift our attention to a topic that is prolific and always true: **********************Open-source**********************.
 

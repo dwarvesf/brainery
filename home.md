@@ -45,16 +45,8 @@ View our list of amazing people who have contributed to our notes: [[contributor
 | [[earn/fortress-shanky-data.md\|Fortress Shanky Data]]       | 🧊 120    | Open   | @nam                            | 🛠️ Tooling |
 
 ## Memos
-- [[how-to-push-content-on-note-d|How to push content on note.d.foundation]] - @minhcloud
-- [[droppii-dwarves-case-study|Droppii x Dwarves: Transforming E-Commerce with Innovative Dropshipping Solutions]] - @huytq, @han
-- [[dwarves-community|Dwarves Community]] - @nikki
-- [[Forward Engineering November 2023|November Forward Engineering 2023]] - @thanh, @monotykamary
-- [[salary-advance|$icy Salary Advance]] - @hnh
-- [[icy-in-2024|$icy in 2024]] - @hnh
-- [[df-protocol-icy-dfg|💠 df protocol, $icy and $dfg]] - @han
-- [[Forward Engineering October 2023|October Forward Engineering 2023]] - @monotykamary, @thanh
-- [[konvoy-x-dwarves|Konvoy X Dwarves]] - \-
-- [[our-view-on-fullstack-engineering|Our View On Fullstack Engineering]] - \-
+
+{{% featured-posts %}}
 
 ## Open positions
 - [[hiring/open-positions/marketing-and-communications-specialist.md|Marketing and Communications Specialist]]

@@ -18,6 +18,7 @@ type: memo
 hide_frontmatter: false
 pinned: 
 hide_title: false
+featured: true
 ---
 
 **Industry**

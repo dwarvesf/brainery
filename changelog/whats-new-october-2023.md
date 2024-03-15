@@ -15,7 +15,7 @@ type: newsletter
 hide_frontmatter: false
 ---
 
-> [!Before you dive in]
+> **Before you dive in**
 > Dwarves is operated as a 50% company, 50% community. Everything we learn along the way of work, we transform into knowledge and distribute back to our tech community.
 >
 > If you want to get in touch, visit [Dwarves Network](http://discord.gg/dwarvesv)

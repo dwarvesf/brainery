@@ -18,6 +18,7 @@ menu: labs
 type: memo
 hide_frontmatter: false
 pinned: true
+featured: true
 ---
 **This** month, we have focused on revamping how we learn, familiarize, and work with tech. We are excited to announce that we have updated our Forward Engineering to better reflect the feedback and insights from our Labs team, Operations Team, and Consulting Team.
 
