@@ -10,7 +10,6 @@ menu: memo
 type: null
 hide_frontmatter: false
 ---
-
 > Following the previous article on UX case study of Sol — Travel App, an app that was tailored to meet the needs of groups on traveling days. In this article, we will describe our creative process of the UI for it. We choose iOS as our platform to be presented, considering that it is the more favored devices being used.
 
 As we have gone through the UX research tasks in the last article, we started brainstorming about how the mobile application should look. We all agreed that it should be not just easy to use but also attractive-looking to our target users — the young.
