@@ -52,5 +52,4 @@ and Dwarves, don’t forget to drop your info at [Team Address](https://docs.goo
 
 Here’s to rock 2022!
 ![[ff19993744fb6047810b5411ce69b707_MD5.webp]]
-![[playground/_memo/assets/december-all-hands-meeting/fd61221cb31785842fecd3ff2339aab6_MD5.webp]]
-
+![[assets/december-all-hands-meeting/fd61221cb31785842fecd3ff2339aab6_MD5.webp]]
