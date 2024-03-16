@@ -2,7 +2,6 @@
 tags:
   - newsletter
   - year-end-party
-  - donation
   - bounty
   - tech-report
   - community

@@ -71,7 +71,7 @@ New researches must be put into practice; otherwise, it's a waste of time. From 
 Everything we do results in this internal tech-index. A hub of continuous evolving expertise.
 ![[changelog/assets/d713f1fe35c7e9e35112315edc5574c5_MD5.webp]]
 
-### The Internal**
+### The Internal
 We figure it wasn't the right time to scale. It's the time to maintain and make the best out of what we have. Keep the company safe through the pandemic and build a team that people love to work with are the primary goals.
 
 So. new plan. Restructure, strengthen the core and focus on what we do best.
@@ -103,7 +103,7 @@ With the concept that Program = Data + Algorithm, we weave the data culture in e
 Data prevents us from making biased decisions. No favoritism on the table. Data sort out the real number from the real work, where we get to analyze and evaluate objectives effectively. Keeping all data in one place enables us to set measurable goals that align with the company's vision, predict what works and what doesn't, and, therefore, actively turn data into real action.
 
 ### We seek for Solid Partnership
-To go further, seeking partnerships to co-create the future is a must. We managed to expand the connection by searching for business partners globally. Anyone who wishes to join our partner network can see if they have [the same belief in meeting business goals through innovative high-tech solution](https://dwarves.foundation/partner)s.
+To go further, seeking partnerships to co-create the future is a must. We managed to expand the connection by searching for business partners globally. Anyone who wishes to join our partner network can see if they have [the same belief in meeting business goals through innovative high-tech solution](https://dwarves.foundation/partner).
 
 We've prepared them a collaboration process on commission-based. We welcome the ones with the urge to grow new business opportunities by technology and innovation.
 

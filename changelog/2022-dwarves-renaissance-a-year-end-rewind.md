@@ -80,7 +80,7 @@ Striving to create and go the extra mile for a generation of new tech enthusiast
 ### Investment in Console, Chumbi and Tatsu
 On our engineering journey in creating decentralized crypto applications, our partnership with **[Console Labs](https://console.so/)** has paved the way for new undertakings in creating scalable systems.
 
-Along with encompassing know-how on designing system architectures, we’ve also helped with blockchain integrations, smart contract development, NFT launches, and greenfield development on blockchain tools. We're growing further with blockchain technology by investing i **[Chumbi Valley](https://chumbivalley.com/)**, **and [Tatsu](https://tatsu.gg/)** - NFT-based projects.
+Along with encompassing know-how on designing system architectures, we’ve also helped with blockchain integrations, smart contract development, NFT launches, and greenfield development on blockchain tools. We're growing further with blockchain technology by investing i **[Chumbi Valley](https://chumbivalley.com/)**, and **[Tatsu](https://tatsu.gg/)** - NFT-based projects.
 ![[8e20d43e2280cb6d73b66cb32589d347_MD5.webp]]
 ![[3ffe6be8770c28e27e4cfb57fdc52141_MD5.webp]]
 
@@ -103,8 +103,8 @@ Came after [Summit 2022](/a97f5ddc0611460abc0212b4ba5d10d4), we’ve piloted a f
 ### Online Omni-channels 
 The Dwarves actively take part in developer networks to bring makers and tech enthusiasts together. Below is the list of [social channels](https://index.d.foundation/) that you can access for Dwarves sharing. 
 
-* Social Media: **[LinkedIn](/f5ff4edfd8cf44d2ad7f2781ba717577)****, ****[Facebook](/f5ff4edfd8cf44d2ad7f2781ba717577)****, ****[Instagram](/f5ff4edfd8cf44d2ad7f2781ba717577)****, ****[Twitter](/f5ff4edfd8cf44d2ad7f2781ba717577)****, ****[Memo](/f5ff4edfd8cf44d2ad7f2781ba717577)**
-* Streamline: [Youtube](https://www.youtube.com/@dwarvesfoundation2350), [Let's Hear IT ](https://spoti.fi/3xi92yY)[Podcast](https://rss.com/podcasts/dwarvestechevent/)
+* Social Media: **[LinkedIn](/f5ff4edfd8cf44d2ad7f2781ba717577)****, ****[Facebook](/f5ff4edfd8cf44d2ad7f2781ba717577)**, **[Instagram](/f5ff4edfd8cf44d2ad7f2781ba717577)**, **[Twitter](/f5ff4edfd8cf44d2ad7f2781ba717577)**, **[Memo](/f5ff4edfd8cf44d2ad7f2781ba717577)**
+* Streamline: **[Youtube](https://www.youtube.com/@dwarvesfoundation2350)**, **[Let's Hear IT ](https://spoti.fi/3xi92yY)[Podcast](https://rss.com/podcasts/dwarvestechevent/)**
 
 A variety of things, from lessons learned in a well-written format to Radio Talk live every Monday on Youtube and hanging out with techies at [Dwarves Discord Network](/f5ff4edfd8cf44d2ad7f2781ba717577) where we talk about technology and life as developers can help you stay tuned with us. 
 
@@ -117,7 +117,7 @@ A variety of things, from lessons learned in a well-written format to Radio Talk
 ### Offline Contests
 **[Coding Camp](https://codingcamp.so/)** of Solana Vietnam was an incredible success, with over 2000 applications for the 8-week workshop, 200 selected developers, 51 projects on Demo Day, and nearly 100,000$ for the system of prizes.
 
-**[Mochi](https://mochi.gg/)**, a product we build in partnership with Console Labs, won the 2nd prize; **[Triple Pod](https://tripod-web.vercel.app/)**- Gamefi project won the excellent UX/UI and**[iCrosschain](https://icrosschain.io/)** - transaction platforms built on multichain won the second prize in Defi at Solana Vienam Coding Camp 2022  - Build Your Own Web Kingdom.
+**[Mochi](https://mochi.gg/)**, a product we build in partnership with Console Labs, won the 2nd prize; **[Triple Pod](https://tripod-web.vercel.app/)**- Gamefi project won the excellent UX/UI and **[iCrosschain](https://icrosschain.io/)** - transaction platforms built on multichain won the second prize in Defi at Solana Vienam Coding Camp 2022  - Build Your Own Web Kingdom.
 
 We are proud to be a part of the movement toward blockchain-based technology and become a web3-centric tech firm. Keep up the spirit of building, expanding, and evolving!
 
@@ -152,7 +152,7 @@ For the games, we offered a total reward of 150,000,000 VND (~$6,361.32) to our 
 ![[changelog/assets/1b8011f8f951e36b240fff0df5282543_MD5.png]]
 
 ### Dwarves Apprenticeship
-[**The wrap-up of Dwarves Foundation Apprenticeship 2022**](https://medium.com/dwarves-foundation/dwarves-foundation-apprenticeship-batch-of-2022-f45013189444) scaled us with a new well-trained squad. After the program, all of our apprentices are now working on client projects and constantly learning new things along the way.
+**[The wrap-up of Dwarves Foundation Apprenticeship 2022](https://medium.com/dwarves-foundation/dwarves-foundation-apprenticeship-batch-of-2022-f45013189444)** scaled us with a new well-trained squad. After the program, all of our apprentices are now working on client projects and constantly learning new things along the way.
 
 Another great outcome we got from this program: more seniors who participated in mentoring and training for the program moved forward into leadership.
 

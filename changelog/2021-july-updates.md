@@ -54,7 +54,7 @@ Notion is our new document base. We've migrated our written document into this, 
 * Changelog: Our moving journey
 * New memo: Company blog
 
-## What's next in Aug</span>
+## What's next in Aug
 ### Brain Repo: Embedded & IoT R&D
 We plan to have a study group for IoT and embedded application. The study group will be led by Trung & Hieu on Discord channel.
 
