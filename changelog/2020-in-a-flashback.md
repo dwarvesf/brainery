@@ -127,7 +127,7 @@ Bringing the number to the public gives us the privilege to stay proud of what w
 
 ### Hiring
 **We value the unconventional**
-Once Covid started to invade, our goal changed accordingly. Instead of adding more people, we choose to fill the team with more culture. We picked out the value that makes us who we are and wrapped them in [Culture book.](https://github.com/dwarvesf/handbook/blob/master/what-we-value.md)**
+Once Covid started to invade, our goal changed accordingly. Instead of adding more people, we choose to fill the team with more culture. We picked out the value that makes us who we are and wrapped them in [Culture book.](https://github.com/dwarvesf/handbook/blob/master/what-we-value.md)
 
 ![[changelog/assets/6694c1aa16fc90f1f7189d457e439ee1_MD5.webp]]
 
@@ -194,7 +194,7 @@ Though the affection of Covid limits us from conducting offline meetups, we stil
 **techie.story**
 Having more time inside makes us realize more corners in this industry should be shined a light on. We founded [**techie.story**](http://techiestory.co/), where we get them to listen to the untold story of techies from this industry, about the hidden aspects of day-to-day work.
 
-![techie][https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Qd5O2IjrtwS2KucXNYBjSg.png]
+![techie](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Qd5O2IjrtwS2KucXNYBjSg.png)
 
 **We do Open-Source Software**
 Going OSS means working with multiple companies on an idea or a problem, which eventually gets us to the solution more quickly with more creativity. By sharing the foundation concept and codebase, OSS enables us to trigger innovative ideas, provide and receive insights from different people in the industry. That allows the development phase to happen smoothly, encourages the spirit of building, expanding, and evolving.
