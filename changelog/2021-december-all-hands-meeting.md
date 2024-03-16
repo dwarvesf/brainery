@@ -10,8 +10,7 @@ menu: memo
 type: null
 hide_frontmatter: false
 ---
-## Moving with Blockchain
----
+### Moving with Blockchain
 We shift our focus to real deals. 
 
 Meanwhile, **#blockchain** **#web3** channels are there for the Dwarves to learn & exchange their knowns. Grab your seat.
@@ -19,16 +18,12 @@ The teammates also propose to join blockchain projects. We’re happy onboard Hi
 
 ![[61172e1155a4a184faddc31bf62d492b_MD5.webp]]
 
-## Selective in Project Decision
----
-
+### Selective in Project Decision
 It’s a promise of bigger clients & better team deployment.
 
 We were able to drop the long-term projects that no longer match our business direction; successfully committed to **deploying the minimum of 3 Dwarves** for almost all remaining projects. With this coming, we also **increase the headcount rate **as we believe it should grow alongside our ability to deliver.
 
-## Growing the Team
----
-
+### Growing the Team
 A special congrats to Cuong Mai, Tom & Ngoc Mai for passing the probation and becoming the Dwarves for real. Last month brought us Phat Ha, who’s currently in charge of Nghe Nhan Trading. The Dwarves are growing, by all means. 
 
 ![[e3077e1e538246f43986740a60bbe2a8_MD5.webp]]
@@ -42,15 +37,13 @@ Some Dwarves joined us lately, but they’ve already shown they’re the man for
 * Tom - LFW BE lead & study group lead
 * Hoang Nguyen - SP Digital
 
-## and the Attached Benefits
----
-
+### and the Attached Benefits
 That growth explains our **upgrade on the benefits package**. We did a full upgrade on the team, from base salary to WFH station upgrade. You guys really earned this. 
 
-### **Office Status**
+### Office Status
 I think it’s safe to announce that the one-way ticket to our remote hubs will be available by the 1st quarter of 2022. More especially, we might host tech events, seminars and training in Da Nang.
 
-### **Dwarves of 2021**
+### Dwarves of 2021
 A huge congratulation for our **[Dwarves of 2021](/37bc743333e34e89b93f52147055d17b)**! Please help to tick your wishlist items so we can proceed them asap. 
 
 We’ve received much input to help improve the team. All of those ideas have been logged into our 2022 todo-list. 

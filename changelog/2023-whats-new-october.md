@@ -1,9 +1,7 @@
 ---
 tags:
   - open-source
-  - reflection
   - newsletter
-  - frontend
   - community
 title: What's New in October 2023
 date: 2023-11-10
@@ -29,7 +27,6 @@ Each month, we release a recap noting all the significant changes in our company
 - [[#Wrapping up Droppii]] - We completed our mission of helping Droppii build up their tech foundation and products.
 
 ## State of Dwarves
-
 For a tech team like Dwarves, there are only a few things that matter. Coming to the end of the year, we're reflecting and re-enforcing what matters to us.
 
 - Cross-team transparency: we're bringing more documentation, reports, cross-team meetings so everyone knows what the others are up to.
@@ -80,7 +77,6 @@ When we came on board as a technical partner, we helped develop the tech foundat
 - Elixir Meetup in Saigon was a fun experience for the team
 
 **Coming up:**
-
 - Golang Meetup
 - Techie x Webuild Summit
 

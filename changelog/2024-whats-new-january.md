@@ -1,12 +1,10 @@
 ---
 tags:
   - newsletter
-  - consulting
   - year-end-party
   - donation
   - bounty
   - tech-report
-  - performance
   - community
 title: What's New in January 2024
 date: 2024-02-07
@@ -32,7 +30,6 @@ In this first month of 2024, we kept tap of what's brewing in the tech market, w
 - **[[#Dwarves' 2023 in review]]** - A recap of Dwarves in 2023
 
 ## Reporting tech signals
-
 Every month we watch tech trends closely to depict which ones have high potential, and can be part of our growing tech stack.
 
 This month highlights:
@@ -81,6 +78,5 @@ Thank you to all the team members, partners, alumni and community members who jo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2xPsj5TR_wA?si=Og_OrVtT0o16t2Bz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Community
-
 - Top contributors to our Discord server this month brought in a lot of new knowledge. Thank you, and we hope you enjoy your $ICY rewards.
 - Some members asked if we will have any training courses soon. While we don't yet have the answer, as we're still planing for 2024, you can join us on Discord so you'll get notified when we do!

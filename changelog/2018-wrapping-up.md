@@ -1,10 +1,13 @@
 ---
 tags: 
   - updates
+  - newsletter
 title: 2018 Wrapping Up
 date: 2018-12-31
 description: null
-authors: null
+authors: 
+- Han 🐸
+- duy
 menu: memo
 type: null
 hide_frontmatter: false

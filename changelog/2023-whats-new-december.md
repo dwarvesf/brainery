@@ -1,10 +1,9 @@
 ---
 tags:
-  - newsletter
   - consulting
   - performance-review
   - doty
-title: 2023 Dec + title
+title: What's new in December 
 date: 2024-01-03
 description: In December, we launched our Consulting Team, released our finding on tech trends, and last but not least, got everyone ready to wrap up 2023.
 authors:
@@ -63,12 +62,10 @@ On Jan 13th, we're flying non-Saigon peeps to Saigon so everyone can get togethe
 The Dwarves way. We don't just base on our review by performance, but also on everyone's effort to grow in their career. As our theme for the year is MMA (Mastery, Meaning, Autonomy), we develop a system of metrics to make sure our engineers are not only skilled, but also head toward higher purpose.
 
 ## Community
-
 - Top contributors to our Discord server this month brought in a lot of new knowledge. Thank you, and we hope you enjoy your $ICY rewards.
 - Techie's [Tiktok](https://www.tiktok.com/@techiestory.net) reached 16k followers! We're happy to be reaching new people through each story. And you can always let us know whose story you'd want to know, we'll try to make it happen!
 
 ## Join our team
-
 We are looking for the following talents to join our team
 
 - [[executive-assistant|Admin / Ops]] (Fulltime)
