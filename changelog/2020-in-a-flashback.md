@@ -19,7 +19,8 @@ Wrapping up 2019 with the first 5th-year milestone, many ideas popped up for the
 ![2019](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*FBrbED3m27focAgygJMeUg.png)
 
 It handed us the chance to come up with more cool stuff. Something to recognize each other among the crowd. A black zip hoodie and symbolic totem of the Dwarves.
-![merch][https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vO2BMtcZqmThcWolgyD1eQ.jpeg]
+
+![merch](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vO2BMtcZqmThcWolgyD1eQ.jpeg)
 
 Scaling from a few craftsmen, we reached 50s with a firm foundation from different places. Within the year, people come and go, but their spirit stays. Each of them contributes a small puzzle for a bigger picture.
 
