@@ -12,23 +12,19 @@ hide_frontmatter: false
 
 ![[7ba0ab212be0b82800b89bcd86505dba_MD5.webp]]
 
-### <span style='color:blue'>In brief</span>
+### In brief
 * Relay is an extension tool that decreases micromanagement by automating workflows.
 * Relay's first engagement with Dwarves aims to ship their MVP to market as quick as possible for early user acquisition.
 * We dive in with 2 quickly adapt engineers. We keep a stable pace of feature shipment and adjust along with the requirements. 
 
-### <span style='color:blue'>**Highlights**</span>
----
-
+### **Highlights**
 * Slack app & Chrome extension.
 * Custom semantic versioning for chrome extension.
 * Combine flipper, sidekiq for A/B testing and gradually roll out new version.
 * Action tracking system design.
 * Monorepo source code.
 
-### <span style='color:blue'>The Context</span>
----
-
+### The Context
 Relay was in the early stage. Hetong, the PO, stated clearly she needed a viable version with basic features.
 
 The MVP must be finished fast and clean for potential customer acquirement and seeding round.
@@ -37,12 +33,10 @@ It must be done fast. And the requirement can be changed as market demands. Due 
 
 🔹 The context changes. We change accordingly
 
-### <span style='color:blue'>**Engagement Model**</span>
----
-
+### **Engagement Model**
 At first, we were expected to join them for the first few months. As the product goes, the trustworthy collaboration escalated that we could involve more in the development process. They welcome us to contribute the idea instead of just getting the tasks done.
 
-<span style='color:blue'>**Teck stacks**</span>
+**Teck stacks**
 * Backend: Ruby on Rails
 * Frontend: React + TailwindCSS, Storybook 
 * Infra: AWS Amplify
@@ -52,20 +46,16 @@ Relay places their effort on development pace and reuses what's helpful to speed
 
 The combo of React, TailwindCSS and Storybook allows us to get that done with no sweat.
 
-<span style='color:blue'>**Communication**</span>
-
+**Communication**
 Slack is definitely for team communication, while Notion is perfect for documents management. 
 
 We take Trello onboard for task management, while all the designs are stored in Figma. 
 
-### <span style='color:blue'>**Outcome**</span>
----
-
+### **Outcome**
 Through months of development, we are able to roll out the first MVP. 
 
-That comes with <span style='color:blue'>**a Google Extension**</span>, <span style='color:blue'>**a web app**</span>, <span style='color:blue'>**an Analytics Dashboard**</span> and <span style='color:blue'>**a Relay bot**</span> integrated straight into Slack workspace.
+That comes with **a Google Extension**, **a web app**, **an Analytics Dashboard** and **a Relay bot** integrated straight into Slack workspace.
 ![[57b30c85eea9fbabca8c8894a019ff71_MD5.webp]]
 ![[cf7deedef0cc5bb418fd945d594c68ef_MD5.webp]]
 
-Relay starts to acquire paid users and prepares for their next funding seed. Followed by their <span style='color:blue'>**[May Product Updates](https://teamrelay.medium.com/relay-product-updates-may-2021-f7b3db7002c5)**</span>, we're delighted to be a part of this journey. The work evolves with two more features: Relay Sequence Chart and Relay Progress - both for team productivity boosting.
-
+Relay starts to acquire paid users and prepares for their next funding seed. Followed by their **[May Product Updates](https://teamrelay.medium.com/relay-product-updates-may-2021-f7b3db7002c5)**, we're delighted to be a part of this journey. The work evolves with two more features: Relay Sequence Chart and Relay Progress - both for team productivity boosting.

@@ -4,7 +4,6 @@ tags:
   - engineering
   - frontend
   - case study
-  - micro-frontend
 title: A Case Study Interview Into Micro Frontends Building Design System For E Commerce Platform
 date: 2023-04-03
 description: null
@@ -13,8 +12,6 @@ menu: consulting
 type: null
 hide_frontmatter: false
 ---
-
-# A Case Study Interview into Micro-Frontends: Building Design System for E-commerce Platform
 Previously on [Why Micro-Frontend](https://memo.d.foundation/Why-micro-frontend-6d5df5b9b71e4f248a7740bc51e096a4), we took a look into what is Micro-Frontend architecture, as well as some core concepts behind it. For some of you that have missed the memo, here’s a tl;dr:
 
 > *Micro frontend architecture is an approach to building web applications by splitting the user interface into smaller, independent, and reusable parts. Each part is owned and developed by a separate team, and they are brought together in the browser to create a single, seamless user experience.*
@@ -33,13 +30,11 @@ This led us to micro-frontend architecture, where we split the project into smal
 
 ### How did you split the projects?
 The projects at Swift are split vertically by page and sub-domain. We have at least ten apps in total, each assigned to a specific team. A sample breakdown of our current system would include:
-
 * Authentication (Login)
 * Profile Dashboard
 * Ads Management Dashboard
 * Chat
 * Design System
-
 … and so on.
 
 This approach has allowed us to have a more focused development process, which has ultimately led to better results.
@@ -69,17 +64,13 @@ In this case study, we explored how the Micro-Frontend architecture was applied 
 
 Alas, Swift is not the only one among our partners that are utilizing a Micro-Frontend architecture, and we are reaching out to others for even more insights. Stay tuned for more!
 
----
-
 ### Come be with us
 We’d love to have you in our next chapter, by all means.
-
 * Discover what we do: [dwarves.foundation](http://dwarves.foundation/)
 * Meet our team: [discord.gg/dwarvesv](http://discord.gg/dwarvesv)
 * Join the squad: [careers.d.foundation](http://careers.d.foundation/)
 
 Follow our journey
-
 * Fanpage: [facebook.com/dwarvesf](http://facebook.com/dwarvesf)
 * LinkedIn: [linkedin.com/company/dwarvesf](http://linkedin.com/company/dwarvesf)
 * Substack: [https://note.d.foundation/](https://note.d.foundation/)

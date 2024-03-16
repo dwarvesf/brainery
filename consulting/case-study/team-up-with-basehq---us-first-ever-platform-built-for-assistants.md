@@ -13,52 +13,46 @@ hide_frontmatter: false
 
 ![[019ef328b59808b45c4541243f71c875_MD5.webp]]
 
-### <span style='color:green'>In brief</span>
+### In brief
 * Base launched in 2019 out of High Alpha Venture Studio, with a $2.6M funding round led by Matchstick Ventures with participation from Revolution's Rise of the Rest Seed Fund, High Alpha Capital, and Slack Fund.
 * Base is a software platform built specifically for executive assistants. Focus on smoothing out assistants' daily work. They demand a high integration between different platforms.
 * We stepped in to make it happen. Through 2 years straight, they engaged with Dwarves to develop various new modules and features. Our work helped Base to catch up with their release roadmap and ensured product quality.
 
-### <span style='color:green'>Technical Highlight</span>
----
-
+### Technical Highlight
 * Microservices Architecture
 * Implement TypeScript on the whole system for app performance
 * Write services in Golang for performance and secure
 * Write end-user app with ReactJS/NextJS Typescript to scalability
 * Custom-library and webhook for EventCatching
 
-### <span style='color:green'>The Context</span>
----
+### The Context
 BaseHQ heads to boost performance for assistants. 
 
 By pulling necessary data into one system, assistants can generate and use data for multiple operational tasks. 
-⚙️ Their goal is <span style='color:green'>an all-in-one platform for critical data</span>. From calendar, tasks, decision stream, digest builders and scheduler. 
+⚙️ Their goal is an all-in-one platform for critical data. From calendar, tasks, decision stream, digest builders and scheduler. 
 
 ![[3d15a0c958a3f23f8935c803726b9d2a_MD5.webp]]
 
-### <span style='color:green'>Engagement Model</span>
----
-
+### Engagement Model
 Our work with Base contains codebase development and technical consultancy. We help refactor the code while suggesting new architecture for new apps or UI/UX advice
 
-We took over the big legacy code and optimize them to ensure product stability. The architecture contains two main parts: <span style='color:green'>End-user App</span> and <span style='color:green'>Admin Tool</span>. 
-<span style='color:green'>**Tech stacks**</span>
+We took over the big legacy code and optimize them to ensure product stability. The architecture contains two main parts: End-user App and Admin Tool. 
 
+**Tech stacks**
 * Backend: Go, Node.js
 * Frontend: React.js, Next.js, Typescript
 * Database: MongoDB, PostgreSQL
 * Infras: GCP, k8s
 * Monitoring: One Relic, Sentry, Fullstory
-<span style='color:green'>**Collaboration**</span>
 
+**Collaboration**
 * Jira: Task management
 * Slack: Team discussion
 * Zoom: Team meeting
 * Git/ Gitflow: Codebase
 * Github Action: CI/CD
 
-### <span style='color:green'>Outcome</span>
----
+### Outcome
 We keep track of the ongoing progress through weekly changelogs.
 Currently, we're in the phase of wrapping Availability Offer - Base's most significant feature to provide users with simplicity in task scheduling. A powerful key feature that combines Calendar Event and poll setup.
 ![[3393da02505c90c30f246cf025e31661_MD5.webp]]

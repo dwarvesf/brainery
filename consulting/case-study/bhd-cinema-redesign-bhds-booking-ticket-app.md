@@ -23,9 +23,7 @@ BHD’s new app covers all the basic needs of movie-goers, in an intuitive and p
 
 ### Goal
 1. Provide users with information on movies, schedules, locations, promotions all in one space.
-
 2. Allow users to book and pay for their tickets online.
-
 3. Convert movie-goers into BHD fanatics. When it comes to movies, BHD comes to mind first.
 
 ## The Challenges

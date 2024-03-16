@@ -12,24 +12,20 @@ hide_frontmatter: false
 
 ![[6be4a77492fe56879670e7842673e411_MD5.webp]]
 
-<span style='color:red'>In brief</span>
-
+## In brief
 * Mudah.my is a Malaysian 12-years-old online marketplace. A product derives from a partnership between Telenor ASA of Norway and 701Search Singapore. 
 * Currently holds 19.8% Internet share, Mudah meets the increase of customers demand, which led to an overload in the current system.
 * We partnered to help migrating the monolithic architecture into microservices - Unlocking a scalable and feature-extendable platform
 * We spent a month working on-site at Malaysia to directly participate in the work and speed up productivity
 
-### <span style='color:red'>Technical Highlight</span>
----
-
+### Technical Highlight
 * Massive migration from monolithic to microservice architecture.
 * Combining Golang and Gin framework to fasten web performance.
 * Next.JS for search-engine index, SEO-friendly and reusable components.
 * Unit test that ensures at least 80% test coverage before deploying to production.
 * Mobile app with MVC architecture for fast debugging and development speed.
 
-### <span style='color:red'>The Context</span>
----
+### The Context
 Mudah.my’s site features various ads categories for different purchase demands. The data from customer and third-parties is massively huge to process.
 
 With 12 years in the market, their system starts to slow down. It affects the data process, and drags down user experience.
@@ -37,40 +33,36 @@ With 12 years in the market, their system starts to slow down. It affects the da
 
 The world develops, Mudah must targets a younger customer segment. The website interface and stagnant system are holding their goal back. 
 
-They decided to go for a <span style='color:red'>massive refactoring in: Infrastructure</span>,<span style='color:red'> Codebase </span>and<span style='color:red'> Application UI</span>.
+They decided to go for a massive refactoring in: Infrastructure, Codebase and Application UI.
 
 📍 "*Refactoring a whole system requires a high effort. There's no place for hiring plans and teammate training. I was in need of a workforces that gets the hang of the job*." 
 
 said Prateek - Mudah's Product Manager
 
-### <span style='color:red'>Engagement Model</span>
----
-
+### Engagement Model
 We took care of migrating the legacy PHP system to microservices in Go. It optimizes page load and tackle scaling problem. We decoupled the services one by one, starting with the Auth module (user's authentication flow). 
 
 The server-side rendering concept with HTML data parsing makes the site indexable by search engine, optimizes SEO and boosts up user experience. 
 
 We worked on shipping new features, refactoring the code and deep link manager in mobile app. MVC architecture ensures an upgrade in development pace, enable us to update and debug easier.
-<span style='color:red'>**Tech stacks**</span>
 
+**Tech stacks**
 * Backend: Golang & Gin framework
 * Frontend: Next.js
 * Server-side rendering
 * Database: PostgreSQL & RESTful API
 * GRPC protocol 
 * Mobile: Swift 4 and MVC
-<span style='color:red'>**Collaboration**</span>
 
+**Collaboration**
 The Dwarves spent a month in Malaysia to directly work with Mudah team. 
 
 It was a great working process and exciting experience. 
 
-<span style='color:red'>**Delivery tooling**</span>
-
+**Delivery tooling**
 Slack chat, Jira card & Gitlab Merge Request for technical discussion. 
 
-### <span style='color:red'>Outcome</span>
----
+### Outcome
 Mudah remains one of our longest, tried-and-true collaborations. We have continuously worked with Mudah on various scopes of work and committed different engagement models. The system was flawlessly migrated, enabled Mudah to access their potential market for both desktop and mobile users.
 
 It was amazing to facilitate their growth and contribute our best practices. The progress still evolves and we’re so excited to see what’s coming next.
