@@ -11,7 +11,7 @@ authors:
 - innno_
 - nikki
 - Tom
-menu: memo
+menu: changelog
 type: newsletter
 hide_frontmatter: false
 hide_title: false
@@ -33,7 +33,7 @@ Expanding the team doesn’t mean we have to disregard our culture. We have laun
 *The Dwarves Collective, using markdown to visualize bonds between members.*
 
 ### The Next Leading Chairs
-Launching 3 offices across the country - Saigon, Danang, and Dalat, more initiatives to distribute our software know-how, and a **46% growth* in team scale calls for a different way to run the business. Shifting from a remote working model to a hybrid working model is a must, but it wasn’t easy. 
+Launching 3 offices across the country - Saigon, Danang, and Dalat, more initiatives to distribute our software know-how, and a **46% growth** in team scale calls for a different way to run the business. Shifting from a remote working model to a hybrid working model is a must, but it wasn’t easy. 
 
 The bigger team and the new model require more hands on deck. Instead of the old-school Board of Directors, we divide our leadership team based on what each member delivers.
 
@@ -81,6 +81,7 @@ Striving to create and go the extra mile for a generation of new tech enthusiast
 On our engineering journey in creating decentralized crypto applications, our partnership with **[Console Labs](https://console.so/)** has paved the way for new undertakings in creating scalable systems.
 
 Along with encompassing know-how on designing system architectures, we’ve also helped with blockchain integrations, smart contract development, NFT launches, and greenfield development on blockchain tools. We're growing further with blockchain technology by investing i **[Chumbi Valley](https://chumbivalley.com/)**, and **[Tatsu](https://tatsu.gg/)** - NFT-based projects.
+
 ![[8e20d43e2280cb6d73b66cb32589d347_MD5.webp]]
 ![[3ffe6be8770c28e27e4cfb57fdc52141_MD5.webp]]
 
@@ -95,6 +96,7 @@ We are putting in place the security measures necessary to protect our clients. 
 
 ### Game Department
 Came after [Summit 2022](/a97f5ddc0611460abc0212b4ba5d10d4), we’ve piloted a few games such as [Hunger Game](https://df-hunger-game.netlify.app/) and [Treasure Hunt ](https://hunt.d.foundation/)apps. Heading toward the engineering-driven vision, we founded a game department to create more engaging activities that offer our engineers and community a thrilling and adventurous gaming experience.
+
 ![[2307207050288356f6f0bdf691a75197_MD5.webp]]
 ![[85890bb5c8f1c3913cd7ab75bf307868_MD5.webp]]
 ![[491ec1fee97cb5ea2f004a8fb7161e0a_MD5.webp]]
@@ -103,7 +105,7 @@ Came after [Summit 2022](/a97f5ddc0611460abc0212b4ba5d10d4), we’ve piloted a f
 ### Online Omni-channels 
 The Dwarves actively take part in developer networks to bring makers and tech enthusiasts together. Below is the list of [social channels](https://index.d.foundation/) that you can access for Dwarves sharing. 
 
-* Social Media: **[LinkedIn](/f5ff4edfd8cf44d2ad7f2781ba717577)****, ****[Facebook](/f5ff4edfd8cf44d2ad7f2781ba717577)**, **[Instagram](/f5ff4edfd8cf44d2ad7f2781ba717577)**, **[Twitter](/f5ff4edfd8cf44d2ad7f2781ba717577)**, **[Memo](/f5ff4edfd8cf44d2ad7f2781ba717577)**
+* Social Media: **[LinkedIn](/f5ff4edfd8cf44d2ad7f2781ba717577)**, **[Facebook](/f5ff4edfd8cf44d2ad7f2781ba717577)**, **[Instagram](/f5ff4edfd8cf44d2ad7f2781ba717577)**, **[Twitter](/f5ff4edfd8cf44d2ad7f2781ba717577)**, **[Memo](/f5ff4edfd8cf44d2ad7f2781ba717577)**
 * Streamline: **[Youtube](https://www.youtube.com/@dwarvesfoundation2350)**, **[Let's Hear IT ](https://spoti.fi/3xi92yY)[Podcast](https://rss.com/podcasts/dwarvestechevent/)**
 
 A variety of things, from lessons learned in a well-written format to Radio Talk live every Monday on Youtube and hanging out with techies at [Dwarves Discord Network](/f5ff4edfd8cf44d2ad7f2781ba717577) where we talk about technology and life as developers can help you stay tuned with us. 
@@ -147,6 +149,7 @@ After 2 years of COVID together, we were able to finally able to organize our co
 Since we’re engineers, we thought it would be fun to create apps and games as a way to bond as a company outside physical activities. It was definitely a challenge to organize the games for everyone, but we certainly had fun doing it.
 
 For the games, we offered a total reward of 150,000,000 VND (~$6,361.32) to our winning teams to help motivate everyone to participate
+
 ![[changelog/assets/90b18b0bb44f42737b5dbcad91a970ab_MD5.png]]
 ![[changelog/assets/976fd6a1b95373654d8a8870692e52d3_MD5.jpg]]
 ![[changelog/assets/1b8011f8f951e36b240fff0df5282543_MD5.png]]
@@ -182,6 +185,7 @@ A quick suggestion on the talent pool:
 - High school peeps
 
 We want to spend the bonus on you rather than the headhunting agency. Once the referral gets successfully converted into a full-time position and deployed to a project, the referrer will receive **2.5%** of the project service fee.
+
 ![[changelog/assets/95d0da92d70d9f9296c5f6272250ad6f_MD5.jpg]]
 ![[changelog/assets/8a7a01a12a0d02bfbc4ea9dc305d68e1_MD5.jpg]]
 
@@ -193,6 +197,7 @@ Our centric world will thrive the Dwarves themselves are focused, trained and em
 - **Mastery:** we head toward craftsmanship, putting responsibility, professionalism, pragmatism and pride back into software development. Thereby contributing further to the quality of the outcome.
 - **Meaning:** the desire to do a software that has meaning and is important. We understand our place in the grand scheme of things, and that scheme has value and purpose, then we perform well.
 - **Autonomous:** provides employees with a sense of collective ownership. We aim to build a flat, transparent organization where everything runs around the mission.
+
 ![[changelog/assets/9b91bb6b399b50ede70b40612fb522cb_MD5.png]]
 
 2022 brought us to a new great height, with Dwarves seeing growth in multiple aspects. This year has been one of the most memorable moments in our history.

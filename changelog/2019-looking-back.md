@@ -7,7 +7,7 @@ date: 2020-01-25
 description: null
 authors: 
 - Han 🐸
-menu: memo
+menu: changelog
 type: null
 hide_frontmatter: false
 ---

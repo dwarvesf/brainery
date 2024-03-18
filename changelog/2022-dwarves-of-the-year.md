@@ -34,7 +34,3 @@ Best parts is a true testament to the power of teamwork. We want nothing more th
 
 A step to move ahead to 2023, we're excited for what the future holds. Take on new challenges and continue to push the boundaries and achieve even greater success.
 
-- Looking back Dwarves Year-End Rewind 2022: [http://bit.ly/3kvBMAQ](http://bit.ly/3kvBMAQ)
-- Join the team to work with awesome people on awesome products: [https://careers.d.foundation/](https://careers.d.foundation/)
-- Join [our Discord](https://discord.gg/dwarvesv) to stay up to date with the coolest things in tech.
-- Keep up-to-date with Dwarves events: [https://event.d.foundation/](https://event.d.foundation/?fbclid=IwAR2ZgE_BrIobze7iD2mWCNTCet4ulavIy3fID2_hf3TVIxdMV1xfMUBHsNo)

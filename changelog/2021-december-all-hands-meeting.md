@@ -6,7 +6,7 @@ title: December All Hands Meeting
 date: 2022-01-06
 description: null
 authors: null
-menu: memo
+menu: changelog
 type: null
 hide_frontmatter: false
 ---

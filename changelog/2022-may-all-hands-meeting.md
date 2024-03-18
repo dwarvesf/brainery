@@ -48,6 +48,7 @@ Feels more like listening? Pay a visit to **[Dwarves Youtube](http://www.youtube
 As in the last update, the office is set for you to visit, but more update is still coming. Rock fences and plants divider are newly added to positioning our space. 
 
 The balcony was also retouched. And hear us out, standing desks will be a thing for this work hub.
+
 ![[946b29130bc76f1374d606747319db5a_MD5.webp]]
 ![[1c48a97cb9d7384b03048e4718d98744_MD5.webp]]
 ![[c8dfb110e429e31cac8a2066dfb56046_MD5.webp]]

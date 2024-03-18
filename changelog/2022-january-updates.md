@@ -36,7 +36,7 @@ The reward mechanism for presenters and knowledge crafters is also back in the g
 ### **Profit-Sharing & 13th Bonus Salary**
 All sent through Viet Nam bank & TWise. It’s a part of our culture and is applied for teammates who have joined us > 24 months. Everyone has input their hard work to keep the team moving forward. Profit-sharing is the act of we reap what we sow. 
 
-To read more on the model and other team benefits, I’ve got you the latest updates of **[Dwarves Handbook/benefit-and-perks](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md#employee-profit-sharing)**** ←**
+To read more on the model and other team benefits, I’ve got you the latest updates of **[Dwarves Handbook/benefit-and-perks](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md#employee-profit-sharing)**.
 
 ### **1-way Flight Ticket Policy**
 Based on the submission result, we’d love to enable this as soon as possible.
@@ -66,5 +66,6 @@ All wrapped and delivered!
 A small gift to thank you for being with us for the past year. May we all enter 2022 with success and prosperity. 
 
 Happy the year of Tiger. Let’s rock 2022 together
+
 ![[bd881f2df5fc45b3831edf17c1ceef53_MD5.webp]]
 

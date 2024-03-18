@@ -7,7 +7,7 @@ date: 2021-07-31
 description: null
 authors: 
 - duy
-menu: memo
+menu: changelog
 type: null
 hide_frontmatter: false
 ---
@@ -37,7 +37,6 @@ Feel free to ask the CEO anything. Workload, feature request, product discuss or
 ![[0b035e736bb615bcdde24b2efa950ec5_MD5.webp]]
 
 ### Moving toward Blockchain industry
----
 We're dipping toes in the Blockchain pool, by partner with Legend of Fantasy War, a new NFT game project. 
 
 Another chance for us to get closer to this arising technology.
@@ -55,10 +54,10 @@ Notion is our new document base. We've migrated our written document into this, 
 * New memo: Company blog
 
 ## What's next in Aug
-### Brain Repo: Embedded & IoT R&D
+**Brain Repo: Embedded & IoT R&D**
 We plan to have a study group for IoT and embedded application. The study group will be led by Trung & Hieu on Discord channel.
 
-### Performance review
+**Performance review**
 Performance review is starting next week. For those who wish to recognize your accomplishment, please prepare a 1 - 2 pages summary to reflect your performance/achievement, following this guide
 
 * [Github](http://github.com/dwarvesf/handbook/blob/master/making-a-career.md#performance-review)
