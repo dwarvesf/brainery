@@ -5,9 +5,12 @@
 [submodule "handbook"]
 	path = handbook
 	url = git@github.com:dwarvesf/handbook.git
+	branch = master
 [submodule "playground"]
 	path = playground
 	url = git@github.com:dwarvesf/brain.git
+	branch = master
 [submodule "careers"]
 	path = careers
 	url = git@github.com:dwarvesf/WeAreHiring.git
+	branch = master
