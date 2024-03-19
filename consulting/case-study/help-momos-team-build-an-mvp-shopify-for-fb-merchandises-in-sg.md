@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
 title: Help Momos Team Build An MVP Shopify For Fb Merchandises In Sg
 date: 2021-07-01
 description: null

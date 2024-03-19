@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
 title: Adopt Blockchain On Netherlands Affiliate Marketing Platform
 date: 2021-06-18
 description: null

@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
 title: Collaboration With Uk Residential Cloud Based Paas
 date: 2021-02-13
 description: null

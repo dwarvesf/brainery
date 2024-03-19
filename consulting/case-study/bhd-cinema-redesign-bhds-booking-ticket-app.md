@@ -1,7 +1,7 @@
 ---
 tags: 
   - design
-  - case study
+  - case-study
 title: Bhd Cinema Redesign Bhds Booking Ticket App
 date: 2019-05-20
 description: null

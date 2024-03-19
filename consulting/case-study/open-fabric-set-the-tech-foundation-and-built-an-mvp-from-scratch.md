@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
 title: Open Fabric Set The Tech Foundation And Built An Mvp From Scratch
 date: 2022-09-28
 description: null

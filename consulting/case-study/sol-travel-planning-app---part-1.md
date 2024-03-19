@@ -1,7 +1,7 @@
 ---
 tags: 
   - design
-  - case study
+  - case-study
 title: Sol Travel Planning App Part 1
 date: 2018-10-10
 description: null

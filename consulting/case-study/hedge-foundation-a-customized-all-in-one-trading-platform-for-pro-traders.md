@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
   - blockchain
   - crypto
 title: Hedge Foundation A Customized All In One Trading Platform For Pro Traders

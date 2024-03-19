@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
   - design
 title: Building Airwatt Apply Aiml For Iot Solutions To Optimize Electricity Usage
 date: 2019-11-15

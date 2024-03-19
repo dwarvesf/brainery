@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
 title: Cimb Dwarves X Netizen Initiating A Digital Wealth Management Experience
 date: 2023-08-16
 description: null

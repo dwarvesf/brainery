@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
 title: From Monolithic To Microservice Sharpen Malaysias Largest Online Marketplace
 date: 2021-03-09
 description: null

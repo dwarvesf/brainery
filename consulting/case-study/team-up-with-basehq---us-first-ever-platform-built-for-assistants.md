@@ -1,6 +1,6 @@
 ---
 tags:
-  - case study
+  - case-study
 title: Team Up With Basehq Us First Ever Platform Built For Assistants
 date: 2021-08-06
 description: 

@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
 title: A Web Based Cloud Tool Developed In Partnership With Google
 date: 2020-10-24
 description: null

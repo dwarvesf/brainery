@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
   - csr
 title: Startupvn
 date: 2021-07-29

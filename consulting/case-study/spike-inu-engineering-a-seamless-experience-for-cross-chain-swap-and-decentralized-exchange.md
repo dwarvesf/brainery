@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
   - blockchain
   - crypto
 title: Spike Inu Engineering A Seamless Experience For Cross Chain Swap And Decentralized Exchange

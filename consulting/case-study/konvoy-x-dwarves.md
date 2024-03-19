@@ -1,6 +1,6 @@
 ---
 tags:
-  - case study
+  - case-study
 title: Konvoy X Dwarves
 date: 2023-09-14
 description: 

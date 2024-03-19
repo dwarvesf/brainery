@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
   - design
 title: Digitalize Dental Marketplace The Singapore Dentistry Operation Process
 date: 2020-09-20

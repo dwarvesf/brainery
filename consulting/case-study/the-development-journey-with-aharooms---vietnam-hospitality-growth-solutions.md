@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
   - design
 title: The Development Journey With Aharooms Vietnam Hospitality Growth Solutions
 date: 2020-12-01

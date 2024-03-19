@@ -3,7 +3,7 @@ tags:
   - web
   - engineering
   - frontend
-  - case study
+  - case-study
 title: A Case Study Interview Into Micro Frontends Building Design System For E Commerce Platform
 date: 2023-04-03
 description: null

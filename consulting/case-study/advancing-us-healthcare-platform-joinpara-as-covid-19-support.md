@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
   - design
 title: Advancing Us Healthcare Platform Joinpara As Covid 19 Support
 date: 2021-04-29
