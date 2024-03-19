@@ -36,9 +36,9 @@ Provides people with convenience in deploying while maintaining an error-prone p
 
 With Voconic, users have as internal working version before releasing the official  version to cloud providers. Another layer for error-detection. 
 
-☁️ *We were looking for a team that we can entrust our new Voconic cloud platform. And we found Dwarves among others which is well known for industry experience in Go development, cloud platform and K8s.*
+☁️ We were looking for a team that we can entrust our new Voconic cloud platform. And we found Dwarves among others which is well known for industry experience in Go development, cloud platform and K8s.
 
--Paul Kossowski, Manager at CJC
+Paul Kossowski, Manager at CJC
 
 ### Engagement Model
 **Team size**

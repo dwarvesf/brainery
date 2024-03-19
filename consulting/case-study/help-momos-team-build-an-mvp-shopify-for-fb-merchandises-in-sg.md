@@ -1,7 +1,7 @@
 ---
 tags: 
   - case study
-title: Help Momos Team Build An Mvp Shopify For Fb Merchandises In Sg
+title: Help Momos Team Build An MVP Shopify For Fb Merchandises In Sg
 date: 2021-07-01
 description: null
 authors: null
@@ -36,7 +36,7 @@ The founders planned to **expand the integration** when they found us through 
 📍 As startups supporters, we understand it's a changing environment. It's our job to know their business and contribute to the tech foundation during the early stages.
 
 ### **Engagement Model**
-Working with startups means everything needs to be fast and ready for the client to ship out. We manage to deploy resources with work ownership, who understand the product and are ready to communicate. 
+Working with startups means everything needs to be fast and ready for the client to ship out. We manage to deploy resources with work ownership, who understand the product and are ready to communicate.
 
 **Tech Stacks**
 * Backend: Node.js
@@ -66,5 +66,4 @@ Of course, the journey doesn't end there. We are still actively contributing to 
 See more at: **[momos.io](https://www.momos.io/)**
 ![[bf1d4c22750395b3792bae00e9c2f441_MD5.webp]]
 ![[da8b1ed04fc1ec815f6667456352c9b8_MD5.webp]]
-
 ![[c252d4367144a36e352020df14f829b7_MD5.webp]]

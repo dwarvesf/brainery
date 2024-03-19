@@ -1,12 +1,8 @@
 ---
 tags:
-  - dwarves
-  - work
   - dropshipping
   - case-study
   - e-commerce
-  - collaboration
-  - user-experience
 title: "Droppii x Dwarves: Transforming E-Commerce with Innovative Dropshipping Solutions"
 date: 2024-01-03
 description: Droppii, in collaboration with Dwarves Foundation, revamps its e-commerce platform, enhancing dropshipping operations with the launch of Droppii for Business v3.0. This strategic partnership focuses on improving user experience and operational efficiency through a new dashboard, CMS, and ERP system. The initiative marks a significant step in Droppii's growth in the competitive e-commerce sector, showcasing the impact of technical and strategic collaboration.
@@ -18,7 +14,6 @@ type: memo
 hide_frontmatter: false
 pinned: 
 hide_title: false
-featured: true
 ---
 
 **Industry**
@@ -58,18 +53,10 @@ This collaboration started with a thorough assessment of **Droppii's** existing 
 
 ## Outcome
 The partnership yielded significant outcomes. The launch of [Droppii for Business v3](https://play.google.com/store/apps/details?id=com.droppii.business&hl=vi&pli=1) was a success with good feedbacks from business users. The enhanced ERP system and improved data management tools provided businesses with greater operational control and insight.
-|     |     |     |
-| --- | --- | --- |
-| ![[droppii-dwarves-case-study-20240103153144822.webp\|200]]| ![[droppii-dwarves-case-study-20240103153210322.webp\|200]] | ![[droppii-dwarves-case-study-20240103153226614.webp\|200]] |
+
 This collaboration not only advanced **Droppii’s** technological front but also solidified their position in the **e-commerce** market. The technical excellence and agile approach of **Dwarves Foundation** played a pivotal role in this transformation, enabling **Droppii** to adapt and thrive in the dynamic **e-commerce** landscape.
 
 ## Impact
 The partnership between **Dwarves Foundation** and **Droppii** demonstrates the impact of technical expertise and strategic collaboration in enhancing a business's online presence. By focusing on frontend excellence and operational efficiency, this alliance not only improved **Droppii’s** operations but also set a foundation for continual growth and innovation.
 
 Dwarves Foundation is a team of design and development experts working closely with clients to craft software, build tech teams, and invest in people who create world's next favorite things.
-
-**Love what we are doing?**
-- Check out our **[products](https://superbits.co/)**
-- Hire us to **[build your software](https://d.foundation/)**
-- Join us, **[we are also hiring](https://github.com/dwarvesf/WeAreHiring)**
-- Visit our **[Discord Learning Site](https://discord.gg/dzNBpNTVEZ)**

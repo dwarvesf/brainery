@@ -24,4 +24,3 @@ With the true intention of community goodwill, we're honored to have joined forc
 🛠 **Technical Highlights:**
 - Notion website & database
 - Form integration & automation
-

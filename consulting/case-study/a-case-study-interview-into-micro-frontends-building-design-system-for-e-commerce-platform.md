@@ -35,6 +35,7 @@ The projects at Swift are split vertically by page and sub-domain. We have at le
 * Ads Management Dashboard
 * Chat
 * Design System
+
 … and so on.
 
 This approach has allowed us to have a more focused development process, which has ultimately led to better results.
@@ -62,15 +63,4 @@ In conclusion, at Swift, we have found that micro-frontend architecture and a sh
 ## Conclusion
 In this case study, we explored how the Micro-Frontend architecture was applied across Swift’s e-commerce platform - how the system looks, and how it makes integrating a new app much more efficient. Vertically splitting the apps by sub-domains is an effective approach to Swift’s use cases - and it looks like they will keep going strong with this.
 
-Alas, Swift is not the only one among our partners that are utilizing a Micro-Frontend architecture, and we are reaching out to others for even more insights. Stay tuned for more!
-
-### Come be with us
-We’d love to have you in our next chapter, by all means.
-* Discover what we do: [dwarves.foundation](http://dwarves.foundation/)
-* Meet our team: [discord.gg/dwarvesv](http://discord.gg/dwarvesv)
-* Join the squad: [careers.d.foundation](http://careers.d.foundation/)
-
-Follow our journey
-* Fanpage: [facebook.com/dwarvesf](http://facebook.com/dwarvesf)
-* LinkedIn: [linkedin.com/company/dwarvesf](http://linkedin.com/company/dwarvesf)
-* Substack: [https://note.d.foundation/](https://note.d.foundation/)
+Alas, Swift is not the only one among our partners that are utilizing a Micro-Frontend architecture, and we are reaching out to others for even more insights.

@@ -62,7 +62,7 @@ Through more than 6 months of working on the remaining features, we got to launc
 JoinPara app is a finetune product ready to demo for various clients, empowering Para to reach more funding opportunities and expand the market.
 🌀 "Dwarves Foundation's communication skills are exceptional as well as their integrity. They stand out with the highest standards of delivery. Dwarves is in a league of their own."
 
-*- CEO, Para*
+CEO, Para
 
 View more at [clutch.co](https://clutch.co/profile/dwarves-foundation#reviews)
 
@@ -70,4 +70,3 @@ By connecting nursing professionals with vacant shifts, Para contributed its eff
 This output enabled Para to reduce development time and tackle pivotal features to scale the business with lessened complexity. They now can drive the focus back to revenue growth & user acquisition.
 ![[7b6bba65009be1f4c48f23d434e7ca4d_MD5.webp]]
 ![[f954361604a9be8bf9b436e57a156d62_MD5.webp]]
-

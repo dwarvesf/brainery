@@ -11,7 +11,6 @@ menu: memo
 type: null
 hide_frontmatter: false
 ---
-
 ![[7a9cdd9e9da725426a2859509b94f1d3_MD5.webp]]
 
 ### In brief
@@ -72,10 +71,3 @@ The feature list is gradually checked up. Hedge Foundation has met all the premi
 ![[a28c16f35596efa1df3a0680b6b1225a_MD5.webp]]
 
 Dwarves Foundation is a team of design and development experts working closely with clients to craft software, build tech teams, and invest in people who create world's next favorite things.
-
-**Love what we are doing?**
-* **[Get to know us](http://d.foundation/)**
-* Check out our **[products](https://superbits.co/)**
-* Hire us to **[build your software](https://d.foundation/)**
-* Join us, **[we are also hiring](https://github.com/dwarvesf/WeAreHiring)**
-* Visit our **[Discord Learning Site](https://discord.gg/dzNBpNTVEZ)**

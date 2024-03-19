@@ -9,7 +9,6 @@ menu: memo
 type: null
 hide_frontmatter: false
 ---
-
 ![[85caa8bdd0121608f33b230e54fe563d_MD5.webp]]
 
 ### In brief
@@ -23,7 +22,7 @@ hide_frontmatter: false
 * Testing: Manual ad-hoc test, then regression test and automation. All managed in Zephyr and Allure report.
 
 ### The Context
-Setel moves toward one goal: **Making refuel experience frictionless, **which** **deep dive in 3 main target customers:
+Setel moves toward one goal: **Making refuel experience frictionless**, which deep dive in 3 main target customers:
 
 * **Motorists**: Setel supports a refueling process on their daily experience. 
 * **Business**: Setel provides them approaches to engage with customers while automating the cash flow.
@@ -45,7 +44,7 @@ Established businesses as Setel have a fixed protocol to work and operate. We ne
 * Tooling: JIRA
 
 **Communication**
-The collaboration happens remotely (*obvs*). Tools are our best friends. 
+The collaboration happens remotely (*obvs*). Tools are our best friends.
 
 Daily communication happens in Slack, while we pick Jira for sprint tracking and Confluence for technical analysis and written-form materials.
 
@@ -53,4 +52,3 @@ Daily communication happens in Slack, while we pick Jira for sprint tracking and
 Through months of partnership, we're glad to ship out **The Food Bank Programme**: A community-support initiative by Petronas Station Business Partners and the communities to provide essential items at selected Petronas stations nationwide. 
 
 ![[ac414946573baa1c8baa276992a535d4_MD5.webp]]
-

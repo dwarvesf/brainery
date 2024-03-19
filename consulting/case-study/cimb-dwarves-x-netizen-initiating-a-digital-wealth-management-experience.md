@@ -55,27 +55,21 @@ The project's tech stack included MySQL, JAVA Spring Boot, and Angular, with the
 
 ### **Communication / Engagement Model**
 Navigating a project with multiple stakeholders demands meticulous coordination and transparency. To ensure seamless interaction and productivity throughout the project's duration, we adopted a tailored communication model:
-1. **Rapid Recruitment through Talent Pool: **Have been building tech communities since 2020, we were about to quickly recruit and onboard developers suited for the job, ensuring a head start without any undue delays.
-2. **Three-Party Partner Engagement: **This project involved the collaboration of Dwarves, Netizen, and CIMB. Recognizing the intricacies of such a setup:
-3. **Alignment Meetings: **Regular tri-party sync-ups were organized to establish common project goals, clarify responsibilities, and address potential bottlenecks.
-4. **Roles and Responsibilities: **Clear documentation and delegation ensured that each party was aware of their roles, reducing overlaps and ensuring efficient task execution.
-5. **Rapid Communication with Development Team: ** Direct communication line was established with the development team for maintaining agility in development and timely delivery.
-6. **Weekly Changelog: **A weekly changelog providing all parties with a snapshot of our progress was maintained. It covered updates on newly rolled-out features, bug fixes, and modifications made during that period, fostering transparency and facilitating real-time feedback.
+1. **Rapid Recruitment through Talent Pool:** Have been building tech communities since 2020, we were about to quickly recruit and onboard developers suited for the job, ensuring a head start without any undue delays.
+2. **Three-Party Partner Engagement:** This project involved the collaboration of Dwarves, Netizen, and CIMB. Recognizing the intricacies of such a setup:
+3. **Alignment Meetings:** Regular tri-party sync-ups were organized to establish common project goals, clarify responsibilities, and address potential bottlenecks.
+4. **Roles and Responsibilities:** Clear documentation and delegation ensured that each party was aware of their roles, reducing overlaps and ensuring efficient task execution.
+5. **Rapid Communication with Development Team:** Direct communication line was established with the development team for maintaining agility in development and timely delivery.
+6. **Weekly Changelog:** A weekly changelog providing all parties with a snapshot of our progress was maintained. It covered updates on newly rolled-out features, bug fixes, and modifications made during that period, fostering transparency and facilitating real-time feedback.
 
 ### **Outcome**
 The collaboration between CIMB Malaysia, Dwarves Foundation, and Netizen resulted in substantial benefits, reshaping both the customer-facing platform and the internal architecture of CIMB's systems:
-* **Enhanced User Experience: **A more intuitive interface increased user engagement and trust in the platform.
-* **Extended User Reach: **The accessible platform design broadened CIMB's demographic appeal, accommodating both younger and older users.
-* **Setting Market Standards: **CIMB's modernized platform positioned them as trailblazers in the Malaysian banking sector, prompting competitors to reevaluate their digital offerings.
-* **Operational Efficiency: **Backend upgrades reduced manual processes, increased transaction accuracy, and overall improved the bank's operational agility.
-* **Architecture Revamp: **From a technical perspective, the transition to a dynamic API gateway and seamless integration with legacy systems provided a more scalable, robust, and flexible backend. This change not only enhanced performance but also future-proofed CIMB's systems against rapid tech advancements.
+* **Enhanced User Experience:** A more intuitive interface increased user engagement and trust in the platform.
+* **Extended User Reach:** The accessible platform design broadened CIMB's demographic appeal, accommodating both younger and older users.
+* **Setting Market Standards:** CIMB's modernized platform positioned them as trailblazers in the Malaysian banking sector, prompting competitors to reevaluate their digital offerings.
+* **Operational Efficiency:** Backend upgrades reduced manual processes, increased transaction accuracy, and overall improved the bank's operational agility.
+* **Architecture Revamp:** From a technical perspective, the transition to a dynamic API gateway and seamless integration with legacy systems provided a more scalable, robust, and flexible backend. This change not only enhanced performance but also future-proofed CIMB's systems against rapid tech advancements.
 
 **Conclusion**
 CIMB's digital transformation, backed by architectural advancements, sets a benchmark for excellence, ensuring enhanced customer satisfaction and operational agility for the bank's future endeavors.
 Dwarves Foundation is a team of design and development experts working closely with clients to craft software, build tech teams, and invest in people who create world's next favorite things.
-
-**Love what we are doing?**
-* Check out our **[products](https://superbits.co/)**
-* Hire us to **[build your software](https://d.foundation/)**
-* Join us, **[we are also hiring](https://github.com/dwarvesf/WeAreHiring)**
-* Visit our **[Discord Learning Site](https://discord.gg/dzNBpNTVEZ)**

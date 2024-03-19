@@ -1,7 +1,6 @@
 ---
 tags:
-  - case
-  - study
+  - case study
 title: Development Journey With Searchio Australia Ai Power Search Solutions
 date: 2021-08-10
 description: 

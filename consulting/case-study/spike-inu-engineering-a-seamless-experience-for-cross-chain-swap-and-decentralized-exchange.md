@@ -11,12 +11,11 @@ menu: memo
 type: null
 hide_frontmatter: false
 ---
-
 ### In brief
 * When blockchain becomes the new tech blockbuster, worldwide blockchain networks such as Ethereum, Polygon, Avalanche, Fantom, or Binance Smart Chance started to develop their own tokens. They all possess the same vision: Empower crypto users to transfer their assets in multiple chains hassle-free and effective.
-* The core engine of those products is building a secured bridging solution between chains, enabling tokens to move back and forth, and transferring tokens on the same network. That forms the first concept of **[Spike Inu](https://spikeinu.io/)**** and ****[iCrosschain](https://icrosschain.io/)****, the Swap platform.**
-* In mid-2022, we successfully built iCross-chain Swap that shortened cross-chain transaction times by up to 15 seconds. This is the first time that cross-chain transaction time has been shortened to seconds.** **
-* It’s a system that requires a safe consensus mechanism between validated nodes in bridges. With that being said, we’re able to create a mechanism that leverages the ability of the decentralized platform’s liquidity
+* The core engine of those products is building a secured bridging solution between chains, enabling tokens to move back and forth, and transferring tokens on the same network. That forms the first concept of **[Spike Inu](https://spikeinu.io/)** and **[iCrosschain](https://icrosschain.io/)**, **the Swap platform**.
+* In mid-2022, we successfully built iCross-chain Swap that shortened cross-chain transaction times by up to 15 seconds. This is the first time that cross-chain transaction time has been shortened to seconds.
+* It’s a system that requires a safe consensus mechanism between validated nodes in bridges. With that being said, we’re able to create a mechanism that leverages the ability of the decentralized platform’s liquidity.
 
 ![[d62f913d7d2981f4fe1322f4dfb4076f_MD5.webp]]
 
@@ -64,4 +63,3 @@ A few things we proud to deliver so far:
 Icrosschain has successfully developed the bridging solution for 8 chains: Ethereum, Binance Smart Chain, Polygon, Fantom, Avalanche, Arbitrum, Heco chain and Okex chain. Solana is currently on our WIP item list.
 ![[4f51b06b1496a711c0abdc8f1cb543ed_MD5.webp]]
 ![[d3137b95072f99fd861b885ca7a5ccbf_MD5.webp]]
-
