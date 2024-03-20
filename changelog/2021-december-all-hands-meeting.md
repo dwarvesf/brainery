@@ -1,7 +1,8 @@
 ---
 tags: 
-  - dwarves
-  - team
+  - updates
+  - newsletter
+  - blockchain
 title: December All Hands Meeting
 date: 2022-01-06
 description: null
@@ -27,6 +28,7 @@ We were able to drop the long-term projects that no longer match our business di
 A special congrats to Cuong Mai, Tom & Ngoc Mai for passing the probation and becoming the Dwarves for real. Last month brought us Phat Ha, who’s currently in charge of Nghe Nhan Trading. The Dwarves are growing, by all means. 
 
 ![[e3077e1e538246f43986740a60bbe2a8_MD5.webp]]
+
 The Dwarves have shown their on-growing ability to deliver more credible outputs within each project and were significantly endorsed by the clients. 
 
 We got Momos, Relay, BeaverBitcoin & Tokenomy as examples.
@@ -51,5 +53,6 @@ We’ve received much input to help improve the team. All of those ideas have be
 and Dwarves, don’t forget to drop your info at [Team Address](https://docs.google.com/spreadsheets/d/1HqwdcSUMXapy8XcQP5xwEuj4yMe75p0FcSmdsF334Hk/edit#gid=1805371046) - I’ll have these small gifts delivered to you real soon.
 
 Here’s to rock 2022!
+
 ![[ff19993744fb6047810b5411ce69b707_MD5.webp]]
 ![[assets/december-all-hands-meeting/fd61221cb31785842fecd3ff2339aab6_MD5.webp]]

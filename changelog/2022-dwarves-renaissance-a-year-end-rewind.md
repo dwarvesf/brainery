@@ -6,7 +6,7 @@ tags:
   - updates
 title: 2022 Dwarves Renaissance A Year End Rewind
 date: 2023-01-19
-description: 
+description: Successfully went through 2022, a year that we might say -  a new record: team reached highest growth record, kickstarted community engagement, home, compliance training & individual development are speeding up, and a whole new place to call Dwarves.
 authors: 
 - innno_
 - nikki
@@ -53,8 +53,7 @@ Feature Flags tackled a concern spanning across our DevOps, Management, and Engi
 ![[807095e97b173fac69c60aeffb7536ec_MD5.webp]]
 
 ### Learning As The North-star Metric
-[[changelog/assets/c0e7603e2f53bf302f58fa12bb036d27_MD5.mov|Open: Brainery Graph 1.mov]]
-![[changelog/assets/c0e7603e2f53bf302f58fa12bb036d27_MD5.mov]]
+[Brainery graph](<assets/2022-dwarves-renaissance-a-year-end-rewind/Brainery Graph 1.mov>)
 
 *A 2022 look back on our Brainery timeline, with a total of 128 notes contributed.*
 
@@ -111,9 +110,7 @@ The Dwarves actively take part in developer networks to bring makers and tech en
 A variety of things, from lessons learned in a well-written format to Radio Talk live every Monday on Youtube and hanging out with techies at [Dwarves Discord Network](/f5ff4edfd8cf44d2ad7f2781ba717577) where we talk about technology and life as developers can help you stay tuned with us. 
 
 ![[2efc2bdd5fc9eaa0c2e3cedd125136af_MD5.webp]]
-
 ![[0b08b0849c1f71ecd736377f09caa3d8_MD5.webp]]
-
 ![[7eb2878df66bc8e99728e180f5da4eb6_MD5.webp]]
 
 ### Offline Contests

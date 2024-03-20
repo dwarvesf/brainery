@@ -51,6 +51,7 @@ and got them on team Discord
 The day to day work won't get us as far as we could. Finding the new and step out of the safe zone is a great resolution to move with the industry.
 
 We input the discoveries and assessment of the latest tech trends on  [Radar Ring](https://dwarves.foundation/radar/). We define them in Rings & Quadrants. Every two months, we gather the team's research output and conduct webinars on sharing, guidelines & lesson-learned. The knowledge recap is stored as RFC on [Github](https://github.com/dwarvesf/radar)</ and team [Memo](https://dwarves.foundation/memo/) for later reference.
+
 ![[changelog/assets/897cee98638b129f3afb4a53c7de23c1_MD5.webp]]
 
 ### Bootstrap Startup Idea, Conveniently
@@ -69,6 +70,7 @@ New researches must be put into practice; otherwise, it's a waste of time. From 
 
 ### State of the Art
 Everything we do results in this internal tech-index. A hub of continuous evolving expertise.
+
 ![[changelog/assets/d713f1fe35c7e9e35112315edc5574c5_MD5.webp]]
 
 ### The Internal
@@ -94,6 +96,7 @@ Everything revolves around data. Taking data as the core allows us to set realis
 
 **Workflow update - Data first**
 With the concept that Program = Data + Algorithm, we weave the data culture in every workpiece. Things start with data format at first; the rest will come later.
+
 ![[changelog/assets/ca031915c44e21e677d99389019d16aa_MD5.webp]]
 
 **How we gather data**
@@ -112,6 +115,7 @@ Running a company doesn't just about process and policy. It's more on minimizing
 
 **Going Automation**
 On the way to run the team effortlessly, we figure not everything requires human's involvement. Fortress - our internal operation system, remove the redundancies by **automating the operation work**, from accounting to newbies onboarding.
+
 ![[changelog/assets/52d81a3aa81e12a8a931fbee1e8350d8_MD5.webp]]
 
 **Transparency in Information**
@@ -121,6 +125,7 @@ We keep the [communication](https://github.com/dwarvesf/handbook/blob/master/ho
 
 **Dashboard & Valuation KPI**
 Company valuation always a subtle issue to mention. Not many companies onboard with this. But we do.
+
 ![[changelog/assets/5c4fb47066f19a5d8cc7c6b9f6422ecd_MD5.webp]]
 
 Bringing the number to the public gives us the privilege to stay proud of what we've accomplished. We issue ESOP every year, and visualizing how our business strategy was turned into profit allows stakeholders to keep track of its potential growth. Dashboard valuation also reflects our predicted strategy's accuracy, emphasizes the key goal, and portrays our ability to develop.
@@ -194,7 +199,7 @@ Though the affection of Covid limits us from conducting offline meetups, we stil
 **techie.story**
 Having more time inside makes us realize more corners in this industry should be shined a light on. We founded [**techie.story**](http://techiestory.co/), where we get them to listen to the untold story of techies from this industry, about the hidden aspects of day-to-day work.
 
-![techie](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Qd5O2IjrtwS2KucXNYBjSg.png)
+![techiestory](assets/1_Qd5O2IjrtwS2KucXNYBjSg.webp)
 
 **We do Open-Source Software**
 Going OSS means working with multiple companies on an idea or a problem, which eventually gets us to the solution more quickly with more creativity. By sharing the foundation concept and codebase, OSS enables us to trigger innovative ideas, provide and receive insights from different people in the industry. That allows the development phase to happen smoothly, encourages the spirit of building, expanding, and evolving.
@@ -240,5 +245,3 @@ The successful work with Salt Cancer Initiative kicked off our willingness to co
 We continue to build Dwarves Foundation the same way we do software. It works and gets bugged along the way, but the new version gets released continuously.
 
 The door of 2021 is opening with many questions. Seeking the answers and enjoy coding along the way sounds like a good plan.
-
-Build and grow with the same DNA

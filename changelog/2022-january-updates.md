@@ -3,7 +3,7 @@ tags:
   - newsletter
   - updates
   - blockchain
-title: January Updates
+title: January 2022 Updates
 date: 2022-01-28
 description: null
 authors: 
@@ -23,22 +23,22 @@ We get to deploy a full team for this project, consist of 6 people, with Khai Le
 
 In general, we’re getting multiple upselling requests which means we need more people to join our team. Team, dig through your network and refer to us for some handsome bonus! Positions we’re hiring can be found **[HERE](http://careers.d.foundation/)**.
 
-### **Performance Review**
+### Performance Review
 The team has received all of the self-review notes. Due to the volume of our teammates, 1-1 meetings for some of you will soon be scheduled after Lunar New Year. 
 
 The final result will be announced before March. Hope to see the good updates by then - if you know what I mean 😏
 
-### **Study Groups/ Brainery Clean-up**
+### Study Groups/ Brainery Clean-up
 We’re resuming Brainery Repo in 2022. Currently, the repo is getting formatted and cleaned up. We also develop writing guidelines to quickly pick up with the on-goings.
 
 The reward mechanism for presenters and knowledge crafters is also back in the game. Ops Team has begun to recollect all the notes to ensure no effort is left behind.
 
-### **Profit-Sharing & 13th Bonus Salary**
+### Profit-Sharing & 13th Bonus Salary
 All sent through Viet Nam bank & TWise. It’s a part of our culture and is applied for teammates who have joined us > 24 months. Everyone has input their hard work to keep the team moving forward. Profit-sharing is the act of we reap what we sow. 
 
 To read more on the model and other team benefits, I’ve got you the latest updates of **[Dwarves Handbook/benefit-and-perks](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md#employee-profit-sharing)**.
 
-### **1-way Flight Ticket Policy**
+### 1-way Flight Ticket Policy
 Based on the submission result, we’d love to enable this as soon as possible.
 
 Guys, let us introduce the latest DF Policy: **Flight Ticket Package**
@@ -65,7 +65,6 @@ Since we have peeps in HCMC, Hanoi, Danang, we can't all meet at the same place.
 All wrapped and delivered!
 A small gift to thank you for being with us for the past year. May we all enter 2022 with success and prosperity. 
 
-Happy the year of Tiger. Let’s rock 2022 together
+Happy the year of Tiger. Let’s rock 2022 together!
 
 ![[bd881f2df5fc45b3831edf17c1ceef53_MD5.webp]]
-

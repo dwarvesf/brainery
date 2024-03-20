@@ -5,7 +5,8 @@ tags:
   - updates
 title: Dwarves Summit 2022 Engineering A Good Time
 date: 2023-01-09
-description: null
+description: Having a blast company trip after 2 years of COVID, it didn’t happen in a common way.
+We planned our trip differently than others and designed apps for everyone to play as a way to bond as company outside physical activities.
 authors: 
 - nikki
 - tom
@@ -38,12 +39,10 @@ Although it’s short of our 2022 goal of 2x the team, we’re very proud noneth
 
 While the ratio of ~0.07% is astounding, it speaks standards and quality. We are selective with who joins the team. Anyone who joins us, it’s a given they are pro at their jobs, they also need to love the culture we are working hard to protect and build up.
 
-
 ## Partner & Business Growth
 We never pay a single cent to run ads, and rarely ever participate in pitching for new projects. Clients come to us through their networks and connections. Someone works with us, happy about our services, they refer us when someone else has a need.
 
 In 2022, we grew to 6 partners who are willing to refer our services. These partners brought in 5 new projects, at a referral rate of 5-12% over the generated revenue.
-
 
 ## Community Growth
 We’ve been active in a few communities, such as the Golang community, Webuild, Techie stories, Startup.vn.
@@ -65,7 +64,6 @@ We’ve seen various tech-focused channels and events for the community,  as wel
 * **#campfire:** off-topics connect with our friends, alumni, and like-minded people.
 * **#minigame**: our Thursday minigame and happy hour for the Dwarves and communities. We work and have fun.
 
-
 ## Company Trip Summit 2022
 Since we’re engineers, we know it would be more fun to create apps and games as a way to bond as a company outside physical activities. It was definitely a challenge to organize the games for everyone, but we certainly had a blast.
 
@@ -84,7 +82,7 @@ Whoever answers the most questions, wins the hunt.
 ### Road to Olymwibu
 A 4-team game where teams choose multiple choice questions to answer across a range of topics to acquire points. Teams are also able to attack, steal, and double-down on points.
 
-Teams who answer incorrectly would have to drink 🍺.🍺..
+Teams who answer incorrectly would have to drink. 🍺🍺
 
 Whichever team has the most points wins the round.
 
@@ -108,20 +106,18 @@ The encrypted message and key given to the teams at the start of the game:
 ```yaml
 		encryptedMessage: 52 1B 53 3E 49 26 47 15 2B
 		key: goggins
-		```
+```
 The expected output after decrypting the message in ASCII:
 
 ```yaml
 		message: 5t4Y H4rD
-		```
-
+```
 
 We took the opportunity to just drink and have fun, as well as help teams earn a bit for their efforts. We’ve also certainly enjoyed our stay in Phu Quoc as well. Our team had fun swimming near the coast, enjoying food, riding rides at the water park, and everything to explore at Phu Quoc.
 
 ![[memo/assets/dwarves-summit-2022-engineering-a-good-time/3b0c68bef924599e58947f20cdf3a765_MD5.webp]]
 
 ## Look forward to Dwarves Summit 2023
-
 We’re really happy on how Summit 2022 turned out. We’ve had quite a lot of fun together as a team, and we are really excited about next year.
 
 Likewise, we’ve learned a lot during the trip and have taken a few steps ahead in planning for our next trip.
