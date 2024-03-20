@@ -14,9 +14,9 @@ hide_frontmatter: false
 
 We're closing July with some notable highlights. Let's go through them ✌️
 
-🚨 *Note: Covid situation is getting worse. Stay safe. 🦠
+🚨 Note: Covid situation is getting worse. Stay safe. 🦠
 
-*The pandemic is going stronger than ever. There has been over 100k internal cases over the country til now. Take good care of you and your beloved ones. We hope everyone can stay safe.
+The pandemic is going stronger than ever. There has been over 100k internal cases over the country til now. Take good care of you and your beloved ones. We hope everyone can stay safe.
 
 ### Finish the shipment for our WFH station
 We've finished the shipment for all the WFH gears. Since the annual company trip can't be done this year, we hope it could help the working vibe more enjoyable. It's great to know you're all happy with the new setup.

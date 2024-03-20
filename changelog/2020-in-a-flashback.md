@@ -194,7 +194,7 @@ Though the affection of Covid limits us from conducting offline meetups, we stil
 **techie.story**
 Having more time inside makes us realize more corners in this industry should be shined a light on. We founded [**techie.story**](http://techiestory.co/), where we get them to listen to the untold story of techies from this industry, about the hidden aspects of day-to-day work.
 
-![techie](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Qd5O2IjrtwS2KucXNYBjSg.png)
+![techiestory](assets/1_Qd5O2IjrtwS2KucXNYBjSg.webp)
 
 **We do Open-Source Software**
 Going OSS means working with multiple companies on an idea or a problem, which eventually gets us to the solution more quickly with more creativity. By sharing the foundation concept and codebase, OSS enables us to trigger innovative ideas, provide and receive insights from different people in the industry. That allows the development phase to happen smoothly, encourages the spirit of building, expanding, and evolving.
@@ -240,5 +240,3 @@ The successful work with Salt Cancer Initiative kicked off our willingness to co
 We continue to build Dwarves Foundation the same way we do software. It works and gets bugged along the way, but the new version gets released continuously.
 
 The door of 2021 is opening with many questions. Seeking the answers and enjoy coding along the way sounds like a good plan.
-
-Build and grow with the same DNA
