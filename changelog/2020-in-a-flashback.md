@@ -5,7 +5,7 @@ tags:
   - newsletter
 title: 2020 In A Flashback
 date: 2021-02-05
-description: null
+description: 2020 notable highlights and achievements 
 authors: 
 - Han 🐸
 - nikki 
@@ -45,6 +45,7 @@ Starting from a team of two, our QC Team has now reached the number of five, whi
 This adoption enables us to constantly receiving the latest updates on project and website status. Other than tracking them directly on [stt.daf.ug](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*epYF6iiq6IvM4x70hcd3ZA.png), we get to log them on the currently running projects and ensure the deliverable's quality.
 
 and got them on team Discord
+
 ![[changelog/assets/e310751d76ab92238b6dacd71ecd4277_MD5.webp]]
 
 ### A Radar Ring for Tech Adoption
@@ -100,6 +101,7 @@ With the concept that Program = Data + Algorithm, we weave the data culture in e
 ![[changelog/assets/ca031915c44e21e677d99389019d16aa_MD5.webp]]
 
 **How we gather data**
+
 ![[changelog/assets/cbb1aa0a50be64a8455ee9e20e198dd7_MD5.webp]]
 
 **How that helps us on making decision**
@@ -159,9 +161,11 @@ Next, the **[Memo](https://dwarves.foundation/memo/)**. Our crafting space for l
 Applying the top-selected technologies, we end up expanding the business. With more than 10 new deals with technical service development and venture projects, we could step up the game and set our foot into different industries.
 
 **The year in Industries**
+
 ![[changelog/assets/a7c681fd646975683b1c87b09d70cead_MD5.webp]]
 
 **Going Details**
+
 ![[changelog/assets/a2aee1a0e0424c6344ae0bd4cb2841dd_MD5.webp]]
 
 **Stretch the Venture Arms**
@@ -232,7 +236,7 @@ We are doing things right, which reflects through the financial status and the p
 
 We’ve been conducting Dwarves Radio Talk, a weekly talkshow where we pitch in our favorite topics on engineering, product design, startup and skills management. Knowledge sharing should really be a thing to encourage. It’s the best practices we sort out after a long time working in this field, and we can’t help but bringing them outside.
 
-Anyone with the same interest, or curiosity, is welcome to join us at Discord
+Anyone with the same interest, or curiosity, is welcome to join us at Discord.
 
 ![[changelog/assets/8f42ebd6dd1501246748c512e445f960_MD5.webp]]
 

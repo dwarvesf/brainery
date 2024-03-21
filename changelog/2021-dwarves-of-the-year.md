@@ -3,7 +3,7 @@ tags:
   - newsletter
   - wrap-up
   - updates
-title: Dwarves Of 2021
+title: Dwarves Of The Year 2021
 date: 2022-01-05
 description: null
 authors: 
