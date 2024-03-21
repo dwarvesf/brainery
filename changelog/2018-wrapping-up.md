@@ -4,7 +4,7 @@ tags:
   - newsletter
 title: 2018 Wrapping Up
 date: 2018-12-31
-description: null
+description: 2018 notable hightlights and achievements
 authors: 
   - Han 🐸
   - duy

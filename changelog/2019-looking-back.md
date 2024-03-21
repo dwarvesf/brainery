@@ -4,7 +4,7 @@ tags:
   - newsletter
 title: Looking Back 2019
 date: 2020-01-25
-description: null
+description: 2019 notable highlights and achievements
 authors: 
   - Han 🐸
 menu: changelog

@@ -4,7 +4,7 @@ tags:
   - performance-review
   - doty
   - updates
-title: What's new in December 
+title: What's New in December 2023
 date: 2024-01-03
 description: In December, we launched our Consulting Team, released our finding on tech trends, and last but not least, got everyone ready to wrap up 2023.
 authors:

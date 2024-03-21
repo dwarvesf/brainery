@@ -5,7 +5,7 @@ tags:
   - newsletter
 title: 2020 In A Flashback
 date: 2021-02-05
-description: null
+description: 2020 notable highlights and achievements 
 authors: 
   - Han 🐸
   - nikki 
@@ -227,7 +227,7 @@ We are doing things right, which reflects through the financial status and the p
 
 We’ve been conducting Dwarves Radio Talk, a weekly talkshow where we pitch in our favorite topics on engineering, product design, startup and skills management. Knowledge sharing should really be a thing to encourage. It’s the best practices we sort out after a long time working in this field, and we can’t help but bringing them outside.
 
-Anyone with the same interest, or curiosity, is welcome to join us at Discord
+Anyone with the same interest, or curiosity, is welcome to join us at Discord.
 
 ![](assets/2020-in-a-flashback_8f42ebd6dd1501246748c512e445f960_md5.webp)
 

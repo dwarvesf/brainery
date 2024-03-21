@@ -5,8 +5,7 @@ tags:
   - updates
 title: Dwarves Summit 2022 Engineering A Good Time
 date: 2023-01-09
-description: Having a blast company trip after 2 years of COVID, it didn’t happen in a common way.
-We planned our trip differently than others and designed apps for everyone to play as a way to bond as company outside physical activities.
+description: Having a blast company trip after 2 years of COVID, it didn’t happen in a common way. We planned our trip differently than others and designed apps for everyone to play as a way to bond as company outside physical activities.
 authors: 
   - nikki
   - tom
@@ -48,10 +47,10 @@ In 2022, we grew to 6 partners who are willing to refer our services. These part
 We’ve been active in a few communities, such as the Golang community, Webuild, Techie stories, Startup.vn.
 
 **Dwarves Network**
-**[Techie Story](http://techiestory.net/)**
-**[WeBuild](http://webuild.community/)**
-**[Startup.vn](https://startup.vn/)**
-**[Golang Vietnam](http://golang.org.vn/)**
+[Techie Story](http://techiestory.net/)
+[WeBuild](http://webuild.community/)
+[Startup.vn](https://startup.vn/)
+[Golang Vietnam](http://golang.org.vn/)
 
 ![](assets/2022-dwarves-summit-engineering-a-good-time_ab82e6f138a7241ca9a6c1de222d1e46_md5.webp)
 Most especially, Dwarves Discord Network where every techie can join to hang out and learn has grown to 600+ members.
@@ -112,7 +111,10 @@ The expected output after decrypting the message in ASCII:
 ```yaml
 		message: 5t4Y H4rD
 ```
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 We took the opportunity to just drink and have fun, as well as help teams earn a bit for their efforts. We’ve also certainly enjoyed our stay in Phu Quoc as well. Our team had fun swimming near the coast, enjoying food, riding rides at the water park, and everything to explore at Phu Quoc.
 
 ![](assets/2022-dwarves-summit-engineering-a-good-time_3b0c68bef924599e58947f20cdf3a765_md5.webp)
