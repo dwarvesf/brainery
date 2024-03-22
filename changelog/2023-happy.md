@@ -1,6 +1,6 @@
 ---
 tags: 
-  - team
+  - newsletter
   - software engineer
   - updates
 title: Happy 2023
