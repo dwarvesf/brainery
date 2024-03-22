@@ -27,7 +27,7 @@ It’s a promise of bigger clients & better team deployment.
 
 We were able to drop the long-term projects that no longer match our business direction; successfully committed to **deploying a minimum of 3 Dwarves** for almost all remaining projects. With this change, we also **increased the headcount rate** as we believe it should grow alongside our ability to deliver.
 
-### Growing the Team
+### Growing The Team
 A special congrats to Cuong Mai, Tom, & Ngoc Mai for passing the probation and becoming true Dwarves. Last month brought us Phat Ha, who’s currently in charge of Nghe Nhan Trading. The Dwarves are growing, by all means. 
 
 ![[e3077e1e538246f43986740a60bbe2a8_MD5.webp]]
@@ -41,7 +41,7 @@ We got Momos, Relay, BeaverBitcoin & Tokenomy as examples. Some Dwarves joined u
 * Tom - LFW BE lead & study group lead
 * Hoang Nguyen - SP Digital
 
-### and the Attached Benefits
+### And The Attached Benefits
 That growth explains our **upgrade in the benefits package**. We did a full upgrade on the team, from base salary to WFH station upgrade. You guys really earned this. 
 
 ### Office Status

@@ -4,7 +4,7 @@ tags:
   - tech radar
   - newsletter
   - wrap-up
-title: 2020 Year In Review
+title: 2020 In Review
 date: 2021-02-05
 description: 2020 notable highlights and achievements 
 authors: 
