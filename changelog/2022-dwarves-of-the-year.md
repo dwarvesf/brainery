@@ -22,15 +22,17 @@ It's been a long journey, but we've finally made it to 2022 and what a year it's
 
 A total of **~$18,000 awarded and rewarded by** [$ICY - Dwarves official token](https://www.facebook.com/photo.php?fbid=860144451875324&set=pb.100036393316096.-2207520000.&type=3), with a few names appearing several times. We congratulate the Dwarves who went above and beyond to make 2022 an unforgettable year for everyone.
 
-![[f133d96b54c29c89c7540afefc02d1fd_MD5.webp]]
+![doty1](assets/dwarves-of-the-year-2022/32.png)
 
-![[978c0887fb897fa0b19aa242574fa696_MD5.webp]]
+![doty2](assets/dwarves-of-the-year-2022/33.png)
 
-![[05bc5b71fadb7dab867513f1b90afca5_MD5.webp]]
+![doty3](assets/dwarves-of-the-year-2022/34.png)
 
-![[a22db2100ab5212b6915104c338a38c3_MD5.webp]]
+![doty4](assets/dwarves-of-the-year-2022/35.png)
 
-![[80b88b130a9f3616cf530d6c5219afbf_MD5.webp]]
+![doty5](assets/dwarves-of-the-year-2022/36.png)
+
+![doty6](assets/dwarves-of-the-year-2022/37.png)
 
 The best part is a true testament to the power of teamwork. We want nothing more than to ship products we're proud of and to become a company that offers its employees  [a great life](/e81775f35519409c8f274107b7ac8f9b).
 
