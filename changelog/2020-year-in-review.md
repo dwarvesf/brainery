@@ -84,7 +84,7 @@ The urge to grow lies within us. Outside of work, we encourage the Dwarves to im
 Dwarves Foundation is where we value even the tiniest contribution, by all means. It’s not all about making the client happy; it’s about feeling proud of what we produce. We launch [Dwarves of The Year](https://dwarves.careers/life/activities/#dwarves-of-the-year) as a highlight to select the outstanding Dwarves. By letting people taking votes on four criteria: Influencing, Hardworking, Impactful, and Self-Development.
 
 **Where the team structure gets flattened**
-Wearing many hats used to be our option. We do have roles, but we haven’t sat down and put them in place until earlier this year. The latest team structure lies at [https://bit.ly/df-org-chart](https://bit.ly/df-org-chart. But unlike others, we want to keep things public as much as we could. We do our best to make sure they get access to every piece of information, and despite the titles, [everyone is welcomed to raise a question.](https://dwarves.foundation/memo/asking-as-a-junior-pmvf365mpk)
+Wearing many hats used to be our option. We do have roles, but we haven’t sat down and put them in place until earlier this year. The latest team structure lies at [https://bit.ly/df-org-chart](https://bit.ly/df-org-chart). But unlike others, we want to keep things public as much as we could. We do our best to make sure they get access to every piece of information, and despite the titles, [everyone is welcomed to raise a question.](https://dwarves.foundation/memo/asking-as-a-junior-pmvf365mpk)
 
 **Where the engagement ain't just around the work**
 Every member should feel like a part of the team. We issued [Employee Stock Option Plan](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md#employee-stock-option-plan) as a aprt of our benefit package, where members can be the significant contributors instead of tenured employees. This gives them the right to buy a certain amount of company shares at a predetermined price.
@@ -141,7 +141,7 @@ We started first with the Website upgrade. We fill up the blank with Case Studie
 
 ![](assets/2020-in-a-flashback_8dc9f8dc969d793887c21e026eeec3d2_md5.webp)
 
-Next, the **[Memo](https://dwarves.foundation/memo/)**.. Our crafting space for lessons learned, perspectives, and the occasional webinar recaps.
+Next, the **[Memo](https://dwarves.foundation/memo/)**. Our crafting space for lessons learned, perspectives, and the occasional webinar recaps.
 
 ![](assets/2020-in-a-flashback_807943f1856a0cdf4a2c431c7f1b1d81_md5.webp)
 

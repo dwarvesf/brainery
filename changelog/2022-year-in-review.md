@@ -148,7 +148,7 @@ After 2 years of COVID together, we were able to finally able to organize our co
 
 Since we’re engineers, we thought it would be fun to create apps and games as a way to bond as a company outside physical activities. It was definitely a challenge to organize the games for everyone, but we certainly had fun doing it.
 
-For the games, we offered a total reward of 150,000,000 VND (~$6,361.32) to our winning teams to help motivate everyone to participate
+For the games, we offered a total reward of **150,000,000 VND (~$6,361.32)** to our winning teams to help motivate everyone to participate.
 
 ![](assets/2022-dwarves-renaissance-a-year-end-rewind_90b18b0bb44f42737b5dbcad91a970ab_md5.webp)
 ![](assets/2022-dwarves-renaissance-a-year-end-rewind_976fd6a1b95373654d8a8870692e52d3_md5.webp)

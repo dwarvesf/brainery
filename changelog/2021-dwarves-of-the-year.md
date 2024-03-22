@@ -38,9 +38,10 @@ Based on the prize value in each title, let’s select your prize item in this s
 * If your name is on the list but you can’t input the prize, drop your email to Duy.
 * If you got any wishlist item that also matches your prize value, please ping Duy for further support. 
 
-**We’ve also prepared you all a mini merchandise set for the rest of the team**. Hope you can travel anywhere with this combo. Please help by inputting your info in the tab Team Address - [https://bit.ly/3G0LuAU](https://bit.ly/3G0LuAU).
+**We’ve also prepared you all a mini merchandise set for the rest of the team**
+Hope you can travel anywhere with this combo. Please help by inputting your info in the tab Team Address - [https://bit.ly/3G0LuAU](https://bit.ly/3G0LuAU).
 
-A big congratulations to our Dwarves of 2021! And thank you to all the Dwarves teammates for being with us through the past seven years. May we all enter 2022 with happiness and success ♡
+A big congratulations to our Dwarves of 2021! And thank you to all the Dwarves teammates for being with us through the past seven years. May we all enter 2022 with happiness and success. ♡
 
 ![df-merch](<assets/doty 2021/df-merch.jpg>)
 ![real-merch](<assets/doty 2021/real-merch.jpeg>)

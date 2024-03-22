@@ -29,7 +29,6 @@ In December, we launched our Consulting Team, released our finding on tech trend
 - **[[#Join our team]]** - Admin / Ops, BD, Tech Recruiter
 
 ## Reporting tech signals
-
 Technologies move fast. We're not ones to get left behind. Every month we watch tech trends closely to depict which ones have high potential, and can be part of our growing tech stack.
 
 This month highlights strong signals on AI gaining mainstream traction, the comeback of WebGPU, Actor Model in computing, Security and ComplianceAsCode, nNFT standards for asset provenance. And programming-language-wise: Rust, Lua Dart.
