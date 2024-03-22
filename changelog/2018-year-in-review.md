@@ -2,7 +2,8 @@
 tags: 
   - updates
   - newsletter
-title: 2018 Wrapping Up
+  - wrap-up
+title: 2018 In Review
 date: 2018-12-31
 description: 2018 notable hightlights and achievements
 authors: 

@@ -2,7 +2,8 @@
 tags: 
   - updates
   - newsletter
-title: Looking Back 2019
+  - wrap-up
+title: 2019 Year In Review
 date: 2020-01-25
 description: 2019 notable highlights and achievements
 authors: 
