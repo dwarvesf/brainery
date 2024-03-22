@@ -4,7 +4,7 @@ tags:
   - wrap-up
   - newsletter
   - updates
-title: 2022 Year In Review
+title: 2022 In Review
 date: 2023-01-19
 description: Successfully went through 2022, a year that we might say -  a new record team reached highest growth record, kickstarted community engagement, home, compliance training & individual development are speeding up, and a whole new place to call Dwarves.
 authors: 
@@ -195,7 +195,7 @@ Our centric world will thrive the Dwarves themselves are focused, trained and em
 - **Meaning:** the desire to do a software that has meaning and is important. We understand our place in the grand scheme of things, and that scheme has value and purpose, then we perform well.
 - **Autonomous:** provides employees with a sense of collective ownership. We aim to build a flat, transparent organization where everything runs around the mission.
 
-![[changelog/assets/9b91bb6b399b50ede70b40612fb522cb_MD5.png]]
+![MMA](assets/2022-dwarves-renaissance-a-year-end-rewind/MMA.png)
 
 2022 brought us to a new great height, with Dwarves seeing growth in multiple aspects. This year has been one of the most memorable moments in our history.
 

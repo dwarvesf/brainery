@@ -30,6 +30,4 @@ Last year, my theme was Elixir for everything, and I will continue working on it
 
 I wish everyone health and prosperity in the new year. Good luck to us all as we continue to strive for greatness in our field.
 
-*From Dwarves with <3*
-
 ![[1e89b732d608e54d1edb7239b5c5c692_MD5.webp]]

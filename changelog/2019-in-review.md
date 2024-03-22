@@ -3,7 +3,7 @@ tags:
   - updates
   - newsletter
   - wrap-up
-title: 2019 Year In Review
+title: 2019 In Review
 date: 2020-01-25
 description: 2019 notable highlights and achievements
 authors: 
