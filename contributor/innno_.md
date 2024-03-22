@@ -22,3 +22,7 @@ aliases:
 ## Contributed Notes
 
 - [[playbook/community/Starting your journey at Dwarves Discord.md|Starting your journey at Dwarves Discord]]
+- [[changelog/2022-dwarves-summit-engineering-a-good-time.md|Dwarves Summit 2022 Engineering A Good Time]]
+- [[changelog/2022-dwarves-renaissance-a-year-end-rewind.md|2022 Dwarves Renaissance A Year End Rewind]]
+- [[changelog/2022-dwarves-of-the-year.md|Dwarves Of The Year 2022]]
+- [[careers/open-positions/technical-writer.md|Technical Writer]]

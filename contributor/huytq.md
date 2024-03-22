@@ -20,7 +20,7 @@ aliases:
 
 ## Contributed Notes
 
-- [[playbook/operations/Project Delivery Schedule and Guidelines.md|Project Delivery Schedule and Guidelines]]
+- [[playbook/operations/project-schedule-delivery-guidelines.md|Project Delivery Schedule and Guidelines]]
 - [[playbook/business/Estimation Guidelines.md|Estimation Guidelines]]
 - [[consulting/case-study/droppii-dwarves-case-study.md|Droppii x Dwarves: Transforming E-Commerce with Innovative Dropshipping Solutions]]
 - [[consulting/_index.md|Consulting Team]]

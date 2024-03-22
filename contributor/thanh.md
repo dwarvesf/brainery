@@ -23,15 +23,15 @@ aliases:
 ## Contributed Notes
 
 - [[playground/_labs/Reward Model & Nomination.md|Reward Model & Nomination]]
-- [[playground/_labs/Market Report Jan 2024.md|Market Report Jan 2024]]
 - [[playground/_labs/Market Report Feb 2024.md|Market Report Feb 2024]]
+- [[playground/_labs/Market Report Jan 2024.md|Market Report Jan 2024]]
 - [[playground/_labs/Market Report Dec 2023.md|Market Report Dec 2023]]
 - [[playground/_labs/Labs x Consulting Workflow.md|Labs x Consulting Workflow]]
+- [[playground/_labs/Knowledge Journey.md|Knowledge Journey]]
 - [[playground/_labs/Labs Roadmap (Nov 23 update).md|Labs Roadmap (Nov 23 update)]]
 - [[playground/_labs/Labs - Who we are.md|Labs - Who we are]]
 - [[playground/_labs/Labs - Topic proposal & progress tracking.md|Labs - Topic proposal & progress tracking]]
 - [[playground/_labs/Labs - New Member Onboarding.md|Labs - New Member Onboarding]]
-- [[playground/_labs/Knowledge Journey.md|Knowledge Journey]]
 - [[playground/_labs/How R&D contributes to Performance Review.md|How R&D contributes to Performance Review]]
 - [[newsletter/forward/Forward Engineering October 2023.md|October Forward Engineering 2023]]
 - [[newsletter/forward/Forward Engineering November 2023.md|November Forward Engineering 2023]]

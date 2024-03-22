@@ -14,6 +14,7 @@ aliases:
   - han
   - neko-san
   - tieubao
+  - Han 🐸
 ---
 <div class="profile"/>
 
@@ -23,7 +24,14 @@ aliases:
 
 ## Contributed Notes
 
+- [[playbook/operations/the-inner-circle.md|The Inner Circle]]
+- [[playbook/operations/red-flags.md|Red Flags]]
 - [[playbook/community/df-protocol-icy-dfg.md|💠 df protocol, $icy and $dfg]]
+- [[changelog/road-to-100.md|Road To 100]]
+- [[changelog/2023-happy.md|Happy 2023]]
+- [[changelog/2020-in-a-flashback.md|2020 In A Flashback]]
+- [[changelog/2019-looking-back.md|Looking Back 2019]]
+- [[changelog/2018-wrapping-up.md|2018 Wrapping Up]]
 - [[consulting/case-study/droppii-dwarves-case-study.md|Droppii x Dwarves: Transforming E-Commerce with Innovative Dropshipping Solutions]]
 - [[consulting/Partners Network.md|Partners Network]]
 - [[careers/additional-info/The Manifesto.md|The Manifesto]]

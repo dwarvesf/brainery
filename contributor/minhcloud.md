@@ -20,6 +20,7 @@ aliases:
 
 ## Contributed Notes
 
+- [[playground/_memo/how-to-set-up-environment-for-editing-memo.md|How to set up environment to edit memo]]
 - [[playground/_memo/how-to-push-content-on-note-d.md|How to push content on note.d.foundation]]
 - [[playbook/community/How to withdraw ICY.md|How to withdraw ICY]]
 - [[_index.md|Home]]
