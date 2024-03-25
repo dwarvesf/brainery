@@ -53,7 +53,7 @@ Feature Flags tackled a concern spanning across our DevOps, Management, and Engi
 ![[807095e97b173fac69c60aeffb7536ec_MD5.webp]]
 
 ### Learning As The North-star Metric
-[Brainery graph](<assets/2022-dwarves-renaissance-a-year-end-rewind/Brainery Graph 1.mov>)
+![brainerygraph](assets/2022-dwarves-renaissance-a-year-end-rewind/brainery-graph-1.mov)
 
 *A 2022 look back on our Brainery timeline, with a total of 128 notes contributed.*
 
