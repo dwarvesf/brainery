@@ -1,7 +1,7 @@
 ---
 tags: 
   - design
-  - case study
+  - case-study
 title: Sol Travel Planning App Part 1
 date: 2018-10-10
 description: null
@@ -43,4 +43,3 @@ During these interviews, I found people enjoy because they love to travel, they 
 
 ## Personas
 Using my interviews I combined my findings to create three personas that would be typical users of Sol.
-

@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
 title: From Monolithic To Microservice Sharpen Malaysias Largest Online Marketplace
 date: 2021-03-09
 description: null
@@ -9,7 +9,6 @@ menu: memo
 type: null
 hide_frontmatter: false
 ---
-
 ![[6be4a77492fe56879670e7842673e411_MD5.webp]]
 
 ## In brief
@@ -35,9 +34,9 @@ The world develops, Mudah must targets a younger customer segment. The website i
 
 They decided to go for a massive refactoring in: Infrastructure, Codebase and Application UI.
 
-📍 "*Refactoring a whole system requires a high effort. There's no place for hiring plans and teammate training. I was in need of a workforces that gets the hang of the job*." 
+📍 "Refactoring a whole system requires a high effort. There's no place for hiring plans and teammate training. I was in need of a workforces that gets the hang of the job." 
 
-said Prateek - Mudah's Product Manager
+Prateek - Mudah's Product Manager
 
 ### Engagement Model
 We took care of migrating the legacy PHP system to microservices in Go. It optimizes page load and tackle scaling problem. We decoupled the services one by one, starting with the Auth module (user's authentication flow). 
@@ -70,4 +69,4 @@ It was amazing to facilitate their growth and contribute our best practices. The
 
 💬 Completing the tech platform changing and stretching the revenue are two main goals that Mudah.my intends to follow. To maintain two biggest challenges at once is quite difficult. We got positive responses from the team, the skillset and the member were in high quality. That helped increase our confidence in the Dwarves and we're very interested in working with them.
 
-— Prateek Roy, Mudah.my’s Product Manager
+Prateek Roy, Mudah.my’s Product Manager

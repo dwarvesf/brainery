@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
 title: Support Relay In Shipping Their Mvp Product For Us Market Testing
 date: 2021-04-29
 description: null

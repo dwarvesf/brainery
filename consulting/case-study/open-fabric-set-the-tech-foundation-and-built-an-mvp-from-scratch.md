@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
 title: Open Fabric Set The Tech Foundation And Built An Mvp From Scratch
 date: 2022-09-28
 description: null
@@ -86,11 +86,11 @@ Internal staff and partner teams need ways to monitor their business operations,
 With limited resources and a rushed time to launch, we have to weigh between building our own report system and allowing easy customization or integrating an existing report service. After thorough research and evaluation, we decided to integrate Metabase to our system, as it was able to meet our requirements.
 
 ## System Design
- | **System** | **Tech Stacks** | 
- | ---- | ---- | 
- | Front-end | React, Typescript | 
- | Infrastructure | AWS, Lambda, Postgres, DynamoDB, EC2, ECS | 
- | Back-end | Typescript, Kotlin | 
+| System | Tech Stacks |
+|---|---|
+| Front-end | React, Typescript |
+| Infrastructure | AWS, Lambda, Postgres, DynamoDB, EC2, ECS |
+| Back-end | Typescript, Kotlin |
 
 **Architecture**
 Open Fabric was designed to become a high-performance, low-latency system that follows practices for Domain-driven design. The system separates some corporate services with different databases. At the MVP (Minimum Viable Product) stage, we need to test the market as fast as possible. The team balances efforts on release milestones and application performance. However, setting boundaries for separate services is top priority for maintenance and improvement.
@@ -109,24 +109,24 @@ We deploy our system to Amazon Web Service Cloud and keep them there. The overal
 * **Lambda and Serverless**: almost all of the services run on AWS lambda, a computing service that runs code in response to events and automatically manages the computing resources required by that code.
 * **Docker Container**: we apply the Docker-centered workflow to offer data isolation & context separation for application deployment.
 * **AWS Cloud**: Open Fabric nodes are regionally placed in Singapore, and AWS Cloud gives us operating freedom with lower administration risks in the event of a major cloud security issue.
-* **AWS S3**: For both front-page websites and admin dashboards, we deploy our ReactJS sites to AWS S3. The service lets you store files and data as **objects**, and these** **objects can range from image files, video files, as well as HTML, CSS, and JavaScript files. This allows us to deploy static assets as website.
+* **AWS S3**: For both front-page websites and admin dashboards, we deploy our ReactJS sites to AWS S3. The service lets you store files and data as **objects**, and these **objects** can range from image files, video files, as well as HTML, CSS, and JavaScript files. This allows us to deploy static assets as website.
 
 ![[0903f2700a511a9a15597148cade6e19_MD5.webp]]
 
 ## Deployment
-Open Fabric runtime is divided into 4 separate environments. This helps members develop the best technical solutions and resolve issues quickly, while only exposing new releases to users. We use Docker to compose our environments. Additionally, we use the **Sam CLI **(Command line interface) tool to invoke a lambda function in the local environment.
+Open Fabric runtime is divided into 4 separate environments. This helps members develop the best technical solutions and resolve issues quickly, while only exposing new releases to users. We use Docker to compose our environments. Additionally, we use the **Sam CLI** (Command line interface) tool to invoke a lambda function in the local environment.
 * **Local development**: This refers to local machines where we write code; any changes to product can be tested with minimal delay.
-* **Develop** environment** **builds the product and runs all automated tests for any and all changes in the codebase. Failures are reported immediately, with CI configured to run end-to-end and integration tests.
-* **Sandbox** is set up exactly like production. Changes to the production environment will not be accepted before rehearsing deployment here. Any mysterious production issues will also be debugged here.
+* **Develop environment**: builds the product and runs all automated tests for any and all changes in the codebase. Failures are reported immediately, with CI configured to run end-to-end and integration tests.
+* **Sandbox**: is set up exactly like production. Changes to the production environment will not be accepted before rehearsing deployment here. Any mysterious production issues will also be debugged here.
 * **Production**: The big iron. This environment is fully logged, monitored, managed periodically, squared away, and secured.
 
 ![[2e8eda3011a6e6a5cd8dd9bf8530b5d5_MD5.webp]]
 
 For the deployment process, we apply a few practices to make remote collaboration more effective.
 * **Gitflow**: We use Github to store all of our source code. There is only one eternal branch called the **main**. All other branches (feature, release, fix) are temporary and ephemeral and is only used for convenience to share code with other developers and as a backup measure.
-* **Feature** **Pull Requests**: A feature in a micro-service architecture can affect other services. A minor change in the **master** data service can implicitly make another change from the **transaction** service. The operational flow is to make changes to the API definition first, before submitting changes and waiting for approval and clearance to merge all pull requests in a given instance.
-* **Code Review: **Pull Requests are a great way to start a feature conversation. It gives us a chance to think through the solution without the overhead of changing code every time we change our minds about how something should be organized. The team can also comment on the feature as it evolves, instead of providing all their feedback at the very end.
-* **Release branches**: Using git-flow, when the code is merged to master or when a new tag is pushed, it will trigger the deployment process to automate steps in building, verifying, and deploying the application.
+* **Feature Pull Requests**: A feature in a micro-service architecture can affect other services. A minor change in the **master** data service can implicitly make another change from the **transaction** service. The operational flow is to make changes to the API definition first, before submitting changes and waiting for approval and clearance to merge all pull requests in a given instance.
+* **Code Review:** Pull Requests are a great way to start a feature conversation. It gives us a chance to think through the solution without the overhead of changing code every time we change our minds about how something should be organized. The team can also comment on the feature as it evolves, instead of providing all their feedback at the very end.
+* **Release branches:** Using git-flow, when the code is merged to master or when a new tag is pushed, it will trigger the deployment process to automate steps in building, verifying, and deploying the application.
 
 There are 2 releases in the sprint: a production release in the middle of the sprint (from changes in the previous sprint), and a sandbox release at the end of the sprint. QA has a week to test the release in the sandbox environment. The version in Production will always older than the Sandbox.
 
@@ -142,4 +142,3 @@ The partnership significantly impacted our collaboration in a positive way. With
 * achieve key milestones, allowing them to establish themselves as the next-generation infrastructure in the APAC digital payment industry.
 
 The Dwarves contributed more than just engineering quality and a smooth 100% remote collaboration on technical implementation. Without being constrained, they were able to pick up the pace of their work and continue to improve it. The staff augmentation model enabled OpenFabric to scale up their tech capability fast and lower recruiting, training expenses, invest entirely in product development, and retain our present resources.
-

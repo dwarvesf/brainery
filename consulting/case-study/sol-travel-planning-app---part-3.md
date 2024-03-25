@@ -1,7 +1,7 @@
 ---
 tags: 
   - design
-  - case study
+  - case-study
 title: Sol Travel Planning App Part 3
 date: 2018-10-09
 description: null
@@ -63,7 +63,7 @@ In order to create the color change property for the icons, the red layers’ op
 
 ![[a5a61528d08088ddca39a677269ac6c4_MD5.webp]]
 
-As default view for a Trip Info, the first segment to be viewed is Members, so the default opacity for** Member grey** is 0% to reveal the layer **Member red**.
+As default view for a Trip Info, the first segment to be viewed is Members, so the default opacity for **Member grey** is 0% to reveal the layer **Member red**.
 
 ![[6d86b971f9b0d3bcf2f87c83848ab205_MD5.webp]]
 
@@ -71,7 +71,7 @@ Next, we need to bide the active state of an icon to the appearance of a content
 
 ![[5163ba11518b5bd5a5e2ae8a8f4dbcd6_MD5.webp]]
 
-Finally, the third rule was quite more complicated to create. Let take an example. If you move from Member to Journey, the transition should be right-to-left, while from Summary to Journey, the transition would be left-to-right. So, if the user taps in a left-to-right sequence, we can arrange the content components as layers horizontally (0 400 800 1200 respectively), then each tap on an icon the **Journey**, **Expense **or **Summary **could move to the position of **Members **to create the required transition.
+Finally, the third rule was quite more complicated to create. Let take an example. If you move from Member to Journey, the transition should be right-to-left, while from Summary to Journey, the transition would be left-to-right. So, if the user taps in a left-to-right sequence, we can arrange the content components as layers horizontally (0 400 800 1200 respectively), then each tap on an icon the **Journey**, **Expense** or **Summary** could move to the position of **Members** to create the required transition.
 
 ![[fe8322f24df5c58f2acfa274152a12d2_MD5.webp]]
 
@@ -87,7 +87,7 @@ For the other three icons, we will divide into two groups: the layers on the lef
 
 ![[de284a24f1ff16799d6e69e2a2ddc8ed_MD5.webp]]
 
-## Tracking a member's lcoation
+## Tracking a member's location
 In this part, we will show you how we created the map route animation. Our idea is to mimic people movement from one point to the other on the map.
 
 In Protopie, we use **Scale** and **Opacity** to pull it into practice. There is two rule for us to build in this motion:

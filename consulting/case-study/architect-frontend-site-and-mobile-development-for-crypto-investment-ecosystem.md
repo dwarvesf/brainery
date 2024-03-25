@@ -1,7 +1,6 @@
 ---
 tags:
-  - case
-  - study
+  - case-study
   - design
 title: Architect Frontend Site And Mobile Development For Crypto Investment Ecosystem
 date: 2021-08-09
@@ -64,4 +63,3 @@ The architected solid frontend foundation allows their new features to be implem
 ![[e1eb25446c7780fecc60e959ab784b3f_MD5.webp]]
 
 ![[d464b8b171de78c5007777ac2c8a2682_MD5.webp]]
-

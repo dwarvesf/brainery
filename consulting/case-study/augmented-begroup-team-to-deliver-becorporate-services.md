@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
 title: Augmented Begroup Team To Deliver Becorporate Services
 date: 2019-11-18
 description: null

@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
   - design
 title: The Development Journey With Aharooms Vietnam Hospitality Growth Solutions
 date: 2020-12-01
@@ -10,7 +10,6 @@ menu: memo
 type: null
 hide_frontmatter: false
 ---
-
 ![[a8e6908312ad0eeb1a4dc8e9c6cd287a_MD5.webp]]
 
 ### In brief
@@ -54,7 +53,7 @@ With selective technology and business insights, we provide high-level architect
 
 **1. Efficient Business Operations**
 * Direct-booking Platform: Built as a Hotel-Shopify for different booking types. Chatbot-integration for end-to-end solutions.
-* Management Systems**:** Applying technology in building operations management, budgeting, and promotion applications.
+* Management Systems: Applying technology in building operations management, budgeting, and promotion applications.
 * The Property Management System (PMS): To manage bookings via different channels with front-office capabilities for room services management. 
 * The Revenue Management System (RMS): To maximize sales and revenue.  RMS works to evaluate and control revenue with the best cost efficiency.
 

@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
   - design
 title: Building Airwatt Apply Aiml For Iot Solutions To Optimize Electricity Usage
 date: 2019-11-15
@@ -42,10 +42,10 @@ They have the capability to handle hardware production and Machine learning. But
 
 **Onboarding**
 AirWatt's system is taken with 4 aspects to meet its business demand
-* Monitor Management**: S**upports administration tasks at different places. Users can also switch on/off and view the detailed usage information of each monitor.
-* Reporting**: **Must-have features to track usage status of electrical equipment. On the mobile version, the report shows weekly or in the nearest three months.
+* Monitor Management: Supports administration tasks at different places. Users can also switch on/off and view the detailed usage information of each monitor.
+* Reporting: Must-have features to track usage status of electrical equipment. On the mobile version, the report shows weekly or in the nearest three months.
 * Mobile App: The only way to bring the Monitors online and bind them to the corresponding user accounts. 
-* Web App for B2B**: **For business owners to track data provided by Airwatt monitors through weekly and monthly reports.
+* Web App for B2B: For business owners to track data provided by Airwatt monitors through weekly and monthly reports.
 
 **Microservice Architecture**
 AirWatt processes a huge data volume at the same time. We build the architecture with two focus points: CRUD data and IoT data. 
@@ -96,7 +96,6 @@ After three months, we have accomplished the MVP development stage with necessar
 * Eye-catching & detailed data report
 ![[98ff38b1521894691a908557706aedcc_MD5.webp]]
 
-**Airwatt**** **has successfully made its way to the problem-solution fit stage. And event marked itself at [Vietnam Zone Startup](https://vietnam.zonestartups.com/zone-startups-portfolio/). The next milestone customizing the web app for a specific domain: FnB. A spinoff to the energy monitor solution for FnB is Airwatt's nearest goal. 
+**Airwatt** has successfully made its way to the problem-solution fit stage. And event marked itself at [Vietnam Zone Startup](https://vietnam.zonestartups.com/zone-startups-portfolio/). The next milestone customizing the web app for a specific domain: FnB. A spinoff to the energy monitor solution for FnB is Airwatt's nearest goal. 
 ![[cce56122290dff1fee0a827b148f1e41_MD5.webp]]
 ![[c371c2899128501e8f1ae7b28e17fa72_MD5.webp]]
-

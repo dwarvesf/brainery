@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
   - csr
 title: Startupvn
 date: 2021-07-29
@@ -24,4 +24,3 @@ With the true intention of community goodwill, we're honored to have joined forc
 🛠 **Technical Highlights:**
 - Notion website & database
 - Form integration & automation
-

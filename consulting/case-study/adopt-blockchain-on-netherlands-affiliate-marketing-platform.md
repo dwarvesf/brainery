@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
 title: Adopt Blockchain On Netherlands Affiliate Marketing Platform
 date: 2021-06-18
 description: null
@@ -69,4 +69,4 @@ Attrace marked up their next highlights with an achievement streak
 
 💬 "They left us with great development and improvement, in terms of work result and team synchronization. A worthy evidence for Attrace’s investments and we hope nothing more than to keep going with them in long-term, provide opportunities for these devs to grow with Attrace."
 
-*Erwin, Attrace's CEO & Founder*
+Erwin, Attrace's CEO & Founder

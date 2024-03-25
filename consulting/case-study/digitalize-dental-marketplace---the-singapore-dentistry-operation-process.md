@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
   - design
 title: Digitalize Dental Marketplace The Singapore Dentistry Operation Process
 date: 2020-09-20
@@ -45,6 +45,7 @@ We started everything from a fresh idea. The process started out as market resea
 * Data process for transaction payment
 * Microservices extendable system
 * Support multiple platforms
+
 📍 With Agile practices and Scrum framework to iterate the product release and adapt to changes, we came across as exactly what Desmond is seeking for. 
 
 ![[ab7ac6266fe7ab7df8050695751d996c_MD5.webp]]
@@ -72,4 +73,4 @@ Desmond had solved his issue from day one: Build a playground for dental profess
 
 💬 "It was hard to disrupt Singapore dentistry market. But the work  with Dwarves Foundation made me believe Dental Marketplace would make a difference. The MVP was high-quality and expected to grow. Every of our question and feedback was explained and resolved well. 
 
-*-Desmond Goh, Founder & CEO of Dental Marketplace*
+Desmond Goh, Founder & CEO of Dental Marketplace

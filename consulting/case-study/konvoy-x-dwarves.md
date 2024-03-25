@@ -1,6 +1,6 @@
 ---
 tags:
-  - case
+  - case-study
 title: Konvoy X Dwarves
 date: 2023-09-14
 description: 
@@ -8,7 +8,6 @@ authors:
 menu: memo
 type: 
 hide_frontmatter: false
-featured: true
 ---
 **Industry:**
 Logistics, Supply Chain Management
@@ -63,9 +62,3 @@ The strategic collaboration between **Dwarves Foundation** and **Konvoy** has re
 ![[82158455a3c4433253d356e1b4a3accb_MD5.webp]]
 
 Dwarves Foundation is a team of design and development experts working closely with clients to craft software, build tech teams, and invest in people who create world's next favorite things.
-
-**Love what we are doing?**
-* Check out our **[products](https://superbits.co/)**
-* Hire us to **[build your software](https://d.foundation/)**
-* Join us, **[we are also hiring](https://github.com/dwarvesf/WeAreHiring)**
-* Visit our **[Discord Learning Site](https://discord.gg/dzNBpNTVEZ)**

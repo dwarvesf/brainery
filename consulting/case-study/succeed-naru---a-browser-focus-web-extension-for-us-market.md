@@ -1,6 +1,6 @@
 ---
 tags: 
-  - case study
+  - case-study
 title: Succeed Naru A Browser Focus Web Extension For Us Market
 date: 2021-04-18
 description: null
