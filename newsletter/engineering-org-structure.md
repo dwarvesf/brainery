@@ -32,7 +32,7 @@ Soon with offices in HCMC, Hanoi, Danang & Dalat, we hope to tap into greater po
 
 People in our network can be granted flight tickets to these offices too, just say the word.
 
-![[engineering-org-structure-20240312105149734.webp]]
+![](assets/engineering-org-structure-20240312105149734.webp)
 
 Danang office is looking good.
 
@@ -51,7 +51,7 @@ FYI, as we want to drive focus on Web 3.0 without confusing people with our othe
 - Public weekly training and knowledge sharing (on Discord too).
 - Coming soon: engage to earn for Dwarves network.
 
-![[engineering-org-structure-20240312105213068.webp]]
+![](assets/engineering-org-structure-20240312105213068.webp)
 
 Last but not least, big thanks to everyone who reads through and reaches out to let us know that they enjoy these snippets of news we send out! We greatly appreciate it.
 

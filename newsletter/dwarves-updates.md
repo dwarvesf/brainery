@@ -29,7 +29,7 @@ As the Internship Program has its cons:
 
 The Apprenticeship Program comes from different aspects. Apprenticeship is a total six-month, earn-and-learn training program that we designed for individuals that have at least 1 or 2 years of work experience.
 
-![[dwarves-updates-20240312105331395.webp]]
+![](assets/dwarves-updates-20240312105331395.webp)
 
 We promise the same or even better paycheck for candidates and offer them the modern work environment, better experience, a guided career path, peers, and mentors.
 

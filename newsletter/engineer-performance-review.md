@@ -25,7 +25,7 @@ We don't want the team at Dwarves having to go through those, so we design our p
 
 One important thing here is that during these performance reviews, we don't just focus on their execution and technical excellency. We also pay extra attention to their skills in leadership, collaboration, organizational contribution. We want our engineers to be excellent outside their lines of code too, if they want to move upward in their career.
 
-![[engineer-performance-review-20240312105303460.webp]]
+![](assets/engineer-performance-review-20240312105303460.webp)
 
 The framework we use at Dwarves to set expectations and plan career growth for engineers.
 

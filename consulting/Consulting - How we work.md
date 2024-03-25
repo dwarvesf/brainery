@@ -30,4 +30,4 @@ hide_title: false
 
 **Information Flow**
 
-![[Consulting - How We work-20231221144114271.webp]]
+![](assets/consulting---how-we-work-20231221144114271.webp)

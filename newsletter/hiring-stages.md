@@ -29,7 +29,7 @@ In today’s edition:
 ### **Job interviews need a makeover.**
 A few weeks back when preparing for [Dwarves Foundation Apprenticeship 2022](https://careers.d.foundation/apprenticeship-2022), we got to rethink the typical interview process in the tech industry. We came across a [Reddit post](https://www.reddit.com/r/WorkReform/comments/th5eou/this_was_the_first_step_in_the_interview_process/) which almost knocked the wind out of us.
 
-![[hiring-stages-20240312110733564.webp]]
+![](assets/hiring-stages-20240312110733564.webp)
 
 Candidates were asked to carry out a _written interview_ answering all these questions, right out the door. We didn’t even read through all the questions. We closed the browser tab asap.
 
@@ -43,7 +43,7 @@ We still consider Dwarves to be a small team (with 70 engineers and designers, a
 #### **The 4 stages of hiring at Dwarves.**
 Even then, it’s not a fixed process. Sometimes when we know that the candidate is a must-have on our team, we don’t mind skipping a step or two.
 
-![[hiring-stages-20240312110815550.webp]]
+![](assets/hiring-stages-20240312110815550.webp)
 
 - Tech capability is the north star metric. First and foremost, we want people who will get things done. We can be very challenging when it comes to how well the person will do their job.
 - Minimal commonplace interview questions. Every candidate is well prepared for these questions, and the answers barely help us truly discover the person. We won’t ask what their hobbies are, because it’s probably listening to music, reading books or playing sports.
@@ -63,7 +63,7 @@ Our first apprenticeship program was last year, making Dwarves the first company
 
 With takeaways from last year, this year we plan to be even better.
 
-![[hiring-stages-20240312110829010.webp]]
+![](assets/hiring-stages-20240312110829010.webp)
 
 Dwarves Foundation Apprenticeship 2022 is a 6-month fully paid work-study-train program designed to equip mid-level and above software engineers with splendid software practices, strong professional skills, and work ethics.
 

@@ -20,8 +20,8 @@ We're closing July with some notable highlights. Let's go through them ✌️
 
 ### Finish the shipment for our WFH station
 We've finished the shipment for all the WFH gears. Since the annual company trip can't be done this year, we hope it could help the working vibe more enjoyable. It's great to know you're all happy with the new setup.
-![[733d0121febec06d18e9531f92400ab8_MD5.webp]]
-![[541d9540dd68b6a75696f615a1a6c879_MD5.webp]]
+![](assets/2021-july-updates_733d0121febec06d18e9531f92400ab8_md5.webp)
+![](assets/2021-july-updates_541d9540dd68b6a75696f615a1a6c879_md5.webp)
 
 ### Your fleeting notes
 On July 15, few of our Dwarves shared a reward pool for $1000 for submitting their fleeting notes to our [brainery](https://brain.d.foundation/). 
@@ -34,7 +34,7 @@ The Brainery will be the backbone for our long-term growth.
 We're going fully remote. There might be a distance between you and the team. In case you seek for guidance, or the direction we want to go, we have dedicated office hours from **4:30 to 6 pm** in the discord AMA stage channel.
 
 Feel free to ask the CEO anything. Workload, feature request, product discuss or career advice. He's there to help. 
-![[0b035e736bb615bcdde24b2efa950ec5_MD5.webp]]
+![](assets/2021-july-updates_0b035e736bb615bcdde24b2efa950ec5_md5.webp)
 
 ### Moving toward Blockchain industry
 We're dipping toes in the Blockchain pool, by partner with Legend of Fantasy War, a new NFT game project. 
@@ -42,7 +42,7 @@ We're dipping toes in the Blockchain pool, by partner with Legend of Fantasy War
 Another chance for us to get closer to this arising technology.
 
 Sneak peek at the [landing website](http://legendfantasywar.com/) → 
-![[4ac57a6a422a69aad933db59d4c43095_MD5.webp]]
+![](assets/2021-july-updates_4ac57a6a422a69aad933db59d4c43095_md5.webp)
 
 ### Notion OS: Running our team from Notion pages
 Notion is our new document base. We've migrated our written document into this, as the new structure would be
@@ -77,7 +77,7 @@ We are hiring again. This would be a massive focuses on senior level to upgrade 
 
 Thanks Vy, Hoang for the referral. Thanks everyone else for sharing the post. It works.
 
-![[1b220da25eec9897a33cce413616f132_MD5.webp]]
+![](assets/2021-july-updates_1b220da25eec9897a33cce413616f132_md5.webp)
 
 ### Shaping our image
 Hey, it's time to update your LinkedIn, Github or Facebook profile. It makes us look cool as a team 🚀

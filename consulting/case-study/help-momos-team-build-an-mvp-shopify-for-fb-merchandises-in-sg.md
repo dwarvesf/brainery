@@ -10,7 +10,7 @@ type: null
 hide_frontmatter: false
 ---
 
-![[514bbd80a0d5b2ac3e486b555e76bcac_MD5.webp]]
+![](assets/help-momos-team-build-an-mvp-shopify-for-fb-merchandises-in-sg_514bbd80a0d5b2ac3e486b555e76bcac_md5.webp)
 
 ### In brief
 * Momos is a pre-seed startup operating in Singapore, whose founder was an ex-Grab
@@ -29,7 +29,7 @@ Momos works as the centralized data hub.
 Businesses are shifting their services online. They need different partners to make it happen.
 
 By using Momos as a **centralized data hub**, businesses can focus on delivering their products.
-![[7ab1ca707a007169087c6d5f337deac3_MD5.webp]]
+![](assets/help-momos-team-build-an-mvp-shopify-for-fb-merchandises-in-sg_7ab1ca707a007169087c6d5f337deac3_md5.webp)
 
 The founders planned to **expand the integration** when they found us through their connections. We took the initial step with Food delivery partner (Grab, Foodpanda + Deliveroo), starting with mapping the API into Facebook platform. The priority falls for API mapping and dashboard to analyze the core metrics, create report summary, and measure the product impact.
 
@@ -56,7 +56,7 @@ The team structure consists of engineers in SG, India & Vietnam. We rely on tool
 
 The work sync-up happens through Slack and Google Meets. All tasks are managed in Notion to ensure the progress stays on track.
 The weekly achievement is summarized and delivered as weekly change logs.
-![[f6d49407f04a4f963f2f8dd28b706103_MD5.webp]]
+![](assets/help-momos-team-build-an-mvp-shopify-for-fb-merchandises-in-sg_f6d49407f04a4f963f2f8dd28b706103_md5.webp)
 
 ### **Outcome**
 After a few months, Momos successfully **launched their platform, onboard new promising users**, and was ready to level up their online presence.
@@ -64,6 +64,6 @@ After a few months, Momos successfully **launched their platform, onboard new 
 Of course, the journey doesn't end there. We are still actively contributing to momos development. We head for the next milestone where analytics dashboard and review management can perform outstandingly.
 
 See more at: **[momos.io](https://www.momos.io/)**
-![[bf1d4c22750395b3792bae00e9c2f441_MD5.webp]]
-![[da8b1ed04fc1ec815f6667456352c9b8_MD5.webp]]
-![[c252d4367144a36e352020df14f829b7_MD5.webp]]
+![](assets/help-momos-team-build-an-mvp-shopify-for-fb-merchandises-in-sg_bf1d4c22750395b3792bae00e9c2f441_md5.webp)
+![](assets/help-momos-team-build-an-mvp-shopify-for-fb-merchandises-in-sg_da8b1ed04fc1ec815f6667456352c9b8_md5.webp)
+![](assets/help-momos-team-build-an-mvp-shopify-for-fb-merchandises-in-sg_c252d4367144a36e352020df14f829b7_md5.webp)

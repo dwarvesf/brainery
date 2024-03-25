@@ -10,7 +10,7 @@ type: null
 hide_frontmatter: false
 ---
 
-![[7ba0ab212be0b82800b89bcd86505dba_MD5.webp]]
+![](assets/support-relay-in-shipping-their-mvp-product-for-us-market-testing_7ba0ab212be0b82800b89bcd86505dba_md5.webp)
 
 ### In brief
 * Relay is an extension tool that decreases micromanagement by automating workflows.
@@ -55,7 +55,7 @@ We take Trello onboard for task management, while all the designs are stored in 
 Through months of development, we are able to roll out the first MVP. 
 
 That comes with **a Google Extension**, **a web app**, **an Analytics Dashboard** and **a Relay bot** integrated straight into Slack workspace.
-![[57b30c85eea9fbabca8c8894a019ff71_MD5.webp]]
-![[cf7deedef0cc5bb418fd945d594c68ef_MD5.webp]]
+![](assets/support-relay-in-shipping-their-mvp-product-for-us-market-testing_57b30c85eea9fbabca8c8894a019ff71_md5.webp)
+![](assets/support-relay-in-shipping-their-mvp-product-for-us-market-testing_cf7deedef0cc5bb418fd945d594c68ef_md5.webp)
 
 Relay starts to acquire paid users and prepares for their next funding seed. Followed by their **[May Product Updates](https://teamrelay.medium.com/relay-product-updates-may-2021-f7b3db7002c5)**, we're delighted to be a part of this journey. The work evolves with two more features: Relay Sequence Chart and Relay Progress - both for team productivity boosting.

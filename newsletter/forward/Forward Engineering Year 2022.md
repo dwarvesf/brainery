@@ -49,7 +49,7 @@ A summary of some trending tags we see in our Brainery. These tags represent wha
 
 Our company, as well as the industry, is very frontend heavy, so it’s refreshing to see that frontend still has a strong place in our learning endeavors. We’ve been able to hear voices from our backend engineers, our data team, and definitely our community members.
 
-![[fdc3f02efffae1ad50e061ba23e81362_MD5.webp]]
+![](assets/forward-engineering-year-2022_fdc3f02efffae1ad50e061ba23e81362_md5.webp)
 
 ### <span style='color:green'>**Newest Contributors**</span>
 We collect a list of new contributors, those who have contributed knowledge for the first time in our Brainery. A shout-out to **[Thanh Le](https://github.com/thanhlmm)**, who has not only contributed to our second brain, but also contributed to a [Radio Talk Discussion with our team](https://www.youtube.com/watch?v=z37-ZS7cKJ0).
@@ -90,7 +90,7 @@ Below are some of the common problems we’ve begun more critical research and e
 * ***Query Database 500M Records, Filter Multiple Table: ***If a day, our database contained 500 million records and despite our customers having to wait five minutes, they were still unable to complete a transaction. How would you approach this difficulty if you were a business owner? We are here to help you find a solution.
 * ***Database Connection Concurrency: ***As a Software Engineer, I'm sure you're aware that when working at the Backend level, we must manage any transactions that occur between our services and the database. Sure, have you considered how we can implement it effectively if you need to interact with more than one entity at the same time?
 
-![[5c73807e107d674db4880be752f44319_MD5.webp]]
+![](assets/forward-engineering-year-2022_5c73807e107d674db4880be752f44319_md5.webp)
 
 This year, we’ve completed one of our challenges, **Feature Flags**. This was a concern spanning across our DevOps, Management, and Engineering domains. We’re proud to list it as one of our completed challenges:
 
@@ -142,6 +142,6 @@ Right before New Year, we were able to finish off the year with some exciting to
 
 [Dwarves Rewind](https://www.linkedin.com/newsletters/dwarves-rewind-6963734647327375360/) is a reading list serving as a collection of news we aggregate weekly. Tech is a very high-paced industry, and rewind helps to serve as a curated list of trending and high-profile topics that everyone can look back on.
 
-![[ae9016b58831984c03b5125922855553_MD5.webp]]
+![](assets/forward-engineering-year-2022_ae9016b58831984c03b5125922855553_md5.webp)
 
 ### <span style='color:green'>Trending Topics</span>

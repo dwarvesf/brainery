@@ -9,7 +9,7 @@ menu: memo
 type: null
 hide_frontmatter: false
 ---
-![[6be4a77492fe56879670e7842673e411_MD5.webp]]
+![](assets/from-monolithic-to-microservice-sharpen-malaysias-largest-online-marketplace_6be4a77492fe56879670e7842673e411_md5.webp)
 
 ## In brief
 * Mudah.my is a Malaysian 12-years-old online marketplace. A product derives from a partnership between Telenor ASA of Norway and 701Search Singapore. 
@@ -28,7 +28,7 @@ hide_frontmatter: false
 Mudah.my’s site features various ads categories for different purchase demands. The data from customer and third-parties is massively huge to process.
 
 With 12 years in the market, their system starts to slow down. It affects the data process, and drags down user experience.
-![[78b9b340766e04c40cbb7e8aadf4be69_MD5.webp]]
+![](assets/from-monolithic-to-microservice-sharpen-malaysias-largest-online-marketplace_78b9b340766e04c40cbb7e8aadf4be69_md5.webp)
 
 The world develops, Mudah must targets a younger customer segment. The website interface and stagnant system are holding their goal back. 
 
@@ -65,7 +65,7 @@ Slack chat, Jira card & Gitlab Merge Request for technical discussion.
 Mudah remains one of our longest, tried-and-true collaborations. We have continuously worked with Mudah on various scopes of work and committed different engagement models. The system was flawlessly migrated, enabled Mudah to access their potential market for both desktop and mobile users.
 
 It was amazing to facilitate their growth and contribute our best practices. The progress still evolves and we’re so excited to see what’s coming next.
-![[828660c66933d83b79c4f5ba817fd265_MD5.webp]]
+![](assets/from-monolithic-to-microservice-sharpen-malaysias-largest-online-marketplace_828660c66933d83b79c4f5ba817fd265_md5.webp)
 
 💬 Completing the tech platform changing and stretching the revenue are two main goals that Mudah.my intends to follow. To maintain two biggest challenges at once is quite difficult. We got positive responses from the team, the skillset and the member were in high quality. That helped increase our confidence in the Dwarves and we're very interested in working with them.
 

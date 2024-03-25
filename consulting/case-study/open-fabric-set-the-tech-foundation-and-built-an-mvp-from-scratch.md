@@ -9,7 +9,7 @@ menu: memo
 type: null
 hide_frontmatter: false
 ---
-![[34964aa39f1e63930a9b8c2104aa26cb_MD5.webp]]
+![](assets/open-fabric-set-the-tech-foundation-and-built-an-mvp-from-scratch_34964aa39f1e63930a9b8c2104aa26cb_md5.webp)
 
 Founded and led by veterans from fintech players like Paypal & Grab, **[Open Fabric](https://openfabric.co/)** is a BNPL platform, built to enable an open commerce network for customers and credit providers in South East Asia to radically simplify merchant integrations for digital payment methods. 
 
@@ -36,7 +36,7 @@ Released the core master data service in the MVP version
 MVP Development, Tech Consulting, Staff Augmentation
 
 # The Challenges
-![[a391484a82928431344bb4a1220bea85_MD5.webp]]
+![](assets/open-fabric-set-the-tech-foundation-and-built-an-mvp-from-scratch_a391484a82928431344bb4a1220bea85_md5.webp)
 
 OpenFabric’s key value proposition includes:
 * **A single interface incorporating multiple uses cases, geographies, channels and stakeholders;**
@@ -95,7 +95,7 @@ With limited resources and a rushed time to launch, we have to weigh between bui
 **Architecture**
 Open Fabric was designed to become a high-performance, low-latency system that follows practices for Domain-driven design. The system separates some corporate services with different databases. At the MVP (Minimum Viable Product) stage, we need to test the market as fast as possible. The team balances efforts on release milestones and application performance. However, setting boundaries for separate services is top priority for maintenance and improvement.
 
-![[e754f89627c971e81eec2c9222d9db98_MD5.webp]]
+![](assets/open-fabric-set-the-tech-foundation-and-built-an-mvp-from-scratch_e754f89627c971e81eec2c9222d9db98_md5.webp)
 
 **List of main services**
 * Master data service: this service provides the master data to be used in other services that contains metadata, configurations, and user permissions
@@ -111,7 +111,7 @@ We deploy our system to Amazon Web Service Cloud and keep them there. The overal
 * **AWS Cloud**: Open Fabric nodes are regionally placed in Singapore, and AWS Cloud gives us operating freedom with lower administration risks in the event of a major cloud security issue.
 * **AWS S3**: For both front-page websites and admin dashboards, we deploy our ReactJS sites to AWS S3. The service lets you store files and data as **objects**, and these **objects** can range from image files, video files, as well as HTML, CSS, and JavaScript files. This allows us to deploy static assets as website.
 
-![[0903f2700a511a9a15597148cade6e19_MD5.webp]]
+![](assets/open-fabric-set-the-tech-foundation-and-built-an-mvp-from-scratch_0903f2700a511a9a15597148cade6e19_md5.webp)
 
 ## Deployment
 Open Fabric runtime is divided into 4 separate environments. This helps members develop the best technical solutions and resolve issues quickly, while only exposing new releases to users. We use Docker to compose our environments. Additionally, we use the **Sam CLI** (Command line interface) tool to invoke a lambda function in the local environment.
@@ -120,7 +120,7 @@ Open Fabric runtime is divided into 4 separate environments. This helps members 
 * **Sandbox**: is set up exactly like production. Changes to the production environment will not be accepted before rehearsing deployment here. Any mysterious production issues will also be debugged here.
 * **Production**: The big iron. This environment is fully logged, monitored, managed periodically, squared away, and secured.
 
-![[2e8eda3011a6e6a5cd8dd9bf8530b5d5_MD5.webp]]
+![](assets/open-fabric-set-the-tech-foundation-and-built-an-mvp-from-scratch_2e8eda3011a6e6a5cd8dd9bf8530b5d5_md5.webp)
 
 For the deployment process, we apply a few practices to make remote collaboration more effective.
 * **Gitflow**: We use Github to store all of our source code. There is only one eternal branch called the **main**. All other branches (feature, release, fix) are temporary and ephemeral and is only used for convenience to share code with other developers and as a backup measure.

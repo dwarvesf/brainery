@@ -11,7 +11,7 @@ menu: memo
 type: null
 hide_frontmatter: false
 ---
-![[7a9cdd9e9da725426a2859509b94f1d3_MD5.webp]]
+![](assets/hedge-foundation-a-customized-all-in-one-trading-platform-for-pro-traders_7a9cdd9e9da725426a2859509b94f1d3_md5.webp)
 
 ### In brief
 **[Hedge Foundation](http://hedge.foundation/)** is a powerful dashboard to support users in managing crypto account positions, balance, PNL and works on bulk orders for profit and loss tracking. 
@@ -27,7 +27,7 @@ Move alongside the crypto era, Hedge Foundation works to be part of the industry
 * Use custom Balancer and Forwarder services to deal with rate limits when crawling from almost third parties.
 * Integrate TradingView with custom indicator and drawing tools to visualize trading strategies.
 
-![[e498a5a3ab250c4dc8a24a8c1a813cb9_MD5.webp]]
+![](assets/hedge-foundation-a-customized-all-in-one-trading-platform-for-pro-traders_e498a5a3ab250c4dc8a24a8c1a813cb9_md5.webp)
 
 ### The Context
 Hedge Foundation's founder has a unique strategy to trade on centralized exchange platforms. His work revolves around keeping track of multiple accounts at once, conducts a huge daily trading volume and interacts with many tools to touch all the data he needs.
@@ -41,8 +41,8 @@ Hence, Hedge Foundation is expected to meet some critical goals
 * Draw to chart with customized indicator and market data point setting.
 
 He visioned Hedge Foundation as the all-in-one managing system for crypto accounts. It supports visualizing market data, trims trading time, synchronizes all related data, and drives profitable decisions.
-![[e47920a7b8c97022ce8bbaecdb21496c_MD5.webp]]
-![[a756b023d1f2b51e9426c70b4993f8e2_MD5.webp]]
+![](assets/hedge-foundation-a-customized-all-in-one-trading-platform-for-pro-traders_e47920a7b8c97022ce8bbaecdb21496c_md5.webp)
+![](assets/hedge-foundation-a-customized-all-in-one-trading-platform-for-pro-traders_a756b023d1f2b51e9426c70b4993f8e2_md5.webp)
 
 ### Engagement Model
 We spent most of our time optimizing the big table. It supposes to provide fast real-time data to render valuable insights. The founder can take profitable actions using this reliable info source,
@@ -68,6 +68,6 @@ Daily stand-ups are meant to sync and resolve problems incurred
 
 ### Outcome
 The feature list is gradually checked up. Hedge Foundation has met all the premised criteria for a crypto-data management tool. We’re on the way to expanding the integration with other trading platforms. This aligns with the business goal: To create more tactical and effective strategies.
-![[a28c16f35596efa1df3a0680b6b1225a_MD5.webp]]
+![](assets/hedge-foundation-a-customized-all-in-one-trading-platform-for-pro-traders_a28c16f35596efa1df3a0680b6b1225a_md5.webp)
 
 Dwarves Foundation is a team of design and development experts working closely with clients to craft software, build tech teams, and invest in people who create world's next favorite things.

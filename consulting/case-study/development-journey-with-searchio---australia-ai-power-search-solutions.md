@@ -15,7 +15,7 @@ hide_frontmatter: false
 * The Dwarves partnered with Search.io to help with their Console dashboard app, improve open-source packages quality and tailor the brand UI for plugin consumers.
 * Search.io is one of those matured projects that requires stability over speed. Everything we do, we do with plans and foreseeable vision.
 
-![[5168d3582cc3384817547ef263a5eaa8_MD5.webp]]
+![](assets/development-journey-with-searchio---australia-ai-power-search-solutions_5168d3582cc3384817547ef263a5eaa8_md5.webp)
 
 ### Technical Highlight
 * Self-built design system component package to successfully migrate the old console UI to the new one.
@@ -28,7 +28,7 @@ That comes with a full package of platform integration, search through images, A
 
 That explains the work on open-source and search-widget support.
 
-![[dd55bea9f42adaff0ca67b9f0398ad98_MD5.webp]]
+![](assets/development-journey-with-searchio---australia-ai-power-search-solutions_dd55bea9f42adaff0ca67b9f0398ad98_md5.webp)
 
 ### Engagement Model
 The work focuses on refactoring the Console dashboard app, improving the open-source package's quality, and tailoring brand UI for plugin consumers.
@@ -62,8 +62,8 @@ A few highlights we're proud to deliver. Various achievements for open-source pa
 * [Shopify Integration](https://www.sajari.com/blog/shopify-search)
 * [Search Widget](https://docs.sajari.com/user-guide/integrating-search/widget/)
 * [All new UI](https://www.sajari.com/blog/meet-the-all-new-sajari)
-![[553a8839ac6f2ddb246b3801a3d3ed46_MD5.webp]]
+![](assets/development-journey-with-searchio---australia-ai-power-search-solutions_553a8839ac6f2ddb246b3801a3d3ed46_md5.webp)
 
 Our partnership helps Search.io to enhance their development team to deliver a powerful search and discovery platform. The platform provides real-time searching as-a-service and is trusted by large businesses worldwide. 
-![[b57cb7d4546a27e2d01deb2968f970ce_MD5.webp]]
-![[b70a3de226205f3dcdc72155e8ed362d_MD5.webp]]
+![](assets/development-journey-with-searchio---australia-ai-power-search-solutions_b57cb7d4546a27e2d01deb2968f970ce_md5.webp)
+![](assets/development-journey-with-searchio---australia-ai-power-search-solutions_b70a3de226205f3dcdc72155e8ed362d_md5.webp)

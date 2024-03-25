@@ -46,7 +46,7 @@ Our radar has four rings, start from the middle.
 For each batch, we will organize into volume in our github repository (dwarvesf/radar) and track down the changes or comments from the study group.
 
 # The Tech Knowledge Areas
-![[newsletter/forward/assets/dwarves-tech-radar-the-introduction/8e5f7f8bb132590bfbf3105155047b6c_MD5.webp]]
+![](assets/dwarves-tech-radar-the-introduction_8e5f7f8bb132590bfbf3105155047b6c_md5.webp)
 
 Above is the knowledge areas that we think the software engineers should have been through. Our current tech stack is the reflection of how we apply those theoretical knowledge in real life. Run through the software development lifecycle and engineering disciplines, it mainly cover
 
