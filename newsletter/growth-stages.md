@@ -2,10 +2,13 @@
 tags: 
 title: The stage of Growth at Dwarves
 date: 2023-09-12
-description: 
+description: In this update, we are excited to share the real journey of growth and transformation that our team has embarked upon, as we continue to strive to become a more skilled and knowledgable software team.
 authors: 
-menu: 
-type: 
+- han
+- nikki
+- duy
+menu: memo
+type: newsletter
 hide_frontmatter: true
 pinned: 
 hide_title: false
@@ -19,8 +22,6 @@ Since you last heard from us, we have been going through a lot of changes. There
 - Growing a support system for the community
 - Building stronger bonds through collaboration
 - Nurturing relationships for shared success
-
----
 
 ### Shifting focuses towards techniques
 It’s a bold decision the team has taken. Our team is investing heavily in research and development focused specifically on techniques that remain steadfast over time. With how fast the software landscape is changing, it is easy to chase the latest, trendy and cool tools out there. But it’s always the fundamental principles and techniques that build skills that last longer. When they understand the core techniques, they can pick the right tools for the job, learn new things easily, and be more creative.
@@ -47,7 +48,7 @@ With more members actively participating and more community members to join hand
 ### Building stronger bonds through collaboration
 It wasn’t our intention at first, but pushing toward a 50% company - 50% community model definitely brought the team closer than ever. In a remote working setup like our team, the lack of physical activities make it hard for team bonding.
 
-With our [**Community Earn model**](http://earn.d.foundation), [**collaborative R&D](https://brain.d.foundation/README),** and Community Engagement activities in place, we gained back the sense of unity we partly lost due to remote working. Our internal channels on Discord are brewing again, team members feel connected. Especially, we are also seeming clear improvements when our engineers communicate with the clients and their team.
+With our [**Community Earn model**](http://earn.d.foundation), [**collaborative R&D**](https://brain.d.foundation/README), and Community Engagement activities in place, we gained back the sense of unity we partly lost due to remote working. Our internal channels on Discord are brewing again, team members feel connected. Especially, we are also seeming clear improvements when our engineers communicate with the clients and their team.
 
 ![](assets/growth-stages-20240312111524954.webp)
 

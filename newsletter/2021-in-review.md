@@ -1,9 +1,15 @@
 ---
 tags: 
-title: "It’s a wrap: 2021 in Review"
+- updates
+- newsletter
+- team
+title: It’s a wrap: 2021 in Review
 date: 2021-12-30
-description: 
+description: Hey, it’s Han and Nikki in your inbox again. On behalf of the entire Dwarves team, happy 2022!
 authors: 
+- han
+- nikki
+- duy
 menu: 
 type: 
 hide_frontmatter: true
@@ -27,7 +33,7 @@ We wouldn’t have made it without everyone reading this email right now. So to 
 
 ![](assets/2021-in-review-20240312110136985.webp)
 
-### More room **for like-minded people**
+### More room for like-minded people
 As long as it's someone who is good at what they do and sees things the same way we do, then it's a yes - we’d love to have you here!
 
 Our people is our greatest asset. That's why most of our effort goes into hiring the right people, giving them our absolute support to grow with us.
@@ -73,6 +79,3 @@ That's just a small part in our backlog, we are going to try our hands at many d
 
 Onward and upward,
 Han & Nikki.
-
-—
-*P.S*: Want to be a part of the conversation? Come say hi @ our [**Discord**](http://discord.gg/dwarvesv).

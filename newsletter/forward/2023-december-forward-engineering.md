@@ -1,15 +1,9 @@
 ---
 tags:
-  - dwarves
-  - work
   - forward-engineering
   - labs
   - AI
-  - rust
-  - passwordless
-  - passkeys
   - LLM
-  - object-detection
 title: December Forward Engineering 2023
 date: 2023-01-19
 description: We have focused on revamping how we learn, familiarize, and work with tech. We are excited to announce that we have updated our Forward Engineering to better reflect the feedback and insights from our Labs team, Operations Team, and Consulting Team.
@@ -21,7 +15,7 @@ type: memo
 hide_frontmatter: false
 pinned: true
 ---
-**This** month, we have focused on revamping how we learn, familiarize, and work with tech. We are excited to announce that we have updated our Forward Engineering to better reflect the feedback and insights from our Labs team, Operations Team, and Consulting Team.
+**This month**, we have focused on revamping how we learn, familiarize, and work with tech. We are excited to announce that we have updated our Forward Engineering to better reflect the feedback and insights from our Labs team, Operations Team, and Consulting Team.
 
 This is to hopefully provide you with a more comprehensive publication that not only keeps you informed about the latest technologies and where they are applied, but also foster collaboration and innovation within our organization. We hope you find this edition of Forward Engineering informative and give you a better idea of what we’re doing. As always, we welcome your feedback and encourage you to share your thoughts on the content.
 

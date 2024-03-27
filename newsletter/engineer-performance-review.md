@@ -1,11 +1,17 @@
 ---
 tags: 
+- engineering
+- performance
+- newsletter
 title: Engineer Performance Review
 date: 2021-09-29
-description: 
+description: Here's another update from Dwarves for you. Throughout September, we have completed our bi-annual performance review.
 authors: 
-menu: 
-type: 
+- han
+- nikki
+- duy
+menu: memo
+type: newsletter
 hide_frontmatter: true
 pinned: 
 hide_title: false

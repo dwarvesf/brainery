@@ -1,11 +1,17 @@
 ---
 tags: 
+- updates
+- engineering
+- newsletter
 title: The path to growth at Dwarves
 date: 2021-10-31
-description: 
+description: It's Han and Nikki from Team Dwarves. We're here with the fifth edition of our Dwarves Updates. October has been a wild ride for us as a company. Most of our effort was spent on rethinking growth paths for our engineers.
 authors: 
-menu: 
-type: 
+- han
+- nikki
+- duy
+menu: memo
+type: newsletter
 hide_frontmatter: true
 pinned: 
 hide_title: false

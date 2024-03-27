@@ -1,11 +1,17 @@
 ---
 tags: 
+- newsletter
+- team
+- updates
 title: The future is blockchain and data
 date: 2022-06-26
-description: 
+description: Hey, it’s Han and Nikki in your inbox again.
 authors: 
-menu: 
-type: 
+- han
+- nikki
+- duy
+menu: memo
+type: newsletter
 hide_frontmatter: true
 pinned: 
 hide_title: false
@@ -88,7 +94,7 @@ With **Dwarves Sponsorship**, all contributors receive an appreciation reward fr
 
 We’re always looking to get better for our audience, if you have any feedback or any burning questions for us, hit reply and we’ll do our best.
 
-### Apprenticeship: the drawbacks and the treasure.
+### Apprenticeship: the drawbacks and the treasure
 We went from screening over 150 applications to accepting 7 software engineers for the program. After that, it’s all about training and guiding those 7 gems on one thing: [How to build software right](https://bit.ly/3QH3pm4).
 
 Over the span of 4 weeks, we facilitated 15 workshops, which were led by our senior engineers and also invited university professors. We ask for the apprentices’ feedback after every workshop. While the feedback looks generally good, there are drawbacks and we'd love to log them as lessons learned.
@@ -102,7 +108,7 @@ Onto the brighter side, our apprentices have been great listeners and doers, whi
 
 ![](assets/blockchain-and-data-20240312111132842.webp)
 
-### L**aunching home-like Dwarves Hubs in Danang and Dalat**
+### Launching home-like Dwarves Hubs in Danang and Dalat
 If you’re tired of being confined within your home office, here’s the good news. **Dwarves Hub in Danang and Dalat is open for everyone**. Think of it as a place where Dwarves and friends can work, hang out, and get to know one another.
 
 As Dwarves work from anywhere, these little hubs we build across the country serve the only purpose of offering our team a comfy remote experience when they need it.
