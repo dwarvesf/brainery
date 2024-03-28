@@ -26,7 +26,7 @@ pinned: true
 This is to hopefully provide you with a more comprehensive publication that not only keeps you informed about the latest technologies and where they are applied, but also foster collaboration and innovation within our organization. We hope you find this edition of Forward Engineering informative and give you a better idea of what we’re doing. As always, we welcome your feedback and encourage you to share your thoughts on the content.
 
 ## Tech Radar
-![](newsletter/forward/assets/december-forward-engineering.mp4)
+![](assets/forward-engineering-december-2023_december-forward-engineering.mp4)
 
 ### Rust
 ***Assess***
@@ -71,7 +71,7 @@ YOLOv8 is a state-of-the-art machine learning algorithm designed for object dete
 
 We've been applying YoloV8 as part of our effort in self-hosting AI models in the browser. One of our notable demos is object detection on reCaptcha and creating a basic flow to automate reCaptcha as a fun way to bypass captchas.
 
-![[Forward Engineering December 2023-20240119155936091.webp]]
+![](assets/forward-engineering-december-2023-20240119155936091.webp)
 
 ### Passkeys
 ***Assess***
@@ -90,7 +90,7 @@ Passkeys are a new type of login credential that allow users to access online ac
 
 Our team has been experimenting with passkeys to provide authentication alternatives for users. We believe there is a ton of convenience in using passkeys as it offers a quick way for users to authenticate themselves without passwords. We've demoed 2 similar implementations using WebAuthn.
 
-![[Forward Engineering December 2023-20240119160907180.webp]]
+![](assets/forward-engineering-december-2023-20240119160907180.webp)
 
 ### Building UI Library Practices
 ***Trial***
@@ -109,7 +109,7 @@ Working through these challenges has given us the opportunity to lay out and con
 In a recent collaborative discussion between key members of the Labs and Consulting teams, we’ve made decisive strides in pinpointing key topics and potential projects for development. Each topic is paired with specific challenges to ensure we engage deeply with the technology, understanding its practical applications. The focal point for the coming month is WebAssembly (WASM), alongside a range of exciting use-cases we plan to implement and demonstrate.
 
 ### Currently Researching
-![[Forward Engineering December 2023-20240126104209647.webp]]
+![](assets/forward-engineering-december-2023-20240126104209647.webp)
 
 | Research Topics         | Progress                                                                                                                                                                             | Next Step                                                                                                                                  |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
