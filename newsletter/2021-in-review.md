@@ -21,11 +21,11 @@ We wouldn’t have made it without everyone reading this email right now. So to 
 ### **2021 - a year of innovative reconstruction, dream collaborations and our journey to be better.**
 **In numbers**
 
-![](newsletter/assets/2021-in-review-20240312110121546.webp)
+![](assets/2021-in-review-20240312110121546.webp)
 
 **In timeline**
 
-![](newsletter/assets/2021-in-review-20240312110136985.webp)
+![](assets/2021-in-review-20240312110136985.webp)
 
 ### More room **for like-minded people**
 As long as it's someone who is good at what they do and sees things the same way we do, then it's a yes - we’d love to have you here!
@@ -67,7 +67,7 @@ As a profitable and fast-moving company, the possibilities ahead of us are limit
 
 That's just a small part in our backlog, we are going to try our hands at many different things.
 
-![](newsletter/assets/2021-in-review-20240312110210422.webp)
+![](assets/2021-in-review-20240312110210422.webp)
 
 **Here's to many more great products, meaningful partnerships and friendships, experiments and experiences, challenges and opportunities.**
 

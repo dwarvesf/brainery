@@ -9,7 +9,7 @@ menu: memo
 type: null
 hide_frontmatter: false
 ---
-![](consulting/case-study/assets/supercharged-setel-malaysias-first-pay-pump-go-super-app_85caa8bdd0121608f33b230e54fe563d_md5.webp)
+![](assets/supercharged-setel-malaysias-first-pay-pump-go-super-app_85caa8bdd0121608f33b230e54fe563d_md5.webp)
 
 ### In brief
 * First introduced by PETRONAS in 2018, Setel is the first e-payment solution for fuel purchases directly from mobile devices.
@@ -27,7 +27,7 @@ Setel moves toward one goal: **Making refuel experience frictionless**, which de
 * **Motorists**: Setel supports a refueling process on their daily experience. 
 * **Business**: Setel provides them approaches to engage with customers while automating the cash flow.
 * **Developers**: With Setel, developers can work with different things, from API integration to mini app deployment. 
-![](consulting/case-study/assets/supercharged-setel-malaysias-first-pay-pump-go-super-app_ccd01facaa7b07ae954700b20a360ad1_md5.webp)
+![](assets/supercharged-setel-malaysias-first-pay-pump-go-super-app_ccd01facaa7b07ae954700b20a360ad1_md5.webp)
 
 We help build up a place where users can interact and personalize their experience with **Setel Website** and **Gifts Campaign**.
 
@@ -51,4 +51,4 @@ Daily communication happens in Slack, while we pick Jira for sprint tracking and
 ### **Outcome**
 Through months of partnership, we're glad to ship out **The Food Bank Programme**: A community-support initiative by Petronas Station Business Partners and the communities to provide essential items at selected Petronas stations nationwide. 
 
-![](consulting/case-study/assets/supercharged-setel-malaysias-first-pay-pump-go-super-app_ac414946573baa1c8baa276992a535d4_md5.webp)
+![](assets/supercharged-setel-malaysias-first-pay-pump-go-super-app_ac414946573baa1c8baa276992a535d4_md5.webp)

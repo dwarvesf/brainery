@@ -11,7 +11,7 @@ type: null
 hide_frontmatter: false
 ---
 
-![](consulting/case-study/assets/building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_b1d2f4d32b1a3a8f8085bf8a5aebe92f_md5.webp)
+![](assets/building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_b1d2f4d32b1a3a8f8085bf8a5aebe92f_md5.webp)
 
 ### In brief
 * AirWatt is an IoT solution that integrates and monitors electricity usage using AI/ML. 
@@ -33,7 +33,7 @@ AirWatt is designed for quick installation and constant improvement. Hence, it s
 AI utilizes data to figure out which device is on or off. We must create analytics dashboard with tracking mechanism. 
 
 The problem is hard to solve, yet, it's worthwhile and improved all the time.
-![](consulting/case-study/assets/building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_cce56122290dff1fee0a827b148f1e41_md5.webp)
+![](assets/building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_cce56122290dff1fee0a827b148f1e41_md5.webp)
 
 They have the capability to handle hardware production and Machine learning. But they face obstacle in building the MVP to visualize and nurture all the data structure. That's where we dive in to help, as technical partner and venture builder. 
 
@@ -51,7 +51,7 @@ AirWatt's system is taken with 4 aspects to meet its business demand
 AirWatt processes a huge data volume at the same time. We build the architecture with two focus points: CRUD data and IoT data. 
 
 All data must be synced to the AI system in real-time. AirWatt faces ~ 17,280 records per device every day. Going microservice is the ideal solution. 
-![](consulting/case-study/assets/building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_c91a49d28d91773c00b3165feaaa9319_md5.webp)
+![](assets/building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_c91a49d28d91773c00b3165feaaa9319_md5.webp)
 * Airwatt System: The core domain to manage device's life cycle.
 * Landing Page: Features solutions and pre-order for AirWatt's services.
 * Admin Panel: Administrative dashboard for AirWatt to access and update data. 
@@ -85,7 +85,7 @@ We use smart config integration with ESP2866 as wifi protocol. This requires man
 * Development: Figma, Git/Github, Insomnia, K9s
 * Practices: Agile, Gitflow, CI/CD, Code Review, Automation
 
-![](consulting/case-study/assets/building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_8d005fd066a63c376836e9440523ee69_md5.webp)
+![](assets/building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_8d005fd066a63c376836e9440523ee69_md5.webp)
 
 ### Outcome
 After three months, we have accomplished the MVP development stage with necessary modules:
@@ -94,8 +94,8 @@ After three months, we have accomplished the MVP development stage with necessar
 * Native mobile apps on [iOS](https://apps.apple.com/us/app/airwatt/id1522009415) and [Android](https://play.google.com/store/apps/details?id=com.dwarvesf.airwatt) platform
 * End-to-end system design that handles data from monitor devices to the central server, processed with AI/ML and visualize the nurtured data on cross-platform apps.
 * Eye-catching & detailed data report
-![](consulting/case-study/assets/building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_98ff38b1521894691a908557706aedcc_md5.webp)
+![](assets/building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_98ff38b1521894691a908557706aedcc_md5.webp)
 
 **Airwatt** has successfully made its way to the problem-solution fit stage. And event marked itself at [Vietnam Zone Startup](https://vietnam.zonestartups.com/zone-startups-portfolio/). The next milestone customizing the web app for a specific domain: FnB. A spinoff to the energy monitor solution for FnB is Airwatt's nearest goal. 
 ![[cce56122290dff1fee0a827b148f1e41_MD5.webp]]
-![](consulting/case-study/assets/building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_c371c2899128501e8f1ae7b28e17fa72_md5.webp)
+![](assets/building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_c371c2899128501e8f1ae7b28e17fa72_md5.webp)

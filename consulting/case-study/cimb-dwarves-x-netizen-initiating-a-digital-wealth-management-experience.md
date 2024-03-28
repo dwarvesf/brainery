@@ -11,7 +11,7 @@ hide_frontmatter: false
 author: Huy Tieu
 ---
 
-![](consulting/case-study/assets/cimb-dwarves-x-netizen-initiating-a-digital-wealth-management-experience_2fa7fc70c8f1608d99e6ae08dad2b952_md5.webp)
+![](assets/cimb-dwarves-x-netizen-initiating-a-digital-wealth-management-experience_2fa7fc70c8f1608d99e6ae08dad2b952_md5.webp)
 <!-- table_of_contents cd4ef05d-487b-4bd9-be49-7d247e47bc94 -->
 **Industry**
 Fintech

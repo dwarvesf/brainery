@@ -69,12 +69,12 @@ This has reflected in our Brainery, where we see much more concise writing from 
 ### <span style='color:green'>Trending Tags</span>
 A summary of some trending tags we see in our Brainery. These tags represent what things our contributors are actively thinking about and researching. For this month, we still see a strong focus on frontend, but we also see trending tags related to backend and DevOps with more focus on foundational topics such as API, state management, and algorithms.
 
-![](newsletter/forward/assets/forward-engineering-march-2023_6e1ba482fa7dd25d9da74f9114333197_md5.webp)
+![](assets/forward-engineering-march-2023_6e1ba482fa7dd25d9da74f9114333197_md5.webp)
 
 ### <span style='color:green'>**Top Contributors and Notes**</span>Every month, we collect a list of top contributors, those who have contributed knowledge to our Brainery for this month. We consolidate our writer’s articles with their GitHub account at our Brainery’s [Latest Notes](https://brain.d.foundation/Latest+Notes).
 
 We also make sure to give recognition on our [Discord](discord.gg/dwarvesv) server, so be sure to catch up with us there!
-![](newsletter/forward/assets/forward-engineering-march-2023_b3fb572286808f5d94e7fea27d48c68e_md5.webp)
+![](assets/forward-engineering-march-2023_b3fb572286808f5d94e7fea27d48c68e_md5.webp)
 
 * [leduyhien152](https://github.com/leduyhien152) - [When should we use useReducer instead of useState?](https://brain.d.foundation/Engineering/Frontend/When+should+we+use+useReducer+instead+of+useState%3F)
 * [mirageruler](https://github.com/mirageruler) - [GraphQL in microservices - Unified API gateway](https://brain.d.foundation/Engineering/Backend/GraphQL+in+microservices+-+Unified+API+gateway)
@@ -136,7 +136,7 @@ We’ve held our Software Design research group for just over a year. This month
 
 [Dwarves Rewind](https://www.linkedin.com/newsletters/dwarves-rewind-6963734647327375360/) is a reading list serving as a collection of news we aggregate weekly. Tech is a very high-paced industry, and rewind helps to serve as a curated list of trending and high-profile topics that everyone can look back on.
 
-![](newsletter/forward/assets/forward-engineering-march-2023_a466f7386392e5af7d8836ff803f1472_md5.webp)
+![](assets/forward-engineering-march-2023_a466f7386392e5af7d8836ff803f1472_md5.webp)
 
 ### <span style='color:green'>Trending and Hot Topics</span>
 Artificial intelligence is still a very trending and hot topic, especially with the advent of GPT-4 and Microsoft’s aggression on integrating AI tech. Some of the trending topics this month are:

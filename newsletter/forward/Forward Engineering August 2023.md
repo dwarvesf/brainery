@@ -69,14 +69,14 @@ In parallel with the AI-centric discussions, we have also seen increased explora
 
 The tags for August include: `#backend` `#test-cases` `#best-practices` `#golang` and many others:
 
-![](newsletter/forward/assets/forward-engineering-august-2023_6ee23ade19901e6c8634676424d18388_md5.webp)
+![](assets/forward-engineering-august-2023_6ee23ade19901e6c8634676424d18388_md5.webp)
 
 ### **Top Contributors and Notes**Our community continues to thrive due to the collective effort of our talented contributors. 
 
 Each month, we acknowledge their contributions in our Brainery's **[Latest Notes](https://brain.d.foundation/Latest+Notes)** section, linking their GitHub accounts for further reference.
 
 We also value and encourage our community's interaction on our **[Discord](https://chat.openai.com/discord.gg/dwarvesv)** server. It's a great space to stay updated, engage in lively discussions, and catch up on the latest from us. Be sure to join us there!
-![](newsletter/forward/assets/forward-engineering-august-2023_e5dccd4a857f77f41f71cc744a916605_md5.webp)
+![](assets/forward-engineering-august-2023_e5dccd4a857f77f41f71cc744a916605_md5.webp)
 
 Here are some noteworthy articles that were shared in our Brainery during August:
 
@@ -117,7 +117,7 @@ This month, our Software Design Research Group is getting a bit of a revamp. The
 
 Key discussions this month included:
 * **Using AI to help augment System Design** - We used ChatGPT to help us event storm a warehouse inventory application which was then used to generate prompts to create AI diagram templates on Draw.io.
-![](newsletter/forward/assets/forward-engineering-august-2023_982514c306a616ecbd5c4451112ec201_md5.webp)
+![](assets/forward-engineering-august-2023_982514c306a616ecbd5c4451112ec201_md5.webp)
 * **Exploring animations with Motion Canvas and Remotion** - We take an introductory look into 2 libraries to help us programmatically create animations for algorithms and system design, making the topic more accessible for our engineers across domains. Shoutout to [NGs-Hjodra](https://www.youtube.com/@NGs-Hjodra) for his open-source work and examples on Motion Canvas.
 ![](insertion_sort.mp4)
 
@@ -128,18 +128,18 @@ These insights continue to broaden our understanding of both traditional and eme
 
 [Dwarves Rewind](https://www.linkedin.com/newsletters/dwarves-rewind-6963734647327375360/) is a reading list serving as a collection of news we aggregate weekly. Tech is a very high-paced industry, and rewind helps to serve as a curated list of trending and high-profile topics that everyone can look back on.
 
-![](newsletter/forward/assets/forward-engineering-august-2023_7d72b4327ffbaf2595178ba126a3d16a_md5.webp)
+![](assets/forward-engineering-august-2023_7d72b4327ffbaf2595178ba126a3d16a_md5.webp)
 
 ### <span style='color:green'>Trending and Hot Topics</span>
 This month, our engineers have been on top of topics related to full stack and DevOps testing, such Test Doubles, Failure Management in Go, Testing AWS services with LocalStack, and using Mock Service Worker (MSW) for web development. This month also includes research journeys with LLMs and a few others:
 * **[Product and Platform Engineers](https://leerob.io/blog/product-engineers)**** - **The changing landscape of frontend and backend engineering and the emergence of product and platform engineers. Frontend developers are now building entire web applications, while backend developers are faced with the choice of supporting frontend code or focusing on infrastructure.
-![](newsletter/forward/assets/forward-engineering-august-2023_297808eb5b9e65cd393bf16028f5ea4d_md5.webp)
+![](assets/forward-engineering-august-2023_297808eb5b9e65cd393bf16028f5ea4d_md5.webp)
 * **[An Engineering Story Map for LLMs (by Tom Nguyen)](https://dwarvesf.hashnode.dev/an-engineering-story-map-for-llms)**** - **This story map aims to help engineers learn how to investigate and create AI applications like chatbots, code automation, personal assistants, and LLMs like ChatGPT and LLaMA.
-![](newsletter/forward/assets/forward-engineering-august-2023_1780847ec8d1a39bed3a7f562fd5a9a4_md5.webp)
+![](assets/forward-engineering-august-2023_1780847ec8d1a39bed3a7f562fd5a9a4_md5.webp)
 * **[Open challenges in LLM research (Huyen Chip)](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html)** - [Chip Huyen](https://www.linkedin.com/in/chiphuyen?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAIQAJQBE3ykLNnsOPVvxwuuVCOir2zAjOQ) has discussed some of the open challenges in LLMs research, crucial for improving the performance and applicability of these models.
-![](newsletter/forward/assets/forward-engineering-august-2023_86c0a3ea4d4cdf5b9d0a359a22942fa0_md5.webp)
+![](assets/forward-engineering-august-2023_86c0a3ea4d4cdf5b9d0a359a22942fa0_md5.webp)
 * **[How to Build a Globally Distributed, Multi-Region Identity and Access Platform with Go](https://www.ory.sh/global-identity-and-access-management-multi-region/)**** **- Organizations are given the ability to effectively manage user identification and authorization on a worldwide scale by global identity and access management (IAM).
-![](newsletter/forward/assets/forward-engineering-august-2023_ffd18682180d9335dbe0ac7418727372_md5.webp)
+![](assets/forward-engineering-august-2023_ffd18682180d9335dbe0ac7418727372_md5.webp)
 
 ---
 

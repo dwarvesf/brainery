@@ -15,7 +15,7 @@ type: null
 hide_frontmatter: false
 ---
 
-![](changelog/assets/2022-dwarves-summit-engineering-a-good-time_50d7ea1e7a9652013fd0cecdd7596784_md5.webp)
+![](assets/2022-dwarves-summit-engineering-a-good-time_50d7ea1e7a9652013fd0cecdd7596784_md5.webp)
 
 ## Dwarves Summit 2022: Engineering a good time
 We don’t treat team bonding the common way, because we understand our engineers. Most of our engineers don’t want running and getting sweaty on the beach for “team-building” activities, or pretending to smile in front of the travel agent’s camera.
@@ -54,7 +54,7 @@ We’ve been active in a few communities, such as the Golang community, Webuild,
 **[Startup.vn](https://startup.vn/)**
 **[Golang Vietnam](http://golang.org.vn/)**
 
-![](changelog/assets/2022-dwarves-summit-engineering-a-good-time_ab82e6f138a7241ca9a6c1de222d1e46_md5.webp)
+![](assets/2022-dwarves-summit-engineering-a-good-time_ab82e6f138a7241ca9a6c1de222d1e46_md5.webp)
 Most especially, Dwarves Discord Network where every techie can join to hang out and learn has grown to 600+ members.
 
 We’ve seen various tech-focused channels and events for the community,  as well as ways for everyone  [learn and earn](https://earn.d.foundation/). 
@@ -69,17 +69,17 @@ We’ve seen various tech-focused channels and events for the community,  as wel
 ## Company Trip Summit 2022
 Since we’re engineers, we know it would be more fun to create apps and games as a way to bond as a company outside physical activities. It was definitely a challenge to organize the games for everyone, but we certainly had a blast.
 
-![](changelog/assets/2022-dwarves-summit-engineering-a-good-time_66146aaca24382630125b7a70713cbbc_md5.webp)
+![](assets/2022-dwarves-summit-engineering-a-good-time_66146aaca24382630125b7a70713cbbc_md5.webp)
 
 It was all for 3 things: the games, the drinks, and the prizes. A total reward of **150,000,000 VND** (~$**6,000**) was distributed into 4 original engineering styled games:
 
 ### Treasure Hunt
-![](changelog/assets/2022-dwarves-summit-engineering-a-good-time_f78cb4d5fd1925ce0559a5b36bc5675f_md5.webp)
+![](assets/2022-dwarves-summit-engineering-a-good-time_f78cb4d5fd1925ce0559a5b36bc5675f_md5.webp)
 A location-based scavenger hunt where we took pictures of proof at locations along with answering questions in our custom-made web app. 
 
 Whoever answers the most questions, wins the hunt.
 
-![](changelog/assets/2022-dwarves-summit-engineering-a-good-time_1ad6a2ad398abe7041cee20a627dc685_md5.webp)
+![](assets/2022-dwarves-summit-engineering-a-good-time_1ad6a2ad398abe7041cee20a627dc685_md5.webp)
 
 ### Road to Olymwibu
 A 4-team game where teams choose multiple choice questions to answer across a range of topics to acquire points. Teams are also able to attack, steal, and double-down on points.
@@ -88,10 +88,10 @@ Teams who answer incorrectly would have to drink 🍺.🍺..
 
 Whichever team has the most points wins the round.
 
-![](changelog/assets/2022-dwarves-summit-engineering-a-good-time_51be085fcfb86c123446d15a3155c0e7_md5.webp)
+![](assets/2022-dwarves-summit-engineering-a-good-time_51be085fcfb86c123446d15a3155c0e7_md5.webp)
 
 ### Hunger Games
-![](changelog/assets/2022-dwarves-summit-engineering-a-good-time_133221cf791f0d75a493e92a8571d763_md5.webp)
+![](assets/2022-dwarves-summit-engineering-a-good-time_133221cf791f0d75a493e92a8571d763_md5.webp)
 A global turn-based 4-team 12x12 grid game played on a real-time web application to collect points scatted across the grid.
 
 Teams who encountered a fruit would gain points. Those who encountered a bomb would have to drink 🍺. Whichever team has the most points wins the round.
@@ -101,7 +101,7 @@ A writing game to XOR decrypt a hexadecimal message to ASCII with an ASCII key.
 
 The message must be relayed through hand signs, with no devices or prepared items allowed for use to decrypt the message. 
 
-![](changelog/assets/2022-dwarves-summit-engineering-a-good-time_cb8ef0a8d44685b07d5a41daea52ed8c_md5.webp)
+![](assets/2022-dwarves-summit-engineering-a-good-time_cb8ef0a8d44685b07d5a41daea52ed8c_md5.webp)
 
 The encrypted message and key given to the teams at the start of the game:
 
@@ -118,7 +118,7 @@ The expected output after decrypting the message in ASCII:
 
 We took the opportunity to just drink and have fun, as well as help teams earn a bit for their efforts. We’ve also certainly enjoyed our stay in Phu Quoc as well. Our team had fun swimming near the coast, enjoying food, riding rides at the water park, and everything to explore at Phu Quoc.
 
-![](changelog/assets/2022-dwarves-summit-engineering-a-good-time_3b0c68bef924599e58947f20cdf3a765_md5.webp)
+![](assets/2022-dwarves-summit-engineering-a-good-time_3b0c68bef924599e58947f20cdf3a765_md5.webp)
 
 ## Look forward to Dwarves Summit 2023
 

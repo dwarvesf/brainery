@@ -27,7 +27,7 @@ Increase the operational efficiency and profitability of breweries with a flexib
 **Our Service:** 
 Product Consulting, Staff Augmentation
 
-![](consulting/case-study/assets/konvoy-x-dwarves_9dc23633d853a046448b04fd5b43f189_md5.webp)
+![](assets/konvoy-x-dwarves_9dc23633d853a046448b04fd5b43f189_md5.webp)
 
 ### In brief
 **[Konvoy](http://konvoykegs.com/)**, a pioneering force in the keg management industry, first surfaced in Australia and New Zealand in October 2019. By October 2020, the company had integrated Keg Services into its framework, enhancing its cutting-edge, tech-based keg solutions with stellar service and deep industry expertise. Konvoy caters to the unique needs of breweries by offering both short-term rentals and long-term leasing options.
@@ -59,6 +59,6 @@ The strategic collaboration between **Dwarves Foundation** and **Konvoy** has re
 * A major revamp of the Admin Dashboard, leading to a more user-friendly, visually appealing, and intuitive interface.
 * Dramatic speed enhancements in fetching keg history location and routes, reducing latency response time from tens of seconds to mere seconds – an improvement largely credited to Brad, the leader of the engineering team.
 
-![](consulting/case-study/assets/konvoy-x-dwarves_82158455a3c4433253d356e1b4a3accb_md5.webp)
+![](assets/konvoy-x-dwarves_82158455a3c4433253d356e1b4a3accb_md5.webp)
 
 Dwarves Foundation is a team of design and development experts working closely with clients to craft software, build tech teams, and invest in people who create world's next favorite things.

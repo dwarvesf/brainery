@@ -31,7 +31,7 @@ The technical audit goes top-down from checking if the overall system architectu
 
 The other part is the management audit, where we focus on not our engineers' performance but also how well aware they are of the software they build and the business they build it for.
 
-![](newsletter/assets/project-compliance-20240312105356342.webp)
+![](assets/project-compliance-20240312105356342.webp)
 
 ### **Lesson learned**
 While we didn't detect any major technical issues that may seriously harm a project, we found intriguing what we found out during the management audit.

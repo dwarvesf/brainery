@@ -21,7 +21,7 @@ We also have the GitHub version at *[dwarvesf/radar/vol-03](https://github.com/d
 ### [k6](https://github.com/dwarvesf/radar/blob/master/vol-03/k6.md)
 *[https://k6.io/](https://k6.io/)*
 
-![](newsletter/forward/assets/dwarves-tech-radar-volume-03_4d92977a7295c51f3e0fdd3d3966aedd_md5.webp)
+![](assets/dwarves-tech-radar-volume-03_4d92977a7295c51f3e0fdd3d3966aedd_md5.webp)
 
 Open-sourced load testing tool to verify the system's loading tolerance. By applying k6, developers can measure the limited amount of requests that the system can handle.
 
@@ -57,7 +57,7 @@ Acts as a Kubernetes controller which continuously monitors running applications
 ### **[Webflow and Bubble.io](https://github.com/dwarvesf/radar/blob/master/vol-03/nocode.md)**
 We did bring up [Webflow](https://webflow.com/) in the previous version and applied it in [KiwiPay](https://kiwipay.webflow.io/) - marking our first attempt in no-code development. Succeeding this, we used Webflow to finetune the website of [ATVPro](https://atvpro.webflow.io/)
 
-![](newsletter/forward/assets/dwarves-tech-radar-volume-03_178bf3e1958cd514ccb99d9a3b4ce3bf_md5.webp)
+![](assets/dwarves-tech-radar-volume-03_178bf3e1958cd514ccb99d9a3b4ce3bf_md5.webp)
 
 Aiming for a more complex tool, we dived in [bubble](https://bubble.io/) - a no-code tool with the same concept. After using it for one of our design projects, we realize it somehow refrains developers from learning and adjusting the code. Meanwhile, it requires a deeper level of code and database, making it hard for designers to pick up. That leaves us with hitting a pause on bubble, and sticking with Webflow for our future projects.
 

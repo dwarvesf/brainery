@@ -10,7 +10,7 @@ type: null
 hide_frontmatter: false
 ---
 
-![](consulting/case-study/assets/succeed-naru---a-browser-focus-web-extension-for-us-market_555ddca0569a9215693380803968f618_md5.webp)
+![](assets/succeed-naru---a-browser-focus-web-extension-for-us-market_555ddca0569a9215693380803968f618_md5.webp)
 
 ### In brief
 * Being a digital designer who looks for inspiration and digital trends, Matt hopes for a productivity tool that could lend well to his browsing habit. 
@@ -29,11 +29,11 @@ Naru's goal is to supercharge user workflows on web browsers.
 An enhanced version of to-do list - but acts as a widget within user's browser.
 ⚛️ Keeping the open state for the task board across tabs is the highest priority. Naru must boost the productivity.
 
-![](consulting/case-study/assets/succeed-naru---a-browser-focus-web-extension-for-us-market_d927454304f52e14ce05b4f4775a89e9_md5.webp)
+![](assets/succeed-naru---a-browser-focus-web-extension-for-us-market_d927454304f52e14ce05b4f4775a89e9_md5.webp)
 
 ### Engagement Model
 Making a web extension behaves like an application (says Trello) is nontrivial. A web extension work by attach and execute) its own `<script>` tag to the current web page. After that, it boot up with a UI for user interaction.
-![](consulting/case-study/assets/succeed-naru---a-browser-focus-web-extension-for-us-market_b3b2601850f4c0d06180f0d42d3816b3_md5.webp)
+![](assets/succeed-naru---a-browser-focus-web-extension-for-us-market_b3b2601850f4c0d06180f0d42d3816b3_md5.webp)
 
 **Collaboration**
 Matt resides in the U.S. It's 11 hours away from us. He had to stay up at 9pm and we woke up at 8am for our daily catchup. We quickly realize such a schedule won't work in the long run. 
@@ -48,7 +48,7 @@ It leads us to 2 todo "list": "Icebox" and "Client feedback". This drives a sens
 The team meet up twice a week to go through the lists, modify each item to structured software requirements, and propose for clarification. 
 
 Once those requirements became new features. We either put to future sprints or the backlog
-![](consulting/case-study/assets/succeed-naru---a-browser-focus-web-extension-for-us-market_0016a11ceee95f0f80f645246100a0b8_md5.webp)
+![](assets/succeed-naru---a-browser-focus-web-extension-for-us-market_0016a11ceee95f0f80f645246100a0b8_md5.webp)
 
 **Release-schedule**
 * Prerelease (sideload version) every Monday morning: This gives us a week ahead to test the release. 
@@ -70,8 +70,8 @@ Once those requirements became new features. We either put to future sprints or 
 After 3 months, the very first stable version of [Naru.app](https://naru.app/) hit the web store - indicating our very first success in web extension development. 
 
 Moving forward, we head for advanced features: team collaboration, team space and activity dashboard.
-![](consulting/case-study/assets/succeed-naru---a-browser-focus-web-extension-for-us-market_42abd565f445828e197f8b58e17be8a4_md5.webp)
+![](assets/succeed-naru---a-browser-focus-web-extension-for-us-market_42abd565f445828e197f8b58e17be8a4_md5.webp)
 
 It's going to be a busy and an exciting year. Currently, the beta-user is getting invited through [Typeform](https://naruappco.typeform.com/to/d3hurf). 
-![](consulting/case-study/assets/succeed-naru---a-browser-focus-web-extension-for-us-market_95c4277285ac856be64d891725268ffc_md5.webp)
-![](consulting/case-study/assets/succeed-naru---a-browser-focus-web-extension-for-us-market_49443ea95a730330e9dd0485aa00dc97_md5.webp)
+![](assets/succeed-naru---a-browser-focus-web-extension-for-us-market_95c4277285ac856be64d891725268ffc_md5.webp)
+![](assets/succeed-naru---a-browser-focus-web-extension-for-us-market_49443ea95a730330e9dd0485aa00dc97_md5.webp)

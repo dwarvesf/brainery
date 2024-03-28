@@ -43,9 +43,9 @@ If there's one amongst the things we stay proud of, is that whenever the situati
 
 The latest stats on our current referral bonus & the top leaderboard. A huge thanks to Huy Nguyen & Khoi Le for helping making this happened. 
 
-![](changelog/assets/road-to-100_95d0da92d70d9f9296c5f6272250ad6f_md5.webp)
+![](assets/road-to-100_95d0da92d70d9f9296c5f6272250ad6f_md5.webp)
 
-![](changelog/assets/road-to-100_8a7a01a12a0d02bfbc4ea9dc305d68e1_md5.webp)
+![](assets/road-to-100_8a7a01a12a0d02bfbc4ea9dc305d68e1_md5.webp)
 
 ## Grow a better squad
 Tempted to put your name in the dashboard?

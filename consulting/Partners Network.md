@@ -28,7 +28,7 @@ We seek for Partners, individuals and companies likewise, to develop a co-creati
 
 With our average deal size at $30,000, a partner can generate at least $2,400 per project. Commission is paid from project start, every month until project end.
 
-![](consulting/assets/partners-network-20240307180157820.webp)
+![](assets/partners-network-20240307180157820.webp)
 
 ## Partner perks
 
@@ -99,7 +99,7 @@ We are looking for techies who are passionate about technology and hungry for ne
 
 ## Dwarves Profile
 
-![](consulting/assets/partners-network-20240307180601073.webp)
+![](assets/partners-network-20240307180601073.webp)
 
 ### Dwarves build and ship top-notch software
 
@@ -131,7 +131,7 @@ We prioritize creating the right product that brings tangible business values, r
 - Offices in Vietnam, Canada, Germany
 <!-- /col-2 #2 -->
 
-![](consulting/assets/partners-network-20240307180712977.webp)
+![](assets/partners-network-20240307180712977.webp)
 
 ---
 
@@ -241,7 +241,7 @@ We only deploy engineers who meet your requirements and tech stack.
 
 > 🤝 Our clients are any organization that puts tech at great importance for their growth; ranging from funded startups looking to get their MVP to market fast, to enterprises looking for a tech partner to scale their products.
 
-![](consulting/assets/partners-network-20240307181320820.webp)
+![](assets/partners-network-20240307181320820.webp)
 
 ---
 
