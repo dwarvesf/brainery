@@ -16,20 +16,3 @@ _reference/
 
 # ignore any base files
 _base.md
-
-playground/LICENSE
-playground/*.*
-playground/**/*.md
-playground/Market/*
-playground/Engineering/*.md
-playground/Engineering/**/*.md
-playground/Engineering/Data/**/*.md
-!playground/Engineering/Data/MapReduce.md
-!playground/Engineering/Data/Quick Learning Vector Database.md
-!playground/Engineering/Data/Data Pipeline Design Framework.md
-!playground/Engineering/Data/assets/*.png
-!playground/_memo/how-to-set-up-environment-for-editing-memo.md
-!playground/_memo/assets/*.png
-<!-- playbook/ -->
-<!-- handbook/ -->
-<!-- changelog/ -->
