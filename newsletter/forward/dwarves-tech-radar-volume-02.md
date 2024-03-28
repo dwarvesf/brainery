@@ -22,7 +22,7 @@ A repeatable syntax builds to untangle the debugging process between the local e
 
 We applied it on Voconic, our complex on-going project about Cloud platform, to fully utilize the benefit. Earthly executes targets in parallel and makes our pipelines run much faster.
 
-![](assets/dwarves-tech-radar-volume-02_ecb87e89c8fcfad298cc445cb3c4c76b_md5.webp)
+![](newsletter/forward/assets/dwarves-tech-radar-volume-02_ecb87e89c8fcfad298cc445cb3c4c76b_md5.webp)
 
 ## Assess
 ### Webflow: Build visual canvas without coding techniques
@@ -32,7 +32,7 @@ At some point, we figure the development phase might take more time and resource
 
 Duy P, our UI designer, approached this with KiwiPay: [https://kiwipay.webflow.io/](https://kiwipay.webflow.io/)
 
-![](assets/dwarves-tech-radar-volume-02_3306d8d315bae18a20786c33778c2b25_md5.webp)
+![](newsletter/forward/assets/dwarves-tech-radar-volume-02_3306d8d315bae18a20786c33778c2b25_md5.webp)
 
 Besides the outstanding points: Sharing for multiple collaborators, easy working flow, codebases can be exported easily in HTML/ CSS & JSON data, Webflow still has its downside. The no-code mechanism prevents Webflow from performing complex animation, i.e., generates a limitation in the animated web. Furthermore, unstable responsiveness and errors in image display are things Webflow needs to work on.
 
@@ -49,5 +49,5 @@ One of our engineers started to work on Volta - a hassle-free approach to manage
 
 We tried out CState as our monitoring service, but CState requires low level setup at infrastructure level and therefore not suitable for our bootstrapping kit. Upptime, on the other hand, only requires a simple Github repository and a config file to get it started. We gave Upptime a twist, and rolled out our version at [stt.daf.ug](http://stt.daf.ug/).
 
-![](assets/dwarves-tech-radar-volume-02_3b5bb41a5a96a78fadb9fef60f1d0c24_md5.webp)
+![](newsletter/forward/assets/dwarves-tech-radar-volume-02_3b5bb41a5a96a78fadb9fef60f1d0c24_md5.webp)
 

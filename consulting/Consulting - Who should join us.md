@@ -19,7 +19,7 @@ hide_title: false
 
 When assessing new members, we have a few qualities that we look for. Those qualities can be something that you have already possess, or can be something you are growing toward.
 
-![](assets/consulting---who-should-join-us-20231221144422875.webp)
+![](consulting/assets/consulting---who-should-join-us-20231221144422875.webp)
 
 ## To become a consultant, you can/want to:
 ### Tech proficiency
@@ -50,4 +50,4 @@ When assessing new members, we have a few qualities that we look for. Those qual
 - spread the knowledge of our team
 
 ## Member Journey
-![](assets/consulting---who-should-join-us-20231221144430130.webp)
+![](consulting/assets/consulting---who-should-join-us-20231221144430130.webp)

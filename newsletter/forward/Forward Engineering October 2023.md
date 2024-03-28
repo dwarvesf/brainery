@@ -42,7 +42,7 @@ This month has been the month of trying out new and existing tech. We’ve been 
 
   
 
-![](assets/forward-engineering-october-2023_october-forward-engineering.mp4)
+![](newsletter/forward/assets/forward-engineering-october-2023_october-forward-engineering.mp4)
 
   
 
@@ -179,7 +179,7 @@ As we persist in our R&D voyage, we endeavor to remain at the forefront of tech 
 
   
 
-![](assets/forward-engineering-october-2023_untitled.webp)
+![](newsletter/forward/assets/forward-engineering-october-2023_untitled.webp)
 
   
 
@@ -187,7 +187,7 @@ As we persist in our R&D voyage, we endeavor to remain at the forefront of tech 
 
   
 
-![](assets/forward-engineering-october-2023_untitled-1.webp)
+![](newsletter/forward/assets/forward-engineering-october-2023_untitled-1.webp)
 
   
 

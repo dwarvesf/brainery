@@ -32,4 +32,4 @@ I wish everyone health and prosperity in the new year. Good luck to us all as we
 
 *From Dwarves with <3*
 
-![](assets/2023-happy_1e89b732d608e54d1edb7239b5c5c692_md5.webp)
+![](changelog/assets/2023-happy_1e89b732d608e54d1edb7239b5c5c692_md5.webp)

@@ -18,7 +18,7 @@ It is the first time we sit down and do it in written form. It's a bit hard for 
 
 Besides volume 01, we have an opportunity to sort out our current technology index and put it at<span style='color:pink_background'> </span><span style='color:pink_background'>[https://d.foundation/radar](https://d.foundation/radar)</span><span style='color:pink_background'>.</span> And for this edition, the theme is to get the whole team used to the concept of a central knowledge base—every study to expand our view to the tech scene counts. The design team also has a place to contribute and discuss their practices.
 
-![](assets/dwarves-tech-radar-volume-01_d6ad0adba1f212243cbd321a44cc2e53_md5.webp)
+![](newsletter/forward/assets/dwarves-tech-radar-volume-01_d6ad0adba1f212243cbd321a44cc2e53_md5.webp)
 
 Let us walk you through the first Volume.
 

@@ -41,7 +41,7 @@ Highlights will be summarized and shared through Memo to those who want to keep 
 
 Feels more like listening? Pay a visit to **[Dwarves Youtube](http://www.youtube.com/channel/UC_SyzGLf6wiqctQFsRI_frw)** for every streaming.
 
-![](assets/2022-may-all-hands-meeting_68bd765a75c1591b2074d672d1d123e5_md5.webp)
+![](changelog/assets/2022-may-all-hands-meeting_68bd765a75c1591b2074d672d1d123e5_md5.webp)
 
 ## TEAM
 ### Dalat Office
@@ -49,9 +49,9 @@ As in the last update, the office is set for you to visit, but more update is st
 
 The balcony was also retouched. And hear us out, standing desks will be a thing for this work hub.
 
-![](assets/2022-may-all-hands-meeting_946b29130bc76f1374d606747319db5a_md5.webp)
-![](assets/2022-may-all-hands-meeting_1c48a97cb9d7384b03048e4718d98744_md5.webp)
-![](assets/2022-may-all-hands-meeting_c8dfb110e429e31cac8a2066dfb56046_md5.webp)
+![](changelog/assets/2022-may-all-hands-meeting_946b29130bc76f1374d606747319db5a_md5.webp)
+![](changelog/assets/2022-may-all-hands-meeting_1c48a97cb9d7384b03048e4718d98744_md5.webp)
+![](changelog/assets/2022-may-all-hands-meeting_c8dfb110e429e31cac8a2066dfb56046_md5.webp)
 
 ## COMING UP NEXT
 We’re moving with the industry. The current trend has been revolving around blockchain. You may hear some Dwarves have dipped their toes into blockchain work in the partnership with Spike Inu, Nghe Nhan Trading, MStation, or Pod Town. 

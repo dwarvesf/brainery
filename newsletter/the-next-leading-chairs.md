@@ -30,7 +30,7 @@ For these current and upcoming triumphs, it’s an honor for me to call for a sm
 
 To step up means to diversify the way we run.
 
-![](assets/the-next-leading-chairs_4d913fb4cbfac771e8b55d79a1855b46_md5.webp)
+![](newsletter/assets/the-next-leading-chairs_4d913fb4cbfac771e8b55d79a1855b46_md5.webp)
 
 ## <span style='color:red'>INTRODUCING THE LEADING CHAIRS</span>
 We like the idea of labeling teams by what they deliver. Hence, the next chapter of Dwarves will be based on five angles.
@@ -43,4 +43,4 @@ We like the idea of labeling teams by what they deliver. Hence, the next chapter
 
 My best of applause to have these rising elements for the next phase of Dwarves.
 
-![](assets/the-next-leading-chairs_0b2a2535fa84512ad9d05bd2dc24f3ae_md5.webp)
+![](newsletter/assets/the-next-leading-chairs_0b2a2535fa84512ad9d05bd2dc24f3ae_md5.webp)

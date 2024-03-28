@@ -100,7 +100,7 @@ These problems are rather small, but we’ll vow to fix them and improve ourselv
 
 Onto the brighter side, our apprentices have been great listeners and doers, which significantly influences their mentors. We treasure that. We can't express how fulfilling it is to see individuals, whom we were in their shoes once, begin to take their first step in creating an impact in society, and of course - our workplace.
 
-![](assets/blockchain-and-data-20240312111132842.webp)
+![](newsletter/assets/blockchain-and-data-20240312111132842.webp)
 
 ### L**aunching home-like Dwarves Hubs in Danang and Dalat**
 If you’re tired of being confined within your home office, here’s the good news. **Dwarves Hub in Danang and Dalat is open for everyone**. Think of it as a place where Dwarves and friends can work, hang out, and get to know one another.

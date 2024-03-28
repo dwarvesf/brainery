@@ -24,7 +24,7 @@ As a company, we want people to grow and go with us for a long time, so it's our
 ### Redefined engineering career ladder
 Every company has a career ladder, not all companies actually make use of it. We have to admit, as we get busy with the increasing amount of projects, we did overlook the importance of the engineering career ladder. It's time we took it seriously again.
 
-![](assets/path-to-growth-20240312104656449.webp)
+![](newsletter/assets/path-to-growth-20240312104656449.webp)
 
 This career ladder is applied to everyone within the company. We sit down with engineers, define their desired growth path, then design an action plan for it.
 - Junior or mid engineers know what is expected to reach the senior level.
@@ -39,7 +39,7 @@ We are currently training a good number of engineers at Dwarves on consulting. T
 Learning a new technology is always exciting for our engineers. It's even better when they can do so as a group. We form teams within our team to learn new tech and make stuff with it. We keep tabs on tech trends and make decisions on which tech to invest in based on its potential to impact the future.
 
 Our latest bet is on blockchain, Metaverse, AI & ML. Our blockchain-focused team has been producing some great products, including [Cyber Neko](https://www.notion.so/e54d9ca7641c45699a38ee89bc937703?pvs=21), [LFW](https://www.notion.so/e54d9ca7641c45699a38ee89bc937703?pvs=21)
-![](assets/path-to-growth-20240312105235592.webp)
+![](newsletter/assets/path-to-growth-20240312105235592.webp)
 
 ### Screen projects more carefully
 Dwarves is at a stage where we have the chance to get involved in different kinds of projects. Good project decisions can bring us to a new high and stimulate engineers to develop.
