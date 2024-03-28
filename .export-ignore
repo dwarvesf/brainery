@@ -1,3 +1,9 @@
+# ignore git related stuff
+.git*
+
+# ignore this file
+.export-ignore
+
 # ignore any obsidian templates
 _templates/
 _templater/
