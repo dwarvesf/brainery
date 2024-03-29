@@ -50,11 +50,11 @@ Once our work is approved, we have a **literature note** ready for sharing with 
 - Workshop, tech event or radio talk with related experts/organizations to widen perspectives on the topic.
 - Social and newsletter promotion (optional).
 
-![[lifecycle-of-a-publication-20240329170000789.webp]]
+![](assets/lifecycle-of-a-publication-20240329170000789.webp)
 
-![[lifecycle-of-a-publication-20240329170011754.webp]]
+![](assets/lifecycle-of-a-publication-20240329170011754.webp)
 
-![[lifecycle-of-a-publication-20240329170018092.webp]]
+![](assets/lifecycle-of-a-publication-20240329170018092.webp)
 ## Talk to our audience
 Here is when we know if our content is actually effective for the intended audience. At this stage, it is very important to engage with our audience and people who are interested in our work. Listen to what they have to say, make ways for them to discuss, ask questions and provide feedback to us.
 
