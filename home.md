@@ -49,4 +49,5 @@ View our list of amazing people who have contributed to our notes: [[contributor
 {{% featured-posts %}}
 
 ## Open positions
-- [[hiring/open-positions/marketing-and-communications-specialist.md|Marketing and Communications Specialist]]
+- [[careers/open-positions/marketing-and-communications-specialist.md|Marketing and Communications Specialist]]
+- [[careers/open-positions/technical-writer.md|Technical Writer]]
