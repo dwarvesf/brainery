@@ -15,7 +15,7 @@ aliases:
 
 | duy                                                                                                        | contact |
 | ---------------------------------------------------------------------------------------------------------- | ------- |
-| ![avatar\|100x100](https://cdn.discordapp.com/avatars/788351441097195520/b5799a413a532ba4fbdcc53fcca65693) | \-      |
+| ![](assets/duy_b5799a413a532ba4fbdcc53fcca65693.webp) | \-      |
 
 ## Contributed Notes
 

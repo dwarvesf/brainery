@@ -16,7 +16,7 @@ aliases:
 
 | hnh                                                                                                        | contact                       |
 | ---------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| ![avatar\|100x100](https://cdn.discordapp.com/avatars/567326528216760320/608ffce140ad8830f6e2308763c7a127) | https://github.com/huynguyenh |
+| ![](assets/hnh_608ffce140ad8830f6e2308763c7a127.webp) | https://github.com/huynguyenh |
 
 ## Contributed Notes
 

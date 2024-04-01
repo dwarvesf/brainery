@@ -20,7 +20,7 @@ aliases:
 
 | han                                                                                                          | contact                                                                                                |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| ![avatar\|100x100](https://cdn.discordapp.com/avatars/151497832853929986/a_5d05b5a57ec0dfbc2e06ff82420ab1fb) | https://twitter.com/abaddeed<br>https://bsky.app/profile/han.bsky.social<br>https://github.com/tieubao |
+| ![](assets/han_a_5d05b5a57ec0dfbc2e06ff82420ab1fb.gif) | https://twitter.com/abaddeed<br>https://bsky.app/profile/han.bsky.social<br>https://github.com/tieubao |
 
 ## Contributed Notes
 

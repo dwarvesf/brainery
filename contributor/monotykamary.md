@@ -17,7 +17,7 @@ aliases:
 
 | monotykamary                                                                                               | contact                                                                        |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| ![avatar\|100x100](https://cdn.discordapp.com/avatars/184354519726030850/52f29f100864cb28552e935aaa4ad7f0) | https://www.linkedin.com/in/nguyenxuananh/<br>https://twitter.com/monotykamary |
+| ![](assets/monotykamary_52f29f100864cb28552e935aaa4ad7f0.webp) | https://www.linkedin.com/in/nguyenxuananh/<br>https://twitter.com/monotykamary |
 
 ## Contributed Notes
 

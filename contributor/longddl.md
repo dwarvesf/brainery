@@ -17,7 +17,7 @@ aliases:
 
 | longddl                                                                                                     | contact                                                                                                          |
 | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| ![avatar\|100x100](https://cdn.discordapp.com/avatars/1157659003527106630/211766094de8ebfa08e49216f0710d5a) | https://longdatadevlog.wordpress.com/<br>https://blogs.longdatadevlog.com/blog/<br>https://github.com/longbuivan |
+| ![](assets/longddl_211766094de8ebfa08e49216f0710d5a.webp) | https://longdatadevlog.wordpress.com/<br>https://blogs.longdatadevlog.com/blog/<br>https://github.com/longbuivan |
 
 ## Contributed Notes
 

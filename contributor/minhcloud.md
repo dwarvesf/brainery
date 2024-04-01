@@ -16,7 +16,7 @@ aliases:
 
 | minhcloud                                                                                                   | contact                      |
 | ----------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| ![avatar\|100x100](https://cdn.discordapp.com/avatars/1007496699511570503/ecf51b8fe204d894b1ef5328983cfd31) | https://github.com/minhcloud |
+| ![](assets/minhcloud_ecf51b8fe204d894b1ef5328983cfd31.webp) | https://github.com/minhcloud |
 
 ## Contributed Notes
 

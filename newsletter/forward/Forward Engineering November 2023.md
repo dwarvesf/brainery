@@ -25,7 +25,7 @@ featured: true
 This is to hopefully provide you with a more comprehensive publication that not only keeps you informed about the latest technologies and where they are applied, but also foster collaboration and innovation within our organization. We hope you find this edition of Forward Engineering informative and give you a better idea of what we’re doing. As always, we welcome your feedback and encourage you to share your thoughts on the content.
 
 ## Tech Radar
-![](assets/forward-engineering-november-2023_8e1ba07a614cb4250d5cb2d80f208379_md5.mp4)
+![](assets/forward-engineering-november-2023_8e1ba07a614cb4250d5cb2d80f208379_md5_compressed.mp4)
 
 ### Rust
 ***Assess***

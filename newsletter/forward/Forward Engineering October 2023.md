@@ -42,7 +42,7 @@ This month has been the month of trying out new and existing tech. We’ve been 
 
   
 
-![](assets/forward-engineering-october-2023_october-forward-engineering.mp4)
+![](assets/forward-engineering-october-2023_october-forward-engineering_compressed.mp4)
 
   
 

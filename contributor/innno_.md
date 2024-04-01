@@ -17,7 +17,7 @@ aliases:
 
 | innno_                                                                                                     | contact                        |
 | ---------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| ![avatar\|100x100](https://cdn.discordapp.com/avatars/753995829559165044/8b291f806142f1191cdaac2ae993a819) | https://github.com/innnotruong |
+| ![](assets/innno__8b291f806142f1191cdaac2ae993a819.webp) | https://github.com/innnotruong |
 
 ## Contributed Notes
 

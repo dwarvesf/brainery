@@ -119,7 +119,7 @@ Key discussions this month included:
 * **Using AI to help augment System Design** - We used ChatGPT to help us event storm a warehouse inventory application which was then used to generate prompts to create AI diagram templates on Draw.io.
 ![](assets/forward-engineering-august-2023_982514c306a616ecbd5c4451112ec201_md5.webp)
 * **Exploring animations with Motion Canvas and Remotion** - We take an introductory look into 2 libraries to help us programmatically create animations for algorithms and system design, making the topic more accessible for our engineers across domains. Shoutout to [NGs-Hjodra](https://www.youtube.com/@NGs-Hjodra) for his open-source work and examples on Motion Canvas.
-![](assets/forward-engineering-august-2023_insertion_sort.mp4)
+![](assets/forward-engineering-august-2023_insertion_sort_compressed.mp4)
 
 These insights continue to broaden our understanding of both traditional and emerging software design concepts, equipping us to better tackle real-world challenges.
 

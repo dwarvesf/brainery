@@ -18,7 +18,7 @@ aliases:
 
 | thanh                                                                                                                | contact                       |
 | -------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| ![avatar\|100x100](https://cdn.discordapp.com/avatars/790170208228212766/2eb726f8baa632a90eb7600fabd804d8?size=1024) | https://github.com/zlatanpham |
+| ![](assets/thanh_2eb726f8baa632a90eb7600fabd804d8.webp) | https://github.com/zlatanpham |
 
 ## Contributed Notes
 

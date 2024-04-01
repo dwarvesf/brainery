@@ -16,7 +16,7 @@ aliases:
 
 | nikki                                                                                                      | contact                      |
 | ---------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| ![avatar\|100x100](https://cdn.discordapp.com/avatars/796991130184187944/38fb62c883ac41d5781bda6b6c1142a8) | https://github.com/nikkingtr |
+| ![](assets/nikki_38fb62c883ac41d5781bda6b6c1142a8.webp) | https://github.com/nikkingtr |
 
 ## Contributed Notes
 

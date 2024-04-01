@@ -126,7 +126,7 @@ Images
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
-    ![](assets/common-component_information_flow.png)
+    ![](assets/common-component_information_flow.webp)
 
 3. Close the file.
 
@@ -203,7 +203,7 @@ Reference-style:
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
-![](assets/common-component_8539fc2364a6deb0d63e6fa6bd60aaf0_md5.png)
+![](assets/common-component_8539fc2364a6deb0d63e6fa6bd60aaf0_md5.webp)
 ![[assets/common-component/d45f91af580deb773c11b9fea4eabd4c_MD5.png|"The Stormtroopocat"]]
 
 Like links, Images also have a footnote style syntax
