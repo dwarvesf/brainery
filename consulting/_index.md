@@ -62,8 +62,7 @@ Team members' effort is rewarded base on the weight of their contributions. The 
 - [[consulting/Consulting - Who we are.md|Consulting - Who We Are]] - nikki
 - [[consulting/Consulting - Who should join us.md|Consulting - Who should join us]] - nikki
 - [[consulting/Consulting - How we work.md|Consulting - How we work]] - nikki
-- [[consulting/case-study/konvoy-x-dwarves.md|Konvoy X Dwarves]] - \-
-- [[consulting/case-study/cimb-dwarves-x-netizen-initiating-a-digital-wealth-management-experience.md|Cimb Dwarves X Netizen Initiating A Digital Wealth Management Experience]] - \-
-- [[consulting/case-study/a-case-study-interview-into-micro-frontends-building-design-system-for-e-commerce-platform.md|A Case Study Interview Into Micro Frontends Building Design System For E Commerce Platform]] - \-
-- [[consulting/case-study/open-fabric-set-the-tech-foundation-and-built-an-mvp-from-scratch.md|Open Fabric Set The Tech Foundation And Built An Mvp From Scratch]] - \-
-
+- [[consulting/case-study/konvoy-x-dwarves.md|Konvoy X Dwarves]]
+- [[consulting/case-study/cimb-dwarves-x-netizen-initiating-a-digital-wealth-management-experience.md|Cimb Dwarves X Netizen Initiating A Digital Wealth Management Experience]]
+- [[consulting/case-study/a-case-study-interview-into-micro-frontends-building-design-system-for-e-commerce-platform.md|A Case Study Interview Into Micro Frontends Building Design System For E Commerce Platform]]
+- [[consulting/case-study/open-fabric-set-the-tech-foundation-and-built-an-mvp-from-scratch.md|Open Fabric Set The Tech Foundation And Built An Mvp From Scratch]]
