@@ -19,7 +19,7 @@ hide_title: false
 - **[Reporting Tech Signals](#reporting-tech-signals)** - Latest findings on Serverless Computing, AI & ML, FinOps and CyberSecurity
 - **[Research Topics 2024](#research-topics-2024)** - 40 topics on the most promising technologies.
 - **[Dwarves' Reward System](#dwarves-reward-system)** - Developing our community reward system
-- **[Calling for Partners](#calling-for-partners)** - One of the rare event where Dwarves and community members gather.
+- **[Calling for Partners](#partner-network)** - One of the rare event where Dwarves and community members gather.
 
 ## Reporting tech signals
 Every month we watch tech trends closely to depict which ones have high potential, and can be part of our growing tech stack.
