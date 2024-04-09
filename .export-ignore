@@ -7,6 +7,7 @@
 # ignore any obsidian templates
 _templates/
 _templater/
+_reports/
 
 # ignore reference images or files
 _reference/
