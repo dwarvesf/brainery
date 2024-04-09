@@ -39,7 +39,7 @@ So, how about you? What do you stand for?
 [Jump right into the conversation](https://discord.com/channels/462663954813157376/1214231226282418228/1224942206280929310). And if you've got something worth sharing, we're all ears. 
 
 ### What’s around you?
-Paid [#random](https://discord.com/channels/462663954813157376/788084358991970337/1225783749988319252), [#lobby](https://discord.com/channels/462663954813157376/907727610417655898/1225767773708222566) channel a visit - where we love sharing our daily things, stories and having fun with peeps. You'll always find something interesting going on here. It's like catching up with friends in a cozy virtual hangout spot and a dose of good vibes. 
+Pay [#random](https://discord.com/channels/462663954813157376/788084358991970337/1225783749988319252), [#lobby](https://discord.com/channels/462663954813157376/907727610417655898/1225767773708222566) channel a visit - where we love sharing our daily things, stories and having fun with peeps. You'll always find something interesting going on here. It's like catching up with friends in a cozy virtual hangout spot and a dose of good vibes. 
 
 Has anyone heard from @bien lately? Hope he's doing alright. And @vincent, did you hear about his plans for his next trip in Europe this summer? Man, I'm already jealous just thinking about it.
 
