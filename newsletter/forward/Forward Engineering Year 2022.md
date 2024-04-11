@@ -41,7 +41,7 @@ Not only that, but we also believe that every employee has something to teach ot
 
 We were surprised to see that our knowledge graph has grown into something substantial, and we’re excited to see what everyone will be learning in 2023.
 <p><div class="res_emb_block">
-<iframe width="640" height="480" src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2265ade6-4381-4806-81f6-74108cc39540/Brainery_Graph_1.mov?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20231031%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20231031T202158Z&X-Amz-Expires=3600&X-Amz-Signature=6da6f20f444337af9d94d13abaeb4451cb4f5b6652e2b9c47d13993e2f2de1c7&X-Amz-SignedHeaders=host&x-id=GetObject" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="480" src="" frameborder="0" allowfullscreen></iframe>
 </div></p>
 
 ### <span style='color:green'>Trending Tags</span>

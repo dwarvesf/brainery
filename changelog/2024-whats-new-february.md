@@ -16,10 +16,10 @@ pinned: true
 hide_title: false
 ---
 
-- **[[#Reporting tech signals]]** - Latest findings on Serverless Computing, AI & ML, FinOps and CyberSecurity
-- **[[#Research Topics 2024]]** - 40 topics on the most promising technologies.
-- **[[#Dwarves' Reward System]]** - Developing our community reward system
-- **[[#Calling for Partners]]** - One of the rare event where Dwarves and community members gather.
+- **[Reporting Tech Signals](#reporting-tech-signals)** - Latest findings on Serverless Computing, AI & ML, FinOps and CyberSecurity
+- **[Research Topics 2024](#research-topics-2024)** - 40 topics on the most promising technologies.
+- **[Dwarves' Reward System](#dwarves-reward-system)** - Developing our community reward system
+- **[Calling for Partners](#partner-network)** - One of the rare event where Dwarves and community members gather.
 
 ## Reporting tech signals
 Every month we watch tech trends closely to depict which ones have high potential, and can be part of our growing tech stack.
@@ -42,7 +42,7 @@ Being able to solve problems using the latest, coolest technologies has always b
 - All Dwarves' members are required to participate in research activities.
 - Each topic will be a bounty item led by our senior members.
 
-![[whats-new-february-2024-20240308101849109.webp|500]]
+![](assets/2024-whats-new-february_whats-new-february-2024-20240308101849109.webp)
 
 A handful of community members has expressed interest in joining hands. Of course, we're happy to have everyone onboard. However, we will need to assess each contributor's skills and experience first for quality purpose.
 
@@ -55,14 +55,14 @@ ICYMI, ICY is Dwarves' very own token used to reward both team members and commu
 
 Our reward system is currently being developed. You can look forward to it!
 
-![[whats-new-february-2024-20240308101902325.webp|500]]
+![](assets/2024-whats-new-february_whats-new-february-2024-20240308101902325.webp 's=90')
 
 ## Monthly top performers
 Each month we track how productive and valuable each of our team members by using delivery points. The top 5 high-performing members get rewards with $ICY. 
 
 In February, kudos to those peeps who outperformed the rest: Chinh Le, Hai Huynh, Khac Vy, Tai Pham, Tay Nguyen!
 
-![[whats-new-february-2024-20240308101913942.webp|300]]
+![](assets/2024-whats-new-february_whats-new-february-2024-20240308101913942.webp 's=90')
 
 ## Partner Network
 We are always seeking for business development partners, individuals and companies likewise, to develop a co-creation system driven by mutual purposes and interests.
