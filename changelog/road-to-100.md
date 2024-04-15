@@ -6,9 +6,9 @@ title: Road To 100
 date: 2022-08-26
 description: null
 authors:
-- Han 🐸
-- nikki 
-- duy
+  - Han 🐸
+  - nikki 
+  - duy
 menu: memo
 type: null
 hide_frontmatter: false
