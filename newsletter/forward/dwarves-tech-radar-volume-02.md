@@ -1,18 +1,19 @@
 ---
 tags: 
   - radar
+  - forward-engineering
+  - technology
 title: Dwarves Tech Radar Volume 02
 date: 2021-01-14
-description: null
-authors: null
+description: Dwarves Tech Radar v2 contains the practices to simplify the workflow, new techniques/ approach methods to upgrade our current standards and expand the domain knowledge.
+authors: 
+- duy
 menu: memo
 type: null
 hide_frontmatter: false
 ---
 
----
-
-Once every month, we gather for Radar update to round up the cool techs and assess if we should adopt that to the team. Road to a wider and more diversified rings, Dwarves Tech Radar v2 contains the practices to <span style='color:pink_background'>**simplify the workflow**</span>, new techniques/ approach methods to <span style='color:pink_background'>**upgrade our current standards**</span><span style='color:pink_background'>,</span> and <span style='color:pink_background'>**expand the domain knowledge. **</span>
+Once every month, we gather for Radar update to round up the cool techs and assess if we should adopt that to the team. Road to a wider and more diversified rings, Dwarves Tech Radar v2 contains the practices to **simplify the workflow**, new techniques/ approach methods to **upgrade our current standards** and **expand the domain knowledge.** 
 
 ## Trial
 ### Earthly: The combination Dockerfile + Makefile
@@ -50,4 +51,3 @@ One of our engineers started to work on Volta - a hassle-free approach to manage
 We tried out CState as our monitoring service, but CState requires low level setup at infrastructure level and therefore not suitable for our bootstrapping kit. Upptime, on the other hand, only requires a simple Github repository and a config file to get it started. We gave Upptime a twist, and rolled out our version at [stt.daf.ug](http://stt.daf.ug/).
 
 ![](assets/dwarves-tech-radar-volume-02_3b5bb41a5a96a78fadb9fef60f1d0c24_md5.webp)
-

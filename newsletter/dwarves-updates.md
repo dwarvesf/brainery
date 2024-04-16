@@ -1,11 +1,17 @@
 ---
 tags: 
+- hiring
+- newsletter
+- updates
 title: Dwarves Updates
 date: 2021-06-10
-description: 
+description: Hi, this is Han, the CEO of Dwarves Foundation. This month the Dwarves score 40th client that we have the honor to serve. And for that, we decide to launch the Dwarves Updates.
 authors: 
-menu: 
-type: 
+- han
+- nikki
+- duy
+menu: memo
+type: newsletter
 hide_frontmatter: true
 pinned: 
 hide_title: false

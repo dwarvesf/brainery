@@ -1,11 +1,17 @@
 ---
 tags: 
+- project
+- updates
+- newsletter
 title: Project Compliance
 date: 2021-08-23
-description: 
+description: This email is the third month we share about our journey to Software Craftsmanship.
 authors: 
-menu: 
-type: 
+- han
+- nikki
+- duy
+menu: memo
+type: newsletter
 hide_frontmatter: true
 pinned: 
 hide_title: false

@@ -1,11 +1,17 @@
 ---
 tags: 
+- updates
+- newsletter
+- career
 title: Engineering organizational structure
 date: 2021-12-01
-description: 
+description: It's Han and Nikki from Team Dwarves. We're almost at the end of this year. While we know everyone is busy wrapping up 2021, we hope you're taking care of yourself and staying safe.
 authors: 
-menu: 
-type: 
+- han
+- duy
+- nikki
+menu: memo
+type: newsletter
 hide_frontmatter: true
 pinned: 
 hide_title: false
@@ -37,7 +43,6 @@ People in our network can be granted flight tickets to these offices too, just s
 Danang office is looking good.
 
 **Making a name for ourselves in web 3.0 space**
-
 Last month alone, we received 8 requests for partnership in building Web 3.0 products, and a dozen people reaching out for our knowledge and advice.
 
 If you read our previous issue, you would already know how we screen for new projects during high demand, so we're not gonna talk about that again. We just want to share the good signal, and hope we get to work with you on something in web 3.0 soon. Or if you have friends looking to build something in this space, we'd completely appreciate an into :)
@@ -45,7 +50,6 @@ If you read our previous issue, you would already know how we screen for new pro
 FYI, as we want to drive focus on Web 3.0 without confusing people with our other services, we have a separate website for it [here](https://console.so).
 
 **Foster community, help others win, and get cool perks in the process**
-
 - Opening our Discord channel for the public. [**Join in the conversation**](https://discord.gg/dzNBpNTVEZ) if you haven't, there are a lot of useful stuff going around.
 - Sponsoring multiple tech events in Vietnam. Vietnam is the starting point, we're excited to connect with tech talents anywhere, not just Vietnam.
 - Public weekly training and knowledge sharing (on Discord too).

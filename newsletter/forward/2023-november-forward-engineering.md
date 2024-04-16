@@ -1,13 +1,9 @@
 ---
 tags:
-  - dwarves
   - forward-engineering
   - labs
-  - duckdb
   - AI
-  - rust
-  - ui-practices
-  - passwordless
+  - performance
 title: November Forward Engineering 2023
 date: 2023-11-30
 description: We have focused on revamping how we learn, familiarize, and work with tech. We are excited to announce that we have updated our Forward Engineering to better reflect the feedback and insights from our Labs team, Operations Team, and Consulting Team.
@@ -20,12 +16,12 @@ hide_frontmatter: false
 pinned: true
 featured: true
 ---
-**This** month, we have focused on revamping how we learn, familiarize, and work with tech. We are excited to announce that we have updated our Forward Engineering to better reflect the feedback and insights from our Labs team, Operations Team, and Consulting Team.
+**This month**, we have focused on revamping how we learn, familiarize, and work with tech. We are excited to announce that we have updated our Forward Engineering to better reflect the feedback and insights from our Labs team, Operations Team, and Consulting Team.
 
 This is to hopefully provide you with a more comprehensive publication that not only keeps you informed about the latest technologies and where they are applied, but also foster collaboration and innovation within our organization. We hope you find this edition of Forward Engineering informative and give you a better idea of what we’re doing. As always, we welcome your feedback and encourage you to share your thoughts on the content.
 
 ## Tech Radar
-![](assets/forward-engineering-november-2023_8e1ba07a614cb4250d5cb2d80f208379_md5_compressed.mp4)
+![](assets/2023-november-forward-engineering_forward-engineering-november-2023_8e1ba07a614cb4250d5cb2d80f208379_md5_compressed.mp4)
 
 ### Rust
 ***Assess***
@@ -66,7 +62,7 @@ DuckDB is an in-process database management system designed for analytical query
 
 DuckDB is fast and has great data analysis capabilities, optimized for aggregations, joins, and complex queries on large datasets. It is free, well-tested, and stable, offering comparable performance to specialized OLAP databases while being easier to deploy.
 
-![](assets/forward-engineering-november-2023_november-forward-engineering-2023-20231130164855761.webp)
+![](assets/2023-november-forward-engineering_forward-engineering-november-2023_november-forward-engineering-2023-20231130164855761.webp)
 
 ### Parallel Processing
 _***Trial***_
@@ -81,7 +77,7 @@ Parallel processing is a computing technique that enables multiple streams of ca
 
 We’ve also recently demoed the benefits of parallel processing in one of our DuckDB demos, that includes processing in parallel dozens of parquet files over HTTPFS (150mb each) and using a map-reduce style to output a taxi trip visual report in seconds.
 
-![](assets/forward-engineering-november-2023_november-forward-engineering-2023-20231130165019170.webp)
+![](assets/2023-november-forward-engineering_forward-engineering-november-2023_november-forward-engineering-2023-20231130165019170.webp)
 
 ## Labs Roadmap
 In a recent collaborative discussion between key members of the Labs and Consulting teams, we’ve made decisive strides in pinpointing key topics and potential projects for development. Each topic is paired with specific challenges to ensure we engage deeply with the technology, understanding its practical applications. The focal point for the coming month is WebAssembly (WASM), alongside a range of exciting use-cases we plan to implement and demonstrate.
@@ -127,7 +123,7 @@ Thanh Pham has written about Mochi UI, which likely refers to a set of UI design
 - [[mochi-ui|Build mochi-ui]]
 
 ## Dwarves Rewind - Discord Community
-![](assets/forward-engineering-november-2023_november-forward-engineering-2023-20231130165200911.webp)
+![](assets/2023-november-forward-engineering_forward-engineering-november-2023_november-forward-engineering-2023-20231130165200911.webp)
 
 Dwarves Rewind this month will be a collection of tech interests we see happening in our Discord community. Along with our labs roadmap, the community have also shown more interest in WASM and optimizing performance for web development use cases. Some of the programming languages, tools and frameworks discussed this month are:
 

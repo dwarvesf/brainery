@@ -1,11 +1,17 @@
 ---
 tags: 
+- hiring
+- newsletter
+- updates
 title: The stages of hiring at Dwarves
 date: 2022-03-31
-description: 
-authors: 
-menu: 
-type: 
+description: In today’s edition, job interviews need a makeover, the 4 stages of hiring at Dwarves, Dwarves apprenticeship 2022, other talking points
+authors:
+- han
+- nikki
+- duy 
+menu: memo
+type: newsletter
 hide_frontmatter: true
 pinned: 
 hide_title: false
@@ -87,8 +93,8 @@ If you seek to take a turn in software with a dynamic workplace, to work alongsi
 - [Program Details](https://careers.d.foundation/apprenticeship-2022)
 - [Application Form](https://form.typeform.com/to/LfCWfoml)
 
-### Other talking points:
-[**Dwarves Discord](http://discord.gg/dwarvesv) server hits 300 members recently.**
+### Other talking points
+[**Dwarves Discord**](http://discord.gg/dwarvesv) server hits 300 members recently.
 
 - Catching up with the tech peeps who are not (yet) part of our company, is quite cool. Even if our paths can't cross now, we're grateful to have them around for random chats & knowledge sharing.
 - More people are showing up during our Monday Radio Talk. The latest Radio Talk on [Serverless Architecture](https://www.youtube.com/watch?v=x9aBcOzirwg) was definitely a heat debate.
@@ -99,7 +105,7 @@ If you seek to take a turn in software with a dynamic workplace, to work alongsi
 - [Engage & Earn](https://discord.com/channels/462663954813157376/915941020968046612/948468732731199538) is our system of recognizing people who put in the effort to share knowledge.
 - Both Brainery and Engage & Earn are open for everyone to join.
 
-**Dalat Chalet is coming very soon.**
+**Dalat Chalet is coming very soon**
 
 - While every other company opens offices in Ha Noi or Da Nang because those locations are IT hotspots, we’re ramping up the last final steps of our Dalat Chalet because we’re already 100% remote.
 - It’s going to be a home away from home: to stay, to work, to eat, to drink, to sightsee, to chill, to bond.

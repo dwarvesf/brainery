@@ -1,10 +1,13 @@
 ---
 tags: 
   - radar
+  - forward-engineering
+  - technology
 title: Dwarves Tech Radar Volume 03
 date: 2021-04-29
-description: null
-authors: null
+description: "In short, this 3rd volume is all about one thing: Trial"
+authors:
+- duy
 menu: memo
 type: null
 hide_frontmatter: false
@@ -14,10 +17,9 @@ We started [the 1st volume](https://github.com/dwarvesf/radar/tree/master/vol-01
 
 And here we go again, another version of tech radar at Dwarves Foundation. 2021 has just gone through its first quarter, and we've left with some new toys to trial and see if they create any impact. In short, this 3rd volume is all about one thing: **Trial**.
 
-We also have the GitHub version at *[dwarvesf/radar/vol-03](https://github.com/dwarvesf/radar/tree/master/vol-03)**.*
+We also have the GitHub version at **[dwarvesf/radar/vol-03](https://github.com/dwarvesf/radar/tree/master/vol-03)**.
 
-# Testing
-
+## Testing
 ### [k6](https://github.com/dwarvesf/radar/blob/master/vol-03/k6.md)
 *[https://k6.io/](https://k6.io/)*
 
@@ -60,4 +62,3 @@ We did bring up [Webflow](https://webflow.com/) in the previous version and ap
 ![](assets/dwarves-tech-radar-volume-03_178bf3e1958cd514ccb99d9a3b4ce3bf_md5.webp)
 
 Aiming for a more complex tool, we dived in [bubble](https://bubble.io/) - a no-code tool with the same concept. After using it for one of our design projects, we realize it somehow refrains developers from learning and adjusting the code. Meanwhile, it requires a deeper level of code and database, making it hard for designers to pick up. That leaves us with hitting a pause on bubble, and sticking with Webflow for our future projects.
-
