@@ -1,7 +1,8 @@
 ---
 tags: 
-  - dwarves
-  - team
+  - updates
+  - newsletter
+  - blockchain
 title: December All Hands Meeting
 date: 2022-01-06
 description: null

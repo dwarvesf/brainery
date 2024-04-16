@@ -3,7 +3,7 @@ tags:
   - newsletter
   - updates
   - blockchain
-title: January Updates
+title: January 2022 Updates
 date: 2022-01-28
 description: null
 authors: 
@@ -69,3 +69,4 @@ Happy the year of Tiger. Let’s rock 2022 together
 
 ![](assets/2022-january-updates_bd881f2df5fc45b3831edf17c1ceef53_md5.webp)
 
+![[bd881f2df5fc45b3831edf17c1ceef53_MD5.webp]]
