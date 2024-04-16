@@ -12,6 +12,7 @@ menu: memo
 type: null
 hide_frontmatter: false
 ---
+
 ## Foundation
 ### Project Allocation
 We concluded the partnership with Relay and Eklipse. It has been a fun (and wild) ride for some of you. New resources are being allocated to help balance the current workload of active projects. If you need to discuss your workload or seek more room for project work, please ping Giang or Nikki.
@@ -41,7 +42,7 @@ Highlights will be summarized and shared through Memo to those who want to keep 
 
 Feels more like listening? Pay a visit to **[Dwarves Youtube](http://www.youtube.com/channel/UC_SyzGLf6wiqctQFsRI_frw)** for every streaming.
 
-![[68bd765a75c1591b2074d672d1d123e5_MD5.webp]]
+![radiotalk](assets/2022-whats-new-may_2022-may-all-hands-meeting_68bd765a75c1591b2074d672d1d123e5_md5.webp)
 
 ## Team
 ### Dalat Office
@@ -49,9 +50,11 @@ As in the last update, the office is set for you to visit, but more updates are 
 
 The balcony was also retouched. And hear us out, standing desks will be a thing in this work hub.
 
-![[946b29130bc76f1374d606747319db5a_MD5.webp]]
-![[1c48a97cb9d7384b03048e4718d98744_MD5.webp]]
-![[c8dfb110e429e31cac8a2066dfb56046_MD5.webp]]
+![dalat](assets/2022-whats-new-may_2022-may-all-hands-meeting_946b29130bc76f1374d606747319db5a_md5.webp)
+
+![dalat](assets/2022-whats-new-may_2022-may-all-hands-meeting_c8dfb110e429e31cac8a2066dfb56046_md5.webp)
+
+![dalat](assets/2022-whats-new-may_2022-may-all-hands-meeting_1c48a97cb9d7384b03048e4718d98744_md5.webp)
 
 ## Coming up next
 We’re moving with the industry. The current trend has been revolving around blockchain. You may hear some Dwarves have dipped their toes into blockchain work in partnerships with Spike Inu, Nghe Nhan Trading, MStation, or Pod Town.

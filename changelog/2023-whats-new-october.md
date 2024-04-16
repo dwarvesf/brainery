@@ -20,11 +20,11 @@ hide_frontmatter: false
 
 Each month, we release a recap noting all the significant changes in our company and our team. October's highlights include:
 
-- [[#note.d.foundation]] - The wiki of how we work, learn, and operate the team at Dwarves.
-- [[#New functional teams]] - A single core team expands into 5 functional teams for better delivery.
-- [[#MMA-based career development]] - Mastery, Meaning, Autonomy allow us transparency in what we do and ways to provide growth paths for everyone based on their interests.
-- [[#Frontend Course 2023]] - Our free FE Course is successfully finished with a fun demo day.
-- [[#Wrapping up Droppii]] - We completed our mission of helping Droppii build up their tech foundation and products.
+- **[note.d.foundation](#notedfoundation)** - The wiki of how we work, learn, and operate the team at Dwarves.
+- **[New functional teams](#new-functional-teams)** - A single core team expands into 5 functional teams for better delivery.
+- **[MMA-based career development](#mma-based-career-development)** - Mastery, Meaning, Autonomy allow us transparency in what we do and ways to provide growth paths for everyone based on their interests.
+- **[Frontend Course 2023](#frontend-course-2023)** - Our free FE Course is successfully finished with a fun demo day.
+- **[Wrapping up Droppii](#wrapping-up-droppii)** - We completed our mission of helping Droppii build up their tech foundation and products.
 
 ## State of Dwarves
 For a tech team like Dwarves, there are only a few things that matter. Coming to the end of the year, we're reflecting and re-enforcing what matters to us.

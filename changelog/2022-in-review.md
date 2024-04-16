@@ -45,9 +45,10 @@ After its launch, the R&B has completed the first challenge: **Feature Flags**
 Feature Flags tackled a concern spanning across our DevOps, Management, and Engineering domains.
 
 * **Feature flags**: Options to enable/disable a feature in the application to help developers have a good experience and improve performance in the development process. We have discovered 3 solutions to resolve this challenge. With a wide range of solutions, we have the ability to serve any type of usage and project in development life.
+
 * **The detailed solutions:**
-* [https://viblo.asia/p/feature-toggle-BQyJK33QJMe#_introduction-0](https://viblo.asia/p/feature-toggle-BQyJK33QJMe#_introduction-0)
-* [https://dwarvesf.hashnode.dev/common-challenges-feature-flag](https://dwarvesf.hashnode.dev/common-challenges-feature-flag)
+ * [https://viblo.asia/p/feature-toggle-BQyJK33QJMe#_introduction-0](https://viblo.asia/p/feature-toggle-BQyJK33QJMe#_introduction-0)
+ * [https://dwarvesf.hashnode.dev/common-challenges-feature-flag](https://dwarvesf.hashnode.dev/common-challenges-feature-flag)
 * [https://medium.com/dwarves-foundation/design-a-feature-flag-system-7986b4a080cc](https://medium.com/dwarves-foundation/design-a-feature-flag-system-7986b4a080cc)
 
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_807095e97b173fac69c60aeffb7536ec_md5.webp)
@@ -83,6 +84,7 @@ On our engineering journey in creating decentralized crypto applications, our pa
 Along with encompassing know-how on designing system architectures, we’ve also helped with blockchain integrations, smart contract development, NFT launches, and greenfield development on blockchain tools. We're growing further with blockchain technology by investing i **[Chumbi Valley](https://chumbivalley.com/)**, and **[Tatsu](https://tatsu.gg/)** - NFT-based projects.
 
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_8e20d43e2280cb6d73b66cb32589d347_md5.webp)
+
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_3ffe6be8770c28e27e4cfb57fdc52141_md5.webp)
 
 ### Level up Security & Cyber Protection
@@ -98,7 +100,9 @@ We are putting in place the security measures necessary to protect our clients. 
 Came after [Summit 2022](/a97f5ddc0611460abc0212b4ba5d10d4), we’ve piloted a few games such as [Hunger Game](https://df-hunger-game.netlify.app/) and [Treasure Hunt ](https://hunt.d.foundation/)apps. Heading toward the engineering-driven vision, we founded a game department to create more engaging activities that offer our engineers and community a thrilling and adventurous gaming experience.
 
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_2307207050288356f6f0bdf691a75197_md5.webp)
+
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_85890bb5c8f1c3913cd7ab75bf307868_md5.webp)
+
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_491ec1fee97cb5ea2f004a8fb7161e0a_md5.webp)
 
 ## Community Growth 
@@ -124,6 +128,7 @@ A variety of things, from lessons learned in a well-written format to Radio Talk
 We are proud to be a part of the movement toward blockchain-based technology and become a web3-centric tech firm. Keep up the spirit of building, expanding, and evolving!
 
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_95ceffdd3b94a2cdf5685c867eade869_md5.webp)
+
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_39671de1e1c71865eb802461a2f0ee5c_md5.webp)
 
 ## Workplace growth 
@@ -151,7 +156,9 @@ Since we’re engineers, we thought it would be fun to create apps and games as 
 For the games, we offered a total reward of **150,000,000 VND (~$6,361.32)** to our winning teams to help motivate everyone to participate.
 
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_90b18b0bb44f42737b5dbcad91a970ab_md5.webp)
+
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_976fd6a1b95373654d8a8870692e52d3_md5.webp)
+
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_1b8011f8f951e36b240fff0df5282543_md5.webp)
 
 ### Dwarves Apprenticeship
@@ -198,7 +205,7 @@ Our centric world will thrive the Dwarves themselves are focused, trained and em
 - **Meaning:** the desire to do a software that has meaning and is important. We understand our place in the grand scheme of things, and that scheme has value and purpose, then we perform well.
 - **Autonomous:** provides employees with a sense of collective ownership. We aim to build a flat, transparent organization where everything runs around the mission.
 
-![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_9b91bb6b399b50ede70b40612fb522cb_md5.webp)
+![](assets/2022-in-review_mma.webp)
 
 2022 brought us to a new great height, with Dwarves seeing growth in multiple aspects. This year has been one of the most memorable moments in our history.
 

@@ -2,6 +2,7 @@
 tags: 
   - updates 
   - changelog
+  - wfh
 title: What's New in July 2021
 date: 2021-07-31
 description: Each month, we release a recap noting all the significant changes with our company and our team. July 2021 we will move toward blockchain industry and prepare for performance review in August.
@@ -12,7 +13,7 @@ type: null
 hide_frontmatter: false
 ---
 
-We're closing July with some notable highlights. Let's go through them ✌️
+We're closing July with some notable highlights. Let's go through them. 
 
 🚨 Note: Covid situation is getting worse. Stay safe. 🦠
 
@@ -21,8 +22,9 @@ The pandemic is going stronger than ever. There have been over 100k internal cas
 ### Finish the shipment for our WFH station
 We've finished the shipment for all the WFH gear. Since the annual company trip can't be done this year, we hope it could help make the working vibe more enjoyable. It's great to know you're all happy with the new setup. 
 
-![[733d0121febec06d18e9531f92400ab8_MD5.webp]]
-![[541d9540dd68b6a75696f615a1a6c879_MD5.webp]]
+![wfh](assets/2021-whats-new-july_2021-july-updates_733d0121febec06d18e9531f92400ab8_md5.webp)
+
+![wfh](assets/2021-whats-new-july_2021-july-updates_541d9540dd68b6a75696f615a1a6c879_md5.webp)
 
 ### Your fleeting notes
 On July 15, a few of our Dwarves shared a reward pool of $1000 for submitting their fleeting notes to our [brainery](https://brain.d.foundation/).
@@ -36,16 +38,16 @@ We're going fully remote. There might be a distance between you and the team. In
 
 Feel free to ask the CEO anything: workload, feature requests, product discussion, or career advice. He's there to help.
 
-![[0b035e736bb615bcdde24b2efa950ec5_MD5.webp]]
+![officehour](assets/2021-whats-new-july_2021-july-updates_0b035e736bb615bcdde24b2efa950ec5_md5.webp)
 
 ### Moving toward Blockchain industry
 We're dipping our toes in the Blockchain pool by partnering with Legend of Fantasy War, a new NFT game project. 
 
 Another chance for us to get closer to this rising technology.
 
-Sneak peek at the [landing website](http://legendfantasywar.com/) → 
+Sneak peek at the [landing website](http://legendfantasywar.com/).
 
-![[4ac57a6a422a69aad933db59d4c43095_MD5.webp]]
+![nftgame](assets/2021-whats-new-july_2021-july-updates_4ac57a6a422a69aad933db59d4c43095_md5.webp)
 
 ### Notion OS: Running our team from Notion pages
 Notion is our new document base. We've migrated our written document into this, as the new structure would be
@@ -80,7 +82,7 @@ We are hiring again. This would be a massive focus on senior level to upgrade th
 
 Thanks Vy and Hoang for the referral. Thanks everyone else for sharing the post. It works.
 
-![[1b220da25eec9897a33cce413616f132_MD5.webp]]
+![hiring](assets/2021-whats-new-july_2021-july-updates_1b220da25eec9897a33cce413616f132_md5.webp)
 
 ### Shaping our image
-Hey, it's time to update your LinkedIn, Github or Facebook profile. It makes us look cool as a team. 🚀
+Hey, it's time to update your LinkedIn, Github or Facebook profile. It makes us look cool as a team. 

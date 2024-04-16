@@ -22,11 +22,12 @@ hide_title: false
 > If you want to get in touch, visit [Dwarves Network](http://discord.gg/dwarvesv)
 
 In December, we launched our Consulting Team, released our finding on tech trends, and last but not least, got everyone ready to wrap up 2023.
-- **[[#Reporting tech signals]]** - We stay ahead by monitoring high-potential trends in tech.
-- **[[#Launching Consulting Team]]** - Dwarves Consulting is shaping up
-- **[[#Performance Review]]** - The Dwarves way. We don't just base our review by performance, but also on everyone's effort to grow in their career.
-- **[[#Dwarves of the Year 2023]]** - Time to tribute and reward team members who made significant impacts to our growth.
-- **[[#Join our team]]** - Admin / Ops, BD, Tech Recruiter
+
+- **[Reporting Tech Signals](#reporting-tech-signals)** - We stay ahead by monitoring high-potential trends in tech.
+- **[Launching Consulting Team](#launching-consulting-team)** - Dwarves Consulting is shaping up.
+- **[Performance Review](#performance-review)** - The Dwarves way. We don't just base our review by performance, but also on everyone's effort to grow in their career.
+- **[Dwarves of the Year 2023](dwarves-of-the-year-2023)** - Time to tribute and reward team members who made significant impacts to our growth.
+- **[Join our team](#join-our-team)** - Admin / Ops, BD, Tech Recruiter
 
 ## Reporting tech signals
 Technologies move fast. We're not ones to get left behind. Every month we watch tech trends closely to depict which ones have high potential, and can be part of our growing tech stack.
@@ -42,7 +43,7 @@ For the full read, [come here](https://note.d.foundation/labs/market-report-dec-
 - **Innovative Mindset:** we encourage out-of-the-box thinking, experimentation, and creative problem-solving.
 - **Transparent Communication**: we lay everything out on the open, fostering a collaborative environment that promotes trust, clarity, and alignment.
 
-![[Consulting - Who should join us-20231221144422875.webp|500]]
+![consult](assets/2023-whats-new-december_consulting---who-should-join-us-20231221144422875.webp)
 
 ## Monthly top performers
 Each month we track how productive and valuable each of our team members by using delivery points. For now, the top 5 high-performing members get rewards with $ICY. In Dec, kudos to those peeps who outperformed the rest: Nam Nguyen, Lap Nguyen, Ngoc Thanh, Jim and Hung Vong.
@@ -55,7 +56,8 @@ Last month we also shipped quite a number of features, highlighting:
 ## Dwarves of the Year 2023
 It's been one of our longest tradition, to tribute and reward team members who made significant impacts to our growth. Dwarves of the Year 2023 is brewing up with various categories and a total rewards of $25k.
 
-![[whats-new-december-2023-20240103153356468.webp|400]]
+![doty](assets/2023-whats-new-december_whats-new-december-2023-20240103153356468.webp)
+
 On Jan 13th, we're flying non-Saigon peeps to Saigon so everyone can get together and party their hearts out!
 
 ## Performance Review

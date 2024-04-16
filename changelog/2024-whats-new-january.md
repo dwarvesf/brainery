@@ -24,9 +24,9 @@ hide_title: false
 
 In this first month of 2024, we kept tap of what's brewing in the tech market, while reviewing what we went through in 2023.
 
-- **[[#Reporting tech signals]]** - Updates on the stage of React, Rust, AI, Cybersecurity, Rust.
-- **[[#Dwarves' YEP 2023]]** - One of the rare event where Dwarves and community members gather.
-- **[[#Dwarves' 2023 in review]]** - A recap of Dwarves in 2023
+- **[Reporting tech signals](#reporting-tech-signals)** - Updates on the stage of React, Rust, AI, Cybersecurity, Rust.
+- **[Dwarves' YEP 2023](#dwarves-yep-2023)** - One of the rare event where Dwarves and community members gather.
+- **[Dwarves' 2023 in review](#dwarves-2023-in-review)** - A recap of Dwarves in 2023
 
 ## Reporting tech signals
 Every month we watch tech trends closely to depict which ones have high potential, and can be part of our growing tech stack.

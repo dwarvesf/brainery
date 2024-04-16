@@ -52,7 +52,6 @@ We’ve been active in a few communities, such as the Golang community, Webuild,
 * [Startup.vn](https://startup.vn/)
 * [Golang Vietnam](http://golang.org.vn/)
 
-![](assets/2022-dwarves-summit-engineering-a-good-time_ab82e6f138a7241ca9a6c1de222d1e46_md5.webp)
 Most especially, Dwarves Discord Network where every techie can join to hang out and learn has grown to 600+ members.
 
 We’ve seen various tech-focused channels and events for the community,  as well as ways for everyone  [learn and earn](https://earn.d.foundation/). 
@@ -71,7 +70,9 @@ Since we’re engineers, we know it would be more fun to create apps and games a
 It was all for 3 things: the games, the drinks, and the prizes. A total reward of **150,000,000 VND** (~$**6,000**) was distributed into 4 original engineering styled games:
 
 ### Treasure Hunt
+
 ![](assets/2022-dwarves-summit-engineering-a-good-time_f78cb4d5fd1925ce0559a5b36bc5675f_md5.webp)
+
 A location-based scavenger hunt where we took pictures of proof at locations along with answering questions in our custom-made web app. 
 
 Whoever answers the most questions, wins the hunt.
@@ -88,7 +89,9 @@ Whichever team has the most points wins the round.
 ![](assets/2022-dwarves-summit-engineering-a-good-time_51be085fcfb86c123446d15a3155c0e7_md5.webp)
 
 ### Hunger Games
+
 ![](assets/2022-dwarves-summit-engineering-a-good-time_133221cf791f0d75a493e92a8571d763_md5.webp)
+
 A global turn-based 4-team 12x12 grid game played on a real-time web application to collect points scatted across the grid.
 
 Teams who encountered a fruit would gain points. Those who encountered a bomb would have to drink 🍺. Whichever team has the most points wins the round.

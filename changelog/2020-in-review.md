@@ -44,13 +44,15 @@ Starting from a team of two, our QC Team has now reached the number of five, whi
 ### Real-time status page
 This adoption enables us to constantly receiving the latest updates on project and website status. Other than tracking them directly on [stt.daf.ug](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*epYF6iiq6IvM4x70hcd3ZA.png), we get to log them on the currently running projects and ensure the deliverable's quality.
 
-and got them on team Discord
+And got them on team Discord.
+
 ![](assets/2020-in-review_2020-in-a-flashback_e310751d76ab92238b6dacd71ecd4277_md5.webp)
 
 ### A Radar Ring for Tech Adoption
 The day-to-day work won’t get us as far as we could. Finding the new and stepping out of the safe zone is a great resolution to move with the industry.
 
-We input the discoveries and assessment of the latest tech trends on  [Radar Ring](https://dwarves.foundation/radar/). We define them in Rings & Quadrants. Every two months, we gather the team's research output and conduct webinars on sharing, guidelines & lesson-learned. The knowledge recap is stored as RFC on [Github](https://github.com/dwarvesf/radar)</ and team [Memo](https://dwarves.foundation/memo/) for later reference.
+We input the discoveries and assessment of the latest tech trends on [Radar Ring](https://dwarves.foundation/radar/). We define them in Rings & Quadrants. Every two months, we gather the team's research output and conduct webinars on sharing, guidelines &lesson-learned. The knowledge recap is stored as RFC on[Github](https://github.com/dwarvesf/radar)</ and team [Memo](https://dwarves.foundation/memo/) for later reference.
+
 ![](assets/2020-in-review_2020-in-a-flashback_897cee98638b129f3afb4a53c7de23c1_md5.webp)
 
 ### Bootstrap Startup Idea, Conveniently
@@ -69,6 +71,7 @@ New researches must be put into practice; otherwise, it’s a waste of time. Fro
 
 ### State of the Art
 Everything we do results in this internal tech-index. A hub of continuous evolving expertise.
+
 ![](assets/2020-in-review_2020-in-a-flashback_d713f1fe35c7e9e35112315edc5574c5_md5.webp)
 
 ### The Internal
@@ -78,25 +81,32 @@ So. new plan. Restructure, strengthen the core, and focus on what we do best.
 
 ### Build a place where people love to work in
 **Where people can develop themselves and as a team**
+
 The urge to grow lies within us. Outside of work, we encourage the Dwarves to improve their knowledge and skills. We support this with an [Education Allowance](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md#continuing-education-allowance), an English Camp every Tue & Thu, and a weekly 101 training - where the team discusses and collects points of view on different topics toward [soft skills](https://dwarves.foundation/memo/dwarves-radio-talk-1-financial-management-fguwljhvt6), product design, [startups](https://dwarves.foundation/memo/dwarves-radio-talk-2-startup-un0eh4duyo) & engineering.
 
 **Where the efforts are tributed**
+
 Dwarves Foundation is where we value even the tiniest contribution, by all means. It’s not all about making the client happy; it’s about feeling proud of what we produce. We launch [Dwarves of The Year](https://dwarves.careers/life/activities/#dwarves-of-the-year) as a highlight to select the outstanding Dwarves. By letting people taking votes on four criteria: Influencing, Hardworking, Impactful, and Self-Development.
 
 **Where the team structure gets flattened**
+
 Wearing many hats used to be our option. We do have roles, but we haven’t sat down and put them in place until earlier this year. The latest team structure lies at [https://bit.ly/df-org-chart](https://bit.ly/df-org-chart). But unlike others, we want to keep things public as much as we could. We do our best to make sure they get access to every piece of information, and despite the titles, [everyone is welcomed to raise a question.](https://dwarves.foundation/memo/asking-as-a-junior-pmvf365mpk)
 
 **Where the engagement ain't just around the work**
+
 Every member should feel like a part of the team. We issued [Employee Stock Option Plan](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md#employee-stock-option-plan) as a aprt of our benefit package, where members can be the significant contributors instead of tenured employees. This gives them the right to buy a certain amount of company shares at a predetermined price.
 
 ### A Data-driven Company
 Everything revolves around data. Taking data as the core allows us to set realistic business goals, pinpoint what makes us outstanding, which aspect we should stay focused on based on real analytics metrics.
 
 **Workflow update - Data first**
+
 With the concept that Program = Data + Algorithm, we weave the data culture in every workpiece. Things start with data format at first; the rest will come later.
+
 ![](assets/2020-in-review_2020-in-a-flashback_ca031915c44e21e677d99389019d16aa_md5.webp)
 
 **How we gather data**
+
 ![](assets/2020-in-review_2020-in-a-flashback_cbb1aa0a50be64a8455ee9e20e198dd7_md5.webp)
 
 **How does that help us make a decision**
@@ -111,22 +121,28 @@ We’ve prepared a collaboration process on commission-based. We welcome the one
 Running a company isn’t just about process and policy. It’s more on minimizing the minor disruptions that reduce the company’s ability to grow and prosper. Cleaning up the roadblocks. Eliminate the waste, and keep people aligned. And mostly, how to do more with less effort?
 
 **Going Automation**
+
 On the way to run the team effortlessly, we figure not everything requires human's involvement. Fortress - our internal operation system, remove the redundancies by **automating the operation work**, from accounting to newbies onboarding.
+
 ![](assets/2020-in-review_2020-in-a-flashback_52d81a3aa81e12a8a931fbee1e8350d8_md5.webp)
 
 **Transparency in Information**
+
 Running a remote team means the communication relies mostly on thread-based messages. Unless we [go transparent](https://dwarves.foundation/memo/transparency-rj7dc8vkoh/)in what we are working on, losing track and feel distant from the team is predictable.
 
 We keep the [communication](https://github.com/dwarvesf/handbook/blob/master/how-we-work.md#communication) channels open, from Basecamp check-in questions to the Discord sharing hub. More than telling people about the work, throwing the latest news into the chatroom can also help us stay tuned to what’s going on out there.
 
 **Dashboard & Valuation KPI**
+
 Company valuation always a subtle issue to mention. Not many companies onboard with this. But we do.
+
 ![](assets/2020-in-review_2020-in-a-flashback_5c4fb47066f19a5d8cc7c6b9f6422ecd_md5.webp)
 
 Bringing the number to the public gives us the privilege to stay proud of what we’ve accomplished. We issue ESOP every year, and visualizing how our business strategy was turned into profit allows stakeholders to keep track of its potential growth. Dashboard valuation also reflects our predicted strategy’s accuracy, emphasizes the key goal, and portrays our ability to develop.
 
 ### Hiring
 **We value the unconventional**
+
 Once Covid started to invade, our goal changed accordingly. Instead of adding more people, we choose to fill the team with more culture. We picked out the value that makes us who we are and wrapped them in [Culture book.](https://github.com/dwarvesf/handbook/blob/master/what-we-value.md)
 
 ![](assets/2020-in-review_2020-in-a-flashback_6694c1aa16fc90f1f7189d457e439ee1_md5.webp)
@@ -134,9 +150,11 @@ Once Covid started to invade, our goal changed accordingly. Instead of adding mo
 We look for those with the same DNA. This small book provides insight into what it's like to work with us, how the day may transpire, what to expect, and what to prepare to become a real Dwarves.
 
 **Work where you feel best**
+
 After five years, we evolved as a team that works and communicates from anywhere. Some of us choose to work from coffee shops, others feel better in their PJs and start a virtual meeting, while the rest spend their day at our Saigon office.
 
 **We exposed, clearer**
+
 We started first with the Website upgrade. We fill up the blank with Case Studies and the tech stacks, completing a Service section with precise detail on each type of work.
 
 ![](assets/2020-in-review_2020-in-a-flashback_8dc9f8dc969d793887c21e026eeec3d2_md5.webp)
@@ -154,12 +172,15 @@ Next, the **[Memo](https://dwarves.foundation/memo/)**. Our crafting space for l
 Applying the top-selected technologies, we end up expanding the business. With more than 10 new deals with technical service development and venture projects, we could step up the game and set our foot into different industries.
 
 **The year in Industries**
+
 ![](assets/2020-in-review_2020-in-a-flashback_a7c681fd646975683b1c87b09d70cead_md5.webp)
 
 **Going Details**
+
 ![](assets/2020-in-review_2020-in-a-flashback_a2aee1a0e0424c6344ae0bd4cb2841dd_md5.webp)
 
 **Stretch the Venture Arms**
+
 Positioning ourselves as technical distributors means delivering that through a variety of activities, including creating business opportunities.
 
 ![](assets/2020-in-review_2020-in-a-flashback_5659925d4eba951d9ba6cfb07046be0a_md5.webp)
@@ -167,22 +188,26 @@ Positioning ourselves as technical distributors means delivering that through a 
 [We invest and provide](https://dwarves.ventures/) them with technical solutions to lift their projects off the ground. But most importantly, we do things from our lessons learned and selective experience. Giving early-stage startups the necessary resources to turn their ideas into impactful products is how we help empower the next innovation's future.
 
 ### We got your back
+
 ![](assets/2020-in-review_2020-in-a-flashback_90359633895a008af577eaf3a8fae47c_md5.webp)
 
 ### Giving back to the Community
 Learning from the community gives us the privilege to explore and grow. We have been a part of it long enough to contribute back. Describing ourselves as a tech distributor, our mission is to support and widen the tech playground and create social impact using tech solutions.
 
 **Salt Cancer Initiative - Supportive backers for cancer patients**
+
 Our first move on community support. We partner with Salt Cancer Initiative to create a supportive community that provides cancer patients with knowledge and activities using high-tech solutions.
 
 ![](assets/2020-in-review_2020-in-a-flashback_024baf6bfa793a86e35f6a5ec5c39734_md5.webp)
 
 **WeBuild Day - Post-Covid 19 Developers Reunion**
+
 Last December marked **WeBuild Day 2020** - where we partner with Block71 Saigon for a full-day workshop on tech topics. A reunion chance with the developers after Covid-19, with the participation of other sponsors such as beGroup, Codelink, Flodesk and many more
 
 ![](assets/2020-in-review_2020-in-a-flashback_bc600184b959d7caeb9080267fed03ff_md5.webp)
 
 **Golang for Beginner: Collaboration with Golang Vietnam**
+
 Since 2014, Golang Vietnam has been the playground for all beginner and experienced Go programmers in Vietnam. Normally, we support Golang Vietnam in organizing the annual GopherCon as a sharing workshop and lessons learned from Go experts.
 
 ![](assets/2020-in-review_2020-in-a-flashback_07493a80741eafd1af67f7ebf1b63e6e_md5.webp)
@@ -192,11 +217,13 @@ Though the affection of Covid limits us from conducting offline meetups, we stil
 ![](assets/2020-in-review_2020-in-a-flashback_4c1b03bc8c9de2e88c3de14bde9e1d33_md5.webp)
 
 **techie.story**
+
 Having more time inside makes us realize more corners in this industry should be shined light on. We founded [**techie.story**](http://techiestory.co/), where we get them to listen to the untold story of techies from this industry, about the hidden aspects of day-to-day work.
 
 ![techiestory](assets/2020-in-review_1_qd5o2ijrtws2kucxnybjsg.webp)
 
 **We do Open-Source Software**
+
 Going OSS means working with multiple companies on an idea or a problem, which eventually gets us to the solution more quickly with more creativity. By sharing the foundation concept and codebase, OSS enables us to trigger innovative ideas and provide and receive insights from different people in the industry. That allows the development phase to happen smoothly, and encourages the spirit of building, expanding, and evolving.
 
 ![](assets/2020-in-review_2020-in-a-flashback_d9fee91f014c8de4faac3ebee2ab7af5_md5.webp)
@@ -223,6 +250,7 @@ Enjoy the promising ride, join us at https://tinyletter.com/nextbytes/.
 We had an executive sync-up not so long ago. The operation team sat down and decided where we should head in 2021. The pandemic’s impact continues to ripple across industries. It’s risky to do things big. The best thing to look forward to is maintaining the current status and making sure people are motivated. Building a place people love to work in and be proud of what they produce.
 
 **The branding coverage**
+
 We are doing things right, which is reflected in the financial status and the playbook we noted down. But we are still far from distributing that knowledge base. Going further on social media coverage and issuing a monthly newsletter might be a good idea to begin with.
 
 We’ve been conducting Dwarves Radio Talk, a weekly talk show where we pitch our favorite topics on engineering, product design, startup and skills management. Knowledge sharing should be a thing to encourage. It’s the best practices we sort out after a long time working in this field, and we can’t help but bring them outside.
@@ -232,9 +260,11 @@ Anyone with the same interest, or curiosity, is welcome to join us at Discord.
 ![](assets/2020-in-review_2020-in-a-flashback_8f42ebd6dd1501246748c512e445f960_md5.webp)
 
 **The product-driven mindset**
+
 Technical consultancy and venture investment will remain its resilient, but we want to spend more effort working on what we love. Besides scaling Superbits, we level it up as an indie studio with a product-driven business orientation, making the dev community more worth experiencing.
 
 **A life outside of tech**
+
 The successful work with Salt Cancer Initiative kicked off our willingness to contribute more impact to social problems. We’re lucky to know and work with many other brothers with the same vision during our path to expand the tech playground. Using tech to resolve other issues outside of work, building up a platform connects like-minded people. Striving for a better world in 2021, which we believe everyone can really use.
 
 We continue to build Dwarves Foundation the same way we do software. It works and gets bugged along the way, but the new version gets released continuously.

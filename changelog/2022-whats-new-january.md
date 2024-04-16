@@ -14,7 +14,7 @@ type: null
 hide_frontmatter: false
 ---
 
-### **Project Highlights**
+### Project Highlights
 **MStation as our latest blockchain-based project**
 It's the first BSCS Metaverse blockchain game on Binance Smart Chain (BSC). Players can summon characters, complete daily mining missions, protect the MStation, and loot rare items to play and earn. 
 
@@ -25,7 +25,7 @@ We're getting multiple upselling requests, so we need more people to join our te
 ### Performance Review
 The team has received all of the self-review notes. Due to the volume of our teammates, 1-1 meetings for some of you will soon be scheduled after the Lunar New Year.
 
-The final result will be announced before March. Hope to see the good updates by then — if you know what I mean. 😏
+The final result will be announced before March. Hope to see the good updates by then — if you know what I mean. 
 
 ### Study Groups/ Brainery Clean-up
 We’re resuming Brainery Repo in 2022. Currently, the repo is getting formatted and cleaned up. We also develop writing guidelines to quickly pick up with the on-goings.
@@ -49,7 +49,7 @@ Who is this package for: Full-time members who have worked with the Dwarves for 
 * Trips need time to prepare (and recover afterward), so the team can’t use up the budget of 4 trips per year in one travel instance. This goes against the policy.
 * For better flexibility, we encourage you to actively make the booking and send us the receipt. The Ops team will help you process the reimbursement.
 
-To sign up for your first trip, please head to this form → [https://forms.gle/SusWDKUn2KjkewBH6](https://forms.gle/SusWDKUn2KjkewBH6)
+To sign up for your first trip, please head to this form: [https://forms.gle/SusWDKUn2KjkewBH6](https://forms.gle/SusWDKUn2KjkewBH6)
 
 ### Team Hangouts
 Last month, we finally had the chance to gather for a casual dinner to wrap up the year. Now that the Covid situation is somewhat under control, we think it's safe to slowly resume this tradition.
@@ -66,4 +66,4 @@ A small gift to thank you for being with us for the past year. May we all enter 
 
 Happy the year of Tiger. Let’s rock 2022 together!
 
-![[bd881f2df5fc45b3831edf17c1ceef53_MD5.webp]]
+![merch](assets/2022-whats-new-january_2022-january-updates_bd881f2df5fc45b3831edf17c1ceef53_md5.webp)
