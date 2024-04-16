@@ -8,9 +8,9 @@ title: 2022 Dwarves Renaissance A Year End Rewind
 date: 2023-01-19
 description: 
 authors: 
-- innno_
-- nikki
-- Tom
+  - innno_
+  - nikki
+  - Tom
 menu: changelog
 type: newsletter
 hide_frontmatter: false

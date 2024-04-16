@@ -6,7 +6,7 @@ title: 2021 July Updates
 date: 2021-07-31
 description: null
 authors: 
-- duy
+  - duy
 menu: changelog
 type: null
 hide_frontmatter: false

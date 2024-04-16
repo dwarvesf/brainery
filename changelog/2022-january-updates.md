@@ -7,8 +7,8 @@ title: January Updates
 date: 2022-01-28
 description: null
 authors: 
-- nikki
-- duy
+  - nikki
+  - duy
 menu: memo
 type: null
 hide_frontmatter: false

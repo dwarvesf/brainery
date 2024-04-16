@@ -6,8 +6,8 @@ title: 2018 Wrapping Up
 date: 2018-12-31
 description: null
 authors: 
-- Han 🐸
-- duy
+  - Han 🐸
+  - duy
 menu: changelog
 type: null
 hide_frontmatter: false

@@ -7,9 +7,9 @@ title: Dwarves Summit 2022 Engineering A Good Time
 date: 2023-01-09
 description: null
 authors: 
-- nikki
-- tom
-- innno_
+  - nikki
+  - tom
+  - innno_
 menu: memo
 type: null
 hide_frontmatter: false

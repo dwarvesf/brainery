@@ -7,9 +7,9 @@ title: 2020 In A Flashback
 date: 2021-02-05
 description: null
 authors: 
-- Han 🐸
-- nikki 
-- duy
+  - Han 🐸
+  - nikki 
+  - duy
 menu: changelog
 type: null
 hide_frontmatter: false

@@ -7,7 +7,7 @@ title: Dwarves Of 2021
 date: 2022-01-05
 description: null
 authors: 
-- duy
+  - duy
 menu: memo
 type: null
 hide_frontmatter: false

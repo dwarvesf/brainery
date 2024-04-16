@@ -6,7 +6,7 @@ title: Looking Back 2019
 date: 2020-01-25
 description: null
 authors: 
-- Han 🐸
+  - Han 🐸
 menu: changelog
 type: null
 hide_frontmatter: false

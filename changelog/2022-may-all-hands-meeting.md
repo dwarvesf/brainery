@@ -7,7 +7,7 @@ title: May 2022 All Hands Meeting
 date: 2022-05-31
 description: null
 authors: 
-- duy
+  - duy
 menu: memo
 type: null
 hide_frontmatter: false

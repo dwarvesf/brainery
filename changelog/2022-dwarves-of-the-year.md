@@ -6,8 +6,8 @@ title: Dwarves Of The Year 2022
 date: 2023-01-19
 description: null
 authors: 
-- innno_
-- nikki
+  - innno_
+  - nikki
 menu: changelog
 type: null
 hide_frontmatter: false
