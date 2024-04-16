@@ -3,7 +3,7 @@ tags:
 - updates
 - newsletter
 - team
-title: It’s a wrap: 2021 in Review
+title: "It's a wrap: 2021 in Review"
 date: 2021-12-30
 description: Hey, it’s Han and Nikki in your inbox again. On behalf of the entire Dwarves team, happy 2022!
 authors: 

@@ -55,14 +55,14 @@ This has reflected in our Brainery, where we see much more concise writing from 
 ### Trending Tags
 A summary of some trending tags we see in our Brainery. These tags represent what things our contributors are actively thinking about and researching. For this month, we see a stronger focus on LLM and AI topics, but we also see trending tags related to backend and frontend with more focus on foundational topics such as web-design, OOP, SOLID, etc.
 
-![](assets/forward-engineering-may-2023_286f7e7f87cc09dee3370332640b937d_md5.webp)
+![](assets/2023-may-forward-engineering_forward-engineering-may-2023_286f7e7f87cc09dee3370332640b937d_md5.webp)
 
 ### Top Contributors and Notes
 Every month, we collect a list of top contributors, those who have contributed knowledge to our Brainery for this month. We consolidate our writer’s articles with their GitHub account at our Brainery’s [Latest Notes](https://brain.d.foundation/Latest+Notes).
 
 We also make sure to give recognition on our [Discord](discord.gg/dwarvesv) server, so be sure to catch up with us there!
 
-![](assets/forward-engineering-may-2023_540e3597ede09140b3b405d8c88eb206_md5.webp)
+![](assets/2023-may-forward-engineering_forward-engineering-may-2023_540e3597ede09140b3b405d8c88eb206_md5.webp)
 
 * [monotykamary](https://github.com/monotykamary) - [Working with langchain document loaders](https://brain.d.foundation/Engineering/AI/Working+with+langchain+document+loaders)
 * [monotykamary](https://github.com/monotykamary) - [Workaround with OpenAI's token limit with Langchain](https://brain.d.foundation/Engineering/AI/Workaround+with+OpenAI%27s+token+limit+with+Langchain)
@@ -108,7 +108,7 @@ We’ve held our Software Design research group for just over a year. This month
 ## Dwarves Rewind May 2023
 [Dwarves Rewind](https://www.linkedin.com/newsletters/dwarves-rewind-6963734647327375360/) is a reading list serving as a collection of news we aggregate weekly. Tech is a very high-paced industry, and rewind helps to serve as a curated list of trending and high-profile topics that everyone can look back on.
 
-![](assets/forward-engineering-may-2023_2169474a34f559c08a1f41e2a7d188c1_md5.webp)
+![](assets/2023-may-forward-engineering_forward-engineering-may-2023_2169474a34f559c08a1f41e2a7d188c1_md5.webp)
 
 ### Trending and Hot Topics
 Artificial intelligence is still a very trending and hot topic, especially with the advent of GPT-4 and Microsoft’s aggression on integrating AI tech. There has also been some hot annual events this month, with some of the trending topics this month being:

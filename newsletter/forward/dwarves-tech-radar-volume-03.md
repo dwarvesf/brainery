@@ -5,7 +5,7 @@ tags:
   - technology
 title: Dwarves Tech Radar Volume 03
 date: 2021-04-29
-description: In short, this 3rd volume is all about one thing: Trial
+description: "In short, this 3rd volume is all about one thing: Trial"
 authors:
 - duy
 menu: memo

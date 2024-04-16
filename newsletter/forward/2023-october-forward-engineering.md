@@ -27,7 +27,7 @@ This month has been the month of trying out new and existing tech. We’ve been 
 
   
 
-![](assets/forward-engineering-october-2023_october-forward-engineering_compressed.mp4)
+![](assets/2023-october-forward-engineering_forward-engineering-october-2023_october-forward-engineering_compressed.mp4)
 
 ### Type-safe Server Client Development
 ***Trial***
@@ -101,11 +101,11 @@ As we persist in our R&D voyage, we endeavor to remain at the forefront of tech 
 ### Trending and Hot Topics
 * **[Next.js releases version 14](https://nextjs.org/blog/next-14)** - Despite the major version update, Next.js has been very careful of introducing any breaking changes or new APIs. Next.js has been a much hotter topic seeing how as it treads closer to server-side rendering, it bares much resemblance to PHP and old-school server-rendered apps.
 
-![](assets/forward-engineering-october-2023_untitled.webp)
+![](assets/2023-october-forward-engineering_forward-engineering-october-2023_untitled.webp)
 
 * **[X releases Grok, a new state-of-the-art LLM](https://x.ai/)** - Elon Musk has been giving a lot of hints in the past of Twitter (now called X) releasing a Large Language Model to compete with OpenAI’s ChatGPT. Benchmarks seem very promising, and there is a great deal of hype within the industry for private access to this new LLM.
 
-![](assets/forward-engineering-october-2023_untitled-1.webp)
+![](assets/2023-october-forward-engineering_forward-engineering-october-2023_untitled-1.webp)
 
   
 

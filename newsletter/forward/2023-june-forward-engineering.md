@@ -72,7 +72,7 @@ The tags for June include: `#nghenhan #` `llm` `#ai` `#caching` `binance` `q-lea
 ### Top Contributors and Notes
 Our community continues to thrive due to the collective effort of our talented contributors. Each month, we acknowledge their contributions in our Brainery's **[Latest Notes](https://brain.d.foundation/Latest+Notes)** section, linking their GitHub accounts for further reference.
 
-![](assets/forward-engineering-june-2023_2fbe2f31190fe0c73606912485107f88_md5.webp)
+![](assets/2023-june-forward-engineering_forward-engineering-june-2023_2fbe2f31190fe0c73606912485107f88_md5.webp)
 
 We also value and encourage our community's interaction on our **[Discord](https://chat.openai.com/discord.gg/dwarvesv)** server. It's a great space to stay updated, engage in lively discussions, and catch up on the latest from us. Be sure to join us there!
 
@@ -127,7 +127,7 @@ These insights continue to broaden our understanding of both traditional and eme
 ## Dwarves Rewind June 2023
 [Dwarves Rewind](https://www.linkedin.com/newsletters/dwarves-rewind-6963734647327375360/) is a reading list serving as a collection of news we aggregate weekly. Tech is a very high-paced industry, and rewind helps to serve as a curated list of trending and high-profile topics that everyone can look back on.
 
-![](assets/forward-engineering-june-2023_7d72b4327ffbaf2595178ba126a3d16a_md5.webp)
+![](assets/2023-june-forward-engineering_forward-engineering-june-2023_7d72b4327ffbaf2595178ba126a3d16a_md5.webp)
 
 ### Trending and Hot Topics
 This month covers a recap of the Apple WWDC Event, a visual low-code backend builder, and a technical deep dive into a simplified version of React Server Components. It also discusses design trends and technology revolution insights from Config 2023 - Figma's Annual Conference and WWDC 2023. Updates include new scene types in Swift UI and features in Visual Studio 2022 version 17.7. There have also been some hot annual events this month, with some of the trending topics this month being:
