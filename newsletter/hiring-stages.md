@@ -26,21 +26,21 @@ In today’s edition:
 - Dwarves Apprenticeship 2022
 - Other talking points
 
-### **Job interviews need a makeover.**
+### Job interviews need a makeover.
 A few weeks back when preparing for [Dwarves Foundation Apprenticeship 2022](https://careers.d.foundation/apprenticeship-2022), we got to rethink the typical interview process in the tech industry. We came across a [Reddit post](https://www.reddit.com/r/WorkReform/comments/th5eou/this_was_the_first_step_in_the_interview_process/) which almost knocked the wind out of us.
 
 ![](assets/hiring-stages-20240312110733564.webp)
 
 Candidates were asked to carry out a _written interview_ answering all these questions, right out the door. We didn’t even read through all the questions. We closed the browser tab asap.
 
-#### **Interviews should never leave candidates feel like they are begging for a job.**
+#### Interviews should never leave candidates feel like they are begging for a job.
 Interviews should make candidates feel they are the ones interviewing their future co-workers and getting to know the environment in which they probably spend their next 2-3 years.
 
 The way we see it, if our hiring goal is to find talented people to work with us, and not for us, interviews should be casual conversations where equal parties get to find out more about their future collaboration, discuss software and tech, and only things that matter for the job.
 
 We still consider Dwarves to be a small team (with 70 engineers and designers, and a handful of operating folks), hiring process is an important part for us because we know each person on the team will have a big impact.
 
-#### **The 4 stages of hiring at Dwarves.**
+#### The 4 stages of hiring at Dwarves.
 Even then, it’s not a fixed process. Sometimes when we know that the candidate is a must-have on our team, we don’t mind skipping a step or two.
 
 ![](assets/hiring-stages-20240312110815550.webp)
@@ -52,7 +52,7 @@ Even then, it’s not a fixed process. Sometimes when we know that the candidate
 
 Form submission: 20 mins, Phone screening: 30 mins, Technical interview: 1 hour. In total: 1 hour 50 mins. That’s it.
 
-### **Dwarves Foundation Apprenticeship 2022.**
+### Dwarves Foundation Apprenticeship 2022.
 “If you can’t be replaced, you can’t be promoted”, that’s [Dilbert’s Law of Work](http://arith.stanford.edu/gates/dilbert.html) #3.
 
 Being irreplaceable oftentimes means there is no advancing in our career, we get stuck at one position instead of going up. That’s not “securing a job”, that’s setting ourselves up for burnouts and failures.

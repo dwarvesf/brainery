@@ -87,7 +87,7 @@ We’ve also recently demoed the benefits of parallel processing in one of our D
 In a recent collaborative discussion between key members of the Labs and Consulting teams, we’ve made decisive strides in pinpointing key topics and potential projects for development. Each topic is paired with specific challenges to ensure we engage deeply with the technology, understanding its practical applications. The focal point for the coming month is WebAssembly (WASM), alongside a range of exciting use-cases we plan to implement and demonstrate.
 
 ### Upcoming Research
-#### **WebAssembly (WASM)**
+#### WebAssembly (WASM)
 _PICs: An Tran_
 
 WASM is a technology that allows running code written in multiple languages on the web at near-native speed. The challenges in using WASM for these applications may include optimizing performance, managing memory efficiently, and ensuring compatibility across different web browsers:
@@ -96,7 +96,7 @@ WASM is a technology that allows running code written in multiple languages on t
 - [[data-processing-and-visual-infographics-through-duckdb-wasm|Data processing and visual infographics (through DuckDB-WASM)]]
 - [[implement-a-rust-game-through-wasm|Implement a Rust game through WASM]]
 
-#### **Passwordless Authentication**
+#### Passwordless Authentication
 _PICs: An Tran_
 
 An Tran has also discussed passwordless authentication, which involves allowing users to access systems without entering traditional passwords. The use-case challenges we hope to include are:
@@ -105,14 +105,14 @@ An Tran has also discussed passwordless authentication, which involves allowing 
 - [[Labs Roadmap (Nov 23 update)|QR code based login]]
 - [[demo-magic-links|Magic Links]]
 
-#### **Artificial Intelligence (AI)**
+#### Artificial Intelligence (AI)
 _PICs: Tom Nguyen_
 
 The challenges in this context may involve ensuring the real-time nature of the updates, managing the computational resources required for such updates, and addressing potential privacy and security concerns related to real-time knowledge updates.
 
 - [[realtime-memory-knowledge-updates-rag-updates|Realtime memory knowledge updates (RAG updates)]]
 
-#### **Multi-Party Computation (MPC)**
+#### Multi-Party Computation (MPC)
 _PICs: Huy Nguyen_
 
 Huy Nguyen has discussed applying MPC for authentication in the context of web3 console. MPC allows multiple parties to jointly compute a function over their inputs while keeping those inputs private. The challenges may include ensuring the security and privacy of the computation, managing the communication overhead in multi-party settings, and addressing the complexity of implementing MPC protocols in web applications.

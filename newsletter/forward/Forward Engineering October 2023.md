@@ -127,7 +127,7 @@ Innovation continues to drive us forward at R&D. For the month ahead, we're expa
 
   
 
-### **Research Topics**
+### Research Topics
   
 
 - **Elixir -** Our team has been focusing on expanding our expertise on new as well as current tech. Apart from Go, Elixir has been our second go-to programming language that we want to make more generally available for our engineers and community.
@@ -144,7 +144,7 @@ Innovation continues to drive us forward at R&D. For the month ahead, we're expa
 
   
 
-### **New Tools**
+### New Tools
   
 
 - ************************Google Analytics 4 -************************ GA4 in the recent year has been taking over UA tags ever since its deprecation. We’ve realized there are much more use-cases we can apply with GA4 that isn’t limited to it’s default analytics. This is exciting for us as we can model and clean event data to aggregate on Google Analytics.
@@ -203,7 +203,7 @@ We have a lot more to share. If you want to keep up with us, we’d love to have
 
   
 
-### **Get in touch with Dwarves**
+### Get in touch with Dwarves
   
 
 Discord: [discord.gg/dwarvesv](https://discord.gg/dwarvesv?fbclid=IwAR0nzdqNuclemLUa7Pg4e2xwAMG2SqPvsD_3EbkVP3p1Oy1c5tl8zHKZPAM)

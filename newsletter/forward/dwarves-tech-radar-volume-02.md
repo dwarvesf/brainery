@@ -44,7 +44,7 @@ During our work with Javascript, each project comes with different node versions
 One of our engineers started to work on Volta - a hassle-free approach to manage the CLIs. In short, Volta detects the node versions in the JSON package, unifies them into one place, and automatically switch them as developers change their projects. Since Volta supports quick engine setup, we get to install the npm package binaries into the toolchain once and for all and then let Volta take care of the rest.
 
 ## Adopt
-### **Upptime: Real time status update **
+### Upptime: Real time status update 
 [https://upptime.js.org/](https://upptime.js.org/)
 
 We tried out CState as our monitoring service, but CState requires low level setup at infrastructure level and therefore not suitable for our bootstrapping kit. Upptime, on the other hand, only requires a simple Github repository and a config file to get it started. We gave Upptime a twist, and rolled out our version at [stt.daf.ug](http://stt.daf.ug/).

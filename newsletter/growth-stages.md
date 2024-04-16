@@ -44,7 +44,7 @@ With more members actively participating and more community members to join hand
 
 ![](assets/growth-stages-20240312111608204.webp)
 
-### **Building stronger bonds through collaboration**
+### Building stronger bonds through collaboration
 It wasn’t our intention at first, but pushing toward a 50% company - 50% community model definitely brought the team closer than ever. In a remote working setup like our team, the lack of physical activities make it hard for team bonding.
 
 With our [**Community Earn model**](http://earn.d.foundation), [**collaborative R&D](https://brain.d.foundation/README),** and Community Engagement activities in place, we gained back the sense of unity we partly lost due to remote working. Our internal channels on Discord are brewing again, team members feel connected. Especially, we are also seeming clear improvements when our engineers communicate with the clients and their team.

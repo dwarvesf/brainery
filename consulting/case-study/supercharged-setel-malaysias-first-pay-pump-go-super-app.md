@@ -31,7 +31,7 @@ Setel moves toward one goal: **Making refuel experience frictionless**, which de
 
 We help build up a place where users can interact and personalize their experience with **Setel Website** and **Gifts Campaign**.
 
-### **Engagement Model**
+### Engagement Model
 We work as Conversion team - fully focused on **supporting the funnel to activate client**.
 
 Established businesses as Setel have a fixed protocol to work and operate. We need to form a team that can manage themselves independently and adopt modern business practices.
@@ -48,7 +48,7 @@ The collaboration happens remotely (*obvs*). Tools are our best friends.
 
 Daily communication happens in Slack, while we pick Jira for sprint tracking and Confluence for technical analysis and written-form materials.
 
-### **Outcome**
+### Outcome
 Through months of partnership, we're glad to ship out **The Food Bank Programme**: A community-support initiative by Petronas Station Business Partners and the communities to provide essential items at selected Petronas stations nationwide. 
 
 ![](assets/supercharged-setel-malaysias-first-pay-pump-go-super-app_ac414946573baa1c8baa276992a535d4_md5.webp)

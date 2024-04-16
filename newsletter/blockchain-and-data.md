@@ -27,7 +27,7 @@ In this month's edition, [Thanh Pham](https://www.linkedin.com/in/thanh-pham-466
 
 ---
 
-### **Our view on the direction of data.**
+### Our view on the direction of data.
 2018, our bet was blockchain because we saw its endless possibilities, we weren’t wrong. Since then, we have successfully launched a team of 20 folks, focusing solely on building and shipping awesome blockchain products worldwide.
 
 2022, our bet goes to data. Here are the signals:

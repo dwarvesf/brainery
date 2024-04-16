@@ -29,7 +29,7 @@ Though k6 is written in Go, its scripts are made out of Javascript. Thanks to it
 
 Since functional testing is still our main work, Quynh Le - our QC Team Lead, decided to take a good look at it as a reference before moving to Testlink.
 
-### **[Testlink](https://github.com/dwarvesf/radar/blob/master/vol-03/testlink.md)**
+### [Testlink](https://github.com/dwarvesf/radar/blob/master/vol-03/testlink.md)
 *[https://testlink.org/](https://testlink.org/)*
 
 After k6, Testlink is the next thing on queue - An open-sourced test management tool that oversees and controls everything in test, test cases, test report, requirement, or test execution. We hosted a radio talk on this, mainly to demo the team on how we set up and apply Testlink into our current testing workflow.
@@ -38,7 +38,7 @@ Currently, we're trialing Testlink with BaseHQ and Aharooms. We get to know the 
 
 # **Front-end Development**
 
-### **[Preact](https://github.com/dwarvesf/radar/blob/master/vol-03/preact.md)**
+### [Preact](https://github.com/dwarvesf/radar/blob/master/vol-03/preact.md)
 *[https://preactjs.com/](https://preactjs.com/)*
 
 A JS library developed on React structure, with the same API, component and virtual DOM integration. Thanks to the light bundle size (3kb), the Preact-based website is faster in rendering and boosting user experience. The next level for React alternative and the smallest library in size so far.
@@ -49,12 +49,12 @@ A significant advantage of switching to Preact from React is the smaller bundle 
 
 # **DevOps and Maintenance**
 
-### **[ArgoCD](https://github.com/dwarvesf/radar/blob/master/vol-03/argoCD.md)**
+### [ArgoCD](https://github.com/dwarvesf/radar/blob/master/vol-03/argoCD.md)
 Acts as a Kubernetes controller which continuously monitors running applications and compares the current, live state against the desired target state (as specified in the Git repo); ArgoCD helps update, manage and control the code versions during its development phase on k8s. Testers can export the environment configuration in different formats, such as customize files, YAML files or jsonnet.
 
 # **No-code Platform**
 
-### **[Webflow and Bubble.io](https://github.com/dwarvesf/radar/blob/master/vol-03/nocode.md)**
+### [Webflow and Bubble.io](https://github.com/dwarvesf/radar/blob/master/vol-03/nocode.md)
 We did bring up [Webflow](https://webflow.com/) in the previous version and applied it in [KiwiPay](https://kiwipay.webflow.io/) - marking our first attempt in no-code development. Succeeding this, we used Webflow to finetune the website of [ATVPro](https://atvpro.webflow.io/)
 
 ![](assets/dwarves-tech-radar-volume-03_178bf3e1958cd514ccb99d9a3b4ce3bf_md5.webp)

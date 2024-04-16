@@ -18,7 +18,7 @@ The results were beyond our expectation. We got to collaborate with several grea
 
 We wouldn’t have made it without everyone reading this email right now. So to say, we’re incredibly grateful to you, the one trusting us enough to offer us those dream collaborations, evangelizing our services and participate in helping us scaling and up-leveling our team.
 
-### **2021 - a year of innovative reconstruction, dream collaborations and our journey to be better.**
+### 2021 - a year of innovative reconstruction, dream collaborations and our journey to be better.
 **In numbers**
 
 ![](assets/2021-in-review-20240312110121546.webp)
@@ -57,7 +57,7 @@ Also, now you can visit Dwarves and have a good time at 4 different locations in
 
 ---
 
-## **So what's in store for 2022?**
+## So what's in store for 2022?
 As a profitable and fast-moving company, the possibilities ahead of us are limitless. Dwarves 2.0 for us is about finding a great mix of quality and quantity, and becoming greater at what we are already good at.
 
 - **Doubling down on blockchain & web3**. We are never to stay behind when it comes to tech.

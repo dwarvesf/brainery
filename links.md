@@ -2,7 +2,7 @@
 ## Dwarves Index
 ---
 
-### **Website**
+### Website
 - **Home**: [d.foundation](http://d.foundation)
 - **Brain: [brain.d.foundation](http://brain.d.foundation)**
 - **Note:** [note.d.foundation](https://note.d.foundation)
@@ -12,7 +12,7 @@
 - Memo: [memo.d.foundation](http://memo.d.foundation)
 - Changelogs: [log.d.foundation](http://log.d.foundation)
 
-### **Shortcut**
+### Shortcut
 - **Earn:** [](https://earn.d.foundation)[https://note.d.foundation/earn](https://note.d.foundation/earn)
 - **Radar:** [https://radar.d.foundation/](https://radar.d.foundation/)
 - Handbook: [github.com/dwarvesf/handbook](http://github.com/dwarvesf/handbook)
@@ -23,7 +23,7 @@
 - Signature: [sign.d.foundation](http://sign.d.foundation)
 - Fortress: [fortress.d.foundation](https://fortress.d.foundation)
 
-### **Programming**
+### Programming
 - Github: [github.com/dwarvesf](http://github.com/dwarvesf)
 - Gitlab: [git.d.foundation](http://git.d.foundation)
 - Mermaid: [mermaid.d.foundation](http://mermaid.d.foundation)

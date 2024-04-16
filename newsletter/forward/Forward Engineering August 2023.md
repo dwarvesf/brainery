@@ -57,7 +57,7 @@ In the software industry, the exploration of rapidly evolving AI tools for code 
 # <span style='color:green'>Brainery</span>
 ---
 
-### **<span style='color:green'>Growth and Direction</span>**
+### <span style='color:green'>Growth and Direction</span>
 As we proceed in our journey of knowledge and skill enhancement, our Brainery continues to bloom with exciting ideas and valuable insights. Our contributors have exhibited an increased proficiency in delivering concise writings, covering work delivery, practical concepts, and foundational knowledge.
 
 This month, we are thrilled to highlight our learning journey towards Full stack engineering. Unlike previous months, there has been a greater focus on backend engineering from our Golang 2023 course. We’re really proud of our frontend engineers that participated in our backend course and really excited what they can do with their newfound knowledge. 
@@ -71,7 +71,7 @@ The tags for August include: `#backend` `#test-cases` `#best-practices` `#golang
 
 ![](assets/forward-engineering-august-2023_6ee23ade19901e6c8634676424d18388_md5.webp)
 
-### **Top Contributors and Notes**Our community continues to thrive due to the collective effort of our talented contributors. 
+### Top Contributors and NotesOur community continues to thrive due to the collective effort of our talented contributors. 
 
 Each month, we acknowledge their contributions in our Brainery's **[Latest Notes](https://brain.d.foundation/Latest+Notes)** section, linking their GitHub accounts for further reference.
 

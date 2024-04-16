@@ -17,7 +17,7 @@ hide_frontmatter: false
 * Relay's first engagement with Dwarves aims to ship their MVP to market as quick as possible for early user acquisition.
 * We dive in with 2 quickly adapt engineers. We keep a stable pace of feature shipment and adjust along with the requirements. 
 
-### **Highlights**
+### Highlights
 * Slack app & Chrome extension.
 * Custom semantic versioning for chrome extension.
 * Combine flipper, sidekiq for A/B testing and gradually roll out new version.
@@ -33,7 +33,7 @@ It must be done fast. And the requirement can be changed as market demands. Due 
 
 🔹 The context changes. We change accordingly
 
-### **Engagement Model**
+### Engagement Model
 At first, we were expected to join them for the first few months. As the product goes, the trustworthy collaboration escalated that we could involve more in the development process. They welcome us to contribute the idea instead of just getting the tasks done.
 
 **Teck stacks**
@@ -51,7 +51,7 @@ Slack is definitely for team communication, while Notion is perfect for document
 
 We take Trello onboard for task management, while all the designs are stored in Figma. 
 
-### **Outcome**
+### Outcome
 Through months of development, we are able to roll out the first MVP. 
 
 That comes with **a Google Extension**, **a web app**, **an Analytics Dashboard** and **a Relay bot** integrated straight into Slack workspace.

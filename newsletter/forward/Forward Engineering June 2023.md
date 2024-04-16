@@ -71,7 +71,7 @@ In parallel with the AI-centric discussions, we have also seen increased explora
 
 The tags for June include: `#nghenhan #` `llm` `#ai` `#caching` `binance` `q-learning` and more.
 
-### **Top Contributors and Notes**
+### Top Contributors and Notes
 Our community continues to thrive due to the collective effort of our talented contributors. Each month, we acknowledge their contributions in our Brainery's **[Latest Notes](https://brain.d.foundation/Latest+Notes)** section, linking their GitHub accounts for further reference.
 
 ![](assets/forward-engineering-june-2023_2fbe2f31190fe0c73606912485107f88_md5.webp)

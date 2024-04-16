@@ -35,7 +35,7 @@ The founders planned to **expand the integration** when they found us through 
 
 📍 As startups supporters, we understand it's a changing environment. It's our job to know their business and contribute to the tech foundation during the early stages.
 
-### **Engagement Model**
+### Engagement Model
 Working with startups means everything needs to be fast and ready for the client to ship out. We manage to deploy resources with work ownership, who understand the product and are ready to communicate.
 
 **Tech Stacks**
@@ -58,7 +58,7 @@ The work sync-up happens through Slack and Google Meets. All tasks are managed i
 The weekly achievement is summarized and delivered as weekly change logs.
 ![](assets/help-momos-team-build-an-mvp-shopify-for-fb-merchandises-in-sg_f6d49407f04a4f963f2f8dd28b706103_md5.webp)
 
-### **Outcome**
+### Outcome
 After a few months, Momos successfully **launched their platform, onboard new promising users**, and was ready to level up their online presence.
 
 Of course, the journey doesn't end there. We are still actively contributing to momos development. We head for the next milestone where analytics dashboard and review management can perform outstandingly.

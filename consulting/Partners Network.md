@@ -36,7 +36,7 @@ With our average deal size at $30,000, a partner can generate at least $2,400 pe
 ### Flexible **commission rate**
 Our commission structure is designed to maximize rewards for partners. The more involved you are in a project, the greater the rewards. We are also flexible when structuring a deal, to make sure it’s a win-win for everyone.
 
-### **Innovative solutions, endless possibilities**
+### Innovative solutions, endless possibilities
 Partners can leverage Dwarves’ expertise to offer state-of-the-art software solutions that answer to industry standards.
 
 Our commitment to innovation ensures you can confidently provide your clients with the tools they need to stay ahead.
@@ -48,7 +48,7 @@ Partners who are building their own products can employ Dwarves’ staff at a re
 - Connecting to investors, mentors & founders
 - Organizing events & meetups
 
-### **Marketing Collaboration**
+### Marketing Collaboration
 Leverage our marketing collateral, case studies, and success stories to strengthen your pitch and build trust with your clients.
 
 We believe in collaborative marketing efforts, and our team is ready to work with you to create impactful campaigns that drive results.
@@ -119,7 +119,7 @@ We prioritize creating the right product that brings tangible business values, r
 ## Our services
 Our services are tailored to blend into the nature of each client we work with. Depends on the your unique needs, project scope, requirements and expectations, we provide different types of services and are capable of customizing them for you.
 
-## **Staff Augmentation**
+## Staff Augmentation
 **Scale up the development team quickly to meet product roadmap and get to market faster.**
 Our in-house talents are selected through a strict interviewing process, with proper training before they get to work on client’s projects.
 
@@ -143,7 +143,7 @@ We only deploy engineers who meet your requirements and tech stack.
 <!-- /col-2 #3 -->
 
 ## Product Consulting & Development
-### **Solution**
+### Solution
 **Identify and solve critical software challenges.**
 - Strategy & Architecture
 - Digital Transformation
@@ -151,14 +151,14 @@ We only deploy engineers who meet your requirements and tech stack.
 - Enterprise Service Management
 - Systems Integration & Application Management Services
 
-### **Design**
+### Design
 **Design product based on business requirements.**
 - Market & User Research
 - Product Strategy
 - UI/UX
 - Brand Identity & Application
 
-### **Development**
+### Development
 **Build and ship in small, continuous releases.**
 - Web Development
 - Mobile Development

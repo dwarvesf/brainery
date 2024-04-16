@@ -22,7 +22,7 @@ Besides volume 01, we have an opportunity to sort out our current technology ind
 
 Let us walk you through the first Volume.
 
-## **Language & Framework**
+## Language & Framework
 ### WebAssembly
 Previously, it takes HTML, CSS, and Javascript to perform an interactive web-app for users. But with the continually higher demand, web-app must serve at a better velocity. Web Assembly was created to tackle the performance-critical problem that Javascript is struggling, leveraging the calculating ability in client-server, especially in multimedia processing tasks. The topic is a quick playing-around that will help engineers shorten their time to get to know the WebAssembly concepts.
 
@@ -47,7 +47,7 @@ Running an application needs more than one processor. It takes support from othe
 
 Applying XPC-service in mobile development touches some advantages: reduce memory footprint or separated permission for each service. But on the other hand, it triggers the coding boilerplate and the latency between some specific services.
 
-## **Practices & Approach**
+## Practices & Approach
 ### Software Reusability
 Systems are repeatedly created in a specific field, with set variables to fulfill the requirements. Instead of rebuilding these systems every time a product is made, reusability in software is how developers shorten the effort by re-picking the elements from the previous system. This topic is a brief explanation of why we opt for frameworks in the development process or why web service standards are being used widely. It's also the answer for some software matters such as lower software production and maintenance costs, faster delivery of systems, and increased software quality to get the final goal is the increment of return on software investments.
 
