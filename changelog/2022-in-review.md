@@ -27,8 +27,8 @@ We’ve achieved to this year’s resolution: A team that cares about how to bui
 
 Expanding the team doesn’t mean we have to disregard our culture. We have launched [a mechanism](https://dwarves.notion.site/Passing-the-Probation-Get-3-Upvotes-54bb5134519d421da539fcd6396faf20) to help us protect our culture and co-create our future using tech. For us, approval happens when someone is accepted by the team, not by management.
 
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_f3d04cda19cc5bfc2126f840d4dddf1d_md5.webp)
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_b6627bd506ccd793e7c6177b8c941947_md5.webp)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_f3d04cda19cc5bfc2126f840d4dddf1d_md5.webp)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_b6627bd506ccd793e7c6177b8c941947_md5.webp)
 
 *The Dwarves Collective, using markdown to visualize bonds between members.*
 
@@ -50,11 +50,11 @@ Feature Flags tackled a concern spanning across our DevOps, Management, and Engi
 * [https://dwarvesf.hashnode.dev/common-challenges-feature-flag](https://dwarvesf.hashnode.dev/common-challenges-feature-flag)
 * [https://medium.com/dwarves-foundation/design-a-feature-flag-system-7986b4a080cc](https://medium.com/dwarves-foundation/design-a-feature-flag-system-7986b4a080cc)
 
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_807095e97b173fac69c60aeffb7536ec_md5.webp)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_807095e97b173fac69c60aeffb7536ec_md5.webp)
 
 ### Learning As The North-star Metric
-[[changelog/assets/c0e7603e2f53bf302f58fa12bb036d27_MD5.mov|Open: Brainery Graph 1.mov]]
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_c0e7603e2f53bf302f58fa12bb036d27_md5_compressed.mp4)
+![](assets/2022-in-review_brainery-graph-1_compressed.mp4)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-t year-end-rewind_c0e7603e2f53bf302f58fa12bb036d27_md5_compressed.mp4)
 
 *A 2022 look back on our Brainery timeline, with a total of 128 notes contributed.*
 
@@ -69,7 +69,7 @@ Just a bit of research on new tech could mean a job opportunity, or perhaps a tu
 * [Dwarves Tech Radar Volume 4](https://www.facebook.com/photo.php?fbid=833917351164701&set=pb.100036393316096.-2207520000.&type=3): a place for our engineers to trial and evaluate emerging technologies, and to help set the direction for Dwarves’ tech stack.
 * [Engineering Publication](/827064fb759b4cd79d398a2099b212ed): our extra effort goes into learning and researching on how we can get better with technology.
 
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_1f5bd3a773b8f02d7f50d46102c2fa01_md5.webp)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_1f5bd3a773b8f02d7f50d46102c2fa01_md5.webp)
 
 ## Business Growth 
 ### Revenue Growth
@@ -82,8 +82,8 @@ On our engineering journey in creating decentralized crypto applications, our pa
 
 Along with encompassing know-how on designing system architectures, we’ve also helped with blockchain integrations, smart contract development, NFT launches, and greenfield development on blockchain tools. We're growing further with blockchain technology by investing i **[Chumbi Valley](https://chumbivalley.com/)**, and **[Tatsu](https://tatsu.gg/)** - NFT-based projects.
 
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_8e20d43e2280cb6d73b66cb32589d347_md5.webp)
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_3ffe6be8770c28e27e4cfb57fdc52141_md5.webp)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_8e20d43e2280cb6d73b66cb32589d347_md5.webp)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_3ffe6be8770c28e27e4cfb57fdc52141_md5.webp)
 
 ### Level up Security & Cyber Protection
 We are putting in place the security measures necessary to protect our clients. Bringing security setups to the next level for us means we are confident now safe and protected in terms of:
@@ -97,9 +97,9 @@ We are putting in place the security measures necessary to protect our clients. 
 ### Game Department
 Came after [Summit 2022](/a97f5ddc0611460abc0212b4ba5d10d4), we’ve piloted a few games such as [Hunger Game](https://df-hunger-game.netlify.app/) and [Treasure Hunt ](https://hunt.d.foundation/)apps. Heading toward the engineering-driven vision, we founded a game department to create more engaging activities that offer our engineers and community a thrilling and adventurous gaming experience.
 
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_2307207050288356f6f0bdf691a75197_md5.webp)
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_85890bb5c8f1c3913cd7ab75bf307868_md5.webp)
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_491ec1fee97cb5ea2f004a8fb7161e0a_md5.webp)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_2307207050288356f6f0bdf691a75197_md5.webp)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_85890bb5c8f1c3913cd7ab75bf307868_md5.webp)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_491ec1fee97cb5ea2f004a8fb7161e0a_md5.webp)
 
 ## Community Growth 
 ### Online Omni-channels 
@@ -110,11 +110,11 @@ The Dwarves actively take part in developer networks to bring makers and tech en
 
 A variety of things, from lessons learned in a well-written format to Radio Talk live every Monday on Youtube and hanging out with techies at [Dwarves Discord Network](/f5ff4edfd8cf44d2ad7f2781ba717577) where we talk about technology and life as developers can help you stay tuned with us. 
 
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_2efc2bdd5fc9eaa0c2e3cedd125136af_md5.webp)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_2efc2bdd5fc9eaa0c2e3cedd125136af_md5.webp)
 
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_0b08b0849c1f71ecd736377f09caa3d8_md5.webp)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_0b08b0849c1f71ecd736377f09caa3d8_md5.webp)
 
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_7eb2878df66bc8e99728e180f5da4eb6_md5.webp)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_7eb2878df66bc8e99728e180f5da4eb6_md5.webp)
 
 ### Offline Contests
 **[Coding Camp](https://codingcamp.so/)** of Solana Vietnam was an incredible success, with over 2000 applications for the 8-week workshop, 200 selected developers, 51 projects on Demo Day, and nearly 100,000$ for the system of prizes.
@@ -123,14 +123,14 @@ A variety of things, from lessons learned in a well-written format to Radio Talk
 
 We are proud to be a part of the movement toward blockchain-based technology and become a web3-centric tech firm. Keep up the spirit of building, expanding, and evolving!
 
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_95ceffdd3b94a2cdf5685c867eade869_md5.webp)
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_39671de1e1c71865eb802461a2f0ee5c_md5.webp)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_95ceffdd3b94a2cdf5685c867eade869_md5.webp)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_39671de1e1c71865eb802461a2f0ee5c_md5.webp)
 
 ## Workplace growth 
 ### Launching Home-like Dwarves Hubs in Danang and Dalat
 Since June 2020, we've been planning on a new office, a cozy studio in Da Lat and a summer house in Danang. It’s our **second initiative**: Dwarves Hubs should be placed across the country to offer our team a comfy remote experience when they need it. After the pandemic, as a new chapter, we’re proud of how it turned out, our first time went from sketches to reality - Danang and Dalat Hub. 
 
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_02e84402b9218f304990d32161fe679e_md5.webp)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_02e84402b9218f304990d32161fe679e_md5.webp)
 
 ### 1-way Flight Ticket
 We provide a package of flight tickets **4 times a year,** with a **maximum amount of 2.000.000 VND for each travel time**. With a borderless software firm, it's our mission to provide flexibility and support their will to go there. 
@@ -150,9 +150,9 @@ Since we’re engineers, we thought it would be fun to create apps and games as 
 
 For the games, we offered a total reward of **150,000,000 VND (~$6,361.32)** to our winning teams to help motivate everyone to participate.
 
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_90b18b0bb44f42737b5dbcad91a970ab_md5.webp)
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_976fd6a1b95373654d8a8870692e52d3_md5.webp)
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_1b8011f8f951e36b240fff0df5282543_md5.webp)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_90b18b0bb44f42737b5dbcad91a970ab_md5.webp)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_976fd6a1b95373654d8a8870692e52d3_md5.webp)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_1b8011f8f951e36b240fff0df5282543_md5.webp)
 
 ### Dwarves Apprenticeship
 **[The wrap-up of Dwarves Foundation Apprenticeship 2022](https://medium.com/dwarves-foundation/dwarves-foundation-apprenticeship-batch-of-2022-f45013189444)** scaled us with a new well-trained squad. After the program, all of our apprentices are now working on client projects and constantly learning new things along the way.
@@ -161,7 +161,7 @@ Another great outcome we got from this program: more seniors who participated in
 
 The signal was clear, it was time we offered proper training and coaching for leadership, our next leadership batch consists of engineers who have seniority in client-facing experience, work discipline, domain expertise, quality management, and are ready to apply that into powering up the next generation at Dwarves.
 
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_f42ce11a992a281b7bde8ecd70c8f861_md5.webp)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_f42ce11a992a281b7bde8ecd70c8f861_md5.webp)
 
 ## Employee Experience
 ### Launching $ICY for Dwarves’ Engage & Earn System
@@ -186,8 +186,8 @@ A quick suggestion on the talent pool:
 
 We want to spend the bonus on you rather than the headhunting agency. Once the referral gets successfully converted into a full-time position and deployed to a project, the referrer will receive **2.5%** of the project service fee.
 
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_95d0da92d70d9f9296c5f6272250ad6f_md5.webp)
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_8a7a01a12a0d02bfbc4ea9dc305d68e1_md5.webp)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_95d0da92d70d9f9296c5f6272250ad6f_md5.webp)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_8a7a01a12a0d02bfbc4ea9dc305d68e1_md5.webp)
 
 ## Onto the Dwarves 3.0
 The future of Dwarves is a place where people are empowered to make decisions, where they can be confident in their abilities, and where they are working towards positive outcomes.
@@ -198,7 +198,7 @@ Our centric world will thrive the Dwarves themselves are focused, trained and em
 - **Meaning:** the desire to do a software that has meaning and is important. We understand our place in the grand scheme of things, and that scheme has value and purpose, then we perform well.
 - **Autonomous:** provides employees with a sense of collective ownership. We aim to build a flat, transparent organization where everything runs around the mission.
 
-![](assets/2022-dwarves-renaissance-a-year-end-rewind_9b91bb6b399b50ede70b40612fb522cb_md5.webp)
+![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_9b91bb6b399b50ede70b40612fb522cb_md5.webp)
 
 2022 brought us to a new great height, with Dwarves seeing growth in multiple aspects. This year has been one of the most memorable moments in our history.
 
