@@ -53,10 +53,10 @@ A huge congratulations to our **[Dwarves of 2021](/37bc743333e34e89b93f52147055d
 
 We’ve received much input to help improve the team. All of those ideas have been logged into our 2022 to-do list.
 
-and Dwarves, don’t forget to drop your info at [Team Address](https://docs.google.com/spreadsheets/d/1HqwdcSUMXapy8XcQP5xwEuj4yMe75p0FcSmdsF334Hk/edit#gid=1805371046) - I’ll have these small gifts delivered to you real soon.
+And Dwarves, don’t forget to drop your info at Team Address - I’ll have these small gifts delivered to you real soon.
 
 Here’s to rock 2022!
 
-![doty](assets/2021-december-all-hands-meeting_ff19993744fb6047810b5411ce69b707_md5.webp)
+![doty](assets/2021-doty.png)
 
 ![merch](assets/2021-whats-new-december_2021-december-all-hands-meeting_fd61221cb31785842fecd3ff2339aab6_md5.webp)

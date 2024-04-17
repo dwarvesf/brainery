@@ -2,9 +2,10 @@
 tags: 
   - team
   - software
+  - employee
 title: Road To 100
 date: 2022-08-26
-description: null
+description: 2022 matched us with the 80th Dwarves. A notable highlight, and we're ready to have more. It's not easy to find people that has the same value. It takes true & solid seeks.
 authors:
   - Han 🐸
   - nikki 
@@ -46,12 +47,5 @@ The latest stats on our current referral bonus & the top leaderboard. A huge tha
 ![](assets/road-to-100_95d0da92d70d9f9296c5f6272250ad6f_md5.webp)
 
 ![](assets/road-to-100_8a7a01a12a0d02bfbc4ea9dc305d68e1_md5.webp)
-
-### Grow a better squad
-Tempted to put your name in the dashboard?
-
-* Check out the openings at **[career.d.foundation](https://careers.d.foundation/)**.
-* Drop your referral CVs to **[spawn@dwarvesv.com](mailto:spawn@dwarvesv.com)**
-* Join **[our Discord](https://discord.gg/dwarvesv)** and open a ticket
 
 Referral from the team will have a higher chance of being prompted.
