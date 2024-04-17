@@ -13,6 +13,7 @@ hide_frontmatter: true
 pinned: 
 hide_title: false
 ---
+
 Hello, It’s Han & Nikki.
 
 Since you last heard from us, we have been going through a lot of changes. There are both good changes and so-so changes. In this update, we are excited to share the real journey of growth and transformation that our team has embarked upon, as we continue to strive to become a more skilled and knowledgable software team.

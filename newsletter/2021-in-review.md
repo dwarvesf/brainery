@@ -61,8 +61,6 @@ We’re at a stage where we have the chance to get involved in different kinds o
 
 Also, now you can visit Dwarves and have a good time at 4 different locations in Vietnam; HCMC, Danang, Hanoi, Dalat.
 
----
-
 ## So what's in store for 2022?
 As a profitable and fast-moving company, the possibilities ahead of us are limitless. Dwarves 2.0 for us is about finding a great mix of quality and quantity, and becoming greater at what we are already good at.
 

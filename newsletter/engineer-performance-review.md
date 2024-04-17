@@ -16,6 +16,7 @@ hide_frontmatter: true
 pinned: 
 hide_title: false
 ---
+
 Greetings,
 
 It's Han and Nikki from Team Dwarves. Time does fly when we get to do something we love. As we keep working on building up the team and producing codes for our clients, we didn't even notice it's already the end of September. Here's another update from Dwarves for you. Throughout September, we have completed our bi-annual performance review.

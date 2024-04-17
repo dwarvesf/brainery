@@ -16,6 +16,7 @@ hide_frontmatter: false
 pinned: true
 featured: true
 ---
+
 **This month**, we have focused on revamping how we learn, familiarize, and work with tech. We are excited to announce that we have updated our Forward Engineering to better reflect the feedback and insights from our Labs team, Operations Team, and Consulting Team.
 
 This is to hopefully provide you with a more comprehensive publication that not only keeps you informed about the latest technologies and where they are applied, but also foster collaboration and innovation within our organization. We hope you find this edition of Forward Engineering informative and give you a better idea of what we’re doing. As always, we welcome your feedback and encourage you to share your thoughts on the content.
@@ -115,7 +116,7 @@ Huy Nguyen has discussed applying MPC for authentication in the context of web3 
 
 - [[applying-mpc-for-authentication-for-web3-console|Applying MPC for authentication for web3 (Console)]]
 
-####  **Building UI Library Practices**
+####  Building UI Library Practices
 _PICs: Thanh Pham_
 
 Thanh Pham has written about Mochi UI, which likely refers to a set of UI design and development practices. The challenges in this context may include ensuring consistency and usability across different devices and screen sizes, addressing accessibility considerations, and managing the complexity of implementing advanced UI interactions.

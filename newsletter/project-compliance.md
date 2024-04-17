@@ -16,6 +16,7 @@ hide_frontmatter: true
 pinned: 
 hide_title: false
 ---
+
 Hey,
 
 It's Han & Nikki from Team Dwarves. This email is the third month we share about our journey to Software Craftsmanship. The last two issues were in June and July. And we received quite a little feedback from our friends and past clients. Thanks for supporting.
