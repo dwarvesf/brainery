@@ -40,9 +40,7 @@ We’ve refreshed and reorganized our Brainery since the start of August 2021 in
 
 We were surprised to see that our knowledge graph has grown into something substantial, and we’re excited to see what everyone will be learning in 2023.
 
-<p><div class="res_emb_block">
-<iframe width="640" height="480" src="" frameborder="0" allowfullscreen></iframe>
-</div></p>
+![brainery](assets/brainery-graph.mp4)
 
 ### Trending Tags
 A summary of some trending tags we see in our Brainery. These tags represent what things our contributors are actively thinking about and researching.

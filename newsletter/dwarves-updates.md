@@ -16,6 +16,7 @@ hide_frontmatter: true
 pinned: 
 hide_title: false
 ---
+
 Hi, this is Han, the CEO of Dwarves Foundation. This month the Dwarves score 40th client that we have the honor to serve. And for that, we decide to launch the Dwarves Updates.
 
 As we build this company like we build a product, when we think about this approach, we ask different questions: Do people work here know how to use the company? Is it simple? Is it obvious how it works? Are there bugs? What's broken that we can fix quickly and what's going to take a long time?

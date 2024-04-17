@@ -31,8 +31,6 @@ In this month's edition, [Thanh Pham](https://www.linkedin.com/in/thanh-pham-466
 - Learning as the north-star metric
 - Apprenticeship Updates
 
----
-
 ### Our view on the direction of data.
 2018, our bet was blockchain because we saw its endless possibilities, we weren’t wrong. Since then, we have successfully launched a team of 20 folks, focusing solely on building and shipping awesome blockchain products worldwide.
 
@@ -55,7 +53,7 @@ Since we’re big on sharing, we will also be hosting podcasts for our community
 
 We hope this casual format will allow us to invite community members to express their thoughts more casually, give us insights that we may have overlooked, and make the topic around data more involved. We’re open to everyone who looks to share and discuss tech, send a ping via [**our Discord**](http://discord.gg/dwarvesv) and we’ll talk asap.
 
-### Blockchain as a career path.
+### Blockchain as a career path
 The blockchain movement shapes up and integrates into every of our business decisions. It all starts with projects, training & team knowledge base.
 
 We got a chance to sit down with **[Ngoc Thanh](https://www.linkedin.com/in/pham-ngoc-thanh-99626249/), Sr. Blockchain Engineer**. With over 10 years in software development, and has led 5 blockchain projects, his sentiment on blockchain initiates multiple things we do to uplift the team's knowledge base.
@@ -68,7 +66,7 @@ Check out the full read [here](https://www.notion.so/DF-Apprenticeship-2022-Meet
 
 Thanh, along with other team leads and senior engineers at Dwarves are looking for talented people to join their squads. Email us at [spawn@dwarvesv.com](mailto:spawn@dwarvesv.com) if you’re interested in joining them.
 
-### Learning as the north-star metric.
+### Learning as the north-star metric
 Dwarves equal constant learning and sharing. Last month, our theme was Blockchain Concepts and Frontend Guidance.
 
 The team was having a blast. **June's Brainery sees a 116% input increase compared to May's.** And here's the best thing: We got the first community contributors this time. Pretty dope.

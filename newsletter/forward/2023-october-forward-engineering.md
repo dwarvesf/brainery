@@ -25,8 +25,6 @@ Step into the latest edition of the Dwarves Foundation Tech Radar Report, where 
 
 This month has been the month of trying out new and existing tech. We’ve been more eager to get more hands-on to better understand how our tech and research can apply to our projects and our everyday lives.
 
-  
-
 ![](assets/2023-october-forward-engineering_forward-engineering-october-2023_october-forward-engineering_compressed.mp4)
 
 ### Type-safe Server Client Development
@@ -64,9 +62,6 @@ Innovation continues to drive us forward at R&D. For the month ahead, we're expa
 ### Research Topics
 * **Elixir** - Our team has been focusing on expanding our expertise on new as well as current tech. Apart from Go, Elixir has been our second go-to programming language that we want to make more generally available for our engineers and community.
 
-### Research Topics
-  
-
 * **Rust** - Rust has been the de-facto language for workloads that require raw performance without requiring to understand the nuances of memory management. We’ve used Rust over the years for projects like Web3 and would love to expand our journey for more systems and embedded related programming.
 
 * **WASM** - Web Assembly (WASM) has been on and off in the industry, but has proven to be relatively resilient due to it’s output being very close to machine code, offering high performance with low complexity. WASM has been an emerging technology for serverless use-cases as well as embedded databases on the web.
@@ -78,18 +73,9 @@ Innovation continues to drive us forward at R&D. For the month ahead, we're expa
 ### New Tools
 * **Google Analytics 4** - GA4 in the recent year has been taking over UA tags ever since its deprecation. We’ve realized there are much more use-cases we can apply with GA4 that isn’t limited to it’s default analytics. This is exciting for us as we can model and clean event data to aggregate on Google Analytics.
 
-- ************************Passwordless -************************ Passwordless authentication, such as passkeys, have been a growing topic for us and the industry as a whole. The notion that the procedure for logins no longer require a password makes software interactions much quicker and more secure as a result.
+- **Passwordless** - Passwordless authentication, such as passkeys, have been a growing topic for us and the industry as a whole. The notion that the procedure for logins no longer require a password makes software interactions much quicker and more secure as a result.
 
-  
-
-### New Tools
-  
-
-- ************************Google Analytics 4 -************************ GA4 in the recent year has been taking over UA tags ever since its deprecation. We’ve realized there are much more use-cases we can apply with GA4 that isn’t limited to it’s default analytics. This is exciting for us as we can model and clean event data to aggregate on Google Analytics.
-
-- ****************IFramely - I****************Framely is an embeddable library that helps developers handle different types of URL embeds in a unified way. It provides a simple and consistent API for embedding various types of content, such as videos, images, and rich media, from different sources. iFramely takes care of the complexities of parsing and rendering embedded content, allowing developers to focus on the user experience and integration of external content into their applications. It supports a wide range of platforms and services, making it a versatile tool for content embedding.
-
-  
+- **IFramely** - IFramely is an embeddable library that helps developers handle different types of URL embeds in a unified way. It provides a simple and consistent API for embedding various types of content, such as videos, images, and rich media, from different sources. iFramely takes care of the complexities of parsing and rendering embedded content, allowing developers to focus on the user experience and integration of external content into their applications. It supports a wide range of platforms and services, making it a versatile tool for content embedding.
 
 As we persist in our R&D voyage, we endeavor to remain at the forefront of tech progress, delivering creative answers that propel our initiatives and the broader software sector.
 
@@ -106,34 +92,3 @@ As we persist in our R&D voyage, we endeavor to remain at the forefront of tech 
 * **[X releases Grok, a new state-of-the-art LLM](https://x.ai/)** - Elon Musk has been giving a lot of hints in the past of Twitter (now called X) releasing a Large Language Model to compete with OpenAI’s ChatGPT. Benchmarks seem very promising, and there is a great deal of hype within the industry for private access to this new LLM.
 
 ![](assets/2023-october-forward-engineering_forward-engineering-october-2023_untitled-1.webp)
-
-  
-
----
-
-  
-
-In the ever-changing world of technology, design, and trending platforms. We’re dedicated to sharing our research and the knowledge we’ve learned to the community.
-
-  
-
-We have a lot more to share. If you want to keep up with us, we’d love to have you in our next chapter.
-
-  
-
-### Get in touch with Dwarves
-  
-
-Discord: [discord.gg/dwarvesv](https://discord.gg/dwarvesv?fbclid=IwAR0nzdqNuclemLUa7Pg4e2xwAMG2SqPvsD_3EbkVP3p1Oy1c5tl8zHKZPAM)
-
-  
-
-Fanpage: [https://www.facebook.com/dwarvesf](https://www.facebook.com/dwarvesf)
-
-  
-
-Website: [https://dwarves.foundation](https://dwarves.foundation/)
-
-  
-
-Hashnode: [dwarvesf.hashnode.dev](https://dwarvesf.hashnode.dev/)

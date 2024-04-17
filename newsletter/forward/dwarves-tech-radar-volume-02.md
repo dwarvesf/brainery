@@ -19,7 +19,7 @@ Once every month, we gather for Radar update to round up the cool techs and asse
 ### Earthly: The combination Dockerfile + Makefile
 [https://earthly.dev/](https://earthly.dev/)
 
-A repeatable syntax builds to untangle the debugging process between the local environment and the CI platform. Earthly allows our DevOps to merge all the tools into one "Earth", and eventually simplify the whole CI/CD flow. As DevOps must integrate different files from both Makefile and Dockerfile for integration testing, Earthfile was created to remove this burden, automatically. Reproduce CI failures is also what makes Earthly more valuable. This enables developers to run CI on their local env, instead of the constantly `git commit -m "try again"`
+A repeatable syntax builds to untangle the debugging process between the local environment and the CI platform. Earthly allows our DevOps to merge all the tools into one "Earth", and eventually simplify the whole CI/CD flow. As DevOps must integrate different files from both Makefile and Dockerfile for integration testing, Earthfile was created to remove this burden, automatically. Reproduce CI failures is also what makes Earthly more valuable. This enables developers to run CI on their local env, instead of the constantly `git commit -m "try again"`.
 
 We applied it on Voconic, our complex on-going project about Cloud platform, to fully utilize the benefit. Earthly executes targets in parallel and makes our pipelines run much faster.
 

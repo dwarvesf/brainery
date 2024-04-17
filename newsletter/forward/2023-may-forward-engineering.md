@@ -122,8 +122,8 @@ On most of our Dwarves Rewind, we list our thoughts and burning questions each w
 
 **#33:** For sure, GPT-4 long way to go, things are going to change. In general, when selecting a technology for our frontend tech stack, the foremost question we ask is: "Has this technology achieved a certain level of stability and maturity?". They all are associated with the relative ease of development and our ability to stay ahead of the competition. 
 
-**#34: **It is now possible to build AI-powered applications without having to spend months or years learning the ins and outs of machine learning. LLMs have some general embedded knowledge, but they mainly operate on the context that you give them via prompting. 
+**#34:** It is now possible to build AI-powered applications without having to spend months or years learning the ins and outs of machine learning. LLMs have some general embedded knowledge, but they mainly operate on the context that you give them via prompting. 
 
 **#35:** Node.js is improving at a rapid pace, and software is always evolving. We know that the JS community generally suffers from "If it hasn't been updated in the last year, it's probably broken and not modern enough" syndrome, but some software actually ends up being "finished" and good enough for the task at hand.
 
-**#36: **As with any new technology, it's not without knots. While we acknowledge that prompting skills will continue to play a role, we expect that the ability of LLMs (Language Model Models) to adjust to "bad" prompts will surpass our capacity to effectively instruct them.
+**#36:** As with any new technology, it's not without knots. While we acknowledge that prompting skills will continue to play a role, we expect that the ability of LLMs (Language Model Models) to adjust to "bad" prompts will surpass our capacity to effectively instruct them.

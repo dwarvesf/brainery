@@ -50,10 +50,8 @@ The developer world is flooded with numerous frameworks. NextJS, a comprehensive
 
 In the software industry, the exploration of rapidly evolving AI tools for code writing support is becoming increasingly common. One compelling use-case is leveraging ChatGPT to generate tests for existing implementations, or even adopting a Test-Driven Development (TTD) approach where the AI drafts the tests before we implement the details. Beyond testing, our engineers have successfully utilized GPT models to generate Entity-Relationship Diagrams (ERDs) and various UML diagrams, with promising results. While we've experimented with AI for auditing source code, this remains a work-in-progress due to security concerns. Additionally, Copilot has become an invaluable tool in our development workflow, offering next-level autocompletion features that significantly enhance productivity.
 
-# <span style='color:green'>Brainery</span>
----
-
-### <span style='color:green'>Growth and Direction</span>
+## Brainery
+### Growth and Direction
 As we proceed in our journey of knowledge and skill enhancement, our Brainery continues to bloom with exciting ideas and valuable insights. Our contributors have exhibited an increased proficiency in delivering concise writings, covering work delivery, practical concepts, and foundational knowledge.
 
 This month, we are thrilled to highlight our learning journey towards Full stack engineering. Unlike previous months, there has been a greater focus on backend engineering from our Golang 2023 course. We’re really proud of our frontend engineers that participated in our backend course and really excited what they can do with their newfound knowledge. 
@@ -67,11 +65,13 @@ The tags for August include: `#backend` `#test-cases` `#best-practices` `#golang
 
 ![](assets/2023-august-forward-engineering_forward-engineering-august-2023_6ee23ade19901e6c8634676424d18388_md5.webp)
 
-### Top Contributors and NotesOur community continues to thrive due to the collective effort of our talented contributors. 
+### Top Contributors and Notes
+Our community continues to thrive due to the collective effort of our talented contributors. 
 
 Each month, we acknowledge their contributions in our Brainery's **[Latest Notes](https://brain.d.foundation/Latest+Notes)** section, linking their GitHub accounts for further reference.
 
 We also value and encourage our community's interaction on our **[Discord](https://chat.openai.com/discord.gg/dwarvesv)** server. It's a great space to stay updated, engage in lively discussions, and catch up on the latest from us. Be sure to join us there!
+
 ![](assets/2023-august-forward-engineering_forward-engineering-august-2023_e5dccd4a857f77f41f71cc744a916605_md5.webp)
 
 Here are some noteworthy articles that were shared in our Brainery during August:
@@ -112,7 +112,9 @@ Key discussions this month included:
 
 ![](assets/2023-august-forward-engineering_forward-engineering-august-2023_982514c306a616ecbd5c4451112ec201_md5.webp)
 
-* **Exploring animations with Motion Canvas and Remotion** - We take an introductory look into 2 libraries to help us programmatically create animations for algorithms and system design, making the topic more accessible for our engineers across domains. Shoutout to [NGs-Hjodra](https://www.youtube.com/@NGs-Hjodra) for his open-source work and examples on Motion Canvas.
+* **Exploring animations with Motion Canvas and Remotion** 
+We take an introductory look into 2 libraries to help us programmatically create animations for algorithms and system design, making the topic more accessible for our engineers across domains. Shoutout to [NGs-Hjodra](https://www.youtube.com/@NGs-Hjodra) for his open-source work and examples on Motion Canvas.
+
 ![](assets/2023-august-forward-engineering_forward-engineering-august-2023_insertion_sort_compressed.mp4)
 
 These insights continue to broaden our understanding of both traditional and emerging software design concepts, equipping us to better tackle real-world challenges.
@@ -138,4 +140,5 @@ This month, our engineers have been on top of topics related to full stack and D
 ![](assets/2023-august-forward-engineering_forward-engineering-august-2023_86c0a3ea4d4cdf5b9d0a359a22942fa0_md5.webp)
 
 * **[How to Build a Globally Distributed, Multi-Region Identity and Access Platform with Go](https://www.ory.sh/global-identity-and-access-management-multi-region/)** - Organizations are given the ability to effectively manage user identification and authorization on a worldwide scale by global identity and access management (IAM).
+
 ![](assets/2023-august-forward-engineering_forward-engineering-august-2023_ffd18682180d9335dbe0ac7418727372_md5.webp)

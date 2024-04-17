@@ -97,7 +97,7 @@ Below are some of the common problems we’ve begun more critical research and e
 This year, we’ve completed two of our challenges, **Query Database 500M Records** and **Locale on Web and Mobile**. This was a concern spanning across our DevOps, Management, and Engineering domains. We’re proud to list it as our completed challenges:
 
 ### Completed challenges
-Query Database 500M Records, Filter Multiple Table: ***Querying larger datasets invites performance issues and complexity. Our research elaborates techniques for optimizing queries through caching strategies and approaches in cluster architecture.
+Query Database 500M Records, Filter Multiple Table: Querying larger datasets invites performance issues and complexity. Our research elaborates techniques for optimizing queries through caching strategies and approaches in cluster architecture.
 
 * **Locale on Web and Mobile:** Locale is a rather subtle issue that encompasses many aspects required for a multilingual application. Our research expands on database designs for multilingual apps, approaches to continuous translation, and a frontend guideline for internationalization (i18n).
 * **Solutions and articles:**

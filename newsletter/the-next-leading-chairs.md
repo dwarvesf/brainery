@@ -13,6 +13,7 @@ menu: memo
 type: null
 hide_frontmatter: false
 ---
+
 ## Our vision for growth
 Last Jan 2020, we got the chance to celebrate our first milestone - [Dwarves Foundation reached 5 years old](https://dwarves.foundation/five). The remarkable moment contained the proudest thing we delivered.
 
