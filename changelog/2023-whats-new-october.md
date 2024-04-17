@@ -36,7 +36,7 @@ For a tech team like Dwarves, there are only a few things that matter. Coming to
 ## note.d.foundation
 We think of this site as our company wiki. It's where we note (hence the name) and share everything we learn as a team and as a community, knowledge-wise and operation-wise.
 
-![[information_flow.webp]]
+![informationflow](assets/information_flow.png)
 
 With [note.d.foundation](note.d.foundation), we hope the time and effort we spent in the tech industry will become valuable lessons and stories for everyone who also cares about technology and innovation as we do.
 

@@ -36,6 +36,6 @@ Hope you can travel anywhere with this combo. Please help by inputting your info
 
 A big congratulations to our Dwarves of 2021! And thank you to all the Dwarves teammates for being with us through the past seven years. May we all enter 2022 with happiness and success. ♡
 
-![df-merch](assets/2021-dwarves-of-the-year_df-merch.webp)
+![merch](assets/2021-dwarves-of-the-year_df-merch.webp)
 
 ![real-merch](assets/2021-dwarves-of-the-year_real-merch.webp)
