@@ -10,17 +10,16 @@ authors:
   - nikki
   - tom
   - innno_
-menu: memo
+menu: changelog
 type: null
 hide_frontmatter: false
 ---
 
-![](assets/2022-dwarves-summit-engineering-a-good-time_50d7ea1e7a9652013fd0cecdd7596784_md5.webp)
-
-## Dwarves Summit 2022: Engineering a good time
 We don’t treat team bonding the common way because we understand our engineers. Most of our engineers don’t want to run and get sweaty on the beach for “team-building” activities, or pretend to smile in front of the travel agent’s camera.
 
 This was our first company get-together after 2 years of COVID. It was organized in a way that we can all look back at the progress we’ve made, pat ourselves on the back, have a blast together, and look forward to an even better 2023.
+
+![](assets/2022-dwarves-summit-engineering-a-good-time_50d7ea1e7a9652013fd0cecdd7596784_md5.webp)
 
 ## Remote First Company
 We started with *Remote OK* back in 2017, following 37Signals, our tech crush at that time. In 2021, COVID took how we work to the next level. Since 2021, we have transitioned from a *Remote OK* to a **Remote First company** (except for some teammates due to the client’s security requirements). Our internal processes and engineers’ soft skills have been upgraded tremendously, making sure we perform smoothly across multiple time zones and geographies.

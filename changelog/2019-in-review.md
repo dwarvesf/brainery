@@ -3,13 +3,14 @@ tags:
   - updates
   - newsletter
   - wrap-up
+  - team
 title: 2019 In Review
 date: 2020-01-25
 description: 2019 notable highlights and achievements
 authors: 
   - Han 🐸
 menu: changelog
-type: null
+type: newsletter
 hide_frontmatter: false
 ---
 

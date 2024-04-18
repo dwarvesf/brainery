@@ -9,8 +9,8 @@ description: Each month, we release a recap noting all the significant changes w
 authors: 
   - nikki
   - duy
-menu: memo
-type: null
+menu: changelog
+type: newsletter
 hide_frontmatter: false
 ---
 
@@ -20,7 +20,7 @@ It's the first BSCS Metaverse blockchain game on Binance Smart Chain (BSC). Play
 
 We get to deploy a full team for this project, consisting of 6 people, with Khai Le as part-time PM and Ngọc Thành as Team Lead.
 
-We're getting multiple upselling requests, so we need more people to join our team. Dig through your network and refer to us for a handsome bonus! Positions we're hiring can be found **[HERE](http://careers.d.foundation/)**.
+We're getting multiple upselling requests, so we need more people to join our team. Dig through your network and refer to us for a handsome bonus! Positions we're hiring can be found **[HERE](https://memo.d.foundation/careers/hiring/)**.
 
 ### Performance Review
 The team has received all of the self-review notes. Due to the volume of our teammates, 1-1 meetings for some of you will soon be scheduled after the Lunar New Year.

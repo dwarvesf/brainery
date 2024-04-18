@@ -10,7 +10,7 @@ description: A big congratulations to our Dwarves of 2021. Apart from the team's
 authors: 
   - duy
 menu: memo
-type: null
+type: newsletter
 hide_frontmatter: false
 ---
 
