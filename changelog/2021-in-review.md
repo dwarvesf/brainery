@@ -35,9 +35,8 @@ The Dwarves are our greatest asset. Most of our effort goes into hiring the righ
 
 - The Dwarves recently enjoyed a significant raise in compensation.
 - With Dwarves Token, everyone contributing to our growth gets rewarded a portion of the company.
-
 - The engineer career ladder was refined with 1-1 mentoring.
-- We offer more internal training, and the team keeps inputting their valuable piece of Knowledge
+- We offer more internal training, and the team keeps inputting their valuable piece of Knowledge.
 
 By launching [Dwarves Discord](https://discord.gg/dwarvesv), we’re able to connect and interchange our knowledge with the people who care about tech as much as we do.
 
@@ -47,7 +46,6 @@ By launching [Dwarves Discord](https://discord.gg/dwarvesv), we’re able to con
 New technologies shape the future. It's our all-time belief. Within this year, our bet is on the Web3, the Open Internet, and the next-gen automation software using AI and Big Data.
 
 - A blockchain-specialized & web3 team was formed. [Cyber Nekos](http://pod.so/), [Legend of Fantasy War](http://legendfantasywar.com/), [Attrace](http://attrace.com/), [Tokenomy](http://tokenomy.com/) are our highlights.
-
 - **Multiple study groups** within the team focusing on: Blockchain & Web3, Metaverse, AI & ML, Data Science, Automation.
 
 We attract the same DNA. Our clients are organizations that put tech at great importance to their businesses. It's always a proud feeling when our clients share their achievements with us, knowing we play a part in it.
@@ -63,7 +61,9 @@ Even with everything we managed to pull through and achieve, we are still makers
 ### Bigger & borderless team
 Remote working shaped into our culture. Our engineers have the full support they need to perform at their best. People were granted options to upgrade their WFH station. Everything is going smoothly as a 100% remote team across 4 different time zones. 
 
-**The Dwarves seek for more teammates in 2022**. Our team is currently at 60 mems and we road for a double number. The list is opening at [Dwarves Career](https://www.notion.so/Dwarves-Careers-e55e8831f99f424d899b76c2a82fd21b?pvs=21) - but we will find you the best fit if we’re having the same core value. 
+**The Dwarves seek for more teammates in 2022**
+
+Our team is currently at 60 mems and we road for a double number. The list is opening at [Dwarves Career](https://www.notion.so/Dwarves-Careers-e55e8831f99f424d899b76c2a82fd21b?pvs=21) - but we will find you the best fit if we’re having the same core value. 
 And we’d love to onboard like-minded people to our Discord Network: [**discord.gg/dwarvesv**](http://discord.gg/dwarvesv).
 
 ### Forming the getaway chalets
