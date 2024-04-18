@@ -10,7 +10,7 @@ authors:
 - han
 - nikki
 - duy 
-menu: memo
+menu: newsletter
 type: newsletter
 hide_frontmatter: true
 pinned: 
@@ -100,7 +100,7 @@ If you seek to take a turn in software with a dynamic workplace, to work alongsi
 - Catching up with the tech peeps who are not (yet) part of our company, is quite cool. Even if our paths can't cross now, we're grateful to have them around for random chats & knowledge sharing.
 - More people are showing up during our Monday Radio Talk. The latest Radio Talk on [Serverless Architecture](https://www.youtube.com/watch?v=x9aBcOzirwg) was definitely a heat debate.
 
-**Dwarves’ Brainery and Engage & Earn are in full effect.**
+**Dwarves’ Brainery and Engage & Earn are in full effect**
 
 - [Brainery](https://brain.d.foundation) is our knowledge hub, where we what we learn with the world.
 - [Engage & Earn](https://discord.com/channels/462663954813157376/915941020968046612/948468732731199538) is our system of recognizing people who put in the effort to share knowledge.
@@ -115,4 +115,5 @@ If you seek to take a turn in software with a dynamic workplace, to work alongsi
 May we continue this year with genuine happiness & success. We hope your codes are flawless, your managers recognize and appreciate you, and that you get to love what you do.
 
 Until next time,
+
 Han and Nikki.

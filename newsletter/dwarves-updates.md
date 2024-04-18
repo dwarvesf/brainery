@@ -10,7 +10,7 @@ authors:
 - han
 - nikki
 - duy
-menu: memo
+menu: newsletter
 type: newsletter
 hide_frontmatter: true
 pinned: 
@@ -45,4 +45,5 @@ The first launch was hit with fewer applications compared to the Internship one,
 For the detail of the Apprenticeship Program, check out [here](https://github.com/dwarvesf/WeAreHiring/blob/master/open-positions/Apprentice.md).
 
 That's it for the first release. See you next time.
-Han & the Dwarves
+
+Han & the Dwarves.

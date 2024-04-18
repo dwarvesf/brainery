@@ -69,4 +69,5 @@ We don’t have much criteria for scouting partners, as long as you care about t
 Now that we look back, the past few months for us has been a journey of trialing new ways of doing things, regaining unity and expanding our horizons. We look forward to the next chapter, where we aim to deliver even more remarkable results and build lasting relationships with our team members, community, partners and clients.
 
 That's all for now. Until next time,
+
 Han and Nikki.

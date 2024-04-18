@@ -8,8 +8,8 @@ date: 2020-08-26
 description: For this edition, the theme is to get the whole team used to the concept of a central knowledge base—every study to expand our view to the tech scene counts. The design team also has a place to contribute and discuss their practices.
 authors: 
 - duy
-menu: memo
-type: null
+menu: labs
+type: updates
 hide_frontmatter: false
 ---
 

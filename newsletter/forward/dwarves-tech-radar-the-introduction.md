@@ -9,8 +9,8 @@ description: We launch The Dwarves Tech Radar as a living asset to evaluate the 
 authors: 
 - han
 - duy
-menu: memo
-type: null
+menu: labs
+type: updates
 hide_frontmatter: false
 ---
 
