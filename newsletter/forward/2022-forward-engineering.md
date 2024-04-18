@@ -11,13 +11,11 @@ authors:
 - thanh
 - monotykamary
 - innno_
-menu: memo
-type: 
+menu: labs
+type: updates
 hide_frontmatter: false
 author: Tom X Nguyen
 ---
-
-<!-- table_of_contents 0d000d52-c99d-436c-a418-3a451f30f43e -->
 
 ## What is Learning at Dwarves?
 > At Dwarves Foundation, we believe that learning is one of the most important aspects of any organization. We also believe in creating a culture that fosters learning and innovation.

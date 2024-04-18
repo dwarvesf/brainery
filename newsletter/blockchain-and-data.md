@@ -114,4 +114,5 @@ As Dwarves work from anywhere, these little hubs we build across the country ser
 If you work remotely and need a change in the working environment, come spend some time with Dwarves. If you still have to come to the office every day, our company is fully remote and [**we’re always hiring**](https://careers.d.foundation/e55e8831f99f424d899b76c2a82fd21b).
 
 That's all for now. Until next time,
+
 Han & Nikki.

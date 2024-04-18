@@ -11,8 +11,8 @@ authors:
 - thanh
 - monotykamary
 - innno_
-menu: memo
-type: 
+menu: labs
+type: updates
 hide_frontmatter: false
 author: Thanh Pham, Tom X Nguyen
 ---
