@@ -3,6 +3,7 @@ tags:
   - case-study
   - blockchain
   - crypto
+  - consulting
 title: Hedge Foundation A Customized All In One Trading Platform For Pro Traders
 date: 2022-06-17
 description: null
@@ -41,7 +42,9 @@ Hence, Hedge Foundation is expected to meet some critical goals
 * Draw to chart with customized indicator and market data point setting.
 
 He visioned Hedge Foundation as the all-in-one managing system for crypto accounts. It supports visualizing market data, trims trading time, synchronizes all related data, and drives profitable decisions.
+
 ![](assets/hedge-foundation-a-customized-all-in-one-trading-platform-for-pro-traders_e47920a7b8c97022ce8bbaecdb21496c_md5.webp)
+
 ![](assets/hedge-foundation-a-customized-all-in-one-trading-platform-for-pro-traders_a756b023d1f2b51e9426c70b4993f8e2_md5.webp)
 
 ### Engagement Model
@@ -50,6 +53,7 @@ We spent most of our time optimizing the big table. It supposes to provide fast 
 We picked Elixir for its fast, stable, and scalability potential. The data system is integrated service by service, and Binance is the first service we worked with.
 
 **Tech stacks**
+
 We optimize big data SQL query with for query, view and index.
 * Backend: Elixir & Phoenix framework
 * Frontend: Next.js
@@ -58,16 +62,19 @@ We optimize big data SQL query with for query, view and index.
 * Elixir Supervisor and GenServer for crawling
 
 **Collaboration**
+
 We spend the Saturday for product & development progress discussion. This also lays out what’s next to do. 
 
 Daily stand-ups are meant to sync and resolve problems incurred
 
 **Delivery tooling**
+
 * Discussion: Discord
 * Task management: Basecamp, GitHub
 
 ### Outcome
 The feature list is gradually checked up. Hedge Foundation has met all the premised criteria for a crypto-data management tool. We’re on the way to expanding the integration with other trading platforms. This aligns with the business goal: To create more tactical and effective strategies.
+
 ![](assets/hedge-foundation-a-customized-all-in-one-trading-platform-for-pro-traders_a28c16f35596efa1df3a0680b6b1225a_md5.webp)
 
 Dwarves Foundation is a team of design and development experts working closely with clients to craft software, build tech teams, and invest in people who create world's next favorite things.

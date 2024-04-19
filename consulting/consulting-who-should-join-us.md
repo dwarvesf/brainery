@@ -50,4 +50,5 @@ When assessing new members, we have a few qualities that we look for. Those qual
 - spread the knowledge of our team
 
 ## Member Journey
+
 ![](assets/consulting---who-should-join-us-20231221144430130.webp)

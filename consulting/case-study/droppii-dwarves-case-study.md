@@ -17,21 +17,27 @@ hide_title: false
 ---
 
 **Industry**
+
 E-Commerce
 
 **Location**
+
 Vietnam and SEA
 
 **Business Context**
+
 Need for an advanced e-commerce platform to streamline drop shipping operations
 
 **Solution**
+
 Revamped and technologically advanced online system development by Dwarves Foundation
 
 **Outcome**
+
 Launch of Droppii for Business v3.0, providing a scalable, user-friendly platform for business clients and enhancing customer interaction
 
 **Our Service**
+
 Full-Stack Development / Agile Project Management
 
 ## In brief

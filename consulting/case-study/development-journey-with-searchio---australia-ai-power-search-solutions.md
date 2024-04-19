@@ -1,7 +1,9 @@
 ---
 tags:
   - case-study
-title: Development Journey With Searchio Australia Ai Power Search Solutions
+  - AI
+  - consulting
+title: Development Journey With Searchio Australia AI Power Search Solutions
 date: 2021-08-10
 description: 
 authors: 
@@ -24,7 +26,9 @@ hide_frontmatter: false
 ### The Context
 [Search.io](http://search.io/) drives business performance through bespoke online discovery service. Accessible via crawler or API, it provides human-like understanding at machine speed.
 That comes with a full package of platform integration, search through images, A/B testing via crawler and API listing support.
-🔸 Search.io must ensures an optimal user experience. It aims to make the services more accessible. 
+
+>
+> 🔸 Search.io must ensures an optimal user experience. It aims to make the services more accessible. 
 
 That explains the work on open-source and search-widget support.
 
@@ -42,6 +46,7 @@ This makes Search.io more accessible to a broader audience and creates a frictio
 Working with a growing team like Search.io, we ensure the stability to map with their current process. Plans and discussions are a must before every feature. Showcase demo happens on Friday to sync up the work and provide team feedback.
 
 **Tech stacks**
+
 * Frontend: React
 * Backend: Golang
 * Infras: GCP
@@ -49,6 +54,7 @@ Working with a growing team like Search.io, we ensure the stability to map with 
 * Logging/Monitoring: StackDriver
 
 **Collaboration**
+
 * Jira: Task management
 * Slack: Team discussion
 * Hangout & Zoom: Team meeting
@@ -65,5 +71,7 @@ A few highlights we're proud to deliver. Various achievements for open-source pa
 ![](assets/development-journey-with-searchio---australia-ai-power-search-solutions_553a8839ac6f2ddb246b3801a3d3ed46_md5.webp)
 
 Our partnership helps Search.io to enhance their development team to deliver a powerful search and discovery platform. The platform provides real-time searching as-a-service and is trusted by large businesses worldwide. 
+
 ![](assets/development-journey-with-searchio---australia-ai-power-search-solutions_b57cb7d4546a27e2d01deb2968f970ce_md5.webp)
+
 ![](assets/development-journey-with-searchio---australia-ai-power-search-solutions_b70a3de226205f3dcdc72155e8ed362d_md5.webp)

@@ -2,6 +2,7 @@
 tags: 
   - design
   - case-study
+  - consulting
 title: Sol Travel Planning App Part 3
 date: 2018-10-09
 description: null
@@ -10,10 +11,11 @@ menu: memo
 type: null
 hide_frontmatter: false
 ---
-# Introduction
+
+## Introduction
 Today we shall continue our series of designing “Sol-Travel Planning” app. As we mentioned our process on UX research and UI design in the last two articles, Sol’s target users are the young so keeping the app fun with interaction is a must.
 
-# Main Motions
+## Main Motions
 According to Issara Willenskomer from UxinMotion, motion implementation in UX design can greatly help improving usability in four noticeable ways: fulfilling expectation from the users, maintaining continuity among a set of scenes, inventing narrative — story-telling flow throughout the user experience.
 
 ## Onboarding
@@ -44,12 +46,12 @@ When the user swipes an item, it will slide to the left side of the screen to re
 
 ![](assets/sol-travel-planning-app---part-3_3601ea3b7924b28bf5b235a6c19075ab_md5.webp)
 
-# Using Protopie in creating a real-life Prototype
-## Why we choose Protopie
+## Using Protopie in creating a real-life Prototype
+### Why we choose Protopie
 At first, we were looking for an app that not only supports many interactions but also is able to create useful animations. We came across popular apps as inVision, Framer, and Flinto. Each has their pros and cons. For example, inVision is great for webpage prototype because websites don’t require high-level of gestures as mobile (swipe up and down perhaps), just moving between the screens is enough for you to create a viable prototype of your website. But, when it comes to mobile app prototype, the need for other uses of interactions is inevitable, since smartphone users are getting more familiar to a myriad of gestures. That leads us to discover advance prototyping tools like Framer. It is a powerful tool to create a prototype with no limitation of animations or interactions, though it requires a high learning curve since it involves coding, and it doesn’t support importing from Sketch very well. Whereas Protopie is a similar tool that is code-free and requires a much lower learning curve. One of the things I like most about this tool is its document, it provides sufficient info in my learning process.
 
-# Steps to create our motions
-## Switching between segments
+## Steps to create our motions
+### Switching between segments
 The idea of this motion is that when the icon area of a segment is tapped, that segment will slide into the screen as respond. Breaking it down, we have the following rules to create:
 * Each icon area has two states, active and disabled, and there is no more than one active icon at a time.
 * Each segment appears according to the state of the icon presented.
@@ -116,7 +118,7 @@ Finally, we need to set the timeline for each transition, the Scale of the first
 
 The result
 
-![[d3959a2647d201506a68a754df2d241f_MD5.webp]]
+![](assets/sol-app.png)
 
 ## Reference
 https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc

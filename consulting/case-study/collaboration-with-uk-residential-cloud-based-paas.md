@@ -1,6 +1,8 @@
 ---
 tags: 
   - case-study
+  - partnership
+  - consulting
 title: Collaboration With Uk Residential Cloud Based Paas
 date: 2021-02-13
 description: null
@@ -26,18 +28,20 @@ hide_frontmatter: false
 * Tight coupling of backend and frontend for a robust system.
 * 90% test coverage with web-driver end-to-end test before official deployment.
 * **[Open-source repo](https://github.com/reapit/foundations)** for bug report & feature request.
-* Meet launching timeline for **[Reapit Foundation Launch Event](https://www.youtube.com/watch?v=y-Fhlg2jrYo)****.**
+* Meet launching timeline for **[Reapit Foundation Launch Event](https://www.youtube.com/watch?v=y-Fhlg2jrYo).**
 * SLA management for on-time advise and business qualification.
 
 ### The Context
 They currently have 60 engineers in the UK. But they need augmentation to grow faster. A skunkworks team is perfect for that. 
 
 We take over the module development as part of SME solutions. This enables Reapit to trial new ideas for their upcoming launch event: Reapit Foundation. 
+
 ![](assets/collaboration-with-uk-residential-cloud-based-paas_03f985c65996fe3506289487fe14cebe_md5.webp)
 
 Normally, building up a team needs an interference of headhunter, service fee and time to get people onboarded. 
 
-✔️ We tackle that with a team of skillful engineers. Reapit was thrilled to form an Asia offshore team for scaling possibility.
+>
+> ✔️ We tackle that with a team of skillful engineers. Reapit was thrilled to form an Asia offshore team for scaling possibility.
 
 SLA is also a part that we help qualify. More than the code, we offer long term tech strategy.
 
@@ -46,13 +50,17 @@ We form up a Cloud-team with senior React.js. We dive in to take care 2 focuses 
 
 * Reapit's Foundation: Cloud-based Platform-as-a-Service (PaaS) and app marketplace
 * Reapit's Geo Diary: On-the-go app for instant access in daily & weekly appointments.
+
 ![](assets/collaboration-with-uk-residential-cloud-based-paas_4487bd2e7b23af7178fb97c9ab7229d2_md5.webp)
 
 Reapit's Foundation contains of 3 main apps: Admin Portal, Developer Portal and App Marketplace (in which consists of Geo Diary and AML Checklist). Having multiple apps is hard to handle the codebase. We initiatively suggest them monorepo as a united solution. 
+
 ![](assets/collaboration-with-uk-residential-cloud-based-paas_1e27f9ef3561d2ae43b56d50d492f1d4_md5.webp)
+
 ![](assets/collaboration-with-uk-residential-cloud-based-paas_ebf187df610615ccbbb6e52278da6335_md5.webp)
 
 **Collaboration**
+
 Our Account Manager directly work with Reapit’s Engineering Team Leader to ensure development progress. Followed by some team practices:
 * Sprint Planning: Milestone discussion and weekly focus.
 * 4PM Daily meeting: Work status sync-up and problem-resolve.
@@ -60,9 +68,11 @@ Our Account Manager directly work with Reapit’s Engineering Team Leader to ens
 * Task list: Member can bid on task due to personal capacities. 
 
 This approach drives a proactivity for teammates. We're able to catch up shortly, discuss on roadblocks, quickly response to incidents and perform at our best state.
+
 ![](assets/collaboration-with-uk-residential-cloud-based-paas_eee4929e10e587c87e386ec5283449a1_md5.webp)
 
 **Tech stacks**
+
 * Backend: NodeJS
 * Frontend: React.js, TypeScript, Svelte
 * Infras: AWS
@@ -70,6 +80,7 @@ This approach drives a proactivity for teammates. We're able to catch up shortly
 * Testing: Jest, Cypress
 
 **Collaboration**
+
 * Agile practices
 * Sprint planning, Sprint update & Daily sync-up
 * Slack & Basecamp
@@ -79,6 +90,9 @@ This approach drives a proactivity for teammates. We're able to catch up shortly
 With 2 weeks for product research and 2 weeks for development, we're proud to introduce the prototype - which enables Reapit to meet their launching timeline for **[Reapit Foundation Launch Event](https://www.youtube.com/watch?v=y-Fhlg2jrYo)**
 
 Reapit shortly rolled out the beta version for App Store, 3 mini-apps & Foundation Developer Portal to successfully level up their Foundation App Marketplace.
+
 ![](assets/collaboration-with-uk-residential-cloud-based-paas_46cc6c924b0fe441437723fc1fb52d9c_md5.webp)
+
 ![](assets/collaboration-with-uk-residential-cloud-based-paas_92722efc9491056859de44344025550a_md5.webp)
+
 ![](assets/collaboration-with-uk-residential-cloud-based-paas_7d8f93b0e2c88250d392b435892c7559_md5.webp)

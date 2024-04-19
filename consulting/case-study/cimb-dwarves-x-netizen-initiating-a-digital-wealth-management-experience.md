@@ -1,7 +1,9 @@
 ---
 tags: 
   - case-study
-title: Cimb Dwarves X Netizen Initiating A Digital Wealth Management Experience
+  - partnership
+  - consulting
+title: CIMB Dwarves X Netizen Initiating A Digital Wealth Management Experience
 date: 2023-08-16
 description: null
 authors: null
@@ -12,25 +14,33 @@ author: Huy Tieu
 ---
 
 ![](assets/cimb-dwarves-x-netizen-initiating-a-digital-wealth-management-experience_2fa7fc70c8f1608d99e6ae08dad2b952_md5.webp)
+
 <!-- table_of_contents cd4ef05d-487b-4bd9-be49-7d247e47bc94 -->
+
 **Industry**
+
 Fintech
 
 **Tech stack**
+
 MySQL, JAVA Spring Boot, and Angular
 
 **Location**
+
 South East Asia
 
 **Solution**
+
 Fast recruiting senior engineers to collaborate with CIMB’s tech team.
 
 Deliver quality and collaboration control through out the project to hit targeted timeline.
 
 **Outcome**
+
 In charge of the backend foundation, we marked a milestone in CIMB's digital transformation journey, with a streamlined, customer-focused experience contributed to CIMB's forward-looking vision.
 
 **Our Service**
+
 Tech Consulting, Staff Augmentation
 
 ### In brief
@@ -55,6 +65,7 @@ The project's tech stack included MySQL, JAVA Spring Boot, and Angular, with the
 
 ### Communication / Engagement Model
 Navigating a project with multiple stakeholders demands meticulous coordination and transparency. To ensure seamless interaction and productivity throughout the project's duration, we adopted a tailored communication model:
+
 1. **Rapid Recruitment through Talent Pool:** Have been building tech communities since 2020, we were about to quickly recruit and onboard developers suited for the job, ensuring a head start without any undue delays.
 2. **Three-Party Partner Engagement:** This project involved the collaboration of Dwarves, Netizen, and CIMB. Recognizing the intricacies of such a setup:
 3. **Alignment Meetings:** Regular tri-party sync-ups were organized to establish common project goals, clarify responsibilities, and address potential bottlenecks.
@@ -71,5 +82,6 @@ The collaboration between CIMB Malaysia, Dwarves Foundation, and Netizen resulte
 * **Architecture Revamp:** From a technical perspective, the transition to a dynamic API gateway and seamless integration with legacy systems provided a more scalable, robust, and flexible backend. This change not only enhanced performance but also future-proofed CIMB's systems against rapid tech advancements.
 
 **Conclusion**
+
 CIMB's digital transformation, backed by architectural advancements, sets a benchmark for excellence, ensuring enhanced customer satisfaction and operational agility for the bank's future endeavors.
 Dwarves Foundation is a team of design and development experts working closely with clients to craft software, build tech teams, and invest in people who create world's next favorite things.
