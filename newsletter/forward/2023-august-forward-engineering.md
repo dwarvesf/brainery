@@ -10,8 +10,8 @@ description: "Our adventure until now has been incredibly thrilling, with a stro
 authors:
   - thanh
   - monotykamary
-menu: memo
-type: 
+menu: labs
+type: updates
 hide_frontmatter: false
 author: Thanh Pham, Tom X Nguyen
 ---
@@ -129,16 +129,16 @@ This month, our engineers have been on top of topics related to full stack and D
 
 * **[Product and Platform Engineers](https://leerob.io/blog/product-engineers)** - The changing landscape of frontend and backend engineering and the emergence of product and platform engineers. Frontend developers are now building entire web applications, while backend developers are faced with the choice of supporting frontend code or focusing on infrastructure.
 
-![](assets/2023-august-forward-engineering_forward-engineering-august-2023_297808eb5b9e65cd393bf16028f5ea4d_md5.webp)
+  ![](assets/2023-august-forward-engineering_forward-engineering-august-2023_297808eb5b9e65cd393bf16028f5ea4d_md5.webp)
 
 * **[An Engineering Story Map for LLMs (by Tom Nguyen)](https://dwarvesf.hashnode.dev/an-engineering-story-map-for-llms)** - This story map aims to help engineers learn how to investigate and create AI applications like chatbots, code automation, personal assistants, and LLMs like ChatGPT and LLaMA.
 
-![](assets/2023-august-forward-engineering_forward-engineering-august-2023_1780847ec8d1a39bed3a7f562fd5a9a4_md5.webp)
+  ![](assets/2023-august-forward-engineering_forward-engineering-august-2023_1780847ec8d1a39bed3a7f562fd5a9a4_md5.webp)
 
 * **[Open challenges in LLM research (Huyen Chip)](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html)** - [Chip Huyen](https://www.linkedin.com/in/chiphuyen?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAIQAJQBE3ykLNnsOPVvxwuuVCOir2zAjOQ) has discussed some of the open challenges in LLMs research, crucial for improving the performance and applicability of these models.
 
-![](assets/2023-august-forward-engineering_forward-engineering-august-2023_86c0a3ea4d4cdf5b9d0a359a22942fa0_md5.webp)
+  ![](assets/2023-august-forward-engineering_forward-engineering-august-2023_86c0a3ea4d4cdf5b9d0a359a22942fa0_md5.webp)
 
 * **[How to Build a Globally Distributed, Multi-Region Identity and Access Platform with Go](https://www.ory.sh/global-identity-and-access-management-multi-region/)** - Organizations are given the ability to effectively manage user identification and authorization on a worldwide scale by global identity and access management (IAM).
 
-![](assets/2023-august-forward-engineering_forward-engineering-august-2023_ffd18682180d9335dbe0ac7418727372_md5.webp)
+  ![](assets/2023-august-forward-engineering_forward-engineering-august-2023_ffd18682180d9335dbe0ac7418727372_md5.webp)

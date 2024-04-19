@@ -2,6 +2,8 @@
 tags:
   - case-study
   - design
+  - consulting
+  - crypto
 title: Architect Frontend Site And Mobile Development For Crypto Investment Ecosystem
 date: 2021-08-09
 description: 
@@ -10,7 +12,9 @@ menu: memo
 type: 
 hide_frontmatter: false
 ---
-![[b20655a884273b1b8ccc6866067ed593_MD5.webp]]
+
+![](assets/tokenomy.png)
+
 ### In brief
 * Founded in 2017 as an innovation arm of INDODAX, Tokenomy is a crypto investment network through blockchain-enabled tokens.
 * Currently reached the seed round funded by LazyLedger, Tokenomy aims to reach a broader customer segment through web platforms and mobile apps.
@@ -29,21 +33,24 @@ They came to us at first to refactor the frontend foundation. The partnership th
 
 The Android app is expected to release first, followed by applying the new design. The web app needs to be ready for essential functions. Meanwhile, the backend must be equipped with API optimization. 
 
-🌀 The Dwarves was able to test out a brand new domain. The work with Tokenomy kicked off our journey into the blockchain industry. 
+>
+> 🌀 The Dwarves was able to test out a brand new domain. The work with Tokenomy kicked off our journey into the blockchain industry. 
 
 With a team of 4, we work along side with them to make sure the progress moves forward. 
 
-![[d96b9989d4c51b4c56fa6606fc0e7c98_MD5.webp]]
+![](assets/tokenomy-2.png)
 
 ### Engagement Model
 Tokenomy is our first Android project app for cryptocurrency trading platforms. Our team gains new insight through different work scopes.
 We develop the new Premium web app from scratch. We take over the Android mobile app, dive into market research to redesign the app UI.
 The app supports dark/light theme switching, data caching, and retrying failed API calls. With the fingerprint approach, the user's password is stored at keystore - the safest system for encrypted critical data. We get to ensure privacy and no memory leak. There are 2 API versions in its backend. Our Android module was built to support both of them.
-![[ba8c0a78e8ba694a66084cddfd15c53e_MD5.webp]]
+
+![](assets/toke-architecture.png)
 
 Every UI and user flow get reviewed before implementation. That's how we give feedback to the product team. We keep everyone on the same page with weekly product changelogs.
 
 **Tech stacks**
+
 * Backend: Elixir, Phoenix
 * Frontend: React, TailwindCSS, Redux
 * Database: Postgres, RESTful API
@@ -51,6 +58,7 @@ Every UI and user flow get reviewed before implementation. That's how we give fe
 * Mobile: Kotlin, Reactivex
 
 **Collaboration**
+
 * Slack: Team discussion
 * Pivotal Tracker/ Jira: Task Management
 * Google Hangout: Team meeting
@@ -59,7 +67,7 @@ Every UI and user flow get reviewed before implementation. That's how we give fe
 ### Outcome
 Huge adjustments in UI and business logic cause challenges. We're glad to strive through with a robust mobile app and stunning new UI.
 The architected solid frontend foundation allows their new features to be implemented quickly. The dark/light them app serves a better user's demand. Their product can go strictly according to the roadmap.
-![[5ed994f543d12d33b13a0c4ddbe2fdd5_MD5.webp]]
-![[e1eb25446c7780fecc60e959ab784b3f_MD5.webp]]
 
-![[d464b8b171de78c5007777ac2c8a2682_MD5.webp]]
+![](assets/tokenomy-app.png)
+
+![](assets/toke-ws.png)

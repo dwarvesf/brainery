@@ -11,13 +11,11 @@ authors:
 - thanh
 - monotykamary
 - innno_
-menu: memo
-type: 
+menu: labs
+type: updates
 hide_frontmatter: false
 author: Tom X Nguyen
 ---
-
-<!-- table_of_contents 0d000d52-c99d-436c-a418-3a451f30f43e -->
 
 ## What is Learning at Dwarves?
 > At Dwarves Foundation, we believe that learning is one of the most important aspects of any organization. We also believe in creating a culture that fosters learning and innovation.
@@ -40,7 +38,7 @@ We’ve refreshed and reorganized our Brainery since the start of August 2021 in
 
 We were surprised to see that our knowledge graph has grown into something substantial, and we’re excited to see what everyone will be learning in 2023.
 
-![brainery](assets/brainery-graph.mp4)
+![brainery](assets/2022-forward-engineering_brainery-graph_compressed.mp4)
 
 ### Trending Tags
 A summary of some trending tags we see in our Brainery. These tags represent what things our contributors are actively thinking about and researching.

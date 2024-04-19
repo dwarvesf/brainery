@@ -1,7 +1,9 @@
 ---
 tags: 
   - case-study
-title: Help Momos Team Build An MVP Shopify For Fb Merchandises In Sg
+  - consulting
+  - partnership
+title: Help Momos Team Build An MVP Shopify For Fb Merchandises In Singapore
 date: 2021-07-01
 description: null
 authors: null
@@ -29,16 +31,19 @@ Momos works as the centralized data hub.
 Businesses are shifting their services online. They need different partners to make it happen.
 
 By using Momos as a **centralized data hub**, businesses can focus on delivering their products.
+
 ![](assets/help-momos-team-build-an-mvp-shopify-for-fb-merchandises-in-sg_7ab1ca707a007169087c6d5f337deac3_md5.webp)
 
 The founders planned to **expand the integration** when they found us through their connections. We took the initial step with Food delivery partner (Grab, Foodpanda + Deliveroo), starting with mapping the API into Facebook platform. The priority falls for API mapping and dashboard to analyze the core metrics, create report summary, and measure the product impact.
 
-📍 As startups supporters, we understand it's a changing environment. It's our job to know their business and contribute to the tech foundation during the early stages.
+>
+> 📍 As startups supporters, we understand it's a changing environment. It's our job to know their business and contribute to the tech foundation during the early stages.
 
 ### Engagement Model
 Working with startups means everything needs to be fast and ready for the client to ship out. We manage to deploy resources with work ownership, who understand the product and are ready to communicate.
 
 **Tech Stacks**
+
 * Backend: Node.js
 * Frontend: React & Next.js
 * Database: PosgreSQL
@@ -47,15 +52,18 @@ Working with startups means everything needs to be fast and ready for the client
 * Cronjob: AWS EventBridge
 * Error catching: Sentry
 * Analytics: Google Studio
+
 That spirit spread in our tech stacks choice.
 We care about user privacy. Auth0 was utilized during the process of syncing the database.
 Built upon OAuth 2.0, Auth0 allows us to protect user data with limited access from third parties.
 
 **Communication**
+
 The team structure consists of engineers in SG, India & Vietnam. We rely on tools to keep remote collaboration happen effectively.
 
 The work sync-up happens through Slack and Google Meets. All tasks are managed in Notion to ensure the progress stays on track.
 The weekly achievement is summarized and delivered as weekly change logs.
+
 ![](assets/help-momos-team-build-an-mvp-shopify-for-fb-merchandises-in-sg_f6d49407f04a4f963f2f8dd28b706103_md5.webp)
 
 ### Outcome
@@ -64,6 +72,9 @@ After a few months, Momos successfully **launched their platform, onboard new 
 Of course, the journey doesn't end there. We are still actively contributing to momos development. We head for the next milestone where analytics dashboard and review management can perform outstandingly.
 
 See more at: **[momos.io](https://www.momos.io/)**
+
 ![](assets/help-momos-team-build-an-mvp-shopify-for-fb-merchandises-in-sg_bf1d4c22750395b3792bae00e9c2f441_md5.webp)
+
 ![](assets/help-momos-team-build-an-mvp-shopify-for-fb-merchandises-in-sg_da8b1ed04fc1ec815f6667456352c9b8_md5.webp)
+
 ![](assets/help-momos-team-build-an-mvp-shopify-for-fb-merchandises-in-sg_c252d4367144a36e352020df14f829b7_md5.webp)

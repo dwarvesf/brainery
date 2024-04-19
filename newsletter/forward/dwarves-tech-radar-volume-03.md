@@ -8,8 +8,8 @@ date: 2021-04-29
 description: "In short, this 3rd volume is all about one thing: Trial"
 authors:
 - duy
-menu: memo
-type: null
+menu: labs
+type: updates
 hide_frontmatter: false
 ---
 

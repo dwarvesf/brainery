@@ -2,7 +2,7 @@
 tags:
   - engineering
   - performance
-  - dwarves
+  - updates
   - forward-engineering
 title: Forward Engineering March 2023
 date: 2023-04-03
@@ -11,8 +11,8 @@ authors:
 - thanh
 - monotykamary
 - innno_
-menu: memo
-type: 
+menu: labs
+type: updates
 hide_frontmatter: false
 author: Thanh Pham, Tom X Nguyen
 ---
@@ -74,6 +74,7 @@ A summary of some trending tags we see in our Brainery. These tags represent wha
 Every month, we collect a list of top contributors, those who have contributed knowledge to our Brainery for this month. We consolidate our writer’s articles with their GitHub account at our Brainery’s [Latest Notes](https://brain.d.foundation/Latest+Notes).
 
 We also make sure to give recognition on our [Discord](discord.gg/dwarvesv) server, so be sure to catch up with us there!
+
 ![](assets/2023-march-forward-engineering_forward-engineering-march-2023_b3fb572286808f5d94e7fea27d48c68e_md5.webp)
 
 * [leduyhien152](https://github.com/leduyhien152) - [When should we use useReducer instead of useState?](https://brain.d.foundation/Engineering/Frontend/When+should+we+use+useReducer+instead+of+useState%3F)
@@ -101,12 +102,12 @@ Query Database 500M Records, Filter Multiple Table: Querying larger datasets inv
 
 * **Locale on Web and Mobile:** Locale is a rather subtle issue that encompasses many aspects required for a multilingual application. Our research expands on database designs for multilingual apps, approaches to continuous translation, and a frontend guideline for internationalization (i18n).
 * **Solutions and articles:**
-* [https://dwarvesf.hashnode.dev/optimizing-queries-for-big-database](https://dwarvesf.hashnode.dev/optimizing-queries-for-big-database)
-* [https://medium.com/dwarves-foundation/optimize-query-for-big-database-c7b6952326af](https://medium.com/dwarves-foundation/optimize-query-for-big-database-c7b6952326af)
+  * [https://dwarvesf.hashnode.dev/optimizing-queries-for-big-database](https://dwarvesf.hashnode.dev/optimizing-queries-for-big-database)
+  * [https://medium.com/dwarves-foundation/optimize-query-for-big-database-c7b6952326af](https://medium.com/dwarves-foundation/optimize-query-for-big-database-c7b6952326af)
 * **Solutions and articles:**
-* [https://dwarvesf.hashnode.dev/i18n-frontend-guideline](https://dwarvesf.hashnode.dev/i18n-frontend-guideline)
-* [https://dwarvesf.hashnode.dev/continuous-translation](https://dwarvesf.hashnode.dev/continuous-translation)
-* [https://dwarvesf.hashnode.dev/database-designs-for-multilingual-apps](https://dwarvesf.hashnode.dev/database-designs-for-multilingual-apps)
+  * [https://dwarvesf.hashnode.dev/i18n-frontend-guideline](https://dwarvesf.hashnode.dev/i18n-frontend-guideline)
+  * [https://dwarvesf.hashnode.dev/continuous-translation](https://dwarvesf.hashnode.dev/continuous-translation)
+  * [https://dwarvesf.hashnode.dev/database-designs-for-multilingual-apps](https://dwarvesf.hashnode.dev/database-designs-for-multilingual-apps)
 
 ### Keywords for upcoming challenges
 Here are some of the keywords we’re on the watch for where we haven’t specified a problem statement but we expect will manifest challenges in the near future.
