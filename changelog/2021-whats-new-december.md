@@ -57,6 +57,6 @@ And Dwarves, don’t forget to drop your info at Team Address - I’ll have thes
 
 Here’s to rock 2022!
 
-![doty](assets/2021-doty.png)
+![doty](assets/2021-whats-new-december_2021-doty.webp)
 
 ![merch](assets/2021-whats-new-december_2021-december-all-hands-meeting_fd61221cb31785842fecd3ff2339aab6_md5.webp)
