@@ -12,7 +12,7 @@ authors:
   - nikki 
   - duy
 menu: changelog
-type: null
+type: newsletter
 hide_frontmatter: false
 ---
 

@@ -26,7 +26,7 @@ hide_frontmatter: false
 * GDPR standard for data privacy
 * Fraud detection & verification network
 
-![](assets/adopt-blockchain-on-netherland-affiliate-marketing-platform.png)
+![](assets/adopt-blockchain-on-netherlands-affiliate-marketing-platform_adopt-blockchain-on-netherland-affiliate-marketing-platform.webp)
 
 ## The Context
 Attrace's concept is a marketing platform that helps merchants feature and advertise their products.
@@ -35,11 +35,11 @@ Hazy cashflow may create loopholes for security fraud. Attrace moves the network
 
 Attrace's blockchain network logs agreements between parties through a smart contract & linked to individual clicks. 
 
-![](assets/adopt-blockchain-on-netherland-referral-network.png)
+![](assets/adopt-blockchain-on-netherlands-affiliate-marketing-platform_adopt-blockchain-on-netherland-referral-network.webp)
 
-![](assets/adopt-blockchain-on-netherland-app.png)
+![](assets/adopt-blockchain-on-netherlands-affiliate-marketing-platform_adopt-blockchain-on-netherland-app.webp)
 
-![](assets/adopt-blockchain-on-netherland-benefits.png)
+![](assets/adopt-blockchain-on-netherlands-affiliate-marketing-platform_adopt-blockchain-on-netherland-benefits.webp)
 
 >
 > 🌀 We build Attrace with **blockchain-nodes**. It provides transparent transactions, creates secure networks and real-time communications between parties.
@@ -79,9 +79,9 @@ Attrace marked up their next highlights with an achievement streak
 * Launch Attrace Referral Network
 * Listing on UniSwap & SushiSwap
 
-![](assets/adopt-blockchain-on-netherland-referral-network-1.png)
+![](assets/adopt-blockchain-on-netherlands-affiliate-marketing-platform_adopt-blockchain-on-netherland-referral-network-1.webp)
 
-![](assets/adopt-blockchain-on-uniswap.png)
+![](assets/adopt-blockchain-on-netherlands-affiliate-marketing-platform_adopt-blockchain-on-uniswap.webp)
 
 >
 > 💬 "They left us with great development and improvement, in terms of work result and team synchronization. A worthy evidence for Attrace’s investments and we hope nothing more than to keep going with them in long-term, provide opportunities for these devs to grow with Attrace."

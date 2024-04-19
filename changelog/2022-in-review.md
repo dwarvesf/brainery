@@ -14,7 +14,6 @@ authors:
 menu: changelog
 type: newsletter
 hide_frontmatter: false
-hide_title: false
 ---
 
 Successfully went through 2022, a year that we might say -  a new record: team reached highest growth record, kickstarted community engagement, home, compliance training & individual development are speeding up, and a whole new place to call Dwarves.
@@ -55,7 +54,6 @@ Feature Flags tackled a concern spanning across our DevOps, Management, and Engi
 
 ### Learning As The North-star Metric
 ![](assets/2022-in-review_brainery-graph-1_compressed.mp4)
-![](assets/2022-in-review_2022-dwarves-renaissance-a-t year-end-rewind_c0e7603e2f53bf302f58fa12bb036d27_md5_compressed.mp4)
 
 *A 2022 look back on our Brainery timeline, with a total of 128 notes contributed.*
 

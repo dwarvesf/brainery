@@ -3,6 +3,7 @@ tags:
   - team
   - software
   - employee
+  - updates
 title: Road To 100
 date: 2022-08-26
 description: 2022 matched us with the 80th Dwarves. A notable highlight, and we're ready to have more. It's not easy to find people that has the same value. It takes true & solid seeks.
@@ -10,8 +11,8 @@ authors:
   - Han 🐸
   - nikki 
   - duy
-menu: memo
-type: null
+menu: changelog
+type: newsletter
 hide_frontmatter: false
 ---
 

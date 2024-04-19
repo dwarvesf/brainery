@@ -10,7 +10,7 @@ description: Each month, we release a recap noting all the significant changes w
 authors: 
   - duy
 menu: changelog
-type: null
+type: newsletter
 hide_frontmatter: false
 ---
 
