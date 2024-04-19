@@ -10,7 +10,7 @@ authors:
 - han
 - nikki
 - duy
-menu: memo
+menu: newsletter
 type: newsletter
 hide_frontmatter: true
 pinned: 
@@ -65,4 +65,5 @@ Those are just a few initiatives we're currently pushing, there are more in our 
 That's all for this update. We hope you have a great week ahead.
 
 Til next time,
+
 Han & Team Dwarves.

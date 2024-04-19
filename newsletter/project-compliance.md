@@ -10,7 +10,7 @@ authors:
 - han
 - nikki
 - duy
-menu: memo
+menu: newsletter
 type: newsletter
 hide_frontmatter: true
 pinned: 
@@ -52,4 +52,5 @@ The last bullet point has us literally over the moon. Because only when engineer
 Our ultimate goal is to build and ship software. That starts with our engineers really understanding software. Therefore, we will continue to encourage our engineers to take the initiative and grow beyond their title.
 
 That's it for the this issue. See you next time.
+
 Han & the Dwarves

@@ -10,7 +10,7 @@ authors:
 - han
 - nikki
 - duy
-menu: memo
+menu: newsletter
 type: newsletter
 hide_frontmatter: true
 pinned: 
@@ -40,3 +40,7 @@ We like to joke within our team that the goal is to make "every line of code res
 As someone who leads and serves a team, I'm convinced taking actions to improve employee well-being is a must, but the outcomes still thrive beyond our expectations. And the astounding thing is that it's not difficult, even the smallest things we can do for our people can yield significant impacts.
 
 ![](assets/dalat-office-20240312101752623.webp)
+
+Til next time,
+
+Han & the Dwarves.

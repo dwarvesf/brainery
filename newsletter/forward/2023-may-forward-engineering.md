@@ -11,15 +11,17 @@ authors:
 - thanh
 - monotykamary
 - innno_
-menu: memo
-type: null
+menu: labs
+type: updates
 hide_frontmatter: false
 ---
 
 The technological landscape is vast, brimming with opportunities for exploration and growth. As we stand on the brink of May, we pause to reflect on our journey thus far and chart our course forward. In this month's report, we bring you the fruit of our endeavors and the promise of our vision.
 
 ## Tech Radar
-As we advance into a new phase, our engineering team is setting its sights on a new strategic focus - "Exploring Large Language Models (LLM)". This shift, at the heart of our product development and business intelligence initiatives, aims to enhance our ability to work with AI-driven language models, allowing us to offer improved user interactions, more personalized product suggestions, and better business understanding. In tandem with this, we are implementing a robust automation framework leveraging Codecept and Playwright, to automate tasks, refine workflows, and maintain high-quality standards. Concurrently, we're assessing the potential of Radix UI to help us develop highly intuitive, accessible user interfaces. While these advancements in automation and UI development play a vital role, our primary emphasis remains on the exploration of LLMs, a venture we believe will bolster our position at the cutting edge of technological innovation. Our May journey embodies our commitment to continual learning, delivering exceptional value to our users, and meeting our business needs with agility and innovation.
+As we advance into a new phase, our engineering team is setting its sights on a new strategic focus - "Exploring Large Language Models (LLM)". This shift, at the heart of our product development and business intelligence initiatives, aims to enhance our ability to work with AI-driven language models, allowing us to offer improved user interactions, more personalized product suggestions, and better business understanding. In tandem with this, we are implementing a robust automation framework leveraging Codecept and Playwright, to automate tasks, refine workflows, and maintain high-quality standards. 
+
+Concurrently, we're assessing the potential of Radix UI to help us develop highly intuitive, accessible user interfaces. While these advancements in automation and UI development play a vital role, our primary emphasis remains on the exploration of LLMs, a venture we believe will bolster our position at the cutting edge of technological innovation. Our May journey embodies our commitment to continual learning, delivering exceptional value to our users, and meeting our business needs with agility and innovation.
 
 ### Large Language Models
 ***Assess***
@@ -81,9 +83,12 @@ Below are some of the common problems we’ve begun more critical research and e
 * **Recommender system**: Our research focuses on the pivotal role vector databases play in recommender systems, facilitating efficient searches by representing items as vectors. This feature amplifies AI systems' capability to provide personalized recommendations. Our goal is to discover strategies to optimize these databases, enhancing user experiences across digital platforms like social networks, streaming services, and e-commerce sites. Our success hinges on contributing valuable insights and innovations in this key area of AI recommender systems.
 
 ### Completed challenges
-**Distributed Concurrency over a single database:** Concurrency control is a crucial aspect of developing applications that can handle multiple user requests simultaneously. It is not uncommon for multiple users to access the same data at the same time in SQL, such that it requires concurrency control techniques over the whole application. Our team has completed this challenge and is currently wrapping up write-ups on the topics.
+**Distributed Concurrency over a single database:** 
+
+Concurrency control is a crucial aspect of developing applications that can handle multiple user requests simultaneously. It is not uncommon for multiple users to access the same data at the same time in SQL, such that it requires concurrency control techniques over the whole application. Our team has completed this challenge and is currently wrapping up write-ups on the topics.
 
 **Solutions and articles:**
+
 * [https://dwarvesf.hashnode.dev/managing-dataflow-and-sql-database-with-concurrency-control](https://dwarvesf.hashnode.dev/managing-dataflow-and-sql-database-with-concurrency-control)
 * [https://dwarvesf.hashnode.dev/lessons-learned-from-concurrency-practices-in-blockchain-projects](https://dwarvesf.hashnode.dev/lessons-learned-from-concurrency-practices-in-blockchain-projects)
 

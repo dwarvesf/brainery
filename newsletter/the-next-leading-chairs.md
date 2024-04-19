@@ -9,8 +9,8 @@ description: We like the idea of labeling teams by what they deliver. Hence, the
 authors: 
 - Han 🐸
 - duy
-menu: memo
-type: null
+menu: newsletter
+type: newsletter
 hide_frontmatter: false
 ---
 
@@ -48,3 +48,7 @@ We like the idea of labeling teams by what they deliver. Hence, the next chapter
 My best of applause to have these rising elements for the next phase of Dwarves.
 
 ![](assets/the-next-leading-chairs_0b2a2535fa84512ad9d05bd2dc24f3ae_md5.webp)
+
+Til next time,
+
+Han & the Dwarves.

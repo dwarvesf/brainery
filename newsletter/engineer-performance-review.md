@@ -47,4 +47,5 @@ Some can even say we're a bit strict, but that's how we uphold a high quality ba
 That's it for now. Thank you for reading through.
 
 Til next time,
+
 Han & the Dwarves.

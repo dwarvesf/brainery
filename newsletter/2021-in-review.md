@@ -10,12 +10,13 @@ authors:
 - han
 - nikki
 - duy
-menu: 
-type: 
+menu: newsletter
+type: newsletter
 hide_frontmatter: true
 pinned: 
 hide_title: false
 ---
+
 Hey, it’s Han and Nikki in your inbox again. On behalf of the entire Dwarves team, happy 2022!
 
 For us 2021 is eventful, and memorable. It was full of changes and challenges, but our can-do mindset made us gritty. While we didn’t have all the answers, we decided to just try and do. As we state in our [Agile Minifesto](https://dwarves.foundation/manifesto): fail fast, learn often, and it's okay to start over.
@@ -24,12 +25,12 @@ The results were beyond our expectation. We got to collaborate with several grea
 
 We wouldn’t have made it without everyone reading this email right now. So to say, we’re incredibly grateful to you, the one trusting us enough to offer us those dream collaborations, evangelizing our services and participate in helping us scaling and up-leveling our team.
 
-### 2021 - a year of innovative reconstruction, dream collaborations and our journey to be better.
-**In numbers**
+## 2021 - a year of innovative reconstruction, dream collaborations and our journey to be better
+### In numbers
 
 ![](assets/2021-in-review-20240312110121546.webp)
 
-**In timeline**
+### In timeline
 
 ![](assets/2021-in-review-20240312110136985.webp)
 
@@ -67,7 +68,7 @@ As a profitable and fast-moving company, the possibilities ahead of us are limit
 - **Doubling down on blockchain & web3**. We are never to stay behind when it comes to tech.
 - **Partnering with even more fantastic teams** and ship more top-notch products. We want to help more and more businesses to be able to leverage technology.
 - **Leveling up**. We are going to be a team that knows how to build software right, and is able to teach others on that.
-- **Scaling up**. We are expanding the team and hope to reach those with the same DNAs. If you know someone who might be interested, send them to **[Dwarves Careers](notion://www.notion.so/e55e8831f99f424d899b76c2a82fd21b)!**
+- **Scaling up**. We are expanding the team and hope to reach those with the same DNAs. If you know someone who might be interested, send them to **[Dwarves Careers](notion://www.notion.so/e55e8831f99f424d899b76c2a82fd21b).**
 
 That's just a small part in our backlog, we are going to try our hands at many different things.
 
@@ -76,4 +77,5 @@ That's just a small part in our backlog, we are going to try our hands at many d
 **Here's to many more great products, meaningful partnerships and friendships, experiments and experiences, challenges and opportunities.**
 
 Onward and upward,
+
 Han & Nikki.

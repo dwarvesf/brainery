@@ -4,14 +4,14 @@ tags:
   - AI
   - duckdb
   - nextjs
-title: October Forward Engineering 2023
+title: Forward Engineering October 2023
 date: 2023-11-17
 description: "As we step into the exciting opportunities of October, we are at a crucial point in the ever-changing world of technology. Our adventure until now has been for the most part very exciting, with a strong focus on 'Full-stack engineering’ Now, we shift our attention to a topic that is prolific and always true: Open-source."
 authors:
   - monotykamary
   - thanh
-menu: memo
-type: memo
+menu: labs
+type: updates
 hide_frontmatter: false
 featured: true
 ---
@@ -87,8 +87,8 @@ As we persist in our R&D voyage, we endeavor to remain at the forefront of tech 
 ### Trending and Hot Topics
 * **[Next.js releases version 14](https://nextjs.org/blog/next-14)** - Despite the major version update, Next.js has been very careful of introducing any breaking changes or new APIs. Next.js has been a much hotter topic seeing how as it treads closer to server-side rendering, it bares much resemblance to PHP and old-school server-rendered apps.
 
-![](assets/2023-october-forward-engineering_forward-engineering-october-2023_untitled.webp)
+  ![](assets/2023-october-forward-engineering_forward-engineering-october-2023_untitled.webp)
 
 * **[X releases Grok, a new state-of-the-art LLM](https://x.ai/)** - Elon Musk has been giving a lot of hints in the past of Twitter (now called X) releasing a Large Language Model to compete with OpenAI’s ChatGPT. Benchmarks seem very promising, and there is a great deal of hype within the industry for private access to this new LLM.
 
-![](assets/2023-october-forward-engineering_forward-engineering-october-2023_untitled-1.webp)
+  ![](assets/2023-october-forward-engineering_forward-engineering-october-2023_untitled-1.webp)
