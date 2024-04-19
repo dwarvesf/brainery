@@ -22,7 +22,7 @@ In this article, we'll dive deeper into the practice of applying micro frontend 
 
 ## Case Study Interview: Building a shared design system
 
-![](assets/micro-frontends-building-design-system-for-e-commerce-platform.png)
+![](assets/a-case-study-interview-into-micro-frontends-building-design-system-for-e-commerce-platform_micro-frontends-building-design-system-for-e-commerce-platform.webp)
 
 ### What's the reason behind choosing micro-frontend as the main architecture?
 At Swift, we wanted to make our development process more efficient, and we found that breaking down large projects into smaller chunks was the way to go. 

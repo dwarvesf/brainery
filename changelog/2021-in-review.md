@@ -27,7 +27,7 @@ The results are way beyond our expectations. We work with several great clients 
 
 And along with everything, we do everything we can to level up our team.
 
-![](assets/2021-dwarves-in-review.png)
+![](assets/2021-in-review_2021-dwarves-in-review.webp)
 
 ## A few things worth celebrating
 ### The team benefits go up
@@ -40,7 +40,7 @@ The Dwarves are our greatest asset. Most of our effort goes into hiring the righ
 
 By launching [Dwarves Discord](https://discord.gg/dwarvesv), we’re able to connect and interchange our knowledge with the people who care about tech as much as we do.
 
-![](assets/2021-dwarves-discord.png)
+![](assets/2021-in-review_2021-dwarves-discord.webp)
 
 ### Making our marks in new tech
 New technologies shape the future. It's our all-time belief. Within this year, our bet is on the Web3, the Open Internet, and the next-gen automation software using AI and Big Data.
@@ -50,7 +50,7 @@ New technologies shape the future. It's our all-time belief. Within this year, o
 
 We attract the same DNA. Our clients are organizations that put tech at great importance to their businesses. It's always a proud feeling when our clients share their achievements with us, knowing we play a part in it.
 
-![](assets/2021-dwarves-in-review-project.png)
+![](assets/2021-in-review_2021-dwarves-in-review-project.webp)
 
 ### Our vision and belief stays the same
 Even with everything we managed to pull through and achieve, we are still makers at heart. [Our vision and belief](https://github.com/dwarvesf/handbook/) are built to stay.
@@ -73,7 +73,7 @@ Though the Dwarves can work anywhere they want, we still have offices in 3 diffe
 - **Dalat**: The built-in-office cafe intended for work-cations. Whenever our engineers feel like getting away from bustling cities, they can spend their days here. Our clients and partners are welcomed too.
 - **Hanoi** (*coming very soon*): An office located in the tech district of the capital of Vietnam helps us be more available for more talents in the country.
 
-![](assets/2021-danang-office.jpg)
+![](assets/2021-in-review_2021-danang-office.webp)
 
 ## Expanding the Community
 - **[Dwarves Discord Network](http://discord.gg/dwarvesv)** hit 200 users in <4 months of launching in public. We offer various channels for the community to take part in, and a weekly 101 Tech session every Monday - 5PM.
@@ -85,7 +85,7 @@ Though the Dwarves can work anywhere they want, we still have offices in 3 diffe
 
 ## Dwarves 1.0 In Numbers
 
-![](assets/2021-dwarves-in-numbers.png)
+![](assets/2021-in-review_2021-dwarves-in-numbers.webp)
 
 ## Highlighted Dwarves of 2021
 We couldn’t go this far without the teammate’s hard work. To tribute all the effort our team has made to keep this woodland going further - we continue the annual tradition Dwarves of The Year. 
@@ -94,18 +94,18 @@ With the subtotal prize value up to $10.000 - we equip the nominees with what th
 
 ### Dwarves of 2021
 
-![](assets/2021-dwarves-contribution.png)
+![](assets/2021-in-review_2021-dwarves-contribution.webp)
 
-![](assets/2021-dwarves-growth.png)
+![](assets/2021-in-review_2021-dwarves-growth.webp)
 
-![](assets/2021-dwarves-knowledge.png)
+![](assets/2021-in-review_2021-dwarves-knowledge.webp)
 
-![](assets/2021-dwarves-influence.png)
+![](assets/2021-in-review_2021-dwarves-influence.webp)
 
-![](assets/2021-dwarves-teamwork.png)
+![](assets/2021-in-review_2021-dwarves-teamwork.webp)
 
-![](assets/2021-dwarves-honorable.png)
+![](assets/2021-in-review_2021-dwarves-honorable.webp)
 
 ## New Iconic Items 
 
-![merch](assets/2021-whats-new-december_2021-december-all-hands-meeting_fd61221cb31785842fecd3ff2339aab6_md5.webp)
+![merch](assets/2021-in-review_2021-whats-new-december_2021-december-all-hands-meeting_fd61221cb31785842fecd3ff2339aab6_md5.webp)

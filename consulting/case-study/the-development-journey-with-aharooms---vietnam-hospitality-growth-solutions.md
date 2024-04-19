@@ -12,7 +12,7 @@ type: null
 hide_frontmatter: false
 ---
 
-![](assets/aharoom.png)
+![](assets/the-development-journey-with-aharooms---vietnam-hospitality-growth-solutions_aharoom.webp)
 
 ## In brief
 * Aharooms wants to be a remarkable Vietnamese brand in franchised hotel chains. They look to enter the affordable hotel market to support business owners. 
@@ -36,7 +36,7 @@ Providing growth solutions, Aharooms aims to support 2-3 star Hotels with multip
 
 They wish to access, understand and localize a Vietnamese product, for Vietnamese people.
 
-![](assets/aha-room-web.png)
+![](assets/the-development-journey-with-aharooms---vietnam-hospitality-growth-solutions_aha-room-web.webp)
 
 The affordable hotel segment(2-3 stars) is a potential market. But the services standard still run with  a lack of uniformity. Traditional business operations is blocking them from better quality. 
 
@@ -55,7 +55,7 @@ With selective technology and business insights, we provide high-level architect
 * Admin Panel dashboard 
 * and customized modules for:
 
-![](assets/aha-solu.png)
+![](assets/the-development-journey-with-aharooms---vietnam-hospitality-growth-solutions_aha-solu.webp)
 
 **1. Efficient Business Operations**
 
@@ -92,7 +92,7 @@ Users will get noticed on a new release. Meanwhile, we're able to resolve issues
 
 docker and docker-compose made quite a useful pack. 
 
-![](assets/aha-infras.png)
+![](assets/the-development-journey-with-aharooms---vietnam-hospitality-growth-solutions_aha-infras.webp)
 
 ## Outcome
 Our solutions reflects the end result. 
@@ -101,12 +101,12 @@ With a landing page for booking site, PMS and RMS, Aharooms was able to equip bu
 
 We're confident to shift the focus on expanding sales channels, increasing the product's inventory (Hourly and Nighttime booking, Corporate partner bookings)
 
-![](assets/aha-book.png)
+![](assets/the-development-journey-with-aharooms---vietnam-hospitality-growth-solutions_aha-book.webp)
 
 The collaboration brought great impacts on our partnership. Aharooms has [made its way to the market](https://doanhnghiep.quocgiakhoinghiep.vn/en/doanhnghiep/aharooms/) and created [significant achievement](https://baodautu.vn/doanh-nhan-ngo-duc-nguyen-ceo-aharooms-giac-mo-chuoi-khach-san-dai-ca-thap-ky-d115045.html).
 
 As a technical partner and a venture builder, the Dwarves contribute to the product design stage to maximize Aharooms's revenue streams at critical moments to quickly response to COVID pandemic.
 
-![](assets/aha-ws.png)
+![](assets/the-development-journey-with-aharooms---vietnam-hospitality-growth-solutions_aha-ws.webp)
 
-![](assets/aha-pms.png)
+![](assets/the-development-journey-with-aharooms---vietnam-hospitality-growth-solutions_aha-pms.webp)

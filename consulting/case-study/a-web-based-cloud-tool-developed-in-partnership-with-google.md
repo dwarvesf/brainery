@@ -15,7 +15,7 @@ type: null
 hide_frontmatter: false
 ---
 
-![](assets/case-study-a-web-based-cloud-tool-partner-with-google.png)
+![](assets/a-web-based-cloud-tool-developed-in-partnership-with-google_case-study-a-web-based-cloud-tool-partner-with-google.webp)
 
 ### In brief
 * CJC Ptd is a 20-year expert in providing market data consultancy & professional services for global financial sector.
@@ -36,7 +36,7 @@ CJC wants to provide cloud solutions with flexibility, scalability and adaptabil
 
 They believe spending manually effort on deploying and managing products in cloud is cumbersome. 
 
-![](assets/case-study-a-web-based-cloud-tool-partner-with-google-the-context.png)
+![](assets/a-web-based-cloud-tool-developed-in-partnership-with-google_case-study-a-web-based-cloud-tool-partner-with-google-the-context.webp)
 
 Provides people with convenience in deploying while maintaining an error-prone process is what derives Voconic's basic concept. 
 
@@ -79,8 +79,8 @@ Through months with dedicated work, we're proud to deliver **[a runnable MVP](ht
 * Automation Test System
 
 
-![](assets/case-study-a-web-based-cloud-tool-partner-with-google-cloud-deployment.png)
+![](assets/a-web-based-cloud-tool-developed-in-partnership-with-google_case-study-a-web-based-cloud-tool-partner-with-google-cloud-deployment.webp)
 
-![](assets/case-study-a-web-based-cloud-tool-partner-with-google-built.png)
+![](assets/a-web-based-cloud-tool-developed-in-partnership-with-google_case-study-a-web-based-cloud-tool-partner-with-google-built.webp)
 
-![](assets/case-study-a-web-based-cloud-tool-partner-with-google-cloud-journey.png)
+![](assets/a-web-based-cloud-tool-developed-in-partnership-with-google_case-study-a-web-based-cloud-tool-partner-with-google-cloud-journey.webp)
