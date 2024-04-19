@@ -1,8 +1,9 @@
 ---
 tags: 
-  - design
+  - consulting
   - case-study
-title: Bhd Cinema Redesign Bhds Booking Ticket App
+  - UX-UI
+title: BHD Cinema Redesign BHD's Booking Ticket App
 date: 2019-05-20
 description: null
 authors: null
@@ -30,6 +31,7 @@ BHD’s new app covers all the basic needs of movie-goers, in an intuitive and p
 **The new design** needs to change users’ current perception of BHD app, by providing users with **a seamless and straight-forward experience.**
 
 ### Personas
+
 ![](assets/bhd-cinema-redesign-bhds-booking-ticket-app_618aab39225b79368617569d5ce342fd_md5.webp)
 
 ### Home screen - Schedule
@@ -52,6 +54,7 @@ Avenir Next
 ![](assets/bhd-cinema-redesign-bhds-booking-ticket-app_8e093f455147409fd5211e4d7bcd2908_md5.webp)
 
 ### Color palette
+
 ![](assets/bhd-cinema-redesign-bhds-booking-ticket-app_18808799e38c025d0d2a61ee2de5ba3f_md5.webp)
 
 ### Home screen - Schedule
@@ -78,6 +81,7 @@ When picking showtime, it is important to group them by order: time - location -
 ![](assets/bhd-cinema-redesign-bhds-booking-ticket-app_fcb311deba22d4e2cd32a726fc3e6eec_md5.webp)
 
 ### Booking flow
+
 ![](assets/bhd-cinema-redesign-bhds-booking-ticket-app_5a3eeb5e08d3adad020312b3121146bc_md5.webp)
 
 ### Transaction history

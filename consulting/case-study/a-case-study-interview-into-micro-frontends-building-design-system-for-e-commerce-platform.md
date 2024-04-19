@@ -21,7 +21,8 @@ In this article, we'll dive deeper into the practice of applying micro frontend 
 *For privacy’s sake, we will refer to our client company as “Swift”. The information discussed here is from a real interview based on real-world events.*
 
 ## Case Study Interview: Building a shared design system
-![[88ee17472ae46934b5dcf3be218aba09_MD5.webp]]
+
+![](assets/micro-frontends-building-design-system-for-e-commerce-platform.png)
 
 ### What's the reason behind choosing micro-frontend as the main architecture?
 At Swift, we wanted to make our development process more efficient, and we found that breaking down large projects into smaller chunks was the way to go. 
@@ -30,6 +31,7 @@ This led us to micro-frontend architecture, where we split the project into smal
 
 ### How did you split the projects?
 The projects at Swift are split vertically by page and sub-domain. We have at least ten apps in total, each assigned to a specific team. A sample breakdown of our current system would include:
+
 * Authentication (Login)
 * Profile Dashboard
 * Ads Management Dashboard

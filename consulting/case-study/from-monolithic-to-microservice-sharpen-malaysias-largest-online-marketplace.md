@@ -1,6 +1,8 @@
 ---
 tags: 
   - case-study
+  - microservice
+  - consulting
 title: From Monolithic To Microservice Sharpen Malaysias Largest Online Marketplace
 date: 2021-03-09
 description: null
@@ -28,15 +30,15 @@ hide_frontmatter: false
 Mudah.my’s site features various ads categories for different purchase demands. The data from customer and third-parties is massively huge to process.
 
 With 12 years in the market, their system starts to slow down. It affects the data process, and drags down user experience.
+
 ![](assets/from-monolithic-to-microservice-sharpen-malaysias-largest-online-marketplace_78b9b340766e04c40cbb7e8aadf4be69_md5.webp)
 
 The world develops, Mudah must targets a younger customer segment. The website interface and stagnant system are holding their goal back. 
 
 They decided to go for a massive refactoring in: Infrastructure, Codebase and Application UI.
 
-📍 "Refactoring a whole system requires a high effort. There's no place for hiring plans and teammate training. I was in need of a workforces that gets the hang of the job." 
-
-Prateek - Mudah's Product Manager
+>
+> 📍 "Refactoring a whole system requires a high effort. There's no place for hiring plans and teammate training. I was in need of a workforces that gets the hang of the job." *Prateek - Mudah's Product Manager*
 
 ### Engagement Model
 We took care of migrating the legacy PHP system to microservices in Go. It optimizes page load and tackle scaling problem. We decoupled the services one by one, starting with the Auth module (user's authentication flow). 
@@ -46,6 +48,7 @@ The server-side rendering concept with HTML data parsing makes the site indexabl
 We worked on shipping new features, refactoring the code and deep link manager in mobile app. MVC architecture ensures an upgrade in development pace, enable us to update and debug easier.
 
 **Tech stacks**
+
 * Backend: Golang & Gin framework
 * Frontend: Next.js
 * Server-side rendering
@@ -54,19 +57,21 @@ We worked on shipping new features, refactoring the code and deep link manager i
 * Mobile: Swift 4 and MVC
 
 **Collaboration**
+
 The Dwarves spent a month in Malaysia to directly work with Mudah team. 
 
 It was a great working process and exciting experience. 
 
 **Delivery tooling**
+
 Slack chat, Jira card & Gitlab Merge Request for technical discussion. 
 
 ### Outcome
 Mudah remains one of our longest, tried-and-true collaborations. We have continuously worked with Mudah on various scopes of work and committed different engagement models. The system was flawlessly migrated, enabled Mudah to access their potential market for both desktop and mobile users.
 
 It was amazing to facilitate their growth and contribute our best practices. The progress still evolves and we’re so excited to see what’s coming next.
+
 ![](assets/from-monolithic-to-microservice-sharpen-malaysias-largest-online-marketplace_828660c66933d83b79c4f5ba817fd265_md5.webp)
 
-💬 Completing the tech platform changing and stretching the revenue are two main goals that Mudah.my intends to follow. To maintain two biggest challenges at once is quite difficult. We got positive responses from the team, the skillset and the member were in high quality. That helped increase our confidence in the Dwarves and we're very interested in working with them.
-
-Prateek Roy, Mudah.my’s Product Manager
+>
+> 💬 Completing the tech platform changing and stretching the revenue are two main goals that Mudah.my intends to follow. To maintain two biggest challenges at once is quite difficult. We got positive responses from the team, the skillset and the member were in high quality. That helped increase our confidence in the Dwarves and we're very interested in working with them. *Prateek Roy, Mudah.my’s Product Manager*

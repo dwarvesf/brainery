@@ -1,6 +1,8 @@
 ---
 tags:
   - case-study
+  - consulting
+  - partnership
 title: Konvoy X Dwarves
 date: 2023-09-14
 description: 
@@ -10,21 +12,27 @@ type:
 hide_frontmatter: false
 ---
 **Industry:**
+
 Logistics, Supply Chain Management
 
 **Location:** 
+
 Australia
 
 **Business Context:**
+
 An innovative company providing beverage industry with a unique keg rental solution, emphasizing sustainability and ease of use.
 
 **Solution:** 
+
 A tech-driven rental system with real-time keg tracking and analytics ensuring security and transparency.
 
 **Outcome:** 
+
 Increase the operational efficiency and profitability of breweries with a flexible, secure, and eco-friendly keg supply chain.
 
 **Our Service:** 
+
 Product Consulting, Staff Augmentation
 
 ![](assets/konvoy-x-dwarves_9dc23633d853a046448b04fd5b43f189_md5.webp)
@@ -35,10 +43,6 @@ Product Consulting, Staff Augmentation
 The short-term rental solution, an ideal fit for one-way trips, guarantees transparent costs and promotes sustainability. On the other hand, the leasing model lets you have your own kegs for a low monthly fee, freeing up your capital for business investment.
 
 Driven by its mission to track every keg's location, Konvoy reduces losses and bolsters profit margins. Its top-tier service and maintenance ensure minimal downtime for your kegs. Currently a dominant entity in the ANZ market, Konvoy is powered by a dedicated team of 30 professionals.
-
-### Challenge
-
-### Solution
 
 ### Technology Stack
 The deployed technology stack includes the following major components:
@@ -60,5 +64,3 @@ The strategic collaboration between **Dwarves Foundation** and **Konvoy** has re
 * Dramatic speed enhancements in fetching keg history location and routes, reducing latency response time from tens of seconds to mere seconds – an improvement largely credited to Brad, the leader of the engineering team.
 
 ![](assets/konvoy-x-dwarves_82158455a3c4433253d356e1b4a3accb_md5.webp)
-
-Dwarves Foundation is a team of design and development experts working closely with clients to craft software, build tech teams, and invest in people who create world's next favorite things.
