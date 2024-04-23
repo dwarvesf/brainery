@@ -16,7 +16,7 @@ hide_frontmatter: false
 
 Another year has gone by. And we just celebrated the 5th year that we survived all the challenges. Everyone was facing their own, but I have seen many of you reaching new stages and achieve new targets.
 
-We have been growing up together. As for your recall, end of 2018, we were about 30s. End of this year, we are about 50s. End of 2018, we were young and inexperienced. End of this year, we are just inexperienced (j/k).
+We have been growing up together. As for your recall, end of 2018, we were about 30s. End of this year, we are about 50s. End of 2018, we were young and inexperienced. End of this year, we are just inexperienced.
 
 The way we are running this organization is extraordinary, where new policies are focusing on putting people & technology in the heart of everything. Even though people come and go, their spirit stays. Dwarves Foundation is always the place the weirdest things could happen. And that gives me a strong belief in our promising future.
 

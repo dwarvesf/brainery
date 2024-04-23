@@ -24,7 +24,7 @@ We’ve achieved to this year’s resolution: A team that cares about how to bui
 ### 30 New Team Members
 **[2022 matched us with the 80th Dwarves](https://github.com/dwarvesf/handbook)**. A notable highlight, and we're ready to have more. It's not easy finding like-minded people. It takes true & solid seeks. Even though people come and go, the spirits stay.
 
-Expanding the team doesn’t mean we have to disregard our culture. We have launched [a mechanism](https://dwarves.notion.site/Passing-the-Probation-Get-3-Upvotes-54bb5134519d421da539fcd6396faf20) to help us protect our culture and co-create our future using tech. For us, approval happens when someone is accepted by the team, not by management.
+Expanding the team doesn’t mean we have to disregard our culture. We have launched [a mechanism](https://memo.d.foundation/playground/_memo/passing-the-probation-get-3-upvotes/#the-talent-pool) to help us protect our culture and co-create our future using tech. For us, approval happens when someone is accepted by the team, not by management.
 
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_f3d04cda19cc5bfc2126f840d4dddf1d_md5.webp)
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_b6627bd506ccd793e7c6177b8c941947_md5.webp)
@@ -64,9 +64,9 @@ The response so far has been amazing. We got words saying peeps get to upgrade t
 Just a bit of research on new tech could mean a job opportunity, or perhaps a turning point in their life that make them leaders in a new segment of an industry.
 
 * [Brainery](https://brain.d.foundation/): our knowledge hub, where we share what we learn with the world.
-* [Engage & Earn](https://earn.d.foundation/)</span>: our system recognizes people who put in the effort to share knowledge.
+* [Engage & Earn](https://memo.d.foundation/): our system recognizes people who put in the effort to share knowledge.
 * [Dwarves Tech Radar Volume 4](https://www.facebook.com/photo.php?fbid=833917351164701&set=pb.100036393316096.-2207520000.&type=3): a place for our engineers to trial and evaluate emerging technologies, and to help set the direction for Dwarves’ tech stack.
-* [Engineering Publication](/827064fb759b4cd79d398a2099b212ed): our extra effort goes into learning and researching on how we can get better with technology.
+* [Engineering Publication](https://memo.d.foundation/): our extra effort goes into learning and researching on how we can get better with technology.
 
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_1f5bd3a773b8f02d7f50d46102c2fa01_md5.webp)
 
@@ -95,7 +95,7 @@ We are putting in place the security measures necessary to protect our clients. 
 * ACL (access control list) checklist to onboard / off-board
 
 ### Game Department
-Came after [Summit 2022](/a97f5ddc0611460abc0212b4ba5d10d4), we’ve piloted a few games such as [Hunger Game](https://df-hunger-game.netlify.app/) and [Treasure Hunt ](https://hunt.d.foundation/)apps. Heading toward the engineering-driven vision, we founded a game department to create more engaging activities that offer our engineers and community a thrilling and adventurous gaming experience.
+Came after [Summit 2022](https://memo.d.foundation/changelog/2022-dwarves-summit-engineering-a-good-time/), we’ve piloted a few games such as [Hunger Game](https://df-hunger-game.netlify.app/) and [Treasure Hunt ](https://hunt.d.foundation/)apps. Heading toward the engineering-driven vision, we founded a game department to create more engaging activities that offer our engineers and community a thrilling and adventurous gaming experience.
 
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_2307207050288356f6f0bdf691a75197_md5.webp)
 
@@ -107,10 +107,10 @@ Came after [Summit 2022](/a97f5ddc0611460abc0212b4ba5d10d4), we’ve piloted a f
 ### Online Omni-channels 
 The Dwarves actively take part in developer networks to bring makers and tech enthusiasts together. Below is the list of [social channels](https://index.d.foundation/) that you can access for Dwarves sharing. 
 
-* Social Media: **[LinkedIn](/f5ff4edfd8cf44d2ad7f2781ba717577)**, **[Facebook](/f5ff4edfd8cf44d2ad7f2781ba717577)**, **[Instagram](/f5ff4edfd8cf44d2ad7f2781ba717577)**, **[Twitter](/f5ff4edfd8cf44d2ad7f2781ba717577)**, **[Memo](/f5ff4edfd8cf44d2ad7f2781ba717577)**
+* Social Media: **[LinkedIn](https://www.linkedin.com/company/dwarvesf/)**, **[Facebook](https://www.facebook.com/dwarvesf)**, **[Instagram](https://www.instagram.com/dwarves.foundation/)**, **[Twitter](https://twitter.com/dwarvesf)**, **[Memo](https://memo.d.foundation/)**
 * Streamline: **[Youtube](https://www.youtube.com/@dwarvesfoundation2350)**, **[Let's Hear IT ](https://spoti.fi/3xi92yY)[Podcast](https://rss.com/podcasts/dwarvestechevent/)**
 
-A variety of things, from lessons learned in a well-written format to Radio Talk live every Monday on Youtube and hanging out with techies at [Dwarves Discord Network](/f5ff4edfd8cf44d2ad7f2781ba717577) where we talk about technology and life as developers can help you stay tuned with us. 
+A variety of things, from lessons learned in a well-written format to Radio Talk live every Monday on Youtube and hanging out with techies at [Dwarves Discord Network](https://discord.com/invite/dwarvesv) where we talk about technology and life as developers can help you stay tuned with us. 
 
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_2efc2bdd5fc9eaa0c2e3cedd125136af_md5.webp)
 
@@ -160,7 +160,7 @@ For the games, we offered a total reward of **150,000,000 VND (~$6,361.32)** to 
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_1b8011f8f951e36b240fff0df5282543_md5.webp)
 
 ### Dwarves Apprenticeship
-**[The wrap-up of Dwarves Foundation Apprenticeship 2022](https://medium.com/dwarves-foundation/dwarves-foundation-apprenticeship-batch-of-2022-f45013189444)** scaled us with a new well-trained squad. After the program, all of our apprentices are now working on client projects and constantly learning new things along the way.
+**[The wrap-up of Dwarves Foundation Apprenticeship 2022](https://memo.d.foundation/careers/apprentice/dwarves-foundation-apprenticeship-batch-of-2022/)** scaled us with a new well-trained squad. After the program, all of our apprentices are now working on client projects and constantly learning new things along the way.
 
 Another great outcome we got from this program: more seniors who participated in mentoring and training for the program moved forward into leadership.
 
@@ -170,7 +170,7 @@ The signal was clear, it was time we offered proper training and coaching for le
 
 ## Employee Experience
 ### Launching $ICY for Dwarves’ Engage & Earn System
-We’re big on **continuous improvements**: learning, sharing, and building a community of tech lovers. Hence, the launch of $ICY, [Dwarves' official token](https://file.notion.so/f/f/498ebd7b-383c-459f-a9ad-b74073208ddd/b0059139-d9c6-45da-b64f-f3e5767ec4c8/Screen_Shot_2022-12-06_at_16.30.34.png?id=e036b5e8-4ab5-449f-ad1c-6aac7bb7a282&table=block&spaceId=498ebd7b-383c-459f-a9ad-b74073208ddd&expirationTimestamp=1710583200000&signature=IwuqJ_VvZWkZPcLknAUDAKy4VHrmhljWktRI2VvuYtY&downloadName=Screen+Shot+2022-12-06+at+16.30.34.png) to give back to everyone who contributes to our culture and activities. 
+We’re big on **continuous improvements**: learning, sharing, and building a community of tech lovers. Hence, the launch of $ICY, [Dwarves' official token](https://memo.d.foundation/playbook/community/icy-in-2024/) to give back to everyone who contributes to our culture and activities. 
 
 Built on Polygon, $ICY takes co-creation within Dwarves Network to the next level. Our monthly budget for rewarding ICY is around **500 ICY per month**, and will increase based on [community contribution](https://brain.d.foundation/Rewards+and+Recognition). If you’re interested in any of the cutting-edge activities within the Dwarves Network and want to contribute, we’re all for it.
 
@@ -192,6 +192,7 @@ A quick suggestion on the talent pool:
 We want to spend the bonus on you rather than the headhunting agency. Once the referral gets successfully converted into a full-time position and deployed to a project, the referrer will receive **2.5%** of the project service fee.
 
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_95d0da92d70d9f9296c5f6272250ad6f_md5.webp)
+
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_8a7a01a12a0d02bfbc4ea9dc305d68e1_md5.webp)
 
 ## Onto the Dwarves 3.0

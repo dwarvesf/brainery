@@ -1,6 +1,6 @@
 ---
 tags:
-  - team
+  - weekly-digest
   - discord
   - community
   - motivation
@@ -62,6 +62,5 @@ Lastly, we launched the Internship Program for students to provide training, men
 
 Interested in joining our Internship Program? We're here to welcome you aboard.
 
-[Shoot us an email](mailto:spawn@dwarvesv.com) with your LinkedIn / CV
-
+[Shoot us an email](mailto:spawn@dwarvesv.com) with your LinkedIn / CV\
 [Join our Discord](https://discord.gg/dwarvesv) of +300 other engineers and designers

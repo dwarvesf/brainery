@@ -49,7 +49,7 @@ That growth explains our **upgrade in the benefits package**. We did a full upg
 I think it’s safe to announce that one-way tickets to our remote hubs will be available by the 1st quarter of 2022. Additionally, we might host tech events, seminars, and training in Da Nang. 
 
 ### Dwarves of 2021
-A huge congratulations to our **[Dwarves of 2021](/37bc743333e34e89b93f52147055d17b)**! Please help to tick your wishlist items so we can proceed with them as soon as possible.
+A huge congratulations to our **[Dwarves of 2021](https://memo.d.foundation/changelog/2021-dwarves-of-the-year/)**! Please help to tick your wishlist items so we can proceed with them as soon as possible.
 
 We’ve received much input to help improve the team. All of those ideas have been logged into our 2022 to-do list.
 
@@ -59,4 +59,4 @@ Here’s to rock 2022!
 
 ![doty](assets/2021-whats-new-december_2021-doty.webp)
 
-![merch](assets/2021-whats-new-december_2021-december-all-hands-meeting_fd61221cb31785842fecd3ff2339aab6_md5.webp)
+![merch](assets/december-all-hands-meeting/fd61221cb31785842fecd3ff2339aab6_MD5.webp)

@@ -63,7 +63,7 @@ Remote working shaped into our culture. Our engineers have the full support they
 
 **The Dwarves seek for more teammates in 2022**
 
-Our team is currently at 60 mems and we road for a double number. The list is opening at [Dwarves Career](https://www.notion.so/Dwarves-Careers-e55e8831f99f424d899b76c2a82fd21b?pvs=21) - but we will find you the best fit if we’re having the same core value. 
+Our team is currently at 60 mems and we road for a double number. The list is opening at [Dwarves Career](https://memo.d.foundation/careers/hiring/) - but we will find you the best fit if we’re having the same core value. 
 And we’d love to onboard like-minded people to our Discord Network: [**discord.gg/dwarvesv**](http://discord.gg/dwarvesv).
 
 ### Forming the getaway chalets
