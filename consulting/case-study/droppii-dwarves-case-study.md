@@ -10,34 +10,28 @@ authors:
   - huytq
   - han
 menu: memo
-type: memo
+type: case-study
 hide_frontmatter: false
 pinned: 
 hide_title: false
 ---
 
-**Industry**
-
+**Industry**\
 E-Commerce
 
-**Location**
-
+**Location**\
 Vietnam and SEA
 
-**Business Context**
-
+**Business Context**\
 Need for an advanced e-commerce platform to streamline drop shipping operations
 
-**Solution**
-
+**Solution**\
 Revamped and technologically advanced online system development by Dwarves Foundation
 
-**Outcome**
-
+**Outcome**\
 Launch of Droppii for Business v3.0, providing a scalable, user-friendly platform for business clients and enhancing customer interaction
 
-**Our Service**
-
+**Our Service**\
 Full-Stack Development / Agile Project Management
 
 ## In brief

@@ -4,12 +4,14 @@ tags:
   - design
   - UX-UI
   - consulting
-title: Building Airwatt Apply Aiml For Iot Solutions To Optimize Electricity Usage
+title: Building AirWatt Apply AI/ML For Iot Solutions To Optimize Electricity Usage
 date: 2019-11-15
-description: null
-authors: null
+description: "AirWatt's vision is to help businesses track electric usage status of electrical equipment. Hence, they can save electricity and money, even avoid disaster. The MVP must be done fast to prove the product's concept. We built Airwatt system from zero with other teams: Business, Hardware, and AI"
+authors: 
+- han
+- duy
 menu: memo
-type: null
+type: case-study
 hide_frontmatter: false
 ---
 

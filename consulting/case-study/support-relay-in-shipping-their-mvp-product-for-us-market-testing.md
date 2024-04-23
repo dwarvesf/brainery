@@ -5,10 +5,11 @@ tags:
   - web
 title: Support Relay In Shipping Their MVP Product For Us Market Testing
 date: 2021-04-29
-description: null
-authors: null
-menu: memo
-type: null
+description: Relay is an extension tool that decreases micromanagement by automating workflows.Relay's first engagement with Dwarves aims to ship their MVP to market as quick as possible for early user acquisition. We dive in with 2 quickly adapt engineers. We keep a stable pace of feature shipment and adjust along with the requirements.
+authors: 
+- duy
+menu: consulting
+type: case-study
 hide_frontmatter: false
 ---
 
@@ -38,8 +39,7 @@ It must be done fast. And the requirement can be changed as market demands. Due 
 ## Engagement Model
 At first, we were expected to join them for the first few months. As the product goes, the trustworthy collaboration escalated that we could involve more in the development process. They welcome us to contribute the idea instead of just getting the tasks done.
 
-**Teck stacks**
-
+### Teck stacks
 * Backend: Ruby on Rails
 * Frontend: React + TailwindCSS, Storybook 
 * Infra: AWS Amplify
@@ -49,13 +49,12 @@ Relay places their effort on development pace and reuses what's helpful to speed
 
 The combo of React, TailwindCSS and Storybook allows us to get that done with no sweat.
 
-**Communication**
-
+### Communication
 Slack is definitely for team communication, while Notion is perfect for documents management. 
 
 We take Trello onboard for task management, while all the designs are stored in Figma. 
 
-### Outcome
+## Outcome
 
 Through months of development, we are able to roll out the first MVP. 
 

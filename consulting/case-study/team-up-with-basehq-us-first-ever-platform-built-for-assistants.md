@@ -3,12 +3,14 @@ tags:
   - case-study
   - partnership
   - consulting
-title: Team Up With Basehq Us First Ever Platform Built For Assistants
+title: "Team Up With BaseHQ - US First-ever Platform Built For Assistants"
 date: 2021-08-06
 description: 
 authors: 
-menu: memo
-type: 
+- duy
+- nikki
+menu: consulting
+type: case-study
 hide_frontmatter: false
 ---
 ![](assets/team-up-with-basehq-us-first-ever-platform-built-for-assistants_team-up-with-basehq---us-first-ever-platform-built-for-assistants_019ef328b59808b45c4541243f71c875_md5.webp)
@@ -39,7 +41,7 @@ Our work with Base contains codebase development and technical consultancy. We h
 
 We took over the big legacy code and optimize them to ensure product stability. The architecture contains two main parts: End-user App and Admin Tool. 
 
-**Tech stacks**
+### Tech stacks
 
 * Backend: Go, Node.js
 * Frontend: React.js, Next.js, Typescript
@@ -47,7 +49,7 @@ We took over the big legacy code and optimize them to ensure product stability. 
 * Infras: GCP, k8s
 * Monitoring: One Relic, Sentry, Fullstory
 
-**Collaboration**
+### Collaboration
 
 * Jira: Task management
 * Slack: Team discussion

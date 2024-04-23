@@ -3,24 +3,26 @@ tags:
   - case-study
   - partnership
   - consulting
-title: Collaboration With Uk Residential Cloud Based Paas
+title: Collaboration With UK Residential Cloud Based PaaS
 date: 2021-02-13
-description: null
-authors: null
-menu: memo
-type: null
+description: We stepped in as a Vietnam offshore team for prototypes and skunkworks. Skunkworks demands minimum team management, able to ship work in short timeline and scaling ability. 
+authors: 
+- duy
+- nikki
+menu: consulting
+type: case-study
 hide_frontmatter: false
 ---
 
 ![](assets/collaboration-with-uk-residential-cloud-based-paas_ad0d1521d4022ac2392b73bc7756cb3b_md5.webp)
 
-### In brief
+## In brief
 * Founded in 1997 and has having 22 years in the market, Reapit is the largest CRM and Client Accounting software provider to the UK residential real estate sector.
 * Reapit got acquired by Accel KKR in 2017 - which powered them to accelerate their growth and innovation potential in products and technology expansion
 * Reapit wants to migrate the app from desktop-based to Cloud-based. They want to develop a PaaS to support an expandability for SME customer. 
 * We stepped in as a Vietnam offshore team for prototypes and skunkworks. Skunkworks demands minimum team management, able to ship work in short timeline and scaling ability. 
 
-### Technical Highlight
+## Technical Highlight
 * Migrating current separated apps to one single monorepo
 * React and Redux for composability and component reusability.
 * RPS software-support for Geo Diary.
@@ -31,7 +33,7 @@ hide_frontmatter: false
 * Meet launching timeline for **[Reapit Foundation Launch Event](https://www.youtube.com/watch?v=y-Fhlg2jrYo).**
 * SLA management for on-time advise and business qualification.
 
-### The Context
+## The Context
 They currently have 60 engineers in the UK. But they need augmentation to grow faster. A skunkworks team is perfect for that. 
 
 We take over the module development as part of SME solutions. This enables Reapit to trial new ideas for their upcoming launch event: Reapit Foundation. 
@@ -41,11 +43,11 @@ We take over the module development as part of SME solutions. This enables Reapi
 Normally, building up a team needs an interference of headhunter, service fee and time to get people onboarded. 
 
 >
-> ✔️ We tackle that with a team of skillful engineers. Reapit was thrilled to form an Asia offshore team for scaling possibility.
+> We tackle that with a team of skillful engineers. Reapit was thrilled to form an Asia offshore team for scaling possibility.
 
 SLA is also a part that we help qualify. More than the code, we offer long term tech strategy.
 
-### Engagement Model
+## Engagement Model
 We form up a Cloud-team with senior React.js. We dive in to take care 2 focuses of AgencyCloud:
 
 * Reapit's Foundation: Cloud-based Platform-as-a-Service (PaaS) and app marketplace
@@ -59,7 +61,7 @@ Reapit's Foundation contains of 3 main apps: Admin Portal, Developer Portal and 
 
 ![](assets/collaboration-with-uk-residential-cloud-based-paas_ebf187df610615ccbbb6e52278da6335_md5.webp)
 
-**Collaboration**
+### Collaboration
 
 Our Account Manager directly work with Reapit’s Engineering Team Leader to ensure development progress. Followed by some team practices:
 * Sprint Planning: Milestone discussion and weekly focus.
@@ -71,7 +73,7 @@ This approach drives a proactivity for teammates. We're able to catch up shortly
 
 ![](assets/collaboration-with-uk-residential-cloud-based-paas_eee4929e10e587c87e386ec5283449a1_md5.webp)
 
-**Tech stacks**
+### Tech stacks
 
 * Backend: NodeJS
 * Frontend: React.js, TypeScript, Svelte
@@ -79,14 +81,14 @@ This approach drives a proactivity for teammates. We're able to catch up shortly
 * Logging/Monitoring: Sentry, CloudWatch
 * Testing: Jest, Cypress
 
-**Collaboration**
+### Collaboration
 
 * Agile practices
 * Sprint planning, Sprint update & Daily sync-up
 * Slack & Basecamp
 * Git/ Gitflow/ GitHub Kanban
 
-### Outcome
+## Outcome
 With 2 weeks for product research and 2 weeks for development, we're proud to introduce the prototype - which enables Reapit to meet their launching timeline for **[Reapit Foundation Launch Event](https://www.youtube.com/watch?v=y-Fhlg2jrYo)**
 
 Reapit shortly rolled out the beta version for App Store, 3 mini-apps & Foundation Developer Portal to successfully level up their Foundation App Marketplace.

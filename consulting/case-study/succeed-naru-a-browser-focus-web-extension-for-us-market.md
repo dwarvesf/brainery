@@ -3,12 +3,12 @@ tags:
   - case-study
   - consulting
   - partnership
-title: Succeed Naru A Browser Focus Web Extension For Us Market
+title: "Succeed Naru - A Browser Focus Web Extension For Us Market"
 date: 2021-04-18
 description: null
 authors: null
 menu: memo
-type: null
+type: case-study
 hide_frontmatter: false
 ---
 
@@ -29,13 +29,16 @@ hide_frontmatter: false
 Naru's goal is to supercharge user workflows on web browsers. 
 
 An enhanced version of to-do list - but acts as a widget within user's browser.
-⚛️ Keeping the open state for the task board across tabs is the highest priority. Naru must boost the productivity.
+
+>
+> Keeping the open state for the task board across tabs is the highest priority. Naru must boost the productivity.
 
 ![](assets/succeed-naru-a-browser-focus-web-extension-for-us-market_succeed-naru---a-browser-focus-web-extension-for-us-market_d927454304f52e14ce05b4f4775a89e9_md5.webp)
 
 ## Engagement Model
 Making a web extension behaves like an application (says Trello) is nontrivial. A web extension work by attach and execute) its own `<script>` tag to the current web page. After that, it boot up with a UI for user interaction.
-![](assets/succeed-naru-a-browser-focus-web-extension-for-us-market_succeed-naru---a-browser-focus-web-extension-for-us-market_b3b2601850f4c0d06180f0d42d3816b3_md5.webp)
+
+![](assets/na-ex.png)
 
 **Collaboration**
 

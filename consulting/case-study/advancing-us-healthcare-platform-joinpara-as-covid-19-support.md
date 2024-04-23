@@ -6,10 +6,12 @@ tags:
   - consulting
 title: Advancing Us Healthcare Platform Joinpara As Covid 19 Support
 date: 2021-04-29
-description: null
-authors: null
-menu: memo
-type: null
+description:  Our Covid-19 program was launched in early 2020. We aim to provide software development, technical support for startups and businesses to help them stay stable during and progress forward despite the pandemic. 
+authors: 
+- duy
+- nikki
+menu: consulting
+type: case-study
 hide_frontmatter: false
 ---
 
@@ -69,15 +71,12 @@ Through more than 6 months of working on the remaining features, we got to launc
 JoinPara app is a finetune product ready to demo for various clients, empowering Para to reach more funding opportunities and expand the market.
 
 >
-> 🌀 "Dwarves Foundation's communication skills are exceptional as well as their integrity. They stand out with the highest standards of delivery. Dwarves is in a league of their own."
-
-CEO, Para
+> *"Dwarves Foundation's communication skills are exceptional as well as their integrity. They stand out with the highest standards of delivery. Dwarves is in a league of their own."* CEO, Para
 
 View more at [clutch.co](https://clutch.co/profile/dwarves-foundation#reviews)
 
 By connecting nursing professionals with vacant shifts, Para contributed its effort to respond to the COVID surge in demand for healthcare services.
 This output enabled Para to reduce development time and tackle pivotal features to scale the business with lessened complexity. They now can drive the focus back to revenue growth & user acquisition.
-
 
 ![](assets/advancing-us-healthcare-platform-joinpara-as-covid-19-support_advancing-us-healthcare-platform-joinpara-home-page.webp)
 

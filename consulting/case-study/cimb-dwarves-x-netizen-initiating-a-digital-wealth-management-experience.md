@@ -3,44 +3,38 @@ tags:
   - case-study
   - partnership
   - consulting
-title: CIMB Dwarves X Netizen Initiating A Digital Wealth Management Experience
+title: "CIMB x Dwarves x Netizen Initiating A Digital Wealth Management Experience"
 date: 2023-08-16
-description: null
-authors: null
-menu: memo
-type: null
+description: In charge of the backend foundation, we marked a milestone in CIMB's digital transformation journey, with a streamlined, customer-focused experience contributed to CIMB's forward-looking vision.
+authors:
+- huytieu
+- nikki
+menu: consulting
+type: case-study
 hide_frontmatter: false
 author: Huy Tieu
 ---
 
 ![](assets/cimb-dwarves-x-netizen-initiating-a-digital-wealth-management-experience_2fa7fc70c8f1608d99e6ae08dad2b952_md5.webp)
 
-<!-- table_of_contents cd4ef05d-487b-4bd9-be49-7d247e47bc94 -->
-
-**Industry**
-
+**Industry**\
 Fintech
 
-**Tech stack**
-
+**Tech stack**\
 MySQL, JAVA Spring Boot, and Angular
 
-**Location**
-
+**Location**\
 South East Asia
 
-**Solution**
-
+**Solution**\
 Fast recruiting senior engineers to collaborate with CIMB’s tech team.
 
 Deliver quality and collaboration control through out the project to hit targeted timeline.
 
-**Outcome**
-
+**Outcome**\
 In charge of the backend foundation, we marked a milestone in CIMB's digital transformation journey, with a streamlined, customer-focused experience contributed to CIMB's forward-looking vision.
 
-**Our Service**
-
+**Our Service**\
 Tech Consulting, Staff Augmentation
 
 ### In brief
@@ -81,7 +75,7 @@ The collaboration between CIMB Malaysia, Dwarves Foundation, and Netizen resulte
 * **Operational Efficiency:** Backend upgrades reduced manual processes, increased transaction accuracy, and overall improved the bank's operational agility.
 * **Architecture Revamp:** From a technical perspective, the transition to a dynamic API gateway and seamless integration with legacy systems provided a more scalable, robust, and flexible backend. This change not only enhanced performance but also future-proofed CIMB's systems against rapid tech advancements.
 
-**Conclusion**
+### Conclusion
 
 CIMB's digital transformation, backed by architectural advancements, sets a benchmark for excellence, ensuring enhanced customer satisfaction and operational agility for the bank's future endeavors.
 Dwarves Foundation is a team of design and development experts working closely with clients to craft software, build tech teams, and invest in people who create world's next favorite things.

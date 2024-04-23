@@ -5,13 +5,13 @@ tags:
   - consulting
 title: A Web Based Cloud Tool Developed In Partnership With Google
 date: 2020-10-24
-description: null
+description: We team up with them to develop Voconic - a cloud PaaS for CJC’s clients, aiming to make cloud deployment seamless across cloud providers and environment.
 authors: 
 - han
 - nikki
 - duy
 menu: consulting
-type: null
+type: case-study
 hide_frontmatter: false
 ---
 
@@ -42,17 +42,16 @@ Provides people with convenience in deploying while maintaining an error-prone p
 
 With Voconic, users have as internal working version before releasing the official  version to cloud providers. Another layer for error-detection. 
 
-☁️ We were looking for a team that we can entrust our new Voconic cloud platform. And we found Dwarves among others which is well known for industry experience in Go development, cloud platform and K8s.
-
-Paul Kossowski, Manager at CJC
+>
+> ☁️ "We were looking for a team that we can entrust our new Voconic cloud platform. And we found Dwarves among others which is well known for industry experience in Go development, cloud platform and K8s." *Paul Kossowski, Manager at CJC*
 
 ### Engagement Model
-**Team size**
+**Team size**<br>
 From 3 engineers in the early stage, we grew the number up to 6 with deeper involvement.
 
 Voconic was built upon the industry standard - Docker containers and k8s. A whole package in partnership with Google.
 
-**Golang Heavy Back-end System**
+**Golang Heavy Back-end System**<br>
 The robust back-end system in Golang
 * Freedom from the high cost data system 
 * Ability to switch between data source and technology 

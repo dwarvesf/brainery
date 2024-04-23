@@ -6,10 +6,11 @@ tags:
   - consulting
 title: Digitalize Dental Marketplace The Singapore Dentistry Operation Process
 date: 2020-09-20
-description: null
-authors: null
+description: Founded by Desmond Goh - a Singaporean dental surgeon, Dental Marketplace is an online platform for dental professionals to stay active in dentistry and simplify operation process. We support them with tech solution and market-fit product design. We work according with Desmond to extract business problem and propose suitable solution.
+authors: 
+- duy
 menu: memo
-type: null
+type: case-study
 hide_frontmatter: false
 ---
 
@@ -50,7 +51,8 @@ We started everything from a fresh idea. The process started out as market resea
 * Microservices extendable system
 * Support multiple platforms
 
-📍 With Agile practices and Scrum framework to iterate the product release and adapt to changes, we came across as exactly what Desmond is seeking for. 
+>
+> With Agile practices and Scrum framework to iterate the product release and adapt to changes, we came across as exactly what Desmond is seeking for. 
 
 ![](assets/digitalize-dental-marketplace-the-singapore-dentistry-operation-process_digitalize-dental-marketplace---the-singapore-dentistry-operation-process_ab7ac6266fe7ab7df8050695751d996c_md5.webp)
 
@@ -82,5 +84,5 @@ Desmond had solved his issue from day one: Build a playground for dental profess
 ![](assets/digitalize-dental-marketplace-the-singapore-dentistry-operation-process_digitalize-dental-marketplace---the-singapore-dentistry-operation-process_99617c82d4309f4529b87fa9be52e0cb_md5.webp)
 
 >
-> 💬 "It was hard to disrupt Singapore dentistry market. But the work  with Dwarves Foundation made me believe Dental Marketplace would make a difference. The MVP was high-quality and expected to grow. Every of our question and feedback was explained and resolved well. 
+> "It was hard to disrupt Singapore dentistry market. But the work  with Dwarves Foundation made me believe Dental Marketplace would make a difference. The MVP was high-quality and expected to grow. Every of our question and feedback was explained and resolved well. 
 *Desmond Goh, Founder & CEO of Dental Marketplace*

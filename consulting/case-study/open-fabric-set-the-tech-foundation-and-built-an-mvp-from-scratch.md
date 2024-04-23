@@ -5,10 +5,13 @@ tags:
   - partnership
 title: Open Fabric Set The Tech Foundation And Built An MVP From Scratch
 date: 2022-09-28
-description: null
-authors: null
-menu: memo
-type: null
+description: Founded and led by veterans from fintech players like Paypal & Grab, Open Fabric is a BNPL platform, built to enable an open commerce network for customers and credit providers in South East Asia to radically simplify merchant integrations for digital payment methods. 
+authors: 
+- Tom
+- nikki
+- hnh
+menu: consulting
+type: case-study
 hide_frontmatter: false
 ---
 ![](assets/open-fabric-set-the-tech-foundation-and-built-an-mvp-from-scratch_34964aa39f1e63930a9b8c2104aa26cb_md5.webp)
@@ -17,29 +20,23 @@ Founded and led by veterans from fintech players like Paypal & Grab, **[Open Fab
 
 With a team of 8 engineers, Dwarves helped set the tech foundation and together built an MVP from scratch. Within a year, Dwarves helped ship the system to onboard and configure payment methods for companies to the Open Fabric commerce network.
 
-
-**Industry**
-
+**Industry**\
 Fintech
 
-**Location**
-
+**Location**\
 South East Asia
 
-**Solution**
-
-A Technical Partner to co-manage Open Fabric product development
+**Solution**\
+A Technical Partner to co-manage Open Fabric product development.
 
 A team of senior engineers collaborated with their in-house team to define the tech foundation and develop the MVP from scratch.
 
-**Outcome**
-
+**Outcome**\
 Dwarves being in charge of the core data master module. With this module completed, the MVP allowing stakeholder (customers, merchants, payment providers) onboarding and transactions was launched on time.
 
 Released the core master data service in the MVP version
 
-**Our Service**
-
+**Our Service**\
 MVP Development, Tech Consulting, Staff Augmentation
 
 ## The Challenges
@@ -103,6 +100,7 @@ With limited resources and a rushed time to launch, we have to weigh between bui
 | Back-end | Typescript, Kotlin |
 
 **Architecture**
+
 Open Fabric was designed to become a high-performance, low-latency system that follows practices for Domain-driven design. The system separates some corporate services with different databases. At the MVP (Minimum Viable Product) stage, we need to test the market as fast as possible. The team balances efforts on release milestones and application performance. However, setting boundaries for separate services is top priority for maintenance and improvement.
 
 ![](assets/open-fabric-set-the-tech-foundation-and-built-an-mvp-from-scratch_e754f89627c971e81eec2c9222d9db98_md5.webp)
