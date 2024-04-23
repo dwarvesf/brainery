@@ -67,7 +67,6 @@ We plan to have a study group for IoT and embedded applications. The study group
 Performance review is starting next week. For those who wish to recognize your accomplishment, please prepare a 1 - 2 page summary to reflect your performance/achievement, following this guide
 
 * [Github](http://github.com/dwarvesf/handbook/blob/master/making-a-career.md#performance-review)
-* [Notion](/548a540a40714f11915d631fd5cec53f#434d285816e34dcaa12f4bc652eb5bed)
 
 ### The value fit
 We have a reason to go this far. Everyone has goals and pays attention to their value fit. We encourage the Dwarves to

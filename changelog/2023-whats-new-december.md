@@ -37,7 +37,7 @@ This month highlights strong signals on AI gaining mainstream traction, the come
 For the full read, [come here](https://note.d.foundation/labs/market-report-dec-2023/).
 
 ## Launching Consulting Team
-[Dwarves' Consulting team](https://note.d.foundation/consulting/consulting-who-we-are/) consists of anyone who’s hungry for more than just coding.
+[Dwarves' Consulting team](https://memo.d.foundation/consulting/) consists of anyone who’s hungry for more than just coding.
 
 - **Team of Specialists**: we favor collective expertise, knowledge sharing and collaboration, to craft innovative solutions that exceed expectations.
 - **Innovative Mindset:** we encourage out-of-the-box thinking, experimentation, and creative problem-solving.
@@ -81,7 +81,7 @@ Email us at spawn@d.foundation or ping @nikki on Discord for JDs / to refer some
 
 **Q: How can I contribute to Dwarves network?**
 
-> Everyone can contribute knowledge in our [Discord](http://discord.gg/dwarvesv) and/or contribute to our [Bounties](http://earn.d.foundation).
+> Everyone can contribute knowledge in our [Discord](http://discord.gg/dwarvesv) and/or contribute to our [Bounties](http://memo.d.foundation).
 > All valuable contributions will be rewarded in ICY ( 1 ICY ~ $1.5)
 
 **Q: Do Dwarves have any events?**

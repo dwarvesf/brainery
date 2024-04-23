@@ -1,6 +1,6 @@
 ---
 tags:
-  - team
+  - weekly-digest
   - remote
   - discord
   - community

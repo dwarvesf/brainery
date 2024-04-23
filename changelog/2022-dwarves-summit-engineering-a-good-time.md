@@ -53,7 +53,7 @@ We’ve been active in a few communities, such as the Golang community, Webuild,
 
 Most especially, Dwarves Discord Network where every techie can join to hang out and learn has grown to 600+ members.
 
-We’ve seen various tech-focused channels and events for the community,  as well as ways for everyone  [learn and earn](https://earn.d.foundation/). 
+We’ve seen various tech-focused channels and events for the community,  as well as ways for everyone  [learn and earn](https://memo.d.foundation/). 
 
 * **#engineering**: share our software know-how, programming advice, and technical insights.
 * **#learning-topics:** our knowledge-sharing system, where the Dwarves keep their learning, discoveries and helpful practice to build quality software.
@@ -122,10 +122,10 @@ We’re really happy about how Summit 2022 turned out. We’ve had quite a lot o
 
 Likewise, we’ve learned a lot during the trip and have taken a few steps ahead in planning for our next trip.
 
-* **Activities developed for engineers, by engineers.** We want our people to have true, meaningful fun, so we want to open opportunities for our team to take part in developing games for not just our next trip but for everyone to enjoy.
-* **International trips.** With the pandemic settling down globally, we will definitely have a look at places we haven’t been to and explore them together.
-* **Even bigger incentives.** Allow everyone to earn and have fun doing so.
-* **Albums and videos for everyone to look back to.** Create memories that everyone can take home, enjoy watching, and brag to their friends about.
+* **Activities developed for engineers, by engineers.**<br>We want our people to have true, meaningful fun, so we want to open opportunities for our team to take part in developing games for not just our next trip but for everyone to enjoy.
+* **International trips.**<br>With the pandemic settling down globally, we will definitely have a look at places we haven’t been to and explore them together.
+* **Even bigger incentives.**<br>Allow everyone to earn and have fun doing so.
+* **Albums and videos for everyone to look back to.** <br>Create memories that everyone can take home, enjoy watching, and brag to their friends about.
 
 Our goal for next year is to incorporate **Mastery, Meaning, and Autonomy**. These are some of the things we have in our backlog, and we’re certainly excited to try out more when we get to it.
 

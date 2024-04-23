@@ -33,13 +33,13 @@ We got 4 new Interns from Bach Khoa this summer. They’re all excited to pick u
 ### Data Team Form-up
 Another direction besides blockchain? Data. Tom and Dung are the first members to take care of this. Data is becoming more and more critical to how we shape businesses. Having teammates with thorough insights on this will support us to go further.
 
-Ping Tom if you want to be part of the squad. And stay tuned for Dung’s first sharing on **Apache Spark**, coming this **[Jun 06 - 5PM](https://discord.com/events/462663954813157376/983032897567084634)**.
+Ping Tom if you want to be part of the squad. And stay tuned for Dung’s first sharing on **Apache Spark**, coming this **[Jun 06 - 5PM](https://www.youtube.com/live/6nini4cmk1E?si=8sFJdTNFv3CypQCe)**.
 
 ### Revisit the Radio Talks
 Highlights will be summarized and shared through Memo to those who want to keep up:
 
-* **React 18**: [https://bit.ly/3NTpawt](https://bit.ly/3NTpawt)
-* **Remix versus Next.js:** [https://bit.ly/3Mlb8CO](https://bit.ly/3Mlb8CO)
+* [**React 18**](https://memo.d.foundation/playground/_memo/react-18/)
+* [**Remix versus Next.js**](https://memo.d.foundation/playground/_memo/remix-versus-nextjs/)
 
 Feels more like listening? Pay a visit to **[Dwarves Youtube](http://www.youtube.com/channel/UC_SyzGLf6wiqctQFsRI_frw)** for every streaming.
 

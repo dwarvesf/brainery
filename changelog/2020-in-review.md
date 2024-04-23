@@ -33,7 +33,7 @@ With the Dwarves located in many countries (Toronto, Vancouver, Düsseldorf, Ind
 Starting from March, the world began to lockdown. Companies get hit. Businesses around the world are expected to close down and wait until the pandemic is over. Everyone will try to save their penny, and no one would love to build software or start something new. We might be affected. We haven’t known yet. The best we can do is tweak our plan to prepare for any scenarios
 
 ### The Adaptation Begins
-Things remain in survival mode. We only **[hire when it hurts](https://dwarves.foundation/memo/a-tip-on-hiring-dont-ym9cbzisb9)**. No layoffs on the ground. We keep the team with those who have the same beliefs, lifestyle, and the urge to move along with the tech industry. In the short term, a team that people are proud to work with. It’s where their outcome matters.
+Things remain in survival mode. We only **[hire when it hurts](https://memo.d.foundation/playbook/operations/a-tips-of-hiring-dont/)**. No layoffs on the ground. We keep the team with those who have the same beliefs, lifestyle, and the urge to move along with the tech industry. In the short term, a team that people are proud to work with. It’s where their outcome matters.
 
 ### Level up the tech quality
 We dive deep into tech, continuously improving our knowledge base through tech radar, team memo, and other activities. We optimize the workflow, simplify the process to make our work more enjoyable.
@@ -51,7 +51,7 @@ And got them on team Discord.
 ### A Radar Ring for Tech Adoption
 The day-to-day work won’t get us as far as we could. Finding the new and stepping out of the safe zone is a great resolution to move with the industry.
 
-We input the discoveries and assessment of the latest tech trends on [Radar Ring](https://dwarves.foundation/radar/). We define them in Rings & Quadrants. Every two months, we gather the team's research output and conduct webinars on sharing, guidelines &lesson-learned. The knowledge recap is stored as RFC on[Github](https://github.com/dwarvesf/radar)</ and team [Memo](https://dwarves.foundation/memo/) for later reference.
+We input the discoveries and assessment of the latest tech trends on [Radar Ring](https://dwarves.foundation/radar/). We define them in Rings & Quadrants. Every two months, we gather the team's research output and conduct webinars on sharing, guidelines &lesson-learned. The knowledge recap is stored as RFC on [Github](https://github.com/dwarvesf/radar) and team [Memo](https://memo.d.foundation/) for later reference.
 
 ![](assets/2020-in-review_2020-in-a-flashback_897cee98638b129f3afb4a53c7de23c1_md5.webp)
 
@@ -59,12 +59,15 @@ We input the discoveries and assessment of the latest tech trends on [Radar Rin
 Portray ourselves as a technical partner for startups; it’s our mission to deliver the optimized solution. That comes with a smooth process of bootstrapping their ideas and promptly turning those into products.
 
 **Metric Dashboard**
+
 We aggregated a set of events and data from the application and displayed them in dashboards for better analytics. Each domain requires a specific metric set. That helps makers easily locate the focus point and allocate their resources accurately.
 
 **Upgrade CI/CD culture**
+
 Having experience in project setup, we’re proud to bring the best practices in helping startup ideas take off easier. Picking Earthly as an approach to reduce the risk from local environment testing is how we help lift your project off the ground.
 
 **All Practice in One Place**
+
 New researches must be put into practice; otherwise, it’s a waste of time. From every piece of collected knowledge, we take the first step putting them in a trial period long enough to grab the pros & cons. These practices get applied to the team, ensure the knowledge base, and put our work into one format.
 
 ![](assets/2020-in-review_2020-in-a-flashback_8489fab373166d75e44a6f3948656362_md5.webp)
@@ -82,7 +85,7 @@ So. new plan. Restructure, strengthen the core, and focus on what we do best.
 ### Build a place where people love to work in
 **Where people can develop themselves and as a team**
 
-The urge to grow lies within us. Outside of work, we encourage the Dwarves to improve their knowledge and skills. We support this with an [Education Allowance](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md#continuing-education-allowance), an English Camp every Tue & Thu, and a weekly 101 training - where the team discusses and collects points of view on different topics toward [soft skills](https://dwarves.foundation/memo/dwarves-radio-talk-1-financial-management-fguwljhvt6), product design, [startups](https://dwarves.foundation/memo/dwarves-radio-talk-2-startup-un0eh4duyo) & engineering.
+The urge to grow lies within us. Outside of work, we encourage the Dwarves to improve their knowledge and skills. We support this with an [Education Allowance](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md#continuing-education-allowance), an English Camp every Tue & Thu, and a weekly 101 training - where the team discusses and collects points of view on different topics toward [soft skills](https://youtu.be/HR4-g70UCjQ?si=v2TGHTp7YkdNJrhM), product design, [startups](https://www.youtube.com/live/z7DwXNoeeAg?si=Zdcq1_dMK-n9oMgf) & engineering.
 
 **Where the efforts are tributed**
 
@@ -90,7 +93,7 @@ Dwarves Foundation is where we value even the tiniest contribution, by all means
 
 **Where the team structure gets flattened**
 
-Wearing many hats used to be our option. We do have roles, but we haven’t sat down and put them in place until earlier this year. The latest team structure lies at [https://bit.ly/df-org-chart](https://bit.ly/df-org-chart). But unlike others, we want to keep things public as much as we could. We do our best to make sure they get access to every piece of information, and despite the titles, [everyone is welcomed to raise a question.](https://dwarves.foundation/memo/asking-as-a-junior-pmvf365mpk)
+Wearing many hats used to be our option. We do have roles, but we haven’t sat down and put them in place until earlier this year. The latest team structure lies at [https://bit.ly/df-org-chart](https://bit.ly/df-org-chart). But unlike others, we want to keep things public as much as we could. We do our best to make sure they get access to every piece of information, and despite the titles, [everyone is welcomed to raise a question.](https://memo.d.foundation/playground/_memo/asking-as-a-junior/#sidebar)
 
 **Where the engagement ain't just around the work**
 
@@ -110,6 +113,7 @@ With the concept that Program = Data + Algorithm, we weave the data culture in e
 ![](assets/2020-in-review_2020-in-a-flashback_cbb1aa0a50be64a8455ee9e20e198dd7_md5.webp)
 
 **How does that help us make a decision**
+
 Data prevents us from making biased decisions. No favoritism on the table. Data sort out the real number from the real work, where we get to analyze and evaluate objectives effectively. Keeping all data in one place enables us to set measurable goals that align with the company’s vision, predict what works and what doesn’t, and, therefore, actively turn data into real action.
 
 ### We seek for Solid Partnership
@@ -159,7 +163,7 @@ We started first with the Website upgrade. We fill up the blank with Case Studie
 
 ![](assets/2020-in-review_2020-in-a-flashback_8dc9f8dc969d793887c21e026eeec3d2_md5.webp)
 
-Next, the **[Memo](https://dwarves.foundation/memo/)**. Our crafting space for lessons learned, perspectives, and the occasional webinar recaps.
+Next, the **[Memo](https://memo.d.foundation/)**. Our crafting space for lessons learned, perspectives, and the occasional webinar recaps.
 
 ![](assets/2020-in-review_2020-in-a-flashback_807943f1856a0cdf4a2c431c7f1b1d81_md5.webp)
 
@@ -218,7 +222,7 @@ Though the affection of Covid limits us from conducting offline meetups, we stil
 
 **techie.story**
 
-Having more time inside makes us realize more corners in this industry should be shined light on. We founded [**techie.story**](http://techiestory.co/), where we get them to listen to the untold story of techies from this industry, about the hidden aspects of day-to-day work.
+Having more time inside makes us realize more corners in this industry should be shined light on. We founded [**techie.story**](https://techiestory.net/), where we get them to listen to the untold story of techies from this industry, about the hidden aspects of day-to-day work.
 
 ![techiestory](assets/2020-in-review_1_qd5o2ijrtws2kucxnybjsg.webp)
 
