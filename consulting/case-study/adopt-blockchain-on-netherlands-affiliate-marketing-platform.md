@@ -6,10 +6,12 @@ tags:
   - consulting
 title: Adopt Blockchain On Netherlands Affiliate Marketing Platform
 date: 2021-06-18
-description: null
-authors: null
-menu: memo
-type: null
+description: Attrace is a Netherland decentralized affiliate marketing network that audits action and bridges e-commerce websites to merchants. Our team of 3 join them to contribute to Attrace's core function with custom-made blockchain technology.
+authors: 
+- nikki
+- duy
+menu: consulting
+type: case-study
 hide_frontmatter: false
 ---
 
@@ -42,7 +44,7 @@ Attrace's blockchain network logs agreements between parties through a smart con
 ![](assets/adopt-blockchain-on-netherlands-affiliate-marketing-platform_adopt-blockchain-on-netherland-benefits.webp)
 
 >
-> 🌀 We build Attrace with **blockchain-nodes**. It provides transparent transactions, creates secure networks and real-time communications between parties.
+> We build Attrace with **blockchain-nodes**. It provides transparent transactions, creates secure networks and real-time communications between parties.
 
 **Rely heavily on ETH**
 
@@ -54,7 +56,6 @@ ETH isn't the only chain we keep in mind. Attrace team is working on more chain 
 Attrace provides solutions to apply referral into blockchain products (IDO, Liquidity Pool, or NFT). With every case comes a smart contract to define the related metrics. A verifier network will then tracks those metrics, and payout for the relevant stakeholders.
 
 **Tech stacks**
-
 * Backend: Solidity & Index in Golang
 * Frontend: React
 * Files sharing system: IPFS
@@ -64,8 +65,7 @@ Attrace provides solutions to apply referral into blockchain products (IDO, Liqu
 
 Data must be propagated in blockchain. Leverage IPFS keeps data persistently available with access control. Meanwhile, it prevents data from being bloated by relying on cryptographic hashes. 
 
-**Communication**
-
+**Communication**\
 Slack chat & Trello task management.
 
 ## Outcome
@@ -84,6 +84,4 @@ Attrace marked up their next highlights with an achievement streak
 ![](assets/adopt-blockchain-on-netherlands-affiliate-marketing-platform_adopt-blockchain-on-uniswap.webp)
 
 >
-> 💬 "They left us with great development and improvement, in terms of work result and team synchronization. A worthy evidence for Attrace’s investments and we hope nothing more than to keep going with them in long-term, provide opportunities for these devs to grow with Attrace."
-
-Erwin, Attrace's CEO & Founder
+> 💬 *"They left us with great development and improvement, in terms of work result and team synchronization. A worthy evidence for Attrace’s investments and we hope nothing more than to keep going with them in long-term, provide opportunities for these devs to grow with Attrace."* Erwin, Attrace's CEO & Founder

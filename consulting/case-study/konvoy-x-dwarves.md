@@ -3,36 +3,31 @@ tags:
   - case-study
   - consulting
   - partnership
-title: Konvoy X Dwarves
+title: "Konvoy x Dwarves"
 date: 2023-09-14
-description: 
+description: By October 2020, the company had integrated Keg Services into its framework, enhancing its cutting-edge, tech-based keg solutions with stellar service and deep industry expertise. Konvoy caters to the unique needs of breweries by offering both short-term rentals and long-term leasing options.
 authors: 
-menu: memo
-type: 
+- huytieu
+menu: consulting
+type: case-study
 hide_frontmatter: false
 ---
-**Industry:**
-
+**Industry:**\
 Logistics, Supply Chain Management
 
-**Location:** 
-
+**Location:**\
 Australia
 
-**Business Context:**
-
+**Business Context:**\
 An innovative company providing beverage industry with a unique keg rental solution, emphasizing sustainability and ease of use.
 
-**Solution:** 
-
+**Solution:**\
 A tech-driven rental system with real-time keg tracking and analytics ensuring security and transparency.
 
-**Outcome:** 
-
+**Outcome:**\
 Increase the operational efficiency and profitability of breweries with a flexible, secure, and eco-friendly keg supply chain.
 
-**Our Service:** 
-
+**Our Service:**\
 Product Consulting, Staff Augmentation
 
 ![](assets/konvoy-x-dwarves_9dc23633d853a046448b04fd5b43f189_md5.webp)

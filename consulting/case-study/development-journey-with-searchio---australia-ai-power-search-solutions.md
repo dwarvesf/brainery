@@ -3,12 +3,14 @@ tags:
   - case-study
   - AI
   - consulting
-title: Development Journey With Searchio Australia AI Power Search Solutions
+  - partnership
+title: "Development Journey With Search.io Australia AI Power Search Solutions"
 date: 2021-08-10
-description: 
+description: The Dwarves partnered with Search.io to help with their Console dashboard app, improve open-source packages quality and tailor the brand UI for plugin consumers.
 authors: 
+- duy
 menu: memo
-type: 
+type: case-study
 hide_frontmatter: false
 ---
 
@@ -28,9 +30,7 @@ hide_frontmatter: false
 That comes with a full package of platform integration, search through images, A/B testing via crawler and API listing support.
 
 >
-> 🔸 Search.io must ensures an optimal user experience. It aims to make the services more accessible. 
-
-That explains the work on open-source and search-widget support.
+> 🔸 Search.io must ensures an optimal user experience. It aims to make the services more accessible. That explains the work on open-source and search-widget support.
 
 ![](assets/development-journey-with-searchio---australia-ai-power-search-solutions_dd55bea9f42adaff0ca67b9f0398ad98_md5.webp)
 
@@ -68,6 +68,7 @@ A few highlights we're proud to deliver. Various achievements for open-source pa
 * [Shopify Integration](https://www.sajari.com/blog/shopify-search)
 * [Search Widget](https://docs.sajari.com/user-guide/integrating-search/widget/)
 * [All new UI](https://www.sajari.com/blog/meet-the-all-new-sajari)
+
 ![](assets/development-journey-with-searchio---australia-ai-power-search-solutions_553a8839ac6f2ddb246b3801a3d3ed46_md5.webp)
 
 Our partnership helps Search.io to enhance their development team to deliver a powerful search and discovery platform. The platform provides real-time searching as-a-service and is trusted by large businesses worldwide. 
