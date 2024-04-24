@@ -21,18 +21,18 @@ Our Discord crew is buzzing with energy after our last Friday community call, wi
 
 No matter who you are, real work happens when you feel your best self. If you want to share your current workplace with us, please do. You are warmly welcome to be part of our community.
 
-![workspace](assets/#1-what-do-you-stand-for_2024-weekly-digest-april-8_2024-weekly-digest-april_2024-first-digest-workspace.webp)
+![workspace](assets/1-what-do-you-stand-for_2024-weekly-digest-april-8_2024-weekly-digest-april_2024-first-digest-workspace.webp)
 
 ### What’s in the #Motivation?
 After watching a movie, Anna, our UX designer shared this interesting quote, sparking some serious quality sharing from the team. We've been diving deep into the question, 'What do you stand for?'
 
-![motivation](assets/#1-what-do-you-stand-for_2024-weekly-digest-april-8_2024-weekly-digest-april_2024-first-digest-motivation.webp)
+![motivation](assets/1-what-do-you-stand-for_2024-weekly-digest-april-8_2024-weekly-digest-april_2024-first-digest-motivation.webp)
 
 We were blown away by the tons of quality sharing from the team, with a range of ideas and perspectives. 
 
 Some stand for the power of curiosity, others for family, and some for the ongoing pursuit of inner peace and freedom from life's distractions. We’re happy to see our tribe embracing their most authentic selves through this open sharing, giving '100% Real' answers.
 
-![motivation](assets/#1-what-do-you-stand-for_2024-weekly-digest-april-8_2024-weekly-digest-april_2024-digest-motivation.webp)
+![motivation](assets/1-what-do-you-stand-for_2024-weekly-digest-april-8_2024-weekly-digest-april_2024-digest-motivation.webp)
 
 So, how about you? What do you stand for?
 
@@ -45,4 +45,4 @@ Has anyone heard from @bien lately? Hope he's doing alright. And @vincent, did y
 
 Let's keep the conversation going and the good times rolling. See you around next week for a catch-up.
 
-![random](assets/#1-what-do-you-stand-for_2024-weekly-digest-april-8_2024-weekly-digest-april_2024-first-digest-random.webp)
+![random](assets/1-what-do-you-stand-for_2024-weekly-digest-april-8_2024-weekly-digest-april_2024-first-digest-random.webp)
