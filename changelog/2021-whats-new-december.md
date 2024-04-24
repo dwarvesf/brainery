@@ -59,4 +59,4 @@ Here’s to rock 2022!
 
 ![doty](assets/2021-whats-new-december_2021-doty.webp)
 
-![merch](assets/december-all-hands-meeting/fd61221cb31785842fecd3ff2339aab6_MD5.webp)
+![merch](assets/2021-whats-new-december_fd61221cb31785842fecd3ff2339aab6_md5.webp)

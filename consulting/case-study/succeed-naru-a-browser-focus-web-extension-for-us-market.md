@@ -38,7 +38,7 @@ An enhanced version of to-do list - but acts as a widget within user's browser.
 ## Engagement Model
 Making a web extension behaves like an application (says Trello) is nontrivial. A web extension work by attach and execute) its own `<script>` tag to the current web page. After that, it boot up with a UI for user interaction.
 
-![](assets/na-ex.png)
+![](assets/succeed-naru-a-browser-focus-web-extension-for-us-market_na-ex.webp)
 
 **Collaboration**
 

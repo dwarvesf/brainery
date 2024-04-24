@@ -6,7 +6,7 @@ tags:
   - partnership
 title: Sol Travel Planning App Part 1
 date: 2018-10-10
-description: The mobile app Sol is a travel app focused on some highlight features: planning trips, managing members and expenses, and tracking/sharing location. In facts, when traveling by groups, we often face some troubles: getting lost, confusing with plans, hard-communicating and the most challenging thing: managing expenses. This app provides some solutions to these problems.
+description: "The mobile app Sol is a travel app focused on some highlight features: planning trips, managing members and expenses, and tracking/sharing location. In facts, when traveling by groups, we often face some troubles: getting lost, confusing with plans, hard-communicating and the most challenging thing: managing expenses. This app provides some solutions to these problems."
 authors: 
 - duy
 menu: consulting
