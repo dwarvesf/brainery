@@ -40,12 +40,14 @@ Here is our use of color scheme in Onboarding flow.
 
 ## Logo
 For the logo, we combine two elements of the app, location-tracking feature and its name “Sol” — the sun. Applying negative spaces and gradient creates modern-looking and minimal style to it as well.
+
 “Drop me a pin” has been a trending phrase since the use of map apps became a worldwide trend, hence the term “location pin” has got the meaning of “share the location”. The sun and the mountains indicate the long journey to the wild. Taking those inspirations we create the logo for our app.
 
 ![](assets/sol-travel-planning-app-part-2_sol-travel-planning-app---part-2_32cd8cd1bba12d072316dd408dc2a780_md5.webp)
 
 ## Typography
 Sol uses the default font type for iOS, San Francisco Pro Display to keep it clear and provide better reading experiences. This also maintains the app familiar to our iOS users.
+
 The type sizes are customized to match with our use of component.
 
 ![](assets/sol-travel-planning-app-part-2_sol-travel-planning-app---part-2_b1f8fe2d19189f0a49b9aab7c9e58f83_md5.webp)
@@ -70,4 +72,5 @@ When the user taps on a member they receive detail information about where that 
 
 ## Conclusion
 Throughout this stage, we have had a chance to learn more about designing an app UI. It was fun trying out the color variations and arranging the elements as well. Next time, we will share our process of motion design. Hope you will like it.
+
 Take a look at our last article on UX case study of the app View.

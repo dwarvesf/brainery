@@ -10,7 +10,7 @@ description: "AirWatt's vision is to help businesses track electric usage status
 authors: 
 - han
 - duy
-menu: memo
+menu: consulting
 type: case-study
 hide_frontmatter: false
 ---

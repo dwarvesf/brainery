@@ -29,6 +29,6 @@ With the true intention of community goodwill, we're honored to have joined forc
 >
 > Moving forward, Dwarves will continue the support, as a way to elevate the community that we are a part of.
 
-**Technical Highlights:**
+### Technical Highlights
 - Notion website & database
 - Form integration & automation

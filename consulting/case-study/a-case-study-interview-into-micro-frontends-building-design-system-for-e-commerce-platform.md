@@ -4,7 +4,7 @@ tags:
   - engineering
   - frontend
   - case-study
-title: A Case Study Interview Into Micro Frontends Building Design System For e-Commerce Platform
+title: A Case Study Interview Into Micro Frontends Building Design System For E-Commerce Platform
 date: 2023-04-03
 description: In this article, we'll dive deeper into the practice of applying micro frontend architecture at Swift - an e-commerce company and long-term partner of Dwarves Foundation
 authors: 
@@ -33,11 +33,11 @@ This led us to micro-frontend architecture, where we split the project into smal
 ### How did you split the projects?
 The projects at Swift are split vertically by page and sub-domain. We have at least ten apps in total, each assigned to a specific team. A sample breakdown of our current system would include:
 
-* Authentication (Login)
-* Profile Dashboard
-* Ads Management Dashboard
-* Chat
-* Design System
+- Authentication (Login)
+- Profile Dashboard
+- Ads Management Dashboard
+- Chat
+- Design System
 
 … and so on.
 
