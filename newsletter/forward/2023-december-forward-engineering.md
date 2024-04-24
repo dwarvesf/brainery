@@ -11,7 +11,7 @@ authors:
   - thanh
   - monotykamary
 menu: labs
-type: memo
+type: forward-engineering
 hide_frontmatter: false
 pinned: true
 ---
@@ -114,8 +114,6 @@ In a recent collaborative discussion between key members of the Labs and Consult
 | Building UI Practices   | - Demoed a workshop on Mochi UI, encompassing techniques and API composition across components                                                                                       | - Iron out practices and have Mochi UI to be GA                                                                                                                                           |
 
 ## Dwarves Rewind - Discord Community
-![[November Forward Engineering 2023-20231130165200911.webp]]
-
 Dwarves Rewind this month will be a collection of tech interests we see happening in our Discord community. Along with our labs roadmap, the community have also shown more interest in Elixir and scalability, with a look on some old and new tools for web development. Some of the programming languages, tools and frameworks discussed this month are:
 
 1. **Actor Model**:

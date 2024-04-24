@@ -6,10 +6,10 @@ tags:
   - forward-engineering
 title: Forward Engineering June 2023
 date: 2023-06-30
-description: "As we usher in the month of June, we embrace the ever-changing landscape of technological innovation, and focus on a central theme: \"**LLM in Production**\"."
+description: "As we usher in the month of June, we embrace the ever-changing landscape of technological innovation, and focus on a central theme:LLM in Production."
 authors: 
 menu: labs
-type: updates
+type: forward-engineering
 hide_frontmatter: false
 author: 
 - thanh
@@ -74,7 +74,7 @@ Our community continues to thrive due to the collective effort of our talented c
 
 ![](assets/2023-june-forward-engineering_forward-engineering-june-2023_2fbe2f31190fe0c73606912485107f88_md5.webp)
 
-We also value and encourage our community's interaction on our **[Discord](https://chat.openai.com/discord.gg/dwarvesv)** server. It's a great space to stay updated, engage in lively discussions, and catch up on the latest from us. Be sure to join us there!
+We also value and encourage our community's interaction on our **[Discord](https://discord.gg/dwarvesv)** server. It's a great space to stay updated, engage in lively discussions, and catch up on the latest from us. Be sure to join us there!
 
 Here are some noteworthy articles that were shared in our Brainery during June:
 

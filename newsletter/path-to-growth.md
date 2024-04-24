@@ -3,7 +3,7 @@ tags:
 - updates
 - engineering
 - newsletter
-title: The path to growth at Dwarves
+title: The Path To Growth at Dwarves
 date: 2021-10-31
 description: It's Han and Nikki from Team Dwarves. We're here with the fifth edition of our Dwarves Updates. October has been a wild ride for us as a company. Most of our effort was spent on rethinking growth paths for our engineers.
 authors: 
@@ -45,7 +45,7 @@ We are currently training a good number of engineers at Dwarves on consulting. T
 ### Learn a new tech
 Learning a new technology is always exciting for our engineers. It's even better when they can do so as a group. We form teams within our team to learn new tech and make stuff with it. We keep tabs on tech trends and make decisions on which tech to invest in based on its potential to impact the future.
 
-Our latest bet is on blockchain, Metaverse, AI & ML. Our blockchain-focused team has been producing some great products, including [Cyber Neko](https://www.notion.so/e54d9ca7641c45699a38ee89bc937703?pvs=21), [LFW](https://www.notion.so//e54d9ca7641c45699a38ee89bc937703?pvs=21).
+Our latest bet is on blockchain, Metaverse, AI & ML. Our blockchain-focused team has been producing some great products, including [Cyber Neko](https://www.pod.town/), LFW.
 
 ![](assets/path-to-growth-20240312105235592.webp)
 

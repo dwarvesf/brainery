@@ -11,7 +11,7 @@ authors:
   - thanh
   - monotykamary
 menu: labs
-type: memo
+type: forward-engineering
 hide_frontmatter: false
 pinned: true
 featured: true

@@ -12,7 +12,7 @@ authors:
 - monotykamary
 - innno_
 menu: labs
-type: updates
+type: forward-engineering
 hide_frontmatter: false
 author: Thanh Pham, Tom X Nguyen
 ---

@@ -11,7 +11,7 @@ authors:
   - monotykamary
   - thanh
 menu: labs
-type: updates
+type: forward-engineering
 hide_frontmatter: false
 featured: true
 ---

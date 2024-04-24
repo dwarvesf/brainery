@@ -11,7 +11,7 @@ authors:
   - thanh
   - monotykamary
 menu: labs
-type: updates
+type: forward-engineering
 hide_frontmatter: false
 author: Thanh Pham, Tom X Nguyen
 ---
@@ -70,7 +70,7 @@ Our community continues to thrive due to the collective effort of our talented c
 
 Each month, we acknowledge their contributions in our Brainery's **[Latest Notes](https://brain.d.foundation/Latest+Notes)** section, linking their GitHub accounts for further reference.
 
-We also value and encourage our community's interaction on our **[Discord](https://chat.openai.com/discord.gg/dwarvesv)** server. It's a great space to stay updated, engage in lively discussions, and catch up on the latest from us. Be sure to join us there!
+We also value and encourage our community's interaction on our **[Discord](https://discord.gg/dwarvesv)** server. It's a great space to stay updated, engage in lively discussions, and catch up on the latest from us. Be sure to join us there!
 
 ![](assets/2023-august-forward-engineering_forward-engineering-august-2023_e5dccd4a857f77f41f71cc744a916605_md5.webp)
 
