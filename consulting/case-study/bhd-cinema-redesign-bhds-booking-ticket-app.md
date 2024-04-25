@@ -9,11 +9,10 @@ date: 2019-05-20
 description: BHD is one of the biggest cinema chains in Vietnam with hundreds of thousands tickets sold monthly. However, its mobile application is a complete drawback; users cannot book tickets online, it feels and looks outdated, inconsistent and cluttered.
 authors: 
 - duy
-menu: memo
+menu: consulting
 type: case-study
 hide_frontmatter: false
 ---
-
 
 ## Introduction
 BHD is one of the biggest cinema chains in Vietnam with hundreds of thousands tickets sold monthly. However, its mobile application is a complete drawback; users cannot book tickets online, it feels and looks outdated, inconsistent and cluttered.

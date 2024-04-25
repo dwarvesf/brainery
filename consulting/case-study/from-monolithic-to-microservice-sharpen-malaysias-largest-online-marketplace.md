@@ -17,17 +17,17 @@ hide_frontmatter: false
 ![](assets/from-monolithic-to-microservice-sharpen-malaysias-largest-online-marketplace_6be4a77492fe56879670e7842673e411_md5.webp)
 
 ## In brief
-* Mudah.my is a Malaysian 12-years-old online marketplace. A product derives from a partnership between Telenor ASA of Norway and 701Search Singapore. 
-* Currently holds 19.8% Internet share, Mudah meets the increase of customers demand, which led to an overload in the current system.
-* We partnered to help migrating the monolithic architecture into microservices - Unlocking a scalable and feature-extendable platform.
-* We spent a month working on-site at Malaysia to directly participate in the work and speed up productivity.
+- Mudah.my is a Malaysian 12-years-old online marketplace. A product derives from a partnership between Telenor ASA of Norway and 701Search Singapore. 
+- Currently holds 19.8% Internet share, Mudah meets the increase of customers demand, which led to an overload in the current system.
+- We partnered to help migrating the monolithic architecture into microservices - Unlocking a scalable and feature-extendable platform.
+- We spent a month working on-site at Malaysia to directly participate in the work and speed up productivity.
 
 ## Technical Highlight
-* Massive migration from monolithic to microservice architecture.
-* Combining Golang and Gin framework to fasten web performance.
-* Next.JS for search-engine index, SEO-friendly and reusable components.
-* Unit test that ensures at least 80% test coverage before deploying to production.
-* Mobile app with MVC architecture for fast debugging and development speed.
+- Massive migration from monolithic to microservice architecture.
+- Combining Golang and Gin framework to fasten web performance.
+- Next.JS for search-engine index, SEO-friendly and reusable components.
+- Unit test that ensures at least 80% test coverage before deploying to production.
+- Mobile app with MVC architecture for fast debugging and development speed.
 
 ## The Context
 Mudah.my’s site features various ads categories for different purchase demands. The data from customer and third-parties is massively huge to process.
@@ -51,22 +51,17 @@ The server-side rendering concept with HTML data parsing makes the site indexabl
 We worked on shipping new features, refactoring the code and deep link manager in mobile app. MVC architecture ensures an upgrade in development pace, enable us to update and debug easier.
 
 ### Tech stacks
-
-* Backend: Golang & Gin framework
-* Frontend: Next.js
-* Server-side rendering
-* Database: PostgreSQL & RESTful API
-* GRPC protocol 
-* Mobile: Swift 4 and MVC
+- Backend: Golang & Gin framework
+- Frontend: Next.js
+- Server-side rendering
+- Database: PostgreSQL & RESTful API
+- GRPC protocol 
+- Mobile: Swift 4 and MVC
 
 ### Collaboration
-
-The Dwarves spent a month in Malaysia to directly work with Mudah team. 
-
-It was a great working process and exciting experience. 
+The Dwarves spent a month in Malaysia to directly work with Mudah team. It was a great working process and exciting experience. 
 
 ### Delivery tooling
-
 Slack chat, Jira card & Gitlab Merge Request for technical discussion. 
 
 ## Outcome

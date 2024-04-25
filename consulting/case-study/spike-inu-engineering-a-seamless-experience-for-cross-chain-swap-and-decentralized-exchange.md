@@ -16,19 +16,19 @@ hide_frontmatter: false
 ---
 
 ## In brief
-* When blockchain becomes the new tech blockbuster, worldwide blockchain networks such as Ethereum, Polygon, Avalanche, Fantom, or Binance Smart Chance started to develop their own tokens. They all possess the same vision: Empower crypto users to transfer their assets in multiple chains hassle-free and effective.
-* The core engine of those products is building a secured bridging solution between chains, enabling tokens to move back and forth, and transferring tokens on the same network. That forms the first concept of **[Spike Inu](https://spikeinu.io/)** and **[iCrosschain](https://icrosschain.io/)**, **the Swap platform**.
-* In mid-2022, we successfully built iCross-chain Swap that shortened cross-chain transaction times by up to 15 seconds. This is the first time that cross-chain transaction time has been shortened to seconds.
-* It’s a system that requires a safe consensus mechanism between validated nodes in bridges. With that being said, we’re able to create a mechanism that leverages the ability of the decentralized platform’s liquidity.
+- When blockchain becomes the new tech blockbuster, worldwide blockchain networks such as Ethereum, Polygon, Avalanche, Fantom, or Binance Smart Chance started to develop their own tokens. They all possess the same vision: Empower crypto users to transfer their assets in multiple chains hassle-free and effective.
+- The core engine of those products is building a secured bridging solution between chains, enabling tokens to move back and forth, and transferring tokens on the same network. That forms the first concept of **[Spike Inu](https://spikeinu.io/)** and **[iCrosschain](https://icrosschain.io/)**, **the Swap platform**.
+- In mid-2022, we successfully built iCross-chain Swap that shortened cross-chain transaction times by up to 15 seconds. This is the first time that cross-chain transaction time has been shortened to seconds.
+- It’s a system that requires a safe consensus mechanism between validated nodes in bridges. With that being said, we’re able to create a mechanism that leverages the ability of the decentralized platform’s liquidity.
 
 ![](assets/spike-inu-engineering-a-seamless-experience-for-cross-chain-swap-and-decentralized-exchange_d62f913d7d2981f4fe1322f4dfb4076f_md5.webp)
 
 ## Technical Highlight
-* Blockchain bridging solutions
-* Optimal solution for conversion transactions
-* System security with multi-authentication
-* Decentralized exchange platform
-* Transaction validation and error detection
+- Blockchain bridging solutions
+- Optimal solution for conversion transactions
+- System security with multi-authentication
+- Decentralized exchange platform
+- Transaction validation and error detection
 
 ## The Context
 Icrosschain is a swap platform. It supports users to swap their tokens from one network to another while optimizing profits and the best gas fee for transaction.
@@ -48,25 +48,25 @@ Our team has been diligently exploring technology and building from the underlyi
 
 **Tech stacks**
 
-* Backend: Solidity & Index in Golang, private RPC Molaris, Infura, public RPC
-* Frontend: React.js, Next.JS, web3 Ethereum and web3 Solana
-* Infas: k8s, AWS
-* Monitoring: Prometheus
-* Validator network: Gossip protocol and Golang
+- Backend: Solidity & Index in Golang, private RPC Molaris, Infura, public RPC
+- Frontend: React.js, Next.JS, web3 Ethereum and web3 Solana
+- Infas: k8s, AWS
+- Monitoring: Prometheus
+- Validator network: Gossip protocol and Golang
 
 **Collaboration**
 
-* Github
-* Basecamp
-* Jira
+- Github
+- Basecamp
+- Jira
 
 ## Outcome
 The bridges are all operated and validated through centralized validators, but we have plans to deploy validators to our partners. We are developing DEX exchange on Avalanche with many upgrades and improvements, it may complete it in Q3 2022.
 
 A few things we proud to deliver so far:
-* Issue ICC and iPlus tokens
-* Release DEX platforms on Avalanche
-* Listing tokens on Pancake
+- Issue ICC and iPlus tokens
+- Release DEX platforms on Avalanche
+- Listing tokens on Pancake
 
 Icrosschain has successfully developed the bridging solution for 8 chains: Ethereum, Binance Smart Chain, Polygon, Fantom, Avalanche, Arbitrum, Heco chain and Okex chain. Solana is currently on our WIP item list.
 

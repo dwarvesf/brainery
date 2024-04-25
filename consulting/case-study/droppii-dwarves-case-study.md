@@ -9,7 +9,7 @@ description: Droppii, in collaboration with Dwarves Foundation, revamps its e-co
 authors:
   - huytq
   - han
-menu: memo
+menu: consulting
 type: case-study
 hide_frontmatter: false
 pinned: 
@@ -53,6 +53,8 @@ This collaboration started with a thorough assessment of **Droppii's** existing 
 
 ## Outcome
 The partnership yielded significant outcomes. The launch of [Droppii for Business v3](https://play.google.com/store/apps/details?id=com.droppii.business&hl=vi&pli=1) was a success with good feedbacks from business users. The enhanced ERP system and improved data management tools provided businesses with greater operational control and insight.
+
+![](assets/droppii.png)
 
 This collaboration not only advanced **Droppii’s** technological front but also solidified their position in the **e-commerce** market. The technical excellence and agile approach of **Dwarves Foundation** played a pivotal role in this transformation, enabling **Droppii** to adapt and thrive in the dynamic **e-commerce** landscape.
 

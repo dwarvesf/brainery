@@ -18,21 +18,21 @@ hide_frontmatter: false
 ![](assets/the-development-journey-with-aharooms---vietnam-hospitality-growth-solutions_aharoom.webp)
 
 ## In brief
-* Aharooms wants to be a remarkable Vietnamese brand in franchised hotel chains. They look to enter the affordable hotel market to support business owners. 
-* Their vision was to build an MVP for market testing in no time. Aharooms's system had almost 2 years in development. It demands high effort to balance new feature development with technical debt.
-* We step in as product team and venture builder. We take on the development stage that supercharges their product development.
+- Aharooms wants to be a remarkable Vietnamese brand in franchised hotel chains. They look to enter the affordable hotel market to support business owners. 
+- Their vision was to build an MVP for market testing in no time. Aharooms's system had almost 2 years in development. It demands high effort to balance new feature development with technical debt.
+- We step in as product team and venture builder. We take on the development stage that supercharges their product development.
 
 ## Technical Highlight
-* Monolithic architecture & Monorepo for consistent code-base
-* Cloud-based infrastructure for data isolation with Docket Containers, GCP and k8s
-* Netlify deployment to avoid bottleneck situation.
-* Gitflow, Early PR, Code Review and Releasing by tag for effective deployment process
-* Automated & end-to-end integration tests with CI pipeline.
-* PostgreSQL and Metabase for data and report summary on business-centric metrics
-* Developer Portal with Open API for external devs to build tools in Aharooms ecosystem.
-* Staah CMS for inventory management in OTA channels.
-* Customized-module for users retention & business needs.
-* Integrated-extensible engine for 3rd-party systems.
+- Monolithic architecture & Monorepo for consistent code-base
+- Cloud-based infrastructure for data isolation with Docket Containers, GCP and k8s
+- Netlify deployment to avoid bottleneck situation.
+- Gitflow, Early PR, Code Review and Releasing by tag for effective deployment process
+- Automated & end-to-end integration tests with CI pipeline.
+- PostgreSQL and Metabase for data and report summary on business-centric metrics
+- Developer Portal with Open API for external devs to build tools in Aharooms ecosystem.
+- Staah CMS for inventory management in OTA channels.
+- Customized-module for users retention & business needs.
+- Integrated-extensible engine for 3rd-party systems.
 
 ## The Context
 Providing growth solutions, Aharooms aims to support 2-3 star Hotels with multiple sale channels, property management, and extra services
@@ -50,41 +50,38 @@ The hit of Covid pushed hospitality industry with severely affects. It was tough
 
 ## Engagement Model
 ### Solution Design
-
-Aharooms delivers a full package of services. 
-
-With selective technology and business insights, we provide high-level architecture with 
-* Integrated Booking Engine
-* Admin Panel dashboard 
-* and customized modules for:
+Aharooms delivers a full package of services. With selective technology and business insights, we provide high-level architecture with 
+- Integrated Booking Engine
+- Admin Panel dashboard 
+- And customized modules for:
 
 ![](assets/the-development-journey-with-aharooms---vietnam-hospitality-growth-solutions_aha-solu.webp)
 
 **Efficient Business Operations**
 
-* Direct-booking Platform: Built as a Hotel-Shopify for different booking types. Chatbot-integration for end-to-end solutions.
-* Management Systems: Applying technology in building operations management, budgeting, and promotion applications.
-* The Property Management System (PMS): To manage bookings via different channels with front-office capabilities for room services management. 
-* The Revenue Management System (RMS): To maximize sales and revenue.  RMS works to evaluate and control revenue with the best cost efficiency.
+- Direct-booking Platform: Built as a Hotel-Shopify for different booking types. Chatbot-integration for end-to-end solutions.
+- Management Systems: Applying technology in building operations management, budgeting, and promotion applications.
+- The Property Management System (PMS): To manage bookings via different channels with front-office capabilities for room services management. 
+- The Revenue Management System (RMS): To maximize sales and revenue.  RMS works to evaluate and control revenue with the best cost efficiency.
 
 **Boost up Customer Retention**
 
-* Loyalty System: Cashback system using Ahacoin as a reward to increase Customer Loyalty.
-* Production Report: Data visualization to analyze the business efficiency through core metrics.
-* Cancellation Report: Overview ratio on canceled booking indicated by relevant factors
+- Loyalty System: Cashback system using Ahacoin as a reward to increase Customer Loyalty.
+- Production Report: Data visualization to analyze the business efficiency through core metrics.
+- Cancellation Report: Overview ratio on canceled booking indicated by relevant factors
 
 **Tech stacks**
 
-* Backend: Golang, Elixir
-* Frontend: React.js, JavaScript, TypeScript
-* Infras: Docker, Google Cloud, k8s, Netlify
-* Monitoring/ Alerting: Prometheus, Grafana, Loki, Sentry
-* Email services: SendGrid
-* Architecture: MVC, Monolith, N-Tiers, Reactive, Monorepo
-* Database: PostgreSQL, Redis
-* CMS: Staah
-* Tools: Figma, Storybook, Git/Github, Insomnia, k9s
-* Framework: Gin, Tailwind, Phoenix, Next.js
+- Backend: Golang, Elixir
+- Frontend: React.js, JavaScript, TypeScript
+- Infras: Docker, Google Cloud, k8s, Netlify
+- Monitoring/ Alerting: Prometheus, Grafana, Loki, Sentry
+- Email services: SendGrid
+- Architecture: MVC, Monolith, N-Tiers, Reactive, Monorepo
+- Database: PostgreSQL, Redis
+- CMS: Staah
+- Tools: Figma, Storybook, Git/Github, Insomnia, k9s
+- Framework: Gin, Tailwind, Phoenix, Next.js
 
 **Cloud-based Infrastructure**
 
@@ -93,7 +90,7 @@ Our dev environments are 4 separate ones: Local, CI, Staging and Production.
 
 Users will get noticed on a new release. Meanwhile, we're able to resolve issues quickly. 
 
-docker and docker-compose made quite a useful pack. 
+Docker and docker-compose made quite a useful pack. 
 
 ![](assets/the-development-journey-with-aharooms---vietnam-hospitality-growth-solutions_aha-infras.webp)
 

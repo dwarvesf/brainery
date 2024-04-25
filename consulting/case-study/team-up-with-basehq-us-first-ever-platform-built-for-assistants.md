@@ -16,16 +16,16 @@ hide_frontmatter: false
 ![](assets/team-up-with-basehq-us-first-ever-platform-built-for-assistants_team-up-with-basehq---us-first-ever-platform-built-for-assistants_019ef328b59808b45c4541243f71c875_md5.webp)
 
 ## In brief
-* Base launched in 2019 out of High Alpha Venture Studio, with a $2.6M funding round led by Matchstick Ventures with participation from Revolution's Rise of the Rest Seed Fund, High Alpha Capital, and Slack Fund.
-* Base is a software platform built specifically for executive assistants. Focus on smoothing out assistants' daily work. They demand a high integration between different platforms.
-* We stepped in to make it happen. Through 2 years straight, they engaged with Dwarves to develop various new modules and features. Our work helped Base to catch up with their release roadmap and ensured product quality.
+- Base launched in 2019 out of High Alpha Venture Studio, with a $2.6M funding round led by Matchstick Ventures with participation from Revolution's Rise of the Rest Seed Fund, High Alpha Capital, and Slack Fund.
+- Base is a software platform built specifically for executive assistants. Focus on smoothing out assistants' daily work. They demand a high integration between different platforms.
+- We stepped in to make it happen. Through 2 years straight, they engaged with Dwarves to develop various new modules and features. Our work helped Base to catch up with their release roadmap and ensured product quality.
 
 ## Technical Highlight
-* Microservices Architecture
-* Implement TypeScript on the whole system for app performance
-* Write services in Golang for performance and secure
-* Write end-user app with ReactJS/NextJS Typescript to scalability
-* Custom-library and webhook for EventCatching
+- Microservices Architecture
+- Implement TypeScript on the whole system for app performance
+- Write services in Golang for performance and secure
+- Write end-user app with ReactJS/NextJS Typescript to scalability
+- Custom-library and webhook for EventCatching
 
 ## The Context
 BaseHQ heads to boost performance for assistants. 
@@ -42,23 +42,22 @@ Our work with Base contains codebase development and technical consultancy. We h
 We took over the big legacy code and optimize them to ensure product stability. The architecture contains two main parts: End-user App and Admin Tool. 
 
 ### Tech stacks
-
-* Backend: Go, Node.js
-* Frontend: React.js, Next.js, Typescript
-* Database: MongoDB, PostgreSQL
-* Infras: GCP, k8s
-* Monitoring: One Relic, Sentry, Fullstory
+- Backend: Go, Node.js
+- Frontend: React.js, Next.js, Typescript
+- Database: MongoDB, PostgreSQL
+- Infras: GCP, k8s
+- Monitoring: One Relic, Sentry, Fullstory
 
 ### Collaboration
-
-* Jira: Task management
-* Slack: Team discussion
-* Zoom: Team meeting
-* Git/ Gitflow: Codebase
-* Github Action: CI/CD
+- Jira: Task management
+- Slack: Team discussion
+- Zoom: Team meeting
+- Git/ Gitflow: Codebase
+- Github Action: CI/CD
 
 ## Outcome
 We keep track of the ongoing progress through weekly changelogs.
+
 Currently, we're in the phase of wrapping Availability Offer - Base's most significant feature to provide users with simplicity in task scheduling. A powerful key feature that combines Calendar Event and poll setup.
 
 ![](assets/team-up-with-basehq-us-first-ever-platform-built-for-assistants_team-up-with-basehq---us-first-ever-platform-built-for-assistants_3393da02505c90c30f246cf025e31661_md5.webp)

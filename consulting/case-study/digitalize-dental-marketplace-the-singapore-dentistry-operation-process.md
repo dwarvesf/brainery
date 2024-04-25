@@ -17,23 +17,23 @@ hide_frontmatter: false
 ![](assets/digitalize-dental-marketplace-the-singapore-dentistry-operation-process_digitalize-dental-marketplace---the-singapore-dentistry-operation-process_750273299ccf35fa1955d76bec350c9e_md5.webp)
 
 ### In brief
-* Founded by Desmond Goh - a Singaporean dental surgeon, **Dental Marketplace** is an online platform for dental professionals to stay active in dentistry and simplify operation process.
-* Web and App development as MVP release for marketing testing and user feedback.
-* We support them with tech solution and market-fit product design. We work according with Desmond to extract business problem and propose suitable solution.
+- Founded by Desmond Goh - a Singaporean dental surgeon, **Dental Marketplace** is an online platform for dental professionals to stay active in dentistry and simplify operation process.
+- Web and App development as MVP release for marketing testing and user feedback.
+- We support them with tech solution and market-fit product design. We work according with Desmond to extract business problem and propose suitable solution.
 
 ### Technical Highlight
-* Product-fit Design: Design Thinking Method & Design UX research for 
-* Golang-backend: Steady and microservices-extendable system
-* Startup-centric: Scalable system & cost-efficient solution
-* Microservice architecture 
-* Agile process and Scrum framework for product iteration
+- Product-fit Design: Design Thinking Method & Design UX research for 
+- Golang-backend: Steady and microservices-extendable system
+- Startup-centric: Scalable system & cost-efficient solution
+- Microservice architecture 
+- Agile process and Scrum framework for product iteration
 
 ### The Context
 Singapore dentists faces bottlenecks to practice dentistry and operates dental clinic with SDC rules licensed regulated by MOH. 
 
-* Dentistry events are hard to followup and register.
-* Job posts and recruitment process are manually operated.
-* Dental supplies are hard to control due to no order tracking and loyalty system. 
+- Dentistry events are hard to followup and register.
+- Job posts and recruitment process are manually operated.
+- Dental supplies are hard to control due to no order tracking and loyalty system. 
 
 ![](assets/digitalize-dental-marketplace-the-singapore-dentistry-operation-process_digitalize-dental-marketplace---the-singapore-dentistry-operation-process_0a64a21eed5328c78fabbc3310ad4dd0_md5.webp)
 
@@ -46,10 +46,10 @@ We started everything from a fresh idea. The process started out as market resea
 
 **Module's strong focus**
 
-* Data-pulling to update CDE events
-* Data process for transaction payment
-* Microservices extendable system
-* Support multiple platforms
+- Data-pulling to update CDE events
+- Data process for transaction payment
+- Microservices extendable system
+- Support multiple platforms
 
 >
 > With Agile practices and Scrum framework to iterate the product release and adapt to changes, we came across as exactly what Desmond is seeking for. 
@@ -58,17 +58,17 @@ We started everything from a fresh idea. The process started out as market resea
 
 **Tech stacks**
 
-* Backend: Golang
-* Frontend: React.js, Vue.js
-* iOS: Swift 
-* Android: Kotlin
+- Backend: Golang
+- Frontend: React.js, Vue.js
+- iOS: Swift 
+- Android: Kotlin
 
 **Collaboration**
 
-* UX/UI research & classification
-* Agile practices
-* Scrum framework
-* Design Thinking Method
+- UX/UI research & classification
+- Agile practices
+- Scrum framework
+- Design Thinking Method
 
 ![](assets/digitalize-dental-marketplace-the-singapore-dentistry-operation-process_digitalize-dental-marketplace---the-singapore-dentistry-operation-process_32cdb72ad303446c1735a18d08137f1b_md5.webp)
 

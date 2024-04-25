@@ -38,9 +38,9 @@ In charge of the backend foundation, we marked a milestone in CIMB's digital tra
 Tech Consulting, Staff Augmentation
 
 ### In brief
-* [CIMB Malaysia](https://www.cimb.com.my/), incorporated in Malaysia in 1974 and headquartered in Kuala Lumpur, encompasses a well-established consumer bank, a premier regional investment bank and an Islamic bank, with about 15,800 employees in Malaysia as at March 2023.
-* Project objectives: objective was to overhaul the digital wealth management experience for CIMB's customers, aligning with the bank's digital transformation goals.
-* Dwarves team of 3 engineers focused solely on backend development. This comprised the construction of a robust API gateway and integration with CIMB's legacy database and APIs.
+- [CIMB Malaysia](https://www.cimb.com.my/), incorporated in Malaysia in 1974 and headquartered in Kuala Lumpur, encompasses a well-established consumer bank, a premier regional investment bank and an Islamic bank, with about 15,800 employees in Malaysia as at March 2023.
+- Project objectives: objective was to overhaul the digital wealth management experience for CIMB's customers, aligning with the bank's digital transformation goals.
+- Dwarves team of 3 engineers focused solely on backend development. This comprised the construction of a robust API gateway and integration with CIMB's legacy database and APIs.
 
 ### The challenge
 CIMB Malaysia faced the challenge of adapting to rapidly changing customer expectations and technological advancements in the banking industry. 
@@ -54,8 +54,8 @@ The process involved conducting workshops, competitor analysis, and customer fee
 
 The project's tech stack included MySQL, JAVA Spring Boot, and Angular, with the Dwarves Foundation team focusing solely on backend development. This comprised the construction of a robust API gateway and integration with CIMB's legacy database and APIs.
 
-* **API Gateway Construction:** The Dwarves team built a dynamic API gateway, enabling seamless and secure communication between different application components and efficient API management.
-* **Legacy Database and API Integration:** The team integrated the newly developed services with CIMB's existing legacy databases and APIs, ensuring uninterrupted operation and data consistency across the platform.
+- **API Gateway Construction:** The Dwarves team built a dynamic API gateway, enabling seamless and secure communication between different application components and efficient API management.
+- **Legacy Database and API Integration:** The team integrated the newly developed services with CIMB's existing legacy databases and APIs, ensuring uninterrupted operation and data consistency across the platform.
 
 ### Communication / Engagement Model
 Navigating a project with multiple stakeholders demands meticulous coordination and transparency. To ensure seamless interaction and productivity throughout the project's duration, we adopted a tailored communication model:
@@ -69,13 +69,14 @@ Navigating a project with multiple stakeholders demands meticulous coordination 
 
 ### Outcome
 The collaboration between CIMB Malaysia, Dwarves Foundation, and Netizen resulted in substantial benefits, reshaping both the customer-facing platform and the internal architecture of CIMB's systems:
-* **Enhanced User Experience:** A more intuitive interface increased user engagement and trust in the platform.
-* **Extended User Reach:** The accessible platform design broadened CIMB's demographic appeal, accommodating both younger and older users.
-* **Setting Market Standards:** CIMB's modernized platform positioned them as trailblazers in the Malaysian banking sector, prompting competitors to reevaluate their digital offerings.
-* **Operational Efficiency:** Backend upgrades reduced manual processes, increased transaction accuracy, and overall improved the bank's operational agility.
-* **Architecture Revamp:** From a technical perspective, the transition to a dynamic API gateway and seamless integration with legacy systems provided a more scalable, robust, and flexible backend. This change not only enhanced performance but also future-proofed CIMB's systems against rapid tech advancements.
+- **Enhanced User Experience:** A more intuitive interface increased user engagement and trust in the platform.
+- **Extended User Reach:** The accessible platform design broadened CIMB's demographic appeal, accommodating both younger and older users.
+- **Setting Market Standards:** CIMB's modernized platform positioned them as trailblazers in the Malaysian banking sector, prompting competitors to reevaluate their digital offerings.
+- **Operational Efficiency:** Backend upgrades reduced manual processes, increased transaction accuracy, and overall improved the bank's operational agility.
+- **Architecture Revamp:** From a technical perspective, the transition to a dynamic API gateway and seamless integration with legacy systems provided a more scalable, robust, and flexible backend. This change not only enhanced performance but also future-proofed CIMB's systems against rapid tech advancements.
 
 ### Conclusion
 
 CIMB's digital transformation, backed by architectural advancements, sets a benchmark for excellence, ensuring enhanced customer satisfaction and operational agility for the bank's future endeavors.
+
 Dwarves Foundation is a team of design and development experts working closely with clients to craft software, build tech teams, and invest in people who create world's next favorite things.

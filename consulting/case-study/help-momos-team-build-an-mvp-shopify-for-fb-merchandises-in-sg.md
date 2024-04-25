@@ -19,17 +19,17 @@ hide_frontmatter: false
 ![](assets/help-momos-team-build-an-mvp-shopify-for-fb-merchandises-in-sg_514bbd80a0d5b2ac3e486b555e76bcac_md5.webp)
 
 ## In brief
-* Momos is a pre-seed startup operating in Singapore, whose founder was an ex-Grab
-* They look to ship the first MVP with a web platform to test the market and onboard promising users.
-* Our team of 3 join them to bring development timeline up to speed as well as improving the core tech foundation to pave the way for a scalable, future-proof system. The collaboration happens remotely since March 2021.
+- Momos is a pre-seed startup operating in Singapore, whose founder was an ex-Grab
+- They look to ship the first MVP with a web platform to test the market and onboard promising users.
+- Our team of 3 join them to bring development timeline up to speed as well as improving the core tech foundation to pave the way for a scalable, future-proof system. The collaboration happens remotely since March 2021.
 
 ## Highlights
 Momos works as the centralized data hub.
-* Core function: Mass integration with third-parties services and data aggregator.
-* Running heavily on AWS infras: EventBridge, CloudWatch.
-* Reputation management system design.
-* Run social ads directly from Momos.
-* Content-based report (GPT-3) generator using lambda and materialized view
+- Core function: Mass integration with third-parties services and data aggregator.
+- Running heavily on AWS infras: EventBridge, CloudWatch.
+- Reputation management system design.
+- Run social ads directly from Momos.
+- Content-based report (GPT-3) generator using lambda and materialized view
 
 ## The Context
 Businesses are shifting their services online. They need different partners to make it happen.
@@ -47,22 +47,20 @@ The founders planned to **expand the integration** when they found us through 
 Working with startups means everything needs to be fast and ready for the client to ship out. We manage to deploy resources with work ownership, who understand the product and are ready to communicate.
 
 ### Tech Stacks
-
-* Backend: Node.js
-* Frontend: React & Next.js
-* Database: PosgreSQL
-* Infras: AWS & Serverless
-* Logging & Monitoring: AWS CloudWatch
-* Cronjob: AWS EventBridge
-* Error catching: Sentry
-* Analytics: Google Studio
+- Backend: Node.js
+- Frontend: React & Next.js
+- Database: PosgreSQL
+- Infras: AWS & Serverless
+- Logging & Monitoring: AWS CloudWatch
+- Cronjob: AWS EventBridge
+- Error catching: Sentry
+- Analytics: Google Studio
 
 That spirit spread in our tech stacks choice.
 We care about user privacy. Auth0 was utilized during the process of syncing the database.
 Built upon OAuth 2.0, Auth0 allows us to protect user data with limited access from third parties.
 
 ### Communication
-
 The team structure consists of engineers in SG, India & Vietnam. We rely on tools to keep remote collaboration happen effectively.
 
 The work sync-up happens through Slack and Google Meets. All tasks are managed in Notion to ensure the progress stays on track.

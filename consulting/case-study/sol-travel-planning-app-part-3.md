@@ -48,14 +48,16 @@ When the user swipes an item, it will slide to the left side of the screen to re
 
 ## Using Protopie in creating a real-life Prototype
 ### Why we choose Protopie
-At first, we were looking for an app that not only supports many interactions but also is able to create useful animations. We came across popular apps as inVision, Framer, and Flinto. Each has their pros and cons. For example, inVision is great for webpage prototype because websites don’t require high-level of gestures as mobile (swipe up and down perhaps), just moving between the screens is enough for you to create a viable prototype of your website. But, when it comes to mobile app prototype, the need for other uses of interactions is inevitable, since smartphone users are getting more familiar to a myriad of gestures. That leads us to discover advance prototyping tools like Framer. It is a powerful tool to create a prototype with no limitation of animations or interactions, though it requires a high learning curve since it involves coding, and it doesn’t support importing from Sketch very well. Whereas Protopie is a similar tool that is code-free and requires a much lower learning curve. One of the things I like most about this tool is its document, it provides sufficient info in my learning process.
+At first, we were looking for an app that not only supports many interactions but also is able to create useful animations. We came across popular apps as inVision, Framer, and Flinto. Each has their pros and cons. For example, inVision is great for webpage prototype because websites don’t require high-level of gestures as mobile (swipe up and down perhaps), just moving between the screens is enough for you to create a viable prototype of your website. 
+
+But, when it comes to mobile app prototype, the need for other uses of interactions is inevitable, since smartphone users are getting more familiar to a myriad of gestures. That leads us to discover advance prototyping tools like Framer. It is a powerful tool to create a prototype with no limitation of animations or interactions, though it requires a high learning curve since it involves coding, and it doesn’t support importing from Sketch very well. Whereas Protopie is a similar tool that is code-free and requires a much lower learning curve. One of the things I like most about this tool is its document, it provides sufficient info in my learning process.
 
 ## Steps to create our motions
 ### Switching between segments
 The idea of this motion is that when the icon area of a segment is tapped, that segment will slide into the screen as respond. Breaking it down, we have the following rules to create:
-* Each icon area has two states, active and disabled, and there is no more than one active icon at a time.
-* Each segment appears according to the state of the icon presented.
-* There are two slide-in styles of a segment: right-to-left when switched from a segment from the left to the right and left-to-right as reversed.
+- Each icon area has two states, active and disabled, and there is no more than one active icon at a time.
+- Each segment appears according to the state of the icon presented.
+- There are two slide-in styles of a segment: right-to-left when switched from a segment from the left to the right and left-to-right as reversed.
 
 For the first rule, we import two images of each icon from Sketch — grey ones for disabled, the other for active.
 
