@@ -3,7 +3,7 @@ tags:
 - updates
 - newsletter
 - career
-title: Engineering organizational structure
+title: Engineering Organizational Structure
 date: 2021-12-01
 description: It's Han and Nikki from Team Dwarves. We're almost at the end of this year. While we know everyone is busy wrapping up 2021, we hope you're taking care of yourself and staying safe.
 authors: 
@@ -21,7 +21,7 @@ Greetings,
 
 It's Han and Nikki from Team Dwarves. We're almost at the end of this year. While we know everyone is busy wrapping up 2021, we hope you're taking care of yourself and staying safe.
 
-Remember last month when we mentioned [refining our engineering ladder](https://log.d.foundation)? Executing this one initiative was our main focus for the whole November. With this new way of looking at growth, we hope to be able to expand the team on top of a scalable foundation. First by:
+Remember last month when we mentioned [refining our engineering ladder](https://memo.d.foundation/handbook/engineering-ladder/)? Executing this one initiative was our main focus for the whole November. With this new way of looking at growth, we hope to be able to expand the team on top of a scalable foundation. First by:
 
  Develop a high-level structure that enables easy scaling of teams or adding new available resources to projects.
 
@@ -54,7 +54,7 @@ FYI, as we want to drive focus on Web 3.0 without confusing people with our othe
 
 **Foster community, help others win, and get cool perks in the process**
 
-- Opening our Discord channel for the public. [**Join in the conversation**](https://discord.gg/dzNBpNTVEZ) if you haven't, there are a lot of useful stuff going around.
+- Opening our Discord channel for the public. [**Join in the conversation**](https://discord.gg/dwarvesv) if you haven't, there are a lot of useful stuff going around.
 - Sponsoring multiple tech events in Vietnam. Vietnam is the starting point, we're excited to connect with tech talents anywhere, not just Vietnam.
 - Public weekly training and knowledge sharing (on Discord too).
 - Coming soon: engage to earn for Dwarves network.

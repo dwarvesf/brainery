@@ -62,9 +62,9 @@ We got a chance to sit down with **[Ngoc Thanh](https://www.linkedin.com/in/pham
 
 He stated once people place reliance on blockchain technology and its ability, it grows as a burgeoning software foundation. From what he concepts, blockchain opens other career paths alongside frontend or backend engineering. It's an alternative to exploring and surpassing one's seniority.
 
-Check out the full read [here](https://www.notion.so/DF-Apprenticeship-2022-Meet-The-Mentors-Ngoc-Thanh-Pham-a6f8c3c7d4a14bd5be55d6465b9f330b?pvs=21).
+Check out the full read [here](https://memo.d.foundation/careers/apprentice/df-apprenticeship-2022-meet-the-mentors-ngoc-thanh-pham/).
 
-Thanh, along with other team leads and senior engineers at Dwarves are looking for talented people to join their squads. Email us at [spawn@dwarvesv.com](mailto:spawn@dwarvesv.com) if you’re interested in joining them.
+Thanh, along with other team leads and senior engineers at Dwarves are looking for talented people to join their squads. Email us at [spawn@d.foundation](mailto:spawn@d.foundation) if you’re interested in joining them.
 
 ### Learning as the north-star metric
 Dwarves equal constant learning and sharing. Last month, our theme was Blockchain Concepts and Frontend Guidance.
@@ -111,7 +111,7 @@ If you’re tired of being confined within your home office, here’s the good n
 
 As Dwarves work from anywhere, these little hubs we build across the country serve the only purpose of offering our team a comfy remote experience when they need it.
 
-If you work remotely and need a change in the working environment, come spend some time with Dwarves. If you still have to come to the office every day, our company is fully remote and [**we’re always hiring**](https://careers.d.foundation/e55e8831f99f424d899b76c2a82fd21b).
+If you work remotely and need a change in the working environment, come spend some time with Dwarves. If you still have to come to the office every day, our company is fully remote and [**we’re always hiring**](https://memo.d.foundation/careers/hiring/).
 
 That's all for now. Until next time,
 

@@ -68,7 +68,7 @@ As a profitable and fast-moving company, the possibilities ahead of us are limit
 - **Doubling down on blockchain & web3**. We are never to stay behind when it comes to tech.
 - **Partnering with even more fantastic teams** and ship more top-notch products. We want to help more and more businesses to be able to leverage technology.
 - **Leveling up**. We are going to be a team that knows how to build software right, and is able to teach others on that.
-- **Scaling up**. We are expanding the team and hope to reach those with the same DNAs. If you know someone who might be interested, send them to **[Dwarves Careers](notion://www.notion.so/e55e8831f99f424d899b76c2a82fd21b).**
+- **Scaling up**. We are expanding the team and hope to reach those with the same DNAs. If you know someone who might be interested, send them to **[Dwarves Careers](https://memo.d.foundation/careers/hiring/).**
 
 That's just a small part in our backlog, we are going to try our hands at many different things.
 

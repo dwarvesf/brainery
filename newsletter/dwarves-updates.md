@@ -42,7 +42,7 @@ We promise the same or even better paycheck for candidates and offer them the mo
 
 The first launch was hit with fewer applications compared to the Internship one, but we can meet different people with a higher stage of mind and more straightforward goals for their career path. We are trialing simultaneously, so I will let you know if there's anything fun.
 
-For the detail of the Apprenticeship Program, check out [here](https://github.com/dwarvesf/WeAreHiring/blob/master/open-positions/Apprentice.md).
+For the detail of the Apprenticeship Program, check out [here](https://memo.d.foundation/careers/apprentice/dwarves-foundation-apprenticeship-batch-of-2022/).
 
 That's it for the first release. See you next time.
 

@@ -4,7 +4,7 @@ tags:
   - updates
   - performance
   - forward-engineering
-title: Forward Engineering Year 2022
+title: Forward Engineering 2022
 date: 2023-01-11
 description: We want to demonstrate and encourage individual and organizational learning, where both gaining and sharing knowledge is prioritized, valued, and rewarded. Learning is an ongoing process that never ends in our fast-moving industry. 
 authors: 
@@ -12,7 +12,7 @@ authors:
 - monotykamary
 - innno_
 menu: labs
-type: updates
+type: forward-engineering
 hide_frontmatter: false
 author: Tom X Nguyen
 ---

@@ -3,14 +3,14 @@ tags:
   - radar
   - forward-engineering
   - technology
-title: Dwarves Tech Radar The Introduction
+title: "Dwarves Tech Radar: The Introduction"
 date: 2020-08-25
 description: We launch The Dwarves Tech Radar as a living asset to evaluate the adoption decision and keep the technology direction stays on track. Tech Radar is how we do R&D, how we work on self-growth and motivate continuous curiosity.
 authors: 
 - han
 - duy
 menu: labs
-type: updates
+type: tech-radar
 hide_frontmatter: false
 ---
 

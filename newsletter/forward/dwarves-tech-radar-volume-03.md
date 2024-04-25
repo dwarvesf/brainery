@@ -9,7 +9,7 @@ description: "In short, this 3rd volume is all about one thing: Trial"
 authors:
 - duy
 menu: labs
-type: updates
+type: tech-radar
 hide_frontmatter: false
 ---
 

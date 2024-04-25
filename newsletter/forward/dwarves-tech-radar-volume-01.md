@@ -9,7 +9,7 @@ description: For this edition, the theme is to get the whole team used to the co
 authors: 
 - duy
 menu: labs
-type: updates
+type: tech-radar
 hide_frontmatter: false
 ---
 

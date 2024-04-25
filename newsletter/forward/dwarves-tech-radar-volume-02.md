@@ -9,7 +9,7 @@ description: Dwarves Tech Radar v2 contains the practices to simplify the workfl
 authors: 
 - duy
 menu: labs
-type: updates
+type: tech-radar
 hide_frontmatter: false
 ---
 

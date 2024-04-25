@@ -34,7 +34,7 @@ In today’s edition:
 - Other talking points
 
 ### Job interviews need a makeover
-A few weeks back when preparing for [Dwarves Foundation Apprenticeship 2022](https://careers.d.foundation/apprenticeship-2022), we got to rethink the typical interview process in the tech industry. We came across a [Reddit post](https://www.reddit.com/r/WorkReform/comments/th5eou/this_was_the_first_step_in_the_interview_process/) which almost knocked the wind out of us.
+A few weeks back when preparing for [Dwarves Foundation Apprenticeship 2022](https://memo.d.foundation/careers/apprentice/dwarves-foundation-apprenticeship-batch-of-2022/), we got to rethink the typical interview process in the tech industry. We came across a [Reddit post](https://www.reddit.com/r/WorkReform/comments/th5eou/this_was_the_first_step_in_the_interview_process/) which almost knocked the wind out of us.
 
 ![](assets/hiring-stages-20240312110733564.webp)
 
@@ -91,7 +91,7 @@ We are only open for **20** positions to ensure the program's quality. The proce
 
 If you seek to take a turn in software with a dynamic workplace, to work alongside young teammates of humble spirit and the will to make impactful things happen, we’re open for application **until April 25**.
 
-- [Program Details](https://careers.d.foundation/apprenticeship-2022)
+- [Program Details](https://memo.d.foundation/careers/apprentice/dwarves-foundation-apprenticeship-batch-of-2022/)
 - [Application Form](https://form.typeform.com/to/LfCWfoml)
 
 ### Other talking points
@@ -103,7 +103,7 @@ If you seek to take a turn in software with a dynamic workplace, to work alongsi
 **Dwarves’ Brainery and Engage & Earn are in full effect**
 
 - [Brainery](https://brain.d.foundation) is our knowledge hub, where we what we learn with the world.
-- [Engage & Earn](https://discord.com/channels/462663954813157376/915941020968046612/948468732731199538) is our system of recognizing people who put in the effort to share knowledge.
+- [Engage & Earn](http://discord.gg/dwarvesv) is our system of recognizing people who put in the effort to share knowledge.
 - Both Brainery and Engage & Earn are open for everyone to join.
 
 **Dalat Chalet is coming very soon**

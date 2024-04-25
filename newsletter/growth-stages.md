@@ -1,13 +1,13 @@
 ---
 tags: 
-title: The stage of Growth at Dwarves
+title: The Stage of Growth at Dwarves
 date: 2023-09-12
 description: In this update, we are excited to share the real journey of growth and transformation that our team has embarked upon, as we continue to strive to become a more skilled and knowledgable software team.
 authors: 
 - han
 - nikki
 - duy
-menu: memo
+menu: newsletter
 type: newsletter
 hide_frontmatter: true
 pinned: 
@@ -49,7 +49,7 @@ With more members actively participating and more community members to join hand
 ### Building stronger bonds through collaboration
 It wasn’t our intention at first, but pushing toward a 50% company - 50% community model definitely brought the team closer than ever. In a remote working setup like our team, the lack of physical activities make it hard for team bonding.
 
-With our [**Community Earn model**](http://earn.d.foundation), [**collaborative R&D**](https://brain.d.foundation/README), and Community Engagement activities in place, we gained back the sense of unity we partly lost due to remote working. Our internal channels on Discord are brewing again, team members feel connected. Especially, we are also seeming clear improvements when our engineers communicate with the clients and their team.
+With our [**Community Earn model**](https://memo.d.foundation/), [**collaborative R&D**](https://brain.d.foundation/README), and Community Engagement activities in place, we gained back the sense of unity we partly lost due to remote working. Our internal channels on Discord are brewing again, team members feel connected. Especially, we are also seeming clear improvements when our engineers communicate with the clients and their team.
 
 ![](assets/growth-stages-20240312111524954.webp)
 
