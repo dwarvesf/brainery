@@ -5,7 +5,7 @@ tags:
   - discord
 title: "#3 OGIF Office Hours"
 date: 2024-04-25
-description: Our Discord crew is buzzing with energy after our last Friday community call, with folks sharing snapshots of their workspaces, Anna shared the movie quote and catch-up with peeps at lobby, random channels.
+description: Our third office hours community discussion, where we'll cover diverse topics ranging from the current state of the dwarf community and their experiences with devbox, insights on and continuation of liquidity markets, advancements in generative AI technology, to fun events like a lucky draw for icy. The goal is to foster learning by sharing weekly topics suggested through tags, encouraging collaborative growth among our members.
 authors:
   - monotykamary
 menu: changelog
@@ -23,13 +23,13 @@ Recorded Apr 19, 2024
 
 1. **Generative AI Discussion**: There is a significant focus on Generative AI, its applications, and its implications for the team's projects. The discussion includes technical aspects of AI and machine learning, including deep learning and neural networks.
 
-2. **Community and Learning**: The speaker discusses community involvement and learning initiatives, possibly within a corporate or organizational context. This includes mentions of learning about finance and technology trends.
+2. **Community and Learning**: Han discusses community involvement and learning initiatives, for a corporate or organizational context. This includes mentions of learning about finance and technology trends.
 
 3. **Project Development and Collaboration**: Various projects and collaborations are mentioned, including work with external parties like Discord and a focus on community and top-level discussions about recent work and updates.
 
 4. **Future Plans and Strategies**: There is talk about future strategies and plans, including tokenomics, the use of NFTs (Non-Fungible Tokens), and building a supportive community through innovative means like blockchain technology.
 
-5. **Interactive Components**: The transcript indicates interactive elements, possibly in a live discussion format, where participants are engaged in real-time, discussing topics like liquidity, market dynamics, and specific case studies related to technological applications in finance.
+5. **Interactive Components**: A live discussion on topics like liquidity, market dynamics, and specific case studies related to technological applications in finance.
 
 6. **Technical Deep Dives**: Detailed explanations are provided on topics like liquidity in markets, the role of different market players, and the use of technology to enhance market operations.
 
