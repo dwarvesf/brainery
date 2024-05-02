@@ -3,7 +3,7 @@ tags:
   - office-hours
   - ogif
   - discord
-title: "#3 OGIF Office Hours"
+title: "OGIF Office Hours #3 - Generative AI, Tokenomics, and Finance Talks"
 date: 2024-04-25
 description: Our third office hours community discussion, where we'll cover diverse topics ranging from the current state of the dwarf community and their experiences with devbox, insights on and continuation of liquidity markets, advancements in generative AI technology, to fun events like a lucky draw for icy. The goal is to foster learning by sharing weekly topics suggested through tags, encouraging collaborative growth among our members.
 authors:

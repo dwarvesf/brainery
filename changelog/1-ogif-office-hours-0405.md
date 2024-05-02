@@ -3,7 +3,7 @@ tags:
   - office-hours
   - ogif
   - discord
-title: "#1 OGIF Office Hours"
+title: "Office Hours #1: Markdown Presentations, Research Content Pipeline, and Professional Screenshots - Session"
 date: 2024-04-26
 description: Our first ever Office Hours in our series of OGIFs. Our first day to exchange knowledge and insights on topics and projects we're working on and tools we're using for our internal work and clients.
 authors:
