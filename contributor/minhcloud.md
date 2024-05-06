@@ -21,6 +21,7 @@ aliases:
 ## Contributed Notes
 
 - [[playground/_memo/how-to-set-up-environment-for-editing-memo.md|How to set up environment to edit memo]]
-- [[playground/_memo/how-to-push-content-on-note-d.md|How to push content on note.d.foundation]]
-- [[playbook/community/How to withdraw ICY.md|How to withdraw ICY]]
+- [[playground/_memo/how-to-push-content-on-note-d.md|How to push content on memo.d.foundation]]
+- [[playbook/community/how-to-withdraw-icy.md|How to withdraw ICY]]
+- [[playbook/community/how-to-setup-crypto-wallet-to-withdraw-icy.md|How to set up cryto wallet to withdraw ICY]]
 - [[_index.md|Home]]

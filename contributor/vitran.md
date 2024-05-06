@@ -21,6 +21,6 @@ aliases:
 
 ## Contributed Notes
 
-- [[careers/open-positions/technical-recruiter.md|Technical Recruiter]]
-- [[careers/open-positions/executive-assistant.md|Executive Assistant]]
-- [[careers/open-positions/business-development.md|Business Development]]
+- [[careers/archived/technical-recruiter.md|Technical Recruiter]]
+- [[careers/archived/executive-assistant.md|Executive Assistant]]
+- [[careers/archived/business-development.md|Business Development]]
