@@ -1,15 +1,30 @@
 ---
 tags: 
-  - community
+  - web3
+  - labs
   - bounty
 title: Ascend Bounty
-date: 2023-05-20
+product: null
+date: 2024-05-20
 description: A new bounty to buid application for encouraging group participation and goal achievement. 
-authors: 
-  - tieubao
-menu: memo
+authors: null
+menu: null
+due_date: null
+status: Open
+PICs: null
+completion_date: null
+bounty: 
+hide_frontmatter: null
 type: null
-hide_frontmatter: false
+function: null
+🔺_priority: null
+reward_🧊: 
+remark: null
+requester: null
+ranking: null
+pi_cs: null
+start_date: null
+progress: null
 ---
 
 **Possible app name**
