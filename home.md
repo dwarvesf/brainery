@@ -16,37 +16,36 @@ hide_frontmatter: true
 hide_title: true
 ---
 
-Welcome to Dwarves Notes, a collection of notes for everything we do and operate at Dwarves. Dwarves are a group of technology innovation advocates. This project is a part of our information engine, where we consolidate know-how and expertise from and for our team as part of our MMA system: **Mastery**, **Meaning**, and **Autonomy**.
+![](assets/home_cover.webp)
 
-We believe that behind every success comes great preparation, accumulation and compound every single day. This note repo contains our notes and studies for any upcoming challenges, new tech, hiring, bounty, etc.
+Welcome to the Dwarves Memo.
 
-![[information_flow.webp]]
+This site is a part of our continuous learning engine, where we want to build up the 1% improvement habit, learning in public.
 
-View our list of amazing people who have contributed to our notes: [[contributor/_index|Contributors]]
+Written by Dwarves for product craftsmen.
 
-## Radar Index
-- [[zustand|Zustand]]
-- [[zod|Zod]]
-- [[yup|Yup]]
-- [[webflow|Webflow]]
-- [[webdriverio|Webdriverio]]
+Learned by engineers. Experimented by engineers.
+
+## Latest Memo
+- [[playground/_memo/c4-modelling\|Breaking Down Complexity: The Role of Abstractions and UML in C4 Modelling]]
+- [[playground/_memo/writing-content-for-multimedia-guidelines\|Writing Content for Multimedia Guidelines]]
+- [[playground/_memo/understanding-saving-investing-and-speculating-key-differences-and-strategies\|Understanding Saving, Investing, and Speculating: Key Differences and Strategies]]
+- [[playground/_memo/dollar-cost-averaging\|Dollar Cost Averaging (DCA)]]
 
 ## Upcoming Events
-- [[Labs Weekly Catchup 5|Labs Weekly Catchup #5]] - December 13, 2023
-- [[Labs Weekly Catchup 4|Labs Weekly Catchup #4]] - December 13, 2023
-- [[Labs Weekly Catchup 3|Labs Weekly Catchup #3]] - December 13, 2023
+- [[changelog/3-ogif-office-hours-0419\|Ogif #3]] - April 19, 2024
+- [[changelog/2-ogif-office-hours-0412\|Ogif #2]] - April 12, 2024
+- [[changelog/1-ogif-office-hours-0405\|Ogif #1]] - April 05, 2024
 
 ## Open Bounty
-| Title                                                        | 💰 Bounty | Status | PIC                             | Function   |
-| ------------------------------------------------------------ | --------- | ------ | ------------------------------- | ---------- |
-| [[earn/rework-fortress-command.md\|Rework Fortress Command]] | 🧊 100    | Open   | \-                              | 🛠️ Tooling |
-| [[earn/icy-store.md\|$icy store]]                            | 🧊 100    | Open   | @minhlq                         | 🛠️ Tooling |
-| [[earn/icy-staking.md\|$icy staking]]                        | 🧊 350    | Open   | @phucld, @minhlq, @nam, @bienvh | 🛠️ Tooling |
-| [[earn/fortress-shanky-data.md\|Fortress Shanky Data]]       | 🧊 120    | Open   | @nam                            | 🛠️ Tooling |
+| Title                                    | 💰 Bounty | Status | PIC | Function  |
+| ---------------------------------------- | -------- | ------ | --- | --------- |
+| [[earn/ascend-bounty.md\|Ascend Bounty]] | 🧊 100    | Open   | \-  | 🛠️ Tooling |
 
-## Memos
+## Team Digest
 
-{{% featured-posts %}}
+- [[playground/digest/6-come-for-the-conversion-stay-for-the-culture\|#6 Come for the conversation, stay for the culture]] - May 20, 2024
+- [[playground/digest/5-endure-the-hardship-delay-the-gratification\|#5 Endure the hardship, delay the gratification]] - May 14, 2024
 
 ## Open positions
 - [[careers/open-positions/marketing-and-communications-specialist.md|Marketing and Communications Specialist]]
