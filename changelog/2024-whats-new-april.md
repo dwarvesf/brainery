@@ -4,7 +4,7 @@ tags:
   - meetups
   - tech-report
   - community
-title: What's New in Arpil 2024
+title: What's New in April 2024
 date: 2024-05-23
 description: In this April, we're focused on memo upgrading, reward system, OGIF, internal tooling, community meetup and market report. 
 authors:
@@ -16,11 +16,11 @@ pinned: true
 hide_title: false
 ---
 
-- **Reporting tech signals:** major updates in Meta's Llama 3, the growth of RAG systems, the move to edge computing, and the influence of Bun 1.1 in JavaScript.
-- **memo.d.foundation:** improve experience with new sidebar, pinned notes, and reading mode.
-- **The new features in Tonobot and Fortress are** top contributor reading lists, real-time memo post updates, and weekly reporting on Dwarves Network.
-- **Upgrading learning reward system:** monthly pool up to 700 ICY, aligned with our research-focused orientation.
-- **Dwarves office hour:** weekly sharing so everyone can learn something within 10 minutes.
+- [**Reporting tech signals:**](#reporting-tech-signals---ai-edge-computing-and-ui-innovations-driving-change) major updates in Meta's Llama 3, the growth of RAG systems, the move to edge computing, and the influence of Bun 1.1 in JavaScript.
+- [**memo.d.foundation:**](#upgrading-the-new-sidebar-and-reading-mode-on-memodfoundation) improve experience with new sidebar, pinned notes, and reading mode.
+- [**The new features in Tonobot and Fortress are**](#new-features-in-tonobot-and-fortress-our-internally-automated-bots) top contributor reading lists, real-time memo post updates, and weekly reporting on Dwarves Network.
+- [**Upgrading learning reward system:**](#monthly-reward-system-for-learning-contribution) monthly pool up to 700 ICY, aligned with our research-focused orientation.
+- [**Dwarves office hour:**](#the-traditional-dwarves-office-hour-happens-every-friday-afternoon) weekly sharing so everyone can learn something within 10 minutes.
 
 ![](assets/2024-whats-new-april_2024-whats-new-in-april-highlight.webp)
 
