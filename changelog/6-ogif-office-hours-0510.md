@@ -18,7 +18,7 @@ draft: false
 ---
 
 147 minutes
-Recorded May 17, 2024
+Recorded May 10, 2024
 
 ### Summary
 Transcript for [Office Hours - Looking at the Factory pattern, Erlang state machines, and the Trading Process](https://www.youtube.com/watch?v=9RBYMYIxmXk) 
