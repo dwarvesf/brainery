@@ -7,7 +7,6 @@ title: Ascend Bounty
 product: null
 date: 2024-05-20
 description: A new bounty to buid application for encouraging group participation and goal achievement. 
-authors: null
 due_date: null
 status: Open
 PICs: null

@@ -20,5 +20,5 @@ aliases:
 
 ## Contributed Notes
 
-- [[playground/Engineering/Google Dataproc.md|Google Dataproc]]
-- [[playground/Engineering/Google Data Fusion.md|Google Data Fusion]]
+- [[playground/01_literature/Engineering/Google Dataproc|Google Dataproc]]
+- [[playground/01_literature/Engineering/Google Data Fusion|Google Data Fusion]]

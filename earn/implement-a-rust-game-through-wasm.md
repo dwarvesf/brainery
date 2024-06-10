@@ -8,7 +8,6 @@ title: Implement a rust game through WASM
 product: null
 date: 2023-11-27
 description: Develop a game using Rust that runs in the browser through WASM
-authors: null
 due_date: null
 status: Done
 PICs: null

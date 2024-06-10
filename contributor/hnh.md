@@ -20,10 +20,10 @@ aliases:
 
 ## Contributed Notes
 
-- [[playground/_memo/salary-advance.md|$icy Salary Advance]]
-- [[playground/_memo/devbox-a-world-before-docker.md|Devbox #1: The world before Docker]]
-- [[playground/_memo/devbox-nix-and-our-devbox-adoption.md|Devbox #3: The overview into Nix & how we use Devbox @ Dwarves]]
-- [[playground/_memo/devbox-docker-adoption-and-challenges.md|Devbox #2: Our Docker adoption and its challenges]]
+- [[salary-advance|$icy Salary Advance]]
+- [[devbox-a-world-before-docker|Devbox #1: The world before Docker]]
+- [[devbox-nix-and-our-devbox-adoption|Devbox #3: The overview into Nix & how we use Devbox @ Dwarves]]
+- [[devbox-docker-adoption-and-challenges|Devbox #2: Our Docker adoption and its challenges]]
 - [[playbook/operations/template/welcome-to-dwarves-update.md|Email Template: Welcome to Dwarves Updates]]
 - [[playbook/operations/template/welcome-onboard.md|Email Template: Welcome Onboard]]
 - [[playbook/operations/template/thank-you-letter.md|Email Template: Thank you letter]]

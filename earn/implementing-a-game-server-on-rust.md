@@ -9,7 +9,6 @@ title: Implementing a game server on Rust
 product: null
 date: 2023-11-27
 description: Develop a robust and efficient game server using Rust.
-authors: null
 due_date: null
 status: Done
 PICs: null

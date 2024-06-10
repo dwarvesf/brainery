@@ -22,7 +22,7 @@ We believe that behind every success comes great preparation, accumulation and c
 View our list of amazing people who have contributed to our notes: [[contributor/_index|Contributors]]
 
 ## Upcoming Events
-- [[playground/_labs/events/Labs Weekly Catchup 1.md|Labs Weekly Catchup #1]] - December 06, 2023
+- [[Labs Weekly Catchup 1|Labs Weekly Catchup #1]] - December 06, 2023
 
 
 ## Open Bounty
