@@ -10,11 +10,6 @@ date: 2023-12-22
 description: While there is no fixed path in the consulting field, we do have a structured growth guidance for career development, skill enhancement, and professional advancement.
 authors:
   - nikki
-menu: consulting
-type: consulting
-hide_frontmatter: false
-pinned:
-hide_title: false
 ---
 
 While there is no fixed path in the consulting field, we do have a structured growth guidance for career development, skill enhancement, and professional advancement.

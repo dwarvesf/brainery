@@ -10,9 +10,6 @@ description: "AirWatt's vision is to help businesses track electric usage status
 authors: 
 - han
 - duy
-menu: consulting
-type: case-study
-hide_frontmatter: false
 ---
 
 ![](assets/building-airwatt-apply-aiml-for-iot-solutions-to-optimize-electricity-usage_building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_b1d2f4d32b1a3a8f8085bf8a5aebe92f_md5.webp)

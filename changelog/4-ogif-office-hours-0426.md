@@ -8,12 +8,6 @@ date: 2024-06-06
 description: Our fourth office hours community discussion, from DCA to Devbox topic. The goal is to foster learning by sharing weekly topics suggested through tags, encouraging collaborative growth among our members.
 authors:
   - innno_
-menu: changelog
-type: ogif
-hide_frontmatter: false
-pinned: true
-hide_title: false
-draft: false
 ---
 
 86 minutes

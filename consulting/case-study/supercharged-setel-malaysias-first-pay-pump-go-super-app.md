@@ -10,9 +10,6 @@ authors:
 - han
 - nikki
 - duy
-menu: consulting
-type: case-study
-hide_frontmatter: false
 ---
 ![](assets/supercharged-setel-malaysias-first-pay-pump-go-super-app_85caa8bdd0121608f33b230e54fe563d_md5.webp)
 

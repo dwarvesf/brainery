@@ -8,9 +8,6 @@ date: 2023-09-14
 description: By October 2020, the company had integrated Keg Services into its framework, enhancing its cutting-edge, tech-based keg solutions with stellar service and deep industry expertise. Konvoy caters to the unique needs of breweries by offering both short-term rentals and long-term leasing options.
 authors: 
 - huytieu
-menu: consulting
-type: case-study
-hide_frontmatter: false
 ---
 **Industry:**\
 Logistics, Supply Chain Management

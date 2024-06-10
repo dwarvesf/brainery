@@ -10,11 +10,7 @@ authors:
 - han
 - duy
 - nikki
-menu: newsletter
-type: newsletter
 hide_frontmatter: true
-pinned: 
-hide_title: false
 ---
 
 Greetings,

@@ -10,9 +10,6 @@ description: Attrace is a Netherland decentralized affiliate marketing network t
 authors: 
 - nikki
 - duy
-menu: consulting
-type: case-study
-hide_frontmatter: false
 ---
 
 ## In brief

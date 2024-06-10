@@ -8,11 +8,6 @@ date: 2023-12-21
 description: Dwarves Consulting is team of individuals who possess a combination of technical expertise, problem-solving skills, and strong communication abilities.
 authors:
   - nikki
-menu: consulting
-type: consulting
-hide_frontmatter: false
-pinned:
-hide_title: false
 ---
 
 ## Who we are

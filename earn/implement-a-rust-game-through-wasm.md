@@ -9,14 +9,12 @@ product: null
 date: 2023-11-27
 description: Develop a game using Rust that runs in the browser through WASM
 authors: null
-menu: null
 due_date: null
 status: Done
 PICs: null
 completion_date: null
 bounty: 150
 hide_frontmatter: null
-type: null
 function: null
 🔺_priority: null
 reward_🧊: 150

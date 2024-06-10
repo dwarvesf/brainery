@@ -5,15 +5,9 @@ tags:
   - discord
 title: "OGIF Office Hours #5 - Singapore market report, C4 modelling, How we created Memo's nested sidebar"
 date: 2024-06-07
-description: "Our fifth office hours community discussion covers the Singapore market report, C4 modeling, and how we created Memo's nested sidebar. We aim to promote learning and growth within our community by sharing weekly topics, selected through tags, and encouraging collaboration among members."
+description: Our fifth office hours community discussion covers the Singapore market report, C4 modeling, and how we created Memo's nested sidebar. We aim to promote learning and growth within our community by sharing weekly topics, selected through tags, and encouraging collaboration among members.
 authors:
   - innno_
-menu: changelog
-type: ogif
-hide_frontmatter: false
-pinned: true
-hide_title: false
-draft: false
 ---
 
 80 minutes

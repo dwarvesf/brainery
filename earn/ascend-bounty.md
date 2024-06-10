@@ -8,14 +8,12 @@ product: null
 date: 2024-05-20
 description: A new bounty to buid application for encouraging group participation and goal achievement. 
 authors: null
-menu: null
 due_date: null
 status: Open
 PICs: null
 completion_date: null
 bounty: 
 hide_frontmatter: null
-type: null
 function: null
 🔺_priority: null
 reward_🧊: 

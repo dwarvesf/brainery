@@ -8,12 +8,6 @@ date: 2024-04-26
 description: Our first ever Office Hours in our series of OGIFs. Our first day to exchange knowledge and insights on topics and projects we're working on and tools we're using for our internal work and clients.
 authors:
   - monotykamary
-menu: changelog
-type: ogif
-hide_frontmatter: false
-pinned: true
-hide_title: false
-draft: false
 ---
 
 74 minutes

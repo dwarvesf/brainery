@@ -7,9 +7,6 @@ title: Sol Travel Planning App Part 3
 date: 2018-10-09
 description: Today we shall continue our series of designing “Sol-Travel Planning” app. As we mentioned our process on UX research and UI design in the last two articles, Sol’s target users are the young so keeping the app fun with interaction is a must.
 authors: null
-menu: consulting
-type: case-study
-hide_frontmatter: false
 ---
 
 ## Introduction

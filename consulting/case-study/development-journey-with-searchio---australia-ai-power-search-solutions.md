@@ -10,9 +10,6 @@ description: The Dwarves partnered with Search.io to help with their Console das
 authors: 
 - duy
 - nikki
-menu: consulting
-type: case-study
-hide_frontmatter: false
 ---
 
 ### In brief

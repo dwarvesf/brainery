@@ -17,11 +17,6 @@ description: Partnering with Dwarves is not just a collaboration, it’s a strat
 authors:
   - nikki
   - han
-menu: consulting
-type:
-hide_frontmatter: false
-pinned: false
-hide_title: false
 ---
 
 We seek for Partners, individuals and companies likewise, to develop a co-creation system driven by mutual purposes and interests.

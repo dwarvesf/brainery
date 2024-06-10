@@ -11,9 +11,6 @@ authors:
 - thanh
 - monotykamary
 - innno_
-menu: labs
-type: forward-engineering
-hide_frontmatter: false
 author: Thanh Pham, Tom X Nguyen
 ---
 

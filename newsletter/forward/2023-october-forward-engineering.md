@@ -10,9 +10,6 @@ description: "As we step into the exciting opportunities of October, we are at a
 authors:
   - monotykamary
   - thanh
-menu: labs
-type: forward-engineering
-hide_frontmatter: false
 featured: true
 ---
 

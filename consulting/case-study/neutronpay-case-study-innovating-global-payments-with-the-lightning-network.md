@@ -8,9 +8,6 @@ date: 2023-12-19
 description: Neutronpay, a startup funded by Silicon Valley venture capitalists, offers Lightning Network Infrastructure to businesses aiming to launch lightning products. This includes remittances, payments, spending, payouts, and banking capabilities...
 authors: 
 - hieuvu
-menu: consulting
-type: case-study
-hide_frontmatter: false
 ---
 **Industry:**\
 Fintech / Blockchain / Lightning Network / Mobile payment 

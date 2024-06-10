@@ -10,9 +10,6 @@ description: "Our adventure until now has been incredibly thrilling, with a stro
 authors:
   - thanh
   - monotykamary
-menu: labs
-type: forward-engineering
-hide_frontmatter: false
 author: Thanh Pham, Tom X Nguyen
 ---
 

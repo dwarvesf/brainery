@@ -5,11 +5,7 @@ description: Here is our home of contributors that helped out with writing field
 authors: 
   - monotykamary
 tags: null
-menu: null
 hide_frontmatter: true
-hide_title: false
-pinned: false
-type: null
 ---
 <div class="profile"/>
 

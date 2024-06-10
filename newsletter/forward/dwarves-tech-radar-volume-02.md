@@ -8,9 +8,6 @@ date: 2021-01-14
 description: Dwarves Tech Radar v2 contains the practices to simplify the workflow, new techniques/ approach methods to upgrade our current standards and expand the domain knowledge.
 authors: 
 - duy
-menu: labs
-type: tech-radar
-hide_frontmatter: false
 ---
 
 Once every month, we gather for Radar update to round up the cool techs and assess if we should adopt that to the team. Road to a wider and more diversified rings, Dwarves Tech Radar v2 contains the practices to **simplify the workflow**, new techniques/ approach methods to **upgrade our current standards** and **expand the domain knowledge.** 

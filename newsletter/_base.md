@@ -5,8 +5,4 @@ description:
 authors: 
 tags: []
 hide_frontmatter: true
-pinned: 
-hide_title: false
-menu: 
-type: 
 ---

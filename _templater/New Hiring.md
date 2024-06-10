@@ -5,8 +5,5 @@ description:
 authors: 
 tags:
   - hiring
-menu: 
-hide_frontmatter: false
 hiring: false
-type: 
 ---

@@ -10,10 +10,6 @@ description: We have focused on revamping how we learn, familiarize, and work wi
 authors:
   - thanh
   - monotykamary
-menu: labs
-type: forward-engineering
-hide_frontmatter: false
-pinned: true
 featured: true
 ---
 

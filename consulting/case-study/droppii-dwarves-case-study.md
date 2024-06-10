@@ -9,11 +9,6 @@ description: Droppii, in collaboration with Dwarves Foundation, revamps its e-co
 authors:
   - huytq
   - han
-menu: consulting
-type: case-study
-hide_frontmatter: false
-pinned: 
-hide_title: false
 ---
 
 **Industry**\

@@ -8,9 +8,6 @@ date: 2021-04-29
 description: "In short, this 3rd volume is all about one thing: Trial"
 authors:
 - duy
-menu: labs
-type: tech-radar
-hide_frontmatter: false
 ---
 
 We started [the 1st volume](https://github.com/dwarvesf/radar/tree/master/vol-01) a year ago, mostly about assessing all the tech indexes we have adopted for 5 years. Then we moved to [the 2nd volume](https://github.com/dwarvesf/radar/tree/master/vol-02), where we figured ways to simplify the workflow and complete our project toolkit.

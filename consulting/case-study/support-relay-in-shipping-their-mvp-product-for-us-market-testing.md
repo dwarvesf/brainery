@@ -8,9 +8,6 @@ date: 2021-04-29
 description: Relay is an extension tool that decreases micromanagement by automating workflows.Relay's first engagement with Dwarves aims to ship their MVP to market as quick as possible for early user acquisition. We dive in with 2 quickly adapt engineers. We keep a stable pace of feature shipment and adjust along with the requirements.
 authors: 
 - duy
-menu: consulting
-type: case-study
-hide_frontmatter: false
 ---
 
 ![](assets/support-relay-in-shipping-their-mvp-product-for-us-market-testing_7ba0ab212be0b82800b89bcd86505dba_md5.webp)

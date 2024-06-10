@@ -9,9 +9,6 @@ date: 2023-12-06
 description: Each month, we release a recap noting all the significant changes in our company and our team. November is our month for meetups and outstanding craftsmanship.
 authors:
   - nikki
-menu: changelog
-type: newsletter
-hide_frontmatter: false
 ---
 
 Last November, we kicked off the Labs team, introduced Salary Advance for the Dwarves, upgraded note.d.foundation, supported Golang meetup, and demonstrated craftsmanship through various case studies and demos.

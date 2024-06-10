@@ -9,14 +9,12 @@ product:
 date: 2023-11-27
 description: Implement biometric authentication for web applications via external devices.
 authors: 
-menu: 
 due_date: 
 status: Done
 PICs: 
 completion_date: 
 bounty: 150
 hide_frontmatter: 
-type: 
 function: 
 🔺_priority: 
 reward_🧊: 100

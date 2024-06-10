@@ -7,9 +7,6 @@ title: "Succeed Naru - A Browser Focus Web Extension For Us Market"
 date: 2021-04-18
 description: null
 authors: null
-menu: memo
-type: case-study
-hide_frontmatter: false
 ---
 
 ![](assets/succeed-naru-a-browser-focus-web-extension-for-us-market_succeed-naru---a-browser-focus-web-extension-for-us-market_555ddca0569a9215693380803968f618_md5.webp)

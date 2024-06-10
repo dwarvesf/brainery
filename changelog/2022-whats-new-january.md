@@ -9,9 +9,6 @@ description: Each month, we release a recap noting all the significant changes w
 authors: 
   - nikki
   - duy
-menu: changelog
-type: newsletter
-hide_frontmatter: false
 ---
 
 ### Project Highlights

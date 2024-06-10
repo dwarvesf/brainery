@@ -11,9 +11,6 @@ authors:
   - Han 🐸
   - nikki 
   - duy
-menu: changelog
-type: newsletter
-hide_frontmatter: false
 ---
 
 Wrapping up 2019 with the first 5th-year milestone, many ideas popped up for the next steps. Heading into a new decade means we get to wrap up the old and in with the new. For us, the utmost target is to focus on territory expansion and team bootstrapping. Reinvest in the current foundation. Make it stable and make it impactful.

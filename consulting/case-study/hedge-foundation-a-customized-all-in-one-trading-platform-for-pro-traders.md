@@ -10,9 +10,6 @@ description: Move alongside the crypto era, Hedge Foundation works to be part of
 authors: 
 - nikki
 - duy
-menu: consulting
-type: case-study
-hide_frontmatter: false
 ---
 ![](assets/hedge-foundation-a-customized-all-in-one-trading-platform-for-pro-traders_7a9cdd9e9da725426a2859509b94f1d3_md5.webp)
 

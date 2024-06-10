@@ -9,9 +9,6 @@ description:
 authors: 
 - duy
 - nikki
-menu: consulting
-type: case-study
-hide_frontmatter: false
 ---
 ![](assets/team-up-with-basehq-us-first-ever-platform-built-for-assistants_team-up-with-basehq---us-first-ever-platform-built-for-assistants_019ef328b59808b45c4541243f71c875_md5.webp)
 

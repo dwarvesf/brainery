@@ -5,15 +5,9 @@ tags:
   - discord
 title: "OGIF Office Hours #6 - Looking at the Factory pattern, Erlang state machines, and the Trading Process"
 date: 2024-06-07
-description: "In our sixth community discussion, we'll delve into the Factory pattern, Erlang state machines, and the Trading Process. By sharing weekly topics chosen through tags, we foster a collaborative learning environment for our community to grow."
+description: In our sixth community discussion, we'll delve into the Factory pattern, Erlang state machines, and the Trading Process. By sharing weekly topics chosen through tags, we foster a collaborative learning environment for our community to grow.
 authors:
   - innno_
-menu: changelog
-type: ogif
-hide_frontmatter: false
-pinned: true
-hide_title: false
-draft: false
 ---
 
 147 minutes

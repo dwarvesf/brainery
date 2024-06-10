@@ -8,7 +8,6 @@ date: 2023-08-17
 description: null
 authors:
   - thanh
-menu: earn
 due_date: null
 status: Done
 PICs:
@@ -16,7 +15,6 @@ PICs:
 completion_date: null
 bounty: 60
 hide_frontmatter: true
-type: tooling
 ---
 
 ## Requirements

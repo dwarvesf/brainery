@@ -11,9 +11,6 @@ authors:
 - thanh
 - monotykamary
 - innno_
-menu: labs
-type: forward-engineering
-hide_frontmatter: false
 ---
 
 The technological landscape is vast, brimming with opportunities for exploration and growth. As we stand on the brink of May, we pause to reflect on our journey thus far and chart our course forward. In this month's report, we bring you the fruit of our endeavors and the promise of our vision.
