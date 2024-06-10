@@ -9,7 +9,6 @@ date: 2023-10-04
 description: null
 authors:
   - hnh
-menu: earn
 due_date: null
 status: Done
 PICs:
@@ -17,7 +16,6 @@ PICs:
 completion_date: null
 bounty: 120
 hide_frontmatter: true
-type: earn
 ---
 
 1. Update fortress database

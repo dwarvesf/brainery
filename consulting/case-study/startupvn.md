@@ -10,9 +10,6 @@ description: startup.vn was founded 10 years ago, when the concept of "startups"
 authors: 
 - nikki
 - duy
-menu: consulting
-type: case-study
-hide_frontmatter: false
 ---
 
 [startup.vn](http://startup.vn/) was founded 10 years ago, when the concept of "startups" was still fairly new in Vietnam. A handful of people from diverse backgrounds joined hands to create a homeland for Vietnamese who aim at building and growing their own businesses.

@@ -9,11 +9,6 @@ date: 2024-04-03
 description: In this March, we're eyeing on what's brewing in the tech market, ICY updates in 2024, the first offline meetup and product demo. 
 authors:
   - innno_
-menu: changelog
-type: newsletter
-hide_frontmatter: false
-pinned: true
-hide_title: false
 ---
 
 - **Reporting tech signals**: everything new on artificial intelligence, API techniques, toolings, programming languages, and the intersection of design and engineering.

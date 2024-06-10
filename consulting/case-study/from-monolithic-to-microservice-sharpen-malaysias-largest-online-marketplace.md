@@ -10,9 +10,6 @@ authors:
 - duy
 - han
 - nikki
-menu: consulting
-type: case-study
-hide_frontmatter: false
 ---
 ![](assets/from-monolithic-to-microservice-sharpen-malaysias-largest-online-marketplace_6be4a77492fe56879670e7842673e411_md5.webp)
 

@@ -9,11 +9,6 @@ date: 2024-05-23
 description: In this April, we're focused on memo upgrading, reward system, OGIF, internal tooling, community meetup and market report. 
 authors:
   - innno_
-menu: changelog
-type: newsletter
-hide_frontmatter: false
-pinned: true
-hide_title: false
 ---
 
 - [**Reporting tech signals:**](#reporting-tech-signals---ai-edge-computing-and-ui-innovations-driving-change) major updates in Meta's Llama 3, the growth of RAG systems, the move to edge computing, and the influence of Bun 1.1 in JavaScript.

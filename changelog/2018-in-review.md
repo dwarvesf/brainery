@@ -10,9 +10,6 @@ description: 2018 notable hightlights and achievements
 authors: 
   - Han 🐸
   - duy
-menu: changelog
-type: newsletter
-hide_frontmatter: false
 ---
 
 2018 was the memorable year with lots of achievements.

@@ -6,7 +6,6 @@ description:
 authors: 
 tags:
   - earn
-menu: 
 due_date: 
 status: 
 PICs: 
@@ -15,5 +14,4 @@ functional:
 completion_date: 
 bounty: 150
 hide_frontmatter: true
-pinned:
 ---

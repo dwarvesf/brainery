@@ -10,14 +10,12 @@ product: null
 date: 2023-11-27
 description: Use Multi-Party Computation for secure authentication in a Web3 console environment.
 authors: null
-menu: null
 due_date: null
 status: Done
 PICs: null
 completion_date: null
 bounty: 150
 hide_frontmatter: null
-type: null
 function: null
 🔺_priority: null
 reward_🧊: 150

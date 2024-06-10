@@ -10,8 +10,6 @@ authors:
   - minhcloud
   - monotykamary
   - hnh
-menu: 
-type: 
 hide_frontmatter: true
 hide_title: true
 ---

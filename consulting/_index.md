@@ -8,10 +8,7 @@ authors:
 tags:
   - consulting
   - home
-menu: 
-type: memo
 hide_frontmatter: true
-pinned: false
 hide_title: true
 
 ---

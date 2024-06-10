@@ -7,11 +7,7 @@ authors:
 - han
 - nikki
 - duy
-menu: newsletter
-type: newsletter
 hide_frontmatter: true
-pinned: 
-hide_title: false
 ---
 
 Hello, It’s Han & Nikki.

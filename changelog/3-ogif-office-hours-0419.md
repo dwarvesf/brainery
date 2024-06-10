@@ -8,12 +8,6 @@ date: 2024-04-25
 description: Our third office hours community discussion, where we'll cover diverse topics ranging from the current state of the dwarf community and their experiences with devbox, insights on and continuation of liquidity markets, advancements in generative AI technology, to fun events like a lucky draw for icy. The goal is to foster learning by sharing weekly topics suggested through tags, encouraging collaborative growth among our members.
 authors:
   - monotykamary
-menu: changelog
-type: ogif
-hide_frontmatter: false
-pinned: true
-hide_title: false
-draft: false
 ---
 
 71 minutes

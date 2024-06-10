@@ -9,14 +9,12 @@ product:
 date: 2023-11-27
 description: Implement a 'Magic Link' system for passwordless authentication.
 authors: 
-menu: 
 due_date: 
 status: Done
 PICs: 
 completion_date: 
 bounty: 100
 hide_frontmatter: 
-type: 
 function: 
 🔺_priority: 
 reward_🧊: 100

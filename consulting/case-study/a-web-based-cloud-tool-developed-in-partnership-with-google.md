@@ -10,9 +10,6 @@ authors:
 - han
 - nikki
 - duy
-menu: consulting
-type: case-study
-hide_frontmatter: false
 ---
 
 ![](assets/a-web-based-cloud-tool-developed-in-partnership-with-google_case-study-a-web-based-cloud-tool-partner-with-google.webp)

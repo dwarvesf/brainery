@@ -8,12 +8,6 @@ date: 2024-04-26
 description: Our second Office Hours. Join the community to exchange knowledge and insights on diverse topics, including Docker alternatives with Nix, security practices and origin stories of our standards, financial discussions on liquidity, company updates, and icy draws.
 authors:
   - monotykamary
-menu: changelog
-type: ogif
-hide_frontmatter: false
-pinned: true
-hide_title: false
-draft: false
 ---
 
 79 minutes

@@ -8,9 +8,6 @@ date: 2019-11-18
 description: They look to ship in short timeline. The current engineering team was working on the 1st release of ride-hailing app. Wrap-up beCorporate adds a step in perfecting their service.
 authors: 
 - duy
-menu: consulting
-type: case-study
-hide_frontmatter: false
 ---
 ![](assets/augmented-begroup-team-to-deliver-becorporate-services_ca0b190a9c3b5efdcee6b76a84de9c5f_md5.webp)
 

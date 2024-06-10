@@ -10,9 +10,6 @@ authors:
 - Tom
 - nikki
 - hnh
-menu: consulting
-type: case-study
-hide_frontmatter: false
 ---
 ![](assets/open-fabric-set-the-tech-foundation-and-built-an-mvp-from-scratch_34964aa39f1e63930a9b8c2104aa26cb_md5.webp)
 

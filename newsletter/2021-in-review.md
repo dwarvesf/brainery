@@ -10,11 +10,7 @@ authors:
 - han
 - nikki
 - duy
-menu: newsletter
-type: newsletter
 hide_frontmatter: true
-pinned: 
-hide_title: false
 ---
 
 Hey, it’s Han and Nikki in your inbox again. On behalf of the entire Dwarves team, happy 2022!

@@ -9,9 +9,6 @@ description: We stepped in as a Vietnam offshore team for prototypes and skunkwo
 authors: 
 - duy
 - nikki
-menu: consulting
-type: case-study
-hide_frontmatter: false
 ---
 
 ![](assets/collaboration-with-uk-residential-cloud-based-paas_ad0d1521d4022ac2392b73bc7756cb3b_md5.webp)

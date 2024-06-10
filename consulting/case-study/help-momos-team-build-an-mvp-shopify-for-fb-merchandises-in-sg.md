@@ -11,9 +11,6 @@ authors:
 - duy
 - han
 - nikki
-menu: consulting
-type: case-study
-hide_frontmatter: false
 ---
 
 ![](assets/help-momos-team-build-an-mvp-shopify-for-fb-merchandises-in-sg_514bbd80a0d5b2ac3e486b555e76bcac_md5.webp)

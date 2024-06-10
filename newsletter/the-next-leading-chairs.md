@@ -9,9 +9,6 @@ description: We like the idea of labeling teams by what they deliver. Hence, the
 authors: 
 - Han 🐸
 - duy
-menu: newsletter
-type: newsletter
-hide_frontmatter: false
 ---
 
 ## Our vision for growth

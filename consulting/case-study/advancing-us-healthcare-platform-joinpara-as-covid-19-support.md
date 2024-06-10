@@ -10,9 +10,6 @@ description:  Our Covid-19 program was launched in early 2020. We aim to provide
 authors: 
 - duy
 - nikki
-menu: consulting
-type: case-study
-hide_frontmatter: false
 ---
 
 ## In brief

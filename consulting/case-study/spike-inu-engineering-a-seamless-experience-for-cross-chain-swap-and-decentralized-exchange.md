@@ -10,9 +10,6 @@ description: We work with customers as if building a technology startup in the f
 authors: 
 - duy
 - nikki
-menu: consulting
-type: case-study
-hide_frontmatter: false
 ---
 
 ## In brief

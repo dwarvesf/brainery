@@ -9,9 +9,6 @@ date: 2020-09-20
 description: Founded by Desmond Goh - a Singaporean dental surgeon, Dental Marketplace is an online platform for dental professionals to stay active in dentistry and simplify operation process. We support them with tech solution and market-fit product design. We work according with Desmond to extract business problem and propose suitable solution.
 authors: 
 - duy
-menu: memo
-type: case-study
-hide_frontmatter: false
 ---
 
 ![](assets/digitalize-dental-marketplace-the-singapore-dentistry-operation-process_digitalize-dental-marketplace---the-singapore-dentistry-operation-process_750273299ccf35fa1955d76bec350c9e_md5.webp)

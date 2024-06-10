@@ -9,9 +9,6 @@ description: In charge of the backend foundation, we marked a milestone in CIMB'
 authors:
 - huytieu
 - nikki
-menu: consulting
-type: case-study
-hide_frontmatter: false
 author: Huy Tieu
 ---
 

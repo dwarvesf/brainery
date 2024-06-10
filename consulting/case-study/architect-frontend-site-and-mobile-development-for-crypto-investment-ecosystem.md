@@ -11,9 +11,6 @@ authors:
 - han
 - nikki
 - duy
-menu: consulting
-type: case-study
-hide_frontmatter: false
 ---
 
 ![](assets/architect-frontend-site-and-mobile-development-for-crypto-investment-ecosystem_tokenomy.webp)

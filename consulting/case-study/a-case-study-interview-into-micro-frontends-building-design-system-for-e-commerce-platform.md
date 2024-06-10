@@ -9,9 +9,6 @@ date: 2023-04-03
 description: In this article, we'll dive deeper into the practice of applying micro frontend architecture at Swift - an e-commerce company and long-term partner of Dwarves Foundation
 authors: 
 - lapnguyen
-menu: consulting
-type: case-study
-hide_frontmatter: false
 ---
 Previously on [Why Micro-Frontend](https://memo.d.foundation/Why-micro-frontend-6d5df5b9b71e4f248a7740bc51e096a4), we took a look into what is Micro-Frontend architecture, as well as some core concepts behind it. For some of you that have missed the memo, here’s a tl;dr:
 

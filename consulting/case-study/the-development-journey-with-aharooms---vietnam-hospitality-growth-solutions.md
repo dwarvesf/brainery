@@ -10,9 +10,6 @@ authors:
 - duy
 - nikki
 - han
-menu: consulting
-type: case-study
-hide_frontmatter: false
 ---
 
 ![](assets/the-development-journey-with-aharooms---vietnam-hospitality-growth-solutions_aharoom.webp)

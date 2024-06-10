@@ -10,7 +10,6 @@ product:
 date: 2023-11-27
 description: 
 authors: 
-menu: 
 due_date: 
 status: Done
 PICs: 

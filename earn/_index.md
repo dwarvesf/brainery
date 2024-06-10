@@ -9,14 +9,12 @@ description: The Dwarves bounty program is the means through which both company 
 authors:
   - monotykamary
   - hnh
-menu: earn
 due_date: 
 status: 
 PICs: 
 completion_date: 
 bounty: 
 hide_frontmatter: true
-type: earn
 ---
 
 The Dwarves bounty program is the means through which both company peeps and the community can contribute to our daily activities. This includes tasks like building internal tools, engaging in new technology research and development, or sharing knowledge session.
