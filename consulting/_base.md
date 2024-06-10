@@ -26,7 +26,7 @@ Our working environment is dynamic. Instead of pure knowledge / learning session
 
 We also monitor the industry and report on what is being built, what is creating impact, and turn them into use-cases for practices and productions.  
   
-We work in close collaboration with the [[playground/_labs/_index|Labs Team]] and product team, to offer to specialized expertise to clients across various industries to ensure we apply our insights and learning to client projects.
+We work in close collaboration with the [[playground/_index|Labs Team]] and product team, to offer to specialized expertise to clients across various industries to ensure we apply our insights and learning to client projects.
 
 ### What we work forward to
 We set out to become a team that can deliver the best client satisfaction possible, meaning continuously improve services. That involves taking care of the full project life cycle from providing client with the right solution, meeting their needs and constraints, to developing, delivering, transferring ownership.  

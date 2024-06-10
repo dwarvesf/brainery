@@ -9,7 +9,6 @@ title: Applying MPC for authentication for web3 Console
 product: null
 date: 2023-11-27
 description: Use Multi-Party Computation for secure authentication in a Web3 console environment.
-authors: null
 due_date: null
 status: Done
 PICs: null

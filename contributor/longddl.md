@@ -21,5 +21,5 @@ aliases:
 
 ## Contributed Notes
 
-- [[playground/Engineering/Data/Quick Learning Vector Database.md|Quick Learning Vector Database]]
-- [[playground/Engineering/Data/Data Pipeline Design Framework.md|Data Pipeline Design Framework]]
+- [[Quick Learning Vector Database|Quick Learning Vector Database]]
+- [[Data Pipeline Design Framework|Data Pipeline Design Framework]]

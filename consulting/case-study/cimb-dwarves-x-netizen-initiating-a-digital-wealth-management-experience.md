@@ -7,9 +7,8 @@ title: "CIMB x Dwarves x Netizen Initiating A Digital Wealth Management Experien
 date: 2023-08-16
 description: In charge of the backend foundation, we marked a milestone in CIMB's digital transformation journey, with a streamlined, customer-focused experience contributed to CIMB's forward-looking vision.
 authors:
-- huytieu
-- nikki
-author: Huy Tieu
+  - huytieu
+  - nikki
 ---
 
 ![](assets/cimb-dwarves-x-netizen-initiating-a-digital-wealth-management-experience_2fa7fc70c8f1608d99e6ae08dad2b952_md5.webp)
