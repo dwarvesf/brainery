@@ -5,7 +5,7 @@ tags:
   - community
 title: What's New in May 2024
 date: 2024-06-13
-description: May was our month for meetups, upgrading our monthly learning pool, launching NFT roles for our team members, onboarding new collaborations, recapping the SP Group visit & Echelon X 2024, and hosting an OGIF office hour.
+description: May was our month for meetups, upgrading our monthly learning pool, launching NFT roles for our team members, onboarding new collaboration, recapping the SP Group visit & Echelon X 2024, and hosting an OGIF office hour.
 authors:
   - innno_
 ---
@@ -13,7 +13,7 @@ authors:
 - [**Dwarves offline meet-up:**](#dwarves-community-offline-meet-up-was-a-blast) Gathering over 50 members for networking, OGIF talks, and casual team dinner.
 - [**ICY rewards:**](#icymi-leveling-up-icy-activities-for-a-learning-pool-of-up-to-1500) We've boosted the monthly ICY reward pool to a whopping $1,500. Get ready to earn even more by sharing your knowledge.
 - [**SP Group visit & Echelon X 2024:**](#spgroup-wala-x-echelon-asia-summit-2024-new-tech-will-shape-the-future) Our team leaders attended the event and gained insights into the evolving SEA tech landscape, including AI's impact, investment trends, and digital transformation opportunities.
-- [**New collaborations:**](#rolling-out-new-collaboration-fornax-ai-yololab) Yololab, Fornax AI
+- [**New collaboration:**](#rolling-out-new-collaboration-fornax-ai-yololab) Fornax AI
 - [**Exclusive Dwarves NFTs for our team:**](#dwarves-nfts-for-our-crew) Introducing new NFT roles for peeps.
 - [**Dwarves office hour:**](#from-the-last-ogif-office-hour-building-a-resilient-system) Building a resilient system with Hieu Vu, Hoang Nguyen.
 
@@ -26,7 +26,7 @@ We chatted about what's been happening with Dwarves and heard updates from the c
 
 A big thanks to community members: @jack, @tannhatcmcs, and @congiomat for their participation. Details of our next gathering will be shared soon. We hope to have more fun things for everyone to take part in the part.
 
-![](assets/2024-whats-new-may-meetup.webp)
+![](assets/2024-whats-new-may-thumnail.png)
 
 ## ICYMI: Leveling up ICY activities for a learning pool of up to $1500
 We're spicing up the way you earn ICY rewards. Now in May, the thing we are doing is so-called building a protocol reward activities across our community. Participating in server events is a certain way to amass ICY. 
@@ -46,10 +46,8 @@ The foremost is we want to stay true to our path and keep innovating in ways tha
 
 ![](assets/2024-whats-new-may-echelon.webp)
 
-## Rolling out new collaboration: Fornax AI, Yololab
-We're thrilled to share the exciting news of our latest collaboration kickstarted in May - [Fornax AI,](https://fornax.ai/) [Yololab](https://www.yololab.io/).
-
-Yololab is a multi-disciplinary studio, Web3 Venture Studio pioneering total solutions provider in the Web3 space. 
+## Rolling out new collaboration: Fornax AI
+We're thrilled to share the exciting news of our latest collaboration kickstarted in May - [Fornax AI,](https://fornax.ai/).
 
 Fornax AI helps startup founders improve their pitch decks with detailed feedback using ChatGPT for content and visual enhancements. They also offer white-label products for pitch deck ratings, supporting digital product development. 
 
