@@ -26,7 +26,7 @@ We chatted about what's been happening with Dwarves and heard updates from the c
 
 A big thanks to community members: @jack, @tannhatcmcs, and @congiomat for their participation. Details of our next gathering will be shared soon. We hope to have more fun things for everyone to take part in the part.
 
-![](assets/2024-whats-new-may-thumnail.png)
+![](assets/2024-whats-new-may-thumnail.webp)
 
 ## ICYMI: Leveling up ICY activities for a learning pool of up to $1500
 We're spicing up the way you earn ICY rewards. Now in May, the thing we are doing is so-called building a protocol reward activities across our community. Participating in server events is a certain way to amass ICY. 
@@ -47,7 +47,7 @@ The foremost is we want to stay true to our path and keep innovating in ways tha
 ![](assets/2024-whats-new-may-echelon.webp)
 
 ## Rolling out new collaboration: Fornax AI
-We're thrilled to share the exciting news of our latest collaboration kickstarted in May - [Fornax AI,](https://fornax.ai/).
+We're thrilled to share the exciting news of our latest collaboration kickstarted in May - [Fornax AI](https://fornax.ai/).
 
 Fornax AI helps startup founders improve their pitch decks with detailed feedback using ChatGPT for content and visual enhancements. They also offer white-label products for pitch deck ratings, supporting digital product development. 
 
