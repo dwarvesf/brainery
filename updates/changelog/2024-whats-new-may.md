@@ -49,11 +49,11 @@ The foremost is we want to stay true to our path and keep innovating in ways tha
 ## Rolling out new collaboration: Fornax AI, Yololab
 We're thrilled to share the exciting news of our latest collaboration kickstarted in May - [Fornax AI,](https://fornax.ai/) [Yololab](https://www.yololab.io/).
 
-Yololab is a multi-disciplinary studio, Web3 Venture Studio pioneering total solutions provider in the Web3 space. The line-up team consists of @hnh, @vincent, @anna, @hienld.
+Yololab is a multi-disciplinary studio, Web3 Venture Studio pioneering total solutions provider in the Web3 space. 
 
 Fornax AI helps startup founders improve their pitch decks with detailed feedback using ChatGPT for content and visual enhancements. They also offer white-label products for pitch deck ratings, supporting digital product development. 
 
-To enhance their offerings, Fornax is teaming up with us, integrating our advanced language models and AI-driven insights. @Tom is leading the project.
+To enhance their offerings, Fornax is teaming up with us, integrating our advanced language models and AI-driven insights. 
 
 ## Dwarves NFTs for our crew
 To show our appreciation, we've launched a special Dwarves NFT collection for peeps. These unique non-transferable tokens celebrate your contribution to the Dwarves community. Check out your NFT on OpenSea at https://opensea.io/collection/dwarves-4.
