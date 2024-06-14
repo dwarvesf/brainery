@@ -39,7 +39,7 @@ TABLE WITHOUT ID
 	status as Status,
   join(PICs) as PIC,
   functional as Function
-FROM "careers/earn" AND !"career/searn/_index" AND !"career/earn/_base"
+FROM "earn" AND !"career/searn/_index" AND !"career/earn/_base"
 WHERE title != null AND (status = "Open")
 SORT date DESC
 ```

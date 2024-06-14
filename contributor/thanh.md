@@ -50,4 +50,4 @@ aliases:
 - [[2022-forward-engineering|Forward Engineering 2022]]
 - [[handbook/learning/tech-radar.md|Dwarves Radar Program]]
 - [[handbook/engineering-ladder.md|Engineering Ladder]]
-- [[careers/earn/trend-command.md|Trend Command]]
+- [[earn/trend-command.md|Trend Command]]
