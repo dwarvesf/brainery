@@ -17,7 +17,7 @@ authors:
 - [**Exclusive Dwarves NFTs for our team:**](#dwarves-nfts-for-our-crew) Introducing new NFT roles for peeps.
 - [**Dwarves office hour:**](#from-the-last-ogif-office-hour-building-a-resilient-system) Building a resilient system with Hieu Vu, Hoang Nguyen.
 
-![](assets/2024-whats-new-may-thumbnail.webp)
+![](assets/2024-whats-new-may-thumnail.webp)
 
 ## Dwarves community offline meet-up was a blast
 We had a great time hosting our second Ho Chi Minh City meetup on May 31st. Over 50 awesome folks joined us for a night of tech talks, mingling, and all-around good vibes.
@@ -26,7 +26,7 @@ We chatted about what's been happening with Dwarves and heard updates from the c
 
 A big thanks to community members: @jack, @tannhatcmcs, and @congiomat for their participation. Details of our next gathering will be shared soon. We hope to have more fun things for everyone to take part in the part.
 
-![](assets/2024-whats-new-may-thumnail.webp)
+![](assets/2024-whats-new-may-meetup.webp)
 
 ## ICYMI: Leveling up ICY activities for a learning pool of up to $1500
 We're spicing up the way you earn ICY rewards. Now in May, the thing we are doing is so-called building a protocol reward activities across our community. Participating in server events is a certain way to amass ICY. 
