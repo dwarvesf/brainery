@@ -7,8 +7,7 @@ tags:
 title: Forward Engineering June 2023
 date: 2023-06-30
 description: "As we usher in the month of June, we embrace the ever-changing landscape of technological innovation, and focus on a central theme:LLM in Production."
-authors: 
-authors: 
+authors:
 - thanh
 - monotykamary
 - innno_
