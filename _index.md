@@ -28,10 +28,10 @@ View our list of amazing people who have contributed to our notes: [[contributor
 ## Open Bounty
 | Title                                                                | Reward | Status | PIC                         | Function    |
 | -------------------------------------------------------------------- | ------ | ------ | --------------------------- | ----------- |
-| [[careers/earn/rework-fortress-command.md\|Rework Fortress Command]] | 🧊 100 | Open   | \-                          | 🛠️ Tooling |
-| [[careers/earn/icy-store.md\|$icy store]]                            | 🧊 100 | Open   | minhlq                      | 🛠️ Tooling |
-| [[careers/earn/icy-staking.md\|$icy staking]]                        | 🧊 350 | Open   | phucld, minhlq, nam, bienvh | 🛠️ Tooling |
-| [[careers/earn/fortress-shanky-data.md\|Fortress Shanky Data]]       | 🧊 120 | Open   | nam                         | 🛠️ Tooling |
+| [[earn/rework-fortress-command.md\|Rework Fortress Command]] | 🧊 100 | Open   | \-                          | 🛠️ Tooling |
+| [[earn/icy-store.md\|$icy store]]                            | 🧊 100 | Open   | minhlq                      | 🛠️ Tooling |
+| [[earn/icy-staking.md\|$icy staking]]                        | 🧊 350 | Open   | phucld, minhlq, nam, bienvh | 🛠️ Tooling |
+| [[earn/fortress-shanky-data.md\|Fortress Shanky Data]]       | 🧊 120 | Open   | nam                         | 🛠️ Tooling |
 
 
 ---

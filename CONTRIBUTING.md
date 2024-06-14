@@ -1,3 +1,14 @@
+---
+tags:
+  - contribution
+title: Home
+date: 2023-12-11
+description: How to contribute to our second brain.
+authors:
+  - han
+  - monotykamary
+  - thanh
+---
 
 ## Contributing to the Brainery
 We'd love to accept your contributions to the project. There are just a few small guidelines you need to follow before submitting a note.

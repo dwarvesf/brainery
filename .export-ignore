@@ -12,8 +12,5 @@ _reports/
 # ignore reference images or files
 _reference/
 
-# ignore any readmes
-*README.md
-
 # ignore any base files
 _base.md
