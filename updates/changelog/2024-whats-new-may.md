@@ -17,8 +17,6 @@ authors:
 - [**Exclusive Dwarves NFTs for our team:**](#dwarves-nfts-for-our-crew) Introducing new NFT roles for peeps.
 - [**Dwarves office hour:**](#from-the-last-ogif-office-hour-building-a-resilient-system) Building a resilient system with Hieu Vu, Hoang Nguyen.
 
-![](assets/2024-whats-new-may-thumbnail.webp)
-
 ![](assets/2024-whats-new-may-thumnail.webp)
 
 ## Dwarves community offline meet-up was a blast
@@ -35,7 +33,7 @@ We're spicing up the way you earn ICY rewards. Now in May, the thing we are doin
 
 Head on over to [**🧊・earn-icy**](https://discord.com/channels/462663954813157376/1006198672486309908/1239502938918096960) for all the deets on this exciting new chapter.
 
-
+![](assets/2024-whats-new-may-icy-distribution.webp)
 
 ## SPGroup WALA x Echelon Asia Summit 2024: New tech will shape the future
 Last month, our team leaders @tieubao, @nikki, and @huytq attended the Echelon Asia Summit held in Singapore on May 15-16. The event focused on the future of Southeast Asia's tech and startup ecosystem, highlighting merger and acquisition trends and high-growth industries.
