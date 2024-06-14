@@ -19,6 +19,8 @@ authors:
 
 ![](assets/2024-whats-new-may-thumbnail.webp)
 
+![](assets/2024-whats-new-may-thumnail.webp)
+
 ## Dwarves community offline meet-up was a blast
 We had a great time hosting our second Ho Chi Minh City meetup on May 31st. Over 50 awesome folks joined us for a night of tech talks, mingling, and all-around good vibes.
 
@@ -26,14 +28,14 @@ We chatted about what's been happening with Dwarves and heard updates from the c
 
 A big thanks to community members: @jack, @tannhatcmcs, and @congiomat for their participation. Details of our next gathering will be shared soon. We hope to have more fun things for everyone to take part in the part.
 
-![](assets/2024-whats-new-may-thumnail.webp)
+![](assets/2024-whats-new-may-meetup.webp)
 
 ## ICYMI: Leveling up ICY activities for a learning pool of up to $1500
 We're spicing up the way you earn ICY rewards. Now in May, the thing we are doing is so-called building a protocol reward activities across our community. Participating in server events is a certain way to amass ICY. 
 
 Head on over to [**🧊・earn-icy**](https://discord.com/channels/462663954813157376/1006198672486309908/1239502938918096960) for all the deets on this exciting new chapter.
 
-![](assets/2024-whats-new-may-icy-distribution.webp)
+
 
 ## SPGroup WALA x Echelon Asia Summit 2024: New tech will shape the future
 Last month, our team leaders @tieubao, @nikki, and @huytq attended the Echelon Asia Summit held in Singapore on May 15-16. The event focused on the future of Southeast Asia's tech and startup ecosystem, highlighting merger and acquisition trends and high-growth industries.
