@@ -17,7 +17,7 @@ Welcome to Dwarves Notes, a collection of notes for everything we do and operate
 
 We believe that behind every success comes great preparation, accumulation and compound every single day. This note repo contains our notes and studies for any upcoming challenges, new tech, hiring, bounty, etc.
 
-![](assets/common-component_information_flow.webp)
+![](assets/_index_common-component_information_flow.webp)
 
 View our list of amazing people who have contributed to our notes: [[contributor/_index|Contributors]]
 
