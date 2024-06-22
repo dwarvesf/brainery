@@ -50,14 +50,14 @@ ICYMI, ICY is Dwarves' very own token used to reward both team members and commu
 
 Our reward system is currently being developed. You can look forward to it!
 
-![](2024-whats-new-february_whats-new-february-2024-20240308101902325.webp 's=90')
+![](assets/2024-whats-new-february_whats-new-february-2024-20240308101902325.webp 's=90')
 
 ## Monthly top performers
 Each month we track how productive and valuable each of our team members by using delivery points. The top 5 high-performing members get rewards with $ICY. 
 
 In February, kudos to those peeps who outperformed the rest: Chinh Le, Hai Huynh, Khac Vy, Tai Pham, Tay Nguyen!
 
-![](2024-whats-new-february_whats-new-february-2024-20240308101913942.webp 's=90')
+![](assets/2024-whats-new-february_whats-new-february-2024-20240308101913942.webp 's=90')
 
 ## Partner Network
 We are always seeking for business development partners, individuals and companies likewise, to develop a co-creation system driven by mutual purposes and interests.

@@ -79,7 +79,7 @@ As we persist in our R&D voyage, we endeavor to remain at the forefront of tech 
 ## Dwarves Rewind October 2023
 [Dwarves Rewind](https://www.linkedin.com/newsletters/dwarves-rewind-6963734647327375360/) is a reading list serving as a collection of news we aggregate weekly. Tech is a very high-paced industry, and rewind helps to serve as a curated list of trending and high-profile topics that everyone can look back on.
 
-![](forward-engineering-october-2023_frame_91_(1).webp)
+![](assets/forward-engineering-october-2023_frame_91_(1).webp)
 
 ### Trending and Hot Topics
 * **[Next.js releases version 14](https://nextjs.org/blog/next-14)** - Despite the major version update, Next.js has been very careful of introducing any breaking changes or new APIs. Next.js has been a much hotter topic seeing how as it treads closer to server-side rendering, it bares much resemblance to PHP and old-school server-rendered apps.

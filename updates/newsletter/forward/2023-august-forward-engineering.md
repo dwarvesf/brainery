@@ -19,7 +19,7 @@ In a world where new businesses and product teams are always changing, there is 
 ## Tech Radar
 Step into the latest edition of the Dwarves Foundation Tech Radar Report, where we shed light on the technologies steering our engineering team's growth and success. In this report, we illuminate the technologies shaping our path forward, from evaluating new methodologies to embracing tools that amplify our efficiency.
 
-![](august-forward-engineering_(1).mp4)
+![](assets/august-forward-engineering_(1).mp4)
 
 ### Type-safe Server Client Development</span>
 ***Assess***
