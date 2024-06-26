@@ -5,7 +5,7 @@ tags:
   - discord
 title: "OGIF Office Hours #9 -  What's next for June and Behavior Design Patterns"
 date: 2024-06-25
-description: Join us for our seventh community discussion, where we will be addressing June's key updates and providing an overview of effective behavior design patterns. The discussion will be guided by weekly topics selected through community input, fostering a collaborative learning environment for all participants.
+description: Join us for our ninth community discussion, where we will be addressing June's key updates and providing an overview of effective behavior design patterns. The discussion will be guided by weekly topics selected through community input, fostering a collaborative learning environment for all participants.
 authors:
   - innno_
 ---
