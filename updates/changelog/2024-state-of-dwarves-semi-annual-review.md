@@ -4,7 +4,7 @@ tags:
   - team
   - community
 title: "State of Dwarves: 2024 Semi-annual Review"
-date: 2024-07-04
+date: 2024-07-03
 description: May was our month for meetups, upgrading our monthly learning pool, launching NFT roles for our team members, onboarding new collaboration, recapping the SP Group visit & Echelon X 2024, and hosting an OGIF office hour.
 authors:
   - innno_
