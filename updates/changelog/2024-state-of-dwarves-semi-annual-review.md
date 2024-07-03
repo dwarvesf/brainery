@@ -16,7 +16,7 @@ In the past six months, we've made some pretty impressive strides in testing new
 
 Take a moment to reflect on our journey so far, and let's get excited about what we'll accomplish together before the year ends.
 
-![](assets/2024-state-of-dwarves-semi-annual-review.png)
+![](assets/2024-state-of-dwarves-semi-annual-review.webp)
 
 ## Community Growth
 ### Organized offline meet-up
@@ -24,7 +24,7 @@ Our Year-End Party (YEP) was the first offline meet-up that set the tone for fut
 
 Over 50 enthusiastic members joined us for a night of tech talks, and all-around good vibes. It was an opportunity to connect with our community in person and share our passion for technology.
 
-![](assets/2024-state-of-dwarves-semi-annual-review-meet-up.png)
+![](assets/2024-state-of-dwarves-semi-annual-review-meet-up.webp)
 
 ### Dwarves community is growing with more contributions
 A big thanks to our active members who have taken part in learning and sharing knowledge with our peeps. 
@@ -38,7 +38,7 @@ Long Bui Van (@longddl) has published helpful notes on data pipelines and learni
 
 Additionally, several other members have made noteworthy contributions from Tom, Huy Nguyen, Tuan Dao, Bien Vo, Nikki, Nhut Huynh, Lap Nguyen, Hieu Phan, An Tran, Ngoc Thanh, Thanh Pham, Minh Nguyen, Anh Tran, Minh Le, Truong Quoc Tuan, Tri Tran, My Truong, Nam Bui, Tay Nguyen, Dat Pham, Dat Nguyen for keeping our server active and full of great content.
 
-![](assets/2024-state-of-dwarves-semi-annual-review-community.png)
+![](assets/2024-state-of-dwarves-semi-annual-review-community.webp)
 
 ## Team Growth
 ### Building Dwarves’ wiki - memo.d.foundation
@@ -50,7 +50,7 @@ Through learning, sharing, applying, and elevating our core knowledge, we can gr
 
 You will get a 5-15 ICY reward for each publication. Community members are welcome to share their learning notes too. 
 
-![](assets/2024-state-of-dwarves-semi-annual-review-dwarves-memo.png)
+![](assets/2024-state-of-dwarves-semi-annual-review-dwarves-memo.webp)
 
 ### Upgrading ICY reward for Dwarves learning system
 We're excited about the future of ICY and our plans rolled out since its launch in September 2022:
@@ -64,7 +64,7 @@ We're excited about the future of ICY and our plans rolled out since its launch 
 - Link Mochi wallet to GitHub for ICY rewards
 - Earn & Stake ICY for rewards and future benefits.
 
-![](assets/2024-state-of-dwarves-semi-annual-review-icy.png)
+![](assets/2024-state-of-dwarves-semi-annual-review-icy.webp)
 
 ### Exclusive Dwarves NFTs for our team members
 Peeps NFT is an exclusive collection for Dwarves Foundation members, granting access to internal communications and earning opportunities.
@@ -75,7 +75,7 @@ These unique non-transferable tokens can be viewed on OpenSea at https://opensea
 
 [@Tono](https://memo.d.foundation/contributor/Tono) Bot will automatically grant the [@peeps](https://memo.d.foundation/contributor/peeps) role to NFT holders with connected wallets.
 
-![](assets/2024-state-of-dwarves-semi-annual-review-nft-role.png)
+![](assets/2024-state-of-dwarves-semi-annual-review-nft-role.webp)
 
 ### Improvement in internal tooling: Fortress, Tono, Mochi
 We’ve made several upgrades to enhance our Discord server with our self-built bots, improving task management and overall server experience.
@@ -86,7 +86,7 @@ We’ve made several upgrades to enhance our Discord server with our self-built 
 
 **Mochi:** Tip bot for sending virtual kudos to show appreciation for others.
 
-![](assets/2024-state-of-dwarves-semi-annual-review-tooling.png)
+![](assets/2024-state-of-dwarves-semi-annual-review-tooling.webp)
 
 ### Research topics: the road to expand the knowledge base
 Solving problems using the latest technologies has always been our goal. This year's research focus is based on five key pillars:
@@ -99,7 +99,7 @@ Solving problems using the latest technologies has always been our goal. This ye
 
 We've made progress in building internal tools like Tono Bot and Memo using LLM/RAG. Additionally, we've introduced our [Cyber Security Framework](https://memo.d.foundation/playground/01_literature/security/how-i-came-up-with-our-security-standard/) and adopted & built a Map of Content for [Devbox](https://memo.d.foundation/playground/01_literature/devbox-local-development-env/).
 
-![](assets/2024-state-of-dwarves-semi-annual-review-tech-topics.png)
+![](assets/2024-state-of-dwarves-semi-annual-review-tech-topics.webp)
 
 ### Tech research advancements in tooling, architecture, & LLM
 We closely monitor tech trends every month to identify those with high potential that could become part of our growing tech stack. 
@@ -118,7 +118,7 @@ OGIF is our weekly Friday tradition where members share 10-minute talks. After t
 
 In this era of public learning, we’re excited to see what the team will create. You can revisit our OGIF sharing [here](https://memo.d.foundation/updates/ogif/11-ogif-office-hours-0621/). 
 
-![](assets/2024-state-of-dwarves-semi-annual-review-office-hour.png)
+![](assets/2024-state-of-dwarves-semi-annual-review-office-hour.webp)
 
 ### Reorganize Discord roles: MMA system
 We've revamped our Discord roles, now ladder-based and function-based, offering additional activities and benefits, especially with NFT and ICY staking.
@@ -135,7 +135,7 @@ We've revamped our Discord roles, now ladder-based and function-based, offering 
 - Baby dwarf: Purpose-seeking individuals.
 - Dwarf: Members involved in R&D and learning activities.
 
-![](assets/2024-state-of-dwarves-semi-annual-review-mma-role.png)
+![](assets/2024-state-of-dwarves-semi-annual-review-mma-role.webp)
 
 ### Monthly top performers: Honoring your work efforts
 Each month, we use delivery points to recognize our team's efforts. Team members who earn the most points shipped and effort spent receive ICY rewards.
@@ -153,7 +153,7 @@ In May, our team leaders [@tieubao](https://memo.d.foundation/contributor/tieuba
 
 We observed the evolving use of funds by investors and startups, advancements in AI, and upcoming projects in the APAC tech startup landscape.
 
-![](assets/2024-state-of-dwarves-semi-annual-review-echelon.png)
+![](assets/2024-state-of-dwarves-semi-annual-review-echelon.webp)
 
 ### Launching Dwarves internship program
 We’ve launched another internship batch. This time, we welcome Dat Nguyen and Ngoc Quang to our team. We hope Dat and Quang will thrive and grow with us as they embark on this new chapter at Dwarves.
@@ -164,7 +164,7 @@ We've made some changes to our team structure. Huy Nguyen has been promoted to C
 ### Brand new merchandise
 The operations team is gearing up for another batch of t-shirts and stickers. The response to the new sticker set has been positive. We’re excited to see our community members sporting these items and showcasing their pride in being part of the Dwarves Foundation.
 
-![](assets/2024-state-of-dwarves-semi-annual-review-merch.png)
+![](assets/2024-state-of-dwarves-semi-annual-review-merch.webp)
 
 Let's wrap this up with a cheer on top, celebrating the many wins we've enjoyed. Here's to continuing our journey with the same enthusiasm and dedication in 2024. 
 
