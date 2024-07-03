@@ -5,11 +5,11 @@ tags:
   - community
 title: "State of Dwarves: 2024 Semi-annual Review"
 date: 2024-07-03
-description: May was our month for meetups, upgrading our monthly learning pool, launching NFT roles for our team members, onboarding new collaboration, recapping the SP Group visit & Echelon X 2024, and hosting an OGIF office hour.
+description: The past six months have been packed with many improvements to our Discord server from new standards and automation to engaging activities and rewards. Take a moment to reflect on our journey so far, and let's get excited about what we'll accomplish together before the year ends.
 authors:
   - innno_
-  - nikki
-  - thanh
+  - nikkingtr
+  - thanh.pham
 ---
 
 In the past six months, we've made some pretty impressive strides in testing new standards and adding more automation, activities, and rewards to our Discord server to foster a supportive community among tech lovers.
