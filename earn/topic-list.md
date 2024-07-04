@@ -44,6 +44,4 @@ Information Shown:
 
 
 ##### User Interface Mockup: [View here](https://share.discohook.app/go/h78hfx6q)
-<p align="center" width="100%">
-    <img width="50%" src="assets/topic_list.png">
-</p>
+![](assets/topic_list.png)
