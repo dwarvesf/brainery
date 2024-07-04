@@ -43,6 +43,4 @@ Ongoing Bounties
 - Information Shown: Each ongoing bounty will show the bounty name, the ICY reward for that bounty, and the person currently in charge of it.
 
 ##### User Interface Mockup: [View here](https://share.discohook.app/go/h78hfx6q)
-<p align="center" width="100%">
-    <img width="50%" src="assets/bounty_list.png">
-</p>
+![](assets/bounty_list.png)
