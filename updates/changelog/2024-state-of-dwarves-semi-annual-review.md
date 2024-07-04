@@ -34,9 +34,9 @@ Long Bui Van (@longddl) has published helpful notes on data pipelines and learni
 - [Data Pipeline Design Framework](https://memo.d.foundation/playground/engineering/data/data-pipeline-design-framework/)
 - [Quick Learning Vector Database](https://memo.d.foundation/playground/engineering/data/quick-learning-vector-database/)
 
-@jack collaborated with Phuc Le on [How to bridge $DFG from Ethereum Mainnet to Base Network for staking.](https://memo.d.foundation/playground/01_literature/how-to-transfer-dfg-from-eth-to-base-for-staking/)
+@jack collaborated with @phucld on [How to bridge $DFG from Ethereum Mainnet to Base Network for staking.](https://memo.d.foundation/playground/01_literature/how-to-transfer-dfg-from-eth-to-base-for-staking/)
 
-Additionally, several other members have made noteworthy contributions from Tom, Huy Nguyen, Tuan Dao, Bien Vo, Nikki, Nhut Huynh, Lap Nguyen, Hieu Phan, An Tran, Ngoc Thanh, Thanh Pham, Minh Nguyen, Anh Tran, Minh Le, Truong Quoc Tuan, Tri Tran, My Truong, Nam Bui, Tay Nguyen, Dat Pham, Dat Nguyen for keeping our server active and full of great content.
+Additionally, several other members have made noteworthy contributions from @tom, @hnh, @vincent, @bienvh, @innno_, @nikki, @huytq, @minhlq, @nhuthm, @hieuthu1, @antran, @ngocthanh, @thanh, @minh_cloud, @minh, @truongquoctuan, @tristran, @anna, @nambui, @tay, @datpv, @datnguyennnx, @nam, @taipn, @hoangnnh, @lapnn, @hieuthu2, @huymaius, @phucld for keeping our server active and full of great content.
 
 ![](assets/2024-state-of-dwarves-semi-annual-review-community.webp)
 
@@ -142,11 +142,11 @@ Each month, we use delivery points to recognize our team's efforts. Team members
 
 **Highlight Top Performers:**
 
-- **January:** Ngoc Thanh, Chinh Le, Cuong Mai, Tai Pham, Phat Nguyen
-- **February:** Chinh Le, Hai Huynh, Khac Vy, Tai Pham, Tay Nguyen
-- **March:** Ngoc Thanh, Nam Nguyen, Tai Pham, Cuong Mai, Khoi Ngo
-- **April:** Hoang Nguyen, Minh Tran, Nam Nguyen, Hai Huynh, Hieu Vu
-- **May:** Khoi Ngo, Ngoc Thanh, Hai Huynh, Bien Vo, Chinh Le
+- **January:** @ngocthanh, @chinhld, @jim, @taipn, @phatnt
+- **February:** @chinhld, @haihuynh, @khacvy, @taipn, @tay
+- **March:** @ngocthanh, @nam, @taipn, @jim, @trkhoi
+- **April:** @hoangnnh, @minhth, @nam, @haihuynh, @hieuvd
+- **May:** @trkhoi, @ngocthanh, @haihuynh, @bienvh, @chinhld
 
 ### SPGroup WALA x Echelon Asia Summit 2024
 In May, our team leaders [@tieubao](https://memo.d.foundation/contributor/tieubao), [@nikki](https://memo.d.foundation/contributor/nikki), and [@huytq](https://memo.d.foundation/contributor/huytq) attended the Echelon Asia Summit in Singapore. The event focused on the future of Southeast Asia’s tech and startup ecosystem, highlighting the trends and high-growth industries.
@@ -156,10 +156,10 @@ We observed the evolving use of funds by investors and startups, advancements in
 ![](assets/2024-state-of-dwarves-semi-annual-review-echelon.webp)
 
 ### Launching Dwarves internship program
-We’ve launched another internship batch. This time, we welcome Dat Nguyen and Ngoc Quang to our team. We hope Dat and Quang will thrive and grow with us as they embark on this new chapter at Dwarves.
+We’ve launched another internship batch. This time, we welcome @datnguyennnx and @ngocquang to our team. We hope Dat and Quang will thrive and grow with us as they embark on this new chapter at Dwarves.
 
 ### Team promotion and new teammate
-We've made some changes to our team structure. Huy Nguyen has been promoted to Chief of Staff, and Minh Nguyen is now our Junior PM and Executive Assistant. We're also delighted to welcome our new teammate, Minh Le, who brings business development experience to our team.
+We've made some changes to our team structure. @hnh has been promoted to Chief of Staff, and @minh_cloud is now our Junior PM and Executive Assistant. We're also delighted to welcome our new teammate, @minh, who brings business development experience to our team.
 
 ### Brand new merchandise
 The operations team is gearing up for another batch of t-shirts and stickers. The response to the new sticker set has been positive. We’re excited to see our community members sporting these items and showcasing their pride in being part of the Dwarves Foundation.
