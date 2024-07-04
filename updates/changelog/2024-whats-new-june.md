@@ -17,7 +17,7 @@ authors:
 - [**Vietnam Tech Scene**](#building-a-network-of-trusted-partners-in-vietnams-tech-ecosystem) report covered notable insights into our nation's tech landscape, as well as key players in AI, fintech, and blockchain/crypto ecosystem.
 - [**Weekly OGIF Talks**](#dwarves-office-hours-at-5pm-every-friday): Our Friday sessions promote a knowledge-sharing culture. In June, we've covered design patterns, content mapping, software design, data modalities, and blockchain architecture.
 
-![](assets/2024-whats-new-june-thumbnail.png)
+![](assets/2024-whats-new-june-thumbnail.webp)
 
 ## The growing of memo pile
 With the focus on Mastery, Meaning, and Autonomy (MMA) has driven significant growth in our brainery. This is evident from the increase in content submitted by our contributors on areas for work delivery, and foundational knowledge.
@@ -42,7 +42,7 @@ With the focus on Mastery, Meaning, and Autonomy (MMA) has driven significant gr
 16. [Introduce builder pattern and its use cased](https://memo.d.foundation/playground/01_literature/builder-design-pattern/) by [@vincent](https://github.com/tuanddd)
 17. [Explaining gradient descent in ML](https://memo.d.foundation/playground/00_fleeting/explaining-gradient-descent-in-machine-learning-with-a-simple-analogy/) - [@innno_](https://github.com/innnotruong) 
 
-![](assets/2024-whats-new-june-memo.png)
+![](assets/2024-whats-new-june-memo.webp)
 
 ## Enable reward for the learning system
 Dwarves has always been a playground for techies, where learning and sharing go hand-in-hand. The increase in valuable content shared by our team and community members deserves greater recognition and rewards. 
@@ -60,7 +60,7 @@ Multiple activities are going on at [🧊・earn-icy](https://discord.com/channe
 
 Everyone in the community is welcome to join hands.
 
-![](assets/2024-whats-new-june-icy-updates.png)
+![](assets/2024-whats-new-june-icy-updates.webp)
 
 ## Dwarves token usage for June
 Our community's engagement has been exceptional this month, reflected in the active use of Dwarves Token. We don’t limit any roles to join us; more room means more participants. 
@@ -94,7 +94,7 @@ We have discussed:
 
 We have distributed **175 ICY for OGIF in June.** 
 
-![](assets/2024-whats-new-june-ogif.png)
+![](assets/2024-whats-new-june-ogif.webp)
 
 ## Building a network of trusted partners in Vietnam’s tech ecosystem
 We're monitoring developments in Vietnam's tech landscape. Despite global economic challenges, Vietnam's tech market is thriving, making it an attractive hub for startups and investors.
@@ -111,4 +111,4 @@ Key highlights include:
 - **Blockchain and Crypto Leaders:** Animoca Brands, Foresight Ventures, and HashKey Capital are driving innovation in the blockchain/crypto space.
 - **Legal Support:** Favorable policies fostering innovation and growth, with improved public market governance and increased M&A activities driven by local conglomerates.
 
-![](assets/2024-whats-new-june-tech-market.png)
+![](assets/2024-whats-new-june-tech-market.webp)
