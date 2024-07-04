@@ -24,18 +24,28 @@ pi_cs: null
 start_date: null
 progress: null
 ---
+To utilize the **Fortress** bot to display a list of the 15 most recent pull requests (PRs) from the Dwarves [memo.d.foundation](https://memo.d.foundation/) repository and its submodules. By using specific commands, users can effortlessly track recent PR activities, ensuring they are always aware of the latest changes and updates.
 
-- Bot: Fortress
-- Command: `?memo pr` 
-- Function: 
-    - Show the most recent PR on Dwarves memo.d.foundation repository
-    - Show maximum 15
-- UI contains: 
-    - Repo name
+##### Bot Name: Fortress
+
+##### Command: ?memo pr
+
+##### Functionality
+
+The command `?memo pr` allows users to view the most recent PRs on the Dwarves [memo.d.foundation](https://memo.d.foundation/) repository and it submodules, with a maximum of 15 PRs displayed.
+
+##### User Interface Details
+Display: The UI will list the most recent PRs for each memo related repositories.
+
+Information Shown:
+- Repository name
+- List PRs 
     - Relative time of the PR
     - ID of the PR
-    - PR name 
-- UI mockup: [here](https://share.discohook.app/go/h78hfx6q)
+    - PR name
+    - Author
 
-
-![](assets/CleanShot 2024-07-04 at 15.21.19@2x.png)
+##### User Interface Mockup: [View here](https://share.discohook.app/go/h78hfx6q)
+<p align="center" width="100%">
+    <img width="50%" src="assets/pr_list.png">
+</p>
