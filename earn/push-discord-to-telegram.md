@@ -6,7 +6,8 @@ title: "Bounty: Push note from Discord to Github PR automatically"
 product: null
 date: 2024-07-01
 description: "Seeking developers for an exciting bounty: Create an automation feature to automatically convert popular Discord links into fleeting notes. Implement a reward system, set up eligibility criteria, and develop an automated process for creating GitHub Pull Requests with article summaries. Enhance our tech community's knowledge sharing efficiency."
-authors: 
+authors:
+  - minh_cloud
 due_date: null
 status: Open
 PICs: null
