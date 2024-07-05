@@ -24,7 +24,26 @@ Written by Dwarves for product craftsmen.
 
 Learned by engineers. Experimented by engineers.
 
-## Latest Memo
+## Latest Memos
+```dsql-list
+SELECT '[' || 
+  COALESCE(title, '/' || 
+    REGEXP_REPLACE(
+      LOWER(
+        REGEXP_REPLACE(
+          REPLACE(file_path, '.md', ''),
+          '[^a-zA-Z0-9/]+', '-'
+        )
+      ),
+      '(^-|-$)', ''
+    )
+  ) || 
+  '](' || file_path || ')' AS markdown_link
+FROM vault
+ORDER BY date DESC
+LIMIT 10;
+```
+
 - [[c4-modelling|Breaking Down Complexity: The Role of Abstractions and UML in C4 Modelling]]
 - [[writing-content-for-multimedia-guidelines|Writing Content for Multimedia Guidelines]]
 - [[understanding-saving-investing-and-speculating-key-differences-and-strategies|Understanding Saving, Investing, and Speculating: Key Differences and Strategies]]
