@@ -31,14 +31,24 @@ SELECT '[' ||
     REGEXP_REPLACE(
       LOWER(
         REGEXP_REPLACE(
-          REPLACE(file_path, '.md', ''),
-          '[^a-zA-Z0-9/]+', '-'
+          REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'),
+          '[^a-zA-Z0-9/_-]+', '-'
         )
       ),
       '(^-|-$)', ''
     )
   ) || 
-  '](' || file_path || ')' AS markdown_link
+  '](/' || 
+  REGEXP_REPLACE(
+    LOWER(
+      REGEXP_REPLACE(
+        REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'),
+        '[^a-zA-Z0-9/_-]+', '-'
+      )
+    ),
+    '(^-|-$)', ''
+  ) || 
+  ')' AS markdown_link
 FROM vault
 ORDER BY date DESC
 LIMIT 10;
