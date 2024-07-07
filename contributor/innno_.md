@@ -21,23 +21,18 @@ aliases:
 
 ## Contributed Notes
 
-- [[how-to-take-better-screenshots-on-mac|How To Take Better Screenshots On Mac]]
-- [[writing-content-for-multimedia-guidelines|Writing Content for Multimedia Guidelines]]
-- [[how-i-create-content-for-multiple-platforms-at-dwarves|How I Create Content for Multiple Platforms at Dwarves]]
-- [[playbook/community/starting-your-journey-at-dwarves-discord.md|Starting your journey at Dwarves Discord]]
-- [[playbook/community/dwarves-community-bounty.md|Community Bounty]]
-- [[2023-may-forward-engineering|Forward Engineering May 2023]]
-- [[2023-march-forward-engineering|Forward Engineering March 2023]]
-- [[2022-forward-engineering|Forward Engineering 2022]]
-- [[updates/digest/3-we-all-start-somewhere.md|#3 We All Start Somewhere]]
-- [[2024-whats-new-march|What's New in March 2024]]
-- [[2022-dwarves-of-the-year|Dwarves Of The Year 2022]]
-- [[2022-in-review|2022 In Review]]
-- [[2022-dwarves-summit-engineering-a-good-time|Dwarves Summit 2022 Engineering A Good Time]]
-- [[updates/digest/2-walk-around-learn-around.md|#2 Walk Around Learn Around]]
-- [[updates/digest/1-what-do-you-stand-for.md|#1 What Do You Stand For?]]
-- [[careers/open-positions/technical-writer.md|Technical Writer]]
-- [[careers/life/life-at-dwarves-with-nam-nguyen-keep-pushing-oneself-towards-goal.md|Life At Dwarves With Nam Nguyen]]
-- [[careers/life/life-at-dwarves-with-hieu-vu.md|Life At Dwarves With Hieu Vu]]
-- [[careers/life/life-at-dwarves-with-an-tran.md|Life At Dwarves With An Tran]]
-- [[careers/life/life-at-dwarves-software-design-group.md|Life At Dwarves Software Design Group]]
+```dsql-list
+SELECT '[' || 
+  COALESCE(title, '/' || processed_path) || 
+  '](/' || processed_path || ')' AS markdown_link
+FROM (
+  SELECT 
+    file_path,
+    title,
+    date,
+    REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'),'[^a-zA-Z0-9/_-]+', '-')), '(^-|-$)', '') AS processed_path
+  FROM vault
+  WHERE ['innno_', 'mytruong', 'innnotruong'] && authors
+)
+ORDER BY date DESC
+```

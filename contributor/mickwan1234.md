@@ -20,5 +20,18 @@ aliases:
 
 ## Contributed Notes
 
-- [[playground/01_literature/Engineering/Google Dataproc|Google Dataproc]]
-- [[playground/01_literature/Engineering/Google Data Fusion|Google Data Fusion]]
+```dsql-list
+SELECT '[' || 
+  COALESCE(title, '/' || processed_path) || 
+  '](/' || processed_path || ')' AS markdown_link
+FROM (
+  SELECT 
+    file_path,
+    title,
+    date,
+    REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'),'[^a-zA-Z0-9/_-]+', '-')), '(^-|-$)', '') AS processed_path
+  FROM vault
+  WHERE ['mickwan1234', 'nguyenhieunghia'] && authors
+)
+ORDER BY date DESC
+```

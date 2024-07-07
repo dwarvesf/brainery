@@ -21,5 +21,18 @@ aliases:
 
 ## Contributed Notes
 
-- [[Quick Learning Vector Database|Quick Learning Vector Database]]
-- [[Data Pipeline Design Framework|Data Pipeline Design Framework]]
+```dsql-list
+SELECT '[' || 
+  COALESCE(title, '/' || processed_path) || 
+  '](/' || processed_path || ')' AS markdown_link
+FROM (
+  SELECT 
+    file_path,
+    title,
+    date,
+    REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'),'[^a-zA-Z0-9/_-]+', '-')), '(^-|-$)', '') AS processed_path
+  FROM vault
+  WHERE ['longddl'] && authors
+)
+ORDER BY date DESC
+```

@@ -21,6 +21,18 @@ aliases:
 
 ## Contributed Notes
 
-- [[careers/archived/technical-recruiter.md|Technical Recruiter]]
-- [[careers/archived/executive-assistant.md|Executive Assistant]]
-- [[careers/archived/business-development.md|Business Development]]
+```dsql-list
+SELECT '[' || 
+  COALESCE(title, '/' || processed_path) || 
+  '](/' || processed_path || ')' AS markdown_link
+FROM (
+  SELECT 
+    file_path,
+    title,
+    date,
+    REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'),'[^a-zA-Z0-9/_-]+', '-')), '(^-|-$)', '') AS processed_path
+  FROM vault
+  WHERE ['vitran', 'tranthiaivi', 'tranthiaivi266'] && authors
+)
+ORDER BY date DESC
+```

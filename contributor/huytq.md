@@ -20,13 +20,18 @@ aliases:
 
 ## Contributed Notes
 
-- [[playbook/operations/project-schedule-delivery-guidelines.md|Project Delivery Schedule and Guidelines]]
-- [[playbook/operations/checklists/project-communication.md|Checklist: Project Communication]]
-- [[playbook/operations/checklists/project-case-study.md|Checklist: Project Case Study]]
-- [[playbook/operations/checklists/project-archive.md|Checklist: Project Archive]]
-- [[playbook/operations/checklists/project-initialization.md|Checklist: Project Initialization]]
-- [[playbook/operations/checklists/project-handover.md|Checklist: Project Handover]]
-- [[playbook/engineering/estimation-guidelines.md|Estimation Guidelines]]
-- [[playbook/business/fbsc.md|FBSC]]
-- [[consulting/case-study/droppii-dwarves-case-study.md|Droppii x Dwarves: Transforming E-Commerce with Innovative Dropshipping Solutions]]
-- [[consulting/_index.md|Consulting Team]]
+```dsql-list
+SELECT '[' || 
+  COALESCE(title, '/' || processed_path) || 
+  '](/' || processed_path || ')' AS markdown_link
+FROM (
+  SELECT 
+    file_path,
+    title,
+    date,
+    REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'),'[^a-zA-Z0-9/_-]+', '-')), '(^-|-$)', '') AS processed_path
+  FROM vault
+  WHERE ['huytq', '0xlight'] && authors
+)
+ORDER BY date DESC
+```
