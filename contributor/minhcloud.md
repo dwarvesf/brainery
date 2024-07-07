@@ -20,8 +20,18 @@ aliases:
 
 ## Contributed Notes
 
-- [[how-to-set-up-environment-for-editing-memo|How to set up environment to edit memo]]
-- [[how-to-push-content-on-note-d|How to push content on memo.d.foundation]]
-- [[playbook/community/how-to-withdraw-icy.md|How to withdraw ICY]]
-- [[playbook/community/how-to-setup-crypto-wallet-to-withdraw-icy.md|How to set up cryto wallet to withdraw ICY]]
-- [[_index.md|Home]]
+```dsql-list
+SELECT '[' || 
+  COALESCE(title, '/' || processed_path) || 
+  '](/' || processed_path || ')' AS markdown_link
+FROM (
+  SELECT 
+    file_path,
+    title,
+    date,
+    REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'),'[^a-zA-Z0-9/_-]+', '-')), '(^-|-$)', '') AS processed_path
+  FROM vault
+  WHERE ['minh_cloud', 'minhcloud'] && authors
+)
+ORDER BY date DESC
+```
