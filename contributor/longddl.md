@@ -22,17 +22,8 @@ aliases:
 ## Contributed Notes
 
 ```dsql-list
-SELECT '[' || 
-  COALESCE(title, '/' || processed_path) || 
-  '](/' || processed_path || ')' AS markdown_link
-FROM (
-  SELECT 
-    file_path,
-    title,
-    date,
-    REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'),'[^a-zA-Z0-9/_-]+', '-')), '(^-|-$)', '') AS processed_path
-  FROM vault
-  WHERE ['longddl'] && authors
-)
+SELECT markdown_link(title, file_path)
+FROM vault
+WHERE ['longddl'] && authors
 ORDER BY date DESC
 ```

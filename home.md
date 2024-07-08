@@ -26,17 +26,8 @@ Learned by engineers. Experimented by engineers.
 
 ## Latest Memos
 ```dsql-list
-SELECT '[' || 
-  COALESCE(title, '/' || processed_path) || 
-  '](/' || processed_path || ')' AS markdown_link
-FROM (
-  SELECT 
-    file_path,
-    title,
-    date,
-    REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'),'[^a-zA-Z0-9/_-]+', '-')), '(^-|-$)', '') AS processed_path
-  FROM vault
-)
+SELECT markdown_link(title, file_path)
+FROM vault
 ORDER BY date DESC
 LIMIT 10;
 ```
