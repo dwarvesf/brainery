@@ -30,5 +30,6 @@ SELECT
   PICs,
   function as Function
 FROM vault
-WHERE status = 'Open'
+WHERE ['bounty'] && tags
+  AND status = 'Open'
 ```
