@@ -3,7 +3,7 @@ tags:
   - bounty
 title: "Bounty: List news from whitelisted social platforms on Fortress Bot"
 product: null
-date: 2024-07-03
+date: 2024-07-09
 description:  The purpose of the command is to show news from some whitelisted social such as Reddit, lobste.rs, etc. 
 authors: 
     - bienvh
