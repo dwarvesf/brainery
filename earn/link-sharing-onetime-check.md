@@ -6,10 +6,10 @@ product: null
 date: 2024-07-04
 description: To ignore sending ICY gift for sharing the same link multiple time.
 authors: 
-    - bienvh
+    - bievh
 due_date: null
 status: Open
-PICs: bienvh
+PICs: bievh
 completion_date: null
 bounty: 15
 hide_frontmatter: null
