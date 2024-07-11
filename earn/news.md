@@ -8,7 +8,7 @@ description:  The purpose of the command is to show news from some whitelisted s
 authors: 
     - bievh
 due_date: null
-status: Open
+status: Closed
 PICs: bievh
 completion_date: null
 bounty: 30
