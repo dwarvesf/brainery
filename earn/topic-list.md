@@ -9,8 +9,8 @@ description: The purpose of the command is to show active topic in Dwarves commu
 authors: 
     - minh_cloud
 due_date: null
-status: Open
-PICs: bievh
+status: Doing
+PICs: huymanius
 completion_date: null
 bounty: 15
 hide_frontmatter: null
