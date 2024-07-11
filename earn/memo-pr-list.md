@@ -9,7 +9,7 @@ description:  The purpose of the command is to show the list of awaiting pull re
 authors: 
     - minh_cloud
 due_date: null
-status: Done
+status: Closed
 PICs: huymanius
 completion_date: null
 bounty: 15

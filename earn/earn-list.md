@@ -9,8 +9,8 @@ description:  The purpose of the command is to show available bounty for communi
 authors: 
     - minh_cloud
 due_date: null
-status: Done
-PICs: huymaius
+status: Closed
+PICs: bievh
 completion_date: null
 bounty: 15
 hide_frontmatter: null
