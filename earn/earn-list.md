@@ -9,7 +9,7 @@ description:  The purpose of the command is to show available bounty for communi
 authors: 
     - minh_cloud
 due_date: null
-status: Done
+status: Closed
 PICs: bievh
 completion_date: null
 bounty: 15
