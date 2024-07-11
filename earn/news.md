@@ -6,10 +6,10 @@ product: null
 date: 2024-07-09
 description:  The purpose of the command is to show news from some whitelisted social such as Reddit, lobste.rs, etc. 
 authors: 
-    - bienvh
+    - bievh
 due_date: null
 status: Open
-PICs: bienvh
+PICs: bievh
 completion_date: null
 bounty: 30
 hide_frontmatter: null
