@@ -8,7 +8,7 @@
 	branch = master
 [submodule "playground"]
 	path = playground
-	url = git@github.com:dwarvesf/brain.git
+	url = git@github.com:dwarvesf/playground.git
 	branch = master
 [submodule "careers"]
 	path = careers
