@@ -21,9 +21,9 @@ In the upcoming phase, the team will focus on streamlining processes and develop
 
 We're also introducing tooling for submitting fleet notes directly on Discord and automating the distribution of ICY to everyone. However, the amount of ICY distributed is still below the team's limit, so there's plenty of room for more contributions. Everyone can join hands.
 
-![](assets/13-more-than-lines-of-code-icy-updates.png)
+![](assets/13-more-than-lines-of-code-icy-updates.webp)
 
-![](assets/13-more-than-lines-of-code-memo.png)
+![](assets/13-more-than-lines-of-code-memo.webp)
 
 ### Summer snapshots: where our remote team works
 This summer, our team's "Summer Times, Where Are You Working From?" updates took us on a virtual journey around the world. We saw it all: Swiss mountains, Vietnamese beaches, killer nail art, desks so neat they spark joy, anime havens, and even our COO chilling beachside (while "working," of course). 
@@ -32,16 +32,16 @@ These snapshots of our team's lives—filled with personal flair, with a mix of 
 
 [Check out the full recap of our team's summer escapades.](https://memo.d.foundation/updates/digest/12-where-are-you-working-from-this-summer/)
 
-![](assets/13-more-than-lines-of-code-summer.png)
+![](assets/13-more-than-lines-of-code-summer.webp)
 
-![](assets/13-more-than-lines-of-code-summer-moments.png)
+![](assets/13-more-than-lines-of-code-summer-moments.webp)
 
 ### A fond farewell and best wishes to our teammate Hieu Phan
 As you all saw in the lobby last Friday, we had our final team dinner with @hieuthu1 before his move to the US. The memories we made together in Vietnam will always stay with us, even as he embarks on his new journey under American skies. 
 
 He was always a caring presence at Hado, a fantastic cook, and a friend who joined us on afternoon walks after work, always connecting everyone on the team. We wish you all the best on your new adventure and don't forget to call us.
 
-![](assets/13-more-than-lines-of-code-farewell.png)
+![](assets/13-more-than-lines-of-code-farewell.webp)
 
 ![](assets/13-more-than-lines-of-code-farewell.png)
 
@@ -52,6 +52,6 @@ Of course, with such happy news, the playful banter has already begun: who's goi
 
 In the meantime, we're sending Thanh and his family all the best as they navigate the joys (and sleepless nights!) of parenthood.
 
-![](assets/13-more-than-line-code-new-born.png)
+![](assets/13-more-than-lines-of-code_13-more-than-line-code-new-born.webp)
 
 From tech tips to tiny toes, this week's digest reminds us that we're more than just a team. So, whether you're sharing a memo, a vacation snapshot, or a life-changing announcement, remember: that we're here to celebrate it with you.  
