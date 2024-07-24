@@ -2,6 +2,7 @@
 tags: 
   - ops
   - bounty
+  - fortress
 title: "Bounty: Earn list on the Fortress Bot"
 product: null
 date: 2024-07-03

@@ -2,6 +2,7 @@
 tags: 
   - ops
   - bounty
+  - fortress
 title: "Bounty: Memo PR list Fortress Bot"
 product: null
 date: 2024-07-03

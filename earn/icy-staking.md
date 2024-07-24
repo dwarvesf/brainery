@@ -1,7 +1,7 @@
 ---
 tags:
   - earn
-  - fortress
+  - tono
   - bounty
 title: $icy staking
 product: null

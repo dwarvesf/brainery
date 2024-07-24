@@ -2,6 +2,7 @@
 tags: 
   - ops
   - bounty
+  - tono
 title: "Bounty: Push note from Discord to Github PR automatically"
 product: null
 date: 2024-07-01
