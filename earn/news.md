@@ -1,6 +1,7 @@
 ---
 tags: 
   - bounty
+  - fortress
 title: "Bounty: List news from whitelisted social platforms on Fortress Bot"
 product: null
 date: 2024-07-09
