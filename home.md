@@ -29,7 +29,7 @@ Learned by engineers. Experimented by engineers.
 SELECT markdown_link(title, file_path)
 FROM vault
 ORDER BY date DESC
-LIMIT 5;
+LIMIT 5
 ```
 
 ## Upcoming Events
@@ -38,7 +38,7 @@ SELECT markdown_link(title, file_path)
 FROM vault
 WHERE ['ogif'] && tags
 ORDER BY date DESC
-LIMIT 5;
+LIMIT 5
 ```
 
 ## Open Bounty
@@ -62,7 +62,7 @@ SELECT markdown_link(title, file_path)
 FROM vault
 WHERE ['weekly-digest'] && tags
 ORDER BY date DESC
-LIMIT 5;
+LIMIT 5
 ```
 
 ## Open positions
@@ -73,5 +73,5 @@ FROM vault
 WHERE ['hiring'] && tags
   AND hiring = true
 ORDER BY date DESC
-LIMIT 5;
+LIMIT 5
 ```
