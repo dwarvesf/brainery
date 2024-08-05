@@ -3,9 +3,9 @@ tags:
   - office-hours
   - ogif
   - discord
-title: "OGIF Office Hours #17 - Community Call July"
+title: "OGIF Office Hours #17 - Community Call July, C4 Model, and Interview Life in the US"
 date: 2024-08-05
-description: Join us for our seventeenth OGIF community call on July 17th, where we'll discuss the current state of technology investment in Vietnam, introduce a new referral and commission model for the team, present the C4 model for subscription systems, and interview Hieu about his experience living in the US. We'll wrap up with plans for next week's meeting. This session will be guided by topics selected through community input, promoting a collaborative and insightful environment for all participants."
+description: Join us for our seventeenth OGIF community call on Aug 2nd, where we'll discuss the current state of technology investment in Vietnam, introduce a new referral and commission model for the team, present the C4 model for subscription systems, and interview Hieu about his experience living in the US. We'll wrap up with plans for next week's meeting. This session will be guided by topics selected through community input, promoting a collaborative and insightful environment for all participants."
 authors:
   - innno_
 ---
