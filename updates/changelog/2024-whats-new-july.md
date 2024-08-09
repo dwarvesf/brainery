@@ -19,7 +19,7 @@ authors:
 - [**Golang Enterprise:**](#dwarves-advancing-with-golang-enterprise-solutions-and-industry-insights) Dwarves advancing with Golang and sharing insights through weekly commentary.
 - [**Pricing Model - Bill by Hours:**](#pricing-model-bill-by-hours) Introduction of an hourly billing model to ensure fairness, flexibility, control, and transparency in engagements.
 
-![](assets/2024-whats-new-july-thumbnail.png)
+![](assets/2024-whats-new-july-thumbnail.webp)
 
 ## Reporting tech signals - AI advancements, cybersecurity focus, and shifting software trends
 In July, the tech landscape saw significant advancements in AI, a heightened focus on cybersecurity, and notable shifts in software development trends.
@@ -34,7 +34,7 @@ In July, the tech landscape saw significant advancements in AI, a heightened foc
 
 [Read the full report here.](https://memo.d.foundation/playground/01_literature/market-report-july-2024/)
 
-![](assets/2024-whats-new-july-tech-report.png)
+![](assets/2024-whats-new-july-tech-report.webp)
 
 ## New memo command to boost team contributions
 In the upcoming phase, the team will focus on streamlining processes and developing tools to make memo submission easier for everyone. Here are two ways we’re helping you stay up to speed:
@@ -63,9 +63,9 @@ We've seen a great increase in memo input from members this month. Here’s the 
 14. [Error handling on Rust](https://memo.d.foundation/playground/01_literature/error-handling-in-rust/), [Rust Trait](https://memo.d.foundation/playground/00_fleeting/rust-trait/) - [@trankhacvy](https://github.com/trankhacvy)
 15. [Proximal Policy Optimization](https://memo.d.foundation/playground/00_fleeting/proximal-policy-optimization/) - [@ngocthanh](https://github.com/thanhpn)
 
-![](assets/2024-whats-new-july-memo-update.png)
+![](assets/2024-whats-new-july-memo-update.webp)
 
-![](assets/2024-whats-new-july-memo-command.png)
+![](assets/2024-whats-new-july-memo-command.webp)
 
 ## Dwarves token usage for July
 We’ve seen active participation from everyone, and it’s great to see so many members getting rewarded. This month, we handed out ~857 ICY for all your contributions, a significant increase from June’s.
@@ -91,7 +91,7 @@ Leading firms like 500 Startups Vietnam, VSV Capital, and VinaCapital Ventures a
 
 [**Read Vietnam Tech Ecosystem 2024 Report.**](https://memo.d.foundation/playground/01_literature/vietnam-tech-ecosystem-report/)
 
-![](assets/2024-whats-new-july-vietnam-market.png)
+![](assets/2024-whats-new-july-vietnam-market.webp)
 
 ## OGIF automation recording and topics overview
 To improve the efficiency and accessibility of recording our OGIF sessions, thanks to @quang, @tom, and @innno_ for their efforts in streamlining the automation recording process.
@@ -121,4 +121,4 @@ In response to the economic challenges and the demand for comprehensive solution
 
 To understand how this new model benefits both our team and our clients, read the full article [here](https://memo.d.foundation/playbook/business/pricing-model-bill-by-hours/).
 
-![](assets/2024-whats-new-july-bill-by-hour.png)
+![](assets/2024-whats-new-july-bill-by-hour.webp)
