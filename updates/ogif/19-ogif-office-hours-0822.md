@@ -3,14 +3,14 @@ tags:
   - office-hours
   - ogif
   - discord
-title: "OGIF Office Hours #19 - Golang weekly, Designing for forgiveness, File sharing system design, Diffy AI demo"
+title: "OGIF Office Hours #19 - Golang weekly, Designing for forgiveness, File sharing system design, Dify AI demo"
 date: 2024-08-22
-description: OGIF 19 dives into essential topics including Go 1.23 updates, effective UI error handling, and a detailed Diffy AI demo. We explore common Go pitfalls, best practices for database design, and strategies for optimizing queries. The session also features a practical demonstration of integrating AI into development workflows with Diffy AI.
+description: OGIF 19 dives into essential topics including Go 1.23 updates, effective UI error handling, and a detailed Dify AI demo. We explore common Go pitfalls, best practices for database design, and strategies for optimizing queries. The session also features a practical demonstration of integrating AI into development workflows with Dify AI.
 authors:
   - innno_
 ---
 
-90 minutes
+82 minutes
 
 ### Topics & Highlights
 
@@ -34,9 +34,9 @@ Detailed presentation on the design and implementation of a file-sharing system,
 
 Strategies for optimizing queries to achieve faster system performance.
 
-**01:00:17 - Diffy AI Demo and Workflow Automation**
+**01:00:17 - Dify AI Demo and Workflow Automation**
 
-Demonstration of Diffy AI tools and workflow automation, showcasing how to integrate AI into system workflows and optimize processes using AI-powered agents.
+Demonstration of Dify AI tools and workflow automation, showcasing how to integrate AI into system workflows and optimize processes using AI-powered agents.
 
 **01:12:16 - Summary and Concluding Thoughts**
 
@@ -86,7 +86,7 @@ Wrapping up the session with key takeaways and a final summary.
 
 **00:39:05** - Để hệ thống hoạt động một cách hiệu quả, chúng ta cần phải cẩn thận với việc quản lý quyền truy cập và chia sẻ dữ liệu. Các tính năng như phân quyền và thiết lập mật khẩu cần được triển khai cẩn thận để đảm bảo rằng chỉ những người được ủy quyền mới có thể truy cập vào dữ liệu quan trọng.
 
-**00:41:28** - Chắc là em cứ reset luôn. Em gửi file đó cho mọi người rồi, để anh chia sẻ màn hình cho, Tôm xem màn hình giúp em với. Em hết cách rồi, không đăng nhập được qua web nữa. Anh mà nó vẫn không ăn thua, thôi để em thoát hẳn web ra luôn. Được rồi, giờ mọi người nhìn thấy màn hình của em chưa? OK, thấy rồi nhé, tiếp tục với agenda thôi anh em ơi.
+**00:41:28** - Được rồi, giờ mọi người nhìn thấy màn hình của em chưa? OK, thấy rồi nhé, tiếp tục với agenda thôi anh em ơi.
 
 **00:42:43** - Bài hôm nay em sẽ nói về việc thiết kế một hệ thống chia sẻ tệp tin (sharing file system). Hệ thống này sẽ không có nhiều điều mới mẻ, nhưng em hy vọng nếu ai đó từng làm các project tương tự thì có thể tiết kiệm thời gian tìm hiểu. Bài thuyết trình của em sẽ gồm ba phần. Phần đầu tiên là overview của hệ thống.
 
@@ -126,9 +126,9 @@ Wrapping up the session with key takeaways and a final summary.
 
 **00:58:18** - Anh Hiếu, chắc anh chưa xem kỹ đoạn này, vì mấy cái này phải hiểu kỹ mới xử lý đúng được. Em có câu hỏi nào khác không? Thực ra tính năng mà Đạt vừa chia sẻ về việc chia sẻ tệp (sharing feature) khá giống với Notion hoặc Google Drive đúng không? Ừ, đúng vậy, bên VOT trước đây cũng đã từng làm một tính năng tương tự, nhưng phải xử lý đến hai hoặc ba tầng permission đúng không? Ừ, đúng rồi, rất phức tạp.
 
-**00:59:34** - Ok, mình còn mấy phút nữa để hẹn Tôm demo nhanh cái workflow bên phía đi. Đỗ xanh, có gì nhanh chóng cho em tí. Mọi người đã thấy màn hình của em chưa? Thấy rồi, OK. Thực sự không biết bắt đầu từ đâu, nhưng trong hai tháng vừa qua, team đã xây dựng một server đơn giản để test các workflow. Mục đích là để hình dung các quy trình có thể tối ưu như thế nào từ phía khách hàng, không chỉ riêng phía khách hàng mà team mình cũng có vài nhu cầu sử dụng AI nhưng chưa rõ cách tối ưu nó sao cho nhanh và gọn. Mình có thể dùng các giải pháp như Flowwise hoặc Airflow, nhưng chúng hơi phức tạp. Vì vậy, mình chọn LLM (Large Language Model) cho đơn giản hơn, mình sẽ xây dựng một agent hoặc một tool để xử lý.
+**00:59:34** - Ok, mình còn mấy phút nữa để hẹn Tom demo nhanh cái workflow bên phía đi. Trong hai tháng vừa qua, team đã xây dựng một server đơn giản để test các workflow. Mục đích là để hình dung các quy trình có thể tối ưu như thế nào từ phía khách hàng, không chỉ riêng phía khách hàng mà team mình cũng có vài nhu cầu sử dụng AI nhưng chưa rõ cách tối ưu nó sao cho nhanh và gọn. Mình có thể dùng các giải pháp như Flowwise hoặc Airflow, nhưng chúng hơi phức tạp. Vì vậy, mình chọn LLM (Large Language Model) cho đơn giản hơn, mình sẽ xây dựng một agent hoặc một tool để xử lý.
 
-**01:00:17** - Nếu chúng ta thành công trong việc này, khi xây dựng các ứng dụng khác cho khách hàng hoặc app của mình, việc triển khai sẽ dễ dàng hơn. Giờ mình sẽ giới thiệu mọi người xem cái Memo chatbot mà bên Memo đang dùng. Thực sự thì bên Memo cũng có một chatbot kết nối với Diffy, do mình lười code nên kết nối với nó để xử lý nhanh chóng hơn. Để xem nào, mạng bên Vân Phẳng dạo này cũng bị lag.
+**01:00:17** - Nếu chúng ta thành công trong việc này, khi xây dựng các ứng dụng khác cho khách hàng hoặc app của mình, việc triển khai sẽ dễ dàng hơn. Giờ mình sẽ giới thiệu mọi người xem cái Memo chatbot mà bên Memo đang dùng. Thực sự thì bên Memo cũng có một chatbot kết nối với Dify, do mình lười code nên kết nối với nó để xử lý nhanh chóng hơn. Để xem nào, mạng bên Vân Phẳng dạo này cũng bị lag.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8qR8-2GxFgs?si=rSHJIdlRTNsdohGj&amp;start=3596" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -144,11 +144,11 @@ Wrapping up the session with key takeaways and a final summary.
 
 **01:07:18** - Ví dụ, nếu mình cần một chatbot để trả lời các truy vấn SQL, miễn là mình có một database và một sơ đồ schema rõ ràng, mình có thể yêu cầu AI query các ghi chú mới nhất trong Memo. Một số truy vấn phức tạp có thể rất khó làm bằng tay, nhưng với việc sử dụng AI, mình có thể nhập đủ context và để AI xử lý phần còn lại.
 
-**01:09:55** - Những gì chúng ta làm với Diffy chủ yếu là sắp xếp các assistant hoặc code các chức năng đơn giản như agent workflow. Đây chủ yếu là việc gọi function, nhưng khi làm việc phức tạp hơn, mô hình AI vẫn có thể xử lý tốt. Ví dụ, mình đã từng xây dựng một mô hình đơn giản để báo cáo, và Diffy chỉ là một nền tảng để mình code những chức năng này.
+**01:09:55** - Những gì chúng ta làm với Dify chủ yếu là sắp xếp các assistant hoặc code các chức năng đơn giản như agent workflow. Đây chủ yếu là việc gọi function, nhưng khi làm việc phức tạp hơn, mô hình AI vẫn có thể xử lý tốt. Ví dụ, mình đã từng xây dựng một mô hình đơn giản để báo cáo, và Dify chỉ là một nền tảng để mình code những chức năng này.
 
 **01:11:27** - Nếu bạn có một server LLM hoặc một server API tương thích với OpenAI, bạn có thể tích hợp nó vào hệ thống của mình. Sau đó, bạn có thể thêm các module hoặc các chức năng mới vào nền tảng này. Điều này cho phép bạn tạo ra các ứng dụng AI phức tạp mà không cần phải xây dựng mọi thứ từ đầu.
 
-**01:12:16** - Diffy có thể được so sánh với một công cụ code AI, nhưng mình không sử dụng code trực tiếp mà chủ yếu sử dụng các chức năng mà nền tảng cung cấp để tạo chatbot hoặc agent. Bạn có thể cấu hình các system prompt và tạo các agent để xử lý các tác vụ cụ thể. Diffy giúp bạn tổ chức lại công việc này mà không cần phải rời khỏi nền tảng hoặc dùng các công cụ bên ngoài như OpenAI hoặc Anthropic.
+**01:12:16** - Dify có thể được so sánh với một công cụ code AI, nhưng mình không sử dụng code trực tiếp mà chủ yếu sử dụng các chức năng mà nền tảng cung cấp để tạo chatbot hoặc agent. Bạn có thể cấu hình các system prompt và tạo các agent để xử lý các tác vụ cụ thể. Dify giúp bạn tổ chức lại công việc này mà không cần phải rời khỏi nền tảng hoặc dùng các công cụ bên ngoài như OpenAI hoặc Anthropic.
 
 **01:13:13** - Nó cũng cho phép bạn thêm các tài liệu như PDF hoặc text để cung cấp kiến thức cho AI. Ví dụ, nếu bạn có kiến thức nội bộ trong công ty, bạn có thể upload và index nó để AI có thể hiểu và trả lời chính xác hơn. Một số chức năng như Google Search hoặc Doo có sẵn, bạn có thể dùng chúng để tìm kiếm trên internet và tương tác với AI.
 
@@ -156,9 +156,9 @@ Wrapping up the session with key takeaways and a final summary.
 
 **01:14:49** - Một ví dụ khác là sử dụng công cụ Tally để tìm kiếm thông tin về Paris Olympics, nó sẽ thực hiện tìm kiếm trên internet và trả về kết quả qua API. Các workflow cũng được xây dựng như một sơ đồ, cho phép bạn hình dung cách thức hoạt động của toàn bộ hệ thống.
 
-**01:15:45** - Mình biết việc giới thiệu như vậy có hơi phức tạp, nhưng ý tưởng chính là Diffy cho phép bạn tổ chức và sử dụng các công cụ AI một cách hiệu quả. Một số tool có sẵn trong Diffy là hot code, không thể tùy chỉnh nhiều, nhưng bạn có thể tự tạo các custom tools theo nhu cầu của mình.
+**01:15:45** - Mình biết việc giới thiệu như vậy có hơi phức tạp, nhưng ý tưởng chính là Dify cho phép bạn tổ chức và sử dụng các công cụ AI một cách hiệu quả. Một số tool có sẵn trong Dify là hot code, không thể tùy chỉnh nhiều, nhưng bạn có thể tự tạo các custom tools theo nhu cầu của mình.
 
-**01:16:28** - Mình có tạo ra một vài tool riêng và cũng có các tool sẵn trên nền tảng, tất cả đều là workflow được chuyển đổi thành các yêu cầu API. Bạn có thể tạo các yêu cầu như vậy để tương tác với nền tảng Diffy, ví dụ như tạo logo hoặc thực hiện các yêu cầu URL.
+**01:16:28** - Mình có tạo ra một vài tool riêng và cũng có các tool sẵn trên nền tảng, tất cả đều là workflow được chuyển đổi thành các yêu cầu API. Bạn có thể tạo các yêu cầu như vậy để tương tác với nền tảng Dify, ví dụ như tạo logo hoặc thực hiện các yêu cầu URL.
 
 **01:17:26** - Bạn có thể đặt API key của mình trong các yêu cầu này và sử dụng chúng để thực hiện các tác vụ như tìm kiếm, tạo các tác vụ mới hoặc tương tác với API bên ngoài. Điều này giúp bạn tạo ra các ứng dụng tùy chỉnh mà không cần phải viết code quá nhiều.
 
@@ -206,7 +206,7 @@ Wrapping up the session with key takeaways and a final summary.
 
 **00:39:05** - For the system to operate efficiently, we need to be careful with access management and data sharing. Features like permissions and password settings should be carefully implemented to ensure that only authorized users can access critical data.
 
-**00:41:28** - I think we should just reset everything. I've already sent that file to everyone; let me share my screen, Tôm, could you check the screen for me? I’ve tried everything, but I can’t log in through the web anymore. If it still doesn’t work, I'll completely log out of the web. OK, now can everyone see my screen? Great, let's move on with the agenda.
+**00:41:28** - I think we should just reset everything. I've already sent that file to everyone; let me share my screen, Tom, could you check the screen for me? I’ve tried everything, but I can’t log in through the web anymore. If it still doesn’t work, I'll completely log out of the web. OK, now can everyone see my screen? Great, let's move on with the agenda.
 
 **00:42:43** - Today, I’ll talk about designing a sharing file system. This system might not have many new things, but I hope if anyone has worked on similar projects, they can save time in researching. My presentation will have three parts. The first part is the system overview.
 
@@ -244,7 +244,7 @@ Wrapping up the session with key takeaways and a final summary.
 
 **00:58:18** - Anh Hiếu, you probably haven’t looked at this section carefully because you need to understand it well to handle it correctly. Do you have any other questions? Actually, the sharing feature that Đạt just shared is quite similar to Notion or Google Drive, right? Yes, exactly, VOT also developed a similar feature before, but it had to handle two or three layers of permissions, right? Yes, correct, very complex.
 
-**00:59:34** - OK, we have a few minutes left to schedule a quick demo with Tôm for the workflow on the other side. Đỗ xanh, let’s quickly get through this. Has everyone seen my screen? Yes, OK. Honestly, I don’t know where to start, but over the past two months, the team has built a simple server to test workflows. The goal is to visualize how processes can be optimized from the customer’s side, not just from our side; our team also has some needs to use AI but isn’t sure how to optimize it for speed and efficiency. We could use solutions like Flowwise or Airflow, but they’re a bit complex. That’s why I chose LLM (Large Language Model) for simplicity; I’ll build an agent or a tool to handle it.
+**00:59:34** - OK, we have a few minutes left to schedule a quick demo with Tom for the workflow on the other side. Over the past two months, the team has built a simple server to test workflows. The goal is to visualize how processes can be optimized from the customer’s side, not just from our side; our team also has some needs to use AI but isn’t sure how to optimize it for speed and efficiency. We could use solutions like Flowwise or Airflow, but they’re a bit complex. That’s why I chose LLM (Large Language Model) for simplicity; I’ll build an agent or a tool to handle it.
 
 **01:00:17** - If we succeed in this, when building other applications for customers or our app, implementation will be easier. Now I’ll introduce you to the Memo chatbot that Memo is using. Honestly, Memo also has a chatbot connected to Diffy; since I’m lazy to code, I connected it to handle things more quickly. Let’s see, the network has been lagging recently.
 
@@ -260,19 +260,19 @@ Wrapping up the session with key takeaways and a final summary.
 
 **01:07:18** - For example, if I need a chatbot to respond to SQL queries, as long as I have a database and a clear schema, I can have the AI query the latest notes in Memo. Some complex queries can be very difficult to do manually, but with AI, I can input enough context and let the AI handle the rest.
 
-**01:09:55** - What we do with Diffy is mainly to organize assistants or code simple functions like agent workflows. This mainly involves calling functions, but when doing more complex work, the AI model can still handle it well. For instance, I’ve built a simple reporting model before, and Diffy is just a platform for me to code these functions.
+**01:09:55** - What we do with Dify is mainly to organize assistants or code simple functions like agent workflows. This mainly involves calling functions, but when doing more complex work, the AI model can still handle it well. For instance, I’ve built a simple reporting model before, and Dify is just a platform for me to code these functions.
 
 **01:11:27** - If you have an LLM server or an API server compatible with OpenAI, you can integrate it into your system. Then, you can add modules or new features to this platform. This allows you to create complex AI applications without having to build everything from scratch.
 
-**01:12:16** - Diffy can be compared to an AI coding tool, but I don’t use direct code; instead, I mainly use the functions provided by the platform to create chatbots or agents. You can configure system prompts and create agents to handle specific tasks. Diffy helps you organize this work without having to leave the platform or use external tools like OpenAI or Anthropic.
+**01:12:16** - Dify can be compared to an AI coding tool, but I don’t use direct code; instead, I mainly use the functions provided by the platform to create chatbots or agents. You can configure system prompts and create agents to handle specific tasks. Dify helps you organize this work without having to leave the platform or use external tools like OpenAI or Anthropic.
 
 **01:13:13** - It also allows you to add documents like PDFs or text to provide knowledge to the AI. For example, if you have internal knowledge within the company, you can upload and index it so that the AI can understand and respond more accurately. Some functions like Google Search or Doo are available, which you can use to search the internet and interact with the AI.
 
 **01:14:49** - Another example is using the Tally tool to search for information about the Paris Olympics; it will search the internet and return results via API. The workflows are also built like a diagram, allowing you to visualize how the entire system operates.
 
-**01:15:45** - I know this introduction might sound a bit complex, but the main idea is that Diffy allows you to organize and use AI tools effectively. Some tools are pre-coded in Diffy and can’t be customized much, but you can create custom tools according to your needs.
+**01:15:45** - I know this introduction might sound a bit complex, but the main idea is that Dify allows you to organize and use AI tools effectively. Some tools are pre-coded in Dify and can’t be customized much, but you can create custom tools according to your needs.
 
-**01:16:28** - I’ve created a few custom tools, and there are also tools available on the platform; all are workflows converted into API requests. You can create such requests to interact with the Diffy platform, like generating a logo or making URL requests.
+**01:16:28** - I’ve created a few custom tools, and there are also tools available on the platform; all are workflows converted into API requests. You can create such requests to interact with the Dify platform, like generating a logo or making URL requests.
 
 **01:17:26** - You can place your API key in these requests and use them to perform tasks like searching, creating new tasks, or interacting with external APIs. This helps you create custom applications without having to write too much code.
 
