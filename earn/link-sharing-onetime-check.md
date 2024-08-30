@@ -8,7 +8,7 @@ description: To ignore sending ICY gift for sharing the same link multiple time.
 authors: 
     - bievh
 due_date: null
-status: Open
+status: Done
 PICs: bievh
 completion_date: null
 bounty: 15
