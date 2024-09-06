@@ -41,7 +41,7 @@ Practical insights are brought to the table, and we work through them together�
 
 Plus, there’s a new Fortress bot feature to check available ICY for grabbing, making it easier to see what’s up for grabs. 
 
-Big thanks to the contributions from both the team and community: @tom, @lapnn, @theoctopus, @minhlq, @taipham, @vincent, @phucld, @julis, @antran, @innno_ @minh_cloud, @bienvh, @huymaius, @huytq, @datnguyennnx, @nam, @hieuthu1, @tristran. 
+Big thanks to the contributions from both the team and community: @tom, @lapnn, @theoctopus, @minhlq, @taipham, @vincent, @phucld, @julis, @antran, @innno_, @minh_cloud, @bienvh, @huymaius, @huytq, @datnguyennnx, @nam, @hieuthu1, @tristran. 
 
 Here’s what we covered in August:
 
