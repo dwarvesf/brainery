@@ -13,7 +13,6 @@ authors:
 85 minutes
 
 ### Topics and Highlights
-
 - Live coding demo showcased data engineering techniques.
 - Introduced Agent Zero for automated data processing.
 - Demonstrated data cleaning and analysis using CSV files.
@@ -336,7 +335,7 @@ Mỗi lần check-in, các bạn sẽ nhận ICY. Hiện nay, số ICY chưa đ�
 
 Kỳ vọng là đến nửa năm sau sẽ có iPhone 16 để đổi thưởng, hoặc nhanh hơn là đổi MacBook, nhưng còn tùy vào sự đóng góp của mọi người. Về chính sách, team chỉ có thể đặt ra những chính sách như vậy, còn mọi người có hưởng ứng hay không thì tùy.
 
-**01:24:30** Nếu không có gì khác, thì hẹn gặp anh em vào thứ tư tuần sau nhé, để tiếp tục các phần còn lại. Nhớ là đừng quên check-in qua "We" nhé. Ok, vậy là hết rồi. Nếu có vấn đề gì thắc mắc, mọi người cứ hỏi. Nếu không thì mình sẽ kết thúc ở đây.
+**01:24:30** Nếu không có gì khác, thì hẹn gặp anh em vào thứ tư tuần sau nhé, để tiếp tục các phần còn lại. Nhớ là đừng quên check-in nhé. Ok, vậy là hết rồi. Nếu có vấn đề gì thắc mắc, mọi người cứ hỏi. Nếu không thì mình sẽ kết thúc ở đây.
 
 Tạm biệt mọi người.
 
