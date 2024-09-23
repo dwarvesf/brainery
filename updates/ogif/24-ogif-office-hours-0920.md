@@ -3,7 +3,7 @@ tags:
   - office-hours
   - ogif
   - discord
-title: "OGIF Office Hours #24 - Go weekly,AI-Driven Workflows, Holistic Team AI Demo, and Figma to UI Component with Claude"
+title: "OGIF Office Hours #24 - Go weekly, AI-Driven Workflows, Holistic Team AI Demo, and Figma to UI Component with Claude"
 date: 2024-09-23
 description: In our OGIF office hour 24 covers AI-driven workflows with Tom, a demo with the Holistic team, and Figma integration with Claude for UI components and Go commentary. Highlights include Agent Zero's data automation capabilities, Figma-to-code conversion, and the benefits of in-office collaboration for efficient knowledge transfer and AI/ML learning.
 authors:
@@ -21,6 +21,8 @@ authors:
 - Figma to code conversion for UI components.
 - AI integration for automating repetitive tasks.
 - Discussed team collaboration and knowledge sharing.
+
+---
 
 **Vietnamese Transcript**
 
@@ -336,7 +338,7 @@ Kỳ vọng là đến nửa năm sau sẽ có iPhone 16 để đổi thưởng,
 
 **01:24:30** Nếu không có gì khác, thì hẹn gặp anh em vào thứ tư tuần sau nhé, để tiếp tục các phần còn lại. Nhớ là đừng quên check-in qua "We" nhé. Ok, vậy là hết rồi. Nếu có vấn đề gì thắc mắc, mọi người cứ hỏi. Nếu không thì mình sẽ kết thúc ở đây.
 
-Tạm biệt mọi người, bye anh em.
+Tạm biệt mọi người.
 
 ---
 
@@ -656,4 +658,4 @@ The goal is that by mid-year, we might have enough points for an iPhone 16, or m
 
 **01:24:30** If there’s nothing else, I’ll see everyone next Wednesday to continue with the rest. Don’t forget to check in via "We." Okay, that’s all. If anyone has any questions, feel free to ask. If not, we’ll wrap up here.
 
-Goodbye, everyone. Bye, team.
+Goodbye everyone. 
