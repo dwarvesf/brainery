@@ -1,0 +1,1 @@
+To summarize the video transcription for the YouTube URL you provided, I'll first need to obtain the transcript using the available tool. Let me do that for you.
