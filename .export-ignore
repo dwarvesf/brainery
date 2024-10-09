@@ -14,3 +14,9 @@ _reference/
 
 # ignore any base files
 _base.md
+
+# MacOS files
+.DS_Store
+.DocumentRevisions-V100
+.Spotlight-V100
+.Trash*
