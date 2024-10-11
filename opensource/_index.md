@@ -1,12 +1,14 @@
 ---
 tags:
-  - dwarves
   - opensource
-title: 'Open source'
-date: 2014-11-09
-description: Discover how Dwarves embraces open source, supporting community developers through community recognition and financial rewards. Find out how you can contribute to open source projects, gain ownership, and earn rewards for your work.
+  - community
+title: 'Open Source'
+date: 2024-10-11
+description: 'Open Source Software is where it starts. Being able to create and fix software is one of the big steps for developers to start transitioning into engineers. This page holds some of our views, contribution guideline, and reward policies for open source contribution in our team and our community'
 authors:
   - thanh
+  - monotykamary
+hide_frontmatter: true
 ---
 
 So much of the software we rely on every day is built on the backs of open-source projects. We believe wholeheartedly that embracing open source will make our products the best they can be.
