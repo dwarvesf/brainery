@@ -11,7 +11,7 @@ authors:
 hide_frontmatter: true
 ---
 
-## Open Source
+## Where it starts.
 
 Open source isn't just about free software. It's about freedom to create, to fix, to learn. Think of open source like a public park. Anyone can enter, play, and even help maintain it. But unlike a park, the more people use and contribute to open source, the better it gets. For developers, open source is like training wheels for becoming an engineer. You start by using others' code. Then you fix a bug. Soon, you're creating your own projects. We have a few that we manage:
 
