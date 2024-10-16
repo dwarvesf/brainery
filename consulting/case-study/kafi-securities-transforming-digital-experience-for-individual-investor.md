@@ -3,7 +3,7 @@ tags:
   - case-study
   - design
   - consulting
-title: "Kafi Securities: Transforming Digital Experience for Individual Investors"
+title: "Kafi Securities: Transforming digital experience for individual investors"
 date: 2024-10-16
 description: This case study explores Kafi Securities' digital transformation journey, focusing on the redesign of their mobile application for individual investors. It details the challenges faced, the research process undertaken to understand user needs, and the strategic approach to improving the user experience for both new and professional traders.
 authors: 
