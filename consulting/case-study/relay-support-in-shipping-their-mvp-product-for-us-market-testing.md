@@ -3,7 +3,7 @@ tags:
   - case-study
   - consulting
   - web
-title: Support Relay In Shipping Their MVP Product For Us Market Testing
+title: "Relay: Support in shipping their MVP product for US market testing"
 date: 2021-04-29
 description: Relay is an extension tool that decreases micromanagement by automating workflows.Relay's first engagement with Dwarves aims to ship their MVP to market as quick as possible for early user acquisition. We dive in with 2 quickly adapt engineers. We keep a stable pace of feature shipment and adjust along with the requirements.
 authors: 

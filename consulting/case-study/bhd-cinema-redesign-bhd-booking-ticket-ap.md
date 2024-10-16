@@ -3,9 +3,8 @@ tags:
   - consulting
   - case-study
   - UX-UI
-  - application
-title: "BHD Cinema Redesign BHD's Booking Ticket App"
-date: 2019-05-20
+title: "BHD Cinema: Redesign BHD's booking ticket app"
+date: 2020-05-20
 description: BHD is one of the biggest cinema chains in Vietnam with hundreds of thousands tickets sold monthly. However, its mobile application is a complete drawback; users cannot book tickets online, it feels and looks outdated, inconsistent and cluttered.
 authors: 
 - duy

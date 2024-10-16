@@ -3,7 +3,7 @@ tags:
   - case-study
   - consulting
   - partnership
-title: Supercharged Setel Malaysias First Pay Pump Go Super App
+title: "Setel: Supercharged Malaysia's first pay, pump & go super-app"
 date: 2021-05-27
 description: First introduced by PETRONAS in 2018, Setel is the first e-payment solution for fuel purchases directly from mobile devices.They head to unlock a bigger market by providing a super-app with on-the-go function and platform integration.
 authors: 

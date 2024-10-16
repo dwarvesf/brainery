@@ -4,7 +4,7 @@ tags:
   - blockchain
   - crypto
   - consulting
-title: "Spike Inu Engineering A Seamless Experience For Cross-chain Swap And Decentralized Exchange"
+title: "Spike Inu: Seamless experience for cross-chain swap and decentralized exchange"
 date: 2022-06-23
 description: We work with customers as if building a technology startup in the field of blockchain, it helps us to build discipline, passion as well as creativity in the product development process.
 authors: 

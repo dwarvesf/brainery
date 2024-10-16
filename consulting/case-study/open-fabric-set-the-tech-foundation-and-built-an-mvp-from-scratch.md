@@ -3,7 +3,7 @@ tags:
   - case-study
   - consulting
   - partnership
-title: Open Fabric Set The Tech Foundation And Built An MVP From Scratch
+title: "Open Fabric: Set the tech foundation and built an MVP from scratch"
 date: 2022-09-28
 description: Founded and led by veterans from fintech players like Paypal & Grab, Open Fabric is a BNPL platform, built to enable an open commerce network for customers and credit providers in South East Asia to radically simplify merchant integrations for digital payment methods. 
 authors: 

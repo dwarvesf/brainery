@@ -3,7 +3,7 @@ tags:
   - case-study
   - consulting
   - partnership
-title: "Succeed Naru - A Browser Focus Web Extension For Us Market"
+title: "Naru: A browser focus web extension for US market"
 date: 2021-04-18
 description: null
 ---

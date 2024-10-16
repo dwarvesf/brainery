@@ -4,7 +4,7 @@ tags:
   - blockchain
   - partnership
   - consulting
-title: Adopt Blockchain On Netherlands Affiliate Marketing Platform
+title: "Attrace: Blockchain adoption for Netherland's affiliate marketing platform"
 date: 2021-06-18
 description: Attrace is a Netherland decentralized affiliate marketing network that audits action and bridges e-commerce websites to merchants. Our team of 3 join them to contribute to Attrace's core function with custom-made blockchain technology.
 authors: 

@@ -3,7 +3,7 @@ tags:
   - case-study
   - partnership
   - consulting
-title: "CIMB x Dwarves x Netizen Initiating A Digital Wealth Management Experience"
+title: "CIMB: Initiating a digital wealth management experience"
 date: 2023-08-16
 description: In charge of the backend foundation, we marked a milestone in CIMB's digital transformation journey, with a streamlined, customer-focused experience contributed to CIMB's forward-looking vision.
 authors:
