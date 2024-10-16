@@ -5,7 +5,7 @@
   "taskCompletionText": "completion",
   "taskCompletionDateFormat": "yyyy-MM-dd",
   "recursiveSubTaskCompletion": false,
-  "warnOnEmptyResult": true,
+  "warnOnEmptyResult": false,
   "refreshEnabled": true,
   "refreshInterval": 2500,
   "defaultDateFormat": "MMMM dd, yyyy",
@@ -18,9 +18,10 @@
   "inlineQueryPrefix": "=",
   "inlineJsQueryPrefix": "$=",
   "inlineQueriesInCodeblocks": true,
-  "enableInlineDataview": true,
+  "enableInlineDataview": false,
   "enableDataviewJs": true,
   "enableInlineDataviewJs": true,
-  "prettyRenderInlineFields": true,
+  "prettyRenderInlineFields": false,
+  "prettyRenderInlineFieldsInLivePreview": false,
   "dataviewJsKeyword": "dataviewjs"
 }
