@@ -4,7 +4,8 @@ tags:
   - remote
   - discord
   - community
-title: "#1 What Do You Stand For?"
+title: "What Do You Stand For? - Weekly Digest #1 (April 9, 2024)"
+short_title: "#1 What do you stand for?"
 date: 2024-04-09
 description: Our Discord crew is buzzing with energy after our last Friday community call, with folks sharing snapshots of their workspaces, Anna shared the movie quote and catch-up with peeps at lobby, random channels.
 authors:

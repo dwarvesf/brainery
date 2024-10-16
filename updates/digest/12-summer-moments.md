@@ -4,7 +4,8 @@ tags:
   - team
   - remote
   - weekly-digest
-title: "#12 Where are you working from this summer?"
+title: "Where are you working from this summer? - Weekly Digest #12 (July 11, 2024)"
+short_title: "#12 Where are you working from this summer?"
 date: 2024-07-11
 description: 'There’s something special about bringing people together. Even as a remote team, we connect through shared interests and activities. "This summer, Where Are You Working From?" campaign sparked a wave of fun and connection across the team. Come along as we share the stories of our team members.'
 authors:

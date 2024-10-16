@@ -4,8 +4,9 @@ tags:
   - discord
   - community
   - team
-title: "#7 A Journey Through Time"
-date: 2024-05-25
+title: "A Journey Through Time - Weekly Digest #7 (May 30, 2024)"
+short_title: "#7 A journey through time"
+date: 2024-05-30
 description: "The sun peeks over the horizon, Saturday vibes and good news – the perfect combo. We're about to spice up your weekend with a recap of all the awesome things we whipped up this week."
 authors:
   - innno_
