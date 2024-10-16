@@ -9,7 +9,7 @@ date: 2021-02-05
 description: 2020 notable highlights and achievements 
 authors: 
   - Han 🐸
-  - nikki 
+  - nikkingtr
   - duy
 ---
 

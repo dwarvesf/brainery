@@ -49,7 +49,7 @@ Starting this April, we're excited to launch a fresh initiative focused on nurtu
 ## Demo and Showcase: Give your screenshots a cleaner look with Backr
 The next initiative in our monthly call will have a broader range of topics to discuss, including project demos and product showcases.
 
-- Elevate your screenshots with [GetBackr](https://getbackr.vercel.app/), a tool crafted by Tuan Dao. It allows you to set captivating backgrounds and make your captures look stunning.
+- Elevate your screenshots with [Backr](https://getbackr.vercel.app/), a tool crafted by Tuan Dao. It allows you to set captivating backgrounds and make your captures look stunning.
 - Also, our team member, Khac Vy actively participates in the weekly Solana event, Build Station, which is organized every Saturday. Reach out to Khac Vy if you're interested in joining. The "Build Station" offers developers a platform to connect, learn, and share experiences.
 
 **Coming up:**

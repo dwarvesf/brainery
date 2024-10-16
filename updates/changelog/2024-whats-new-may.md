@@ -1,7 +1,7 @@
 ---
 tags:
   - newsletter
-  - meetups
+  - meet-up
   - community
 title: What's New in May 2024
 date: 2024-06-13

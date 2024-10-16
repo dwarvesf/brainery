@@ -1,7 +1,7 @@
 ---
 tags:
   - newsletter
-  - meetups
+  - meet-up
   - tech-report
   - community
 title: What's New in April 2024
