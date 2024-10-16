@@ -4,11 +4,12 @@ tags:
   - partnership
   - consulting
 title: "JoinPara: Empowering healthcare staffing during COVID-19"
+short_title: JoinPara
 date: 2021-04-29
 description:  Our Covid-19 program was launched in early 2020. We aim to provide software development, technical support for startups and businesses to help them stay stable during and progress forward despite the pandemic. 
 authors: 
 - duy
-- nikki
+- nikkingtr
 ---
 
 ## In brief

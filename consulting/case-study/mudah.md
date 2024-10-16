@@ -4,12 +4,13 @@ tags:
   - microservice
   - consulting
 title: "Mudah.my: From monolithic to microservice"
+short_title: Mudah
 date: 2021-03-09
 description: Mudah.my is a Malaysian 12-years-old online marketplace. A product derives from a partnership between Telenor ASA of Norway and 701Search Singapore. We partnered to help migrating the monolithic architecture into microservices - Unlocking a scalable and feature-extendable platform.
 authors: 
 - duy
 - han
-- nikki
+- nikkingtr
 ---
 ![](assets/from-monolithic-to-microservice-sharpen-malaysias-largest-online-marketplace_6be4a77492fe56879670e7842673e411_md5.webp)
 

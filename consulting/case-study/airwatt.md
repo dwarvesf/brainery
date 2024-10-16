@@ -4,6 +4,7 @@ tags:
   - UX-UI
   - consulting
 title: "AirWatt: Apply AI/ML for IoT electricity usage solutions"
+short_title: AirWatt
 date: 2020-11-15
 description: "AirWatt's vision is to help businesses track electric usage status of electrical equipment. Hence, they can save electricity and money, even avoid disaster. The MVP must be done fast to prove the product's concept. We built Airwatt system from zero with other teams: Business, Hardware, and AI"
 authors: 

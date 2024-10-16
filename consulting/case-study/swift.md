@@ -4,6 +4,7 @@ tags:
   - case-study
   - consulting
 title: "Swift: A case study interview into micro frontend building design system for e-commerce platform"
+short_title: Swift
 date: 2023-04-03
 description: In this article, we'll dive deeper into the practice of applying micro frontend architecture at Swift - an e-commerce company and long-term partner of Dwarves Foundation
 authors: 

@@ -4,6 +4,7 @@ tags:
   - partnership
   - consulting
 title: "Reapit: Collaboration with UK residential cloud-based PaaS"
+short_title: Reapit
 date: 2021-02-13
 description: We stepped in as a Vietnam offshore team for prototypes and skunkworks. Skunkworks demands minimum team management, able to ship work in short timeline and scaling ability. 
 authors: 

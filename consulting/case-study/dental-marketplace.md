@@ -1,10 +1,10 @@
 ---
 tags: 
   - case-study
-  - design
   - UX-UI
   - consulting
 title: "Dental Marketplace: Digitalize the Singapore dentistry operation process"
+short_title: Dental Marketplace
 date: 2020-09-20
 description: Founded by Desmond Goh - a Singaporean dental surgeon, Dental Marketplace is an online platform for dental professionals to stay active in dentistry and simplify operation process. We support them with tech solution and market-fit product design. We work according with Desmond to extract business problem and propose suitable solution.
 authors: 

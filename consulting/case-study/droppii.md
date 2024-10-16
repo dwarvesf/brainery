@@ -4,6 +4,7 @@ tags:
   - case-study
   - e-commerce
 title: "Droppii: Transforming e-commerce with innovative dropshipping solutions"
+short_title: Droppii
 date: 2024-01-03
 description: Droppii, in collaboration with Dwarves Foundation, revamps its e-commerce platform, enhancing dropshipping operations with the launch of Droppii for Business v3.0. This strategic partnership focuses on improving user experience and operational efficiency through a new dashboard, CMS, and ERP system. The initiative marks a significant step in Droppii's growth in the competitive e-commerce sector, showcasing the impact of technical and strategic collaboration.
 authors:

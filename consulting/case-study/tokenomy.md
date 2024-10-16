@@ -4,11 +4,12 @@ tags:
   - consulting
   - blockchain
 title: "Tokenomy: Architect Frontend for a crypto investment ecosystem"
+short_title: Tokenomy
 date: 2021-08-09
 description: Founded in 2017 as an innovation arm of INDODAX, Tokenomy is a crypto investment network through blockchain-enabled tokens. We fully support a team of Senior Frontend Engineer, Android Mobile Engineer, and UX Designer to help them stay on track with the release timeline
 authors: 
 - han
-- nikki
+- nikkingtr
 - duy
 ---
 

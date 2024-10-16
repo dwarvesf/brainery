@@ -4,11 +4,12 @@ tags:
   - partnership
   - consulting
 title: "Voconic: A web-based cloud tool developed in partnership with Google"
+short_title: Voconic
 date: 2020-10-24
 description: We team up with them to develop Voconic - a cloud PaaS for CJC’s clients, aiming to make cloud deployment seamless across cloud providers and environment.
 authors: 
 - han
-- nikki
+- nikkingtr
 - duy
 ---
 

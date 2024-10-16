@@ -4,11 +4,12 @@ tags:
   - partnership
   - consulting
 title: "CIMB: Initiating a digital wealth management experience"
+short_title: CIMB
 date: 2023-08-16
 description: In charge of the backend foundation, we marked a milestone in CIMB's digital transformation journey, with a streamlined, customer-focused experience contributed to CIMB's forward-looking vision.
 authors:
-  - huytieu
-  - nikki
+  - huytq
+  - nikkingtr
 ---
 
 ![](assets/cimb-dwarves-x-netizen-initiating-a-digital-wealth-management-experience_2fa7fc70c8f1608d99e6ae08dad2b952_md5.webp)
