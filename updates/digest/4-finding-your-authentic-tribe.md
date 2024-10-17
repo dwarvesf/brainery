@@ -4,7 +4,7 @@ tags:
   - discord
   - community
   - team
-title: "Finding Your Authentic Tribe - Weekly Digest #4 (May 6, 2024)"
+title: "Weekly Digest #4: Finding your authentic tribe"
 short_title: "#4 Finding your authentic tribe"
 date: 2024-05-06
 description: "Welcome back to the #4 weekly digest after a long holiday. Those Discord channels are still buzzing with active messages. Without further ado, let’s see what I’ve got to share."
