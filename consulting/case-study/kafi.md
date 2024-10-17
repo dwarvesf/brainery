@@ -25,7 +25,7 @@ Kafi, with its philosophy of "Building financial dreams", aims to develop financ
 
 Kafi's mobile application targets two potential customer groups: new traders (newbie traders) and professional traders (day traders). Kafi recognizes significant growth potential in these two segments.
 
-![](assets/Kafi_Cover.png)
+![](assets/kafi-cover.png)
 
 ## Kafi's Digital Transformation Journey: From Challenges to Breakthroughs
 
