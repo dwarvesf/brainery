@@ -8,7 +8,7 @@ date: 2021-02-05
 description: 2021 notable highlights and achievements 
 authors: 
   - Han 🐸
-  - nikki 
+  - nikkingtr
   - duy
 ---
 
