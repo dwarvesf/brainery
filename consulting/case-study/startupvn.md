@@ -4,11 +4,12 @@ tags:
   - consulting
   - partnership
   - startup
-title: "Startupvn × Dwarves: Building a better community"
+title: "Startupvn: Building a better community"
+short_title: Startupvn
 date: 2021-07-29
 description: startup.vn was founded 10 years ago, when the concept of "startups" was still fairly new in Vietnam. A handful of people from diverse backgrounds joined hands to create a homeland for Vietnamese who aim at building and growing their own businesses.
 authors: 
-- nikki
+- nikkingtr
 - duy
 ---
 

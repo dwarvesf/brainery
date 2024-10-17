@@ -1,15 +1,15 @@
 ---
 tags: 
   - case-study
-  - design
   - partnership
   - consulting
-title: Advancing US Healthcare Platform JoinPara as Covid 19 Support
+title: "JoinPara: Empowering healthcare staffing during COVID-19"
+short_title: JoinPara
 date: 2021-04-29
 description:  Our Covid-19 program was launched in early 2020. We aim to provide software development, technical support for startups and businesses to help them stay stable during and progress forward despite the pandemic. 
 authors: 
 - duy
-- nikki
+- nikkingtr
 ---
 
 ## In brief

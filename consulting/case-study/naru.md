@@ -3,9 +3,13 @@ tags:
   - case-study
   - consulting
   - partnership
-title: "Succeed Naru - A Browser Focus Web Extension For Us Market"
+title: "Naru: A browser focus web extension for US market"
+short_title: Naru
 date: 2021-04-18
-description: null
+description: Naru is a browser extension designed to enhance productivity by integrating a task management system directly into users' web browsers. Developed in collaboration with a US-based digital designer, this case study highlights the challenges and solutions in creating a web extension that functions like a full-fledged application, utilizing technologies such as ShadowDOM and GraphQL to deliver a seamless user experience across browser tabs.
+authors: 
+ - duy
+ - nikkingtr
 ---
 
 ![](assets/succeed-naru-a-browser-focus-web-extension-for-us-market_succeed-naru---a-browser-focus-web-extension-for-us-market_555ddca0569a9215693380803968f618_md5.webp)

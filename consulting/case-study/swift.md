@@ -1,14 +1,14 @@
 ---
 tags: 
-  - web
-  - engineering
   - frontend
   - case-study
-title: A Case Study Interview Into Micro Frontends Building Design System For E-Commerce Platform
+  - consulting
+title: "Swift: Micro frontend design system for e-commerce"
+short_title: Swift
 date: 2023-04-03
 description: In this article, we'll dive deeper into the practice of applying micro frontend architecture at Swift - an e-commerce company and long-term partner of Dwarves Foundation
 authors: 
-- lapnguyen
+- mashiro5951
 ---
 Previously on [Why Micro-Frontend](https://memo.d.foundation/Why-micro-frontend-6d5df5b9b71e4f248a7740bc51e096a4), we took a look into what is Micro-Frontend architecture, as well as some core concepts behind it. For some of you that have missed the memo, here’s a tl;dr:
 

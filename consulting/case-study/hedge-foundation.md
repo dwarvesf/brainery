@@ -4,11 +4,12 @@ tags:
   - blockchain
   - crypto
   - consulting
-title: Hedge Foundation A Customized All In One Trading Platform For Pro Traders
+title: "Hedge Foundation: A customized all-in-one trading platform for pro traders"
+short_title: Hedge Foundation
 date: 2022-06-17
 description: Move alongside the crypto era, Hedge Foundation works to be part of the industry by providing practical tools for crypto users in terms of automating, syncing & managing accounts by utilizing the most out of market database.
 authors: 
-- nikki
+- nikkingtr
 - duy
 ---
 ![](assets/hedge-foundation-a-customized-all-in-one-trading-platform-for-pro-traders_7a9cdd9e9da725426a2859509b94f1d3_md5.webp)

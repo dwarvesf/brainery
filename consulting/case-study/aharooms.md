@@ -3,12 +3,13 @@ tags:
   - case-study
   - design
   - consulting
-title: The Development Journey With Aharooms Vietnam Hospitality Growth Solutions
+title: "Aharooms: Vietnam hospitality growth solutions"
+short_title: Aharooms
 date: 2020-12-01
 description: Their vision was to build an MVP for market testing in no time. Aharooms's system had almost 2 years in development. It demands high effort to balance new feature development with technical debt.We step in as product team and venture builder. We take on the development stage that supercharges their product development.
 authors: 
 - duy
-- nikki
+- nikkingtr
 - han
 ---
 

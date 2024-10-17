@@ -3,12 +3,13 @@ tags:
   - case-study
   - partnership
   - consulting
-title: "Team Up With BaseHQ - US First-ever Platform Built For Assistants"
+title: "BaseHQ: US first-ever platform built for assistants"
+short_title: BaseHQ
 date: 2021-08-06
-description: 
+description: Base is a software platform built specifically for executive assistants, aiming to streamline their daily work through high integration between different platforms. This case study details Dwarves' two-year partnership with Base, helping them develop new modules and features to meet their release roadmap and ensure product quality.
 authors: 
 - duy
-- nikki
+- nikkingtr
 ---
 ![](assets/team-up-with-basehq-us-first-ever-platform-built-for-assistants_team-up-with-basehq---us-first-ever-platform-built-for-assistants_019ef328b59808b45c4541243f71c875_md5.webp)
 

@@ -4,7 +4,8 @@ tags:
   - AI
   - consulting
   - partnership
-title: "Development Journey with Search.io Australia AI Power Search Solutions"
+title: "Search.io: Development journey with Australia AI Power Search Solutions"
+short_title: Search.io
 date: 2021-08-10
 description: The Dwarves partnered with Search.io to help with their Console dashboard app, improve open-source packages quality and tailor the brand UI for plugin consumers.
 authors: 

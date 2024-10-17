@@ -3,7 +3,8 @@ tags:
   - case-study
   - consulting
   - partnership
-title: "Help Momos Team Build An MVP Shopify For F&B Merchandises In Singapore"
+title: "Momos: Help build an MVP Shopify for F&B merchandises in Singapore"
+short_title: Momos
 date: 2021-07-01
 description: Our team of 3 join them to bring development timeline up to speed as well as improving the core tech foundation to pave the way for a scalable, future-proof system. The collaboration happens remotely since March 2021
 authors: 
