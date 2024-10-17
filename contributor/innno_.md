@@ -1,6 +1,7 @@
 ---
 social: 
   - https://github.com/innnotruong
+  - https://www.linkedin.com/in/mytruong1372/
 github: https://github.com/innnotruong
 website: null
 avatar: https://cdn.discordapp.com/avatars/753995829559165044/8b291f806142f1191cdaac2ae993a819
