@@ -3,7 +3,8 @@ tags:
   - partnership
   - wala
   - summit
-title: "Dwarves x Techie x DZS Media WALA: Lessons from film production for software engineering"
+title: "DZS Media WALA: Lessons from film production for software engineering"
+short_title: DZS Media
 date: 2024-10-16
 description: Our visit to DZS Media, a successful film production company in Ho Chi Minh City, revealed surprising parallels between film production and software engineering. We learned valuable lessons about meticulous planning, getting things right the first time, and the importance of expertise in both industries.
 authors:
