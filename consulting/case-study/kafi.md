@@ -85,7 +85,7 @@ Investing is a complex field that requires a solid foundation of knowledge, posi
 
 Recognizing this challenge, the design team set out to transform the application into a reliable guide for new investors. They decided to integrate a comprehensive support system, including contextual help such as smart tooltips, pop-up windows providing detailed information, and an elegantly designed interactive help panel. These features allow users to easily access important knowledge without feeling overwhelmed. 
 
-![](<assets/Kafi_Helping New Investors.png>)
+![](assets/kafi-helping-new-investors.png)
 
 For example, when a new investor is viewing a stock price chart, the interactive help panel can:
 
@@ -101,9 +101,9 @@ The design team also improved Kafi's user interface, simplifying it so that new 
 - **Less is more:** Eliminating unnecessary elements helps make the interface cleaner and easier to use.
 - **Focus on functionality:** Every element on the interface must serve a specific purpose, which is to help users execute transactions quickly and efficiently.
 
-![](<assets/Kafi - Moodboard.png>)
+![](assets/kafi-moodboard.png)
 
-![](<assets/Kafi_Helping New Investors2.png>)
+![](assets/kafi-helping-new-investors-2.png)
 
 ### Step-by-Step Guide for Easy Onboarding
 
@@ -119,7 +119,7 @@ Investors, especially professional ones, need advanced support tools to make inf
 
 After registration, the application **applies a user classification system to divide users into different groups** (such as beginners, intermediate investors, and professionals). Each group receives a personalized experience with guidance content and tools tailored to their specific level of understanding and investment goals. For example, beginners may receive basic investment lessons, while professional investors are provided with advanced analytical tools.
 
-![](<assets/Kafi_Designing Tools for Different User Groups.png>)
+![](assets/kafi-designing-tools-for-different-user-groups.png)
 
 This approach not only enhances the user experience but also promotes continuous development of investors on the Kafi platform. By providing content and tools appropriate for each stage of development, Kafi creates a dynamic learning and investment ecosystem, encouraging users to constantly improve their knowledge and skills. This method meets the specific needs of each customer segment while maintaining a simple and accessible application. As a result, Kafi becomes a flexible platform, effectively serving both beginners and experienced investors, creating a diverse and vibrant investment community.
 
