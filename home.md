@@ -32,9 +32,9 @@ ORDER BY date DESC
 LIMIT 5
 ```
 
-## Upcoming Events
+## OGIFs
 ```dsql-list
-SELECT markdown_link(title, file_path)
+SELECT markdown_link(COALESCE(short_title, title), file_path)
 FROM vault
 WHERE ['ogif'] && tags
 ORDER BY date DESC
