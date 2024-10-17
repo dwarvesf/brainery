@@ -3,8 +3,7 @@ tags:
   - partnership
   - wala
   - summit
-title: "SP Group WALA: Insights on digital transformation and partnership in energy sector"
-short_title: SP Group
+title: "SP Group: Powering change through digital transformation in energy"
 date: 2024-06-05
 description: We’ve always wanted to visit SP Group, one of our partners, but the pandemic made it impossible until now. This year, the opportunity finally came when we decided to attend Echelon X in Singapore.
 authors:

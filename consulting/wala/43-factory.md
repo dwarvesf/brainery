@@ -3,8 +3,7 @@ tags:
   - partnership
   - wala
   - summit
-title: "43 Factory WALA: Lessons from coffee craftsmanship for software engineering"
-short_title: 43 Factory
+title: "43 Factory: Coffee craft meets code"
 date: 2024-10-16
 description: Our visit to 43 Factory, a unique coffee shop in Danang, revealed surprising parallels between coffee craftsmanship and software engineering. We learned valuable lessons about talent management, quality delivery, attention to detail, continuous learning, and brand representation through passionate staff.
 authors:
