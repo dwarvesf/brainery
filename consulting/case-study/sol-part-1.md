@@ -44,3 +44,5 @@ During these interviews, I found people enjoy because they love to travel, they 
 
 ### Personas
 Using my interviews I combined my findings to create three personas that would be typical users of Sol.
+
+> Next: [Sol: Planning app part 2](sol-part-2.md)

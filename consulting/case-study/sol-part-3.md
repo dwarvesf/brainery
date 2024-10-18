@@ -123,3 +123,5 @@ The result
 
 ## Reference
 https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc
+
+> Previous: [Sol: Planning app part 2](sol-part-2.md)

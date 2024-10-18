@@ -73,3 +73,5 @@ When the user taps on a member they receive detail information about where that 
 Throughout this stage, we have had a chance to learn more about designing an app UI. It was fun trying out the color variations and arranging the elements as well. Next time, we will share our process of motion design. Hope you will like it.
 
 Take a look at our last article on UX case study of the app View.
+
+> Next: [Sol: Planning app part 3](sol-part-3.md)
