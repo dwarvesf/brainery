@@ -26,7 +26,7 @@ Our working environment is dynamic. Instead of pure knowledge / learning session
 
 We also monitor the industry and report on what is being built, what is creating impact, and turn them into use-cases for practices and productions.  
   
-We work in close collaboration with the [[playground/_index|Labs Team]] and product team, to offer to specialized expertise to clients across various industries to ensure we apply our insights and learning to client projects.
+We work in close collaboration with the Labs Team and product team, to offer to specialized expertise to clients across various industries to ensure we apply our insights and learning to client projects.
 
 ### What we work forward to
 We set out to become a team that can deliver the best client satisfaction possible, meaning continuously improve services. That involves taking care of the full project life cycle from providing client with the right solution, meeting their needs and constraints, to developing, delivering, transferring ownership.  
@@ -40,7 +40,7 @@ We are looking for signals from members who are starting to show more involvemen
   
 Once we invite you to the team, we will equip you with workshops on consulting, marketing & sales in tech, and also assign a mentors to support you along the way. We will have a month of trial to produce actual outputs together, before the final decisions.
 
-[[Consulting - Who should join us|Are you a fit to join the Consulting team?]]
+[Consulting - Who Should Join Us](consulting-who-should-join-us.md)
 
 ### How do we reward?
 Below are a few activities that we current have rewards for:  
@@ -53,13 +53,11 @@ Below are a few activities that we current have rewards for:
 Team members' effort is rewarded base on the weight of their contributions. The rewards range from ICY, to Dwarves token DFG, to % on project revenue. 
 
 ### Latest from Consulting Team
-- [[consulting/Partners Network.md|Partners Network]] - nikki, han
-- [[consulting/case-study/droppii-dwarves-case-study.md|Droppii x Dwarves: Transforming E-Commerce with Innovative Dropshipping Solutions]] - huytq, han
-- [[consulting/Consultant Growth Track.md|Consultant Growth Track]] - nikki
-- [[consulting/Consulting - Who we are.md|Consulting - Who We Are]] - nikki
-- [[consulting/Consulting - Who should join us.md|Consulting - Who should join us]] - nikki
-- [[consulting/Consulting - How we work.md|Consulting - How we work]] - nikki
-- [[consulting/case-study/konvoy-x-dwarves.md|Konvoy X Dwarves]]
-- [[consulting/case-study/cimb-dwarves-x-netizen-initiating-a-digital-wealth-management-experience.md|Cimb Dwarves X Netizen Initiating A Digital Wealth Management Experience]]
-- [[consulting/case-study/a-case-study-interview-into-micro-frontends-building-design-system-for-e-commerce-platform.md|A Case Study Interview Into Micro Frontends Building Design System For E Commerce Platform]]
-- [[consulting/case-study/open-fabric-set-the-tech-foundation-and-built-an-mvp-from-scratch.md|Open Fabric Set The Tech Foundation And Built An Mvp From Scratch]]
+```dsql-list
+SELECT markdown_link(COALESCE(short_title, title), file_path)
+FROM vault
+WHERE file_path ILIKE '%consulting%'
+  OR ['partners', 'consulting'] && tags
+ORDER BY date DESC
+LIMIT 10;
+```
