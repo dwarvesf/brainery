@@ -58,7 +58,7 @@ WHERE ['bounty'] && tags
 ## Team Digest
 
 ```dsql-list
-SELECT markdown_link(title, file_path)
+SELECT markdown_link(COALESCE(short_title, title), file_path)
 FROM vault
 WHERE ['weekly-digest'] && tags
 ORDER BY date DESC
