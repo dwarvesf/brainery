@@ -5,7 +5,7 @@ tags:
   - consulting
   - partnership
 title: "Sol: Planning app part 1"
-short_title: Sol
+short_title: Sol Part 1
 date: 2020-10-10
 description: "The mobile app Sol is a travel app focused on some highlight features: planning trips, managing members and expenses, and tracking/sharing location. In facts, when traveling by groups, we often face some troubles: getting lost, confusing with plans, hard-communicating and the most challenging thing: managing expenses. This app provides some solutions to these problems."
 authors: 
@@ -44,3 +44,5 @@ During these interviews, I found people enjoy because they love to travel, they 
 
 ### Personas
 Using my interviews I combined my findings to create three personas that would be typical users of Sol.
+
+> Next: [Sol: Planning app part 2](sol-part-2.md)
