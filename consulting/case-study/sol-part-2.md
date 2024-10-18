@@ -5,7 +5,7 @@ tags:
   - consulting
   - partnership
 title: "Sol: Travel planning app part 2"
-short_title: Sol
+short_title: Sol Part 2
 date: 2020-10-01
 description: Following the previous article on UX case study of Sol — Travel App, an app that was tailored to meet the needs of groups on traveling days. In this article, we will describe our creative process of the UI for it. We choose iOS as our platform to be presented, considering that it is the more favored devices being used.
 authors: 

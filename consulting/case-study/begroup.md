@@ -4,6 +4,7 @@ tags:
   - partnership
   - consulting
 title: "beGroup: Augmented team to ship beCorporate services"
+short_title: beGroup
 date: 2020-11-18
 description: They look to ship in short timeline. The current engineering team was working on the 1st release of ride-hailing app. Wrap-up beCorporate adds a step in perfecting their service.
 authors: 
