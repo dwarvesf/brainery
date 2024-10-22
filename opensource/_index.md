@@ -54,6 +54,31 @@ Too often, the tireless maintainers behind the open-source projects we can't liv
 
 > ICY is Dwarves community token. 1 ICY = $1.5
 
+### Hall of Fame
+
+We show our deep appreciation for the open-source projects built by our community members:
+
+| Project Name                                                                         | Description                                                                                                               | Maintainer                                      |
+| ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| [LLM Hosting](https://github.com/dwarvesf/llm-hosting/)                              | Managing server processes for embeddings using the Infinity Embedding model or LLMs with an OpenAI-compatible vLLM server | [monotykamary](https://github.com/monotykamary) |
+| [Hidden Bar for MacOS](https://github.com/dwarvesf/hidden)                           | An ultra-light MacOS utility that helps hide menu bar icons                                                               | [phucledien](https://github.com/phucledien)     |
+| [Mochi UI](https://github.com/consolelabs/mochi-ui)                                  | Beautiful and accessible React UI library for building web3 applications                                                  | [thanh](https://github.com/zlatanpham)          |
+| [Blurred for MacOS](https://github.com/dwarvesf/blurred)                             | A macOS utility that helps reduce distraction by dimming your inactive noise                                              | [phucledien](https://github.com/phucledien)     |
+| [Devpod Provider Paperspace](https://github.com/dwarvesf/devpod-provider-paperspace) | A Paperspace provider for DevPod                                                                                          | [monotykamary](https://github.com/monotykamary) |
+| [NextJS Boilerplate](https://github.com/dwarvesf/nextjs-boilerplate)                 | Opinionated React template for building web applications at scale                                                         | [thanh](https://github.com/zlatanpham)          |
+| [Go API Boilerplate](https://github.com/dwarvesf/go-api)                             | Go boilerplate streamlines new projects with a predefined structure and base code                                         | [hieuphq](https://github.com/hieuphq)           |
+| [React Toolkit](https://github.com/dwarvesf/react-toolkit)                           | Frontend utility packages for React                                                                                       | [thanh](https://github.com/zlatanpham)          |
+
+Additionally, for those who have contributed impactful pull requests to other open-source softwares:
+
+| PR Title                                                                                                       | Project                                                        | Contributor                                     |
+| -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------- |
+| [Add clickhouse support](https://github.com/pressly/goose/pull/208)                                            | [goose](https://github.com/pressly/goose)                      | [huynguyenh](https://github.com/huynguyenh)     |
+| [Fix undefined response from get-github-info call](https://github.com/changesets/changesets/pull/510)          | [changesets](https://github.com/changesets/changesets)         | [tuanddd](https://github.com/tuanddd)           |
+| [Add typescript example for agent simulation evaluation](https://github.com/langchain-ai/langgraphjs/pull/467) | [langgraphjs](https://github.com/langchain-ai/langgraphjs)     | [nnhuyhoang](https://github.com/nnhuyhoang)     |
+| [Update env configuration for development](https://github.com/kinopio-club/kinopio-apple/pull/1)               | [kinopio-apple](https://github.com/kinopio-club/kinopio-apple) | [phucledien](https://github.com/phucledien)     |
+| [Add OpenAI's new structured output API](https://github.com/brainlid/langchain/pull/180)                       | [brainlid/langchain](https://github.com/brainlid/langchain)    | [monotykamary](https://github.com/monotykamary) |
+
 At the end of the day, open source is about the people behind the code. It's about all of you. And we want to recognize, support and reward you for building software that makes all our lives better.
 
 Let's do this thing. 💪
