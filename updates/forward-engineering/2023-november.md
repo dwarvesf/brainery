@@ -5,6 +5,7 @@ tags:
   - AI
   - performance
 title: Forward Engineering November 2023
+short_title: November 2023
 date: 2023-11-30
 description: We have focused on revamping how we learn, familiarize, and work with tech. We are excited to announce that we have updated our Forward Engineering to better reflect the feedback and insights from our Labs team, Operations Team, and Consulting Team.
 authors:

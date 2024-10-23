@@ -4,7 +4,8 @@ tags:
   - market-report
   - forward-engineering
   - radar
-title: 'Forward Engineering Q3, 2024'
+title: 'Forward Engineering Quarter, 2024'
+short_title: Quarter 3 2024
 date: 2024-09-17
 description: 'In Q3/2024 Forward Engineering, we explore new tech stacks, engineering excellence, and key trends from the tech market over the past three months, with a focus on AI. Learn about tools like Dify, LangGraph, RAG, and more as we share our experiments and insights. Whether you’re interested in AI-driven workflows or tech market trends like the surge in AI startups and hiring demand.'
 authors:
