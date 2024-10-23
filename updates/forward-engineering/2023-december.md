@@ -5,6 +5,7 @@ tags:
   - AI
   - LLM
 title: Forward Engineering December 2023
+short_title: December 2023
 date: 2023-01-19
 description: We have focused on revamping how we learn, familiarize, and work with tech. We are excited to announce that we have updated our Forward Engineering to better reflect the feedback and insights from our Labs team, Operations Team, and Consulting Team.
 authors:
