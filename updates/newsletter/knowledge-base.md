@@ -3,9 +3,9 @@ tags:
     - knowledge
     - updates
     - llm
-title: The stages of hiring at Dwarves
+title: Build your knowledge base
 date: 2024-10-25
-description: 
+description: In the AI era, where information is instant, a personal knowledge base is your curated mixtape of insights. It offers efficiency, depth, and creativity that AI can't replicate, ensuring your unique voice shines amid machine-made content
 authors:
   - han
   - nikki
