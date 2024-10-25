@@ -24,7 +24,7 @@ While the format is informal, the content is substantive. We've had sessions cov
 Stay up to date with our Latest OGIFs:
 
 ```dsql-list
-SELECT markdown_link(title, file_path)
+SELECT markdown_link(COALESCE(short_title, title), file_path)
 FROM vault
 WHERE ['ogif'] && tags
 ORDER BY date DESC
