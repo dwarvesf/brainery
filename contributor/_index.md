@@ -6,9 +6,9 @@ authors:
   - monotykamary
 tags: null
 hide_frontmatter: true
+hide_on_sidebar: true
 ---
 <div class="profile"/>
 
 undefined
 ## Contributed Notes
-
