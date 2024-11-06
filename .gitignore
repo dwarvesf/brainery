@@ -36,3 +36,5 @@ obsidian.zip
 .obsidian-git-data
 
 .DS_Store
+.aider*
+.env
