@@ -18,7 +18,7 @@ What made it special? Letting things flow naturally. Despite working 100% remote
 
 ![](assets/2024-summit-building-bonds-our-way-penang.png)
 
-### Taking the leap beyond borders
+## Taking the leap beyond borders
 Stepping into Penang sparked something special. First-time travelers got their passport stamps while seasoned ones became guides, sharing tips from local dishes to hidden street art spots. This wasn't just a gathering; it was our first shared adventure abroad.
 
 ## Remote-first, but never distant
