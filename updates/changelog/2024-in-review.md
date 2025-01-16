@@ -156,7 +156,7 @@ Tech kept moving in 2024, and the changes caught our attention. New partnerships
 
 May took us to Singapore's Echelon Asia Summit, where [@tieubao](https://memo.d.foundation/contributor/tieubao), [@nikki](https://memo.d.foundation/contributor/nikki), and [@huytq](https://memo.d.foundation/contributor/huytq)  explored Southeast Asia’s tech future, uncovering trends in funding, AI, and emerging APAC projects.
 
-## Expanding skills and expertise to meet the demands
+### Expanding skills and expertise to meet the demands
 Generative AI shifted how we talked about projects. Clients looked beyond specialists, wanting people who could mix backend with blockchain, blend full-stack with data skills. Work concentrated on four areas: **Blockchain, Data, Platform Engineering, AI/LLM.**
 
 Our engineering team embraced these shifts naturally, adding new strengths while staying rooted in solid engineering practices.
@@ -169,7 +169,7 @@ The year brought changes to how we deliver value. We moved to hourly billing - g
 
 ![](assets/2024-in-review-hourly-billing.png)
 
-## Refining service packages for what clients actually need
+### Refining service packages for what clients actually need
 We’re re-centering our focus to meet the moment. AI, blockchain, data - this is where we’re investing our time and talent, as we keep pace with client needs and market demands.
 
 1. **Consulting shift**: As client requirements change, so do our team’s. We’re doubling down on adaptable, high-impact contributors while others may pause or refocus to match our direction.
