@@ -26,7 +26,7 @@ Learned by engineers. Experimented by engineers.
 
 ## Latest Memos
 ```dsql-list
-SELECT markdown_link(title, file_path)
+SELECT markdown_link(OALESCE(short_title, title), file_path)
 FROM vault
 ORDER BY date DESC
 LIMIT 5
