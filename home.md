@@ -24,7 +24,8 @@ Written by Dwarves for product craftsmen.
 
 Learned by engineers. Experimented by engineers.
 
-## Latest Memos
+## ✨ New memos
+
 ```dsql-list
 SELECT markdown_link(COALESCE(short_title, title), file_path)
 FROM vault
@@ -32,7 +33,8 @@ ORDER BY date DESC
 LIMIT 5
 ```
 
-## OGIFs
+## 🩷 OGIFs
+
 ```dsql-list
 SELECT markdown_link(COALESCE(short_title, title), file_path)
 FROM vault
@@ -41,21 +43,20 @@ ORDER BY date DESC
 LIMIT 5
 ```
 
-## Open Bounty
+## 💰 Open bounties
 
 ```dsql-table
 SELECT
   markdown_link(title, file_path) as Title,
   bounty as '💰 Bounty',
-  status as Status,
-  PICs,
-  function as Function
+  status as Status
 FROM vault
 WHERE ['bounty'] && tags
   AND status = 'Open'
+LIMIT 5
 ```
 
-## Team Digest
+## 📝 Changelog
 
 ```dsql-list
 SELECT markdown_link(COALESCE(short_title, title), file_path)
@@ -65,7 +66,7 @@ ORDER BY date DESC
 LIMIT 5
 ```
 
-## Open positions
+## 🤝 Open positions
 
 ```dsql-list
 SELECT markdown_link(title, file_path)
@@ -75,3 +76,23 @@ WHERE ['hiring'] && tags
 ORDER BY date DESC
 LIMIT 5
 ```
+
+---
+
+<div class="love-what-we-are-doing">
+  <h6>Love what we are doing?</h6>
+  <ul>
+    <li>
+      <a href="https://discord.gg/dwarvesv">🩷 Join our Discord Network →</a>
+    </li>
+    <li>
+      <a href="https://github.com/dwarvesf/playground">🔥 Contribute to our Memo → </a>
+    </li>
+    <li>
+      <a href="https://careers.d.foundation/">🤝 Join us, we are hiring →</a>
+    </li>
+    <li>
+      <a href="http://memo.d.foundation/earn/"> 🙋 Give us a helping hand →</a>
+    </li>
+  </ul>
+</div>
