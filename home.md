@@ -44,13 +44,20 @@ SELECT
         '<a id="memo-' || item_number || '" class="event" href="/' || REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') || '">'  || 
        
       
-        '<div class="event-image"><img class="no-zoom" src="' || COALESCE(
-    NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''),
-    'https://placehold.co/600x400'
-) || '" alt="Memo Image" />' || '</div>' || '<div class="event-body">' || '<div  class="event-title">' || 
+        '<div class="event-image"><img class="no-zoom" src="' || 
+    (CASE 
+        WHEN LEFT(COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL), 1) = '/' 
+        OR LEFT(COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL), 4) = 'http' 
+        THEN COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL)
+        WHEN COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL) IS NULL 
+        OR COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), '') = '' 
+        THEN 'assets/home_cover.webp'
+        ELSE REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REGEXP_REPLACE(file_path, '/[^/]+\.md$', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') ||'/' || COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL)
+    END) 
+|| '" alt="Memo Image" />' || '</div>' || '<div class="event-body">' || '<div  class="event-title">' || 
         REPLACE(REPLACE(REPLACE(COALESCE(short_title, title), '&', '&'), '<', '<'), '>', '>') ||'</div>' || '<div class="event-time">' || 
 REPLACE(REPLACE(REPLACE(
-    strftime('%B %d, %Y', date), -- Format the date as "December 13, 2023"
+    strftime('%B %d, %Y', date), 
     '&', '&'), 
     '<', '<'), 
     '>', '>'
@@ -85,10 +92,17 @@ SELECT
     '<div id="new-memos" class="memo-list" data-placement="vertical">' || 
     GROUP_CONCAT(
         '<a id="memo-' || item_number || '" class="memo" href="/' || REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') || '">' || 
-       '<div class="memo-image"><img class="no-zoom" src="' || COALESCE(
-    NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''),
-    'https://placehold.co/600x400'
-) || '" alt="Memo Image" />' || '</div>'
+       '<div class="memo-image"><img class="no-zoom" src="' || 
+    (CASE 
+        WHEN LEFT(COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL), 1) = '/' 
+        OR LEFT(COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL), 4) = 'http' 
+        THEN COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL)
+        WHEN COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL) IS NULL 
+        OR COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), '') = '' 
+        THEN 'assets/home_cover.webp'
+        ELSE REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REGEXP_REPLACE(file_path, '/[^/]+\.md$', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') ||'/' || COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL)
+    END) 
+|| '" alt="Memo Image" />' || '</div>'
 ||'<div class="memo-body">'||
         '<h3 class="memo-title">' || REPLACE(REPLACE(REPLACE(COALESCE(short_title, title), '&', '&'), '<', '<'), '>', '>') || '</h3>' || 
          '<div class="memo-desc">' || REPLACE(REPLACE(REPLACE(description, '&', '&'), '<', '<'), '>', '>') || '</div>' || 
@@ -167,7 +181,7 @@ SELECT
          '<div class="memo-desc">' || REPLACE(REPLACE(REPLACE(description, '&', '&'), '<', '<'), '>', '>') || '</div>' || 
           '<div class="memo-time">' || 
 REPLACE(REPLACE(REPLACE(
-    strftime('%B %d, %Y', date), -- Format the date as "December 13, 2023"
+    strftime('%B %d, %Y', date), 
     '&', '&'), 
     '<', '<'), 
     '>', '>'
@@ -208,12 +222,41 @@ FROM sorted_vault;
 ## 📝 Changelog
 
 ```dsql-list
-SELECT markdown_link(COALESCE(short_title, title), file_path)
-FROM vault
-WHERE ['weekly-digest'] && tags
+WITH sorted_vault AS (
+    SELECT
+        short_title,
+        title,
+        file_path,
+        date,
+        ROW_NUMBER() OVER () AS item_number
+    FROM vault
+   WHERE ['weekly-digest'] && tags
 ORDER BY date DESC
-LIMIT 3
+    LIMIT 3
+)
+SELECT
+    '<div id="changelog" class="changelog-list" data-placement="vertical">' || 
+    GROUP_CONCAT(
+        '<div id="memo-' || item_number || '" class="changelog" >' 
+||
+        '<a class="changelog-title" href="/' || REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') || '">' || REPLACE(REPLACE(REPLACE(COALESCE(short_title, title), '&', '&'), '<', '<'), '>', '>') || '</a>' || 
+        '<span class="changelog-time"> - '  || 
+REPLACE(REPLACE(REPLACE(
+    strftime('%B %d, %Y', date), 
+    '&', '&'), 
+    '<', '<'), 
+    '>', '>'
+) || '</span>'
+        '</div>',
+        ''
+    )|| 
+    '</a>' || 
+    '</div>' AS open_positions_html
+FROM sorted_vault;
 ```
+
+
+
 
 
 
