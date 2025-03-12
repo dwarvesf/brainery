@@ -31,7 +31,7 @@ WITH sorted_vault AS (
         short_title,
         title,
         file_path,
-        md_content,
+        md_content,date,
         ROW_NUMBER() OVER () AS item_number
     FROM vault
     WHERE ['ogif'] && tags
@@ -48,7 +48,13 @@ SELECT
     NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''),
     'https://placehold.co/600x400'
 ) || '" alt="Memo Image" />' || '</div>' || '<div class="event-body">' || '<div  class="event-title">' || 
-        REPLACE(REPLACE(REPLACE(COALESCE(short_title, title), '&', '&'), '<', '<'), '>', '>') ||'</div>' || '<div class="event-time">December 13, 2023 </div>' || '</div>' || 
+        REPLACE(REPLACE(REPLACE(COALESCE(short_title, title), '&', '&'), '<', '<'), '>', '>') ||'</div>' || '<div class="event-time">' || 
+REPLACE(REPLACE(REPLACE(
+    strftime('%B %d, %Y', date), -- Format the date as "December 13, 2023"
+    '&', '&'), 
+    '<', '<'), 
+    '>', '>'
+) || '</div>' ||  '</div>' || 
         '</a>',
         ''
     ) || 
@@ -62,10 +68,43 @@ FROM sorted_vault;
 ## ✨ New memos
 
 ```dsql-list
-SELECT markdown_link(COALESCE(short_title, title), file_path)
-FROM vault
-ORDER BY date DESC
-LIMIT 5
+WITH sorted_vault AS (
+    SELECT
+        short_title,
+        title,
+        file_path,
+        description,
+        authors,
+        md_content,
+        ROW_NUMBER() OVER () AS item_number
+    FROM vault
+    ORDER BY date DESC
+    LIMIT 5
+)
+SELECT
+    '<div id="new-memos" class="memo-list" data-placement="vertical">' || 
+    GROUP_CONCAT(
+        '<a id="memo-' || item_number || '" class="memo" href="/' || REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') || '">' || 
+       '<div class="memo-image"><img class="no-zoom" src="' || COALESCE(
+    NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''),
+    'https://placehold.co/600x400'
+) || '" alt="Memo Image" />' || '</div>'
+||'<div class="memo-body">'||
+        '<h3 class="memo-title">' || REPLACE(REPLACE(REPLACE(COALESCE(short_title, title), '&', '&'), '<', '<'), '>', '>') || '</h3>' || 
+         '<div class="memo-desc">' || REPLACE(REPLACE(REPLACE(description, '&', '&'), '<', '<'), '>', '>') || '</div>' || 
+       '<div class="memo-author">' || 
+REPLACE(REPLACE(REPLACE(
+    ARRAY_TO_STRING(authors, ', '), -- Convert array to string (comma-separated)
+    '&', '&'), 
+    '<', '<'), 
+    '>', '>'
+) || '</div>'
+        '</div>',
+        ''
+    )|| 
+    '</a>' || 
+    '</div>' AS latest_memos_html
+FROM sorted_vault;
 ```
 
 ## 🩷 OGIFs
