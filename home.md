@@ -197,25 +197,25 @@ FROM sorted_vault;
 
 ## 📡 What’s on our Radar
 <div class ="radar-list">
-<a class="radar" href="https://zustand-demo.pmnd.rs/">
-<div class="radar-image" ><img class="no-zoom" src="/assets/icons/zustand.png"/></div>
-<p class="radar-title">Zustand</p>
+<a class="radar" href="https://dify.ai">
+<div class="radar-image" ><img class="no-zoom p-1" src="https://framerusercontent.com/images/KWDRAMQLGjoMFBAjNjoCFMP7XI.png"/></div>
+<p class="radar-title">Dify</p>
 </a>
-<a class="radar" href="https://zod.dev">
-<div class="radar-image" ><img class="no-zoom" src="https://zod.dev/logo.svg"/></div>
-<p class="radar-title">Zod</p>
+<a class="radar" href="https://elevenlabs.io/">
+<div class="radar-image" ><img class="no-zoom" src="https://elevenlabs.io/icon.svg"/></div>
+<p class="radar-title">Elevenlabs</p>
 </a>
-<a class="radar" href="https://github.com/jquense/yup">
-<div class="radar-image" ><img class="no-zoom" src="/assets/icons/yup.png"/></div>
-<p class="radar-title">Yup</p>
+<a class="radar" href="https://www.langchain.com/">
+<div class="radar-image" ><img class="no-zoom" src="https://cdn.prod.website-files.com/65b8cd72835ceeacd4449a53/65c50ca94c9fe4ac7c52b415_webClip.png"/></div>
+<p class="radar-title">LangChain</p>
 </a>
-<a class="radar" href="https://webflow.com">
-<div class="radar-image" ><img class="no-zoom" src="/assets/icons/webflow.png"/></div>
-<p class="radar-title">Webflow</p>
+<a class="radar" href="https://www.cursor.com/">
+<div class="radar-image" ><img class="no-zoom" src="https://www.cursor.com/apple-touch-icon.png"/></div>
+<p class="radar-title">Cursor</p>
 </a>
-<a class="radar" href="https://webdriver.io">
-<div class="radar-image" ><img class="no-zoom" src="/assets/icons/webdriverio.png"/></div>
-<p class="radar-title">Webdriverio</p>
+<a class="radar" href="https://mcp.so/">
+<div class="radar-image" ><img class="no-zoom" src="https://mcp.so/logo.png"/></div>
+<p class="radar-title">MCP server</p>
 </a>
 </div>
 
