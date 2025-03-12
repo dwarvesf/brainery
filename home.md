@@ -24,6 +24,41 @@ Written by Dwarves for product craftsmen.
 
 Learned by engineers. Experimented by engineers.
 
+## 🩷 Upcoming events
+```dsql-list
+WITH sorted_vault AS (
+    SELECT
+        short_title,
+        title,
+        file_path,
+        md_content,
+        ROW_NUMBER() OVER () AS item_number
+    FROM vault
+    WHERE ['ogif'] && tags
+    ORDER BY date DESC
+    LIMIT 5
+)
+SELECT
+    '<div id="upcoming-events" class="upcoming-events" data-placement="horizontal">' || 
+    GROUP_CONCAT(
+        '<a id="memo-' || item_number || '" class="event" href="/' || REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') || '">'  || 
+       
+      
+        '<div class="event-image"><img class="no-zoom" src="' || COALESCE(
+    NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''),
+    'https://placehold.co/600x400'
+) || '" alt="Memo Image" />' || '</div>' || '<div class="event-body">' || '<div  class="event-title">' || 
+        REPLACE(REPLACE(REPLACE(COALESCE(short_title, title), '&', '&'), '<', '<'), '>', '>') ||'</div>' || '<div class="event-time">December 13, 2023 </div>' || '</div>' || 
+        '</a>',
+        ''
+    ) || 
+    '</div>' AS latest_ogifs_html
+FROM sorted_vault;
+```
+
+<div><a class="all-events" href="/updates/ogif/">View all events</a></div>
+
+
 ## ✨ New memos
 
 ```dsql-list
