@@ -36,7 +36,7 @@ WITH sorted_vault AS (
     FROM vault
     WHERE ['ogif'] && tags
     ORDER BY date DESC
-    LIMIT 5
+    LIMIT 3
 )
 SELECT
     '<div id="upcoming-events" class="upcoming-events" data-placement="horizontal">' || 
@@ -79,7 +79,7 @@ WITH sorted_vault AS (
         ROW_NUMBER() OVER () AS item_number
     FROM vault
     ORDER BY date DESC
-    LIMIT 5
+    LIMIT 3
 )
 SELECT
     '<div id="new-memos" class="memo-list" data-placement="vertical">' || 
@@ -107,28 +107,103 @@ REPLACE(REPLACE(REPLACE(
 FROM sorted_vault;
 ```
 
-## 🩷 OGIFs
+## 🤝 Open positions
 
 ```dsql-list
-SELECT markdown_link(COALESCE(short_title, title), file_path)
-FROM vault
-WHERE ['ogif'] && tags
-ORDER BY date DESC
-LIMIT 5
-```
-
-## 💰 Open bounties
-
-```dsql-table
+WITH sorted_vault AS (
+    SELECT
+        short_title,
+        title,
+        file_path,
+        description,
+        ROW_NUMBER() OVER () AS item_number
+    FROM vault
+    WHERE ['hiring'] && tags
+  AND hiring = true
+    ORDER BY date DESC
+    LIMIT 3
+)
 SELECT
-  markdown_link(title, file_path) as Title,
-  bounty as '💰 Bounty',
-  status as Status
-FROM vault
-WHERE ['bounty'] && tags
-  AND status = 'Open'
-LIMIT 5
+    '<div id="open-positions" class="memo-list" data-placement="vertical">' || 
+    GROUP_CONCAT(
+        '<div id="memo-' || item_number || '" class="memo no-image" >' 
+||'<div class="memo-body">'||
+        '<a class="memo-title" href="/' || REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') || '">' || REPLACE(REPLACE(REPLACE(COALESCE(short_title, title), '&', '&'), '<', '<'), '>', '>') || '</a>' || 
+         '<div class="memo-desc">' || REPLACE(REPLACE(REPLACE(description, '&', '&'), '<', '<'), '>', '>') || '</div>' || 
+        '</div>'
+        '</div>',
+        ''
+    )|| 
+    '</a>' || 
+    '</div>' AS open_positions_html
+FROM sorted_vault;
 ```
+
+
+
+
+## 🌺 Life at Dwarves
+
+```dsql-list
+WITH sorted_vault AS (
+    SELECT
+        short_title,
+        title,
+        file_path,
+        description,date,
+        ROW_NUMBER() OVER () AS item_number
+    FROM vault
+    WHERE ['team'] && tags
+
+    ORDER BY date DESC
+    LIMIT 3
+)
+SELECT
+    '<div id="open-positions" class="memo-list" data-placement="vertical">' || 
+    GROUP_CONCAT(
+        '<div id="memo-' || item_number || '" class="memo no-image" >' 
+||'<div class="memo-body">'||
+        '<a class="memo-title" href="/' || REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') || '">' || REPLACE(REPLACE(REPLACE(COALESCE(short_title, title), '&', '&'), '<', '<'), '>', '>') || '</a>' || 
+         '<div class="memo-desc">' || REPLACE(REPLACE(REPLACE(description, '&', '&'), '<', '<'), '>', '>') || '</div>' || 
+          '<div class="memo-time">' || 
+REPLACE(REPLACE(REPLACE(
+    strftime('%B %d, %Y', date), -- Format the date as "December 13, 2023"
+    '&', '&'), 
+    '<', '<'), 
+    '>', '>'
+) || '</div>'||
+        '</div>'
+        '</div>',
+        ''
+    )|| 
+    '</a>' || 
+    '</div>' AS team_html
+FROM sorted_vault;
+```
+
+## 📡 What’s on our Radar
+<div class ="radar-list">
+<a class="radar" href="https://zustand-demo.pmnd.rs/">
+<div class="radar-image" ><img class="no-zoom" src="/assets/icons/zustand.png"/></div>
+<p class="radar-title">Zustand</p>
+</a>
+<a class="radar" href="https://zod.dev">
+<div class="radar-image" ><img class="no-zoom" src="https://zod.dev/logo.svg"/></div>
+<p class="radar-title">Zod</p>
+</a>
+<a class="radar" href="https://github.com/jquense/yup">
+<div class="radar-image" ><img class="no-zoom" src="/assets/icons/yup.png"/></div>
+<p class="radar-title">Yup</p>
+</a>
+<a class="radar" href="https://webflow.com">
+<div class="radar-image" ><img class="no-zoom" src="/assets/icons/webflow.png"/></div>
+<p class="radar-title">Webflow</p>
+</a>
+<a class="radar" href="https://webdriver.io">
+<div class="radar-image" ><img class="no-zoom" src="/assets/icons/webdriverio.png"/></div>
+<p class="radar-title">Webdriverio</p>
+</a>
+</div>
 
 ## 📝 Changelog
 
@@ -137,19 +212,10 @@ SELECT markdown_link(COALESCE(short_title, title), file_path)
 FROM vault
 WHERE ['weekly-digest'] && tags
 ORDER BY date DESC
-LIMIT 5
+LIMIT 3
 ```
 
-## 🤝 Open positions
 
-```dsql-list
-SELECT markdown_link(title, file_path)
-FROM vault
-WHERE ['hiring'] && tags
-  AND hiring = true
-ORDER BY date DESC
-LIMIT 5
-```
 
 ---
 
