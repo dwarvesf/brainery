@@ -25,6 +25,7 @@ Written by Dwarves for product craftsmen.
 Learned by engineers. Experimented by engineers.
 
 ## 🩷 Upcoming events
+
 ```dsql-list
 WITH sorted_vault AS (
     SELECT
@@ -39,38 +40,37 @@ WITH sorted_vault AS (
     LIMIT 3
 )
 SELECT
-    '<div id="upcoming-events" class="h-list" data-placement="horizontal">' || 
+    '<div id="upcoming-events" class="h-list" data-placement="horizontal">' ||
     GROUP_CONCAT(
-        '<a id="memo-' || item_number || '" class="h-list-item" href="/' || REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') || '">'  || 
-       
-      
-        '<div class="h-list-item-image"><img class="no-zoom" src="' || 
-    (CASE 
-        WHEN LEFT(COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL), 1) = '/' 
-        OR LEFT(COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL), 4) = 'http' 
+        '<a id="memo-' || item_number || '" class="h-list-item" href="/' || REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') || '">'  ||
+
+
+        '<div class="h-list-item-image"><img class="no-zoom" src="' ||
+    (CASE
+        WHEN LEFT(COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL), 1) = '/'
+        OR LEFT(COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL), 4) = 'http'
         THEN COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL)
-        WHEN COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL) IS NULL 
-        OR COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), '') = '' 
+        WHEN COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL) IS NULL
+        OR COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), '') = ''
         THEN 'assets/home_cover.webp'
         ELSE REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REGEXP_REPLACE(file_path, '/[^/]+\.md$', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') ||'/' || COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL)
-    END) 
-|| '" alt="Memo Image" />' || '</div>' || '<div class="h-list-item-body">' || '<div  class="h-list-item-title">' || 
-        REPLACE(REPLACE(REPLACE(COALESCE(short_title, title), '&', '&'), '<', '<'), '>', '>') ||'</div>' || '<div class="h-list-item-time">' || 
+    END)
+|| '" alt="Memo Image" />' || '</div>' || '<div class="h-list-item-body">' || '<div  class="h-list-item-title">' ||
+        REPLACE(REPLACE(REPLACE(COALESCE(short_title, title), '&', '&'), '<', '<'), '>', '>') ||'</div>' || '<div class="h-list-item-time">' ||
 REPLACE(REPLACE(REPLACE(
-    strftime('%B %d, %Y', date), 
-    '&', '&'), 
-    '<', '<'), 
+    strftime('%B %d, %Y', date),
+    '&', '&'),
+    '<', '<'),
     '>', '>'
-) || '</div>' ||  '</div>' || 
+) || '</div>' ||  '</div>' ||
         '</a>',
         ''
-    ) || 
+    ) ||
     '</div>' AS latest_ogifs_html
 FROM sorted_vault;
 ```
 
 <div><a class="list-view-all-btn" href="/updates/ogif/">View all events</a></div>
-
 
 ## ✨ New memos
 
@@ -89,34 +89,34 @@ WITH sorted_vault AS (
     LIMIT 3
 )
 SELECT
-    '<div id="new-memos" class="v-list" data-placement="vertical">' || 
+    '<div id="new-memos" class="v-list" data-placement="vertical">' ||
     GROUP_CONCAT(
-        '<a id="memo-' || item_number || '" class="v-list-item" href="/' || REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') || '">' || 
-       '<div class="v-list-item-image"><img class="no-zoom" src="' || 
-    (CASE 
-        WHEN LEFT(COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL), 1) = '/' 
-        OR LEFT(COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL), 4) = 'http' 
-        THEN COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL)
-        WHEN COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL) IS NULL 
-        OR COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), '') = '' 
-        THEN 'assets/home_cover.webp'
-        ELSE REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REGEXP_REPLACE(file_path, '/[^/]+\.md$', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') ||'/' || COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL)
-    END) 
-|| '" alt="Memo Image" />' || '</div>'
-||'<div class="v-list-item-body">'||
-        '<h3 class="v-list-item-title">' || REPLACE(REPLACE(REPLACE(COALESCE(short_title, title), '&', '&'), '<', '<'), '>', '>') || '</h3>' || 
-         '<div class="v-list-item-desc">' || REPLACE(REPLACE(REPLACE(description, '&', '&'), '<', '<'), '>', '>') || '</div>' || 
-       '<div class="v-list-item-author">' || 
-REPLACE(REPLACE(REPLACE(
-    ARRAY_TO_STRING(authors, ', '), 
-    '&', '&'), 
-    '<', '<'), 
-    '>', '>'
-) || '</div>'
+        '<div id="memo-' || item_number || '" class="v-list-item" >' ||
+        '<div class="v-list-item-image"><img class="no-zoom" src="' ||
+        (CASE
+            WHEN LEFT(COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL), 1) = '/'
+            OR LEFT(COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL), 4) = 'http'
+            THEN COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL)
+            WHEN COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL) IS NULL
+            OR COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), '') = ''
+            THEN 'assets/home_cover.webp'
+            ELSE REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REGEXP_REPLACE(file_path, '/[^/]+\.md$', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') ||'/' || COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL)
+        END)
+        || '" alt="Memo Image" />' || '</div>' ||
+        '<div class="v-list-item-body">' ||
+            '<a class="v-list-item-title" href="/' || REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') || '">' || REPLACE(REPLACE(REPLACE(COALESCE(short_title, title), '&', '&amp;'), '<', '&lt;'), '>', '&gt;') || '</a>' ||
+            '<div class="v-list-item-desc">' || REPLACE(REPLACE(REPLACE(description, '&', '&amp;'), '<', '&lt;'), '>', '&gt;') || '</div>' ||
+            '<div class="v-list-item-author">' ||
+                REPLACE(REPLACE(REPLACE(
+                    ARRAY_TO_STRING(authors, ', '),
+                    '&', '&amp;'),
+                    '<', '&lt;'),
+                    '>', '&gt;')
+            || '</div>' ||
+        '</div>' ||
         '</div>',
         ''
-    )|| 
-    '</a>' || 
+    ) ||
     '</div>' AS latest_memos_html
 FROM sorted_vault;
 ```
@@ -138,23 +138,20 @@ WITH sorted_vault AS (
     LIMIT 3
 )
 SELECT
-    '<div id="open-positions" class="v-list" data-placement="vertical">' || 
+    '<div id="open-positions" class="v-list" data-placement="vertical">' ||
     GROUP_CONCAT(
-        '<div id="memo-' || item_number || '" class="v-list-item no-image" >' 
+        '<div id="memo-' || item_number || '" class="v-list-item no-image" >'
 ||'<div class="v-list-item-body">'||
-        '<a class="v-list-item-title" href="/' || REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') || '">' || REPLACE(REPLACE(REPLACE(COALESCE(short_title, title), '&', '&'), '<', '<'), '>', '>') || '</a>' || 
-         '<div class="v-list-item-desc">' || REPLACE(REPLACE(REPLACE(description, '&', '&'), '<', '<'), '>', '>') || '</div>' || 
+        '<a class="v-list-item-title" href="/' || REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') || '">' || REPLACE(REPLACE(REPLACE(COALESCE(short_title, title), '&', '&'), '<', '<'), '>', '>') || '</a>' ||
+         '<div class="v-list-item-desc">' || REPLACE(REPLACE(REPLACE(description, '&', '&'), '<', '<'), '>', '>') || '</div>' ||
         '</div>'
         '</div>',
         ''
-    )|| 
-    '</a>' || 
+    )||
+    '</a>' ||
     '</div>' AS open_positions_html
 FROM sorted_vault;
 ```
-
-
-
 
 ## 🌺 Life at Dwarves
 
@@ -173,29 +170,30 @@ WITH sorted_vault AS (
     LIMIT 3
 )
 SELECT
-    '<div id="open-positions" class="v-list" data-placement="vertical">' || 
+    '<div id="open-positions" class="v-list" data-placement="vertical">' ||
     GROUP_CONCAT(
-        '<div id="memo-' || item_number || '" class="v-list-item no-image" >' 
+        '<div id="memo-' || item_number || '" class="v-list-item no-image" >'
 ||'<div class="v-list-item-body">'||
-        '<a class="v-list-item-title" href="/' || REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') || '">' || REPLACE(REPLACE(REPLACE(COALESCE(short_title, title), '&', '&'), '<', '<'), '>', '>') || '</a>' || 
-         '<div class="v-list-item-desc">' || REPLACE(REPLACE(REPLACE(description, '&', '&'), '<', '<'), '>', '>') || '</div>' || 
-          '<div class="v-list-item-time">' || 
+        '<a class="v-list-item-title" href="/' || REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') || '">' || REPLACE(REPLACE(REPLACE(COALESCE(short_title, title), '&', '&'), '<', '<'), '>', '>') || '</a>' ||
+         '<div class="v-list-item-desc">' || REPLACE(REPLACE(REPLACE(description, '&', '&'), '<', '<'), '>', '>') || '</div>' ||
+          '<div class="v-list-item-time">' ||
 REPLACE(REPLACE(REPLACE(
-    strftime('%B %d, %Y', date), 
-    '&', '&'), 
-    '<', '<'), 
+    strftime('%B %d, %Y', date),
+    '&', '&'),
+    '<', '<'),
     '>', '>'
 ) || '</div>'||
         '</div>'
         '</div>',
         ''
-    )|| 
-    '</a>' || 
+    )||
+    '</a>' ||
     '</div>' AS team_html
 FROM sorted_vault;
 ```
 
 ## 📡 What’s on our Radar
+
 <div class ="icon-h-list">
 <a class="icon-h-list-item" href="https://dify.ai">
 <div class="icon-h-list-item-image" ><img class="no-zoom p-1" src="https://framerusercontent.com/images/KWDRAMQLGjoMFBAjNjoCFMP7XI.png"/></div>
@@ -235,30 +233,25 @@ ORDER BY date DESC
     LIMIT 3
 )
 SELECT
-    '<div id="changelog" class="link-v-list" data-placement="vertical">' || 
+    '<div id="changelog" class="link-v-list" data-placement="vertical">' ||
     GROUP_CONCAT(
-        '<div id="memo-' || item_number || '" class="link-v-list-item" >' 
+        '<div id="memo-' || item_number || '" class="link-v-list-item" >'
 ||
-        '<a class="link-v-list-item-title" href="/' || REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') || '">' || REPLACE(REPLACE(REPLACE(COALESCE(short_title, title), '&', '&'), '<', '<'), '>', '>') || '</a>' || 
-        '<span class="link-v-list-item-time"> - ' || 
+        '<a class="link-v-list-item-title" href="/' || REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') || '">' || REPLACE(REPLACE(REPLACE(COALESCE(short_title, title), '&', '&'), '<', '<'), '>', '>') || '</a>' ||
+        '<span class="link-v-list-item-time"> - ' ||
 REPLACE(REPLACE(REPLACE(
-    strftime('%B %d, %Y', date), 
-    '&', '&'), 
-    '<', '<'), 
+    strftime('%B %d, %Y', date),
+    '&', '&'),
+    '<', '<'),
     '>', '>'
 ) || '</span>'
         '</div>',
         ''
-    )|| 
-    '</a>' || 
+    )||
+    '</a>' ||
     '</div>' AS open_positions_html
 FROM sorted_vault;
 ```
-
-
-
-
-
 
 ---
 
