@@ -83,7 +83,7 @@ REPLACE(REPLACE(REPLACE(
 FROM sorted_vault;
 ```
 
-## 🌺 Life at Dwarves
+## 🧑‍💻 Life at Dwarves
 
 ```dsql-list
 WITH sorted_vault AS (

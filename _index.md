@@ -18,7 +18,7 @@ hide_title: true
 
 ## ✨ New memos
 
-## 🌺 Life at Dwarves
+## 🧑‍💻 Life at Dwarves
 
 ## 📝 Changelog
 
