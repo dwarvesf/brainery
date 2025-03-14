@@ -53,32 +53,32 @@ WITH sorted_vault AS (
 SELECT
     '<div id="new-memos" class="v-list" data-placement="vertical">' ||
     GROUP_CONCAT(
-        '<a id="memo-' || item_number || '" class="v-list-item" href="/' || REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') || '">' ||
-       '<div class="v-list-item-image"><img class="no-zoom" src="' ||
-    (CASE
-        WHEN LEFT(COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL), 1) = '/'
-        OR LEFT(COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL), 4) = 'http'
-        THEN COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL)
-        WHEN COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL) IS NULL
-        OR COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), '') = ''
-        THEN 'assets/home_cover.webp'
-        ELSE REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REGEXP_REPLACE(file_path, '/[^/]+\.md$', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') ||'/' || COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL)
-    END)
-|| '" alt="Memo Image" />' || '</div>'
-||'<div class="v-list-item-body">'||
-        '<h3 class="v-list-item-title">' || REPLACE(REPLACE(REPLACE(COALESCE(short_title, title), '&', '&'), '<', '<'), '>', '>') || '</h3>' ||
-         '<div class="v-list-item-desc">' || REPLACE(REPLACE(REPLACE(description, '&', '&'), '<', '<'), '>', '>') || '</div>' ||
-       '<div class="v-list-item-author">' ||
-REPLACE(REPLACE(REPLACE(
-    ARRAY_TO_STRING(authors, ', '),
-    '&', '&'),
-    '<', '<'),
-    '>', '>'
-) || '</div>'
+        '<div id="memo-' || item_number || '" class="v-list-item" >' ||
+        '<div class="v-list-item-image"><img class="no-zoom" src="' ||
+        (CASE
+            WHEN LEFT(COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL), 1) = '/'
+            OR LEFT(COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL), 4) = 'http'
+            THEN COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL)
+            WHEN COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL) IS NULL
+            OR COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), '') = ''
+            THEN 'assets/home_cover.webp'
+            ELSE REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REGEXP_REPLACE(file_path, '/[^/]+\.md$', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') ||'/' || COALESCE(NULLIF(REGEXP_EXTRACT(md_content, '!\[.*?\]\((.*?)\)', 1), ''), NULL)
+        END)
+        || '" alt="Memo Image" />' || '</div>' ||
+        '<div class="v-list-item-body">' ||
+            '<a class="v-list-item-title" href="/' || REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') || '">' || REPLACE(REPLACE(REPLACE(COALESCE(short_title, title), '&', '&'), '<', '<'), '>', '>') || '</a>' ||
+            '<div class="v-list-item-desc">' || REPLACE(REPLACE(REPLACE(description, '&', '&'), '<', '<'), '>', '>') || '</div>' ||
+            '<div class="v-list-item-author">' ||
+                REPLACE(REPLACE(REPLACE(
+                    ARRAY_TO_STRING(authors, ', '),
+                    '&', '&'),
+                    '<', '<'),
+                    '>', '>')
+            || '</div>' ||
+        '</div>' ||
         '</div>',
         ''
-    )||
-    '</a>' ||
+    ) ||
     '</div>' AS latest_memos_html
 FROM sorted_vault;
 ```
