@@ -14,9 +14,9 @@ hide_frontmatter: true
 hide_title: true
 ---
 
-## ✨ New memos
-
 ## 🩷 OGIFs
+
+## ✨ New memos
 
 ## 🌺 Life at Dwarves
 
