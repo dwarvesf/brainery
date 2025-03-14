@@ -24,7 +24,7 @@ Written by Dwarves for product craftsmen.
 
 Learned by engineers. Experimented by engineers.
 
-## 🩷 OGIFs
+## 💡 OGIFs
 
 ```dsql-list
 SELECT markdown_link(COALESCE(short_title, title), file_path)

@@ -14,7 +14,7 @@ hide_frontmatter: true
 hide_title: true
 ---
 
-## 🩷 OGIFs
+## 💡 OGIFs
 
 ## ✨ New memos
 
