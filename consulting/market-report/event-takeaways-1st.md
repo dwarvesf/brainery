@@ -3,14 +3,16 @@ tags:
   - consulting
   - market-report
   - tech-report
-title: "Talks and Takeaways from the Scene: Part 1"
-short_title: "1st Talks and Takeaways"
-date: 2025-03-13
+title: 'Talks and Takeaways from the Scene: Part 1'
+short_title: 1st Talks and Takeaways
+date: 2025-03-13T00:00:00.000Z
 description: Talks and Takeaways from the Scene Part 1
 should_deploy_perma_storage: true
 authors:
   - minh
+perma_storage_id: 3qYpdaZVRbJJ51QI3aNCbiNfeZpN1jB_Uf20ObSWP6k
 ---
+
 
 Hey everyone. I went to two cool events in Vietnam recently and I’ve got some fun thoughts to share. Tired of boring tech talk? I’ll tell you what I saw and what got me excited or curious. No big words, just my real take. Let me know what you think.
 
