@@ -11,6 +11,7 @@ should_deploy_perma_storage: true
 authors:
   - minh
 perma_storage_id: 3qYpdaZVRbJJ51QI3aNCbiNfeZpN1jB_Uf20ObSWP6k
+should_mint: true
 ---
 
 
