@@ -15,7 +15,7 @@ should_mint: true
 ---
 
 
-Hey everyone. I went to 2 cool events in Vietnam recently and I’ve got some fun thoughts to share. Tired of boring tech talk? I’ll tell you what I saw and what got me excited or curious. No big words, just my real take. Let me know what you think.
+Hey everyone. I went to two cool events in Vietnam recently and I’ve got some fun thoughts to share. Tired of boring tech talk? I’ll tell you what I saw and what got me excited or curious. No big words, just my real take. Let me know what you think.
 
 # First Stop: XDC Network to the World, Building Asia's Web3 Ecosystem Roadshow
 
