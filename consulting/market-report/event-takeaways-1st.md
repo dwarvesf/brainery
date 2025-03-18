@@ -7,6 +7,7 @@ title: "Talks and Takeaways from the Scene: Part 1"
 short_title: "1st Talks and Takeaways"
 date: 2025-03-13
 description: Talks and Takeaways from the Scene Part 1
+should_deploy_perma_storage: true
 authors:
   - minh
 ---
