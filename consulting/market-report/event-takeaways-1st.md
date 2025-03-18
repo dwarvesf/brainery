@@ -12,7 +12,10 @@ authors:
   - minh
 perma_storage_id: 3qYpdaZVRbJJ51QI3aNCbiNfeZpN1jB_Uf20ObSWP6k
 should_mint: true
+minted_at: '2025-03-18'
+token_id: '2'
 ---
+
 
 
 Hey everyone. I went to 2 cool events in Vietnam recently and I’ve got some fun thoughts to share. Tired of boring tech talk? I’ll tell you what I saw and what got me excited or curious. No big words, just my real take. Let me know what you think.
