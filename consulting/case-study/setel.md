@@ -24,7 +24,7 @@ authors:
 - [SWARM process](https://open.nytimes.com/scrum-swarm-sprint-how-to-take-the-agile-process-and-make-it-your-own-b6416793ff7e): Working together on a small number of stories at a time. It help spread tacit knowledge, resolve issues and avoid the random distraction.
 - Testing: Manual ad-hoc test, then regression test and automation. All managed in Zephyr and Allure report.
 
-## The Context
+## The context
 Setel moves toward one goal: **Making refuel experience frictionless**, which deep dive in 3 main target customers:
 
 - **Motorists**: Setel supports a refueling process on their daily experience. 
@@ -35,7 +35,7 @@ Setel moves toward one goal: **Making refuel experience frictionless**, which de
 
 We help build up a place where users can interact and personalize their experience with **Setel Website** and **Gifts Campaign**.
 
-## Engagement Model
+## Engagement model
 We work as Conversion team - fully focused on **supporting the funnel to activate client**.
 
 Established businesses as Setel have a fixed protocol to work and operate. We need to form a team that can manage themselves independently and adopt modern business practices.

@@ -1,8 +1,7 @@
 ---
 tags:
-  - partnership
   - wala
-  - summit
+  - consulting
 title: "43 Factory WALA: Lessons from coffee craftsmanship for software engineering"
 short_title: 43 Factory
 date: 2024-10-16

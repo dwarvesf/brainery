@@ -28,7 +28,7 @@ authors:
 - Using [Codecov](https://about.codecov.io/) to ensure code coverage
 - Matching service based on multiple criteria
 
-## The Context
+## The context
 Para was in a rushing period. They saw a demand for its product peak when Covid-19 hit severely. Nutriment products and healthcare services are essentials. The roadmap was clear and concise. They seek a team to quickly work and conclude the remaining features. Speed up the development phase is the top priority. 
 
 ![](assets/advancing-us-healthcare-platform-joinpara-as-covid-19-support_advancing-us-healthcare-platform-joinpara-how-it-work.webp)
@@ -37,7 +37,7 @@ We offer our top-tier core services. Our quick-to-adapt Dwarves experts give the
 
 Beyond that, our expertise provides them with business & tech consultancy that suits their roadmap, heading for user acquisition & revenue growth. 
 
-## Engagement Model
+## Engagement model
 ### Team size
 The Dwarves initially joined in with 1 Backend Engineer. Working together with Para team, we helped build a sturdy backend system to sort out different logics. 
 

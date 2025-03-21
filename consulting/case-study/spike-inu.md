@@ -21,14 +21,14 @@ authors:
 
 ![](assets/spike-inu-engineering-a-seamless-experience-for-cross-chain-swap-and-decentralized-exchange_d62f913d7d2981f4fe1322f4dfb4076f_md5.webp)
 
-## Technical Highlight
+## Technical highlight
 - Blockchain bridging solutions
 - Optimal solution for conversion transactions
 - System security with multi-authentication
 - Decentralized exchange platform
 - Transaction validation and error detection
 
-## The Context
+## The context
 Icrosschain is a swap platform. It supports users to swap their tokens from one network to another while optimizing profits and the best gas fee for transaction.
 
 A token can be liquidated in one or more pools, at one or more DEX platforms. We need to synthesize the information, evaluate the best DEX platform and retrieve a reasonable fee to process the transaction.
@@ -39,7 +39,7 @@ In addition, users using ICC tokens can benefit from transaction fees on the net
 
 ![](assets/spike-inu-engineering-a-seamless-experience-for-cross-chain-swap-and-decentralized-exchange_10a286e91bf3c887de8b7ae82ce1a9a2_md5.webp)
 
-## Engagement Model
+## Engagement model
 We work with customers as if building a technology startup in the field of blockchain, it helps us to build discipline, passion as well as creativity in the product development process.
 
 Our team has been diligently exploring technology and building from the underlying technologies and deep knowledge in the blockchain network with the spirit of ownership. who understands the product and is willing to exchange ideas with customers.

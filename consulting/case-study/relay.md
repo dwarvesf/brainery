@@ -25,7 +25,7 @@ authors:
 - Action tracking system design.
 - Monorepo source code.
 
-## The Context
+## The context
 Relay was in the early stage. Hetong, the PO, stated clearly she needed a viable version with basic features.
 
 The MVP must be finished fast and clean for potential customer acquirement and seeding round.
@@ -34,7 +34,7 @@ It must be done fast. And the requirement can be changed as market demands. Due 
 
 *The context changes. We change accordingly.*
 
-## Engagement Model
+## Engagement model
 At first, we were expected to join them for the first few months. As the product goes, the trustworthy collaboration escalated that we could involve more in the development process. They welcome us to contribute the idea instead of just getting the tasks done.
 
 ### Teck stacks

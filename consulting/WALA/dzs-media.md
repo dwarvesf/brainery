@@ -1,8 +1,7 @@
 ---
 tags:
-  - partnership
   - wala
-  - summit
+  - consulting
 title: "DZS Media WALA: Lessons from film production for software engineering"
 short_title: DZS Media
 date: 2024-10-16

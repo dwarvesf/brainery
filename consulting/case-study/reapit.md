@@ -20,7 +20,7 @@ authors:
 - Reapit wants to migrate the app from desktop-based to Cloud-based. They want to develop a PaaS to support an expandability for SME customer. 
 - We stepped in as a Vietnam offshore team for prototypes and skunkworks. Skunkworks demands minimum team management, able to ship work in short timeline and scaling ability. 
 
-## Technical Highlight
+## Technical highlight
 - Migrating current separated apps to one single monorepo.
 - React and Redux for composability and component reusability.
 - RPS software-support for Geo Diary.
@@ -31,7 +31,7 @@ authors:
 - Meet launching timeline for **[Reapit Foundation Launch Event](https://www.youtube.com/watch?v=y-Fhlg2jrYo).**
 - SLA management for on-time advise and business qualification.
 
-## The Context
+## The context
 They currently have 60 engineers in the UK. But they need augmentation to grow faster. A skunkworks team is perfect for that. 
 
 We take over the module development as part of SME solutions. This enables Reapit to trial new ideas for their upcoming launch event: Reapit Foundation. 
@@ -45,7 +45,7 @@ Normally, building up a team needs an interference of headhunter, service fee an
 
 SLA is also a part that we help qualify. More than the code, we offer long term tech strategy.
 
-## Engagement Model
+## Engagement model
 We form up a Cloud-team with senior React.js. We dive in to take care 2 focuses of AgencyCloud:
 
 - Reapit's Foundation: Cloud-based Platform-as-a-Service (PaaS) and app marketplace

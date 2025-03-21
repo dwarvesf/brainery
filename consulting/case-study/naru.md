@@ -25,7 +25,7 @@ authors:
 - First time trial GraphQL instead of typical RESTful API - gave us the flexibility to query exactly what we need and nothing more. 
 - Async Communication practices to decide what's important based on current timeline, roadmap and release plan. It avoids quickly jump and redundant features. 
 
-## The Context
+## The context
 Naru's goal is to supercharge user workflows on web browsers. 
 
 An enhanced version of to-do list - but acts as a widget within user's browser.
@@ -35,7 +35,7 @@ An enhanced version of to-do list - but acts as a widget within user's browser.
 
 ![](assets/succeed-naru-a-browser-focus-web-extension-for-us-market_succeed-naru---a-browser-focus-web-extension-for-us-market_d927454304f52e14ce05b4f4775a89e9_md5.webp)
 
-## Engagement Model
+## Engagement model
 Making a web extension behaves like an application (says Trello) is nontrivial. A web extension work by attach and execute) its own `<script>` tag to the current web page. After that, it boot up with a UI for user interaction.
 
 ![](assets/succeed-naru-a-browser-focus-web-extension-for-us-market_na-ex.webp)

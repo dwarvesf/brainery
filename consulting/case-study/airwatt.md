@@ -15,12 +15,14 @@ authors:
 ![](assets/building-airwatt-apply-aiml-for-iot-solutions-to-optimize-electricity-usage_building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_b1d2f4d32b1a3a8f8085bf8a5aebe92f_md5.webp)
 
 ## In brief
-* AirWatt is an IoT solution that integrates and monitors electricity usage using AI/ML. 
+
+* AirWatt is an IoT solution that integrates and monitors electricity usage using AI/ML.
 * AirWatt's vision is to help businesses track electric usage status of electrical equipment. Hence, they can save electricity and money, even avoid disaster.
 * They seek for product development support, with insight on business to provide suitable product design
 * The MVP must be done fast to prove the product's concept. We built Airwatt system from zero with other teams: Business, Hardware, and AI.
 
-## Technical Highlight
+## Technical highlight
+
 * Microservices architecture
 * Data structure and Infrastructure to centralize all data from Airwatt monitors on platforms.
 * End-to-end data-flow from Monitor to AI servers for machine learning.
@@ -28,40 +30,44 @@ authors:
 * ESP Touch protocol for hardware WiFi connection
 * A scalable platform with native mobile apps.
 
-## The Context
+## The context
+
 AirWatt is designed for quick installation and constant improvement. Hence, it should comes in multiple platforms
 
-AI utilizes data to figure out which device is on or off. We must create analytics dashboard with tracking mechanism. 
+AI utilizes data to figure out which device is on or off. We must create analytics dashboard with tracking mechanism.
 
 The problem is hard to solve, yet, it's worthwhile and improved all the time.
 
 ![](assets/building-airwatt-apply-aiml-for-iot-solutions-to-optimize-electricity-usage_building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_cce56122290dff1fee0a827b148f1e41_md5.webp)
 
-They have the capability to handle hardware production and Machine learning. But they face obstacle in building the MVP to visualize and nurture all the data structure. That's where we dive in to help, as technical partner and venture builder. 
+They have the capability to handle hardware production and Machine learning. But they face obstacle in building the MVP to visualize and nurture all the data structure. That's where we dive in to help, as technical partner and venture builder.
 
-## Engagement Model
-### Solution Design
+## Engagement model
+
+### Solution design
+
 **Onboarding**
 
 AirWatt's system is taken with 4 aspects to meet its business demand
+
 * Monitor Management: Supports administration tasks at different places. Users can also switch on/off and view the detailed usage information of each monitor.
 * Reporting: Must-have features to track usage status of electrical equipment. On the mobile version, the report shows weekly or in the nearest three months.
-* Mobile App: The only way to bring the Monitors online and bind them to the corresponding user accounts. 
+* Mobile App: The only way to bring the Monitors online and bind them to the corresponding user accounts.
 * Web App for B2B: For business owners to track data provided by Airwatt monitors through weekly and monthly reports.
 
 **Microservice Architecture**
 
-AirWatt processes a huge data volume at the same time. We build the architecture with two focus points: CRUD data and IoT data. 
+AirWatt processes a huge data volume at the same time. We build the architecture with two focus points: CRUD data and IoT data.
 
-All data must be synced to the AI system in real-time. AirWatt faces ~ 17,280 records per device every day. Going microservice is the ideal solution. 
+All data must be synced to the AI system in real-time. AirWatt faces ~ 17,280 records per device every day. Going microservice is the ideal solution.
 
 ![](assets/building-airwatt-apply-aiml-for-iot-solutions-to-optimize-electricity-usage_building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_c91a49d28d91773c00b3165feaaa9319_md5.webp)
 
 * Airwatt System: The core domain to manage device's life cycle.
 * Landing Page: Features solutions and pre-order for AirWatt's services.
-* Admin Panel: Administrative dashboard for AirWatt to access and update data. 
+* Admin Panel: Administrative dashboard for AirWatt to access and update data.
 * Mobile: iOS and Android version with dashboards, charts and report features.
-* AI core: is the most important part with 4 main features: Data synchronization, detect appliance, predict appliance, prepare report data. 
+* AI core: is the most important part with 4 main features: Data synchronization, detect appliance, predict appliance, prepare report data.
 * IoT core: Core data in the AirWatt system for IoT devices. This module helps to oversee and track the device's status.
 
 **Different databases for different purposes**
@@ -75,7 +81,7 @@ AI models is built from real data with beta testing users, by the labeling data 
 
 **Smart config Integration**
 
-Mobile apps must connect user's hardware to the server using wifi. It registers the hardware to the server and link it with the user account. 
+Mobile apps must connect user's hardware to the server using wifi. It registers the hardware to the server and link it with the user account.
 We use smart config integration with ESP2866 as wifi protocol. This requires manual-press button to enable the smart config mode.
 
 **Tech stacks**
@@ -98,6 +104,7 @@ We use smart config integration with ESP2866 as wifi protocol. This requires man
 ![](assets/building-airwatt-apply-aiml-for-iot-solutions-to-optimize-electricity-usage_building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_8d005fd066a63c376836e9440523ee69_md5.webp)
 
 ## Outcome
+
 After three months, we have accomplished the MVP development stage with necessary modules:
 
 * Web App for B2B support
@@ -107,7 +114,7 @@ After three months, we have accomplished the MVP development stage with necessar
 ![](assets/building-airwatt-apply-aiml-for-iot-solutions-to-optimize-electricity-usage_building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_98ff38b1521894691a908557706aedcc_md5.webp)
 
 >
-> **Airwatt** has successfully made its way to the problem-solution fit stage. And event marked itself at [Vietnam Zone Startup](https://vietnam.zonestartups.com/zone-startups-portfolio/). The next milestone customizing the web app for a specific domain: FnB. A spinoff to the energy monitor solution for FnB is Airwatt's nearest goal. 
+> **Airwatt** has successfully made its way to the problem-solution fit stage. And event marked itself at [Vietnam Zone Startup](https://vietnam.zonestartups.com/zone-startups-portfolio/). The next milestone customizing the web app for a specific domain: FnB. A spinoff to the energy monitor solution for FnB is Airwatt's nearest goal.
 
 ![](assets/building-airwatt-apply-aiml-for-iot-solutions-to-optimize-electricity-usage_aw-solution.webp)
 

@@ -29,7 +29,7 @@ Momos works as the centralized data hub.
 - Run social ads directly from Momos.
 - Content-based report (GPT-3) generator using lambda and materialized view
 
-## The Context
+## The context
 Businesses are shifting their services online. They need different partners to make it happen.
 
 By using Momos as a **centralized data hub**, businesses can focus on delivering their products.
@@ -41,10 +41,10 @@ The founders planned to **expand the integration** when they found us through 
 >
 > As startups supporters, we understand it's a changing environment. It's our job to know their business and contribute to the tech foundation during the early stages.
 
-## Engagement Model
+## Engagement model
 Working with startups means everything needs to be fast and ready for the client to ship out. We manage to deploy resources with work ownership, who understand the product and are ready to communicate.
 
-### Tech Stacks
+### Tech stacks
 - Backend: Node.js
 - Frontend: React & Next.js
 - Database: PosgreSQL

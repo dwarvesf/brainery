@@ -1,8 +1,7 @@
 ---
 tags:
-  - partnership
   - wala
-  - summit
+  - consulting
 title: "SP Group WALA: Insights on digital transformation and partnership in energy sector"
 short_title: SP Group
 date: 2024-06-05

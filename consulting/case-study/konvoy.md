@@ -37,7 +37,7 @@ The short-term rental solution, an ideal fit for one-way trips, guarantees trans
 
 Driven by its mission to track every keg's location, Konvoy reduces losses and bolsters profit margins. Its top-tier service and maintenance ensure minimal downtime for your kegs. Currently a dominant entity in the ANZ market, Konvoy is powered by a dedicated team of 30 professionals.
 
-### Technology Stack
+### Technology stack
 The deployed technology stack includes the following major components:
 - **Kubernetes**: This was used to establish a PHP Symfony backend API for managing organizations, users, orders, kegs, and their related information like current location, historical routes, and more.
 - **Symfony Commands**: Several Symfony commands were developed and deployed as cron jobs within Kubernetes. These commands processed keg location data, offering near-realtime keg location updates, ensuring a consistently updated system.

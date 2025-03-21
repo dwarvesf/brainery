@@ -1,44 +1,45 @@
 ---
 title: Partners Network
 date: 2024-03-07
-description: Partnering with Dwarves is not just a collaboration, it’s a strategic investment in trust, network and business growth. Being our partners mean sharing opportunities, resources, connections and scaling up together.
-tags:
-  - partners
+description: Partnering with Dwarves is not just a collaboration, it's a strategic investment in trust, network and business growth. Being our partners mean sharing opportunities, resources, connections and scaling up together.
 authors:
   - nikki
   - han
+tags:
+  - consulting
+  - partners
 ---
 
 We seek for Partners, individuals and companies likewise, to develop a co-creation system driven by mutual purposes and interests.
 
 With our average deal size at $30,000, a partner can generate at least $2,400 per project. Commission is paid from project start, every month until project end.
 
-![](assets/partners-network-20240307180157820.webp)
+![Partners network overview diagram](assets/partners-network-overview.webp)
 
 ## Partner perks
 
-**Partnering with Dwarves is not just a collaboration, it’s a strategic investment in trust, network and business growth. Being our partners mean sharing opportunities, resources, connections and scaling up together.**
+**Partnering with Dwarves is not just a collaboration, it's a strategic investment in trust, network and business growth. Being our partners mean sharing opportunities, resources, connections and scaling up together.**
 
 ### Flexible **commission rate**
 
-Our commission structure is designed to maximize rewards for partners. The more involved you are in a project, the greater the rewards. We are also flexible when structuring a deal, to make sure it’s a win-win for everyone.
+Our commission structure is designed to maximize rewards for partners. The more involved you are in a project, the greater the rewards. We are also flexible when structuring a deal, to make sure it's a win-win for everyone.
 
 ### Innovative solutions, endless possibilities
 
-Partners can leverage Dwarves’ expertise to offer state-of-the-art software solutions that answer to industry standards.
+Partners can leverage Dwarves' expertise to offer state-of-the-art software solutions that answer to industry standards.
 
 Our commitment to innovation ensures you can confidently provide your clients with the tools they need to stay ahead.
 
 ### Full access to resources
 
-Partners who are building their own products can employ Dwarves’ staff at a rebate rate. With our current network, we can also help with:
+Partners who are building their own products can employ Dwarves' staff at a rebate rate. With our current network, we can also help with:
 
 - Recruiting and hiring
 - Fractional leadership
 - Connecting to investors, mentors & founders
 - Organizing events & meetups
 
-### Marketing Collaboration
+### Marketing collaboration
 
 Leverage our marketing collateral, case studies, and success stories to strengthen your pitch and build trust with your clients.
 
@@ -57,19 +58,20 @@ Our adept team of business development, sales, engineering and technical experts
 ### Who should join us
 
 We are looking for techies who are passionate about technology and hungry for new opportunities. From our experience, our partners are most likely:
-<!-- col-2 #1 -->
+
+**Left Column:**
+
 - Tech consultants
 - PMP/PMI
 - Startup founders
 - CTO & Head of engineering
 
-<div></div>
+**Right Column:**
 
 - IT service companies
 - Universities
 - Incubator and Venture Executives
 - Tech Event Organizers
-<!-- /col-2 #1 -->
 
 ### Joining our Partners Program is simple
 
@@ -80,9 +82,9 @@ We are looking for techies who are passionate about technology and hungry for ne
 
 ---
 
-## Dwarves Profile
+## Dwarves profile
 
-![](assets/partners-network-20240307180601073.webp)
+![Dwarves Foundation profile image](assets/dwarves-foundation-profile.webp)
 
 ### Dwarves build and ship top-notch software
 
@@ -99,20 +101,21 @@ We prioritize creating the right product that brings tangible business values, r
 
 ---
 
-## Facts & Figures
-<!-- col-2 #2 -->
+## Facts & figures
+
+**Left Column:**
+
 - 80+ developers with 3 - 9 years of experience
 - 4 designers
 - 30+ clients worldwide
 
-<div></div>
+**Right Column:**
 
 - 70+ projects delivered
 - 20 strategic partnerships with tech communities and universities
 - Offices in Vietnam, Canada, Germany
-<!-- /col-2 #2 -->
 
-![](assets/partners-network-20240307180712977.webp)
+![Dwarves Foundation facts and figures visualization](assets/dwarves-foundation-facts-figures.webp)
 
 ---
 
@@ -120,13 +123,15 @@ We prioritize creating the right product that brings tangible business values, r
 
 Our services are tailored to blend into the nature of each client we work with. Depends on the your unique needs, project scope, requirements and expectations, we provide different types of services and are capable of customizing them for you.
 
-## Staff Augmentation
+## Staff augmentation
 
 **Scale up the development team quickly to meet product roadmap and get to market faster.**
-Our in-house talents are selected through a strict interviewing process, with proper training before they get to work on client’s projects.
+Our in-house talents are selected through a strict interviewing process, with proper training before they get to work on client's projects.
 
 We only deploy engineers who meet your requirements and tech stack.
-<!-- col-2 #3 -->
+
+**Left Column:**
+
 - Frontend Engineer
 - Backend Engineer
 - Fullstack Engineer
@@ -134,7 +139,7 @@ We only deploy engineers who meet your requirements and tech stack.
 - QAQC
 - DevOps
 
-<div></div>
+**Right Column:**
 
 - Tech Lead
 - Product Owner
@@ -142,9 +147,8 @@ We only deploy engineers who meet your requirements and tech stack.
 - Product Manager
 - Product Designer
 - Graphic Designer
-<!-- /col-2 #3 -->
 
-## Product Consulting & Development
+## Product consulting & development
 
 ### Solution
 
@@ -178,9 +182,9 @@ We only deploy engineers who meet your requirements and tech stack.
 
 ---
 
-## Web3 Services
+## Web3 services
 
-### [Console Labs](https://console.so) is a Dwarves’ subsidiary focusing on web 3.0 R&D and services
+### [Console Labs](https://console.so) is a Dwarves' subsidiary focusing on web 3.0 R&D and services
 
 - **Blockchain Integration:** Build a layer to manage and manipulate data between current system and public blockchain network.
 - **Architecture Design:** A right architecture planning for a novel blockchain system can save tons of time developing.
@@ -192,17 +196,20 @@ We only deploy engineers who meet your requirements and tech stack.
 - **NFT Launch:** Build contract and tools to support NFT collection launching.
 
 ### Portfolio
-<!-- col-2 #4 -->
-- [**Neutronpay**](https://neutronpay.com): Payment platform on Bitcoin’s Lightning Network
+
+**Left Column:**
+
+- [**Neutronpay**](https://neutronpay.com): Payment platform on Bitcoin's Lightning Network
 - [**Mochi**](https://mochi.gg): Web3.0 tooling / infra
 - [**Eklipse**](https://eklipse.gg/): Video-based NFT tooling for game streamers
+- [**Staery**](https://staery.io): Cross-chain decentralized staking
 - [**iCrosschain**](https://icrosschain.io): Cross-chain swap
 - [**MStation**](https://icrosschain.io): On-chain RGP game
 - [**Attrace**](https://icrosschain.io): Blockchain referral layer
 - [**Tokenomy**](http://tokenomy.com): Mobile app for crypto investment platform
 - [**Legend of Fantasy War**](http://legendfantasywar.com): Blockchain integration for NFT game
 
-<div></div>
+**Right Column:**
 
 - [**Pod Town**](https://pod.town/): Defi and NFT-based metaverse
 - [**Pod Auction**](https://pod.town/auction): in-house auction platform
@@ -211,29 +218,29 @@ We only deploy engineers who meet your requirements and tech stack.
 - [**Pod Prediction**](https://console.so/#): simple price prediction game
 - [**Pod Vault**](https://console.so/#): home-baked compounder
 - [**Pod Wallet**](https://console.so/#): manage and track portfolio cross-chain
-<!-- /col-2 #4 -->
 
 ---
 
 ## Portfolio
->
+
 > 🤝 Our clients are any organization that puts tech at great importance for their growth; ranging from funded startups looking to get their MVP to market fast, to enterprises looking for a tech partner to scale their products.
 
-![](assets/partners-network-20240307181320820.webp)
+![Dwarves Foundation portfolio visualization](assets/dwarves-foundation-portfolio.webp)
 
 ---
 
 ## Tech stack
-<!-- col-2 #5 -->
+
+**Left Column:**
+
 - Backend: Go, Elixir, Rust, Nodejs
 - Frontend: Typescript, React/Redux/Redux Saga
 - Mobile: Objective-C, Swift, Kotlin, React Native
 - Architecture: Clean, N-Tiers
 
-<div></div>
+**Right Column:**
 
 - Cloud: GCP, AWS, Azure
 - Cloud Tool: Docker, K8s, Terraform, Ansible, Vault
 - Design: Figma, Sketch
 - No-code: Framer, Webflow
-<!-- /col-2 #5 -->

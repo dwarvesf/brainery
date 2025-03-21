@@ -1,12 +1,12 @@
 ---
-tags: 
-  - case-study
-  - partnership
-  - consulting
 title: "CIMB: Initiating a digital wealth management experience"
 short_title: CIMB
 date: 2023-08-16
 description: In charge of the backend foundation, we marked a milestone in CIMB's digital transformation journey, with a streamlined, customer-focused experience contributed to CIMB's forward-looking vision.
+tags: 
+  - case-study
+  - partnership
+  - consulting
 authors:
   - huytq
   - nikkingtr
@@ -44,7 +44,7 @@ CIMB Malaysia faced the challenge of adapting to rapidly changing customer expec
 
 The objective was to overhaul the digital wealth management experience for CIMB's customers: improve user experience, streamline banking processes, and increase customer engagement through a seamless digital platform. 
 
-### The Context
+### The context
 The project focused on enhancing the Wealth Journey (ASNB), aiming to streamline the investment experience for preferred and mass-affluent customers. 
 
 The process involved conducting workshops, competitor analysis, and customer feedback to create efficient digital investment journeys via self-serve platforms and relationship manager-assisted platforms.

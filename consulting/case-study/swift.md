@@ -18,7 +18,7 @@ In this article, we'll dive deeper into the practice of applying micro frontend 
 
 *For privacy’s sake, we will refer to our client company as “Swift”. The information discussed here is from a real interview based on real-world events.*
 
-## Case Study Interview: Building a shared design system
+## Case study interview: Building a shared design system
 
 ![](assets/a-case-study-interview-into-micro-frontends-building-design-system-for-e-commerce-platform_micro-frontends-building-design-system-for-e-commerce-platform.webp)
 

@@ -19,11 +19,11 @@ The mobile app Sol is a travel app focused on some highlight features: planning 
 ## Target market
 Potential users of this app are Global travelers who are young, hi-tech and love backpacking with groups of friends. Users will be connected by Social Network (first we will try with Facebook, the most famous Social Network), they can find location and track their friends while traveling using map in-app. They can also send STOP notification to their groups when they have trouble while moving.
 
-## User Research
+## User research
 ### Interview
 To understand users’ needs, pain points and behaviors, I met and interviewed some people, who are young and loves travel. Through these interviews, I gathered some information, mainly about the troubles they often encounter when travel by groups.
 
-### Survey Questions Asked:
+### Survey questions Asked:
 - How old are you?
 - What does your typical day look like?
 - What are some of the apps you use on a regular basis?

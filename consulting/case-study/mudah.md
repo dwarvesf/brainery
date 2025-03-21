@@ -20,14 +20,14 @@ authors:
 - We partnered to help migrating the monolithic architecture into microservices - Unlocking a scalable and feature-extendable platform.
 - We spent a month working on-site at Malaysia to directly participate in the work and speed up productivity.
 
-## Technical Highlight
+## Technical highlight
 - Massive migration from monolithic to microservice architecture.
 - Combining Golang and Gin framework to fasten web performance.
 - Next.JS for search-engine index, SEO-friendly and reusable components.
 - Unit test that ensures at least 80% test coverage before deploying to production.
 - Mobile app with MVC architecture for fast debugging and development speed.
 
-## The Context
+## The context
 Mudah.my’s site features various ads categories for different purchase demands. The data from customer and third-parties is massively huge to process.
 
 With 12 years in the market, their system starts to slow down. It affects the data process, and drags down user experience.
@@ -41,7 +41,7 @@ They decided to go for a massive refactoring in: Infrastructure, Codebase and Ap
 >
 > "Refactoring a whole system requires a high effort. There's no place for hiring plans and teammate training. I was in need of a workforces that gets the hang of the job." *Prateek - Mudah's Product Manager*
 
-## Engagement Model
+## Engagement model
 We took care of migrating the legacy PHP system to microservices in Go. It optimizes page load and tackle scaling problem. We decoupled the services one by one, starting with the Auth module (user's authentication flow). 
 
 The server-side rendering concept with HTML data parsing makes the site indexable by search engine, optimizes SEO and boosts up user experience. 

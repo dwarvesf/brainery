@@ -20,11 +20,11 @@ authors:
 
 ![](assets/development-journey-with-searchio---australia-ai-power-search-solutions_5168d3582cc3384817547ef263a5eaa8_md5.webp)
 
-### Technical Highlight
+### Technical highlight
 - Self-built design system component package to successfully migrate the old console UI to the new one.
 - React SDK: The open-source library we develop that has been started as another branch for Shopify integration
 
-### The Context
+### The context
 [Search.io](http://search.io/) drives business performance through bespoke online discovery service. Accessible via crawler or API, it provides human-like understanding at machine speed.
 
 That comes with a full package of platform integration, search through images, A/B testing via crawler and API listing support.
@@ -34,7 +34,7 @@ That comes with a full package of platform integration, search through images, A
 
 ![](assets/development-journey-with-searchio---australia-ai-power-search-solutions_dd55bea9f42adaff0ca67b9f0398ad98_md5.webp)
 
-### Engagement Model
+### Engagement model
 The work focuses on refactoring the Console dashboard app, improving the open-source package's quality, and tailoring brand UI for plugin consumers.
 - Console dashboard app: A platform that collects all data provided by user/ consumers to index and make their websites searchable. 
 - Open-source package: Search.io is now growing. They decided to start a series of open source libraries to make it developer-friendly. 

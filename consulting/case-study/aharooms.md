@@ -1,26 +1,28 @@
 ---
-tags: 
-  - case-study
-  - design
-  - consulting
 title: "Aharooms: Vietnam hospitality growth solutions"
 short_title: Aharooms
 date: 2020-12-01
 description: Their vision was to build an MVP for market testing in no time. Aharooms's system had almost 2 years in development. It demands high effort to balance new feature development with technical debt.We step in as product team and venture builder. We take on the development stage that supercharges their product development.
+tags: 
+  - case-study
+  - design
+  - consulting
 authors: 
-- duy
-- nikkingtr
-- han
+  - duy
+  - nikkingtr
+  - han
 ---
 
 ![](assets/the-development-journey-with-aharooms---vietnam-hospitality-growth-solutions_aharoom.webp)
 
 ## In brief
-- Aharooms wants to be a remarkable Vietnamese brand in franchised hotel chains. They look to enter the affordable hotel market to support business owners. 
+
+- Aharooms wants to be a remarkable Vietnamese brand in franchised hotel chains. They look to enter the affordable hotel market to support business owners.
 - Their vision was to build an MVP for market testing in no time. Aharooms's system had almost 2 years in development. It demands high effort to balance new feature development with technical debt.
 - We step in as product team and venture builder. We take on the development stage that supercharges their product development.
 
-## Technical Highlight
+## Technical highlight
+
 - Monolithic architecture & Monorepo for consistent code-base
 - Cloud-based infrastructure for data isolation with Docket Containers, GCP and k8s
 - Netlify deployment to avoid bottleneck situation.
@@ -32,25 +34,29 @@ authors:
 - Customized-module for users retention & business needs.
 - Integrated-extensible engine for 3rd-party systems.
 
-## The Context
+## The context
+
 Providing growth solutions, Aharooms aims to support 2-3 star Hotels with multiple sale channels, property management, and extra services
 
 They wish to access, understand and localize a Vietnamese product, for Vietnamese people.
 
 ![](assets/the-development-journey-with-aharooms---vietnam-hospitality-growth-solutions_aha-room-web.webp)
 
-The affordable hotel segment(2-3 stars) is a potential market. But the services standard still run with  a lack of uniformity. Traditional business operations is blocking them from better quality. 
+The affordable hotel segment(2-3 stars) is a potential market. But the services standard still run with  a lack of uniformity. Traditional business operations is blocking them from better quality.
 
-The hit of Covid pushed hospitality industry with severely affects. It was tough to maintain the current business state. Diversify services is the only way to reach new clients. 
+The hit of Covid pushed hospitality industry with severely affects. It was tough to maintain the current business state. Diversify services is the only way to reach new clients.
 
 >
-> Aharooms equips with growth solutions, management center, booking channel, customer services and optimize revenue for affordable hotel market. 
+> Aharooms equips with growth solutions, management center, booking channel, customer services and optimize revenue for affordable hotel market.
 
-## Engagement Model
-### Solution Design
-Aharooms delivers a full package of services. With selective technology and business insights, we provide high-level architecture with 
+## Engagement model
+
+### Solution design
+
+Aharooms delivers a full package of services. With selective technology and business insights, we provide high-level architecture with
+
 - Integrated Booking Engine
-- Admin Panel dashboard 
+- Admin Panel dashboard
 - And customized modules for:
 
 ![](assets/the-development-journey-with-aharooms---vietnam-hospitality-growth-solutions_aha-solu.webp)
@@ -59,7 +65,7 @@ Aharooms delivers a full package of services. With selective technology and busi
 
 - Direct-booking Platform: Built as a Hotel-Shopify for different booking types. Chatbot-integration for end-to-end solutions.
 - Management Systems: Applying technology in building operations management, budgeting, and promotion applications.
-- The Property Management System (PMS): To manage bookings via different channels with front-office capabilities for room services management. 
+- The Property Management System (PMS): To manage bookings via different channels with front-office capabilities for room services management.
 - The Revenue Management System (RMS): To maximize sales and revenue.  RMS works to evaluate and control revenue with the best cost efficiency.
 
 **Boost up Customer Retention**
@@ -84,18 +90,19 @@ Aharooms delivers a full package of services. With selective technology and busi
 **Cloud-based Infrastructure**
 
 We apply Docker and k8s for data isolation & context separation. With Singapore node-based, we're risk-free in major cloud security issues. Deploy our React.js sites to Netlify helps us deal with the bottle-neck traffic incidents.
-Our dev environments are 4 separate ones: Local, CI, Staging and Production. 
+Our dev environments are 4 separate ones: Local, CI, Staging and Production.
 
-Users will get noticed on a new release. Meanwhile, we're able to resolve issues quickly. 
+Users will get noticed on a new release. Meanwhile, we're able to resolve issues quickly.
 
-Docker and docker-compose made quite a useful pack. 
+Docker and docker-compose made quite a useful pack.
 
 ![](assets/the-development-journey-with-aharooms---vietnam-hospitality-growth-solutions_aha-infras.webp)
 
 ## Outcome
-Our solutions reflects the end result. 
 
-With a landing page for booking site, PMS and RMS, Aharooms was able to equip business owners with tactical growth solutions. 
+Our solutions reflects the end result.
+
+With a landing page for booking site, PMS and RMS, Aharooms was able to equip business owners with tactical growth solutions.
 
 We're confident to shift the focus on expanding sales channels, increasing the product's inventory (Hourly and Nighttime booking, Corporate partner bookings)
 

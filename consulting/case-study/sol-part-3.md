@@ -14,7 +14,7 @@ authors:
 ## Introduction
 Today we shall continue our series of designing “Sol-Travel Planning” app. As we mentioned our process on UX research and UI design in the last two articles, Sol’s target users are the young so keeping the app fun with interaction is a must.
 
-## Main Motions
+## Main motions
 According to Issara Willenskomer from UxinMotion, motion implementation in UX design can greatly help improving usability in four noticeable ways: fulfilling expectation from the users, maintaining continuity among a set of scenes, inventing narrative — story-telling flow throughout the user experience.
 
 ## Onboarding
@@ -45,7 +45,7 @@ When the user swipes an item, it will slide to the left side of the screen to re
 
 ![](assets/sol-travel-planning-app-part-3_sol-travel-planning-app---part-3_3601ea3b7924b28bf5b235a6c19075ab_md5.webp)
 
-## Using Protopie in creating a real-life Prototype
+## Using protopie in creating a real-life Prototype
 ### Why we choose Protopie
 At first, we were looking for an app that not only supports many interactions but also is able to create useful animations. We came across popular apps as inVision, Framer, and Flinto. Each has their pros and cons. For example, inVision is great for webpage prototype because websites don’t require high-level of gestures as mobile (swipe up and down perhaps), just moving between the screens is enough for you to create a viable prototype of your website. 
 

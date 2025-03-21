@@ -37,7 +37,7 @@ Released the core master data service in the MVP version
 **Our Service**\
 MVP Development, Tech Consulting, Staff Augmentation
 
-## The Challenges
+## The challenges
 
 ![](assets/open-fabric-set-the-tech-foundation-and-built-an-mvp-from-scratch_a391484a82928431344bb4a1220bea85_md5.webp)
 
@@ -53,8 +53,8 @@ These business requirements require the following technical challenges to be sol
 
 At the same time, we also need to tackle the challenge which most startups encounter during their early stage: having a tech team skilled and experienced enough to align product development with business roadmap.
 
-## The Solutions
-### Rapid Team Scaling Solution
+## The solutions
+### Rapid team Scaling Solution
 The key to this collaboration is to provide OpenFabric with engineers who are highly skilled in both coding skills and solutions design skills. In a span of 2 weeks, Dwarves managed to deploy 3 engineers meeting the required skills. 
 
 The team consists of:
@@ -64,7 +64,7 @@ The team consists of:
 
 Our 3 engineers worked together with OpenFabric’s engineers as one unified team. With their prior experience working on similar products, it didn’t take long for our engineers to pick up and start performing.
 
-### Customer Solutions
+### Customer solutions
 #### Vision of the product
 For customers, we are a single interface that exponentially accelerates your merchant footprint across use cases, geographies, and channels. To create a friction-less experience for our customers, we help to ensure the product:
 - Leverages virtual cards to tokenize closed-loop payment instruments;
@@ -74,8 +74,8 @@ For customers, we are a single interface that exponentially accelerates your mer
 #### How we handle the product
 Areas such as maintenance and production issues are risk assessed, planned, and managed as a joint effort with the engineering teams. We help to ensure a strong collaboration process between both our internal team and Dwarves team for any issues or incidents, and this requirement holds true for any remote team.
 
-### Technical Solutions
-#### Solution Design
+### Technical solutions
+#### Solution design
 For Open Fabric’s core business concept, in order to meet requirements for high scalability, horizontal scaling is more preferred over vertical scaling. With that, the system needs to be organized into several services in accordance to domain boundaries.
 
 **Multi-tenancy**
@@ -90,7 +90,7 @@ Internal staff and partner teams need ways to monitor their business operations,
 
 With limited resources and a rushed time to launch, we have to weigh between building our own report system and allowing easy customization or integrating an existing report service. After thorough research and evaluation, we decided to integrate Metabase to our system, as it was able to meet our requirements.
 
-### System Design
+### System design
 | System | Tech Stacks |
 |---|---|
 | Front-end | React, Typescript |
@@ -142,7 +142,7 @@ There are 2 releases in the sprint: a production release in the middle of the sp
 
 This allows us to always verify a bug fix/patch in the lower environment before moving it to production, and avoid the situation of reintroducing the bug because we forget to put the fix back into the main branch.
 
-## The Outcome
+## The outcome
 Together with the Dwarves team, we were able to release essential services that became the foundation of the system. This included the master central configuration service and portals (TSP and OSP) that connects the whole payment gateway system.
 
 The partnership significantly impacted our collaboration in a positive way. With help from our Dwarves team, Open Fabric was able to:

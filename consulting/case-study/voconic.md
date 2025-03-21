@@ -20,7 +20,7 @@ authors:
 - They want to make a new data ecosystem: Public and private cloud, containerization, software orchestration, AI to support the growth of DevOps
 - We team up with them to develop **Voconic** - a cloud PaaS for CJC’s clients, aiming to make cloud deployment seamless across cloud providers and environment.
 
-### Technical Highlight
+### Technical highlight
 - Backend, Frontend and CLI tools are built from scratch by engineers specialized in Cloud development
 - Golang heavy backend integrated with Google Cloud Platform for 1-click deployment experience
 - Deep integration with multiple cloud providers (Google & AWS)
@@ -29,7 +29,7 @@ authors:
 - Separated services for file upload. This divides chunk files into smaller packs with cache data, which optimizes large files uploading process (reduce CPU & RAM)
 - Automation test for product deployment on GCP (automated deploy and delete product on GCP)
 
-### The Context
+### The context
 CJC wants to provide cloud solutions with flexibility, scalability and adaptability. It empowers users to pivot the demand of changing business opportunities. 
 
 They believe spending manually effort on deploying and managing products in cloud is cumbersome. 
@@ -43,7 +43,7 @@ With Voconic, users have as internal working version before releasing the offici
 >
 > "We were looking for a team that we can entrust our new Voconic cloud platform. And we found Dwarves among others which is well known for industry experience in Go development, cloud platform and K8s." *Paul Kossowski, Manager at CJC*
 
-### Engagement Model
+### Engagement model
 **Team size**<br>
 From 3 engineers in the early stage, we grew the number up to 6 with deeper involvement.
 

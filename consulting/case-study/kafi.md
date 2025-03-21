@@ -36,7 +36,7 @@ Kafi decided to "transform" by launching a technological upgrade for their mobil
 
 However, with this large-scale change, Kafi couldn't just implement small and gradual improvements. Instead, they needed to transition to a completely new application. Rebuilding from scratch created an opportunity to optimize performance and security, while providing a more consistent and seamless user experience, overcoming the limitations of the old system.
 
-## Understanding User Needs
+## Understanding user Needs
 
 The team divided the project into three main phases: **empathize, plan, and design**. In the empathize phase, Kafi recognized their lack of insight into customers' desires, needs, and expectations. The team needed to answer three key questions: What are customers' current pain points? What do they truly want? And what do they actually need?
 
@@ -48,7 +48,7 @@ Next, the team dove into a one-week deep dive to really get to the bottom of thi
 
 During the research process, the team utilized artificial intelligence (AI) to support market research and competitive analysis. AI helped uncover potential issues in the stock market, providing a starting point and foundation for the team's research. However, the results needed to be carefully examined.
 
-### Action Planning
+### Action planning
 
 In the second phase of the project, after gathering all primary data, the team encountered an abundance of information. The team needed to **prioritize and strategize** for the user experience design. The team then conducted **secondary research** to shape Kafi's product and experience strategy. This stage comprised three main activities:
 
@@ -80,7 +80,7 @@ Understanding this behavior helps Kafi optimize the user experience on mobile ap
 
 With the team comprehensive research complete, Kafi was ready to move forward...
 
-### Helping New Investors
+### Helping new Investors
 
 Investing is a complex field that requires a solid foundation of knowledge, posing significant challenges for new investors. They face risks when investing large amounts of capital without fully understanding the potential consequences. This can lead to unwise investment decisions and substantial financial losses.
 
@@ -114,7 +114,7 @@ To improve the onboarding experience, we optimized the registration and identity
 
 When users decide to create an account, they are guided through the user verification process, portfolio tracking, and order placement step by step. The design team integrated a visual progress bar, allowing users to easily track the onboarding process and flexibly skip any step if desired. This approach not only simplifies the registration process but also creates a personalized experience tailored to the needs of each customer segment.
 
-### Designing Tools for Different User Groups
+### Designing tools for Different User Groups
 
 Investors, especially professional ones, need advanced support tools to make informed investment decisions. While web platforms allow for flexible arrangement of features and tools, the limited space on mobile phones poses a significant challenge for interface design. We must find a way to provide comprehensive analytical tools for professional investors without overwhelming new investors.
 
@@ -124,7 +124,7 @@ After registration, the application **applies a user classification system to di
 
 This approach not only enhances the user experience but also promotes continuous development of investors on the Kafi platform. By providing content and tools appropriate for each stage of development, Kafi creates a dynamic learning and investment ecosystem, encouraging users to constantly improve their knowledge and skills. This method meets the specific needs of each customer segment while maintaining a simple and accessible application. As a result, Kafi becomes a flexible platform, effectively serving both beginners and experienced investors, creating a diverse and vibrant investment community.
 
-## Lessons Learned
+## Lessons learned
 
 There are many ways to address the challenges faced by Kafi and other stock trading applications. However, the most important thing is to understand customer needs clearly. If your company serves multiple user groups, pay attention to collecting and analyzing their diverse needs. Then, prioritize addressing these needs appropriately for each group, as Kafi did through their research.
 

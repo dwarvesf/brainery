@@ -20,7 +20,7 @@ authors:
 - Currently reached the seed round funded by LazyLedger, Tokenomy aims to reach a broader customer segment through web platforms and mobile apps.
 - We fully support a team of Senior Frontend Engineer, Android Mobile Engineer, and UX Designer to help them stay on track with the release timeline.
 
-## Technical Highlight
+## Technical highlight
 - MVVM for mobile application architecture
 - WebSocket for real-time trading support
 - Reactivex to bind data and process asynchronous tasks
@@ -28,7 +28,7 @@ authors:
 - Custom-built Android module to support different APIs
 - Weekly product changelog apply for the team synergy
 
-## The Context
+## The context
 They came to us at first to refactor the frontend foundation. The partnership then escalated to create mobile apps and redesign the app UI.
 
 The Android app is expected to release first, followed by applying the new design. The web app needs to be ready for essential functions. Meanwhile, the backend must be equipped with API optimization. 
@@ -38,7 +38,7 @@ The Android app is expected to release first, followed by applying the new desig
 
 ![](assets/architect-frontend-site-and-mobile-development-for-crypto-investment-ecosystem_tokenomy-2.webp)
 
-## Engagement Model
+## Engagement model
 Tokenomy is our first Android project app for cryptocurrency trading platforms. Our team gains new insight through different work scopes.
 
 We develop the new Premium web app from scratch. We take over the Android mobile app, dive into market research to redesign the app UI.
