@@ -69,8 +69,12 @@ SELECT
             '<a class="v-list-item-title" href="/' || REGEXP_REPLACE(LOWER(REGEXP_REPLACE(REPLACE(REPLACE(file_path, '.md', ''), ' ', '-'), '[^a-zA-Z0-9/_-]+', '-')), '(-/|-$|_index$)', '') || '">' || REPLACE(REPLACE(REPLACE(COALESCE(short_title, title), '&', '&'), '<', '<'), '>', '>') || '</a>' ||
             '<div class="v-list-item-desc">' || REPLACE(REPLACE(REPLACE(description, '&', '&'), '<', '<'), '>', '>') || '</div>' ||
             '<div class="v-list-item-author">' ||
-                REPLACE(REPLACE(REPLACE(
-                    ARRAY_TO_STRING(authors, ', '),
+                REPLACE(REPLACE(
+            REPLACE(
+                ARRAY_TO_STRING(
+                    LIST_TRANSFORM(authors, author ->
+                        '<a href="/contributor/' || author || '">' || author || '</a>'
+                    ), ', '),
                     '&', '&'),
                     '<', '<'),
                     '>', '>')
