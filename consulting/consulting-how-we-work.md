@@ -11,6 +11,7 @@ authors:
 ---
 
 ## Our Approach: Collaborative Expertise
+
 - **Team of Specialists**: we favor collective expertise, encouraging knowledge sharing and collaboration, to craft innovative solutions that exceed expectations.
 - **Innovative Mindset:** we encourage out-of-the-box thinking, experimentation, and creative problem-solving
 - **Transparent Communication**: we lay everything out on the open, fostering a collaborative environment that promotes trust, clarity, and alignment
