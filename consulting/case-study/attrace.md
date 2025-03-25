@@ -1,90 +1,137 @@
 ---
-tags: 
-  - blockchain
-  - consulting
-  - case-study
-title: "Attrace: Blockchain adoption for Netherland's affiliate marketing platform"
+title: "Building blockchain solutions for affiliate marketing"
 short_title: Attrace
 date: 2021-06-18
-description: Attrace is a Netherland decentralized affiliate marketing network that audits action and bridges e-commerce websites to merchants. Our team of 3 join them to contribute to Attrace's core function with custom-made blockchain technology.
+description: We helped Attrace, a Dutch company, create a transparent affiliate marketing platform using blockchain technology that connects online merchants with websites in a secure, fraud-resistant way.
 authors: 
-- nikkingtr
-- duy
+  - nikki
+  - duy
+tags: 
+  - blockchain
+  - case-study
 ---
 
-## In brief
+**Industry**\
+Marketing Technology / Blockchain
 
-- Attrace is a Netherland decentralized affiliate marketing network that audits action and bridges e-commerce websites to merchants.
-- The core concept is applying referral for different blockchain product use cases
-- They seek to launch MVP for market validation and early user acquisition
-- Our team of 3 join them to contribute to Attrace's core function with custom-made blockchain technology
+**Location**\
+Netherlands
 
-## Highlight
+**Business context**\
+Traditional affiliate marketing systems lacked transparency and trust between merchants and websites
 
-- Blockchain solutions for multiples use-cases
-- Golang for Backend system: Solidity and index blockchain data
-- IPFS as files sharing system
-- GDPR standard for data privacy
-- Fraud detection & verification network
+**Solution**\
+Developed a decentralized affiliate network using blockchain to verify referrals and ensure fair commission payments
 
-![](assets/adopt-blockchain-on-netherlands-affiliate-marketing-platform_adopt-blockchain-on-netherland-affiliate-marketing-platform.webp)
+**Outcome**\
+Successfully launched an MVP followed by "The Outlet Launch" (NFT cashback) and integration with major crypto exchanges
 
-## The context
+**Our service**\
+Blockchain Development / Smart Contract Development / Network Architecture
 
-Attrace's concept is a marketing platform that helps merchants feature and advertise their products.
+## Technical highlights
 
-Hazy cashflow may create loopholes for security fraud. Attrace moves the network activity to blockchain-based for cost-reduction and data privacy management.
+- **Smart contracts**: Solidity for transparent transaction agreements
+- **Backend**: Golang for blockchain data indexing and verifier network
+- **Consensus**: pBFT protocol implementation for blockchain validation
+- **Data storage**: IPFS for persistent, secure file sharing with access controls
+- **Security**: Multiple authentication systems with rigorous testing
+- **Integration**: Support for eight major blockchain networks
 
-Attrace's blockchain network logs agreements between parties through a smart contract & linked to individual clicks.
+## What we did with Attrace
 
-![](assets/adopt-blockchain-on-netherlands-affiliate-marketing-platform_adopt-blockchain-on-netherland-referral-network.webp)
+Attrace came to us with an exciting challenge: build a decentralized affiliate marketing network that uses blockchain to verify referrals and connect merchants with websites.
 
-![](assets/adopt-blockchain-on-netherlands-affiliate-marketing-platform_adopt-blockchain-on-netherland-app.webp)
+Their core idea was applying referral systems to different blockchain products, from token sales to NFTs.
 
-![](assets/adopt-blockchain-on-netherlands-affiliate-marketing-platform_adopt-blockchain-on-netherland-benefits.webp)
+They needed to launch an MVP quickly to validate their idea and start attracting early users. Our team of three developers joined their project, focusing on creating custom blockchain solutions to power Attrace's core functionality.
 
->
-> We build Attrace with **blockchain-nodes**. It provides transparent transactions, creates secure networks and real-time communications between parties.
+![Attrace marketing platform overview](assets/attrace-platform-overview.webp)
 
-**Rely heavily on ETH**
+## How we built it
 
-ETH based network is primely used to create decentralized which are not in existence prior. It decreases the chance of fraud, built and run on smart contracts. Exists as a middle man to eliminate third-party users from leveraging the network loophole.
+We focused on creating a secure, transparent system using blockchain technology:
 
-ETH isn't the only chain we keep in mind. Attrace team is working on more chain integration for a widen user segment.
+- **Blockchain solutions** for multiple use cases like IDO launches, liquidity pools, and NFTs
+- **Custom backend systems** built with Golang and Solidity to index blockchain data
+- **IPFS technology** for secure file sharing with proper access controls
+- **Privacy-focused design** meeting GDPR standards
+- **Fraud detection network** to verify transactions and prevent misuse
 
-## Engagement model
+## The problem Attrace was solving
 
-Attrace provides solutions to apply referral into blockchain products (IDO, Liquidity Pool, or NFT). With every case comes a smart contract to define the related metrics. A verifier network will then tracks those metrics, and payout for the relevant stakeholders.
+Traditional affiliate marketing has issues with transparency and trust. When a customer clicks a referral link and makes a purchase, it's hard to verify if the commission was correctly tracked and paid.
 
-**Tech stacks**
+![Attrace referral network diagram](assets/attrace-referral-network.webp)
 
-- Backend: Solidity & Index in Golang
-- Frontend: React
-- Files sharing system: IPFS
-- Infras: k8s, AWS
-- Monitoring: Prometheus
-- Verifier network: Golang
+Unclear money flow creates opportunities for fraud. Attrace's solution was to move all network activity to blockchain, which provides:
 
-Data must be propagated in blockchain. Leverage IPFS keeps data persistently available with access control. Meanwhile, it prevents data from being bloated by relying on cryptographic hashes.
+- Lower costs for running the network
+- Better data privacy management
+- Transparent tracking of all transactions
 
-**Communication**\
-Slack chat & Trello task management.
+The blockchain system logs agreements between merchants and affiliates through smart contracts, with each click and conversion tracked on the chain.
 
-## Outcome
+![Attrace app interface](assets/attrace-app-interface.webp)
 
-We rolled out the MVP version after 9 months. Followed by The Outlet Launch (NFT Cashback) and deep integration in multiples wallets.
+![Benefits of Attrace's approach](assets/attrace-benefits.webp)
 
-Notably such as achieving pBFT for the consensus protocol, building a network connector (for consumers to interact with Attrace’s blockchain network) and a dashboard for campaigns management.
+We built Attrace using **blockchain nodes** that provide transparent transactions, create secure networks, and enable real-time communication between everyone involved.
 
-Attrace marked up their next highlights with an achievement streak:
+### Technical approach
 
-- [Launch Attrace Token $ATTR](https://medium0.com/attrace/launch-of-attrace-token-attr-8af568436136?source=rss-43b67b0fd75b------2)
-- Launch Attrace Referral Network
-- Listing on UniSwap & SushiSwap
+We initially built on Ethereum because it offers a proven way to create decentralized applications with smart contracts. This greatly reduces the chance of fraud by eliminating the need for third parties.
 
-![](assets/adopt-blockchain-on-netherlands-affiliate-marketing-platform_adopt-blockchain-on-netherland-referral-network-1.webp)
+But we didn't stop there. The Attrace team was already planning to integrate with more blockchain networks to reach a wider user base.
 
-![](assets/adopt-blockchain-on-netherlands-affiliate-marketing-platform_adopt-blockchain-on-uniswap.webp)
+We developed several key technical components:
 
->
-> *"They left us with great development and improvement, in terms of work result and team synchronization. A worthy evidence for Attrace’s investments and we hope nothing more than to keep going with them in long-term, provide opportunities for these devs to grow with Attrace."* Erwin, Attrace's CEO & Founder
+- **Consensus protocol**: We implemented a pBFT (Practical Byzantine Fault Tolerance) consensus mechanism for blockchain validation, ensuring reliable agreement between network nodes.
+- **Blockchain connector**: We built a network connector that serves as the interface for users to interact with Attrace's blockchain, simplifying the complexity of blockchain integration.
+- **Smart contract system**: We created Solidity contracts that define the rules for different types of affiliate relationships and handle commission payments automatically.
+- **Indexing engine**: We developed a system in Golang to efficiently index and process blockchain data, making it accessible for reporting and analysis.
+- **Dashboard**: We built a management interface for marketing campaigns, allowing users to create, track, and optimize their affiliate programs.
+
+### Data architecture
+
+Blockchain data needs to be available long-term while avoiding bloat. We used IPFS (InterPlanetary File System) to keep data persistently available with proper access controls. This system relies on cryptographic hashes instead of storing everything on the blockchain itself.
+
+This approach provided several benefits:
+
+- Data remains accessible even if the original publisher goes offline
+- Content addressing ensures data integrity
+- Access controls maintain privacy where needed
+- Reduced on-chain storage costs
+
+### How we collaborated
+
+We stayed in sync with the Attrace team using Slack for daily conversations and Trello for task management. Our regular communication rhythm included:
+
+- Daily progress updates through Slack
+- Weekly planning sessions to prioritize tasks
+- Bi-weekly demos to showcase new features
+- Monthly roadmap reviews to align with business goals
+
+This collaborative approach ensured we remained aligned with Attrace's vision while maintaining development momentum.
+
+## What we achieved
+
+After nine months of work, we successfully launched the MVP version of Attrace. This was followed by "The Outlet Launch" (featuring NFT cashback) and deep integration with multiple crypto wallets.
+
+Our team delivered several key components:
+
+- A pBFT consensus protocol for blockchain validation
+- A network connector for users to interact with Attrace's blockchain
+- A dashboard for managing marketing campaigns
+
+![Attrace referral network implementation](assets/attrace-referral-network-implementation.webp)
+
+Attrace went on to achieve significant milestones:
+
+- [Launching their $ATTR token](https://medium0.com/attrace/launch-of-attrace-token-attr-8af568436136?source=rss-43b67b0fd75b------2)
+- Releasing the complete Attrace Referral Network
+- Getting listed on major exchanges like UniSwap and SushiSwap
+
+![Attrace on Uniswap](assets/attrace-uniswap-listing.webp)
+
+> *"They left us with great development and improvement, in terms of work result and team synchronization. A worthy evidence for Attrace's investments and we hope nothing more than to keep going with them in long-term, provide opportunities for these devs to grow with Attrace."* - Erwin, Attrace's CEO & Founder

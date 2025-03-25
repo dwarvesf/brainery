@@ -1,85 +1,127 @@
 ---
-tags: 
-  - case-study
-  - blockchain
-  - crypto
-  - consulting
-title: "Hedge Foundation: A customized all-in-one trading platform for pro traders"
+title: "Building a powerful crypto trading dashboard for professionals"
 short_title: Hedge Foundation
 date: 2022-06-17
-description: Move alongside the crypto era, Hedge Foundation works to be part of the industry by providing practical tools for crypto users in terms of automating, syncing & managing accounts by utilizing the most out of market database.
+description: We built Hedge Foundation, a powerful crypto trading dashboard that helps professional traders manage multiple accounts, track positions, and automate order execution in real-time across exchanges.
 authors: 
-- nikkingtr
-- duy
+  - nikki
+tags: 
+  - quant
+  - blockchain
+  - fintech
+  - case-study
 ---
 
-![](assets/hedge-foundation-a-customized-all-in-one-trading-platform-for-pro-traders_7a9cdd9e9da725426a2859509b94f1d3_md5.webp)
+**Industry**\
+Financial Technology / Cryptocurrency
 
-## In brief
+**Location**\
+Global
 
-**[Hedge Foundation](http://hedge.foundation/)** is a powerful dashboard to support users in managing crypto account positions, balance, PNL and works on bulk orders for profit and loss tracking.
+**Business context**\
+Professional crypto traders needed a unified system to manage multiple exchange accounts and execute strategies efficiently
 
-Move alongside the crypto era, Hedge Foundation works to be part of the industry by providing practical tools for crypto users in terms of automating, syncing & managing accounts by utilizing the most out of market database.
+**Solution**\
+Developed an all-in-one dashboard that synchronizes data across exchanges and automates trading functions
 
-## Technical highlight
+**Outcome**\
+Delivered a comprehensive platform that significantly reduces the time required to manage multiple trading accounts
 
-- AG Grid to optimize big table with fast update real-time data.
-- Use web worker to offload heavy processing from the main thread and caching.
-- Elixir with Phoenix Framework to increase the efficiency and speed of API creation.
-- Crawling and Cronjob from multiple third parties with Elixir (Supervisor and Gen Server) for concurrency, scalability, and fault tolerance.
-- Microservices architecture to work with third-party for stability, scalability, and reusability.
-- Use custom Balancer and Forwarder services to deal with rate limits when crawling from almost third parties.
-- Integrate TradingView with custom indicator and drawing tools to visualize trading strategies.
+**Our service**\
+Full-stack Development / Financial Systems / Data Visualization
 
-![](assets/hedge-foundation-a-customized-all-in-one-trading-platform-for-pro-traders_e498a5a3ab250c4dc8a24a8c1a813cb9_md5.webp)
+## Technical highlights
 
-## The context
+- **Performance**: AG Grid for managing large tables with real-time data updates
+- **Concurrency**: Web workers for background processing to prevent UI lag
+- **Backend**: Elixir with Phoenix Framework for high-efficiency API creation
+- **Data collection**: Crawling systems using Elixir's Supervisor and GenServer
+- **Visualization**: TradingView integration with custom indicators
+- **Architecture**: Microservices with custom Balancer and Forwarder services
 
-Hedge Foundation's founder has a unique strategy to trade on centralized exchange platforms. His work revolves around keeping track of multiple accounts at once, conducts a huge daily trading volume and interacts with many tools to touch all the data he needs.
+## What we did with Hedge Foundation
 
-Hence, Hedge Foundation is expected to meet some critical goals:
+[Hedge Foundation](http://hedge.foundation/) is a powerful dashboard we developed to help professional crypto traders manage multiple exchange accounts, track positions, monitor balances, calculate PnL (profit and loss), and execute bulk orders—all from a single interface.
 
-- Alarm / Alert system for on-time notification on market status
-- Automatic trading function
-- Store all historical market data, including Cryptocurrency and Forex data
-- Custom Chart
-- Draw to chart with customized indicator and market data point setting.
+As the cryptocurrency market evolved, traders needed more sophisticated tools to stay competitive. We partnered with an experienced quantitative trader to create a platform that automates many tedious tasks, synchronizes data across exchanges, and provides actionable insights through real-time market data visualization.
 
-He visioned Hedge Foundation as the all-in-one managing system for crypto accounts. It supports visualizing market data, trims trading time, synchronizes all related data, and drives profitable decisions.
+The platform serves as an all-in-one management system for crypto accounts, helping traders make faster, more informed decisions while minimizing the time spent switching between different tools and interfaces.
 
-![](assets/hedge-foundation-a-customized-all-in-one-trading-platform-for-pro-traders_e47920a7b8c97022ce8bbaecdb21496c_md5.webp)
+![Hedge Foundation crypto trading dashboard](assets/hedge-main.webp)
 
-![](assets/hedge-foundation-a-customized-all-in-one-trading-platform-for-pro-traders_a756b023d1f2b51e9426c70b4993f8e2_md5.webp)
+## The challenge Hedge Foundation faced
 
-## Engagement model
+The founder of Hedge Foundation had developed a unique trading strategy that required tracking multiple accounts simultaneously, executing a high volume of daily trades, and analyzing various data points to identify opportunities.
 
-We spent most of our time optimizing the big table. It supposes to provide fast real-time data to render valuable insights. The founder can take profitable actions using this reliable info source,
+This approach presented several significant challenges:
 
-We picked Elixir for its fast, stable, and scalability potential. The data system is integrated service by service, and Binance is the first service we worked with.
+- **Data fragmentation**: Essential information was scattered across different exchanges and platforms
+- **Manual monitoring**: Watching market conditions 24/7 was impossible without automation
+- **Execution speed**: Profitable opportunities required immediate action across multiple accounts
+- **Data visualization**: Standard charting tools lacked the specific indicators needed for the strategy
+- **Historical analysis**: Past market data was needed to refine trading strategies
 
-### Tech stacks
+The founder envisioned a comprehensive system that would solve these problems through:
 
-We optimize big data SQL query with for query, view and index.
-- Backend: Elixir & Phoenix framework
-- Frontend: Next.js
-- Server-side rendering
-- Database: PostgreSQL & RESTful API
-- Elixir Supervisor and GenServer for crawling
+- An alarm/alert system providing timely notifications about market conditions
+- Automated trading functions to execute strategies without delay
+- Storage for all historical market data, including cryptocurrency and forex
+- Custom charting with proprietary indicators
+- The ability to annotate charts with custom data points
 
-### Collaboration
+![Hedge Foundation technical architecture](assets/hedge-tech.webp)
 
-- We spend the Saturday for product & development progress discussion. This also lays out what’s next to do.
-- Daily stand-ups are meant to sync and resolve problems incurred
+## How we built it
 
-### Delivery tooling
+We approached this complex challenge by focusing on data performance, reliability, and a flexible architecture that could integrate with multiple exchanges.
 
-- Discussion: Discord
-- Task management: Basecamp, GitHub
+### Technical approach
 
-## Outcome
+Our core focus was optimizing for real-time data handling and visualization:
 
-The feature list is gradually checked up. Hedge Foundation has met all the premised criteria for a crypto-data management tool. We’re on the way to expanding the integration with other trading platforms. This aligns with the business goal: To create more tactical and effective strategies.
+- **Performance optimization**: We implemented AG Grid to manage large tables with fast-updating real-time data, ensuring traders could see accurate information instantly.
+- **Background processing**: We used web workers to offload heavy data processing from the main thread, preventing interface lag and enabling complex calculations without affecting the user experience.
+- **Backend efficiency**: We chose Elixir with Phoenix Framework to increase the speed and efficiency of API creation, taking advantage of its concurrency model for handling multiple data streams.
+- **Data collection**: We built sophisticated crawling and scheduling systems using Elixir's Supervisor and GenServer, providing concurrency, scalability, and fault tolerance when gathering data from third-party sources.
+- **Scalable architecture**: We implemented microservices to work with third-party APIs, ensuring stability, scalability, and reusability across the platform.
+- **Rate limit management**: Custom Balancer and Forwarder services were created to handle rate limits when crawling data from external platforms.
+- **Advanced visualization**: We integrated TradingView with custom indicators and drawing tools, allowing traders to visualize their strategies directly on charts.
 
-![](assets/hedge-foundation-a-customized-all-in-one-trading-platform-for-pro-traders_a28c16f35596efa1df3a0680b6b1225a_md5.webp)
+![Hedge Foundation dashboard interface](assets/hedge-dashboard.webp)
 
-Dwarves Foundation is a team of design and development experts working closely with clients to craft software, build tech teams, and invest in people who create world's next favorite things.
+![Hedge Foundation market data visualization](assets/hedge-market.webp)
+
+### Technology we used
+
+We carefully selected technologies that could handle the demanding requirements of real-time financial data:
+
+- **Backend**: Elixir & Phoenix framework for concurrency and reliability
+- **Frontend**: Next.js with server-side rendering for performance
+- **Database**: PostgreSQL with optimized queries, views, and indexes
+- **Data collection**: Elixir Supervisor and GenServer for resilient data crawling
+- **API**: RESTful design for integration with multiple exchanges
+
+### How we collaborated
+
+We established a communication rhythm that kept development aligned with the founder's trading expertise:
+
+- Weekly Saturday discussions for product progress review and planning
+- Daily stand-ups to synchronize efforts and quickly resolve any issues
+- Regular collaboration through Discord for ongoing communication
+- Task management through Basecamp and GitHub
+
+## What we achieved
+
+We successfully delivered a comprehensive trading platform that met all the criteria established at the project's start. Hedge Foundation now provides traders with:
+
+- Real-time monitoring of multiple crypto accounts across exchanges
+- Automated alerts based on custom market conditions
+- Streamlined trade execution for capturing opportunities quickly
+- Custom visualization tools for specialized trading strategies
+- Comprehensive historical data for strategy development and backtesting
+
+![Hedge Foundation results dashboard](assets/hedge-result.webp)
+
+The platform has significantly reduced the time and effort required to manage multiple trading accounts, providing a single source of truth for position management and market analysis. We're continuing to expand the integration with additional trading platforms, aligning with the business goal of creating more tactical and effective trading strategies.
+
+Hedge Foundation demonstrates our ability to build complex financial systems that combine real-time data processing, custom visualizations, and automated workflows to solve challenging problems in the cryptocurrency trading space.

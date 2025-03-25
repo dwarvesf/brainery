@@ -1,105 +1,130 @@
 ---
-title: "BHD Cinema: Redesign BHD's booking ticket app"
+title: "Redesigning BHD Cinema's ticket booking app for a better experience"
 short_title: BHD Cinema
 date: 2020-05-20
-description: BHD is one of the biggest cinema chains in Vietnam with hundreds of thousands tickets sold monthly. However, its mobile application is a complete drawback; users cannot book tickets online, it feels and looks outdated, inconsistent and cluttered.
+description: We helped BHD Cinema transform their outdated mobile app into an intuitive platform that allows customers to easily browse movies, book tickets online, and enjoy a seamless cinema experience—turning movie-goers into loyal BHD fans.
 tags: 
-  - consulting
   - case-study
-  - UX-UI
 authors: 
-- duy
+  - duy
 ---
 
-## Introduction
-BHD is one of the biggest cinema chains in Vietnam with hundreds of thousands tickets sold monthly. However, its mobile application is a complete drawback; users cannot book tickets online, it feels and looks outdated, inconsistent and cluttered.
+**Industry**\
+Entertainment
 
-## Mission
-BHD’s new app covers all the basic needs of movie-goers, in an intuitive and pleasant way. Meaning, users can easily scan screening schedules, view movie details and book tickets online.
+**Location**\
+Vietnam
 
-![](assets/bhd-cinema-redesign-bhds-booking-ticket-app_fd03fdc78ab12b13f72e3ba56dd1b759_md5.webp)
+**Business context**\
+Popular cinema chain with an outdated, non-functional mobile app that frustrated users
 
-## Goal
-1. Provide users with information on movies, schedules, locations, promotions all in one space.
-2. Allow users to book and pay for their tickets online.
-3. Convert movie-goers into BHD fanatics. When it comes to movies, BHD comes to mind first.
+**Solution**\
+Complete app redesign with intuitive user flows for booking tickets and discovering movies
 
-## The challenges
-**The new design** needs to change users’ current perception of BHD app, by providing users with **a seamless and straight-forward experience.**
+**Outcome**\
+A modern, easy-to-use app that lets movie-goers book tickets online and enhances the cinema experience
 
-### Personas
+**Our service**\
+Mobile app design / UI/UX improvement
 
-![](assets/bhd-cinema-redesign-bhds-booking-ticket-app_618aab39225b79368617569d5ce342fd_md5.webp)
+## Technical highlights
 
-### Home screen - Schedule
-Home screen providing information of all movies, with a bigger and smoother transition effect for the movie carousel.
+- **UI Framework**: Used modern mobile design frameworks
+- **Typography**: Avenir Next font family for clean, readable text
+- **Design System**: Created consistent components and color palette
+- **Interactive Elements**: Carousel navigation, intuitive booking screens
 
-Moving the promotion banners beneath the movies to prioritize the main task.
+## What we did with BHD Cinema
 
-### Movie details
-Finding more info helps users decide if a movie fits them. Movie details were structured for easy scanning. A clear Book now button stays at the bottom of the screen allows fast booking without having to scroll.
+BHD Cinema is one of Vietnam's largest cinema chains, selling hundreds of thousands of tickets each month. Despite their popularity, their mobile app was a major weak point in their customer experience. The old app looked outdated, had an inconsistent interface, and most importantly, didn't allow customers to book tickets online.
 
-### Transaction history
-Users can keep track of their tickets, as well as their orders, sorted from newest to oldest for quick navigation. Orders are also indicated with different statuses to prevent missing pick-ups.
+We completely redesigned their app to meet the basic needs of movie-goers in a clean, intuitive way. Our new design makes it easy for customers to check movie schedules, see what's playing, learn about films, and book tickets directly through the app.
 
-Digital ticket with QR code. Scan and enter the movie, go green with less paper waste.
+![BHD Cinema's new app main screen showing movie listings and promotions](assets/bhd-main.webp)
 
-## The solution
-### Typography
-Avenir Next
+## The challenge BHD faced
 
-![](assets/bhd-cinema-redesign-bhds-booking-ticket-app_8e093f455147409fd5211e4d7bcd2908_md5.webp)
+BHD needed to change how customers perceived their digital experience. Their existing app was:
 
-### Color palette
+- Visually outdated and inconsistent
+- Unable to process online ticket bookings
+- Difficult to navigate with a cluttered interface
+- Missing key information that customers needed
 
-![](assets/bhd-cinema-redesign-bhds-booking-ticket-app_18808799e38c025d0d2a61ee2de5ba3f_md5.webp)
+They wanted a solution that would not only allow online booking but would also help convert regular movie-goers into loyal BHD customers. The app needed to become their customers' first choice when thinking about watching a movie.
 
-### Home screen - Schedule
-What movies are playing at the theater? Is that movie too long to watch? Providing answers to these common questions is the top priority of this screen. The old one didn’t offer this info and our proposed solutions are:
+![User personas for BHD Cinema app showing typical customer profiles](assets/bhd-personas.webp)
 
-1. A bigger and better transition effect for the movie carousel to make the browsing more enjoyable
-1. Eye-catching CTA button to encourage booking
-1. Moving the promotion banners beneath movies to prioritize the main task
+## How we built it
 
-![](assets/bhd-cinema-redesign-bhds-booking-ticket-app_dc0cb4a2d54682986db192151cc9a0f9_md5.webp)
+We approached the redesign by focusing on the core needs of movie-goers while creating a visually appealing, easy-to-navigate experience.
 
-### Movie details
-Finding more info helps users decide if a movie fits them. Movie details were structured in a way that users can scan through easily. A clear Book now button always stays at the bottom of the screen allows fast booking without having to scroll.
+### Design approach
 
-![](assets/bhd-cinema-redesign-bhds-booking-ticket-app_a400f1108f439c5e6da9cdf7d53464f2_md5.webp)
+We built the app around several key principles:
 
-### Showtime
-When picking showtime, it is important to group them by order: time - location - type of theater. Must-have data is also highlighted for best scanning:
+**Intuitive navigation**: We designed the home screen to immediately show what movies are playing, with a smooth carousel interface that makes browsing enjoyable. We moved promotional content below the movies to keep the focus on the main task—finding and booking movies.
 
-* Date of the showtime - today as the default state, going back to the previous days is not permitted to prevent mistakes.
-* City in which the cinemas locate - only 3 cities available so showing all should be better than hidden in a combo box.
-* Start time - optimized with horizontal scroll to help users perceive info and make their booking decision quickly.
+**Simplified information**: Movie details are structured for easy scanning, with all the essential information (runtime, genre, ratings) clearly visible. A persistent "Book now" button stays at the bottom of the screen, making it easy to move to the booking process at any point.
 
-![](assets/bhd-cinema-redesign-bhds-booking-ticket-app_fcb311deba22d4e2cd32a726fc3e6eec_md5.webp)
+**Streamlined booking**: The booking flow was reduced to the minimum necessary steps, with clear visual cues at each stage. We grouped showtimes logically by date, location, and theater type to help users quickly find convenient options.
 
-### Booking flow
+**Digital convenience**: We introduced digital tickets with QR codes, allowing for faster entry at theaters and reducing paper waste. The app also keeps track of past bookings and ticket history, sorted from newest to oldest for easy access.
 
-![](assets/bhd-cinema-redesign-bhds-booking-ticket-app_5a3eeb5e08d3adad020312b3121146bc_md5.webp)
+### Design elements
 
-### Transaction history
-Users can keep track of their tickets, as well as their orders arranged by latest to oldest for quick navigation.
+We created a consistent design system for the app:
 
-Orders are also indicated with different statuses to prevent missing pick-ups.
+**Typography**: We used Avenir Next throughout the app for its excellent readability and modern feel.
 
-Digital ticket with QR code. Scan and enter the movie, go green with less paper waste.
+![Typography examples showing Avenir Next font in different weights and sizes](assets/bhd-typography.webp)
 
-![](assets/bhd-cinema-redesign-bhds-booking-ticket-app_cdd1b0329dd6326c7c956e9b38249738_md5.webp)
+**Color palette**: We developed a color system based on BHD's brand colors, creating a visually appealing interface that maintained brand recognition.
 
-![](assets/bhd-cinema-redesign-bhds-booking-ticket-app_72152661bca1114ef31f4585cca3fa3f_md5.webp)
+![Color palette showing the main colors used in the BHD app design](assets/bhd-colors.webp)
 
-### Book by cinema
-Some users might want to find the nearest cinema to go to, regardless of which movies are shown. Therefore, showtime of movies are fully shown in one screen.
+### Key features
 
-Now, only two steps needed to select a seat.
+**Home screen and movie schedule**: The redesigned home screen makes it easy to see what's playing with larger movie cards and a smoother carousel effect. We prioritized movie content over promotional banners to focus on the main user need.
 
-![](assets/bhd-cinema-redesign-bhds-booking-ticket-app_266a54ba7c312bb497cb75620240b0b4_md5.webp)
+![Home screen design showing movie listings in carousel format](assets/bhd-home.webp)
 
-### Our theaters
-Movie-goers can explore many types of theaters provided by BHD ranging from Standard to Special. List of theaters presented with real photos brings a hint of what they would enjoy. Card component is used to display list of theaters and news to retain consistency in style.
+**Movie details**: We structured movie information to help users quickly decide if a film matches their interests. Details include synopsis, runtime, genre, cast, and age rating—all the essential information for making a choice.
 
-![](assets/bhd-cinema-redesign-bhds-booking-ticket-app_be546b8f2dd8fce3168ccf8b313b7623_md5.webp)
+![Movie details screen showing film information and booking button](assets/bhd-details.webp)
+
+**Showtime selection**: We organized showtimes in a logical order by date, location, and theater type. Only relevant information is highlighted to prevent information overload:
+
+- Today's date is the default view (you can't book past shows)
+- City selection is simplified
+- Start times are arranged in a horizontal scroll for quick scanning
+
+![Showtime selection screen with organized viewing options](assets/bhd-showtime.webp)
+
+**Booking flow**: We simplified the entire booking process to make it quick and intuitive, reducing the steps needed to complete a reservation.
+
+![Booking flow showing the seat selection process](assets/bhd-booking.webp)
+
+**Transaction history and tickets**: The app keeps track of all tickets and orders, making it easy for users to access their current and past bookings. Digital tickets include QR codes for quick theater entry.
+
+![Ticket history screen showing past bookings and digital tickets](assets/bhd-history.webp)
+
+**Cinema browsing**: For users who prefer to choose a theater first, we created a "Book by cinema" feature that shows all movies playing at a specific location. This option provides greater flexibility in how users approach their movie selection.
+
+![Cinema selection screen showing theater options and films playing](assets/bhd-by-cinema.webp)
+
+**Theater information**: The app includes detailed information about each BHD theater, including photos of the different theater types (standard, premium, etc.) to help customers know what to expect from their cinema experience.
+
+![Theater information screen showing different cinema types](assets/bhd-theaters.webp)
+
+## What we achieved
+
+The redesigned BHD Cinema app successfully transformed the customer experience by addressing all the key issues with the previous version:
+
+- Created an intuitive interface that makes finding and booking movies simple
+- Implemented online ticket booking functionality that eliminates the need to wait in line
+- Designed a system for managing digital tickets and booking history
+- Provided comprehensive information about movies, theaters, and showtimes in an easily digestible format
+- Built a flexible platform that accommodates different user approaches to movie selection
+
+The new app helps BHD Cinema strengthen their brand and build customer loyalty by providing a seamless digital experience that complements their physical cinema services. By making it easier for customers to engage with their brand through digital channels, BHD can better compete in Vietnam's busy entertainment market.

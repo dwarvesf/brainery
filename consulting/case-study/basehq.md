@@ -1,78 +1,119 @@
 ---
-tags:
-  - case-study
-  - partnership
-  - consulting
-title: "BaseHQ: US first-ever platform built for assistants"
+title: "Creating the first platform for Executive assistants"
 short_title: BaseHQ
 date: 2021-08-06
-description: Base is a software platform built specifically for executive assistants, aiming to streamline their daily work through high integration between different platforms. This case study details Dwarves' two-year partnership with Base, helping them develop new modules and features to meet their release roadmap and ensure product quality.
+description: We worked with BaseHQ for two years to build and improve their software for executive assistants, helping them create new features and make their system faster and more reliable.
 authors: 
-- duy
-- nikkingtr
+  - duy
+  - nikki
+tags:
+  - startup
+  - case-study
+  - US
 ---
-![](assets/team-up-with-basehq-us-first-ever-platform-built-for-assistants_team-up-with-basehq---us-first-ever-platform-built-for-assistants_019ef328b59808b45c4541243f71c875_md5.webp)
 
-## In brief
+**Industry**\
+Productivity / Workplace Software
 
-- Base launched in 2019 out of High Alpha Venture Studio, with a $2.6M funding round led by Matchstick Ventures with participation from Revolution's Rise of the Rest Seed Fund, High Alpha Capital, and Slack Fund.
-- Base is a software platform built specifically for executive assistants. Focus on smoothing out assistants' daily work. They demand a high integration between different platforms.
-- We stepped in to make it happen. Through 2 years straight, they engaged with Dwarves to develop various new modules and features. Our work helped Base to catch up with their release roadmap and ensured product quality.
+**Location**\
+United States
 
-## Technical highlight
+**Business context**\
+Executive assistants lacked specialized software to manage calendars, tasks, and communication across multiple platforms
 
-- Microservices Architecture
-- Implement TypeScript on the whole system for app performance
-- Write services in Golang for performance and secure
-- Write end-user app with ReactJS/NextJS Typescript to scalability
-- Custom-library and webhook for EventCatching
+**Solution**\
+Developed and refined a comprehensive platform specifically designed for executive assistants' unique workflow needs
 
-## The context
+**Outcome**\
+Created a successful platform that streamlines assistant workflows while establishing a long-term technical partnership
 
-BaseHQ heads to boost performance for assistants.
+**Our service**\
+Full-stack Development / Technical Consulting / Code Quality Improvement
 
-By pulling necessary data into one system, assistants can generate and use data for multiple operational tasks.
+## Technical highlights
 
-*Their goal is an all-in-one platform for critical data. From calendar, tasks, decision stream, digest builders and scheduler.*
+- **Backend**: Go and Node.js for efficient processing and API development
+- **Frontend**: React.js and Next.js with TypeScript for type safety
+- **Database**: MongoDB for flexible data storage and PostgreSQL for structured data
+- **Architecture**: Microservices approach for maintainability and scalability
+- **Monitoring**: New Relic, Sentry, and Fullstory for comprehensive visibility
+- **Deployment**: Google Cloud Platform with Kubernetes for reliable hosting
 
-![](assets/team-up-with-basehq-us-first-ever-platform-built-for-assistants_team-up-with-basehq---us-first-ever-platform-built-for-assistants_3d15a0c958a3f23f8935c803726b9d2a_md5.webp)
+## What we did with BaseHQ
 
-## Engagement model
+Base is a software platform made specifically for executive assistants. It launched in 2019 with $2.6 million in funding from investors like Matchstick Ventures, Rise of the Rest Seed Fund, High Alpha Capital, and Slack Fund. Their goal was to change how executive assistants work.
 
-Our work with Base contains codebase development and technical consultancy. We help refactor the code while suggesting new architecture for new apps or UI/UX advice
+The platform helps executive assistants manage their daily tasks by putting calendars, to-do lists, communication, and reporting all in one place. To do this, Base needed to build a system that could connect with all the different tools that assistants typically use.
 
-We took over the big legacy code and optimize them to ensure product stability. The architecture contains two main parts: End-user App and Admin Tool.
+![BaseHQ assistant platform](assets/basehq-main.webp)
 
-### Tech stacks
+We worked with BaseHQ for two years to help them develop new features and improve existing ones. We focused on helping them meet their deadlines while keeping their product high-quality. We provided both development help and technical advice, helping them improve their code and system design as they grew.
 
-- Backend: Go, Node.js
-- Frontend: React.js, Next.js, Typescript
-- Database: MongoDB, PostgreSQL
-- Infras: GCP, k8s
-- Monitoring: One Relic, Sentry, Fullstory
+## The challenge BaseHQ was facing
 
-### Collaboration
+Executive assistants have a unique challenge: they need to work across many different platforms and manage lots of information for the executives they support. Before Base, there wasn't any software specifically designed for their needs.
 
-- Jira: Task management
-- Slack: Team discussion
-- Zoom: Team meeting
-- Git/ Gitflow: Codebase
-- Github Action: CI/CD
+![BaseHQ business context](assets/basehq-context.webp)
 
-## Outcome
+Base needed to create an all-in-one platform that could bring together important data from different sources, including calendars, task managers, communication tools, and more. This would let assistants create reports, track decisions, build summaries for executives, and manage schedules all from one place.
 
-We keep track of the ongoing progress through weekly changelogs.
+When we joined the project, Base had a lot of existing code that needed improvement to make the product more stable and ready for future growth. The challenge wasn't just to add new features but also to clean up existing code and create a better system that could support their ambitious plans.
 
-Currently, we're in the phase of wrapping Availability Offer - Base's most significant feature to provide users with simplicity in task scheduling. A powerful key feature that combines Calendar Event and poll setup.
+## How we built it
 
-![](assets/team-up-with-basehq-us-first-ever-platform-built-for-assistants_team-up-with-basehq---us-first-ever-platform-built-for-assistants_3393da02505c90c30f246cf025e31661_md5.webp)
+Our work with BaseHQ included both coding and technical advice. We helped improve their existing code while suggesting new approaches for future features and providing design recommendations.
 
-Base just rolled out their [101 Demo](https://www.linkedin.com/posts/basehq_base-101-demo-get-back-to-the-base-ics-activity-6800435873860120576-G7ZI) not so long ago, detailedly describe how Base works.
+### Technical approach
 
-Base remains as one of our most extended collaborations. We assist them through different milestones. From rolling out their web app to their most significant features.
+We tackled their large existing codebase and improved it to make the product more stable. The system was divided into two main parts:
 
-![](assets/team-up-with-basehq-us-first-ever-platform-built-for-assistants_team-up-with-basehq---us-first-ever-platform-built-for-assistants_0fc0a747cbb535c9a10b6e797d4a4060_md5.webp)
+1. **User Application**: The interface that executive assistants use every day
+2. **Admin Tools**: Backend systems for managing users, connections, and platform settings
 
-![](assets/team-up-with-basehq-us-first-ever-platform-built-for-assistants_team-up-with-basehq---us-first-ever-platform-built-for-assistants_d22f939d826b00d349511d32bf7b6707_md5.webp)
+For the technical implementation, we used:
 
-![](assets/team-up-with-basehq-us-first-ever-platform-built-for-assistants_team-up-with-basehq---us-first-ever-platform-built-for-assistants_ff9a65b700cebf714977fb219434a0f9_md5.webp)
+- **Modern backend**: We combined Go and Node.js to create efficient APIs and data processing systems that could handle the complex requirements of calendar synchronization and task management.
+- **Type-safe frontend**: We built the user interfaces with React.js and Next.js, adding TypeScript to improve code quality and reduce bugs through static typing.
+- **Flexible database architecture**: We used MongoDB for storing unstructured data alongside PostgreSQL for more structured information, creating a hybrid approach that offered the best of both worlds.
+- **Reliable cloud infrastructure**: We deployed the system on Google Cloud Platform with Kubernetes, ensuring high availability and easy scaling as the user base grew.
+- **Comprehensive monitoring**: We implemented New Relic, Sentry, and Fullstory to track performance, catch errors, and understand user behavior.
+- **Event-driven architecture**: We created custom components for tracking events, enabling real-time updates and notifications across the platform.
+
+### How we collaborated
+
+Our collaboration with the Base team included:
+
+- Managing tasks through Jira to keep development organized
+- Communicating via Slack for quick questions and updates
+- Regular meetings on Zoom to discuss progress and challenges
+- Code management with Git for version control
+- Continuous deployment through GitHub Actions for reliable releases
+
+Throughout the project, we kept detailed weekly updates to track progress and ensure transparency with the BaseHQ team.
+
+## What we achieved
+
+![BaseHQ availability feature](assets/basehq-feature.webp)
+
+One of the most important features we helped develop was the Availability Offer system, which combines calendar management with polling to make scheduling easier. This feature shows how Base simplifies complex workflows for executive assistants.
+
+The availability system lets assistants:
+
+- Quickly find open time slots across multiple calendars
+- Send scheduling options to executives or external contacts
+- Collect preferences through a simple polling interface
+- Automatically book confirmed meetings on the right calendars
+
+![BaseHQ platform overview](assets/basehq-result1.webp)
+
+![BaseHQ user interface](assets/basehq-result2.webp)
+
+![BaseHQ dashboard](assets/basehq-result3.webp)
+
+Our partnership with Base is one of our longest collaborations. We've supported them through several important milestones, from the initial development of their web application to the creation and improvement of their core features.
+
+Base has continued to grow in popularity, recently showcasing their platform through a detailed [Base 101 Demo](https://www.linkedin.com/posts/basehq_base-101-demo-get-back-to-the-base-ics-activity-6800435873860120576-G7ZI) that shows how their system works.
+
+This project illustrates the value of long-term technical partnerships in helping startups refine and expand their products. By providing both development resources and strategic technical guidance, we helped Base create a platform that addresses a significant market need and delivers tangible value to executive assistants worldwide.
+
+Dwarves Foundation is a team of design and development experts working closely with clients to craft software, build tech teams, and invest in people who create world's next favorite things.

@@ -1,81 +1,111 @@
 ---
-title: "beGroup: Augmented team to ship beCorporate services"
+title: "Helping launch beCorporate enterprise ride-hailing service"
 short_title: beGroup
 date: 2020-11-18
-description: They look to ship in short timeline. The current engineering team was working on the 1st release of ride-hailing app. Wrap-up beCorporate adds a step in perfecting their service.
-tags: 
-  - case-study
-  - partnership
-  - consulting
+description: We provided an augmented team for beGroup, Vietnam's popular ride-hailing platform, to help them launch their beCorporate enterprise service on a tight timeline while their in-house team focused on their core consumer app.
 authors: 
-- duy
+  - duy
+tags: 
+  - ride-hailing
+  - case-study
 ---
-![](assets/augmented-begroup-team-to-deliver-becorporate-services_ca0b190a9c3b5efdcee6b76a84de9c5f_md5.webp)
 
-## In brief
+**Industry**\
+Transportation / Ride-hailing
 
-- Getting the early funding for over 40M US dollar, **beGroup** focuses to roll out all 4 products by the end of 2018. By that time, there were only 6 months before the debut.
-- **beCorporate** is a module to manage and optimize in-house business transports for employee.
-- They look to ship in short timeline. The current engineering team was working on the 1st release of ride-hailing app. Wrap-up beCorporate adds a step in perfecting their service.
-- We augmented them with 6 Dwarves, working collaboratively to speed up the product development.
+**Location**\
+Vietnam
 
-## Technical highlight
+**Business context**\
+beGroup needed to launch their enterprise ride-hailing service on a tight timeline while their in-house team was focused on their core consumer app
 
-- Golang-backend system for team-scale support
-- System design: Microservice architecture
-- System integration with new module development
-- Business logic adjustment
+**Solution**\
+Provided an augmented team of six developers to accelerate the development of the beCorporate platform
 
-## The context
+**Outcome**\
+Successfully released the beCorporate MVP after just three months, expanding beGroup's market coverage
 
-**beCorporate** is tailored for enterprises. Employees can register, schedule and book vehicle for business transports via **beApp**, either as a group or as an individual. The initial launch gained a lot of traction and traffics. It drives the development team to their busiest stage.
+**Our service**\
+Team Augmentation / Backend Development / Frontend Development
 
-![](assets/augmented-begroup-team-to-deliver-becorporate-services_3407a5c0fbbe296de86c5b0802a6872f_md5.webp)
+## Technical highlights
 
-Their release timeline for **beCorporate** couldn't change due to the business roadmap. The market was welcoming **beApp**, and was ready to see more.
+- **Backend**: Golang development for scalability and performance
+- **Frontend**: ReactJS with Tailwind for modern, responsive interfaces
+- **Architecture**: Microservices approach for seamless integration
+- **DevOps**: Comprehensive logging, monitoring, and CI/CD pipeline
+- **Process**: Agile development using Scrum methodology
+- **Collaboration**: Close integration with the beGroup in-house team
 
-Back in 2018, it was challenge to build an in-house team of experienced Golang developers. With that timeline, **be** needs a team partner to get things done fast. Hiring for more hands wasn't an option. There was no time for recruitment, onboarding, or tech stacks training.
+![beGroup ride-hailing service](assets/begroup-main.webp)
 
->
-> "We were one of the first teams in Vietnam that picked up Golang as the strategic language. That's how our partnership began."
+## What we did with beGroup
 
-## Engagement model
+beGroup is one of Vietnam's leading ride-hailing platforms, backed by significant early funding of over $40 million. With ambitious plans to launch four distinct products by the end of 2018, they faced a challenging timeline with just six months until their debut.
 
-**beCorporate** was sketched up with 2 ideals architectures. We must find where to input the module. Would it better be stand alone, or integrated as a service within be's Cloud ecosystem?
+One of these products was beCorporate, a specialized module designed to help enterprises manage and optimize their business transportation needs for employees. While beGroup's in-house engineering team was fully occupied with developing their core consumer ride-hailing app, they needed additional expertise to deliver beCorporate on schedule.
 
-- The stand alone: Modern enterprise solutions without compromising stability and reliable.
-- The ecosystem: Ensures how beCorp fits into the big picture of the current infrastructure.
+We provided an augmented team of six developers who worked collaboratively with beGroup to accelerate the development of beCorporate, helping them complete their product lineup and strengthen their market position in Vietnam's competitive transportation industry.
 
-We figured integrating **beCorporate** into the ecosystem was more reasonable. Users are capable of experience other services. Hence, microservice was the final option for system architecture.
+## The challenge beGroup was facing
 
-![](assets/augmented-begroup-team-to-deliver-becorporate-services_ea8665d018277b323545f81180d583b2_md5.webp)
+beCorporate is specifically tailored for enterprise clients, allowing employees to register, schedule, and book vehicles for business travel through the beApp platform, either individually or as groups. The initial launch of beGroup's main service had already gained significant traction and traffic, putting their development team under considerable pressure.
 
-### Tech stacks
+![beGroup's market context](assets/begroup-context.webp)
 
-- Backend: Golang
-- Frontend: ReactJS, Tailwind
-- Logging/Monitoring
-- Automated CI pipeline
+The release timeline for beCorporate was fixed due to the company's business roadmap. The market had responded positively to their main app and was eager to see more offerings from the beGroup platform.
 
-### Collaboration
+In 2018, building an in-house team of experienced Golang developers on short notice was particularly challenging in Vietnam. With their tight timeline, beGroup needed a partner who could hit the ground running. Traditional hiring wasn't viable – there simply wasn't enough time for recruitment, onboarding, or technical training.
 
-- Slack chat & GSuites document storage
-- Jira task management
-- Scrum Process
-- Bi-weekly release iteration & Weekly tech discussion
+As beGroup noted: "We were one of the first teams in Vietnam that picked up Golang as the strategic language. That's how our partnership began."
 
-## Outcome
+## How we built it
 
-**beCorporate** first MVP was released after 3 months, expanded the market coverage, enabled **be** to lay its name on Vietnam transportation industry.
+The first challenge was determining the best architectural approach for beCorporate. We explored two potential options:
 
-The augmentation allows them to reduce recruitment and training cost.
+1. A standalone solution: This would provide a modern enterprise service without compromising stability and reliability
+2. Integration with beGroup's ecosystem: This would ensure beCorporate fit seamlessly into their existing infrastructure
 
-Instead, their effort was fully invest in product development and maintaining current resources, marketing strategy and branding activities.
+![beGroup's architecture decision](assets/begroup-architecture.webp)
 
-See the full version at: [be.com.vn/khach-hang-doanh-nghiep/becorporate/](https://be.com.vn/khach-hang-doanh-nghiep/becorporate/)
+After careful analysis, we determined that integrating beCorporate into the existing ecosystem made more strategic sense. This approach would allow users to seamlessly experience other beGroup services and create a more cohesive product family. A microservices architecture became our chosen technical approach to accomplish this goal.
 
-![](assets/augmented-begroup-team-to-deliver-becorporate-services_05af781fc86209505eb928d390fb7595_md5.webp)
+### Technical approach
 
-![](assets/augmented-begroup-team-to-deliver-becorporate-services_98b3be37936cc22032f52d776aa4c211_md5.webp)
+We implemented a solution utilizing:
 
-![](assets/augmented-begroup-team-to-deliver-becorporate-services_69537f10e0a7c768d1c85a6f15ff5ecd_md5.webp)
+- **Backend development**: We used Golang to ensure scalability and performance, making sure the system could handle enterprise-level demands.
+- **Modern frontend**: We built the user interface with ReactJS and Tailwind, creating a responsive design that worked well on all devices.
+- **Comprehensive monitoring**: We implemented logging and monitoring systems to track performance and quickly identify any issues.
+- **Efficient deployment**: We set up an automated CI/CD pipeline for reliable testing and deployment, ensuring consistent quality.
+- **Seamless integration**: We carefully designed the system to work within beGroup's existing ecosystem while maintaining its own distinct functionality.
+
+### How we collaborated
+
+Throughout the project, we maintained close collaboration with the beGroup team through:
+
+- Regular communication via Slack and GSuite document sharing
+- Task management through Jira
+- Agile development using Scrum methodology
+- Bi-weekly release iterations and weekly technical discussions
+
+This approach ensured alignment with beGroup's vision while maintaining development velocity.
+
+## What we achieved
+
+Our collaboration delivered significant results. The first MVP of beCorporate was successfully released after just three months of development, expanding beGroup's market coverage and strengthening their position in Vietnam's transportation industry.
+
+![beCorporate service results](assets/begroup-result1.webp)
+
+![beCorporate interface](assets/begroup-result2.webp)
+
+![beCorporate mobile app](assets/begroup-result3.webp)
+
+The team augmentation model provided several important benefits for beGroup:
+
+- Reduced recruitment and training costs during a critical growth period
+- Allowed them to focus their internal resources on product development and maintenance
+- Enabled them to invest more in marketing strategy and brand-building activities
+- Delivered a complete enterprise offering to complement their consumer services
+
+This project demonstrated the effectiveness of strategic team augmentation for companies facing tight deadlines with specialized technical requirements. By providing experienced Golang developers who could integrate quickly with beGroup's existing team, we helped them achieve their business objectives and establish a strong foundation for future growth in the enterprise transportation market.

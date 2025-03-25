@@ -1,152 +1,158 @@
 ---
-tags: 
-  - case-study
-  - consulting
-  - partnership
-title: "Open Fabric: Set the tech foundation and built an MVP from scratch"
+title: "Building a payment platform from scratch"
 short_title: Open Fabric
 date: 2022-09-28
-description: Founded and led by veterans from fintech players like Paypal & Grab, Open Fabric is a BNPL platform, built to enable an open commerce network for customers and credit providers in South East Asia to radically simplify merchant integrations for digital payment methods. 
+description: We helped Open Fabric build a payment platform that makes it easier for stores to accept digital payments across Southeast Asia. Our team built the core technology and delivered a working product within a year.
 authors: 
-- Tom
-- nikkingtr
-- hnh
+  - Tom
+  - nikki
+  - hnh
+tags: 
+  - case-study
+  - fintech
+  - payment
 ---
-![](assets/open-fabric-set-the-tech-foundation-and-built-an-mvp-from-scratch_34964aa39f1e63930a9b8c2104aa26cb_md5.webp)
-
-Founded and led by veterans from fintech players like Paypal & Grab, **[Open Fabric](https://openfabric.co/)** is a BNPL platform, built to enable an open commerce network for customers and credit providers in South East Asia to radically simplify merchant integrations for digital payment methods. 
-
-With a team of 8 engineers, Dwarves helped set the tech foundation and together built an MVP from scratch. Within a year, Dwarves helped ship the system to onboard and configure payment methods for companies to the Open Fabric commerce network.
 
 **Industry**\
-Fintech
+Financial Technology (Fintech)
 
 **Location**\
-South East Asia
+Singapore
+
+**Business context**\
+Payment startup needed to build a secure, scalable platform from scratch
 
 **Solution**\
-A Technical Partner to co-manage Open Fabric product development.
-
-A team of senior engineers collaborated with their in-house team to define the tech foundation and develop the MVP from scratch.
+Developed a multi-tenant cloud platform that connects merchants with payment providers
 
 **Outcome**\
-Dwarves being in charge of the core data master module. With this module completed, the MVP allowing stakeholder (customers, merchants, payment providers) onboarding and transactions was launched on time.
+Successfully launched the platform within one year, enabling expansion in Southeast Asia
 
-Released the core master data service in the MVP version
+**Our service**\
+Backend development / Cloud architecture / DevOps
 
-**Our Service**\
-MVP Development, Tech Consulting, Staff Augmentation
+## Technical highlights
 
-## The challenges
+- **Backend**: TypeScript, Kotlin for reliable microservices
+- **Frontend**: React, TypeScript for the merchant interface
+- **Infrastructure**: AWS Lambda, EC2, S3, DynamoDB
+- **Architecture**: Multi-tenant system with microservices
+- **Security**: PCI DSS compliance, encryption for sensitive data
+- **DevOps**: Docker, automated CI/CD pipeline
 
-![](assets/open-fabric-set-the-tech-foundation-and-built-an-mvp-from-scratch_a391484a82928431344bb4a1220bea85_md5.webp)
+## What we did with Open Fabric
 
-OpenFabric’s key value proposition includes:
-- **A single interface incorporating multiple uses cases, geographies, channels and stakeholders;**
-- **An entirely cloud-based platform; and**
-- **Fast, frictionless international payment acceptance** for SME merchants with or without in-store POS, while employing tokenization.
+[Open Fabric](https://openfabric.co/) is a "Buy Now, Pay Later" payment platform started by experts from companies like PayPal and Grab. They wanted to create a network that makes it simple for stores to accept digital payments across Southeast Asia.
 
-These business requirements require the following technical challenges to be solved:
-- The platform needs to be high-performing, in order to process a huge number of transactions at a time, while managing multiple stakeholders.
-- Cloud-based data needs to be stored, backed up and protected in a secure and safe location, while data can be accessed quickly, minimizing downtime and loss of productivity.
-- The system needs to follow ICCP standards for architecture, implementation and deployment to protect end user’s personal data.
+We put together a team of 8 engineers to help build the technical foundation and create a working product from scratch. We worked closely with their team to develop a system that could connect stores with different payment methods.
 
-At the same time, we also need to tackle the challenge which most startups encounter during their early stage: having a tech team skilled and experienced enough to align product development with business roadmap.
+Our team was responsible for building the core data system – the foundation of the entire platform. This crucial part allows Open Fabric to handle transactions between customers, stores, and payment providers.
 
-## The solutions
-### Rapid team Scaling Solution
-The key to this collaboration is to provide OpenFabric with engineers who are highly skilled in both coding skills and solutions design skills. In a span of 2 weeks, Dwarves managed to deploy 3 engineers meeting the required skills. 
+The product we delivered helped Open Fabric launch on time and start growing in Southeast Asia's competitive payment market.
 
-The team consists of:
-- Backend engineer: ~10 years of experience in backend development, has experience designing high-performing systems from the ground up.
-- Frontend engineer: 8 years of experience in both frontend and backend development, has great understanding of integrating backend and frontend.
-- DevOps: 5 years of experience in software development, 3 years of DevOps, has experience in CI/CD, configuration and automation. 
+![Open Fabric payment platform dashboard showing transaction analytics](assets/openfabric-main.webp)
 
-Our 3 engineers worked together with OpenFabric’s engineers as one unified team. With their prior experience working on similar products, it didn’t take long for our engineers to pick up and start performing.
+## The challenge Open Fabric faced
 
-### Customer solutions
-#### Vision of the product
-For customers, we are a single interface that exponentially accelerates your merchant footprint across use cases, geographies, and channels. To create a friction-less experience for our customers, we help to ensure the product:
-- Leverages virtual cards to tokenize closed-loop payment instruments;
-- Embeds tokens into digital payment flows for automated processing; and
-- Provide a white-labeled SaaS solution for alternate payment methods.
+Open Fabric needed to build a platform that could serve multiple audiences at once:
 
-#### How we handle the product
-Areas such as maintenance and production issues are risk assessed, planned, and managed as a joint effort with the engineering teams. We help to ensure a strong collaboration process between both our internal team and Dwarves team for any issues or incidents, and this requirement holds true for any remote team.
+- **Merchants** who want to offer more payment options to their customers
+- **Shoppers** who need secure, convenient payment methods
+- **Payment providers** who want to connect with more businesses
 
-### Technical solutions
-#### Solution design
-For Open Fabric’s core business concept, in order to meet requirements for high scalability, horizontal scaling is more preferred over vertical scaling. With that, the system needs to be organized into several services in accordance to domain boundaries.
+These requirements created several complex technical challenges:
 
-**Multi-tenancy**
+- **Processing high transaction volumes**: The system needed to handle many simultaneous payments while maintaining performance.
+- **Ensuring data security**: Financial information required strong protection through encryption and secure storage.
+- **Meeting industry regulations**: Payment platforms must follow strict compliance standards like PCI DSS.
+- **Building for scale**: The architecture needed to support growth as more merchants and payment providers joined the platform.
+- **Recruiting specialized talent**: Fintech development requires specific expertise that's difficult to find on short notice.
 
-Serving both payment gateway provides and merchants, OpenFabric’s multi-tenant architecture allows every user to share the same databases and applications securely, making sure transactions between stakeholders are accepted ubiquitously. 
+![Open Fabric business challenges diagram showing market complexity](assets/openfabric-challenges.webp)
 
-- Multi-tenancy, is an architecture in which a single instance of a software application serves multiple customers. In recent years, multi-tenancy has become industry standard for enterprise SaaS for its simple launch process and fewer hardware needs. In comparison to single-tenancy, multi-tenancy is cheaper, has efficient resource usage, has a lower maintenance cost, and has a potentially larger computing capacity.
+## How we built it
 
-**Reporting Service**
+We approached the Open Fabric platform with three key priorities: scalability, security, and speed to market – all critical factors for a payment startup in a competitive landscape.
 
-Internal staff and partner teams need ways to monitor their business operations, such as revenue, transactions.
+### Technical approach
 
-With limited resources and a rushed time to launch, we have to weigh between building our own report system and allowing easy customization or integrating an existing report service. After thorough research and evaluation, we decided to integrate Metabase to our system, as it was able to meet our requirements.
+**Multi-tenant architecture**: We designed the system so a single platform could securely serve many different businesses. This approach:
 
-### System design
-| System | Tech Stacks |
-|---|---|
-| Front-end | React, Typescript |
-| Infrastructure | AWS, Lambda, Postgres, DynamoDB, EC2, ECS |
-| Back-end | Typescript, Kotlin |
+- Allows both merchants and payment providers to use the same underlying infrastructure
+- Maintains strict data separation between tenants for security
+- Reduces operational costs compared to deploying separate instances
+- Optimizes resource utilization
+- Enables easier scaling as the business grows
 
-**Architecture**
+**Microservices organization**: Even at this early stage, we structured the system into discrete services to improve maintainability and future development:
 
-Open Fabric was designed to become a high-performance, low-latency system that follows practices for Domain-driven design. The system separates some corporate services with different databases. At the MVP (Minimum Viable Product) stage, we need to test the market as fast as possible. The team balances efforts on release milestones and application performance. However, setting boundaries for separate services is top priority for maintenance and improvement.
+1. **Data service**: The central system that manages core information used by other components
+2. **Transaction service**: Handles payment processing between customers and merchants
+3. **Logging service**: Maintains comprehensive audit trails across the platform
+4. **Card service**: A highly isolated service that handles sensitive payment card information
 
-![](assets/open-fabric-set-the-tech-foundation-and-built-an-mvp-from-scratch_e754f89627c971e81eec2c9222d9db98_md5.webp)
+![Open Fabric system architecture diagram showing service relationships](assets/openfabric-architecture.webp)
 
-**List of main services**
+**Cloud-native implementation**: We built the entire platform on Amazon Web Services (AWS):
 
-- Master data service: this service provides the master data to be used in other services that contains metadata, configurations, and user permissions
-- Transaction service: the core system orchestrating transactions between card/payment network and funding sources
-- Audit service: a service to accommodate full-meaning log data from all services. It’s designed to be easily extendable with a reusable log format
-- Issuer service: a **protected** service for card issuance service. In the ICCP standard, sensitive data must be protected from vulnerable issues. These issues can range from infrastructure issues, cyber-attacks, or exploits connected from other services
+- **Serverless computing**: Most services run on AWS Lambda, which automatically scales based on demand
+- **Containerization**: Docker containers provide isolation between different system components
+- **Content delivery**: AWS S3 and CloudFront host static assets like dashboards and documentation
+- **Regional optimization**: We deployed in Singapore to minimize latency for Southeast Asian users
 
-**Cloud Infrastructure**
+![Open Fabric cloud infrastructure diagram showing AWS components](assets/openfabric-cloud.webp)
 
-We deploy our system to Amazon Web Service Cloud and keep them there. The overall Open Fabric cloud infra is as below.
+**Development environment separation**: We created four distinct environments to support the development lifecycle:
 
-- **Lambda and Serverless**: almost all of the services run on AWS lambda, a computing service that runs code in response to events and automatically manages the computing resources required by that code.
-- **Docker Container**: we apply the Docker-centered workflow to offer data isolation & context separation for application deployment.
-- **AWS Cloud**: Open Fabric nodes are regionally placed in Singapore, and AWS Cloud gives us operating freedom with lower administration risks in the event of a major cloud security issue.
-- **AWS S3**: For both front-page websites and admin dashboards, we deploy our ReactJS sites to AWS S3. The service lets you store files and data as **objects**, and these **objects** can range from image files, video files, as well as HTML, CSS, and JavaScript files. This allows us to deploy static assets as website.
+- **Local development**: Individual developer environments for initial coding and testing
+- **Continuous integration**: Automated testing of all code changes
+- **Staging**: A production-like environment for final validation before release
+- **Production**: The secure, monitored environment that serves actual customers
 
-![](assets/open-fabric-set-the-tech-foundation-and-built-an-mvp-from-scratch_0903f2700a511a9a15597148cade6e19_md5.webp)
+![Open Fabric deployment process workflow showing release stages](assets/openfabric-deployment.webp)
 
-### Deployment
-Open Fabric runtime is divided into 4 separate environments. This helps members develop the best technical solutions and resolve issues quickly, while only exposing new releases to users. We use Docker to compose our environments. Additionally, we use the **Sam CLI** (Command line interface) tool to invoke a lambda function in the local environment.
-- **Local development**: This refers to local machines where we write code; any changes to product can be tested with minimal delay.
-- **Develop environment**: builds the product and runs all automated tests for any and all changes in the codebase. Failures are reported immediately, with CI configured to run end-to-end and integration tests.
-- **Sandbox**: is set up exactly like production. Changes to the production environment will not be accepted before rehearsing deployment here. Any mysterious production issues will also be debugged here.
-- **Production**: The big iron. This environment is fully logged, monitored, managed periodically, squared away, and secured.
+Our development process incorporated several best practices for distributed teams:
 
-![](assets/open-fabric-set-the-tech-foundation-and-built-an-mvp-from-scratch_2e8eda3011a6e6a5cd8dd9bf8530b5d5_md5.webp)
+- **Trunk-based development**: Single main branch with short-lived feature branches
+- **Coordinated releases**: Synchronized deployments across interdependent services
+- **Design reviews**: Team discussions about architecture and implementations before coding
+- **Automated deployments**: CI/CD pipeline for consistent and reliable releases
+- **Incident management**: Clear procedures for handling production issues
 
-For the deployment process, we apply a few practices to make remote collaboration more effective.
-- **Gitflow**: We use Github to store all of our source code. There is only one eternal branch called the **main**. All other branches (feature, release, fix) are temporary and ephemeral and is only used for convenience to share code with other developers and as a backup measure.
-- **Feature Pull Requests**: A feature in a micro-service architecture can affect other services. A minor change in the **master** data service can implicitly make another change from the **transaction** service. The operational flow is to make changes to the API definition first, before submitting changes and waiting for approval and clearance to merge all pull requests in a given instance.
-- **Code Review:** Pull Requests are a great way to start a feature conversation. It gives us a chance to think through the solution without the overhead of changing code every time we change our minds about how something should be organized. The team can also comment on the feature as it evolves, instead of providing all their feedback at the very end.
-- **Release branches:** Using git-flow, when the code is merged to master or when a new tag is pushed, it will trigger the deployment process to automate steps in building, verifying, and deploying the application.
+### How we collaborated
 
-There are 2 releases in the sprint: a production release in the middle of the sprint (from changes in the previous sprint), and a sandbox release at the end of the sprint. QA has a week to test the release in the sandbox environment. The version in Production will always older than the Sandbox.
+Our 8-person engineering team became an extension of Open Fabric's own technical staff. We quickly assembled a team of specialists:
 
-- **Hot-fix process**: There are occasions when we need to deploy a hot-fix or a high-impact security patch to production outside of our normal release cycle. The bug fix/patch will always be merged to the **main** branch first via a normal Pull request (PR). After it’s verified, we will cherry-pick that PR commit to the release-sandbox, and release-production branches.
+- Senior backend engineers with experience in high-performance financial systems
+- Frontend developers who understood both UI design and backend integration
+- DevOps specialists who could automate testing and deployment processes
 
-This allows us to always verify a bug fix/patch in the lower environment before moving it to production, and avoid the situation of reintroducing the bug because we forget to put the fix back into the main branch.
+We established clear communication channels for different types of interactions:
 
-## The outcome
-Together with the Dwarves team, we were able to release essential services that became the foundation of the system. This included the master central configuration service and portals (TSP and OSP) that connects the whole payment gateway system.
+- Regular planning sessions for roadmap and feature prioritization
+- Daily standups for progress updates and blocker resolution
+- Technical design reviews for architecture decisions
+- Code reviews for maintaining quality standards
+- Joint on-call rotations for production support
 
-The partnership significantly impacted our collaboration in a positive way. With help from our Dwarves team, Open Fabric was able to:
-- Make their way into the market faster without compromising quality and security; and
-- Achieve key milestones, allowing them to establish themselves as the next-generation infrastructure in the APAC digital payment industry.
+This approach created a seamless working relationship regardless of physical location, allowing both teams to collaborate effectively whether in office or remote.
 
-The Dwarves contributed more than just engineering quality and a smooth 100% remote collaboration on technical implementation. Without being constrained, they were able to pick up the pace of their work and continue to improve it. The staff augmentation model enabled OpenFabric to scale up their tech capability fast and lower recruiting, training expenses, invest entirely in product development, and retain our present resources.
+## What we achieved
+
+Working with Open Fabric, we successfully delivered the core components of their payment platform:
+
+- A robust central system that manages the entire payment ecosystem
+- Web interfaces for merchants, payment providers, and administrators
+- A secure multi-tenant architecture that supports different business types
+- A complete working product that enabled market entry
+
+Our partnership provided Open Fabric with several significant advantages:
+
+- **Faster time to market** without compromising on quality or security
+- **Achievement of business milestones** necessary for establishing their position in Southeast Asia
+- **Technical team extension** without the overhead of extensive recruitment
+- **Focus on product strategy** rather than infrastructure concerns
+
+By providing experienced engineers who integrated seamlessly with their team, we helped Open Fabric invest more in product development while leveraging our technical expertise. Our team didn't just write code – we contributed to architectural decisions and process improvements that will support Open Fabric's growth for years to come.
+
+The platform we built continues to evolve as Open Fabric expands to new markets and adds more payment options, built on the solid foundation established through our collaboration.

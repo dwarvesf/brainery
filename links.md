@@ -1,8 +1,7 @@
-
 ## Dwarves Index
----
 
 ### Website
+
 - **Home**: [d.foundation](http://d.foundation)
 - **Brain: [brain.d.foundation](http://brain.d.foundation)**
 - **Note:** [note.d.foundation](https://note.d.foundation)
@@ -13,17 +12,20 @@
 - Changelogs: [log.d.foundation](http://log.d.foundation)
 
 ### Shortcut
+
 - **Earn:** [](https://earn.d.foundation)[https://note.d.foundation/earn](https://note.d.foundation/earn)
 - **Radar:** [https://radar.d.foundation/](https://radar.d.foundation/)
 - Handbook: [github.com/dwarvesf/handbook](http://github.com/dwarvesf/handbook)
 - Playbook: [github.com/dwarvesf/playbook](http://github.com/dwarvesf/playbook)
 
 ### Team
+
 - Profiling: [link.d.foundation/profiling](http://link.d.foundation/profiling)
 - Signature: [sign.d.foundation](http://sign.d.foundation)
 - Fortress: [fortress.d.foundation](https://fortress.d.foundation)
 
 ### Programming
+
 - Github: [github.com/dwarvesf](http://github.com/dwarvesf)
 - Gitlab: [git.d.foundation](http://git.d.foundation)
 - Mermaid: [mermaid.d.foundation](http://mermaid.d.foundation)
@@ -31,6 +33,7 @@
 - Hashnode: [https://dwarvesf.hashnode.dev/](https://dwarvesf.hashnode.dev/)
 
 ### Community
+
 - LinkedIn: [https://www.linkedin.com/company/dwarvesf/](https://www.linkedin.com/company/dwarvesf/)
 - Facebook: [facebook.com/dwarvesf](http://facebook.com/dwarvesf)
 - Twitter: [twitter.com/dwarvesf](http://twitter.com/dwarvesf)

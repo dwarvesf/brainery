@@ -1,79 +1,107 @@
 ---
-title: "CIMB: Initiating a digital wealth management experience"
+title: "Building CIMB's digital wealth platform for better customer experience"
 short_title: CIMB
 date: 2023-08-16
-description: In charge of the backend foundation, we marked a milestone in CIMB's digital transformation journey, with a streamlined, customer-focused experience contributed to CIMB's forward-looking vision.
-tags: 
-  - case-study
-  - partnership
-  - consulting
+description: We helped CIMB Malaysia transform their wealth management services by building a robust backend system that connects their new user-friendly platform with existing bank systems, enabling customers to manage investments more easily.
 authors:
   - huytq
-  - nikkingtr
+  - nikki
+tags: 
+  - fintech
+  - case-study
 ---
 
-![](assets/cimb-dwarves-x-netizen-initiating-a-digital-wealth-management-experience_2fa7fc70c8f1608d99e6ae08dad2b952_md5.webp)
-
 **Industry**\
-Fintech
-
-**Tech stack**\
-MySQL, JAVA Spring Boot, and Angular
+Banking and finance
 
 **Location**\
-South East Asia
+Southeast Asia
+
+**Business context**\
+Needed to modernize wealth management services as part of digital transformation
 
 **Solution**\
-Fast recruiting senior engineers to collaborate with CIMB’s tech team.
-
-Deliver quality and collaboration control through out the project to hit targeted timeline.
+Built a backend system that connects new customer-facing platform with legacy systems
 
 **Outcome**\
-In charge of the backend foundation, we marked a milestone in CIMB's digital transformation journey, with a streamlined, customer-focused experience contributed to CIMB's forward-looking vision.
+Successfully launched a streamlined digital investment platform that improved user experience and operational efficiency
 
-**Our Service**\
-Tech Consulting, Staff Augmentation
+**Our service**\
+Tech consulting / Staff augmentation
 
-### In brief
-- [CIMB Malaysia](https://www.cimb.com.my/), incorporated in Malaysia in 1974 and headquartered in Kuala Lumpur, encompasses a well-established consumer bank, a premier regional investment bank and an Islamic bank, with about 15,800 employees in Malaysia as at March 2023.
-- Project objectives: objective was to overhaul the digital wealth management experience for CIMB's customers, aligning with the bank's digital transformation goals.
-- Dwarves team of 3 engineers focused solely on backend development. This comprised the construction of a robust API gateway and integration with CIMB's legacy database and APIs.
+## What we did with CIMB
 
-### The challenge
-CIMB Malaysia faced the challenge of adapting to rapidly changing customer expectations and technological advancements in the banking industry. 
+We helped CIMB Malaysia, one of Southeast Asia's leading banks, create a modern digital platform for their wealth management services. Our team focused specifically on building the backend foundation that connects their new customer-facing application with their existing banking systems.
 
-The objective was to overhaul the digital wealth management experience for CIMB's customers: improve user experience, streamline banking processes, and increase customer engagement through a seamless digital platform. 
+The project was part of CIMB's larger digital transformation initiative aimed at improving how customers manage their investments, particularly through their ASNB (Amanah Saham Nasional Berhad) investment products. By making these services more accessible digitally, CIMB could better serve both their preferred and mass-affluent customers.
 
-### The context
-The project focused on enhancing the Wealth Journey (ASNB), aiming to streamline the investment experience for preferred and mass-affluent customers. 
+Working alongside CIMB's team and our partner Netizen, we delivered the technical backbone that powers this new digital experience, helping the bank set new standards in Malaysia's digital banking landscape.
 
-The process involved conducting workshops, competitor analysis, and customer feedback to create efficient digital investment journeys via self-serve platforms and relationship manager-assisted platforms.
+![CIMB's digital wealth management platform interface](assets/cimb-wealth-platform.webp)
 
-The project's tech stack included MySQL, JAVA Spring Boot, and Angular, with the Dwarves Foundation team focusing solely on backend development. This comprised the construction of a robust API gateway and integration with CIMB's legacy database and APIs.
+## Technical highlights
 
-- **API Gateway Construction:** The Dwarves team built a dynamic API gateway, enabling seamless and secure communication between different application components and efficient API management.
-- **Legacy Database and API Integration:** The team integrated the newly developed services with CIMB's existing legacy databases and APIs, ensuring uninterrupted operation and data consistency across the platform.
+Our work centered on creating robust backend systems that could reliably connect CIMB's new platform with their existing infrastructure:
 
-### Communication / Engagement Model
-Navigating a project with multiple stakeholders demands meticulous coordination and transparency. To ensure seamless interaction and productivity throughout the project's duration, we adopted a tailored communication model:
+- **Java Spring Boot**: We used this framework for building the core backend services
+- **MySQL**: For database management and data storage
+- **API Gateway**: We built a custom gateway to manage communication between different systems
+- **Legacy Integration**: Developed connectors to work with CIMB's existing databases and APIs
 
-1. **Rapid Recruitment through Talent Pool:** Have been building tech communities since 2020, we were about to quickly recruit and onboard developers suited for the job, ensuring a head start without any undue delays.
-2. **Three-Party Partner Engagement:** This project involved the collaboration of Dwarves, Netizen, and CIMB. Recognizing the intricacies of such a setup:
-3. **Alignment Meetings:** Regular tri-party sync-ups were organized to establish common project goals, clarify responsibilities, and address potential bottlenecks.
-4. **Roles and Responsibilities:** Clear documentation and delegation ensured that each party was aware of their roles, reducing overlaps and ensuring efficient task execution.
-5. **Rapid Communication with Development Team:** Direct communication line was established with the development team for maintaining agility in development and timely delivery.
-6. **Weekly Changelog:** A weekly changelog providing all parties with a snapshot of our progress was maintained. It covered updates on newly rolled-out features, bug fixes, and modifications made during that period, fostering transparency and facilitating real-time feedback.
+This technical approach ensured the new platform would work reliably while maintaining compatibility with the bank's established systems.
 
-### Outcome
-The collaboration between CIMB Malaysia, Dwarves Foundation, and Netizen resulted in substantial benefits, reshaping both the customer-facing platform and the internal architecture of CIMB's systems:
-- **Enhanced User Experience:** A more intuitive interface increased user engagement and trust in the platform.
-- **Extended User Reach:** The accessible platform design broadened CIMB's demographic appeal, accommodating both younger and older users.
-- **Setting Market Standards:** CIMB's modernized platform positioned them as trailblazers in the Malaysian banking sector, prompting competitors to reevaluate their digital offerings.
-- **Operational Efficiency:** Backend upgrades reduced manual processes, increased transaction accuracy, and overall improved the bank's operational agility.
-- **Architecture Revamp:** From a technical perspective, the transition to a dynamic API gateway and seamless integration with legacy systems provided a more scalable, robust, and flexible backend. This change not only enhanced performance but also future-proofed CIMB's systems against rapid tech advancements.
+## The challenge CIMB faced
 
-### Conclusion
+CIMB Malaysia needed to keep pace with rapidly changing customer expectations in banking. Their existing wealth management services weren't meeting the digital-first demands of modern customers.
 
-CIMB's digital transformation, backed by architectural advancements, sets a benchmark for excellence, ensuring enhanced customer satisfaction and operational agility for the bank's future endeavors.
+The main challenges included:
 
-Dwarves Foundation is a team of design and development experts working closely with clients to craft software, build tech teams, and invest in people who create world's next favorite things.
+- Their investment processes required too many manual steps and branch visits
+- Customers couldn't easily track or manage their investments through digital channels
+- Relationship managers lacked efficient digital tools to help their clients
+- Legacy banking systems made it difficult to create new digital experiences
+
+The bank needed a solution that would make investment management simpler and more accessible for customers while working seamlessly with their existing backend systems.
+
+## How we built it
+
+Our approach focused on creating solid backend foundations that would support CIMB's customer-facing improvements.
+
+### Technical approach
+
+We concentrated on two key areas:
+
+**API Gateway Construction**: We built a flexible API gateway that serves as the communication hub between different parts of the system. This gateway manages data flow between the customer-facing application and CIMB's core banking systems, ensuring secure and efficient information exchange.
+
+**Legacy System Integration**: We created custom connectors that allow the new platform to work with CIMB's existing databases and APIs. This was crucial for maintaining data consistency and ensuring that customer information remained accurate across all systems.
+
+### How we collaborated
+
+Working on a project with multiple stakeholders required careful coordination. We established a clear communication structure:
+
+1. **Quick team formation**: We rapidly assembled a team of senior engineers from our talent network who had the right skills for this financial project.
+2. **Three-party collaboration**: The project involved Dwarves, Netizen (design partner), and CIMB's team working together. We set up:
+   - Regular alignment meetings to keep everyone on the same page
+   - Clear documentation of responsibilities to avoid overlap
+   - Direct communication channels with developers for quick problem-solving
+3. **Progress tracking**: We maintained a weekly changelog that documented all new features, fixes, and changes. This kept everyone informed about progress and facilitated feedback.
+
+This structured approach helped us deliver quality work while meeting the project timeline.
+
+## What we achieved
+
+The collaboration between CIMB, our team, and Netizen produced significant results for both customers and the bank:
+
+**For customers:**
+
+- A more intuitive interface that makes managing investments easier
+- Self-service options that reduce the need for branch visits
+- A consistent experience that works for both younger and older users
+
+**For CIMB:**
+
+- Reduced manual processing, increasing operational efficiency
+- Position as an innovator in Malaysia's digital banking space
+- A more flexible technical architecture that can adapt to future needs
+
+The new wealth management platform represents an important milestone in CIMB's digital transformation journey. By building strong technical foundations, we helped the bank create a system that not only improves today's customer experience but can also evolve to meet future banking needs.

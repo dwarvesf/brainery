@@ -1,7 +1,4 @@
 ---
-tags:
-  - wala
-  - consulting
 title: "DZS Media WALA: Lessons from film production for software engineering"
 short_title: DZS Media
 date: 2024-10-16
@@ -9,11 +6,14 @@ description: Our visit to DZS Media, a successful film production company in Ho 
 authors:
   - innno_
   - monotykamary
+tags:
+  - film
+  - wala
 ---
 
 The tech world has much to gain by learning from other industries. Techies always look for unconventional ways to seek insights and learnings. Recently, we had the opportunity to visit DZS Media, a film production company in Ho Chi Minh City, the powerhouse behind hits like “Siêu Lừa Gặp Siêu Lầy” and “Chị Chị Em Em 2”.
 
-During our visit, we witnessed DZS Media's meticulous production process. They've built a facility for every purpose - soundproof recording studios, talent training rooms, reference libraries - leaving no detail overlooked. Their discipline and work ethic were stunning. Every step was engineered to get it right the first time, a requirement in the film industry. 
+During our visit, we witnessed DZS Media's meticulous production process. They've built a facility for every purpose - soundproof recording studios, talent training rooms, reference libraries - leaving no detail overlooked. Their discipline and work ethic were stunning. Every step was engineered to get it right the first time, a requirement in the film industry.
 
 We were stunned to discover DZS Media's process mirrors our own software engineering practices. The high cost of film redos means that they need to understand the importance of getting it right the first time, and be super meticulous in their work, and they understand the importance of getting it right the first time. Their processes are structured to ensure that there is not need for a redo. This was a huge reminder for us as software engineers.
 
@@ -31,7 +31,7 @@ Til next WALA.
 ![](assets/dzs-media-wala.jpg)
 ___
 
-**WALA: to walk around, learn around.** 
+**WALA: to walk around, learn around.**
 
 In our line of work, we hear and talk about domain knowledge all the time. WALA aims for exactly that: we, people in tech, take a break from sitting in front of our computers, to go out, connect with new people, and get to understand other businesses.
 

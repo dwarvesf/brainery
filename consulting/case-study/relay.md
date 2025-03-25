@@ -1,65 +1,88 @@
 ---
-tags: 
-  - case-study
-  - consulting
-  - web
-title: "Relay: Support in shipping their MVP product for US market testing"
+title: "Helping Relay launch their workflow automation MVP for the US market"
 short_title: Relay
 date: 2021-04-29
-description: Relay is an extension tool that decreases micromanagement by automating workflows.Relay's first engagement with Dwarves aims to ship their MVP to market as quick as possible for early user acquisition. We dive in with 2 quickly adapt engineers. We keep a stable pace of feature shipment and adjust along with the requirements.
+description: We helped Relay quickly develop and launch their workflow automation tool for early market testing. Our engineers built a complete solution including a Chrome extension, web app, and Slack integration that helped Relay acquire their first paying customers and prepare for their next funding round.
 authors: 
-- duy
+  - duy
+tags: 
+  - case-study
+  - browser-extension
+  - early-stage
+  - US
 ---
 
-![](assets/support-relay-in-shipping-their-mvp-product-for-us-market-testing_7ba0ab212be0b82800b89bcd86505dba_md5.webp)
+**Industry**\
+Productivity tools
+
+**Location**\
+United States
+
+**Business context**\
+Early-stage startup needing to quickly launch an MVP for market testing and user acquisition
+
+**Solution**\
+Rapid development of a Chrome extension and Slack integration with clean, adjustable codebase
+
+**Outcome**\
+Successfully launched MVP that gained paying customers and positioned Relay for their next funding round
+
+**Our service**\
+Full-stack development / Agile project management
 
 ## In brief
-- Relay is an extension tool that decreases micromanagement by automating workflows.
-- Relay's first engagement with Dwarves aims to ship their MVP to market as quick as possible for early user acquisition.
-- We dive in with 2 quickly adapt engineers. We keep a stable pace of feature shipment and adjust along with the requirements. 
 
-## Highlights
-- Slack app & Chrome extension.
-- Custom semantic versioning for chrome extension.
-- Combine flipper, sidekiq for A/B testing and gradually roll out new version.
-- Action tracking system design.
-- Monorepo source code.
+Relay needed to quickly build and launch their workflow automation tool to test the US market and acquire early users. We provided two adaptable engineers who worked closely with Relay to develop and ship features at a steady pace. The result was a successful MVP launch that included a Chrome extension, web app, analytics dashboard, and Slack integration, which helped Relay gain their first paying customers and prepare for their funding round.
 
-## The context
-Relay was in the early stage. Hetong, the PO, stated clearly she needed a viable version with basic features.
+![Relay's logo and branding banner for their workflow automation tool](assets/relay-logo-banner.webp)
 
-The MVP must be finished fast and clean for potential customer acquirement and seeding round.
+## Challenge
 
-It must be done fast. And the requirement can be changed as market demands. Due to that, Hetong wants a team to quickly pick up the product context and be ready to adjust along the way. Meanwhile, keeping a stable pace for feature shipment.
+Relay was in the early stages of their startup journey. Their product owner, Hetong, made it clear they needed a basic but viable version with essential features to test in the market.
 
-*The context changes. We change accordingly.*
+The MVP needed to be completed quickly and built properly so they could attract potential customers and secure their seed funding. Speed was crucial, but they also knew requirements would likely change based on market feedback. Relay wanted a team that could quickly understand the product vision and adapt to changes while maintaining a consistent pace of feature delivery.
 
-## Engagement model
-At first, we were expected to join them for the first few months. As the product goes, the trustworthy collaboration escalated that we could involve more in the development process. They welcome us to contribute the idea instead of just getting the tasks done.
+As Hetong put it, "The context changes. We change accordingly."
 
-### Teck stacks
-- Backend: Ruby on Rails
-- Frontend: React + TailwindCSS, Storybook 
-- Infra: AWS Amplify
-- Real-time update: WebSocket
-- EventTracking: Amplitude
+## Solution
 
-Relay places their effort on development pace and reuses what's helpful to speed up the development progress. 
+Initially, we planned to support Relay for just a few months. However, as the collaboration proved successful, our relationship evolved. Relay welcomed our ideas and contributions beyond just completing assigned tasks.
 
-The combo of React, TailwindCSS and Storybook allows us to get that done with no sweat.
+We built the solution using:
 
-### Communication
-Slack is definitely for team communication, while Notion is perfect for documents management. 
+* Ruby on Rails for the backend
+* React and TailwindCSS for the frontend, with Storybook for component development
+* AWS Amplify for infrastructure
+* WebSockets for real-time updates
+* Amplitude for event tracking
 
-We take Trello onboard for task management, while all the designs are stored in Figma. 
+This tech stack allowed us to develop quickly while maintaining quality. The combination of React, TailwindCSS, and Storybook helped us build a clean interface efficiently.
+
+For project management, we used Slack for team communication, Notion for documentation, and Trello for task management. All designs were created and stored in Figma, making it easy for us to reference and implement the intended user experience.
 
 ## Outcome
-Through months of development, we are able to roll out the first MVP. 
 
-That comes with **a Google Extension**, **a web app**, **an Analytics Dashboard** and **a Relay bot** integrated straight into Slack workspace.
+After several months of development, we successfully delivered the first MVP with all key components:
 
-![](assets/support-relay-in-shipping-their-mvp-product-for-us-market-testing_57b30c85eea9fbabca8c8894a019ff71_md5.webp)
+* A Google Chrome extension that integrated with users' workflows
+* A web application for managing automation settings
+* An analytics dashboard to track productivity metrics
+* A Relay bot that integrated directly into Slack workspaces
 
-![](assets/support-relay-in-shipping-their-mvp-product-for-us-market-testing_cf7deedef0cc5bb418fd945d594c68ef_md5.webp)
+![Relay's dashboard interface showing workflow automation features](assets/relay-dashboard-interface.webp)
 
-Relay starts to acquire paid users and prepares for their next funding seed. Followed by their **[May Product Updates](https://teamrelay.medium.com/relay-product-updates-may-2021-f7b3db7002c5)**, we're delighted to be a part of this journey. The work evolves with two more features: Relay Sequence Chart and Relay Progress - both for team productivity boosting.
+![Relay's Slack integration showing bot functionality](assets/relay-slack-integration.webp)
+
+The launch was successful, helping Relay acquire their first paying customers and prepare for their next funding round. Following this initial success, we continued working with Relay to develop additional features like Relay Sequence Chart and Relay Progress, both designed to further boost team productivity.
+
+As mentioned in their [May Product Updates](https://teamrelay.medium.com/relay-product-updates-may-2021-f7b3db7002c5), these new features represented significant steps forward in Relay's product evolution, and we were proud to be part of this journey.
+
+## Technical highlights
+
+Some of the technical aspects that made this project successful included:
+
+* Creating both a Slack app and Chrome extension that worked seamlessly together
+* Implementing custom semantic versioning for the Chrome extension to manage updates
+* Combining technologies like Flipper and Sidekiq for A/B testing and gradual feature rollouts
+* Designing an action tracking system to monitor user behavior
+* Organizing the codebase as a monorepo for better code sharing and development efficiency

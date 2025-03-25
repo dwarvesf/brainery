@@ -1,80 +1,147 @@
 ---
-tags: 
-  - case-study
-  - consulting
-  - partnership
-title: "Momos: Help build an MVP Shopify for F&B merchandises in Singapore"
+title: "Building a central hub for food and beverage businesses in Singapore"
 short_title: Momos
 date: 2021-07-01
-description: Our team of 3 join them to bring development timeline up to speed as well as improving the core tech foundation to pave the way for a scalable, future-proof system. The collaboration happens remotely since March 2021
+description: We helped Momos, a pre-seed startup in Singapore, build their first MVP—a centralized data hub that simplifies online operations for food and beverage businesses through third-party integrations and data analytics.
 authors: 
-- huygiang
-- duy
-- han
-- nikki
+  - duy
+  - tieubao
+  - nikki
+tags: 
+  - fnb
+  - case-study
+  - early-stage
 ---
 
-![](assets/help-momos-team-build-an-mvp-shopify-for-fb-merchandises-in-sg_514bbd80a0d5b2ac3e486b555e76bcac_md5.webp)
+**Industry**\
+Food & Beverage Technology
 
-## In brief
-- Momos is a pre-seed startup operating in Singapore, whose founder was an ex-Grab
-- They look to ship the first MVP with a web platform to test the market and onboard promising users.
-- Our team of 3 join them to bring development timeline up to speed as well as improving the core tech foundation to pave the way for a scalable, future-proof system. The collaboration happens remotely since March 2021.
+**Location**\
+Singapore
 
-## Highlights
-Momos works as the centralized data hub.
-- Core function: Mass integration with third-parties services and data aggregator.
-- Running heavily on AWS infras: EventBridge, CloudWatch.
-- Reputation management system design.
-- Run social ads directly from Momos.
-- Content-based report (GPT-3) generator using lambda and materialized view
+**Business context**\
+Pre-seed startup needed to quickly build their first MVP to test market fit
 
-## The context
-Businesses are shifting their services online. They need different partners to make it happen.
+**Solution**\
+Created a centralized data platform that integrates with delivery services and provides analytics
 
-By using Momos as a **centralized data hub**, businesses can focus on delivering their products.
+**Outcome**\
+Successfully launched the platform and began onboarding their first users
 
-![](assets/help-momos-team-build-an-mvp-shopify-for-fb-merchandises-in-sg_7ab1ca707a007169087c6d5f337deac3_md5.webp)
+**Our service**\
+Full-stack development / Integration development / DevOps
 
-The founders planned to **expand the integration** when they found us through their connections. We took the initial step with Food delivery partner (Grab, Foodpanda + Deliveroo), starting with mapping the API into Facebook platform. The priority falls for API mapping and dashboard to analyze the core metrics, create report summary, and measure the product impact.
+## Technical highlights
 
->
-> As startups supporters, we understand it's a changing environment. It's our job to know their business and contribute to the tech foundation during the early stages.
+- **Backend**: Node.js for flexible and rapid development
+- **Frontend**: React and Next.js for responsive user interfaces
+- **Database**: PostgreSQL with materialized views for reporting
+- **Cloud**: AWS Lambda, EventBridge, CloudWatch for serverless architecture
+- **Authentication**: Auth0 with OAuth 2.0 for secure third-party access
+- **Analytics**: Google Studio for data visualization and reporting
 
-## Engagement model
-Working with startups means everything needs to be fast and ready for the client to ship out. We manage to deploy resources with work ownership, who understand the product and are ready to communicate.
+## What we did with Momos
 
-### Tech stacks
-- Backend: Node.js
-- Frontend: React & Next.js
-- Database: PosgreSQL
-- Infras: AWS & Serverless
-- Logging & Monitoring: AWS CloudWatch
-- Cronjob: AWS EventBridge
-- Error catching: Sentry
-- Analytics: Google Studio
+Momos is a pre-seed startup operating in Singapore, founded by an ex-Grab employee with a vision to simplify online operations for food and beverage businesses. They needed to quickly develop and launch their first MVP—a web platform that would serve as a centralized hub for F&B merchants to manage their online presence across multiple services.
 
-That spirit spread in our tech stacks choice.
-We care about user privacy. Auth0 was utilized during the process of syncing the database.
-Built upon OAuth 2.0, Auth0 allows us to protect user data with limited access from third parties.
+With a tight timeline to test their market fit and onboard early users, Momos needed additional development expertise. We provided a team of three developers who worked remotely with Momos starting in March 2021. Our goal was not only to accelerate their development timeline but also to establish a solid technical foundation that would support future growth and scalability.
 
-### Communication
-The team structure consists of engineers in SG, India & Vietnam. We rely on tools to keep remote collaboration happen effectively.
+Together, we built a platform that integrates with third-party delivery services, manages online reputation, runs targeted social ads, and generates content-based reports—all from a single dashboard.
 
-The work sync-up happens through Slack and Google Meets. All tasks are managed in Notion to ensure the progress stays on track.
-The weekly achievement is summarized and delivered as weekly change logs.
+![Momos F&B platform dashboard showing integrated services](assets/momos-main.webp)
 
-![](assets/help-momos-team-build-an-mvp-shopify-for-fb-merchandises-in-sg_f6d49407f04a4f963f2f8dd28b706103_md5.webp)
+## The challenge Momos was facing
 
-## Outcome
-After a few months, Momos successfully **launched their platform, onboard new promising users**, and was ready to level up their online presence.
+As more F&B businesses moved their operations online during the pandemic, many faced a common challenge: they needed to work with multiple service providers to establish their digital presence. This fragmentation created inefficiencies and complications for businesses that just wanted to focus on their core product—food.
 
-Of course, the journey doesn't end there. We are still actively contributing to momos development. We head for the next milestone where analytics dashboard and review management can perform outstandingly.
+The typical restaurant or café had to manage:
 
-See more at: **[momos.io](https://www.momos.io/)**
+- Multiple food delivery platforms (Grab, Foodpanda, Deliveroo)
+- Various social media accounts
+- Online reviews across different platforms
+- Digital advertising campaigns
+- Sales data from multiple sources
 
-![](assets/help-momos-team-build-an-mvp-shopify-for-fb-merchandises-in-sg_bf1d4c22750395b3792bae00e9c2f441_md5.webp)
+This fragmentation meant restaurant owners spent more time juggling different platforms than focusing on their actual business. They lacked a unified view of their online operations and struggled to make data-driven decisions.
 
-![](assets/help-momos-team-build-an-mvp-shopify-for-fb-merchandises-in-sg_da8b1ed04fc1ec815f6667456352c9b8_md5.webp)
+Momos aimed to solve this problem by creating a centralized data hub that would handle these integrations, allowing businesses to manage everything from a single platform. The founders had a clear vision for expanding their integration capabilities but needed technical expertise to make it happen quickly.
 
-![](assets/help-momos-team-build-an-mvp-shopify-for-fb-merchandises-in-sg_c252d4367144a36e352020df14f829b7_md5.webp)
+![Momos context diagram showing the fragmented F&B digital ecosystem](assets/momos-context.webp)
+
+Working with an early-stage startup meant embracing a rapidly changing environment. As the technical partner, we needed to deeply understand their business model and contribute meaningfully to building a future-proof foundation during these critical early stages.
+
+## How we built it
+
+In the fast-paced startup environment, we knew that speed and flexibility would be essential. We deployed resources who could take ownership of their work, understand the product vision, and communicate effectively with the Momos team.
+
+### Technical approach
+
+The platform we built functions as a centralized data hub with several key features:
+
+**Third-party integrations**: We developed connections to major food delivery platforms (Grab, Foodpanda, and Deliveroo) and mapped their APIs to the Facebook platform. This allowed Momos to pull data from these services and present it in a unified dashboard.
+
+**Serverless architecture**: We built the platform on AWS using serverless technologies like Lambda, EventBridge, and CloudWatch. This approach provided:
+
+- Cost efficiency for the early-stage startup
+- Automatic scaling as user numbers grew
+- High availability without complex infrastructure management
+- Flexibility to add new integrations quickly
+
+**Report generation**: We implemented content-based report generation using:
+
+- GPT-3 for natural language generation
+- AWS Lambda for processing
+- Materialized views in PostgreSQL for efficient data access
+- Custom templates for consistent reporting formats
+
+**Authentication system**: We implemented Auth0 for the database synchronization process, leveraging OAuth 2.0 protocols to protect user data and limit access from third parties. This ensured a secure connection between Momos and the various third-party platforms.
+
+![Momos collaboration approach showing team structure and communication](assets/momos-collaboration.webp)
+
+### How we collaborated
+
+The team structure spanned multiple locations, with engineers in Singapore, India, and Vietnam. We established clear communication channels to ensure effective remote collaboration:
+
+- Daily sync-ups via Slack and Google Meet to address immediate issues
+- Task management through Notion to track progress and priorities
+- Weekly change logs to summarize achievements and maintain transparency
+- Regular review sessions to align on product direction and technical decisions
+
+Our development process emphasized:
+
+- Rapid prototyping to test ideas quickly
+- Iterative development based on feedback
+- Regular deployments to get features to users faster
+- Documentation of APIs and integration points for future expansion
+
+This collaborative approach allowed us to work effectively despite geographical distribution and time zone differences.
+
+## What we achieved
+
+After several months of collaboration, Momos successfully launched their platform and began onboarding their first users. The MVP provided a solid foundation for their business, demonstrating the value of a centralized management solution for F&B merchants.
+
+The platform we built enabled F&B businesses to:
+
+- **Manage multiple delivery platforms**: Control offerings across Grab, Foodpanda, and Deliveroo from a single dashboard
+- **Track online reputation**: Monitor and respond to customer reviews across various platforms
+- **Deploy targeted advertising**: Create and manage social media ads without specialized marketing knowledge
+- **Generate data-driven insights**: Access comprehensive reports about business performance and customer behavior
+- **Make informed decisions**: Use centralized data to optimize menu offerings, pricing, and marketing efforts
+
+![Momos platform results showing integrated delivery platform data](assets/momos-result1.webp)
+
+![Momos dashboard interface showing analytics overview](assets/momos-result2.webp)
+
+![Momos analytics features displaying customer insights](assets/momos-result3.webp)
+
+Key technical achievements included:
+
+- A scalable integration framework that could easily accommodate new service providers
+- Reliable data synchronization across multiple platforms
+- Secure handling of sensitive merchant account information
+- An intuitive user interface that required minimal training
+- Automated reporting that saved merchants hours of manual work
+
+Our partnership with Momos continues as they grow and evolve. We're currently working toward the next milestone, focusing on enhancing their analytics dashboard and review management capabilities to provide even more value to their users.
+
+This project demonstrates how effective technical partnership can help early-stage startups accelerate their time to market while building a solid foundation for future growth. By combining Momos' industry expertise with our technical capabilities, we created a solution that addresses real needs in the F&B marketplace.

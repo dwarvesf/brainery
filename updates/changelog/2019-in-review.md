@@ -8,7 +8,7 @@ title: 2019 In Review
 date: 2020-01-25
 description: 2019 notable highlights and achievements
 authors: 
-  - Han 🐸
+  - tieubao
 ---
 
 Another year has gone by. And we just celebrated the 5th year that we survived all the challenges. Everyone was facing their own, but I have seen many of you reaching new stages and achieve new targets.

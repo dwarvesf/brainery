@@ -8,8 +8,8 @@ title: 2020 In Review
 date: 2021-02-05
 description: 2020 notable highlights and achievements 
 authors: 
-  - Han 🐸
-  - nikkingtr
+  - tieubao
+  - nikki
   - duy
 ---
 
@@ -24,21 +24,27 @@ It handed us the chance to come up with more cool stuff. Something to recognize 
 Scaling from a few craftsmen, we reached the 50s with a firm foundation from different places. Within the year, people come and go, but their spirit stays. Each of them contributes a small puzzle for a bigger picture.
 
 ### We were ready for a borderless software firm
+
 With the Dwarves located in many countries (Toronto, Vancouver, Düsseldorf, Indonesia, and Vietnam), we headed for a borderless software firm, where we collaborate and make things work despite the distance. Running a team remotely has its downside since we hardly have physical meetups. Everything’s conducted online; every communication gets turned into thread-based messages.
 
 ### But
+
 Starting from March, the world began to lockdown. Companies get hit. Businesses around the world are expected to close down and wait until the pandemic is over. Everyone will try to save their penny, and no one would love to build software or start something new. We might be affected. We haven’t known yet. The best we can do is tweak our plan to prepare for any scenarios
 
 ### The Adaptation Begins
+
 Things remain in survival mode. We only **[hire when it hurts](https://memo.d.foundation/playbook/operations/a-tips-of-hiring-dont/)**. No layoffs on the ground. We keep the team with those who have the same beliefs, lifestyle, and the urge to move along with the tech industry. In the short term, a team that people are proud to work with. It’s where their outcome matters.
 
 ### Level up the tech quality
+
 We dive deep into tech, continuously improving our knowledge base through tech radar, team memo, and other activities. We optimize the workflow, simplify the process to make our work more enjoyable.
 
 ### A team-built testing framework
+
 Starting from a team of two, our QC Team has now reached the number of five, which later came up with an internal testing framework that makes test cases in format and removes rework.
 
 ### Real-time status page
+
 This adoption enables us to constantly receiving the latest updates on project and website status. Other than tracking them directly on [stt.daf.ug](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*epYF6iiq6IvM4x70hcd3ZA.png), we get to log them on the currently running projects and ensure the deliverable's quality.
 
 And got them on team Discord.
@@ -46,6 +52,7 @@ And got them on team Discord.
 ![](assets/2020-in-review_2020-in-a-flashback_e310751d76ab92238b6dacd71ecd4277_md5.webp)
 
 ### A Radar Ring for Tech Adoption
+
 The day-to-day work won’t get us as far as we could. Finding the new and stepping out of the safe zone is a great resolution to move with the industry.
 
 We input the discoveries and assessment of the latest tech trends on [Radar Ring](https://dwarves.foundation/radar/). We define them in Rings & Quadrants. Every two months, we gather the team's research output and conduct webinars on sharing, guidelines &lesson-learned. The knowledge recap is stored as RFC on [Github](https://github.com/dwarvesf/radar) and team [Memo](https://memo.d.foundation/) for later reference.
@@ -53,6 +60,7 @@ We input the discoveries and assessment of the latest tech trends on [Radar Rin
 ![](assets/2020-in-review_2020-in-a-flashback_897cee98638b129f3afb4a53c7de23c1_md5.webp)
 
 ### Bootstrap Startup Idea, Conveniently
+
 Portray ourselves as a technical partner for startups; it’s our mission to deliver the optimized solution. That comes with a smooth process of bootstrapping their ideas and promptly turning those into products.
 
 **Metric Dashboard**
@@ -70,16 +78,19 @@ New researches must be put into practice; otherwise, it’s a waste of time. Fro
 ![](assets/2020-in-review_2020-in-a-flashback_8489fab373166d75e44a6f3948656362_md5.webp)
 
 ### State of the Art
+
 Everything we do results in this internal tech-index. A hub of continuous evolving expertise.
 
 ![](assets/2020-in-review_2020-in-a-flashback_d713f1fe35c7e9e35112315edc5574c5_md5.webp)
 
 ### The Internal
+
 We figured it wasn’t the right time to scale. It’s the time to maintain and make the best out of what we have. Keeping the company safe through the pandemic and building a team that people love to work with are the primary goals.
 
 So. new plan. Restructure, strengthen the core, and focus on what we do best.
 
 ### Build a place where people love to work in
+
 **Where people can develop themselves and as a team**
 
 The urge to grow lies within us. Outside of work, we encourage the Dwarves to improve their knowledge and skills. We support this with an [Education Allowance](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md#continuing-education-allowance), an English Camp every Tue & Thu, and a weekly 101 training - where the team discusses and collects points of view on different topics toward [soft skills](https://youtu.be/HR4-g70UCjQ?si=v2TGHTp7YkdNJrhM), product design, [startups](https://www.youtube.com/live/z7DwXNoeeAg?si=Zdcq1_dMK-n9oMgf) & engineering.
@@ -97,6 +108,7 @@ Wearing many hats used to be our option. We do have roles, but we haven’t sat 
 Every member should feel like a part of the team. We issued [Employee Stock Option Plan](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md#employee-stock-option-plan) as a aprt of our benefit package, where members can be the significant contributors instead of tenured employees. This gives them the right to buy a certain amount of company shares at a predetermined price.
 
 ### A Data-driven Company
+
 Everything revolves around data. Taking data as the core allows us to set realistic business goals, pinpoint what makes us outstanding, which aspect we should stay focused on based on real analytics metrics.
 
 **Workflow update - Data first**
@@ -114,11 +126,13 @@ With the concept that Program = Data + Algorithm, we weave the data culture in e
 Data prevents us from making biased decisions. No favoritism on the table. Data sort out the real number from the real work, where we get to analyze and evaluate objectives effectively. Keeping all data in one place enables us to set measurable goals that align with the company’s vision, predict what works and what doesn’t, and, therefore, actively turn data into real action.
 
 ### We seek for Solid Partnership
+
 To go further, seeking partnerships to co-create the future is a must. We managed to expand the connection by searching for business partners globally. Anyone who wishes to join our partner network can see if they have [the same belief in meeting business goals through innovative high-tech solutions](https://dwarves.foundation/partner).
 
 We’ve prepared a collaboration process on commission-based. We welcome the ones with the urge to grow new business opportunities by technology and innovation.
 
 ### Effective Operation
+
 Running a company isn’t just about process and policy. It’s more on minimizing the minor disruptions that reduce the company’s ability to grow and prosper. Cleaning up the roadblocks. Eliminate the waste, and keep people aligned. And mostly, how to do more with less effort?
 
 **Going Automation**
@@ -142,6 +156,7 @@ Company valuation always a subtle issue to mention. Not many companies onboard w
 Bringing the number to the public gives us the privilege to stay proud of what we’ve accomplished. We issue ESOP every year, and visualizing how our business strategy was turned into profit allows stakeholders to keep track of its potential growth. Dashboard valuation also reflects our predicted strategy’s accuracy, emphasizes the key goal, and portrays our ability to develop.
 
 ### Hiring
+
 **We value the unconventional**
 
 Once Covid started to invade, our goal changed accordingly. Instead of adding more people, we choose to fill the team with more culture. We picked out the value that makes us who we are and wrapped them in [Culture book.](https://github.com/dwarvesf/handbook/blob/master/what-we-value.md)
@@ -165,11 +180,13 @@ Next, the **[Memo](https://memo.d.foundation/)**. Our crafting space for lessons
 ![](assets/2020-in-review_2020-in-a-flashback_807943f1856a0cdf4a2c431c7f1b1d81_md5.webp)
 
 ### We design for the Resilient future
+
 [Dwarves Design](https://dwarves.design/) contains our practices and methods for product design at Dwarves Foundation. Backed by talented and unique wizards, we express the Dwarvish magic in the cultivated crafts through aesthetic and intelligent design solutions.
 
 ![](assets/2020-in-review_2020-in-a-flashback_f2100ed6de6241cbb830f7d4747cda6b_md5.webp)
 
 ### We level up
+
 Applying the top-selected technologies, we end up expanding the business. With more than 10 new deals with technical service development and venture projects, we could step up the game and set our foot into different industries.
 
 **The year in Industries**
@@ -193,6 +210,7 @@ Positioning ourselves as technical distributors means delivering that through a 
 ![](assets/2020-in-review_2020-in-a-flashback_90359633895a008af577eaf3a8fae47c_md5.webp)
 
 ### Giving back to the Community
+
 Learning from the community gives us the privilege to explore and grow. We have been a part of it long enough to contribute back. Describing ourselves as a tech distributor, our mission is to support and widen the tech playground and create social impact using tech solutions.
 
 **Salt Cancer Initiative - Supportive backers for cancer patients**
@@ -232,6 +250,7 @@ Going OSS means working with multiple companies on an idea or a problem, which e
 Over the years standing on shoulders of the giants, [the Dwarves's OSS](https://dwarves.foundation/opensource) mainly focuses on boosting up productivity and building differentiating value on top of cutting edge technologies.
 
 ### The in-house Products
+
 We kicked off Superbits.co earlier this year as our indie studio for team-built products. It all came from the issue we want to resolve and the unique value we aim to support the tech industry.
 
 By engineer, for engineers.
@@ -239,6 +258,7 @@ By engineer, for engineers.
 ![](assets/2020-in-review_2020-in-a-flashback_2bf5ab5ed99918b1679259d986a56d07_md5.webp)
 
 ### Newsletter: The NeXT Bytes
+
 None of us knows what will happen in the future. The only thing we can do is predict, starting with the question “What’s next?”, surrounding with the “why,” and continuously sorting out the experience.
 
 ![](assets/2020-in-review_2020-in-a-flashback_fe1c1d559485d446465ce343668dd4a9_md5.webp)
@@ -248,6 +268,7 @@ The NeXT Bytes jots down the ‘next’ thing we see, do, observe, or conquer on
 Enjoy the promising ride, join us at https://tinyletter.com/nextbytes/. 
 
 ### What's for 2021
+
 We had an executive sync-up not so long ago. The operation team sat down and decided where we should head in 2021. The pandemic’s impact continues to ripple across industries. It’s risky to do things big. The best thing to look forward to is maintaining the current status and making sure people are motivated. Building a place people love to work in and be proud of what they produce.
 
 **The branding coverage**

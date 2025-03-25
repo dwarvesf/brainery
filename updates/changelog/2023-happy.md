@@ -7,7 +7,7 @@ title: Happy 2023
 date: 2023-01-22
 description: As we enter a new year, I want to reflect on the role that software has played in my life. For Dwarves 2.x, our goal has always been to be a borderless software firm. As we move into 2022, we are one step closer to achieving this goal. We strive to operate in new and efficient ways, different from the rest. Some of us are working with our peers to help ship their software, while others are building their own projects and striving for excellence. We are all making our way towards achieving excellence in our field.
 authors: 
-  - Han 🐸
+  - tieubao
 ---
 
 As we enter a new year, I want to reflect on the role that software has played in my life. From the early days of my career to now, software has been a constant presence and something that I have dedicated countless hours to as both an engineer and project manager. I have put in over 10,000 hours of work in this field, and it has become an integral part of my existence.

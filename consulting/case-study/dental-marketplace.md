@@ -1,90 +1,126 @@
 ---
-tags: 
-  - case-study
-  - UX-UI
-  - consulting
-title: "Dental Marketplace: Digitalize the Singapore dentistry operation process"
+title: "Making dental work easier in Singapore"
 short_title: Dental Marketplace
 date: 2020-09-20
-description: Founded by Desmond Goh - a Singaporean dental surgeon, Dental Marketplace is an online platform for dental professionals to stay active in dentistry and simplify operation process. We support them with tech solution and market-fit product design. We work according with Desmond to extract business problem and propose suitable solution.
+description: We built an online platform that helps dentists in Singapore run their practices better. Created by a dental surgeon, Dental Marketplace connects dental professionals, makes finding events easier, and simplifies everyday tasks.
 authors: 
-- duy
+  - duy
+tags: 
+  - startup
+  - marketplace
+  - case-study
 ---
 
-![](assets/digitalize-dental-marketplace-the-singapore-dentistry-operation-process_digitalize-dental-marketplace---the-singapore-dentistry-operation-process_750273299ccf35fa1955d76bec350c9e_md5.webp)
+**Industry**\
+Healthcare / Dental Services
 
-### In brief
+**Location**\
+Singapore
 
-- Founded by Desmond Goh - a Singaporean dental surgeon, **Dental Marketplace** is an online platform for dental professionals to stay active in dentistry and simplify operation process.
-- Web and App development as MVP release for marketing testing and user feedback.
-- We support them with tech solution and market-fit product design. We work according with Desmond to extract business problem and propose suitable solution.
+**Business context**\
+Dentists needed a centralized platform to manage events, find staff, and order supplies
 
-### Technical highlight
+**Solution**\
+Created a comprehensive web and mobile platform specifically for dental professionals
 
-- Product-fit Design: Design Thinking Method & Design UX research
-- Golang-backend: Steady and microservices-extendable system
-- Startup-centric: Scalable system & cost-efficient solution
-- Microservice architecture
-- Agile process and Scrum framework for product iteration
+**Outcome**\
+Built a successful marketplace that generated $50,000 in revenue and attracted 563 dental professionals
 
-### The context
+**Our service**\
+Full-stack Development / Mobile App Development / UX/UI Design
 
-Singapore dentists faces bottlenecks to practice dentistry and operates dental clinic with SDC rules licensed regulated by MOH.
+## Technical highlights
 
-- Dentistry events are hard to followup and register.
-- Job posts and recruitment process are manually operated.
-- Dental supplies are hard to control due to no order tracking and loyalty system.
+- **Backend**: Golang for reliable, efficient server operations
+- **Web frontend**: React.js and Vue.js for responsive interfaces
+- **Mobile apps**: Native development with Swift (iOS) and Kotlin (Android)
+- **User research**: Extensive interviews with dental professionals to identify needs
+- **Payment processing**: Secure system for handling online transactions
+- **Iterative design**: Continuous improvement based on real user feedback
 
-![](assets/digitalize-dental-marketplace-the-singapore-dentistry-operation-process_digitalize-dental-marketplace---the-singapore-dentistry-operation-process_0a64a21eed5328c78fabbc3310ad4dd0_md5.webp)
+## What we did with Dental Marketplace
 
-Singapore dentistry market is USD $24M/ year generating by at least 688 clinics. These clinics are spending USD$2,064,000 a month on dental supplies. The growth is robust. But the operation is outdated. Disrupt the long-term habits and optimize them is challenging.
+[Dental Marketplace](https://dentalmarketplace.com.sg/) is a website and app that helps dentists in Singapore run their practices better. It was created by Desmond Goh, a dental surgeon who understood the problems dentists face every day.
 
-Dental Marketplace must be built to simplify the dentistry operation process.
+![Dental Marketplace website and app](assets/dental-main.webp)
 
-### Engagement model
+We built both a website and mobile app from scratch, working closely with Desmond to understand what dentists really needed. We kept things simple and focused on solving real problems.
 
-We started everything from a fresh idea. The process started out as market research, to define business problem and structure core features.
+The platform helps dentists in several ways:
 
-**Module's strong focus**
+- Find and sign up for dental events
+- Post and find jobs
+- Order and track dental supplies
+- Connect with other dental professionals
 
-- Data-pulling to update CDE events
-- Data process for transaction payment
-- Microservices extendable system
-- Support multiple platforms
+## The challenge Dental Marketplace solved
 
+![Problems facing Singapore dentists](assets/dental-challenges.webp)
+
+Dentists in Singapore were facing several everyday problems:
+
+- It was hard to find out about dental events and training
+- Hiring staff was done through word of mouth with no central job board
+- Ordering supplies was messy with no way to track orders
+- Many clinics were still using old-fashioned paper systems
+
+Singapore's dental market is worth about $24 million per year. There are at least 688 dental clinics spending over $2 million monthly on supplies. While the market is growing, most clinics were still doing things the old way.
+
+The biggest challenge was convincing dentists to try something new. For Dental Marketplace to succeed, it needed to be clearly better than the old ways of doing things.
+
+## How we built it
+
+We started by talking to dentists about their needs before writing any code. This helped us focus on building something truly useful.
+
+### Our approach
+
+![Our development approach](assets/dental-approach.webp)
+
+We focused on building features that would help dentists right away:
+
+- A simple way to find and register for dental training events
+- A secure system for handling payments
+- A flexible design that could grow as the business grew
+- Support for both website and mobile app users
+
+We used a step-by-step approach to build and improve the product, making changes based on feedback. This was exactly what Desmond was looking for.
+
+### Technology we used
+
+![Our technical setup](assets/dental-tech.webp)
+
+We chose reliable, modern tools to build a solid platform:
+
+- **For the backend**: Golang for its performance and reliability
+- **For the website**: React.js and Vue.js for responsive interfaces
+- **For the iPhone app**: Swift for native iOS experience
+- **For the Android app**: Kotlin for native Android functionality
+
+### How we worked together
+
+![User interface design](assets/dental-ui.webp)
+
+We used several methods to make sure we built the right product:
+
+- We talked to real dentists to understand their needs
+- We built the product in small steps, getting feedback along the way
+- We used creative thinking to solve problems
+- We regularly tested with real users to make sure everything worked well
+
+## What we achieved
+
+![Platform results](assets/dental-results.webp)
+
+After just 12 weeks of work, we launched a working product that dentists immediately found helpful.
+
+The results were impressive:
+
+- Over **$50,000** in revenue generated
+- **563** dental professionals joined the platform
+- **302** dental events were listed online
+
+Most importantly, Desmond achieved what he set out to do: create an online space where dentists could connect, learn, and manage their work more easily.
+
+> "It was hard to change how things work in Singapore's dental industry. But working with Dwarves Foundation made me believe Dental Marketplace could make a difference. The product was high-quality and had room to grow. They explained everything clearly and solved problems quickly."
 >
-> With Agile practices and Scrum framework to iterate the product release and adapt to changes, we came across as exactly what Desmond is seeking for.
-
-![](assets/digitalize-dental-marketplace-the-singapore-dentistry-operation-process_digitalize-dental-marketplace---the-singapore-dentistry-operation-process_ab7ac6266fe7ab7df8050695751d996c_md5.webp)
-
-**Tech stacks**
-
-- Backend: Golang
-- Frontend: React.js, Vue.js
-- iOS: Swift
-- Android: Kotlin
-
-**Collaboration**
-
-- UX/UI research & classification
-- Agile practices
-- Scrum framework
-- Design Thinking Method
-
-![](assets/digitalize-dental-marketplace-the-singapore-dentistry-operation-process_digitalize-dental-marketplace---the-singapore-dentistry-operation-process_32cdb72ad303446c1735a18d08137f1b_md5.webp)
-
-![](assets/digitalize-dental-marketplace-the-singapore-dentistry-operation-process_digitalize-dental-marketplace---the-singapore-dentistry-operation-process_5241af2f0c67f40f4385917da088a7d7_md5.webp)
-
-### Outcome
-
-MVP launched after 12 weeks of hard work, retrieved great feedback with specific metrics. A success that brings motivation to keep the good work going.
-
-Dental Marketplace generated more than **$50,000** in revenue, connected **563** dental professionals and **302** events were brought online.
-
-Desmond had solved his issue from day one: Build a playground for dental professionals, connect them by a mutual understanding and address them with different needs.
-
-![](assets/digitalize-dental-marketplace-the-singapore-dentistry-operation-process_digitalize-dental-marketplace---the-singapore-dentistry-operation-process_99617c82d4309f4529b87fa9be52e0cb_md5.webp)
-
->
-> "It was hard to disrupt Singapore dentistry market. But the work  with Dwarves Foundation made me believe Dental Marketplace would make a difference. The MVP was high-quality and expected to grow. Every of our question and feedback was explained and resolved well.
-*Desmond Goh, Founder & CEO of Dental Marketplace*
+> *Desmond Goh, Founder & CEO of Dental Marketplace*

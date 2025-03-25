@@ -8,7 +8,7 @@ date: 2024-08-09
 description: Each month, we release a recap highlighting key updates and progress within our team and community. July covers AI advancements, community contributions, insights from Vietnam's tech scene, new memo commands, OGIF automation, and the introduction of our hourly billing model
 authors:
   - innno_
-  - nikkingtr
+  - nikki
 ---
 
 - [**Reporting Tech Signals:**](#reporting-tech-signals---ai-advancements-cybersecurity-focus-and-shifting-software-trends) Significant AI advancements, cybersecurity focus, and shifting software development trends.

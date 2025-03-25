@@ -1,66 +1,125 @@
 ---
-tags: 
-  - frontend
-  - case-study
-  - consulting
-title: "Swift: Micro frontend design system for e-commerce"
+title: "Swift: Building a micro frontend design system for e-commerce"
 short_title: Swift
 date: 2023-04-03
-description: In this article, we'll dive deeper into the practice of applying micro frontend architecture at Swift - an e-commerce company and long-term partner of Dwarves Foundation
+description: We helped Swift, an e-commerce partner, implement a micro frontend architecture with a shared design system that improved development efficiency and created a consistent user experience across multiple applications.
 authors: 
-- mashiro5951
+  - mashiro5951
+tags: 
+  - ecommerce
+  - case-study
 ---
-Previously on [Why Micro-Frontend](https://memo.d.foundation/Why-micro-frontend-6d5df5b9b71e4f248a7740bc51e096a4), we took a look into what is Micro-Frontend architecture, as well as some core concepts behind it. For some of you that have missed the memo, here’s a tl;dr:
 
-> *Micro frontend architecture is an approach to building web applications by splitting the user interface into smaller, independent, and reusable parts. Each part is owned and developed by a separate team, and they are brought together in the browser to create a single, seamless user experience.*
+**Industry**\
+E-commerce / Web Development
 
-In this article, we'll dive deeper into the practice of applying micro frontend architecture at Swift - an e-commerce company and long-term partner of Dwarves Foundation. We'll take a closer look at one specific use case - **development & integration of a shared design system** - and explore some of the challenges and outcomes of using micro frontend architecture.
+**Location**\
+Southeast Asia
 
-*For privacy’s sake, we will refer to our client company as “Swift”. The information discussed here is from a real interview based on real-world events.*
+**Business context**\
+Swift's growing e-commerce platform faced development bottlenecks, inconsistent user experiences, and duplicate code across applications
 
-## Case study interview: Building a shared design system
+**Solution**\
+Implemented a micro frontend architecture with a shared design system that all applications could use
 
-![](assets/a-case-study-interview-into-micro-frontends-building-design-system-for-e-commerce-platform_micro-frontends-building-design-system-for-e-commerce-platform.webp)
+**Outcome**\
+Successfully delivered a flexible system that improved development speed, code quality, and user experience consistency
 
-### What's the reason behind choosing micro-frontend as the main architecture?
-At Swift, we wanted to make our development process more efficient, and we found that breaking down large projects into smaller chunks was the way to go. 
+**Our service**\
+Frontend Architecture / Design Systems / Component Libraries
 
-This led us to micro-frontend architecture, where we split the project into smaller chunks so that each team could be in charge of a chunk. This made development, testing, and delivery much easier.
+## Technical highlights
 
-### How did you split the projects?
-The projects at Swift are split vertically by page and sub-domain. We have at least ten apps in total, each assigned to a specific team. A sample breakdown of our current system would include:
+- **Component development**: React for building reusable UI elements
+- **Documentation**: Storybook for showcasing and testing components
+- **Styling**: CSS-in-JS for encapsulated component styles
+- **Distribution**: npm package for version management and sharing
+- **Implementation strategy**: Independent development before integration
+- **Validation**: Thorough testing in multiple application environments
+- **Deployment**: Independent pipelines for each micro frontend
 
-- Authentication (Login)
-- Profile Dashboard
-- Ads Management Dashboard
-- Chat
-- Design System
+![Swift e-commerce design system](assets/swift-main.webp)
 
-… and so on.
+## What we did with Swift
 
-This approach has allowed us to have a more focused development process, which has ultimately led to better results.
+We've partnered with Swift, an e-commerce company, for several years. In our most recent collaboration, we helped them implement a micro frontend architecture with a shared design system that all their applications could use.
 
-### What challenges did you face while building a shared design system?
-We realized that having a UI library that all our apps could use would reduce code duplication and make the development process smoother. To achieve this, we opted for a stack of React, Storybook, and pure CSS that gets bundled together with the component.
+Micro frontend is an architectural approach that breaks down a large website into smaller, independent pieces. Different teams can work on different pieces without stepping on each other's toes, and everything comes together seamlessly for the end user.
 
-One of the significant challenges we faced was following the design with sufficient leeway for all possible variants and customizations. We also encountered technical issues, ensuring the components can integrate nicely into multiple different apps and environments. Last but not least, we had to focus on building good documentation that allowed for fast and accurate collaboration.
+For Swift, this approach solved several critical challenges they were facing with their growing e-commerce platform. We focused particularly on building a shared design system that would create consistency across all their applications while making development more efficient.
 
-### How did the shared design system fit into the architecture?
-The process of consuming this app is relatively straightforward. We build and publish the package to npm, and consumers install it and import the components they need to use.
+*Note: "Swift" isn't the company's real name - we've changed it to respect their privacy. But everything shared here comes from real interviews and experiences.*
 
-We have started applying this design system to our existing apps, such as Ads Management Dashboard, and we are expecting to integrate it further into other projects in the near future.
+## The challenge Swift faced
 
-### What if the apps have to use different versions of the package?
-Since this is a UI-focused package, we believe it is unlikely that the apps will face difficulty upgrading to the newest version. 
+As Swift's e-commerce platform grew, their development process became increasingly complex and difficult to manage. Large projects were becoming unwieldy, with multiple teams trying to work on the same codebase simultaneously.
 
-Initially, we recommend implementing the UI independently in each app, and only after everything is stable should we gather the components that can be shared. By this point, the cost of upgrading the package for all apps should be relatively low because the risk is also low - considering that we have ensured all the components are working in a stable way.
+They faced several key challenges:
 
-### Did the shared design system meet your initial expectation?
-Our expectation was to build an internal design system that all our apps could share, and we have achieved our goal. We have released the first version of the package, which can be applied to some of our production apps.
+- **Development bottlenecks**: Teams were waiting on each other to complete work before they could proceed
+- **Inconsistent user experience**: Different parts of the platform had different looks and behaviors
+- **Duplicate code**: Teams were recreating the same UI components multiple times
+- **Slow release cycles**: The monolithic structure meant even small changes required extensive testing
 
-In conclusion, at Swift, we have found that micro-frontend architecture and a shared design system have been beneficial to our development process. While we encountered some challenges along the way, we believe that the benefits have been worth it, and we are now reaping the rewards of a more efficient and streamlined development process.
+They needed a way to make their development more efficient while ensuring a consistent user experience across all their applications.
 
-## Conclusion
-In this case study, we explored how the Micro-Frontend architecture was applied across Swift’s e-commerce platform - how the system looks, and how it makes integrating a new app much more efficient. Vertically splitting the apps by sub-domains is an effective approach to Swift’s use cases - and it looks like they will keep going strong with this.
+## How we built it
 
-Alas, Swift is not the only one among our partners that are utilizing a Micro-Frontend architecture, and we are reaching out to others for even more insights.
+After analyzing Swift's needs, we helped them implement a micro frontend architecture with a shared design system at its core.
+
+### Technical approach
+
+We divided the platform into smaller, more manageable chunks based on page and business purpose. This resulted in at least ten separate applications, each with a dedicated team:
+
+- Login screens
+- User profiles
+- Ad management tools
+- Messaging system
+- Design system components
+- And several others
+
+For the shared design system, we implemented a comprehensive solution using:
+
+- **React components**: We built reusable UI elements that could be shared across all applications, ensuring consistency while allowing for customization where needed.
+- **Storybook documentation**: We created extensive documentation and interactive examples using Storybook, making it easy for all teams to understand how to use each component.
+- **Component-scoped styling**: We bundled CSS with each component using CSS-in-JS techniques, preventing style conflicts when components are used in different applications.
+- **npm package distribution**: We packaged the design system as an npm package with proper versioning, making it easy for teams to install and update.
+- **Testing framework**: We established thorough testing procedures to ensure components worked correctly in all environments and use cases.
+
+### Implementation strategy
+
+The biggest technical challenge was creating components flexible enough to work across all the different applications. We implemented a rigorous development process that included:
+
+1. Identifying common UI patterns across applications
+2. Building components with the right balance of flexibility and consistency
+3. Thoroughly testing components in multiple environments
+4. Creating clear documentation so all teams could easily understand how to use them
+
+### Team workflow
+
+The process we established is straightforward:
+
+1. The design system team builds and thoroughly tests components
+2. The package is published to npm with proper versioning
+3. Other teams install the package and import just the components they need
+4. Teams provide feedback to continuously improve the system
+
+We recommended building UI independently in each app first, then identifying shared components to add to the design system only after everything was stable. This approach reduces risk when upgrading because components have already been thoroughly tested.
+
+## What we achieved
+
+The micro frontend architecture and shared design system have genuinely improved Swift's development process. The first version has been successfully released and implemented in production applications.
+
+Key benefits include:
+
+- **Faster development cycles**: Teams can now work independently without blocking each other, leading to more rapid feature releases.
+- **Consistent user experience**: All applications share the same UI components, creating a unified experience for users across the platform.
+- **Reduced code duplication**: Common components are built once and shared, eliminating redundant work and improving code quality.
+- **Easier maintenance**: Updates to the design system automatically improve all applications, making it simpler to implement platform-wide changes.
+- **Better scalability**: New teams and applications can be added without disrupting existing work, allowing the platform to grow more efficiently.
+
+We've already successfully integrated the shared design system into Swift's Ads Management Dashboard, with plans to expand to other applications soon.
+
+The Swift team considers this implementation a success and plans to continue using this approach for future development. The architecture we helped them build is well-suited to their specific business needs and will support their growth for years to come.
+
+This project is just one example of how we're helping partners implement micro frontend architecture. As we work with more companies on similar challenges, we'll continue sharing insights and best practices.

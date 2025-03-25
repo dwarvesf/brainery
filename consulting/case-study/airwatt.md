@@ -1,121 +1,133 @@
 ---
-tags: 
-  - case-study
-  - UX-UI
-  - consulting
-title: "AirWatt: Apply AI/ML for IoT electricity usage solutions"
+title: "Creating a smart system to monitor electricity Use"
 short_title: AirWatt
 date: 2020-11-15
-description: "AirWatt's vision is to help businesses track electric usage status of electrical equipment. Hence, they can save electricity and money, even avoid disaster. The MVP must be done fast to prove the product's concept. We built Airwatt system from zero with other teams: Business, Hardware, and AI"
+description: "We built AirWatt's system that uses artificial intelligence to track how businesses use electricity, helping them save money and prevent equipment problems."
 authors: 
-- han
-- duy
+  - tieubao
+  - duy
+tags: 
+  - iot
+  - case-study
 ---
 
-![](assets/building-airwatt-apply-aiml-for-iot-solutions-to-optimize-electricity-usage_building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_b1d2f4d32b1a3a8f8085bf8a5aebe92f_md5.webp)
+**Industry**\
+Energy Management / Internet of Things (IoT)
 
-## In brief
+**Location**\
+Vietnam
 
-* AirWatt is an IoT solution that integrates and monitors electricity usage using AI/ML.
-* AirWatt's vision is to help businesses track electric usage status of electrical equipment. Hence, they can save electricity and money, even avoid disaster.
-* They seek for product development support, with insight on business to provide suitable product design
-* The MVP must be done fast to prove the product's concept. We built Airwatt system from zero with other teams: Business, Hardware, and AI.
+**Business context**\
+Businesses needed a way to monitor electrical equipment in real-time to save money and prevent problems
 
-## Technical highlight
+**Solution**\
+Built an AI-powered system that collects data from monitoring devices and provides actionable insights
 
-* Microservices architecture
-* Data structure and Infrastructure to centralize all data from Airwatt monitors on platforms.
-* End-to-end data-flow from Monitor to AI servers for machine learning.
-* MVP-centric: Rx-MVVM Inputs/Outputs to balance development's velocity by separating UI from business logic
-* ESP Touch protocol for hardware WiFi connection
-* A scalable platform with native mobile apps.
+**Outcome**\
+Delivered a complete platform with mobile apps, dashboard, and AI engine that helps businesses optimize energy usage
 
-## The context
+**Our service**\
+Full-stack Development / AI Integration / IoT System Design
 
-AirWatt is designed for quick installation and constant improvement. Hence, it should comes in multiple platforms
+## Technical highlights
 
-AI utilizes data to figure out which device is on or off. We must create analytics dashboard with tracking mechanism.
+- **Core system**: Go-powered microservices handling device lifecycle management
+- **AI engine**: Custom machine learning for device detection and usage prediction
+- **Mobile apps**: Native iOS (Swift) and Android (Kotlin) applications
+- **Database architecture**: MongoDB for real-time updates and DynamoDB for AI data
+- **Device connectivity**: WiFi connection using ESP2866 protocol 
+- **Infrastructure**: Docker, Kubernetes, AWS, GCP for reliable hosting
 
-The problem is hard to solve, yet, it's worthwhile and improved all the time.
+![AirWatt electricity monitoring system](assets/airwatt-main.webp)
 
-![](assets/building-airwatt-apply-aiml-for-iot-solutions-to-optimize-electricity-usage_building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_cce56122290dff1fee0a827b148f1e41_md5.webp)
+## What we did with AirWatt
 
-They have the capability to handle hardware production and Machine learning. But they face obstacle in building the MVP to visualize and nurture all the data structure. That's where we dive in to help, as technical partner and venture builder.
+AirWatt is a smart system that uses artificial intelligence to monitor and improve how businesses use electricity. It helps companies track their electrical equipment in real-time, so they can save money on power bills and prevent problems caused by faulty equipment.
 
-## Engagement model
+We worked with AirWatt to build their system from scratch, teaming up with their business, hardware, and AI specialists. Our goal was to quickly develop a working product that would prove the concept worked, while also creating a strong foundation for future growth.
 
-### Solution design
+We needed to create a complete system that could collect data from monitoring devices, process it with AI, and show useful insights through easy-to-understand dashboards on different devices. The solution had to be both technically advanced and simple to use so it would provide real value to AirWatt's customers.
 
-**Onboarding**
+## The challenge AirWatt was facing
 
-AirWatt's system is taken with 4 aspects to meet its business demand
+AirWatt needed a versatile system that could be installed quickly and improved over time. It had to work on multiple platforms and process large amounts of data in real-time.
 
-* Monitor Management: Supports administration tasks at different places. Users can also switch on/off and view the detailed usage information of each monitor.
-* Reporting: Must-have features to track usage status of electrical equipment. On the mobile version, the report shows weekly or in the nearest three months.
-* Mobile App: The only way to bring the Monitors online and bind them to the corresponding user accounts.
-* Web App for B2B: For business owners to track data provided by Airwatt monitors through weekly and monthly reports.
+![AirWatt's business challenge](assets/airwatt-context.webp)
 
-**Microservice Architecture**
+The main technical challenge was using AI to accurately figure out which electrical devices were turned on or off based on their power usage patterns. This required not just collecting and processing data, but also creating dashboards with tracking tools to visualize this information.
 
-AirWatt processes a huge data volume at the same time. We build the architecture with two focus points: CRUD data and IoT data.
+While AirWatt had expertise in building hardware and developing AI algorithms, they needed a partner to help create the software that would connect everything and provide a user-friendly interface. They needed to establish the data structures and visualization tools that would make the platform valuable to users.
 
-All data must be synced to the AI system in real-time. AirWatt faces ~ 17,280 records per device every day. Going microservice is the ideal solution.
+This was a complex challenge requiring expertise in connecting devices, processing data in real-time, integrating AI, and developing apps for different platforms – all areas where we could help.
 
-![](assets/building-airwatt-apply-aiml-for-iot-solutions-to-optimize-electricity-usage_building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_c91a49d28d91773c00b3165feaaa9319_md5.webp)
+## How we built it
 
-* Airwatt System: The core domain to manage device's life cycle.
-* Landing Page: Features solutions and pre-order for AirWatt's services.
-* Admin Panel: Administrative dashboard for AirWatt to access and update data.
-* Mobile: iOS and Android version with dashboards, charts and report features.
-* AI core: is the most important part with 4 main features: Data synchronization, detect appliance, predict appliance, prepare report data.
-* IoT core: Core data in the AirWatt system for IoT devices. This module helps to oversee and track the device's status.
+We approached the project by focusing on four key areas that aligned with AirWatt's business needs:
 
-**Different databases for different purposes**
+1. **Device Management**: We created tools to manage monitoring devices across different locations, allowing users to see detailed usage information and control their monitors remotely.
+2. **Reporting**: We built features to track how electrical equipment is used, with mobile versions showing weekly or three-month history.
+3. **Mobile Apps**: We developed apps for iPhone and Android that let users connect monitors to their network and link them to their accounts.
+4. **Business Website**: We built a website for business owners to track data from their AirWatt monitors through weekly and monthly reports.
 
-* MongoDB: AirWatt system for data of IoT devices. Update device's status and electric consumption every 5 secs for real-time features and input to AI core.
-* DynamoDB: Stores the data related to the input for the AI core. We use data from the Airwatt system data to pre-process data for AI's main features.
+![AirWatt's system design](assets/airwatt-architecture.webp)
 
-**AI Model**
+### Technical approach
 
-AI models is built from real data with beta testing users, by the labeling data technique. AirWatt system collects the appliance's data in 2 weeks. These models are the input data to detect, predict appliances in real-time.
+The system had to handle huge amounts of data – each device generates about 17,280 records every day. To handle this, we built a system with specialized components:
 
-**Smart config Integration**
+- **Core System**: The main service managing device lifecycles and data flow
+- **Landing Page**: A website showcasing solutions and allowing pre-orders
+- **Admin Dashboard**: Tools for system management and monitoring
+- **Mobile Apps**: iPhone and Android apps with dashboards, charts, and reports
+- **AI Engine**: The system's brain, handling data synchronization, device detection, prediction, and report generation
+- **Device Management**: The foundation for tracking device status and electricity consumption
 
-Mobile apps must connect user's hardware to the server using wifi. It registers the hardware to the server and link it with the user account.
-We use smart config integration with ESP2866 as wifi protocol. This requires manual-press button to enable the smart config mode.
+We used different databases for specific purposes:
 
-**Tech stacks**
+- **MongoDB** for the main system, updating device status and electricity usage every 5 seconds
+- **DynamoDB** for storing AI input data, processed from the main system
 
-* Backend: Golang
-* Frontend: React.js, Typescript, Swift, Kotlin
-* Infras: Docker, k8s, AWS, GCP, Netlify
-* Framework: Gin, TailwindCSS, Gastby
-* Database: PostgreSQL, Redis, MongoDB, DynamoDB
-* Monitoring: Grafana, Loki, Prometheus, Sentry
-* Architecture: MVC, N-Tiers, Reactive, Microservices
-* Library: RxJava, RxKotlin, RXSwift
-* Reporting: Charts & MPAndroidCharts
+For the AI models, we used real data from test users. The system collected device data over two-week periods to create reliable models for real-time detection and prediction.
 
-**Collaboration**
+![AirWatt development process](assets/airwatt-collaboration.webp)
 
-* Development: Figma, Git/Github, Insomnia, K9s
-* Practices: Agile, Gitflow, CI/CD, Code Review, Automation
+To connect hardware devices to the system, we implemented a WiFi connection method using the ESP2866 protocol, which requires pressing a button on the device to enable setup mode.
 
-![](assets/building-airwatt-apply-aiml-for-iot-solutions-to-optimize-electricity-usage_building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_8d005fd066a63c376836e9440523ee69_md5.webp)
+### Technology we used
 
-## Outcome
+We selected a variety of technologies to build a reliable, scalable system:
 
-After three months, we have accomplished the MVP development stage with necessary modules:
+- **Backend**: Go for efficient processing of large data volumes
+- **Frontend**: React.js for web interfaces
+- **Mobile**: Swift (iOS) and Kotlin (Android) for native experiences
+- **Infrastructure**: Docker, Kubernetes, AWS, GCP, and Netlify
+- **Databases**: PostgreSQL, Redis, MongoDB, and DynamoDB
+- **Monitoring**: Grafana, Loki, Prometheus, and Sentry
 
-* Web App for B2B support
-* Native mobile apps on [iOS](https://apps.apple.com/us/app/airwatt/id1522009415) and [Android](https://play.google.com/store/apps/details?id=com.dwarvesf.airwatt) platform
-* End-to-end system design that handles data from monitor devices to the central server, processed with AI/ML and visualize the nurtured data on cross-platform apps.
-* Eye-catching & detailed data report
-![](assets/building-airwatt-apply-aiml-for-iot-solutions-to-optimize-electricity-usage_building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_98ff38b1521894691a908557706aedcc_md5.webp)
+### How we collaborated
 
->
-> **Airwatt** has successfully made its way to the problem-solution fit stage. And event marked itself at [Vietnam Zone Startup](https://vietnam.zonestartups.com/zone-startups-portfolio/). The next milestone customizing the web app for a specific domain: FnB. A spinoff to the energy monitor solution for FnB is Airwatt's nearest goal.
+Throughout the project, we collaborated closely using tools like:
 
-![](assets/building-airwatt-apply-aiml-for-iot-solutions-to-optimize-electricity-usage_aw-solution.webp)
+- Figma for design collaboration
+- GitHub for code management
+- Insomnia for API testing and documentation
 
-![](assets/building-airwatt-apply-aiml-for-iot-solutions-to-optimize-electricity-usage_building-airwatt---apply-aiml-for-iot-solutions-to-optimize-electricity-usage_c371c2899128501e8f1ae7b28e17fa72_md5.webp)
+We followed agile development methods, regular code reviews, and automation practices to ensure high quality while maintaining development speed.
+
+## What we achieved
+
+After just three months of development, we successfully completed the working product with all necessary components:
+
+![AirWatt reporting dashboard](assets/airwatt-result1.webp)
+
+- **Apps for All Devices**: We delivered web applications for businesses and mobile apps for both [iPhone](https://apps.apple.com/us/app/airwatt/id1522009415) and [Android](https://play.google.com/store/apps/details?id=com.dwarvesf.airwatt).
+- **Complete System**: We created a system that handles data from monitoring devices to the central server, processes it with AI, and shows the results on multiple platforms.
+- **Clear Reports**: We built attractive and information-rich data reports that provide actionable insights to users.
+
+![AirWatt solution overview](assets/airwatt-result2.webp)
+
+![AirWatt mobile app](assets/airwatt-result3.webp)
+
+This successful implementation helped AirWatt prove their concept and gain recognition in the startup community, including being featured at [Vietnam Zone Startup](https://vietnam.zonestartups.com/zone-startups-portfolio/).
+
+Following this initial success, AirWatt has continued to grow, with their next goal being to customize the web application for restaurants and food businesses. This extension of their energy monitoring solution shows how the foundation we built is helping them expand into specific industries.

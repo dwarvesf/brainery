@@ -4,5 +4,6 @@
   "templater-obsidian",
   "obsidian-shellcommands",
   "table-editor-obsidian",
-  "obsidian-projects"
+  "obsidian-projects",
+  "find-unlinked-files"
 ]

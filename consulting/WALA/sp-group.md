@@ -1,15 +1,15 @@
 ---
-tags:
-  - wala
-  - consulting
 title: "SP Group WALA: Insights on digital transformation and partnership in energy sector"
 short_title: SP Group
 date: 2024-06-05
 description: We’ve always wanted to visit SP Group, one of our partners, but the pandemic made it impossible until now. This year, the opportunity finally came when we decided to attend Echelon X in Singapore.
 authors:
-  - nikkingtr
+  - nikki
   - innno_
   - huytq
+tags:
+  - energy
+  - wala
 ---
 
 We’ve always wanted to visit [SP Group](http://spgroup.com.sg/), one of our partners, but the pandemic made it impossible until now. This year, the opportunity finally came when we decided to attend Echelon X in Singapore.
@@ -26,14 +26,14 @@ Everyone in our team for this visit would have their own takeaways, but a few th
 - Data security is a big concern at SPG. Internal teams have strict, lengthy processes to access data, and it's even harder for external partners like us. While AI and other tech are being discussed, the main issue is keeping data safe. Engineers must be aware of security and privacy, often dealing with regulatory challenges.
 - While adopting trending tech like AI and AR is great, the real challenge is using them to solve business problems. What sets top engineers apart is their ability to understand industry-specific issues and use technology to address them.
 
-All in all, visiting SPG for us reinforced our direction of how we should grow our team and how we should look at the bigger picture of the tech scene. Engineers need to expand their perspectives beyond just coding. 
+All in all, visiting SPG for us reinforced our direction of how we should grow our team and how we should look at the bigger picture of the tech scene. Engineers need to expand their perspectives beyond just coding.
 
 We are greatly grateful for how welcoming and open the SPG team was to us. We look forward to continue contributing to the changes SPG is making every day.
 
 ![](assets/sp-group-wala.webp)
 ___
 
-**WALA: to walk around, learn around.** 
+**WALA: to walk around, learn around.**
 
 In our line of work, we hear and talk about domain knowledge all the time. WALA aims for exactly that: we, people in tech, take a break from sitting in front of our computers, to go out, connect with new people, and get to understand other businesses.
 

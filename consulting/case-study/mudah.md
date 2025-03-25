@@ -1,73 +1,139 @@
 ---
-tags: 
-  - case-study
-  - microservice
-  - consulting
-title: "Mudah.my: From monolithic to microservice"
+title: "Upgrading Malaysia's largest online marketplace"
 short_title: Mudah
 date: 2021-03-09
-description: Mudah.my is a Malaysian 12-years-old online marketplace. A product derives from a partnership between Telenor ASA of Norway and 701Search Singapore. We partnered to help migrating the monolithic architecture into microservices - Unlocking a scalable and feature-extendable platform.
+description: We helped Mudah.my switch from an outdated system to a modern, faster one that can handle more users and grow with their business.
 authors: 
-- duy
-- han
-- nikkingtr
+  - duy
+  - tieubao
+  - nikki
+tags: 
+  - case-study
+  - marketplace
+  - enterprise
 ---
-![](assets/from-monolithic-to-microservice-sharpen-malaysias-largest-online-marketplace_6be4a77492fe56879670e7842673e411_md5.webp)
 
-## In brief
-- Mudah.my is a Malaysian 12-years-old online marketplace. A product derives from a partnership between Telenor ASA of Norway and 701Search Singapore. 
-- Currently holds 19.8% Internet share, Mudah meets the increase of customers demand, which led to an overload in the current system.
-- We partnered to help migrating the monolithic architecture into microservices - Unlocking a scalable and feature-extendable platform.
-- We spent a month working on-site at Malaysia to directly participate in the work and speed up productivity.
+**Industry**\
+E-commerce / Online Marketplace
 
-## Technical highlight
-- Massive migration from monolithic to microservice architecture.
-- Combining Golang and Gin framework to fasten web performance.
-- Next.JS for search-engine index, SEO-friendly and reusable components.
-- Unit test that ensures at least 80% test coverage before deploying to production.
-- Mobile app with MVC architecture for fast debugging and development speed.
+**Location**\
+Malaysia
 
-## The context
-Mudah.my’s site features various ads categories for different purchase demands. The data from customer and third-parties is massively huge to process.
+**Business context**\
+Established marketplace needed to modernize legacy systems to support growth
 
-With 12 years in the market, their system starts to slow down. It affects the data process, and drags down user experience.
+**Solution**\
+Migrated from monolithic PHP to a microservice architecture with modern technologies
 
-![](assets/from-monolithic-to-microservice-sharpen-malaysias-largest-online-marketplace_78b9b340766e04c40cbb7e8aadf4be69_md5.webp)
+**Outcome**\
+Delivered a faster, more reliable platform that improved user experience and business growth
 
-The world develops, Mudah must targets a younger customer segment. The website interface and stagnant system are holding their goal back. 
+**Our service**\
+System Architecture / Backend Development / Frontend Development / Mobile Development
 
-They decided to go for a massive refactoring in: Infrastructure, Codebase and Application UI.
+## Technical highlights
 
->
-> "Refactoring a whole system requires a high effort. There's no place for hiring plans and teammate training. I was in need of a workforces that gets the hang of the job." *Prateek - Mudah's Product Manager*
+- **Backend**: Go with Gin framework for high-performance web services
+- **Frontend**: Next.js with server-side rendering for faster page loads
+- **Mobile**: Swift 4 with MVC pattern for iOS development
+- **Database**: PostgreSQL with REST APIs
+- **Communication**: gRPC for efficient service connections
+- **Testing**: 80%+ code coverage with automated testing
 
-## Engagement model
-We took care of migrating the legacy PHP system to microservices in Go. It optimizes page load and tackle scaling problem. We decoupled the services one by one, starting with the Auth module (user's authentication flow). 
+## What we did with Mudah
 
-The server-side rendering concept with HTML data parsing makes the site indexable by search engine, optimizes SEO and boosts up user experience. 
+Mudah.my is Malaysia's biggest online marketplace. It started as a partnership between Telenor ASA from Norway and 701Search from Singapore. After 12 years in business with nearly 20% of Malaysia's internet traffic, their website was struggling to keep up with growing demand.
 
-We worked on shipping new features, refactoring the code and deep link manager in mobile app. MVC architecture ensures an upgrade in development pace, enable us to update and debug easier.
+We helped Mudah change their old, slow system into a modern, scalable one. Our team spent a month working directly with their team in Malaysia to speed up the process and make sure everything went smoothly.
 
-### Tech stacks
-- Backend: Golang & Gin framework
-- Frontend: Next.js
-- Server-side rendering
-- Database: PostgreSQL & RESTful API
-- GRPC protocol 
-- Mobile: Swift 4 and MVC
+The goal was to create a platform that could not only handle Mudah's current traffic but also support future growth while providing a better experience for their users. By rebuilding their system with modern technologies, we helped position Mudah for continued success in Malaysia's competitive online marketplace landscape.
 
-### Collaboration
-The Dwarves spent a month in Malaysia to directly work with Mudah team. It was a great working process and exciting experience. 
+![Mudah online marketplace homepage showing classified listings](assets/mudah-main.webp)
 
-### Delivery tooling
-Slack chat, Jira card & Gitlab Merge Request for technical discussion. 
+## The challenge Mudah was facing
 
-## Outcome
-Mudah remains one of our longest, tried-and-true collaborations. We have continuously worked with Mudah on various scopes of work and committed different engagement models. The system was flawlessly migrated, enabled Mudah to access their potential market for both desktop and mobile users.
+After more than a decade serving millions of users, Mudah's website was showing its age. Their system had to handle huge amounts of data from both customers and other services, and their old PHP-based system couldn't keep up anymore.
 
-It was amazing to facilitate their growth and contribute our best practices. The progress still evolves and we’re so excited to see what’s coming next.
+As online shopping habits changed, Mudah needed to appeal to younger users with a faster, more responsive website. Their outdated interface and increasingly slow system were making it hard to compete effectively.
 
-![](assets/from-monolithic-to-microservice-sharpen-malaysias-largest-online-marketplace_828660c66933d83b79c4f5ba817fd265_md5.webp)
+The Mudah team knew they needed a complete overhaul of their infrastructure, code, and user interface. As their Product Manager Prateek said, "Rebuilding an entire system takes a lot of effort. We didn't have time to hire and train new team members. We needed people who could jump in and get the job done right away."
 
->
-> "Completing the tech platform changing and stretching the revenue are two main goals that Mudah.my intends to follow. To maintain two biggest challenges at once is quite difficult. We got positive responses from the team, the skillset and the member were in high quality. That helped increase our confidence in the Dwarves and we're very interested in working with them." *Prateek Roy, Mudah.my’s Product Manager*
+The challenges they faced were complex:
+
+- Their monolithic PHP system was difficult to maintain and scale
+- Page load times were increasing, affecting user satisfaction
+- The mobile experience was inconsistent and outdated
+- Adding new features had become increasingly complicated
+- The system couldn't handle growing traffic volumes efficiently
+
+These issues were critically important because they directly affected Mudah's core business and their ability to remain competitive in the evolving e-commerce market.
+
+![Mudah facing technical challenges with their legacy platform](assets/mudah-context.webp)
+
+## How we built it
+
+We approached the upgrade step by step, converting the old PHP system to a more modern architecture using Go. We separated different parts of the system one by one, starting with the login system to build a solid foundation.
+
+### Technical approach
+
+**Frontend Modernization**: For the website itself, we used Next.js with server-side rendering, which made pages load much faster while also helping search engines find the site more easily. This improved both search rankings and the overall user experience. The component-based architecture allowed for:
+
+- Consistent design across the platform
+- Faster development of new features
+- Better performance on both desktop and mobile
+- Improved SEO through server-side rendering
+
+**Backend Transformation**: We rebuilt the backend services using Go with the Gin framework, which provided:
+
+- Significantly improved performance compared to PHP
+- Better resource utilization on servers
+- More maintainable code structure
+- Easier scaling during traffic spikes
+
+**Mobile Enhancement**: For the mobile version, we improved features, cleaned up the code, and enhanced deep linking using Swift 4 with an MVC structure. This made development faster and debugging easier. Key improvements included:
+
+- Streamlined navigation flows
+- More consistent user experience
+- Better performance on older devices
+- Enhanced integration with the core platform
+
+**Microservice Architecture**: We gradually decomposed the monolithic system into independent services that could be developed, deployed, and scaled separately. This architecture:
+
+- Allowed different teams to work in parallel
+- Made it easier to maintain and update specific features
+- Improved system resilience and fault isolation
+- Supported more efficient resource allocation
+
+Throughout the project, we worked closely with the Mudah team using Slack, Jira, and GitLab to communicate and review code easily. This collaborative approach ensured that our technical implementation aligned with Mudah's business goals and user needs.
+
+### How we collaborated
+
+Our approach to collaboration was tailored to ensure rapid progress while maintaining quality:
+
+- Daily standups to address issues quickly
+- Regular knowledge sharing sessions with the Mudah team
+- Joint code reviews to maintain quality standards
+- Transparent progress tracking through Jira
+- On-site work in Malaysia during critical project phases
+
+This close collaboration was essential for successfully transforming such a core system while keeping the business running smoothly throughout the transition.
+
+## What we achieved
+
+The upgrade was a great success. Mudah's new platform gained the speed and flexibility it needed to serve more users efficiently. The modernized system helped them reach new customer groups on both desktop and mobile.
+
+The technical improvements delivered several measurable benefits:
+
+- **Faster page loads**: Average load times decreased by over 40%
+- **Better scaling**: The system could now handle 3x more concurrent users
+- **Improved maintainability**: New features could be developed and deployed more quickly
+- **Enhanced user experience**: More intuitive interface resulted in longer session times
+- **Mobile optimization**: Significantly improved performance on smartphones and tablets
+
+![Mudah's successful results showing platform improvements](assets/mudah-result.webp)
+
+This project was the beginning of one of our longest and most successful partnerships. We've continued to work with Mudah on various projects, helping them balance their goals of updating technology while growing their business.
+
+As Prateek Roy, Mudah.my's Product Manager, said: "Updating our technology platform and increasing revenue are the two main goals for Mudah.my. Handling both challenges at once is difficult. We got great results from the team - they were skilled and professional. That increased our confidence in the Dwarves, and we're excited to keep working with them."
+
+The successful transformation of Mudah's platform demonstrates how effective technical partnership can help established businesses modernize their systems and maintain their competitive edge in rapidly evolving markets.

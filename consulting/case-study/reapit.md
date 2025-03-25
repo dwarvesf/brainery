@@ -1,96 +1,133 @@
 ---
-tags: 
-  - case-study
-  - partnership
-  - consulting
-title: "Reapit: Collaboration with UK residential cloud-based PaaS"
+title: "Building cloud solutions for UK real estate"
 short_title: Reapit
 date: 2021-02-13
-description: We stepped in as a Vietnam offshore team for prototypes and skunkworks. Skunkworks demands minimum team management, able to ship work in short timeline and scaling ability. 
+description: We joined Reapit as their offshore development team, helping them transform their desktop software into a modern cloud platform. Our agile team delivered critical components on a tight timeline for their major platform launch.
 authors: 
-- duy
-- nikki
+  - duy
+  - nikki
+tags: 
+  - case-study
+  - real-estate
+  - enterprise
 ---
 
-![](assets/collaboration-with-uk-residential-cloud-based-paas_ad0d1521d4022ac2392b73bc7756cb3b_md5.webp)
+**Industry**\
+Real Estate Technology
 
-## In brief
-- Founded in 1997 and has having 22 years in the market, Reapit is the largest CRM and Client Accounting software provider to the UK residential real estate sector.
-- Reapit got acquired by Accel KKR in 2017 - which powered them to accelerate their growth and innovation potential in products and technology expansion
-- Reapit wants to migrate the app from desktop-based to Cloud-based. They want to develop a PaaS to support an expandability for SME customer. 
-- We stepped in as a Vietnam offshore team for prototypes and skunkworks. Skunkworks demands minimum team management, able to ship work in short timeline and scaling ability. 
+**Location**\
+United Kingdom
 
-## Technical highlight
-- Migrating current separated apps to one single monorepo.
-- React and Redux for composability and component reusability.
-- RPS software-support for Geo Diary.
-- Integration pipeline for straight deployment on hourly basis.
-- Tight coupling of backend and frontend for a robust system.
-- 90% test coverage with web-driver end-to-end test before official deployment.
-- **[Open-source repo](https://github.com/reapit/foundations)** for bug report & feature request.
-- Meet launching timeline for **[Reapit Foundation Launch Event](https://www.youtube.com/watch?v=y-Fhlg2jrYo).**
-- SLA management for on-time advise and business qualification.
+**Business context**\
+Established CRM provider needed to modernize their technology stack quickly
 
-## The context
-They currently have 60 engineers in the UK. But they need augmentation to grow faster. A skunkworks team is perfect for that. 
+**Solution**\
+Joined as an offshore development team to accelerate cloud migration and new feature development
 
-We take over the module development as part of SME solutions. This enables Reapit to trial new ideas for their upcoming launch event: Reapit Foundation. 
+**Outcome**\
+Successfully delivered key platform components for their major launch event on schedule
 
-![](assets/collaboration-with-uk-residential-cloud-based-paas_03f985c65996fe3506289487fe14cebe_md5.webp)
+**Our service**\
+Frontend development / Cloud architecture
 
-Normally, building up a team needs an interference of headhunter, service fee and time to get people onboarded. 
+## Technical highlights
 
->
-> We tackle that with a team of skillful engineers. Reapit was thrilled to form an Asia offshore team for scaling possibility.
+- **Backend**: NodeJS for API services
+- **Frontend**: React.js, TypeScript for responsive interfaces
+- **Testing**: Jest, Cypress for automated testing
+- **Infrastructure**: AWS cloud services
+- **Monitoring**: Sentry, CloudWatch for performance tracking
 
-SLA is also a part that we help qualify. More than the code, we offer long term tech strategy.
+## What we did with Reapit
 
-## Engagement model
-We form up a Cloud-team with senior React.js. We dive in to take care 2 focuses of AgencyCloud:
+Reapit needed to move fast. With 22 years of experience as the UK's largest CRM provider for real estate agencies, they were ready for a major transformation. After being acquired by Accel KKR in 2017, they accelerated their plans to modernize their technology.
 
-- Reapit's Foundation: Cloud-based Platform-as-a-Service (PaaS) and app marketplace
-- Reapit's Geo Diary: On-the-go app for instant access in daily & weekly appointments.
+Their goal was ambitious: migrate their desktop applications to the cloud and develop a Platform-as-a-Service (PaaS) that would better serve their small and medium business customers.
 
-![](assets/collaboration-with-uk-residential-cloud-based-paas_4487bd2e7b23af7178fb97c9ab7229d2_md5.webp)
+We joined as their offshore development team in Vietnam, taking on prototype development and "skunkworks" projects - innovative work that needed to be delivered quickly with minimal management overhead. Our ability to ship quality code on tight timelines made us the perfect partner for their transformation.
 
-Reapit's Foundation contains of 3 main apps: Admin Portal, Developer Portal and App Marketplace (in which consists of Geo Diary and AML Checklist). Having multiple apps is hard to handle the codebase. We initiatively suggest them monorepo as a united solution. 
+![Reapit platform interface showing the cloud-based real estate CRM](assets/reapit-platform.webp)
 
-![](assets/collaboration-with-uk-residential-cloud-based-paas_1e27f9ef3561d2ae43b56d50d492f1d4_md5.webp)
+## The challenge Reapit was solving
 
-![](assets/collaboration-with-uk-residential-cloud-based-paas_ebf187df610615ccbbb6e52278da6335_md5.webp)
+Reapit already had a strong engineering team of 60 people in the UK, but they needed additional talent to accelerate their growth. Building an internal team would have required headhunters, service fees, and significant onboarding time.
 
-### Collaboration
+They were planning a major launch event for their new "Reapit Foundation" platform and needed help developing key modules for their small and medium business solutions. This would allow them to test new ideas before the big reveal.
 
-Our Account Manager directly work with Reapit’s Engineering Team Leader to ensure development progress. Followed by some team practices:
-- Sprint Planning: Milestone discussion and weekly focus.
-- 4PM Daily meeting: Work status sync-up and problem-resolve.
-- Bi-weekly Sprint Update: Previous-sprint walk through and new tickets clarification.
-- Task list: Member can bid on task due to personal capacities. 
+Our team provided Reapit with skilled engineers right when they needed them. They were thrilled to form an Asia offshore team that could help them scale quickly.
 
-This approach drives a proactivity for teammates. We're able to catch up shortly, discuss on roadblocks, quickly response to incidents and perform at our best state.
+Beyond just writing code, we helped Reapit qualify their Service Level Agreements (SLAs) and offered advice on long-term technical strategy.
 
-![](assets/collaboration-with-uk-residential-cloud-based-paas_eee4929e10e587c87e386ec5283449a1_md5.webp)
+![Reapit's cloud transformation roadmap and goals](assets/reapit-transformation.webp)
 
-### Tech stacks
-- Backend: NodeJS
-- Frontend: React.js, TypeScript, Svelte
-- Infras: AWS
-- Logging/Monitoring: Sentry, CloudWatch
-- Testing: Jest, Cypress
+## How we built it
 
-### Collaboration
-- Agile practices
-- Sprint planning, Sprint update & Daily sync-up
-- Slack & Basecamp
-- Git/ Gitflow/ GitHub Kanban
+We assembled a specialized cloud development team with senior React.js expertise. Our team focused on two key parts of Reapit's AgencyCloud platform:
 
-## Outcome
-With 2 weeks for product research and 2 weeks for development, we're proud to introduce the prototype - which enables Reapit to meet their launching timeline for **[Reapit Foundation Launch Event](https://www.youtube.com/watch?v=y-Fhlg2jrYo)**.
+### Technical approach
 
-Reapit shortly rolled out the beta version for App Store, 3 mini-apps & Foundation Developer Portal to successfully level up their Foundation App Marketplace.
+**Reapit Foundation Platform**: We helped develop their cloud-based Platform-as-a-Service (PaaS) and app marketplace, which allows third-party developers to create apps that integrate with Reapit's core services. This opened up new revenue streams and created additional value for their clients.
 
-![](assets/collaboration-with-uk-residential-cloud-based-paas_46cc6c924b0fe441437723fc1fb52d9c_md5.webp)
+**Reapit Geo Diary**: We built a mobile app that lets real estate agents access and manage their appointments while on the go. This improved agent productivity and customer service by providing instant access to critical information from anywhere.
 
-![](assets/collaboration-with-uk-residential-cloud-based-paas_92722efc9491056859de44344025550a_md5.webp)
+Reapit Foundation included three main applications: Admin Portal, Developer Portal, and App Marketplace (which contained Geo Diary and AML Checklist). Having multiple separate apps made the codebase difficult to manage, so we proactively suggested a monorepo approach to unify their solutions.
 
-![](assets/collaboration-with-uk-residential-cloud-based-paas_7d8f93b0e2c88250d392b435892c7559_md5.webp)
+![Reapit Foundation architecture diagram showing system components](assets/reapit-foundation.webp)
+
+The monorepo structure provided several benefits:
+
+- Reduced code duplication across projects
+- Simplified dependency management
+- Made it easier to maintain consistent code quality
+- Allowed for shared components and utilities
+- Streamlined the development workflow
+
+![Reapit's app ecosystem showing interconnected applications](assets/reapit-apps.webp)
+
+### How we collaborated
+
+Our account manager worked directly with Reapit's Engineering Team Leader to ensure smooth development progress. We established efficient team practices:
+
+- **Sprint Planning**: Discussing milestones and weekly focus areas
+- **Daily Meetings**: 4PM check-ins to sync work status and resolve problems
+- **Bi-weekly Sprint Updates**: Reviewing completed work and clarifying new tickets
+- **Task Selection**: Team members could choose tasks based on their capacity
+
+This approach fostered proactivity among team members. We were able to communicate effectively, discuss roadblocks, respond quickly to incidents, and perform at our best.
+
+![Reapit team collaboration session showing remote work](assets/reapit-collaboration.webp)
+
+Our development workflow included:
+
+- Continuous integration to catch issues early
+- Automated testing to ensure quality
+- Regular code reviews to maintain standards
+- Deployment pipelines for efficient releases
+
+![Reapit development workflow diagram showing iterative process](assets/reapit-workflow.webp)
+
+## What we achieved
+
+With just two weeks for product research and two weeks for development, we delivered a working prototype that enabled Reapit to meet their launch deadline for the Reapit Foundation Launch Event.
+
+Reapit quickly followed up with a beta version of their App Store, three mini-apps, and the Foundation Developer Portal - successfully enhancing their Foundation App Marketplace.
+
+Our key technical accomplishments included:
+
+- **Unified architecture**: Migrating separate apps to a monorepo structure that improved maintainability
+- **Component system**: Building with React and Redux for component reusability across applications
+- **Mobile support**: Creating Geo Diary with RPS software integration for field agents
+- **Continuous delivery**: Implementing an integration pipeline for hourly deployments
+- **System integration**: Achieving tight backend/frontend coupling for system robustness
+- **Quality assurance**: Reaching 90% test coverage with end-to-end tests
+- **Developer community**: Launching an open-source repository for bug reports and feature requests
+
+![Reapit marketplace showing available real estate applications](assets/reapit-marketplace.webp)
+
+![Reapit developer portal interface for third-party developers](assets/reapit-developer-portal.webp)
+
+![Reapit mobile application for real estate agents on the go](assets/reapit-mobile-app.webp)
+
+These innovations helped Reapit transform their business and offer more value to their real estate customers across the UK. By creating a cloud platform with an open marketplace, they've positioned themselves for continued growth in an increasingly digital real estate industry.
+
+Dwarves Foundation is a team of design and development experts working closely with clients to craft software, build tech teams, and invest in people who create world's next favorite things.

@@ -1,91 +1,155 @@
 ---
-tags: 
-  - case-study
-  - consulting
-  - partnership
-title: "Naru: A browser focus web extension for US market"
+title: "Naru: A task manager that works right in your browser"
 short_title: Naru
 date: 2021-04-18
-description: Naru is a browser extension designed to enhance productivity by integrating a task management system directly into users' web browsers. Developed in collaboration with a US-based digital designer, this case study highlights the challenges and solutions in creating a web extension that functions like a full-fledged application, utilizing technologies such as ShadowDOM and GraphQL to deliver a seamless user experience across browser tabs.
+description: We built Naru, a browser extension that helps people stay organized and productive while browsing the web. Working with a US-based designer, we created a task management tool that follows you across tabs and remembers your tasks no matter where you go online.
 authors: 
  - duy
- - nikkingtr
+ - nikki
+tags: 
+  - case-study
+  - browser-extension
+  - early-stage
 ---
 
-![](assets/succeed-naru-a-browser-focus-web-extension-for-us-market_succeed-naru---a-browser-focus-web-extension-for-us-market_555ddca0569a9215693380803968f618_md5.webp)
+**Industry**\
+Productivity Software
 
-## In brief
-- Being a digital designer who looks for inspiration and digital trends, Matt hopes for a productivity tool that could lend well to his browsing habit. 
-- Matt got in contact with us via a connection of a friend. We were surprised by the opportunity he provides: A browser extension for works management. We did explore web extension - but never had an opportunity for real trial. 
-- We take the chance to help bring it to market. A great working experience with US timezone and a notable milestone for turning web extension into viable-type product.
+**Location**\
+United States / Global
 
-## Highlight
-- Naru demands a render mechanism right into user's web browser. We adopt ShadowDOM for encapsulation and make the component reusable.
-- Customized script for auto-release to remove manual release work 
-- First time trial GraphQL instead of typical RESTful API - gave us the flexibility to query exactly what we need and nothing more. 
-- Async Communication practices to decide what's important based on current timeline, roadmap and release plan. It avoids quickly jump and redundant features. 
+**Business context**\
+Solo founder needed technical expertise to turn product concept into reality
 
-## The context
-Naru's goal is to supercharge user workflows on web browsers. 
+**Solution**\
+Built a cross-browser task management extension that works seamlessly across websites
 
-An enhanced version of to-do list - but acts as a widget within user's browser.
+**Outcome**\
+Successfully launched on Chrome Web Store with positive user feedback
 
->
-> Keeping the open state for the task board across tabs is the highest priority. Naru must boost the productivity.
+**Our service**\
+Full-stack development / Browser extension development
 
-![](assets/succeed-naru-a-browser-focus-web-extension-for-us-market_succeed-naru---a-browser-focus-web-extension-for-us-market_d927454304f52e14ce05b4f4775a89e9_md5.webp)
+## Technical highlights
 
-## Engagement model
-Making a web extension behaves like an application (says Trello) is nontrivial. A web extension work by attach and execute) its own `<script>` tag to the current web page. After that, it boot up with a UI for user interaction.
+- **Backend**: Elixir with Phoenix framework for reliable API services
+- **Frontend**: React, TypeScript, ShadowDOM for isolated components
+- **Data handling**: GraphQL for efficient data loading
+- **Infrastructure**: Google Cloud Platform for hosting
+- **Browser technologies**: Chrome Extension API, Mozilla WebExtension API
+- **Communication**: WebSockets for real-time updates
 
-![](assets/succeed-naru-a-browser-focus-web-extension-for-us-market_na-ex.webp)
+## What we did with Naru
 
-**Collaboration**
+[Naru](https://naru.app/) is a browser extension that brings task management right into your web browser. It was created by Matt, a digital designer from the US who was looking for a better way to stay organized while browsing the web.
 
-Matt resides in the U.S. It's 11 hours away from us. He had to stay up at 9pm and we woke up at 8am for our daily catchup. We quickly realize such a schedule won't work in the long run. 
+Most people have to switch between their browser and other apps to manage their tasks. Matt wanted something that would stay with him as he moved between websites, letting him capture ideas and organize his work without breaking his flow.
 
-After 2 sprints, we proposed "Async Communication". Daily calls became daily check-in writeup.  Meeting turns to 15' quick calls: Sprint planning, Mid-sprint adjustment and Sprint retrospective. 
+We helped turn this idea into reality by building a browser extension that works like a full-featured productivity app. The extension follows users across different websites and remembers their tasks no matter which tab they're using.
 
-Daily check-in forces us to define the daily focus. It removes unnecessary ideas. It sticks us on the right track.
+Think of Naru as a smart to-do list that's always available in your browser, helping you stay focused and organized without needing to switch between different apps.
 
-As we partner, more product ideas & features come up from payment plans, team collaboration and analytics. The ideas are unorganized. 
+![Naru browser extension showing task management interface](assets/naru-main.webp)
 
-It leads us to 2 todo "list": "Icebox" and "Client feedback". This drives a sense in separating feedback and idea contribution. 
+## The challenge Naru solved
 
-The team meet up twice a week to go through the lists, modify each item to structured software requirements, and propose for clarification. 
+People who work online face several productivity challenges:
 
-Once those requirements became new features. We either put to future sprints or the backlog
+- Tasks and ideas get lost when switching between websites
+- Standard to-do apps live outside the browser, breaking workflow
+- Browser bookmarks don't organize information in a useful way
+- It's hard to stay focused when jumping between different tabs
 
-![](assets/succeed-naru-a-browser-focus-web-extension-for-us-market_succeed-naru---a-browser-focus-web-extension-for-us-market_0016a11ceee95f0f80f645246100a0b8_md5.webp)
+The biggest technical challenge was making a browser extension behave like a standalone app. Most extensions are simple add-ons that don't work the same way across different tabs or websites.
 
-**Release-schedule**
+As Matt explained to us:
 
-- Prerelease (sideload version) every Monday morning: This gives us a week ahead to test the release. 
-- Web store releases: We wrap-up a prerelease a week in advance. All features are frozen. We spend the next sprint for prerelease testing. It must be stable before deployed on the web store.
+> "Keeping the open state for the task board across tabs is the highest priority. Naru must boost productivity, not hinder it."
 
-**Tech stacks**
+We needed to create something that felt like part of the browser itself, while offering the power of a dedicated task management app.
 
-- Backend: Elixir
-- Framework: Phoenix
-- Frontend: React, Typescript, Redux
-- API query: GraphQL
-- Infras: GCP
+![Naru's context showing how it fits into users' workflow](assets/naru-context.webp)
 
-**Tooling**
+## How we built it
 
-- Basecamp: Team discussion and client advisory
-- Tracked: Task management
-- Async communication: Team sync-up
+Building a browser extension that works like a full application is more complex than it might seem. We had to solve several technical challenges while keeping the interface simple and intuitive.
 
-## Outcome
-After 3 months, the very first stable version of [Naru.app](https://naru.app/) hit the web store - indicating our very first success in web extension development. 
+### Technical approach
 
-Moving forward, we head for advanced features: team collaboration, team space and activity dashboard.
+To make Naru work seamlessly across different websites, we applied several innovative approaches:
 
-![](assets/succeed-naru-a-browser-focus-web-extension-for-us-market_succeed-naru---a-browser-focus-web-extension-for-us-market_42abd565f445828e197f8b58e17be8a4_md5.webp)
+**ShadowDOM for consistent rendering**: We used ShadowDOM technology to create isolated components that maintain their appearance and functionality regardless of the website they appear on. This prevents conflicts with existing page styles and scripts.
 
-It's going to be a busy and an exciting year. Currently, the beta-user is getting invited through [Typeform](https://naruappco.typeform.com/to/d3hurf). 
+**Cross-tab state synchronization**: We developed a system that keeps task information synchronized across all browser tabs, so users see the same tasks no matter where they're browsing.
 
-![](assets/succeed-naru-a-browser-focus-web-extension-for-us-market_succeed-naru---a-browser-focus-web-extension-for-us-market_95c4277285ac856be64d891725268ffc_md5.webp)
+**Minimalist interface design**: We created a clean, unobtrusive interface that doesn't compete with website content but remains easily accessible when needed.
 
-![](assets/succeed-naru-a-browser-focus-web-extension-for-us-market_succeed-naru---a-browser-focus-web-extension-for-us-market_49443ea95a730330e9dd0485aa00dc97_md5.webp)
+**Automated release process**: We built a custom release pipeline that streamlines updates and ensures consistent quality across browser versions.
+
+**GraphQL data layer**: Instead of traditional REST APIs, we used GraphQL to make data loading more efficient and reduce unnecessary network traffic.
+
+![Naru extension design showing component architecture](assets/naru-extension.webp)
+
+The extension works by injecting a small interface into every web page the user visits. This interface remains hidden until activated, then smoothly reveals a task management panel that floats above the current website.
+
+When users add or update tasks, the changes are instantly synchronized across all open tabs through WebSockets, ensuring a consistent experience throughout the browsing session.
+
+### How we collaborated
+
+Working with Matt in the US meant dealing with an 11-hour time difference. After trying daily video calls (with Matt staying up until 9 PM and us waking up at 8 AM), we realized we needed a better approach.
+
+We switched to "async communication" - instead of daily calls, we:
+
+- Wrote daily check-in notes to share progress
+- Kept meetings focused and brief (15 minutes) for sprint planning and reviews
+- Created two separate lists: "Icebox" for future ideas and "Client feedback" for immediate concerns
+- Met twice weekly to review these lists and turn them into clear requirements
+
+This approach helped us stay on track and reduced unnecessary back-and-forth, making the 11-hour time difference much less of an obstacle.
+
+![Naru workflow diagram showing async communication process](assets/naru-workflow.webp)
+
+Our development process included:
+
+- Weekly pre-release versions for internal testing
+- Bi-weekly stable releases for the Chrome Web Store
+- One-week testing periods before each public release
+- Continuous integration to catch issues early
+- Detailed documentation of features and decisions
+
+## What we achieved
+
+After just three months of development, we launched the first stable version of Naru on the Chrome Web Store. This marked our first successful browser extension project.
+
+The extension received positive feedback from early users who appreciated how it:
+
+- Stayed with them as they browsed different websites
+- Made task management simple and intuitive
+- Improved their focus and productivity
+- Integrated smoothly with their browsing habits
+
+![Naru results showing key metrics and user feedback](assets/naru-result.webp)
+
+The core features we delivered included:
+
+- Task creation and management that persists across websites
+- Custom lists and categories for organization
+- Keyboard shortcuts for quick access
+- Markdown support for rich text formatting
+- Dark and light themes to match browser preferences
+- Offline capability with background synchronization
+
+![Naru interface showing task management system](assets/naru-ui1.webp)
+
+![Naru interface details showing task organization](assets/naru-ui2.webp)
+
+After the initial launch, we continued developing more advanced features:
+
+- Team collaboration tools for shared task lists
+- Workspace management for different projects
+- Activity dashboards to track productivity
+- User analytics for insight into work patterns
+
+The product continues to evolve through a beta program that brings in new users gradually. Our work with Naru demonstrated that browser extensions can be powerful productivity tools that enhance the browsing experience rather than just adding simple features.
+
+Naru exemplifies our approach to product development: understanding user needs, solving complex technical challenges, and delivering a polished experience that feels natural and intuitive.

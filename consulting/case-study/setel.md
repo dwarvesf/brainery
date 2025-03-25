@@ -1,60 +1,110 @@
 ---
-tags: 
-  - case-study
-  - consulting
-  - partnership
-title: "Setel: Supercharged Malaysia's first pay, pump & go super-app"
+title: "Building Setel's fuel payment super-app for Malaysian drivers"
 short_title: Setel
 date: 2021-05-27
-description: First introduced by PETRONAS in 2018, Setel is the first e-payment solution for fuel purchases directly from mobile devices.They head to unlock a bigger market by providing a super-app with on-the-go function and platform integration.
+description: We helped Setel expand their fuel payment app into a full-featured platform that makes refueling simple for Malaysian drivers. Our team built the conversion features that bring new users to the platform through deals, vouchers, and targeted marketing.
 authors: 
-- han
-- nikkingtr
-- duy
+  - nikki
+  - tieubao
+  - duy
+tags: 
+  - case-study
+  - enterprise
 ---
-![](assets/supercharged-setel-malaysias-first-pay-pump-go-super-app_85caa8bdd0121608f33b230e54fe563d_md5.webp)
 
-## In brief
-- First introduced by PETRONAS in 2018, Setel is the first e-payment solution for fuel purchases directly from mobile devices.
-- They head to unlock a bigger market by providing **a super-app** with on-the-go function and platform integration.
-- Our team of 7 partners to involve in their engineering team in Unified Loyalty Platform, specialized in “Conversion” of new potential users. We focus on deals, vouchers, the [front-landing page](https://www.setel.com/) as well as Marketing tracking & integration.
+**Industry**\
+Oil and gas / Mobile payments
 
-## Highlights
-- Microservice architecture
-- [SWARM process](https://open.nytimes.com/scrum-swarm-sprint-how-to-take-the-agile-process-and-make-it-your-own-b6416793ff7e): Working together on a small number of stories at a time. It help spread tacit knowledge, resolve issues and avoid the random distraction.
-- Testing: Manual ad-hoc test, then regression test and automation. All managed in Zephyr and Allure report.
+**Location**\
+Malaysia
 
-## The context
-Setel moves toward one goal: **Making refuel experience frictionless**, which deep dive in 3 main target customers:
+**Business context**\
+Leading fuel payment app needed to expand features and attract new users
 
-- **Motorists**: Setel supports a refueling process on their daily experience. 
-- **Business**: Setel provides them approaches to engage with customers while automating the cash flow.
-- **Developers**: With Setel, developers can work with different things, from API integration to mini app deployment. 
+**Solution**\
+Built conversion features focused on deals, vouchers, and marketing integration
 
-![](assets/supercharged-setel-malaysias-first-pay-pump-go-super-app_ccd01facaa7b07ae954700b20a360ad1_md5.webp)
+**Outcome**\
+Successfully launched new features including The Food Bank Programme for community support
 
-We help build up a place where users can interact and personalize their experience with **Setel Website** and **Gifts Campaign**.
+**Our service**\
+Software development / Agile team augmentation
 
-## Engagement model
-We work as Conversion team - fully focused on **supporting the funnel to activate client**.
+## Technical highlights
 
-Established businesses as Setel have a fixed protocol to work and operate. We need to form a team that can manage themselves independently and adopt modern business practices.
+- **Frontend**: React for building responsive user interfaces
+- **Backend**: TypeScript with Nest.js framework for API development
+- **Infrastructure**: AWS, Microservices architecture for scalability
+- **Testing**: Zephyr and Allure report for quality assurance
+- **Process**: SWARM methodology for focused team collaboration
 
-**Tech Stacks**
+## What we did with Setel
 
-- Backend: TypeScript (Nest.js framework)
-- Frontend: React
-- Infra: AWS, Microservices
-- Testing: Zephyr and Allure report
-- Tooling: JIRA
+Setel is Malaysia's first e-payment solution for fuel purchases, introduced by PETRONAS in 2018. The app lets drivers pay for fuel directly from their mobile phones, making the refueling process faster and simpler.
 
-**Communication**
+The company wanted to grow beyond basic fuel payments and create a "super-app" that would serve drivers with additional on-the-go features and platform integrations. Our team of seven developers joined Setel's engineering team to focus on user conversion - bringing new customers to the platform through deals, vouchers, and marketing campaigns.
 
-The collaboration happens remotely (*obvs*). Tools are our best friends.
+We specifically helped build the Setel website, gift campaigns, and marketing tracking systems that formed the top of their user acquisition funnel.
 
-Daily communication happens in Slack, while we pick Jira for sprint tracking and Confluence for technical analysis and written-form materials.
+![Setel mobile app interface showing fuel payment features](assets/setel-main.webp)
 
-## Outcome
-Through months of partnership, we're glad to ship out **The Food Bank Programme**: A community-support initiative by Petronas Station Business Partners and the communities to provide essential items at selected Petronas stations nationwide. 
+## The challenge Setel faced
 
-![](assets/supercharged-setel-malaysias-first-pay-pump-go-super-app_ac414946573baa1c8baa276992a535d4_md5.webp)
+Setel had one clear goal: make refueling simple and friction-free. To achieve this, they needed to serve three main customer groups:
+
+1. **Drivers** - People who need a smooth, convenient refueling experience in their daily lives
+2. **Businesses** - Companies looking to engage with customers while automating payment processes
+3. **Developers** - Technical partners who need to integrate with Setel's systems
+
+The challenge was creating features that would attract new users while maintaining the simplicity that made their core fuel payment app popular. They needed to build conversion paths that would bring potential customers into their ecosystem without complicating the user experience.
+
+![Setel's context diagram showing their target customer segments](assets/setel-context.webp)
+
+## How we built it
+
+### Technical approach
+
+We implemented a microservices architecture that allowed different parts of the system to evolve independently. This approach gave Setel the flexibility to add new features without disrupting their core payment services.
+
+Our team focused on building:
+
+- The public-facing Setel website that serves as the entry point for new users
+- Gift and voucher campaigns to incentivize sign-ups
+- Marketing tracking systems to measure campaign effectiveness
+
+We used React for frontend development, creating responsive interfaces that worked well on both mobile and desktop. For the backend, we built APIs using TypeScript with the Nest.js framework, which provided a structured approach to development.
+
+### Development process
+
+We adopted the SWARM process - a collaborative approach where the team works together on a small number of stories at a time. This method helped us:
+
+- Share knowledge across the team
+- Solve problems quickly
+- Avoid distractions and stay focused
+- Build consistent features
+
+For testing, we implemented a multi-stage approach starting with manual testing, then regression testing, and finally automation. We managed all testing through Zephyr and generated reports with Allure to maintain high quality standards.
+
+### How we collaborated
+
+We worked as part of Setel's Conversion team, fully focused on supporting their user acquisition funnel. Since Setel is an established business with defined protocols, we formed a team that could work independently while adopting their practices.
+
+Communication happened remotely through several channels:
+
+- Daily discussions in Slack
+- Sprint tracking in Jira
+- Technical documentation in Confluence
+
+This structured approach ensured our team integrated smoothly with Setel's existing operations while still maintaining the agility to deliver features quickly.
+
+## What we achieved
+
+Through our partnership with Setel, we successfully delivered several key features that expanded their platform capabilities. The most significant was The Food Bank Programme - a community support initiative by Petronas Station Business Partners that provides essential items at selected Petronas stations nationwide.
+
+This programme exemplified how Setel was growing beyond just fuel payments to become a platform that connects the local community with valuable services. It demonstrated Setel's commitment to social responsibility while also creating new touchpoints for user engagement.
+
+![Setel's Food Bank Programme interface showing community support initiative](assets/setel-result.webp)
+
+Our work helped Setel enhance their user conversion funnel, bringing more Malaysians into their digital payment ecosystem. By creating compelling offers and a smooth onboarding experience, we supported Setel's growth as Malaysia's premier fuel payment platform.
+
+The features we built fit seamlessly into Setel's larger vision of creating a comprehensive super-app that makes daily tasks easier for Malaysian drivers. Our focus on the conversion aspects complemented their core functionality, helping transform Setel from a simple payment tool into a multi-faceted platform that serves users in various aspects of their lives.

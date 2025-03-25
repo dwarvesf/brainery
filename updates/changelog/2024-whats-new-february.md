@@ -8,7 +8,7 @@ title: What's New in February 2024
 date: 2024-03-08
 description: In this second month of 2024, we're eyeing on what's brewing in the tech market, what's happening in our community and internally, the newest topics we're looking forward to researching and putting on the field, and expanding our partner network.
 authors:
-  - nikkingtr
+  - nikki
 ---
 
 - **[Reporting Tech Signals](#reporting-tech-signals)** - Latest findings on Serverless Computing, AI & ML, FinOps and CyberSecurity
