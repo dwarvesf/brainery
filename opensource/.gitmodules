@@ -1,0 +1,45 @@
+[submodule "github-agent"]
+	path = github-agent
+	url = https://github.com/dwarvesf/github-agent
+[submodule "llm-hosting"]
+	path = llm-hosting
+	url = https://github.com/dwarvesf/llm-hosting/
+[submodule "hidden"]
+	path = hidden
+	url = https://github.com/dwarvesf/hidden
+[submodule "mochi-ui"]
+	path = mochi-ui
+	url = https://github.com/consolelabs/mochi-ui
+[submodule "blurred"]
+	path = blurred
+	url = https://github.com/dwarvesf/blurred
+[submodule "react-toolkit"]
+	path = react-toolkit
+	url = https://github.com/dwarvesf/react-toolkit
+[submodule "session-buddy"]
+	path = session-buddy
+	url = https://github.com/dwarvesf/session-buddy
+[submodule "go-threads"]
+	path = go-threads
+	url = https://github.com/dwarvesf/go-threads
+[submodule "code-viewer"]
+	path = code-viewer
+	url = https://github.com/dwarvesf/CodeViewer
+[submodule "micro-sniff"]
+	path = micro-sniff
+	url = https://github.com/dwarvesf/micro-sniff
+[submodule "auto-dnd"]
+	path = auto-dnd
+	url = https://github.com/dwarvesf/auto-dnd
+[submodule "sudo-fn-macos"]
+	path = sudo-fm-macos
+	url = https://github.com/dwarvesf/sudo-fm-macos
+[submodule "yggdrasil"]
+	path = yggdrasil
+	url = https://github.com/dwarvesf/yggdrasil
+[submodule "glod"]
+	path = glod
+	url = https://github.com/dwarvesf/glod
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/dwarvesf/dotfiles
