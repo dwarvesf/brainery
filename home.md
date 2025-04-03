@@ -199,7 +199,7 @@ FROM sorted_vault;
   <h6>Love what we are doing?</h6>
   <ul>
     <li>
-      <a href="https://discord.gg/dwarvesv">🩷 Join our Discord Network →</a>
+      <a href="https://discord.gg/dfoundation">🩷 Join our Discord Network →</a>
     </li>
     <li>
       <a href="https://github.com/dwarvesf/playground">🔥 Contribute to our Memo → </a>

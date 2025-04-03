@@ -5,7 +5,7 @@
 - **Home**: [d.foundation](http://d.foundation)
 - **Brain: [brain.d.foundation](http://brain.d.foundation)**
 - **Note:** [note.d.foundation](https://note.d.foundation)
-- Discord: [discord.gg/dwarvesv](http://discord.gg/dwarvesv)
+- Discord: [discord.gg/dfoundation](http://discord.gg/dfoundation)
 - Console Labs: [console.so](https://console.so)
 - Careers: [careers.d.foundation](http://careers.d.foundation)
 - Memo: [memo.d.foundation](http://memo.d.foundation)
