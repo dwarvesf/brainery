@@ -1,8 +1,8 @@
 ---
 tags:
   - brainery
-title: <% tp.file.title %>
-date: <% await tp.file.creation_date("YYYY-MM-DD") %>
+title: README
+date: 2025-04-03
 description: 
 authors: 
 icy: "10"

@@ -1,7 +1,7 @@
 ---
-title: <% tp.file.title %>
+title: New Brainery
 product: 
-date: <% await tp.file.creation_date("YYYY-MM-DD") %>
+date: 2025-04-03
 description: 
 authors: 
 tags:
