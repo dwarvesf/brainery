@@ -5,5 +5,4 @@ description:
 authors: 
 tags:
   - hiring
-hiring: false
 ---

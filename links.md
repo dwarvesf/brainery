@@ -4,7 +4,7 @@
 
 - **Home**: [d.foundation](http://d.foundation)
 - **Brain: [brain.d.foundation](http://brain.d.foundation)**
-- **Note:** [note.d.foundation](https://note.d.foundation)
+- **Note:** [memo.d.foundation](https://memo.d.foundation)
 - Discord: [discord.gg/dfoundation](http://discord.gg/dfoundation)
 - Console Labs: [console.so](https://console.so)
 - Careers: [careers.d.foundation](http://careers.d.foundation)
@@ -13,7 +13,7 @@
 
 ### Shortcut
 
-- **Earn:** [](https://earn.d.foundation)[https://note.d.foundation/earn](https://note.d.foundation/earn)
+- **Earn:** [](https://earn.d.foundation)[https://memo.d.foundation/earn](https://memo.d.foundation/earn)
 - **Radar:** [https://radar.d.foundation/](https://radar.d.foundation/)
 - Handbook: [github.com/dwarvesf/handbook](http://github.com/dwarvesf/handbook)
 - Playbook: [github.com/dwarvesf/playbook](http://github.com/dwarvesf/playbook)
