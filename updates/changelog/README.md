@@ -1,13 +1,24 @@
 ---
-title: Changelog
-date: 2023-12-11
-description: Sign up for our newsletter to stay up-to-date on our latest news, tips, and updates. We'll deliver valuable content straight to your inbox, keeping you informed and engaged with stuff happening at Dwarves.
-authors:
-  - nikki
-  - monotykamary
-tags:
-  - dwarves
-  - work
-hide_on_sidebar: true
+title: Dwarves Updates
+date: 2024-03-12
+description: 
+authors: 
+tags: []
 ---
-This is our newsletter page, where we keep you up to date with latest industry news and updates, valuable content from our engineers at Dwarves, and a picture of how we operate with our engineers and community.
+
+We run our company like we build software.
+We're working hard to build Dwarves, and need more help!
+
+If you know anybody who would be a good fit for any of these roles - across engineering, marketing, and more - please let us know and tell your friends! 
+careers.d.foundation
+
+## Latest changelog
+
+```dsql-list
+SELECT markdown_link(COALESCE(short_title, title), file_path)
+FROM vault
+WHERE file_path ILIKE '%changelog%'
+  OR ['changelog', 'changelog'] && tags
+ORDER BY date DESC
+LIMIT 10;
+```

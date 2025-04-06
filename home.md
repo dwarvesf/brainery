@@ -7,8 +7,6 @@ authors:
   - tieubao
   - hnh
 tags:
-  - dwarves
-  - work
   - home
 hide_title: true
 ---
@@ -23,17 +21,7 @@ Written by Dwarves for product craftsmen.
 
 Learned by engineers. Experimented by engineers.
 
-## 💡 OGIFs
-
-```dsql-list
-SELECT markdown_link(COALESCE(short_title, title), file_path)
-FROM vault
-WHERE ['ogif'] && tags
-ORDER BY date DESC
-LIMIT 5
-```
-
-## ✨ New memos
+## ✨ Latest memos
 
 ```dsql-list
 WITH sorted_vault AS (
@@ -84,6 +72,16 @@ SELECT
     ) ||
     '</div>' AS latest_memos_html
 FROM sorted_vault;
+```
+
+## 💡 OGIFs
+
+```dsql-list
+SELECT markdown_link(COALESCE(short_title, title), file_path)
+FROM vault
+WHERE ['ogif'] && tags
+ORDER BY date DESC
+LIMIT 5
 ```
 
 ## 🧑‍💻 Life at Dwarves
