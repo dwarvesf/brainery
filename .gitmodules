@@ -18,3 +18,6 @@
 	path = opensource
 	url = git@github.com:dwarvesf/opensource.git
 	branch = main
+[submodule "radar"]
+	path = radar
+	url = git@github.com:dwarvesf/radar.git
