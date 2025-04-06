@@ -1,3 +1,14 @@
+---
+title: 001 RFC template
+date: 2025-04-03
+description: 
+authors: 
+  - tieubao
+tags:
+  - earn
+  - rfc
+---
+
 # RFC: [Title]
 
 - **Author:** [Your Name]

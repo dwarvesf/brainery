@@ -1,16 +1,10 @@
 ---
-title: New Brainery
-product: 
+title: Open Source
 date: 2025-04-03
 description: 
 authors: 
+  - tieubao
 tags:
   - earn
-due_date: 
-status: 
-PICs: 
-
-functional: 
-completion_date: 
-bounty: 150
+  - open-source
 ---
