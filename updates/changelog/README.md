@@ -9,7 +9,7 @@ tags: []
 We run our company like we build software.
 We're working hard to build Dwarves, and need more help!
 
-If you know anybody who would be a good fit for any of these roles - across engineering, marketing, and more - please let us know and tell your friends! 
+If you know anybody who would be a good fit for any of these roles - across engineering, marketing, and more - please let us know and tell your friends!
 careers.d.foundation
 
 ## Latest changelog
