@@ -13,7 +13,7 @@ tags:
 In March, we rolled out structured OGIF demos, launched key internal AI tools (GitHub Agent & MCP DB), and wrapped up the ICY-BTC swap. We also improved memo.d.foundation's UI, introduced meme culture internally, and our BD team tapped into Asia's Web3 and AI scenes to spot what's ahead. Here's the quick summary:
 
 - [**Pushing AI-first workflows with GitHub Agent & MCP DB:**](#reinforcing-our-ai-first-mindset-with-internal-tooling) Automated PR management and structured data access to streamline internal operations.
-- [**Sharing team progress through demos and case studies:**](#creating-space-for-team-wide-sharing-through-ogif-demos-case-studies-and-peer-recognition) Showcased project updates and hands-on learnings that help connect engineering to everyday work.
+- [**Sharing team progress through demos and case studies:**](#creating-space-for-team-wide-sharing-through-ogif-demos-case-studies) Showcased project updates and hands-on learnings that help connect engineering to everyday work.
 - [**ICY-BTC swap finalized with internal demos and guides:**](#finalizing-icy-to-btc-transition-and-aligning-it-with-earning-strategies) Transition completed and support materials published on valuation and usage.
 - [**memo.d.foundation UI upgraded:**](#upgrading-ui-memodfoundation-with-a-smoother-flow-and-better-look) Improved usability, content structure, search functionality, and integrated NFT minting. The handbook was also updated with policies reflecting current tech and consulting dynamics.
 - [**Making office life part of the daily rhythm:**](#bringing-office-life-into-everyday-team-culture) Rolled out the 💩・tech-meme Discord channel to bring in humor and subtle shifts that make the office feel more like a shared space.
