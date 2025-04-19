@@ -1,3 +1,5 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "obsidian",
+  "textFontFamily": "iA Writer Mono S"
 }

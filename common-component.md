@@ -2,13 +2,18 @@
 Heading components section
 ```
 
-# Heading 1 
+# Heading 1
 
 ## Heading 2
+
 ### Heading 3
+
 #### Heading 4
+
 ##### Heading 5
+
 ###### Heading 6
+
 ------
 
 ```
@@ -19,9 +24,8 @@ Heading 1
 ===============
 
 Heading level 2
----------------
+------------------
 
-------
 ```
 Paragraph components section
 ```
@@ -94,23 +98,24 @@ Adding Elements in Lists
 
 Paragraphs
 
-* This is the first list item.
-* Here's the second list item.
+- This is the first list item.
+- Here's the second list item.
 
     I need to add another paragraph below the second list item.
 
-* And here's the third list item.
+- And here's the third list item.
 
 Blockquotes
 
-* This is the first list item.
-* Here's the second list item.
+- This is the first list item.
+- Here's the second list item.
 
     > A blockquote would look great below the second list item.
 
-* And here's the third list item.
+- And here's the third list item.
 
 Code Blocks
+
 1. Open the file.
 2. Find the following code block on line 21:
 
@@ -177,24 +182,26 @@ Link components section
 
 Adding titles
 
-* Link [example](https://www.google.com)
+- Link [example](https://www.google.com)
 
 URLs and Email Address
 
-* <https//www.google.com>
-* <nhuthm@d.foundation>
+- <https//www.google.com>
+- <nhuthm@d.foundation>
 
 Formatting Links
 
-* With bold example: **[Bold Example](https://www.google.com)**
-* With italic example: *[Italic Example](https://www.google.com)*
-* With code example: [`Code example`](#code)
-* With in-style link with title: [Inline-style link with title](https://www.google.com "Google's Homepage")
+- With bold example: **[Bold Example](https://www.google.com)**
+- With italic example: *[Italic Example](https://www.google.com)*
+- With code example: [`Code example`](#code)
+- With in-style link with title: [Inline-style link with title](https://www.google.com "Google's Homepage")
 
 -----
+
 ```
 Image components section
 ```
+
 Inline-style:
 ![[assets/common-component/fe9d47fb207a78f2ab92b1b77ffcd46b_MD5.png|"Logo Title Text 1"]]
 
@@ -214,11 +221,12 @@ With a reference later in the document defining the URL location:
 
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
------ 
+-----
 
 **Syntax Highlighting:**
 
 - SQL:
+
 ```sql
 SELECT * FROM users
 ```
