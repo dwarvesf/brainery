@@ -13,13 +13,30 @@ hide_title: true
 
 ![](assets/home_cover.webp)
 
-Welcome to the Dwarves Memo.
+Welcome to the Dwarves Brainery.
 
-This site is a part of our continuous learning engine, where we want to build up the 1% improvement habit, learning in public.
+Dwarves are a group of technology innovation advocates. This project is a part of our continuous learning engine, where we want to build up the 1% improvement habit, learning in public.
 
-Written by Dwarves for product craftsmen.
+We believe that behind every success comes great preparation, accumulation and compound every single day. This brain repo contains our notes and studies for any upcoming challenges.
 
+Written by Dwarves for product craftsmen.\
 Learned by engineers. Experimented by engineers.
+
+### Workflow
+
+Applying the Zettelkasten method to construct our reference neuron network, we collect learning pieces from articles, books, papers, videos and then put them here to evaluate before boarding them on our technology adoption radar. We also adopted the LYT method with an initial setup and notes from Moby Diction Publish. It sets a great standard and we find it very helpful.
+
+```mermaid
+graph TB
+ A[Stuff] --> Z[Insight?]
+ A[Stuff] --> B[Question?]
+ A[Stuff] --> C[Thought?]
+ Z[Insight?] --> D[Memo]
+ B[Question?] --> D[Memo]
+ C[Thought?] --> D[Memo]
+ D[Memo] --> E[Permanent note]
+ E[Permanent note] --> F[Map of Content]
+```
 
 ## ✨ Latest memos
 
@@ -190,22 +207,13 @@ SELECT
 FROM sorted_vault;
 ```
 
----
+### Contributing
 
-<div class="love-what-we-are-doing">
-  <h6>Love what we are doing?</h6>
-  <ul>
-    <li>
-      <a href="https://discord.gg/dfoundation">🩷 Join our Discord Network →</a>
-    </li>
-    <li>
-      <a href="https://github.com/dwarvesf/playground">🔥 Contribute to our Memo → </a>
-    </li>
-    <li>
-      <a href="https://careers.d.foundation/">🤝 Join us, we are hiring →</a>
-    </li>
-    <li>
-      <a href="http://memo.d.foundation/earn/"> 🙋 Give us a helping hand →</a>
-    </li>
-  </ul>
-</div>
+At Dwarves, we encourage our people to read, write, share what we learn with others, and [contributing to the Brainery](CONTRIBUTING.md) is an important part of our learning culture. For visitors, you are welcome to read them, contribute to them, and suggest additions. We maintain a monthly pool of $1500 to reward contributors who support our journey of lifelong growth in knowledge and network.
+
+### Love what we are doing?
+
+- Check out our [products](https://superbits.co)
+- Hire us to [build your software](https://d.foundation)
+- Join us, [we are also hiring](https://careers.d.foundation)
+- Visit our [Discord learning network](https://discord.gg/dfoundation)
