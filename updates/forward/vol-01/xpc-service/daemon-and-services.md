@@ -9,7 +9,7 @@ Provide server functionality, such serving web pages.
 Coordinate access to of a shared resource, such as a database.
 Perform work for a foreground application, such as file system access.
 
-![launchd](img/launchd.png)
+![launchd](assets/launchd.png)
 
 Terminology Note: The terms `service` and `daemon` have several meanings in different contexts, with further variation over time and from one development community to another.
 
@@ -26,7 +26,7 @@ Whether it does something for the currently logged in user or for all users.
 Whether it will be used by single application or by multiple applications.
 Whether it ever needs to display a user interface or launch a GUI application.
 
-![background process](img/backgroundprocess.png)
+![background process](assets/backgroundprocess.png)
 
 /Login items are started by the per-user instance of launchd, but it does not take any actions to manage them./
 
@@ -74,4 +74,4 @@ If you want to see the daemons currently running on your system, use the Activit
 
 *Note:* If you want to know more about the services provided by a particular daemon, consult the man page for that daemon. You can also view the manual pages online by reading OS X Man Pages.
 
-![activity monitor](img/actimonitor.png)
+![activity monitor](assets/actimonitor.png)

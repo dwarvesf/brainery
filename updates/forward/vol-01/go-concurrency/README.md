@@ -21,7 +21,7 @@ Concurrency means “out of order” execution. Another concept talk about concu
 
 <div style="text-align:center">
 
-![](img/concurrency-vs-parallelism.png "Concurrency vs Parallelism")
+![](assets/concurrency-vs-parallelism.png)
 
 _Concurrency vs Parallelism_[[1](#1-david-very-nice-guide-to-threads-and-processes-posted-on-august-1-2020-at-httpslearncgamescomvery-nice-guide-to-threads-and-processes-accessed-on-august-17-2020)]
 
@@ -35,7 +35,7 @@ Goroutines can be understood like a light weight thread. Instead of OS, Goroutin
 
 <div style="text-align:center">
 
-![](img/go-channel.png "Goroutines and Channel")
+![](assets/go-channel.png)
 
 _Goroutines and Channel_
 
@@ -69,7 +69,7 @@ Capacity should be greater than 0 for a channel to have a buffer and we can send
 
 <div style="text-align:center">
 
-![](img/meme-channel.png "Buffered vs Unbuffered Channel")
+![](assets/meme-channel.png "Buffered vs Unbuffered Channel")
 
 _Buffered vs Unbuffered Channel_
 
@@ -84,7 +84,7 @@ To have a comprehensive view, we have a few descriptions about the fields encoun
 
 <div style="text-align:center">
 
-![](img/hchan.png "Implementation of struct hchan")
+![](assets/hchan.png "Implementation of struct hchan")
 
 _Implementation of struct hchan_
 
@@ -95,7 +95,7 @@ _Implementation of struct hchan_
 
 <div style="text-align:center">
 
-![](img/go-buf.png "dataqsize vs buf in hchan")
+![](assets/go-buf.png "dataqsize vs buf in hchan")
 
 _dataqsize vs buf in hchan_[[2](#2-3-gaurav-agarwal-an-investigative-walk-through-of-gos-channels-posted-on-january-26-2019-at-httpsblogalgogritcomposts2019-01-23-summarizing-go-channels-accessed-on-august-17-2020)]
 
@@ -108,7 +108,7 @@ _dataqsize vs buf in hchan_[[2](#2-3-gaurav-agarwal-an-investigative-walk-throug
 
 <div style="text-align:center">
 
-![](img/buffered-chan.png "Declare Buffered channel under the hood")
+![](assets/buffered-chan.png "Declare Buffered channel under the hood")
 
 _Declare Buffered channel under the hood_[[3](#2-3-gaurav-agarwal-an-investigative-walk-through-of-gos-channels-posted-on-january-26-2019-at-httpsblogalgogritcomposts2019-01-23-summarizing-go-channels-accessed-on-august-17-2020)]
 
@@ -124,7 +124,7 @@ We mentioned about sudog struct above. What is sudog? See the following image:
 
 <div style="text-align:center">
 
-![](img/sudog.png "Struct sudog in source code of Golang")
+![](assets/sudog.png "Struct sudog in source code of Golang")
 
 _Struct sudog in source code of Golang_
 
@@ -136,7 +136,7 @@ An example to know what happen when we declare Goroutines and channel.
 
 <div style="text-align:center">
 
-![](img/hood-exp-01.png "What happen when we declare Goroutines and channel")
+![](assets/hood-exp-01.png "What happen when we declare Goroutines and channel")
 
 _What happen when we declare Goroutines and channel_[[4](#4-5-6-ankur-anand-diving-deep-into-the-golang-channels-posted-on-september-29-2018-at-httpscodeburstiodiving-deep-into-the-golang-channels-549fd4ed21a8-accessed-on-august-17-2020)]
 
@@ -146,7 +146,7 @@ What will be the structure of the channel before line **No.22**?
 
 <div style="text-align:center">
 
-![](img/hood-exp-01.png "What  will be the structure when we declare Goroutines and channel")
+![](assets/hood-exp-01.png "What  will be the structure when we declare Goroutines and channel")
 
 _What will be the structure when we declare Goroutines and channel_[[5](#4-5-6-ankur-anand-diving-deep-into-the-golang-channels-posted-on-september-29-2018-at-httpscodeburstiodiving-deep-into-the-golang-channels-549fd4ed21a8-accessed-on-august-17-2020)]
 
@@ -158,7 +158,7 @@ Since before line 22 on a channel, there is no data we have put on the channel s
 
 <div style="text-align:center">
 
-![](img/hood-exp-01.png "recvq and sendq in Golang's implementation")
+![](assets/hood-exp-01.png "recvq and sendq in Golang's implementation")
 
 _recvq and sendq in Golang's implementation_[[6](#4-5-6-ankur-anand-diving-deep-into-the-golang-channels-posted-on-september-29-2018-at-httpscodeburstiodiving-deep-into-the-golang-channels-549fd4ed21a8-accessed-on-august-17-2020)]
 
@@ -180,7 +180,7 @@ Existing a piece called Program Counter in a Thread that allows the thread keep 
 
 <div style="text-align:center">
 
-![](img/ip.png "The Instruction Pointer")
+![](assets/ip.png "The Instruction Pointer")
 
 _The Instruction Pointer_
 
@@ -204,7 +204,7 @@ When our program start up, it’s given a Logical Processor (P) for every virtua
 
 <div style="text-align:center">
 
-![](img/hardware.png "Example system report")
+![](assets/hardware.png "Example system report")
 
 _Example system report_
 
@@ -222,7 +222,7 @@ Following figure provides an image of all these components together.
 
 <div style="text-align:center">
 
-![](img/go-scheduler.png "Go scheduler under the hood")
+![](assets/go-scheduler.png "Go scheduler under the hood")
 
 _Go scheduler under the hood_[[7](#7-william-kennedy-scheduling-in-go--part-ii---go-scheduler-posted-on-september-27-2018-at-httpswwwardanlabscomblog201808scheduling-in-go-part2html-accessed-on-august-17-2020)]
 

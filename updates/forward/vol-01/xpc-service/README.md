@@ -41,7 +41,7 @@ To create an XPC service in Xcode, do the following:
 ```C
 int main(int argc, const char *argv[]) {
     xpc_main(my_event_handler);
- 
+
     // The xpc_main() function never returns.
     exit(EXIT_FAILURE);
 }
@@ -54,10 +54,10 @@ int main(int argc, const char *argv[]) {
     MyDelegateClass *myDelegate = ...
     NSXPCListener *listener =
         [NSXPCListener serviceListener];
- 
+
     listener.delegate = myDelegate;
     [listener resume];
- 
+
     // The resume method never returns.
     exit(EXIT_FAILURE);
 }
@@ -80,7 +80,7 @@ To use the NSXPCConnection API, you must create the following:
 - A listener. This code in the XPC service accepts connections. This is described in Accepting a Connection in the Helper.
 Messages.
 
-![XPC Architecture](img/xpcarchitect.png)
+![XPC Architecture](assets/xpcarchitect.png)
 
 ### Overall Architecture
 
@@ -149,7 +149,7 @@ myConnection.remoteObjectInterface = myCookieInterface;
 
 *Note: For communicating with XPC services outside your app bundle, you can also configure an XPC connection with the initWithMachServiceName: method.*
 
-![XPC Connection Process](img/xpcconnectionprocess.png)
+![XPC Connection Process](assets/xpcconnectionprocess.png)
 
 At this point, the main application can call the remoteObjectProxy or remoteObjectProxyWithErrorHandler: methods on the myConnection object to obtain a proxy object. This object acts as a proxy for the object that the XPC service has set as its exported object (by setting the exportedObject property). This object must conform to the protocol defined by the remoteObjectInterface property.
 
@@ -179,7 +179,7 @@ Sending messages with NSXPC is as simple as making a method call. For example, g
 
 ```C
 Cookie *myCookie = ...
- 
+
 [[myConnection remoteObjectProxy] feedMeACookie: myCookie];
 ```
 

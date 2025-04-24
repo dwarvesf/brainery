@@ -1,7 +1,7 @@
 # Domain Insight Research Framework
 As a designer working in the Digital Product industry, I'm pretty sure we all hear about UX Research once at least. In this field, we learn about the business's strategy, users' behaviors, needs, pain points, etc. to build a product that meets the business's goal and solves users' existing problems. There are multiple ways to do UX research; our team also has one. However, there is a higher level, which helps UX Researchers process their works much faster, empathize with target users much easier, and save more effort and time; it is called Domain Insight Research.
 
-![fw1](img/fw1.png)
+![fw1](assets/fw1.png)
 
 # What is Domain Insight Research (DIR)?
 This Domain Insight Research Framework is a method for new approaches to understanding and getting insight into a new industry. This conceptual framework was designed to collect various types of information, including:
@@ -64,7 +64,7 @@ It is essential to choose the right methods, apply them flexibly to each industr
 
 There are different ways to conduct market research and collect data. Still, we don’t limit ourselves to just one research method. This is one of our simple methods we applied to our previous projects:
 
-![fw2](img/fw2.png)
+![fw2](assets/fw2.png)
 
 **Primary research**
 

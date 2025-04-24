@@ -6,12 +6,12 @@
 | **Type**      | Technique                                            |
 
 ## Objective
-An introduction about Progressive Web App (PWA). The main goal is giving some understandings about PWA and how to deliver a web experience your users will love. 
+An introduction about Progressive Web App (PWA). The main goal is giving some understandings about PWA and how to deliver a web experience your users will love.
 
 ## Motivation
 Native applications, are known for being incredibly rich and reliable. They're ever-present, on home screens, docks, and taskbars. They work regardless of network connection. They launch in their own standalone experience. They can read and write files from the local file system, access hardware connected via USB, serial or bluetooth, and even interact with data stored on your device, like contacts and calendar events. In native applications, you can do things like take pictures, see playing songs listed on the home screen, or control song playback while in another app. Native applications feel like part of the device they run on.
 
-![inline](docs/media/capabilities-reach.png)
+![inline](assets/capabilities-reach.png)
 
 If you think about native apps and web apps in terms of capabilities and reach, native apps represent the best of capabilities whereas web apps represent the best of reach. So where do Progressive Web Apps fit in?
 

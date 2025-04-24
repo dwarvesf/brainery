@@ -60,27 +60,27 @@ Symmetric encryption is more convenient, but the key must be known to both sides
 
 Every time a visitor comes to the site, the browser generates a unique symmetric key, encrypts it with a public key, and sends it to the server. The server compares the private key with the public one and decrypts the message. The entire process takes a few seconds.
 
-![flow](img/flow.png)
+![flow](assets/flow.png)
 
 ## Structure of the SSL protocol
 SSL protocol consists of two layers and several protocols. The lower layer located next to the transport lavel in the OSI/ISO reference model consists of SSL Record protocol. The higher layer located immediately above the Record protocol consists of the SSL Handshaking protocols: Handshake protocol, ChangeCipherSpec protocol and Alert protocol.
 
-![struct](img/struct.png)
+![struct](assets/struct.png)
 
-#### Record protocol 
+#### Record protocol
 The Record protocol is responsible for the transfer of blocks of data between the two sides in communication. It takes messages from application level of the OSI/ISO reference models, divides them into manageable blocks, optionally compresses, applies MAC, encrypts and transmits results. It uses security parameters negotiated during handshake phase.
 
-#### Handshake protocol 
+#### Handshake protocol
 The Handshake protocol is the core protocol of SSL/TLS responsible for authentication of each party of the communication and negotiation of security parameters to be used for exchange of encrypted data.
 
-#### ChangeCipherSpec protocol 
+#### ChangeCipherSpec protocol
 The ChangeCipherSpec protocol is used to notify both parties in the communication to upgrade the status of the session to negotiated parameters and move on to secure communication.
 
-#### Alert protocol 
-The Alert protocol is used for the notification of errors that occur in communication between the two sides, i.e.: when the connection is closed, when the message can not be decrypted, etc.. During the handshake phase all cryptographic primitives responsible for connection protection are established. Communication between client and server during handshake phase is done with the messages with predefined forms. One example of exchanged messages between client and server 
+#### Alert protocol
+The Alert protocol is used for the notification of errors that occur in communication between the two sides, i.e.: when the connection is closed, when the message can not be decrypted, etc.. During the handshake phase all cryptographic primitives responsible for connection protection are established. Communication between client and server during handshake phase is done with the messages with predefined forms. One example of exchanged messages between client and server
 during the handshake phase:
 
-![msg](img/msg.png)
+![msg](assets/msg.png)
 
 The list of exchanged messages:
 
@@ -157,13 +157,13 @@ The process of getting DV SSL certificates (no matter, free or paid ones) consis
 ## Chain of trust
 When a client's browser checks for a certificate on a site, it analyzes a few files called a chain of trust. The term refers to a sequence of several documents which certify each other: End-user Cert -> Intermediate Cert -> Root Cert.
 
-![chain of trust](img/cot.png)
+![chain of trust](assets/cot.png)
 
 * Root Cert is a certificate issued by a trusted CA. Root certificates are pre-installed in all web browsers and operating systems and considered to be unconditionally trusted, their reliability is beyond doubt.
 * Intermediate Cert is, as the name implies, an intermediate certificate signed by Root CA.
 * End-user Cert is, as you might have already guessed, an end-user certificate signed by a CA. This is the very SSL certificate to which our article is devoted.
 
-![demo](img/demo.png)
+![demo](assets/demo.png)
 
 There are also services to check the SSL certificates:
 * SSLShopper offers a quick and simple way to check a chain of trust as well as the correctness of your certificate customization;
@@ -207,13 +207,13 @@ An SSL/TLS session that uses an expired certificate should not be trusted. Accep
 
 ## Vulnerabilities
 
-### CipherSuite rollback attack 
+### CipherSuite rollback attack
 Cipher suite is a list of cryptographic algorithms that are proposed during the handshake phase between the client and server. List of proposed algorithms is traveling in clean text format as part of the initial ClientHello messages. It allows MITM attacker to intercept the message and replacing client’s cipher suite with his cipher suite that supports weaker versions of algorithms or NULL-Cipher list, so communication continues to take place with weaker algorithms or algorithms for protection are not used at all. The consequences of such an attack could be disastrous for the client: the attacker could imitate a valid user, could access the server, obtain user credentials and the like.
 
 In version SSL3.0 this failure is resolved with the authentication of all handshake messages in the final Finished message, which contains MAC on handshake protocol messages, so the attack on cipher suite might be noticed at the end of the handshake phase and reject such a session.
 
-### Drop ChangeCipherSpec attack 
-Drop ChangeCipherSpec attack is weakness of SSL2.0. The ChangeCipherSpec message is used to notify both parties in the communication to upgrade the status of the session to negotiated parameters in the handshake phase. When the initial handshake phase is completed, the client and server exchange ChangeCipherSpec message to signal the other side that in the future all communication will be done only with the agreed parameters. However, before one side send the ChangeCipherSpec message MITM attacker can send Finished message to other side, which furthermore would cause the start of communication without any changes and adoptions of agreed security parameters, or it could simply delete ChangeCipherSpec message, so the client and the server would never establish a communication. 
+### Drop ChangeCipherSpec attack
+Drop ChangeCipherSpec attack is weakness of SSL2.0. The ChangeCipherSpec message is used to notify both parties in the communication to upgrade the status of the session to negotiated parameters in the handshake phase. When the initial handshake phase is completed, the client and server exchange ChangeCipherSpec message to signal the other side that in the future all communication will be done only with the agreed parameters. However, before one side send the ChangeCipherSpec message MITM attacker can send Finished message to other side, which furthermore would cause the start of communication without any changes and adoptions of agreed security parameters, or it could simply delete ChangeCipherSpec message, so the client and the server would never establish a communication.
 
 The solution for this problem is to force both parties to ensure that a ChangeCipherSpec message is received before accepting the Finished message.
 
@@ -223,23 +223,23 @@ Version rollback attack is a vulnerability of SSL 3.0. It is a type of attack wh
 SSL 3.0 and later TLS versions offer protection for version rollback attacks with the Finished message.
 
 ### Key Exchange Algorithm confusion or Cross-protocol attack
-Key Exchange Algorithm confusion or Cross-protocol attack is vulnerability of SSL3.0. Server can send to the client the temporary key parameters signed under its long-term certified signing key in ServerKeyExchange messages. The problem is that the signature of the temporary key parameters does not include part of the field where it is specified which type of key is used, and thus created a basis for a confusion type of attack. The attacker forced the server to use the Diffie-Hellman key exchange and client to use RSA key 
-xchange. This leads to confusion where the client may interpret the Diffie-Hellman parameters (p, g) as an exponent and module of RSA key. In the following example we can see how the attack works. 
+Key Exchange Algorithm confusion or Cross-protocol attack is vulnerability of SSL3.0. Server can send to the client the temporary key parameters signed under its long-term certified signing key in ServerKeyExchange messages. The problem is that the signature of the temporary key parameters does not include part of the field where it is specified which type of key is used, and thus created a basis for a confusion type of attack. The attacker forced the server to use the Diffie-Hellman key exchange and client to use RSA key
+xchange. This leads to confusion where the client may interpret the Diffie-Hellman parameters (p, g) as an exponent and module of RSA key. In the following example we can see how the attack works.
 ```
 [ClientHello]
-    Client ->Attacker: SSL_RSA… 
-    Attacker->Server: SSL_DHE_RSA… 
-[ServerHello] 
-    Server->Attacker: SSL_DHE_RSA… 
-    Attacker->Client: SSL_RSA… 
-[ServerKeyExchange] 
+    Client ->Attacker: SSL_RSA…
+    Attacker->Server: SSL_DHE_RSA…
+[ServerHello]
+    Server->Attacker: SSL_DHE_RSA…
+    Attacker->Client: SSL_RSA…
+[ServerKeyExchange]
     Server->Attacker: {p,g,y}Ks
     Attacker->Client: {p,g,y}Ks
 [ClientKeyExchange]
-    Client->Attacker: k^g mod p 
+    Client->Attacker: k^g mod p
     Attacker->Server: g^x mod p
  ```
- k^g mod p, k is premaster secret. For successful attack the client intercept premaster key which will be encrypted with RSA key, or Diffie Hellman parameters (g, p) which attacker already knows. Furthermore, the attacker sends to server g^x mod p whereby the server interprets premaster key as g^xy mod p. Attacker in future can intercept, read and change all the exchanged messages between the client and the server, act as a server to the client and as a client to the server. 
+ k^g mod p, k is premaster secret. For successful attack the client intercept premaster key which will be encrypted with RSA key, or Diffie Hellman parameters (g, p) which attacker already knows. Furthermore, the attacker sends to server g^x mod p whereby the server interprets premaster key as g^xy mod p. Attacker in future can intercept, read and change all the exchanged messages between the client and the server, act as a server to the client and as a client to the server.
 
 Proposed solution for cross protocol attack was a new protocol extension indicating the new format of ServerKeyExchange message which includes explicit indicators of the entity (server), the type of key exchange algorithm, the handshake messages exchanged and the parameters of the key exchange.
 
@@ -262,6 +262,6 @@ It is advised to remove compression support on dynamic content and use rate-limi
 SSL is vital to Web security. It provides a strong sense of confidentiality, message integrity, and server authentication to users. The online businesses is tied closely to consumer confidence in the operation of SSL across the net. This way, businesses will be able to continue to grow in popularity as users grow more confidant in shopping and banking online, and embracing new online applications. However, SSL is not the silver bullet to counter cybercrimes. Other security measures and validation must be considered, even when SSL is implemented.
 
 ## References
-https://www.ssl.com/faqs/faq-what-is-ssl/  
-https://www.venafi.com/education-center/ssl/common-ssl-attacks  
-Ćurguz, Jelena. (2016). Vulnerabilities of the SSL/TLS Protocol. Computer Science & Information Technology. 6. 245-256. 10.5121/csit.2016.60620. 
+https://www.ssl.com/faqs/faq-what-is-ssl/
+https://www.venafi.com/education-center/ssl/common-ssl-attacks
+Ćurguz, Jelena. (2016). Vulnerabilities of the SSL/TLS Protocol. Computer Science & Information Technology. 6. 245-256. 10.5121/csit.2016.60620.

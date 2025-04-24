@@ -8,30 +8,30 @@ If you haven’t heard of WebAssembly yet, then you will soon. It’s one of the
 
 ### Table of Contents
 1. Formal definition
-2. Why WebAssembly?  
-  2.1 Recall of Assembly   
-  2.2 What WebAssembly actually is  
-  2.3 What about Javascript?   
-  2.4 Historical reason of poor performance in Javascript   
-  2.5 How does Javascript work?  
-  2.6 How JavaScript is optimized?  
-  2.7 The invention of asm.js  
-  2.8 How asm.js code runs faster?  
-  2.9 The inception of WebAssembly  
+2. Why WebAssembly?
+  2.1 Recall of Assembly
+  2.2 What WebAssembly actually is
+  2.3 What about Javascript?
+  2.4 Historical reason of poor performance in Javascript
+  2.5 How does Javascript work?
+  2.6 How JavaScript is optimized?
+  2.7 The invention of asm.js
+  2.8 How asm.js code runs faster?
+  2.9 The inception of WebAssembly
 3. Key concepts
-4. How WebAssembly works?  
-  4.1 Common misconceptions about WebAssembly  
+4. How WebAssembly works?
+  4.1 Common misconceptions about WebAssembly
   4.2 How to run WebAssembly code?
-5. Compile to WebAssembly  
-  5.1 What is LLVM?  
-  5.2 Official WebAssembly Toolchain  
+5. Compile to WebAssembly
+  5.1 What is LLVM?
+  5.2 Official WebAssembly Toolchain
   5.3 Compile WebAssembly Natively
 6.  Benefits and Limitations
 
 ## 1. Format Definition
 WebAssembly (abbreviated Wasm) is a **binary instruction format** for a stack-based virtual machine. Wasm is designed as a portable target for compilation of high-level languages like C/C++/Rust, enabling deployment on the web for client and server applications.
 
-## 2. Why WebAssembly? 
+## 2. Why WebAssembly?
 ### Recall of Assembly
 In the old days, when you had to work on a computer to do something like for example, add two numbers and print the result, you had to write instructions in the binary language. These instructions were specific to an architecture of a processor like the 8086 microprocessor or x86 processor. These binary instructions are collectively called the machine code. However, writing machine code with bare hands was a tedious and error-prone task. Also, reading a machine code was at times impossible.
 
@@ -75,7 +75,7 @@ Knowing that Java was a rich, complex, compiled language aimed at professional p
 
 JavaScript was not designed by considering the performance in mind. It had to just work inside a browser and provide API to work with DOM. But since many browsers tried to adopt it in their own way, it had to be standardized.
 
-**Ecma International is the standards organization that standardizes JavaScript and the Technical Committee 39 (TC39) manages this standard**. This standard is known as EcmaScript and the EcmaScript phrase is also used interchangeably with JavaScript since JavaScript trademark is owned by Oracle Corporation. 
+**Ecma International is the standards organization that standardizes JavaScript and the Technical Committee 39 (TC39) manages this standard**. This standard is known as EcmaScript and the EcmaScript phrase is also used interchangeably with JavaScript since JavaScript trademark is owned by Oracle Corporation.
 
 ### How does Javascript work?
 
@@ -83,7 +83,7 @@ JavaScript was not designed by considering the performance in mind. It had to ju
 
 Every browser provides a JavaScript engine that runs the JavaScript code. The Netscape browser used the SpiderMonkey JavaScript engine. This engine was a rudimentary interpreter with no optimizations. Running the JavaScript code with this engine was slow but it worked.
 
-![Netscape/SpiderMonkey JavaScript engine](./assets/images/netscape-js-engine.png "Netscape/SpiderMonkey JavaScript engine")
+![Netscape/SpiderMonkey JavaScript engine](assets/netscape-js-engine.png "Netscape/SpiderMonkey JavaScript engine")
 
 As you can see from the diagram above, the job of the first JavaScript engine was to take the JavaScript source code and compile it to the binary instructions (machine code) that a CPU can understand.
 
@@ -97,7 +97,7 @@ A baseline compiler’s job is to compile code as fast as possible and generate 
 
 When it comes to a **highly dynamic and interactive web application**, the user experience is very poor with this model of JavaScript execution. This problem was faced by **Google’s Chrome browser while displaying Google Maps on the web**. To increase the JavaScript performance on the web, they had to come up with a better approach. Google Chrome from the early days uses the **V8 JavaScript engine**. In the beginning, to improve the JavaScript performance, they added two pieces in their JavaScript engine pipeline as shown below.
 
-![V8 Javascript engine 2010](./assets/images/v8-js-engine-2010.png "V8 Javascript engine 2010")
+![V8 Javascript engine 2010](assets/v8-js-engine-2010.png "V8 Javascript engine 2010")
 
 In the 2010 version of the V8 JavaScript engine, there were two main pieces of machinery that did the heavy lifting for the engine. The full-codegen was the **baseline compiler** whose job was to **spit out unoptimized machine code as fast as possible for faster application bootstrap.**
 As the application was running, the **crankshaft compiler** would **kick in and optimize the source code and replace the parts of the machine code generated by the baseline compiler**. This optimization would result in better application performance as better and better machine code is generated.
@@ -118,7 +118,7 @@ Sometimes, JavaScript code contains unnecessary complex logic that can be simpli
 
 Meanwhile, what JavaScript engine can also do is **gather profiling data of the code execution and look for the code that runs slower.** This code is called **the “Hot” code** perhaps because it burns the CPU. This code can be further optimized and replaced with an optimized machine code. Considering these things in mind and other problems caused by full-codegen and crankshaft, the V8 team created a new version of the V8 engine from the ground up. This new version of the JavaScript engine was released in 2017.
 
-![V8 Ignition engine 2017](./assets/images/v8-ignition-2017.png "V8 Ignition engine 2017")
+![V8 Ignition engine 2017](assets/v8-ignition-2017.png "V8 Ignition engine 2017")
 
 As you can see from the above figure, the V8 team introduced a new interpreter pipeline Ignition whose job was to generate the bytecode from the JavaScript source code using a baseline compiler and later interpret that bytecode using an interpreter.
 
@@ -245,7 +245,7 @@ A `stack machine`, unlike a `register machine`, works with a `stack`. A stack is
 
 You can compare the stack with a stack of plates. You can put a plate on the top and only take out (pull) it from the top. Hence `stack is last-in, first-out (LIFO)` data structure. You can visualize it from the diagram below.
 
-![How Stack works](./assets/images/how-stack-works.png "How Stack works")
+![How Stack works](assets/how-stack-works.png "How Stack works")
 
 A `stack machine` is a **virtual machine (like a processor)** that `takes one instruction at a time and pushes it on the stack`. When an operation is needed to be performed, it will pop values from the stack and compute the result.
 Let’s take a simple example of addition. When we want to compute the `sum` of two integers `A` and `B`, we need to write the below instructions.
@@ -256,7 +256,7 @@ push B
 add
 ```
 
-![Stack Machine](./assets/images/stack-machine.png "Stack Machine")
+![Stack Machine](assets/stack-machine.png "Stack Machine")
 
 These first two instructions will instruct a stack machine to `push A and B` values on the stack and the last add instruction will `pop two values` from the stack and `perform addition`. Once the addition is performed, the stack machine will `push the result C` back in the stack.
 
@@ -308,7 +308,7 @@ Every browser has a `JavaScript engine` which runs JavaScript. It has multiple p
 
 How it can run WebAssembly binary instructions? For that, browsers have introduced a **new baseline compiler to compile `WebAssembly` to a `bytecode`** that `JavaScript interpreter` can understand. Let’s look at what `V8` does.
 
-![V8 Ignition engine 2018](./assets/images/v8-ignition-2018.png "V8 Ignition engine 2018")
+![V8 Ignition engine 2018](assets/v8-ignition-2018.png "V8 Ignition engine 2018")
 
 In 2018, `V8` integrated `Liftoff`, their `WebAssembly baseline compiler` whose job is to **compile `WebAssembly` into an `unoptimized bytecode` as quick as possible**. This `bytecode` is different from the `bytecode` generated by the `baseline compiler` in the `Ignition` and it is meant to be read by `TurboFan`.
 
@@ -368,7 +368,7 @@ So the question remains, how we can compile a program written in `C` or `C++` an
 
 The `LLVM` (abbreviation for `Low-Level Virtual Machine`) is a **set of compilers and a toolchain** used to **convert a program written in any programming language** to a variety of **build targets**.
 
-![LLVM](./assets/images/llvm.png "LLVM")
+![LLVM](assets/llvm.png "LLVM")
 
 The main vision of `LLVM` is to **compile programs written in any language into literally anything**. For that, LLVM has a modular structure of frontends and backends as explained in the above diagram.
 
@@ -392,7 +392,7 @@ However, this **intermediate conversion** from `asm.js` to WebAssembly comes wit
 
 Downloading and installing `Emscripten` can be a little tricky. You can follow [this official documentation](https://emscripten.org/docs/getting_started/downloads.html) to install Emscripten on your system. Make sure to follow all the instructions. Once you installed it, your installation directory should look like this
 
-![Emscripten Installed](./assets/images/emscripten-installed.png "Emsdk: Emscripten installed")
+![Emscripten Installed](assets/emscripten-installed.png "Emsdk: Emscripten installed")
 
 Once the installation is complete, it will print the logs with instructions to add some environment variables and `PATH` directories in your `Bash profile`. However, you can append the below code in your `~/.bash_profile` file.
 
@@ -405,7 +405,7 @@ EMSDK_NODE_BIN="$HOME/emsdk/node/12.9.1_64bit/bin"
 export PATH=$PATH:$WASM_UTILS_BIN:$EMSCRIPTEN_BIN:$EMSDK_NODE_BIN
 ```
 
-![Emscripten tools](./assets/images/emscripten-installed-bin.png "Emscripten tools")
+![Emscripten tools](assets/emscripten-installed-bin.png "Emscripten tools")
 
 As you can see from the above screenshot, `Emscripten` has installed all the necessary tools like `LLVM`, `Clang`, `asm2wasm`, etc. to compile `C` or `C++` code into `WebAssembly`.
 

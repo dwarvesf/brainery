@@ -15,7 +15,7 @@ In this article, we would like to share about the testing of the MVP version of 
 ## Personas
 
 
-![](img/persona.png)
+![](assets/persona.png)
 
 ## The Problem
 
@@ -27,21 +27,21 @@ In this article, we would like to share about the testing of the MVP version of 
 
 * Provide a search engine, which provides detailed information about most B2B companies in Vietnam. This product also recommends suitable suppliers, based on specific requirements of each product.
 
-  
 
-  ![](img/solution-1.png)
+
+  ![](assets/solution-1.png)
 
 * Potential suppliers list to manage suitable suppliers and send inquiries to each or all of them at the same time.
 
-  
 
-  ![](img/solution-2.png)
+
+  ![](assets/solution-2.png)
 
 * Management dashboard to track the performance of each employee and the project’s progress. In addition, managers can report expenses to the financial department.
 
-  
 
-  ![](img/solution-3.png)
+
+  ![](assets/solution-3.png)
 
 # Method
 
@@ -116,13 +116,13 @@ Create a project ⇒ Add new item (product) ⇒ Source suppliers for this item �
 
 **Task successful rates:**
 
-![](img/task-rate-1.png)
+![](assets/task-rate-1.png)
 
 Note: S = success, F = failure, P = partial success
 
 **Time-to-task measure:**
 
-![](img/task-time.png)
+![](assets/task-time.png)
 
 ## Analysis and user feedbacks
 

@@ -45,9 +45,9 @@ Essentially block hash like a block’s fingerprint, it is commonly a unique str
 
 Take a look at this example, noted that (1) and (2) is the same thing:
 
-![Blockchain structure](./img/blockchain/blockchain-des-1.png)
+![Blockchain structure](assets/blockchain-des-1.png)
 
-![Blockchain broken](./img/blockchain/blockchain-des-2.png)
+![Blockchain broken](assets/blockchain-des-2.png)
 
 We can see above **Block2** contains the hash string of **Block1**, and uses it as a signature to know where is this block located. If **Block1**'s hash is changed, the link will be broken. To make the chain sense again, re-generate hash of Block2 and every block after that is needed. It is usually a hard job.
 
@@ -117,17 +117,17 @@ Non-repudiation is the assurance that nobody can reject the validity of somethin
 
 From the above properties, there are three popular types of cryptography:
 
-![Symmetric-key Cryptography](./img/blockchain/cryptography.png)
+![Symmetric-key Cryptography](assets/cryptography.png)
 
 - Symmetric-key Cryptography
     > Sender and receiver use the same key to encrypt and decrypt infomations.
 
-    ![Symmetric-key Cryptography](./img/blockchain/symmetric-key.png)
+    ![Symmetric-key Cryptography](assets/symmetric-key.png)
 
 - Public-Key Cryptography
     > There are two key in this algorithm: public key is freely distributed and use for encrypting infomation, in the other hand, private key is secret and using for decrypting cipher to readable infomation.
 
-    ![Public-Key Cryptography](./img/blockchain/public-key.png)
+    ![Public-Key Cryptography](assets/public-key.png)
 
 - Hash Functions
     > No key is used. Information is transferred through a function that has a few properties such as result is a fixed-length string (hash), the same input makes the same output, different input leads to completely different output and output can not be reversed.
@@ -163,7 +163,7 @@ In the Bitcoin, a few transactions occurred on the network is packed in a block.
 
 Specific example with Bitcoin mechanism
 
-![PoW](./img/blockchain/pow.png)
+![PoW](assets/flow.png)
 
 Let's assume a rule in a mining round like following: Miner needs finding a random nonce so that combines it with block's data and previous block's hash together and pass through hash function SHA-256, required result is a hash string starting with 4 zeros. E.x: `0000ankhsdqk12KLwkqLKWK...`.
 

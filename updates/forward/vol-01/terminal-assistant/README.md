@@ -30,7 +30,7 @@ When involving AI, mostly the idea of using `Python` popped out immediately. `Py
 For the CLI framework, We are using *Cobra* (https://github.com/spf13/cobra). This framework is great for creating CLI applications.
 
 ### Application flow
-![flow](slide/rp_flow.png)
+![flow](slide/assets/flow.png)
 
 The tool takes the users' input and extracted its keywords using the *TextRank* algorithm. Then, the keywords are pushed through a layer of heuristic function to determine where it should get the answer and how to parse the answer. The answer was then summarised using the *TF-IDF* algorithm and formatted and returned to users.
 
@@ -40,7 +40,7 @@ The tool takes the users' input and extracted its keywords using the *TextRank* 
 
 For example, the sentence `The quick brown fox jumps over the lazy dog`, after removing stop words (resulting in `quick brown fox jumps over lazy dog`) can be mapped into the graph below, using a window-based mapping approach, as presented in the original paper. Additionally, the word embedding approach can be used to map the text into a different graph, but this approach is resource-heavy, so we are going to stick with the original window-based approach.
 
-![graph](slide/grap7.png)
+![graph](slide/assets/grap7.png)
 
 The window-based mapping algorithm is implemented by shifting a window with a pre-defined size (4 in this example). Each word in this window is then mapped into a fully connected graph. This algorithm has a drawback that the first and last words have the least connection, therefore, lowering their weighted score, but since the developers' questions are usually short (less than 10 words), this problem is not significantly affecting the performance.
 
@@ -75,7 +75,7 @@ If there are more than two keywords, we are searching StackOverflow Question to 
 
 The heuristic function is described below:
 
-![tree](slide/tree.png)
+![tree](slide/assets/tree.png)
 
 ### TF-IDF
 In the case of there are many tags `<code>`, we chose the two most important tags' content, using Term frequency - inverse document frequency (TF-IDF) [[4]](#ref-4) algorithm.
@@ -137,15 +137,15 @@ Then we multiplied TF with IDF:
 ### Rubber duck debugger
 This feature is simple. We just print what the user is typing on the terminal. After each line is printed, we will randomly decide to print some words of encouragement (mostly Mimir line in the game *God of War* &trade; (2018)) or not.
 
-![debug](slide/debug.png)
+![debug](slide/assets/debug.png)
 
 ## Achievement and limitation
 The tool returned good results to the questions within a reasonable time (around 1-2s). However, formatted responses are not too precise. In other words, the responses are to narrow, as the HTML content parsing is still simple. In machine learning terms, the model achieved high recall but not-so-high precision. Making the parser more complex means trade-off with performance. Still, the current response and performance are acceptable.
 
-![debug](slide/eg.png)
+![debug](slide/assets/eg.png)
 
 ## References
-[1] <a id="ref-1"></a> https://stackoverflow.blog/2019/01/18/state-of-the-stack-2019-a-year-in-review/  
-[2] <a id="ref-2"></a> "Textrank: Bringing order into text", R Mihalcea and P Tarau (2004)  
-[3] <a id="ref-3"></a> "The PageRank citation ranking: Bringing order to the web", L Page, S Brin, R Motwani and T Winograd (1999)  
+[1] <a id="ref-1"></a> https://stackoverflow.blog/2019/01/18/state-of-the-stack-2019-a-year-in-review/
+[2] <a id="ref-2"></a> "Textrank: Bringing order into text", R Mihalcea and P Tarau (2004)
+[3] <a id="ref-3"></a> "The PageRank citation ranking: Bringing order to the web", L Page, S Brin, R Motwani and T Winograd (1999)
 [4] <a id="ref-4"></a> "A probabilistic justification for using tf x idf term weighting in information retrieval", D Hiemstra (2000)

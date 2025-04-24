@@ -11,7 +11,7 @@ I'd like to once again mention the things I'll go through:
 - An (ELI5) presentation of how audio is processed and visualized through ThreeJS and WebAudio API
 
 Below is an image of the final scene:
-![final-sample](./img/final-sample.jpg)
+![final-sample](assets/final-sample.jpg)
 
 **_Or you can go and see how it works [here](https://three-audio-visualizer.herokuapp.com/)._** Please make sure you check the **_Play Music_** checkbox in the top right controller.
 
