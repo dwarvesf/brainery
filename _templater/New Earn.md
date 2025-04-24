@@ -1,16 +1,16 @@
 ---
 title: New Brainery
-product: 
+product:
 date: 2025-04-03
-description: 
-authors: 
+description:
+authors:
 tags:
   - earn
-due_date: 
-status: 
-PICs: 
+due_date:
+status:
+PICs:
 
-functional: 
-completion_date: 
+functional:
+completion_date:
 bounty: 150
 ---
