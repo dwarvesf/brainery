@@ -11,7 +11,7 @@ tags:
 
 It's in human nature to instantly lose their mind when things get hard, and somehow they split nasty things that can't be undone. So, to reduce the ratio of unnecessary conflicts, let's make the feedback great again.
 
-![](constructive-feedback_87ebb746e32fe99c9e895e0ef1ca29f8_md5.webp)
+![](assets/constructive-feedback_87ebb746e32fe99c9e895e0ef1ca29f8_md5.webp)
 
 ## Know the Time
 

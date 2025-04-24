@@ -1,5 +1,5 @@
 ---
-title: Growth Is Our Universal Language
+title: Growth is our universal language
 date: 2023-02-16
 description: null
 authors:

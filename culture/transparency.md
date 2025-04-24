@@ -21,7 +21,7 @@ And you have no idea what's happening in other places. Teammate. Departments. Or
 
 It's the process of being upfront about various company operations, on the ups & downs. We choose to be straightforward in every issue, as it's everyone's mission to keep the team moving forward.
 
-![](transparency_e154f274bd4946e9b9e6decb621dfe7d_md5.webp)
+![](assets/transparency_e154f274bd4946e9b9e6decb621dfe7d_md5.webp)
 
 ## Validate the possibility
 

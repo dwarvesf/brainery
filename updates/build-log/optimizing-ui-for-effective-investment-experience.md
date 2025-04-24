@@ -1,16 +1,16 @@
 ---
 title: "Hedge Foundation - Optimizing UI for effective investment experience"
 date: 2025-02-25
-tags:
-  - ux-ui
-  - fintech
-  - blockchain
 description: Designing the UI for a blockchain-based hedge fund platform like Hedge Foundation is not just about creating a visually appealing interface. The real challenge lies in ensuring that complex financial data is presented in an intuitive, understandable way that helps users make quick investment decisions. Optimizing the UI plays a crucial role in allowing investors to access accurate data without feeling overwhelmed by excessive information.
 authors:
   - bringastar
+tags:
+  - fintech
+  - blockchain
+  - ui
 ---
 
-Designing the UI for a blockchain-based hedge fund platform like [**Hedge Foundation**](https://www.hedge.foundation/) is not just about creating a visually appealing interface. The real challenge lies in ensuring that complex financial data is **presented in an intuitive, understandable way that helps users make quick investment decisions**. Optimizing the UI plays a crucial role in allowing investors to access accurate data without feeling overwhelmed by excessive information.
+Designing the UI for a blockchain-based hedge fund platform like [**Hedge Foundation**](https://hedge.foundation) is not just about creating a visually appealing interface. The real challenge lies in ensuring that complex financial data is **presented in an intuitive, understandable way that helps users make quick investment decisions**. Optimizing the UI plays a crucial role in allowing investors to access accurate data without feeling overwhelmed by excessive information.
 
 ## UI design principles for data visualization
 

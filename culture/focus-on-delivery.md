@@ -7,6 +7,7 @@ authors:
 tags:
   - productivity
   - quality
+pinned: true
 ---
 
 Focus on shipping when you are struggling with what to do next to be better as a software engineer. When you ship something new, users will try out your build and give you feedback. It may contain bugs. It may ship with the wrong flow implemented. It may ship with known issues. You may feel bad but and frustrated but those emotions will save you ton of time. The point is: Users will let you know.
@@ -32,4 +33,4 @@ Ship the right thing to your users.
 
 P.s. If anyone blocks you from delivery, they block your way to success.
 
-![](focus-on-software-delivery_b34c705f1ff97b2dceb3556cfeecf6a0_md5.webp)
+![](assets/focus-on-software-delivery_b34c705f1ff97b2dceb3556cfeecf6a0_md5.webp)

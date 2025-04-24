@@ -1,5 +1,5 @@
 ---
-title: $icy in 2024
+title: ICY in 2024
 date: 2023-11-23
 description: Quick recap about $icy progress and what's next in 2024
 authors:

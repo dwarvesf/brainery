@@ -5,14 +5,13 @@ description: "In this second edition, we explore the use of the Sparkle (✨) ic
 authors:
   - Maniub102
 tags:
-  - UX-UI
   - product-design
   - report
 ---
 
 ## AI Icon - Sparkles
 
-Article: https://www.nngroup.com/articles/ai-sparkles-icon-problem/
+Article: <https://www.nngroup.com/articles/ai-sparkles-icon-problem/>
 
 The Spark icon has become increasingly common today, primarily used for AI-related features. However, the icon carries multiple meanings and is interpreted in various ways, making it ambiguous.
 
@@ -66,7 +65,7 @@ Without proper context (such as tooltips or labels), the Sparkles icon can cause
 
 ## New AI User Onboarding
 
-Article: https://www.nngroup.com/articles/new-AI-users-onboarding/?lm=ai-magic-8-ball&pt=article
+Article: <https://www.nngroup.com/articles/new-AI-users-onboarding/?lm=ai-magic-8-ball&pt=article>
 
 ### Simplify Onboarding
 

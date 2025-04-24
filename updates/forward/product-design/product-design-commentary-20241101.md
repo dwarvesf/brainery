@@ -1,6 +1,5 @@
 ---
 tags:
-  - UX-UI
   - product-design
   - report
 title: "Product Design Commentary #5: Figma to SwiftUI (functional code) with Claude AI"
