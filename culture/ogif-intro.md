@@ -30,7 +30,7 @@ Our goal is to grow and make a positive impact in society, while also making a l
 
 ### New topics
 
-We are open to discussing growth opportunities, and welcome any topic related to tech, social development, finance, and career path on Fridays. Let's take this time to ***appreciate our accomplishments*** and look forward to the future.
+We are open to discussing growth opportunities, and welcome any topic related to tech, social development, finance, and career path on Fridays. Let's take this time to **_appreciate our accomplishments_** and look forward to the future.
 
 Not everyone may agree with our ideas, but we hope to provide a welcoming community for those who do.
 

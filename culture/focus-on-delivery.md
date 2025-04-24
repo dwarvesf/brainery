@@ -15,12 +15,12 @@ Stop overthinking. All the myths about software quality and stuff will reveal wh
 
 Quality comes after. They come later after you ship the product to the user's hands. Just ask yourself:
 
-* What are we gonna ship?
-* What is the end product look like?
-* What is the user gonna think about it?
-* What do they expect?
-* Are they gonna use it?
-* Is it helpful?
+- What are we gonna ship?
+- What is the end product look like?
+- What is the user gonna think about it?
+- What do they expect?
+- Are they gonna use it?
+- Is it helpful?
 
 It's all about delivery. Know what to build and focus on shipping!
 

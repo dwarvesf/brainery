@@ -25,8 +25,8 @@ We hire people to tell us how to work better, instead of holding their hand show
 
 ### As long as it follows the 3x2 framework
 
-* People x Customer x Number
-* Now x Then
+- People x Customer x Number
+- Now x Then
 
 ![](making-decision-as-a-team-member_4824b7755ec089244dca64fc4a9d6fa3_md5.webp)
 
