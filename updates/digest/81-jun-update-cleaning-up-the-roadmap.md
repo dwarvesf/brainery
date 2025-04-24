@@ -1,14 +1,15 @@
 ---
 title: "#81 - Jun Update: Cleaning up the Roadmap"
-date: "2021-06-26"
-last_edited: "2025-04-07"
+date: 2021-06-26
+description: null
+last_edited: 2025-04-07
 ---
 
 ### Team Updates
 
 Jun Update: Cleaning up the Roadmap
 
-We’re getting closer to the end of June. The May-Jun roadmap is getting checked up, and the Ops team is preparing for cycle updates on our upcoming All hands meeting, which takes place next Friday, July 02.  Hope to see you there. 🤞
+We’re getting closer to the end of June. The May-Jun roadmap is getting checked up, and the Ops team is preparing for cycle updates on our upcoming All hands meeting, which takes place next Friday, July 02. Hope to see you there. 🤞
 
 Covid is getting serious
 
@@ -28,7 +29,7 @@ Brave bought Tailcat an independent search engine 3 months ago, promising to cre
 - Uses anonymous cookie to save preferences
 - No ads
 - Search results stay adequately, but can still mix on third party to better serve the queries.
-GitHub Issues new features
+  GitHub Issues new features
 
 GitHub is bring a spreadsheet-like canvas into their issues and pull request, making things easier for team collaboration through customized views. The new feature helps break issues into actionable tasks, supports auto-merge on pull request and dependency review. Github Discussion also provides a space to work on daily FAQs through open-ended conversations.
 

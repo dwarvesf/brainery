@@ -1,8 +1,10 @@
 ---
 title: "#18 - Releases of the Week"
-date: "2020-04-04"
-last_edited: "2025-04-07"
+date: 2020-04-04
+description: null
+last_edited: 2025-04-07
 ---
+
 ## Team Jacket Deposit? Done
 
 ---

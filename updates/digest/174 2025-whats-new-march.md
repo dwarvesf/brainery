@@ -1,7 +1,7 @@
 ---
-title: What's New in March 2025
+title: "What's New in March 2025"
 date: 2025-04-02
-description: Last month, the team kicked off structured OGIF demos, launched GitHub Agent and MCP DB to support internal automation, finalized the ICY-BTC swap, and rolled out UI and handbook updates on memo.d.foundation. We also set a more consistent office rhythm with meme culture picking up, while the BD team tuned into regional AI and Web3 events to stay close to what's happening next.
+description: "Last month, the team kicked off structured OGIF demos, launched GitHub Agent and MCP DB to support internal automation, finalized the ICY-BTC swap, and rolled out UI and handbook updates on memo.d.foundation. We also set a more consistent office rhythm with meme culture picking up, while the BD team tuned into regional AI and Web3 events to stay close to what's happening next."
 authors:
   - innno_
 tags:
@@ -9,6 +9,7 @@ tags:
   - updates
   - community
 ---
+
 In March, we rolled out structured OGIF demos, launched key internal AI tools (GitHub Agent & MCP DB), and wrapped up the ICY-BTC swap. We also improved memo.d.foundation's UI, introduced meme culture internally, and our BD team tapped into Asia's Web3 and AI scenes to spot what's ahead. Here's the quick summary:
 
 - [**Pushing AI-first workflows with GitHub Agent & MCP DB:**](#reinforcing-our-ai-first-mindset-with-internal-tooling) Automated PR management and structured data access to streamline internal operations.
@@ -51,7 +52,7 @@ March marked a deliberate shift in how we share and celebrate our work. The team
 - **MCP integration & GitHub reminder bot:** Showcased MCP's integration into internal workflows and revisited the GitHub bot's reminder features, rounding out the month's focus on tooling and automation.
 - **Memo UI improvements:** The team shared updates to [memo.d.foundation](https://memo.d.foundation/), focusing on readability, homepage structure, and contributor visibility.
 - **MCP-db agentic:** @hnh explained how the MCP database supports automated workflows by handling structured queries across PostgreSQL, DuckDB, and GCS.
-- **Pocket turning & Recapable:** @vincent demoed early gameplay builds and  and outlined next steps for both projects.
+- **Pocket turning & Recapable:** @vincent demoed early gameplay builds and and outlined next steps for both projects.
 - **Funding rate arbitrage:** @antran presented a multi-exchange trading strategy based on funding rate differentials, highlighting both technical setup and risks.
 
 These demos reflect the team's commitment to transparency and progress, setting the stage for future milestones.
@@ -109,9 +110,9 @@ Additionally, two months into our transition from remote-first to hybrid, the pr
 
 March brought a packed schedule for our BD rep @minh, who joined four standout events: XDC Network, Building Asia's Web3 Ecosystem Roadshow, Berachain: Growing in Asia with a Fun Community, Babylon: A New Way to Use Bitcoin.
 
-There's still a lot of noise in the space, but you can tell some builders are trying to shift things.  The bigger question from these sessions: Can Asia's Web3 scene turn its energy into something that lasts? Feels like the pieces are there.
+There's still a lot of noise in the space, but you can tell some builders are trying to shift things. The bigger question from these sessions: Can Asia's Web3 scene turn its energy into something that lasts? Feels like the pieces are there.
 
-For the full take, Minh shared two short write-ups from the road: [Talks and Takeaways from the Scene – Part 1](https://memo.d.foundation/updates/biz/2025-web3-vietnam-recap-pt1)  and  [Part 2](https://memo.d.foundation/updates/biz/2025-web3-vietnam-recap-pt2). Give them a read if you're curious about where Web3 might actually be heading.
+For the full take, Minh shared two short write-ups from the road: [Talks and Takeaways from the Scene – Part 1](https://memo.d.foundation/updates/biz/2025-web3-vietnam-recap-pt1) and [Part 2](https://memo.d.foundation/updates/biz/2025-web3-vietnam-recap-pt2). Give them a read if you're curious about where Web3 might actually be heading.
 
 ![](assets/2025-whats-new-march-event.png)
 

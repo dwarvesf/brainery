@@ -1,8 +1,10 @@
 ---
 title: "#66 - Apprenticeship Preparation"
-date: "2021-03-13"
-last_edited: "2025-04-07"
+date: 2021-03-13
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Apprenticeship Program
 
 We’re getting back on Apprenticeship this year. Huy is in charge of running the campaign. Apprenticeship is designed for engineers with working experience, but they seek to fill up the foundation knowledge, or simply want to improve themself. Hope we can bring a few more people to expand the team.

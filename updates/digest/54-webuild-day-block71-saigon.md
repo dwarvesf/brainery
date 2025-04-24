@@ -1,8 +1,10 @@
 ---
 title: "#54 - WeBuild Day @ Block71 Saigon"
-date: "2020-12-12"
-last_edited: "2025-04-07"
+date: 2020-12-12
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Puffer
 
 Puffer is getting closer to finish its Proof of Concept, considering the features are gradually built, including the automatic reachability, access management and CI setup. And more than that, project from different environment can now be imported easily using drag & drop.

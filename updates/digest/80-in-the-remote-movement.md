@@ -1,8 +1,10 @@
 ---
 title: "#80 - In the remote movement"
-date: "2021-06-19"
-last_edited: "2025-04-07"
+date: 2021-06-19
+description: null
+last_edited: 2025-04-07
 ---
+
 ## Team & Quality
 
 ### Metrics Dashboard
@@ -27,7 +29,6 @@ We’re starting to adopt Gather town - a vphysically office space for team gath
 
 - The room address: <https://gather.town/app/bmf0IzCZt2Al5fXW/Dwarves> Space
 - Password: thesanity
-
 
 ## News of the week
 

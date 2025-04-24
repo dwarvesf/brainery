@@ -1,8 +1,10 @@
 ---
 title: "#100 - Dwarves Changelog the 100th"
-date: "2021-11-20"
-last_edited: "2025-04-07"
+date: 2021-11-20
+description: null
+last_edited: 2025-04-07
 ---
+
 Reached the #100 changelog already. Time flies.
 
 Greetings from Da Lat. I'm up here with a few Dwarves. The office is getting redesigned. Seems like we'll be having both inner and outer space. A summer house, I think. Will get you the photos updated as soon as I can. Can't fully describe the renovation progress now, but I can guarantee - the vibe is awesome.

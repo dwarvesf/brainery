@@ -1,5 +1,5 @@
 ---
-title: What's New in January 2022
+title: "What's New in January 2022"
 date: 2022-01-28
 description: Each month, we release a recap noting all the significant changes with our company and our team. January 2022 will go over performance review and our growth on projects, new year highlights.
 authors:
@@ -10,11 +10,12 @@ tags:
   - updates
   - blockchain
 ---
+
 ### Performance Review
 
 The team has received all of the self-review notes. Due to the volume of our teammates, 1-1 meetings for some of you will soon be scheduled after the Lunar New Year.
 
-The final result will be announced before March. Hope to see the good updates by then ,  if you know what I mean.
+The final result will be announced before March. Hope to see the good updates by then , if you know what I mean.
 
 ### Study Groups/ Brainery Clean-up
 
@@ -36,10 +37,10 @@ Guys, let us introduce the latest DF Policy: **Flight Ticket Package**
 
 Who is this package for: Full-time members who have worked with the Dwarves for more than 6 months are eligible. The model goes as follows:
 
-* **4 times a year**, the Dwarves Team provides a commuting package to its members with a maximum amount of **2.000.000 VND/ time**.
-* The timeline of this trip is up to you. However, since this was made to encourage the team to try out our work hubs and get to know their teammates- **our destination must be either Da Lat or Da Nang**, and hopefully Ha Noi soon.
-* Trips need time to prepare (and recover afterward), so the team can't use up the budget of 4 trips per year in one travel instance. This goes against the policy.
-* For better flexibility, we encourage you to actively make the booking and send us the receipt. The Ops team will help you process the reimbursement.
+- **4 times a year**, the Dwarves Team provides a commuting package to its members with a maximum amount of **2.000.000 VND/ time**.
+- The timeline of this trip is up to you. However, since this was made to encourage the team to try out our work hubs and get to know their teammates- **our destination must be either Da Lat or Da Nang**, and hopefully Ha Noi soon.
+- Trips need time to prepare (and recover afterward), so the team can't use up the budget of 4 trips per year in one travel instance. This goes against the policy.
+- For better flexibility, we encourage you to actively make the booking and send us the receipt. The Ops team will help you process the reimbursement.
 
 To sign up for your first trip, please head to this form: [https://forms.gle/SusWDKUn2KjkewBH6](https://forms.gle/SusWDKUn2KjkewBH6)
 
@@ -49,9 +50,9 @@ Last month, we finally had the chance to gather for a casual dinner to wrap up t
 
 Since we have people in HCMC, Hanoi, and Danang, we can't all meet at the same place. Therefore:
 
-* We can have 1 sponsored team dinner per month.
-* We'll try to align so teams in all locations can hang out simultaneously, at least. Facetime can also be an option. Or team airdrop.
-* Ops will refund the expense in full.
+- We can have 1 sponsored team dinner per month.
+- We'll try to align so teams in all locations can hang out simultaneously, at least. Facetime can also be an option. Or team airdrop.
+- Ops will refund the expense in full.
 
 ### Lunar New Year Gift-set Delivery
 

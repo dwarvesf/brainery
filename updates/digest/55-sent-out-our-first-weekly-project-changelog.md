@@ -1,8 +1,10 @@
 ---
 title: "#55 - Sent out our first weekly Project Changelog"
-date: "2020-12-19"
-last_edited: "2025-04-07"
+date: 2020-12-19
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Weekly Project Changelog
 
 As mentioned in those previous (and lmao I hope you all read), we’re starting to send out our weekly changelog for each project. We hope this marks an attempt for better collaboration, and the client gets a greater view on how work happened within the week.

@@ -1,18 +1,20 @@
 ---
 title: "#149 - ChatGPT, OGIF, New Project, New Teammates"
-date: "2023-02-13"
-last_edited: "2025-04-07"
+date: 2023-02-13
+description: null
+last_edited: 2025-04-07
 ---
+
 # 149 - ChatGPT, OGIF, New Project, New Teammates
 
 @peeps, lots of movements last week, but here are some highlights to help you keep the momentum going
 
-1/  Dwarves Discord got GPT-ed
+1/ Dwarves Discord got GPT-ed
 
-• We added 🤖・gpt-01 🤖・gpt-02🤖・gpt-03 to our Discord for everyone to explore.  With ChatGPT bot, you can ask questions, and get help with programming, software delivery.
+• We added 🤖・gpt-01 🤖・gpt-02🤖・gpt-03 to our Discord for everyone to explore. With ChatGPT bot, you can ask questions, and get help with programming, software delivery.
 • While we are having fun this new addition, it’s also time to think how we can utilize this tool to help the team ship more.
 
-2/  Communication is super important
+2/ Communication is super important
 
 • A small reminder, working remotely requires communication, so y’all please make sure all communication is immediate and seamless. Keep professionalism and productivity in mind.
 • If you run into any issues with clients and are not sure what to do, ping
@@ -31,7 +33,6 @@ last_edited: "2025-04-07"
 • @khanhtruong is now our Comm Manager, he'll help with engaging and growing our Discord.
 
 @taipn is the first member and we’re looking for a few more React Native peeps. If you know anyone, send them our way. Referral bonus applied.
-
 
 5/ Upcoming
 

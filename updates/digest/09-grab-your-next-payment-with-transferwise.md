@@ -1,8 +1,10 @@
 ---
 title: "#09 - Grab your next payment with TransferWise"
-date: "2020-02-01"
-last_edited: "2025-04-07"
+date: 2020-02-01
+description: null
+last_edited: 2025-04-07
 ---
+
 ## Grab your next payment with TransferWise
 
 ---
@@ -24,7 +26,7 @@ The BoD has just finished the last steps of preparing the Contractor Agreement t
 - TransferWise registration link: <https://transferwise.com/>
 - Submission link for bank detail
 - A video for instructions
-Payment through TransferWise will take effect from this month. Please make sure all your bank account detail is updated before Feb 15th, 2020.
+  Payment through TransferWise will take effect from this month. Please make sure all your bank account detail is updated before Feb 15th, 2020.
 
 ### Beta English Course Updates 📖
 

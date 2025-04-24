@@ -1,7 +1,7 @@
 ---
-title: What's New in December 2024
+title: "What's New in December 2024"
 date: 2025-01-03
-description: December blended Penang team moments with steady progress, closing 2024 with energy and ready for what's next.
+description: "December blended Penang team moments with steady progress, closing 2024 with energy and ready for what's next."
 authors:
   - innno_
 hide_frontmatter: false
@@ -10,6 +10,7 @@ tags:
   - updates
   - summit
 ---
+
 [**Our summit 2024 adventure in Penang:**](#summit-2024-building-our-rhythm-in-penang) a team getaway that blended cultural discoveries, shared laughs, and moments to recharge for the road ahead.
 
 [**The Final notes of 2024:**](#the-final-notes-of-2024) new momentum, year-end reflections, and Tet celebrations ahead.

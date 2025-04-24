@@ -1,7 +1,7 @@
 ---
 title: Dwarves Of The Year 2022
 date: 2023-01-19
-description: It's been a long journey, but we've finally made it to 2022 and what a year it's been for our team of Dwarves. Countless hours of hard work and it's all paid off with our big wins of the year. Honored for all and huge congratulations for our Dwarves of 2022.
+description: "It's been a long journey, but we've finally made it to 2022 and what a year it's been for our team of Dwarves. Countless hours of hard work and it's all paid off with our big wins of the year. Honored for all and huge congratulations for our Dwarves of 2022."
 authors:
   - innno_
   - nikki
@@ -11,6 +11,7 @@ tags:
   - doty
   - team
 ---
+
 It's been a long journey, but we've finally made it to 2022 and what a year it's been for our team of Dwarves. Countless hours of hard work and it's all paid off with our big wins of the year. Honored for all and huge congratulations to our Dwarves of 2022.
 
 A total of **~$18,000 awarded and rewarded by** [$ICY - Dwarves official token](https://www.facebook.com/photo.php?fbid=860144451875324&set=pb.100036393316096.-2207520000.&type=3), with a few names appearing several times. We congratulate the Dwarves who went above and beyond to make 2022 an unforgettable year for everyone.

@@ -1,8 +1,10 @@
 ---
 title: "#143 - Halfway Through December"
-date: "2022-12-17"
-last_edited: "2025-04-07"
+date: 2022-12-17
+description: null
+last_edited: 2025-04-07
 ---
+
 # 143 - Halfway Through December
 
 Hello Folks, Changelog is back after Phu Quoc company trip. @peeps
@@ -19,8 +21,8 @@ Summit 2022
 Feel free to tag us on your social media.
 
 Engage to Earn
-• Be proud of the team for contributing Brainery. Revisit the November Hall of Fame: <https://bit.ly/3FWKVdT>. We’ve also received 8 notes from peeps. Check it out: <https://brain.d.foundation/>. Pls send @monotykamary#6285  your notes.
-•  $ICY Official Launch: https://bit.ly/3uTW7l1. Let’s learn, share, adopt and get some $ICY y’all.
+• Be proud of the team for contributing Brainery. Revisit the November Hall of Fame: <https://bit.ly/3FWKVdT>. We’ve also received 8 notes from peeps. Check it out: <https://brain.d.foundation/>. Pls send @monotykamary#6285 your notes.
+• $ICY Official Launch: https://bit.ly/3uTW7l1. Let’s learn, share, adopt and get some $ICY y’all.
 
 Members Highlights
 • Congrats to @hieuvd#4261 and @hienld#3856 for joining the Neutronpay team. Last week, Neutronpay team also had a warm dinner with @trkhoi#2166 and @khanglna#0521.

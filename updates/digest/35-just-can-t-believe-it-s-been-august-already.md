@@ -1,8 +1,10 @@
 ---
 title: "#35 - Just can’t believe it’s been August already"
-date: "2020-08-01"
-last_edited: "2025-04-07"
+date: 2020-08-01
+description: null
+last_edited: 2025-04-07
 ---
+
 Yep, Covid has back in the area. Needless to say, wfh is recommended. Again.
 
 A week ago, we were this close to book our annual company trip in the very Da Nang. I’m not sure it’s the sign from the universe or something, but it’s definitely freaks me out.
@@ -33,4 +35,4 @@ The very first intern batch of our Canada Internship. They’ll be giving a 1-we
 - Minh Nguyen: Backend Intern
 - Minh Vu: Backend Intern
 - Hoang Phung: Frontend Intern
-Welcome to the woodland 💪
+  Welcome to the woodland 💪

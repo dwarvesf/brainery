@@ -1,10 +1,11 @@
 ---
 title: "#71 - Holiday Day-off and the rollout of Obvs"
-date: "2021-04-17"
-last_edited: "2025-04-07"
+date: 2021-04-17
+description: null
+last_edited: 2025-04-07
 ---
-### Biz Update
 
+### Biz Update
 
 ### Team and Quality
 
@@ -30,7 +31,7 @@ We'll be taking day-offs in the next two weeks, which precisely is:
 
 - Hung Kings Commemoration Day:
 - Liberation Day & International Workers' Day:
-It's been a while since our last holiday. May you all have a great time to recharge and spend good moments with the fam.
+  It's been a while since our last holiday. May you all have a great time to recharge and spend good moments with the fam.
 
 ### Communication
 

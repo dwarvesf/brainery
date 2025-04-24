@@ -1,8 +1,10 @@
 ---
 title: "#28 - Quite late, but here’s what happened this week"
-date: "2020-06-13"
-last_edited: "2025-04-07"
+date: 2020-06-13
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Join a hand for Memo
 
 We’ve moving Memo out to the backlog of Woodland. Previously, Memo was quite of a responsibility for a few members. But after all, if it’s meant to be a platform for our voices, it should be conducted by anyone. Currently, the list of writing still has many unwritten articles. Should you find any topic that might suit your favor, just us a heads-up and we’ll assist you along the way. And if you’re having other cool topic to add in? Even better.

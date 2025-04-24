@@ -1,8 +1,10 @@
 ---
 title: "#79 - Dwarvesf/brain repo sync up & product wishlist"
-date: "2021-06-12"
-last_edited: "2025-04-07"
+date: 2021-06-12
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Team & Quality
 
 dwarvesf/brain repo sync up
@@ -16,7 +18,7 @@ File and pull request are greatly welcomed, as we’re able to record the git co
 - Hashtag: for categorize
 - Link: for reference source
 - The content: meaningful and beneficial
-and kudos to Tuan D, for the great effort of building Discord Zettelkasten bot to observe and aggregate the post highlight 👀
+  and kudos to Tuan D, for the great effort of building Discord Zettelkasten bot to observe and aggregate the post highlight 👀
 
 ![](assets/notion-image-1744006975685-8dzwu.webp)
 

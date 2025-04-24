@@ -1,8 +1,10 @@
 ---
 title: "#29 - Had Enough of Things? Tired of People? Fed up from Work?"
-date: "2020-06-20"
-last_edited: "2025-04-07"
+date: 2020-06-20
+description: null
+last_edited: 2025-04-07
 ---
+
 We might have a solution. Keep scrolling.
 
 ### Feedback Form

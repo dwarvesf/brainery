@@ -1,8 +1,10 @@
 ---
 title: "#72 - Apprenticeship Wrapping Up"
-date: "2021-04-24"
-last_edited: "2025-04-07"
+date: 2021-04-24
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Apprenticeship Wrapping Up
 
 Apprenticeship has been wrapped up with 12 new Dwarves in the woodland. With 5 FE, 4 BE, and 3 Designers, we hope to collaborate with them to make this team more diverse in terms of skill set and culture.

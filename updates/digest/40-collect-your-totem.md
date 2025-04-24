@@ -1,8 +1,10 @@
 ---
 title: "#40 - Collect your totem 🛠"
-date: "2020-09-05"
-last_edited: "2025-04-07"
+date: 2020-09-05
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Dwarves Totem
 
 I was gonna save the totem sample photo for this digest, but since anh Han have mentioned it in our latest All-hands meeting, I got no choice but to repost it here. Some of the Dwarves have claimed theirs at block B.
@@ -22,4 +24,3 @@ We have a few new ideas with Basecamp Hill chart. By filling the specific milest
 ### New Dwarves in town
 
 We welcomed Hieu Ngo to join us as a Frontend Engineer. Mentored by Minh T, hope he’ll spend his time at Dwarves to increase his skill and gain great achievement.
-

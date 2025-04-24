@@ -1,8 +1,10 @@
 ---
 title: "#85 - July's Updates"
-date: "2021-07-31"
-last_edited: "2025-04-07"
+date: 2021-07-31
+description: null
+last_edited: 2025-04-07
 ---
+
 ### July's Updates
 
 ### Performance Review Announcement

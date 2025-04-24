@@ -1,8 +1,10 @@
 ---
 title: "#50 - Too many news I find it hard to choose a subject"
-date: "2020-11-14"
-last_edited: "2025-04-07"
+date: 2020-11-14
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Development & Tech
 
 Ventures Website
@@ -21,13 +23,13 @@ On our way to ship the product, we realized the "vault" part sounds a bit common
 
 Readify is (almost) ready for MVP release
 
-Data is part is quite a challenge in Readify, since we are not only aggregated data through multiple sources, we also need to index it with the nice ranking system, you know, to make sure the feed is  hot and worth your time. Kudos to Khoi Le for putting an enormous effort toward that.
+Data is part is quite a challenge in Readify, since we are not only aggregated data through multiple sources, we also need to index it with the nice ranking system, you know, to make sure the feed is hot and worth your time. Kudos to Khoi Le for putting an enormous effort toward that.
 
 The data for Readify has been well prepared and ready to bridge us with the newest technology movement. We've already distributed them through a few channels:
 
 - Thanks to Tuan Dao, the website version looks lit.
 - Phuc also helped to port it to the macOS version to keep the geek up-to-dated
-Our next move would be developing UI, which Anh will surely gets her hand on, while Bien works on integrating Readify into all of our current information source: Basecamp, Website & Newsletter. (see the bottom of this?)
+  Our next move would be developing UI, which Anh will surely gets her hand on, while Bien works on integrating Readify into all of our current information source: Basecamp, Website & Newsletter. (see the bottom of this?)
 
 ### Sale KPI
 

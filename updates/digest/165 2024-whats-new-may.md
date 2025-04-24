@@ -1,5 +1,5 @@
 ---
-title: What's New in May 2024
+title: "What's New in May 2024"
 date: 2024-06-13
 description: May was our month for meetups, upgrading our monthly learning pool, launching NFT roles for our team members, onboarding new collaboration, recapping Echelon X 2024, and hosting an OGIF office hour.
 authors:
@@ -48,7 +48,6 @@ The foremost is we want to stay true to our path and keep innovating in ways tha
 [The full Echelon Recap can be found here.](https://memo.d.foundation/playground/01_literature/echelon-x-singapore-2024-where-innovations-meet-inspiration/)
 
 ![](assets/2024-whats-new-may-echelon.webp)
-
 
 ## Dwarves NFTs for our crew
 

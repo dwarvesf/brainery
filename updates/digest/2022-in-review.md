@@ -12,7 +12,8 @@ tags:
   - newsletter
   - updates
 ---
-Successfully went through 2022, a year that we might say -  a new record: team reached highest growth record, kickstarted community engagement, home, compliance training & individual development are speeding up, and a whole new place to call Dwarves.
+
+Successfully went through 2022, a year that we might say - a new record: team reached highest growth record, kickstarted community engagement, home, compliance training & individual development are speeding up, and a whole new place to call Dwarves.
 
 We've achieved to this year's resolution: A team that cares about how to build software right and can teach others on that.
 
@@ -27,7 +28,7 @@ Expanding the team doesn't mean we have to disregard our culture. We have launch
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_f3d04cda19cc5bfc2126f840d4dddf1d_md5.webp)
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_b6627bd506ccd793e7c6177b8c941947_md5.webp)
 
-*The Dwarves Collective, using markdown to visualize bonds between members.*
+_The Dwarves Collective, using markdown to visualize bonds between members._
 
 ### The Next Leading Chairs
 
@@ -43,12 +44,12 @@ After its launch, the R&B has completed the first challenge: **Feature Flags**
 
 Feature Flags tackled a concern spanning across our DevOps, Management, and Engineering domains.
 
-* **Feature flags**: Options to enable/disable a feature in the application to help developers have a good experience and improve performance in the development process. We have discovered 3 solutions to resolve this challenge. With a wide range of solutions, we have the ability to serve any type of usage and project in development life.
+- **Feature flags**: Options to enable/disable a feature in the application to help developers have a good experience and improve performance in the development process. We have discovered 3 solutions to resolve this challenge. With a wide range of solutions, we have the ability to serve any type of usage and project in development life.
 
-* **The detailed solutions:**
-* [https://viblo.asia/p/feature-toggle-BQyJK33QJMe#_introduction-0](https://viblo.asia/p/feature-toggle-BQyJK33QJMe#_introduction-0)
-* [https://dwarvesf.hashnode.dev/common-challenges-feature-flag](https://dwarvesf.hashnode.dev/common-challenges-feature-flag)
-* [https://medium.com/dwarves-foundation/design-a-feature-flag-system-7986b4a080cc](https://medium.com/dwarves-foundation/design-a-feature-flag-system-7986b4a080cc)
+- **The detailed solutions:**
+- [https://viblo.asia/p/feature-toggle-BQyJK33QJMe#\_introduction-0](https://viblo.asia/p/feature-toggle-BQyJK33QJMe#_introduction-0)
+- [https://dwarvesf.hashnode.dev/common-challenges-feature-flag](https://dwarvesf.hashnode.dev/common-challenges-feature-flag)
+- [https://medium.com/dwarves-foundation/design-a-feature-flag-system-7986b4a080cc](https://medium.com/dwarves-foundation/design-a-feature-flag-system-7986b4a080cc)
 
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_807095e97b173fac69c60aeffb7536ec_md5.webp)
 
@@ -56,7 +57,7 @@ Feature Flags tackled a concern spanning across our DevOps, Management, and Engi
 
 ![](assets/2022-in-review_brainery-graph-1_compressed.mp4)
 
-*A 2022 look back on our Brainery timeline, with a total of 128 notes contributed.*
+_A 2022 look back on our Brainery timeline, with a total of 128 notes contributed._
 
 The concept of **"The Fastest Learners Win"** has always been big between the Dwarves. 2022 though, we opened our learning initiatives to the tech community. Everyone can join in to learn with us, sharing their experience with us, then get rewarded in return for their contribution.
 
@@ -64,10 +65,10 @@ The response so far has been amazing. We got words saying peeps get to upgrade t
 
 Just a bit of research on new tech could mean a job opportunity, or perhaps a turning point in their life that make them leaders in a new segment of an industry.
 
-* [Brainery](https://brain.d.foundation/): our knowledge hub, where we share what we learn with the world.
-* [Engage & Earn](https://memo.d.foundation/): our system recognizes people who put in the effort to share knowledge.
-* [Dwarves Tech Radar Volume 4](https://www.facebook.com/photo.php?fbid=833917351164701&set=pb.100036393316096.-2207520000.&type=3): a place for our engineers to trial and evaluate emerging technologies, and to help set the direction for Dwarves' tech stack.
-* [Engineering Publication](https://memo.d.foundation/): our extra effort goes into learning and researching on how we can get better with technology.
+- [Brainery](https://brain.d.foundation/): our knowledge hub, where we share what we learn with the world.
+- [Engage & Earn](https://memo.d.foundation/): our system recognizes people who put in the effort to share knowledge.
+- [Dwarves Tech Radar Volume 4](https://www.facebook.com/photo.php?fbid=833917351164701&set=pb.100036393316096.-2207520000.&type=3): a place for our engineers to trial and evaluate emerging technologies, and to help set the direction for Dwarves' tech stack.
+- [Engineering Publication](https://memo.d.foundation/): our extra effort goes into learning and researching on how we can get better with technology.
 
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_1f5bd3a773b8f02d7f50d46102c2fa01_md5.webp)
 
@@ -93,11 +94,11 @@ Along with encompassing know-how on designing system architectures, we've also h
 
 We are putting in place the security measures necessary to protect our clients. Bringing security setups to the next level for us means we are confident now safe and protected in terms of:
 
-* Device management
-* Network security
-* Location security
-* NDA (Non-disclosure agreement)
-* ACL (access control list) checklist to onboard / off-board
+- Device management
+- Network security
+- Location security
+- NDA (Non-disclosure agreement)
+- ACL (access control list) checklist to onboard / off-board
 
 ### Game Department
 
@@ -115,8 +116,8 @@ Came after [Summit 2022](https://memo.d.foundation/changelog/2022-dwarves-summit
 
 The Dwarves actively take part in developer networks to bring makers and tech enthusiasts together. Below is the list of [social channels](https://index.d.foundation/) that you can access for Dwarves sharing.
 
-* Social Media: **[LinkedIn](https://www.linkedin.com/company/dwarvesf/)**, **[Facebook](https://www.facebook.com/dwarvesf)**, **[Instagram](https://www.instagram.com/dwarves.foundation/)**, **[Twitter](https://twitter.com/dwarvesf)**, **[Memo](https://memo.d.foundation/)**
-* Streamline: **[Youtube](https://www.youtube.com/@dwarvesfoundation2350)**, **[Let's Hear IT](https://spoti.fi/3xi92yY)[Podcast](https://rss.com/podcasts/dwarvestechevent/)**
+- Social Media: **[LinkedIn](https://www.linkedin.com/company/dwarvesf/)**, **[Facebook](https://www.facebook.com/dwarvesf)**, **[Instagram](https://www.instagram.com/dwarves.foundation/)**, **[Twitter](https://twitter.com/dwarvesf)**, **[Memo](https://memo.d.foundation/)**
+- Streamline: **[Youtube](https://www.youtube.com/@dwarvesfoundation2350)**, **[Let's Hear IT](https://spoti.fi/3xi92yY)[Podcast](https://rss.com/podcasts/dwarvestechevent/)**
 
 A variety of things, from lessons learned in a well-written format to Radio Talk live every Monday on Youtube and hanging out with techies at [Dwarves Discord Network](https://discord.gg/dfoundation) where we talk about technology and life as developers can help you stay tuned with us.
 
@@ -130,7 +131,7 @@ A variety of things, from lessons learned in a well-written format to Radio Talk
 
 **[Coding Camp](https://codingcamp.so/)** of Solana Vietnam was an incredible success, with over 2000 applications for the 8-week workshop, 200 selected developers, 51 projects on Demo Day, and nearly 100,000$ for the system of prizes.
 
-**[Mochi](https://mochi.gg/)**, a product we build in partnership with Console Labs, won the 2nd prize; **[Triple Pod](https://tripod-web.vercel.app/)**- Gamefi project won the excellent UX/UI and **[iCrosschain](https://icrosschain.io/)** - transaction platforms built on multichain won the second prize in Defi at Solana Vienam Coding Camp 2022  - Build Your Own Web Kingdom.
+**[Mochi](https://mochi.gg/)**, a product we build in partnership with Console Labs, won the 2nd prize; **[Triple Pod](https://tripod-web.vercel.app/)**- Gamefi project won the excellent UX/UI and **[iCrosschain](https://icrosschain.io/)** - transaction platforms built on multichain won the second prize in Defi at Solana Vienam Coding Camp 2022 - Build Your Own Web Kingdom.
 
 We are proud to be a part of the movement toward blockchain-based technology and become a web3-centric tech firm. Keep up the spirit of building, expanding, and evolving!
 
@@ -152,9 +153,9 @@ We provide a package of flight tickets **4 times a year,** with a **maximum amou
 
 These benefits supporting [#WFA](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md) culture:
 
-* **Flight Tickets Packaging:** Covering flying fees and commute fees for employees.
-* **Accommodation:** Equipping the office in ways that allow employees to stay at.
-* **Project team dinner:** Sponsoring monthly meetups for people working on the same projects.
+- **Flight Tickets Packaging:** Covering flying fees and commute fees for employees.
+- **Accommodation:** Equipping the office in ways that allow employees to stay at.
+- **Project team dinner:** Sponsoring monthly meetups for people working on the same projects.
 
 With the new policies set out, our people can meet, work and bond with one another at any of those 3 locations. This will create a sense of inclusion and connection, regardless of the distance.
 
@@ -194,8 +195,8 @@ Built on Polygon, $ICY takes co-creation within Dwarves Network to the next leve
 
 Our business builds and moves alongside the industry, so we know what it takes to become a crypto-native firm, our moves shift accordingly. It starts with two things:
 
-* **Selective in project deployment**: Block-chain based projects - [Cyber Nekos](http://pod.so/), [Triple Pod](https://tripod-web.vercel.app/)
-* **New option for monthly salary:** The team just rolled out a new option to receive monthly salaries through Binance.
+- **Selective in project deployment**: Block-chain based projects - [Cyber Nekos](http://pod.so/), [Triple Pod](https://tripod-web.vercel.app/)
+- **New option for monthly salary:** The team just rolled out a new option to receive monthly salaries through Binance.
 
 ### Employee Referral Model
 
@@ -203,9 +204,9 @@ The team size has increased by 46%, a big part of the growth comes from people r
 
 A quick suggestion on the talent pool:
 
-* Colleagues
-* University friends
-* High school peeps
+- Colleagues
+- University friends
+- High school peeps
 
 We want to spend the bonus on you rather than the headhunting agency. Once the referral gets successfully converted into a full-time position and deployed to a project, the referrer will receive **2.5%** of the project service fee.
 
@@ -219,9 +220,9 @@ The future of Dwarves is a place where people are empowered to make decisions, w
 
 Our centric world will thrive the Dwarves themselves are focused, trained and empowered. All of us will grow with Mastery, Meaning and Autonomous. Shaping the team day by day with the core values that move towards the engineering culture.
 
-* **Mastery:** we head toward craftsmanship, putting responsibility, professionalism, pragmatism and pride back into software development. Thereby contributing further to the quality of the outcome.
-* **Meaning:** the desire to do a software that has meaning and is important. We understand our place in the grand scheme of things, and that scheme has value and purpose, then we perform well.
-* **Autonomous:** provides employees with a sense of collective ownership. We aim to build a flat, transparent organization where everything runs around the mission.
+- **Mastery:** we head toward craftsmanship, putting responsibility, professionalism, pragmatism and pride back into software development. Thereby contributing further to the quality of the outcome.
+- **Meaning:** the desire to do a software that has meaning and is important. We understand our place in the grand scheme of things, and that scheme has value and purpose, then we perform well.
+- **Autonomous:** provides employees with a sense of collective ownership. We aim to build a flat, transparent organization where everything runs around the mission.
 
 ![](assets/2022-in-review_mma.webp)
 
@@ -229,6 +230,6 @@ Our centric world will thrive the Dwarves themselves are focused, trained and em
 
 With this momentum, this is only the start.
 
-As we continue to extract the possible from the impossible, this year taught us, above all, that our voices ,  no matter how big or small ,  with the belief that software keeps changing the world.
+As we continue to extract the possible from the impossible, this year taught us, above all, that our voices , no matter how big or small , with the belief that software keeps changing the world.
 
 We wish for all of you to have a great start for your journeys ahead.

@@ -1,8 +1,10 @@
 ---
 title: "#59 - The Dwarves turns 6"
-date: "2021-01-16"
-last_edited: "2025-04-07"
+date: 2021-01-16
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Dwarves of The Year // The Dwarves turns 6
 
 Big night last week, I believe. If you have taken photos or videos, please help to put it on team iCloud. We look forward for both stunning and embarrassing shots 😏

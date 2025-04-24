@@ -1,8 +1,10 @@
 ---
 title: "#08 - The 1st Report of Tech Radar"
-date: "2020-01-18"
-last_edited: "2025-04-07"
+date: 2020-01-18
+description: null
+last_edited: 2025-04-07
 ---
+
 ## The 1st Report of Tech Radar
 
 ---
@@ -16,11 +18,11 @@ Last Friday, the Engineering Team conducted a meeting during Investment Time to 
 - List of permitted topics
 - The same base knowledge of Tech Radar: how it runs, what benefit it will bring and what to expect afterwards
 - Updated status of each team's project
-Currently, every team has done around 10-30% of their projects. As we are expected to have a report once every 2 weeks, the 2nd report should be held on the first week after Lunar New Year Holiday. In this 2nd report, every team/ individual is asked to submit their research and example toward the topics.
+  Currently, every team has done around 10-30% of their projects. As we are expected to have a report once every 2 weeks, the 2nd report should be held on the first week after Lunar New Year Holiday. In this 2nd report, every team/ individual is asked to submit their research and example toward the topics.
 
 - For tools: there must be a runnable demo version
 - For frameworks or technique: there must be documents and presentation (or both, even better!) about the structure.
-Definition of Done for Tech Radar ☑️
+  Definition of Done for Tech Radar ☑️
 
 - Project's Objective: clear and concise
 - Project's Motivation: why you build this, what is is for
@@ -53,7 +55,7 @@ Stay updated!
 We hope this part gratifies you the most within this Digest. The 13th Salary has been transferred on Jan 15th based on the formula in this 13th Bonus Announcement. This bonus is calculated as the average income since the beginning of 2019, which means
 
 - Bonus Salary = Total income of 2019/Total month of working.
-Thank you for all of the hard work and let's look forward for more to come ⚒
+  Thank you for all of the hard work and let's look forward for more to come ⚒
 
 English Class
 

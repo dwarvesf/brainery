@@ -1,5 +1,5 @@
 ---
-title: What's New in May 2022
+title: "What's New in May 2022"
 date: 2022-05-31
 description: Each month, we release a recap noting all the significant changes with our company and our team. In May, we kicked off Apprenticeship training, and our new chalet is ready for community to visit.
 authors:
@@ -10,6 +10,7 @@ tags:
   - internship
   - updates
 ---
+
 ## Foundation
 
 ### Our view on Blockchain
@@ -38,8 +39,8 @@ Ping Tom if you want to be part of the squad. And stay tuned for Dung's first sh
 
 Highlights will be summarized and shared through Memo to those who want to keep up:
 
-* [**React 18**](https://memo.d.foundation/playground/_memo/react-18/)
-* [**Remix versus Next.js**](https://memo.d.foundation/playground/_memo/remix-versus-nextjs/)
+- [**React 18**](https://memo.d.foundation/playground/_memo/react-18/)
+- [**Remix versus Next.js**](https://memo.d.foundation/playground/_memo/remix-versus-nextjs/)
 
 Feels more like listening? Pay a visit to **[Dwarves Youtube](http://www.youtube.com/channel/UC_SyzGLf6wiqctQFsRI_frw)** for every streaming.
 

@@ -1,8 +1,10 @@
 ---
 title: "#62 - 2020 Wrapping Up"
-date: "2021-02-06"
-last_edited: "2025-04-07"
+date: 2021-02-06
+description: null
+last_edited: 2025-04-07
 ---
+
 ### 2020: The year in review
 
 We've been through a lot of things in last year. And this is a great time for us to look back and recognize how far we got, I've put a list of things we've done last year into one post, and that post is looonng

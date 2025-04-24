@@ -1,16 +1,17 @@
 ---
 title: "Weekly Digest #5: Endure the hardship, delay the gratification"
-short_title: "#5 Endure the hardship, delay the gratification"
 date: 2024-05-14
-description: "Happy Monday, I’m here again, bringing you a lot of updates. There are big and small things brewing at Dwarves network. As we keep on crafting a better community day by day with you."
+description: Happy Monday, I’m here again, bringing you a lot of updates. There are big and small things brewing at Dwarves network. As we keep on crafting a better community day by day with you.
 authors:
   - innno_
+short_title: "#5 Endure the hardship, delay the gratification"
 tags:
   - weekly-digest
   - discord
   - community
   - team
 ---
+
 Greetings from Saigon, I’m here again, bringing you a lot of updates. There are big and small things brewing at Dwarves network. As we keep on crafting a better community day by day with you.
 
 And tiny but mighty ones, like new merchandise, are in progress. Let’s get through what’s new!
@@ -25,7 +26,7 @@ Echelon X is an annual tech business conference that gathers inspiring startups 
 
 Last week, the operations team gathered all your awesome input on the design for the t-shirt. Rest assured, every suggestion has been noted, and soon you'll get the chance to vote on the final design.
 
-The preparation is in progress, and we're thrilled about how it's shaping up.  Cool new gear is on the way, so keep an eye out for the big reveal and happy voting.
+The preparation is in progress, and we're thrilled about how it's shaping up. Cool new gear is on the way, so keep an eye out for the big reveal and happy voting.
 
 ### Dwarfing It Up: OGIF (Oh God It's Friday) Tradition
 
@@ -49,7 +50,6 @@ One of our endless inspirations behind every channel we created is you. We’ve 
 
 A while back, I randomly saw this topic on Reddit:
 
->
 > "The ability to discipline yourself to delay gratification in the short term in order to enjoy greater rewards in the long term, is the indispensable prerequisite for achievement."
 
 Who knew stoicism could be so... deliciously rewarding? Catch you on the flip side, wise wanderers.

@@ -1,7 +1,7 @@
 ---
-title: What's New in April 2024
+title: "What's New in April 2024"
 date: 2024-05-23
-description: In this April, we're focused on memo upgrading, reward system, OGIF, internal tooling, community meetup and market report.
+description: "In this April, we're focused on memo upgrading, reward system, OGIF, internal tooling, community meetup and market report."
 authors:
   - innno_
 tags:
@@ -10,6 +10,7 @@ tags:
   - tech-report
   - community
 ---
+
 - [**Reporting tech signals:**](#reporting-tech-signals---ai-edge-computing-and-ui-innovations-driving-change) major updates in Meta's Llama 3, the growth of RAG systems, the move to edge computing, and the influence of Bun 1.1 in JavaScript.
 - [**memo.d.foundation:**](#upgrading-the-new-sidebar-and-reading-mode-on-memodfoundation) improve experience with new sidebar, pinned notes, and reading mode.
 - [**The new features in Tonobot and Fortress are**](#new-features-in-tonobot-and-fortress-our-internally-automated-bots) top contributor reading lists, real-time memo post updates, and weekly reporting on Dwarves Network.
@@ -40,7 +41,7 @@ Here's what you can expect:
 - Keep your eyes comfy with the new interface: now boasting a sleek sidebar, pinned notes, and new reading mode, complete with author information, table of contents, and estimated reading time.
 - Plus, a user-friendly sidebar folder tree makes navigating your knowledge a breeze.
 - Kudos to the hard work of @Tom and @vincent for meticulously preparing the data and implementing DuckDB-WASM, resulting in lightning-fast rendering and coding on Hugo.
-- Special shoutout to @innno_ and the communication team for their efforts in learning and using development tools to contribute to this project.
+- Special shoutout to @innno\_ and the communication team for their efforts in learning and using development tools to contribute to this project.
 
 Let us know what you think.
 

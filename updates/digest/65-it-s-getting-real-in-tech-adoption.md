@@ -1,15 +1,17 @@
 ---
 title: "#65 - It’s getting real in Tech “Adoption”"
-date: "2021-03-06"
-last_edited: "2025-04-07"
+date: 2021-03-06
+description: null
+last_edited: 2025-04-07
 ---
+
 ### It’s getting real in Tech “Adoption”
 
 Remember our latest achievement on Upptime and Webflow? We’ve finally integrated them into the latest projects.
 
 ### Webflow
 
-We’re kicking off the design work with ATVPro, a real estate management company using Webflow to polish their current website.  Giang & Duy are the person in charge to trial that out. We also have another Webflow project queue up, Ngoc is getting requirements from them.
+We’re kicking off the design work with ATVPro, a real estate management company using Webflow to polish their current website. Giang & Duy are the person in charge to trial that out. We also have another Webflow project queue up, Ngoc is getting requirements from them.
 
 We also give bubble.io a shot for another US-based project, Bubble is pretty the same with Webflow, we will see how things turn out. Minh T & Chinh are looking on that end.
 
@@ -41,7 +43,7 @@ This week, Google dropped the news about Flutter 2.0 that broadened Flutter from
 
 Windows Pain - A frustrated journey
 
-An engineer’s work required the involvement of Steam VR, which only supports Windows only. This is a noted-down frustrated journey where he was  forced to get Windows to do what he considers "basic development tasks". Some of the struggle highlights happens, starting from the switch from vim to emacs, the windows terminal and xterm, or how he misses NixoS as a desktop operating system. Hope this would be a note for who wants to know the different between the twos.
+An engineer’s work required the involvement of Steam VR, which only supports Windows only. This is a noted-down frustrated journey where he was forced to get Windows to do what he considers "basic development tasks". Some of the struggle highlights happens, starting from the switch from vim to emacs, the windows terminal and xterm, or how he misses NixoS as a desktop operating system. Hope this would be a note for who wants to know the different between the twos.
 
 Brave buys a Search Engine
 

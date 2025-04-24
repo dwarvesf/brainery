@@ -12,6 +12,7 @@ tags:
   - operations
   - learning
 ---
+
 This page holds a collection of both our internal and external events, including the things we do with the Labs team, Consulting team, Operations, team, and the community.
 
 ## Latest Digest

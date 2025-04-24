@@ -1,8 +1,10 @@
 ---
 title: "#57 - And it’s a Wrap"
-date: "2021-01-01"
-last_edited: "2025-04-07"
+date: 2021-01-01
+description: null
+last_edited: 2025-04-07
 ---
+
 for a hell of a year. May we never speak of 2020 again.
 
 ### All hands Meeting

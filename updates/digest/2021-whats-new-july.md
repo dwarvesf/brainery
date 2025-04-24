@@ -1,5 +1,5 @@
 ---
-title: What's New in July 2021
+title: "What's New in July 2021"
 date: 2021-07-31
 description: Each month, we release a recap noting all the significant changes with our company and our team. July 2021 we will move toward blockchain industry and prepare for performance review in August.
 authors:
@@ -10,6 +10,7 @@ tags:
   - wfh
   - team
 ---
+
 We're closing July with some notable highlights. Let's go through them.
 
 🚨 Note: Covid situation is getting worse. Stay safe. 🦠
@@ -32,9 +33,9 @@ Some even wrote the literature notes. You are awesome. Please keep it up.
 
 The Brainery will be the backbone for our long-term growth
 
-### Office hour at Friday, 5pm ,  Ask the CEO anything
+### Office hour at Friday, 5pm , Ask the CEO anything
 
-We're going fully remote. There might be a distance between you and the team. In case you seek guidance or direction on where we want to go, we have dedicated office hours from  **4:30 to 6 pm** in the Discord AMA stage channel.
+We're going fully remote. There might be a distance between you and the team. In case you seek guidance or direction on where we want to go, we have dedicated office hours from **4:30 to 6 pm** in the Discord AMA stage channel.
 
 Feel free to ask the CEO anything: workload, feature requests, product discussion, or career advice. He's there to help.
 
@@ -46,17 +47,15 @@ We're dipping our toes in the Blockchain pool by partnering with a key client, a
 
 Another chance for us to get closer to this rising technology.
 
-
-
 ### Notion OS: Running our team from Notion pages
 
 Notion is our new document base. We've migrated our written document into this, as the new structure would be
 
-* Index: Shortcuts to websites, handbooks, repo sources & social channels.
-* Process: Compliance checklist & general docs
-* Client Portal: Contacts to the current project
-* Changelog: Our moving journey
-* New memo: Company blog
+- Index: Shortcuts to websites, handbooks, repo sources & social channels.
+- Process: Compliance checklist & general docs
+- Client Portal: Contacts to the current project
+- Changelog: Our moving journey
+- New memo: Company blog
 
 ## What's next in Aug
 
@@ -66,15 +65,15 @@ We plan to have a study group for IoT and embedded applications. The study group
 **Performance review**
 Performance review is starting next week. For those who wish to recognize your accomplishment, please prepare a 1 - 2 page summary to reflect your performance/achievement, following this guide
 
-* [Github](http://github.com/dwarvesf/handbook/blob/master/making-a-career.md#performance-review)
+- [Github](http://github.com/dwarvesf/handbook/blob/master/making-a-career.md#performance-review)
 
 ### The value fit
 
 We have a reason to go this far. Everyone has goals and pays attention to their value fit. We encourage the Dwarves to
 
-* Develop personal growth
-* Work hard for yourself
-* Ready for new opportunities
+- Develop personal growth
+- Work hard for yourself
+- Ready for new opportunities
 
 Moving towards mutual goals is a condition to get along with your teammates. It matters to know what value you can add to the game.
 

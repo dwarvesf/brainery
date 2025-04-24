@@ -1,8 +1,10 @@
 ---
 title: "#51 - Any feedback for Readify?"
-date: "2020-11-21"
-last_edited: "2025-04-07"
+date: 2020-11-21
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Readify: on progress, what’s your input?
 
 Many updates have been added to enhance Readify for the past few months. And we think it is the right time to hit a pause on development, we'll be glad if you can give it a try at readify.app and come at us with some feedback

@@ -1,15 +1,17 @@
 ---
 title: "#86 - Memo featured posts & Smart contract learning path "
-date: "2021-08-07"
-last_edited: "2025-04-07"
+date: 2021-08-07
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Roll out console.so with Notion
 
 We launch a new branch for blockchain development at console.so. Building with Notion is efficient. We currently have it on 2 websites:
 
 - console.so
 - turingalley.com
-Are you adopting Notion? How's the experience so far?
+  Are you adopting Notion? How's the experience so far?
 
 ### Expanding the Dwarves
 

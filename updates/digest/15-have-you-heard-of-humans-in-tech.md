@@ -1,8 +1,10 @@
 ---
 title: "#15 - Have You Heard of Humans in Tech?"
-date: "2020-03-14"
-last_edited: "2025-04-07"
+date: 2020-03-14
+description: null
+last_edited: 2025-04-07
 ---
+
 ## Have You Heard of Humans in Tech?
 
 ---

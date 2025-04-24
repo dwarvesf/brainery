@@ -1,15 +1,16 @@
 ---
 title: "Weekly Digest #15: New year Gathering: Sharing Tết, starting strong"
-short_title: "#15 New year gathering"
 date: 2025-02-04
-description: "Tết break came to an end, and the Dwarves team reunited to share stories, reconnect, and kick off the Year of the Snake in style. We brought it all back to Discord, along with a little SOL & ICY drop to start the year right."
+description: Tết break came to an end, and the Dwarves team reunited to share stories, reconnect, and kick off the Year of the Snake in style. We brought it all back to Discord, along with a little SOL & ICY drop to start the year right.
 authors:
   - innno_
+short_title: "#15 New year gathering"
 tags:
   - weekly-digest
   - team
   - community
 ---
+
 We kicked off our gathering after Tết, bringing the community back together in true Dwarves style - dropping some SOL and ICY tokens into everyone's wallets, bringing the community back together in true Dwarves style. Not a bad way to start the year.
 
 ![](assets/15-new-year-gathering-airdrop.png)
@@ -28,4 +29,4 @@ Photos and stories kept rolling in. From pristine beaches and mountain retreats 
 
 ![](assets/15-new-year-gathering-2.png)
 
-And of course, there were those who simply recharged ,  sleeping in, catching up on games, and enjoying the rare quiet before diving back into the grind. Now, we’re back at it, picking up where we left off. The Year of the Snake has just begun.
+And of course, there were those who simply recharged , sleeping in, catching up on games, and enjoying the rare quiet before diving back into the grind. Now, we’re back at it, picking up where we left off. The Year of the Snake has just begun.

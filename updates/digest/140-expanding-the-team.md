@@ -1,8 +1,10 @@
 ---
 title: "#140 - Expanding the team"
-date: "2022-10-07"
-last_edited: "2025-04-07"
+date: 2022-10-07
+description: null
+last_edited: 2025-04-07
 ---
+
 Apprentices Sharing Highlight
 
 @peeps, another Apprentice sharing has been published lately on our social media.
@@ -27,4 +29,4 @@ We are scaling. This would be a massive focus on the back office with these avai
 - Operation Executive: <https://bit.ly/3RLhmyx>
 - Technical Recruiter: <https://bit.ly/3CgqIN9>
 - Community Executive: <https://bit.ly/3ec7Uq7>
-As we need your help, please spread the message to your network or send your referral to @itsmia.
+  As we need your help, please spread the message to your network or send your referral to @itsmia.

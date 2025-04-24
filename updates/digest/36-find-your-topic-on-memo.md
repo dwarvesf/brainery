@@ -1,8 +1,10 @@
 ---
 title: "#36 - Find Your Topic on Memo"
-date: "2020-08-08"
-last_edited: "2025-04-07"
+date: 2020-08-08
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Tech Radar topics get published externally
 
 Remember those TechRadar researches?

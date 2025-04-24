@@ -1,8 +1,10 @@
 ---
 title: "#73 - Changelog for March and April"
-date: "2021-05-01"
-last_edited: "2025-04-07"
+date: 2021-05-01
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Mar/Apr Changelog
 
 We've just finished another cycle of 2021. Welcome some newbies in Apprenticeship, wrap up some projects, get ready for the new ones; also rolled out the 3rd version of tech radar and work on a hiring solution to ease the workload.

@@ -1,8 +1,10 @@
 ---
 title: "#118 - Apprenticeship Sharing & Updates on April Brainery Inputs & Bao Minh Insurance"
-date: "2022-04-18"
-last_edited: "2025-04-07"
+date: 2022-04-18
+description: null
+last_edited: 2025-04-07
 ---
+
 One last week until we close the openings for Apprenticeship 2022. I’ve gladly received some referrals from the team - which have successfully converted into the new Apprentices. It’s amazing, and we look to meet more of them.
 Please help sharing <https://careers.d.foundation/apprenticeship-2022> and repost the LinkedIn job for further reaching. Thanks y’all 🤜🤛
 
@@ -11,7 +13,7 @@ Happy to load up more inputs for April Brainery, all from @Tom
 - <https://brain.d.foundation/Engineering/Service-based+architecture>
 - <https://brain.d.foundation/Writing/Question+tree>
 - <https://brain.d.foundation/Engineering/C4+diagrams>
-Last week of April is coming. Submit your notes and get ready for the pool awards. Don’t forget, the weekly Radio Talks are also included as well. Just ping thanh if you have a new topic in mind.
+  Last week of April is coming. Submit your notes and get ready for the pool awards. Don’t forget, the weekly Radio Talks are also included as well. Just ping thanh if you have a new topic in mind.
 
 Our Bao Minh Insurance Cards were activated last week. For the list of supported hospitals, please check out DF Bao Minh Insurance: <https://bit.ly/3xzhpa5>
 

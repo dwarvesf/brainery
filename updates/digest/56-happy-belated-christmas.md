@@ -1,8 +1,10 @@
 ---
 title: "#56 - Happy belated Christmas ❄️"
-date: "2020-12-26"
-last_edited: "2025-04-07"
+date: 2020-12-26
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Noel Gift Exchange
 
 We hope you all had fun last night with the whole gift exchange and the dinner treat, not to mention the board game afterwards. Thank you Van & Nam for helping us on the wrapping process. Those cuties boxes deserves a big 👏🏻

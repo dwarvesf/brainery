@@ -1,8 +1,10 @@
 ---
 title: "#113 - Dwarves Sponsor"
-date: "2022-03-12"
-last_edited: "2025-04-07"
+date: 2022-03-12
+description: null
+last_edited: 2025-04-07
 ---
+
 Dwarves Sponsor
 
 We’re resuming Dwarves Brainery since this March. The model stays the same. You share, we honor.
@@ -19,7 +21,7 @@ We’re proud to honor these mates for sharing what they grasp. As you learn and
 - Dwarves Brainery: @khacvy - Blockchain Oracle
 - Dwarves Brainery: @huyg - Deno & MPA, SPA and Partial Hydration
 - March 14 Radio Talk: @lapnn - Monorepo with Turborepo
-Sponsorship for highlight contributions will be sent by the end of each month. And it’s 2 weeks left to see your monthly input. Can’t wait to see more of the likes.
+  Sponsorship for highlight contributions will be sent by the end of each month. And it’s 2 weeks left to see your monthly input. Can’t wait to see more of the likes.
 
 # minigame channel in Discord
 

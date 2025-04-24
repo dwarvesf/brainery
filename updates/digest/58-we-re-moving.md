@@ -1,8 +1,10 @@
 ---
 title: "#58 - We’re Moving"
-date: "2021-01-09"
-last_edited: "2025-04-07"
+date: 2021-01-09
+description: null
+last_edited: 2025-04-07
 ---
+
 by all means, the new cycle and the office location. Last Friday happened with both Engineering Team and Design Team meeting. Hopefully, we all have something to put in the 2021 Roadmap list.
 
 ### Office Migration

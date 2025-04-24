@@ -1,12 +1,14 @@
 ---
 title: "#125 - In Dwarves this week"
-date: "2022-06-17"
-last_edited: "2025-04-07"
+date: 2022-06-17
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Brainery Submission
 
 - Happy to load up more up-to-date crafts. Congratulations for a job well done.
-Conway's law <https://github.com/dwarvesf/brain/pull/26> by @thanh
+  Conway's law <https://github.com/dwarvesf/brain/pull/26> by @thanh
 
 Html inert <https://github.com/dwarvesf/brain/pull/27> by @thanh
 

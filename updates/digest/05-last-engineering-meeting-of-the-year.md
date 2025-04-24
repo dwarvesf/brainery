@@ -1,8 +1,10 @@
 ---
 title: "#05 - Last Engineering Meeting of The Year!"
-date: "2019-12-28"
-last_edited: "2025-04-07"
+date: 2019-12-28
+description: null
+last_edited: 2025-04-07
 ---
+
 ## Last Engineering Meeting of The Year
 
 ---
@@ -41,7 +43,7 @@ We have updated the engineer organization chart in <http://bit.ly/df-org-chart>.
 
 - People to know who they are responsible to mentor and who they should report to.
 - Engineer on the same branch can involve on bettering the working process, to work on the practical solutions and apply that on their current project or working process.
-Huy N is taking trial for the position of Engineering Ops. He will help answer any issues regarding the Engineering team operations just in case you don’t feel great speaking to the Ops team or the C-level.
+  Huy N is taking trial for the position of Engineering Ops. He will help answer any issues regarding the Engineering team operations just in case you don’t feel great speaking to the Ops team or the C-level.
 
 Each team can pick out their topic, technique, language or framework and verify its plausibility. The final result shall be conducted into a seminar to pitch in the next engineering meeting. After the presentation, the idea can be applied as a practice should it has been agreed by the team.
 
@@ -56,7 +58,7 @@ The retreat day will include 3 mains activities
 - Escape Room: a teamwork game in which a group of people are asked to discover the clues, solve the puzzles to figure their way out of a premised situation, in a limited time duration.
 - Jimjilbang: A Korean style spa with sauna included.
 - Year-End Dinner: An intimate buffet dinner to look back our 5 years journey and conduct Dwarves of The Year ceremony.
-Beside that, there are a few more things to wrap up before heading to the next milestone. A detailed itinerary with location and time will be announced by the end of next week.
+  Beside that, there are a few more things to wrap up before heading to the next milestone. A detailed itinerary with location and time will be announced by the end of next week.
 
 Let's count down.
 

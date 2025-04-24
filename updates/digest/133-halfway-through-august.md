@@ -1,7 +1,8 @@
 ---
 title: "#133 - Halfway through August"
-date: "2022-08-14"
-last_edited: "2025-04-07"
+date: 2022-08-14
+description: null
+last_edited: 2025-04-07
 ---
 
 New Dwarves in town

@@ -1,8 +1,10 @@
 ---
 title: "#77 - May All-hands Meeting"
-date: "2021-05-29"
-last_edited: "2025-04-07"
+date: 2021-05-29
+description: null
+last_edited: 2025-04-07
 ---
+
 ### May All-hands Meeting
 
 We’ve had May All-hands meeting last Friday. I’ve upload a detailed changelog and a short slide on woodland message board to keep us on track. It’s the first time we trial the monthly meeting. Running this firm as a software. Software may come with bugs, but it improves through every changelog.

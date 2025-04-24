@@ -1,7 +1,7 @@
 ---
 title: "State of Dwarves: 2024 Semi-annual Review"
 date: 2024-07-04
-description: The past six months have been packed with many improvements to our Discord server from new standards and automation to engaging activities and rewards. Take a moment to reflect on our journey so far, and let's get excited about what we'll accomplish together before the year ends.
+description: "The past six months have been packed with many improvements to our Discord server from new standards and automation to engaging activities and rewards. Take a moment to reflect on our journey so far, and let's get excited about what we'll accomplish together before the year ends."
 authors:
   - innno_
   - nikki
@@ -11,6 +11,7 @@ tags:
   - team
   - community
 ---
+
 In the past six months, we've made some pretty impressive strides in testing new standards and adding more automation, activities, and rewards to our Discord server to foster a supportive community among tech lovers.
 
 Take a moment to reflect on our journey so far, and let's get excited about what we'll accomplish together before the year ends.
@@ -21,7 +22,7 @@ Take a moment to reflect on our journey so far, and let's get excited about what
 
 ### Organized offline meet-up
 
-Our Year-End Party (YEP) was the first offline meet-up that set the tone for future gatherings,  where peeps can connect in person with like-minded people. Building on its success, we hosted our second Ho Chi Minh City meetup on May 31st.
+Our Year-End Party (YEP) was the first offline meet-up that set the tone for future gatherings, where peeps can connect in person with like-minded people. Building on its success, we hosted our second Ho Chi Minh City meetup on May 31st.
 
 Over 50 enthusiastic members joined us for a night of tech talks, and all-around good vibes. It was an opportunity to connect with our community in person and share our passion for technology.
 
@@ -38,7 +39,7 @@ Long Bui Van (@longddl) has published helpful notes on data pipelines and learni
 
 @jack collaborated with @phucld on [How to bridge $DFG from Ethereum Mainnet to Base Network for staking.](https://memo.d.foundation/playground/01_literature/how-to-transfer-dfg-from-eth-to-base-for-staking/)
 
-Additionally, several other members have made noteworthy contributions from @tom, @hnh, @vincent, @bienvh, @innno_, @nikki, @huytq, @minhlq, @nhuthm, @hieuthu1, @antran, @ngocthanh, @thanh, @minh_cloud, @minh, @truongquoctuan, @tristran, @anna, @nambui, @tay, @datpv, @datnguyennnx, @nam, @taipn, @hoangnnh, @lapnn, @hieuthu2, @huymaius, @phucld for keeping our server active and full of great content.
+Additionally, several other members have made noteworthy contributions from @tom, @hnh, @vincent, @bienvh, @innno\_, @nikki, @huytq, @minhlq, @nhuthm, @hieuthu1, @antran, @ngocthanh, @thanh, @minh_cloud, @minh, @truongquoctuan, @tristran, @anna, @nambui, @tay, @datpv, @datnguyennnx, @nam, @taipn, @hoangnnh, @lapnn, @hieuthu2, @huymaius, @phucld for keeping our server active and full of great content.
 
 ![](assets/2024-state-of-dwarves-semi-annual-review-community.webp)
 

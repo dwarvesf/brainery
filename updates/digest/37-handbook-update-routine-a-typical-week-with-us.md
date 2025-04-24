@@ -1,8 +1,10 @@
 ---
 title: "#37 - Handbook update: Routine/ A typical week with us"
-date: "2020-08-15"
-last_edited: "2025-04-07"
+date: 2020-08-15
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Handbook update: Routine
 
 As mentioned earlier last week, we have finished a walk through for A typical week with the Dwarves. It’s a small section in our Handbook, describing how our day usually transpires. This also an expectation for our soon-to-be Dwarves, getting to know the team and other things beside client projects.

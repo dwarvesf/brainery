@@ -1,8 +1,10 @@
 ---
 title: "#137 - This Week’s Highlight"
-date: "2022-09-15"
-last_edited: "2025-04-07"
+date: 2022-09-15
+description: null
+last_edited: 2025-04-07
 ---
+
 Featuring Hidden Bar in your Mac
 
 One of our bits - Hidden Bar has made its way to the top 10 Mac Menu bar options by Apple Store review, thanks to the hard work of @phucld and @Trung.

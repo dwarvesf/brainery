@@ -1,8 +1,10 @@
 ---
 title: "#44 - Latest Adoption: API New Practice & Hubspot"
-date: "2020-10-10"
-last_edited: "2025-04-07"
+date: 2020-10-10
+description: null
+last_edited: 2025-04-07
 ---
+
 ### New Practice: API Naming Convention
 
 A webinar on our latest practice: API Naming Convention, had just been conducted last Friday. As a part of upgrading our standard in doing tech, having a formatted API naming convention helps manage API documentation and makes it easier for project switching.

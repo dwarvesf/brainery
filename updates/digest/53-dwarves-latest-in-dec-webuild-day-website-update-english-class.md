@@ -1,8 +1,10 @@
 ---
 title: "#53 - Dwarves Latest in Dec: WeBuild Day, Website update & English Class"
-date: "2020-12-05"
-last_edited: "2025-04-07"
+date: 2020-12-05
+description: null
+last_edited: 2025-04-07
 ---
+
 We all heard of some mfs messed up the community safety by bringing Covid back, but things are getting dealt with now. We still got the latest on Covid-19 updated here, pls input if you have any news. Stay tuned & stay safe.
 
 ### Artzy Production
@@ -24,8 +26,7 @@ We partnered with The Library Project as a technical supporter for their librari
 Our website got some updated in the past week
 
 - Full development of CSR work, with update on our partnership with The Library Project and Webuild Community
-![](assets/notion-image-1744007134784-26s3o.webp)
-
+  ![](assets/notion-image-1744007134784-26s3o.webp)
 
 ### English Class
 

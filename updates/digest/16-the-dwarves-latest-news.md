@@ -1,8 +1,10 @@
 ---
 title: "#16 - The Dwarves Latest News"
-date: "2020-03-21"
-last_edited: "2025-04-07"
+date: 2020-03-21
+description: null
+last_edited: 2025-04-07
 ---
+
 ## The Dwarves Latest News
 
 ---
@@ -45,4 +47,4 @@ Let's have a hand to welcome these newbies onboard!
 
 - Le Xuan Nha - Frontend Engineer
 - Tran Tri Tin - Data Engineer
-Hope to see the good achievements and may we share many great moments together 🤙!
+  Hope to see the good achievements and may we share many great moments together 🤙!

@@ -1,8 +1,10 @@
 ---
 title: "#39 - July/August Cycle review"
-date: "2020-08-29"
-last_edited: "2025-04-07"
+date: 2020-08-29
+description: null
+last_edited: 2025-04-07
 ---
+
 Short reminder: Please fill out your address for Mid-Autumn gift set, though I can clearly see everyone has taken this office as their pick-up point. #côngtylànhà 👀
 
 ### July/ August Cycle Review
@@ -103,4 +105,4 @@ This year’s National Day falls in a Wednesday, as we’re pleased to inform wi
 
 - Leave: 02/09/2020 (Wednesday)
 - Return to work: 03/09/2020 (Thursday)
-Hope it’s a great 24hrs ahead for you all to enjoy to the fullest 🤙🏽
+  Hope it’s a great 24hrs ahead for you all to enjoy to the fullest 🤙🏽

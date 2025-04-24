@@ -1,5 +1,5 @@
 ---
-title: What's New in August 2024
+title: "What's New in August 2024"
 date: 2024-09-06
 description: Each month, we release a recap highlighting key updates and progress within our team and community. August updates highlight AI tools, enhanced community discussions, the sum command upgrade, Go enterprise MOC insights, and earning dfg tokens through contributions.
 authors:
@@ -11,7 +11,7 @@ tags:
 ---
 
 - [**Reporting tech signal:**](#reporting-tech-signal-ais-impact-on-programming-and-new-opportunities) How AI tools like Cursor and Claude 3.5 Sonnet are changing programming, with insights on generative apps, prompt caching, and structured outputs.
-- [**Community activities:**](#community-engagement-memo-notes-ogif-office-hours-and-tech-discussions) Increased discussions in the  [**💻・tech**](https://discord.com/channels/462663954813157376/810481888619135046/1281086341995565057), [**💡・til**](https://discord.com/channels/462663954813157376/1001883339046797342/1281097209072320615) channels. Shoutouts to key contributors from the team and community for their involvement.
+- [**Community activities:**](#community-engagement-memo-notes-ogif-office-hours-and-tech-discussions) Increased discussions in the [**💻・tech**](https://discord.com/channels/462663954813157376/810481888619135046/1281086341995565057), [**💡・til**](https://discord.com/channels/462663954813157376/1001883339046797342/1281097209072320615) channels. Shoutouts to key contributors from the team and community for their involvement.
 - [**Upgrading the `sum` command:**](#link-summaries-with-sum-command) The `sum` command now delivers faster summaries with key points and nuggets of knowledge. Thanks to Nam and Tom for the upgrade.
 - [**Golang enterprise MOC:**](#go-enterprise-solutions-and-what-weve-learned) Phat Nguyen compiled the Go Enterprise MOC, giving us deeper insights into how we're tackling enterprise challenges with Golang.
 - [**dfg token:**](#dfg-token-earn-by-contributing) The dfg token can now be earned through team contributions, tracked by ICY in team activities.
@@ -43,7 +43,7 @@ Practical insights are brought to the table, and we work through them together, 
 
 Plus, there's a new Fortress bot feature to check available ICY for grabbing, making it easier to see what's up for grabs.
 
-Big thanks to the contributions from both the team and community: @tom, @lapnn, @theoctopus, @minhlq, @taipham, @vincent, @phucld, @julis, @antran, @innno_, @minh_cloud, @bienvh, @huymaius, @huytq, @datnguyennnx, @nam, @hieuthu1, @tristran.
+Big thanks to the contributions from both the team and community: @tom, @lapnn, @theoctopus, @minhlq, @taipham, @vincent, @phucld, @julis, @antran, @innno\_, @minh_cloud, @bienvh, @huymaius, @huytq, @datnguyennnx, @nam, @hieuthu1, @tristran.
 
 Here's what we covered in August:
 

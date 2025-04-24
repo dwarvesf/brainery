@@ -1,8 +1,10 @@
 ---
 title: "#46 - How we level up project status tracking"
-date: "2020-10-24"
-last_edited: "2025-04-07"
+date: 2020-10-24
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Bi-weekly Summary Done Log
 
 A summary of what we have done every two weeks for clients to catchup with the progress. Huy’s handling this by adding labels for each to-do, we can backup done to-dos from all source into one place and create a done list based on it.

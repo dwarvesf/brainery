@@ -1,8 +1,10 @@
 ---
 title: "#98 - October Changelog: Consulting, Foundation & New Engineering Setup"
-date: "2021-10-31"
-last_edited: "2025-04-07"
+date: 2021-10-31
+description: null
+last_edited: 2025-04-07
 ---
+
 Greetings from Ops, I know it's a bit late, but I promise to keep this short and to the point - like our latest All-hands 🌿
 
 ### CONSULTING
@@ -51,11 +53,11 @@ That's a wrap for October! 2 months left to finish 2021. Idk about you, but I'm 
 - Descriptive & work scope related.
 - Match the company employee existing status
 - Solicit participate from the team to gather feedback
-2/ One-on-One Mentoring
+  2/ One-on-One Mentoring
 
 - 1-1 mentor will be adopted as part of our culture. Happens regularly.
 - Knowledge input will be converted into 101 training
 - Publish: "How we 1:1s" to DF's handbook
-Nam has finished setting up for Techie Story's place on Vietcetera - and landed a spot in Build.Launch.Grow Discord Server. We road to spread the inspiring stories further - especially in tech startups & blockchain technology.
+  Nam has finished setting up for Techie Story's place on Vietcetera - and landed a spot in Build.Launch.Grow Discord Server. We road to spread the inspiring stories further - especially in tech startups & blockchain technology.
 
 WeBuild Community is moving to Discord. Apart from that, we're giving PR support for different tech events. GDG DevFest & Lazada The Geek Speaks are currently running.

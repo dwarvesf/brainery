@@ -1,8 +1,10 @@
 ---
 title: "#32 - Drop your next goal in Cycle Planning"
-date: "2020-07-11"
-last_edited: "2025-04-07"
+date: 2020-07-11
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Cycle Planning: July-August 2020
 
 After the Cycle Report and the part retreat last week, some of us have collected and decided what will happen in the next cycle. We have a short wrap-up at the comment below this message. The main theme we’re heading to would be Partnership Expansion and Tech Upgrade.
@@ -29,4 +31,3 @@ With the support of Nam, Khiem & Phat, the meetup got wrapped up nicely, conduct
 
 - Microservices: created by Chuong Nguyen, Senior Software Engineer at VNG
 - Effective Go: created by Khiem Vo, yes. our Khiem Vo
-

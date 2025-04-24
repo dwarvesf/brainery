@@ -1,8 +1,10 @@
 ---
 title: "#127 - Closing June"
-date: "2022-07-01"
-last_edited: "2025-04-07"
+date: 2022-07-01
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Engage to Earn Boost
 
 Our Discord has just announced the latest move - resuming the #starboard.
@@ -19,19 +21,19 @@ In case you have any questions, ping @thanh or @thuongptt in advance.
 
 ### Shipping out June Brainery Reward
 
- Succeeding the previous notes, let’s have a look at three new inputs for June Brainery
+Succeeding the previous notes, let’s have a look at three new inputs for June Brainery
 
 - Blockchain: Anchor framework <https://github.com/dwarvesf/brain/pull/40> by @ngocthanh
 - Engineering: finite-state transducers + mealy and moore machines <https://github.com/dwarvesf/brain/pull/41> by @Tom
 - Engineering: domain model in DDD <https://github.com/dwarvesf/brain/pull/42> by @Jim
-Your June reward is on the way and July Brainery is looking for contributors. Can’t wait to see more next month.
+  Your June reward is on the way and July Brainery is looking for contributors. Can’t wait to see more next month.
 
 Another All Hands Meeting just ended - team's monthly catch-up and planning session. The outline was as usual:
 
 - Foundation: Internal Team Update & Development
 - Project Updates and Business Direction
 - Tech Growth
-Notes were updated at: <https://bit.ly/3y8pmBV>. It's a long one but we really hope you'll read it all the way through. Appreciate you sticking with us all the way.
+  Notes were updated at: <https://bit.ly/3y8pmBV>. It's a long one but we really hope you'll read it all the way through. Appreciate you sticking with us all the way.
 
 Get tired of collecting breaking news? Dwarves News is exclusive for y’all. Publishing every Friday with sum up of the most major stories, click the following button at <https://www.linkedin.com/company/dwarvesf> to get notified.
 

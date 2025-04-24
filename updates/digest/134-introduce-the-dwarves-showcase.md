@@ -1,8 +1,10 @@
 ---
 title: "#134 - Introduce the Dwarves Showcase"
-date: "2022-08-21"
-last_edited: "2025-04-07"
+date: 2022-08-21
+description: null
+last_edited: 2025-04-07
 ---
+
 New Merchandise Kit
 
 Last week, we surveyed Dwarves' desire for a new merchandise kit. Several items have received considerable attention. Please support filling out the form (<https://forms.gle/tvD2otNyE78KMc6FA>) and don't hesitate to give your ideas so that we can realize your wishes as soon as possible.

@@ -1,8 +1,10 @@
 ---
 title: "#12 - Hitting the first milestone of Tech Radar"
-date: "2020-02-22"
-last_edited: "2025-04-07"
+date: 2020-02-22
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Team Status Update 📢
 
 You may recall the last All Hands meeting where many of our action items got blocked and created a bunch of mess. It's been 2 months since then and we can't help but notice that the team is gradually getting back on track

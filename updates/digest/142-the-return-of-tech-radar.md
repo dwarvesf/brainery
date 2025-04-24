@@ -1,8 +1,10 @@
 ---
 title: "#142 - The return of Tech Radar"
-date: "2022-11-21"
-last_edited: "2025-04-07"
+date: 2022-11-21
+description: null
+last_edited: 2025-04-07
 ---
+
 # 142 - The return of Tech Radar
 
 @peeps If you didn't know, now you do. After a short break, Tech Radar is back with its 4th edition.
@@ -25,7 +27,7 @@ Tech Events
 
 <https://youtu.be/D-gcq3kZA28>
 
-• The ask: if you have anyone / anything want to talk to /  cover, let the Communication team know. We’ll try our best to make it happen. Simply open a ticket in 🎫・community-support-ticket or ping @nikki directly World Cup Season
+• The ask: if you have anyone / anything want to talk to / cover, let the Communication team know. We’ll try our best to make it happen. Simply open a ticket in 🎫・community-support-ticket or ping @nikki directly World Cup Season
 
 • Almost a tradition, we try to have fun with World Cup. @thanh and @hnh are working up a scheme for us to place bets supporting our fav football teams and engage with other Dwarves. Wild
 
@@ -40,4 +42,4 @@ Last but not least,
 • @itsmia decided to embark on a new journey, meaning she had to part ways with Dwarves for the time being. Goodbyes don’t have to be sad, as we’re happy knowing she’s pursuing exciting things everyday.
 • Duy, thank you for everything you have done at Dwarves, you will always be a friend to us all. Keep on shining.
 
-Til next time     ᕕ(✧◞ ✧)ᕗ
+Til next time ᕕ(✧◞ ✧)ᕗ

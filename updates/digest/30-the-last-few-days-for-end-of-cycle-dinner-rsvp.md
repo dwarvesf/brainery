@@ -1,8 +1,10 @@
 ---
 title: "#30 - The Last Few Days for End of Cycle Dinner RSVP"
-date: "2020-06-27"
-last_edited: "2025-04-07"
+date: 2020-06-27
+description: null
+last_edited: 2025-04-07
 ---
+
 ### New UI Setup for Dwarves Website/ Our Work
 
 A few last touches have been added to perfect our Work Section. We have adjusted the content structure, added up some new case studies and re-designed the whole layout. This helps the potential client to understand more about our experience in various way, and log back our previous work for the junior to catch up.

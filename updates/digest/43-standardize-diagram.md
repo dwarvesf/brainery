@@ -1,7 +1,8 @@
 ---
 title: "#43 - Standardize tech progress: Diagram"
-date: "2020-10-03"
-last_edited: "2025-04-07"
+date: 2020-10-03
+description: null
+last_edited: 2025-04-07
 ---
 
 ### Standardize tech progress: Diagram
@@ -12,7 +13,7 @@ I also found some articles on Medium while searching on this Markdown diagram to
 
 - Create Charts & Diagram using Markdown-like Syntax
 - Making Diagram Fun with Mermaid
-Heard that they are working on the logging (a well-defined process to track what happens in the system) and monitoring (how we implement the application-specific checks to monitor the overall status of the application health). The latest update will be put at dwarvesf/playbook/engineering.
+  Heard that they are working on the logging (a well-defined process to track what happens in the system) and monitoring (how we implement the application-specific checks to monitor the overall status of the application health). The latest update will be put at dwarvesf/playbook/engineering.
 
 ### News Dwarves join the team
 

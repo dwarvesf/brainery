@@ -1,8 +1,10 @@
 ---
 title: "#45 - Sentry Adoption, Website Upgrade & Projects Output"
-date: "2020-10-17"
-last_edited: "2025-04-07"
+date: 2020-10-17
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Adoption on new Monitoring stack
 
 Last Friday featured a short webinar by Huy & Quang on an adoption of a monitoring stack to keep us stay abreast of the application’s status.

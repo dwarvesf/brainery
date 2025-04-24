@@ -1,7 +1,8 @@
 ---
 title: "#132 - The first week of August"
-date: "2022-08-06"
-last_edited: "2025-04-07"
+date: 2022-08-06
+description: null
+last_edited: 2025-04-07
 ---
 
 Welcome and kudos

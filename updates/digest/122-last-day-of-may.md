@@ -1,7 +1,8 @@
 ---
 title: "#122 - Last day of May"
-date: "2022-05-31"
-last_edited: "2025-04-07"
+date: 2022-05-31
+description: null
+last_edited: 2025-04-07
 ---
 
 Another month has passed. But it feels like April dinner was just yesterday.

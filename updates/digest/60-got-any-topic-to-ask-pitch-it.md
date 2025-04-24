@@ -1,8 +1,10 @@
 ---
 title: "#60 - Got any topic to ask? Pitch it"
-date: "2021-01-23"
-last_edited: "2025-04-07"
+date: 2021-01-23
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Pitch your next Topic
 
 Tri, like other newbies, got a bit confused distinguishing us with other outsources companies. We brought the #2 episode of Radio talk with “Startup”, through the point of view from Minh, Tay, Khai & Giang. The full recap can be found at Dwarves Memo: Startup.
@@ -38,7 +40,7 @@ New Mac-Book Pro Models to Flat-Edged Design
 
 Apple analyst Ming-Chi Kuo has lately announced the company’s next move on revamping the MacBook Pro’s design. As Kuo claimed, “It’ll be not much different from holding an iPhone 12 in
 
-14 and 16-inch size options”.  This designed is also promised to have more additional USB-C ports, as user no longer need to purchase dongle for ports supplement.
+14 and 16-inch size options”. This designed is also promised to have more additional USB-C ports, as user no longer need to purchase dongle for ports supplement.
 
 The new social without Trump
 

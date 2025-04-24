@@ -1,7 +1,8 @@
 ---
 title: "#69 - Closing March"
-date: "2021-04-03"
-last_edited: "2025-04-07"
+date: 2021-04-03
+description: null
+last_edited: 2025-04-07
 ---
 
 ### Team Expansion

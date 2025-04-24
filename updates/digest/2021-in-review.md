@@ -11,6 +11,7 @@ tags:
   - newsletter
   - wrap-up
 ---
+
 Started with 3 engineers working in different coffee shops because we didn't have an office back then, we are gearing up for the second coming in our journey with over 40 clients and partners worldwide, +1M lines of code later throughout more than 7 years.
 
 It's like building software - we call it Dwarves 2.0 - our latest major movement.
@@ -74,7 +75,7 @@ Though the Dwarves can work anywhere they want, we still have offices in 3 diffe
 
 - **HCM**: Our first official office, sitting in the heart of HCM
 - **Dalat**: The built-in-office cafe intended for work-cations. Whenever our engineers feel like getting away from bustling cities, they can spend their days here. Our clients and partners are welcomed too.
-- **Hanoi** (*coming very soon*): An office located in the tech district of the capital of Vietnam helps us be more available for more talents in the country.
+- **Hanoi** (_coming very soon_): An office located in the tech district of the capital of Vietnam helps us be more available for more talents in the country.
 
 ![](assets/2021-in-review_2021-danang-office.webp)
 

@@ -1,5 +1,5 @@
 ---
-title: What's New in June 2024
+title: "What's New in June 2024"
 date: 2024-07-04
 description: In June, we expanded our knowledge base on software design, LLMs, and blockchain, while actively encouraging knowledge-sharing through increased ICY rewards. Our Vietnam Tech Scene report highlighted key industry players, and weekly OGIF talks fostered discussions on diverse tech topics like design patterns, data modalities, and blockchain architecture
 authors:
@@ -10,6 +10,7 @@ tags:
   - memo
   - community
 ---
+
 - [**memo.d.foundation**](#the-growing-of-memo-pile): more entries focusing on software design, LLM and blockchain, a key focus of our continuous learning journey.
 - [**Increased ICY Rewards**](#enable-reward-for-the-learning-system): the increasing amount of fleeting notes boosted our learning reward system.
 - [**Dwarves Token Usage**](#dwarves-token-usage-for-june): our community's exceptional engagement led to ~500 ICY rewarded for contributions, with notable efforts in OGIF talks, tech sharing, and Memo notes.
@@ -40,7 +41,7 @@ With the focus on Mastery, Meaning, and Autonomy (MMA) has driven significant gr
 14. [A tour of Singleton design pattern with Golang](https://memo.d.foundation/playground/01_literature/singleton-design-pattern/) - [@anhnh](https://github.com/anhnh12)
 15. [Going through use cases of the prototype design pattern and it place among the creational pattern](https://memo.d.foundation/playground/01_literature/prototype-design-pattern/) - [@.rjim](https://github.com/R-Jim)
 16. [Introduce builder pattern and its use cased](https://memo.d.foundation/playground/01_literature/builder-design-pattern/) by [@vincent](https://github.com/tuanddd)
-17. [Explaining gradient descent in ML](https://memo.d.foundation/playground/00_fleeting/explaining-gradient-descent-in-machine-learning-with-a-simple-analogy/) - [@innno_](https://github.com/innnotruong)
+17. [Explaining gradient descent in ML](https://memo.d.foundation/playground/00_fleeting/explaining-gradient-descent-in-machine-learning-with-a-simple-analogy/) - [@innno\_](https://github.com/innnotruong)
 
 ![](assets/2024-whats-new-june-memo.webp)
 
@@ -76,7 +77,7 @@ In June alone, ~500 ICY were rewarded for all contributions, highlighting:
 With notable contributors:
 
 - OGIF talks: @hieuvd, @hoangnnh, @anhnh, @jim, @taipn
-- Tech Sharing: @tom, @innno_, @bienvh, @huytq
+- Tech Sharing: @tom, @innno\_, @bienvh, @huytq
 - Memo: @thanh, @huymaius, @hoangnnh, @jim, @hieuvd
 
 Kudos to those peeps who are top contributors, @hieuvd, @thanh, @tom.
@@ -91,7 +92,7 @@ We have discussed:
 - [Design pattern: State vs Strategy](https://memo.d.foundation/playground/01_literature/state-pattern/) by @jim, @anhnh
 - [How to make MOC (content map)](https://memo.d.foundation/playground/01_literature/how-to-make-a-moc/) by @thanh
 - [Template method](https://memo.d.foundation/playground/01_literature/template-method-design-pattern/) & [Visitor radix sort](https://memo.d.foundation/playground/01_literature/radix-sort/) by @anhnh, @taipn
-- [Go Weekly: Mastering Go performance](https://memo.d.foundation/playground/00_fleeting/go-weekly-510/)  by @phatnt
+- [Go Weekly: Mastering Go performance](https://memo.d.foundation/playground/00_fleeting/go-weekly-510/) by @phatnt
 - [Solana core concepts](https://memo.d.foundation/playground/01_literature/solana-core-concepts/) by @huymaius
 - [Multimodal in RAG](https://memo.d.foundation/playground/01_literature/Engineering/AI/multimodal-in-rag/) by @hoangnnh
 

@@ -1,16 +1,17 @@
 ---
 title: "Weekly Digest #13: More than lines of code"
-short_title: "#13 More than lines of code"
 date: 2024-07-20
 description: "Welcome to this week's edition of our roundup, where we highlight the moments that make us more than just lines of code. This week, we're jet-setting around the world with our team's summer adventures, introducing new memo features, cheering for a beloved teammate's new chapter in the US, and celebrating new born. From beachside workspaces to anime figurine collections, we've got it all."
 authors:
   - innno_
+short_title: "#13 More than lines of code"
 tags:
   - memo
   - team
   - remote
   - weekly-digest
 ---
+
 Welcome to this week's edition of our roundup, where we highlight the moments that make us more than just lines of code. This week, we're jet-setting around the world with our team's summer adventures, unveiling new memo features, and cheering for a beloved teammate's new chapter in the US. From beachside workspaces to anime figurine collections, we've got it all.
 
 ### Memo submission and boosting team contributions
@@ -45,7 +46,6 @@ As you all saw in the lobby last Friday, we had our final team dinner with @hieu
 He was always a caring presence at Hado, a fantastic cook, and a friend who joined us on afternoon walks after work, always connecting everyone on the team. We wish you all the best on your new adventure and don't forget to call us.
 
 ![](assets/13-more-than-lines-of-code-farewell.webp)
-
 
 ### Celebrating the newborn
 

@@ -1,5 +1,5 @@
 ---
-title: What's New in December 2021
+title: "What's New in December 2021"
 date: 2022-01-06
 description: Each month, we release a recap noting all the significant changes with our company and our team. December 2022 will go over our growth in blockchain, team members, upgrade on the benefits packages.
 authors:
@@ -10,6 +10,7 @@ tags:
   - blockchain
   - doty
 ---
+
 ### Moving with Blockchain
 
 We shift our focus to real deals.
@@ -25,7 +26,6 @@ The teammates also propose to join blockchain projects. We're happy to onboard H
 It's a promise of bigger clients & better team deployment.
 
 We were able to drop the long-term projects that no longer match our business direction; successfully committed to **deploying a minimum of 3 Dwarves** for almost all remaining projects. With this change, we also **increased the headcount rate** as we believe it should grow alongside our ability to deliver.
-
 
 ### And The Attached Benefits
 

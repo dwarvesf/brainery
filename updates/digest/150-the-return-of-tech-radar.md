@@ -1,8 +1,10 @@
 ---
 title: "#150 - The Return of Tech Radar"
-date: "2023-02-20"
-last_edited: "2025-04-07"
+date: 2023-02-20
+description: null
+last_edited: 2025-04-07
 ---
+
 # 150 - The return of Tech Radar
 
 Hey there @peeps. Did everyone have a retreat weekend? Another highlight of Monday Changelog will reflect on everything we've accomplished just over the week!

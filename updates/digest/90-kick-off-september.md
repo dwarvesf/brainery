@@ -1,8 +1,10 @@
 ---
 title: "#90 - Kick-off September"
-date: "2021-09-04"
-last_edited: "2025-04-07"
+date: 2021-09-04
+description: null
+last_edited: 2025-04-07
 ---
+
 Hi folks, just wanna welcome y'all back from the Holiday, though the lockdown makes it no difference from typical days. Those discord channels are still pumped with active messages. 🥲
 
 Performance review has finished. I'm delighted to note down the progress you've all made. It's great to see both team growth and personal growth. The Ops team is finalizing those confirmation emails. Reaching your inbox in short.

@@ -1,8 +1,10 @@
 ---
 title: "#10 - The 3rd Milestone of Tech Radars"
-date: "2020-02-08"
-last_edited: "2025-04-07"
+date: 2020-02-08
+description: null
+last_edited: 2025-04-07
 ---
+
 ## The 3rd Milestone of Tech Radars
 
 ---
@@ -26,7 +28,7 @@ We also allocate the PICs for each task:
 - Lead: Huy Nguyen
 - Run campaign: Duy Nguyen, Van Nguyen
 - Trainer/Mentor: Minh Luu , Duong Pham, Huy Giang, Thanh Pham, ... (TBC)
-You can find a detailed plan at this message. We're still in need of some hands to perfect this. Please give Huy or Duy a ping should you find anything that can be added or improved.
+  You can find a detailed plan at this message. We're still in need of some hands to perfect this. Please give Huy or Duy a ping should you find anything that can be added or improved.
 
 ### Team Bonding Activity Survey 📋
 
@@ -40,7 +42,7 @@ On last Monday, Feb 3rd, we were thrilled to welcome two more Dwarves to join ou
 
 - Vu Nguyen as Front-end Engineer
 - Lufty Abdillah as Back-end Engineer
-We look forward to a fun ride with you guys 👏 Welcome abroad!
+  We look forward to a fun ride with you guys 👏 Welcome abroad!
 
 ![](assets/notion-image-1744007171011-8nn4h.webp)
 

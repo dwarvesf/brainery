@@ -1,8 +1,10 @@
 ---
 title: "#34 - Dwarves Updates"
-date: "2020-07-25"
-last_edited: "2025-04-07"
+date: 2020-07-25
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Company Culture Code
 
 After weeks of drafting and editing, we have finished a presentation slide for our Culture Code. Still, we’re heading for a hard copy. And yes soon to be displayed in a glass surface case at our office. Until then, this online version was summarized for main point to use internally and for onboarding purpose.

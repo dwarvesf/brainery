@@ -1,8 +1,10 @@
 ---
 title: "#89 - Picking up LinkedIn Profiles"
-date: "2021-08-28"
-last_edited: "2025-04-07"
+date: 2021-08-28
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Basecamp Updates
 
 If you don't know, we can use Track extension to enable Kanban in Basecamp. And Han has forced every board using the same terminology for column. They are
@@ -12,14 +14,13 @@ If you don't know, we can use Track extension to enable Kanban in Basecamp. And 
 - In Progress
 - Review/QA
 - Completed
-![](assets/notion-image-1744006949728-hta1u.webp)
+  ![](assets/notion-image-1744006949728-hta1u.webp)
 
 ### Picking up LinkedIn profiles
 
 A small gift was given to employees who takes their LinkedIn profiles to a higher level. Congrats and thank you for your extra effort 👾
 
 We strongly encourage y'all to adopt this practice. Keeping LinkedIn stay professional is how we let people know this team is made from impactful teammates.
-
 
 ### Brainery: Completed Git flow
 
@@ -35,4 +36,4 @@ Last but not least, the final holiday of 2021 🥲 - We're taking our National D
 
 - Leave: 02/09/2021 - 03/09/2021 (Thursday and Friday)
 - Return to work on 06/09/2021 (Monday)
-Enjoy.
+  Enjoy.

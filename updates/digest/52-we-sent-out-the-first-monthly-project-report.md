@@ -1,8 +1,10 @@
 ---
 title: "#52 - We sent out the first Monthly Project Report"
-date: "2020-11-28"
-last_edited: "2025-04-07"
+date: 2020-11-28
+description: null
+last_edited: 2025-04-07
 ---
+
 Seem like our current projects are going smoothly. The workload stays steady and no update on resources adjustment.
 
 ### Monthly Report
@@ -27,7 +29,7 @@ After days of searching, Van has finally founded the next place for our year-end
 
 ### WeBuild Day
 
-WeBuild Day will occur on Saturday, December 12th - which is only two weeks from now.  We’ll hold the event at Block71 Saigon, a brand new event location in district 2.
+WeBuild Day will occur on Saturday, December 12th - which is only two weeks from now. We’ll hold the event at Block71 Saigon, a brand new event location in district 2.
 
 ![](assets/notion-image-1744007136511-ne17t.webp)
 

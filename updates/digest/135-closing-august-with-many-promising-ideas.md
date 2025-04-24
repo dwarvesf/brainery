@@ -1,8 +1,10 @@
 ---
 title: "#135 - Closing August with many promising ideas"
-date: "2022-08-26"
-last_edited: "2025-04-07"
+date: 2022-08-26
+description: null
+last_edited: 2025-04-07
 ---
+
 All-hands meeting 31/8
 
 Another exciting and productive month has come and gone. As usual, we will gather and talk about the month's progress. Please make arrangements to attend the August All-hands meeting on 31/8/2022 at 5 p.m on the #open voice. Team dinner will also be held shortly after.

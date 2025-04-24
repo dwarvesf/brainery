@@ -1,16 +1,17 @@
 ---
-title: 'Weekly Digest #2: Walk around learn around'
-short_title: '#2 Walk around learn around'
-date: 2024-04-15T00:00:00.000Z
+title: "Weekly Digest #2: Walk around learn around"
+date: 2024-04-15
 description: There are so many amazingly fun and wonderfully weird things happening on Discord, both last week and of course, today. So let’s dive in with a freshly-brewed “cà phê sữa,” of course.
 authors:
   - innno_
+short_title: "#2 Walk around learn around"
 tags:
   - weekly-digest
   - remote
   - discord
   - community
 ---
+
 There are so many amazingly fun and wonderfully weird things happening on Discord, both last week and of course, today. So let’s dive in with a freshly-brewed “cà phê sữa,” of course.
 
 If you’ve stumbled upon this article, you’re welcome to spark activity within our Discord community. So take a peek once in a while and see what’s new, just come in and say ‘hi’ with us.
@@ -23,7 +24,7 @@ Our COO @nikki sparked a lively discussion by snapping a pic of a battery that l
 
 ### Walk around learn around
 
-Last Wednesday, the Hado office crew @nam, @hieuthu1, @vincent, @innno_ decided to shake things up with an offline WALA session. Our primary goal? A visit to the Nha Nam bookstore to get our hands on copies of "Dune Messiah." Of course, the secondary goal was the WALA itself. Little did we know it would turn into a mini-adventure. Finally, we surpassed the 10km target - a delightful bonus to a fulfilling day of friendship.
+Last Wednesday, the Hado office crew @nam, @hieuthu1, @vincent, @innno\_ decided to shake things up with an offline WALA session. Our primary goal? A visit to the Nha Nam bookstore to get our hands on copies of "Dune Messiah." Of course, the secondary goal was the WALA itself. Little did we know it would turn into a mini-adventure. Finally, we surpassed the 10km target - a delightful bonus to a fulfilling day of friendship.
 
 ![wala](assets/2-walk-around-learn-around_2024-weekly-digest-april-15_2024-digest-7.webp)
 

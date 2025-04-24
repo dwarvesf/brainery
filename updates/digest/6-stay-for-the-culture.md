@@ -1,17 +1,18 @@
 ---
 title: "Weekly Digest #6: Come for the conversation, stay for the culture"
-short_title: "#6 Come for the conversation, stay for the culture"
 date: 2024-05-23
 description: "Hi, it’s @innno again. Summer is almost here. But don't worry, this update is all about making your day more comfortable. Now, onto this week’s updates."
 authors:
   - innno_
+short_title: "#6 Come for the conversation, stay for the culture"
 tags:
   - weekly-digest
   - discord
   - community
   - team
 ---
-Hi, it’s @innno_ again. Summer is almost here. But don't worry, this update is all about making your day more comfortable. Now, onto this week’s updates.
+
+Hi, it’s @innno\_ again. Summer is almost here. But don't worry, this update is all about making your day more comfortable. Now, onto this week’s updates.
 
 ### Get Ready for the Community Meet-Up Extravaganza
 
@@ -41,7 +42,7 @@ In other exciting news, we've had some changes in our operations structure. @hnh
 
 ### Hado Office Buzz: The More, the Merrier
 
-Things are buzzing at HadoHQ these days. We've got a full house with our Saigon regulars @hieuthu1, @innno_, and @vincent holding down the fort, and @taipham gracing us with his presence more often. It's like a family reunion every month.
+Things are buzzing at HadoHQ these days. We've got a full house with our Saigon regulars @hieuthu1, @innno\_, and @vincent holding down the fort, and @taipham gracing us with his presence more often. It's like a family reunion every month.
 
 Last Friday was no exception, with the crew joined by the legendary @thanh.pham, @datpv, @hieuvd and the new intern @datnguyennnx. What a lineup!
 

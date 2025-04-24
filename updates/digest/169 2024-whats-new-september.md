@@ -1,7 +1,7 @@
 ---
-title: What's New in September 2024
+title: "What's New in September 2024"
 date: 2024-10-01
-description: Each month, we roll out a recap of our team and community's strides forward. September's updates spotlight the AI Club launch, rewards for our sharing culture, hybrid work check-ins, reporting tech trends in forward engineering, and our Mid-Autumn celebration.
+description: "Each month, we roll out a recap of our team and community's strides forward. September's updates spotlight the AI Club launch, rewards for our sharing culture, hybrid work check-ins, reporting tech trends in forward engineering, and our Mid-Autumn celebration."
 authors:
   - innno_
 tags:
@@ -9,6 +9,7 @@ tags:
   - memo
   - community
 ---
+
 - [**🧙・ai-club:**](#ai-club-building-ai-agents-ai-sheep-role--copilot-bounties) We launched the AI-Club, your go-to hub for diving into AI and LLMs, where curiosity sparks real projects and dynamic discussions.
 - [**Record & Reward Sharing Culture:**](#record-and-reward-culture-with-a-monthly-pool-up-to-2500-icy) We're putting real value behind shared knowledge. AI/LLM contributions earned 3x-4x rewards this month. Shoutout to those leading the charge.
 - [**Hybrid Working & Auto Check-In:**](#return-to-the-office-auto-check-in--icy-perks) Stay in sync with the team and our learning culture. Check-in and earn 5 ICY, a simple nudge to keep us connected.
@@ -31,7 +32,6 @@ Here's a thought – why not try out one of the AI tools we've built in the club
 **Q: How do I get the ai-sheep role?**
 
 > The ai-sheep role is for those who actively show interest in AI within our server by reading, sharing lightning talk, and practicing it. It's open to everyone.
->
 
 ![](assets/2024-whats-new-sep-community-member.png)
 
@@ -55,7 +55,7 @@ In September, 1054 ICY (~1581 USDC) were rewarded for all contributions, includi
 - 542 links shared: 542 ICY (~813 USDC)
 - Memo notes: 81 ICY (~121.5 USDC)
 
-Cheers to everyone who's stepped up and contributed to the Dwarves community: @theoctopus, @wing, @tom, @minhlq, @ohagi, @lapnn, @taipham, @huytq, @datnguyen, @vincent, @antran, @tristran, @innno_, @catng, @Truongquoctuan, and @nam.
+Cheers to everyone who's stepped up and contributed to the Dwarves community: @theoctopus, @wing, @tom, @minhlq, @ohagi, @lapnn, @taipham, @huytq, @datnguyen, @vincent, @antran, @tristran, @innno\_, @catng, @Truongquoctuan, and @nam.
 
 ![](assets/2024-whats-new-sep-sharing-culture.png)
 

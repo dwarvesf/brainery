@@ -1,8 +1,10 @@
 ---
-title: "January All-hands Meeting"
-date: "2022-01-24"
-last_edited: "2025-04-07"
+title: January All-hands Meeting
+date: 2022-01-24
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Performance Review
 
 The team has received all of the self-review notes. Due to the volume of our teammates, 1-1 meetings for some of you will soon be scheduled after Lunar New Year.
@@ -43,7 +45,7 @@ Who is this package for: Full-time members who have worked with the Dwarves for 
 - The timeline of this trip is up to you. However, since this was made to encourage the team to try out our work hubs and get to know the teammates - our destination must be either Da Lat or Da Nang, and hopefully Ha Noi soon.
 - Trips need time to prepare (and recover afterward) so the team can’t use up the budget of 4 trips/ year into 1 time travel. This goes against the policy.
 - For better flexibility, we encourage you to actively do the booking and send us the receipt. The Ops team will help you to process the reimbursement.
-To sign up for your first trip, please head to this form → https://forms.gle/SusWDKUn2KjkewBH6
+  To sign up for your first trip, please head to this form → https://forms.gle/SusWDKUn2KjkewBH6
 
 ### Team Hangouts
 

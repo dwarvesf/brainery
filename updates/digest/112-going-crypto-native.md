@@ -1,7 +1,8 @@
 ---
 title: "#112 - Going crypto-native"
-date: "2022-02-28"
-last_edited: "2025-04-07"
+date: 2022-02-28
+description: null
+last_edited: 2025-04-07
 ---
 
 On the way to become a crypto-native firm, our moves shift accordingly. The team just rolled out new option to receive monthly salary.

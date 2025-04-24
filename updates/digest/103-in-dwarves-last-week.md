@@ -1,8 +1,10 @@
 ---
 title: "#103 - In Dwarves last week"
-date: "2021-12-11"
-last_edited: "2025-04-07"
+date: 2021-12-11
+description: null
+last_edited: 2025-04-07
 ---
+
 ### The Team
 
 Blockchain-based direction keeps us on discovering new knowledge. Earlier today, Hieu walked us through a 101 session on Solana Blockchain Platform. The file was recorded at <https://bit.ly/3ym95c6> - in case you missed it - many thanks to Minh

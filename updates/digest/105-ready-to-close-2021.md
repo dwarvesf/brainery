@@ -1,8 +1,10 @@
 ---
 title: "#105 - Ready to Close 2021?"
-date: "2021-12-25"
-last_edited: "2025-04-07"
+date: 2021-12-25
+description: null
+last_edited: 2025-04-07
 ---
+
 Hope you got a great time last weekend with the fam.
 
 Been a year with so many changes. Let’s all sit down and walk through them in our next December All-hands meeting this Friday, Dec 31 🤙 Hope to see all of your there!

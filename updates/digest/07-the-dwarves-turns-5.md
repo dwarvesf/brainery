@@ -1,8 +1,10 @@
 ---
 title: "#07 - The Dwarves Turns 5 🎂"
-date: "2020-01-11"
-last_edited: "2025-04-07"
+date: 2020-01-11
+description: null
+last_edited: 2025-04-07
 ---
+
 ## The Dwarves Turns 5 🎂
 
 ---
@@ -40,7 +42,7 @@ Each Dwarves shall have their personal photos and short descriptions to portrait
 2019 Dwarves of The Year website
 
 - Contribution Description
-![](assets/notion-image-1744007177099-b9z01.webp)
+  ![](assets/notion-image-1744007177099-b9z01.webp)
 
 ### Engineering Topic Discussion
 

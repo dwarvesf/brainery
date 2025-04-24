@@ -1,10 +1,12 @@
 ---
 title: "#21 - Software Craftsmanship at Dwarves"
-date: "2020-04-25"
-last_edited: "2025-04-07"
+date: 2020-04-25
+description: null
+last_edited: 2025-04-07
 ---
+
 Last Wednesday was the last day of social distancing. Diners & cafes are back in the city. It's getting crowded in no time, better take care of yourself until the pandemic is actually over.
-__
+\_\_
 
 ### Liberation & International Labour Holiday
 
@@ -19,9 +21,9 @@ Domain research
 - The Blockchain Design Principles blog post was completed and ready for branding activity.
 - Thanh D. is working on Remote Testing blog post for a partner
 - Khai will continue to transfer the knowledge, as well as pick out the product for the team to analyze biz model
-Internal Training
-We went through the first loop successfully, by getting used to invest on ourselves through target setting. Some mini achievements have been made, such as webinar, sharing and research on new domains.
-The next goal will be more detailed on what can we do to distribute the knowledge amongst the team to boost up visual ability.
+  Internal Training
+  We went through the first loop successfully, by getting used to invest on ourselves through target setting. Some mini achievements have been made, such as webinar, sharing and research on new domains.
+  The next goal will be more detailed on what can we do to distribute the knowledge amongst the team to boost up visual ability.
 
 ### #Software Craftsmanship @DF - Another approach to real Software
 
@@ -39,7 +41,7 @@ Hosted by An Duong and Huy Nguyen, Introduction Craftsmanship webinar lasted for
 - The result: the final expectation of every craftsman - Well-crafted Software
 
 2. Characteristics of Craftsmen
-A brief intro on 4 key characteristics of Craftsmen
+   A brief intro on 4 key characteristics of Craftsmen
 
 - Discipline
 - Professionalism
@@ -47,9 +49,9 @@ A brief intro on 4 key characteristics of Craftsmen
 - Incremental Improvement
 
 3. Well-crafted Software
-The explanation of a qualified & top-notch software, i.e, the utmost quality that a real engineer must reach.
+   The explanation of a qualified & top-notch software, i.e, the utmost quality that a real engineer must reach.
 
 4. Agile <> Craftsmanship
-A side-by-side comparison between Agile and Craftsmanship, and how we manage to combine the two into our working system. Other than that, this part also demonstrated how we pursue Craftsmanship at DF, through a number of values and knowledge research activities.
+   A side-by-side comparison between Agile and Craftsmanship, and how we manage to combine the two into our working system. Other than that, this part also demonstrated how we pursue Craftsmanship at DF, through a number of values and knowledge research activities.
 
 The transcript of the talk is being polished and expected to reach you all in no time. Meanwhile, the team has upload the presentation slide in PDF version in Team Drive.

@@ -1,8 +1,10 @@
 ---
 title: "#11 - Take care of your beloved now or get sml later"
-date: "2020-02-15"
-last_edited: "2025-04-07"
+date: 2020-02-15
+description: null
+last_edited: 2025-04-07
 ---
+
 ## Take care of your beloved now or get sml later
 
 ---

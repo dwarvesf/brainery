@@ -1,16 +1,17 @@
 ---
 title: "Weekly Digest #3: We all start somewhere"
-short_title: "#3 We all start somewhere"
 date: 2024-04-22
-description: Huge news is on the horizon. You absolutely will not guess what we’re about to share. Excitement building, we remember last week like it was yesterday, but what truly counts is that you're here with us.
+description: "Huge news is on the horizon. You absolutely will not guess what we’re about to share. Excitement building, we remember last week like it was yesterday, but what truly counts is that you're here with us."
 authors:
   - innno_
+short_title: "#3 We all start somewhere"
 tags:
   - weekly-digest
   - discord
   - community
   - motivation
 ---
+
 Huge news is on the horizon. You absolutely will *not* guess what we’re about to share. We remember last week like it was yesterday, but what truly counts is that you're here with us.
 
 If you're up for diving into conversations and discussions like these, we're eagerly awaiting your company.
@@ -19,7 +20,7 @@ If you're up for diving into conversations and discussions like these, we're eag
 
 Starting over in my career after a ten-month hiatus has been quite a journey at 27. But you know what? Instead of dwelling on our greatest fears about where our careers might take us by the age of 35, why not shift the perspective?
 
-Our CEO showcased Khanh Vy as a beacon of inspiration for Gen Z, highlighting her unwavering commitment and diligence. Furthermore, he asked @innno_ what motivates her and urged her to embrace new challenges and endeavors.
+Our CEO showcased Khanh Vy as a beacon of inspiration for Gen Z, highlighting her unwavering commitment and diligence. Furthermore, he asked @innno\_ what motivates her and urged her to embrace new challenges and endeavors.
 
 Where did you start, or where are you starting from? We'd love to hear your story.
 

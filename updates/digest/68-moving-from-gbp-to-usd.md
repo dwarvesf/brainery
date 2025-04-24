@@ -1,8 +1,10 @@
 ---
 title: "#68 - Moving from GBP to USD"
-date: "2021-03-27"
-last_edited: "2025-04-07"
+date: 2021-03-27
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Biz Update
 
 The Dwarves will kick off the work with a Malaysia’s fuel e-payment app. This client has set its foot in all over Malaysia’s fuel booths, where people can select the item, flash the barcode and scan to pay.
@@ -56,7 +58,7 @@ We're saying goodbye to Giang Vu, our Product Designer. Giang has had nearly 2 y
 - Earlier this week, Hieu helps juniors to understand the dotfiles concept and some of its usecases in our Radar Talk.
 - Phuc help us build a capturing tool, a few issues will be fixed before we can use it
 - Comment
-Events
+  Events
 
 - SheCodes x WeBuild: Cooperation in IT Industry
-Sign up and stay tuned at WeBuild Discord
+  Sign up and stay tuned at WeBuild Discord

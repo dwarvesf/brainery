@@ -1,8 +1,10 @@
 ---
 title: "#25 - Readify has been on AppStore"
-date: "2020-05-23"
-last_edited: "2025-04-07"
+date: 2020-05-23
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Celebrate the 1st Milestone of Dwarves Foundation
 
 Yah we know it's been 2 cycles (which means 4 months already) since our 5th Anniversary, thank God the feeling is still there to craft up this recap.
@@ -28,8 +30,8 @@ Table of Content
 1. What is Software Project?
 1. Software Development Life Cycle
 1. SDLC Models
-What is Software Project
-We build software, and we need a planned undertaking. So call software project is “A specific plan or design” or “A planned undertaking”.
+   What is Software Project
+   We build software, and we need a planned undertaking. So call software project is “A specific plan or design” or “A planned undertaking”.
 
 Project Constraints
 A software project has a lot of constraints. Cost, scope, quality, customer satisfaction, risk, resource, time, or anything in between.
@@ -38,7 +40,7 @@ But the most important ones are
 - Quality
 - Budget
 - Time
-![](assets/notion-image-1744007085012-jx9ic.webp)
+  ![](assets/notion-image-1744007085012-jx9ic.webp)
 
 Why does the project fail?
 
@@ -47,8 +49,8 @@ With a lot of constraints, the project is easy to fail. We could have plenty of 
 - Unclear/misleading project requirements
 - Wrongly defined tech stacks
 - The wrong approach, develop practices
-Project Success
-If it's easy to fail, then what is a successful project?
+  Project Success
+  If it's easy to fail, then what is a successful project?
 
 Read the full article at Dwarves Memo - Software Development Life Cycle 101
 

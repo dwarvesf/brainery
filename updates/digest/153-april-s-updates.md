@@ -1,18 +1,19 @@
 ---
 title: "#153 - April’s Updates"
-date: "2023-05-10"
-last_edited: "2025-04-07"
+date: 2023-05-10
+description: null
+last_edited: 2025-04-07
 ---
+
 [Community Changelog #153] - LLM & Demos, Golang 102, Delivery Leaderboard, Tech Event #8
 
-@peeps, massive kudos to each and everyone who actively participated in our learning and sharing activities. Learn more and ship more will always remain Dwarves’ greatest value
----
+## @peeps, massive kudos to each and everyone who actively participated in our learning and sharing activities. Learn more and ship more will always remain Dwarves’ greatest value
 
 LLM & Demos
 
 - @ngocthanh demo-ed his process of creating an application using OpenAI's prompt and API to automatically conduct candidate interviews.
 - @khacvy demo-ed an AI-based Chrome extension which helps users with writing, summarizing, explaining stuff using a combo of radix_UI, cmdk, tailwindcss and lucide icons.
-- @learning also delivers great stuff this month: a round-up to of  7 brainery pieces & 11 blog posts. 249 ICY rewarded in returned
+- @learning also delivers great stuff this month: a round-up to of 7 brainery pieces & 11 blog posts. 249 ICY rewarded in returned
 - @golang crash course, led by @hieuthu1 is designed to provide Go enthusiasts with the latest updates and best practices in Go.
 
 ---
@@ -48,7 +49,7 @@ Our monthly tech events are getting fire response from the tech @peeps.
 
 - Our session for DevDay Danang, "Bootstrapping IT Career & Remote Working" collab-ed with Bach Khoa University of Danang was a success. Kudos to @vitran, @hieuthu1, @vincent, @anhtran, @phucld (🧊) for making it happen.
 
-- Tech event 7 "State of Frontend 2023" hosted 250 attendees, highest records yet. Kudos to @thanh, @innno_, @vitran, @nambui, @Tom for the hard work. Revisit if you missed the talk: <https://www.youtube.com/watch?v=orJVTAGj_OE>
+- Tech event 7 "State of Frontend 2023" hosted 250 attendees, highest records yet. Kudos to @thanh, @innno\_, @vitran, @nambui, @Tom for the hard work. Revisit if you missed the talk: <https://www.youtube.com/watch?v=orJVTAGj_OE>
 
 - Big change to our weekly Monday Radio Talk, we're not doing these sessions alone anymore. The first TechieStory x Dwarves “Radio Talk: Visual debugging experience for your frontend tests”: <https://www.youtube.com/watch?v=7o3JboCh7e8&t=2s>
 

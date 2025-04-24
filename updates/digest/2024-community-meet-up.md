@@ -9,6 +9,7 @@ tags:
   - community
   - newsletter
 ---
+
 At the end of May, we had the pleasure of hosting our second community meet-up. With over 50 folks, including notable community members @jack, @congiomat, and @tannhatcms, it was a meaningful gathering.
 
 A key part of the meet-up was a discussion on "Building a Resilient System" led by @hoangnguyen and @hieuthu2. Their insights encouraged thoughtful conversations and provided design system knowledge to everyone present. We also caught up with the latest happenings at Dwarves.
@@ -21,7 +22,7 @@ We organize these meet-ups every three months to share knowledge and connect peo
 
 We are grateful to our operations team for ensuring the event went smoothly. We look forward to our next gathering and hope to see even more of you there.
 
-If you'd like to be a part of the Dwarves network, we'd love to have you at our [discord](discord.gg/dfoundation ).
+If you'd like to be a part of the Dwarves network, we'd love to have you at our [discord](discord.gg/dfoundation).
 
 See you next time.
 

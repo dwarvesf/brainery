@@ -1,14 +1,15 @@
 ---
-title: "August Changelog"
-date: "2021-09-03"
-last_edited: "2025-04-07"
+title: August Changelog
+date: 2021-09-03
+description: null
+last_edited: 2025-04-07
 ---
+
 Been a cycle with such many kudos ✔️
 
 ### Projects Highlights
 
 It delights us to hear good responses from the client for your dedicated work. We'd like to give you all a special gratitude for spreading the craftsmanship spirit into every work shipped out.
-
 
 ### Workflow Progress
 
@@ -23,7 +24,7 @@ If you don't know, we can use Track extension to enable Kanban in Basecamp. And 
 - In Progress
 - Review/QA
 - Completed
-![](assets/notion-image-1744006946675-eivlv.webp)
+  ![](assets/notion-image-1744006946675-eivlv.webp)
 
 Project Compliance
 
@@ -68,7 +69,7 @@ Here's the goal for the last quarter of 2021
 - Actively seeking new hires
 - Build up a more professional presence for the people of the team
 - Not only expand the team due to high demand, but also increase level of expertises
-![](assets/notion-image-1744006947990-egark.webp)
+  ![](assets/notion-image-1744006947990-egark.webp)
 
 ![](assets/notion-image-1744006948330-d00vd.webp)
 
@@ -78,6 +79,6 @@ For the last 2 months, Nam has been head over heels on his V-model automation te
 
 Upsert flow for audience db
 
-We're growing the audience community. The Fortress team has  uplifted the workload by creating an upsert flow. This auto-upsert mechanism logs all contacts from our social channels, puts them into our Notion db for further team publication: Dwarves Updates, Dwarves Feedback & Turing Alley.
+We're growing the audience community. The Fortress team has uplifted the workload by creating an upsert flow. This auto-upsert mechanism logs all contacts from our social channels, puts them into our Notion db for further team publication: Dwarves Updates, Dwarves Feedback & Turing Alley.
 
 ![](assets/notion-image-1744006948693-9i94d.webp)

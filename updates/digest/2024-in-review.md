@@ -1,7 +1,7 @@
 ---
 title: 2024 In Review
 date: 2025-01-16
-description: Closing another milestone with 2024, it has been a year of building and rebuilding ,  strengthening what works, fixing what doesn't, and uncovering new paths along the way. Every milestone reached this year carries the marks of teamwork and persistence.
+description: "Closing another milestone with 2024, it has been a year of building and rebuilding ,  strengthening what works, fixing what doesn't, and uncovering new paths along the way. Every milestone reached this year carries the marks of teamwork and persistence."
 authors:
   - innno_
 tags:
@@ -10,10 +10,11 @@ tags:
   - newsletter
   - updates
 ---
-> **Before you dive in** Dwarves is operated as a 50% company, 50% community. Everything we learn along the way of work, we transform into knowledge and distribute back to our tech community.
-If you want to get in touch, visit [Dwarves Network](http://discord.gg/dfoundation)
 
-Closing another milestone with 2024, it has been a year of building and rebuilding ,  strengthening what works, fixing what doesn't, and uncovering new paths along the way. Every milestone reached this year carries the marks of teamwork and persistence.
+> **Before you dive in** Dwarves is operated as a 50% company, 50% community. Everything we learn along the way of work, we transform into knowledge and distribute back to our tech community.
+> If you want to get in touch, visit [Dwarves Network](http://discord.gg/dfoundation)
+
+Closing another milestone with 2024, it has been a year of building and rebuilding , strengthening what works, fixing what doesn't, and uncovering new paths along the way. Every milestone reached this year carries the marks of teamwork and persistence.
 
 Market shifts opened new territories, while our core in sharing knowledge and AI grew stronger. We turned AI from experiments into daily tools, grew our lab team into a real force for innovation, and watched 37 OGIF sessions turn into solutions everyone uses. Knowledge sharing became part of our DNA, with 335 memo entries proving that good ideas need to be shared.
 
@@ -218,7 +219,7 @@ Shout out to:
 - **Long Bui Van** (@longddl): Shared valuable notes on Data Pipeline Design Framework, Vector Database.
 - **Jack** (@jack) and Phuc Le (@phucld): Collaborating on bridging $DFG from Ethereum Mainnet to Base Network for staking.
 
-Big thanks to the contributions from both the team and community that have made Dwarves thrive: @tom, @hnh, @lapnn, @theoctopus, @minhlq, @nikki, @taipham, @vincent, @phucld, @julis, @antran, @innno_, @minh_cloud, @bienvh, @huymaius, @huytq, @datnguyennnx,@nhuthm, @nam,@hieuthu1, @tristran, @truongquoctuan.
+Big thanks to the contributions from both the team and community that have made Dwarves thrive: @tom, @hnh, @lapnn, @theoctopus, @minhlq, @nikki, @taipham, @vincent, @phucld, @julis, @antran, @innno\_, @minh_cloud, @bienvh, @huymaius, @huytq, @datnguyennnx,@nhuthm, @nam,@hieuthu1, @tristran, @truongquoctuan.
 
 ![](assets/2024-in-review-learning-culture.png)
 

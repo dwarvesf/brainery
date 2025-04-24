@@ -1,8 +1,10 @@
 ---
 title: "#117 - Pick up Bao Minh Insurance Card"
-date: "2022-04-11"
-last_edited: "2025-04-07"
+date: 2022-04-11
+description: null
+last_edited: 2025-04-07
 ---
+
 Hello folks, just wanted to wish you a warm welcome back from your vacation. Those discord channels are still bursting at the seams with activity.
 
 First reward batch for team brain contributor

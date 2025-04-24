@@ -1,16 +1,17 @@
 ---
 title: "Weekly Digest #11: Come grow with us"
-short_title: "#11 Come grow with us"
 date: 2024-06-23
-description: Things are always cooking on our Discord. So grab a virtual seat at our table, pour yourself a cup of something tasty, and read the digest. If you're reading this, why not pop into the woodland and say hello? We'd love to meet you.
+description: "Things are always cooking on our Discord. So grab a virtual seat at our table, pour yourself a cup of something tasty, and read the digest. If you're reading this, why not pop into the woodland and say hello? We'd love to meet you."
 authors:
   - innno_
+short_title: "#11 Come grow with us"
 tags:
   - weekly-digest
   - memo
   - community
   - reward
 ---
+
 Things are always cooking on our Discord. So grab a virtual seat at our table, pour yourself a cup of something tasty, and enjoy the digest.
 
 If you're reading this, why not pop into the woodland and say hello? We'd love to meet you.
@@ -61,7 +62,7 @@ And don't worry, our Hanoi crew, we haven't forgotten about you. The team will b
 
 @phucld jumped in with some helpful insights: it's possible with skilled management of price range, trading volume, and impermanent loss. He also pointed to tools like Arrakis Finance for managing price ranges and PoolFish for APR simulations to assess potential earnings.
 
-*Pro tip*: sticking with pairs that tend to move together can make your life easier. [Check out the convo here](https://discord.com/channels/462663954813157376/1216788839880724562/1251504848583655515).
+_Pro tip_: sticking with pairs that tend to move together can make your life easier. [Check out the convo here](https://discord.com/channels/462663954813157376/1216788839880724562/1251504848583655515).
 
 ![](assets/11-come-grow-with-uniswap.png)
 

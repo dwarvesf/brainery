@@ -1,8 +1,10 @@
 ---
 title: "#84 - What's your MBTI?"
-date: "2021-07-24"
-last_edited: "2025-04-07"
+date: 2021-07-24
+description: null
+last_edited: 2025-04-07
 ---
+
 ### What's your MBTI?
 
 Nam has published her MBTI research and showcased to the team last Monday. Some of our leaders have already looked into and applied it on the team. Got your MBTI result? See if you find any match here
@@ -33,4 +35,4 @@ We've just launched some new places for Turing Alley on social
 - Facebook: facebook.com/turingalley
 - LinkedIn: linkedin.com/company/turing-alley
 - and an article on Our purpose: linkedin.com/pulse/purpose-turing-alley-turing-alley/
-![](assets/notion-image-1744006963118-wami3.webp)
+  ![](assets/notion-image-1744006963118-wami3.webp)

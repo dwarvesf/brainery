@@ -1,8 +1,10 @@
 ---
 title: "#145 - 2022, A Year Gone By"
-date: "2022-12-31"
-last_edited: "2025-04-07"
+date: 2022-12-31
+description: null
+last_edited: 2025-04-07
 ---
+
 # 145 - 2022, A Year Gone By
 
 As 2022 comes to a close, take a moment to look back, reflect, and celebrate all the moments this year that challenged, inspired, and enabled us to grow. So many memorable milestones that we've enjoyed, @peeps
@@ -23,6 +25,6 @@ TEAM UPDATE
 
 - @hienld#3856, @hieuvd#4261 have joined Neutronpay team. A perfect lineup that makes the game strong. Welcome onboard and keep up the good work, mate.
 - @taipn#6071 has offboarded Droppii team, we cannot thank you for you being hard work. You did great a job, buddy.
-Thank everyone for such a rewarding year. All the best from Dwarves. ＼ (＾ ∀ ＾) メ (＾ ∀ ＾) ノ
+  Thank everyone for such a rewarding year. All the best from Dwarves. ＼ (＾ ∀ ＾) メ (＾ ∀ ＾) ノ
 
 ![](assets/notion-image-1744007336349-8znqu.webp)

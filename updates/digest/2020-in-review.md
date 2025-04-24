@@ -8,10 +8,11 @@ authors:
   - duy
 tags:
   - updates
-  - tech radar
+  - tech-radar
   - newsletter
   - wrap-up
 ---
+
 Wrapping up 2019 with the first 5th-year milestone, many ideas popped up for the next steps. Heading into a new decade means we get to wrap up the old and in with the new. For us, the utmost target is to focus on territory expansion and team bootstrapping. Reinvest in the current foundation. Make it stable and make it impactful.
 
 ![](assets/2020-in-review_2020-in-a-flashback_5235debb4b84d96dc105178e3ad4aae0_md5.webp)

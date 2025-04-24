@@ -1,8 +1,10 @@
 ---
 title: "#14 - This Week's Highlight? Happy Women's Day"
-date: "2020-03-07"
-last_edited: "2025-04-07"
+date: 2020-03-07
+description: null
+last_edited: 2025-04-07
 ---
+
 ## This Week's Highlight? Happy Women's Day
 
 ---
@@ -14,8 +16,7 @@ It's been a week since we have our Basecamp reorganized. Here are some aspects y
 - More interaction amongst the team. The two most hooked questions must be "Seen anything recently that others on the team would find interesting," and "Today I Learned."
 - Frequently updates on app/ product ideas
 - Regular discussion on Tech topics
-It's good to realize these amazing first changes. Keep up the good vibe! ✨
-
+  It's good to realize these amazing first changes. Keep up the good vibe! ✨
 
 You can download and enjoy the iOS version here 👈
 
@@ -38,4 +39,4 @@ Last Monday, we were delighted to welcome some new Dwarves to join the team!
 - Quynh Le: Quality Assurance
 - Lap Ngo: Frontend engineer
 - Giang Tran: Frontend engineer
-It's good to have you guys on board! Thanks for helping scaling up the crew and may we share many great moments together! 💪
+  It's good to have you guys on board! Thanks for helping scaling up the crew and may we share many great moments together! 💪

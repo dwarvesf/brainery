@@ -1,7 +1,7 @@
 ---
-title: What's New in February 2025
+title: "What's New in February 2025"
 date: 2025-03-04
-description: Each month, we roll out a recap of our team and community's strides forward. February's recap covers the hybrid mode shift, ICY-to-BTC swap testing, updated use cases with AI and trading solutions, skip-level meetings, and the New Year gathering kickoff.
+description: "Each month, we roll out a recap of our team and community's strides forward. February's recap covers the hybrid mode shift, ICY-to-BTC swap testing, updated use cases with AI and trading solutions, skip-level meetings, and the New Year gathering kickoff."
 authors:
   - innno_
 tags:
@@ -9,6 +9,7 @@ tags:
   - updates
   - community
 ---
+
 - [**From remote-first to hybrid:**](#the-transition-to-hybrid-mode-strengthening-team-presence-with-coordination-and-perks) We've transitioned to a hybrid model, coordinated schedules, and rolled out perks like lunch support, transport coverage, and an Office Leaderboard to keep engagement high.
 - [**ICY to BTC transition is in motion:**](#icy-to-btc-transition-from-experiment-to-the-next-chapter) ICY to BTC transition is in motion: We completed the first demo, proving the swap mechanism works. Now, we're in the final testing phase before the official launch.
 - [**Reporting tech signals:**](#reporting-tech-signal-forward-engineering-2024) Dwarves Forward Engineering 2024 with moving in AI agents, blockchain applications, and the evolving talent market, key trends we're keeping an eye on.
@@ -70,19 +71,19 @@ For the full read, [check out.](https://memo.d.foundation/updates/forward-engine
 
 In this cycle, we focused on refining systems, improving performance, and integrating AI across our projects. Here's what the team has been working on:
 
-- [Project reports system](https://memo.d.foundation/playground/use-cases/ai-powered-monthly-project-reports/) *([@tom](https://memo.d.foundation/contributor/tom)):* Structuring raw data into insights that power operations.
-- [AI-powered Ruby travel assistant](https://memo.d.foundation/playground/use-cases/ai-ruby-travel-assistant-chatbot/) *([@tom](https://memo.d.foundation/contributor/tom)):* Leveraging Ruby + AWS Bedrock for a secure and maintainable AI assistant.
-- [Binance transfer tracking](https://memo.d.foundation/playground/use-cases/binance-transfer-matching/) *([@bienvh](https://memo.d.foundation/contributor/bienvh)):* Transforming fragmented transaction logs into structured fund flow data.
-- [BTC-altcoin hedging indicators](https://memo.d.foundation/playground/use-cases/bitcoin-alt-performance-tracking/) *([@bienvh](https://memo.d.foundation/contributor/bienvh)):* Visualizing performance metrics with Matplotlib & Seaborn.
-- [AI chatbot for project management](https://memo.d.foundation/playground/use-cases/building-chatbot-agent-for-project-management-tool/) *([@thanh](https://github.com/zlatanpham)):* Automating workflows using LangChain, LangGraph & GPT-4.
-- [Centralized monitoring for trading](https://memo.d.foundation/playground/use-cases/centralized-monitoring-setup-for-trading-platform/) *([@thanh](https://github.com/zlatanpham))* , *([@quang](https://github.com/lmquang)):* Implementing Grafana & Prometheus for real-time alerts and system integrity.
-- [Crypto market visualization in Golang](https://memo.d.foundation/playground/use-cases/crypto-market-outperform-chart-rendering/) *([@bienvh](https://memo.d.foundation/contributor/bienvh)):* Interactive charts tracking BTC-Alt dynamics.
-- [Data archival & recovery](https://memo.d.foundation/playground/use-cases/data-archive-and-recovery/) *([@bienvh](https://memo.d.foundation/contributor/bienvh)):* Long-term stability strategies for high-volume trading systems.
-- [Database security hardening](https://memo.d.foundation/playground/use-cases/database-hardening-for-trading-platform/) *([@thanh](https://github.com/zlatanpham)):* Strengthening access control with RBAC, MFA, and network isolation.
-- [Binance PNL analysis with Phoenix liveview](https://memo.d.foundation/playground/use-cases/implement-binance-future-pnl-analysis-page/) *([@minhtran](https://github.com/thminhVN)):* Real-time portfolio tracking using server-side rendering & WebSockets.
-- [Migrating to TimescaleDB](https://memo.d.foundation/playground/use-cases/migrate-normal-table-to-timescale-table/) *([@minhtran](https://github.com/thminhVN)):* Boosting query performance with hypertables.
-- [Hedge Foundation UI optimization](https://memo.d.foundation/playground/use-cases/optimizing-ui-for-effective-investment-experience/) *([@anna](https://memo.d.foundation/contributor/anhtran/)):* Improving investment dashboards for seamless decision-making.
-- [Historical data persistence](https://memo.d.foundation/playground/use-cases/persist-history-using-data-snapshot-pattern/) *([@bienvh](https://memo.d.foundation/contributor/bienvh)):* Implementing data snapshots for efficient long-term storage.
+- [Project reports system](https://memo.d.foundation/playground/use-cases/ai-powered-monthly-project-reports/) _([@tom](https://memo.d.foundation/contributor/tom)):_ Structuring raw data into insights that power operations.
+- [AI-powered Ruby travel assistant](https://memo.d.foundation/playground/use-cases/ai-ruby-travel-assistant-chatbot/) _([@tom](https://memo.d.foundation/contributor/tom)):_ Leveraging Ruby + AWS Bedrock for a secure and maintainable AI assistant.
+- [Binance transfer tracking](https://memo.d.foundation/playground/use-cases/binance-transfer-matching/) _([@bienvh](https://memo.d.foundation/contributor/bienvh)):_ Transforming fragmented transaction logs into structured fund flow data.
+- [BTC-altcoin hedging indicators](https://memo.d.foundation/playground/use-cases/bitcoin-alt-performance-tracking/) _([@bienvh](https://memo.d.foundation/contributor/bienvh)):_ Visualizing performance metrics with Matplotlib & Seaborn.
+- [AI chatbot for project management](https://memo.d.foundation/playground/use-cases/building-chatbot-agent-for-project-management-tool/) _([@thanh](https://github.com/zlatanpham)):_ Automating workflows using LangChain, LangGraph & GPT-4.
+- [Centralized monitoring for trading](https://memo.d.foundation/playground/use-cases/centralized-monitoring-setup-for-trading-platform/) _([@thanh](https://github.com/zlatanpham))_ , _([@quang](https://github.com/lmquang)):_ Implementing Grafana & Prometheus for real-time alerts and system integrity.
+- [Crypto market visualization in Golang](https://memo.d.foundation/playground/use-cases/crypto-market-outperform-chart-rendering/) _([@bienvh](https://memo.d.foundation/contributor/bienvh)):_ Interactive charts tracking BTC-Alt dynamics.
+- [Data archival & recovery](https://memo.d.foundation/playground/use-cases/data-archive-and-recovery/) _([@bienvh](https://memo.d.foundation/contributor/bienvh)):_ Long-term stability strategies for high-volume trading systems.
+- [Database security hardening](https://memo.d.foundation/playground/use-cases/database-hardening-for-trading-platform/) _([@thanh](https://github.com/zlatanpham)):_ Strengthening access control with RBAC, MFA, and network isolation.
+- [Binance PNL analysis with Phoenix liveview](https://memo.d.foundation/playground/use-cases/implement-binance-future-pnl-analysis-page/) _([@minhtran](https://github.com/thminhVN)):_ Real-time portfolio tracking using server-side rendering & WebSockets.
+- [Migrating to TimescaleDB](https://memo.d.foundation/playground/use-cases/migrate-normal-table-to-timescale-table/) _([@minhtran](https://github.com/thminhVN)):_ Boosting query performance with hypertables.
+- [Hedge Foundation UI optimization](https://memo.d.foundation/playground/use-cases/optimizing-ui-for-effective-investment-experience/) _([@anna](https://memo.d.foundation/contributor/anhtran/)):_ Improving investment dashboards for seamless decision-making.
+- [Historical data persistence](https://memo.d.foundation/playground/use-cases/persist-history-using-data-snapshot-pattern/) _([@bienvh](https://memo.d.foundation/contributor/bienvh)):_ Implementing data snapshots for efficient long-term storage.
 
 ![](assets/2025-whats-new-feb-usecase.png)
 
@@ -98,7 +99,7 @@ If there's something on your mind, this is the place to discuss it.
 
 We are preparing for the annual health checkup, ensuring everyone gets their routine screening done. Team members in HCM and Hanoi will have designated locations, while those from other areas can arrange travel to complete theirs.
 
-For any questions, reach out to [@innno_](https://github.com/innnotruong).
+For any questions, reach out to [@innno\_](https://github.com/innnotruong).
 
 ## Health insurance renewal in progress
 

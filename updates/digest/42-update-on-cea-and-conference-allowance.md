@@ -1,8 +1,10 @@
 ---
 title: "#42 - Update on CEA and Conference Allowance"
-date: "2020-09-26"
-last_edited: "2025-04-07"
+date: 2020-09-26
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Conference & Education Allowance
 
 As a part of employee package, this allowance applies for all field of studying (yes you heard me), as long as it helps you grow. Lately, we’ve added up some changes, particularly in prerequisite and the place where you can input your request. For detailed information, check out the latest update at Dwarves Handbook.

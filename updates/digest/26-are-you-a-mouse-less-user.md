@@ -1,8 +1,10 @@
 ---
 title: "#26 - Are you a Mouse-less User ?"
-date: "2020-05-30"
-last_edited: "2025-04-07"
+date: 2020-05-30
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Roll out Vim Motion
 
 If you are, or trying to become one, then installing this app may be a good idea.
@@ -30,7 +32,6 @@ We welcomed another Dwarves last Monday. Duy Pham joined us as a Visual Designer
 We’re launching another internship batch, partnering with Bach Khoa University. The Ops team is currently taking the applications from the school, interviewing and preparing the paperwork to have them ready by July.
 
 If you happen to know a suitable candidate, maybe a recommendation would help.
-
 
 Community
 

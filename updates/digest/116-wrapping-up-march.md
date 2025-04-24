@@ -1,8 +1,10 @@
 ---
 title: "#116 - Wrapping up March"
-date: "2022-04-02"
-last_edited: "2025-04-07"
+date: 2022-04-02
+description: null
+last_edited: 2025-04-07
 ---
+
 We wrapped up March last week with some good note in project deployment, Dwarves Brainery contribution, Apprenticeship Program and the hype of BK Career Fair. Hope y’all enjoy the team dinner last Friday. Thank you all for being with us through another cycle.
 
 For details in our March Update, pls visit: <https://drive.google.com/drive/u/0/folders/1VT-q9z3nOnYomsJD4_J2amZVuCB6fesU>
@@ -12,7 +14,7 @@ Dwarves Brainery has already welcoming the new inputs for April. In this week, l
 - <https://brain.d.foundation/Engineering/Tackling+complexity> by @thanh
 - <https://brain.d.foundation/Blockchain/Liquidity+pool> by Hien Le
 - <https://brain.d.foundation/Engineering/Parallelism+in+JavaScript> by Thanh Pham
-Also, I’m processing the bonus for our March batch. A shoutout to all for your amazing contribution 🤜🤛 Can’t wait to see more of the likes.
+  Also, I’m processing the bonus for our March batch. A shoutout to all for your amazing contribution 🤜🤛 Can’t wait to see more of the likes.
 
 Thanks to your support, Apprenticeship Program is processing a volume of application. We’ve received more than 30 submissions, not to mention the referral from our team. The hiring squad is working on them.
 
@@ -26,4 +28,4 @@ We’ll be taking off days with details as below
 
 - Close date: From Saturday, April 09 to Monday, April 11
 - Resume date: Tuesday, April 12, 2022.
-If the working schedule somehow crosses your day off, pls ping Gthan or nikki for better support. Wish you have a good time with your loved ones ♡
+  If the working schedule somehow crosses your day off, pls ping Gthan or nikki for better support. Wish you have a good time with your loved ones ♡

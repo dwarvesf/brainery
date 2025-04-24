@@ -1,6 +1,6 @@
 ---
-title: '#02 - Environment Shape Up'
-date: '2019-12-07'
+title: "#02 - Environment Shape Up"
+date: 2019-12-07
 description: Updates on company culture, year-end bonus, business partnerships
 tags:
   - digest
@@ -8,6 +8,7 @@ tags:
   - projects
   - culture-book
 ---
+
 ### Company Updates
 
 2019 Year-End Bonus
@@ -20,7 +21,7 @@ Environment Shape Up
 
 For the past few months, we have collect many material to finish Culture Book - a book that reveals the way we shape up our working environment and the values we live by. It must be able to answer one question: Is this a place that you're happy to work in?
 
-Last Thursday, Duyen has conducted a 1-1 interview with some of our engineers. Throughout the talks, we're glad to know there are many positive  that connect you guys with the company. For the next step, we hope you could be more open, i.e. let us know what you think about the values we're selecting for the core working spirit. Software craftsmanship, for example.
+Last Thursday, Duyen has conducted a 1-1 interview with some of our engineers. Throughout the talks, we're glad to know there are many positive that connect you guys with the company. For the next step, we hope you could be more open, i.e. let us know what you think about the values we're selecting for the core working spirit. Software craftsmanship, for example.
 
 A partner tendering submission
 

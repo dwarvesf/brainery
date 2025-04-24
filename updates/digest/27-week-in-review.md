@@ -1,8 +1,10 @@
 ---
 title: "#27 - Week in Review"
-date: "2020-06-06"
-last_edited: "2025-04-07"
+date: 2020-06-06
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Dwarves Team Expansion
 
 A few juniors joined us this week. Looks like QA team & Design team are expanding their size 💪
@@ -11,10 +13,10 @@ QA
 
 - Vy Nguyen: QC Engineer
 - Nguyen Tran: QC Engineer
-Design
+  Design
 
 - Thao Nguyen: Visual Engineer
-People are getting back to the office, and it’s a great chance for newbies to explore more about the team. Welcome on board, may you have a great time becoming a Dwarf and gain many achievements.
+  People are getting back to the office, and it’s a great chance for newbies to explore more about the team. Welcome on board, may you have a great time becoming a Dwarf and gain many achievements.
 
 ### Culture Write-Up
 

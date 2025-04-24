@@ -1,5 +1,5 @@
 ---
-title: What's New in October 2023
+title: "What's New in October 2023"
 date: 2023-11-10
 description: Each month, we release a recap noting all the significant changes with our company and our team. October is our month for open-source and reflections.
 authors:
@@ -9,6 +9,7 @@ tags:
   - newsletter
   - community
 ---
+
 > **Before you dive in**
 > Dwarves is operated as a 50% company, 50% community. Everything we learn along the way of work, we transform into knowledge and distribute back to our tech community.
 >
@@ -65,7 +66,6 @@ From there, we design personalized growth paths, that fit their interest. With e
 ## Frontend Course 2023
 
 Our free FE Course is successfully finished. The stats are astounding, because compared to our previous Golang Course, there is a 4x jump in participants. We believe this signal shows what we do is being well received by the tech community in Vietnam.
-
 
 ## Community Growth
 

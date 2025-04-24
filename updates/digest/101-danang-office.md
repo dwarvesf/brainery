@@ -1,8 +1,10 @@
 ---
 title: "#101 - DaNang Office"
-date: "2021-11-27"
-last_edited: "2025-04-07"
+date: 2021-11-27
+description: null
+last_edited: 2025-04-07
 ---
+
 A small reminder: November All-hands Meeting is coming this Friday, December 02.
 
 Please reserve your schedule from 5:30 PM. We'll be walking through some projects and team updates, and the progress of our new getaway offices.

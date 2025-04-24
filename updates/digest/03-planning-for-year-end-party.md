@@ -1,8 +1,10 @@
 ---
-title: '#03 - Planning for Year-End Party'
-date: '2019-12-14'
-last_edited: '2025-04-07'
+title: "#03 - Planning for Year-End Party"
+date: 2019-12-14
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Company Updates
 
 Rolling out schedule plan for Year-End Party
@@ -39,7 +41,7 @@ The course introduces the basics of Go programming language and how to write a s
 - Method and interfaces
 - Testing
 - Manage external dependencies
-UML Stencil Kit
+  UML Stencil Kit
 
 Omnigraffle is a tool that allows you to create and store your mindmaps, charts, layouts and every visual plan you need for your business. Once you've created and exported a version as an Omnigraffle file, you won't need to redraw it again.
 
@@ -57,7 +59,7 @@ The Board has given out 2 options:
 
 - Medical Insurance & Social Insurance based on basic salary
 - Heath Insurance (from Bao Viet Insurance, Silver package)
-For full information of each option, have a check at Basecamp.
+  For full information of each option, have a check at Basecamp.
 
 Reading Articles from Business & Marketing
 
@@ -69,7 +71,7 @@ Let's have a look at what our members put on the reading list this week:
 - Burnout is Software and How to Avoid
 - Understanding the media of internal communication
 - A list of how to build X 101 in different languages
-Tech 101 Class
+  Tech 101 Class
 
 To get every one aligned and possessed the same knowledge base toward our product and dive in the world of technology, it is vital for our sales, editors and operations member to understand the tech from scratch.
 
@@ -79,7 +81,7 @@ So far, we have come up with 2 classes already. Take a look at the Class Notes
 
 - 9/12/19: Dev Types, CMS, Roles of Dev and Difference between QA-QC-Tester
 - 11/12/19: API - API Gateway
-Software Quality Class
+  Software Quality Class
 
 Anh Han also launched a training class for our engineers to re-define the meaning of quality software. Huy N. and Phat are taking the class at this moment.
 

@@ -1,7 +1,7 @@
 ---
-title: What's New in October 2024
+title: "What's New in October 2024"
 date: 2024-11-15
-description: Each month, we roll out a recap of our team and community's progress. October's updates spotlight our open source initiative, boosted rewards for sharing knowledge, navigating market shifts, weekly tech insights, and a warm celebration of Vietnamese Women's Day.
+description: "Each month, we roll out a recap of our team and community's progress. October's updates spotlight our open source initiative, boosted rewards for sharing knowledge, navigating market shifts, weekly tech insights, and a warm celebration of Vietnamese Women's Day."
 authors:
   - innno_
 tags:
@@ -9,6 +9,7 @@ tags:
   - memo
   - community
 ---
+
 - [**We're Hiring:**](#were-hiring) On the lookout for Full-stack Engineers, Biz Devs, and Marketing minds to join the team.
 - [**Labs OGIF Office Hour - Building Core Knowledge:**](#labs-ogif-office-hour---building-core-knowledge) Weekly sessions diving deep into AI, Blockchain, Architecture, and Finance fundamentals.
 - [**Join Dwarves Open Source,**](#dwarves-open-source---join-the-movement) a great time to build and learn through OSS work. From libraries to AI tools, every contribution counts.
@@ -34,7 +35,7 @@ We're making knowledge-sharing worth it. AI/LLM contributions this month scored 
 
 October's OGIF office hour? Think deeper discussions, a sharper focus. We're using these sessions to dig into AI, Blockchain, Architecture, and Finance - getting the team solid on these core themes while still exploring emerging trends.
 
-Every Friday, it's about putting learning into practice. If you've got an idea or a topic to add to the mix, reach out to [@thanh](https://memo.d.foundation/contributor/thanh/), [@innno_](https://memo.d.foundation/contributor/innno_/).
+Every Friday, it's about putting learning into practice. If you've got an idea or a topic to add to the mix, reach out to [@thanh](https://memo.d.foundation/contributor/thanh/), [@innno\_](https://memo.d.foundation/contributor/innno_/).
 
 ![](assets/2024-whats-new-oct-ogif.png)
 

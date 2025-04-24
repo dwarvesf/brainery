@@ -1,8 +1,10 @@
 ---
 title: "#31 - The 3rd Cycle Review 📍"
-date: "2020-07-04"
-last_edited: "2025-04-07"
+date: 2020-07-04
+description: null
+last_edited: 2025-04-07
 ---
+
 We’ve just had a small party to recap the 3rd cycle of 2020. Hope you enjoyed the treat. For those who didn’t make it, we hope to see you next time 👋
 
 ### Design Freebie: Cryptosy

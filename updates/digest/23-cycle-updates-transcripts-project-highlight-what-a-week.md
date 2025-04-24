@@ -1,8 +1,10 @@
 ---
 title: "#23 - Cycle Updates, Transcripts & Project Highlight, what a week!"
-date: "2020-05-09"
-last_edited: "2025-04-07"
+date: 2020-05-09
+description: null
+last_edited: 2025-04-07
 ---
+
 ### The Next Cycle: March-April Updates and May-June Roadmap
 
 Two month passed by in a blink of an eye. And we're here with the new achievements. The detailed update has been posted on Woodland > Message Board. It was hard time collecting the pieces for the report, so I do hope it brings something you may find motivated & a clear vision on our next Roadmap.
@@ -27,8 +29,8 @@ Agenda
 - Well-crafted Software: the expected final outcome when we live the spirit of Craftsmanship
 - Agile <> Craftsmanship: advantage & disadvantage, our point of view on Craftsmanship
 - What's Next: what we do to discover and apply Craftsmanship onto the team
-What we Stand for - An Duong
-Our company name is quite hard to pronounce. Dwarf (/dwɔrf/) is a term for a mis-shapen creature in Svartalfheim, one the 9th Worlds, whom are best well known for their wisdom and crafting skills, or in other words, the best blacksmiths that create the top-notch tools.
+  What we Stand for - An Duong
+  Our company name is quite hard to pronounce. Dwarf (/dwɔrf/) is a term for a mis-shapen creature in Svartalfheim, one the 9th Worlds, whom are best well known for their wisdom and crafting skills, or in other words, the best blacksmiths that create the top-notch tools.
 
 We took that definition as their tools are our software, and given that nature, our goal is to product just the most value tool that helps bring impact and make impossible things possible. We make that happen through massive products and a wide range of activities:
 
@@ -36,8 +38,8 @@ We took that definition as their tools are our software, and given that nature, 
 - Venture Investment
 - Offshore Development
 - OSS Development
-Software Craftsmanship
-The definition of Craftsmanship is to conduct things with scrutiny. In every detail, at every stage, which makes us satisfied to witness the impact of our product to other clients or departments.
+  Software Craftsmanship
+  The definition of Craftsmanship is to conduct things with scrutiny. In every detail, at every stage, which makes us satisfied to witness the impact of our product to other clients or departments.
 
 It's a spirit to do the best we could in any circumstance.
 
@@ -62,8 +64,8 @@ There are many things to form up a good craftsman, but we decided to narrow it d
 - Professionalism: The code of conduct. This can be understand through a small example. When a task is assigned with a tight deadline, a craftsman will estimate the time he needs to get it done to make sure things work out precisely. He'll discusses and offers his estimation, rather than sticking with the deadline and come up with something that is unusable. Be honest & straightforward. Quality > quantity.
 - Pragmatism: Dealing with a problem in a way that suits the conditions, rather than following the fixed theories, ideas, or rules. When a craftsman receives a plan, he won't get lured by the requirements. It's gonna be a bit more realistic and down to earth. It will be facing the facts and coming up with suitable solution.
 - Incremental Improvement: Moving gradually toward success. Shorten the feedback loop & minimize the risk. Divide the improvement process into small rounds and focus on it. At the end of the day, we end up with mini achievements, rather than a long list of to-dos.
-Well-crafted Software
-We've been through the traits of Craftsmanship and what it takes to become a good craftsman. Now it's time we moved to the result that every craftsman wishes for: the Well-crafted Software.
+  Well-crafted Software
+  We've been through the traits of Craftsmanship and what it takes to become a good craftsman. Now it's time we moved to the result that every craftsman wishes for: the Well-crafted Software.
 
 Unlike working software, well-crafted software contains a clean design, high test coverage, easy to understand and maintain. Bugs and side effects are under control.
 
@@ -105,7 +107,7 @@ This only to help summarize the key point of this talk, which can be listed as
 - Definition of Craftsmanship: an attitude and an approach of how we solve the problem
 - Core value: we strive to create the best product quality, that motto outweighs all others
 - The need of collaboration and interpersonal skills
-What's NextSoftware Craftsmanship @DF will be rolled out every week or two, and the main topic should cover all aspects of our day-to-day workflow. For the next talk, we're thinking about Huy G giving his talk on Frontend coding; or Khiem's opinion on Software Modeling. One way or another, it's all about technical knowledge sharing and how things can be level up.
+  What's NextSoftware Craftsmanship @DF will be rolled out every week or two, and the main topic should cover all aspects of our day-to-day workflow. For the next talk, we're thinking about Huy G giving his talk on Frontend coding; or Khiem's opinion on Software Modeling. One way or another, it's all about technical knowledge sharing and how things can be level up.
 
 ### Software Craftsmanship @DF: Software Modeling
 
@@ -128,16 +130,16 @@ Table of Content
 1. Useful tips to create effective mobile application
 1. Introduction to iOS & Android - Thanh D.
 
-2. The Platforms to build Application - Giang V.
-Based on the programming languages, mobile application can be categorized into 4 types
+1. The Platforms to build Application - Giang V.
+   Based on the programming languages, mobile application can be categorized into 4 types
 
 - Native App: applications written to work on a specific device platform, using the suitable language for each platform, such as Java for Android, Objective C for iOS, C# for Windows Phone. For example, games written for iOS cannot be used in Android.
 - Web-based App: A computer program that utilizes web browsers and web technology to perform tasks over the Internet. This type of application is run on web platform, written by web languages like HTML5, CSS, Javascript of jQuery Mobile. Basically this is a website with application interface and data is loaded from browser.
 - Hybrid App: combines the elements of both native and Web applications. The basic parts of the application is still written in web language, but it will be placed on the native container.
-![](assets/notion-image-1744007117894-v90eh.webp)
+  ![](assets/notion-image-1744007117894-v90eh.webp)
 
 - Cross Platform (Multi-platform): one codebase is applied for all platforms. Developers only need to write the codebase once, then translate or transpile it into different Native App versions that for each different platform. This is known as the most cost-optimized one.
-Still, there are some researches claim that Hybrid App and Cross Platform are the same. Some said these two are different, so I'll put these into 4 types, so the traits of each type can be described clearer.
+  Still, there are some researches claim that Hybrid App and Cross Platform are the same. Some said these two are different, so I'll put these into 4 types, so the traits of each type can be described clearer.
 
 Pros & Cons of each Platforms
 
@@ -148,4 +150,3 @@ Pros & Cons of each Platforms
 - Read the Human Interface Guidelines
 - Talk with Dev
 - Component Structure between Android & iOS
-

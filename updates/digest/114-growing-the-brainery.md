@@ -1,13 +1,15 @@
 ---
 title: "#114 - Growing the Brainery"
-date: "2022-03-21"
-last_edited: "2025-04-07"
+date: 2022-03-21
+description: null
+last_edited: 2025-04-07
 ---
+
 Succeeding the previous notes, let’s have a look at two new inputs for March Brainery
 
 - Why invest in tools - @thanh
 - State, Explain, Link - @Tom
-I’ll give a round-up every two weeks and ensure no one’s left behind. If you have new notes lining up for Brainery, just drop them to me or @thanh. We’ll be happy to proceed. And pls remember, Dwarves Sponsor is here to support your learning.
+  I’ll give a round-up every two weeks and ensure no one’s left behind. If you have new notes lining up for Brainery, just drop them to me or @thanh. We’ll be happy to proceed. And pls remember, Dwarves Sponsor is here to support your learning.
 
 We need your sharing on DF Apprenticeship 2022
 

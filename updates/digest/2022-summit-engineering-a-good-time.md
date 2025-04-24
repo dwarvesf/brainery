@@ -12,6 +12,7 @@ tags:
   - team
   - updates
 ---
+
 We don’t treat team bonding the common way because we understand our engineers. Most of our engineers don’t want to run and get sweaty on the beach for “team-building” activities, or pretend to smile in front of the travel agent’s camera.
 
 This was our first company get-together after 2 years of COVID. It was organized in a way that we can all look back at the progress we’ve made, pat ourselves on the back, have a blast together, and look forward to an even better 2023.
@@ -20,7 +21,7 @@ This was our first company get-together after 2 years of COVID. It was organized
 
 ## Remote First Company
 
-We started with *Remote OK* back in 2017, following 37Signals, our tech crush at that time. In 2021, COVID took how we work to the next level. Since 2021, we have transitioned from a *Remote OK* to a **Remote First company** (except for some teammates due to the client’s security requirements). Our internal processes and engineers’ soft skills have been upgraded tremendously, making sure we perform smoothly across multiple time zones and geographies.
+We started with _Remote OK_ back in 2017, following 37Signals, our tech crush at that time. In 2021, COVID took how we work to the next level. Since 2021, we have transitioned from a _Remote OK_ to a **Remote First company** (except for some teammates due to the client’s security requirements). Our internal processes and engineers’ soft skills have been upgraded tremendously, making sure we perform smoothly across multiple time zones and geographies.
 
 ## Team scale
 
@@ -30,9 +31,9 @@ Although it’s short of our 2022 goal of doubling the team, we’re very proud 
 
 **In 2022 alone, we:**
 
-* Received 400+ applications
-* Invited 91 engineers for interviews
-* Onboarded 29 new teammates
+- Received 400+ applications
+- Invited 91 engineers for interviews
+- Onboarded 29 new teammates
 
 While the ratio of ~0.07% is astounding, it speaks to standards and quality. We are selective with who joins the team. For anyone who joins us, it’s a given they are pros at their jobs; they also need to love the culture we are working hard to protect and build up.
 
@@ -48,20 +49,20 @@ We’ve been active in a few communities, such as the Golang community, Webuild,
 
 **Dwarves Network**
 
-* [Techie Story](http://techiestory.net/)
-* [WeBuild](http://webuild.community/)
-* [Startup.vn](https://startup.vn/)
-* [Golang Vietnam](http://golang.org.vn/)
+- [Techie Story](http://techiestory.net/)
+- [WeBuild](http://webuild.community/)
+- [Startup.vn](https://startup.vn/)
+- [Golang Vietnam](http://golang.org.vn/)
 
 Most especially, Dwarves Discord Network where every techie can join to hang out and learn has grown to 600+ members.
 
-We’ve seen various tech-focused channels and events for the community,  as well as ways for everyone  [learn and earn](https://memo.d.foundation/).
+We’ve seen various tech-focused channels and events for the community, as well as ways for everyone [learn and earn](https://memo.d.foundation/).
 
-* **#engineering**: share our software know-how, programming advice, and technical insights.
-* **#learning-topics:** our knowledge-sharing system, where the Dwarves keep their learning, discoveries and helpful practice to build quality software.
-* **#blockchain:** where to find the knowledge piece to build the social layer for blockchain ecosystem.
-* **#campfire:** off-topics connect with our friends, alumni, and like-minded people.
-* **#minigame**: our Thursday minigame and happy hour for the Dwarves and communities. We work and have fun.
+- **#engineering**: share our software know-how, programming advice, and technical insights.
+- **#learning-topics:** our knowledge-sharing system, where the Dwarves keep their learning, discoveries and helpful practice to build quality software.
+- **#blockchain:** where to find the knowledge piece to build the social layer for blockchain ecosystem.
+- **#campfire:** off-topics connect with our friends, alumni, and like-minded people.
+- **#minigame**: our Thursday minigame and happy hour for the Dwarves and communities. We work and have fun.
 
 ## Company Trip Summit 2022
 
@@ -110,14 +111,14 @@ The message must be relayed through hand signs, with no devices or prepared item
 The encrypted message and key given to the teams at the start of the game:
 
 ```yaml
-  encryptedMessage: 52 1B 53 3E 49 26 47 15 2B
-  key: goggins
+encryptedMessage: 52 1B 53 3E 49 26 47 15 2B
+key: goggins
 ```
 
 The expected output after decrypting the message in ASCII:
 
 ```yaml
-  message: 5t4Y H4rD
+message: 5t4Y H4rD
 ```
 
 We took the opportunity to drink and have fun and help teams earn a bit for their efforts. We’ve also certainly enjoyed our stay in Phu Quoc. Our team had fun swimming near the coast, enjoying food, riding rides at the water park, and exploring everything at Phu Quoc.
@@ -130,10 +131,10 @@ We’re really happy about how Summit 2022 turned out. We’ve had quite a lot o
 
 Likewise, we’ve learned a lot during the trip and have taken a few steps ahead in planning for our next trip.
 
-* **Activities developed for engineers, by engineers.**<br>We want our people to have true, meaningful fun, so we want to open opportunities for our team to take part in developing games for not just our next trip but for everyone to enjoy.
-* **International trips.**<br>With the pandemic settling down globally, we will definitely have a look at places we haven’t been to and explore them together.
-* **Even bigger incentives.**<br>Allow everyone to earn and have fun doing so.
-* **Albums and videos for everyone to look back to.** <br>Create memories that everyone can take home, enjoy watching, and brag to their friends about.
+- **Activities developed for engineers, by engineers.**<br>We want our people to have true, meaningful fun, so we want to open opportunities for our team to take part in developing games for not just our next trip but for everyone to enjoy.
+- **International trips.**<br>With the pandemic settling down globally, we will definitely have a look at places we haven’t been to and explore them together.
+- **Even bigger incentives.**<br>Allow everyone to earn and have fun doing so.
+- **Albums and videos for everyone to look back to.** <br>Create memories that everyone can take home, enjoy watching, and brag to their friends about.
 
 Our goal for next year is to incorporate **Mastery, Meaning, and Autonomy**. These are some of the things we have in our backlog, and we’re certainly excited to try out more when we get to it.
 

@@ -1,19 +1,21 @@
 ---
 title: "#95 - Social Insurance Support"
-date: "2021-10-09"
-last_edited: "2025-04-07"
+date: 2021-10-09
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Social Insurance Labour Support
 
 For who has submitted for Labour Social Insurance, some new announcement has been made
 
 - Social Insurance timeline <12 months: 1,800,000 VND /pax
 - Social Insurance timeline from 12 to < 60 month: 2,100,000 VND/pax
-Van has helps to note down the detailed info in Woodland/Message Board. You can find the submission form and please help recheck your personal info.
+  Van has helps to note down the detailed info in Woodland/Message Board. You can find the submission form and please help recheck your personal info.
 
 ### Welcome @Ngoc to the Woodland
 
-We just had Ngoc onboarded this morning. He'll be joining our Frontend team and working directly with new client. Happy to have you here  👋
+We just had Ngoc onboarded this morning. He'll be joining our Frontend team and working directly with new client. Happy to have you here 👋
 
 ### The Launch of CyberNeko
 

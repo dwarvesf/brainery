@@ -1,16 +1,17 @@
 ---
 title: "Weekly Digest #8: Then came the last days of May"
-short_title: "#8 Then came the last days of May"
 date: 2024-05-31
 description: "Here's to hoping for a brighter and better month on this last day of May. We’re in the heat of a community offline meet-up today, gathering to discuss the month’s progress. Everyone's a bit busy arranging their travel to Saigon, a wild place we all call home. So, let’s dive into what we’ve been up to."
 authors:
   - innno_
+short_title: "#8 Then came the last days of May"
 tags:
   - weekly-digest
   - meetup
   - community
   - team
 ---
+
 Here's to hoping for a brighter and better month on this last day of May. We’re in the heat of a community offline meet-up today, gathering to discuss the month’s progress.
 
 Everyone's a bit busy arranging their travel to Saigon, a wild place we all call home. So, let’s dive into what we’ve been up to.
@@ -37,7 +38,7 @@ We're all so glad to have you here and we hope you have the best birthday ever. 
 
 I couldn't help but notice that a lot of us in the community seem to be really interested in astrology and personality typing. I think it's fascinating how these things can say a lot about our traits, strengths, and even potential career paths. [See if you find any match here](https://www.notion.so/Applying-Myers-Briggs-Type-Indicator-in-HR-a22ce338e4d549b89ae8503252688957?pvs=21).
 
-We've all had a laugh about the classic Libra @innno_ indecisiveness, Pisces @bienvh's dreaminess. And Leos? @anna brings that bold, confident energy wherever she goes. But beyond the jokes, there’s so much to learn about ourselves and each other.
+We've all had a laugh about the classic Libra @innno\_ indecisiveness, Pisces @bienvh's dreaminess. And Leos? @anna brings that bold, confident energy wherever she goes. But beyond the jokes, there’s so much to learn about ourselves and each other.
 
 Either way, we want everyone to feel celebrated for who they are.
 

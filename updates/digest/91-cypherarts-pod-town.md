@@ -1,8 +1,10 @@
 ---
 title: "#91 - CypherArts & Pod Town"
-date: "2021-09-11"
-last_edited: "2025-04-07"
+date: 2021-09-11
+description: null
+last_edited: 2025-04-07
 ---
+
 ### New project: Open Fabric
 
 Open Fabric is a platform for enabling interoperability and removing friction in online payments. We start the development work by help them create an open commerce network that offers consumers maximum choice and convenience.

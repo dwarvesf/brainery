@@ -1,8 +1,10 @@
 ---
 title: "#92 - More Dwarves in the Brain team"
-date: "2021-09-18"
-last_edited: "2025-04-07"
+date: 2021-09-18
+description: null
+last_edited: 2025-04-07
 ---
+
 ### More Dwarves join the brain team
 
 Based on the vote on our latest all-hands, we have invited some Dwarves to start looking into new topics. Nhut, Hieu V, Minh L, Nam & Phat were onboarded last week. We started with the Architectural Diagram and some lineup topics (such as SaaS, Blockchain integration & Data Aggregator)

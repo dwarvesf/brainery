@@ -1,5 +1,5 @@
 ---
-title: What's New in November 2023
+title: "What's New in November 2023"
 date: 2023-12-06
 description: Each month, we release a recap noting all the significant changes in our company and our team. November is our month for meetups and outstanding craftsmanship.
 authors:
@@ -10,6 +10,7 @@ tags:
   - golang
   - updates
 ---
+
 Last November, we kicked off the Labs team, introduced Salary Advance for the Dwarves, upgraded memo.d.foundation, supported Golang meetup, and demonstrated craftsmanship through various case studies and demos.
 
 - **[Launching Labs team](#launching-labs-team)** - Dwarves R&D team is officially in operation.

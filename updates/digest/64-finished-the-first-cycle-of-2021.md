@@ -1,8 +1,10 @@
 ---
 title: "#64 - Finished the first Cycle of 2021"
-date: "2021-02-27"
-last_edited: "2025-04-07"
+date: 2021-02-27
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Jan/Feb Changelog
 
 I’ve crafted up some key goals we’re (hopefully) to check off in 2021, mostly our plan is tweaking and making this a better place to work and be a part of. During our next Dwarves Radio Talk, the Ops team will walk through this a bit, and if you have anything to merge in, please do. We welcome all the ideas.

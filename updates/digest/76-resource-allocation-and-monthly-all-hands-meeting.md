@@ -1,7 +1,8 @@
 ---
 title: "#76 - Resource Allocation, and monthly all-hands meeting"
-date: "2021-05-22"
-last_edited: "2025-04-07"
+date: 2021-05-22
+description: null
+last_edited: 2025-04-07
 ---
 
 ### Apprenticeship Training Status

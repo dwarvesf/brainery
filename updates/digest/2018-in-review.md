@@ -11,6 +11,7 @@ tags:
   - wrap-up
   - team
 ---
+
 2018 was the memorable year with lots of achievements.
 
 We adapted the new team structure.

@@ -1,17 +1,19 @@
 ---
 title: "#126 - Latest in June"
-date: "2022-06-24"
-last_edited: "2025-04-07"
+date: 2022-06-24
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Performance Review Announcement
 
 As mentioned, we'll start the annual Performance Review next month. The specific procedure is as followed:
 
 - You submit a one-to-two-page of self evaluation to your manager (or @thanh if you don't have one). You should use this template: <https://bit.ly/3HLw7Oj>. Examples of measurable impact and specific growth areas should be reflected from our career ladder: <https://bit.ly/3n8MoU3>
-- You  are also required to give feedback to your colleagues, managers, and subordinates.
+- You are also required to give feedback to your colleagues, managers, and subordinates.
 - From your and peers' review, your managers will make their assessment. Then, we'll arrange a 1-hour performance discussion.
 - Rating & salary review, then result announcement.
-If you have any questions, feel free to ping your manager, @thanh or @thuongptt directly.
+  If you have any questions, feel free to ping your manager, @thanh or @thuongptt directly.
 
 ### More on June brain contributor
 
@@ -21,7 +23,7 @@ The fleeting notes have been collected, input into the brain repo and turned int
 - Engineering: overview of DDD <https://github.com/dwarvesf/brain/pull/32> by @Jim
 - Engineering: javascript modules <https://github.com/dwarvesf/brain/pull/37> by @namth
 - Design: what screens want <https://github.com/dwarvesf/brain/pull/39> by cnhhoang850
-Check out their great work; we’ve had few on team Obisidian as well.
+  Check out their great work; we’ve had few on team Obisidian as well.
 
 In case you’re unfamiliar with our submission flow for Brainery, we’ve made a step-by-step docs for yall: <https://bit.ly/3ybqAMX>
 

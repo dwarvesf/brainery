@@ -1,9 +1,11 @@
 ---
 title: "#109 - Back to work & 1-way flight Ticket"
-date: "2022-02-08"
-last_edited: "2025-04-07"
+date: 2022-02-08
+description: null
+last_edited: 2025-04-07
 ---
-Everyone, it's great to have you back at work. I hope everyone enjoys a wonderful Lunar New Year holiday with your family and returns to work in the best possible condition. It's time to put our hands on our hips and get to work  ❤️
+
+Everyone, it's great to have you back at work. I hope everyone enjoys a wonderful Lunar New Year holiday with your family and returns to work in the best possible condition. It's time to put our hands on our hips and get to work ❤️
 
 1-way Flight Ticket
 Reminding you again, 1-way Flight tickets to our work hubs are enabled as your wish. You can find the link below to fill in your expectations about the trip so that OPs team assist you more on your trip.

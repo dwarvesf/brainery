@@ -1,12 +1,13 @@
 ---
 title: "#41 - Dwarves Updates: WeUp & NYP"
-date: "2020-09-12"
-last_edited: "2025-04-07"
+date: 2020-09-12
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Internship Review
 
 After 2 months of internship, Phuc, Hoang & Khoi will resume their study at Bach Khoa University, while Tri continues his journey with us. We hope you had a great time and continue your good work in the future.
-
 
 ### Dwarves Foundation <> NYP
 

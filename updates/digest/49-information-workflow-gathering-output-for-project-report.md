@@ -1,8 +1,10 @@
 ---
 title: "#49 - Information Workflow - Gathering output for project report"
-date: "2020-11-07"
-last_edited: "2025-04-07"
+date: 2020-11-07
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Information Workflow
 
 Previously, we have known about auto-release, you know, where the bot keeps update the latest status of development. Quynh has spent her time to double check the release changelog after signing it off to go to production from one hub only.

@@ -1,12 +1,13 @@
 ---
 title: Navigating changes
 date: 2024-09-30
-description: The last tech cycle is ending, and we're already in the new normal. We are not in the best shape to compete with certain competitors, especially with a new market meta emerging. We are now in a future of new automation paradigms via AI and assets are moving on-chain.
+description: "The last tech cycle is ending, and we're already in the new normal. We are not in the best shape to compete with certain competitors, especially with a new market meta emerging. We are now in a future of new automation paradigms via AI and assets are moving on-chain."
 authors:
   - tieubao
 tags:
   - updates
 ---
+
 ### PURPOSE
 
 For a long time, we've pursued innovation. It is our motivation. I believe that at some point, we don't want to take on boring maintenance work but instead focus on new ideas, exciting technology, or projects of significant value, not just routine tasks.
@@ -61,7 +62,7 @@ Our Discord isn't just a chatroom; it will remain a hub of learning and connecti
 
 Let's continue to nurture this space.
 
-### RECAP ,  TL;DR
+### RECAP , TL;DR
 
 1. The innovation market has changed progressively.
 2. Our target customers are changing accordingly (Blockchain, AI, Data).

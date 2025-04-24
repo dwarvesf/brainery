@@ -1,8 +1,10 @@
 ---
 title: "#88 - Projects Kudos"
-date: "2021-08-21"
-last_edited: "2025-04-07"
+date: 2021-08-21
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Project Kudos
 
 Good words earlier last week from the clients. I would like to give a big congrats our two teams working on Blockchain projects. Shout out Nikki, Hien, Khai, Huyen, Vy and Khanh. Please keep the good work coming 🙌

@@ -1,5 +1,5 @@
 ---
-title: What's New in December 2023
+title: "What's New in December 2023"
 date: 2024-01-03
 description: In December, we launched our Consulting Team, released our finding on tech trends, and last but not least, got everyone ready to wrap up 2023.
 authors:
@@ -11,6 +11,7 @@ tags:
   - doty
   - updates
 ---
+
 > **Before you dive in**
 > Dwarves is operated as a 50% company, 50% community. Everything we learn along the way of work, we transform into knowledge and distribute back to our tech community.
 >
@@ -80,6 +81,7 @@ Email us at <spawn@d.foundation> or ping @nikki on Discord for JDs / to refer so
 ## FAQ
 
 **Q: Do Dwarves offer internships?**
+
 > Currently we don't have any internship positions available. Dwarves facilitate apprenticeship and internship as a program, instead of individually. News about these programs will be updated on [memo.d.foundation](memo.d.foundation).
 
 **Q: How can I contribute to Dwarves network?**

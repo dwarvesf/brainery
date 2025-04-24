@@ -1,8 +1,10 @@
 ---
-title: "September Changelog"
-date: "2021-10-01"
-last_edited: "2025-04-07"
+title: September Changelog
+date: 2021-10-01
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Foundation
 
 Project Compliance
@@ -11,7 +13,7 @@ As you've noticed recently, we continually conduct project compliances. The goal
 
 - Check on team's knowledge about the product they're building
 - Let the team experience further into the product development life cycle
-So far, two of our projects have done their session. We got the chance to inspect the underlying issue and resolve bottleneck. The management team is open for more. Give us Ngoc or Huy a ping if you feel this could help improve your current team.
+  So far, two of our projects have done their session. We got the chance to inspect the underlying issue and resolve bottleneck. The management team is open for more. Give us Ngoc or Huy a ping if you feel this could help improve your current team.
 
 Performance Review
 
@@ -66,8 +68,8 @@ We're trialling this with project LFW, and expected to launch a demo once everyt
 
 Automated Bot
 
-After a few weeks run, these two new  bots are going official:
+After a few weeks run, these two new bots are going official:
 
 - 👍 Reaction Bot: To get project review through changelog
 - 📈 Upsert Bot: To update new fella who joins us through subscribing
-![](assets/notion-image-1744006942098-q4hgd.webp)
+  ![](assets/notion-image-1744006942098-q4hgd.webp)

@@ -1,8 +1,10 @@
 ---
 title: "#20 - This is Mail Subject"
-date: "2020-04-18"
-last_edited: "2025-04-07"
+date: 2020-04-18
+description: null
+last_edited: 2025-04-07
 ---
+
 ## This is Mail Subject
 
 ---
@@ -24,13 +26,13 @@ Click on the icon of the ambience you prefer, and select a song below. I still m
 To further meet your demand in knowledge expansion, Van has created some accounts for these essential needs
 
 - Ludwig Guru: Ludwig helps to select the best sentence for your paragraph by providing suitable contexts. Some of us have been using Grammarly for a while, but that only works for word choices. We know that.
-![](assets/notion-image-1744007155490-8wnuk.webp)
+  ![](assets/notion-image-1744007155490-8wnuk.webp)
 
 - Frontend Masters: to all Frontend geeks, this one is for your. The in-depth courses frontend advanced skills from Practical Guide to Hardcore.,
-![](assets/notion-image-1744007155645-pw7ki.webp)
+  ![](assets/notion-image-1744007155645-pw7ki.webp)
 
 - Educative: Another Interactive coding skills course for different languages. Unlike Frontend Masters, courses from Educative are laid out in rich text, allows you to practice as you learn with no set-up required.
-![](assets/notion-image-1744007155825-is16k.webp)
+  ![](assets/notion-image-1744007155825-is16k.webp)
 
 All the accounts are saved in Team 1Password, for those who haven't get familiarized with it, take a look here.
 

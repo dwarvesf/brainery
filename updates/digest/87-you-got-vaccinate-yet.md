@@ -1,8 +1,10 @@
 ---
 title: "#87 - You got vaccinate yet?"
-date: "2021-08-14"
-last_edited: "2025-04-07"
+date: 2021-08-14
+description: null
+last_edited: 2025-04-07
 ---
+
 ### V-model approach for project
 
 Nam has finished setting up the automation testing workflow. He'll now join LFW to apply this and adjust the flow for V-model approach.

@@ -1,5 +1,5 @@
 ---
-title: What's New in November 2024
+title: "What's New in November 2024"
 date: 2024-12-04
 description: In November, we sharpened our focus with advancements in platform engineering, introduced streamlined service packages, elevated ICY rewards for impactful contributions, and embraced key insights from market shifts, all building momentum as we gear up for our Penang retreat.
 authors:
@@ -9,6 +9,7 @@ tags:
   - memo
   - community
 ---
+
 - [**Building the team's second brain:**](#building-smarter-systems-with-platform--data-engineering) Progress in platform & data engineering, smarter decision-making, and new directions ahead.
 - [**Sharpening OGIF weekly sharing:**](#sharpening-ogif-office-hours-where-learning-grows) Updates to align with team priorities and industry trends for deeper learning.
 - [**Team copilot tools:**](#team-copilots-index-smarter-tools-to-simplify-your-work) Advancing productivity with AI copilots - tools designed to streamline and elevate our work.
@@ -66,7 +67,7 @@ The tech world doesn't stand still, opening up exciting opportunities for growth
 Here's where we see the shifts:
 
 1. More interesting work ahead - clients want folks who can mix skills like backend/full-stack
-with Blockchain or Data.
+   with Blockchain or Data.
 2. Generative AI continues to make waves, with solution design and system architecture becoming the real differentiators.
 3. The road ahead is rich with potential in **Blockchain, Data, Platform, and AI/LLM.**
 
@@ -130,7 +131,7 @@ Get ready - we're taking the team to **Penang, December 14–17, 2024**. After a
 
 Four days of good food, beach vibes, and quality time with the crew. We've planned a mix of activities that'll let you experience the best of Penang while getting to know your teammates better.
 
- Highlights to expect:
+Highlights to expect:
 
 - Team activities that bring us closer.
 - Local food and culture to explore.

@@ -1,8 +1,10 @@
 ---
 title: "#141 - All about getting better"
-date: "2022-10-31"
-last_edited: "2025-04-07"
+date: 2022-10-31
+description: null
+last_edited: 2025-04-07
 ---
+
 Resuming project changelogs
 
 - Not a lot of companies provide clients with weekly changelogs. Dwarves use changelogs to summize the work we deliver and also to get frequent feedback, so we can be better. Starting now, every project is required to have weekly changelogs.

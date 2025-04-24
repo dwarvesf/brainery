@@ -1,8 +1,10 @@
 ---
 title: "#104 - Vote for your Dwarves"
-date: "2021-12-18"
-last_edited: "2025-04-07"
+date: 2021-12-18
+description: null
+last_edited: 2025-04-07
 ---
+
 It’s 2 weeks early, but we’ve sent out the New Year Holiday Announcement for our clients. The Dwarves will officially take days off from 1/1/2022 till 3/1/2022. We’ll resume work on Tuesday, 4/1/2022.
 
 Still, the pandemic is happening. Please take good care of yourself and the fam. Wish y’all have a good holiday ahead.

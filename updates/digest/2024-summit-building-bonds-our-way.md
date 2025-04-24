@@ -10,6 +10,7 @@ tags:
   - team
   - updates
 ---
+
 ## The journey begins
 
 Penang's vibrant streets became our playground this year. Our goal stood clear and simple: reconnect, recharge, and create memories together. The excitement built as team members from different cities touched down, some crossing borders for the first time.

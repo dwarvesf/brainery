@@ -1,8 +1,10 @@
 ---
 title: "#04 - Introduce to Hidden Bar"
-date: "2019-12-21"
-last_edited: "2025-04-07"
+date: 2019-12-21
+description: null
+last_edited: 2025-04-07
 ---
+
 Hidden Bar
 
 Created by our MacOS team, Hidden Bar allows its user to remove unnecessary items from MacOS menu bar. Achieve a clean and minimal desktop in a few clicks. Kudos to the great work!
@@ -17,7 +19,7 @@ A part of reaching to the full version of Dwarves Foundation Culture Book. Those
 
 - Software Craftsmanship
 - Avoid Burnout
-Engineering 1-1 Meeting
+  Engineering 1-1 Meeting
 
 The Operation team has just finished the 1-1 meeting with some of our engineers.
 

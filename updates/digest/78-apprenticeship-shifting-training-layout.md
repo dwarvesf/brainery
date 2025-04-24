@@ -1,8 +1,10 @@
 ---
 title: "#78 - Apprenticeship: Shifting training layout"
-date: "2021-06-05"
-last_edited: "2025-04-07"
+date: 2021-06-05
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Apprenticeship: Shifting training layout
 
 A few weeks have gone by with some training. But there are more to meet the eyes than technical topics.

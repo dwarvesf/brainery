@@ -1,7 +1,7 @@
 ---
-title: What's New in July 2024
+title: "What's New in July 2024"
 date: 2024-08-09
-description: Each month, we release a recap highlighting key updates and progress within our team and community. July covers AI advancements, community contributions, insights from Vietnam's tech scene, new memo commands, OGIF automation, and the introduction of our hourly billing model
+description: "Each month, we release a recap highlighting key updates and progress within our team and community. July covers AI advancements, community contributions, insights from Vietnam's tech scene, new memo commands, OGIF automation, and the introduction of our hourly billing model"
 authors:
   - innno_
   - nikki
@@ -10,6 +10,7 @@ tags:
   - memo
   - community
 ---
+
 - [**Reporting Tech Signals:**](#reporting-tech-signals---ai-advancements-cybersecurity-focus-and-shifting-software-trends) Significant AI advancements, cybersecurity focus, and shifting software development trends.
 - [**memo.d.foundation**:](#new-memo-command-to-boost-team-contributions) You can now access new commands to view the memo list and automate weekly reports.
 - [**Dwarves Token Usage:**](#dwarves-token-usage-for-july) Community participation led to ~857 ICY being rewarded for contributions, including OGIF talks, tech sharing, memo notes, and bounties.
@@ -48,9 +49,9 @@ The amount of ICY distributed is still below the team's limit, so there's plenty
 
 We've seen a great increase in memo input from members this month. Here's the list for July:
 
-1. [Devbox Map of Content](https://memo.d.foundation/playground/-devbox/), [Ton's base concepts](https://memo.d.foundation/playground/01_literature/ton_core_concept/), [Ton ecosystem](https://memo.d.foundation/playground/01_literature/ton_blockchain_of_blockchains/)  - @bienvh
+1. [Devbox Map of Content](https://memo.d.foundation/playground/-devbox/), [Ton's base concepts](https://memo.d.foundation/playground/01_literature/ton_core_concept/), [Ton ecosystem](https://memo.d.foundation/playground/01_literature/ton_blockchain_of_blockchains/) - @bienvh
 2. [Go Weekly: Go 1.23 Iterators](https://memo.d.foundation/playground/00_fleeting/go-weekly-511/), [Go Commentary July 08](https://memo.d.foundation/playground/00_fleeting/go-commentary-jul-12/), [Go Commentary July 26](https://memo.d.foundation/playground/00_fleeting/go-commentary-jul-26/) - @fuatto
-3. [Re-ranking in RAG](https://memo.d.foundation/playground/01_literature/engineering/ai/re-ranking-in-rag/) -  @hoangnnh
+3. [Re-ranking in RAG](https://memo.d.foundation/playground/01_literature/engineering/ai/re-ranking-in-rag/) - @hoangnnh
 4. [Market report July](https://memo.d.foundation/playground/01_literature/market-report-july-2024/) - @thanh, @tom
 5. [Local-first Software](https://memo.d.foundation/playground/01_literature/local-first-software/) - @lapnn
 6. [Building a Local Search Engine for Our Memo Website](https://memo.d.foundation/playground/01_literature/creating-a-fully-local-search-engine-on-memo/) - @tom
@@ -98,20 +99,20 @@ Leading firms like 500 Startups Vietnam, VSV Capital, and VinaCapital Ventures a
 
 ## OGIF automation recording and topics overview
 
-To improve the efficiency and accessibility of recording our OGIF sessions, thanks to @quang, @tom, and @innno_ for their efforts in streamlining the automation recording process.
+To improve the efficiency and accessibility of recording our OGIF sessions, thanks to @quang, @tom, and @innno\_ for their efforts in streamlining the automation recording process.
 
 Last month, we've walked through:
 
-- [Multimodal in RAG](https://memo.d.foundation/playground/01_literature/engineering/ai/multimodal-in-rag/), [Re-ranking in RAG](https://memo.d.foundation/playground/01_literature/engineering/ai/re-ranking-in-rag/) -  @hoangnnh
-- [Go Weekly: Go 1.23 Iterators](https://memo.d.foundation/playground/00_fleeting/go-weekly-511/), [Go Commentary July 08](https://memo.d.foundation/playground/00_fleeting/go-commentary-jul-12/), [Go Commentary July 26](https://memo.d.foundation/playground/00_fleeting/go-commentary-jul-26/)  - @fuatto
+- [Multimodal in RAG](https://memo.d.foundation/playground/01_literature/engineering/ai/multimodal-in-rag/), [Re-ranking in RAG](https://memo.d.foundation/playground/01_literature/engineering/ai/re-ranking-in-rag/) - @hoangnnh
+- [Go Weekly: Go 1.23 Iterators](https://memo.d.foundation/playground/00_fleeting/go-weekly-511/), [Go Commentary July 08](https://memo.d.foundation/playground/00_fleeting/go-commentary-jul-12/), [Go Commentary July 26](https://memo.d.foundation/playground/00_fleeting/go-commentary-jul-26/) - @fuatto
 - [Radix sort](https://memo.d.foundation/playground/01_literature/radix-sort/) - @hieuvd
 - [Feedback mechanism for LLM app](https://memo.d.foundation/playground/01_literature/feedback-mechanism/) - @datnguyennnx
 - [How to talk to ChatGPT effectively](https://memo.d.foundation/playground/00_fleeting/how-to-talk-to-chatgpt-effectively/) - @minh_cloud
 - [Local-first Software](https://memo.d.foundation/playground/01_literature/local-first-software/) - @lapnn
 - [TIL in Dune's query](https://memo.d.foundation/updates/ogif/16-ogif-office-hours-0726/) - @phucld
-- [AI voice clone demo](https://memo.d.foundation/updates/ogif/16-ogif-office-hours-0726/) -  @tom
-- [Architect supervisor AI agent](https://memo.d.foundation/updates/ogif/16-ogif-office-hours-0726/) -  @toanhq, @datnguyennnx
-- [AI code completion overview](https://memo.d.foundation/updates/ogif/16-ogif-office-hours-0726/) -  @minhlq
+- [AI voice clone demo](https://memo.d.foundation/updates/ogif/16-ogif-office-hours-0726/) - @tom
+- [Architect supervisor AI agent](https://memo.d.foundation/updates/ogif/16-ogif-office-hours-0726/) - @toanhq, @datnguyennnx
+- [AI code completion overview](https://memo.d.foundation/updates/ogif/16-ogif-office-hours-0726/) - @minhlq
 
 ## Dwarves advancing with Golang: Enterprise solutions and industry insights
 

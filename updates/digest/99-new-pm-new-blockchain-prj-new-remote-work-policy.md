@@ -1,8 +1,10 @@
 ---
 title: "#99 - New PM, new Blockchain Prj & New remote-work policy"
-date: "2021-11-13"
-last_edited: "2025-04-07"
+date: 2021-11-13
+description: null
+last_edited: 2025-04-07
 ---
+
 Last Monday, we welcomed a new Project Manager. Along with Khai, he will start to oversee our current project, input his work experience and help us deliver a better standard of project quality. Also, we're happy to onboard a new Backend Lead to help grow the team.
 
 Last Monday, we welcomed Bao Anh as our Project Manager. Along with Khai, he will start to oversee our current project, input his work experience and help us deliver a better standard of project quality. Also, we're happy to onboard Thanh Pham to help grows the team as Backend Lead.

@@ -1,8 +1,10 @@
 ---
-title: "December All-hands Meeting"
-date: "2022-01-07"
-last_edited: "2025-04-07"
+title: December All-hands Meeting
+date: 2022-01-07
+description: null
+last_edited: 2025-04-07
 ---
+
 ## Moving with Blockchain
 
 ---
@@ -41,7 +43,6 @@ A huge congratulation for our Dwarves of 2021! Please help to tick your wishlist
 
 We’ve received much input to help improve the team - just to confirm that all of those ideas have been logged into our 2022 todo-list.
 
-
 Dwarves, don’t forget to drop your info at Team Address - I’ll have these small gifts delivered to you real soon.
 
 Here’s to rock 2022!
@@ -51,5 +52,3 @@ Here’s to rock 2022!
 We shift our focus to real deals.
 
 Meanwhile, #blockchain #web3 channels are there for the Dwarves to learn & exchange their knowns. Grab your seat.
-
-

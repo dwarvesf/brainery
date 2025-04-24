@@ -1,8 +1,10 @@
 ---
 title: "#67 - Official Launch of Apprenticeship"
-date: "2021-03-20"
-last_edited: "2025-04-07"
+date: 2021-03-20
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Apprenticeship Launching
 
 Apprenticeship has officially launched last Wednesday. Thank you for all the effort during preparation stage and the Dwarves for help sharing the message. If you have any connection who might be a good fit for us, please help connect them to the program through any of these channels below. Kudos to all the support 🖤
@@ -12,7 +14,7 @@ Apprenticeship has officially launched last Wednesday. Thank you for all the eff
 - Facebook
 - LinkedIn
 - Medium
-Also, we have crafted up some Q&As here, just in case.
+  Also, we have crafted up some Q&As here, just in case.
 
 ![](assets/notion-image-1744007029067-f3w2a.webp)
 
@@ -22,7 +24,7 @@ As you all know, we have many ventures projects over the past year. But we never
 
 - Dwarves Ventures, Fund 0
 - Dwarves Ventures, Fund 1
-Btw, our Memo’s word font has been switched to Georgia thanks to Huy, as we believe it might help the reading experience becomes better. As a fan of Medium, can’t express how much I’m grateful for this update.
+  Btw, our Memo’s word font has been switched to Georgia thanks to Huy, as we believe it might help the reading experience becomes better. As a fan of Medium, can’t express how much I’m grateful for this update.
 
 ### Healthcare Checkup
 

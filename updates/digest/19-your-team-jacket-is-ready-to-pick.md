@@ -1,8 +1,10 @@
 ---
 title: "#19 - Your Team Jacket is ready to pick"
-date: "2020-04-11"
-last_edited: "2025-04-07"
+date: 2020-04-11
+description: null
+last_edited: 2025-04-07
 ---
+
 ## Your Team Jacket is ready to pick
 
 ---
@@ -26,7 +28,6 @@ We're having 4 sizes in total: M-L-XL-XXL
 sudo.fm is a music site that combines our chilling playlists with a theme of ambience noise. Currently, Thunder Rain and River stream are the first two that the team came up with. Hope to see more of the likes. The Breath and Life x Thunder Rain combo has been my most favorite so far 👽
 
 ![](assets/notion-image-1744007157818-vs72y.webp)
-
 
 ### #DFUncensored - Huy N. 📟
 

@@ -1,15 +1,17 @@
 ---
 title: "#102 - November All-hands Sum up"
-date: "2021-12-04"
-last_edited: "2025-04-07"
+date: 2021-12-04
+description: null
+last_edited: 2025-04-07
 ---
+
 Business Direction doesn't change much from last month. We're still place our focus on blockchain-based deals and expand the team with more experience in this field of tech.
 
 ### New Deals in Town
 
 - Blockchain-based project that creates customized tools for professional traders.
 - Cross-chain exchanged platform and NFT marketplace. Another highlight ? We got Lufty back on this!
-We're stretching the office hubs. The chalet in DaLat is getting reconstructed; while Phat N & Hieu P are setting up to welcome the first nomads to Da Nang place. We're heading for a squad of 15-25 teammates there. Tech Meetup and Training will be hosted here next year, that's the plan.
+  We're stretching the office hubs. The chalet in DaLat is getting reconstructed; while Phat N & Hieu P are setting up to welcome the first nomads to Da Nang place. We're heading for a squad of 15-25 teammates there. Tech Meetup and Training will be hosted here next year, that's the plan.
 
 ### New Member
 
@@ -19,7 +21,7 @@ Proud to announce some updates in project member
 - Thanh Pham joined us as Blockchain Engineer
 - Kieu Huy joined us as a part-time Blockchain Engineer
 - Khanh Phan joined us as Visual Designer
-Warmly welcome y'all!
+  Warmly welcome y'all!
 
 ### Highlight Team Effort
 

@@ -1,8 +1,10 @@
 ---
 title: "#17 - Why People so Giàu lately?"
-date: "2020-03-28"
-last_edited: "2025-04-07"
+date: 2020-03-28
+description: null
+last_edited: 2025-04-07
 ---
+
 ## Why People so Giàu lately?
 
 ---
@@ -11,14 +13,14 @@ See the title? Exactly, that's the common reaction after I created a mini-campai
 
 Enjoy this week's articles!
 
-_
+\_
 
 ### Design Behance New Portfolio ✨
 
 The latest achievement comes from our Design Team - 2 kickass portfolios on Behance. Both cases are about to enhance the app's UI and help our Designers to improve on the fin-tech domain knowledge.
 
 1. FINN : a micro-investing application to save small sums of money regularly.
-![](assets/notion-image-1744007191551-2phdm.webp)
+   ![](assets/notion-image-1744007191551-2phdm.webp)
 
 2. PAYFLOW : A digital wallet for simple withdrawal.
 

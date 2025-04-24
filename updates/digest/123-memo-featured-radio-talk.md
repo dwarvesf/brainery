@@ -1,8 +1,10 @@
 ---
 title: "#123 - Memo featured Radio Talk"
-date: "2022-06-06"
-last_edited: "2025-04-07"
+date: 2022-06-06
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Apprenticeship Updates
 
 For those who missed our workshops, you can stream at: <https://bit.ly/3GS4N0p>
@@ -15,7 +17,7 @@ Buck up and mark these date below for our upcoming workshops
 - Software testing: June 20
 - Product Quality and Delivery: June 22
 - Navigate your career: June 24
-Please make your reservation on time @intern and @apprentices.
+  Please make your reservation on time @intern and @apprentices.
 
 ### Find your Radio Talk at Memo
 
@@ -23,7 +25,7 @@ The first few transcripts of Radio Talk - our weekly tech-sharing, have just bee
 
 - React 18: <https://bit.ly/3NTpawt>
 - Remix versus Next.js: <https://bit.ly/3Mlb8CO>
-In Dwarves, we encourage peeps to proudly share their work. And in case you forget, it’s June already and we’re calling for new month brainery contribituors.
+  In Dwarves, we encourage peeps to proudly share their work. And in case you forget, it’s June already and we’re calling for new month brainery contribituors.
 
 ![](assets/notion-image-1744007374862-spk57.webp)
 

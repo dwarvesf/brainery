@@ -1,8 +1,10 @@
 ---
 title: "#110 - Health Insurance Renewal"
-date: "2022-02-14"
-last_edited: "2025-04-07"
+date: 2022-02-14
+description: null
+last_edited: 2025-04-07
 ---
+
 Health Insurance Renewal
 
 We’re planning to move our current Bao Viet insurance to a better-beneficial package. The Ops Team is handling the transfer process and will keep you posted in this Basecamp thread <https://3.basecamp.com/4108948/buckets/9403032/messages/4618474560>. Drop @Gthan or me a ping if you have any questions on this.

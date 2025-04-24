@@ -1,8 +1,10 @@
 ---
 title: "#129 - In Dwarves this week "
-date: "2022-07-14"
-last_edited: "2025-04-07"
+date: 2022-07-14
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Shoutout
 
 - Proud to announce that we’ve successfully wrapped up our collaboration with a partner. Kudos to their team @dunglp, @hieuthu1 and @nam for successfully meeting the milestone ✔️
@@ -20,7 +22,7 @@ There’re more inputs for the first half of July’s Brainery:
 - Engineering: Full-text search in PostgreSQL <https://github.com/dwarvesf/brain/pull/45> by @hoangnnh
 - Engineering: The value of fundamentals in software development <https://github.com/dwarvesf/brain/pull/47> by @thanh
 - Data: Hadoop Distributed File System (HDFS) <https://github.com/dwarvesf/brain/pull/50> by @dudaka
-Remember Dwarves Sponsor is here for y’all. Welcome for all submission.
+  Remember Dwarves Sponsor is here for y’all. Welcome for all submission.
 
 ### Release the first tech event in Dwarves Network
 

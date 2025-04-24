@@ -1,8 +1,10 @@
 ---
 title: "#06 - You're Invited to Dwarves Foundation 5th Anniversary"
-date: "2020-01-04"
-last_edited: "2025-04-07"
+date: 2020-01-04
+description: null
+last_edited: 2025-04-07
 ---
+
 ## You're Invited to Dwarves Foundation 5th Anniversary
 
 ---
@@ -38,7 +40,7 @@ Every office has been assigned a lead to make sure things are done perfectly.
 - Lead Block A: Khai + Ngoc
 - Lead Block B: Ly + Huy N.
 - Lead Block D: Anh T + Giang V.
-For the "Definition of Done" of Office Cleaning, have a check at this 👉 Announcement !
+  For the "Definition of Done" of Office Cleaning, have a check at this 👉 Announcement !
 
 Blog Post
 

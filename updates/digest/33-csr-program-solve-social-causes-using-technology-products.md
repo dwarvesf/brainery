@@ -1,8 +1,10 @@
 ---
 title: "#33 - CSR Program: Solve Social Causes using Technology Products"
-date: "2020-07-18"
-last_edited: "2025-04-07"
+date: 2020-07-18
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Kick-off CSR Program: Social Impact / NPO Support
 
 CSR (Corporate Social Responsibility) is a program where we aim to offer discount or free-of-charge for website development to solve social causes using technology products.
@@ -19,7 +21,7 @@ We welcomed the freshman from Back Khoa University last Monday. The interns are 
 - Phuc Nguyen: Front-end Intern
 - Tri Tran: Front-end Intern
 - Hoang Nguyen: Back-end Fresher
-It’s great to have you on board. Hope you spend a quality time with the team and gain many achievements.
+  It’s great to have you on board. Hope you spend a quality time with the team and gain many achievements.
 
 ### Insurance Renewal
 

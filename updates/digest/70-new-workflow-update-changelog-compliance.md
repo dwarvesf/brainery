@@ -1,8 +1,10 @@
 ---
 title: "#70 - New workflow update : Changelog & Compliance"
-date: "2021-04-10"
-last_edited: "2025-04-07"
+date: 2021-04-10
+description: null
+last_edited: 2025-04-07
 ---
+
 ### Apprenticeship Update
 
 After 3 weeks of rolling out, Apprenticeship has finally ready for the first training period with 8 members onboarded, from engineers to designers. We'll soon gather the seniors for the trainer team and come up with a detailed strategy.
