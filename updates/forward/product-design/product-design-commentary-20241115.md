@@ -1,5 +1,4 @@
 ---
-
 tags:
   - UX-UI
   - product-design
@@ -27,15 +26,19 @@ This scenario highlights a common challenge in applying AI across industries. It
 Machine learning (ML) is not a one-size-fits-all solution. Misguided applications of ML can result in unintended consequences. Identifying the right problem to address and evaluating whether ML is the most suitable tool is paramount. **While AI and ML can solve complex problems, they cannot independently identify what problems need solving**—a critical role that UX plays in steering the application of technology effectively.
 
 ## What’s New When Working with AI?
+
 When designing any product, user-centered decisions are key. Three critical considerations for integrating AI into products are:
 
 ### Identifying the Intersection of User Needs and AI Strengths
+
 Determine the real-world problems users need to solve and evaluate whether AI offers unique value in addressing these issues. This requires a deep understanding of user needs and AI capabilities to ensure the proposed solution is both practical and valuable.
 
 ### Balancing Automation vs. Augmentation
+
 Decide whether AI should fully automate a task or merely enhance user performance. Automation suits repetitive, mundane, or hazardous tasks, while augmentation is better suited for tasks where users want active involvement and where social or cognitive value is significant.
 
 ### Designing and Evaluating Reward Functions
+
 Every AI model is guided by a reward function, also called an “objective function” or “loss function.” This is a set of mathematical formulas that define the system's perception of "correct" versus "incorrect" predictions. Careful design of the reward function ensures long-term benefits and avoids unintended outcomes that might adversely affect user experience.
 
 ### Use Case Examples: When AI Works Best vs. When It Doesn't
@@ -45,7 +48,9 @@ Every AI model is guided by a reward function, also called an “objective funct
 ![](assets/6-product-design-weekly-fall-short.png)
 
 ## Where to Integrate AI into Products and Solutions
+
 ### Enhancing Efficiency
+
 AI can learn user behaviors, identify patterns, and make actionable suggestions to save time and resources. For instance, [**Siri**](https://support.apple.com/en-vn/guide/iphone/iph6f94af287/ios) suggests apps based on daily habits, like opening a fitness tracker at 6 a.m. if the user jogs at that time. Similarly, platforms like Netflix and YouTube recommend content based on viewing history.
 
 ![](assets/6-product-design-weekly-siri.png)
@@ -53,6 +58,7 @@ AI can learn user behaviors, identify patterns, and make actionable suggestions 
 AI also enhances logistics efficiency. Delivery services like DHL and FedEx optimize delivery routes, cutting fuel costs by up to 30%. These systems predict optimal paths and times, saving shipping costs and improving delivery speed.
 
 ### Reducing Mundane Tasks
+
 AI is ideal for automating repetitive, low-value tasks. For example, AI tools in Photoshop now automate background removal or complex graphic designs with simple commands, tasks that once required significant manual effort.
 
 ![](assets/6-product-design-weekly-mundane-task.png)
@@ -64,6 +70,7 @@ In finance, AI-powered tools consolidate data from various crypto exchanges, [ge
 Automation, however, isn't always ideal. Some tasks, like journaling or creative work, offer intrinsic value when performed manually. Instead of fully automating such activities, AI can assist by suggesting ideas or providing guidance, enhancing the user’s creative experience without taking over.
 
 ### Supporting User Tasks
+
 AI can act as a powerful assistant, helping users achieve goals seamlessly. Financial apps like **Acorns** and **Wealthfront** use AI to help users manage savings, track progress toward milestones like homeownership, and adjust strategies based on personal financial data.
 
 ![](assets/6-product-design-weekly-wealth-front.png)
@@ -79,6 +86,7 @@ Grammarly and Notion AI assist users in writing tasks, ranging from crafting mar
 Similarly, [Duolingo](https://blog.duolingo.com/duolingo-max/) incorporates gamification into language learning through daily and weekly challenges. These challenges are tailored to match the learner's current proficiency level, helping them progress while maintaining an effective and engaging learning routine.
 
 ### Improving Safety and Health
+
 AI enhances user safety through real-time data processing. Apple devices analyze user movements to detect falls, automatically contacting emergency services if necessary.
 
 ![](assets/6-product-design-weekly-health.png)
@@ -86,9 +94,10 @@ AI enhances user safety through real-time data processing. Apple devices analyze
 In healthcare, AI systems like DeepMind's retinal disease detection analyze medical images to [diagnose conditions](https://deepmind.google/discover/blog/using-ai-to-predict-retinal-disease-progression/) early. With accuracy rivaling specialists, such tools empower healthcare providers to deliver faster, more reliable care.
 
 ![](assets/6-product-design-weekly-deep-mind.png)
-*AI system for predicting exAMD. Predictions from the raw and segmented retina scans are combined to calculate the risk of AMD progression within 6 months.*
+_AI system for predicting exAMD. Predictions from the raw and segmented retina scans are combined to calculate the risk of AMD progression within 6 months._
 
 ## Conclusion
+
 AI is not a silver bullet for every problem. As designers, our ultimate goal is to solve user challenges and help them achieve their objectives. By understanding their needs and developing comprehensive solutions, we can identify where AI best fits to amplify outcomes. Start with the problem, then let AI elevate the solution.
 
 **Learn more:**

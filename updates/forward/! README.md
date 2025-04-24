@@ -36,8 +36,8 @@ topic
 
 ## Resources
 
-- RFC template: [radar/_template_rfc.md](_template_rfc.md)
-- Topic template: [radar/_template_submission.md](_template_submission.md)
+- RFC template: [radar/\_template_rfc.md](_template_rfc.md)
+- Topic template: [radar/\_template_submission.md](_template_submission.md)
 
 ## Contributing
 

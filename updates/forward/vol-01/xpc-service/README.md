@@ -1,16 +1,20 @@
 # XPC services on macOS app using Swift
-XPC is the newest way to implement IPC (Inter-Process-Communication) mechanism.  Before XPC we used Sockets and Mach Messages (Mach Ports).
+
+XPC is the newest way to implement IPC (Inter-Process-Communication) mechanism. Before XPC we used Sockets and Mach Messages (Mach Ports).
 
 ## XPC for communicating processes
+
 The XPC mechanism offers an alternative to sockets (or Mach Services using MIG) for IPC. We could have, for example, a process that acts as a “server” waiting for clients to access it’s API and provide some service.
 
 ## XPC Services on applications
+
 When we talk about XPC Services (capital ‘S’), we are referring to the bundle called XPC Service. Bundles in Apple ecosystem refers to entities represented by a specific directory structure. The most common Bundle you encounter are Application Bundles. If you right-click on any application (For example Chess.app) and select Show content, what you’ll find is a directory structure.
 Back to XPC, applications can have may XPC Service bundles. You’ll find them inside the Contents/XPCServices/ directory inside the application bundle. Yo can search in your /Applications directory and see how many of the applications rely on XPC Services.
 
 You can also have XPC Services inside Frameworks (Which are another type of Bundle).
 
 ## Additional Benefits of XPC Services
+
 Using XPC Services in our apps allow us to break some functionality in separate modules (The XPC Service). We could create an XPC Service that can be in charge of running some costly but infrequent tasks. For example, some crypto task to generate random numbers.
 
 Another additional benefit is that the XPC Service runs on its own process. If that process crashes or it’s killed, it doesn’t affect our main application. Imagine that your application support user-defined plugins. And the plugins are built using XPC Services. If they are poorly coded and crash, they won’t affect the integrity of your main application.
@@ -18,6 +22,7 @@ Another additional benefit is that the XPC Service runs on its own process. If t
 An additional benefit to the XPC Service is that they can have their own entitlements. The application will only require the entitlement when it makes use of a service provided by XPC Service that requires the entitlement. Imagine you have an app that uses location but only for specific features. You could move those features to an XPC Service and add the location entitlement only to that XPC Service. If your user never needs the feature that uses the location, it won’t be prompted for permissions, making the use of your app more trustworthy.
 
 ## XPC and our friend `launchd`
+
 launchd is the first process to run on our system. It is in charge of launching and managing other processes, services and daemons. launchd is also in charge of scheduling tasks. So it makes sense that launchd will also be responsible for the management of XPC Services.
 
 XPC Service can be stopped if it has been idle for a long time, or be spawned on demand. All the management is done by launchd, and we don’t need to do anything for it to work.
@@ -25,7 +30,6 @@ XPC Service can be stopped if it has been idle for a long time, or be spawned on
 launchd has information about system-wide resource availability and memory pressure, who best to make decisions on how to most effectively use our system’s resources than launchd
 
 # Implement XPC Services
-
 
 ## Creating the Service
 
@@ -65,7 +69,6 @@ int main(int argc, const char *argv[]) {
 
 5. Add the appropriate key/value pairs to the helper’s Info.plist to tell launchd the name of the service. These are described in XPC Service Property List Keys.
 
-
 ## Using the Service
 
 The way you use an XPC service depends on whether you are working with the C API (XPC Services) or the Objective-C API (NSXPCConnection).
@@ -78,7 +81,7 @@ To use the NSXPCConnection API, you must create the following:
 - An interface. This mainly consists of a protocol that describes what methods should be callable from the remote process. This is described in Designing an Interface
 - A connection object on both sides. On the service side, this was described previously in Creating the Service. On the client side, this is described in Connecting to and Using an Interface.
 - A listener. This code in the XPC service accepts connections. This is described in Accepting a Connection in the Helper.
-Messages.
+  Messages.
 
 ![XPC Architecture](assets/xpcarchitect.png)
 
@@ -108,7 +111,6 @@ The NSXPCConnection API takes advantage of Objective-C protocols to define the p
 
 Because communication over XPC is asynchronous, all methods in the protocol must have a return type of void. If you need to return data, you can define a reply block like this:
 
-
 ```C
 @protocol FeedMeAWatermelon
     - (void)feedMeAWatermelon: (Watermelon *)watermelon
@@ -126,9 +128,10 @@ Each method must have a return type of void, and all parameters to methods or re
 - C structures and arrays containing only the types listed above
 - Objective-C objects that implement the NSSecureCoding protocol.
 
-*Important: If a method (or its reply block) has parameters that are Objective-C collection classes (NSDictionary, NSArray, and so on), and if you need to pass your own custom objects within a collection, you must explicitly tell XPC to allow that class as a member of that collection parameter.*
+_Important: If a method (or its reply block) has parameters that are Objective-C collection classes (NSDictionary, NSArray, and so on), and if you need to pass your own custom objects within a collection, you must explicitly tell XPC to allow that class as a member of that collection parameter._
 
 ### Connecting to and Using an Interface
+
 Once you have defined the protocol, you must create an interface object that describes it. To do this, call the interfaceWithProtocol: method on the NSXPCInterface class. For example:
 
 ```C
@@ -136,7 +139,6 @@ NSXPCInterface *myCookieInterface =
     [NSXPCInterface interfaceWithProtocol:
         @protocol(FeedMeACookie)];
 ```
-
 
 Once you have created the interface object, within the main app, you must configure a connection with it by calling the initWithServiceName: method. For example:
 
@@ -147,7 +149,7 @@ myConnection.remoteObjectInterface = myCookieInterface;
 [myConnection resume];
 ```
 
-*Note: For communicating with XPC services outside your app bundle, you can also configure an XPC connection with the initWithMachServiceName: method.*
+_Note: For communicating with XPC services outside your app bundle, you can also configure an XPC connection with the initWithMachServiceName: method._
 
 ![XPC Connection Process](assets/xpcconnectionprocess.png)
 
@@ -155,14 +157,13 @@ At this point, the main application can call the remoteObjectProxy or remoteObje
 
 When your application calls a method on the proxy object, the corresponding method is called on the exported object inside the XPC service. When the service’s method calls the reply block, the parameter values are serialized and sent back to the application, where the parameter values are deserialized and passed to the reply block. (The reply block executes within the application’s address space.)
 
-*Note: If you want to allow the helper process to call methods on an object in your application, you must set the exportedInterface and exportedObject properties before calling resume. These properties are described further in the next section.*
-
+_Note: If you want to allow the helper process to call methods on an object in your application, you must set the exportedInterface and exportedObject properties before calling resume. These properties are described further in the next section._
 
 ### Accepting a Connection in the Helper
 
 When an NSXPCConnection-based helper receives the first message from a connection, the listener delegate’s `listener:shouldAcceptNewConnection:` method is called with a listener object and a connection object. This method lets you decide whether to accept the connection or not; it should return YES to accept the connection or NO to refuse the connection.
 
-*Note: The helper receives a connection request when the first actual message is sent. The connection object’s resume method does not cause a message to be sent.*
+_Note: The helper receives a connection request when the first actual message is sent. The connection object’s resume method does not cause a message to be sent._
 
 In addition to making policy decisions, this method must configure the connection object. In particular, assuming the helper decides to accept the connection, it must set the following properties on the connection:
 
@@ -171,7 +172,6 @@ In addition to making policy decisions, this method must configure the connectio
 - exportedObject—the local object (usually in the helper) to which the remote client’s method calls should be delivered. Whenever the opposite end of the connection (usually in the application) calls a method on the connection’s proxy object, the corresponding method is called on the object specified by the exportedObject property.
 
 After setting those properties, it should call the connection object’s resume method before returning YES. Although the delegate may defer calling resume, the connection will not receive any messages until it does so.
-
 
 ### Sending Messages
 
@@ -190,11 +190,11 @@ When you call that method, the corresponding method in the XPC helper is called 
 In addition to any error handling methods specific to a given helper’s task, both the XPC service and the main app should also provide the following XPC error handler blocks:
 
 - Interruption handler—called when the process on the other end of the connection has crashed or has otherwise closed its connection.
-The local connection object is typically still valid—any future call will automatically spawn a new helper instance unless it is impossible to do so—but you may need to reset any state that the helper would otherwise have kept.
+  The local connection object is typically still valid—any future call will automatically spawn a new helper instance unless it is impossible to do so—but you may need to reset any state that the helper would otherwise have kept.
 
 The handler is invoked on the same queue as reply messages and other handlers, and it is always executed after any other messages or reply block handlers (except for the invalidation handler). It is safe to make new requests on the connection from an interruption handler.
 
 - Invalidation handler—called when the invalidate method is called or when an XPC helper could not be started. When this handler is called, the local connection object is no longer valid and must be recreated.
-This is always the last handler called on a connection object. When this block is called, the connection object has been torn down. It is not possible to send further messages on the connection at that point, whether inside the handler or elsewhere in your code.
+  This is always the last handler called on a connection object. When this block is called, the connection object has been torn down. It is not possible to send further messages on the connection at that point, whether inside the handler or elsewhere in your code.
 
 In both cases, you should use block-scoped variables to provide enough contextual information—perhaps a pending operation queue and the connection object itself—so that your handler code can do something sensible, such as retrying pending operations, tearing down the connection, displaying an error dialog, or whatever other actions make sense in your particular app.

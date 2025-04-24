@@ -1,6 +1,6 @@
 # **SwiftUI**
 
-___
+---
 
 # Agenda
 
@@ -13,43 +13,36 @@ ___
 7. Demo
 
 ^1. Introduction
-    * What it is and what it is not
-2. Layout system: 
-    * DSL syntax
-    * Some basic view types
-    * The layout process
-    * View modifiers
-3. Data flow:
-    * Combine framework
-    * Property wrappers
-    * Property wrappers are used in SwiftUI 
-4. Architecture: 
-    * Introducing about some SwiftUI’s architectures out there, right now.
-5. UIKit/ AppKit/WatchKit ? SwiftUI
-	* UIKit vs SwiftUI
-	* UIKit to SwiftUI
-	* UIKit with SwiftUI
-6. Some thoughts:
-	* My opinions about SwiftUI. The things, which I love about it, and the things, which can be improved in the future.
-7. Demo
-	* A simple app, which I wrote for 3 platform.
-	* A Clock custom view using UIKit and SwiftUI (Trung Phan)
+_ What it is and what it is not 2. Layout system:
+_ DSL syntax
+_ Some basic view types
+_ The layout process
+_ View modifiers 3. Data flow:
+_ Combine framework
+_ Property wrappers
+_ Property wrappers are used in SwiftUI 4. Architecture:
+_ Introducing about some SwiftUI’s architectures out there, right now. 5. UIKit/ AppKit/WatchKit ? SwiftUI
+_ UIKit vs SwiftUI
+_ UIKit to SwiftUI
+_ UIKit with SwiftUI 6. Some thoughts:
+_ My opinions about SwiftUI. The things, which I love about it, and the things, which can be improved in the future. 7. Demo
+_ A simple app, which I wrote for 3 platform. \* A Clock custom view using UIKit and SwiftUI (Trung Phan)
 
-___
+---
 
 [.build-lists: true]
 
 # Introduction
 
-* The new UI framework, introduced in **WWDC 2019**
-* Works for iPad, Mac, Apple TV and Watch
-* The controls will be automatically translated for you
+- The new UI framework, introduced in **WWDC 2019**
+- Works for iPad, Mac, Apple TV and Watch
+- The controls will be automatically translated for you
 
-___
+---
 
 # [fit] **"Write once, apply everywhere"** 🙅‍♂️
 
-___
+---
 
 # [fit] **"Learn once, apply anywhere"** 👍
 
@@ -59,24 +52,27 @@ ___
 
 ^Yes, the core of your app remains unchanged: your models, your networking, and much of your user interface. But to get great apps – to build apps that are really tailored for each of Apple’s platforms – you need to add some platform-specific enhancements. How should your app use the Digital Crown on watchOS? What about the Play/Pause button on tvOS? Or right-click menus on macOS?
 
-___
+---
 
 # SwiftUI's Companions
 
-___
+---
 
 ![FIT](canvas.png)
+
 # Canvas view
 
-___
+---
 
 ![FIT](frp.png)
+
 # Combine Framework
 
-___
+---
 
 ^Introduce Canvas view and Combine
-___
+
+---
 
 [.code-highlight: all]
 [.code-highlight: 4]
@@ -112,19 +108,20 @@ struct ContentView: View {
 
 ^View Modifier
 
-___
+---
 
 [.build-lists: true]
 
 # How did they achieve that 🤔
 
-* Implicit return
-* Opaque return types
-* Function Builder
-* View Modifier
+- Implicit return
+- Opaque return types
+- Function Builder
+- View Modifier
 
 ^Swift 5.1
-___
+
+---
 
 [.code-highlight: 4]
 
@@ -151,11 +148,11 @@ Even though we don’t know what view type is going back, the compiler does.
 
 ^The first difference is important for performance: SwiftUI needs to be able to look at the views we are showing and understand how they change, so it can correctly update the user interface. If we were allowed to change views randomly, it would be really slow for SwiftUI to figure out exactly what changed – it would pretty much need to ditch everything and start again after every small change.
 
-^The second difference is important because of the way SwiftUI builds up its data using ModifiedContent. 
+^The second difference is important because of the way SwiftUI builds up its data using ModifiedContent.
 
 ^What some View lets us do is say “this will return one specific type of view, such as Button or Text, but I don’t want to say what.” So, the hole that View has will be filled by a real view, but we aren’t required to write out the exact long type.
 
-___
+---
 
 [.code-highlight: 5-8]
 
@@ -183,11 +180,11 @@ It could be this 🤨
     Text("World")
         .bold()
  )
- ```
+```
 
 ^War on commas, kiểu như Apple rất ghét dấu , =]
 
-___
+---
 
 # @ViewBulder
 
@@ -195,7 +192,7 @@ ___
 
 ^Function builers sound like they create functions but they can create any value. It’s a function which lets you easily build complex objects
 
-___
+---
 
 ```Swift
  VStack {
@@ -212,7 +209,8 @@ VStack({
     )
 })
 ```
-___
+
+---
 
 ```Swift
 static func buildBlock() -> EmptyView
@@ -237,7 +235,8 @@ static func buildBlock<C0, C1, C2, C3, C4, C5, C6, C7, C8>(C0, C1, C2, C3, C4, C
 
 static func buildBlock<C0, C1, C2, C3, C4, C5, C6, C7, C8, C9>(C0, C1, C2, C3, C4, C5, C6, C7, C8, C9) -> TupleView<(C0, C1, C2, C3, C4, C5, C6, C7, C8, C9)>
 ```
-___
+
+---
 
 [.code-highlight: 8]
 
@@ -259,7 +258,7 @@ struct ContentView: View {
 
 ^ViewModifier is a modifier that you apply to a view or another view modifier, producing a different version of the original value.
 
-___
+---
 
 # Custom ViewModifier
 
@@ -284,7 +283,7 @@ struct ContentView: View {
 
 ![Right, Fit](viewmodifier.png)
 
-___
+---
 
 # Beautify it 🤩
 
@@ -302,29 +301,30 @@ struct ContentView: View {
     }
 }
 ```
-___
+
+---
 
 # Some Views and Controls
 
-* List
-* TextField
-* Button
-* Picker
-* Toggle
-* HStack, ZStack
-* ...
+- List
+- TextField
+- Button
+- Picker
+- Toggle
+- HStack, ZStack
+- ...
 
 See more [HERE](https://developer.apple.com/documentation/swiftui/views_and_controls)
 
 ![Right, Fit](book.png)
 
-___
+---
 
 # Layout system
 
-___
+---
 
-# Layout process 
+# Layout process
 
 1. Parent Proposes Size for Child
 2. Child Chooses its Size
@@ -341,7 +341,7 @@ Text only requires that much size to draw its content. The parent has to respect
 ^3. Parent Places Child in Parent’s Coordinate Space
 And now the root view has to put the child somewhere, so it puts in right in the middle.
 
-___
+---
 
 # Frame
 
@@ -360,11 +360,11 @@ struct Frame: View {
 
 ^The image has not changed its size. Why is that? A frame in SwiftUI is not a constraint. Neither it is the current frame or bounds of the view. Frame in SwiftUI is just another view which you can think of like a picture frame.
 
-^By calling Image("swiftui").frame(width: 80, height: 80), SwiftUI creates a new invisible container view with the specified size and positions the image view inside it. The layout process then performs the same steps as we just described previously. 
+^By calling Image("swiftui").frame(width: 80, height: 80), SwiftUI creates a new invisible container view with the specified size and positions the image view inside it. The layout process then performs the same steps as we just described previously.
 
 ^The new container view proposes its child, Image, the size 80x80. Image view responds that it is only this big – 60x60, but thank you anyway. The Frame needs to put the image somewhere, so it puts the image in the center – it uses .center alignment by default.
 
-___
+---
 
 [.code-highlight: 6]
 
@@ -384,7 +384,7 @@ struct Frame: View {
 
 ^The alignment parameter specifies this view’s alignment within the frame. The default one is .center, but you can select any of the other available ones
 
-___
+---
 
 [.code-highlight: 4]
 
@@ -404,7 +404,7 @@ struct Frame: View {
 
 ^In SwiftUI, unless you mark an image as resizable, either in the asset catalog or in code, it’s fixed sized. If marked resizable, frame now directly affects the size of the image view:
 
-___
+---
 
 [.code-highlight: 5]
 
@@ -423,21 +423,21 @@ struct Frame: View {
 
 ^Like any other view, the child ultimately chooses its own size. It is important to understand this property of the SwiftUI layout system.
 
-___
+---
 
 # Stacks
 
-* HStack - horizontally
-* VStack – vertically
-* ZStack – back to front
+- HStack - horizontally
+- VStack – vertically
+- ZStack – back to front
 
 ![Right, Fit](stack.jpg)
 
 ^ HStack group views together horizontally
 
-___
+---
 
-# Stack Layout process 
+# Stack Layout process
 
 1. Calculate space for childview after subtract internal spacing
 
@@ -453,17 +453,17 @@ ___
 
 ^Step 3. All children have sizes. The stack lines them up with the spacing and aligns them according to the specified alignment. By default, the alignment is – you guessed it – .center. Finally, the stack chooses its own size so that it exactly encloses the children.
 
-___
+---
 
 # Data flow
 
-___
+---
 
 # Property Wrappers
 
 ^Property Wrappers feature described in SE-0258 proposal. The main goal here is wrapping properties with logic which can be extracted into the separated struct to reuse it across the codebase.
 
-___
+---
 
 # Example
 
@@ -476,7 +476,8 @@ print(trimmedText) // "Hello, World!"
 ```
 
 ^Want to make sure a text is alway trimmed before using it
-___
+
+---
 
 # With Property Wrappers
 
@@ -487,24 +488,24 @@ var text = " \n Hello, World! \n\n    "
 print(text) // "Hello, World!"
 ```
 
-___
+---
 
 ```Swift
 @propertyWrapper
 public struct Trimmed {
     private var value: String!
     private let characterSet: CharacterSet
-    
+
     public var wrappedValue: String {
         get { value }
         set { value = newValue.trimmingCharacters(in: characterSet) }
     }
-    
+
     public init(wrappedValue: String) {
         self.characterSet = .whitespacesAndNewlines
         self.wrappedValue = wrappedValue
     }
-    
+
     public init(wrappedValue: String, characterSet: CharacterSet) {
         self.characterSet = characterSet
         self.wrappedValue = wrappedValue
@@ -512,19 +513,19 @@ public struct Trimmed {
 }
 ```
 
-___
+---
 
 [.build-lists: true]
 
 # Property Wrappers in **SwiftUI**
 
-* @State
-* @Binding
-* @ObservedObject
-* @EnvironmentObject
-* @Environment
+- @State
+- @Binding
+- @ObservedObject
+- @EnvironmentObject
+- @Environment
 
-___
+---
 
 # @State
 
@@ -553,7 +554,7 @@ struct ProductsView: View {
 
 ^@State is a Property Wrapper which we can use to describe View’s state. SwiftUI will store it in special internal memory outside of View struct. Only the related View can access it. As soon as the value of @State property changes SwiftUI rebuilds View to respect state changes. Here is a simple example.
 
-___
+---
 
 # @Binding
 
@@ -589,7 +590,7 @@ struct ProductsView: View {
 
 ^@Binding provides reference like access for a value type. Sometimes we need to make the state of our View accessible for its children. But we can’t simply pass that value because it is a value type and Swift will pass the copy of that value. And this is where we can use @Binding Property Wrapper.
 
-___
+---
 
 # @ObservedObject
 
@@ -617,7 +618,7 @@ final class PodcastPlayer: ObservableObject {
 
 ^Remember, we can share ObservableObject between multiple views, that’s why it must be a reference type/class.
 
-___
+---
 
 ## Even shorter 🤩
 
@@ -625,7 +626,7 @@ ___
 import Combine
 
 final class PodcastPlayer: ObservableObject {
-    
+
     @Published private(set) var isPlaying: Bool = false
 
     func play() {
@@ -642,7 +643,7 @@ final class PodcastPlayer: ObservableObject {
 
 ^If you didn’t want to rely on the compiler magic, all you had to do was implement objectWillChange manually.
 
-___
+---
 
 ```Swift
 struct EpisodesView: View {
@@ -670,7 +671,7 @@ struct EpisodesView: View {
 }
 ```
 
-___
+---
 
 [.code-highlight: 12-16]
 
@@ -701,7 +702,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
 ^Instead of passing ObservableObject via init method of our View we can implicitly inject it into Environment of our View hierarchy. By doing this, we create the opportunity for all child Views of current Environment access this ObservableObject.
 
-___
+---
 
 ```Swift
 struct EpisodesView: View {
@@ -731,7 +732,7 @@ struct EpisodesView: View {
 
 ^As you can see, we have to pass PodcastPlayer object via environmentObject modifier of our View. By doing this, we can easily access PodcastPlayer by defining it with @EnvironmentObject Property Wrapper. @EnvironmentObject uses dynamic member lookup feature to find PodcastPlayer class instance in the Environment, that’s why you don’t need to pass it via init method of EpisodesView. The Environment is the right way of Dependency Injection in SwiftUI. It works like magic.
 
-___
+---
 
 #[Fit] **@ObservedObject** and **@EnvironmentObject** 🤔
 
@@ -742,7 +743,8 @@ ___
 ^ Có 1 flow gồm 4 màn hình A, B, C, D, giả sử D muốn có dữ liệu từ màn hình A thì phải làm sao? Cách thông thường là ta sẽ sử dụng @ObservedObject truyền lần lượt qua B rồi C rồi đến D. Nhưng vậy thì sẽ hơi bất tiện, cũng như là sẽ có những màn hình không cần xài đến dữ liệu của A.
 
 ^ Thay vào đó, ta sẽ sử dụng @EnvironmentObject thì lúc này tất cả các màn hình sẽ cùng share dữ liệu này, và sử dụng nếu cần thiết.
-___
+
+---
 
 # @Environment
 
@@ -762,11 +764,11 @@ struct CalendarView: View {
 
 ^As soon as Locale, Calendar or ColorScheme of the system change, SwiftUI recreates our CalendarView.
 
-___
+---
 
 #[Fit] Architecture 🏗
 
-___
+---
 
 # MVVM
 
@@ -804,7 +806,7 @@ final class SearchViewModel: ObservableObject {
 }
 ```
 
-___
+---
 
 # Redux
 
@@ -812,15 +814,15 @@ ___
 
 ### Check [here](https://github.com/Dimillian/MovieSwiftUI)
 
-___
+---
 
 # UIKit ? SwiftUI
 
-___
+---
 
 # [Fit] SwiftUI doesn't support your favorite component? 😞
 
-___
+---
 
 ## DIY 😴
 
@@ -848,19 +850,19 @@ struct ContentView : View {
 
 ```
 
-___
+---
 
 # [fit] Some thoughs 🤔
 
-___ 
+---
 
 [.build-lists: true]
 
 # Limited
 
-* Limited API coverage
-* Limited adoption
-* Limited support
+- Limited API coverage
+- Limited adoption
+- Limited support
 
 ^Limited API coverage:
 ^SwiftUI is that it does not currently have the same broad API coverage as UIKit.
@@ -874,12 +876,12 @@ ___
 ^- Any app that needs to support iOS n-1 or n-2 (e.g. iOS 12 and iOS 11) cannot even begin to switch to SwiftUI for a year or more.
 
 ^ Limited support
-^UIKit has been around over ten years now, which means: 
+^UIKit has been around over ten years now, which means:
 
 ^- Almost every problem you might face has probably already been faced and solved by others
 ^- There are lots of libraries out there that provide extensions and customizations.
 
-___ 
+---
 
 # Implicit wraps
 
@@ -893,7 +895,7 @@ VStack {
 
 ^`.bold()` alters Text, but `.padding()` wraps it in another view, changing the return type of the whole expression along the way. Compare that with VStack, which wraps its children explicitly. Why make the distinction?
 
-___
+---
 
 # why not this?
 
@@ -905,7 +907,7 @@ VStack {
 }
 ```
 
-___
+---
 
 # Child privacy invasion
 
@@ -918,7 +920,7 @@ NavigationView {
 
 ^Some things are probably just plain mistakes (very funny though). E.g. NavigationView takes its properties not from its constructor or via modifiers, but instead from the properties of its first child. WHY?
 
-___
+---
 
 # Smart defaults
 
@@ -934,11 +936,12 @@ See the padding here? No? But look at the picture!
 
 ![Right, Fit](default.png)
 
-___ 
+---
 
 # Demo
 
-___
+---
 
 ## **Thank you!**
+
 ### @phucledien

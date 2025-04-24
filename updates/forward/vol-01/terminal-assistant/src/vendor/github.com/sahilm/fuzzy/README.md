@@ -1,15 +1,17 @@
-<img src="assets/search-gopher-1.png" alt="gopher looking for stuff">  <img src="assets/search-gopher-2.png" alt="gopher found stuff">
+<img src="assets/search-gopher-1.png" alt="gopher looking for stuff"> <img src="assets/search-gopher-2.png" alt="gopher found stuff">
 
 # fuzzy
+
 [![Build Status](https://travis-ci.org/sahilm/fuzzy.svg?branch=master)](https://travis-ci.org/sahilm/fuzzy)
 [![Documentation](https://godoc.org/github.com/sahilm/fuzzy?status.svg)](https://godoc.org/github.com/sahilm/fuzzy)
 
-Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, 
+Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text,
 VSCode, IntelliJ IDEA et al. This library is external dependency-free. It only depends on the Go standard library.
 
 ## Features
 
 - Intuitive matching. Results are returned in descending order of match quality. Quality is determined by:
+
   - The first character in the pattern matches the first character in the match string.
   - The matched character is camel cased.
   - The matched character follows a separator such as an underscore character.
@@ -75,7 +77,8 @@ func contains(needle int, haystack []int) bool {
 	}
 	return false
 }
-``` 
+```
+
 If the data you want to match isn't a slice of strings, you can use `FindFromSource` by implementing
 the provided `Source` interface. Here's an example:
 
@@ -147,16 +150,16 @@ to respond promptly.
 
 ## Credits
 
-* [@ericpauley](https://github.com/ericpauley) & [@lunixbochs](https://github.com/lunixbochs) contributed Unicode awareness and various performance optimisations.
+- [@ericpauley](https://github.com/ericpauley) & [@lunixbochs](https://github.com/lunixbochs) contributed Unicode awareness and various performance optimisations.
 
-* The algorithm is based of the awesome work of [forrestthewoods](https://github.com/forrestthewoods/lib_fts/blob/master/code/fts_fuzzy_match.js). 
-See [this](https://blog.forrestthewoods.com/reverse-engineering-sublime-text-s-fuzzy-match-4cffeed33fdb#.d05n81yjy)
-blog post for details of the algorithm.
+- The algorithm is based of the awesome work of [forrestthewoods](https://github.com/forrestthewoods/lib_fts/blob/master/code/fts_fuzzy_match.js).
+  See [this](https://blog.forrestthewoods.com/reverse-engineering-sublime-text-s-fuzzy-match-4cffeed33fdb#.d05n81yjy)
+  blog post for details of the algorithm.
 
-* The artwork is by my lovely wife Sanah. It's based on the Go Gopher.
+- The artwork is by my lovely wife Sanah. It's based on the Go Gopher.
 
-* The Go gopher was designed by Renee French (http://reneefrench.blogspot.com/). 
-The design is licensed under the Creative Commons 3.0 Attributions license.
+- The Go gopher was designed by Renee French (http://reneefrench.blogspot.com/).
+  The design is licensed under the Creative Commons 3.0 Attributions license.
 
 ## License
 
@@ -181,4 +184,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-

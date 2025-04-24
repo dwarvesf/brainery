@@ -6,7 +6,6 @@
 
 ### Converts HTML into text of the markdown-flavored variety
 
-
 ## Introduction
 
 Ensure your emails are readable by all!
@@ -18,7 +17,6 @@ html2text is a simple golang package for rendering HTML into plaintext.
 There are still lots of improvements to be had, but FWIW this has worked fine for my [basic] HTML-2-text needs.
 
 It requires go 1.x or newer ;)
-
 
 ## Download the package
 
@@ -87,6 +85,7 @@ func main() {
 ```
 
 Output:
+
 ```
 Mega Service ( http://jaytaylor.com/ )
 
@@ -110,7 +109,6 @@ Here is some more information:
 +-------------+-------------+
 ```
 
-
 ## Unit-tests
 
 Running the unit-tests is straightforward and standard:
@@ -119,19 +117,16 @@ Running the unit-tests is straightforward and standard:
 go test
 ```
 
-
 # License
 
 Permissive MIT license.
-
 
 ## Contact
 
 You are more than welcome to open issues and send pull requests if you find a bug or want a new feature.
 
-If you appreciate this library please feel free to drop me a line and tell me!  It's always nice to hear from people who have benefitted from my work.
+If you appreciate this library please feel free to drop me a line and tell me! It's always nice to hear from people who have benefitted from my work.
 
 Email: jay at (my github username).com
 
 Twitter: [@jtaylor](https://twitter.com/jtaylor)
-

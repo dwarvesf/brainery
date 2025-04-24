@@ -36,32 +36,32 @@ If there was a program what could rank book size text's words, phrases and sente
 
 ## DEMO
 
-The following link *Recona* is a simple, pre-programmed a.i. what uses this library to ranking raw texts. It visualizes how ranking works and it represents how it could be used for different purposes: **[Recona.app](https://recona.app)**
+The following link _Recona_ is a simple, pre-programmed a.i. what uses this library to ranking raw texts. It visualizes how ranking works and it represents how it could be used for different purposes: **[Recona.app](https://recona.app)**
 
 ## FEATURES
 
-* Find the most important phrases.
-* Find the most important words.
-* Find the most important N sentences. 
-	* Importance by phrase weights.
-	* Importance by word occurrence.
-* Find the first N sentences, start from Xth sentence.
-* Find sentences by phrase chains ordered by position in text.
-* Access to the whole ranked data.
-* Support more languages.
-* Algorithm for weighting can be modified by interface implementation.
-* Parser can be modified by interface implementation.
-* Multi thread support.
+- Find the most important phrases.
+- Find the most important words.
+- Find the most important N sentences.
+  - Importance by phrase weights.
+  - Importance by word occurrence.
+- Find the first N sentences, start from Xth sentence.
+- Find sentences by phrase chains ordered by position in text.
+- Access to the whole ranked data.
+- Support more languages.
+- Algorithm for weighting can be modified by interface implementation.
+- Parser can be modified by interface implementation.
+- Multi thread support.
 
 ## INSTALL
 
 You can install TextRank by Go's get:
 
-```go get github.com/DavidBelicza/TextRank```
+`go get github.com/DavidBelicza/TextRank`
 
 TextRank uses the DEP as vendoring tool, so the required dependencies are versioned under the **vendor** folder. The exact version number defined in the Gopkg.toml. If you want to reinstall the dependencies, use the DEP functions: flush the vendor folder and run:
 
-```dep ensure```
+`dep ensure`
 
 ## DOCKER
 
@@ -69,44 +69,44 @@ Using Docker to TextRank isn't necessary, it's just an option.
 
 Build image from the repository's root directory:
 
-```docker build -t go_text_rank_image .```
+`docker build -t go_text_rank_image .`
 
 Create container from the image:
 
-```docker run -dit --name textrank go_text_rank_image:latest```
+`docker run -dit --name textrank go_text_rank_image:latest`
 
 Run the **go test -v .** code inside the container:
 
-```docker exec -i -t textrank go test -v .```
+`docker exec -i -t textrank go test -v .`
 
 Stop, start or remove the container:
 
-* ```docker stop textrank```
-* ```docker start textrank```
-* ```docker rm textrank```
+- `docker stop textrank`
+- `docker start textrank`
+- `docker rm textrank`
 
 ## HOW DOES IT WORK
 
 Too see how does it work, the easiest way is to use the sample text. Sample text can be found in the [textrank_test.go file at this line](https://github.com/DavidBelicza/TextRank/blob/master/textrank_test.go#L12). It's a short size text about Gnome Shell.
 
-* TextRank reads the text, 
-    * parse it, 
-    * remove the unnecessary stop words,
-    * tokenize it 
-* and counting the occurrence of the words and phrases 
-* and then it starts weighting
-    * by the occurrence of words and phrases and their relations. 
-* After weights are done, TextRank normalize weights to between 1 and 0.
-* Then the different finder methods capable to find the most important words, phrases or sentences.
+- TextRank reads the text,
+  - parse it,
+  - remove the unnecessary stop words,
+  - tokenize it
+- and counting the occurrence of the words and phrases
+- and then it starts weighting
+  - by the occurrence of words and phrases and their relations.
+- After weights are done, TextRank normalize weights to between 1 and 0.
+- Then the different finder methods capable to find the most important words, phrases or sentences.
 
 The most important phrases from the sample text are:
 
-Phrase | Occurrence | Weight
---- | --- | ---
-gnome - shell | 5 | 1
-extension - gnome | 3 | 0.50859946
-icons - tray | 3 | 0.49631447
-gnome - caffeine | 2 | 0.27027023
+| Phrase            | Occurrence | Weight     |
+| ----------------- | ---------- | ---------- |
+| gnome - shell     | 5          | 1          |
+| extension - gnome | 3          | 0.50859946 |
+| icons - tray      | 3          | 0.49631447 |
+| gnome - caffeine  | 2          | 0.27027023 |
 
 The **gnome** is the most often used word in this text and **shell** is also used multiple times. Two of them are used together as a phrase 5 times. This is the highest occurrence in this text, so this is the most important phrase.
 
@@ -115,6 +115,7 @@ The following two important phrases have same occurrence 3, however they are not
 The exact algorithm can be found in the [algorithm.go file at this line](https://github.com/DavidBelicza/TextRank/blob/master/rank/algorithm.go#L65).
 
 ## TEXTRANK OR AUTOMATIC SUMMARIZATION
+
 > Automatic summarization is the process of reducing a text document with a computer program in order to create a summary that retains the most important points of the original document. Technologies that can make a coherent summary take into account variables such as length, writing style and syntax. Automatic data summarization is part of machine learning and data mining. The main idea of summarization is to find a representative subset of the data, which contains the information of the entire set. Summarization technologies are used in a large number of sectors in industry today. - Wikipedia
 
 ## EXAMPLES
@@ -128,7 +129,7 @@ package main
 
 import (
 	"fmt"
-	
+
 	"github.com/DavidBelicza/TextRank"
 )
 
@@ -167,7 +168,7 @@ package main
 
 import (
 	"fmt"
-	
+
 	"github.com/DavidBelicza/TextRank"
 )
 
@@ -228,7 +229,7 @@ package main
 
 import (
 	"fmt"
-	
+
 	"github.com/DavidBelicza/TextRank"
 )
 
@@ -278,7 +279,7 @@ package main
 
 import (
 	"fmt"
-	
+
 	"github.com/DavidBelicza/TextRank"
 )
 
@@ -327,7 +328,7 @@ package main
 
 import (
 	"fmt"
-	
+
 	"github.com/DavidBelicza/TextRank"
 )
 
@@ -366,7 +367,7 @@ package main
 
 import (
 	"fmt"
-	
+
 	"github.com/DavidBelicza/TextRank"
 )
 
@@ -424,7 +425,7 @@ package main
 
 import (
 	"fmt"
-	
+
 	"github.com/DavidBelicza/TextRank"
 )
 
@@ -470,7 +471,7 @@ package main
 import (
 	"fmt"
 	"time"
-	
+
 	"github.com/DavidBelicza/TextRank"
 )
 

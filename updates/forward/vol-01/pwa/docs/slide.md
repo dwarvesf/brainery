@@ -53,10 +53,10 @@ A service worker is a script that your browser runs in the background, separate 
 if ("serviceWorker" in navigator) {
   navigator.serviceWorker
     .register("/my-service-worker.js")
-    .then(function(registration) {
+    .then(function (registration) {
       console.log("Service worker registered!");
     })
-    .catch(function(err) {
+    .catch(function (err) {
       console.log("Registration failed!");
     });
 }
@@ -67,9 +67,9 @@ if ("serviceWorker" in navigator) {
 ## Installation
 
 ```javascript
-self.addEventListener("install", event => {
+self.addEventListener("install", (event) => {
   event.waitUntil(
-    caches.open("app-cache-v1").then(cache => {
+    caches.open("app-cache-v1").then((cache) => {
       return cache.addAll([
         "./sw-test/",
         "./sw-test/index.html",
@@ -78,9 +78,9 @@ self.addEventListener("install", event => {
         "./sw-test/image-list.js",
         "./sw-test/star-wars-logo.jpg",
         "./sw-test/gallery/",
-        "./sw-test/gallery/bountyHunters.jpg"
+        "./sw-test/gallery/bountyHunters.jpg",
       ]);
-    })
+    }),
   );
 });
 ```
@@ -90,19 +90,19 @@ self.addEventListener("install", event => {
 ## Activation
 
 ```javascript
-self.addEventListener("activate", event => {
+self.addEventListener("activate", (event) => {
   var cacheKeeplist = ["app-cache-v2"];
 
   event.waitUntil(
-    caches.keys().then(keyList => {
+    caches.keys().then((keyList) => {
       return Promise.all(
-        keyList.map(key => {
+        keyList.map((key) => {
           if (cacheKeeplist.indexOf(key) === -1) {
             return caches.delete(key);
           }
-        })
+        }),
       );
-    })
+    }),
   );
 });
 ```

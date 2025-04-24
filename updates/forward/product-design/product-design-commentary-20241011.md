@@ -1,5 +1,4 @@
 ---
-
 tags:
   - UX-UI
   - product-design
@@ -33,11 +32,11 @@ UX designers can enhance AI interactions by crafting effective system prompts. T
 
 - **Interface Prompting:** Designers can provide conversational starters and suggest follow-ups.
 
-    ![](assets/3-product-design-commentary-the-craft-of-prompting.png)
+  ![](assets/3-product-design-commentary-the-craft-of-prompting.png)
 
 - **System Prompting:** Hidden prompts guide the AI in a specific direction, ensuring consistent tone and behavior across the tool.
 
-    ![](assets/3-product-design-commentary-training-data.png)
+  ![](assets/3-product-design-commentary-training-data.png)
 
 - **Training Data:** The UX role is crucial in helping train models or assist in fine-tuning them to avoid bias and ensure ethical use.
 

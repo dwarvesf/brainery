@@ -1,16 +1,15 @@
-ASCII Table Writer
-=========
+# ASCII Table Writer
 
 [![Build Status](https://travis-ci.org/olekukonko/tablewriter.png?branch=master)](https://travis-ci.org/olekukonko/tablewriter)
 [![Total views](https://img.shields.io/sourcegraph/rrc/github.com/olekukonko/tablewriter.svg)](https://sourcegraph.com/github.com/olekukonko/tablewriter)
 [![Godoc](https://godoc.org/github.com/olekukonko/tablewriter?status.svg)](https://godoc.org/github.com/olekukonko/tablewriter)
 
-Generate ASCII table on the fly ...  Installation is simple as
+Generate ASCII table on the fly ... Installation is simple as
 
     go get github.com/olekukonko/tablewriter
 
-
 #### Features
+
 - Automatic Padding
 - Support Multiple Lines
 - Supports Alignment
@@ -27,7 +26,8 @@ Generate ASCII table on the fly ...  Installation is simple as
 - Set custom caption
 - Optional reflowing of paragrpahs in multi-line cells.
 
-#### Example   1 - Basic
+#### Example 1 - Basic
+
 ```go
 data := [][]string{
     []string{"A", "The Good", "500"},
@@ -45,7 +45,8 @@ for _, v := range data {
 table.Render() // Send output
 ```
 
-##### Output  1
+##### Output 1
+
 ```
 +------+-----------------------+--------+
 | NAME |         SIGN          | RATING |
@@ -58,6 +59,7 @@ table.Render() // Send output
 ```
 
 #### Example 2 - Without Border / Footer / Bulk Append
+
 ```go
 data := [][]string{
     []string{"1/1/2014", "Domain name", "2233", "$10.98"},
@@ -75,6 +77,7 @@ table.Render()
 ```
 
 ##### Output 2
+
 ```
 
     DATE   |       DESCRIPTION        |  CV2  | AMOUNT
@@ -89,8 +92,8 @@ table.Render()
 
 ```
 
-
 #### Example 3 - CSV
+
 ```go
 table, _ := tablewriter.NewCSV(os.Stdout, "testdata/test_info.csv", true)
 table.SetAlignment(tablewriter.ALIGN_LEFT)   // Set Alignment
@@ -98,6 +101,7 @@ table.Render()
 ```
 
 ##### Output 3
+
 ```
 +----------+--------------+------+-----+---------+----------------+
 |  FIELD   |     TYPE     | NULL | KEY | DEFAULT |     EXTRA      |
@@ -108,7 +112,8 @@ table.Render()
 +----------+--------------+------+-----+---------+----------------+
 ```
 
-#### Example 4  - Custom Separator
+#### Example 4 - Custom Separator
+
 ```go
 table, _ := tablewriter.NewCSV(os.Stdout, "testdata/test.csv", true)
 table.SetRowLine(true)         // Enable row line
@@ -123,6 +128,7 @@ table.Render()
 ```
 
 ##### Output 4
+
 ```
 *------------*-----------*---------*
 ╪ FIRST NAME ╪ LAST NAME ╪   SSN   ╪
@@ -136,6 +142,7 @@ table.Render()
 ```
 
 #### Example 5 - Markdown Format
+
 ```go
 data := [][]string{
 	[]string{"1/1/2014", "Domain name", "2233", "$10.98"},
@@ -153,6 +160,7 @@ table.Render()
 ```
 
 ##### Output 5
+
 ```
 |   DATE   |       DESCRIPTION        | CV2  | AMOUNT |
 |----------|--------------------------|------|--------|
@@ -162,7 +170,8 @@ table.Render()
 | 1/4/2014 | February Extra Bandwidth | 2233 | $30.00 |
 ```
 
-#### Example 6  - Identical cells merging
+#### Example 6 - Identical cells merging
+
 ```go
 data := [][]string{
   []string{"1/1/2014", "Domain name", "1234", "$10.98"},
@@ -181,6 +190,7 @@ table.Render()
 ```
 
 ##### Output 6
+
 ```
 +----------+--------------------------+-------+---------+
 |   DATE   |       DESCRIPTION        |  CV2  | AMOUNT  |
@@ -197,8 +207,8 @@ table.Render()
 +----------+--------------------------+-------+---------+
 ```
 
-
 #### Table with color
+
 ```go
 data := [][]string{
 	[]string{"1/1/2014", "Domain name", "2233", "$10.98"},
@@ -231,6 +241,7 @@ table.Render()
 ```
 
 #### Table with color Output
+
 ![Table with Color](https://cloud.githubusercontent.com/assets/6460392/21101956/bbc7b356-c0a1-11e6-9f36-dba694746efc.png)
 
 #### Example - 7 Table Cells with Color
@@ -287,9 +298,11 @@ table.Render()
 ```
 
 ##### Table cells with color Output
+
 ![Table cells with Color](https://user-images.githubusercontent.com/9064687/63969376-bcd88d80-ca6f-11e9-9466-c3d954700b25.png)
 
 #### Example 8 - Set table caption
+
 ```go
 data := [][]string{
     []string{"A", "The Good", "500"},
@@ -311,6 +324,7 @@ table.Render() // Send output
 Note: Caption text will wrap with total width of rendered table.
 
 ##### Output 7
+
 ```
 +------+-----------------------+--------+
 | NAME |         SIGN          | RATING |
@@ -324,6 +338,7 @@ Movie ratings.
 ```
 
 #### Example 8 - Set NoWhiteSpace and TablePadding option
+
 ```go
 data := [][]string{
     {"node1.example.com", "Ready", "compute", "1.11"},
@@ -350,12 +365,13 @@ table.Render()
 ```
 
 ##### Output 8
+
 ```
-NAME             	STATUS  	ROLE   	VERSION 
-node1.example.com	Ready   	compute	1.11   	
-node2.example.com	Ready   	compute	1.11   	
-node3.example.com	Ready   	compute	1.11   	
-node4.example.com	NotReady	compute	1.11   	
+NAME             	STATUS  	ROLE   	VERSION
+node1.example.com	Ready   	compute	1.11
+node2.example.com	Ready   	compute	1.11
+node3.example.com	Ready   	compute	1.11
+node4.example.com	NotReady	compute	1.11
 ```
 
 #### Render table into a string
@@ -387,9 +403,10 @@ func main() {
 ```
 
 #### TODO
-- ~~Import Directly from CSV~~  - `done`
-- ~~Support for `SetFooter`~~  - `done`
-- ~~Support for `SetBorder`~~  - `done`
+
+- ~~Import Directly from CSV~~ - `done`
+- ~~Support for `SetFooter`~~ - `done`
+- ~~Support for `SetBorder`~~ - `done`
 - ~~Support table with uneven rows~~ - `done`
 - ~~Support custom alignment~~
 - General Improvement & Optimisation

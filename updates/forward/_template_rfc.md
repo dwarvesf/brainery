@@ -1,9 +1,9 @@
 # Title of RFC
 
-| Status        | (Adopt / Trial / Assess / Hold)                                                |
-| :------------ | :-------------------------------------------------------------------------------------------- |
-| **Author(s)** | My Name (<me@example.org>), AN Other (<you@example.org>)                                          |
-| **Type** | (Tool / Technique / Langues or Framework / Platform)                                          |
+| Status        | (Adopt / Trial / Assess / Hold)                          |
+| :------------ | :------------------------------------------------------- |
+| **Author(s)** | My Name (<me@example.org>), AN Other (<you@example.org>) |
+| **Type**      | (Tool / Technique / Langues or Framework / Platform)     |
 
 ## Objective
 
@@ -32,5 +32,5 @@ We should create end-to-end examples (ideally, a tutorial) which reflects how th
 
 - The minimum requirements for this are to consider how this would be used (prerequisites knowledge, preinstalled applications, ...).
 - This should be written as if it is documentation of the new user, not for experienced developers.
-  
+
 ### All the code and document/slide + tutorial/example should be uploaded in the same directory with the RFC file

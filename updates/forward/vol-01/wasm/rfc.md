@@ -1,9 +1,9 @@
 # An introduction and a quick port C++ game to WebAssembly
 
-| Status        | Hold                                                |
-| :------------ | :-------------------------------------------------------------------------------------------- |
-| **Author(s)** | an@dwarvesv.com 
-| **Type** | Languages & Frameworks 
+| Status        | Hold                   |
+| :------------ | :--------------------- |
+| **Author(s)** | an@dwarvesv.com        |
+| **Type**      | Languages & Frameworks |
 
 ## Objective
 
@@ -21,13 +21,8 @@ This quick playing-around will help engineers shorten their time to get to know 
 
 [Introduction to WebAssembly](/wasm.md)
 
-
 ## Code & Demo
 
 To keep it simple, we choose [Asteroids game written in C](https://github.com/flightcrank/asteroids) which is written in C++ to port to WebAssembly.
 
 Check it out [Asteroids in Wasm](/wasm-asteroids)
-
-
-
-  

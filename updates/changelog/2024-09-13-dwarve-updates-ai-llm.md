@@ -2,9 +2,9 @@
 title: The Stage of AI and LLM at Dwarves
 date: 2024-09-13
 description: Here's another update from Dwarves for you. We are excited to share the real journey of growth and transformation since AI and LLM have been on our radar for quite a long time.
-authors: 
+authors:
   - nikkingtr
-tags: 
+tags:
   - team
   - updates
   - newsletter
@@ -18,7 +18,7 @@ We have been quite busy with setting up our knowledge system to ensure learning 
 
 Have a look at our [Dwarves Memo](http://memo.d.foundation), and you will see the effort starting to pay off, as more and more members’ names are showing up, more and more articles are being published.
 
-As you might have known,  AI/LLM has been on our radar for a quite a long time. And the past few months have been all about investing in our AI/LLM competences. It’s been an interesting journey, and we’re excited to fill you in on how things are going.
+As you might have known, AI/LLM has been on our radar for a quite a long time. And the past few months have been all about investing in our AI/LLM competences. It’s been an interesting journey, and we’re excited to fill you in on how things are going.
 
 ## Working faster and smarter with AI
 

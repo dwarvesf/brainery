@@ -36,22 +36,22 @@ etc.
 
 - [Overview](#overview)
 - [Concepts](#concepts)
-  * [Commands](#commands)
-  * [Flags](#flags)
+  - [Commands](#commands)
+  - [Flags](#flags)
 - [Installing](#installing)
 - [Getting Started](#getting-started)
-  * [Using the Cobra Generator](#using-the-cobra-generator)
-  * [Using the Cobra Library](#using-the-cobra-library)
-  * [Working with Flags](#working-with-flags)
-  * [Positional and Custom Arguments](#positional-and-custom-arguments)
-  * [Example](#example)
-  * [Help Command](#help-command)
-  * [Usage Message](#usage-message)
-  * [PreRun and PostRun Hooks](#prerun-and-postrun-hooks)
-  * [Suggestions when "unknown command" happens](#suggestions-when-unknown-command-happens)
-  * [Generating documentation for your command](#generating-documentation-for-your-command)
-  * [Generating bash completions](#generating-bash-completions)
-  * [Generating zsh completions](#generating-zsh-completions)
+  - [Using the Cobra Generator](#using-the-cobra-generator)
+  - [Using the Cobra Library](#using-the-cobra-library)
+  - [Working with Flags](#working-with-flags)
+  - [Positional and Custom Arguments](#positional-and-custom-arguments)
+  - [Example](#example)
+  - [Help Command](#help-command)
+  - [Usage Message](#usage-message)
+  - [PreRun and PostRun Hooks](#prerun-and-postrun-hooks)
+  - [Suggestions when "unknown command" happens](#suggestions-when-unknown-command-happens)
+  - [Generating documentation for your command](#generating-documentation-for-your-command)
+  - [Generating bash completions](#generating-bash-completions)
+  - [Generating zsh completions](#generating-zsh-completions)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -64,19 +64,20 @@ Cobra is also an application that will generate your application scaffolding to 
 develop a Cobra-based application.
 
 Cobra provides:
-* Easy subcommand-based CLIs: `app server`, `app fetch`, etc.
-* Fully POSIX-compliant flags (including short & long versions)
-* Nested subcommands
-* Global, local and cascading flags
-* Easy generation of applications & commands with `cobra init appname` & `cobra add cmdname`
-* Intelligent suggestions (`app srver`... did you mean `app server`?)
-* Automatic help generation for commands and flags
-* Automatic help flag recognition of `-h`, `--help`, etc.
-* Automatically generated bash autocomplete for your application
-* Automatically generated man pages for your application
-* Command aliases so you can change things without breaking them
-* The flexibility to define your own help, usage, etc.
-* Optional tight integration with [viper](http://github.com/spf13/viper) for 12-factor apps
+
+- Easy subcommand-based CLIs: `app server`, `app fetch`, etc.
+- Fully POSIX-compliant flags (including short & long versions)
+- Nested subcommands
+- Global, local and cascading flags
+- Easy generation of applications & commands with `cobra init appname` & `cobra add cmdname`
+- Intelligent suggestions (`app srver`... did you mean `app server`?)
+- Automatic help generation for commands and flags
+- Automatic help flag recognition of `-h`, `--help`, etc.
+- Automatically generated bash autocomplete for your application
+- Automatically generated man pages for your application
+- Command aliases so you can change things without breaking them
+- The flexibility to define your own help, usage, etc.
+- Optional tight integration with [viper](http://github.com/spf13/viper) for 12-factor apps
 
 # Concepts
 
@@ -89,7 +90,7 @@ to use the application because they will natively understand how to use it.
 
 The pattern to follow is
 `APPNAME VERB NOUN --ADJECTIVE.`
-    or
+or
 `APPNAME COMMAND ARG --FLAG`
 
 A few good real world examples may better illustrate this point.
@@ -126,6 +127,7 @@ library](https://github.com/spf13/pflag), a fork of the flag standard library
 which maintains the same interface while adding POSIX compliance.
 
 # Installing
+
 Using Cobra is easy. First, use `go get` to install the latest version
 of the library. This command will install the `cobra` generator executable
 along with the library and its dependencies:
@@ -386,6 +388,7 @@ command := cobra.Command{
 ### Bind Flags with Config
 
 You can also bind your flags with [viper](https://github.com/spf13/viper):
+
 ```go
 var author string
 
@@ -405,6 +408,7 @@ More in [viper documentation](https://github.com/spf13/viper#working-with-flags)
 
 Flags are optional by default. If instead you wish your command to report an error
 when a flag has not been set, mark it as required:
+
 ```go
 rootCmd.Flags().StringVarP(&Region, "region", "r", "", "AWS region (required)")
 rootCmd.MarkFlagRequired("region")
@@ -522,7 +526,7 @@ Cobra automatically adds a help command to your application when you have subcom
 This will be called when a user runs 'app help'. Additionally, help will also
 support all other commands as input. Say, for instance, you have a command called
 'create' without any additional configuration; Cobra will work when 'app help
-create' is called.  Every command will automatically have the '--help' flag added.
+create' is called. Every command will automatically have the '--help' flag added.
 
 ### Example
 
@@ -552,7 +556,6 @@ command and flag definitions are needed.
 
     Use "cobra [command] --help" for more information about a command.
 
-
 Help is just a command like any other. There is no special logic or behavior
 around it. In fact, you can provide your own if you want.
 
@@ -575,6 +578,7 @@ When the user provides an invalid flag or invalid command, Cobra responds by
 showing the user the 'usage'.
 
 ### Example
+
 You may recognize this from the help above. That's because the default help
 embeds the usage as part of its output.
 
@@ -598,6 +602,7 @@ embeds the usage as part of its output.
     Use "cobra [command] --help" for more information about a command.
 
 ### Defining your own usage
+
 You can provide your own usage function or template for Cobra to use.
 Like help, the function and template are overridable through public methods:
 
@@ -615,7 +620,7 @@ the version template. The template can be customized using the
 
 ## PreRun and PostRun Hooks
 
-It is possible to run functions before or after the main `Run` function of your command. The `PersistentPreRun` and `PreRun` functions will be executed before `Run`. `PersistentPostRun` and `PostRun` will be executed after `Run`.  The `Persistent*Run` functions will be inherited by children if they do not declare their own.  These functions are run in the following order:
+It is possible to run functions before or after the main `Run` function of your command. The `PersistentPreRun` and `PreRun` functions will be executed before `Run`. `PersistentPostRun` and `PostRun` will be executed after `Run`. The `Persistent*Run` functions will be inherited by children if they do not declare their own. These functions are run in the following order:
 
 - `PersistentPreRun`
 - `PreRun`
@@ -623,7 +628,7 @@ It is possible to run functions before or after the main `Run` function of your 
 - `PostRun`
 - `PersistentPostRun`
 
-An example of two commands which use all of these features is below.  When the subcommand is executed, it will run the root command's `PersistentPreRun` but not the root command's `PersistentPostRun`:
+An example of two commands which use all of these features is below. When the subcommand is executed, it will run the root command's `PersistentPreRun` but not the root command's `PersistentPostRun`:
 
 ```go
 package main
@@ -684,6 +689,7 @@ func main() {
 ```
 
 Output:
+
 ```
 Inside rootCmd PersistentPreRun with args: []
 Inside rootCmd PreRun with args: []
@@ -748,7 +754,7 @@ Cobra can generate documentation based on subcommands, flags, etc. in the follow
 
 ## Generating bash completions
 
-Cobra can generate a bash-completion file. If you add more information to your command, these completions can be amazingly powerful and flexible.  Read more about it in [Bash Completions](bash_completions.md).
+Cobra can generate a bash-completion file. If you add more information to your command, these completions can be amazingly powerful and flexible. Read more about it in [Bash Completions](bash_completions.md).
 
 ## Generating zsh completions
 

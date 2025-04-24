@@ -5,11 +5,12 @@ We started [the 1st volume](https://github.com/dwarvesf/radar/tree/master/vol-01
 And here we go again, another version of tech radar. 2021 has just gone through its first quarter, and we've left with some new toys to trial and see if they create any impact. In short, this 3rd volume is all about one thing: **Trial**.
 
 ## Testing
+
 ### k6
+
 https://k6.io/
 
 ![](https://i.imgur.com/5NFYyMW.png)
-
 
 Open-sourced load testing tool to verify the system's loading tolerance. By applying k6, developers can measure the limited amount of requests that the system can handle.
 
@@ -18,6 +19,7 @@ Though k6 is written in Go, its scripts are made out of Javascript. Thanks to it
 Since functional testing is still our main work, Quynh Le - our QC Team Lead, decided to take a good look at it as a reference before moving to Testlink.
 
 ### Testlink
+
 https://testlink.org/
 
 After k6, Testlink is the next thing on queue - An open-sourced tets management tool that oversees and controls everything in test, test cases, test report, requirement, or test execution. We hosted a radio talk on this, mainly to demo the team on how we set up and apply Testlink into our current testing workflow.
@@ -26,9 +28,10 @@ Currently, we're trialing Testlink with BaseHQ and Aharooms. We get to know the 
 
 ![](https://i.imgur.com/sk4hTPv.png)
 
-
 ## Front-end Development
+
 ### Preact
+
 https://preactjs.com/
 
 A JS library developed on React structure, with the same API, component and virtual DOM integration. Thanks to the light bundle size (3kb), the Preact-based website is faster in rendering and boosting user experience. The next level for React alternative and the smallest library in size so far.
@@ -38,17 +41,18 @@ Providing the same APIs and mechanism as React, Preact can be used directly in t
 A significant advantage of switching to Preact from React is the smaller bundle size that helps the app to load faster - this can be a key requirement for some projects. We're using Preact to bootstrap some projects of the marketplace and product showcases.
 
 ## DevOps and Maintenance
+
 ### ArgoCD
+
 Acts as a Kubernetes controller which continuously monitors running applications and compares the current, live state against the desired target state (as specified in the Git repo); ArgoCD helps update, manage and control the code versions during its development phase on k8s. Testers can export the environment configuration in different formats, such as customize files, YAML files or jsonnet.
 
 ## Nocode
+
 ### Webflow and bubble
 
 We did bring up [Webflow](https://webflow.com/) in the previous version and applied it in [KiwiPay](https://kiwipay.webflow.io/) - marking our first attempt in no-code development. Succeeding this, we used Webflow to finetune the website of [ATVPro](https://atvpro.webflow.io/)
 
-
 ![](https://i.imgur.com/GcjPSma.jpg)
-
 
 Aiming for a more complex tool, we dived in [bubble](https://bubble.io/) - a no-code tool with the same concept. After using it for one of our design projects, we realize it somehow refrains developers from learning and adjusting the code. Meanwhile, it requires a deeper level of code and database, making it hard for designers to pick up.
 

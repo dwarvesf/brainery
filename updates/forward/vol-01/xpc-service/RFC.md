@@ -1,9 +1,9 @@
 # XPC service in macOS
 
-| Status        | Assess                                                |
-| :------------ | :-------------------------------------------------------------------------------------------- |
-| **Author(s)** | Phuc Le (phucld@dwarvesv.com)                                          |
-| **Type** | Technique                                          |
+| Status        | Assess                        |
+| :------------ | :---------------------------- |
+| **Author(s)** | Phuc Le (phucld@dwarvesv.com) |
+| **Type**      | Technique                     |
 
 ## Objective
 
@@ -23,4 +23,3 @@ There are many benifit when using a background process, such as XPC service.
 - Low memory footprint
 - More reliable app
 - Make the app more secure
-

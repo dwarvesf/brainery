@@ -1,11 +1,13 @@
 # `three.js` Basic Concepts
 
 ## Introduction
+
 `three.js` is a wrapper/abstraction of WebGL, make it easier to use. That said, it has no official definition. The author ([mr.doob](https://github.com/mrdoob)) refers to it as something he created to simply "make what he wants".
 
 To quickly get an idea of `three.js` has to offer, you can visit their example directory [here](https://threejs.org/examples/#webgl_animation_cloth).
 
 ### What about WebGL?
+
 WebGL is an API. It lets you access a computer’s specialised graphics hardware using JavaScript, and render the output to a webpage in a regular old `canvas` element.
 
 You can read more about WebGL on their [offical docs](https://www.khronos.org/webgl/wiki/Main_Page).
@@ -94,6 +96,7 @@ With the above-mentioning elements combined, user can create 3D scenes in their 
 _Disclaimer: I copied the above example projects from the office [`react-three-fiber` repo](https://github.com/react-spring/react-three-fiber)._
 
 ## Other things I want to mention...
+
 ... but won't delve deep into.
 
 ### [`react-three-fiber`](<(https://github.com/react-spring/react-three-fiber)>)
@@ -111,6 +114,7 @@ A good starting guide can be found [here](https://alligator.io/react/react-with-
 A lightweight graphical user interface for changing variables in JavaScript.
 
 ### Use of shaders
+
 I was going to include shader, but that's honestly out of my league right now. It's a world of its own. I will try to follow up with another tech radar project, if possible.
 
 ## Other References

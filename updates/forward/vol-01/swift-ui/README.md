@@ -2,16 +2,18 @@
 
 SwiftUI is the new UI framework, which Apple introduced in WWDC 2019.
 Some main features:
+
 - Declarative syntax (using state to keep UI up to date with data, like React :-?)
 - Cross Apple platforms
 
 There are 2 companions with SwiftUI:
+
 - Combine -> a reactive programing framework (similar to old RxSwift)
 - Xcode canvas -> Help Live Preview (hot reload in Flutter) come true in XCode. User dont need to choose between code UI visually or programmatically, all making UI things are synchronous between two
 
 SwiftUI works for iPad, Mac, Apple TV and Watch. There are minimal code changes and you can reuse a lot of the same components. The Stacks, Controls and Layout system will work the same, with a few adjustments. The philosophy for SwiftUI is not to write once, apply everywhere, but to learn one, apply anywhere.
 
- Most controls and data work across all platforms, with some minor layout changes and navigation. Those controls will be automatically translated for you, using the appropriate UI for their specific platform. For example, a Picker will look like a List in iOS, but it'll look like a drop-down for Mac.
+Most controls and data work across all platforms, with some minor layout changes and navigation. Those controls will be automatically translated for you, using the appropriate UI for their specific platform. For example, a Picker will look like a List in iOS, but it'll look like a drop-down for Mac.
 
 # Learn once, apply anywhere
 
@@ -28,25 +30,25 @@ Yes, the core of your app remains unchanged: your models, your networking, and m
 <img src="img/case-01-layout.png" alt="drawing" width="300"/>
 
 1. Parent Proposes Size for Child
-First, the root view offers the text a proposed size – in this case, the entire safe area of the screen, represeted by an orange rectangle.
+   First, the root view offers the text a proposed size – in this case, the entire safe area of the screen, represeted by an orange rectangle.
 
 2. Child Chooses its Size
-Text only requires that much size to draw its content. The parent has to respect the child's choice. It doesn't stretch or compress the child.
+   Text only requires that much size to draw its content. The parent has to respect the child's choice. It doesn't stretch or compress the child.
 
 3. Parent Places Child in Parent’s Coordinate Space
-And now the root view has to put the child somewhere, so it puts in right in the middle.
+   And now the root view has to put the child somewhere, so it puts in right in the middle.
 
---- 
+---
 
 ## Frame
+
 First, forget everything you know about frames in UIKit or AppKit. Those have nothing to do with frame(width:height:alignment:) and other related methods in SwiftUI.
 
 Let’s take a 60x60 image and display it using SwiftUI’s Image. Look what happens if I set the frame to 80x80.
 
-
 ## Stacks
-<img src="img/stack.jpg" alt="drawing" width="500"/>
 
+<img src="img/stack.jpg" alt="drawing" width="500"/>
 
 When creating a SwiftUI view, you describe its content in the view’s body property. However, the body property only returns a single view. You can combine3 and embed multiple views in stacks4.
 
@@ -57,12 +59,15 @@ ZStack – back to front
 ---
 
 ### Stack Layout Process
+
 There are three simple steps in the stack layout process.
+
 1. The stack figures out the internal spacing and subtracts it from the size proposed by its parent view.
 2. The stack divides the remaining space into equal parts for each of the remaining views. It then proposes one of those as the size for the least flexible child. Whatever size it claimed, it deducts that from the unallocated space. And then it repeats.
 3. All children have sizes. The stack lines them up with the spacing and aligns them according to the specified alignment. By default, the alignment is – you guessed it – .center. Finally, the stack chooses its own size so that it exactly encloses the children.
 
 # Migrating from UIKit to SwiftUI
+
 - UITableView: List
 - UICollectionView: No SwiftUI equivalent
 - UILabel: Text
@@ -167,6 +172,7 @@ final class PodcastPlayer: ObservableObject {
     }
 }
 ```
+
 ```Swift
 struct EpisodesView: View {
     @ObservedObject var player: PodcastPlayer
@@ -261,8 +267,8 @@ struct CalendarView: View {
     }
 }
 ```
-As soon as Locale, Calendar or ColorScheme of the system change, SwiftUI recreates our CalendarView.
 
+As soon as Locale, Calendar or ColorScheme of the system change, SwiftUI recreates our CalendarView.
 
 # ViewModifiers in SwiftUI
 
@@ -325,6 +331,7 @@ struct RepoRow: View {
     }
 }
 ```
+
 # Reusing SwiftUI views across Apple platforms
 
 ## Using if macro
@@ -353,9 +360,11 @@ This screen also has a picker component with the SegmentedPicker style, which al
 ```
 
 ## Using Container View
+
 Container View is a view that handles the data flow and doesn’t render any User Interface itself. Instead, Container View fetches the data and passes it to a Rendering View.
 
 Because WatchOS don't have the NavigationBarItems modifier so we can solve this problem by:
+
 1. Create a shared SleepDetailView
 2. Create 2 version of SleepDetailsContainer for each platform
 
@@ -413,7 +422,7 @@ SwiftUI was only announced at WWDC2019, and is available in iOS 13 devices or la
 
 ## Limited support
 
-UIKit has been around over ten years now, which means: 
+UIKit has been around over ten years now, which means:
 
 - Almost every problem you might face has probably already been faced and solved by others
 - There are lots of libraries out there that provide extensions and customizations.
@@ -423,6 +432,7 @@ UIKit has been around over ten years now, which means:
 ### Implicit wraps
 
 eg:
+
 ```Swift
 VStack {
     Text("abc")
@@ -434,6 +444,7 @@ VStack {
 `.bold()` alters Text, but `.padding()` wraps it in another view, changing the return type of the whole expression along the way. Compare that with VStack, which wraps its children explicitly. Why make the distinction?
 
 why not this?
+
 ```Swift
 VStack {
     Padding {
@@ -443,6 +454,7 @@ VStack {
 ```
 
 ### Child privacy invasion
+
 Some things are probably just plain mistakes (very funny though). E.g. NavigationView takes its properties not from its constructor or via modifiers, but instead from the properties of its first child. WHY?
 
 ```Swift
@@ -466,8 +478,8 @@ See the padding here? No? But look at the picture!
 
 <img src="img/default.png" alt="drawing" width="500"/>
 
-
 # References
+
 - [https://developer.apple.com/tutorials/swiftui/](https://developer.apple.com/tutorials/swiftui/)
 - [https://swiftwithmajid.com/2019/12/31/swiftui-learning-curve-in-2019/](https://swiftwithmajid.com/2019/12/31/swiftui-learning-curve-in-2019/)
 - [https://kean.github.io/post/swiftui-layout-system](https://kean.github.io/post/swiftui-layout-system)

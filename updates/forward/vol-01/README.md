@@ -7,12 +7,14 @@ Besides volume 01, we have an opportunity to sort out our current technology ind
 The study of volume 01 consists of
 
 ### Assess
+
 - WebAssemby
 - Progressive Web App
 - Three.js
 - Istio
 
 ### Trial
+
 - AARRR funnel
 - Gestalt UI Principles
 - Remote UX testing
@@ -20,6 +22,7 @@ The study of volume 01 consists of
 - XPC Service
 
 ### Other Studies
+
 - Blockchain for designer
 - Go routine underlying
 - Software Reuse

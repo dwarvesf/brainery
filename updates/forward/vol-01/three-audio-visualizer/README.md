@@ -1,9 +1,12 @@
 # audio-three-visualizer
+
 ## Heads-up
+
 This is an experimental project, so I took the chance and installed/set up a lot of unrelated things (such as `tailwindcss`, `redux-bundler` and `postcss`)
 to learn more about them. Please don't mind them when you read the code.
 
 ## Overview
+
 I'd like to once again mention the things I'll go through:
 
 - Basic ThreeJS concepts
@@ -16,6 +19,7 @@ Below is an image of the final scene:
 **_Or you can go and see how it works [here](https://three-audio-visualizer.herokuapp.com/)._** Please make sure you check the **_Play Music_** checkbox in the top right controller.
 
 ## The Basic Flow
+
 Basic flow of the audio visualizing process:
 
 - Input a sample audio file
