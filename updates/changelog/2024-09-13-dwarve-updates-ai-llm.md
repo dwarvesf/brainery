@@ -46,7 +46,7 @@ Additionally, we’re involved in computer vision projects for image recognition
 
 We always share what we learn and train with other tech fellows through Dwarves Memo.
 
-- [Journey of Thought Prompting: Harnessing AI to Craft Better Prompts](https://memo.d.foundation/playground/01_literature/engineering/ai/journey-of-thought-prompting/)
+- [Journey of Thought Prompting: Harnessing AI to Craft Better Prompts](/ai/journey-of-thought-prompting.md)
 - [Streamlining Internal Tool Development with Managed LLMOps: A Dify Case Study](https://memo.d.foundation/playground/01_literature/building-llm-powered-tools-with-dify/)
 - [Evaluating search engine in RAG systems](https://memo.d.foundation/playground/01_literature/hybrid-search/)
 - [Rapid software development with AI](https://memo.d.foundation/playground/01_literature/developing-rapidly-with-generative-ai/)

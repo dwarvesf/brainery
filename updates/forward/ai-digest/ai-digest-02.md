@@ -120,7 +120,7 @@ Using predictions helps accelerate similar tasks, particularly when refactoring 
 
 ## Reference
 
-- https://aider.chat/HISTORY.html
-- https://qwenlm.github.io/blog/qwen2.5-coder-family/
-- https://www.all-hands.dev/blog/announcing-all-hands-online-beta
-- https://platform.openai.com/docs/guides/predicted-outputs
+- <https://aider.chat/HISTORY.html>
+- <https://qwenlm.github.io/blog/qwen2.5-coder-family/>
+- <https://www.all-hands.dev/blog/announcing-all-hands-online-beta>
+- <https://platform.openai.com/docs/guides/predicted-outputs>

@@ -1,6 +1,6 @@
 # XPC services on macOS app using Swift
 
-XPC is the newest way to implement IPC (Inter-Process-Communication) mechanism. Before XPC we used Sockets and Mach Messages (Mach Ports).
+XPC is the newest way to implement IPC (Inter-Process-Communication) mechanism.  Before XPC we used Sockets and Mach Messages (Mach Ports).
 
 ## XPC for communicating processes
 
@@ -157,7 +157,12 @@ At this point, the main application can call the remoteObjectProxy or remoteObje
 
 When your application calls a method on the proxy object, the corresponding method is called on the exported object inside the XPC service. When the service’s method calls the reply block, the parameter values are serialized and sent back to the application, where the parameter values are deserialized and passed to the reply block. (The reply block executes within the application’s address space.)
 
+<<<<<<< HEAD
 _Note: If you want to allow the helper process to call methods on an object in your application, you must set the exportedInterface and exportedObject properties before calling resume. These properties are described further in the next section._
+=======
+
+*Note: If you want to allow the helper process to call methods on an object in your application, you must set the exportedInterface and exportedObject properties before calling resume. These properties are described further in the next section._
+>>>>>>> c68f8f9 (format frontmatter)
 
 ### Accepting a Connection in the Helper
 

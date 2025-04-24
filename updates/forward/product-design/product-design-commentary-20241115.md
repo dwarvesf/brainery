@@ -19,7 +19,7 @@ Artificial Intelligence (AI) brings boundless opportunities to enhance both user
 
 To develop effective AI-powered applications, it is vital to deeply understand user needs and apply UX principles throughout the design process. Only then can we create AI solutions that truly meet end-user expectations.
 
-Consider a trading platform aiming to implement an AI system to analyze crypto market trends. While some users might find such a feature disruptive to their trading habits and fear potential data breaches, others may over-rely on the system's recommendations—even when those recommendations are flawed. This could lead to severe issues, such as automated trading strategies triggering "flash crashes," where large-scale sell-offs are executed based on negative signals, causing significant losses for both AI users and the broader market.
+Consider a trading platform aiming to implement an AI system to analyze crypto market trends. While some users might find such a feature disruptive to their trading habits and fear potential data breaches, others may over-rely on the system's recommendations, even when those recommendations are flawed. This could lead to severe issues, such as automated trading strategies triggering "flash crashes," where large-scale sell-offs are executed based on negative signals, causing significant losses for both AI users and the broader market.
 
 This scenario highlights a common challenge in applying AI across industries. It underscores the importance of close collaboration between UX designers, AI developers, and engineers to overcome these obstacles, enhance system efficiency, and foster user acceptance.
 

@@ -108,12 +108,20 @@ The list of exchanged messages:
 Certificates vary in degree of validation and in the number of domains. The SSL security features provided to users change accordingly either.
 
 **A degree of validation**
+<<<<<<< HEAD
+
+=======
+>>>>>>> c68f8f9 (format frontmatter)
 
 - DV SSL - Domain Validation - a certificate with domain validation;
 - OV SSL - Organization Validation - a certificate with verification of the organization (company);
 - EV SSL - Extended Validation - a certificate with extended validation.
 
 **A number of domains**
+<<<<<<< HEAD
+
+=======
+>>>>>>> c68f8f9 (format frontmatter)
 
 - Wildcard SSL - a certificate aimed at the domain and its subdomains;
 - Multi-Domain SSL (MDC SSL or SAN SSL (Subject Alternative Name)) - a certificate focused on multiple domains.
@@ -146,7 +154,7 @@ The duration of the process of obtaining a DV SSL certificate is about 2 weeks. 
 
 ### Wildcard SSL
 
-Wildcard SSL is a certificate which applies to the domain and the entire subset of its subdomains. Say, if the 'domain.ua' domain is used, the wildcard certificate will include the 'domain.com' domain itself, as well as any subdomains of the lower levels: mail.domain.ua, 1ev.domain.ua, r.info.dnipro.domain.ua, etc. Typically, such SSL certificates are visually designated as \*.domain.ua and cost about 4 times more than DV does.
+Wildcard SSL is a certificate which applies to the domain and the entire subset of its subdomains. Say, if the 'domain.ua' domain is used, the wildcard certificate will include the 'domain.com' domain itself, as well as any subdomains of the lower levels: mail.domain.ua, 1ev.domain.ua, r.info.dnipro.domain.ua, etc. Typically, such SSL certificates are visually designated as *.domain.ua and cost about 4 times more than DV does.
 
 ### Multi-Domain SSL
 
@@ -157,7 +165,6 @@ Multi-Domain SSL is another example of SSL products: a certificate for several d
 To purchase an SSL certificate, you should contact a special company called Certificate Authority (CA). The process can be implemented in 2 ways:
 
 - In automatic mode, through various scripts.
-
 - In manual mode, say, when receiving an EV certificate or filling out a form on the website of the SSL provider.
 
 CA is a kind of administrative regulatory authority which issues SSL certificates to domain name holders. In addition, it is these organizations which conduct the appropriate checks when needed.
@@ -186,6 +193,10 @@ When a client's browser checks for a certificate on a site, it analyzes a few fi
 ![demo](assets/demo.png)
 
 There are also services to check the SSL certificates:
+<<<<<<< HEAD
+
+=======
+>>>>>>> c68f8f9 (format frontmatter)
 
 - SSLShopper offers a quick and simple way to check a chain of trust as well as the correctness of your certificate customization;
 - SSL Labs provides a detailed report on certificate and web server settings.
@@ -273,7 +284,7 @@ xchange. This leads to confusion where the client may interpret the Diffie-Hellm
     Attacker->Server: g^x mod p
 ```
 
-k^g mod p, k is premaster secret. For successful attack the client intercept premaster key which will be encrypted with RSA key, or Diffie Hellman parameters (g, p) which attacker already knows. Furthermore, the attacker sends to server g^x mod p whereby the server interprets premaster key as g^xy mod p. Attacker in future can intercept, read and change all the exchanged messages between the client and the server, act as a server to the client and as a client to the server.
+k^g mod p, k is premaster secret. For successful attack the client intercept premaster key which will be encrypted with RSA key, or Diffie Hellman parameters (g, p) which attacker already knows. Furthermore, the attacker sends to server g^x mod p whereby the server interprets premaster key as g^xy mod p. Attacker in future can intercept, read and change all the exchanged messages between the client and the server, act as a server to the client and as a client to the server
 
 Proposed solution for cross protocol attack was a new protocol extension indicating the new format of ServerKeyExchange message which includes explicit indicators of the entity (server), the type of key exchange algorithm, the handshake messages exchanged and the parameters of the key exchange.
 
@@ -301,6 +312,6 @@ SSL is vital to Web security. It provides a strong sense of confidentiality, mes
 
 ## References
 
-https://www.ssl.com/faqs/faq-what-is-ssl/
-https://www.venafi.com/education-center/ssl/common-ssl-attacks
+<https://www.ssl.com/faqs/faq-what-is-ssl/>
+<https://www.venafi.com/education-center/ssl/common-ssl-attacks>
 Ćurguz, Jelena. (2016). Vulnerabilities of the SSL/TLS Protocol. Computer Science & Information Technology. 6. 245-256. 10.5121/csit.2016.60620.

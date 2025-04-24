@@ -215,12 +215,12 @@ Extending or modifying an existing application in specific requirements for func
 
 ## References
 
-##### [1] "What is open source? - Red Hat." https://www.redhat.com/en/topics/open-source/what-is-open-source.
+##### [1] "What is open source? - Red Hat." <https://www.redhat.com/en/topics/open-source/what-is-open-source>
 
-##### [2] "(PDF) The open source movement: A revolution in software ...." https://www.researchgate.net/publication/258507068_The_open_source_movement_A_revolution_in_software_development.
+##### [2] "(PDF) The open source movement: A revolution in software ...." <https://www.researchgate.net/publication/258507068_The_open_source_movement_A_revolution_in_software_development>
 
-##### [3], [4], [7], [8] "Software Engineering." https://dinus.ac.id/repository/docs/ajar/Sommerville-Software-Engineering-10ed.pdf.
+##### [3], [4], [7], [8] "Software Engineering." <https://dinus.ac.id/repository/docs/ajar/Sommerville-Software-Engineering-10ed.pdf>
 
-##### [5] "What is OO Development? - Quora." 1 Mar. 2019, https://www.quora.com/What-is-OO-Development.
+##### [5] "What is OO Development? - Quora." 1 Mar. 2019, <https://www.quora.com/What-is-OO-Development>
 
-##### [6] "Leveraging Application Frameworks - ACM Queue." 31 Aug. 2004, https://queue.acm.org/detail.cfm?id=1017005.
+##### [6] "Leveraging Application Frameworks - ACM Queue." 31 Aug. 2004, <https://queue.acm.org/detail.cfm?id=1017005>

@@ -241,10 +241,10 @@ There are four classes of events that occur in your Go programs that allow the s
 
 ### References
 
-##### [1] David, "Very nice guide to Threads and Processes", Posted on August 1, 2020 at "https://learncgames.com/very-nice-guide-to-threads-and-processes", Accessed on August 17, 2020
+##### [1] David, "Very nice guide to Threads and Processes", Posted on August 1, 2020 at "<https://learncgames.com/very-nice-guide-to-threads-and-processes>", Accessed on August 17, 2020
 
-##### [2], [3] Gaurav Agarwal, "An investigative walk-through of Go's channels", Posted on January 26, 2019 at "https://blog.algogrit.com/posts/2019-01-23-summarizing-go-channels", Accessed on August 17, 2020
+##### [2], [3] Gaurav Agarwal, "An investigative walk-through of Go's channels", Posted on January 26, 2019 at "<https://blog.algogrit.com/posts/2019-01-23-summarizing-go-channels>", Accessed on August 17, 2020
 
-##### [4], [5], [6] Ankur Anand, "Diving Deep Into The Golang Channels." Posted on September 29, 2018 at "https://codeburst.io/diving-deep-into-the-golang-channels-549fd4ed21a8", Accessed on August 17, 2020
+##### [4], [5], [6] Ankur Anand, "Diving Deep Into The Golang Channels." Posted on September 29, 2018 at "<https://codeburst.io/diving-deep-into-the-golang-channels-549fd4ed21a8>", Accessed on August 17, 2020
 
-##### [7] William Kennedy, "Scheduling In Go : Part II - Go Scheduler", Posted on September 27, 2018 at "https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html", Accessed on August 17, 2020
+##### [7] William Kennedy, "Scheduling In Go : Part II - Go Scheduler", Posted on September 27, 2018 at "<https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html>", Accessed on August 17, 2020

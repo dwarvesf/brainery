@@ -19,6 +19,6 @@ An advisor for your development process.
 ## Install
 
 ```
-$ brew tap mkhoi1998/mimir
-$ brew install mimir
+brew tap mkhoi1998/mimir
+brew install mimir
 ```
