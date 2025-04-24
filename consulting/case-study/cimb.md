@@ -5,7 +5,7 @@ date: 2023-08-16
 description: We helped CIMB Malaysia transform their wealth management services by building a robust backend system that connects their new user-friendly platform with existing bank systems, enabling customers to manage investments more easily.
 authors:
   - huytq
-  - nikki
+  - nikkingtr
 tags: 
   - fintech
   - case-study
