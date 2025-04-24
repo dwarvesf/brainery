@@ -1,6 +1,8 @@
 ---
+
 tags: ux, design, ui
-authors: Cao Nguyen Huy Hoang
+authors:
+  - cnhhoang850
 github_id: cnhhoang850
 date: 2022-06-28
 ---

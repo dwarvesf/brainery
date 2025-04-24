@@ -1,6 +1,8 @@
 ---
+
 tags: ui, design, history
-authors: Nam Bui
+authors:
+  - Maniub102
 github_id: Maniub102
 date: 2022-08-05
 ---
