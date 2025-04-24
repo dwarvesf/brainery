@@ -14,17 +14,15 @@ Heading components section
 
 ###### Heading 6
 
-------
+---
 
 ```
 Alternate Syntax for Heading 1 and Heading 2 under Headings sections
 ```
 
-Heading 1
-===============
+# Heading 1
 
-Heading level 2
-------------------
+## Heading level 2
 
 ```
 Paragraph components section
@@ -39,7 +37,7 @@ Line Break components section
 Paragraph example  
 Line break paragraph example
 
-------
+---
 
 ```
 Emphasis components section
@@ -51,32 +49,35 @@ This is component Bold
 
 This is component Italic
 
-*Italic example*
+_Italic example_
 
 This is component Bold and Italic
 
-***Bold and Italic example***
+**_Bold and Italic example_**
 
 This is component Blockquotes
 
->Blockquotes example
+> Blockquotes example
 
 This is component Nested Blockquotes
 
->Blockquotes example
->>Nested Blockquotes example
->>>For more Nested Blockquotes, can put > before the first one
->Unnested Blockquote
->>Another nested blockquote
+> Blockquotes example
+>
+> > Nested Blockquotes example
+> >
+> > > For more Nested Blockquotes, can put > before the first one
+> > > Unnested Blockquote
+> > > Another nested blockquote
 
 > Blockquote
 >
 > > Indented blockquote
+> >
 > > > Nested Blockquotes example
 >
 > Continuation of original
 
-------
+---
 
 ```
 List components section
@@ -101,7 +102,7 @@ Paragraphs
 - This is the first list item.
 - Here's the second list item.
 
-    I need to add another paragraph below the second list item.
+  I need to add another paragraph below the second list item.
 
 - And here's the third list item.
 
@@ -110,28 +111,28 @@ Blockquotes
 - This is the first list item.
 - Here's the second list item.
 
-    > A blockquote would look great below the second list item.
+  > A blockquote would look great below the second list item.
 
 - And here's the third list item.
 
 Code Blocks
 
-1. Open the file.
-2. Find the following code block on line 21:
+1.  Open the file.
+2.  Find the following code block on line 21:
 
         <html>
           <head>
             <title>Test</title>
           </head>
 
-3. Update the title to match the name of your website.
+3.  Update the title to match the name of your website.
 
 Images
 
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
-    ![](assets/common-component_information_flow.webp)
+   ![](assets/common-component_information_flow.webp)
 
 3. Close the file.
 
@@ -140,11 +141,11 @@ Lists
 1. First item
 2. Second item
 3. Third item
-    - Indented item
-    - Indented item
+   - Indented item
+   - Indented item
 4. Fourth item
 
------
+---
 
 ```
 Code components section
@@ -163,7 +164,7 @@ Code blocks
       </head>
     </html>
 
------
+---
 
 ```
 Horizontal components section
@@ -172,9 +173,10 @@ Horizontal components section
 Horizonal
 
 ---
+
 Example
 
------
+---
 
 ```
 Link components section
@@ -192,11 +194,11 @@ URLs and Email Address
 Formatting Links
 
 - With bold example: **[Bold Example](https://www.google.com)**
-- With italic example: *[Italic Example](https://www.google.com)*
+- With italic example: _[Italic Example](https://www.google.com)_
 - With code example: [`Code example`](#code)
 - With in-style link with title: [Inline-style link with title](https://www.google.com "Google's Homepage")
 
------
+---
 
 ```
 Image components section
@@ -219,9 +221,9 @@ Like links, Images also have a footnote style syntax
 
 With a reference later in the document defining the URL location:
 
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+[id]: https://octodex.github.com/images/dojocat.jpg "The Dojocat"
 
------
+---
 
 **Syntax Highlighting:**
 
@@ -251,7 +253,7 @@ def hello_world():
 ```javascript
 // This is a comment
 function helloWorld() {
-    console.log("Hello, world!");
+  console.log("Hello, world!");
 }
 ```
 
@@ -271,5 +273,6 @@ void helloWorld() {
 
 ```markdown
 <!-- This is a comment -->
+
 # Hello, world!
 ```

@@ -73,7 +73,7 @@ On price charts, we use different shades of red to show how big a drop is.
 - Arrange information in ways that are natural to read:
   - **Z-pattern**: Perfect for comparing different investments side by side
   - **F-pattern**: Makes it easy to scan long lists of numbers from left to right
-  ![](assets/hedge-foundation-reading-patterns.png)
+    ![](assets/hedge-foundation-reading-patterns.png)
 
 ### 3. Select the right chart types for different data sets
 
