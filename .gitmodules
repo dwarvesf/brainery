@@ -6,9 +6,9 @@
 	path = handbook
 	url = git@github.com:dwarvesf/handbook.git
 	branch = master
-[submodule "playground"]
-	path = playground
-	url = git@github.com:dwarvesf/playground.git
+[submodule "research"]
+	path = research
+	url = git@github.com:dwarvesf/research.git
 	branch = master
 [submodule "careers"]
 	path = careers
