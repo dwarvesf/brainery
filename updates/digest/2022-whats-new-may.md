@@ -1,7 +1,7 @@
 ---
 title: "What's New in May 2022"
-date: 2022-05-31
 description: Each month, we release a recap noting all the significant changes with our company and our team. In May, we kicked off Apprenticeship training, and our new chalet is ready for community to visit.
+date: 2022-05-31
 authors:
   - duynglam
 tags:
@@ -69,3 +69,4 @@ Henceforth, we strongly encourage the team to expand their know-how in this fiel
 All these efforts aim to align with our business goals. We're sorting more resources to help with new partnerships coming up.
 
 Let's cross our fingers and buckle up for what's next in June.
+

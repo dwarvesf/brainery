@@ -1,7 +1,7 @@
 ---
 title: Road To 100
-date: 2022-08-26
 description: "2022 matched us with the 80th Dwarves. A notable highlight, and we're ready to have more. It's not easy to find people that has the same value. It takes true & solid seeks."
+date: 2022-08-26
 authors:
   - tieubao
   - nikkingtr
@@ -50,3 +50,4 @@ The latest stats on our current referral bonus & the top leaderboard. A huge tha
 ![](assets/road-to-100_8a7a01a12a0d02bfbc4ea9dc305d68e1_md5.webp)
 
 Referral from the team will have a higher chance of being prompted.
+

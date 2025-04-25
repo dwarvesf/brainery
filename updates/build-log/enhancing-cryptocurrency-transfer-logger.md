@@ -1,13 +1,13 @@
 ---
 title: "Transfer mapping: enhancing loggers for better transparency"
+description: A comprehensive guide on improving cryptocurrency transfer logging systems to provide better transparency and traceability for users and developers.
 date: 2024-11-18
+authors:
+  - baenv
 tags:
   - data
   - blockchain
   - fintech
-description: A comprehensive guide on improving cryptocurrency transfer logging systems to provide better transparency and traceability for users and developers.
-authors:
-  - baenv
 ---
 
 ## What is a logger, and why does it matter?
@@ -252,3 +252,4 @@ The proposed enhancements transform the logging system from disconnected entries
 - **Purposefulness**: Meaningful, actionable data for users and developers.
 
 This system not only addresses current logging limitations but also sets a solid foundation for future improvements in transaction tracking and user notifications.
+

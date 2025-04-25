@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Go Concurrency
 
 When we talk about Golang, its most basic and popular characteristic is concurrency-support.
@@ -248,3 +254,4 @@ There are four classes of events that occur in your Go programs that allow the s
 ##### [4], [5], [6] Ankur Anand, "Diving Deep Into The Golang Channels." Posted on September 29, 2018 at "<https://codeburst.io/diving-deep-into-the-golang-channels-549fd4ed21a8>", Accessed on August 17, 2020
 
 ##### [7] William Kennedy, "Scheduling In Go : Part II - Go Scheduler", Posted on September 27, 2018 at "<https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html>", Accessed on August 17, 2020
+

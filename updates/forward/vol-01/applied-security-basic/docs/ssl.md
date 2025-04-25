@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Security over SSL
 
 - [Security over SSL](#security-over-ssl)
@@ -315,3 +321,4 @@ SSL is vital to Web security. It provides a strong sense of confidentiality, mes
 <https://www.ssl.com/faqs/faq-what-is-ssl/>
 <https://www.venafi.com/education-center/ssl/common-ssl-attacks>
 Ćurguz, Jelena. (2016). Vulnerabilities of the SSL/TLS Protocol. Computer Science & Information Technology. 6. 245-256. 10.5121/csit.2016.60620.
+

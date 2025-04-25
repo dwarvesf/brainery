@@ -1,7 +1,7 @@
 ---
 title: "#05 - Last Engineering Meeting of The Year!"
-date: 2019-12-28
 description: "Discover the latest engineering meeting highlights, team updates, jacket design sneak peek, and plans for The Dwarves' 5th anniversary retreat and awards."
+date: 2019-12-28
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -65,3 +65,4 @@ Let's count down.
 Dwarves of the Year
 
 We had the final list from your recent nomination. The direction team is working on them to select the right Dwarves with the most enormous contribution and impact over the entire organization. Just a small hint: The number is increasing compared to last year 🎉
+

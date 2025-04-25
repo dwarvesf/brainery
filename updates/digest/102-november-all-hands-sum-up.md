@@ -1,7 +1,7 @@
 ---
 title: "#102 - November All-hands Sum up"
-date: 2021-12-04
 description: Our team focuses on blockchain deals, expanding with new experts, upgrading hiring processes, and hosting tech meetups while boosting collaboration through training and Discord.
+date: 2021-12-04
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -54,3 +54,4 @@ It's about time for DOTY. Voting form will be open from the middle of Dec ✌️
 Discord will be our next handout place. We'll start to public the team demos here as well.
 
 Please be well-noted: All the project/ workflow/ useful techniques demo comes with reward 😎 This is also a part of the Engage to Earn Model which Nam has been working on lately.
+

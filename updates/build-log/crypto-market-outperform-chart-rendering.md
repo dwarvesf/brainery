@@ -1,13 +1,13 @@
 ---
 title: "Visualizing crypto market performance: BTC-Alt dynamic indicators in Golang"
+description: Implementing a Golang-based visualization for crypto market performance indicators, focusing on Bitcoin vs Altcoin dynamics and trading strategy effectiveness through interactive charts and data analysis
 date: 2024-11-18
+authors:
+  - baenv
 tags:
   - data
   - blockchain
   - fintech
-description: "Implementing a Golang-based visualization for crypto market performance indicators, focusing on Bitcoin vs Altcoin dynamics and trading strategy effectiveness through interactive charts and data analysis"
-authors:
-  - baenv
 ---
 
 Crypto trading is not just gambling. It has strategies. Once traders can take advantage of it effectively, they can earn. One of the most popular strategies in cryptocurrency is **Hedge**, which is often mentioned with the name **Hedge Bitcoin**.
@@ -146,3 +146,4 @@ _Code 3: Code snippet to construct MarkAreaNameCoordItem depend on trade period_
 This project demonstrates how we can combine Golang and go-echarts to build powerful visualizations that provide deep insights into crypto trading performance. By integrating market trends, historical PnL data, and trading rounds into a single chart, we create a tool that allows traders to make informed decisions with clarity and precision.
 
 The challenges of aligning multiple datasets, ensuring readability, and maintaining meaningfulness were overcome with careful design and thoughtful implementation. This visualization not only simplifies the analysis of complex trading data but also empowers users to refine their strategies and improve efficiency. As the crypto market continues to evolve, tools like these will be indispensable for staying ahead of the curve.
+

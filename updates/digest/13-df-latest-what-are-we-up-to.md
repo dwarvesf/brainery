@@ -1,7 +1,7 @@
 ---
 title: "#13 - DF Latest: What Are We Up To?"
-date: 2020-02-29
 description: Discover how Dwarves Foundation boosts product design, engineering craftsmanship, apprenticeship programs, and MacOS utility Blurred to enhance creativity and focus.
+date: 2020-02-29
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -42,3 +42,4 @@ Another great work from our MacOS Team: Blurred - A macOS utility that helps red
 Using single dim mode for the main screen and parallel dim mode for multiple screens, Blurred helps user to focus more on work by dimming the inactive noise. You can also find the detailed description and usage at our GitHub as well.
 
 ![](assets/notion-image-1744007166047-lkikl.webp)
+

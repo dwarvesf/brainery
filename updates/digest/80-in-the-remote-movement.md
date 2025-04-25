@@ -1,7 +1,7 @@
 ---
 title: "#80 - In the remote movement"
-date: 2021-06-19
 description: Discover how our team uses metrics dashboards, automation testing, and remote tools like Gather Town to boost productivity while exploring the latest Windows 11 rumors and Apple M1 insights.
+date: 2021-06-19
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -41,3 +41,4 @@ But then the hit of Covid that turns everyone's focus back to PCs, this might be
 The trial on M1
 
 A short blog post on a 3-month journey of using Apple M1 chip, which I believe is kinda related to our team lately. I guess we’re all agree that M1 performs splendidly on the processing speed and the robust battery life. Until the running of Docker and other applications cause slow performance, not to mention the consumption of disk space for editors like Xcode. Like all of us, the author witnessed the same points. How’s your journey with M1 so far ?
+

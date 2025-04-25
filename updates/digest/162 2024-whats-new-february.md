@@ -1,7 +1,7 @@
 ---
 title: "What's New in February 2024"
-date: 2024-03-08
 description: "In this second month of 2024, we're eyeing on what's brewing in the tech market, what's happening in our community and internally, the newest topics we're looking forward to researching and putting on the field, and expanding our partner network."
+date: 2024-03-08
 authors:
   - nikkingtr
 tags:
@@ -72,3 +72,4 @@ With our average project size at $30,000, a partner can generate at least $2,400
 But a stable income is not all we offer, there are [[Partners Network|other perks and benefits]] too!
 
 [Reach out to Nikki](mailto:nikki@d.foundation) if you're interested or know someone who might :)
+

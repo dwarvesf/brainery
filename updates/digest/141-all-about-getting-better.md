@@ -1,7 +1,7 @@
 ---
 title: "#141 - All about getting better"
-date: 2022-10-31
 description: Discover how Dwarves improves project delivery with weekly changelogs, celebrates new partnerships and team wins, and seeks React Native developers for contractor roles.
+date: 2022-10-31
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -29,3 +29,4 @@ Oct team dinner
 Last week team dinner is on fire, like literally. See, it’s good to see these shy souls get comfortable and just have a damn good time!
 
 ![](assets/notion-image-1744007352985-wulz4.webp)
+

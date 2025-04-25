@@ -1,7 +1,7 @@
 ---
 title: "#136 - Enjoy the moonlight time"
-date: 2022-09-09
 description: Celebrate Mid-Autumn Festival with Mooncake gifts, enjoy team updates on performance reviews, new members, and earn $ICY tokens in the Dwarves Network community.
+date: 2022-09-09
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -25,3 +25,4 @@ Warmly welcome 3 new Dwarves to the woodland. Hope you enjoy the stay & grow you
 - Minh - Product Data Intern
 - Duc - Unity Engineer
   Last but not least, we want to send the congrats to @innno for passing her probation as a Marketing Executive with 3 upvotes from the mates. She’s been standing behind most of our social exposure and with this success, hope to see more of the likes ♡
+

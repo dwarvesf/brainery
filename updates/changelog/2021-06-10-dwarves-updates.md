@@ -1,7 +1,7 @@
 ---
 title: Dwarves Updates
-date: 2021-06-10
 description: Hi, this is Han, the CEO of Dwarves Foundation. This month the Dwarves score 40th client that we have the honor to serve. And for that, we decide to launch the Dwarves Updates.
+date: 2021-06-10
 authors:
   - tieubao
   - nikkingtr
@@ -44,3 +44,4 @@ For the detail of the Apprenticeship Program, check out [here](https://memo.d.f
 That's it for the first release. See you next time.
 
 Han & the Dwarves.
+

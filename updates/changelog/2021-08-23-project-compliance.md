@@ -1,7 +1,7 @@
 ---
 title: Project Compliance
-date: 2021-08-23
 description: This email is the third month we share about our journey to Software Craftsmanship.
+date: 2021-08-23
 authors:
   - tieubao
   - nikkingtr
@@ -52,3 +52,4 @@ Our ultimate goal is to build and ship software. That starts with our engineers 
 That's it for the this issue. See you next time.
 
 Han & the Dwarves
+

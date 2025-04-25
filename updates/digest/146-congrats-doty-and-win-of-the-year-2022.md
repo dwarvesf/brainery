@@ -1,7 +1,7 @@
 ---
 title: "#146 - Congrats DOTY and Win of the Year 2022"
-date: 2023-01-10
 description: Celebrate DOTY and Win of the Year 2022 with highlights from the Dwarves Year End Party, Tet holiday gifts, bonuses, and team updates.
+date: 2023-01-10
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -28,3 +28,4 @@ PROFILE TEAM PHOTO has been rolled out at the #message-board channel. Deadline f
 - You’ll be receiving 13-Month Bonus & Employee Profit Sharing payout by 15/01/2023. Please notify your bank ting ting. Bring home the bacon this Tet Holiday. Woohoo
 - Dwarves Summit 2022 has been published on Memo. Such an engineering good time we’ve had. See how Dwarves Summit turned out: [https://bit.ly/3GjiDsY]
   Last but not least, next Thursday will be the last working day before the Tet, we are still working around the clock. Work hard play hard.
+

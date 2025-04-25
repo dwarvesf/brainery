@@ -1,7 +1,7 @@
 ---
 title: "#11 - Take care of your beloved now or get sml later"
-date: 2020-02-15
 description: Stay informed on COVID-19 updates, office surveys, apprenticeship programs, and Tech Radar R&D progress to keep your workplace safe and innovative.
+date: 2020-02-15
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -52,3 +52,4 @@ The FAQ session was also updated on Dwarves Handbook - TechRadar. We're still co
 The FAQ of TechRadar defines the metrics we use to validate the topics. Other than that, it explains the reason and the benefit we end up having after then. It's challenging to keep moving alongside the industry, and Dwarves TechRadar is the first step we take to make it more interesting 💪
 
 ## YOU'RE STILL THERE?
+

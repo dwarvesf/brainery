@@ -1,14 +1,13 @@
 ---
-title: "AI-powered Ruby travel assistant"
-description: "A case study exploring how we built an AI-powered travel assistant using Ruby and AWS Bedrock, demonstrating how choosing the right tools over popular choices led to a more robust and maintainable solution. This study examines our approach to integrating AI capabilities within existing Ruby infrastructure while maintaining enterprise security standards."
-date: "2024-11-21"
+title: AI-powered Ruby travel assistant
+description: A case study exploring how we built an AI-powered travel assistant using Ruby and AWS Bedrock, demonstrating how choosing the right tools over popular choices led to a more robust and maintainable solution. This study examines our approach to integrating AI capabilities within existing Ruby infrastructure while maintaining enterprise security standards.
+date: 2024-11-21
 authors:
-  - "monotykamary"
+  - monotykamary
+aliases: ["/share/ai-travel"]
 tags:
-  - "agents"
-  - "ai"
-aliases:
-  - /share/ai-travel
+  - agents
+  - ai
 ---
 
 > "When the easy path isn't the right path, true engineering shines in adapting the right tools for the job."
@@ -144,3 +143,4 @@ The suggestion system proved that AI assistants can do more than just respond—
 This project stands as a testament to the power of working with, rather than against, existing infrastructure. By choosing to enhance Ruby's AI capabilities rather than force-fitting Python into a Ruby environment, we delivered a solution that ultimately was more engaging for end users.
 
 The success of this implementation proves that with the right engineering approach, Ruby can be a formidable platform for enterprise AI applications. More importantly, it demonstrates that sometimes the best path forward isn't the most obvious one—it's the one that best fits the entire ecosystem while pushing the boundaries of what's possible.
+

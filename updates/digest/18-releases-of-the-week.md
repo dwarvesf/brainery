@@ -1,7 +1,7 @@
 ---
 title: "#18 - Releases of the Week"
-date: 2020-04-04
 description: Discover the latest updates from Dwarves including new
+date: 2020-04-04
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -55,3 +55,4 @@ Looks like the team is getting bigger day by day. We welcomed another Frontend E
 It's Van Tran's first time to work remotely, and he is very interested to join our remote system by dropping his home desk shot at our Snap shot campaign!
 
 ![](assets/notion-image-1744007190010-echis.webp)
+

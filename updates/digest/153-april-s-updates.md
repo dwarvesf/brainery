@@ -1,7 +1,7 @@
 ---
 title: "#153 - April’s Updates"
-date: 2023-05-10
 description: Discover how AI tools and LLMs boost developer productivity with demos, Golang tips, project highlights, and upcoming tech events in this Dwarves community update.
+date: 2023-05-10
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -65,3 +65,4 @@ Seats are limited, so make sure you reserve yours.
 --> Register: <https://forms.gle/5pU83UDmkjVY5No59>
 
 Til next time. Happy coding.
+

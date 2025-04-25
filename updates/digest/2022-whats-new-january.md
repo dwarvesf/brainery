@@ -1,7 +1,7 @@
 ---
 title: "What's New in January 2022"
-date: 2022-01-28
 description: Each month, we release a recap noting all the significant changes with our company and our team. January 2022 will go over performance review and our growth on projects, new year highlights.
+date: 2022-01-28
 authors:
   - nikkingtr
   - duynglam
@@ -62,3 +62,4 @@ A small gift to thank you for being with us for the past year. May we all enter 
 Happy the year of Tiger. Let's rock 2022 together!
 
 ![merch](assets/2022-whats-new-january_2022-january-updates_bd881f2df5fc45b3831edf17c1ceef53_md5.webp)
+

@@ -1,7 +1,7 @@
 ---
 title: "#104 - Vote for your Dwarves"
-date: 2021-12-18
 description: "Get the latest updates on Dwarves' New Year holiday schedule, voting for Dwarves of The Year 2021, office returns, and Da Lat design plans."
+date: 2021-12-18
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -18,3 +18,4 @@ Da Lat Office is going through its final decision. Really looking forward to hav
 Please be well-noted that this is a 3D design, though I desperately want it to look exactly the same after they finished reconstructing 👉👈
 
 ![](assets/notion-image-1744007409701-whmco.webp)
+

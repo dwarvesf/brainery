@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Dwarves Tech Radar
 
 A place where the Dwarves note down their research and development pieces of technology.
@@ -47,3 +53,4 @@ We love pull requests. If you have something you want to add or remove, please o
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 @ [Dwarves Foundation](https://d.foundation)
+

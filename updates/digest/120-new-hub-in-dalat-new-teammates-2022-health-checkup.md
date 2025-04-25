@@ -1,7 +1,7 @@
 ---
 title: "#120 - New Hub in Dalat, New Teammates & 2022 Health Checkup"
-date: 2022-05-09
 description: Get details on annual health checkups in Saigon, Hanoi, Dalat, and Danang, plus updates on apprenticeships, internships, and the Dalat Hub launch.
+date: 2022-05-09
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -27,3 +27,4 @@ xx interns from Bach Khoa Uni
 
 - A few peeps are heading to Dalat Hub on May 10 for a soft launch
 - You can still join in. Simply ping @ duy or @ thuong to claim your free flight tickets
+

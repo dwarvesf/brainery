@@ -1,7 +1,7 @@
 ---
 title: "What's New in May 2024"
-date: 2024-06-13
 description: May was our month for meetups, upgrading our monthly learning pool, launching NFT roles for our team members, onboarding new collaboration, recapping Echelon X 2024, and hosting an OGIF office hour.
+date: 2024-06-13
 authors:
   - innnotruong
 tags:
@@ -62,3 +62,4 @@ To show our appreciation, we've launched a special Dwarves NFT collection for pe
 There have been many interesting discussions over the past two months since OGIF resumed. Topics ranged from new findings to techniques, software engineering, and industry insights.
 
 Notably, @hoangnguyen and @hieuthu2 gave an insightful talk on "Building a Resilient System." They covered key aspects of system resilience, including designing for failure, implementing redundancy, and ensuring continuous availability.
+

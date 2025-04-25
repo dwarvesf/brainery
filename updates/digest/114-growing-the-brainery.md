@@ -1,7 +1,7 @@
 ---
 title: "#114 - Growing the Brainery"
-date: 2022-03-21
 description: Discover March Brainery updates, DF Apprenticeship 2022 registration, Women’s Day voting, and new merchandise ideas to support learning and community engagement.
+date: 2022-03-21
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -24,3 +24,4 @@ Last day to nominate your beloved woman. We’ll wrap up the event by the end of
 Ideas for new merchandise combo
 
 I’m thinking of T-shirts, masks and maybe some crocs sandals. You know, something that takes us only 5 mins to be ready and get out of the house. Just ping me if you got anything in mind. I’m up for any suggestions.
+

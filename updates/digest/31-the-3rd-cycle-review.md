@@ -1,7 +1,7 @@
 ---
 title: "#31 - The 3rd Cycle Review 📍"
-date: 2020-07-04
 description: Celebrate the end of the 3rd cycle with highlights on the Cryptosy app update, team achievements, and a fun dinner gathering with food and drinks.
+date: 2020-07-04
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -26,3 +26,4 @@ We have also uploaded a detailed note in Woodland>Message Board>Cycle Review. It
 Of course, it was a good time with beer and the overload of food. As usual.
 
 ![](assets/notion-image-1744007035239-yuhmt.webp)
+

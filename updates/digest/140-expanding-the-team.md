@@ -1,7 +1,7 @@
 ---
 title: "#140 - Expanding the team"
-date: 2022-10-07
 description: Discover highlights from Apprentices Sharing, a successful Open Fabric case study, and current job openings in digital marketing, operations, recruitment, and community roles.
+date: 2022-10-07
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -30,3 +30,4 @@ We are scaling. This would be a massive focus on the back office with these avai
 - Technical Recruiter: <https://bit.ly/3CgqIN9>
 - Community Executive: <https://bit.ly/3ec7Uq7>
   As we need your help, please spread the message to your network or send your referral to @itsmia.
+

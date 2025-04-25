@@ -1,7 +1,7 @@
 ---
 title: "#15 - Have You Heard of Humans in Tech?"
-date: 2020-03-14
 description: Discover how Humans in Tech connects developers with the latest tech news, community stories, and events to boost your involvement in the tech industry.
+date: 2020-03-14
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -44,3 +44,4 @@ We still expanding the field of topics and reaching for more cool stuffs. If you
 ![](assets/notion-image-1744007162736-j7wwp.webp)
 
 Still there are rooms to improve, those were the mini achievements we were glad to reach. Our next moves is to go hard for branding and community, therefore the intervention of Humans in Tech and GDE application are strongly encouraged to expose yourself to the tech world, and we hope, as a team, you'll find a reason to be a part of it.
+

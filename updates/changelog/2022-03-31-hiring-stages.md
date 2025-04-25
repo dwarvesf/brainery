@@ -1,7 +1,7 @@
 ---
 title: The stages of hiring at Dwarves
-date: 2022-03-31
 description: In today’s edition, job interviews need a makeover, the 4 stages of hiring at Dwarves, Dwarves apprenticeship 2022, other talking points
+date: 2022-03-31
 authors:
   - tieubao
   - nikkingtr
@@ -118,3 +118,4 @@ May we continue this year with genuine happiness & success. We hope your codes a
 Until next time,
 
 Han and Nikki.
+

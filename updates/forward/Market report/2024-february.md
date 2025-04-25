@@ -1,16 +1,16 @@
 ---
 title: Market report February 2024
 short_title: February 2024
-date: 2024-03-01
 description: "This month has been a continuation of AI and an upwards trend on FinOps and CyberSecurity. On top of those domains, there has been smaller, but very notable trends on the growth of Software as a Service (SaaS) or MicroSaaS' have rebound and created significant growth for serverless services, as a means to avoid startup and initial running costs. Likewise, AI has been changing how we work and how we design systems to enrich workflows and create more naturally interactive apps."
+date: 2024-03-01
 authors:
   - monotykamary
   - zlatanpham
 tags:
   - labs
   - market-report
-  - AI
-  - LLM
+  - ai
+  - llm
   - cybersecurity
   - serverless
 ---
@@ -67,3 +67,4 @@ The White House Office of the National Cyber Director's report on cybersecurity 
 - [AWSLabs](https://github.com/awslabs/llrt)
 - [Nvidia CEO: Don't learn to code](https://fusionmarketer.com/industry-news/dont-learn-to-code-nvidia-ceo-jensen-huang/)
 - [Sora](https://openai.com/sora)
+

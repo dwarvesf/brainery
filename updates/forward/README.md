@@ -1,7 +1,7 @@
 ---
-title: "Forward Engineering"
-date: 2020-08-25
+title: Forward Engineering
 description: We launch The Dwarves Tech Radar as a living asset to evaluate the adoption decision and keep the technology direction stays on track. Tech Radar is how we do R&D, how we work on self-growth and motivate continuous curiosity.
+date: 2020-08-25
 authors:
   - tieubao
   - duynglam
@@ -61,3 +61,4 @@ Above is the knowledge areas that we think the software engineers should have be
 - Maintenance / Monitoring
 
 In each particular topic, there are new practices, tools, frameworks and services that keeps evolving. The lower the topic in knowledge areas stack, the more important it is to set the foundation for engineers.
+

@@ -1,7 +1,7 @@
 ---
 title: "#111 - On the move of Hiring "
-date: 2022-02-18
 description: Get updates on salary adjustments, new apprenticeship and tech events, team growth, and a backend engineering talk for the NFT marketplace at Dwarves.
+date: 2022-02-18
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -16,3 +16,4 @@ Exposing the team's know-how and discovering more potential Dwarves is one of ou
 We welcome Thinh Tran to the dev team this week. A few days ago, he dropped a short intro in #introduction as @chip. Thinh is also one of the first members of our Da Nang team. Glad to have you onboard
 
 Last but not least, this week's Radio Talk is about "A Backend perspective on Engineering in an NFT marketplace", brought to you by Hoang Nguyen.
+

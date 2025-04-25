@@ -1,13 +1,13 @@
 ---
 title: "Reconstructing historical trading PnL: a data pipeline approach"
+description: A detailed look at how we rebuilt historical trading PnL data through an efficient data pipeline approach, transforming a complex problem into a maintainable solution.
 date: 2024-11-18
+authors:
+  - baenv
 tags:
   - data
   - fintech
   - blockchain
-description: A detailed look at how we rebuilt historical trading PnL data through an efficient data pipeline approach, transforming a complex problem into a maintainable solution.
-authors:
-  - baenv
 ---
 
 ## Executive summary
@@ -238,3 +238,4 @@ To validate the reconstruction process:
 This case study highlights the power of a **data-centric approach** in solving financial system problems. By treating the challenge as a structured data pipeline problem, we avoided risky codebase modifications and developed a robust, scalable solution. Techniques such as parallel processing, time-series reconstruction, and efficient data retrieval were key to solving the problem within system constraints.
 
 This approach demonstrates that **data-driven solutions** can effectively address complex challenges while maintaining flexibility and performance for future needs.
+

@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Generating Bash Completions For Your Own cobra.Command
 
 If you are using the generator you can create a completion command by running
@@ -254,3 +260,4 @@ complete -o default -F __start_origcommand aliasname
 $) aliasname <tab><tab>
 completion     firstcommand   secondcommand
 ```
+

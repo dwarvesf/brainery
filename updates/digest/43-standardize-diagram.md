@@ -1,7 +1,7 @@
 ---
 title: "#43 - Standardize tech progress: Diagram"
-date: 2020-10-03
 description: Learn how to standardize tech progress with Mermaid diagrams, RESTful API design, and stay updated on logging, monitoring, and new Biz Dev team additions at Dwarves.
+date: 2020-10-03
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -18,3 +18,4 @@ I also found some articles on Medium while searching on this Markdown diagram to
 ### News Dwarves join the team
 
 We’re glad to welcome Truong Anh (or you may find her account as Oliu in Basecamp) last week as our new Biz Dev for the Ventures arm. Hope you have a great experience with the Dwarves, create impact and enjoy the ride.
+

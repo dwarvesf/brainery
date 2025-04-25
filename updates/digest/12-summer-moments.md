@@ -1,10 +1,10 @@
 ---
 title: "Weekly Digest #12: Summer moments - Our team's remote work adventures"
-date: 2024-07-11
+short_title: "#12 Summer moments"
 description: There’s something special about bringing people together. Even as a remote team, we connect through shared interests and activities. "This summer, Where Are You Working From?" campaign sparked a wave of fun and connection across the team. Come along as we share the stories of our team members.
+date: 2024-07-11
 authors:
   - innnotruong
-short_title: "#12 Summer moments"
 tags:
   - memo
   - team
@@ -51,3 +51,4 @@ Team members @hnh, @bienvh, @anna, and @tom also shared their own impressive col
 But wait, there's more. @hnh surprised us with a weekend check-in from the peaceful Binh An village in Da Lat. Working by the serene Tuyen Lam Lake sounds like the ultimate productivity booster. Meanwhile, @minhlq's location in the highlands seemed a bit more mysterious.
 
 Like, someone might join a group for a specific anime but not another. That’s where our different servers or “guilds” on Discord help. They let people find their smaller communities within the larger team. This way, everyone can connect with others who share their interests. In these moments, big and small, we find the essence of who we are as a team.
+

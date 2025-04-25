@@ -1,16 +1,16 @@
 ---
 title: "Talks and Takeaways from the Scene: Part 1"
 short_title: 1st Talks and Takeaways
-date: 2025-03-13T00:00:00.000Z
 description: Talks and Takeaways from the Scene Part 1
+date: 2025-03-13
 authors:
   - ooohminh
+perma_storage_id: tLyLgDgNhoku4Xn23VQZYz44RXQ4E1a_EPLIWPRsNOY
+should_deploy_perma_storage: true
 tags:
   - consulting
   - market-report
   - tech-report
-should_deploy_perma_storage: true
-perma_storage_id: tLyLgDgNhoku4Xn23VQZYz44RXQ4E1a_EPLIWPRsNOY
 ---
 
 Hey everyone. I went to 2 cool events in Vietnam recently and I’ve got some fun thoughts to share. Tired of boring tech talk? I’ll tell you what I saw and what got me excited or curious. No big words, just my real take. Let me know what you think.
@@ -44,3 +44,4 @@ These innovations reflect a broader AI boom in Vietnam and South East Asia. Acco
 Not everything was great. Some AI chat tools were for small silly stuff, kind of weak. One guy called his idea “big news” but it felt fake so I tuned out. Still the good ones solve real problems and the crowd was pumped. New people are coming to Vietnam to start things, it’s a vibe I could feel even if I didn’t count them.
 
 That was my week, and I’m feeling good about it. The Web3 event showed me things are shifting, maybe getting ready for something bigger. The AI night was bursting with fresh ideas, and even with some worries, the energy there was electric. Vietnam’s alive with people chasing dreams and building cool stuff. I think we’re onto something real here, not just noise, and it’s only going to grow. What do you think? Can’t wait to see what’s next. Catch you soon.
+

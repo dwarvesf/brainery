@@ -1,7 +1,7 @@
 ---
 title: "#119 - Holiday announcement"
-date: 2022-04-25
 description: Visit the Danang office to watch Tom’s vlogs, get flight ticket support, update your ID, check Bao Minh Insurance claims, and note the upcoming holiday schedule.
+date: 2022-04-25
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -18,3 +18,4 @@ I’ve put a note on Bao Minh Insurance claiming process on Basecamp last week. 
 - Close date: From Saturday, April 30 to Tuesday, May 03, 2022
 - Resume date: Wednesday, May 04, 2022
   Have a great holiday ahead 🦾
+

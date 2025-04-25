@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 Once every month, we gather for Radar update to round up the cool techs and assess if we should adopt that to the team. We kicked off the first volume not too long ago, mainly focused on what people want to dive in. More of them fell on personal interest.
 
 This time, we got off on the different foot. We head for things that actually do our work a favor. Road to a wider and more diversified ring, Dwarves Tech Radar v2 contains the practices to simplify the workflow, new techniques/ approach methods for project toolkit setup and expand the domain knowledge.
@@ -39,3 +45,4 @@ We tried out CState as our monitoring service, but CState requires low level set
 Our Designers picked it up earlier this year to better create an entry way before product design. There are multiple ways to do UX research; our team also has one. This framework provides a structural approach on UX research. This method helps collect insight on a domain's business's strategy, users' behaviors, needs, pain points, etc. to build a product that meets the business's goal and solves users' existing problems.
 
 ![market](./assets/market.png)
+

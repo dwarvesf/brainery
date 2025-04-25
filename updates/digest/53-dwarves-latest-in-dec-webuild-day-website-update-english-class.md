@@ -1,7 +1,7 @@
 ---
 title: "#53 - Dwarves Latest in Dec: WeBuild Day, Website update & English Class"
-date: 2020-12-05
 description: Get the latest updates on Covid-19, Artzy.vn improvements, WeBuild Day, The Library Project partnership, Salesforce-Slack deal, and new English classes for our community.
+date: 2020-12-05
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -43,3 +43,4 @@ Earlier this week, Salesforce-Slack deal was officially announced and the number
 People have their own opinion toward this. Some think that’s a good deal since Saleforces landed pretty similar product Chatter a while ago, but it didn’t work out so well, so Slack would be a good fit for its ecosystem. Others might think differently, they believe this deal is all about generating revenue.
 
 If you ask us? We would say it an understandable move, because of the competition from Microsoft Team on larger accounts, it’s hard to see how Slack could survive as an independent company. But it might hard if Slack decides to transform from a “cute chat app for startups with emoji” to an Enterprise-level.
+

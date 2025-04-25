@@ -1,7 +1,7 @@
 ---
 title: "What's New in December 2023"
-date: 2024-01-03
 description: In December, we launched our Consulting Team, released our finding on tech trends, and last but not least, got everyone ready to wrap up 2023.
+date: 2024-01-03
 authors:
   - nikkingtr
 hide_frontmatter: false
@@ -96,3 +96,4 @@ Email us at <spawn@d.foundation> or ping @nikki on Discord for JDs / to refer so
 > - Radio Talk (Weekly, Monday): sharing technical learning, demos, showcases
 > - Tech Event (Monthly): sharing programming trends, tech trends, panel discussions
 > - Community Call (Monthly): summary wins and growth of the month
+

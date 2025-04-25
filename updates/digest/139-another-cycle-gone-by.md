@@ -1,7 +1,7 @@
 ---
 title: "#139 - Another cycle gone by"
-date: 2022-09-30
 description: Discover how our team boosted September growth by 50%, shared Apprenticeship 2022 insights, and is hiring a digital marketer to expand our audience.
+date: 2022-09-30
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -28,3 +28,4 @@ Calling for Digital Marketer
 We're looking for someone with inbound marketing experience and the willingness to grow our audience base. The full JD at <https://bit.ly/3Rq9F0k>.
 
 If you have some references, please send it to me.
+

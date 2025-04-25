@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # SSH
 
 ## Preface
@@ -89,3 +95,4 @@ SSH The Secure Shell - Daniel J Barrett Richard Silverman
 https://en.wikipedia.org/wiki/Secure_Shell
 https://www.slashroot.in/secure-shell-how-does-ssh-work
 https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process
+

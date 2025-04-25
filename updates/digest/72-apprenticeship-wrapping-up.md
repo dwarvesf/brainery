@@ -1,7 +1,7 @@
 ---
 title: "#72 - Apprenticeship Wrapping Up"
-date: 2021-04-24
 description: "Discover the latest team updates, project progress, Apple Spring Event highlights, and a comparison of GCP with AWS and Azure in this week's tech roundup."
+date: 2021-04-24
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -32,3 +32,4 @@ Given these new drops, Apple has evidently put a lot of effort into ensuring pri
 GCP vs Azure & AWS
 
 An article explained how GCP happened to be distrusted comparing to other cloud providers such as AWS or Azure. It listed some key points that made GCP (and somehow other Google products ) harder for developers. There have been some debates on HN as well, where mono-repo is the highlight pain point.
+

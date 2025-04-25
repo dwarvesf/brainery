@@ -1,7 +1,7 @@
 ---
 title: "#17 - Why People so Giàu lately?"
-date: 2020-03-28
 description: "Discover how our design team improved fintech apps, shared home desk snapshots, hosted an ADR webinar, and published SwiftUI tutorials in this week's tech update."
+date: 2020-03-28
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -69,3 +69,4 @@ During one week, we're piling up the team's publication with 3 blog posts on Med
 ### The Dwarves Team ⚒
 
 We welcomed another Dwarves earlier this week! Nhut Huynh is a fresher and will be working under the supervision of Quynh to better perform his part as QC Engineer ✔️
+

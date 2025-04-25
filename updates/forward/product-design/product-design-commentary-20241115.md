@@ -1,7 +1,7 @@
 ---
 title: "Product Design Commentary #6: AI in Design - Cool ideas and how to make them happen"
-date: 2024-11-21
 description: Artificial Intelligence (AI) brings boundless opportunities to enhance both user experience and daily life. While foundational technologies often seem under the purview of data scientists and engineers, designers play a crucial role in bridging the gap between user needs and emerging technologies. This article explores the role of UX and how to determine which user problems are best solved with AI while assessing their effectiveness.
+date: 2024-11-21
 authors:
   - bringastar
   - Maniub102
@@ -104,3 +104,4 @@ AI is not a silver bullet for every problem. As designers, our ultimate goal is 
 - A chapter from Google's guide on [User Needs + Defining Success (Responsible AI)](https://pair.withgoogle.com/chapter/user-needs/), focusing on understanding and meeting user needs during the development of AI systems.
 
 - The article ["Applications Of Machine Learning For Designers"](https://www.smashingmagazine.com/2017/04/applications-machine-learning-designers/) on Smashing Magazine discusses the applications of machine learning for designers, helping them understand how to integrate this technology into their design process.
+

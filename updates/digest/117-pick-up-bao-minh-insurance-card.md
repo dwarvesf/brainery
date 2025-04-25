@@ -1,7 +1,7 @@
 ---
 title: "#117 - Pick up Bao Minh Insurance Card"
-date: 2022-04-11
 description: Welcome back from vacation with updates on contributor rewards, insurance card pick-up, and new Data and Fullstack Engineers joining the team.
+date: 2022-04-11
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -15,3 +15,4 @@ The insurance card has been picked up. You can pick up yours at the HaDo office 
 
 New Dwarves in town
 It's great to have some new faces to add to the team. They'll be working with us as Data and Fullstack Engineers on projects. Greetings and welcome onboard @jmsong84 & @Dung Ho.
+

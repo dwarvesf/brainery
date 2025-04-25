@@ -1,7 +1,7 @@
 ---
 title: "#42 - Update on CEA and Conference Allowance"
-date: 2020-09-26
 description: Learn about updated conference and education allowances, Lap’s infinite image gallery with ThreeJS, and the new standard Restful API design for consistent development.
+date: 2020-09-26
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -16,3 +16,4 @@ While we were conducting the series of Software Craftsmanship @DF, Lap threw out
 ### New Restful API Design
 
 Previously, our engineers generate API designs based on their own terms & definition. Gathering all the common practices, we’ve developed our first version of Restful API design, to systemize a standard format to make sure we speak the same voice. The detail can be found here at our Playbook. Also, a presentation will be made next week for further discussion.
+

@@ -1,7 +1,7 @@
 ---
 title: "What's New in April 2024"
-date: 2024-05-23
 description: "In this April, we're focused on memo upgrading, reward system, OGIF, internal tooling, community meetup and market report."
+date: 2024-05-23
 authors:
   - innnotruong
 tags:
@@ -79,3 +79,4 @@ At 5PM, every Friday afternoon, everyone in community is invited to gather on Di
 **Upcoming event:**
 
 - Community meetup in Ho Chi Minh City on Friday, May 31st.
+

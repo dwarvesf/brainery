@@ -1,7 +1,7 @@
 ---
 title: "#133 - Halfway through August"
-date: 2022-08-14
 description: Discover our new Marketing executive, upcoming T-shirt batch with size chart, and Mid-Autumn Festival mooncake gift delivery updates for seamless shopping and celebration.
+date: 2022-08-14
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -13,3 +13,4 @@ We’ve just announced the size chart last Thursday (<https://bit.ly/3CbTWOT>). 
 
 Mid-Autumn Festival is coming
 Mooncake Gift will be delivered to your door around September. In this sheet (<https://bit.ly/3SNDwlB>), please recheck your delivery contact or input the address details if you haven't.
+

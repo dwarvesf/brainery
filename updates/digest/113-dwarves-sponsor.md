@@ -1,7 +1,7 @@
 ---
 title: "#113 - Dwarves Sponsor"
-date: 2022-03-12
 description: Join Dwarves Brainery to share knowledge on topics like C compilers, blockchain, and monorepos while earning sponsorship and enjoying fun Discord events.
+date: 2022-03-12
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -26,3 +26,4 @@ We’re proud to honor these mates for sharing what they grasp. As you learn and
 # minigame channel in Discord
 
 We’ve decided mini events should be a thing to have fun in Discord. After Feb 22 (which Thuong has finsihed sent out those stickers to our winners), 8/3 event is a good one to nominate your woman and send them some good care. The event is still open til March 22, join us now at #minigame 🎮
+

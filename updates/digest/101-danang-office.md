@@ -1,7 +1,7 @@
 ---
 title: "#101 - DaNang Office"
-date: 2021-11-27
 description: Join the November All-hands Meeting on December 2 to hear project updates, team news, and learn about the new Da Nang office and job opportunities.
+date: 2021-11-27
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -16,3 +16,4 @@ The whole place is still under some last touches, and interior will be setup aft
 Da Nang team is looking for teammate. The 1-way ticket policy will soon to be applicable. Just ping a.Bao if you plan to move here for a while ✈️
 
 ![](assets/notion-image-1744007419212-pc16s.webp)
+

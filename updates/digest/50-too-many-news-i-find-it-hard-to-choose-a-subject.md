@@ -1,7 +1,7 @@
 ---
 title: "#50 - Too many news I find it hard to choose a subject"
-date: 2020-11-14
 description: Discover how Ventures upgraded their website perks, automated project backups, and prepared Readify MVP with data integration, plus community events and the latest Apple M1 news.
+date: 2020-11-14
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -76,3 +76,4 @@ Undoubtedly this one is the biggest news of last week, people are talking about 
 ![](assets/notion-image-1744007153116-31sm2.webp)
 
 ![](assets/notion-image-1744007153465-lygrq.webp)
+

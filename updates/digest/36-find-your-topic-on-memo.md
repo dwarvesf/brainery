@@ -1,7 +1,7 @@
 ---
 title: "#36 - Find Your Topic on Memo"
-date: 2020-08-08
 description: Discover how TechRadar research is published on Dwarves Memo, get updates on the Dwarves team week overview, and learn Deckset slide guidelines with VSCode.
+date: 2020-08-08
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -22,3 +22,4 @@ We’re working on a summary on how a week at Dwarves transpires. Hopefully to d
 ### Deckset Guideline
 
 More and more of our material are conducted in presentation slide now. To keep everyone on the same page, here’s a guideline on how we apply Deckset to create slides with VSCode. Hope it’s helpful.
+

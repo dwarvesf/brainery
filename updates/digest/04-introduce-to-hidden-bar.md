@@ -1,7 +1,7 @@
 ---
 title: "#04 - Introduce to Hidden Bar"
-date: 2019-12-21
 description: Hidden Bar is a MacOS app that hides unwanted menu bar items for a clean, minimal desktop, praised by LifeHacker and HackerNews.
+date: 2019-12-21
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -32,3 +32,4 @@ Christmas Wish from The Dwarves
 Let’s take a second to thank our Design team for this lovely Christmas card. But the fun hasn’t ended yet. We’ll make sure you have something to excite about next Monday. Wait and see!
 
 ![](assets/notion-image-1744007182341-8dwbi.webp)
+

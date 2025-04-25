@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # **Mimir**
 
 A CLI assistant for developers
@@ -285,3 +291,4 @@ https://github.com/gleitz/howdoi
 ---
 
 # Thank you
+

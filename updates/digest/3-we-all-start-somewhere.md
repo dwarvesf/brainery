@@ -1,10 +1,10 @@
 ---
 title: "Weekly Digest #3: We all start somewhere"
-date: 2024-04-22
+short_title: "#3 We all start somewhere"
 description: "Huge news is on the horizon. You absolutely will not guess what we’re about to share. Excitement building, we remember last week like it was yesterday, but what truly counts is that you're here with us."
+date: 2024-04-22
 authors:
   - innnotruong
-short_title: "#3 We all start somewhere"
 tags:
   - weekly-digest
   - discord
@@ -66,3 +66,4 @@ Interested in joining our Internship Program? We're here to welcome you aboard.
 
 [Shoot us an email](mailto:spawn@d.foundation) with your LinkedIn / CV\
 [Join our Discord](https://discord.gg/dfoundation) of +300 other engineers and designers
+

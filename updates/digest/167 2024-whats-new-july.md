@@ -1,7 +1,7 @@
 ---
 title: "What's New in July 2024"
-date: 2024-08-09
 description: "Each month, we release a recap highlighting key updates and progress within our team and community. July covers AI advancements, community contributions, insights from Vietnam's tech scene, new memo commands, OGIF automation, and the introduction of our hourly billing model"
+date: 2024-08-09
 authors:
   - innnotruong
   - nikkingtr
@@ -129,3 +129,4 @@ In response to the economic challenges and the demand for comprehensive solution
 To understand how this new model benefits both our team and our clients, read the full article [here](https://memo.d.foundation/playbook/business/pricing-model-bill-by-hours/).
 
 ![](assets/2024-whats-new-july-bill-by-hour.webp)
+

@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # bom
 
 small tools for cleaning bom from byte array or reader
@@ -20,3 +26,4 @@ $ go get github.com/ssor/bom
 	result := NewReaderWithoutBom(bytes.NewReader(bs))
 
 ```
+

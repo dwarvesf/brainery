@@ -1,9 +1,14 @@
 ---
-tags: ui, design, history
+title: null
+description: null
+date: 2022-08-05
 authors:
   - Maniub102
 github_id: Maniub102
-date: 2022-08-05
+tags:
+  - ui
+  - design
+  - history
 ---
 
 A good user interface should make it possible to complete any task quickly and with enjoyment. The user interface that you see on your MacOS or Windows PC has taken a long time to develop. This essay will briefly examine the changes in computer interface design over the last 30 years.
@@ -121,3 +126,4 @@ Apple has released a new version of its Mac OS called Snow Leopard (version 10.6
 - https://history.user-interface.io
 - https://www.betaarchive.com/forum/viewtopic.php?t=38736
 - https://medium.theuxblog.com/a-short-history-of-computer-user-interface-design-29a916e5c2f5
+

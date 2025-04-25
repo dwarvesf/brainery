@@ -1,7 +1,7 @@
 ---
 title: "#91 - CypherArts & Pod Town"
-date: 2021-09-11
 description: Open Fabric is building an open commerce network for seamless online payments, while actively hiring fullstack, frontend, mobile, and QA talents to grow their blockchain-based projects.
+date: 2021-09-11
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -27,3 +27,4 @@ These twos are the latest rookies in our blockchain-based work of Console Lab. I
 ### Salary Adjustment
 
 Just wanna confirm you all have received the adjustment note as announced. Hope you're all happy with the result & keep the good work coming 💯
+

@@ -1,7 +1,7 @@
 ---
 title: "#33 - CSR Program: Solve Social Causes using Technology Products"
-date: 2020-07-18
 description: Discover how our CSR program supports social causes by offering free website development, including a new app connecting cancer patients with helpful events.
+date: 2020-07-18
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -30,3 +30,4 @@ Our Bao Viet Insurance has been renewed lately. Van has uploaded a list of batch
 ### Performance Review
 
 Our performance review is still undergoing. For those who haven’t gotten your review yet, we’re still arranging the work and will come up with a schedule in no time. Meanwhile, ping Huy N should you have any question or just simply feel like being mean to him.
+

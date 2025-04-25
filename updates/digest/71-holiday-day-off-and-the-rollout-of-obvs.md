@@ -1,7 +1,7 @@
 ---
 title: "#71 - Holiday Day-off and the rollout of Obvs"
-date: 2021-04-17
 description: Stay updated with team progress, apprenticeship growth, Testlink QC tools, upcoming holidays, the new Obvs newsletter, Microsoft-Nuance AI healthcare acquisition, and GitHub Actions benefits.
+date: 2021-04-17
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -57,3 +57,4 @@ It's been a year since the first release of GitHub CLI. Coming back this time wi
 - Return: 22/04/2021
 - Leave: 30/04/2021 - 03/05/2021
 - Return: 04/05/2021 (Tuesday)
+

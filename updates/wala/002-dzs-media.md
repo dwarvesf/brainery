@@ -1,8 +1,8 @@
 ---
 title: "#2 Film production lessons for software engineering"
 short_title: DZS Media
-date: 2024-10-16
 description: Our visit to DZS Media revealed surprising parallels between film production and software development. Their meticulous planning, focus on getting things right the first time, and expertise-driven approach offers valuable insights for our engineering practices.
+date: 2024-10-16
 authors:
   - innnotruong
   - monotykamary
@@ -41,3 +41,4 @@ In our line of work, we hear and talk about domain knowledge all the time. WALA 
 Through stories collected from Techie WALAs, we hope our community members get the chance to learn from others' successes and failures, gain insights into what works and doesn't, and reflect on their own works and practices.
 
 Besides, breaking away from the stereotype of "tech people are introverts" is always fun.
+

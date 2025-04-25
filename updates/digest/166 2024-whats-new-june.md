@@ -1,7 +1,7 @@
 ---
 title: "What's New in June 2024"
-date: 2024-07-04
 description: In June, we expanded our knowledge base on software design, LLMs, and blockchain, while actively encouraging knowledge-sharing through increased ICY rewards. Our Vietnam Tech Scene report highlighted key industry players, and weekly OGIF talks fostered discussions on diverse tech topics like design patterns, data modalities, and blockchain architecture
+date: 2024-07-04
 authors:
   - innnotruong
   - nikkingtr
@@ -117,3 +117,4 @@ Key highlights include:
 - **Legal Support:** Favorable policies fostering innovation and growth, with improved public market governance and increased M&A activities driven by local conglomerates.
 
 ![](assets/2024-whats-new-june-tech-market.webp)
+

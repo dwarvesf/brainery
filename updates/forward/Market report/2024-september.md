@@ -1,16 +1,16 @@
 ---
 title: Market report September 2024
 short_title: September 2024
-date: 2024-10-08
 description: "In this month's market report, we've covered the hype and skepticism around OpenAI's reasoning models, the quiet rise of lightweight AI, the misuse of serverless, and the shakeup in web frameworks."
+date: 2024-10-08
 authors:
   - zlatanpham
   - monotykamary
 tags:
   - labs
   - market-report
-  - AI
-  - LLM
+  - ai
+  - llm
   - hiring
 ---
 
@@ -120,3 +120,4 @@ The key points indicate that companies will continue to be selective and conserv
 - [https://martinfowler.com/articles/legacy-modernization-gen-ai.html](https://martinfowler.com/articles/legacy-modernization-gen-ai.html)
 - [https://molily.de/something-went-wrong/](https://molily.de/something-went-wrong/)
 - [https://www.reddit.com/r/nextjs/comments/1f92jdv/chatgptcom_switched_from_nextjs_to_remix/](https://www.reddit.com/r/nextjs/comments/1f92jdv/chatgptcom_switched_from_nextjs_to_remix/)
+

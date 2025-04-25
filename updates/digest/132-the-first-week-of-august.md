@@ -1,7 +1,7 @@
 ---
 title: "#132 - The first week of August"
-date: 2022-08-06
 description: "Celebrate new team members, join lively Discord activities, get ready for Mid-Autumn Festival with mooncakes, and contribute to Brainery's first iOS note at Dwarves."
+date: 2022-08-06
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -16,3 +16,4 @@ Mid Autumn is coming closer, and so is our prep to make it more memorable. We'll
 
 First iOS note from the team
 Proud to announce that we've got the first iOS note on Brainery, thanks to the contributions of @Trung Phan. August Brainery Batch has opened, and as usual, we welcome every effort. Open a PR at <https://github.com/dwarvesf/brain> and drop your first note.
+

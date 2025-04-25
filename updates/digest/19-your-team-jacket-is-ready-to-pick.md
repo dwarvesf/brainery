@@ -1,7 +1,7 @@
 ---
 title: "#19 - Your Team Jacket is ready to pick"
-date: 2020-04-11
 description: Get the latest updates on your team jacket pickup, newbie orientation slides, chill music playlists, and an insightful interview with Backend Engineer Huy N. at Dwarves Foundation.
+date: 2020-04-11
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -94,3 +94,4 @@ Damn, this is hard. I guess if the value of the 2nd company is bigger than their
 During your time as a leader, do you have any difficulties working with teammates who are older than you?
 
 I’ll be lying if I say there is no pressure. There is. As I’m younger than them, sometimes it’s hard to give feedback and judgment. But people are very open to receiving feedback since they know that it's for good cause. Personally, I don’t care much about their age
+

@@ -1,7 +1,7 @@
 ---
 title: "#64 - Finished the first Cycle of 2021"
-date: 2021-02-27
 description: Discover key updates from the Jan/Feb changelog, including Discord’s switch from Go to Rust for better performance and new tools for personal branding.
+date: 2021-02-27
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -30,3 +30,4 @@ Discord switches from Go to Rust
 The main purpose of Discord is getting snappy and, yesh, a bit irritating all the time. To meet this expectation, it requires a quick read state. Discord receives a big volume of ReadState per user per channel to monitor and track if the user has or hasn’t read the message. This service continuously needs to update, adjust and reset. Optimizing its performance is considered as the top priority. Golang, unfortunately, failed at this due to its garbage collector and memory management model. Go’s garbage collector runs so often to find any memory that has no references. Given this, instead of freeing immediately after the memory is out of use, it simply takes more time to assess what memory is truly out of use and slow the whole thing down. Through assessment, it takes Go like 2 minutes at minimum to finish its determination per memory. A freaking large spikes.
 
 Rust, on the other hand, does not have garbage collection. Rust keeps track of who can read and write to memory. It knows when the program uses memory and immediately frees the memory once it is no longer needed. This traces back to the issue: Which programming language is better than others? The answer is what kind of problem that needs to be solved. Discord is a service that requires strong performance; Rust> Go is apparently. It’s about controlling and managing the memory to reduce redundancy. Firefox also made the same move earlier this year.
+

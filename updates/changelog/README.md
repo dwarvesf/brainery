@@ -1,9 +1,7 @@
 ---
 title: Dwarves Updates
+description: null
 date: 2024-03-12
-description:
-authors:
-tags: []
 ---
 
 We run our company like we build software.
@@ -22,3 +20,4 @@ WHERE file_path ILIKE '%changelog%'
 ORDER BY date DESC
 LIMIT 10;
 ```
+

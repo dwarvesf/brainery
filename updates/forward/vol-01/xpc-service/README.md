@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # XPC services on macOS app using Swift
 
 XPC is the newest way to implement IPC (Inter-Process-Communication) mechanism.  Before XPC we used Sockets and Mach Messages (Mach Ports).
@@ -203,3 +209,4 @@ The handler is invoked on the same queue as reply messages and other handlers, a
   This is always the last handler called on a connection object. When this block is called, the connection object has been torn down. It is not possible to send further messages on the connection at that point, whether inside the handler or elsewhere in your code.
 
 In both cases, you should use block-scoped variables to provide enough contextual information—perhaps a pending operation queue and the connection object itself—so that your handler code can do something sensible, such as retrying pending operations, tearing down the connection, displaying an error dialog, or whatever other actions make sense in your particular app.
+

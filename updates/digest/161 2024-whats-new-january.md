@@ -1,7 +1,7 @@
 ---
 title: "What's New in January 2024"
-date: 2024-02-07
 description: "In this first month of 2024, we kept tap of what's brewing in the tech market, while reviewing what we went through in 2023."
+date: 2024-02-07
 authors:
   - nikkingtr
 tags:
@@ -79,3 +79,4 @@ Thank you to all the team members, partners, alumni and community members who jo
 
 - Top contributors to our Discord server this month brought in a lot of new knowledge. Thank you, and we hope you enjoy your $ICY rewards.
 - Some members asked if we will have any training courses soon. While we don't yet have the answer, as we're still planing for 2024, you can join us on Discord so you'll get notified when we do!
+

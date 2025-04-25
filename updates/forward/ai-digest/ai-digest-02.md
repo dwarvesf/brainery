@@ -1,16 +1,16 @@
 ---
+title: "AI digest #2 New command Aider, OpenHands, Qwen2.5 Coder 32B, Predicted Output"
+description: Stay updated on the latest in AI tools for developers with this week’s digest, new command Aider, OpenHands, Qwen2.5 Coder 32B
+date: 2024-11-15
 authors:
   - datnguyennnx
-date: 2024-11-15
-description: "Stay updated on the latest in AI tools for developers with this week’s digest, new command Aider, OpenHands, Qwen2.5 Coder 32B"
 tags:
   - llm
   - tooling
   - aider
-  - qwen2.5
+  - qwen25
   - openhand
-  - predicted output
-title: "AI digest #2 New command Aider, OpenHands, Qwen2.5 Coder 32B, Predicted Output"
+  - predicted-output
 ---
 
 ## Aider v0.63.0 release
@@ -124,3 +124,4 @@ Using predictions helps accelerate similar tasks, particularly when refactoring 
 - <https://qwenlm.github.io/blog/qwen2.5-coder-family/>
 - <https://www.all-hands.dev/blog/announcing-all-hands-online-beta>
 - <https://platform.openai.com/docs/guides/predicted-outputs>
+

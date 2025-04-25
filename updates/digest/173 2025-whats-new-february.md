@@ -1,7 +1,7 @@
 ---
 title: "What's New in February 2025"
-date: 2025-03-04
 description: "Each month, we roll out a recap of our team and community's strides forward. February's recap covers the hybrid mode shift, ICY-to-BTC swap testing, updated use cases with AI and trading solutions, skip-level meetings, and the New Year gathering kickoff."
+date: 2025-03-04
 authors:
   - innnotruong
 tags:
@@ -112,3 +112,4 @@ We kicked off the Year of the Snake with our team reunion, creating space to sha
 [Check out Weekly Digest #15](https://memo.d.foundation/updates/digest/15-new-year-gathering/) for photos and highlights from our New Year gathering.
 
 ![](assets/2025-whats-new-feb-tet-gathering.png)
+

@@ -1,7 +1,7 @@
 ---
 title: "Product Design Commentary #4: Generative AI UX design patterns"
+description: This fourth edition looks at how Generative AI fits into digital systems. We examine the connections between AI and other parts of a system, focusing on scope, space, and function. Learn how these connections affect the way we design AI features and make them easy to use. Get practical tips on adding AI to your products in ways that make sense for users.
 date: 2024-10-22
-description: "This fourth edition looks at how Generative AI fits into digital systems. We examine the connections between AI and other parts of a system, focusing on scope, space, and function. Learn how these connections affect the way we design AI features and make them easy to use. Get practical tips on adding AI to your products in ways that make sense for users."
 authors:
   - Maniub102
 tags:
@@ -90,3 +90,4 @@ These functional dynamics define how deeply integrated AI is with system feature
 The evolution of Generative AI within digital systems hinges on its **scope**, **spatial**, and **functional relationships**. Designers and developers must pay close attention to how these relationships manifest within their products to ensure that AI serves to enhance the user experience rather than disrupt it. By understanding how Generative AI fits into these relationships, we can design more intuitive, helpful, and powerful AI-driven experiences that feel natural and effortless for the user.
 
 Generative AI is a transformative tool, and its success relies on how well it integrates into the systems and experiences we create. As AI technology evolves, designers must constantly rethink these relationships to maintain an optimal balance between functionality and usability.
+

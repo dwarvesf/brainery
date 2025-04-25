@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Asteroids
 
 This is a WebAssembly port of an [Asteroids game written in C](https://github.com/flightcrank/asteroids)
@@ -31,3 +37,4 @@ emcc \
 3. Browse the app .  
    Visit your own `http://localhost:{$port}/app.html` .  
    Or if you use `npx` server, visit `http://127.0.0.1:8080/app.html`
+

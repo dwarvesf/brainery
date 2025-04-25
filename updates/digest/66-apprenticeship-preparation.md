@@ -1,7 +1,7 @@
 ---
 title: "#66 - Apprenticeship Preparation"
-date: 2021-03-13
 description: Discover our apprenticeship program for engineers, health check reminders, insights on software engineering, Discord updates, GitHub CLI tips, and simple writing advice in this weekly update.
+date: 2021-03-13
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -50,3 +50,4 @@ Online recipe in Git
 <https://based.cooking/>
 
 Nothing tech-related I just feel mắc cười when a recipe site is created simply without any ads with a Github. May you find some easy cooking guide in this open-source repo
+

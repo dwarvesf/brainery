@@ -1,7 +1,7 @@
 ---
 title: Build your knowledge base
-date: 2024-10-25
 description: In an age where Large Language Models like ChatGPT offer instant access to a universe of information, it raises the question, does our own personal knowledge base still hold any value, and is building a personal knowledge base still a legitimate thing to do?
+date: 2024-10-25
 authors:
   - tieubao
   - nikkingtr
@@ -34,3 +34,4 @@ In a sea of AI-generated content, what stands out? The human touch. Your voice, 
 In a world overflowing with information, it's not just about having it all at your fingertips. It's about owning it, shaping it, and letting it reflect who you are. That's the power of a personal knowledge base.
 
 In this AI-driven era, maintaining your own knowledge base isn't just smart, it's a game-changer for your growth and success.
+

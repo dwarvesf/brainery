@@ -1,7 +1,7 @@
 ---
 title: "#59 - The Dwarves turns 6"
-date: 2021-01-16
 description: "Celebrate the Dwarves' 6th anniversary, explore new open-source contributions, tech research updates, upcoming performance reviews, and the latest WhatsApp privacy controversy."
+date: 2021-01-16
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -34,3 +34,4 @@ WhatsApp updated new ToS: Your data will be shared on Facebook platform
 This derives an outrageous wave for current users, including Elon Musk. Tesla’s founder tweeted on this, a simple expression but yet, solid enough for FB to fall off the top 10 of Appstore. Signal are welcoming a massive user volume which eventually led this server’s status to interrupted. We all heard that WhatsApp will take a look on its ToS, but who knows what happen after too many “We still have more things to do”.
 
 Musk has been openly critical of Facebook for years. The battle between Tesla and Facebook, once again gets another reason to kick off.
+

@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Daemons and Services Programming Guide
 
 # macos
@@ -81,3 +87,4 @@ If you want to see the daemons currently running on your system, use the Activit
 _Note:_ If you want to know more about the services provided by a particular daemon, consult the man page for that daemon. You can also view the manual pages online by reading OS X Man Pages.
 
 ![activity monitor](assets/actimonitor.png)
+

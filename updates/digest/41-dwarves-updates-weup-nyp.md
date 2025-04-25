@@ -1,7 +1,7 @@
 ---
 title: "#41 - Dwarves Updates: WeUp & NYP"
-date: 2020-09-12
 description: Discover how Dwarves Foundation enhances internships, partnership opportunities, project management, and workflow optimization to deliver outstanding client and team experiences.
+date: 2020-09-12
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -24,3 +24,4 @@ One of our goals this cycle is to upgrade the current workflow and create a bett
 ### Memo: Go the extra mile
 
 A small post on our aspect for work. Going the extra mile can be seen as a standard to distinguish the good and the outstanding. Having the spirit of going extra at work means you don’t settle for average, but aiming to deliver beyond the expectation.
+

@@ -1,14 +1,14 @@
 ---
+title: Database hardening for a trading platform
+description: Discover how a trading platform mitigated database access risks, enhanced security, and ensured data integrity through role-based access control, network isolation, MFA, and robust logging. Learn about the strategies and tools, like Teleport, that transformed operational efficiency and reinforced client trust.
+date: 2025-01-02
 authors:
   - zlatanpham
-date: "2025-01-02"
-description: "Discover how a trading platform mitigated database access risks, enhanced security, and ensured data integrity through role-based access control, network isolation, MFA, and robust logging. Learn about the strategies and tools, like Teleport, that transformed operational efficiency and reinforced client trust."
 tags:
   - blockchain
   - fintech
   - database
   - security
-title: "Database hardening for a trading platform"
 ---
 
 ## Introduction
@@ -213,3 +213,4 @@ The implementation delivered measurable benefits:
 ## Conclusion
 
 This case study highlights how robust access control measures can transform database security in a trading platform. By layering tools like Teleport, enforcing RBAC, and integrating detailed observability, we not only mitigated immediate risks but also established a secure foundation for future growth. These measures underscore the importance of proactive security in maintaining operational resilience and client trust.
+

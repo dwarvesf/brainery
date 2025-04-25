@@ -1,7 +1,7 @@
 ---
 title: "#37 - Handbook update: Routine/ A typical week with us"
-date: 2020-08-15
 description: Learn about our team’s typical weekly routine and explore our Covid Support program offering affordable tech services to help SMEs and startups thrive remotely.
+date: 2020-08-15
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -16,3 +16,4 @@ Covid Campaign is a program we started a few weeks ago with an aim to deliver th
 We’ve been starting to reach out for most of our connection, and thanks to Huy G & Anh T, a whole new website for further detail.
 
 ![](assets/notion-image-1744007007907-yem7o.webp)
+

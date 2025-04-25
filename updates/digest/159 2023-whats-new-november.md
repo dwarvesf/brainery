@@ -1,7 +1,7 @@
 ---
 title: "What's New in November 2023"
-date: 2023-12-06
 description: Each month, we release a recap noting all the significant changes in our company and our team. November is our month for meetups and outstanding craftsmanship.
+date: 2023-12-06
 authors:
   - nikkingtr
 tags:
@@ -57,3 +57,4 @@ We are looking for the following talents to join our team
 - Admin / Ops (Fulltime)
 
 Email us at <spawn@d.foundation> or ping @nikki on Discord for JDs / to refer someone you know. TIA!
+

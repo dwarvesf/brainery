@@ -1,7 +1,7 @@
 ---
 title: "#105 - Ready to Close 2021?"
-date: 2021-12-25
 description: "Join our December All-hands meeting to review this year's changes, vote for DOTY, and catch the Team Showcase highlights on YouTube."
+date: 2021-12-25
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -13,3 +13,4 @@ DOTY is still opening for those last votes. We currently have 38 voting so far. 
 
 This afternoon Team Showcase was recorded in case you missed it. 2 last topics will be continued in the next Tuesday ✌️
 Check out this youtube record brought to us by @bien - <https://www.youtube.com/watch?v=pbMUBcuOBxs>
+

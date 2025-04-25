@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # go-runewidth
 
 [![Build Status](https://travis-ci.org/mattn/go-runewidth.png?branch=master)](https://travis-ci.org/mattn/go-runewidth)
@@ -20,3 +26,4 @@ Yasuhiro Matsumoto
 ## License
 
 under the MIT License: http://mattn.mit-license.org/2013
+

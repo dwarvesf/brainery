@@ -1,7 +1,7 @@
 ---
 title: January All-hands Meeting
-date: 2022-01-24
 description: Discover the latest team updates on performance reviews, blockchain projects, profit-sharing, flight ticket policies, and upcoming team events for 2022.
+date: 2022-01-24
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -65,3 +65,4 @@ A small gift to thank you for being with us for the past year. May we all enter 
 Happy the year of Tiger. Let’s rock 2022 together
 
 ![](assets/notion-image-1744006929168-5ocaz.webp)
+

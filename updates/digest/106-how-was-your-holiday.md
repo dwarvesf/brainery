@@ -1,7 +1,7 @@
 ---
 title: "#106 - How was your holiday?"
-date: 2021-12-31
 description: Join our January 7 All-hands meeting to celebrate 2021 achievements, announce DOTY winners, and welcome new members to our growing tech community.
+date: 2021-12-31
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -13,3 +13,4 @@ DOTY form has officially closed, and prize items are being prepared. Both the pr
 Besides the prize list for winners, I’ve also got a prize combo for all of the Dwarves. You guys really rocked 2021, and I wanna thank that.
 
 The introduction channel got active lately. More friends have started to visit our server - thanks to your amazing weekly tech showcases! If you see a new guy slides into - let’s give them a short welcome. We’d be happy to expand this server with like-minded people :iuiu:
+

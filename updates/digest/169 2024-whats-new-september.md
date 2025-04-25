@@ -1,7 +1,7 @@
 ---
 title: "What's New in September 2024"
-date: 2024-10-01
 description: "Each month, we roll out a recap of our team and community's strides forward. September's updates spotlight the AI Club launch, rewards for our sharing culture, hybrid work check-ins, reporting tech trends in forward engineering, and our Mid-Autumn celebration."
+date: 2024-10-01
 authors:
   - innnotruong
 tags:
@@ -84,3 +84,4 @@ AI isn't a fad, 72% of YC's latest batch says it all
 We had ourselves a proper little mooncake moment for the Mid-Autumn Festival. Nothing fancy, just a chance to pause, share a bit of tradition, and enjoy a sweet break together. Whether in the office or dialing in from afar, it was a reminder that it's the little things that keep us connected.
 
 ![](assets/2024-whats-new-sep-mooncake.jpg)
+

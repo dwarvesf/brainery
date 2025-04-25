@@ -1,7 +1,7 @@
 ---
 title: "#123 - Memo featured Radio Talk"
-date: 2022-06-06
 description: Stay updated with upcoming DevOps, blockchain, and software testing workshops, plus weekly tech talks on React 18 and Remix vs Next.js at Dwarves.
+date: 2022-06-06
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -32,3 +32,4 @@ The first few transcripts of Radio Talk - our weekly tech-sharing, have just bee
 This week, we’re having the last Apprentices @Nguyen Hieu Nghia onboard with us. As to express our welcome to newcomers, a welcome kit had been shipped to you on Team Dinner last Friday. Who haven’t got it? Don’t worry, @thuongptt will send it to your bed.
 
 We’ve had May All-hands meeting last Friday. We’ve upload a detailed sum up in here in case you missed it: <https://bit.ly/3xfOeaC>
+

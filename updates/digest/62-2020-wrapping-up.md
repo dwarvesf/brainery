@@ -1,7 +1,7 @@
 ---
 title: "#62 - 2020 Wrapping Up"
-date: 2021-02-06
 description: Review 2020 highlights, Lunar New Year gifts, an AMA with Duc Nghiem, WeUp product demo, and Jeff Bezos stepping down as Amazon CEO.
+date: 2021-02-06
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -32,3 +32,4 @@ Since it is almost the G-day for WeUp team to deliver the product, last Friday 
 Jeff Bezos will step down as CEO of Amazon
 
 Earlier this week, In the email to Amazon's employees, Jeff Bezos announce the transition to his new role and will leave the CEO position for Andy Jassy - the current CEO of Amazon Web Service He said in the note that "being the CEO of Amazon is a deep responsibility, and it's consuming." And he'd love to have more time for some of his others passionate like the Day 1 Fund, the Bezos Earth Fund, Blue Origin, The Washington Post.
+

@@ -1,8 +1,8 @@
 ---
 title: "#3 Digital transformation insights from the energy sector"
 short_title: SP Group
-date: 2024-06-05
 description: Our visit to SP Group offered valuable perspectives on enterprise digital transformation challenges. We learned that successful transformation depends more on people and organizational culture than technology, while strong partnerships require treating external teams as part of your own.
+date: 2024-06-05
 authors:
   - nikkingtr
   - innnotruong
@@ -43,3 +43,4 @@ In our line of work, we hear and talk about domain knowledge all the time. WALA 
 Through stories collected from Techie WALAs, we hope our community members get the chance to learn from others' successes and failures, gain insights into what works and doesn't, and reflect on their own works and practices.
 
 Besides, breaking away from the stereotype of "tech people are introverts" is always fun.
+

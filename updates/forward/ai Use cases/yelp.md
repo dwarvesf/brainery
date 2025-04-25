@@ -1,13 +1,13 @@
 ---
+title: Yelp use cases
+description: Yelp already had a machine learning platform before the big push for large language models (LLMs). Now, they’re using LLMs to level up their search and recommendation systems, making it easier for moderators and businesses to track down users. Let’s dive into how Yelp is making it work.
+date: 2024-10-18
 authors:
   - datnguyennnx
-date: 2024-10-18
-description: Yelp already had a machine learning platform before the big push for large language models (LLMs). Now, they’re using LLMs to level up their search and recommendation systems, making it easier for moderators and businesses to track down users. Let’s dive into how Yelp is making it work.
 tags:
   - llm
   - yelp
-  - use cases
-title: Yelp use cases
+  - use-cases
 ---
 
 Yelp Inc. is a platform that helps users discover local businesses through reviews, ratings, and recommendations. Recently, they've integrated AI and large language models (LLMs) to improve content moderation, search capabilities, and user interactions with features like Yelp Assistant.
@@ -89,3 +89,4 @@ In terms of user experience, Yelp's integration of AI and large language models 
 - https://engineeringblog.yelp.com/2018/05/scaling-collaborative-filtering-with-pyspark.html
 - https://engineeringblog.yelp.com/2024/03/ai-pipeline-inappropriate-language-detection.html
 - https://www.yelp-press.com/press-releases/press-release-details/2023/Yelp-Introduces-New-Ways-to-Discover-and-Connect-with-Local-Businesses-and-Contribute-Helpful-Content/default.aspx
+

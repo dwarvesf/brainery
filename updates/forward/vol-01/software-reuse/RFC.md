@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Software Reuse
 
 | Status        | Assess                        |
@@ -27,3 +33,4 @@ This is regarded as an overview of **Software reuse**, after reading, you will:
 
 - Get a generalized look about **Software reuse**, it is not only concept, benefits but also the problems when applying this strategy.
 - Know a few approaches of **Software reuse** such as **Framework**, **Product line** and their role in software development.
+

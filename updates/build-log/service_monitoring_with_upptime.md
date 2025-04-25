@@ -1,7 +1,7 @@
 ---
-title: "Secure and transparent uptime monitoring with Upptime and GitHub secrets"
-date: 2025-03-31
+title: Secure and transparent uptime monitoring with Upptime and GitHub secrets
 description: Discover how Dwarves Foundation uses Upptime and GitHub Actions for transparent public uptime monitoring while securely keeping tabs on internal services.
+date: 2025-03-31
 authors:
   - lmquang
 tags:
@@ -90,3 +90,4 @@ Upon visiting `status.d.foundation`, your browser retrieves the static website c
 Crucially, the status page _only_ displays information about the services configured with public URLs in `.upptimerc.yml`. The sensitive endpoints, while monitored constantly by the `uptime.yml` workflow using secrets, are never exposed on the public status page or in the repository's version history.
 
 This setup gives us the best of both worlds: transparent, real-time status updates for our public-facing services, and secure, automated monitoring for our internal infrastructure, all managed through a simple, code-based system.
+

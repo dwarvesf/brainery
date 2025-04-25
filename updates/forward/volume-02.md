@@ -1,8 +1,8 @@
 ---
 title: Dwarves Tech Radar Volume 02
 short_title: Tech Radar Volume 02
-date: 2021-01-14
 description: Dwarves Tech Radar v2 contains the practices to simplify the workflow, new techniques/ approach methods to upgrade our current standards and expand the domain knowledge.
+date: 2021-01-14
 authors:
   - duynglam
 tags:
@@ -55,3 +55,4 @@ One of our engineers started to work on Volta - a hassle-free approach to manage
 We tried out CState as our monitoring service, but CState requires low level setup at infrastructure level and therefore not suitable for our bootstrapping kit. Upptime, on the other hand, only requires a simple Github repository and a config file to get it started. We gave Upptime a twist, and rolled out our version at [stt.daf.ug](http://stt.daf.ug/).
 
 ![](assets/dwarves-tech-radar-volume-02_3b5bb41a5a96a78fadb9fef60f1d0c24_md5.webp)
+

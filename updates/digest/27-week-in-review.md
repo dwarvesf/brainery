@@ -1,7 +1,7 @@
 ---
 title: "#27 - Week in Review"
-date: 2020-06-06
 description: Discover how Dwarves team expands with new QA and Design members, embraces transparency and feedback culture, and shares tech stories while advancing projects like sudo.fm.
+date: 2020-06-06
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -61,3 +61,4 @@ We still need to be more active on the page & groups. There will be a detailed p
 sudo.fm
 
 Phuc has begun to create UI based on the finished design from Anh, while Thanh was auditing the source and optimize bundle size. The expect output is sudo.fm should be able to load the music through youtube iframe, contains full media control function (play, pause, forward, backward, shuffle) with hotkey for Media control and integrate with CMS API.
+

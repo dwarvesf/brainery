@@ -1,7 +1,7 @@
 ---
 title: "What's New in March 2024"
-date: 2024-04-03
 description: "In this March, we're eyeing on what's brewing in the tech market, ICY updates in 2024, the first offline meetup and product demo."
+date: 2024-04-03
 authors:
   - innnotruong
 tags:
@@ -59,3 +59,4 @@ The next initiative in our monthly call will have a broader range of topics to d
 **Coming up:**
 
 - Mark your calendars for our first offline meetup in Ho Chi Minh City (TBA).
+

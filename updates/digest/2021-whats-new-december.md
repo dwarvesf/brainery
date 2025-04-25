@@ -1,7 +1,7 @@
 ---
 title: "What's New in December 2021"
-date: 2022-01-06
 description: Each month, we release a recap noting all the significant changes with our company and our team. December 2022 will go over our growth in blockchain, team members, upgrade on the benefits packages.
+date: 2022-01-06
 authors:
   - duynglam
 tags:
@@ -48,3 +48,4 @@ Here's to rock 2022!
 ![doty](assets/2021-whats-new-december_2021-doty.webp)
 
 ![merch](assets/2021-whats-new-december_fd61221cb31785842fecd3ff2339aab6_md5.webp)
+

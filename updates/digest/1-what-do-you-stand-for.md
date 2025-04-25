@@ -1,10 +1,10 @@
 ---
 title: "Weekly Digest #1: What do you stand for?"
-date: 2024-04-09
+short_title: "#1 What do you stand for?"
 description: Our Discord crew is buzzing with energy after our last Friday community call, with folks sharing snapshots of their workspaces, Anna shared the movie quote and catch-up with peeps at lobby, random channels.
+date: 2024-04-09
 authors:
   - innnotruong
-short_title: "#1 What do you stand for?"
 tags:
   - weekly-digest
   - remote
@@ -45,3 +45,4 @@ Has anyone heard from @bien lately? Hope he's doing alright. And @vincent, did y
 Let's keep the conversation going and the good times rolling. See you around next week for a catch-up.
 
 ![random](assets/1-what-do-you-stand-for_2024-weekly-digest-april-8_2024-weekly-digest-april_2024-first-digest-random.webp)
+

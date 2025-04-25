@@ -1,7 +1,7 @@
 ---
 title: "#143 - Halfway Through December"
-date: 2022-12-17
 description: Join our December updates featuring a company trip, coding security event, $ICY launch, team highlights, and plans for an exciting year-end party.
+date: 2022-12-17
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -33,3 +33,4 @@ Are you ready for the Year-end party? The ops team is working on everything behi
 That's all for the week. Christmas is coming to town, take care and see y'all next week with more interesting things.＼ (￣ ▽ ￣) ／.
 
 ![](assets/notion-image-1744007347661-bz9tb.webp)
+

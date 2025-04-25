@@ -1,22 +1,18 @@
 ---
 title: Create slides with Overleaf and ChatGPT
-date: 2025-03-20T00:00:00.000Z
+description: This article shares a workflow for making slide decks with Overleaf and ChatGPT. It solves issues like slow content creation using ChatGPT and formats with Overleaf’s themes. It includes examples, tips, and a Dify automation for engineers.
+date: 2025-03-20
+authors:
+  - baenv
+  - tieubao
+minted_at: 2025-03-27
+perma_storage_id: 4GVkldu9UdEN5Yaguw79Z5-nBykrQ-YkeGizSV4_rz0
+should_deploy_perma_storage: true
+token_id: 1
 tags:
   - overleaf
   - llm
   - slide
-description: >-
-  This article shares a workflow for making slide decks with Overleaf and
-  ChatGPT. It solves issues like slow content creation using ChatGPT and formats
-  with Overleaf’s themes. It includes examples, tips, and a Dify automation for
-  engineers.
-authors:
-  - baenv
-  - tieubao
-should_deploy_perma_storage: true
-perma_storage_id: 4GVkldu9UdEN5Yaguw79Z5-nBykrQ-YkeGizSV4_rz0
-minted_at: "2025-03-27"
-token_id: "1"
 ---
 
 ## My workflow with Overleaf and ChatGPT
@@ -88,3 +84,4 @@ To help you get the most out of this, I’ve added a few things. You’ll see re
 #### Wrapping it up
 
 That’s my story. It’s how I turned slide-making from a hassle into something simple with Overleaf and ChatGPT. It’s not complicated, just a practical fix that gets the job done. Next time you’ve got a presentation coming up, maybe about data patterns or your own project, try this out. It’s helped me more than once, and I think it could help you too. What do you think? Give it a go, adjust it to fit you, and tell me how it works. See you at the next meeting. Your slides will be done, and the stress won’t be there.
+

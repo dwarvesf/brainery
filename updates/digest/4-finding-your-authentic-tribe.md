@@ -1,10 +1,10 @@
 ---
 title: "Weekly Digest #4: Finding your authentic tribe"
-date: 2024-05-06
+short_title: "#4 Finding your authentic tribe"
 description: "Welcome back to the #4 weekly digest after a long holiday. Those Discord channels are still buzzing with active messages. Without further ado, let’s see what I’ve got to share."
+date: 2024-05-06
 authors:
   - innnotruong
-short_title: "#4 Finding your authentic tribe"
 tags:
   - weekly-digest
   - discord
@@ -55,3 +55,4 @@ And hey, taking a look back at those epic moments like cheering on @nam for his 
 Thank you for being such a great team player @thangnt @lapnn. I hope you have a super day and get everything you want. Here's to an epic birthday bash – enjoy every moment, you deserve it.
 
 ![](assets/4-finding-your-authentic-tribe-copy_4-finding-your-authentic-tribe-birthday.webp)
+

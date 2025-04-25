@@ -1,7 +1,7 @@
 ---
 title: "#124 - Compliance Training "
-date: 2022-06-10
 description: Join our Software Modeling training on June 14 to learn from university lecturers and explore blockchain topics like React 18 Useeffect and Solana tokens.
+date: 2022-06-10
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -21,3 +21,4 @@ As in our May All Hands Meeting, the team is moving along with blockchain, this 
 Don’t know how to? Don’t worry @thuongptt will publish a guideline next week. Stay tuned, @peeps
 
 In last Thursday, we have @k2 with his sharing about the concept of Soulbound: what it is for, how it works and its future possibilities. Be prepared, @peeps cause you will soon get to experiment with it through some internal projects.
+

@@ -1,7 +1,7 @@
 ---
 title: "What's New in July 2021"
-date: 2021-07-31
 description: Each month, we release a recap noting all the significant changes with our company and our team. July 2021 we will move toward blockchain industry and prepare for performance review in August.
+date: 2021-07-31
 authors:
   - duynglam
 tags:
@@ -88,3 +88,4 @@ Thanks Vy and Hoang for the referral. Thanks everyone else for sharing the post.
 ### Shaping our image
 
 Hey, it's time to update your LinkedIn, Github or Facebook profile. It makes us look cool as a team.
+

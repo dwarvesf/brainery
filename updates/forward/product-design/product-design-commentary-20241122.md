@@ -1,7 +1,7 @@
 ---
 title: "Product Design Commentary #7: Hyper-personalization - How AI improves user experience personalization"
+description: "Hyper-personalization represents the future of product development, delivering personalized experiences that adapt to each user's needs. In this model, everyone will have their own version of the internet, shaped by AI interfaces that understand their preferences, goals, and personal context."
 date: 2024-11-28
-description: Hyper-personalization represents the future of product development, delivering personalized experiences that adapt to each user's needs. In this model, everyone will have their own version of the internet, shaped by AI interfaces that understand their preferences, goals, and personal context.
 authors:
   - bringastar
 tags:
@@ -101,3 +101,4 @@ While personalization paints a perfect picture, it's not without problems. Users
 
 - An article on UX Design discussing how [generative AI](https://uxdesign.cc/transforming-ux-with-generative-ai-7b06ea329286) is transforming user experience
 - A technical deep dive on LinkedIn about [building AI models](https://www.linkedin.com/pulse/building-ai-models-hyper-personalization-technical-deep-deepak-gupta-tohuc/) for hyper-personalization
+

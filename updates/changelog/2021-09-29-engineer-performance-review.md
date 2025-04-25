@@ -1,7 +1,7 @@
 ---
 title: Engineer Performance Review
+description: "Here's another update from Dwarves for you. Throughout September, we have completed our bi-annual performance review."
 date: 2021-09-29
-description: Here's another update from Dwarves for you. Throughout September, we have completed our bi-annual performance review.
 authors:
   - tieubao
   - nikkingtr
@@ -46,3 +46,4 @@ That's it for now. Thank you for reading through.
 Til next time,
 
 Han & the Dwarves.
+

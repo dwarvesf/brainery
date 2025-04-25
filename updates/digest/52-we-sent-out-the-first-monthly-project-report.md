@@ -1,7 +1,7 @@
 ---
 title: "#52 - We sent out the first Monthly Project Report"
-date: 2020-11-28
 description: Stay updated on our smooth project progress, new memo rules, upcoming WeBuild Day event, year-end party plans, and the latest PHP v8 release news.
+date: 2020-11-28
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -51,3 +51,4 @@ Not exactly news, but these are worth to check out.
 - API is a user interface
 - Parse, don’t type check
 - How to think for yourself?
+

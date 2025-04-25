@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 ## What is Preact
 
 A JS library developed on React structure, with the same API, component and virtual DOM integration. Thanks to the light bundle size (3kb), the Preact-based website is faster in rendering and boosting the user experience. The next level for React alternative and the smallest library in size so far.
@@ -54,3 +60,4 @@ A significant advantage of switching to Preact from React is the smaller bundle 
 - Artzy
 - Aharooms
 - WeGo Coffee
+

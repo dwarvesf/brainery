@@ -1,7 +1,7 @@
 ---
 title: "#75 - Project Updates"
-date: 2021-05-15
 description: Stay updated on community projects, Covid work-from-home tips, VssID social insurance app, Google Docs canvas rendering, and Notion’s new public API rollout.
+date: 2021-05-15
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -34,3 +34,4 @@ In terms of prediction, there could be two reasons behind this
 Notion rolled out their public API
 
 Notion’s latest rolled out API in beta to better support the development and database management. Formatting things in Notion have been bringing a smooth reading and writing experience, and I believe we all can benefit from it once Notion has allowed us to sync their system with other services. Their detailed changelog can be found here. Hope you find some of them useful
+

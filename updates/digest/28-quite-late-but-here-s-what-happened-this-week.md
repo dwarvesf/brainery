@@ -1,7 +1,7 @@
 ---
 title: "#28 - Quite late, but here’s what happened this week"
-date: 2020-06-13
 description: Join Memo’s writing team to share your voice, learn about our new US healthcare project, and meet five new interns joining us this July.
+date: 2020-06-13
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -18,3 +18,4 @@ We closed a deal with a key client this week and Nam N is going to start 1-week 
 ### BK Internship Wrap-up
 
 Van has help wrapped up the Internship recruiting with Bach Khoa University. That leaves us with 5 soon-to-be Dwarves joining us this July.
+

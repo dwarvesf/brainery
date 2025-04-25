@@ -1,7 +1,7 @@
 ---
 title: "#127 - Closing June"
-date: 2022-07-01
 description: Join Dwarves Discord to vote on favorite articles for rewards, submit your June self-review, and explore new Brainery topics in blockchain and engineering.
+date: 2022-07-01
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -38,3 +38,4 @@ Another All Hands Meeting just ended - team's monthly catch-up and planning sess
 Get tired of collecting breaking news? Dwarves News is exclusive for y’all. Publishing every Friday with sum up of the most major stories, click the following button at <https://www.linkedin.com/company/dwarvesf> to get notified.
 
 Dwarves social is getting quite a lot of attention on social media. It’s all thanks to your consistent support, kudos to @haongo1, @hnh, @huytq, @nhuthm, @phucld.
+

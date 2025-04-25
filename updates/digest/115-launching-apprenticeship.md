@@ -1,7 +1,7 @@
 ---
 title: "#115 - Launching Apprenticeship"
-date: 2022-03-26
 description: Join the Dwarves Apprenticeship Program and Career Fair with coding challenges, mock interviews, and learn about serverless architecture from expert presentations.
+date: 2022-03-26
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -22,3 +22,4 @@ For anyone who missed the session, you can check it out in our Youtube channel b
 <https://www.youtube.com/channel/UC_SyzGLf6wiqctQFsRI_frw>
 
 And lastly, let's once again give a warm welcome to @Dat Doan as BE engineer and @binhlvt as QC Automation engineer - glad to have your guys on the Dwarves team.
+

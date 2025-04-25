@@ -1,7 +1,7 @@
 ---
 title: "#14 - This Week's Highlight? Happy Women's Day"
-date: 2020-03-07
 description: "Celebrate Women's Day and discover Basecamp's new team interactions, Bao Viet insurance updates, and welcome our latest hires boosting quality and frontend engineering."
+date: 2020-03-07
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -40,3 +40,4 @@ Last Monday, we were delighted to welcome some new Dwarves to join the team!
 - Lap Ngo: Frontend engineer
 - Giang Tran: Frontend engineer
   It's good to have you guys on board! Thanks for helping scaling up the crew and may we share many great moments together! 💪
+

@@ -1,7 +1,7 @@
 ---
 title: "#107 - Lunar New Year Holiday Schedule"
-date: 2022-01-08
 description: "Review our 2021 achievements, learn about our Lunar New Year holiday schedule, and catch the Software Modeling study group's design system presentation for a streaming startup."
+date: 2022-01-08
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -18,3 +18,4 @@ Just got our client informed on our Lunar New Year Holiday schedule. For the day
 Another highlight of Monday, on behalf of the Software Modeling study group, Tom has given a short presentation for Design system for a video streaming platform startup.
 
 For anyone who missed the session, here’s the full slide: shorturl.at/sACVX
+

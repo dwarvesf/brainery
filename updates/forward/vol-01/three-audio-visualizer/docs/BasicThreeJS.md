@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # `three.js` Basic Concepts
 
 ## Introduction
@@ -121,3 +127,4 @@ I was going to include shader, but that's honestly out of my league right now. I
 
 - https://threejs.org/docs/
 - https://humaan.com/blog/web-3d-graphics-using-three-js/
+

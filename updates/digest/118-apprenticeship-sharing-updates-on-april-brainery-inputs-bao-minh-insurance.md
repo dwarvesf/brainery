@@ -1,7 +1,7 @@
 ---
 title: "#118 - Apprenticeship Sharing & Updates on April Brainery Inputs & Bao Minh Insurance"
-date: 2022-04-18
 description: Apply now for Apprenticeship 2022 before the deadline and explore new learning resources, insurance updates, and team news at d.foundation.
+date: 2022-04-18
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -28,3 +28,4 @@ If you’re happen to be on traveling mode, swing by Danang office. It’s been 
 Starting last week, @Hao & @Abbey have joined the next journey of Pod Town and team Dwarves - welcome onboard!
 
 ![](assets/notion-image-1744007378309-h90vc.webp)
+

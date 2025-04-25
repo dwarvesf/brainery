@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Topic Submission Template
 
 As you are able to submit your own topic, we know you already have things in mind. However, the team know nothing about it.
@@ -69,3 +75,4 @@ There are many applications has been compiled to run in the browers. I would lik
 #### 7. Ring
 
 (Optional) Hold
+

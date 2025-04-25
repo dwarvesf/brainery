@@ -1,7 +1,7 @@
 ---
 title: Dwarves Of The Year 2022
-date: 2023-01-19
 description: "It's been a long journey, but we've finally made it to 2022 and what a year it's been for our team of Dwarves. Countless hours of hard work and it's all paid off with our big wins of the year. Honored for all and huge congratulations for our Dwarves of 2022."
+date: 2023-01-19
 authors:
   - innnotruong
   - nikkingtr
@@ -31,3 +31,4 @@ A total of **~$18,000 awarded and rewarded by** [$ICY - Dwarves official token](
 The best part is a true testament to the power of teamwork. We want nothing more than to ship products we're proud of and to become a company that offers its employees a great life.
 
 As we step ahead to 2023, we're excited for what the future holds. Take on new challenges and continue to push the boundaries to achieve even greater success.
+

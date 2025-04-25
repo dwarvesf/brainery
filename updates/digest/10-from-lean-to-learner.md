@@ -1,10 +1,10 @@
 ---
 title: "Weekly Digest #10: From lean to learner"
-date: 2024-06-16
+short_title: "#10 From lean to learner"
 description: "Double digits, I can't believe we've reached our 10th digest! It's been quite a journey putting together each edition and a blast creating these for you. When we talk about memo, we're highlighting an essential part of our learning culture. We’ve just noted a few updates for the cycle ahead. Now, let's dive into this round-up."
+date: 2024-06-16
 authors:
   - innnotruong
-short_title: "#10 From lean to learner"
 tags:
   - weekly-digest
   - memo
@@ -75,3 +75,4 @@ So, grab your favorite snacks, rally your friends, and join us for the most thri
 Lastly, HUGE thanks to our members who have shared a lot of interesting technical stuff. You rock!
 
 Please keep sharing how we can make your days on the internet even better, including the small stuff, too small to see.
+

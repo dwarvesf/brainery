@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # **SwiftUI**
 
 ---
@@ -945,3 +951,4 @@ See the padding here? No? But look at the picture!
 ## **Thank you!**
 
 ### @phucledien
+

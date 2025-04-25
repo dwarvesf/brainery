@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Audio Analysing Concepts
 
 We'll be using WebAudio API for analysing audio.
@@ -56,3 +62,4 @@ Imagine we are calculating amplitude in the frequency domain from 0 -> 10000Hz. 
 a step of `10000Hz / 10 = 1000Hz`, meaning: `0, 1000Hz, 2000Hz, 3000Hz, ...`
 
 Using the returned result, we can visualize the amplitude of the sound over a Frequency Domain. Once again please take a look at how it works [here](https://three-audio-visualizer.herokuapp.com/).
+

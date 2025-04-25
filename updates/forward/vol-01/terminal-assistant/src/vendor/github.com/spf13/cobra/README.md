@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 ![cobra logo](https://cloud.githubusercontent.com/assets/173412/10886352/ad566232-814f-11e5-9cd0-aa101788c117.png)
 
 Cobra is both a library for creating powerful modern CLI applications as well as a program to generate applications and command files.
@@ -774,3 +780,4 @@ Cobra can generate zsh-completion file. Read more about it in
 # License
 
 Cobra is released under the Apache 2.0 license. See [LICENSE.txt](https://github.com/spf13/cobra/blob/master/LICENSE.txt)
+

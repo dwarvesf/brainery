@@ -1,19 +1,19 @@
 ---
 title: Market report January 2024
 short_title: January 2024
-date: 2024-01-26
 description: "Here are some of the few trends we are seeing across the industry, in our projects, as well as our community. This market report isn't exhaustive, at least just yet, with certain trends not yet listed such as Blockchain, data management, DevEx, etc. We see a lot of promising trends and we hope that understanding what engineers and firms are becoming more passionate about that it will help us create a foundation of ideas and knowledge."
+date: 2024-01-26
 authors:
   - monotykamary
   - zlatanpham
 tags:
   - labs
   - market-report
-  - AI
+  - ai
   - rust
   - frontend
   - htmx
-  - LLM
+  - llm
   - cybersecurity
 ---
 
@@ -72,3 +72,4 @@ In the industry, there is a growing **skill gap** for cybersecurity engineers, c
 - [Taskade](https://www.taskade.com/)
 - [13 Best Trading Robots for February 2024 Reviewed (techopedia.com)](https://www.techopedia.com/investing/best-trading-robots)
 - [Track These 7 Trends for Proactive Cybersecurity in 2024](https://www.isaca.org/resources/news-and-trends/industry-news/2023/track-these-7-trends-for-proactive-cybersecurity-in-2024)
+

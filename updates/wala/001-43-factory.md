@@ -1,8 +1,8 @@
 ---
 title: "#1 Coffee craftsmanship lessons for software engineering"
 short_title: 43 Factory
-date: 2024-10-16
 description: Our visit to 43 Factory coffee shop in Danang revealed surprising parallels between coffee craftsmanship and software engineering. We discovered valuable insights about talent management, quality delivery, and continuous learning that directly apply to our tech practices.
+date: 2024-10-16
 authors:
   - nikkingtr
 tags:
@@ -43,3 +43,4 @@ In our line of work, we hear and talk about domain knowledge all the time. WALA 
 Through stories collected from Techie WALAs, we hope our community members get the chance to learn from others' successes and failures, gain insights into what works and doesn't, and reflect on their own works and practices.
 
 Besides, breaking away from the stereotype of "tech people are introverts" is always fun.
+

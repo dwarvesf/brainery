@@ -1,7 +1,7 @@
 ---
 title: "What's New in December 2024"
-date: 2025-01-03
 description: "December blended Penang team moments with steady progress, closing 2024 with energy and ready for what's next."
+date: 2025-01-03
 authors:
   - innnotruong
 hide_frontmatter: false
@@ -53,3 +53,4 @@ These closing days of the year are yours to navigate. Some are diving deep into 
 The start of a new year is here, and before we dive back in, we wanted to take a moment to say thanks. Thanks for being part of what made 2024 work - we shipped things that mattered, learned stuff worth sharing, and built connections that went beyond code.
 
 See you on [Dwarves Discord](discord.gg/dfoundation), OGIF, and the next meetup. 2025's looking good already.
+

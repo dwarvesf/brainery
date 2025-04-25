@@ -1,10 +1,10 @@
 ---
 title: "Weekly Digest #5: Endure the hardship, delay the gratification"
-date: 2024-05-14
+short_title: "#5 Endure the hardship, delay the gratification"
 description: Happy Monday, I’m here again, bringing you a lot of updates. There are big and small things brewing at Dwarves network. As we keep on crafting a better community day by day with you.
+date: 2024-05-14
 authors:
   - innnotruong
-short_title: "#5 Endure the hardship, delay the gratification"
 tags:
   - weekly-digest
   - discord
@@ -83,3 +83,4 @@ We've already had some stellar suggestions roll in. But hey, the more, the merri
 And that’s all for this week's digest, folks. It's my joy building the weekly digest with you - our community members.
 
 I’m here to record the most of every moment, this summer and beyond. Hope you’re enjoying the warmer days - and remember: don’t let anyone [steal your sunshine](https://www.youtube.com/watch?v=E1fzJ_AYajA).
+

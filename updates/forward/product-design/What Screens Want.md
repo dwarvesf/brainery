@@ -1,9 +1,14 @@
 ---
-tags: ux, design, ui
+title: null
+description: null
+date: 2022-06-28
 authors:
   - cnhhoang850
 github_id: cnhhoang850
-date: 2022-06-28
+tags:
+  - ux
+  - design
+  - ui
 ---
 
 Frank Chimero has been branding for over 20 years in New York. Recently, he was creative director at FictiveKin.
@@ -73,3 +78,4 @@ At Dwarves, we encourage our people to read, write, share what we learn with oth
 - Join us, [we are also hiring](https://github.com/dwarvesf/WeAreHiring)
 - Visit our [Discord Learning Site](https://discord.gg/dzNBpNTVEZ)
 - Visit our [GitHub](https://github.com/dwarvesf)
+

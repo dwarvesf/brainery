@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # Agenda
 
 1. What is Progressive Web Apss (PWA) ?
@@ -195,3 +201,4 @@ To verify your manifest is setup correctly, use the Manifest pane in the Applica
 ## Demo
 
 > Demo
+

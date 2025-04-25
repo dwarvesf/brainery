@@ -1,10 +1,10 @@
 ---
 title: "Weekly Digest #7: A journey through time"
-date: 2024-05-30
+short_title: "#7 A journey through time"
 description: "The sun peeks over the horizon, Saturday vibes and good news – the perfect combo. We're about to spice up your weekend with a recap of all the awesome things we whipped up this week."
+date: 2024-05-30
 authors:
   - innnotruong
-short_title: "#7 A journey through time"
 tags:
   - weekly-digest
   - discord
@@ -77,3 +77,4 @@ Let's wrap this up with a cheer on top.
 Anyway, I'm actively working on the next digest round-up, and it's about a super cool community. Stay tuned.
 
 Onto today's post...
+

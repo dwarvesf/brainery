@@ -1,7 +1,7 @@
 ---
 title: "#26 - Are you a Mouse-less User ?"
-date: 2020-05-30
 description: Discover Vim Motion, an app inspired by vim-easymotion that simplifies keyboard navigation for faster, mouse-free control of UI elements.
+date: 2020-05-30
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -39,3 +39,4 @@ Going strong in external communication is one of our goal this year. Sharing tea
 
 - Golang-vn: has been deployed onto production. Our primary focus is to resume the activities on Facebook & Slack (post, meetup & webinar)
 - Webuild: Cuong is working on some minor task before having it gone live.
+

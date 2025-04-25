@@ -1,7 +1,7 @@
 ---
 title: "#67 - Official Launch of Apprenticeship"
-date: 2021-03-20
 description: "Discover the latest updates on Dwarves' apprenticeship launch, venture funds, healthcare checkups, project delivery improvements, and key tech news on Rust, Go, Docker, and Tinder background checks."
+date: 2021-03-20
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -53,3 +53,4 @@ A short article that explains why golang packaging can outweigh docker in terms 
 Tinder now supports background check
 
 To make sure you won't spending dinner with a serial killer, Tinder has finally decided to save user's effort by partnering with Garbo - a female-founded non profit group on embedding technology into Tinder for account's background check. Garbo collects public violence/ abuse record and other reports on violent crimes. A smart move, if it actually works. Tinder was created to match alike people and somehow they're turning it to a place for booty calls, which somehow cause bad images. Integrating this kind of technology can drive people's awareness and accelerate its growth in a better way.
+

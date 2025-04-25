@@ -1,10 +1,10 @@
 ---
 title: "Weekly Digest #6: Come for the conversation, stay for the culture"
-date: 2024-05-23
+short_title: "#6 Come for the conversation, stay for the culture"
 description: "Hi, it’s @innno again. Summer is almost here. But don't worry, this update is all about making your day more comfortable. Now, onto this week’s updates."
+date: 2024-05-23
 authors:
   - innnotruong
-short_title: "#6 Come for the conversation, stay for the culture"
 tags:
   - weekly-digest
   - discord
@@ -77,3 +77,4 @@ Those stories don't stop here.
 As the seasons change and the rain sets in Saigon, here’s to making small moments on Discord a little easier - and more fun.
 
 We’ll see you around on our [server](https://discord.gg/dfoundation).
+

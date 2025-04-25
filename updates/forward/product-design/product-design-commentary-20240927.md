@@ -1,7 +1,7 @@
 ---
 title: "Product Design Commentary #1: New technologies changing UX/UI and product design"
+description: "New tools are changing how we design products. In the first edition, we look at voice controls, mixed reality, reusable design parts, and smart helpers. See how they're being used, what's popular, and why designers should care. Learn to make things that are easier and better to use."
 date: 2024-09-30
-description: New tools are changing how we design products. In the first edition, we look at voice controls, mixed reality, reusable design parts, and smart helpers. See how they're being used, what's popular, and why designers should care. Learn to make things that are easier and better to use.
 authors:
   - Maniub102
 tags:
@@ -113,3 +113,4 @@ AI also plays an important role in **automating UI design processes** such as 
 ## Conclusion
 
 The integration of VUI, AR/VR, Modular Design Systems, and AI is transforming modern design by enhancing user experience and streamlining workflows. To stay competitive, designers must leverage these tools effectively, focusing on user feedback, privacy, personalization, and cross-platform performance. Embracing these technologies will enable teams to create innovative, user-centered products that stand out in the market.
+

@@ -1,7 +1,7 @@
 ---
 title: "#135 - Closing August with many promising ideas"
-date: 2022-08-26
 description: Join the August All-hands meeting to hear about team growth, new referral rewards, probation updates, remote offices, and welcome new members before the holiday break.
+date: 2022-08-26
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -28,3 +28,4 @@ Let's warmly welcome @dungnv.anthony and @qyntee to joining our team. It's so gr
 Enjoy your National Day holiday
 
 As previously announced on 🔔・quick-alert, we will be closed for public holidays from 1/9 to the end of 4/9 and return to work on Monday, 5/9 of the following week. We wish you a safe and happy holiday!
+

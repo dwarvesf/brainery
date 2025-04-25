@@ -1,7 +1,7 @@
 ---
 title: Dwarves Of The Year 2021
-date: 2022-01-05
 description: "A big congratulations to our Dwarves of 2021. Apart from the team's voting result for each title, the team leads also selected the Honorable Mention and Client Endorsed, as we want to honor all of the hard work."
+date: 2022-01-05
 authors:
   - duynglam
 tags:
@@ -37,3 +37,4 @@ A big congratulations to our Dwarves of 2021! And thank you to all the Dwarves t
 ![merch](assets/2021-dwarves-of-the-year_df-merch.webp)
 
 ![real-merch](assets/2021-dwarves-of-the-year_real-merch.webp)
+

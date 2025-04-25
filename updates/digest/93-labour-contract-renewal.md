@@ -1,7 +1,7 @@
 ---
 title: "#93 - Labour Contract Renewal"
-date: 2021-09-25
 description: Renew your contract with Turing Alley LLC by Oct 1, learn about new salary and resignation terms, and join the October all-hands meeting and Mid-Autumn airdrop event.
+date: 2021-09-25
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -21,3 +21,4 @@ Thanks for joining our Virtual Mid-Autumn fest last Tuesday. Hope you had a grea
 ### September All-hands meeting
 
 Srsly a month has never gone by so fast. This month's all hands will likely take place this Friday, Oct 1 at discord/any food channel. Please reserve your time. See you all there 🤞
+

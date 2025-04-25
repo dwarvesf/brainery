@@ -1,7 +1,7 @@
 ---
 title: August Changelog
-date: 2021-09-03
 description: Discover how our team advances blockchain skills, improves project workflows with Basecamp Kanban, and grows expertise through audits, automation, and professional development.
+date: 2021-09-03
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -82,3 +82,4 @@ Upsert flow for audience db
 We're growing the audience community. The Fortress team has uplifted the workload by creating an upsert flow. This auto-upsert mechanism logs all contacts from our social channels, puts them into our Notion db for further team publication: Dwarves Updates, Dwarves Feedback & Turing Alley.
 
 ![](assets/notion-image-1744006948693-9i94d.webp)
+

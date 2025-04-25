@@ -1,10 +1,10 @@
 ---
 title: "Weekly Digest #13: More than lines of code"
-date: 2024-07-20
+short_title: "#13 More than lines of code"
 description: "Welcome to this week's edition of our roundup, where we highlight the moments that make us more than just lines of code. This week, we're jet-setting around the world with our team's summer adventures, introducing new memo features, cheering for a beloved teammate's new chapter in the US, and celebrating new born. From beachside workspaces to anime figurine collections, we've got it all."
+date: 2024-07-20
 authors:
   - innnotruong
-short_title: "#13 More than lines of code"
 tags:
   - memo
   - team
@@ -58,3 +58,4 @@ In the meantime, we're sending Thanh and his family all the best as they navigat
 ![](assets/13-more-than-lines-of-code_13-more-than-line-code-new-born.webp)
 
 From tech tips to tiny toes, this week's digest reminds us that we're more than just a team. So, whether you're sharing a memo, a vacation snapshot, or a life-changing announcement, remember: that we're here to celebrate it with you.
+

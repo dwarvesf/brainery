@@ -1,7 +1,7 @@
 ---
 title: "#81 - Jun Update: Cleaning up the Roadmap"
-date: 2021-06-26
 description: "Stay updated on team roadmap changes, Covid impacts in Saigon, Notion adoption for projects, Brave search beta features, and GitHub's new collaboration tools."
+date: 2021-06-26
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -34,3 +34,4 @@ Brave bought Tailcat an independent search engine 3 months ago, promising to cre
 GitHub is bring a spreadsheet-like canvas into their issues and pull request, making things easier for team collaboration through customized views. The new feature helps break issues into actionable tasks, supports auto-merge on pull request and dependency review. Github Discussion also provides a space to work on daily FAQs through open-ended conversations.
 
 and ofc, pretty much sums up the rollout of Windows 11 with full discussion of HN community.
+

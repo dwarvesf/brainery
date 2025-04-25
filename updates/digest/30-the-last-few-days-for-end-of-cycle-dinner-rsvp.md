@@ -1,7 +1,7 @@
 ---
 title: "#30 - The Last Few Days for End of Cycle Dinner RSVP"
-date: 2020-06-27
 description: "Discover the redesigned Dwarves website Work section, insights on company culture with 'People Matter,' and RSVP details for the upcoming End of Cycle Dinner."
+date: 2020-06-27
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -22,3 +22,4 @@ As we’re calling for some hands to help with the culture code write up, there�
 It’s a few days left until our End of Cycle Dinner. We have received many RSVP from the Dwarves. If you haven’t drop yours yet, please do help to comment in this thread. It would be nice to have another suggestion on the venue also. The current options are BiaCraft, Zumwhere and Kpub.
 
 It’s been forever since our last catch up on the 5th Anniversary, let’s don’t miss this!
+

@@ -1,7 +1,7 @@
 ---
 title: "#92 - More Dwarves in the Brain team"
-date: 2021-09-18
 description: Join our expanding team exploring SaaS, Blockchain, Web3, and DeFi topics, plus discover NFT artist stories and register for the Virtual WeBuild Day event.
+date: 2021-09-18
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -30,3 +30,4 @@ For more info, please visit WeBuild Fanpage, or simply ping Nam & Duy - they're 
 Side note: We're actively hiring for the upcoming projects. Hence, every effort to help optimize the recruitment process is appreciated. We want to send our thanks to Hieu Vu for being an extra helping hand with our recruiting work.
 
 We're heading for more cool things to work on, and we're happy to onboard the like-minded ones. Please help refer if you find any match.
+

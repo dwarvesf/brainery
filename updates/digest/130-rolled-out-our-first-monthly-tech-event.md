@@ -1,7 +1,7 @@
 ---
 title: "#130 - Rolled out our first monthly Tech Event"
-date: 2022-07-22
 description: Join our first tech event recap with Google’s @thanhlv, explore new articles on Atomic Design and HDFS, and book your Performance Review slot now.
+date: 2022-07-22
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -32,3 +32,4 @@ Dwarves Mountain Hub has been ready to welcome you. Built by Dwarves & opened fo
 Note: June insurance card batch has been sent to those who passed probation or registered for Bao Minh insurance card. Expected to meet you in the next 2-3 days.
 
 ![](assets/notion-image-1744007364236-hpv1j.webp)
+

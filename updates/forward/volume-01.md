@@ -1,8 +1,8 @@
 ---
 title: Dwarves Tech Radar Volume 01
 short_title: Tech Radar Volume 01
-date: 2020-08-26
 description: For this edition, the theme is to get the whole team used to the concept of a central knowledge base, every study to expand our view to the tech scene counts. The design team also has a place to contribute and discuss their practices.
+date: 2020-08-26
 authors:
   - duynglam
 tags:
@@ -115,3 +115,4 @@ Though this began as a side project, The Dwarves Tech Radar speaks up the code t
 Innovation happens almost every day, and it's our job to pursue the latest version. It's what sets the business successful and giving them a competitive advantage. That begins with nothing but keeps the employee updated on the latest development.
 
 Grab a seat and stay abreast of our latest topic updates.
+

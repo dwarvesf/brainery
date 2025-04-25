@@ -1,7 +1,7 @@
 ---
 title: "#84 - What's your MBTI?"
-date: 2021-07-24
 description: "Discover your team's MBTI results, explore the new Notion migration for memos and project updates, and join AMA office hours for all your product questions."
+date: 2021-07-24
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -36,3 +36,4 @@ We've just launched some new places for Turing Alley on social
 - LinkedIn: linkedin.com/company/turing-alley
 - and an article on Our purpose: linkedin.com/pulse/purpose-turing-alley-turing-alley/
   ![](assets/notion-image-1744006963118-wami3.webp)
+

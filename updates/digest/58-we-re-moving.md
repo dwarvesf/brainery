@@ -1,7 +1,7 @@
 ---
 title: "#58 - We’re Moving"
-date: 2021-01-09
 description: Discover updates on the new office migration, team retreat, and Apple’s innovative wireless charger patents for MacBook in this week’s news roundup.
+date: 2021-01-09
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -22,3 +22,4 @@ Apple's move on creating wireless chargers
 Apple has just finished filing the latest design patents for its next move. Particularly, wireless charger on Macbook for smaller Apple devices.
 
 The palm rest area gets utilized once Apple decides to turn those into chargers. But the game doesn't stop there. The second patent includes a design where all the Macbook lid becomes the charging area. Users are no longer struggle to find a charger plug. And yes, thanks to the wide cover, more than one device is welcomed.
+

@@ -1,7 +1,7 @@
 ---
 title: "#134 - Introduce the Dwarves Showcase"
-date: 2022-08-21
 description: Discover the latest Dwarves news on new merchandise kits, Friday Showcase demos, and fresh learning topics like Metaverse and Event sourcing to boost your skills.
+date: 2022-08-21
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -16,3 +16,4 @@ We had the first Friday's Showcase last week - Twitter Tweet Watcher. This event
 New learning topics
 
 We've resumed adding topics to the 💡・learning-topics channel, including Metaverse, Event sourcing, etc. Participate in the conversation to learn more and enhance your work.
+

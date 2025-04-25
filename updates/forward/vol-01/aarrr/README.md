@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 We could find a bunch of AARRR frameworks definition across the internet (Thanks to Google). I don’t intend to create another one here.
 
 Today I just want to share the simplest definition of this framework and how we have done here at Dwarves. It is a jumping-off point to brainstorming what AARRR does, and why it’s the important step that needs to be done.
@@ -45,3 +51,4 @@ This could save you a lot of money.
 With AARRR Framework, we could build a product based on a concrete foundation and minimize the risks by defining what it takes to get the business goal and how to get there (metrics).
 
 Along the way, we could define the metrics for each stage and which one deserves the utmost focus in a matter of time. It creates our ability to do things in the right way.
+

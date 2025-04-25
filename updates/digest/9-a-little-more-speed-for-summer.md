@@ -1,10 +1,10 @@
 ---
 title: "Weekly Digest #9: A little more speed for summer"
-date: 2024-06-08
+short_title: "#9 A little more speed for summer"
 description: "How quickly the first half of the year speeds up before it slows down. It’s really the second half of 2024 already. Time flies when you're having a blast. Get ready to rewind and relive some of the awesome highlights from the last week, get pumped for the epic things we'll do together before this year is over."
+date: 2024-06-08
 authors:
   - innnotruong
-short_title: "#9 A little more speed for summer"
 tags:
   - weekly-digest
   - meetup
@@ -69,3 +69,4 @@ Wish we could hit rewind and relive [yesterday once more](https://www.youtube.co
 P.S. If you’re feeling nostalgic or just want to catch up on what you might have missed, you can find highlights from our previous edition [right here](https://memo.d.foundation/playground/digest/8-then-came-the-last-days-of-may/).
 
 Until next time.
+

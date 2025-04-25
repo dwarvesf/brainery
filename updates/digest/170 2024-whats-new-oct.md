@@ -1,7 +1,7 @@
 ---
 title: "What's New in October 2024"
-date: 2024-11-15
 description: "Each month, we roll out a recap of our team and community's progress. October's updates spotlight our open source initiative, boosted rewards for sharing knowledge, navigating market shifts, weekly tech insights, and a warm celebration of Vietnamese Women's Day."
+date: 2024-11-15
 authors:
   - innnotruong
 tags:
@@ -69,3 +69,4 @@ Rolling out two new series this month: a Product Design Weekly and an AI Digest.
 We took a moment to celebrate to celebrate the women at Dwarves. We marked the occasion with a round of gifts and a cozy team dinner - just a simple way to say thanks to the incredible women who shape our team and bring heart to our work every day.
 
 ![](assets/2024-whats-new-oct-women-day.png)
+

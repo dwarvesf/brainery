@@ -1,10 +1,10 @@
 ---
 title: "Weekly Digest #2: Walk around learn around"
-date: 2024-04-15
+short_title: "#2 Walk around learn around"
 description: There are so many amazingly fun and wonderfully weird things happening on Discord, both last week and of course, today. So let’s dive in with a freshly-brewed “cà phê sữa,” of course.
+date: 2024-04-15
 authors:
   - innnotruong
-short_title: "#2 Walk around learn around"
 tags:
   - weekly-digest
   - remote
@@ -55,3 +55,4 @@ The price of gold had been on a wild ride, hitting all-time highs for several da
 Wishing all the best for @fuatto and @tay on their birthdays last week. Here's to another year of adventures, laughter, and unforgettable moment. Cheers to you both, and may your birthdays be as legendary as you are.
 
 ![birthday](assets/2-walk-around-learn-around_2024-weekly-digest-april-15_2024-digest-2.webp)
+

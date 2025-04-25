@@ -1,7 +1,7 @@
 ---
 title: "#10 - The 3rd Milestone of Tech Radars"
-date: 2020-02-08
 description: Discover the latest Tech Radar milestone updates, apprenticeship program timeline, team bonding survey, and welcome new front-end and back-end engineers to the team.
+date: 2020-02-08
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -47,3 +47,4 @@ On last Monday, Feb 3rd, we were thrilled to welcome two more Dwarves to join ou
 ![](assets/notion-image-1744007171011-8nn4h.webp)
 
 ![](assets/notion-image-1744007171170-hlz4j.webp)
+

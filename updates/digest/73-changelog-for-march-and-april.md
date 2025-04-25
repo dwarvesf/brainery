@@ -1,7 +1,7 @@
 ---
 title: "#73 - Changelog for March and April"
-date: 2021-05-01
 description: Discover the latest team updates, CSS tips, and insights on combining Golang and Elixir for better web development in our Mar/Apr changelog.
+date: 2021-05-01
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -24,3 +24,4 @@ CSS is a style sheet language to format the website layout and, together with HT
 Golang and Elixir - what's in between?
 
 A blog post from a Go-and-Elixir programmer stated why combining these two in balance can help developers move forward. And why he didn't choose to mix Rust - despite what people have been saying - with Elixir due to its rigid memory safety. Since our BE team is diving more and more into the three giants, I believe this blog can be a good help as Preslav (the blogger) crafted a great journey about it on his page.
+

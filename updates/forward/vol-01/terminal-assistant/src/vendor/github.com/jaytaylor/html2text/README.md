@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # html2text
 
 [![Documentation](https://godoc.org/github.com/jaytaylor/html2text?status.svg)](https://godoc.org/github.com/jaytaylor/html2text)
@@ -130,3 +136,4 @@ If you appreciate this library please feel free to drop me a line and tell me! I
 Email: jay at (my github username).com
 
 Twitter: [@jtaylor](https://twitter.com/jtaylor)
+

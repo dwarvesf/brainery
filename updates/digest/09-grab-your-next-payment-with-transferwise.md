@@ -1,7 +1,7 @@
 ---
 title: "#09 - Grab your next payment with TransferWise"
-date: 2020-02-01
 description: Learn how to register a TransferWise account for secure monthly payments and get updates on remote work, English courses, and Tech Radar progress in the team.
+date: 2020-02-01
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -39,3 +39,4 @@ You can find the detail info of each program in the comment session of this mess
 After the last meeting to brief about Tech Radars, validated the rendered topics and defined what to expect, many teams have uploaded their resources on Google Drive through folders and files.
 
 The definitions of 4 rings on Tech Radar are still worked on, along with the FAQ lists. The topics for Tech Radar were also updated due to the change in resources. Based on the heavy workload after Lunar New Year holiday, 40% of the team might not be able to meet the expected goal. A solution for resolve this and ensure everyone can stay on track with their topics will be discussed by next week.
+

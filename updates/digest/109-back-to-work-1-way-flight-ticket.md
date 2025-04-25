@@ -1,7 +1,7 @@
 ---
 title: "#109 - Back to work & 1-way flight Ticket"
-date: 2022-02-08
 description: "Start your work year energized after Lunar New Year with one-way flight tickets and catch Agile Software Development insights from Tuan Tran's presentation online."
+date: 2022-02-08
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -14,3 +14,4 @@ Reminding you again, 1-way Flight tickets to our work hubs are enabled as your w
 Another highlight of Monday, on behalf of Agile Software Development practices theme, @Tuan Tran had given a short presentation at 5PM. Thanks buddy!
 For anyone who missed the session, you can check it out in our Youtube channel below:
 <https://www.youtube.com/channel/UC_SyzGLf6wiqctQFsRI_frw>
+

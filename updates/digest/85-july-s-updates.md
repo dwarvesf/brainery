@@ -1,7 +1,7 @@
 ---
 title: "#85 - July's Updates"
-date: 2021-07-31
 description: July updates include the start of annual performance reviews, upgraded paid-leave process, new case studies uploaded, and real-time leave requests via Notion portal.
+date: 2021-07-31
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -35,3 +35,4 @@ We create a portal in Notion for leaving request.
 From now on, project changelog in Notion will have real-time update whenever project member submit their leave-request in Basecamp.
 
 ![](assets/notion-image-1744006959189-2gxev.webp)
+

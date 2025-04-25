@@ -1,7 +1,7 @@
 ---
 title: "What's New in October 2023"
-date: 2023-11-10
 description: Each month, we release a recap noting all the significant changes with our company and our team. October is our month for open-source and reflections.
+date: 2023-11-10
 authors:
   - nikkingtr
 tags:
@@ -96,3 +96,4 @@ Our free FE Course is successfully finished. The stats are astounding, because c
 > - Radio Talk (Weekly, Monday): sharing technical learning, demos, showcases
 > - Tech Event (Monthly): sharing programming trends, tech trends, panel discussions
 > - Community Call (Monthly): summary wins and growth of the month
+

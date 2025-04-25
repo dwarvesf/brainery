@@ -1,7 +1,7 @@
 ---
 title: "#03 - Planning for Year-End Party"
-date: 2019-12-14
 description: Stay updated on Dwarves Foundation’s year-end party, apprenticeship program, insurance policies, tech workshops, and ongoing training classes to boost team skills and benefits.
+date: 2019-12-14
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -86,3 +86,4 @@ So far, we have come up with 2 classes already. Take a look at the Class Notes
 Anh Han also launched a training class for our engineers to re-define the meaning of quality software. Huy N. and Phat are taking the class at this moment.
 
 Should you find yourself seeking for a further definition of software, or just simply want to spend time to work on bettering your competency, give anh Han a ping.
+

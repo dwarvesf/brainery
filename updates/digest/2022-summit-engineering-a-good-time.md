@@ -1,7 +1,7 @@
 ---
 title: "Summit 2022: Engineering A Good Time"
-date: 2023-01-09
 description: Having a blast company trip after 2 years of COVID, it didn’t happen in a common way. We planned our trip differently than others and designed apps for everyone to play as a way to bond as company outside physical activities.
+date: 2023-01-09
 authors:
   - nikkingtr
   - monotykamary
@@ -139,3 +139,4 @@ Likewise, we’ve learned a lot during the trip and have taken a few steps ahead
 Our goal for next year is to incorporate **Mastery, Meaning, and Autonomy**. These are some of the things we have in our backlog, and we’re certainly excited to try out more when we get to it.
 
 Here’s to the restart of our adventures together and to many more experiences and opportunities for 2023!
+

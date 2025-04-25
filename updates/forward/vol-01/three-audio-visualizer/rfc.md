@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 # three-audio-visualizer
 
 | Status        | Assess                          |
@@ -34,3 +40,4 @@ Things I'll go through:
 
 - [Code](/Code)
 - [Documents/Slides](/Documents)
+

@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 ## What is ArgoCD
 
 Argo CD is implemented as a Kubernetes controller which continuously monitors running applications and compares the current, live state against the desired target state (as specified in the Git repo). ArgoCD helps update, manage and control the code versions during its development phase on k8s.
@@ -46,3 +52,4 @@ Deployment
 - https://argoproj.github.io/argo-cd/
 
 - https://www.inovex.de/blog/spinnaker-vs-argo-cd-vs-tekton-vs-jenkins-x/
+

@@ -1,7 +1,7 @@
 ---
 title: "#60 - Got any topic to ask? Pitch it"
-date: 2021-01-23
 description: Get the latest updates on startup talks, tech tools like Volta and Earthly, office moves, healthcare plans, and Apple’s new MacBook Pro design.
+date: 2021-01-23
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -45,3 +45,4 @@ Apple analyst Ming-Chi Kuo has lately announced the company’s next move on rev
 The new social without Trump
 
 As Trump’s account has been banned from Twitter, Facebook, Youtube and other platforms, social media user’s may witnessed the platforms without this man being omnipresent. As someone who was portrayed as a paragon of casual bigotry in the media, the new Internet without Trump may lessen the number of online discourse, and yes, meme and GIFs afterwards.
+

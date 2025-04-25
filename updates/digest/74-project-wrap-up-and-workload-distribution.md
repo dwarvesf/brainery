@@ -1,7 +1,7 @@
 ---
 title: "#74 - Project Wrap up and Workload Distribution"
-date: 2021-05-08
 description: "Discover why Rust is emerging as the top modern programming language, with growing adoption by major companies like Google and Discord challenging Go's dominance."
+date: 2021-05-08
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -24,3 +24,4 @@ Each decade comes with a modern language that resolve a problem at the time. the
 The author shifts his focus to Rust, a candidate who manages to satisfy both high and low level programming, and contains the sign of modernity, such as open source and generics. Rust was considered as a new born language since 2010, and its adoption was more like a hobby choice instead of a real language. #riir used to be a meme since every single small group gradually migrate into Rust.
 
 Some key players started to touch Rust since last year. Like Discord, or Mozilla. But not until the move of Google - the backbone behind Golang - that Rust begins to be taken seriously. There has been a long term debate between the domination of Go and Rust, and the fact that Google chose to migrate some of their services into Rust somehow turned the table. Their latest version has just been rolled out as well.
+

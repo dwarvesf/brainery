@@ -1,7 +1,7 @@
 ---
 title: "#151 - February’s Updates"
-date: 2023-02-27
 description: Discover February’s key updates, team achievements, and upcoming community call details to stay informed and motivated for the next project phase.
+date: 2023-02-27
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -22,3 +22,4 @@ February All-hands Meeting is coming this Friday, March 3rd, 2023. Please reserv
 Say cheers to a happy working week.
 
 ![](assets/notion-image-1744007315999-rd9to.webp)
+

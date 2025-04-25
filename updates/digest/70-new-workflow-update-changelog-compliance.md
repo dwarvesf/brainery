@@ -1,7 +1,7 @@
 ---
 title: "#70 - New workflow update : Changelog & Compliance"
-date: 2021-04-10
 description: Learn about our new apprenticeship program, project workflow improvements, quality control updates, and the latest tech news including Kotlin Multiplatform and data breach insights.
+date: 2021-04-10
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -52,3 +52,4 @@ According to the Supreme Court, who handed Google a victory over the battle: Pre
 FB and the continuous fault in Data breach
 
 FB belike oops, I did it again. Leaked info has been verified by matching phone numbers with the ID list in the data set. The 533 million records are an entirely different data set that attackers created by abusing a flaw in a Facebook address book contacts import feature.
+

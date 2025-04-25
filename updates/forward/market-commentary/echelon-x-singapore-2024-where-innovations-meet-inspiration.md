@@ -1,7 +1,7 @@
 ---
 title: "Echelon X Singapore 2024: Where Innovations Meet Inspiration"
-date: 2024-06-05
 description: This year’s Echelon X in Singapore was a bustling hub of innovation, bringing together around 10,000 participants. Along with visiting SPGroup, our team also attended Echelon X to have a better understanding of how the tech and startup ecosystem is heading.
+date: 2024-06-05
 authors:
   - nikkingtr
   - tieubao
@@ -86,3 +86,4 @@ As we look to the future, one thing is clear: new tech will shape innovation. Ti
 After Echelon X 2024, we left with a sense of achievement, new insights, and valuable connections. The event provided a clear view of current trends and future developments in the SEA tech market.
 
 ![](assets/echelon-x-singapore-2024-where-innovations-meet-inspiration_echelon-x-summit-recap_echelon-recap.webp)
+

@@ -1,7 +1,7 @@
 ---
 title: 2024 In Review
-date: 2025-01-16
 description: "Closing another milestone with 2024, it has been a year of building and rebuilding ,  strengthening what works, fixing what doesn't, and uncovering new paths along the way. Every milestone reached this year carries the marks of teamwork and persistence."
+date: 2025-01-16
 authors:
   - innnotruong
 tags:
@@ -303,3 +303,4 @@ Like crafting software, building Dwarves Foundation has been a journey of experi
 2025 opens with questions we're eager to answer, about tech, others about how we work. The best lines are yet to be written.
 
 A strong team is built on its people and their beliefs. We're looking forward to the surprises ahead with all of you.
+

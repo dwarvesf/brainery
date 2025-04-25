@@ -1,7 +1,7 @@
 ---
 title: "#22 - We created some cool stuffs"
-date: 2020-05-02
 description: Discover new remote work tips, daily English learning, unique team traditions, and monthly movie picks in our latest update for a fun and productive holiday season.
+date: 2020-05-02
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -33,3 +33,4 @@ The word 'totem' means an object that is respected by a group of people, especia
 Guess I won't need to explain this one :chewing popcorn:
 
 ![](assets/notion-image-1744007144608-7ry4c.webp)
+

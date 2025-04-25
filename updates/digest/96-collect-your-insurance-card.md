@@ -1,7 +1,7 @@
 ---
 title: "#96 - Collect Your Insurance card"
-date: 2021-10-16
 description: Collect your Bao Viet insurance card at HaDo office by contacting Van, meet new Backend and Fullstack Engineers joining the team, and celebrate National Woman Day gifts.
+date: 2021-10-16
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -22,3 +22,4 @@ Glad to have new guys to expand the squad. They'll be joining us in project work
 \*Note
 
 I just cant believe I have to craft this line myself. But this Wednesday holds the National Woman Day - Van & Nam are preparing some gifts for our female Dwarves. The gift will be delivered in short and I truly wish you all have a great day. From HaNoi with ♡
+

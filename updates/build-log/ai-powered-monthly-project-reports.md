@@ -1,9 +1,9 @@
 ---
 title: "Project reports system: a case study"
 description: "An in-depth look at Dwarves' monthly Project Reports system - a lean, efficient system that transforms communication data into actionable intelligence for Operations teams. This case study explores how we orchestrate multiple data streams into comprehensive project insights while maintaining enterprise-grade security and cost efficiency."
-date: "2024-11-14"
+date: 2024-11-14
 authors:
-  - "monotykamary"
+  - monotykamary
 tags:
   - data
   - agents
@@ -282,3 +282,4 @@ We also don’t plan to be vendor-locked using entirely Modal. The foundations w
 At Dwarves, our Project Reports system demonstrates the power of thoughtful data engineering in transforming raw communication into strategic project intelligence. By combining secure data collection, efficient processing, and AI-powered analysis, we've created a system that doesn't just track progress – it actively contributes to project success.
 
 The system continues to coordinate our project data streams with precision and purpose, ensuring that every piece of information contributes to a clear picture of project health. Through this systematic approach, we're setting new standards for data-driven project management in software development, one report at a time.
+

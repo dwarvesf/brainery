@@ -1,7 +1,7 @@
 ---
 title: "What's New in November 2024"
-date: 2024-12-04
 description: In November, we sharpened our focus with advancements in platform engineering, introduced streamlined service packages, elevated ICY rewards for impactful contributions, and embraced key insights from market shifts, all building momentum as we gear up for our Penang retreat.
+date: 2024-12-04
 authors:
   - innnotruong
 tags:
@@ -150,3 +150,4 @@ We're still on the lookout for talented folks to join the team:
 Think you're a fit or know someone who is? Drop us a line at [spawn@d.foundation](mailto:spawn@d.foundation) or ping [@nikki](https://memo.d.foundation/contributor/nikki) on Discord.
 
 ![](assets/2024-whats-new-november-hiring.png)
+

@@ -1,7 +1,7 @@
 ---
 title: "What's New in August 2024"
-date: 2024-09-06
 description: Each month, we release a recap highlighting key updates and progress within our team and community. August updates highlight AI tools, enhanced community discussions, the sum command upgrade, Go enterprise MOC insights, and earning dfg tokens through contributions.
+date: 2024-09-06
 authors:
   - innnotruong
 tags:
@@ -84,3 +84,4 @@ Originally tied to our Employee Ownership Program (EOP), the **dfg token** can n
 [Check out for the details.](https://memo.d.foundation/playbook/community/df-protocol-icy-dfg/)
 
 ![](assets/2024-whats-new-august-dfg.png)
+

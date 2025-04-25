@@ -1,16 +1,16 @@
 ---
 title: Market report April 2024
 short_title: April 2024
-date: 2024-05-15
 description: "In april’s market report, we explore the evolving landscape of Meta's Llama 3, LLM, the shift to edge computing, the new Bun 1.1, the trend of copy-pastes UI."
+date: 2024-05-15
 authors:
   - monotykamary
   - zlatanpham
 tags:
   - labs
   - market-report
-  - AI
-  - LLM
+  - ai
+  - llm
 ---
 
 ## Key takeaways
@@ -86,3 +86,4 @@ We still think popular UI libraries like MUI and AntD have strong positions as t
 - [Reducing hallucination in structured outputs via Retrieval-Augmented Generation](https://arxiv.org/abs/2404.08189)
 - https://ui.shadcn.com/docs/changelog#april-2024---introducing-lift-mode
 - https://www.infoq.com/articles/architecture-trends-2024/
+

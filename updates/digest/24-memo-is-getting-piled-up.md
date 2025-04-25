@@ -1,7 +1,7 @@
 ---
 title: "#24 - Memo is getting piled up"
-date: 2020-05-16
 description: Learn how Software Modeling improves maintainability and scalability, and explore practical design system tips including naming conventions and auto layout in Figma.
+date: 2020-05-16
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -107,3 +107,4 @@ Component Structure
 
 - Turn UI file/ design system into document
 - Helps to note down a detailed instruction for the team (with >2 designers). This drives better communication between designer-designer and designer-developer.
+

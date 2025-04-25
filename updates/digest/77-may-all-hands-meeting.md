@@ -1,7 +1,7 @@
 ---
 title: "#77 - May All-hands Meeting"
-date: 2021-05-29
 description: Discover key insights from our May All-hands meeting, on-leave scheduling tips, UIView design principles, and API improvement strategies for better software performance.
+date: 2021-05-29
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
@@ -22,3 +22,4 @@ The good part of reusability might resolve request by adding if. But adding too 
 Make your API less painful
 
 Some small tips to enhance the APIs. Common mistakes in API is small, but in the long run it removes people’s comfortability, starting from the downloadable file format, clear explanation in error or context, and time estimation.
+
