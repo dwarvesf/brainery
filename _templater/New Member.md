@@ -1,11 +1,12 @@
 ---
-social:
-github:
-website:
-avatar:
-discord_id:
-hide_title: true
-title:
-description:
+title: null
+description: null
+date: null
 aliases: []
+avatar: null
+discord_id: null
+github: null
+hide_title: true
+social: null
+website: null
 ---

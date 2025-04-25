@@ -1,14 +1,14 @@
 ---
 title: Home
-date: 2023-12-11
 description: A collection of notes for everything we do and operate at Dwarves. This is where we keep our internal notes.
+date: 2023-12-11
 authors:
   - monotykamary
   - tieubao
   - huynguyenh
+hide_title: true
 tags:
   - home
-hide_title: true
 ---
 
 ![](assets/home_cover.webp)

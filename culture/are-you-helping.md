@@ -1,8 +1,9 @@
 ---
 title: Are you helping?
-description: In a recent post I wrote "Inner Circle", I expounded on the importance of contribution and value in relation to a person's work or performance.
+description: 'In a recent post I wrote "Inner Circle", I expounded on the importance of contribution and value in relation to a person''s work or performance.'
 date: 2023-01-31
-authors: tieubao
+authors:
+  - tieubao
 tags:
   - performance
   - productivity

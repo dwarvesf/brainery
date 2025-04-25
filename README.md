@@ -1,3 +1,9 @@
+---
+title: null
+description: null
+date: null
+---
+
 This is an internal README for us writers ✍️. Any file that has the suffix `README.md` will be ignored during deployment to <https://memo.d.foundation/>, so feel free to add upon this and other READMEs.
 
 The contents of this project is mainly managed with [Obsidian](https://obsidian.md/), so you need to download the app from their website to get started. We expect that you also know your way with `git`. You can also use [GitHub Desktop](https://desktop.github.com/) if you aren't too tech savvy.
