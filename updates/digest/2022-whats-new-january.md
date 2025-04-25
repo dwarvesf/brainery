@@ -62,4 +62,3 @@ A small gift to thank you for being with us for the past year. May we all enter 
 Happy the year of Tiger. Let's rock 2022 together!
 
 ![merch](assets/2022-whats-new-january_2022-january-updates_bd881f2df5fc45b3831edf17c1ceef53_md5.webp)
-

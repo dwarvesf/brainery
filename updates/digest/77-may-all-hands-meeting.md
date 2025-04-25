@@ -22,4 +22,3 @@ The good part of reusability might resolve request by adding if. But adding too 
 Make your API less painful
 
 Some small tips to enhance the APIs. Common mistakes in API is small, but in the long run it removes people’s comfortability, starting from the downloadable file format, clear explanation in error or context, and time estimation.
-

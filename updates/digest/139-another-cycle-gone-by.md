@@ -28,4 +28,3 @@ Calling for Digital Marketer
 We're looking for someone with inbound marketing experience and the willingness to grow our audience base. The full JD at <https://bit.ly/3Rq9F0k>.
 
 If you have some references, please send it to me.
-

@@ -62,4 +62,3 @@ We're saying goodbye to Giang Vu, our Product Designer. Giang has had nearly 2 y
 
 - SheCodes x WeBuild: Cooperation in IT Industry
   Sign up and stay tuned at WeBuild Discord
-

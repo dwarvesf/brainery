@@ -38,4 +38,3 @@ WeGo has finally come to the development stage, as Anh has finished working on t
 FB vs Apple
 
 This undoubtedly is what has been covering most internet news lately. Users like us must have gone through the feeling of being advertised by Facebook, more than once. Sometimes it even gives us goosebump since the product was only mentioned like second earlier. Don’t know about you, but yeah I’d prefer to know what type of info is being exploited. Like, I know I was talking about a house., but that doesn't mean I can afford it hello 🙃
-

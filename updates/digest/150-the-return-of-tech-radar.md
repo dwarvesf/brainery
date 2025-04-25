@@ -43,4 +43,3 @@ February All hands Meeting will take place on this Friday 24th, 2023. Please mar
 Can’t wait to see more things in March.
 
 ![](assets/notion-image-1744007318977-u6igg.webp)
-

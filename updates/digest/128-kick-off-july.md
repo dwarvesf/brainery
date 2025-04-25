@@ -29,4 +29,3 @@ We’re proud to have @Tom as one of the guest speakers at Google I/O Extended C
 Thanks for spending your time. It means a lot to us and Tom himself ♡
 
 ![](assets/notion-image-1744007366831-26wrv.webp)
-

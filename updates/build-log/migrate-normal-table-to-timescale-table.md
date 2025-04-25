@@ -227,4 +227,3 @@ We need to replace new query to old query function by function to retest to make
 ### Change primary table to new table
 
 After everything is work fine, we can replace primary table to new table then consider to remove old tables if needed to save data storage
-

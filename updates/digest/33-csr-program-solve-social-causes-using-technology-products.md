@@ -30,4 +30,3 @@ Our Bao Viet Insurance has been renewed lately. Van has uploaded a list of batch
 ### Performance Review
 
 Our performance review is still undergoing. For those who haven’t gotten your review yet, we’re still arranging the work and will come up with a schedule in no time. Meanwhile, ping Huy N should you have any question or just simply feel like being mean to him.
-

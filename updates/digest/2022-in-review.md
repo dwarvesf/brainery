@@ -233,4 +233,3 @@ With this momentum, this is only the start.
 As we continue to extract the possible from the impossible, this year taught us, above all, that our voices , no matter how big or small , with the belief that software keeps changing the world.
 
 We wish for all of you to have a great start for your journeys ahead.
-

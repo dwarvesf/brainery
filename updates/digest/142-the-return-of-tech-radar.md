@@ -43,4 +43,3 @@ Last but not least,
 • Duy, thank you for everything you have done at Dwarves, you will always be a friend to us all. Keep on shining.
 
 Til next time ᕕ(✧◞ ✧)ᕗ
-

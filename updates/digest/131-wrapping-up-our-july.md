@@ -33,4 +33,3 @@ We’re delighted to welcome some new Dwarves to join the team this week
 - @helen.eth - Operation Executive
 - @minhtuan - Backend Engineer
   It's good to have you guys on board! Thanks for helping scaling up the crew and may we share many great moments together 💪
-

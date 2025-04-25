@@ -18,4 +18,3 @@ We closed a deal with a key client this week and Nam N is going to start 1-week 
 ### BK Internship Wrap-up
 
 Van has help wrapped up the Internship recruiting with Bach Khoa University. That leaves us with 5 soon-to-be Dwarves joining us this July.
-

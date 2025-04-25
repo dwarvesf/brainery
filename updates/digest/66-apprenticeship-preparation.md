@@ -50,4 +50,3 @@ Online recipe in Git
 <https://based.cooking/>
 
 Nothing tech-related I just feel mắc cười when a recipe site is created simply without any ads with a Github. May you find some easy cooking guide in this open-source repo
-

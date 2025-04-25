@@ -28,4 +28,3 @@ If you’re happen to be on traveling mode, swing by Danang office. It’s been 
 Starting last week, @Hao & @Abbey have joined the next journey of Pod Town and team Dwarves - welcome onboard!
 
 ![](assets/notion-image-1744007378309-h90vc.webp)
-

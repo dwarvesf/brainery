@@ -52,4 +52,3 @@ The FAQ session was also updated on Dwarves Handbook - TechRadar. We're still co
 The FAQ of TechRadar defines the metrics we use to validate the topics. Other than that, it explains the reason and the benefit we end up having after then. It's challenging to keep moving alongside the industry, and Dwarves TechRadar is the first step we take to make it more interesting 💪
 
 ## YOU'RE STILL THERE?
-

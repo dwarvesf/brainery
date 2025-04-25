@@ -486,4 +486,3 @@ However, there are **certain limitations** you might face while running a WebAss
 7. Since a `WebAssembly` module is **analogous to ES6 modules**, we should be able to import `.wasm` file using import syntax. This proposal has been under active development (source) and yet to be standardized by `Ecma`.
 
 Despite these limitations, `WebAssembly` has a bright future and WebAssembly teams and open-source contributors are addressing these issues. These issues and other enhancements will be part of the post-MVP phase of WebAssembly.
-

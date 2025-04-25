@@ -44,4 +44,3 @@ These innovations reflect a broader AI boom in Vietnam and South East Asia. Acco
 Not everything was great. Some AI chat tools were for small silly stuff, kind of weak. One guy called his idea “big news” but it felt fake so I tuned out. Still the good ones solve real problems and the crowd was pumped. New people are coming to Vietnam to start things, it’s a vibe I could feel even if I didn’t count them.
 
 That was my week, and I’m feeling good about it. The Web3 event showed me things are shifting, maybe getting ready for something bigger. The AI night was bursting with fresh ideas, and even with some worries, the energy there was electric. Vietnam’s alive with people chasing dreams and building cool stuff. I think we’re onto something real here, not just noise, and it’s only going to grow. What do you think? Can’t wait to see what’s next. Catch you soon.
-

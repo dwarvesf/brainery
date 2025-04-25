@@ -26,4 +26,3 @@ Yasuhiro Matsumoto
 ## License
 
 under the MIT License: http://mattn.mit-license.org/2013
-

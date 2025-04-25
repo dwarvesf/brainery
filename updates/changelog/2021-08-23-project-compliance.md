@@ -52,4 +52,3 @@ Our ultimate goal is to build and ship software. That starts with our engineers 
 That's it for the this issue. See you next time.
 
 Han & the Dwarves
-

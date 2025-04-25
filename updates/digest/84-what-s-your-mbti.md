@@ -36,4 +36,3 @@ We've just launched some new places for Turing Alley on social
 - LinkedIn: linkedin.com/company/turing-alley
 - and an article on Our purpose: linkedin.com/pulse/purpose-turing-alley-turing-alley/
   ![](assets/notion-image-1744006963118-wami3.webp)
-

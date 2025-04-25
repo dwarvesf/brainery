@@ -22,4 +22,3 @@ February All-hands Meeting is coming this Friday, March 3rd, 2023. Please reserv
 Say cheers to a happy working week.
 
 ![](assets/notion-image-1744007315999-rd9to.webp)
-

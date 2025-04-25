@@ -24,4 +24,3 @@ One of our goals this cycle is to upgrade the current workflow and create a bett
 ### Memo: Go the extra mile
 
 A small post on our aspect for work. Going the extra mile can be seen as a standard to distinguish the good and the outstanding. Having the spirit of going extra at work means you don’t settle for average, but aiming to deliver beyond the expectation.
-

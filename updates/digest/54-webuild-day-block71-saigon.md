@@ -28,4 +28,3 @@ Bumped into this news a few days ago (and maybe some of you have read it already
 This year has been a hard year for Airbnb due to the invasion of Covid-19, it'a hard to forget when they laid off nearly 25% of the team resource, though after the first day of IPO, their valuation was roughly at $100B.
 
 But unlike WeWork, Airbnb’s business model has proven its ability to generate a positive cash flow, which means the company can grow organically without relying on external funding to survive.
-

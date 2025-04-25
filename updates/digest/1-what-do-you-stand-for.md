@@ -45,4 +45,3 @@ Has anyone heard from @bien lately? Hope he's doing alright. And @vincent, did y
 Let's keep the conversation going and the good times rolling. See you around next week for a catch-up.
 
 ![random](assets/1-what-do-you-stand-for_2024-weekly-digest-april-8_2024-weekly-digest-april_2024-first-digest-random.webp)
-

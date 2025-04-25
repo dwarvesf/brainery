@@ -69,4 +69,3 @@ Rolling out two new series this month: a Product Design Weekly and an AI Digest.
 We took a moment to celebrate to celebrate the women at Dwarves. We marked the occasion with a round of gifts and a cozy team dinner - just a simple way to say thanks to the incredible women who shape our team and bring heart to our work every day.
 
 ![](assets/2024-whats-new-oct-women-day.png)
-

@@ -57,4 +57,3 @@ We are looking for the following talents to join our team
 - Admin / Ops (Fulltime)
 
 Email us at <spawn@d.foundation> or ping @nikki on Discord for JDs / to refer someone you know. TIA!
-

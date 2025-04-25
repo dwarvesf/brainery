@@ -32,4 +32,3 @@ Dwarves Mountain Hub has been ready to welcome you. Built by Dwarves & opened fo
 Note: June insurance card batch has been sent to those who passed probation or registered for Bao Minh insurance card. Expected to meet you in the next 2-3 days.
 
 ![](assets/notion-image-1744007364236-hpv1j.webp)
-

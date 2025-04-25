@@ -142,4 +142,3 @@ Because timescale table will be spitted into multiple chunks so if we use normal
 ![Symbol Analysis](assets/symbol-analysis.png) _Figure 3: Future PNL Analysis Symbol Tab_
 
 ![Symbol Analysis](assets/funding-and-transaction.png) _Figure 4: Future PNL Funding and Transaction Tab_
-

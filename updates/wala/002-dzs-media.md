@@ -41,4 +41,3 @@ In our line of work, we hear and talk about domain knowledge all the time. WALA 
 Through stories collected from Techie WALAs, we hope our community members get the chance to learn from others' successes and failures, gain insights into what works and doesn't, and reflect on their own works and practices.
 
 Besides, breaking away from the stereotype of "tech people are introverts" is always fun.
-

@@ -150,4 +150,3 @@ The key value proposition of Blockchain is to provide users with transparency an
 Thus, design for Blockchain is the most critical challenge for raising adoption. Effective UX design is essential to create useful and valuable applications. This keeps end-users comfortable and, eventually, forget about the sophisticated underlying technology.
 
 Although Blockchain will change and develop in the future, the principle remains the same. That means product designers must always stay posted on new tech that can become a savior for users' pain points.
-

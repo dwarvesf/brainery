@@ -36,4 +36,3 @@ The study of volume 01 consists of
   - SSH
   - SSL
   - Blockchain
-

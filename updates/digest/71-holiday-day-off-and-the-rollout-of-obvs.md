@@ -57,4 +57,3 @@ It's been a year since the first release of GitHub CLI. Coming back this time wi
 - Return: 22/04/2021
 - Leave: 30/04/2021 - 03/05/2021
 - Return: 04/05/2021 (Tuesday)
-

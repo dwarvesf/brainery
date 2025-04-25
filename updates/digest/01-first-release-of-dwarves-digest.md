@@ -58,4 +58,3 @@ There are also News - for the up-to-date information we wish to share externally
 
 We know it's hard for you to keep checking up the Activity section in Basecamp to catch up with the team, but at some point you'll feel being left out. That sucks! Weekly Digest is the tool we're creating to make sure everyone stays abreast of the news, and Content Pipeline is layering the first bricks.
 Should you feel the urge to help us make it happen, ping Duy for more info. We welcome all the support!
-

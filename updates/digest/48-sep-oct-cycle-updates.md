@@ -12,4 +12,3 @@ We’ve wrapped up another cycle of 2020. Road to the end of 2020, our next step
 The detailed changelog has been updated in Woodland Message Board, in case you missed it.
 
 and yes, hope you all felt great with the team retreat last night at Bia Craft. I mean, based on the photo, I can tell.
-

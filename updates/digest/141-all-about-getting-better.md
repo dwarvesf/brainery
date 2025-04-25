@@ -29,4 +29,3 @@ Oct team dinner
 Last week team dinner is on fire, like literally. See, it’s good to see these shy souls get comfortable and just have a damn good time!
 
 ![](assets/notion-image-1744007352985-wulz4.webp)
-

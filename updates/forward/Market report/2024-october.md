@@ -94,4 +94,3 @@ Looking at job descriptions, common areas of expertise include **platform buildi
 - [https://docs.anthropic.com/en/docs/build-with-claude/computer-use](https://docs.anthropic.com/en/docs/build-with-claude/computer-use)
 - [https://www.apricitas.io/p/the-ai-investment-boom](https://www.apricitas.io/p/the-ai-investment-boom)
 - [Alphabet 2024 Q3 earnings call](https://www.youtube.com/watch?v=wjkf4t8BfLM)
-

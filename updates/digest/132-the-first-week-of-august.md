@@ -16,4 +16,3 @@ Mid Autumn is coming closer, and so is our prep to make it more memorable. We'll
 
 First iOS note from the team
 Proud to announce that we've got the first iOS note on Brainery, thanks to the contributions of @Trung Phan. August Brainery Batch has opened, and as usual, we welcome every effort. Open a PR at <https://github.com/dwarvesf/brain> and drop your first note.
-

@@ -29,4 +29,3 @@ We’ll be taking off days with details as below
 - Close date: From Saturday, April 09 to Monday, April 11
 - Resume date: Tuesday, April 12, 2022.
   If the working schedule somehow crosses your day off, pls ping Gthan or nikki for better support. Wish you have a good time with your loved ones ♡
-

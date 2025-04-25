@@ -20,4 +20,3 @@ WHERE file_path ILIKE '%changelog%'
 ORDER BY date DESC
 LIMIT 10;
 ```
-

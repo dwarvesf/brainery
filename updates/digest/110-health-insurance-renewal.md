@@ -18,4 +18,3 @@ Skip Level Meeting
 Book a casual chat to resolve what’s blocking you, either in work or life. It’s also a chance to hear your feedback on how the team is operating. For details registration, visit this msg here <https://discord.com/channels/462663954813157376/907727610417655898/940555688122396732> - We’re all ears to listen to your thought.
 
 Last Monday held a topic from Tom - Working with logs in Grafana Loki. In case you missed it - stop by our youtube streaming at <https://www.youtube.com/watch?v=_RQ27dBta20>
-

@@ -37,4 +37,3 @@ A big congratulations to our Dwarves of 2021! And thank you to all the Dwarves t
 ![merch](assets/2021-dwarves-of-the-year_df-merch.webp)
 
 ![real-merch](assets/2021-dwarves-of-the-year_real-merch.webp)
-

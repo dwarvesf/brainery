@@ -150,4 +150,3 @@ We're still on the lookout for talented folks to join the team:
 Think you're a fit or know someone who is? Drop us a line at [spawn@d.foundation](mailto:spawn@d.foundation) or ping [@nikki](https://memo.d.foundation/contributor/nikki) on Discord.
 
 ![](assets/2024-whats-new-november-hiring.png)
-

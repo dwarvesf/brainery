@@ -40,4 +40,3 @@ As an effort to fine-tune our HR branch, Van has finished on some points of view
 We'll get back with the next pool on Aug 15, hope to see more of the likes 👋
 
 ![](assets/notion-image-1744006965473-cgwnw.webp)
-

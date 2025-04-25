@@ -292,4 +292,3 @@ The successful work with Salt Cancer Initiative kicked off our willingness to co
 We continue to build Dwarves Foundation the same way we do software. It works and gets bugged along the way, but the new version gets released continuously.
 
 The door of 2021 is opening with many questions. Seeking the answers and enjoying coding along the way sounds like a good plan.
-

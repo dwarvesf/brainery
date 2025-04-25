@@ -38,4 +38,3 @@ And finally, the new covid wave is hitting Vietnam so hard. Make sure you are st
 ![](assets/notion-image-1744006952060-5kgi7.webp)
 
 ![](assets/notion-image-1744006952422-dhoaa.webp)
-

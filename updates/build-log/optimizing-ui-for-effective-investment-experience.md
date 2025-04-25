@@ -118,4 +118,3 @@ From research and UI optimization, we have identified several important takeaway
 By using the right charts, showing less information, and making data easy to understand, Hedge Foundation makes things better for users. Better dashboards, clear information, and good charts make trading simpler, reduce mistakes, and help with investment results.
 
 Looking ahead, integrating AI and advanced data analytics will continue to refine UI/UX, enabling hedge funds to optimize their strategies and deliver greater value to investors.
-

@@ -54,4 +54,3 @@ Effective prompting requires structured frameworks, such as **RACE** (Role, Ac
 ### Closing remarks: Prompting for the future
 
 As UX designers continue to master the art of prompting, collaboration and experimentation are key. Prompting will evolve as a tool to shape human-AI interactions, ensuring that AI is used responsibly and effectively. Designers must take on the challenge of refining these systems, ensuring meaningful and transparent communication between humans and machines, just as UX shaped the first generation of graphical user interfaces.
-

@@ -67,4 +67,3 @@ The White House Office of the National Cyber Director's report on cybersecurity 
 - [AWSLabs](https://github.com/awslabs/llrt)
 - [Nvidia CEO: Don't learn to code](https://fusionmarketer.com/industry-news/dont-learn-to-code-nvidia-ceo-jensen-huang/)
 - [Sora](https://openai.com/sora)
-

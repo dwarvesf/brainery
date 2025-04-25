@@ -53,4 +53,3 @@ See everyone in the next event with many more talents.
 ---
 
 _Momby is available for download on the App store and Google Play. Alive & Thrive and the FHI Solutions Innovation Incubator is supporting the app's roll-out in Myanmar, Philippines, Indonesia, Cambodia, and India over the next three years._
-

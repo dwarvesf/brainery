@@ -28,4 +28,3 @@ We’re glad to see more contributions to our brain repo. Kudos on the good work
 There is a way to submit besides Discord - GitHub. So if you’re planning to join the Learning team, send @Tom your notes.
 
 Congrats @Nguyen Hieu Nghia#6181 for passing his probation with 3 upvotes from teammates. Keep up with good work, buddy.
-

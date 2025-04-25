@@ -16,4 +16,3 @@ It's good to see the topics are getting diversified. Thanks for putting the grea
 November All hands meeting is coming, prolly next week. We're coming closer to the end of 2021. Normally, we have a team retreat trip by then. We haven't thought of a detail plan yet, since the pandemic is still happening. In case the trip can't make it - the team will convert this budget into allowance for workstation upgrade. We'll keep you posted 🤙
 
 And lastly, let's give a warm welcome to
-

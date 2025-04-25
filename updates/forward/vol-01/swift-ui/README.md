@@ -491,4 +491,3 @@ See the padding here? No? But look at the picture!
 - [https://kean.github.io/post/swiftui-layout-system](https://kean.github.io/post/swiftui-layout-system)
 - [https://www.hackingwithswift.com/quick-start/swiftui/answering-the-big-question-should-you-learn-swiftui-uikit-or-both](https://www.hackingwithswift.com/quick-start/swiftui/answering-the-big-question-should-you-learn-swiftui-uikit-or-both)
 - [https://swiftwithmajid.com/2019/06/12/understanding-property-wrappers-in-swiftui/](https://swiftwithmajid.com/2019/06/12/understanding-property-wrappers-in-swiftui/)
-

@@ -780,4 +780,3 @@ Cobra can generate zsh-completion file. Read more about it in
 # License
 
 Cobra is released under the Apache 2.0 license. See [LICENSE.txt](https://github.com/spf13/cobra/blob/master/LICENSE.txt)
-

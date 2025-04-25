@@ -55,4 +55,3 @@ Hosted by An Duong and Huy Nguyen, Introduction Craftsmanship webinar lasted for
    A side-by-side comparison between Agile and Craftsmanship, and how we manage to combine the two into our working system. Other than that, this part also demonstrated how we pursue Craftsmanship at DF, through a number of values and knowledge research activities.
 
 The transcript of the talk is being polished and expected to reach you all in no time. Meanwhile, the team has upload the presentation slide in PDF version in Team Drive.
-

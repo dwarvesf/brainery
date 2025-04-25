@@ -73,4 +73,3 @@ After a few weeks run, these two new bots are going official:
 - 👍 Reaction Bot: To get project review through changelog
 - 📈 Upsert Bot: To update new fella who joins us through subscribing
   ![](assets/notion-image-1744006942098-q4hgd.webp)
-

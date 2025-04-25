@@ -65,4 +65,3 @@ Standing back and watching these moments unfold hit different. The real win? Giv
 Here's to the incredible family we've built - one that makes every summit feel like a homecoming. When we come together, it feels like we were never apart.
 
 ![](assets/2024-summit-building-bonds-our-way-team-6.png)
-

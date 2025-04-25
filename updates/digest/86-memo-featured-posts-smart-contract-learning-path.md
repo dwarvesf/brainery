@@ -46,4 +46,3 @@ I think it's like learning a new API interface and easy to pick up. Huy, Tay, Qu
 ### Reminder on Performance Review
 
 Around 15s performance review sessions were conducted last week, and many more are to come. If you haven't submitted your self-review, please do shortly and schedule a 1-1 with your leader next week.
-

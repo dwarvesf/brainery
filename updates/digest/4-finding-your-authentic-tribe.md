@@ -55,4 +55,3 @@ And hey, taking a look back at those epic moments like cheering on @nam for his 
 Thank you for being such a great team player @thangnt @lapnn. I hope you have a super day and get everything you want. Here's to an epic birthday bash – enjoy every moment, you deserve it.
 
 ![](assets/4-finding-your-authentic-tribe-copy_4-finding-your-authentic-tribe-birthday.webp)
-

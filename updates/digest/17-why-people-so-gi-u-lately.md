@@ -69,4 +69,3 @@ During one week, we're piling up the team's publication with 3 blog posts on Med
 ### The Dwarves Team ⚒
 
 We welcomed another Dwarves earlier this week! Nhut Huynh is a fresher and will be working under the supervision of Quynh to better perform his part as QC Engineer ✔️
-

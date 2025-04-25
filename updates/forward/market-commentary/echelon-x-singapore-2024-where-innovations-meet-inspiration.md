@@ -86,4 +86,3 @@ As we look to the future, one thing is clear: new tech will shape innovation. Ti
 After Echelon X 2024, we left with a sense of achievement, new insights, and valuable connections. The event provided a clear view of current trends and future developments in the SEA tech market.
 
 ![](assets/echelon-x-singapore-2024-where-innovations-meet-inspiration_echelon-x-summit-recap_echelon-recap.webp)
-

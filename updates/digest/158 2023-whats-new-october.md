@@ -96,4 +96,3 @@ Our free FE Course is successfully finished. The stats are astounding, because c
 > - Radio Talk (Weekly, Monday): sharing technical learning, demos, showcases
 > - Tech Event (Monthly): sharing programming trends, tech trends, panel discussions
 > - Community Call (Monthly): summary wins and growth of the month
-

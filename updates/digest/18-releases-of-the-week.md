@@ -55,4 +55,3 @@ Looks like the team is getting bigger day by day. We welcomed another Frontend E
 It's Van Tran's first time to work remotely, and he is very interested to join our remote system by dropping his home desk shot at our Snap shot campaign!
 
 ![](assets/notion-image-1744007190010-echis.webp)
-

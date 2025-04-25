@@ -75,4 +75,3 @@ There are many applications has been compiled to run in the browers. I would lik
 #### 7. Ring
 
 (Optional) Hold
-

@@ -167,4 +167,3 @@ The tool returned good results to the questions within a reasonable time (around
 [2] <a id="ref-2"></a> "Textrank: Bringing order into text", R Mihalcea and P Tarau (2004)
 [3] <a id="ref-3"></a> "The PageRank citation ranking: Bringing order to the web", L Page, S Brin, R Motwani and T Winograd (1999)
 [4] <a id="ref-4"></a> "A probabilistic justification for using tf x idf term weighting in information retrieval", D Hiemstra (2000)
-

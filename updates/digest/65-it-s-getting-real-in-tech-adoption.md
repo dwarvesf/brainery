@@ -48,4 +48,3 @@ An engineer’s work required the involvement of Steam VR, which only supports W
 Brave buys a Search Engine
 
 The battle of data privacy somehow triggers some business ideas. Brave is planning on creating its search engine, with a strong focus on protect user’s privacy by promise no-ads , no profiling and no tracking. They even acquired Tailcat to better create the experience. Though it doesn’t plan on taking over the market of Google (bc to be frankly that’s impossible), but a new search engine without ads and data tracking sounds like a good thing to expect.
-

@@ -50,4 +50,3 @@ As newsletters have been invading my work lately, finding this tool is pretty ni
 git-plan
 
 Your tool should be designed to switch context when you do. A developer (maybe) explained how the current git commit workflow isn't working so well. He came up with a magic pill, git plan commit that allows developers to use the previously-written plan as a template to commit message. It's open-sourced too, for anyone who wants to contribute.
-

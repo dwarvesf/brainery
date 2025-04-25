@@ -26,4 +26,3 @@ Next week should be the 2nd payment through TransferWise, the borderless bank ac
 After the 1st trial, though some of the Dwarves had trouble with withdrawing and transferring the money to your local bank, it's safe to say this type of payment is making good progress.
 
 For further steps, we're considering making the payment 1 or 2 days in advance. This adds more time for the transferring between TFW account and your Vietnam account to make sure your local bank receives the income by the time you need
-

@@ -106,4 +106,3 @@ This year’s National Day falls in a Wednesday, as we’re pleased to inform wi
 - Leave: 02/09/2020 (Wednesday)
 - Return to work: 03/09/2020 (Thursday)
   Hope it’s a great 24hrs ahead for you all to enjoy to the fullest 🤙🏽
-

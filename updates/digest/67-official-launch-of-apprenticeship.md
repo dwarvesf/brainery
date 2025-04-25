@@ -53,4 +53,3 @@ A short article that explains why golang packaging can outweigh docker in terms 
 Tinder now supports background check
 
 To make sure you won't spending dinner with a serial killer, Tinder has finally decided to save user's effort by partnering with Garbo - a female-founded non profit group on embedding technology into Tinder for account's background check. Garbo collects public violence/ abuse record and other reports on violent crimes. A smart move, if it actually works. Tinder was created to match alike people and somehow they're turning it to a place for booty calls, which somehow cause bad images. Integrating this kind of technology can drive people's awareness and accelerate its growth in a better way.
-

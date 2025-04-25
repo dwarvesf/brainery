@@ -35,4 +35,3 @@ We create a portal in Notion for leaving request.
 From now on, project changelog in Notion will have real-time update whenever project member submit their leave-request in Basecamp.
 
 ![](assets/notion-image-1744006959189-2gxev.webp)
-

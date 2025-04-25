@@ -57,4 +57,3 @@ A blog post from personal experience during Elixir code. Some practices and alte
 Discord Nitro Free
 
 Discord has just rolled out the Nitro boost free, a limited offer for first-time Nitro users. Discord Nitro is a feature where adopted users get to create the animated avatar, custom tags and personal emojis
-

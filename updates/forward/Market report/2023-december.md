@@ -59,4 +59,3 @@ A recently open-sourced library from Facebook aiming to compete with CSS-in-JS, 
 - [https://journal.everypixel.com/2023-the-year-of-ai](https://journal.everypixel.com/2023-the-year-of-ai)
 - [https://deno.com/blog/v1.39#webgpu-is-back](https://deno.com/blog/v1.39#webgpu-is-back)
 - [https://webkit.org/blog/14879/webgpu-now-available-for-testing-in-safari-technology-preview/](https://webkit.org/blog/14879/webgpu-now-available-for-testing-in-safari-technology-preview/)
-

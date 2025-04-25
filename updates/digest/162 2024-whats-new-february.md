@@ -72,4 +72,3 @@ With our average project size at $30,000, a partner can generate at least $2,400
 But a stable income is not all we offer, there are [[Partners Network|other perks and benefits]] too!
 
 [Reach out to Nikki](mailto:nikki@d.foundation) if you're interested or know someone who might :)
-

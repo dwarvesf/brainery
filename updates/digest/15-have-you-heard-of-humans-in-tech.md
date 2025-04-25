@@ -44,4 +44,3 @@ We still expanding the field of topics and reaching for more cool stuffs. If you
 ![](assets/notion-image-1744007162736-j7wwp.webp)
 
 Still there are rooms to improve, those were the mini achievements we were glad to reach. Our next moves is to go hard for branding and community, therefore the intervention of Humans in Tech and GDE application are strongly encouraged to expose yourself to the tech world, and we hope, as a team, you'll find a reason to be a part of it.
-

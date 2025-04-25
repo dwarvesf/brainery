@@ -20,4 +20,3 @@ LEARN IN PUBLIC
 Wrap up this year, with many untold stories in our learning journeys. Give a big thank you to @monotykamary#6285 for loading and managing all the brainery notes and contributions throughout the year.
 
 Visit December's latest notes: <https://brain.d.foundation/Latest+Notes>
-

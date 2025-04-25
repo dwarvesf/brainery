@@ -54,4 +54,3 @@ It's about time for DOTY. Voting form will be open from the middle of Dec ✌️
 Discord will be our next handout place. We'll start to public the team demos here as well.
 
 Please be well-noted: All the project/ workflow/ useful techniques demo comes with reward 😎 This is also a part of the Engage to Earn Model which Nam has been working on lately.
-

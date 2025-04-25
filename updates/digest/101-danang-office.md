@@ -16,4 +16,3 @@ The whole place is still under some last touches, and interior will be setup aft
 Da Nang team is looking for teammate. The 1-way ticket policy will soon to be applicable. Just ping a.Bao if you plan to move here for a while ✈️
 
 ![](assets/notion-image-1744007419212-pc16s.webp)
-

@@ -22,4 +22,3 @@ As we’re calling for some hands to help with the culture code write up, there�
 It’s a few days left until our End of Cycle Dinner. We have received many RSVP from the Dwarves. If you haven’t drop yours yet, please do help to comment in this thread. It would be nice to have another suggestion on the venue also. The current options are BiaCraft, Zumwhere and Kpub.
 
 It’s been forever since our last catch up on the 5th Anniversary, let’s don’t miss this!
-

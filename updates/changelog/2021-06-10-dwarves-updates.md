@@ -44,4 +44,3 @@ For the detail of the Apprenticeship Program, check out [here](https://memo.d.f
 That's it for the first release. See you next time.
 
 Han & the Dwarves.
-

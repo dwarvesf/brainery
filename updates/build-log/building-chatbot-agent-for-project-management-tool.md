@@ -1,6 +1,6 @@
 ---
 title: Building chatbot agent to streamline project management
-description: A technical case study detailing the implementation of an AI chatbot agent in a project management platform. Learn how the team leveraged LangChain, LangGraph, and GPT-4 to build a multi-agent system using the supervisor-worker pattern. 
+description: A technical case study detailing the implementation of an AI chatbot agent in a project management platform. Learn how the team leveraged LangChain, LangGraph, and GPT-4 to build a multi-agent system using the supervisor-worker pattern.
 date: 2024-11-21
 authors:
   - zlatanpham
@@ -170,4 +170,3 @@ The implementation of the chatbot agent has significantly streamlined project ma
 The scalable and extensible architecture, built using the supervisor-worker pattern and powered by LangChain and LangGraph, allows for future enhancements and the addition of new functionalities without compromising performance. The integration of LangSmith ensures robust debugging, testing, and monitoring capabilities, maintaining the chatbot's accuracy and reliability.
 
 The successful adoption of the chatbot agent has resulted in increased productivity, improved user satisfaction, and reduced cognitive load for project managers and team members alike. As we continue to iterate and improve upon the chatbot agent, we remain committed to delivering a seamless and intelligent project management experience for our users.
-

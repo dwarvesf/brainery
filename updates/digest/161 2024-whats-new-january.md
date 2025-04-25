@@ -79,4 +79,3 @@ Thank you to all the team members, partners, alumni and community members who jo
 
 - Top contributors to our Discord server this month brought in a lot of new knowledge. Thank you, and we hope you enjoy your $ICY rewards.
 - Some members asked if we will have any training courses soon. While we don't yet have the answer, as we're still planing for 2024, you can join us on Discord so you'll get notified when we do!
-

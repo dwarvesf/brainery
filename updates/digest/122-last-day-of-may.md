@@ -13,4 +13,3 @@ Let's look at May's hall of fame. No sweat if you're busy and can't attend their
 
 May All-hands meeting will take place this Friday, June 03 - 5PM. Hope to meet all of you there.
 Prolly a team dinner after that, I'm not sure. Let's wait for @thuongptt's msg.
-

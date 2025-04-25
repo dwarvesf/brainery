@@ -16,4 +16,3 @@ Covid Campaign is a program we started a few weeks ago with an aim to deliver th
 We’ve been starting to reach out for most of our connection, and thanks to Huy G & Anh T, a whole new website for further detail.
 
 ![](assets/notion-image-1744007007907-yem7o.webp)
-

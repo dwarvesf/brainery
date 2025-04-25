@@ -37,4 +37,3 @@ Check it out on Dwarves Playbook.
 ### Short Reminder
 
 We’re heading closer to the end of June, which means another cycle is about to wrap up. It’s about time to sort back all the todos, noted down what went well and define what’s the next milestone. Hope you have everything under control.
-

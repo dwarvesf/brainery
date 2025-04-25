@@ -41,4 +41,3 @@ But then the hit of Covid that turns everyone's focus back to PCs, this might be
 The trial on M1
 
 A short blog post on a 3-month journey of using Apple M1 chip, which I believe is kinda related to our team lately. I guess we’re all agree that M1 performs splendidly on the processing speed and the robust battery life. Until the running of Docker and other applications cause slow performance, not to mention the consumption of disk space for editors like Xcode. Like all of us, the author witnessed the same points. How’s your journey with M1 so far ?
-

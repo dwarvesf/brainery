@@ -52,4 +52,3 @@ Here’s to rock 2022!
 We shift our focus to real deals.
 
 Meanwhile, #blockchain #web3 channels are there for the Dwarves to learn & exchange their knowns. Grab your seat.
-

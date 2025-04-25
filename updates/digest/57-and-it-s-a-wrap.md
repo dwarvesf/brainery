@@ -36,4 +36,3 @@ Microsoft’s source code gets visited by SolarWinds
 Seems like user's data isn't the only privacy that gets violated last year. As you may recall, it happened with GHTK not too long ago.
 
 Despite its well-known history of being particularly careful about cybersecurity, Microsoft received a big hit when its source code got touched by SolarWind hackers. In the rumors, Microsoft still claims there's no evidence of access to production services. But even if it's true, reviewing the code can still allow hackers to analyze the insight and subvert Microsoft's product. This reminds me of Prison Break, where Michael collects the blueprint and figures different alternative exit instead of one.
-

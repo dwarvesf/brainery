@@ -27,4 +27,3 @@ These twos are the latest rookies in our blockchain-based work of Console Lab. I
 ### Salary Adjustment
 
 Just wanna confirm you all have received the adjustment note as announced. Hope you're all happy with the result & keep the good work coming 💯
-

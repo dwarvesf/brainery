@@ -72,4 +72,3 @@ Remote Working
 Most of the team has been working remotely since Monday to better spend their time with the family during this Lunar New Year Holiday. As we wouldn't be able to meet each other until the beginning of February, please make sure you manage to wrap up all the work before our day-off begins, which is Jan 23rd, so that the rest of the Holiday can be a perfect and relax time to consume.
 
 And most important, on behalf of the Dwarves brothers, we do wish you the greatest Lunar New Year Holiday! 🖤
-

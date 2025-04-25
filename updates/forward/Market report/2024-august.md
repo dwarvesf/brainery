@@ -114,4 +114,3 @@ We think this approach will push the prototyping process further and faster, eve
 - [https://www.anthropic.com/news/prompt-caching](https://www.anthropic.com/news/prompt-caching)
 - [https://openai.com/index/gpt-4o-fine-tuning/](https://openai.com/index/gpt-4o-fine-tuning/)
 - [https://blackforestlabs.ai/#get-flux](https://blackforestlabs.ai/#get-flux)
-

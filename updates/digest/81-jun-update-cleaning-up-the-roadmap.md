@@ -34,4 +34,3 @@ Brave bought Tailcat an independent search engine 3 months ago, promising to cre
 GitHub is bring a spreadsheet-like canvas into their issues and pull request, making things easier for team collaboration through customized views. The new feature helps break issues into actionable tasks, supports auto-merge on pull request and dependency review. Github Discussion also provides a space to work on daily FAQs through open-ended conversations.
 
 and ofc, pretty much sums up the rollout of Windows 11 with full discussion of HN community.
-

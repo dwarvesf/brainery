@@ -60,4 +60,3 @@ A significant advantage of switching to Preact from React is the smaller bundle 
 - Artzy
 - Aharooms
 - WeGo Coffee
-

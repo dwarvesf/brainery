@@ -47,4 +47,3 @@ On last Monday, Feb 3rd, we were thrilled to welcome two more Dwarves to join ou
 ![](assets/notion-image-1744007171011-8nn4h.webp)
 
 ![](assets/notion-image-1744007171170-hlz4j.webp)
-

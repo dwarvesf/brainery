@@ -32,4 +32,3 @@ Christmas Wish from The Dwarves
 Let’s take a second to thank our Design team for this lovely Christmas card. But the fun hasn’t ended yet. We’ll make sure you have something to excite about next Monday. Wait and see!
 
 ![](assets/notion-image-1744007182341-8dwbi.webp)
-

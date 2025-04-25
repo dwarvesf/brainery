@@ -86,4 +86,3 @@ So far, we have come up with 2 classes already. Take a look at the Class Notes
 Anh Han also launched a training class for our engineers to re-define the meaning of quality software. Huy N. and Phat are taking the class at this moment.
 
 Should you find yourself seeking for a further definition of software, or just simply want to spend time to work on bettering your competency, give anh Han a ping.
-

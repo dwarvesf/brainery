@@ -58,4 +58,3 @@ In the meantime, we're sending Thanh and his family all the best as they navigat
 ![](assets/13-more-than-lines-of-code_13-more-than-line-code-new-born.webp)
 
 From tech tips to tiny toes, this week's digest reminds us that we're more than just a team. So, whether you're sharing a memo, a vacation snapshot, or a life-changing announcement, remember: that we're here to celebrate it with you.
-

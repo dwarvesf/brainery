@@ -61,4 +61,3 @@ That's a wrap for October! 2 months left to finish 2021. Idk about you, but I'm 
   Nam has finished setting up for Techie Story's place on Vietcetera - and landed a spot in Build.Launch.Grow Discord Server. We road to spread the inspiring stories further - especially in tech startups & blockchain technology.
 
 WeBuild Community is moving to Discord. Apart from that, we're giving PR support for different tech events. GDG DevFest & Lazada The Geek Speaks are currently running.
-

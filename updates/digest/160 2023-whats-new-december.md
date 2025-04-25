@@ -96,4 +96,3 @@ Email us at <spawn@d.foundation> or ping @nikki on Discord for JDs / to refer so
 > - Radio Talk (Weekly, Monday): sharing technical learning, demos, showcases
 > - Tech Event (Monthly): sharing programming trends, tech trends, panel discussions
 > - Community Call (Monthly): summary wins and growth of the month
-

@@ -70,4 +70,3 @@ Future versions could include a dynamic, “agentic” system that tailors the i
 ### Conclusion
 
 Within just two weeks, we delivered a functioning MVP that effectively tests the concept of **AI-driven, real-time voice interviews** for sales candidates. Despite its rapid development, the solution has already shown considerable potential in reducing hiring bottlenecks, providing objective evaluations, and opening doors for more advanced features like video analysis and role-based interview agents. This success confirms our commitment to leveraging cutting-edge AI technologies to drive efficient, unbiased hiring solutions.
-

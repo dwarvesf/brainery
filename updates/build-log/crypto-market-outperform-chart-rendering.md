@@ -146,4 +146,3 @@ _Code 3: Code snippet to construct MarkAreaNameCoordItem depend on trade period_
 This project demonstrates how we can combine Golang and go-echarts to build powerful visualizations that provide deep insights into crypto trading performance. By integrating market trends, historical PnL data, and trading rounds into a single chart, we create a tool that allows traders to make informed decisions with clarity and precision.
 
 The challenges of aligning multiple datasets, ensuring readability, and maintaining meaningfulness were overcome with careful design and thoughtful implementation. This visualization not only simplifies the analysis of complex trading data but also empowers users to refine their strategies and improve efficiency. As the crypto market continues to evolve, tools like these will be indispensable for staying ahead of the curve.
-

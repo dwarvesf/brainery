@@ -52,4 +52,3 @@ According to the Supreme Court, who handed Google a victory over the battle: Pre
 FB and the continuous fault in Data breach
 
 FB belike oops, I did it again. Leaked info has been verified by matching phone numbers with the ID list in the data set. The 533 million records are an entirely different data set that attackers created by abusing a flaw in a Facebook address book contacts import feature.
-

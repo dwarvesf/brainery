@@ -120,4 +120,3 @@ The key points indicate that companies will continue to be selective and conserv
 - [https://martinfowler.com/articles/legacy-modernization-gen-ai.html](https://martinfowler.com/articles/legacy-modernization-gen-ai.html)
 - [https://molily.de/something-went-wrong/](https://molily.de/something-went-wrong/)
 - [https://www.reddit.com/r/nextjs/comments/1f92jdv/chatgptcom_switched_from_nextjs_to_remix/](https://www.reddit.com/r/nextjs/comments/1f92jdv/chatgptcom_switched_from_nextjs_to_remix/)
-

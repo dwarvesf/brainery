@@ -20,4 +20,3 @@ It was a month of growth and achievement, and it's thanks to all of you.
 For those who wants to take a detailed look, this is our August Changelog.
 
 ![](assets/notion-image-1744007437772-tqc48.webp)
-

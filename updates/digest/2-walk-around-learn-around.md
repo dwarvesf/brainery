@@ -55,4 +55,3 @@ The price of gold had been on a wild ride, hitting all-time highs for several da
 Wishing all the best for @fuatto and @tay on their birthdays last week. Here's to another year of adventures, laughter, and unforgettable moment. Cheers to you both, and may your birthdays be as legendary as you are.
 
 ![birthday](assets/2-walk-around-learn-around_2024-weekly-digest-april-15_2024-digest-2.webp)
-

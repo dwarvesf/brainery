@@ -14,4 +14,3 @@ Reminding you again, 1-way Flight tickets to our work hubs are enabled as your w
 Another highlight of Monday, on behalf of Agile Software Development practices theme, @Tuan Tran had given a short presentation at 5PM. Thanks buddy!
 For anyone who missed the session, you can check it out in our Youtube channel below:
 <https://www.youtube.com/channel/UC_SyzGLf6wiqctQFsRI_frw>
-

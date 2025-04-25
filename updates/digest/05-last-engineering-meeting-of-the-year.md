@@ -65,4 +65,3 @@ Let's count down.
 Dwarves of the Year
 
 We had the final list from your recent nomination. The direction team is working on them to select the right Dwarves with the most enormous contribution and impact over the entire organization. Just a small hint: The number is increasing compared to last year 🎉
-

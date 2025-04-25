@@ -39,4 +39,3 @@ Going strong in external communication is one of our goal this year. Sharing tea
 
 - Golang-vn: has been deployed onto production. Our primary focus is to resume the activities on Facebook & Slack (post, meetup & webinar)
 - Webuild: Cuong is working on some minor task before having it gone live.
-

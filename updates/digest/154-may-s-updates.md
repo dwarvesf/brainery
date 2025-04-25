@@ -85,4 +85,3 @@ Onboarding now has become faster and more effective. In May, we applied the new 
 - @khacvy was super active with community building activities.
 - @innno\_ @nhuthm @huytq @vincent @minhlq took good care of newcomers in our community.
   Til next time. Happy coding 🙌
-

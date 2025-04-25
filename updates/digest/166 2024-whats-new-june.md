@@ -117,4 +117,3 @@ Key highlights include:
 - **Legal Support:** Favorable policies fostering innovation and growth, with improved public market governance and increased M&A activities driven by local conglomerates.
 
 ![](assets/2024-whats-new-june-tech-market.webp)
-

@@ -15,4 +15,3 @@ The insurance card has been picked up. You can pick up yours at the HaDo office 
 
 New Dwarves in town
 It's great to have some new faces to add to the team. They'll be working with us as Data and Fullstack Engineers on projects. Greetings and welcome onboard @jmsong84 & @Dung Ho.
-

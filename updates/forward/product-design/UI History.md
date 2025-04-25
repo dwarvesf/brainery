@@ -126,4 +126,3 @@ Apple has released a new version of its Mac OS called Snow Leopard (version 10.6
 - https://history.user-interface.io
 - https://www.betaarchive.com/forum/viewtopic.php?t=38736
 - https://medium.theuxblog.com/a-short-history-of-computer-user-interface-design-29a916e5c2f5
-

@@ -32,4 +32,3 @@ Hopefully, this works may briefly explain the concepts of security and drag peop
 - [Blockchain security](docs/blockchain.md)
 - [Security over SSL](docs/ssl.md)
 - [SSH](docs/ssh.md)
-

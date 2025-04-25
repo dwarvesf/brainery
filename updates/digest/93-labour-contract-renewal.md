@@ -21,4 +21,3 @@ Thanks for joining our Virtual Mid-Autumn fest last Tuesday. Hope you had a grea
 ### September All-hands meeting
 
 Srsly a month has never gone by so fast. This month's all hands will likely take place this Friday, Oct 1 at discord/any food channel. Please reserve your time. See you all there 🤞
-

@@ -43,4 +43,3 @@ The generated completion script should be put somewhere in your `$fpath` named
   specific one, doesn't make sense to re-use the bash one as the functions will
   be different).
 - Whatever other feature you're looking for and doesn't exist :)
-

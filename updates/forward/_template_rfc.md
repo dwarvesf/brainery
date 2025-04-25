@@ -40,4 +40,3 @@ We should create end-to-end examples (ideally, a tutorial) which reflects how th
 - This should be written as if it is documentation of the new user, not for experienced developers.
 
 ### All the code and document/slide + tutorial/example should be uploaded in the same directory with the RFC file
-

@@ -86,4 +86,3 @@ We still think popular UI libraries like MUI and AntD have strong positions as t
 - [Reducing hallucination in structured outputs via Retrieval-Augmented Generation](https://arxiv.org/abs/2404.08189)
 - https://ui.shadcn.com/docs/changelog#april-2024---introducing-lift-mode
 - https://www.infoq.com/articles/architecture-trends-2024/
-

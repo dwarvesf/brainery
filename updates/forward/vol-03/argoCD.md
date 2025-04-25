@@ -52,4 +52,3 @@ Deployment
 - https://argoproj.github.io/argo-cd/
 
 - https://www.inovex.de/blog/spinnaker-vs-argo-cd-vs-tekton-vs-jenkins-x/
-

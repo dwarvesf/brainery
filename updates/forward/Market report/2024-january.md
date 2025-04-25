@@ -72,4 +72,3 @@ In the industry, there is a growing **skill gap** for cybersecurity engineers, c
 - [Taskade](https://www.taskade.com/)
 - [13 Best Trading Robots for February 2024 Reviewed (techopedia.com)](https://www.techopedia.com/investing/best-trading-robots)
 - [Track These 7 Trends for Proactive Cybersecurity in 2024](https://www.isaca.org/resources/news-and-trends/industry-news/2023/track-these-7-trends-for-proactive-cybersecurity-in-2024)
-

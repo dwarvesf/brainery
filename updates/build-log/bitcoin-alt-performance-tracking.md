@@ -131,4 +131,3 @@ The techniques and knowledge presented in this post are valuable for:
 - Data analysts who are looking to gain insights into the performance of Bitcoin relative to altcoins.
 
 The post is designed to be accessible to readers with a basic understanding of trading and investing. No technical knowledge is required to follow the discussion.
-

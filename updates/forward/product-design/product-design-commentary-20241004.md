@@ -105,4 +105,3 @@ New users often begin with AI chatbots by following provided examples. However, 
 - **Minimize Complexity**: Eliminate unnecessary pop-ups and features to simplify the UX.
 - **Adapt the Experience**: Support users with timely help as they explore the app.
 - **Testing & Feedback**: Test with real users, especially those with limited AI experience, to identify pain points.
-

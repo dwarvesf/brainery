@@ -87,4 +87,3 @@ User Interface isn't only about aesthetics. It's also about usability, performan
 Gestalt Principles will be an active supporter for us during our UI design process. Before we fully understand UI's beauty and how to create it, those principles are our guidance. 
 
 However, never limit yourself to any line or principles. Rules are subjected to be broken. Feel free to stay creative. A great UI design is a harmonious combination of accessibility, feasibility, and art.
-

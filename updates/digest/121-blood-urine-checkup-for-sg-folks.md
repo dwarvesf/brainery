@@ -23,4 +23,3 @@ Internship Updates
   We have also created channel for Apprentices and Interns so newcomers can easily stay alert.
 
 Da Lat Hub is ready for work, but upgrades will keep coming. Check out these pics below on team trip last week.
-

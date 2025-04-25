@@ -150,4 +150,3 @@ Pros & Cons of each Platforms
 - Read the Human Interface Guidelines
 - Talk with Dev
 - Component Structure between Android & iOS
-

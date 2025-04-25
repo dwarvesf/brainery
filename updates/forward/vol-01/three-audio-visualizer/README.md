@@ -36,4 +36,3 @@ To get more detail of what I have just listed, please make sure to refer to thes
 
 - [ThreeJS Basic Concepts](docs/BasicThreeJS.md)
 - [Audio Analysing](docs/AudioAnalysing.md)
-

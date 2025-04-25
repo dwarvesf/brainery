@@ -32,4 +32,3 @@ The first few transcripts of Radio Talk - our weekly tech-sharing, have just bee
 This week, we’re having the last Apprentices @Nguyen Hieu Nghia onboard with us. As to express our welcome to newcomers, a welcome kit had been shipped to you on Team Dinner last Friday. Who haven’t got it? Don’t worry, @thuongptt will send it to your bed.
 
 We’ve had May All-hands meeting last Friday. We’ve upload a detailed sum up in here in case you missed it: <https://bit.ly/3xfOeaC>
-

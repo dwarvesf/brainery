@@ -75,4 +75,3 @@ So, grab your favorite snacks, rally your friends, and join us for the most thri
 Lastly, HUGE thanks to our members who have shared a lot of interesting technical stuff. You rock!
 
 Please keep sharing how we can make your days on the internet even better, including the small stuff, too small to see.
-

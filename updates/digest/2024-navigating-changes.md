@@ -75,4 +75,3 @@ Let's continue to nurture this space.
 - You will have a window of 15/30 days to adapt.
 
 5. Team leaders will pick their A-team.
-

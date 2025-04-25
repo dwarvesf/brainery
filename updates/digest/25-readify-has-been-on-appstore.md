@@ -61,4 +61,3 @@ Being in a remote team is dope. Manage your own stuff, remove the time and cost 
 Our path with Basecamp didn't cross by accident. Moving the whole theme to Basecamp wasn't easy, especially when we have gotten used to the small daily talks. At first, there wasn't much conversation transpire in Basecamp. We only touch it for project briefing and note down the to-do list.
 
 As time goes by, we're getting closer to the part where Basecamp acts as a great supporter of team communication & project development. Basically, this is how we organize things, in one place. Read the full article at Dwarves Memo - Adjust the way we work, in Basecamp style
-

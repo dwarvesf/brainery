@@ -115,4 +115,3 @@ With the subtotal prize value up to $10.000 - we equip the nominees with what th
 ## New Iconic Items
 
 ![merch](assets/2021-in-review_2021-whats-new-december_2021-december-all-hands-meeting_fd61221cb31785842fecd3ff2339aab6_md5.webp)
-

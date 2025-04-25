@@ -31,4 +31,3 @@ Be prepared and claim your seat before the date as below, @peeps.
 - Speaker: Thanh Le - Solution Architect at Google
 - Topic: Trust me, I'm an Engineer. You can ask anything
 - Time: Wed 20 July - 8PM (GMT+7)
-

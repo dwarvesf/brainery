@@ -27,4 +27,3 @@ If you'd like to be a part of the Dwarves network, we'd love to have you at our 
 See you next time.
 
 ![](assets/dwarves-2nd-community-meet-up_dwarves-2nd-meetup.webp)
-

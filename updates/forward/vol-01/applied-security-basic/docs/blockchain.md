@@ -261,4 +261,3 @@ Assuming that we have a PoS Blockchain Network. In this network, if you want to 
 <a name="ref3">[3]</a> "RFC 4634 - US Secure Hash Algorithms (SHA and HMAC-SHA)." https://tools.ietf.org/html/rfc4634.
 
 <a name="ref4">[4]</a> "Bitcoin - Open source P2P money." https://bitcoin.org/.
-

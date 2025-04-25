@@ -5,7 +5,7 @@ date: 2025-03-20
 authors:
   - baenv
   - tieubao
-minted_at: 2025-03-27
+minted_at: "2025-03-27T00:00:00.000Z"
 perma_storage_id: 4GVkldu9UdEN5Yaguw79Z5-nBykrQ-YkeGizSV4_rz0
 should_deploy_perma_storage: true
 token_id: 1
@@ -84,4 +84,3 @@ To help you get the most out of this, I’ve added a few things. You’ll see re
 #### Wrapping it up
 
 That’s my story. It’s how I turned slide-making from a hassle into something simple with Overleaf and ChatGPT. It’s not complicated, just a practical fix that gets the job done. Next time you’ve got a presentation coming up, maybe about data patterns or your own project, try this out. It’s helped me more than once, and I think it could help you too. What do you think? Give it a go, adjust it to fit you, and tell me how it works. See you at the next meeting. Your slides will be done, and the stress won’t be there.
-

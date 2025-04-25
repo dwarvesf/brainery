@@ -56,4 +56,3 @@ aider --model openrouter/openai/o1-preview --architect --editor-model openrouter
 ```
 
 ![](assets/digest-01-aider-benchamrk.webp)
-

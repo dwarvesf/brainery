@@ -107,4 +107,3 @@ Component Structure
 
 - Turn UI file/ design system into document
 - Helps to note down a detailed instruction for the team (with >2 designers). This drives better communication between designer-designer and designer-developer.
-

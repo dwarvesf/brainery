@@ -79,4 +79,3 @@ There are a lot of growing startups that are making the scene with more compelli
 - [Rust for C#/.NET developers](https://microsoft.github.io/rust-for-dotnet-devs/latest/introduction.html)
 - [Design engineer](https://maggieappleton.com/design-engineer)
 - [Design engineer](https://www.proofofconcept.pub/p/design-engineering)
-

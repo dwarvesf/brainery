@@ -20,4 +20,3 @@ We’ve finished the interview process and picked out 4 Dwarves-to-be. They’ll
 From a perspective of a Design Lead, Ngoc described and analyze the hiring pain points of a startup. More particularly is why start up at the early stage need more from a senior designer to help them set up the process, rather than spending time on endless hand-holding training session.
 
 It’s her first attempt on Memo, and I gotta give her credit for the length. Anyway, here’s the full reading.
-

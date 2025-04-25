@@ -16,4 +16,3 @@ Next week, we’re planning for another topic: Sentry - an error & alert monitor
 The Ops team has gradually gathered all the external and internal data into Hubspot - a CRM platform for data storage and management. Previously, everything was stored in different places: GDrive, personal channels, and even some on Fortress.
 
 But we figure it’s better to keep all the info at the same place where the people in charge can access and take action from. By analyzing all types of audience we currently have, it’s possible to create a greater experience journey tailored for each persona.
-

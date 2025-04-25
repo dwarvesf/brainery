@@ -34,4 +34,3 @@ Business & Marketing Reading List
 In order to catch up with the team, the Business and Marketing team have their first trial week of creating a reading list. There will be a daily automatic check in at 2:30PM to make sure everyone has something cool to read and share with others.
 
 So far, we have come up with some sources such as: Grokking, Codewithoutrules, Medium or Lifehacker and Thefullsnack. Should you find other knowledge hubs that might find us well, please suggest!
-

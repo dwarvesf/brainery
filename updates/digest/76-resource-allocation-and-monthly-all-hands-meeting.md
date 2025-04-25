@@ -24,4 +24,3 @@ A point of view for the critical of programming fundamentals. Speaking from a de
 New release: Sublime Text 4
 
 The latest version of Sublime Text has just been rolled out and received many good feedback on HN. Sublime Test has a history of lightweight setup and far ahead in terms of performance. Thought there has been many alternatives such as VSCode, Sublime Text remains as a long-live option for developers since 2012. Its 4 version also supports M1 as well, a good news for Mac users.
-

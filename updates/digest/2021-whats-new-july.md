@@ -88,4 +88,3 @@ Thanks Vy and Hoang for the referral. Thanks everyone else for sharing the post.
 ### Shaping our image
 
 Hey, it's time to update your LinkedIn, Github or Facebook profile. It makes us look cool as a team.
-

@@ -16,4 +16,3 @@ We adopting this with a focus to enhance the quality of “Monitoring stage”, 
 To keep us with go along with the latest technology, after 3 year, Huy Giang has finished updated Tailwind (a CSS framework) from v0 to v1 for our all three websites: Foundation, Design and Careers.
 
 We (mostly HuyG) are open to receive all notification on bugs and other typos errors. If you found (more than) one, give him a ping.
-

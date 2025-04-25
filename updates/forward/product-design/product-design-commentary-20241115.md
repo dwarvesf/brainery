@@ -104,4 +104,3 @@ AI is not a silver bullet for every problem. As designers, our ultimate goal is 
 - A chapter from Google's guide on [User Needs + Defining Success (Responsible AI)](https://pair.withgoogle.com/chapter/user-needs/), focusing on understanding and meeting user needs during the development of AI systems.
 
 - The article ["Applications Of Machine Learning For Designers"](https://www.smashingmagazine.com/2017/04/applications-machine-learning-designers/) on Smashing Magazine discusses the applications of machine learning for designers, helping them understand how to integrate this technology into their design process.
-

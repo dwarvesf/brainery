@@ -18,4 +18,3 @@ I also found some articles on Medium while searching on this Markdown diagram to
 ### News Dwarves join the team
 
 We’re glad to welcome Truong Anh (or you may find her account as Oliu in Basecamp) last week as our new Biz Dev for the Ventures arm. Hope you have a great experience with the Dwarves, create impact and enjoy the ride.
-

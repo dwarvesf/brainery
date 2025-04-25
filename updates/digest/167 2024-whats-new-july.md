@@ -129,4 +129,3 @@ In response to the economic challenges and the demand for comprehensive solution
 To understand how this new model benefits both our team and our clients, read the full article [here](https://memo.d.foundation/playbook/business/pricing-model-bill-by-hours/).
 
 ![](assets/2024-whats-new-july-bill-by-hour.webp)
-

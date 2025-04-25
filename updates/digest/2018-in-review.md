@@ -27,4 +27,3 @@ We learned how to do things right and started using it to help deliver quality s
 Everything is just the beginning of our first chapters and it couldn't be that good without you. I'm very thankful for all the contributions that you have made and looking forward to 2019 with all of you.
 
 -Han
-

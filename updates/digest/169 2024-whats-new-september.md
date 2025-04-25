@@ -84,4 +84,3 @@ AI isn't a fad, 72% of YC's latest batch says it all
 We had ourselves a proper little mooncake moment for the Mid-Autumn Festival. Nothing fancy, just a chance to pause, share a bit of tradition, and enjoy a sweet break together. Whether in the office or dialing in from afar, it was a reminder that it's the little things that keep us connected.
 
 ![](assets/2024-whats-new-sep-mooncake.jpg)
-

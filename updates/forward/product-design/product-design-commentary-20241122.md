@@ -101,4 +101,3 @@ While personalization paints a perfect picture, it's not without problems. Users
 
 - An article on UX Design discussing how [generative AI](https://uxdesign.cc/transforming-ux-with-generative-ai-7b06ea329286) is transforming user experience
 - A technical deep dive on LinkedIn about [building AI models](https://www.linkedin.com/pulse/building-ai-models-hyper-personalization-technical-deep-deepak-gupta-tohuc/) for hyper-personalization
-

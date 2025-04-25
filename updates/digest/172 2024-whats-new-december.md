@@ -53,4 +53,3 @@ These closing days of the year are yours to navigate. Some are diving deep into 
 The start of a new year is here, and before we dive back in, we wanted to take a moment to say thanks. Thanks for being part of what made 2024 work - we shipped things that mattered, learned stuff worth sharing, and built connections that went beyond code.
 
 See you on [Dwarves Discord](discord.gg/dfoundation), OGIF, and the next meetup. 2025's looking good already.
-

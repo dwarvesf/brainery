@@ -48,4 +48,3 @@ Let's have a hand to welcome these newbies onboard!
 - Le Xuan Nha - Frontend Engineer
 - Tran Tri Tin - Data Engineer
   Hope to see the good achievements and may we share many great moments together 🤙!
-

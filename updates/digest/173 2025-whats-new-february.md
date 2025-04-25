@@ -112,4 +112,3 @@ We kicked off the Year of the Snake with our team reunion, creating space to sha
 [Check out Weekly Digest #15](https://memo.d.foundation/updates/digest/15-new-year-gathering/) for photos and highlights from our New Year gathering.
 
 ![](assets/2025-whats-new-feb-tet-gathering.png)
-

@@ -186,4 +186,3 @@ The operations team is gearing up for another batch of t-shirts and stickers. Th
 Let's wrap this up with a cheer on top, celebrating the many wins we've enjoyed. Here's to continuing our journey with the same enthusiasm and dedication in 2024.
 
 Thank you all for being a part of our inner circle, and helping us achieve MMA's goals.
-

@@ -16,4 +16,3 @@ We had the first Friday's Showcase last week - Twitter Tweet Watcher. This event
 New learning topics
 
 We've resumed adding topics to the 💡・learning-topics channel, including Metaverse, Event sourcing, etc. Participate in the conversation to learn more and enhance your work.
-

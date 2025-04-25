@@ -36,4 +36,3 @@ The very first intern batch of our Canada Internship. They’ll be giving a 1-we
 - Minh Vu: Backend Intern
 - Hoang Phung: Frontend Intern
   Welcome to the woodland 💪
-

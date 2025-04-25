@@ -84,4 +84,3 @@ Originally tied to our Employee Ownership Program (EOP), the **dfg token** can n
 [Check out for the details.](https://memo.d.foundation/playbook/community/df-protocol-icy-dfg/)
 
 ![](assets/2024-whats-new-august-dfg.png)
-

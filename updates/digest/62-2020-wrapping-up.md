@@ -32,4 +32,3 @@ Since it is almost the G-day for WeUp team to deliver the product, last Friday 
 Jeff Bezos will step down as CEO of Amazon
 
 Earlier this week, In the email to Amazon's employees, Jeff Bezos announce the transition to his new role and will leave the CEO position for Andy Jassy - the current CEO of Amazon Web Service He said in the note that "being the CEO of Amazon is a deep responsibility, and it's consuming." And he'd love to have more time for some of his others passionate like the Day 1 Fund, the Bezos Earth Fund, Blue Origin, The Washington Post.
-

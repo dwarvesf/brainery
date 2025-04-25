@@ -34,4 +34,3 @@ Looking for a short vacation, or new year's eve out of town? Sweet reminder, it�
 p/s: This is the last working week of 2022, strike the lucky pose from Dalat. Say cheers with @chip#1094 (￢‿￢)
 
 ![](assets/notion-image-1744007343591-yrnlc.webp)
-

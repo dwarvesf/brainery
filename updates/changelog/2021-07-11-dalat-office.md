@@ -41,4 +41,3 @@ As someone who leads and serves a team, I'm convinced taking actions to improve 
 Til next time,
 
 Han & the Dwarves.
-

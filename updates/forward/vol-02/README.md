@@ -45,4 +45,3 @@ We tried out CState as our monitoring service, but CState requires low level set
 Our Designers picked it up earlier this year to better create an entry way before product design. There are multiple ways to do UX research; our team also has one. This framework provides a structural approach on UX research. This method helps collect insight on a domain's business's strategy, users' behaviors, needs, pain points, etc. to build a product that meets the business's goal and solves users' existing problems.
 
 ![market](./assets/market.png)
-

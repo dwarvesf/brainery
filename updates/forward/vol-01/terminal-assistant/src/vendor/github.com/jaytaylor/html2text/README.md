@@ -136,4 +136,3 @@ If you appreciate this library please feel free to drop me a line and tell me! I
 Email: jay at (my github username).com
 
 Twitter: [@jtaylor](https://twitter.com/jtaylor)
-

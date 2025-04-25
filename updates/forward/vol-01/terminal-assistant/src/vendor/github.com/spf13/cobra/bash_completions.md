@@ -260,4 +260,3 @@ complete -o default -F __start_origcommand aliasname
 $) aliasname <tab><tab>
 completion     firstcommand   secondcommand
 ```
-

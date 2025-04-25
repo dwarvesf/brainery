@@ -115,4 +115,3 @@ Though this began as a side project, The Dwarves Tech Radar speaks up the code t
 Innovation happens almost every day, and it's our job to pursue the latest version. It's what sets the business successful and giving them a competitive advantage. That begins with nothing but keeps the employee updated on the latest development.
 
 Grab a seat and stay abreast of our latest topic updates.
-

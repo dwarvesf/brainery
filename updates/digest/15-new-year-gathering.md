@@ -30,4 +30,3 @@ Photos and stories kept rolling in. From pristine beaches and mountain retreats 
 ![](assets/15-new-year-gathering-2.png)
 
 And of course, there were those who simply recharged , sleeping in, catching up on games, and enjoying the rare quiet before diving back into the grind. Now, we’re back at it, picking up where we left off. The Year of the Snake has just begun.
-

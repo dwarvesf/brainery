@@ -117,4 +117,3 @@ If you work remotely and need a change in the working environment, come spend so
 That's all for now. Until next time,
 
 Han & Nikki.
-

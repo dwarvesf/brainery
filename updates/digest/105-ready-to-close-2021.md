@@ -13,4 +13,3 @@ DOTY is still opening for those last votes. We currently have 38 voting so far. 
 
 This afternoon Team Showcase was recorded in case you missed it. 2 last topics will be continued in the next Tuesday ✌️
 Check out this youtube record brought to us by @bien - <https://www.youtube.com/watch?v=pbMUBcuOBxs>
-

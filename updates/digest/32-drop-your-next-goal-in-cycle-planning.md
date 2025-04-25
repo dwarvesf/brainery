@@ -31,4 +31,3 @@ With the support of Nam, Khiem & Phat, the meetup got wrapped up nicely, conduct
 
 - Microservices: created by Chuong Nguyen, Senior Software Engineer at VNG
 - Effective Go: created by Khiem Vo, yes. our Khiem Vo
-

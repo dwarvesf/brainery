@@ -24,4 +24,3 @@ We have a few new ideas with Basecamp Hill chart. By filling the specific milest
 ### New Dwarves in town
 
 We welcomed Hieu Ngo to join us as a Frontend Engineer. Mentored by Minh T, hope he’ll spend his time at Dwarves to increase his skill and gain great achievement.
-

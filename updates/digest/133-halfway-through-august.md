@@ -13,4 +13,3 @@ We’ve just announced the size chart last Thursday (<https://bit.ly/3CbTWOT>). 
 
 Mid-Autumn Festival is coming
 Mooncake Gift will be delivered to your door around September. In this sheet (<https://bit.ly/3SNDwlB>), please recheck your delivery contact or input the address details if you haven't.
-

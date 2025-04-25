@@ -22,4 +22,3 @@ Zoom plans to move to an enterprise app suite
 Zoom is planning to switch its direction to an enterprise app suite. Email and calendar service are what we heard they're coming for. A workspace bundle.
 
 But to be honest? Unless Zoom works on its unquestionable limited call duration and put real work on user's data, this move might be a challenge compared to the robust market coverage of Google and Microsoft.
-

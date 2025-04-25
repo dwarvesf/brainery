@@ -24,4 +24,3 @@ We’ve finished processing the request. The ordered items are on their way. Ple
 We hope to have your patience on it. I also create a thread on Twitter. Please drop your received item in above thread. Would love to have a look at your new setup 🙆🏻‍♀️
 
 That's all for the past week. Enjoy the upgrade and stay safe.
-

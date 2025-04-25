@@ -33,4 +33,3 @@ Are you ready for the Year-end party? The ops team is working on everything behi
 That's all for the week. Christmas is coming to town, take care and see y'all next week with more interesting things.＼ (￣ ▽ ￣) ／.
 
 ![](assets/notion-image-1744007347661-bz9tb.webp)
-

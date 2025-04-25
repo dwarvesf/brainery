@@ -18,4 +18,3 @@ Just got our client informed on our Lunar New Year Holiday schedule. For the day
 Another highlight of Monday, on behalf of the Software Modeling study group, Tom has given a short presentation for Design system for a video streaming platform startup.
 
 For anyone who missed the session, here’s the full slide: shorturl.at/sACVX
-

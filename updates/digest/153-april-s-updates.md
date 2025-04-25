@@ -65,4 +65,3 @@ Seats are limited, so make sure you reserve yours.
 --> Register: <https://forms.gle/5pU83UDmkjVY5No59>
 
 Til next time. Happy coding.
-

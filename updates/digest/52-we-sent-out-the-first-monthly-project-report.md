@@ -51,4 +51,3 @@ Not exactly news, but these are worth to check out.
 - API is a user interface
 - Parse, don’t type check
 - How to think for yourself?
-

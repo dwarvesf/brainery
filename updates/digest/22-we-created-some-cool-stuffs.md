@@ -33,4 +33,3 @@ The word 'totem' means an object that is respected by a group of people, especia
 Guess I won't need to explain this one :chewing popcorn:
 
 ![](assets/notion-image-1744007144608-7ry4c.webp)
-

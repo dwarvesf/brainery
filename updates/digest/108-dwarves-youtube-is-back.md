@@ -20,4 +20,3 @@ A small steps for our knowledge training path - Dwarves Youtube has been revamp 
 Check it out now at <https://www.youtube.com/channel/UC_SyzGLf6wiqctQFsRI_frw>
 
 ![](assets/notion-image-1744007390080-cy16l.webp)
-

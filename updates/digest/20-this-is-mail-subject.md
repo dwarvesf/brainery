@@ -53,4 +53,3 @@ Some of the Dwarves have grabbed their jacket home. It's good to know they're al
 We're gathering the books to create a better team library, or a mini bookstore - as they usually call. For newbies or current Dwarves, you can see the book list in alphabetical order here
 
 If you're happen to borrowing one, drop Huy N a message so he can log it into the system.
-

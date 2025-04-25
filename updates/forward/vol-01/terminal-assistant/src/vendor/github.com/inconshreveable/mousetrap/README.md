@@ -27,4 +27,3 @@ https://inconshreveable.com/09-09-2014/sweat-the-small-stuff/
 The library exposes a single interface:
 
     func StartedByExplorer() (bool)
-

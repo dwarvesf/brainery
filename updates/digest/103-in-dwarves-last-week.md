@@ -11,4 +11,3 @@ Blockchain-based direction keeps us on discovering new knowledge. Earlier today,
 We start to welcome more blockchain guys to Dwarves Discord. You may find them in #introduction channel. If you're new here, stop by and introduce yourself as well 👾
 
 DOTY 2021 is finalizing. Voting maybe open by the end of this week 😏
-

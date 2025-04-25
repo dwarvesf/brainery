@@ -117,7 +117,8 @@ Certificates vary in degree of validation and in the number of domains. The SSL 
 <<<<<<< HEAD
 
 =======
->>>>>>> c68f8f9 (format frontmatter)
+
+> > > > > > > c68f8f9 (format frontmatter)
 
 - DV SSL - Domain Validation - a certificate with domain validation;
 - OV SSL - Organization Validation - a certificate with verification of the organization (company);
@@ -127,7 +128,8 @@ Certificates vary in degree of validation and in the number of domains. The SSL 
 <<<<<<< HEAD
 
 =======
->>>>>>> c68f8f9 (format frontmatter)
+
+> > > > > > > c68f8f9 (format frontmatter)
 
 - Wildcard SSL - a certificate aimed at the domain and its subdomains;
 - Multi-Domain SSL (MDC SSL or SAN SSL (Subject Alternative Name)) - a certificate focused on multiple domains.
@@ -160,7 +162,7 @@ The duration of the process of obtaining a DV SSL certificate is about 2 weeks. 
 
 ### Wildcard SSL
 
-Wildcard SSL is a certificate which applies to the domain and the entire subset of its subdomains. Say, if the 'domain.ua' domain is used, the wildcard certificate will include the 'domain.com' domain itself, as well as any subdomains of the lower levels: mail.domain.ua, 1ev.domain.ua, r.info.dnipro.domain.ua, etc. Typically, such SSL certificates are visually designated as *.domain.ua and cost about 4 times more than DV does.
+Wildcard SSL is a certificate which applies to the domain and the entire subset of its subdomains. Say, if the 'domain.ua' domain is used, the wildcard certificate will include the 'domain.com' domain itself, as well as any subdomains of the lower levels: mail.domain.ua, 1ev.domain.ua, r.info.dnipro.domain.ua, etc. Typically, such SSL certificates are visually designated as \*.domain.ua and cost about 4 times more than DV does.
 
 ### Multi-Domain SSL
 
@@ -202,7 +204,8 @@ There are also services to check the SSL certificates:
 <<<<<<< HEAD
 
 =======
->>>>>>> c68f8f9 (format frontmatter)
+
+> > > > > > > c68f8f9 (format frontmatter)
 
 - SSLShopper offers a quick and simple way to check a chain of trust as well as the correctness of your certificate customization;
 - SSL Labs provides a detailed report on certificate and web server settings.
@@ -321,4 +324,3 @@ SSL is vital to Web security. It provides a strong sense of confidentiality, mes
 <https://www.ssl.com/faqs/faq-what-is-ssl/>
 <https://www.venafi.com/education-center/ssl/common-ssl-attacks>
 Ćurguz, Jelena. (2016). Vulnerabilities of the SSL/TLS Protocol. Computer Science & Information Technology. 6. 245-256. 10.5121/csit.2016.60620.
-

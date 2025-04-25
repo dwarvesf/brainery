@@ -75,4 +75,3 @@ Guys, the Dwarves has scaled up with 2 new members!
 We look forward to a fun ride with you guys 👏 Welcome abroad!
 
 ![](assets/notion-image-1744007177382-1k9iw.webp)
-

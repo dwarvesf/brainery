@@ -91,4 +91,3 @@ There’s a fun road ahead to building a better community. [Bye bye bye](https:/
 Hope you have a lucky June ahead. We’d be happy to expand this server with like-minded people.
 
 On vous verra sur l’Internet!
-

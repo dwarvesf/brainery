@@ -71,4 +71,3 @@ Now that we look back, the past few months for us has been a journey of trialing
 That's all for now. Until next time,
 
 Han and Nikki.
-

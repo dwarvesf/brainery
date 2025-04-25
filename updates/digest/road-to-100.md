@@ -50,4 +50,3 @@ The latest stats on our current referral bonus & the top leaderboard. A huge tha
 ![](assets/road-to-100_8a7a01a12a0d02bfbc4ea9dc305d68e1_md5.webp)
 
 Referral from the team will have a higher chance of being prompted.
-

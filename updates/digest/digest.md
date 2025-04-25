@@ -26,4 +26,3 @@ WHERE ['weekly-digest', 'community'] && tags
 ORDER BY date DESC
 LIMIT 10
 ```
-

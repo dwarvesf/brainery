@@ -40,4 +40,3 @@ We’ve finished processing another batch. The ordered items are on their way.
 Please help to check on your phone for the upcoming deliveries.
 
 Snap us a pic if you like it 🙆🏻‍♀️
-

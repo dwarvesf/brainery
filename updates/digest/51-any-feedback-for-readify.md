@@ -34,4 +34,3 @@ Tailwind v2.0 release
 TailwindCSS is one of the most used library in our Frontend team, and this week has marked the official v2.0 release along with a lot of more feature.
 
 The funny things is, if you remembered it, Huy Giang did the migration from Tailwind v0 to v1 in our website a few week ago, guess he should have waited 🤣
-

@@ -22,4 +22,3 @@ Glad to have new guys to expand the squad. They'll be joining us in project work
 \*Note
 
 I just cant believe I have to craft this line myself. But this Wednesday holds the National Woman Day - Van & Nam are preparing some gifts for our female Dwarves. The gift will be delivered in short and I truly wish you all have a great day. From HaNoi with ♡
-

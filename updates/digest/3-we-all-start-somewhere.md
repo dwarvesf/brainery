@@ -66,4 +66,3 @@ Interested in joining our Internship Program? We're here to welcome you aboard.
 
 [Shoot us an email](mailto:spawn@d.foundation) with your LinkedIn / CV\
 [Join our Discord](https://discord.gg/dfoundation) of +300 other engineers and designers
-

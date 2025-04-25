@@ -40,4 +40,3 @@ Last Monday, we were delighted to welcome some new Dwarves to join the team!
 - Lap Ngo: Frontend engineer
 - Giang Tran: Frontend engineer
   It's good to have you guys on board! Thanks for helping scaling up the crew and may we share many great moments together! 💪
-

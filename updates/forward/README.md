@@ -61,4 +61,3 @@ Above is the knowledge areas that we think the software engineers should have be
 - Maintenance / Monitoring
 
 In each particular topic, there are new practices, tools, frameworks and services that keeps evolving. The lower the topic in knowledge areas stack, the more important it is to set the foundation for engineers.
-

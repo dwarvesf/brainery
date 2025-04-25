@@ -303,4 +303,3 @@ Like crafting software, building Dwarves Foundation has been a journey of experi
 2025 opens with questions we're eager to answer, about tech, others about how we work. The best lines are yet to be written.
 
 A strong team is built on its people and their beliefs. We're looking forward to the surprises ahead with all of you.
-

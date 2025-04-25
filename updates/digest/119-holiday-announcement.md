@@ -18,4 +18,3 @@ I’ve put a note on Bao Minh Insurance claiming process on Basecamp last week. 
 - Close date: From Saturday, April 30 to Tuesday, May 03, 2022
 - Resume date: Wednesday, May 04, 2022
   Have a great holiday ahead 🦾
-

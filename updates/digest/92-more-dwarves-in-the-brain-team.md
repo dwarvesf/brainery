@@ -30,4 +30,3 @@ For more info, please visit WeBuild Fanpage, or simply ping Nam & Duy - they're 
 Side note: We're actively hiring for the upcoming projects. Hence, every effort to help optimize the recruitment process is appreciated. We want to send our thanks to Hieu Vu for being an extra helping hand with our recruiting work.
 
 We're heading for more cool things to work on, and we're happy to onboard the like-minded ones. Please help refer if you find any match.
-

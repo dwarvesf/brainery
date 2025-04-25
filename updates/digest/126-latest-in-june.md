@@ -45,4 +45,3 @@ Stop by #red-alert and #minigame to play our weekly minigame and pick up the lat
 Nothing much to update excepted for June All hands Meeting will take place on next Friday, July 01. The meeting is expected to hold our latest update on Performance Review, new teammates, project direction and our hiring plan towards the goal of scaling up the team.
 
 Hope to see all of you there!
-

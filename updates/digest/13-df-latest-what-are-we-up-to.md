@@ -42,4 +42,3 @@ Another great work from our MacOS Team: Blurred - A macOS utility that helps red
 Using single dim mode for the main screen and parallel dim mode for multiple screens, Blurred helps user to focus more on work by dimming the inactive noise. You can also find the detailed description and usage at our GitHub as well.
 
 ![](assets/notion-image-1744007166047-lkikl.webp)
-

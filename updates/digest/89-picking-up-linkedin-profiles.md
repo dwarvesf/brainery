@@ -37,4 +37,3 @@ Last but not least, the final holiday of 2021 🥲 - We're taking our National D
 - Leave: 02/09/2021 - 03/09/2021 (Thursday and Friday)
 - Return to work on 06/09/2021 (Monday)
   Enjoy.
-

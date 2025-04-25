@@ -18,4 +18,3 @@ Cobra can generate PowerShell completion scripts. Users need PowerShell version 
 - Command aliases
 - Required, filename or custom flags (they will work like normal flags)
 - Custom completion scripts
-

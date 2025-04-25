@@ -169,4 +169,3 @@ The design principles are defined depending on the domain but usually will be in
 # Conclusion
 
 Product knowledge is so valuable. It increases our confidence as a problem-solver and clients’ trust that we are the right person to serve their needs. Clients today come armed with their level of product knowledge. The internet and competition have created a more educated consumer base. That is all the more reason we need to know more than our customers do about the things we're going to help them do.
-

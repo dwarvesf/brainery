@@ -27,4 +27,3 @@ xx interns from Bach Khoa Uni
 
 - A few peeps are heading to Dalat Hub on May 10 for a soft launch
 - You can still join in. Simply ping @ duy or @ thuong to claim your free flight tickets
-

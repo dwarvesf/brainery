@@ -79,4 +79,3 @@ At 5PM, every Friday afternoon, everyone in community is invited to gather on Di
 **Upcoming event:**
 
 - Community meetup in Ho Chi Minh City on Friday, May 31st.
-

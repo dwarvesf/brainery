@@ -11,4 +11,3 @@ If you plan on getting them in BUSD/USDT, drop us your binance email in <https:/
 Then stop by 📉・trading-cafe and pick up the latest crypto news with the gang :pepeloser:
 
 Nothing much to update excepted for February All hands Meeting will take place on this Friday, Mar 04. The meeting is expected to hold our latest update on Performance Review, Health Insurance, new teammates, project direction and our hiring plan towards the goal of scaling up the team.
-

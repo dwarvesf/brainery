@@ -59,4 +59,3 @@ The next initiative in our monthly call will have a broader range of topics to d
 **Coming up:**
 
 - Mark your calendars for our first offline meetup in Ho Chi Minh City (TBA).
-

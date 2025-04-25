@@ -18,4 +18,3 @@ Da Lat Office is going through its final decision. Really looking forward to hav
 Please be well-noted that this is a 3D design, though I desperately want it to look exactly the same after they finished reconstructing 👉👈
 
 ![](assets/notion-image-1744007409701-whmco.webp)
-

@@ -25,4 +25,3 @@ I'm sure some of you have heard about this, but let's make this official: We've 
 ### Virtual WeBuild Day
 
 Last Saturday Oct 09 held the annual Virtual WeBuild Day in WeBuild Discord, a meaningful sharing session between WeBuild members during the pandemic. For anyone who missed it, you can find the full record here: <https://www.youtube.com/watch?v=MOBDAA0IMlY>
-

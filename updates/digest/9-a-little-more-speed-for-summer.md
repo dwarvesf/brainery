@@ -69,4 +69,3 @@ Wish we could hit rewind and relive [yesterday once more](https://www.youtube.co
 P.S. If you’re feeling nostalgic or just want to catch up on what you might have missed, you can find highlights from our previous edition [right here](https://memo.d.foundation/playground/digest/8-then-came-the-last-days-of-may/).
 
 Until next time.
-

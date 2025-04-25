@@ -83,4 +83,3 @@ Big birthday wishes to our CEO @tieubao and head of meme @minhlq. Hope you both 
 ![](assets/11-come-grow-with-us-birthday.png)
 
 Well, folks, that's all she wrote for this week's digital dispatch. Now go forth and spread those summer vibes like confetti and take a moment to savor the simple joys.
-

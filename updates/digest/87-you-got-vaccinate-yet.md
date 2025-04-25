@@ -42,4 +42,3 @@ We have a weekly changelog to keep the client updated. Last week, the team just 
 Also, we understand it takes up to 48hrs to recover from the symptoms. Please help to submit the off request as soon as you have the vaccination schedule. Giang will help to handle and inform the client.
 
 ![](assets/notion-image-1744006955160-ukyam.webp)
-

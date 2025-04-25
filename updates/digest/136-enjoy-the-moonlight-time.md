@@ -25,4 +25,3 @@ Warmly welcome 3 new Dwarves to the woodland. Hope you enjoy the stay & grow you
 - Minh - Product Data Intern
 - Duc - Unity Engineer
   Last but not least, we want to send the congrats to @innno for passing her probation as a Marketing Executive with 3 upvotes from the mates. She’s been standing behind most of our social exposure and with this success, hope to see more of the likes ♡
-

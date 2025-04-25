@@ -62,4 +62,3 @@ To show our appreciation, we've launched a special Dwarves NFT collection for pe
 There have been many interesting discussions over the past two months since OGIF resumed. Topics ranged from new findings to techniques, software engineering, and industry insights.
 
 Notably, @hoangnguyen and @hieuthu2 gave an insightful talk on "Building a Resilient System." They covered key aspects of system resilience, including designing for failure, implementing redundancy, and ensuring continuous availability.
-

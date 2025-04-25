@@ -38,4 +38,3 @@ Personally, I think this doesn’t apply to just software developers, but frankl
 Is coding strong enough to make other skills obsolete?
 
 Got to read this yesterday, and since one of our theme for 2021 is going automation and save our effort for real work, I figure this may be a good thing to catch. Though coding is changing the world, still it’s not an end-all skill that makes other expertise obsolete. There are more and more ways to leverage technology that is driving the future better, low-code and no-code adoption is an example.
-

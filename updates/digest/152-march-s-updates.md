@@ -22,4 +22,3 @@ Last night's event was a blast, with 6 partners, 6 speakers, and over 140 attend
 Bitcoin VN teamed up for the first Lightning Network Conference in Asia. <https://lightningcon.org/>. If you're in Danang and want to come, ping us. We can get you free tickets.
 
 That's all for last week, happy coding.
-

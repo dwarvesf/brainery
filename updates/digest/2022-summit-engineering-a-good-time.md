@@ -139,4 +139,3 @@ Likewise, we’ve learned a lot during the trip and have taken a few steps ahead
 Our goal for next year is to incorporate **Mastery, Meaning, and Autonomy**. These are some of the things we have in our backlog, and we’re certainly excited to try out more when we get to it.
 
 Here’s to the restart of our adventures together and to many more experiences and opportunities for 2023!
-

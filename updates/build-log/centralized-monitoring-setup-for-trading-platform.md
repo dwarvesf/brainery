@@ -105,4 +105,3 @@ Grafana’s capabilities allow us to analyze historical data to understand syste
 ## Conclusion
 
 To sum up, Nghenhan's decision to adopt a centralized monitoring system powered by Grafana and Prometheus is a testament to its dedication to providing a reliable and efficient trading platform. By focusing on real-time monitoring and ensuring data synchronization, Nghenhan can proactively identify and resolve potential issues, minimizing downtime and financial losses for its users. This monitoring system not only bolsters Nghenhan's operational capabilities but also serves as a foundation for future growth.
-

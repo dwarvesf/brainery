@@ -77,4 +77,3 @@ Let's wrap this up with a cheer on top.
 Anyway, I'm actively working on the next digest round-up, and it's about a super cool community. Stay tuned.
 
 Onto today's post...
-

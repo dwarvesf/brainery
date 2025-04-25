@@ -82,4 +82,3 @@ Upsert flow for audience db
 We're growing the audience community. The Fortress team has uplifted the workload by creating an upsert flow. This auto-upsert mechanism logs all contacts from our social channels, puts them into our Notion db for further team publication: Dwarves Updates, Dwarves Feedback & Turing Alley.
 
 ![](assets/notion-image-1744006948693-9i94d.webp)
-

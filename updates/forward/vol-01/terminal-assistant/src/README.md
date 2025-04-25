@@ -28,4 +28,3 @@ An advisor for your development process.
 brew tap mkhoi1998/mimir
 brew install mimir
 ```
-

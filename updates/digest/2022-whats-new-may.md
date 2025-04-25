@@ -69,4 +69,3 @@ Henceforth, we strongly encourage the team to expand their know-how in this fiel
 All these efforts aim to align with our business goals. We're sorting more resources to help with new partnerships coming up.
 
 Let's cross our fingers and buckle up for what's next in June.
-

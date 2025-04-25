@@ -83,4 +83,3 @@ We've already had some stellar suggestions roll in. But hey, the more, the merri
 And that’s all for this week's digest, folks. It's my joy building the weekly digest with you - our community members.
 
 I’m here to record the most of every moment, this summer and beyond. Hope you’re enjoying the warmer days - and remember: don’t let anyone [steal your sunshine](https://www.youtube.com/watch?v=E1fzJ_AYajA).
-

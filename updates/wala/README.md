@@ -29,4 +29,3 @@ WHERE file_path ILIKE '%wala%'
 ORDER BY date DESC
 LIMIT 10;
 ```
-

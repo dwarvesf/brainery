@@ -65,4 +65,3 @@ A small gift to thank you for being with us for the past year. May we all enter 
 Happy the year of Tiger. Let’s rock 2022 together
 
 ![](assets/notion-image-1744006929168-5ocaz.webp)
-

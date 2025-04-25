@@ -90,4 +90,3 @@ These functional dynamics define how deeply integrated AI is with system feature
 The evolution of Generative AI within digital systems hinges on its **scope**, **spatial**, and **functional relationships**. Designers and developers must pay close attention to how these relationships manifest within their products to ensure that AI serves to enhance the user experience rather than disrupt it. By understanding how Generative AI fits into these relationships, we can design more intuitive, helpful, and powerful AI-driven experiences that feel natural and effortless for the user.
 
 Generative AI is a transformative tool, and its success relies on how well it integrates into the systems and experiences we create. As AI technology evolves, designers must constantly rethink these relationships to maintain an optimal balance between functionality and usability.
-

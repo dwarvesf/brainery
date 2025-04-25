@@ -29,4 +29,3 @@ There are many benifit when using a background process, such as XPC service.
 - Low memory footprint
 - More reliable app
 - Make the app more secure
-

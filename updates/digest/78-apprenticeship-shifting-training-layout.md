@@ -36,4 +36,3 @@ Firefox’s newest move on brushing their browser layout, with a main focus on b
 StackOverflow got acquired by Prosus
 
 Earlier this week, StackOverflow announces an US$1.8 billion acquisition with Prosus, The investment firm is known for its $200 billion holdings in the Chinese tech giant Tencent. This acquisition is one of the biggest in Prosus’ portfolio.
-

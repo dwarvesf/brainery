@@ -26,4 +26,3 @@ $ go get github.com/ssor/bom
 	result := NewReaderWithoutBom(bytes.NewReader(bs))
 
 ```
-

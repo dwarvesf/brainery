@@ -34,4 +34,3 @@ In terms of prediction, there could be two reasons behind this
 Notion rolled out their public API
 
 Notion’s latest rolled out API in beta to better support the development and database management. Formatting things in Notion have been bringing a smooth reading and writing experience, and I believe we all can benefit from it once Notion has allowed us to sync their system with other services. Their detailed changelog can be found here. Hope you find some of them useful
-

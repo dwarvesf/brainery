@@ -28,4 +28,3 @@ Let's warmly welcome @dungnv.anthony and @qyntee to joining our team. It's so gr
 Enjoy your National Day holiday
 
 As previously announced on 🔔・quick-alert, we will be closed for public holidays from 1/9 to the end of 4/9 and return to work on Monday, 5/9 of the following week. We wish you a safe and happy holiday!
-

@@ -22,4 +22,3 @@ Since it’s a monthly issue, we’ll be glad to receive ideas pitching from eve
 In order to better design the experience for newbie, we believe it’s best to involve more on the onboarding process. In the past, there weren’t much interaction between newbie and the team outside of work and project. Somehow newbies are only aware of what they need to do during the probation time, not the expectation if they turn into a full time Dwarves. Thus after that, they tend to fall for the loop of “ok, now what”.
 
 Instead of working on the project only, we need to visualize their roadmap not only for the probation time, but the afterward period also. A clear expectation will also be included in the probation review. To make sure they’re the best fit and they also feel to be a part of us, Operations team will step in for probation review with feedback from company perspective as well.
-

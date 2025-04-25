@@ -29,4 +29,3 @@ WHERE ['ogif'] && tags
 ORDER BY date DESC
 LIMIT 10
 ```
-
