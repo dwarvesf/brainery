@@ -41,7 +41,7 @@ We have never been big on formality, bureaucracy or hierarchy. No 100-page pitch
 
 We will not have a time frame for application. We welcome new investment opportunities every day of the year until we reach our capacity, and make an announcement about it.
 
-### Network & Community
+### Network & community
 
 Since day 1 of Dwarves Ventures, we have received a massive amount of reach-outs from almost every part of the startup ecosystem, from serial entrepreneurs, founders to industry experts and investors, asking how they could be a part of what we are doing.
 
