@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Progressive Web App
+# Progressive web app
 
 | Status        | Trial                       |
 | :------------ | :-------------------------- |
@@ -13,7 +13,7 @@ date: null
 
 ## Objective
 
-An introduction about Progressive Web App (PWA). The main goal is giving some understandings about PWA and how to deliver a web experience your users will love.
+An introduction about Progressive web app (PWA). The main goal is giving some understandings about PWA and how to deliver a web experience your users will love.
 
 ## Motivation
 

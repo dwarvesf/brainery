@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# A Quick Introduction to WebAssembly
+# A quick introduction to WebAssembly
 
 **Learn more about the newest way to run any code in a web browser.**
 
@@ -12,14 +12,14 @@ If you haven’t heard of WebAssembly yet, then you will soon. It’s one of the
 
 "Wow," you may be saying, "this sounds like something I should learn to code in!" You’d be right, but you’d be wrong too; **you don’t code in WebAssembly**. Let’s take some time to learn about the technology that’s often fondly abbreviated to **"Wasm."**
 
-### Table of Contents
+### Table of contents
 
 1. Formal definition
 2. Why WebAssembly?
-   2.1 Recall of Assembly
+   2.1 Recall of assembly
    2.2 What WebAssembly actually is
    2.3 What about Javascript?
-   2.4 Historical reason of poor performance in Javascript
+   2.4 Historical reason of poor performance in JavaScript
    2.5 How does Javascript work?
    2.6 How JavaScript is optimized?
    2.7 The invention of asm.js
@@ -31,17 +31,17 @@ If you haven’t heard of WebAssembly yet, then you will soon. It’s one of the
    4.2 How to run WebAssembly code?
 5. Compile to WebAssembly
    5.1 What is LLVM?
-   5.2 Official WebAssembly Toolchain
-   5.3 Compile WebAssembly Natively
-6. Benefits and Limitations
+   5.2 Official WebAssembly toolchain
+   5.3 Compile WebAssembly natively
+6. Benefits and limitations
 
-## 1. Format Definition
+## 1. Format definition
 
 WebAssembly (abbreviated Wasm) is a **binary instruction format** for a stack-based virtual machine. Wasm is designed as a portable target for compilation of high-level languages like C/C++/Rust, enabling deployment on the web for client and server applications.
 
 ## 2. Why WebAssembly?
 
-### Recall of Assembly
+### Recall of assembly
 
 In the old days, when you had to work on a computer to do something like for example, add two numbers and print the result, you had to write instructions in the binary language. These instructions were specific to an architecture of a processor like the 8086 microprocessor or x86 processor. These binary instructions are collectively called the machine code. However, writing machine code with bare hands was a tedious and error-prone task. Also, reading a machine code was at times impossible.
 
@@ -71,7 +71,7 @@ JavaScript is also a **dynamically typed language**, unlike C and C++. This mean
 
 **So whenever you think, a statically typed language like C or C++ is making your life a living hell for no reason, think about the performance.**
 
-### Historical reason of poor performance in Javascript
+### Historical reason of poor performance in JavaScript
 
 You might ask, why JavaScript was designed this way if it is so poor when it comes to speed? For that, we need to understand its history.
 
@@ -278,7 +278,7 @@ These first two instructions will instruct a stack machine to `push A and B` val
 
 Even though WebAssembly is written for a stack machine, _how WebAssembly code is interpreted by JavaSctipt engines is up to the engine itself to decide._
 
-#### WebAssembly Instructions Set and Data Types
+#### WebAssembly instructions set and data types
 
 Since WebAssembly is a `stack machine`, it _needed a standard for its instructions and data types_ it can work with. **`WebAssembly` is an open standard and not related to JavaScript at all.**
 
@@ -294,7 +294,7 @@ Since `WebAssembly` is based on `asm.js` specifications, it is even possible to 
 
 Like `asm.js`, a `WebAssembly` program is also a module which needs to be instantiated. It also takes imports like `stdlib` and `heap memory` and exports function that can be used by a program.
 
-#### WebAssembly File Formats
+#### WebAssembly file formats
 
 Since `WebAssebly file` is a **`binary file` of standard WebAssembly instruction**, it is _not meant to be written by hand, just like machine code_. Instead, **it should be compiled from programs** written in the language of your choice.
 
@@ -393,7 +393,7 @@ A `backend module` **takes this bytecode and converts it to a specific build tar
 
 Using `LLVM`, `Kotlin` can be compiled to `Java` bytecode and `Rust can be compiled to **multiple build targets**. If we combine different frontend and backend modules, we can generate pretty much anything.
 
-### Official WebAssembly Toolchain
+### Official WebAssembly toolchain
 
 To abstract users from getting into the trouble of the `LLVM toolchain`, `Emscripten` toolchain was created as a **collaborative effort between different WebAssembly teams**.
 
@@ -424,7 +424,7 @@ export PATH=$PATH:$WASM_UTILS_BIN:$EMSCRIPTEN_BIN:$EMSDK_NODE_BIN
 
 As you can see from the above screenshot, `Emscripten` has installed all the necessary tools like `LLVM`, `Clang`, `asm2wasm`, etc. to compile `C` or `C++` code into `WebAssembly`.
 
-### Compile WebAssembly Natively
+### Compile WebAssembly natively
 
 Now that we have a set of official tools to compile `WebAssembly` from `C` or `C++` source code, let’s get cracking. We will create .wasm module manually.
 
@@ -469,7 +469,7 @@ The `underscore (_)` needs to be added because `emcc` at the moment does not hon
 
 The above command generates `test.wasm` file in the current directory. We can use the same web application we created before to test the WebAssembly module we created using `WasmExplorer` tool.
 
-## 6. Benefits and Limitations
+## 6. Benefits and limitations
 
 So far, we have seen that the **`WebAssembly` comes very close to native speeds and that’s a big deal when it comes to Web**. A `JavaScript` program that returns a result in **16 seconds** vs a program **written in `C`** finishes the same job in **7 seconds** is a kind of a big deal for us web developers.
 

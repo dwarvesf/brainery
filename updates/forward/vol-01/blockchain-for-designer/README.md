@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Blockchain for Designers
+# Blockchain for designers
 
 # Intro
 
@@ -12,7 +12,7 @@ Recently, **Bitcoin** and **Blockchain** become popular, they are the trending a
 
 In this article, we are not going to talk deeply about the definition and the way it works. We explain Blockchain in a simpler way, by sharing the challenges we have met in the process of designing a product basing on Blockchain technology.
 
-# I. Understand Blockchain
+# I. Understand blockchain
 
 ## Why Blockchain?
 
@@ -72,7 +72,7 @@ No one can tamper data in a Blockchain network and thus it’s an immutable plat
 
 ![](assets/immutability.png)
 
-# Help user to believe in the value of Blockchain
+# Help user to believe in the value of blockchain
 
 Blockchain is very complicated. Speaking of Blockchain, most people, especially not so tech-savvy ones, thought it was the movement of numbers, codes, magic, or whatever stored in some cloud in the sky. Some people even mistakenly believe that Blockchain is bitcoin and call it virtual money.
 

@@ -91,8 +91,8 @@ We are only open for **20** positions to ensure the program's quality. The proce
 
 If you seek to take a turn in software with a dynamic workplace, to work alongside young teammates of humble spirit and the will to make impactful things happen, we’re open for application **until April 25**.
 
-- [Program Details](https://memo.d.foundation/careers/apprentice/dwarves-foundation-apprenticeship-batch-of-2022/)
-- [Application Form](https://form.typeform.com/to/LfCWfoml)
+- [Program details](https://memo.d.foundation/careers/apprentice/dwarves-foundation-apprenticeship-batch-of-2022/)
+- [Application form](https://form.typeform.com/to/LfCWfoml)
 
 ### Other talking points
 
@@ -101,11 +101,11 @@ If you seek to take a turn in software with a dynamic workplace, to work alongsi
 - Catching up with the tech peeps who are not (yet) part of our company, is quite cool. Even if our paths can't cross now, we're grateful to have them around for random chats & knowledge sharing.
 - More people are showing up during our Monday Radio Talk. The latest Radio Talk on [Serverless Architecture](https://www.youtube.com/watch?v=x9aBcOzirwg) was definitely a heat debate.
 
-**Dwarves’ Brainery and Engage & Earn are in full effect**
+**Dwarves’ Brainery and Engage & earn are in full effect**
 
 - [Brainery](https://brain.d.foundation) is our knowledge hub, where we what we learn with the world.
-- [Engage & Earn](http://discord.gg/dfoundation) is our system of recognizing people who put in the effort to share knowledge.
-- Both Brainery and Engage & Earn are open for everyone to join.
+- [Engage & earn](http://discord.gg/dfoundation) is our system of recognizing people who put in the effort to share knowledge.
+- Both Brainery and Engage & earn are open for everyone to join.
 
 **Dalat Chalet is coming very soon**
 

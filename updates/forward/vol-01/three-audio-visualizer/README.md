@@ -24,7 +24,7 @@ Below is an image of the final scene:
 
 **_Or you can go and see how it works [here](https://three-audio-visualizer.herokuapp.com/)._** Please make sure you check the **_Play Music_** checkbox in the top right controller.
 
-## The Basic Flow
+## The basic flow
 
 Basic flow of the audio visualizing process:
 
@@ -34,5 +34,5 @@ Basic flow of the audio visualizing process:
 
 To get more detail of what I have just listed, please make sure to refer to these two files:
 
-- [ThreeJS Basic Concepts](docs/BasicThreeJS.md)
-- [Audio Analysing](docs/AudioAnalysing.md)
+- [ThreeJS basic concepts](docs/BasicThreeJS.md)
+- [Audio analysing](docs/AudioAnalysing.md)

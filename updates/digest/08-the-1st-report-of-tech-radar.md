@@ -1,11 +1,11 @@
 ---
-title: "#08 - The 1st Report of Tech Radar"
+title: "#08 - The 1st report of Tech Radar"
 description: Discover the first Tech Radar report highlighting engineering projects, company handbook updates, bonuses, English class support, insurance, and remote work during Lunar New Year.
 date: 2020-01-18
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-## The 1st Report of Tech Radar
+## The 1st report of Tech Radar
 
 ---
 
@@ -38,7 +38,7 @@ Performance Review is a part of Making a Career - a chapter of Dwarves Handbook 
 
 View the full version at: Dwarves Handbook - Making a Career
 
-### Blog Post
+### Blog post
 
 The recognition of our 2019 Dwarves doesn't just end there as we have just finished crafting a blog post about it on our News page - a medium for Company Updates at dwarves.foundation/n.
 

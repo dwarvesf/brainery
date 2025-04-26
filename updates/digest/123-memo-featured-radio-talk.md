@@ -5,7 +5,7 @@ date: 2022-06-06
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Apprenticeship Updates
+### Apprenticeship updates
 
 For those who missed our workshops, you can stream at: <https://bit.ly/3GS4N0p>
 
@@ -19,7 +19,7 @@ Buck up and mark these date below for our upcoming workshops
 - Navigate your career: June 24
   Please make your reservation on time @intern and @apprentices.
 
-### Find your Radio Talk at Memo
+### Find your radio talk at Memo
 
 The first few transcripts of Radio Talk - our weekly tech-sharing, have just been published. Every week, we'll summarize the highlights and share them to those who want to keep up with us.
 

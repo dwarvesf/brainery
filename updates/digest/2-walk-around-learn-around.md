@@ -1,5 +1,5 @@
 ---
-title: "Weekly Digest #2: Walk around learn around"
+title: "Weekly digest #2: Walk around learn around"
 short_title: "#2 Walk around learn around"
 description: There are so many amazingly fun and wonderfully weird things happening on Discord, both last week and of course, today. So let’s dive in with a freshly-brewed “cà phê sữa,” of course.
 date: 2024-04-15
@@ -28,7 +28,7 @@ Last Wednesday, the Hado office crew @nam, @hieuthu1, @vincent, @innno\_ decided
 
 ![wala](assets/2-walk-around-learn-around_2024-weekly-digest-april-15_2024-digest-7.webp)
 
-### The really career advice - Wait But Why
+### The really career advice - Wait but why
 
 Once you’re ready to show what you’ve learned, we’re all ears. The sharing from our COO @nikki isn’t just about giving you career advice. It’s a framework that I think can help you make career decisions that reflect who you are, what you want, and what our rapidly changing career landscape looks like today.
 

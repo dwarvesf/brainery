@@ -24,9 +24,9 @@ The new **Cline v2.0.0** update is packed with cool upgrades. First off, "**Clau
 
 We founded it [github repository](https://github.com/disler/poc-realtime-ai-assistant) 2 week ago. The speaker talks about [**real-time APIs** provide by OpenAI](https://openai.com/index/introducing-the-realtime-api/) and the way communicate with **o1 assistant**. It's cool to see how OpenAI has made a game challenge for the coding assistant, letting software engineers now interact with LLMs using voice. Here are some key points from the talk:
 
-- **Realtime API Features**: The speaker explains how this API makes **real-time tool chaining** and **function chaining** possible, allowing Ada to handle complex tasks with great accuracy.
-- **Technical Insights**: They dive into how Ada uses different AI agents, with a focus on file management (CRUD operations) and testing out file-related AI agents.
-- **Trade-offs and Risks**: The speaker also talks about the trade-offs with using the Realtime API, pointing out that while there are risks, the benefits for engineers and developers are huge. He encourages devs to jump on board to stay competitive.
+- **Realtime API features**: The speaker explains how this API makes **real-time tool chaining** and **function chaining** possible, allowing Ada to handle complex tasks with great accuracy.
+- **Technical insights**: They dive into how Ada uses different AI agents, with a focus on file management (CRUD operations) and testing out file-related AI agents.
+- **Trade-offs and risks**: The speaker also talks about the trade-offs with using the Realtime API, pointing out that while there are risks, the benefits for engineers and developers are huge. He encourages devs to jump on board to stay competitive.
 
 ![](assets/digest-01-openaI-realtime.webp)
 
@@ -34,8 +34,8 @@ We founded it [github repository](https://github.com/disler/poc-realtime-ai-assi
 
 **New approach from Aider:**
 
-- **Architect Role**: Generates a solution to the coding problem, focusing purely on reasoning. ( Use a strong reasoning model like o1-preview as your Architect. )
-- **Editor Role**: Converts the Architect's solution into specific, well-formatted code edits. ( Use a cheaper, faster model like gpt-4o as your Editor. )
+- **Architect role**: Generates a solution to the coding problem, focusing purely on reasoning. ( Use a strong reasoning model like o1-preview as your Architect. )
+- **Editor role**: Converts the Architect's solution into specific, well-formatted code edits. ( Use a cheaper, faster model like gpt-4o as your Editor. )
 - **Performance test**: Using o1-preview as the Architect with either DeepSeek or o1-mini as the Editor produced the SOTA score of 85%. Sonnet, GPT-4o and GPT-4o-mini all scored higher when used as an Architect/Editor pair.
 
 Aider's new "Architect/Editor" feature is inspired by OpenAI’s o1 models. Instead of struggling with perfect code edits, it lets the LLM describe the solution freely, then passes that to a second LLM to generate code updates. This way, it's faster and smoother, making complex sources code easier to handle while still keeping that interactive, pair-programming feel.

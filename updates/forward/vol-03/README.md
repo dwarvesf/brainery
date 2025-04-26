@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Dwarves Tech Radar- Vol 03
+# Dwarves tech radar- vol 03
 
 We started [the 1st volume](https://github.com/dwarvesf/radar/tree/master/vol-01) a year ago, mostly about assessing all the tech indexes we have adopted for 5 years. Then we moved to [the 2nd volume](https://github.com/dwarvesf/radar/tree/master/vol-02), where we figured ways to simplify the workflow and complete our project toolkit.
 
@@ -34,7 +34,7 @@ Currently, we're trialing Testlink with BaseHQ and Aharooms. We get to know the 
 
 ![](https://i.imgur.com/sk4hTPv.png)
 
-## Front-end Development
+## Front-end development
 
 ### Preact
 
@@ -46,7 +46,7 @@ Providing the same APIs and mechanism as React, Preact can be used directly in t
 
 A significant advantage of switching to Preact from React is the smaller bundle size that helps the app to load faster - this can be a key requirement for some projects. We're using Preact to bootstrap some projects of the marketplace and product showcases.
 
-## DevOps and Maintenance
+## DevOps and maintenance
 
 ### ArgoCD
 

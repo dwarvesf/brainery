@@ -12,7 +12,7 @@ Nam has published her MBTI research and showcased to the team last Monday. Some 
 - The team's MBTI: bit.ly/3eJLFVv
 - Reference card: link.d.foundation/profiling
 
-### The Notion Movement
+### The Notion movement
 
 Memo
 
@@ -22,7 +22,7 @@ Project Changelog
 
 Another achievement with Notion this week is the Project Changelog - it can be written and sent directly from Notion. We had introduced it for engineering team. Hope to see the adoption goes well. Kudos for Huy & Minh for the hard work.
 
-### AMA channel - Office Hours
+### AMA channel - Office hours
 
 We just saved a place for dedicated office hours from 4:30 to 6 pm in the discord/ama stage channel.
 

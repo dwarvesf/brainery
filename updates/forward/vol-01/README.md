@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Dwarves Tech Radar - Vol 01
+# Dwarves tech radar - vol 01
 
 It is our first volume. We started working on it from January of 2020. The Dwarves have their tradition to explore the tech scene and learn new things. This occasion is the first time we sit down and do it in written form. It's a bit hard for the engineers at first, but we managed to complete the volume with ten reports.
 
@@ -27,7 +27,7 @@ The study of volume 01 consists of
 - SwiftUI framework
 - XPC Service
 
-### Other Studies
+### Other studies
 
 - Blockchain for designer
 - Go routine underlying

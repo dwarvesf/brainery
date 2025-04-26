@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Generating Bash Completions For Your Own cobra.Command
+# Generating bash completions for your own cobra.Command
 
 If you are using the generator you can create a completion command by running
 

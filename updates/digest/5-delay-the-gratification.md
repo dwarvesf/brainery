@@ -1,5 +1,5 @@
 ---
-title: "Weekly Digest #5: Endure the hardship, delay the gratification"
+title: "Weekly digest #5: endure the hardship, delay the gratification"
 short_title: "#5 Endure the hardship, delay the gratification"
 description: Happy Monday, I’m here again, bringing you a lot of updates. There are big and small things brewing at Dwarves network. As we keep on crafting a better community day by day with you.
 date: 2024-05-14
@@ -22,13 +22,13 @@ This May 15-16, our leaders @tieubao, @nikki, and @huytq are gearing up for an e
 
 Echelon X is an annual tech business conference that gathers inspiring startups and ecosystem players from Southeast Asia and beyond. Get ready to make some waves because Dwarves is about to leave its mark at Echelon X Asia Summit 2024.
 
-### New Merchandise Alert
+### New merchandise alert
 
 Last week, the operations team gathered all your awesome input on the design for the t-shirt. Rest assured, every suggestion has been noted, and soon you'll get the chance to vote on the final design.
 
 The preparation is in progress, and we're thrilled about how it's shaping up. Cool new gear is on the way, so keep an eye out for the big reveal and happy voting.
 
-### Dwarfing It Up: OGIF (Oh God It's Friday) Tradition
+### Dwarfing it up: OGIF (Oh God It's Friday) tradition
 
 Every Friday afternoon, all members are warmly welcomed to join us on Discord for Dwarves’ casual showcases, taking place weekly at 5 PM. Simply come and hear the people to share their work. We don't want anyone to feel pressured, though.
 
@@ -56,7 +56,7 @@ Who knew stoicism could be so... deliciously rewarding? Catch you on the flip si
 
 ![](assets/5-endure-the-hardship-delay-the-gratification-stocism.webp)
 
-### Sticker mania: say it with style and Don't just say hello
+### Sticker mania: say it with style and don't just say hello
 
 OK, we hear you, discord crew, who's ready to jazz up their chats with some adorable stickers? The team responded very enthusiastically to the new sticker set. You can snag 'em for yourself at the Hado office, ping @innno for help.
 

@@ -1,11 +1,11 @@
 ---
-title: "#72 - Apprenticeship Wrapping Up"
+title: "#72 - Apprenticeship wrapping up"
 description: "Discover the latest team updates, project progress, Apple Spring Event highlights, and a comparison of GCP with AWS and Azure in this week's tech roundup."
 date: 2021-04-24
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Apprenticeship Wrapping Up
+### Apprenticeship wrapping up
 
 Apprenticeship has been wrapped up with 12 new Dwarves in the woodland. With 5 FE, 4 BE, and 3 Designers, we hope to collaborate with them to make this team more diverse in terms of skill set and culture.
 
@@ -13,13 +13,13 @@ Apprenticeship has been wrapped up with 12 new Dwarves in the woodland. With 5 F
 
 We've finalized the project artifacts list last week and have it updated for the team leads. We'll be setting it up on Gitlab and pull those source codes down to local. Meanwhile, QC Team will also set up their weekly report based on the changelog format.
 
-### Finalizing the Cycle
+### Finalizing the cycle
 
 We're getting closer to the end of this cycle. Apr 01 to Apr 24 real quick, I know. I'm freaking out too 🥲.
 
 We'll be holding a cycle review next week, probably fall to Apr 29 (Thursday). I'm crafting up the March/April Changelog and see how far we've come. Please help input your finished todos into the Roadmap list and add up goals for the next one.
 
-### News of the Week
+### News of the week
 
 Apple Spring Event Recap
 

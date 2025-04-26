@@ -22,7 +22,7 @@ Our engineering teams exchange thousands of Discord messages daily across projec
 
 This challenge led us to develop the Project Reports system - an intelligent orchestration layer that transforms scattered communication data into structured project intelligence. Our system processes multiple data streams, extracting key insights and patterns to generate comprehensive project visibility.
 
-## The foundation: Data architecture
+## The foundation: data architecture
 
 Our architecture follows a simple yet powerful approach to data management, emphasizing efficiency and practicality over complexity. We've built our system on three core principles:
 
@@ -166,7 +166,7 @@ Our processing pipeline emphasizes efficiency and security:
 3. **Storage layer**: Processed data is stored in S3 using Parquet and CSV formats
 4. **Query layer**: DuckDB and Polars engines provide fast, efficient data analysis
 
-## Dify - Operational intelligence through low-code workflows
+## Dify - operational intelligence through low-code workflows
 
 We use Dify to transform our raw data streams into intelligent insights through low-code workflows. This process bridges the gap between our data collection pipeline and the operational insights needed by our team.
 
@@ -210,17 +210,17 @@ graph LR
 
 Our Dify implementation provides a few key advantages:
 
-- **Rapid Iteration** The low-code nature of Dify allows us to quickly adjust workflows based on operational feedback. When our operations team needs new types of insights, we can modify templates and processing logic without extensive development cycles.
-- **Flexible Integration** The workflow system easily integrates with our existing data pipeline, pulling from our S3 storage and utilizing DuckDB/Polars for efficient data processing before applying intelligence templates.
-- **Maintainable Intelligence** Templates and workflows are version-controlled and documented, making it easy for team members to understand and modify the intelligence generation process. This ensures our reporting system can evolve with our organizational needs.
+- **Rapid iteration** The low-code nature of Dify allows us to quickly adjust workflows based on operational feedback. When our operations team needs new types of insights, we can modify templates and processing logic without extensive development cycles.
+- **Flexible integration** The workflow system easily integrates with our existing data pipeline, pulling from our S3 storage and utilizing DuckDB/Polars for efficient data processing before applying intelligence templates.
+- **Maintainable intelligence** Templates and workflows are version-controlled and documented, making it easy for team members to understand and modify the intelligence generation process. This ensures our reporting system can evolve with our organizational needs.
 
 ## Operational impact
 
 The Project Reports system serves as the foundation for our Operations team's project oversight. It provides:
 
-- **Real-time Project Visibility**: Operations can track progress across multiple projects through consolidated communication data, enabling early identification of potential issues or bottlenecks.
-- **Data-Driven Decision Making**: By analyzing communication patterns and project discussions, we can make informed decisions about resource allocation and project timelines.
-- **Automated Reporting**: The system generates comprehensive monthly reports, reducing manual effort and ensuring consistent project tracking across the organization.
+- **Real-time project visibility**: Operations can track progress across multiple projects through consolidated communication data, enabling early identification of potential issues or bottlenecks.
+- **Data-driven decision making**: By analyzing communication patterns and project discussions, we can make informed decisions about resource allocation and project timelines.
+- **Automated reporting**: The system generates comprehensive monthly reports, reducing manual effort and ensuring consistent project tracking across the organization.
 
 ## Technical implementation
 
@@ -271,9 +271,9 @@ The implementation of Project Reports has fundamentally transformed our project 
 
 We're expanding the system's capabilities in several key areas:
 
-- **Additional Data Sources**: Integration with Git metrics, JIRA tickets, and documentation platforms will provide a more comprehensive view of project health.
-- **Enhanced Analytics**: Implementation of advanced pattern recognition and trend analysis will improve our predictive capabilities.
-- **Automated Insights**: Deeper AI integration will enable more sophisticated report generation and context understanding.
+- **Additional data sources**: Integration with Git metrics, JIRA tickets, and documentation platforms will provide a more comprehensive view of project health.
+- **Enhanced analytics**: Implementation of advanced pattern recognition and trend analysis will improve our predictive capabilities.
+- **Automated insights**: Deeper AI integration will enable more sophisticated report generation and context understanding.
 
 We also don’t plan to be vendor-locked using entirely Modal. The foundations we’ve laid out to create our landing zones and data lake make it very easy to swap in-and-out query and API architectures.
 

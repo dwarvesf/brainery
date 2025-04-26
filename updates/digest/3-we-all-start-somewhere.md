@@ -1,5 +1,5 @@
 ---
-title: "Weekly Digest #3: We all start somewhere"
+title: "Weekly digest #3: We all start somewhere"
 short_title: "#3 We all start somewhere"
 description: "Huge news is on the horizon. You absolutely will not guess what we’re about to share. Excitement building, we remember last week like it was yesterday, but what truly counts is that you're here with us."
 date: 2024-04-22
@@ -34,7 +34,7 @@ Whatever you choose to do, make sure you make the most of those precious three d
 
 ![holiday](assets/3-we-all-start-somewhere_2024-weekly-digest-april-22_22-april-digest-lobby.webp)
 
-### Exciting opportunities await: Southeast Asia Blockchain Event
+### Exciting opportunities await: Southeast Asia blockchain event
 
 For the upcoming Southeast Asia Blockchain event happening next week in none other than the beautiful land of Thailand. Our super cool CEO has decided to go all out and sponsor a whopping 50% of the cost for anyone who wants to be part of this extravaganza. How awesome is that?
 

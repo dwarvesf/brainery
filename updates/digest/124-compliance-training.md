@@ -5,12 +5,12 @@ date: 2022-06-10
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Training Workshop: Software Modeling Class
+### Training workshop: Software modeling class
 
 - After the successful trial run with anh Ngô Ngọc Đăng Khoa, lecturer at University of Science HCM, we will try to invite more lecturers at universities to participate in the training so @peeps know how to get things done properly so please mark the date if you want to attend: Tue, June 14 from 7:30PM to 9PM
 - Let us know if there are any topics you’re interested in learning, we’re gonna make it happen. And please share your feedback on last Tuesday class through this 5-min survey: <https://form.typeform.com/to/HORIJBDe>
 
-### June Braniery Input
+### June Braniery input
 
 As in our May All Hands Meeting, the team is moving along with blockchain, this week we have these cool brainery submissions related:
 

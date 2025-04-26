@@ -1,11 +1,11 @@
 ---
-title: "#16 - The Dwarves Latest News"
+title: "#16 - The dwarves latest news"
 description: "Stay updated on The Dwarves' latest news including remote work, new hires, Canada sales partnerships, SwiftUI webinar, team jacket plans, and culture book insights."
 date: 2020-03-21
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-## The Dwarves Latest News
+## The dwarves latest news
 
 ---
 
@@ -23,7 +23,7 @@ For the short-term plan, our resource will be deployed for new projects and othe
 
 It's only a few last touches until we finish the final list of Toronto potential sales partnerships. After this, a new plan will be conducted to reach out and validate our new ideas. Some warm messages might be a good start. Currently, Nam and Linh are working on this.
 
-### TechRadar Webinar 🎥 Declarative Programming in SwiftUI
+### TechRadar webinar 🎥 Declarative programming in SwiftUI
 
 Succeeding the 1st Webinar of Basic Securities, this time webinar covers many specs of SwiftUI - the new UI framework of IOS and how it leverages declarative programming. For further dig in, we have uploaded the recorded version and the presentation slide on Github.
 

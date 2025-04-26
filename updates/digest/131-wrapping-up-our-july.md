@@ -5,15 +5,15 @@ date: 2022-07-29
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Catching up with July All-hands Meeting
+### Catching up with July all-hands meeting
 
 Been a month with changes. Let’s all sit down and walk through them in our next July All-hands meeting this Friday, July 29 at 5PM in 🔥 open voice 🤙 Hope to see all of your there!
 
-### How 1:1 Performance Review is Going On
+### How 1:1 performance review is going on
 
 Around 20s performance review sessions were conducted this week, and many more to come. The meeting aims to review the outcome after our previous ranking level calibration. The final result will then be used as a standard for salary increment.
 
-### Closing up July Brainery Batch
+### Closing up July brainery batch
 
 Happy to realize the no. of contributors has increased 18% comparing to June. To revisit the great inputs, check out
 
@@ -26,7 +26,7 @@ Happy to realize the no. of contributors has increased 18% comparing to June. To
 
 From tips on writing a good resume to interview tricks, we can all use some experience sharing in life. Let’s grow together.
 
-### More Dwarves in town
+### More dwarves in town
 
 We’re delighted to welcome some new Dwarves to join the team this week
 

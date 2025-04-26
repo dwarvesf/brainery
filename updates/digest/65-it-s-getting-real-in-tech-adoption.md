@@ -21,7 +21,7 @@ After the first move with Startup definition, we got back with a higher approach
 
 Should you find any other source that can widen up the team’s knowledge, feel free to pitch 🙆🏻‍♀️
 
-### Wrapped up on Performance review
+### Wrapped up on performance review
 
 The Ops team has done reviewing all the good work and it’s the time we’ve all been waiting for. yeb you know what I mean 😏. We’ll be sending email for salary adjustments in short. If you have any question, please give a ping to your lead, or drop a message to Huy N.
 
@@ -31,7 +31,7 @@ The coffee platform is ready to sail. I mean sell. Get your first experience at 
 
 ![](assets/notion-image-1744007053873-v79m9.webp)
 
-### Collect your new BV Insurance card
+### Collect your new BV insurance card
 
 Van has just finished renewing our Bao Viet Insurance card. The last one expires on Feb 10th, if my memory serves me right. Check with Van to receive your new cards. In case you can’t find your name in this list, maybe Van’s planning on another batch for renewal. Just check with her if you need anything related to the insurance coverage in the mean time.
 

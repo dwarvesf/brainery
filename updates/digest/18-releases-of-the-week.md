@@ -2,10 +2,10 @@
 title: "#18 - Releases of the Week"
 description: Discover the latest updates from Dwarves including new features, team updates, and a new site for coding vibes.
 date: 2020-04-04
-last_edited: 2025-04-07
+last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-## Team Jacket Deposit? Done
+## Team jacket deposit? done
 
 ---
 
@@ -32,23 +32,23 @@ It's hard to lift up the mood or productivity without music. As a result, we cam
 
 Check out the 1st version at sudo.fm. Minh Luu is currently working on it so feel free to ping him if you have any question, or a cool playlist to add up the fun.
 
-### Latest Update on Dwarves Handbook
+### Latest update on Dwarves handbook
 
 <https://github.com/dwarvesf/handbook/blob/master/who-does-what.md>
 
 A few write up on our latest role definition. Thought we have mentioned this a ton, I know, but the team keeps changing and we gotta make it up-to-date as much as possible.
 
-### Team Jacket Deposit
+### Team jacket deposit
 
 A great way to wrap up our March. We've had a deposit for our team Jacket and the supplier is dping their job. It took us a few times to finalize the demo sample, but we love it.
 
-### 1st Release of Micro Sniff
+### 1st release of Micro Sniff
 
 The latest "bits" from MacOS team. Micro Sniff helps us to recognize the current in-use microphone by display a vague icon with the name of that microphone on your desktop screen.
 
 ![](assets/notion-image-1744007188485-wl7d2.webp)
 
-### New Hires
+### New hires
 
 Looks like the team is getting bigger day by day. We welcomed another Frontend Engineer last Wednesday.
 

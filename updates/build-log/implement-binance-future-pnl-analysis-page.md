@@ -13,27 +13,27 @@ tags:
 
 As Binance doesn't allow Master Account see MSA account Future PNL Analysis, so we decide to clone Binance Future PNL Analysis page with Phoenix Live View to show all Account Future PNL
 
-## Why we use Phoenix Live View for Binance Future PNL Analysis page
+## Why we use Phoenix Live View for Binance Future PNL analysis page
 
-### Real-Time Data Handling
+### Real-time data handling
 
 - Phoenix Live View has built-in Websocket management so we can update data realtime with price or position update
 - Efficient handling of continuous data streams from Binance
 - Automatic connection management and recovery
 
-### Server-Side State Management
+### Server-side state management
 
 - Keeps sensitive trading data secure on the server
 - Ensures calculation accuracy for PNL computations
 - Prevents client-side manipulation of important data
 
-### Complex Calculations
+### Complex calculations
 
 - Handles all PnL calculations server-side
 - Better precision for financial calculations
 - Centralized calculation logic
 
-### Development Efficiency
+### Development efficiency
 
 - Single technology stack (Elixir)
 - No need for separate frontend framework
@@ -41,7 +41,7 @@ As Binance doesn't allow Master Account see MSA account Future PNL Analysis, so 
 
 ## How to optimize query with timescale
 
-### Data Source
+### Data source
 
 Base on [Binance Docs](https://www.binance.com/en/support/faq/how-are-pnl-calculated-on-binance-futures-and-options-pnl-analysis-dbb171c4db1e4626863ec8bc545be46a) we have compound data from 2 timescale tables: `ts_user_trades` and `ts_future_incomes`
 

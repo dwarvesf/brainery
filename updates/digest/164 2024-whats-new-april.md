@@ -1,5 +1,5 @@
 ---
-title: "What's New in April 2024"
+title: "What's new in April 2024"
 description: "In this April, we're focused on memo upgrading, reward system, OGIF, internal tooling, community meetup and market report."
 date: 2024-05-23
 authors:

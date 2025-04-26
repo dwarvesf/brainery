@@ -5,11 +5,11 @@ date: 2021-03-13
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Apprenticeship Program
+### Apprenticeship program
 
 We’re getting back on Apprenticeship this year. Huy is in charge of running the campaign. Apprenticeship is designed for engineers with working experience, but they seek to fill up the foundation knowledge, or simply want to improve themself. Hope we can bring a few more people to expand the team.
 
-### Annual Health Care reminder
+### Annual health care reminder
 
 Just a quick reminder. We’re having the annual health check up next week, starting with the blood test on Monday, March 13th. The overall health check up will take place on Saturday, March 20th. Please be reminded that the blood test will be conducted at our office. Check out this message again if you seek for more detailed info.
 

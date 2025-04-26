@@ -36,7 +36,7 @@ Things I'll go through:
 - A sample project which covers multiple basic `three,js` & audio processing concepts that I can refer to when necessary
 - A small presentation of what `three,js` has to offer if anyone's interested
 
-## Code & Documents/Slides
+## Code & documents/slides
 
 - [Code](/Code)
 - [Documents/Slides](/Documents)

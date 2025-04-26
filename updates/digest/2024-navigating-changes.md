@@ -62,7 +62,7 @@ Our Discord isn't just a chatroom; it will remain a hub of learning and connecti
 
 Let's continue to nurture this space.
 
-### RECAP , TL;DR
+### Recap , TL;DR
 
 1. The innovation market has changed progressively.
 2. Our target customers are changing accordingly (Blockchain, AI, Data).

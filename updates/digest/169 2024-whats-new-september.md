@@ -1,5 +1,5 @@
 ---
-title: "What's New in September 2024"
+title: "What's new in September 2024"
 description: "Each month, we roll out a recap of our team and community's strides forward. September's updates spotlight the AI Club launch, rewards for our sharing culture, hybrid work check-ins, reporting tech trends in forward engineering, and our Mid-Autumn celebration."
 date: 2024-10-01
 authors:
@@ -11,9 +11,9 @@ tags:
 ---
 
 - [**🧙・ai-club:**](#ai-club-building-ai-agents-ai-sheep-role--copilot-bounties) We launched the AI-Club, your go-to hub for diving into AI and LLMs, where curiosity sparks real projects and dynamic discussions.
-- [**Record & Reward Sharing Culture:**](#record-and-reward-culture-with-a-monthly-pool-up-to-2500-icy) We're putting real value behind shared knowledge. AI/LLM contributions earned 3x-4x rewards this month. Shoutout to those leading the charge.
-- [**Hybrid Working & Auto Check-In:**](#return-to-the-office-auto-check-in--icy-perks) Stay in sync with the team and our learning culture. Check-in and earn 5 ICY, a simple nudge to keep us connected.
-- [**Tech Report - Forward Engineering:**](#forward-engineering-q3-tech-roundup-experiments-insights-and-whats-next) This quarter, we cut through the noise, focusing on AI and what truly drives impact. The report highlights tools, insights, and trends shaping our engineering path.
+- [**Record & reward sharing culture:**](#record-and-reward-culture-with-a-monthly-pool-up-to-2500-icy) We're putting real value behind shared knowledge. AI/LLM contributions earned 3x-4x rewards this month. Shoutout to those leading the charge.
+- [**Hybrid working & auto check-in:**](#return-to-the-office-auto-check-in--icy-perks) Stay in sync with the team and our learning culture. Check-in and earn 5 ICY, a simple nudge to keep us connected.
+- [**Tech report - Forward engineering:**](#forward-engineering-q3-tech-roundup-experiments-insights-and-whats-next) This quarter, we cut through the noise, focusing on AI and what truly drives impact. The report highlights tools, insights, and trends shaping our engineering path.
 - [**Mid-Autumn Festival:**](#mid-autumn-festival-recap) We celebrated with mooncakes and meaningful moments, keeping the hustle, honoring tradition without missing a step.
 
 ![](assets/2024-whats-new-sep-theme.png)
@@ -23,7 +23,7 @@ tags:
 The AI-Club is officially live, becoming the go-to hub for anyone eager to dive into AI and LLM technologies. It's where exploration turns into practical, productivity-boosting outcomes:
 
 - **🧙・ai-club**: A collaborative space laser-focused on building AI agents that will turbocharge productivity across our projects. Think of it as your secret weapon, one that transforms your workday from grind to grand.
-- **Copilot Bounties**: Get involved and get rewarded. We're putting bounties on the line for those who build and contribute impactful AI/LLM insights, projects, or solutions.
+- **Copilot bounties**: Get involved and get rewarded. We're putting bounties on the line for those who build and contribute impactful AI/LLM insights, projects, or solutions.
 
 ![](assets/2024-whats-new-sep-copilot-y.png)
 
@@ -43,9 +43,9 @@ We're doubling down on creating a learning culture where knowledge isn't just sh
 
 We're not just talking about learning; we're making it a core part of how we grow as a team.
 
-- **ICY Rewards**: A monthly pool of 2500 ICY (~$4000) is up for grabs. A solid 70% is earmarked for AI/LLM, Golang, Software Architecture, and Blockchain.
-- **How to Join**: Share valuable links in **💻・tech**, join OGIFs, or contribute to open-source projects that boost team productivity.
-- **Triple Rewards for AI/LLM Content**: We're boosting rewards 3-4x for AI/LLM-related contributions. Dive into topics like building LLM applications, tools, prompts, and workflows.
+- **ICY rewards**: A monthly pool of 2500 ICY (~$4000) is up for grabs. A solid 70% is earmarked for AI/LLM, Golang, Software Architecture, and Blockchain.
+- **How to join**: Share valuable links in **💻・tech**, join OGIFs, or contribute to open-source projects that boost team productivity.
+- **Triple rewards for AI/LLM content**: We're boosting rewards 3-4x for AI/LLM-related contributions. Dive into topics like building LLM applications, tools, prompts, and workflows.
 
 Feel free to ping @Tom or @thanh for more guidance. Check out [🚨・red-alert](https://discord.com/channels/462663954813157376/915941020968046612/1281097666809434184) for the details.
 

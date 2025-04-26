@@ -1,5 +1,5 @@
 ---
-title: "What's New in November 2024"
+title: "What's new in November 2024"
 description: In November, we sharpened our focus with advancements in platform engineering, introduced streamlined service packages, elevated ICY rewards for impactful contributions, and embraced key insights from market shifts, all building momentum as we gear up for our Penang retreat.
 date: 2024-12-04
 authors:
@@ -19,7 +19,7 @@ tags:
 - [**Earn more ICY:**](#high-quality-knowledge-sharing-earns-bigger-icy-rewards) Recognizing quality contributions with higher rewards for impactful sharing.
 - [**Fostering connections:**](#engaging-with-the-industry-showing-up-and-sharing-back) Summits, meetups, and chances to grow valuable relationships.
 - [**Let's go to Penang:**](#pack-your-bags-penang-awaits-for-the-company-trip) Company trip confirmed for 14 - 17/12/2024, get ready for a memorable team retreat.
-- [**Join the team:**](#join-us-opportunities-in-marketing-biz-dev-and-full-stack-roles) Open roles for Marketing Executive, Business Development Specialist, and Full-stack Engineering, be part of Dwarves.
+- [**Join the team:**](#join-us-opportunities-in-marketing-biz-dev-and-full-stack-roles) Open roles for Marketing executive, Business development Specialist, and Full-stack Engineering, be part of Dwarves.
 
 ![](assets/2024-whats-new-november-thumbnail.png)
 
@@ -139,13 +139,13 @@ Highlights to expect:
 
 Grab the details in **🦄・pink-alert** and stay tuned.
 
-## Join us: opportunities in Marketing, Biz Dev, and Full-Stack roles
+## Join us: Opportunities in Marketing, Biz Dev, and Full-Stack roles
 
 We're still on the lookout for talented folks to join the team:
 
-- [Full-stack Engineer (Blockchain)](https://memo.d.foundation/careers/open-positions/full-stack-engineer/)
-- [Marketing Executive](https://memo.d.foundation/careers/open-positions/marketing-and-communications-specialist/)
-- [Business Development](https://memo.d.foundation/careers/open-positions/business-development/)
+- [Full-stack engineer (Blockchain)](https://memo.d.foundation/careers/open-positions/full-stack-engineer/)
+- [Marketing executive](https://memo.d.foundation/careers/open-positions/marketing-and-communications-specialist/)
+- [Business development](https://memo.d.foundation/careers/open-positions/business-development/)
 
 Think you're a fit or know someone who is? Drop us a line at [spawn@d.foundation](mailto:spawn@d.foundation) or ping [@nikki](https://memo.d.foundation/contributor/nikki) on Discord.
 

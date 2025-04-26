@@ -29,7 +29,7 @@ We needed a solution that could handle both scenarios: transparent monitoring fo
 
 We found our answer in [Upptime](https://upptime.js.org). It's an open-source uptime monitor and status page powered entirely by GitHub Actions, Issues, and Pages. The GitOps approach allows configuration to live in a Git repository, making changes trackable and collaborative. It's cost-effective, as it runs primarily on free GitHub Actions tiers, although we use self-hosted runners for more control. Automation is another benefit, with checks running automatically on a schedule. Additionally, transparency is enhanced as it generates a static status page easily deployable via GitHub Pages. Lastly, it excels in secret management by integrating seamlessly with GitHub Secrets.
 
-## Configure `.upptimerc.yml` File
+## Configure `.upptimerc.yml` file
 
 The heart of our Upptime setup is the `.upptimerc.yml` file in our `dwarvesf/upptime` repository:
 

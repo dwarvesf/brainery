@@ -5,7 +5,7 @@ date: 2020-05-23
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Celebrate the 1st Milestone of Dwarves Foundation
+### Celebrate the 1st milestone of Dwarves Foundation
 
 Yah we know it's been 2 cycles (which means 4 months already) since our 5th Anniversary, thank God the feeling is still there to craft up this recap.
 
@@ -21,14 +21,14 @@ To know more about Readify's feature, we have this article here: Readify's Featu
 
 ![](assets/notion-image-1744007084260-tolcq.webp)
 
-### Software Development Life Cycle
+### Software development life cycle
 
-Conducted by Khai Le & Huy Nguyen, this workshop contains the basic knowledge on Software Development Life Cycle, provides people with a step-to-step guideline and the artifacts which will be created on the way. We don't dive in the details. Instead, we treat it as an overview look on how to build software successfully.
+Conducted by Khai Le & Huy Nguyen, this workshop contains the basic knowledge on Software development life cycle, provides people with a step-to-step guideline and the artifacts which will be created on the way. We don't dive in the details. Instead, we treat it as an overview look on how to build software successfully.
 
 Table of Content
 
 1. What is Software Project?
-1. Software Development Life Cycle
+1. Software development life cycle
 1. SDLC Models
    What is Software Project
    We build software, and we need a planned undertaking. So call software project is “A specific plan or design” or “A planned undertaking”.
@@ -52,7 +52,7 @@ With a lot of constraints, the project is easy to fail. We could have plenty of 
   Project Success
   If it's easy to fail, then what is a successful project?
 
-Read the full article at Dwarves Memo - Software Development Life Cycle 101
+Read the full article at Dwarves Memo - Software development life cycle 101
 
 ### Adjust the way we work, in Basecamp style
 

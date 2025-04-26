@@ -28,11 +28,11 @@ this? What related work exists?
 
 How will people benefit from this work? How this can benefit your work?
 
-## Code & Documents/Slides
+## Code & documents/slides
 
 Link to your code folder (for tool) or documents/slides (for Technique, Langues, Framework and Platform)
 
-## Tutorials and Examples
+## Tutorials and examples
 
 We should create end-to-end examples (ideally, a tutorial) which reflects how this tech will be used. Some things to consider related to the tutorial:
 

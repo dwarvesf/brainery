@@ -5,11 +5,11 @@ date: 2020-10-24
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Bi-weekly Summary Done Log
+### Bi-weekly summary done log
 
 A summary of what we have done every two weeks for clients to catchup with the progress. Huy’s handling this by adding labels for each to-do, we can backup done to-dos from all source into one place and create a done list based on it.
 
-### Monthly Newsletter for Client Experience
+### Monthly newsletter for client experience
 
 Giang figures it would be a great way to engage more with our client if we let them see things from our point of view. It could be a summary log of their project, industry news, or some cools things we’re working internally.
 
@@ -17,7 +17,7 @@ We’re trialling this by pitching our writing topics next Monday (with Hackmd f
 
 Since it’s a monthly issue, we’ll be glad to receive ideas pitching from everyone. If you have something great on industry news, or something you wish to add up to improve the project
 
-### Operation: Onboarding Process Adjustment
+### Operation: onboarding process adjustment
 
 In order to better design the experience for newbie, we believe it’s best to involve more on the onboarding process. In the past, there weren’t much interaction between newbie and the team outside of work and project. Somehow newbies are only aware of what they need to do during the probation time, not the expectation if they turn into a full time Dwarves. Thus after that, they tend to fall for the loop of “ok, now what”.
 

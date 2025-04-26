@@ -190,7 +190,7 @@ Boolean flags (in their long form) accept 1, 0, t, f, true, false,
 TRUE, FALSE, True, False.
 Duration flags accept any input valid for time.ParseDuration.
 
-## Mutating or "Normalizing" Flag names
+## Mutating or "normalizing" flag names
 
 It is possible to set a custom flag name 'normalization function.' It allows flag names to be mutated both when created in the code and when used on the command line to some 'normalized' form. The 'normalized' form is used for comparison. Two examples of using the custom normalization func follow.
 

@@ -1,5 +1,5 @@
 ---
-title: The Stage of AI and LLM at Dwarves
+title: The stage of AI and LLM at Dwarves
 description: "Here's another update from Dwarves for you. We are excited to share the real journey of growth and transformation since AI and LLM have been on our radar for quite a long time."
 date: 2024-09-13
 authors:
@@ -34,11 +34,11 @@ Since 2015, we have always known that R&D is the engine driving ideas, innovatio
 
 Now with the focus being AI/LLM, the team is going full speed with learning, training, and building for AI adoption.
 
-- **Large Language Models** like GPT and Claude to tackle all sorts of text-based tasks, from generating content to understanding complex queries
-- **NLP Techniques** to make sense of text with techniques for sentiment analysis and summarization.
+- **Large language models** like GPT and Claude to tackle all sorts of text-based tasks, from generating content to understanding complex queries
+- **NLP techniques** to make sense of text with techniques for sentiment analysis and summarization.
 - **Retrieval-Augmented Generation (RAG)** combines multiple methods to improve how we search and retrieve information, making our solutions more effective.
-- **Embedding Technologies** helps enhance content recommendations based on user needs.
-- **AI-Powered Analytics** covers the analytics front by predicting trends, spotting anomalies, and understanding complex data patterns, helping us make informed decisions.
+- **Embedding technologies** helps enhance content recommendations based on user needs.
+- **AI-powered analytics** covers the analytics front by predicting trends, spotting anomalies, and understanding complex data patterns, helping us make informed decisions.
 
 Additionally, we’re involved in computer vision projects for image recognition and develop multimodal AI systems that combine text and images for more comprehensive solutions.
 
@@ -46,14 +46,14 @@ Additionally, we’re involved in computer vision projects for image recognition
 
 We always share what we learn and train with other tech fellows through Dwarves Memo.
 
-- [Journey of Thought Prompting: Harnessing AI to Craft Better Prompts](/ai/journey-of-thought-prompting.md)
-- [Streamlining Internal Tool Development with Managed LLMOps: A Dify Case Study](https://memo.d.foundation/playground/01_literature/building-llm-powered-tools-with-dify/)
+- [Journey of thought prompting: Harnessing AI to craft better prompts](/ai/journey-of-thought-prompting.md)
+- [Streamlining internal tool development with managed LLMOps: A Dify case study](https://memo.d.foundation/playground/01_literature/building-llm-powered-tools-with-dify/)
 - [Evaluating search engine in RAG systems](https://memo.d.foundation/playground/01_literature/hybrid-search/)
 - [Rapid software development with AI](https://memo.d.foundation/playground/01_literature/developing-rapidly-with-generative-ai/)
-- [Building Agent Supervisors for Insight Generation](https://memo.d.foundation/playground/01_literature/supervisor-ai-agents/)
-- [Re-ranking in RAG (Retrieval-Augmented Generation)](https://memo.d.foundation/playground/01_literature/engineering/ai/re-ranking-in-rag/)
-- [AI-Powered Interview System](https://memo.d.foundation/playground/01_literature/how-we-created-an-ai-powered-interview-system-using-openais-chatgpt/)
-- [Feedback Mechanisms for LLM Applications](https://memo.d.foundation/playground/01_literature/feedback-mechanism/)
+- [Building agent supervisors for insight generation](https://memo.d.foundation/playground/01_literature/supervisor-ai-agents/)
+- [Re-ranking in RAG (Retrieval-augmented generation)](https://memo.d.foundation/playground/01_literature/engineering/ai/re-ranking-in-rag/)
+- [AI-powered interview system](https://memo.d.foundation/playground/01_literature/how-we-created-an-ai-powered-interview-system-using-openais-chatgpt/)
+- [Feedback mechanisms for LLM applications](https://memo.d.foundation/playground/01_literature/feedback-mechanism/)
 
 ## Building AI-powered solutions
 

@@ -187,7 +187,7 @@ The resulting chunk size is within acceptable limits.
 
 ## Migration plan
 
-### Dual Write
+### Dual write
 
 To make sure new tables have new data same as old tables we insert both of tables to make sure we don't lost new data and can rollback to old table if we have problem
 

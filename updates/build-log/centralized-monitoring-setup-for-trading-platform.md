@@ -40,7 +40,7 @@ Integrating Grafana and Prometheus provides Nghenhan with a powerful centralized
 - **Grafana**: Grafana fetches data from Prometheus to create visualizations and dashboards. It also allows users to set up alerts and explore historical data.
 - **Notification receivers**: The notification receivers are the endpoints or channels where alerts are sent, such as email, Discord, or custom webhooks. The admin can also receive notifications and take appropriate actions based on the alerts.
 
-### Prometheus as Data collector
+### Prometheus as data collector
 
 Prometheus serves as the primary data collection and monitoring tool, scraping metrics from various services and recording health and performance information. The setup involves configuring Prometheus to gather data on key metrics, including:
 
@@ -74,7 +74,7 @@ due to multiple issues, such as resource limits, configuration errors, or depend
 
 ![](assets/nghenhan-service-back-off-restarting.webp)
 
-### Grafana as Data Visualizer for insightful observations
+### Grafana as data visualizer for insightful observations
 
 Grafana complements Prometheus by providing robust data visualization capabilities. With Grafana, Nghenhan can create dynamic dashboards that display real-time data on service performance. These dashboards include:
 

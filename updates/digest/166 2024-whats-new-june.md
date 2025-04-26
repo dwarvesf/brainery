@@ -1,5 +1,5 @@
 ---
-title: "What's New in June 2024"
+title: "What's new in June 2024"
 description: In June, we expanded our knowledge base on software design, LLMs, and blockchain, while actively encouraging knowledge-sharing through increased ICY rewards. Our Vietnam Tech Scene report highlighted key industry players, and weekly OGIF talks fostered discussions on diverse tech topics like design patterns, data modalities, and blockchain architecture
 date: 2024-07-04
 authors:
@@ -12,10 +12,10 @@ tags:
 ---
 
 - [**memo.d.foundation**](#the-growing-of-memo-pile): more entries focusing on software design, LLM and blockchain, a key focus of our continuous learning journey.
-- [**Increased ICY Rewards**](#enable-reward-for-the-learning-system): the increasing amount of fleeting notes boosted our learning reward system.
-- [**Dwarves Token Usage**](#dwarves-token-usage-for-june): our community's exceptional engagement led to ~500 ICY rewarded for contributions, with notable efforts in OGIF talks, tech sharing, and Memo notes.
-- [**Vietnam Tech Scene**](#building-a-network-of-trusted-partners-in-vietnams-tech-ecosystem) report covered notable insights into our nation's tech landscape, as well as key players in AI, fintech, and blockchain/crypto ecosystem.
-- [**Weekly OGIF Talks**](#dwarves-office-hours-at-5pm-every-friday): Our Friday sessions promote a knowledge-sharing culture. In June, we've covered design patterns, content mapping, software design, data modalities, and blockchain architecture.
+- [**Increased ICY rewards**](#enable-reward-for-the-learning-system): the increasing amount of fleeting notes boosted our learning reward system.
+- [**Dwarves token usage**](#dwarves-token-usage-for-june): our community's exceptional engagement led to ~500 ICY rewarded for contributions, with notable efforts in OGIF talks, tech sharing, and Memo notes.
+- [**Vietnam tech scene**](#building-a-network-of-trusted-partners-in-vietnams-tech-ecosystem) report covered notable insights into our nation's tech landscape, as well as key players in AI, fintech, and blockchain/crypto ecosystem.
+- [**Weekly OGIF talks**](#dwarves-office-hours-at-5pm-every-friday): Our Friday sessions promote a knowledge-sharing culture. In June, we've covered design patterns, content mapping, software design, data modalities, and blockchain architecture.
 
 ![](assets/2024-whats-new-june-thumbnail.webp)
 
@@ -29,7 +29,7 @@ With the focus on Mastery, Meaning, and Autonomy (MMA) has driven significant gr
 2. [Multimodal in RAG](https://memo.d.foundation/playground/01_literature/Engineering/AI/multimodal-in-rag/) - [@hoangnnh](https://github.com/nnhuyhoang)
 3. [Bloom filter](https://memo.d.foundation/playground/01_literature/engineering/backend/bloom-filter/) - [@hoangnnh](https://github.com/nnhuyhoang)
 4. [Command](https://memo.d.foundation/playground/01_literature/engineering/backend/bloom-filter/), [State Pattern](https://memo.d.foundation/playground/01_literature/state-pattern/), and [Radix sort](https://memo.d.foundation/playground/01_literature/radix-sort/) - [@hieuvd](https://github.com/vdhieu)
-5. [Go Weekly: Mastering Go performance](https://memo.d.foundation/playground/00_fleeting/go-weekly-510/) - [@phatnt](https://github.com/fuatto)
+5. [Go weekly: mastering Go performance](https://memo.d.foundation/playground/00_fleeting/go-weekly-510/) - [@phatnt](https://github.com/fuatto)
 6. [Using devbox to setup local development environment](https://memo.d.foundation/playground/01_literature/devbox-local-development-env/) by [@hnh](https://github.com/huynguyenh), [@bienvh](https://github.com/baenv)
 7. [Organize team know-how with the Zettenlkasten method](https://memo.d.foundation/playground/00_fleeting/organize-team-know-how-with-zettelkasten-method/) - [@minh_cloud](https://github.com/minhcloud)
 8. [How to talk to ChatGPT effectively](https://memo.d.foundation/playground/00_fleeting/how-to-talk-to-chatgpt-effectively/) - [@minh_cloud](https://github.com/minhcloud)
@@ -88,11 +88,11 @@ Our OGIF sessions continue to be a hit. These Friday afternoon talks are a chanc
 
 We have discussed:
 
-- [Behavior Design Pattern: Observe pattern, Design pattern](https://memo.d.foundation/playground/01_literature/command-pattern/) by @hoangnnh, @hieuvd
-- [Design pattern: State vs Strategy](https://memo.d.foundation/playground/01_literature/state-pattern/) by @jim, @anhnh
+- [Behavior design pattern: observe pattern, design pattern](https://memo.d.foundation/playground/01_literature/command-pattern/) by @hoangnnh, @hieuvd
+- [Design pattern: state vs strategy](https://memo.d.foundation/playground/01_literature/state-pattern/) by @jim, @anhnh
 - [How to make MOC (content map)](https://memo.d.foundation/playground/01_literature/how-to-make-a-moc/) by @thanh
 - [Template method](https://memo.d.foundation/playground/01_literature/template-method-design-pattern/) & [Visitor radix sort](https://memo.d.foundation/playground/01_literature/radix-sort/) by @anhnh, @taipn
-- [Go Weekly: Mastering Go performance](https://memo.d.foundation/playground/00_fleeting/go-weekly-510/) by @phatnt
+- [Go weekly: mastering Go performance](https://memo.d.foundation/playground/00_fleeting/go-weekly-510/) by @phatnt
 - [Solana core concepts](https://memo.d.foundation/playground/01_literature/solana-core-concepts/) by @huymaius
 - [Multimodal in RAG](https://memo.d.foundation/playground/01_literature/Engineering/AI/multimodal-in-rag/) by @hoangnnh
 
@@ -108,12 +108,12 @@ By connecting key players in the ecosystem, this report aims to establish a netw
 
 Key highlights include:
 
-- **Investment and Growth:** $529 million in investments in 2023, with Vietnam ranking third in Southeast Asia for deal count and value.
-- **Sector Surge:** Substantial growth in Healthcare and Education investments, up by 391% and 107%.
-- **Digital Economy:** Fastest-growing in Southeast Asia, projected to reach $43 billion by 2025.
+- **Investment and growth:** $529 million in investments in 2023, with Vietnam ranking third in Southeast Asia for deal count and value.
+- **Sector surge:** Substantial growth in Healthcare and Education investments, up by 391% and 107%.
+- **Digital economy:** Fastest-growing in Southeast Asia, projected to reach $43 billion by 2025.
 - **Active-Investors:** Nearly 100 investors, including major players like 500 Startups Vietnam, VSV Capital, and VinaCapital Ventures.
-- **AI/Fintech Leaders:** Influential investors like 500 Startups Vietnam, VSV Capital, and VinaCapital Ventures significantly impact the AI and fintech sectors.
-- **Blockchain and Crypto Leaders:** Animoca Brands, Foresight Ventures, and HashKey Capital are driving innovation in the blockchain/crypto space.
-- **Legal Support:** Favorable policies fostering innovation and growth, with improved public market governance and increased M&A activities driven by local conglomerates.
+- **AI/Fintech leaders:** Influential investors like 500 Startups Vietnam, VSV Capital, and VinaCapital Ventures significantly impact the AI and fintech sectors.
+- **Blockchain and crypto leaders:** Animoca Brands, Foresight Ventures, and HashKey Capital are driving innovation in the blockchain/crypto space.
+- **Legal support:** Favorable policies fostering innovation and growth, with improved public market governance and increased M&A activities driven by local conglomerates.
 
 ![](assets/2024-whats-new-june-tech-market.webp)

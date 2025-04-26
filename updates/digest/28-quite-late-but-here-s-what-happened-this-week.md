@@ -11,10 +11,10 @@ We’ve moving Memo out to the backlog of Woodland. Previously, Memo was quite o
 
 ![](assets/notion-image-1744007072852-bwops.webp)
 
-### Business Updates
+### Business updates
 
 We closed a deal with a key client this week and Nam N is going to start 1-week trial in the next Monday. This is our second project in the US, so we can leverage more this potential market and continue practicing the working process in 12 timezones distance. We hope to contribute to this healthcare startup to see the growth opportunity for the industry in the Covid-19 pandemic.
 
-### BK Internship Wrap-up
+### BK internship wrap-up
 
 Van has help wrapped up the Internship recruiting with Bach Khoa University. That leaves us with 5 soon-to-be Dwarves joining us this July.

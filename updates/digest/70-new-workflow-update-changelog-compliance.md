@@ -5,11 +5,11 @@ date: 2021-04-10
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Apprenticeship Update
+### Apprenticeship update
 
 After 3 weeks of rolling out, Apprenticeship has finally ready for the first training period with 8 members onboarded, from engineers to designers. We'll soon gather the seniors for the trainer team and come up with a detailed strategy.
 
-### Workflow & Quality Enhancement
+### Workflow & quality enhancement
 
 Communication Heed
 

@@ -1,5 +1,5 @@
 ---
-title: "AI digest #2 New command Aider, OpenHands, Qwen2.5 Coder 32B, Predicted Output"
+title: "AI digest #2 new command Aider, OpenHands, Qwen2.5 Coder 32B, predicted output"
 description: Stay updated on the latest in AI tools for developers with this week’s digest, new command Aider, OpenHands, Qwen2.5 Coder 32B
 date: 2024-11-15
 authors:
@@ -50,7 +50,7 @@ Predicted Outputs let you speed up model responses by giving the model a heads-u
 
 For example, say you have a function that logs messages, and you want to tweak it to include the current date. Instead of rewriting the whole thing, you send the original function as a prediction. The model then quickly returns just the updated version, where it logs both the date and the message, saving time and effort.
 
-### Original Code
+### Original code
 
 ```jsx
 function logMessage(message) {
@@ -60,7 +60,7 @@ function logMessage(message) {
 export default logMessage;
 ```
 
-### Prediction Setup and Code Update Prompt
+### Prediction setup and code update prompt
 
 In this case, we want to modify the `logMessage` function to include the date. Here’s how you’d set up the request with a `Predicted Output`:
 
@@ -98,7 +98,7 @@ const completion = await openai.chat.completions.create({
 console.log(completion.choices[0].message.content);
 ```
 
-### Expected Response
+### Expected response
 
 The model will likely return the following:
 

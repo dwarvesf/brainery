@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# ASCII Table Writer
+# Ascii table writer
 
 [![Build Status](https://travis-ci.org/olekukonko/tablewriter.png?branch=master)](https://travis-ci.org/olekukonko/tablewriter)
 [![Total views](https://img.shields.io/sourcegraph/rrc/github.com/olekukonko/tablewriter.svg)](https://sourcegraph.com/github.com/olekukonko/tablewriter)
@@ -64,7 +64,7 @@ table.Render() // Send output
 +------+-----------------------+--------+
 ```
 
-#### Example 2 - Without Border / Footer / Bulk Append
+#### Example 2 - Without border / footer / bulk append
 
 ```go
 data := [][]string{
@@ -118,7 +118,7 @@ table.Render()
 +----------+--------------+------+-----+---------+----------------+
 ```
 
-#### Example 4 - Custom Separator
+#### Example 4 - Custom separator
 
 ```go
 table, _ := tablewriter.NewCSV(os.Stdout, "testdata/test.csv", true)
@@ -147,7 +147,7 @@ table.Render()
 *------------*-----------*---------*
 ```
 
-#### Example 5 - Markdown Format
+#### Example 5 - Markdown format
 
 ```go
 data := [][]string{
@@ -246,11 +246,11 @@ table.AppendBulk(data)
 table.Render()
 ```
 
-#### Table with color Output
+#### Table with color output
 
 ![Table with Color](https://cloud.githubusercontent.com/assets/6460392/21101956/bbc7b356-c0a1-11e6-9f36-dba694746efc.png)
 
-#### Example - 7 Table Cells with Color
+#### Example - 7 table cells with color
 
 Individual Cell Colors from `func Rich` take precedence over Column Colors
 
@@ -303,7 +303,7 @@ table.Render()
 
 ```
 
-##### Table cells with color Output
+##### Table cells with color output
 
 ![Table cells with Color](https://user-images.githubusercontent.com/9064687/63969376-bcd88d80-ca6f-11e9-9466-c3d954700b25.png)
 

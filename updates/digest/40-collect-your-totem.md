@@ -5,7 +5,7 @@ date: 2020-09-05
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Dwarves Totem
+### Dwarves totem
 
 I was gonna save the totem sample photo for this digest, but since anh Han have mentioned it in our latest All-hands meeting, I got no choice but to repost it here. Some of the Dwarves have claimed theirs at block B.
 
@@ -17,10 +17,10 @@ Hard work pay off, as usual. We genuinely send our congrats to your all great wo
 
 You can find further updates and link to other topics here, or have a check at our Medium.
 
-### Hill Chart
+### Hill chart
 
 We have a few new ideas with Basecamp Hill chart. By filling the specific milestone of each projects, Huy N and Khai are utilizing Hill chart to visualize the project progress and make it easier to see the big picture. This aims to effectively organize the workflow and keep everyone on the same page.
 
-### New Dwarves in town
+### New dwarves in town
 
 We welcomed Hieu Ngo to join us as a Frontend Engineer. Mentored by Minh T, hope he’ll spend his time at Dwarves to increase his skill and gain great achievement.

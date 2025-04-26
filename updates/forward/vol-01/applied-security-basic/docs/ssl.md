@@ -29,14 +29,14 @@ date: null
       - [Attackers use domain validation to hide their identity](#attackers-use-domain-validation-to-hide-their-identity)
       - [Attackers use Let’s Encrypt for cheap HTTPS setup](#attackers-use-lets-encrypt-for-cheap-https-setup)
       - [Attackers reuse certificates for multiple domains](#attackers-reuse-certificates-for-multiple-domains)
-    - [Self-Signed and Wildcard Certificates](#self-signed-and-wildcard-certificates)
-    - [Unknown, Untrusted, and Forged Certificate Authorities](#unknown-untrusted-and-forged-certificate-authorities)
-    - [Expired SSL/TLS Certificates](#expired-ssltls-certificates)
+    - [Self-Signed and Wildcard certificates](#self-signed-and-wildcard-certificates)
+    - [Unknown, untrusted, and forged certificate authorities](#unknown-untrusted-and-forged-certificate-authorities)
+    - [Expired SSL/TLS certificates](#expired-ssltls-certificates)
   - [Vulnerabilities](#vulnerabilities)
     - [CipherSuite rollback attack](#ciphersuite-rollback-attack)
     - [Drop ChangeCipherSpec attack](#drop-changecipherspec-attack)
     - [Version rollback attack](#version-rollback-attack)
-    - [Key Exchange Algorithm confusion or Cross-protocol attack](#key-exchange-algorithm-confusion-or-cross-protocol-attack)
+    - [Key exchange algorithm confusion or cross-protocol attack](#key-exchange-algorithm-confusion-or-cross-protocol-attack)
     - [Timing attack](#timing-attack)
     - [BEAST (Browser Exploit Against SSL/TLS)](#beast-browser-exploit-against-ssltls)
     - [BREACH (Browser Reconnaissance & Exfiltration via Adaptive Compression of Hypertext)](#breach-browser-reconnaissance--exfiltration-via-adaptive-compression-of-hypertext)
@@ -233,13 +233,13 @@ Services such as Let’s Encrypt are enabling website owners to set up HTTPS eas
 Another example of useful information that can be extracted from the certificates are Subject Alternative Names (SANs). This field lists all domains where the certificate is valid. In this way, it can be possible to link numerous malicious domains that share a certificate together.
 Below is an example screenshot of SANs listed in a certificate belonging to vend[.]world sites – a known group of phishing sites.
 
-### Self-Signed and Wildcard Certificates
+### Self-Signed and Wildcard certificates
 
 Server administrators frequently create self-signed “wildcard” certificates on-demand using free, OpenSSL. While quick and easy, this practice significantly erodes trust because no trusted third-party CA ever verifies these certificates.
 
 Using a wildcard certificate on a publically facing webserver increases the risk that cybercriminals will use the server to host malicious websites in phishing campaigns. To eliminate this problem, organizations should avoid using wildcard certificates on production systems, especially public-facing ones. Instead, use subdomain-specific certificates that are rotated often.
 
-### Unknown, Untrusted, and Forged Certificate Authorities
+### Unknown, untrusted, and forged certificate authorities
 
 Maintaining the trust required for today’s global business demands a known and reputable CA that both parties can rely upon to authenticate the conversation. Over time, an enterprise might discover that it has been using certificates from dozens of unknown and untrusted CAs. For example, China’s Certificate Authority—CCNIC—was recently cited as an untrusted CA.
 
@@ -247,7 +247,7 @@ In 2014, an Internet security organization named Netcraft, found dozens of fake 
 
 To remediate the problem, organizations must identify and remove all certificates associated with unknown and untrusted CAs, and replace them with new certificates from trusted sources.
 
-### Expired SSL/TLS Certificates
+### Expired SSL/TLS certificates
 
 Expired certificates either cause unplanned system outages or open a door through which hackers can enter your network, or both. In 2013, Microsoft Azure experienced a worldwide outage due to an expired certificate. As a result, this leading cloud provider was down for hours and issued service credits. In 2014, tens of thousands of payment terminals used to process credit card payments in the U.S. stopped working because of an expired certificate.
 
@@ -273,9 +273,9 @@ Version rollback attack is a vulnerability of SSL 3.0. It is a type of attack wh
 
 SSL 3.0 and later TLS versions offer protection for version rollback attacks with the Finished message.
 
-### Key Exchange Algorithm confusion or Cross-protocol attack
+### Key exchange algorithm confusion or cross-protocol attack
 
-Key Exchange Algorithm confusion or Cross-protocol attack is vulnerability of SSL3.0. Server can send to the client the temporary key parameters signed under its long-term certified signing key in ServerKeyExchange messages. The problem is that the signature of the temporary key parameters does not include part of the field where it is specified which type of key is used, and thus created a basis for a confusion type of attack. The attacker forced the server to use the Diffie-Hellman key exchange and client to use RSA key
+Key exchange algorithm confusion or cross-protocol attack is vulnerability of SSL3.0. Server can send to the client the temporary key parameters signed under its long-term certified signing key in ServerKeyExchange messages. The problem is that the signature of the temporary key parameters does not include part of the field where it is specified which type of key is used, and thus created a basis for a confusion type of attack. The attacker forced the server to use the Diffie-Hellman key exchange and client to use RSA key
 xchange. This leads to confusion where the client may interpret the Diffie-Hellman parameters (p, g) as an exponent and module of RSA key. In the following example we can see how the attack works.
 
 ```

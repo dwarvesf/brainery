@@ -7,7 +7,7 @@ last_edited: "2025-04-07T00:00:00.000Z"
 
 We might have a solution. Keep scrolling.
 
-### Feedback Form
+### Feedback form
 
 Building a place where we love to work is one of our main goals. It’s the people that create an organization.
 Along our way to success, we know there might have been things that need improvement. And more than that, we know your idea matters.
@@ -15,7 +15,7 @@ It’s great to hear from everyone’s point of view on how to enhance things. A
 
 ![](assets/notion-image-1744007067109-znkes.webp)
 
-### End of Cycle Dinner Invitation
+### End of cycle dinner invitation
 
 Yep, it’s not always about work, we guarantee!
 
@@ -25,7 +25,7 @@ Please help click on the link and leave your RSVP (+1) in the comment thread. If
 
 Oh, and we welcome all the suggestion for the venue!
 
-### Playbook was moved to Dwarves Memo
+### Playbook was moved to Dwarves memo
 
 Some of us once checked on Dwarves website to realize some clicks led to nowhere. Well, we’ve heading closer to resolve that. One website at a time.
 Each of our team has their Playbook. It’s the principle and practice we’ve summed up and polished for the juniors. Huy N has spent some nights to combine all of those, structured it in the SDLC model, and ended up with a version of “How to build a Software firm from head-to-toe”. Kudos, bro. We all know how hard it is to deal with the freaking Outline layout.
@@ -34,6 +34,6 @@ Check it out on Dwarves Playbook.
 
 ![](assets/notion-image-1744007067547-i7xf3.webp)
 
-### Short Reminder
+### Short reminder
 
 We’re heading closer to the end of June, which means another cycle is about to wrap up. It’s about time to sort back all the todos, noted down what went well and define what’s the next milestone. Hope you have everything under control.

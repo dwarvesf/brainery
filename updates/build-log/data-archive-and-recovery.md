@@ -16,7 +16,7 @@ Data is an important part of software development and one of the most valuable a
 
 In software development, we have many strategies to safeguard the data. Depending on each use case, some strategies can be listed here:
 
-- **Data Encryption** marks the original data by ciphertext, making it harder to access.
+- **Data encryption** marks the original data by ciphertext, making it harder to access.
 - **Data security policy** defines rules to manage data access and role-based permissions.
 - **Data lifecycle management** defines the framework to manage data from creation to destruction.
 - **Data backup and recovery** regularly backs up key data to restore them once any critical issue happens.

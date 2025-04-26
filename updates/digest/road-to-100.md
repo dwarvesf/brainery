@@ -1,5 +1,5 @@
 ---
-title: Road To 100
+title: Road to 100
 description: "2022 matched us with the 80th Dwarves. A notable highlight, and we're ready to have more. It's not easy to find people that has the same value. It takes true & solid seeks."
 date: 2022-08-26
 authors:
@@ -17,7 +17,7 @@ tags:
 
 On our way to meet the 81th and onward, we're launching a mechanism to help us find like-minded DNAs, and co-create our future using tech.
 
-### The Dwarves Referral Program
+### The dwarves referral program
 
 We usually hire and keep the quality bar. The Dwarves are encouraged to recommend friends they think might be a good match for the team. The suggestion, then, appears more valuable that you already know who the missing piece is. A quick suggestion on the talent pool
 

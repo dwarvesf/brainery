@@ -10,7 +10,7 @@ date: null
 
 This document describes the fundamental theory of blockchain security and provides knowledge to answer a few questions such as **What makes a blockchain system secure ?**, **How is the consensus mechanism implemented ?**, **The role of cryptography in blockchain security**. It also tries to help the reader visualize the way that the blockchain-based system makes to get security.
 
-## Table of Contents
+## Table of contents
 
 [1. Introduction](#1-introduction)
 [2. How does blockchain works](#2-how-does-blockchain-works)
@@ -20,8 +20,8 @@ This document describes the fundamental theory of blockchain security and provid
 [3b.1 Cryptography techniques](#3b1-cryptography-techniques)
 [3b.2 Application of cryptography in blockchain](#3b2-application-of-cryptography-in-blockchain)
 [4. Security in popular blockchain consensus protocols](#4-security-in-popular-blockchain-consensus-protocols)
-[4a. Proof of Work](#4a-proof-of-work)
-[4b. Proof of Stake](#4b-proof-of-stake)
+[4a. Proof of work](#4a-proof-of-work)
+[4b. Proof of stake](#4b-proof-of-stake)
 [5. Summary](#5-summary)
 
 ---
@@ -170,11 +170,11 @@ Another protection what cryptography provides for blockchain is assurance for th
 
 Further information is that the blockchain system uses private key to lock the wallet account and hold it safe until the owner decides to spend them.
 
-### 4. Security in popular Blockchain consensus protocols
+### 4. Security in popular blockchain consensus protocols
 
 Majority of the blockchain system has a lot of things and functions that are implemented in the same way. But one of the functions that blockchains can be unique is the way consensus is reached. So, in this section, we will research how blockchain gets consensus in a few ways, those implementation, application, and interaction of the properties mentioned in [section 3](#3-what-makes-a-blockchain-system-secure) with each other and with consensus mechanism.
 
-#### 4a. Proof of Work
+#### 4a. Proof of work
 
 Proof Of Work (POW) is the first blockchain consensus mechanism that is used by Bitcoin. Today, it is being widely used in a lot of cryptocurrencies system to get robust security.
 
@@ -222,7 +222,7 @@ Another point is, because hash function makes a completely different result even
 
 Besides, remember that the Blockchain network is a decentralized ledger, all of the above steps only change your local ledger. If you want to control the network, you will own 51% of total computational power on the overall network. It is usually impossible because of the competitiveness and magnitude of the network.
 
-#### 4b. Proof of Stake
+#### 4b. Proof of stake
 
 To get enough computational power, Proof of Work wasted a lot of resources all over the world. So it is said to be unsustainable in the future. A system, was designed to solve some of the inefficiencies and emerging problems that commonly arise on [PoW-based](#4a-proof-of-work) blockchains, is called Proof of Stake (PoS).
 

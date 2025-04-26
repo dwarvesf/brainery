@@ -5,7 +5,7 @@ date: 2021-08-07
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Roll out console.so with Notion
+### Roll out console.so with Notion
 
 We launch a new branch for blockchain development at console.so. Building with Notion is efficient. We currently have it on 2 websites:
 
@@ -13,7 +13,7 @@ We launch a new branch for blockchain development at console.so. Building with 
 - turingalley.com
   Are you adopting Notion? How's the experience so far?
 
-### Expanding the Dwarves
+### Expanding the dwarves
 
 August starts with good news. More inquiries are coming, and they are looking for help with technical consulting alongside software development.
 
@@ -43,6 +43,6 @@ With several blockchain projects being worked on, the number of Dwarves who coul
 
 I think it's like learning a new API interface and easy to pick up. Huy, Tay, Quang, Phuc equipped themselves. You are encouraged to do so.
 
-### Reminder on Performance Review
+### Reminder on performance review
 
 Around 15s performance review sessions were conducted last week, and many more are to come. If you haven't submitted your self-review, please do shortly and schedule a 1-1 with your leader next week.

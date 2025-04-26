@@ -1,5 +1,5 @@
 ---
-title: "What's New in October 2023"
+title: "What's new in October 2023"
 description: Each month, we release a recap noting all the significant changes with our company and our team. October is our month for open-source and reflections.
 date: 2023-11-10
 authors:
@@ -20,9 +20,9 @@ Each month, we release a recap noting all the significant changes in our company
 - **[memo.d.foundation](#notedfoundation)** - The wiki of how we work, learn, and operate the team at Dwarves.
 - **[New functional teams](#new-functional-teams)** - A single core team expands into 5 functional teams for better delivery.
 - **[MMA-based career development](#mma-based-career-development)** - Mastery, Meaning, Autonomy allow us transparency in what we do and ways to provide growth paths for everyone based on their interests.
-- **[Frontend Course 2023](#frontend-course-2023)** - Our free FE Course is successfully finished with a fun demo day.
+- **[Frontend course 2023](#frontend-course-2023)** - Our free FE Course is successfully finished with a fun demo day.
 
-## State of Dwarves
+## State of dwarves
 
 For a tech team like Dwarves, there are only a few things that matter. Coming to the end of the year, we're reflecting and re-enforcing what matters to us.
 
@@ -62,15 +62,15 @@ Since we adopted this model last year, everything we do revolves around it. Than
 
 From there, we design personalized growth paths, that fit their interest. With enough effort and grit, soon we will see the next part of teammates taking part in the 5 functional core teams.
 
-## Frontend Course 2023
+## Frontend course 2023
 
 Our free FE Course is successfully finished. The stats are astounding, because compared to our previous Golang Course, there is a 4x jump in participants. We believe this signal shows what we do is being well received by the tech community in Vietnam.
 
-## Community Growth
+## Community growth
 
 - Discord welcomes 2050 members in total. Lots of good stuff on tech being shared at #tech #til #random
 - Top 10 voices contributing to our server get rewarded in ICY
-- [Techie Story](http://techiestory.net) fanbase reached 8.8K members
+- [Techie story](http://techiestory.net) fanbase reached 8.8K members
 - Elixir Meetup in Saigon was a fun experience for the team
 
 **Coming up:**

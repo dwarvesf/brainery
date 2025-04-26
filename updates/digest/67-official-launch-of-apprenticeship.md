@@ -5,7 +5,7 @@ date: 2021-03-20
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Apprenticeship Launching
+### Apprenticeship launching
 
 Apprenticeship has officially launched last Wednesday. Thank you for all the effort during preparation stage and the Dwarves for help sharing the message. If you have any connection who might be a good fit for us, please help connect them to the program through any of these channels below. Kudos to all the support 🖤
 
@@ -18,7 +18,7 @@ Apprenticeship has officially launched last Wednesday. Thank you for all the eff
 
 ![](assets/notion-image-1744007029067-f3w2a.webp)
 
-### Dwarves Venture Recap
+### Dwarves venture recap
 
 As you all know, we have many ventures projects over the past year. But we never have an official announcement on that. Ngoc has helped to note our journey down, and came up with two memos explaining how our VC works ✔️
 
@@ -26,7 +26,7 @@ As you all know, we have many ventures projects over the past year. But we never
 - Dwarves Ventures, Fund 1
   Btw, our Memo’s word font has been switched to Georgia thanks to Huy, as we believe it might help the reading experience becomes better. As a fan of Medium, can’t express how much I’m grateful for this update.
 
-### Healthcare Checkup
+### Healthcare checkup
 
 As headed up, our Dwarves will have the healthcare check up this Saturday afternoon. Pleas help bring your ID card (and a 3x4 photo in case you need a health checkup confirmation note for military service). See more from Van’s detailed message.
 
@@ -34,7 +34,7 @@ As headed up, our Dwarves will have the healthcare check up this Saturday aftern
 - Address: Vigor Healthcare, 102A Trương Định, Phường 9, Quận 3, TP.HCM
 - Contact number: Van - 0979291600
 
-### Project Delivery Status Update
+### Project delivery status update
 
 As the new Delivery Manager, Khai has set up many things to fine tune the ongoing project status. Starting with the product roadmap for each project, and the Kick-off Checklist for upcoming ones. We hope this enhances the project quality, as it keep us all on the same page and make sure we’re stay ahead of what’s happening.
 

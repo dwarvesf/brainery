@@ -24,7 +24,7 @@ In collaboration with team Startup.vn, Ngoc & I helped them build 2 pages. You w
 - <https://startup.vn/startups>
   Thanh just join the Saturday study group this week to help with Readify development. Let's welcome him.
 
-### This week's Post
+### This week's post
 
 - Making the decision: Latest memo on how we make decision as a team member.
 

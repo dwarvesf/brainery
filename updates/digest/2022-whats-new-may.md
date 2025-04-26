@@ -1,5 +1,5 @@
 ---
-title: "What's New in May 2022"
+title: "What's new in May 2022"
 description: Each month, we release a recap noting all the significant changes with our company and our team. In May, we kicked off Apprenticeship training, and our new chalet is ready for community to visit.
 date: 2022-05-31
 authors:
@@ -13,7 +13,7 @@ tags:
 
 ## Foundation
 
-### Our view on Blockchain
+### Our view on blockchain
 
 Got a quick chat with Ngoc Thanh, our Sr. Blockchain Engineer and his perception of blockchain at **[Memo](https://memo.d.foundation/DF-Apprenticeship-2022-Meet-The-Mentors-Ngoc-Thanh-Pham-a6f8c3c7d4a14bd5be55d6465b9f330b)**.
 
@@ -21,21 +21,21 @@ Blockchain is taking shape in how we run the team. Peeps, please help update you
 
 ## Growth
 
-### Kicking off Apprenticeship Training
+### Kicking off apprenticeship training
 
 The training phase kicked off last week with 7 new Apprentices. To keep up with the latest session, check out that Event button in Discord space and click '**Interested**' to see what you prefer. More room still needs improvements, but we're following the right track.
 
-### Onboarding new Interns
+### Onboarding new interns
 
 We got 4 new Interns from Bach Khoa this summer. They're all excited to pick up new workflow and work with mentors. Can see the real progress happening through their daily updates.
 
-### Data Team Form-up
+### Data team form-up
 
 Another direction besides blockchain? Data. Tom and Dung are the first members to take care of this. Data is becoming more and more critical to how we shape businesses. Having teammates with thorough insights on this will support us to go further.
 
 Ping Tom if you want to be part of the squad. And stay tuned for Dung's first sharing on **Apache Spark**, coming this **[Jun 06 - 5PM](https://www.youtube.com/live/6nini4cmk1E?si=8sFJdTNFv3CypQCe)**.
 
-### Revisit the Radio Talks
+### Revisit the radio talks
 
 Highlights will be summarized and shared through Memo to those who want to keep up:
 
@@ -48,7 +48,7 @@ Feels more like listening? Pay a visit to **[Dwarves Youtube](http://www.youtube
 
 ## Team
 
-### Dalat Office
+### Dalat office
 
 As in the last update, the office is set for you to visit, but more updates are still coming. Rock fences and plant dividers are newly added to enhance our space.
 

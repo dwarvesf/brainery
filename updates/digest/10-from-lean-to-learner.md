@@ -1,5 +1,5 @@
 ---
-title: "Weekly Digest #10: From lean to learner"
+title: "Weekly digest #10: From lean to learner"
 short_title: "#10 From lean to learner"
 description: "Double digits, I can't believe we've reached our 10th digest! It's been quite a journey putting together each edition and a blast creating these for you. When we talk about memo, we're highlighting an essential part of our learning culture. We’ve just noted a few updates for the cycle ahead. Now, let's dive into this round-up."
 date: 2024-06-16
@@ -56,7 +56,7 @@ As mentioned, our Dwarves will have their health checkup in June. We will keep y
 
 ![](assets/10-from-lean-to-learner-health-checkup.webp)
 
-### Market recap: VN-Index Takes a wild ride
+### Market recap: VN-Index takes a wild ride
 
 Over the weekend session, the market decided to have a big sell-off for no specific reason. The VN-Index closed down 21.6 points (-1.66%), wiping out all the gains from earlier in the week. Our team members @ngocthanh, @nikki, @huy, @hieuthu2, and @huytq had a lively discussion about this rollercoaster in the 📈・**econ-cafe** channel.
 

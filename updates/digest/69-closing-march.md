@@ -5,7 +5,7 @@ date: 2021-04-03
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Team Expansion
+### Team expansion
 
 BE team is getting bigger
 
@@ -17,7 +17,7 @@ Time to have someone taking good care of our social channels. We're looking for 
 
 If you have some references, please let us know. #wehave #referral #bonus
 
-### Quality Enhancement
+### Quality enhancement
 
 Engineering Quality
 

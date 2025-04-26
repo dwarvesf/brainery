@@ -1,5 +1,5 @@
 ---
-title: "What's New in March 2024"
+title: "What's new in March 2024"
 description: "In this March, we're eyeing on what's brewing in the tech market, ICY updates in 2024, the first offline meetup and product demo."
 date: 2024-04-03
 authors:
@@ -13,10 +13,10 @@ tags:
 
 - **Reporting tech signals**: everything new on artificial intelligence, API techniques, toolings, programming languages, and the intersection of design and engineering.
 - **ICY in 2024**: all you need to know about ICY' latest updates.
-- **Demo and Showcase**: Monthly product demos and showcases are now a regular event at Dwarves.
+- **Demo and showcase**: Monthly product demos and showcases are now a regular event at Dwarves.
 - **Community meet-up**: the first Dwarves x Community Members offline event in Saigon.
 
-## Reporting Tech Signals: How GenAI is changing the way developers work
+## Reporting tech signals: How GenAI is changing the way developers work
 
 In March 2024, we identified relevant emerging technologies and business benefits to support our technology roadmap and which trends hold the most potential across various markets.
 
@@ -31,7 +31,7 @@ Highlights for this month:
 
 ![](assets/2024-whats-new-march_2024-march-tech-report.webp)
 
-## ICY Updates in 2024
+## ICY updates in 2024
 
 Since its launch in September 2022, ICY was used to reward the network members and allow all members to earn ICY through engagement in discussions, research on Dwarves' tech, and more.
 
@@ -45,11 +45,11 @@ In March:
 
 ![](assets/2024-whats-new-march_2024-march-icy.webp)
 
-## Community Engagement: Offline Meetups in April
+## Community engagement: Offline meetups in April
 
 Starting this April, we're excited to launch a fresh initiative focused on nurturing stronger connections and more meaningful interactions within our community. We'll trade our usual team dinners for engaging offline meetups held every three months in Ho Chi Minh City. We can't wait to see you there.
 
-## Demo and Showcase: Give your screenshots a cleaner look with Backr
+## Demo and showcase: Give your screenshots a cleaner look with Backr
 
 The next initiative in our monthly call will have a broader range of topics to discuss, including project demos and product showcases.
 

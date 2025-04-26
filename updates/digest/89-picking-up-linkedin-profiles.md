@@ -5,7 +5,7 @@ date: 2021-08-28
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Basecamp Updates
+### Basecamp updates
 
 If you don't know, we can use Track extension to enable Kanban in Basecamp. And Han has forced every board using the same terminology for column. They are
 

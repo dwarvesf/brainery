@@ -5,11 +5,11 @@ date: 2021-02-27
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Jan/Feb Changelog
+### Jan/Feb changelog
 
 I’ve crafted up some key goals we’re (hopefully) to check off in 2021, mostly our plan is tweaking and making this a better place to work and be a part of. During our next Dwarves Radio Talk, the Ops team will walk through this a bit, and if you have anything to merge in, please do. We welcome all the ideas.
 
-Read more at Jan/Feb Changelog
+Read more at Jan/Feb changelog
 
 ### How many years have you been here?
 
@@ -17,7 +17,7 @@ Wanna see how old you’ve gotten in this woodland? Check out the latest upgrade
 
 ![](assets/notion-image-1744007058376-zl8ma.webp)
 
-### Dwarves Radio #5: Radar Update and Profile Convention
+### Dwarves Radio #5: Radar update and profile convention
 
 A wrap up of our decision to officially adopt Earthly and Upptime into the tech practices. Also, a bit sharing on how creating a professional and consistent profile can benefit personal branding. See more at: Dwarves Radio Talk #5
 

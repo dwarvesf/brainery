@@ -72,22 +72,22 @@ The team was having a blast. **June's Brainery sees a 116% input increase compar
 
 With **Dwarves Sponsorship**, all contributors receive an appreciation reward from us, for the effort they spent to help grow our knowledge base.
 
-- [Brainery: Service-based Architecture](https://brain.d.foundation/Engineering/Service-based+architecture)
-- [Brainery: Blockchain Oracle](https://brain.d.foundation/Engineering/Blockchain+Oracle)
+- [Brainery: Service-based architecture](https://brain.d.foundation/Engineering/Service-based+architecture)
+- [Brainery: Blockchain oracle](https://brain.d.foundation/Engineering/Blockchain+Oracle)
 - [Brainery: How token works in Solana](https://brain.d.foundation/Blockchain/How+Tokens+Work+on+Solana)
-- [Brainery: NFT Fractionalization](https://brain.d.foundation/Blockchain/NFT+Fractionalization)
-- [Brainery: Blockchain Bridge](https://brain.d.foundation/Blockchain/Blockchain+Bridge)
+- [Brainery: NFT fractionalization](https://brain.d.foundation/Blockchain/NFT+Fractionalization)
+- [Brainery: Blockchain bridge](https://brain.d.foundation/Blockchain/Blockchain+Bridge)
 - [Brainery: Useeffects double calls in React 18](https://brain.d.foundation/Frontend/useEffect+double+calls+in+React+18)
-- [Brainery: Javascript Modules](https://brain.d.foundation/Frontend/JavaScript+modules)
-- [Brainery: Finite-state Transducer](https://brain.d.foundation/Engineering/Finite-state+transducer), [Mealy machine](https://brain.d.foundation/Engineering/Mealy+machine) and [Moore machine](https://brain.d.foundation/Engineering/Moore+machine)
-- [Brainery: Overview of Domain-driven Design](https://brain.d.foundation/Engineering/Overview+of+Domain+Driven+Design)
-- [Brainery: What Screens Want](https://brain.d.foundation/Engineering/Overview+of+Domain+Driven+Design)
-- [Radio Talk: Engineering an NFT Marketplace](https://www.youtube.com/watch?v=_GEw4qIiex4)
-- [Radio Talk: Build and deploy a Solana dApp](https://www.youtube.com/watch?v=pWNjpvr8U98)
-- [Radio Talk: Mobile UI/UX - How to do it right](https://www.youtube.com/watch?v=MW9o6Q2Zwt4)
-- [Radio Talk: Generics in Go](https://www.youtube.com/watch?v=96bHvQQLaMk)
-- [Radio Talk: Apache Spark](https://www.youtube.com/watch?v=6nini4cmk1E)
-- [Radio Talk: A/B testing in practice](https://www.youtube.com/watch?v=ereZ_HpOkvI)
+- [Brainery: Javascript modules](https://brain.d.foundation/Frontend/JavaScript+modules)
+- [Brainery: Finite-state transducer](https://brain.d.foundation/Engineering/Finite-state+transducer), [Mealy machine](https://brain.d.foundation/Engineering/Mealy+machine) and [Moore machine](https://brain.d.foundation/Engineering/Moore+machine)
+- [Brainery: Overview of domain-driven design](https://brain.d.foundation/Engineering/Overview+of+Domain+Driven+Design)
+- [Brainery: What screens want](https://brain.d.foundation/Engineering/Overview+of+Domain+Driven+Design)
+- [Radio talk: Engineering an NFT marketplace](https://www.youtube.com/watch?v=_GEw4qIiex4)
+- [Radio talk: Build and deploy a Solana dApp](https://www.youtube.com/watch?v=pWNjpvr8U98)
+- [Radio talk: Mobile UI/UX - How to do it right](https://www.youtube.com/watch?v=MW9o6Q2Zwt4)
+- [Radio talk: Generics in Go](https://www.youtube.com/watch?v=96bHvQQLaMk)
+- [Radio talk: Apache Spark](https://www.youtube.com/watch?v=6nini4cmk1E)
+- [Radio talk: A/B testing in practice](https://www.youtube.com/watch?v=ereZ_HpOkvI)
 
 We’re always looking to get better for our audience, if you have any feedback or any burning questions for us, hit reply and we’ll do our best.
 
@@ -106,7 +106,7 @@ Onto the brighter side, our apprentices have been great listeners and doers, whi
 
 ![](assets/blockchain-and-data-20240312111132842.webp)
 
-### Launching home-like Dwarves Hubs in Danang and Dalat
+### Launching home-like Dwarves hubs in Danang and Dalat
 
 If you’re tired of being confined within your home office, here’s the good news. **Dwarves Hub in Danang and Dalat is open for everyone**. Think of it as a place where Dwarves and friends can work, hang out, and get to know one another.
 

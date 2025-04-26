@@ -1,5 +1,5 @@
 ---
-title: "What's New in July 2024"
+title: "What's new in July 2024"
 description: "Each month, we release a recap highlighting key updates and progress within our team and community. July covers AI advancements, community contributions, insights from Vietnam's tech scene, new memo commands, OGIF automation, and the introduction of our hourly billing model"
 date: 2024-08-09
 authors:
@@ -11,13 +11,13 @@ tags:
   - community
 ---
 
-- [**Reporting Tech Signals:**](#reporting-tech-signals---ai-advancements-cybersecurity-focus-and-shifting-software-trends) Significant AI advancements, cybersecurity focus, and shifting software development trends.
+- [**Reporting tech signals:**](#reporting-tech-signals---ai-advancements-cybersecurity-focus-and-shifting-software-trends) Significant AI advancements, cybersecurity focus, and shifting software development trends.
 - [**memo.d.foundation**:](#new-memo-command-to-boost-team-contributions) You can now access new commands to view the memo list and automate weekly reports.
-- [**Dwarves Token Usage:**](#dwarves-token-usage-for-july) Community participation led to ~857 ICY being rewarded for contributions, including OGIF talks, tech sharing, memo notes, and bounties.
-- [**Reporting Tech Scene in Vietnam:**](#reporting-tech-scene-in-vietnam) Insights into Vietnam's tech landscape, investment trends, and key players in AI, fintech, and blockchain.
-- [**OGIF Automation Recording and Topics Overview:**](#ogif-automation-recording-and-topics-overview) Efforts to streamline the automation recording process and a summary of the topics discussed in July.
+- [**Dwarves token usage:**](#dwarves-token-usage-for-july) Community participation led to ~857 ICY being rewarded for contributions, including OGIF talks, tech sharing, memo notes, and bounties.
+- [**Reporting tech scene in Vietnam:**](#reporting-tech-scene-in-vietnam) Insights into Vietnam's tech landscape, investment trends, and key players in AI, fintech, and blockchain.
+- [**OGIF automation recording and topics overview:**](#ogif-automation-recording-and-topics-overview) Efforts to streamline the automation recording process and a summary of the topics discussed in July.
 - [**Golang Enterprise:**](#dwarves-advancing-with-golang-enterprise-solutions-and-industry-insights) Dwarves advancing with Golang and sharing insights through weekly commentary.
-- [**Pricing Model - Bill by Hours:**](#pricing-model-bill-by-hours) Introduction of an hourly billing model to ensure fairness, flexibility, control, and transparency in engagements.
+- [**Pricing model - Bill by hours:**](#pricing-model-bill-by-hours) Introduction of an hourly billing model to ensure fairness, flexibility, control, and transparency in engagements.
 
 ![](assets/2024-whats-new-july-thumbnail.webp)
 
@@ -28,10 +28,10 @@ In July, the tech landscape saw significant advancements in AI, a heightened foc
 - **Meta's Llama 3.1:** The 405B parameter model is a major leap in open-source AI, competing with top closed-source models.
 - **OpenAI's GPT-4o-mini:** Fine-tuning capabilities democratize AI customization for optimized business applications.
 - **Claude Sonnet 3.5:** Enhances software development speed by 10x for UI components.
-- **AI in Sports Analytics & TTS:** Roboflow and ElevenLabs' innovations boost performance analysis and communication.
-- **Cybersecurity Incidents:** Highlight the need for resilient system designs to prevent single-point failures.
-- **Software Engineering Trends:** Emphasis on "boring" technology, full-stack development, and AI tool integration.
-- **Programming Language Salaries:** JavaScript sees a median salary drop, while Erlang, Elixir, and Clojure command higher salaries.
+- **AI in sports analytics & TTS:** Roboflow and ElevenLabs' innovations boost performance analysis and communication.
+- **Cybersecurity incidents:** Highlight the need for resilient system designs to prevent single-point failures.
+- **Software engineering trends:** Emphasis on "boring" technology, full-stack development, and AI tool integration.
+- **Programming language salaries:** JavaScript sees a median salary drop, while Erlang, Elixir, and Clojure command higher salaries.
 
 [Read the full report here.](https://memo.d.foundation/playground/01_literature/market-report-july-2024/)
 
@@ -50,10 +50,10 @@ The amount of ICY distributed is still below the team's limit, so there's plenty
 We've seen a great increase in memo input from members this month. Here's the list for July:
 
 1. [Devbox Map of Content](https://memo.d.foundation/playground/-devbox/), [Ton's base concepts](https://memo.d.foundation/playground/01_literature/ton_core_concept/), [Ton ecosystem](https://memo.d.foundation/playground/01_literature/ton_blockchain_of_blockchains/) - @bienvh
-2. [Go Weekly: Go 1.23 Iterators](https://memo.d.foundation/playground/00_fleeting/go-weekly-511/), [Go Commentary July 08](https://memo.d.foundation/playground/00_fleeting/go-commentary-jul-12/), [Go Commentary July 26](https://memo.d.foundation/playground/00_fleeting/go-commentary-jul-26/) - @fuatto
+2. [Go Weekly: Go 1.23 iterators](https://memo.d.foundation/playground/00_fleeting/go-weekly-511/), [Go Commentary July 08](https://memo.d.foundation/playground/00_fleeting/go-commentary-jul-12/), [Go Commentary July 26](https://memo.d.foundation/playground/00_fleeting/go-commentary-jul-26/) - @fuatto
 3. [Re-ranking in RAG](https://memo.d.foundation/playground/01_literature/engineering/ai/re-ranking-in-rag/) - @hoangnnh
 4. [Market report July](https://memo.d.foundation/playground/01_literature/market-report-july-2024/) - @thanh, @tom
-5. [Local-first Software](https://memo.d.foundation/playground/01_literature/local-first-software/) - @lapnn
+5. [Local-first software](https://memo.d.foundation/playground/01_literature/local-first-software/) - @lapnn
 6. [Building a Local Search Engine for Our Memo Website](https://memo.d.foundation/playground/01_literature/creating-a-fully-local-search-engine-on-memo/) - @tom
 7. [How we crafted the OGIF summarizer bot to streamline weekly knowledge-sharing](https://memo.d.foundation/playground/01_literature/how-we-crafted-the-ogif-summarizer-bot-to-streamline-weekly-knowledge-sharing/) - @tom, @innno
 8. [Streamlining Internal Tool Development with Managed LLMOps: A Dify Case Study](https://memo.d.foundation/playground/01_literature/building-llm-powered-tools-with-dify/) - @tom
@@ -83,7 +83,7 @@ Here's how the rewards break down:
 Special thanks to our top contributors:
 
 - **OGIF talks:** @fuatto, @datnguyennnx, @hieuvd
-- **Tech Sharing:** @minhlq, @tom, @huytq, @tristran
+- **Tech sharing:** @minhlq, @tom, @huytq, @tristran
 - **Memo notes:** @fuatto, @bienvh, @tom
 - **Bounty:** @bienvh, @huymaius
 
@@ -104,11 +104,11 @@ To improve the efficiency and accessibility of recording our OGIF sessions, than
 Last month, we've walked through:
 
 - [Multimodal in RAG](https://memo.d.foundation/playground/01_literature/engineering/ai/multimodal-in-rag/), [Re-ranking in RAG](https://memo.d.foundation/playground/01_literature/engineering/ai/re-ranking-in-rag/) - @hoangnnh
-- [Go Weekly: Go 1.23 Iterators](https://memo.d.foundation/playground/00_fleeting/go-weekly-511/), [Go Commentary July 08](https://memo.d.foundation/playground/00_fleeting/go-commentary-jul-12/), [Go Commentary July 26](https://memo.d.foundation/playground/00_fleeting/go-commentary-jul-26/) - @fuatto
+- [Go Weekly: Go 1.23 iterators](https://memo.d.foundation/playground/00_fleeting/go-weekly-511/), [Go Commentary July 08](https://memo.d.foundation/playground/00_fleeting/go-commentary-jul-12/), [Go Commentary July 26](https://memo.d.foundation/playground/00_fleeting/go-commentary-jul-26/) - @fuatto
 - [Radix sort](https://memo.d.foundation/playground/01_literature/radix-sort/) - @hieuvd
 - [Feedback mechanism for LLM app](https://memo.d.foundation/playground/01_literature/feedback-mechanism/) - @datnguyennnx
 - [How to talk to ChatGPT effectively](https://memo.d.foundation/playground/00_fleeting/how-to-talk-to-chatgpt-effectively/) - @minh_cloud
-- [Local-first Software](https://memo.d.foundation/playground/01_literature/local-first-software/) - @lapnn
+- [Local-first software](https://memo.d.foundation/playground/01_literature/local-first-software/) - @lapnn
 - [TIL in Dune's query](https://memo.d.foundation/updates/ogif/16-ogif-office-hours-0726/) - @phucld
 - [AI voice clone demo](https://memo.d.foundation/updates/ogif/16-ogif-office-hours-0726/) - @tom
 - [Architect supervisor AI agent](https://memo.d.foundation/updates/ogif/16-ogif-office-hours-0726/) - @toanhq, @datnguyennnx
@@ -122,7 +122,7 @@ By staying ahead of market trends, we're contributing insights that shape the la
 
 Check out our Go weekly updates [here](https://memo.d.foundation/tags/go-weekly/).
 
-## Pricing Model: Bill by hours
+## Pricing model: Bill by hours
 
 In response to the economic challenges and the demand for comprehensive solutions, Dwarves is now implementing an hourly billing model. This ensures fairness, flexibility, control, and transparency in our engagements.
 

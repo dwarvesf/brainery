@@ -1,5 +1,5 @@
 ---
-title: Vietnam Tech Ecosystem 2024 Report
+title: Vietnam tech ecosystem 2024 report
 description: "The 2024 Vietnam Tech Market Report highlights Vietnam's resilient tech scene, ranking third in Southeast Asia despite a 17% drop in investments. With a booming digital economy expected to reach $43 billion by 2025, the report covers key trends, major players, and new legal updates driving innovation."
 date: 2024-07-11
 authors:
@@ -8,23 +8,23 @@ tags:
   - market-report
 ---
 
-## Current State of the Vietnam Tech Market
+## Current state of the Vietnam tech market
 
-- **Investment Total:** $529 million, a 17% drop from 2022.
+- **Investment total:** $529 million, a 17% drop from 2022.
 - **Resilience:** Vietnam's VC funding fell 17%, compared to a global 35% drop.
-- **Regional Standing:** Third in Southeast Asia for deal count and value, behind Singapore and Indonesia.
-- **Sector Growth:** Healthcare and Education investments surged by 391% and 107%.
-- **Active Investors:** Nearly 100, with Singapore leading, followed by Vietnam.
-- **Exit Landscape:** Growth in the public market, improved stock market governance, and increased M&A activities driven by local conglomerates.
+- **Regional standing:** Third in Southeast Asia for deal count and value, behind Singapore and Indonesia.
+- **Sector growth:** Healthcare and Education investments surged by 391% and 107%.
+- **Active investors:** Nearly 100, with Singapore leading, followed by Vietnam.
+- **Exit landscape:** Growth in the public market, improved stock market governance, and increased M&A activities driven by local conglomerates.
 
-### Vietnam Digital Economy Landscape
+### Vietnam digital economy landscape
 
 - Vietnam's digital economy is the fastest-growing in Southeast Asia, driven by high internet penetration, favorable government initiatives, and a thriving startup ecosystem.
 - The digital economy is expected to grow 20% annually, reaching $43B by 2025
 
 ![](assets/vn_eco_companies.webp)
 
-## Tech Investment Landscape 2023
+## Tech investment landscape 2023
 
 - Despite global economic challenges, Vietnam maintained its third position in Southeast Asia for deal count and value.
 - Investment sectors with notable growth include Healthcare and Education.
@@ -32,11 +32,11 @@ tags:
 
 ![](assets/capital_invested.webp)
 
-## Top Active Investors in 2023
+## Top active investors in 2023
 
 ![](assets/top-active-investors.webp)
 
-## Notable Trends in the Startup Ecosystem
+## Notable trends in the startup ecosystem
 
 ![](assets/deals-done.webp)
 
@@ -44,12 +44,12 @@ tags:
 
 ![](assets/invested-half-2024.webp)
 
-## Exit Landscape
+## Exit landscape
 
 - Significant growth in public markets and M&A activities, with local conglomerates playing an increasing role.
 - Proactive government initiatives and favorable economic conditions are driving IPO and M&A activities
 
-## Latest Legal Developments
+## Latest legal developments
 
 - Policies to foster innovation include tax exemptions for innovative enterprises, support for tech parks, and mechanisms to encourage scientific research.
 - NIC Hoa Lac's inauguration and the bilateral Comprehensive Strategic Partnership with the US are expected to boost the semiconductor industry and innovation ecosystem

@@ -1,5 +1,5 @@
 ---
-title: 2022 In Review
+title: 2022 in review
 description: Successfully went through 2022, a year that we might say -  a new record team reached highest growth record, kickstarted community engagement, home, compliance training & individual development are speeding up, and a whole new place to call Dwarves.
 date: 2023-01-19
 authors:
@@ -19,7 +19,7 @@ We've achieved to this year's resolution: A team that cares about how to build s
 
 ## TEAM GROWTH
 
-### 30 New Team Members
+### 30 new team members
 
 **[2022 matched us with the 80th Dwarves](https://github.com/dwarvesf/handbook)**. A notable highlight, and we're ready to have more. It's not easy finding like-minded people. It takes true & solid seeks. Even though people come and go, the spirits stay.
 
@@ -30,13 +30,13 @@ Expanding the team doesn't mean we have to disregard our culture. We have launch
 
 _The Dwarves Collective, using markdown to visualize bonds between members._
 
-### The Next Leading Chairs
+### The next leading chairs
 
 Launching 3 offices across the country - Saigon, Danang, and Dalat, more initiatives to distribute our software know-how, and a **46% growth** in team scale calls for a different way to run the business. Shifting from a remote working model to a hybrid working model is a must, but it wasn't easy.
 
 The bigger team and the new model require more hands on deck. Instead of the old-school Board of Directors, we divide our leadership team based on what each member delivers.
 
-### R&D Team
+### R&D team
 
 Research and Development (R&D) came about as a collective department for solving common problems we encounter across all of our projects. As an innovative software firm, we found that the foundations for creating software are vital to making them successful.
 
@@ -53,7 +53,7 @@ Feature Flags tackled a concern spanning across our DevOps, Management, and Engi
 
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_807095e97b173fac69c60aeffb7536ec_md5.webp)
 
-### Learning As The North-star Metric
+### Learning as the north-star metric
 
 ![](assets/2022-in-review_brainery-graph-1_compressed.mp4)
 
@@ -66,15 +66,15 @@ The response so far has been amazing. We got words saying peeps get to upgrade t
 Just a bit of research on new tech could mean a job opportunity, or perhaps a turning point in their life that make them leaders in a new segment of an industry.
 
 - [Brainery](https://brain.d.foundation/): our knowledge hub, where we share what we learn with the world.
-- [Engage & Earn](https://memo.d.foundation/): our system recognizes people who put in the effort to share knowledge.
-- [Dwarves Tech Radar Volume 4](https://www.facebook.com/photo.php?fbid=833917351164701&set=pb.100036393316096.-2207520000.&type=3): a place for our engineers to trial and evaluate emerging technologies, and to help set the direction for Dwarves' tech stack.
-- [Engineering Publication](https://memo.d.foundation/): our extra effort goes into learning and researching on how we can get better with technology.
+- [Engage & earn](https://memo.d.foundation/): our system recognizes people who put in the effort to share knowledge.
+- [Dwarves tech radar volume 4](https://www.facebook.com/photo.php?fbid=833917351164701&set=pb.100036393316096.-2207520000.&type=3): a place for our engineers to trial and evaluate emerging technologies, and to help set the direction for Dwarves' tech stack.
+- [Engineering publication](https://memo.d.foundation/): our extra effort goes into learning and researching on how we can get better with technology.
 
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_1f5bd3a773b8f02d7f50d46102c2fa01_md5.webp)
 
-## Business Growth
+## Business growth
 
-### Revenue Growth
+### Revenue growth
 
 Despite the economic uncertainties across the globe in 2022, Dwarves has seen amazing growth and we are a profitable company. **Our revenue hits a new milestone, while the growth rate is estimated at 198% compared to the previous year.**
 
@@ -90,7 +90,7 @@ Along with encompassing know-how on designing system architectures, we've also h
 
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_3ffe6be8770c28e27e4cfb57fdc52141_md5.webp)
 
-### Level up Security & Cyber Protection
+### Level up security & cyber protection
 
 We are putting in place the security measures necessary to protect our clients. Bringing security setups to the next level for us means we are confident now safe and protected in terms of:
 
@@ -100,7 +100,7 @@ We are putting in place the security measures necessary to protect our clients. 
 - NDA (Non-disclosure agreement)
 - ACL (access control list) checklist to onboard / off-board
 
-### Game Department
+### Game department
 
 Came after [Summit 2022](https://memo.d.foundation/changelog/2022-dwarves-summit-engineering-a-good-time/), we've piloted a few games such as [Hunger Game](https://df-hunger-game.netlify.app/) and [Treasure Hunt](https://hunt.d.foundation/)apps. Heading toward the engineering-driven vision, we founded a game department to create more engaging activities that offer our engineers and community a thrilling and adventurous gaming experience.
 
@@ -110,9 +110,9 @@ Came after [Summit 2022](https://memo.d.foundation/changelog/2022-dwarves-summit
 
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_491ec1fee97cb5ea2f004a8fb7161e0a_md5.webp)
 
-## Community Growth
+## Community growth
 
-### Online Omni-channels
+### Online omni-channels
 
 The Dwarves actively take part in developer networks to bring makers and tech enthusiasts together. Below is the list of [social channels](https://index.d.foundation/) that you can access for Dwarves sharing.
 
@@ -127,7 +127,7 @@ A variety of things, from lessons learned in a well-written format to Radio Talk
 
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_7eb2878df66bc8e99728e180f5da4eb6_md5.webp)
 
-### Offline Contests
+### Offline contests
 
 **[Coding Camp](https://codingcamp.so/)** of Solana Vietnam was an incredible success, with over 2000 applications for the 8-week workshop, 200 selected developers, 51 projects on Demo Day, and nearly 100,000$ for the system of prizes.
 
@@ -141,19 +141,19 @@ We are proud to be a part of the movement toward blockchain-based technology and
 
 ## Workplace growth
 
-### Launching Home-like Dwarves Hubs in Danang and Dalat
+### Launching home-like Dwarves hubs in Danang and Dalat
 
 Since June 2020, we've been planning on a new office, a cozy studio in Da Lat and a summer house in Danang. It's our **second initiative**: Dwarves Hubs should be placed across the country to offer our team a comfy remote experience when they need it. After the pandemic, as a new chapter, we're proud of how it turned out, our first time went from sketches to reality - Danang and Dalat Hub.
 
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_02e84402b9218f304990d32161fe679e_md5.webp)
 
-### 1-way Flight Ticket
+### 1-way flight ticket
 
 We provide a package of flight tickets **4 times a year,** with a **maximum amount of 2.000.000 VND for each travel time**. With a borderless software firm, it's our mission to provide flexibility and support their will to go there.
 
 These benefits supporting [#WFA](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md) culture:
 
-- **Flight Tickets Packaging:** Covering flying fees and commute fees for employees.
+- **Flight tickets packaging:** Covering flying fees and commute fees for employees.
 - **Accommodation:** Equipping the office in ways that allow employees to stay at.
 - **Project team dinner:** Sponsoring monthly meetups for people working on the same projects.
 
@@ -173,7 +173,7 @@ For the games, we offered a total reward of **150,000,000 VND (~$6,361.32)** to 
 
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_1b8011f8f951e36b240fff0df5282543_md5.webp)
 
-### Dwarves Apprenticeship
+### Dwarves apprenticeship
 
 **[The wrap-up of Dwarves Foundation Apprenticeship 2022](https://memo.d.foundation/careers/apprentice/dwarves-foundation-apprenticeship-batch-of-2022/)** scaled us with a new well-trained squad. After the program, all of our apprentices are now working on client projects and constantly learning new things along the way.
 
@@ -183,22 +183,22 @@ The signal was clear, it was time we offered proper training and coaching for le
 
 ![](assets/2022-in-review_2022-dwarves-renaissance-a-year-end-rewind_f42ce11a992a281b7bde8ecd70c8f861_md5.webp)
 
-## Employee Experience
+## Employee experience
 
-### Launching $ICY for Dwarves' Engage & Earn System
+### Launching $ICY for Dwarves' engage & earn system
 
 We're big on **continuous improvements**: learning, sharing, and building a community of tech lovers. Hence, the launch of $ICY, [Dwarves' official token](https://memo.d.foundation/playbook/community/icy-in-2024/) to give back to everyone who contributes to our culture and activities.
 
 Built on Polygon, $ICY takes co-creation within Dwarves Network to the next level. Our monthly budget for rewarding ICY is around **500 ICY per month**, and will increase based on [community contribution](https://brain.d.foundation/Rewards+and+Recognition). If you're interested in any of the cutting-edge activities within the Dwarves Network and want to contribute, we're all for it.
 
-### Going Crypto Native, Pay Via USDT
+### Going crypto native, pay via USDT
 
 Our business builds and moves alongside the industry, so we know what it takes to become a crypto-native firm, our moves shift accordingly. It starts with two things:
 
 - **Selective in project deployment**: Block-chain based projects - [Cyber Nekos](http://pod.so/), [Triple Pod](https://tripod-web.vercel.app/)
 - **New option for monthly salary:** The team just rolled out a new option to receive monthly salaries through Binance.
 
-### Employee Referral Model
+### Employee referral model
 
 The team size has increased by 46%, a big part of the growth comes from people referring people. Our [referral program](https://github.com/dwarvesf/handbook/blob/master/how-we-hire.md#referral) is in place and open to everyone, not just the Dwarves. The suggestion, then, appears more valuable that you already know who the missing piece is.
 

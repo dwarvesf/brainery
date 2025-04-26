@@ -5,7 +5,7 @@ date: 2022-07-01
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Engage to Earn Boost
+### Engage to earn boost
 
 Our Discord has just announced the latest move - resuming the #starboard.
 
@@ -13,13 +13,13 @@ From now on, @peeps can vote :star: on your fav article. Every article receiving
 
 For your sharing to be eligible, you will need to include a summary note with it. Hope to see more of the stars!
 
-### Performance Review
+### Performance review
 
 Have y’all done your self-review yet? Clock is ticking @peeps. Anyways, @thuongptt has rolled out the peer review forms through your Dwarves email, please submit it together with your self-review before June 15.
 
 In case you have any questions, ping @thanh or @thuongptt in advance.
 
-### Shipping out June Brainery Reward
+### Shipping out June Brainery reward
 
 Succeeding the previous notes, let’s have a look at three new inputs for June Brainery
 

@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Applied Security Basis
+# Applied security basis
 
 | Status        | Assess                                                                                               |
 | :------------ | :--------------------------------------------------------------------------------------------------- |

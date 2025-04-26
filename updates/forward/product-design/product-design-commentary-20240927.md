@@ -1,5 +1,5 @@
 ---
-title: "Product Design Commentary #1: New technologies changing UX/UI and product design"
+title: "Product design commentary #1: New technologies changing UX/UI and product design"
 description: "New tools are changing how we design products. In the first edition, we look at voice controls, mixed reality, reusable design parts, and smart helpers. See how they're being used, what's popular, and why designers should care. Learn to make things that are easier and better to use."
 date: 2024-09-30
 authors:
@@ -46,7 +46,7 @@ The number of AR users is expected to increase from **0.44 billion in 2019** to 
 - **E-commerce**: AR allows users to preview products in real-world environments, such as **trying on shoes virtually**, **placing furniture in a room**, or **trying on clothing**.
   - Example: [L'Oreal AR Skincare](https://www.lorealparisusa.com/skin-care/facial-moisturizers/age-perfect-rosy-tone-cooling-night-moisturizer)
   - Example: [Warby Parker AR Glasses Try-On](https://www.warbyparker.com/)
-- **Education and Training**: VR is being utilized to provide immersive, direct-learning environments, where learners can practice skills in a safe, virtual setting.
+- **Education and training**: VR is being utilized to provide immersive, direct-learning environments, where learners can practice skills in a safe, virtual setting.
 
 ### Products leading AR/VR trends
 
@@ -79,8 +79,8 @@ _All these systems are available as Figma libraries as well as for development, 
 
 ### Application in design & development
 
-- **For Designers**: Designers use the design system as the primary source for creating components in Figma. All designs strictly adhere to the principles of the system library, limiting customization.
-- **For Developers**: Developers also have access to the pre-built component libraries that follow the design system. This ensures that the web version closely mirrors the design mockups.
+- **For designers**: Designers use the design system as the primary source for creating components in Figma. All designs strictly adhere to the principles of the system library, limiting customization.
+- **For developers**: Developers also have access to the pre-built component libraries that follow the design system. This ensures that the web version closely mirrors the design mockups.
 
 One significant advantage is **responsiveness across devices**. By using a single web design, it can adapt to tablet and mobile formats easily.
 

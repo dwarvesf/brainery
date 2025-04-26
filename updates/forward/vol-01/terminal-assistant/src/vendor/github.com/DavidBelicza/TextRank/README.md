@@ -91,7 +91,7 @@ Stop, start or remove the container:
 - `docker start textrank`
 - `docker rm textrank`
 
-## HOW DOES IT WORK
+## How does it work
 
 Too see how does it work, the easiest way is to use the sample text. Sample text can be found in the [textrank_test.go file at this line](https://github.com/DavidBelicza/TextRank/blob/master/textrank_test.go#L12). It's a short size text about Gnome Shell.
 
@@ -120,7 +120,7 @@ The following two important phrases have same occurrence 3, however they are not
 
 The exact algorithm can be found in the [algorithm.go file at this line](https://github.com/DavidBelicza/TextRank/blob/master/rank/algorithm.go#L65).
 
-## TEXTRANK OR AUTOMATIC SUMMARIZATION
+## TextRank or automatic summarization
 
 > Automatic summarization is the process of reducing a text document with a computer program in order to create a summary that retains the most important points of the original document. Technologies that can make a coherent summary take into account variables such as length, writing style and syntax. Automatic data summarization is part of machine learning and data mining. The main idea of summarization is to find a representative subset of the data, which contains the information of the entire set. Summarization technologies are used in a large number of sectors in industry today. - Wikipedia
 
@@ -547,7 +547,7 @@ func main() {
 }
 ```
 
-## A SIMPLE VISUAL REPRESENTATION
+## A simple visual representation
 
 The below image is a representation how works the simplest text ranking algorithm. This algorithm can be replaced by an another one by inject different Algorithm interface implementation.
 

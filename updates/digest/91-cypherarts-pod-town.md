@@ -11,11 +11,11 @@ Open Fabric is a platform for enabling interoperability and removing friction in
 
 Hieu P & Dung L will take over this as our main PICs alongside their core team. It's a great chance to contribute to their early-stage tech foundation.
 
-### Actively Hiring
+### Actively hiring
 
 With the hype in projects coming up, hiring is one of our top priorities. The seek applies for Fullstack, Frontend, Mobile & QAs. So please help connect the talents if you have any. We appreciate all the support 🙏🏻
 
-### Blockchain Lab: CypherArts & Pod Town
+### Blockchain lab: CypherArts & Pod Town
 
 We're adopting blockchain as a move with the industry. Therefore, we strongly encourage the team to embark on learning & playing around with this technology in any aspect you can. And don't hesitate to share your learning curve with the rest of the team. We always welcome new input to grow together.
 
@@ -24,6 +24,6 @@ These twos are the latest rookies in our blockchain-based work of Console Lab. I
 - <https://twitter.com/cypherarts_nft>
 - <https://twitter.com/pod_town>
 
-### Salary Adjustment
+### Salary adjustment
 
 Just wanna confirm you all have received the adjustment note as announced. Hope you're all happy with the result & keep the good work coming 💯

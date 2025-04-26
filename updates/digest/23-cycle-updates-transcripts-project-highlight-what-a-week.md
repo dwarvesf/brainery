@@ -5,13 +5,13 @@ date: 2020-05-09
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### The Next Cycle: March-April Updates and May-June Roadmap
+### The next cycle: March-April updates and May-June roadmap
 
 Two month passed by in a blink of an eye. And we're here with the new achievements. The detailed update has been posted on Woodland > Message Board. It was hard time collecting the pieces for the report, so I do hope it brings something you may find motivated & a clear vision on our next Roadmap.
 
 ![](assets/notion-image-1744007115974-ra2wk.webp)
 
-### Software Craftsmanship @DF: Introduction to Software Craftsmanship
+### Software craftsmanship @DF: Introduction to software craftsmanship
 
 The previous talk of An Duong & Huy Nguyen, on the brief intro of the term Craftsmanship, as well as why we believe it's important to adopt it into our core values. Here below is the transcript I've promised. For the presentation slide, you may check out our Team Drive >Training >Engineering >Craftsmanship.
 
@@ -109,7 +109,7 @@ This only to help summarize the key point of this talk, which can be listed as
 - The need of collaboration and interpersonal skills
   What's NextSoftware Craftsmanship @DF will be rolled out every week or two, and the main topic should cover all aspects of our day-to-day workflow. For the next talk, we're thinking about Huy G giving his talk on Frontend coding; or Khiem's opinion on Software Modeling. One way or another, it's all about technical knowledge sharing and how things can be level up.
 
-### Software Craftsmanship @DF: Software Modeling
+### Software craftsmanship @DF: Software modeling
 
 Khiem gave his research on Software Modeling through a webinar last Friday. The talks covered
 
@@ -117,7 +117,7 @@ Khiem gave his research on Software Modeling through a webinar last Friday. The 
 - What it is
 - How can we make it happen
 
-### Product Design Talk: Design Better Mobile Application
+### Product design talk: Design better mobile application
 
 This workshop wraps up the useful information on 2 types of operating system for UX/UI designers, based on the personal research on iOS and Android. The purpose is to create an application that brings comfortability and great experience to the end user.
 

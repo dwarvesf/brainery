@@ -5,14 +5,14 @@ date: 2022-07-08
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### More Dwarves join the brain team
+### More dwarves join the brain team
 
 Peeps, have you picked up reward from last month yet? In the mean while, Dwarves start looking into new topics
 
 - Frontend: ViteJS Native Modules <https://github.com/dwarvesf/brain/pull/43> by @namth
   Hopefully to expand more on team size & new topics. We're calling for July input on Web3 and DeFI. Just give @thanh or @Tom a ping and they'll help set you up.
 
-### Performance Review
+### Performance review
 
 For those who haven’t gotten your peer review yet, we’ll come up with a schedule in no time. Ping @thanh or @thuongptt if you have any question.
 

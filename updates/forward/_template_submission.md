@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Topic Submission Template
+# Topic submission template
 
 As you are able to submit your own topic, we know you already have things in mind. However, the team know nothing about it.
 To help you express your interest, we prepare a teamplate below for you when submiting your topic.

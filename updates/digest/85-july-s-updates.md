@@ -1,22 +1,22 @@
 ---
-title: "#85 - July's Updates"
+title: "#85 - July's updates"
 description: July updates include the start of annual performance reviews, upgraded paid-leave process, new case studies uploaded, and real-time leave requests via Notion portal.
 date: 2021-07-31
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### July's Updates
+### July's updates
 
-### Performance Review Announcement
+### Performance review announcement
 
 As mentioned, we'll start the annual Performance Review next week. To schedule, please follow the process in Github or Notion and catchup with your lead for a 1-1 meeting.
 We expect the meeting can provide you with constructive feedback and achievement recognition.
 
-### Paid-leave Policy
+### Paid-leave policy
 
 The process stays the same. But it's an upgrade in output to have the synergy between us and the clients ✔️
 
-### Case-study Streak
+### Case-study streak
 
 Thanks to the team input, we're able to upload 4 new case studies to note down own success in memo.d.foundation
 

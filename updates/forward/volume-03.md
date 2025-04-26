@@ -1,5 +1,5 @@
 ---
-title: Dwarves Tech Radar Volume 03
+title: Dwarves tech radar volume 03
 short_title: Tech Radar Volume 03
 description: "In short, this 3rd volume is all about one thing: Trial"
 date: 2021-04-29
@@ -38,7 +38,7 @@ After k6, Testlink is the next thing on queue - An open-sourced test management 
 
 Currently, we're trialing Testlink with BaseHQ and Aharooms. We get to know the project quality status or how many percentage requirements are covered by using it. The plan is to configure and sync the automation test report with TestLink and task report tools such as Jira.
 
-## Front-end Development
+## Front-end development
 
 ### [Preact](https://github.com/dwarvesf/radar/blob/master/vol-03/preact.md)
 
@@ -50,13 +50,13 @@ Providing the same APIs and mechanism as React, Preact can be used directly in t
 
 A significant advantage of switching to Preact from React is the smaller bundle size that helps the app to load faster - this can be a key requirement for some projects. We're using Preact to bootstrap some projects of the marketplace and product showcases.
 
-## DevOps and Maintenance
+## DevOps and maintenance
 
 ### [ArgoCD](https://github.com/dwarvesf/radar/blob/master/vol-03/argoCD.md)
 
 Acts as a Kubernetes controller which continuously monitors running applications and compares the current, live state against the desired target state (as specified in the Git repo); ArgoCD helps update, manage and control the code versions during its development phase on k8s. Testers can export the environment configuration in different formats, such as customize files, YAML files or jsonnet.
 
-## No-code Platform
+## No-code platform
 
 ### [Webflow and Bubble.io](https://github.com/dwarvesf/radar/blob/master/vol-03/nocode.md)
 

@@ -50,7 +50,7 @@ You probably already have a basic understanding of how SSH works. The SSH protoc
 
 The SSH connection between the client and the server happens in three stages:
 
-#### VERIFY SERVER
+#### Verify server
 
 - A connection is always initiated by the client to the server. So the first step is to establish a TCP connection to port 22 on the server. Let's see what's in there.
 
@@ -64,7 +64,7 @@ The SSH connection between the client and the server happens in three stages:
 - If the connection process is succeed, server identity will be stored as `server_host_key`(ecdsa key as you can see above) in `known_host` file so that the next time this client connect, there would be no warning.
 - Now, the server and client will negotiate a session key using Diffie-Hellman algorithm. This session key will be use to encrypt and decrypt all message in this session between client, server communication.
 
-#### AUTHENTICATE CLIENT
+#### Authenticate client
 
 As mention before in the Architecture section, there are multiple methods to authenticate client. But in this article we will only approach the strongest of them, public key authentication.
 

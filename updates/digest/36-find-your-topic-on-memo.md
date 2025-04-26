@@ -13,12 +13,12 @@ We have gathered all your work and have it displayed on Dwarves Memo. The timeli
 
 We describe and pursue the vision of a tech know-how distributing place. And it can’t never be done without these researches. Thank you for the hard work.
 
-### Handbook Update: A typical week with the Dwarves
+### Handbook update: A typical week with the Dwarves
 
 We’re getting more and more newbies in the team. It’s good to have an overview on how the week will transpire. One of the reason people left us is because they find it hard to fit in as a staff member. You know, participate in other activities beside projects.
 
 We’re working on a summary on how a week at Dwarves transpires. Hopefully to due out next week.
 
-### Deckset Guideline
+### Deckset guideline
 
 More and more of our material are conducted in presentation slide now. To keep everyone on the same page, here’s a guideline on how we apply Deckset to create slides with VSCode. Hope it’s helpful.

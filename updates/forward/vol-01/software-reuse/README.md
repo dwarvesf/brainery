@@ -50,7 +50,7 @@ Each function or component that includes generic functionality is potentially re
 
 In concept reuse, instead of component, you reuse ideas, working style, or algorithm. On the other hand, it means everything that is reused is represented in an abstract notation, which does not have an implementation detail. It can, therefore, be configured and adapted for a range of situations. A few methods that depend on concept reuse are design patterns, configurable system products, or program generator. The concept reuse process must contain an activity where the abstract concept is instantiated to create executable components.
 
-### 2 Few aspects of Software reuse
+### 2 few aspects of software reuse
 
 #### 2.1 The benefits
 

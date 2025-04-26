@@ -1,5 +1,5 @@
 ---
-title: "Product Design Commentary #4: Generative AI UX design patterns"
+title: "Product design commentary #4: Generative AI UX design patterns"
 description: This fourth edition looks at how Generative AI fits into digital systems. We examine the connections between AI and other parts of a system, focusing on scope, space, and function. Learn how these connections affect the way we design AI features and make them easy to use. Get practical tips on adding AI to your products in ways that make sense for users.
 date: 2024-10-22
 authors:
@@ -29,7 +29,7 @@ The first layer in understanding how Generative AI fits into larger systems is t
    - **Example**: Here, AI powers a specific action or feature. Consider an AI-driven grammar checker embedded in a word processor.
 4. **Application**:
    - **Example**: AI creates entire applications or powers core experiences. For example, tools like Grammarly, which is primarily an AI-driven application built around content refinement and language improvement.
-5. **Platform and Ecosystem**:
+5. **Platform and ecosystem**:
    - **Example**: On a larger scale, platforms or ecosystems use AI pervasively. An ecosystem may see different systems interacting through a network of AI technologies, such as multiple SaaS tools integrated with AI APIs to enhance functionalities and data flow across systems.
 
 Each level of this scope reveals the depth at which AI interacts within a digital system—from individual elements to entire ecosystems. Designers should consider how AI features align with the scale of their product's experience.

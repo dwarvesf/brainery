@@ -1,5 +1,5 @@
 ---
-title: "What's New in July 2021"
+title: "What's new in July 2021"
 description: Each month, we release a recap noting all the significant changes with our company and our team. July 2021 we will move toward blockchain industry and prepare for performance review in August.
 date: 2021-07-31
 authors:
@@ -41,7 +41,7 @@ Feel free to ask the CEO anything: workload, feature requests, product discussio
 
 ![officehour](assets/2021-whats-new-july_2021-july-updates_0b035e736bb615bcdde24b2efa950ec5_md5.webp)
 
-### Moving toward Blockchain industry
+### Moving toward blockchain industry
 
 We're dipping our toes in the Blockchain pool by partnering with a key client, a new NFT game project.
 

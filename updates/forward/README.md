@@ -1,5 +1,5 @@
 ---
-title: Forward Engineering
+title: Forward engineering
 description: We launch The Dwarves Tech Radar as a living asset to evaluate the adoption decision and keep the technology direction stays on track. Tech Radar is how we do R&D, how we work on self-growth and motivate continuous curiosity.
 date: 2020-08-25
 authors:
@@ -10,7 +10,7 @@ tags:
   - forward-engineering
 ---
 
-## Our Perspective on Technology
+## Our perspective on technology
 
 Technology is eating the world. The technology we used yesterday may be deprecated today. New technology has enabled us to create new things. With the existing set of problems, new solutions will emerge along with new technologies.
 
@@ -18,7 +18,7 @@ Over five years of working as an innovative software firm, other than the energe
 
 We launch The Dwarves Tech Radar as a living asset to evaluate the adoption decision and keep the technology direction stays on track. Tech Radar is how we do R&D, how we work on self-growth and motivate continuous curiosity.
 
-## Adoption Process
+## Adoption process
 
 When we observe a new tech, we map to the movement of the certain market to evaluate if the new tech could fit in. The main idea is to see if the new tech could help to make anything better than before in the long run and also serve our development direction.
 
@@ -47,7 +47,7 @@ Our radar has four rings, start from the middle.
 
 For each batch, we will organize into volume in our github repository (dwarvesf/radar) and track down the changes or comments from the study group.
 
-## The Tech Knowledge Areas
+## The tech knowledge areas
 
 ![](assets/dwarves-tech-radar-the-introduction_8e5f7f8bb132590bfbf3105155047b6c_md5.webp)
 

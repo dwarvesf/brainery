@@ -1,11 +1,11 @@
 ---
-title: "#49 - Information Workflow - Gathering output for project report"
+title: "#49 - Information workflow - Gathering output for project report"
 description: Learn how to streamline release workflows by converting development updates into clear sprint-based reports for internal teams and external clients.
 date: 2020-11-07
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Information Workflow
+### Information workflow
 
 Previously, we have known about auto-release, you know, where the bot keeps update the latest status of development. Quynh has spent her time to double check the release changelog after signing it off to go to production from one hub only.
 

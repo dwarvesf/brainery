@@ -1,5 +1,5 @@
 ---
-title: "Product Design Commentary #6: AI in Design - Cool ideas and how to make them happen"
+title: "Product design commentary #6: AI in design - cool ideas and how to make them happen"
 description: Artificial Intelligence (AI) brings boundless opportunities to enhance both user experience and daily life. While foundational technologies often seem under the purview of data scientists and engineers, designers play a crucial role in bridging the gap between user needs and emerging technologies. This article explores the role of UX and how to determine which user problems are best solved with AI while assessing their effectiveness.
 date: 2024-11-21
 authors:
@@ -12,7 +12,7 @@ tags:
 
 Artificial Intelligence (AI) brings boundless opportunities to enhance both user experience and daily life. While foundational technologies often seem under the purview of data scientists and engineers, designers play a crucial role in bridging the gap between user needs and emerging technologies. This article explores **the role of UX** and **how to determine which user problems are best solved with AI** while assessing their effectiveness.
 
-## Understanding UX in AI-Driven Design
+## Understanding UX in AI-driven design
 
 ![](assets/6-product-design-weekly-framework.png)
 
@@ -28,27 +28,27 @@ Machine learning (ML) is not a one-size-fits-all solution. Misguided application
 
 When designing any product, user-centered decisions are key. Three critical considerations for integrating AI into products are:
 
-### Identifying the Intersection of User Needs and AI Strengths
+### Identifying the intersection of user needs and AI strengths
 
 Determine the real-world problems users need to solve and evaluate whether AI offers unique value in addressing these issues. This requires a deep understanding of user needs and AI capabilities to ensure the proposed solution is both practical and valuable.
 
-### Balancing Automation vs. Augmentation
+### Balancing automation vs. augmentation
 
 Decide whether AI should fully automate a task or merely enhance user performance. Automation suits repetitive, mundane, or hazardous tasks, while augmentation is better suited for tasks where users want active involvement and where social or cognitive value is significant.
 
-### Designing and Evaluating Reward Functions
+### Designing and evaluating reward functions
 
 Every AI model is guided by a reward function, also called an “objective function” or “loss function.” This is a set of mathematical formulas that define the system's perception of "correct" versus "incorrect" predictions. Careful design of the reward function ensures long-term benefits and avoids unintended outcomes that might adversely affect user experience.
 
-### Use Case Examples: When AI Works Best vs. When It Doesn't
+### Use case examples: when AI works best vs. when it doesn't
 
 ![](assets/6-product-design-weekly-fit.png)
 
 ![](assets/6-product-design-weekly-fall-short.png)
 
-## Where to Integrate AI into Products and Solutions
+## Where to integrate AI into products and solutions
 
-### Enhancing Efficiency
+### Enhancing efficiency
 
 AI can learn user behaviors, identify patterns, and make actionable suggestions to save time and resources. For instance, [**Siri**](https://support.apple.com/en-vn/guide/iphone/iph6f94af287/ios) suggests apps based on daily habits, like opening a fitness tracker at 6 a.m. if the user jogs at that time. Similarly, platforms like Netflix and YouTube recommend content based on viewing history.
 
@@ -56,7 +56,7 @@ AI can learn user behaviors, identify patterns, and make actionable suggestions 
 
 AI also enhances logistics efficiency. Delivery services like DHL and FedEx optimize delivery routes, cutting fuel costs by up to 30%. These systems predict optimal paths and times, saving shipping costs and improving delivery speed.
 
-### Reducing Mundane Tasks
+### Reducing mundane tasks
 
 AI is ideal for automating repetitive, low-value tasks. For example, AI tools in Photoshop now automate background removal or complex graphic designs with simple commands, tasks that once required significant manual effort.
 
@@ -68,7 +68,7 @@ In finance, AI-powered tools consolidate data from various crypto exchanges, [ge
 
 Automation, however, isn't always ideal. Some tasks, like journaling or creative work, offer intrinsic value when performed manually. Instead of fully automating such activities, AI can assist by suggesting ideas or providing guidance, enhancing the user’s creative experience without taking over.
 
-### Supporting User Tasks
+### Supporting user tasks
 
 AI can act as a powerful assistant, helping users achieve goals seamlessly. Financial apps like **Acorns** and **Wealthfront** use AI to help users manage savings, track progress toward milestones like homeownership, and adjust strategies based on personal financial data.
 
@@ -84,7 +84,7 @@ Grammarly and Notion AI assist users in writing tasks, ranging from crafting mar
 
 Similarly, [Duolingo](https://blog.duolingo.com/duolingo-max/) incorporates gamification into language learning through daily and weekly challenges. These challenges are tailored to match the learner's current proficiency level, helping them progress while maintaining an effective and engaging learning routine.
 
-### Improving Safety and Health
+### Improving safety and health
 
 AI enhances user safety through real-time data processing. Apple devices analyze user movements to detect falls, automatically contacting emergency services if necessary.
 

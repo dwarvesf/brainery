@@ -1,5 +1,5 @@
 ---
-title: "Product Design Commentary #5: Figma to SwiftUI (functional code) with Claude AI"
+title: "Product design commentary #5: Figma to SwiftUI (functional code) with Claude AI"
 description: This article provides a guide on using Claude AI to build user interfaces in SwiftUI, transforming Figma designs into complete, production-ready code. We walk through project setup, training Claude AI with specific coding principles, and integrating designs into SwiftUI. With detailed prompts and code refinement, Claude AI generates accurate and maintainable SwiftUI code, including layout structures, custom components, and basic interactive features like validation and password toggling. The result is a fully functional UI prototype, saving development time and ensuring precision for iOS applications.
 date: 2024-11-07
 authors:
@@ -33,7 +33,7 @@ With the initial setup complete, our next step involves translating our Figma de
 
 ![](assets/5-product-design-commentary-figma-to-claude.png)
 
-## Upload Context for Claude AI
+## Upload context for Claude AI
 
 When uploading, we prompt Claude AI with instructions for generating SwiftUI code:
 
@@ -45,7 +45,7 @@ By specifying these details, Claude AI will focus on producing SwiftUI code that
 
 ![](assets/5-product-design-commentary-detail-context.png)
 
-## Implementing Claude AI-Generated Code in SwiftUI
+## Implementing Claude AI-generated code in SwiftUI
 
 Once Claude AI generates the initial SwiftUI code, we move it into our project. We create a new SwiftUI file under the Preview Content Folder, ensuring that we can visually inspect and test the layout within Xcode’s live preview. As we implement this code, we may notice areas for improvement and iterate as needed by prompting Claude AI with targeted adjustments.
 
@@ -57,7 +57,7 @@ To refine the design further, we can prompt Claude AI for more specific UI tweak
 
 ![](assets/5-product-design-commentary-claude-answer-2.png)
 
-## Implementing Claude AI-Generated Code in SwiftUI
+## Implementing Claude AI-generated code in SwiftUI
 
 The result of this collaboration with Claude AI is a SwiftUI-based UI that not only replicates the visual design accurately but also includes functional interactions. Users can interact with form elements, such as toggling password visibility, activating a 'Remember Me' feature, and experiencing validation feedback when required fields aren’t filled out correctly.
 

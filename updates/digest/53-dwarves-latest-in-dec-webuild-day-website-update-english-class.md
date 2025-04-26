@@ -1,23 +1,23 @@
 ---
-title: "#53 - Dwarves Latest in Dec: WeBuild Day, Website update & English Class"
-description: Get the latest updates on Covid-19, Artzy.vn improvements, WeBuild Day, The Library Project partnership, Salesforce-Slack deal, and new English classes for our community.
+title: "#53 - Dwarves Latest in Dec: WeBuild day, Website update & English class"
+description: Get the latest updates on Covid-19, Artzy.vn improvements, WeBuild day, The Library Project partnership, Salesforce-Slack deal, and new English classes for our community.
 date: 2020-12-05
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
 We all heard of some mfs messed up the community safety by bringing Covid back, but things are getting dealt with now. We still got the latest on Covid-19 updated here, pls input if you have any news. Stay tuned & stay safe.
 
-### Artzy Production
+### Artzy production
 
 Artzy just shipped their latest achievement at Artzy.vn. This version contains bug fixed and optimized the load time of production website.
 
-### WeBuild Day
+### WeBuild day
 
-It’s one week left until WeBuild Day. Anh has spent her time working on polishing this year’s website. The main theme is, still, Covid 19 and a brief on 8 keynote, and as I have mentioned in the previous digest - two of them are from our Dwarves.
+It’s one week left until WeBuild day. Anh has spent her time working on polishing this year’s website. The main theme is, still, Covid 19 and a brief on 8 keynote, and as I have mentioned in the previous digest - two of them are from our Dwarves.
 
 ![](assets/notion-image-1744007134384-9c0t3.webp)
 
-### The Library Project press release
+### The library project press release
 
 We partnered with The Library Project as a technical supporter for their libraries donation channels, which recently TLP has issued about on their press release.
 
@@ -28,7 +28,7 @@ Our website got some updated in the past week
 - Full development of CSR work, with update on our partnership with The Library Project and Webuild Community
   ![](assets/notion-image-1744007134784-26s3o.webp)
 
-### English Class
+### English class
 
 Last but not least, the English class. We’ve had 8 Dwarves on board so far, and the first class will take place on next Tuesday, Dec 12 at 6h30.
 

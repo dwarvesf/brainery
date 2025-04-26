@@ -1,5 +1,5 @@
 ---
-title: "What's New in August 2024"
+title: "What's new in August 2024"
 description: Each month, we release a recap highlighting key updates and progress within our team and community. August updates highlight AI tools, enhanced community discussions, the sum command upgrade, Go enterprise MOC insights, and earning dfg tokens through contributions.
 date: 2024-09-06
 authors:
@@ -20,16 +20,16 @@ tags:
 
 ## Reporting tech signal: AI's impact on programming and new opportunities
 
-August brought some exciting developments in AI-driven programming and app creation. Tools like **Cursor** and **Claude 3.5 Sonnet** are pushing programming toward AI-guided code, while **Generative Apps** are moving beyond UI, with AI tools now able to build mini apps from simple prompts.
+August brought some exciting developments in AI-driven programming and app creation. Tools like **Cursor** and **Claude 3.5 Sonnet** are pushing programming toward AI-guided code, while **Generative apps** are moving beyond UI, with AI tools now able to build mini apps from simple prompts.
 
 Other highlights include:
 
-- **AI in Programming:** Tools like Cursor and Claude 3.5 Sonnet are shifting coding from manual work to AI-guided, moving towards an AI-driven future.
-- **Generative Apps:** AI tools like Claude and ChatGPT are now building mini apps from prompts, reshaping app creation.
-- **Amazon's AI Development:** Amazon's GenAI assistant has slashed upgrade times and costs, automating 79% of code reviews.
-- **Prompt Caching:** Anthropic's caching cuts costs by up to 90%, boosting efficiency in apps needing repeated context like chatbots.
-- **OpenAI's Structured Output:** OpenAI enforces data adherence to JSON schemas, raising the bar in fields like healthcare and finance.
-- **Frontend Evolution:** Tools like shadcn and v0.dev are accelerating UI development with AI-enhanced prototyping.
+- **AI in programming:** Tools like Cursor and Claude 3.5 Sonnet are shifting coding from manual work to AI-guided, moving towards an AI-driven future.
+- **Generative apps:** AI tools like Claude and ChatGPT are now building mini apps from prompts, reshaping app creation.
+- **Amazon's AI development:** Amazon's GenAI assistant has slashed upgrade times and costs, automating 79% of code reviews.
+- **Prompt caching:** Anthropic's caching cuts costs by up to 90%, boosting efficiency in apps needing repeated context like chatbots.
+- **OpenAI's structured output:** OpenAI enforces data adherence to JSON schemas, raising the bar in fields like healthcare and finance.
+- **Frontend evolution:** Tools like shadcn and v0.dev are accelerating UI development with AI-enhanced prototyping.
 
 [Check out the latest market trends.](https://memo.d.foundation/playground/01_literature/market-report-aug-2024/)
 
@@ -47,11 +47,11 @@ Big thanks to the contributions from both the team and community: @tom, @lapnn, 
 
 Here's what we covered in August:
 
-- [Devbox Map of Content](https://memo.d.foundation/playground/-devbox/) - [@bienvh](https://memo.d.foundation/contributor/bienvh)
+- [Devbox map of content](https://memo.d.foundation/playground/-devbox/) - [@bienvh](https://memo.d.foundation/contributor/bienvh)
 - [Go commentary weekly](https://memo.d.foundation/tags/go-weekly/) - [@fuatto](https://memo.d.foundation/contributor/fuatto)
 - [Market report August](https://memo.d.foundation/playground/01_literature/market-report-aug-2024/) - [@thanh](https://memo.d.foundation/contributor/thanh), [@tom](https://memo.d.foundation/contributor/tom)
 - [Frontend market report](https://memo.d.foundation/playground/01_literature/engineering/frontend/frontend-report-july-2024/), - [@lapnn](https://memo.d.foundation/contributor/lapnn), [@hienld](https://github.com/leduyhien152)
-- [Design file-sharing system - Part 1: Directory Structure](https://memo.d.foundation/playground/01_literature/design-file-sharing-system-part-1-directory-structure/), [Design file-sharing system - Part 2: Permission & Password](https://memo.d.foundation/playground/01_literature/design-file-sharing-system-part-2-permission-and-password/) - [@datpv](https://github.com/datphamcode295)
+- [Design file-sharing system - Part 1: Directory structure](https://memo.d.foundation/playground/01_literature/design-file-sharing-system-part-1-directory-structure/), [Design file-sharing system - Part 2: Permission & Password](https://memo.d.foundation/playground/01_literature/design-file-sharing-system-part-2-permission-and-password/) - [@datpv](https://github.com/datphamcode295)
 - [Evaluating search engine in RAG systems](https://memo.d.foundation/playground/01_literature/hybrid-search/) - [@datnguyennnx](https://memo.d.foundation/contributor/datnguyennnx)
 - [Evaluating caching in RAG systems](https://memo.d.foundation/playground/01_literature/caching-with-rag-system/) - [@tay](https://github.com/taynguyen)
 - [Generative UI](https://memo.d.foundation/playground/01_literature/generative-ui/) - [@namanh](https://github.com/tonible14012002), @ngocquang

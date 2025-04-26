@@ -60,7 +60,7 @@ _ A simple app, which I wrote for 3 platform. \* A Clock custom view using UIKit
 
 ---
 
-# SwiftUI's Companions
+# SwiftUI's companions
 
 ---
 
@@ -72,7 +72,7 @@ _ A simple app, which I wrote for 3 platform. \* A Clock custom view using UIKit
 
 ![FIT](frp.png)
 
-# Combine Framework
+# Combine framework
 
 ---
 
@@ -86,7 +86,7 @@ _ A simple app, which I wrote for 3 platform. \* A Clock custom view using UIKit
 [.code-highlight: 5-9]
 [.code-highlight: 8]
 
-# Hello World
+# Hello world
 
 ```Swift
 import SwiftUI
@@ -246,7 +246,7 @@ static func buildBlock<C0, C1, C2, C3, C4, C5, C6, C7, C8, C9>(C0, C1, C2, C3, C
 
 [.code-highlight: 8]
 
-# View Modifers
+# View modifers
 
 ```Swift
 import SwiftUI
@@ -266,7 +266,7 @@ struct ContentView: View {
 
 ---
 
-# Custom ViewModifier
+# Custom viewModifier
 
 ```Swift
 struct PrimaryLabel: ViewModifier {
@@ -310,7 +310,7 @@ struct ContentView: View {
 
 ---
 
-# Some Views and Controls
+# Some views and controls
 
 - List
 - TextField
@@ -443,7 +443,7 @@ struct Frame: View {
 
 ---
 
-# Stack Layout process
+# Stack layout process
 
 1. Calculate space for childview after subtract internal spacing
 
@@ -465,9 +465,9 @@ struct Frame: View {
 
 ---
 
-# Property Wrappers
+# Property wrappers
 
-^Property Wrappers feature described in SE-0258 proposal. The main goal here is wrapping properties with logic which can be extracted into the separated struct to reuse it across the codebase.
+^Property wrappers feature described in SE-0258 proposal. The main goal here is wrapping properties with logic which can be extracted into the separated struct to reuse it across the codebase.
 
 ---
 
@@ -485,7 +485,7 @@ print(trimmedText) // "Hello, World!"
 
 ---
 
-# With Property Wrappers
+# With Property wrappers
 
 ```Swift
 @Trimmed
@@ -523,7 +523,7 @@ public struct Trimmed {
 
 [.build-lists: true]
 
-# Property Wrappers in **SwiftUI**
+# Property wrappers in **SwiftUI**
 
 - @State
 - @Binding

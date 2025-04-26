@@ -5,17 +5,17 @@ date: 2020-12-19
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Weekly Project Changelog
+### Weekly project changelog
 
 As mentioned in those previous (and lmao I hope you all read), we’re starting to send out our weekly changelog for each project. We hope this marks an attempt for better collaboration, and the client gets a greater view on how work happened within the week.
 
 Still, the tooling for a neat format email compose is a bit hard to find. It’ll be great if you can suggest us with some ideas. We’ve had Stripo, Drip and Moonmail for testing but none of them seems good enough.
 
-### Team Website
+### Team website
 
 First of all we would like to deliver our greatest thank to all for spending your time coming to block B, which, some of you are obviously working full-time remote. The photos have been forwarded to Anh, as she’ll give it some last touches and make sure we’ll end up with a better visual for d.foundation/team.
 
-### New Project
+### New project
 
 Quod.ai
 

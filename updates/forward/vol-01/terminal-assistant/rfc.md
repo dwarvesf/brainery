@@ -29,6 +29,6 @@ This is just a tool tries to make some improvement for the development process. 
 
 [mimir](https://github.com/mkhoi1998/mimir)
 
-## Tutorials and Examples
+## Tutorials and examples
 
 The features of this tool are presented in its [readme](https://github.com/mkhoi1998/mimir)

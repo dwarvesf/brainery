@@ -12,14 +12,14 @@ XPC is the newest way to implement IPC (Inter-Process-Communication) mechanism. 
 
 The XPC mechanism offers an alternative to sockets (or Mach Services using MIG) for IPC. We could have, for example, a process that acts as a “server” waiting for clients to access it’s API and provide some service.
 
-## XPC Services on applications
+## XPC services on applications
 
 When we talk about XPC Services (capital ‘S’), we are referring to the bundle called XPC Service. Bundles in Apple ecosystem refers to entities represented by a specific directory structure. The most common Bundle you encounter are Application Bundles. If you right-click on any application (For example Chess.app) and select Show content, what you’ll find is a directory structure.
 Back to XPC, applications can have may XPC Service bundles. You’ll find them inside the Contents/XPCServices/ directory inside the application bundle. Yo can search in your /Applications directory and see how many of the applications rely on XPC Services.
 
 You can also have XPC Services inside Frameworks (Which are another type of Bundle).
 
-## Additional Benefits of XPC Services
+## Additional benefits of XPC services
 
 Using XPC Services in our apps allow us to break some functionality in separate modules (The XPC Service). We could create an XPC Service that can be in charge of running some costly but infrequent tasks. For example, some crypto task to generate random numbers.
 
@@ -35,9 +35,9 @@ XPC Service can be stopped if it has been idle for a long time, or be spawned on
 
 launchd has information about system-wide resource availability and memory pressure, who best to make decisions on how to most effectively use our system’s resources than launchd
 
-# Implement XPC Services
+# Implement XPC services
 
-## Creating the Service
+## Creating the service
 
 An XPC service is a bundle in the Contents/XPCServices directory of the main application bundle; the XPC service bundle contains an Info.plist file, an executable, and any resources needed by the service. The XPC service indicates which function to call when the service receives messages by calling xpc_main(3) Mac OS X Developer Tools Manual Page from its main function.
 
@@ -75,7 +75,7 @@ int main(int argc, const char *argv[]) {
 
 5. Add the appropriate key/value pairs to the helper’s Info.plist to tell launchd the name of the service. These are described in XPC Service Property List Keys.
 
-## Using the Service
+## Using the service
 
 The way you use an XPC service depends on whether you are working with the C API (XPC Services) or the Objective-C API (NSXPCConnection).
 
@@ -84,14 +84,14 @@ The Objective-C NSXPCConnection API provides a high-level remote procedure call 
 
 To use the NSXPCConnection API, you must create the following:
 
-- An interface. This mainly consists of a protocol that describes what methods should be callable from the remote process. This is described in Designing an Interface
-- A connection object on both sides. On the service side, this was described previously in Creating the Service. On the client side, this is described in Connecting to and Using an Interface.
-- A listener. This code in the XPC service accepts connections. This is described in Accepting a Connection in the Helper.
+- An interface. This mainly consists of a protocol that describes what methods should be callable from the remote process. This is described in Designing an interface
+- A connection object on both sides. On the service side, this was described previously in Creating the service. On the client side, this is described in Connecting to and using an interface.
+- A listener. This code in the XPC service accepts connections. This is described in Accepting a connection in the helper.
   Messages.
 
 ![XPC Architecture](assets/xpcarchitect.png)
 
-### Overall Architecture
+### Overall architecture
 
 When working with NSXPCConnection-based helper apps, both the main application and the helper have an instance of NSXPCConnection. The main application creates its connection object itself, which causes the helper to launch. A delegate method in the helper gets passed its connection object when the connection is established. This is illustrated in Figure 4-1.
 
@@ -105,7 +105,7 @@ When the main application calls a method on a proxy object, the XPC service’s 
 
 Similarly, if the XPC service obtains a proxy object and calls a method on that object, the main app’s NSXPCConnection object calls that method on the object stored in its exportedObject property
 
-### Designing an Interface
+### Designing an interface
 
 The NSXPCConnection API takes advantage of Objective-C protocols to define the programmatic interface between the calling application and the service. Any instance method that you want to call from the opposite side of a connection must be explicitly defined in a formal protocol. For example:
 
@@ -136,7 +136,7 @@ Each method must have a return type of void, and all parameters to methods or re
 
 _Important: If a method (or its reply block) has parameters that are Objective-C collection classes (NSDictionary, NSArray, and so on), and if you need to pass your own custom objects within a collection, you must explicitly tell XPC to allow that class as a member of that collection parameter._
 
-### Connecting to and Using an Interface
+### Connecting to and using an interface
 
 Once you have defined the protocol, you must create an interface object that describes it. To do this, call the interfaceWithProtocol: method on the NSXPCInterface class. For example:
 
@@ -171,7 +171,7 @@ _Note: If you want to allow the helper process to call methods on an object in y
 
 > > > > > > > c68f8f9 (format frontmatter)
 
-### Accepting a Connection in the Helper
+### Accepting a connection in the helper
 
 When an NSXPCConnection-based helper receives the first message from a connection, the listener delegate’s `listener:shouldAcceptNewConnection:` method is called with a listener object and a connection object. This method lets you decide whether to accept the connection or not; it should return YES to accept the connection or NO to refuse the connection.
 
@@ -179,13 +179,13 @@ _Note: The helper receives a connection request when the first actual message is
 
 In addition to making policy decisions, this method must configure the connection object. In particular, assuming the helper decides to accept the connection, it must set the following properties on the connection:
 
-- exportedInterface—an interface object that describes the protocol for the object you want to export. (Creating this object was described previously in Connecting to and Using an Interface.)
+- exportedInterface—an interface object that describes the protocol for the object you want to export. (Creating this object was described previously in Connecting to and using an interface.)
 
 - exportedObject—the local object (usually in the helper) to which the remote client’s method calls should be delivered. Whenever the opposite end of the connection (usually in the application) calls a method on the connection’s proxy object, the corresponding method is called on the object specified by the exportedObject property.
 
 After setting those properties, it should call the connection object’s resume method before returning YES. Although the delegate may defer calling resume, the connection will not receive any messages until it does so.
 
-### Sending Messages
+### Sending messages
 
 Sending messages with NSXPC is as simple as making a method call. For example, given the interface myCookieInterface (described in previous sections) on the XPC connection object myConnection, you can call the feedMeACookie method like this:
 
@@ -197,7 +197,7 @@ Cookie *myCookie = ...
 
 When you call that method, the corresponding method in the XPC helper is called automatically. That method, in turn, could use the XPC helper’s connection object similarly to call a method on the object exported by the main application.
 
-### Handling Errors
+### Handling errors
 
 In addition to any error handling methods specific to a given helper’s task, both the XPC service and the main app should also provide the following XPC error handler blocks:
 

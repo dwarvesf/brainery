@@ -5,7 +5,7 @@ date: 2020-05-16
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Introduction to Memo
+### Introduction to memo
 
 A tutorial on Memo - our medium to keep the team stories alive, has been put on Woodland > Message Board. This aims to help you know about how Outline and Memo co-work for the team blog posts, the format and the topics you may find interesting.
 
@@ -13,7 +13,7 @@ Hope the message makes your future writing easier. If you have any struggle work
 
 ![](assets/notion-image-1744007087565-1q2xi.webp)
 
-### Transcript: Software Modeling - Khiem V
+### Transcript: Software modeling - Khiem V
 
 I'll continue the series of Software Craftsmanship @DF with today's pick: Software Modeling. The team is also heading for 1 talk from Design Team, and another one from QA Team. By bringing up different topics from different teams, we get to know better on our obstacles and how to collaborate smoothly.
 
@@ -52,7 +52,7 @@ Our Design team is using this to follow the final goal of an application or a sy
 
 After that, we'll find out the relationship between them. Read the full article at Software Modeling
 
-### Transcript: How a Design System work - Giang V
+### Transcript: How a design system work - Giang V
 
 This talk is created from my experiences & lesson learnt, the rule and self-code I've built and believe to be applicable. So I can guarantee you may not find some of it in any other places on the internet.
 

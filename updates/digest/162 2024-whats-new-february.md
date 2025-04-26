@@ -1,5 +1,5 @@
 ---
-title: "What's New in February 2024"
+title: "What's new in February 2024"
 description: "In this second month of 2024, we're eyeing on what's brewing in the tech market, what's happening in our community and internally, the newest topics we're looking forward to researching and putting on the field, and expanding our partner network."
 date: 2024-03-08
 authors:
@@ -12,8 +12,8 @@ tags:
 ---
 
 - **[Reporting Tech Signals](#reporting-tech-signals)** - Latest findings on Serverless Computing, AI & ML, FinOps and CyberSecurity
-- **[Research Topics 2024](#research-topics-2024)** - 40 topics on the most promising technologies.
-- **[Dwarves' Reward System](#dwarves-reward-system)** - Developing our community reward system
+- **[Research topics 2024](#research-topics-2024)** - 40 topics on the most promising technologies.
+- **[Dwarves' reward system](#dwarves-reward-system)** - Developing our community reward system
 - **[Calling for Partners](#partner-network)** - One of the rare event where Dwarves and community members gather.
 
 ## Reporting tech signals
@@ -30,7 +30,7 @@ This month highlights:
 
 **[[Market Report Feb 2024|Read the full report here]]**
 
-## Research Topics 2024
+## Research topics 2024
 
 Being able to solve problems using the latest, coolest technologies has always been our main goal. Therefore, we are going big on research this year.
 
@@ -45,7 +45,7 @@ A handful of community members has expressed interest in joining hands. Of cours
 
 If you want to join our research group, open a support ticket on our [**Discord**](https://discord.gg/dfoundation) and we'll talk to you asap!
 
-## Dwarves' Reward System
+## Dwarves' reward system
 
 Our server has been buzzing with quite a lot of knowledge sharing and discussing from members. It's only right that we start giving back to all contributors, through a Reward System.
 
@@ -63,7 +63,7 @@ In February, kudos to those peeps who outperformed the rest: Chinh Le, Hai Huynh
 
 ![](assets/2024-whats-new-february_whats-new-february-2024-20240308101913942.webp "s=90")
 
-## Partner Network
+## Partner network
 
 We are always seeking for business development partners, individuals and companies likewise, to develop a co-creation system driven by mutual purposes and interests.
 

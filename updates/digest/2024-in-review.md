@@ -1,5 +1,5 @@
 ---
-title: 2024 In Review
+title: 2024 in review
 description: "Closing another milestone with 2024, it has been a year of building and rebuilding ,  strengthening what works, fixing what doesn't, and uncovering new paths along the way. Every milestone reached this year carries the marks of teamwork and persistence."
 date: 2025-01-16
 authors:
@@ -53,8 +53,8 @@ This year, a monthly pool of 2500 ICY (~$4000) sparked more learning than we ant
 
 **Key contributors:**
 
-- **OGIF Talks:** @fuatto, @datnguyennnx, @monotykamary, @hoangnnh, @lapnn, @nambui.
-- **Memo Notes:** @thanh, @hoangnnh, @datnguyennnx, @fuatto.
+- **OGIF talks:** @fuatto, @datnguyennnx, @monotykamary, @hoangnnh, @lapnn, @nambui.
+- **Memo notes:** @thanh, @hoangnnh, @datnguyennnx, @fuatto.
 - **Bounties:** @bienvh, @innno, @minhcloud, @quang.
 - **Tech sharing:** @monotykamary, @phucld, @minhlq, @antran, @huymaius, @datnguyenxx.
 
@@ -92,7 +92,7 @@ These updates came from understanding team needs and making them happen. Simple 
 
 ![](assets/2024-in-review-tono.png)
 
-### Weekly Commentary: Turning trends, insights into actionable items
+### Weekly commentary: Turning trends, insights into actionable items
 
 As a research-focused team, collecting and sharing knowledge became part of our speed. We saw it in our velocity - shipping got smoother when everyone knew more.
 
@@ -101,9 +101,9 @@ This year, our weekly updates grew from Go-weekly insights into a broader lens o
 **Commentary series expanded into four practical domains**
 
 - **Go weekly** grew with @fuatto's Enterprise MOC, showing how we're using Golang for real business challenges.
-- **AI Digest** delivered clear, tool-focused updates for applying AI effectively.
-- **Product Design Weekly** offered actionable UI/UX tips that go beyond surface-level advice.
-- **Consulting Snapshot** highlighted key tech and business trends that matter.
+- **AI digest** delivered clear, tool-focused updates for applying AI effectively.
+- **Product design weekly** offered actionable UI/UX tips that go beyond surface-level advice.
+- **Consulting snapshot** highlighted key tech and business trends that matter.
 
 Weekly OGIF sessions and memo notes kept the insights flowing. Each series aims for the same thing: useful knowledge you can put to work.
 
@@ -115,7 +115,7 @@ The **🧙・ai-club** opened its doors this year. It became a hub for exploring
 
 - **🧙・ai-club** served as a collaborative corner, designing AI agents tailored to projects, from coding accelerators to workflow enhancers.
 - The **ai-sheep role** recognized those engaging with AI through shared content, lightning talks, or practice tasks, encouraging contributions from all levels of interest.
-- **Copilot Bounties**: rewarded meaningful contributions, whether insights, tools, or advancements in AI/LLM applications.
+- **Copilot bounties**: rewarded meaningful contributions, whether insights, tools, or advancements in AI/LLM applications.
 
 The AI-Club showed us what happens when team effort meets focused exploration: smarter tools, better workflows, and new skills to take forward.
 
@@ -161,8 +161,8 @@ Looking ahead, we've resumed hiring and are excited to welcome more like-minded 
 
 #### New partnerships and team growth
 
-- **Research Lab**: Led by [@thanh](https://memo.d.foundation/contributor/thanh) and [@Tom](https://memo.d.foundation/contributor/tom), we broke new ground in AI with professional collaborations alongside **Ascenda**, **FornaxAI**, and **Plot**.
-- **Web3 and Quant Teams**: Thriving teams delivered impactful results with **Y[Redacted]** and **Hedge**, while laying the foundation for upcoming projects already in the pipeline.
+- **Research lab**: Led by [@thanh](https://memo.d.foundation/contributor/thanh) and [@Tom](https://memo.d.foundation/contributor/tom), we broke new ground in AI with professional collaborations alongside **Ascenda**, **FornaxAI**, and **Plot**.
+- **Web3 and Quant teams**: Thriving teams delivered impactful results with **Y[Redacted]** and **Hedge**, while laying the foundation for upcoming projects already in the pipeline.
 
 #### Navigating a changing landscape in 2024
 
@@ -235,7 +235,7 @@ A huge thank you to our community members: @jack, @tannhatcmcs, and @congiomat�
 
 ![](assets/2024-in-review-offline-meetup.png)
 
-### Dwarves Open Source: Fueling innovation together
+### Dwarves open source: Fueling innovation together
 
 We deepened our commitment to open-source, empowering our team and community to build and share tools that address real problems. From practical libraries to AI-driven projects, each contribution brought us closer to collective progress.
 

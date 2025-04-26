@@ -24,8 +24,8 @@ Basically, `three.js` scene is like a movie scene. You need the space, the objec
 
 I will not try to include everything here because it would be tenuous - We don't want a lot of new concepts without any proper insight. Instead, I'll just give you an idea of the most basic things ThreeJS has to offer:
 
-- [Vertext and Segment](#vertex-segment)
-- [Mesh, Geometry and Material](#mesh-geometry-material)
+- [Vertext and segment](#vertex-segment)
+- [Mesh, geometry and material](#mesh-geometry-material)
 - [Camera](#camera)
 - [Lighting](#lighting)
 
@@ -43,7 +43,7 @@ Take a look at the following image:
 
 It has 4 vertices, creating 2 different segments with no overlapping diagonal line. This shape can now be used as, for example, one **face** of a box.
 
-### <a id="mesh-geometry-material">Mesh, Geometry and Material</a>
+### <a id="mesh-geometry-material">Mesh, geometry and material</a>
 
 A **mesh** in `three.js` is an object, created by combining **geometry** and **material**. Think of a wooden box. Its geometry would be **box**, while its material would be **wooden**.
 
@@ -72,9 +72,9 @@ We'll be using `PerspectiveCamera` for the app.
 
 `three.js` provides lighting objects such as `SpotLight`, `PointLight`, `AmbientLight`, etc. for every use-case. I think some examples would be better in this case:
 
-- [Point Light](https://threejs.org/examples/?q=Light#webgl_lights_pointlights)
-- [Spot Light](https://threejs.org/examples/?q=Light#webgl_lights_spotlights)
-- [Rect Area Light](https://threejs.org/examples/?q=Light#webgl_lights_rectarealight)
+- [Point light](https://threejs.org/examples/?q=Light#webgl_lights_pointlights)
+- [Spot light](https://threejs.org/examples/?q=Light#webgl_lights_spotlights)
+- [Rect area light](https://threejs.org/examples/?q=Light#webgl_lights_rectarealight)
 - ...
 
 ---
@@ -123,7 +123,7 @@ A lightweight graphical user interface for changing variables in JavaScript.
 
 I was going to include shader, but that's honestly out of my league right now. It's a world of its own. I will try to follow up with another tech radar project, if possible.
 
-## Other References
+## Other references
 
 - https://threejs.org/docs/
 - https://humaan.com/blog/web-3d-graphics-using-three-js/

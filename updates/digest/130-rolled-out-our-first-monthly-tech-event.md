@@ -5,7 +5,7 @@ date: 2022-07-22
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Tech Event l AMA with @thanhlv - Solution Architect at Google
+### Tech event l AMA with @thanhlv - solution architect at Google
 
 Last Wednesday marked our first ever tech event.
 

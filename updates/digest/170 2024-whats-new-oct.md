@@ -1,5 +1,5 @@
 ---
-title: "What's New in October 2024"
+title: "What's new in October 2024"
 description: "Each month, we roll out a recap of our team and community's progress. October's updates spotlight our open source initiative, boosted rewards for sharing knowledge, navigating market shifts, weekly tech insights, and a warm celebration of Vietnamese Women's Day."
 date: 2024-11-15
 authors:
@@ -11,11 +11,11 @@ tags:
 ---
 
 - [**We're Hiring:**](#were-hiring) On the lookout for Full-stack Engineers, Biz Devs, and Marketing minds to join the team.
-- [**Labs OGIF Office Hour - Building Core Knowledge:**](#labs-ogif-office-hour---building-core-knowledge) Weekly sessions diving deep into AI, Blockchain, Architecture, and Finance fundamentals.
-- [**Join Dwarves Open Source,**](#dwarves-open-source---join-the-movement) a great time to build and learn through OSS work. From libraries to AI tools, every contribution counts.
-- [**Navigating Market Shifts:**](#navigating-market-shifts) Adapting to client needs and honing in on AI, Blockchain, and Data for a sharper edge.
-- [**Weekly Commentary - Product Design & AI Digest:**](#weekly-commentary---product-design--ai-digest) A new weekly series with fresh insights into product design and AI trends.
-- [**Vietnamese Women's Day Throwback:**](#throwback-to-vietnamese-womens-day) We celebrated with heartfelt gifts and a dinner to honor our talented women.
+- [**Labs OGIF office hour - Building core knowledge:**](#labs-ogif-office-hour---building-core-knowledge) Weekly sessions diving deep into AI, Blockchain, Architecture, and Finance fundamentals.
+- [**Join Dwarves open source,**](#dwarves-open-source---join-the-movement) a great time to build and learn through OSS work. From libraries to AI tools, every contribution counts.
+- [**Navigating market shifts:**](#navigating-market-shifts) Adapting to client needs and honing in on AI, Blockchain, and Data for a sharper edge.
+- [**Weekly Commentary - Product Design & AI digest:**](#weekly-commentary---product-design--ai-digest) A new weekly series with fresh insights into product design and AI trends.
+- [**Vietnamese women's day throwback:**](#throwback-to-vietnamese-womens-day) We celebrated with heartfelt gifts and a dinner to honor our talented women.
 
 ![](assets/2024-whats-new-oct-thumbnail.png)
 
@@ -23,9 +23,9 @@ tags:
 
 Our team is growing, and we're scouting for driven talent to join us on the journey. We're on the lookout for:
 
-- [Full-stack Engineer](https://memo.d.foundation/careers/open-positions/full-stack-engineer/) (Project-based Contractor)
-- [Business Development](https://memo.d.foundation/careers/open-positions/business-development/) (Fulltime)
-- [Marketing & Communications](https://memo.d.foundation/careers/open-positions/marketing-and-communications-specialist/) (Fulltime)
+- [Full-stack engineer](https://memo.d.foundation/careers/open-positions/full-stack-engineer/) (Project-based Contractor)
+- [Business development](https://memo.d.foundation/careers/open-positions/business-development/) (Fulltime)
+- [Marketing & communications](https://memo.d.foundation/careers/open-positions/marketing-and-communications-specialist/) (Fulltime)
 
 Think you know someone who's up for the challenge? Email us at <spawn@d.foundation> or ping [@nikki](https://memo.d.foundation/contributor/nikki) on Discord for more info.
 
@@ -51,20 +51,20 @@ We're leaning all the way into open source. Got a library, tool, or AI project y
 
 We're re-centering our focus to meet the moment. AI, blockchain, data - this is where we're investing our time and talent, as we keep pace with client needs and market demands.
 
-1. **Consulting Shift**: As client requirements change, so do our team's. We're doubling down on core contributors who are active, adaptable, and ready to take on high-impact projects. Others may need to pause or refocus to keep pace with where we're going.
-2. **Lab Team**: The Lab remains the heartbeat of our innovation. Expectations (and rewards) are higher for those pushing the boundaries, writing, exploring, and applying new ideas.
-3. **Community Backbone**: Nine years in, our Discord stays strong - a space for learning, sharing, and connecting, whether you're new, tenured, or an alumni.
+1. **Consulting shift**: As client requirements change, so do our team's. We're doubling down on core contributors who are active, adaptable, and ready to take on high-impact projects. Others may need to pause or refocus to keep pace with where we're going.
+2. **Lab team**: The Lab remains the heartbeat of our innovation. Expectations (and rewards) are higher for those pushing the boundaries, writing, exploring, and applying new ideas.
+3. **Community backbone**: Nine years in, our Discord stays strong - a space for learning, sharing, and connecting, whether you're new, tenured, or an alumni.
 
 ## Weekly commentary - Product design & AI digest
 
-Rolling out two new series this month: a Product Design Weekly and an AI Digest. It's insight meets action, with practical takes on where product design and AI are headed.
+Rolling out two new series this month: a Product design weekly and an AI digest. It's insight meets action, with practical takes on where product design and AI are headed.
 
-- **Product Design Weekly:** A no-nonsense look at what's actually working in design. Real-world insights, practical UI/UX tips, and everything you need to create experiences that stick.
-- **AI Digest:** Your weekly dose of AI, minus the hype. From useful tools to practical insights, it's what you need to know to stay smart about where AI is headed.
+- **Product design weekly:** A no-nonsense look at what's actually working in design. Real-world insights, practical UI/UX tips, and everything you need to create experiences that stick.
+- **AI digest:** Your weekly dose of AI, minus the hype. From useful tools to practical insights, it's what you need to know to stay smart about where AI is headed.
 
 ![](assets/2024-whats-new-oct-commentary.png)
 
-### Throwback to Vietnamese Women's day
+### Throwback to Vietnamese women's day
 
 We took a moment to celebrate to celebrate the women at Dwarves. We marked the occasion with a round of gifts and a cozy team dinner - just a simple way to say thanks to the incredible women who shape our team and bring heart to our work every day.
 

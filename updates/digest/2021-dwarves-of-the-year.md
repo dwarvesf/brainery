@@ -1,5 +1,5 @@
 ---
-title: Dwarves Of The Year 2021
+title: Dwarves of the year 2021
 description: "A big congratulations to our Dwarves of 2021. Apart from the team's voting result for each title, the team leads also selected the Honorable Mention and Client Endorsed, as we want to honor all of the hard work."
 date: 2022-01-05
 authors:
@@ -19,7 +19,7 @@ Let's all welcome our Dwarves of 2021 🛠
 
 ![](assets/2021-dwarves-of-the-year_2021-december-all-hands-meeting_ff19993744fb6047810b5411ce69b707_md5.webp)
 
-### Claim Your Prize
+### Claim your prize
 
 Based on the prize value in each title, let’s select your prize item in this sheet [https://bit.ly/3G0LuAU](https://bit.ly/3G0LuAU). A few notes on this:
 

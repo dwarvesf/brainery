@@ -18,7 +18,7 @@ We can run preact CLI locally in the terminal on your computer. It will help you
 
 `$ npm install -g preact-cli`
 
-### The Alias
+### The alias
 
 ```
 {
@@ -49,7 +49,7 @@ The other main difference is that Preact follows the DOM specification more clos
 
 Normally, an application can be composed form different libraries. In case the codebase from the 3rd library belongs to the incompatible section, the conflicts might happen.
 
-## Benefit Stage
+## Benefit stage
 
 Development
 

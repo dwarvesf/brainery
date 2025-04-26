@@ -31,7 +31,7 @@ PWA are user experiences that have the reach of the web, and are:
 ## Core concepts
 
 - Service worker
-- The Web App Manifest
+- The web app manifest
 
 ---
 
@@ -115,13 +115,13 @@ self.addEventListener("activate", (event) => {
 
 ---
 
-## The Web App Manifest
+## The web app manifest
 
 The web app manifest is a simple JSON file that tells the browser about your web application and how it should behave when 'installed' on the user's mobile device or desktop.
 
 ---
 
-## The Web App Manifest
+## The web app manifest
 
 ```javascript
 {

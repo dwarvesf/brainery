@@ -26,7 +26,7 @@ At some point, we figure the development phase might take more time and resource
 
 ![webflow](./assets/webflow.png)
 
-### Volta: Hassle-free JS Tool Manager
+### Volta: Hassle-free JS tool manager
 
 During our work with Javascript, each project comes with different node versions. Usually, managing these versions relies mostly on nvm, requiring developers to run their CLI every time switching between projects manually. It's a waste of time and can quickly cause errors.
 
@@ -40,7 +40,7 @@ We tried out CState as our monitoring service, but CState requires low level set
 
 ![uppptime](./assets/sttdafug.png)
 
-### Domain Research Framework
+### Domain research framework
 
 Our Designers picked it up earlier this year to better create an entry way before product design. There are multiple ways to do UX research; our team also has one. This framework provides a structural approach on UX research. This method helps collect insight on a domain's business's strategy, users' behaviors, needs, pain points, etc. to build a product that meets the business's goal and solves users' existing problems.
 

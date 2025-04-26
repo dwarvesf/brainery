@@ -1,5 +1,5 @@
 ---
-title: August Changelog
+title: August changelog
 description: Discover how our team advances blockchain skills, improves project workflows with Basecamp Kanban, and grows expertise through audits, automation, and professional development.
 date: 2021-09-03
 last_edited: "2025-04-07T00:00:00.000Z"
@@ -7,11 +7,11 @@ last_edited: "2025-04-07T00:00:00.000Z"
 
 Been a cycle with such many kudos ✔️
 
-### Projects Highlights
+### Projects highlights
 
 It delights us to hear good responses from the client for your dedicated work. We'd like to give you all a special gratitude for spreading the craftsmanship spirit into every work shipped out.
 
-### Workflow Progress
+### Workflow progress
 
 ---
 
@@ -34,7 +34,7 @@ To build a more professional presence, it must come from the team inside. We did
 - Project audit: A full cycle from technical to management audit to grab the team's understanding on projects on a higher level than merely coding. By doing this, we're able to uncover new opportunities that benefits the products and businesses.
 - Case study feature: The long streak of case study crafting journey. All air at memo.d.foundation in case study hashtag.
 
-### Team Growth
+### Team growth
 
 Into the Blockchain world
 

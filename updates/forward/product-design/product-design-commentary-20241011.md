@@ -1,5 +1,5 @@
 ---
-title: "Product Design Commentary #3: The art of prompting in AI-human interaction"
+title: "Product design commentary #3: The art of prompting in AI-human interaction"
 description: In this third edition, we delve into the art of prompting in AI-human interaction. We explore the evolution of communication between humans and machines, focusing on the crucial role of UX designers in crafting effective prompts for large language models. The commentary covers the importance of context, system prompting techniques, and structured frameworks for prompting, highlighting how these elements shape the future of human-AI interactions and user experiences.
 date: 2024-10-14
 authors:
@@ -29,15 +29,15 @@ Effective communication with AI relies on providing clear context, both from the
 
 UX designers can enhance AI interactions by crafting effective system prompts. These prompts help guide the AI, providing a consistent tone and behavior.
 
-- **Interface Prompting:** Designers can provide conversational starters and suggest follow-ups.
+- **Interface prompting:** Designers can provide conversational starters and suggest follow-ups.
 
   ![](assets/3-product-design-commentary-the-craft-of-prompting.png)
 
-- **System Prompting:** Hidden prompts guide the AI in a specific direction, ensuring consistent tone and behavior across the tool.
+- **System prompting:** Hidden prompts guide the AI in a specific direction, ensuring consistent tone and behavior across the tool.
 
   ![](assets/3-product-design-commentary-training-data.png)
 
-- **Training Data:** The UX role is crucial in helping train models or assist in fine-tuning them to avoid bias and ensure ethical use.
+- **Training data:** The UX role is crucial in helping train models or assist in fine-tuning them to avoid bias and ensure ethical use.
 
 ### Understanding the context window
 

@@ -5,7 +5,7 @@ date: 2021-10-09
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Social Insurance Labour Support
+### Social insurance labour support
 
 For who has submitted for Labour Social Insurance, some new announcement has been made
 
@@ -17,7 +17,7 @@ For who has submitted for Labour Social Insurance, some new announcement has bee
 
 We just had Ngoc onboarded this morning. He'll be joining our Frontend team and working directly with new client. Happy to have you here 👋
 
-### The Launch of CyberNeko
+### The launch of CyberNeko
 
 I'm sure some of you have heard about this, but let's make this official: We've finally rolled out CyberNeko last Sunday, and reached 3800 minted Nekos within the first 24hours. A great kudos to the team 🎗
 ☞ <https://pod.so/> you know what to do 🌚

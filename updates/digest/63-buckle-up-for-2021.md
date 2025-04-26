@@ -7,7 +7,7 @@ last_edited: "2025-04-07T00:00:00.000Z"
 
 Last week passed by quickly thanks to the holiday. 3 days for all of us to clean up the plate and buckle up for 2021.
 
-### Healthcare Reminder
+### Healthcare reminder
 
 A heads up for March to make sure we maintain our health after the season of bánh chưng 🥲. We’ll be conducting the annual healthcare on 15/03/-16/03/2021 for the blood test, and please reserve 20/03 for the overall checkup.
 

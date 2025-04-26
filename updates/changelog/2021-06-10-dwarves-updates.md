@@ -1,6 +1,6 @@
 ---
-title: Dwarves Updates
-description: Hi, this is Han, the CEO of Dwarves Foundation. This month the Dwarves score 40th client that we have the honor to serve. And for that, we decide to launch the Dwarves Updates.
+title: Dwarves updates
+description: Hi, this is Han, the CEO of Dwarves Foundation. This month the Dwarves score 40th client that we have the honor to serve. And for that, we decide to launch the Dwarves updates.
 date: 2021-06-10
 authors:
   - tieubao
@@ -12,15 +12,15 @@ tags:
   - updates
 ---
 
-Hi, this is Han, the CEO of Dwarves Foundation. This month the Dwarves score 40th client that we have the honor to serve. And for that, we decide to launch the Dwarves Updates.
+Hi, this is Han, the CEO of Dwarves Foundation. This month the Dwarves score 40th client that we have the honor to serve. And for that, we decide to launch the Dwarves updates.
 
 As we build this company like we build a product, when we think about this approach, we ask different questions: Do people work here know how to use the company? Is it simple? Is it obvious how it works? Are there bugs? What's broken that we can fix quickly and what's going to take a long time?
 
 A company is like software. It has to be usable, it has to be useful. And it probably also has bugs, places where the company crashes because of bad organizational design or cultural oversights.
 
-Dwarves Updates contains what we learned, our tech adoption, our investment in the team, and how we turn those experiences into our client's and partner's success. You're receiving this because we would love to have you as a part of the journey.
+Dwarves updates contains what we learned, our tech adoption, our investment in the team, and how we turn those experiences into our client's and partner's success. You're receiving this because we would love to have you as a part of the journey.
 
-### HR: Apprenticeship Training
+### HR: Apprenticeship training
 
 In the past, one of our strategies to acquire talent was to conduct the Internship Program, twice a year when the university students graduate or start looking for real-world experience.
 

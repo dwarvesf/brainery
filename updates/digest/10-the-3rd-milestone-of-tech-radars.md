@@ -1,11 +1,11 @@
 ---
-title: "#10 - The 3rd Milestone of Tech Radars"
+title: "#10 - The 3rd milestone of tech radars"
 description: Discover the latest Tech Radar milestone updates, apprenticeship program timeline, team bonding survey, and welcome new front-end and back-end engineers to the team.
 date: 2020-02-08
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-## The 3rd Milestone of Tech Radars
+## The 3rd milestone of tech radars
 
 ---
 

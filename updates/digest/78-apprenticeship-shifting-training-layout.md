@@ -1,11 +1,11 @@
 ---
-title: "#78 - Apprenticeship: Shifting training layout"
+title: "#78 - Apprenticeship: shifting training layout"
 description: Discover our updated apprenticeship training on soft skills and team communication, new English name conventions for Basecamp, Firefox’s redesigned browser, and StackOverflow’s $1.8B acquisition.
 date: 2021-06-05
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Apprenticeship: Shifting training layout
+### Apprenticeship: shifting training layout
 
 A few weeks have gone by with some training. But there are more to meet the eyes than technical topics.
 

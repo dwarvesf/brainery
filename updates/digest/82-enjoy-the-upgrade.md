@@ -17,7 +17,7 @@ We got two topics on air last week
 
 Also, we have received some contributions for our Second Brain on Discord/programming. Vincenzo Vy Tran has uploaded his research on Micro Frontend Development. Check out his great work; we’ve had it on team memo as well. 👀
 
-### Office Item Shipment
+### Office item shipment
 
 We’ve finished processing the request. The ordered items are on their way. Please help to check on your phone for the upcoming deliveries. Due to COVID, some items might take longer days for shipment.
 

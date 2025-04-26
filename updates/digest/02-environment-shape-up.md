@@ -9,7 +9,7 @@ tags:
   - culture-book
 ---
 
-### Company Updates
+### Company updates
 
 2019 Year-End Bonus
 

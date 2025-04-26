@@ -1,5 +1,5 @@
 ---
-title: "What's New in February 2025"
+title: "What's new in February 2025"
 description: "Each month, we roll out a recap of our team and community's strides forward. February's recap covers the hybrid mode shift, ICY-to-BTC swap testing, updated use cases with AI and trading solutions, skip-level meetings, and the New Year gathering kickoff."
 date: 2025-03-04
 authors:

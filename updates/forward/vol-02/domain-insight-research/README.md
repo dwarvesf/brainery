@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Domain Insight Research Framework
+# Domain insight research framework
 
 As a designer working in the Digital Product industry, I'm pretty sure we all hear about UX Research once at least. In this field, we learn about the business's strategy, users' behaviors, needs, pain points, etc. to build a product that meets the business's goal and solves users' existing problems. There are multiple ways to do UX research; our team also has one. However, there is a higher level, which helps UX Researchers process their works much faster, empathize with target users much easier, and save more effort and time; it is called Domain Insight Research.
 
@@ -12,7 +12,7 @@ As a designer working in the Digital Product industry, I'm pretty sure we all he
 
 # What is Domain Insight Research (DIR)?
 
-This Domain Insight Research Framework is a method for new approaches to understanding and getting insight into a new industry. This conceptual framework was designed to collect various types of information, including:
+This Domain insight research framework is a method for new approaches to understanding and getting insight into a new industry. This conceptual framework was designed to collect various types of information, including:
 
 - Definition
 - How the domain works
@@ -31,7 +31,7 @@ Domain insight knowledge helps UX Researchers and Designers have an overview of 
 - Propose some solutions for clients based on real information
 - Suggest suitable technology method to optimize workflow and cost
 
-# Three Steps of Domain Insight Research
+# Three steps of Domain Insight Research
 
 ## Understand the definition
 
@@ -55,7 +55,7 @@ To learn a new domain, we have been doing in several ways:
 4. Value proposition & Problem solving
    Technology is increasingly developed and applied to solve the problems and difficulties that humans face in life. Each technology product is created with at least one value proposition. In this session, we find out the value that the domain brings to our lives. For example, the ebook was created to reduce publishing books' cost and their impact on the environment through paper production. Or micro-investment helps people with middle and low income have opportunities to invest and practice saving habits. Understanding the value and problems the industry is solving will help us make a more accurate assessment of the potential entrant of a new product.
 
-## The second and the most valuable step of this framework: Market Research
+## The second and the most valuable step of this framework: Market research
 
 Market research is a set of techniques which is used to gather information about an industry; also help us to:
 
@@ -71,7 +71,7 @@ There are many market research methods; you can try to find some on Google. Howe
 
 It is essential to choose the right methods, apply them flexibly to each industry or product to maximize the time and cost.
 
-### How we do Market Research
+### How we do Market research
 
 1. **Gather information**
 
@@ -133,7 +133,7 @@ Personas is a familiar term that we all know about its utility and importance in
 - **Time-saving** — In most projects, clients often choose to build the first MVP for testing to save costs for product development. Therefore, we need to focus on which features are the most priority to solve users' crucial problems.
 - **Consistency** — Since every user has been classified, we can have a consistent understanding of the users. It helps analyze users' data and conclude it to make a better product.
 
-5. **Solutions & Features**
+5. **Solutions & features**
 
 With the information gathered above, we already have an overview of what people are doing out there. Next, we use it to validate clients' ideas and easily propose solutions for them, based on:
 

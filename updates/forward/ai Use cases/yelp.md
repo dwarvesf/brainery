@@ -10,14 +10,14 @@ tags:
   - use-cases
 ---
 
-Yelp Inc. is a platform that helps users discover local businesses through reviews, ratings, and recommendations. Recently, they've integrated AI and large language models (LLMs) to improve content moderation, search capabilities, and user interactions with features like Yelp Assistant.
+Yelp Inc. is a platform that helps users discover local businesses through reviews, ratings, and recommendations. Recently, they've integrated AI and large language models (LLMs) to improve content moderation, search capabilities, and user interactions with features like Yelp assistant.
 
-## Key Takeaways
+## Key takeaways
 
 - Yelp uses LLMs to catch inappropriate reviews, blocking 23,600+ bad ones in 2023.
 - Yelp uses the CLIP model to accurately categorize and understand the content of photos.
 - Yelp uses LLMs to summary highlight review.
-- Yelp Assistant helps users find service providers by using LLM with their ML system.
+- Yelp assistant helps users find service providers by using LLM with their ML system.
 
 ## Yelp contents as embeddings
 
@@ -35,9 +35,9 @@ They mainly looked at how well LLMs can catch bad content like:
 
 Yelp put together a dataset ( you can find [this datasets at here](https://huggingface.co/datasets/Yelp/yelp_review_full), based on 5 star rating system review) of old inappropriate reviews to train their model. This dataset had labeled examples of really bad language. To make the model work even better, they used a few tricks like:
 
-- **Scoring System**: Moderators rated how bad the inappropriate content was.
-- **Sentence Embeddings**: They used LLMs to find reviews that were similar to high-quality examples to bulk up the dataset.
-- **Sampling Techniques**: They adjust the dataset by over-sampling and under-sampling to boost recall, especially for rare types of inappropriate content. **They also used zero-shot and few-shot technique** to handle cases where there wasn’t enough data for certain categories.
+- **Scoring system**: Moderators rated how bad the inappropriate content was.
+- **Sentence embeddings**: They used LLMs to find reviews that were similar to high-quality examples to bulk up the dataset.
+- **Sampling techniques**: They adjust the dataset by over-sampling and under-sampling to boost recall, especially for rare types of inappropriate content. **They also used zero-shot and few-shot technique** to handle cases where there wasn’t enough data for certain categories.
 
 **Yelp used a curated dataset and LLM model from HuggingFace to classify inappropriate reviews.** They evaluated model performance by visualizing sentence embeddings and fine-tuned the model to improve accuracy.
 
@@ -49,8 +49,8 @@ Since incorporating LLMs to help detect harmful and inappropriate content, it en
 
 Yelp uses business and photo embeddings to enhance data accessibility and improve recommendations, semantic search, and clustering.
 
-1. **Business Embeddings**: These are created by averaging the vector embeddings of the 50 most recent reviews of a business, representing its metadata. Before LLM trends grows, they are apply ML for this feature.
-2. **Photo Embeddings**: Yelp uses **OpenAI's CLIP model** to generate semantic representations of images. CLIP is a zero-shot model that pairs images with relevant text, helping classify photos more accurately with minimal data.
+1. **Business embeddings**: These are created by averaging the vector embeddings of the 50 most recent reviews of a business, representing its metadata. Before LLM trends grows, they are apply ML for this feature.
+2. **Photo embeddings**: Yelp uses **OpenAI's CLIP model** to generate semantic representations of images. CLIP is a zero-shot model that pairs images with relevant text, helping classify photos more accurately with minimal data.
 
 **Semantic Understanding:** CLIP is employed to generate semantic embeddings of images, enabling the system to understand and categorize the content of photos effectively. For example from Yelp, we observe that many **Interior** and **Exterior** photos get classified as **Other** by the CLIP model. Here are some examples for **Interior**.
 
@@ -70,9 +70,9 @@ They’ve also improved the search experience with **AI and LLMs** (Large Langua
 
 Another cool addition is how Yelp’s making reviews more engaging. You can now **add videos to your reviews**, making them more immersive and interactive. They’ve also added **new review reactions** (think thumbs up or similar) and **review topics** to help you write better, more organized reviews.
 
-## Yelp Assistant
+## Yelp assistant
 
-Yelp is using Large Language Models (LLMs) in some cool ways to make things easier for both users and businesses. One of the main features powered by LLMs is **Yelp Assistant**, a conversational AI tool that helps you find and hire service pros. You can just tell Yelp Assistant what you need, and it’ll ask you follow-up questions, then match you with the best local pros for the job. It’s smart because it pulls from Yelp’s huge collection of business info and reviews, making sure you get the right fit.
+Yelp is using Large Language Models (LLMs) in some cool ways to make things easier for both users and businesses. One of the main features powered by LLMs is **Yelp assistant**, a conversational AI tool that helps you find and hire service pros. You can just tell Yelp assistant what you need, and it’ll ask you follow-up questions, then match you with the best local pros for the job. It’s smart because it pulls from Yelp’s huge collection of business info and reviews, making sure you get the right fit.
 
 ![](assets/Yelp-assistants.webp)
 

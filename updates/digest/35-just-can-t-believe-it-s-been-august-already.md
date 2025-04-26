@@ -11,7 +11,7 @@ A week ago, we were this close to book our annual company trip in the very Da Na
 
 Anyhoo, let’s wrap up July.
 
-### Memo Invasion
+### Memo invasion
 
 The past week has been a loaded up for our Memo. From a blank space with few blog posts about Homebrew, Dockers or the DC/OS series, we’re filling up Memo with new collections, engineering topics research, design aspects and operation perspectives.
 
@@ -21,13 +21,13 @@ I also crafted up a short note on hiring. I figure this sensitive period (yes I 
 
 Besides, you may heard the term Tech Radar for the past few months. Although the team is still working on creating a website for the radar itself, we think it’s safe to start posting the first two topics: SwiftUI by Phuc and Applied Security Basis created by Bien, Khoi and Phuong.
 
-### Readify Progress
+### Readify progress
 
 We’ve just had a demo session on the latest version of Readify. The team is polishing the final UI for internal release. Thanh P and Tuan D are taking care of it while Anh T craft the final design. The data pipeline need more work to make Readify more valuable to our team member.
 
 So if it doesn’t work out, we all can blame Huy N.
 
-### Canada Intern joins us last week
+### Canada intern joins us last week
 
 The very first intern batch of our Canada Internship. They’ll be giving a 1-week entry assignment to for skills evaluation. After this training period, hope to have them getting involved more on the cool stuffs we are doing.
 

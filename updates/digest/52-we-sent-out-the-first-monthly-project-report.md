@@ -1,13 +1,13 @@
 ---
 title: "#52 - We sent out the first Monthly Project Report"
-description: Stay updated on our smooth project progress, new memo rules, upcoming WeBuild Day event, year-end party plans, and the latest PHP v8 release news.
+description: Stay updated on our smooth project progress, new memo rules, upcoming WeBuild day event, year-end party plans, and the latest PHP v8 release news.
 date: 2020-11-28
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
 Seem like our current projects are going smoothly. The workload stays steady and no update on resources adjustment.
 
-### Monthly Report
+### Monthly report
 
 Thanks to you all weekly report, we now have collected enough the material to compose project report for Product Owners. We’ll trial this firstly this month with our key clients, when the other will begin from December.
 
@@ -23,13 +23,13 @@ Meanwhile, in Business end, Giang gathered her observation to craft up an overvi
 
 Oh, in case you haven't known, Memo post can now be searched by author name ✌️
 
-### Year-end Party venue
+### Year-end party venue
 
 After days of searching, Van has finally founded the next place for our year-end retreat - The Street. The expected timeline would be January 15th, 2021. We’ll roll out the detailed info once the date is getting closer.
 
-### WeBuild Day
+### WeBuild day
 
-WeBuild Day will occur on Saturday, December 12th - which is only two weeks from now. We’ll hold the event at Block71 Saigon, a brand new event location in district 2.
+WeBuild day will occur on Saturday, December 12th - which is only two weeks from now. We’ll hold the event at Block71 Saigon, a brand new event location in district 2.
 
 ![](assets/notion-image-1744007136511-ne17t.webp)
 

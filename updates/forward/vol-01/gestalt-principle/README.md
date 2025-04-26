@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Gestalt Principles in UI Design
+# Gestalt principles in UI design
 
 ![](assets/owl.png)
 

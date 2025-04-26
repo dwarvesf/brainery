@@ -1,17 +1,17 @@
 ---
-title: December All-hands Meeting
+title: December all-hands meeting
 description: Discover how our blockchain team grows with selective project focus, upgraded benefits, and remote work opportunities while embracing real deals and Web3 learning.
 date: 2022-01-07
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-## Moving with Blockchain
+## Moving with blockchain
 
 ---
 
 ![](assets/notion-image-1744007399532-vkmfd.webp)
 
-## Selective in Project Decision
+## Selective in project decision
 
 ---
 
@@ -19,7 +19,7 @@ It’s a promise of bigger clients & better team deployment.
 
 We were able to drop the long-term projects that no longer match our business direction; successfully committed to deploying the minimum of 3 Dwarves for almost all remaining projects. With this coming, we also increase the headcount rate as we believe it should grow alongside our ability to deliver.
 
-## Growing the Team
+## Growing the team
 
 ---
 
@@ -27,7 +27,7 @@ A special congrats to Cuong Mai, Tom & Ngoc Mai for passing the probation and be
 
 ![](assets/notion-image-1744007400519-ypyzr.webp)
 
-## and the Attached Benefits
+## And the attached benefits
 
 ---
 

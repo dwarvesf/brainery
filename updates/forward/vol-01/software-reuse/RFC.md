@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Software Reuse
+# Software reuse
 
 | Status        | Assess                        |
 | :------------ | :---------------------------- |

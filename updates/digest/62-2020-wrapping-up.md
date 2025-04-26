@@ -23,11 +23,11 @@ Also in this week,  Van helped us arrange the little gift for all of us can e
 
 The full article: <https://dwarves.foundation/memo/dwarves-radio-talk-3-duc-nghiem-askmeanything-fw3pjyo3tu>
 
-### WeUp Internal demo
+### WeUp internal demo
 
 Since it is almost the G-day for WeUp team to deliver the product, last Friday  Bien  helped to conduct a in-depth, end-to-end demo to get the team on the same page. And to be honest, the effort on this demo is a bit overwhelmed and we can be assured that no one in the team can miss it. <https://public.3.basecamp.com/p/GdzW2kAGsdPFTvDiAKUwXzbh>
 
-### News of the Week
+### News of the week
 
 Jeff Bezos will step down as CEO of Amazon
 

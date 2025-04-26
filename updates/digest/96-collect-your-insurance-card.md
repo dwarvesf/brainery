@@ -15,7 +15,7 @@ An's solid performance was highly valued by our client that led him become a ful
 
 But that doesn't mean he stops being one of us - you'll always be welcomed in this woodland. Hope to see you hang around Discord 👾
 
-### New Dwarves in town
+### New dwarves in town
 
 Glad to have new guys to expand the squad. They'll be joining us in project work of as Backend & Fullstack Engineers. Welcome onboard Tom, Jim & Hung 🚀
 

@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Go Concurrency
+# Go concurrency
 
 When we talk about Golang, its most basic and popular characteristic is concurrency-support.
 
@@ -14,14 +14,14 @@ When we talk about Golang, its most basic and popular characteristic is concurre
 
 ### Table of contents
 
-- [1. Concurrency vs Parallelism](#1-concurrency-vs-parallelism) <br>
+- [1. Concurrency vs parallelism](#1-concurrency-vs-parallelism) <br>
 - [2. Goroutines](#2-goroutines) <br>
 - [3. Channel](#3-channel) <br>
 - [4. Under the hood](#4-under-the-hood) <br>
   - [4.1 Channel implementation](#41-channel-implementation) <br>
   - [4.2 Go scheduler](#42-go-scheduler) <br>
 
-### 1. Concurrency vs Parallelism
+### 1. Concurrency vs parallelism
 
 Concurrency means “out of order” execution. Another concept talk about concurrency as the capability to deal with lots of things at once. It's best explained with an example in real life: During playing Dota 2, let’s say, my mom asked me to buy something. Now i stop playing, go to the grocery and then starts playing again with rebuke of my team. This is a basic example of concurrency. In computing, concurrency is represented by the state when two or more tasks can start, run, and complete in overlapping time periods. It doesn't necessarily mean they'll ever both be running at the same time. Multitasking on a single-core machine is an example.
 

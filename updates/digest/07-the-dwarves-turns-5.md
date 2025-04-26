@@ -9,7 +9,7 @@ last_edited: "2025-04-07T00:00:00.000Z"
 
 ---
 
-### Dwarves Foundation Team Retreat
+### Dwarves Foundation team retreat
 
 Finally, the wait is over! 🙌
 
@@ -44,13 +44,13 @@ Each Dwarves shall have their personal photos and short descriptions to portrait
 - Contribution Description
   ![](assets/notion-image-1744007177099-b9z01.webp)
 
-### Engineering Topic Discussion
+### Engineering topic discussion
 
 You may recall the last Engineering Meeting about Tech Topic Discussion. The Engineering Team is asked to submit individual or group topic that they find helpful and interesting enough to roll up their sleeves and start to dig deeper.
 
 There have been many topics were raised in the past 2 weeks. Although we will start to work remotely from next week, please keep in mind that there will be a meeting during Investment Time to sync up the progress ✊.
 
-### Operation Updates
+### Operation updates
 
 Benefit & Perks
 

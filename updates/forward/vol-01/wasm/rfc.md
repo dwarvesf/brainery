@@ -27,7 +27,7 @@ This quick playing-around will help engineers shorten their time to get to know 
 
 [Introduction to WebAssembly](/wasm.md)
 
-## Code & Demo
+## Code & demo
 
 To keep it simple, we choose [Asteroids game written in C](https://github.com/flightcrank/asteroids) which is written in C++ to port to WebAssembly.
 

@@ -5,25 +5,25 @@ date: 2021-06-19
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-## Team & Quality
+## Team & quality
 
-### Metrics Dashboard
+### Metrics dashboard
 
 Tin has finished setting up the metric for SaaS (contains the document and setup script), a part of Venture’s product bootstrapping.
 
 Using dashboard and metrics to measure a product’s health brings a visualized result and enhances the business decision; which is why we also adopt this on Fortress, by creating dashboard to visualize our current data and business movement.
 
-### QC: Automation Testing Framework
+### QC: automation testing framework
 
 As mentioned lately, QC Team is building an automation testing framework to apply on all current projects. The workflow has been setup with a detailed guideline for development team to trial and awaiting for further updates.
 
-## In The Remote Movement
+## In the remote movement
 
-### Dragon Bound & Wayfinder
+### Dragon bound & Wayfinder
 
 Going fulltime remote drives us to think of a new bonding way. Dragon Bound and Wayfinder will be hosted and livestream this weekend. For more info, please catchup on discord/campfire.
 
-### Gather town - Where remote doesn’t feel remotely
+### Gather town - where remote doesn’t feel remotely
 
 We’re starting to adopt Gather town - a vphysically office space for team gathering. The UI and experience somehow feels like those games back in the 2000s. Cool. The bits team had taken the first step in Gather for their weekly meeting, how about you ? Join us at
 

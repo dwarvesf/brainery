@@ -38,22 +38,22 @@ etc.
 [![GoDoc](https://godoc.org/github.com/spf13/cobra?status.svg)](https://godoc.org/github.com/spf13/cobra)
 [![Go Report Card](https://goreportcard.com/badge/github.com/spf13/cobra)](https://goreportcard.com/report/github.com/spf13/cobra)
 
-# Table of Contents
+# Table of contents
 
 - [Overview](#overview)
 - [Concepts](#concepts)
   - [Commands](#commands)
   - [Flags](#flags)
 - [Installing](#installing)
-- [Getting Started](#getting-started)
-  - [Using the Cobra Generator](#using-the-cobra-generator)
-  - [Using the Cobra Library](#using-the-cobra-library)
-  - [Working with Flags](#working-with-flags)
-  - [Positional and Custom Arguments](#positional-and-custom-arguments)
+- [Getting started](#getting-started)
+  - [Using the Cobra generator](#using-the-cobra-generator)
+  - [Using the Cobra library](#using-the-cobra-library)
+  - [Working with flags](#working-with-flags)
+  - [Positional and custom arguments](#positional-and-custom-arguments)
   - [Example](#example)
-  - [Help Command](#help-command)
-  - [Usage Message](#usage-message)
-  - [PreRun and PostRun Hooks](#prerun-and-postrun-hooks)
+  - [Help command](#help-command)
+  - [Usage message](#usage-message)
+  - [PreRun and PostRun hooks](#prerun-and-postrun-hooks)
   - [Suggestions when "unknown command" happens](#suggestions-when-unknown-command-happens)
   - [Generating documentation for your command](#generating-documentation-for-your-command)
   - [Generating bash completions](#generating-bash-completions)
@@ -146,7 +146,7 @@ Next, include Cobra in your application:
 import "github.com/spf13/cobra"
 ```
 
-# Getting Started
+# Getting started
 
 While you are welcome to provide your own organization, typically a Cobra-based
 application will follow the following organizational structure:
@@ -175,14 +175,14 @@ func main() {
 }
 ```
 
-## Using the Cobra Generator
+## Using the Cobra generator
 
 Cobra provides its own program that will create your application and add any
 commands you want. It's the easiest way to incorporate Cobra into your application.
 
 [Here](https://github.com/spf13/cobra/blob/master/cobra/README.md) you can find more information about it.
 
-## Using the Cobra Library
+## Using the Cobra library
 
 To manually implement Cobra you need to create a bare main.go file and a rootCmd file.
 You will optionally provide additional commands as you see fit.
@@ -343,7 +343,7 @@ var versionCmd = &cobra.Command{
 }
 ```
 
-## Working with Flags
+## Working with flags
 
 Flags provide modifiers to control how the action command operates.
 
@@ -360,7 +360,7 @@ var Source string
 
 There are two different approaches to assign a flag.
 
-### Persistent Flags
+### Persistent flags
 
 A flag can be 'persistent' meaning that this flag will be available to the
 command it's assigned to as well as every command under that command. For
@@ -370,7 +370,7 @@ global flags, assign a flag as a persistent flag on the root.
 rootCmd.PersistentFlags().BoolVarP(&Verbose, "verbose", "v", false, "verbose output")
 ```
 
-### Local Flags
+### Local flags
 
 A flag can also be assigned locally which will only apply to that specific command.
 
@@ -378,7 +378,7 @@ A flag can also be assigned locally which will only apply to that specific comma
 localCmd.Flags().StringVarP(&Source, "source", "s", "", "Source directory to read from")
 ```
 
-### Local Flag on Parent Commands
+### Local flag on parent commands
 
 By default Cobra only parses local flags on the target command, any local flags on
 parent commands are ignored. By enabling `Command.TraverseChildren` Cobra will
@@ -391,7 +391,7 @@ command := cobra.Command{
 }
 ```
 
-### Bind Flags with Config
+### Bind flags with config
 
 You can also bind your flags with [viper](https://github.com/spf13/viper):
 
@@ -420,7 +420,7 @@ rootCmd.Flags().StringVarP(&Region, "region", "r", "", "AWS region (required)")
 rootCmd.MarkFlagRequired("region")
 ```
 
-## Positional and Custom Arguments
+## Positional and custom arguments
 
 Validation of positional arguments can be specified using the `Args` field
 of `Command`.
@@ -526,7 +526,7 @@ a count and a string.`,
 
 For a more complete example of a larger application, please checkout [Hugo](http://gohugo.io/).
 
-## Help Command
+## Help command
 
 Cobra automatically adds a help command to your application when you have subcommands.
 This will be called when a user runs 'app help'. Additionally, help will also
@@ -578,7 +578,7 @@ cmd.SetHelpTemplate(s string)
 
 The latter two will also apply to any children commands.
 
-## Usage Message
+## Usage message
 
 When the user provides an invalid flag or invalid command, Cobra responds by
 showing the user the 'usage'.
@@ -617,14 +617,14 @@ cmd.SetUsageFunc(f func(*Command) error)
 cmd.SetUsageTemplate(s string)
 ```
 
-## Version Flag
+## Version flag
 
 Cobra adds a top-level '--version' flag if the Version field is set on the root command.
 Running an application with the '--version' flag will print the version to stdout using
 the version template. The template can be customized using the
 `cmd.SetVersionTemplate(s string)` function.
 
-## PreRun and PostRun Hooks
+## PreRun and PostRun hooks
 
 It is possible to run functions before or after the main `Run` function of your command. The `PersistentPreRun` and `PreRun` functions will be executed before `Run`. `PersistentPostRun` and `PostRun` will be executed after `Run`. The `Persistent*Run` functions will be inherited by children if they do not declare their own. These functions are run in the following order:
 
@@ -755,8 +755,8 @@ Run 'kubectl help' for usage.
 Cobra can generate documentation based on subcommands, flags, etc. in the following formats:
 
 - [Markdown](doc/md_docs.md)
-- [ReStructured Text](doc/rest_docs.md)
-- [Man Page](doc/man_docs.md)
+- [ReStructured text](doc/rest_docs.md)
+- [Man page](doc/man_docs.md)
 
 ## Generating bash completions
 

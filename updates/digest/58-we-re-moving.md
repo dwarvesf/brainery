@@ -7,15 +7,15 @@ last_edited: "2025-04-07T00:00:00.000Z"
 
 by all means, the new cycle and the office location. Last Friday happened with both Engineering Team and Design Team meeting. Hopefully, we all have something to put in the 2021 Roadmap list.
 
-### Office Migration
+### Office migration
 
 The team is finishing the last work cleaning up blocks B & D, as we're taking HaDo Centrosa as our new woodland. Khai is currently taking care of this and heard that he has some new office design ideas. Ping him if you have anything to add up.
 
-### The Dwarves's turning 6
+### The dwarves's turning 6
 
 and yes, team retreat on next Friday. We also look forward to announcing our Dwarves of 2020 ✔️
 
-### News of the Week
+### News of the week
 
 Apple's move on creating wireless chargers
 

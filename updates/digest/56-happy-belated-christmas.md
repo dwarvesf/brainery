@@ -5,13 +5,13 @@ date: 2020-12-26
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Noel Gift Exchange
+### Noel gift exchange
 
 We hope you all had fun last night with the whole gift exchange and the dinner treat, not to mention the board game afterwards. Thank you Van & Nam for helping us on the wrapping process. Those cuties boxes deserves a big 👏🏻
 
 ![](assets/notion-image-1744007093924-qaq47.webp)
 
-### Team Website on Air
+### Team website on air
 
 Finally, we got the first version rolled out. Check out your photo at d.foundation/team. Kudos to Anh’s hard work, and ofc, all of your effort for help making this happen successfully.
 

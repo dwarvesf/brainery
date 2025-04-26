@@ -5,7 +5,7 @@ date: 2019-12-14
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Company Updates
+### Company updates
 
 Rolling out schedule plan for Year-End Party
 

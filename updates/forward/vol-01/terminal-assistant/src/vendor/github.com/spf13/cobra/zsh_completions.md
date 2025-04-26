@@ -4,13 +4,13 @@ description: null
 date: null
 ---
 
-## Generating Zsh Completion for your cobra.Command
+## Generating zsh completion for your cobra.Command
 
 Cobra supports native Zsh completion generated from the root `cobra.Command`.
 The generated completion script should be put somewhere in your `$fpath` named
 `_<YOUR COMMAND>`.
 
-### What's Supported
+### What's supported
 
 - Completion for all non-hidden subcommands using their `.Short` description.
 - Completion for all non-hidden flags using the following rules:
@@ -37,7 +37,7 @@ The generated completion script should be put somewhere in your `$fpath` named
     completion options for 1st argument.
   - Argument completions only offered for commands with no subcommands.
 
-### What's not yet Supported
+### What's not yet supported
 
 - Custom completion scripts are not supported yet (We should probably create zsh
   specific one, doesn't make sense to re-use the bash one as the functions will

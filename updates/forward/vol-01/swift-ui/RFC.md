@@ -31,7 +31,7 @@ This guide will not include the advance stuff like making fancy animation or pro
 - Have a guide for a new iOS developer or the one who just started learning SwiftUI to follow
 - Have a note for me when I need to retro something related to SwiftUI
 
-## Code & Documents
+## Code & documents
 
-- [Source Code](src)
-- [Documents & Slides](slide)
+- [Source code](src)
+- [Documents & slides](slide)

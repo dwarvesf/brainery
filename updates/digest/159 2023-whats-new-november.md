@@ -1,5 +1,5 @@
 ---
-title: "What's New in November 2023"
+title: "What's new in November 2023"
 description: Each month, we release a recap noting all the significant changes in our company and our team. November is our month for meetups and outstanding craftsmanship.
 date: 2023-12-06
 authors:
@@ -11,11 +11,11 @@ tags:
   - updates
 ---
 
-Last November, we kicked off the Labs team, introduced Salary Advance for the Dwarves, upgraded memo.d.foundation, supported Golang meetup, and demonstrated craftsmanship through various case studies and demos.
+Last November, we kicked off the Labs team, introduced Salary advance for the Dwarves, upgraded memo.d.foundation, supported Golang meetup, and demonstrated craftsmanship through various case studies and demos.
 
 - **[Launching Labs team](#launching-labs-team)** - Dwarves R&D team is officially in operation.
 - **[Monthly top performers](#monthly-top-performers)** - The top 5 high-performing members get rewards and NFT badges. NFT badges can be staked to earn shares of the company.
-- **[Salary Advance](#salary-advance)** - Dwarves' team members now can get an advance of their monthly salary in case of emergency.
+- **[Salary advance](#salary-advance)** - Dwarves' team members now can get an advance of their monthly salary in case of emergency.
 - **[memo.d.foundation](#misc)** - upgraded homepage, categorized content, and now searchable.
 - **[Join our team](#join-our-team)** - React Native Developer, Admin / Ops
 
@@ -35,7 +35,7 @@ Last month we also shipped quite a number of features for our clients: [time-sen
 
 Coming next: NFT badges. NFT badges can be staked to earn shares of the company.
 
-## Salary Advance
+## Salary advance
 
 Dwarves' team members now can get an advance of up to 25% of their monthly salary. The payment is made in $ICY and can be redeemed via <https://icy.so>
 

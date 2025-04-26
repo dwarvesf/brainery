@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Remote Moderated Usability Tests Case Study
+# Remote moderated usability tests case study
 
 # Intro
 
@@ -12,7 +12,7 @@ It's a given that the Usability Test is one of the most fundamental undertakings
 
 # Our project
 
-## About Purchasing Care
+## About purchasing care
 
 Purchasing Care is one of the market leaders in Purchaser consulting and providing the best services to B2B Purchasing. Pushing ahead, Purchasing Care is hoping to construct a B2B Marketplace to assist undertakings with purchasing and sell with productivity and straightforwardness. This item is worked to give Procurement Support administrations like Vendor Hunt, Purchaser Toolkit, and Suppliers Marketplace.
 
@@ -22,7 +22,7 @@ In this article, we would like to share about the testing of the MVP version of 
 
 ![](assets/persona.png)
 
-## The Problem
+## The problem
 
 - It takes too much time to source suppliers because purchasers have to collect information from many sites.
 - Sometimes it's hard to evaluate suppliers by reason of lack of detailed information.
@@ -53,7 +53,7 @@ The objective of this testing is to assess the ease of use of the item's interfa
 - Send inquiry
 - Track progress
 
-## Remote Moderated Usability Testing
+## Remote moderated usability testing
 
 Moderated usability testing is a usability testing technique that involves the active participation of a trained facilitator or moderator. This method requires expert knowledge of the product being tested. They are in charge of administering tasks, guiding participants, recording behaviors and comments, answering questions, and replying to their feedback about the test – all in real-time.
 
@@ -65,7 +65,7 @@ Moderated sessions allow for back and forth between the participant and facilita
 
 As scheduled, we planned to conduct a traditional usability testing before launching to market. However, due to the Covid-19 pandemic, the participants and conductors are geographically dispersed, we had to do it remotely. Besides, Purchasing Care is a young startup, this method is also a great solution for both our team and client with a limited budget. Although we had never done it before, we decided to give ourselves a chance to practice.
 
-## Pros & Cons of this method
+## Pros & cons of this method
 
 **Pros:**
 
@@ -171,4 +171,4 @@ It's much easier for them to figure out the test and prepare their answers.
 
 Thanks to the usability test, we were able to address the user's trouble. It lets us improve the information architecture and visual hierarchy along with product performance to bring users a better experience. This reduces their effort and time to the minimum, which, in return, should drive more sales.
 
-As we have no idea when the Covid-19 pandemic is over and work from home is strongly recommended, it's the right time to adopt some remote methods in UX design, including Remote Moderated Usability Testing. Although there are some drawbacks, it's still a good solution for our team, client, and test participants.
+As we have no idea when the Covid-19 pandemic is over and work from home is strongly recommended, it's the right time to adopt some remote methods in UX design, including Remote moderated usability testing. Although there are some drawbacks, it's still a good solution for our team, client, and test participants.

@@ -7,11 +7,11 @@ last_edited: "2025-04-07T00:00:00.000Z"
 
 Short reminder: Please fill out your address for Mid-Autumn gift set, though I can clearly see everyone has taken this office as their pick-up point. #côngtylànhà 👀
 
-### July/ August Cycle Review
+### July/ August cycle review
 
 We’ve just finished another cycle review for July & August. A detailed report was uploaded on Woodland>Message Board. As usual, we hope you spend time read it to the end. It’s long, but it’s scarier to walk through a cycle with 5 lines of work report, trust me.
 
-### Dwarves Tech Radar: Volume 01
+### Dwarves tech radar: Volume 01
 
 It is our first volume on adoption progress tracking. We started working on it from January of 2020. And for this edition, the theme is to get the whole team used to the concept of a central knowledge base — every study to expand our view to the tech scene counts. Here below is the summary of your outstanding achievement.
 

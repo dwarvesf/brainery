@@ -5,7 +5,7 @@ date: 2022-06-24
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Performance Review Announcement
+### Performance review announcement
 
 As mentioned, we'll start the annual Performance Review next month. The specific procedure is as followed:
 
@@ -27,7 +27,7 @@ The fleeting notes have been collected, input into the brain repo and turned int
 
 In case you’re unfamiliar with our submission flow for Brainery, we’ve made a step-by-step docs for yall: <https://bit.ly/3ybqAMX>
 
-### Apprenticeship Updates
+### Apprenticeship updates
 
 This Friday marks our workshop series for @apprentice and @interns. Now it’s time for you to work and perform what you’ve learned.
 
@@ -35,7 +35,7 @@ For our improvements, please complete this survey: <https://form.typeform.com/to
 
 If you want to learn any other topics, please take a request by pinging @thanh or @Tom
 
-### Engage To Earn
+### Engage to earn
 
 We're sure some of you have heard about this, but let's make this official: We've finally rolled out Engage to Earn bot this week. From now on, with every article you share on our woodland will be scored. The more stars you have, the higher the prize you get.
 Open for @everyone in our server 🌚

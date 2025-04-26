@@ -5,19 +5,19 @@ date: 2021-03-27
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Biz Update
+### Biz update
 
 The Dwarves will kick off the work with a Malaysia’s fuel e-payment app. This client has set its foot in all over Malaysia’s fuel booths, where people can select the item, flash the barcode and scan to pay.
 
 We’re heading for a higher level in client engagement. This not only shows the team’s ability to handle the next level of tech consultancy, but also a proof of how we have updated our tech quality and involve more on their product roadmap.
 
-### Reduce in Workload. Upgrade in the team
+### Reduce in workload. Upgrade in the team
 
 As you all know, we're launching Apprenticeship Program. Finding more hands is the utmost goal to balance with the workload.
 
 Apprenticeship is receiving its first applications. Van is putting a lot of effort in handling the screening process to make sure they match our expectation. The number is speaking very well, and we’re thankful for all your effort in help sharing the message. 46 applicants, 8 interviews and 4 onboarded Dwarves
 
-### Quality Enhancement
+### Quality enhancement
 
 QC team shape up
 

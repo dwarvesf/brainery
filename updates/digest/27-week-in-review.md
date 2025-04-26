@@ -5,7 +5,7 @@ date: 2020-06-06
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Dwarves Team Expansion
+### Dwarves team expansion
 
 A few juniors joined us this week. Looks like QA team & Design team are expanding their size 💪
 
@@ -18,7 +18,7 @@ QA
 - Thao Nguyen: Visual Engineer
   People are getting back to the office, and it’s a great chance for newbies to explore more about the team. Welcome on board, may you have a great time becoming a Dwarf and gain many achievements.
 
-### Culture Write-Up
+### Culture write-up
 
 TRANSPARENCY
 
@@ -44,7 +44,7 @@ So I decided to craft up a small article about it. And I hope it’s helpful eno
 
 Read the article
 
-### Techie Story: The Untold
+### Techie story: The untold
 
 Techie Story is a community project where we discover the untold aspects of the technology world, one techie at a time. It’s the way we choose to honor the people behind the cool stuff and bring them out to the spotlight. It can be a short memo for our Dwarves, or a start-up story of other tech-minded of the outside world.
 
@@ -52,7 +52,7 @@ Huy G has helped to create a website here, while Van conducted the interviews wi
 
 ![](assets/notion-image-1744007075895-v87w8.webp)
 
-### New in Project
+### New in project
 
 Community
 

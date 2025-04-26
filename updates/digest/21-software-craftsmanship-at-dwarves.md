@@ -8,13 +8,13 @@ last_edited: "2025-04-07T00:00:00.000Z"
 Last Wednesday was the last day of social distancing. Diners & cafes are back in the city. It's getting crowded in no time, better take care of yourself until the pandemic is actually over.
 \_\_
 
-### Liberation & International Labour Holiday
+### Liberation & International labour holiday
 
 Van has just posted the holiday schedule on Message Board. To sum up, we'll take days off from 30/04 until the end of 03/05/2020. Just exactly when we think we've had enough of the days at home right 😏
 
 ![](assets/notion-image-1744007146062-4ml3r.webp)
 
-### Design Updates
+### Design updates
 
 Domain research
 

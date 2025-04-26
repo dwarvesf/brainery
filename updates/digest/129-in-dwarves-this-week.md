@@ -11,11 +11,11 @@ last_edited: "2025-04-07T00:00:00.000Z"
 - Happy to celebrate 4-year-work-anniversary of @fuatto. What is a journey to have you with us.
 - Congrats @nambui on passing his Apprenticeship and looking for more of your great work as our full time designer.
 
-### Actively Hiring
+### Actively hiring
 
 With the hype in projects coming up, hiring is one of our top priorities. The seek applies for Frontend, Technical Recruiter & Community Executives. We got referral bonus cover for every potential hire so please help connect the talents if you have any. We appreciate all the support 🙏🏻
 
-### July Brainery Submission
+### July brainery submission
 
 There’re more inputs for the first half of July’s Brainery:
 

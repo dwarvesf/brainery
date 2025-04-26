@@ -1,5 +1,5 @@
 ---
-title: Dwarves Updates
+title: Dwarves updates
 description: null
 date: 2024-03-12
 ---

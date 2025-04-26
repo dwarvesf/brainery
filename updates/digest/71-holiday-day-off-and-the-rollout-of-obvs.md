@@ -5,9 +5,9 @@ date: 2021-04-17
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Biz Update
+### Biz update
 
-### Team and Quality
+### Team and quality
 
 Project Artifacts Progress
 
@@ -25,7 +25,7 @@ QC Team is applying Testlink - a web-based test management tool to better overse
 
 We're shifting the hiring for Test Engineer as well.
 
-### Holiday Off Heads-up
+### Holiday off heads-up
 
 We'll be taking day-offs in the next two weeks, which precisely is:
 

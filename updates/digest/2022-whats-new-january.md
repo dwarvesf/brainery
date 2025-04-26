@@ -1,5 +1,5 @@
 ---
-title: "What's New in January 2022"
+title: "What's new in January 2022"
 description: Each month, we release a recap noting all the significant changes with our company and our team. January 2022 will go over performance review and our growth on projects, new year highlights.
 date: 2022-01-28
 authors:
@@ -11,25 +11,25 @@ tags:
   - blockchain
 ---
 
-### Performance Review
+### Performance review
 
 The team has received all of the self-review notes. Due to the volume of our teammates, 1-1 meetings for some of you will soon be scheduled after the Lunar New Year.
 
 The final result will be announced before March. Hope to see the good updates by then , if you know what I mean.
 
-### Study Groups/ Brainery Clean-up
+### Study groups/ Brainery clean-up
 
 We're resuming Brainery Repo in 2022. Currently, the repo is getting formatted and cleaned up. We also develop writing guidelines to quickly pick up with the on-goings.
 
 The reward mechanism for presenters and knowledge crafters is also back in the game. Ops Team has begun to recollect all the notes to ensure no effort is left behind.
 
-### Profit-Sharing & 13th Bonus Salary
+### Profit-sharing & 13th bonus salary
 
 All sent through Viet Nam bank & TWise. It's a part of our culture and is applied for teammates who have joined us for more than 24 months. Everyone has put in their hard work to keep the team moving forward. Profit-sharing is the act of 'we reap what we sow'.
 
 To read more on the model and other team benefits, I've got you the latest updates of **[Dwarves Handbook/benefit-and-perks](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md#employee-profit-sharing)**.
 
-### 1-way Flight Ticket Policy
+### 1-way flight ticket policy
 
 Based on the submission result, we'd love to enable this as soon as possible.
 
@@ -44,7 +44,7 @@ Who is this package for: Full-time members who have worked with the Dwarves for 
 
 To sign up for your first trip, please head to this form: [https://forms.gle/SusWDKUn2KjkewBH6](https://forms.gle/SusWDKUn2KjkewBH6)
 
-### Team Hangouts
+### Team hangouts
 
 Last month, we finally had the chance to gather for a casual dinner to wrap up the year. Now that the Covid situation is somewhat under control, we think it's safe to slowly resume this tradition.
 
@@ -54,7 +54,7 @@ Since we have people in HCMC, Hanoi, and Danang, we can't all meet at the same p
 - We'll try to align so teams in all locations can hang out simultaneously, at least. Facetime can also be an option. Or team airdrop.
 - Ops will refund the expense in full.
 
-### Lunar New Year Gift-set Delivery
+### Lunar New year gift-set delivery
 
 All wrapped and delivered!
 A small gift to thank you for being with us for the past year. May we all enter 2022 with success and prosperity.

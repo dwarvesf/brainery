@@ -5,7 +5,7 @@ date: 2021-05-22
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Apprenticeship Training Status
+### Apprenticeship training status
 
 Last week Apprenticeship training credit went to Hieu P with his explanation on Applying basic DevOps into coding process. The detailed slide is stored on team Drive/ DevOpsbasic. We hope all the apprentices can find that beneficial.
 

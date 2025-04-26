@@ -1,5 +1,5 @@
 ---
-title: The Next Leading Chairs
+title: The next leading chairs
 description: We like the idea of labeling teams by what they deliver. Hence, the next chapter of Dwarves will be based on five angles.
 date: 2022-08-26
 authors:
@@ -15,10 +15,10 @@ tags:
 
 Last Jan 2020, we got the chance to celebrate our first milestone - [Dwarves Foundation reached 5 years old](https://dwarves.foundation/five). The remarkable moment contained the proudest thing we delivered.
 
-- **Remote Culture** - That enables us to make things work without any physical constraints. We were able to focus on what we value: Knowledge and People. To name a few:
+- **Remote culture** - That enables us to make things work without any physical constraints. We were able to focus on what we value: Knowledge and People. To name a few:
 - **[The Handbook](https://dwarves.foundation/radar/)** - To demonstrate our culture, the future we pursue and what portrays the Dwarves.
 - **ESOP** - Once we work toward the same goal, sharing those rewards for the contributors is vital.
-- **Automation Operation** - Automating mundane processes gives us the time and effort to focus on what we do best. The ratio between engineers and operation resources is 70s to 10s.
+- **Automation operation** - Automating mundane processes gives us the time and effort to focus on what we do best. The ratio between engineers and operation resources is 70s to 10s.
 
 ## Where are we on the succes ladder
 
@@ -27,8 +27,8 @@ For these current and upcoming triumphs, it’s an honor for me to call for a sm
 - 3 remote offices in Saigon, Danang and Dalat.
 - Extend the tech advocates with Techie Story
 - Blockchain Squad
-- [Console Labs](https://console.so/)
-- [Pod Town](https://pod.town/)
+- [Console labs](https://console.so/)
+- [Pod town](https://pod.town/)
 - 46% growth in team scale.
 
 To step up means to diversify the way we run.

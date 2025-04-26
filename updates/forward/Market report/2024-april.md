@@ -78,11 +78,11 @@ We still think popular UI libraries like MUI and AntD have strong positions as t
 - https://llama.meta.com/llama3/
 - https://mistral.ai/news/mixtral-8x22b/
 - https://www.databricks.com/blog/introducing-dbrx-new-state-art-open-llm
-- [A Survey on Self-Evolution of Large Language Models](https://arxiv.org/abs/2404.14387)
+- [A survey on self-evolution of large language models](https://arxiv.org/abs/2404.14387)
 - https://bun.sh/blog/bun-v1.1
-- [A Survey on Retrieval-Augmented Text Generation for Large Language Models](https://arxiv.org/abs/2404.10981)
+- [A survey on retrieval-augmented text generation for large language models](https://arxiv.org/abs/2404.10981)
 - https://foundationcapital.com/ai-service-as-software
 - [How faithful are RAG models? Quantifying the tug-of-war between RAG and LLMs' internal prior](https://arxiv.org/abs/2404.10198)
-- [Reducing hallucination in structured outputs via Retrieval-Augmented Generation](https://arxiv.org/abs/2404.08189)
+- [Reducing hallucination in structured outputs via retrieval-augmented generation](https://arxiv.org/abs/2404.08189)
 - https://ui.shadcn.com/docs/changelog#april-2024---introducing-lift-mode
 - https://www.infoq.com/articles/architecture-trends-2024/

@@ -5,13 +5,13 @@ date: 2021-09-18
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### More Dwarves join the brain team
+### More dwarves join the Brain team
 
 Based on the vote on our latest all-hands, we have invited some Dwarves to start looking into new topics. Nhut, Hieu V, Minh L, Nam & Phat were onboarded last week. We started with the Architectural Diagram and some lineup topics (such as SaaS, Blockchain integration & Data Aggregator)
 
 I think it's a meaningful activity for members who want to expand their knowledge and connect with others teammates. Hopefully to expand more on team size & new topics. We're calling for input on Web3 and DeFI. Just give @tieubao a ping and he'll help set you up.
 
-### Cypher Arts Interview - Heyun Le
+### Cypher Arts interview - Heyun Le
 
 cyphertarts.co is our art publisher via NFT platform - where we feature the indie artist and help them highlights their work.
 
@@ -19,7 +19,7 @@ We got an interview with Huyen last week, about how the journey to NFT brought h
 
 Please help to connect us if you have any suitable artist in mind. As long as they're art lovers and wish to bring their work closer to the people - they're welcome to join CypherArts.
 
-### Virtual WeBuild Day Registration
+### Virtual WeBuild Day registration
 
 The upcoming Virtual WeBuild Day will take place on Oct 09 - and we're open for registration. Find your seat at <https://forms.gle/6qdc3cLEyPntu2BT7>
 

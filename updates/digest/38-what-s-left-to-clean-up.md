@@ -5,13 +5,13 @@ date: 2020-08-22
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Cycle Wrap-up
+### Cycle wrap-up
 
 Next week would be our last week of Aug. I know, scary. Another cycle is about to come and how can this year went by so freaking fast.
 
 Anyway, please spend time to take a look at roadmap todo and wrap up your work. The cycle review should be conducted on Aug 27 and I hope to receive the wrap up note for your todo before then.
 
-### Mid-Autumn Gift Delivery
+### Mid-Autumn gift delivery
 
 Mid-Autumn Festival will reach us around the beginning of October. Van has helped to order a small gift for each of us. Since we’re all working remote now, have the gift delivered to your doorstep would be a great solution. Just fill out your address in this form before Aug 31.
 

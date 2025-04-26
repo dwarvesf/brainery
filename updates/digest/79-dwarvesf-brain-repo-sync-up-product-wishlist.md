@@ -5,7 +5,7 @@ date: 2021-06-12
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Team & Quality
+### Team & quality
 
 dwarvesf/brain repo sync up
 
@@ -22,13 +22,13 @@ File and pull request are greatly welcomed, as we’re able to record the git co
 
 ![](assets/notion-image-1744006975685-8dzwu.webp)
 
-### Apprenticeship Training: Communication 101
+### Apprenticeship training: communication 101
 
 We hope the (nearly) 2-hours training can somehow support you in daily communication practice. Being straight and honest in communicating things will help deliver fast & effective outcome, whether it’s in work or casual chat.
 
 Many questions and sharing happened during the talk, and we are thankful for all of them. It’s great to know you’re open to share and seek for feedback. Dealing with communication conflicts is never an easy task, let us know if there’s anything we can help.
 
-### WFH heads up & Announcement
+### WFH heads up & announcement
 
 Team product request
 

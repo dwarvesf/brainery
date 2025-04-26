@@ -1,5 +1,5 @@
 ---
-title: "State of Dwarves: 2024 Semi-annual Review"
+title: "State of dwarves: 2024 semi-annual review"
 description: "The past six months have been packed with many improvements to our Discord server from new standards and automation to engaging activities and rewards. Take a moment to reflect on our journey so far, and let's get excited about what we'll accomplish together before the year ends."
 date: 2024-07-04
 authors:
@@ -18,7 +18,7 @@ Take a moment to reflect on our journey so far, and let's get excited about what
 
 ![](assets/2024-state-of-dwarves-semi-annual-review.webp)
 
-## Community Growth
+## Community growth
 
 ### Organized offline meet-up
 
@@ -34,8 +34,8 @@ A big thanks to our active members who have taken part in learning and sharing k
 
 Long Bui Van (@longddl) has published helpful notes on data pipelines and learning vector databases. You can explore at:
 
-- [Data Pipeline Design Framework](https://memo.d.foundation/playground/engineering/data/data-pipeline-design-framework/)
-- [Quick Learning Vector Database](https://memo.d.foundation/playground/engineering/data/quick-learning-vector-database/)
+- [Data pipeline design framework](https://memo.d.foundation/playground/engineering/data/data-pipeline-design-framework/)
+- [Quick learning vector database](https://memo.d.foundation/playground/engineering/data/quick-learning-vector-database/)
 
 @jack collaborated with @phucld on [How to bridge $DFG from Ethereum Mainnet to Base Network for staking.](https://memo.d.foundation/playground/01_literature/how-to-transfer-dfg-from-eth-to-base-for-staking/)
 
@@ -43,9 +43,9 @@ Additionally, several other members have made noteworthy contributions from @tom
 
 ![](assets/2024-state-of-dwarves-semi-annual-review-community.webp)
 
-## Team Growth
+## Team growth
 
-### Building Dwarves’ wiki - memo.d.foundation
+### Building dwarves’ wiki - memo.d.foundation
 
 [memo.d.foundation](http://memo.d.foundation/) is where we share how we work, learn, and operate as a team. This site is part of our continuous learning engine, aiming to build a 1% improvement habit by learning in public.
 
@@ -57,7 +57,7 @@ You will get a 5-15 ICY reward for each publication. Community members are welco
 
 ![](assets/2024-state-of-dwarves-semi-annual-review-dwarves-memo.webp)
 
-### Upgrading ICY reward for Dwarves learning system
+### Upgrading ICY reward for dwarves learning system
 
 We're excited about the future of ICY and our plans rolled out since its launch in September 2022:
 
@@ -72,7 +72,7 @@ We're excited about the future of ICY and our plans rolled out since its launch 
 
 ![](assets/2024-state-of-dwarves-semi-annual-review-icy.webp)
 
-### Exclusive Dwarves NFTs for our team members
+### Exclusive dwarves NFTs for our team members
 
 Peeps NFT is an exclusive collection for Dwarves Foundation members, granting access to internal communications and earning opportunities.
 
@@ -101,10 +101,10 @@ We’ve made several upgrades to enhance our Discord server with our self-built 
 Solving problems using the latest technologies has always been our goal. This year's research focus is based on five key pillars:
 
 - **Tooling:** Devbox, Colima, alert/monitoring standards
-- **Software Architecture:** Event-driven architecture, Modular Monolith
+- **Software architecture:** Event-driven architecture, Modular Monolith
 - **LLM:** RAG, MLOps
 - **Blockchain:** Solana infrastructure, Monolithic vs. Modular blockchain
-- **Coding Security:** Standard security procedures, Zero trust infrastructure, GitOps
+- **Coding security:** Standard security procedures, Zero trust infrastructure, GitOps
 
 We've made progress in building internal tools like Tono Bot and Memo using LLM/RAG. Additionally, we've introduced our [Cyber Security Framework](https://memo.d.foundation/playground/01_literature/security/how-i-came-up-with-our-security-standard/) and adopted & built a Map of Content for [Devbox](https://memo.d.foundation/playground/01_literature/devbox-local-development-env/).
 
@@ -123,7 +123,7 @@ In the past six months, our radar has detected:
 
 ![](assets/2024-state-of-dwarves-semi-annual-review-gpt4o.webp)
 
-### Resume OGIF - Dwarves' weekly Friday sharing
+### Resume OGIF - dwarves' weekly Friday sharing
 
 OGIF is our weekly Friday tradition where members share 10-minute talks. After three months we have discussed diverse topics like software development, industry trends, finance, entrepreneurship, blockchain, AI, and more. It's a quick, engaging way to learn something new.
 
@@ -149,7 +149,7 @@ We've revamped our Discord roles, now ladder-based and function-based, offering 
 
 ![](assets/2024-state-of-dwarves-semi-annual-review-mma-role.webp)
 
-### Monthly top performers: Honoring your work efforts
+### Monthly top performers: honoring your work efforts
 
 Each month, we use delivery points to recognize our team's efforts. Team members who earn the most points shipped and effort spent receive ICY rewards.
 
@@ -169,7 +169,7 @@ We observed the evolving use of funds by investors and startups, advancements in
 
 ![](assets/2024-state-of-dwarves-semi-annual-review-echelon.webp)
 
-### Launching Dwarves internship program
+### Launching dwarves internship program
 
 We’ve launched another internship batch. This time, we welcome @datnguyennnx and @ngocquang to our team. We hope Dat and Quang will thrive and grow with us as they embark on this new chapter at Dwarves.
 

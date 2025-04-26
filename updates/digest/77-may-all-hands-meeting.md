@@ -1,15 +1,15 @@
 ---
-title: "#77 - May All-hands Meeting"
+title: "#77 - May all-hands meeting"
 description: Discover key insights from our May All-hands meeting, on-leave scheduling tips, UIView design principles, and API improvement strategies for better software performance.
 date: 2021-05-29
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### May All-hands Meeting
+### May all-hands meeting
 
 We’ve had May All-hands meeting last Friday. I’ve upload a detailed changelog and a short slide on woodland message board to keep us on track. It’s the first time we trial the monthly meeting. Running this firm as a software. Software may come with bugs, but it improves through every changelog.
 
-### On-leave Notice
+### On-leave notice
 
 As we all know, the Dwarves are open for flexible day off. But when it comes to project work, our unexpected heads-up might disrupt the working sprint. The On-leave notice reminds us all to submit the day-off schedule 1 sprint in advance to better control the workload.
 

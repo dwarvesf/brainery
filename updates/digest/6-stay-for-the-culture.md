@@ -1,5 +1,5 @@
 ---
-title: "Weekly Digest #6: Come for the conversation, stay for the culture"
+title: "Weekly digest #6: Come for the conversation, stay for the culture"
 short_title: "#6 Come for the conversation, stay for the culture"
 description: "Hi, it’s @innno again. Summer is almost here. But don't worry, this update is all about making your day more comfortable. Now, onto this week’s updates."
 date: 2024-05-23
@@ -14,7 +14,7 @@ tags:
 
 Hi, it’s @innno\_ again. Summer is almost here. But don't worry, this update is all about making your day more comfortable. Now, onto this week’s updates.
 
-### Get Ready for the Community Meet-Up Extravaganza
+### Get ready for the community meet-up extravaganza
 
 Mark your calendars. On Friday 31st May, we’re hosting an offline community meet-up in Ho Chi Minh City. It’s a blend of news, tech topics, food, drinks, and good times – all rolled into one epic event.
 
@@ -32,7 +32,7 @@ Head on over to **[🧊・earn-icy](https://discord.com/channels/462663954813157
 
 ![](assets/6-come-for-the-conversion-stay-for-the-culture_6-come-for-the-conversation-stay-for-the-culture-icy.webp)
 
-### Friday Vibes: Let's Unwind and Celebrate
+### Friday vibes: Let's unwind and celebrate
 
 Last week’s OGIF was a real treat, featuring topics like the Factory Pattern, State Machines in Erlang, and the Trading Process. The highlight? @quang on blowing everyone away with his trading prowess. His insights were so impressive that everyone joked about sending him their money to invest.
 
@@ -40,7 +40,7 @@ In other exciting news, we've had some changes in our operations structure. @hnh
 
 ![](assets/6-come-for-the-conversion-stay-for-the-culture_6-come-for-the-conversation-stay-for-the-culture-ogif.webp)
 
-### Hado Office Buzz: The More, the Merrier
+### Hado office buzz: The more, the merrier
 
 Things are buzzing at HadoHQ these days. We've got a full house with our Saigon regulars @hieuthu1, @innno\_, and @vincent holding down the fort, and @taipham gracing us with his presence more often. It's like a family reunion every month.
 
@@ -50,7 +50,7 @@ It was a well-deserved Friday night feast, enjoying OGIF, grabbing some food and
 
 ![](assets/6-come-for-the-conversion-stay-for-the-culture_6-come-for-the-conversation-stay-for-the-culture-gathering.webp)
 
-### Wedding Bells and Roadtrip Thrills
+### Wedding bells and roadtrip thrills
 
 Love is in the air as @lap kicks off the wedding of the year. Huge congratulations to Lap. Speaking of adventures, @vincent's got the travel bug and is curious about Ninh Thuan province. Any hidden gems we should share? @hnh's already got the wheels turning with a Sunday morning road trip suggestion.
 
@@ -58,13 +58,13 @@ Sounds like an adventure waiting to happen. Who's in?
 
 ![](assets/6-come-for-the-conversion-stay-for-the-culture_6-come-for-the-conversation-stay-for-the-culture-wedding.webp)
 
-### Beware of Cyber Bandits
+### Beware of cyber bandits
 
 Last Friday night, our very own @nam had an unwelcome surprise, his credit card got hacked, resulting in a loss of 5 million VND. Ouch! While that's no small amount, let's take this as a friendly reminder to all of us to double-check those links before we click and keep a close eye on our bank accounts. Stay sharp, everyone.
 
 ![](assets/6-come-for-the-conversion-stay-for-the-culture_6-come-for-the-conversation-stay-for-the-culture-hack.webp)
 
-### GPT-4o is Now Rolling Out, and Discussions Heating Up
+### GPT-4o is now rolling out, and discussions heating up
 
 OpenAI's GPT-4o is impressing early adopters with its advanced abilities. Despite its initial release, GPT-4o excels at writing and error detection, boasting an average response time of 320 milliseconds. It even responds with an AI-generated voice, closely resembling human speech.
 

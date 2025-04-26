@@ -7,7 +7,7 @@ last_edited: "2025-04-07T00:00:00.000Z"
 
 Note: COVID is getting back. We strongly encourage remote working and please help take good care for your health. Anything new of COVID can be updated at Covid Thread, a company thread since March 2020.
 
-### Workload Distributing
+### Workload distributing
 
 Resource Allocation for Konvoy
 

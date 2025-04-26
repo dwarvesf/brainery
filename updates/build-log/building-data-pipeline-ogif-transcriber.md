@@ -175,16 +175,16 @@ The system is designed to handle the following benchmarks:
 
 To ensure the pipeline could handle the expected scale and provide timely results, several optimizations were implemented:
 
-1. **Parallel Processing**: The Video Downloader, Audio Preprocessor, and Transcription Engine were designed to process multiple jobs concurrently. The number of parallel workers can be dynamically adjusted based on load.
-2. **Asynchronous API Calls**: The interactions with external services (YouTube, Groq, OpenAI) were made asynchronous to avoid blocking the main pipeline flow.
-3. **Intelligent Chunking**: Dynamic chunking of audio files allowed optimizing for the input constraints of the AI transcription services while minimizing total API calls.
-4. **Temporary File Management**: Audio files were stored in S3 only for the duration of processing and deleted afterwards to minimize storage costs.
-5. **Database Connection Pooling**: A pool of reusable database connections was used to avoid the overhead of establishing new connections for each operation.
+1. **Parallel processing**: The Video Downloader, Audio Preprocessor, and Transcription Engine were designed to process multiple jobs concurrently. The number of parallel workers can be dynamically adjusted based on load.
+2. **Asynchronous API calls**: The interactions with external services (YouTube, Groq, OpenAI) were made asynchronous to avoid blocking the main pipeline flow.
+3. **Intelligent chunking**: Dynamic chunking of audio files allowed optimizing for the input constraints of the AI transcription services while minimizing total API calls.
+4. **Temporary file management**: Audio files were stored in S3 only for the duration of processing and deleted afterwards to minimize storage costs.
+5. **Database connection pooling**: A pool of reusable database connections was used to avoid the overhead of establishing new connections for each operation.
 
 Robust error handling and monitoring were critical to ensure pipeline reliability and maintainability:
 
-1. **Retry Policies**: Each stage of the pipeline was configured with appropriate retry policies to handle transient failures from external services or temporary resource constraints.
-2. **Dead-Letter Queues**: Jobs that repeatedly failed even after retries were moved to a dead-letter queue for manual inspection and intervention.
+1. **Retry policies**: Each stage of the pipeline was configured with appropriate retry policies to handle transient failures from external services or temporary resource constraints.
+2. **Dead-letter queues**: Jobs that repeatedly failed even after retries were moved to a dead-letter queue for manual inspection and intervention.
 
 ## Technology stack
 

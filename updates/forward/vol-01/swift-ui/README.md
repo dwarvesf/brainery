@@ -31,7 +31,7 @@ Yes, the core of your app remains unchanged: your models, your networking, and m
 
 # Layout system
 
-## Layout Process
+## Layout process
 
 <img src="img/case-01-layout.png" alt="drawing" width="300"/>
 
@@ -64,7 +64,7 @@ ZStack – back to front
 
 ---
 
-### Stack Layout Process
+### Stack Layout process
 
 There are three simple steps in the stack layout process.
 
@@ -94,7 +94,7 @@ There are three simple steps in the stack layout process.
 - UIDatePicker: DatePicker
 - NSAttributedString: Incompatible with SwiftUI; use Text instead.
 
-# Property Wrappers in SwiftUI
+# Property wrappers in SwiftUI
 
 Property Wrappers feature described in [SE-0258](https://github.com/DougGregor/swift-evolution/blob/property-wrappers/proposals/0258-property-wrappers.md) proposal. The main goal here is wrapping properties with logic which can be extracted into the separated struct to reuse it across the codebase.
 
@@ -365,7 +365,7 @@ This screen also has a picker component with the SegmentedPicker style, which al
     }
 ```
 
-## Using Container View
+## Using container view
 
 Container View is a view that handles the data flow and doesn’t render any User Interface itself. Instead, Container View fetches the data and passes it to a Rendering View.
 

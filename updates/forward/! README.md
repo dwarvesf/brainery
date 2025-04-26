@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Dwarves Tech Radar
+# Dwarves tech radar
 
 A place where the Dwarves note down their research and development pieces of technology.
 

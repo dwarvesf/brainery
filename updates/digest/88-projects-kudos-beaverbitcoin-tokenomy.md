@@ -5,11 +5,11 @@ date: 2021-08-21
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Project Kudos
+### Project kudos
 
 Good words earlier last week from the clients. I would like to give a big congrats our two teams working on Blockchain projects. Shout out Nikki, Hien, Khai, Huyen, Vy and Khanh. Please keep the good work coming 🙌
 
-### Project Compliance
+### Project compliance
 
 Han did a quick non-technical audit with Hieu, An and Bien for their project. The dev team got full aware of project charter, direction and milestones. For next month session, please translate them into diagrams and notes.
 

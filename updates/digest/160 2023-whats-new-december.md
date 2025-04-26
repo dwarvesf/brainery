@@ -1,5 +1,5 @@
 ---
-title: "What's New in December 2023"
+title: "What's new in December 2023"
 description: In December, we launched our Consulting Team, released our finding on tech trends, and last but not least, got everyone ready to wrap up 2023.
 date: 2024-01-03
 authors:
@@ -20,9 +20,9 @@ tags:
 In December, we launched our Consulting Team, released our finding on tech trends, and last but not least, got everyone ready to wrap up 2023.
 
 - **[Reporting Tech Signals](#reporting-tech-signals)** - We stay ahead by monitoring high-potential trends in tech.
-- **[Launching Consulting Team](#launching-consulting-team)** - Dwarves Consulting is shaping up.
-- **[Performance Review](#performance-review)** - The Dwarves way. We don't just base our review by performance, but also on everyone's effort to grow in their career.
-- **[Dwarves of the Year 2023](dwarves-of-the-year-2023)** - Time to tribute and reward team members who made significant impacts to our growth.
+- **[Launching consulting team](#launching-consulting-team)** - Dwarves Consulting is shaping up.
+- **[Performance review](#performance-review)** - The Dwarves way. We don't just base our review by performance, but also on everyone's effort to grow in their career.
+- **[Dwarves of the year 2023](dwarves-of-the-year-2023)** - Time to tribute and reward team members who made significant impacts to our growth.
 - **[Join our team](#join-our-team)** - Admin / Ops, BD, Tech Recruiter
 
 ## Reporting tech signals
@@ -33,13 +33,13 @@ This month highlights strong signals on AI gaining mainstream traction, the come
 
 For the full read, [come here](https://memo.d.foundation/labs/market-report-dec-2023/).
 
-## Launching Consulting Team
+## Launching consulting team
 
 [Dwarves' Consulting team](https://memo.d.foundation/consulting/) consists of anyone who's hungry for more than just coding.
 
-- **Team of Specialists**: we favor collective expertise, knowledge sharing and collaboration, to craft innovative solutions that exceed expectations.
-- **Innovative Mindset:** we encourage out-of-the-box thinking, experimentation, and creative problem-solving.
-- **Transparent Communication**: we lay everything out on the open, fostering a collaborative environment that promotes trust, clarity, and alignment.
+- **Team of specialists**: we favor collective expertise, knowledge sharing and collaboration, to craft innovative solutions that exceed expectations.
+- **Innovative mindset:** we encourage out-of-the-box thinking, experimentation, and creative problem-solving.
+- **Transparent communication**: we lay everything out on the open, fostering a collaborative environment that promotes trust, clarity, and alignment.
 
 ![consult](assets/2023-whats-new-december_consulting---who-should-join-us-20231221144422875.webp)
 
@@ -52,15 +52,15 @@ Last month we also shipped quite a number of features, highlighting:
 - [Mochi UI](https://mochiui.com/) - an open source IU library for every software project
 - Rust game - an inhouse game we're developing for our upcoming summit
 
-## Dwarves of the Year 2023
+## Dwarves of the year 2023
 
-It's been one of our longest tradition, to tribute and reward team members who made significant impacts to our growth. Dwarves of the Year 2023 is brewing up with various categories and a total rewards of $25k.
+It's been one of our longest tradition, to tribute and reward team members who made significant impacts to our growth. Dwarves of the year 2023 is brewing up with various categories and a total rewards of $25k.
 
 ![doty](assets/2023-whats-new-december_whats-new-december-2023-20240103153356468.webp)
 
 On Jan 13th, we're flying non-Saigon peeps to Saigon so everyone can get together and party their hearts out!
 
-## Performance Review
+## Performance review
 
 The Dwarves way. We don't just base on our review by performance, but also on everyone's effort to grow in their career. As our theme for the year is MMA (Mastery, Meaning, Autonomy), we develop a system of metrics to make sure our engineers are not only skilled, but also head toward higher purpose.
 

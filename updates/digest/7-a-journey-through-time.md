@@ -1,5 +1,5 @@
 ---
-title: "Weekly Digest #7: A journey through time"
+title: "Weekly digest #7: A journey through time"
 short_title: "#7 A journey through time"
 description: "The sun peeks over the horizon, Saturday vibes and good news – the perfect combo. We're about to spice up your weekend with a recap of all the awesome things we whipped up this week."
 date: 2024-05-30
@@ -14,7 +14,7 @@ tags:
 
 The sun peeks over the horizon, Saturday vibes and good news – the perfect combo. We're about to spice up your weekend with a recap of all the awesome things we whipped up this week.
 
-### Get your geek on: free GitHub Copilot with Open-Source fun
+### Get your geek on: free GitHub Copilot with open-source fun
 
 Did you know that contributing to open-source projects on GitHub can earn you a free subscription to GitHub Copilot? @Tom shared this awesome tip with us. Even pull requests and contributions to public repositories count. It's worth checking your GitHub account to see if you already have free access to Copilot.
 

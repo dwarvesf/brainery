@@ -7,17 +7,17 @@ last_edited: "2025-04-07T00:00:00.000Z"
 
 for a hell of a year. May we never speak of 2020 again.
 
-### All hands Meeting
+### All hands meeting
 
 Spent 30 minutes running through the Nov/Dec Changelog last Thursday but I can’t believe we’ve finally reached the end of 2020. Thank you all for being here, for your hard work and support.
 
 The goal for 2021 will be updated soon. But for now, wish you all the greatest in the first weekend of 2021 🖤
 
-### Team Birthday - the Dwarves is turning 6
+### Team birthday - the Dwarves is turning 6
 
 This Sunday marks the 6th birthday of the Dwarves. But as we’re all spending New Year holiday with our family, we’ll celebrate this on our next team retreat, which takes place in the middle of January, as I remember.
 
-### Training for Consultants
+### Training for consultants
 
 We decided to roll out some courses to upgrade ourselves as tech consultants. More than engineering and technical skill, being able to consult and advice clients in daily convo should be a must to define us as solid technical partners.
 
@@ -29,7 +29,7 @@ Khai created this few weeks ago. If you miss the vibe of using slack, then I gue
 
 ![](assets/notion-image-1744007090430-k9iog.webp)
 
-### News of the Week
+### News of the week
 
 Microsoft’s source code gets visited by SolarWinds
 

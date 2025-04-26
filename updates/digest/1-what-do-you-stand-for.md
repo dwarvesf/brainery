@@ -12,7 +12,7 @@ tags:
   - community
 ---
 
-### Lock in Your Workspace. Show the World
+### Lock in your workspace. Show the world
 
 Our Discord crew is buzzing with energy after our last Friday community call, with folks sharing snapshots of their workspaces. It's awesome to witness such enthusiasm and engagement. We embrace the digital nomad lifestyle and cultivate a "work hard, play hard" spirit. This ethos keeps us motivated and creates a space where people do their best work and feel like they belong.
 

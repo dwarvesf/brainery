@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Getting Started with Webflow
+# Getting started with Webflow
 
 ![webflow](assets/webflow1.png)
 
@@ -14,7 +14,7 @@ No-code platform has becoming a thing recently. With convenient and user-friendl
 
 In short, Webflow is a web design tool, CMS, and hosting platform. Each aspect of the platform is represented by a particular product/feature set
 
-### The Designer
+### The designer
 
 A visual web design tool firmly grounded in web standards and best practices, the Designer translates design decisions into clean, production-ready code. Webflow was built to enable designers to develop websites familiarly — i.e., visually and effortlessly.
 
@@ -42,7 +42,7 @@ Free SSL/HTTPS (for site security, which is a must for Google’s visitor permis
 
 Okay, now that we have the lay of the land, let’s talk about diving in.
 
-## Setup before Designing
+## Setup before designing
 
 ![web2](assets/web2.png)
 
@@ -50,7 +50,7 @@ Firstly, we’re recommended to fill in the default font, font size, and project
 
 ![web3](assets/web3.png)
 
-## Getting Started
+## Getting started
 
 ### Toolbar
 
@@ -71,7 +71,7 @@ This point can be a red flag. In this case, we’re encouraged to create and nam
 
 _Tips_: Name a component right after you create one. The component arrangement is the foundation of your website, especially responsive. It is the same as in Figma or sketch, a carefully arranged component is easier to edit, modify, and check back when needed.
 
-## Design a Website
+## Design a website
 
 > _"All website look the same"_
 
@@ -101,7 +101,7 @@ _Example_: Before doing design on Webflow, let’s define how these elements are
 
 ![body2](assets/body2.png)
 
-1. **Grid Layout**
+1. **Grid layout**
    ![grid](assets/grid.png)
 
 2. **Default grid with padding/ margin**
@@ -160,7 +160,7 @@ Check out my [full case study](https://kiwipay.webflow.io/). I added some effect
 
 ![ani3](assets/ani3.png)
 
-## Wrapping Up
+## Wrapping up
 
 Within a month of designing with Webflow, I can learn and practice much more to produce a more high-end website. Besides, I found out that this tool's Preview is sometimes unstable, which annoyed me, but the output was outstanding.
 

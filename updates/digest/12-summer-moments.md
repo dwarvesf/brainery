@@ -1,5 +1,5 @@
 ---
-title: "Weekly Digest #12: Summer moments - Our team's remote work adventures"
+title: "Weekly digest #12: Summer moments - Our team's remote work adventures"
 short_title: "#12 Summer moments"
 description: There’s something special about bringing people together. Even as a remote team, we connect through shared interests and activities. "This summer, Where Are You Working From?" campaign sparked a wave of fun and connection across the team. Come along as we share the stories of our team members.
 date: 2024-07-11

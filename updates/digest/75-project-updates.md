@@ -5,17 +5,17 @@ date: 2021-05-15
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Community Branch
+### Community branch
 
 As mentioned earlier, we shift our bigger focus to community work. The team is putting their effort for Startup.vn and supporting Cosmos for their Blockchain Hackathon. Ping HuyN if you want to join a hand.
 
-### Covid Notice
+### Covid notice
 
 We’ve posted a short message on encouraging the Dwarves to start working from home. Covid expansion is getting heavier and we hope you can all stay safe.
 
 If you’re in need of help to setup workable home office, please let us know.
 
-### VssID Application for Social Insurance
+### VssID application for social insurance
 
 For the Dwarves with Viet Nam work contract, please help to install VSSID to keep track on your social insurance status. In the event of concluding your work contract, this will replace your health insurance and social insurance in the event your work contract is concluded.
 

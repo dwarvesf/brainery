@@ -1,5 +1,5 @@
 ---
-title: Optimizing initial load time for a Trading Platform
+title: Optimizing initial load time for a trading platform
 description: Discover the technical strategies behind optimizing a Binance trading platform, reducing initial load times to under 1 second for enhanced trader productivity.
 date: 2025-03-12
 authors:
@@ -15,7 +15,7 @@ Our development team recently optimized the frontend performance of a trading pl
 
 This platform serves serious traders demanding high precision. They often handle many accounts, sometimes 50 or more, to swiftly place large orders and capitalize on market shifts. Importantly, the platform performs real-time calculations like balances and price updates directly in the user's browser, offering great power. However, this frontend focus means users need to frequently refresh the page to ensure all information is completely up-to-date, unintentionally worsening load times when managing numerous accounts and large datasets. Slow loading wasn't just an inconvenience; it became a major obstacle. Traders must react instantly to market changes, and our data revealed user frustration escalating with each loading delay. Given our dedicated user base, every delay chipped away at satisfaction and threatened platform use. This requires us to confront two key performance challenges: **slow network connections** and the **browser's rendering workload**.
 
-### Slow network connections: Too many requests
+### Slow network connections: too many requests
 
 Getting data from Binance was the first bottleneck. For each account, we were making several requests to Binance – one to get account details (`/account`) and another to set up real-time updates (`/listenKey`). Each of these took some time, around 100–300 milliseconds. When a user had 50 accounts, this meant hundreds of requests. Web browsers can only send a few requests at the same time to one website. This meant most requests had to wait, adding up to long delays
 
@@ -28,7 +28,7 @@ Getting data from Binance was the first bottleneck. For each account, we were ma
 
 _A waterfall of requests to fetch account infos and listen keys_
 
-### Slow rendering workload: Rendering struggles
+### Slow rendering workload: rendering struggles
 
 Once the data arrived, the browser had a lot to do. It had to process large amounts of code, apply styles to make the platform look good, and show information for 50 accounts. This made the browser take a long time to display everything. We were using Web Workers to handle some data processing in the background to try and keep the platform responsive. But there was a problem: it took 500 milliseconds for these background workers to even start.
 

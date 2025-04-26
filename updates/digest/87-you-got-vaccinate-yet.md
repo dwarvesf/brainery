@@ -23,11 +23,11 @@ The next pool continues. There are 2 folders to input your notes: Literature (fo
 
 There are new ways to submit beside Discord: via iCloud and via GitHub. So if you are planning to join the R&D team, send me your iCloud email or learn some git.
 
-### Upgrade on Feedback flow
+### Upgrade on feedback flow
 
 It's great to see you all adopting it. Stay safe & healthy.
 
-### Performance Review Progress
+### Performance review progress
 
 We've wrapped up the performance review after 2 weeks. We will contact you shortly for the follow up note on feedback input and salary adjustment ✌️
 

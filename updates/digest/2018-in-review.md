@@ -1,5 +1,5 @@
 ---
-title: 2018 In Review
+title: 2018 in review
 description: 2018 notable hightlights and achievements
 date: 2018-12-31
 authors:

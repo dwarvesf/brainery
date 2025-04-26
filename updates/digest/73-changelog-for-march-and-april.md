@@ -5,17 +5,17 @@ date: 2021-05-01
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Mar/Apr Changelog
+### Mar/Apr changelog
 
 We've just finished another cycle of 2021. Welcome some newbies in Apprenticeship, wrap up some projects, get ready for the new ones; also rolled out the 3rd version of tech radar and work on a hiring solution to ease the workload.
 
 Hope you all enjoy the latest team treat 🖤 The detailed changelog will be updated once we get back to work.
 
-### A Holiday ahead
+### A holiday ahead
 
 Nothing much to say except hoping you all spend a great time with the fam. We'll see you back by May 4th ✔️
 
-### News of the Week
+### News of the week
 
 Some tricky CSS tips
 

@@ -1,11 +1,11 @@
 ---
-title: "#20 - This is Mail Subject"
+title: "#20 - This is mail subject"
 description: "Discover the latest sudo.fm updates, team learning accounts, a fun dog photo site, jacket pickups, and a growing team library in this week's quarantine roundup."
 date: 2020-04-18
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-## This is Mail Subject
+## This is mail subject
 
 ---
 
@@ -42,7 +42,7 @@ An came up with this during the quarantine, a self-built site to identify your k
 
 ![](assets/notion-image-1744007155999-q1vf7.webp)
 
-### Team Jacket Pick-up
+### Team jacket pick-up
 
 Some of the Dwarves have grabbed their jacket home. It's good to know they're all happy with the size and the model. Duy has a record of stock. So far, here are what we have left in numbers and sizes.
 

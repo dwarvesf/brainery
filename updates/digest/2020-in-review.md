@@ -1,5 +1,5 @@
 ---
-title: 2020 In Review
+title: 2020 in review
 description: 2020 notable highlights and achievements
 date: 2021-02-05
 authors:
@@ -31,7 +31,7 @@ With the Dwarves located in many countries (Toronto, Vancouver, Düsseldorf, Ind
 
 Starting from March, the world began to lockdown. Companies get hit. Businesses around the world are expected to close down and wait until the pandemic is over. Everyone will try to save their penny, and no one would love to build software or start something new. We might be affected. We haven't known yet. The best we can do is tweak our plan to prepare for any scenarios
 
-### The Adaptation Begins
+### The adaptation begins
 
 Things remain in survival mode. We only **[hire when it hurts](https://memo.d.foundation/playbook/operations/a-tips-of-hiring-dont/)**. No layoffs on the ground. We keep the team with those who have the same beliefs, lifestyle, and the urge to move along with the tech industry. In the short term, a team that people are proud to work with. It's where their outcome matters.
 
@@ -51,7 +51,7 @@ And got them on team Discord.
 
 ![](assets/2020-in-review_2020-in-a-flashback_e310751d76ab92238b6dacd71ecd4277_md5.webp)
 
-### A Radar Ring for Tech Adoption
+### A radar ring for tech adoption
 
 The day-to-day work won't get us as far as we could. Finding the new and stepping out of the safe zone is a great resolution to move with the industry.
 
@@ -59,7 +59,7 @@ We input the discoveries and assessment of the latest tech trends on [Radar Ring
 
 ![](assets/2020-in-review_2020-in-a-flashback_897cee98638b129f3afb4a53c7de23c1_md5.webp)
 
-### Bootstrap Startup Idea, Conveniently
+### Bootstrap startup idea, conveniently
 
 Portray ourselves as a technical partner for startups; it's our mission to deliver the optimized solution. That comes with a smooth process of bootstrapping their ideas and promptly turning those into products.
 
@@ -77,13 +77,13 @@ New researches must be put into practice; otherwise, it's a waste of time. From 
 
 ![](assets/2020-in-review_2020-in-a-flashback_8489fab373166d75e44a6f3948656362_md5.webp)
 
-### State of the Art
+### State of the art
 
 Everything we do results in this internal tech-index. A hub of continuous evolving expertise.
 
 ![](assets/2020-in-review_2020-in-a-flashback_d713f1fe35c7e9e35112315edc5574c5_md5.webp)
 
-### The Internal
+### The internal
 
 We figured it wasn't the right time to scale. It's the time to maintain and make the best out of what we have. Keeping the company safe through the pandemic and building a team that people love to work with are the primary goals.
 
@@ -107,7 +107,7 @@ Wearing many hats used to be our option. We do have roles, but we haven't sat do
 
 Every member should feel like a part of the team. We issued [Employee Stock Option Plan](https://github.com/dwarvesf/handbook/blob/master/benefits-and-perks.md#employee-stock-option-plan) as a aprt of our benefit package, where members can be the significant contributors instead of tenured employees. This gives them the right to buy a certain amount of company shares at a predetermined price.
 
-### A Data-driven Company
+### A data-driven company
 
 Everything revolves around data. Taking data as the core allows us to set realistic business goals, pinpoint what makes us outstanding, which aspect we should stay focused on based on real analytics metrics.
 
@@ -125,13 +125,13 @@ With the concept that Program = Data + Algorithm, we weave the data culture in e
 
 Data prevents us from making biased decisions. No favoritism on the table. Data sort out the real number from the real work, where we get to analyze and evaluate objectives effectively. Keeping all data in one place enables us to set measurable goals that align with the company's vision, predict what works and what doesn't, and, therefore, actively turn data into real action.
 
-### We seek for Solid Partnership
+### We seek for solid partnership
 
 To go further, seeking partnerships to co-create the future is a must. We managed to expand the connection by searching for business partners globally. Anyone who wishes to join our partner network can see if they have [the same belief in meeting business goals through innovative high-tech solutions](https://dwarves.foundation/partner).
 
 We've prepared a collaboration process on commission-based. We welcome the ones with the urge to grow new business opportunities by technology and innovation.
 
-### Effective Operation
+### Effective operation
 
 Running a company isn't just about process and policy. It's more on minimizing the minor disruptions that reduce the company's ability to grow and prosper. Cleaning up the roadblocks. Eliminate the waste, and keep people aligned. And mostly, how to do more with less effort?
 
@@ -179,7 +179,7 @@ Next, the **[Memo](https://memo.d.foundation/)**. Our crafting space for lessons
 
 ![](assets/2020-in-review_2020-in-a-flashback_807943f1856a0cdf4a2c431c7f1b1d81_md5.webp)
 
-### We design for the Resilient future
+### We design for the resilient future
 
 [Dwarves Design](https://dwarves.design/) contains our practices and methods for product design at Dwarves Foundation. Backed by talented and unique wizards, we express the Dwarvish magic in the cultivated crafts through aesthetic and intelligent design solutions.
 
@@ -209,7 +209,7 @@ Positioning ourselves as technical distributors means delivering that through a 
 
 ![](assets/2020-in-review_2020-in-a-flashback_90359633895a008af577eaf3a8fae47c_md5.webp)
 
-### Giving back to the Community
+### Giving back to the community
 
 Learning from the community gives us the privilege to explore and grow. We have been a part of it long enough to contribute back. Describing ourselves as a tech distributor, our mission is to support and widen the tech playground and create social impact using tech solutions.
 
@@ -249,7 +249,7 @@ Going OSS means working with multiple companies on an idea or a problem, which e
 
 Over the years standing on shoulders of the giants, [the Dwarves's OSS](https://dwarves.foundation/opensource) mainly focuses on boosting up productivity and building differentiating value on top of cutting edge technologies.
 
-### The in-house Products
+### The in-house products
 
 We kicked off Superbits.co earlier this year as our indie studio for team-built products. It all came from the issue we want to resolve and the unique value we aim to support the tech industry.
 

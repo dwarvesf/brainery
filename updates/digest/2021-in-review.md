@@ -1,5 +1,5 @@
 ---
-title: 2021 In Review
+title: 2021 in review
 description: 2021 notable highlights and achievements
 date: 2021-02-05
 authors:
@@ -79,7 +79,7 @@ Though the Dwarves can work anywhere they want, we still have offices in 3 diffe
 
 ![](assets/2021-in-review_2021-danang-office.webp)
 
-## Expanding the Community
+## Expanding the community
 
 - **[Dwarves Discord Network](http://discord.gg/dfoundation)** hit 200 users in <4 months of launching in public. We offer various channels for the community to take part in, and a weekly 101 Tech session every Monday - 5PM.
 - **[WeBuild](http://webuild.community/)**: WeBuild Day 2021 turned out with +100 attendees. It was a sum up of what's been trending in tech, from Build in Public, Developers in Covid Support, and the so-called NFT hype.
@@ -88,11 +88,11 @@ Though the Dwarves can work anywhere they want, we still have offices in 3 diffe
 - **[Golang Vietnam](http://golang.org.vn/)**
 - **[Startup.vn](https://startup.vn/)**
 
-## Dwarves 1.0 In Numbers
+## Dwarves 1.0 in numbers
 
 ![](assets/2021-in-review_2021-dwarves-in-numbers.webp)
 
-## Highlighted Dwarves of 2021
+## Highlighted dwarves of 2021
 
 We couldn't go this far without the teammate's hard work. To tribute all the effort our team has made to keep this woodland going further - we continue the annual tradition Dwarves of The Year.
 
@@ -112,6 +112,6 @@ With the subtotal prize value up to $10.000 - we equip the nominees with what th
 
 ![](assets/2021-in-review_2021-dwarves-honorable.webp)
 
-## New Iconic Items
+## New iconic items
 
 ![merch](assets/2021-in-review_2021-whats-new-december_2021-december-all-hands-meeting_fd61221cb31785842fecd3ff2339aab6_md5.webp)

@@ -1,6 +1,6 @@
 ---
-title: "#54 - WeBuild Day @ Block71 Saigon"
-description: Discover the latest updates on Puffer’s development, tech stack integration on d.foundation, WeBuild Day highlights, and key tech industry news including Samsung and Airbnb insights.
+title: "#54 - Webuild day @ Block71 Saigon"
+description: Discover the latest updates on Puffer’s development, tech stack integration on d.foundation, Webuild day highlights, and key tech industry news including Samsung and Airbnb insights.
 date: 2020-12-12
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
@@ -9,13 +9,13 @@ last_edited: "2025-04-07T00:00:00.000Z"
 
 Puffer is getting closer to finish its Proof of Concept, considering the features are gradually built, including the automatic reachability, access management and CI setup. And more than that, project from different environment can now be imported easily using drag & drop.
 
-### Website: Tech stacks <> Current services
+### Website: Tech stacks <> current services
 
 We starting to link our tech stacks with our current services on d.foundation, and also attach in the related case studies. This helps to portray a clear vision on our key strength, and how we put them into product development.
 
-### WeBuild Day
+### Webuild day
 
-As most of you have heard, we conducted WeBuild Day this Saturday. Kudos to Vy, Cuong, Anh, Van & Nam for putting a lot of effort in this.
+As most of you have heard, we conducted Webuild day this Saturday. Kudos to Vy, Cuong, Anh, Van & Nam for putting a lot of effort in this.
 
 And also, an applause to Phuc & Bien’s work at the events.
 

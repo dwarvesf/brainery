@@ -5,7 +5,7 @@ date: 2021-01-23
 last_edited: "2025-04-07T00:00:00.000Z"
 ---
 
-### Pitch your next Topic
+### Pitch your next topic
 
 Tri, like other newbies, got a bit confused distinguishing us with other outsources companies. We brought the #2 episode of Radio talk with “Startup”, through the point of view from Minh, Tay, Khai & Giang. The full recap can be found at Dwarves Memo: Startup.
 
@@ -13,7 +13,7 @@ Submit your turn at <https://bit.ly/3c34zpW>. We’ll get back every Monday at 5
 
 ![](assets/notion-image-1744007082035-4jjui.webp)
 
-### Radar Update
+### Radar update
 
 We synced up last Friday to assess all the topics from radar-vol02. Some upcoming trials were agreed on.
 
@@ -28,13 +28,13 @@ Since we’re closing down blockB, the Dwarves will need to work from home until
 
 Meanwhile, please collect your items at blockB this weekend, otherwise it might get difficult to find yours once they are packed and moved to the new office.
 
-### Annual Healthcare
+### Annual healthcare
 
 As announced, our 2021 annual healthcare will take place after Tet Holiday. The estimated timeline falls for the third week of March (from 15/03). All the Dwarves will have their blood tested at the office before heading for other checkups. We’ll be using Vigor’s Healthcare service.
 
 You may find the details of the program at this message. If you’re not able to be at Saigon at the time, give Van a heads-up.
 
-### News of the Week
+### News of the week
 
 New Mac-Book Pro Models to Flat-Edged Design
 

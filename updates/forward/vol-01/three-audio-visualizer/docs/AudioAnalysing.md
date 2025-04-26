@@ -4,7 +4,7 @@ description: null
 date: null
 ---
 
-# Audio Analysing Concepts
+# Audio analysing concepts
 
 We'll be using WebAudio API for analysing audio.
 

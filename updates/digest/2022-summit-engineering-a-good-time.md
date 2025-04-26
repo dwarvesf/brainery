@@ -1,5 +1,5 @@
 ---
-title: "Summit 2022: Engineering A Good Time"
+title: "Summit 2022: Engineering a good time"
 description: Having a blast company trip after 2 years of COVID, it didn’t happen in a common way. We planned our trip differently than others and designed apps for everyone to play as a way to bond as company outside physical activities.
 date: 2023-01-09
 authors:
@@ -19,7 +19,7 @@ This was our first company get-together after 2 years of COVID. It was organized
 
 ![](assets/2022-dwarves-summit-engineering-a-good-time_50d7ea1e7a9652013fd0cecdd7596784_md5.webp)
 
-## Remote First Company
+## Remote first company
 
 We started with _Remote OK_ back in 2017, following 37Signals, our tech crush at that time. In 2021, COVID took how we work to the next level. Since 2021, we have transitioned from a _Remote OK_ to a **Remote First company** (except for some teammates due to the client’s security requirements). Our internal processes and engineers’ soft skills have been upgraded tremendously, making sure we perform smoothly across multiple time zones and geographies.
 
@@ -37,19 +37,19 @@ Although it’s short of our 2022 goal of doubling the team, we’re very proud 
 
 While the ratio of ~0.07% is astounding, it speaks to standards and quality. We are selective with who joins the team. For anyone who joins us, it’s a given they are pros at their jobs; they also need to love the culture we are working hard to protect and build up.
 
-## Partner & Business Growth
+## Partner & business growth
 
 We never pay a single cent to run ads, and rarely ever participate in pitching for new projects. Clients come to us through their networks and connections. Someone works with us,is happy about our services, they refer us when someone else has a need.
 
 In 2022, we grew to 6 partners who are willing to refer our services. These partners brought in 5 new projects, at a referral rate of 5-12% over the generated revenue.
 
-## Community Growth
+## Community growth
 
 We’ve been active in a few communities, such as the Golang community, Webuild, Techie stories, Startup.vn.
 
 **Dwarves Network**
 
-- [Techie Story](http://techiestory.net/)
+- [Techie story](http://techiestory.net/)
 - [WeBuild](http://webuild.community/)
 - [Startup.vn](https://startup.vn/)
 - [Golang Vietnam](http://golang.org.vn/)
@@ -64,7 +64,7 @@ We’ve seen various tech-focused channels and events for the community, as well
 - **#campfire:** off-topics connect with our friends, alumni, and like-minded people.
 - **#minigame**: our Thursday minigame and happy hour for the Dwarves and communities. We work and have fun.
 
-## Company Trip Summit 2022
+## Company trip summit 2022
 
 Since we’re engineers, we know it would be more fun to create apps and games as a way to bond as a company outside of physical activities. Organizing the games for everyone was a challenge, but we certainly had a blast.
 
@@ -72,7 +72,7 @@ Since we’re engineers, we know it would be more fun to create apps and games a
 
 It was all for 3 things: the games, the drinks, and the prizes. A total reward of **150,000,000 VND** (~$**6,000**) was distributed into 4 original engineering styled games:
 
-### Treasure Hunt
+### Treasure hunt
 
 ![](assets/2022-dwarves-summit-engineering-a-good-time_f78cb4d5fd1925ce0559a5b36bc5675f_md5.webp)
 
@@ -92,7 +92,7 @@ Whichever team has the most points wins the round.
 
 ![](assets/2022-dwarves-summit-engineering-a-good-time_51be085fcfb86c123446d15a3155c0e7_md5.webp)
 
-### Hunger Games
+### Hunger games
 
 ![](assets/2022-dwarves-summit-engineering-a-good-time_133221cf791f0d75a493e92a8571d763_md5.webp)
 
@@ -125,7 +125,7 @@ We took the opportunity to drink and have fun and help teams earn a bit for thei
 
 ![](assets/2022-dwarves-summit-engineering-a-good-time_3b0c68bef924599e58947f20cdf3a765_md5.webp)
 
-## Look forward to Dwarves Summit 2023
+## Look forward to Dwarves summit 2023
 
 We’re really happy about how Summit 2022 turned out. We’ve had quite a lot of fun together as a team, and we are really excited about next year.
 

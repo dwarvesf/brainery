@@ -1,5 +1,5 @@
 ---
-title: Dwarves Tech Radar Volume 02
+title: Dwarves tech radar volume 02
 short_title: Tech Radar Volume 02
 description: Dwarves Tech Radar v2 contains the practices to simplify the workflow, new techniques/ approach methods to upgrade our current standards and expand the domain knowledge.
 date: 2021-01-14
@@ -38,7 +38,7 @@ Duy P, our UI designer, approached this with KiwiPay: [https://kiwipay.webflow.i
 
 Besides the outstanding points: Sharing for multiple collaborators, easy working flow, codebases can be exported easily in HTML/ CSS & JSON data, Webflow still has its downside. The no-code mechanism prevents Webflow from performing complex animation, i.e., generates a limitation in the animated web. Furthermore, unstable responsiveness and errors in image display are things Webflow needs to work on.
 
-### Volta: Hassle-free JS Tool Manager
+### Volta: Hassle-free JS tool manager
 
 [https://volta.sh/](https://volta.sh/)
 
