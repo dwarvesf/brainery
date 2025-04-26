@@ -92,16 +92,16 @@ line.SetGlobalOptions(
 )
 
 line.ExtendYAxis(opts.YAxis{
-	Name: "PnL ($)",
-	AxisLabel: &opts.AxisLabel{
-		Formatter: "{value} $",
-	},
-	Min: -maxPnL,
-	Max: maxPnL,
-	AxisLine: &opts.AxisLine{
-		Show:            &trueval,
-		OnZeroAxisIndex: 1,
-	},
+ Name: "PnL ($)",
+ AxisLabel: &opts.AxisLabel{
+  Formatter: "{value} $",
+ },
+ Min: -maxPnL,
+ Max: maxPnL,
+ AxisLine: &opts.AxisLine{
+  Show:            &trueval,
+  OnZeroAxisIndex: 1,
+ },
 })
 
 line.AddSeries("Performance", yAxisPerf)
@@ -131,12 +131,12 @@ After all, we may still missing something. Yes it is the area to represent the b
 
 ```go
 opts.MarkAreaNameCoordItem{
-				Coordinate0: []interface{}{trade.OpenedTime.Format("2006-01-02 15:04:05"), -maxYAxis},
-				Coordinate1: []interface{}{trade.ClosedTime.Format("2006-01-02 15:04:05"), maxYAxis},
-				ItemStyle: &opts.ItemStyle{
-					Color: "rgba(255, 255, 255, 0.3)", // White color with blur effect
-				},
-			},
+    Coordinate0: []interface{}{trade.OpenedTime.Format("2006-01-02 15:04:05"), -maxYAxis},
+    Coordinate1: []interface{}{trade.ClosedTime.Format("2006-01-02 15:04:05"), maxYAxis},
+    ItemStyle: &opts.ItemStyle{
+     Color: "rgba(255, 255, 255, 0.3)", // White color with blur effect
+    },
+   },
 ```
 
 _Code 3: Code snippet to construct MarkAreaNameCoordItem depend on trade period_
