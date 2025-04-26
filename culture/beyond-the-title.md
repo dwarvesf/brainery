@@ -8,14 +8,14 @@ tags:
   - productivity
 ---
 
-## The Common Dilemma
+## The common dilemma
 
 1. You're only paid that much to do that much
 2. We only pay you that much if you can do only that much
 
 It's the scenario that people measure and expect their effort should be traded into paychecks. Employers issue fixed rates for labors, while employees refuse to do things that are not in the job description. It gradually forms a mindset where people decide to work "enough" to get paid and miss out on the chance to discover their self-limitation.
 
-## Give and Take
+## Give and take
 
 We develop a tendency to think outside the box. It's a part of our hiring culture. We'd want to see if what we produce matters rather than asking for benefits before rolling up the sleeves. At the end of the day, the result is all we care about.
 
@@ -29,7 +29,7 @@ Once the urge to outgrow ourselves knocks on the door, sitting idly isn't an opt
 
 ![](assets/beyond-the-title_e4451267b269ff558c5138fc551830b1_md5.webp)
 
-## Become Better
+## Become better
 
 It performs in many aspects, but these two receive a big encouragement.
 
@@ -41,7 +41,7 @@ An organization with people collaborating effectively is more valuable than havi
 
 We explore and share. No matter if the work happens with ourselves or it's a team thing, knowledge is meant for transfer. Every little detail makes the big picture more worthy of looking at. We build and fix along the way. We leave things better than when we found them.
 
-## The Title Matters
+## The title matters
 
 Of course, it does. But titles have nothing much to do with the day-to-day work routine. In fact, it raises the responsible bar.
 

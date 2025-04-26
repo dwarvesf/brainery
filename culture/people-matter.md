@@ -18,7 +18,7 @@ And that usually the part when I say "Ok, we're done here."
 
 Cut the crap. Happiness is fake. People matter when they believe in what they create. That's how we keep them around, by letting them know their real value.
 
-## The Individual Contribution
+## The individual contribution
 
 Scanning through the random answers of Automatic Check-Ins is quite fun sometimes. Or even in the announced message for a product or a checked-off milestone. It's easier to know people's attempt through the way they talk about their work, and the pride they embed in the message.
 
@@ -32,10 +32,10 @@ Let's take a look at our hiring. Not all developers come from a technology-based
 
 The culture we are pursuing is the combination between the unconventional spirit and the will to do the right things in every decision. We handpick the individual whose mindset is heading toward the engineering-driven vision that we're reaching. It doesn't matter to us if you apply without a university certificate, or impress us with +10 years of seniority. You're in once your skills are perfect for the job.
 
-## The Spirit of Knowledge Sharing
+## The spirit of knowledge sharing
 
 Hardly I heard a Dwarf refuse to explain or transfer what they know to others. Speaking from experience, I always get the help I need once I start to bring up the question. And even if they fail to answer at that time, eventually something will come up. They just can't stand the feeling of leaving a query unanswered. Odd, I know. But implementing a culture of sharing knowledge isn't a mandatory call. It was formed based on the urge to discover and exchange the grasp within the team. It's a process of becoming better and be open to help.
 
-## It's not the Rule. It's the People who follow
+## It's not the rule. It's the people who follow
 
 Despite how many office traps there are, nothing keeps people around unless **_they want it themselves_**. Once there is a bunch of reasons to tie people around, they'll leave when there is a better reason from a better place. So in short, create a space where people feel active to work in and raise their idea, where they know their work means something, where judgments are fair and run by the right ideas. Focus on what people want to do, and things will run their courses.

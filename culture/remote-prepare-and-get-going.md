@@ -52,11 +52,11 @@ We want our Dwarves to wake up at 7am in the beach, grab a coffee and start doin
 
 Required articles to read before getting your hand dirty:
 
-- [Remote: Office Not Required](https://basecamp.com/books/remote)
+- [Remote: office not required](https://basecamp.com/books/remote)
 - [https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in/](https://jvns.ca/blog/2018/02/18/working-remotely--4-years-in/)
 - [https://hackernoon.com/the-stress-of-remote-working-38be5bdcf4da](https://hackernoon.com/the-stress-of-remote-working-38be5bdcf4da)
 
-### Time of Day
+### Time of day
 
 - Pick a suitable working time
 
@@ -91,7 +91,7 @@ In other studies, people has found that exposure to certain colors can play a ro
 - [https://workfrom.co](https://workfrom.co/)
 - [https://coworker.com](https://coworker.com/)
 
-### Tooling & Setup
+### Tooling & setup
 
 - Document: GDrive & Notion
 
@@ -105,4 +105,4 @@ In other studies, people has found that exposure to certain colors can play a ro
 
 - [Remote team instant message](https://blog.aha.io/remote-team-instant-message/)
 
-- [Remotely Remoting](https://ux.shopify.com/remotely-remoting-cbdb68b2fb80)
+- [Remotely remoting](https://ux.shopify.com/remotely-remoting-cbdb68b2fb80)

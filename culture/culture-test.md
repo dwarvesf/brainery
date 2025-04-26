@@ -16,7 +16,7 @@ It includes personal stories, practical applications, and creative problem-solvi
 **Language:** You may write in **Vietnamese** or **English.**
 **Passing Score:** Achieving **60 points** is considered **qualified.**
 
-### Submission Instructions
+### Submission instructions
 
 - Prepare your responses in **multiple Markdown files (.md).**
 - Submit your work via a link to **[gist.github.com](https://gist.github.com).**

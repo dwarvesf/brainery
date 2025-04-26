@@ -36,7 +36,7 @@ The writings in this folder cover a range of topics:
 - **Personal growth** - Going beyond titles, avoiding burnout, and embracing continuous learning
 - **Company culture** - Transparency, meritocracy, and creating an environment where innovation flourishes
 
-## Culture as a Practice
+## Culture as a practice
 
 Our culture isn't static. It evolves as we grow, learn, and adapt to changes in our industry and the world. These articles represent specific moments and perspectives along that journey.
 

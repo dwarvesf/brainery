@@ -29,7 +29,7 @@ Being a leader sometimes feels like carrying the heaviest burden. Somewhere alon
 
 Communication is a part of delegating. Communicate any and all pitfalls, points of caution, and other negatives that may affect the delegated work. Define an expectation. Set a deadline. Give them the same point of view before starting on the job. Instruct them along the way and remind them to come with questions at any time. Assist and provide feedback until the job is done, flawlessly. Work doesn't run on assumption. State things clear and verify if needed. Rework is a nightmare, and no one wants that.
 
-### Be anything but a Control freak
+### Be anything but a control freak
 
 Micromanaging is not delegating. Having them do the job and still checking up on it 3 times a day doesn't make anyone's life easier.
 People are programmed to function differently from one to another, and so is their way to tackle a problem. Empowering with authority, get out of the way and let them surprise you.

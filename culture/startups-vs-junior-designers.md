@@ -1,5 +1,5 @@
 ---
-title: Startups Vs Junior Designers
+title: Startups vs junior designers
 description: null
 date: 2020-07-24
 tags:

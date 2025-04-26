@@ -1,5 +1,5 @@
 ---
-title: Asking As A Junior
+title: Asking as a junior
 description: null
 date: 2020-09-21
 tags:
@@ -14,7 +14,7 @@ But more importantly. Should or Shouldn't? And how?
 
 ![](assets/asking-as-a-junior_e04f198b4f3729cac86ed127717fd1b6_md5.webp)
 
-## The Hesitation
+## The hesitation
 
 Of course, the upfront hesitance can fall into these three common thoughts.
 
