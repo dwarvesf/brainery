@@ -1,5 +1,5 @@
 ---
-title: "Sol: Making group travel easier and more fun"
+title: "Sol: making group travel easier and more fun"
 short_title: Sol
 description: We designed Sol, a travel app that helps groups stay connected, organized, and on budget during trips. Our comprehensive approach included user research, visual design, and interactive prototyping.
 date: 2020-10-10

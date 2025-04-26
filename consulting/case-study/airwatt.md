@@ -1,5 +1,5 @@
 ---
-title: Creating a smart system to monitor electricity Use
+title: Creating a smart system to monitor electricity use
 short_title: AirWatt
 description: "We built AirWatt's system that uses artificial intelligence to track how businesses use electricity, helping them save money and prevent equipment problems."
 date: 2020-11-15
@@ -64,10 +64,10 @@ This was a complex challenge requiring expertise in connecting devices, processi
 
 We approached the project by focusing on four key areas that aligned with AirWatt's business needs:
 
-1. **Device Management**: We created tools to manage monitoring devices across different locations, allowing users to see detailed usage information and control their monitors remotely.
+1. **Device management**: We created tools to manage monitoring devices across different locations, allowing users to see detailed usage information and control their monitors remotely.
 2. **Reporting**: We built features to track how electrical equipment is used, with mobile versions showing weekly or three-month history.
-3. **Mobile Apps**: We developed apps for iPhone and Android that let users connect monitors to their network and link them to their accounts.
-4. **Business Website**: We built a website for business owners to track data from their AirWatt monitors through weekly and monthly reports.
+3. **Mobile apps**: We developed apps for iPhone and Android that let users connect monitors to their network and link them to their accounts.
+4. **Business website**: We built a website for business owners to track data from their AirWatt monitors through weekly and monthly reports.
 
 ![AirWatt's system design](assets/airwatt-architecture.webp)
 
@@ -75,12 +75,12 @@ We approached the project by focusing on four key areas that aligned with AirWat
 
 The system had to handle huge amounts of data – each device generates about 17,280 records every day. To handle this, we built a system with specialized components:
 
-- **Core System**: The main service managing device lifecycles and data flow
-- **Landing Page**: A website showcasing solutions and allowing pre-orders
-- **Admin Dashboard**: Tools for system management and monitoring
-- **Mobile Apps**: iPhone and Android apps with dashboards, charts, and reports
-- **AI Engine**: The system's brain, handling data synchronization, device detection, prediction, and report generation
-- **Device Management**: The foundation for tracking device status and electricity consumption
+- **Core system**: The main service managing device lifecycles and data flow
+- **Landing page**: A website showcasing solutions and allowing pre-orders
+- **Admin dashboard**: Tools for system management and monitoring
+- **Mobile apps**: iPhone and Android apps with dashboards, charts, and reports
+- **AI engine**: The system's brain, handling data synchronization, device detection, prediction, and report generation
+- **Device management**: The foundation for tracking device status and electricity consumption
 
 We used different databases for specific purposes:
 
@@ -120,9 +120,9 @@ After just three months of development, we successfully completed the working pr
 
 ![AirWatt reporting dashboard](assets/airwatt-result1.webp)
 
-- **Apps for All Devices**: We delivered web applications for businesses and mobile apps for both [iPhone](https://apps.apple.com/us/app/airwatt/id1522009415) and [Android](https://play.google.com/store/apps/details?id=com.dwarvesf.airwatt).
-- **Complete System**: We created a system that handles data from monitoring devices to the central server, processes it with AI, and shows the results on multiple platforms.
-- **Clear Reports**: We built attractive and information-rich data reports that provide actionable insights to users.
+- **Apps for all devices**: We delivered web applications for businesses and mobile apps for both [iPhone](https://apps.apple.com/us/app/airwatt/id1522009415) and [Android](https://play.google.com/store/apps/details?id=com.dwarvesf.airwatt).
+- **Complete system**: We created a system that handles data from monitoring devices to the central server, processes it with AI, and shows the results on multiple platforms.
+- **Clear reports**: We built attractive and information-rich data reports that provide actionable insights to users.
 
 ![AirWatt solution overview](assets/airwatt-result2.webp)
 

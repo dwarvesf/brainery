@@ -33,8 +33,8 @@ Frontend development / UI/UX enhancement / SDK development
 ## Technical highlights
 
 - **Frontend**: React.js with TypeScript for reliable interfaces
-- **State Management**: Redux for complex application state
-- **Component Library**: Custom UI components for consistency
+- **State management**: Redux for complex application state
+- **Component library**: Custom UI components for consistency
 - **Documentation**: Docusaurus for comprehensive developer guides
 - **Testing**: Extensive unit and integration tests
 - **Integration**: Custom plugins for various e-commerce platforms
@@ -57,9 +57,9 @@ The company wanted to make sure customers had a great experience no matter how t
 
 They faced several technical challenges:
 
-1. **Different User Needs**: Their platform serves both business users managing search settings and developers integrating search into websites
-2. **Multiple Integration Points**: The search functionality needed to work across various platforms and e-commerce systems
-3. **Complex Technology**: Their advanced AI search algorithms needed simple interfaces that non-technical users could understand
+1. **Different user needs**: Their platform serves both business users managing search settings and developers integrating search into websites
+2. **Multiple integration points**: The search functionality needed to work across various platforms and e-commerce systems
+3. **Complex technology**: Their advanced AI search algorithms needed simple interfaces that non-technical users could understand
 
 These challenges were particularly important as Search.io was looking to expand their market reach and compete with larger search providers.
 
@@ -112,9 +112,9 @@ Throughout the project, we maintained close communication with Search.io's team,
 
 Our work with Search.io resulted in several important improvements that helped strengthen their position in the market:
 
-- **Enhanced Dashboard**: A more powerful and user-friendly console that gives businesses better control over their search experiences
-- **Improved Developer Tools**: SDKs and libraries that make it easier for developers to integrate Search.io's technology
-- **New Integration Options**: Support for additional e-commerce platforms, expanding Search.io's market reach
+- **Enhanced dashboard**: A more powerful and user-friendly console that gives businesses better control over their search experiences
+- **Improved developer tools**: SDKs and libraries that make it easier for developers to integrate Search.io's technology
+- **New integration options**: Support for additional e-commerce platforms, expanding Search.io's market reach
 
 The Shopify integration we developed helped Search.io connect with one of the largest e-commerce platforms, opening up a significant new market segment. Meanwhile, the search widget we created offered an easy solution for websites with limited development resources.
 

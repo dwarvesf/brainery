@@ -1,7 +1,7 @@
 ---
-title: AI for Fast and Fair Talent Search
+title: AI for fast and fair talent search
 short_title: Screenz.ai
-description: AI for Fast and Fair Talent Search
+description: AI for fast and fair talent search
 date: 2025-03-31
 authors:
   - ooohminh
@@ -69,15 +69,15 @@ We approached Screenz.ai’s MVP with 2 main goals: evaluating voice processing 
 
 Given the ambitious goal of delivering a functional MVP for Screenz.ai in just two weeks, our approach prioritized rapid validation and foundational scalability. We had two primary objectives:
 
-1. **Evaluate Core Voice Processing Technology:** We needed to confirm the viability and quality of using AI voice processing for real-time, automated interviews.
-2. **Scaffold a Scalable Architecture:** The MVP needed a solid technical foundation that Screenz.ai's internal team could confidently build upon and scale post-launch.
+1. **Evaluate core voice processing technology:** We needed to confirm the viability and quality of using AI voice processing for real-time, automated interviews.
+2. **Scaffold a scalable architecture:** The MVP needed a solid technical foundation that Screenz.ai's internal team could confidently build upon and scale post-launch.
 
 These objectives, combined with the aggressive timeline, drove several key technical decisions:
 
 1. **Selecting the Right AI Voice Platform (ElevenLabs):** The success of the MVP hinged on the voice interaction. We chose the **ElevenLabs API** after evaluating options for its remarkably human-like voice quality and low-latency processing. This was crucial for creating a seamless and positive candidate experience, directly addressing our first objective of validating the core voice technology in a real-world application.
-2. **Accelerating Development with Next.js and Serverless:** To maximize speed and focus resources on the user-facing elements critical for market validation, we opted for **Node.js within the Next.js framework for a serverless backend**. This approach significantly reduced initial setup time and offloaded complex DevOps management, allowing our lean team (one designer, two engineers) to concentrate on implementing the core interview logic and user interfaces. While robust backend functionality would be needed later, the serverless model provided the speed and basic orchestration required for the MVP.
-3. **Enabling Rapid Monitoring with Retool:** Understanding MVP performance quickly was vital. Instead of investing development time in building custom dashboards from scratch, we utilized **Retool**. This allowed us to rapidly create essential internal dashboards for monitoring interview processing, system health, and key user interactions, providing immediate feedback loops for iteration and validation.
-4. **Designing for Data Growth with TimescaleDB:** Anticipating that successful automated interviews could generate substantial data (session details, transcripts, scores), we chose **TimescaleDB** for data storage. Its strength in handling large volumes of time-series data made it ideal. Crucially, our focus wasn't just on implementing the database but on **designing a thoughtful and scalable schema**. This upfront effort ensured that the data captured during the MVP phase would be structured effectively for future, more complex analytical tasks and reporting as Screenz.ai scaled, directly supporting our second objective of building a scalable foundation.
+2. **Accelerating development with Next.js and serverless:** To maximize speed and focus resources on the user-facing elements critical for market validation, we opted for **Node.js within the Next.js framework for a serverless backend**. This approach significantly reduced initial setup time and offloaded complex DevOps management, allowing our lean team (one designer, two engineers) to concentrate on implementing the core interview logic and user interfaces. While robust backend functionality would be needed later, the serverless model provided the speed and basic orchestration required for the MVP.
+3. **Enabling rapid monitoring with Retool:** Understanding MVP performance quickly was vital. Instead of investing development time in building custom dashboards from scratch, we utilized **Retool**. This allowed us to rapidly create essential internal dashboards for monitoring interview processing, system health, and key user interactions, providing immediate feedback loops for iteration and validation.
+4. **Designing for data growth with TimescaleDB:** Anticipating that successful automated interviews could generate substantial data (session details, transcripts, scores), we chose **TimescaleDB** for data storage. Its strength in handling large volumes of time-series data made it ideal. Crucially, our focus wasn't just on implementing the database but on **designing a thoughtful and scalable schema**. This upfront effort ensured that the data captured during the MVP phase would be structured effectively for future, more complex analytical tasks and reporting as Screenz.ai scaled, directly supporting our second objective of building a scalable foundation.
 
 By making these strategic technology choices, we balanced the need for speed, the requirement to test the core AI functionality, and the long-term goal of providing Screenz.ai with a robust and scalable platform architecture. This lean, focused approach enabled us to deliver a high-impact MVP within the two-week timeframe, paving the way for Screenz.ai's internal team to take over and expand the platform.
 

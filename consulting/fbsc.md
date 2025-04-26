@@ -22,7 +22,7 @@ We talk about breaking product rollout into stages and try to improve the produc
 - Budgeting for marketing tactics to tell users about the product.
 - Designing interactions into the product for users to bring other users to the product.
 
-## No Fixed Bids
+## No fixed bids
 
 Some consulting relationships start with a requirements document or RFP ("Request For Proposal"). The requirements are often extremely detailed.
 

@@ -1,5 +1,5 @@
 ---
-title: The Adjacent Possible
+title: The adjacent possible
 description: The concept of the adjacent possible originates from Stuart Kauffman and his work on biological evolution.
 date: 2020-07-05
 authors:

@@ -20,7 +20,7 @@ Given the growing dynamic of our engagement, fixed prices or monthly retainers b
 - **In control**: we can make sure we are paid for additional work required to address issues and challenges.
 - **Transparent and foolproof**: clients get detailed time logged, no grey area. Numbers create transparency and trust for both sides.
 
-### Implementing the Hourly Billing model
+### Implementing the hourly billing model
 
 We are using the following steps to successfully implement this model.
 

@@ -67,8 +67,8 @@ Our work with BaseHQ included both coding and technical advice. We helped improv
 
 We tackled their large existing codebase and improved it to make the product more stable. The system was divided into two main parts:
 
-1. **User Application**: The interface that executive assistants use every day
-2. **Admin Tools**: Backend systems for managing users, connections, and platform settings
+1. **User application**: The interface that executive assistants use every day
+2. **Admin tools**: Backend systems for managing users, connections, and platform settings
 
 For the technical implementation, we used:
 

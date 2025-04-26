@@ -1,5 +1,5 @@
 ---
-title: "Kafi: Making stock trading easier for everyone"
+title: "Kafi: making stock trading easier for everyone"
 short_title: Kafi
 description: We helped Kafi Securities rebuild their stock trading app to work better for both beginners and experienced traders, making investing more accessible for everyone.
 date: 2024-10-16

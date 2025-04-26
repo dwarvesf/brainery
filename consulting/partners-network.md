@@ -1,5 +1,5 @@
 ---
-title: Partners Network
+title: Partners network
 description: "Partnering with Dwarves is not just a collaboration, it's a strategic investment in trust, network and business growth. Being our partners mean sharing opportunities, resources, connections and scaling up together."
 date: 2024-03-07
 authors:
@@ -73,12 +73,12 @@ We are looking for techies who are passionate about technology and hungry for ne
 - Incubator and Venture Executives
 - Tech Event Organizers
 
-### Joining our Partners Program is simple
+### Joining our partners program is simple
 
 1. **Apply:** email [nikki@d.foundation](mailto:nikki@d.foundation) to introduce yourself and express your interest in becoming our partner
 2. **Review:** Our team will review your application and reach out to discuss the potential collaboration
 3. **Onboarding:** Once accepted, we'll provide you with necessary onboarding materials and training to kickstart your partnership journey
-4. **Start Selling:** Armed with the support of our team, you can start offering our services to your clients and network
+4. **Start selling:** Armed with the support of our team, you can start offering our services to your clients and network
 
 ---
 
@@ -186,14 +186,14 @@ We only deploy engineers who meet your requirements and tech stack.
 
 ### [Console Labs](https://console.so) is a Dwarves' subsidiary focusing on web 3.0 R&D and services
 
-- **Blockchain Integration:** Build a layer to manage and manipulate data between current system and public blockchain network.
-- **Architecture Design:** A right architecture planning for a novel blockchain system can save tons of time developing.
-- **Indexing Node:** Indexing node helps pull data and organize blockchain data into offchain node for further use and query.
-- **Vesting Contract:** For IDO etc, we implement a smart contract that allows you to deposit tokens that are unlocked to a specified public key at a certain block height/slot.
-- **Smart Contract:** Any other smart contracts and logic you want to implement on EVM compatible chains.
+- **Blockchain integration:** Build a layer to manage and manipulate data between current system and public blockchain network.
+- **Architecture design:** A right architecture planning for a novel blockchain system can save tons of time developing.
+- **Indexing node:** Indexing node helps pull data and organize blockchain data into offchain node for further use and query.
+- **Vesting contract:** For IDO etc, we implement a smart contract that allows you to deposit tokens that are unlocked to a specified public key at a certain block height/slot.
+- **Smart contract:** Any other smart contracts and logic you want to implement on EVM compatible chains.
 - **DeFi:** Development of any blockchain based financial solutions, e.g assets tokenization platforms, p2p lending, neobanks.
-- **Contract Audit:** We conduct manual code review and automatic code analysis to identify any possible compilation, security, and reentrancy issues.
-- **NFT Launch:** Build contract and tools to support NFT collection launching.
+- **Contract audit:** We conduct manual code review and automatic code analysis to identify any possible compilation, security, and reentrancy issues.
+- **NFT launch:** Build contract and tools to support NFT collection launching.
 
 ### Portfolio
 
@@ -207,7 +207,7 @@ We only deploy engineers who meet your requirements and tech stack.
 - [**MStation**](https://icrosschain.io): On-chain RGP game
 - [**Attrace**](https://icrosschain.io): Blockchain referral layer
 - [**Tokenomy**](http://tokenomy.com): Mobile app for crypto investment platform
-- [**Legend of Fantasy War**](http://legendfantasywar.com): Blockchain integration for NFT game
+- [**Legend of fantasy war**](http://legendfantasywar.com): Blockchain integration for NFT game
 
 **Right Column:**
 

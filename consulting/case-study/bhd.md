@@ -29,10 +29,10 @@ Mobile app design / UI/UX improvement
 
 ## Technical highlights
 
-- **UI Framework**: Used modern mobile design frameworks
+- **UI framework**: Used modern mobile design frameworks
 - **Typography**: Avenir Next font family for clean, readable text
-- **Design System**: Created consistent components and color palette
-- **Interactive Elements**: Carousel navigation, intuitive booking screens
+- **Design system**: Created consistent components and color palette
+- **Interactive elements**: Carousel navigation, intuitive booking screens
 
 ## What we did with BHD Cinema
 

@@ -34,7 +34,7 @@ Full-stack development / Product development
 
 - **Backend**: Golang, Elixir for reliable server-side performance
 - **Frontend**: React.js, JavaScript, TypeScript for responsive interfaces
-- **Cloud Infrastructure**: Docker, Google Cloud, Kubernetes, Netlify
+- **Cloud infrastructure**: Docker, Google Cloud, Kubernetes, Netlify
 - **Monitoring**: Prometheus, Grafana, Loki, Sentry
 - **Database**: PostgreSQL, Redis for efficient data management
 - **Architecture**: Monolithic for easier maintenance and faster development

@@ -1,5 +1,5 @@
 ---
-title: Building a community platform for Vietnamese Entrepreneurs
+title: Building a community platform for Vietnamese entrepreneurs
 short_title: StartupVN
 description: We helped create a digital hub where Vietnamese startup founders can connect, share knowledge, and access resources to grow their businesses.
 date: 2023-03-15
@@ -62,9 +62,9 @@ Vietnam's startup ecosystem has seen incredible growth in recent years, but entr
 
 ![StartupVN business context](assets/startupvn-context.webp)
 
-1. **Scattered Information**: Valuable resources, events, and opportunities were spread across many different websites and platforms, making them hard to find
-2. **Limited Networking**: Many founders, especially those outside major cities, had few chances to connect with other entrepreneurs and investors
-3. **Knowledge Gaps**: New founders often lacked access to the practical knowledge and mentorship needed to grow their businesses
+1. **Scattered information**: Valuable resources, events, and opportunities were spread across many different websites and platforms, making them hard to find
+2. **Limited networking**: Many founders, especially those outside major cities, had few chances to connect with other entrepreneurs and investors
+3. **Knowledge gaps**: New founders often lacked access to the practical knowledge and mentorship needed to grow their businesses
 
 StartupVN wanted to address these problems with a single, easy-to-use platform. They needed a technical partner who could not only build the solution but also understand the unique needs of the Vietnamese startup community.
 
@@ -99,10 +99,10 @@ The StartupVN platform launched successfully and quickly became a valuable resou
 
 ![StartupVN platform features](assets/startupvn-feature.webp)
 
-- **Growing Community**: Thousands of entrepreneurs joined the platform in the first few months
-- **Active Engagement**: Users regularly participate in discussions, sharing knowledge and supporting each other
-- **Resource Access**: The platform has made valuable startup resources more accessible, especially for founders outside major cities
-- **Successful Connections**: Several startups reported finding mentors, partners, and even investors through the platform
+- **Growing community**: Thousands of entrepreneurs joined the platform in the first few months
+- **Active engagement**: Users regularly participate in discussions, sharing knowledge and supporting each other
+- **Resource access**: The platform has made valuable startup resources more accessible, especially for founders outside major cities
+- **Successful connections**: Several startups reported finding mentors, partners, and even investors through the platform
 
 StartupVN has continued to evolve, with new features being added based on community feedback. The platform has become an important part of Vietnam's growing startup ecosystem, helping founders connect, learn, and build successful businesses.
 

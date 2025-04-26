@@ -46,7 +46,7 @@ Our work centered on creating robust backend systems that could reliably connect
 - **Java Spring Boot**: We used this framework for building the core backend services
 - **MySQL**: For database management and data storage
 - **API Gateway**: We built a custom gateway to manage communication between different systems
-- **Legacy Integration**: Developed connectors to work with CIMB's existing databases and APIs
+- **Legacy integration**: Developed connectors to work with CIMB's existing databases and APIs
 
 This technical approach ensured the new platform would work reliably while maintaining compatibility with the bank's established systems.
 

@@ -35,7 +35,7 @@ Full-stack development / Cloud architecture
 - **Backend**: Golang for performance and reliability
 - **Frontend**: React for building the user interface
 - **Infrastructure**: Docker, Kubernetes for containerization
-- **Cloud Providers**: Google Cloud Platform, AWS
+- **Cloud providers**: Google Cloud Platform, AWS
 - **Documentation**: Redux-based document bundle
 
 ## What we did with Voconic

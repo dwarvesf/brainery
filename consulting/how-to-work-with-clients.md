@@ -12,7 +12,7 @@ tags:
   - project
 ---
 
-## TRAINING COURSE: HOW TO WORK WITH CLIENT
+## Training course: how to work with client
 
 What skills that an engineer should have in order to work with client effectively?
 

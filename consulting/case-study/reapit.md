@@ -88,10 +88,10 @@ The monorepo structure provided several benefits:
 
 Our account manager worked directly with Reapit's Engineering Team Leader to ensure smooth development progress. We established efficient team practices:
 
-- **Sprint Planning**: Discussing milestones and weekly focus areas
-- **Daily Meetings**: 4PM check-ins to sync work status and resolve problems
-- **Bi-weekly Sprint Updates**: Reviewing completed work and clarifying new tickets
-- **Task Selection**: Team members could choose tasks based on their capacity
+- **Sprint planning**: Discussing milestones and weekly focus areas
+- **Daily meetings**: 4PM check-ins to sync work status and resolve problems
+- **Bi-weekly sprint updates**: Reviewing completed work and clarifying new tickets
+- **Task selection**: Team members could choose tasks based on their capacity
 
 This approach fostered proactivity among team members. We were able to communicate effectively, discuss roadblocks, respond quickly to incidents, and perform at our best.
 
