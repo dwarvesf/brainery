@@ -69,7 +69,7 @@ Here, raw data gets organized and contextualized. We answer the "who, what, when
 }
 ```
 
-```json
+```
 -- Example: Output row from 'content_trends' aggregate (Information)
 -- bucket | content_text | mention_count | first_observed
 -- -----------------------+-------------------------------------------+---------------+-----------------------
