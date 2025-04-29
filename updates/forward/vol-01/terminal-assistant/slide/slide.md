@@ -12,14 +12,14 @@ A CLI assistant for developers
 
 # Flow
 
-![bg 80%](flow.png)
+![bg 80%](assets/flow.png)
 
 ---
 
 # textRank
 
 based on pageRank, but for text.
-![bg right auto](grap.jpeg)
+![bg right auto](assets/grap.jpeg)
 
 ---
 
@@ -37,7 +37,7 @@ The quick brown fox jumps over the lazy dog.
 [The quick brown fox] jumps over the lazy dog.
 ```
 
-![w:300](grap1.png)
+![w:300](assets/grap1.png)
 
 ---
 
@@ -47,7 +47,7 @@ The quick brown fox jumps over the lazy dog.
 The [quick brown fox jumps] over the lazy dog.
 ```
 
-![w:500](grap2.png)
+![w:500](assets/grap2.png)
 
 ---
 
@@ -57,7 +57,7 @@ The [quick brown fox jumps] over the lazy dog.
 The quick [brown fox jumps over] the lazy dog.
 ```
 
-![w:500](grap3.png)
+![w:500](assets/grap3.png)
 
 ---
 
@@ -67,7 +67,7 @@ The quick [brown fox jumps over] the lazy dog.
 The quick brown [fox jumps over the] lazy dog.
 ```
 
-![w:500](grap4.png)
+![w:500](assets/grap4.png)
 
 ---
 
@@ -77,7 +77,7 @@ The quick brown [fox jumps over the] lazy dog.
 The quick brown fox [jumps over the lazy] dog.
 ```
 
-![w:500](grap5.png)
+![w:500](assets/grap5.png)
 
 ---
 
@@ -87,7 +87,7 @@ The quick brown fox [jumps over the lazy] dog.
 The quick brown fox jumps [over the lazy dog].
 ```
 
-![w:500](grap6.png)
+![w:500](assets/grap6.png)
 
 ---
 
@@ -97,7 +97,7 @@ The quick brown fox jumps [over the lazy dog].
 The quick brown fox jumps [over the lazy dog].
 ```
 
-![w:500](grap7.png)
+![w:500](assets/grap7.png)
 
 ---
 
@@ -211,19 +211,19 @@ $$
 
 # Flow
 
-![bg 80%](flow.png)
+![bg 80%](assets/flow.png)
 
 ---
 
 # Answer
 
-![bg 60%](stackoverflow.png)
+![bg 60%](assets/stackoverflow.png)
 
 ---
 
 # TF-IDF
 
-![bg 60%](tfidf.png)
+![bg 60%](assets/tfidf.png)
 
 ---
 
@@ -279,14 +279,14 @@ T4: git tag delete tagname
 
 # Response
 
-![bg 70%](eg.png)
+![bg 70%](assets/eg.png)
 
 ---
 
 # Related works
 
 https://github.com/gleitz/howdoi
-![](howdoi.png)
+![](assets/howdoi.png)
 
 ---
 

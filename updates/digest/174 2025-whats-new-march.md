@@ -125,4 +125,4 @@ For the full take, Minh shared two short write-ups from the road: [Talks and Tak
 - **Memo UI:** Explore further integrations to improve accessibility.
 - **Event participation:** Continue exploring AI & Web3 scenes, identifying events that support strategic relationships and learning.
 
-Got ideas to make these even better? Hit us up on [Dwarves Discord](discord.gg/dfoundation).
+Got ideas to make these even better? Hit us up on [Dwarves Discord](https://discord.gg/dfoundation).

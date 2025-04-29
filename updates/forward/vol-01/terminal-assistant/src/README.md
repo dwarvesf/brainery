@@ -16,7 +16,7 @@ An advisor for your development process.
 
 ### Advisor Mimir
 
-![advise](media/advise.gif)
+![advise](assets/advise.gif)
 
 ### Ruber duck debugging (or Mimir debugging)
 

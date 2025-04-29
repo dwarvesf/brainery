@@ -22,7 +22,7 @@ In December, we launched our Consulting Team, released our finding on tech trend
 - **[Reporting Tech Signals](#reporting-tech-signals)** - We stay ahead by monitoring high-potential trends in tech.
 - **[Launching consulting team](#launching-consulting-team)** - Dwarves Consulting is shaping up.
 - **[Performance review](#performance-review)** - The Dwarves way. We don't just base our review by performance, but also on everyone's effort to grow in their career.
-- **[Dwarves of the year 2023](dwarves-of-the-year-2023)** - Time to tribute and reward team members who made significant impacts to our growth.
+- **[Dwarves of the year 2023](#dwarves-of-the-year-2023)** - Time to tribute and reward team members who made significant impacts to our growth.
 - **[Join our team](#join-our-team)** - Admin / Ops, BD, Tech Recruiter
 
 ## Reporting tech signals
@@ -82,7 +82,7 @@ Email us at <spawn@d.foundation> or ping @nikki on Discord for JDs / to refer so
 
 **Q: Do Dwarves offer internships?**
 
-> Currently we don't have any internship positions available. Dwarves facilitate apprenticeship and internship as a program, instead of individually. News about these programs will be updated on [memo.d.foundation](memo.d.foundation).
+> Currently we don't have any internship positions available. Dwarves facilitate apprenticeship and internship as a program, instead of individually. News about these programs will be updated on [memo.d.foundation](https://memo.d.foundation).
 
 **Q: How can I contribute to Dwarves network?**
 

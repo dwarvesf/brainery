@@ -11,7 +11,7 @@ tags:
 
 ## Beyond the handbook
 
-While our [handbook](./../../handbook/what-we-value.md) outlines our core values of **Craftsmanship**, **Teamwork**, and **Sustainability**, culture is more than just a document or a set of rules. It's the living, breathing essence of how we work together every day.
+While our [handbook](../handbook/what-we-value.md) outlines our core values of **Craftsmanship**, **Teamwork**, and **Sustainability**, culture is more than just a document or a set of rules. It's the living, breathing essence of how we work together every day.
 
 This collection of articles represents our ongoing exploration of what makes Dwarves culture unique. Each piece captures thoughts, experiences, and principles that have emerged from our journey building a company where engineers thrive.
 

@@ -36,7 +36,7 @@ We think of this site as our company wiki. It's where we note (hence the name) a
 
 ![informationflow](assets/2023-whats-new-october_information_flow.webp)
 
-With [memo.d.foundation](memo.d.foundation), we hope the time and effort we spent in the tech industry will become valuable lessons and stories for everyone who also cares about technology and innovation as we do.
+With [memo.d.foundation](https://memo.d.foundation), we hope the time and effort we spent in the tech industry will become valuable lessons and stories for everyone who also cares about technology and innovation as we do.
 
 Community members are welcome to share their learning notes too. Simply drop a message in relevant channels in our [Discord](http://discord.gg/dfoundation)
 
@@ -82,7 +82,7 @@ Our free FE Course is successfully finished. The stats are astounding, because c
 
 **Q: Do Dwarves offer internships?**
 
-> Currently we don't have any internship positions available. Dwarves facilitate apprenticeship and internship as a program, instead of individually. News about these programs will be updated on [memo.d.foundation](memo.d.foundation).
+> Currently we don't have any internship positions available. Dwarves facilitate apprenticeship and internship as a program, instead of individually. News about these programs will be updated on [memo.d.foundation](https://memo.d.foundation).
 
 **Q: How can I contribute to Dwarves network?**
 

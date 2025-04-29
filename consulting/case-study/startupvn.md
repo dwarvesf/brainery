@@ -60,8 +60,6 @@ The platform offers several key features:
 
 Vietnam's startup ecosystem has seen incredible growth in recent years, but entrepreneurs faced several challenges:
 
-![StartupVN business context](assets/startupvn-context.webp)
-
 1. **Scattered information**: Valuable resources, events, and opportunities were spread across many different websites and platforms, making them hard to find
 2. **Limited networking**: Many founders, especially those outside major cities, had few chances to connect with other entrepreneurs and investors
 3. **Knowledge gaps**: New founders often lacked access to the practical knowledge and mentorship needed to grow their businesses
@@ -96,8 +94,6 @@ Throughout development, we worked closely with the StartupVN team, gathering fee
 ## What we achieved
 
 The StartupVN platform launched successfully and quickly became a valuable resource for Vietnamese entrepreneurs:
-
-![StartupVN platform features](assets/startupvn-feature.webp)
 
 - **Growing community**: Thousands of entrepreneurs joined the platform in the first few months
 - **Active engagement**: Users regularly participate in discussions, sharing knowledge and supporting each other

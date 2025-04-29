@@ -58,7 +58,7 @@ The window-based mapping algorithm is implemented by shifting a window with a pr
 
 Initially, all node scores are assigned as 1. After each loop, the scores are updated. For example, node `quick` has four neighbors (`fox`, `brown`, `jumps`). `fox` has four connections, `brown` has four connections, `jumps` has five connections, therefore the weight of each nodes are 1/4, 1/4, and 1/5 respectively. The new score of `quick` is 1/4\*1 (`fox`) + 1/4\*1(`brown`) +1/5\*1 (`jumps`) = 0.7.
 
-Applicably, after removing the stop words, the text is mapped into a ![times](<https://render.githubusercontent.com/render/math?math=(m%20%5Ctimes%20m)&mode=inline>) matrix, with ![m](https://render.githubusercontent.com/render/math?math=m&mode=inline) is the length of text. This matrix is called _weight matrix_, with each weight value is calculated as described above. For example, the _weight matrix_ for the above sentence is:
+Applicably, after removing the stop words, the text is mapped into a ![times](https://render.githubusercontent.com/render/math?math=(m%20%5Ctimes%20m)&mode=inline) matrix, with ![m](https://render.githubusercontent.com/render/math?math=m&mode=inline) is the length of text. This matrix is called _weight matrix_, with each weight value is calculated as described above. For example, the _weight matrix_ for the above sentence is:
 
 |       | quick | brown | fox  | jumps | over | lazy | dog |
 | ----- | ----- | ----- | ---- | ----- | ---- | ---- | --- |
@@ -70,9 +70,9 @@ Applicably, after removing the stop words, the text is mapped into a ![times](<h
 | lazy  | 0     | 0     | 0    | 0.2   | 0.2  | 0    | 0.5 |
 | dog   | 0     | 0     | 0    | 0     | 0.2  | 0.33 | 0   |
 
-The score of each word in the sentence is represented as a tranposed vector with shage ![times](<https://render.githubusercontent.com/render/math?math=(1%20%5Ctimes%20m)&mode=inline>). Then, the new _TextRank_ score is the result of matrix multiplication:
+The score of each word in the sentence is represented as a tranposed vector with shage ![times](https://render.githubusercontent.com/render/math?math=(1%20%5Ctimes%20m)&mode=inline). Then, the new _TextRank_ score is the result of matrix multiplication:
 
-![matrix](<https://render.githubusercontent.com/render/math?math=%5Cleft(%5Cbegin%7Barray%7D%7Bcc%7D%20%0A0%20%26%200.25%20%26%200.25%20%26%200.2%20%26%200%20%26%200%20%26%200%5C%5C%0A0.33%20%26%200%20%26%200.25%20%26%200.2%20%26%200.2%20%26%200%20%26%200%5C%5C%0A0.33%20%26%200.25%20%26%200%20%26%200.2%20%26%200.2%20%26%200%20%26%200%5C%5C%0A0.33%20%26%200.25%20%26%200.25%20%26%200%20%26%200.2%20%26%200.33%20%26%200%5C%5C%0A0%20%26%200.25%20%26%200.25%20%26%200.2%20%26%200%20%26%200.33%20%26%200.5%5C%5C%0A0%20%26%200%20%26%200%20%26%200.2%20%26%200.2%20%26%200%20%26%200.5%5C%5C%0A0%20%26%200%20%26%200%20%26%200%20%26%200.2%20%26%200.33%20%26%200%5C%5C%0A%5Cend%7Barray%7D%5Cright)%0A%5Ctimes%0A%5Cleft(%5Cbegin%7Barray%7D%7Bcc%7D%20%0A1%5C%5C%0A1%5C%5C%0A1%5C%5C%0A1%5C%5C%0A1%5C%5C%0A1%5C%5C%0A1%0A%5Cend%7Barray%7D%5Cright)%0A%3D%0A%5Cleft(%5Cbegin%7Barray%7D%7Bcc%7D%20%0A0.7%5C%5C%0A0.98%5C%5C%0A0.98%5C%5C%0A1.36%5C%5C%0A1.53%5C%5C%0A0.9%5C%5C%0A0.53%0A%5Cend%7Barray%7D%5Cright)>)
+![matrix](https://render.githubusercontent.com/render/math?math=%5Cleft(%5Cbegin%7Barray%7D%7Bcc%7D%20%0A0%20%26%200.25%20%26%200.25%20%26%200.2%20%26%200%20%26%200%20%26%200%5C%5C%0A0.33%20%26%200%20%26%200.25%20%26%200.2%20%26%200.2%20%26%200%20%26%200%5C%5C%0A0.33%20%26%200.25%20%26%200%20%26%200.2%20%26%200.2%20%26%200%20%26%200%5C%5C%0A0.33%20%26%200.25%20%26%200.25%20%26%200%20%26%200.2%20%26%200.33%20%26%200%5C%5C%0A0%20%26%200.25%20%26%200.25%20%26%200.2%20%26%200%20%26%200.33%20%26%200.5%5C%5C%0A0%20%26%200%20%26%200%20%26%200.2%20%26%200.2%20%26%200%20%26%200.5%5C%5C%0A0%20%26%200%20%26%200%20%26%200%20%26%200.2%20%26%200.33%20%26%200%5C%5C%0A%5Cend%7Barray%7D%5Cright)%0A%5Ctimes%0A%5Cleft(%5Cbegin%7Barray%7D%7Bcc%7D%20%0A1%5C%5C%0A1%5C%5C%0A1%5C%5C%0A1%5C%5C%0A1%5C%5C%0A1%5C%5C%0A1%0A%5Cend%7Barray%7D%5Cright)%0A%3D%0A%5Cleft(%5Cbegin%7Barray%7D%7Bcc%7D%20%0A0.7%5C%5C%0A0.98%5C%5C%0A0.98%5C%5C%0A1.36%5C%5C%0A1.53%5C%5C%0A0.9%5C%5C%0A0.53%0A%5Cend%7Barray%7D%5Cright))
 
 In this project, the _TextRank_ algorithm is mapped with a window-based algorithm with window size 4, and the score calculation loop number is 10. These are reasonable values with small texts (less than 10 words). We also define the keywords for the text are the words with score > 1 (In this example, `jumps` and `over` are keywords).
 
@@ -88,7 +88,7 @@ If there are more than two keywords, we are searching StackOverflow Question to 
 
 The heuristic function is described below:
 
-![tree](slide/assets/tree.png)
+![tree](assets/tree.png)
 
 ### TF-IDF
 
@@ -153,7 +153,7 @@ Then we multiplied TF with IDF:
 
 This feature is simple. We just print what the user is typing on the terminal. After each line is printed, we will randomly decide to print some words of encouragement (mostly Mimir line in the game _God of War_ &trade; (2018)) or not.
 
-![debug](slide/assets/debug.png)
+![debug](assets/debug.png)
 
 ## Achievement and limitation
 

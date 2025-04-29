@@ -13,7 +13,7 @@ One of the most important questions at the start of a project is how much it wil
 
 The difficulty with setting a budget at the start of a project is that everyone is at the point of maximum ignorance. At the beginning of a project, all of the requirements have not matured. Scope may not be fully defined, the market approach may be a bit hazy, or the technical requirements may still be in flux. It is okay to move forward with a loosely defined project as long as the scope and budget are refined at several steps along the budget roadmap.
 
-### How Big Is the Pie?
+### How big is the Pie?
 
 After a project has been loosely defined, the profit generating, or cost savings, potential should be estimated. Refining scope and budget will cost time and money. Knowing the potential reward will ensure that the research, design and planning effort stays within perspective.
 
@@ -21,7 +21,7 @@ After a project has been loosely defined, the profit generating, or cost savings
 
 We use the early project requirements, historical data from previous projects, and our experienced intuition to initially estimate cost. At this point the estimate will have the broadest range. We might estimate that the project will definitely cost $50,000 but probably not go over $100,000. If the estimate is much higher than expected, we can revisit the requirements to make sure that scope expectations are aligned. We can redefine the scope and estimate again.
 
-![](setting-the-budget_9e1847473feeac53a6defef0ef0848c4_md5.webp)
+![](assets/setting-the-budget_9e1847473feeac53a6defef0ef0848c4_md5.webp)
 
 ### Research, design and planning
 
