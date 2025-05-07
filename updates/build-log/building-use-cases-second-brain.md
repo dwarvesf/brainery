@@ -31,7 +31,7 @@ How does this brain actually learn? It’s a continuous loop, kind of like how w
 ```mermaid
 graph TD
     A["Raw Data Ingestion"] --> B["Information Processing (External LLMs/Scripts)"];
-    B --> C{"Observation Log (Append-Only TimescaleDB)"};
+    B --> C{"Observation Log"};
     C --> D("Knowledge Synthesis & Coining Terms");
     D -- "New Knowledge & Coined Terms" --> C;
     subgraph "True Second Brain"
@@ -47,7 +47,7 @@ graph TD
     %% Styling for clarity (optional, but helps)
     style A fill:#f9f,stroke:#333,stroke-width:2px,color:black
     style B fill:#ccf,stroke:#333,stroke-width:2px,color:black
-    style C fill:#lightgrey,stroke:#333,stroke-width:4px,stroke-dasharray: 5 5,color:black
+    style C fill:#lightgrey,stroke:#333,stroke-width:4px,color:white
     style D fill:#cfc,stroke:#333,stroke-width:2px,color:black
 ```
 
