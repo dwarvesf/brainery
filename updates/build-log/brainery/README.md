@@ -1,5 +1,5 @@
 ---
-title: 🧠 Brainery - Dwarves second brain
+title: 🧠 Brainery
 description: Latest report on how we build our second brain
 date: 2025-04-23
 authors:

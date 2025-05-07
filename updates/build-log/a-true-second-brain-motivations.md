@@ -109,5 +109,5 @@ This mapping shows how the **append-only log** combined with **LLM** processing 
 
 ## Resources
 
-- https://github.com/modelcontextprotocol/servers/tree/main/src/memory
+- <https://github.com/modelcontextprotocol/servers/tree/main/src/memory>
 - [In-context Continual Learning Assisted by an External Continual Learner](https://arxiv.org/abs/2412.15563)
