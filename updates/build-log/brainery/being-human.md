@@ -33,3 +33,7 @@ To embrace your humanity:
 - Build relationships and define your purpose.
 
 Being human isn’t diminished by AI; it’s amplified. Computers think, but we feel, create, connect, and choose meaning, making our existence profoundly irreplaceable.
+
+---
+
+> Next: [Maintain human edge](human-edge.md)
