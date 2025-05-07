@@ -1,0 +1,18 @@
+---
+title: "Contributor"
+description: ""
+---
+# Contributors
+
+<ul>
+    {contributors.map(contributor => (
+    <li key={contributor}>
+        <Link
+        href={`/contributor/${contributor}`}
+        className="text-lg"
+        >
+        {contributor}
+        </Link>
+    </li>
+    ))}
+</ul>
