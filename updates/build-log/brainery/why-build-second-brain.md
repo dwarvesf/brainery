@@ -3,8 +3,8 @@ title: Why build a second brain when AI can think for us?
 description: Discover why a personal second brain is still valuable in the AI era. Learn how it curates knowledge, sparks creativity, and complements LLMs for deeper insights.
 date: 2025-05-06
 authors:
-  - grok
   - tieubao
+  - grok
 tags:
   - brainery
   - knowledge-base
@@ -12,9 +12,7 @@ tags:
 
 > **tl;dr** Building a second brain is still worth it, even with AI like LLMs. It curates knowledge tailored to your goals, fuels creativity through active engagement, and works with AI to amplify your thinking, not replace it.
 
-## The question and tension
-
-With large language models (LLMs) like Grok delivering world knowledge in real time, why invest in a personal second brain, a curated database of notes, articles, and insights? As I build my second brain to store knowledge and spark ideas by colliding new information with existing notes, I wonder if it’s redundant. LLMs seem to offer instant access to vast information, making my efforts feel unnecessary.
+With large language models (LLMs) delivering world knowledge in real time, why invest in a personal second brain, a curated database of notes, articles, and insights? As I build my second brain to store knowledge and spark ideas by colliding new information with existing notes, I wonder if it’s redundant. LLMs seem to offer instant access to vast information, making my efforts feel unnecessary.
 
 What’s the difference between **my knowledge and world knowledge** if I can tap into the latter via an LLM call? And does a second brain still have unique value?
 

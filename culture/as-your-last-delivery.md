@@ -5,7 +5,7 @@ date: 2025-06-24
 authors:
   - tieubao
 tags:
-  - people
+  - productivity
   - culture
 ---
 
