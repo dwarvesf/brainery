@@ -1,7 +1,7 @@
 ---
 title: MCP Playbook Mastery
-description: null
-date: 2025-04-10
+description: Sharing and propogating team knowledge and practices through LLM and MCP automation.
+date: 2025-05-08
 authors:
   - monotykamary
 tags:
