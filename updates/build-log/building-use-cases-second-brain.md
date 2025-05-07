@@ -161,3 +161,5 @@ Because it's constantly tracking how these **coined terms** and underlying **Inf
 So, what are we building here? It's more than just a clever database. It's an engineering approach to a system that actually gets smarter. It eats **Information**, digests it into **Knowledge**, and that **Knowledge** makes it better at understanding the next wave of **Information**. It's a virtuous cycle.
 
 No more brittle schemas. No more **LLMs** forgetting what they learned. The **append-only log**, the flexible **JSONB**, the smart **LLM** synthesis – this architecture is built for evolution. The supporting use-cases feed it, the derivative use-cases are the payoff. This isn't just theory. It’s how you build a brain that genuinely accumulates wisdom and becomes an indispensable partner. The future is a learning system. Let's build it!
+
+> Next: [The alchemy of understanding: streaming and promoting raw data to insight](how-we-stream-promote-raw-data-to-insight-second-brain.md)
