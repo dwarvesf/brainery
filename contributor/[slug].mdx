@@ -1,0 +1,19 @@
+---
+title: "{contributorName}'s profile"
+description: 'Contributions by {contributorName}'
+---
+
+<ContributorHead
+    name={githubData?.name || ''}
+    githubId={githubData?.login || ''}
+    githubLink={githubData?.html_url || ''}
+    websiteLink={githubData?.blog || ''}
+    bio={githubData?.bio || ''}
+    twitterUserName={githubData?.twitter_username || ''}
+    contributorMemos={contributorMemos}
+    avatarUrl={githubData?.avatar_url || ''}
+/>
+
+## Writings
+
+<MemoVList data={contributorMemos} hideAuthors hideThumbnail showTags />
