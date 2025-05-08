@@ -17,9 +17,9 @@ The fundamental drive here is to construct a system capable of **continual learn
 
 ![DIKW Pyrmaid](assets/a-true-second-brain-dikw-pyramid.png)
 
-Traditional methods, whether involving database schemas or **Large Language Model (LLM)** fine-tuning, hit serious walls. Static database schemas are too rigid; they break when new types of information emerge, demanding complex **migrations**. You can't easily evolve the structure as understanding grows. Look at the [Anthropic MCP memory example](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) – it uses a JSONL file, essentially a flat log, which is simple and works great as a memory component but lacks the querying power and time-series capabilities needed for sophisticated pattern detection.
+Traditional methods, whether involving database schemas or **Large Language Model (LLM)** fine-tuning, hit serious walls. Static database schemas are too rigid; they break when new types of information emerge, demanding complex **migrations**. You can't easily evolve the structure as understanding grows. Look at the [Anthropic MCP memory example](https://github.com/modelcontextprotocol/servers/tree/main/src/memory); it uses a JSONL file, essentially a flat log, which is simple and works great as a memory component but lacks the querying power and time-series capabilities needed for sophisticated pattern detection.
 
-On the **LLM** side, fine-tuning models continually leads to **catastrophic forgetting (CF)** – the model forgets past knowledge when learning new things. Relying purely on **in-context learning (ICL)** avoids **CF** because model parameters aren't updated, but it doesn't scale. Prompt sizes explode as you add examples for every piece of knowledge, exceeding token limits and degrading performance because the context gets cluttered with irrelevant information.
+On the **LLM** side, fine-tuning models continually leads to **catastrophic forgetting (CF)**; the model forgets past knowledge when learning new things. Relying purely on **in-context learning (ICL)** avoids **CF** because model parameters aren't updated, but it doesn't scale. Prompt sizes explode as you add examples for every piece of knowledge, exceeding token limits and degrading performance because the context gets cluttered with irrelevant information.
 
 So, the motivation for *this* MCP knowledge base design is to sidestep these limitations entirely. We need a system that:
 
@@ -34,7 +34,7 @@ Essentially, we're building an **evolving knowledge base** that leverages an **L
 
 ### **Data: raw observations**
 
-This is the base layer – raw, unprocessed facts and symbols. In our system, this corresponds primarily to the raw ingested content and basic metadata within the `payload` before significant processing or structuring by the **LLM**. Think raw text dumps, initial source identifiers.
+This is the base layer; raw, unprocessed facts and symbols. In our system, this corresponds primarily to the raw ingested content and basic metadata within the `payload` before significant processing or structuring by the **LLM**. Think raw text dumps, initial source identifiers.
 
 ```json
 // Example: Part of the payload representing raw Data
@@ -52,7 +52,7 @@ This is the base layer – raw, unprocessed facts and symbols. In our system, th
 
 ### **Information: structured & contextualized data**
 
-Here, raw data gets organized and contextualized. We answer the "who, what, when, where." This maps directly to the structured elements the **LLM** extracts and stores within the `payload`, like identified **entities** and **relations**. Furthermore, the outputs of our **TimescaleDB continuous aggregates** and `DISTINCT` queries represent **Information** – raw data aggregated into meaningful counts, frequencies, or unique lists over specific time intervals.
+Here, raw data gets organized and contextualized. We answer the "who, what, when, where." This maps directly to the structured elements the **LLM** extracts and stores within the `payload`, like identified **entities** and **relations**. Furthermore, the outputs of our **TimescaleDB continuous aggregates** and `DISTINCT` queries represent **Information**; raw data aggregated into meaningful counts, frequencies, or unique lists over specific time intervals.
 
 ```json
 // Example: Parts of the payload representing Information
@@ -111,5 +111,7 @@ This mapping shows how the **append-only log** combined with **LLM** processing 
 
 - <https://github.com/modelcontextprotocol/servers/tree/main/src/memory>
 - [In-context Continual Learning Assisted by an External Continual Learner](https://arxiv.org/abs/2412.15563)
+
+> Next: [Approximating softmax learning - Second brain technical motivation](technical-motivations.md)
 
 > Next: [Building use-cases from and for our true second brain](building-use-cases-second-brain.md)
