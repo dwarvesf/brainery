@@ -6,8 +6,8 @@ authors:
   - baenv
 tags:
   - data
-  - fintech
   - blockchain
+  - fintech
 ---
 
 ## Executive summary

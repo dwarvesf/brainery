@@ -8,8 +8,8 @@ authors:
   - nikkingtr
 tags:
   - case-study
-  - real-estate
   - enterprise
+  - real-estate
 ---
 
 **Industry**\

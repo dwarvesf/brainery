@@ -6,9 +6,9 @@ date: 2024-09-25
 authors:
   - innnotruong
 tags:
-  - weekly-digest
+  - digest
+  - hybrid-work
   - team
-  - hybrid-working
 ---
 
 Since the start, Dwarves has valued flexibility, allowing our team to work where inspiration strikes. But there's something special about being together, learning, sharing knowledge, and working side by side.

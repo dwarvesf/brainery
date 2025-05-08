@@ -8,8 +8,8 @@ authors:
   - duynglam
   - nikkingtr
 tags:
-  - hospitality
   - case-study
+  - hospitality
 ---
 
 **Industry**\

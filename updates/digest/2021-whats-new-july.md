@@ -5,10 +5,10 @@ date: 2021-07-31
 authors:
   - duynglam
 tags:
-  - updates
   - newsletter
-  - wfh
+  - remote
   - team
+  - updates
 ---
 
 We're closing July with some notable highlights. Let's go through them.

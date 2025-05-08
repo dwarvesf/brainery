@@ -8,8 +8,8 @@ authors:
   - nikkingtr
 tags:
   - blockchain
-  - swap
   - case-study
+  - swap
 ---
 
 **Industry**\

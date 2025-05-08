@@ -5,9 +5,9 @@ date: 2023-12-06
 authors:
   - nikkingtr
 tags:
-  - newsletter
-  - meet-up
   - golang
+  - meet-up
+  - newsletter
   - updates
 ---
 

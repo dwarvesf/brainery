@@ -7,8 +7,8 @@ authors:
   - tieubao
   - duynglam
 tags:
-  - iot
   - case-study
+  - iot
 ---
 
 **Industry**\

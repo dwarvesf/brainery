@@ -6,8 +6,8 @@ authors:
   - tieubao
   - duynglam
 tags:
-  - radar
   - forward-engineering
+  - radar
 ---
 
 ## Our perspective on technology

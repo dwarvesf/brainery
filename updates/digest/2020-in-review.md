@@ -7,9 +7,9 @@ authors:
   - nikkingtr
   - duynglam
 tags:
-  - updates
-  - tech-radar
   - newsletter
+  - tech-radar
+  - updates
   - wrap-up
 ---
 

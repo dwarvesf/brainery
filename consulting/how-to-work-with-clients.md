@@ -7,9 +7,9 @@ authors:
   - nikkingtr
 tags:
   - client
-  - software
   - consulting
   - project
+  - software
 ---
 
 ## Training course: how to work with client

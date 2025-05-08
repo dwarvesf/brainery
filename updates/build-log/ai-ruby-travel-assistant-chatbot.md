@@ -6,8 +6,8 @@ authors:
   - monotykamary
 aliases: ["/share/ai-travel"]
 tags:
-  - agents
   - ai
+  - agents
 ---
 
 > "When the easy path isn't the right path, true engineering shines in adapting the right tools for the job."

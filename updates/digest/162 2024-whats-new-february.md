@@ -5,10 +5,10 @@ date: 2024-03-08
 authors:
   - nikkingtr
 tags:
-  - newsletter
-  - consulting
-  - tech-report
   - performance
+  - consulting
+  - newsletter
+  - report
 ---
 
 - **[Reporting Tech Signals](#reporting-tech-signals)** - Latest findings on Serverless Computing, AI & ML, FinOps and CyberSecurity

@@ -5,9 +5,9 @@ date: 2024-06-13
 authors:
   - innnotruong
 tags:
-  - newsletter
-  - meet-up
   - community
+  - meet-up
+  - newsletter
 ---
 
 - [**Dwarves offline meet-up:**](#dwarves-community-offline-meet-up-was-a-blast) Gathering over 50 members for networking, OGIF talks, and casual team dinner.

@@ -7,8 +7,8 @@ authors:
   - monotykamary
   - innnotruong
 tags:
-  - summit
   - newsletter
+  - summit
   - team
   - updates
 ---

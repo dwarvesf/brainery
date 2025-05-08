@@ -5,8 +5,8 @@ date: 2021-07-12
 authors:
   - duynglam
 tags:
-  - process
   - management
+  - process
 ---
 
 ## Democracy in a nutshell

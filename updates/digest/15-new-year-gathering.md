@@ -6,9 +6,9 @@ date: 2025-02-04
 authors:
   - innnotruong
 tags:
-  - weekly-digest
-  - team
   - community
+  - digest
+  - team
 ---
 
 We kicked off our gathering after Tết, bringing the community back together in true Dwarves style - dropping some SOL and ICY tokens into everyone's wallets, bringing the community back together in true Dwarves style. Not a bad way to start the year.

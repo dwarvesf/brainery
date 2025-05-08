@@ -6,9 +6,9 @@ date: 2020-09-20
 authors:
   - duynglam
 tags:
-  - startup
-  - marketplace
   - case-study
+  - marketplace
+  - startup
 ---
 
 **Industry**\

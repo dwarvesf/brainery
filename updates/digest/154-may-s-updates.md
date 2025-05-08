@@ -3,11 +3,11 @@ title: "#154 - May's Updates"
 description: Web Team relaunch, LLM in Production, Community Bounties, and other company highlights for May 2023.
 date: 2023-06-07
 tags:
-  - digest
-  - community-updates
-  - web-team
   - llm
-  - bounties
+  - bounty
+  - digest
+  - updates
+  - web-team
 ---
 
 [Community Changelog #154] - Web Team, LLM in Production, Community Bounties

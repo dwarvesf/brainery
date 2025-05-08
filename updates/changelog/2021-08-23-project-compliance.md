@@ -7,9 +7,9 @@ authors:
   - nikkingtr
   - duynglam
 tags:
+  - newsletter
   - project
   - updates
-  - newsletter
 ---
 
 Hey,

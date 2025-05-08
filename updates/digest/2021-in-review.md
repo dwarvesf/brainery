@@ -7,8 +7,8 @@ authors:
   - nikkingtr
   - duynglam
 tags:
-  - updates
   - newsletter
+  - updates
   - wrap-up
 ---
 

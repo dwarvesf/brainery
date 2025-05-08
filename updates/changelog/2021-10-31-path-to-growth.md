@@ -7,9 +7,9 @@ authors:
   - nikkingtr
   - duynglam
 tags:
-  - updates
   - engineering
   - newsletter
+  - updates
 ---
 
 Greetings,

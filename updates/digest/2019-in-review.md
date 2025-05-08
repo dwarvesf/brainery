@@ -5,10 +5,10 @@ date: 2020-01-25
 authors:
   - tieubao
 tags:
-  - updates
   - newsletter
-  - wrap-up
   - team
+  - updates
+  - wrap-up
 ---
 
 Another year has gone by. And we just celebrated the 5th year that we survived all the challenges. Everyone was facing their own, but I have seen many of you reaching new stages and achieve new targets.

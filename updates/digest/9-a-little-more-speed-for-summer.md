@@ -6,9 +6,9 @@ date: 2024-06-08
 authors:
   - innnotruong
 tags:
-  - weekly-digest
-  - meetup
   - community
+  - digest
+  - meet-up
   - team
 ---
 

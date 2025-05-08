@@ -7,9 +7,9 @@ authors:
   - duynglam
   - nikkingtr
 tags:
-  - case-study
   - browser-extension
-  - early-stage
+  - case-study
+  - startup
 ---
 
 **Industry**\

@@ -6,9 +6,9 @@ authors:
   - tieubao
   - nikkingtr
 tags:
+  - budgeting
   - consulting
   - engagement
-  - budgeting
 ---
 
 Fixed-budget, scope-controlled (FBSC) is applied at Atomic Object. They build custom software for our customers. Because of the complexity involved in building a great software product, software development projects are always more difficult to price than a product.

@@ -6,9 +6,9 @@ authors:
   - cnhhoang850
 github_id: cnhhoang850
 tags:
-  - ux
   - design
   - ui
+  - ux
 ---
 
 Frank Chimero has been branding for over 20 years in New York. Recently, he was creative director at FictiveKin.

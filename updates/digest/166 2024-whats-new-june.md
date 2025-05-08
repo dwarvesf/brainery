@@ -6,9 +6,9 @@ authors:
   - innnotruong
   - nikkingtr
 tags:
-  - newsletter
-  - memo
   - community
+  - memo
+  - newsletter
 ---
 
 - [**memo.d.foundation**](#the-growing-of-memo-pile): more entries focusing on software design, LLM and blockchain, a key focus of our continuous learning journey.

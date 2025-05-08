@@ -5,12 +5,12 @@ date: 2024-11-15
 authors:
   - datnguyennnx
 tags:
-  - llm
-  - tooling
   - aider
+  - llm
+  - predicted-output
   - qwen25
   - openhand
-  - predicted-output
+  - tool
 ---
 
 ## Aider v0.63.0 release

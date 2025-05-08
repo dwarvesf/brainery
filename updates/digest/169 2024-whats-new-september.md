@@ -5,9 +5,9 @@ date: 2024-10-01
 authors:
   - innnotruong
 tags:
-  - newsletter
-  - memo
   - community
+  - memo
+  - newsletter
 ---
 
 - [**🧙・ai-club:**](#ai-club-building-ai-agents-ai-sheep-role--copilot-bounties) We launched the AI-Club, your go-to hub for diving into AI and LLMs, where curiosity sparks real projects and dynamic discussions.

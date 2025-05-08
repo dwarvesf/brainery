@@ -7,8 +7,8 @@ authors:
   - zlatanpham
   - huynguyenh
 tags:
-  - startup
   - case-study
+  - startup
   - us
 ---
 

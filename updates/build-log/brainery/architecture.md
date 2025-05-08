@@ -12,11 +12,9 @@ tags:
   - architecture
 ---
 
-![](assets/architecture.png)
-
-## Understanding our second brain: A look at the architecture
-
 Our second brain project, internally known as **Brainery**, is engineered to be more than just a data repository; it's a dynamic and evolving **knowledge base**. It’s designed to empower you to truly understand and connect disparate pieces of information, moving beyond simple AI queries to genuine insight. This article will walk you through the architecture that makes this possible, explaining how data flows and transforms into actionable knowledge.
+
+![](assets/architecture.png)
 
 ### Data: The foundation of knowledge
 

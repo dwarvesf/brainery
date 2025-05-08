@@ -7,8 +7,8 @@ authors:
   - bringastar
   - Maniub102
 tags:
-  - fintech
   - case-study
+  - fintech
   - mobile
 ---
 

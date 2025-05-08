@@ -6,9 +6,9 @@ authors:
   - tieubao
   - duynglam
 tags:
+  - newsletter
   - team
   - updates
-  - newsletter
 ---
 
 ## Our vision for growth

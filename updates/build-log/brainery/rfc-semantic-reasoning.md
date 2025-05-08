@@ -5,23 +5,18 @@ date: 2025-05-08
 authors:
   - monotykamary
 tags:
-  - concept-evolution
-  - semantic-reasoning
-  - continual-learning
-  - vector-embeddings
-  - temporal-analysis
-  - rfc
+  - brainery
+  - architecture
   - concept-embedding
-  - temporal-reasoning
-  - timescaledb
+  - concept-evolution
+  - continual-learning
+  - llm
   - pgvector
   - pgvectorscale
-  - streamingdiskann
-  - llm
-  - dikw-pyramid
-  - latent-space
-  - architecture
-  - second-brain
+  - rfc
+  - semantic-reasoning
+  - temporal-reasoning
+  - timescaledb
 ---
 
 ## Abstract

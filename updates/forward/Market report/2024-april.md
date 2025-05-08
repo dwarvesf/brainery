@@ -7,10 +7,10 @@ authors:
   - monotykamary
   - zlatanpham
 tags:
-  - labs
-  - market-report
   - ai
   - llm
+  - labs
+  - market-report
 ---
 
 ## Key takeaways

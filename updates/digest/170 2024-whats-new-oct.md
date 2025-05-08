@@ -5,9 +5,9 @@ date: 2024-11-15
 authors:
   - innnotruong
 tags:
-  - newsletter
-  - memo
   - community
+  - memo
+  - newsletter
 ---
 
 - [**We're Hiring:**](#were-hiring) On the lookout for Full-stack Engineers, Biz Devs, and Marketing minds to join the team.

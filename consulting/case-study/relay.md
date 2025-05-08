@@ -6,9 +6,9 @@ date: 2021-04-29
 authors:
   - duynglam
 tags:
-  - case-study
   - browser-extension
-  - early-stage
+  - case-study
+  - startup
   - us
 ---
 

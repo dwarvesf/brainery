@@ -9,13 +9,11 @@ aliases:
 tags:
   - brainery
   - data-flow
-  - mcp
   - timescaledb
   - llm
   - discord
-  - github
   - gcp-s3
-  - architecture
+  - mcp
   - second-brain
 ---
 

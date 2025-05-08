@@ -5,14 +5,15 @@ date: 2025-05-08
 authors:
   - monotykamary
 tags:
-  - security
-  - rfc
+  - brainery
+  - architecture
+  - authentication
+  - authorization
   - mcp
   - pkce
-  - authorization
-  - authentication
-  - architecture
+  - rfc
   - second-brain
+  - security
 ---
 
 ## Introduction

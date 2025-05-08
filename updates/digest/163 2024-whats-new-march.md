@@ -5,10 +5,10 @@ date: 2024-04-03
 authors:
   - innnotruong
 tags:
-  - newsletter
-  - icy
-  - tech-report
   - community
+  - icy
+  - newsletter
+  - report
 ---
 
 - **Reporting tech signals**: everything new on artificial intelligence, API techniques, toolings, programming languages, and the intersection of design and engineering.

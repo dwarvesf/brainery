@@ -9,13 +9,13 @@ authors:
 pinned: true
 tags:
   - brainery
-  - moc
   - build-log
   - knowledge-management
   - second-brain
   - ai
   - data-to-insight
   - pkm
+  - moc
 ---
 
 Welcome to the **Brainery build-log**. This is where we're charting our journey in constructing what we call a **'second brain'**. Essentially, it's a sophisticated **knowledge system** we're engineering from the ground up, specifically for **continuous learning**. The core idea is to become highly effective at transforming raw **data into valuable, actionable insights**.

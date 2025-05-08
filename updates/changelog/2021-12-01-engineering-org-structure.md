@@ -7,9 +7,9 @@ authors:
   - duynglam
   - nikkingtr
 tags:
-  - updates
-  - newsletter
   - career
+  - newsletter
+  - updates
 ---
 
 Greetings,

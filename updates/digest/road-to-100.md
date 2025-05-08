@@ -7,9 +7,9 @@ authors:
   - nikkingtr
   - duynglam
 tags:
-  - team
-  - software
   - employee
+  - software
+  - team
   - updates
 ---
 

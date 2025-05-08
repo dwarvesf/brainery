@@ -6,8 +6,8 @@ authors:
   - tieubao
   - grok
 tags:
-  - brainery
   - knowledge-base
+  - brainery
 ---
 
 > **tl;dr:** AI can mimic thinking, but being human is about feeling, creating, connecting, and defining purpose through emotions, intuition, relationships, and existential freedom, qualities machines can’t replicate.

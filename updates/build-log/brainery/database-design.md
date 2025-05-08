@@ -12,8 +12,6 @@ tags:
   - migrationless
   - llm
   - pattern-detection
-  - continuous-aggregates
-  - second-brain
 ---
 
 This document outlines a **TimescaleDB**-based schema designed for capturing observational data and facilitating the emergence of coined terms through pattern detection. The system leverages a single **hypertable** named **observation_log** as its foundation, eschewing static tables in favor of dynamic, continuous aggregates and runtime queries.

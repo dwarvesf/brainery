@@ -5,10 +5,10 @@ date: 2022-01-06
 authors:
   - duynglam
 tags:
-  - updates
-  - newsletter
   - blockchain
   - doty
+  - newsletter
+  - updates
 ---
 
 ### Moving with blockchain

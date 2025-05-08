@@ -6,9 +6,9 @@ authors:
   - nikkingtr
   - duynglam
 tags:
+  - blockchain
   - newsletter
   - updates
-  - blockchain
 ---
 
 ### Performance review

@@ -4,8 +4,8 @@ description: A collection of company updates, including Canada branch registrati
 date: 2019-11-30
 tags:
   - digest
-  - company-updates
-  - projects
+  - project
+  - updates
 ---
 
 ### The next cycle: 2019 wrapping up

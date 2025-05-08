@@ -6,9 +6,9 @@ authors:
   - innnotruong
   - nikkingtr
 tags:
-  - newsletter
-  - memo
   - community
+  - memo
+  - newsletter
 ---
 
 - [**Reporting tech signals:**](#reporting-tech-signals---ai-advancements-cybersecurity-focus-and-shifting-software-trends) Significant AI advancements, cybersecurity focus, and shifting software development trends.

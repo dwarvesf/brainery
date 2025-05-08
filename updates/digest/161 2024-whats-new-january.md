@@ -5,11 +5,11 @@ date: 2024-02-07
 authors:
   - nikkingtr
 tags:
-  - newsletter
-  - doty
   - bounty
-  - tech-report
   - community
+  - doty
+  - newsletter
+  - report
 ---
 
 > **Before you dive in**

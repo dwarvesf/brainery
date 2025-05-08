@@ -5,8 +5,8 @@ date: 2025-04-29
 authors:
   - vdhieu
 tags:
-  - agents
   - ai
+  - agents
 ---
 
 ## Project summary

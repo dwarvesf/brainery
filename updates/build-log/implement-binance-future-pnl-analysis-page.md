@@ -7,8 +7,8 @@ authors:
 tags:
   - blockchain
   - fintech
-  - real-time
   - phoenix-live-view
+  - real-time
 ---
 
 As Binance doesn't allow Master Account see MSA account Future PNL Analysis, so we decide to clone Binance Future PNL Analysis page with Phoenix Live View to show all Account Future PNL

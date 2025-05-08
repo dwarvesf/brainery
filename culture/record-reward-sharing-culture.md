@@ -7,9 +7,9 @@ authors:
   - zlatanpham
   - monotykamary
 tags:
+  - community
   - reward
   - team
-  - community
 ---
 
 ## Record & reward sharing at Dwarves
