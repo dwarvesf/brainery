@@ -12,6 +12,8 @@ tags:
   - llm
 ---
 
+> **tl;dr** We built an **append-only database** system for **continual learning**. It beats rigid schemas and LLM limits, letting us turn **data** into **knowledge** and **wisdom** without losing anything.
+
 Our main goal is to build a system that enables **continual learning (CL)**. We want to move beyond basic **data** collection to create meaningful **information** and **insight**, with the potential to reach **wisdom** (following the **DIKW pyramid**).
 
 ![DIKW Pyramid](assets/dikw-pyramid.png)

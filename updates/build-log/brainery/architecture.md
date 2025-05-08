@@ -12,6 +12,8 @@ tags:
   - architecture
 ---
 
+> **tl;dr** Brainery uses a multi-part architecture: **Fortress DB** for structured data, a **Landing area** for raw unstructured data, and a **Pipeline** that processes everything into the **Brainery DB**. This core **TimescaleDB** is accessed via the **MCP Server** to turn diverse inputs into a living knowledge base.
+
 Our second brain project, internally known as **Brainery**, is engineered to be more than just a data repository; it's a dynamic and evolving **knowledge base**. It’s designed to empower you to truly understand and connect disparate pieces of information, moving beyond simple AI queries to genuine insight. This article will walk you through the architecture that makes this possible, explaining how data flows and transforms into actionable knowledge.
 
 ![](assets/architecture.png)

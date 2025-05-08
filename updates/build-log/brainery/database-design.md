@@ -14,6 +14,8 @@ tags:
   - pattern-detection
 ---
 
+> **tl;dr** Our database uses a single **TimescaleDB hypertable** (`observation_log`) that is **append-only** and uses flexible **JSONB payload**. This lets **LLMs** detect patterns and coin terms without needing schema migrations.
+
 This document outlines a **TimescaleDB**-based schema designed for capturing observational data and facilitating the emergence of coined terms through pattern detection. The system leverages a single **hypertable** named **observation_log** as its foundation, eschewing static tables in favor of dynamic, continuous aggregates and runtime queries.
 
 ## Why this design matters

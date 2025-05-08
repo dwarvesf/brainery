@@ -13,6 +13,8 @@ tags:
   - insight-generation
 ---
 
+> **tl;dr** Brainery creates a dynamic reading workflow by helping you integrate what you read and proactively suggesting new content and **insights** based on your growing **knowledge base**.
+
 ## Two ways to feed your brain with Brainery
 
 With **Brainery**, you get two powerful ways to learn and grow. You can keep reading articles and news like you always have, but now you also get smart suggestions from your second brain. Let's see how this works.

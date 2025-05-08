@@ -12,6 +12,8 @@ tags:
   - knowledge-base
 ---
 
+> **tl;dr** We can build intelligent, learning systems by using an **append-only observation log** with flexible **JSONB** data and **LLMs** to process and synthesize **insight** and **knowledge**.
+
 ## Core architecture: the observation log
 
 At the core of our system lies a single, massive log called the **observation_log**. This runs on **TimescaleDB** and follows an **append-only** pattern. Every piece of data, processed thought, and new **insight** gets written as a new entry. *Nothing ever gets deleted or changed in place*. This is how we prevent **catastrophic forgetting** at the data layer.

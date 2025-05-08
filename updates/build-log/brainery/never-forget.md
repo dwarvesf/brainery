@@ -15,6 +15,8 @@ tags:
   - mcp
 ---
 
+> **tl;dr** Our system prevents LLM **catastrophic forgetting** by using an **append-only TimescaleDB database** as external memory. Instead of retraining the LLM, we manipulate the context using database structures like **continuous aggregates** and **coined terms**, allowing the model to learn without overwriting past knowledge.
+
 Let's talk about how **Transformers** work. At their core, they rely on something called the **attention mechanism**. The key player here is **scaled dot-product attention**, which you can express mathematically as:
 
 $$
