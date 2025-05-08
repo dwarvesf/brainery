@@ -1,7 +1,12 @@
 ---
 title: Go the extra mile
-description: 'A couple days ago, I was asked if I were ever a product person, what would I do to make the best out of it. It took me a while. I mean, I''ve never walked in this shoe before. Wth is a product person? I wondered. And I started digging. Here it is, "Making sure your product/ thing shipped out flawlessly." A perfectionist mindset.'
-date: 2020-09-09
+description: >-
+  A couple days ago, I was asked if I were ever a product person, what would I
+  do to make the best out of it. It took me a while. I mean, I've never walked
+  in this shoe before. Wth is a product person? I wondered. And I started
+  digging. Here it is, "Making sure your product/ thing shipped out flawlessly."
+  A perfectionist mindset.
+date: 2020-09-09T00:00:00.000Z
 authors:
   - duynglam
   - tieubao
@@ -11,8 +16,8 @@ tags:
   - management
   - quality
 should_deploy_perma_storage: true
+perma_storage_id: 3W-Sb3cL1yXtJSjG_ffZjSpCnY02z9yv2KpW87E4Ofw
 ---
-
 A couple days ago, I was asked if I were ever a product person, what would I do to make the best out of it.
 
 It took me a while. I mean, I've never walked in this shoe before. Wth is a product person? I wondered. And I started digging. Here it is, "Making sure your product/ thing shipped out flawlessly." A perfectionist mindset.
