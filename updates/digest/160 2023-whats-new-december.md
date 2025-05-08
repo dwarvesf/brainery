@@ -6,9 +6,9 @@ authors:
   - nikkingtr
 hide_frontmatter: false
 tags:
-  - newsletter
   - performance-review
   - doty
+  - newsletter
   - updates
 ---
 

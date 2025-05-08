@@ -5,9 +5,9 @@ date: 2024-11-14
 authors:
   - monotykamary
 tags:
-  - data
-  - agents
   - ai
+  - agents
+  - data
 ---
 
 At Dwarves, we've developed a Monthly Project Reports system that transforms communication data into actionable intelligence. This lean system orchestrates multiple data streams into comprehensive project insights while maintaining enterprise-grade security and cost efficiency.

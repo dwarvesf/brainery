@@ -3,10 +3,10 @@ title: "#02 - Environment Shape Up"
 description: Updates on company culture, year-end bonus, business partnerships
 date: 2019-12-07
 tags:
-  - digest
-  - company-updates
-  - projects
   - culture-book
+  - digest
+  - project
+  - updates
 ---
 
 ### Company updates

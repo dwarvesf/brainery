@@ -6,8 +6,8 @@ authors:
   - tieubao
   - grok
 tags:
-  - brainery
   - knowledge-base
+  - brainery
 ---
 
 > **tl;dr** Humans excel in **empathy**, **creativity**, **intuition**, and **purpose**, outshining AI in emotional and meaningful tasks. To maintain this edge, create authentic work, practice unplugged problem-solving, and prioritize real connections.

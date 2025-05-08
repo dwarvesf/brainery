@@ -6,8 +6,8 @@ authors:
   - baenv
 tags:
   - data
-  - fintech
   - blockchain
+  - fintech
 ---
 
 With the growth of financial models, transactional data has become larger and increasingly diverse. It includes a wide range of fields:

@@ -8,13 +8,13 @@ aliases:
   - /share/brainery-data-flow
 tags:
   - data-flow
-  - mcp
   - timescaledb
   - llm
-  - discord
-  - github
-  - gcp-s3
   - architecture
+  - discord
+  - gcp-s3
+  - github
+  - mcp
   - second-brain
 ---
 

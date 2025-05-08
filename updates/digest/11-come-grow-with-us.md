@@ -6,9 +6,9 @@ date: 2024-06-23
 authors:
   - innnotruong
 tags:
-  - weekly-digest
-  - memo
   - community
+  - digest
+  - memo
   - reward
 ---
 

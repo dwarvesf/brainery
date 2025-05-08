@@ -8,8 +8,8 @@ authors:
   - zlatanpham
 tags:
   - ai
-  - hiring
   - case-study
+  - hiring
 ---
 
 **Industry**

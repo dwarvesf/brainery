@@ -7,8 +7,8 @@ authors:
   - duynglam
   - huynguyenh
 tags:
-  - people
   - hiring
+  - people
 ---
 
 Many companies out there get lured by the vision of **scaling up**. An unwritten rule of 'the more man we have, the better output we create'. But no, hiring with no motivation only leads to one thing: A waste of resource.

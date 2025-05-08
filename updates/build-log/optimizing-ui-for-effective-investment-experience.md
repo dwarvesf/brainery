@@ -5,8 +5,8 @@ date: 2025-02-25
 authors:
   - bringastar
 tags:
-  - fintech
   - blockchain
+  - fintech
   - ui
 ---
 

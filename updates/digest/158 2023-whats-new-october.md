@@ -5,9 +5,9 @@ date: 2023-11-10
 authors:
   - nikkingtr
 tags:
-  - open-source
-  - newsletter
   - community
+  - newsletter
+  - open-source
 ---
 
 > **Before you dive in**

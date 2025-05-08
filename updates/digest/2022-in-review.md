@@ -7,10 +7,10 @@ authors:
   - nikkingtr
   - monotykamary
 tags:
-  - team
-  - wrap-up
   - newsletter
+  - team
   - updates
+  - wrap-up
 ---
 
 Successfully went through 2022, a year that we might say - a new record: team reached highest growth record, kickstarted community engagement, home, compliance training & individual development are speeding up, and a whole new place to call Dwarves.

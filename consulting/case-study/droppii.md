@@ -7,9 +7,9 @@ authors:
   - huytieu
   - tieubao
 tags:
-  - ecommerce
   - case-study
   - dropshipping
+  - ecommerce
 ---
 
 **Industry**\

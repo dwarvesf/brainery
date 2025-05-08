@@ -5,9 +5,9 @@ date: 2025-01-02
 authors:
   - zlatanpham
 tags:
+  - database
   - blockchain
   - fintech
-  - database
   - security
 ---
 

@@ -5,8 +5,8 @@ date: 2024-06-11
 authors:
   - innnotruong
 tags:
-  - meet-up
   - community
+  - meet-up
   - newsletter
 ---
 

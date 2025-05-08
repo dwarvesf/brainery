@@ -6,9 +6,9 @@ date: 2024-04-22
 authors:
   - innnotruong
 tags:
-  - weekly-digest
-  - discord
   - community
+  - digest
+  - discord
   - motivation
 ---
 

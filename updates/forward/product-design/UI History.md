@@ -6,9 +6,9 @@ authors:
   - Maniub102
 github_id: Maniub102
 tags:
-  - ui
   - design
   - history
+  - ui
 ---
 
 A good user interface should make it possible to complete any task quickly and with enjoyment. The user interface that you see on your MacOS or Windows PC has taken a long time to develop. This essay will briefly examine the changes in computer interface design over the last 30 years.

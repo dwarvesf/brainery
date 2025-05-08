@@ -5,9 +5,9 @@ date: 2024-12-04
 authors:
   - innnotruong
 tags:
-  - newsletter
-  - memo
   - community
+  - memo
+  - newsletter
 ---
 
 - [**Building the team's second brain:**](#building-smarter-systems-with-platform--data-engineering) Progress in platform & data engineering, smarter decision-making, and new directions ahead.

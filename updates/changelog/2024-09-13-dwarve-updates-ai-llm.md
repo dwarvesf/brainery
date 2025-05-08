@@ -5,9 +5,9 @@ date: 2024-09-13
 authors:
   - nikkingtr
 tags:
+  - newsletter
   - team
   - updates
-  - newsletter
 ---
 
 Hello,

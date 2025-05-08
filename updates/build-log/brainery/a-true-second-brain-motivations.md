@@ -7,10 +7,10 @@ authors:
 aliases: 
   - /share/second-brain
 tags:
-  - second-brain
   - knowledge-management
   - pkm
   - productivity
+  - second-brain
 ---
 
 The fundamental drive here is to construct a system capable of **continual learning (CL)**, specifically moving beyond raw **data** towards **information** and **insight**, potentially even touching on **wisdom** as per the **DIKW pyramid**.

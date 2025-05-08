@@ -5,10 +5,10 @@ date: 2022-01-05
 authors:
   - duynglam
 tags:
-  - newsletter
-  - wrap-up
-  - updates
   - doty
+  - newsletter
+  - updates
+  - wrap-up
 ---
 
 Apart from the team's voting result for each title, the team leads also selected the **Honorable Mention** and **Client Endorsed**, as we want to honor all of the hard work.

@@ -7,10 +7,10 @@ authors:
   - tieubao
   - ooohminh
 tags:
-  - techecosystem
   - community
-  - summit
   - market-report
+  - summit
+  - techecosystem
 ---
 
 This year’s Echelon X in Singapore was a bustling hub of innovation, bringing together around 10,000 participants, including 154 speakers, 50 TOP100 startups, investors, corporates, and government agencies from over 35 countries.

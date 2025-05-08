@@ -5,8 +5,8 @@ date: 2020-09-07
 authors:
   - duynglam
 tags:
-  - productivity
   - management
+  - productivity
 ---
 
 ## Minimal human intervention

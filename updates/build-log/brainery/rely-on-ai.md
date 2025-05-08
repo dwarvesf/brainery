@@ -6,8 +6,8 @@ authors:
   - tieubao
   - grok
 tags:
-  - brainery
   - knowledge-base
+  - brainery
 ---
 
 > **tl;dr** Relying on AI can feel like pretending to know, but a second brain helps you internalize knowledge through active curation and connection. Use LLMs for quick insights, then process them in your second brain to truly understand and own what you learn.

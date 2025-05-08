@@ -6,10 +6,10 @@ date: 2022-06-17
 authors:
   - nikkingtr
 tags:
-  - quant
   - blockchain
-  - fintech
   - case-study
+  - fintech
+  - quant
 ---
 
 **Industry**\

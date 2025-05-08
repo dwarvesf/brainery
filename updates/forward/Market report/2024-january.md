@@ -7,14 +7,14 @@ authors:
   - monotykamary
   - zlatanpham
 tags:
-  - labs
-  - market-report
   - ai
-  - rust
-  - frontend
-  - htmx
   - llm
   - cybersecurity
+  - frontend
+  - htmx
+  - labs
+  - market-report
+  - rust
 ---
 
 ## Trends on our radar

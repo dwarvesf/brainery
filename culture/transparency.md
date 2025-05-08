@@ -3,8 +3,8 @@ title: Transparency
 description: The essence of transparency within a company
 date: 2020-05-27
 tags:
-  - transparency
   - culture
+  - transparency
 ---
 
 **How much do you know about this woodland?**

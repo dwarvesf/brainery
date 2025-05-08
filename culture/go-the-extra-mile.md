@@ -12,8 +12,8 @@ authors:
   - tieubao
 pinned: true
 tags:
-  - productivity
   - management
+  - productivity
   - quality
 should_deploy_perma_storage: true
 perma_storage_id: 3W-Sb3cL1yXtJSjG_ffZjSpCnY02z9yv2KpW87E4Ofw

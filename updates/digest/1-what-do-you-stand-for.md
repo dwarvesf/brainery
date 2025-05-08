@@ -6,10 +6,10 @@ date: 2024-04-09
 authors:
   - innnotruong
 tags:
-  - weekly-digest
-  - remote
-  - discord
   - community
+  - digest
+  - discord
+  - remote
 ---
 
 ### Lock in your workspace. Show the world

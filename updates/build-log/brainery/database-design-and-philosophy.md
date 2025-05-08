@@ -5,13 +5,13 @@ date: 2025-05-08
 authors:
   - monotykamary
 tags:
-  - database-design
-  - timescaledb
-  - hypertable
-  - migrationless
-  - llm
-  - pattern-detection
   - continuous-aggregates
+  - database-design
+  - hypertable
+  - pattern-detection
+  - timescaledb
+  - llm
+  - migrationless
   - second-brain
 ---
 

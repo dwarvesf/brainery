@@ -10,8 +10,8 @@ perma_storage_id: 4GVkldu9UdEN5Yaguw79Z5-nBykrQ-YkeGizSV4_rz0
 should_deploy_perma_storage: true
 token_id: 1
 tags:
-  - overleaf
   - llm
+  - overleaf
   - slide
 ---
 

@@ -5,11 +5,11 @@ date: 2025-05-07
 authors:
   - monotykamary
 tags:
-  - second-brain
-  - data-pipeline
-  - llm
-  - timescaledb
   - knowledge-management
+  - timescaledb
+  - llm
+  - data-pipeline
+  - second-brain
 ---
 
 > Prev: [Building use-cases from and for our true second brain](building-use-cases-second-brain.md)

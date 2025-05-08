@@ -6,8 +6,8 @@ authors:
   - huynguyenh
 tags:
   - community
-  - icy
   - dfg
+  - icy
 ---
 
 Follow up on our recent post [[df-protocol-icy-dfg|df protocol, $icy and $dfg]].

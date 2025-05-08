@@ -6,8 +6,8 @@ date: 2023-04-03
 authors:
   - ngolapnguyen
 tags:
-  - ecommerce
   - case-study
+  - ecommerce
 ---
 
 **Industry**\

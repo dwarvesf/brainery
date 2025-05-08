@@ -6,8 +6,8 @@ date: 2020-11-18
 authors:
   - duynglam
 tags:
-  - ride-hailing
   - case-study
+  - ride-hailing
 ---
 
 **Industry**\

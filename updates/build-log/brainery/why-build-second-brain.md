@@ -6,8 +6,8 @@ authors:
   - tieubao
   - grok
 tags:
-  - brainery
   - knowledge-base
+  - brainery
 ---
 
 > **tl;dr** Building a second brain is still worth it, even with AI like LLMs. It curates knowledge tailored to your goals, fuels creativity through active engagement, and works with AI to amplify your thinking, not replace it.

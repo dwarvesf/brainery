@@ -6,9 +6,9 @@ date: 2023-09-14
 authors:
   - huytieu
 tags:
+  - australia
   - case-study
   - enterprise
-  - australia
 ---
 
 **Industry**\

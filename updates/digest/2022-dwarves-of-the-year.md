@@ -6,10 +6,10 @@ authors:
   - innnotruong
   - nikkingtr
 tags:
-  - updates
-  - newsletter
   - doty
+  - newsletter
   - team
+  - updates
 ---
 
 It's been a long journey, but we've finally made it to 2022 and what a year it's been for our team of Dwarves. Countless hours of hard work and it's all paid off with our big wins of the year. Honored for all and huge congratulations to our Dwarves of 2022.

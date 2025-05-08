@@ -9,8 +9,8 @@ authors:
   - nikkingtr
 tags:
   - case-study
-  - marketplace
   - enterprise
+  - marketplace
 ---
 
 **Industry**\

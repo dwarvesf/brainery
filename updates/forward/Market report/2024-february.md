@@ -7,11 +7,11 @@ authors:
   - monotykamary
   - zlatanpham
 tags:
-  - labs
-  - market-report
   - ai
   - llm
   - cybersecurity
+  - labs
+  - market-report
   - serverless
 ---
 

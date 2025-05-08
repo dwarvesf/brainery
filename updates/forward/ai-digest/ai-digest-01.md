@@ -5,11 +5,11 @@ date: 2024-10-25
 authors:
   - datnguyennnx
 tags:
-  - llm
-  - tooling
   - aider
+  - llm
   - cline
-  - realtime-api
+  - real-time
+  - tool
 ---
 
 This week's AI updates are all about making life easier for developers working with agentic tools. **Cline**, formerly known as Claude Dev, just dropped its v2.0.0 update with faster response times and real-time interactions, perfect for streamlining workflows. **OpenAI’s Realtime API** is a game-changer for real-time function chaining and voice-based coding with Ada. And finally, **Aider’s Architect/Editor** split simplifies complex code reasoning, making pair programming smoother than ever.

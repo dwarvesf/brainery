@@ -5,12 +5,12 @@ date: 2025-05-08
 authors:
   - monotykamary
 tags:
+  - catastrophic-forgetting
   - softmax
+  - knowledge-base
   - attention-mechanism
   - llm
   - mcp
-  - knowledge-base
-  - catastrophic-forgetting
   - second-brain
 ---
 

@@ -5,8 +5,8 @@ date: 2020-02-21
 authors:
   - tieubao
 tags:
-  - productivity
   - management
+  - productivity
 ---
 
 Sustainable growth companies are built by teams of shining constellations rather than just several bright stars.

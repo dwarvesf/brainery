@@ -5,8 +5,8 @@ date: 2023-02-16
 authors:
   - tieubao
 tags:
-  - people
   - management
+  - people
 ---
 
 These red flags are things we don’t want to see in our peeps. Even when you think they are improper, don’t waste your time with a wrong group of people.

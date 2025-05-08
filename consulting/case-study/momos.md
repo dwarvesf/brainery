@@ -8,9 +8,9 @@ authors:
   - tieubao
   - nikkingtr
 tags:
-  - fnb
   - case-study
-  - early-stage
+  - fnb
+  - startup
 ---
 
 **Industry**\

@@ -6,8 +6,8 @@ authors:
   - nikkingtr
   - huytieu
 tags:
-  - consulting
   - budgeting
+  - consulting
 ---
 
 ## Budget

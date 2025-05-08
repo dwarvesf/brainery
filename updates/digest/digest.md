@@ -6,11 +6,11 @@ authors:
   - monotykamary
   - innnotruong
 tags:
-  - event
   - community
   - consulting
-  - operations
+  - event
   - learning
+  - operation
 ---
 
 This page holds a collection of both our internal and external events, including the things we do with the Labs team, Consulting team, Operations, team, and the community.

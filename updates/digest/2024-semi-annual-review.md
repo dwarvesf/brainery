@@ -7,9 +7,9 @@ authors:
   - nikkingtr
   - zlatanpham
 tags:
+  - community
   - newsletter
   - team
-  - community
 ---
 
 In the past six months, we've made some pretty impressive strides in testing new standards and adding more automation, activities, and rewards to our Discord server to foster a supportive community among tech lovers.

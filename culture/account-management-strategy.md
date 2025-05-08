@@ -6,8 +6,8 @@ authors:
   - tieubao
   - duynglam
 tags:
-  - management
   - consulting
+  - management
 ---
 
 ### Planning

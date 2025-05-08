@@ -9,8 +9,8 @@ authors:
 pinned: true
 tags:
   - brainery
-  - moc
   - build-log
+  - moc
 ---
 
 ## Data aggregation

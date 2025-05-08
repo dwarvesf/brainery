@@ -7,8 +7,8 @@ authors:
   - duynglam
   - nikkingtr
 tags:
-  - startup
   - case-study
+  - startup
   - us
 ---
 

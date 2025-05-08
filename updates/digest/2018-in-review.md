@@ -6,10 +6,10 @@ authors:
   - tieubao
   - duynglam
 tags:
-  - updates
   - newsletter
-  - wrap-up
   - team
+  - updates
+  - wrap-up
 ---
 
 2018 was the memorable year with lots of achievements.

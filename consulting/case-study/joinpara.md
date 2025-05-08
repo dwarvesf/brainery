@@ -7,8 +7,8 @@ authors:
   - duynglam
   - nikkingtr
 tags:
-  - healthcare
   - case-study
+  - healthcare
   - us
 ---
 

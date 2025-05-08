@@ -5,11 +5,11 @@ date: 2025-05-07
 authors:
   - monotykamary
 tags:
-  - second-brain
-  - knowledge-management
-  - llm
   - database
+  - knowledge-management
   - timescaledb
+  - llm
+  - second-brain
 ---
 
 > Prev: [A true Second brain - Motivations](a-true-second-brain-motivations.md)

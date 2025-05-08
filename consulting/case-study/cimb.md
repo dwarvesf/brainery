@@ -7,8 +7,8 @@ authors:
   - huytieu
   - nikkingtr
 tags:
-  - fintech
   - case-study
+  - fintech
 ---
 
 **Industry**\

@@ -7,8 +7,8 @@ authors:
   - nikkingtr
   - duynglam
 tags:
-  - remote
   - newsletter
+  - remote
   - updates
 ---
 

@@ -5,9 +5,9 @@ date: 2022-05-31
 authors:
   - duynglam
 tags:
-  - newsletter
   - blockchain
   - internship
+  - newsletter
   - updates
 ---
 

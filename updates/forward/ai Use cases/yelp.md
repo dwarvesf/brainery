@@ -6,7 +6,6 @@ authors:
   - datnguyennnx
 tags:
   - llm
-  - yelp
   - use-cases
 ---
 

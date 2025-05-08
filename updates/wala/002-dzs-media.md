@@ -7,8 +7,8 @@ authors:
   - innnotruong
   - monotykamary
 tags:
-  - wala
   - film
+  - wala
 ---
 
 > **Recap:** Our visit to DZS Media, a successful film production company, showed us how another creative industry approaches quality and production. Their meticulous planning, expertise-driven decisions, and commitment to getting things right the first time mirror effective software development principles and reinforce the value of cross-industry learning.

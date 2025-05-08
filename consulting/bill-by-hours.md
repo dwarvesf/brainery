@@ -5,8 +5,8 @@ date: 2024-07-30
 authors:
   - nikkingtr
 tags:
-  - engagement
   - consulting
+  - engagement
 ---
 
 We are all aware of the uncertain economy, as well as the long funding winter in the tech market. These forces have led to companies being extremely cautious with their tech budgeting and resources. We have seen more than enough budget cutdowns and layoff across the tech industry.

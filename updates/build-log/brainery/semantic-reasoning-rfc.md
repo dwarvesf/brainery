@@ -6,18 +6,18 @@ authors:
   - monotykamary
 tags:
   - semantic-reasoning
-  - rfc
-  - concept-embedding
-  - temporal-reasoning
-  - timescaledb
   - pgvector
   - pgvectorscale
   - streamingdiskann
-  - llm
-  - continual-learning
+  - timescaledb
+  - concept-embedding
   - latent-space
+  - llm
   - architecture
+  - continuous-learning
+  - rfc
   - second-brain
+  - temporal-reasoning
 ---
 
 # RFC: Append-only concept embedding log for temporal semantic reasoning

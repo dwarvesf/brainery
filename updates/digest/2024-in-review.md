@@ -5,10 +5,10 @@ date: 2025-01-16
 authors:
   - innnotruong
 tags:
-  - team
-  - wrap-up
   - newsletter
+  - team
   - updates
+  - wrap-up
 ---
 
 > **Before you dive in** Dwarves is operated as a 50% company, 50% community. Everything we learn along the way of work, we transform into knowledge and distribute back to our tech community.
