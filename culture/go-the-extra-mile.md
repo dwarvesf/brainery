@@ -10,6 +10,7 @@ tags:
   - productivity
   - management
   - quality
+should_deploy_perma_storage: true
 ---
 
 A couple days ago, I was asked if I were ever a product person, what would I do to make the best out of it.
