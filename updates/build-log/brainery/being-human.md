@@ -1,5 +1,5 @@
 ---
-title: The point of being human if AI can think
+title: The point of being human if AI can think?
 description: What’s the point of being human if AI thinks for us? Explore how emotions, creativity, relationships, and purpose make humanity unique in an AI-driven world.
 date: 2025-05-06
 authors:

@@ -32,3 +32,7 @@ Another hurdle is **over-relying on AI for decisions**, which dulls our intuitio
 Finally, a tech-driven world can isolate us, **weakening the human connections** that fuel collaboration and joy. Fight this by prioritizing real relationships, meet friends face-to-face, join a local group, or host a gathering to nurture bonds that ground you.
 
 To maintain your edge, **embrace your humanity**. Practice empathy, take creative risks, trust your gut, and align with your values. Use AI to handle routine tasks, freeing you to focus on what makes you human. By cultivating these strengths, you’ll thrive in a world where AI handles patterns, but humans shape meaning.
+
+---
+
+> Next: [Motivations](motivations.md)

@@ -7,6 +7,7 @@ authors:
 aliases:
   - /share/brainery-data-flow
 tags:
+  - brainery
   - data-flow
   - mcp
   - timescaledb
@@ -19,6 +20,7 @@ tags:
 ---
 
 ## 1. Sequence data flow: from Discord/... -> Landing zone -> TimescaleDB
+
 This diagram illustrates how data from Discord, Memo Blog, and GitHub is ingested into TimescaleDB via the MCP server, with the background interface acting as an LLM leveraging the MCP protocol.
 
 ```mermaid

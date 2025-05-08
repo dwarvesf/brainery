@@ -13,6 +13,29 @@ tags:
   - build-log
 ---
 
-## Data aggregation
+## Motivation
 
-tbd
+[[motivations]]
+[[technical-motivations]]
+[[why-build-second-brain]]
+
+## Design
+
+[[architecture]]
+[[database-design-and-philosophy]]
+[[data-flow]]
+[[semantic-reasoning-rfc]]
+[[security-rfc]]
+
+## Using
+
+[[promote-data-to-insight]]
+[[use-cases]]
+[[access-brainery]]
+[[reading]]
+
+## Misc
+
+[[being-human]]
+[[human-edge]]
+[[rely-on-ai]]
