@@ -3,7 +3,7 @@ title: ICY in 2024
 description: "Quick recap about $icy progress and what's next in 2024"
 date: 2023-11-23
 authors:
-  - hnh
+  - huynguyenh
 tags:
   - community
   - icy
