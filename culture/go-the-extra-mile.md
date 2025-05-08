@@ -17,6 +17,7 @@ tags:
   - quality
 should_deploy_perma_storage: true
 perma_storage_id: 3W-Sb3cL1yXtJSjG_ffZjSpCnY02z9yv2KpW87E4Ofw
+should_mint: true
 ---
 A couple days ago, I was asked if I were ever a product person, what would I do to make the best out of it.
 
