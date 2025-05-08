@@ -1,6 +1,6 @@
 ---
-title: 🧠 Brainery
-description: Latest report on how we build our second brain
+title: Brainery 🧠
+description: "The official Brainery build-log. We're detailing our process for creating a 'second brain' designed for continuous learning and insight generation. Covers motivation, system design, and practical data-to-wisdom strategies."
 date: 2025-04-23
 authors:
   - tieubao
@@ -11,31 +11,45 @@ tags:
   - brainery
   - moc
   - build-log
+  - knowledge-management
+  - second-brain
+  - ai
+  - data-to-insight
+  - pkm
 ---
+
+Welcome to the **Brainery build-log**. This is where we're charting our journey in constructing what we call a **'second brain'**. Essentially, it's a sophisticated **knowledge system** we're engineering from the ground up, specifically for **continuous learning**. The core idea is to become highly effective at transforming raw **data into valuable, actionable insights**.
+
+In this log, we'll cover:
+
+* The **foundational motivations** driving this project.
+* The technical details of its **architecture and database design**.
+* Practical applications, focusing on how we **promote data to genuine wisdom**.
+* We'll also touch on some of the broader **philosophical considerations** that inevitably arise when you interface human cognition with **artificial intelligence**.
 
 ## Motivation
 
-[[motivations]]
-[[technical-motivations]]
-[[why-build-second-brain]]
+* [Continual learning DIKW pyramid](dikw-pyramid.md)
+* [Build a brain that never forgets](never-forget.md)
+* [Why build a second brain when AI can think for us?](why-build-second-brain.md)
 
 ## Design
 
-[[architecture]]
-[[database-design-and-philosophy]]
-[[data-flow]]
-[[semantic-reasoning-rfc]]
-[[security-rfc]]
+* [Architecture](architecture.md)
+* [Database design and philosophy](database-design.md)
+* [Data flow in Brainery](data-flow.md)
+* [Append-only concept embedding log](rfc-semantic-reasoning.md)
+* [MCP authorization over SSE](rfc-mcp-security.md)
 
 ## Using
 
-[[promote-data-to-insight]]
-[[use-cases]]
-[[access-brainery]]
-[[reading]]
+* [Promoting raw data to insight](promote-data-to-insight.md)
+* [Building use-cases](use-cases.md)
+* [Access the brainery](access-brainery.md)
+* [Reading after brainery](reading.md)
 
 ## Misc
 
-[[being-human]]
-[[human-edge]]
-[[rely-on-ai]]
+* [The point of being human if AI can think?](being-human.md)
+* [Human edge in AI world](human-edge.md)
+* [Does AI make you pretend to know?](rely-on-ai.md)

@@ -14,7 +14,7 @@ tags:
 
 Our main goal is to build a system that enables **continual learning (CL)**. We want to move beyond basic **data** collection to create meaningful **information** and **insight**, with the potential to reach **wisdom** (following the **DIKW pyramid**).
 
-![DIKW Pyramid](assets/a-true-second-brain-dikw-pyramid.png)
+![DIKW Pyramid](assets/dikw-pyramid.png)
 
 ## The problem with traditional approaches
 

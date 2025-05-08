@@ -35,4 +35,4 @@ To maintain your edge, **embrace your humanity**. Practice empathy, take creativ
 
 ---
 
-> Next: [Motivations](motivations.md)
+> Next: [DIKW Pyramid](dikw-pyramid.md)

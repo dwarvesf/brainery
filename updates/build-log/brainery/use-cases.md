@@ -131,10 +131,12 @@ Each use-case follows the same pattern:
 3. Allow the brain to synthesize new knowledge
 4. Apply the insights to improve decision-making
 
-## Conclusion
+## Wrap
 
 The power of this system lies in its ability to continuously learn and adapt. By maintaining an **append-only log** with flexible data structures, we create a foundation for true machine learning. The system doesn't just store information - it actively synthesizes new knowledge and applies it to improve outcomes.
 
 The key to success is starting with a clear use-case and following the pattern of data ingestion, processing, synthesis, and application. This creates a virtuous cycle where the system gets smarter with each new piece of information it processes.
+
+---
 
 > Next: [Access brainery use-cases](access-brainery.md)

@@ -1,5 +1,5 @@
 ---
-title: Brainery security RFC - MCP authorization over SSE
+title: MCP authorization over SSE
 description: A Request for Comments (RFC) detailing a comprehensive specification for implementing OAuth 2.1 authorization within the Model Context Protocol (MCP) when using Server-Sent Events (SSE) as the transport mechanism, ensuring vendor-neutral security for AI-to-tool communication.
 date: 2025-05-08
 authors:

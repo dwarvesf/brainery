@@ -1,6 +1,6 @@
 ---
-title: Brainery Data Flow
-description: Illustrates the data ingestion and query flows for the Brainery system, detailing how data from sources like Discord, Memo Blog, and GitHub is processed via MCP and stored in TimescaleDB, and how it's queried by an LLM-powered chatbot.
+title: Data flow in Brainery
+description: How data flows through Brainery's second brain system, from Discord, Memo Blog, and GitHub sources to TimescaleDB via MCP, with an LLM-powered interface for natural language queries.
 date: 2025-05-08
 authors:
   - monotykamary
@@ -19,9 +19,11 @@ tags:
   - second-brain
 ---
 
-## 1. Sequence data flow: from Discord/... -> Landing zone -> TimescaleDB
+This guide explains how the Brainery system processes and queries data across multiple sources. We'll explore two main flows: data ingestion and query processing. The system leverages **Model Context Protocol (MCP)** for structured data handling and **TimescaleDB** for efficient time-series storage.
 
-This diagram illustrates how data from Discord, Memo Blog, and GitHub is ingested into TimescaleDB via the MCP server, with the background interface acting as an LLM leveraging the MCP protocol.
+## Data ingestion flow
+
+The ingestion pipeline processes data from multiple sources into a structured, queryable format. Here's how it works:
 
 ```mermaid
 sequenceDiagram
@@ -45,6 +47,8 @@ sequenceDiagram
     MCP-->>BI: Returns success response
 ```
 
+### System components
+
 ```mermaid
 graph TD
     D[Discord<br>#tech] -->|Messages| LZ[Landing Zone<br>GCP S3]
@@ -67,13 +71,26 @@ graph TD
     end
 ```
 
-## Explanation
+### How it works
 
-The flow begins with Discord (e.g., a message in #tech), Memo Blog (e.g., a subscription), and GitHub (e.g., a commit) depositing raw data into the landing zone (GCP S3). The background interface, an LLM instance, monitors the landing zone and initiates processing by sending an MCP request to the MCP server. This request invokes a function (e.g., “parse_and_store”), passing the raw data as input. The MCP server, adhering to the Model Context Protocol, interprets the request, parses the data into a structured payload (e.g., with entities, relations, and tags), and inserts it into the observation_log hypertable in TimescaleDB. The append-only nature is preserved, and the MCP server confirms the insertion back to the background interface, completing the pipeline.
+1. **Data collection**: Raw data flows into the system from three primary sources:
+   - **Discord**: Technical discussions and insights from #tech channel
+   - **Memo Blog**: User actions like subscriptions and content interactions
+   - **GitHub**: Repository activities including commits and issues
 
-## 2. Sequence query flow: from external services/platform -> MCP -> Timescaledb
+2. **Landing zone**: All raw data is initially stored in **GCP S3** buckets in JSON/CSV format, acting as a reliable buffer for incoming data.
 
-This diagram depicts how an external service queries the database through the MCP client (chatbot), an LLM that uses the MCP server to execute actions against TimescaleDB.
+3. **Processing pipeline**:
+   - The **Background Interface** (an LLM instance) monitors the landing zone
+   - When new data arrives, it triggers processing through **MCP requests**
+   - The **MCP Server** parses raw data into structured payloads
+   - Data is stored in TimescaleDB's **observation_log** hypertable
+
+4. **Storage**: TimescaleDB maintains an **append-only** observation log, ensuring data integrity and auditability.
+
+## Query flow
+
+The query flow enables external services to interact with the stored data through an LLM-powered chatbot interface.
 
 ```mermaid
 sequenceDiagram
@@ -90,6 +107,8 @@ sequenceDiagram
     Note over C: Chatbot presents response to user
 ```
 
+### Query architecture
+
 ```mermaid
 graph TD
     C[MCP Client<br>Chatbot LLM] -->|MCP Request: query_db| MCP[MCP Server]
@@ -104,8 +123,35 @@ graph TD
     end
 ```
 
-The sequence starts when an external service or platform (e.g., a user’s chat app) sends a natural language request to the MCP client, a chatbot powered by an LLM. For instance, a user asks, “What’s trending in #tech?” The MCP client interprets this request and constructs an MCP request (e.g., a function call like “query_db”) with a generated SQL query, such as “SELECT * FROM coined_term_trends WHERE bucket >= NOW() - INTERVAL '1 month'”. The MCP server receives this request, executes the specified function, and queries TimescaleDB—either the raw observation_log or a continuous aggregate like coined_term_trends. The database returns the results (e.g., trend data), which the MCP server relays back to the MCP client. The MCP client then uses its LLM capabilities to format the raw data into a natural language response (e.g., “Vibe Coding is trending with 20 mentions this week”) and sends it to the external service, bypassing a traditional frontend.
+### Query process
 
-In the data flow, the background interface operates as an LLM that interacts with the MCP server using the Model Context Protocol. It processes raw data from the landing zone (GCP S3) and relies on the MCP server to handle the insertion logic, ensuring structured payloads are written to TimescaleDB. This aligns with Anthropic’s MCP vision of enabling LLMs to call functions and manage context, here applied to data ingestion.
+1. **Request handling**:
+   - External services send natural language queries to the **MCP Client** (chatbot)
+   - The LLM interprets the request and generates appropriate SQL queries
 
-In the query flow, the MCP client (chatbot) is another LLM instance that uses the MCP server to execute database queries. The MCP server acts as a protocol layer, interpreting function calls from the MCP client and interfacing with TimescaleDB. The chatbot handles both query generation and response formatting, leveraging the MCP protocol to abstract the database interaction.
+2. **Query execution**:
+   - The **MCP Server** receives and validates the query request
+   - Queries are executed against TimescaleDB's **observation_log** or **aggregates**
+   - Results are returned to the MCP Client
+
+3. **Response formatting**:
+   - The LLM formats raw data into natural language responses
+   - Responses are delivered directly to the requesting service
+
+## Key benefits
+
+- **Structured data flow**: The MCP protocol ensures consistent data handling across the system
+- **Scalable storage**: TimescaleDB's hypertable architecture enables efficient time-series data management
+- **Intelligent interface**: LLM-powered chatbot provides natural language access to complex data
+- **Reliable processing**: Append-only logs maintain data integrity and auditability
+
+## Implementation notes
+
+- The **Background Interface** operates as an LLM that uses MCP for data ingestion
+- The **MCP Server** acts as a protocol layer between LLMs and TimescaleDB
+- The system maintains **append-only** logs for data integrity
+- All data transformations are handled through **MCP requests** for consistency
+
+---
+
+> Next: [Promote data to insight](promote-data-to-insight.md)
