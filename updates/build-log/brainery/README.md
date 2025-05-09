@@ -1,5 +1,5 @@
 ---
-title: Brainery 🧠
+title: § Brainery 🧠
 description: "The official Brainery build-log. We're detailing our process for creating a 'second brain' designed for continuous learning and insight generation. Covers motivation, system design, and practical data-to-wisdom strategies."
 date: 2025-04-23
 authors:
@@ -26,6 +26,8 @@ In this log, we'll cover:
 * The technical details of its **architecture and database design**.
 * Practical applications, focusing on how we **promote data to genuine wisdom**.
 * We'll also touch on some of the broader **philosophical considerations** that inevitably arise when you interface human cognition with **artificial intelligence**.
+
+* [Brief through the knowledge base](???)
 
 ## Motivation
 
