@@ -4,14 +4,14 @@ description: 'Contributions by {contributorName}'
 ---
 
 <ContributorHead
-    name={githubData?.name || ''}
-    githubId={githubData?.login || ''}
-    githubLink={githubData?.html_url || ''}
-    websiteLink={githubData?.blog || ''}
-    bio={githubData?.bio || ''}
-    twitterUserName={githubData?.twitter_username || ''}
+    name={contributorProfile?.name || ''}
+    githubId={contributorProfile?.github_username || ''}
+    githubLink={contributorProfile?.github_url || ''}
+    websiteLink={contributorProfile?.websiteLink || ''}
+    bio={contributorProfile?.bio || ''}
+    twitterUserName={contributorProfile?.twitter_username || ''}
     contributorMemos={contributorMemos}
-    avatarUrl={githubData?.avatar_url || ''}
+    avatarUrl={contributorProfile?.avatar || ''}
 />
 
 ## Contributions
