@@ -9,7 +9,7 @@ description: "List of contributors"
     {contributors.map(contributor => (
     <li key={contributor}>
         <Link
-        href={`/contributor/${contributor}`}
+        href={`/contributor/${contributor.toLowerCase()}`}
         className="text-lg"
         >
         {contributor}
