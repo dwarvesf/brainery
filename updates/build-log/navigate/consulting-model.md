@@ -33,7 +33,7 @@ we consult, give advice and get it done.
 
 that's also why some will say consulting is the ppl business. we sell our ppl expertise. it also apply in other business model, but tech consulting is one of the most ...
 
-![[consulting.png]]
+![](assets/consulting.png)
 
 ### consulting model in the age of AI agents
 
@@ -46,7 +46,7 @@ ppl want great experience and that's the thing that consultants have to understa
 
 sure the tech know-how and tech cap. is shifting. AI will be another layer to get things done faster, and the consultants should be the one to know how to leverage them to make decision.
 
-![[recruitment.png]]
+![](assets/recruitment.png)
 
 ---
 

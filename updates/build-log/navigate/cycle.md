@@ -59,8 +59,7 @@ when the market is here, it might be too late for the consulting team, as it tak
 - consumers will start posting review, discuss tips & tricks
 - team don't feel like not interested & relevant to the new narratives
 - team might not be able to build the next type of software
-- team size might shrink as the result of the irrelevant in the divergence, as ref to the team cycle 
-
+- team size might shrink as the result of the irrelevant in the divergence, as ref to the team cycle
 
 ![[team-cycle.png]]
 

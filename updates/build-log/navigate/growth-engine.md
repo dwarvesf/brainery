@@ -29,6 +29,7 @@ we go fully inbound
 ![[content-flywheel.png]]
 
 the system components
+
 - social listening
 - memo
 - brainery
