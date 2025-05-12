@@ -43,4 +43,4 @@ To own your knowledge:
 
 ---
 
-> Next: [Motivations](motivations.md)
+> Next: [Continual learning DIKW pyramid](dikw-pyramid.md)
