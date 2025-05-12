@@ -16,7 +16,9 @@ tags:
 perma_storage_id: skv0aCQ2qqeaoihHhR9ymXeumD8VwoSuXYDNKrW6Cdc
 minted_at: '2025-05-12'
 token_id: '3'
----Focus on shipping when you are struggling with what to do next to be better as a software engineer. When you ship something new, users will try out your build and give you feedback. It may contain bugs. It may ship with the wrong flow implemented. It may ship with known issues. You may feel bad but and frustrated but those emotions will save you ton of time. The point is: Users will let you know.
+---
+
+Focus on shipping when you are struggling with what to do next to be better as a software engineer. When you ship something new, users will try out your build and give you feedback. It may contain bugs. It may ship with the wrong flow implemented. It may ship with known issues. You may feel bad but and frustrated but those emotions will save you ton of time. The point is: Users will let you know.
 
 Stop overthinking. All the myths about software quality and stuff will reveal when someone uses your product. The workflow your team applies, and stop thinking about the architecture, new library, or framework you saw on hacker news last week, etc. doesn’t matter.
 
