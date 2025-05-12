@@ -5,6 +5,7 @@ date: 2023-02-04
 authors:
   - tieubao
 pinned: true
+should_deploy_perma_storage: true
 tags:
   - productivity
   - quality
