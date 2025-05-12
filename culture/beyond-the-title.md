@@ -4,6 +4,7 @@ description: "We want to make impacts or influence people in some ways. That doe
 date: 2021-02-19
 authors:
   - tieubao
+should_deploy_perma_storage: true
 tags:
   - productivity
 ---

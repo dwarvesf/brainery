@@ -4,6 +4,7 @@ description: null
 date: 2023-02-16
 authors:
   - tieubao
+should_deploy_perma_storage: true
 tags:
   - culture
   - people

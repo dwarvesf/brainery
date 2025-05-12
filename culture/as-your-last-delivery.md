@@ -4,6 +4,7 @@ description: Your last work shapes what people notice most, whether it’s a stu
 date: 2025-06-24
 authors:
   - tieubao
+should_deploy_perma_storage: true
 tags:
   - culture
   - productivity

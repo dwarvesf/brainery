@@ -4,6 +4,7 @@ description: 'In a recent post I wrote "Inner Circle", I expounded on the import
 date: 2023-01-31
 authors:
   - tieubao
+should_deploy_perma_storage: true
 tags:
   - performance
   - productivity
