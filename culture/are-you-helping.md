@@ -1,13 +1,14 @@
 ---
-title: Are you helping?
+title: 'Are you helping?'
 description: 'In a recent post I wrote "Inner Circle", I expounded on the importance of contribution and value in relation to a person''s work or performance.'
-date: 2023-01-31
+date: 2023-01-31T00:00:00.000Z
 authors:
-  - tieubao
+  - 'tieubao'
 should_deploy_perma_storage: true
 tags:
-  - performance
-  - productivity
+  - 'performance'
+  - 'productivity'
+perma_storage_id: 'WxB72egTI0dSAt1LPrTLFj9LYIozOnx19gNizA6EBMQ'
 ---
 
 In today's competitive business environment, it is crucial for organizations to have a clear understanding of the value and performance of their employees. In a recent post I wrote, titled "[Inner Circle](the-inner-circle.md)", I expounded on the importance of contribution and value in relation to a person's work or performance. However, there is another key aspect to this topic that must be taken into consideration. One of the most effective ways to determine how well a person is performing is by asking the question, "**Are you helping?**" Through evaluating the output of an individual's work, we can gain a clear understanding of how much value they are providing and how well they are performing.

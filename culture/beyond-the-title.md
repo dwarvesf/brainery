@@ -1,12 +1,13 @@
 ---
-title: Beyond the title
-description: "We want to make impacts or influence people in some ways. That doesn't happen if we wait for the right moment because there isn't. Taking the shot means opening the door to mistakes and failures, and that's a good thing. We learn from them."
-date: 2021-02-19
+title: 'Beyond the title'
+description: 'We want to make impacts or influence people in some ways. That doesn''t happen if we wait for the right moment because there isn''t. Taking the shot means opening the door to mistakes and failures, and that''s a good thing. We learn from them.'
+date: 2021-02-19T00:00:00.000Z
 authors:
-  - tieubao
+  - 'tieubao'
 should_deploy_perma_storage: true
 tags:
-  - productivity
+  - 'productivity'
+perma_storage_id: 'fq18sduTOl4opng_UQ5knJa5R5acSoxPFF4W-PPWvOw'
 ---
 
 ## The common dilemma

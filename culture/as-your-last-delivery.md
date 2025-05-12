@@ -1,13 +1,14 @@
 ---
-title: Your last work is what counts
-description: Your last work shapes what people notice most, whether it’s a sturdy app or a wobbly update. This article explores staying aware and motivated to deliver meaningful work, especially in software, through practical steps and team support.
-date: 2025-06-24
+title: 'Your last work is what counts'
+description: 'Your last work shapes what people notice most, whether it’s a sturdy app or a wobbly update. This article explores staying aware and motivated to deliver meaningful work, especially in software, through practical steps and team support.'
+date: 2025-06-24T00:00:00.000Z
 authors:
-  - tieubao
+  - 'tieubao'
 should_deploy_perma_storage: true
 tags:
-  - culture
-  - productivity
+  - 'culture'
+  - 'productivity'
+perma_storage_id: 'XBTMaZOQBPLJ9GIqn-IM0LGkVIaXh1BWs_NfZRf_w4s'
 ---
 
 Picture building a Lego tower every day. People love your towers, but they talk about the last one you made. If it’s sturdy, they’re thrilled. If it wobbles, that’s what they notice. This article is about that idea: **your last work matters most right now**. Everyone has off days, maybe from burnout or routine. It’s not just about feeling down; it’s about noticing and getting back to work you’re proud of. In software, where every update shapes user trust, this keeps a team sharp. **What makes you want to build your best tower?**
