@@ -5,6 +5,7 @@ date: 2025-03-12T00:00:00.000Z
 authors:
   - 'zlatanpham'
 should_deploy_perma_storage: true
+should_mint: true
 tags:
   - 'performance'
   - 'fintech'

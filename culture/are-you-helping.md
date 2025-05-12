@@ -5,6 +5,7 @@ date: 2023-01-31T00:00:00.000Z
 authors:
   - 'tieubao'
 should_deploy_perma_storage: true
+should_mint: true
 tags:
   - 'performance'
   - 'productivity'

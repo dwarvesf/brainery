@@ -5,6 +5,7 @@ date: 2021-02-19T00:00:00.000Z
 authors:
   - 'tieubao'
 should_deploy_perma_storage: true
+should_mint: true
 tags:
   - 'productivity'
 perma_storage_id: 'fq18sduTOl4opng_UQ5knJa5R5acSoxPFF4W-PPWvOw'
