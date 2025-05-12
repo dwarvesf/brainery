@@ -4,6 +4,7 @@ description: Discover the technical strategies behind optimizing a Binance tradi
 date: 2025-03-12
 authors:
   - zlatanpham
+should_deploy_perma_storage: true
 tags:
   - performance
   - fintech

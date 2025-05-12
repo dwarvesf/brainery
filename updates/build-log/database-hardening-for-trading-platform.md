@@ -4,9 +4,9 @@ description: Discover how a trading platform mitigated database access risks, en
 date: 2025-01-02
 authors:
   - zlatanpham
+should_deploy_perma_storage: true
 tags:
   - database
-  - blockchain
   - fintech
   - security
 ---
