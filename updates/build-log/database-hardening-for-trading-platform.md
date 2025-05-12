@@ -11,6 +11,8 @@ tags:
   - 'fintech'
   - 'security'
 perma_storage_id: '27V6W54hZO-tqFDL6IYhAJ6gzHmYzST3yPyTUIMwiYM'
+minted_at: '2025-05-12'
+token_id: '13'
 ---
 
 ## Introduction
