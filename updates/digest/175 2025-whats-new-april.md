@@ -1,6 +1,6 @@
 ---
 title: "What's new in April 2025"
-description: "In June, we expanded our knowledge base on software design, LLMs, and blockchain, while actively encouraging knowledge-sharing through increased ICY rewards. Our Vietnam Tech Scene report highlighted key industry players, and weekly OGIF talks fostered discussions on diverse tech topics like design patterns, data modalities, and blockchain architecture."
+description: "In April, we expanded our knowledge base on software design, LLMs, and blockchain, while actively encouraging knowledge-sharing through increased ICY rewards. Our Vietnam Tech Scene report highlighted key industry players, and weekly OGIF talks fostered discussions on diverse tech topics like design patterns, data modalities, and blockchain architecture."
 date: 2025-05-12
 authors:
   - innnotruong
@@ -12,12 +12,12 @@ tags:
 
 In April, we leveled up Memo from a write-up space into a real knowledge hub. Our internal agent stack became more usable with updated MCP docs, and internal knowledge flows, from consulting to hiring were cleaned up and made easier to share. Highlights from the month at a glance:
 
-- **Switching to Vietnamese boosted social reach:** With no paid ads, content views jumped 912.1%. Standouts were the March Frontend Report and the guide on selecting vector DBs for LLM apps.
-- **Memo got reorganized, easier to read and contribute to:** Content is grouped by topic, key sections are pinned, and contributor info is live. Publishing also runs on checklists.
-- **We cleaned up how our internal tools fit together:** MCP Playbook got documented, prompts are now synced centrally, and team chats are starting to turn into reusable knowledge blocks in Brain db.
-- **Consulting delivery aligns better with hiring and external plans:** The delivery structure is now synced with BD and hiring signals. A pilot program is being prepped to support developers in NGO/NPO projects.
-- **Making internal output more visible and reusable:** Engineering and market updates now live in one place. Monthly build logs and learning notes help track growth.
-- **Updated handbook to reflect how we really work:** Clearer company vision, role focus split, and refreshed policies for side projects, moonlighting, and open-source support.
+- [**Switching to Vietnamese boosted social reach:**](#vietnamese-content-strategy-picked-up-real-traction) With no paid ads, content views jumped 912.1%. Standouts were the March Frontend Report and the guide on selecting vector DBs for LLM apps.
+- [**Memo got reorganized, easier to read and contribute to:**](#memo-got-a-clearer-structure-contributor-profiles-and-a-better-publishing-flow) Content is grouped by topic, key sections are pinned, and contributor info is live. Publishing also runs on checklists.
+- [**We cleaned up how our internal tools fit together:**](#clarifying-our-internal-agent-stack-with-mcp-docs-and-brain-db-syncing) MCP Playbook got documented, prompts are now synced centrally, and team chats are starting to turn into reusable knowledge blocks in Brain db.
+- [**Consulting delivery aligns better with hiring and external plans:**](#aligning-consulting-delivery-with-hiring-signals-and-new-partnership-pilots) The delivery structure is now synced with BD and hiring signals. A pilot program is being prepped to support developers in NGO/NPO projects.
+- [**Making internal output more visible and reusable:**](#making-internal-work-more-visible-and-reusable-across-the-board) Engineering and market updates now live in one place. Monthly build logs and learning notes help track growth.
+- [**Updated handbook to reflect how we really work:**](#updated-handbook-to-reflect-how-we-work-today) Clearer company vision, role focus split, and refreshed policies for side projects, moonlighting, and open-source support.
 
 ![thumbnail](assets/2025-whats-new-april-thumbnail.png) 
 
