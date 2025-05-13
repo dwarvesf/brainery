@@ -1,5 +1,5 @@
 ---
-title: "MCP Playbook Documentation"
+title: "Understanding and using the MCP playbook"
 description: "An index and introduction to the mcp-playbook server documentation series, covering its purpose, setup, and operational flows."
 date: 2025-05-13
 authors:
@@ -14,8 +14,6 @@ tags:
   - runbook
   - knowledge-management
 ---
-
-# Understanding and using the MCP playbook
 
 Welcome to the documentation series for the **MCP (Model Context Protocol) Playbook server**. This collection of documents aims to provide a comprehensive understanding of the `mcp-playbook`, from its conceptual motivations and high-level data flows to detailed setup instructions and internal code architecture.
 
