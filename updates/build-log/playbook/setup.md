@@ -18,6 +18,8 @@ tags:
 
 The `mcp-playbook` server enhances your AI-assisted development workflow by providing tools to manage documentation and synchronize knowledge. This guide will show you how to set it up, focusing on the recommended Docker-based deployment.
 
+![MCP playbook demo](assets/mcp-playbook-demo.gif)
+
 ## Prerequisites
 
 *   **Docker installed:** Ensure Docker Desktop or Docker Engine is installed and running on your system. You can download it from [Docker's official website](https://www.docker.com/products/docker-desktop/). Otherwise, we recommend using [Orbstack](https://orbstack.dev/) for better performance.

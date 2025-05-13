@@ -34,7 +34,7 @@ By providing tools like `create_spec`, `create_adr`, and `create_changelog`, `mc
 
 ## The runbook: An unforeseen and welcome evolution
 
-While we had the concept of a "playbook" – a set of strategies or methods – we didn't have a formalized `runbook`. A runbook, in our context, is a living repository of operational knowledge, best practices, troubleshooting guides, and common procedures.
+While we had the concept of a "playbook", a set of strategies or methods, we didn't have a formalized `runbook`. A runbook, in our context, is a living repository of operational knowledge, best practices, troubleshooting guides, and common procedures.
 
 The introduction of `mcp-playbook` inadvertently highlighted the need for such a resource. As the AI, guided by `mcp-playbook` tools, started generating documentation and interacting with project data, patterns began to emerge:
 *   Reusable solutions to common problems.
