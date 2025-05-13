@@ -20,14 +20,4 @@ description: 'Contributions by {contributorName}'
 
 ## Posts by categories
 
-{contributorMemosByFolder && Object.keys(contributorMemosByFolder).length > 0 && (
-    <div className="flex flex-col">
-        {Object.entries(contributorMemosByFolder).map(([tag, memos]) => (
-                <MemoTimelineList
-                    key={tag}
-                    title={tag}
-                    data={memos}
-                />
-        ))}
-    </div>)
-}
+<MemosByCategory data={contributorMemos} />
