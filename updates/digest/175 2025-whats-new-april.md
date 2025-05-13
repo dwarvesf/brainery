@@ -1,6 +1,6 @@
 ---
 title: "What's new in April 2025"
-description: "In April, we expanded our knowledge base on software design, LLMs, and blockchain, while actively encouraging knowledge-sharing through increased ICY rewards. Our Vietnam Tech Scene report highlighted key industry players, and weekly OGIF talks fostered discussions on diverse tech topics like design patterns, data modalities, and blockchain architecture."
+description: "In April, we reorganized Memo into a clearer knowledge hub, made internal tools easier to adopt with MCP documentation, and aligned consulting delivery with hiring signals. Our shift to Vietnamese content on social media sparked strong engagement, while weekly team efforts continued to surface insights through build logs and learning highlights."
 date: 2025-05-12
 authors:
   - innnotruong
