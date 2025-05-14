@@ -14,6 +14,10 @@ description: 'Contributions by {contributorName}'
     avatarUrl={contributorProfile?.avatar || ''}
 />
 
-## Contributions
+## Recently published
 
-<MemoVList data={contributorMemos} hideAuthors hideThumbnail showTags max={5}/>
+<MemoTimelineList data={contributorMemos.slice(0, 7)} />
+
+## By categories
+
+<MemosByCategory data={contributorMemos} />
