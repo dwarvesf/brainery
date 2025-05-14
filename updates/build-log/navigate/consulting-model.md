@@ -1,5 +1,5 @@
 ---
-title: Our consulting model
+title: Consulting model
 description: This document looks at our consulting model. It shows how we act as strategic partners to meet market demands and give real value.
 date: 2025-05-09
 authors:
@@ -10,7 +10,7 @@ tags:
   - business-model
 ---
 
-> **tl;dr** Our consulting model helps us navigate market shifts by meeting client demands with tech expertise and a human touch. We design, build, and guide solutions, staying proactive by spotting trends early.
+> **tl;dr** Understand consulting model helps us navigate market shifts, it works by meeting client demands with tech expertise and a human touch. We design, build, and guide solutions, staying proactive by spotting trends early.
 
 Market shifts can change what clients need overnight. One day they’re asking for blockchain solutions, the next they’re all about AI agents. To keep up, we need a consulting model that’s flexible and focused on delivering real value.
 
@@ -22,14 +22,14 @@ At its core, our consulting model is about connecting market demand with our tea
 
 #### What kicks things off
 
-- **Funding.** Clients or projects with capital to invest in new tech solutions, like a startup with a fresh Series A round.  
-- **Owners.** People or teams with an idea they want to bring to life, like a company looking to integrate AI agents into their operations.  
+- **Funding.** Clients or projects with capital to invest in new tech solutions, like a startup with a fresh Series A round.
+- **Owners.** People or teams with an idea they want to bring to life, like a company looking to integrate AI agents into their operations.
 
 #### What we deliver
 
-- **The design.** We create a blueprint for the solution, mapping out how it’ll work.  
-- **The build.** We develop the solution, turning the design into reality.  
-- **The manual guides.** We provide the knowledge to use and maintain the solution, ensuring clients can keep it running smoothly.  
+- **The design.** We create a blueprint for the solution, mapping out how it’ll work.
+- **The build.** We develop the solution, turning the design into reality.
+- **The manual guides.** We provide the knowledge to use and maintain the solution, ensuring clients can keep it running smoothly.
 
 Our team’s tech skills make this happen. Clients come to us because they trust us to build better, faster, and often cheaper than they could on their own. We’re a people business, sharing our expertise to get things done.
 
@@ -37,9 +37,9 @@ Here’s how the process looks in action:
 
 ![](assets/consulting.webp)
 
-- **Clients.** It starts with clients who need a tech solution, like a company wanting to automate customer service with AI agents.  
-- **Account.** We assign an account team to understand their needs and goals, building a relationship based on trust.  
-- **Production.** Our production team steps in to design, build, and deliver the solution, working closely with the client to make sure it hits the mark.  
+- **Clients.** It starts with clients who need a tech solution, like a company wanting to automate customer service with AI agents.
+- **Account.** We assign an account team to understand their needs and goals, building a relationship based on trust.
+- **Production.** Our production team steps in to design, build, and deliver the solution, working closely with the client to make sure it hits the mark.
 
 This workflow keeps us focused on delivering value while staying flexible to market shifts.
 

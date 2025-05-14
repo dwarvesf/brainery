@@ -27,7 +27,9 @@ In this log, we'll cover:
 * Practical applications, focusing on how we **promote data to genuine wisdom**.
 * We'll also touch on some of the broader **philosophical considerations** that inevitably arise when you interface human cognition with **artificial intelligence**.
 
-* [Brief through the knowledge base](???)
+> [Brief through the knowledge base](https://github.com/dwarvesf/handbook/blob/master/knowledge-base.md)
+
+![](assets/architecture.png)
 
 ## Motivation
 

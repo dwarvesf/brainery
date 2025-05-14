@@ -1,95 +1,68 @@
----
-title: On LLMs
-description: Learn how LLMs are changing tech and where we can step in. This guide explores their impact on interaction, software, business, and learning, plus opportunities for our consulting team.
-date: 2025-05-09
-authors:
-  - tieubao
-tags:
-  - navigate
-  - market-changes
-  - llms
----
 
-<details>
-<summary><strong>Table of contents</strong></summary>
-
-<!-- Begin ToC -->
-
-- [TL;DR](#tldr)
-- [Why LLMs matter for us](#why-llms-matter-for-us)
-- [Changes in human-machine interaction](#changes-in-human-machine-interaction)
-- [Changes in software making](#changes-in-software-making)
-- [Changes in businesses](#changes-in-businesses)
-- [Changes in org structure](#changes-in-org-structure)
-- [Changes in learning](#changes-in-learning)
-- [Opportunities for our consulting team](#opportunities-for-our-consulting-team)
-- [How to prepare](#how-to-prepare)
-
-<!-- End ToC -->
-
-</details>
-
-### TL;DR
-
-LLMs are reshaping how we interact with tech, build software, run businesses, and learn. We can help clients design AI agents, build creator tools, and use LLMs as a collaborative tool, not a replacement.
-
-### Why LLMs matter for us
-
-LLMs are a game-changer, and as a consulting team, we need to understand their impact to stay ahead. Building on our growth engine, where we spot trends like AI advancements, and our market thesis, where we bet on tech like LLMs, this guide explores how they’re shifting the tech landscape. By diving in, we can offer consulting services that help clients leverage LLMs, keeping us at the forefront of this wave.
+There's a separate MOCs in `topics/` that you can take a look.
+This page discuss the nature of this technology and area that it will impacts. Hence we point out the part where we can join in.
 
 ### Changes in human-machine interaction
 
-LLMs make talking to machines easier than ever. You don’t need to be a programmer or learn a coding language anymore. Now, natural language is the interface, something everyone can use. For example, a client can say, “Build me a chatbot,” and an LLM can help us draft the code in minutes.
+Now to control the machine, you don't have to be programmer, to learn programming language to talk to it. The abstraction layer goes up one more level. Natural language is a great interface that everyone can use.
 
-This works because of data vector embedding. Instead of matching exact words, LLMs compare ideas in a multi-dimensional space (called latent space) to understand meaning. It takes more computing power, but it opens up tech to more people, which is a big win for accessibility.
+The core technique is the data vector embedding. Instead of comparing by exact matching bits by bits, now we compare vectors of multiple dimensions in their latent space. Going up one level in abstraction requires more computing power, but will bring more joy to the mass.
 
 ### Changes in software making
 
-LLMs are speeding up how we build software. Before, code completion tools could only suggest a line or two. Now, LLMs can autocomplete entire blocks, files, or even features based on what you ask for. For instance, on a recent project, we used an LLM to draft a user authentication system in hours instead of days, letting us focus on fine-tuning.
+It brings better code completion. Back then if we can only complete phrase or sentence, now it can help to autocomplete a whole block of code, an entire file, a feature or even a codebase; based on the given input.
 
-From a data perspective, LLMs store knowledge as vectors, not rigid databases. This means they can pull patterns from messy, unstructured data, like customer feedback or project notes, helping us spot trends faster and build better software.
+Now as software programmer, you can talk to the computer more efficient.
+
+Data wise
 
 ### Changes in businesses
 
-LLMs are taking business productivity to new levels. They can extract patterns from huge amounts of data, almost like querying a database with a prompt. For example, a client might ask, “What do my customers think about my product?” An LLM can analyze reviews and give a detailed summary, saving weeks of manual work.
+Information completion is reaching a huge new level, where patterns can be extracted. If you look at it as a software, then a prompt you input into it is like a query into that latent space. It will vomit the closet vector that it knows.
 
-With LLMs, almost anything can be controlled through natural language. AI agents with reasoning skills can even make decisions, like scheduling meetings or drafting reports. This means we can automate tasks that were too complex before, boosting efficiency by a huge margin.
+With help from LLM and another abstraction level, now almost everything can be control thru the natural language interface. AI model with reasoning ability can help us to make decision at certain level.
+
+Productivity spike up. Let's say of 95% works that we cannot automate before because of the pattern haven't been encoded in the database, now it can be presented as vectors.
 
 ### Changes in org structure
 
-LLMs are changing how companies are built. In the past, we needed big teams to handle repetitive tasks like data entry or report drafting. Now, AI agents can take over those jobs. For example, a marketing team might use an agent to write social media posts, freeing up staff for creative work.
+Back then we build large scale company because we need people to stay in their position/role to do their job. Mostly input data, make changes, draft response and report. Now they can be handled by agents thanks to the help from LLM.
 
-This shift creates two paths. Big companies can grow into megacorps, handling more work with fewer people. Or, they can downsize and let agents handle the repetitive stuff. At the same time, LLMs make it easier for small teams, like micro-companies or solopreneurs, to compete with larger firms by automating key tasks.
+Now to keep the same size, the org has to move up to become a megacorp, to handle more works.
+Or they can just resize the org, and offload the repetitive work to agents.
+
+There will be more micro-company, solopreneur. Corps have to upscale to become megacorp.
 
 ### Changes in learning
 
-LLMs can learn, think, and make decisions at a basic level, and they’re getting better every day. This is great, but it comes with a challenge. Relying too much on them can dull our problem-solving skills and weaken human connections. For instance, if we always ask an LLM for answers, we might stop thinking critically ourselves.
+Like [martial art and gun](), LLM can gain new knowledge, think and make decision at certain level. Getting better everyday. It makes us want to lean on them, dulls our intuition and problem-solving, weaken human connections.
 
-The trick is to use LLMs as a collaborative tool, not a replacement. We can lean on them for quick insights, like summarizing a tech article, but still practice our own problem-solving to keep our skills sharp. It’s about finding the right balance.
+This challenge require an ability to find a right guidance in learning and practicing to make it our collab tool, instead of our replacement.
 
-### Opportunities for our consulting team
+### The opportunities
 
-LLMs open up exciting ways for us to help clients and grow our expertise. Here’s where we can step in:
+As everyone will want to have their agents, work and personal
 
-- **Design and deploy AI agents.** Companies want custom agents for work tasks, like customer support bots, and we can help build them.  
-- **Create personal agents.** We can build free or premium agents for individuals, like a personal assistant that schedules your day.  
-- **Build creator tools.** We can contribute to systems that power LLMs, like models, prompts, agents, IDEs, or platform ops tools.  
-- **Support founders.** Small teams can use LLMs to prototype fast, and we can help them validate ideas and compete with bigger firms.  
-- **Compete on experience.** AI teams will race to build better agents, but we can stand out by offering the best user experience, like seamless agent integration.  
+- We can help companies to design and deploy their agents.
+- We can build free or premium agents for personal use.
 
-This ties into our work in test the water, where we validate new services, and gives us a chance to lead in this space.
+For creator tooling, we can contribute in system that power:
 
-### How to prepare
+- model
+- prompt
+- agent
+- ide
+- platform ops
 
-To make the most of LLMs, we need to build the right skills and tools. Here’s what to focus on:
+For founders, it will be fast to build prototype and validate new idea. Small team can now use agents to compete with corps.
 
-- Learn to write clear prompts to get the best results from LLMs.  
-- Understand how to design and build agent-driven systems, like a chatbot network.  
-- Know how to manage messages and resources between agents and systems.  
-- Build tools to create, test, and run prompts, models, and agents.  
+AI team can compete with each other by having a better agents. Or can compete on providing better experience for the user.
 
-For example, we might develop a tool to test LLM prompts for a client project, ensuring the agent responds accurately. This keeps us ready to offer top-notch consulting services as LLMs grow.
+### To prepare
 
----
-
-> Next: [Keep it sharp](keep-sharp.md)
+- Know how to write prompt.
+- Know how to architect and build agentic-driven system.
+- Know how to dispatch message, resources between agents and systems.
+- Toolset to create, test and run prompts.
+- Toolset to create, test and run models.
+- Toolset to create, test and run agents.

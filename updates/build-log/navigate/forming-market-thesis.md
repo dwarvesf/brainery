@@ -38,6 +38,13 @@ Once a pulse catches our attention, from data or gut feel, we need to dig deeper
 
 It's this mix, initial signal spot, deep-dive questions, and strategic thought, that helps us move from "huh, that's interesting" to "okay, this might be a serious thesis."
 
+3. The upside
+
+what can we make with this new tech?
+what do customers want with this new tech?
+can we implement them?
+how long does it take?
+
 ### Monitor social signals
 
 The tech world always buzzes. Builders constantly create these "tiny pulses," new ideas, projects, and companies. Some fade fast, but a few grow into big waves that change how we work and live. Think of it as a constant flow of possibilities. Right now, we see a lot of energy around areas like advanced AI automation, changes in platform operations (DevSecOps, LLMOps), the slow but steady move of blockchain into more common financial uses, and the setup for spatial computing. The key isn't to chase every pulse, but to check them against the thesis we build.
