@@ -1,7 +1,7 @@
 ---
 title: Inefficiency arbitrage
 description: Discover how Dwarves use inefficiency arbitrage to spot and solve client tech gaps. Learn practical ways to find opportunities and deliver value.
-date: 2025-05-09
+date: 2025-05-14
 authors:
   - tieubao
 tags:
@@ -59,10 +59,10 @@ This turns leads into partners. The e-commerce client now relies on us for ongoi
 
 Inefficiency arbitrage has two sides: **upside** (consulting) and **downside** (arbitration).
 
-- **Upside: Consulting for growth**  
+- **Upside: Consulting for growth**
   Consulting drives growth by transforming systems. It’s like adding a turbocharger to a client’s business. We built an AI fraud detection system for a fintech client, saving millions yearly. It needs heavy upfront work (design, pilots) but delivers big wins, like new revenue or market edge.
 
-- **Downside: Arbitration for savings**  
+- **Downside: Arbitration for savings**
   Arbitration cuts costs by optimizing systems. It’s like patching a leaky tire. We saved the fintech client $4K monthly by streamlining APIs. It requires ongoing tweaks but offers quick savings, freeing budget for innovation.
 
 Both matter. Start/with downside wins (cost cuts) to gain trust, then pitch upside projects (AI systems) for impact.
