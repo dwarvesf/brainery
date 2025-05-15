@@ -1,6 +1,6 @@
 ---
 title: Client delivery and soft skills
-description: "Learn key soft skills for software consulting: deliver on time, understand client goals, present well, build trust, and uncover hidden insights for lasting success."
+description: "Key soft skills for software consulting: deliver on time, understand client goals, present well, build trust, and uncover hidden insights for lasting success."
 date: 2025-05-15
 authors:
   - tieubao
