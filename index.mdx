@@ -13,62 +13,67 @@ Written by Dwarves for product craftsmen.
 
 Learned by engineers. Experimented by engineers.
 
-## 💡 OGIFs
+<If condition={ogifMemos?.length > 0}>
+  ## 💡 OGIFs
+  <MemoVLinkList data={ogifMemos} hideDate color="secondary" />
+</If>
 
-<MemoVLinkList data={ogifMemos} hideDate color="secondary" />
+<If condition={newMemos?.length > 0}>
+  ## ✨ New memos
+  <MemoVList data={newMemos} hideDate />
+</If>
 
-## ✨ New memos
+<If condition={teamMemos?.length > 0}>
+  ## 🧑‍💻 Life at Dwarves
+  <MemoVList data={teamMemos} hideAuthors hideThumbnail />
+</If>
 
-<MemoVList data={newMemos} hideDate />
+<If condition={changelogMemos?.length > 0}>
+  ## 📝 Changelog
+  <MemoVLinkList data={changelogMemos} />
+</If>
 
-## 🧑‍💻 Life at Dwarves
-
-<MemoVList data={teamMemos} hideAuthors hideThumbnail />
-
-## 📝 Changelog
-
-<MemoVLinkList data={changelogMemos} />
-
-## 🤝 Open positions
-
-<MemoVList data={hiringMemos} hideAuthors hideThumbnail hideDate />
+<If condition={hiringMemos?.length > 0}>
+  ## 🤝 Open positions
+  <MemoVList data={hiringMemos} hideAuthors hideThumbnail hideDate />
+</If>
 
 <div className="love-watch-we-are-doing">
-    <h2 >
+  <h2>
     Love what we are doing?
-    </h2>
-    <ul>
+  </h2>
+  <ul>
     <li>
-        <a
+      <a
         href="https://discord.gg/dfoundation"
         className="text-primary text-sm"
-        >
+      >
         🩷 Join our Discord Network →
-        </a>
+      </a>
     </li>
     <li>
-        <a
+      <a
         href="https://github.com/dwarvesf/playground"
         className="!text-primary text-sm"
-        >
+      >
         🔥 Contribute to our Memo →
-        </a>
+      </a>
     </li>
     <li>
-        <a
+      <a
         href="https://careers.d.foundation/"
         className="text-primary text-sm"
-        >
+      >
         🤝 Join us, we are hiring →
-        </a>
+      </a>
     </li>
     <li>
-        <a
+      <a
         href="http://memo.d.foundation/earn/"
         className="text-primary text-sm"
-        >
+      >
         🙋 Give us a helping hand →
-        </a>
+      </a>
     </li>
-    </ul>
+  </ul>
 </div>
