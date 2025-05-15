@@ -6,6 +6,8 @@ authors:
   - tieubao
 tags:
   - consulting
+  - delivery
+  - soft-skill
 ---
 
 > **tl;dr** Nail software consulting with these soft skills: ship quality work on time, get the client’s true motivations, present with impact, keep relationships strong, own your last delivery, check in at 3/6 months, and find hidden insights to stay their go-to partner.
@@ -14,7 +16,7 @@ Consulting is more than coding or designing apps. It's about people, trust, and 
 
 ## Release on time with expected quality control
 
-First up, you have to deliver on time with the quality clients expect. This is the one technical must-have for consultants. Before anything else, presentations, relationships, you need to ship a product that works, meets requirements, and stays within budget and schedule. Miss this, and trust crumbles. Clients rely on timely, high-quality delivery to hit their goals, like launching a product to boost sales.
+First up, you have to **deliver on time** with the quality clients expect. This is the one technical must-have for consultants. Before anything else, presentations, relationships, you need to ship a product that works, meets requirements, and stays within budget and schedule. Miss this, and trust crumbles. Clients rely on timely, high-quality delivery to hit their goals, like launching a product to boost sales.
 
 To get it right, start with a clear plan. Define timelines and quality standards in the contract, such as delivering a system by a set date with specific performance metrics. Break work into manageable chunks, like short Agile sprints, to ship pieces regularly and stay on track. Tools like project management software help monitor progress. For quality, use automated testing to catch issues early and involve clients in final testing to ensure the product feels right. If risks arise, like a delayed integration, flag them early and propose solutions. This transparency sets expectations and keeps everyone aligned.
 
@@ -24,7 +26,7 @@ This delivers value by driving client outcomes, like improved efficiency, and en
 
 ## Understand the client's motivation
 
-Soft skills shine when you dig into why a client wants a project. Beyond the official goals or feature lists, there's a deeper motivation, like hitting a revenue target, impressing stakeholders, or supporting Artisan Global's mission to empower creators. A small business might want to streamline operations to save costs, while a startup might aim to wow investors. These motivations vary by client type and can shift with market changes or new priorities.
+Soft skills shine when you dig into why a client wants a project. Beyond the official goals or feature lists, **there's a deeper motivation**, like hitting a revenue target, impressing stakeholders, or a good will of accomplishing something. A small business might want to streamline operations to save costs, while a startup might aim to wow investors. These motivations vary by client type and can shift with market changes or new priorities.
 
 To uncover this, ask questions early, like what success looks like for them. Keep checking in, as their why might evolve mid-project. This helps you deliver value by aligning work to their core goals. For example, if a client needs investor buzz, focus on a polished interface over backend tweaks. It also builds trust by showing you get their bigger picture, which is key to stakeholder engagement.
 
@@ -55,6 +57,8 @@ Clients judge you by your latest work. One stellar delivery, and you're their he
 Treat every project as a chance to prove yourself. Focus on quality through rigorous testing and early client feedback. Learn from past projects: if a previous client loved your clear process, repeat it. If something failed, like misaligned goals, fix it with better planning. Document lessons in a shared tool to avoid mistakes. Add small, scoped extras, like a minor feature, to impress, but clarify it's a one-off to manage expectations.
 
 Ask about the last delivery. What clients valued most, like quick responses or a specific feature, can guide future work to keep your reputation strong.
+
+More at: [Your last work is what counts](https://github.com/dwarvesf/brainery/blob/main/culture/as-your-last-delivery.md)
 
 ## Per delivery, 3 months and 6 months
 
