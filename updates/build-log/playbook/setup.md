@@ -1,6 +1,6 @@
 ---
 title: "Setting up the MCP playbook server"
-description: "A step-by-step tutorial on configuring and running the mcp-playbook server, including GitHub token creation and Docker authentication for ghcr.io."
+description: "A step-by-step tutorial on configuring and running the mcp-playbook server, including GitHub token creation and using npx."
 date: 2025-05-13
 authors:
   - monotykamary
@@ -8,29 +8,28 @@ tags:
   - mcp-playbook
   - setup
   - tutorial
-  - docker
+  - npx
   - github-token
-  - ghcr.io
   - mcp
 ---
 
-> **tl;dr** This tutorial walks you through generating a GitHub Personal Access Token (PAT) with `read:packages` and `write:packages` scopes, logging into Docker with this PAT for `ghcr.io` using `--password-stdin`, and configuring your MCP client (e.g., Claude Desktop) to use the `mcp-playbook` Docker image.
+> **tl;dr** This tutorial walks you through generating a GitHub Personal Access Token (PAT) with `repo` and `write:packages` scopes, and configuring your MCP client (e.g., Claude Desktop) to use the `mcp-playbook` server via `npx`.
 
-The `mcp-playbook` server enhances your AI-assisted development workflow by providing tools to manage documentation and synchronize knowledge. This guide will show you how to set it up, focusing on the recommended Docker-based deployment.
+The `mcp-playbook` server enhances your AI-assisted development workflow by providing tools to manage documentation and synchronize knowledge. This guide will show you how to set it up using `npx`.
 
 ![MCP playbook demo](assets/mcp-playbook-demo.gif)
 
 ## Prerequisites
 
-*   **Docker installed:** Ensure Docker Desktop or Docker Engine is installed and running on your system. You can download it from [Docker's official website](https://www.docker.com/products/docker-desktop/). Otherwise, we recommend using [Orbstack](https://orbstack.dev/) for better performance.
+*   **Node.js and npm installed:** Ensure Node.js (which includes npm) is installed on your system. You can download it from [Node.js official website](https://nodejs.org/).
 *   **GitHub account:** You'll need a GitHub account to create a Personal Access Token.
 *   **MCP client:** An application that can use MCP servers, such as Claude Desktop, Cursor, or a compatible LLM environment.
 
 ## Step 1: Create a GitHub personal access token (PAT)
 
-The `mcp-playbook` Docker image is hosted on GitHub Container Registry (`ghcr.io`). To pull this image and for the server to interact with GitHub repositories (like `dwarvesf/prompt-log`, `dwarvesf/prompt-db`, and `dwarvesf/runbook`), you need a Personal Access Token (PAT) with appropriate permissions.
+The `mcp-playbook` server interacts with GitHub repositories (like `dwarvesf/prompt-log`, `dwarvesf/prompt-db`, and `dwarvesf/runbook`) and potentially GitHub Packages. For these interactions, you need a Personal Access Token (PAT) with appropriate permissions.
 
-1.  **Navigate to GitHub token settings:** 
+1.  **Navigate to GitHub token settings:**
     *   Go to your GitHub account settings.
     *   In the left sidebar, click **Developer settings**.
     *   Then, click **Personal access tokens**, and select **Tokens (classic)**.
@@ -40,13 +39,11 @@ The `mcp-playbook` Docker image is hosted on GitHub Container Registry (`ghcr.io
     ![Generate PAT token](assets/generate-token.png)
 
 2.  **Configure token scopes:**
-    *   **Note:** Give your token a descriptive name, e.g., `mcp-playbook-ghcr`.
+    *   **Note:** Give your token a descriptive name, e.g., `mcp-playbook-access`.
     *   **Expiration:** Set an appropriate expiration period for your token.
     *   **Select scopes:**
-        *   For pulling Docker images from `ghcr.io` and allowing `mcp-playbook` to push to it (if ever needed for custom images, though primarily for reading official ones) and interacting with package registries:
-            *   Select `write:packages` (this includes `read:packages`).
-        *   For `mcp-playbook` tools that interact with repositories (e.g., `save_and_upload_chat_log`, `sync_prompt`, `suggest_runbook`):
-            *   Select `repo` (Full control of private repositories). This is a broad permission; ensure you are comfortable with it or manage access via more granular fine-grained tokens if your organization uses them and `mcp-playbook` supports them in the future. For classic tokens, `repo` is often necessary for full tool functionality.
+        *   `repo`: Essential for `mcp-playbook` tools that interact with your code repositories (e.g., `save_and_upload_chat_log`, `sync_prompt`, `suggest_runbook`). This scope grants full control of private repositories.
+        *   `write:packages`: This scope (which includes `read:packages`) allows interaction with GitHub Packages. While not strictly required for all current core features, it's recommended for potential future capabilities of `mcp-playbook` or if specific tools need to manage or access packages in GitHub's package registry.
 
     ![PAT token permissions](assets/pat-token-permissions.png)
 
@@ -56,68 +53,24 @@ The `mcp-playbook` Docker image is hosted on GitHub Container Registry (`ghcr.io
 
     ![Generated PAT token](assets/generated-pat-token.png)
 
-## Step 2: Authenticate Docker with GitHub container registry
+## Step 2: Configure your MCP client
 
-Now, you need to log in to `ghcr.io` using Docker so you can pull the `mcp-playbook` image. Using `--password-stdin` is recommended for security as it avoids saving your PAT in shell history or displaying it on screen.
-
-1.  **Open your terminal or command prompt.**
-2.  **Store your PAT in an environment variable (optional but recommended for this method):**
-    You can temporarily store your PAT in an environment variable. Be mindful of your shell's history if you type this directly.
-
-    ```bash
-    export PAT="your_github_pat_here" 
-    ```
-    Replace `"your_github_pat_here"` with the actual PAT you copied in Step 1.
-
-3.  **Run the Docker login command:**
-    Use your GitHub username and pipe the PAT to the `--password-stdin` flag.
-
-    ```bash
-    echo $PAT | docker login ghcr.io -u YOUR_GITHUB_USERNAME --password-stdin
-    ```
-    Alternatively, if you didn't set the `PAT` environment variable, you can paste the token directly after `echo` (ensure no extra spaces or newlines if pasting, though using the variable is safer):
-    ```bash
-    echo your_github_pat_here | docker login ghcr.io -u YOUR_GITHUB_USERNAME --password-stdin
-    ```
-    Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username.
-
-    ![Login success](assets/ghcr-docker-login-succeed.png)
-
-    If successful, you should see a `Login Succeeded` message.
-
-4.  **(Optional) Unset the PAT environment variable if you used it:**
-    If you stored the PAT in an environment variable for the command, it's good practice to unset it after the login is complete, especially if it was set directly in an interactive terminal session.
-    ```bash
-    unset PAT
-    ```
-
-## Step 3: Configure your MCP client
-
-The final step is to tell your MCP client (e.g., Claude Desktop, Cursor) how to run the `mcp-playbook` server. The server will run as a Docker container, using the PAT for authentication.
+The final step is to tell your MCP client (e.g., Claude Desktop, Cursor) how to run the `mcp-playbook` server. The server will be run using `npx`, using the PAT for GitHub authentication.
 
 1.  **Find your MCP client's configuration settings:**
     This varies by application. For example, in Claude Desktop, you might find a JSON configuration file or a settings UI for MCP servers.
 
 2.  **Add the `mcp-playbook` server configuration:**
-    You'll need to add a JSON object similar to the following. Replace `your_github_token_here` with the actual PAT you generated.
+    You'll need to add a JSON object similar to the following. Replace `your_github_token_here` with the actual PAT you generated in Step 1.
 
     ```json
     {
       "mcpServers": {
         "mcp-playbook": {
-          "command": "docker",
-          "args": [
-            "run",
-            "-i",
-            "--rm",
-            "--pull=always",
-            "-e",
-            "GITHUB_PERSONAL_ACCESS_TOKEN", // This makes the token available inside the container
-            "ghcr.io/dwarvesf/mcp-playbook:latest"
-          ],
+          "command": "npx",
+          "args": ["-y", "@dwarvesf/mcp-playbook"],
           "env": {
-            // This ensures the PAT is correctly passed to the 'docker run -e' command
-            "GITHUB_PERSONAL_ACCESS_TOKEN": "your_github_token_here" 
+            "GITHUB_PERSONAL_ACCESS_TOKEN": "your_github_token_here"
           }
         }
       }
@@ -125,14 +78,12 @@ The final step is to tell your MCP client (e.g., Claude Desktop, Cursor) how to 
     ```
 
     **Explanation of parameters:**
-    *   `"command": "docker"`: Tells the client to use Docker.
+    *   `"command": "npx"`: Tells the client to use `npx` to run the package.
     *   `"args"`:
-        *   `"run", "-i", "--rm"`: Standard Docker flags to run interactively and remove the container when it exits.
-        *   `"--pull=always"`: Ensures you always get the latest version of the image.
-        *   `"-e", "GITHUB_PERSONAL_ACCESS_TOKEN"`: This is the crucial part that makes the environment variable named `GITHUB_PERSONAL_ACCESS_TOKEN` available *inside* the Docker container. The `mcp-playbook` application running inside the container will read this environment variable.
-        *   `"ghcr.io/dwarvesf/mcp-playbook:latest"`: The path to the Docker image.
+        *   `"-y"`: Skips confirmation when `npx` installs the package.
+        *   `"@dwarvesf/mcp-playbook"`: The name of the package to execute.
     *   `"env"`:
-        *   `"GITHUB_PERSONAL_ACCESS_TOKEN": "your_github_token_here"`: This is an instruction for the *MCP client itself*. It tells the client: "When you construct the Docker command, replace the placeholder for the `GITHUB_PERSONAL_ACCESS_TOKEN` environment variable in the `args` with this actual token value."
+        *   `"GITHUB_PERSONAL_ACCESS_TOKEN": "your_github_token_here"`: This makes the GitHub PAT available as an environment variable to the `mcp-playbook` server process. The server will use this token to authenticate with GitHub for operations like saving chat logs or suggesting runbook entries.
 
 3.  **Add the initialization prompt (if required by your client):**
     Some clients might require you to specify an initialization prompt in their rules to ensure the `mcp-playbook` tools are recognized. The recommended prompt is:
@@ -144,26 +95,26 @@ The final step is to tell your MCP client (e.g., Claude Desktop, Cursor) how to 
 
     ![MCP Client](assets/mcp-client.png)
 
-## Step 4: Test the setup
+## Step 3: Test the setup
 
 1.  **Restart your MCP client** to ensure it picks up the new configuration.
 2.  **Attempt to use an `mcp-playbook` tool.** A simple test is to ask your AI assistant to run the `init_playbook` tool.
-    For example: "MCP Playbook, initialize yourself." or trigger a tool call for `init_playbook` directly.
+    For example: \"MCP Playbook, initialize yourself.\" or trigger a tool call for `init_playbook` directly.
 
-If the setup is correct, the MCP client should start the Docker container, and the `mcp-playbook` server inside the container should respond. You should see output in your MCP client's logs or the AI's response indicating the `init_playbook` instruction.
+If the setup is correct, the MCP client should execute the `npx` command, and the `mcp-playbook` server should start and respond. You should see output in your MCP client\'s logs or the AI\'s response indicating the `init_playbook` instruction.
 
 ## Troubleshooting
 
-*   **Docker pull errors:**
-    *   Ensure you have successfully run `docker login ghcr.io` with the correct PAT.
-    *   Check that your PAT has the `read:packages` scope (included in `write:packages`).
-    *   Verify your internet connection.
-*   **Container not starting or exiting immediately:**
-    *   Check the Docker logs for the container if possible.
+*   **`npx` command not found / errors during execution:**
+    *   Ensure Node.js and npm are correctly installed and that their installation directory is in your system's PATH.
+    *   Try running `npx -y @dwarvesf/mcp-playbook --version` (if the package supports a version flag) or a simple command like `npx cowsay hello` in your terminal to check if `npx` is working.
+    *   Check for error messages in your MCP client's logs or terminal output when the command is run.
+*   **Server not starting or exiting immediately:**
     *   Ensure the `GITHUB_PERSONAL_ACCESS_TOKEN` is correctly passed in the MCP client configuration. The `mcp-playbook` server needs this token to operate fully.
+    *   Check for any error messages from Node.js or the `mcp-playbook` script itself.
 *   **Tools failing (e.g., cannot save chat log):**
-    *   Confirm your PAT has the `repo` scope for repository interactions.
-    *   Ensure the `target_project_dir` you are using in your tool calls is an absolute path and accessible by the Docker container (if volume mounting is used, though the provided command doesn't explicitly mount volumes, meaning file operations occur within the container unless `target_project_dir` points to a mounted volume configured elsewhere). *For the default setup provided, `target_project_dir` will be paths inside the container, which isn't usually what's desired for persistent local file changes. Advanced users might map local directories into the container.*
-    *   For `save_and_upload_chat_log`, ensure the `userId` and `editorType` are correctly specified.
+    *   Confirm your PAT has the `repo` (and potentially `write:packages`) scope for repository and package interactions.
+    *   Ensure the `target_project_dir` you are using in your tool calls is an absolute path and accessible by the user running the MCP client (and thus the `npx` command).
+    *   For `save_and_upload_chat_log`, ensure the `userId` (and `editorType` if applicable) are correctly specified.
 
-You have now successfully set up the `mcp-playbook` server! You can leverage its tools to automate documentation, manage chat logs, and interact with your team's knowledge base more effectively.
+You have now successfully set up the `mcp-playbook` server! You can leverage its tools to automate documentation, manage chat logs, and interact with your team\'s knowledge base more effectively.

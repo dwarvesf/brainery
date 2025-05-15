@@ -49,7 +49,7 @@ This documentation and the `mcp-playbook` server itself are primarily for:
 
 Explore the following documents to learn more:
 
-*   **[Setting up the MCP playbook server](./setup.md)**: A step-by-step tutorial on configuring and running the `mcp-playbook` server, including GitHub token creation and Docker authentication for `ghcr.io`.
+*   **[Setting up the MCP playbook server](./setup.md)**: A step-by-step tutorial on configuring and running the `mcp-playbook` server, including GitHub token creation and usage with `npx`.
 *   **[MCP playbook: Automating knowledge from AI interactions to a living runbook](./automating-knowledge.md)**: Discusses the motivations behind the `mcp-playbook`, its role in establishing a dynamic runbook, and new patterns for capturing AI-generated knowledge.
 *   **[Data flow in MCP playbook](./data-flow.md)**: An overview of how data flows through the `mcp-playbook` server, from MCP client requests to tool execution and interactions with the file system and GitHub.
 *   **[MCP playbook code and data flow](./code-flow.md)**: A more detailed look into the `mcp-playbook`'s internal code flow, data handling for chat logs and prompts, and interactions with GitHub repositories like `prompt-db` and `prompt-log`.
