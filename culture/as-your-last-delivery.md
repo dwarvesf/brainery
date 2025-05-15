@@ -1,7 +1,7 @@
 ---
 title: 'Your last work is what counts'
 description: 'Your last work shapes what people notice most, whether it’s a sturdy app or a wobbly update. This article explores staying aware and motivated to deliver meaningful work, especially in software, through practical steps and team support.'
-date: 2025-06-24T00:00:00.000Z
+date: 2024-06-24
 authors:
   - 'tieubao'
 should_deploy_perma_storage: true

@@ -1,5 +1,5 @@
 ---
-title: Client side and agency side
+title: Client-side and agency-side
 description: Get the scoop on consulting and product companies in tech. Find out what ascertain their roles, perks, and how to win clients.
 date: 2025-05-14
 authors:
