@@ -6,7 +6,6 @@ authors:
   - tieubao
   - monotykamary
   - nikkingtr
-hide_title: true
 tags:
   - consulting
 ---
@@ -21,5 +20,22 @@ FROM vault
 WHERE file_path ILIKE '%consulting%'
   OR ['partners', 'consulting'] && tags
 ORDER BY date DESC
-LIMIT 10;
+LIMIT 5;
 ```
+
+## Key articles for consultants
+
+- [Organize consultant team](build-consultant-team.md): How to set up and run the team well.
+- [Inefficiency arbitrage](inefficiency-arbitrage.md): Find and make money from things that aren't working right in the market.
+- [Engagement models](engagement-models.md): Different ways to work with clients.
+- [On deal making](deal-making.md): Tips for closing deals successfully.
+- [Setting the budget](setting-the-budget.md): How to figure out and handle project money.
+- [Client delivery and soft skills](client-delivery.md): How to do great work for clients and get along with people.
+- [Service feedbacks](service-feedbacks.md): How to get and use feedback from clients to get better.
+- [Client-side and Agency-side](client-side-agency-side.md): What it's like being a client vs. being an agency.
+- [Partner network](partners-network.md): Build connections with others you work with.
+- [Navigate through changes](navigate/README.md): Help the team deal with changes.
+
+---
+
+> Next: [Organize consultant team](build-consultant-team.md)
