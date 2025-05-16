@@ -19,6 +19,9 @@ tags:
 
 The `mcp-playbook` server enhances your AI-assisted development workflow by providing tools to manage documentation and synchronize knowledge. This guide will show you how to set it up using `npx`.
 
+- [https://github.com/dwarvesf/mcp-playbook](https://github.com/dwarvesf/mcp-playbook)
+- [https://www.npmjs.com/package/@dwarvesf/mcp-playbook](https://www.npmjs.com/package/@dwarvesf/mcp-playbook)
+
 ![MCP playbook demo](assets/mcp-playbook-demo.gif)
 
 ## Prerequisites
@@ -70,7 +73,7 @@ The final step is to tell your MCP client (e.g., Claude Desktop, Cursor) how to 
       "mcpServers": {
         "mcp-playbook": {
           "command": "npx",
-          "args": ["-y", "@dwarvesf/mcp-playbook"],
+          "args": ["-y", "@dwarvesf/mcp-playbook@latest"],
           "env": {
             "GITHUB_PERSONAL_ACCESS_TOKEN": "your_github_token_here"
           }

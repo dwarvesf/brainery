@@ -17,7 +17,8 @@ tags:
 
 Welcome to the documentation series for the **MCP (Model Context Protocol) Playbook server**. This collection of documents aims to provide a comprehensive understanding of the `mcp-playbook`, from its conceptual motivations and high-level data flows to detailed setup instructions and internal code architecture.
 
-- [MCP-Playbook repository](https://github.com/dwarvesf/mcp-playbook)
+- [https://github.com/dwarvesf/mcp-playbook](https://github.com/dwarvesf/mcp-playbook)
+- [https://www.npmjs.com/package/@dwarvesf/mcp-playbook](https://www.npmjs.com/package/@dwarvesf/mcp-playbook)
 
 The `mcp-playbook` is a specialized server designed to empower AI assistants (like those in Claude Desktop, Cursor, Zed, and other LLM environments) with tools to systematically manage project documentation, capture valuable AI interaction data, and interact with our collective knowledge bases.
 
