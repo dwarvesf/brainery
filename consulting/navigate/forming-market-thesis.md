@@ -12,7 +12,9 @@ tags:
   - decision-making
 ---
 
-> **tl;dr;** Forming a market thesis means spotting trends with data and gut feel, asking if they fit our strengths and market potential, and monitoring signals. Past bets like Golang show how we position for the next wave.
+> **tl;dr;**
+>
+> Forming a market thesis means spotting trends with data and gut feel, asking if they fit our strengths and market potential, and monitoring signals. Past bets like Golang show how we position for the next wave.
 
 Figure out where the market heads and how we fit in; that's the core of a market thesis. Think of it like a bet, but a really serious one. It's not a wild gamble. It's a firm belief that takes a lot of groundwork, time, and team effort to see through. Get it right, and we position ourselves for the next wave. Get it wrong, and well, we learn.
 

@@ -13,7 +13,9 @@ tags:
   - mcp
 ---
 
-> **tl;dr** This tutorial walks you through generating a GitHub Personal Access Token (PAT) with `repo` and `write:packages` scopes, and configuring your MCP client (e.g., Claude Desktop) to use the `mcp-playbook` server via `npx`.
+> **tl;dr**
+>
+> This tutorial walks you through generating a GitHub Personal Access Token (PAT) with `repo` and `write:packages` scopes, and configuring your MCP client (e.g., Claude Desktop) to use the `mcp-playbook` server via `npx`.
 
 The `mcp-playbook` server enhances your AI-assisted development workflow by providing tools to manage documentation and synchronize knowledge. This guide will show you how to set it up using `npx`.
 

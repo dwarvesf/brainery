@@ -10,7 +10,9 @@ tags:
   - soft-skill
 ---
 
-> **tl;dr** Nail software consulting with these soft skills: ship quality work on time, get the client’s true motivations, present with impact, keep relationships strong, own your last delivery, check in at 3/6 months, and find hidden insights to stay their go-to partner.
+> **tl;dr**
+>
+> Nail software consulting with these soft skills: ship quality work on time, get the client’s true motivations, present with impact, keep relationships strong, own your last delivery, check in at 3/6 months, and find hidden insights to stay their go-to partner.
 
 Consulting is more than coding or designing apps. It's about people, trust, and delivering value that hits the client's goals. After years of working with clients, from startups to enterprises, we've learned that soft skills make the difference. It's not just about tech. It's about listening, communicating, and staying aware of what clients really need. These values are our hard-earned common sense, the standards we live by to keep clients happy. From shipping on time to uncovering hidden motivations, here's how we nail client delivery and manage expectations.
 

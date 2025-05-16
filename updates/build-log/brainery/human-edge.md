@@ -10,7 +10,9 @@ tags:
   - brainery
 ---
 
-> **tl;dr** Humans excel in **empathy**, **creativity**, **intuition**, and **purpose**, outshining AI in emotional and meaningful tasks. To maintain this edge, create authentic work, practice unplugged problem-solving, and prioritize real connections.
+> **tl;dr**
+>
+> Humans excel in **empathy**, **creativity**, **intuition**, and **purpose**, outshining AI in emotional and meaningful tasks. To maintain this edge, create authentic work, practice unplugged problem-solving, and prioritize real connections.
 
 The **human edge** lies in our ability to **feel**, **create**, **connect**, and **find purpose**, qualities AI can’t replicate. While AI excels at **pattern-driven tasks** like data analysis or automation, humans shine in **emotional intelligence**, **intuitive leaps**, **authentic creativity**, and **ethical reasoning**. Here’s a clear look at our strengths, the challenges we face, and how to overcome them.
 

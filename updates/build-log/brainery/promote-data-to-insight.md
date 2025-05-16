@@ -13,7 +13,9 @@ tags:
   - second-brain
 ---
 
-> **tl;dr** We turn raw **data** into actionable **insight** and lasting **knowledge** using a multi-stage pipeline with **supporting systems**, **TimescaleDB**, and **LLMs**.
+> **tl;dr**
+>
+> We turn raw **data** into actionable **insight** and lasting **knowledge** using a multi-stage pipeline with **supporting systems**, **TimescaleDB**, and **LLMs**.
 
 We've got data. Lots of it. Streaming in from everywhere: Hacker News, our CRM, token usage logs, project reports. That's great. But raw **data** by itself? It's mostly noise. We can't make decisions from a raw server log any more than we can build a rocket from unrefined ore. The real magic happens when we transform that raw stream into actionable **insight**, and eventually, into persistent **knowledge** within our **true second brain**. This is the pipeline that makes our brain actually intelligent.
 

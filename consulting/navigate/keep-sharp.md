@@ -1,16 +1,18 @@
 ---
 title: Keep it sharp
-description: Learn how to maintain our tech edge and delivery quality. This guide shows you how to stay ahead in consulting by building know-how, experimenting, and sharing knowledge.  
-date: 2025-05-09  
-authors:  
-  - tieubao  
-tags:  
-  - navigate  
-  - consulting  
-  - tech-edge  
+description: Learn how to maintain our tech edge and delivery quality. This guide shows you how to stay ahead in consulting by building know-how, experimenting, and sharing knowledge.
+date: 2025-05-09
+authors:
+  - tieubao
+tags:
+  - navigate
+  - consulting
+  - tech-edge
 ---
 
-> tl;dr To stay sharp, we build our tech edge by distilling know-how from experiments, setting clear goals, and participating in hands-on projects like hackathons. We reflect on what we learn, improve our workflows, and share knowledge through shadowing, ensuring our team delivers top-quality consulting services for new tech.
+> tl;dr
+>
+> To stay sharp, we build our tech edge by distilling know-how from experiments, setting clear goals, and participating in hands-on projects like hackathons. We reflect on what we learn, improve our workflows, and share knowledge through shadowing, ensuring our team delivers top-quality consulting services for new tech.
 
 ---
 
@@ -56,8 +58,8 @@ Map this back to our consulting model, where we design, build, and guide. For ex
 
 Next, dive in and get hands-on experience to build use cases we can share with clients. Here’s how:
 
-- **Build with others.** Join open-source projects or hackathons to collaborate and learn, like contributing to an AI agent framework or building a prototype.  
-- **Run your own experiment.** Create a small project, like an AI chatbot for a mock client, often at low cost to reduce risk while earning reputation for the team.  
+- **Build with others.** Join open-source projects or hackathons to collaborate and learn, like contributing to an AI agent framework or building a prototype.
+- **Run your own experiment.** Create a small project, like an AI chatbot for a mock client, often at low cost to reduce risk while earning reputation for the team.
 
 For example, joining a hackathon to build an AI agent prototype gives us experience we can showcase to clients, proving we know the tech inside out.
 
@@ -67,10 +69,10 @@ After experimenting, reflect on what you learned to keep our edge sharp. Here’
 
 ![](assets/maintain-edge.webp)
 
-- **Experiment.** Try out the tech, like building that AI agent prototype.  
-- **Reflect.** Look at what worked and what didn’t. Maybe the AI agent was great at answering questions but struggled with complex requests.  
-- **Improve.** Create new tools or workflows based on your insights, like a checklist for testing AI agents before deployment.  
-- **Repeat.** Keep this cycle going to stay ahead.  
+- **Experiment.** Try out the tech, like building that AI agent prototype.
+- **Reflect.** Look at what worked and what didn’t. Maybe the AI agent was great at answering questions but struggled with complex requests.
+- **Improve.** Create new tools or workflows based on your insights, like a checklist for testing AI agents before deployment.
+- **Repeat.** Keep this cycle going to stay ahead.
 
 This process turns experiments into practical tools and insights, boosting our consulting quality for the whole team.
 
@@ -82,9 +84,9 @@ Shadowing means pairing a newbie with someone skilled in the new tech. For examp
 
 ![](assets/delivery-02.webp)
 
-- **Pair up.** The experienced team member leads, while the newbie observes and helps.  
-- **Work together.** They tackle a task, like designing an AI agent for a client, with the newbie learning by doing.  
-- **Spread knowledge.** Over time, the newbie gains confidence and can handle similar tasks on their own.  
+- **Pair up.** The experienced team member leads, while the newbie observes and helps.
+- **Work together.** They tackle a task, like designing an AI agent for a client, with the newbie learning by doing.
+- **Spread knowledge.** Over time, the newbie gains confidence and can handle similar tasks on their own.
 
 This hands-on approach ensures our team’s delivery quality stays high. Everyone gets up to speed faster, and we maintain a consistent level of expertise across projects.
 

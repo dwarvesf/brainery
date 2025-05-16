@@ -11,13 +11,16 @@ tags:
   - competency
 ---
 
-> tl;dr Ensure team competency: assess collective know-how, ask forward-looking questions, stay **relevant** in tech cycles, and onboard passionate learners.
+> tl;dr
+>
+> Ensure team competency: assess collective know-how, ask forward-looking questions, stay **relevant** in tech cycles, and onboard passionate learners.
 
 In tech consulting, our team’s competency is what keeps us in the game, and it’s all about our **collective tech know-how**. We’re not talking about individual performance reviews here, this is about how we, as a whole, stay on top of the tech world’s constant shifts. By asking the right questions and building a team of passionate learners, we ensure we’re always ready for the next big thing. Here’s how we can assess and improve our team’s competency to avoid falling behind.
 
 ## Assess with simple leading questions
 
 Our **competency check is about staying relevant**, and it starts with asking simple, forward-looking questions.
+
 - Is there a new paradigm we need to understand?
 - Where’s the tech scene moving?
 - Can we build the latest software with confidence?
@@ -38,3 +41,7 @@ One of the best ways to stay ahead is to build a team of people who are **passio
 ## Squad up and stay sharp
 
 We’ve got a simple plan to keep our team’s competency on point! By asking **forward-looking questions**, staying ahead of **tech cycles**, and building a team of **passionate learners**, we ensure our **squad stays relevant**. Let’s keep checking and growing so we never fall behind.
+
+---
+
+> Next: [Business correction](business-correction.md)

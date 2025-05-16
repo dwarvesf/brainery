@@ -17,7 +17,9 @@ tags:
   - second-brain
 ---
 
-> **tl;dr** Brainery gets data from sources like Discord and GitHub into a **Landing Zone**, processes it via **MCP** and **LLMs**, and stores it in the **TimescaleDB observation_log**. **MCP** also lets you query this data easily.
+> **tl;dr**
+>
+> Brainery gets data from sources like Discord and GitHub into a **Landing Zone**, processes it via **MCP** and **LLMs**, and stores it in the **TimescaleDB observation_log**. **MCP** also lets you query this data easily.
 
 This guide explains how the Brainery system processes and queries data across multiple sources. We'll explore two main flows: data ingestion and query processing. The system leverages **Model Context Protocol (MCP)** for structured data handling and **TimescaleDB** for efficient time-series storage.
 

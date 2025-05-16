@@ -12,7 +12,9 @@ tags:
   - strategy
 ---
 
-> **tl;dr**: Inefficiency arbitrage means spotting client tech gaps (like outdated systems) and fixing them with expertise. Our consulting model drives growth (upside) and savings (downside), helping us find opportunities and win clients fast.
+> **tl;dr**
+>
+> Inefficiency arbitrage means spotting client tech gaps (like outdated systems) and fixing them with expertise. Our consulting model drives growth (upside) and savings (downside), helping us find opportunities and win clients fast.
 
 What’s the trick to turning a client’s tech mess into gold? At Dwarves, we call it **inefficiency arbitrage**, a way to find gaps in a client’s systems or processes and fix them with smart tech solutions.
 

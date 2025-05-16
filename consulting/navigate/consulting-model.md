@@ -10,7 +10,9 @@ tags:
   - business-model
 ---
 
-> **tl;dr** Understand consulting model helps us navigate market shifts, it works by meeting client demands with tech expertise and a human touch. We design, build, and guide solutions, staying proactive by spotting trends early.
+> **tl;dr**
+>
+> Understand consulting model helps us navigate market shifts, it works by meeting client demands with tech expertise and a human touch. We design, build, and guide solutions, staying proactive by spotting trends early.
 
 Market shifts can change what clients need overnight. One day they’re asking for blockchain solutions, the next they’re all about AI agents. To keep up, we need a consulting model that’s flexible and focused on delivering real value.
 

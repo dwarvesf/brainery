@@ -11,7 +11,9 @@ tags:
   - service
 ---
 
-> **tl;dr**: We fix stuff for product companies. Consulting gigs give you variety and growth; product jobs focus on one system. We win clients by spotting issues and delivering, all with a service mindset.
+> **tl;dr**
+>
+> We fix stuff for product companies. Consulting gigs give you variety and growth; product jobs focus on one system. We win clients by spotting issues and delivering, all with a service mindset.
 
 Heard about agency-client stuff in marketing? It’s a big deal in tech too, just with a different vibe. Consulting companies (like us) and product companies (think fintechs or retailers) team up in ways that shape your job and projects. This isn’t about ads, it’s about fixing systems and solving problems. Let’s break it down, answer your questions, and show you how we do things in tech.
 

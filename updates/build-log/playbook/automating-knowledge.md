@@ -14,7 +14,9 @@ tags:
   - chat-logs
 ---
 
-> **tl;dr** The MCP Playbook was born from the need to systematically capture and share knowledge in AI-assisted development. It not only automates documentation but also spurred the creation of our runbook and established new practices for saving valuable AI interaction data like chat logs and prompts, all fostering a more automated and accessible knowledge ecosystem.
+> **tl;dr**
+>
+> The MCP Playbook was born from the need to systematically capture and share knowledge in AI-assisted development. It not only automates documentation but also spurred the creation of our runbook and established new practices for saving valuable AI interaction data like chat logs and prompts, all fostering a more automated and accessible knowledge ecosystem.
 
 The way we build software is evolving, especially with the increasing integration of Artificial Intelligence into our daily workflows. While AI offers unprecedented speed and capabilities, it also presents new challenges in how we capture, share, and manage the knowledge generated during these processes. This document delves into the motivations behind the `mcp-playbook` server, how it unexpectedly catalyzed the development of our organizational `runbook`, and the new data patterns it introduced for handling AI-related assets.
 

@@ -16,7 +16,9 @@ tags:
   - zed
 ---
 
-> **tl;dr** The MCP Playbook server processes tool calls via `src/index.ts`, routing them to handlers in `src/handlers/`. These handlers interact with the local file system and GitHub (e.g., `prompt-db`, `prompt-log`). Chat log syncing involves editor-specific parsers and uploads to a structured path in `prompt-log`, while prompt syncing targets `prompt-db`.
+> **tl;dr**
+>
+> The MCP Playbook server processes tool calls via `src/index.ts`, routing them to handlers in `src/handlers/`. These handlers interact with the local file system and GitHub (e.g., `prompt-db`, `prompt-log`). Chat log syncing involves editor-specific parsers and uploads to a structured path in `prompt-log`, while prompt syncing targets `prompt-db`.
 
 This document provides a detailed walkthrough of the `mcp-playbook` server's internal code execution, its data flow, particularly concerning chat log and prompt synchronization, and its interactions with key GitHub repositories.
 
@@ -66,7 +68,7 @@ This diagram details the path for the `save_and_upload_chat_log` tool, from pars
 graph TD
     F["MCP Playbook Server (src/index.ts)"] --> ROUTER["Switch(toolName)"]
     ROUTER --> H_SAVE_LOG["handleSaveAndUploadChatLog (src/handlers/handleSaveAndUploadChatLog.ts)"]
-    
+
     subgraph "Chat Log Processing"
         H_SAVE_LOG --> PARSERS["Editor Parsers (src/handlers/parser/) (Cline, Cursor, Zed)"]
         PARSERS --> FS_CHAT_LOCAL["Local FS Save (target_project_dir/.chat/chat_log_user_proj_ts.md)"]
@@ -98,11 +100,11 @@ graph TD
     subgraph "GitHub Repository: prompt-db"
         H_SYNC_PROMPT --> G_PDB_SYNC_TARGET["dwarvesf/prompt-db"]
         G_PDB_SYNC_TARGET --> G_PDB_SYNCED[".synced_prompts/projectName/promptName.md"]
-        
+
         H_SEARCH_P --> G_PDB_SEARCH_TARGET["dwarvesf/prompt-db"]
         G_PDB_SEARCH_TARGET --> G_PDB_CATEGORIES["Categorized Prompts (coding/, general/, etc.)"]
     end
-    
+
     subgraph "GitHub Repository: runbook"
         H_SUGGEST_RB --> G_RB["dwarvesf/runbook"]
         H_SEARCH_RB --> G_RB

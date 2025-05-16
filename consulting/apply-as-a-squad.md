@@ -10,7 +10,9 @@ tags:
   - sales
 ---
 
-> **TL;DR** Generate deals as a squad team, spot problems, plan and pitch solutions, deliver fast for small teams, and weigh pros and cons.
+> **tl;dr**
+>
+> Generate deals as a squad team, spot problems, plan and pitch solutions, deliver fast for small teams, and weigh pros and cons.
 
 When we’re hunting for new deals in tech consulting, applying as a **squad team** is my **favorite approach** because it lets our tight-knit crew stand out. Unlike typical consulting firms that pitch as full companies, our small squad of high-skilled devs and experienced pros brings a unique edge, perfect for **small and medium teams**.
 

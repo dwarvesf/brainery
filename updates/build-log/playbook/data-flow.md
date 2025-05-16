@@ -13,7 +13,9 @@ tags:
   - typescript
 ---
 
-> **tl;dr** The MCP Playbook server receives tool requests from an MCP client (like Claude Desktop or other LLM interfaces). It routes these requests to specific handlers that perform actions like creating documentation files, searching GitHub, or saving chat logs. It interacts directly with the local file system and GitHub APIs.
+> **tl;dr**
+>
+> The MCP Playbook server receives tool requests from an MCP client (like Claude Desktop or other LLM interfaces). It routes these requests to specific handlers that perform actions like creating documentation files, searching GitHub, or saving chat logs. It interacts directly with the local file system and GitHub APIs.
 
 This document outlines the data flow and architecture of the `mcp-playbook` server, a Node.js/TypeScript application designed to assist LLMs in managing project documentation and conversation logs.
 

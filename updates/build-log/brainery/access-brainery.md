@@ -14,7 +14,9 @@ tags:
   - integration
 ---
 
-> **tl;dr** Developers can access Brainery's data and LLM power using a simple **MCP configuration**. Integrate the **Model Context Protocol (MCP)** into your tools to seamlessly query insights and use AI features directly in your workflow.
+> **tl;dr**
+>
+> Developers can access Brainery's data and LLM power using a simple **MCP configuration**. Integrate the **Model Context Protocol (MCP)** into your tools to seamlessly query insights and use AI features directly in your workflow.
 
 We want you to easily tap into the collective knowledge and AI power of **Brainery**. The main way to do this is through our **Model Context Protocol (MCP)**.
 

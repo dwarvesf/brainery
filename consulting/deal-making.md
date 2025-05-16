@@ -9,7 +9,9 @@ tags:
   - deal-making
 ---
 
-> **tl;dr** Master deal-making by understanding client needs, building trust, crafting tailored pitches, navigating negotiations, and following up for future wins. Guide clients to clarity, address blockers, and secure impactful, lasting partnerships.
+> **tl;dr**
+>
+> Master deal-making by understanding client needs, building trust, crafting tailored pitches, navigating negotiations, and following up for future wins. Guide clients to clarity, address blockers, and secure impactful, lasting partnerships.
 
 Deal making isn't just about signing a contract. It's about kicking off a partnership that delivers value for the client and keeps your firm thriving. Whether you're pitching to a startup or a big enterprise, closing a deal means aligning their needs with your expertise while building trust. After years of sealing deals, we've learned it's the soft skills, listening, guiding, staying sharp, that make it happen. Here's how your consultant and sales team can master deal making, from tackling unclear requirements to securing long-term wins.
 

@@ -11,7 +11,9 @@ tags:
   - second-brain
 ---
 
-> **tl;dr** Relying on AI can feel like pretending to know, but a second brain helps you internalize knowledge through active curation and connection. Use LLMs for quick insights, then process them in your second brain to truly understand and own what you learn.
+> **tl;dr**
+>
+> Relying on AI can feel like pretending to know, but a second brain helps you internalize knowledge through active curation and connection. Use LLMs for quick insights, then process them in your second brain to truly understand and own what you learn.
 
 As I build my second brain, a curated database of notes and insights, I often turn to large language models (LLMs) for quick answers. But this ease of access raises a concern: **am I just pretending to know** things when I rely on AI, rather than truly understanding them?
 

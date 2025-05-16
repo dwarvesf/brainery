@@ -12,7 +12,9 @@ tags:
   - knowledge-base
 ---
 
-> **tl;dr** We can build intelligent, learning systems by using an **append-only observation log** with flexible **JSONB** data and **LLMs** to process and synthesize **insight** and **knowledge**.
+> **tl;dr**
+>
+> We can build intelligent, learning systems by using an **append-only observation log** with flexible **JSONB** data and **LLMs** to process and synthesize **insight** and **knowledge**.
 
 ## Core architecture: the observation log
 
@@ -71,12 +73,12 @@ The processed information gets structured into the **observation_log**:
   "context_id": "hackernews:post:12345678",
   "content_summary": "Big buzz around 'XYZ Corp's new Vector DB'. People love the scalability.",
   "entities": [
-    {"name": "XYZ Corp", "type": "company"}, 
+    {"name": "XYZ Corp", "type": "company"},
     {"name": "Vector DB", "type": "technology_category"}
   ],
   "sentiment": {
-    "topic": "XYZ Vector DB", 
-    "score": 0.85, 
+    "topic": "XYZ Vector DB",
+    "score": 0.85,
     "label": "positive"
   }
 }

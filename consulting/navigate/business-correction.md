@@ -1,16 +1,18 @@
 ---
 title: Business correction
-description: Learn how to adjust your team when the market shifts. This guide helps you assess competency, pivot goals, and keep your consulting service competitive.  
-date: 2025-05-09  
-authors:  
-  - tieubao  
-tags:  
-  - navigate  
-  - market-changes  
-  - team-adjustment  
+description: Learn how to adjust your team when the market shifts. This guide helps you assess competency, pivot goals, and keep your consulting service competitive.
+date: 2025-05-09
+authors:
+  - tieubao
+tags:
+  - navigate
+  - market-changes
+  - team-adjustment
 ---
 
-> **tl;dr;** Business correction helps us adapt to market shifts by recognizing when a team’s goal isn’t valid, assessing skills, and pivoting to new tech. We support our team but downsize if needed, ensuring we stay competitive in consulting.
+> **tl;dr;**
+>
+> Business correction helps us adapt to market shifts by recognizing when a team’s goal isn’t valid, assessing skills, and pivoting to new tech. We support our team but downsize if needed, ensuring we stay competitive in consulting.
 
 ### Why business correction matters
 
@@ -26,11 +28,11 @@ Teams don’t last forever, and that’s okay. They follow a natural cycle, as s
 
 The lifecycle has five stages:
 
-- **Forming.** The team comes together with a shared goal, like building a consulting service for blockchain tech.  
-- **Storming.** Conflicts arise as the team figures out how to work together.  
-- **Norming.** The team settles into a rhythm, understanding how to make things work.  
-- **Performing.** The team hits its stride, working effectively and efficiently.  
-- **Adjourning.** The team disbands when the goal is no longer relevant, like when blockchain demand drops.  
+- **Forming.** The team comes together with a shared goal, like building a consulting service for blockchain tech.
+- **Storming.** Conflicts arise as the team figures out how to work together.
+- **Norming.** The team settles into a rhythm, understanding how to make things work.
+- **Performing.** The team hits its stride, working effectively and efficiently.
+- **Adjourning.** The team disbands when the goal is no longer relevant, like when blockchain demand drops.
 
 Business correction often happens in the adjourning phase, but it can also mean adjusting during earlier stages if the market shifts unexpectedly. As leaders, we need to accept this cycle and not force a team to stick together when the goal no longer fits.
 
@@ -40,9 +42,9 @@ You’ll know it’s time for a business correction when the market thesis chang
 
 Here’s what to look for:
 
-- **Demand shifts.** Are clients asking for something new, like AI, instead of what we’re offering?  
-- **Profitability dips.** Are we spending more to keep the team running than we’re earning?  
-- **Tech relevance fades.** Is the tech we’re focused on losing traction in the market?  
+- **Demand shifts.** Are clients asking for something new, like AI, instead of what we’re offering?
+- **Profitability dips.** Are we spending more to keep the team running than we’re earning?
+- **Tech relevance fades.** Is the tech we’re focused on losing traction in the market?
 
 When you see these signs, it’s time to act.
 
@@ -58,9 +60,9 @@ Look at each member’s ability to learn and adopt new tech. For example, if we�
 
 Create a simple performance profile for the team. Rate each member on:
 
-- **Tech skills.** Can they learn the new tech quickly?  
-- **Adaptability.** Are they open to change?  
-- **Energy.** Do they bring enthusiasm to the table?  
+- **Tech skills.** Can they learn the new tech quickly?
+- **Adaptability.** Are they open to change?
+- **Energy.** Do they bring enthusiasm to the table?
 
 For example, if a member excels in blockchain but resists learning AI, they might not fit the new direction. On the other hand, someone who’s curious and ready to jump in is a keeper.
 

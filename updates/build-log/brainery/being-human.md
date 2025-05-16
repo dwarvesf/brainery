@@ -10,7 +10,9 @@ tags:
   - brainery
 ---
 
-> **tl;dr:** AI can mimic thinking, but being human is about feeling, creating, connecting, and defining purpose through emotions, intuition, relationships, and existential freedom, qualities machines can’t replicate.
+> **tl;dr**
+>
+> AI can mimic thinking, but being human is about feeling, creating, connecting, and defining purpose through emotions, intuition, relationships, and existential freedom, qualities machines can’t replicate.
 
 As AI, like large language models, takes on tasks from problem-solving to idea generation, a profound question arises: **if computers can think for us, what’s the point of being human?** This Socratic inquiry invites us to probe what makes humanity distinct. If machines can process data faster, optimize decisions, or simulate creativity, do we still have a unique role? Let’s explore what AI can’t replicate.
 
