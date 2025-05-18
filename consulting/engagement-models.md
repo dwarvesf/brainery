@@ -153,6 +153,8 @@ Here’s your game plan to use these models well:
 3. Show the craft: Use examples to explain how we’ll deliver. Clients love stories of similar successes.
 4. Stay nimble: Projects shift. A Dedicated Squad might craft an MVP. Keep clients informed.
 
+To ease the initial commitment and build trust, we also offer a [pilot run](pilot-run.md), a paid trial for clients to experience our services firsthand.
+
 Be their guide, not just a vendor. Listen, simplify options, and show you care about their success. That’s how you build lasting trust.
 
 Keep this guide handy.Use it before client meetings, and talk it over with your team.

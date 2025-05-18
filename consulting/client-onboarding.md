@@ -28,7 +28,7 @@ Formalize the partnership. The contract details engagement model, billing, scope
 
 The kickoff meeting aligns everyone around a shared plan, integrating framework, communication, meetings, deliverables, deadlines, and feedback.
 
-#### **Process**/workflow
+#### **Process/workflow**
 
 Select the best methodology (Scrum, Kanban, etc.) and show the workflow. Explain Agile if needed. Adapt to client's preferred task trackers.
 
