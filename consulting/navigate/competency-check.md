@@ -11,7 +11,7 @@ tags:
   - competency
 ---
 
-> tl;dr
+> **tl;dr**
 >
 > Ensure team competency: assess collective know-how, ask forward-looking questions, stay **relevant** in tech cycles, and onboard passionate learners.
 

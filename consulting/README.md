@@ -1,5 +1,6 @@
 ---
-title: Dwarves Consulting 💼
+title: Dwarves Consulting
+short_title: § Dwarves Consulting 💼
 description: "We're a team combining tech skills, problem-solving, and clear communication. We help businesses overcome challenges by finding root causes, creating practical solutions, and working closely with clients to implement them effectively."
 date: 2023-12-21
 authors:
@@ -30,7 +31,8 @@ LIMIT 5;
 - [Engagement models](engagement-models.md): Different ways to work with clients.
 - [On deal making](deal-making.md): Tips for closing deals successfully.
 - [Setting the budget](setting-the-budget.md): How to figure out and handle project money.
-- [Client delivery and soft skills](client-delivery.md): How to do great work for clients and get along with people.
+- [Client onboarding](client-onboarding.md): How to onboard client
+- [Project delivery and soft skills](client-delivery.md): How to do great work for clients and get along with people.
 - [Service feedbacks](service-feedbacks.md): How to get and use feedback from clients to get better.
 - [Client-side and Agency-side](client-side-agency-side.md): What it's like being a client vs. being an agency.
 - [Partner network](partners-network.md): Build connections with others you work with.
