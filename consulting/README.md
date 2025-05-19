@@ -5,7 +5,7 @@ description: "We're a team combining tech skills, problem-solving, and clear com
 date: 2023-12-21
 authors:
   - tieubao
-  - monotykamary
+  - monotykamar
   - nikkingtr
 tags:
   - consulting
@@ -29,15 +29,22 @@ LIMIT 5;
 ## Key articles for consultants
 
 - [Organize consultant team](build-consultant-team.md): How to set up and run the team well.
+- [The adjacent possible](adjacent-possible.md): Understanding innovation and possibilities.
+- [Market players](market-players.md): Identifying key players in the market.
+- [Leads generation](leads-generation.md): Strategies for finding potential clients and new business.
 - [Inefficiency arbitrage](inefficiency-arbitrage.md): Find and make money from things that aren't working right in the market.
+- [Apply as a squad](apply-as-a-squad.md): How to work as a squad to land deals.
 - [Engagement models](engagement-models.md): Different ways to work with clients.
 - [On deal making](deal-making.md): Tips for closing deals successfully.
-- [A pilot run](pilot-run.md): Experience our services firsthand.
 - [Setting the budget](setting-the-budget.md): How to figure out and handle project money.
-- [Client onboarding](client-onboarding.md): How to onboard client
+- [Fixed-budget, Scope-controlled](fixed-budget-scope-controlled.md): Managing fixed budget and scope.
+- [Understanding billing by hours](bill-by-hours.md): Understanding billing by hours.
+- [A pilot run](pilot-run.md): Experience our services firsthand.
+- [Client onboarding](client-onboarding.md): How to onboard client.
 - [Project delivery and soft skills](client-delivery.md): How to do great work for clients and get along with people.
-- [Service feedbacks](service-feedbacks.md): How to get and use feedback from clients to get better.
+- [Required dev skills](dev-skill-required.md): Required skills for developers working with clients.
 - [Client-side and Agency-side](client-side-agency-side.md): What it's like being a client vs. being an agency.
+- [Service feedbacks](service-feedbacks.md): How to get and use feedback from clients to get better.
 - [Partner network](partners-network.md): Build connections with others you work with.
 - [Navigate through changes](navigate/README.md): Help the team deal with changes.
 
