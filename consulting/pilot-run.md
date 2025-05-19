@@ -25,3 +25,7 @@ Qualification is case-by-case, decided by our sales team based on client needs a
 ## Why choose our pilot run?
 
 It simplifies the client's decision and builds confidence. It demonstrates our belief in our service quality and dedication to satisfaction. It's a tangible way to show we deliver results and build lasting partnerships.
+
+---
+
+> Next: [Set the budget](setting-the-budget.md)
