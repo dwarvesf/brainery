@@ -11,7 +11,9 @@ tags:
   - consulting
 ---
 
-The Consulting team is a strategic spin-off built on the foundation of our Tech Research team. While Tech Research explores emerging technologies and builds innovative solutions, we take those insights and apply them directly to real business challenges. This unique setup gives us a competitive edge - we're practitioners backed by cutting-edge research, bridging the gap between innovation and practical application.
+The Consulting team is a strategic spin-off built on the foundation of our Tech Research team. While Tech Research explores emerging technologies and builds innovative solutions, we take those insights and apply them directly to real business challenges.
+
+This unique setup gives us a competitive edge - we're practitioners backed by cutting-edge research, bridging the gap between innovation and practical application.
 
 ## Latest from consulting team
 
@@ -30,6 +32,7 @@ LIMIT 5;
 - [Inefficiency arbitrage](inefficiency-arbitrage.md): Find and make money from things that aren't working right in the market.
 - [Engagement models](engagement-models.md): Different ways to work with clients.
 - [On deal making](deal-making.md): Tips for closing deals successfully.
+- [A pilot run](pilot-run.md): Experience our services firsthand.
 - [Setting the budget](setting-the-budget.md): How to figure out and handle project money.
 - [Client onboarding](client-onboarding.md): How to onboard client
 - [Project delivery and soft skills](client-delivery.md): How to do great work for clients and get along with people.
