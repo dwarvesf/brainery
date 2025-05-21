@@ -1,6 +1,6 @@
 ---
 title: WALA
-short_title: WALA
+short_title: § WALA 🍭
 description: null
 date: 2023-12-21
 authors:

@@ -163,4 +163,4 @@ Our models are like tools in a craftsman’s kit, each suited to a different job
 
 ---
 
-> Next: [Client onboarding](onboarding.md)
+> Next: [Client onboarding](client-onboarding.md)
