@@ -1,13 +1,7 @@
 ---
-title: Home
-description: How to contribute to our second brain.
-date: 2023-12-11
-authors:
-  - tieubao
-  - monotykamary
-  - zlatanpham
-tags:
-  - contribution
+title: null
+description: null
+date: null
 ---
 
 ## Contributing to the Brainery
@@ -16,7 +10,7 @@ We'd love to accept your contributions to the project. There are just a few smal
 
 ## Pull Request Process
 
-1. Put your note into a Pull Request and submit it to <https://github.com/dwarvesf/brain>.
+1. Put your note into a Pull Request and submit it to <https://github.com/dwarvesf/brainery>.
 2. Ensure to prefix your **pull request naming** AND **initial commit naming** with the main tag and folder it is associated to. This is to allow us to easily find and categorize commits to ping and post on our changelogs. For instance:
 
 - `engineering: Edsger Dijkstra interview`
@@ -27,12 +21,11 @@ We'd love to accept your contributions to the project. There are just a few smal
 
 - @zlatanpham
 - @monotykamary
-- @trankhacvy
-- @duynglam
+- @tieubao
 
 4. You may merge the Pull Request in once you have the sign-off of our reviewers, or if you do not have permission to do that, you may request the reviewer to merge it for you.
 
-> If it happens that you aren't familiar with using Github, simply join our [Discord](https://discord.com/invite/Y2vvH9rQE4) and drop your note into a relevant discussion channel. Our team will edit and submit the note for you.
+> If it happens that you aren't familiar with using Github, simply join our [Discord](https://discord.gg/kjmXvhZb9n) and drop your note into a relevant discussion channel. Our team will edit and submit the note for you.
 
 ## Manual of style
 
@@ -41,9 +34,7 @@ We'd love to accept your contributions to the project. There are just a few smal
 We aren't actually too strict on grammar or semantics in your notes. Our only requirement is that it is easy to read and is relatively skimmable. As for note structure, we will follow Wikipedia and previous SEO standards:
 
 1. Each page should only have one H1 `#` header.
-
 2. All subsequent headers should be nested as H2 `##` headers.
-
 3. Avoid separating topics with `---` unless absolutely necessary.
 
 **Notes on Plagiarism**: Please don't plagiarize. If you have similar ideas to the article you're referencing your notes from, at the very least paraphrase or compose your notes in a way that makes it your own.
@@ -52,7 +43,7 @@ We aren't actually too strict on grammar or semantics in your notes. Our only re
 
 1. We prefer to use 1-level folders unless necessary. If you feel that your content belongs to a specific nested folder or would like to create one, we'll have a look at it.
 
-2. Any notes or articles in the folder should also have the related tag mentioned in the metadata. For instance, if the note is placed `Writing` folder, the metadata must have at least:
+2. Any notes or articles in the folder should also have the related tag mentioned in the metadata. For instance, if the note is placed `writing` folder, the metadata must have at least:
 
 - ```md
   ---
@@ -64,10 +55,9 @@ We aren't actually too strict on grammar or semantics in your notes. Our only re
 
 - ```md
   ---
-  tags: engineering, database, transaction
-  authors: monotykamary
-  github_id: monotykamary
   date: 2022-08-23
+  authors: monotykamary
+  tags: engineering, database, transaction
   ---
   ```
 
@@ -88,7 +78,6 @@ We aren't actually too strict on grammar or semantics in your notes. Our only re
 
   - [Wikipedia - Blockchain oracle](https://en.wikipedia.org/wiki/Blockchain_oracle#:~:text=A%20blockchain%20oracle%20is%20a,that%20decentralised%20knowledge%20is%20obtained.)
   - [https://chain.link/education/blockchain-oracles](https://chain.link/education/blockchain-oracles)
-  - [https://coin98.net/what-is-blockchain-oracle](https://coin98.net/what-is-blockchain-oracle)
   ```
 
 ## Editing tools

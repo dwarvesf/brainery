@@ -50,7 +50,7 @@ curl -fsSL https://raw.githubusercontent.com/dwarvesf/memo.d.foundation/main/ssh
 1. Clone this repository with either git or GitHub Desktop. You can get started with GitHub Desktop here: <https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop>. Otherwise:
 
 ```
-git clone https://github.com/dwarvesf/content
+git clone https://github.com/dwarvesf/brainery
 ```
 
 2. After cloning the repository, open up Obsidian and load your new vault:
@@ -125,6 +125,6 @@ We use the Obsidian plugin [Local Images Plus](https://github.com/Sergei-Korneev
 We essentially have 2 repositories:
 
 1. One to manage the compilation and deployment of Obsidian markdown to static HTML: <https://github.com/dwarvesf/memo.d.foundation>
-2. One to manage the vault that everyone interacts with; think of Obsidian as our IDE or local CMS: <https://github.com/dwarvesf/content>
+2. One to manage the vault that everyone interacts with; think of Obsidian as our IDE or local CMS: <https://github.com/dwarvesf/brainery>
 
 Any changes to any one of these repositories will initiate a deployment workflow on the first repository, which will then update changes to <https://memo.d.foundation>.

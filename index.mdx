@@ -1,41 +1,34 @@
 ---
-title: Dwarves Memo
-description: Knowledge sharing platform for Dwarves Foundation
+title: null
+description: null
+date: null
 ---
 
-<img src="/assets/home_cover.webp" alt="Dwarves Foundation" className="w-full h-auto no-zoom" />
-
-Welcome to the Dwarves Memo.
+## Welcome to Dwarves Memo
 
 This site is a part of our continuous learning engine, where we want to build up the 1% improvement habit, learning in public.
 
-Written by Dwarves for product craftsmen.
-
+Written by Dwarves for product craftsmen.\
 Learned by engineers. Experimented by engineers.
-
-<If condition={ogifMemos?.length > 0}>
-  ## 💡 OGIFs
-  <MemoVLinkList data={ogifMemos} hideDate color="secondary" />
-</If>
-
-<If condition={newMemos?.length > 0}>
-  ## ✨ New memos
-  <MemoVList data={newMemos} hideDate />
-</If>
-
-<If condition={teamMemos?.length > 0}>
-  ## 🧑‍💻 Life at Dwarves
-  <MemoVList data={teamMemos} hideAuthors hideThumbnail />
-</If>
-
-<If condition={changelogMemos?.length > 0}>
-  ## 📝 Changelog
-  <MemoVLinkList data={changelogMemos} />
-</If>
 
 <If condition={hiringMemos?.length > 0}>
   ## 🤝 Open positions
   <MemoVList data={hiringMemos} hideAuthors hideThumbnail hideDate />
+</If>
+
+<If condition={teamMemos?.length > 0}>
+  ## Life at Dwarves
+  <MemoVList data={teamMemos} hideAuthors hideThumbnail />
+</If>
+
+<If condition={changelogMemos?.length > 0}>
+  ## Changelog
+  <MemoVLinkList data={changelogMemos} />
+</If>
+
+<If condition={newMemos?.length > 0}>
+  ## All memos
+  <MemoVList data={newMemos} hideDate />
 </If>
 
 <div className="love-watch-we-are-doing">
@@ -46,32 +39,28 @@ Learned by engineers. Experimented by engineers.
     <li>
       <a
         href="https://discord.gg/dfoundation"
-        className="text-primary text-sm"
-      >
+        className="text-primary text-sm" >
         🩷 Join our Discord Network →
       </a>
     </li>
     <li>
       <a
         href="https://github.com/dwarvesf/playground"
-        className="!text-primary text-sm"
-      >
+        className="!text-primary text-sm" >
         🔥 Contribute to our Memo →
       </a>
     </li>
     <li>
       <a
         href="https://careers.d.foundation/"
-        className="text-primary text-sm"
-      >
+        className="text-primary text-sm" >
         🤝 Join us, we are hiring →
       </a>
     </li>
     <li>
       <a
         href="http://memo.d.foundation/earn/"
-        className="text-primary text-sm"
-      >
+        className="text-primary text-sm" >
         🙋 Give us a helping hand →
       </a>
     </li>
