@@ -3,6 +3,8 @@ title: "#68 - Moving from GBP to USD"
 description: Discover how The Dwarves boost Malaysia’s fuel e-payment app with tech upgrades, apprenticeship growth, no-code projects, and client-focused quality improvements.
 date: 2021-03-27
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /s/Q5-R6g
 ---
 
 ### Biz update

@@ -9,6 +9,8 @@ authors:
 tags:
   - labs
   - market-report
+redirect:
+  - /s/zEx_rg
 ---
 
 ## Trends on our radar

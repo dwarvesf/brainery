@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/SOoCMA
 ---
 
 # An introduction and a quick port C++ game to WebAssembly

@@ -3,6 +3,8 @@ title: "#119 - Holiday announcement"
 description: Visit the Danang office to watch Tom’s vlogs, get flight ticket support, update your ID, check Bao Minh Insurance claims, and note the upcoming holiday schedule.
 date: 2022-04-25
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /s/kUtrHQ
 ---
 
 Danang office is welcoming you. Stop by lobby and take a look at Tom’s short videos. First data lead now vlogger, this mate is so unpredictable.

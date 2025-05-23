@@ -6,6 +6,8 @@ authors:
   - tieubao
 tags:
   - consulting
+redirect:
+  - /s/ADNwag
 ---
 
 Welcome, consultants (and maybe a few curious clients). In this guide, we’ll cover how we bill and how we engage, with advice to make you a trusted partner.

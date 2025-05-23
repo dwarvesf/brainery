@@ -10,6 +10,8 @@ authors:
 tags:
   - blockchain
   - case-study
+redirect:
+  - /s/gs99jw
 ---
 
 **Industry**\

@@ -10,6 +10,8 @@ tags:
   - doty
   - newsletter
   - updates
+redirect:
+  - /s/pN5AlA
 ---
 
 > **Before you dive in**

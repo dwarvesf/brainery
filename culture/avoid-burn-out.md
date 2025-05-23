@@ -7,6 +7,8 @@ authors:
 tags:
   - burn-out
   - productivity
+redirect:
+  - /s/dt6XLQ
 ---
 
 Just to be clear, this term has nothing to compare with the emotional crisis you go through daily - stress. No, burn-out isn't stress.

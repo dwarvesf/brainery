@@ -3,6 +3,8 @@ title: "#08 - The 1st report of Tech Radar"
 description: Discover the first Tech Radar report highlighting engineering projects, company handbook updates, bonuses, English class support, insurance, and remote work during Lunar New Year.
 date: 2020-01-18
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /s/9jFAng
 ---
 
 ## The 1st report of Tech Radar

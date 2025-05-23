@@ -8,6 +8,8 @@ tags:
   - newsletter
   - software-engineer
   - updates
+redirect:
+  - /s/07O7CA
 ---
 
 As we enter a new year, I want to reflect on the role that software has played in my life. From the early days of my career to now, software has been a constant presence and something that I have dedicated countless hours to as both an engineer and project manager. I have put in over 10,000 hours of work in this field, and it has become an integral part of my existence.

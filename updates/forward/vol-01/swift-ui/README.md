@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/WpE8VA
 ---
 
 # Introduction

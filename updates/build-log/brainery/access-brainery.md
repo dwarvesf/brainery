@@ -12,6 +12,8 @@ tags:
   - mcp
   - developer-access
   - integration
+redirect:
+  - /s/sMPx9g
 ---
 
 > **tl;dr**

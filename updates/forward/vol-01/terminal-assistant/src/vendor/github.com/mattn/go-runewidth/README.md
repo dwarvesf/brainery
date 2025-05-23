@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/92N2Yw
 ---
 
 # go-runewidth

@@ -9,6 +9,8 @@ tags:
   - meet-up
   - newsletter
   - report
+redirect:
+  - /s/FKyvow
 ---
 
 - [**Reporting tech signals:**](#reporting-tech-signals---ai-edge-computing-and-ui-innovations-driving-change) major updates in Meta's Llama 3, the growth of RAG systems, the move to edge computing, and the influence of Bun 1.1 in JavaScript.

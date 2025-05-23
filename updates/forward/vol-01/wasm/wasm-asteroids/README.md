@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/tp1SQQ
 ---
 
 # Asteroids

@@ -3,6 +3,8 @@ title: "#132 - The first week of August"
 description: "Celebrate new team members, join lively Discord activities, get ready for Mid-Autumn Festival with mooncakes, and contribute to Brainery's first iOS note at Dwarves."
 date: 2022-08-06
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /s/k7JeWQ
 ---
 
 Welcome and kudos

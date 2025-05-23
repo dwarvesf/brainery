@@ -7,4 +7,6 @@ authors:
 tags:
   - dwarves
   - work
+redirect:
+  - /s/dcRiHQ
 ---

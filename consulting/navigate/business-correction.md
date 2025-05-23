@@ -8,6 +8,8 @@ tags:
   - navigate
   - market-changes
   - team-adjustment
+redirect:
+  - /s/ED3hew
 ---
 
 > **tl;dr;**

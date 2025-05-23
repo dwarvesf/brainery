@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/PDfAMg
 ---
 
 # Generating PowerShell completions for your own cobra.Command

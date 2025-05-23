@@ -10,6 +10,8 @@ tags:
   - newsletter
   - team
   - updates
+redirect:
+  - /s/YlfDDw
 ---
 
 It’s Han and Nikki here,

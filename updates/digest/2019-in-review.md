@@ -9,6 +9,8 @@ tags:
   - team
   - updates
   - wrap-up
+redirect:
+  - /s/VF5RUw
 ---
 
 Another year has gone by. And we just celebrated the 5th year that we survived all the challenges. Everyone was facing their own, but I have seen many of you reaching new stages and achieve new targets.

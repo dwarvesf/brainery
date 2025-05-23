@@ -11,6 +11,8 @@ tags:
   - npx
   - github-token
   - mcp
+redirect:
+  - /s/rkiTfQ
 ---
 
 > **tl;dr**

@@ -3,6 +3,8 @@ title: "#52 - We sent out the first Monthly Project Report"
 description: Stay updated on our smooth project progress, new memo rules, upcoming WeBuild day event, year-end party plans, and the latest PHP v8 release news.
 date: 2020-11-28
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /s/hN6oJA
 ---
 
 Seem like our current projects are going smoothly. The workload stays steady and no update on resources adjustment.

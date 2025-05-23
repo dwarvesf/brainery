@@ -8,6 +8,8 @@ authors:
 tags:
   - consulting
   - partners
+redirect:
+  - /s/QGA4jw
 ---
 
 We seek for Partners, individuals and companies likewise, to develop a co-creation system driven by mutual purposes and interests.

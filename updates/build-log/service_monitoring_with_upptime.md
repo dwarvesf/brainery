@@ -8,6 +8,8 @@ tags:
   - monitoring
   - security
   - upptime
+redirect:
+  - /s/Kpyz4g
 ---
 
 Ensuring services are up and running is crucial. But how do you monitor _everything_, including internal tools and sensitive APIs, without exposing them to the world? This is the story of how we adopted Upptime, leveraging the power of GitHub Actions and Secrets to achieve comprehensive and secure uptime monitoring.

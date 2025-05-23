@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/K6P0xQ
 ---
 
 # Title of RFC

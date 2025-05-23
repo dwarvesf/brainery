@@ -13,6 +13,8 @@ tags:
 perma_storage_id: '27V6W54hZO-tqFDL6IYhAJ6gzHmYzST3yPyTUIMwiYM'
 minted_at: '2025-05-12'
 token_id: '13'
+redirect:
+  - /s/7b2-8w
 ---
 
 ## Introduction

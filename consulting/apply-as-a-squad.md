@@ -8,6 +8,8 @@ tags:
   - consulting
   - strategy
   - sales
+redirect:
+  - /s/J45XXg
 ---
 
 > **tl;dr**

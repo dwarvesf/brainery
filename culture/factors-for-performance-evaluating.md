@@ -7,6 +7,8 @@ authors:
 tags:
   - performance
   - people
+redirect:
+  - /s/eFCQ5w
 ---
 
 ## Fire quickly

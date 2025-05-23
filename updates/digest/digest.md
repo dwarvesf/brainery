@@ -11,6 +11,8 @@ tags:
   - event
   - learning
   - operation
+redirect:
+  - /s/Jr8DEg
 ---
 
 This page holds a collection of both our internal and external events, including the things we do with the Labs team, Consulting team, Operations, team, and the community.

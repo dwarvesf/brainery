@@ -8,6 +8,8 @@ tags:
   - community
   - newsletter
   - open-source
+redirect:
+  - /s/L_2HEA
 ---
 
 > **Before you dive in**

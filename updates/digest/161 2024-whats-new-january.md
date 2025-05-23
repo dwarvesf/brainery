@@ -10,6 +10,8 @@ tags:
   - doty
   - newsletter
   - report
+redirect:
+  - /s/-9yskw
 ---
 
 > **Before you dive in**

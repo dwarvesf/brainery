@@ -8,6 +8,8 @@ tags:
   - community
   - memo
   - newsletter
+redirect:
+  - /s/ZJ5H6g
 ---
 
 - [**Reporting tech signal:**](#reporting-tech-signal-ais-impact-on-programming-and-new-opportunities) How AI tools like Cursor and Claude 3.5 Sonnet are changing programming, with insights on generative apps, prompt caching, and structured outputs.

@@ -3,6 +3,8 @@ title: "#74 - Project Wrap up and Workload Distribution"
 description: "Discover why Rust is emerging as the top modern programming language, with growing adoption by major companies like Google and Discord challenging Go's dominance."
 date: 2021-05-08
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /s/CUeEYg
 ---
 
 Note: COVID is getting back. We strongly encourage remote working and please help take good care for your health. Anything new of COVID can be updated at Covid Thread, a company thread since March 2020.

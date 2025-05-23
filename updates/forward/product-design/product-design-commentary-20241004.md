@@ -7,6 +7,8 @@ authors:
 tags:
   - product-design
   - report
+redirect:
+  - /s/XEG13A
 ---
 
 ## AI icon - sparkles

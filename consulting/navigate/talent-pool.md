@@ -9,6 +9,8 @@ tags:
   - hiring
   - team-growth
   - navigate
+redirect:
+  - /s/tgMoxA
 ---
 
 > **tl;dr;**

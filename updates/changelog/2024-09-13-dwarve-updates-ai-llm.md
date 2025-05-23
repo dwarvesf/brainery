@@ -8,6 +8,8 @@ tags:
   - newsletter
   - team
   - updates
+redirect:
+  - /s/ye7vnA
 ---
 
 Hello,

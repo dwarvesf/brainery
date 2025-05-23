@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/10eO6Q
 ---
 
 # Software reuse

@@ -10,6 +10,8 @@ tags:
   - digest
   - discord
   - team
+redirect:
+  - /s/0wsCQQ
 ---
 
 Hi, it’s @innno\_ again. Summer is almost here. But don't worry, this update is all about making your day more comfortable. Now, onto this week’s updates.

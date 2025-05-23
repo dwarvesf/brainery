@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/uFJNkw
 ---
 
 # Generating bash completions for your own cobra.Command

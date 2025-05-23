@@ -3,6 +3,8 @@ title: "#66 - Apprenticeship Preparation"
 description: Discover our apprenticeship program for engineers, health check reminders, insights on software engineering, Discord updates, GitHub CLI tips, and simple writing advice in this weekly update.
 date: 2021-03-13
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /s/emb52A
 ---
 
 ### Apprenticeship program

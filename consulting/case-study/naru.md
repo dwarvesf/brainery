@@ -10,6 +10,8 @@ tags:
   - browser-extension
   - case-study
   - startup
+redirect:
+  - /s/ete1Gw
 ---
 
 **Industry**\

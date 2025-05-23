@@ -3,6 +3,8 @@ title: "#60 - Got any topic to ask? Pitch it"
 description: Get the latest updates on startup talks, tech tools like Volta and Earthly, office moves, healthcare plans, and Apple’s new MacBook Pro design.
 date: 2021-01-23
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /s/rYli_Q
 ---
 
 ### Pitch your next topic

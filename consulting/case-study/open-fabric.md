@@ -11,6 +11,8 @@ tags:
   - case-study
   - fintech
   - payment
+redirect:
+  - /s/RMiVyQ
 ---
 
 **Industry**\

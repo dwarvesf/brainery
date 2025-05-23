@@ -9,6 +9,8 @@ authors:
 hide_title: true
 tags:
   - wala
+redirect:
+  - /s/mo8GAw
 ---
 
 **WALA: to walk around, learn around.**

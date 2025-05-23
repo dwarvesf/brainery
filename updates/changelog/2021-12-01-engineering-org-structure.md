@@ -10,6 +10,8 @@ tags:
   - career
   - newsletter
   - updates
+redirect:
+  - /s/Vqxr9w
 ---
 
 Greetings,

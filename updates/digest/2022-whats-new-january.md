@@ -9,6 +9,8 @@ tags:
   - blockchain
   - newsletter
   - updates
+redirect:
+  - /s/EDAAbw
 ---
 
 ### Performance review

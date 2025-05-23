@@ -7,6 +7,8 @@ authors:
 tags:
   - culture
   - handbook
+redirect:
+  - /s/SvRBRg
 ---
 
 For the past 5 years, we didn't have something called 'Culture Book'. Whenever a newbie steps in, it's natural to pick up the job and go with the flow. We hardly force them into other periodical office traps like team-bonding activities or late night drinks. It's likely to be **'Hey it's your birthday give us a treat'**; and next thing you know, 30 milk tea or coffee orders are on the way.

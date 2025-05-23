@@ -3,6 +3,8 @@ title: "#11 - Take care of your beloved now or get sml later"
 description: Stay informed on COVID-19 updates, office surveys, apprenticeship programs, and Tech Radar R&D progress to keep your workplace safe and innovative.
 date: 2020-02-15
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /s/HpqfJA
 ---
 
 ## Take care of your beloved now or get sml later

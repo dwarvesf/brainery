@@ -9,6 +9,8 @@ tags:
   - newsletter
   - updates
   - wrap-up
+redirect:
+  - /s/DUiSYQ
 ---
 
 Apart from the team's voting result for each title, the team leads also selected the **Honorable Mention** and **Client Endorsed**, as we want to honor all of the hard work.

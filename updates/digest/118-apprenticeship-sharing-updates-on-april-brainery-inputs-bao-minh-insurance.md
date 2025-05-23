@@ -3,6 +3,8 @@ title: "#118 - Apprenticeship Sharing & Updates on April Brainery Inputs & Bao M
 description: Apply now for Apprenticeship 2022 before the deadline and explore new learning resources, insurance updates, and team news at d.foundation.
 date: 2022-04-18
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /s/U9E2hQ
 ---
 
 One last week until we close the openings for Apprenticeship 2022. I’ve gladly received some referrals from the team - which have successfully converted into the new Apprentices. It’s amazing, and we look to meet more of them.

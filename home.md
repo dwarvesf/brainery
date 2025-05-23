@@ -9,6 +9,8 @@ authors:
 hide_title: true
 tags:
   - home
+redirect:
+  - /s/dMJVwA
 ---
 
 ![](assets/home_cover.webp)

@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/nT4tDQ
 ---
 
 <h1 align="center">

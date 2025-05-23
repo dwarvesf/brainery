@@ -7,6 +7,8 @@ authors:
 tags:
   - culture
   - sharing
+redirect:
+  - /s/AwWZ5A
 ---
 
 I would like to introduce to you our new initiative called **OGIF -- Oh God It's Friday**. Moving forward, our Friday Showcase will have a broader range of topics to discuss and share.

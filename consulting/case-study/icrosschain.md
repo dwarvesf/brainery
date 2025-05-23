@@ -10,6 +10,8 @@ tags:
   - blockchain
   - case-study
   - swap
+redirect:
+  - /s/cy61ag
 ---
 
 **Industry**\

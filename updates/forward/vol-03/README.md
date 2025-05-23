@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/A4zfdQ
 ---
 
 # Dwarves tech radar- vol 03

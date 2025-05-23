@@ -10,6 +10,8 @@ tags:
   - case-study
   - fintech
   - mobile
+redirect:
+  - /s/OYo6Xg
 ---
 
 **Industry**\

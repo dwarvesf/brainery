@@ -8,6 +8,8 @@ tags:
   - data
   - blockchain
   - fintech
+redirect:
+  - /s/tNEi7w
 ---
 
 In recent years, alongside the growth of blockchain technology, the cryptocurrency market has attracted significant attention from investors and traders. These market participants develop strategies based on their experience and knowledge, primarily demonstrated through their ability to analyze market indicators. One valuable indicator is the BTC-Altcoins outperform metric. This article examines the importance of tracking Bitcoin-Altcoin performance indicators in a trading strategy known as **Hedge**, and explains how to visualize this data effectively.

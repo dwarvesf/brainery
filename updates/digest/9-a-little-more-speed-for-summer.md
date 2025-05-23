@@ -10,6 +10,8 @@ tags:
   - digest
   - meet-up
   - team
+redirect:
+  - /s/gWoGcA
 ---
 
 How quickly the first half of the year speeds up before it slows down. It’s really the second half of 2024 already. Time flies when you're having a blast.

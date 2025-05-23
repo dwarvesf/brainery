@@ -9,6 +9,8 @@ tags:
   - product
   - career
   - service
+redirect:
+  - /s/IqPaZg
 ---
 
 > **tl;dr**

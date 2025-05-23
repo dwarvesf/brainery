@@ -15,6 +15,8 @@ tags:
   - labs
   - market-report
   - rust
+redirect:
+  - /s/4Qljjw
 ---
 
 ## Trends on our radar

@@ -10,6 +10,8 @@ tags:
   - case-study
   - startup
   - us
+redirect:
+  - /s/DOk3DQ
 ---
 
 **Industry**\

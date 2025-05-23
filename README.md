@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/EOHbxw
 ---
 
 This is an internal README for us writers ✍️. Any file that has the suffix `README.md` will be ignored during deployment to <https://memo.d.foundation/>, so feel free to add upon this and other READMEs.

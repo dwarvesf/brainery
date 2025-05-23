@@ -6,6 +6,8 @@ authors:
   - tieubao
 tags:
   - remote
+redirect:
+  - /s/ZPF6Bg
 ---
 
 ## Checklist

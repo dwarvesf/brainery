@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/SA1u5A
 ---
 
 ![cobra logo](https://cloud.githubusercontent.com/assets/173412/10886352/ad566232-814f-11e5-9cd0-aa101788c117.png)

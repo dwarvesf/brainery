@@ -10,6 +10,8 @@ tags:
   - newsletter
   - updates
   - wrap-up
+redirect:
+  - /s/ymRryw
 ---
 
 Started with 3 engineers working in different coffee shops because we didn't have an office back then, we are gearing up for the second coming in our journey with over 40 clients and partners worldwide, +1M lines of code later throughout more than 7 years.

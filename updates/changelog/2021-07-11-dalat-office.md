@@ -10,6 +10,8 @@ tags:
   - newsletter
   - remote
   - updates
+redirect:
+  - /s/eqSsBw
 ---
 
 Hey,

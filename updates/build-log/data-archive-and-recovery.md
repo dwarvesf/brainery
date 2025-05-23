@@ -8,6 +8,8 @@ tags:
   - data
   - blockchain
   - finance
+redirect:
+  - /s/nCZTSQ
 ---
 
 ## Data safeguarding strategies

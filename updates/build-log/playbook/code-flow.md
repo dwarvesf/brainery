@@ -14,6 +14,8 @@ tags:
   - cline
   - cursor
   - zed
+redirect:
+  - /s/IrpmvQ
 ---
 
 > **tl;dr**

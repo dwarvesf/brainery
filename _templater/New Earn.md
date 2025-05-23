@@ -11,4 +11,6 @@ product: null
 status: null
 tags:
   - earn
+redirect:
+  - /s/W3tL_g
 ---

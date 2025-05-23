@@ -10,6 +10,8 @@ tags:
   - digest
   - meet-up
   - team
+redirect:
+  - /s/y9hiDg
 ---
 
 Here's to hoping for a brighter and better month on this last day of May. We’re in the heat of a community offline meet-up today, gathering to discuss the month’s progress.

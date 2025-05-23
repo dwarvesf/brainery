@@ -8,6 +8,8 @@ authors:
   - zlatanpham
 tags:
   - contribution
+redirect:
+  - /s/21mdtg
 ---
 
 ## Contributing to the Brainery

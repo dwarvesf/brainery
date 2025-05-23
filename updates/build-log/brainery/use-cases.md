@@ -10,6 +10,8 @@ tags:
   - llm
   - second-brain
   - knowledge-base
+redirect:
+  - /s/4g6ugA
 ---
 
 > **tl;dr**

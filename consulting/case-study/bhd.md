@@ -7,6 +7,8 @@ authors:
   - duynglam
 tags:
   - case-study
+redirect:
+  - /s/N0Flrg
 ---
 
 **Industry**\

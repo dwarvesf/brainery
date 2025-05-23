@@ -9,6 +9,8 @@ tags:
   - funding
   - startup
   - ventures
+redirect:
+  - /s/SV6xaw
 ---
 
 It all started back in 2019 when a handful of tech people came under the name of Dwarves Ventures, with the sole mission was to give force to makers and hustlers.

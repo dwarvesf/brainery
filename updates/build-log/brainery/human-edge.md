@@ -8,6 +8,8 @@ authors:
 tags:
   - knowledge-base
   - brainery
+redirect:
+  - /s/MmHz_A
 ---
 
 > **tl;dr**

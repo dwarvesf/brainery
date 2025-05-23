@@ -3,6 +3,8 @@ title: "#96 - Collect Your Insurance card"
 description: Collect your Bao Viet insurance card at HaDo office by contacting Van, meet new Backend and Fullstack Engineers joining the team, and celebrate National Woman Day gifts.
 date: 2021-10-16
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /s/7fivpA
 ---
 
 ### Collect Bao Viet insurance card

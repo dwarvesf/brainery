@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/bP2KNQ
 ---
 
 # Dwarves tech radar

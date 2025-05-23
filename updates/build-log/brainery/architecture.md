@@ -10,6 +10,8 @@ tags:
   - knowledge-base
   - second-brain
   - architecture
+redirect:
+  - /s/q-GIyQ
 ---
 
 > **tl;dr**

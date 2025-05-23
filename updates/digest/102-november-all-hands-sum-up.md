@@ -3,6 +3,8 @@ title: "#102 - November All-hands Sum up"
 description: Our team focuses on blockchain deals, expanding with new experts, upgrading hiring processes, and hosting tech meetups while boosting collaboration through training and Discord.
 date: 2021-12-04
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /s/mk8sjA
 ---
 
 Business Direction doesn't change much from last month. We're still place our focus on blockchain-based deals and expand the team with more experience in this field of tech.

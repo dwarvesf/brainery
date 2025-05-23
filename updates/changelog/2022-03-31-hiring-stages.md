@@ -10,6 +10,8 @@ tags:
   - hiring
   - newsletter
   - updates
+redirect:
+  - /s/BlpAhA
 ---
 
 Hey,

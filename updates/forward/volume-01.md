@@ -8,6 +8,8 @@ authors:
 tags:
   - forward-engineering
   - radar
+redirect:
+  - /s/U9n5_Q
 ---
 
 The Dwarves have their tradition to explore the tech scene and learn new things. Dwarves Tech Radar kicked the initial step since January of 2020.

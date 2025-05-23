@@ -8,6 +8,8 @@ authors:
 pinned: true
 tags:
   - memo
+redirect:
+  - /s/oV2uUg
 ---
 
 Memo is where we organize and render our knowledge base, capturing our activities, content maps, focused topics, and more. It's not just a static blog engine; it's a place designed to connect generations of Dwarves alumni by making our shared knowledge accessible.

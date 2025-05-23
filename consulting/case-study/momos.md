@@ -11,6 +11,8 @@ tags:
   - case-study
   - fnb
   - startup
+redirect:
+  - /s/LMI3BQ
 ---
 
 **Industry**\

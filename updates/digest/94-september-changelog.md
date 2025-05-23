@@ -3,6 +3,8 @@ title: "#94 - September Changelog"
 description: Discover the latest team updates, project progress, and new hires from our September All Hands meeting and monthly client update.
 date: 2021-10-04
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /s/MzYJ8A
 ---
 
 Just finished another All hands meeting. - The monthly team catchup and planning. As usual, the outline was

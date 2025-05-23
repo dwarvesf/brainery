@@ -13,6 +13,8 @@ tags:
   - llm
   - overleaf
   - slide
+redirect:
+  - /s/bUTYgg
 ---
 
 ## My workflow with Overleaf and ChatGPT

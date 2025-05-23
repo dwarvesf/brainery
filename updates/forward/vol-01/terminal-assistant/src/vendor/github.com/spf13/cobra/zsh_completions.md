@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/aV0AvQ
 ---
 
 ## Generating zsh completion for your cobra.Command

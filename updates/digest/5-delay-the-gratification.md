@@ -10,6 +10,8 @@ tags:
   - digest
   - discord
   - team
+redirect:
+  - /s/P_TBxw
 ---
 
 Greetings from Saigon, I’m here again, bringing you a lot of updates. There are big and small things brewing at Dwarves network. As we keep on crafting a better community day by day with you.

@@ -7,4 +7,6 @@ authors:
 tags:
   - ai
   - productivity
+redirect:
+  - /s/5T_okA
 ---

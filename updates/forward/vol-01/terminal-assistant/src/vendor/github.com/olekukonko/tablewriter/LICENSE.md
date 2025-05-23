@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/bD7CuQ
 ---
 
 Copyright (C) 2014 by Oleku Konko

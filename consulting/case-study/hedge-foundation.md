@@ -10,6 +10,8 @@ tags:
   - case-study
   - fintech
   - quant
+redirect:
+  - /s/jHcSQg
 ---
 
 **Industry**\

@@ -3,6 +3,8 @@ title: "#41 - Dwarves Updates: WeUp & NYP"
 description: Discover how Dwarves Foundation enhances internships, partnership opportunities, project management, and workflow optimization to deliver outstanding client and team experiences.
 date: 2020-09-12
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /s/2FmzLA
 ---
 
 ### Internship review

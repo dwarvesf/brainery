@@ -6,6 +6,8 @@ authors:
   - tieubao
 tags:
   - updates
+redirect:
+  - /s/VSrfzw
 ---
 
 ### PURPOSE

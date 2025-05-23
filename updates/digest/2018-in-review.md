@@ -10,6 +10,8 @@ tags:
   - team
   - updates
   - wrap-up
+redirect:
+  - /s/O8B2ZA
 ---
 
 2018 was the memorable year with lots of achievements.

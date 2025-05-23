@@ -9,6 +9,8 @@ tags:
   - brainery
   - knowledge-base
   - second-brain
+redirect:
+  - /s/nzWoaw
 ---
 
 > **tl;dr**

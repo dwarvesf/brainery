@@ -6,6 +6,8 @@ authors:
   - tieubao
   - nikkingtr
   - duynglam
+redirect:
+  - /s/Ncy_Ag
 ---
 
 Hello, It’s Han & Nikki.

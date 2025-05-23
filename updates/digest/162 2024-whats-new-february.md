@@ -9,6 +9,8 @@ tags:
   - consulting
   - newsletter
   - report
+redirect:
+  - /s/mFsdLQ
 ---
 
 - **[Reporting Tech Signals](#reporting-tech-signals)** - Latest findings on Serverless Computing, AI & ML, FinOps and CyberSecurity

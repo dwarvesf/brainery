@@ -7,6 +7,8 @@ authors:
 tags:
   - management
   - process
+redirect:
+  - /s/WqHDgw
 ---
 
 ## Democracy in a nutshell

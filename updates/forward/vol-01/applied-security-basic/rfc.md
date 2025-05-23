@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/zIz9Ww
 ---
 
 # Applied security basis

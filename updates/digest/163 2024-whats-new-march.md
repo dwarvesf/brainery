@@ -9,6 +9,8 @@ tags:
   - icy
   - newsletter
   - report
+redirect:
+  - /s/5f885w
 ---
 
 - **Reporting tech signals**: everything new on artificial intelligence, API techniques, toolings, programming languages, and the intersection of design and engineering.

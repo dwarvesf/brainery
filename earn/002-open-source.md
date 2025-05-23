@@ -7,4 +7,6 @@ authors:
 tags:
   - earn
   - open-source
+redirect:
+  - /s/G1HKQA
 ---

@@ -10,6 +10,8 @@ tags:
   - performance
   - engineering
   - newsletter
+redirect:
+  - /s/2jggIw
 ---
 
 Greetings,

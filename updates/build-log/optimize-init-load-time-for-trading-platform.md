@@ -12,6 +12,8 @@ tags:
 perma_storage_id: 'MM2yhu8HU_5jCKDP5zcFqJjQfXZjWG-4TBNuSyZ8ABg'
 minted_at: '2025-05-12'
 token_id: '12'
+redirect:
+  - /s/QXxcoA
 ---
 
 Our development team recently optimized the frontend performance of a trading platform designed for Binance traders. A key performance bottleneck was the long initial load time, which worsened as users managed more accounts. This sluggish start directly impacted the platform's responsiveness, unacceptable for real-time trading. This report outlines our solutions to this primary problem of lengthy initial load times, resulting in a much faster and more dependable user experience. Solving this required overcoming complex network and browser-side rendering limitations. Ultimately, we achieved a dramatic reduction in load times: initial content now appears in under a second, and full platform usability is reached in approximately 1.5 seconds, a significant improvement from the previous 2.5-3 seconds. The following sections explain our approach and its importance.

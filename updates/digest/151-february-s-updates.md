@@ -3,6 +3,8 @@ title: "#151 - February’s Updates"
 description: Discover February’s key updates, team achievements, and upcoming community call details to stay informed and motivated for the next project phase.
 date: 2023-02-27
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /s/Aqkobg
 ---
 
 How time flies. It's already the end of the month, check out our latest February Changelog for key updates. Let's keep the momentum going, @peeps.

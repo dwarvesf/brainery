@@ -7,6 +7,8 @@ authors:
 tags:
   - performance
   - research
+redirect:
+  - /s/R9PXcw
 ---
 
 Our organization values the research and development (R&D) efforts of our team members and aims to incorporate these contributions into performance reviews. It's important that individual R&D activities not only pursue personal growth but also align with our team and organizational objectives.

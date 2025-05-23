@@ -12,6 +12,8 @@ tags:
   - migrationless
   - llm
   - pattern-detection
+redirect:
+  - /s/bNUf9Q
 ---
 
 > **tl;dr**

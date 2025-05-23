@@ -3,6 +3,8 @@ title: "#17 - Why People so Giàu lately?"
 description: "Discover how our design team improved fintech apps, shared home desk snapshots, hosted an ADR webinar, and published SwiftUI tutorials in this week's tech update."
 date: 2020-03-28
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /s/P3SSYw
 ---
 
 ## Why People so Giàu lately?

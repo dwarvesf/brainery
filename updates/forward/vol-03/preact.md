@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/kl_y7w
 ---
 
 ## What is Preact

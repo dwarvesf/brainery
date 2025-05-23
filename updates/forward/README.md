@@ -8,6 +8,8 @@ authors:
 tags:
   - forward-engineering
   - radar
+redirect:
+  - /s/5H_Vrg
 ---
 
 ## Our perspective on technology

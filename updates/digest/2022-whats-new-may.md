@@ -9,6 +9,8 @@ tags:
   - internship
   - newsletter
   - updates
+redirect:
+  - /s/chnOcg
 ---
 
 ## Foundation

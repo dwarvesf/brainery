@@ -8,6 +8,8 @@ authors:
 tags:
   - case-study
   - ecommerce
+redirect:
+  - /s/uYhzmA
 ---
 
 **Industry**\

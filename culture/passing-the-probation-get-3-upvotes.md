@@ -6,6 +6,8 @@ authors:
   - tieubao
 tags:
   - probation
+redirect:
+  - /s/iIR42Q
 ---
 
 ## The talent pool

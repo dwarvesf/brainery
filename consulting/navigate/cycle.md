@@ -8,6 +8,8 @@ tags:
   - navigate
   - technology-cycles
   - market-analysis
+redirect:
+  - /s/v90-LA
 ---
 
 > **tl;dr;**

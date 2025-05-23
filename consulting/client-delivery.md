@@ -8,6 +8,8 @@ tags:
   - consulting
   - delivery
   - soft-skill
+redirect:
+  - /s/6IMwSA
 ---
 
 > **tl;dr**

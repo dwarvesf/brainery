@@ -14,6 +14,8 @@ tags:
   - rfc
   - second-brain
   - security
+redirect:
+  - /s/i8J9Rg
 ---
 
 ## Introduction

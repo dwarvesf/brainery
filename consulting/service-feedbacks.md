@@ -8,6 +8,8 @@ tags:
   - consulting
   - project
   - software
+redirect:
+  - /s/2HkdQA
 ---
 
 ## General questions for service feedbacks

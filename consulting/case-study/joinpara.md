@@ -10,6 +10,8 @@ tags:
   - case-study
   - healthcare
   - us
+redirect:
+  - /s/NmbKjQ
 ---
 
 **Industry**\

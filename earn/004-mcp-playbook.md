@@ -8,6 +8,8 @@ tags:
   - automation
   - earn
   - mcp-playbook
+redirect:
+  - /s/ohMW4A
 ---
 
 At Dwarves, we’re all about building smarter workflows with cutting-edge tools. This month, we’re diving into the [MCP playbook](https://github.com/dwarvesf/mcp-playbook)—a powerful server designed to automate knowledge sharing and best practices through AI-powered interactions. We need YOUR expertise to help us maximize its potential! Whether it’s crafting runbook entries, syncing prompts, or creating specs, share your ideas and earn up to _15 icy_ for every approved contribution.

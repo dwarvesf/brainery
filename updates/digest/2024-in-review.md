@@ -9,6 +9,8 @@ tags:
   - team
   - updates
   - wrap-up
+redirect:
+  - /s/CDtytA
 ---
 
 > **Before you dive in** Dwarves is operated as a 50% company, 50% community. Everything we learn along the way of work, we transform into knowledge and distribute back to our tech community.

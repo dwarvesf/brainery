@@ -13,6 +13,8 @@ tags:
   - softmax
   - llm
   - mcp
+redirect:
+  - /s/ti2s0A
 ---
 
 > **tl;dr**

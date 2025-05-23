@@ -9,6 +9,8 @@ tags:
   - community
   - memo
   - newsletter
+redirect:
+  - /s/VMmqqg
 ---
 
 - [**memo.d.foundation**](#the-growing-of-memo-pile): more entries focusing on software design, LLM and blockchain, a key focus of our continuous learning journey.

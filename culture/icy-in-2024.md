@@ -8,6 +8,8 @@ tags:
   - community
   - dfg
   - icy
+redirect:
+  - /s/h8pKpg
 ---
 
 Follow up on our recent post [[df-protocol-icy-dfg|df protocol, $icy and $dfg]].

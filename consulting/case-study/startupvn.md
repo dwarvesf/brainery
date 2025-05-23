@@ -10,6 +10,8 @@ tags:
   - case-study
   - startup
   - vietnam
+redirect:
+  - /s/_DMLEw
 ---
 
 **Industry**\

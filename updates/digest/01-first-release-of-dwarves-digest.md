@@ -6,6 +6,8 @@ tags:
   - digest
   - project
   - updates
+redirect:
+  - /s/jbC5Xg
 ---
 
 ### The next cycle: 2019 wrapping up

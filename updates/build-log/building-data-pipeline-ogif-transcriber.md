@@ -9,6 +9,8 @@ tags:
   - ai
   - agents
   - data
+redirect:
+  - /s/-2mG7A
 ---
 
 At Dwarves, we faced the challenge of efficiently transcribing and summarizing our weekly OGIF event recordings for our Brainery knowledge hub. This required developing a scalable data pipeline capable of processing YouTube videos, extracting audio, and leveraging AI models for transcription.

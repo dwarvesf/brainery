@@ -8,6 +8,8 @@ tags:
   - navigate
   - consulting
   - tech-edge
+redirect:
+  - /s/PltmGw
 ---
 
 > tl;dr

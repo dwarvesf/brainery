@@ -8,6 +8,8 @@ tags:
   - community
   - memo
   - newsletter
+redirect:
+  - /s/jPoPYw
 ---
 
 - [**We're Hiring:**](#were-hiring) On the lookout for Full-stack Engineers, Biz Devs, and Marketing minds to join the team.

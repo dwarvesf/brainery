@@ -10,6 +10,8 @@ tags:
   - newsletter
   - project
   - updates
+redirect:
+  - /s/RfTNDg
 ---
 
 Hey,

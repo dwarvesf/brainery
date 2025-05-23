@@ -10,6 +10,8 @@ tags:
   - engineering
   - newsletter
   - updates
+redirect:
+  - /s/4Y8uOw
 ---
 
 Greetings,

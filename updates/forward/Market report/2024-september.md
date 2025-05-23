@@ -12,6 +12,8 @@ tags:
   - hiring
   - labs
   - market-report
+redirect:
+  - /s/O2052g
 ---
 
 ## Key takeaways

@@ -8,6 +8,8 @@ authors:
 tags:
   - consulting
   - management
+redirect:
+  - /s/XYjO_Q
 ---
 
 ### Planning

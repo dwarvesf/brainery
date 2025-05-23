@@ -8,6 +8,8 @@ tags:
   - navigate
   - consulting
   - business-model
+redirect:
+  - /s/DU_hYA
 ---
 
 > **tl;dr**

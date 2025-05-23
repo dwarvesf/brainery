@@ -8,6 +8,8 @@ tags:
   - community
   - meet-up
   - newsletter
+redirect:
+  - /s/jB_oUw
 ---
 
 - [**Dwarves offline meet-up:**](#dwarves-community-offline-meet-up-was-a-blast) Gathering over 50 members for networking, OGIF talks, and casual team dinner.

@@ -10,6 +10,8 @@ tags:
   - community
   - reward
   - team
+redirect:
+  - /s/udxEAA
 ---
 
 ## Record & reward sharing at Dwarves

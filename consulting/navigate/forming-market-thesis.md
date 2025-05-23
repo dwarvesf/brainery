@@ -10,6 +10,8 @@ tags:
   - strategic-bets
   - innovation-analysis
   - decision-making
+redirect:
+  - /s/BA_-qw
 ---
 
 > **tl;dr;**

@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/IDQM9Q
 ---
 
 # Daemons and services programming guide

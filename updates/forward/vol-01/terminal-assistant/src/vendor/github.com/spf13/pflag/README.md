@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/q-s9cg
 ---
 
 [![Build Status](https://travis-ci.org/spf13/pflag.svg?branch=master)](https://travis-ci.org/spf13/pflag)

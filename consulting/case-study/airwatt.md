@@ -9,6 +9,8 @@ authors:
 tags:
   - case-study
   - iot
+redirect:
+  - /s/IbDIRw
 ---
 
 **Industry**\

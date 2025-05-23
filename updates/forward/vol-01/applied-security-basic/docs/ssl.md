@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s/P4JgRw
 ---
 
 # Security over SSL
