@@ -2,7 +2,6 @@
 title: Build a research-first tech company
 description: Guide to building a research-first tech company and community by turning ideas into impact, building a trusted brand, and fostering growth.
 date: 2025-05-16
-draft: true
 authors:
   - tieubao
 tags:
@@ -15,7 +14,9 @@ Want to build a tech company that leads with big ideas and creates a community a
 
 A research-first company puts discovery first. You dig into tough questions, create new solutions, and share knowledge that makes an impact. It's not just about profits (though those matter!). It's about building a brand people trust and a community that grows with you. This guide breaks it down into simple steps: start with a great team, find your unique mission, and keep going even when things get tough. You'll learn how to make more money than you spend, grow a reputation for awesome work, and attract people who share your vision.
 
-With practical tips and real-world lessons, each chapter gives you clear advice to build a company and community that thrive. Expect straightforward ideas, a few techy terms (like trade secrets or ops), and no fluff. Whether you're starting small or aiming big, this is your guide to creating something that lasts; a business that turns research into real results and a community that supports it.
+![](assets/phd051815s.gif)
+
+With practical tips and real-world lessons, each chapter gives you clear advice to build a company and community that thrive. Expect straightforward ideas, a few techie terms (like trade secrets or ops), and no fluff. Whether you're starting small or aiming big, this is your guide to creating something that lasts; a business that turns research into real results and a community that supports it.
 
 #### Core model
 
@@ -37,3 +38,7 @@ With practical tips and real-world lessons, each chapter gives you clear advice 
 - [Talent](talent.md): Attract & keep talented people
 - [Community](community.md): Grow a community: Events, forums, or online groups
 - [Scaling](scaling.md): Scale smart: Grow big but stay research-first
+
+---
+
+- Next: [Profitable: make more money than you spend](profitable.md)
