@@ -13,6 +13,8 @@ tags:
   - index
   - runbook
   - knowledge-management
+redirect:
+  - /KxIjzA
 ---
 
 Welcome to the documentation series for the **MCP (Model Context Protocol) Playbook server**. This collection of documents aims to provide a comprehensive understanding of the `mcp-playbook`, from its conceptual motivations and high-level data flows to detailed setup instructions and internal code architecture.

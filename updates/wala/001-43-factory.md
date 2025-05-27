@@ -8,6 +8,8 @@ authors:
 tags:
   - fnb
   - wala
+redirect:
+  - /LvQEyQ
 ---
 
 > **Recap:** We visited 43 Factory, a unique coffee shop in Danang run by passionate craftspeople. Their approach to talent management, quality focus, attention to detail, and brand representation through staff mirrors our software engineering values. The experience reinforced that principles of excellence transcend industries.

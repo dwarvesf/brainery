@@ -3,6 +3,8 @@ title: "#93 - Labour Contract Renewal"
 description: Renew your contract with Turing Alley LLC by Oct 1, learn about new salary and resignation terms, and join the October all-hands meeting and Mid-Autumn airdrop event.
 date: 2021-09-25
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /Fn978A
 ---
 
 ### Contract renewal: From Dwarves LLC to Turing Alley

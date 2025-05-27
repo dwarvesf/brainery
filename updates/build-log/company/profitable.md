@@ -6,6 +6,8 @@ authors:
   - tieubao
 tags:
   - management
+redirect:
+  - /nVspQg
 ---
 
 At its heart, a company's success boils down to one thing: **making more money than it spends**. That's profitability in a nutshell: **revenue > costs**. It's not about fancy formulas or overthinking it. It's a straightforward way to see if a company's winning or just spinning its wheels.

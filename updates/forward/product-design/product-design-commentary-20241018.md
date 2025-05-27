@@ -7,6 +7,8 @@ authors:
 tags:
   - product-design
   - report
+redirect:
+  - /6tkfuA
 ---
 
 ## Exploring functional and spatial relationships in generative AI design

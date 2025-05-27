@@ -6,6 +6,8 @@ authors:
   - tieubao
   - nikkingtr
   - duynglam
+redirect:
+  - /Ox9ohA
 ---
 
 Hello, It’s Han & Nikki.

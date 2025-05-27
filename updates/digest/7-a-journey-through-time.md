@@ -10,6 +10,8 @@ tags:
   - digest
   - discord
   - team
+redirect:
+  - /Ptt9Yw
 ---
 
 The sun peeks over the horizon, Saturday vibes and good news – the perfect combo. We're about to spice up your weekend with a recap of all the awesome things we whipped up this week.

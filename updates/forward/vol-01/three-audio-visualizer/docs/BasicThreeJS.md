@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /tX2bcw
 ---
 
 # `three.js` Basic Concepts

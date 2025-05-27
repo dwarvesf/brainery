@@ -9,6 +9,8 @@ tags:
   - deployment
   - github-actions
   - build-log
+redirect:
+  - /g1ps9w
 ---
 
 The Memo platform leverages GitHub Actions to automate the deployment process. This includes publishing the website and integrating with our blockchain and permanent storage systems.

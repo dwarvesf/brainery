@@ -8,6 +8,8 @@ tags:
   - publication
   - build-log
   - forward-engineering
+redirect:
+  - /jkzWcw
 ---
 
 This documentation series details how we transform raw outputs from our engineering efforts, like meeting notes, Discord chats, and tech logs, into polished content across various formats and channels, building a bridge between our daily work and our community.

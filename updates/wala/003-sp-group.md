@@ -10,6 +10,8 @@ authors:
 tags:
   - energy
   - wala
+redirect:
+  - /aqPKXg
 ---
 
 > **Recap:** Our long-awaited visit to SP Group revealed that digital transformation in large enterprises faces more cultural than technical challenges. We discovered that successful partnerships require treating external engineers as part of one team, and that effective engineers need to understand industry-specific problems beyond just coding solutions.

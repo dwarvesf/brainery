@@ -7,6 +7,8 @@ tags:
   - digest
   - project
   - updates
+redirect:
+  - /nJNCjQ
 ---
 
 ### Company updates

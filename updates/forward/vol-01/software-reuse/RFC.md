@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /vh0AeQ
 ---
 
 # Software reuse

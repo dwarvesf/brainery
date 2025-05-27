@@ -10,6 +10,8 @@ tags:
 perma_storage_id: ufL1dM3qoUd7TX9TdBQYIFLqMphA6T3pjybUhryHm4c
 minted_at: 2025-05-16
 token_id: 15
+redirect:
+  - /kurbSw
 ---
 
 Our engineering team collaborated with a confidential HRTech client to create an **MVP** for AI-based, real-time voice interviews. Built in just **two weeks** to validate the concept, the solution leverages advanced **AI** and **AI voice processing** to conduct sales-specific interviews. Despite the short development timeline, the initial results have been very promising.

@@ -15,6 +15,8 @@ tags:
   - labs
   - market-report
   - rust
+redirect:
+  - /8RECFA
 ---
 
 ## Trends on our radar

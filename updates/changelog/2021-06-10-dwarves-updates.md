@@ -10,6 +10,8 @@ tags:
   - hiring
   - newsletter
   - updates
+redirect:
+  - /rkFYkw
 ---
 
 Hi, this is Han, the CEO of Dwarves Foundation. This month the Dwarves score 40th client that we have the honor to serve. And for that, we decide to launch the Dwarves updates.

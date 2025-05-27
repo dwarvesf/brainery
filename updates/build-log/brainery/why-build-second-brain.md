@@ -9,6 +9,8 @@ tags:
   - knowledge-base
   - second-brain
   - brainery
+redirect:
+  - /dBTniQ
 ---
 
 > **tl;dr**

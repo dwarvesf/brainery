@@ -6,6 +6,8 @@ authors:
 date: 2025-05-14
 tags:
   - vibe-coding
+redirect:
+  - /bUq3JQ
 ---
 
 Here's our findouts using LLM in programming.

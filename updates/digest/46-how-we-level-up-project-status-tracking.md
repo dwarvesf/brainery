@@ -3,6 +3,8 @@ title: "#46 - How we level up project status tracking"
 description: Discover how our bi-weekly progress summaries, monthly client newsletters, and improved onboarding process enhance communication, client experience, and team integration effectively.
 date: 2020-10-24
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /zRPd1w
 ---
 
 ### Bi-weekly summary done log

@@ -8,6 +8,8 @@ tags:
   - data
   - blockchain
   - fintech
+redirect:
+  - /NtxLkg
 ---
 
 ## What is a logger, and why does it matter?

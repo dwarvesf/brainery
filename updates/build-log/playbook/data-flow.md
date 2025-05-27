@@ -11,6 +11,8 @@ tags:
   - architecture
   - nodejs
   - typescript
+redirect:
+  - /UC0Exw
 ---
 
 > **tl;dr**

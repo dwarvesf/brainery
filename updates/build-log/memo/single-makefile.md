@@ -7,6 +7,8 @@ authors:
 tags:
   - memo
   - makefile
+redirect:
+  - /7dL67w
 ---
 
 The Memo project incorporates multiple technologies, including Elixir, Node.js, and shell scripts. This diversity could pose a challenge for new team members trying to set up the development environment. To address this and accelerate the development process, we utilize a single Makefile.

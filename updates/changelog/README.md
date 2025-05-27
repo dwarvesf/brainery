@@ -2,6 +2,8 @@
 title: Dwarves updates
 description: null
 date: 2024-03-12
+redirect:
+  - /FjomvA
 ---
 
 We run our company like we build software.

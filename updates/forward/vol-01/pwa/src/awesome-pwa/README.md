@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /K55gLg
 ---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

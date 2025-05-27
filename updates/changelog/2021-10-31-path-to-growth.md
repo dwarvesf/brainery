@@ -10,6 +10,8 @@ tags:
   - engineering
   - newsletter
   - updates
+redirect:
+  - /wfmSlA
 ---
 
 Greetings,

@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /eHnk8Q
 ---
 
 # Ascii table writer

@@ -10,6 +10,8 @@ tags:
   - memo
   - remote
   - team
+redirect:
+  - /VYjspA
 ---
 
 You know, there’s something magical about bringing people together around what they love. It might seem simple, but a lot of thought goes into it. Even though our team works remotely, we have groups for activities like English, Poker, Board Games, Swimming, and Running.

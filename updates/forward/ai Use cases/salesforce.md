@@ -8,6 +8,8 @@ tags:
   - llm
   - salesforce
   - use-cases
+redirect:
+  - /WTULNQ
 ---
 
 ## Salesforce agentforce platform

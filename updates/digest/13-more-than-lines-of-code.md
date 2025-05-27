@@ -10,6 +10,8 @@ tags:
   - memo
   - remote
   - team
+redirect:
+  - /pO3PoQ
 ---
 
 Welcome to this week's edition of our roundup, where we highlight the moments that make us more than just lines of code. This week, we're jet-setting around the world with our team's summer adventures, unveiling new memo features, and cheering for a beloved teammate's new chapter in the US. From beachside workspaces to anime figurine collections, we've got it all.

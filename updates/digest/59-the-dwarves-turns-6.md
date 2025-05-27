@@ -3,6 +3,8 @@ title: "#59 - The Dwarves turns 6"
 description: "Celebrate the Dwarves' 6th anniversary, explore new open-source contributions, tech research updates, upcoming performance reviews, and the latest WhatsApp privacy controversy."
 date: 2021-01-16
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /b7x2xg
 ---
 
 ### Dwarves of the year // The dwarves turns 6

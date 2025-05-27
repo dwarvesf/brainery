@@ -8,6 +8,8 @@ tags:
   - community
   - newsletter
   - updates
+redirect:
+  - /FI2fpA
 ---
 
 In April, we leveled up Memo from a write-up space into a real knowledge hub. Our internal agent stack became more usable with updated MCP docs, and internal knowledge flows, from consulting to hiring were cleaned up and made easier to share. Highlights from the month at a glance:

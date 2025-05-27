@@ -8,6 +8,8 @@ tags:
   - community
   - memo
   - newsletter
+redirect:
+  - /ZLalXQ
 ---
 
 - [**🧙・ai-club:**](#ai-club-building-ai-agents-ai-sheep-role--copilot-bounties) We launched the AI-Club, your go-to hub for diving into AI and LLMs, where curiosity sparks real projects and dynamic discussions.

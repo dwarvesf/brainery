@@ -10,6 +10,8 @@ tags:
   - culture
   - engineer
   - software
+redirect:
+  - /kog7hg
 ---
 
 OGIF, or 'Oh God It's Friday,' is our team's weekly technical deep-dive. It's a dedicated time for engineers to present complex problems, discuss potential solutions, and explore emerging technologies relevant to our work.

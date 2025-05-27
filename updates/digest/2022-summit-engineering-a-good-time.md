@@ -11,6 +11,8 @@ tags:
   - summit
   - team
   - updates
+redirect:
+  - /Himvww
 ---
 
 We don’t treat team bonding the common way because we understand our engineers. Most of our engineers don’t want to run and get sweaty on the beach for “team-building” activities, or pretend to smile in front of the travel agent’s camera.

@@ -9,6 +9,8 @@ tags:
   - newsletter
   - summit
   - updates
+redirect:
+  - /Ae0n1Q
 ---
 
 [**Our summit 2024 adventure in Penang:**](#summit-2024-building-our-rhythm-in-penang) a team getaway that blended cultural discoveries, shared laughs, and moments to recharge for the road ahead.

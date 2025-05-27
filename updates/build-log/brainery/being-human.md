@@ -8,6 +8,8 @@ authors:
 tags:
   - knowledge-base
   - brainery
+redirect:
+  - /nhXakA
 ---
 
 > **tl;dr**

@@ -3,6 +3,8 @@ title: "#149 - ChatGPT, OGIF, New Project, New Teammates"
 description: Discover how our team integrates ChatGPT bots in Discord, boosts remote communication, launches OGIF Friday demos, welcomes new members, and plans upcoming profile photoshoots.
 date: 2023-02-13
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /gagJMg
 ---
 
 @peeps, lots of movements last week, but here are some highlights to help you keep the momentum going

@@ -13,6 +13,8 @@ tags:
   - softmax
   - llm
   - mcp
+redirect:
+  - /mYAlMQ
 ---
 
 > **tl;dr**

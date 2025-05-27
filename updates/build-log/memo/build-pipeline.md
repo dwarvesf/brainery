@@ -11,6 +11,8 @@ tags:
   - linting
   - formatting
   - build-log
+redirect:
+  - /5DMXfw
 ---
 
 The Memo platform uses a sophisticated pipeline to transform raw Markdown content into the final, published website. This process involves automated builds, data processing, and a suite of tools dedicated to ensuring content quality and consistency. This document outlines these key aspects.

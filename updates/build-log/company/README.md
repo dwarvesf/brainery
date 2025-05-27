@@ -6,6 +6,8 @@ authors:
   - tieubao
 tags:
   - management
+redirect:
+  - /j9xf9Q
 ---
 
 Welcome to a research-first tech company & community

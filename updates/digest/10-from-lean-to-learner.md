@@ -10,6 +10,8 @@ tags:
   - digest
   - memo
   - reward
+redirect:
+  - /Zw1SOg
 ---
 
 Double digits, I can't believe we've reached our 10th digest! It's been quite a journey putting together each edition and a blast creating these for you.

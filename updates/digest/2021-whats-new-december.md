@@ -9,6 +9,8 @@ tags:
   - doty
   - newsletter
   - updates
+redirect:
+  - /EYxsPA
 ---
 
 ### Moving with blockchain

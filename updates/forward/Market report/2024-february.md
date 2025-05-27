@@ -13,6 +13,8 @@ tags:
   - labs
   - market-report
   - serverless
+redirect:
+  - /gOkEiw
 ---
 
 ## Trends on our radar

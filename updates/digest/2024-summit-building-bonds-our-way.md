@@ -9,6 +9,8 @@ tags:
   - summit
   - team
   - updates
+redirect:
+  - /A5NzBg
 ---
 
 ## The journey begins

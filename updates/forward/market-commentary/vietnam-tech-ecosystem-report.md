@@ -6,6 +6,8 @@ authors:
   - ooohminh
 tags:
   - market-report
+redirect:
+  - /Sa3TwA
 ---
 
 ## Current state of the Vietnam tech market

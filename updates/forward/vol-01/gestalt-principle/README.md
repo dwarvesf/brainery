@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /1RUaUg
 ---
 
 # Gestalt principles in UI design

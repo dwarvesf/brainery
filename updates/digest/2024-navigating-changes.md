@@ -6,6 +6,8 @@ authors:
   - tieubao
 tags:
   - updates
+redirect:
+  - /mTgw2g
 ---
 
 ### PURPOSE

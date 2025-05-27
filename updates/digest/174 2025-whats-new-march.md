@@ -8,6 +8,8 @@ tags:
   - community
   - newsletter
   - updates
+redirect:
+  - /K4sy0g
 ---
 
 In March, we rolled out structured OGIF demos, launched key internal AI tools (GitHub Agent & MCP DB), and wrapped up the ICY-BTC swap. We also improved memo.d.foundation's UI, introduced meme culture internally, and our BD team tapped into Asia's Web3 and AI scenes to spot what's ahead. Here's the quick summary:

@@ -9,6 +9,8 @@ tags:
   - timescaledb
   - blockchain
   - fintech
+redirect:
+  - /B4E90Q
 ---
 
 Due to increasing trading volume, the `user_trades` and `incomes` tables have grown significantly, causing slower performance in our reporting queries. To address this, we propose migrating these tables to TimescaleDB, which will allow us to partition the data into time-based chunks. This partitioning strategy should optimize our report query performance.

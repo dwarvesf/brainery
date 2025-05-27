@@ -8,6 +8,8 @@ tags:
   - digest
   - updates
   - web-team
+redirect:
+  - /Hj92pg
 ---
 
 [Community Changelog #154] - Web Team, LLM in Production, Community Bounties

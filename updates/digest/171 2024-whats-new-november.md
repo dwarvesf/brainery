@@ -8,6 +8,8 @@ tags:
   - community
   - memo
   - newsletter
+redirect:
+  - /FMJjNw
 ---
 
 - [**Building the team's second brain:**](#building-smarter-systems-with-platform--data-engineering) Progress in platform & data engineering, smarter decision-making, and new directions ahead.

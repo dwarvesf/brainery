@@ -11,6 +11,8 @@ tags:
   - qwen25
   - openhand
   - tool
+redirect:
+  - /C1XEHQ
 ---
 
 ## Aider v0.63.0 release

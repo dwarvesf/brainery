@@ -8,6 +8,8 @@ tags:
   - newsletter
   - team
   - updates
+redirect:
+  - /RNnZBg
 ---
 
 Hello,

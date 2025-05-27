@@ -9,6 +9,8 @@ tags:
   - consulting
   - market-report
   - report
+redirect:
+  - /worwKA
 ---
 
 I recently went to two Web3 events in Vietnam: Berachain and Babylon. Both were full of energy, with people excited to talk about the future of cryptocurrency. Here’s what I learned, with some cool ideas from Berachain’s community approach mixed in.

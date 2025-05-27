@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /S4O8hg
 ---
 
 # Mimir

@@ -10,6 +10,8 @@ tags:
   - digest
   - memo
   - reward
+redirect:
+  - /vINDgQ
 ---
 
 Things are always cooking on our Discord. So grab a virtual seat at our table, pour yourself a cup of something tasty, and enjoy the digest.

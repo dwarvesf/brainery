@@ -12,6 +12,8 @@ tags:
   - hiring
   - labs
   - market-report
+redirect:
+  - /85MXtw
 ---
 
 ## Key takeaways

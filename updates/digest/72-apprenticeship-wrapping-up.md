@@ -3,6 +3,8 @@ title: "#72 - Apprenticeship wrapping up"
 description: "Discover the latest team updates, project progress, Apple Spring Event highlights, and a comparison of GCP with AWS and Azure in this week's tech roundup."
 date: 2021-04-24
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /4OxdEw
 ---
 
 ### Apprenticeship wrapping up

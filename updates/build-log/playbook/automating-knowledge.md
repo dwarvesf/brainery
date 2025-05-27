@@ -12,6 +12,8 @@ tags:
   - automation
   - prompts
   - chat-logs
+redirect:
+  - /LbtSZA
 ---
 
 > **tl;dr**

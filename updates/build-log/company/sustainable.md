@@ -6,6 +6,8 @@ authors:
   - tieubao
 tags:
   - management
+redirect:
+  - /sEJajg
 ---
 
 Ever wonder how some companies just keep thriving, year after year, no matter what hits them? It's not magic: it's **sustainability**. For us, that means looking ahead and making choices that keep our company strong not just today, but for the long haul. Think of it like saving up for something big instead of spending every penny right now. It's about the future as much as the present.

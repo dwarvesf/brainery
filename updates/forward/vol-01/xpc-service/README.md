@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /08vaCw
 ---
 
 # XPC services on macOS app using Swift

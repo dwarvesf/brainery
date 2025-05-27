@@ -9,6 +9,8 @@ tags:
   - blockchain
   - newsletter
   - updates
+redirect:
+  - /TS2WMg
 ---
 
 ### Performance review

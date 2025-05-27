@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /TcO1MA
 ---
 
 We even hosted a Radio Talk on this, where our QC Lead explained how the team utilizes Testlink to enhance and finetune our test report with better visuals and functions.

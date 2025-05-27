@@ -3,6 +3,8 @@ title: "#101 - DaNang Office"
 description: Join the November All-hands Meeting on December 2 to hear project updates, team news, and learn about the new Da Nang office and job opportunities.
 date: 2021-11-27
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /NZHCRw
 ---
 
 A small reminder: November All-hands Meeting is coming this Friday, December 02.

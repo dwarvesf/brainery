@@ -15,6 +15,8 @@ tags:
   - gcp-s3
   - mcp
   - second-brain
+redirect:
+  - /alm7fQ
 ---
 
 > **tl;dr**

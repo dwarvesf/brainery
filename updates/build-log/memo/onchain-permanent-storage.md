@@ -11,6 +11,8 @@ tags:
   - nft
   - base
   - build-log
+redirect:
+  - /IW9O6A
 ---
 
 ### Why we use onchain permanent storage

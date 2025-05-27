@@ -9,6 +9,8 @@ tags:
   - meet-up
   - newsletter
   - updates
+redirect:
+  - /ijdhnR8
 ---
 
 Last November, we kicked off the Labs team, introduced Salary advance for the Dwarves, upgraded memo.d.foundation, supported Golang meetup, and demonstrated craftsmanship through various case studies and demos.

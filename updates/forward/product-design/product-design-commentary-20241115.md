@@ -8,6 +8,8 @@ authors:
 tags:
   - product-design
   - report
+redirect:
+  - /3QU61Q
 ---
 
 Artificial Intelligence (AI) brings boundless opportunities to enhance both user experience and daily life. While foundational technologies often seem under the purview of data scientists and engineers, designers play a crucial role in bridging the gap between user needs and emerging technologies. This article explores **the role of UX** and **how to determine which user problems are best solved with AI** while assessing their effectiveness.

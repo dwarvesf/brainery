@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /J5QYsA
 ---
 
 # Domain insight research framework

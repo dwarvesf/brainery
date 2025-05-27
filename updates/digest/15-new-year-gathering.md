@@ -9,6 +9,8 @@ tags:
   - community
   - digest
   - team
+redirect:
+  - /WZTUFA
 ---
 
 We kicked off our gathering after Tết, bringing the community back together in true Dwarves style - dropping some SOL and ICY tokens into everyone's wallets, bringing the community back together in true Dwarves style. Not a bad way to start the year.

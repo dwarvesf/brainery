@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /d3iWsw
 ---
 
 # Remote moderated usability tests case study

@@ -3,6 +3,8 @@ title: "#99 - New PM, new Blockchain Prj & New remote-work policy"
 description: Meet our new Project Manager and Backend Lead as we launch a blockchain trading platform and resume weekly engineering meetings for better team collaboration.
 date: 2021-11-13
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /tkxJZw
 ---
 
 Last Monday, we welcomed a new Project Manager. Along with Khai, he will start to oversee our current project, input his work experience and help us deliver a better standard of project quality. Also, we're happy to onboard a new Backend Lead to help grow the team.

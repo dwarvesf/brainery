@@ -7,6 +7,8 @@ authors:
 tags:
   - product-design
   - report
+redirect:
+  - /v74MVg
 ---
 
 The longstanding challenge of communication between humans and machines has been ongoing since the dawn of computing. With the emergence of large language models (LLMs), prompting has become a powerful tool in facilitating this communication. The role of UX designers is to help bridge this gap by designing effective systems and interactions that allow humans to better understand and utilize these advanced AI technologies.

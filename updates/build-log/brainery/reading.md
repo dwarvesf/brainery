@@ -11,6 +11,8 @@ tags:
   - second-brain
   - reading-workflow
   - insight-generation
+redirect:
+  - /gEu4Gw
 ---
 
 > **tl;dr** Brainery creates a dynamic reading workflow by helping you integrate what you read and proactively suggesting new content and **insights** based on your growing **knowledge base**.

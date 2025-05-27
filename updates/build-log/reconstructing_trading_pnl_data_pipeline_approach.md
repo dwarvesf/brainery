@@ -8,6 +8,8 @@ tags:
   - data
   - blockchain
   - fintech
+redirect:
+  - /l5r7QQ
 ---
 
 ## Executive summary

@@ -6,6 +6,8 @@ tags:
   - digest
   - project
   - updates
+redirect:
+  - /94lpmg
 ---
 
 ### The next cycle: 2019 wrapping up

@@ -11,6 +11,8 @@ tags:
   - llm
   - timescaledb
   - second-brain
+redirect:
+  - /Bohwcw
 ---
 
 > **tl;dr**

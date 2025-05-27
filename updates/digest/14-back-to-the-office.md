@@ -9,6 +9,8 @@ tags:
   - digest
   - hybrid-work
   - team
+redirect:
+  - /ad9Ccg
 ---
 
 Since the start, Dwarves has valued flexibility, allowing our team to work where inspiration strikes. But there's something special about being together, learning, sharing knowledge, and working side by side.

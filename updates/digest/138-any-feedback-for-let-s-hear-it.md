@@ -3,6 +3,8 @@ title: "#138 - Any feedback for Let’s Hear IT?"
 description: Stay updated with the Soft Launch Dwarves Podcast on Spotify and Google Podcast, tech event recaps, apprentice stories, and team news including promotions and merchandise deliveries.
 date: 2022-09-22
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /snVs2Q
 ---
 
 Soft Launch Dwarves Podcast: Let’s Hear IT

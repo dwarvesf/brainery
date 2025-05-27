@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /fDJyQBY
 ---
 
 # Dwarves tech radar - vol 01

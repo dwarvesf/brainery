@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /lBUE6A
 ---
 
 <img src="assets/search-gopher-1.png" alt="gopher looking for stuff"> <img src="assets/search-gopher-2.png" alt="gopher found stuff">

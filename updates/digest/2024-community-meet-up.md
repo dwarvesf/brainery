@@ -8,6 +8,8 @@ tags:
   - community
   - meet-up
   - newsletter
+redirect:
+  - /jQ1Uzg
 ---
 
 At the end of May, we had the pleasure of hosting our second community meet-up. With over 50 folks, including notable community members @jack, @congiomat, and @tannhatcms, it was a meaningful gathering.

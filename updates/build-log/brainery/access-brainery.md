@@ -12,6 +12,8 @@ tags:
   - mcp
   - developer-access
   - integration
+redirect:
+  - /ux12bw
 ---
 
 > **tl;dr**

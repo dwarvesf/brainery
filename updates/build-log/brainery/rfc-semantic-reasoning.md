@@ -17,6 +17,8 @@ tags:
   - semantic-reasoning
   - temporal-reasoning
   - timescaledb
+redirect:
+  - /jGkESA
 ---
 
 ## Abstract

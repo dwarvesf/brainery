@@ -9,6 +9,8 @@ tags:
   - remote
   - team
   - updates
+redirect:
+  - /DRw70A
 ---
 
 We're closing July with some notable highlights. Let's go through them.

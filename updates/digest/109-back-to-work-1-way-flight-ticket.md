@@ -3,6 +3,8 @@ title: "#109 - Back to work & 1-way flight Ticket"
 description: "Start your work year energized after Lunar New Year with one-way flight tickets and catch Agile Software Development insights from Tuan Tran's presentation online."
 date: 2022-02-08
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /lkWRAw
 ---
 
 Everyone, it's great to have you back at work. I hope everyone enjoys a wonderful Lunar New Year holiday with your family and returns to work in the best possible condition. It's time to put our hands on our hips and get to work ❤️

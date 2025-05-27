@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /s3hKPQ
 ---
 
 # Reuse in software development

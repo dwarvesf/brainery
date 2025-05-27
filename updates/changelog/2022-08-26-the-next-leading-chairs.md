@@ -9,6 +9,8 @@ tags:
   - newsletter
   - team
   - updates
+redirect:
+  - /6nkAeg
 ---
 
 ## Our vision for growth

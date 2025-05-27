@@ -11,6 +11,8 @@ tags:
   - llm
   - labs
   - market-report
+redirect:
+  - /6mvy0g
 ---
 
 ## Key takeaways

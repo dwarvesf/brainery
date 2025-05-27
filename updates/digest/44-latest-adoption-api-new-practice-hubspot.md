@@ -3,6 +3,8 @@ title: "#44 - Latest Adoption: API New Practice & Hubspot"
 description: Learn how our new API naming convention improves project management and how centralizing data on Hubspot enhances team access and customer experience.
 date: 2020-10-10
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /Zwv97Q
 ---
 
 ### New practice: API naming convention

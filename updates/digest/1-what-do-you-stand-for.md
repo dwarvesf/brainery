@@ -10,6 +10,8 @@ tags:
   - digest
   - discord
   - remote
+redirect:
+  - /sxIyQg
 ---
 
 ### Lock in your workspace. Show the world

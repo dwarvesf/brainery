@@ -3,6 +3,8 @@ title: "#30 - The Last Few Days for End of Cycle Dinner RSVP"
 description: "Discover the redesigned Dwarves website Work section, insights on company culture with 'People Matter,' and RSVP details for the upcoming End of Cycle Dinner."
 date: 2020-06-27
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /CtAgvw
 ---
 
 ### New UI setup for Dwarves website/ Our work

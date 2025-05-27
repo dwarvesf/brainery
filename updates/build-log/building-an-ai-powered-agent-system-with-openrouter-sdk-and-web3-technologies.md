@@ -7,6 +7,8 @@ authors:
 tags:
   - ai
   - agents
+redirect:
+  - /v9yu5w
 ---
 
 ## Project summary

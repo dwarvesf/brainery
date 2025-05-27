@@ -8,6 +8,8 @@ tags:
   - community
   - newsletter
   - updates
+redirect:
+  - /UfQa7g
 ---
 
 - [**From remote-first to hybrid:**](#the-transition-to-hybrid-mode-strengthening-team-presence-with-coordination-and-perks) We've transitioned to a hybrid model, coordinated schedules, and rolled out perks like lunch support, transport coverage, and an Office Leaderboard to keep engagement high.

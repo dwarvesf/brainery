@@ -9,6 +9,8 @@ hide_on_sidebar: true
 tags:
   - dwarves
   - work
+redirect:
+  - /mfToTQ
 ---
 
 This is our newsletter page, where we keep you up to date with latest industry news and updates, valuable content from our engineers at Dwarves, and a picture of how we operate with our engineers and community.

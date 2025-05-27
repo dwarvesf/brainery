@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /Gc23Zw
 ---
 
 We could find a bunch of AARRR frameworks definition across the internet (Thanks to Google). I don’t intend to create another one here.

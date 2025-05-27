@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /vqh8Sw
 ---
 
 Once every month, we gather for Radar update to round up the cool techs and assess if we should adopt that to the team. We kicked off the first volume not too long ago, mainly focused on what people want to dive in. More of them fell on personal interest.

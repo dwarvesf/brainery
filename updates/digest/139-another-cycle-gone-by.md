@@ -3,6 +3,8 @@ title: "#139 - Another cycle gone by"
 description: Discover how our team boosted September growth by 50%, shared Apprenticeship 2022 insights, and is hiring a digital marketer to expand our audience.
 date: 2022-09-30
 last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /wyoQeg
 ---
 
 Closing September with All-Hands Meeting’s agenda as usual. Hope y’all enjoy the team dinner yesterday. Thank @peeps for being with us through another cycle.

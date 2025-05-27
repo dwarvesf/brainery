@@ -9,6 +9,8 @@ tags:
   - design
   - ui
   - ux
+redirect:
+  - /9NdQng
 ---
 
 Frank Chimero has been branding for over 20 years in New York. Recently, he was creative director at FictiveKin.
