@@ -8,6 +8,8 @@ tags:
   - navigate
   - market-changes
   - validation
+redirect:
+  - /qZq5ZQ
 ---
 
 > **tl;dr;**

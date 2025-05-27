@@ -12,6 +12,8 @@ tags:
 perma_storage_id: 'XBTMaZOQBPLJ9GIqn-IM0LGkVIaXh1BWs_NfZRf_w4s'
 minted_at: '2025-05-12'
 token_id: '8'
+redirect:
+  - /PXeiCw
 ---
 
 Picture building a Lego tower every day. People love your towers, but they talk about the last one you made. If it’s sturdy, they’re thrilled. If it wobbles, that’s what they notice. This article is about that idea: **your last work matters most right now**. Everyone has off days, maybe from burnout or routine. It’s not just about feeling down; it’s about noticing and getting back to work you’re proud of. In software, where every update shapes user trust, this keeps a team sharp. **What makes you want to build your best tower?**

@@ -8,6 +8,8 @@ tags:
   - navigate
   - technology-cycles
   - market-analysis
+redirect:
+  - /yARSZA
 ---
 
 > **tl;dr;**

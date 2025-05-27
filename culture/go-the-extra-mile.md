@@ -15,6 +15,8 @@ perma_storage_id: 3W-Sb3cL1yXtJSjG_ffZjSpCnY02z9yv2KpW87E4Ofw
 should_mint: true
 minted_at: '2025-05-09'
 token_id: '2'
+redirect:
+  - /yIEYrg
 ---
 
 A couple days ago, I was asked if I were ever a product person, what would I do to make the best out of it.

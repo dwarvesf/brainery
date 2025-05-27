@@ -9,6 +9,8 @@ authors:
 tags:
   - case-study
   - fintech
+redirect:
+  - /DEt3Fw
 ---
 
 **Industry**\

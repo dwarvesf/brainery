@@ -13,6 +13,8 @@ tags:
 perma_storage_id: 'HHmgkmHlIQupPrA8mxrMb4WgakbrPnOV7SXLlJlhkn0'
 minted_at: '2025-05-12'
 token_id: '11'
+redirect:
+  - /Hkx7GQ
 ---
 
 At Dwarves, _the core team live and breathe growth_. We believe that growth is our universal language, and we're always striving to improve ourselves, both personally and professionally. It's not just a job for us; it's a way of life. We're hustlers with an extra hat, always pushing ourselves to be better and earn more.

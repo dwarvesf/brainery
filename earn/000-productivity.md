@@ -7,6 +7,8 @@ authors:
 tags:
   - earn
   - productivity
+redirect:
+  - /fGb9bQ
 ---
 
 At [Company/Community Name], we’re obsessed with working smarter, not harder. This month, we’re tapping into the power of AI to speed up our processes, and we need YOUR ideas to make it happen! Whether it’s automating writing, deploying AI agents, or streamlining workflows, share your proposal and earn _15 icy_ for every approved idea.

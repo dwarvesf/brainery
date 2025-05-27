@@ -7,4 +7,6 @@ authors:
 tags:
   - earn
   - liquidity
+redirect:
+  - /qM4N9g
 ---

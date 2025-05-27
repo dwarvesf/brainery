@@ -10,6 +10,8 @@ tags:
   - case-study
   - startup
   - us
+redirect:
+  - /Qr2LLA
 ---
 
 **Industry**\

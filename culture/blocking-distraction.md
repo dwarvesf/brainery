@@ -6,6 +6,8 @@ authors:
   - tieubao
 tags:
   - productivity
+redirect:
+  - /nB1Quw
 ---
 
 Finding solitude in information overwhelming world.

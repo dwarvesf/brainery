@@ -7,6 +7,8 @@ authors:
 tags:
   - management
   - productivity
+redirect:
+  - /QTAEhQ
 ---
 
 Sustainable growth companies are built by teams of shining constellations rather than just several bright stars.

@@ -11,6 +11,8 @@ tags:
   - case-study
   - enterprise
   - marketplace
+redirect:
+  - /FRzphQ
 ---
 
 **Industry**\

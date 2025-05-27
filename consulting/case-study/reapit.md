@@ -10,6 +10,8 @@ tags:
   - case-study
   - enterprise
   - real-estate
+redirect:
+  - /oOpWiA
 ---
 
 **Industry**\

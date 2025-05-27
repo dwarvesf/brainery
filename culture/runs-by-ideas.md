@@ -7,6 +7,8 @@ authors:
 tags:
   - management
   - productivity
+redirect:
+  - /j6uYwA
 ---
 
 ## Minimal human intervention

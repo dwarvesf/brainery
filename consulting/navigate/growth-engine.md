@@ -8,6 +8,8 @@ tags:
   - navigate
   - market-changes
   - tech-trends
+redirect:
+  - /6rFhXA
 ---
 
 > **tl;dr**

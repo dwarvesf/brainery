@@ -6,6 +6,8 @@ authors:
   - tieubao
 tags:
   - consulting
+redirect:
+  - /6xTrgA
 ---
 
 Choosing a technology partner is a big decision. To ease this, we offer a **pilot run**: a flexible, low-risk paid trial. It lets clients experience our services firsthand, see our value, and addresses worries about new teams, contracts, and long-term commitments.

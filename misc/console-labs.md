@@ -7,4 +7,6 @@ authors:
 tags:
   - console-labs
   - product-arm
+redirect:
+  - /IHH4TA
 ---

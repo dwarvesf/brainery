@@ -10,6 +10,8 @@ tags:
   - blockchain
   - case-study
   - swap
+redirect:
+  - /7qt7zw
 ---
 
 **Industry**\

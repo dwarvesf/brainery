@@ -10,6 +10,8 @@ authors:
 tags:
   - case-study
   - hospitality
+redirect:
+  - /KS8TLg
 ---
 
 **Industry**\

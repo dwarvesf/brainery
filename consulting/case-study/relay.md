@@ -10,6 +10,8 @@ tags:
   - case-study
   - startup
   - us
+redirect:
+  - /SZG44Q
 ---
 
 **Industry**\

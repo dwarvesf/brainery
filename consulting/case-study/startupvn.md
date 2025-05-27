@@ -10,6 +10,8 @@ tags:
   - case-study
   - startup
   - vietnam
+redirect:
+  - /h4yfsA
 ---
 
 **Industry**\

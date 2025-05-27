@@ -7,6 +7,8 @@ authors:
   - nikkingtr
 tags:
   - consulting
+redirect:
+  - /ZNNtMQ
 ---
 
 ## Our culture & approach

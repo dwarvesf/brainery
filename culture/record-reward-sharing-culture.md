@@ -10,6 +10,8 @@ tags:
   - community
   - reward
   - team
+redirect:
+  - /KaApeg
 ---
 
 ## Record & reward sharing at Dwarves

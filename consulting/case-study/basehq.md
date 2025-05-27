@@ -10,6 +10,8 @@ tags:
   - case-study
   - startup
   - us
+redirect:
+  - /f8k7Aw
 ---
 
 **Industry**\

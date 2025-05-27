@@ -7,6 +7,8 @@ authors:
 tags:
   - consulting
   - sales
+redirect:
+  - /rbH3bg
 ---
 
 ## Kicking off the sales cycle

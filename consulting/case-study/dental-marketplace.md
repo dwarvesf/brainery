@@ -9,6 +9,8 @@ tags:
   - case-study
   - marketplace
   - startup
+redirect:
+  - /NnQxNQ
 ---
 
 **Industry**\

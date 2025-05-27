@@ -10,6 +10,8 @@ tags:
   - ai
   - case-study
   - hiring
+redirect:
+  - /FpPJZw
 ---
 
 **Industry**

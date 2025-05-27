@@ -11,6 +11,8 @@ tags:
 perma_storage_id: 'fq18sduTOl4opng_UQ5knJa5R5acSoxPFF4W-PPWvOw'
 minted_at: '2025-05-12'
 token_id: '10'
+redirect:
+  - /a43m2A
 ---
 
 ## The common dilemma

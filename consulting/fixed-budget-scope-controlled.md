@@ -8,6 +8,8 @@ authors:
 tags:
   - consulting
   - budgeting
+redirect:
+  - /hTNUtA
 ---
 
 Dwarves specializes in building custom software, where complexity makes project pricing challenging. Traditional approaches like "Fixed price" and "Time and materials" (T&M) often fall short of building the *best* software within a *responsible* budget. This led us to adopt **Fixed-budget, Scope-controlled (FBSC)**. The technique is originally from [Atomic Object](https://atomicobject.com/client-resources/fixed-budget-scope-controlled).

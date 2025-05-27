@@ -9,6 +9,8 @@ tags:
   - navigate
   - performance
   - competency
+redirect:
+  - /BpQtqA
 ---
 
 > **tl;dr**

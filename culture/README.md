@@ -7,6 +7,8 @@ authors:
 tags:
   - culture
   - overview
+redirect:
+  - /UJN9wA
 ---
 
 ## Beyond the handbook

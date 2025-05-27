@@ -7,6 +7,8 @@ authors:
 tags:
   - delegate
   - management
+redirect:
+  - /uloBEg
 ---
 
 We can bring in all the technology in the world, but if we can’t delegate properly, our companies have no chance of scaling well.

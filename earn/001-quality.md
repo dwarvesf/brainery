@@ -7,4 +7,6 @@ authors:
 tags:
   - earn
   - quality
+redirect:
+  - /uvE8WA
 ---

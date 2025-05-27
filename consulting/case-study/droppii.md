@@ -10,6 +10,8 @@ tags:
   - case-study
   - dropshipping
   - ecommerce
+redirect:
+  - /rVcCnw
 ---
 
 **Industry**\

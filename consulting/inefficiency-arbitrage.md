@@ -10,6 +10,8 @@ tags:
   - efficiency
   - tech
   - strategy
+redirect:
+  - /DcYqug
 ---
 
 > **tl;dr**

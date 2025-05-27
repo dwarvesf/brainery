@@ -10,6 +10,8 @@ authors:
 tags:
   - case-study
   - partnership
+redirect:
+  - /X3tQAQ
 ---
 
 **Industry**\

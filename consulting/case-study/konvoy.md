@@ -9,6 +9,8 @@ tags:
   - australia
   - case-study
   - enterprise
+redirect:
+  - /zOPkzQ
 ---
 
 **Industry**\

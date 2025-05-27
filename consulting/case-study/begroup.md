@@ -8,6 +8,8 @@ authors:
 tags:
   - case-study
   - ride-hailing
+redirect:
+  - /PsA31g
 ---
 
 **Industry**\

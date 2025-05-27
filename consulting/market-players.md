@@ -6,6 +6,8 @@ authors:
   - tieubao
 tags:
   - consulting
+redirect:
+  - /jnMWig
 ---
 
 ## The consulting world

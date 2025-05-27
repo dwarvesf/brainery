@@ -8,6 +8,8 @@ authors:
 tags:
   - case-study
   - travel
+redirect:
+  - /rW7dkA
 ---
 
 **Industry**\

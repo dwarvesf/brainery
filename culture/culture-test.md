@@ -7,6 +7,8 @@ authors:
 tags:
   - culture
   - testing
+redirect:
+  - /1orELw
 ---
 
 This is the culture test for Dwarves, developed as we face the challenges of the late 2024 market. The goal is simple: to focus on what matters most, our cultural values. This test isn’t about jumping through hoops; it’s about understanding how we work, what we stand for, and how you can contribute.

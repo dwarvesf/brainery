@@ -7,6 +7,8 @@ authors:
 tags:
   - performance
   - people
+redirect:
+  - /tranOQ
 ---
 
 ## Fire quickly

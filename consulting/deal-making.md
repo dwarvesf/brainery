@@ -7,6 +7,8 @@ authors:
 tags:
   - consulting
   - deal-making
+redirect:
+  - /mwtfEg
 ---
 
 > **tl;dr**

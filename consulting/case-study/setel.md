@@ -10,6 +10,8 @@ authors:
 tags:
   - case-study
   - enterprise
+redirect:
+  - /XEFZLw
 ---
 
 **Industry**\

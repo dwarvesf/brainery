@@ -9,6 +9,8 @@ authors:
 tags:
   - blockchain
   - case-study
+redirect:
+  - /l0RoyQ
 ---
 
 **Industry**\
