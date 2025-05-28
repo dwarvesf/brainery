@@ -41,6 +41,7 @@ Here's a list of documents detailing the development of Memo:
 - [Build pipeline](build-pipeline.md): Outlines the automated process for building and deploying Memo.
 - [Automate static site deployment](deployment.md): Focuses on the automation of our static site deployment process.
 - [Build an onchain profile](onchain-profile.md): Explains the process of creating an onchain profile for content creators.
+- [Redirect and alias](redirect-and-alias.md): Details the implementation of URL redirects and aliases for better SEO and user experience.
 
 ---
 
