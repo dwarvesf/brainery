@@ -30,9 +30,14 @@ LIMIT 5;
 
 ## Key articles for consultants
 
+### Overview
+
 - [Organize consultant team](build-consultant-team.md): How to set up and run the team well.
 - [The adjacent possible](adjacent-possible.md): Understanding innovation and possibilities.
 - [Market players](market-players.md): Identifying key players in the market.
+
+### Sales process
+
 - [Leads generation](leads-generation.md): Strategies for finding potential clients and new business.
 - [Inefficiency arbitrage](inefficiency-arbitrage.md): Find and make money from things that aren't working right in the market.
 - [Apply as a squad](apply-as-a-squad.md): How to work as a squad to land deals.
@@ -42,11 +47,17 @@ LIMIT 5;
 - [Fixed-budget, Scope-controlled](fixed-budget-scope-controlled.md): Managing fixed budget and scope.
 - [Understanding billing by hours](bill-by-hours.md): Understanding billing by hours.
 - [A pilot run](pilot-run.md): Experience our services firsthand.
+
+### Start the project
+
 - [Client onboarding](client-onboarding.md): How to onboard client.
 - [Project delivery and soft skills](client-delivery.md): How to do great work for clients and get along with people.
 - [Required dev skills](dev-skill-required.md): Required skills for developers working with clients.
 - [Client-side and Agency-side](client-side-agency-side.md): What it's like being a client vs. being an agency.
 - [Service feedbacks](service-feedbacks.md): How to get and use feedback from clients to get better.
+
+### Others
+
 - [Partner network](partners-network.md): Build connections with others you work with.
 - [Navigate through changes](navigate/README.md): Help the team deal with changes.
 
