@@ -34,7 +34,7 @@ date: null
 - Signature: [sign.d.foundation](http://sign.d.foundation)
 - Profiling: [link.d.foundation/profiling](http://link.d.foundation/profiling)
 - Prompts: [memo/prompts](https://memo.d.foundation/prompts)
-- Status: [??]
+- Status: [memo/status](https://memo.d.foundation/links)
 
 ### Misc
 

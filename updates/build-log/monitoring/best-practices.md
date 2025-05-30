@@ -52,7 +52,7 @@ Monitoring systems are only as good as the people using them. If your team doesn
 
 **Good monitoring includes training and documentation.** Make sure everyone knows how to use your monitoring tools and what to do when alerts fire.
 
-![[monitoring-common-mistake.png]]
+![](assets/monitoring-common-mistake.png)
 ## Practices that actually work
 
 Based on our experience, here are the practices that lead to successful monitoring systems:

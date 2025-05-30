@@ -28,7 +28,7 @@ When something goes wrong, your monitoring system should guide you through a log
 
 Each component serves a specific purpose in this investigation flow. When they work together smoothly, debugging becomes systematic rather than frantic.
 
-![[monitoring-investigation.png]]
+![](assets/monitoring-investigation.png)
 
 ### Starting with alerts
 
