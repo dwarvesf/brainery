@@ -1,5 +1,6 @@
 ---
 title: Build a research-first tech company
+short_title: § Research-first tech company 🧪
 description: Guide to building a research-first tech company and community by turning ideas into impact, building a trusted brand, and fostering growth.
 date: 2025-05-16
 authors:

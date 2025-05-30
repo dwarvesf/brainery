@@ -28,6 +28,8 @@ Trade secrets aren't just patents and formulas. They're methodologies, framework
 
 In research-first companies, trade secrets often live in the minds of your team and the systems you've built to capture and apply knowledge. It's your unique research methodologies, your network of industry contacts, your accumulated understanding of how different technologies actually work in practice.
 
+![](assets/zippy-secret-sauce.png)
+
 ## The compound effect
 
 When brand value and trade secrets work together, they create a virtuous cycle. Your reputation attracts interesting problems, which generate new insights, which become proprietary knowledge, which enables better solutions, which strengthens your reputation.
