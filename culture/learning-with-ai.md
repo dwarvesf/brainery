@@ -10,6 +10,8 @@ tags:
   - learning
   - mindset
   - communication
+redirect:
+  - /a7aeVA
 ---
 
 ## The power of innocent questions in an AI world
