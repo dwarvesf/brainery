@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /0wTpzQ
 ---
 
 ## Dwarves Index
