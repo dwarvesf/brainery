@@ -29,7 +29,7 @@ With practical tips and real-world lessons, each chapter gives you clear advice 
 
 #### How to build
 
-- [Research/Consulting Team](research-consulting.md): Start with a strong research/consulting team
+- [Research Team](research-consulting.md): Start with a strong research team
 - [Identity](identity.md): Know your mission & what makes you special
 - [Get money to grow](funding.md): Investors, grants, or partners
 - [Trusted Brand](brand.md): Build a trusted brand: Be known for great work
