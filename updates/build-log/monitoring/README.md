@@ -1,9 +1,10 @@
 ---
-title: § How we build our monitoring system
-description: null
+title: How we build our monitoring system
+short_title: § Monitoring 
+description: A guide to building effective monitoring systems, covering components, implementation, metrics, correlation, and scaling strategies for tech teams.
+date: 2025-05-14
 authors:
   - tieubao
-date: 2025-05-14
 tags:
   - monitoring
 ---
