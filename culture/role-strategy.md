@@ -30,6 +30,8 @@ This requires a different kind of team - one that can:
 - **Convert technical expertise into business opportunities** using inefficiency arbitrage  
 - **Deliver at the highest technical standards** while maintaining research velocity
 
+![](assets/role-strategy.png)
+
 ## The virtuous cycle
 
 This role strategy creates a self-reinforcing growth wheel where each role enables the next step:
