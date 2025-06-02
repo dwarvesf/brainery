@@ -1,6 +1,6 @@
 ---
-title: Data flow in MCP Playbook
-description: How data flows through the MCP Playbook server, from MCP client requests to tool execution and interactions with the file system and GitHub.
+title: "MCP playbook data flow"
+description: "How data flows through the MCP playbook server, from MCP client requests to tool execution and interactions with the file system and GitHub. This overview helps you understand the architecture and system interactions for better troubleshooting and development."
 date: 2025-05-13
 authors:
   - monotykamary
@@ -142,7 +142,7 @@ sequenceDiagram
 
 ## Data persistence and external interactions
 
-* **Local File System**: The server directly interacts with the file system for tools that create or modify documentation (`create_spec`, `create_adr`, `create_changelog`) and for locally saving chat logs before upload. All these operations are scoped to the `target_project_dir` provided in the tool arguments.
+* **Local file system**: The server directly interacts with the file system for tools that create or modify documentation (`create_spec`, `create_adr`, `create_changelog`) and for locally saving chat logs before upload. All these operations are scoped to the `target_project_dir` provided in the tool arguments.
 * **GitHub**: Several tools interact with GitHub repositories:
   * `dwarvesf/runbook`: Searched by `search_runbook` and updated by `suggest_runbook`.
   * `dwarvesf/prompt-db`: Searched by `search_prompts` and updated by `sync_prompt`.
@@ -157,3 +157,7 @@ sequenceDiagram
 * **Focused scope**: The server's tools are specifically designed for documentation assistance, knowledge base interaction, and chat log management within the Dwarves Foundation ecosystem.
 
 This data flow ensures that the `mcp-playbook` can effectively assist LLMs by providing a structured way to interact with project files and relevant GitHub repositories, streamlining documentation and knowledge sharing processes.
+
+---
+
+* Next: [MCP playbook code flow](code-flow.md)

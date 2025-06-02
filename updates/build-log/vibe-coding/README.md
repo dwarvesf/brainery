@@ -10,6 +10,13 @@ redirect:
   - /bUq3JQ
 ---
 
+browse: web
+playground/notebook: latitude
+storage: github > feed to mcp-playbook
+key: vault ~ dev
+
+-------
+
 planner
 consultant
 qa/data/sec

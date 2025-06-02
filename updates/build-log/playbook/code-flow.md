@@ -1,6 +1,6 @@
 ---
-title: "MCP playbook code and data flow"
-description: "A detailed look into the mcp-playbook's internal code flow, data handling for chat logs and prompts, and interactions with GitHub repositories like prompt-db and prompt-log."
+title: "MCP playbook code flow"
+description: "A detailed look into the mcp-playbook's internal code flow, data handling for chat logs and prompts, and interactions with GitHub repositories like prompt-db and prompt-log. This technical deep-dive helps developers understand the implementation details for debugging and extending functionality."
 date: 2025-05-13
 authors:
   - monotykamary
@@ -158,3 +158,7 @@ The `sync_prompt` tool facilitates saving and versioning LLM prompts.
 This allows for a centralized and version-controlled database of prompts used across different projects and by various team members. The `search_prompts` tool, in contrast, searches the categorized directories like `coding/`, `general/`, etc., within `prompt-db`, intentionally excluding the `.synced_prompts/` directory which acts more as a direct, raw sync target.
 
 This detailed code and data flow provides clarity on how `mcp-playbook` operates internally and manages the crucial task of knowledge capture and dissemination in an AI-augmented development environment.
+
+---
+
+* Next: [Back to documentation index](README.md)

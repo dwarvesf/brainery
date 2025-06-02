@@ -1,5 +1,5 @@
 ---
-title: "MCP Playbook: Automating Knowledge from AI Interactions to a Living Runbook"
+title: "AI knowledge automation"
 description: "Exploring the motivations behind the MCP Playbook, its role in establishing a dynamic runbook, and new patterns for capturing AI-generated knowledge like chat logs and prompts."
 date: 2025-05-13
 authors:
@@ -63,9 +63,13 @@ The `mcp-playbook`, the `runbook`, and the practices for managing AI chat logs a
 
 By reducing the friction of knowledge capture and sharing, we aim to:
 
-* **Accelerate learning and onboarding.**
-* **Improve decision-making by making relevant information readily available.**
+* **Speed up learning and onboarding.**
+* **Improve decisions by making relevant information easy to find.**
 * **Preserve institutional memory, especially tacit knowledge made explicit through AI interactions.**
 * **Foster a culture of proactive documentation and collaborative improvement.**
 
 The journey is ongoing, but the `mcp-playbook` has been a critical enabler, demonstrating the power of thoughtful automation in not just managing, but actively enhancing how we share and grow our collective knowledge.
+
+---
+
+* Next: [MCP playbook data flow](data-flow.md)
