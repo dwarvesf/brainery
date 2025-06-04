@@ -9,7 +9,7 @@ tags:
   - newsletter
   - updates
 redirect:
-  - /3knMrc
+  - /may-2025
 ---
 
 May was the month we finally shipped the stuff we've been promising ourselves for ages. You know that feeling when you've been talking about reorganizing your desk for months, and then you actually do it? That's what happened with Memo, MCP Playbook, and honestly, how we work as a team.
