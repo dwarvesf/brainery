@@ -138,7 +138,7 @@ Our method succeeds because it's:
 
 We're testing this approach on spatial computing and advanced AI automation. By trying things internally first and sticking to our strengths, we'll keep building solutions that matter.
 
-This methodology helps us build solid assumptions about what to create in our [arc series](../../updates/arc/README.md), where we explore specific tech trends and their potential applications.
+This methodology helps us build solid assumptions about what to create in our [arc series](/arc), where we explore specific tech trends and their potential applications.
 
 ---
 
