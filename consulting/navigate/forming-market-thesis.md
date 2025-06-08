@@ -83,4 +83,4 @@ My Golang bet is an example. As an engineer, I studied languages. Go fixed many 
 
 ---
 
-> Next: [Test the water](test-the-water.md) or [Keep it sharp](keep-sharp.md)
+> Next: [How we craft a market thesis](market-thesis-method.md) or [Test the water](test-the-water.md)

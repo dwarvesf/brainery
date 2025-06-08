@@ -34,6 +34,7 @@ This cycle keeps us moving forward, always ready to lead in the next big thing.
 - [Cycle](cycle.md): Accept that market will change.
 - [Business correction](business-correction.md): Understand when and how to adjust course.
 - [Forming market thesis](forming-market-thesis.md): Develop informed perspectives on market direction.
+- [How we craft a market thesis](market-thesis-method.md): Systematic approach to spotting winning tech bets.
 - [Growth engine](growth-engine.md): Do inbound, collect & analyze signals effectively.
 - [Keep it sharp](keep-sharp.md): Participate & maintain our competitive edge.
 - [Talent pool](talent-pool.md): Grow the talent pool to meet new challenges.
