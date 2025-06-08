@@ -43,6 +43,7 @@ We don't just guess. We balance hard data with experience to make smart bets.
 - [**Agentic AI**](agentic-ai.md) - Autonomous AI systems that execute tasks independently
 - [**DeFi**](defi.md) - Blockchain-based financial ecosystem enabling peer-to-peer transactions
 - [**DeFAI**](defai.md) - AI-enhanced DeFi combining LLMs with blockchain financial systems
+- [**LLM**](llm.md) - Large Language Models enabling human-like text processing and automation
 - [**Platform ops**](platform-ops.md) - Managing AI-driven platforms in fully automated environments
 - [**Spatial computing**](spatial.md) - AR, VR, MR, and AI integration creating immersive digital-physical experiences
 - [**Stablecoin**](stablecoin.md) - Cryptocurrencies designed for stable value enabling efficient transactions
