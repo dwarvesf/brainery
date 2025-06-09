@@ -8,30 +8,43 @@ date: null
 
 This site is a part of our continuous learning engine, where we want to build up the 1% improvement habit, learning in public.
 
-- Research: [vibe coding](updates/build-log/vibe-coding/README.md)
+- Research: [vibe coding](updates/build-log/vibe-coding/readme.md)
 - Hiring: [🧠 growth lead](careers/open-positions/growth-lead.md), [💼 sales manager](careers/open-positions/sales-manager.md)
-- Just shipped: [brainery](updates/build-log/brainery/README.md), [memo](updates/build-log/memo/README.md), [mcp-playbook](updates/build-log/playbook/README.md)
+- Just shipped: [brainery](updates/build-log/brainery/readme.md), [memo](updates/build-log/memo/readme.md), [mcp-playbook](updates/build-log/playbook/readme.md)
 - Latest report: [2025 May report](updates/forward/2025-05.md)
 
-<If condition={hiringMemos?.length > 0}>
-  ## 🤝 Open positions
-  <MemoVList data={hiringMemos} hideAuthors hideThumbnail hideDate />
+<If condition={memosWithTags}>
+  <WorthReading 
+    memos={memosWithTags}
+    blocks={[
+      {
+        title: 'Engineering',
+        subtitle: 'Craftsmen knowledge',
+        tag: 'engineering',
+      },
+      {
+        title: 'Blockchain',
+        subtitle: 'Decentralized future',
+        tag: 'blockchain',
+      },
+      {
+        title: 'Wealth',
+        subtitle: 'Growth and prosperity',
+        tag: 'market-report',
+      },
+      {
+        title: 'Artificial Intelligence',
+        subtitle: 'Pushing human limits',
+        tag: 'AI',
+      },
+    ]} />
 </If>
 
-<If condition={teamMemos?.length > 0}>
-  ## Life at Dwarves
-  <MemoVList data={teamMemos} hideAuthors hideThumbnail />
+<If condition={memosWithTags}>
+  <MemoFilterList title="Latest memos" all={memosWithTags} filters={['web3', 'design', 'culture']} />
 </If>
 
-<If condition={changelogMemos?.length > 0}>
-  ## Changelog
-  <MemoVLinkList data={changelogMemos} />
-</If>
-
-<If condition={newMemos?.length > 0}>
-  ## All memos
-  <MemoVList data={newMemos} hideDate />
-</If>
+<TagsMarquee directoryTree={directoryTree} />
 
 <div className="love-watch-we-are-doing">
   <h2>
@@ -72,7 +85,7 @@ This site is a part of our continuous learning engine, where we want to build up
 ---
 
 > Ecclesiastes 7:12:
-> “For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it.”
+> "For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it."
 
-_Written by Dwarves for product craftsmen._\
+_Written by Dwarves for product craftsmen._\\
 _Learned by engineers. Experimented by engineers._
