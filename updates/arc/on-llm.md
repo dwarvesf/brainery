@@ -1,6 +1,10 @@
 
+1/
+
 There's a separate MOCs in `topics/` that you can take a look.
 This page discuss the nature of this technology and area that it will impacts. Hence we point out the part where we can join in.
+
+2+3/
 
 ### Changes in human-machine interaction
 
@@ -39,6 +43,8 @@ Like [martial art and gun](), LLM can gain new knowledge, think and make decisio
 
 This challenge require an ability to find a right guidance in learning and practicing to make it our collab tool, instead of our replacement.
 
+4/
+
 ### The opportunities
 
 As everyone will want to have their agents, work and personal
@@ -57,6 +63,8 @@ For creator tooling, we can contribute in system that power:
 For founders, it will be fast to build prototype and validate new idea. Small team can now use agents to compete with corps.
 
 AI team can compete with each other by having a better agents. Or can compete on providing better experience for the user.
+
+5/
 
 ### To prepare
 

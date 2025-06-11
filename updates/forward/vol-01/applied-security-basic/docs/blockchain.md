@@ -256,10 +256,10 @@ Assuming that we have a PoS Blockchain Network. In this network, if you want to 
 
 ## Reference
 
-<a name="ref1">[1]</a> "What is Cryptography? | Cryptographic Algorithms | Types of ...." 20 Dec. 2019, https://www.edureka.co/blog/what-is-cryptography/.
+<a name="ref1">[1]</a> "What is Cryptography? | Cryptographic Algorithms | Types of ...." 20 Dec. 2019, <https://www.edureka.co/blog/what-is-cryptography/>.
 
-<a name="ref2">[2]</a> "What are Hash Functions and How to choose a good Hash ...." https://www.geeksforgeeks.org/what-are-hash-functions-and-how-to-choose-a-good-hash-function/.
+<a name="ref2">[2]</a> "What are Hash Functions and How to choose a good Hash ...." <https://www.geeksforgeeks.org/what-are-hash-functions-and-how-to-choose-a-good-hash-function/>.
 
-<a name="ref3">[3]</a> "RFC 4634 - US Secure Hash Algorithms (SHA and HMAC-SHA)." https://tools.ietf.org/html/rfc4634.
+<a name="ref3">[3]</a> "RFC 4634 - US Secure Hash Algorithms (SHA and HMAC-SHA)." <https://tools.ietf.org/html/rfc4634>.
 
-<a name="ref4">[4]</a> "Bitcoin - Open source P2P money." https://bitcoin.org/.
+<a name="ref4">[4]</a> "Bitcoin - Open source P2P money." <https://bitcoin.org/>.
