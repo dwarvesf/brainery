@@ -5,7 +5,6 @@ description: "Memo is our knowledge base, capturing collective learnings and act
 date: 2025-05-20
 authors:
   - tieubao
-pinned: true
 tags:
   - memo
 redirect:

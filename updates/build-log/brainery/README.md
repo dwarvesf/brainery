@@ -7,7 +7,6 @@ authors:
   - tieubao
   - zlatanpham
   - monotykamary
-pinned: true
 tags:
   - brainery
   - build-log

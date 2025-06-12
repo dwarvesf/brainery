@@ -3,6 +3,7 @@ title: Our takes on the waves that shape us
 short_title: § Arcs 🌊
 description: Our documented takes on technology waves that shape our direction. Each arc explores breakthrough technologies, explains why they matter, and captures our evolving perspective on building better software.
 date: 2025-01-14
+pinned: true
 authors:
   - tieubao
 tags:

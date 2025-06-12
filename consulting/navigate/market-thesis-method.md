@@ -11,6 +11,7 @@ tags:
   - strategic-bets
   - innovation-analysis
   - decision-making
+pinned: true
 redirect:
   - /45ARoA
 ---
