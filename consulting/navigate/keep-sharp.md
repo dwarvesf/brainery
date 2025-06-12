@@ -61,7 +61,7 @@ Map this back to our consulting model, where we design, build, and guide. For ex
 Next, dive in and get hands-on experience to build use cases we can share with clients. Here’s how:
 
 - **Build with others.** Join open-source projects or hackathons to collaborate and learn, like contributing to an AI agent framework or building a prototype.
-- **Run your own experiment.** Create a small project, like an AI chatbot for a mock client, often at low cost to reduce risk while earning reputation for the team.
+- **Run your own experiment.** Create a small project, like an AI chatbot for a mock client, often at low cost to reduce risk while earning reputation for the team. For guidance on choosing which experiments to pursue, see our [experiment selection framework](experiment.md).
 
 For example, joining a hackathon to build an AI agent prototype gives us experience we can showcase to clients, proving we know the tech inside out.
 

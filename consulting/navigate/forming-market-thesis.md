@@ -20,6 +20,8 @@ redirect:
 
 Figure out where the market heads and how we fit in; that's the core of a market thesis. It's a firm belief, not a wild gamble, requiring groundwork, time, and team effort. Get it right, and we position ourselves for the next wave; get it wrong, and we learn.
 
+![](assets/processes.png)
+
 ### Spot worthwhile pulses
 
 Spotting a trend or "pulse" with real potential isn't simple. It's a mix of sharp analysis, deep experience, and sometimes, gut feel. Here's how:

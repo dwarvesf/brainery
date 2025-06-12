@@ -4,6 +4,7 @@ description: This series helps our consulting team tackle tech and market shifts
 date: 2025-05-09
 authors:
   - tieubao
+pinned: true
 tags:
   - navigate
   - market-changes
@@ -35,6 +36,7 @@ This cycle keeps us moving forward, always ready to lead in the next big thing.
 - [Business correction](business-correction.md): Understand when and how to adjust course.
 - [Forming market thesis](forming-market-thesis.md): Develop informed perspectives on market direction.
 - [How we craft a market thesis](market-thesis-method.md): Systematic approach to spotting winning tech bets.
+- [Choose what to build](experiment.md): Practical framework for turning tech bets into focused experiments.
 - [Growth engine](growth-engine.md): Do inbound, collect & analyze signals effectively.
 - [Keep it sharp](keep-sharp.md): Participate & maintain our competitive edge.
 - [Talent pool](talent-pool.md): Grow the talent pool to meet new challenges.
@@ -42,7 +44,7 @@ This cycle keeps us moving forward, always ready to lead in the next big thing.
 
 ### Our early warning system
 
-![](assets/processes.webp)
+![](assets/processes.png)
 
 Our early warning system, shown above, is a flexible plan to handle market shifts. It starts with the **growth engine** to detect initial signals.
 
@@ -51,6 +53,8 @@ These signals then get a **vibe check**. We look at `tech legit?`, `impactful?`,
 If a signal passes, we move to **adaptation and action**: `build competency`, `keep sharp`, and finally, `distribute`.
 
 The system also has a **feedback loop** from all market conditions, like `bearish market` times. This helps us always refine our `forming market thesis` and make our overall approach stronger.
+
+![](assets/adopt-new-tech.png)
 
 ### Let’s get started
 

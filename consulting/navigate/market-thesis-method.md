@@ -1,5 +1,6 @@
 ---
 title: How we craft a market thesis
+short_title: Market thesis
 description: Our structured approach to spotting tech trends and turning them into winning bets. From identifying early signals to building solutions that matter.
 date: 2025-06-08
 authors:
@@ -141,8 +142,8 @@ Our method succeeds because it's:
 
 We're testing this approach on spatial computing and advanced AI automation. By trying things internally first and sticking to our strengths, we'll keep building solutions that matter.
 
-This methodology helps us build solid assumptions about what to create in our [arc series](/arc), where we explore specific tech trends and their potential applications.
+This methodology helps us build solid assumptions about what to create in our [arc series](/arc), where we explore specific tech trends and their potential applications. Once we have these assumptions, we use our [experiment selection framework](experiment.md) to choose which ideas to actually build.
 
 ---
 
-> Next: [Test the water](test-the-water.md) or [Keep it sharp](keep-sharp.md)
+> Next: [Choose what to build](experiment.md) or [Test the water](test-the-water.md)
