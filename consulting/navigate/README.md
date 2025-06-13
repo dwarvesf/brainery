@@ -4,7 +4,6 @@ description: This series helps our consulting team tackle tech and market shifts
 date: 2025-05-09
 authors:
   - tieubao
-pinned: true
 tags:
   - navigate
   - market-changes

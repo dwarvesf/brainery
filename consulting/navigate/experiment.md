@@ -36,6 +36,8 @@ Think of this as step 5+ in our market thesis method. Here's how it flows:
 - **Build-log** captures what we discover during the experiment
 - **Forward engineering** is how we report progress as a team snapshot
 
+When experiments are specifically designed to transfer knowledge from labs to consulting, we call them "pilots" and use our [tech transfer framework](/research/transfer). Same experiments, different focus: getting research insights to consulting teams fast.
+
 We're not building everything. We're making strategic choices about where to focus.
 
 ![](assets/report-workflow.png)
@@ -75,6 +77,8 @@ This means most experiments should build expertise that helps us:
 - Staff startup teams with people who know the latest tech
 - Co-build innovative solutions alongside startup founders
 - Stay ahead of technology trends our startup clients need
+
+When we want to move these experiments quickly to our consulting team, we treat them as pilots and apply our [tech transfer framework](/research/transfer) to accelerate adoption.
 
 We're not just building products. We're building the expertise that makes us valuable partners in the startup ecosystem.
 
