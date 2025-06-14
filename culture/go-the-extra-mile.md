@@ -5,7 +5,6 @@ date: 2020-09-09T00:00:00.000Z
 authors:
   - duynglam
   - tieubao
-pinned: true
 tags:
   - management
   - productivity

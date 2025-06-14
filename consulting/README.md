@@ -28,6 +28,12 @@ ORDER BY date DESC
 LIMIT 5;
 ```
 
+## Series
+
+- [Navigate framework](./navigate): Comprehensive guide to our navigation changes methodology.
+- [Case studies](./case-study): Learn from our practical consulting experiences.
+- [Arc](/updates/arc): Deep dive into our research methodology and findings.
+
 ## Key articles for consultants
 
 ### Overview

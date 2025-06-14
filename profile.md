@@ -1,13 +1,15 @@
 ---
 title: Team profile
+short_title: Team profile 💎
 description: A team of design and development experts crafting software, building tech teams, and investing in people who create world's next favorite things.
 date: 2024-01-01
+hide_title: true
 pinned: true
 ---
 
-![Contact Info Graphic](assets/contact-info-graphic.png)
-
 ## About Dwarves Consulting
+
+![Contact Info Graphic](assets/contact-info-graphic.png)
 
 Dwarves build and ship top-notch software. We're a team of design and development experts working closely with clients to craft software, build tech teams, and invest in people who create world's next favorite things.
 
