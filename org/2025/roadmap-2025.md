@@ -4,6 +4,8 @@ description: Our strategic direction for 2025, focusing on AI engineering, block
 date: 2025-06-15
 authors:
   - tieubao
+toc: true
+pinned: true
 tags:
   - roadmap
   - leading-chair
