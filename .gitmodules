@@ -21,3 +21,6 @@
 [submodule "radar"]
 	path = radar
 	url = git@github.com:dwarvesf/radar.git
+[submodule "lesson-learned"]
+	path = lesson-learned
+	url = git@github.com:dwarvesf/lesson-learned.git
