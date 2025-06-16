@@ -1,12 +1,13 @@
 ---
 title: "On agentic AI"
-short_title: "Arc: Agentic AI 🤖"
 description: "Our take on the agentic AI wave and how we're positioning ourselves to do more with less"
 date: 2025-06-15
 toc: true
+pinned: true
 authors:
   - tieubao
 tags:
+  - arc
   - agentic-ai
   - commentary
   - ai-strategy
@@ -108,6 +109,12 @@ flowchart TD
     agents --> adaptability
     adaptability --> knowledge
     knowledge --> foundation
+    
+    style integration fill:#e3f2fd
+    style agents fill:#e8f5e8
+    style adaptability fill:#fff3e0
+    style knowledge fill:#f3e5f5
+    style foundation fill:#f5f5f5
 ```
 
 These aren't just concerns. They're **opportunities** for us to solve if we want to sell these services effectively. Our layered approach ensures enterprises can deploy agentic AI without breaking their existing processes or compromising their security requirements.
