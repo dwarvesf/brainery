@@ -23,6 +23,14 @@ We encourage our members to read, write, share what we learn with others, and [c
 
 For visitors, you are welcome to read them, contribute to them, and [suggest additions](discord.gg/dfoundation). We maintain a monthly pool of $1500 to reward contributors who support our journey of lifelong growth in knowledge and network.
 
+### Dwarves+ Protocol
+
+As we evolve into a decentralized protocol, we're building a community-governed ecosystem that rewards research, development, and knowledge sharing through tokenomics. Learn more about our transformation:
+
+- **[Tokenomics Documentation](misc/tokenomics/README.md)** - Comprehensive guide to our dual-token system
+- **[Whitepaper](misc/tokenomics/whitepaper.md)** - Vision and technical overview
+- **[FAQ](misc/tokenomics/faq.md)** - Common questions about the protocol
+
 ### Love what we are doing?
 
 - Visit our [Discord learning network](https://discord.gg/dfoundation)
