@@ -15,9 +15,9 @@ tags:
 pinned: true
 ---
 
-> **tl;dr;**
->
-> Once we've formed a solid market thesis, the next step is choosing what to actually build. We use a simple priority framework: start with internal needs, then expand to startup ecosystem technologies and strategic assets. This keeps us focused and makes every experiment count.
+```tldr
+Once we've formed a solid market thesis, the next step is choosing what to actually build. We use a simple priority framework: start with internal needs, then expand to startup ecosystem technologies and strategic assets. This keeps us focused and makes every experiment count.
+```
 
 You've spotted a promising tech trend. You've done the deep analysis. Your [market thesis](market-thesis-method.md) is solid. Now comes the crucial question: what do we actually build?
 

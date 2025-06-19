@@ -13,9 +13,9 @@ redirect:
   - /DQ0QEw
 ---
 
-> **tl;dr;**
->
-> We grow our talent pool by hiring passionate doers through internships, apprenticeships, and communities, focusing on labs team roles. Talent recognition via clear paths, feedback, and appreciation keeps our team motivated.
+```tldr
+We grow our talent pool by hiring passionate doers through internships, apprenticeships, and communities, focusing on labs team roles. Talent recognition via clear paths, feedback, and appreciation keeps our team motivated.
+```
 
 Sometimes, regular training and shadowing might not be enough, or the economics just don't work out. When that happens, we should also look for people outside our usual cycle. These are often folks who love to join in on new tech because they genuinely want to learn it.
 

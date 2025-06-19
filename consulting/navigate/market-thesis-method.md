@@ -17,9 +17,9 @@ redirect:
   - /45ARoA
 ---
 
-> **tl;dr;**
->
-> We've built a five-step method to spot tech trends worth betting on. It mixes data, gut feel, and our team's strengths to find opportunities that actually matter. Here's how we do it.
+```tldr
+We've built a five-step method to spot tech trends worth betting on. It mixes data, gut feel, and our team's strengths to find opportunities that actually matter. Here's how we do it.
+```
 
 ## Why we need a system
 
@@ -40,7 +40,7 @@ We start by finding tech "pulses" - early signals that something big might be co
 **What we look for:**
 
 - Hiring trends and funding news from our growth engine
-- Chatter on X and in VC reports  
+- Chatter on X and in VC reports
 - What the smart folks are building in niche communities
 
 Take DeFAI. We saw $500M flowing into AI-blockchain startups in 2024. Then we noticed DeFi developers on X talking about LLM-driven interfaces. That's a pulse worth exploring.

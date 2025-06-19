@@ -12,9 +12,9 @@ redirect:
   - /qZq5ZQ
 ---
 
-> **tl;dr;**
->
-> Testing the water validates our consulting service for new tech by finding 5-10 early clients fast. We distribute through communities, partners, and campaigns, learning quickly to stay ahead in a shifting market.
+```tldr
+Testing the water validates our consulting service for new tech by finding 5-10 early clients fast. We distribute through communities, partners, and campaigns, learning quickly to stay ahead in a shifting market.
+```
 
 ### Why we test the water
 

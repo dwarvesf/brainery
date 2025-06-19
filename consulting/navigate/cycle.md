@@ -12,9 +12,9 @@ redirect:
   - /yARSZA
 ---
 
-> **tl;dr;**
->
-> Tech cycles drive market shifts, with funding and demand rising and falling. We adapt by accepting change, spotting early signs in niche groups, and preparing through R&D and skill-building to guide clients effectively.
+```tldr
+Tech cycles drive market shifts, with funding and demand rising and falling. We adapt by accepting change, spotting early signs in niche groups, and preparing through R&D and skill-building to guide clients effectively.
+```
 
 Innovation doesn't happen in a vacuum. It often builds on what's already there, an idea sometimes called 'the adjacent possible.' Think of it like you explore the next room in a house of linked rooms; each new find opens doors to more options.
 

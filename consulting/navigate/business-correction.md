@@ -12,9 +12,9 @@ redirect:
   - /XqSkkA
 ---
 
-> **tl;dr;**
->
-> Business correction helps us adapt to market shifts by recognizing when a team’s goal isn’t valid, assessing skills, and pivoting to new tech. We support our team but downsize if needed, ensuring we stay competitive in consulting.
+```tldr
+Business correction helps us adapt to market shifts by recognizing when a team’s goal isn’t valid, assessing skills, and pivoting to new tech. We support our team but downsize if needed, ensuring we stay competitive in consulting.
+```
 
 ### Why business correction matters
 
