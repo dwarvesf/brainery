@@ -5,12 +5,11 @@ description: Talks and Takeaways from the Scene Part 3
 date: 2025-06-18
 authors:
   - ooohminh
+  - minhlq
 tags:
   - consulting
   - market-report
   - report
-redirect:
-  - /worwKA
 ---
 
 Just wrapped up three crypto events that painted a pretty clear picture of where we're at right now. Here's what I saw on the ground.
