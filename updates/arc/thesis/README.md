@@ -10,6 +10,8 @@ tags:
   - research
   - technology-analysis
   - strategic-bets
+redirect:
+  - /KiXd0g
 ---
 
 This folder is where we collect our raw thoughts on emerging tech trends. Everything here is LLM-generated following our [five-step market thesis methodology](/consulting/navigate/market-thesis-method).

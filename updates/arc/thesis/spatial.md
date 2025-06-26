@@ -10,6 +10,8 @@ tags:
   - ar-vr
   - metaverse
   - strategic-bets
+redirect:
+  - /4KrdrA
 ---
 
 > **tl;dr**

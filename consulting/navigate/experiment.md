@@ -13,6 +13,8 @@ tags:
   - market-thesis
   - tech-bets
 pinned: true
+redirect:
+  - /EspRAQ
 ---
 
 ```tldr

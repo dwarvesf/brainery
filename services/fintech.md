@@ -9,6 +9,8 @@ tags:
   - payment
   - defi
   - investment
+redirect:
+  - /GoFbfA
 ---
 
 We study money and build systems. As a research-focused tech consultancy, we help fintech companies create secure, scalable solutions that actually work in the real world.

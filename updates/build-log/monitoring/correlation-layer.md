@@ -8,6 +8,8 @@ tags:
   - monitoring
   - correlation
   - debugging
+redirect:
+  - /ftpZzA
 ---
 
 When something goes wrong in your system, you don't just need data, you need the right data connected in the right way. The correlation layer is what transforms separate streams of metrics, logs, and traces into a coherent investigation experience. It's the difference between spending hours hunting for clues and quickly identifying the root cause.

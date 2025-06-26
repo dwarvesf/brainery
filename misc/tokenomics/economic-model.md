@@ -9,6 +9,8 @@ tags:
   - economic-model
   - sustainability
   - value-flow
+redirect:
+  - /rsAjfA
 ---
 
 A sustainable protocol needs predictable revenue, manageable costs, and aligned incentives. The dual-token system with Bitcoin backing creates multiple value capture mechanisms while maintaining operational flexibility.

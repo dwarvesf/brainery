@@ -9,6 +9,8 @@ tags:
   - communication
   - culture
   - best-practices
+redirect:
+  - /6jXZLQ
 ---
 
 Here's something we've learned: the most important things to say are often the ones that feel too obvious to mention. You know that feeling when you're in a meeting and think "everyone already knows this," so you stay quiet? That instinct might be holding your team back.

@@ -8,6 +8,8 @@ tags:
   - roadmap
   - engagement
   - culture
+redirect:
+  - /O2qaVQ
 ---
 
 ## Our mission

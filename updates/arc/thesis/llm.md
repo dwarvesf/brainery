@@ -10,6 +10,8 @@ tags:
   - ai
   - automation
   - strategic-bets
+redirect:
+  - /TMg96A
 ---
 
 > **tl;dr**

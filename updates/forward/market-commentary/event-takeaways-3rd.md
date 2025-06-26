@@ -10,6 +10,8 @@ tags:
   - consulting
   - market-report
   - report
+redirect:
+  - /WJltiw
 ---
 
 Just wrapped up three crypto events that painted a pretty clear picture of where we're at right now. Here's what I saw on the ground.

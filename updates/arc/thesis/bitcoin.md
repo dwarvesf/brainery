@@ -10,6 +10,8 @@ tags:
   - blockchain
   - finance
   - strategic-bets
+redirect:
+  - /bi0PPA
 ---
 
 > **tl;dr**

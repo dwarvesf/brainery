@@ -12,6 +12,8 @@ tags:
   - innovation
   - craftsmanship
   - direction
+redirect:
+  - /aT6RVg
 ---
 
 Technology moves in waves. Each breakthrough brings new possibilities, reshapes how we build software, and forces us to evolve our craft. We call these pivotal moments **arcs** because they represent complete cycles of innovation that fundamentally change our direction.

@@ -8,6 +8,8 @@ tags:
   - devops
   - automation
   - infrastructure
+redirect:
+  - /FY9Zpg
 ---
 
 We automate infrastructure that scales. As technologists who've seen too many manual deployment disasters, we focus on building platform operations that work in production, not just pretty diagrams.

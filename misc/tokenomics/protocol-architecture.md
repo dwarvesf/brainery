@@ -10,6 +10,8 @@ tags:
   - smart-contracts
   - infrastructure
   - bitcoin-backed
+redirect:
+  - /4aRdqw
 ---
 
 The technical infrastructure needs to handle token operations, governance voting, contributor rewards, treasury management, and Bitcoin-backed value systems across multiple blockchains while maintaining security and scalability.

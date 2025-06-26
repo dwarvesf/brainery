@@ -7,6 +7,8 @@ authors:
 tags:
   - vibe-coding
   - prompt
+redirect:
+  - /bPA4Jg
 ---
 
 1/ prompt database

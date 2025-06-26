@@ -10,6 +10,8 @@ tags:
   - cryptography
   - privacy
   - strategic-bets
+redirect:
+  - /0ZAgkg
 ---
 
 > **tl;dr**

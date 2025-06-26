@@ -10,6 +10,7 @@ tags:
   - ai
   - talent-vetting
 redirect:
+  - /unOZ9g
 ---
 
 ## Overview

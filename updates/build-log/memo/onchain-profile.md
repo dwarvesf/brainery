@@ -8,6 +8,8 @@ authors:
   - grok
 tags:
   - memo
+redirect:
+  - /HuRHgQ
 ---
 
 contributor profile

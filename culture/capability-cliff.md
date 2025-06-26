@@ -10,6 +10,8 @@ tags:
   - communication
   - critical-thinking
   - culture
+redirect:
+  - /8QzdeQ
 ---
 
 Here's something we don't talk about enough in our industry: most of what we call "engineering talent" has very little to do with actual engineering ability.

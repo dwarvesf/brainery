@@ -11,6 +11,8 @@ tags:
   - leading-chair
   - research
   - consulting
+redirect:
+  - /8ike6A
 ---
 
 We're entering a pivotal year. 2025 is the year of agentic AI, where everything becomes automated and development costs plummet. Startups are racing to build agents that replace repetitive work, and we're positioning ourselves right at the center of this transformation.

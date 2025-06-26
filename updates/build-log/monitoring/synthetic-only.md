@@ -8,6 +8,8 @@ tags:
   - monitoring
   - synthetic
   - constraints
+redirect:
+  - /fLPreYo
 ---
 
 "Can we just monitor everything from the outside?" It's a fair question, especially when you're dealing with systems you can't modify, tight security constraints, or organizational boundaries that make instrumentation challenging. Sometimes synthetic monitoring isn't just a choice, it's your only practical option.

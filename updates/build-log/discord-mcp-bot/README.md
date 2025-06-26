@@ -7,6 +7,8 @@ authors:
   - tieubao
 tags:
   - mcp
+redirect:
+  - /zgugkQ
 ---
 
 diagram

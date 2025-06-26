@@ -10,6 +10,8 @@ tags:
   - blockchain
   - finance
   - strategic-bets
+redirect:
+  - /83uMmQ
 ---
 
 > **tl;dr**

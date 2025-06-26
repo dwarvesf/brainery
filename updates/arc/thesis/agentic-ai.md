@@ -10,6 +10,8 @@ tags:
   - ai
   - automation
   - strategic-bets
+redirect:
+  - /brMSKA
 ---
 
 > **tl;dr**

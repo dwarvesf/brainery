@@ -9,6 +9,8 @@ tags:
   - metrics
   - llm-prompts
   - planning
+redirect:
+  - /LR6wVw
 ---
 
 When building a new system, use this prompt template to get comprehensive metrics recommendations tailored to your specific use case. This structured approach ensures you get consistent, actionable advice that scales with your system's growth.

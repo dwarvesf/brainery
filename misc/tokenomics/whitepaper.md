@@ -9,6 +9,8 @@ tags:
   - whitepaper
   - vision
   - protocol
+redirect:
+  - /gLzEKA
 ---
 ## Abstract
 

@@ -5,6 +5,8 @@ description: A team of design and development experts crafting software, buildin
 date: 2024-01-01
 hide_title: true
 pinned: true
+redirect:
+  - /xUhOSA
 ---
 
 ## About Dwarves Consulting

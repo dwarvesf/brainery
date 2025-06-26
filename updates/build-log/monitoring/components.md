@@ -6,6 +6,8 @@ authors:
 date: 2025-05-14
 tags:
   - monitoring
+redirect:
+  - /P5oExA
 ---
 
 Think of monitoring like having a health checkup for your application. You want to know if it's running smoothly, where it might be struggling, and catch problems before your users do. Our monitoring setup combines several key components that work together to give us a complete picture of system health.

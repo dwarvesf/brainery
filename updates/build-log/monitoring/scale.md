@@ -8,6 +8,8 @@ tags:
   - monitoring
   - scale
   - architecture
+redirect:
+  - /iBKpAA
 ---
 
 "Do I really need all this monitoring complexity?" It's a question every engineering team asks, usually while staring at a monitoring setup that feels like overkill for their current needs. The honest answer: it depends. Not every system needs enterprise-grade monitoring, but figuring out what you actually need requires thinking beyond just "how many users do I have?"

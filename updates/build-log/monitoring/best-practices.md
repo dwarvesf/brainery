@@ -7,6 +7,8 @@ date: 2025-05-14
 tags:
   - monitoring
   - best-practices
+redirect:
+  - /fn3kwA
 ---
 
 Building effective monitoring systems is full of traps. We've fallen into most of them, and we've learned valuable lessons along the way. Here are the biggest mistakes we've encountered and the practices that actually work in production.

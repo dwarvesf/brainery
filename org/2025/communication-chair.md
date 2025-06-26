@@ -8,6 +8,8 @@ tags:
   - roadmap
   - communication
   - content
+redirect:
+  - /oPwc3w
 ---
 
 ## Our mission

@@ -9,6 +9,8 @@ tags:
   - cheatsheet
   - reference
   - overview
+redirect:
+  - /gdJomQ
 ---
 
 ## 🎯 Protocol overview

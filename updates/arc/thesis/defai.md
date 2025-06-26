@@ -10,6 +10,8 @@ tags:
   - defi
   - ai
   - strategic-bets
+redirect:
+  - /nbYARg
 ---
 
 > **tl;dr**

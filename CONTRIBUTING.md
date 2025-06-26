@@ -2,6 +2,8 @@
 title: null
 description: null
 date: null
+redirect:
+  - /Wtk9EQ
 ---
 
 ## Contributing to the Brainery

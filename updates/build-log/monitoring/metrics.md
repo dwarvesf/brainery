@@ -8,6 +8,8 @@ tags:
   - monitoring
   - metrics
   - observability
+redirect:
+  - /qd1tcw
 ---
 
 You could measure everything in your system, but should you? We've seen teams track hundreds of metrics while missing the ones that actually matter when things go wrong. The key isn't collecting more data, it's collecting the right data that helps you understand user impact and system health.

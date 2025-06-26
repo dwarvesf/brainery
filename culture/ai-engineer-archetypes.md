@@ -9,6 +9,8 @@ tags:
   - ai
   - engineering
   - archetypes
+redirect:
+  - /6oKjKw
 ---
 
 The ground is shifting beneath our feet. If you're a software engineer and you're not feeling it, you're either lying or you're already obsolete. The introduction of powerful large language models is not just another tool; it's a fundamental paradigm shift that is cleaving the engineering world into distinct archetypes. I've noticed a few patterns emerge from the chaos. Understanding where you and your team fit in is the difference between building the future and getting buried by it.

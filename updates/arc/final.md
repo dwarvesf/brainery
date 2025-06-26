@@ -10,6 +10,8 @@ tags:
   - vision
   - convergence
   - verticals
+redirect:
+  - /4PldLw
 ---
 
 ## Where arcs meet our vision

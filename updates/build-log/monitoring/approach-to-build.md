@@ -7,6 +7,8 @@ date: 2025-05-14
 tags:
   - monitoring
   - observability
+redirect:
+  - /Q4Eotw
 ---
 
 Building a monitoring system feels overwhelming at first. Where do you start? What should you monitor? How much is too much? We've built monitoring systems for everything from simple static sites to complex distributed applications, and we've learned that the best approach isn't about following a rigid checklist. It's about making smart decisions at each step.

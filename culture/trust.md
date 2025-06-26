@@ -11,6 +11,8 @@ tags:
   - communication
   - soft-skill
   - trust
+redirect:
+  - /PxbhVg
 ---
 
 Trust opens doors to the work that matters most. The challenging projects, the strategic initiatives, the stuff that actually moves the needle. But trust isn't something you can demand or negotiate for. It's earned through consistency, competence, and the right kind of conversations.

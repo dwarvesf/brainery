@@ -9,6 +9,8 @@ tags:
   - simulation
   - charts
   - analysis
+redirect:
+  - /obL39w
 ---
 
 

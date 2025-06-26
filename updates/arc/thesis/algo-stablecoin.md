@@ -10,6 +10,8 @@ tags:
   - blockchain
   - finance
   - strategic-bets
+redirect:
+  - /7BkSoQ
 ---
 
 > **tl;dr**

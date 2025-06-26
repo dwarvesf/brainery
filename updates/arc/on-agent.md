@@ -11,6 +11,8 @@ tags:
   - agentic-ai
   - commentary
   - ai-strategy
+redirect:
+  - /Bg60FM
 ---
 
 ## The wave we're riding

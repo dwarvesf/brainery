@@ -8,6 +8,8 @@ tags:
   - roadmap
   - learning
   - labs
+redirect:
+  - /U4XMXQ
 ---
 
 ## Our mission

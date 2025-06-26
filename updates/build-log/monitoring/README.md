@@ -7,6 +7,8 @@ authors:
   - tieubao
 tags:
   - monitoring
+redirect:
+  - /Z9j8xg
 ---
 
 As a tech research-first team, how do we ensure our platform operates reliably while we push the boundaries of innovation? We are tasked with building, or selecting, a monitoring stack to gain visibility into our system's performance, catch issues early, and drive data-informed decisions. What does it take to create an effective monitoring system? In this opening article of our series, we will explore the essentials of monitoring and outline the journey ahead.

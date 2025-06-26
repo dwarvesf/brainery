@@ -8,6 +8,8 @@ tags:
   - roadmap
   - delivery
   - engineering
+redirect:
+  - /AesypA
 ---
 
 ## Our mission

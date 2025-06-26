@@ -9,6 +9,8 @@ tags:
   - implementation
   - tooling
   - metrics
+redirect:
+  - /VuNrow
 ---
 
 So you've decided what to monitor and how to approach building your monitoring system. Now comes the practical part: how do you actually implement it? This guide provides concrete implementation steps for setting up monitoring tools, establishing development team performance tracking, and creating sustainable monitoring practices.

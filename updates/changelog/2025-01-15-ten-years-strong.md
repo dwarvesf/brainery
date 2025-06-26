@@ -11,6 +11,8 @@ tags:
   - anniversary
   - protocol
   - lessons-learned
+redirect:
+  - /bgm05w
 ---
 
 > "Not so many tech companies could last this long" - and yet here we are, ten years later, stronger and more innovative than ever.

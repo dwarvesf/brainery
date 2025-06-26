@@ -9,6 +9,8 @@ tags:
   - correlation
   - tracing
   - debugging
+redirect:
+  - /XmVtNQ
 ---
 
 "I can see the error in the logs, but I can't figure out which user request caused it." Sound familiar? This is exactly why we need correlation IDs, unique identifiers that connect related events across your system. But should you use `trace_id`, `request_id`, or both? The answer depends on your system's complexity and your team's debugging needs.

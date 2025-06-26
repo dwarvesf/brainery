@@ -11,6 +11,7 @@ tags:
   - skill-development
   - career-growth
 redirect:
+  - /xKWpug
 ---
 
 ## The art of skillmaxing in the AI era

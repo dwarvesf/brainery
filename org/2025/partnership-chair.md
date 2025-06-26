@@ -8,6 +8,8 @@ tags:
   - roadmap
   - partnerships
   - business-development
+redirect:
+  - /sLJGew
 ---
 
 ## Our mission
