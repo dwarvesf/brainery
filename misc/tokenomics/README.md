@@ -9,6 +9,8 @@ tags:
   - documentation
   - protocol
   - dual-token
+redirect:
+  - /vuw1228
 ---
 
 

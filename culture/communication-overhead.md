@@ -11,6 +11,8 @@ tags:
   - communication
   - productivity
   - management
+redirect:
+  - /Tyz5fw
 ---
 
 How much time do you spend explaining tasks versus the time spent executing them? When did you last spend 30 minutes briefing a 10-minute task, only to receive work that missed the mark?

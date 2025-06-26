@@ -9,6 +9,8 @@ tags:
   - distribution
   - vesting
   - allocation
+redirect:
+  - /TaNdRQ
 ---
 
 Fair distribution builds trust and prevents concentration risk. The allocation balances community rewards, team incentives, and operational needs while maintaining long-term sustainability.
