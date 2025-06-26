@@ -9,6 +9,8 @@ tags:
   - incentives
   - rewards
   - contributors
+redirect:
+  - /Bgy51HQ
 ---
 
 The incentive structure balances psychological motivation with economic rewards to create a thriving contributor ecosystem. By understanding what drives people to contribute their best work, we can build reward systems that feel meaningful and sustainable.

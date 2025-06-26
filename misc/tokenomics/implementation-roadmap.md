@@ -9,6 +9,8 @@ tags:
   - implementation
   - roadmap
   - deployment
+redirect:
+  - /OBEB6g
 ---
 
 ## Overview
