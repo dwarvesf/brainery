@@ -5,7 +5,7 @@ description: "We're a team combining tech skills, problem-solving, and clear com
 date: 2023-12-21
 authors:
   - tieubao
-  - monotykamar
+  - monotykamary
   - nikkingtr
 tags:
   - consulting
