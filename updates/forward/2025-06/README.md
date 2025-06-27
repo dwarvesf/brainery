@@ -12,6 +12,8 @@ tags:
   - forward-engineering
   - AI
   - agent
+redirect:
+  - /jGV3qQ
 ---
 
 ## Welcome to forward engineering

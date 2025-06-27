@@ -9,6 +9,8 @@ tags:
   - service
   - program
   - vibe-coding
+redirect:
+  - /MacqQw
 ---
 
 ## Vibe coders, don’t let ops kill your flow

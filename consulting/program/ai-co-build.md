@@ -8,6 +8,8 @@ tags:
   - consulting
   - AI
   - collaboration
+redirect:
+  - /xF6qEA
 ---
 
 ## Join the Intelligence Age revolution

@@ -11,6 +11,8 @@ tags:
   - AI
   - platform-ops
   - co-build
+redirect:
+  - /baNtUQ
 ---
 
 **Building tomorrow's tech with today's innovation.**
