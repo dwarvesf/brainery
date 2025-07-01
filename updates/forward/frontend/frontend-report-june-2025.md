@@ -12,11 +12,11 @@ tags:
 
 June 2025 brought significant changes to frontend web development. This report covers the widespread adoption of AI coding tools, new CSS conditional logic features, browser updates with AI integration, React Server Components in production, TypeScript's native Node.js support, and improved development workflows.
 
-## ⚛️ React & Next.js Evolution
+## ⚛️ React & Next.js highlights
 
 React continues its evolution with Server Components maturation and Next.js advancing as the de facto React framework.
 
-### Featured Articles
+### Featured articles
 
 **[React for Two Computers](https://overreacted.io/react-for-two-computers/)** - Dan Abramov explores distributed computation across computers, introducing 'potential calls' for function execution blueprints.
 
@@ -26,7 +26,7 @@ React continues its evolution with Server Components maturation and Next.js adva
 
 **[React Community 2025](https://blog.isquaredsoftware.com/2025/06/react-community-2025/)** - Analysis of React's evolution from library to framework-focused approach.
 
-### Quick Links
+### Quick links
 
 - [Next.js + React Router Template](https://nexfaster.rdsx.dev/) - Minimal template for React Router integration
 - [Prefetching - Next.js Documentation](https://nextjs.org/docs/app/guides/prefetching) - Official guide to Next.js prefetching strategies
@@ -34,11 +34,11 @@ React continues its evolution with Server Components maturation and Next.js adva
 - [The Two Reacts](https://overreacted.io/the-two-reacts/) - Splitting React components across different programming environments while preserving React benefits.
 - [RSC for LISP Developers](https://overreacted.io/rsc-for-lisp-developers/) - Exploring parallels between React Server Components and LISP's quoting concept.
 
-## 🎨 CSS Innovation & Web Standards
+## 🎨 CSS features & Web standards
 
 June 2025 introduced new CSS features and web platform updates that affect how we build interfaces.
 
-### Featured Articles
+### Featured articles
 
 **[Lightly Poking at the CSS if() Function in Chrome 137](https://css-tricks.com/lightly-poking-at-the-css-if-function-in-chrome-137/)** - MAJOR: CSS gets true conditional logic with the new `if()` function in Chrome 137.
 
@@ -52,7 +52,7 @@ June 2025 introduced new CSS features and web platform updates that affect how w
 
 **[Better CSS Shapes Using shape() — Part 2: More on Arcs](https://css-tricks.com/better-css-shapes-using-shape-part-2-more-on-arcs/)** - Advanced CSS shape() function techniques.
 
-### Quick Links
+### Quick links
 
 - [CSS Spotlight Effect](https://frontendmasters.com/blog/css-spotlight-effect/) - Dynamic spotlight effects with mobile support
 - [New to the web platform in May](https://web.dev/blog/web-platform-05-2025?hl=en) - Google's monthly web platform updates
@@ -60,7 +60,7 @@ June 2025 introduced new CSS features and web platform updates that affect how w
 - [Liquid Glass, But In CSS](https://atlaspuplabs.com/blog/liquid-glass-but-in-css) - Creating liquid glass effects with SVG filters
 - [Color Everything in CSS](https://css-tricks.com/color-everything-in-css/) - Comprehensive guide to CSS color systems
 
-## ⚡ TypeScript & JavaScript Evolution
+## ⚡ TypeScript & JavaScript advancements
 
 JavaScript celebrates its 30th anniversary while TypeScript reaches new performance milestones.
 
@@ -76,16 +76,16 @@ JavaScript celebrates its 30th anniversary while TypeScript reaches new performa
 
 **[Gleam JavaScript gets 30 percent faster](https://gleam.run/news/gleam-javascript-gets-30-percent-faster/)** - Alternative language compilation to JavaScript with major performance improvements.
 
-### Quick Links
+### Quick links
 
 - [Beware of End-of-Life Node.js Versions](https://nodejs.org/en/blog/announcements/node-18-eol-support) - Node.js 18 EOL, upgrade to Node.js 22
 - [npm audit broken by design](https://overreacted.io/npm-audit-broken-by-design/) - Dan Abramov's critique of npm security reports
 
-## 🛠️ Development Tools & Workflow
+## 🛠️ Development tools & workflow
 
 Development tooling continues to evolve with AI integration and performance improvements.
 
-### Featured Articles
+### Featured articles
 
 **[50 Years of Microsoft and Developer Tools with Scott Guthrie](https://newsletter.pragmaticengineer.com/p/50-years-of-microsoft)** - 28-year Microsoft veteran shares evolution from Visual Basic to VS Code and GitHub.
 
@@ -97,14 +97,14 @@ Development tooling continues to evolve with AI integration and performance impr
 
 **[Stop Losing Sleep Over Node.js Config: Here's How to Get It Right](https://blog.platformatic.dev/stop-losing-sleep-over-nodejs-config-heres-how-to-get-it-right)** - Comprehensive Node.js configuration management guide.
 
-### Quick Links
+### Quick links
 
 - [HMR natively in Node.js](https://immaculata.dev/blog/native-nodejs-hmr.html) - Hot Module Replacement using Node's built-in hooks
 - [Industry standard API mocking for JavaScript](https://mswjs.io/) - Mock Service Worker for client-agnostic mocks
 - [Context7: Up-to-date documentation for LLMs](https://context7.com/) - Documentation platform optimized for AI code editors
 - [GUItignore](https://gitignore.0x00.cl/) - Web tool for generating .gitignore files
 
-## 🚀 AI-Assisted Development
+## 🚀 AI-assisted development
 
 AI-powered development tools gained widespread adoption in June 2025, changing how developers write code.
 
@@ -122,14 +122,14 @@ AI-powered development tools gained widespread adoption in June 2025, changing h
 
 **[Anthropic co-founder on cutting access to Windsurf](https://ben-evans.us6.list-manage.com/track/click?u=b98e2de85f03865f1d38de74f&id=a494defb21&e=774e63ac4f)** - Anthropic explains why they cut Windsurf's Claude access amid OpenAI acquisition rumors.
 
-### Quick Links
+### Quick links
 
 - [Introducing Anthropic's Free Interactive Prompt Engineering Course](https://substack.com/@alphasignalai/note/c-120940100?utm_source=feed-email-digest) - 9 step-by-step chapters with exercises
 - [AI-Powered Coding Tool Anysphere Raises $900M at $9.9B Valuation](https://news.crunchbase.com/ai/anysphere-cursor-venture-funding-thrive/) - Cursor's massive funding round
 - [Vibe coding is here to stay. Can it ever be secure?](https://cyberscoop.com/vibe-coding-ai-cybersecurity-llm/) - Security concerns about AI-generated code
 - [How to get your entire team prototyping with AI](https://www.lennysnewsletter.com/p/how-to-get-your-entire-team-prototyping) - Guide to v0, Bolt, Cursor, Magic Patterns
 
-## 🌐 Browser Innovation & AI Integration
+## 🌐 Browser innovation & AI integration
 
 The browser landscape is changing with AI-native approaches and major platform updates.
 
@@ -145,17 +145,17 @@ The browser landscape is changing with AI-native approaches and major platform u
 
 **[IE6, AI, and the future of browsing the Web](https://agenticweb.nearestnabors.com/p/ai-future-web)** - Analysis of how AI integration creates new web challenges covering economic models and security.
 
-### Quick Links
+### Quick links
 
 - [Dia Browser on Product Hunt](https://www.producthunt.com/posts/dia-browser) - AI browser where you can chat with tabs
 - [Everyone's using Perplexity for search. I'm using Perplexity Labs to build applications](https://www.linkedin.com/posts/charlie-hills_everyones-using-perplexity-for-search-activity-7337057427919433728-E43u) - No-code app building with AI
 - [Agent-based computing is outgrowing the web as we know it](https://venturebeat.com/ai/agent-based-computing-is-outgrowing-the-web-as-we-know-it/) - Machine-centric web evolution
 
-## 🔒 Security & Performance
+## 🔒 Security & performance
 
 Growing security threats and performance optimization remain critical concerns for frontend developers.
 
-### Featured Articles
+### Featured articles
 
 **[Complex npm attack uses 7-plus layers of obfuscation to spread Pulsar RAT](https://www.scworld.com/news/complex-npm-attack-uses-7-plus-layers-of-obfuscation-to-spread-pulsar-rat?utm_source=tldrinfosec)** - Sophisticated malware distribution through npm packages using steganography.
 
@@ -167,17 +167,17 @@ Growing security threats and performance optimization remain critical concerns f
 
 **[A short history of web bots and bot detection techniques](https://sinja.io/blog/bot-or-not)** - Evolution of web bots and sophisticated detection methods.
 
-### Quick Links
+### Quick links
 
 - [SlimImg: Privacy-Safe Image Compression](https://slimimg.tools/) - Local browser image optimization
 - [Faster Dashboards with Multi-Column Approximate Sorting](https://duckdb.org/2025/06/06/advanced-sorting-for-fast-selective-queries.html) - Database query optimization
 - [Comparing gzip, brotli and zstd compression in Go](https://blog.kowalczyk.info/a-5hum/compressing-for-the-browser-in-go.html) - Web compression benchmarks
 
-## 🎯 Design & User Experience
+## 🎯 Design & user experience
 
 Design-to-development integration improved with AI-powered tools and acquisition activity.
 
-### Featured Articles
+### Featured articles
 
 **[Payload joins Figma](https://www.figma.com/blog/payload-joins-figma/)** - Figma acquires Payload team to enhance developer tools and create CMS for Figma Sites.
 
@@ -187,14 +187,14 @@ Design-to-development integration improved with AI-powered tools and acquisition
 
 **[Google Whisk](https://labs.google/fx/tools/whisk?ref=producthunt)** - Google's AI tool for generating images using other images as prompts.
 
-### Quick Links
+### Quick links
 
 - [Covolute: AI web creation on collaborative canvas](https://www.producthunt.com/posts/covolute) - AI-powered editor for visual web design
 - [Mossaik: Create beautiful abstract SVG images](https://mossaik.app/) - Customizable SVG wave backgrounds
 - [Formia: Stand out with a 3D logo](https://www.formia.so/) - Convert 2D logos to 3D visuals
 - [The Astro UI library for building content sites](https://ui.full.dev/) - Pre-built Astro components
 
-## 🏆 Notable Mentions
+## 🏆 Notable mentions
 
 **JavaScript's 30th Anniversary** - The language that powers the modern web celebrates three decades of evolution, from simple scripting to full-stack applications.
 
@@ -204,7 +204,7 @@ Design-to-development integration improved with AI-powered tools and acquisition
 
 **GitHub's AI Agent for Bug Fixing** - Autonomous debugging and issue resolution capabilities for development automation.
 
-## 📊 Key Statistics
+## 📊 Key statistics
 
 - **AI Investment**: Cursor raises $900M at $9.9B valuation
 - **Market Growth**: Anthropic hits $3B annualized revenue
