@@ -9,6 +9,8 @@ tags:
   - risk-assessment
   - security
   - mitigation
+redirect:
+  - /Zm8IOQ
 ---
 
 Every protocol faces technical, economic, and operational risks. Identifying them early and building mitigation strategies reduces the chance of catastrophic failure.

@@ -9,6 +9,8 @@ tags:
   - community
   - engagement
   - culture
+redirect:
+  - /xUKfjA
 ---
 
 Strong communities don't happen by accident. They require intentional design, consistent nurturing, and systems that help people connect and contribute meaningfully.

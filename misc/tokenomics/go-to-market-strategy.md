@@ -9,6 +9,8 @@ tags:
   - go-to-market
   - strategy
   - growth
+redirect:
+  - /jHMFOw
 ---
 
 Getting from our current team to 100+ contributors requires more than good intentions. We need clear targeting, compelling value propositions, and systematic execution across multiple channels.

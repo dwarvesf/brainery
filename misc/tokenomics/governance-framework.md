@@ -9,6 +9,8 @@ tags:
   - governance
   - voting
   - decentralization
+redirect:
+  - /upUIEg
 ---
 
 Moving from team control to community governance requires careful design. The transition must maintain protocol direction while gradually distributing decision-making power to stakeholders.

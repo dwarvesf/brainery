@@ -9,6 +9,8 @@ tags:
   - utility
   - icy-token
   - circulation
+redirect:
+  - /Ox0Frg
 ---
 
 A token needs real reasons to be used, held, and valued beyond speculation. ICY utility design focuses on productive uses that benefit both individual holders and the protocol ecosystem.

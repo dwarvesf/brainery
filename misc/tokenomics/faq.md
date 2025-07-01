@@ -9,6 +9,8 @@ tags:
   - faq
   - questions
   - participation
+redirect:
+  - /qFYdrQ
 ---
 
 ## Table of contents
