@@ -99,7 +99,7 @@ Our services are tailored to blend into the nature of each client we work with. 
 
 ![Inloop AI Project](assets/inloop-studio-ai.jpg)
 
-**BrainDB**: Our social listening and data analytics agent that uses AI to analyze technology trends and insights from targeted sources.
+**Observer**: Our social listening and data analytics agent that uses AI to analyze technology trends and insights from targeted sources.
 
 - Tech Stack: Mastra.ai, MCP, DuckDB, crawl4ai, Gemini
 
