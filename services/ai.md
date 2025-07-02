@@ -65,38 +65,37 @@ We've built AI solutions across industries. Here are some highlights:
 ### Business intelligence
 
 **Fornax** - Built an AI system that evaluates startup pitch decks. Works as a white-label app for investors to automatically screen and evaluate startups.
-*Tech Stack: GPT-4o*
+- _Tech Stack: GPT-4o_
 
 **Memo** - Created our knowledge-sharing platform with AI-powered search and privacy-focused content discovery.
-*Tech Stack: DuckDB, Transformers.js*
+- _Tech Stack: DuckDB, Transformers.js_
 
 **Observer** - Social listening agent that analyzes technology trends
-*Tech Stack: Mastra.ai, MCP, DuckDB, crawl4ai, Gemini-2.5-flash*
+- _Tech Stack: Mastra.ai, MCP, DuckDB, crawl4ai, Gemini-2.5-flash_
 
 **Fortress**: AI agent that monitors our community stats
-*Tech Stack: n8n, GPT-4o*
+- _Tech Stack: n8n, GPT-4o_
 
 ### E-commerce & content
 
 **Droppii** - Joined their team to build AI-powered product consultation and recommendation systems for Vietnam's dropshipping market.
-*Tech Stack: GPT-3.5 Instruct*
+- _Tech Stack: GPT-3.5 Instruct_
 
 **Plot** - Built a creative platform that uses AI to automatically label and manage social media content.
-*Tech Stack: LangChain, Cohere Embeddings v3, GPT-4 Turbo, Pinecone Vector DB*
+- _Tech Stack: LangChain, Cohere Embeddings v3, GPT-4 Turbo, Pinecone Vector DB_
 
 ### Human resources & consulting
 
 **Screenz** - AI-powered screen analysis and automation tools
-*Tech Stack: ElevenLabs, GPT-4o*
+- _Tech Stack: ElevenLabs, GPT-4o_
 
 **Inloop** - Human-in-the-loop AI systems to provide consulting services
-*Tech Stack: Agentic AI, Claude Sonnet, RAG, Cohere Embed v3, OpenRouter*
+- _Tech Stack: Agentic AI, Claude Sonnet, RAG, Cohere Embed v3, OpenRouter_
 
 ## Productivity
 
 **MCPilot** - Discord bot that supports Model Context Protocol (MCP) configurations and use them to answer questions through an AI agent
-*Tech Stack: Mastra.ai, GPT-4o-mini, ai-sdk*
-
+- _Tech Stack: Mastra.ai, GPT-4o-mini, ai-sdk_
 
 ## Our tech stack
 
