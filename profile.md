@@ -83,7 +83,7 @@ Our services are tailored to blend into the nature of each client we work with. 
 
 **Plot**: A creative hub for social media and content management using AI to automatically label images and content posts.
 
-- Tech Stack: Cohere Embeddings v3, GPT4 Turbo, Pinecone Vector DB
+- Tech Stack: LangChain, Cohere Embed v3, GPT4 Turbo, Pinecone Vector DB
 
 ![Plot AI Project](assets/memo-ai-project.png)
 
@@ -101,7 +101,7 @@ Our services are tailored to blend into the nature of each client we work with. 
 
 **Observer**: Our social listening and data analytics agent that uses AI to analyze technology trends and insights from targeted sources.
 
-- Tech Stack: Mastra.ai, MCP, DuckDB, crawl4ai, Gemini
+- Tech Stack: Mastra.ai, MCP, DuckDB, crawl4ai, Gemini-2.5-flash
 
 ![BrainDB AI Project](assets/brain-db-social-listening.jpg)
 

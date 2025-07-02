@@ -64,37 +64,55 @@ We've built AI solutions across industries. Here are some highlights:
 
 ### Business intelligence
 
-**Fornax** - Built an AI system that evaluates startup pitch decks. Works as a white-label app for investors to automatically screen and evaluate startups.  
+**Fornax** - Built an AI system that evaluates startup pitch decks. Works as a white-label app for investors to automatically screen and evaluate startups.
 *Tech Stack: GPT-4o*
 
-**Memo** - Created our knowledge-sharing platform with AI-powered search and privacy-focused content discovery.  
+**Memo** - Created our knowledge-sharing platform with AI-powered search and privacy-focused content discovery.
 *Tech Stack: DuckDB, Transformers.js*
+
+**Observer** - Social listening agent that analyzes technology trends
+*Tech Stack: Mastra.ai, MCP, DuckDB, crawl4ai, Gemini-2.5-flash*
+
+**Fortress**: AI agent that monitors our community stats
+*Tech Stack: n8n, GPT-4o*
 
 ### E-commerce & content
 
-**Droppii** - Joined their team to build AI-powered product consultation and recommendation systems for Vietnam's dropshipping market.  
+**Droppii** - Joined their team to build AI-powered product consultation and recommendation systems for Vietnam's dropshipping market.
 *Tech Stack: GPT-3.5 Instruct*
 
-**Plot** - Built a creative platform that uses AI to automatically label and manage social media content.  
-*Tech Stack: Cohere Embeddings v3, GPT-4 Turbo, Pinecone Vector DB*
+**Plot** - Built a creative platform that uses AI to automatically label and manage social media content.
+*Tech Stack: LangChain, Cohere Embeddings v3, GPT-4 Turbo, Pinecone Vector DB*
 
-### Internal tools
+### Human resources & consulting
 
-**Screenz** - AI-powered screen analysis and automation tools  
-**Brainery** - Knowledge management system with AI-driven insights  
-**Fortress** - Investment analysis platform with AI recommendations  
-**Inloop** - Automated workflow systems  
-**Tono** - Audio processing and analysis tools
+**Screenz** - AI-powered screen analysis and automation tools
+*Tech Stack: ElevenLabs, GPT-4o*
+
+**Inloop** - Human-in-the-loop AI systems to provide consulting services
+*Tech Stack: Agentic AI, Claude Sonnet, RAG, Cohere Embed v3, OpenRouter*
+
+## Productivity
+
+**MCPilot** - Discord bot that supports Model Context Protocol (MCP) configurations and use them to answer questions through an AI agent
+*Tech Stack: Mastra.ai, GPT-4o-mini, ai-sdk*
+
 
 ## Our tech stack
 
-**AI/ML**: GPT-4, Claude, Gemini, Cohere, local LLMs (Llama, Mistral)
+**AI/ML**: OpenAI, Claude, Gemini, Cohere, local LLMs (Llama, Mistral)
 
-**Vector databases**: Pinecone, Weaviate, Chroma for semantic search and retrieval
+**Vector databases**: Pinecone, Weaviate, Chroma, pgvector for semantic search and retrieval
 
-**ML frameworks**: TensorFlow, PyTorch, Transformers, LangChain for model development
+**ML frameworks**: TensorFlow, PyTorch, Transformers for model development
+
+**Agentic AI**: LangChain, Mastra.ai, MCP, AutoGPT for building intelligent agents that can reason and act
+
+**Workflows**: Dify, n8n, and custom solutions with agentic frameworks for automating business processes
 
 **Data processing**: DuckDB, Apache Spark, pandas for handling large datasets
+
+**Observability**: Langsmith, Langfuse for LLM observability and monitoring
 
 **Deployment**: Docker, Kubernetes, cloud services (AWS, GCP) for scalable AI systems
 
@@ -112,9 +130,9 @@ We've built AI solutions across industries. Here are some highlights:
 
 Whether you're looking to add AI to an existing product or build something entirely new, we can help you navigate the AI landscape and build something that works.
 
-**Email**: <team@d.foundation>  
-**Phone**: (+1) 818 408 6969  
-**Telegram**: [dfoundation](t.me/dfoundation)  
+**Email**: <team@d.foundation>
+**Phone**: (+1) 818 408 6969
+**Telegram**: [dfoundation](https://t.me/dfoundation)
 
 ## Learn more
 
