@@ -1,7 +1,7 @@
 ---
 title: Team profile
 short_title: Team profile 💎
-description: A team of design and development experts crafting software, building tech teams, and investing in people who create world's next favorite things.
+description: "A team of design and development experts crafting software, building tech teams, and investing in people who create world's next favorite things."
 date: 2024-01-01
 hide_title: true
 pinned: true
@@ -61,31 +61,49 @@ Our services are tailored to blend into the nature of each client we work with. 
 
 #### AI Projects
 
-![AI Projects Showcase](assets/ai-projects-showcase.png)
+![AI stack](assets/plot-ai-project.png)
 
 **Fornax**: Uses AI to evaluate pitch decks and works as a white-label app with partners to sift and evaluate upcoming startups.
 
 - Tech Stack: GPT-4o
 
-![Fornax AI Project](assets/fornax-ai-project.png)
+![Fornax AI Project](assets/ai-projects-showcase.png)
 
 **Droppii**: A pioneering e-commerce and dropshipping consulting platform in Vietnam that uses AI and Large Language Models (LLM) to automate product consultation and recommendations.
 
 - Tech Stack: GPT 3.5 Instruct
 
-![Droppii AI Project](assets/droppii-ai-project.png)
+![Droppii AI Project](assets/fornax-ai-project.png)
 
 **Memo**: Our firm's second brain for sharing knowledge and insights publicly, making results more privacy-focused for readers.
 
 - Tech Stack: DuckDB, Transformers.js
 
-![Memo AI Project](assets/memo-ai-project.png)
+![Memo AI Project](assets/droppii-ai-project.png)
 
 **Plot**: A creative hub for social media and content management using AI to automatically label images and content posts.
 
 - Tech Stack: Cohere Embeddings v3, GPT4 Turbo, Pinecone Vector DB
 
-![Plot AI Project](assets/plot-ai-project.png)
+![Plot AI Project](assets/memo-ai-project.png)
+
+**Screenz**: A platform that automates the hiring process with AI-powered candidate screening and evaluation.
+
+- Tech Stack: ElevenLabs, GPT-4o
+
+![Screenz AI Project](assets/screenz-ai.jpg)
+
+**Inloop**: Human-in-the-loop AI solution that combines AI and human expertise to provide consulting service for startups and businesses.
+
+- Tech Stack: Agentic AI, Claude Sonnet, RAG, Cohere Embed v3, OpenRouter
+
+![Inloop AI Project](assets/inloop-studio-ai.jpg)
+
+**BrainDB**: Our social listening and data analytics agent that uses AI to analyze technology trends and insights from targeted sources.
+
+- Tech Stack: Mastra.ai, MCP, DuckDB, crawl4ai, Gemini
+
+![BrainDB AI Project](assets/brain-db-social-listening.jpg)
 
 ## Web3 Services
 
