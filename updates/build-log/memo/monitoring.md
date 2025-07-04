@@ -75,6 +75,8 @@ interface VaultMetrics {
 }
 ```
 
+![memo-monitoring-1](../assets/memo-monitoring-1.png)
+
 **Health Status Logic:**
 The system uses tiered thresholds to classify the vault's health, ensuring we prioritize critical issues effectively.
 
@@ -114,6 +116,8 @@ This system ensures both optimal performance and high reliability through:
 * **Connection Resilience**: Implements a retry mechanism for establishing the initial connection.
 * **Exponential Backoff**: If a notification fails, the system waits progressively longer before retrying, preventing API rate-limiting issues.
 * **Graceful Error Handling**: Failures are logged without crashing the parent workflow.
+
+![memo-monitoring-2](../assets/memo-monitoring-2.png)
 
 #### CI/CD workflow monitoring
 
