@@ -21,6 +21,8 @@ This approach offers several advantages over traditional, single-strategy monito
 * **Real-Time Event Awareness**: Instrumental monitoring provides immediate feedback on critical events, such as NFT mints and CI/CD pipeline status, enabling rapid response from the engineering team.
 * **End-to-End Data Integrity**: Our checks span the entire data lifecycle, from Markdown content ingestion and **Parquet** file health to database consistency and AI embedding generation.
 
+![memo-monitoring](../assets/memo-monitoring.png)
+
 ### Proactive health audits: Synthetic monitoring
 
 Our synthetic monitoring platform operates on a fixed schedule, executing a series of checks against our core data assets and business logic. It serves as our early warning system, providing a regular pulse on the health of the entire **memo.d.foundation** ecosystem and catching issues before they escalate.
@@ -181,7 +183,6 @@ We built our monitoring system with security and responsible data handling as co
     // Address truncation for privacy
     const truncatedAddress = String(row.address || '').substring(0, 8) + '...';
     ```
-
 
 ### Success metrics
 
