@@ -170,48 +170,20 @@ async function setupDuckDBConnections(): Promise<DuckDBConnection> {
 }
 ```
 
-### Security and compliance framework
+### Security and Data Handling
 
-We designed the monitoring system with security and privacy as first-class citizens, ensuring all operations are secure and respectful of community data.
+We built our monitoring system with security and responsible data handling as core principles:
 
-#### Secrets management
+* **Secure Credentials Management**: All credentials, such as API keys and database strings, are managed as **GitHub Secrets**. Access is limited by the **principle of least privilege**, and our services connect using a dedicated **read-only** database user to prevent accidental data modification.
+* **Privacy by Design**: We practice **data minimization** in all public-facing reports to protect community privacy. For instance, collector wallet addresses are truncated to show activity trends without revealing full identities.
 
-All credentials, API keys, and webhook URLs are managed as **GitHub Secrets**. They are securely injected into our workflows as environment variables at runtime and are never hardcoded in the repository.
+    ```typescript
+    // Address truncation for privacy
+    const truncatedAddress = String(row.address || '').substring(0, 8) + '...';
+    ```
 
-**Secure Environment Configuration:**
 
-```yaml
-env:
-  MEMO_NFT_DB_CONNECTION_STRING: ${{ secrets.MEMO_NFT_DB_CONNECTION_STRING }}
-  DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL_MEMO_LOGS }}
-  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-```
-
-Our security posture is reinforced by:
-
-* **Principle of Least Privilege**: Secrets are scoped to only the workflows that require them.
-* **Read-Only Database Access**: The monitoring system connects to our database using a dedicated user with read-only permissions.
-* **Environment Isolation**: We use separate secrets and webhooks for development and production environments.
-
-#### Compliance and privacy
-
-We handle all data, especially community-related information, with strict adherence to privacy best practices. This involves data minimization and anonymization in all public-facing reports.
-
-**Address Truncation for Privacy:**
-To protect collector privacy, we truncate wallet addresses before they are included in any public notification.
-
-```typescript
-const topCollectors = collectorsResult.map((row) => ({
-  address: String(row.address || '').substring(0, 8) + '...', // Truncated for privacy
-  totalAmount: Number(row.total_amount)
-}));
-```
-
-### Operational management and performance
-
-We have established clear metrics and processes to ensure our monitoring system runs smoothly and delivers tangible value.
-
-#### Success metrics
+### Success metrics
 
 We track a set of key performance indicators to measure the effectiveness of our monitoring infrastructure:
 
@@ -220,28 +192,9 @@ We track a set of key performance indicators to measure the effectiveness of our
 * **Data Freshness**: Reports leverage data that is never more than 6 hours old.
 * **Query Performance**: Complex analytical reports complete in under 30 seconds.
 
-#### Alert handling and escalation
-
-Our automated workflow escalates alerts based on a tiered severity model:
-
-* **Critical (Red)**: An emergency requiring immediate attention, triggering multi-channel notifications.
-* **Warning (Yellow)**: An issue that needs attention, triggering a standard alert in Discord.
-* **Healthy (Green)**: A routine status update delivered via a standard report.
-
-### Core design principles and learnings
-
-Our development process was guided by several key principles that we believe are critical for building effective monitoring systems.
-
-**Align Monitoring with Business Outcomes**
-Our primary insight was that technical metrics are only valuable when tied to a business goal. Our most effective monitors answer key stakeholder questions, such as "Is the minting process working correctly?"
-
-**Design for Resilience**
-A monitoring system must be more reliable than the systems it observes. We built ours with robust retry logic, graceful degradation, and connection resilience to ensure it is always available when we need it most.
-
-### Future roadmap
+### What's next?
 
 While we are proud of the current system, our work is never done. We are actively exploring several enhancements to make our monitoring even more intelligent and proactive.
 
-* **Predictive Analytics with AI**: We plan to leverage machine learning to analyze historical trends and predict potential failures before they occur.
 * **Automated Remediation**: For common, well-understood issues, we will explore self-healing capabilities to reduce manual intervention.
 * **Executive Dashboards**: We will create higher-level dashboards that distill technical metrics into clear business insights for leadership.
