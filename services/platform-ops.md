@@ -64,27 +64,28 @@ We're seeing platform operations evolve beyond basic automation:
 
 We've built platform operations for 10+ companies across startups to enterprises. Here are some highlights:
 
-### Omnichannel operations
-
-**[Setel](https://memo.d.foundation/consulting/case-study/setel)** - Built a unified customer support hub by integrating Zendesk and deploying chatbot solutions. Created seamless omnichannel experience for Malaysia's largest fuel payment app.
 
 ### Platform modernization
 
 **[Kafi Securities](https://memo.d.foundation/consulting/case-study/kafi)** - Executed phased platform acquisition and migration. Full technical assessment, smooth transition, and infrastructure modernization for their trading platform.
 
-**[Hedge Foundation](https://memo.d.foundation/consulting/case-study/hedge-foundation)** - Established centralized monitoring setup for their crypto trading platform. Proactive monitoring, incident management, and system reliability ensuring 99.9% uptime.
+**[Hedge Foundation](https://memo.d.foundation/consulting/case-study/hedge-foundation)** - Established centralized monitoring setup for their crypto trading platform. Proactive monitoring, incident management, and system reliability.
+- _Tech Stack: Kubernetes, GCP, Grafana, Prometheus, Elixir_
 
-### Infrastructure automation
 
-**[Memo](https://memo.d.foundation)** - Built our own knowledge management platform with automated content processing, search indexing, and deployment pipelines. Self-hosted infrastructure that scales from hundreds to thousands of daily users.
+### Infrastructure automation & monitoring
 
-**[Brainery](https://memo.d.foundation/consulting/case-study/brainery)** - Developed learning platform infrastructure with automated content delivery, user progress tracking, and scalable video streaming. Built CI/CD pipelines for rapid feature deployment.
+**[Memo](https://memo.d.foundation)** - Built our own knowledge management platform with automated content processing, search indexing, and deployment pipelines.
+- _Tech Stack: Github action, DuckDB, Discord messaging_
+
+**[Observer](https://memo.d.foundation/consulting/case-study/brainery)** - Developed infrastructure for a social listening platform with automated deployment pipelines, real-time monitoring, and AI-driven content curation.
+- _Tech Stack: Docker, Kubernetes, GCP, Uptime, Sentry, Retool, Go, Python, TypeScript_
 
 ## Our tech stack
 
 **Infrastructure**: Kubernetes, Terraform, AWS/GCP/Azure multi-cloud. We build systems that scale without breaking the bank.
 
-**AI/ML platforms**: TensorFlow, PyTorch for operational intelligence. Smart monitoring and predictive maintenance.
+**AI/ML platforms**: LangSmith and Langfuse for observability, LLMOps for model management. We integrate AI into your operations, not just as an afterthought.
 
 **Monitoring**: Prometheus, Grafana, custom observability solutions. We show you what matters, not everything.
 
@@ -106,9 +107,9 @@ We've built platform operations for 10+ companies across startups to enterprises
 
 Whether you're a startup drowning in manual deployments or an enterprise wanting to modernize your operations, we can help you build platform operations that actually scale.
 
-**Email**: <team@d.foundation>  
-**Phone**: (+1) 818 408 6969  
-**Telegram**: [dfoundation](t.me/dfoundation)  
+**Email**: <team@d.foundation>
+**Phone**: (+1) 818 408 6969
+**Telegram**: [dfoundation](https://t.me/dfoundation)
 
 ## Learn more
 
