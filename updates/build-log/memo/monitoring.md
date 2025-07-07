@@ -14,10 +14,10 @@ To ensure the operational reliability of our **memo.d.foundation**, we have deve
 
 This approach offers several advantages over traditional, single-strategy monitoring:
 
-* **Proactive and reactive coverage**: We combine scheduled "scout" checks for landscape-level health with event-driven "messenger" alerts for immediate issue notification, leaving no gaps in our visibility.
-* **Early issue detection**: Synthetic monitoring identifies potential data quality or pipeline bottlenecks before they impact the user experience or downstream processes.
-* **Real-Time event awareness**: Instrumental monitoring provides immediate feedback on critical events, such as NFT mints and CI/CD pipeline status, enabling rapid response from the engineering team.
-* **End-to-end data integrity**: Our checks span the entire data lifecycle, from Markdown content ingestion and **Parquet** file health to database consistency and AI embedding generation.
+- **Proactive and reactive coverage**: We combine scheduled "scout" checks for landscape-level health with event-driven "messenger" alerts for immediate issue notification, leaving no gaps in our visibility.
+- **Early issue detection**: Synthetic monitoring identifies potential data quality or pipeline bottlenecks before they impact the user experience or downstream processes.
+- **Real-Time event awareness**: Instrumental monitoring provides immediate feedback on critical events, such as NFT mints and CI/CD pipeline status, enabling rapid response from the engineering team.
+- **End-to-end data integrity**: Our checks span the entire data lifecycle, from Markdown content ingestion and **Parquet** file health to database consistency and AI embedding generation.
 
 ![memo-monitoring](../assets/memo-monitoring.webp)
 
@@ -52,9 +52,9 @@ const collectionMetrics = await connection.runAndReadAll(`
 
 This daily audit, running via a `cron` schedule in **GitHub Actions**, tracks key performance indicators, including:
 
-* **Minting pipeline health**: Monitors success rates, queue depth, and pending content.
-* **Collection activity**: Analyzes total collection events, revenue, and unique collectors.
-* **Author and content Trends**: Identifies top contributors and popular content tags.
+- **Minting pipeline health**: Monitors success rates, queue depth, and pending content.
+- **Collection activity**: Analyzes total collection events, revenue, and unique collectors.
+- **Author and content Trends**: Identifies top contributors and popular content tags.
 
 #### Data vault integrity (`monitor-vault-parquet.ts`)
 
@@ -114,9 +114,9 @@ await mcpDiscord.callTool({
 
 This system ensures both optimal performance and high reliability through:
 
-* **Connection resilience**: Implements a retry mechanism for establishing the initial connection.
-* **Exponential backoff**: If a notification fails, the system waits progressively longer before retrying, preventing API rate-limiting issues.
-* **Graceful error handling**: Failures are logged without crashing the parent workflow.
+- **Connection resilience**: Implements a retry mechanism for establishing the initial connection.
+- **Exponential backoff**: If a notification fails, the system waits progressively longer before retrying, preventing API rate-limiting issues.
+- **Graceful error handling**: Failures are logged without crashing the parent workflow.
 
 ![memo-monitoring-2](../assets/memo-monitoring-2.png)
 
@@ -155,9 +155,9 @@ We selected **DuckDB** as our core data processing engine due to its unique capa
 
 **Key advantages:**
 
-* **Federated queries**: Natively queries remote Parquet files and connects to our live **PostgreSQL** database in a single session.
-* **High performance**: Columnar-vectorized query execution is highly optimized for analytical workloads.
-* **Zero-dependency**: Runs entirely in-memory, simplifying our CI/CD environment setup.
+- **Federated queries**: Natively queries remote Parquet files and connects to our live **PostgreSQL** database in a single session.
+- **High performance**: Columnar-vectorized query execution is highly optimized for analytical workloads.
+- **Zero-dependency**: Runs entirely in-memory, simplifying our CI/CD environment setup.
 
 **PostgreSQL integration:**
 The connection process involves loading the `postgres` extension and attaching our remote database as a read-only source.
@@ -181,26 +181,26 @@ async function setupDuckDBConnections(): Promise<DuckDBConnection> {
 
 We built our monitoring system with security and responsible data handling as core principles:
 
-* **Secure credentials management**: All credentials, such as API keys and database strings, are managed as **GitHub Secrets**. Access is limited by the **principle of least privilege**, and our services connect using a dedicated **read-only** database user to prevent accidental data modification.
-* **Privacy by design**: We practice **data minimization** in all public-facing reports to protect community privacy. For instance, collector wallet addresses are truncated to show activity trends without revealing full identities.
+- **Secure credentials management**: All credentials, such as API keys and database strings, are managed as **GitHub Secrets**. Access is limited by the **principle of least privilege**, and our services connect using a dedicated **read-only** database user to prevent accidental data modification.
+- **Privacy by design**: We practice **data minimization** in all public-facing reports to protect community privacy. For instance, collector wallet addresses are truncated to show activity trends without revealing full identities.
 
-    ```typescript
-    // Address truncation for privacy
-    const truncatedAddress = String(row.address || '').substring(0, 8) + '...';
-    ```
+  ```typescript
+  // Address truncation for privacy
+  const truncatedAddress = String(row.address || '').substring(0, 8) + '...';
+  ```
 
 ### Success metrics
 
 We track a set of key performance indicators to measure the effectiveness of our monitoring infrastructure:
 
-* **Monitoring with Uptime**: Targeting 99.9% uptime for all monitoring services, ensuring continuous visibility.
-* **Alert latency**: Average delivery time for critical alerts is under 2 minutes.
-* **Data freshness**: Reports leverage data that is never more than 6 hours old.
-* **Query performance**: Complex analytical reports complete in under 30 seconds.
+- **Monitoring with Uptime**: Targeting 99.9% uptime for all monitoring services, ensuring continuous visibility.
+- **Alert latency**: Average delivery time for critical alerts is under 2 minutes.
+- **Data freshness**: Reports leverage data that is never more than 6 hours old.
+- **Query performance**: Complex analytical reports complete in under 30 seconds.
 
 ### What's next?
 
 While we are proud of the current system, our work is never done. We are actively exploring several enhancements to make our monitoring even more intelligent and proactive.
 
-* **Automated remediation**: For common, well-understood issues, we will explore self-healing capabilities to reduce manual intervention.
-* **Executive dashboards**: We will create higher-level dashboards that distill technical metrics into clear business insights for leadership.
+- **Automated remediation**: For common, well-understood issues, we will explore self-healing capabilities to reduce manual intervention.
+- **Executive dashboards**: We will create higher-level dashboards that distill technical metrics into clear business insights for leadership.
