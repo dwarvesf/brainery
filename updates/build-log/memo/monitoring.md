@@ -3,7 +3,7 @@ title: Monitoring
 description: "Learn about our dual approach to monitoring at memo.d.foundation, combining synthetic and instrumental monitoring to ensure system health and community engagement."
 date: 2025-07-05
 authors:
-  - quang
+  - lmquang
 tags:
   - memo
   - monitoring
