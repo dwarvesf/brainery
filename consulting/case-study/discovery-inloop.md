@@ -12,6 +12,8 @@ tags:
   - facilitator
   - gtm
   - product-adoption
+redirect:
+  - /bsjQH2M
 ---
 
 **Industry**
