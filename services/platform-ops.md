@@ -64,21 +64,22 @@ We're seeing platform operations evolve beyond basic automation:
 
 We've built platform operations for 10+ companies across startups to enterprises. Here are some highlights:
 
-
 ### Platform modernization
 
 **[Kafi Securities](https://memo.d.foundation/consulting/case-study/kafi)** - Executed phased platform acquisition and migration. Full technical assessment, smooth transition, and infrastructure modernization for their trading platform.
 
 **[Hedge Foundation](https://memo.d.foundation/consulting/case-study/hedge-foundation)** - Established centralized monitoring setup for their crypto trading platform. Proactive monitoring, incident management, and system reliability.
-- _Tech Stack: Kubernetes, GCP, Grafana, Prometheus, Elixir_
 
+- _Tech Stack: Kubernetes, GCP, Grafana, Prometheus, Elixir_
 
 ### Infrastructure automation & monitoring
 
 **[Memo](https://memo.d.foundation)** - Built our own knowledge management platform with automated content processing, search indexing, and deployment pipelines.
+
 - _Tech Stack: Github action, DuckDB, Discord messaging_
 
 **[Observer](https://memo.d.foundation/consulting/case-study/brainery)** - Developed infrastructure for a social listening platform with automated deployment pipelines, real-time monitoring, and AI-driven content curation.
+
 - _Tech Stack: Docker, Kubernetes, GCP, Uptime, Sentry, Retool, Go, Python, TypeScript_
 
 ## Our tech stack
