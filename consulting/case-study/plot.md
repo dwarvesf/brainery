@@ -10,6 +10,8 @@ tags:
   - data
   - case-study
   - startup
+redirect:
+  - /DJR3nU0
 ---
 
 **Industry**
