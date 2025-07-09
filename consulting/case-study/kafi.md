@@ -10,6 +10,8 @@ tags:
   - fintech
   - system-modernization
   - legacy-system
+redirect:
+  - /XTD5rfc
 ---
 
 **Industry**
