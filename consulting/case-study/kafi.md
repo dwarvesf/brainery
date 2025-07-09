@@ -1,176 +1,171 @@
 ---
-title: "Kafi: making stock trading easier for everyone"
-short_title: Kafi
-description: We helped Kafi Securities rebuild their stock trading app to work better for both beginners and experienced traders, making investing more accessible for everyone.
-date: 2024-10-16
+title: Modernizing complex financial systems through systematic transition
+short_title: KAFI
+description: Systematic transition and modernization of KAFI Securities' complex trading platform while maintaining critical daily operations
+date: 2025-07-09
 authors:
-  - bringastar
-  - Maniub102
+  - nikki
 tags:
   - case-study
   - fintech
-  - mobile
-redirect:
-  - /CYcY4w
+  - system-modernization
+  - legacy-system
 ---
 
-**Industry**\
-Financial Services / Investment
+**Industry**
 
-**Location**\
+Financial Services, Securities Trading
+
+**Location**
+
 Vietnam
 
-**Business context**\
-Securities firm needed to modernize their trading app to attract new users while retaining professionals
+**Business context**
 
-**Solution**\
-Redesigned the mobile trading platform with personalized experiences for different user skill levels
+KAFI Securities, a Vietnam-based financial services firm, is well-known for its tech-driven approach. It integrates trading platforms and various digital tools to offer a wide spectrum of investment solutions such as stock and derivatives trading, wealth management, proprietary trading, and strategic partnerships. The platform serves both retail and institutional clients across Vietnam.
 
-**Outcome**\
-Delivered an app that improved user retention and provided appropriate tools for all trader types
+**Solution**
 
-**Our service**\
-UX/UI Design / User Research / Mobile App Redesign
+We executed a step-by-step transition plan that enabled our team to take over development without disrupting daily operations. Through comprehensive system audits and close collaboration with KAFI's teams, we maintained stability while extending the platform's capabilities.
+
+**Outcome**
+
+Dwarves Foundation now handles 70–80% of KAFI's development workload, serving as a trusted technical partner. We delivered detailed system documentation, established structured development workflows, and positioned the platform for future growth.
+
+**Our services**
+
+System Audit, Legacy System Modernization, Development Operations, Technical Architecture, Documentation Engineering
 
 ## Technical highlights
 
-- **User research**: Comprehensive analysis of user behavior and pain points
-- **Personalization**: Adaptive interfaces based on user experience level
-- **Onboarding**: Streamlined registration process with progressive disclosure
-- **Education**: Integrated learning tools for new investors
-- **UI design**: Clean, modern interface with contextual help features
-- **Responsive design**: Optimized for various screen sizes and orientations
+- **System reverse engineering**: Comprehensive documentation of legacy architecture and workflows to enable smooth team transitions
+- **Zero-downtime transition**: Carefully orchestrated handover process maintaining critical trading operations
+- **Architecture mapping**: Detailed analysis of system components, dependencies, and infrastructure
+- **Workflow optimization**: Introduction of structured development processes improving team efficiency
+- **Platform integration**: High-speed integration with new platforms based on evolving business requirements
+- **Technical partnership**: Active involvement in architectural decisions and long-term technology strategy
 
-## What we did with Kafi
+## What we did with KAFI
 
-Kafi Securities asked us to rebuild their mobile trading app. After a strong financial year in early 2024, they wanted to invest in better technology to grow their business and stay competitive.
+KAFI Securities approached us with a critical challenge: their trading platform had evolved into a highly complex system that was becoming increasingly difficult to maintain and extend. As a technology-driven financial services firm, KAFI recognized that their competitive advantage depended on their ability to rapidly adapt their platform to market needs and regulatory requirements.
 
-We worked directly with Mr. Diep The Anh , Deputy Director of Kafi , and their leadership team to find the biggest problems and create smart solutions. Together, we built a new app that matched Kafi's goal of "Building financial dreams" and helping everyone access investment opportunities.
+The platform's complexity stemmed from years of organic growth, integrating various trading systems, risk management tools, and third-party services. While this approach had served them well, it created significant technical debt and made it challenging to onboard new development teams or implement new features quickly.
 
-Our main task was designing an app that works for two very different groups: beginners who are just starting to invest, and professionals who trade stocks daily. The app needed to teach new Vietnamese investors about finance while giving experienced traders the advanced tools they need.
+> **Core Challenge**: KAFI needed a partner who could not only understand their complex legacy system but also modernize it without disrupting the critical daily operations that thousands of traders depended on.
 
-Instead of making small improvements to their old app, we built something completely new from scratch. This fresh start let us make the app faster, more secure, and easier to use.
+We worked directly with KAFI's leadership, product, and operations teams to develop a systematic approach to taking over development responsibilities. Our goal was to establish ourselves as an extension of their team while bringing modern development practices and architectural improvements to their platform.
 
-![Kafi Securities mobile trading app interface showing market data](assets/kafi-cover.webp)
+## The challenges KAFI faced
 
-## The challenge Kafi faced
+KAFI's trading platform presented several interconnected challenges that required careful navigation:
 
-Kafi's biggest problem was that their old app didn't work well for different types of users. This caused several key challenges:
+### Technical complexity without documentation
 
-### User experience problems
+- **Undocumented architecture**: Years of development had created a system where knowledge existed primarily in the minds of long-term developers
+- **Hidden dependencies**: Critical system interactions weren't mapped, making changes risky
+- **Technical debt accumulation**: Quick fixes and workarounds had compounded over time
+- **Knowledge silos**: Different teams held pieces of the system understanding with no unified view
 
-- **High dropout rates during onboarding**: The complicated identity verification process turned potential users away, with many abandoning the app before completing registration
-- **Confusion for new investors**: Financial terminology and complex charts overwhelmed beginners, preventing them from taking their first steps
-- **Limited tools for professionals**: Experienced traders couldn't access the detailed market analysis they needed on mobile devices
-- **One-size-fits-all approach**: The app treated everyone the same way, regardless of experience level
+### Operational criticality
 
-### Business impact
+- **Zero tolerance for downtime**: The platform processed millions in daily transactions
+- **Real-time requirements**: Trading systems demand microsecond-level performance
+- **Regulatory compliance**: Financial regulations required careful handling of any system changes
+- **24/7 operations**: Market hours and global trading meant limited maintenance windows
 
-These user experience issues directly affected Kafi's business by:
+### Growth constraints
 
-- Limiting new user acquisition despite marketing efforts
-- Reducing mobile engagement - users only checked basic information instead of actively trading
-- Pushing professional traders to use desktop platforms or competitor apps
-- Creating frustration that damaged the company's reputation
+- **Scaling difficulties**: Adding new features or integrations took increasingly longer
+- **Resource limitations**: Difficulty onboarding new developers due to system complexity
+- **Business agility**: Rapid market changes required faster platform evolution
+- **Future-proofing needs**: Plans for expansion required a more flexible architecture
 
-With investment interest growing in Vietnam, Kafi recognized the opportunity to capture market share by creating a more accessible platform. However, they needed to better understand their users' needs before they could build an effective solution.
+These challenges created a situation where KAFI's technical capabilities were becoming a bottleneck to their business growth, despite their strong market position and tech-driven approach.
 
 ## How we built it
 
-We used a three-step approach: learn, plan, and design. This methodical process helped us understand what users truly needed before we started creating solutions.
+Our approach to modernizing KAFI's platform centered on **systematic transition and knowledge transfer** while maintaining operational stability. We developed a three-phase strategy that allowed us to gradually assume development responsibilities without disrupting critical trading operations.
+
+### Phase 1: Comprehensive system audit
+
+We began with an intensive audit to understand the full scope of KAFI's technology landscape:
+
+- **Architecture mapping**: Created detailed diagrams of system components and their interactions
+- **Code analysis**: Reviewed millions of lines of code to identify patterns, dependencies, and risk areas
+- **Infrastructure assessment**: Documented deployment processes, server configurations, and scaling mechanisms
+- **Workflow documentation**: Mapped existing development and operational procedures
+
+This audit phase was crucial for understanding not just what the system did, but why it was built that way. We discovered numerous undocumented business rules embedded in code and critical integrations that weren't immediately apparent.
+
+### Phase 2: Gradual transition and knowledge transfer
+
+With a clear understanding of the system, we implemented a carefully orchestrated transition:
+
+- **Parallel operations**: Our team worked alongside KAFI's developers for seamless knowledge transfer
+- **Incremental responsibility**: Started with non-critical components before moving to core systems
+- **Documentation creation**: Built comprehensive technical documentation as we learned each subsystem
+- **Process establishment**: Introduced structured development workflows without disrupting existing operations
+
+> **Key Innovation**: We developed a **"shadow development" approach** where our team would first observe, then assist, and finally lead development efforts for each system component. This ensured zero disruption while building confidence on both sides.
+
+### Phase 3: Modernization and extension
+
+Once established as the primary development team, we began systematic improvements:
+
+- **Technical debt reduction**: Refactored critical components while maintaining functionality
+- **Integration acceleration**: Built frameworks for rapid integration with new platforms
+- **Performance optimization**: Improved system response times for critical trading operations
+- **Monitoring enhancement**: Implemented comprehensive observability for proactive issue detection
 
 ### Technical approach
 
-#### Comprehensive user research
+Our modernization strategy balanced stability with innovation:
 
-We spent an intensive week gathering insights to answer three critical questions: What frustrates customers now? What do they want? What do they actually need?
-
-Our research methodology included:
-
-- **Contextual observation**: We watched real users interact with the app to identify moments of frustration and confusion
-- **Social listening**: We analyzed investment forums and social media groups to uncover common problems discussed by traders
-- **Competitive analysis**: We evaluated competing trading apps to identify best practices and opportunities for differentiation
-
-This research revealed that most mobile trading app users primarily want to:
-
-- Monitor stock prices and market news quickly
-- Check their account balances and positions
-- Receive alerts about important market changes or opportunities
-- Execute basic trades when away from their computers
-
-#### Experience-based personalization
-
-Based on our research findings, we created user personas and journey maps to guide our design decisions. This led us to develop a core innovation: experience-based personalization.
-
-The app now identifies whether a user is a beginner, intermediate, or expert investor and adjusts the interface accordingly:
-
-- **Beginners** see simplified views with educational components
-- **Intermediate users** access more detailed charts and analysis tools
-- **Advanced traders** get professional-grade features and customization options
-
-![Different app views for different experience levels showing persona-based interfaces](assets/kafi-designing-tools-for-different-user-groups.webp)
-
-#### Streamlined onboarding process
-
-We completely redesigned the registration process by:
-
-- Breaking it into smaller, more manageable steps
-- Adding a clear progress indicator to show completion status
-- Allowing users to explore the app before completing full verification
-- Implementing a "try before you buy" approach with demo accounts
-
-#### Education integration
-
-For new investors, we created contextual learning tools:
-
-- Hover tooltips that explain financial terms in plain language
-- A persistent help panel that can be accessed from any screen
-- Interactive tutorials that guide users through their first trades
-- Simplified market explanations with visual aids
-
-![Help features for new investors showing contextual assistance](assets/kafi-helping-new-investors.webp)
-
-![Investment education tools showing simplified explanations](assets/kafi-helping-new-investors-2.webp)
-
-#### Modern, minimalist design system
-
-We developed a clean, distraction-free interface that puts important information first:
-
-- Eliminated unnecessary elements to reduce cognitive load
-- Used consistent design patterns across all sections
-- Implemented a contemporary color scheme with clear hierarchy
-- Created flexible components that work across different screens
-
-![Design concepts for the app interface showing visual style exploration](assets/kafi-moodboard.webp)
+- **Reverse engineering methodology**: Systematic documentation of undocumented systems and business logic
+- **Risk-based prioritization**: Focused on high-impact, low-risk improvements first
+- **Modular refactoring**: Isolated system components to enable independent updates
+- **Continuous integration**: Established automated testing and deployment pipelines
+- **Knowledge management**: Created living documentation that evolved with the system
 
 ### How we collaborated
 
-Our partnership with Kafi involved close collaboration throughout the project:
+Success required deep integration with KAFI's teams:
 
-- Regular workshops with stakeholders to align on direction
-- Weekly progress reviews with their leadership team
-- User testing sessions with actual Kafi customers
-- Direct collaboration with their development team
-- Knowledge transfer sessions to ensure smooth implementation
+- **Daily standups** with product and operations teams to align priorities
+- **Joint troubleshooting** sessions for critical issues, building trust through shared problem-solving
+- **Knowledge sharing workshops** where our team presented findings and recommendations
+- **Technical advisory role** in strategic decisions about platform evolution
+- **24/7 support rotation** ensuring coverage for critical trading hours
 
-This collaborative approach ensured the final product would meet both business objectives and user needs while being technically feasible to implement.
+This collaborative approach transformed us from an external vendor into a trusted technical partner, deeply invested in KAFI's success.
 
 ## What we achieved
 
-Our redesign of Kafi's trading app delivered several measurable improvements:
+Our partnership with KAFI Securities delivered transformative results across technical, operational, and strategic dimensions:
 
-**Increased registration completions**: The streamlined onboarding process helped more people successfully join the platform, with completion rates rising significantly.
+### Technical transformation
 
-**Higher mobile engagement**: Both beginners and professionals now spend more time using the app, with more trades being executed on mobile.
+- **Comprehensive system documentation**: Created detailed technical documentation covering architecture, workflows, and business logic that previously existed only as tribal knowledge
+- **Reduced onboarding time**: New developers can now become productive in weeks rather than months
+- **Improved system stability**: Proactive monitoring and structured processes reduced critical incidents by identifying issues before they impacted trading
+- **Accelerated delivery**: Integration with new platforms now measured in days rather than weeks
 
-**Accelerated learning curve**: New investors reported feeling more confident and began trading earlier in their journey thanks to the integrated educational tools.
+### Operational excellence
 
-**Advanced functionality**: Professional traders gained access to the detailed analysis tools they needed, reducing their reliance on desktop platforms.
+- **70–80% development ownership**: Dwarves Foundation successfully assumed majority responsibility for platform development
+- **Zero-downtime transition**: Completed the entire transition without a single trading disruption
+- **Structured workflows**: Introduced development practices that improved team efficiency and code quality
+- **Knowledge continuity**: Eliminated single points of failure through comprehensive documentation
 
-**Unified platform experience**: A single app now effectively serves users at all experience levels, simplifying maintenance while improving the user experience.
+### Strategic partnership
 
-**Enhanced brand perception**: The modern, thoughtful design strengthened Kafi's position as an innovative investment platform in Vietnam.
+- **Technical decision-making**: Became actively involved in architectural and technology strategy decisions
+- **Future-ready platform**: Positioned KAFI's system for planned expansions and new business initiatives
+- **Risk mitigation**: Detailed system health reports identified and addressed potential issues proactively
+- **Capability transfer**: KAFI's internal teams adopted our development workflows and best practices
 
-The new app successfully supports Kafi's mission to make investing accessible to everyone while providing experienced traders with the tools they need. By creating personalized experiences based on user knowledge, we've helped Kafi build a platform where investors can grow their skills over time without needing to switch apps as they advance.
+> **Client Impact**: "The Dwarves Foundation team didn't just take over our development – they transformed how we think about and manage our technology platform. They've become an integral part of our technical strategy." – KAFI Leadership
 
-This project demonstrates the importance of understanding diverse user needs when designing financial applications. By combining careful research with thoughtful, adaptive design, we created an experience that works for both beginners and experts, helping Kafi grow their business while making investing more accessible to the Vietnamese market.
+Our work with KAFI demonstrates how systematic approaches to legacy system modernization can unlock business potential while maintaining operational stability. By combining deep technical expertise with careful transition planning, we helped KAFI transform their complex platform from a constraint into a competitive advantage.
+
+The partnership continues to evolve, with our team now deeply embedded in KAFI's technology operations and actively shaping their platform's future. This case study exemplifies how thoughtful technical partnerships can enable financial services firms to maintain their edge in rapidly evolving markets.
