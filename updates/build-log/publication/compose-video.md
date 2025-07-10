@@ -1,6 +1,6 @@
 ---
 title: Composing the Dwarves video pipeline
-description: A UX guide to designing agentic AI systems that balance automation with user control.
+description: "A behind-the-scenes look at how we built our video pipeline for long-form explainers and short-form content, from script to screen, with AI in the loop."
 date: 2025-07-10
 tags:
   - workflows
@@ -8,6 +8,7 @@ tags:
   - ai
 authors:
   - innnotruong
+  - monotykamary
 ---
 
 We care about doing things right and having a bit of fun along the way. Our new video pipeline is built to help us tell better stories, faster. Whether it’s a deep tech explainer or a meme with bite, every piece now flows through a system that keeps us sharp and in sync.
