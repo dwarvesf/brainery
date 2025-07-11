@@ -1,7 +1,7 @@
 ---
 title: Fintech expertise & solutions
 short_title: Fintech
-description: We build financial systems that work. From payment platforms to DeFi protocols, we've helped startups and banks across Southeast Asia create secure, scalable fintech solutions.
+description: "We build financial systems that work. From payment platforms to DeFi protocols, we've helped startups and banks across Southeast Asia create secure, scalable fintech solutions."
 date: 2025-01-12
 tags:
   - fintech
@@ -54,7 +54,7 @@ LIMIT 6;
 We're focused on emerging opportunities:
 
 - **DeFAI**: AI-integrated DeFi protocols
-- **Bitcoin Layer 2**: Lightning Network and payment solutions  
+- **Bitcoin Layer 2**: Lightning Network and payment solutions
 - **Embedded finance**: APIs that turn any app into a fintech platform
 - **Regulatory tech**: Compliance automation for Southeast Asian markets
 
@@ -80,7 +80,7 @@ We've built 15+ fintech projects across Southeast Asia and beyond. Here are some
 
 **[Tokenomy](https://memo.d.foundation/consulting/case-study/tokenomy)** - Redesigned their crypto investment platform and built an Android app. Launched on schedule.
 
-**[Kafi Securities](https://memo.d.foundation/consulting/case-study/kafi)** - Joined their team to modernize their stock trading app for both beginners and pros.
+**[Kafi Securities](https://memo.d.foundation/consulting/case-study/kafi-securities)** - Joined their team to modernize their stock trading app for both beginners and pros.
 
 ### Enterprise banking
 
@@ -110,9 +110,9 @@ We've built 15+ fintech projects across Southeast Asia and beyond. Here are some
 
 Whether you're a fintech startup or an established bank looking to modernize, we have the expertise to help.
 
-**Email**: <team@d.foundation>  
-**Phone**: (+1) 818 408 6969  
-**Telegram**: [dfoundation](t.me/dfoundation)  
+**Email**: <team@d.foundation>
+**Phone**: (+1) 818 408 6969
+**Telegram**: [dfoundation](t.me/dfoundation)
 
 ## Learn more
 
