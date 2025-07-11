@@ -125,6 +125,8 @@ Since the project involved adapting existing technology for a new use case, deve
 
 This approach enabled effective collaboration between proven AI technology foundations and new enterprise consulting requirements.
 
+![](assets/inloop-conversation-ai-chat.webp)
+
 ## What we achieved
 
 The project successfully delivered an **enterprise-grade conversational AI platform** specifically adapted for professional consulting. Key achievements include:
@@ -134,8 +136,6 @@ The project successfully delivered an **enterprise-grade conversational AI platf
 - **Organizational hierarchy** enabling facilitators to manage multiple engagements
 - **Tamper-proof contract system** ensuring cryptographic integrity
 - **Professional platform adaptation** transforming conversational AI for enterprise consulting
-
-![](assets/inloop-conversation-ai-chat.webp)
 
 The collaboration provided the consulting technology space with key advantages:
 
