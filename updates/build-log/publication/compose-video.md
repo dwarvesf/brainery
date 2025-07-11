@@ -105,9 +105,9 @@ Shorts are where we get to mess around. Memes, quick hits, highlights whatever g
     - Organized by episode or series folder.
     - Notion Content calendar is used for asset tracking and version control.
 - **How do we notify the team?**
-    - Use Dwarves discord (🗣・operations) when the draft is ready.
-    - Feedback and final review tracked at #operation, #lobby.
-    - Tag stakeholders for final sign-off
+    - Use Dwarves discord when the draft is ready.
+    - Feedback and final review tracked at internal channel.
+    - Tag stakeholders for final sign-off.
 - **How are credentials managed?**
     - Platform credentials (YouTube, LinkedIn) are managed by the content lead.
     - Access is shared only with designated team members.
