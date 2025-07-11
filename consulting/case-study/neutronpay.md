@@ -9,6 +9,8 @@ tags:
   - fintech
   - blockchain
   - payment
+redirect:
+  - /Z4WUPDs
 ---
 
 **Industry**
