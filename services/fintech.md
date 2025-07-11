@@ -66,7 +66,7 @@ We've built 15+ fintech projects across Southeast Asia and beyond. Here are some
 
 **[Open Fabric](https://memo.d.foundation/consulting/case-study/open-fabric)** - Joined their team to build a BNPL platform from scratch. Launched in one year, now expanding across Southeast Asia.
 
-**Neutronpay** - Created a Lightning Network payment solution for instant, low-cost Bitcoin transactions.
+**[Neutronpay]()** - Created a Lightning Network payment solution for instant, low-cost Bitcoin transactions.
 
 ### Blockchain projects
 
