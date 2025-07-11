@@ -4,7 +4,7 @@ short_title: Kafi - securities
 description: "Systematic transition and modernization of Kafi Securities' complex trading platform while maintaining critical daily operations"
 date: 2025-07-09
 authors:
-  - nikki
+  - nikkingtr
 tags:
   - case-study
   - fintech

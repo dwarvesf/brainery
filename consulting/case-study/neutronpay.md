@@ -4,7 +4,7 @@ short_title: Neutronpay
 description: "We helped a fintech startup build a Lightning Network payment platform that enables fast, low-cost cryptocurrency transactions for businesses and individuals."
 date: 2024-12-09
 authors:
-  - nikki
+  - nikkingtr
 tags:
   - fintech
   - blockchain
@@ -50,6 +50,8 @@ Blockchain Development, Payment System Architecture, Mobile App Development, Sys
 
 The client approached us with an ambitious vision: bridge traditional finance with cryptocurrency technology using the Lightning Network. As a fintech startup, they recognized the opportunity in solving high fees, slow processing, and complex cryptocurrency management that plagued existing payment solutions.
 
+![](assets/neutron-1.webp)
+
 > **Core Challenge**: The client needed engineering expertise to work alongside their technical leadership in building a Lightning Network payment platform that could handle multiple cryptocurrencies and integrate with traditional payment providers.
 
 We provided specialized engineering workforce to collaborate closely with their technical team to design and develop a comprehensive payment ecosystem.
@@ -79,6 +81,8 @@ The cryptocurrency payment landscape presented several interconnected challenges
 ## How we built it
 
 Our approach centered on **providing specialized engineering support** while focusing on Lightning Network optimization. We deployed our engineering workforce to collaborate directly with their technical leadership throughout development.
+
+![](assets/neutron-2.webp)
 
 ### Lightning Network foundation
 
