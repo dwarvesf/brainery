@@ -1,6 +1,6 @@
 ---
 title: Modernizing complex financial systems through systematic transition
-short_title: Kafi - securities
+short_title: Kafi
 description: "Systematic transition and modernization of Kafi Securities' complex trading platform while maintaining critical daily operations"
 date: 2025-07-09
 authors:
