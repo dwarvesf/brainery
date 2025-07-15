@@ -15,19 +15,6 @@ redirect:
   - /Bg60FM
 ---
 
-## Our initiatives
-
-We're not waiting for the market to mature. We're building our expertise through targeted experiments. Below are some of the key experiments we're testing:
-
-- [x] **Smart social listening:** Actively monitoring and extracting insights from social signals to build our collective knowledge
-- [x] **MCP-Discord integration:** Building an interface for our team to interact with our agentic systems directly through Discord
-- [x] **Development toolchain:** Creating an AI-powered development environment that helps our engineers work more effectively in the age of AI agents
-- [ ] **Agentic fortress:** Upgrading our current operational systems to AI workflows, from internal ops to project management
-- [ ] **Team knowledge base:** Routing all our data through a central intelligence system that gets smarter with every project
-- [ ] **Publication automation:** Using our knowledge base to generate more ideas and content for our communication strategy
-
----
-
 ## The wave we're riding
 
 We're witnessing something different this time. **Agentic AI** isn't just another LLM wrapper or chatbot upgrade. These are AI systems that actually make decisions and execute complex tasks without constantly asking for permission.
@@ -64,8 +51,7 @@ This shift means our engineers will become AI orchestrators, not just coders, sp
 
 - **Foundation**: Understanding **foundation models**, model selection, and **prompt engineering**.
 
-- **AI application building**: Differentiating between **agents vs. workflows** and managing deployment.
-
+- **AI application building**: Differentiating between **agents vs. workflows** and managing deployment and observability.
 - **AI-augmented software development**: Choosing the right tools (coding agents, IDEs, etc.), ensuring **context awareness** (runbooks, memory), and utilizing AI for review, testing, and refactoring within the development workflow.
 
 ### New service offerings
@@ -141,6 +127,17 @@ flowchart TD
 ```
 
 These aren't just concerns. They're **opportunities** for us to solve if we want to sell these services effectively. Our layered approach ensures enterprises can deploy agentic AI without breaking their existing processes or compromising their security requirements.
+
+## Our experiments
+
+We're not waiting for the market to mature. We're building our expertise through targeted experiments:
+
+- [x] **Smart social listening:** Actively monitoring and extracting insights from social signals to build our collective knowledge
+- [x] **MCP-Discord integration:** Building an interface for our team to interact with our agentic systems directly through Discord
+- [x] **Development toolchain:** Creating an AI-powered development environment that helps our engineers work more effectively in the age of AI agents
+- [ ] **Agentic fortress:** Upgrading our current operational systems to AI workflows, from internal ops to project management
+- [ ] **Team knowledge base:** Routing all our data through a central intelligence system that gets smarter with every project
+- [ ] **Publication automation:** Using our knowledge base to generate more ideas and content for our communication strategy
 
 ## Reality check
 
