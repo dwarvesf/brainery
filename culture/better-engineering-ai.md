@@ -11,6 +11,8 @@ tags:
   - craftsmanship
   - philosophy
   - personal
+redirect:
+  - /N3SLXqc
 ---
 
 I've been staring at my screen for the past hour, watching Cursor AI suggest a database query that's syntactically perfect but will absolutely murder our performance when we have real users.
