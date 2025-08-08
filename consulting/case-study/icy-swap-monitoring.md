@@ -8,6 +8,8 @@ tags:
 - "monitoring"
 - "icy-swap"
 - "platform-ops"
+redirect:
+  - /1XUArvF
 ---
 
 In most software, monitoring is an accessory. For a system that moves money, like a crypto swap service, it's a core part of the engine. If your gauges are wrong, the engine is broken. When building the observability for the ICY Backend, our problem wasn't just to see if the server was 'up.' It was to build a nervous system for it, one that could feel its own state without revealing secrets that would be financially fatal.
