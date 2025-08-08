@@ -10,7 +10,7 @@ tags:
 - "platform-ops"
 ---
 
-In most software, monitoring is an accessory. For a system that moves money, like a crypto swap service, it's a core part of the engine. If your gauges are wrong, the engine is broken. When building the observability for the ICY Backend, our problem wasn't just to see if the server was 'up.' It was to build a nervous system for it—one that could feel its own state without revealing secrets that would be financially fatal.
+In most software, monitoring is an accessory. For a system that moves money, like a crypto swap service, it's a core part of the engine. If your gauges are wrong, the engine is broken. When building the observability for the ICY Backend, our problem wasn't just to see if the server was 'up.' It was to build a nervous system for it, one that could feel its own state without revealing secrets that would be financially fatal.
 
 ## What not to measure
 
@@ -20,7 +20,7 @@ So our first principle was ruthless selectivity. Metric cardinality became a sec
 
 ## The shape of a request
 
-So if we can’t use the most revealing labels, what is left to measure at the system's front door—its HTTP API? The question becomes about finding the most expressive, yet safe, dimensions of a request.
+So if we can’t use the most revealing labels, what is left to measure at the system’s front door, its HTTP API? The question becomes finding the most expressive yet safe dimensions of a request.
 
 We found the answer in the three primary colors of web service observability: rate, errors, and duration. These tell you almost 
 everything you need to know about the load on the system and its ability to cope. We captured them with a few fundamental metrics. A counter for total requests, a histogram for request duration, and a gauge for active requests.
@@ -37,7 +37,7 @@ And the gauge for active requests turned out to be surprisingly insightful. Whil
 
 The next question was, how do you know if the system is truly healthy? A simple /healthz endpoint is trivial; it's like checking for a pulse. It confirms the system is alive, but not that it can do any real work.
 
-So we built a richer set of probes—a form of synthetic monitoring designed for an external service like Uptime Robot to watch. Instead of one status, our dashboard has several vital signs. The first is the simple pulse check (/healthz). But we added another, `/api/v1/health/db`, to ask a more meaningful question: "Can you talk to your database?"
+So we built a richer set of probes, a form of synthetic monitoring designed for an external service like Uptime Robot to watch. Instead of one status, our dashboard shows several vital signs. The first is the simple pulse check (/healthz). We then added another, `/api/v1/health/db`, to ask a more meaningful question: "Can you talk to your database?"
 
 The trickiest part is handling unreliable external APIs. Treating a failure from the Bitcoin network like a local one would cause unnecessary downtime.
 
@@ -45,7 +45,7 @@ This is where the circuit breaker pattern is critical. It gracefully isolates ex
 
 ![alt text](assets/icy-swap-healthz.png)
 
-This gives our Uptime Robot dashboard a richer vocabulary. It's no longer just green or red, but has a yellow light for when the system is "wounded, but alive"—a much more accurate picture of its state.
+This gives our Uptime Robot dashboard a richer vocabulary. It’s no longer just green or red, but also has a yellow light for when the system is "wounded, but alive", giving a much more accurate picture of its state.
 
 ## Gauges on the outside world
 
@@ -59,11 +59,11 @@ This is what we plot in Grafana. It gives us a high-fidelity view of our depende
 
 ## The silent workers
 
-The most subtle layer of health, however, was in the background. A great deal of the work in a crypto system—indexing new transactions, processing swaps—happens in cron jobs. These are silent workers. They can fail, or worse, become stuck in an infinite loop, consuming resources without anyone noticing until it's too late. How do you monitor something that has no user-facing request?
+The most subtle layer of health, however, was in the background. A great deal of the work in a crypto system, such as indexing new transactions and processing swaps, happens in cron jobs. These are silent workers. They can fail, or worse, become stuck in an infinite loop, consuming resources without anyone noticing until it’s too late. How do you monitor something that has no user-facing request?
 
 ![alt text](assets/icy-swap-job-metrics.png)
 
-Our solution was a thread-safe manager that every job had to check in with. When a job started, it would register itself. When it finished, it would report its status—success or failure. We built a watchdog that would look for jobs that had been running for an unusually long time (say, more than 15 minutes for a swap process) and flag them as "stalled." This way, our background processes, the most hidden part of the machine, were brought into the light.
+Our solution was a thread-safe manager that every job had to check in with. When a job started, it registered itself. When it finished, it reported its status as either success or failure. We built a watchdog to detect jobs running for an unusually long time, for example more than 15 minutes for a swap process, and flag them as “stalled.” This brought our background processes, the most hidden part of the machine, into the light.
 
 ## The cost of watching
 
