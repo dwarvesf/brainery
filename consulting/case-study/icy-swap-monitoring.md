@@ -22,14 +22,13 @@ So our first principle was ruthless selectivity. Metric cardinality became a sec
 
 So if we can’t use the most revealing labels, what is left to measure at the system’s front door, its HTTP API? The question becomes finding the most expressive yet safe dimensions of a request.
 
-We found the answer in the three primary colors of web service observability: rate, errors, and duration. These tell you almost 
-everything you need to know about the load on the system and its ability to cope. We captured them with a few fundamental metrics. A counter for total requests, a histogram for request duration, and a gauge for active requests.
+We found the answer in the three primary colors of web service observability: rate, errors, and duration. These tell you almost everything you need to know about the load on the system and its ability to cope. We captured them with a few fundamental metrics. A counter for total requests, a histogram for request duration, and a gauge for active requests.
 
 The power, as always, was in the labels. We settled on three: the HTTP method, the endpoint template, and the resulting status code. This combination is powerful. It lets you ask questions like, "What is the 95th percentile latency for POST requests to /swaps that result in a 200 status?" without ever touching sensitive data.
 
 ![alt text](assets/icy-swap-http.png)
 
-The key insight here was in the endpoint label. We couldn't use the raw request path, like /api/v1/user/123/transactions, because that would create a new metric series for every user, defeating our security goal. Instead, we instrumented the router to provide the normalized path template: /api/v1/user/:id/transactions. This small distinction is what makes high-utility HTTP metrics possible in a secure environment.
+The key insight here was in the endpoint label. We couldn't use the raw request path, like `/api/v1/user/123/transactions`, because that would create a new metric series for every user, defeating our security goal. Instead, we instrumented the router to provide the normalized path template: `/api/v1/user/:id/transactions`. This small distinction is what makes high-utility HTTP metrics possible in a secure environment.
 
 And the gauge for active requests turned out to be surprisingly insightful. While rate and duration tell you what has already happened, the number of active requests tells you about pressure in the system right now. If it starts climbing while the request rate stays flat, you know something is slowing down. It’s an early warning sign of saturation, a leading indicator of trouble.
 
