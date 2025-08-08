@@ -82,7 +82,7 @@ We've built platform operations for 10+ companies across startups to enterprises
 
 - _Tech Stack: Docker, Kubernetes, GCP, Uptime, Sentry, Retool, Go, Python, TypeScript_
 
-**[ICY Swap](https://memo.d.foundation/consulting/case-study/icy-swap)** - Built observability for a crypto swap service with secure, high-fidelity metrics, circuit breakers for external APIs, and proactive health monitoring.
+**[ICY Swap](https://memo.d.foundation/consulting/case-study/icy-swap-monitoring)** - Built observability for a crypto swap service with secure, high-fidelity metrics, circuit breakers for external APIs, and proactive health monitoring.
 
 - _Tech Stack: Prometheus, Grafana, Go, Kubernetes, Uptime Robot_
 

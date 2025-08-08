@@ -1,5 +1,5 @@
 ---
-title: Monitoring the ICY Swap Backend
+title: Monitoring the ICY Swap backend
 date: 2025-08-07
 description: "We built a monitoring system for a cryptocurrency backend that provides deep observability while protecting sensitive financial data through layered health checks and resilient, security-first architecture."
 authors:
@@ -12,13 +12,13 @@ tags:
 
 In most software, monitoring is an accessory. For a system that moves money, like a crypto swap service, it's a core part of the engine. If your gauges are wrong, the engine is broken. When building the observability for the ICY Backend, our problem wasn't just to see if the server was 'up.' It was to build a nervous system for it—one that could feel its own state without revealing secrets that would be financially fatal.
 
-## What Not to Measure
+## What not to measure
 
 This led us to the central tension: we needed total observability but also near-total secrecy. Most monitoring thrives on detailed labels like user IDs. In crypto, a wallet address isn't just a label; it's a key. Exposing it in a dashboard would be like engraving your bank password on the outside of your house.
 
 So our first principle was ruthless selectivity. Metric cardinality became a security feature, not just a technical one. The rule was absolute: no transaction hashes, no addresses, no amounts. Our metrics could show what operation failed, but never for whom or for how much.
 
-## The Shape of a Request
+## The shape of a request
 
 So if we can’t use the most revealing labels, what is left to measure at the system's front door—its HTTP API? The question becomes about finding the most expressive, yet safe, dimensions of a request.
 
@@ -33,7 +33,7 @@ The key insight here was in the endpoint label. We couldn't use the raw request 
 
 And the gauge for active requests turned out to be surprisingly insightful. While rate and duration tell you what has already happened, the number of active requests tells you about pressure in the system right now. If it starts climbing while the request rate stays flat, you know something is slowing down. It’s an early warning sign of saturation, a leading indicator of trouble.
 
-## What is Health?
+## What is health?
 
 The next question was, how do you know if the system is truly healthy? A simple /healthz endpoint is trivial; it's like checking for a pulse. It confirms the system is alive, but not that it can do any real work.
 
@@ -47,7 +47,7 @@ This is where the circuit breaker pattern is critical. It gracefully isolates ex
 
 This gives our Uptime Robot dashboard a richer vocabulary. It's no longer just green or red, but has a yellow light for when the system is "wounded, but alive"—a much more accurate picture of its state.
 
-## Gauges on the Outside World
+## Gauges on the outside world
 
 But these health checks, these green and yellow lights, are just a summary. They tell you if something is wrong, but not how wrong. A service being "degraded" is useful information, but is it slow? Is it erroring out? Is the circuit breaker about to trip again?
 
@@ -57,7 +57,7 @@ To answer these questions, you need quantitative data. This is where we go beyon
 
 This is what we plot in Grafana. It gives us a high-fidelity view of our dependencies. We can see the latency to the Bitcoin API begin to creep up minutes before our circuit breaker trips. We can overlay our application's error rate with the external API's error rate and see a direct correlation. These graphs tell a story. They don't just tell us that a service is degraded; they show us the precise shape of its degradation. This is the difference between knowing a storm is coming and having a weather radar to track its every move.
 
-## The Silent Workers
+## The silent workers
 
 The most subtle layer of health, however, was in the background. A great deal of the work in a crypto system—indexing new transactions, processing swaps—happens in cron jobs. These are silent workers. They can fail, or worse, become stuck in an infinite loop, consuming resources without anyone noticing until it's too late. How do you monitor something that has no user-facing request?
 
@@ -65,13 +65,13 @@ The most subtle layer of health, however, was in the background. A great deal of
 
 Our solution was a thread-safe manager that every job had to check in with. When a job started, it would register itself. When it finished, it would report its status—success or failure. We built a watchdog that would look for jobs that had been running for an unusually long time (say, more than 15 minutes for a swap process) and flag them as "stalled." This way, our background processes, the most hidden part of the machine, were brought into the light.
 
-## The Cost of Watching
+## The cost of watching
 
 Of course, all this watching comes at a cost. Every check, every metric, every log adds a tiny bit of overhead. In a high-frequency financial system, nanoseconds matter. We set ourselves an almost absurdly low budget for the overhead of our main HTTP monitoring middleware: less than 1 millisecond per request.
 
 Achieving this felt like tuning a race car engine. We pre-computed metric labels at startup so we weren't doing string manipulation on every request. We were careful about memory allocations. The final result was an overhead of around 493 nanoseconds per request. This number wasn't just a performance metric; it was proof that observability didn't have to come at the expense of speed. We could have our microscope without slowing down the patient.
 
-## What We Learned
+## What we learned
 
 What we built feels less like a collection of tools and more like a coherent system. We learned that security must be designed in from the start, not sanitized later. That "health" is not one question, but a series of layered ones. And that you must assume the world will fail, and build mechanisms like circuit breakers to survive.
 
