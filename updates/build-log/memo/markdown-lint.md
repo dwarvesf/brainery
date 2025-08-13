@@ -15,7 +15,7 @@ tags:
 
 Maintaining a healthy knowledge base requires attention to detail: consistent headings, complete frontmatter, valid links, and stylistic coherence over time. However, enforcing quality across a multi-repository system—where content is authored by many contributors and rules evolve—presents a significant challenge. We address this complexity through a sophisticated Markdown linting and formatting pipeline, integrating traditional rule engines with generative AI to ensure consistency and efficiency.
 
-## Why Automate Markdown Quality?
+## Why automate markdown quality?
 
 Initially, relying on contributors to follow conventions might seem sufficient. However, as our knowledge base expanded, we encountered increasing entropy: inconsistent headings, missing metadata, broken links, and gradual stylistic divergence. Manual review became unsustainable, driving us to develop a system capable of:
 
@@ -24,7 +24,7 @@ Initially, relying on contributors to follow conventions might seem sufficient. 
 - Seamlessly integrating with local developer workflows and CI/CD pipelines
 - Adapting to evolving rules and diverse content types
 
-## Modular Linting: Rules as Code
+## Modular linting: rules as code
 
 We developed a modular linting engine that dynamically loads rule modules from `scripts/formatter/rules/`. Each rule is implemented as a TypeScript file following a standardized interface: it analyzes files, reports violations, and optionally provides automated fixes. Our current rule set includes:
 
@@ -36,7 +36,7 @@ We developed a modular linting engine that dynamically loads rule modules from `
 
 This linting system operates flexibly, capable of processing any file set recursively or by pattern, and offers straightforward extensibility—new rules can be added simply by dropping additional TypeScript files into the `rules/` directory.
 
-## How Does Lint Work?
+## How does lint work?
 
 The cornerstone of our linting system is `scripts/formatter/note-lint.ts`, a TypeScript module that orchestrates the entire linting and formatting process through these key steps:
 
@@ -49,17 +49,17 @@ The cornerstone of our linting system is `scripts/formatter/note-lint.ts`, a Typ
 
 This modular, rule-driven methodology enables us to enforce structural integrity, stylistic consistency, and even AI-powered conventions across thousands of Markdown files—both locally and in CI—without requiring manual intervention.
 
-## Generative Formatting: LLMs in the Loop
+## Generative formatting: LLMs in the loop
 
 A particularly innovative aspect of our system is the integration of generative models for style normalization. The `sentence-case.ts` rule extracts all headings, frontmatter titles, and key phrases, then leverages OpenRouter's GPT-4 API to convert them to sentence case. This process intelligently preserves acronyms and proper nouns while maintaining stylistic consistency—a subtle yet powerful approach to standardization, especially as new content and contributors join the ecosystem.
 
 This methodology operates recursively: the linter extracts content, the LLM rewrites it, and the linter applies the changes. If the API key is unavailable locally, the rule gracefully skips execution; however, it always runs in CI environments to ensure consistent quality.
 
-## Markdown Lint Overview
+## Markdown lint overview
 
 ![overview-markdown-lint](./assets/markdown-lint.png)
 
-### Git Hooks: Local Enforcement
+### Git hooks: local enforcement
 
 To proactively identify and resolve issues before they reach the repository, we employ a sophisticated shell-based Git hook manager (`scripts/git-shell-hook.ts`). This script transcends simple hook installation—it orchestrates a robust, recursive, and self-updating system for Markdown quality enforcement across all submodules.
 
@@ -73,7 +73,7 @@ The system operates through these key capabilities:
 
 The hooks themselves are engineered for resilience: they retrieve the latest linting script on every execution, support both TypeScript and JavaScript execution environments, and automatically update as the central linting logic evolves. This design ensures that every commit—across every submodule—adheres to the same Markdown quality standards with minimal manual oversight.
 
-### GitHub Actions: CI for Markdown Everywhere
+### GitHub Actions: CI for markdown everywhere
 
 For continuous integration, the same `scripts/git-shell-hook.ts` script generates tailored GitHub Actions workflows for each submodule. These workflows operate through a defined sequence:
 
@@ -86,7 +86,7 @@ For continuous integration, the same `scripts/git-shell-hook.ts` script generate
 
 The workflow architecture emphasizes modularity, allowing triggering via push events, pull requests, or manual dispatch. It securely manages sensitive information like the OpenRouter API key and executes formatting steps only when necessary, optimizing both performance and resource utilization.
 
-## Lessons and Open Questions
+## Lessons and open questions
 
 Our implementation has yielded several key insights:
 
