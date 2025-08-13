@@ -11,6 +11,8 @@ tags:
   - github-actions
   - git-hooks
   - build-log
+redirect:
+  - /7cE8h7w
 ---
 
 Maintaining a healthy knowledge base requires attention to detail: consistent headings, complete frontmatter, valid links, and stylistic coherence over time. However, enforcing quality across a multi-repository system—where content is authored by many contributors and rules evolve—presents a significant challenge. We address this complexity through a sophisticated Markdown linting and formatting pipeline, integrating traditional rule engines with generative AI to ensure consistency and efficiency.
