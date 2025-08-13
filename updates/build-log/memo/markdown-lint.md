@@ -1,7 +1,7 @@
 ---
 title: Markdown lint
 description: "An exploration of how Dwarves Foundation automates Markdown quality using modular linting, generative formatting, and cross-repo CI/CD integration."
-date: 2025-08-12
+date: 2025-08-13
 authors:
   - chinhld12
 tags:
@@ -95,5 +95,3 @@ Our implementation has yielded several key insights:
 - **Automation potential remains vast.** We are actively exploring how LLMs could further enhance our workflows through applications like link rewriting, automated summary generation, and even changelog composition.
 
 This approach ensures we maintain both structural integrity and stylistic coherence across our knowledge base while continuously exploring new frontiers for automation and enhancement.
-
----
