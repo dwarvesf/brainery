@@ -135,6 +135,9 @@ We're not waiting for the market to mature. We're building our expertise through
 - [x] **Smart social listening:** Actively monitoring and extracting insights from social signals to build our collective knowledge
 - [x] **MCP-Discord integration:** Building an interface for our team to interact with our agentic systems directly through Discord
 - [x] **Development toolchain:** Creating an AI-powered development environment that helps our engineers work more effectively in the age of AI agents
+- [x] **AI GenZ survey:** Vietnamese demographic analysis system that processes Vietnamese demographic data to create virtual profiles for Gen Z demographics
+- [] **Profile generator:** leverages AI to generate realistic, detailed user personas for various business scenarios including user research, marketing campaigns, and product development
+- [ ] **Window form automation:** Automating the creation and management of window forms for data entry and user interaction
 - [ ] **Agentic fortress:** Upgrading our current operational systems to AI workflows, from internal ops to project management
 - [ ] **Team knowledge base:** Routing all our data through a central intelligence system that gets smarter with every project
 - [ ] **Publication automation:** Using our knowledge base to generate more ideas and content for our communication strategy
