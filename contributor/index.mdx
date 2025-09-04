@@ -3,17 +3,4 @@ title: "Contributors"
 description: "List of contributors"
 ---
 
-# Contributors
-
-<ul>
-    {contributors.map(contributor => (
-    <li key={contributor}>
-        <Link
-        href={`/contributor/${contributor.toLowerCase()}`}
-        className="text-lg"
-        >
-        {contributor}
-        </Link>
-    </li>
-    ))}
-</ul>
+<ContributorList data={contributors} contributorLatestWork={contributorLatestWork} contributionCount={contributionCount} topCount={topCount} contributorStats={contributorStats} />
