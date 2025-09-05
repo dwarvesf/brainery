@@ -2,7 +2,7 @@
 title: Frontend report August 2025
 short_title: Frontend Web Development in August 2025
 description: "August 2025 frontend developments covering React ecosystem updates, performance optimization techniques, modern web technologies, security practices, developer tooling improvements, and AI integration in frontend workflows."
-date: 2025-08-31
+date: 2025-09-05
 authors:
   - ngolapnguyen
 tags:
