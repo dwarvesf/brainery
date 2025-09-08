@@ -19,7 +19,7 @@ redirect:
 
 ## The catch-22
 
-Clients only buy from people who have already done the thing. If you haven’t done the thing, you don’t get clients. If you don’t get clients, you never do the thing. The loop is brutal and most people spend years trying to break it the "fair" way—sending cold pitches with zero credibility and wondering why no one replies.
+Clients only buy from people who have already done the thing. If you haven’t done the thing, you don’t get clients. If you don’t get clients, you never do the thing. The loop is brutal and most people spend years trying to break it the "fair" way; sending cold pitches with zero credibility and wondering why no one replies.
 
 The economy does not reward playing fair; it rewards playing well. Below are three ways to play well.
 
