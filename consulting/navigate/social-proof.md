@@ -46,7 +46,7 @@ You do not need to have worked _for_ Google; you only need to have worked _with_
 
 1. Pick a big-name company in your niche.
 2. On LinkedIn, filter for non-executive employees (they say yes more often).
-3. Offer a micro-deliverable worth ≥ $500: scrape their last ten posts and write ten more in their tone, build a Notion dashboard, audit their landing page Core Web Vitals—anything that takes you < 1 day but saves them > 1 hour.
+3. Offer a micro-deliverable worth ≥ $500: scrape their last ten posts and write ten more in their tone, build a Notion dashboard, audit their landing page Core Web Vitals; anything that takes you < 1 day but saves them > 1 hour.
 4. Deliver, then add one line to your bio: "Have delivered value for people on the Google Ads team."
 
 Use the qualifier "members of" or "people at" so the claim stays truthful. The brand rubs off; the objection "Has this person done the thing?" disappears.
@@ -56,11 +56,11 @@ Use the qualifier "members of" or "people at" so the claim stays truthful. The b
 When you have neither money nor logos, trade _leads_ for _logos_.
 
 1. Buy or scrape 50 qualified leads you cannot yet service.
-2. Cold-call niche agencies: "I have leads I can’t fulfill—want them for 15 % referral?"
+2. Cold-call niche agencies: "I have leads I can’t fulfill; want them for 15 % referral?"
 3. Sign a one-page referral agreement that lets you list them as "team members."
 4. Now your site can truthfully say: "Our videographers have shot for Gillette, Pfizer, and three Fortune 500s."
 
-You are not claiming you shot the spots—only that _members of your extended team_ did. The prospect’s brain hears the brands and stops asking questions.
+You are not claiming you shot the spots; only that _members of your extended team_ did. The prospect’s brain hears the brands and stops asking questions.
 
 ## Compound interest
 
@@ -78,7 +78,7 @@ After 60 days you can write: "I’ve helped teams that have generated over $1 M 
 - Never invent dollar figures; associate with existing ones.
 - Always deliver the free value you promised; reputation compounds faster than any hack.
 
-Social proof is not a static asset—it is a resource you manufacture by strategically trading time, value, and language. Start today and you can buy yourself a million dollars of credibility before the quarter ends.
+Social proof is not a static asset; it is a resource you manufacture by strategically trading time, value, and language. Start today and you can buy yourself a million dollars of credibility before the quarter ends.
 
 ---
 
