@@ -15,11 +15,11 @@ redirect:
 ---
 
 > **tl;dr**  
-> Clients only buy from people who have already done the thing. If you haven’t done the thing, you manufacture the appearance of having done it; truthfully, cheaply, and fast.
+> Clients only buy from people who have already done the thing. If you haven't done the thing, you manufacture the appearance of having done it; truthfully, cheaply, and fast.
 
 ## The catch-22
 
-Clients only buy from people who have already done the thing. If you haven’t done the thing, you don’t get clients. If you don’t get clients, you never do the thing. The loop is brutal and most people spend years trying to break it the "fair" way; sending cold pitches with zero credibility and wondering why no one replies.
+Clients only buy from people who have already done the thing. If you haven't done the thing, you don't get clients. If you don't get clients, you never do the thing. The loop is brutal and most people spend years trying to break it the "fair" way; sending cold pitches with zero credibility and wondering why no one replies.
 
 The economy does not reward playing fair; it rewards playing well. Below are three ways to play well.
 
@@ -33,7 +33,7 @@ The economy does not reward playing fair; it rewards playing well. Below are thr
 | Wrote a React component library         | Reduced page-load cost by $8k/mo with a component library |
 | Did a summer internship at a fintech    | Saved a fintech $120k annually by pruning dead features     |
 
-If you don’t have direct revenue numbers, borrow them:
+If you don't have direct revenue numbers, borrow them:
 
 - "Built the same checkout flow that powers $50M of Shopify GMV."
 - "Deployed the same fraud model that caught $3M in attempts at Stripe."
@@ -56,21 +56,21 @@ Use the qualifier "members of" or "people at" so the claim stays truthful. The b
 When you have neither money nor logos, trade _leads_ for _logos_.
 
 1. Buy or scrape 50 qualified leads you cannot yet service.
-2. Cold-call niche agencies: "I have leads I can’t fulfill; want them for 15 % referral?"
+2. Cold-call niche agencies: "I have leads I can't fulfill; want them for 15% referral?"
 3. Sign a one-page referral agreement that lets you list them as "team members."
 4. Now your site can truthfully say: "Our videographers have shot for Gillette, Pfizer, and three Fortune 500s."
 
-You are not claiming you shot the spots; only that _members of your extended team_ did. The prospect’s brain hears the brands and stops asking questions.
+You are not claiming you shot the spots; only that _members of your extended team_ did. The prospect's brain hears the brands and stops asking questions.
 
 ## Compound interest
 
 Each tactic above is interest-bearing. Stack them:
 
-- Week 1: land two monetary claims worth $40 k combined.
+- Week 1: land two monetary claims worth $40k combined.
 - Week 3: add a Microsoft association.
 - Week 6: overflow five agencies and inherit their client list.
 
-After 60 days you can write: "I’ve helped teams that have generated over $1 M in new revenue and worked with people at Microsoft, Shopify, and Stripe." All technically true, all acquired with time instead of track record.
+After 60 days you can write: "I've helped teams that have generated over $1M in new revenue and worked with people at Microsoft, Shopify, and Stripe." All technically true, all acquired with time instead of track record.
 
 ## Ethics guardrails
 
