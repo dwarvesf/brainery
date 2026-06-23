@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "MCP playbook setup"
 description: "A step-by-step tutorial on configuring and running the mcp-playbook server, including GitHub token creation and using npx. This guide helps you get started with automated documentation and knowledge management tools."
 date: 2025-05-13

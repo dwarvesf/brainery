@@ -1,4 +1,5 @@
 ---
+draft: true
 tags:
   - frontend
   - market-report

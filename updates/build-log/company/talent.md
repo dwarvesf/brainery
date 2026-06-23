@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Attract & keep talented people"
 description: Treating team members as talent through recognition and care while actively seeking great people. Learn how leaders can become talent magnets and build teams that want to stay and grow.
 date: 2025-05-16

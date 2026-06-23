@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Can you rely mostly on synthetic monitoring?
 description: Exploring when synthetic monitoring alone makes sense and how to maximize its value when you can't instrument your systems or need to keep teams separate.
 authors:

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "MCP playbook code flow"
 description: "A detailed look into the mcp-playbook's internal code flow, data handling for chat logs and prompts, and interactions with GitHub repositories like prompt-db and prompt-log. This technical deep-dive helps developers understand the implementation details for debugging and extending functionality."
 date: 2025-05-13

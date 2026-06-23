@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Handle tough times: Tech shifts, money issues"
 description: Practical strategies for navigating difficult periods including technology disruptions and financial challenges. Learn how to survive setbacks and emerge stronger from adversity.
 date: 2025-05-16

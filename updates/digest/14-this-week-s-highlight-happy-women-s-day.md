@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#14 - This week's highlight? Happy women's day"
 description: "Celebrate Women's Day and discover Basecamp's new team interactions, Bao Viet insurance updates, and welcome our latest hires boosting quality and frontend engineering."
 date: 2020-03-07

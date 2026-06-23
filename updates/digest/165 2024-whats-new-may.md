@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "What's new in May 2024"
 description: May was our month for meetups, upgrading our monthly learning pool, launching NFT roles for our team members, onboarding new collaboration, recapping Echelon X 2024, and hosting an OGIF office hour.
 date: 2024-06-13

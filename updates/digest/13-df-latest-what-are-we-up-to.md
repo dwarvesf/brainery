@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#13 - DF Latest: What Are We Up To?"
 description: Discover how Dwarves Foundation boosts product design, engineering craftsmanship, apprenticeship programs, and MacOS utility Blurred to enhance creativity and focus.
 date: 2020-02-29

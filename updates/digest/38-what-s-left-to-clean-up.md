@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#38 - What’s left to clean up"
 description: Prepare for the upcoming cycle review by wrapping up your work and submit your Mid-Autumn Festival gift delivery address by August 31 for doorstep delivery.
 date: 2020-08-22

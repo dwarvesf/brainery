@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Monitoring best practices
 description: Hard-learned lessons from building monitoring systems in production. We share common mistakes to avoid and practical strategies for growing your monitoring capabilities over time.
 authors:

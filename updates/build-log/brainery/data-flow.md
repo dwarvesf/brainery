@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Data flow in Brainery
 description: How data flows through Brainery's second brain system, from Discord, Memo Blog, and GitHub sources to TimescaleDB via MCP, with an LLM-powered interface for natural language queries.
 date: 2025-05-08

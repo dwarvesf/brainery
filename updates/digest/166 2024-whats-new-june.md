@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "What's new in June 2024"
 description: In June, we expanded our knowledge base on software design, LLMs, and blockchain, while actively encouraging knowledge-sharing through increased ICY rewards. Our Vietnam Tech Scene report highlighted key industry players, and weekly OGIF talks fostered discussions on diverse tech topics like design patterns, data modalities, and blockchain architecture
 date: 2024-07-04

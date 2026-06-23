@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Weekly digest #5: endure the hardship, delay the gratification"
 short_title: "#5 Endure the hardship, delay the gratification"
 description: Happy Monday, I’m here again, bringing you a lot of updates. There are big and small things brewing at Dwarves network. As we keep on crafting a better community day by day with you.

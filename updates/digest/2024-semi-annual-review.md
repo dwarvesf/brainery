@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "State of dwarves: 2024 semi-annual review"
 description: "The past six months have been packed with many improvements to our Discord server from new standards and automation to engaging activities and rewards. Take a moment to reflect on our journey so far, and let's get excited about what we'll accomplish together before the year ends."
 date: 2024-07-04

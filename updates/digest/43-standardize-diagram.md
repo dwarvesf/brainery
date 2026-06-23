@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#43 - Standardize tech progress: Diagram"
 description: Learn how to standardize tech progress with Mermaid diagrams, RESTful API design, and stay updated on logging, monitoring, and new Biz Dev team additions at Dwarves.
 date: 2020-10-03

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Approach to building monitoring
 description: A practical guide to building monitoring systems that actually work. We share our approach to making smart decisions about what to monitor, how to collect data, and when to add complexity.
 authors:

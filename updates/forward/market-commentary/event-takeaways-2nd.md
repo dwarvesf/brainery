@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Talks and takeaways from the scene: part 2"
 short_title: 2nd Talks and Takeaways
 description: Talks and Takeaways from the Scene Part 2

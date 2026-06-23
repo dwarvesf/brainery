@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Weekly digest #11: Come grow with us"
 short_title: "#11 Come grow with us"
 description: "Things are always cooking on our Discord. So grab a virtual seat at our table, pour yourself a cup of something tasty, and read the digest. If you're reading this, why not pop into the woodland and say hello? We'd love to meet you."

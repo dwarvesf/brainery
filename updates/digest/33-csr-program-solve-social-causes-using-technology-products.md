@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#33 - CSR Program: Solve Social Causes using Technology Products"
 description: Discover how our CSR program supports social causes by offering free website development, including a new app connecting cancer patients with helpful events.
 date: 2020-07-18

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Sustainable: Stay strong over time"
 description: Discusses how to build a company that thrives long-term through resilience, community, and continuous innovation.
 date: 2025-05-16

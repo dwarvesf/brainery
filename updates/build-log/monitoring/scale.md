@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Does monitoring scale with your system?
 description: Understanding when to invest in comprehensive monitoring versus keeping it simple. We explore how system scale, user impact, and team resources should drive your monitoring decisions.
 authors:

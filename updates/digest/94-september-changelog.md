@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#94 - September Changelog"
 description: Discover the latest team updates, project progress, and new hires from our September All Hands meeting and monthly client update.
 date: 2021-10-04

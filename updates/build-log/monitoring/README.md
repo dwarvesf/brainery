@@ -1,4 +1,5 @@
 ---
+draft: true
 title: How we build our monitoring system
 short_title: § Monitoring 
 description: A guide to building effective monitoring systems, covering components, implementation, metrics, correlation, and scaling strategies for tech teams.

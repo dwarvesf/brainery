@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "What's new in December 2024"
 description: "December blended Penang team moments with steady progress, closing 2024 with energy and ready for what's next."
 date: 2025-01-03

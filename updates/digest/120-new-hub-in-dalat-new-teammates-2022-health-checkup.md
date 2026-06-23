@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#120 - New Hub in Dalat, New Teammates & 2022 Health Checkup"
 description: Get details on annual health checkups in Saigon, Hanoi, Dalat, and Danang, plus updates on apprenticeships, internships, and the Dalat Hub launch.
 date: 2022-05-09

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#143 - Halfway Through December"
 description: Join our December updates featuring a company trip, coding security event, $ICY launch, team highlights, and plans for an exciting year-end party.
 date: 2022-12-17

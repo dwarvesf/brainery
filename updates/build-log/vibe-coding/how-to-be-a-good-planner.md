@@ -1,4 +1,5 @@
 ---
+draft: true
 title: How to be a good planner
 description: A guide to effective planning in software development, winning with AI-assisted workflows.
 date: 2025-05-27

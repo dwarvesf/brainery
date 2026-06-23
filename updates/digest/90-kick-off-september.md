@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#90 - Kick-off September"
 description: "Catch up on team progress, performance reviews, and plans for growth with updates on Brainery contributors and August achievements in this week's team newsletter."
 date: 2021-09-04

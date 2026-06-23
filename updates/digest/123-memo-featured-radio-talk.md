@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#123 - Memo featured Radio Talk"
 description: Stay updated with upcoming DevOps, blockchain, and software testing workshops, plus weekly tech talks on React 18 and Remix vs Next.js at Dwarves.
 date: 2022-06-06

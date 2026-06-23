@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Brainery build log
 short_title: § Brainery 🧠
 description: "The official Brainery build-log. We're detailing our process for creating a 'second brain' designed for continuous learning and insight generation. Covers motivation, system design, and practical data-to-wisdom strategies."

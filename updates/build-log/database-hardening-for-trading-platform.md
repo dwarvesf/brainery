@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Database hardening for a trading platform'
 description: 'Discover how a trading platform mitigated database access risks, enhanced security, and ensured data integrity through role-based access control, network isolation, MFA, and robust logging. Learn about the strategies and tools, like Teleport, that transformed operational efficiency and reinforced client trust.'
 date: 2025-01-02T00:00:00.000Z

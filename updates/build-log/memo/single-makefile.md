@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Streamline development with a single Makefile
 description: "Discover how a unified Makefile simplifies the development workflow for the Memo platform, standardizing toolchain and speeding up common tasks."
 date: 2025-05-21

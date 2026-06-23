@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "What's new in July 2024"
 description: "Each month, we release a recap highlighting key updates and progress within our team and community. July covers AI advancements, community contributions, insights from Vietnam's tech scene, new memo commands, OGIF automation, and the introduction of our hourly billing model"
 date: 2024-08-09

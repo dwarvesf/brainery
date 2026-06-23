@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Architecture
 description: An overview of Brainery's architecture, detailing how it ingests, processes, and transforms data from diverse sources into a dynamic knowledge base.
 date: 2025-05-06

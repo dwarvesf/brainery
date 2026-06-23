@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#03 - Planning for Year-End Party"
 description: Stay updated on Dwarves Foundation’s year-end party, apprenticeship program, insurance policies, tech workshops, and ongoing training classes to boost team skills and benefits.
 date: 2019-12-14

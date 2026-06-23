@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "AI digest #1 Aider reasoning, OpenAI Realtime API, Cline - pre Claude-dev "
 description: "Stay updated on the latest in AI tools for developers with this week’s digest, featuring Cline's v2.0.0 update, OpenAI’s Realtime API, and Aider’s Architect/Editor split for enhanced coding workflows."
 date: 2024-10-25

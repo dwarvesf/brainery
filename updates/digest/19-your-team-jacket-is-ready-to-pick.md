@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#19 - Your team jacket is ready to pick"
 description: Get the latest updates on your team jacket pickup, newbie orientation slides, chill music playlists, and an insightful interview with Backend Engineer Huy N. at Dwarves Foundation.
 date: 2020-04-11

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Build a MCP client for Discord
 description: null
 date: 2025-05-22

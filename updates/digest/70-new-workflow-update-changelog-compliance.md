@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#70 - New workflow update : Changelog & Compliance"
 description: Learn about our new apprenticeship program, project workflow improvements, quality control updates, and the latest tech news including Kotlin Multiplatform and data breach insights.
 date: 2021-04-10

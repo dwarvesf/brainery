@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Market thesis raw analysis
 description: LLM-generated market thesis documents following our five-step methodology. Think of this as our research workspace where we collect and analyze tech trends before crafting final versions for our arc series.
 date: 2025-01-14

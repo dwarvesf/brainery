@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#32 - Drop your next goal in Cycle Planning"
 description: Discover the July-August 2020 cycle plan focusing on partnership expansion, tech upgrades, upcoming performance reviews, and highlights from Golang Meetup
 date: 2020-07-11

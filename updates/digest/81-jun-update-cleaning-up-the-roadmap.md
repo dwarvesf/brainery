@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#81 - Jun Update: Cleaning up the Roadmap"
 description: "Stay updated on team roadmap changes, Covid impacts in Saigon, Notion adoption for projects, Brave search beta features, and GitHub's new collaboration tools."
 date: 2021-06-26

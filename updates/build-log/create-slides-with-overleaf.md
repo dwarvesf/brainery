@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Create slides with Overleaf and ChatGPT
 description: This article shares a workflow for making slide decks with Overleaf and ChatGPT. It solves issues like slow content creation using ChatGPT and formats with Overleaf’s themes. It includes examples, tips, and a Dify automation for engineers.
 date: 2025-03-20

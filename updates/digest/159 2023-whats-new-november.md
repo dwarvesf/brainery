@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "What's new in November 2023"
 description: Each month, we release a recap noting all the significant changes in our company and our team. November is our month for meetups and outstanding craftsmanship.
 date: 2023-12-06

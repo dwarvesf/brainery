@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Build a central hub for knowledge & ops"
 description: Creating a centralized knowledge and operations hub that captures institutional memory and streamlines processes. Learn how to build systems that preserve wisdom and accelerate decision-making.
 date: 2025-05-16

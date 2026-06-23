@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Trace IDs and request IDs that work
 description: Understanding when to use trace_id versus request_id, and how to implement correlation that actually helps during incidents. We explore practical patterns for different system scales.
 authors:

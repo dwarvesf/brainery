@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#106 - How was your holiday?"
 description: Join our January 7 All-hands meeting to celebrate 2021 achievements, announce DOTY winners, and welcome new members to our growing tech community.
 date: 2021-12-31

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Implement Binance Futures PNL analysis page by Phoenix LiveView
 description: Implementing Binance Futures PNL Analysis page with Phoenix LiveView to optimize development efficiency. This approach reduces the need for separate frontend and backend resources while enabling faster real-time data updates through WebSocket connections and server-side rendering.
 date: 2025-01-15

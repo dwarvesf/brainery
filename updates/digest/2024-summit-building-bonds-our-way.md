@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Summit 2024: Building bonds our way"
 description: Our first international summit took us to Penang, where remote connections turned into real-world chemistry. No rigid schedules or forced activities - just authentic moments of teams choosing their own adventures, from heritage streets to beach sunsets. See how giving people space to connect creates something truly special.
 date: 2024-12-24

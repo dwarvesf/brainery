@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Build a brain that never forgets
 description: Explore how we solved the catastrophic forgetting problem in LLMs by building an external knowledge system that mimics learning through context manipulation, without touching the model's parameters.
 date: 2025-05-08

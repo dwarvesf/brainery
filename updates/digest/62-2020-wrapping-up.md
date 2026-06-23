@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#62 - 2020 Wrapping Up"
 description: Review 2020 highlights, Lunar New Year gifts, an AMA with Duc Nghiem, WeUp product demo, and Jeff Bezos stepping down as Amazon CEO.
 date: 2021-02-06

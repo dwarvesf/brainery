@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Transfer mapping: enhancing loggers for better transparency"
 description: A comprehensive guide on improving cryptocurrency transfer logging systems to provide better transparency and traceability for users and developers.
 date: 2024-11-18

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "AI digest #2 new command Aider, OpenHands, Qwen2.5 Coder 32B, predicted output"
 description: Stay updated on the latest in AI tools for developers with this week’s digest, new command Aider, OpenHands, Qwen2.5 Coder 32B
 date: 2024-11-15

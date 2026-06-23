@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Implementation guide for monitoring systems
 description: Practical implementation guidance for setting up comprehensive monitoring across all aspects of your system - from infrastructure to code quality and team performance.
 authors:

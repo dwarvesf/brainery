@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "What's new in October 2024"
 description: "Each month, we roll out a recap of our team and community's progress. October's updates spotlight our open source initiative, boosted rewards for sharing knowledge, navigating market shifts, weekly tech insights, and a warm celebration of Vietnamese Women's Day."
 date: 2024-11-15

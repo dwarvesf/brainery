@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#128 - Kick-off July"
 description: Join the Dwarves team exploring ViteJS, Web3, and DeFi, catch Tom’s Google I/O talk on Kubernetes, and learn about performance reviews and referral bonuses.
 date: 2022-07-08

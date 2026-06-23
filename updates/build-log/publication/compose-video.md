@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Composing the Dwarves video pipeline
 description: "A behind-the-scenes look at how we built our video pipeline for long-form explainers and short-form content, from script to screen, with AI in the loop."
 date: 2025-07-10

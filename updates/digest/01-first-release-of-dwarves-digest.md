@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#01 - First release of Dwarves Digest"
 description: A collection of company updates, including Canada branch registration, employee stock ownership plan.
 date: 2019-11-30

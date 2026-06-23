@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Memo architecture
 description: "Technical architecture of the Memo platform: components, data flow, and technologies for processing, storing, and rendering content."
 date: 2025-05-20

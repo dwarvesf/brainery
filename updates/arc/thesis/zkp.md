@@ -1,4 +1,5 @@
 ---
+draft: true
 title: ZKP thesis
 description: A market thesis on Zero-Knowledge Proofs, cryptographic protocols enabling privacy-preserving verification. We analyze their potential, map solutions for startups and Dwarves’ internal operations, and propose top experiment ideas and growth strategies to build expertise, aligning with our strategic verticals.
 date: 2025-06-13

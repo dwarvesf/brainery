@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#42 - Update on CEA and Conference Allowance"
 description: Learn about updated conference and education allowances, Lap’s infinite image gallery with ThreeJS, and the new standard Restful API design for consistent development.
 date: 2020-09-26

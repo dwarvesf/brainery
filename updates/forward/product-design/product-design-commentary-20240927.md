@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Product design commentary #1: New technologies changing UX/UI and product design"
 description: "New tools are changing how we design products. In the first edition, we look at voice controls, mixed reality, reusable design parts, and smart helpers. See how they're being used, what's popular, and why designers should care. Learn to make things that are easier and better to use."
 date: 2024-09-30

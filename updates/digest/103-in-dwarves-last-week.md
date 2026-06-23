@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#103 - In Dwarves last week"
 description: Discover the latest updates on blockchain learning, Solana platform sessions, and community growth in Dwarves Discord with upcoming DOTY 2021 voting news.
 date: 2021-12-11

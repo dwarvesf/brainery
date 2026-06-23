@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#35 - Just can’t believe it’s been August already"
 description: Stay updated on Covid impacts, company innovation, new tech topics like SwiftUI and security, Readify app progress, and welcome our first Canada internship batch.
 date: 2020-08-01

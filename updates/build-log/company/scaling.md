@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Scale smart: Grow big but stay research-first"
 description: Strategic approaches to scaling while preserving research-first culture and capabilities. Learn how to grow without losing what made you special in the first place.
 date: 2025-05-16

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 2019 in review
 description: 2019 notable highlights and achievements
 date: 2020-01-25

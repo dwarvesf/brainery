@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#21 - Software Craftsmanship at Dwarves"
 description: Discover how Software Craftsmanship at DF blends skill, mindset, and Agile practices to create well-crafted software and boost team knowledge sharing.
 date: 2020-04-25

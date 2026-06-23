@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#58 - We’re Moving"
 description: Discover updates on the new office migration, team retreat, and Apple’s innovative wireless charger patents for MacBook in this week’s news roundup.
 date: 2021-01-09

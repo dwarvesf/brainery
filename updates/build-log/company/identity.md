@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Know your mission & what makes you special"
 description: Defining your company's unique identity and mission creates clarity for decisions and attracts the right people. Learn how to articulate what makes you different and why it matters.
 date: 2025-05-16
