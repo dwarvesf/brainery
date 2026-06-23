@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Reconstructing historical trading PnL: a data pipeline approach"
 description: A detailed look at how we rebuilt historical trading PnL data through an efficient data pipeline approach, transforming a complex problem into a maintainable solution.
 date: 2024-11-18

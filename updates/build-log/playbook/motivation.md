@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "AI knowledge automation"
 description: "Exploring the motivations behind the MCP Playbook, its role in establishing a dynamic runbook, and new patterns for capturing AI-generated knowledge like chat logs and prompts."
 date: 2025-05-13

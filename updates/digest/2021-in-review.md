@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 2021 in review
 description: 2021 notable highlights and achievements
 date: 2021-02-05

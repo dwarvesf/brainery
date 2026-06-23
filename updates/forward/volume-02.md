@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Dwarves tech radar volume 02
 short_title: Tech Radar Volume 02
 description: Dwarves Tech Radar v2 contains the practices to simplify the workflow, new techniques/ approach methods to upgrade our current standards and expand the domain knowledge.

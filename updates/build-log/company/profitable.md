@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Profitable: make more money than you spend"
 description: Explains the core concept of profitability for a company in simple terms, revenue must exceed costs for sustainable growth.
 date: 2025-05-16

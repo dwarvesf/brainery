@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Weekly digest #6: Come for the conversation, stay for the culture"
 short_title: "#6 Come for the conversation, stay for the culture"
 description: "Hi, it’s @innno again. Summer is almost here. But don't worry, this update is all about making your day more comfortable. Now, onto this week’s updates."

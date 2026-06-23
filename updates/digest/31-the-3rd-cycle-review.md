@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#31 - The 3rd Cycle Review 📍"
 description: Celebrate the end of the 3rd cycle with highlights on the Cryptosy app update, team achievements, and a fun dinner gathering with food and drinks.
 date: 2020-07-04

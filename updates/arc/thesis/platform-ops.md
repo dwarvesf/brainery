@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Platform Ops thesis
 description: A market thesis on Platform Ops in the AI era, leveraging AI to automate and optimize infrastructure management and workflows. We analyze its potential, map infrastructure and application solutions for startups and Dwarves’ internal operations, and propose top experiment ideas and growth strategies to build expertise, aligning with our strategic verticals.
 date: 2025-06-14

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "OGIF - Oh God it's friday"
 description: "OGIF (Oh God It's Friday) is our weekly casual office hours meeting, where team members unwind, share updates, and connect in a relaxed environment at the end of each work week."
 date: 2023-12-11

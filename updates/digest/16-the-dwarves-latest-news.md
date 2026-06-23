@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#16 - The dwarves latest news"
 description: "Stay updated on The Dwarves' latest news including remote work, new hires, Canada sales partnerships, SwiftUI webinar, team jacket plans, and culture book insights."
 date: 2020-03-21

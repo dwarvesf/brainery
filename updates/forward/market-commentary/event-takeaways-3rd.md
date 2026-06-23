@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Talks and takeaways from the scene part 3: Three Crypto Events, One Reality Check"
 short_title: 3rd Talks and Takeaways
 description: Talks and Takeaways from the Scene Part 3

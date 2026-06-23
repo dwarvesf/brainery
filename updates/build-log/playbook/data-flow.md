@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "MCP playbook data flow"
 description: "How data flows through the MCP playbook server, from MCP client requests to tool execution and interactions with the file system and GitHub. This overview helps you understand the architecture and system interactions for better troubleshooting and development."
 date: 2025-05-13

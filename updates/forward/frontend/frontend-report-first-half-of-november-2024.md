@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Frontend report first half of November 2024
 short_title: Nov 2024 (First Half)
 description: "A comprehensive update on key advancements in frontend development for the first half of November 2024, highlighting React 19's full-stack capabilities, XState for state management, Shopify's React Native migration, Next.js 15 enhancements, and the impact of container queries on responsive design."

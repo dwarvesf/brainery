@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#55 - Sent out our first weekly Project Changelog"
 description: Stay updated with our weekly project changelog featuring new developments on Quod.ai, WeUp, WeGo, team updates, and insights on the Facebook vs Apple privacy debate.
 date: 2020-12-19

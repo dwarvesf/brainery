@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Stay resilient: Pass the test of time"
 description: Building company resilience to weather storms and emerge stronger. Learn how to prepare for inevitable challenges and develop the mindset and systems needed to thrive through any crisis.
 date: 2025-05-16

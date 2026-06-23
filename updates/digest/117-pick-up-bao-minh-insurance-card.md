@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#117 - Pick up Bao Minh Insurance Card"
 description: Welcome back from vacation with updates on contributor rewards, insurance card pick-up, and new Data and Fullstack Engineers joining the team.
 date: 2022-04-11

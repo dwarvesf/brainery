@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Da Lat office
 description: "It's Han and the Dwarves team again. Since June 2020, we've been planning on a new office/studio in Da Lat."
 date: 2021-07-11

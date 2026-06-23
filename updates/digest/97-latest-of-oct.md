@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#97 - Latest of Oct"
 description: Get updates on the upcoming October All-hands Meeting and our search for a Hanoi office to grow the team by November.
 date: 2021-10-23

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "What's new in January 2022"
 description: Each month, we release a recap noting all the significant changes with our company and our team. January 2022 will go over performance review and our growth on projects, new year highlights.
 date: 2022-01-28

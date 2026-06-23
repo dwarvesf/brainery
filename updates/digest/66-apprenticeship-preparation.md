@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#66 - Apprenticeship Preparation"
 description: Discover our apprenticeship program for engineers, health check reminders, insights on software engineering, Discord updates, GitHub CLI tips, and simple writing advice in this weekly update.
 date: 2021-03-13

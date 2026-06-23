@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Project compliance
 description: This email is the third month we share about our journey to Software Craftsmanship.
 date: 2021-08-23

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Company: Brand value + Trade secrets"
 description: Understanding how companies create lasting value through the combination of brand reputation and proprietary knowledge. Learn why both elements are essential for sustainable competitive advantage.
 date: 2025-05-16

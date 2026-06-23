@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#82 - Enjoy the upgrade"
 description: Stay updated with our July-August goals, new SQL and application design lessons, Micro Frontend research, and office item shipments in our latest team update.
 date: 2021-07-10

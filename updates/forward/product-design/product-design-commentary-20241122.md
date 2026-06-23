@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Product design commentary #7: Hyper-personalization - how AI improves user experience personalization"
 description: "Hyper-personalization represents the future of product development, delivering personalized experiences that adapt to each user's needs. In this model, everyone will have their own version of the internet, shaped by AI interfaces that understand their preferences, goals, and personal context."
 date: 2024-11-28

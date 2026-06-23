@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#109 - Back to work & 1-way flight Ticket"
 description: "Start your work year energized after Lunar New Year with one-way flight tickets and catch Agile Software Development insights from Tuan Tran's presentation online."
 date: 2022-02-08

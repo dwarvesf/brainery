@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Research to Value: Turn ideas into products or impact"
 description: Explains how connecting cutting-edge research with practical application drives innovation, provides solutions, and creates impact.
 date: 2025-05-16

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Visualizing crypto market performance: BTC-Alt dynamic indicators in Golang"
 description: Implementing a Golang-based visualization for crypto market performance indicators, focusing on Bitcoin vs Altcoin dynamics and trading strategy effectiveness through interactive charts and data analysis
 date: 2024-11-18

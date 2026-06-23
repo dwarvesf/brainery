@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Bitcoin thesis
 description: A market thesis on Bitcoin and building with Bitcoin, leveraging its decentralized blockchain for secure, transparent transactions and innovative applications. We analyze its potential, map infrastructure and application solutions for startups and Dwarves’ internal operations, and propose top experiment ideas and growth strategies to build expertise, aligning with our strategic verticals.
 date: 2025-06-14

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Redirect and Alias
 description: 'Implementing a URL redirect system for NextJS static memo pages to create SEO-friendly, shareable URLs while maintaining backward compatibility.'
 date: 2025-05-28

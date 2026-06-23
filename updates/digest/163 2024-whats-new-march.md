@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "What's new in March 2024"
 description: "In this March, we're eyeing on what's brewing in the tech market, ICY updates in 2024, the first offline meetup and product demo."
 date: 2024-04-03

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "MCP playbook documentation"
 short_title: "📚 MCP playbook"
 description: "An index and introduction to the mcp-playbook server documentation series, covering its purpose, setup, and operational flows. This collection helps you understand and leverage the tools for systematic knowledge management."

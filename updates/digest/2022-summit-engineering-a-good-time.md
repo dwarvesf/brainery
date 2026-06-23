@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Summit 2022: Engineering a good time"
 description: Having a blast company trip after 2 years of COVID, it didn’t happen in a common way. We planned our trip differently than others and designed apps for everyone to play as a way to bond as company outside physical activities.
 date: 2023-01-09

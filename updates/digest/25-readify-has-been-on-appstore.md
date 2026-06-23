@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#25 - Readify has been on AppStore"
 description: "Explore Dwarves Foundation's 5-year journey, software development basics, remote work tips with Basecamp, and Readify's new App Store bookmark features."
 date: 2020-05-23

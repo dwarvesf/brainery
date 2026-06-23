@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#119 - Holiday announcement"
 description: Visit the Danang office to watch Tom’s vlogs, get flight ticket support, update your ID, check Bao Minh Insurance claims, and note the upcoming holiday schedule.
 date: 2022-04-25

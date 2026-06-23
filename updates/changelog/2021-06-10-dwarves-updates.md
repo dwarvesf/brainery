@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Dwarves updates
 description: Hi, this is Han, the CEO of Dwarves Foundation. This month the Dwarves score 40th client that we have the honor to serve. And for that, we decide to launch the Dwarves updates.
 date: 2021-06-10

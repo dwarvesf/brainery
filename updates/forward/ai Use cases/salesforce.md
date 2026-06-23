@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Salesforce use cases
 description: Salesforce is taking AI to the next level with large language models that make customer service smoother, sales more strategic, and insights faster. By automating routine tasks, these tools free up teams to focus on real connections with customers. The result? Happier customers, smarter sales, and big wins for businesses.
 date: 2024-11-01

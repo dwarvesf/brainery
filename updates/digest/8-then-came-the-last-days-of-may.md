@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Weekly digest #8: Then came the last days of May"
 short_title: "#8 Then came the last days of May"
 description: "Here's to hoping for a brighter and better month on this last day of May. We’re in the heat of a community offline meet-up today, gathering to discuss the month’s progress. Everyone's a bit busy arranging their travel to Saigon, a wild place we all call home. So, let’s dive into what we’ve been up to."

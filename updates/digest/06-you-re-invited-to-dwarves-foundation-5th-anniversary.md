@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#06 - You're invited to Dwarves Foundation 5th anniversary"
 description: Celebrate Dwarves Foundation’s 5th anniversary with team updates, office cleaning plans, and a blog on Readme Driven Development to improve work processes.
 date: 2020-01-04

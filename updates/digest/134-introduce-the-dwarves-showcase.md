@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#134 - Introduce the Dwarves Showcase"
 description: Discover the latest Dwarves news on new merchandise kits, Friday Showcase demos, and fresh learning topics like Metaverse and Event sourcing to boost your skills.
 date: 2022-08-21

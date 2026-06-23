@@ -1,4 +1,5 @@
 ---
+draft: true
 title: LLM thesis
 description: A market thesis on Large Language Models, AI systems enabling human-like text generation and reasoning. We analyze their potential, map infrastructure and application solutions for startups and Dwarves’ internal operations, and propose top experiment ideas and growth strategies to build expertise, aligning with our strategic verticals.
 date: 2025-06-14

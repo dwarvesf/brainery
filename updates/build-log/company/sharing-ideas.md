@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Share your ideas: Create research, posts, or tools"
 description: Building reputation and community through sharing research, writing insightful posts, and creating useful tools. Learn how knowledge sharing becomes a competitive advantage and growth engine.
 date: 2025-05-16

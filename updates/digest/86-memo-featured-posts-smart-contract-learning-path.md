@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#86 - Memo featured posts & Smart contract learning path "
 description: Discover how console.so uses Notion for efficient blockchain development while expanding Dwarves team, sharing project case studies, and improving workflows with smart contract learning and audits.
 date: 2021-08-07

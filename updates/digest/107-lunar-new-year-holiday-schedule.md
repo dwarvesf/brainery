@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#107 - Lunar New Year Holiday Schedule"
 description: "Review our 2021 achievements, learn about our Lunar New Year holiday schedule, and catch the Software Modeling study group's design system presentation for a streaming startup."
 date: 2022-01-08

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Why build a second brain when AI can think for us?
 description: Discover why a personal second brain is still valuable in the AI era. Learn how it curates knowledge, sparks creativity, and complements LLMs for deeper insights.
 date: 2025-05-06

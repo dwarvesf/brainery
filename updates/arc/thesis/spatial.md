@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Spatial Computing thesis
 description: A market thesis on Spatial Computing, enabling immersive AR/VR experiences and spatial interactions. We analyze its potential, map infrastructure and application solutions for startups and Dwarves’ internal operations, and propose top experiment ideas and growth strategies to build expertise, aligning with our strategic verticals.
 date: 2025-06-14

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#49 - Information workflow - Gathering output for project report"
 description: Learn how to streamline release workflows by converting development updates into clear sprint-based reports for internal teams and external clients.
 date: 2020-11-07

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#149 - ChatGPT, OGIF, New Project, New Teammates"
 description: Discover how our team integrates ChatGPT bots in Discord, boosts remote communication, launches OGIF Friday demos, welcomes new members, and plans upcoming profile photoshoots.
 date: 2023-02-13

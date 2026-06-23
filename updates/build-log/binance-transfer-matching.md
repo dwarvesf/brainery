@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Building better Binance transfer tracking
 description: A deep dive into building a robust transfer tracking syste m for Binance accounts, transforming disconnected transaction logs into meaningful fund flow narratives through SQL and data analysis
 date: 2024-11-18

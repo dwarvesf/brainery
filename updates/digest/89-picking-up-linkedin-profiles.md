@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#89 - Picking up LinkedIn Profiles"
 description: Discover Basecamp Kanban updates, LinkedIn profile tips, Gitflow training for engineers, and important August cleanup and holiday schedules for your team.
 date: 2021-08-28

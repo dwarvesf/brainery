@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#104 - Vote for your Dwarves"
 description: "Get the latest updates on Dwarves' New Year holiday schedule, voting for Dwarves of The Year 2021, office returns, and Da Lat design plans."
 date: 2021-12-18

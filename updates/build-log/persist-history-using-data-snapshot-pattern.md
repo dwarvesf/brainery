@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Implementing data snapshot pattern to persist historical data
 description: A technical exploration of implementing the data snapshot pattern for efficient historical data persistence
 date: 2024-12-11

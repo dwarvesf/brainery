@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Continual learning DIKW pyramid
 description: Exploring the core motivations and principles behind building a personal knowledge management system, a true second brain.
 date: 2025-04-29

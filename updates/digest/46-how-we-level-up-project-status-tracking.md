@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#46 - How we level up project status tracking"
 description: Discover how our bi-weekly progress summaries, monthly client newsletters, and improved onboarding process enhance communication, client experience, and team integration effectively.
 date: 2020-10-24

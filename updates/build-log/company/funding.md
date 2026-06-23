@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Get money to grow: Investors, grants, or partners"
 description: Strategic approaches to funding growth through investors, grants, and partnerships. Learn how to choose the right funding path and maintain control while scaling your research-first company.
 date: 2025-05-16

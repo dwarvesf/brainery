@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Monitoring components
 description: Understanding the building blocks of effective system monitoring. We break down synthetic monitoring, instrumentation, logging, and tracing to help you build observability into your applications.
 authors:

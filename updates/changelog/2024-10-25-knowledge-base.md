@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Build your knowledge base
 description: In an age where Large Language Models like ChatGPT offer instant access to a universe of information, it raises the question, does our own personal knowledge base still hold any value, and is building a personal knowledge base still a legitimate thing to do?
 date: 2024-10-25

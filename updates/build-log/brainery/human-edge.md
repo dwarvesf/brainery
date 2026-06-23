@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Human edge in AI world
 description: Discover the human edge in empathy, creativity, intuition, and purpose, where we surpass AI. Learn practical solutions to overcome challenges like AI reliance and isolation to thrive in a tech-driven world.
 date: 2025-05-06

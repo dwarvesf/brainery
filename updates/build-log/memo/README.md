@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Memo build log
 short_title: § Memo 📝
 description: "Memo is our knowledge base, capturing collective learnings and activities. This build log documents the technical journey of creating and maintaining the platform."

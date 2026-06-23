@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Dwarves' 2nd community offline meet-up"
 description: At the end of May, we had the pleasure of hosting our second community meet-up. Over 50 folks, including notable community members, joined us.
 date: 2024-06-11

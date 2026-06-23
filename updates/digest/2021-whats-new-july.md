@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "What's new in July 2021"
 description: Each month, we release a recap noting all the significant changes with our company and our team. July 2021 we will move toward blockchain industry and prepare for performance review in August.
 date: 2021-07-31

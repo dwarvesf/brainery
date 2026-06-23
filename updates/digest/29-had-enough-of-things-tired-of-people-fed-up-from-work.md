@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#29 - Had Enough of Things? Tired of People? Fed up from Work?"
 description: Join our anonymous feedback form, RSVP for the July 3rd End of Cycle Dinner, and explore the updated Dwarves Playbook for software development insights.
 date: 2020-06-20

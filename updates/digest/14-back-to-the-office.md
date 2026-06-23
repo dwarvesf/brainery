@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Weekly digest #14: Embracing hybrid work - the best of both worlds"
 short_title: "#14 Hybrid work harmony"
 description: Discover how Dwarves embraces hybrid working, blending flexibility with in-person connections. Learn how our office space fosters productivity, learning, and real collaboration, even if it’s just for a day or two a week.

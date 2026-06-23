@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Summit 2025: Days in Danang"
 description: "We organized a few offline days  in Danang: a climb to a lookout, quiet courtyards, a walk by the water, and an evening in the old streets. The time together gave us better context across squads and made day-to-day coordination easier."
 date: 2025-10-22

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Engineering organizational structure
 description: "It's Han and Nikki from Team Dwarves. We're almost at the end of this year. While we know everyone is busy wrapping up 2021, we hope you're taking care of yourself and staying safe."
 date: 2021-12-01

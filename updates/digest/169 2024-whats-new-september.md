@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "What's new in September 2024"
 description: "Each month, we roll out a recap of our team and community's strides forward. September's updates spotlight the AI Club launch, rewards for our sharing culture, hybrid work check-ins, reporting tech trends in forward engineering, and our Mid-Autumn celebration."
 date: 2024-10-01

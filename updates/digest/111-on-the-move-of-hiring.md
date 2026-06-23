@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#111 - On the move of Hiring "
 description: Get updates on salary adjustments, new apprenticeship and tech events, team growth, and a backend engineering talk for the NFT marketplace at Dwarves.
 date: 2022-02-18

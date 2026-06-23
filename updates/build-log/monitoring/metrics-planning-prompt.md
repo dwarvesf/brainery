@@ -1,4 +1,5 @@
 ---
+draft: true
 title: LLM prompt for metrics planning
 description: A comprehensive prompt template to get tailored metrics recommendations for any system. Use this with ChatGPT, Claude, or other LLMs to design monitoring that actually matters.
 authors:

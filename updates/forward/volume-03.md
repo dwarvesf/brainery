@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Dwarves tech radar volume 03
 short_title: Tech Radar Volume 03
 description: "In short, this 3rd volume is all about one thing: Trial"

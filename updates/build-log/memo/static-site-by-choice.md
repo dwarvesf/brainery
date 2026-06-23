@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Build a static site by choice
 description: "Learn why we chose a static site architecture for the Memo platform and how Next.js facilitates dynamic page rendering and content processing."
 date: 2025-05-20

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#71 - Holiday Day-off and the rollout of Obvs"
 description: Stay updated with team progress, apprenticeship growth, Testlink QC tools, upcoming holidays, the new Obvs newsletter, Microsoft-Nuance AI healthcare acquisition, and GitHub Actions benefits.
 date: 2021-04-17

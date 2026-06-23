@@ -1,4 +1,5 @@
 ---
+draft: true
 title: December all-hands meeting
 description: Discover how our blockchain team grows with selective project focus, upgraded benefits, and remote work opportunities while embracing real deals and Web3 learning.
 date: 2022-01-07

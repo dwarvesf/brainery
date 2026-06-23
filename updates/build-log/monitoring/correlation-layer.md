@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Correlation layer
 description: How to connect metrics, logs, and traces for faster debugging. We explain the investigation flow and practical strategies for correlating data across your monitoring stack.
 authors:

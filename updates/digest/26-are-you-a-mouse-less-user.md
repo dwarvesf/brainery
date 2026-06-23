@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "#26 - Are you a Mouse-less User ?"
 description: Discover Vim Motion, an app inspired by vim-easymotion that simplifies keyboard navigation for faster, mouse-free control of UI elements.
 date: 2020-05-30
