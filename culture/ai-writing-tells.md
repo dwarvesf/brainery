@@ -25,7 +25,7 @@ Some examples, so this stays concrete.
 
 - **Corrective negation.** "The problem isn't the AI. The problem is thinking better tools lead to better outcomes." The not-this-but-that pivot, deployed as a reveal.
 - **The rule of three.** "Readable, maintainable, and solves real problems." Three parallel items, the third stretched a little for rhythm.
-- **Setup and payoff.** A short question, then the answer delivered as a punchline. "But three weeks later? They were completely stuck."
+- **Setup and payoff.** A short question, then the answer delivered as a punchline. "But three weeks later? They hit a tricky bug and were completely stuck."
 - **The landing sentence.** A paragraph that ends on a tidy epigram, built to be quoted. "The difference is huge."
 - **Uniform rhythm.** Every sentence between twelve and eighteen words, forever.
 
@@ -37,7 +37,7 @@ I counted, because the claim felt checkable. Across the older post's 130 prose s
 
 ![Bar chart of rhetorical devices per 100 sentences across five device families, high in the AI-assisted post and near zero in this one, next to two nearly identical sentence-length distributions.](assets/ai-writing-tells.svg)
 
-_Five device families, hand-counted across the two posts (quoted specimens excluded), beside the sentence-length distributions that failed to separate them._
+_Five device families, hand-counted across the two posts, each with a specimen quoted from the older post; beside them, the sentence-length distributions that failed to separate the texts. Prose sentences only; quoted specimens excluded from the counts._
 
 ## What we changed
 
