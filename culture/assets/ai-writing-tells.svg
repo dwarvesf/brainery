@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="1" stdDeviation="3" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="600" fill="#ffffff"/>
+
+  <text x="500" y="42" text-anchor="middle" font-size="20" font-weight="700" fill="#111827">Where the tells sit on the page</text>
+  <text x="500" y="66" text-anchor="middle" font-size="12.5" fill="#6b7280">Each dot is one rhetorical device: a triad, a pivot, a landing sentence</text>
+
+  <!-- human page -->
+  <rect x="120" y="110" width="330" height="340" rx="10" fill="#ffffff" stroke="#e5e7eb" stroke-width="1.5" filter="url(#shadow)"/>
+  <rect x="146" y="140" width="270" height="6" rx="3" fill="#d1d5db"/>
+  <rect x="146" y="158" width="232" height="6" rx="3" fill="#d1d5db"/>
+  <rect x="146" y="176" width="180" height="6" rx="3" fill="#d1d5db"/>
+
+  <rect x="146" y="202" width="265" height="6" rx="3" fill="#d1d5db"/>
+  <rect x="146" y="220" width="205" height="6" rx="3" fill="#d1d5db"/>
+  <rect x="146" y="238" width="272" height="6" rx="3" fill="#d1d5db"/>
+  <rect x="146" y="256" width="120" height="6" rx="3" fill="#d1d5db"/>
+
+  <rect x="146" y="282" width="80" height="6" rx="3" fill="#d1d5db"/>
+  <circle cx="240" cy="285" r="7" fill="#f43f5e"/>
+  <rect x="254" y="282" width="150" height="6" rx="3" fill="#d1d5db"/>
+  <rect x="146" y="300" width="260" height="6" rx="3" fill="#d1d5db"/>
+  <rect x="146" y="318" width="196" height="6" rx="3" fill="#d1d5db"/>
+
+  <rect x="146" y="344" width="268" height="6" rx="3" fill="#d1d5db"/>
+  <rect x="146" y="362" width="238" height="6" rx="3" fill="#d1d5db"/>
+  <rect x="146" y="380" width="140" height="6" rx="3" fill="#d1d5db"/>
+
+  <text x="285" y="482" text-anchor="middle" font-size="15" font-weight="700" fill="#111827">human writer</text>
+  <text x="285" y="502" text-anchor="middle" font-size="12" fill="#6b7280">once a page</text>
+
+  <!-- model page -->
+  <rect x="550" y="110" width="330" height="340" rx="10" fill="#ffffff" stroke="#e5e7eb" stroke-width="1.5" filter="url(#shadow)"/>
+  <rect x="576" y="140" width="110" height="6" rx="3" fill="#d1d5db"/>
+  <circle cx="700" cy="143" r="7" fill="#f43f5e"/>
+  <rect x="714" y="140" width="140" height="6" rx="3" fill="#d1d5db"/>
+  <rect x="576" y="158" width="258" height="6" rx="3" fill="#d1d5db"/>
+  <circle cx="584" cy="179" r="7" fill="#f43f5e"/>
+  <rect x="598" y="176" width="236" height="6" rx="3" fill="#d1d5db"/>
+
+  <rect x="576" y="202" width="255" height="6" rx="3" fill="#d1d5db"/>
+  <rect x="576" y="220" width="60" height="6" rx="3" fill="#d1d5db"/>
+  <circle cx="650" cy="223" r="7" fill="#f43f5e"/>
+  <rect x="664" y="220" width="190" height="6" rx="3" fill="#d1d5db"/>
+  <rect x="576" y="238" width="260" height="6" rx="3" fill="#d1d5db"/>
+
+  <rect x="576" y="264" width="210" height="6" rx="3" fill="#d1d5db"/>
+  <circle cx="800" cy="267" r="7" fill="#f43f5e"/>
+  <rect x="814" y="264" width="40" height="6" rx="3" fill="#d1d5db"/>
+  <rect x="576" y="282" width="252" height="6" rx="3" fill="#d1d5db"/>
+  <rect x="576" y="300" width="140" height="6" rx="3" fill="#d1d5db"/>
+  <circle cx="730" cy="303" r="7" fill="#f43f5e"/>
+  <rect x="744" y="300" width="110" height="6" rx="3" fill="#d1d5db"/>
+
+  <rect x="576" y="326" width="258" height="6" rx="3" fill="#d1d5db"/>
+  <rect x="576" y="344" width="20" height="6" rx="3" fill="#d1d5db"/>
+  <circle cx="610" cy="347" r="7" fill="#f43f5e"/>
+  <rect x="624" y="344" width="230" height="6" rx="3" fill="#d1d5db"/>
+  <rect x="576" y="362" width="256" height="6" rx="3" fill="#d1d5db"/>
+  <rect x="576" y="380" width="230" height="6" rx="3" fill="#d1d5db"/>
+  <circle cx="820" cy="383" r="7" fill="#f43f5e"/>
+
+  <text x="715" y="482" text-anchor="middle" font-size="15" font-weight="700" fill="#111827">model</text>
+  <text x="715" y="502" text-anchor="middle" font-size="12" fill="#6b7280">every few sentences</text>
+
+  <!-- takeaway band -->
+  <rect x="150" y="540" width="700" height="34" rx="6" fill="#f9fafb" stroke="#d1d5db" stroke-width="1" stroke-dasharray="6,3"/>
+  <text x="500" y="561" text-anchor="middle" font-size="12" font-weight="600" fill="#374151">The tell is density: the same shapes, spent at different rates.</text>
+</svg>
