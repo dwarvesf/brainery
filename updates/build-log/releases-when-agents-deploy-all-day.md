@@ -25,7 +25,11 @@ Live registry    on demand                    what is running right now
 Drift warning    only when inconsistent       something is off, look now
 ```
 
-Everything below is the story of arriving at that table. It looks obvious written down. It was not obvious while we were treating "we deployed" and "we released" as the same event.
+![](assets/release-deploy-separation-topology.webp)
+
+_The finished pipeline: every dispatch deploys and stamps the commit onto each worker, but only a commit that clears both gates (merged PR, not already released) produces a Release and an alert. The bottom lane reads version state back off the live platform, independent of releases, and pushes a drift warning into the alert only when the fleet is split across commits._
+
+Everything below is the story of arriving at that topology. It looks obvious written down. It was not obvious while we were treating "we deployed" and "we released" as the same event.
 
 ## Why the cadence broke the model
 
