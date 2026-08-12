@@ -33,7 +33,11 @@ Every example above comes from a post published on this site under my name. I we
 
 None of these shapes is wrong on its own. Good essayists use all of them, and they saturate the writing models were trained on because they work: a well-placed triad satisfies, a landing sentence gives a paragraph a click of closure. The tell is density. A human writer spends these effects maybe once a page. A model reaches for one every few sentences, because each one scored well in training and nothing ever taught it to budget them. The result reads like a speech that never stops building toward an applause line.
 
-![Two abstract pages of text side by side. Rhetorical devices are marked as red dots: one dot on the human writer's page, seven on the model's.](assets/ai-writing-tells.svg)
+I counted, because the claim felt checkable. Across the older post's 130 prose sentences I tallied 37 of these devices, about 28 per 100 sentences. This post carries one. I also measured sentence lengths, expecting uniform rhythm to be the giveaway, and that one washed out: both posts vary about the same.
+
+![Bar chart of rhetorical devices per 100 sentences across five device families, high in the AI-assisted post and near zero in this one, next to two nearly identical sentence-length distributions.](assets/ai-writing-tells.svg)
+
+_Five device families, hand-counted across the two posts (quoted specimens excluded), beside the sentence-length distributions that failed to separate them._
 
 ## What we changed
 
