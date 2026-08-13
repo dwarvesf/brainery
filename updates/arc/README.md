@@ -45,6 +45,7 @@ We're documenting our takes on these major waves:
 - [LLM](on-llm.md): Large language models reshaping how we interact with code
 - [Agent](on-agent.md): Autonomous systems that extend human capability
 - [Platform](on-platform-ops.md): The evolution of how we build and deploy software
+- [Value](on-value.md): What stays valuable when anyone can build anything
 
 Each arc represents years of experimentation, learning, and real-world application. They're not academic exercises, they're battle-tested insights from building software in rapidly changing landscapes.
 
