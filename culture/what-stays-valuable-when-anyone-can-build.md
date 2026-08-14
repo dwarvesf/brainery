@@ -1,4 +1,5 @@
 ---
+draft: false
 title: "What stays valuable when anyone can build anything"
 description: "As AI makes building cheap, value concentrates in judgment (inside) and trust (outside): the two inputs it cannot mass-produce. A lens on what to own in the AI era."
 date: 2026-08-14
@@ -8,7 +9,7 @@ authors:
 tags:
   - ai
   - one-person-company
-  - arc
+  - culture
   - value
   - judgment
   - trust
@@ -71,4 +72,4 @@ Apply the complementary-goods lens to the factor that deflates in your market. N
 
 Our working answer to the title question is short: judgment inside, trust outside. The rest is the craft of getting good at both.
 
-Related: [On agentic AI](on-agent.md), [The convergence](final.md), and the [arc series](README.md).
+Related: [On agentic AI](../updates/arc/on-agent.md), [The convergence](../updates/arc/final.md), and the [arc series](../updates/arc/README.md).
