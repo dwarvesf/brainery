@@ -1,0 +1,28 @@
+name: Publish memo.d.foundation on content push
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/*.md'
+      - '**/*.mdx'
+      - '**/assets/**'
+      - '!**/README.md'
+  workflow_dispatch:
+
+jobs:
+  publish:
+    name: Dispatch memo.d.foundation publish
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch publish-pages
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.DWARVES_PAT }}
+          script: |
+            github.rest.actions.createWorkflowDispatch({
+              owner: 'dwarvesf',
+              repo: 'memo.d.foundation',
+              workflow_id: 'publish-pages.yml',
+              ref: 'main',
+            })
