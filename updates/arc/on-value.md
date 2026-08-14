@@ -1,5 +1,4 @@
 ---
-draft: true
 title: "What stays valuable when anyone can build anything"
 description: "As AI makes building cheap, value concentrates in judgment (inside) and trust (outside): the two inputs it cannot mass-produce. A lens on what to own in the AI era."
 date: 2026-08-14
