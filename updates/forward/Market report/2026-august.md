@@ -1,23 +1,35 @@
 ---
 draft: true
-title: "Elixir ecosystem market report, August 2026"
-description: "A data-grounded market report on the Elixir ecosystem as of August 2026: v1.20 gradual typing, LiveView 1.2, the BEAM as an agent runtime, the durability and data stack, embedded and local-first, and the adoption and security signals."
+title: Market report August 2026
+short_title: August 2026
+description: "The August 2026 market report covers the Elixir ecosystem: v1.20 gradual typing, LiveView 1.2, the BEAM as an agent runtime, the durability and data stack, embedded and local-first, and the adoption and security signals, with data to 2026-08-15."
 date: 2026-08-15
-toc: true
 authors:
   - tieubao
 tags:
   - elixir
-  - market-report
-  - ecosystem
   - phoenix
+  - ecosystem
+  - market-report
 ---
 
-# Elixir ecosystem market report, August 2026
+# Market report August 2026
 
-This is a market report on the Elixir ecosystem, current to 2026-08-15. In 2026 the language became gradually typed, and the BEAM became a default home for production AI agents. Both shifts took years, and both landed within months of each other. The report covers the release record, the platform stack, the adoption signal, the durability and data layer, the embedded and local-first flanks, and the security posture.
+This edition covers the Elixir ecosystem, current to 2026-08-15. In 2026 the language became gradually typed, and the BEAM became a default home for production AI agents. Both shifts took years, and both landed within months of each other. The report covers the release record, the platform stack, the adoption signal, the durability and data layer, the embedded and local-first flanks, and the security posture.
 
 The evidence is the release record, the Hex registry, and the adoption data, not a market projection. The numbers and dates come from the maintainers and the public registries, and they can be checked.
+
+## Key takeaways
+
+- **Gradual typing shipped**: Elixir 1.20 infers a set-theoretic type for every program, with a low false positive rate, and many teams drop Dialyzer.
+
+- **The web core is mature**: LiveView 1.2 brought colocated CSS, and the patches that followed were security and navigation work.
+
+- **The BEAM became an agent runtime**: OpenAI open-sourced Symphony, about 96 percent Elixir and OTP, validating the runtime for agent orchestration.
+
+- **The durability layer gained a contender**: Belay runs memoized, durable jobs beside the default, Oban.
+
+- **The flanks widened**: Hologram runs Elixir in the browser, and Nerves keeps shipping embedded Elixir.
 
 ## The stack at a glance
 
