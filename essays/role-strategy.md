@@ -11,6 +11,7 @@ tags:
   - growth
   - consulting
 redirect:
+  - /culture/role-strategy
   - /role-strategy
 slug: role-strategy
 ---

@@ -9,6 +9,7 @@ tags:
   - case-study
   - travel
 redirect:
+  - /consulting/case-study/sol
   - /rW7dkA
 slug: sol
 ---

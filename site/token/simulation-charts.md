@@ -10,6 +10,7 @@ tags:
   - charts
   - analysis
 redirect:
+  - /misc/tokenomics/simulation-charts
   - /obL39w
 slug: token-simulation-charts
 ---

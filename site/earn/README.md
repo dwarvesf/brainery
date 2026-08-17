@@ -9,6 +9,7 @@ tags:
   - bounty
   - earn
 redirect:
+  - /earn
   - /Ufbods
 slug: earn
 ---

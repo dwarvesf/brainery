@@ -11,6 +11,7 @@ tags:
   - case-study
   - swap
 redirect:
+  - /consulting/case-study/icrosschain
   - /7qt7zw
 slug: icrosschain
 ---

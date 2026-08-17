@@ -11,6 +11,7 @@ tags:
   - case-study
   - hospitality
 redirect:
+  - /consulting/case-study/aharooms
   - /KS8TLg
 slug: aharooms
 ---

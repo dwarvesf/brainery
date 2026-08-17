@@ -11,6 +11,7 @@ tags:
   - case-study
   - partnership
 redirect:
+  - /consulting/case-study/voconic
   - /X3tQAQ
 slug: voconic
 ---

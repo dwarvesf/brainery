@@ -10,6 +10,7 @@ tags:
   - smart-contracts
   - crypto
 redirect:
+  - /services/web3
   - /sv96wg
 slug: services-web3
 ---

@@ -11,6 +11,7 @@ tags:
   - fintech
   - mobile
 redirect:
+  - /consulting/case-study/kafi-design
   - /CYcY4w
 slug: kafi-design
 ---

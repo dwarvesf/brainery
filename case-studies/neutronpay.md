@@ -10,6 +10,7 @@ tags:
   - blockchain
   - payment
 redirect:
+  - /consulting/case-study/neutronpay
   - /Z4WUPDs
 slug: neutronpay
 ---

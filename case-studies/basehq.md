@@ -11,6 +11,7 @@ tags:
   - startup
   - us
 redirect:
+  - /consulting/case-study/basehq
   - /f8k7Aw
 slug: basehq
 ---

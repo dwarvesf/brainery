@@ -9,6 +9,7 @@ tags:
   - partnerships
   - business-development
 redirect:
+  - /org/2025/partnership-chair
   - /sLJGew
 slug: org-partnership-chair
 ---

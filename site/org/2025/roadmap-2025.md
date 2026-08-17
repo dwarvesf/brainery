@@ -12,6 +12,7 @@ tags:
   - research
   - consulting
 redirect:
+  - /org/2025/roadmap-2025
   - /8ike6A
 slug: org-roadmap-2025
 ---

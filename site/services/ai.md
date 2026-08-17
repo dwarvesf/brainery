@@ -10,6 +10,7 @@ tags:
   - agentic
   - automation
 redirect:
+  - /services/ai
   - /YlHkuU
 slug: services-ai
 ---

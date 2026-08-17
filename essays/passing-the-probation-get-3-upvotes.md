@@ -7,6 +7,7 @@ authors:
 tags:
   - probation
 redirect:
+  - /culture/passing-the-probation-get-3-upvotes
   - /ofUqCw
 slug: passing-the-probation-get-3-upvotes
 ---

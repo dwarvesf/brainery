@@ -8,6 +8,7 @@ tags:
   - culture
   - sharing
 redirect:
+  - /culture/ogif-intro
   - /1uobZQ
 slug: ogif-intro
 ---

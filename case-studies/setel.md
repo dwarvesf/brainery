@@ -11,6 +11,7 @@ tags:
   - case-study
   - enterprise
 redirect:
+  - /consulting/case-study/setel
   - /XEFZLw
 slug: setel
 ---

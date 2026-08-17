@@ -11,6 +11,7 @@ tags:
   - dropshipping
   - ecommerce
 redirect:
+  - /consulting/case-study/droppii
   - /rVcCnw
 slug: droppii
 ---

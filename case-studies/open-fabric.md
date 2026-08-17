@@ -12,6 +12,7 @@ tags:
   - fintech
   - payment
 redirect:
+  - /consulting/case-study/open-fabric
   - /yXH9Uw
 slug: open-fabric
 ---

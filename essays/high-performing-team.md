@@ -8,6 +8,7 @@ tags:
   - management
   - productivity
 redirect:
+  - /culture/high-performing-team
   - /QTAEhQ
 slug: high-performing-team
 ---

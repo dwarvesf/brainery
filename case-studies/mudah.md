@@ -12,6 +12,7 @@ tags:
   - enterprise
   - marketplace
 redirect:
+  - /consulting/case-study/mudah
   - /FRzphQ
 slug: mudah
 ---

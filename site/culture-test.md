@@ -8,6 +8,7 @@ tags:
   - culture
   - testing
 redirect:
+  - /culture/culture-test
   - /1orELw
 slug: culture-test
 ---

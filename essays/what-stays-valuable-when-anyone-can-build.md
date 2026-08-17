@@ -14,6 +14,8 @@ tags:
   - judgment
   - trust
 slug: what-stays-valuable-when-anyone-can-build
+redirect:
+  - /culture/what-stays-valuable-when-anyone-can-build
 ---
 
 # What stays valuable when anyone can build anything

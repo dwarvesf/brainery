@@ -11,6 +11,7 @@ tags:
   - system-modernization
   - legacy-system
 redirect:
+  - /consulting/case-study/kafi-securities
   - /XTD5rfc
 slug: kafi-securities
 ---

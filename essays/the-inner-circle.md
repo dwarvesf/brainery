@@ -9,6 +9,7 @@ tags:
   - management
   - trust
 redirect:
+  - /culture/the-inner-circle
   - /K91YtA
 slug: the-inner-circle
 ---

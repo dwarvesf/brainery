@@ -11,6 +11,7 @@ tags:
   - skill-development
   - career-growth
 redirect:
+  - /culture/skillmaxing
   - /xKWpug
 slug: skillmaxing
 ---

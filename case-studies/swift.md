@@ -9,6 +9,7 @@ tags:
   - case-study
   - ecommerce
 redirect:
+  - /consulting/case-study/swift
   - /uwYQxw
 slug: swift
 ---

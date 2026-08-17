@@ -10,6 +10,7 @@ tags:
   - vesting
   - allocation
 redirect:
+  - /misc/tokenomics/token-distribution-plan
   - /TaNdRQ
 slug: token-token-distribution-plan
 ---

@@ -15,6 +15,7 @@ should_mint: true
 minted_at: '2025-05-09'
 token_id: '2'
 redirect:
+  - /culture/go-the-extra-mile
   - /yIEYrg
 slug: go-the-extra-mile
 ---

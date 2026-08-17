@@ -13,6 +13,7 @@ tags:
   - gtm
   - product-adoption
 redirect:
+  - /consulting/case-study/discovery-inloop
   - /bsjQH2M
 slug: discovery-inloop
 ---

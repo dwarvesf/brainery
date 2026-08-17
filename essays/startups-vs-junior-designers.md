@@ -5,6 +5,7 @@ date: 2020-07-24
 tags:
   - tips
 redirect:
+  - /culture/startups-vs-junior-designers
   - /migGUA
 slug: startups-vs-junior-designers
 ---

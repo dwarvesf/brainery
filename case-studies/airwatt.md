@@ -10,6 +10,7 @@ tags:
   - case-study
   - iot
 redirect:
+  - /consulting/case-study/airwatt
   - /yjdh3g
 slug: airwatt
 ---

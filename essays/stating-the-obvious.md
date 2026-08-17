@@ -10,6 +10,7 @@ tags:
   - culture
   - best-practices
 redirect:
+  - /culture/stating-the-obvious
   - /6jXZLQ
 slug: stating-the-obvious
 ---

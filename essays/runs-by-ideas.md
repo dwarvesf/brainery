@@ -8,6 +8,7 @@ tags:
   - management
   - productivity
 redirect:
+  - /culture/runs-by-ideas
   - /j6uYwA
 slug: runs-by-ideas
 ---

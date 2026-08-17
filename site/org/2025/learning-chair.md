@@ -9,6 +9,7 @@ tags:
   - learning
   - labs
 redirect:
+  - /org/2025/learning-chair
   - /U4XMXQ
 slug: org-learning-chair
 ---

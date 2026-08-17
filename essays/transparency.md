@@ -6,6 +6,7 @@ tags:
   - culture
   - transparency
 redirect:
+  - /culture/transparency
   - /ajxBag
 slug: transparency
 ---

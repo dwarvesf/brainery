@@ -10,6 +10,8 @@ tags:
   - ai
   - craftsmanship
 slug: ai-writing-tells
+redirect:
+  - /culture/ai-writing-tells
 ---
 
 A friend sent me a writing checklist last week. One line of instruction came with it: use this when you make the post, so it doesn't sound so load bearing.

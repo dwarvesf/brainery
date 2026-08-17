@@ -10,6 +10,7 @@ tags:
   - protocol
   - dual-token
 redirect:
+  - /misc/tokenomics
   - /vuw1228
 slug: token
 ---

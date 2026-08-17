@@ -10,6 +10,7 @@ tags:
   - case-study
   - fintech
 redirect:
+  - /consulting/case-study/cimb
   - /DEt3Fw
 slug: cimb
 ---

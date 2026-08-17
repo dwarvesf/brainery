@@ -10,6 +10,7 @@ tags:
   - economics
   - dual-token
 redirect:
+  - /misc/tokenomics/tokenomics-design
   - /aY2sdg
 slug: token-tokenomics-design
 ---

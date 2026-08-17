@@ -10,6 +10,7 @@ tags:
   - vision
   - protocol
 redirect:
+  - /misc/tokenomics/whitepaper
   - /gLzEKA
 slug: token-whitepaper
 ---

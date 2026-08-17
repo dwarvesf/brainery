@@ -11,6 +11,7 @@ tags:
   - infrastructure
   - bitcoin-backed
 redirect:
+  - /misc/tokenomics/protocol-architecture
   - /4aRdqw
 slug: token-protocol-architecture
 ---

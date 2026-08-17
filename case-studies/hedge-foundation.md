@@ -11,6 +11,7 @@ tags:
   - fintech
   - quant
 redirect:
+  - /consulting/case-study/hedge-foundation
   - /zgltuw
 slug: hedge-foundation
 ---

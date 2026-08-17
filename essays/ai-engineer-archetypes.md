@@ -10,6 +10,7 @@ tags:
   - engineering
   - archetypes
 redirect:
+  - /culture/ai-engineer-archetypes
   - /6oKjKw
 slug: ai-engineer-archetypes
 ---

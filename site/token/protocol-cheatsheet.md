@@ -10,6 +10,7 @@ tags:
   - reference
   - overview
 redirect:
+  - /misc/tokenomics/protocol-cheatsheet
   - /gdJomQ
 slug: token-protocol-cheatsheet
 ---

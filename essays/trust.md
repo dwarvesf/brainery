@@ -12,6 +12,7 @@ tags:
   - soft-skill
   - trust
 redirect:
+  - /culture/trust
   - /PxbhVg
 slug: trust
 ---

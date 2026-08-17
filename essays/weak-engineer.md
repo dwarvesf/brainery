@@ -12,6 +12,7 @@ tags:
   - critical-thinking
   - culture
 redirect:
+  - /culture/weak-engineer
   - /63gjpg
 slug: weak-engineer
 ---

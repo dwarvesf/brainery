@@ -12,6 +12,7 @@ tags:
   - philosophy
   - personal
 redirect:
+  - /culture/better-engineering-ai
   - /N3SLXqc
 slug: better-engineering-ai
 ---

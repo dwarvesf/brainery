@@ -10,6 +10,7 @@ tags:
   - ai
   - talent-vetting
 redirect:
+  - /culture/vetting-proven-talents
   - /unOZ9g
 slug: vetting-proven-talents
 ---

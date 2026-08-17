@@ -10,6 +10,7 @@ tags:
   - blockchain
   - case-study
 redirect:
+  - /consulting/case-study/attrace
   - /l0RoyQ
 slug: attrace
 ---

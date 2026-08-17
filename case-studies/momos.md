@@ -12,6 +12,7 @@ tags:
   - fnb
   - startup
 redirect:
+  - /consulting/case-study/momos
   - /Kuhcmg
 slug: momos
 ---

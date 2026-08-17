@@ -9,6 +9,7 @@ tags:
   - case-study
   - ride-hailing
 redirect:
+  - /consulting/case-study/begroup
   - /PsA31g
 slug: begroup
 ---

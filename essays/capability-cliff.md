@@ -11,6 +11,7 @@ tags:
   - critical-thinking
   - culture
 redirect:
+  - /culture/capability-cliff
   - /8QzdeQ
 slug: capability-cliff
 ---

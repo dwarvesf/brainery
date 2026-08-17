@@ -11,6 +11,7 @@ tags:
   - case-study
   - startup
 redirect:
+  - /consulting/case-study/plot
   - /DJR3nU0
 slug: plot
 ---

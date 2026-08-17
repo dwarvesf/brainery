@@ -11,6 +11,7 @@ tags:
   - reward
   - team
 redirect:
+  - /culture/record-reward-sharing-culture
   - /KaApeg
 slug: record-reward-sharing-culture
 ---

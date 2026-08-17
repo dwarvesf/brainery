@@ -10,6 +10,7 @@ tags:
   - defi
   - investment
 redirect:
+  - /services/fintech
   - /GoFbfA
 slug: services-fintech
 ---

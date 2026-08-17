@@ -13,6 +13,7 @@ perma_storage_id: 'XBTMaZOQBPLJ9GIqn-IM0LGkVIaXh1BWs_NfZRf_w4s'
 minted_at: '2025-05-12'
 token_id: '8'
 redirect:
+  - /culture/as-your-last-delivery
   - /PXeiCw
 slug: as-your-last-delivery
 ---

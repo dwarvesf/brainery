@@ -10,6 +10,7 @@ tags:
   - icy-token
   - circulation
 redirect:
+  - /misc/tokenomics/utility-economics
   - /Ox0Frg
 slug: token-utility-economics
 ---

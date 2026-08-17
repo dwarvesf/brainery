@@ -11,6 +11,7 @@ tags:
   - startup
   - us
 redirect:
+  - /consulting/case-study/searchio
   - /Qr2LLA
 slug: searchio
 ---

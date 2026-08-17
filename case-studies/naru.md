@@ -11,6 +11,7 @@ tags:
   - case-study
   - startup
 redirect:
+  - /consulting/case-study/naru
   - /UkMRhw
 slug: naru
 ---

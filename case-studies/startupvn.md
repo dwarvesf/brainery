@@ -11,6 +11,7 @@ tags:
   - startup
   - vietnam
 redirect:
+  - /consulting/case-study/startupvn
   - /h4yfsA
 slug: startupvn
 ---

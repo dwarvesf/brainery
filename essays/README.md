@@ -8,6 +8,7 @@ tags:
   - culture
   - overview
 redirect:
+  - /culture
   - /UJN9wA
 slug: culture
 ---

@@ -16,6 +16,7 @@ perma_storage_id: skv0aCQ2qqeaoihHhR9ymXeumD8VwoSuXYDNKrW6Cdc
 minted_at: '2025-05-12'
 token_id: '3'
 redirect:
+  - /culture/focus-on-delivery
   - /TtykwA
 slug: focus-on-delivery
 ---

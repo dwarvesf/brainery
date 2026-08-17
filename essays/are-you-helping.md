@@ -13,6 +13,7 @@ perma_storage_id: 'WxB72egTI0dSAt1LPrTLFj9LYIozOnx19gNizA6EBMQ'
 minted_at: '2025-05-12'
 token_id: '9'
 redirect:
+  - /culture/are-you-helping
   - /0LcNnA
 slug: are-you-helping
 ---

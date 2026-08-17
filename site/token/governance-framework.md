@@ -10,6 +10,7 @@ tags:
   - voting
   - decentralization
 redirect:
+  - /misc/tokenomics/governance-framework
   - /upUIEg
 slug: token-governance-framework
 ---

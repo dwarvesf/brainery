@@ -10,6 +10,7 @@ tags:
   - questions
   - participation
 redirect:
+  - /misc/tokenomics/faq
   - /qFYdrQ
 slug: token-faq
 ---

@@ -10,6 +10,7 @@ tags:
   - sustainability
   - value-flow
 redirect:
+  - /misc/tokenomics/economic-model
   - /rsAjfA
 slug: token-economic-model
 ---

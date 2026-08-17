@@ -8,6 +8,7 @@ tags:
   - performance
   - research
 redirect:
+  - /culture/how-research-contributes-to-performance-review
   - /eqjIYA
 slug: how-research-contributes-to-performance-review
 ---

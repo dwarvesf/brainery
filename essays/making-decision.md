@@ -8,6 +8,7 @@ tags:
   - management
   - process
 redirect:
+  - /culture/making-decision
   - /hQIVhA
 slug: making-decision
 ---

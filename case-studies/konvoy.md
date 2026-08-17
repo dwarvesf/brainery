@@ -10,6 +10,7 @@ tags:
   - case-study
   - enterprise
 redirect:
+  - /consulting/case-study/konvoy
   - /zOPkzQ
 slug: konvoy
 ---

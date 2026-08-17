@@ -11,6 +11,7 @@ tags:
   - startup
   - us
 redirect:
+  - /consulting/case-study/relay
   - /SZG44Q
 slug: relay
 ---

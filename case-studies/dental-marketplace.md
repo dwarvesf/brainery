@@ -10,6 +10,7 @@ tags:
   - marketplace
   - startup
 redirect:
+  - /consulting/case-study/dental-marketplace
   - /NnQxNQ
 slug: dental-marketplace
 ---

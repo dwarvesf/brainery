@@ -11,6 +11,7 @@ tags:
   - blockchain
   - case-study
 redirect:
+  - /consulting/case-study/tokenomy
   - /s1ndUQ
 slug: tokenomy
 ---

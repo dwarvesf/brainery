@@ -8,6 +8,7 @@ tags:
   - culture
   - handbook
 redirect:
+  - /culture/culture-handbook
   - /u0wCOQ
 slug: culture-handbook
 ---

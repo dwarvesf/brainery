@@ -9,6 +9,7 @@ tags:
 - "icy-swap"
 - "platform-ops"
 redirect:
+  - /consulting/case-study/icy-swap-monitoring
   - /1XUArvF
 slug: icy-swap-monitoring
 ---

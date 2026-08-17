@@ -8,6 +8,7 @@ authors:
 tags:
   - case-study
 redirect:
+  - /consulting/case-study/bhd
   - /XNazLA
 slug: bhd
 ---

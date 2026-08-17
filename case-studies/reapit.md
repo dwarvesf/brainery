@@ -11,6 +11,7 @@ tags:
   - enterprise
   - real-estate
 redirect:
+  - /consulting/case-study/reapit
   - /oOpWiA
 slug: reapit
 ---

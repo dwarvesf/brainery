@@ -9,6 +9,7 @@ tags:
   - automation
   - infrastructure
 redirect:
+  - /services/platform-ops
   - /FY9Zpg
 slug: services-platform-ops
 ---

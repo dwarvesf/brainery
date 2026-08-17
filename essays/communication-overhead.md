@@ -12,6 +12,7 @@ tags:
   - productivity
   - management
 redirect:
+  - /culture/communication-overhead
   - /Tyz5fw
 slug: communication-overhead
 ---

@@ -11,6 +11,7 @@ tags:
   - culture
   - teamwork
 redirect:
+  - /culture/glue-work
   - /BgDfQg
 slug: glue-work
 ---

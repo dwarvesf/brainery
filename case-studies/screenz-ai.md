@@ -11,6 +11,7 @@ tags:
   - case-study
   - hiring
 redirect:
+  - /consulting/case-study/screenz-ai
   - /FpPJZw
 slug: screenz-ai
 ---

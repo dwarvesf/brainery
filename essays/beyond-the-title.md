@@ -12,6 +12,7 @@ perma_storage_id: 'fq18sduTOl4opng_UQ5knJa5R5acSoxPFF4W-PPWvOw'
 minted_at: '2025-05-12'
 token_id: '10'
 redirect:
+  - /culture/beyond-the-title
   - /a43m2A
 slug: beyond-the-title
 ---

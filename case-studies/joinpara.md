@@ -11,6 +11,7 @@ tags:
   - healthcare
   - us
 redirect:
+  - /consulting/case-study/joinpara
   - /3q5Juw
 slug: joinpara
 ---

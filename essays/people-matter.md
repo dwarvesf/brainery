@@ -9,6 +9,7 @@ tags:
   - management
   - people
 redirect:
+  - /culture/people-matter
   - /87pIXw
 slug: people-matter
 ---

@@ -14,6 +14,7 @@ perma_storage_id: 'HHmgkmHlIQupPrA8mxrMb4WgakbrPnOV7SXLlJlhkn0'
 minted_at: '2025-05-12'
 token_id: '11'
 redirect:
+  - /culture/growth-is-our-universal-language
   - /Hkx7GQ
 slug: growth-is-our-universal-language
 ---
