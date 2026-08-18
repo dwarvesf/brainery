@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid3" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr3" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+  </defs>
+  <rect width="760" height="470" fill="#12395f"/>
+  <rect width="760" height="470" fill="url(#grid3)"/>
+  <rect x="0.5" y="0.5" width="759" height="469" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 3 · CONTROL SPINE AND CAPABILITY SEAMS</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">ONE INTERFACE · N PROVIDERS</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <rect x="40" y="54" width="680" height="100" fill="#21466a" stroke="#68839d"/>
+  <text x="380" y="78" font-size="12" letter-spacing="2" fill="#e8f1fa" text-anchor="middle">CONTROL SPINE</text>
+  <text x="70" y="102" font-size="10" fill="#c3d7ea">ctx.sessions · append-only event log</text>
+  <text x="70" y="120" font-size="10" fill="#c3d7ea">ctx.agentLoop · the turn driver</text>
+  <text x="70" y="138" font-size="10" fill="#c3d7ea">ctx.tools · guarded tool pipeline</text>
+  <text x="410" y="102" font-size="10" fill="#c3d7ea">ctx.llm · model adapter registry</text>
+  <text x="410" y="120" font-size="10" fill="#c3d7ea">ctx.systemPrompt · prompt assembly</text>
+  <text x="410" y="138" font-size="10" fill="#c3d7ea">ctx.agents · live registry + agent/* events</text>
+
+  <line x1="380" y1="158" x2="380" y2="180" stroke="#c3d7ea" marker-end="url(#arr3)"/>
+  <text x="392" y="174" font-size="9" letter-spacing="1" fill="#6f8fb0">SEAMS: SWAP THE PROVIDER, KEEP THE INTERFACE</text>
+
+  <rect x="40" y="186" width="200" height="38" fill="#21466a" stroke="#68839d"/>
+  <text x="54" y="209" font-size="10.5" fill="#e8f1fa">ctx.fs / ctx.subprocess</text>
+  <rect x="256" y="186" width="464" height="38" fill="none" stroke="#68839d"/>
+  <text x="270" y="209" font-size="10.5" fill="#c3d7ea">local  │  e2b remote sandbox</text>
+
+  <rect x="40" y="232" width="200" height="38" fill="#21466a" stroke="#68839d"/>
+  <text x="54" y="255" font-size="10.5" fill="#e8f1fa">ctx.shell</text>
+  <rect x="256" y="232" width="464" height="38" fill="none" stroke="#68839d"/>
+  <text x="270" y="255" font-size="10.5" fill="#c3d7ea">bash-local  │  bash-sandbox  │  pwsh</text>
+
+  <rect x="40" y="278" width="200" height="38" fill="#21466a" stroke="#e8c56a"/>
+  <text x="54" y="301" font-size="10.5" fill="#e8c56a">ctx.subagent</text>
+  <rect x="256" y="278" width="464" height="38" fill="none" stroke="#e8c56a"/>
+  <text x="270" y="301" font-size="10.5" fill="#e8c56a">in-process  │  acp  │  codex  │  claude code</text>
+
+  <rect x="40" y="324" width="200" height="38" fill="#21466a" stroke="#68839d"/>
+  <text x="54" y="347" font-size="10.5" fill="#e8f1fa">ctx.skills</text>
+  <rect x="256" y="324" width="464" height="38" fill="none" stroke="#68839d"/>
+  <text x="270" y="347" font-size="10.5" fill="#c3d7ea">filesystem discovery  │  bundled</text>
+
+  <rect x="40" y="370" width="200" height="38" fill="#21466a" stroke="#68839d"/>
+  <text x="54" y="393" font-size="10.5" fill="#e8f1fa">ctx.sessionPersistence</text>
+  <rect x="256" y="370" width="464" height="38" fill="none" stroke="#68839d"/>
+  <text x="270" y="393" font-size="10.5" fill="#c3d7ea">jsonl  │  sqlite</text>
+
+  <text x="40" y="442" font-size="9.5" fill="#a7c0d9">fs and subprocess share one execution world: point both at e2b and bash, pty, lsp move to the remote sandbox together.</text>
+</svg>
