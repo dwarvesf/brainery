@@ -86,7 +86,24 @@ We checked the interop surface against a working Claude Code shop:
 
 The compatibility posture is deliberate. A team keeps its instruction files and hook scripts on day one, and native plugins remain the upgrade path once something outgrows the bridge.
 
-## 4. Design notes
+## 4. The dev-kit check
+
+We run a spec-driven dev kit, [dwarves-kit](https://github.com/dwarvesf/dwarves-kit), on top of Claude Code. It owns the operating layer in fig. 1: specs, a proof-of-done gate that blocks a push until the change shows a real green run, review lenses, and board state for the work itself. A new harness in the slot below raises one concrete question for us: how much of the kit moves.
+
+We audited it piece by piece:
+
+| Kit piece | On dsh today | How |
+| --- | --- | --- |
+| `AGENTS.md` operate-contract | Moves as-is | Native instruction loading, same precedence walk |
+| Skills | Moves conceptually | `ctx.skills` filesystem discovery covers the same shape |
+| Command-hook gates | Moves with limits | The CC bridge runs shell command hooks; config binds per process, so per-repo gating needs care |
+| Ship-gate ledger, worktree isolation | Stays behind | Assumes Claude Code plumbing; a real port means a native Cordis plugin |
+
+The instructive part is why the portable pieces are portable. Everything that lives in files a harness merely reads (contracts, skills, specs) moves for free. Everything wired into one harness's runtime (session hooks, worktree mechanics) pays a port cost. That ratio is a design grade for a dev kit, and it argues for keeping the process layer file-shaped wherever possible.
+
+We are leaving the port alone while dsh carries its preview label. The audit already paid for itself: it told us which parts of our own kit are harness-coupled, and that list is now a refactoring target independent of whether dsh wins.
+
+## 5. Design notes
 
 Three observations from the read, beyond the diagrams.
 
@@ -96,11 +113,11 @@ Three observations from the read, beyond the diagrams.
 
 **Web-first is a launch choice worth noticing.** The shipped profiles are `web` and `headless`. The docs mention a TUI profile only as a hypothetical install. Terminal-native developers, the crowd Claude Code won first, are visibly second in line here.
 
-## 5. Limitations
+## 6. Limitations
 
 The project labels itself a developer preview and promises compatibility-breaking changes, so plugin investments made today may not survive the quarter. DeepSeek's own chat route is text-only; image input needs another provider. And the ecosystem is hours old: lookalike packages appeared on other registries almost immediately, so the official surface is the npm package `@deepseek-ai/dsh` and the `deepseek-ai` GitHub org, nothing else.
 
-## 6. Verdict
+## 7. Verdict
 
 For a team already running Claude Code: keep your cockpit, read their session-log design, and try dsh where a cheap DeepSeek-backed headless worker fits (`dsh --profile headless "job"`). The architecture is ahead of the product right now. When the preview label comes off, the interop bridges mean switching costs will be lower than they usually are in this space, and that alone makes it worth tracking.
 
