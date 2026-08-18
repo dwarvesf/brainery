@@ -1,5 +1,12 @@
 name: Publish memo.d.foundation on content push
 
+# A brainery merge only advances content; foundation-workers sees no push, so
+# its "Memo publish on push" workflow cannot path-trigger. Dispatch it from
+# here, authenticated as the dwarves-ops-bot GitHub App (actions:write on
+# foundation-workers), with content-only=true so a memo post never mints a
+# release. Replaces the retired memo.d.foundation publish-pages dispatch and
+# its personal-PAT secret.
+
 on:
   push:
     branches: [main]
@@ -12,17 +19,18 @@ on:
 
 jobs:
   publish:
-    name: Dispatch memo.d.foundation publish
+    name: Dispatch foundation-workers memo publish
     runs-on: ubuntu-latest
     steps:
-      - name: Dispatch publish-pages
-        uses: actions/github-script@v6
+      - name: Mint ops-bot token
+        id: app
+        uses: actions/create-github-app-token@v2
         with:
-          github-token: ${{ secrets.DWARVES_PAT }}
-          script: |
-            github.rest.actions.createWorkflowDispatch({
-              owner: 'dwarvesf',
-              repo: 'memo.d.foundation',
-              workflow_id: 'publish-pages.yml',
-              ref: 'main',
-            })
+          app-id: ${{ vars.OPS_BOT_APP_ID }}
+          private-key: ${{ secrets.OPS_BOT_PRIVATE_KEY }}
+          owner: dwarvesf
+          repositories: foundation-workers
+      - name: Dispatch memo publish (content-only)
+        env:
+          GH_TOKEN: ${{ steps.app.outputs.token }}
+        run: gh workflow run "Memo publish on push" -R dwarvesf/foundation-workers --ref main -f content-only=true
