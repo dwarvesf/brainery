@@ -4,20 +4,45 @@ description: null
 date: null
 ---
 
-## Welcome to Dwarves Memo
+<div className="dw-home">
 
-This site is a part of our continuous learning engine, where we want to build up the 1% improvement habit, learning in public.
+<header>
+  <div className="dw-masthead">
+    <div>
+      <div className="dw-eyebrow">Dwarves Foundation · team memo</div>
+      <h1 className="dw-verdict" style={{ marginTop: '6px' }}>
+        We write down what we build, break, and figure out, <span className="dw-hl">before we forget it</span>.
+      </h1>
+    </div>
+    <div className="dw-stamp">est. 2013 · new memos weekly</div>
+  </div>
+  <div className="dw-verdict-sub">
+    The team's continuous learning engine: engineering, blockchain, markets,
+    and AI, one memo at a time, learning in public.
+  </div>
+  <div className="dw-rule" style={{ margin: '18px 0 6px' }} />
+</header>
 
-> Ecclesiastes 7:12:
-> "For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it."
+<div className="dw-band">
+  <span className="dw-band-label">Now</span>
+  <span className="dw-band-sub">fresh off the desks</span>
+  <span className="dw-band-rule" />
+</div>
 
-- Research: [on agent](updates/arc/on-agent.md), [monitoring](updates/build-log/monitoring/readme.md), [vibe coding](updates/build-log/vibe-coding/readme.md)
-- Latest report: [2025 May report](updates/forward/2025-05.md)
+- Fresh research: [the deploy pipeline formula](/deploy-pipeline-formula), [DeepSeek Harness, dissected](/deepseek-harness-architecture)
 - Hiring: [🧠 growth lead](careers/open-positions/growth-lead.md), [💼 sales manager](careers/open-positions/sales-manager.md), [💻 software engineer](careers/open-positions/software-engineer.md)
-- Just shipped: [Dwarves+ tokenomics](misc/tokenomics/README.md), [company](updates/build-log/company/readme.md), [brainery](updates/build-log/brainery/readme.md), [memo](updates/build-log/memo/readme.md), [mcp-playbook](updates/build-log/playbook/readme.md)
+- Just shipped: [Dwarves+ tokenomics](/token), [our build log](/build-log)
+
+<div className="dw-band">
+  <span className="dw-band-label">Worth reading</span>
+  <span className="dw-band-sub">the four desks we write from</span>
+  <span className="dw-band-rule" />
+</div>
 
 <If condition={memosWithTags}>
-  <WorthReading 
+  <WorthReading
+    variant="desk"
+    hideTitle
     memos={memosWithTags}
     blocks={[
       {
@@ -26,73 +51,49 @@ This site is a part of our continuous learning engine, where we want to build up
         tag: 'engineering',
       },
       {
-        title: 'Blockchain',
-        subtitle: 'Decentralized future',
-        tag: 'blockchain',
-      },
-      {
-        title: 'Wealth',
-        subtitle: 'Growth and prosperity',
-        tag: 'market-report',
-      },
-      {
-        title: 'Artificial Intelligence',
+        title: 'AI',
         subtitle: 'Pushing human limits',
         tag: 'AI',
+      },
+      {
+        title: 'Case studies',
+        subtitle: 'Client work, documented',
+        tag: 'case-study',
+      },
+      {
+        title: 'Consulting',
+        subtitle: 'Field notes from the practice',
+        tag: 'consulting',
       },
     ]} />
 </If>
 
-<If condition={memosWithTags}>
-  <MemoFilterList title="Latest memos" all={memosWithTags} filters={['web3', 'design', 'culture']} />
-</If>
-
-<TagsMarquee directoryTree={directoryTree} />
-
-<div className="love-watch-we-are-doing">
-  <h2>
-    Love what we are doing?
-  </h2>
-  <ul>
-    <li>
-      <a
-        href="https://discord.gg/dfoundation"
-        className="text-primary text-sm" >
-        🩷 Join our Discord Network →
-      </a>
-    </li>
-    <li>
-      <a
-        href="https://github.com/dwarvesf/playground"
-        className="!text-primary text-sm" >
-        🔥 Contribute to our Memo →
-      </a>
-    </li>
-    <li>
-      <a
-        href="https://careers.d.foundation/"
-        className="text-primary text-sm" >
-        🤝 Join us, we are hiring →
-      </a>
-    </li>
-    <li>
-      <a
-        href="http://memo.d.foundation/earn/"
-        className="text-primary text-sm" >
-        🙋 Give us a helping hand →
-      </a>
-    </li>
-    <li>
-      <a
-        href="/misc/tokenomics/"
-        className="text-primary text-sm" >
-        🚀 Explore Dwarves+ Protocol →
-      </a>
-    </li>
-  </ul>
+<div className="dw-band">
+  <span className="dw-band-label">Latest memos</span>
+  <span className="dw-band-sub">everything else, newest first</span>
+  <span className="dw-band-rule" />
 </div>
 
----
+<If condition={memosWithTags}>
+  <MemoFilterList title="" all={memosWithTags} filters={['web3', 'design', 'culture']} />
+</If>
 
-_Written by Dwarves for product craftsmen._\
-_Learned by engineers. Experimented by engineers._
+<div className="dw-marquee">
+  <TagsMarquee directoryTree={directoryTree} />
+</div>
+
+<div className="dw-band">
+  <span className="dw-band-label">Join in</span>
+  <span className="dw-band-sub">doors into the network</span>
+  <span className="dw-band-rule" />
+</div>
+
+<div className="dw-join">
+  <a href="https://discord.gg/dfoundation">🩷 discord →</a>
+  <a href="https://github.com/dwarvesf/playground">🔥 contribute →</a>
+  <a href="https://careers.d.foundation/">🤝 join us →</a>
+  <a href="/earn">🙋 earn ICY →</a>
+  <a href="/token">🚀 Dwarves+ →</a>
+</div>
+
+</div>
