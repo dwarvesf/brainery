@@ -21,14 +21,7 @@ This collection of articles represents our ongoing exploration of what makes Dwa
 
 ## Latest from culture dir
 
-```dsql-list
-SELECT markdown_link(COALESCE(short_title, title), file_path)
-FROM vault
-WHERE file_path ILIKE '%culture%'
-  OR ['culture', 'culture'] && tags
-ORDER BY date DESC
-LIMIT 20;
-```
+Browse the newest culture writing on the [culture tag page](/tags/culture).
 
 ## What you'll find here
 
