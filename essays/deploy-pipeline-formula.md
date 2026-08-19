@@ -71,6 +71,22 @@ _Fig. 3: the deploy tail restructured. Same four jobs; the only ordering that ma
 
 The memo-specific parts stay memo-specific: the vault submodule advance, the redirect-map dance around Cloudflare's 2,000-rule cap, the search-index seeds. A formula that claims those would be lying about its portability.
 
+## Where it landed
+
+The first run on the new pipeline, phase by phase, straight from the log:
+
+| Phase | Time |
+| ----- | ---- |
+| 1Password env read + vault fetch + install | 10s |
+| Markdown compile (1,954 files) | 9s |
+| Generator DAG (directory-tree now after its inputs) | 5s |
+| Next.js build (3,080 pages, warm cache) | 32s |
+| RSS, redirects, cache save | 5s |
+| Deploy tail, parallel (api + migrations skipped by the diff gate) | 18s |
+| **Step total** | **79s** |
+
+One honest footnote on the numbers: the job wall clock is ~113 seconds, because about 34 seconds of GitHub Actions overhead (runner prep, toolchain setup, a 1Password CLI download) sits outside the step we measured. We optimized the step because that's where our code runs; the overhead is a different fight with a different owner.
+
 ## The habit underneath
 
 The pipeline was "working" the whole time. Pages published, checks were green, nobody was paged. The 110-second version and the 78-second version look identical from the outside, and the outside is where CI dashboards live. The log with timestamps is the only honest surface a pipeline has. Read it top to bottom once a quarter, or the first time a step's duration makes you frown. Budget an hour. Ours paid for itself before lunch.
