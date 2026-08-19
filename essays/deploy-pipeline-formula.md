@@ -73,19 +73,11 @@ The memo-specific parts stay memo-specific: the vault submodule advance, the red
 
 ## Where it landed
 
-The first run on the new pipeline, phase by phase, straight from the log:
+The first run on the new pipeline, phase by phase, straight from the log (fig. 4):
 
-| Phase | Time |
-| ----- | ---- |
-| 1Password env read + vault fetch + install | 10s |
-| Markdown compile (1,954 files) | 9s |
-| Generator DAG (directory-tree now after its inputs) | 5s |
-| Next.js build (3,080 pages, warm cache) | 32s |
-| RSS, redirects, cache save | 5s |
-| Deploy tail, parallel (api + migrations skipped by the diff gate) | 18s |
-| **Step total** | **79s** |
+![](assets/deploy-pipeline-fig4-landed.svg)
 
-One honest footnote on the numbers: the job wall clock is ~113 seconds, because about 34 seconds of GitHub Actions overhead (runner prep, toolchain setup, a 1Password CLI download) sits outside the step we measured. We optimized the step because that's where our code runs; the overhead is a different fight with a different owner.
+_Fig. 4: the landed shape. The step reads 79 seconds; the job wall clock reads ~113, because 34 seconds of Actions overhead (runner prep, toolchain setup, a 1Password CLI download) sits outside the step we measured._
 
 ## The habit underneath
 
