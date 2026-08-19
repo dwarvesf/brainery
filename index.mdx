@@ -4,34 +4,44 @@ description: null
 date: null
 ---
 
+<div className="dw-home">
+
 <header>
-  <div className="dw-eyebrow">Dwarves Foundation · team memo</div>
-  <h1 style={{ marginTop: '6px', marginBottom: '8px', letterSpacing: '-0.02em' }}>
-    Learning in public, <span className="dw-hl">1% at a time</span>
-  </h1>
-  <div style={{ color: 'var(--dw-ink-2)', maxWidth: '60ch' }}>
-    This site is our continuous learning engine: engineers writing down what we
-    build, break, and figure out, one memo at a time.
+  <div className="dw-masthead">
+    <div>
+      <div className="dw-eyebrow">Dwarves Foundation · team memo</div>
+      <h1 className="dw-verdict" style={{ marginTop: '6px' }}>
+        We write down what we build, break, and figure out, <span className="dw-hl">before we forget it</span>.
+      </h1>
+    </div>
+    <div className="dw-stamp">est. 2013 · new memos weekly</div>
   </div>
-  <div className="dw-rule" style={{ margin: '18px 0 14px' }} />
+  <div className="dw-verdict-sub">
+    The team's continuous learning engine: engineering, blockchain, markets,
+    and AI, one memo at a time, learning in public.
+  </div>
+  <div className="dw-rule" style={{ margin: '18px 0 6px' }} />
 </header>
 
-<div className="dw-card" style={{ padding: '16px 20px', marginBottom: '8px' }}>
-  <div className="dw-eyebrow" style={{ marginBottom: '8px' }}>Now</div>
-
-  - Fresh research: [the deploy pipeline formula](/deploy-pipeline-formula), [DeepSeek Harness, dissected](/deepseek-harness-architecture)
-  - Hiring: [🧠 growth lead](careers/open-positions/growth-lead.md), [💼 sales manager](careers/open-positions/sales-manager.md), [💻 software engineer](careers/open-positions/software-engineer.md)
-  - Just shipped: [Dwarves+ tokenomics](/token), [our build log](/build-log)
+<div className="dw-band">
+  <span className="dw-band-label">Now</span>
+  <span className="dw-band-sub">fresh off the desks</span>
+  <span className="dw-band-rule" />
 </div>
 
+- Fresh research: [the deploy pipeline formula](/deploy-pipeline-formula), [DeepSeek Harness, dissected](/deepseek-harness-architecture)
+- Hiring: [🧠 growth lead](careers/open-positions/growth-lead.md), [💼 sales manager](careers/open-positions/sales-manager.md), [💻 software engineer](careers/open-positions/software-engineer.md)
+- Just shipped: [Dwarves+ tokenomics](/token), [our build log](/build-log)
+
 <div className="dw-band">
-  <span className="dw-band-label">① Worth reading</span>
+  <span className="dw-band-label">Worth reading</span>
   <span className="dw-band-sub">the four desks we write from</span>
   <span className="dw-band-rule" />
 </div>
 
 <If condition={memosWithTags}>
   <WorthReading
+    variant="desk"
     hideTitle
     memos={memosWithTags}
     blocks={[
@@ -51,7 +61,7 @@ date: null
         tag: 'market-report',
       },
       {
-        title: 'Artificial Intelligence',
+        title: 'AI',
         subtitle: 'Pushing human limits',
         tag: 'AI',
       },
@@ -59,7 +69,7 @@ date: null
 </If>
 
 <div className="dw-band">
-  <span className="dw-band-label">② Latest memos</span>
+  <span className="dw-band-label">Latest memos</span>
   <span className="dw-band-sub">everything else, newest first</span>
   <span className="dw-band-rule" />
 </div>
@@ -71,35 +81,22 @@ date: null
 <TagsMarquee directoryTree={directoryTree} />
 
 <div className="dw-band">
-  <span className="dw-band-label">③ Join in</span>
-  <span className="dw-band-sub">five doors into the network</span>
+  <span className="dw-band-label">Join in</span>
+  <span className="dw-band-sub">doors into the network</span>
   <span className="dw-band-rule" />
 </div>
 
-<div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(210px, 1fr))', gap: '12px' }}>
-  <a className="dw-tile" style={{ textDecoration: 'none' }} href="https://discord.gg/dfoundation">
-    <div className="dw-tile-v" style={{ fontSize: '19px' }}>🩷 Discord</div>
-    <div className="dw-tile-l">Join the network, talk shop with us</div>
-  </a>
-  <a className="dw-tile" style={{ textDecoration: 'none' }} href="https://github.com/dwarvesf/playground">
-    <div className="dw-tile-v" style={{ fontSize: '19px' }}>🔥 Contribute</div>
-    <div className="dw-tile-l">Write for the memo, PRs welcome</div>
-  </a>
-  <a className="dw-tile" style={{ textDecoration: 'none' }} href="https://careers.d.foundation/">
-    <div className="dw-tile-v" style={{ fontSize: '19px' }}>🤝 Join us</div>
-    <div className="dw-tile-l">We are hiring, three roles open</div>
-  </a>
-  <a className="dw-tile" style={{ textDecoration: 'none' }} href="/earn">
-    <div className="dw-tile-v" style={{ fontSize: '19px' }}>🙋 Earn</div>
-    <div className="dw-tile-l">Give us a helping hand, get ICY</div>
-  </a>
-  <a className="dw-tile" style={{ textDecoration: 'none' }} href="/token">
-    <div className="dw-tile-v" style={{ fontSize: '19px' }}>🚀 Dwarves+</div>
-    <div className="dw-tile-l">Explore the protocol and tokenomics</div>
-  </a>
+<div className="dw-join">
+  <a href="https://discord.gg/dfoundation">🩷 discord →</a>
+  <a href="https://github.com/dwarvesf/playground">🔥 contribute →</a>
+  <a href="https://careers.d.foundation/">🤝 join us →</a>
+  <a href="/earn">🙋 earn ICY →</a>
+  <a href="/token">🚀 Dwarves+ →</a>
 </div>
 
 ---
 
 _Written by Dwarves for product craftsmen._\
 _Learned by engineers. Experimented by engineers._
+
+</div>
