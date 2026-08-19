@@ -30,13 +30,21 @@ A CI step hides a dozen phases behind one duration number. The raw log has a tim
 | R2 upload | 4s |
 | D1 seed | 11s |
 
-Two things jump out of a table like this that never jump out of a checkmark. The build core was already tight: 27 seconds for 3,080 pages with a warm compiler cache is fine, and we didn't touch it. The tail was the problem: 40 seconds of deploys and uploads running one after another, none of which depended on each other.
+Two things jump out of a table like this that never jump out of a checkmark. The build core was already tight: 27 seconds for 3,080 pages with a warm compiler cache is fine, and we didn't touch it. The tail was the problem: 40 seconds of deploys and uploads running one after another, none of which depended on each other. Figure 1 shows the same numbers to scale, before and after.
+
+![](assets/deploy-pipeline-fig1-timeline.svg)
+
+_Fig. 1: the publish step to scale. The build core stayed untouched; the entire win came from the tail's shape._
 
 ## The green checkmark was hiding three bugs
 
 Reading that closely also surfaced errors that had been shipping for weeks, because a step that exits 0 gets no scrutiny.
 
-The generator DAG ran one step a stage too early. `generate-directory-tree` reads two JSON files that another generator writes, and it ran in the stage before the one that writes them. It logged an ENOENT stack trace, caught it, and printed "Done (0.8s)". Every publish shipped a directory tree built from files that didn't exist yet. The fix is one line in the stage list, plus the habit the bug taught us: write the dependency reason as a comment next to the stage, so the next person who reorders it has to argue with the comment.
+The generator DAG ran one step a stage too early (fig. 2). `generate-directory-tree` reads two JSON files that another generator writes, and it ran in the stage before the one that writes them. It logged an ENOENT stack trace, caught it, and printed "Done (0.8s)". Every publish shipped a directory tree built from files that didn't exist yet. The fix is one line in the stage list, plus the habit the bug taught us: write the dependency reason as a comment next to the stage, so the next person who reorders it has to argue with the comment.
+
+![](assets/deploy-pipeline-fig2-dag.svg)
+
+_Fig. 2: the generator DAG. The dashed box is where directory-tree used to run; its two inputs are written by the stage it now follows._
 
 The API Worker deployed before its database migrations ran. Nothing had blown up yet because no recent migration was load-bearing at deploy time. The day one is, the new code hits production a few seconds before the table it needs. Expand/contract is the boring, correct order: migrate first, deploy second.
 
@@ -51,11 +59,15 @@ Here's the order we now hold every pipeline to, general first:
 3. Diff the push range per deployable. Our most common push is a memo post; it now skips the API deploy entirely, because the diff proves the API didn't change. Every uncertain answer falls back to deploying, so the skip can only ever be a correct no-op.
 4. Run generators as a staged DAG, parallel inside each stage, with the dependency reason written next to the stage.
 5. Keep caches on the runner. A persistent local dir for the compiler cache beats a 400MB cloud-cache tarball round trip by about 40 seconds.
-6. Run the deploy tail in parallel. Independent jobs cost max() instead of sum(). Ours went from 40 seconds to 18.
+6. Run the deploy tail in parallel. Independent jobs cost max() instead of sum(). Ours went from 40 seconds to 18 (fig. 3).
 7. Migrations before code, always.
 8. Write deltas. Our D1 seeder hash-gates rows ("0 changed of 1,611"), and Wrangler's asset manifest uploads only changed files: one file of 10,921 on a typical post.
 9. Retry idempotent network calls three times. Never retry a step whose repeat changes state.
 10. Sweep hazards by property. Oversized files get dropped by a size test; a filename list rots on the next addition.
+
+![](assets/deploy-pipeline-fig3-tail.svg)
+
+_Fig. 3: the deploy tail restructured. Same four jobs; the only ordering that matters survives inside the data-plane lane, and a diff-clean push skips the api deploy outright._
 
 The memo-specific parts stay memo-specific: the vault submodule advance, the redirect-map dance around Cloudflare's 2,000-rule cap, the search-index seeds. A formula that claims those would be lying about its portability.
 
