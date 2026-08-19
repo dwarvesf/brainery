@@ -4,7 +4,6 @@ title: "On agentic AI"
 description: "Our take on the agentic AI wave and how we're positioning ourselves to do more with less"
 date: 2025-06-15
 toc: true
-pinned: true
 authors:
   - tieubao
 tags:

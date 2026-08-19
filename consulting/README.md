@@ -19,19 +19,12 @@ This unique setup gives us a competitive edge - we're practitioners backed by cu
 
 ## Latest from consulting team
 
-```dsql-list
-SELECT markdown_link(COALESCE(short_title, title), file_path)
-FROM vault
-WHERE file_path ILIKE '%consulting%'
-  OR ['partners', 'consulting'] && tags
-ORDER BY date DESC
-LIMIT 5;
-```
+Browse the newest consulting posts on the [consulting tag page](/tags/consulting).
 
 ## Series
 
 - [Navigate framework](./navigate): Comprehensive guide to our navigation changes methodology.
-- [Case studies](./case-study): Learn from our practical consulting experiences.
+- [Case studies](/case-studies): Learn from our practical consulting experiences.
 - [Arc](/updates/arc): Deep dive into our research methodology and findings.
 
 ## Key articles for consultants
