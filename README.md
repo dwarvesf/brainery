@@ -124,9 +124,9 @@ We use the Obsidian plugin [Local Images Plus](https://github.com/Sergei-Korneev
 
 ## How does this all work?
 
-We essentially have 2 repositories:
+This repo holds the vault; two other repos handle publishing, split by plane:
 
-1. One to manage the compilation and deployment of Obsidian markdown to static HTML: <https://github.com/dwarvesf/memo.d.foundation>
-2. One to manage the vault that everyone interacts with; think of Obsidian as our IDE or local CMS: <https://github.com/dwarvesf/brainery>
+1. `dwarvesf/foundation-workers`: the data plane, memo-api, D1 seeders, the search index, menus, the rollup, the R2 derived upload.
+2. `dwarvesf/foundation-apps`: the `df-memo` static frontend, the Worker that actually serves <https://memo.d.foundation>.
 
-Any changes to any one of these repositories will initiate a deployment workflow on the first repository, which will then update changes to <https://memo.d.foundation>.
+A push to `main` here dispatches both, content-only, so a memo post publishes without minting a Release in either repo. `dwarvesf/memo.d.foundation` is the retired predecessor repo; it is archived and no longer part of the publish path.
