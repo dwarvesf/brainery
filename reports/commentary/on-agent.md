@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "On agentic AI"
 description: "Our take on the agentic AI wave and how we're positioning ourselves to do more with less"
 date: 2025-06-15
@@ -13,6 +13,7 @@ tags:
   - ai-strategy
 redirect:
   - /Bg60FM
+  - /arc/on-agent
 slug: arc-on-agent
 ---
 

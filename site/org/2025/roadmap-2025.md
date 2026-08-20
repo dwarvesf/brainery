@@ -14,6 +14,10 @@ tags:
 redirect:
   - /org/2025/roadmap-2025
   - /8ike6A
+  - /arc
+  - /arc/on-blockchain
+  - /arc/on-platform
+  - /arc/on-spatial
 slug: org-roadmap-2025
 ---
 
