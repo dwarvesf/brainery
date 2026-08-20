@@ -1,11 +1,29 @@
 name: Publish memo.d.foundation on content push
 
-# A brainery merge only advances content; foundation-workers sees no push, so
-# its "Memo publish on push" workflow cannot path-trigger. Dispatch it from
-# here, authenticated as the dwarves-ops-bot GitHub App (actions:write on
-# foundation-workers), with content-only=true so a memo post never mints a
-# release. Replaces the retired memo.d.foundation publish-pages dispatch and
-# its personal-PAT secret.
+# A brainery merge only advances content; neither publishing repo sees a push,
+# so their workflows cannot path-trigger. Dispatch both from here,
+# authenticated as the dwarves-ops-bot GitHub App (actions:write on both).
+# Replaces the retired memo.d.foundation publish-pages dispatch and its
+# personal-PAT secret.
+#
+# memo.d.foundation is published by TWO repos as of 2026-08-20, split by plane:
+#
+#   dwarvesf/foundation-workers   data plane: memo-api, D1 seeders, the search
+#                                 index, menus, the rollup, the R2 derived
+#                                 upload. Dispatched with skip-static so it
+#                                 leaves the frontend alone.
+#
+#   dwarvesf/foundation-apps      the df-memo static frontend, the Worker that
+#                                 actually serves memo.d.foundation.
+#
+# Both are dispatched content-only, so a memo post publishes without minting a
+# Release in either repo. Releases stay reserved for deliberate pipeline
+# changes.
+#
+# Order matters a little and not much. The data plane goes first so that
+# search, menus and API-served data are current when the new pages land. Both
+# read the same brainery commit, and the frontend fails open on writer rows,
+# so a slow data plane degrades attribution rather than breaking a page.
 
 on:
   push:
@@ -19,7 +37,7 @@ on:
 
 jobs:
   publish:
-    name: Dispatch foundation-workers memo publish
+    name: Dispatch both memo publishers
     runs-on: ubuntu-latest
     steps:
       - name: Mint ops-bot token
@@ -29,8 +47,32 @@ jobs:
           app-id: ${{ vars.OPS_BOT_APP_ID }}
           private-key: ${{ secrets.OPS_BOT_PRIVATE_KEY }}
           owner: dwarvesf
-          repositories: foundation-workers
-      - name: Dispatch memo publish (content-only)
+          repositories: |
+            foundation-workers
+            foundation-apps
+      # skip-static is what keeps this repo out of the frontend's way. Without
+      # it, foundation-workers would redeploy df-memo over whatever
+      # foundation-apps published, which is the two-repos-one-script-name
+      # failure the split exists to end.
+      - name: Dispatch the data plane (foundation-workers)
         env:
           GH_TOKEN: ${{ steps.app.outputs.token }}
-        run: gh workflow run "Memo publish on push" -R dwarvesf/foundation-workers --ref main -f content-only=true
+        run: |
+          gh workflow run "Memo publish on push" \
+            -R dwarvesf/foundation-workers \
+            --ref main \
+            -f content-only=true \
+            -f skip-static=true
+      # target=production is spelled out rather than relied on: that workflow
+      # defaults to rehearsal on purpose, and a content publish that quietly
+      # went to the rehearsal Worker would leave memo.d.foundation serving the
+      # previous post while every run stayed green.
+      - name: Dispatch the frontend (foundation-apps)
+        env:
+          GH_TOKEN: ${{ steps.app.outputs.token }}
+        run: |
+          gh workflow run "Deploy memo" \
+            -R dwarvesf/foundation-apps \
+            --ref main \
+            -f target=production \
+            -f content-only=true
