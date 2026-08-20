@@ -114,7 +114,7 @@ Whether you're a fintech startup or an established bank looking to modernize, we
 
 **Email**: <team@d.foundation>
 **Phone**: (+1) 818 408 6969
-**Telegram**: [dfoundation](t.me/dfoundation)
+**Telegram**: [dfoundation](https://t.me/dfoundation)
 
 ## Learn more
 
