@@ -23,7 +23,7 @@ Applying the Zettelkasten method to construct our reference neuron network, we c
 
 We encourage our members to read, write, share what we learn with others, and [contributing to the Brainery](CONTRIBUTING.md) is an important part of our learning culture.
 
-For visitors, you are welcome to read them, contribute to them, and [suggest additions](discord.gg/dfoundation). We maintain a monthly pool of $1500 to reward contributors who support our journey of lifelong growth in knowledge and network.
+For visitors, you are welcome to read them, contribute to them, and [suggest additions](https://discord.gg/dfoundation). We maintain a monthly pool of $1500 to reward contributors who support our journey of lifelong growth in knowledge and network.
 
 ### Dwarves+ Protocol
 

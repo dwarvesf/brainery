@@ -124,7 +124,7 @@ Whether you're exploring blockchain for the first time or scaling an existing We
 
 **Email**: <team@d.foundation>  
 **Phone**: (+1) 818 408 6969  
-**Telegram**: [dfoundation](t.me/dfoundation)  
+**Telegram**: [dfoundation](https://t.me/dfoundation)  
 
 - [View our team](https://memo.d.foundation/profile)
 - [See more case studies](https://memo.d.foundation/consulting)
