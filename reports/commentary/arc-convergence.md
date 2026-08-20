@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: The convergence
 description: How every technology wave we track ultimately serves our four foundational verticals. This is where individual arcs converge into our long-term strategy for empowering innovation.
 date: 2025-01-14
