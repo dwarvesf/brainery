@@ -36,9 +36,18 @@ case "$ext" in
     fi  # animated webp: dwebp fails, file passes through
     ;;
   gif)
-    command -v gifsicle >/dev/null && gifsicle -O3 --lossy=200 --colors 128 "$f" -o "$out" 2>/dev/null
-    if [ -s "$out" ] && [ "$(stat -f%z "$out" 2>/dev/null || stat -c%s "$out")" -gt 3000000 ]; then
-      gifsicle -O3 --lossy=200 --colors 128 --scale 0.8 "$f" -o "$d/s.gif" 2>/dev/null && /bin/cp -f "$d/s.gif" "$out"
+    # Two attempts, smallest wins: plain lossy, and resize to the 800px
+    # display budget (the content column is narrower than that anyway).
+    # Already-optimized gifs can GROW under blind lossy; keep-if-smaller
+    # below guards every path.
+    if command -v gifsicle >/dev/null; then
+      gifsicle -O3 --lossy=200 --colors 128 "$f" -o "$out" 2>/dev/null
+      gifsicle -O3 --lossy=200 --colors 128 --resize-fit-width 800 "$f" -o "$d/s.gif" 2>/dev/null
+      if [ -s "$d/s.gif" ]; then
+        if [ ! -s "$out" ] || [ "$(stat -f%z "$d/s.gif" 2>/dev/null || stat -c%s "$d/s.gif")" -lt "$(stat -f%z "$out" 2>/dev/null || stat -c%s "$out")" ]; then
+          /bin/cp -f "$d/s.gif" "$out"
+        fi
+      fi
     fi
     ;;
   mp4|mov)
