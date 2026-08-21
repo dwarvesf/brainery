@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid4" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr4" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+  </defs>
+  <rect width="760" height="330" fill="#12395f"/>
+  <rect width="760" height="330" fill="url(#grid4)"/>
+  <rect x="0.5" y="0.5" width="759" height="329" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 4 · TURN FLOW</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">A TURN = ZERO OR MORE STEPS</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <rect x="40" y="70" width="104" height="40" fill="#21466a" stroke="#68839d"/>
+  <text x="92" y="94" font-size="10" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">turn/start</text>
+  <line x1="144" y1="90" x2="168" y2="90" stroke="#c3d7ea" marker-end="url(#arr4)"/>
+
+  <rect x="170" y="62" width="128" height="56" fill="#21466a" stroke="#68839d"/>
+  <text x="234" y="84" font-size="10" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">agent/pre-step</text>
+  <text x="234" y="103" font-size="9" fill="#a7c0d9" text-anchor="middle">rewrite or reject</text>
+  <line x1="298" y1="90" x2="322" y2="90" stroke="#c3d7ea" marker-end="url(#arr4)"/>
+
+  <rect x="324" y="52" width="300" height="118" fill="none" stroke="#e8f1fa"/>
+  <text x="338" y="72" font-size="9" letter-spacing="1.5" fill="#6f8fb0">STEP</text>
+  <rect x="340" y="84" width="84" height="36" fill="#21466a" stroke="#68839d"/>
+  <text x="382" y="101" font-size="9" fill="#e8f1fa" text-anchor="middle">assemble</text>
+  <text x="382" y="113" font-size="9" fill="#a7c0d9" text-anchor="middle">prompt</text>
+  <line x1="424" y1="102" x2="436" y2="102" stroke="#c3d7ea" marker-end="url(#arr4)"/>
+  <rect x="438" y="84" width="84" height="36" fill="#21466a" stroke="#68839d"/>
+  <text x="480" y="101" font-size="9" fill="#e8f1fa" text-anchor="middle">llm request</text>
+  <text x="480" y="113" font-size="9" fill="#a7c0d9" text-anchor="middle">stream chunks</text>
+  <line x1="522" y1="102" x2="534" y2="102" stroke="#c3d7ea" marker-end="url(#arr4)"/>
+  <rect x="536" y="84" width="74" height="36" fill="#21466a" stroke="#68839d"/>
+  <text x="573" y="101" font-size="9" fill="#e8f1fa" text-anchor="middle">tool batch</text>
+  <text x="573" y="113" font-size="9" fill="#a7c0d9" text-anchor="middle">fig. 5</text>
+  <text x="474" y="152" font-size="9" fill="#6f8fb0" text-anchor="middle">step/start … step/end · durable session events</text>
+
+  <path d="M 624 90 L 706 90 L 706 44 L 474 44 L 474 50" fill="none" stroke="#e8c56a" stroke-dasharray="4 3" marker-end="url(#arr4)"/>
+  <text x="698" y="66" font-size="9" fill="#e8c56a" text-anchor="end">tools owe another request: next step</text>
+
+  <line x1="474" y1="170" x2="474" y2="192" stroke="#c3d7ea" marker-end="url(#arr4)"/>
+  <text x="486" y="186" font-size="9" fill="#6f8fb0">nothing owed</text>
+  <rect x="394" y="196" width="160" height="38" fill="#21466a" stroke="#68839d"/>
+  <text x="474" y="219" font-size="10" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">agent/turn-stopping</text>
+  <line x1="554" y1="215" x2="586" y2="215" stroke="#c3d7ea" marker-end="url(#arr4)"/>
+  <rect x="588" y="196" width="104" height="38" fill="#21466a" stroke="#68839d"/>
+  <text x="640" y="219" font-size="10" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">turn/end</text>
+
+  <rect x="40" y="262" width="680" height="42" fill="none" stroke="#e8c56a"/>
+  <text x="380" y="280" font-size="10" letter-spacing="1.5" fill="#e8c56a" text-anchor="middle">INVARIANT · MODEL-VISIBLE MEANS LOGGED</text>
+  <text x="380" y="296" font-size="9.5" fill="#c3d7ea" text-anchor="middle">every model request derives from the append-only session log; a runtime assertion enforces it</text>
+</svg>

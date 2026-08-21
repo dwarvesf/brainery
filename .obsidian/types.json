@@ -1,0 +1,23 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "authors": "multitext",
+    "date": "date",
+    "toc": "checkbox",
+    "social": "multitext",
+    "status": "text",
+    "due_date": "date",
+    "PICs": "multitext",
+    "completion_date": "date",
+    "publish": "checkbox",
+    "hide_frontmatter": "checkbox",
+    "event-date": "date",
+    "hiring": "checkbox",
+    "pinned": "checkbox",
+    "hide_title": "checkbox",
+    "discord_id": "number",
+    "icy": "number"
+  }
+}

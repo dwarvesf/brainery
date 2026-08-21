@@ -1,0 +1,24 @@
+---
+draft: true
+title: "#28 - Quite late, but here’s what happened this week"
+description: Join Memo’s writing team to share your voice, learn about our new US healthcare project, and meet five new interns joining us this July.
+date: 2020-06-13
+last_edited: "2025-04-07T00:00:00.000Z"
+redirect:
+  - /Gq80NA
+slug: digest-28-quite-late-but-here-s-what-happened-this-week
+---
+
+### Join a hand for Memo
+
+We’ve moving Memo out to the backlog of Woodland. Previously, Memo was quite of a responsibility for a few members. But after all, if it’s meant to be a platform for our voices, it should be conducted by anyone. Currently, the list of writing still has many unwritten articles. Should you find any topic that might suit your favor, just us a heads-up and we’ll assist you along the way. And if you’re having other cool topic to add in? Even better.
+
+![](assets/notion-image-1744007072852-bwops.webp)
+
+### Business updates
+
+We closed a deal with a key client this week and Nam N is going to start 1-week trial in the next Monday. This is our second project in the US, so we can leverage more this potential market and continue practicing the working process in 12 timezones distance. We hope to contribute to this healthcare startup to see the growth opportunity for the industry in the Covid-19 pandemic.
+
+### BK internship wrap-up
+
+Van has help wrapped up the Internship recruiting with Bach Khoa University. That leaves us with 5 soon-to-be Dwarves joining us this July.

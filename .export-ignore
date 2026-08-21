@@ -1,0 +1,22 @@
+# ignore git related stuff
+.git*
+
+# ignore this file
+.export-ignore
+
+# ignore any obsidian templates
+_templates/
+_templater/
+_reports/
+
+# ignore reference images or files
+_reference/
+
+# ignore any base files
+_base.md
+
+# MacOS files
+.DS_Store
+.DocumentRevisions-V100
+.Spotlight-V100
+.Trash*

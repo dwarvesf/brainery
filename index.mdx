@@ -1,0 +1,99 @@
+---
+title: null
+description: null
+date: null
+---
+
+<div className="dw-home">
+
+<header>
+  <div className="dw-masthead">
+    <div>
+      <div className="dw-eyebrow">Dwarves Foundation · team memo</div>
+      <h1 className="dw-verdict" style={{ marginTop: '6px' }}>
+        We write down what we build, break, and figure out, <span className="dw-hl">before we forget it</span>.
+      </h1>
+    </div>
+    <div className="dw-stamp">est. 2013 · new memos weekly</div>
+  </div>
+  <div className="dw-verdict-sub">
+    The team's continuous learning engine: engineering, blockchain, markets,
+    and AI, one memo at a time, learning in public.
+  </div>
+  <div className="dw-rule" style={{ margin: '18px 0 6px' }} />
+</header>
+
+<div className="dw-band">
+  <span className="dw-band-label">Now</span>
+  <span className="dw-band-sub">fresh off the desks</span>
+  <span className="dw-band-rule" />
+</div>
+
+- Fresh research: [the deploy pipeline formula](/deploy-pipeline-formula), [DeepSeek Harness, dissected](/deepseek-harness-architecture)
+- Hiring: [🧠 growth lead](careers/open-positions/growth-lead.md), [💼 sales manager](careers/open-positions/sales-manager.md), [💻 software engineer](careers/open-positions/software-engineer.md)
+- Just shipped: [Dwarves+ tokenomics](/token), [our build log](/build-log)
+
+<div className="dw-band">
+  <span className="dw-band-label">Worth reading</span>
+  <span className="dw-band-sub">the four desks we write from</span>
+  <span className="dw-band-rule" />
+</div>
+
+<If condition={memosWithTags}>
+  <WorthReading
+    variant="desk"
+    hideTitle
+    memos={memosWithTags}
+    blocks={[
+      {
+        title: 'Engineering',
+        subtitle: 'Craftsmen knowledge',
+        tag: 'engineering',
+      },
+      {
+        title: 'AI',
+        subtitle: 'Pushing human limits',
+        tag: 'AI',
+      },
+      {
+        title: 'Case studies',
+        subtitle: 'Client work, documented',
+        tag: 'case-study',
+      },
+      {
+        title: 'Consulting',
+        subtitle: 'Field notes from the practice',
+        tag: 'consulting',
+      },
+    ]} />
+</If>
+
+<div className="dw-band">
+  <span className="dw-band-label">Latest memos</span>
+  <span className="dw-band-sub">everything else, newest first</span>
+  <span className="dw-band-rule" />
+</div>
+
+<If condition={memosWithTags}>
+  <MemoFilterList title="" all={memosWithTags} filters={['web3', 'design', 'culture']} />
+</If>
+
+<div className="dw-marquee">
+  <TagsMarquee directoryTree={directoryTree} />
+</div>
+
+<div className="dw-band">
+  <span className="dw-band-label">Join in</span>
+  <span className="dw-band-sub">doors into the network</span>
+  <span className="dw-band-rule" />
+</div>
+
+<div className="dw-join">
+  <a href="https://discord.gg/dfoundation">🩷 discord →</a>
+  <a href="https://github.com/dwarvesf/playground">🔥 contribute →</a>
+  <a href="https://careers.d.foundation/">🤝 join us →</a>
+  <a href="/earn">🙋 earn ICY →</a>
+  <a href="/token">🚀 Dwarves+ →</a>
+</div>
+
+</div>

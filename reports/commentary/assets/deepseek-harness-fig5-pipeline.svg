@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 310" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid5" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr5" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+  </defs>
+  <rect width="760" height="310" fill="#12395f"/>
+  <rect width="760" height="310" fill="url(#grid5)"/>
+  <rect x="0.5" y="0.5" width="759" height="309" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 5 · TOOL EXECUTION PIPELINE</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">POLICY ATTACHES WITHOUT CHANGING THE LOOP</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <rect x="40" y="60" width="125" height="50" fill="#21466a" stroke="#68839d"/>
+  <text x="102" y="80" font-size="9.5" fill="#e8f1fa" text-anchor="middle">tool/call</text>
+  <text x="102" y="96" font-size="8.5" fill="#a7c0d9" text-anchor="middle">logged first</text>
+  <line x1="165" y1="85" x2="173" y2="85" stroke="#c3d7ea" marker-end="url(#arr5)"/>
+
+  <rect x="175" y="60" width="125" height="50" fill="#21466a" stroke="#68839d"/>
+  <text x="237" y="80" font-size="9.5" fill="#e8f1fa" text-anchor="middle">pre-execute</text>
+  <text x="237" y="96" font-size="8.5" fill="#a7c0d9" text-anchor="middle">hooks · permission</text>
+  <line x1="300" y1="85" x2="308" y2="85" stroke="#c3d7ea" marker-end="url(#arr5)"/>
+
+  <rect x="310" y="60" width="125" height="50" fill="#21466a" stroke="#68839d"/>
+  <text x="372" y="80" font-size="9.5" fill="#e8f1fa" text-anchor="middle">guards</text>
+  <text x="372" y="96" font-size="8.5" fill="#a7c0d9" text-anchor="middle">deny or abstain</text>
+  <line x1="435" y1="85" x2="443" y2="85" stroke="#c3d7ea" marker-end="url(#arr5)"/>
+
+  <rect x="445" y="60" width="125" height="50" fill="#21466a" stroke="#68839d"/>
+  <text x="507" y="80" font-size="9.5" fill="#e8f1fa" text-anchor="middle">approval</text>
+  <text x="507" y="96" font-size="8.5" fill="#a7c0d9" text-anchor="middle">ask once, else deny</text>
+  <line x1="570" y1="85" x2="578" y2="85" stroke="#c3d7ea" marker-end="url(#arr5)"/>
+
+  <rect x="580" y="60" width="125" height="50" fill="#21466a" stroke="#68839d"/>
+  <text x="642" y="80" font-size="9.5" fill="#e8f1fa" text-anchor="middle">execute wrap</text>
+  <text x="642" y="96" font-size="8.5" fill="#a7c0d9" text-anchor="middle">timeout · retry</text>
+
+  <path d="M 642 110 L 642 136 L 102 136 L 102 158" fill="none" stroke="#c3d7ea" marker-end="url(#arr5)"/>
+
+  <rect x="40" y="162" width="152" height="50" fill="#21466a" stroke="#68839d"/>
+  <text x="116" y="182" font-size="9.5" fill="#e8f1fa" text-anchor="middle">tool body</text>
+  <text x="116" y="198" font-size="8.5" fill="#a7c0d9" text-anchor="middle">fs writes gated by intents</text>
+  <line x1="192" y1="187" x2="208" y2="187" stroke="#c3d7ea" marker-end="url(#arr5)"/>
+
+  <rect x="210" y="162" width="152" height="50" fill="#21466a" stroke="#68839d"/>
+  <text x="286" y="182" font-size="9.5" fill="#e8f1fa" text-anchor="middle">post-execute</text>
+  <text x="286" y="198" font-size="8.5" fill="#a7c0d9" text-anchor="middle">accept · block · replace</text>
+  <line x1="362" y1="187" x2="378" y2="187" stroke="#c3d7ea" marker-end="url(#arr5)"/>
+
+  <rect x="380" y="162" width="152" height="50" fill="#21466a" stroke="#68839d"/>
+  <text x="456" y="182" font-size="9.5" fill="#e8f1fa" text-anchor="middle">finalize content</text>
+  <text x="456" y="198" font-size="8.5" fill="#a7c0d9" text-anchor="middle">last content invariant</text>
+  <line x1="532" y1="187" x2="548" y2="187" stroke="#c3d7ea" marker-end="url(#arr5)"/>
+
+  <rect x="550" y="162" width="155" height="50" fill="#21466a" stroke="#e8c56a"/>
+  <text x="627" y="182" font-size="9.5" fill="#e8c56a" text-anchor="middle">tool/result</text>
+  <text x="627" y="198" font-size="8.5" fill="#c3d7ea" text-anchor="middle">frozen outcome, logged</text>
+
+  <text x="40" y="252" font-size="9.5" fill="#a7c0d9">same interception points a claude code hook config targets. the difference: typed in-process waterfalls,</text>
+  <text x="40" y="268" font-size="9.5" fill="#a7c0d9">where a listener wraps the call and decides to delegate or short-circuit, instead of shell subprocesses</text>
+  <text x="40" y="284" font-size="9.5" fill="#a7c0d9">speaking exit codes over stdin.</text>
+</svg>
