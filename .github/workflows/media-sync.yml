@@ -39,6 +39,13 @@ jobs:
                -o -iname "*.webp" -o -iname "*.mp4" -o -iname "*.mov" -o -iname "*.avif" -o -iname "*.pdf" \) \
             -type f | sed 's#^\./##')
           [ -z "$FILES" ] && { echo "no media in tree"; exit 0; }
+          # Media budget gate: every asset is compressed to the vault budget
+          # (1600px stills, lossy gif, 1280px crf30 video, /ebook pdf) before
+          # it reaches the bucket. Same script authors run locally.
+          sudo apt-get install -qq -y pngquant gifsicle webp ghostscript >/dev/null
+          echo "$FILES" | while read -r f; do
+            bash _meta/scripts/compress-media.sh "$f"
+          done
           npm i -g wrangler@4 >/dev/null 2>&1
           echo "$FILES" | while read -r f; do
             wrangler r2 object put "memo-vault-assets/$f" --file "$f" --remote
