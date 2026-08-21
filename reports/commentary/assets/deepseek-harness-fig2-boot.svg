@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid2" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr2" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+  </defs>
+  <rect width="760" height="420" fill="#12395f"/>
+  <rect width="760" height="420" fill="url(#grid2)"/>
+  <rect x="0.5" y="0.5" width="759" height="419" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 2 · BOOT COMPOSITION</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">LAYERED PATCHES, NOT A SETTINGS FILE</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <rect x="40" y="60" width="340" height="44" fill="none" stroke="#6f8fb0" stroke-dasharray="4 3"/>
+  <text x="210" y="86" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="middle">EMPTY ROOT</text>
+
+  <rect x="40" y="114" width="340" height="48" fill="#21466a" stroke="#68839d"/>
+  <text x="54" y="134" font-size="10.5" fill="#e8f1fa">+ dsh-base bundle</text>
+  <text x="54" y="151" font-size="9.5" fill="#a7c0d9">models · tools · sandbox · approval · credentials</text>
+
+  <rect x="40" y="172" width="340" height="48" fill="#21466a" stroke="#68839d"/>
+  <text x="54" y="192" font-size="10.5" fill="#e8f1fa">+ dsh-web-app  or  dsh-headless</text>
+  <text x="54" y="209" font-size="9.5" fill="#a7c0d9">the app bundle for the chosen profile</text>
+
+  <rect x="40" y="230" width="340" height="48" fill="#21466a" stroke="#68839d"/>
+  <text x="54" y="250" font-size="10.5" fill="#e8f1fa">+ profile cordis.patch.yml</text>
+  <text x="54" y="267" font-size="9.5" fill="#a7c0d9">user layer, per profile</text>
+
+  <rect x="40" y="288" width="340" height="48" fill="#21466a" stroke="#68839d"/>
+  <text x="54" y="308" font-size="10.5" fill="#e8f1fa">+ $DSH_HOME/cordis.patch.yml</text>
+  <text x="54" y="325" font-size="9.5" fill="#a7c0d9">user layer, home-wide</text>
+
+  <rect x="40" y="346" width="340" height="48" fill="#21466a" stroke="#68839d"/>
+  <text x="54" y="366" font-size="10.5" fill="#e8f1fa">+ --patch overlays</text>
+  <text x="54" y="383" font-size="9.5" fill="#a7c0d9">per invocation</text>
+
+  <line x1="390" y1="227" x2="450" y2="227" stroke="#c3d7ea" marker-end="url(#arr2)"/>
+
+  <rect x="460" y="176" width="262" height="102" fill="none" stroke="#e8c56a"/>
+  <text x="591" y="212" font-size="11" letter-spacing="1.5" fill="#e8c56a" text-anchor="middle">COMPOSED PLUGIN TREE</text>
+  <text x="591" y="236" font-size="9.5" fill="#c3d7ea" text-anchor="middle">every row replaceable by a patch</text>
+  <text x="591" y="253" font-size="9.5" fill="#c3d7ea" text-anchor="middle">by id: replace or insert</text>
+
+  <text x="591" y="310" font-size="10" fill="#a7c0d9" text-anchor="middle">inspect what actually boots:</text>
+  <text x="591" y="330" font-size="10.5" fill="#e8c56a" text-anchor="middle">dsh --profile web --dump-config</text>
+</svg>
