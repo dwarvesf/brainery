@@ -1,6 +1,0 @@
-aliases:
-  - golang
-sort:
-  - /weekly
-  - slice-and-array-in-golang.md
-  - [README.md]
