@@ -1,0 +1,23 @@
+---
+title: "{contributorName}'s profile"
+description: 'Contributions by {contributorName}'
+---
+
+<ContributorHead
+    name={contributorProfile?.name || ''}
+    githubId={contributorProfile?.github_username || ''}
+    githubLink={contributorProfile?.github_url || ''}
+    websiteLink={contributorProfile?.websiteLink || ''}
+    bio={contributorProfile?.bio || ''}
+    twitterUserName={contributorProfile?.twitter_username || ''}
+    contributorMemos={contributorMemos}
+    avatarUrl={contributorProfile?.avatar || ''}
+/>
+
+## Recently published
+
+<MemoTimelineList data={contributorMemos.slice(0, 7)} />
+
+## By categories
+
+<MemosByCategory data={contributorMemos} />

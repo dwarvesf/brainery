@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+  </defs>
+  <rect width="760" height="340" fill="#12395f"/>
+  <rect width="760" height="340" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="759" height="339" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 1 · WHERE DSH SITS</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">ONE SLOT PER SESSION</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <rect x="90" y="52" width="580" height="62" fill="#21466a" stroke="#68839d"/>
+  <text x="380" y="76" font-size="12" letter-spacing="2" fill="#e8f1fa" text-anchor="middle">OPERATING LAYER</text>
+  <text x="380" y="98" font-size="10" fill="#a7c0d9" text-anchor="middle">process kit · specs · gates · instruction files (AGENTS.md / CLAUDE.md)</text>
+
+  <line x1="380" y1="114" x2="380" y2="138" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <text x="392" y="130" font-size="9" letter-spacing="1" fill="#6f8fb0">RUNS ON TOP OF ONE HARNESS</text>
+
+  <rect x="90" y="142" width="580" height="92" fill="none" stroke="#68839d"/>
+  <text x="380" y="164" font-size="12" letter-spacing="2" fill="#e8f1fa" text-anchor="middle">HARNESS LAYER</text>
+  <rect x="106" y="174" width="176" height="34" fill="#21466a" stroke="#68839d"/>
+  <text x="194" y="195" font-size="10" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">CLAUDE CODE</text>
+  <rect x="292" y="174" width="176" height="34" fill="#21466a" stroke="#68839d"/>
+  <text x="380" y="195" font-size="10" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">CODEX CLI</text>
+  <rect x="478" y="174" width="176" height="34" fill="#21466a" stroke="#e8c56a"/>
+  <text x="566" y="195" font-size="10" letter-spacing="1" fill="#e8c56a" text-anchor="middle">DSH</text>
+  <text x="380" y="226" font-size="10" fill="#a7c0d9" text-anchor="middle">agent loop · tools · sessions · MCP · UI</text>
+
+  <line x1="380" y1="234" x2="380" y2="258" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <text x="392" y="250" font-size="9" letter-spacing="1" fill="#6f8fb0">API CALLS</text>
+
+  <rect x="90" y="262" width="580" height="56" fill="#21466a" stroke="#68839d"/>
+  <text x="380" y="284" font-size="12" letter-spacing="2" fill="#e8f1fa" text-anchor="middle">MODEL LAYER</text>
+  <text x="380" y="304" font-size="10" fill="#a7c0d9" text-anchor="middle">deepseek · anthropic · openai · any openai-compatible endpoint</text>
+</svg>

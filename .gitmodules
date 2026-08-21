@@ -1,0 +1,24 @@
+[submodule "playbook"]
+	path = playbook
+	url = git@github.com:dwarvesf/playbook.git
+	branch = master
+	shallow = true
+[submodule "handbook"]
+	path = handbook
+	url = git@github.com:dwarvesf/handbook.git
+	branch = master
+	shallow = true
+[submodule "research"]
+	path = research
+	url = git@github.com:dwarvesf/research.git
+	branch = master
+	shallow = true
+[submodule "careers"]
+	path = careers
+	url = git@github.com:dwarvesf/WeAreHiring.git
+	branch = master
+	shallow = true
+[submodule "radar"]
+	path = radar
+	url = git@github.com:dwarvesf/radar.git
+	shallow = true

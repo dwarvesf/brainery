@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid2" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr2" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+    <marker id="arrg" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#e8c56a"/>
+    </marker>
+  </defs>
+  <rect width="760" height="340" fill="#12395f"/>
+  <rect width="760" height="340" fill="url(#grid2)"/>
+  <rect x="0.5" y="0.5" width="759" height="339" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 2 · THE GENERATOR DAG, AND THE STEP THAT RAN TOO EARLY</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">PARALLEL INSIDE EACH STAGE</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <text x="90" y="60" font-size="10" letter-spacing="2" fill="#c3d7ea" text-anchor="middle">STAGE A</text>
+  <rect x="20" y="72" width="140" height="40" fill="#21466a" stroke="#68839d"/>
+  <text x="90" y="89" font-size="10" fill="#e8f1fa" text-anchor="middle">metadata</text>
+  <text x="90" y="103" font-size="9" fill="#a7c0d9" text-anchor="middle">memos.json</text>
+
+  <text x="330" y="60" font-size="10" letter-spacing="2" fill="#c3d7ea" text-anchor="middle">STAGE B</text>
+  <rect x="240" y="72" width="180" height="34" fill="#21466a" stroke="#68839d"/>
+  <text x="330" y="93" font-size="10" fill="#e8f1fa" text-anchor="middle">menu &#8594; menu-sorted</text>
+  <rect x="240" y="116" width="180" height="34" fill="#21466a" stroke="#68839d"/>
+  <text x="330" y="137" font-size="10" fill="#e8f1fa" text-anchor="middle">redirects-map</text>
+  <rect x="240" y="160" width="180" height="34" fill="#21466a" stroke="#68839d"/>
+  <text x="330" y="181" font-size="10" fill="#e8f1fa" text-anchor="middle">backlinks</text>
+  <rect x="240" y="204" width="180" height="34" fill="none" stroke="#e8c56a" stroke-dasharray="5 4"/>
+  <text x="330" y="219" font-size="10" fill="#e8c56a" text-anchor="middle">directory-tree</text>
+  <text x="330" y="232" font-size="9" fill="#e8c56a" text-anchor="middle">ran here: inputs did not exist</text>
+
+  <text x="590" y="60" font-size="10" letter-spacing="2" fill="#c3d7ea" text-anchor="middle">STAGE C</text>
+  <rect x="500" y="72" width="180" height="34" fill="#21466a" stroke="#68839d"/>
+  <text x="590" y="93" font-size="10" fill="#e8f1fa" text-anchor="middle">shorten-map</text>
+  <rect x="500" y="116" width="180" height="34" fill="#21466a" stroke="#68839d"/>
+  <text x="590" y="137" font-size="10" fill="#e8f1fa" text-anchor="middle">static-paths</text>
+  <rect x="500" y="170" width="180" height="40" fill="#21466a" stroke="#e8c56a"/>
+  <text x="590" y="187" font-size="10" fill="#e8c56a" text-anchor="middle">directory-tree</text>
+  <text x="590" y="201" font-size="9" fill="#a7c0d9" text-anchor="middle">now after its inputs</text>
+
+  <line x1="160" y1="92" x2="234" y2="89" stroke="#c3d7ea" marker-end="url(#arr2)"/>
+  <line x1="160" y1="98" x2="234" y2="133" stroke="#c3d7ea" marker-end="url(#arr2)"/>
+  <line x1="160" y1="104" x2="234" y2="177" stroke="#c3d7ea" marker-end="url(#arr2)"/>
+  <line x1="420" y1="133" x2="494" y2="89" stroke="#c3d7ea" marker-end="url(#arr2)"/>
+  <line x1="420" y1="139" x2="494" y2="133" stroke="#c3d7ea" marker-end="url(#arr2)"/>
+  <line x1="590" y1="150" x2="590" y2="164" stroke="#e8c56a" marker-end="url(#arrg)"/>
+  <path d="M 420 221 C 460 221 470 240 500 205" fill="none" stroke="#e8c56a" stroke-dasharray="5 4" marker-end="url(#arrg)"/>
+  <text x="462" y="245" font-size="9" letter-spacing="1" fill="#e8c56a" text-anchor="middle">MOVED</text>
+  <line x1="410" y1="93" x2="430" y2="93" stroke="#385a7b"/>
+  <path d="M 420 93 C 470 93 460 170 502 176" fill="none" stroke="#68839d" stroke-dasharray="2 4"/>
+  <text x="447" y="168" font-size="9" fill="#6f8fb0">menu-sorted.json</text>
+
+  <line x1="0" y1="270" x2="760" y2="270" stroke="#385a7b"/>
+  <text x="14" y="292" font-size="10" letter-spacing="1" fill="#c3d7ea">THE FAILURE MODE</text>
+  <text x="14" y="310" font-size="10" fill="#a7c0d9">directory-tree read static-paths.json + menu-sorted.json a stage before they were written,</text>
+  <text x="14" y="326" font-size="10" fill="#a7c0d9">caught the ENOENT, printed "Done (0.8s)", and shipped a tree built from absent inputs. Every publish.</text>
+</svg>

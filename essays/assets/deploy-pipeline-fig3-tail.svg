@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid3" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr3" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+  </defs>
+  <rect width="760" height="340" fill="#12395f"/>
+  <rect width="760" height="340" fill="url(#grid3)"/>
+  <rect x="0.5" y="0.5" width="759" height="339" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 3 · THE DEPLOY TAIL: SUM() TO MAX()</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">SAME JOBS, NEW SHAPE</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <text x="190" y="60" font-size="10" letter-spacing="2" fill="#a7c0d9" text-anchor="middle">SERIAL &#183; 40s</text>
+  <rect x="110" y="72" width="160" height="30" fill="#21466a" stroke="#68839d"/>
+  <text x="190" y="91" font-size="10" fill="#e8f1fa" text-anchor="middle">static worker &#183; 17s</text>
+  <line x1="190" y1="102" x2="190" y2="114" stroke="#c3d7ea" marker-end="url(#arr3)"/>
+  <rect x="110" y="116" width="160" height="30" fill="#21466a" stroke="#68839d"/>
+  <text x="190" y="135" font-size="10" fill="#e8f1fa" text-anchor="middle">api worker &#183; 8s</text>
+  <line x1="190" y1="146" x2="190" y2="158" stroke="#c3d7ea" marker-end="url(#arr3)"/>
+  <rect x="110" y="160" width="160" height="30" fill="#21466a" stroke="#68839d"/>
+  <text x="190" y="179" font-size="10" fill="#e8f1fa" text-anchor="middle">r2 upload &#183; 4s</text>
+  <line x1="190" y1="190" x2="190" y2="202" stroke="#c3d7ea" marker-end="url(#arr3)"/>
+  <rect x="110" y="204" width="160" height="30" fill="#21466a" stroke="#68839d"/>
+  <text x="190" y="223" font-size="10" fill="#e8f1fa" text-anchor="middle">d1 migrate + seed &#183; 11s</text>
+  <text x="190" y="254" font-size="9" fill="#6f8fb0" text-anchor="middle">also: api deployed BEFORE migrations ran</text>
+
+  <line x1="360" y1="48" x2="360" y2="262" stroke="#385a7b"/>
+
+  <text x="560" y="60" font-size="10" letter-spacing="2" fill="#e8c56a" text-anchor="middle">PARALLEL &#183; 18s</text>
+  <rect x="420" y="72" width="130" height="30" fill="#21466a" stroke="#68839d"/>
+  <text x="485" y="86" font-size="10" fill="#e8f1fa" text-anchor="middle">static worker</text>
+  <text x="485" y="97" font-size="9" fill="#a7c0d9" text-anchor="middle">17s</text>
+  <rect x="420" y="116" width="130" height="30" fill="#21466a" stroke="#68839d"/>
+  <text x="485" y="130" font-size="10" fill="#e8f1fa" text-anchor="middle">r2 upload</text>
+  <text x="485" y="141" font-size="9" fill="#a7c0d9" text-anchor="middle">4s</text>
+  <rect x="420" y="160" width="130" height="42" fill="#21466a" stroke="#68839d"/>
+  <text x="485" y="176" font-size="10" fill="#e8f1fa" text-anchor="middle">d1 migrate &#8594; seed</text>
+  <text x="485" y="190" font-size="9" fill="#a7c0d9" text-anchor="middle">then api deploy</text>
+  <line x1="550" y1="181" x2="580" y2="181" stroke="#c3d7ea" marker-end="url(#arr3)"/>
+  <rect x="582" y="166" width="130" height="30" fill="#21466a" stroke="#e8c56a"/>
+  <text x="647" y="180" font-size="10" fill="#e8c56a" text-anchor="middle">api worker</text>
+  <text x="647" y="191" font-size="9" fill="#a7c0d9" text-anchor="middle">skipped if diff-clean</text>
+  <text x="566" y="223" font-size="9" fill="#a7c0d9">migrations first, code second:</text>
+  <text x="566" y="236" font-size="9" fill="#a7c0d9">new code never meets a missing table</text>
+  <rect x="420" y="72" width="292" height="130" fill="none" stroke="#e8c56a" stroke-dasharray="5 4" opacity="0.5"/>
+
+  <line x1="0" y1="272" x2="760" y2="272" stroke="#385a7b"/>
+  <text x="14" y="294" font-size="10" letter-spacing="1" fill="#c3d7ea">THE RULE</text>
+  <text x="14" y="312" font-size="10" fill="#a7c0d9">independent jobs pay max() when they run as background jobs with collected exit codes;</text>
+  <text x="14" y="328" font-size="10" fill="#a7c0d9">the only real edge is the data-plane order, and it points one way: migrate, then deploy.</text>
+</svg>
