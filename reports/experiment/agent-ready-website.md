@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Making our site AI-agent-ready, 50 to 93"
 description: We ran memo.d.foundation through is-agentic.com, read its rubric closely, and shipped the fixes that took the score from 50 to 93. Here is the rubric in full and what each fix actually did.
 date: 2026-08-24
