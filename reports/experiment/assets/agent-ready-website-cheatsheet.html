@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>AI-agent readiness cheat sheet</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {
+    --bg: #12395f;
+    --panel: #17416b;
+    --ink: #eaf1fb;
+    --sub: #b9cbe3;
+    --amber: #e8c56a;
+    --rule: rgba(232,197,106,0.35);
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: var(--bg);
+    color: var(--ink);
+  }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    padding: 28px 32px 20px;
+  }
+  .sheet {
+    max-width: 980px;
+    margin: 0 auto;
+  }
+  header.top {
+    border-bottom: 2px solid var(--amber);
+    padding-bottom: 10px;
+    margin-bottom: 14px;
+  }
+  h1 {
+    margin: 0 0 4px;
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+  }
+  .subtitle {
+    margin: 0;
+    font-size: 12.5px;
+    color: var(--sub);
+  }
+  .columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 22px;
+    align-items: start;
+  }
+  section.group {
+    background: var(--panel);
+    border: 1px solid var(--rule);
+    border-radius: 6px;
+    padding: 12px 14px 10px;
+  }
+  .group h2 {
+    margin: 0 0 2px;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--amber);
+    border-top: 2px solid var(--amber);
+    padding-top: 7px;
+    display: inline-block;
+  }
+  .group .hint {
+    display: block;
+    font-size: 10.5px;
+    color: var(--sub);
+    font-weight: 400;
+    text-transform: none;
+    letter-spacing: normal;
+    margin-bottom: 8px;
+  }
+  ul.checks {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  ul.checks li {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    padding: 5px 0;
+    border-top: 1px solid rgba(232,197,106,0.15);
+  }
+  ul.checks li:first-child { border-top: none; }
+  ul.checks input[type="checkbox"] {
+    flex: 0 0 auto;
+    width: 13px;
+    height: 13px;
+    margin: 2px 0 0;
+    appearance: none;
+    -webkit-appearance: none;
+    border: 1.5px solid var(--amber);
+    border-radius: 2px;
+    background: transparent;
+    accent-color: var(--amber);
+    cursor: pointer;
+  }
+  ul.checks input[type="checkbox"]:checked {
+    background: var(--amber);
+  }
+  ul.checks label {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 10.8px;
+    line-height: 1.35;
+    color: var(--ink);
+  }
+  footer.bottom {
+    margin-top: 16px;
+    padding-top: 8px;
+    border-top: 1px solid var(--rule);
+    font-size: 10.5px;
+    color: var(--sub);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  footer.bottom code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    background: rgba(232,197,106,0.12);
+    color: var(--amber);
+    padding: 1px 5px;
+    border-radius: 3px;
+  }
+
+  @media (max-width: 700px) {
+    .columns { grid-template-columns: 1fr; }
+  }
+
+  @page { size: A4; margin: 14mm; }
+
+  @media print {
+    :root {
+      --bg: #ffffff;
+      --panel: #ffffff;
+      --ink: #1f2d3d;
+      --sub: #45566b;
+      --amber: #c99a2e;
+      --rule: #12395f;
+    }
+    html, body { background: #ffffff; }
+    body { padding: 0; }
+    h1, .group h2 { color: #12395f; }
+    section.group {
+      border: 1px solid #c8cfda;
+      break-inside: avoid;
+    }
+    ul.checks li { break-inside: avoid; }
+    .columns { grid-template-columns: 1fr 1fr; gap: 14px; }
+    footer.bottom { color: #45566b; }
+    footer.bottom code { background: #f2ede0; color: #7a5b12; }
+  }
+</style>
+</head>
+<body>
+<div class="sheet">
+
+  <header class="top">
+    <h1>AI-agent readiness cheat sheet</h1>
+    <p class="subtitle">Run each line against your own domain</p>
+  </header>
+
+  <div class="columns">
+
+    <section class="group">
+      <h2>Essential<span class="hint">Fails here mean agents cannot read or trust your site</span></h2>
+      <ul class="checks">
+        <li><input type="checkbox" id="e1"><label for="e1">Homepage has an &lt;h1&gt; and 500+ chars of text in the raw HTML (curl, no JS)</label></li>
+        <li><input type="checkbox" id="e2"><label for="e2">An unknown path returns 404 or 410, never 200 with the app shell</label></li>
+        <li><input type="checkbox" id="e3"><label for="e3">The 404 body carries a short text pointer to /sitemap.xml and /llms.txt</label></li>
+        <li><input type="checkbox" id="e4"><label for="e4">API errors come back as JSON with a code and message, never text/plain or HTML</label></li>
+        <li><input type="checkbox" id="e5"><label for="e5">Accept: text/markdown returns markdown, with Vary: Accept on it and on the HTML</label></li>
+        <li><input type="checkbox" id="e6"><label for="e6">/openapi.json exists and parses as OpenAPI 3.x</label></li>
+      </ul>
+    </section>
+
+    <section class="group">
+      <h2>Recommended<span class="hint">Only if you expose an API or dev surface</span></h2>
+      <ul class="checks">
+        <li><input type="checkbox" id="r1"><label for="r1">/sitemap.xml lists every indexable URL</label></li>
+        <li><input type="checkbox" id="r2"><label for="r2">Every page has a self-referencing &lt;link rel="canonical"&gt;</label></li>
+        <li><input type="checkbox" id="r3"><label for="r3">Every page carries Organization JSON-LD (name, url, logo, sameAs, contactPoint, address)</label></li>
+        <li><input type="checkbox" id="r4"><label for="r4">&lt;html lang&gt;, og:image, og:type present</label></li>
+        <li><input type="checkbox" id="r5"><label for="r5">/llms.txt has a "when to use" section, not just a link index</label></li>
+        <li><input type="checkbox" id="r6"><label for="r6">The API base carries a version (/v1/) or a documented deprecation policy</label></li>
+        <li><input type="checkbox" id="r7"><label for="r7">API responses emit the IETF RateLimit headers, and 429 adds Retry-After</label></li>
+        <li><input type="checkbox" id="r8"><label for="r8">4xx and 5xx responses reference one consistent typed error schema</label></li>
+        <li><input type="checkbox" id="r9"><label for="r9">A /developers page states the auth reality plainly (no faked sandbox)</label></li>
+      </ul>
+    </section>
+
+  </div>
+
+  <footer class="bottom">
+    <span>memo.d.foundation/agent-ready-website</span>
+    <span><code>npx is-agentic &lt;domain&gt;</code></span>
+  </footer>
+
+</div>
+</body>
+</html>

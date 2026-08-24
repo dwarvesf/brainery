@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 344" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid5" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr5" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+  </defs>
+  <rect width="760" height="344" fill="#12395f"/>
+  <rect width="760" height="344" fill="url(#grid5)"/>
+  <rect x="0.5" y="0.5" width="759" height="343" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 5 · MARKDOWN CONTENT NEGOTIATION</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">ONE URL, TWO ANSWERS</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <text x="118" y="60" font-size="9" fill="#6f8fb0" text-anchor="middle">GET /playbook/design/ux-design</text>
+
+  <rect x="34" y="72" width="168" height="58" fill="#21466a" stroke="#68839d"/>
+  <text x="118" y="96" font-size="11" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">AI AGENT</text>
+  <text x="118" y="116" font-size="9" fill="#e8c56a" text-anchor="middle">Accept: text/markdown</text>
+
+  <rect x="34" y="208" width="168" height="58" fill="#21466a" stroke="#68839d"/>
+  <text x="118" y="232" font-size="11" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">BROWSER</text>
+  <text x="118" y="252" font-size="9" fill="#a7c0d9" text-anchor="middle">Accept: text/html</text>
+
+  <line x1="202" y1="104" x2="266" y2="150" stroke="#c3d7ea" marker-end="url(#arr5)"/>
+  <line x1="202" y1="236" x2="266" y2="188" stroke="#c3d7ea" marker-end="url(#arr5)"/>
+
+  <rect x="268" y="120" width="152" height="98" fill="#21466a" stroke="#68839d"/>
+  <text x="344" y="150" font-size="11" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">WORKER</text>
+  <text x="344" y="167" font-size="9.5" fill="#a7c0d9" text-anchor="middle">df-memo</text>
+  <text x="344" y="190" font-size="9" fill="#c3d7ea" text-anchor="middle">forks on the</text>
+  <text x="344" y="203" font-size="9" fill="#c3d7ea" text-anchor="middle">Accept header</text>
+
+  <path d="M 420 148 L 452 148 L 452 108 L 484 108" fill="none" stroke="#e8c56a" marker-end="url(#arr5)"/>
+  <text x="482" y="100" font-size="8.5" fill="#e8c56a" text-anchor="end">to the .md twin</text>
+  <path d="M 420 190 L 452 190 L 452 246 L 484 246" fill="none" stroke="#c3d7ea" marker-end="url(#arr5)"/>
+  <text x="452" y="228" font-size="8.5" fill="#6f8fb0" text-anchor="middle">to the page</text>
+
+  <rect x="486" y="74" width="250" height="76" fill="#21466a" stroke="#e8c56a"/>
+  <text x="500" y="96" font-size="9.5" fill="#e8f1fa">200  text/markdown; charset=utf-8</text>
+  <text x="500" y="114" font-size="9.5" fill="#e8c56a">vary: accept</text>
+  <text x="500" y="136" font-size="9" fill="#a7c0d9">served from /content/.../ux-design.md</text>
+
+  <rect x="486" y="208" width="250" height="76" fill="#21466a" stroke="#68839d"/>
+  <text x="500" y="230" font-size="9.5" fill="#e8f1fa">200  text/html; charset=utf-8</text>
+  <text x="500" y="248" font-size="9.5" fill="#c3d7ea">vary: accept</text>
+  <text x="500" y="270" font-size="9" fill="#a7c0d9">the server-rendered page</text>
+
+  <rect x="34" y="300" width="702" height="34" fill="none" stroke="#68839d"/>
+  <text x="48" y="321" font-size="8.5" fill="#c3d7ea">Vary: Accept makes a CDN cache the two variants apart, so a browser never receives the agent's markdown, nor the agent the HTML.</text>
+</svg>
