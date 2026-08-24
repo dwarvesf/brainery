@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid4b" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <style>
+      /* Motion is additive: the base attributes below already draw the full chart.
+         Only when the viewer has NOT asked to reduce motion do we hide-then-draw.
+         An engine that ignores CSS, or a reduced-motion viewer, sees the static end-state. */
+      @media (prefers-reduced-motion: no-preference) {
+        .line-blue  { stroke-dasharray: 360; stroke-dashoffset: 360; animation: draw 1.2s ease-out forwards; }
+        .line-amber { stroke-dasharray: 520; stroke-dashoffset: 520; animation: draw 1.5s ease-out 0.35s forwards; }
+        .mark       { opacity: 0; animation: appear 0.5s ease-out forwards; }
+        .mark-blue  { animation-delay: 0.9s; }
+        .mark-amber { animation-delay: 1.3s; }
+      }
+      @keyframes draw   { to { stroke-dashoffset: 0; } }
+      @keyframes appear { to { opacity: 1; } }
+    </style>
+  </defs>
+  <rect width="760" height="330" fill="#12395f"/>
+  <rect width="760" height="330" fill="url(#grid4b)"/>
+  <rect x="0.5" y="0.5" width="759" height="329" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 4 · THE SCORE CLIMB</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">SCORE OUT OF 100, PER PR ROUND</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <line x1="112" y1="50" x2="132" y2="50" stroke="#e8c56a" stroke-width="2"/>
+  <text x="138" y="53" font-size="9" fill="#e8f1fa">memo.d.foundation</text>
+  <line x1="300" y1="50" x2="320" y2="50" stroke="#a7c0d9" stroke-width="2"/>
+  <text x="326" y="53" font-size="9" fill="#e8f1fa">dwarves.foundation</text>
+  <line x1="500" y1="50" x2="520" y2="50" stroke="#6f8fb0" stroke-dasharray="4 3"/>
+  <text x="526" y="53" font-size="9" fill="#a7c0d9">reference sites</text>
+
+  <line x1="100" y1="64" x2="100" y2="264" stroke="#68839d"/>
+  <line x1="100" y1="264" x2="680" y2="264" stroke="#68839d"/>
+
+  <line x1="100" y1="64" x2="680" y2="64" stroke="#385a7b" stroke-opacity="0.6"/>
+  <line x1="100" y1="114" x2="680" y2="114" stroke="#385a7b" stroke-opacity="0.6"/>
+  <line x1="100" y1="164" x2="680" y2="164" stroke="#385a7b" stroke-opacity="0.6"/>
+  <line x1="100" y1="214" x2="680" y2="214" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="92" y="67" font-size="9" fill="#6f8fb0" text-anchor="end">100</text>
+  <text x="92" y="117" font-size="9" fill="#6f8fb0" text-anchor="end">75</text>
+  <text x="92" y="167" font-size="9" fill="#6f8fb0" text-anchor="end">50</text>
+  <text x="92" y="217" font-size="9" fill="#6f8fb0" text-anchor="end">25</text>
+  <text x="92" y="267" font-size="9" fill="#6f8fb0" text-anchor="end">0</text>
+
+  <line x1="100" y1="94" x2="680" y2="94" stroke="#6f8fb0" stroke-dasharray="4 3"/>
+  <text x="676" y="90" font-size="8.5" fill="#6f8fb0" text-anchor="end">VERCEL 85</text>
+  <line x1="100" y1="116" x2="680" y2="116" stroke="#6f8fb0" stroke-dasharray="4 3"/>
+  <text x="676" y="112" font-size="8.5" fill="#6f8fb0" text-anchor="end">STRIPE 74</text>
+  <line x1="100" y1="142" x2="680" y2="142" stroke="#6f8fb0" stroke-dasharray="4 3"/>
+  <text x="230" y="138" font-size="8.5" fill="#6f8fb0" text-anchor="end">GITHUB 61</text>
+
+  <polyline class="line-blue" points="150,160 320,106 490,94" fill="none" stroke="#a7c0d9" stroke-width="2"/>
+  <circle class="mark mark-blue" cx="150" cy="160" r="3.5" fill="#a7c0d9"/>
+  <circle class="mark mark-blue" cx="320" cy="106" r="3.5" fill="#a7c0d9"/>
+  <circle class="mark mark-blue" cx="490" cy="94" r="3.5" fill="#a7c0d9"/>
+  <text class="mark mark-blue" x="150" y="150" font-size="9.5" fill="#a7c0d9" text-anchor="middle">52</text>
+  <text class="mark mark-blue" x="320" y="98" font-size="9.5" fill="#a7c0d9" text-anchor="middle">79</text>
+  <text class="mark mark-blue" x="504" y="90" font-size="9.5" fill="#a7c0d9">85</text>
+
+  <polyline class="line-amber" points="150,164 320,140 490,122 655,82" fill="none" stroke="#e8c56a" stroke-width="2.5"/>
+  <circle class="mark mark-amber" cx="150" cy="164" r="4" fill="#e8c56a"/>
+  <circle class="mark mark-amber" cx="320" cy="140" r="4" fill="#e8c56a"/>
+  <circle class="mark mark-amber" cx="490" cy="122" r="4" fill="#e8c56a"/>
+  <circle class="mark mark-amber" cx="655" cy="82" r="4" fill="#e8c56a"/>
+  <text class="mark mark-amber" x="150" y="182" font-size="10" fill="#e8c56a" text-anchor="middle">50</text>
+  <text class="mark mark-amber" x="320" y="132" font-size="10" fill="#e8c56a" text-anchor="middle">62</text>
+  <text class="mark mark-amber" x="490" y="114" font-size="10" fill="#e8c56a" text-anchor="middle">71</text>
+  <text class="mark mark-amber" x="655" y="74" font-size="11" fill="#e8c56a" text-anchor="middle">91</text>
+
+  <text x="150" y="282" font-size="9" fill="#a7c0d9" text-anchor="middle">BASELINE</text>
+  <text x="320" y="282" font-size="9" fill="#a7c0d9" text-anchor="middle">ROUND 1</text>
+  <text x="490" y="282" font-size="9" fill="#a7c0d9" text-anchor="middle">ROUND 2</text>
+  <text x="655" y="282" font-size="9" fill="#a7c0d9" text-anchor="middle">ROUND 3</text>
+
+  <text x="100" y="308" font-size="9" fill="#6f8fb0">memo climbs across PRs #80, #82, #83, then #85, then #86; dwarves.foundation across web-engine #15, #16, #17.</text>
+</svg>
