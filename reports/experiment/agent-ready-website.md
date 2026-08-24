@@ -1,6 +1,6 @@
 ---
 draft: true
-title: "What an AI agent checks on your site: the is-agentic rubric and our climb from 50 to 93"
+title: "Making our site AI-agent-ready, 50 to 93"
 description: We ran memo.d.foundation through is-agentic.com, read its rubric closely, and shipped the fixes that took the score from 50 to 93. Here is the rubric in full and what each fix actually did.
 date: 2026-08-24
 authors:
@@ -125,7 +125,7 @@ _Fig. 5: content negotiation. One URL forks on the Accept header: an agent askin
 
 The worker maps a page route to its markdown twin under `/content/`, so `/playbook/design/ux-design` has a sibling at `/content/playbook/design/ux-design.md`, and the Accept header decides which one you get. The check that reads cleanest as evidence:
 
-```
+```shell
 $ curl -sI -H 'Accept: text/markdown' https://memo.d.foundation/playbook/design/ux-design
 HTTP/2 200
 content-type: text/markdown; charset=utf-8
@@ -143,7 +143,7 @@ One content-model bug hid inside this round. The vault's markdown wraps a JSX he
 
 **71 to 91.** The last jump was API maturity. We added `/api/v1/` URL versioning at the edge with the unversioned path kept as a permanent alias, a real per-client rate limiter that answers 429 with `Retry-After` and emits the IETF RateLimit headers, and a documented deprecation policy. We sized the limiter by counting, not guessing. A cold homepage fires eight API calls, so 600 per minute is about ten times what one active human generates and still stops a scraper.
 
-```
+```shell
 $ curl -sI https://memo.d.foundation/api/v1/tags
 HTTP/2 200
 ratelimit: "public-api";r=599;t=31
@@ -172,7 +172,7 @@ One more honesty note worth keeping. The scanner's own evidence carries a timest
 
 Two ways to run this yourself. The fast one is the scanner we used:
 
-```
+```shell
 $ npx is-agentic your-site.com
 ```
 
