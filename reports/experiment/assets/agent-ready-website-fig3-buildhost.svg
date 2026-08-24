@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 344" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid3" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr3" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+  </defs>
+  <rect width="760" height="344" fill="#12395f"/>
+  <rect width="760" height="344" fill="url(#grid3)"/>
+  <rect x="0.5" y="0.5" width="759" height="343" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 3 · BUILD VS HOST</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">THE PRODUCT DECIDES THE CEILING</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <text x="141" y="58" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="middle">BUILD · GITHUB ACTIONS</text>
+  <text x="576" y="58" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="middle">HOST · CLOUDFLARE</text>
+  <line x1="400" y1="46" x2="400" y2="264" stroke="#385a7b" stroke-dasharray="3 3"/>
+
+  <rect x="34" y="70" width="214" height="78" fill="#21466a" stroke="#68839d"/>
+  <text x="48" y="92" font-size="10" fill="#e8f1fa">foundation-apps apps/memo</text>
+  <text x="48" y="110" font-size="9" fill="#a7c0d9">plus the brainery vault</text>
+  <text x="48" y="136" font-size="9.5" fill="#c3d7ea">build a finished ./out</text>
+
+  <line x1="248" y1="109" x2="426" y2="109" stroke="#c3d7ea" marker-end="url(#arr3)"/>
+  <text x="337" y="101" font-size="8.5" fill="#6f8fb0" text-anchor="middle">hands over ./out</text>
+
+  <rect x="428" y="70" width="298" height="78" fill="#21466a" stroke="#e8c56a"/>
+  <text x="444" y="92" font-size="11" letter-spacing="1" fill="#e8c56a">WORKER  df-memo</text>
+  <text x="444" y="110" font-size="9" fill="#a7c0d9">assets + R2 + a service-bound API worker</text>
+  <text x="444" y="128" font-size="9" fill="#c3d7ea">runs code on every request, reaches every check</text>
+  <text x="712" y="142" font-size="9" fill="#6f8fb0" text-anchor="end">memo.d.foundation</text>
+
+  <rect x="34" y="174" width="214" height="78" fill="#21466a" stroke="#68839d"/>
+  <text x="48" y="196" font-size="10" fill="#e8f1fa">d.foundation content</text>
+  <text x="48" y="214" font-size="9" fill="#a7c0d9">plus web-engine renderer</text>
+  <text x="48" y="240" font-size="9.5" fill="#c3d7ea">build a finished ./out</text>
+
+  <line x1="248" y1="213" x2="426" y2="213" stroke="#c3d7ea" marker-end="url(#arr3)"/>
+  <text x="337" y="205" font-size="8.5" fill="#6f8fb0" text-anchor="middle">hands over ./out</text>
+
+  <rect x="428" y="174" width="298" height="78" fill="#21466a" stroke="#68839d"/>
+  <text x="444" y="196" font-size="11" letter-spacing="1" fill="#e8f1fa">PAGES  d-foundation-web</text>
+  <text x="444" y="214" font-size="9" fill="#a7c0d9">static files, plus a <tspan fill="#e8c56a">_worker.js</tspan> you drop in</text>
+  <text x="444" y="232" font-size="9" fill="#c3d7ea">static by default, request-time code via _worker.js</text>
+  <text x="712" y="246" font-size="9" fill="#6f8fb0" text-anchor="end">dwarves.foundation</text>
+
+  <rect x="34" y="272" width="692" height="54" fill="none" stroke="#68839d"/>
+  <text x="48" y="293" font-size="9.5" fill="#c3d7ea">Cloudflare never sees a repo. Half the essential checks (a real 404 body, markdown negotiation) need code at request time.</text>
+  <text x="48" y="311" font-size="9.5" fill="#c3d7ea">A Worker runs that code natively. Pages runs the same asset binding through a _worker.js. Same reach, one extra file.</text>
+</svg>

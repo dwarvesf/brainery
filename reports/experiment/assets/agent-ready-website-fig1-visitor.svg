@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid1" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr1" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+  </defs>
+  <rect width="760" height="340" fill="#12395f"/>
+  <rect width="760" height="340" fill="url(#grid1)"/>
+  <rect x="0.5" y="0.5" width="759" height="339" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 1 · WHAT AN AGENT DOES ON ARRIVAL</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">THE NEW KIND OF VISITOR</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <rect x="34" y="96" width="180" height="128" fill="#21466a" stroke="#68839d"/>
+  <text x="124" y="122" font-size="12" letter-spacing="2" fill="#e8f1fa" text-anchor="middle">AI AGENT</text>
+  <text x="50" y="150" font-size="9.5" fill="#a7c0d9">runs no JavaScript</text>
+  <text x="50" y="172" font-size="9.5" fill="#a7c0d9">about a 1 second budget</text>
+  <text x="50" y="194" font-size="9.5" fill="#a7c0d9">reads raw HTML only</text>
+  <text x="50" y="214" font-size="9.5" fill="#a7c0d9">wants text, status, links</text>
+
+  <line x1="214" y1="160" x2="248" y2="160" stroke="#c3d7ea" marker-end="url(#arr1)"/>
+  <text x="231" y="150" font-size="9" fill="#6f8fb0" text-anchor="middle">GET</text>
+
+  <rect x="250" y="102" width="176" height="116" fill="#21466a" stroke="#68839d"/>
+  <text x="338" y="128" font-size="11" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">PAGE RESPONSE</text>
+  <text x="266" y="154" font-size="9.5" fill="#a7c0d9">the raw HTML bytes</text>
+  <text x="266" y="176" font-size="9.5" fill="#a7c0d9">a status code</text>
+  <text x="266" y="198" font-size="9.5" fill="#a7c0d9">no scripts ever run</text>
+
+  <path d="M 426 138 L 470 138 L 470 92 L 512 92" fill="none" stroke="#c3d7ea" marker-end="url(#arr1)"/>
+  <path d="M 426 182 L 470 182 L 470 248 L 512 248" fill="none" stroke="#e8c56a" marker-end="url(#arr1)"/>
+
+  <rect x="514" y="60" width="212" height="64" fill="#21466a" stroke="#68839d"/>
+  <text x="620" y="82" font-size="10" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">H1 PLUS REAL TEXT</text>
+  <text x="620" y="102" font-size="9" fill="#a7c0d9" text-anchor="middle">reads the answer, follows the</text>
+  <text x="620" y="115" font-size="9" fill="#a7c0d9" text-anchor="middle">sitemap and llms.txt, succeeds</text>
+
+  <rect x="514" y="216" width="212" height="64" fill="#21466a" stroke="#e8c56a"/>
+  <text x="620" y="238" font-size="10" letter-spacing="1" fill="#e8c56a" text-anchor="middle">EMPTY JS SHELL</text>
+  <text x="620" y="258" font-size="9" fill="#c3d7ea" text-anchor="middle">content hides behind JavaScript,</text>
+  <text x="620" y="271" font-size="9" fill="#c3d7ea" text-anchor="middle">the budget expires, gives up</text>
+
+  <text x="620" y="140" font-size="9" fill="#6f8fb0" text-anchor="middle">the outcome we want</text>
+  <text x="620" y="300" font-size="9" fill="#6f8fb0" text-anchor="middle">the outcome we shipped fixes for</text>
+</svg>

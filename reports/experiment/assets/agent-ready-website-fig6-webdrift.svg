@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid6" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr6" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+  </defs>
+  <rect width="760" height="320" fill="#12395f"/>
+  <rect width="760" height="320" fill="url(#grid6)"/>
+  <rect x="0.5" y="0.5" width="759" height="319" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 6 · THE AUDIT LOOP WE KEPT</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">RUN ON DEMAND</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <!-- input -->
+  <rect x="24" y="70" width="150" height="70" fill="#21466a" stroke="#68839d"/>
+  <text x="99" y="98" font-size="11" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">WEB_DRIFT_SITES</text>
+  <text x="99" y="118" font-size="9" fill="#a7c0d9" text-anchor="middle">the sites a repo</text>
+  <text x="99" y="130" font-size="9" fill="#a7c0d9" text-anchor="middle">declares it owns</text>
+
+  <line x1="174" y1="105" x2="214" y2="105" stroke="#c3d7ea" marker-end="url(#arr6)"/>
+
+  <!-- probe -->
+  <rect x="216" y="58" width="300" height="94" fill="none" stroke="#68839d"/>
+  <text x="366" y="78" font-size="11" letter-spacing="2" fill="#e8f1fa" text-anchor="middle">web-drift · lib/webcheck</text>
+  <rect x="230" y="90" width="86" height="46" fill="#21466a" stroke="#68839d"/>
+  <text x="273" y="112" font-size="10" fill="#e8f1fa" text-anchor="middle">page</text>
+  <text x="273" y="126" font-size="8" fill="#6f8fb0" text-anchor="middle">no-JS, h1</text>
+  <rect x="323" y="90" width="86" height="46" fill="#21466a" stroke="#68839d"/>
+  <text x="366" y="112" font-size="10" fill="#e8f1fa" text-anchor="middle">groundwork</text>
+  <text x="366" y="126" font-size="8" fill="#6f8fb0" text-anchor="middle">404, llms</text>
+  <rect x="416" y="90" width="86" height="46" fill="#21466a" stroke="#68839d"/>
+  <text x="459" y="112" font-size="10" fill="#e8f1fa" text-anchor="middle">API</text>
+  <text x="459" y="126" font-size="8" fill="#6f8fb0" text-anchor="middle">spec, 429</text>
+
+  <line x1="516" y1="105" x2="556" y2="105" stroke="#c3d7ea" marker-end="url(#arr6)"/>
+
+  <!-- verdict -->
+  <rect x="558" y="70" width="178" height="70" fill="#21466a" stroke="#e8c56a"/>
+  <text x="647" y="98" font-size="11" letter-spacing="1" fill="#e8c56a" text-anchor="middle">verdict + evidence</text>
+  <text x="647" y="118" font-size="9" fill="#a7c0d9" text-anchor="middle">every check, pass or</text>
+  <text x="647" y="130" font-size="9" fill="#a7c0d9" text-anchor="middle">fail, with the proof</text>
+
+  <!-- file rows back -->
+  <path d="M 647 140 L 647 200 L 366 200" fill="none" stroke="#c3d7ea" marker-end="url(#arr6)"/>
+  <rect x="216" y="176" width="300" height="48" fill="#21466a" stroke="#68839d"/>
+  <text x="366" y="198" font-size="10" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">each failing check becomes a backlog row</text>
+  <text x="366" y="214" font-size="9" fill="#a7c0d9" text-anchor="middle">in the repo that owns the site's source</text>
+
+  <line x1="216" y1="200" x2="150" y2="200" stroke="#385a7b"/>
+  <path d="M 150 200 L 99 200 L 99 140" fill="none" stroke="#6f8fb0" stroke-dasharray="3 3" marker-end="url(#arr6)"/>
+  <text x="112" y="176" font-size="8" letter-spacing="1" fill="#6f8fb0">fix, then re-run</text>
+
+  <line x1="0" y1="250" x2="760" y2="250" stroke="#385a7b"/>
+  <text x="14" y="272" font-size="9" fill="#a7c0d9">The repo holds no website source, so the loop never edits a site. It reads, it grades, it files work.</text>
+  <text x="14" y="290" font-size="9" fill="#6f8fb0">A check closes only when a later run shows it green, so a site can't quietly drift back down.</text>
+</svg>

@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid2b" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="360" fill="#12395f"/>
+  <rect width="760" height="360" fill="url(#grid2b)"/>
+  <rect x="0.5" y="0.5" width="759" height="359" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 2 · THE RUBRIC</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">THREE POOLS PLUS AN ESCAPE HATCH</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <text x="30" y="60" font-size="11" letter-spacing="1" fill="#e8f1fa">SCORE / 100</text>
+  <text x="200" y="60" font-size="9.5" fill="#a7c0d9">the two scored pools set the denominator, the bonus adds on top</text>
+
+  <rect x="30" y="76" width="166" height="218" fill="#21466a" stroke="#68839d"/>
+  <text x="113" y="100" font-size="11" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">ESSENTIAL</text>
+  <text x="113" y="128" font-size="20" fill="#e8f1fa" text-anchor="middle">80</text>
+  <text x="113" y="146" font-size="9" fill="#6f8fb0" text-anchor="middle">always applies</text>
+  <line x1="44" y1="158" x2="182" y2="158" stroke="#385a7b"/>
+  <text x="44" y="176" font-size="8.5" fill="#a7c0d9">content-no-js</text>
+  <text x="44" y="192" font-size="8.5" fill="#a7c0d9">agent-friendly-404</text>
+  <text x="44" y="208" font-size="8.5" fill="#a7c0d9">json-error-responses</text>
+  <text x="44" y="224" font-size="8.5" fill="#a7c0d9">markdown-negotiation-vary</text>
+  <text x="44" y="240" font-size="8.5" fill="#a7c0d9">openapi-spec</text>
+  <text x="44" y="256" font-size="8.5" fill="#a7c0d9">oauth-support</text>
+  <text x="44" y="272" font-size="8.5" fill="#a7c0d9">scoped-permissions</text>
+
+  <rect x="206" y="76" width="166" height="218" fill="#21466a" stroke="#68839d"/>
+  <text x="289" y="100" font-size="11" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">RECOMMENDED</text>
+  <text x="289" y="128" font-size="20" fill="#e8f1fa" text-anchor="middle">20</text>
+  <text x="289" y="146" font-size="9" fill="#6f8fb0" text-anchor="middle">only with a dev surface</text>
+  <line x1="220" y1="158" x2="358" y2="158" stroke="#385a7b"/>
+  <text x="220" y="176" font-size="8.5" fill="#a7c0d9">sitemap</text>
+  <text x="220" y="192" font-size="8.5" fill="#a7c0d9">json-ld, org-schema</text>
+  <text x="220" y="208" font-size="8.5" fill="#a7c0d9">metadata-completeness</text>
+  <text x="220" y="224" font-size="8.5" fill="#a7c0d9">rate-limit-headers</text>
+  <text x="220" y="240" font-size="8.5" fill="#a7c0d9">api-versioning-policy</text>
+  <text x="220" y="256" font-size="8.5" fill="#a7c0d9">developer-portal</text>
+  <text x="220" y="272" font-size="8.5" fill="#a7c0d9">mcp-server, cli-tool</text>
+
+  <rect x="382" y="76" width="166" height="218" fill="#21466a" stroke="#68839d"/>
+  <text x="465" y="100" font-size="11" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">BONUS</text>
+  <text x="465" y="128" font-size="20" fill="#e8f1fa" text-anchor="middle">+5</text>
+  <text x="465" y="146" font-size="9" fill="#6f8fb0" text-anchor="middle">on top of 100</text>
+  <line x1="396" y1="158" x2="534" y2="158" stroke="#385a7b"/>
+  <text x="465" y="186" font-size="9" fill="#a7c0d9" text-anchor="middle">emerging agent</text>
+  <text x="465" y="200" font-size="9" fill="#a7c0d9" text-anchor="middle">formats</text>
+  <text x="465" y="234" font-size="9" fill="#a7c0d9" text-anchor="middle">absence never</text>
+  <text x="465" y="248" font-size="9" fill="#a7c0d9" text-anchor="middle">penalizes you</text>
+
+  <rect x="558" y="76" width="172" height="218" fill="none" stroke="#e8c56a" stroke-dasharray="4 3"/>
+  <text x="644" y="100" font-size="11" letter-spacing="1" fill="#e8c56a" text-anchor="middle">EXCLUDED</text>
+  <text x="644" y="128" font-size="18" fill="#e8c56a" text-anchor="middle">n/a</text>
+  <text x="644" y="146" font-size="9" fill="#6f8fb0" text-anchor="middle">not scored at all</text>
+  <line x1="572" y1="158" x2="716" y2="158" stroke="#385a7b"/>
+  <text x="644" y="182" font-size="9" fill="#c3d7ea" text-anchor="middle">a check that does</text>
+  <text x="644" y="196" font-size="9" fill="#c3d7ea" text-anchor="middle">not apply drops OUT</text>
+  <text x="644" y="210" font-size="9" fill="#c3d7ea" text-anchor="middle">of the denominator</text>
+  <text x="644" y="240" font-size="9" fill="#c3d7ea" text-anchor="middle">a brochure site is</text>
+  <text x="644" y="254" font-size="9" fill="#c3d7ea" text-anchor="middle">never punished for</text>
+  <text x="644" y="268" font-size="9" fill="#c3d7ea" text-anchor="middle">an API it never had</text>
+
+  <text x="30" y="320" font-size="9.5" fill="#6f8fb0">score =</text>
+  <text x="86" y="320" font-size="9.5" fill="#e8f1fa">points earned</text>
+  <text x="86" y="336" font-size="9.5" fill="#a7c0d9">applicable essential + applicable recommended</text>
+  <line x1="82" y1="325" x2="352" y2="325" stroke="#385a7b"/>
+  <text x="380" y="328" font-size="9.5" fill="#a7c0d9">then the bonus is added, and partial checks earn proportional credit</text>
+</svg>
