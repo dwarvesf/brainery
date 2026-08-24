@@ -34,7 +34,7 @@
   <text x="344" y="203" font-size="9" fill="#c3d7ea" text-anchor="middle">Accept header</text>
 
   <path d="M 420 148 L 452 148 L 452 108 L 484 108" fill="none" stroke="#e8c56a" marker-end="url(#arr5)"/>
-  <text x="452" y="100" font-size="8.5" fill="#e8c56a" text-anchor="middle">to the .md twin</text>
+  <text x="482" y="100" font-size="8.5" fill="#e8c56a" text-anchor="end">to the .md twin</text>
   <path d="M 420 190 L 452 190 L 452 246 L 484 246" fill="none" stroke="#c3d7ea" marker-end="url(#arr5)"/>
   <text x="452" y="228" font-size="8.5" fill="#6f8fb0" text-anchor="middle">to the page</text>
 
@@ -49,5 +49,5 @@
   <text x="500" y="270" font-size="9" fill="#a7c0d9">the server-rendered page</text>
 
   <rect x="34" y="300" width="702" height="34" fill="none" stroke="#68839d"/>
-  <text x="48" y="321" font-size="9.5" fill="#c3d7ea">Vary: Accept makes a CDN cache the two variants apart, so a browser never receives the agent's markdown, nor the agent the HTML.</text>
+  <text x="48" y="321" font-size="8.5" fill="#c3d7ea">Vary: Accept makes a CDN cache the two variants apart, so a browser never receives the agent's markdown, nor the agent the HTML.</text>
 </svg>

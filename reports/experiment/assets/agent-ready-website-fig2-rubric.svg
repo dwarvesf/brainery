@@ -66,5 +66,5 @@
   <text x="86" y="320" font-size="9.5" fill="#e8f1fa">points earned</text>
   <text x="86" y="336" font-size="9.5" fill="#a7c0d9">applicable essential + applicable recommended</text>
   <line x1="82" y1="325" x2="352" y2="325" stroke="#385a7b"/>
-  <text x="380" y="328" font-size="9.5" fill="#a7c0d9">then the bonus is added, and partial checks earn proportional credit</text>
+  <text x="380" y="328" font-size="8.5" fill="#a7c0d9">then the bonus is added, and partial checks earn proportional credit</text>
 </svg>
