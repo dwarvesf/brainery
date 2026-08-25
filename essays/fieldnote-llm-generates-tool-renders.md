@@ -13,8 +13,6 @@ tags:
 slug: fieldnote-llm-generates-tool-renders
 ---
 
-# We stopped asking the model to draw
-
 ![The LLM generates, the tool renders: a topic feeds the LLM, which picks an archetype and writes draw() JS; fieldnote renders it deterministically to SVG or PNG; a taxonomy feeds the archetype choice.](assets/fieldnote-fig1-pipeline.svg)
 
 _Fig. 1. The split that made it work. The model writes the drawing; the tool only renders it._
