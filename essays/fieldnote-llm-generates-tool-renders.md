@@ -1,6 +1,6 @@
 ---
 draft: true
-title: "We stopped asking the model to draw"
+title: "We stopped asking AI to draw"
 description: "Building fieldnote, the diagram tool for our memo posts, taught us to split the job: the LLM writes the drawing, a dumb tool renders it. This is the technical account of that split, and the receipts that made it hold."
 date: 2026-08-25
 authors:
