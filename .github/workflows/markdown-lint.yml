@@ -71,7 +71,9 @@ jobs:
           # Pass any environment variables needed by the linting script
           GITHUB_ACTIONS: true
           REPO_NAME: vault
-          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          CF_AI_GATEWAY_URL: ${{ secrets.CF_AI_GATEWAY_URL }}
+          CF_AIG_TOKEN: ${{ secrets.CF_AIG_TOKEN }}
+          CF_AIG_MODEL: ${{ vars.CF_AIG_MODEL }}
           GITHUB_EVENT_NAME: ${{ github.event_name }}
           CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
 
