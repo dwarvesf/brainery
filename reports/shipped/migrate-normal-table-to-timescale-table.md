@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Migrate regular tables into TimescaleDB hypertables to improve query performance
 description: How do we migrate normal table to timescale table to optimized data storage
 date: 2025-01-15

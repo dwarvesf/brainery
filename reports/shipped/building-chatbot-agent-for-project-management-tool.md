@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Building chatbot agent to streamline project management
 description: A technical case study detailing the implementation of an AI chatbot agent in a project management platform. Learn how the team leveraged LangChain, LangGraph, and GPT-4 to build a multi-agent system using the supervisor-worker pattern.
 date: 2024-11-21

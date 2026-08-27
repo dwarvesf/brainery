@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Automating static site deployment
 description: "Learn about the automated deployment workflow for the Memo platform, powered by GitHub Actions for seamless publishing and integration."
 date: 2025-05-20

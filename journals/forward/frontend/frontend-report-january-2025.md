@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Frontend report January 2025
 short_title: January 2025
 description: "This January 2025 report explores key frontend advancements, including React 19's Actions, Next.js 15.1's Deno Deploy support, and innovative tools like Transformers.js for AI. Discover trending technologies, best practices, and expert commentary shaping the future of frontend development."

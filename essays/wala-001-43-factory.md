@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "#1 Coffee craftsmanship lessons for software engineering"
 short_title: 43 Factory
 description: Our visit to 43 Factory coffee shop in Danang revealed surprising parallels between coffee craftsmanship and software engineering. We discovered valuable insights about talent management, quality delivery, and continuous learning that directly apply to our tech practices.

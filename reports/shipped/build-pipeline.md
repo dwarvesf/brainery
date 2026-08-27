@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: The Memo build and content quality pipeline
 description: "Understand the automated processes and tools that transform Markdown content into the published Memo website, ensuring content quality and consistency."
 date: 2025-05-20

@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Building a data archive and recovery strategy for high-volume trading system
 description: A guide to implementing data archival and recovery strategies for high-volume transactional application.
 date: 2024-12-13

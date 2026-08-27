@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Market report August 2026
 short_title: August 2026
 description: "The August 2026 market report covers the Elixir ecosystem: v1.20 gradual typing, LiveView 1.2, the BEAM as an agent runtime, the durability and data stack, embedded and local-first, and the adoption and security signals, with data to 2026-08-15."
