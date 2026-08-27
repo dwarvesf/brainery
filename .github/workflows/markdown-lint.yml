@@ -4,7 +4,11 @@ name: Markdown-lint Check
 # Runs markdown linting using script from: https://memo.d.foundation/tools/ci-lint.js
 
 on:
-  workflow_dispatch: # Manual trigger only
+  pull_request:
+    paths:
+      - '**/*.md'
+      - '**/*.mdx'
+  workflow_dispatch: {}
 
 concurrency:
   group: ${{ github.repository }}-linting-workflow
