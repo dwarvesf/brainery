@@ -133,11 +133,19 @@ A push to `main` here dispatches both, content-only, so a memo post publishes wi
 
 ## Cloning this repo
 
-The vault carries heavy media; clone it thin:
+Text only, no submodules, a plain clone is small:
 
 ```bash
-git clone --filter=blob:none --recurse-submodules --shallow-submodules git@github.com:dwarvesf/brainery.git
+git clone git@github.com:dwarvesf/brainery.git
 ```
+
+`playbook/`, `handbook/`, `research/` and `careers/` were git submodules
+until 2026-08-27. They are now plain directories in this repo; edit them
+here. The former satellite repos (`dwarvesf/playbook`, `handbook`,
+`research`, `WeAreHiring`, `radar`) are archived read-only; their
+pre-squash history lives in the private `dwarvesf/brainery-archive`
+(branches `archive/<name>/*`). The 2023 tech radar was dropped from the
+site in the same move.
 
 History note: on 2026-08-21 the repo's history was squashed to a single
 root commit to cut clone weight (the old pack carried ~660MB of deleted
