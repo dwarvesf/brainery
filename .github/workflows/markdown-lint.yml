@@ -82,7 +82,8 @@ jobs:
           CHANGED_FILES: ${{ steps.changed-files.outputs.all_changed_files }}
 
       - name: Commit and push changes
-        if: ${{ github.event_name == 'pull_request' && steps.markdown-lint.outputs.fixed > 0 }}
+        # Same-repo PRs only: a fork's GITHUB_TOKEN cannot push to the fork branch.
+        if: ${{ github.event_name == 'pull_request' && steps.markdown-lint.outputs.fixed > 0 && github.event.pull_request.head.repo.full_name == github.repository }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
@@ -97,7 +98,8 @@ jobs:
           fi
 
       - name: Add PR comment with formatting summary
-        if: ${{ github.event_name == 'pull_request' && steps.markdown-lint.outputs.fixed > 0 }}
+        # Same-repo PRs only: a fork's GITHUB_TOKEN cannot push to the fork branch.
+        if: ${{ github.event_name == 'pull_request' && steps.markdown-lint.outputs.fixed > 0 && github.event.pull_request.head.repo.full_name == github.repository }}
         uses: marocchino/sticky-pull-request-comment@v2
         with:
           header: "formatting-summary"
