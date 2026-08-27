@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Markdown lint
 description: "An exploration of how Dwarves Foundation automates Markdown quality using modular linting, generative formatting, and cross-repo CI/CD integration."
 date: 2025-08-13

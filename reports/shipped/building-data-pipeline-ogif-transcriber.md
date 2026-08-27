@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Building data pipeline for OGIF transcriber
 description: A technical case study of creating an automated system that downloads videos, processes audio, and generates transcripts using AI services like Groq and OpenAI.
 date: 2024-11-21

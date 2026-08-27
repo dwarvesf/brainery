@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "What's new in May 2025"
 description: "In May, we rolled out Memo’s on-chain publishing with optional NFT minting, tested internal tooling like MCP Playbook in real usage, and turned consulting projects into spaces to refine our workflow. Prompt DB and Observer Log matured into working systems, while Forward Engineering documented hands-on experiments across the team."
 date: 2025-06-04

@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: DuckDB as intermediary storage
 description: "Learn how we use DuckDB as a flexible and efficient intermediary storage solution in the Memo content pipeline."
 date: 2025-05-20

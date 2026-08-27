@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "What's new in April 2025"
 description: "In April, we reorganized Memo into a clearer knowledge hub, made internal tools easier to adopt with MCP documentation, and aligned consulting delivery with hiring signals. Our shift to Vietnamese content on social media sparked strong engagement, while weekly team efforts continued to surface insights through build logs and learning highlights."
 date: 2025-05-12

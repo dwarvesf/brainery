@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Setup centralized monitoring system for Hedge Foundation trading platform
 description: A technical case study for implementing centralized monitoring for a trading platform using Grafana and Prometheus, focusing on real-time alerts, data integrity, and resource optimization to prevent financial losses.
 date: 2024-11-21

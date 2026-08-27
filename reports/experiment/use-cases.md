@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Building use-cases
 description: Building systems that actually learn and get smarter over time is hard, facing challenges with traditional databases and LLMs. This post outlines an approach to building a true second brain that continuously learns, generates insight, and remembers it through an append-only log and flexible data structures.
 date: 2025-05-07

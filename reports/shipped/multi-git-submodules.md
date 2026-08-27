@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Managing content with Git submodules
 description: "Learn how we use Git submodules to link and manage multiple content repositories in the Memo platform."
 date: 2025-05-20

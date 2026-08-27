@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Onchain permanent storage
 description: "Explore how the Memo platform utilizes Arweave for permanent content storage and blockchain integration for NFT minting."
 date: 2025-05-20
