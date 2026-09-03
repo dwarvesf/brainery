@@ -1,5 +1,5 @@
 ---
-title: "Three wrong CSS fixes, then a CDP loop: debugging a title that would not fill its column"
+title: "Three wrong css fixes, then a CDP loop: debugging a title that would not fill its column"
 description: "An agent shipped three stylesheet commits that changed nothing on screen. One 13-width loop over the Chrome DevTools Protocol found the real cause in a table. The method, the probe, the numbers, and what still went wrong."
 date: 2026-09-03
 toc: true
@@ -71,16 +71,16 @@ The probe is the whole trick. `getBoundingClientRect` on the heading gives the b
 
 The first run, with `pretty` already applied:
 
-| viewport | column | h1 right | p right | widest line right | gap | lines | font |
-|---|---|---|---|---|---|---|---|
-| 600 | 568 | 584 | 584 | 583 | 1 | 2 | 32px |
-| 768 | 663 | 716 | 716 | 550 | 165 | 3 | 38.4px |
-| 900 | 663 | 782 | 782 | 637 | 145 | 3 | 40px |
-| 1100 | 663 | 882 | 882 | 737 | 145 | 3 | 40px |
-| 1280 | 675 | 1005 | 1005 | 848 | 157 | 3 | 40px |
-| 1440 | 675 | 1085 | 1085 | 928 | 157 | 3 | 40px |
-| 1548 | 710 | 1127 | 1121 | 1125 | 1 | 2 | 40px |
-| 1920 | 710 | 1313 | 1307 | 1311 | 1 | 2 | 40px |
+| viewport | column | h1 right | p right | widest line right | gap | lines | font   |
+| -------- | ------ | -------- | ------- | ----------------- | --- | ----- | ------ |
+| 600      | 568    | 584      | 584     | 583               | 1   | 2     | 32px   |
+| 768      | 663    | 716      | 716     | 550               | 165 | 3     | 38.4px |
+| 900      | 663    | 782      | 782     | 637               | 145 | 3     | 40px   |
+| 1100     | 663    | 882      | 882     | 737               | 145 | 3     | 40px   |
+| 1280     | 675    | 1005     | 1005    | 848               | 157 | 3     | 40px   |
+| 1440     | 675    | 1085     | 1085    | 928               | 157 | 3     | 40px   |
+| 1548     | 710    | 1127     | 1121    | 1125              | 1   | 2     | 40px   |
+| 1920     | 710    | 1313     | 1307    | 1311              | 1   | 2     | 40px   |
 
 Three hypotheses died in one table. The h1's right edge equals the paragraph's right edge at every width, so there is no padding. `text-wrap` reads `pretty` and the gap is unchanged, so the wrap mode was never the cause. And the column is 663px from 768 all the way to 1440; it only grows to 710px past 1548. That constant is the bug. At 40px this title's words break into three lines of about 500px, and the next word on each line is too long to fit. The rag is intrinsic to the font size in that column. No wrap mode moves it.
 
@@ -89,12 +89,12 @@ Three hypotheses died in one table. The h1's right edge equals the paragraph's r
 Once the cause is a number, the fix is a second loop. Same page, same probe, but now the font size is the axis, at a fixed 663px column:
 
 | font-size | lines | gap |
-|---|---|---|
-| 40px | 3 | 145 |
-| 38px | 3 | 171 |
-| 36px | 2 | 12 |
-| 35px | 2 | 30 |
-| 32px | 2 | 3 |
+| --------- | ----- | --- |
+| 40px      | 3     | 145 |
+| 38px      | 3     | 171 |
+| 36px      | 2     | 12  |
+| 35px      | 2     | 30  |
+| 32px      | 2     | 3   |
 
 At 36px the title packs two lines with a 12px rag. At 675px (the 1280 to 1440 band) 38px already fits. So the size has to follow the column, not the viewport, which is what a container query is for:
 
@@ -109,13 +109,13 @@ At 36px the title packs two lines with a 12px rag. At 675px (the 1280 to 1440 ba
 
 _Fig. 3: The title's right-hand gap by viewport width. Before, a 145 to 157px plateau across the fixed-column band; after, 16px everywhere from 600 up._
 
-| viewport | column | font | lines | gap |
-|---|---|---|---|---|
-| 390 | 358 | 32px | 4 | 9 |
-| 600 | 568 | 32px | 2 | 1 |
-| 768 to 1200 | 663 | 35.8px | 2 | 16 |
-| 1280 to 1440 | 675 | 36.5px | 2 | 16 |
-| 1548 to 1920 | 710 | 38.3px | 2 | 17 |
+| viewport     | column | font   | lines | gap |
+| ------------ | ------ | ------ | ----- | --- |
+| 390          | 358    | 32px   | 4     | 9   |
+| 600          | 568    | 32px   | 2     | 1   |
+| 768 to 1200  | 663    | 35.8px | 2     | 16  |
+| 1280 to 1440 | 675    | 36.5px | 2     | 16  |
+| 1548 to 1920 | 710    | 38.3px | 2     | 17  |
 
 That second table went into the pull request's proof-of-done as the green run, with the first table as the negative control. The reviewer does not have to trust a screenshot.
 
