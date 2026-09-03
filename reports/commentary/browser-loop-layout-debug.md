@@ -1,5 +1,5 @@
 ---
-title: "The debug loop: make the agent measure the browser before it touches the CSS"
+title: "the debug loop: make the agent measure the browser before it touches the css"
 description: "A repeatable loop for AI-driven UI debugging: name the metric, name the axis, drive a real browser over CDP, read the DOM into a table, kill theories, sweep the suspect, fix, re-run. With the probe code, the setup, the failure modes, and one worked case where three plausible CSS commits had changed nothing."
 date: 2026-09-03
 toc: true
