@@ -1,5 +1,5 @@
 ---
-title: "The debug loop: make the agent measure the browser before it touches the CSS"
+title: "the debug loop: make the agent measure the browser before it touches the css"
 description: "A repeatable loop for AI-driven UI debugging: name the metric, name the axis, drive a real browser over CDP, read the DOM into a table, kill theories, sweep the suspect, fix, re-run. With the probe code, the setup, the failure modes, and one worked case where three plausible CSS commits had changed nothing."
 date: 2026-09-03
 toc: true
@@ -97,35 +97,35 @@ for (const px of [40, 38, 36, 35, 34, 33, 32, 30]) {
 
 The complaint: the memo title looked inset on the right at some window sizes, fine at others. Three commits went in before the loop.
 
-| attempt | theory | why it changed nothing |
-|---|---|---|
-| pad the blockquote rule in `markdown.css` | more padding | a second stylesheet sets `padding` with `!important` and wins |
-| `text-wrap: balance` → `pretty` under a breakpoint | balance evens line lengths | verified with a headless screenshot that had not loaded the web font; the fallback wraps differently |
-| move that breakpoint to 1280px | wider screens fit two lines | the reader's 1548px window still showed three; the column had not grown |
+| attempt                                            | theory                      | why it changed nothing                                                                               |
+| -------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------- |
+| pad the blockquote rule in `markdown.css`          | more padding                | a second stylesheet sets `padding` with `!important` and wins                                        |
+| `text-wrap: balance` → `pretty` under a breakpoint | balance evens line lengths  | verified with a headless screenshot that had not loaded the web font; the fallback wraps differently |
+| move that breakpoint to 1280px                     | wider screens fit two lines | the reader's 1548px window still showed three; the column had not grown                              |
 
 Then the loop, thirteen widths, one probe:
 
-| viewport | column | h1 right | p right | widest line right | gap | lines | font |
-|---|---|---|---|---|---|---|---|
-| 600 | 568 | 584 | 584 | 583 | 1 | 2 | 32px |
-| 768 | 663 | 716 | 716 | 550 | 165 | 3 | 38.4px |
-| 900 | 663 | 782 | 782 | 637 | 145 | 3 | 40px |
-| 1100 | 663 | 882 | 882 | 737 | 145 | 3 | 40px |
-| 1280 | 675 | 1005 | 1005 | 848 | 157 | 3 | 40px |
-| 1440 | 675 | 1085 | 1085 | 928 | 157 | 3 | 40px |
-| 1548 | 710 | 1127 | 1121 | 1125 | 1 | 2 | 40px |
-| 1920 | 710 | 1313 | 1307 | 1311 | 1 | 2 | 40px |
+| viewport | column | h1 right | p right | widest line right | gap | lines | font   |
+| -------- | ------ | -------- | ------- | ----------------- | --- | ----- | ------ |
+| 600      | 568    | 584      | 584     | 583               | 1   | 2     | 32px   |
+| 768      | 663    | 716      | 716     | 550               | 165 | 3     | 38.4px |
+| 900      | 663    | 782      | 782     | 637               | 145 | 3     | 40px   |
+| 1100     | 663    | 882      | 882     | 737               | 145 | 3     | 40px   |
+| 1280     | 675    | 1005     | 1005    | 848               | 157 | 3     | 40px   |
+| 1440     | 675    | 1085     | 1085    | 928               | 157 | 3     | 40px   |
+| 1548     | 710    | 1127     | 1121    | 1125              | 1   | 2     | 40px   |
+| 1920     | 710    | 1313     | 1307    | 1311              | 1   | 2     | 40px   |
 
 Three theories died in one read. `h1 right` equals `p right` everywhere, so there is no padding. `text-wrap` reads `pretty` and the gap is unchanged, so the wrap mode was never it. And the column is 663px from 768 all the way to 1440, growing only past 1548. That constant is the bug: a 40px serif title in a 663px column breaks into three lines of about 500px, and the next word on each line is too long to fit. No wrap mode moves that.
 
 The sweep over font size at the 663px column:
 
 | font-size | lines | gap |
-|---|---|---|
-| 40px | 3 | 145 |
-| 38px | 3 | 171 |
-| 36px | 2 | 12 |
-| 32px | 2 | 3 |
+| --------- | ----- | --- |
+| 40px      | 3     | 145 |
+| 38px      | 3     | 171 |
+| 36px      | 2     | 12  |
+| 32px      | 2     | 3   |
 
 Two lines from 36px down. Since the column, not the viewport, decides it, the fix is a container query: `container-type: inline-size` on the layout wrapper and `font-size: clamp(32px, 5.4cqi, 40px)` on the heading, which is 35.8px on the 663px column and 38.3px on 710px. The step-3 loop, re-run:
 
@@ -133,13 +133,13 @@ Two lines from 36px down. Since the column, not the viewport, decides it, the fi
 
 _Fig. 4: The metric across the axis, before and after. A 145 to 157px plateau across the fixed-column band; 16px everywhere from 600 up after the fix._
 
-| viewport | column | font | lines | gap |
-|---|---|---|---|---|
-| 390 | 358 | 32px | 4 | 9 |
-| 600 | 568 | 32px | 2 | 1 |
-| 768 to 1200 | 663 | 35.8px | 2 | 16 |
-| 1280 to 1440 | 675 | 36.5px | 2 | 16 |
-| 1548 to 1920 | 710 | 38.3px | 2 | 17 |
+| viewport     | column | font   | lines | gap |
+| ------------ | ------ | ------ | ----- | --- |
+| 390          | 358    | 32px   | 4     | 9   |
+| 600          | 568    | 32px   | 2     | 1   |
+| 768 to 1200  | 663    | 35.8px | 2     | 16  |
+| 1280 to 1440 | 675    | 36.5px | 2     | 16  |
+| 1548 to 1920 | 710    | 38.3px | 2     | 17  |
 
 Both tables went into the pull request's proof-of-done, the second as the green run and the first as the negative control. Total time for the loop, both sweeps and the fix: under fifteen minutes. The three guesses had taken longer and shipped nothing.
 
