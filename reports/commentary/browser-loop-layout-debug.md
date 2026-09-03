@@ -3,7 +3,6 @@ title: "the debug loop: make the agent measure the browser before it touches the
 description: "A repeatable loop for AI-driven UI debugging: name the metric, name the axis, drive a real browser over CDP, read the DOM into a table, kill theories, sweep the suspect, fix, re-run. With the probe code, the setup, the failure modes, and one worked case where three plausible CSS commits had changed nothing."
 date: 2026-09-03
 toc: true
-draft: true
 authors:
   - tieubao
 tags:
@@ -17,7 +16,7 @@ slug: browser-loop-layout-debug
 
 ## TL;DR
 
-Coding agents debug layout the way they debug everything: read the source, form a story, edit, look once, report. For CSS that fails more often than it works, because layout does not live in the stylesheet. It lives in computed boxes that depend on font metrics, column widths and word lengths the agent never sees. We now run a different loop for UI bugs: name a metric, name the axis the bug varies on, drive a real browser over the DevTools Protocol, read the numbers out of the DOM at every step of that axis, and let the table kill theories before anyone commits one. The same loop, re-run after the fix, is the proof. On the case that forced this on us, three plausible CSS commits had changed nothing measurable; one thirteen-row table found the cause in a minute, and a second sweep gave the fix. This post is the loop, the probe, the setup, and what still goes wrong.
+Coding agents debug layout the way they debug everything: read the source, form a story, edit, look once, report. For CSS that fails more often than it works, because layout does not live in the stylesheet. It lives in computed boxes that depend on font metrics, column widths and word lengths the agent never sees. We now run a different loop for UI bugs: name a metric, name the axis the bug varies on, drive a real browser over the DevTools Protocol, read the numbers out of the DOM at every step of that axis, and let the table kill theories before anyone commits one. The same loop, re-run after the fix, is the proof. The tooling is small: [browser-harness-js](https://github.com/monotykamary/browser-harness-js), a REPL that holds one DevTools Protocol session open, in front of a headless Chrome; the loop is a dozen lines of JavaScript on top of it. On the case that forced this on us, three plausible CSS commits had changed nothing measurable; one thirteen-row table found the cause in a minute, and a second sweep gave the fix. This post is the loop, the probe, the setup, and what still goes wrong.
 
 ![](assets/browser-loop-layout-debug-fig1-loop.svg)
 
@@ -55,7 +54,7 @@ The fix is not a smarter agent. It is a loop that forces the agent to read the t
 
 _Fig. 3: One persistent CDP session in front of a headless Chrome pointed at the dev server. State survives across calls, so the agent issues small snippets instead of one giant script._
 
-We use [browser-harness-js](https://github.com/tieubao/browser-harness-js), a REPL that holds one DevTools Protocol session open and evaluates JavaScript snippets against it. Chrome runs headless with `--remote-debugging-port`. Any Chromium works; Playwright or raw CDP over a websocket would do the same job.
+We use [browser-harness-js](https://github.com/monotykamary/browser-harness-js), a REPL that holds one DevTools Protocol session open and evaluates JavaScript snippets against it. Chrome runs headless with `--remote-debugging-port`. Any Chromium works; Playwright or raw CDP over a websocket would do the same job.
 
 ```js
 globalThis.out = [];
@@ -95,7 +94,13 @@ for (const px of [40, 38, 36, 35, 34, 33, 32, 30]) {
 
 ## 4. The worked case
 
-The complaint: the memo title looked inset on the right at some window sizes, fine at others. Three commits went in before the loop.
+The complaint: the memo title looked inset on the right at some window sizes, fine at others. This is the report as it arrived, the reader's own window and marker:
+
+![](assets/browser-loop-layout-debug-issue.png)
+
+_The title wraps to three short lines and stops well short of the column the paragraph below fills. Nothing in the stylesheet says why._
+
+Three commits went in before the loop.
 
 | attempt                                            | theory                      | why it changed nothing                                                                               |
 | -------------------------------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -169,4 +174,4 @@ And the loop fixes what you measured. The column-relative font size removes the 
 
 Give the agent this list verbatim. Left alone, it starts at step 3 with a single stop and no table, and that is the guess loop wearing a browser.
 
-The tooling is public: [browser-harness-js](https://github.com/tieubao/browser-harness-js) holds the session; the snippets above run unchanged against any Chromium started with `--remote-debugging-port`. The worked case shipped in the memo frontend (foundation-apps #100). The figures were drawn with fieldnote, our in-house hand-drawn diagram kit, which is not public yet.
+The tooling is public: [browser-harness-js](https://github.com/monotykamary/browser-harness-js) holds the session; the snippets above run unchanged against any Chromium started with `--remote-debugging-port`. The worked case shipped in the memo frontend (foundation-apps #100). The figures were drawn with fieldnote, our in-house hand-drawn diagram kit, which is not public yet.
