@@ -1,5 +1,5 @@
 ---
-title: "Claude Code 2.1.259 turned our Read() deny rules into a Bash tripwire"
+title: "Claude code 2.1.259 turned our Read() deny rules into a Bash tripwire"
 description: "Bypass-mode sessions started stalling on 'a Read() deny rule is configured' prompts. What the harness now infers from a Bash command, why a CLAUDE.md rule couldn't stop it, and why we moved the secret-file guard from the deny list into a hook."
 date: 2026-09-03
 toc: true
