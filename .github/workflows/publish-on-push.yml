@@ -67,8 +67,8 @@ jobs:
             -f content-only=true \
             -f skip-static=true
       # target=production is spelled out rather than relied on: that workflow
-      # defaults to rehearsal on purpose, and a content publish that quietly
-      # went to the rehearsal Worker would leave memo.d.foundation serving the
+      # defaults to staging on purpose, and a content publish that quietly
+      # went to the staging Worker would leave memo.d.foundation serving the
       # previous post while every run stayed green.
       - name: Dispatch the frontend (foundation-apps)
         env:
