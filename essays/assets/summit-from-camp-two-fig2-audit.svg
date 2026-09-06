@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" style="width:100%;height:auto;max-width:760px;display:block">
+  <defs>
+    <pattern id="grid2" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#385a7b" stroke-width="0.5" opacity="0.5"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="300" fill="#12395f"/>
+  <rect width="760" height="300" fill="url(#grid2)"/>
+  <rect x="0.5" y="0.5" width="759" height="299" fill="none" stroke="#68839d"/>
+
+  <text x="20" y="24" fill="#e8f1fa" font-size="10" letter-spacing="2">FIG. 2 · WHERE THE 23 PRACTICES LANDED</text>
+  <text x="740" y="24" fill="#a7c0d9" font-size="10" letter-spacing="2" text-anchor="end">THREE AUDITS, 2026-09-06</text>
+  <line x1="20" y1="36" x2="740" y2="36" stroke="#68839d" stroke-width="1"/>
+
+  <!-- axis -->
+  <line x1="200" y1="60" x2="200" y2="250" stroke="#68839d" stroke-width="1"/>
+  <g stroke="#385a7b" stroke-width="1" opacity="0.6">
+    <line x1="300" y1="60" x2="300" y2="250"/>
+    <line x1="400" y1="60" x2="400" y2="250"/>
+    <line x1="500" y1="60" x2="500" y2="250"/>
+    <line x1="600" y1="60" x2="600" y2="250"/>
+    <line x1="700" y1="60" x2="700" y2="250"/>
+  </g>
+  <g fill="#6f8fb0" font-size="9" text-anchor="middle">
+    <text x="200" y="266">0</text>
+    <text x="300" y="266">2</text>
+    <text x="400" y="266">4</text>
+    <text x="500" y="266">6</text>
+    <text x="600" y="266">8</text>
+    <text x="700" y="266">10</text>
+  </g>
+
+  <!-- bars: 50px per unit -->
+  <g>
+    <rect x="200" y="72" width="450" height="34" fill="#21466a" stroke="#68839d"/>
+    <text x="190" y="94" fill="#e8f1fa" font-size="11" text-anchor="end">already have</text>
+    <text x="660" y="94" fill="#c3d7ea" font-size="11">9</text>
+
+    <rect x="200" y="128" width="500" height="34" fill="#e8c56a"/>
+    <text x="190" y="150" fill="#e8f1fa" font-size="11" text-anchor="end">absorb now</text>
+    <text x="710" y="150" fill="#e8c56a" font-size="11">10</text>
+
+    <rect x="200" y="184" width="200" height="34" fill="#21466a" stroke="#68839d"/>
+    <text x="190" y="206" fill="#e8f1fa" font-size="11" text-anchor="end">park or skip</text>
+    <text x="410" y="206" fill="#c3d7ea" font-size="11">4</text>
+  </g>
+
+  <text x="20" y="286" fill="#6f8fb0" font-size="9">One report, 23 named practices, each checked against dwarves-kit, the personal harness, and the Dwarves team docs. The amber bar is this period's work.</text>
+</svg>
