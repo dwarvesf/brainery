@@ -36,6 +36,18 @@ _Fig. 2: The order the report gives, page 11. We had rungs one and three. Rung t
 
 Rung two we added this week: a lens in the review battery called break-it, whose job is to take a diff and its tests and find the input the tests forgot. On its first live run it embarrassed us a little. The spec shipped with two test fixtures, a leaky one with a known hole and a tight one that was supposed to be airtight. The prober looked at the tight one and reported that `impl.sh abc` printed `ok`. It accepted a non-integer, because both numeric checks exited with code 2 on bad input, the redirect hid the error, and control fell through to success. The fixture we wrote to be perfect had a hole. Fixed and pinned. I'd call that the tool proving itself.
 
+This is what a finding from it looks like, from the run against the leaky fixture, whose contract says 1 to 10 is a closed range:
+
+```
+probe:            bash impl.sh 11
+expected:         "reject" (CONTRACT, impl.sh:2-4, 1..10 is a closed range)
+observed:         "ok" (also "ok" for 100)
+unconstrained-by: test.sh:21
+severity:         HIGH
+```
+
+The lens is public: [agents/break-it.md](https://github.com/dwarvesf/dwarves-kit/blob/master/agents/break-it.md) in the kit, wired into [the battery command](https://github.com/dwarvesf/dwarves-kit/blob/master/commands/battery.md) as rung two, with the spec at [SPEC-247](https://github.com/dwarvesf/dwarves-kit/blob/master/docs/specs/SPEC-247-break-it-prober-lens.md) and the change in [dwarves-kit #504](https://github.com/dwarvesf/dwarves-kit/pull/504).
+
 The scene I keep coming back to is from two weeks before the report landed. A monitoring alert on a money path had been green since August 1. The source it watched had been retired on August 1. It was reading zero audit entries and calling that fine, and its proof-of-done had a negative control that only proved the alert reacted to a fault in a source that no longer produced anything. We fixed it on August 30 with a staleness rule, zero rows for three weeks is itself an alarm. A check you never check is just a second place to be wrong.
 
 Rung four is where we're still in the room the report describes. Our own rubric says: sample 5 to 10 merged PRs per month for retrospective review, did the review catch what should have been caught? We have never recorded one of those samples. That's next.
@@ -46,7 +58,34 @@ Rung four is where we're still in the room the report describes. Our own rubric 
 
 **The scene at the foundation.** This is the camp we live in. My own coding-agent setup runs about forty checks, and every one exists because something went wrong first. One stops a password or API key from being printed into the conversation. One stops a push to the main branch, and it's there because eight pushes once reached main from inside a script the guard couldn't see into. One refuses a "done" message when the agent ran nothing. The routing idea, a strong model doing the planning and reviewing with cheaper models doing the routine work, we measured ourselves earlier at about three times cheaper for the same result.
 
+Here's the push guard talking, verbatim, when I tried to run a script that pushed from inside itself this week. The incident it names is real:
+
+```
+BLOCKED [branch-guard]: file-df-rows.sh runs 'git push' inside a script,
+where this hook cannot resolve which branch each push will land on.
+
+A script file defeats a text-matching guard: 'bash script.sh' carries no
+branch name and no 'git push', so the guard sees nothing. That is how eight
+pushes reached main on 2026-08-26.
+```
+
 The lint-to-instructions trick we didn't have, and now do. A check runs after every shell command the agent executes; when the output carries eslint, ruff, golangci-lint, tsc, or clippy diagnostics, it looks up each rule id in a table of sixteen house fixes and hands the agent the steps. Unknown rule, nothing happens. It logs which rules it explained and which were gone on the next run, so in two weeks we'll know whether that ninety percent number holds here or was one team's good day.
+
+A row from the table, the one for TypeScript's "argument not assignable" error:
+
+```
+tsc  TS2345  Fix the caller or widen the parameter type, whichever is actually
+             wrong; if the value comes from outside the program, validate it at
+             the boundary and narrow it there; never reach for `as` to make the
+             error go away
+```
+
+And what the agent sees after a real `tsc --strict` run that produced TS2345, TS7006, and TS18048. Two rows matched; the third has no row and injected nothing:
+
+```json
+{"hookSpecificOutput": {"hookEventName": "PostToolUse",
+  "additionalContext": "House fix ... TS2345 (tsc):\n  1. Fix the caller or widen the parameter type ...\n\nTS7006 (tsc):\n  1. Annotate the parameter ..."}}
+```
 
 ## 3. The harness should improve itself
 
@@ -58,7 +97,14 @@ The lint-to-instructions trick we didn't have, and now do. A check runs after ev
 
 _Fig. 3: The loop the report describes. The gate on the right existed for months. The dashed amber arrow is the one that was missing._
 
-It's wired now, with a guard so a missing script can't break a session. Proposals land in a folder and wait for a human. If one matches something you hit, approve it; if it's noise, reject it and say why. That's the gardening. What we still can't do is measure whether a skill that fires is worth the context it eats, and that stays parked until the benchmark can run with and without a skill.
+It's wired now, with a guard so a missing script can't break a session. The whole fix is one entry, and the guard is the `[ -x ... ] && exec ... || exit 0` shape, which is there because the last time a hook pointed at a script that had been removed, every session died with exit 127:
+
+```json
+"PreCompact": [{"hooks": [{"type": "command", "async": true,
+  "command": "bash -c '[ -x \"$HOME/.claude/dwarves-kit/lib/skill-curator/hooks/skill-review.sh\" ] && exec bash \"$HOME/.claude/dwarves-kit/lib/skill-curator/hooks/skill-review.sh\" || exit 0'"}]}]
+```
+
+Proposals land in a folder and wait for a human. If one matches something you hit, approve it; if it's noise, reject it and say why. That's the gardening. What we still can't do is measure whether a skill that fires is worth the context it eats, and that stays parked until the benchmark can run with and without a skill.
 
 ## 4. The two clocks
 
@@ -69,6 +115,7 @@ It's wired now, with a guard so a missing script can't break a session. Proposal
 The second clock exists as of this week. A command reads the boards we already keep and prints every open row that's waiting on a human call, oldest first, with an age, plus a weekly summary. The review battery caught a bug in it before it shipped: it charged a date that came after the marker with the marker's whole length, so a fourteen-day wait printed as 257 days. Fixed. Here's the first real run, unedited:
 
 ```
+$ _meta/board-all decisions --summary
 repo              n  median
 console-labs      2      3d
 dfoundation       1       ?  (1 unknown)
@@ -96,9 +143,26 @@ Nine things waiting on me, median three days. I checked three rows by hand: two 
 
 **The scene at the foundation.** The bots were already tiered and fenced: tool allow-lists, an egress allow-list, a deploy gate that fails any profile granting shell access without a container pin. The people side had nothing. The security overview we send clients and our data processing agreement template: a search for AI, LLM, or model returned nothing in either. No written rule on which AI tools may touch client code.
 
-This week that changed. A three-tier AI-tool policy: anything goes on your own scratch work; approved tools on internal repos; on client code, only the named tools whose data handling we can state, model and region recorded at the deal handoff, a human signing every merge. A paragraph in the client security overview and a new clause in the DPA. Reviewed by a model and by me, not by a lawyer yet, so.
+This week that changed. A three-tier AI-tool policy, a paragraph in the client security overview, and a new clause in the DPA. Reviewed by a model and by me, not by a lawyer yet, so. The tiers, from the policy itself:
 
-On dependencies, a guard now runs before the agent installs anything: a package name that doesn't exist on the registry gets blocked, anything published less than fourteen days ago gets a warning. It went through three security rounds and each found something. The first version blocked `uv add requests==9.9.9` and told the model the name was invented, because the existence check carried the version, exactly the wrong nudge for a guard meant to stop typosquats. A later round found that a multi-line command like `npm install` followed by `make lint` looked up `lint` as a package and hard-blocked, and that a captive-portal 404 would have blocked every install on hotel wifi. All fixed, sixty test cases now. The Renovate config for the two ops repos is merged but inert, because I decided not to install the Renovate app on the organization; it wants workflow-write on repositories whose CI runs on our own machines. So the guard on the agent side is the half that's live.
+| Tier | Material | Tools | Conditions |
+|---|---|---|---|
+| GREEN | Your own learning, drafts, scratch work, public documentation. No client material and no Dwarves confidential material. | Any tool you like. | None. |
+| AMBER | Internal Dwarves repositories, internal docs, internal ops data. | The approved list. | You have completed the AI fluency census or the onboarding briefing. Agent output is reviewed under the code review rubric. |
+| RED | Client code, client data, client infrastructure. | Only the named tools whose data handling we can state to the client. | No training on client data. Model and region named per engagement at the deal handoff. A human signs off on every merge. AI-written code disclosed when the SOW asks. No agent holds write access to a client production system without the client's written consent. |
+
+On dependencies, a guard now runs before the agent installs anything: a package name that doesn't exist on the registry gets blocked, anything published less than fourteen days ago gets a warning. It went through three security rounds and each found something. The first version blocked `uv add requests==9.9.9` and told the model the name was invented, because the existence check carried the version, exactly the wrong nudge for a guard meant to stop typosquats. A later round found that a multi-line command like `npm install` followed by `make lint` looked up `lint` as a package and hard-blocked, and that a captive-portal 404 would have blocked every install on hotel wifi. All fixed, sixty test cases now. Against the real registries, this is the whole interaction:
+
+```
+$ npm i qwx-not-a-real-package-9f3a
+BLOCKED [dep-age-guard]: the registry has no package named 'qwx-not-a-real-package-9f3a'.
+exit 2
+
+$ npm i lodash
+exit 0
+```
+
+The Renovate config for the two ops repos is merged but inert, because I decided not to install the Renovate app on the organization; it wants workflow-write on repositories whose CI runs on our own machines. So the guard on the agent side is the half that's live.
 
 Know which tier your work is in before you open an AI tool. If the dependency guard blocks an install, the package name is probably wrong; check the registry before you override.
 
@@ -128,7 +192,7 @@ We were further along than it felt. Nine of the twenty-three practices were alre
 
 The gaps were mostly in checking, which is the report's whole point. The break-it step didn't exist. The review sample our rubric prescribes had never been run. A money-path alert had been green on nothing for a month. The learn loop had a gate and no feed. Every one of those is a check we assumed was there.
 
-And the fixes were small. Seven gaps closed as pull requests in five repositories in one week, each through the full path: a spec, an adversarial review of the spec, a build, a fresh-context verifier that re-runs the spec's own verification commands, then a review battery of several lenses. Those batteries caught fifty findings before anything merged.
+And the fixes were small. Seven gaps closed as pull requests in five repositories in one week, each through the full path: a spec, an adversarial review of the spec, a build, a fresh-context verifier that re-runs the spec's own verification commands, then a review battery of several lenses. Those batteries caught fifty findings before anything merged. The path itself is public, in [dwarves-kit](https://github.com/dwarvesf/dwarves-kit): the [workflow](https://github.com/dwarvesf/dwarves-kit/blob/master/docs/WORKFLOW.md) is the map, the [battery](https://github.com/dwarvesf/dwarves-kit/blob/master/commands/battery.md) is the last gate, and the break-it change is the worked example.
 
 ![Findings the review battery caught before merge, per branch: 19, 15, 9, 7](assets/engelberg-report-audit-fig4-battery.svg)
 
