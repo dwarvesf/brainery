@@ -83,10 +83,17 @@ jobs:
 
       - name: Commit and push changes
         # Same-repo PRs only: a fork's GITHUB_TOKEN cannot push to the fork branch.
+        # PRs here are often squash-merged and their branch deleted within seconds
+        # of opening (agent-driven), so this step can race the merge. A missing
+        # head branch at this point means the PR is already done, not a lint failure.
         if: ${{ github.event_name == 'pull_request' && steps.markdown-lint.outputs.fixed > 0 && github.event.pull_request.head.repo.full_name == github.repository }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git ls-remote --exit-code --heads origin "${{ github.head_ref }}" >/dev/null 2>&1; then
+            echo "Head branch ${{ github.head_ref }} no longer exists (PR already merged or closed); skipping the format push-back."
+            exit 0
+          fi
           git fetch origin ${{ github.head_ref }}:${{ github.head_ref }}
           git checkout ${{ github.head_ref }}
           git add .
