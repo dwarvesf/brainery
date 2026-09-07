@@ -46,6 +46,10 @@ unconstrained-by: test.sh:21
 severity:         HIGH
 ```
 
+And the hole itself, live from the repo: the leaky fixture's own suite passes, then the input the suite never asks about gets an `ok`, then the lens's test suite.
+
+![Terminal: the leaky fixture's tests pass, impl.sh 11 prints ok against a 1..10 contract, and the break-it suite reports 68 of 68](assets/engelberg-report-audit-term-breakit.png)
+
 The lens is public: [agents/break-it.md](https://github.com/dwarvesf/dwarves-kit/blob/master/agents/break-it.md?plain=1) in the kit, wired into [the battery command](https://github.com/dwarvesf/dwarves-kit/blob/master/commands/battery.md?plain=1) as rung two, with the spec at [SPEC-247](https://github.com/dwarvesf/dwarves-kit/blob/master/docs/specs/SPEC-247-break-it-prober-lens.md?plain=1) and the change in [dwarves-kit #504](https://github.com/dwarvesf/dwarves-kit/pull/504).
 
 The scene I keep coming back to is from two weeks before the report landed. A monitoring alert on a money path had been green since August 1. The source it watched had been retired on August 1. It was reading zero audit entries and calling that fine, and its proof-of-done had a negative control that only proved the alert reacted to a fault in a source that no longer produced anything. We fixed it on August 30 with a staleness rule, zero rows for three weeks is itself an alarm. A check you never check is just a second place to be wrong.
@@ -58,16 +62,9 @@ Rung four is where we're still in the room the report describes. Our own rubric 
 
 **The scene at the foundation.** This is the camp we live in. My own coding-agent setup runs about forty checks, and every one exists because something went wrong first. One stops a password or API key from being printed into the conversation. One stops a push to the main branch, and it's there because eight pushes once reached main from inside a script the guard couldn't see into. One refuses a "done" message when the agent ran nothing. The routing idea, a strong model doing the planning and reviewing with cheaper models doing the routine work, we measured ourselves earlier at about three times cheaper for the same result.
 
-Here's the push guard talking, verbatim, when I tried to run a script that pushed from inside itself this week. The incident it names is real:
+Here's the push guard talking, fed a script that pushes from inside itself. The incident it names is real:
 
-```
-BLOCKED [branch-guard]: file-df-rows.sh runs 'git push' inside a script,
-where this hook cannot resolve which branch each push will land on.
-
-A script file defeats a text-matching guard: 'bash script.sh' carries no
-branch name and no 'git push', so the guard sees nothing. That is how eight
-pushes reached main on 2026-08-26.
-```
+![Terminal: the branch guard blocks a script containing git push and explains the August 26 incident](assets/engelberg-report-audit-term-branchguard.png)
 
 The lint-to-instructions trick we didn't have, and now do. A check runs after every shell command the agent executes; when the output carries eslint, ruff, golangci-lint, tsc, or clippy diagnostics, it looks up each rule id in a table of sixteen house fixes and hands the agent the steps. Unknown rule, nothing happens. It logs which rules it explained and which were gone on the next run, so in two weeks we'll know whether that ninety percent number holds here or was one team's good day.
 
@@ -80,12 +77,9 @@ tsc  TS2345  Fix the caller or widen the parameter type, whichever is actually
              error go away
 ```
 
-And what the agent sees after a real `tsc --strict` run that produced TS2345, TS7006, and TS18048. Two rows matched; the third has no row and injected nothing:
+And what the agent sees after a `tsc --strict` run that produced TS2345 and TS18048. One row matched; the other has no row and injected nothing:
 
-```json
-{"hookSpecificOutput": {"hookEventName": "PostToolUse",
-  "additionalContext": "House fix ... TS2345 (tsc):\n  1. Fix the caller or widen the parameter type ...\n\nTS7006 (tsc):\n  1. Annotate the parameter ..."}}
-```
+![Terminal: a tsc run with two errors, then the house fix the lint-recipe hook hands the agent for TS2345](assets/engelberg-report-audit-term-lintrecipe.png)
 
 ## 3. The harness should improve itself
 
@@ -99,10 +93,7 @@ _Fig. 3: The loop the report describes. The gate on the right existed for months
 
 It's wired now, with a guard so a missing script can't break a session. The whole fix is one entry, and the guard is the `[ -x ... ] && exec ... || exit 0` shape, which is there because the last time a hook pointed at a script that had been removed, every session died with exit 127:
 
-```json
-"PreCompact": [{"hooks": [{"type": "command", "async": true,
-  "command": "bash -c '[ -x \"$HOME/.claude/dwarves-kit/lib/skill-curator/hooks/skill-review.sh\" ] && exec bash \"$HOME/.claude/dwarves-kit/lib/skill-curator/hooks/skill-review.sh\" || exit 0'"}]}]
-```
+![Terminal: jq on the live settings file shows the PreCompact entry that now points at the skill-review script](assets/engelberg-report-audit-term-settings.png)
 
 Proposals land in a folder and wait for a human. If one matches something you hit, approve it; if it's noise, reject it and say why. That's the gardening. What we still can't do is measure whether a skill that fires is worth the context it eats, and that stays parked until the benchmark can run with and without a skill.
 
@@ -124,6 +115,10 @@ learning-kit      1     43d
 ops-toolkit       4      2d
 TOTAL             9      3d  (2 unknown)
 ```
+
+And the same command a day later, captured while writing this. Two more rows arrived on the dfoundation board in between, which is the point of having the number:
+
+![Terminal: board-all decisions --summary a day later, eleven rows, median three days](assets/engelberg-report-audit-term-decisions.png)
 
 ![The second clock, first reading: median decision-wait per board](assets/engelberg-report-audit-fig5-decisions.svg)
 
@@ -151,16 +146,9 @@ This week that changed. A three-tier AI-tool policy, a paragraph in the client s
 | AMBER | Internal Dwarves repositories, internal docs, internal ops data.                                                        | The approved list.                                                   | You have completed the AI fluency census or the onboarding briefing. Agent output is reviewed under the code review rubric.                                                                                                                                           |
 | RED   | Client code, client data, client infrastructure.                                                                        | Only the named tools whose data handling we can state to the client. | No training on client data. Model and region named per engagement at the deal handoff. A human signs off on every merge. AI-written code disclosed when the SOW asks. No agent holds write access to a client production system without the client's written consent. |
 
-On dependencies, a guard now runs before the agent installs anything: a package name that doesn't exist on the registry gets blocked, anything published less than fourteen days ago gets a warning. It went through three security rounds and each found something. The first version blocked `uv add requests==9.9.9` and told the model the name was invented, because the existence check carried the version, exactly the wrong nudge for a guard meant to stop typosquats. A later round found that a multi-line command like `npm install` followed by `make lint` looked up `lint` as a package and hard-blocked, and that a captive-portal 404 would have blocked every install on hotel wifi. All fixed, sixty test cases now. Against the real registries, this is the whole interaction:
+On dependencies, a guard now runs before the agent installs anything: a package name that doesn't exist on the registry gets blocked, anything published less than fourteen days ago gets a warning. It went through three security rounds and each found something. The first version blocked `uv add requests==9.9.9` and told the model the name was invented, because the existence check carried the version, exactly the wrong nudge for a guard meant to stop typosquats. A later round found that a multi-line command like `npm install` followed by `make lint` looked up `lint` as a package and hard-blocked, and that a captive-portal 404 would have blocked every install on hotel wifi. All fixed, sixty test cases now. Against the real registries, this is the whole interaction, the guard fed the same JSON the agent runtime sends it:
 
-```
-$ npm i qwx-not-a-real-package-9f3a
-BLOCKED [dep-age-guard]: the registry has no package named 'qwx-not-a-real-package-9f3a'.
-exit 2
-
-$ npm i lodash
-exit 0
-```
+![Terminal: the dependency guard blocks an invented package name with exit 2 and lets lodash through with exit 0](assets/engelberg-report-audit-term-depguard.png)
 
 The Renovate config for the two ops repos is merged but inert, because I decided not to install the Renovate app on the organization; it wants workflow-write on repositories whose CI runs on our own machines. So the guard on the agent side is the half that's live.
 
