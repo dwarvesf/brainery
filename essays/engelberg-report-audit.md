@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: What the Engelberg report got right about us
 description: Thoughtworks published the findings of its second Future of Software Engineering retreat. Most of what the room converged on is what we have been learning and putting into practice at Dwarves. Here is each idea, what it means, the scene where it shows up here, and what comes next.
 date: 2026-09-07
