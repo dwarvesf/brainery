@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 290" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" style="width:100%;height:auto;max-width:760px;display:block">
+  <defs>
+    <pattern id="braille5" width="14" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="1" fill="#385a7b" opacity="0.55"/><circle cx="10" cy="4" r="1" fill="#385a7b" opacity="0.55"/>
+      <circle cx="4" cy="10" r="1" fill="#385a7b" opacity="0.55"/><circle cx="10" cy="10" r="1" fill="#385a7b" opacity="0.55"/>
+      <circle cx="4" cy="16" r="1" fill="#385a7b" opacity="0.55"/><circle cx="10" cy="16" r="1" fill="#385a7b" opacity="0.55"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="290" fill="#12395f"/>
+  <rect width="760" height="290" fill="url(#braille5)"/>
+  <rect x="0.5" y="0.5" width="759" height="289" fill="none" stroke="#68839d"/>
+  <text x="20" y="24" fill="#e8f1fa" font-size="10" letter-spacing="2">FIG. 5 · THE SECOND CLOCK, FIRST READING</text>
+  <text x="740" y="24" fill="#a7c0d9" font-size="10" letter-spacing="2" text-anchor="end">DECISIONS WAITING ON ME · 2026-09-07</text>
+  <line x1="20" y1="36" x2="740" y2="36" stroke="#68839d"/>
+
+  <!-- axis: 0..50 days, 10px per day from x=200 -->
+  <g stroke="#385a7b" stroke-width="1" opacity="0.6">
+    <line x1="300" y1="56" x2="300" y2="226"/>
+    <line x1="400" y1="56" x2="400" y2="226"/>
+    <line x1="500" y1="56" x2="500" y2="226"/>
+    <line x1="600" y1="56" x2="600" y2="226"/>
+    <line x1="700" y1="56" x2="700" y2="226"/>
+  </g>
+  <line x1="200" y1="56" x2="200" y2="226" stroke="#68839d"/>
+  <g fill="#6f8fb0" font-size="9" text-anchor="middle">
+    <text x="200" y="240">0</text><text x="300" y="240">10</text><text x="400" y="240">20</text><text x="500" y="240">30</text><text x="600" y="240">40</text><text x="700" y="240">50 days</text>
+  </g>
+
+  <g font-size="11">
+    <rect x="200" y="64" width="430" height="22" fill="#e8c56a"/>
+    <text x="190" y="80" fill="#e8f1fa" text-anchor="end">learning-kit (1)</text>
+    <text x="638" y="80" fill="#e8c56a">43d</text>
+
+    <rect x="200" y="98" width="30" height="22" fill="#21466a" stroke="#68839d"/>
+    <text x="190" y="114" fill="#e8f1fa" text-anchor="end">console-labs (2)</text>
+    <text x="238" y="114" fill="#c3d7ea">3d median</text>
+
+    <rect x="200" y="132" width="20" height="22" fill="#21466a" stroke="#68839d"/>
+    <text x="190" y="148" fill="#e8f1fa" text-anchor="end">ops-toolkit (4)</text>
+    <text x="228" y="148" fill="#c3d7ea">2d median</text>
+
+    <rect x="200" y="166" width="60" height="22" fill="none" stroke="#68839d" stroke-dasharray="3 3"/>
+    <text x="190" y="182" fill="#e8f1fa" text-anchor="end">dfoundation (1)</text>
+    <text x="268" y="182" fill="#6f8fb0">no date derivable</text>
+
+    <rect x="200" y="200" width="60" height="22" fill="none" stroke="#68839d" stroke-dasharray="3 3"/>
+    <text x="190" y="216" fill="#e8f1fa" text-anchor="end">dwarves-kit (1)</text>
+    <text x="268" y="216" fill="#6f8fb0">no date derivable</text>
+  </g>
+  <text x="20" y="262" fill="#6f8fb0" font-size="9">Nine rows, median three days across the seven with a date. Hand check of three rows: two real waits, one already decided. Read the</text>
+  <text x="20" y="274" fill="#6f8fb0" font-size="9">median as a ceiling. Last week this number did not exist.</text>
+</svg>

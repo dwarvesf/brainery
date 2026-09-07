@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" style="width:100%;height:auto;max-width:760px;display:block">
+  <defs>
+    <pattern id="braille4" width="14" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="1" fill="#385a7b" opacity="0.55"/><circle cx="10" cy="4" r="1" fill="#385a7b" opacity="0.55"/>
+      <circle cx="4" cy="10" r="1" fill="#385a7b" opacity="0.55"/><circle cx="10" cy="10" r="1" fill="#385a7b" opacity="0.55"/>
+      <circle cx="4" cy="16" r="1" fill="#385a7b" opacity="0.55"/><circle cx="10" cy="16" r="1" fill="#385a7b" opacity="0.55"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="300" fill="#12395f"/>
+  <rect width="760" height="300" fill="url(#braille4)"/>
+  <rect x="0.5" y="0.5" width="759" height="299" fill="none" stroke="#68839d"/>
+  <text x="20" y="24" fill="#e8f1fa" font-size="10" letter-spacing="2">FIG. 3 · FINDINGS THE REVIEW BATTERY CAUGHT BEFORE MERGE</text>
+  <text x="740" y="24" fill="#a7c0d9" font-size="10" letter-spacing="2" text-anchor="end">FOUR BRANCHES, 2026-09-07</text>
+  <line x1="20" y1="36" x2="740" y2="36" stroke="#68839d"/>
+
+  <!-- axis: 0..20, 24px per unit from x=200 -->
+  <g stroke="#385a7b" stroke-width="1" opacity="0.6">
+    <line x1="320" y1="56" x2="320" y2="236"/>
+    <line x1="440" y1="56" x2="440" y2="236"/>
+    <line x1="560" y1="56" x2="560" y2="236"/>
+    <line x1="680" y1="56" x2="680" y2="236"/>
+  </g>
+  <line x1="200" y1="56" x2="200" y2="236" stroke="#68839d"/>
+  <g fill="#6f8fb0" font-size="9" text-anchor="middle">
+    <text x="200" y="250">0</text><text x="320" y="250">5</text><text x="440" y="250">10</text><text x="560" y="250">15</text><text x="680" y="250">20</text>
+  </g>
+
+  <g font-size="11">
+    <rect x="200" y="66" width="456" height="26" rx="0" fill="#21466a" stroke="#68839d"/>
+    <text x="190" y="84" fill="#e8f1fa" text-anchor="end">break-it prober</text>
+    <text x="664" y="84" fill="#c3d7ea">19</text>
+
+    <rect x="200" y="106" width="360" height="26" fill="#21466a" stroke="#68839d"/>
+    <text x="190" y="124" fill="#e8f1fa" text-anchor="end">dependency guard</text>
+    <text x="568" y="124" fill="#c3d7ea">15</text>
+
+    <rect x="200" y="146" width="216" height="26" fill="#21466a" stroke="#68839d"/>
+    <text x="190" y="164" fill="#e8f1fa" text-anchor="end">renovate config</text>
+    <text x="424" y="164" fill="#c3d7ea">9</text>
+
+    <rect x="200" y="186" width="168" height="26" fill="#21466a" stroke="#68839d"/>
+    <text x="190" y="204" fill="#e8f1fa" text-anchor="end">decisions list</text>
+    <text x="376" y="204" fill="#c3d7ea">7</text>
+  </g>
+  <!-- the one that mattered per bar, amber tick -->
+  <g fill="#e8c56a" font-size="9">
+    <rect x="200" y="66" width="24" height="26" fill="#e8c56a"/>
+    <rect x="200" y="106" width="24" height="26" fill="#e8c56a"/>
+    <rect x="200" y="146" width="24" height="26" fill="#e8c56a"/>
+    <rect x="200" y="186" width="24" height="26" fill="#e8c56a"/>
+  </g>
+  <text x="20" y="272" fill="#6f8fb0" font-size="9">Fifty findings; the amber slice is the one per branch that would have shipped a wrong result: the fixture that accepted "abc", the guard that</text>
+  <text x="20" y="284" fill="#6f8fb0" font-size="9">blocked "lint" as a package, the config that opened no PRs, the 14-day wait printed as 257 days.</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" style="width:100%;height:auto;max-width:760px;display:block">
+  <defs>
+    <pattern id="braille2" width="14" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="1" fill="#385a7b" opacity="0.55"/><circle cx="10" cy="4" r="1" fill="#385a7b" opacity="0.55"/>
+      <circle cx="4" cy="10" r="1" fill="#385a7b" opacity="0.55"/><circle cx="10" cy="10" r="1" fill="#385a7b" opacity="0.55"/>
+      <circle cx="4" cy="16" r="1" fill="#385a7b" opacity="0.55"/><circle cx="10" cy="16" r="1" fill="#385a7b" opacity="0.55"/>
+    </pattern>
+    <marker id="arr2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#c3d7ea"/>
+    </marker>
+  </defs>
+  <rect width="760" height="250" fill="#12395f"/>
+  <rect width="760" height="250" fill="url(#braille2)"/>
+  <rect x="0.5" y="0.5" width="759" height="249" fill="none" stroke="#68839d"/>
+  <text x="20" y="24" fill="#e8f1fa" font-size="10" letter-spacing="2">FIG. 4 · THE VERIFICATION LADDER THE REPORT DESCRIBES</text>
+  <text x="740" y="24" fill="#a7c0d9" font-size="10" letter-spacing="2" text-anchor="end">RUNG 2 WAS THE GAP</text>
+  <line x1="20" y1="36" x2="740" y2="36" stroke="#68839d"/>
+
+  <!-- rungs -->
+  <g font-size="11" text-anchor="middle">
+    <rect x="30" y="90" width="150" height="56" fill="#21466a" stroke="#68839d"/>
+    <text x="105" y="113" fill="#e8f1fa">1 coverage</text>
+    <text x="105" y="131" fill="#a7c0d9" font-size="9">we had it, in CI</text>
+
+    <rect x="215" y="90" width="150" height="56" fill="#21466a" stroke="#e8c56a" stroke-width="2"/>
+    <text x="290" y="113" fill="#e8c56a">2 break-it probe</text>
+    <text x="290" y="131" fill="#a7c0d9" font-size="9">an agent hunts the input</text>
+    <text x="290" y="143" fill="#a7c0d9" font-size="9">the tests forgot</text>
+
+    <rect x="400" y="90" width="150" height="56" fill="#21466a" stroke="#68839d"/>
+    <text x="475" y="113" fill="#e8f1fa">3 mutation test</text>
+    <text x="475" y="131" fill="#a7c0d9" font-size="9">break the code on purpose,</text>
+    <text x="475" y="143" fill="#a7c0d9" font-size="9">see if the suite notices</text>
+
+    <rect x="585" y="90" width="150" height="56" fill="#21466a" stroke="#68839d"/>
+    <text x="660" y="113" fill="#e8f1fa">4 human review</text>
+    <text x="660" y="131" fill="#a7c0d9" font-size="9">measured, or it is faith</text>
+  </g>
+  <g stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr2)">
+    <line x1="180" y1="118" x2="213" y2="118"/>
+    <line x1="365" y1="118" x2="398" y2="118"/>
+    <line x1="550" y1="118" x2="583" y2="118"/>
+  </g>
+  <text x="290" y="175" fill="#e8c56a" font-size="9" text-anchor="middle">added this week; only if it finds nothing does rung 3 run</text>
+  <text x="660" y="175" fill="#6f8fb0" font-size="9" text-anchor="middle">our rubric prescribes a monthly sample; count recorded: 0</text>
+  <text x="20" y="232" fill="#6f8fb0" font-size="9">Order from the report, page 11. Rung 2 is the step that says whether a green suite means anything. Rungs 1 and 3 were already ours.</text>
+</svg>
