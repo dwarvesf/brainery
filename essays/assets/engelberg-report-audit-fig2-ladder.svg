@@ -42,6 +42,6 @@
     <line x1="550" y1="118" x2="583" y2="118"/>
   </g>
   <text x="290" y="175" fill="#e8c56a" font-size="9" text-anchor="middle">added this week; only if it finds nothing does rung 3 run</text>
-  <text x="660" y="175" fill="#6f8fb0" font-size="9" text-anchor="middle">our rubric prescribes a monthly sample; count recorded: 0</text>
+  <text x="735" y="175" fill="#6f8fb0" font-size="9" text-anchor="end">rubric asks for a monthly sample; recorded: 0</text>
   <text x="20" y="232" fill="#6f8fb0" font-size="9">Order from the report, page 11. Rung 2 is the step that says whether a green suite means anything. Rungs 1 and 3 were already ours.</text>
 </svg>
