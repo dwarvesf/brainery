@@ -15,7 +15,7 @@
   <rect width="760" height="260" fill="#12395f"/>
   <rect width="760" height="260" fill="url(#braille3)"/>
   <rect x="0.5" y="0.5" width="759" height="259" fill="none" stroke="#68839d"/>
-  <text x="20" y="24" fill="#e8f1fa" font-size="10" letter-spacing="2">FIG. 3 · THE LEARN LOOP, AND THE ARROW THAT WAS MISSING</text>
+  <text x="20" y="24" fill="#e8f1fa" font-size="10" letter-spacing="2">FIG. 2 · THE LEARN LOOP, AND THE ARROW THAT WAS MISSING</text>
   <text x="740" y="24" fill="#a7c0d9" font-size="10" letter-spacing="2" text-anchor="end">PRECOMPACT: [ ]  SESSIONEND: [ ]</text>
   <line x1="20" y1="36" x2="740" y2="36" stroke="#68839d"/>
 
