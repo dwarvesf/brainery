@@ -46,7 +46,7 @@ unconstrained-by: test.sh:21
 severity:         HIGH
 ```
 
-The lens is public: [agents/break-it.md](https://github.com/dwarvesf/dwarves-kit/blob/master/agents/break-it.md) in the kit, wired into [the battery command](https://github.com/dwarvesf/dwarves-kit/blob/master/commands/battery.md) as rung two, with the spec at [SPEC-247](https://github.com/dwarvesf/dwarves-kit/blob/master/docs/specs/SPEC-247-break-it-prober-lens.md) and the change in [dwarves-kit #504](https://github.com/dwarvesf/dwarves-kit/pull/504).
+The lens is public: [agents/break-it.md](https://github.com/dwarvesf/dwarves-kit/blob/master/agents/break-it.md?plain=1) in the kit, wired into [the battery command](https://github.com/dwarvesf/dwarves-kit/blob/master/commands/battery.md?plain=1) as rung two, with the spec at [SPEC-247](https://github.com/dwarvesf/dwarves-kit/blob/master/docs/specs/SPEC-247-break-it-prober-lens.md?plain=1) and the change in [dwarves-kit #504](https://github.com/dwarvesf/dwarves-kit/pull/504).
 
 The scene I keep coming back to is from two weeks before the report landed. A monitoring alert on a money path had been green since August 1. The source it watched had been retired on August 1. It was reading zero audit entries and calling that fine, and its proof-of-done had a negative control that only proved the alert reacted to a fault in a source that no longer produced anything. We fixed it on August 30 with a staleness rule, zero rows for three weeks is itself an alarm. A check you never check is just a second place to be wrong.
 
@@ -192,7 +192,7 @@ We were further along than it felt. Nine of the twenty-three practices were alre
 
 The gaps were mostly in checking, which is the report's whole point. The break-it step didn't exist. The review sample our rubric prescribes had never been run. A money-path alert had been green on nothing for a month. The learn loop had a gate and no feed. Every one of those is a check we assumed was there.
 
-And the fixes were small. Seven gaps closed as pull requests in five repositories in one week, each through the full path: a spec, an adversarial review of the spec, a build, a fresh-context verifier that re-runs the spec's own verification commands, then a review battery of several lenses. Those batteries caught fifty findings before anything merged. The path itself is public, in [dwarves-kit](https://github.com/dwarvesf/dwarves-kit): the [workflow](https://github.com/dwarvesf/dwarves-kit/blob/master/docs/WORKFLOW.md) is the map, the [battery](https://github.com/dwarvesf/dwarves-kit/blob/master/commands/battery.md) is the last gate, and the break-it change is the worked example.
+And the fixes were small. Seven gaps closed as pull requests in five repositories in one week, each through the full path: a spec, an adversarial review of the spec, a build, a fresh-context verifier that re-runs the spec's own verification commands, then a review battery of several lenses. Those batteries caught fifty findings before anything merged. The path itself is public, in [dwarves-kit](https://github.com/dwarvesf/dwarves-kit): the [workflow](https://github.com/dwarvesf/dwarves-kit/blob/master/docs/WORKFLOW.md?plain=1) is the map, the [battery](https://github.com/dwarvesf/dwarves-kit/blob/master/commands/battery.md?plain=1) is the last gate, and the break-it change is the worked example.
 
 ![Findings the review battery caught before merge, per branch: 19, 15, 9, 7](assets/engelberg-report-audit-fig4-battery.svg)
 
