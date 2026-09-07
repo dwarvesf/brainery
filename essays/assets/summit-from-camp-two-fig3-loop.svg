@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 260" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" style="width:100%;height:auto;max-width:760px;display:block">
+  <defs>
+    <pattern id="braille3" width="14" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="4" r="1" fill="#385a7b" opacity="0.55"/><circle cx="10" cy="4" r="1" fill="#385a7b" opacity="0.55"/>
+      <circle cx="4" cy="10" r="1" fill="#385a7b" opacity="0.55"/><circle cx="10" cy="10" r="1" fill="#385a7b" opacity="0.55"/>
+      <circle cx="4" cy="16" r="1" fill="#385a7b" opacity="0.55"/><circle cx="10" cy="16" r="1" fill="#385a7b" opacity="0.55"/>
+    </pattern>
+    <marker id="arr3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#c3d7ea"/>
+    </marker>
+    <marker id="arr3a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#e8c56a"/>
+    </marker>
+  </defs>
+  <rect width="760" height="260" fill="#12395f"/>
+  <rect width="760" height="260" fill="url(#braille3)"/>
+  <rect x="0.5" y="0.5" width="759" height="259" fill="none" stroke="#68839d"/>
+  <text x="20" y="24" fill="#e8f1fa" font-size="10" letter-spacing="2">FIG. 2 · THE LEARN LOOP, AND THE ARROW THAT WAS MISSING</text>
+  <text x="740" y="24" fill="#a7c0d9" font-size="10" letter-spacing="2" text-anchor="end">PRECOMPACT: [ ]  SESSIONEND: [ ]</text>
+  <line x1="20" y1="36" x2="740" y2="36" stroke="#68839d"/>
+
+  <g font-size="11" text-anchor="middle">
+    <rect x="30" y="80" width="140" height="50" fill="#21466a" stroke="#68839d"/>
+    <text x="100" y="101" fill="#e8f1fa">a session ends</text>
+    <text x="100" y="118" fill="#a7c0d9" font-size="9">or compacts</text>
+
+    <rect x="230" y="80" width="140" height="50" fill="#21466a" stroke="#68839d"/>
+    <text x="300" y="101" fill="#e8f1fa">the reviewer</text>
+    <text x="300" y="118" fill="#a7c0d9" font-size="9">reads what went wrong</text>
+
+    <rect x="430" y="80" width="140" height="50" fill="#21466a" stroke="#68839d"/>
+    <text x="500" y="101" fill="#e8f1fa">a proposal</text>
+    <text x="500" y="118" fill="#a7c0d9" font-size="9">a draft skill or rule</text>
+
+    <rect x="610" y="80" width="130" height="50" fill="#21466a" stroke="#68839d"/>
+    <text x="675" y="101" fill="#e8f1fa">I prune</text>
+    <text x="675" y="118" fill="#a7c0d9" font-size="9">approve or reject</text>
+  </g>
+  <!-- the missing arrow, amber dashed -->
+  <line x1="170" y1="105" x2="228" y2="105" stroke="#e8c56a" stroke-width="2" stroke-dasharray="5 4" marker-end="url(#arr3a)"/>
+  <text x="199" y="150" fill="#e8c56a" font-size="9" text-anchor="middle">this arrow was never wired</text>
+  <text x="199" y="162" fill="#e8c56a" font-size="9" text-anchor="middle">until 2026-09-07</text>
+  <g stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr3)">
+    <line x1="370" y1="105" x2="428" y2="105"/>
+    <line x1="570" y1="105" x2="608" y2="105"/>
+  </g>
+  <!-- feedback arrow back to the session rules -->
+  <path d="M 675 130 L 675 200 L 100 200 L 100 132" fill="none" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr3)"/>
+  <text x="388" y="196" fill="#a7c0d9" font-size="9" text-anchor="middle">an accepted proposal becomes a rule the next session loads</text>
+  <text x="20" y="244" fill="#6f8fb0" font-size="9">The gate on the right existed for months. Nothing reached it, because the two events on the left were empty in my settings.</text>
+</svg>
