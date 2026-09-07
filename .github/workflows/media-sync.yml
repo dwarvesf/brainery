@@ -50,7 +50,10 @@ jobs:
           echo "$FILES" | while read -r f; do
             wrangler r2 object put "memo-vault-assets/$f" --file "$f" --remote
           done
-          echo "$FILES" | while read -r f; do git rm -q "$f"; done
+          # -f: compress-media.sh rewrote the working copy above, so the file
+          # differs from the index and a plain git rm refuses it ("has local
+          # modifications"). The compressed copy is what went to R2; strip it.
+          echo "$FILES" | while read -r f; do git rm -qf "$f"; done
           git config user.name "media-sync"
           git config user.email "ops@d.foundation"
           git commit -m "chore: media synced to R2 and stripped from the repo"
