@@ -47,7 +47,7 @@ These are the pairs on my 13-inch M4 Air (panel 2560 × 1664), listed by `displa
 
 The widths match, so the UI stays the same size. The display stops drawing where the camera housing sits.
 
-### In System Settings
+### In system settings
 
 1. Open System Settings → Displays.
 2. Right-click the resolution thumbnails and choose "Show all resolutions" (on some builds it's a list with a toggle at the bottom).
@@ -98,7 +98,7 @@ If you mirror to an external screen, the mirror follows the built-in mode. My Ai
 
 The `»` button can still come back. With enough status items you'll hit the right edge again, and then you're back to Command-dragging or waiting on a hider that works on 27.
 
-## What I'd do
+## What i'd do
 
 1. Switch to the below-notch mode first. It's native, it survives updates, and it fixes most of the crowding on a notched Air.
 2. Remove Apple's own icons you never click in System Settings → Menu Bar. A surprising amount of the clutter is Wi-Fi, Focus, Now Playing and Spotlight.
