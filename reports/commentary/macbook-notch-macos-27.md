@@ -38,12 +38,12 @@ _Fig. 1: Same scale, two modes. The below-notch mode gives up a 32-point strip a
 
 These are the pairs on my 13-inch M4 Air (panel 2560 × 1664), listed by `displayplacer list`:
 
-| Width | Wraps the notch | Below the notch | Height given up |
-|---|---|---|---|
-| 1024 | 1024 × 666 | 1024 × 640 | 26 pt |
-| 1280 | 1280 × 832 | 1280 × 800 | 32 pt |
-| 1470 (Apple's default) | 1470 × 956 | 1470 × 918 | 38 pt |
-| 1710 | 1710 × 1112 | 1710 × 1068 | 44 pt |
+| Width                  | Wraps the notch | Below the notch | Height given up |
+| ---------------------- | --------------- | --------------- | --------------- |
+| 1024                   | 1024 × 666      | 1024 × 640      | 26 pt           |
+| 1280                   | 1280 × 832      | 1280 × 800      | 32 pt           |
+| 1470 (Apple's default) | 1470 × 956      | 1470 × 918      | 38 pt           |
+| 1710                   | 1710 × 1112     | 1710 × 1068     | 44 pt           |
 
 The widths match, so the UI stays the same size. The display stops drawing where the camera housing sits.
 
