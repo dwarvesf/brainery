@@ -61,13 +61,13 @@ Game Bar records one window, not the whole screen. If your talk moves between a 
 
 ## Before you go live
 
-| Check | Why |
-|---|---|
-| Record ten seconds and play it back | The only way to know the mic is on |
-| Turn on Do Not Disturb | Notifications land in the video |
-| Keep a few GB of disk free | A full disk stops the recording |
-| Close the tabs you would not screenshot | Entire Screen means entire screen |
-| Say the session is being recorded | Some people would rather not be |
+| Check                                   | Why                                |
+| --------------------------------------- | ---------------------------------- |
+| Record ten seconds and play it back     | The only way to know the mic is on |
+| Turn on Do Not Disturb                  | Notifications land in the video    |
+| Keep a few GB of disk free              | A full disk stops the recording    |
+| Close the tabs you would not screenshot | Entire Screen means entire screen  |
+| Say the session is being recorded       | Some people would rather not be    |
 
 ## What your recording misses
 
