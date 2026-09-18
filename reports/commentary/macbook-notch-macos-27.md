@@ -3,7 +3,7 @@ title: "Hide the MacBook notch: the 32-point fix for the macOS 27 menu bar"
 description: "macOS 27 Golden Gate added a native » button that folds menu bar icons and broke Hidden Bar, Bartender and Ice in the same release. The first fix on a notched MacBook needs no app: a below-notch display mode that has been in System Settings all along."
 date: 2026-09-18
 toc: true
-draft: true
+draft: false
 authors:
   - tieubao
 tags:
