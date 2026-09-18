@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 290" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+  <defs>
+    <pattern id="f2grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#385a7b" stroke-width="0.5" opacity="0.35"/>
+    </pattern>
+  </defs>
+
+  <rect width="760" height="290" fill="#12395f"/>
+  <rect width="760" height="290" fill="url(#f2grid)"/>
+  <rect x="0.5" y="0.5" width="759" height="289" fill="none" stroke="#68839d"/>
+
+  <text x="24" y="25" font-size="10" letter-spacing="1.2" fill="#6f8fb0">FIG. 2 · WHAT EACH TRACK HOLDS</text>
+  <text x="736" y="25" font-size="10" letter-spacing="1.2" fill="#6f8fb0" text-anchor="end">NEITHER ONE IS COMPLETE</text>
+  <line x1="24" y1="36" x2="736" y2="36" stroke="#68839d" opacity="0.5"/>
+
+  <!-- column headers -->
+  <text x="400" y="72" font-size="10" letter-spacing="0.8" fill="#c3d7ea">LOCAL RECORDING</text>
+  <text x="590" y="72" font-size="10" letter-spacing="0.8" fill="#c3d7ea">CALL CAPTURE</text>
+  <line x1="24" y1="86" x2="736" y2="86" stroke="#68839d" opacity="0.4"/>
+
+  <!-- row 1 -->
+  <text x="40" y="122" font-size="11" fill="#e8f1fa">The slides and the demo</text>
+  <circle cx="410" cy="118" r="5" fill="#c3d7ea"/>
+  <text x="428" y="122" font-size="10" fill="#a7c0d9">native</text>
+  <circle cx="600" cy="118" r="5" fill="none" stroke="#c3d7ea" stroke-width="1.5"/>
+  <text x="618" y="122" font-size="10" fill="#a7c0d9">720p</text>
+  <line x1="24" y1="142" x2="736" y2="142" stroke="#68839d" opacity="0.25"/>
+
+  <!-- row 2 -->
+  <text x="40" y="178" font-size="11" fill="#e8f1fa">The presenter's voice</text>
+  <circle cx="410" cy="174" r="5" fill="#c3d7ea"/>
+  <text x="428" y="178" font-size="10" fill="#a7c0d9">clean mic</text>
+  <circle cx="600" cy="174" r="5" fill="none" stroke="#c3d7ea" stroke-width="1.5"/>
+  <text x="618" y="178" font-size="10" fill="#a7c0d9">compressed</text>
+  <line x1="24" y1="198" x2="736" y2="198" stroke="#68839d" opacity="0.25"/>
+
+  <!-- row 3, the reason both tracks exist -->
+  <text x="40" y="234" font-size="11" fill="#e8f1fa">The questions afterwards</text>
+  <text x="404" y="238" font-size="13" fill="#6f8fb0">&#215;</text>
+  <text x="428" y="234" font-size="10" fill="#6f8fb0">absent</text>
+  <circle cx="600" cy="230" r="6" fill="#e8c56a"/>
+  <text x="618" y="234" font-size="10" fill="#e8c56a">the only copy</text>
+
+  <text x="40" y="268" font-size="9" fill="#6f8fb0">A filled dot is the better source for that row. The questions live on one track only, which is why the host records too.</text>
+</svg>
