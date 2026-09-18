@@ -19,6 +19,8 @@ on:
       - "**/*.mov"
       - "**/*.avif"
       - "**/*.pdf"
+      - "**/*.svg"
+  # A manual run also backfills the share PNG of every SVG in the vault.
   workflow_dispatch: {}
 
 jobs:
@@ -28,6 +30,33 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - name: Render share PNGs for SVG figures
+        # Facebook, LinkedIn and X reject an SVG og:image. Each <name>.svg
+        # gets a <name>.og.png twin in R2; the memo app points og:image at the
+        # twin when a post's first image is an SVG. The SVG stays in git.
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.R2_SYNC_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          BEFORE: ${{ github.event.before }}
+        run: |
+          set -euo pipefail
+          if [ "$GITHUB_EVENT_NAME" = workflow_dispatch ] || ! git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            SVGS=$(git ls-files '*.svg')
+          else
+            SVGS=$(git diff --name-only --diff-filter=AM "$BEFORE" HEAD -- '*.svg')
+          fi
+          [ -z "$SVGS" ] && { echo "no new svg"; exit 0; }
+          sudo apt-get install -qq -y librsvg2-bin pngquant >/dev/null
+          npm i -g wrangler@4 >/dev/null 2>&1
+          echo "$SVGS" | while read -r f; do
+            png="${f%.*}.og.png"
+            rsvg-convert -w 1200 -b '#ffffff' "$f" -o "$png"
+            bash _meta/scripts/compress-media.sh "$png"
+            wrangler r2 object put "memo-vault-assets/$png" --file "$png" --content-type image/png --remote
+            rm -f "$png"
+          done
       - name: Upload media to R2 and strip from the repo
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.R2_SYNC_TOKEN }}
