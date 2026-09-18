@@ -27,25 +27,15 @@ A free Discord account streams Go Live at [720p and 30fps](https://support.disco
 
 _Fig. 1: One talk leaves the machine twice. Only the left path keeps what the presenter was looking at._
 
-## What 720p costs
-
-I measured the resolution half rather than assert it. I rendered a properties panel of the kind design tooling is full of, small labels and numeric fields at 11px, at 1440p. Then I pushed it to 720p, back up to 1440p, and cut the same crop out of both.
-
-![](assets/record-it-on-your-own-machine-fig2-resolution.png)
-
-_Fig. 2: The same crop, shown 1:1. The round trip discards three quarters of the pixels._
-
-Softer, and less bad than expected. The labels survive. What goes is edge definition, the crispness that makes a screen full of numbers comfortable to read rather than work.
-
-Treat that as a floor. The test models resampling only. Discord's encoder adds compression on top, at whatever bitrate the network allowed, so the real loss is worse by an amount I did not measure.
+Resolution is not the whole cost either. The encoder adds compression on top, at whatever bitrate the network allowed that minute. Design tooling suffers most, because the content is 11px labels and numeric fields, and those are the first things to lose their edges.
 
 ## Mac
 
 **1. Press `Cmd + Shift + 5`.** A control bar appears at the bottom of the screen. The first three buttons take stills. The three after the divider record: entire screen, one window, selected portion. Choose **Record Entire Screen**.
 
-![](assets/record-it-on-your-own-machine-fig3-capture-bar.png)
+![](assets/record-it-on-your-own-machine-fig2-capture-bar.png)
 
-_Fig. 3: The capture bar on macOS 26. Recording lives to the right of the divider._
+_Fig. 2: The capture bar on macOS 26. Recording lives to the right of the divider._
 
 **2. Click Options and pick your microphone.** It defaults to **None**, and nothing warns you. You get a video that looks correct and plays silent, and the audio is not recoverable afterwards. This is the step people miss.
 
@@ -75,9 +65,9 @@ Your file holds your screen and your voice. It does not hold the room.
 
 Questions arrive over the call from other people's microphones and never reach your local recording. Often the questions carry the most value. Someone pushes back on a decision, you explain reasoning you left out of the walkthrough, and that exchange is what a new joiner needs six months later.
 
-![](assets/record-it-on-your-own-machine-fig4-coverage.svg)
+![](assets/record-it-on-your-own-machine-fig3-coverage.svg)
 
-_Fig. 4: Your track wins on quality for everything it holds. It does not hold the discussion._
+_Fig. 3: Your track wins on quality for everything it holds. It does not hold the discussion._
 
 So the host records the call too, in OBS, whenever the Q&A is worth keeping. That capture is 720p and that is fine. Its job is the audio of people asking things.
 
@@ -87,7 +77,7 @@ Send the file to whoever hosted. Fifteen minutes of screen recording is far past
 
 ## Limits
 
-The 720p number is Discord's published cap, not a bitrate pulled off a live stage. Nobody captured a real session next to a presenter's local file and compared them, so the compression layered on top of the resampling stays an assumption here. Record the same screen both ways once if you want the real answer for your setup.
+The 720p number is Discord's published cap, not a bitrate pulled off a live stage. Nobody here captured a real session next to a presenter's local file and compared the two, so how bad the call copy looks in practice is still an assumption. Record the same screen both ways once if you want the real answer for your setup.
 
 Consent sits outside the technique and still gates it. Say the session is recorded before it starts, not after.
 
@@ -101,5 +91,3 @@ We have run [OGIF](/ogif-intro) since 2023. The sessions that survive are the on
 3. Options > Microphone > your mic     <- defaults to None
 4. Record. Stop from the menu bar. File lands on the Desktop.
 ```
-
-Send these to the presenter before they go on, not while they are talking.
