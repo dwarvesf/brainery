@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+  <defs>
+    <marker id="f1arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#c3d7ea"/>
+    </marker>
+    <pattern id="f1grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#385a7b" stroke-width="0.5" opacity="0.35"/>
+    </pattern>
+  </defs>
+
+  <rect width="760" height="330" fill="#12395f"/>
+  <rect width="760" height="330" fill="url(#f1grid)"/>
+  <rect x="0.5" y="0.5" width="759" height="329" fill="none" stroke="#68839d"/>
+
+  <text x="24" y="25" font-size="10" letter-spacing="1.2" fill="#6f8fb0">FIG. 1 · TWO PATHS OFF ONE TALK</text>
+  <text x="736" y="25" font-size="10" letter-spacing="1.2" fill="#6f8fb0" text-anchor="end">WHERE THE PIXELS GO</text>
+  <line x1="24" y1="36" x2="736" y2="36" stroke="#68839d" opacity="0.5"/>
+
+  <!-- source -->
+  <rect x="24" y="62" width="200" height="72" rx="4" fill="#21466a" stroke="#68839d"/>
+  <text x="40" y="91" font-size="11" fill="#e8f1fa">PRESENTER'S MACHINE</text>
+  <text x="40" y="111" font-size="10" fill="#a7c0d9">screen + mic, native</text>
+
+  <!-- call path -->
+  <line x1="224" y1="98" x2="292" y2="98" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#f1arrow)"/>
+  <rect x="300" y="62" width="190" height="72" rx="4" fill="#21466a" stroke="#68839d"/>
+  <text x="316" y="87" font-size="11" fill="#e8f1fa">DISCORD GO LIVE</text>
+  <text x="316" y="106" font-size="10" fill="#a7c0d9">re-encode to 720p30</text>
+  <text x="316" y="123" font-size="9" fill="#6f8fb0">free-account cap</text>
+
+  <line x1="490" y1="98" x2="558" y2="98" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#f1arrow)"/>
+  <rect x="566" y="62" width="170" height="72" rx="4" fill="#21466a" stroke="#68839d"/>
+  <text x="582" y="87" font-size="11" fill="#e8f1fa">HOST'S CAPTURE</text>
+  <text x="582" y="106" font-size="10" fill="#a7c0d9">OBS, the whole call</text>
+  <text x="582" y="123" font-size="9" fill="#6f8fb0">questions included</text>
+
+  <text x="518" y="158" font-size="9" fill="#6f8fb0" text-anchor="middle">every copy downstream inherits the 720p</text>
+
+  <!-- local path -->
+  <line x1="124" y1="134" x2="124" y2="204" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#f1arrow)"/>
+  <rect x="24" y="212" width="272" height="86" rx="4" fill="#21466a" stroke="#e8c56a" stroke-width="2"/>
+  <text x="44" y="242" font-size="11" fill="#e8c56a">LOCAL RECORDING</text>
+  <text x="44" y="263" font-size="10" fill="#e8f1fa">native resolution, own mic</text>
+  <text x="44" y="281" font-size="9" fill="#a7c0d9">never touches the call encoder</text>
+
+  <text x="330" y="248" font-size="10" fill="#a7c0d9">One talk leaves the machine twice.</text>
+  <text x="330" y="268" font-size="10" fill="#a7c0d9">Only the path on the left keeps</text>
+  <text x="330" y="284" font-size="10" fill="#a7c0d9">what the presenter actually saw.</text>
+</svg>
