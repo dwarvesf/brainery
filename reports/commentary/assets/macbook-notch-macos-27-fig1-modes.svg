@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="#385a7b" stroke-width="0.5" opacity="0.4"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="360" fill="#12395f"/>
+  <rect width="760" height="360" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="759" height="359" fill="none" stroke="#68839d"/>
+
+  <text x="24" y="24" font-size="10" letter-spacing="1.5" fill="#a7c0d9">FIG. 1 · SAME SCALE, TWO MODES</text>
+  <text x="736" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">MACBOOK AIR M4, 13-INCH</text>
+  <line x1="24" y1="36" x2="736" y2="36" stroke="#68839d" stroke-width="1"/>
+
+  <!-- left: default mode, bar wraps the notch -->
+  <text x="200" y="64" font-size="12" fill="#e8f1fa" text-anchor="middle">1280 × 832 (default)</text>
+  <rect x="40" y="76" width="320" height="200" fill="#21466a" stroke="#68839d"/>
+  <rect x="40" y="76" width="320" height="22" fill="#1a3a5a"/>
+  <path d="M170 76 H230 V92 Q230 98 224 98 H176 Q170 98 170 92 Z" fill="#000"/>
+  <text x="50" y="91" font-size="10" fill="#c3d7ea">File  Edit  View  Go</text>
+  <text x="240" y="91" font-size="11" fill="#c3d7ea">»</text>
+  <g fill="#a7c0d9">
+    <rect x="256" y="82" width="10" height="10" rx="2"/><rect x="272" y="82" width="10" height="10" rx="2"/>
+    <rect x="288" y="82" width="10" height="10" rx="2"/><rect x="304" y="82" width="10" height="10" rx="2"/>
+    <rect x="320" y="82" width="10" height="10" rx="2"/><rect x="336" y="82" width="16" height="10" rx="2"/>
+  </g>
+  <text x="200" y="190" font-size="10" fill="#6f8fb0" text-anchor="middle">desktop</text>
+  <text x="200" y="302" font-size="10" fill="#a7c0d9" text-anchor="middle">icons share the space right of the notch;</text>
+  <text x="200" y="318" font-size="10" fill="#a7c0d9" text-anchor="middle">the rest fold behind the » button</text>
+
+  <!-- right: below-notch mode -->
+  <text x="560" y="64" font-size="12" fill="#e8f1fa" text-anchor="middle">1280 × 800 (below the notch)</text>
+  <rect x="400" y="76" width="320" height="200" fill="#21466a" stroke="#68839d"/>
+  <rect x="400" y="76" width="320" height="14" fill="#000"/>
+  <rect x="400.5" y="76.5" width="319" height="13" fill="none" stroke="#e8c56a" stroke-width="1.5"/>
+  <path d="M530 76 H590 V86 Q590 90 586 90 H534 Q530 90 530 86 Z" fill="#000"/>
+  <rect x="400" y="90" width="320" height="22" fill="#1a3a5a"/>
+  <text x="410" y="105" font-size="10" fill="#c3d7ea">File  Edit  View  Go</text>
+  <g fill="#a7c0d9">
+    <rect x="552" y="96" width="10" height="10" rx="2"/><rect x="568" y="96" width="10" height="10" rx="2"/>
+    <rect x="584" y="96" width="10" height="10" rx="2"/><rect x="600" y="96" width="10" height="10" rx="2"/>
+    <rect x="616" y="96" width="10" height="10" rx="2"/><rect x="632" y="96" width="10" height="10" rx="2"/>
+    <rect x="648" y="96" width="10" height="10" rx="2"/><rect x="664" y="96" width="10" height="10" rx="2"/>
+    <rect x="680" y="96" width="10" height="10" rx="2"/><rect x="696" y="96" width="16" height="10" rx="2"/>
+  </g>
+  <text x="560" y="190" font-size="10" fill="#6f8fb0" text-anchor="middle">desktop</text>
+  <text x="560" y="302" font-size="10" fill="#e8c56a" text-anchor="middle">32 pt strip goes black</text>
+  <text x="560" y="318" font-size="10" fill="#a7c0d9" text-anchor="middle">the bar runs the full width, no » needed</text>
+</svg>
