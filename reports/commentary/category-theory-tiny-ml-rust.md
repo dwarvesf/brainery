@@ -1,11 +1,11 @@
 ---
 draft: true
 title: 'Category Theory Meets Tiny ML: A New Rust Book Bridges Abstract Math and Embedded AI'
-description: A working draft titled **"Category Theory for Tiny ML in Rust"** has surfaced, aiming to do something unusual: teach machine learning through the lens of compositional mathematics while keeping the co…
+description: 'A working draft titled **"Category Theory for Tiny ML in Rust"** has surfaced, aiming to do something unusual: teach machine learning through the lens of compositional mathematics while keeping the co…'
 slug: category-theory-tiny-ml-rust
 ---
 
-# Category Theory Meets Tiny ML: A New Rust Book Bridges Abstract Math and Embedded AI
+## Category Theory Meets Tiny ML: A New Rust Book Bridges Abstract Math and Embedded AI
 
 A working draft titled **"Category Theory for Tiny ML in Rust"** has surfaced, aiming to do something unusual: teach machine learning through the lens of compositional mathematics while keeping the code small enough to run on microcontrollers. Co-authored by Paris-based AI architect Hamze Ghalebi and mathematician Farzad Jafarranmani, the book treats category theory not as academic decoration but as an engineering tool for building auditable, type-safe ML pipelines.
 
