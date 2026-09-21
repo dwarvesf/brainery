@@ -1,11 +1,12 @@
 ---
 draft: true
+date: 2026-09-21
 title: 'Dither Kit: Data Visualization on a Canvas Engine'
-description: A new component library called **dither-kit** is gaining attention for bringing ordered-dither aesthetics to React data visualization without pulling in heavy dependencies
+description: 'A new component library called **dither-kit** is gaining attention for bringing ordered-dither aesthetics to React data visualization without pulling in heavy dependencies'
 slug: dither-kit-field-report
 ---
 
-# Dither Kit: Data Visualization on a Canvas Engine
+## Dither Kit: Data Visualization on a Canvas Engine
 
 A new component library called **dither-kit** is gaining attention for bringing ordered-dither aesthetics to React data visualization without pulling in heavy dependencies. Instead of rendering SVG or DOM nodes, it draws everything, charts, buttons, avatars, and gradient washes, through a single tiny `<canvas>` engine.
 
