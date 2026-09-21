@@ -1,6 +1,6 @@
 ---
 draft: true
-title: 'The Memory Heist: How Claude''s web browsing leaked user secrets'
+title: 'The memory heist: how Claude''s web browsing leaked user secrets'
 description: Ayush Paul chained agent memory, link-following web_fetch, and a fake turnstile into a letter-by-letter exfiltration channel. Here is the mechanism and what it means if you build agents.
 date: 2026-07-16
 authors:
@@ -46,7 +46,7 @@ _Fig. 2: the alphabet keyboard. The agent experiences navigation; the access log
 
 ## What actually leaked
 
-The demo exfiltrated a name (Ayush Paul), an employer (Beem), and a hometown (Charlotte, NC). The hometown is the sharp edge: it was never stated in any conversation. Claude *inferred* it from a passing mention of a high-school hackathon called "Queen City Hacks." The exfiltration surface is not the stored transcript; it is everything the model can reconstruct from it.
+The demo exfiltrated a name (Ayush Paul), an employer (Beem), and a hometown (Charlotte, NC). The hometown is the sharp edge: it was never stated in any conversation. Claude _inferred_ it from a passing mention of a high-school hackathon called "Queen City Hacks." The exfiltration surface is not the stored transcript; it is everything the model can reconstruct from it.
 
 ## The fix and the gap
 
