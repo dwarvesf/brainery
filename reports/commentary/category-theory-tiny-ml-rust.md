@@ -1,5 +1,6 @@
 ---
 draft: true
+date: 2026-07-19
 title: 'Category Theory Meets Tiny ML: A New Rust Book Bridges Abstract Math and Embedded AI'
 description: 'A working draft titled **"Category Theory for Tiny ML in Rust"** has surfaced, aiming to do something unusual: teach machine learning through the lens of compositional mathematics while keeping the co…'
 slug: category-theory-tiny-ml-rust
