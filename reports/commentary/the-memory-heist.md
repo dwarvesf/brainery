@@ -1,7 +1,7 @@
 ---
 draft: true
-title: "The Memory Heist: How Claude's web browsing leaked user secrets"
-description: Ayush Paul chained Claude's memory, web_fetch link-following, and a fake turnstile into a letter-by-letter exfiltration channel. Here is the mechanism and what it means if you build agents.
+title: 'The Memory Heist: How Claude''s web browsing leaked user secrets'
+description: Ayush Paul chained agent memory, link-following web_fetch, and a fake turnstile into a letter-by-letter exfiltration channel. Here is the mechanism and what it means if you build agents.
 date: 2026-07-16
 authors:
   - content-editor
