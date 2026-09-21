@@ -1,12 +1,12 @@
 ---
 draft: true
 date: 2026-07-19
-title: 'Category Theory Meets Tiny ML: A New Rust Book Bridges Abstract Math and Embedded AI'
+title: 'Category theory meets tiny ML: a new Rust book bridges abstract math and embedded AI'
 description: 'A working draft titled **"Category Theory for Tiny ML in Rust"** has surfaced, aiming to do something unusual: teach machine learning through the lens of compositional mathematics while keeping the co…'
 slug: category-theory-tiny-ml-rust
 ---
 
-## Category Theory Meets Tiny ML: A New Rust Book Bridges Abstract Math and Embedded AI
+## Category theory meets tiny ML: a new Rust book bridges abstract math and embedded AI
 
 A working draft titled **"Category Theory for Tiny ML in Rust"** has surfaced, aiming to do something unusual: teach machine learning through the lens of compositional mathematics while keeping the code small enough to run on microcontrollers. Co-authored by Paris-based AI architect Hamze Ghalebi and mathematician Farzad Jafarranmani, the book treats category theory not as academic decoration but as an engineering tool for building auditable, type-safe ML pipelines.
 
@@ -29,7 +29,7 @@ The pitch is that if you can express your pipeline as a composition of well-type
 
 ## Why this matters now
 
-Tiny ML is moving from demo to deployment. Devices at the edge now run inference for audio, vibration, and image sensors, but the tooling for *building* those systems still feels like early-days web development: lots of copy-paste, fragile pipelines, and silent failures. A typed, compositional approach could reduce the surface area for bugs in safety-critical or regulated contexts (medical, automotive, industrial).
+Tiny ML is moving from demo to deployment. Devices at the edge now run inference for audio, vibration, and image sensors, but the tooling for _building_ those systems still feels like early-days web development: lots of copy-paste, fragile pipelines, and silent failures. A typed, compositional approach could reduce the surface area for bugs in safety-critical or regulated contexts (medical, automotive, industrial).
 
 The book is also a timely counterweight to the trend of treating AI as opaque statistical magic. By making the mathematical structure explicit and executable, it pushes back against the "black box" narrative.
 
@@ -43,13 +43,14 @@ The draft is public and open for feedback while it is still growing. The authors
 - Places where the connection between Rust, ML, and category theory needs tightening
 
 Suggested citation format:
+
 ```
 Ghalebi, H., & Jafarranmani, F. Category Theory for Tiny ML in Rust. Working Draft, Public Feedback Edition.
 ```
 
 ## Related context from the team's radar
 
-Separately, Kit Langton (creator of Effect and open-source tooling advocate) recently recommended *Conceptual Mathematics* by Lawvere and Schanuel as the best gentle introduction to category theory for programmers, even preferring it over the widely cited Milewski book. If the Rust book's abstraction feels steep, Langton's pick is a lower-friction on-ramp to the same conceptual territory.
+Separately, Kit Langton (creator of Effect and open-source tooling advocate) recently recommended _Conceptual Mathematics_ by Lawvere and Schanuel as the best gentle introduction to category theory for programmers, even preferring it over the widely cited Milewski book. If the Rust book's abstraction feels steep, Langton's pick is a lower-friction on-ramp to the same conceptual territory.
 
 tier: commentary
 register: essay
@@ -57,17 +58,20 @@ tier: commentary
 register: essay
 
 **Sources**
+
 - Discord discussion referencing the book: https://discord.com/channels/462663954813157376/1284063844314120224/1528364412287586465
 - Public draft homepage: https://hghalebi.github.io/category_theory_transformer_rs/
-- Kit Langton's recommendation of *Conceptual Mathematics*: https://discord.com/channels/462663954813157376/1284063844314120224/1528364270864306217 (links to https://x.com/kitlangton/status/2057552910867706107)
+- Kit Langton's recommendation of _Conceptual Mathematics_: https://discord.com/channels/462663954813157376/1284063844314120224/1528364270864306217 (links to https://x.com/kitlangton/status/2057552910867706107)
 
 **Open questions**
+
 - How many chapters are currently available, and is there a rough timeline for completion?
 - Are there any public code repositories accompanying the book, or is the Rust code inline only?
 - Has the approach been validated on any real-world tiny-ML hardware targets (e.g., ARM Cortex-M, ESP32, RISC-V)?
 - What is the team's practical experience with Effect-style typed error handling in embedded Rust, and does the book borrow from that ecosystem?
 
 **Residual risk**
+
 - The book is an early working draft; claims about production readiness or regulatory auditability are aspirational rather than demonstrated.
 - Category-theory-based programming can alienate readers who need practical results quickly; the balance between rigor and accessibility is still being calibrated.
 - No independent reviews or third-party benchmarks have been found yet.
