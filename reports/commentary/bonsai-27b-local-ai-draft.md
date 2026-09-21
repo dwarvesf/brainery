@@ -23,10 +23,10 @@ On July 14, PrismML announced Bonsai 27B, a new flagship in their Bonsai family 
 
 A 27B model in standard 16-bit precision eats roughly 54 GB of RAM. Even a aggressive 4-bit quantization still lands around 18 GB, too large for most laptops and far beyond any phone. Bonsai 27B attacks this with two aggressive quantization schemes:
 
-| Variant | Size | Effective bits per weight | Target device |
-|---------|------|---------------------------|---------------|
-| Ternary Bonsai 27B | 5.9 GB | 1.71 | Laptops |
-| 1-bit Bonsai 27B | 3.9 GB | 1.125 | Phones |
+| Variant            | Size   | Effective bits per weight | Target device |
+| ------------------ | ------ | ------------------------- | ------------- |
+| Ternary Bonsai 27B | 5.9 GB | 1.71                      | Laptops       |
+| 1-bit Bonsai 27B   | 3.9 GB | 1.125                     | Phones        |
 
 ## Why the quantization matters
 
