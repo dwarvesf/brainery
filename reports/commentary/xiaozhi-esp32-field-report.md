@@ -1,7 +1,7 @@
 ---
 draft: true
 title: 'XiaoZhi ESP32: When MCP Meets Voice AI on a $5 Chip'
-description: This morning, 0xm dropped a link in #build-club with a casual note: he spotted a Facebook group of people actively building XiaoZhi ESP32 devices
+description: 'This morning, 0xm dropped a link in #build-club with a casual note: he spotted a Facebook group of people actively building XiaoZhi ESP32 devices'
 date: 2026-07-12
 tags:
   - ai-hardware
