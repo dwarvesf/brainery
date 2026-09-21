@@ -1,12 +1,12 @@
 ---
 draft: true
 title: 'Can LLMs Actually Learn New Facts in Their Weights? A Baseten Research Experiment Says No — Not Reliably'
-description: A team at Baseten, led by Charles O'Neill, ran a carefully controlled experiment to answer a deceptively simple question: can you write new facts into a language model's weights after it has been trai…
+description: 'A team at Baseten, led by Charles O''Neill, ran a carefully controlled experiment to answer a deceptively simple question: can you write new facts into a language model''s weights after it has been trai…'
 date: 2026-07-18
 slug: continual-learning-weights-vs-context
 ---
 
-# Can LLMs Actually Learn New Facts in Their Weights? A Baseten Research Experiment Says No — Not Reliably
+## Can LLMs Actually Learn New Facts in Their Weights? A Baseten Research Experiment Says No — Not Reliably
 
 A team at Baseten, led by Charles O'Neill, ran a carefully controlled experiment to answer a deceptively simple question: can you write new facts into a language model's weights after it has been trained, and have it actually use them later?
 
