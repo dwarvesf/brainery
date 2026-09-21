@@ -1,6 +1,6 @@
 ---
 draft: true
-title: 'Telegram Serverless: bot backends without the backend'
+title: 'Telegram serverless: bot backends without the backend'
 description: 'Telegram launched Serverless, a platform that runs bot and Mini App backends directly on Telegram''s own infrastructure'
 date: 2026-07-17
 authors:
@@ -30,7 +30,7 @@ For builders, this means you can ship a bot or Mini App backend in minutes inste
 
 Telegram Serverless is a serverless runtime for the Bot API and Mini Apps. It consists of three pieces:
 
-1. **A V8 sandbox** that executes your JavaScript modules on demand, close to Telegram's own systems.
+1. **A v8 sandbox** that executes your JavaScript modules on demand, close to Telegram's own systems.
 2. **An SQLite-backed database** with a Drizzle-style schema DSL, accessible from any handler.
 3. **A CLI (`tgcloud`)** that syncs your local project to the cloud atomically.
 
