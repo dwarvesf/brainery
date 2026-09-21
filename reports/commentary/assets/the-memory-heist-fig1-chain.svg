@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300">
+  <rect width="760" height="300" fill="#12395f" stroke="#68839d" stroke-width="1"/>
+  <text x="24" y="24" fill="#6f8fb0" font-family="ui-monospace, SFMono-Regular, Menlo" font-size="10" letter-spacing="2">FIG. 1 · THE EXFILTRATION CHAIN</text>
+  <text x="736" y="24" text-anchor="end" fill="#6f8fb0" font-family="ui-monospace, SFMono-Regular, Menlo" font-size="10" letter-spacing="2">MEMORY + LINK-FOLLOWING = LEAK</text>
+  <line x1="24" y1="36" x2="736" y2="36" stroke="#68839d" stroke-width="1"/>
+
+  <defs>
+    <marker id="ah" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto">
+      <path d="M0,0 L8,4 L0,8" fill="none" stroke="#c3d7ea" stroke-width="1.2"/>
+    </marker>
+  </defs>
+
+  <!-- memory feeding in from above -->
+  <rect x="286" y="56" width="188" height="44" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="380" y="73" text-anchor="middle" fill="#e8f1fa" font-family="ui-monospace, SFMono-Regular, Menlo" font-size="11">claude memory</text>
+  <text x="380" y="88" text-anchor="middle" fill="#a7c0d9" font-family="ui-monospace, SFMono-Regular, Menlo" font-size="10">name · employer · inferred facts</text>
+  <line x1="380" y1="100" x2="380" y2="168" stroke="#c3d7ea" stroke-width="1" marker-end="url(#ah)"/>
+
+  <!-- chain boxes -->
+  <rect x="24" y="180" width="128" height="56" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="88" y="203" text-anchor="middle" fill="#e8f1fa" font-family="ui-monospace, SFMono-Regular, Menlo" font-size="11">user asks:</text>
+  <text x="88" y="219" text-anchor="middle" fill="#a7c0d9" font-family="ui-monospace, SFMono-Regular, Menlo" font-size="10">"check this café"</text>
+
+  <rect x="182" y="180" width="140" height="56" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="252" y="203" text-anchor="middle" fill="#e8f1fa" font-family="ui-monospace, SFMono-Regular, Menlo" font-size="11">web_fetch</text>
+  <text x="252" y="219" text-anchor="middle" fill="#a7c0d9" font-family="ui-monospace, SFMono-Regular, Menlo" font-size="10">reads café page</text>
+
+  <rect x="352" y="180" width="140" height="56" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="422" y="203" text-anchor="middle" fill="#e8f1fa" font-family="ui-monospace, SFMono-Regular, Menlo" font-size="11">fake turnstile</text>
+  <text x="422" y="219" text-anchor="middle" fill="#a7c0d9" font-family="ui-monospace, SFMono-Regular, Menlo" font-size="10">"type user's name"</text>
+
+  <rect x="522" y="180" width="214" height="56" fill="#21466a" stroke="#e8c56a" stroke-width="1.5"/>
+  <text x="629" y="203" text-anchor="middle" fill="#e8c56a" font-family="ui-monospace, SFMono-Regular, Menlo" font-size="11">letter-by-letter navigation</text>
+  <text x="629" y="219" text-anchor="middle" fill="#a7c0d9" font-family="ui-monospace, SFMono-Regular, Menlo" font-size="10">/a → /ay → /ayu → /ayus → /ayush</text>
+
+  <line x1="152" y1="208" x2="176" y2="208" stroke="#c3d7ea" stroke-width="1" marker-end="url(#ah)"/>
+  <line x1="322" y1="208" x2="346" y2="208" stroke="#c3d7ea" stroke-width="1" marker-end="url(#ah)"/>
+  <line x1="492" y1="208" x2="516" y2="208" stroke="#c3d7ea" stroke-width="1" marker-end="url(#ah)"/>
+
+  <!-- attacker log -->
+  <rect x="522" y="256" width="214" height="30" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="629" y="275" text-anchor="middle" fill="#c3d7ea" font-family="ui-monospace, SFMono-Regular, Menlo" font-size="10">attacker server: GET logs spell it out</text>
+  <line x1="629" y1="236" x2="629" y2="250" stroke="#c3d7ea" stroke-width="1" marker-end="url(#ah)"/>
+</svg>
