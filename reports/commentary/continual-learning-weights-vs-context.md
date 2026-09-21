@@ -1,18 +1,18 @@
 ---
 draft: true
-title: 'Can LLMs Actually Learn New Facts in Their Weights? A Baseten Research Experiment Says No — Not Reliably'
+title: 'Can LLMs actually learn new facts in their weights? a Baseten research experiment says no — not reliably'
 description: 'A team at Baseten, led by Charles O''Neill, ran a carefully controlled experiment to answer a deceptively simple question: can you write new facts into a language model''s weights after it has been trai…'
 date: 2026-07-18
 slug: continual-learning-weights-vs-context
 ---
 
-## Can LLMs Actually Learn New Facts in Their Weights? A Baseten Research Experiment Says No — Not Reliably
+## Can LLMs actually learn new facts in their weights? a Baseten research experiment says no — not reliably
 
 A team at Baseten, led by Charles O'Neill, ran a carefully controlled experiment to answer a deceptively simple question: can you write new facts into a language model's weights after it has been trained, and have it actually use them later?
 
 The short answer is no — at least not in any way that survives repeated writes or composes cleanly with other facts. The work makes a strong empirical case that, for continual learning, context (retrieval, compressed KV caches, in-context learning) is the more reliable channel than weight updates.
 
-## What They Did
+## What they did
 
 The team invented synthetic facts and wrote them into Qwen3 models, then tracked those facts through sequences of 20 to 100 later writes. They compared three conditions:
 
@@ -20,19 +20,20 @@ The team invented synthetic facts and wrote them into Qwen3 models, then tracked
 - **Ceiling**: the original model with the fact placed directly in its prompt.
 - **Weight-written**: the model after training on the fact, tested against held-out questions.
 
-They tested five question types, going beyond simple recitation to check whether the model could actually *use* the fact (deduction, composition, paraphrase, etc.).
+They tested five question types, going beyond simple recitation to check whether the model could actually _use_ the fact (deduction, composition, paraphrase, etc.).
 
-## Key Findings
+## Key findings
 
 ### 1. Training breadth matters more than the training objective
 
-If you train on a bare statement of the fact, the model can recite it but cannot *use* it. The gap between recitation and usable knowledge was **27.4 percentage points**.
+If you train on a bare statement of the fact, the model can recite it but cannot _use_ it. The gap between recitation and usable knowledge was **27.4 percentage points**.
 
 If you train on diverse restatements of the same fact, that gap collapses to **5.4 points** — without ever showing the model the test question during training.
 
 ### 2. Retention degrades quickly with repeated writes
 
 After **20 sequential writes**:
+
 - Bare-statement facts retained **~1% accuracy**.
 - Facts written from diverse "study" data retained **~46% accuracy**.
 
@@ -42,7 +43,7 @@ Even the better-trained facts plateaued at **25–28% survival** after 100 write
 
 Even after a fact fails every question the researchers can ask, **57–67% of the log-probability lift from its write is still sitting in the weights**. The content is there, but the model has lost the "address" for it.
 
-Under bare-statement training, **70% of wrong answers** about a forgotten fact contain the *most recently written* fact instead. Later writes do not erase earlier knowledge; they hijack the queries that used to reach it.
+Under bare-statement training, **70% of wrong answers** about a forgotten fact contain the _most recently written_ fact instead. Later writes do not erase earlier knowledge; they hijack the queries that used to reach it.
 
 ### 4. Composition breaks almost immediately
 
@@ -56,7 +57,7 @@ Damage to unrelated abilities correlates strongly with KL divergence from the or
 
 A "forgotten" fact supplied back in the prompt recovers to **77–80% accuracy** instantly. In-context versions of the same facts show no extra erosion beyond normal capability loss. The channel with addresses — context — is robust.
 
-## What This Means for Builders
+## What this means for builders
 
 The paper's conclusion is direct: all the training that creates a foundation model is engineered around crafting the best possible in-context learning mechanism. Further training degrades this mechanism. When facts must be composed or survive later writes, the reliable channel is context rather than the weights.
 
@@ -66,7 +67,7 @@ This has immediate architectural implications:
 - **Compressed KV caches** (a related Baseten research thread) become more interesting as a way to extend what context can hold.
 - **Fine-tuning for knowledge injection** should be viewed with skepticism if the knowledge needs to coexist with future updates.
 
-## Open Questions
+## Open questions
 
 - The experiments used invented synthetic facts on Qwen3. Do the same dynamics hold for real-world factual updates on larger models?
 - The paper tested up to 100 sequential writes. Production systems may see orders of magnitude more; the plateau behavior beyond 100 is unknown.
@@ -80,7 +81,7 @@ This has immediate architectural implications:
 - Baseten research blog post: https://www.baseten.co/research/can-a-language-model-learn-facts-continually-in-its-weights
 - arXiv paper (2607.11020): https://arxiv.org/abs/2607.11020
 
-## Residual Risk
+## Residual risk
 
 - The X thread and Baseten blog are from the same research group; independent replication has not yet appeared.
 - The paper is fresh (July 2026) and has not yet been through peer review.
