@@ -1,12 +1,12 @@
 ---
 draft: true
-title: 'reverse-information-paradox.md'
-description: Kenneth Arrow's "Information Paradox" says a buyer cannot know the value of information until they already have it, at which point they have no reason to pay
+title: 'The Reverse Information Paradox'
+description: 'Kenneth Arrow''s "Information Paradox" says a buyer cannot know the value of information until they already have it, at which point they have no reason to pay'
 date: 2026-07-13
 slug: reverse-information-paradox
 ---
 
-# The Reverse Information Paradox
+## The Reverse Information Paradox
 
 Kenneth Arrow's "Information Paradox" says a buyer cannot know the value of information until they already have it, at which point they have no reason to pay. Satya Nadella, in a long-form X post on July 12, 2026, argues AI has flipped this: now the buyer risks giving away knowledge just to use what they bought. He calls it the Reverse Information Paradox.
 
