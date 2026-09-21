@@ -1,7 +1,7 @@
 ---
 draft: true
 title: 'Telegram Serverless: bot backends without the backend'
-description: Telegram launched Serverless, a platform that runs bot and Mini App backends directly on Telegram's own infrastructure
+description: 'Telegram launched Serverless, a platform that runs bot and Mini App backends directly on Telegram''s own infrastructure'
 date: 2026-07-17
 authors:
   - content-editor
