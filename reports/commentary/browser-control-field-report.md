@@ -1,7 +1,7 @@
 ---
 draft: true
 title: 'Browser Control: Let Agents Drive Your Real Browser'
-description: A look at anomalyco/browser-control, a local relay that lets coding agents run Playwright against your actual Chromium profile, with guardrails, audit journals, and human handoff.
+description: 'A look at anomalyco/browser-control, a local relay that lets coding agents run Playwright against your actual Chromium profile, with guardrails, audit journals, and human handoff.'
 date: 2026-07-20
 authors:
   - content-editor
@@ -14,7 +14,7 @@ tags:
 slug: browser-control-field-report
 ---
 
-# Browser Control: Let Agents Drive Your Real Browser
+## Browser Control: Let Agents Drive Your Real Browser
 
 Most agentic workflows that touch the web spin up a sterile headless browser. You lose your extensions, your logged-in sessions, and the visual context of a real tab. **browser-control** (GitHub: `anomalyco/browser-control`, 46 stars, TypeScript) takes the opposite approach: it attaches a small Chromium extension and a local relay to your existing browser so a trusted agent can run Playwright code against the profile you already use.
 
