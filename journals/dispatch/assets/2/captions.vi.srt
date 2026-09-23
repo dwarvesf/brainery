@@ -632,7 +632,7 @@ tây giờ đó là chưa có đúng không?
 
 159
 00:11:04,299 --> 00:11:09,059
-Player đúng ra là bên phía in loop em có một cái cho về browser
+Player đúng ra là bên phía [dự án] em có một cái cho về browser
 
 160
 00:11:09,059 --> 00:11:12,299
@@ -688,7 +688,7 @@ Chỗ này nó là DOM hết, ví dụ nó có có hết ở trên này
 
 173
 00:12:02,340 --> 00:12:09,340
-thì cái này đang có tác dụng cho bên phía Project Inlook
+thì cái này đang có tác dụng cho bên phía [dự án]
 
 174
 00:12:09,340 --> 00:12:18,340
