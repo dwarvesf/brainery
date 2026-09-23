@@ -1,0 +1,34 @@
+[
+ {
+  "start": "01:44",
+  "title": "Giới thiệu setup dự án game mobile"
+ },
+ {
+  "start": "02:31",
+  "title": "Iterate design bằng AI từ ảnh/video"
+ },
+ {
+  "start": "03:18",
+  "title": "Figma UI MCP tiết kiệm chi phí"
+ },
+ {
+  "start": "05:38",
+  "title": "Groqbot gửi artifact và email tự động"
+ },
+ {
+  "start": "07:24",
+  "title": "3D animation sách với Astro và Fable"
+ },
+ {
+  "start": "08:58",
+  "title": "Source of truth vs reference cho khách hàng"
+ },
+ {
+  "start": "12:09",
+  "title": "Record UX demo bằng AI thay vì test tay"
+ },
+ {
+  "start": "13:01",
+  "title": "HyperFrame skill cho edit video HTML"
+ }
+]

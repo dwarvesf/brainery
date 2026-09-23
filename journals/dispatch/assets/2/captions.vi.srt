@@ -1,0 +1,932 @@
+1
+00:00:00,000 --> 00:00:11,580
+đến một cái sách sình là lạnh đình của của Tom mời mời Tom chạy em chị xưa
+
+2
+00:00:11,580 --> 00:00:18,579
+Tâm có tool bên Tâm để record lại cái voice và cái mảnh hình không?
+
+3
+00:00:18,579 --> 00:00:29,579
+Ờ cũng có nhưng chưa set up thôi, đúng ra là hãng năng cao sắp tới để trước cơm tuần sau ấy
+
+4
+00:00:29,579 --> 00:00:38,579
+em có một cái extension cho nó stream ra ngoài dùng một máy riêng cho record discord dễ hơn
+
+5
+00:00:38,579 --> 00:00:48,520
+Ngày xưa thì cũng làm nhưng chưa ổn định, đúng là chưa reverse engineer phần phía sau của Discord
+
+6
+00:00:48,520 --> 00:00:50,899
+Thời này có AI, có sẵn
+
+7
+00:00:50,899 --> 00:00:56,340
+Trên Mac có sẵn phần capture sẵn rồi không? Xài đó đỡ đi, được không?
+
+8
+00:00:56,340 --> 00:01:01,460
+Em vừa capture, em vừa nói hơi khó đấy
+
+9
+00:01:01,460 --> 00:01:06,280
+Cái đó là capture cái màn hình của em thôi
+
+10
+00:01:08,579 --> 00:01:14,579
+chắc để sao đi, tại sao em đang chạy russ, thì nó không record được đâu
+
+11
+00:01:14,579 --> 00:01:16,579
+ok ok
+
+12
+00:01:16,579 --> 00:01:20,579
+rồi rồi xin mời, sẽ dành của Tân
+
+13
+00:01:20,579 --> 00:01:23,579
+ok ok, you know đang record đúng không?
+
+14
+00:01:23,579 --> 00:01:26,579
+không, no one
+
+15
+00:01:26,579 --> 00:01:28,579
+Ủa thế mình nhớ
+
+16
+00:01:28,579 --> 00:01:31,579
+hồi nãy là Tân tự record của Tân đấy
+
+17
+00:01:31,579 --> 00:01:44,000
+nó có record mà không có stream ta
+
+18
+00:01:44,000 --> 00:01:47,659
+Ok, mọi người thấy mọi người chưa?
+
+19
+00:01:47,659 --> 00:01:55,200
+Rồi đã thấy, nhường diễn đàn cho Tôm, Tôm giới thiệu từ đầu nhé
+
+20
+00:01:55,200 --> 00:02:05,200
+Đúng ra là bên phía em Tuấn đang làm chung với anh Hân, em thì làm với chị lớn của em
+
+21
+00:02:05,200 --> 00:02:11,199
+Chị lớn của em có vài ý tưởng về kiểu startup chơi chơi, làm một game mobile app
+
+22
+00:02:11,199 --> 00:02:16,199
+Nên technique ở đây thì không có cái gì quá khó đâu
+
+23
+00:02:16,199 --> 00:02:23,000
+Nếu mình muốn tránh swap thì có khá là nhiều mấu cho tránh swap
+
+24
+00:02:23,000 --> 00:02:28,199
+Ví dụ là T-Skill hoặc là nếu mọi người có dùng MCP nó có INSPO MCP
+
+25
+00:02:28,199 --> 00:02:31,900
+để tí gửi trên INSPO luôn
+
+26
+00:02:31,900 --> 00:02:36,900
+Những idea là kể cả mình lấy mấu ở đâu
+
+27
+00:02:36,900 --> 00:02:42,900
+Đúng ra là mấy cái ý tưởng bên phía chị em đưa cho em ấy
+
+28
+00:02:42,900 --> 00:02:47,699
+đưa video sau đó là đưa ảnh sau đó em quăng bên phía Astro nó tự làm thôi
+
+29
+00:02:47,699 --> 00:02:51,900
+iterate mỗi hai lần thì nó sẽ ra artifact
+
+30
+00:02:51,900 --> 00:02:58,099
+vấn đề là em có một cái problem là mình show cho bên phía chị lớn như thế nào
+
+31
+00:02:58,099 --> 00:03:01,300
+và chị không có thời gian cho test app ấy
+
+32
+00:03:01,300 --> 00:03:04,099
+thì em có một cái pattern
+
+33
+00:03:04,099 --> 00:03:07,599
+mình prompt đơn giản thôi, ví dụ là mình nói với AI là
+
+34
+00:03:07,599 --> 00:03:12,639
+End to end test cho lấy ảnh về máy
+
+35
+00:03:12,639 --> 00:03:14,560
+sau đó là up lại ở trên Figma
+
+36
+00:03:14,560 --> 00:03:18,639
+thì đúng ra là bên phía chị em có một trang Figma riêng
+
+37
+00:03:18,639 --> 00:03:22,560
+cũng là từ mẫu đầu tiên của em chỉnh lại sửa cho nó nhìn đẹp
+
+38
+00:03:22,560 --> 00:03:24,639
+thì cái này là bên phía của chị em
+
+39
+00:03:24,639 --> 00:03:28,639
+Dizan cũng làm bằng tay hết
+
+40
+00:03:28,639 --> 00:03:32,639
+nhưng em nhờ bên phía AI dùng MCB Bridge
+
+41
+00:03:32,639 --> 00:03:37,039
+của bên phía một bạn Việt Nam cũng gửi trên GitHub
+
+42
+00:03:37,599 --> 00:03:41,280
+ở trên kênh hub giảng ở đây Figma UI MCV
+
+43
+00:03:41,280 --> 00:03:44,879
+một là chi tiết kiệm tiền vì mọi người cũng quen là
+
+44
+00:03:44,879 --> 00:03:46,800
+thẳng bên phía Figma sẽ tốn tiền
+
+45
+00:03:46,800 --> 00:03:50,080
+nhưng từ cái mấu lặng bàn tay
+
+46
+00:03:50,080 --> 00:03:55,680
+em nhờ bên phía AI sửa lại hết từ đầu cho nó đi theo đúng cái mấu đó
+
+47
+00:03:55,680 --> 00:03:58,719
+sau đó là output giảng ảnh
+
+48
+00:03:58,719 --> 00:04:02,400
+ảnh thì nó sẽ output đúng ở trên terminal của em, em chỉ cần xem thôi
+
+49
+00:04:02,400 --> 00:04:06,000
+đi ở đây, đây là output của bên phía app chính
+
+50
+00:04:06,000 --> 00:04:09,000
+đó là so sánh với figma bên kia
+
+51
+00:04:09,000 --> 00:04:14,639
+thì đúng là trang figma này là riêng cho bên phía AI
+
+52
+00:04:14,639 --> 00:04:16,199
+dạng output của design
+
+53
+00:04:16,199 --> 00:04:21,399
+sau đó em sẽ handoff cho bên phía chỉ lớn của em cho xem có ok không
+
+54
+00:04:21,399 --> 00:04:26,000
+handoff pattern này nó khá là thú vị ở chỗ
+
+55
+00:04:26,000 --> 00:04:31,000
+là mình không cần test UI, UX trên tay
+
+56
+00:04:31,000 --> 00:04:35,800
+UX thì chắc là một đợt, tiếng một đợt sau cho OGIFT cho mọi người
+
+57
+00:04:35,800 --> 00:04:38,560
+Ui thì không có khó đâu
+
+58
+00:04:38,560 --> 00:04:41,560
+mình chỉ nhờ bên phía AI nó chụp ảnh, rồi nó gửi lại cho mình thôi
+
+59
+00:04:41,560 --> 00:04:45,000
+điều kiện của cái prompt này nó không có cái gì khó đâu
+
+60
+00:04:45,000 --> 00:04:46,360
+là end to end test
+
+61
+00:04:46,360 --> 00:04:48,360
+lấy ảnh
+
+62
+00:04:48,360 --> 00:04:51,800
+chụp ảnh sau đó là convert cái ảnh đó sang Figma
+
+63
+00:04:51,800 --> 00:04:55,399
+thì cái prompt cho convert sang Figma
+
+64
+00:04:55,399 --> 00:04:57,560
+cho đỡ bên phía chỉ lớn
+
+65
+00:04:57,560 --> 00:04:59,399
+của em bị phiền phức
+
+66
+00:04:59,399 --> 00:05:01,879
+em gửi prompt trên Discord
+
+67
+00:05:01,879 --> 00:05:06,220
+và có 1 cái prompt tránh nesting
+
+68
+00:05:06,220 --> 00:05:13,259
+nhập bên phía AI dùng cái ảnh đó, convert sang Figma
+
+69
+00:05:13,259 --> 00:05:17,759
+rồi đó là đừng có nest giá man trong Figma thôi
+
+70
+00:05:17,759 --> 00:05:20,000
+chắc vậy thôi
+
+71
+00:05:20,000 --> 00:05:26,139
+pattern này nó sẽ có nhiều ưu điểm
+
+72
+00:05:26,139 --> 00:05:27,399
+vì do là mình không cần ở trên máy
+
+73
+00:05:27,399 --> 00:05:31,180
+mình chỉ nhờ bên phía AI output ở đây
+
+74
+00:05:31,180 --> 00:05:38,180
+sau này em sẽ làm một phần mềm bên phía
+
+75
+00:05:38,180 --> 00:05:46,180
+làm như thế nào cho nó gửi email cho em hoặc nó chạy ở trên
+
+76
+00:05:46,180 --> 00:05:50,680
+mình sẽ gửi ảnh trên cái Grogbot của em
+
+77
+00:05:50,680 --> 00:05:55,180
+chắc là trên này không nghĩa à
+
+78
+00:05:55,180 --> 00:05:59,180
+chắc để sinh sai
+
+79
+00:05:59,180 --> 00:06:03,180
+một cái Grogbot hơi hơi giống như bên phía ở đây
+
+80
+00:06:03,180 --> 00:06:09,180
+Grogbot thì nó có ưu điểm là mình có thể đưa một cái artifact nằm ở trên này luôn
+
+81
+00:06:09,180 --> 00:06:13,180
+thì em có một cái Grogbot riêng của em
+
+82
+00:06:13,180 --> 00:06:17,540
+em sẽ sau này gửi ảnh ở trên đó cho kiểm tra artifact
+
+83
+00:06:17,540 --> 00:06:19,620
+và nhờ bên phía AI gửi email cho em
+
+84
+00:06:19,620 --> 00:06:21,620
+như là trong trường hợp em đi ra ngoài
+
+85
+00:06:21,620 --> 00:06:25,379
+em mua đồ sắm cho bé của em
+
+86
+00:06:25,379 --> 00:06:28,220
+thì nhờ bên phía bot nó sẽ bị hết
+
+87
+00:06:28,220 --> 00:06:33,339
+và cũng không phải là khác trên pattern mình đang có dùng ở trên Pi hiện tại
+
+88
+00:06:33,339 --> 00:06:37,420
+thì Pi cũng gửi ảnh thẳng ở trên này thôi
+
+89
+00:06:37,420 --> 00:06:43,420
+Chắc hôm nay chỉ giới thiệu cái
+
+90
+00:06:43,420 --> 00:06:47,420
+Outerfacts cho output thôi
+
+91
+00:06:47,420 --> 00:06:51,420
+Mọi người quen dùng Cloud Code hoặc là Codex
+
+92
+00:06:51,420 --> 00:06:54,420
+Nó có cái trang Outerfacts bên phía phải rồi
+
+93
+00:06:54,420 --> 00:06:56,420
+Nhưng cái đấy là dạng Interactive
+
+94
+00:06:56,420 --> 00:06:58,420
+Em thì đang cần một cái
+
+95
+00:06:58,420 --> 00:07:00,420
+Em đi ra ngoài chơi chơi đi xíu
+
+96
+00:07:00,420 --> 00:07:02,420
+Sau đó em quay lại em thấy nó ok
+
+97
+00:07:02,420 --> 00:07:04,420
+Ok thì em flop lại tiếp
+
+98
+00:07:04,420 --> 00:07:06,420
+Cho nó output đúng mô hình của em thôi
+
+99
+00:07:07,420 --> 00:07:24,420
+Anh có một hỏi nha, anh đang hiểu là ban đầu đã có một cái design sẵn, sau đó em làm là em đã điều chỉnh lại cái UI đó bằng cái InSpo đúng không?
+
+100
+00:07:24,420 --> 00:07:31,420
+Xong rồi em mới làm một cái chuyện nữa là em lát cái đấy lên trên Figma sử dụng MCP, đúng không Tân?
+
+101
+00:07:31,420 --> 00:07:40,420
+Đúng ra là mấy trang Playment, chắc bên phía em Tuấn cũng biết
+
+102
+00:07:40,420 --> 00:07:46,420
+Một cái mấu cho làm 3D
+
+103
+00:07:46,420 --> 00:07:52,420
+Bên phía AI cũng tìm kiếm một cái về bên phía shop
+
+104
+00:07:52,420 --> 00:07:58,420
+Một cái 3D về xem sách ảnh
+
+105
+00:07:58,420 --> 00:08:00,420
+tức là copy từ cái này thôi
+
+106
+00:08:00,420 --> 00:08:02,420
+nên là mình nhờ bên phía AI
+
+107
+00:08:02,420 --> 00:08:04,420
+vô ở trong trang này
+
+108
+00:08:04,420 --> 00:08:06,420
+record một cái video sau đó là hiểu cái hái niệm
+
+109
+00:08:06,420 --> 00:08:08,420
+về animation drag này nọ
+
+110
+00:08:08,420 --> 00:08:12,420
+và sắp xếp 3D của sách như thế nào
+
+111
+00:08:12,420 --> 00:08:14,420
+đó là nhờ cho nó quất thôi
+
+112
+00:08:14,420 --> 00:08:16,420
+tại này, Astral và Fable
+
+113
+00:08:16,420 --> 00:08:20,420
+hiện tại là ổn nhất cho làm đúng theo mong muốn của mình
+
+114
+00:08:20,420 --> 00:08:26,420
+còn mấy cái nhỏ chi tiết thì mình sẽ chỉnh sửa lúc ở trong prop thôi
+
+115
+00:08:26,420 --> 00:08:35,659
+hơi như suy nghĩ của khách hàng thì hình thoại hơi OCD thì mỗi ngày sẽ nhắn tin cho mình chuyển
+
+116
+00:08:35,659 --> 00:08:40,419
+sửa cái ABCD này nói thì mình chơi như vậy với AI nó chuyển sửa cho mình thôi.
+
+117
+00:08:40,419 --> 00:08:50,600
+Có câu gọi của anh cho phần liên quan đến phần Tuấn làm đi, vậy thì sau đấy xong với setup của em
+
+118
+00:08:50,600 --> 00:08:55,299
+thì nếu mà dự án tiếp tục phát triển tiếp, thêm feature
+
+119
+00:08:55,299 --> 00:08:58,600
+thì cái sort of truth của em sẽ maintain ở đâu?
+
+120
+00:08:58,600 --> 00:08:59,600
+Figma hả?
+
+121
+00:08:59,600 --> 00:09:00,600
+Hoặc là code
+
+122
+00:09:00,600 --> 00:09:07,600
+Figma là inspiration
+
+123
+00:09:07,600 --> 00:09:13,600
+hơi giống như bên phía install MCP hoặc là UI kit bên phía em Tuấn
+
+124
+00:09:13,600 --> 00:09:19,600
+chủ yếu là nó là một chỗ cho mình tương tác một style xây dựng
+
+125
+00:09:19,600 --> 00:09:22,919
+xây dựng hơn là dạng là Social Truth
+
+126
+00:09:22,919 --> 00:09:26,320
+thì nó sẽ là Social Reference cho bên phía AI
+
+127
+00:09:26,320 --> 00:09:28,279
+Social Truth là vấn vào code
+
+128
+00:09:28,279 --> 00:09:32,000
+tất cả tài sản nó sẽ vào code hết
+
+129
+00:09:32,000 --> 00:09:37,639
+nếu là Reference của product thì nó nằm vào cho hack
+
+130
+00:09:37,639 --> 00:09:39,639
+thì nó vẫn là Reference thôi
+
+131
+00:09:39,639 --> 00:09:41,360
+Social Truth nó vẫn nằm vào trên code
+
+132
+00:09:41,360 --> 00:09:45,279
+Nhưng mà câu hỏi là với người khách hàng thì sao?
+
+133
+00:09:45,279 --> 00:09:50,700
+Người khách hàng là người mà người ta sẽ có ý tưởng mới để người ta thêm vào tiếp
+
+134
+00:09:50,700 --> 00:09:57,279
+Lúc mà người ta thêm ý tưởng mới vào thì người ta đâu có version related để người ta làm đâu
+
+135
+00:09:57,279 --> 00:10:01,539
+Tại vì người ta đâu có hands on trên level của code base đâu
+
+136
+00:10:01,539 --> 00:10:03,539
+Lúc đó mình xử lý như thế nào
+
+137
+00:10:03,539 --> 00:10:07,279
+Cái này là cái hải nghiệm về artifact
+
+138
+00:10:07,279 --> 00:10:09,980
+Hiện tại là artifact em đang làm là dạng ảnh
+
+139
+00:10:09,980 --> 00:10:13,740
+nhưng chắc đợt schedule đợt ô gip sau
+
+140
+00:10:13,740 --> 00:10:15,980
+em sẽ đi sâu về UX
+
+141
+00:10:15,980 --> 00:10:17,480
+UX thì...
+
+142
+00:10:17,480 --> 00:10:20,980
+ví dụ cái output của bên phía AI đưa là dạng ảnh
+
+143
+00:10:20,980 --> 00:10:23,179
+nhưng mình muốn thêm một cái feature
+
+144
+00:10:23,179 --> 00:10:25,179
+ví dụ là thêm feature trên miệng, trên Slack
+
+145
+00:10:25,179 --> 00:10:27,179
+add thêm ở trên app xong
+
+146
+00:10:27,179 --> 00:10:29,980
+nhưng không biết ở chỗ nào cho bên phía hack hàng biết
+
+147
+00:10:29,980 --> 00:10:31,480
+mình đã update ở đâu ấy
+
+148
+00:10:31,480 --> 00:10:34,480
+thì nó sẽ là record dạng video, end to end video
+
+149
+00:10:34,480 --> 00:10:36,179
+gửi lại cho bên phía hack hàng
+
+150
+00:10:36,179 --> 00:10:38,179
+thì nó là một artifact dạng video
+
+151
+00:10:38,179 --> 00:10:40,940
+cũng không phải là source of truth, nó là source of reference
+
+152
+00:10:40,940 --> 00:10:43,860
+nhưng ít nhất là video đó có thể
+
+153
+00:10:43,860 --> 00:10:47,419
+khách hàng biết có feature nó cảm giác như thế nào
+
+154
+00:10:47,419 --> 00:10:49,500
+và không cần khách hàng test gì hết
+
+155
+00:10:49,500 --> 00:10:52,500
+để nó animate như thế nào, tương tác như thế nào
+
+156
+00:10:52,500 --> 00:10:56,860
+nó cũng là một cái mẫu sau này cho làm promo video
+
+157
+00:10:56,860 --> 00:11:02,299
+chủ yếu là product nữa nữa
+
+158
+00:11:02,299 --> 00:11:04,299
+tây giờ đó là chưa có đúng không?
+
+159
+00:11:04,299 --> 00:11:09,059
+Player đúng ra là bên phía in loop em có một cái cho về browser
+
+160
+00:11:09,059 --> 00:11:12,299
+browser nó có cái khái niệm gọi là oral web
+
+161
+00:11:12,299 --> 00:11:14,440
+em không cần record
+
+162
+00:11:14,440 --> 00:11:17,860
+chắc mọi người chơi với post hoc nhiều rồi
+
+163
+00:11:17,860 --> 00:11:19,299
+nó có một cái trang riêng
+
+164
+00:11:19,299 --> 00:11:23,059
+record DOM trực tiếp cho bên phía post hoc
+
+165
+00:11:23,059 --> 00:11:26,659
+thế là lúc nó lấy thông tin ở trên trang web
+
+166
+00:11:26,659 --> 00:11:29,600
+nó record DOM của những người user
+
+167
+00:11:29,600 --> 00:11:31,659
+tương tác ở trên web như thế nào
+
+168
+00:11:31,659 --> 00:11:33,340
+sau đó là xây dựng hitmap ở trên đó
+
+169
+00:11:33,340 --> 00:11:38,340
+VeeBrowser đã có rồi, không biết có mấu ở đây không ta
+
+170
+00:11:38,340 --> 00:11:49,340
+Để xem có cái mấu ở chỗ này
+
+171
+00:11:49,340 --> 00:11:51,340
+Chúng ta sẽ là cái concept của cái này là
+
+172
+00:11:51,340 --> 00:12:02,340
+Chỗ này nó là DOM hết, ví dụ nó có có hết ở trên này
+
+173
+00:12:02,340 --> 00:12:09,340
+thì cái này đang có tác dụng cho bên phía Project Inlook
+
+174
+00:12:09,340 --> 00:12:18,340
+nên là kể cả bên phía em, em và khách hàng cũng không thích mất thời gian cho demo và chơi thử feature ấy
+
+175
+00:12:18,340 --> 00:12:23,340
+thì nhờ bên phía AI chơi thử cho mình record lại, sau đó gửi gửi cho 2 bên
+
+176
+00:12:23,340 --> 00:12:29,340
+và em sẽ xem là UX là ok, có vẻ UI chưa tốt nhưng UX là tuyệt vời rồi
+
+177
+00:12:29,340 --> 00:12:34,139
+hãy khẳng cũng thế như vậy chẳng như là mình đem ôt hãy khẳng là ra áo quất như vậy
+
+178
+00:12:34,139 --> 00:12:42,940
+hiểu có nhà ok rồi đáp liên hội dung của buổi hôm nay có vài câu hỏi từ bên phía trên
+
+179
+00:12:42,940 --> 00:12:46,940
+Thứ nhất anh hỏi là sao không dạy chị em luôn cho khỏe
+
+180
+00:12:46,940 --> 00:13:01,940
+Đứng ra là ra HTML thì nó có một skill của Hyperframe
+
+181
+00:13:01,940 --> 00:13:04,940
+Mọi người có dùng bên phía Hyperframe
+
+182
+00:13:04,940 --> 00:13:09,940
+Agents
+
+183
+00:13:12,940 --> 00:13:16,940
+HyperFrame launch video đi
+
+184
+00:13:16,940 --> 00:13:18,940
+Launch...
+
+185
+00:13:18,940 --> 00:13:20,940
+Keyframes
+
+186
+00:13:20,940 --> 00:13:22,940
+Yeah
+
+187
+00:13:22,940 --> 00:13:25,940
+Nếu như HyperFrame nó chạy ở trên HTML
+
+188
+00:13:25,940 --> 00:13:28,940
+thì HTML này nó sẽ chạy một cái player
+
+189
+00:13:28,940 --> 00:13:32,940
+bên phía HyperFrame cho mình edit video
+
+190
+00:13:32,940 --> 00:13:34,940
+Ở phía sau nó cũng là HTML
+
+191
+00:13:34,940 --> 00:13:38,940
+nhưng HTML này nó xịn xắn rồi á
+
+192
+00:13:38,940 --> 00:13:44,379
+nên hơi giống như mình có một mẫu source of reference trên phía AI
+
+193
+00:13:44,379 --> 00:13:48,940
+cũng tương tác với HTML cho record và video cho mình
+
+194
+00:13:48,940 --> 00:13:52,580
+Được ra là medium này nào cũng không quá lo
+
+195
+00:13:52,580 --> 00:13:58,200
+có thể output mp4, HTML hoặc keyframe
+
+196
+00:13:58,200 --> 00:14:05,700
+Nếu mình có một artifact thì mình sẽ dùng một tương tác với mấy cái idea của mình dễ hơn
+
+197
+00:14:05,700 --> 00:14:11,299
+Hiện tại thì em thấy dùng ảnh thì nó sẽ dễ iterate hơn
+
+198
+00:14:11,299 --> 00:14:15,500
+vì một là nó sẽ không tốn quá nhiều thời gian cho iterate về UI
+
+199
+00:14:15,500 --> 00:14:17,600
+UX thì là một chuyện khác
+
+200
+00:14:17,600 --> 00:14:23,600
+Còn UI thì ví dụ là em có một cái idea bên phía với chị lớn đấy
+
+201
+00:14:23,600 --> 00:14:28,200
+Một cái mobile app, cả desktop app cho kiểu...
+
+202
+00:14:28,200 --> 00:14:30,399
+hơi như là Pomodoro cho...
+
+203
+00:14:30,399 --> 00:14:32,399
+MMO Pomodoro à?
+
+204
+00:14:32,399 --> 00:14:37,200
+thì mình ngồi ở chỗ nào thì mình sẽ nhận thêm item
+
+205
+00:14:37,200 --> 00:14:45,200
+mình có thể bán item đó hoặc là mình mua bán thiết bị, mua bán quản áo này
+
+206
+00:14:45,200 --> 00:14:51,600
+nên là tặng thời vẫn đang iterate về design trước
+
+207
+00:14:51,600 --> 00:14:53,799
+nên là UX thì chưa cần lắm
+
+208
+00:14:53,799 --> 00:14:57,399
+performance thì cũng chưa đến đoạn này là cần
+
+209
+00:14:57,399 --> 00:15:01,000
+nhưng optimize cũng dễ, mình nhập BPAI Optimize đã xong rồi
+
+210
+00:15:01,000 --> 00:15:13,779
+Ok, oh nice. Đó, chắc là câu hỏi dành cho Tom, anh nghĩ là tới đây. Cảm ơn Tom về cái phần chia sẻ của Tom nha.
+
+211
+00:15:14,700 --> 00:15:21,720
+Hai cái topic này anh đang xếp nó vào, thật ra không phải phần brand nhiều mà team mình bắt đầu,
+
+212
+00:15:22,179 --> 00:15:28,919
+bắt đầu mấy bạn chuyển hướng một phần sang phía design system, một phần sang hướng làm sản phẩm á.
+
+213
+00:15:28,919 --> 00:15:36,840
+thì anh nghĩ những chủ đề này nó sẽ theo cái suy nghĩ của anh thì nó sẽ gom về cái hướng là
+
+214
+00:15:36,840 --> 00:15:42,840
+hỗ trợ cái chuyện làm sản phẩm nó dễ hơn rồi tai pin rồi những thứ khác
+
+215
+00:15:42,840 --> 00:15:58,500
+Ừ rồi Ủa phút có có muốn lên show đâu không 5 phút có có có có có phút anh Thành đang đang
+
+216
+00:15:58,500 --> 00:16:00,500
+kìa cô
+
+217
+00:16:00,500 --> 00:16:08,179
+muốn lên quẩy 5 phút không em
+
+218
+00:16:08,179 --> 00:16:18,080
+rồi ok tắt ra kêu cho tuần sau nhé thật là buổi khác rồi anh em xem còn có hỏi gì không
+
+219
+00:16:18,080 --> 00:16:23,559
+nếu không thì chắc mình kết thúc buổi ngày hôm nay đây hay sách sạch đủ ngắn đủ dễ hiểu mọi
+
+220
+00:16:23,559 --> 00:16:26,399
+nếu sau này có những cái topic nào thêm
+
+221
+00:16:26,399 --> 00:16:28,299
+mà liên quan tới chuyện làm product
+
+222
+00:16:28,299 --> 00:16:30,440
+những kỹ năng đó
+
+223
+00:16:30,440 --> 00:16:32,480
+là cần thiết cho cái đội của mình
+
+224
+00:16:32,480 --> 00:16:33,580
+nó đi chờ consulting
+
+225
+00:16:33,580 --> 00:16:36,080
+tất cả những kỹ thuật nó giúp cho mình
+
+226
+00:16:36,080 --> 00:16:37,240
+chuyện làm nghề nó dễ hơn
+
+227
+00:16:37,240 --> 00:16:39,840
+thì anh em trao đổi kỹ thuật với nhau
+
+228
+00:16:39,840 --> 00:16:42,240
+Rồi ok, nếu mà không có gì khác
+
+229
+00:16:42,240 --> 00:16:43,799
+thì chắc là mình sẽ kết thúc ở đây
+
+230
+00:16:43,799 --> 00:16:45,019
+Cảm ơn mọi người đã tham gia
+
+231
+00:16:45,019 --> 00:16:47,700
+Hẹn gặp lại buổi tiếp theo
+
+232
+00:16:47,700 --> 00:16:49,600
+Chào tạm biệt
+
+233
+00:16:49,600 --> 00:16:50,740
+Bye bye
+

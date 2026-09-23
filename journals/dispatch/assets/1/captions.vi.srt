@@ -1,0 +1,804 @@
+1
+00:00:00,660 --> 00:00:02,540
+thôi mời
+
+2
+00:00:02,540 --> 00:00:04,400
+cháu đoạn bắt đầu luôn nha
+
+3
+00:00:04,400 --> 00:00:05,799
+mời Tuấn
+
+4
+00:00:05,799 --> 00:00:18,800
+hình như có cô không không anh thấy bình thường
+
+5
+00:00:18,800 --> 00:00:32,799
+hôm nay là em giới thiệu cái UI kit thì nói kit thì hơi fancy
+
+6
+00:00:32,799 --> 00:00:38,799
+nói như anh bảo nó cũng fancy
+
+7
+00:00:38,799 --> 00:00:45,140
+Thật ra là cái kit này là em gớt này gớt kia, nhạc này nhạc kia bắt vô thành cái workflow.
+
+8
+00:00:48,420 --> 00:01:04,239
+Thì câu chuyện là tuần trước anh Bảo có hỏi em là hiện tại cái approach mà mình dùng cho một cái project từ không có UI gì hết mà là được cái UI nhìn nó không có bị slot.
+
+9
+00:01:04,239 --> 00:01:11,640
+thì đang như thế nào thì thú thật là em cũng không biết tại vì em giờ đi nhanh quá em không biết là
+
+10
+00:01:11,640 --> 00:01:18,819
+xã hội nó làm sao luôn tại vì nó là một phần nữa là em làm vô lô mà vô lô thì lúc mà ý là nó đã có
+
+11
+00:01:18,819 --> 00:01:26,620
+sẵn với máy bên designer đưa qua rồi là không có tính cái số được thì mới nhưng em mới nhận cơ hội
+
+12
+00:01:26,620 --> 00:01:35,739
+làm luôn cái vô kích sẵn tiện học luôn thì cái vô kích mọi người thấy cái flow cái cái cái ra
+
+13
+00:01:35,739 --> 00:01:40,939
+này hơi phức tạp nhưng mà mọi người chỉ cần quan tâm cái chính giữa thôi cái 0 1 2 3 này
+
+14
+00:01:40,939 --> 00:01:51,939
+bản chất của nó là nó sẽ giúp mình đi phải ra một cái system có sẵn trong có và mình sẽ dựa vô
+
+15
+00:01:51,939 --> 00:01:54,340
+cái đó làm cái số sấp trước
+
+16
+00:01:54,340 --> 00:01:56,099
+xong rồi mình
+
+17
+00:01:56,099 --> 00:01:58,379
+mình spawn ra nhiều cái
+
+18
+00:01:58,379 --> 00:01:59,680
+variant design
+
+19
+00:01:59,680 --> 00:02:02,680
+trong quá trình
+
+20
+00:02:02,680 --> 00:02:04,299
+mình có thể là
+
+21
+00:02:04,299 --> 00:02:05,739
+có variant A
+
+22
+00:02:05,739 --> 00:02:07,060
+có cái UI này hay
+
+23
+00:02:07,060 --> 00:02:09,639
+variant B có cái UI kia
+
+24
+00:02:09,639 --> 00:02:11,460
+nhìn đẹp cái kiểu vậy thì mình có thể
+
+25
+00:02:11,460 --> 00:02:13,560
+pick cái này từ cái này
+
+26
+00:02:13,560 --> 00:02:15,219
+pick cái kia từ kia rồi gợp lại
+
+27
+00:02:15,219 --> 00:02:17,599
+một cái flow và cuối cùng là
+
+28
+00:02:17,599 --> 00:02:18,319
+implement
+
+29
+00:02:18,319 --> 00:02:21,520
+thì cái co idea là vậy
+
+30
+00:02:21,939 --> 00:02:30,759
+nếu mà để đi vào cái comment của kit thì đầu tiên là có setup thì cái comment setup là nó chỉ
+
+31
+00:02:30,759 --> 00:02:41,979
+làm là nó hỏi user về cái text stack của cái project là cái nhất cái hai là để lưu mấy cái flow
+
+32
+00:02:41,979 --> 00:02:49,419
+để đâu thì chi tiết mấy flow là gì thì lấy anh nói sao thì nói chung là những cái câu hỏi để biết
+
+33
+00:02:49,419 --> 00:02:51,259
+đang có những gì trong cái project này
+
+34
+00:02:51,259 --> 00:02:53,400
+để những bước sau nó không hỏi lại
+
+35
+00:02:53,400 --> 00:02:55,060
+nếu như mọi người không có làm bước sau
+
+36
+00:02:55,060 --> 00:02:57,240
+thì những cái skill sau
+
+37
+00:02:57,240 --> 00:02:58,419
+nó cũng sẽ hỏi lại thôi
+
+38
+00:02:58,419 --> 00:03:00,639
+đó là cái nhất
+
+39
+00:03:00,639 --> 00:03:03,520
+sau đó thì mọi người sẽ có cái là
+
+40
+00:03:03,520 --> 00:03:05,699
+initial design system
+
+41
+00:03:05,699 --> 00:03:07,740
+thì cái này nó sẽ
+
+42
+00:03:07,740 --> 00:03:08,419
+giúp
+
+43
+00:03:08,419 --> 00:03:11,319
+mình scaffold một cái bộ design system
+
+44
+00:03:11,319 --> 00:03:13,159
+theo em nghĩ là
+
+45
+00:03:13,159 --> 00:03:15,580
+cũng đúng chuẩn
+
+46
+00:03:15,580 --> 00:03:17,300
+cũng gọi là tạm được so với
+
+47
+00:03:17,300 --> 00:03:18,199
+tư chuẩn hiện tại
+
+48
+00:03:18,199 --> 00:03:20,120
+nó không phải là chi tiết quá
+
+49
+00:03:20,120 --> 00:03:21,360
+mà cũng không phải sâu sài quá
+
+50
+00:03:21,360 --> 00:03:22,580
+nó đủ dùng
+
+51
+00:03:22,580 --> 00:03:26,300
+nó nãy giờ quên gửi link mọi người
+
+52
+00:03:26,300 --> 00:03:27,979
+mình gửi link mọi người
+
+53
+00:03:27,979 --> 00:03:28,819
+mình gửi vô đây
+
+54
+00:03:28,819 --> 00:03:31,719
+mọi người cùng coi
+
+55
+00:03:31,719 --> 00:03:37,240
+rồi quay lại cái design system
+
+56
+00:03:37,240 --> 00:03:39,699
+thì sau khi nó generate xong rồi
+
+57
+00:03:39,699 --> 00:03:41,400
+mình sẽ có một cái
+
+58
+00:03:41,400 --> 00:03:43,740
+bước tiếp theo là prototype
+
+59
+00:03:43,740 --> 00:03:45,039
+tại vì
+
+60
+00:03:45,039 --> 00:03:46,740
+ờ
+
+61
+00:03:48,199 --> 00:03:54,800
+Em nghĩ là cái bare minimum của một cái project là nó phải có ít nhất là cái product MD
+
+62
+00:03:54,800 --> 00:04:01,500
+là kiểu như cái description về cái project đó cũng như là cái feature roadmap
+
+63
+00:04:01,500 --> 00:04:11,300
+thì mình sẽ cần hai cái file đó để kiểu như là prototype thử một cái flow feature nó sẽ như thế nào
+
+64
+00:04:11,300 --> 00:04:13,300
+thì nó sẽ là cái bước 2 này
+
+65
+00:04:13,300 --> 00:04:22,060
+Ờ để ở đây để mà hạn chế slot thì em có quyết định dùng thêm một vài nguồn
+
+66
+00:04:22,060 --> 00:04:23,480
+Ví dụ như thằng Mubbin
+
+67
+00:04:23,480 --> 00:04:26,399
+Mubbin nó là không biết mọi người biết chưa
+
+68
+00:04:26,399 --> 00:04:29,019
+Nhưng mà Mubbin nó là một cái kiểu collection
+
+69
+00:04:29,019 --> 00:04:31,699
+Những cái UI ngoài đời thật
+
+70
+00:04:31,699 --> 00:04:35,199
+iOS có, web cũng có luôn
+
+71
+00:04:35,199 --> 00:04:38,980
+Thì mình có thể gắn thêm cái này cho con agent
+
+72
+00:04:38,980 --> 00:04:43,620
+nó có thể reference từ những cái button đã có sẵn rồi
+
+73
+00:04:43,620 --> 00:04:47,139
+thì nó sẽ đỡ slope hơn, nó sẽ đỡ chế hơn
+
+74
+00:04:47,139 --> 00:04:48,879
+thì nó là một phần
+
+75
+00:04:48,879 --> 00:04:53,699
+thì sau khi mà mình có prototype rồi
+
+76
+00:04:53,699 --> 00:04:56,560
+mình có flow rồi
+
+77
+00:04:56,560 --> 00:04:57,759
+mình tới bước chung như mình
+
+78
+00:04:57,759 --> 00:05:00,740
+chung như mình bước này thì em nghĩ là nó cũng straightforward
+
+79
+00:05:00,740 --> 00:05:04,399
+nó chỉ lấy từ flow rồi đưa cái code đó vô
+
+80
+00:05:04,399 --> 00:05:05,980
+cái code mình thực sự dùng thôi
+
+81
+00:05:05,980 --> 00:05:08,360
+rồi
+
+82
+00:05:08,360 --> 00:05:10,060
+thì
+
+83
+00:05:10,060 --> 00:05:15,139
+em có rử
+
+84
+00:05:15,139 --> 00:05:19,240
+có một cái nữa comment này
+
+85
+00:05:19,240 --> 00:05:20,639
+cũng kiểu chỉ giúp
+
+86
+00:05:20,639 --> 00:05:22,459
+onboarding mọi người
+
+87
+00:05:22,459 --> 00:05:24,120
+nếu mà mọi người thực sự quyết định dùng
+
+88
+00:05:24,120 --> 00:05:25,399
+cái UIKit của em
+
+89
+00:05:25,399 --> 00:05:28,360
+là mọi người có thấy UIKit
+
+90
+00:05:28,360 --> 00:05:30,620
+để kiểu như là
+
+91
+00:05:30,620 --> 00:05:32,439
+nếu như mọi người không biết là tiếp theo
+
+92
+00:05:32,439 --> 00:05:34,000
+nên làm cái gì thì cứ UIKit
+
+93
+00:05:34,000 --> 00:05:35,360
+nó sẽ cho biết là
+
+94
+00:05:35,360 --> 00:05:38,439
+Cái project hiện tại đang ở cái bước nào
+
+95
+00:05:38,439 --> 00:05:40,959
+Và cần chạy theo một thùng mấy nào nữa
+
+96
+00:05:40,959 --> 00:05:42,120
+Để mà qua bước tiếp theo
+
+97
+00:05:42,120 --> 00:05:44,019
+Thì đó là cái bắt
+
+98
+00:05:44,019 --> 00:05:49,459
+Rồi em nghĩ
+
+99
+00:05:49,459 --> 00:05:51,300
+Cái
+
+100
+00:05:51,300 --> 00:05:53,439
+Cái call chắc kính như đó
+
+101
+00:05:53,439 --> 00:05:55,459
+Còn nếu như tiếp theo
+
+102
+00:05:55,459 --> 00:05:57,040
+Chắc là em show mấy cái kết quả
+
+103
+00:05:57,040 --> 00:05:57,939
+Em apply
+
+104
+00:05:57,939 --> 00:06:00,959
+Vô mấy cái dự án của anh Bảo
+
+105
+00:06:00,959 --> 00:06:04,399
+Đầu tiên là cái
+
+106
+00:06:04,399 --> 00:06:05,319
+[dự án khách hàng]
+
+107
+00:06:05,319 --> 00:06:06,639
+[dự án khách hàng] thì
+
+108
+00:06:06,639 --> 00:06:08,779
+nó là một cái project
+
+109
+00:06:08,779 --> 00:06:11,339
+kiểu như là
+
+110
+00:06:11,339 --> 00:06:13,620
+cho thuê nơi ở
+
+111
+00:06:13,620 --> 00:06:14,500
+trung hạn
+
+112
+00:06:14,500 --> 00:06:17,459
+thì nó sẽ hơi giống
+
+113
+00:06:17,459 --> 00:06:19,439
+EB&B nhưng mà
+
+114
+00:06:19,439 --> 00:06:21,360
+MBB là kiểu mọi người đi chơi
+
+115
+00:06:21,360 --> 00:06:23,259
+mọi người thuê chỗ ở EB&B
+
+116
+00:06:23,259 --> 00:06:25,120
+vài ngày hoặc là
+
+117
+00:06:25,120 --> 00:06:26,300
+cùng lắm là vài tuần
+
+118
+00:06:26,300 --> 00:06:28,819
+còn cái này nó sẽ kiểu như là thuê
+
+119
+00:06:28,819 --> 00:06:30,079
+6 tháng hoặc tới 1 năm
+
+120
+00:06:30,079 --> 00:06:32,459
+ID nó chỉ đơn giản thôi
+
+121
+00:06:32,459 --> 00:06:35,139
+thì cái cần là cái đưa từ
+
+122
+00:06:35,139 --> 00:06:36,939
+cái say của dự án không
+
+123
+00:06:36,939 --> 00:06:39,199
+chưa có UA hết ra thành một cái giống như vậy
+
+124
+00:06:39,199 --> 00:06:43,199
+em không có show được
+
+125
+00:06:43,199 --> 00:06:45,420
+cái văn sinh đầu tiên nhưng mà
+
+126
+00:06:45,420 --> 00:06:46,920
+khá chẳng mọi người văn sinh đầu tiên
+
+127
+00:06:46,920 --> 00:06:48,660
+nó không có được như vậy
+
+128
+00:06:48,660 --> 00:06:50,800
+rồi
+
+129
+00:06:50,800 --> 00:06:53,500
+cái này là cái sản phẩm cuối cùng
+
+130
+00:06:53,500 --> 00:06:57,240
+có em
+
+131
+00:06:57,240 --> 00:06:58,180
+nói chung là
+
+132
+00:06:58,180 --> 00:07:01,060
+cái này là từ cái design system ra hết
+
+133
+00:07:02,459 --> 00:07:06,060
+rồi cái chỗ design system thì nó sẽ nằm ở đây
+
+134
+00:07:07,060 --> 00:07:17,759
+lúc mà chơi xong thì cái trang này là cái trang mà sản phẩm của nó mọi người sẽ có được mấy cái tiêu chuẩn như là logo rồi phong chữ rồi bảng màu các thứ
+
+135
+00:07:24,259 --> 00:07:26,259
+em nghĩ là cũng
+
+136
+00:07:27,699 --> 00:07:29,199
+cover gần đủ
+
+137
+00:07:29,199 --> 00:07:32,040
+rồi đây là bước
+
+138
+00:07:32,040 --> 00:07:34,000
+còn cái bước prototype
+
+139
+00:07:34,000 --> 00:07:34,579
+thì
+
+140
+00:07:34,579 --> 00:07:36,980
+mọi người sẽ
+
+141
+00:07:36,980 --> 00:07:38,339
+lúc mà mọi người làm
+
+142
+00:07:38,339 --> 00:07:40,220
+mọi người sẽ kêu nó là prototype
+
+143
+00:07:40,220 --> 00:07:42,259
+và spawn ra thử nhiều cái
+
+144
+00:07:42,259 --> 00:07:42,879
+variant
+
+145
+00:07:42,879 --> 00:07:44,699
+như đây là em dùng
+
+146
+00:07:44,699 --> 00:07:47,860
+spawn ra
+
+147
+00:07:47,860 --> 00:07:49,920
+chắc là 3-4 cái variant gì đó
+
+148
+00:07:49,920 --> 00:07:51,800
+của cái world game
+
+149
+00:07:51,800 --> 00:07:53,420
+mọi cái thì nó theo
+
+150
+00:07:53,420 --> 00:07:55,480
+một cái đặc thù
+
+151
+00:07:55,480 --> 00:07:57,240
+focus
+
+152
+00:07:57,240 --> 00:08:09,540
+là tại sao nó lại đi xa cách này rồi cái cái là mình chính của này là gì kiểu kiểu là ở đây nó cũng
+
+153
+00:08:09,540 --> 00:08:15,240
+ghi là kiểu như nó làm cái này là tại vì nó dựa theo mất pin ngang CP có trên ngoài đời rồi rồi
+
+154
+00:08:15,240 --> 00:08:18,240
+còn mấy cái nó không có thì nó sẽ kiểu quyết định
+
+155
+00:08:18,240 --> 00:08:21,240
+thì nó có lý sản xuất mình
+
+156
+00:08:21,240 --> 00:08:23,240
+cái này là một version
+
+157
+00:08:23,240 --> 00:08:26,240
+thêm một version nữa
+
+158
+00:08:26,240 --> 00:08:31,240
+nói chung là tới bước này thì mọi người chỉ có là dựa vào cái
+
+159
+00:08:31,240 --> 00:08:34,240
+cái gu thôi em nghĩ là như vậy
+
+160
+00:08:34,240 --> 00:08:39,240
+3 cái nhìn nó cũng y chang nè nó cũng là chung một cái working
+
+161
+00:08:39,240 --> 00:08:44,240
+và cuối cùng thì chốt là chốt cái này
+
+162
+00:08:45,240 --> 00:08:53,480
+này mà nhìn là nó khá giống với cái mút cuối cùng rồi đó chỉ là thịt play sẵn kiểu
+
+163
+00:08:53,480 --> 00:09:03,659
+rồi thôi dài nhưng mà ý chính là vậy này nó cũng có lý sơ luôn
+
+164
+00:09:03,659 --> 00:09:20,779
+rồi ấn cho coi thêm ở trên giao diện xài đông nhà không cái bản em xài cái tôi mấy
+
+165
+00:09:20,779 --> 00:09:24,820
+comment của em thì nó có nó có mẫu output không cho mọi người xem tham khảo thử được
+
+166
+00:09:24,820 --> 00:09:37,240
+giờ em kiếm sao luôn đó tại vì em lúc mà em làm là nó rất là lộn xộn em kiếm hơi khó
+
+167
+00:09:37,240 --> 00:09:50,320
+biết kiếm được không
+
+168
+00:09:54,820 --> 00:10:02,820
+Ồ, tóm trở về với mấy nhà OpenCode Tân yêu ra
+
+169
+00:10:02,820 --> 00:10:11,820
+Tại vì em xài hết mấy cái, em xài hết cô ta rồi mới xài tạm OpenCode hơn
+
+170
+00:10:11,820 --> 00:10:20,820
+Đây chắc là đây là một cái em kêu nó prototype thì nó spawn ra mấy cái này
+
+171
+00:10:20,820 --> 00:10:24,120
+nè mấy cái này chắc cũng bỏ rồi nhìn nó vậy thôi chứ
+
+172
+00:10:24,120 --> 00:10:34,019
+nè kiểu kiểu vậy
+
+173
+00:10:34,019 --> 00:10:38,820
+output sẽ là cái
+
+174
+00:10:38,820 --> 00:10:45,820
+những cái giai đoạn mà trigger
+
+175
+00:10:45,820 --> 00:10:48,539
+trigger skill hay trigger command đâu
+
+176
+00:10:50,820 --> 00:11:05,860
+không biết không biết luôn không biết kiếm sao rồi Ok chắc vụ đột chắc cơ bản vậy thôi thời
+
+177
+00:11:05,860 --> 00:11:13,860
+gian cũng không còn nhiều anh em có câu hỏi trên thủ hỏi trong trong khi chuẩn bị cho cái sàn
+
+178
+00:11:13,860 --> 00:11:17,299
+Em nghĩ nếu mà
+
+179
+00:11:17,299 --> 00:11:18,960
+Cái của em mọi người
+
+180
+00:11:18,960 --> 00:11:20,460
+Không dùng cái của em cũng được
+
+181
+00:11:20,460 --> 00:11:22,440
+Nhưng mà có cái methodology
+
+182
+00:11:22,440 --> 00:11:25,340
+Là kiểu dùng một cái design system
+
+183
+00:11:25,340 --> 00:11:27,159
+Thành cái sọ trước
+
+184
+00:11:27,159 --> 00:11:29,000
+Xong rồi spawn ra nhiều cái virus
+
+185
+00:11:29,000 --> 00:11:30,059
+Của prototype á
+
+186
+00:11:30,059 --> 00:11:31,740
+Thì cái cách làm đó em nghĩ vẫn
+
+187
+00:11:31,740 --> 00:11:34,000
+Vẫn legit trong
+
+188
+00:11:34,000 --> 00:11:35,700
+Tối cảnh hiện tại
+
+189
+00:11:35,700 --> 00:11:38,679
+Kèm theo vài cái
+
+190
+00:11:38,679 --> 00:11:40,080
+Referent nữa như cái mapping
+
+191
+00:11:40,080 --> 00:11:42,480
+Nghĩ là
+
+192
+00:11:42,480 --> 00:11:43,519
+Được
+
+193
+00:11:43,860 --> 00:11:59,159
+biên comment biên comment bị hỏi biên gợi ý đi hỏi ai nói trước giờ cầm em đâu nó nó chỉ cho
+
+194
+00:11:59,159 --> 00:12:09,159
+tấn hết cô ta rồi Sợ ké hay là ra không dám không dám enter luôn á
+
+195
+00:12:09,159 --> 00:12:25,080
+nhưng mà à không có gì mọi người có câu hỏi gì không
+
+196
+00:12:25,080 --> 00:12:36,059
+anh chắc là không Cảm ơn Tuấn gì là tên hãy đi chính của em trong quá trình làm là có một
+
+197
+00:12:36,059 --> 00:12:43,620
+cái số lập chút đúng không cút cái file product trước xong rồi ra thành cái system
+
+198
+00:12:43,620 --> 00:12:54,720
+ở đó đang được lưu trữ đâu trong có luôn anh rồi lưu thì xong trong có luôn anh em sử dụng đó
+
+199
+00:12:54,720 --> 00:13:00,740
+làm cái số hợp chút rồi từ đó thì mình sẽ làm cái pro tay này chính đúng không ra được một số
+
+200
+00:13:00,740 --> 00:13:08,159
+vài rành để mà làm brainstorming rồi chọn cái đó biết được và dành cuối rồi sành web
+
+201
+00:13:08,159 --> 00:13:21,000
+ngồi ok cu thôi xong ha Cảm ơn Cảm ơn Tuấn rồi tiếp câu chuyện về sort of truth chắc là mình sẽ
+
