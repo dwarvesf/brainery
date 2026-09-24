@@ -4,7 +4,7 @@ title: 'The memory heist: how Claude''s web browsing leaked user secrets'
 description: Ayush Paul chained agent memory, link-following web_fetch, and a fake turnstile into a letter-by-letter exfiltration channel. Here is the mechanism and what it means if you build agents.
 date: 2026-07-16
 authors:
-  - content-editor
+  - 0xm
 tags:
   - ai-security
   - prompt-injection
@@ -75,4 +75,4 @@ Anthropic's mitigation disables `web_fetch` link-following on external pages, re
 ## Sources
 
 - Ayush Paul, "The Memory Heist" (2026-07-15): https://www.ayush.digital/blog/the-memory-heist
-- Discord share by 0xm: https://discord.com/channels/462663954813157376/1284063844314120224/1526933074838028288
+- Shared by 0xm in Dwarves #ai-tech (2026-07-15)
