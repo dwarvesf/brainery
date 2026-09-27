@@ -36,28 +36,28 @@ generative tasks:
 
 Each task used the same loop:
 
-- the *builder* agent produced a version;
+- the _builder_ agent produced a version;
 - a**separate critic agent* took its own screenshots at several angles and
   scored them (0-10 for the sim, 0-8.5 "AAA-quality" for the game);
-- below the bar, the critic returned a *ranked list of issues*, the builder
+- below the bar, the critic returned a _ranked list of issues_, the builder
   revised, and the loop repeated up to a hard cap (3 rounds sim, 4 rounds game).
 
 Author's reported results:
 
-| Task | Run time | Rounds | Final critic score | Outcome |
-|---|---|---|---|---|
-| Ray-traced water balloon | ~32 min | 3 | 6.5 / 10 | working, revisable app (target was 8) |
-| Unbeal Engine 3D game | ~4 h | 4 | 6.3 / 8.5 target | playable, iterate-able (target not hit) |
+| Task                     | Run time | Rounds | Final critic score | Outcome                                 |
+| ------------------------ | -------- | ------ | ------------------ | --------------------------------------- |
+| Ray-traced water balloon | ~32 min  | 3      | 6.5 / 10           | working, revisable app (target was 8)   |
+| Unbeal Engine 3D game    | ~4 h     | 4      | 6.3 / 8.5 target   | playable, iterate-able (target not hit) |
 
 The key observation the author makes: without the critic agent, the builder
 stops at the "pretty mediocre" first pass. With it, the output keeps
 improving because there is an explicit, external grader forcing revision, and
-a ranked issue list telling the builder *what* to fix.
+a ranked issue list telling the builder _what_ to fix.
 
 ## Why this is useful (the takeaway)
 
 The pattern is model-agnostic. You do not need GPT-6 Astra to use it. It is a
-control-flow decision: split *generation* from *evaluation* so that the thing
+control-flow decision: split _generation_ from _evaluation_ so that the thing
 judging the output is not the same process that produced it, and make the
 feedback concrete (ranked, scored) rather than generic ("make it better").
 
