@@ -1,6 +1,6 @@
 ---
 draft: true
-title: 'BigBanana AI Director: Keyframe-Driven Video as an Industrial Workflow'
+title: 'BigBanana AI director: keyframe-driven video as an industrial workflow'
 description: 'A look at shuyu-labs/BigBanana-AI-Director, a source-available AI short-drama platform that replaces single-shot ''draw-card'' generation with a script-to-asset-to-keyframe pipeline for shot control and character consistency.'
 date: 2026-09-03
 authors:
@@ -14,7 +14,7 @@ tags:
 slug: bigbanana-ai-director-field-report
 ---
 
-## BigBanana AI Director: Keyframe-Driven Video as an Industrial Workflow
+## BigBanana AI director: keyframe-driven video as an industrial workflow
 
 Most text-to-video tools still work like slot machines: you type a prompt, pull the lever, and hope the shot matches the one in your head. BigBanana AI Director (GitHub: `shuyu-labs/BigBanana-AI-Director`, roughly 1.7k stars since January 2026) is an attempt to replace that loop with something closer to an animation studio pipeline: script first, assets second, keyframes third, and only then the video. The README describes the approach as "Script-to-Asset-to-Keyframe", aimed at AI short dramas and motion comics. It is worth a look even if you never touch the tool, because it is a concrete answer to the two problems every AI video pipeline hits: shot control and character consistency.
 
