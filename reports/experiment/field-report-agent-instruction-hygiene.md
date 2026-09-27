@@ -1,6 +1,6 @@
 ---
 draft: true
-title: 'Field Report: The Codex DX Guide to Pruning Agent Instructions'
+title: 'Field report: The Codex DX guide to pruning agent instructions'
 description: 'On September 4, Eric Provencher (pvncher, Codex DX at OpenAI) posted a thread arguing that coding-agent instruction files have accumulated bloat over the past year, and that GPT-6 Astra makes revisiti…'
 date: 2026-09-05
 tags:
@@ -13,7 +13,7 @@ tags:
 slug: field-report-agent-instruction-hygiene
 ---
 
-## Field Report: The Codex DX Guide to Pruning Agent Instructions
+## Field report: The Codex DX guide to pruning agent instructions
 
 On September 4, Eric Provencher (pvncher, Codex DX at OpenAI) posted a thread arguing that coding-agent instruction files have accumulated bloat over the past year, and that GPT-6 Astra makes revisiting them more important than ever. "What used to require a lot of handholding and scaffolding no longer does," he writes, and the instructions teams stacked up to steer older models now get in the way.
 
@@ -48,12 +48,12 @@ The thread is a practitioner's checklist for the current generation of coding ag
 - Single practitioner's guidance from an OpenAI employee; product bias toward Astra is possible. No measurements are attached to the claims.
 - The capture of the thread was partial: the intro promises coverage of task prompts alongside skills and AGENTS.md, but the retrieved text covered skills and AGENTS.md only. The task-prompts section may exist in the un-captured remainder.
 
-## Open Questions
+## Open questions
 
 1. Does OpenAI publish any measurements of how instruction bloat changes pass rates or token spend?
 2. What is the full updated $skill-creator guidance (the thread summarizes three points)?
 
-## Related Reading
+## Related reading
 
 - pvncher thread: https://x.com/pvncher/status/2095991462416490862
 - Share by 0xm in Dwarves #ai-tech, 2026-09-05 07:16: https://discord.com/channels/462663954813157376/1284063844314120224/1545694164665114704

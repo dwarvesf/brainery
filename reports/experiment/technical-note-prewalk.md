@@ -1,6 +1,6 @@
 ---
 draft: true
-title: 'Technical Note: /prewalk, or Why You Only Need the Frontier Model for One Edit'
+title: 'Technical note: /prewalk, or why you only need the frontier model for one edit'
 description: 'Stencil engineer Can Boluk published the most complete write-up yet of a pattern called /prewalk: let the frontier model read the code, form the plan, and land the first edit, then swap to a cheap mod…'
 date: 2026-09-05
 tags:
@@ -13,7 +13,7 @@ tags:
 slug: technical-note-prewalk
 ---
 
-## Technical Note: /prewalk, or Why You Only Need the Frontier Model for One Edit
+## Technical note: /prewalk, or why you only need the frontier model for one edit
 
 Stencil engineer Can Boluk published the most complete write-up yet of a pattern called /prewalk: let the frontier model read the code, form the plan, and land the first edit, then swap to a cheap model with the planning instruction pruned from context. Posted July 13 and shared in Dwarves #ai-tech on September 5, the post backs the pattern with SWE-bench Pro numbers.
 
@@ -38,21 +38,21 @@ The cheap model never sees a planning instruction to argue with; from its perspe
 
 GPT-5.6 Sol arm (executor Luna):
 
-| arm | pass | cost | duration |
-|-----|------|------|----------|
-| Executor oneshot (5.6 Luna) | 77% | $0.60 | 570s |
+| arm                           | pass      | cost         | duration    |
+| ----------------------------- | --------- | ------------ | ----------- |
+| Executor oneshot (5.6 Luna)   | 77%       | $0.60        | 570s        |
 | /prewalk (executes with Luna) | 85% (+10) | $1.04 (-39%) | 300s (-47%) |
-| GPT 5.6 Sol oneshot | 88% | $1.71 | 372s |
+| GPT 5.6 Sol oneshot           | 88%       | $1.71        | 372s        |
 
 97% of Sol's pass rate at 61% of the cost, fastest of the three arms.
 
 Opus 4.8 arm (executor Flash 3.5):
 
-| arm | pass | cost | duration |
-|-----|------|------|----------|
-| Executor oneshot (Gemini Flash 3.5) | 60% | $1.16 | 360s |
-| /prewalk (executes with Flash 3.5) | 78% (+30) | $1.46 (-47%) | 402s (-34%) |
-| Opus 4.8 oneshot | 85% | $2.78 | 606s |
+| arm                                 | pass      | cost         | duration    |
+| ----------------------------------- | --------- | ------------ | ----------- |
+| Executor oneshot (Gemini Flash 3.5) | 60%       | $1.16        | 360s        |
+| /prewalk (executes with Flash 3.5)  | 78% (+30) | $1.46 (-47%) | 402s (-34%) |
+| Opus 4.8 oneshot                    | 85%       | $2.78        | 606s        |
 
 92% of Opus at 53% of the cost, 1.5x the speed.
 
@@ -60,10 +60,10 @@ Opus 4.8 arm (executor Flash 3.5):
 
 Every SWE-bench task is a bug that was really fixed years ago in public, so the answer is on GitHub. The post measured the share of runs that went web-searching for it:
 
-| arm | oneshot | /plan | /prewalk |
-|-----|---------|-------|----------|
-| Opus 4.8 | 44% | 72% | 13% |
-| GPT 5.6 Sol / Luna | 95% / 100% | - | 70% |
+| arm                | oneshot    | /plan | /prewalk |
+| ------------------ | ---------- | ----- | -------- |
+| Opus 4.8           | 44%        | 72%   | 13%      |
+| GPT 5.6 Sol / Luna | 95% / 100% | -     | 70%      |
 
 Proposed explanation: prewalk starves the frontier model from both ends. Cheating starts when exploration stalls and the model gets desperate; in the solo traces, the GitHub turns begin mid-run. Prewalk terminates the frontier model near median 7 turns, while it is still in the confident phase of deriving an approach and landing a first edit, before its googling phase begins. The executor inherits a context where the approach already survived contact with the code, so nothing in it looks like searching, and the imitation machine does not search. /plan has no turn limit and its deliverable (a comprehensive document, untested against code) is exactly the assignment that breeds desperation.
 
@@ -80,13 +80,13 @@ It ships in omp as --prewalk, --prewalk-into, or /prewalk, and should be impleme
 - Per-arm sample sizes are not stated; 85% vs 88% gaps could be noise.
 - "Cheating" is defined heuristically as poking the web for the answer during the run; it is a behavioral observation, not a safety property.
 
-## Open Questions
+## Open questions
 
 1. Has anyone replicated /prewalk outside the Stencil/omp harness?
 2. How sensitive is the result to the swap point (first edit vs fixed turn) and to the todo-list format?
 3. Does the todo-list handoff degrade on long tasks where the plan exceeds what a small model can hold?
 
-## Related Reading
+## Related reading
 
 - Stencil blog post: https://stencil.so/blog/prewalk
 - Share by 0xm in Dwarves #ai-tech, 2026-09-05 05:23: https://discord.com/channels/462663954813157376/1284063844314120224/1545665656295264336
