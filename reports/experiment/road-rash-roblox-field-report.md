@@ -1,12 +1,12 @@
 ---
 draft: true
-title: 'Field Note: mining the original game manual when you remake a classic'
+title: 'Field note: mining the original game manual when you remake a classic'
 description: 'Build Club, 2026-09-09'
 date: 2026-09-27
 slug: road-rash-roblox-field-report
 ---
 
-## Field Note: mining the original game manual when you remake a classic
+## Field note: mining the original game manual when you remake a classic
 
 Build Club, 2026-09-09. Draft only; not published.
 
@@ -23,7 +23,7 @@ rules, tuning, failure states, what the player is told and what is kept
 hidden. Porting that onto a modern engine (Roblox here) gives you the shape
 of the original without having to reverse-engineer it from gameplay alone.
 
-## How it applies beyond Road Rash
+## How it applies beyond road rash
 
 - Pull the original manual before you write a line of the remake.
 - Extract the rule/economy layer first; visuals are the easy part to redo.
