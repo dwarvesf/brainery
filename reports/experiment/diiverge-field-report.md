@@ -8,8 +8,8 @@ slug: diiverge-field-report
 
 ## Diiverge: an infinite point-and-click adventure where every image is a fork
 
-*Field Report · 2026-09-03 · from #build-club discussion*
-*Sources: X posts by @charliie (launch, growth, stack), diiverge.co sponsors page*
+_Field Report · 2026-09-03 · from #build-club discussion_
+_Sources: X posts by @charliie (launch, growth, stack), diiverge.co sponsors page_
 
 ## What it is
 
@@ -23,7 +23,7 @@ The creator published the stack on the day after launch (X, Sep 3):
 
 - **Nano Banana 2 (Google)** for keyframes
 - **SAM 3 (Meta)** for segmentation
-- **H3 Max via fal** for video transitions
+- **H3 max via fal** for video transitions
 - **GPT-5.6 (OpenAI)** for world building
 - Hosted on **Vercel**
 
