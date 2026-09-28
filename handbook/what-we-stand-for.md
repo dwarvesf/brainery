@@ -28,7 +28,7 @@ Despite the limitations of service firms, linear scaling, smaller ultimate size,
 
 ## An innovation service firm
 
-Since 2013, we've been building an organization with high software development standards and strong business growth capabilities. We help tech startups, entrepreneurs, and makers deliver innovative software products that make a difference.
+Since 2015, we've been building an organization with high software development standards and strong business growth capabilities. We help tech startups, entrepreneurs, and makers deliver innovative software products that make a difference.
 
 ## Champions of software craftsmanship
 
