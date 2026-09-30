@@ -1,6 +1,6 @@
 ---
 draft: true
-title: 'Forward Engineering September 2026'
+title: 'Forward engineering September 2026'
 description: 'September notes converged on toolchain control, AI-assisted build loops, and the cloud-computer shape of agent workflows.'
 date: 2026-10-01
 authors:
