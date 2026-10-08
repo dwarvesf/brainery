@@ -160,7 +160,7 @@ compression:
   protect_last_n: 20    # never compact the newest 20 messages
 ```
 
-The same file carries `tool_loop_guardrails`. It warns after 3 failures of the same tool or 2 calls that make no progress, and it would hard-stop at 8 and 5. Reading the file for this post, I found `hard_stop_enabled: false`, so in practice the guard only warns. That's a decision we should make on purpose rather than discover. Our other Hermes instances carry the same compression values but no loop guard at all.
+The same file carries `tool_loop_guardrails`. It warns after 3 failures of the same tool or 2 calls that make no progress, and it would hard-stop at 8 and 5. The file also says `hard_stop_enabled: false`, and my first draft of this post read that as "the guard only warns." The engine source says otherwise. Hermes has a second flag, `non_interactive_hard_stop_enabled`, which defaults to true and switches hard stops on for any unattended platform: Discord, Telegram, cron. Only attended surfaces such as the CLI, TUI, and desktop app honor the false. So our Discord desks do hard-stop at 8 and 5. The lesson fits this post: a config file shows you the keys someone set, while the defaults live in code. Our other Hermes instances carry the same compression values and no guard block, so they run on those defaults.
 
 Model choice, enabled toolsets, and the MCP server list live here too, and compaction can run on a cheaper model than the main loop (ours does). None of it needs a rebuild, only a redeploy, and per the layer 2 lesson, a fresh session.
 
