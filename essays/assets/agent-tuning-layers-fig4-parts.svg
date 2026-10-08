@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid2" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr2" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+    <marker id="arr2a" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#e8c56a"/>
+    </marker>
+  </defs>
+  <rect width="760" height="320" fill="#12395f"/>
+  <rect width="760" height="320" fill="url(#grid2)"/>
+  <rect x="0.5" y="0.5" width="759" height="319" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 4 · BRAIN, KNOW-HOW, HANDS + MEMORY</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">WHO OWNS WHAT</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <rect x="30" y="60" width="250" height="130" fill="#21466a" stroke="#68839d"/>
+  <text x="46" y="86" font-size="12" letter-spacing="2" fill="#e8f1fa">BRAIN<tspan font-size="10" letter-spacing="0" fill="#a7c0d9"> · harness + model</tspan></text>
+  <text x="46" y="118" font-size="10" fill="#e8f1fa">Hermes, Claude Code, a Grok bot</text>
+  <text x="46" y="138" font-size="10" fill="#a7c0d9">think -&gt; call tool -&gt; read -&gt; repeat</text>
+
+  <rect x="468" y="60" width="266" height="130" fill="#21466a" stroke="#68839d"/>
+  <text x="484" y="86" font-size="12" letter-spacing="2" fill="#e8f1fa">HANDS + MEMORY<tspan font-size="10" letter-spacing="0" fill="#a7c0d9"> · circle Worker</tspan></text>
+  <text x="484" y="114" font-size="10" fill="#e8f1fa">POST /mcp</text>
+  <text x="484" y="134" font-size="10" fill="#e8f1fa">D1 + R2</text>
+  <text x="484" y="154" font-size="10" fill="#e8f1fa">warmth, radar</text>
+  <text x="484" y="174" font-size="10" fill="#e8f1fa">extract</text>
+  <text x="598" y="114" font-size="10" fill="#a7c0d9">tools</text>
+  <text x="598" y="134" font-size="10" fill="#a7c0d9">memory</text>
+  <text x="598" y="154" font-size="10" fill="#a7c0d9">plain code</text>
+  <text x="598" y="174" font-size="10" fill="#a7c0d9">one LLM call</text>
+
+  <line x1="280" y1="102" x2="466" y2="102" stroke="#e8c56a" stroke-width="1.5" marker-end="url(#arr2a)"/>
+  <text x="380" y="92" font-size="9" letter-spacing="1" fill="#e8c56a" text-anchor="middle">tool call (JSON-RPC)</text>
+  <line x1="468" y1="148" x2="282" y2="148" stroke="#c3d7ea" marker-end="url(#arr2)"/>
+  <text x="380" y="166" font-size="9" letter-spacing="1" fill="#6f8fb0" text-anchor="middle">result</text>
+
+  <rect x="255" y="236" width="250" height="64" fill="#21466a" stroke="#68839d"/>
+  <text x="271" y="258" font-size="12" letter-spacing="2" fill="#e8f1fa">KNOW-HOW<tspan font-size="10" letter-spacing="0" fill="#a7c0d9"> · skills</tspan></text>
+  <text x="271" y="278" font-size="10" fill="#e8f1fa">when to call, how to render,</text>
+  <text x="271" y="291" font-size="10" fill="#a7c0d9">what never to do</text>
+
+  <path d="M 255 268 L 155 268 L 155 192" fill="none" stroke="#c3d7ea" stroke-dasharray="4 3" marker-end="url(#arr2)"/>
+  <text x="167" y="224" font-size="9" letter-spacing="1" fill="#6f8fb0">loaded into context</text>
+</svg>
