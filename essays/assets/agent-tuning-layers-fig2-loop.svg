@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid3" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="400" fill="#12395f"/>
+  <rect width="760" height="400" fill="url(#grid3)"/>
+  <rect x="0.5" y="0.5" width="759" height="399" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 2 · ONE AGENT LOOP, ONE WINDOW</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">SIZES ILLUSTRATIVE</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <rect x="24" y="56" width="350" height="46" fill="#21466a" stroke="#68839d"/>
+  <text x="38" y="84" font-size="12" fill="#6f8fb0">1</text>
+  <text x="64" y="75" font-size="9" letter-spacing="1.5" fill="#6f8fb0">ASK</text>
+  <text x="64" y="91" font-size="10" fill="#e8f1fa">"brief me on An before the call"</text>
+
+  <rect x="24" y="110" width="350" height="46" fill="#21466a" stroke="#68839d"/>
+  <text x="38" y="138" font-size="12" fill="#6f8fb0">2</text>
+  <text x="64" y="129" font-size="9" letter-spacing="1.5" fill="#6f8fb0">TOOL CALL</text>
+  <text x="64" y="145" font-size="10" fill="#e8f1fa">circle_brief {"person":"An"}</text>
+
+  <rect x="24" y="164" width="350" height="46" fill="#21466a" stroke="#68839d"/>
+  <text x="38" y="192" font-size="12" fill="#6f8fb0">3</text>
+  <text x="64" y="183" font-size="9" letter-spacing="1.5" fill="#6f8fb0">RESULT</text>
+  <text x="64" y="199" font-size="10" fill="#e8f1fa">2 candidates named An</text>
+
+  <rect x="24" y="218" width="350" height="46" fill="#21466a" stroke="#68839d"/>
+  <text x="38" y="246" font-size="12" fill="#6f8fb0">4</text>
+  <text x="64" y="237" font-size="9" letter-spacing="1.5" fill="#6f8fb0">BACK TO USER</text>
+  <text x="64" y="253" font-size="10" fill="#e8f1fa">"which An?" -&gt; "An the designer"</text>
+
+  <rect x="24" y="272" width="350" height="46" fill="#21466a" stroke="#68839d"/>
+  <text x="38" y="300" font-size="12" fill="#6f8fb0">5</text>
+  <text x="64" y="291" font-size="9" letter-spacing="1.5" fill="#6f8fb0">TOOL CALL + RESULT</text>
+  <text x="64" y="307" font-size="10" fill="#e8f1fa">brief JSON (warmth, stage, promises)</text>
+
+  <rect x="24" y="326" width="350" height="46" fill="#21466a" stroke="#68839d"/>
+  <text x="38" y="354" font-size="12" fill="#6f8fb0">6</text>
+  <text x="64" y="345" font-size="9" letter-spacing="1.5" fill="#6f8fb0">DONE</text>
+  <text x="64" y="361" font-size="10" fill="#e8f1fa">render one screen, stop</text>
+
+  <text x="430" y="62" font-size="9" letter-spacing="1" fill="#c3d7ea">CONTEXT WINDOW · the model sees only this</text>
+  <rect x="430" y="72" width="280" height="300" fill="none" stroke="#68839d"/>
+
+  <rect x="446" y="352" width="248" height="20" fill="#21466a" stroke="#68839d"/>
+  <text x="456" y="365" font-size="9" fill="#e8f1fa">system prompt</text>
+  <text x="684" y="365" font-size="9" fill="#6f8fb0" text-anchor="end">start</text>
+
+  <rect x="446" y="328" width="248" height="22" fill="#21466a" stroke="#68839d"/>
+  <text x="456" y="342" font-size="9" fill="#e8f1fa">skill: circle-brief</text>
+  <text x="684" y="342" font-size="9" fill="#6f8fb0" text-anchor="end">start</text>
+
+  <rect x="446" y="314" width="248" height="12" fill="#21466a" stroke="#68839d"/>
+  <text x="456" y="323.5" font-size="9" fill="#e8f1fa">user msg</text>
+  <text x="684" y="323.5" font-size="9" fill="#6f8fb0" text-anchor="end">step 1</text>
+
+  <rect x="446" y="300" width="248" height="12" fill="#21466a" stroke="#68839d"/>
+  <text x="456" y="309.5" font-size="9" fill="#e8f1fa">tool call</text>
+  <text x="684" y="309.5" font-size="9" fill="#6f8fb0" text-anchor="end">step 2</text>
+
+  <rect x="446" y="280" width="248" height="18" fill="#21466a" stroke="#68839d"/>
+  <text x="456" y="292" font-size="9" fill="#e8f1fa">result: candidates</text>
+  <text x="684" y="292" font-size="9" fill="#6f8fb0" text-anchor="end">step 3</text>
+
+  <rect x="446" y="266" width="248" height="12" fill="#21466a" stroke="#68839d"/>
+  <text x="456" y="275.5" font-size="9" fill="#e8f1fa">user reply</text>
+  <text x="684" y="275.5" font-size="9" fill="#6f8fb0" text-anchor="end">step 4</text>
+
+  <rect x="446" y="250" width="248" height="14" fill="#21466a" stroke="#68839d"/>
+  <text x="456" y="260.5" font-size="9" fill="#e8f1fa">tool call</text>
+  <text x="684" y="260.5" font-size="9" fill="#6f8fb0" text-anchor="end">step 5</text>
+
+  <rect x="446" y="128" width="248" height="120" fill="#21466a" stroke="#68839d"/>
+  <text x="456" y="146" font-size="9" fill="#e8f1fa">result: brief JSON</text>
+  <text x="684" y="146" font-size="9" fill="#6f8fb0" text-anchor="end">step 5</text>
+  <text x="456" y="164" font-size="9" fill="#a7c0d9">warmth, stage, promises,</text>
+  <text x="456" y="178" font-size="9" fill="#a7c0d9">tags, bonds, warm intros</text>
+
+  <line x1="420" y1="222" x2="720" y2="222" stroke="#e8c56a" stroke-width="1.5" stroke-dasharray="5 4"/>
+  <text x="684" y="215" font-size="9" letter-spacing="1" fill="#e8c56a" text-anchor="end">compression threshold 0.5</text>
+
+  <text x="430" y="388" font-size="9" fill="#6f8fb0">oldest at the bottom, newest on top</text>
+</svg>
