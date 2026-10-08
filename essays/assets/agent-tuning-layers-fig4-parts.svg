@@ -13,7 +13,7 @@
   <rect width="760" height="320" fill="#12395f"/>
   <rect width="760" height="320" fill="url(#grid2)"/>
   <rect x="0.5" y="0.5" width="759" height="319" fill="none" stroke="#68839d"/>
-  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 3 · BRAIN, PLAYBOOK, HANDS</text>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 4 · BRAIN, KNOW-HOW, HANDS + MEMORY</text>
   <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">WHO OWNS WHAT</text>
   <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
 
@@ -39,7 +39,7 @@
   <text x="380" y="166" font-size="9" letter-spacing="1" fill="#6f8fb0" text-anchor="middle">result</text>
 
   <rect x="255" y="236" width="250" height="64" fill="#21466a" stroke="#68839d"/>
-  <text x="271" y="258" font-size="12" letter-spacing="2" fill="#e8f1fa">PLAYBOOK<tspan font-size="10" letter-spacing="0" fill="#a7c0d9"> · skills</tspan></text>
+  <text x="271" y="258" font-size="12" letter-spacing="2" fill="#e8f1fa">KNOW-HOW<tspan font-size="10" letter-spacing="0" fill="#a7c0d9"> · skills</tspan></text>
   <text x="271" y="278" font-size="10" fill="#e8f1fa">when to call, how to render,</text>
   <text x="271" y="291" font-size="10" fill="#a7c0d9">what never to do</text>
 
