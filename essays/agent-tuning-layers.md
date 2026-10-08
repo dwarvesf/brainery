@@ -66,7 +66,7 @@ Everything else is plain code. Warmth, the daily radar, and the stage rules are 
 
 The more interesting decision is what circle does not have: its own agent loop. I was tempted to build one inside the Worker. That would have meant writing prompt assembly, tool dispatch, retries, and compaction from scratch, all of which Hermes already does. circle's job is to be a good tool. The loop belongs to whoever is calling.
 
-## MCP or skills? Both, for different jobs
+## MCP or skills? both, for different jobs
 
 ![](assets/agent-tuning-layers-fig3-parts.svg)
 
