@@ -116,7 +116,7 @@ _Fig. 4: the harness is the brain, skills are the know-how, and circle supplies 
 
 The rule I'd keep from this: know-how is a suggestion, and hands are a guarantee. "Never write from a brief" belongs in the skill so the model behaves well. The reader key belongs in the hands so it can't misbehave anyway.
 
-## MCP or skills? both, for different jobs
+## MCP ships the hands, skills ship the know-how
 
 With the parts named, my second question answered itself. MCP is how you ship the hands to any brain: circle serves a stateless Streamable HTTP endpoint at `POST /mcp`, and any agent that speaks MCP connects with a URL and a key. A skill is how you ship the know-how.
 
