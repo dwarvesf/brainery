@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 350" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid4c" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <pattern id="hatch4c" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <line x1="0" y1="0" x2="0" y2="6" stroke="#68839d" stroke-width="1.5"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="350" fill="#12395f"/>
+  <rect width="760" height="350" fill="url(#grid4c)"/>
+  <rect x="0.5" y="0.5" width="759" height="349" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 4 · CONTEXT COST PER TURN</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">APPROX TOKENS · CIRCLE, MEASURED</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <!-- gridlines: x = 210 + tokens * 0.0168 (0..30000 -> 210..714) -->
+  <g stroke="#385a7b" stroke-opacity="0.6" stroke-width="1">
+    <line x1="210" y1="64" x2="210" y2="272"/>
+    <line x1="378" y1="64" x2="378" y2="272"/>
+    <line x1="546" y1="64" x2="546" y2="272"/>
+    <line x1="714" y1="64" x2="714" y2="272"/>
+  </g>
+
+  <!-- row 1: reader tool list, 764 -->
+  <text x="198" y="86" font-size="10.5" fill="#e8f1fa" text-anchor="end">reader tool list</text>
+  <text x="198" y="99" font-size="9" fill="#6f8fb0" text-anchor="end">10 tools, every turn</text>
+  <rect x="210" y="76" width="12.8" height="24" fill="#21466a" stroke="#68839d"/>
+  <text x="230" y="93" font-size="10" fill="#c3d7ea">764</text>
+
+  <!-- row 2: skill descriptions, 2046 -->
+  <text x="198" y="134" font-size="10.5" fill="#e8f1fa" text-anchor="end">skill descriptions</text>
+  <text x="198" y="147" font-size="9" fill="#6f8fb0" text-anchor="end">13 one-liners, every turn</text>
+  <rect x="210" y="124" width="34.4" height="24" fill="#21466a" stroke="#68839d"/>
+  <text x="252" y="141" font-size="10" fill="#c3d7ea">2,046</text>
+
+  <!-- row 3: admin tool list, 3256 (accent) -->
+  <text x="198" y="182" font-size="10.5" fill="#e8c56a" text-anchor="end">admin tool list</text>
+  <text x="198" y="195" font-size="9" fill="#6f8fb0" text-anchor="end">32 tools, every turn</text>
+  <rect x="210" y="172" width="54.7" height="24" fill="#e8c56a"/>
+  <text x="272" y="189" font-size="10" fill="#e8c56a">3,256 · 59% of it is input schemas</text>
+
+  <!-- row 4: all skill bodies, 28505 (never resident) -->
+  <text x="198" y="230" font-size="10.5" fill="#e8f1fa" text-anchor="end">all skill bodies</text>
+  <text x="198" y="243" font-size="9" fill="#6f8fb0" text-anchor="end">if loaded at once</text>
+  <rect x="210" y="220" width="478.9" height="24" fill="url(#hatch4c)" stroke="#68839d"/>
+  <text x="682" y="237" font-size="10" fill="#e8f1fa" text-anchor="end">28,505 · loaded one at a time instead</text>
+
+  <!-- axis -->
+  <line x1="210" y1="272" x2="714" y2="272" stroke="#68839d" stroke-width="1"/>
+  <g font-size="9.5" fill="#a7c0d9" text-anchor="middle">
+    <text x="210" y="290">0</text>
+    <text x="378" y="290">10k</text>
+    <text x="546" y="290">20k</text>
+    <text x="714" y="290">30k</text>
+  </g>
+  <text x="462" y="308" font-size="9" letter-spacing="1" fill="#6f8fb0" text-anchor="middle">APPROX TOKENS (BYTES / 4)</text>
+  <text x="14" y="336" font-size="9" fill="#6f8fb0">source: tools/list per role from the live handler; SKILL.md byte counts. The reader key carries 76% less than admin.</text>
+</svg>
