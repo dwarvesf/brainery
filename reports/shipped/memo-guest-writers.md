@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Guest writers on memo, keyed by the writer's own domain"
 description: "How memo.d.foundation publishes posts from writers' own blogs as native notes: domain-verified joins, semi-auto review with a human verdict, ICY rewards per post, and takedowns that follow the original."
 date: 2026-10-10
