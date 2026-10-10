@@ -137,7 +137,7 @@ An agent judged the wrong text with full confidence. The only thing between that
 
 ## What a published guest note looks like
 
-When an editor approves, a small publisher step converts the stored HTML to Markdown, builds the frontmatter, and has the Dwarves ops bot commit the note to the memo vault. From that commit on, the guest note ships through the same publish chain as every native note, and it is live about six minutes later.
+When an editor approves, a small publisher step converts the stored HTML to Markdown, builds the frontmatter, and has the Dwarves ops bot commit the note to the memo vault. The converter keeps only the post's `<article>` or `<main>`, so the blog's own header and navigation stay behind. From that commit on, the guest note ships through the same publish chain as every native note, and it is live about six minutes later. The vault's formatting bot skips guest notes, so the body stays as the writer wrote it.
 
 The frontmatter adds the fields only a mirrored post needs, and the sidebar reads them:
 
@@ -159,8 +159,6 @@ _Fig. 7: The live guest note at memo.d.foundation/essays/designing-out-snap-frau
 
 The old guest URL keeps working. A request for `/writers/truonghan.com/designing-out-snap-fraud` answers `301` to `/essays/designing-out-snap-fraud`, through the same redirect map memo uses for every moved note.
 
-The capture also shows what is still rough. The converter carries the blog's own header into the note body, so the writer's name, the site navigation and a second title appear above the post. The stats panel reads 39,703 words for a post its writer describes as about 8,800 words. Both are conversion artifacts to fix before more writers arrive.
-
 On the contributor page, a guest note lists beside the writer's other notes. Here the writer is also a long-time Dwarves contributor, so the domain links to the existing native handle and the guest note appears in that timeline. A writer with no native history gets a contributor page of their own, with a guest badge and the verified domain.
 
 ![](assets/memo-guest-writers-shot-contrib.png)
@@ -180,8 +178,13 @@ Every post memo publishes earns its writer between 5 and 20 ICY, the Dwarves com
 | Audit          | Every set or change records who, when, old value, new value and reason |
 | Featured posts | A filter and a hint, never a multiplier                                |
 | Conversion     | None. The payout carries the ICY amount the editor set                 |
+| Skipping       | 0 ICY, only with a written reason that goes into the audit log         |
 | Monthly cap    | One cap per writer in ICY; the final value is still being set          |
 | Visibility     | No amount appears on any public page or route                          |
+
+![](assets/memo-guest-writers-shot-rewards.png)
+
+_Fig. 9: The Rewards section of the live join page, stating the same rule to writers._
 
 A wallet is optional at join. Rewards accrue whether or not a writer has linked one, and a writer links a wallet later by signing a message with it, so a typed address never counts. An agent may open the wallet page for a writer but never signs. Payouts are manual in this phase: an operator confirms a batch, sends the ICY, and records the transaction. Memo itself never moves a token, and it never shows a wallet address or a transaction hash on a page.
 
@@ -191,7 +194,7 @@ The writer's site stays in charge after publish. Takedowns run once the takedown
 
 ![](assets/memo-guest-writers-fig5-lifecycle.svg)
 
-_Fig. 9: Small edits sync. A material edit goes back to review and updates the same note. A removal deletes the note and puts its path on a gone list, which answers 410._
+_Fig. 10: Small edits sync. A material edit goes back to review and updates the same note. A removal deletes the note and puts its path on a gone list, which answers 410._
 
 | Event                                          | What memo does                                                                       |
 | ---------------------------------------------- | ------------------------------------------------------------------------------------ |
