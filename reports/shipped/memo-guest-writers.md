@@ -49,14 +49,14 @@ The flow has six steps:
 
 The join endpoint is public, so it never creates a writer by itself. It creates a request that a human must approve. The limits are strict and the errors are specific, so an agent can recover without guessing:
 
-| Limit | Value | Answer on breach |
-|---|---|---|
-| Join requests per IP | 5 per hour | `429` with `Retry-After` |
-| Open requests per domain | 1 at a time | `409` |
-| Requests per domain | 3 per day | `429` with `Retry-After` |
-| Verification code lifetime | 24 hours | request declined as expired |
-| Domain already joined | n/a | `409` |
-| Invalid fields | n/a | `422` listing every error at once |
+| Limit                      | Value       | Answer on breach                  |
+| -------------------------- | ----------- | --------------------------------- |
+| Join requests per IP       | 5 per hour  | `429` with `Retry-After`          |
+| Open requests per domain   | 1 at a time | `409`                             |
+| Requests per domain        | 3 per day   | `429` with `Retry-After`          |
+| Verification code lifetime | 24 hours    | request declined as expired       |
+| Domain already joined      | n/a         | `409`                             |
+| Invalid fields             | n/a         | `422` listing every error at once |
 
 The `dwarves.json` file is world-readable, so the schema allows only what the blog already shows: a required `name`, and optional `avatar`, `feed`, `bio`, `memo_verification` and `native`. Unknown fields are rejected. The live file on truonghan.com carries three fields: `name`, `feed` and `native`. The `native` field links the guest domain to the writer's existing memo contributor handle. Memo treats that link as a proposal, and an admin confirms it.
 
@@ -90,11 +90,11 @@ A post reaches memo in one of three ways, and all three land in the same review 
 
 The writer decides what memo may take. At join they pick one consent scope, in their own words, and the import page only lets an operator select inside it:
 
-| The writer chooses | What it means |
-|---|---|
+| The writer chooses            | What it means                                                                |
+| ----------------------------- | ---------------------------------------------------------------------------- |
 | "Everything I have published" | Memo may list any post published before today. Editors pick which to import. |
-| "Only posts I name" | Memo lists only the URLs the writer gave. Nothing else is touched. |
-| "New posts only" | Nothing from before today. Memo may suggest posts published from now on. |
+| "Only posts I name"           | Memo lists only the URLs the writer gave. Nothing else is touched.           |
+| "New posts only"              | Nothing from before today. Memo may suggest posts published from now on.     |
 
 Staff change a scope only on the writer's written request, and every scope keeps the writer's right to remove a post by deleting it on their own site. Posts an operator skips are remembered, so the feed watcher never suggests them again.
 
@@ -114,24 +114,24 @@ The sanity gate came out of the same incident. Before the model sees anything, m
 
 The review agent runs every 15 minutes on Workers AI and judges the text against a written rubric. The bar is permissive on purpose:
 
-| Part of the rubric | Content |
-|---|---|
-| Scope | Writing by people who build things, grounded in their own work: software, AI and agents, design and product, operations, crypto and infrastructure, team practice. English or Vietnamese. |
-| Quality bar | Original, grounded in something real, coherent from start to end. |
-| Disqualifiers | Plagiarism, generated filler, marketing or paid placement, doxxing, content that teaches harm, illegal content. |
-| Hold triggers | Relevance uncertain, suspected plagiarism, legal or reputational risk, borderline quality. |
+| Part of the rubric | Content                                                                                                                                                                                   |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Scope              | Writing by people who build things, grounded in their own work: software, AI and agents, design and product, operations, crypto and infrastructure, team practice. English or Vietnamese. |
+| Quality bar        | Original, grounded in something real, coherent from start to end.                                                                                                                         |
+| Disqualifiers      | Plagiarism, generated filler, marketing or paid placement, doxxing, content that teaches harm, illegal content.                                                                           |
+| Hold triggers      | Relevance uncertain, suspected plagiarism, legal or reputational risk, borderline quality.                                                                                                |
 
 Long posts get their own path. The second review of the SNAP post failed for a different reason: its full text exceeded the model's context window, so the agent could not judge it at all. Posts beyond the context are now judged in parts, and the verdict records which method was used.
 
 The first run, minute by minute, is the best argument for keeping a person in the loop:
 
-| Time (Vietnam) | What happened |
-|---|---|
-| 11:03 | truonghan.com registered; the post submitted. The extractor kept 175 characters. |
-| 11:16 | Review agent held it as incoherent, judging the fragment. |
-| 12:39 | Editor rejected it as an extraction bug and resubmitted with the full 93,252 characters. The resubmit message was deduplicated and never posted. |
-| next sweep | Held again: the full text was larger than the model's context. |
-| since | Longest-element extraction, the sanity gate, attempt-numbered notification keys and long-post review all shipped. |
+| Time (Vietnam) | What happened                                                                                                                                    |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 11:03          | truonghan.com registered; the post submitted. The extractor kept 175 characters.                                                                 |
+| 11:16          | Review agent held it as incoherent, judging the fragment.                                                                                        |
+| 12:39          | Editor rejected it as an extraction bug and resubmitted with the full 93,252 characters. The resubmit message was deduplicated and never posted. |
+| next sweep     | Held again: the full text was larger than the model's context.                                                                                   |
+| since          | Longest-element extraction, the sanity gate, attempt-numbered notification keys and long-post review all shipped.                                |
 
 An agent judged the wrong text with full confidence. The only thing between that verdict and the writer was an editor who opened the page.
 
@@ -171,17 +171,17 @@ _Fig. 8: The guest note on memo.d.foundation/contributor/tieubao, pinned and lis
 
 Every post memo publishes earns its writer between 5 and 20 ICY, the Dwarves community token. An editor sets the amount per post, as a whole number, with a short reason. A suggested amount, built from length, review score and the featured flag, sits next to the input as a hint and never decides.
 
-| Rule | Detail |
-|---|---|
-| Amount | 5 to 20 ICY, an integer, set per post by an editor |
-| Who may set it | Only staff who may also pay rewards; editorial access alone cannot |
-| Bounds | Enforced by the server: 4 and 21 are rejected |
-| Changing it | Allowed until the payout is confirmed, then locked |
-| Audit | Every set or change records who, when, old value, new value and reason |
-| Featured posts | A filter and a hint, never a multiplier |
-| Conversion | None. The payout carries the ICY amount the editor set |
-| Monthly cap | One cap per writer in ICY; the final value is still being set |
-| Visibility | No amount appears on any public page or route |
+| Rule           | Detail                                                                 |
+| -------------- | ---------------------------------------------------------------------- |
+| Amount         | 5 to 20 ICY, an integer, set per post by an editor                     |
+| Who may set it | Only staff who may also pay rewards; editorial access alone cannot     |
+| Bounds         | Enforced by the server: 4 and 21 are rejected                          |
+| Changing it    | Allowed until the payout is confirmed, then locked                     |
+| Audit          | Every set or change records who, when, old value, new value and reason |
+| Featured posts | A filter and a hint, never a multiplier                                |
+| Conversion     | None. The payout carries the ICY amount the editor set                 |
+| Monthly cap    | One cap per writer in ICY; the final value is still being set          |
+| Visibility     | No amount appears on any public page or route                          |
 
 A wallet is optional at join. Rewards accrue whether or not a writer has linked one, and a writer links a wallet later by signing a message with it, so a typed address never counts. An agent may open the wallet page for a writer but never signs. Payouts are manual in this phase: an operator confirms a batch, sends the ICY, and records the transaction. Memo itself never moves a token, and it never shows a wallet address or a transaction hash on a page.
 
@@ -193,15 +193,15 @@ The writer's site stays in charge after publish. Takedowns run once the takedown
 
 _Fig. 9: Small edits sync. A material edit goes back to review and updates the same note. A removal deletes the note and puts its path on a gone list, which answers 410._
 
-| Event | What memo does |
-|---|---|
-| Small edit on the writer's site | Syncs through without review |
-| Rewrite or new title | Back to review; on approve, the same note updates in place |
-| Post deleted on the writer's site | Note deleted, path added to the gone list, `410 Gone` |
-| Writer serves `410` | Taken down that day |
-| Writer serves `404` | One-day grace period, in case a deploy broke |
-| Editor pulls a post, or a writer is offboarded | Note deleted, gone entry added |
-| Writer moves to a new domain | New domain verified with a fresh code; notes, rewards and contributor page unchanged |
+| Event                                          | What memo does                                                                       |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Small edit on the writer's site                | Syncs through without review                                                         |
+| Rewrite or new title                           | Back to review; on approve, the same note updates in place                           |
+| Post deleted on the writer's site              | Note deleted, path added to the gone list, `410 Gone`                                |
+| Writer serves `410`                            | Taken down that day                                                                  |
+| Writer serves `404`                            | One-day grace period, in case a deploy broke                                         |
+| Editor pulls a post, or a writer is offboarded | Note deleted, gone entry added                                                       |
+| Writer moves to a new domain                   | New domain verified with a fresh code; notes, rewards and contributor page unchanged |
 
 A `410` tells readers and crawlers that the page was removed on purpose. The gone list lives in the vault as a public list of taken-down paths, and the site answers `410` for every path on it.
 
@@ -213,18 +213,18 @@ Memo keeps a private, signed archive of every submitted post, including posts th
 
 Most of the design is live. Some parts ship dark until a live proof or an owner decision lands, and the article states which:
 
-| Piece | State |
-|---|---|
-| `skill.md`, join endpoint, status call, `dwarves.json` schema | Live |
-| Domain-code verification and editor approval | Live; waiting on the first outside applicant |
-| Semi-auto review, sanity gate, long-post review | Live |
-| Guest posts as native notes, old-URL redirects | Live (first note published) |
-| Sidebar guest metadata, contributor listing | Live |
-| Takedown with gone list and `410` | Site answers `410`; the takedown switch stays off until a live proof records one |
-| Import page with Rewards tab | Built; waiting on its Cloudflare Access application |
-| Editor-set rewards | Server side live; monthly cap value pending |
-| Wallet linking by signature | Built; opens later |
-| Join by email, appeal by email reply | Built; waiting on inbound mail routing |
+| Piece                                                         | State                                                                            |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| `skill.md`, join endpoint, status call, `dwarves.json` schema | Live                                                                             |
+| Domain-code verification and editor approval                  | Live; waiting on the first outside applicant                                     |
+| Semi-auto review, sanity gate, long-post review               | Live                                                                             |
+| Guest posts as native notes, old-URL redirects                | Live (first note published)                                                      |
+| Sidebar guest metadata, contributor listing                   | Live                                                                             |
+| Takedown with gone list and `410`                             | Site answers `410`; the takedown switch stays off until a live proof records one |
+| Import page with Rewards tab                                  | Built; waiting on its Cloudflare Access application                              |
+| Editor-set rewards                                            | Server side live; monthly cap value pending                                      |
+| Wallet linking by signature                                   | Built; opens later                                                               |
+| Join by email, appeal by email reply                          | Built; waiting on inbound mail routing                                           |
 
 ## For engineers: what runs where
 
