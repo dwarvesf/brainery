@@ -223,7 +223,7 @@ Most of the design is live. Some parts ship dark until a live proof or an owner 
 | Takedown with gone list and `410` | Site answers `410`; the takedown switch stays off until a live proof records one |
 | Import page with Rewards tab | Built; waiting on its Cloudflare Access application |
 | Editor-set rewards | Server side live; monthly cap value pending |
-| Wallet linking by signature | Built; opening after the reward flow goes live |
+| Wallet linking by signature | Built; opens later |
 | Join by email, appeal by email reply | Built; waiting on inbound mail routing |
 
 ## For engineers: what runs where
