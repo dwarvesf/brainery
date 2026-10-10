@@ -33,6 +33,10 @@ on:
       - '**/*.mdx'
       - '**/assets/**'
       - '!**/README.md'
+      # memo-api's takedown commit deletes a note and appends its path here.
+      # A gone-only commit has no .md change, yet the site must rebuild to
+      # serve the 410, so this file triggers the publish on its own.
+      - '_meta/gone.txt'
   workflow_dispatch:
 
 jobs:
