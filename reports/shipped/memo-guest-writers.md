@@ -24,7 +24,7 @@ _Fig. 1: The writer's site stays the source. Memo reviews a post, publishes it a
 
 Memo started as the shared notebook of Dwarves Foundation. Engineers, designers and operators published field notes and post-mortems there. Over the years many of those writers moved to their own blogs, which is a healthy move: a personal site is a portfolio and an address the writer owns. The cost was that memo stopped seeing most of the writing it was built to collect.
 
-The guest-writer program reverses the flow without asking anyone to move back. A writer keeps publishing on their own domain. When memo publishes one of their posts, the post becomes an ordinary memo note in a normal folder, with the writer credited, a `rel=canonical` link to the original, and a small reward. The writer's site remains the source of truth. If they edit the post, memo notices. If they delete it, memo takes the note down.
+The guest-writer program reverses the flow without asking anyone to move back. A writer keeps publishing on their own domain. When memo publishes one of their posts, the post becomes an ordinary memo note in a normal folder, with the writer credited, a `rel=canonical` link to the original, and a small reward. The writer's site remains the source of truth. If they edit the post, memo notices. If they delete it, memo marks the post for takedown; the note itself comes down once the takedown switch is on.
 
 The domain carries the identity. There is no account to create. A writer proves they control a domain by placing a one-time code in a file on that domain, and that proof is what an editor sees before approving them. The design treats the domain as the writer's byline on the open web and memo as a second shelf for the same book.
 
@@ -102,7 +102,7 @@ Staff change a scope only on the writer's written request, and every scope keeps
 
 ## Semi-auto review with a human verdict
 
-Every post goes through the same gate, and the gate has one hard rule: the review agent never publishes. A model verdict of "publish" lands as a hold marked ready for an editor. Only a human approve turns a post into a note.
+Every post goes through the same gate, and the gate has one hard rule: the review agent never publishes. A model verdict of "publish" leaves the post in the `held` state with a ready verdict for an editor. Only a human approve turns a post into a note.
 
 ![](assets/memo-guest-writers-fig3-review.svg)
 
@@ -137,7 +137,7 @@ An agent judged the wrong text with full confidence. The only thing between that
 
 ## What a published guest note looks like
 
-When an editor approves, a small publisher step converts the stored HTML to Markdown, builds the frontmatter, and has the Dwarves ops bot commit the note to the memo vault. The converter keeps only the post's `<article>` or `<main>`, so the blog's own header and navigation stay behind. From that commit on, the guest note ships through the same publish chain as every native note, and it is live about six minutes later. The vault's formatting bot skips guest notes, so the body stays as the writer wrote it.
+When an editor approves, a small publisher step converts the stored HTML to Markdown, builds the frontmatter, and has the "Dwarves Memo Publisher" GitHub App commit the note to the memo vault. The converter keeps only the post's `<article>` or `<main>`, so the blog's own header and navigation stay behind. From that commit on, the guest note ships through the same publish chain as every native note, and it is live about six minutes later. The vault's formatting bot skips guest notes, so the body stays as the writer wrote it.
 
 The frontmatter adds the fields only a mirrored post needs, and the sidebar reads them:
 
@@ -179,7 +179,7 @@ Every post memo publishes earns its writer between 5 and 20 ICY, the Dwarves com
 | Featured posts | A filter and a hint, never a multiplier                                |
 | Conversion     | None. The payout carries the ICY amount the editor set                 |
 | Skipping       | 0 ICY, only with a written reason that goes into the audit log         |
-| Monthly cap    | One cap per writer in ICY; the final value is still being set          |
+| Monthly cap    | 150 ICY per writer per month                                           |
 | Visibility     | No amount appears on any public page or route                          |
 
 ![](assets/memo-guest-writers-shot-rewards.png)
@@ -194,16 +194,16 @@ The writer's site stays in charge after publish. Takedowns run once the takedown
 
 ![](assets/memo-guest-writers-fig5-lifecycle.svg)
 
-_Fig. 10: Small edits sync. A material edit goes back to review and updates the same note. A removal deletes the note and puts its path on a gone list, which answers 410._
+_Fig. 10: Small edits sync. A material edit goes back to review and updates the same note. A removal moves the post to `tombstoned`; once the takedown switch is on, it also deletes the note and lists its path as gone, which answers 410._
 
 | Event                                          | What memo does                                                                       |
 | ---------------------------------------------- | ------------------------------------------------------------------------------------ |
 | Small edit on the writer's site                | Syncs through without review                                                         |
 | Rewrite or new title                           | Back to review; on approve, the same note updates in place                           |
-| Post deleted on the writer's site              | Note deleted, path added to the gone list, `410 Gone`                                |
+| Post deleted on the writer's site              | Post tombstoned; with the takedown switch on, note deleted, path on the gone list, `410 Gone` |
 | Writer serves `410`                            | Taken down that day                                                                  |
 | Writer serves `404`                            | One-day grace period, in case a deploy broke                                         |
-| Editor pulls a post, or a writer is offboarded | Note deleted, gone entry added                                                       |
+| Editor pulls a post, or a writer is offboarded | Post tombstoned; with the takedown switch on, note deleted and gone entry added      |
 | Writer moves to a new domain                   | New domain verified with a fresh code; notes, rewards and contributor page unchanged |
 
 A `410` tells readers and crawlers that the page was removed on purpose. The gone list lives in the vault as a public list of taken-down paths, and the site answers `410` for every path on it.
@@ -223,15 +223,15 @@ Most of the design is live. Some parts ship dark until a live proof or an owner 
 | Semi-auto review, sanity gate, long-post review               | Live                                                                             |
 | Guest posts as native notes, old-URL redirects                | Live (first note published)                                                      |
 | Sidebar guest metadata, contributor listing                   | Live                                                                             |
-| Takedown with gone list and `410`                             | Site answers `410`; the takedown switch stays off until a live proof records one |
-| Import page with Rewards tab                                  | Built; waiting on its Cloudflare Access application                              |
-| Editor-set rewards                                            | Server side live; monthly cap value pending                                      |
+| Takedown with gone list and `410`                             | The takedown state exists. Note delete, `gone.txt` and the `410` wait for the `MEMO_NOTE_TAKEDOWN_ENABLED` switch, which is off until a live proof records one |
+| Import page with Rewards tab                                  | Live behind Cloudflare Access (memo-editors group); payouts stay with one owner  |
+| Editor-set rewards                                            | Live; monthly cap is 150 ICY                                                     |
 | Wallet linking by signature                                   | Built; opens later                                                               |
-| Join by email, appeal by email reply                          | Built; waiting on inbound mail routing                                           |
+| Join by email, appeal by email reply                          | Live at join@writers.d.foundation (Cloudflare Email Routing, authenticated)      |
 
 ## For engineers: what runs where
 
-The site and the data plane are separate Cloudflare Workers. `df-memo` serves the website. `df-memo-api` is the only component that writes to D1 (writers, posts, verdicts, payouts) and R2 (the extracted text and raw HTML), the only one that commits guest notes to the vault through the ops bot, and the only one that posts to Discord. Three cron phases drive it: the review sweep every 15 minutes, freshness and feed suggestions once a day, and a daily digest line for editors that rides the freshness tick. Each cron pings a heartbeat monitor, and each post step writes one structured log line with the job, URL, step, outcome and duration, so a single post's history is one query away.
+The site and the data plane are separate Cloudflare Workers. `df-memo` serves the website. `df-memo-api` is the only component that writes to D1 (writers, posts, verdicts, payouts) and R2 (the extracted text and raw HTML), the only one that commits guest notes to the vault through the Dwarves Memo Publisher GitHub App (the dwarves-ops-bot app only drives the publish-on-push step), and the only one that posts to Discord. Three cron phases drive it: the review sweep every 15 minutes, freshness and feed suggestions once a day, and a daily digest line for editors that rides the freshness tick. Each cron pings a heartbeat monitor, and each post step writes one structured log line with the job, URL, step, outcome and duration, so a single post's history is one query away.
 
 Messages follow the same discipline. Every memo message rides a registered stream that decides its channel, identity and format, and money events post under a different bot identity from editorial ones.
 
