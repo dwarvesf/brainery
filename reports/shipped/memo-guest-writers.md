@@ -196,15 +196,15 @@ The writer's site stays in charge after publish. Takedowns run once the takedown
 
 _Fig. 10: Small edits sync. A material edit goes back to review and updates the same note. A removal moves the post to `tombstoned`; once the takedown switch is on, it also deletes the note and lists its path as gone, which answers 410._
 
-| Event                                          | What memo does                                                                       |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------ |
-| Small edit on the writer's site                | Syncs through without review                                                         |
-| Rewrite or new title                           | Back to review; on approve, the same note updates in place                           |
+| Event                                          | What memo does                                                                                |
+| ---------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| Small edit on the writer's site                | Syncs through without review                                                                  |
+| Rewrite or new title                           | Back to review; on approve, the same note updates in place                                    |
 | Post deleted on the writer's site              | Post tombstoned; with the takedown switch on, note deleted, path on the gone list, `410 Gone` |
-| Writer serves `410`                            | Taken down that day                                                                  |
-| Writer serves `404`                            | One-day grace period, in case a deploy broke                                         |
-| Editor pulls a post, or a writer is offboarded | Post tombstoned; with the takedown switch on, note deleted and gone entry added      |
-| Writer moves to a new domain                   | New domain verified with a fresh code; notes, rewards and contributor page unchanged |
+| Writer serves `410`                            | Taken down that day                                                                           |
+| Writer serves `404`                            | One-day grace period, in case a deploy broke                                                  |
+| Editor pulls a post, or a writer is offboarded | Post tombstoned; with the takedown switch on, note deleted and gone entry added               |
+| Writer moves to a new domain                   | New domain verified with a fresh code; notes, rewards and contributor page unchanged          |
 
 A `410` tells readers and crawlers that the page was removed on purpose. The gone list lives in the vault as a public list of taken-down paths, and the site answers `410` for every path on it.
 
@@ -216,18 +216,18 @@ Memo keeps a private, signed archive of every submitted post, including posts th
 
 Most of the design is live. Some parts ship dark until a live proof or an owner decision lands, and the article states which:
 
-| Piece                                                         | State                                                                            |
-| ------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| `skill.md`, join endpoint, status call, `dwarves.json` schema | Live                                                                             |
-| Domain-code verification and editor approval                  | Live; waiting on the first outside applicant                                     |
-| Semi-auto review, sanity gate, long-post review               | Live                                                                             |
-| Guest posts as native notes, old-URL redirects                | Live (first note published)                                                      |
-| Sidebar guest metadata, contributor listing                   | Live                                                                             |
+| Piece                                                         | State                                                                                                                                                          |
+| ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `skill.md`, join endpoint, status call, `dwarves.json` schema | Live                                                                                                                                                           |
+| Domain-code verification and editor approval                  | Live; waiting on the first outside applicant                                                                                                                   |
+| Semi-auto review, sanity gate, long-post review               | Live                                                                                                                                                           |
+| Guest posts as native notes, old-URL redirects                | Live (first note published)                                                                                                                                    |
+| Sidebar guest metadata, contributor listing                   | Live                                                                                                                                                           |
 | Takedown with gone list and `410`                             | The takedown state exists. Note delete, `gone.txt` and the `410` wait for the `MEMO_NOTE_TAKEDOWN_ENABLED` switch, which is off until a live proof records one |
-| Import page with Rewards tab                                  | Live behind Cloudflare Access (memo-editors group); payouts stay with one owner  |
-| Editor-set rewards                                            | Live; monthly cap is 150 ICY                                                     |
-| Wallet linking by signature                                   | Built; opens later                                                               |
-| Join by email, appeal by email reply                          | Live at join@writers.d.foundation (Cloudflare Email Routing, authenticated)      |
+| Import page with Rewards tab                                  | Live behind Cloudflare Access (memo-editors group); payouts stay with one owner                                                                                |
+| Editor-set rewards                                            | Live; monthly cap is 150 ICY                                                                                                                                   |
+| Wallet linking by signature                                   | Built; opens later                                                                                                                                             |
+| Join by email, appeal by email reply                          | Live at join@writers.d.foundation (Cloudflare Email Routing, authenticated)                                                                                    |
 
 ## For engineers: what runs where
 
