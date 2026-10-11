@@ -98,7 +98,9 @@ The writer decides what memo may take. At join they pick one consent scope, in t
 
 Staff change a scope only on the writer's written request, and every scope keeps the writer's right to remove a post by deleting it on their own site. Posts an operator skips are remembered, so the feed watcher never suggests them again.
 
-> TODO before publish: screenshot of the import page at `memo.d.foundation/admin/writers/<handle>/import`, showing candidates, the consent-scope filter and the Rewards tab. The page is built, but the Cloudflare Access application that protects it does not exist yet, so there is no real capture. Do not publish with this slot empty or filled by a mock.
+![](assets/memo-guest-writers-shot-import.png)
+
+_Fig. 6: The import admin page for a guest writer, behind Cloudflare Access. Editors filter candidates by date, length and status, pick a folder, then import or skip. A Rewards tab sits beside it._
 
 ## Semi-auto review with a human verdict
 
@@ -106,7 +108,7 @@ Every post goes through the same gate, and the gate has one hard rule: the revie
 
 ![](assets/memo-guest-writers-fig3-review.svg)
 
-_Fig. 6: Extraction, a sanity check, the review agent, then a person. Nothing reaches the vault without an editor's approve._
+_Fig. 7: Extraction, a sanity check, the review agent, then a person. Nothing reaches the vault without an editor's approve._
 
 Extraction fetches the post's HTML, capped at 2 MB, and keeps the longest `<article>` or `<main>` element. Picking the longest instead of the first is the fix for the 175-character incident.
 
@@ -155,7 +157,7 @@ redirect:
 
 ![](assets/memo-guest-writers-shot-note.png)
 
-_Fig. 7: The live guest note at memo.d.foundation/essays/designing-out-snap-fraud. The Guest note group shows where it first appeared, when memo mirrored and last checked it, the verified domain and the rights line._
+_Fig. 8: The live guest note at memo.d.foundation/essays/designing-out-snap-fraud. The Guest note group shows where it first appeared, when memo mirrored and last checked it, the verified domain and the rights line._
 
 The old guest URL keeps working. A request for `/writers/truonghan.com/designing-out-snap-fraud` answers `301` to `/essays/designing-out-snap-fraud`, through the same redirect map memo uses for every moved note.
 
@@ -163,7 +165,7 @@ On the contributor page, a guest note lists beside the writer's other notes. Her
 
 ![](assets/memo-guest-writers-shot-contrib.png)
 
-_Fig. 8: The guest note on memo.d.foundation/contributor/tieubao, pinned and listed in the timeline next to native notes from the same day._
+_Fig. 9: The guest note on memo.d.foundation/contributor/tieubao, pinned and listed in the timeline next to native notes from the same day._
 
 ## Rewards in ICY
 
@@ -184,7 +186,7 @@ Every post memo publishes earns its writer between 5 and 20 ICY, the Dwarves com
 
 ![](assets/memo-guest-writers-shot-rewards.png)
 
-_Fig. 9: The Rewards section of the live join page, stating the same rule to writers._
+_Fig. 10: The Rewards section of the live join page, stating the same rule to writers._
 
 A wallet is optional at join. Rewards accrue whether or not a writer has linked one, and a writer links a wallet later by signing a message with it, so a typed address never counts. An agent may open the wallet page for a writer but never signs. Payouts are manual in this phase: an operator confirms a batch, sends the ICY, and records the transaction. Memo itself never moves a token, and it never shows a wallet address or a transaction hash on a page.
 
@@ -194,7 +196,7 @@ The writer's site stays in charge after publish. Takedowns run once the takedown
 
 ![](assets/memo-guest-writers-fig5-lifecycle.svg)
 
-_Fig. 10: Small edits sync. A material edit goes back to review and updates the same note. A removal moves the post to `tombstoned`; once the takedown switch is on, it also deletes the note and lists its path as gone, which answers 410._
+_Fig. 11: Small edits sync. A material edit goes back to review and updates the same note. A removal moves the post to `tombstoned`; once the takedown switch is on, it also deletes the note and lists its path as gone, which answers 410._
 
 | Event                                          | What memo does                                                                                |
 | ---------------------------------------------- | --------------------------------------------------------------------------------------------- |
