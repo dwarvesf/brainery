@@ -14,8 +14,6 @@ redirect:
 slug: optimizing-ui-for-effective-investment-experience
 ---
 
-Designing the UI for a blockchain-based hedge fund platform like [**Hedge Foundation**](https://hedge.foundation) is not just about creating a visually appealing interface. The real challenge lies in ensuring that complex financial data is **presented in an intuitive, understandable way that helps users make quick investment decisions**. Optimizing the UI plays a crucial role in allowing investors to access accurate data without feeling overwhelmed by excessive information.
-
 ## UI design principles for data visualization
 
 Before starting the design, we focused on understanding who our users are and what problems they face. We divided our users into three main groups:

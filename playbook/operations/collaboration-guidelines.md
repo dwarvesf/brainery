@@ -13,8 +13,6 @@ redirect:
   - /BvrBkw
 ---
 
-Guidelines for project collaboration between Dwarves and our Clients.
-
 ## Tools
 
 - Project management & communication: Basecamp (invited as Client)
