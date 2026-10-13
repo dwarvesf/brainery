@@ -14,8 +14,6 @@ redirect:
   - /NSl5tw
 ---
 
-When working with complex GraphQL schemas, it's common to have shared fields across different types. A fragment colocation pattern allows us to define fragments alongside their corresponding components, resulting in a more cohesive and maintainable codebase.
-
 By colocating fragments, we can easily reuse them across components that share common fields, reducing redundant code and promoting consistency. This can be further enhanced by using other layers of tooling, i.e. converting fragments into Typescript interfaces or auto generating React hooks for queries & mutations.
 
 This note aims to discuss such a pattern, made possible with:

@@ -14,8 +14,6 @@ redirect:
 slug: frontend-report-june-2025
 ---
 
-June 2025 brought significant changes to frontend web development. This report covers the widespread adoption of AI coding tools, new CSS conditional logic features, browser updates with AI integration, React Server Components in production, TypeScript's native Node.js support, and improved development workflows.
-
 ## ⚛️ React & Next.js highlights
 
 React continues its evolution with Server Components maturation and Next.js advancing as the de facto React framework.
