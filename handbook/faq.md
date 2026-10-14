@@ -301,7 +301,7 @@ We have a short note on this topic [Moonlighting](moonlighting.md).
 We build a small web app for it: [sign.d.foundation](https://sign.d.foundation).
 
 **How to raise an issue?** \
-Depend on the particular circumstances, you can follow the section [Raising an issue](/handbook/how-we-work) or just post a pitch to Basecamp.
+Depend on the particular circumstances, you can follow the section [Raising an issue](/handbook/how-we-work#raising-concerns) or just post a pitch to Basecamp.
 
 We also have the anonymous feedback form for those who're shy. Check the Woodland HQ message board.
 
@@ -337,4 +337,4 @@ Bonuses are based on your impact on the project and how much you contribute to i
 
 Our goal is to ensure that projects meet our quality standards. We may ask an engineer to join a project as a supporter at first, in order to learn the ropes under his or her mentor/lead.
 
-As soon as the engineer is ready to work on his or her own, we'll convert him or her into a full-time team member and begin charging clients for his or her billable hours. For more information, please check out [How we hire](/handbook/how-we-hire).
+As soon as the engineer is ready to work on his or her own, we'll convert him or her into a full-time team member and begin charging clients for his or her billable hours. For more information, please check out [How we hire](/handbook/how-we-hire#our-referral-program).
