@@ -19,9 +19,7 @@ slug: agent-tuning-layers
 
 We built circle, a relationship tracker on Cloudflare, and wired it into Hermes over MCP. Then I asked the obvious next question: if I want better tool calls and better context management, do I have to rebuild the agent? The answer is no. The harness already runs the loop and manages the window. What you control sits in five layers outside it, and the two cheapest ones (your MCP tools and your skills) move quality the most. This post starts with the difference between agentic and non-agentic AI, which comes down to who decides the next step. It splits a system into a deterministic core and an agentic edge, and names the three parts of any integration: brain, know-how, and hands with memory. Then it maps the five layers, with real token costs from a system we run.
 
-![](assets/agent-tuning-layers-fig1-ladder.svg)
-
-_Fig. 1: the five layers you can tune, cheapest at the top. Layers 1 and 2 live in your own code, so start there._
+![Where to tune an agent, five layers {#fig-ladder .live}](assets/agent-tuning-layers-fig1-ladder.svg "The five layers you can tune, cheapest at the top. Layers 1 and 2 live in your own code, so start there.")
 
 ## The question
 
@@ -35,9 +33,7 @@ Those three questions have short answers once the vocabulary is straight, so I'l
 
 Figure 2 walks one real ask through the system. Read it left to right, then watch the window on the right fill up.
 
-![](assets/agent-tuning-layers-fig2-loop.svg)
-
-_Fig. 2: one "brief me" request. Every step appends to the context window, and the model sees nothing outside it._
+![One agent loop and its context window {#fig-loop .live}](assets/agent-tuning-layers-fig2-loop.svg "One \"brief me\" request. Every step appends to the context window, and the model sees nothing outside it.")
 
 Each term maps to one piece of that picture:
 
@@ -56,9 +52,7 @@ Once I saw it this way, "context management" stopped being abstract. It is a bud
 
 "Agentic" was the word that confused me most. circle already uses a model in several places, yet only some of them are agents. The difference has nothing to do with how smart the model is. It comes down to one question: who picks the next step, your code or the model?
 
-![](assets/agent-tuning-layers-fig3-spectrum.svg)
-
-_Fig. 3: three kinds of work. The dashed line is where control passes from your code to the model._
+![Agentic or not, three kinds of work {#fig-spectrum .live}](assets/agent-tuning-layers-fig3-spectrum.svg "Three kinds of work. The dashed line is where control passes from your code to the model.")
 
 **Plain code.** Your code decides every step and no model runs. The same input gives the same output every time. In circle that covers the warmth score (a decayed sum of weighted touches over 365 days), the daily radar, the tier cadence (a tier A person is overdue after 30 days of silence), and the lookup that turns a name into a list of matching people.
 
@@ -98,9 +92,7 @@ The biggest decision is the one circle doesn't make: it has no agent loop of its
 
 Once the core and the edge were separate, every agent integration I looked at had the same three parts. Most of my design confusion came from mixing them up.
 
-![](assets/agent-tuning-layers-fig4-parts.svg)
-
-_Fig. 4: the harness is the brain, skills are the know-how, and circle supplies the hands and the memory._
+![Brain, know-how, hands and memory {#fig-parts .live}](assets/agent-tuning-layers-fig4-parts.svg "The harness is the brain, skills are the know-how, and circle supplies the hands and the memory.")
 
 **The brain** is the model plus the harness that runs the loop. It decides the next step, reads results, talks to the user, and manages the window. It owns no facts and enforces no rules. In circle's case the brain is Hermes, and the model inside it is swappable by config. A good test: swap the model, and only answer quality should change. If anything else breaks, something that belongs in another part leaked into the brain.
 
@@ -132,9 +124,7 @@ The model reads every tool definition on every turn, before the user has typed a
 
 I measured ours by calling circle's real `tools/list` handler once per role. An admin key sees 32 tools, and the list costs about 3,300 tokens on every turn. A reader key sees 10 tools for about 760. Least privilege turns out to be a context saving too: the reader list is 76% smaller.
 
-![](assets/agent-tuning-layers-fig5-cost.svg)
-
-_Fig. 5: what circle puts in the window before the user types. Tool definitions stay resident; skill bodies load one at a time._
+![Context cost per turn {#fig-cost .live}](assets/agent-tuning-layers-fig5-cost.svg "What circle puts in the window before the user types. Tool definitions stay resident; skill bodies load one at a time.")
 
 The breakdown surprised me. Descriptions, the part I'd been polishing, are only 27% of the admin list. Input schemas are 59%. The three largest tools (`circle_profile_add`, `circle_update`, `circle_media_update`) are all schema-heavy update tools with many optional fields. If I wanted to cut the list, I'd split those into narrower tools or move rarely used fields out, before I touched a single description.
 
