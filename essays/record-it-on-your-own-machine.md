@@ -23,7 +23,7 @@ The host records the call separately, because your local file will not have the 
 
 A free Discord account streams Go Live at [720p and 30fps](https://support.discord.com/hc/en-us/articles/360040816151-Go-Live-and-Screen-Share). Nitro Classic raises it to 1080p60, full Nitro to 4K60. Most people on a work call have never bought Nitro. Their screen leaves the machine at a quarter of the pixels they are looking at, and every copy downstream inherits that number.
 
-![One talk, two paths off the presenter's machine: through the call at 720p, or a local recording at native resolution {#fig-paths .live}](assets/record-it-on-your-own-machine-fig1-two-paths.svg "One talk leaves the machine twice. Only the left path keeps what the presenter was looking at.")
+![One talk, two paths off the presenter's machine: through the call at 720p, or a local recording at native resolution {#fig-paths .live}](assets/record-it-on-your-own-machine-fig1-two-paths.svg 'One talk leaves the machine twice. Only the left path keeps what the presenter was looking at.')
 
 Resolution is not the whole cost either. The encoder adds compression on top, at whatever bitrate the network allowed that minute. Design tooling suffers most, because the content is 11px labels and numeric fields, and those are the first things to lose their edges.
 
@@ -63,7 +63,7 @@ Your file holds your screen and your voice. It does not hold the room.
 
 Questions arrive over the call from other people's microphones and never reach your local recording. Often the questions carry the most value. Someone pushes back on a decision, you explain reasoning you left out of the walkthrough, and that exchange is what a new joiner needs six months later.
 
-![What each track holds: local recording versus call capture for the slides, the voice and the questions {#fig-coverage .live}](assets/record-it-on-your-own-machine-fig3-coverage.svg "Your track wins on quality for everything it holds. It does not hold the discussion.")
+![What each track holds: local recording versus call capture for the slides, the voice and the questions {#fig-coverage .live}](assets/record-it-on-your-own-machine-fig3-coverage.svg 'Your track wins on quality for everything it holds. It does not hold the discussion.')
 
 So the host records the call too, in OBS, whenever the Q&A is worth keeping. That capture is 720p and that is fine. Its job is the audio of people asking things.
 
