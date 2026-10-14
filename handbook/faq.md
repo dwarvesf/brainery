@@ -143,7 +143,7 @@ We only have an admin to take care of the paperwork. If you have any question, y
 
 **How about the working hours?**
 
-We care about the quality of the work we produce rather than the number of hours worked. However if you prefer to have a fixed schedule, we recommend to start at 8am and end at 5pm as stated in [Flexible Working Hours](benefits-and-perks.md#flexible-working-hours)
+We care about the quality of the work we produce rather than the number of hours worked. However if you prefer to have a fixed schedule, we recommend to start at 8am and end at 5pm as stated in [Flexible Working Hours](/handbook/benefits-and-perks)
 
 **How about the dress code?**
 
@@ -301,7 +301,7 @@ We have a short note on this topic [Moonlighting](moonlighting.md).
 We build a small web app for it: [sign.d.foundation](https://sign.d.foundation).
 
 **How to raise an issue?** \
-Depend on the particular circumstances, you can follow the section [Raising an issue](how-we-work.md#raising-an-issue) or just post a pitch to Basecamp.
+Depend on the particular circumstances, you can follow the section [Raising an issue](/handbook/how-we-work) or just post a pitch to Basecamp.
 
 We also have the anonymous feedback form for those who're shy. Check the Woodland HQ message board.
 
@@ -337,4 +337,4 @@ Bonuses are based on your impact on the project and how much you contribute to i
 
 Our goal is to ensure that projects meet our quality standards. We may ask an engineer to join a project as a supporter at first, in order to learn the ropes under his or her mentor/lead.
 
-As soon as the engineer is ready to work on his or her own, we'll convert him or her into a full-time team member and begin charging clients for his or her billable hours. For more information, please check out [How we hire](how-we-hire.md#referral).
+As soon as the engineer is ready to work on his or her own, we'll convert him or her into a full-time team member and begin charging clients for his or her billable hours. For more information, please check out [How we hire](/handbook/how-we-hire).

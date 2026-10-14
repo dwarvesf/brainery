@@ -16,7 +16,7 @@ How we expect projects to be setup.
 - Single command run
 - Single command deploy
 - Repeatable and re-creatable builds
-- Build artifacts bundle a ["Bill of Materials"](backend.md#bill-of-materials)
+- Build artifacts bundle a ["Bill of Materials"](/playbook/engineering/backend#bill-of-materials)
 
 ### Technical
 
