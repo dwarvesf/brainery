@@ -10,7 +10,7 @@ redirect:
 
 > Note (October 2026): this post describes the process in 2016 and the commands have changed since. What to use today:
 >
-> - Formulae live in the `Homebrew/homebrew-core` repository, under `Formula/`. The `Homebrew/homebrew` repository named below was retired.
+> - Formulae live in the `Homebrew/homebrew-core` repository, under `Formula/<first letter>/`. The `Homebrew/homebrew` repository named below was retired.
 > - Install Homebrew with the command on <https://brew.sh>. The Ruby installer script shown below no longer exists. On Apple silicon the prefix is `/opt/homebrew` instead of `/usr/local`.
 > - `brew create <URL>` and `brew edit <formula>` still scaffold and edit a formula. Use `brew audit --new <formula>` for a new formula, and `brew test <formula>`.
 > - Go formulae no longer use `go_resource` or `godep`. Current formulae build with Go modules and `std_go_args`. Copy a recent Go formula from homebrew-core.

@@ -35,7 +35,7 @@ The codebase is the same across all deploys, although different versions may be 
 
 Every dependency should be pin a clear version for stability and should be cloned into the code repo.
 
-> Note: this list predates current tooling. `go dep` is archived in favor of Go modules, and Carthage sees little development while Swift Package Manager is the common default for Apple platforms. The rule stays the same: declare every dependency in a manifest and pin the version. Commit the lockfile (`go.sum`, `package-lock.json`, `Package.resolved`) so every deploy resolves the same versions.
+> Note: this list predates current tooling. `go dep` is archived in favor of Go modules, and Carthage sees little development while Swift Package Manager is the common default for Apple platforms. The rule stays the same: declare every dependency in a manifest and pin the version. Commit the lockfile (`go.mod` + `go.sum`, `package-lock.json`, `Package.resolved`) so every deploy resolves the same versions.
 
 ## Config
 

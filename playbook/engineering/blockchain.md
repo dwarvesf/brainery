@@ -94,7 +94,7 @@ A digital signature is a mathematical technique used to validate the authenticit
 
 Merkle tree also known as hash tree is a data structure used for data verification and synchronization. It is a tree data structure where each non-leaf node is a hash of it’s child nodes. All the leaf nodes are at the same depth and are as far left as possible. It maintains data integrity and uses hash functions for this purpose.
 
-#A tree over four transactions looks like this. Changing any leaf changes every hash above it, so one root hash vouches for all the data below.
+A tree over four transactions looks like this. Changing any leaf changes every hash above it, so one root hash vouches for all the data below.
 
 ```text
                     Root = H(H12 + H34)
@@ -106,7 +106,7 @@ Merkle tree also known as hash tree is a data structure used for data verificati
 
 To prove tx3 is in the tree, send H4 and H12. The verifier recomputes H3, then H34, then the root, and compares it with the known root. That is a proof of two hashes instead of all four transactions.
 
-#### Hash functions
+##### Hash functions
 
 So before understanding how Merkle trees work, we need to understand how hash functions work. A hash function maps an input to a fixed output and this output is called hash. The output is unique for every input and this enables fingerprinting of data. So, huge amounts of data can be easily identified through their hash.
 
@@ -151,7 +151,7 @@ A minimal first run, using the standard Hardhat commands:
 ```bash
 mkdir my-contract && cd my-contract
 npm init -y
-npm install --save-dev hardhat
+npm install --save-dev hardhat@^2
 npx hardhat init      # choose a JavaScript or TypeScript project
 npx hardhat compile
 npx hardhat test

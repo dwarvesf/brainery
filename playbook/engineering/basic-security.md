@@ -70,7 +70,7 @@ A generic first-hour sequence. Adjust it to the system involved.
 1. Contain: sign the device or account out everywhere, revoke sessions and API tokens, and disconnect the device from the network if it is lost or infected.
 2. Rotate: change passwords and keys that the device or account could reach, starting with the ones that grant the most access.
 3. Assess: check access logs for what was read or changed and when. Write down what you find as you go.
-4. Tell: report it internally straight away, for example to <security@d.foundation>. If customer data may be involved, escalate at once, because notification obligations can carry deadlines.
+4. Tell: report it internally straight away to your lead or the ops team. If customer data may be involved, escalate at once, because notification obligations can carry deadlines.
 5. Follow up: record what happened and what would have prevented it.
 
 Report a lost laptop or phone immediately, even if you think it was only misplaced. A fast report costs little, and a slow one lets an attacker keep access.

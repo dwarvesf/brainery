@@ -87,6 +87,7 @@ test:
 package:
   stage: package
   script:
+    - echo "$REGISTRY_PASSWORD" | docker login -u "$REGISTRY_USER" --password-stdin registry.example.com
     - docker build -t $IMAGE:develop -t $IMAGE:$CI_COMMIT_SHORT_SHA .
     - docker push $IMAGE:develop
     - docker push $IMAGE:$CI_COMMIT_SHORT_SHA

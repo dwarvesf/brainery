@@ -42,8 +42,9 @@ add new column  -->  that writes both  -->  old rows
 (nullable)           columns
                                               |
 5. Contract          4. Deploy code           |
-drop old column <--  that reads the  <--------+
-(later release)      new column
+drop old column <--  that reads and   <-------+
+(later release)      writes only the
+                     new column
 ```
 
 Each step is its own migration or deploy, so each can be rolled back on its own.
@@ -59,7 +60,7 @@ ALTER TABLE users ADD COLUMN full_name text;
 -- 3. Backfill (run in batches on large tables)
 UPDATE users SET full_name = name WHERE full_name IS NULL AND id BETWEEN 1 AND 10000;
 
--- 5. Contract (a later release, after nothing reads "name")
+-- 5. Contract (a later release, after nothing reads or writes "name")
 ALTER TABLE users DROP COLUMN name;
 ```
 
