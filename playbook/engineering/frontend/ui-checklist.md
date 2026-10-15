@@ -1,5 +1,5 @@
 ---
-title: Ui checklist
+title: UI checklist
 description: null
 date: null
 redirect:

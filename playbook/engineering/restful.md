@@ -1,5 +1,5 @@
 ---
-title: Restful API
+title: RESTful API
 description: null
 date: null
 redirect:

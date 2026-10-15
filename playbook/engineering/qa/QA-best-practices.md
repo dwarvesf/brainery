@@ -1,5 +1,5 @@
 ---
-title: QA best practises
+title: QA best practices
 description: null
 date: null
 redirect:
