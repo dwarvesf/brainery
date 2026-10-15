@@ -1,12 +1,10 @@
 ---
-title: null
+title: Repository setup
 description: null
 date: null
 redirect:
   - /4LejNg
 ---
-
-# Repository setup
 
 How we expect projects to be setup.
 

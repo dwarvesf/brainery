@@ -1,12 +1,10 @@
 ---
-title: null
+title: Continuous integration
 description: null
 date: null
 redirect:
   - /fa8afg
 ---
-
-# Continuous integration
 
 ## What
 

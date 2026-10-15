@@ -1,12 +1,10 @@
 ---
-title: null
+title: UI checklist
 description: null
 date: null
 redirect:
   - /3HShrA
 ---
-
-# Ui checklist
 
 Frontend engineering is not just about producing high quality code but also attentive design. Whether you work on a design or transform a design to code, make sure the below checklist is done before you ship.
 

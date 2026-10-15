@@ -1,12 +1,10 @@
 ---
-title: null
+title: Monitoring
 description: null
 date: null
 redirect:
   - /0e46Cg
 ---
-
-# Monitoring
 
 - [Monitoring](#monitoring)
 - [Application monitoring](#application-monitoring)

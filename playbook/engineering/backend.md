@@ -1,12 +1,10 @@
 ---
-title: null
+title: Best practices in backend development
 description: null
 date: null
 redirect:
   - /dNPWQw
 ---
-
-# Best practices in backend development
 
 - [N commandments](#n-commandments)
 - [General points on guidelines](#general-points-on-guidelines)

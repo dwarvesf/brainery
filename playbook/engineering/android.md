@@ -1,12 +1,10 @@
 ---
-title: null
+title: Best practices in Android development
 description: null
 date: null
 redirect:
   - /7IUNoA
 ---
-
-# Best practices in Android development
 
 Avoid reinventing the wheel by following these guidelines.
 

@@ -1,12 +1,10 @@
 ---
-title: null
+title: Best practices in iOS development
 description: null
 date: null
 redirect:
   - /Fzxk4w
 ---
-
-# Best practices in iOS development
 
 Avoid reinventing the wheel by following these guidelines.
 

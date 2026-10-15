@@ -1,12 +1,10 @@
 ---
-title: null
+title: Development security checklist
 description: null
 date: null
 redirect:
   - /kCjuvg
 ---
-
-# Development security checklist
 
 ##### Transmitting information
 

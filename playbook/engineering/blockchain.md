@@ -1,12 +1,10 @@
 ---
-title: null
+title: Best practices in blockchain development
 description: null
 date: null
 redirect:
   - /Xrs4ag
 ---
-
-# Best practices in blockchain development
 
 - [N commandments](#n-commandments)
 - [Encryption knowledge](#encryption-knowledge)

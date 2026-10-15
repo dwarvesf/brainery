@@ -1,12 +1,10 @@
 ---
-title: null
+title: Code review
 description: null
 date: null
 redirect:
   - /TeWzXQ
 ---
-
-# Code review
 
 How we do code review.
 

@@ -1,12 +1,10 @@
 ---
-title: null
+title: Defect report template
 description: null
 date: null
 redirect:
   - /gQk3hg
 ---
-
-# Defect report template
 
 ### Summary
 

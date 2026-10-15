@@ -1,12 +1,10 @@
 ---
-title: null
+title: Project setup
 description: null
 date: null
 redirect:
   - /GHb2lA
 ---
-
-# Project setup
 
 Following setup helps us maintain stability and increase the transparency among team members.
 

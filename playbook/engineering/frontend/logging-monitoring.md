@@ -1,12 +1,10 @@
 ---
-title: null
+title: Logging and monitoring
 description: null
 date: null
 redirect:
   - /CidQXQ
 ---
-
-# Logging and monitoring
 
 This document provides guidance on some key metrics to track when logging and monitoring a frontend application.
 

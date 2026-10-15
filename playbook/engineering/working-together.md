@@ -1,12 +1,10 @@
 ---
-title: null
+title: Pair programming
 description: null
 date: null
 redirect:
   - /Ql8wug
 ---
-
-# Pair programming
 
 We encourage pair programming between all levels of experience. Nobody is required to pair program for a certain amount of time, but it is a great tool to help solve complex problems quickly and more efficiently with an extra set of eyes.
 

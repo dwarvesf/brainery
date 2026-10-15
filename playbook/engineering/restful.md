@@ -1,12 +1,10 @@
 ---
-title: null
+title: RESTful API
 description: null
 date: null
 redirect:
   - /0OkhcQ
 ---
-
-# Restful API
 
 An API is a user interface for developers. Put the effort in to ensure it's not just functional but pleasant to use.
 

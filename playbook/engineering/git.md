@@ -1,12 +1,10 @@
 ---
-title: null
+title: Source version control
 description: null
 date: null
 redirect:
   - /ZCHV4Q
 ---
-
-# Source version control
 
 It's like a time machine. We can save and reload anytime we want to, like in the old day of Game Boy Advance. We can work in parallel universes of our source code, experimenting without fear of losing work, and rolling back if something goes wrong.
 

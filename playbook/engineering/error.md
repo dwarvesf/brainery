@@ -1,12 +1,10 @@
 ---
-title: null
+title: Error message convention
 description: null
 date: null
 redirect:
   - /nq7gfA
 ---
-
-# Error message convention
 
 We use the following structure for our error message. It helps our system stay consistent, easier to present between components and also better for error tracking.
 

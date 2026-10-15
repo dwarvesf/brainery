@@ -1,12 +1,10 @@
 ---
-title: null
+title: Code style
 description: null
 date: null
 redirect:
   - /GMeWVQ
 ---
-
-# Code style
 
 While the vast majority of base code style is enforced by [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/), please also where possible, stick to the contribution guidelines below. These rules should be kept in mind when reviewing Pull Requests:
 

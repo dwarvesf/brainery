@@ -1,12 +1,10 @@
 ---
-title: null
+title: Database migration
 description: null
 date: null
 redirect:
   - /e5W9zg
 ---
-
-# Database migration
 
 ## Mobile
 

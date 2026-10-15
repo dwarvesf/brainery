@@ -1,12 +1,10 @@
 ---
-title: null
+title: Technology stack
 description: null
 date: null
 redirect:
   - /h2928Q
 ---
-
-# Technology stack
 
 ### Our perspective on technology
 

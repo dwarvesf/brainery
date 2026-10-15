@@ -1,12 +1,10 @@
 ---
-title: null
+title: The 12-factor app
 description: null
 date: null
 redirect:
   - /2hYHHQ
 ---
-
-# The 12-factor app
 
 _The 12-factor apps let us write modern software as a service which is easy to deploy, scale up, maximize portability, and minimize time, the cost for new developers joining the project._
 

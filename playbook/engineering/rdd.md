@@ -1,12 +1,10 @@
 ---
-title: null
+title: Readme driven development
 description: null
 date: null
 redirect:
   - /wxC4HA
 ---
-
-# Readme driven development
 
 ### A perfect implementation of the wrong specification is worthless
 
