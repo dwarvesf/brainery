@@ -2,7 +2,7 @@
 title: Dwarves playbook
 short_title: Playbook
 description: Entry point to the Dwarves playbook, covering product design, engineering practices, production and business process.
-date: 2021-12-30
+date: 2026-10-15
 authors:
   - tieubao
 hide_title: true

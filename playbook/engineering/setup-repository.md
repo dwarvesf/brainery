@@ -1,7 +1,7 @@
 ---
 title: Repository setup
 description: What every repository must provide, including one-command run and deploy, a Dockerfile, a health check and minimum documentation.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /4LejNg
 ---
@@ -45,6 +45,32 @@ All engineers should be aware about deployment and how your application would be
   ```
 
 - Every Backend source code must have a healthcheck endpoint (`/api/health` for example)
+
+#### Example: a minimal Makefile and health check
+
+A backend repo can satisfy the three `make` targets above with a few lines. The commands inside are placeholders; use your stack's own.
+
+```makefile
+up:
+	go mod download
+
+run:
+	go run ./cmd/server
+
+build:
+	go build -o bin/server ./cmd/server
+```
+
+The health check can be as small as one route that returns `200` when the process is up and its dependencies answer:
+
+```text
+GET /api/health
+
+200 OK
+{ "status": "ok" }
+```
+
+A new teammate should be able to run `make up && make run` on a clean machine and reach `/api/health` without asking anyone. If that fails, treat it as a bug in the setup.
 
 ### Documentation
 

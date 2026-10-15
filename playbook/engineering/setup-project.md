@@ -1,7 +1,7 @@
 ---
 title: Project setup
 description: What to set up when a project starts, including the agreement folder, artifacts, repository, communication channel, workflow tooling and integrations.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /GHb2lA
 ---
@@ -52,6 +52,21 @@ Then we fire an email to the stakeholders, including the development team with t
 6. Link to GDrive shared folder
 7. Make sure the project is added to Fortress
 
+### Setup at a glance
+
+```text
+ Invite to communication channel
+              |
+              v
+ Project in Basecamp  -->  Schedule team meetings
+                                    |
+                                    v
+                      Schedule client meetings
+                                    |
+                                    v
+ Repository  -->  GDrive shared folder  -->  Add project to Fortress
+```
+
 ### Integration
 
 The integrations are not required to setup. Nonetheless, in some cases, we also want to add integrations from the services we use to our monitoring platform or [communication channel](#communication-channel)
@@ -66,3 +81,7 @@ There's a few checklist item to follow at [release.md](release.md). In short
 - Things are well-tested and known issues are specified.
 - Having people in charge of product quality sign-off the release.
 - Be careful with the deployment step, migration, and back-up.
+
+### Note on tools
+
+This page names the tools in use when it was written (Basecamp, Gitlab, Fabric, Fortress, GSuite). Some of them may have changed since. Fabric was shut down by its vendor, and GSuite is now called Google Workspace. Check the current tool list before following a step literally. The structure still holds: an agreement folder, a shared artifacts folder, one repository, one communication channel, and one place for milestones.

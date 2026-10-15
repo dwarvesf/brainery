@@ -1,7 +1,7 @@
 ---
 title: RESTful API
 description: Conventions for REST API design, from URLs and versioning to pagination, status codes, error formats, caching and rate limits.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /0OkhcQ
 ---
@@ -18,7 +18,7 @@ The following terms are crucial when discussing REST APIs:
 
 ## Conventions
 
-- **Documentation**: Swagger is our chosen tool for REST API documentation.
+- **Documentation**: Swagger is our chosen tool for REST API documentation. Its API description format is now maintained as the OpenAPI Specification, so write new specs as OpenAPI.
 - **Use nouns in URI**: Design REST APIs around resources. Instead of `/create-user`, use `/users`.
 - **Plurals**: Prefer using plurals in URIs, but singular forms are also acceptable.
 - **HTTP verbs**: Map actions to HTTP verbs. Avoid misusing safe methods. Match HTTP methods to the required action.
@@ -297,6 +297,31 @@ In these response formats, the `data` field holds the actual resource data or an
 - **hasNext**: Indicates if there are more results available.
 
 By using these standardized response formats, you enhance the consistency and clarity of your API responses, making it easier for developers to work with your API.
+
+## Example: one resource end to end
+
+Create a company, then list companies with the conventions above. The `/v1` prefix, camelCase fields and `data` / `metadata` envelope follow the sections earlier on this page.
+
+```text
+POST /v1/companies
+{ "name": "Acme", "category": "software" }
+
+201 Created
+Location: /v1/companies/42
+{ "data": { "id": 42, "name": "Acme", "category": "software" } }
+```
+
+```text
+GET /v1/companies?category=software&sort=-createdAt&page=1&pageSize=20
+
+200 OK
+{
+  "data": [ { "id": 42, "name": "Acme", "category": "software" } ],
+  "metadata": { "page": 1, "pageSize": 20, "totalPages": 1, "totalRecords": 1, "hasNext": false }
+}
+```
+
+Sending the same `POST` with an empty `name` returns `400` with the `CREATE_BODY_INVALID` style body shown under error handling, including a `traceId` the client can quote when it reports the problem.
 
 ## Error handling
 

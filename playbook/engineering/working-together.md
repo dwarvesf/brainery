@@ -1,7 +1,7 @@
 ---
 title: Pair programming
 description: How we pair program, with driver and navigator roles, what to agree before, during and after a session, and what to avoid.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /Ql8wug
 ---
@@ -13,6 +13,16 @@ Code that is written by two people who sit next to each other at the same comput
 That code is considered high quality and should result in cost savings due to less maintenance. The matter of fact is, pair programming technique can take around 15% longer, yet produces 15% lesser defects. In the long run, this style of development saves money because fewer bugs are written and therefore do not need to be fixed later.
 
 Generally we use it for complex pull requests review and coaching and fixing
+
+```text
+ +------------------------------+   timer or finished test   +------------------+
+ | Driver types, navigator      |--------------------------->| Switch roles     |
+ | reviews and explains         |<---------------------------|                  |
+ +--------------+---------------+                            +------------------+
+                |
+                v
+        Break and feedback
+```
 
 ## How?
 
@@ -101,3 +111,15 @@ Some notes that we should consider applying
 
 - Sync
 - Communicate to sync
+
+## Example: a 90-minute pairing session
+
+A generic plan for fixing a bug in an unfamiliar module:
+
+1. **Before (5 min)**: agree the goal ("reproduce the bug and get a failing test"), the stop condition (ticket done, or 90 minutes), and the style (switch every 25 minutes).
+2. **Round 1 (25 min)**: A drives and writes the failing test. B navigates, reads the code paths aloud and asks questions.
+3. **Switch and short break**: B drives and writes the fix, A navigates.
+4. **Round 3 (25 min)**: both clean up, run the full test suite and write the pull request description together.
+5. **After (5 min)**: each person says one thing that went well and one thing to change next time.
+
+If one person has not spoken for several minutes, switch roles. That is usually the sign the pairing has become one person coding and one person watching.

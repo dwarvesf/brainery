@@ -1,7 +1,7 @@
 ---
 title: Technology stack
 description: How we evaluate technology with a tech radar, and the tools, techniques, platforms and languages we use.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /h2928Q
 ---
@@ -22,6 +22,23 @@ We continuously evaluate new technologies using our tech radar. They are classif
 - Trial: Worth pursuing. It is important to understand how to build up this capability. We could try those technologies on a project that can handle the risk.
 - Assess: Worth exploring with the goal of understanding how it will affect the company.
 - Hold: The items that need to proceed with caution.
+
+#### How an item moves on the radar
+
+```text
+ +--------+     +-------+     +-------+
+ | Assess |---->| Trial |---->| Adopt |
+ +---+----+     +---+---+     +---+---+
+     |              |             |
+     +--------------+-------------+
+                    |
+                    v
+               +--------+
+               |  Hold  |
+               +--------+
+```
+
+A new technology starts at Assess. It moves to Trial when a project that can absorb the risk uses it, and to Adopt once the team knows how to build with it. Anything that proves a poor fit, or ages out, goes to Hold. A short note on each move (what we tried, what we learned) keeps the radar useful to the next team.
 
 ### Technology index
 
@@ -57,3 +74,7 @@ We continuously evaluate new technologies using our tech radar. They are classif
 - Vue.js
 - Kotlin
 - Swift
+
+### Note on currency
+
+The technology index above is a snapshot from when this page was written. Tools and platform names change, and the radar ratings are not kept in sync here. Check with the project team for the current choice before treating an entry as a recommendation.

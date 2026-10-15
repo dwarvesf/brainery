@@ -1,7 +1,7 @@
 ---
 title: Agile requirement - user story
 description: How to write agile user stories, with the INVEST test, epics and themes, and common myths.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /6v6jrw
 ---
@@ -27,6 +27,25 @@ Example:
 **Epic**: A very large user story that will not fit into a single iteration, does not pass the test for inclusion in an iteration, and will need to be subdivided to be considered.
 
 **Theme**: A collection of features, epics, & stories that describe a broad business purpose.
+
+### Example: from epic to stories
+
+Epic: "Customers can pay for an order online". It is too big for one iteration, so split it into thin vertical slices, each one usable on its own:
+
+- As a **customer**, I want to **pay with a saved card** so that **I do not retype card details**
+- As a **customer**, I want to **receive an email receipt** so that **I have proof of payment**
+- As a **finance officer**, I want to **export paid orders as CSV** so that **I can reconcile them with the bank**
+
+Each story carries acceptance criteria, the conditions that make it done. A common format is Given / When / Then:
+
+```text
+Given a customer with a saved card and a cart worth 50 USD
+When they confirm the payment
+Then the order status becomes "paid"
+And a receipt email is sent within 1 minute
+```
+
+Quick INVEST check on the first story: it does not depend on the receipt story (Independent), the card flow is open to discussion (Negotiable), customers get value (Valuable), the team can size it (Estimable), it fits in one sprint (Small), and the criteria above can be tested (Testable). If a story fails two or more letters, split or rewrite it.
 
 ## What else does User Story have?
 

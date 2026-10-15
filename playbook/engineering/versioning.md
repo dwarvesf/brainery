@@ -1,7 +1,7 @@
 ---
 title: Semantic versioning
 description: How we version software with Semantic Versioning (MAJOR.MINOR.PATCH), with a worked example and answers to common questions.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /aorrpw
 ---
@@ -23,6 +23,21 @@ This means that any time you release a new MAJOR release, the minor and patch va
 SemVer allows us to keep a consistent numbering scheme to ensure that going forward we can maintain compatibility with all system and platform components. It also allows us to upgrade dependencies with the confidence that things won’t break.
 
 SemVer enables us to ensure that once something is committed, we can be confident that any version remains unique.
+
+## Example: choosing the next version
+
+Say the current release is `2.3.4`.
+
+| Change                                        | Next version | Why                                                             |
+| --------------------------------------------- | ------------ | --------------------------------------------------------------- |
+| Fix a crash in the export job                 | `2.3.5`      | Backward-compatible bug fix: PATCH                              |
+| Add an optional `locale` field to an endpoint | `2.4.0`      | New backward-compatible functionality: MINOR, PATCH resets to 0 |
+| Remove the `v1` login endpoint                | `3.0.0`      | Breaking change: MAJOR, MINOR and PATCH reset to 0              |
+| Start a new service                           | `0.1.0`      | Initial development, see the FAQ below                          |
+
+When a release mixes changes, the highest-impact change decides the bump. One breaking change among ten fixes still makes a MAJOR release.
+
+Pre-release builds append an identifier, for example `3.0.0-rc.1`, which sorts before `3.0.0`. Tag the commit with the same number, for example `git tag -a v3.0.0 -m "Release 3.0.0"`. See the [release checklist](release.md).
 
 ## FAQ
 

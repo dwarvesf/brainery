@@ -1,7 +1,7 @@
 ---
 title: Agile team workflow
 description: How our teams apply agile and Scrum, including team formation, sprint loops, roles and answers to common questions.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /KjoHhA
 ---
@@ -58,6 +58,35 @@ There are
 - Sprint: a small loop of 1, 2, or 4 weeks. It consists of planning at the beginning of the sprint, daily sync up, product review, and team retro at the end of the sprint.
 
 To maintain the sustainable pace, the agile team should know each other and try to measure the capability using the agile point.
+
+### The sprint loop at a glance
+
+```text
+ +---------+    +-----------------+    +---------------+
+ | Backlog |--->| Sprint planning |--->| Daily sync up |<-+
+ +---------+    +-----------------+    +-------+-------+  | every day
+      ^                                        |          |
+      |                                        +----------+
+      |                                        v
+      |         +------------+         +----------------+
+      +---------| Team retro |<--------| Product review |
+                +------------+         +----------------+
+```
+
+Each pass through the loop ends with feedback that reshapes the backlog. That is the small feedback loop the FAQ below refers to.
+
+### Example: a two-week sprint
+
+This is a generic cadence, not a fixed rule. Adjust the length to the project (1, 2 or 4 weeks).
+
+| When      | Activity              | Output                                                                        |
+| --------- | --------------------- | ----------------------------------------------------------------------------- |
+| Day 1     | Sprint planning       | Sprint goal and the backlog items the team commits to                         |
+| Every day | Daily sync up (short) | Blockers surfaced, work re-balanced                                           |
+| Last day  | Product review        | Working software shown to the product owner, feedback logged as backlog items |
+| Last day  | Team retro            | One or two concrete changes to try next sprint                                |
+
+When to use Scrum: the scope is uncertain and the client can give feedback every few weeks. When not to: the work is a one-off task with fixed steps, or the client cannot review increments. In that case a simple Kanban board, or the smaller group mentioned in the FAQ, fits better.
 
 ## FAQ
 

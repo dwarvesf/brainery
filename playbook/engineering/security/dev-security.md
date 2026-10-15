@@ -1,10 +1,12 @@
 ---
 title: Development security checklist
 description: A development security checklist covering transport, storage, logging, Docker, auth flows, user data, input, mobile, headers and operations.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /kCjuvg
 ---
+
+Treat this as a review checklist, not a one-time audit. Run through it when a project starts, before a release, and when a change touches authentication, user data or deployment. The [API security checklist](api-security.md) covers the API-specific items in more depth.
 
 ##### Transmitting information
 
@@ -115,3 +117,13 @@ redirect:
 - [ ] Set up monitoring for your systems, and log stuff (use [New Relic](https://newrelic.com/) or something like that).
 - [ ] If developing for enterprise customers, adhere to compliance requirements. If AWS S3, consider using the feature to [encrypt data](http://docs.aws.amazon.com/AmazonS3/latest/dev/UsingServerSideEncryption.html). If using AWS EC2, consider using the feature to use encrypted volumes (even boot volumes can be encrypted now).
 - [ ] Set up [Netflix's Scumblr](https://github.com/Netflix/Scumblr) to hear about talks about your organization on social platforms and Google search.
+
+## Notes on items that predate current practice
+
+This checklist was written several years ago. These items have moved on, so verify them before relying on them:
+
+- `X-XSS-Protection`: modern browsers no longer use it. Rely on a strict `Content-Security-Policy` instead.
+- HTTP Public Key Pinning (the certificate pinning link): browsers removed HPKP. Pinning inside a mobile app is still done, with care for certificate rotation.
+- CSP `require-sri-for`: the directive was dropped from browsers. Subresource Integrity attributes on script tags still work.
+- TLS 1.2 only: treat TLS 1.2 as the minimum and enable TLS 1.3.
+- Password hashing: Bcrypt is fine. Argon2id is the usual modern alternative.
