@@ -1,7 +1,7 @@
 ---
-title: Handover
-description: null
-date: null
+title: Project handover checklists
+description: Checklists for handing a project to new people or a new team, covering project, source code, system and completeness.
+date: 2026-08-22
 redirect:
   - /tzJoDw
 ---

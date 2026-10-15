@@ -1,7 +1,7 @@
 ---
 title: Environments
-description: null
-date: null
+description: The five environments every project needs (local, CI, testing, staging, production) and what each one is for.
+date: 2026-08-22
 redirect:
   - /unCMng
 ---

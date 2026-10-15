@@ -1,7 +1,7 @@
 ---
 title: Error message convention
-description: null
-date: null
+description: The error structure, code ranges, log levels and wire format used across services, plus how to replicate and track errors.
+date: 2026-08-22
 redirect:
   - /nq7gfA
 ---
@@ -138,7 +138,7 @@ func handler() {
 
 System log is like the airplane black box. When defects occur, along with steps used to reproduce from user report, the last thing we know is stored in the system log.
 
-- We use [Sentry](sentry.io) for both backend and frontend apps. Sentry helps collect and report the system log when errors occurred.
+- We use [Sentry](https://sentry.io) for both backend and frontend apps. Sentry helps collect and report the system log when errors occurred.
 - We use GLP stack as a remote logging service.
 
 Starting a new project, we usually set up and hook the error message to our project management system.

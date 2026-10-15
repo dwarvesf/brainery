@@ -1,7 +1,7 @@
 ---
 title: Logging and monitoring
-description: null
-date: null
+description: What to track in a frontend app, from error tracing to loading time, interactivity, visual stability and events.
+date: 2026-08-22
 redirect:
   - /CidQXQ
 ---

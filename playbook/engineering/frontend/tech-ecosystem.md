@@ -1,7 +1,7 @@
 ---
-title: Tech ecosystem
-description: null
-date: null
+title: Frontend tech ecosystem
+description: The frontend stack (React, Next.js, SWR, Tailwind, TypeScript) and the reasoning behind each choice.
+date: 2026-08-22
 redirect:
   - /Qy1Zdw
 ---

@@ -1,7 +1,7 @@
 ---
-title: Code style
-description: null
-date: null
+title: Frontend code style
+description: Frontend coding rules for functional style, React components, Tailwind, TypeScript, dependencies and performance.
+date: 2026-08-22
 redirect:
   - /GMeWVQ
 ---

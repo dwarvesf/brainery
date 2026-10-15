@@ -1,7 +1,7 @@
 ---
 title: Code editors
-description: null
-date: null
+description: How the team picks a code editor, why to learn keybindings, and why Vim is worth trying.
+date: 2026-08-22
 redirect:
   - /I53IiA
 ---

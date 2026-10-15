@@ -1,7 +1,7 @@
 ---
-title: Definition of done
-description: null
-date: null
+title: Definition of done (DoD)
+description: The checklist a story must pass before the team calls it done, for software work and for services work.
+date: 2026-08-22
 redirect:
   - /t42LFg
 ---
