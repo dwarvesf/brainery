@@ -1,7 +1,7 @@
 ---
 title: Application health checks and status pages
 description: A convention for application health endpoints, with /healthz status pages in plain and JSON format, HTTP status codes and load balancer checks.
-date: 2026-10-15
+date: null
 redirect:
   - /0e46Cg
 ---

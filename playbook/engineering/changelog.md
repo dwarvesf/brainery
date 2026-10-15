@@ -1,7 +1,7 @@
 ---
 title: Writing a useful changelog
 description: What makes a changelog useful to people, with a change-type convention, a worked entry and a template.
-date: 2026-10-15
+date: null
 redirect:
   - /vMt0gg
 ---

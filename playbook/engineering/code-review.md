@@ -1,7 +1,7 @@
 ---
 title: How we do code review
 description: How we run code review, covering the pull request flow, review principles, minimum standards, and how to word feedback.
-date: 2026-10-15
+date: null
 redirect:
   - /TeWzXQ
 ---
@@ -12,7 +12,7 @@ Every project member must have another team member or team leader to review his/
 
 We review everything on the Pull request - code, tests, documents, config files, .etc.
 
-## Code review Flow
+## Code review flow
 
 - Feature/bug assignee finished coding on a new branch based off `develop` branch
 - Assignee self-review the code he/her wrote one last time before assigning it to reviewer
@@ -53,7 +53,7 @@ A draft pull request, where the platform supports it, does the same job as the `
 - Aspects of software design are almost never a pure style issue or just a personal preference. They are based on underlying principles and should be weighed on those principles, not simply by personal opinion. Sometimes there are a few valid options. If the author can demonstrate (either through data or based on solid engineering principles) that several approaches are equally valid, then the reviewer should accept the preference of the author. Otherwise the choice is dictated by standard principles of software design.
 - If no other rule applies, then the reviewer may ask the author to be consistent with what is in the current codebase, as long as that doesn’t worsen the overall code health of the system.
 
-## Code review Standard
+## Code review standard
 
 At minimal:
 

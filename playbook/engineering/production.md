@@ -1,7 +1,7 @@
 ---
 title: Production checklist
 description: A checklist to run before a service goes to production, covering deployment, config, backups, logging and error tracking.
-date: 2026-10-15
+date: null
 redirect:
   - /ZEmonw
 ---

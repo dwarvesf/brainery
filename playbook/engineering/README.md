@@ -1,7 +1,7 @@
 ---
 title: The dwarf principles
 description: The Dwarves engineering philosophy as 15 principles across engineering drive, craftsmanship and the minifesto.
-date: 2026-10-15
+date: null
 redirect:
   - /ITTTxA
 ---

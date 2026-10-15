@@ -1,7 +1,7 @@
 ---
 title: Source version control
 description: Commit message and branch conventions, the Github flow, contributing to forks, and everyday git recovery commands.
-date: 2026-10-15
+date: null
 redirect:
   - /ZCHV4Q
 ---

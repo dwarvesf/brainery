@@ -1,7 +1,7 @@
 ---
 title: Dotfiles
 description: Why we keep dotfiles in git and use an automated script to set up a developer laptop in minutes.
-date: 2026-10-15
+date: null
 redirect:
   - /pZbnCg
 ---
