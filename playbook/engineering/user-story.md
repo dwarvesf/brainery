@@ -1,7 +1,7 @@
 ---
 title: Agile requirement - user story
 description: How to write agile user stories, with the INVEST test, epics and themes, and common myths.
-date: 2026-10-15
+date: null
 redirect:
   - /6v6jrw
 ---

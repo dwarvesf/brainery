@@ -1,7 +1,7 @@
 ---
 title: Writing frontend tests
 description: How to write unit, component and integration tests for a React app with Jest, Testing Library, Cypress and Mock Service Worker.
-date: 2026-10-15
+date: null
 redirect:
   - /8YSu0g
 ---

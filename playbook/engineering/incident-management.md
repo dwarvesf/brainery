@@ -1,7 +1,7 @@
 ---
 title: Incident management and postmortems
 description: How we report and classify incidents by priority, plus a blameless postmortem template with a 5 Whys example.
-date: 2026-10-15
+date: null
 redirect:
   - /tbFyYQ
 ---

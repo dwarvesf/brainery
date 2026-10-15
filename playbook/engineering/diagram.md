@@ -1,7 +1,7 @@
 ---
 title: Diagram and project document structure
 description: Which project diagrams to produce, how to draw them in Mermaid, and where to store and discuss them.
-date: 2026-10-15
+date: null
 redirect:
   - /AaPX7w
 ---

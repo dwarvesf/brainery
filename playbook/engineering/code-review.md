@@ -1,7 +1,7 @@
 ---
 title: How we do code review
 description: How we run code review, covering the pull request flow, review principles, minimum standards, and how to word feedback.
-date: 2026-10-15
+date: null
 redirect:
   - /TeWzXQ
 ---

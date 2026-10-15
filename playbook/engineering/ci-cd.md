@@ -1,7 +1,7 @@
 ---
 title: Continuous integration
 description: How we approach continuous integration and delivery, covering practices, pipeline setup, a flow diagram, and checklists for tagging, caching and deploys.
-date: 2026-10-15
+date: null
 redirect:
   - /fa8afg
 ---

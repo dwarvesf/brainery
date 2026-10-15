@@ -1,7 +1,7 @@
 ---
 title: Frontend code style
 description: Frontend coding rules for functional style, React components, Tailwind, TypeScript, dependencies and performance.
-date: 2026-10-15
+date: null
 redirect:
   - /GMeWVQ
 ---

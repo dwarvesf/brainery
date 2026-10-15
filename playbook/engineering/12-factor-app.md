@@ -1,7 +1,7 @@
 ---
 title: The 12-factor app
 description: How Dwarves applies each of the twelve factors in real projects, from codebase and config to builds, logs and admin processes.
-date: 2026-10-15
+date: null
 redirect:
   - /2hYHHQ
 ---

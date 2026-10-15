@@ -1,7 +1,7 @@
 ---
 title: Database migration in iOS development
 description: How to migrate Core Data models in iOS apps with the progressive migration method, including the Swift types that implement it.
-date: 2026-10-15
+date: null
 redirect:
   - /h7hxNA
 ---

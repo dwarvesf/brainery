@@ -1,7 +1,7 @@
 ---
 title: Pair programming
 description: How we pair program, with driver and navigator roles, what to agree before, during and after a session, and what to avoid.
-date: 2026-10-15
+date: null
 redirect:
   - /Ql8wug
 ---

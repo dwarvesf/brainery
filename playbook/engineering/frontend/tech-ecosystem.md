@@ -1,7 +1,7 @@
 ---
 title: Frontend tech ecosystem
 description: The frontend stack (React, Next.js, SWR, Tailwind, TypeScript) and the reasoning behind each choice.
-date: 2026-10-15
+date: null
 redirect:
   - /Qy1Zdw
 ---

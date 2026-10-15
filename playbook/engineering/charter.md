@@ -1,7 +1,7 @@
 ---
 title: Project charter
 description: What a project charter is, why it helps the team and the client, and the questions it has to answer, with a filled-in example.
-date: 2026-10-15
+date: null
 redirect:
   - /xD6Npg
 ---

@@ -1,7 +1,7 @@
 ---
 title: Dwarves design playbook
 description: Overview of how Dwarves Design works, covering the three-stage design process and the methods used at each stage, with links to each.
-date: 2026-10-15
+date: null
 redirect:
   - /ovB8uw
 ---

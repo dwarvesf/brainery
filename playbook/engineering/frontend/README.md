@@ -1,7 +1,7 @@
 ---
 title: Dwarves frontend guide
 description: Entry point to the Dwarves frontend guide and how to propose changes to it.
-date: 2026-10-15
+date: null
 redirect:
   - /gleOIQ
 ---

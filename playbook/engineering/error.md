@@ -1,7 +1,7 @@
 ---
 title: Error message convention
 description: The error structure, code ranges, log levels and wire format used across services, plus how to replicate and track errors.
-date: 2026-10-15
+date: null
 redirect:
   - /nq7gfA
 ---

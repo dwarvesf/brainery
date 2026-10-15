@@ -1,7 +1,7 @@
 ---
 title: Basic security practices
 description: Security checklists for laptops, phones, passwords and encryption, plus how to handle vulnerabilities and security reports.
-date: 2026-10-15
+date: null
 redirect:
   - /1P3kIw
 ---

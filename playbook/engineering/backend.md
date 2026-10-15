@@ -1,7 +1,7 @@
 ---
 title: Best practices in backend development
 description: Backend practices covering the N commandments, data persistence choices, bill of materials, security guidelines and checklists, forked from the Futurice guide.
-date: 2026-10-15
+date: null
 redirect:
   - /dNPWQw
 ---

@@ -1,7 +1,7 @@
 ---
 title: Best practices in Android development
 description: Android development practices covering Gradle setup, libraries, app structure, resources, testing, ProGuard, storage and CI, forked from the Futurice guide.
-date: 2026-10-15
+date: null
 redirect:
   - /7IUNoA
 ---

@@ -1,7 +1,7 @@
 ---
 title: Best practices in iOS development
 description: Best practices for iOS development, from project setup and architecture to coding style, security, diagnostics, build and deployment.
-date: 2026-10-15
+date: null
 redirect:
   - /Fzxk4w
 ---

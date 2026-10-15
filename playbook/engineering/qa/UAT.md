@@ -1,7 +1,7 @@
 ---
 title: UAT checklist
 description: A before, during and after checklist for running user acceptance testing with the product team.
-date: 2026-10-15
+date: null
 redirect:
   - /JuuhaQ
 ---

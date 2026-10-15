@@ -1,7 +1,7 @@
 ---
 title: Agile team workflow
 description: How our teams apply agile and Scrum, including team formation, sprint loops, roles and answers to common questions.
-date: 2026-10-15
+date: null
 redirect:
   - /KjoHhA
 ---

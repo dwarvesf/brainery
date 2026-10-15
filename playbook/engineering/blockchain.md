@@ -1,7 +1,7 @@
 ---
 title: Best practices in blockchain development
 description: A learning map for blockchain development covering cryptography basics, Ethereum and Solana tooling, distributed storage, Solidity, RPC, Web3 and EIPs.
-date: 2026-10-15
+date: null
 redirect:
   - /Xrs4ag
 ---
