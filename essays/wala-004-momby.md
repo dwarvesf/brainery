@@ -44,6 +44,6 @@ At the end of the inspirational sharing session, we believe that everyone in the
 
 See everyone in the next event with many more talents.
 
-📩  Reach out to Ms. Ruby if you want a dedicated mentor or working innovatively to support women's health: [ngoc@momby.net](mailto:ngoc@momby.net) or [momby.vn](http://momby.vn/)
+📩 Reach out to Ms. Ruby if you want a dedicated mentor or working innovatively to support women's health: [ngoc@momby.net](mailto:ngoc@momby.net) or [momby.vn](http://momby.vn/)
 
 _Momby is available for download on the App store and Google Play. Alive & Thrive and the FHI Solutions Innovation Incubator is supporting the app's roll-out in Myanmar, Philippines, Indonesia, Cambodia, and India over the next three years._
