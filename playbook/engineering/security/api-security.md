@@ -80,4 +80,4 @@ Content-Security-Policy: default-src 'none'
 Strict-Transport-Security: max-age=31536000; includeSubDomains
 ```
 
-Check them against a running service with `curl -sI https://api.example.com/v1/health`, and confirm that `Server` and `X-Powered-By` are absent.
+Check them against a running service with `curl -s -D - -o /dev/null https://api.example.com/v1/health`, and confirm that `Server` and `X-Powered-By` are absent.

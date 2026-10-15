@@ -106,7 +106,7 @@ git push origin v1.4.0
 ```
 
 ```md
-## 1.4.0
+## 1.4.0 (2026-10-15)
 
 ### Added
 
@@ -115,10 +115,8 @@ git push origin v1.4.0
 ### Fixed
 
 - Login form no longer rejects emails with a plus sign
-
-### Known issues
-
-- CSV export is slow above 50k rows
 ```
+
+Known issues belong in the release notes for that version, not in the changelog. For example: "CSV export is slow above 50k rows."
 
 Roll back by redeploying the previous tag (for example `v1.3.2`). This only works if the database migration is reversible or the pre-migration backup is ready, so check both before you deploy.

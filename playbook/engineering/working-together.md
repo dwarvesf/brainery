@@ -74,7 +74,7 @@ Paired programmers are only 15% slower than two independent individual programme
 Around 96% of the pair programmers reported in an online survey that they enjoyed their work in a pair programming environment than working alone.
 Establishing a senior-junior combo might be a great step to refine the junior’s skills and proficiency.
 
-## Significant pair programming Markers
+## Significant pair programming markers
 
 Some notes that we should consider applying
 
@@ -118,8 +118,8 @@ A generic plan for fixing a bug in an unfamiliar module:
 
 1. **Before (5 min)**: agree the goal ("reproduce the bug and get a failing test"), the stop condition (ticket done, or 90 minutes), and the style (switch every 25 minutes).
 2. **Round 1 (25 min)**: A drives and writes the failing test. B navigates, reads the code paths aloud and asks questions.
-3. **Switch and short break**: B drives and writes the fix, A navigates.
-4. **Round 3 (25 min)**: both clean up, run the full test suite and write the pull request description together.
+3. **Round 2 (25 min, after a 5-minute break)**: B drives and writes the fix, A navigates.
+4. **Round 3 (25 min)**: switch back, then both clean up, run the full test suite and write the pull request description together.
 5. **After (5 min)**: each person says one thing that went well and one thing to change next time.
 
 If one person has not spoken for several minutes, switch roles. That is usually the sign the pairing has become one person coding and one person watching.

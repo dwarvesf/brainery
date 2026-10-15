@@ -38,7 +38,7 @@ We continuously evaluate new technologies using our tech radar. They are classif
                +--------+
 ```
 
-A new technology starts at Assess. It moves to Trial when a project that can absorb the risk uses it, and to Adopt once the team knows how to build with it. Anything that proves a poor fit, or ages out, goes to Hold. A short note on each move (what we tried, what we learned) keeps the radar useful to the next team.
+Typically, a new technology starts at Assess. It moves to Trial when a project that can absorb the risk uses it, and to Adopt once the team knows how to build with it. Anything that proves a poor fit, or ages out, goes to Hold. A short note on each move (what we tried, what we learned) keeps the radar useful to the next team.
 
 ### Technology index
 

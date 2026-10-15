@@ -97,7 +97,7 @@ Treat this as a review checklist, not a one-time audit. Run through it when a pr
 - [ ] `Add` [HSTS](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) header to prevent SSL stripping attack.
 - [ ] `Add` your domain to the [HSTS Preload List](https://hstspreload.org/)
 - [ ] `Add` [X-Frame-Options](https://en.wikipedia.org/wiki/Clickjacking#X-Frame-Options) to protect against Clickjacking.
-- [ ] `Add` [X-XSS-Protection](https://www.owasp.org/index.php/OWASP_Secure_Headers_Project#X-XSS-Protection) header to mitigate XSS attacks.
+- [ ] Do not rely on the legacy [X-XSS-Protection](https://www.owasp.org/index.php/OWASP_Secure_Headers_Project#X-XSS-Protection) header. Omit it or send `0`, and use a strict CSP to mitigate XSS attacks.
 - [ ] Update DNS records to add [SPF](https://en.wikipedia.org/wiki/Sender_Policy_Framework) record to mitigate spam and phishing attacks.
 - [ ] Add [subresource integrity checks](https://en.wikipedia.org/wiki/Subresource_Integrity) if loading your JavaScript libraries from a third party CDN. For extra security, add the [require-sri-for](https://w3c.github.io/webappsec-subresource-integrity/#parse-require-sri-for) CSP-directive so you don't load resources that don't have an SRI sat.
 - [ ] Use random CSRF tokens and expose business logic APIs as HTTP POST requests. Do not expose CSRF tokens over HTTP for example in an initial request upgrade phase.
@@ -122,8 +122,8 @@ Treat this as a review checklist, not a one-time audit. Run through it when a pr
 
 This checklist was written several years ago. These items have moved on, so verify them before relying on them:
 
-- `X-XSS-Protection`: modern browsers no longer use it. Rely on a strict `Content-Security-Policy` instead.
+- `X-XSS-Protection`: do not add it. Send `0` or omit it, and rely on a strict `Content-Security-Policy`.
 - HTTP Public Key Pinning (the certificate pinning link): browsers removed HPKP. Pinning inside a mobile app is still done, with care for certificate rotation.
-- CSP `require-sri-for`: the directive was dropped from browsers. Subresource Integrity attributes on script tags still work.
+- CSP `require-sri-for`: the directive was removed from the spec and never shipped by default. Subresource Integrity attributes on script tags still work.
 - TLS 1.2 only: treat TLS 1.2 as the minimum and enable TLS 1.3.
 - Password hashing: Bcrypt is fine. Argon2id is the usual modern alternative.

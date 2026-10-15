@@ -45,7 +45,7 @@ Then the order status becomes "paid"
 And a receipt email is sent within 1 minute
 ```
 
-Quick INVEST check on the first story: it does not depend on the receipt story (Independent), the card flow is open to discussion (Negotiable), customers get value (Valuable), the team can size it (Estimable), it fits in one sprint (Small), and the criteria above can be tested (Testable). If a story fails two or more letters, split or rewrite it.
+Quick INVEST check on the first story: it does not depend on the receipt story (Independent), the card flow is open to discussion (Negotiable), customers get value (Valuable), the team can size it (Estimable), it fits in one sprint (Small), and the criteria above can be tested (Testable). If a story fails any letter, split or rewrite it.
 
 ## What else does user story have?
 
