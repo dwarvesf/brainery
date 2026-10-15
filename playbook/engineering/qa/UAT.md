@@ -8,6 +8,17 @@ redirect:
 
 User Acceptance Testing can be a daunting and frustrating experience. Too often, the exercise becomes an ordeal of tight deadlines, stress, and system issues. While UAT will always be a high-effort activity, good preparation, responsiveness, and follow-up will multiply your chances of success.
 
+The bug loop during UAT keeps QC between the UAT team and developers:
+
+```mermaid
+flowchart LR
+  U["UAT team logs bug with UAT label"] --> Q1["QC reviews"]
+  Q1 -->|"in scope"| D["DEV fixes"]
+  Q1 -->|"out of scope"| CR["Log as Change Request"]
+  D --> Q2["QC verifies fix"]
+  Q2 --> U2["Back to UAT team to confirm"]
+```
+
 ## Before UAT
 
 - [ ] All features are completed by the development team.

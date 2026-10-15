@@ -83,6 +83,29 @@ The measure of impact a defect (or bug) can have on the development or functioni
 
 ---
 
+### Example: a filled-in defect report
+
+An illustrative report (made-up app):
+
+**Summary:** Checkout button does nothing on the cart page in staging when the cart has a discount code.
+
+**Reproduction steps**
+
+1. Go to the staging cart page with one item in the cart.
+2. Apply the discount code `SAVE10`.
+3. Click `Checkout`.
+4. Observed result: nothing happens.
+
+**Expected result:** The shipping address page opens.
+
+**Actual result:** The button stays active, no navigation, and the browser console shows `TypeError: discount is undefined`.
+
+**Platform:** Desktop, macOS, Chrome, 1440 x 900.
+
+**Priority:** High. **Severity:** Major, since customers with a discount code cannot complete an order.
+
+---
+
 ### Some bonus tips to write a good bug report
 
 **Report the problem immediately**

@@ -56,6 +56,15 @@ One of the principles of agile is that the master code branch should always be p
 
 2. Before the feature branch can be merged to the master branch, it must pass a list of actions, requirements and practices called Definition of Done (DoD). This is defined together with the customer PO and the development team and can be modified during project should project needs change.
 
+```mermaid
+flowchart LR
+  A["User story"] --> B["Feature branch"]
+  B --> C{"Definition of Done met?"}
+  C -- "no" --> B
+  C -- "yes" --> D["Merge to master"]
+  D --> E["Automated and exploratory tests in test environment"]
+```
+
 ### DoD example for a project
 
 - Manual regression test case (usually UI test cases) have been updated for the smoke / sanity checks (Test manager)
@@ -72,7 +81,7 @@ One of the principles of agile is that the master code branch should always be p
 - Automated tests passed in Test environment (Updated and run automatically by CI)
 - Functional tests passed in test environment / Exploratory tests have been done (Led by test manager)
 
-Following items in proposed DoD have been bolded due
+The numbered notes below explain the items marked [1] to [4] in the list above.
 
 1. Acceptance of the user story here means that the PO is happy with the design, UX and UI of a user story. In practice this means that once the user story is approved it can still have QA issues (performance, bugs etc). It should be noted that new POs, especially in an organization where agile methods have not been used before, have often found this responsibility quite heavy and challenging. Traditionally similar approvals are made during project steering groups.
 2. Usually it’s very difficult to run these in Demo environment due to security policies / high overhead of maintaining this. TEST environment should be integrated with appropriate test environment

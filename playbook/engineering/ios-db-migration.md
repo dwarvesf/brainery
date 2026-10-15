@@ -54,6 +54,15 @@ It's possible to reduce the amount of work required to perform a Core Data migra
 
 We follow the method called **Progressive Core Data Migration**. It gives us the clear way to structure the migration steps.
 
+A store created on version 1 reaches the current model by walking every step in order. A store already on version 3 runs one step:
+
+```mermaid
+flowchart LR
+  v1["Model v1"] -->|"step 1 to 2"| v2["Model v2"]
+  v2 -->|"step 2 to 3"| v3["Model v3"]
+  v3 -->|"step 3 to 4"| v4["Model v4 (current)"]
+```
+
 In order to support progressive migrations we'll need to answer a few questions:
 
 1. [Which model version comes after version X?](#which-model-version-comes-after-version-x?)
@@ -482,6 +491,18 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
     return true
 }
 ```
+
+## Checklist for shipping a model change
+
+Generic Core Data practice to run through before a release that changes the model:
+
+- [ ] Add a new model version. Never edit a version that has already shipped.
+- [ ] Add the new case to `CoreDataMigrationVersion` and extend `nextVersion()` so the previous version points at it.
+- [ ] Decide per step: lightweight (inferred) or standard (mapping model, migration policy).
+- [ ] Test the migration from every supported older version, using a store file created by that version with realistic data, not an empty one.
+- [ ] Check row counts and a few known records before and after the migration.
+- [ ] Run the migration off the main thread, as in the `setup` method above, and keep the launch UI responsive while it runs.
+- [ ] Keep a copy of the store file before migrating, so a failed migration can be retried or diagnosed.
 
 ## Misc
 

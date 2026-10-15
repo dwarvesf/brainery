@@ -34,6 +34,17 @@ The application could implement any number of "subsystem" checks. For example,
 
 A combined overview status should be provided by the application, aggregating the information from the various subsystem checks. The idea is that an external monitoring system can track only this combined overview, so that the external monitoring does not need to be reconfigured when a new application check is added or modified. Moreover, the developers are the ones that can decide about what the overall status is based on regarding subsystem checks (i.e. which ones are critical, while ones are not, etc).
 
+The monitoring setup in one picture:
+
+```mermaid
+flowchart LR
+  M["External monitor"] -->|"poll every 1 to 3 min"| H["/healthz overall status"]
+  H --> DB["database check"]
+  H --> ES["elastic search check"]
+  H --> TP["3rd party check"]
+  LB["Load balancer"] -->|"poll"| S["/status/healthz"]
+```
+
 ### Status page
 
 All status checks SHOULD be accessible under `/healthz` URLs as follows:
@@ -181,6 +192,18 @@ Often the application is running behind a load balaner. Load balancers typically
 The overall `/healthz` page is a good candidate for the load balancer health check URL. However, a separate dedicated status page for a load balancer health check provides an important benefit. Such a page can be fine-tuned for when the application is considered to be healthy from the load balancer's perspective. For example, an error in a subsystem may still be considered a critical error for the overall application status, but does not necessarily need to cause the application server to be removed from the load balancer pool. A good example is a 3rd party integration status check. The load balancer health check page should only return non-200 status code when the application instance must be considered non-operational.
 
 The load balancer health check page should be placed at a `/status/healthz` URL. Depending on your load balancer, the format of that page may deviate from the overall status format described here. Some load balancers may even observe only the returned HTTP status code.
+
+### Checking an endpoint by hand
+
+```shell
+# overall status, expect "status: OK" and HTTP 200
+curl -si https://myapp.example.com/healthz
+
+# only the status code, handy in a script or an uptime check
+curl -s -o /dev/null -w '%{http_code}\n' https://myapp.example.com/healthz
+```
+
+An uptime check should alert on any non-200 code, or on a body whose `status` line starts with `ERROR`.
 
 ### Access control
 

@@ -8,6 +8,8 @@ redirect:
 
 Avoid reinventing the wheel by following these guidelines.
 
+> Note: this page predates SwiftUI, Swift concurrency (`async`/`await`) and Swift Package Manager as a mainstream dependency tool, and parts of it assume Objective-C and Xcode-era tooling of that time. JetBrains has also discontinued AppCode. Treat the library and tooling sections as historical context and check current Apple documentation before adopting a recommendation.
+
 ## Why?
 
 Getting on board with iOS can be intimidating. Neither Swift nor Objective-C are widely used elsewhere, the platform has its own names for almost everything, and it's a bumpy road for your code to actually make it onto a physical device. This living document is here to help you, whether you're taking your first steps in Cocoaland or you're curious about doing things "the right way". Everything below is just suggestions, so if you have a good reason to do something differently, by all means go for it!

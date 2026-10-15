@@ -22,6 +22,19 @@ _Copyleft, distinguished from copyright, is the practice of offering people the 
 
 Copyleft software licenses are considered protective or reciprocal, as contrasted with permissive free-software licenses.
 
+## Common licenses at a glance
+
+General industry summary, not legal advice. The rules in the next section decide what we do on client projects.
+
+| License             | Type                | What it asks of you                                          | Client project            |
+| ------------------- | ------------------- | ------------------------------------------------------------ | ------------------------- |
+| MIT                 | Permissive          | Keep the copyright and license notice                        | Allowed with notice       |
+| BSD (2 or 3 clause) | Permissive          | Keep the notice                                              | Allowed with notice       |
+| Apache 2.0          | Permissive          | Keep the notice; includes an explicit patent grant           | Allowed with notice       |
+| LGPL                | Weak copyleft       | Changes to the library itself stay open; linking rules apply | Ask your supervisor first |
+| GPL                 | Strong copyleft     | Derivative work must be released under the same license      | Do not use                |
+| No license          | All rights reserved | Nothing is granted                                           | Do not use                |
+
 ## Complicated, but just a few things to remember
 
 ### Your work

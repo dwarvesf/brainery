@@ -6,7 +6,9 @@ redirect:
   - /ZEmonw
 ---
 
-- [ ] Long-running processes such as email should delivery being run in background jobs?
+Run through this list before the first production release and again before any release that changes infrastructure. Mark an item N/A only with a one-line reason in the release notes. Related pages: [Logging system](log.md), [Application health checks and status pages](monitoring.md).
+
+- [ ] Are long-running processes such as email delivery run in background jobs?
 - [ ] Are there redundant (at least two) web and background processes running?
 - [ ] Are we using SSL? Never send credentials unencrypted over public network. Always use encryption (such as HTTPS, SSL, etc.).
 - [ ] Are API requests being made via a separate subdomain (api.example.com)? Even if the same app, this gives us architectural flexibility in the future.

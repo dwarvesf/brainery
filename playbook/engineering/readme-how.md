@@ -54,6 +54,14 @@ Why did you chose this library over that 10k-stars-github-repo library? It would
 
 If you have ideas for releases in the future, it is a good idea to list them in the README.
 
+## Review checklist
+
+- [ ] A newcomer can tell what the project does from the first paragraph.
+- [ ] The install steps work on a clean machine.
+- [ ] The usage example runs as written and shows its output.
+- [ ] Requirements and supported versions are listed.
+- [ ] It says where to ask questions or send contributions.
+
 ## Example
 
 A minimal README for a small library:
