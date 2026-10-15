@@ -1,7 +1,7 @@
 ---
-title: QA best practices
-description: null
-date: null
+title: QA practices and definition of done
+description: How QA works during sprints and deployment, with a definition of done example for merging a feature branch.
+date: 2026-08-22
 redirect:
   - /rXv1ow
 ---

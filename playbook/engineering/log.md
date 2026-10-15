@@ -1,7 +1,7 @@
 ---
 title: Logging system
-description: null
-date: null
+description: How we structure and centralize system and business logs, with the Grafana Loki stack for search and Sentry for error tracking.
+date: 2026-08-22
 redirect:
   - /AL3v5g
 ---

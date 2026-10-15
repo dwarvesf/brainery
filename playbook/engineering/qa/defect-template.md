@@ -1,7 +1,7 @@
 ---
 title: Defect report template
-description: null
-date: null
+description: A template for writing a defect report, with priority and severity definitions and tips for a reproducible bug report.
+date: 2026-08-22
 redirect:
   - /gQk3hg
 ---

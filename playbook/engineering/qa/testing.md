@@ -1,7 +1,7 @@
 ---
-title: Testing
-description: null
-date: null
+title: Test plans, test cases and closure
+description: What a test plan and test case contain, plus a test closure checklist and agile QA practices.
+date: 2026-08-22
 redirect:
   - /HRkHHw
 ---

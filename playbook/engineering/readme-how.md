@@ -1,7 +1,7 @@
 ---
 title: README
-description: null
-date: null
+description: What a good README contains, who writes it and when, with section guidance and a sample README.
+date: 2026-08-22
 redirect:
   - /2Fz0UQ
 ---
@@ -54,8 +54,11 @@ Why did you chose this library over that 10k-stars-github-repo library? It would
 
 If you have ideas for releases in the future, it is a good idea to list them in the README.
 
-# Example
+## Example
 
+A minimal README for a small library:
+
+````markdown
 # Foobar
 
 Foobar is a Python library for dealing with word pluralization.
@@ -77,3 +80,4 @@ foobar.pluralize('word') # returns 'words'
 foobar.pluralize('goose') # returns 'geese'
 foobar.singularize('phenomena') # returns 'phenomenon'
 ```
+````
