@@ -95,7 +95,7 @@ func handle(req Request) (*Response, error) {
 
 - Elixir
 
-The Elixir package has no example here yet. See <https://github.com/dwarvesf/error.ex> for usage.
+The Elixir package has no example here yet.
 
 ## Errors across the wire
 

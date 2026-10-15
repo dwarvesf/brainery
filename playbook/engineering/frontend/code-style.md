@@ -107,8 +107,8 @@ Your app should be fast but also remember "Premature optimization is the root of
 ## Pull request checklist
 
 - [ ] ESLint and Prettier pass with no new warnings.
-- [ ] No new `any`, `!` or hard-coded colors.
-- [ ] Boolean props read as `isX`, `hasX` or `shouldX`.
+- [ ] No unjustified `any` or `!`, and no hard-coded colors.
+- [ ] Boolean props read as `isX`, `hasX`, `doesX` or `shouldX`.
 - [ ] New dependency passes the four questions above.
 - [ ] Performance claims come with a profiler result.
 

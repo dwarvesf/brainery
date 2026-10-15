@@ -8,7 +8,7 @@ redirect:
 
 This document is intended to give you a taste of how we build frontend applications at Dwarves, and more importantly, why we choose the technology. It still assumes basic knowledge of React and [Next.js](https://nextjs.org/docs/getting-started). **If you're completely new to React, please refer to <https://github.com/petehunt/react-howto> instead!**
 
-> Note: this page describes the stack as it was written, in the React 17 and Next.js pages router era. Treat the tool list as a snapshot and check each project's `package.json` for what is actually in use. In particular, `react-testing-library` is now published as `@testing-library/react`, and newer Next.js versions add the App Router.
+> Note: this page describes the stack as it was written, in the Next.js pages router era (before the App Router, 2023). Treat the tool list as a snapshot and check each project's `package.json` for what is actually in use. In particular, `react-testing-library` is now published as `@testing-library/react`, and newer Next.js versions add the App Router.
 
 ## Tech stack
 

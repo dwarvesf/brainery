@@ -22,7 +22,7 @@ Frontend applications receive a lot of user interactions and unexpected errors c
 
 In light of these criteria, we chose [Sentry](https://sentry.io/) as the platform with which to monitor issues happening on our client side.
 
-Minimal Sentry setup for a browser app (check the Sentry docs for the SDK of your framework):
+Minimal Sentry setup for a browser app (in Next.js use `@sentry/nextjs`):
 
 ```js
 import * as Sentry from "@sentry/browser";
@@ -33,7 +33,7 @@ Sentry.init({
   release: process.env.NEXT_PUBLIC_RELEASE, // lets Sentry link errors to a deploy
 });
 
-Sentry.setUser({ id: user.id }); // identify who was affected, without email or name
+Sentry.setUser({ id: user.id }); // user from your auth context; identify who was affected, without email or name
 ```
 
 ## Performance
@@ -52,7 +52,7 @@ These map to Google's Core Web Vitals, the metrics PageSpeed Insights and Lighth
 | Interactivity    | Interaction to Next Paint (INP) | 200 ms or less                  |
 | Visual stability | Cumulative Layout Shift (CLS)   | 0.1 or less                     |
 
-Thresholds are Google's published guidance and can change, so confirm them on [web.dev](https://web.dev/vitals/). INP replaced First Input Delay (FID) in 2024; older notes below may still say FID.
+Thresholds are Google's published guidance and can change, so confirm them on [web.dev](https://web.dev/vitals/). INP replaced First Input Delay (FID) in March 2024.
 
 ### Loading time
 

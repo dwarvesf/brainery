@@ -240,18 +240,6 @@ A stack component diagram lists the building blocks (client, services, data stor
 
 _Fig. 1: Components of a typical stack. Clients call the API service, which reads and writes the data stores and calls third parties; background jobs share the database._
 
-## Which diagram to draw
-
-| Question                              | Diagram                 |
-| ------------------------------------- | ----------------------- |
-| Where are we going and when?          | Product roadmap         |
-| What does the user feel at each step? | User journey mapping    |
-| What states can this thing be in?     | State machine           |
-| Who calls whom, in what order?        | Sequence diagram        |
-| How is the data shaped?               | ERD                     |
-| Where does data travel?               | Data flow               |
-| What are the moving parts?            | Stack component diagram |
-
 ### Project drive
 
 Each project will have its own GDrive folder located on Company GDrive.
@@ -290,3 +278,15 @@ Mermaid is a markdown-based diagram render. Right now we support the following c
 ![](assets/diagram_mermaid-plugins.webp)
 
 Install the above plugin, put your mermaid code directly with VSCode (Go with the most-rated plugin) and observe the magic.
+
+## Which diagram to draw
+
+| Question                              | Diagram                 |
+| ------------------------------------- | ----------------------- |
+| Where are we going and when?          | Product roadmap         |
+| What does the user feel at each step? | User journey mapping    |
+| What states can this thing be in?     | State machine           |
+| Who calls whom, in what order?        | Sequence diagram        |
+| How is the data shaped?               | ERD                     |
+| Where does data travel?               | Data flow               |
+| What are the moving parts?            | Stack component diagram |
