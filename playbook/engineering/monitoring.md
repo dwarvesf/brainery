@@ -1,7 +1,7 @@
 ---
-title: Monitoring
-description: null
-date: null
+title: Application health checks and status pages
+description: A convention for application health endpoints, with /healthz status pages in plain and JSON format, HTTP status codes and load balancer checks.
+date: 2026-10-15
 redirect:
   - /0e46Cg
 ---
@@ -16,7 +16,7 @@ redirect:
   - [Load balancer health checks](#load-balancer-health-checks)
   - [Access control](#access-control)
 
-# Application monitoring
+## Application monitoring
 
 Monitoring the full status of a service requires that both OS-level and application-specific monitoring checks are performed. OS-level checks include, for example, CPU, disk or memory usage, running processes, open ports, etc. Application specific checks are, however, the most important from the point of view of the running service. These can be anything from "does this URL respond and return the HTTP status 200", to checking database connectivity, data consistency, and so on.
 
@@ -34,7 +34,25 @@ The application could implement any number of "subsystem" checks. For example,
 
 A combined overview status should be provided by the application, aggregating the information from the various subsystem checks. The idea is that an external monitoring system can track only this combined overview, so that the external monitoring does not need to be reconfigured when a new application check is added or modified. Moreover, the developers are the ones that can decide about what the overall status is based on regarding subsystem checks (i.e. which ones are critical, while ones are not, etc).
 
-## Status page
+The monitoring setup in one picture:
+
+```
+ +------------------+  poll every 1 to 3 min  +--------------------------+
+ | External monitor | ----------------------> | /healthz overall status  |
+ +------------------+                         +--------------------------+
+                                                 |            |           |
+                                                 v            v           v
+                                          +----------+ +-------------+ +-------------+
+                                          | database | | elastic     | | 3rd party   |
+                                          | check    | | search check| | check       |
+                                          +----------+ +-------------+ +-------------+
+
+ +---------------+  poll  +------------------+
+ | Load balancer | -----> | /status/healthz  |
+ +---------------+        +------------------+
+```
+
+### Status page
 
 All status checks SHOULD be accessible under `/healthz` URLs as follows:
 
@@ -46,11 +64,11 @@ The main `/healthz` page should at a minimum give an overall status of the syste
 
 For performance reasons, some subsystem checks may be excluded from this overall `/healthz` page - for example, when the check causes higher resource usage, takes longer time to complete, etc. Overall, the main status page should be light enough so that it can be polled relatively often (every 1-3 minutes) and not cause too much load on the system. Subsystem checks that are excluded from the overall status check should have their own URLs, as shown above. Naturally, monitoring those would require modifications in the monitoring system configuration. To overcome this, a different approach can be taken: the application could perform the heavy subsystem checks in a background process at a rate that is acceptable and store the status internally. This would allow the main status page to reflect also these heavy checks (e.g. it would retrieve the last performed check status). This approach should be used, unless its implementation is too difficult.
 
-## Status page format
+### Status page format
 
 We propose two alternative formats for the status pages - `plain` and `JSON`.
 
-### Plain format
+#### Plain format
 
 The plain format has one status per line in the form `key: value`. The key is a subsystem/check name and the value is the status value. The status value can be one of:
 
@@ -116,7 +134,7 @@ connection_pool: 30
 latency: 2
 ```
 
-### JSON format
+#### JSON format
 
 The JSON format of the status pages can be often preferable, for example when the tooling or integration to other systems is easier to achieve via a common data format.
 
@@ -170,11 +188,11 @@ Something failing:
 }
 ```
 
-## HTTP status codes
+### HTTP status codes
 
 Whenever the overall application status is OK, the HTTP status code in the status page response MUST be set to 200 (OK). Otherwise a 5XX error code SHOULD be set. For example, code 500 (Internal Server Error) could be used. Optionally, non-critical WARN status may still respond with 200.
 
-## Load balancer health checks
+### Load balancer health checks
 
 Often the application is running behind a load balaner. Load balancers typically can monitor application servers by polling a given URL. The health check is used so that the load balancer can stop routing traffic to the failing application servers.
 
@@ -182,6 +200,18 @@ The overall `/healthz` page is a good candidate for the load balancer health che
 
 The load balancer health check page should be placed at a `/status/healthz` URL. Depending on your load balancer, the format of that page may deviate from the overall status format described here. Some load balancers may even observe only the returned HTTP status code.
 
-## Access control
+### Checking an endpoint by hand
+
+```shell
+# overall status, expect "status: OK" and HTTP 200
+curl -si https://myapp.example.com/healthz
+
+# only the status code, handy in a script or an uptime check
+curl -s -o /dev/null -w '%{http_code}\n' https://myapp.example.com/healthz
+```
+
+An uptime check should alert on any non-200 code, or on a body whose `status` line starts with `ERROR`.
+
+### Access control
 
 The status pages may need proper authorization in place, especially in case they expose debugging information in status messages or application metrics. HTTP basic authentication or IP-based restrictions are usually good enough candidates to consider.

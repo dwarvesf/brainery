@@ -1,12 +1,14 @@
 ---
 title: Best practices in iOS development
-description: null
-date: null
+description: Best practices for iOS development, from project setup and architecture to coding style, security, diagnostics, build and deployment.
+date: 2026-10-15
 redirect:
   - /Fzxk4w
 ---
 
 Avoid reinventing the wheel by following these guidelines.
+
+> Note: this page predates SwiftUI, Swift concurrency (`async`/`await`) and Swift Package Manager as a mainstream dependency tool, and parts of it assume Objective-C and the tooling of that time. JetBrains has also discontinued AppCode. Treat the library and tooling sections as historical context and check current Apple documentation before adopting a recommendation.
 
 ## Why?
 
@@ -59,7 +61,7 @@ A common question when beginning an iOS project is whether to write all views in
 
 [dry]: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 
-#### Why Storyboards?
+#### Why storyboards?
 
 - For the less technically inclined, Storyboards can be a great way to contribute to the project directly, e.g. by tweaking colors or layout constraints. However, this requires a working project setup and some time to learn the basics.
 
@@ -656,7 +658,7 @@ After uploading the build, be patient as it can take up to an hour for it to sho
 
 [appstore-connect]: https://appstoreconnect.apple.com
 
-## In-App Purchases (IAP)
+## In-app purchases (IAP)
 
 When validating in-app purchase receipts, remember to perform the following checks:
 

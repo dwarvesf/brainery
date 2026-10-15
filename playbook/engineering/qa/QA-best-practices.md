@@ -1,7 +1,7 @@
 ---
-title: QA best practices
-description: null
-date: null
+title: QA practices and definition of done
+description: How QA works during sprints and deployment, with a definition of done example for merging a feature branch.
+date: 2026-10-15
 redirect:
   - /rXv1ow
 ---
@@ -48,13 +48,25 @@ Exploratory testing is a very powerful tool in e2e testing where the whole syste
 Issues found are recorded to a specific tool or board with a information like priority, environment (software and device information), steps to reproduce, expected result, time and date and a screenshot.
 Tool like BaseCamp actively used also for error tracking.
 
-## QA in Sprints (Definition of Done)
+## QA in sprints (definition of done)
 
 One of the principles of agile is that the master code branch should always be potentially shippable. That means it should be always production quality. This is achieved by the following means:
 
 1. Each user story (or feature) is developed individually in their own feature branch. The purpose of this is to ensure that each update to master branch is at the same time 1) as small as possible and 2) potentially shippable, complete story.
 
 2. Before the feature branch can be merged to the master branch, it must pass a list of actions, requirements and practices called Definition of Done (DoD). This is defined together with the customer PO and the development team and can be modified during project should project needs change.
+
+```
+ +------------+    +----------------+    +------------------------+  yes  +-----------------+
+ | User story | -> | Feature branch | -> | Definition of Done met?| ----> | Merge to master |
+ +------------+    +----------------+    +------------------------+       +-----------------+
+                          ^                          | no                          |
+                          +--------------------------+                             v
+                                                              +----------------------------------+
+                                                              | Automated and exploratory tests  |
+                                                              | in the test environment          |
+                                                              +----------------------------------+
+```
 
 ### DoD example for a project
 
@@ -72,7 +84,7 @@ One of the principles of agile is that the master code branch should always be p
 - Automated tests passed in Test environment (Updated and run automatically by CI)
 - Functional tests passed in test environment / Exploratory tests have been done (Led by test manager)
 
-Following items in proposed DoD have been bolded due
+The numbered notes below explain the items marked [1] to [4] in the list above.
 
 1. Acceptance of the user story here means that the PO is happy with the design, UX and UI of a user story. In practice this means that once the user story is approved it can still have QA issues (performance, bugs etc). It should be noted that new POs, especially in an organization where agile methods have not been used before, have often found this responsibility quite heavy and challenging. Traditionally similar approvals are made during project steering groups.
 2. Usually it’s very difficult to run these in Demo environment due to security policies / high overhead of maintaining this. TEST environment should be integrated with appropriate test environment
