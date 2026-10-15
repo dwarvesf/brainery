@@ -1,12 +1,10 @@
 ---
-title: null
+title: Handover
 description: null
 date: null
 redirect:
   - /tzJoDw
 ---
-
-# Handover
 
 This is the checklist for our handover process. When a new person joins a project, project members are changed, or project is moved to another team, a
 handover should be thoroughly planned and executed.

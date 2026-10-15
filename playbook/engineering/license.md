@@ -1,12 +1,10 @@
 ---
-title: null
+title: Licensing
 description: null
 date: null
 redirect:
   - /xYYbTg
 ---
-
-# Licensing
 
 ## Why license?
 

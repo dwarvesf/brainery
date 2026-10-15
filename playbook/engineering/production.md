@@ -1,12 +1,10 @@
 ---
-title: null
+title: Production checklist
 description: null
 date: null
 redirect:
   - /ZEmonw
 ---
-
-# Production checklist
 
 - [ ] Long-running processes such as email should delivery being run in background jobs?
 - [ ] Are there redundant (at least two) web and background processes running?

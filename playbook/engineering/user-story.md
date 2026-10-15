@@ -1,12 +1,10 @@
 ---
-title: null
+title: Agile requirement - user story
 description: null
 date: null
 redirect:
   - /6v6jrw
 ---
-
-# Agile requirement - user story
 
 ## What is User Story?
 

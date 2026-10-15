@@ -1,12 +1,10 @@
 ---
-title: null
+title: The dwarf principles
 description: null
 date: null
 redirect:
   - /ITTTxA
 ---
-
-# The dwarf principles
 
 Our definition of Engineering Philosophy, the guiding ideas that help to shape up the way we think and work, to ensure the core values and to deliver quality softwares.
 

@@ -1,12 +1,10 @@
 ---
-title: null
+title: Code editors
 description: null
 date: null
 redirect:
   - /I53IiA
 ---
-
-# Code editors
 
 Right now our team is scattered between VSCode and Emacs (Spacemacs).
 

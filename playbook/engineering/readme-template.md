@@ -1,12 +1,10 @@
 ---
-title: null
+title: README template
 description: null
 date: null
 redirect:
   - /nIdKHA
 ---
-
-# Project title
 
 One Paragraph of project description goes here
 

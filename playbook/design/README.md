@@ -1,12 +1,10 @@
 ---
-title: null
+title: Dwarves design playbook
 description: null
 date: null
 redirect:
   - /ovB8uw
 ---
-
-# Dwarves design playbook
 
 Dwarves Design is a young and small design studio, founded in 2018.
 

@@ -1,12 +1,10 @@
 ---
-title: null
+title: Release checklist
 description: null
 date: null
 redirect:
   - /AUqO3Q
 ---
-
-# Release checklist
 
 When you are ready to release, remember to check off everything on your release checklist.
 Just remember to not mess up with the end users. Our responsibility is to keep the system stable with seamless deployment.

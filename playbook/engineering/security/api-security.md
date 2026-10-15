@@ -1,12 +1,10 @@
 ---
-title: null
+title: API security checklist
 description: null
 date: null
 redirect:
   - /EESv0A
 ---
-
-# API security checklist
 
 ## Authentication
 

@@ -1,12 +1,10 @@
 ---
-title: null
+title: Writing a useful changelog
 description: null
 date: null
 redirect:
   - /vMt0gg
 ---
-
-# Writing a useful changelog
 
 Remember the last time you read over the changelog of your favorite app and found it sucks with useless information like they don't care about the product that they sell out. Something like below
 

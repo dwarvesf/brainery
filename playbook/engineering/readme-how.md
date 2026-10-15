@@ -1,12 +1,10 @@
 ---
-title: null
+title: README
 description: null
 date: null
 redirect:
   - /2Fz0UQ
 ---
-
-# README
 
 A README is a text file that introduces and explains a project. It contains information that is commonly required to understand what the project is about.
 

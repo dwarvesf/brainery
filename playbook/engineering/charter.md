@@ -1,12 +1,10 @@
 ---
-title: null
+title: Project charter
 description: null
 date: null
 redirect:
   - /xD6Npg
 ---
-
-# Project charter
 
 ## Definitions
 
