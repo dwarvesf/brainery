@@ -52,7 +52,7 @@ This repo is our playbook which contains our practices in software development a
 - [Repository setup](/engineering/setup-repository.md)
 - [Write a good README file](/engineering/readme-how.md)
 - [Environments](/engineering/environment.md)
-- [Version control with Git](/engineering/git.md)
+- [Version control with git](/engineering/git.md)
 - [Working together: pair programming](/engineering/working-together.md)
 - [README driven development](/engineering/rdd.md)
 - [Agile requirement: user story](/engineering/user-story.md)

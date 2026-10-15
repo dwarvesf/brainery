@@ -132,7 +132,7 @@ Batch deletion presents challenges in adhering to a clean RESTful approach due t
 
 The HTTP `DELETE` method is designed to indicate that a resource should be removed. However, according to the HTTP specification, the `DELETE` method typically doesn't include request payloads. This can hinder attempts to include a list of IDs or other data required for batch deletion.
 
-### Custom `POST` Method for Batch delete
+### Custom `POST` method for batch delete
 
 To achieve batch deletion while working within the constraints of the HTTP methods, a custom `POST` method is recommended. This approach allows you to include a request payload containing the necessary information, such as a list of IDs to be deleted.
 
@@ -262,7 +262,7 @@ When designing your API responses, consistency is key. Using standardized respon
 }
 ```
 
-### Multiple Data Entries with Cursor-based pagination
+### Multiple data entries with cursor-based pagination
 
 ```json
 {
@@ -327,7 +327,7 @@ Sending the same `POST` with an empty `name` returns `400` with the `CREATE_BODY
 
 Error handling is essential to ensure that both API providers and consumers have a clear understanding of the issues that might arise during API interactions. Well-structured error responses help developers diagnose and address problems more effectively.
 
-### HTTP status codes and Error Responses
+### HTTP status codes and error responses
 
 HTTP status codes provide a standardized way of indicating the outcome of API requests. Alongside these codes, error responses should include structured information to convey the specifics of the error. Here are some common scenarios:
 

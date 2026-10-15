@@ -74,7 +74,7 @@ Paired programmers are only 15% slower than two independent individual programme
 Around 96% of the pair programmers reported in an online survey that they enjoyed their work in a pair programming environment than working alone.
 Establishing a senior-junior combo might be a great step to refine the junior’s skills and proficiency.
 
-## Significant Pair programming Markers
+## Significant pair programming Markers
 
 Some notes that we should consider applying
 

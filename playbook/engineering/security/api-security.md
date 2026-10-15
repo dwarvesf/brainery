@@ -15,7 +15,7 @@ Use this checklist at design time, before each release, and when reviewing a pul
 - [ ] Use `Max Retry` and jail features in Login.
 - [ ] Use encryption on all sensitive data.
 
-### JWT (JSON Web Token)
+### JWT (JSON web token)
 
 - [ ] Use a random complicated key (`JWT Secret`) to make brute forcing the token very hard.
 - [ ] Don't extract the algorithm from the payload. Force the algorithm in the backend (`HS256` or `RS256`).

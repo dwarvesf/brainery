@@ -44,7 +44,7 @@ Treat this as a review checklist, not a one-time audit. Run through it when a pr
 - [ ] Periodically update (or rebuild) your Docker hosts with latest security updates
 - [ ] Multiple containers running on same host will by default have some level of access to other containers and the host itself. Properly secure all hosts, and run containers with a minimum set of capabilities, for example preventing network access if they don't need it.
 
-##### AUTHENTICATION SYSTEMS (Signup/Signin/2 Factor/Password reset)
+##### AUTHENTICATION SYSTEMS (Signup/Signin/2 factor/Password reset)
 
 - [ ] Use HTTPS everywhere. Never send credentials unencrypted over public network.
 - [ ] Store password hashes using `Bcrypt` (no salt necessary - `Bcrypt` does it for you).

@@ -46,7 +46,7 @@ All engineers should be aware about deployment and how your application would be
 
 - Every Backend source code must have a healthcheck endpoint (`/api/health` for example)
 
-#### Example: a minimal Makefile and health check
+#### Example: a minimal makefile and health check
 
 A backend repo can satisfy the three `make` targets above with a few lines. The commands inside are placeholders; use your stack's own.
 
