@@ -48,7 +48,7 @@ Exploratory testing is a very powerful tool in e2e testing where the whole syste
 Issues found are recorded to a specific tool or board with a information like priority, environment (software and device information), steps to reproduce, expected result, time and date and a screenshot.
 Tool like BaseCamp actively used also for error tracking.
 
-## QA in Sprints (Definition of Done)
+## QA in sprints (definition of done)
 
 One of the principles of agile is that the master code branch should always be potentially shippable. That means it should be always production quality. This is achieved by the following means:
 

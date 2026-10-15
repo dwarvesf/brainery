@@ -61,7 +61,7 @@ A common question when beginning an iOS project is whether to write all views in
 
 [dry]: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 
-#### Why Storyboards?
+#### Why storyboards?
 
 - For the less technically inclined, Storyboards can be a great way to contribute to the project directly, e.g. by tweaking colors or layout constraints. However, this requires a working project setup and some time to learn the basics.
 
@@ -658,7 +658,7 @@ After uploading the build, be patient as it can take up to an hour for it to sho
 
 [appstore-connect]: https://appstoreconnect.apple.com
 
-## In-App Purchases (IAP)
+## In-app purchases (IAP)
 
 When validating in-app purchase receipts, remember to perform the following checks:
 
