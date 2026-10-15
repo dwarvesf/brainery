@@ -1,7 +1,7 @@
 ---
 title: QA practices and definition of done
 description: How QA works during sprints and deployment, with a definition of done example for merging a feature branch.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /rXv1ow
 ---
@@ -56,13 +56,16 @@ One of the principles of agile is that the master code branch should always be p
 
 2. Before the feature branch can be merged to the master branch, it must pass a list of actions, requirements and practices called Definition of Done (DoD). This is defined together with the customer PO and the development team and can be modified during project should project needs change.
 
-```mermaid
-flowchart LR
-  A["User story"] --> B["Feature branch"]
-  B --> C{"Definition of Done met?"}
-  C -- "no" --> B
-  C -- "yes" --> D["Merge to master"]
-  D --> E["Automated and exploratory tests in test environment"]
+```
+ +------------+    +----------------+    +------------------------+  yes  +-----------------+
+ | User story | -> | Feature branch | -> | Definition of Done met?| ----> | Merge to master |
+ +------------+    +----------------+    +------------------------+       +-----------------+
+                          ^                          | no                          |
+                          +--------------------------+                             v
+                                                              +----------------------------------+
+                                                              | Automated and exploratory tests  |
+                                                              | in the test environment          |
+                                                              +----------------------------------+
 ```
 
 ### DoD example for a project

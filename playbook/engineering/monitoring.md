@@ -1,7 +1,7 @@
 ---
 title: Application health checks and status pages
 description: A convention for application health endpoints, with /healthz status pages in plain and JSON format, HTTP status codes and load balancer checks.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /0e46Cg
 ---
@@ -36,13 +36,20 @@ A combined overview status should be provided by the application, aggregating th
 
 The monitoring setup in one picture:
 
-```mermaid
-flowchart LR
-  M["External monitor"] -->|"poll every 1 to 3 min"| H["/healthz overall status"]
-  H --> DB["database check"]
-  H --> ES["elastic search check"]
-  H --> TP["3rd party check"]
-  LB["Load balancer"] -->|"poll"| S["/status/healthz"]
+```
+ +------------------+  poll every 1 to 3 min  +--------------------------+
+ | External monitor | ----------------------> | /healthz overall status  |
+ +------------------+                         +--------------------------+
+                                                 |            |           |
+                                                 v            v           v
+                                          +----------+ +-------------+ +-------------+
+                                          | database | | elastic     | | 3rd party   |
+                                          | check    | | search check| | check       |
+                                          +----------+ +-------------+ +-------------+
+
+ +---------------+  poll  +------------------+
+ | Load balancer | -----> | /status/healthz  |
+ +---------------+        +------------------+
 ```
 
 ### Status page

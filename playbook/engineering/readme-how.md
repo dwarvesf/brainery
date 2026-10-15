@@ -1,7 +1,7 @@
 ---
 title: README
 description: What a good README contains, who writes it and when, with section guidance and a sample README.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /2Fz0UQ
 ---

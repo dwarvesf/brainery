@@ -1,7 +1,7 @@
 ---
 title: Licensing
 description: What copyright and copyleft mean for our code, and the rules for licensing our work and using open source in client projects.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /xYYbTg
 ---

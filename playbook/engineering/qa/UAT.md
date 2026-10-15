@@ -1,7 +1,7 @@
 ---
 title: UAT checklist
 description: A before, during and after checklist for running user acceptance testing with the product team.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /JuuhaQ
 ---
@@ -10,13 +10,17 @@ User Acceptance Testing can be a daunting and frustrating experience. Too often,
 
 The bug loop during UAT keeps QC between the UAT team and developers:
 
-```mermaid
-flowchart LR
-  U["UAT team logs bug with UAT label"] --> Q1["QC reviews"]
-  Q1 -->|"in scope"| D["DEV fixes"]
-  Q1 -->|"out of scope"| CR["Log as Change Request"]
-  D --> Q2["QC verifies fix"]
-  Q2 --> U2["Back to UAT team to confirm"]
+```
+ +--------------------------+     +-------------+  in scope  +-----------+     +-------------+
+ | UAT team logs bug        | --> | QC reviews  | ---------> | DEV fixes | --> | QC verifies |
+ | with the UAT label       |     +-------------+            +-----------+     +-------------+
+ +--------------------------+            |                                            |
+            ^                            | out of scope                               |
+            |                            v                                            |
+            |                  +----------------------+                               |
+            |                  | Log as Change Request|                               |
+            |                  +----------------------+                               |
+            +---------------------- back to the UAT team to confirm <-----------------+
 ```
 
 ## Before UAT

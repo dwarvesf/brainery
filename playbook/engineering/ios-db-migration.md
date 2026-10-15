@@ -1,7 +1,7 @@
 ---
 title: Database migration in iOS development
 description: How to migrate Core Data models in iOS apps with the progressive migration method, including the Swift types that implement it.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /h7hxNA
 ---
@@ -56,11 +56,11 @@ We follow the method called **Progressive Core Data Migration**. It gives us the
 
 A store created on version 1 reaches the current model by walking every step in order. A store already on version 3 runs one step:
 
-```mermaid
-flowchart LR
-  v1["Model v1"] -->|"step 1 to 2"| v2["Model v2"]
-  v2 -->|"step 2 to 3"| v3["Model v3"]
-  v3 -->|"step 3 to 4"| v4["Model v4 (current)"]
+```
+ +----------+  step 1 to 2  +----------+  step 2 to 3  +----------+  step 3 to 4  +--------------+
+ | Model v1 | ------------> | Model v2 | ------------> | Model v3 | ------------> | Model v4     |
+ +----------+               +----------+               +----------+               | (current)    |
+                                                                                  +--------------+
 ```
 
 In order to support progressive migrations we'll need to answer a few questions:

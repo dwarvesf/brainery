@@ -1,7 +1,7 @@
 ---
 title: Readme driven development
 description: Why to write the README before the code, summarized from the Readme Driven Development essay by Tom Preston-Werner.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /wxC4HA
 ---

@@ -1,7 +1,7 @@
 ---
 title: Incident management and postmortems
 description: How we report and classify incidents by priority, plus a blameless postmortem template with a 5 Whys example.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /tbFyYQ
 ---
@@ -23,15 +23,9 @@ The overall procedure for monitoring alerts and taking action includes determini
 
 The lifecycle at a glance:
 
-```mermaid
-flowchart LR
-  A["Alert or report"] --> B{"Real impact?"}
-  B -- "no" --> C["Reject as non-impacting event"]
-  B -- "yes" --> D["Report: source, scope, type of impact"]
-  D --> E["Classify: category and P0 to P3"]
-  E --> F["Respond and restore service"]
-  F --> G["Postmortem and corrective actions"]
-```
+![](assets/incident-management-fig1-lifecycle.svg)
+
+_Fig. 1: Incident lifecycle, from alert to postmortem._
 
 ### Reporting the problem
 
