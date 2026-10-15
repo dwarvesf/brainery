@@ -1,5 +1,5 @@
 ---
-title: Best practices in Android development
+title: Best practices in android development
 description: Android development practices covering Gradle setup, libraries, app structure, resources, testing, ProGuard, storage and CI, forked from the Futurice guide.
 date: null
 redirect:
@@ -19,24 +19,24 @@ Avoid reinventing the wheel by following these guidelines.
 
 ## Summary
 
-- [Use Gradle and its default project structure](#build-system)
+- [Use gradle and its default project structure](#build-system)
 - [Put passwords and sensitive data in gradle.properties](#gradle-configuration)
-- [Use the Jackson library to parse JSON data](#libraries)
-- [Don't write your own HTTP client, use OkHttp libraries](#networklibs)
-- [Avoid Guava and use only a few libraries due to the _65k method limit_](#methodlimitation)
-- [Sail carefully when choosing between Activities and fragments](#activities-and-fragments)
+- [Use the jackson library to parse JSON data](#libraries)
+- [Don't write your own HTTP client, use okhttp libraries](#networklibs)
+- [Avoid guava and use only a few libraries due to the _65k method limit_](#methodlimitation)
+- [Sail carefully when choosing between activities and fragments](#activities-and-fragments)
 - [Layout XMLs are code, organize them well](#resources)
 - [Use styles to avoid duplicate attributes in layout XMLs](#styles)
 - [Use multiple style files to avoid a single huge one](#splitstyles)
 - [Keep your colors.xml short and DRY, just define the palette](#colorsxml)
 - [Also keep dimens.xml DRY, define generic constants](#dimensxml)
-- [Do not make a deep hierarchy of ViewGroups](#deephierarchy)
-- [Avoid client-side processing for WebViews, and beware of leaks](#webviews)
-- [Use JUnit for unit tests, Espresso for connected (UI) tests, and AssertJ-Android for easier assertions in your Android tests](#test-frameworks)
-- [Always use ProGuard or DexGuard](#proguard-configuration)
-- [Use SharedPreferences for simple persistence, otherwise ContentProviders](#data-storage)
-- [Use Stetho to debug your application](#use-stetho)
-- [Use Leak Canary to find memory leaks](#use-leakcanary)
+- [Do not make a deep hierarchy of viewgroups](#deephierarchy)
+- [Avoid client-side processing for webviews, and beware of leaks](#webviews)
+- [Use JUnit for unit tests, espresso for connected (UI) tests, and assertj-android for easier assertions in your android tests](#test-frameworks)
+- [Always use proguard or dexguard](#proguard-configuration)
+- [Use sharedpreferences for simple persistence, otherwise contentproviders](#data-storage)
+- [Use stetho to debug your application](#use-stetho)
+- [Use leak canary to find memory leaks](#use-leakcanary)
 - [Use continuous integration](#use-continuous-integration)
 
 ### Android SDK
@@ -141,7 +141,7 @@ Sharing the debug APK keystore file via the app repository saves time when testi
 **Share code style formatting defintions**
 Sharing the code style and formatting definitions via the app repository helps ensure a visually consistent code base and makes code comprehension and reviews easier.
 
-### Android Studio as your main IDE
+### Android studio as your main IDE
 
 The recommended IDE for Android development is [Android Studio](https://developer.android.com/sdk/installing/studio.html) because it is developed and constantly updated by Google, has good support for Gradle, contains a range of useful monitoring and analysis tools and is fully tailored for Android development.
 
@@ -533,13 +533,13 @@ You still need to write some parsing code yourself to read the data objects from
 
 We generally do not recommend using an Object-Relation Mapping library unless you have unusually complex data and you have a dire need. They tend to be complex and require time to learn. If you decide to go with an ORM you should pay attention to whether or not it is _process safe_ if your application requires it, as many of the existing ORM solutions surprisingly are not.
 
-### Use Stetho
+### Use stetho
 
 [Stetho](http://facebook.github.io/stetho/) is a debug bridge for Android applications from Facebook that integrates with the Chrome desktop browser's Developer Tools. With Stetho you can easily inspect your application, most notably the network traffic. It also allows you to easily inspect and edit SQLite databases and the shared preferences in your app. You should, however, make sure that Stetho is only enabled in the debug build and not in the release build variant.
 
 Another alternative is [Chuck](https://github.com/jgilfelt/chuck) which, although offering slightly more simplified functionality, is still useful for testers as the logs are displayed on the device, rather than in the more complicated connected Chrome browser setup that Stetho requires.
 
-### Use LeakCanary
+### Use leakcanary
 
 [LeakCanary](https://github.com/square/leakcanary) is a library that makes runtime detection and identification of memory leaks a more routine part of your application development process. See the library [wiki](https://github.com/square/leakcanary/wiki) for details on configuration and usage. Just remember to configure only the "no-op" dependency in your release build!
 

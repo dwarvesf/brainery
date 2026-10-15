@@ -10,7 +10,7 @@ redirect:
 
 **Project charter** is a formal, typically short document that describes your project in its entirety , including what the objectives are, how it will be carried out, and who the stakeholders are. It is a crucial ingredient in planning out the project because it is used throughout the project lifecycle.
 
-## Why is the Project charter So Important?
+## Why is the project charter so important?
 
 ### The benefits of project charters for the development team
 
@@ -26,7 +26,7 @@ redirect:
 - Creates a shared understanding: stakeholders know what to expect and what pressure it may put on resources. It can be a great source of confidence as it helps them understand exactly what they are approving.
 - Serves as a marketing tool: it can function as a sales document, to be distributed to those outside the project team. It can help justify expenses and investment. This article, originally a conference presentation, positions a project charter as a “marketing tool” and discusses other considerations for project sponsors to include in a charter.
 
-## What Is Included In A Project charter?
+## What is included in a project charter?
 
 All the blanks in A Project charter document should be filled by answering these question below.
 
