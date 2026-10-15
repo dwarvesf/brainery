@@ -1,7 +1,7 @@
 ---
 title: Continuous integration
-description: null
-date: null
+description: How we approach continuous integration and delivery, covering practices, pipeline setup, a flow diagram, and checklists for tagging, caching and deploys.
+date: 2026-10-15
 redirect:
   - /fa8afg
 ---
@@ -11,6 +11,14 @@ redirect:
 Continuous integration (CI) is a development practice where developers integrate code into a shared repository frequently, preferably several times a day. Each integration can then be verified by an automated build and automated tests. While automated testing is not strictly part of CI it is typically implied.
 
 One of the key benefits of integrating regularly is that you can detect errors quickly and locate them more easily. As each change introduced is typically small, pinpointing the specific change that introduced a defect can be done quickly.
+
+```text
+push / PR --> build --> test --> package image --> push artifact
+                                                        |
+                              +-------------------------+-----------+
+                              v                         v           v
+                         deploy: develop       deploy: staging   deploy: production
+```
 
 ## Importance of CI
 
@@ -27,13 +35,13 @@ Without a robust CI pipeline, a disconnect between the engineering team and the 
   - dependencies caching: cached go vendor or `node_modules` dir can significantly improve pipeline speed
 - Collect build artifacts: can be helpful to re-verify previous builds manually
 
-# Continuous delivery
+## Continuous delivery
 
 Continuous integration, deployment, and delivery are three phases of an automated software release pipeline. These three phases take software from idea to delivery to the end-user. The integration phase is the first step in the process. Integration covers the process of multiple developers attempting to merge their code changes with the master code repository of a project.
 
 Development teams have seen enormous benefits from implementing continuous integration (CI) and continuous delivery (CD) as well as continuous deployment practices. By setting up a CI/CD pipeline, teams can merge small changes often, release code to production frequently, and feel confident doing so because any changes trigger a build that is tested automatically before being released.
 
-## CD at Dwarves
+### CD at Dwarves
 
 We achieve an efficient deployment pipeline by following these best practices:
 
@@ -43,7 +51,7 @@ We achieve an efficient deployment pipeline by following these best practices:
 - Build quality comes first - take the time to invest in your quality metrics. A project with good, targeted quality metrics will invariably be better than one without, and easier to maintain in the long run
 - Tagging your builds and smoke test your deployments
 
-# Setup CI/CD pipeline
+## Setup CI/CD pipeline
 
 - Pick your own CI platform: Gitlab CI, Circle CI or Bitrise for iOS
 - Write the CI instruction file: Most of the time the configuration file should be a YAML file; file structure should be different following your chosen CI platform.
@@ -51,9 +59,46 @@ We achieve an efficient deployment pipeline by following these best practices:
 - CI Server will trigger the target server to run the deployment script. Depends on the current setup, we may use Ansible or K8s to make it happen.
 - For mobile applications, the deployment may be varied. Some will use Fastlane to build and Fabric/Testflight for app distribution.
 
-# Checklist
+> Note (October 2026): the platform names in this section predate current practice. Fabric was folded into Firebase, and hosted CI offers and pricing change often. Pick the platform the project already uses, and keep the stages below the same.
 
-## CI
+### Example pipeline
+
+A minimal GitLab CI file covering build, test, packaging and artifact push. The image name, registry and commands are placeholders, and it assumes a runner with Docker access.
+
+```yaml
+stages: [build, test, package]
+
+variables:
+  IMAGE: registry.example.com/team/app
+
+build:
+  stage: build
+  script: [make build]
+  artifacts:
+    paths: [bin/]
+
+test:
+  stage: test
+  script: [make test]
+  cache:
+    key: $CI_COMMIT_REF_SLUG
+    paths: [vendor/]
+
+package:
+  stage: package
+  script:
+    - docker build -t $IMAGE:develop -t $IMAGE:$CI_COMMIT_SHORT_SHA .
+    - docker push $IMAGE:develop
+    - docker push $IMAGE:$CI_COMMIT_SHORT_SHA
+  rules:
+    - if: $CI_COMMIT_BRANCH == "develop"
+```
+
+Tag and deploy rules (`develop`, `rc`, semantic versions) are in the checklist below.
+
+## Checklist
+
+### CI
 
 - [ ] The pipeline covers test, build, packaging and push artifacts stage
 - [ ] CI environment is cleaned from starting
@@ -68,7 +113,7 @@ We achieve an efficient deployment pipeline by following these best practices:
 - [ ] For mobile, remember to write a script to have increase build number automatically
 - [ ] The API target should be configured appropriately to reflect the current build environment. Avoiding pointing to different API version or environment.
 
-## CD
+### CD
 
 - [ ] Make sure environment variables has been up-to-date after deploying
 - [ ] Use image tag in different environments:

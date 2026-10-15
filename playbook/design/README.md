@@ -1,7 +1,7 @@
 ---
 title: Dwarves design playbook
-description: null
-date: null
+description: Overview of how Dwarves Design works, covering the three-stage design process and the methods used at each stage, with links to each.
+date: 2026-10-15
 redirect:
   - /ovB8uw
 ---
@@ -27,13 +27,13 @@ At Dwarves Design, we currently apply and revise day by day the simple process a
 
 ![alt text][design process]
 
-[design process]: https://uxstudioteam.com/website/wp-content/uploads/2016/06/ux-process.png "Design process"
+[design process]: https://uxstudioteam.com/website/wp-content/uploads/2016/06/ux-process.png 'Design process'
 
 At each stage, there are several technologies and methodologies being used, we always eager to apply best practices in our process.
 
-- [Design sprint](/design/design-sprint.md)
-- [AARRR framework](/design/AARRR.md)
-- [Lean canvas](/design/lean-canvas.md)
-- [UX research: probrem & solution, personas, user stories, journey mapping](/design/UX.md)
-- [Wireframe](/design/wireframe.md)
-- [Prototype](/design/prototype.md)
+- [Design sprint](design-sprint.md)
+- [AARRR framework](aarrr.md)
+- [Lean canvas](lean-canvas.md)
+- [UX research: problem & solution, personas, user stories, journey mapping](ux-design.md)
+- Wireframe (no page yet)
+- [Prototype](prototype.md)

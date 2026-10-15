@@ -1,7 +1,7 @@
 ---
 title: UX
-description: null
-date: 2023-10-16
+description: A two-phase UX research framework (gather data, then analyze it) covering interviews, competitor analysis, personas, journey maps and flows.
+date: 2026-10-15
 tags:
   - design
   - playbook
@@ -107,3 +107,37 @@ For each user flow, the questions you need to consider are:
 - What are the user’s hesitations or barriers to accomplishing the task?
 
 ![](assets/ux_3d7c3626f0c1880f74be8d46181f9e1b_md5.webp)
+
+## A worked example
+
+The fictional example below shows how the research outputs chain together for a meal-planning app. The product and the numbers are illustrative only.
+
+**Problem valuation** (from five user interviews):
+
+| Problem                                      | Valuation  |
+| -------------------------------------------- | ---------- |
+| Planning the week takes too long             | Crucial    |
+| Recipes ignore what is already in the fridge | Important  |
+| Hard to share the plan with a partner        | Not really |
+
+**Solution definition** for the crucial problem:
+
+- Problem: planning the week takes too long.
+- Possible solution: suggest a full week from three inputs (people, diet, budget); the team votes between this and a recipe-by-recipe picker.
+
+**Persona**:
+
+- Name: Linh, 32, works full time, cooks for two.
+- Users: busy professionals sharing a household.
+- Profile: shops once a week, plans on Sunday evening.
+- Problems: no time to plan, wastes food.
+
+**User story**: As a busy professional, I want a full week of dinners suggested from my budget so that I stop spending Sunday evening planning.
+
+Each output feeds the next. The story becomes a flow (open app, set people and budget, review the week, swap a meal, confirm shopping list), and the flow's hesitations become the first wireframe questions.
+
+### Common mistakes
+
+- Interviewing only the stakeholder who ordered the product and skipping the actual users.
+- Asking leading questions ("Would you like a faster way to plan?") instead of open ones ("Tell me about the last time you planned meals").
+- Writing personas from assumptions. Each persona should trace back to interview notes.

@@ -1,7 +1,7 @@
 ---
 title: The 12-factor app
-description: null
-date: null
+description: How Dwarves applies each of the twelve factors in real projects, from codebase and config to builds, logs and admin processes.
+date: 2026-10-15
 redirect:
   - /2hYHHQ
 ---
@@ -35,6 +35,8 @@ The codebase is the same across all deploys, although different versions may be 
 
 Every dependency should be pin a clear version for stability and should be cloned into the code repo.
 
+> Note: this list predates current tooling. `go dep` is archived in favor of Go modules, and Carthage sees little development while Swift Package Manager is the common default for Apple platforms. The rule stays the same: declare every dependency in a manifest and pin the version. Commit the lockfile (`go.sum`, `package-lock.json`, `Package.resolved`) so every deploy resolves the same versions.
+
 ## Config
 
 > Store config in the environment
@@ -48,6 +50,20 @@ Example in Go, the binary file could be run in following options:
 - With option to load config from .env files
 - With option to load config from environment variables
 - It also coule be run without any config file, loading default config.
+
+A minimal example. The same binary runs in every environment; only the environment changes.
+
+```bash
+# .env (local only, listed in .gitignore; commit a .env.sample with fake values)
+DATABASE_URL=postgres://app:secret@localhost:5432/app_dev
+LOG_LEVEL=debug
+PORT=8080
+```
+
+```bash
+# production: no file, values come from the platform (Kubernetes secret, CI variable, ...)
+DATABASE_URL=postgres://app:***@db.internal:5432/app LOG_LEVEL=info PORT=8080 ./app
+```
 
 ## Backing services
 
@@ -64,6 +80,18 @@ We use environment variables to configure backing services (database for example
 You must strictly separate the Build (binary), Release (binary and + env config) and Run (exec runtime) stages. Our instances are immutable so we can't make change upstream (ex: it is impossible to make changes to the code at runtime since there is no way to propagate those changes back to the build stage.)
 
 [We separate the environment into five](environment.md), and which of them are isolated with each other.
+
+```text
+  code            config (env vars)
+   |                    |
+   v                    v
++-------+         +-----------+         +-------+
+| Build | ------> |  Release  | ------> |  Run  |
++-------+         | build+cfg |         +-------+
+                  +-----------+
+```
+
+Each release has a unique ID (a git SHA or a semantic tag). Rolling back means running an earlier release again, never editing a running instance.
 
 - We take advantage of Docker and Kubernetes for this factor. For golang code, we use the binary from **build** stage in docker image for **release** stage.
 
@@ -130,3 +158,22 @@ Twelve-factor strongly favors languages which provide a REPL shell out of the bo
 
 - In a local deploy, developers invoke one-off admin processes by a direct shell command inside the app’s checkout directory.
 - In a production deploy, developers can use ssh or other remote command execution mechanism provided by that deploy’s execution environment to run such a process.
+
+## Quick check
+
+One question per factor. A "no" shows where to look first when taking over a project.
+
+| Factor              | Question                                                                              |
+| ------------------- | ------------------------------------------------------------------------------------- |
+| Codebase            | Is there one repo per app, with every environment deployed from it?                   |
+| Dependencies        | Does a clean checkout build with only the manifest and lockfile?                      |
+| Config              | Can you deploy the same artifact to staging and production by changing only env vars? |
+| Backing services    | Can you swap the database URL without a code change?                                  |
+| Build, release, run | Can you name the exact release running in production?                                 |
+| Processes           | Can you kill any instance without losing user data?                                   |
+| Port binding        | Does the app listen on a port from config, with no external web server baked in?      |
+| Concurrency         | Can you add a second instance and have it work?                                       |
+| Disposability       | Does the app finish in-flight work on SIGTERM and start in seconds?                   |
+| Dev/prod parity     | Do local, staging and production use the same database engine and major versions?     |
+| Logs                | Does the app write to stdout only?                                                    |
+| Admin process       | Are migrations and one-off scripts run from the same release as the app?              |
