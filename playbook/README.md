@@ -31,7 +31,7 @@ This repo is our playbook which contains our practices in software development a
 - [UX research](/design/UX-research.md)
 - [Information structure: IA design](/design/IA.md)
 - [Low fidelity prototype: UI design](/design/UI.md)
-- [High fidelity prototype: interative design](/design/IX.md)
+- [High fidelity prototype: iterative design](/design/IX.md)
 - [The design system](/design/design-system.md)
 
 ## Developing
@@ -92,7 +92,7 @@ This repo is our playbook which contains our practices in software development a
 
 - [Overall process](/business/README.md)
 - [Fixed budget, scope controlled](/business/fbsc.md)
-- [Collaboration guildeline](/collaboration-guideline.md)
+- [Collaboration guideline](/collaboration-guideline.md)
 
 ## Contributing
 

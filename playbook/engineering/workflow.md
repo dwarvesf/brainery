@@ -37,7 +37,7 @@ The way we see it is a collaboration between a team of multiple people with the 
 
 ![](assets/workflow_agile-team.webp)
 
-Keeping agile teams intact takes some organizational discipline, but it pays to protect the team–within reason, of course. When change is introduced (new hire, employee departure, etc.), the team reverts back to the forming stage as it absorbs the change.
+Keeping agile teams intact takes some organizational discipline, but it pays to protect the team, within reason, of course. When change is introduced (new hire, employee departure, etc.), the team reverts back to the forming stage as it absorbs the change.
 
 There are two other pillars of great agile teams: **continuous mentoring** and **shared skill sets**. When the team reaches the stage of Performing, they can work on the project at their full collaboration potential. All the obstacles will be removed, and risks will be minimized.
 
