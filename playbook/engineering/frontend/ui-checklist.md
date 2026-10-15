@@ -1,7 +1,7 @@
 ---
 title: Frontend UI checklist
 description: A pre-ship checklist for spacing, responsiveness, states, copy and icons when building or implementing a design.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /3HShrA
 ---

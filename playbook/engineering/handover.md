@@ -1,7 +1,7 @@
 ---
 title: Project handover checklists
 description: Checklists for handing a project to new people or a new team, covering project, source code, system and completeness.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /tzJoDw
 ---
@@ -22,17 +22,9 @@ Handover is not a task, and it is not instant. Handover is always a project. The
 - Diagrams should be made using draw.io, [excalidraw](https://excalidraw.com/) or gliffy.
 - Documents should be written in markdown (.md) format and posted directly to source repo.
 
-```mermaid
-flowchart LR
-    P[Plan and allocate time] --> A[Project handover]
-    A --> B[Source code handover]
-    B --> C[System handover]
-    C --> D[Wait one week]
-    D --> E{Completeness checklist passes?}
-    E -->|no| F[Fix gaps, wait one more week]
-    F --> E
-    E -->|yes| G[Handover closed]
-```
+![](assets/handover-fig1-handover-flow.svg)
+
+_Fig. 1: Handover phases and the weekly completeness check._
 
 ## Handover plan template
 

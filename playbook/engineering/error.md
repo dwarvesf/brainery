@@ -1,7 +1,7 @@
 ---
 title: Error message convention
 description: The error structure, code ranges, log levels and wire format used across services, plus how to replicate and track errors.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /nq7gfA
 ---
@@ -44,14 +44,9 @@ We make some error handling packages for some languages, such as `golang`, `elix
 
 ## From error to log level
 
-```mermaid
-flowchart TD
-    E[Error raised] --> C{Error code}
-    C -->|process is halted or down| F[Fatal]
-    C -->|internal or service error| R[Error]
-    C -->|business or HTTP error| W[Warn]
-    C -->|success or info| I[Debug or Info]
-```
+![](assets/error-fig1-log-levels.svg)
+
+_Fig. 1: The error code decides the log level._
 
 Example with the ranges above:
 

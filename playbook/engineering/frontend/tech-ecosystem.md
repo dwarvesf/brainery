@@ -1,7 +1,7 @@
 ---
 title: Frontend tech ecosystem
 description: The frontend stack (React, Next.js, SWR, Tailwind, TypeScript) and the reasoning behind each choice.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /Qy1Zdw
 ---
@@ -89,16 +89,25 @@ We are using `tailwind` to do styling and it scales pretty well when combining h
 
 Most of the frontend applications consist of four layers: Service connector, State management, Logic and UI. We opinionate about the technology for each layer with a guarantee of production readiness.
 
-```mermaid
-flowchart TB
-    UI[UI: components, Tailwind, Headless UI]
-    Logic[Logic: hooks, utils, forms]
-    State[State management: React context, SWR cache]
-    Service[Service connector: API client]
-    UI --> Logic
-    Logic --> State
-    State --> Service
-    Service --> Backend([Backend API])
+```
+ ┌───────────────────────────────────────────────┐
+ │ UI: components, Tailwind, Headless UI         │
+ └───────────────────────────────────────────────┘
+                       │
+ ┌───────────────────────────────────────────────┐
+ │ Logic: hooks, utils, forms                    │
+ └───────────────────────────────────────────────┘
+                       │
+ ┌───────────────────────────────────────────────┐
+ │ State management: React context, SWR cache    │
+ └───────────────────────────────────────────────┘
+                       │
+ ┌───────────────────────────────────────────────┐
+ │ Service connector: API client                 │
+ └───────────────────────────────────────────────┘
+                       │
+                       ▼
+                  Backend API
 ```
 
 Data flows down on requests and back up as props and state. Keep each layer unaware of the ones above it.

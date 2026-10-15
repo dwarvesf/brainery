@@ -1,7 +1,7 @@
 ---
 title: Diagram and project document structure
 description: Which project diagrams to produce, how to draw them in Mermaid, and where to store and discuss them.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /AaPX7w
 ---
@@ -220,41 +220,25 @@ Business Process Model and Notation (BPMN) draws a business process as events, t
 
 A data flow diagram shows where data enters the system, which component transforms it and where it is stored. Draw one when the project moves personal or financial data between services, so reviewers can see every place the data lands.
 
-```mermaid
-flowchart LR
-    User([User]) -->|form data| Web[Web app]
-    Web -->|REST request| API[API service]
-    API -->|write| DB[(Database)]
-    API -->|event| Queue[[Queue]]
-    Queue --> Worker[Email worker]
-    Worker -->|send| Mail([Mail provider])
+```
+ User ──form data──▶ Web app ──REST request──▶ API service
+                                                 │    │
+                                   write         │    │  event
+                              ┌──────────────────┘    └────────┐
+                              ▼                                ▼
+                          Database                          Queue
+                                                              │
+                                                              ▼
+                                       Mail provider ◀──send── Email worker
 ```
 
 ### Stack component diagram
 
 A stack component diagram lists the building blocks (client, services, data stores, third-party systems) and how they connect. It is the "high level diagram" a newcomer asks for first, so keep it to one page and update it when a component is added or removed.
 
-```mermaid
-flowchart TB
-    subgraph Client
-        Web[Web app]
-        Mobile[Mobile app]
-    end
-    subgraph Backend
-        API[API service]
-        Jobs[Background jobs]
-    end
-    subgraph Data
-        DB[(Database)]
-        Cache[(Cache)]
-    end
-    Web --> API
-    Mobile --> API
-    API --> DB
-    API --> Cache
-    Jobs --> DB
-    API --> Ext([Third party payment])
-```
+![](assets/diagram-fig1-stack-components.svg)
+
+_Fig. 1: Components of a typical stack. Clients call the API service, which reads and writes the data stores and calls third parties; background jobs share the database._
 
 ## Which diagram to draw
 

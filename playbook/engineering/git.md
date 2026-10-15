@@ -1,7 +1,7 @@
 ---
 title: Source version control
 description: Commit message and branch conventions, the Github flow, contributing to forks, and everyday git recovery commands.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /ZCHV4Q
 ---
@@ -114,16 +114,9 @@ All other branches (feature, release, fix, and whatever else you need) are tempo
   - Merge
   - Delete your branch
 
-```mermaid
-flowchart LR
-    A[Branch from main] --> B[Commit]
-    B --> C[Open pull request]
-    C --> D{Review passes?}
-    D -->|no| B
-    D -->|yes| E[Deploy branch, optional]
-    E --> F[Merge to main]
-    F --> G[Delete branch]
-```
+![](assets/git-fig1-github-flow.svg)
+
+_Fig. 1: Github flow. A failed review sends the branch back to more commits._
 
 **How to collaborate/contribute to open source repo**
 

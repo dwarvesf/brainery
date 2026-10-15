@@ -1,7 +1,7 @@
 ---
 title: Writing frontend tests
 description: How to write unit, component and integration tests for a React app with Jest, Testing Library, Cypress and Mock Service Worker.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /8YSu0g
 ---
@@ -48,8 +48,8 @@ describe("add()", () => {
     expect(add(2, 3)).toEqual(5);
   });
 
-  it("doesn't add the third number", () => {
-    expect(add(2, 3, 5)).toEqual(add(2, 3));
+  it("adds a negative number", () => {
+    expect(add(-2, 3)).toEqual(1);
   });
 });
 ```
@@ -59,7 +59,7 @@ Should our function work, Jest will show this output when running the tests:
 ```bash
 add()
   ✓ adds two numbers
-  ✓ doesn't add the third number
+  ✓ adds a negative number
 ```
 
 Oh no, now our function doesn't add the numbers anymore, it multiplies them! Imagine the consequences to our code that uses the function!
@@ -78,7 +78,7 @@ Thankfully, we have unit tests in place. Because we run the unit tests before we
 
 add()
   ✕ adds two numbers
-  ✓ doesn't add the third number
+  ✕ adds a negative number
 ```
 
 ## Component testing

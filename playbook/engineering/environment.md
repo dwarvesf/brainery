@@ -1,7 +1,7 @@
 ---
 title: Environments
 description: The five environments every project needs (local, CI, testing, staging, production) and what each one is for.
-date: 2026-08-22
+date: 2026-10-15
 redirect:
   - /unCMng
 ---
@@ -16,12 +16,8 @@ This section describes the environments you should have, at a minimum. It might 
 
 We use docker and docker-compose to set up our environments. Before getting more profound, we suggest you install our [dotfiles](https://github.com/dwarvesf/dotfiles), where we share the configuration and setting.
 
-```mermaid
-flowchart LR
-    Local[Local development] --> CI[Continuous integration]
-    CI --> Test[Testing]
-    Test --> Stag[Staging]
-    Stag --> Prod[Production]
+```
+ Local development ─▶ Continuous integration ─▶ Testing ─▶ Staging ─▶ Production
 ```
 
 A change moves left to right. Nothing reaches production without passing the stage before it.
