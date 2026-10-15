@@ -6,7 +6,7 @@ redirect:
   - /ZEmonw
 ---
 
-Run through this list before the first production release and again before any release that changes infrastructure. Mark an item N/A only with a one-line reason in the release notes. Related pages: [Logging system](log.md), [Application health checks and status pages](monitoring.md).
+Related pages: [Logging system](log.md), [Application health checks and status pages](monitoring.md).
 
 - [ ] Are long-running processes such as email delivery run in background jobs?
 - [ ] Are there redundant (at least two) web and background processes running?

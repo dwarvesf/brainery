@@ -86,7 +86,7 @@ We use GLP stack as a remote logging service.
 
 ![](assets/log_glp.webp)
 
-An example Loki query in Grafana, assuming your Promtail config attaches `service` and `level` labels as in the structure above, to find one failing request by its trace id:
+An example Loki query in Grafana, assuming your log agent (Promtail, or its successor Grafana Alloy) attaches `service` and `level` labels as in the structure above, to find one failing request by its trace id:
 
 ```
 {service="example-be", level="error"} |= "BBk56KzbYdF7Uha2CJ5h"

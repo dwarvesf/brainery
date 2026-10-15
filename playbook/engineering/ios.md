@@ -8,7 +8,7 @@ redirect:
 
 Avoid reinventing the wheel by following these guidelines.
 
-> Note: this page predates SwiftUI, Swift concurrency (`async`/`await`) and Swift Package Manager as a mainstream dependency tool, and parts of it assume Objective-C and Xcode-era tooling of that time. JetBrains has also discontinued AppCode. Treat the library and tooling sections as historical context and check current Apple documentation before adopting a recommendation.
+> Note: this page predates SwiftUI, Swift concurrency (`async`/`await`) and Swift Package Manager as a mainstream dependency tool, and parts of it assume Objective-C and the tooling of that time. JetBrains has also discontinued AppCode. Treat the library and tooling sections as historical context and check current Apple documentation before adopting a recommendation.
 
 ## Why?
 
