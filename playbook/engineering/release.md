@@ -1,7 +1,7 @@
 ---
 title: Release checklist
-description: null
-date: null
+description: A pre-release checklist covering git, testing, changelog, dependencies, database, variables, monitoring, environments and notifications.
+date: 2026-08-22
 redirect:
   - /AUqO3Q
 ---

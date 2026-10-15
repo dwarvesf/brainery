@@ -1,7 +1,7 @@
 ---
 title: Repository setup
-description: null
-date: null
+description: What every repository must provide, including one-command run and deploy, a Dockerfile, a health check and minimum documentation.
+date: 2026-08-22
 redirect:
   - /4LejNg
 ---

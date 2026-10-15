@@ -1,7 +1,7 @@
 ---
-title: README template
-description: null
-date: null
+title: Project README template
+description: A copy-paste README skeleton for a new project with setup, tests, deployment, contributing, versioning and license sections.
+date: 2026-08-22
 redirect:
   - /nIdKHA
 ---

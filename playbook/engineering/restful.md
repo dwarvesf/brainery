@@ -1,7 +1,7 @@
 ---
 title: RESTful API
-description: null
-date: null
+description: Conventions for REST API design, from URLs and versioning to pagination, status codes, error formats, caching and rate limits.
+date: 2026-08-22
 redirect:
   - /0OkhcQ
 ---

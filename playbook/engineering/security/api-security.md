@@ -1,7 +1,7 @@
 ---
 title: API security checklist
-description: null
-date: null
+description: A checklist for securing an API across authentication, access, input, processing and output.
+date: 2026-08-22
 redirect:
   - /EESv0A
 ---

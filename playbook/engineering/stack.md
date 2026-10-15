@@ -1,7 +1,7 @@
 ---
 title: Technology stack
-description: null
-date: null
+description: How we evaluate technology with a tech radar, and the tools, techniques, platforms and languages we use.
+date: 2026-08-22
 redirect:
   - /h2928Q
 ---

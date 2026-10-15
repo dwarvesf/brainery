@@ -1,7 +1,7 @@
 ---
 title: Development security checklist
-description: null
-date: null
+description: A development security checklist covering transport, storage, logging, Docker, auth flows, user data, input, mobile, headers and operations.
+date: 2026-08-22
 redirect:
   - /kCjuvg
 ---

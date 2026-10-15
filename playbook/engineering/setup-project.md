@@ -1,7 +1,7 @@
 ---
 title: Project setup
-description: null
-date: null
+description: What to set up when a project starts, including the agreement folder, artifacts, repository, communication channel, workflow tooling and integrations.
+date: 2026-08-22
 redirect:
   - /GHb2lA
 ---

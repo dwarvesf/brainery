@@ -1,7 +1,7 @@
 ---
-title: Versioning
-description: null
-date: null
+title: Semantic versioning
+description: How we version software with Semantic Versioning (MAJOR.MINOR.PATCH), with a worked example and answers to common questions.
+date: 2026-08-22
 redirect:
   - /aorrpw
 ---
