@@ -1,7 +1,7 @@
 ---
 title: Objective of operations
 description: A short framing of company operations as keeping every department moving toward the goal, like gears in a car.
-date: 2026-10-15
+date: 2020-01-15
 authors:
   - tieubao
 tags:
