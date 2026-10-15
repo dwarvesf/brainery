@@ -1,6 +1,6 @@
 ---
-title: Traits to assess during an interview
-description: null
+title: Seven traits to assess in an interview
+description: Seven traits to probe in a hiring interview (grit, rigor, impact, teamwork, ownership, curiosity, polish) and a question that tests each.
 date: 2019-09-20
 tags:
   - people
@@ -17,3 +17,18 @@ redirect:
 - **Polish**: Polish is equal parts what candidates say and how they say it, so be sure you’re considering both. How do they conduct themselves when they interject? Do they send a thoughtful thank you note following your conversation? Do they communicate gracefully and efficiently, saying whip-smart things in the fewest words possible?
 
 → Template: [https://docs.google.com/spreadsheets/d/1q2a6n4s0UpzsGcUUgsvWLpt-hYhgnzhxY9gbcbLfbho/edit#gid=0](https://docs.google.com/spreadsheets/d/1q2a6n4s0UpzsGcUUgsvWLpt-hYhgnzhxY9gbcbLfbho/edit#gid=0)
+
+## Example: using the list in an interview
+
+Pick two or three traits that matter most for the role instead of testing all seven. For each one, ask the question above, then follow up with "What did you do yourself?" and "What would you do differently?" to separate the candidate's own contribution from the team's.
+
+Score each trait right after the interview, before talking to other interviewers:
+
+| Score | Meaning                                                               |
+| ----- | --------------------------------------------------------------------- |
+| 1     | No relevant example, or only a generic answer                         |
+| 2     | An example, but the candidate's own role is unclear                   |
+| 3     | A clear example with concrete details and the candidate's own actions |
+| 4     | A clear example plus evidence of learning from it                     |
+
+Write down one quote or fact that supports each score. A score without evidence is hard to compare across candidates.

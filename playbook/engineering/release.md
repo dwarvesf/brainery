@@ -1,13 +1,39 @@
 ---
 title: Release checklist
-description: null
-date: null
+description: A pre-release checklist covering git, testing, changelog, dependencies, database, variables, monitoring, environments and notifications.
+date: 2026-10-15
 redirect:
   - /AUqO3Q
 ---
 
 When you are ready to release, remember to check off everything on your release checklist.
 Just remember to not mess up with the end users. Our responsibility is to keep the system stable with seamless deployment.
+
+## Release flow
+
+```text
+ Milestone done
+       |
+       v
+ Friday or weekend? --yes--> wait for the next working day
+       | no                          |
+       v                             |
+ Go through the checklist below <----+
+       |
+       v
+ Tag the version, publish the changelog
+       |
+       v
+ Back up, migrate, deploy
+       |
+       v
+ Verify monitoring and logs
+       |
+       v
+ Notify customers, product owner, team
+```
+
+## Checklist
 
 - [ ] Do NOT release on Friday or weekend. We can't handle if any issue happens.
 - [ ] The milestone was fully implemented.
@@ -69,3 +95,28 @@ Just remember to not mess up with the end users. Our responsibility is to keep t
 - [ ] Email sent to customers.
 - [ ] Email sent to the product owner.
 - [ ] Email sent to the project team.
+
+## Example: tagging a release
+
+A version should map to one state of the code base. A typical tag and changelog entry looks like this (version numbers follow [versioning](versioning.md)):
+
+```sh
+git tag -a v1.4.0 -m "Release 1.4.0"
+git push origin v1.4.0
+```
+
+```md
+## 1.4.0 (2026-10-15)
+
+### Added
+
+- Export report as CSV
+
+### Fixed
+
+- Login form no longer rejects emails with a plus sign
+```
+
+Known issues belong in the release notes for that version, not in the changelog. For example: "CSV export is slow above 50k rows."
+
+Roll back by redeploying the previous tag (for example `v1.3.2`). This only works if the database migration is reversible or the pre-migration backup is ready, so check both before you deploy.
