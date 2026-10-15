@@ -1,7 +1,7 @@
 ---
-title: Basic security
-description: null
-date: null
+title: Basic security practices
+description: Security checklists for laptops, phones, passwords and encryption, plus how to handle vulnerabilities and security reports.
+date: 2026-10-15
 redirect:
   - /1P3kIw
 ---
@@ -20,6 +20,8 @@ The following guidelines apply to how we physically secure our laptops and mobil
 - [ ] Lock your device when you are away from it.
 - [ ] Don't leave your devices unattended in an unsecured area.
 - [ ] Install a device tracking and remote data wipe tool such as Prey.
+
+> Note (October 2026): parts of this checklist predate current devices. Apple silicon Macs have no firmware password, so rely on FileVault, a strong login password and Find My. Prefer an authenticator app, a hardware key or a passkey over SMS codes for two-factor authentication. Check the vendor links below, since several point to old support pages.
 
 ### Desktop
 
@@ -60,6 +62,18 @@ We all use personal mobile devices, so your options are either not to add any co
 
 - [ ] Depending on what you are making, limit access to your user databases.
 - [ ] In case of a hack or data breach, check previous logs for data access, ask people to change passwords. You might require an audit by external agencies depending on where you are incorporated.
+
+### If a device or account is compromised
+
+A generic first-hour sequence. Adjust it to the system involved.
+
+1. Contain: sign the device or account out everywhere, revoke sessions and API tokens, and disconnect the device from the network if it is lost or infected.
+2. Rotate: change passwords and keys that the device or account could reach, starting with the ones that grant the most access.
+3. Assess: check access logs for what was read or changed and when. Write down what you find as you go.
+4. Tell: report it internally straight away to your lead or the ops team. If customer data may be involved, escalate at once, because notification obligations can carry deadlines.
+5. Follow up: record what happened and what would have prevented it.
+
+Report a lost laptop or phone immediately, even if you think it was only misplaced. A fast report costs little, and a slow one lets an attacker keep access.
 
 ## Security report
 

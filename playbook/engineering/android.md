@@ -1,12 +1,21 @@
 ---
 title: Best practices in Android development
-description: null
-date: null
+description: Android development practices covering Gradle setup, libraries, app structure, resources, testing, ProGuard, storage and CI, forked from the Futurice guide.
+date: 2026-10-15
 redirect:
   - /7IUNoA
 ---
 
 Avoid reinventing the wheel by following these guidelines.
+
+> Note (October 2026): this guide is a fork of a 2017-era guide and predates current Android practice. The principles hold (build from Gradle files, no secrets in git, keep layouts flat, test release builds early). Several specifics have moved on:
+>
+> - Kotlin is Google's preferred language, and Jetpack Compose is the recommended UI toolkit for new screens. The Java-only, XML-layout advice below still applies to existing View-based code.
+> - R8 replaced ProGuard as the default shrinker in Android Gradle Plugin 3.4. R8 reads the same `proguard-rules.pro` files, so the keep-rule advice still works.
+> - For new storage code, Room (SQLite) and DataStore (key-value) are the usual choices over raw ContentProviders and SharedPreferences.
+> - Retrolambda is not needed, and Robolectric now has first-class support in AndroidX Test, so "avoid Robolectric" is no longer a blanket rule. AssertJ-Android is no longer maintained.
+> - Coroutines and Flow have taken over much of what RxJava was used for.
+> - Check the current Android documentation before choosing library versions or a `minSdkVersion`.
 
 ## Summary
 

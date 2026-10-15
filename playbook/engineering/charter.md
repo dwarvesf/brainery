@@ -1,7 +1,7 @@
 ---
 title: Project charter
-description: null
-date: null
+description: What a project charter is, why it helps the team and the client, and the questions it has to answer, with a filled-in example.
+date: 2026-10-15
 redirect:
   - /xD6Npg
 ---
@@ -56,13 +56,13 @@ For example Medical, Transportation/Logistic, Banking, etc..
   - The project development team: project owners, project leaders, project team members, resource/ content manager, project testers
   - Users
 
-**5.Scope, Time and Budget?**
+**5. Scope, time and budget?**
 
 - Scope: the project will have many aspects. So Project manager should know which part worthwhile to carry and ignore vice versa.
 - Time: for each project, we should have a time standard to make the project measurable such as man-month, man-day.
-- Budget: \*\*\*\*
+- Budget: the funding available, who approves spending, and what happens when the estimate is exceeded.
 
-**5.Platform?**
+**6. Platform?**
 
 - Which platform will be deployed for the project?
 
@@ -77,3 +77,26 @@ For example Medical, Transportation/Logistic, Banking, etc..
   - Unclear specifications: because of incorrect project initiation, specs may not be clear or complete enough for the team members to start the work.
   - Neglecting design: some developers tend to neglect the design processes.
   - Technical risk: the feature about to be implemented is underestimated - not as easy as it seems to be.
+
+## A filled-in example
+
+An illustrative charter for a fictional project. It fits on one page, and that is the target.
+
+| Question          | Answer                                                                                                                                     |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Domain            | Logistics                                                                                                                                  |
+| Problem           | Dispatchers re-type delivery orders from email into a spreadsheet, which causes wrong addresses and about an hour of work each morning.    |
+| Solution          | A web form and email importer that creates orders in one list, with address validation.                                                    |
+| Value proposition | Dispatchers start routing at 8:00 instead of 9:00, and failed deliveries from bad addresses drop.                                          |
+| Objectives        | Importer handles the three most common email formats. Address errors caught before dispatch. Live within 12 weeks.                         |
+| Stakeholders      | Sponsor (operations director), dispatch team (users), development team, customer support (informed).                                       |
+| Scope             | In: order import, validation, order list. Out: routing, driver app, billing.                                                               |
+| Time and budget   | 12 weeks, 3 developers part time; budget approved by the sponsor, changes above 10% go back to the sponsor.                                |
+| Platform          | Web app, hosted on the client's cloud account.                                                                                             |
+| Risks             | Email formats vary more than expected (spike in week 1); dispatchers keep using the spreadsheet (involve two dispatchers in weekly demos). |
+
+### Using the charter
+
+- Get the sponsor and the team lead to read and agree to it before work starts.
+- Revisit it at each milestone. If scope or risks changed, update the charter and tell the stakeholders, rather than letting it drift out of date.
+- When a change request arrives, check it against Scope and Objectives first.

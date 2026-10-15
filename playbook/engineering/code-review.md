@@ -1,7 +1,7 @@
 ---
-title: Code review
-description: null
-date: null
+title: How we do code review
+description: How we run code review, covering the pull request flow, review principles, minimum standards, and how to word feedback.
+date: 2026-10-15
 redirect:
   - /TeWzXQ
 ---
@@ -22,6 +22,29 @@ We review everything on the Pull request - code, tests, documents, config files,
 - Reviewer review/refactor the code with assignee
 - **Reviewer signs off** on the pull request with a 👍 or “Ready to merge” comment
 - **Developer** merges PR and clean up remote branch
+
+```text
+code on branch off develop
+        |
+        v
+  self-review the diff
+        |
+        v
+open PR, fill template, assign reviewer
+        |
+        v
+  reviewer reviews  <----------------+
+        |                            |
+   changes needed? --yes--> assignee updates PR
+        | no
+        v
+  reviewer signs off
+        |
+        v
+developer merges, deletes branch
+```
+
+A draft pull request, where the platform supports it, does the same job as the `[WIP]` prefix and is harder to merge by accident.
 
 ## Principles
 
@@ -85,5 +108,42 @@ However, sometimes direct instructions, suggestions, or even code are more helpf
 If you ask a developer to explain a piece of code that you don't understand, that should usually result in them rewriting the code more clearly. Explanations written only in the code review tool are not helpful to future code readers
 
 Encourage developers to simplify code or add code comments instead of just explaining the complexity to you
+
+### Examples
+
+A short PR description gives the reviewer the context they need. Adapt it to the project's PR template.
+
+```markdown
+## What
+
+Add retry with backoff to the payment webhook handler.
+
+## Why
+
+Webhook deliveries fail during deploys, and the provider does not retry after 3 attempts.
+
+## How to test
+
+1. Run `make test`.
+2. Stop the database, send a sample webhook, and start the database again. The webhook should succeed on retry.
+
+## Notes
+
+Backoff values are constants in `webhook/retry.go`; happy to move them to config if you prefer.
+```
+
+Review comments that follow the guidance above:
+
+- A required change, with a reason: "This query runs once per item in the loop, so a list of 500 items means 500 queries. Can we fetch them in one query before the loop?"
+- Optional polish: "Nit: `data` could be `orderItems` so the next reader knows what it holds."
+- A question instead of a command: "What happens here if the token has expired? I could not find a test for it."
+
+### Checklist for the reviewer
+
+- [ ] I understand why this change exists.
+- [ ] The code does what the description says, and the tests cover the critical path.
+- [ ] No debugging output, secrets or environment files are included.
+- [ ] Names and comments make the intent clear.
+- [ ] Required changes are stated plainly with a reason, and optional polish is prefixed with "Nit".
 
 ![](assets/code-review-hierarchy.webp)
