@@ -1,7 +1,7 @@
 ---
-title: Code style
-description: null
-date: null
+title: Frontend code style
+description: Frontend coding rules for functional style, React components, Tailwind, TypeScript, dependencies and performance.
+date: 2026-10-15
 redirect:
   - /GMeWVQ
 ---
@@ -46,6 +46,27 @@ When doing styling, strive to use `tailwindcss` classes for consistency and pain
   </div>
   ```
 
+A small before and after for the rules above:
+
+```ts
+// Before: mutation, loop, nested branches
+function activeEmails(users: User[]) {
+  let result = [];
+  for (let i = 0; i < users.length; i++) {
+    if (users[i].isActive) {
+      if (users[i].email) {
+        result.push(users[i].email);
+      }
+    }
+  }
+  return result;
+}
+
+// After: pure, no `let`, array methods
+const activeEmails = (users: User[]) =>
+  users.filter((user) => user.isActive && user.email).map((user) => user.email);
+```
+
 Maintain the separation of concerns in the folder, for example:
 
 - `constants/` contains shared variables used across the app.
@@ -82,6 +103,14 @@ Your app should be fast but also remember "Premature optimization is the root of
 - Know the terms [`lazy loading`](https://nextjs.org/docs/advanced-features/dynamic-import) and [`bundle/code splitting`](https://reactjs.org/docs/code-splitting.html)
 - Window large lists (with [`tannerlinsley/react-virtual`](https://github.com/tannerlinsley/react-virtual) or similar).
 - A smaller bundle size usually also means a faster app. You can visualize the code bundles you've generated with [`@next/bundle-analyzer`](https://www.npmjs.com/package/@next/bundle-analyzer).
+
+## Pull request checklist
+
+- [ ] ESLint and Prettier pass with no new warnings.
+- [ ] No unjustified `any` or `!`, and no hard-coded colors.
+- [ ] Boolean props read as `isX`, `hasX`, `doesX` or `shouldX`.
+- [ ] New dependency passes the four questions above.
+- [ ] Performance claims come with a profiler result.
 
 ## Read on
 

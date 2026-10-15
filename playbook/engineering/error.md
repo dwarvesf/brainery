@@ -1,7 +1,7 @@
 ---
 title: Error message convention
-description: null
-date: null
+description: The error structure, code ranges, log levels and wire format used across services, plus how to replicate and track errors.
+date: 2026-10-15
 redirect:
   - /nq7gfA
 ---
@@ -42,6 +42,22 @@ We make some error handling packages for some languages, such as `golang`, `elix
 - `Warn`: business error, HTTP error. The error occurs in business logic. We just log it for debugging later
 - `Debug`, `Info`: log some info or success data
 
+## From error to log level
+
+![](assets/error-fig1-log-levels.svg)
+
+_Fig. 1: The error code decides the log level._
+
+Example with the ranges above:
+
+| Situation                                | Class    | Log level |
+| ---------------------------------------- | -------- | --------- |
+| Database connection pool exhausted       | Internal | `Error`   |
+| Payment provider times out               | Service  | `Error`   |
+| User submits an order with an empty cart | Business | `Warn`    |
+| User requests a missing resource (404)   | HTTP     | `Warn`    |
+| Server panics on startup                 | Internal | `Fatal`   |
+
 ## Constructing an error
 
 - Go
@@ -58,7 +74,7 @@ We make some error handling packages for some languages, such as `golang`, `elix
 //
 // init error code constant
 const (
-    ErrAttrInvalidCode = itoa + gerr.BusinessCodeCustom
+    ErrAttrInvalidCode = iota + gerr.BusinessCodeCustom
     ErrAttrNotFoundCode
 )
 
@@ -79,9 +95,7 @@ func handle(req Request) (*Response, error) {
 
 - Elixir
 
-```elixir
-
-```
+The Elixir package has no example here yet.
 
 ## Errors across the wire
 
@@ -138,7 +152,7 @@ func handler() {
 
 System log is like the airplane black box. When defects occur, along with steps used to reproduce from user report, the last thing we know is stored in the system log.
 
-- We use [Sentry](sentry.io) for both backend and frontend apps. Sentry helps collect and report the system log when errors occurred.
+- We use [Sentry](https://sentry.io) for both backend and frontend apps. Sentry helps collect and report the system log when errors occurred.
 - We use GLP stack as a remote logging service.
 
 Starting a new project, we usually set up and hook the error message to our project management system.
@@ -162,3 +176,12 @@ We develop strategies and tooling to help ease the debugging process.
 - Verify the system/environment used to produce the error
 - Gather Screenshots and Logs
 - Gather step-by-step description from the user
+
+## Checklist for a new error
+
+- [ ] The error has a code in the right range (internal, service or business).
+- [ ] The client message is safe to show to a user and carries no stack trace or secrets.
+- [ ] Field errors are keyed by attribute name, as in the wire format above.
+- [ ] Every response and log line carries the same `trace_id`.
+- [ ] The log level follows the code range.
+- [ ] A test asserts the code, not the message text.

@@ -1,7 +1,7 @@
 ---
-title: Writing test
-description: null
-date: null
+title: Writing frontend tests
+description: How to write unit, component and integration tests for a React app with Jest, Testing Library, Cypress and Mock Service Worker.
+date: 2026-10-15
 redirect:
   - /8YSu0g
 ---
@@ -15,6 +15,14 @@ Testing your application is a vital part of serious development. For the front-e
 - If your tests don't make you confident that you didn't break anything, then they didn't do their (one and only) job.
 - You'll know you implemented correct tests when you rarely have to change tests when you refactor code given the same user behavior.
 - Use [Jest](https://jestjs.io/), [React testing library](https://testing-library.com/docs/react-testing-library/intro/), [Cypress](https://www.cypress.io/), and [Mock service worker](https://github.com/mswjs/msw).
+
+> Note: the examples import `react-testing-library`, which is now published as `@testing-library/react`. Use that package name in new code. The ideas on this page still apply.
+
+| Level               | Tool                                                 | Use it for                                                      |
+| ------------------- | ---------------------------------------------------- | --------------------------------------------------------------- |
+| Unit                | Jest                                                 | Pure functions, utils, hooks                                    |
+| Component           | Jest and Testing Library                             | One component rendered in a DOM, queried the way a user sees it |
+| Integration and e2e | Cypress or Testing Library, with Mock Service Worker | A user flow across several components or pages                  |
 
 ## Unit testing
 
@@ -40,8 +48,8 @@ describe("add()", () => {
     expect(add(2, 3)).toEqual(5);
   });
 
-  it("doesn't add the third number", () => {
-    expect(add(2, 3, 5)).toEqual(add(2, 3));
+  it("adds a negative number", () => {
+    expect(add(-2, 3)).toEqual(1);
   });
 });
 ```
@@ -51,7 +59,7 @@ Should our function work, Jest will show this output when running the tests:
 ```bash
 add()
   ✓ adds two numbers
-  ✓ doesn't add the third number
+  ✓ adds a negative number
 ```
 
 Oh no, now our function doesn't add the numbers anymore, it multiplies them! Imagine the consequences to our code that uses the function!
@@ -70,7 +78,7 @@ Thankfully, we have unit tests in place. Because we run the unit tests before we
 
 add()
   ✕ adds two numbers
-  ✓ doesn't add the third number
+  ✕ adds a negative number
 ```
 
 ## Component testing
@@ -199,7 +207,7 @@ it("handles clicks", () => {
   const { getByText } = render(<Button onClick={onClickMock}>{text}</Button>);
 
   fireEvent.click(getByText(text));
-  expect(onClickSpy).toHaveBeenCalledTimes(1);
+  expect(onClickMock).toHaveBeenCalledTimes(1);
 });
 ```
 
@@ -224,7 +232,7 @@ describe("<Button />", () => {
     const { getByText } = render(<Button onClick={onClickMock}>{text}</Button>);
 
     fireEvent.click(getByText(text));
-    expect(onClickSpy).toHaveBeenCalledTimes(1);
+    expect(onClickMock).toHaveBeenCalledTimes(1);
   });
 });
 ```
@@ -295,6 +303,14 @@ cy.intercept("/login", "Mocked response JSON body");
 ```
 
 Note: sometimes, it's required to have e2e tests by making requests against a real backend server. In that case, we need to ensure network latency and availability of the server are not the factor causing the test to fail.
+
+## Checklist before opening a pull request
+
+- [ ] Each new behavior has a test that fails without the change.
+- [ ] Tests query by role, label or text, not by class names or component internals.
+- [ ] API calls are mocked, so tests pass without a real server.
+- [ ] No snapshot is committed without reading its diff.
+- [ ] The suite passes locally and in CI.
 
 ## Read on
 

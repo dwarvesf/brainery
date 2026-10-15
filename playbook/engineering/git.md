@@ -1,7 +1,7 @@
 ---
 title: Source version control
-description: null
-date: null
+description: Commit message and branch conventions, the Github flow, contributing to forks, and everyday git recovery commands.
+date: 2026-10-15
 redirect:
   - /ZCHV4Q
 ---
@@ -12,7 +12,7 @@ It's like a time machine. We can save and reload anytime we want to, like in the
 
 ## Commit message guidelines
 
-Hour commit conventions are based on [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#specification)
+Our commit conventions are based on [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#specification)
 
 Commit message should be structured as follows
 
@@ -26,6 +26,15 @@ git commit -m "<type>(optional scope): <commit message>"
 [optional body]
 
 [optional footer(s)]
+```
+
+Examples:
+
+```bash
+git commit -m "feat(api): add password reset endpoint"
+git commit -m "fix(ui): keep the modal open when the request fails"
+git commit -m "docs: add how to run the project locally"
+git commit -m "feat(api)!: rename /users to /accounts"   # ! marks a breaking change
 ```
 
 **Types:**
@@ -105,6 +114,10 @@ All other branches (feature, release, fix, and whatever else you need) are tempo
   - Merge
   - Delete your branch
 
+![](assets/git-fig1-github-flow.svg)
+
+_Fig. 1: Github flow. A failed review sends the branch back to more commits._
+
 **How to collaborate/contribute to open source repo**
 
 - To be able to contribute to an open source repo you first have to `fork` the repo to your account
@@ -124,12 +137,12 @@ git checkout master
 git fetch upstream
 
 # O1. pull and merge
-git pull upstream/master
+git pull upstream master
 
 # O2. rebase
 git rebase upstream/master
 
-# 03. reset
+# O3. reset
 git reset --hard upstream/master
 
 # after the local base branch is updated push to origin to update your forked repo
@@ -137,6 +150,8 @@ git push origin master
 ```
 
 ## Practices
+
+Rewriting history (`--amend`, `rebase`, `reset --hard`) is safe on a branch only you use. Once others have pulled a branch, do not rewrite it. If you must update your own pushed branch after a rebase, use `git push --force-with-lease`, which refuses to overwrite commits you have not seen.
 
 - **Amend commit**: edit the latest commit
 
@@ -275,3 +290,11 @@ git reset --hard 8c76ad1
     -d '{"ref":"refs/heads/D-commit", "sha":"your-commit-sha"}' \
     https://api.github.com/repos/{owner}/{repo}/git/refs
   ```
+
+## Everyday checklist
+
+- [ ] Branch name follows `<type>/your-branch-name`.
+- [ ] Each commit is one logical change with a conventional message.
+- [ ] The branch is rebased or merged with the latest base branch before review.
+- [ ] No secrets, build output or large binaries in the diff.
+- [ ] The branch is deleted after merge.

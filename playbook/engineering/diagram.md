@@ -1,7 +1,7 @@
 ---
 title: Diagram and project document structure
-description: null
-date: null
+description: Which project diagrams to produce, how to draw them in Mermaid, and where to store and discuss them.
+date: 2026-10-15
 redirect:
   - /AaPX7w
 ---
@@ -212,12 +212,33 @@ For the above diagram
         PRODUCT ||--o{ ORDER-ITEM : "ordered in"
 ```
 
-<!--
+### BPMN
+
+Business Process Model and Notation (BPMN) draws a business process as events, tasks and decisions across roles. Use it when the requirement is a workflow between people and systems, such as an approval chain, and the team needs to agree on who does what before any code is written. A flowchart with one swimlane per role is enough for most projects.
 
 ### Data flow
 
+A data flow diagram shows where data enters the system, which component transforms it and where it is stored. Draw one when the project moves personal or financial data between services, so reviewers can see every place the data lands.
+
+```
+ User ──form data──▶ Web app ──REST request──▶ API service
+                                                 │    │
+                                   write         │    │  event
+                              ┌──────────────────┘    └────────┐
+                              ▼                                ▼
+                          Database                          Queue
+                                                              │
+                                                              ▼
+                                       Mail provider ◀──send── Email worker
+```
+
 ### Stack component diagram
- -->
+
+A stack component diagram lists the building blocks (client, services, data stores, third-party systems) and how they connect. It is the "high level diagram" a newcomer asks for first, so keep it to one page and update it when a component is added or removed.
+
+![](assets/diagram-fig1-stack-components.svg)
+
+_Fig. 1: Components of a typical stack. Clients call the API service, which reads and writes the data stores and calls third parties; background jobs share the database._
 
 ### Project drive
 
@@ -257,3 +278,15 @@ Mermaid is a markdown-based diagram render. Right now we support the following c
 ![](assets/diagram_mermaid-plugins.webp)
 
 Install the above plugin, put your mermaid code directly with VSCode (Go with the most-rated plugin) and observe the magic.
+
+## Which diagram to draw
+
+| Question                              | Diagram                 |
+| ------------------------------------- | ----------------------- |
+| Where are we going and when?          | Product roadmap         |
+| What does the user feel at each step? | User journey mapping    |
+| What states can this thing be in?     | State machine           |
+| Who calls whom, in what order?        | Sequence diagram        |
+| How is the data shaped?               | ERD                     |
+| Where does data travel?               | Data flow               |
+| What are the moving parts?            | Stack component diagram |
