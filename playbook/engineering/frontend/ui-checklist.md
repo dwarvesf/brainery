@@ -22,6 +22,19 @@ Frontend engineering is not just about producing high quality code but also atte
 - Are existing patterns being used for similar actions/items? _(e.g. text link vs. secondary button, back arrow vs. back link, tooltip vs. exposed helper copy)_
 - Does your icon choice communicate effectively?
 
+## State matrix
+
+For every component that shows data, confirm each state has a design and has been seen in the browser:
+
+| State                  | Check                                                   |
+| ---------------------- | ------------------------------------------------------- |
+| Default                | Matches the design at desktop, tablet and mobile widths |
+| Loading                | Skeleton or spinner, no layout jump when data arrives   |
+| Empty                  | Explains what is missing and what to do next            |
+| Error                  | Says what went wrong and offers a retry or a way out    |
+| Long content           | Truncates or wraps as designed                          |
+| Hover, focus, disabled | Visible, and focus works from the keyboard              |
+
 ## Read on
 
 - [Tech ecosystem](tech-ecosystem.md)

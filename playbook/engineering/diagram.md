@@ -212,12 +212,61 @@ For the above diagram
         PRODUCT ||--o{ ORDER-ITEM : "ordered in"
 ```
 
-<!--
+### BPMN
+
+Business Process Model and Notation (BPMN) draws a business process as events, tasks and decisions across roles. Use it when the requirement is a workflow between people and systems, such as an approval chain, and the team needs to agree on who does what before any code is written. A flowchart with one swimlane per role is enough for most projects.
 
 ### Data flow
 
+A data flow diagram shows where data enters the system, which component transforms it and where it is stored. Draw one when the project moves personal or financial data between services, so reviewers can see every place the data lands.
+
+```mermaid
+flowchart LR
+    User([User]) -->|form data| Web[Web app]
+    Web -->|REST request| API[API service]
+    API -->|write| DB[(Database)]
+    API -->|event| Queue[[Queue]]
+    Queue --> Worker[Email worker]
+    Worker -->|send| Mail([Mail provider])
+```
+
 ### Stack component diagram
- -->
+
+A stack component diagram lists the building blocks (client, services, data stores, third-party systems) and how they connect. It is the "high level diagram" a newcomer asks for first, so keep it to one page and update it when a component is added or removed.
+
+```mermaid
+flowchart TB
+    subgraph Client
+        Web[Web app]
+        Mobile[Mobile app]
+    end
+    subgraph Backend
+        API[API service]
+        Jobs[Background jobs]
+    end
+    subgraph Data
+        DB[(Database)]
+        Cache[(Cache)]
+    end
+    Web --> API
+    Mobile --> API
+    API --> DB
+    API --> Cache
+    Jobs --> DB
+    API --> Ext([Third party payment])
+```
+
+## Which diagram to draw
+
+| Question                              | Diagram                 |
+| ------------------------------------- | ----------------------- |
+| Where are we going and when?          | Product roadmap         |
+| What does the user feel at each step? | User journey mapping    |
+| What states can this thing be in?     | State machine           |
+| Who calls whom, in what order?        | Sequence diagram        |
+| How is the data shaped?               | ERD                     |
+| Where does data travel?               | Data flow               |
+| What are the moving parts?            | Stack component diagram |
 
 ### Project drive
 

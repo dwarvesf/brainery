@@ -22,6 +22,35 @@ Handover is not a task, and it is not instant. Handover is always a project. The
 - Diagrams should be made using draw.io, [excalidraw](https://excalidraw.com/) or gliffy.
 - Documents should be written in markdown (.md) format and posted directly to source repo.
 
+```mermaid
+flowchart LR
+    P[Plan and allocate time] --> A[Project handover]
+    A --> B[Source code handover]
+    B --> C[System handover]
+    C --> D[Wait one week]
+    D --> E{Completeness checklist passes?}
+    E -->|no| F[Fix gaps, wait one more week]
+    F --> E
+    E -->|yes| G[Handover closed]
+```
+
+## Handover plan template
+
+Create this at the start and keep it in the source repo next to the README.
+
+```markdown
+## Handover plan: <project name>
+
+- Outgoing: <names and roles>
+- Incoming: <names and roles>
+- Start date / target end date: <dates> (maximum 2 weeks)
+- Time allocated per person: <hours per day>
+- Checklists in scope: project / source code / system
+- Sessions: <walkthrough, pair programming, Q&A: date and owner>
+- Open questions: <list>
+- Sign-off: <who confirms the completeness checklist>
+```
+
 ## Checklists
 
 #### Project handover

@@ -16,6 +16,14 @@ Testing your application is a vital part of serious development. For the front-e
 - You'll know you implemented correct tests when you rarely have to change tests when you refactor code given the same user behavior.
 - Use [Jest](https://jestjs.io/), [React testing library](https://testing-library.com/docs/react-testing-library/intro/), [Cypress](https://www.cypress.io/), and [Mock service worker](https://github.com/mswjs/msw).
 
+> Note: the examples import `react-testing-library`, which is now published as `@testing-library/react`. Use that package name in new code. The ideas on this page still apply.
+
+| Level               | Tool                                                 | Use it for                                                      |
+| ------------------- | ---------------------------------------------------- | --------------------------------------------------------------- |
+| Unit                | Jest                                                 | Pure functions, utils, hooks                                    |
+| Component           | Jest and Testing Library                             | One component rendered in a DOM, queried the way a user sees it |
+| Integration and e2e | Cypress or Testing Library, with Mock Service Worker | A user flow across several components or pages                  |
+
 ## Unit testing
 
 Unit testing is the practice of testing the smallest possible units of our code, functions. We run our tests and automatically verify that our functions do the thing we expect them to do. We assert that, given a set of inputs, our functions return the proper values and handle problems.
@@ -199,7 +207,7 @@ it("handles clicks", () => {
   const { getByText } = render(<Button onClick={onClickMock}>{text}</Button>);
 
   fireEvent.click(getByText(text));
-  expect(onClickSpy).toHaveBeenCalledTimes(1);
+  expect(onClickMock).toHaveBeenCalledTimes(1);
 });
 ```
 
@@ -224,7 +232,7 @@ describe("<Button />", () => {
     const { getByText } = render(<Button onClick={onClickMock}>{text}</Button>);
 
     fireEvent.click(getByText(text));
-    expect(onClickSpy).toHaveBeenCalledTimes(1);
+    expect(onClickMock).toHaveBeenCalledTimes(1);
   });
 });
 ```
@@ -295,6 +303,14 @@ cy.intercept("/login", "Mocked response JSON body");
 ```
 
 Note: sometimes, it's required to have e2e tests by making requests against a real backend server. In that case, we need to ensure network latency and availability of the server are not the factor causing the test to fail.
+
+## Checklist before opening a pull request
+
+- [ ] Each new behavior has a test that fails without the change.
+- [ ] Tests query by role, label or text, not by class names or component internals.
+- [ ] API calls are mocked, so tests pass without a real server.
+- [ ] No snapshot is committed without reading its diff.
+- [ ] The suite passes locally and in CI.
 
 ## Read on
 

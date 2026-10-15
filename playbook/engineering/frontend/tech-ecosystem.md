@@ -8,6 +8,8 @@ redirect:
 
 This document is intended to give you a taste of how we build frontend applications at Dwarves, and more importantly, why we choose the technology. It still assumes basic knowledge of React and [Next.js](https://nextjs.org/docs/getting-started). **If you're completely new to React, please refer to <https://github.com/petehunt/react-howto> instead!**
 
+> Note: this page describes the stack as it was written, in the React 17 and Next.js pages router era. Treat the tool list as a snapshot and check each project's `package.json` for what is actually in use. In particular, `react-testing-library` is now published as `@testing-library/react`, and newer Next.js versions add the App Router.
+
 ## Tech stack
 
 ### Core
@@ -87,9 +89,19 @@ We are using `tailwind` to do styling and it scales pretty well when combining h
 
 Most of the frontend applications consist of four layers: Service connector, State management, Logic and UI. We opinionate about the technology for each layer with a guarantee of production readiness.
 
-<div align="center">
-    <img src="./img/architecture.png"  align="center" />
-</div>
+```mermaid
+flowchart TB
+    UI[UI: components, Tailwind, Headless UI]
+    Logic[Logic: hooks, utils, forms]
+    State[State management: React context, SWR cache]
+    Service[Service connector: API client]
+    UI --> Logic
+    Logic --> State
+    State --> Service
+    Service --> Backend([Backend API])
+```
+
+Data flows down on requests and back up as props and state. Keep each layer unaware of the ones above it.
 
 ## Linting
 

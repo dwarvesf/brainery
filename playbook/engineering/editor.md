@@ -34,3 +34,13 @@ Learn your editor's keybindings - after you have gotten used to your editor, try
 ### Should I learn Vim?
 
 Yes, seriously. Maybe not now, maybe you will end up hating it and move back to VSCode (or turned into a [Spacemacs](http://spacemacs.org/) fanboy), but its a [big](https://pascalprecht.github.io/posts/why-i-use-vim/) [fat](https://www.quora.com/What-are-the-advantages-of-Vim-over-other-text-editors) [_YES_](https://www.quora.com/How-useful-is-learning-VI-VIM-for-a-new-programmer).
+
+## Minimum setup in any editor
+
+Whatever the editor, set these up once per project so everyone's output looks the same:
+
+- [ ] Format on save with the project's formatter (for example Prettier, `gofmt`).
+- [ ] Linter running inline, using the repo's config, not a personal one.
+- [ ] `.editorconfig` committed, so indentation and line endings match.
+- [ ] Integrated terminal and Git integration working in the project root.
+- [ ] Shared workspace settings committed (`.vscode/settings.json` or the equivalent), kept small.
