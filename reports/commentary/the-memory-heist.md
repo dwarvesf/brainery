@@ -1,10 +1,10 @@
 ---
 draft: true
-title: 'The memory heist: how Claude''s web browsing leaked user secrets'
+title: 'The memory heist: how claude''s web browsing leaked user secrets'
 description: Ayush Paul chained agent memory, link-following web_fetch, and a fake turnstile into a letter-by-letter exfiltration channel. Here is the mechanism and what it means if you build agents.
 date: 2026-07-16
 authors:
-  - 0xm
+  - minhluuquang
 tags:
   - ai-security
   - prompt-injection

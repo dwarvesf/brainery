@@ -1,12 +1,12 @@
 ---
 draft: false
-title: "Talks and takeaways from the scene part 3: Three Crypto Events, One Reality Check"
+title: "Talks and takeaways from the scene part 3: three crypto events, one reality check"
 short_title: 3rd Talks and Takeaways
 description: Talks and Takeaways from the Scene Part 3
 date: 2025-06-18
 authors:
   - ooohminh
-  - minhlq
+  - minhluuquang
 tags:
   - consulting
   - market-report
@@ -18,9 +18,9 @@ slug: event-takeaways-3rd
 
 Just wrapped up three crypto events that painted a pretty clear picture of where we're at right now. Here's what I saw on the ground.
 
-## **Web3 Builders' Summit: Speed is Everything**
+## **Web3 builders' summit: speed is everything**
 
-The pace is absolutely wild. Teams are going from idea to beta in two weeks flat. Not two months, not six weeks – *two weeks*.
+The pace is absolutely wild. Teams are going from idea to beta in two weeks flat. Not two months, not six weeks – _two weeks_.
 
 This isn't just startup hustle anymore; it's survival mode in the most competitive product landscape crypto has ever seen.
 
@@ -31,7 +31,7 @@ Key observations:
 - The days of raising on whitepapers are long gone
 - Now it's all about traction, users, and real metrics
 
-## **SuperVietnam in Danang: The Quiet Revolution**
+## **Supervietnam in danang: the quiet revolution**
 
 Danang caught me off guard. While everyone's been watching Thailand and Singapore, Vietnam has been quietly building serious blockchain infrastructure.
 
@@ -54,7 +54,7 @@ The conversations I overheard between government officials and builders felt ref
 
 This feels like the early Singapore playbook all over again.
 
-## **Solana Summit APAC: Pivots and Realizations**
+## **Solana summit APAC: pivots and realizations**
 
 The Solana event revealed something interesting about market maturity. Teams that started building DeFi protocols are quietly pivoting to enterprise solutions.
 
@@ -79,7 +79,7 @@ Teams still pushing forward despite narrative fatigue:
 
 The consumer app experiments on new chains like Berachain and Sonic are where the real energy is. These aren't trying to be the next billion-dollar protocol; they're just trying to be useful.
 
-## **The OG Comeback Tour**
+## **The OG comeback tour**
 
 The OG projects are raising again:
 
@@ -96,7 +96,7 @@ Experience matters more than it has in years.
 - **Execution over everything**: The idea phase is dead. Ship fast, iterate faster, or get left behind. Two-week cycles from concept to beta aren't ambitious anymore – they're table stakes
 - **Geography matters again**: Vietnam is positioning itself as the next major crypto hub while everyone's distracted elsewhere. The regulatory sandbox approach in Da Nang could become the blueprint everyone copies
 - **Narrative fatigue is real but selective**: VCs may be tired of hearing about DePIN and RWA, but they're still funding the best teams in these spaces. Finding the right story at the right moment matters as much as the product itself
-- **Enterprise is the new DeFi**: B2B solutions are quietly becoming the most sustainable business models in crypto. Fortune 500 adoption numbers don't lie – this is where the real money is moving
+- **Enterprise is the new defi**: B2B solutions are quietly becoming the most sustainable business models in crypto. Fortune 500 adoption numbers don't lie – this is where the real money is moving
 - **OG teams are back**: Experience and proven execution are premium assets in this market. Battle-tested founders who survived previous cycles are getting premium valuations again
 - **Connections beat content**: The main stage talks are impressive, but the real deals happen in hallway conversations. Everyone's hunting for that next connection or partnership that keeps their project alive
 - **Speed isn't just about building**: It's about reading market signals, pivoting when narratives shift, and staying ahead of trend cycles. The teams that survive are the ones that can adapt faster than the market moves
