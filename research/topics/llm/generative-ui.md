@@ -14,7 +14,7 @@ redirect:
   - /fpcBoQ
 ---
 
-## What is Generative UI?
+## What is generative UI?
 
 - A **generative UI** (genUI) is a user interface that responds to the user with AI-generated elements instead of just text messages.
 - It offers a personalized experience based on the user's needs and context. Users can interact with this AI-generated interface and sometimes make requests through it.
