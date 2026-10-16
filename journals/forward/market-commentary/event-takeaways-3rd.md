@@ -6,7 +6,7 @@ description: Talks and Takeaways from the Scene Part 3
 date: 2025-06-18
 authors:
   - ooohminh
-  - minhlq
+  - minhluuquang
 tags:
   - consulting
   - market-report
