@@ -45,16 +45,16 @@ redirect:
 
 Dwarves runs two tokens. ICY rewards contributions, and you can spend it or cash it out. DFG represents shares of Dwarves Foundation and can be staked for rewards. This page follows the order a contributor meets them: what the tokens are, how to earn and value ICY, what you can do with it, then the step-by-step guides.
 
-| I want to | Go to |
-|---|---|
-| Understand ICY and DFG | [What ICY and DFG are](#what-icy-and-dfg-are) |
-| Earn ICY | [Earn ICY](#earn-icy) |
-| Know what my ICY is worth | [What your ICY is worth](#what-your-icy-is-worth) |
-| Use ICY inside Dwarves | [Use your ICY](#use-your-icy) |
-| Create the wallets I need | [Set up your wallets](#set-up-your-wallets) |
-| Convert ICY to Bitcoin | [Swap ICY to BTC](#swap-icy-to-btc) |
-| Cash ICY out to a bank | [Withdraw ICY to fiat](#withdraw-icy-to-fiat) |
-| Stake DFG for rewards | [Bridge DFG from Ethereum to Base](#bridge-dfg-from-ethereum-to-base), then [Stake DFG on Base](#stake-dfg-on-base) |
+| I want to                 | Go to                                                                                                               |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| Understand ICY and DFG    | [What ICY and DFG are](#what-icy-and-dfg-are)                                                                       |
+| Earn ICY                  | [Earn ICY](#earn-icy)                                                                                               |
+| Know what my ICY is worth | [What your ICY is worth](#what-your-icy-is-worth)                                                                   |
+| Use ICY inside Dwarves    | [Use your ICY](#use-your-icy)                                                                                       |
+| Create the wallets I need | [Set up your wallets](#set-up-your-wallets)                                                                         |
+| Convert ICY to Bitcoin    | [Swap ICY to BTC](#swap-icy-to-btc)                                                                                 |
+| Cash ICY out to a bank    | [Withdraw ICY to fiat](#withdraw-icy-to-fiat)                                                                       |
+| Stake DFG for rewards     | [Bridge DFG from Ethereum to Base](#bridge-dfg-from-ethereum-to-base), then [Stake DFG on Base](#stake-dfg-on-base) |
 
 ## What ICY and DFG are
 
@@ -131,7 +131,7 @@ The monthly budget for ICY rewards is around **260-300 ICY per month**. This may
 **Permanent notes**
 
 | Range ICY | Criteria                                                                                                                                                                                                                                                           |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 7.5 - 10  | The note is above 200 words and is succinctly composed of proper sentences and paragraphs. The note is relatively coherent and may have some visuals or images to better explain the entry.                                                                        |
 | 5 - 7.5   | The note is around 200 words or less, containing some sentences, but may be mainly composed of bullet points. The entry is somewhat coherent, but may be obscured due to a lack of written words.                                                                  |
 | 0 - 5     | The note is around 200 words or less, containing some or no complete sentences and is mostly composed of bullet points. The entry is mostly in the form of a fleeting note, such that the audience for the summary is more for the writer, rather than the reader. |

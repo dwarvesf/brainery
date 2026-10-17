@@ -57,13 +57,13 @@ This page holds the email templates Dwarves Foundation Operations and HR use, fr
 
 To keep your own copies in Gmail, see [Setup email template in Gmail](/playbook/operations/setup-email-template).
 
-| Audience | Templates |
-|---|---|
-| Candidates | Interview invitation, assignment invitation (two versions), rejection (two stages), offer letter |
-| New hires | Welcome onboard, follow-up onboarding items |
-| Employees | Confirm resume date, salary increment, referral bonus confirmation, farewell after a failed probation |
-| Clients | Holiday announcement (five holidays), resource change, thank-you letter |
-| Community | Welcome to Dwarves Updates |
+| Audience   | Templates                                                                                             |
+| ---------- | ----------------------------------------------------------------------------------------------------- |
+| Candidates | Interview invitation, assignment invitation (two versions), rejection (two stages), offer letter      |
+| New hires  | Welcome onboard, follow-up onboarding items                                                           |
+| Employees  | Confirm resume date, salary increment, referral bonus confirmation, farewell after a failed probation |
+| Clients    | Holiday announcement (five holidays), resource change, thank-you letter                               |
+| Community  | Welcome to Dwarves Updates                                                                            |
 
 ## Candidates
 
@@ -394,13 +394,13 @@ The five holiday versions share one structure. Only the holiday paragraph, the e
 
 The originals differed in two small places. Check them against the table before sending.
 
-| Holiday | Emergency contact line | Closing sentence |
-|---|---|---|
-| Hung King commemoration day | WhatsApp (+1) 818 408 6969 | Thank you for your understanding. |
-| International Labour Day | WhatsApp (+1) 818 408 6969 | Thank you for your understanding and we hope you find the holiday enjoying every single minute. |
-| National Day | (+84) 282 246 0246 | Thank you for your understanding. |
-| New Year | (+84) 282 246 0246 | Thank you for your understanding and we genuinely hope you enjoy the holiday to the fullest. |
-| Tet | (+84) 282 246 0246 | Thank you for your understanding. |
+| Holiday                     | Emergency contact line     | Closing sentence                                                                                |
+| --------------------------- | -------------------------- | ----------------------------------------------------------------------------------------------- |
+| Hung King commemoration day | WhatsApp (+1) 818 408 6969 | Thank you for your understanding.                                                               |
+| International Labour Day    | WhatsApp (+1) 818 408 6969 | Thank you for your understanding and we hope you find the holiday enjoying every single minute. |
+| National Day                | (+84) 282 246 0246         | Thank you for your understanding.                                                               |
+| New Year                    | (+84) 282 246 0246         | Thank you for your understanding and we genuinely hope you enjoy the holiday to the fullest.    |
+| Tet                         | (+84) 282 246 0246         | Thank you for your understanding.                                                               |
 
 The National Day original had the year fixed as 2019. Use the [year] placeholder like the others.
 

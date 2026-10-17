@@ -234,7 +234,7 @@ These notes link out to others in the research vault. Related notes that exist o
 
 ## Reference
 
-- Ahrens, Sönke. _How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers_. Sönke Ahrens, 2017.
+- Ahrens, Sönke. _How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking - for Students, Academics and Nonfiction Book Writers_. Sönke Ahrens, 2017.
 - Bhargava, Rohit. _Non Obvious Megatrends: How to See What Others Miss and Predict the Future_. Ideapress Publishing, 2020.
 - Flaherty, Francis. _The Elements of Story: Field Notes on Nonfiction Writing_. Reprint edition. Harper Perennial, 2010.
 - Johnson, Steven. _Where Good Ideas Come from: The Seven Patterns of Innovation_. London: Penguin, 2011.

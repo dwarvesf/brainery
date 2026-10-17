@@ -48,20 +48,20 @@ redirect:
 
 The Dwarves Operations team keeps one checklist per recurring job. This page gathers them so a person on duty can find the right list without browsing a folder. The lists fall into three groups: people, clients and money, and projects.
 
-| Checklist | Use it when |
-|---|---|
-| Hiring | Running a recruiting round, from job post to offer |
-| Onboarding | A new employee joins the team |
+| Checklist                   | Use it when                                                |
+| --------------------------- | ---------------------------------------------------------- |
+| Hiring                      | Running a recruiting round, from job post to offer         |
+| Onboarding                  | A new employee joins the team                              |
 | Leave requests and holidays | An employee asks for leave, or a public holiday approaches |
-| Offboarding | An employee leaves the team |
-| Company assets | Anyone borrows or returns a company asset |
-| Consulting contract | Reviewing a client contract before signing |
-| Billing and invoices | Issuing, sending and chasing a client invoice |
-| Vietnam invoice | Producing a Vietnamese tax invoice |
-| Project communication | Setting the communication rules of a project |
-| Back up artifacts | Every 3 months, to record the project's progress |
-| Project handover | A new member takes over project work |
-| Project case study | Writing the case study of a finished project |
+| Offboarding                 | An employee leaves the team                                |
+| Company assets              | Anyone borrows or returns a company asset                  |
+| Consulting contract         | Reviewing a client contract before signing                 |
+| Billing and invoices        | Issuing, sending and chasing a client invoice              |
+| Vietnam invoice             | Producing a Vietnamese tax invoice                         |
+| Project communication       | Setting the communication rules of a project               |
+| Back up artifacts           | Every 3 months, to record the project's progress           |
+| Project handover            | A new member takes over project work                       |
+| Project case study          | Writing the case study of a finished project               |
 
 ## People
 
