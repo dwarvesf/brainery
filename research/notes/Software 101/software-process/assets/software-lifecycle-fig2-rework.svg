@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="gridl2" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arl2" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#c3d7ea"/></marker>
+    <marker id="aml2" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#e8c56a"/></marker>
+  </defs>
+  <rect width="760" height="380" fill="#12395f"/>
+  <rect width="760" height="380" fill="url(#gridl2)"/>
+  <rect x="0.5" y="0.5" width="759" height="379" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 2 · WHERE WATERFALL BREAKS</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">A CHANGED REQUIREMENT SENDS THE WORK BACK</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+<rect x="24" y="62" width="210" height="62" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+<text x="38" y="80" font-size="9.5" fill="#6f8fb0" letter-spacing="1.5">WATERFALL ASSUMES</text>
+<text x="38" y="99" font-size="11" fill="#e8f1fa">clear requirements,</text>
+<text x="38" y="114" font-size="11" fill="#e8f1fa">minimal change</text>
+<line x1="129" y1="126" x2="129" y2="156" stroke="#c3d7ea" stroke-width="2" marker-end="url(#arl2)"/>
+<rect x="24" y="158" width="210" height="66" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+<text x="38" y="178" font-size="9.5" fill="#6f8fb0" letter-spacing="1.5">IN REALITY</text>
+<text x="38" y="198" font-size="11" fill="#e8f1fa">requirements are rarely</text>
+<text x="38" y="214" font-size="11" fill="#e8f1fa">clear and change often</text>
+<line x1="236" y1="191" x2="268" y2="191" stroke="#c3d7ea" stroke-width="2" marker-end="url(#arl2)"/>
+<rect x="270" y="158" width="160" height="66" fill="#21466a" stroke="#e8c56a" stroke-width="2"/>
+<text x="284" y="178" font-size="9.5" fill="#e8c56a" letter-spacing="1.5">REWORK</text>
+<text x="284" y="198" font-size="11" fill="#e8f1fa">developers go back</text>
+<text x="284" y="214" font-size="11" fill="#e8f1fa">and redo their work</text>
+<line x1="432" y1="191" x2="468" y2="95" stroke="#c3d7ea" stroke-width="1"/>
+<rect x="470" y="75" width="266" height="40" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+<text x="484" y="99" font-size="10.5" fill="#e8f1fa">The schedule slips</text>
+<line x1="432" y1="191" x2="468" y2="143" stroke="#c3d7ea" stroke-width="1"/>
+<rect x="470" y="123" width="266" height="40" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+<text x="484" y="147" font-size="10.5" fill="#e8f1fa">More effort and higher cost</text>
+<line x1="432" y1="191" x2="468" y2="191" stroke="#c3d7ea" stroke-width="1"/>
+<rect x="470" y="171" width="266" height="40" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+<text x="484" y="188" font-size="10.5" fill="#e8f1fa">A badly structured system,</text>
+<text x="484" y="202" font-size="10.5" fill="#e8f1fa">hard to maintain</text>
+<line x1="432" y1="191" x2="468" y2="239" stroke="#c3d7ea" stroke-width="1"/>
+<rect x="470" y="219" width="266" height="40" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+<text x="484" y="236" font-size="10.5" fill="#e8f1fa">Problems left unsolved under a strict</text>
+<text x="484" y="250" font-size="10.5" fill="#e8f1fa">schedule, so defects ship</text>
+<line x1="432" y1="191" x2="468" y2="287" stroke="#c3d7ea" stroke-width="1"/>
+<rect x="470" y="267" width="266" height="40" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+<text x="484" y="284" font-size="10.5" fill="#e8f1fa">Late requirements disrupt the work,</text>
+<text x="484" y="298" font-size="10.5" fill="#e8f1fa">and not all are built correctly</text>
+<rect x="24" y="324" width="712" height="40" fill="none" stroke="#68839d" stroke-width="1"/>
+<text x="38" y="348" font-size="9.5" fill="#6f8fb0" letter-spacing="1.5">RESULT</text>
+<text x="110" y="348" font-size="11" fill="#e8f1fa">low-quality products and unhappy customers</text>
+</svg>

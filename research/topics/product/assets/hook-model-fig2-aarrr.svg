@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 392" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="gridh2" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arh2" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#c3d7ea"/></marker>
+    <marker id="amh2" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#e8c56a"/></marker>
+  </defs>
+  <rect width="760" height="392" fill="#12395f"/>
+  <rect width="760" height="392" fill="url(#gridh2)"/>
+  <rect x="0.5" y="0.5" width="759" height="391" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 2 · TWO FRAMEWORKS, ONE MEETING POINT</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">FIVE STEPS AGAINST FOUR</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+<text x="24" y="84" font-size="12" fill="#e8f1fa" font-weight="bold">AARRR</text>
+<text x="24" y="100" font-size="10" fill="#6f8fb0">5 steps</text>
+<text x="24" y="196" font-size="12" fill="#e8f1fa" font-weight="bold">HOOK MODEL</text>
+<text x="24" y="212" font-size="10" fill="#6f8fb0">4 steps</text>
+<line x1="204.0" y1="108" x2="204.0" y2="176" stroke="#385a7b" stroke-dasharray="3 4"/>
+<line x1="440.0" y1="108" x2="440.0" y2="176" stroke="#385a7b" stroke-dasharray="3 4"/>
+<line x1="558.0" y1="108" x2="558.0" y2="176" stroke="#385a7b" stroke-dasharray="3 4"/>
+<line x1="676.0" y1="108" x2="676.0" y2="176" stroke="#385a7b" stroke-dasharray="3 4"/>
+<rect x="150" y="64" width="108" height="44" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+<text x="204.0" y="91" font-size="10.5" fill="#e8f1fa" text-anchor="middle">Acquisition</text>
+<rect x="268" y="64" width="108" height="44" fill="#21466a" stroke="#e8c56a" stroke-width="1"/>
+<text x="322.0" y="91" font-size="10.5" fill="#e8f1fa" text-anchor="middle">Activation</text>
+<rect x="386" y="64" width="108" height="44" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+<text x="440.0" y="91" font-size="10.5" fill="#e8f1fa" text-anchor="middle">Retention</text>
+<rect x="504" y="64" width="108" height="44" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+<text x="558.0" y="91" font-size="10.5" fill="#e8f1fa" text-anchor="middle">Referral</text>
+<rect x="622" y="64" width="108" height="44" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+<text x="676.0" y="91" font-size="10.5" fill="#e8f1fa" text-anchor="middle">Revenue</text>
+<rect x="150" y="176" width="108" height="44" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+<text x="204.0" y="203" font-size="10.5" fill="#e8f1fa" text-anchor="middle">Trigger</text>
+<rect x="268" y="176" width="108" height="44" fill="#21466a" stroke="#e8c56a" stroke-width="1"/>
+<text x="322.0" y="203" font-size="10.5" fill="#e8f1fa" text-anchor="middle">Action</text>
+<rect x="386" y="176" width="108" height="44" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+<text x="440.0" y="203" font-size="10.5" fill="#e8f1fa" text-anchor="middle">Variable reward</text>
+<rect x="504" y="176" width="108" height="44" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+<text x="558.0" y="203" font-size="10.5" fill="#e8f1fa" text-anchor="middle">Investment</text>
+<rect x="622" y="176" width="108" height="44" fill="none" stroke="#385a7b" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="676.0" y="203" font-size="10.5" fill="#6f8fb0" text-anchor="middle">none</text>
+<line x1="322.0" y1="108" x2="322.0" y2="176" stroke="#e8c56a" stroke-width="2"/>
+<rect x="330.0" y="134" width="216" height="20" fill="#12395f"/>
+<text x="336.0" y="148" font-size="11" fill="#e8c56a">activation lines up with action</text>
+<line x1="24" y1="244" x2="736" y2="244" stroke="#385a7b"/>
+<text x="24" y="270" font-size="10" fill="#c3d7ea" letter-spacing="1.5">AARRR</text>
+<text x="24" y="292" font-size="11" fill="#e8f1fa">Strategy to build the user journey.</text>
+<text x="24" y="310" font-size="11" fill="#a7c0d9">Focus: bring in new users.</text>
+<text x="24" y="328" font-size="11" fill="#a7c0d9">The action is external: it exposes the</text>
+<text x="24" y="346" font-size="11" fill="#a7c0d9">brand to potential new users.</text>
+<text x="396" y="270" font-size="10" fill="#c3d7ea" letter-spacing="1.5">HOOK MODEL</text>
+<text x="396" y="292" font-size="11" fill="#e8f1fa">Process to create a habitual product.</text>
+<text x="396" y="310" font-size="11" fill="#a7c0d9">Focus: keep current customers using it.</text>
+<text x="396" y="328" font-size="11" fill="#a7c0d9">The action is internal: it builds the habit</text>
+<text x="396" y="346" font-size="11" fill="#a7c0d9">and improves the product itself.</text>
+<text x="24" y="374" font-size="11" fill="#a7c0d9">Their end goals differ, and both serve product growth.</text>
+<text x="736" y="374" font-size="10" fill="#6f8fb0" text-anchor="end">after Nir Eyal, Hooked</text>
+</svg>

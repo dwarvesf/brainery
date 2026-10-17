@@ -21,6 +21,8 @@ redirect:
 
 Two Software 101 notes ask one question: which software lifecycle fits a given project? One compares Waterfall with the iterative approach, the other compares Waterfall with Agile. Han curated them into this page. The original notes name no author and no source.
 
+![Waterfall releases once at the end, iterative delivery releases in small parts {#fig-release}](assets/software-lifecycle-fig1-release.svg 'When the customer gets the software. Waterfall releases everything at once, iterative delivery releases small parts as it goes.')
+
 ## Waterfall or iterative
 
 Both approaches follow a well-defined process with specific details. They differ in when they fit and what they risk.
@@ -55,6 +57,8 @@ Waterfall assumes a perfect situation: clearly defined requirements and minimal 
 
 The result is low-quality products and unhappy customers.
 
+![A changed requirement sends Waterfall work back, with five costs](assets/software-lifecycle-fig2-rework.svg 'Where Waterfall breaks. A changed requirement sends developers back to redo work, and the notes name five costs.')
+
 ## Where Agile falls short
 
 Agile is a good approach for **smaller projects**, and it has disadvantages too:
@@ -66,3 +70,5 @@ Agile is a good approach for **smaller projects**, and it has disadvantages too:
 ## No perfect method
 
 No "perfect method" or "perfect way" exists to develop software. Anyone who says Agile always beats Waterfall, or the reverse, is not looking at real projects. The better question is which approach fits this circumstance, this environment and this project, so that the software is good and meets the customer's expectations. That approach might be Waterfall, Agile or something else.
+
+![Project conditions and which lifecycle the notes say each one favors {#fig-fit .live}](assets/software-lifecycle-fig3-fit.svg 'Match the lifecycle to the project. Each row is a condition the notes name; a dot means the notes say nothing about that lifecycle.')

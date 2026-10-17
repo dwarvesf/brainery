@@ -22,6 +22,8 @@ redirect:
 
 Three short team notes cover Nir Eyal's _Hooked: How to Build Habit-Forming Products_: the four phases of the Hook Model, a checklist of six hook elements, and a comparison with the AARRR funnel. Han curated them into this page. The wording is restated in short form, and the ideas belong to Eyal.
 
+![The four Hook phases as a loop, with investment feeding the next trigger {#fig-hook-loop .live}](assets/hook-model-fig1-loop.svg 'One lap of the Hook Model. Each phase feeds the next, and the investment loads the next trigger.')
+
 ## The Hook Model in four phases
 
 The Hook Model is a four-phase process that companies use to form a user's habit. The phases run in a loop: trigger, action, variable reward, investment.
@@ -85,6 +87,8 @@ AARRR is a strategy for building the user journey. The Hook Model is a process f
 | Step 3          | Retention                          | Variable reward                      |
 | Step 4          | Referral                           | Investment                           |
 | Step 5          | Revenue                            | none                                 |
+
+![AARRR's five steps above the Hook Model's four, with activation and action highlighted](assets/hook-model-fig2-aarrr.svg 'AARRR and the Hook Model line up step by step. Activation meets action, and revenue has no Hook step.')
 
 AARRR focuses on bringing in new users. The Hook Model focuses on keeping current customers using the product. Both start by getting users to engage and steering them toward an intended action, so they look alike until the action step:
 
