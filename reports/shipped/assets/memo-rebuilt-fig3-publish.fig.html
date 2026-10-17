@@ -1,0 +1,76 @@
+<figure class="fig"><div class="fig-body">
+<svg data-fk="graph" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 468" role="group" aria-label="Fig. 3: one merged post through the two-plane publish, with what each lane replaced" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid3" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/></pattern>
+    <marker id="ar3" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#c3d7ea"/></marker>
+    <marker id="am3" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#e8c56a"/></marker>
+  </defs>
+  <rect width="760" height="468" fill="#12395f"/>
+  <rect width="760" height="468" fill="url(#grid3)"/>
+  <rect x="0.5" y="0.5" width="759" height="467" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 3 · ONE POST, TWO PUBLISHERS</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">LIVE: WALK EITHER LANE</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+<g  data-fk-node="merge" data-tip="A post merges in brainery. The vault holds text; images go to the memo-vault-assets bucket after merge." data-animate="sequence" data-step="0">
+  <rect x="250" y="52" width="260" height="64" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="262" y="73" font-size="12" fill="#6f8fb0">1</text>
+  <text x="282" y="72" font-size="9" letter-spacing="1.5" fill="#6f8fb0">BRAINERY MERGE</text>
+  <text x="282" y="90" font-size="10" fill="#e8f1fa">a post lands in the vault repo</text>
+  <text x="282" y="105" font-size="10" fill="#a7c0d9">text only; media goes to R2</text>
+</g>
+<g  data-fk-node="dispatch" data-tip="publish-on-push mints a short-lived token and dispatches the data plane and the frontend, both content-only." data-animate="sequence" data-step="1">
+  <rect x="250" y="138" width="260" height="64" fill="#21466a" stroke="#e8c56a" stroke-width="1.5"/>
+  <text x="262" y="159" font-size="12" fill="#6f8fb0">2</text>
+  <text x="282" y="158" font-size="9" letter-spacing="1.5" fill="#e8c56a">DISPATCH</text>
+  <text x="282" y="176" font-size="10" fill="#e8f1fa">publish-on-push mints one bot token</text>
+  <text x="282" y="191" font-size="10" fill="#a7c0d9">and starts both repos</text>
+</g>
+<g  data-fk-node="plane" data-tip="foundation-workers compiles the vault and writes D1 and R2. It never builds or deploys the frontend." data-animate="sequence" data-step="2">
+  <rect x="30" y="232" width="300" height="72" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="42" y="253" font-size="12" fill="#6f8fb0">3</text>
+  <text x="62" y="252" font-size="9" letter-spacing="1.5" fill="#6f8fb0">DATA PLANE · FOUNDATION-WORKERS</text>
+  <text x="62" y="270" font-size="10" fill="#e8f1fa">publish.sh: compile the vault</text>
+  <text x="62" y="285" font-size="10" fill="#a7c0d9">seed D1, upload to R2, keep memo-api</text>
+</g>
+<g  data-fk-node="front" data-tip="foundation-apps builds the static export and deploys the df-memo Worker." data-animate="sequence" data-step="2">
+  <rect x="430" y="232" width="300" height="72" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="442" y="253" font-size="12" fill="#6f8fb0">4</text>
+  <text x="462" y="252" font-size="9" letter-spacing="1.5" fill="#6f8fb0">FRONTEND · FOUNDATION-APPS</text>
+  <text x="462" y="270" font-size="10" fill="#e8f1fa">Deploy memo, target production</text>
+  <text x="462" y="285" font-size="10" fill="#a7c0d9">Next.js static export, 3,078 pages</text>
+</g>
+<g  data-fk-node="store" data-tip="D1 and R2 hold the search index, menus, identity map and writer rows. df-memo-api serves them." data-animate="sequence" data-step="3">
+  <rect x="30" y="338" width="300" height="56" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="44" y="358" font-size="9" letter-spacing="1.5" fill="#6f8fb0">D1 + R2 + MEMO-API</text>
+  <text x="44" y="376" font-size="10" fill="#e8f1fa">search, menus, identity, writer rows</text>
+</g>
+<g  data-fk-node="site" data-tip="The df-memo Worker serves the static pages and forwards /api over a service binding." data-animate="sequence" data-step="3">
+  <rect x="430" y="338" width="300" height="56" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="444" y="358" font-size="9" letter-spacing="1.5" fill="#6f8fb0">DF-MEMO WORKER</text>
+  <text x="444" y="376" font-size="10" fill="#e8f1fa">serves the pages, routes /api</text>
+</g>
+<g  data-group="retired" data-tip="What this lane replaced: the Elixir compiler and the DuckDB parquet, which the TypeScript build and D1 took over.">
+  <rect x="30" y="412" width="300" height="44" fill="none" stroke="#68839d" stroke-width="1" stroke-dasharray="5 4"/>
+  <text x="44" y="432" font-size="9" letter-spacing="1.5" fill="#6f8fb0">WAS</text>
+  <text x="44" y="450" font-size="10" fill="#e8f1fa">Elixir compiler, DuckDB, parquet in git</text>
+</g>
+<g  data-group="retired" data-tip="What this lane replaced: a Railway container with nginx, then a Cloudflare Pages project.">
+  <rect x="430" y="412" width="300" height="44" fill="none" stroke="#68839d" stroke-width="1" stroke-dasharray="5 4"/>
+  <text x="444" y="432" font-size="9" letter-spacing="1.5" fill="#6f8fb0">WAS</text>
+  <text x="444" y="450" font-size="10" fill="#e8f1fa">Railway container, then Pages</text>
+</g>
+<line x1="380" y1="116" x2="380" y2="136" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#ar)"  data-fk-edge="merge dispatch" data-animate="draw" data-step="0.5"/>
+<path d="M 330 202 L 330 218 L 180 218 L 180 230" fill="none" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#ar3)" data-fk-edge="dispatch plane" data-animate="draw" data-step="1.5"/>
+<path d="M 430 202 L 430 218 L 580 218 L 580 230" fill="none" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#ar3)" data-fk-edge="dispatch front" data-animate="draw" data-step="1.5"/>
+<line x1="180" y1="304" x2="180" y2="336" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#ar)"  data-fk-edge="plane store" data-animate="draw" data-step="2.5"/>
+<line x1="580" y1="304" x2="580" y2="336" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#ar)"  data-fk-edge="front site" data-animate="draw" data-step="2.5"/>
+<line x1="430" y1="366" x2="332" y2="366" stroke="#c3d7ea" stroke-width="1.5" stroke-dasharray="5 4" marker-end="url(#ar3)" data-fk-edge="site store" data-fk-part="binding" data-animate="draw" data-step="3.5"/>
+<text x="381" y="358" font-size="9" fill="#a7c0d9" text-anchor="middle" data-fk-part="binding" data-tip="The df-memo Worker reaches df-memo-api over a service binding, so it needs no database binding of its own.">service binding</text>
+</svg>
+<div data-fk-controls hidden>
+<span data-fk-walk="merge dispatch plane store" data-fk-label="Follow the data plane"></span>
+<span data-fk-walk="merge dispatch front site" data-fk-label="Follow the frontend"></span>
+<span data-fk-toggle="retired" data-fk-label="Show what each lane replaced" data-fk-note="The dashed boxes mark the v1 parts that these two lanes retired."></span>
+<span data-fk-hint="Hover a box to light its arrows, or walk one lane from the merge to the store or the site."></span>
+</div>
+</div></figure>

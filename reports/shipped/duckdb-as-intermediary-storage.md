@@ -1,6 +1,6 @@
 ---
-draft: false
-title: DuckDB as intermediary storage
+draft: true
+title: "DuckDB as intermediary storage (build note)"
 description: "Learn how we use DuckDB as a flexible and efficient intermediary storage solution in the Memo content pipeline."
 date: 2025-05-20
 authors:
@@ -9,8 +9,7 @@ tags:
   - memo
   - duckdb
   - build-log
-redirect:
-  - /IozGyw
+redirect: []
 slug: duckdb-as-intermediary-storage
 ---
 
@@ -22,15 +21,15 @@ All the processed content is stored in a DuckDB table named `vault`. Here's a lo
 
 ```sql
 CREATE TABLE vault(
-    file_path VARCHAR, 
-    md_content VARCHAR, 
-    tags VARCHAR[], 
-    title VARCHAR, 
-    date DATE, 
-    description VARCHAR, 
-    authors VARCHAR[], 
-    estimated_tokens BIGINT, 
-    embeddings_openai FLOAT[1536], 
+    file_path VARCHAR,
+    md_content VARCHAR,
+    tags VARCHAR[],
+    title VARCHAR,
+    date DATE,
+    description VARCHAR,
+    authors VARCHAR[],
+    estimated_tokens BIGINT,
+    embeddings_openai FLOAT[1536],
     total_tokens BIGINT,
     hide_frontmatter BOOLEAN,
     hide_title BOOLEAN,
@@ -48,12 +47,12 @@ CREATE TABLE vault(
 
 This schema is designed to capture a wide range of information about each content item:
 
-- **File Metadata:** Essential details like the file path, raw Markdown content, title, description, date, and authors.
+- **File metadata:** Essential details like the file path, raw Markdown content, title, description, date, and authors.
 - **Organization:** Tags and other categorizations to help structure and find content.
-- **Display Settings:** Flags that control visibility and options for pinning or featuring content.
-- **AI-Processed Data:** Includes generated embeddings (both OpenAI and custom), compressed content, and token counts for search and analysis.
-- **Integration Flags:** Boolean values that control whether content should be deployed to permanent storage or minted as an NFT.
-- **Historical Data:** Tracks previous file paths to maintain references even when files are renamed or moved.
+- **Display settings:** Flags that control visibility and options for pinning or featuring content.
+- **AI-Processed data:** Includes generated embeddings (both OpenAI and custom), compressed content, and token counts for search and analysis.
+- **Integration flags:** Boolean values that control whether content should be deployed to permanent storage or minted as an NFT.
+- **Historical data:** Tracks previous file paths to maintain references even when files are renamed or moved.
 
 ![](assets/duckdb-intermediary.png)
 

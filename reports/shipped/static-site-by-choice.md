@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Build a static site by choice
 description: "Learn why we chose a static site architecture for the Memo platform and how Next.js facilitates dynamic page rendering and content processing."
 date: 2025-05-20
@@ -10,8 +10,7 @@ tags:
   - static-site
   - nextjs
   - build-log
-redirect:
-  - /xh2uZA
+redirect: []
 slug: static-site-by-choice
 ---
 
@@ -92,12 +91,12 @@ tags: ["tag1", "tag2"]
 
 Here are some optional frontmatter fields you can use:
 
-| Field         | Purpose                                    | Example                        |
-| ------------- | ------------------------------------------ | ------------------------------ |
-| `pinned`      | Marks a note for display in a pinned section.               | `pinned: true`                 |
+| Field         | Purpose                                            | Example                        |
+| ------------- | -------------------------------------------------- | ------------------------------ |
+| `pinned`      | Marks a note for display in a pinned section.      | `pinned: true`                 |
 | `draft`       | Indicates a note is not yet ready for publication. | `draft: true`                  |
-| `description` | Provides a short description for search results.       | `description: "A guide to..."` |
-| `image`       | Specifies a featured image for the note.                | `image: "/assets/image.png"`   |
+| `description` | Provides a short description for search results.   | `description: "A guide to..."` |
+| `image`       | Specifies a featured image for the note.           | `image: "/assets/image.png"`   |
 
 ## Features
 

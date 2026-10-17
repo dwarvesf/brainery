@@ -1,6 +1,6 @@
 ---
-draft: false
-title: Onchain permanent storage
+draft: true
+title: "Onchain permanent storage (build note)"
 description: "Explore how the Memo platform utilizes Arweave for permanent content storage and blockchain integration for NFT minting."
 date: 2025-05-20
 authors:
@@ -12,8 +12,7 @@ tags:
   - nft
   - base
   - build-log
-redirect:
-  - /IW9O6A
+redirect: []
 slug: onchain-permanent-storage
 ---
 
@@ -27,11 +26,11 @@ Storing content onchain significantly reduces future maintenance efforts and cos
 
 The Memo platform allows selected content to be marked for permanent storage on Arweave or for minting as an NFT. Here's a brief overview of these processes:
 
-1. **Arweave Storage:** Content intended for permanent storage is marked with `should_deploy_perma_storage: true` in its frontmatter. The `deploy-arweave.yml` workflow identifies these files and uploads them. After a successful upload, the `perma_storage_id` field in DuckDB is updated with the Arweave transaction ID.
+1. **Arweave storage:** Content intended for permanent storage is marked with `should_deploy_perma_storage: true` in its frontmatter. The `deploy-arweave.yml` workflow identifies these files and uploads them. After a successful upload, the `perma_storage_id` field in DuckDB is updated with the Arweave transaction ID.
 
-2. **NFT Minting:** Content designated for NFT minting is marked with `should_mint: true` in its frontmatter. The `add-mint-post.yml` workflow processes these files for minting. Upon successful minting, the `token_id` and `minted_at` fields are updated in DuckDB.
+2. **NFT minting:** Content designated for NFT minting is marked with `should_mint: true` in its frontmatter. The `add-mint-post.yml` workflow processes these files for minting. Upon successful minting, the `token_id` and `minted_at` fields are updated in DuckDB.
 
-3. **Database Updates:** Both Arweave storage and NFT minting operations trigger updates in the DuckDB database. The updated database is then exported to a parquet file, which in turn triggers rebuilds of the web application to reflect the changes.
+3. **Database updates:** Both Arweave storage and NFT minting operations trigger updates in the DuckDB database. The updated database is then exported to a parquet file, which in turn triggers rebuilds of the web application to reflect the changes.
 
 ![](assets/arweave-flow.png)
 
@@ -48,16 +47,16 @@ The integration with Arweave allows for the persistent and decentralized archiva
 
 We select content for Arweave storage by using specific frontmatter flags within the Markdown files:
 
-| Flag                          | Type    | Description                                        |
-| ----------------------------- | ------- | -------------------------------------------------- |
-| `should_deploy_perma_storage` | Boolean | When set to `true`, this marks the file for Arweave deployment. |
+| Flag                          | Type    | Description                                                                                          |
+| ----------------------------- | ------- | ---------------------------------------------------------------------------------------------------- |
+| `should_deploy_perma_storage` | Boolean | When set to `true`, this marks the file for Arweave deployment.                                      |
 | `perma_storage_id`            | String  | This field is automatically populated with the Arweave transaction ID after a successful deployment. |
 
 The deployment workflow efficiently queries the DuckDB database to find files that meet the criteria for Arweave deployment:
 
 ```sql
-SELECT STRING_AGG(file_path, ',') 
-FROM 'db/vault.parquet' 
+SELECT STRING_AGG(file_path, ',')
+FROM 'db/vault.parquet'
 WHERE should_deploy_perma_storage = true AND perma_storage_id IS NULL;
 ```
 
@@ -108,10 +107,10 @@ Content is stored on Arweave as a JSON object. This structure includes the conte
 
 Each Arweave transaction includes specific tags. These tags improve discoverability and help verify the content:
 
-| Tag          | Description                                       |
-|--------------|---------------------------------------------------|
+| Tag            | Description                                         |
+| -------------- | --------------------------------------------------- |
 | `Content-Type` | Set to "application/json" for content transactions. |
-| `digest`       | The SHA-256 hash of the content for verification.    |
+| `digest`       | The SHA-256 hash of the content for verification.   |
 
 Images uploaded separately also receive appropriate `Content-Type` tags based on their file extension.
 
@@ -138,10 +137,10 @@ The NFT minting system allows selected content to be tokenized on a blockchain. 
 
 To mark content for NFT minting, you need to set two specific flags in the Markdown file's frontmatter:
 
-| Flag | Purpose | Required Value |
-| -----| ------- | -------------- |
+| Flag                          | Purpose                                          | Required Value |
+| ----------------------------- | ------------------------------------------------ | -------------- |
 | `should_deploy_perma_storage` | Ensures permanent storage on Arweave is enabled. | `true`         |
-| `should_mint`                 | Enables the content for NFT minting.                  | `true`         |
+| `should_mint`                 | Enables the content for NFT minting.             | `true`         |
 
 Here's an example of how the frontmatter would look:
 
@@ -172,11 +171,11 @@ The `add-mint-post.ts` script manages the technical steps for NFT minting. For e
 
 After the minting process is successfully completed, the frontmatter of the document is updated with the following fields:
 
-| Field | Description | Example Value |
-|-------|-------------|----------------|
-| `perma_storage_id` | The transaction ID from Arweave, confirming permanent storage. | `"XYZ123..."`    |
-| `minted_at`        | The date when the NFT was successfully minted.           | `"2023-04-01"`   |
-| `token_id`         | The unique identifier for the minted NFT on the blockchain. | `"42"`           |
+| Field              | Description                                                    | Example Value  |
+| ------------------ | -------------------------------------------------------------- | -------------- |
+| `perma_storage_id` | The transaction ID from Arweave, confirming permanent storage. | `"XYZ123..."`  |
+| `minted_at`        | The date when the NFT was successfully minted.                 | `"2023-04-01"` |
+| `token_id`         | The unique identifier for the minted NFT on the blockchain.    | `"42"`         |
 
 These updated fields provide a way to verify that a document has been both permanently stored on Arweave and minted as an NFT. You can access the content directly on Arweave using the URL format: `https://{perma_storage_id}.arweave.net`.
 

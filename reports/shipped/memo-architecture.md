@@ -1,6 +1,6 @@
 ---
-draft: false
-title: Memo architecture
+draft: true
+title: "Memo architecture (build note)"
 description: "Technical architecture of the Memo platform: components, data flow, and technologies for processing, storing, and rendering content."
 date: 2025-05-20
 authors:
@@ -9,8 +9,7 @@ tags:
   - memo
   - architecture
   - build-log
-redirect:
-  - /xjy9aQ
+redirect: []
 slug: memo-architecture
 ---
 
@@ -23,14 +22,14 @@ This document provides a quick overview of the Memo platform's architecture and 
 The development environment and key technologies for Memo include:
 
 - **Devbox:** Provides isolated, reproducible environments with Nix.
-- **Git Submodules:** Manages content repositories and dependencies.
+- **Git submodules:** Manages content repositories and dependencies.
 - **Elixir:** Powers the content processing pipeline.
 - **Node.js and PNPM:** Used for the web application.
 - **DuckDB:** Our choice for data storage and querying.
 - **Git:** Essential for version control and tracking content history.
 - **Makefile:** Provides convenient commands for common development tasks.
 - **Arweave:** Used for permanent, decentralized content storage.
-- **Base Blockchain:** Underpins NFT minting and onchain interactions.
+- **Base blockchain:** Underpins NFT minting and onchain interactions.
 - **RainbowKit:** Facilitates wallet connections for Web3 features.
 
 ## Component diagrams
@@ -49,13 +48,13 @@ Within this system, we handle a few key types of files and data sources:
 
 The architecture functions like a pipeline, with each component playing a specific role:
 
-| Component | Purpose | Key Files |
-|------------|---------|-----------|
-| **Content Sources**   | Original Markdown files and assets from Obsidian    | Git submodules, markdown files |
-| **Processing Pipeline** | Extracts content, processes metadata, generates embeddings | `export_duckdb.ex`        |
-| **Storage Layer**     | Maintains content database, exports to parquet      | `db/schema.sql`, `vault.parquet` |
-| **Web Application**   | Renders content with dynamic routing and search     | `[...slug].tsx`           |
-| **Deployment**        | Automates building and publishing of content      | GitHub workflows          |
+| Component               | Purpose                                                    | Key Files                        |
+| ----------------------- | ---------------------------------------------------------- | -------------------------------- |
+| **Content Sources**     | Original Markdown files and assets from Obsidian           | Git submodules, markdown files   |
+| **Processing Pipeline** | Extracts content, processes metadata, generates embeddings | `export_duckdb.ex`               |
+| **Storage Layer**       | Maintains content database, exports to parquet             | `db/schema.sql`, `vault.parquet` |
+| **Web Application**     | Renders content with dynamic routing and search            | `[...slug].tsx`                  |
+| **Deployment**          | Automates building and publishing of content               | GitHub workflows                 |
 
 ## Content processing pipeline
 

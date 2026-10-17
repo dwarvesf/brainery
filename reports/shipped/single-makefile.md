@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Streamline development with a single Makefile
 description: "Discover how a unified Makefile simplifies the development workflow for the Memo platform, standardizing toolchain and speeding up common tasks."
 date: 2025-05-21
@@ -8,8 +8,7 @@ authors:
 tags:
   - memo
   - makefile
-redirect:
-  - /7dL67w
+redirect: []
 slug: single-makefile
 ---
 
@@ -23,14 +22,14 @@ This Makefile standardizes our toolchain and orchestrates various aspects of bui
 
 The Makefile provides a set of key commands to streamline common development tasks:
 
-| Command | Description | Implementation |
-| -------- | ----------- | --------------- |
-| `make setup`         | Initializes the environment.    | Installs Devbox and creates the content directory.                |
-| `make lib-setup`     | Installs Elixir dependencies.  | Runs Hex and Rebar setup, then fetches dependencies.               |
-| `make fetch`         | Fetches content repositories.   | Executes the Elixir fetch process and the `git-fetch.sh` script.                       |
-| `make build`         | Builds the entire application. | Installs dependencies, exports markdown, and builds the Next.js application.  |
+| Command              | Description                    | Implementation                                                                  |
+| -------------------- | ------------------------------ | ------------------------------------------------------------------------------- |
+| `make setup`         | Initializes the environment.   | Installs Devbox and creates the content directory.                              |
+| `make lib-setup`     | Installs Elixir dependencies.  | Runs Hex and Rebar setup, then fetches dependencies.                            |
+| `make fetch`         | Fetches content repositories.  | Executes the Elixir fetch process and the `git-fetch.sh` script.                |
+| `make build`         | Builds the entire application. | Installs dependencies, exports markdown, and builds the Next.js application.    |
 | `make run`           | Runs the development server.   | Exports markdown, generates indexes, and starts the Next.js development server. |
-| `make duckdb-export` | Exports data to DuckDB.        | Removes the old database file and runs the DuckDB export process.                |
+| `make duckdb-export` | Exports data to DuckDB.        | Removes the old database file and runs the DuckDB export process.               |
 
 ## Project structure
 
@@ -38,7 +37,7 @@ The development environment primarily interacts with these key elements:
 
 1. **`content/`**: This directory holds our markdown files and is ignored in Git.
 2. **`lib/obsidian-compiler/`**: Contains the Elixir code responsible for processing Obsidian markdown.
-3. **Next.js Application**: This is the web application that displays our content.
+3. **Next.js application**: This is the web application that displays our content.
 4. **`vault.duckdb`**: The database file used for storing our processed content.
 
 ## Working with the development environment

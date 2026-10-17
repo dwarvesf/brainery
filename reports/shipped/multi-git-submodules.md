@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Managing content with Git submodules
 description: "Learn how we use Git submodules to link and manage multiple content repositories in the Memo platform."
 date: 2025-05-20
@@ -10,8 +10,7 @@ tags:
   - git
   - submodules
   - build-log
-redirect:
-  - /ntTPfA
+redirect: []
 slug: multi-git-submodules
 ---
 
