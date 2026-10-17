@@ -1,10 +1,9 @@
 ---
 draft: true
-title: Note
+title: Link to the 16 personality types reference
 description: Discover detailed insights into the 16 personality types, helping you understand yourself and others better through clear descriptions and practical advice.
-date: null
-redirect:
-  - /jcmP3g
+date: 2026-08-27
+redirect: []
 ---
 
 https://www.16personalities.com/personality-types

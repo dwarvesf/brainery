@@ -1,12 +1,11 @@
 ---
-draft: false
+draft: true
 title: Extraverted Sensing (Se)
 description: Discover how Se types like ESTPs and ESFPs seek new sensory experiences and excel in hands-on activities, focusing on present details and physical appearances.
-date: null
+date: 2026-08-27
 URL: "https://drive.google.com/file/d/1n8ID_iXqzs6cMZlRS0Su7lQUhrfd7khh/view?usp=sharing"
 tag: function, mbti
-redirect:
-  - /nMQUQw
+redirect: []
 ---
 
 Book: My True Type, page 86 - 91
