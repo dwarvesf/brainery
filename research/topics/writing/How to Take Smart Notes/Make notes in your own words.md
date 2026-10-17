@@ -1,16 +1,13 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: "Make notes in your own words (reading note)"
+description: "When we are reading a text, it can be difficult to identify and remember what is most important."
+date: 2026-10-18
 tags:
   - note
   - writing
   - zettelkasten
-redirect:
-  - /uMlNDw
-  - /research/topics/zettelkasten/how-to-take-smart-notes/make-notes-in-your-own-words
-  - /vHzmDQ
+redirect: []
 ---
 
 When we are reading a text, it can be difficult to identify and remember what is most important. Especially when reading theoretical texts, we must balance our short-term and long-term memories so that we can focus on what is truly important.
