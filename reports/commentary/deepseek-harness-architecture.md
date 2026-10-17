@@ -1,5 +1,5 @@
 ---
-title: "DeepSeek Harness, dissected"
+title: "DeepSeek harness, dissected"
 description: "An architecture read of dsh, DeepSeek's new agent harness: the plugin tree, the patch-layer boot, the log-first session model, and what it means for a Claude Code shop."
 date: 2026-08-18
 toc: true
@@ -126,5 +126,5 @@ For a team already running Claude Code: keep your cockpit, read their session-lo
 
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness), the repository and its `docs/architecture.md`, `docs/cordis-primer.md`, `docs/agent-lifecycle.md`, `docs/tool-execution-pipeline.md`
 - [Cordis](https://github.com/cordiverse/cordis), the plugin framework underneath dsh
-- [Agent Client Protocol](https://agentclientprotocol.com), the editor-integration protocol dsh speaks
+- [Agent client protocol](https://agentclientprotocol.com), the editor-integration protocol dsh speaks
 - [E2B](https://e2b.dev), the remote sandbox behind the `fs-e2b` and `subprocess-e2b` providers
