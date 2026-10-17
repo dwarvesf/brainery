@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 🧊 ICY Token
 short_title: ICY
 description: Discover how ICY, our community token, rewards contributions and builds engagement within the Dwarves ecosystem. Learn how you can earn, use, and benefit from this innovative web3 experiment.
@@ -9,8 +10,7 @@ tags:
   - token
   - handbook
   - icy
-redirect:
-  - /yDoKEw
+redirect: []
 ---
 
 ## What is ICY? 🧊
