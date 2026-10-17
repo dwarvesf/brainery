@@ -26,7 +26,7 @@ In order to understand the importance of CI, it's helpful first to discuss some 
 
 Without a robust CI pipeline, a disconnect between the engineering team and the rest of the org can form. Communication between product and engineering can be cumbersome. Engineering becomes a black box which the rest of the team inputs requirements and features and maybe gets expected results back. It will make it harder for engineering to estimate time of delivery on requests because the time to integrate new changes becomes an unknown risk.
 
-## CI at dwarves
+## CI at Dwarves
 
 - Write tests, mostly integration: we don't do TDD, but we do write necessary unit tests, and lots of integration tests (because they ensure everything works as a whole), both kind of tests should be able to run on CI
 - Pull requests and code review: our CI system handles both individual commit pushs and PRs, in case of PRs - we create a separated deployment preview (for web apps), so everyone can visit and verify if everything works as intended
@@ -41,7 +41,7 @@ Continuous integration, deployment, and delivery are three phases of an automate
 
 Development teams have seen enormous benefits from implementing continuous integration (CI) and continuous delivery (CD) as well as continuous deployment practices. By setting up a CI/CD pipeline, teams can merge small changes often, release code to production frequently, and feel confident doing so because any changes trigger a build that is tested automatically before being released.
 
-### CD at dwarves
+### CD at Dwarves
 
 We achieve an efficient deployment pipeline by following these best practices:
 
