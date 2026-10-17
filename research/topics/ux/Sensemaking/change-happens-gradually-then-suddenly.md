@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Change happens gradually then suddenly
+title: "Change happens gradually then suddenly (reading note)"
 description: Discover how long-term change unfolds through subtle signals and storytelling, and learn why we often underestimate its impact over ten years despite early weak signs.
 date: 2026-08-27
 redirect:

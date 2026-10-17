@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Methods to overcome the limitations of personas
+title: "Methods to overcome the limitations of personas (reading note)"
 description: Explore the limits of traditional personas and discover alternatives like characters, thinking styles, and Jobs to be Done that provide deeper user insights and richer context for product design.
 date: 2026-08-27
 redirect:

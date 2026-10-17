@@ -1,6 +1,6 @@
 ---
 draft: false
-title: ¶ persona
+title: "Persona (reading note)"
 description: User personas help product teams understand user needs, behaviors, and goals by creating realistic profiles that guide design and improve user experience in marketing and development.
 date: 2026-08-27
 redirect:

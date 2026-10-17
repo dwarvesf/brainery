@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Measuring behaviour changes behaviour
+title: "Measuring behaviour changes behaviour (reading note)"
 description: Measuring behavior often changes it, as people and organizations adjust actions to improve scores, making metrics unreliable and potentially harming long-term goals and trust.
 date: 2026-08-27
 redirect:

@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Personas alone can t help teams achieve empathy
+title: "Personas alone can't help teams achieve empathy (reading note)"
 description: Discover why personas alone may not build true user empathy in design teams and how relying on them can create a false sense of user understanding in product development.
 date: 2026-08-27
 redirect:

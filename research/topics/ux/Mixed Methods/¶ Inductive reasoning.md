@@ -1,6 +1,6 @@
 ---
 draft: false
-title: ¶ inductive reasoning
+title: "Inductive reasoning (reading note)"
 description: Inductive research develops new theories by observing limited data, linking ideas creatively to form hypotheses that help predict future events or explain phenomena.
 date: 2026-08-27
 redirect:

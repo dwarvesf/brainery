@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Personas start with qualitative research
+title: "Personas start with qualitative research (reading note)"
 description: Discover how effective user personas emerge from qualitative research and sensemaking to capture rich user experiences, helping teams design better products by focusing on real user needs and behaviors.
 date: 2026-08-27
 redirect:
