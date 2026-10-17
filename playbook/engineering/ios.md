@@ -4,6 +4,8 @@ description: Best practices for iOS development, from project setup and architec
 date: null
 redirect:
   - /Fzxk4w
+authors:
+  - tieubao
 ---
 
 Avoid reinventing the wheel by following these guidelines.
@@ -250,7 +252,7 @@ These are the idiomatic ways for components to notify others about things:
 - **Delegation:** _(one-to-one)_ Apple uses this a lot (some would say, too much). Use when you want to communicate stuff back e.g. from a modal view.
 - **Callback blocks:** _(one-to-one)_ Allow for a more loose coupling, while keeping related code sections close to each other. Also scales better than delegation when there are many senders.
 - **Notification center:** _(one-to-many)_ Possibly the most common way for objects to emit “events” to multiple observers. Very loose coupling , notifications can even be observed globally without reference to the dispatching object.
-- **Key-Value Observing (KVO):** _(one-to-many)_ Does not require the observed object to explicitly “emit events” as long as it is _Key-Value Coding (KVC)_ compliant for the observed keys (properties). Usually not recommended due to its implicit nature and the cumbersome standard library API.
+- **Key-Value observing (KVO):** _(one-to-many)_ Does not require the observed object to explicitly “emit events” as long as it is _Key-Value Coding (KVC)_ compliant for the observed keys (properties). Usually not recommended due to its implicit nature and the cumbersome standard library API.
 - **Signals:** _(one-to-many)_ The centerpiece of [ReactiveCocoa][reactivecocoa-github], they allow chaining and combining to your heart's content, thereby offering a way out of "callback hell".
 
 ### Models

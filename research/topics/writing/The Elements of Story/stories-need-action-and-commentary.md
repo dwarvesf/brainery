@@ -5,6 +5,8 @@ description: Learn how balancing strong action with insightful commentary can cr
 date: 2026-08-27
 redirect:
   - /kOdcWw
+authors:
+  - tieubao
 ---
 
 A story needs both action and commentary, not just one or the other. Action propels the story forward, while commentary slows it down. The deft application of each is needed: movement and explanation; action with interpretation.

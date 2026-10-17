@@ -3,6 +3,8 @@ draft: false
 title: "Ideas are networks (reading note)"
 description: "Ideas are networks: they emerge as clusters of neurons firing together to form a conscious thought."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - idea
   - innovation

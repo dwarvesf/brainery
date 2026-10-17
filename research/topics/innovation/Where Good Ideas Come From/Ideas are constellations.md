@@ -3,6 +3,8 @@ draft: false
 title: "Ideas are constellations (reading note)"
 description: "Ideas are not self-contained, discrete objects."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - decontextualizing
   - idea

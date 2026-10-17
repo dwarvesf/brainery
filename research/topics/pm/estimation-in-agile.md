@@ -1,8 +1,10 @@
 ---
 draft: false
-title: Estimation in agile
+title: "Estimation in agile: story points, time and planning poker"
 description: Learn how to estimate work using story points, time, and planning poker for accurate project planning, with tips on improving quality through adjusted estimates and workflow practices.
 date: 2016-02-12
+authors:
+  - tieubao
 tags:
   - agile
 redirect:

@@ -1,11 +1,13 @@
 ---
 draft: false
-title: Cold start problem
+title: "The cold start problem in serverless functions and how to keep them warm"
 description: Learn how to reduce serverless function cold start delays by keeping containers warm with scheduled requests, improving performance for faster response times and better user experience.
 date: 2022-03-28
 github_id: zlatanpham
 redirect:
   - /roHRZw
+authors:
+  - zlatanpham
 ---
 
 One of the biggest concern against Serverless Function is the problem of cold start. The first cold start happens when the first request comes in after deployment. After that request is handled, the instance stays alive to be reused by the upcoming requests. If the function, then, has not been invoked in a certain amount of time, it will change back to the cold state. In particular, the invocation steps are:

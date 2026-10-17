@@ -1,8 +1,10 @@
 ---
 draft: false
-title: Fabric Hyperledger architecture explanation
+title: "Hyperledger Fabric architecture for permissioned enterprise networks"
 description: "Learn how Hyperledger's open source blockchain frameworks and tools enable secure, permissioned enterprise networks with smart contracts, distributed ledgers, and flexible governance models."
 date: 2019-05-15
+authors:
+  - tieubao
 tags:
   - architecture
   - blockchain
@@ -88,11 +90,11 @@ Base on the properties of a peer, cryptography constructing a pair of public and
 - **Root CAs**: CAs as root
 - **Intermediate CAs**: issued by root CA.
 - **Fabric CA**: is a private root CA provider capable of managing digital identities if Fabric participants.
-- **Certificate Revocation List(CRL)**: a list of references to certificates that a CA knows to be revoked.
+- **Certificate revocation List(CRL)**: a list of references to certificates that a CA knows to be revoked.
 
 ![](assets/fabric-hyperledger-architecture-explanation_acecde099998e363519533076028fb4e_md5.webp)
 
-### MSP (Membership Service Provider)
+### MSP (membership service provider)
 
 Identifies which Root CAs and Intermediate CAs are trusted to define the members of a trust domain. Also identify specific roles an actor might play either within the scope of the organization the MSP represents, defining access privileges in the context of a network and channel.
 

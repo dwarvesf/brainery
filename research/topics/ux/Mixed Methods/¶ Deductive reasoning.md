@@ -5,6 +5,8 @@ description: Deductive research tests theories by gathering data to confirm or r
 date: 2026-08-27
 redirect:
   - /1brZIw
+authors:
+  - tieubao
 ---
 
 In contrast to [[¶ Inductive reasoning | inductive research]], deductive research seeks to test a theory or hypothesis based on the observation of data. It begins with the general theory, and gathers data in order to validate or invalidate it. It necessarily leads to a concrete conclusion: the proposition is either true or it is false. Deductive research cannot increase human knowledge; it can only determine if existing knowledge is accurate. It can't be used to predict future events, or to provide insight into unobserved phenomena.

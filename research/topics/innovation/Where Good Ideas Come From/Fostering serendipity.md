@@ -3,6 +3,8 @@ draft: false
 title: "Fostering serendipity (reading note)"
 description: "According to Steven Johnson, the word “serendipity” comes from to us from a Persian fairy tale, by way of Horace Walpole."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - innovation
 redirect:

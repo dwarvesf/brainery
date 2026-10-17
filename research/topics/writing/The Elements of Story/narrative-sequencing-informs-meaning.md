@@ -5,6 +5,8 @@ description: Learn how the sequence of information in a story shapes meaning and
 date: 2026-08-27
 redirect:
   - /1T1VWw
+authors:
+  - tieubao
 ---
 
 The sequence of information in any story or narrative contributes to the overall meaning of the text. The impact of a fact or an insight can be amplifed or diminished depending on what comes before or after.

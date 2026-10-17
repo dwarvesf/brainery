@@ -5,6 +5,8 @@ description: "Four open questions for DAOs that own NFT characters: how much to 
 date: 2026-08-27
 redirect:
   - /Gjge0A
+authors:
+  - tieubao
 ---
 
 ### Current problem

@@ -3,6 +3,8 @@ draft: false
 title: "Established organizations tend to optimize for inertia (reading note)"
 description: "Large, established organizations evolved to succeed in a particular context."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - innovation
   - organization

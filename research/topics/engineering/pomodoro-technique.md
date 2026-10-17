@@ -1,11 +1,13 @@
 ---
 draft: false
-title: Pomodoro technique
+title: "The Pomodoro technique for focused work"
 description: Learn how the Pomodoro Technique boosts productivity by breaking work into focused 25-minute intervals with short breaks, helping you manage time and reduce mental fatigue effectively.
 date: 2022-09-25
 github_id: namtrhg
 redirect:
   - /8xnxpA
+authors:
+  - namtrhg
 ---
 
 ## What is Pomodoro Technique?

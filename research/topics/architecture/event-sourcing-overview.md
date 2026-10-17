@@ -1,12 +1,14 @@
 ---
 draft: false
-title: Event sourcing overview
+title: "Event sourcing overview: recording every order change as an event"
 description: Event sourcing records all changes as events, allowing e-commerce platforms to track detailed order history and generate flexible analytics for better business insights and future-proof data management.
 date: 2022-12-05
 github_id: R-Jim
 icy: 10
 redirect:
   - /aBH0GQ
+authors:
+  - R-Jim
 ---
 
 ## What is event sourcing
@@ -62,7 +64,7 @@ An Event mainly consists of `Entity_ID`, `Type`, `Data`, `Metadata`, and `Versio
 	}
 ```
 
-### Event Store
+### Event store
 
 A `database_table` stores events. **Only allowed Append** new event and **Read** from an event store. Event store naming will follow the domain object (`order_event_store`, `product_event_store`).
 
@@ -125,7 +127,7 @@ To reduce composing time when number of events start to grow. Snapshot is a Stat
 
 ## References
 
-- [Beginner's guide to event sourcing | Event Store](https://www.eventstore.com/event-sourcing)
-- [Keynote: event sourcing - Greg Young - DPC2016](https://www.youtube.com/watch?v=I3uH3iiiDqY)
+- [Beginner's guide to event sourcing | Event store](https://www.eventstore.com/event-sourcing)
+- [Keynote: event sourcing - greg young - DPC2016](https://www.youtube.com/watch?v=I3uH3iiiDqY)
 - [Learning-topics: event sourcing](https://discord.com/channels/462663954813157376/1009812700022456400)
 - [Diagram about the thought process from normal CRUD operation into event sourcing](https://miro.com/app/board/uXjVPZswY00=/?share_link_id=338629629501)

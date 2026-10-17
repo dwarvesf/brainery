@@ -4,6 +4,8 @@ description: The five environments every project needs (local, CI, testing, stag
 date: null
 redirect:
   - /unCMng
+authors:
+  - tieubao
 ---
 
 This section describes the environments you should have, at a minimum. It might sound like a lot, but there is a purpose for each one.

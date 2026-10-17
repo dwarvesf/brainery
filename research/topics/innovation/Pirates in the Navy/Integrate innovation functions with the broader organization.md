@@ -3,6 +3,8 @@ draft: false
 title: "Integrate innovation functions with the broader organization (reading note)"
 description: "Organizations need to consider how innovation fits into their org chart, including defining clear career paths for innovators."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - innovation
   - organization

@@ -4,6 +4,8 @@ description: How to write unit, component and integration tests for a React app 
 date: null
 redirect:
   - /8YSu0g
+authors:
+  - tieubao
 ---
 
 Testing your application is a vital part of serious development. For the front-end, you don't need 100% code coverage, about 70% is probably good enough. Following are some principles:

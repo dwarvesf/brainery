@@ -3,6 +3,8 @@ draft: false
 title: "Narratives generate real-world effects (reading note)"
 description: "Narratives, alone or in constellation with one another, produce real-world effects."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - communication
   - narrative

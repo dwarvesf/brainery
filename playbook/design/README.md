@@ -4,6 +4,8 @@ description: Overview of how Dwarves Design works, covering the three-stage desi
 date: null
 redirect:
   - /ovB8uw
+authors:
+  - tieubao
 ---
 
 Dwarves Design is a young and small design studio, founded in 2018.

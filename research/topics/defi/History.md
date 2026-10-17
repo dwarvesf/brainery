@@ -5,6 +5,8 @@ description: "Timeline of DeFi from Bitcoin and Ethereum through Maker, EtherDel
 date: 2026-08-27
 redirect:
   - /C4I18A
+authors:
+  - tieubao
 ---
 
 ### Bitcoin

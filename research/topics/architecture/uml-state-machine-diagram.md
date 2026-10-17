@@ -1,12 +1,14 @@
 ---
 draft: false
-title: Uml state machine diagram
+title: "UML state machine diagrams: states, transitions, events and actions"
 description: Learn how UML State Machine Diagrams visualize object states, transitions, events, and actions to model dynamic system behavior in software development, embedded systems, and more.
 date: 2023-08-16
 github_id: trankhacvy
 icy: 10
 redirect:
   - /dDz2CQ
+authors:
+  - trankhacvy
 ---
 
 ## UML state machine diagram

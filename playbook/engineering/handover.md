@@ -4,6 +4,8 @@ description: Checklists for handing a project to new people or a new team, cover
 date: null
 redirect:
   - /tzJoDw
+authors:
+  - tieubao
 ---
 
 This is the checklist for our handover process. When a new person joins a project, project members are changed, or project is moved to another team, a

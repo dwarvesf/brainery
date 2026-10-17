@@ -4,6 +4,8 @@ description: A copy-paste README skeleton for a new project with setup, tests, d
 date: null
 redirect:
   - /nIdKHA
+authors:
+  - tieubao
 ---
 
 > How to use this template: copy everything below the line into the new repository's `README.md`, replace every placeholder (project name, links, commands, the Built with list), and delete any section that does not apply. For guidance on content, see [how to write a good README](readme-how.md).

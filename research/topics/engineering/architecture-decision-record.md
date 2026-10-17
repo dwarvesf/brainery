@@ -1,8 +1,10 @@
 ---
 draft: false
-title: Architecture decision record
+title: "Architecture decision records: documenting software choices"
 description: Learn how Architecture Decision Records (ADR) help teams document software choices, improve project clarity, and guide newcomers with clear context, solutions, and consequences for better long-term development.
 date: 2020-03-27
+authors:
+  - tieubao
 tags:
   - architecture
   - engineering

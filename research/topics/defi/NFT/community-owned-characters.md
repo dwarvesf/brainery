@@ -5,6 +5,8 @@ description: "How DAOs let creators around the world form NFT characters and com
 date: 2026-08-27
 redirect:
   - /sAfPxA
+authors:
+  - tieubao
 ---
 
 ## The trend of owning a character

@@ -3,6 +3,8 @@ draft: false
 title: "Common myths about innovation (reading note)"
 description: "One myth around innovation is that there are no bad ideas."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - innovation
   - myth

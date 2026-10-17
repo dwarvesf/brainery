@@ -5,6 +5,8 @@ description: Learn the difference between permanent and literature notes in the 
 date: 2026-08-27
 redirect:
   - /pUDQcw
+authors:
+  - tieubao
 ---
 
 There's much confusion between "permanent" notes and "literature" notes in the zettelkasten world. In fact, permanent notes are not specially appointed by any means; a more productive way to think about it is to think of "permanent" as signifying "permanently useful," regardless of the originality of its content.

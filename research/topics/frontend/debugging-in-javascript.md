@@ -1,11 +1,13 @@
 ---
 draft: false
-title: Debugging in javascript
+title: "Debugging in JavaScript: console methods and the debugger"
 description: Learn how to use JavaScript console methods like console.log, console.assert, console.dir, console.time, and the debugger statement to effectively debug code in Chrome DevTools.
 date: 2022-10-16
 github_id: namtrhg
 redirect:
   - /JbbLGg
+authors:
+  - namtrhg
 ---
 
 _This note focus on utilizing some of the **` console`** object methods and the **` debugger`** statement to better debug JavaScript application in the [Chrome DevTools](https://developer.chrome.com/docs/devtools/)._
@@ -151,8 +153,8 @@ When the `debugger` is invoked, execution is paused at the `debugger` statement 
 
 ## Reference
 
-- [Debugger's statement - Developer Mozilla Organization](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger?retiredLocale=vi)
-- [Console object - Developer Mozilla Organization](https://developer.mozilla.org/en-US/docs/Web/API/console)
+- [Debugger's statement - developer mozilla organization](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger?retiredLocale=vi)
+- [Console object - developer mozilla organization](https://developer.mozilla.org/en-US/docs/Web/API/console)
 - [What is assert in JavaScript? - StackOverflow](https://stackoverflow.com/questions/15313418/what-is-assert-in-javascript)
 - [What is the difference between console.dir() and console.log()? - StackOverflow](https://stackoverflow.com/questions/11954152/whats-the-difference-between-console-dir-and-console-log)
-- [Tips and tricks for debugging JavaScript - James Q Quick](https://www.youtube.com/watch?v=_QtUGdaCb1c&t=701s)
+- [Tips and tricks for debugging JavaScript - james q quick](https://www.youtube.com/watch?v=_QtUGdaCb1c&t=701s)

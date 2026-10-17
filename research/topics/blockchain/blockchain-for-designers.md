@@ -1,8 +1,10 @@
 ---
 draft: false
-title: Blockchain for designers
+title: "Blockchain for designers: trust, decentralization and immutability"
 description: Learn how blockchain technology solves trust issues with decentralization, transparency, and immutability, and discover key design principles to create user-friendly blockchain products.
 date: 2020-05-04
+authors:
+  - tieubao
 tags:
   - blockchain
   - design

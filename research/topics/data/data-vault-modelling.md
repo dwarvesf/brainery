@@ -1,12 +1,14 @@
 ---
 draft: false
-title: Data vault modelling
+title: "Data Vault modelling: hubs, links and satellites for flexible data lakes"
 description: Learn how Data Vault architecture builds flexible, scalable data lakes using hubs, links, and satellites to manage business keys and historical data with pros and cons explained.
 date: 2022-12-15
 github_id: Bachpx2911
 icy: 10
 redirect:
   - /s9Fo7w
+authors:
+  - Bachpx2911
 ---
 
 ## Introduction

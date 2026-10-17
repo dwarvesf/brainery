@@ -4,6 +4,8 @@ description: What a project charter is, why it helps the team and the client, an
 date: null
 redirect:
   - /xD6Npg
+authors:
+  - tieubao
 ---
 
 ## Definitions
