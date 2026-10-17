@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Devbox vs Nix: why we chose simplicity"
 description: "Discover why Devbox is the smart choice for developers who want Nix's power without the learning curve"
 date: 2024-08-01
@@ -8,8 +8,7 @@ authors:
 tags:
   - devbox
   - nix
-redirect:
-  - /e1YBYg
+redirect: []
 ---
 
 Let's cut to the chase: Devbox is Nix with training wheels, and that's a good thing. Here's why we're all in on Devbox for building killer dev environments.
