@@ -15,7 +15,6 @@ redirect:
 slug: token
 ---
 
-
 This collection covers everything from high-level vision to technical implementation details. Start with the whitepaper for context, then dive into specific areas based on your interests.
 
 ## Overview
@@ -86,7 +85,7 @@ The protocol maintains a Bitcoin treasury that backs ICY token value through:
 - Economic risk assessment
 - Sustainability metrics
 
-### 5. [Implementation roadmap](./implementation-roadmap.md) 🛣️
+### 5. Implementation roadmap 🛣️
 
 **Purpose**: Phased deployment strategy and milestones  
 **Audience**: Technical teams, project managers, stakeholders  
@@ -98,7 +97,7 @@ The protocol maintains a Bitcoin treasury that backs ICY token value through:
 - Risk management during transition
 - Success metrics and KPIs
 
-### 6. [Risk assessment](./risk-assessment.md) ⚠️
+### 6. Risk assessment ⚠️
 
 **Purpose**: Comprehensive risk analysis and mitigation strategies  
 **Audience**: Risk managers, investors, governance participants  
@@ -134,7 +133,7 @@ The protocol maintains a Bitcoin treasury that backs ICY token value through:
 - Demand drivers and supply management
 - Economic sustainability modeling
 
-### 9. [Incentive structure](./incentive-structure.md) 🎯
+### 9. Incentive structure 🎯
 
 **Purpose**: Contributor motivation and reward system design  
 **Audience**: Community managers, behavioral economists, contributors  
@@ -158,7 +157,7 @@ The protocol maintains a Bitcoin treasury that backs ICY token value through:
 - Liquidity provision and market making
 - Compliance and regulatory considerations
 
-### 11. [Go-to-market strategy](./go-to-market-strategy.md) 🚀
+### 11. Go-to-market strategy 🚀
 
 **Purpose**: Launch strategy and external contributor acquisition  
 **Audience**: Marketing teams, business development, community managers  
@@ -170,7 +169,7 @@ The protocol maintains a Bitcoin treasury that backs ICY token value through:
 - Launch campaign timeline and acquisition funnels
 - Community health monitoring and retention optimization
 
-### 12. [Community building strategy](./community-building-strategy.md) 🤝
+### 12. Community building strategy 🤝
 
 **Purpose**: Community engagement and retention frameworks  
 **Audience**: Community managers, engagement specialists, governance participants  
@@ -222,13 +221,13 @@ The protocol maintains a Bitcoin treasury that backs ICY token value through:
 
 ### Token specifications
 
-| Aspect | ICY Token | DFG Token |
-|--------|-----------|-----------|
-| Type | Utility (ERC-20) | Governance (ERC-20) |
-| Supply | Dynamic (100M start, 1B max) | Fixed (10M total) |
-| Primary use | Rewards, Staking, Services | Governance, Dividends |
-| Earning method | Contributions, Activities | Allocation, Conversion |
-| Key benefit | Protocol Access & Rewards | Control & Value Accrual |
+| Aspect         | ICY Token                    | DFG Token               |
+| -------------- | ---------------------------- | ----------------------- |
+| Type           | Utility (ERC-20)             | Governance (ERC-20)     |
+| Supply         | Dynamic (100M start, 1B max) | Fixed (10M total)       |
+| Primary use    | Rewards, Staking, Services   | Governance, Dividends   |
+| Earning method | Contributions, Activities    | Allocation, Conversion  |
+| Key benefit    | Protocol Access & Rewards    | Control & Value Accrual |
 
 ### Activity chairs
 
@@ -251,33 +250,33 @@ The protocol maintains a Bitcoin treasury that backs ICY token value through:
 1. Read the [Whitepaper](./whitepaper.md) for overall vision
 2. Review [Tokenomics design](./tokenomics-design.md) for earning opportunities
 3. Understand [Governance framework](./governance-framework.md) for participation
-4. Check [Community building strategy](./community-building-strategy.md) for engagement
+4. Check Community building strategy for engagement
 
 ### For investors
 
 1. Study [Economic model](./economic-model.md) for financial analysis
-2. Review [Risk assessment](./risk-assessment.md) for risk evaluation
-3. Check [Implementation roadmap](./implementation-roadmap.md) for timeline
+2. Review Risk assessment for risk evaluation
+3. Check Implementation roadmap for timeline
 4. Analyze [Simulation charts](./simulation-charts.md) for projections
 
 ### For technical teams
 
-1. Focus on [Implementation roadmap](./implementation-roadmap.md) for development
+1. Focus on Implementation roadmap for development
 2. Reference [Protocol architecture](./protocol-architecture.md) for technical specs
-3. Consider [Risk assessment](./risk-assessment.md) for security planning
+3. Consider Risk assessment for security planning
 4. Use [Simulation charts](./simulation-charts.md) for performance monitoring
 
 ### For governance participants
 
 1. Master [Governance framework](./governance-framework.md) for participation
 2. Understand [Economic model](./economic-model.md) for informed decisions
-3. Monitor [Risk assessment](./risk-assessment.md) for protocol health
-4. Engage with [Community building strategy](./community-building-strategy.md)
+3. Monitor Risk assessment for protocol health
+4. Engage with Community building strategy
 
 ### For business development
 
-1. Study [Go-to-market strategy](./go-to-market-strategy.md) for launch approach
-2. Review [Community building strategy](./community-building-strategy.md) for partnerships
+1. Study Go-to-market strategy for launch approach
+2. Review Community building strategy for partnerships
 3. Understand [Token distribution plan](./token-distribution-plan.md) for allocations
 4. Check [Economic model](./economic-model.md) for business metrics
 
@@ -329,7 +328,7 @@ This documentation suite is regularly updated to reflect protocol evolution and 
 For questions, suggestions, or clarifications about the tokenomics design:
 
 - **Community Discord**: [discord.gg/dfoundation](https://discord.gg/dfoundation)
-- **GitHub Repository**: [github.com/dwarvesf/memo.d.foundation](https://github.com/dwarvesf/memo.d.foundation)
+- **GitHub repository**: [github.com/dwarvesf/memo.d.foundation](https://github.com/dwarvesf/memo.d.foundation)
 - **Website**: [memo.d.foundation](https://memo.d.foundation)
 - **General inquiries**: [team@d.foundation](mailto:team@d.foundation)
 

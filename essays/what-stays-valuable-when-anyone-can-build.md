@@ -18,8 +18,6 @@ redirect:
   - /culture/what-stays-valuable-when-anyone-can-build
 ---
 
-# What stays valuable when anyone can build anything
-
 When building gets cheap, value moves to the two inputs that cannot be made: judgment inside the firm and trust outside it. This post shows the mechanism from first principles. It uses figures and it names where the argument leaks. It is a framework, not a prediction. Dwarves uses this lens to run its build-by-fleet operations.
 
 ## What actually stays valuable when building gets cheap?
@@ -50,12 +48,12 @@ Every act of creation requires an act of selection. Making the thing is cheap. T
 
 The mechanism is not new. It is the economics of complementary goods. Complements are goods consumed together. When one gets cheaper, the other becomes more valuable. The record is consistent.
 
-| Cheap input | Becomes more valuable |
-|---|---|
-| Cheap computers | Data (you compute with it) |
-| Cheap code | Verification (you check it) |
-| Cheap distribution of media | Attention (you are noticed) |
-| Cheap cognition (AI) | Judgment (you select), trust (you are trusted) |
+| Cheap input                 | Becomes more valuable                          |
+| --------------------------- | ---------------------------------------------- |
+| Cheap computers             | Data (you compute with it)                     |
+| Cheap code                  | Verification (you check it)                    |
+| Cheap distribution of media | Attention (you are noticed)                    |
+| Cheap cognition (AI)        | Judgment (you select), trust (you are trusted) |
 
 Each row is the same move. A factor of production deflates. The stuff consumed with it gains value. Cheap cognition is the latest row in a table that has filled for fifty years. The inference follows from the same logic. Judgment and trust are the next columns. We do not predict them from a model that knows nothing.
 
@@ -75,4 +73,4 @@ Apply the complementary-goods lens to the factor that deflates in your market. N
 
 Our working answer to the title question is short: judgment inside, trust outside. The rest is the craft of getting good at both.
 
-Related: [On agentic AI](../updates/arc/on-agent.md), [The convergence](../updates/arc/final.md), and the [arc series](/org-roadmap-2025).
+Related: [On agentic AI](/arc-on-agent), [The convergence](/arc-convergence), and the [arc series](/org-roadmap-2025).

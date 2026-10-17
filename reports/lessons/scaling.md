@@ -42,4 +42,4 @@ The goal isn't just to get bigger, it's to get better at being research-first wh
 
 ---
 
-- Next: [Company: brand value + trade secrets](company.md)
+- Next: Company: brand value + trade secrets

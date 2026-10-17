@@ -15,16 +15,16 @@ redirect:
 
 The tech world always moves. Market shifts can feel like you chart a course through new, rough waters. This series is our team's compass. It helps us not just react to changes, but proactively meet them with confidence and skill. We've put our team's wisdom and plans into focused guides that are easy to access and use.
 
-For a quick look at the core ideas, our [condensed guide on how to navigate changes](navigate-changes.md) is a good start.
+For a quick look at the core ideas, our [condensed guide on how to navigate changes](/handbook/navigate-changes) is a good start.
 
 ### The big picture
 
 At its core, navigating market changes as a consulting team boils down to four steps. Here’s how we approach it:
 
-- **Make a bet.** We pick a tech trend we think will take off, like AI agents, and decide to build our consulting expertise around it.  
-- **Grind for it.** We dive in, learning the tech, building small projects, and creating case studies to show we know our stuff.  
-- **Sell.** We share our expertise with clients, using our knowledge to land projects and help them adopt the new tech.  
-- **Repeat.** We learn from each cycle, refine our approach, and pick the next trend to tackle.  
+- **Make a bet.** We pick a tech trend we think will take off, like AI agents, and decide to build our consulting expertise around it.
+- **Grind for it.** We dive in, learning the tech, building small projects, and creating case studies to show we know our stuff.
+- **Sell.** We share our expertise with clients, using our knowledge to land projects and help them adopt the new tech.
+- **Repeat.** We learn from each cycle, refine our approach, and pick the next trend to tackle.
 
 This cycle keeps us moving forward, always ready to lead in the next big thing.
 

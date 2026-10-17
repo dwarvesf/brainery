@@ -2,7 +2,7 @@
 title: MBTI preferences and cognitive functions, reading notes on My True Type
 description: Reading notes on A.J. Drenth's My True Type covering the four MBTI preference pairs, the eight cognitive functions, how to work out a function stack, the Big Five, typing strategies and Keirsey's four temperaments.
 slug: mbti-preferences-cognitive-functions
-kind: essay
+kind: reference
 date: 2026-10-18
 authors:
   - tieubao

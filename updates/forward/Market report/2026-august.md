@@ -13,8 +13,6 @@ tags:
   - market-report
 ---
 
-# Market report August 2026
-
 This edition covers the Elixir ecosystem, current to 2026-08-15. In 2026 the language became gradually typed, and the BEAM became a default home for production AI agents. Both shifts took years, and both landed within months of each other. The report covers the release record, the platform stack, the adoption signal, the durability and data layer, the embedded and local-first flanks, and the security posture.
 
 The evidence is the release record, the Hex registry, and the adoption data, not a market projection. The numbers and dates come from the maintainers and the public registries, and they can be checked.
@@ -33,18 +31,18 @@ The evidence is the release record, the Hex registry, and the adoption data, not
 
 ## The stack at a glance
 
-| Component | Current | Released | Note |
-|---|---|---|---|
-| Elixir | 1.20.3 | 2026-08-04 | Gradual typing since 1.20.0 (2026-06-03) |
-| Erlang/OTP | 28.x | 2025 | Base requirement; regex moved from struct defaults |
-| Phoenix | 1.8.x | 2025-08 | Adopts LiveView 1.2 |
-| LiveView | 1.2.9 | 2026-06 | Colocated CSS, the 1.2 headline |
-| Ecto | current | ongoing | The data underlay Ash builds on |
-| Ash | 3.31.3 | 2026-08-12 | Two security patches this month |
-| Oban | 2.23.1 | 2026-08-03 | Default for background jobs |
-| Nx / Axon | 0.8.x | 2026 | Bumblebee models on Nx |
-| Livebook | current | ongoing | Distributed Python cells |
-| Hologram | 0.11 | 2026-08 | Pure-Elixir apps in the browser |
+| Component  | Current | Released   | Note                                               |
+| ---------- | ------- | ---------- | -------------------------------------------------- |
+| Elixir     | 1.20.3  | 2026-08-04 | Gradual typing since 1.20.0 (2026-06-03)           |
+| Erlang/OTP | 28.x    | 2025       | Base requirement; regex moved from struct defaults |
+| Phoenix    | 1.8.x   | 2025-08    | Adopts LiveView 1.2                                |
+| LiveView   | 1.2.9   | 2026-06    | Colocated CSS, the 1.2 headline                    |
+| Ecto       | current | ongoing    | The data underlay Ash builds on                    |
+| Ash        | 3.31.3  | 2026-08-12 | Two security patches this month                    |
+| Oban       | 2.23.1  | 2026-08-03 | Default for background jobs                        |
+| Nx / Axon  | 0.8.x   | 2026       | Bumblebee models on Nx                             |
+| Livebook   | current | ongoing    | Distributed Python cells                           |
+| Hologram   | 0.11    | 2026-08    | Pure-Elixir apps in the browser                    |
 
 The dates are release dates from the maintainers. Patch levels move fast. Treat the table as a point-in-time slice.
 
@@ -108,4 +106,4 @@ Three claims in the report need a check. First, verified bugs with low false pos
 
 The shape is coherent. The language got a type system. The runtime became an operational model for agents. The base, web, realtime, and fault tolerance, never stopped shipping. That is a rare position for a language to hold at once.
 
-Related: [On agentic AI](on-agent.md), and the [arc series](README.md).
+Related: [On agentic AI](/arc-on-agent), and the arc series.

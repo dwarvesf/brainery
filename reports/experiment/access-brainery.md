@@ -1,11 +1,10 @@
 ---
 draft: false
 title: Access the brainery
-description: This page outlines how developers can connect to and utilize Brainery's extensive knowledge base and AI-driven capabilities. By integrating a straightforward MCP configuration, you can seamlessly access powerful insights directly within your existing development tools and workflows.
+description: "This page outlines how developers can connect to and utilize Brainery's extensive knowledge base and AI-driven capabilities. By integrating a straightforward MCP configuration, you can seamlessly access powerful insights directly within your existing development tools and workflows."
 date: 2025-05-06
 authors:
   - tieubao
-  - grok
 tags:
   - brainery
   - knowledge-base
@@ -32,12 +31,12 @@ Good news! You don’t need to wrestle with a whole new set of complex APIs for 
 
 Once configured, you can:
 
-* Query for specific data points or insights.
-* Ask the LLM to process or summarize information.
-* Fetch connected ideas and trends directly within your workflow.
+- Query for specific data points or insights.
+- Ask the LLM to process or summarize information.
+- Fetch connected ideas and trends directly within your workflow.
 
 Essentially, adding the **MCP config** to your environment lets you make **Brainery** a natural extension of how you already work. We believe this approach makes accessing our second brain both powerful and practical for your daily tasks.
 
 ---
 
-> Next: [Reading after brainery](reading.md)
+> Next: Reading after brainery
