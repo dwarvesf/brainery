@@ -158,7 +158,7 @@ This section is my reading of the records.
 
 The chair names gave way to nine role manuals in April 2026, written for a firm that works with AI agents. The apprentice batch became a drafted senior-pipeline program in September. The build-log habit became field reports with measured tables, such as [Memo, rebuilt](../shipped/memo-rebuilt.md) and [the deploy pipeline formula](../shipped/deploy-pipeline-formula.md). The positioning moved from four bets to a plain offer: assess a system, harden it, and run it. <!-- confirm: ok to state the role-manual change and the senior-pipeline draft publicly -->
 
-## What i would change
+## What to change next
 
 A promise goes on the page with a number and a date, or it stays in the notes. A promise that needs weekly hours names the person who gives them. The next roadmap should carry both, plus a re-score date on the page itself, so the reader can see how the last one did.
 
