@@ -14,6 +14,7 @@ tags:
   - cloudflare
   - ai
 slug: deploy-pipeline-formula
+series: harness-engineering
 redirect:
   - /essays/deploy-pipeline-formula
   - /updates/build-log/releases-when-agents-deploy-all-day

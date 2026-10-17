@@ -1,5 +1,5 @@
 ---
-title: Record it on your own machine
+title: Record a Discord talk on your own machine
 description: Discord has no recorder, and a copy captured off the call costs three quarters of the pixels. Record locally as the presenter, have the host capture the call for the questions, and check the one setting that silently ruins the audio.
 date: 2026-09-18
 authors:
@@ -9,6 +9,8 @@ tags:
   - sharing
   - remote
 slug: record-it-on-your-own-machine
+redirect:
+  - /essays/record-it-on-your-own-machine
 ---
 
 You give a talk on a Discord stage. Record it on your own machine.

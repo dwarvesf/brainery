@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 300" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" role="img" aria-label="Three Go packages: orders defines the UserFetcher interface and users satisfies it, util stays independent">
+  <defs>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+  </defs>
+  <rect width="760" height="300" fill="#12395f"/>
+  <rect width="760" height="300" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="759" height="299" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 1 · PACKAGE-FIRST LAYOUT</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">EXAMPLE FROM THE NOTES</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <rect x="30" y="64" width="190" height="150" fill="#21466a" stroke="#68839d"/>
+  <text x="46" y="90" font-size="12" letter-spacing="1" fill="#e8f1fa">users/</text>
+  <text x="46" y="114" font-size="10" fill="#a7c0d9">types</text>
+  <text x="46" y="130" font-size="10" fill="#a7c0d9">validation</text>
+  <text x="46" y="146" font-size="10" fill="#a7c0d9">storage</text>
+  <text x="46" y="196" font-size="10" fill="#c3d7ea">GetUser(userID int)</text>
+
+  <rect x="300" y="64" width="200" height="150" fill="#21466a" stroke="#68839d"/>
+  <text x="316" y="90" font-size="12" letter-spacing="1" fill="#e8f1fa">orders/</text>
+  <text x="316" y="114" font-size="10" fill="#a7c0d9">OrderService</text>
+  <rect x="316" y="132" width="168" height="62" fill="#12395f" stroke="#e8c56a" stroke-width="1.5"/>
+  <text x="400" y="156" font-size="11" fill="#e8c56a" text-anchor="middle">UserFetcher</text>
+  <text x="400" y="176" font-size="10" fill="#c3d7ea" text-anchor="middle">GetUser(userID int)</text>
+
+  <rect x="540" y="64" width="190" height="150" fill="none" stroke="#68839d"/>
+  <text x="556" y="90" font-size="12" letter-spacing="1" fill="#e8f1fa">util/</text>
+  <text x="556" y="114" font-size="10" fill="#a7c0d9">stringutil/</text>
+  <text x="556" y="130" font-size="10" fill="#a7c0d9">timeutil/</text>
+  <text x="556" y="196" font-size="10" fill="#6f8fb0">independent of any domain</text>
+
+  <line x1="220" y1="163" x2="314" y2="163" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <text x="258" y="154" font-size="10" fill="#6f8fb0" text-anchor="middle">satisfies</text>
+
+  <text x="380" y="256" font-size="10" fill="#a7c0d9" text-anchor="middle">orders depends on a contract it owns, not on the users package.</text>
+  <text x="380" y="274" font-size="10" fill="#6f8fb0" text-anchor="middle">Any user service with GetUser plugs in.</text>
+</svg>

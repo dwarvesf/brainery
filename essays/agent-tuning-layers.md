@@ -13,6 +13,7 @@ tags:
   - context-engineering
   - architecture
 slug: agent-tuning-layers
+series: harness-engineering
 ---
 
 ## TL;DR

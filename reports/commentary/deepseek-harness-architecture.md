@@ -1,5 +1,5 @@
 ---
-title: "DeepSeek Harness, dissected"
+title: "DeepSeek harness, dissected"
 description: "An architecture read of dsh, DeepSeek's new agent harness: the plugin tree, the patch-layer boot, the log-first session model, and what it means for a Claude Code shop."
 date: 2026-08-18
 toc: true
@@ -11,6 +11,7 @@ tags:
   - agents
   - architecture
 slug: deepseek-harness-architecture
+series: harness-engineering
 ---
 
 ## TL;DR
@@ -75,14 +76,14 @@ These are the same interception points a Claude Code hook config targets. The tr
 
 We checked the interop surface against a working Claude Code shop:
 
-| Existing asset | dsh support | Mechanism |
-| --- | --- | --- |
-| `AGENTS.md` / `CLAUDE.md` | Native | Walks root to cwd, dedupes identical siblings, injects as durable context, tracks later file changes |
-| Claude Code hooks | Partial bridge | `hooks-claude-code` runs the shell command-hook subset on dsh interception points, with CC-shaped payloads and env substitution |
-| Skills | Concept ports | `ctx.skills` with filesystem discovery and a model-facing loader |
-| MCP servers | Yes | Built-in MCP client |
-| Claude Code itself | As a subagent | `subagent-claude-code` delegates a turn to a Claude Code process |
-| Models | DeepSeek first-class, plus catalog and custom OpenAI-compatible providers | Keys live in `$DSH_HOME/.credentials.yaml`; env-var references supported |
+| Existing asset            | dsh support                                                               | Mechanism                                                                                                                       |
+| ------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| `AGENTS.md` / `CLAUDE.md` | Native                                                                    | Walks root to cwd, dedupes identical siblings, injects as durable context, tracks later file changes                            |
+| Claude Code hooks         | Partial bridge                                                            | `hooks-claude-code` runs the shell command-hook subset on dsh interception points, with CC-shaped payloads and env substitution |
+| Skills                    | Concept ports                                                             | `ctx.skills` with filesystem discovery and a model-facing loader                                                                |
+| MCP servers               | Yes                                                                       | Built-in MCP client                                                                                                             |
+| Claude Code itself        | As a subagent                                                             | `subagent-claude-code` delegates a turn to a Claude Code process                                                                |
+| Models                    | DeepSeek first-class, plus catalog and custom OpenAI-compatible providers | Keys live in `$DSH_HOME/.credentials.yaml`; env-var references supported                                                        |
 
 The compatibility posture is deliberate. A team keeps its instruction files and hook scripts on day one, and native plugins remain the upgrade path once something outgrows the bridge.
 
@@ -92,12 +93,12 @@ We run a spec-driven dev kit, [dwarves-kit](https://github.com/dwarvesf/dwarves-
 
 We audited it piece by piece:
 
-| Kit piece | On dsh today | How |
-| --- | --- | --- |
-| `AGENTS.md` operate-contract | Moves as-is | Native instruction loading, same precedence walk |
-| Skills | Moves conceptually | `ctx.skills` filesystem discovery covers the same shape |
-| Command-hook gates | Moves with limits | The CC bridge runs shell command hooks; config binds per process, so per-repo gating needs care |
-| Ship-gate ledger, worktree isolation | Stays behind | Assumes Claude Code plumbing; a real port means a native Cordis plugin |
+| Kit piece                            | On dsh today       | How                                                                                             |
+| ------------------------------------ | ------------------ | ----------------------------------------------------------------------------------------------- |
+| `AGENTS.md` operate-contract         | Moves as-is        | Native instruction loading, same precedence walk                                                |
+| Skills                               | Moves conceptually | `ctx.skills` filesystem discovery covers the same shape                                         |
+| Command-hook gates                   | Moves with limits  | The CC bridge runs shell command hooks; config binds per process, so per-repo gating needs care |
+| Ship-gate ledger, worktree isolation | Stays behind       | Assumes Claude Code plumbing; a real port means a native Cordis plugin                          |
 
 The instructive part is why the portable pieces are portable. Everything that lives in files a harness merely reads (contracts, skills, specs) moves for free. Everything wired into one harness's runtime (session hooks, worktree mechanics) pays a port cost. That ratio is a design grade for a dev kit, and it argues for keeping the process layer file-shaped wherever possible.
 
@@ -125,5 +126,5 @@ For a team already running Claude Code: keep your cockpit, read their session-lo
 
 - [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness), the repository and its `docs/architecture.md`, `docs/cordis-primer.md`, `docs/agent-lifecycle.md`, `docs/tool-execution-pipeline.md`
 - [Cordis](https://github.com/cordiverse/cordis), the plugin framework underneath dsh
-- [Agent Client Protocol](https://agentclientprotocol.com), the editor-integration protocol dsh speaks
+- [Agent client protocol](https://agentclientprotocol.com), the editor-integration protocol dsh speaks
 - [E2B](https://e2b.dev), the remote sandbox behind the `fs-e2b` and `subprocess-e2b` providers

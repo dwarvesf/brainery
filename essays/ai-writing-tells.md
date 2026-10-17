@@ -10,6 +10,7 @@ tags:
   - ai
   - craftsmanship
 slug: ai-writing-tells
+series: harness-engineering
 redirect:
   - /culture/ai-writing-tells
 ---
