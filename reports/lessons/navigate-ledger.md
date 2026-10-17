@@ -53,11 +53,9 @@ On 13 and 14 June 2025 I wrote ten technology theses with our five-step method: 
 
 Eight experiments exist as proposed. Nine exist in another shape. Forty-three never started.
 
-![The ledger: ten arcs, six planned experiments each, client pull, market outcome and a proposed verdict {#fig-ledger}](assets/navigate-ledger-fig1-ledger.svg 'Each square is one planned experiment. The three AI arcs hold 6 of the 8 experiments built as proposed. The six crypto arcs hold 2 of 36.')
+![The ledger: ten arcs, six planned experiments each, client pull, market outcome and a verdict {#fig-ledger}](assets/navigate-ledger-fig1-ledger.svg 'Each square is one planned experiment. The three AI arcs hold 6 of the 8 experiments built as proposed. The six crypto arcs hold 2 of 36.')
 
 **TL;DR.** Agentic AI is the only arc that cleared all three tests: we built for it, clients paid for it, and the market moved the way I said. LLM, platform ops, stablecoins and Bitcoin held in part. Zero-knowledge proofs are too early to call. DeFi, DeFAI, algorithmic stablecoins and spatial computing missed. The method itself had two faults the ledger exposes: a template chose 40 of the 60 experiments, and nothing in the method ever asked whether a plan paid off. The second half of this page is the method, merged from twelve short notes.
-
-<!-- confirm: every verdict in the ledger is proposed from the evidence table and waits for Han -->
 
 ## How the ledger was scored
 
@@ -90,11 +88,11 @@ For each of the 60 experiments I asked one question: does something exist that d
 
 ## The three AI arcs paid, mostly inside other people's products
 
-**Agentic AI: held.** Two experiments exist as proposed: a community companion on our Discord and an ops assistant for a lean team. A third exists in another shape. The multi-agent orchestration framework became the [dwarves-kit](https://github.com/dwarvesf/dwarves-kit) workflow, public since March 2026, with 965 merged pull requests, plus a small fleet of desk agents that each own one job. Four Notion projects carry agent-heavy updates (MCP, LangGraph, multi-agent planners). They hold about a fifth of the hours we log, as an upper bound, because we log hours per project and not per feature. <!-- confirm: publish the share of logged hours -->
+**Agentic AI: held.** Two experiments exist as proposed: a community companion on our Discord and an ops assistant for a lean team. A third exists in another shape. The multi-agent orchestration framework became the [dwarves-kit](https://github.com/dwarvesf/dwarves-kit) workflow, public since March 2026, with 965 merged pull requests, plus a small fleet of desk agents that each own one job. Four Notion projects carry agent-heavy updates (MCP, LangGraph, multi-agent planners). They hold about a fifth of the hours we log, as an upper bound, because we log hours per project and not per feature.
 
 The market confirmed the direction. Anthropic [donated MCP to a Linux Foundation fund in December 2025](https://anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation), citing more than 10,000 active public servers and 97 million monthly SDK downloads. It also confirmed the risk. [Gartner expects over 40 percent of agentic projects to be canceled by the end of 2027](https://theregister.com/2025/06/29/ai_agents_fail_a_lot/).
 
-The scars are on our side. All 15 repos behind the 2025 agent and LLM experiments are archived. A desk agent that logged one user turn in 30 days was retired in September. The IP verification experiment has no trace anywhere. A sales package for agent deployment, written in February 2026, rests on a runtime we have since retired. I can find no client who bought it. <!-- confirm: no client bought the agent-deployment package -->
+The scars are on our side. All 15 repos behind the 2025 agent and LLM experiments are archived. A desk agent that logged one user turn in 30 days was retired in September. The IP verification experiment has no trace anywhere. A sales package for agent deployment, written in February 2026, rests on a runtime we have since retired. I can find no client who bought it.
 
 **LLM: partly held.** Two experiments exist as proposed (a support chatbot and internal documentation tooling) and three exist in another shape. The compliance framework for fintech never started. Five Notion projects show LLM work, and together with the agent projects the AI-tagged projects carry about a third of logged hours since November 2025. Of the 49 projects logged before the theses, 11 carry the AI tag, so the demand predated my notes. The thesis followed the client pull.
 
@@ -110,17 +108,17 @@ The AI triage half failed. An alert-triage agent ran for about 50 days, from 18 
 
 ## One system carried all six crypto arcs
 
-I find one crypto system in 16 months: ICY and the Bitcoin swap behind it. Our contracts repo has no original contract commit between February 2025 and August 2026, and the work after that is audit and consolidation. Across 8,688 Notion project updates since August 2025, not one mentions DeFi, algorithmic stablecoins, Bitcoin or zero-knowledge proofs. Client web3 work continues. Projects tagged blockchain carry about one hour in seven that we logged since November 2025, and that work is wallets, authentication and contracts for consumer apps. <!-- confirm: publish the share of logged hours -->
+I find one crypto system in 16 months: ICY and the Bitcoin swap behind it. Our contracts repo has no original contract commit between February 2025 and August 2026, and the work after that is audit and consolidation. Across 8,688 Notion project updates since August 2025, not one mentions DeFi, algorithmic stablecoins, Bitcoin or zero-knowledge proofs. Client web3 work continues. Projects tagged blockchain carry about one hour in seven that we logged since November 2025, and that work is wallets, authentication and contracts for consumer apps.
 
 **Bitcoin: partly held.** ICY floats on a Bitcoin reserve, and the swap works. The public [icy.so](https://icy.so) feed shows 82 completed swaps from 26 wallets, the first on 18 March 2025 and the last on 27 September 2026. That is small. One experiment exists as proposed. The five Lightning and escrow experiments never started, and I find no Lightning code in any system we run. Our one Lightning delivery is the [Neutronpay case study](/neutronpay) from December 2024, before the thesis.
 
 Bitcoin fell from about $106,000 on 13 June 2025 to about $82,000 on 16 October 2026, 35 percent below its October 2025 high, [per CoinGecko](https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=bitcoin). Spot ETF assets stand near $104 billion. The public Lightning network lost about 10 percent of its capacity and 20 percent of its channels between June 2025 and August 2026, [per mempool.space](https://mempool.space/api/v1/lightning/statistics/2y). The thesis expected Lightning to carry payments. Volume grew, but the public network got smaller.
 
-**Stablecoin: partly held.** [Supply rose from $249B to $305B](https://stablecoins.llama.fi/stablecoincharts/all), up 23 percent, and the US signed the GENIUS Act on 18 July 2025. The thesis quoted $2.8 trillion by 2028 and nine times today's supply is not on a path I can see. We built no stablecoin product. We moved the other way: in March 2025 ICY dropped its fixed 1.5 USDC value for a floating Bitcoin one, and the public guide says this "reduces our dependency on stablecoins". We use stablecoins instead of building them. Since August 2026 a small batch of contractor payouts settles in USDC on-chain, while the rest runs on bank rails. <!-- confirm: publish the USDC payout fact -->
+**Stablecoin: partly held.** [Supply rose from $249B to $305B](https://stablecoins.llama.fi/stablecoincharts/all), up 23 percent, and the US signed the GENIUS Act on 18 July 2025. The thesis quoted $2.8 trillion by 2028 and nine times today's supply is not on a path I can see. We built no stablecoin product. We moved the other way: in March 2025 ICY dropped its fixed 1.5 USDC value for a floating Bitcoin one, and the public guide says this "reduces our dependency on stablecoins". We use stablecoins instead of building them. Since August 2026 a small batch of contractor payouts settles in USDC on-chain, while the rest runs on bank rails.
 
 **DeFi: missed.** [Total value locked fell from $109.8B to $88.8B](https://api.llama.fi/v2/historicalChainTvl) between mid-June 2025 and mid-October 2026, and DEX volume is down 15 percent. The thesis projected $500 billion by 2030 from a $150 billion peak in 2024. Our contractor payment protocol never started: payouts run on Airwallex bank rails. The one experiment that exists is IP tokenization. We minted 13 memo notes as NFTs between March and May 2025, and the jobs have been dormant since 22 October 2025, as [the memo rebuild report](/memo-rebuilt) notes.
 
-**DeFAI: missed, and the page that taught the method got it wrong.** My worked example in the market-thesis note said DeFAI would be a "$10B market by 2025" with no source. [CoinGecko's DeFAI category](https://api.coingecko.com/api/v3/coins/categories) sits at $777 million today. Virtuals Protocol's token lost 66 percent and AIXBT lost 89 percent since June 2025. The same note and the experiment note also said we started DeFAI with AI-integrated smart contracts for our own treasury. I cannot find that work. The only artefact is a read-only chat skill that answers questions about the ICY pool. I removed both claims from this page. <!-- confirm: no AI treasury system was built -->
+**DeFAI: missed, and the page that taught the method got it wrong.** My worked example in the market-thesis note said DeFAI would be a "$10B market by 2025" with no source. [CoinGecko's DeFAI category](https://api.coingecko.com/api/v3/coins/categories) sits at $777 million today. Virtuals Protocol's token lost 66 percent and AIXBT lost 89 percent since June 2025. The same note and the experiment note also said we started DeFAI with AI-integrated smart contracts for our own treasury. I cannot find that work. The only artefact is a read-only chat skill that answers questions about the ICY pool. I removed both claims from this page.
 
 **Algorithmic stablecoin: missed, and skipping it was right.** The thesis filed DAI and Frax under algorithmic. Ethena's USDe peaked at $14.8 billion on 4 October 2025, printed $0.65 on Binance six days later, and now stands near $4.8 billion, [per DefiLlama](https://stablecoins.llama.fi/stablecoincharts/all?stablecoin=146). In November 2025 [Stream's xUSD and Elixir's deUSD collapsed](https://pharos.watch/learn/case-studies/stream-elixir-contagion-2025/). We built nothing, and I count that as the one good outcome in this cluster.
 
@@ -130,7 +128,7 @@ Bitcoin fell from about $106,000 on 13 June 2025 to about $82,000 on 16 October 
 
 Spatial has zero repos, zero posts and zero projects after June 2025. It appeared in the public roadmap as one of four focus areas, and its arc page redirects to that roadmap page. It is the only 2025 focus area with no services page, case study, open role or repo.
 
-The market gave no reason to regret skipping it. Apple's Vision Pro [shipped about 390,000 units in 2024 and an estimated 45,000 in the fourth quarter of 2025](https://www.macrumors.com/2026/01/02/vision-pro-still-failing-to-catch-on/). Headsets fell from 27 percent of XR units in the second quarter of 2025 to 15 percent a year later, [per IDC](https://mixed-news.com/en/idc-smart-glasses-shipments-q2-2026-vr-headsets-decline/), while display-less glasses grew 167 percent in the first quarter of 2026. Meta's Reality Labs still lost $4.6 billion in the second quarter of 2026. My six experiments were AR and VR apps, and none was about glasses. <!-- confirm: spatial is "missed", not "too early" -->
+The market gave no reason to regret skipping it. Apple's Vision Pro [shipped about 390,000 units in 2024 and an estimated 45,000 in the fourth quarter of 2025](https://www.macrumors.com/2026/01/02/vision-pro-still-failing-to-catch-on/). Headsets fell from 27 percent of XR units in the second quarter of 2025 to 15 percent a year later, [per IDC](https://mixed-news.com/en/idc-smart-glasses-shipments-q2-2026-vr-headsets-decline/), while display-less glasses grew 167 percent in the first quarter of 2026. Meta's Reality Labs still lost $4.6 billion in the second quarter of 2026. My six experiments were AR and VR apps, and none was about glasses.
 
 ## What the ledger says about the method
 
@@ -168,7 +166,7 @@ The ledger puts this advice to a test. The arcs where I leaned on funding figure
 
 ## Choosing what to build
 
-Experiments come in priority order. First, internal operations, because if we cannot use the tech ourselves, convincing a client is harder. Second, technology the startup ecosystem is adopting. In June 2025 about 80 percent of our revenue came from staffing and co-building with startups, and 10 to 20 percent from custom builds for traditional businesses. <!-- confirm: the revenue split is still current --> Third, long-term assets that compound with little upkeep. Fourth, spin-off potential.
+Experiments come in priority order. First, internal operations, because if we cannot use the tech ourselves, convincing a client is harder. Second, technology the startup ecosystem is adopting. In June 2025 about 80 percent of our revenue came from staffing and co-building with startups, and 10 to 20 percent from custom builds for traditional businesses. Third, long-term assets that compound with little upkeep. Fourth, spin-off potential.
 
 Each experiment should fit 8 to 12 weeks, teach something even if it fails, and have a scoped definition, learning goals, a build-log plan and a review date. The ledger shows how that went. Most of the experiments that exist serve our own operations: the project assistant, the documentation tooling, the agent-assisted deploys.
 
@@ -196,8 +194,6 @@ The convergence page promised that every arc feeds four verticals. Here is what 
 | Community    | ICY rewards for memo guest writers, since October 2026 | DAO reward platforms                 |
 | Liquidity    | The ICY-to-Bitcoin swap                                | Lending, escrow, bridges             |
 | IP           | 13 memo notes minted as NFTs                           | AI-verified IP protection            |
-
-<!-- confirm: the shipped and dropped list per vertical -->
 
 ## Changes for the next ledger
 
