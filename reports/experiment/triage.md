@@ -1,37 +1,30 @@
 ---
 draft: true
-title: 'Triage: #build-club 2026-10-02'
-description: '| Thread | Route | Reason | Sources |'
-date: 2026-10-02
+title: 'Triage: #ai-tech 2026-10-05'
+description: 'Picked'
+date: 2026-10-05
 slug: triage
 ---
 
-## Triage: #build-club 2026-10-02
+## Triage: #ai-tech 2026-10-05
 
-## Picked
+Picked
 
-| Thread                        | Route     | Reason                                                                                                                                                                                                                       | Sources                                                                                                                                                                                                                                                                   |
-| ----------------------------- | --------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 9T cultivation game prototype | Memo note | Team-built prototype with concrete design choices around genre-native friction, discovery, player progression, and onboarding. This can teach a useful product/design lesson without claiming more than the thread supports. | https://discord.com/channels/462663954813157376/1280726623414390805/1555245198466879650, https://discord.com/channels/462663954813157376/1280726623414390805/1555251288785158357, https://discord.com/channels/462663954813157376/1280726623414390805/1555421383964762143 |
+- `continuo-mac-control-after-restart.md`: Hieuvd's Continuo thread is own-work build context. It names the pain in current Mac multi-device control, the missing restart/sleep/login-screen behavior, and the personal workflow that motivated the app. This passes Gate 0 and Gate 1 as a small technical note about building around real workflow gaps.
 
-Draft written: `/Users/server/hermes-dfoundation/home/outbox/content/build-club-2026-10-02/9t-cultivation-game-friction.md`
+Dropped
 
-## Dropped
+- SF inference and TPU comments: too thin. The thread says someone is trying to get into inference in SF and notes TPU demand, but gives no observed result, technical detail, or Dwarves-specific lesson.
+- DeepGEMM link: bare external link, followed by jokes about recency. No team take beyond `old` and `5 days is like 2 years in AI`.
+- Database and pgvector mention: possible topic, but the thread only asks whether a DB project is still in development and mentions people moving toward pgvector. No mechanism, result, or current team decision.
+- Jose Valim X link: bare external link with no team commentary.
+- Bridgemind AI X link: bare external link with no team commentary.
 
-| Candidate                                                           | Reason                                                                                  | Source                                                                                                                                                                                                                                                                                                                                                             |
-| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Threads link from baddeed                                           | Bare external link with no team take in harvested messages.                             | https://discord.com/channels/462663954813157376/1280726623414390805/1555220259232026718                                                                                                                                                                                                                                                                            |
-| `ben-dua.vercel.app/auth.html` link                                 | Bare link with no surrounding team discussion.                                          | https://discord.com/channels/462663954813157376/1280726623414390805/1555221776273772685                                                                                                                                                                                                                                                                            |
-| Cheat-code banter and Black Myth Wukong comparison                  | Chit-chat around the 9T prototype, useful only as context for the picked note.          | https://discord.com/channels/462663954813157376/1280726623414390805/1555246327804469389, https://discord.com/channels/462663954813157376/1280726623414390805/1555251357127286789                                                                                                                                                                                   |
-| Game-jam link and theme note                                        | External event link with no team plan or build take attached in the harvested messages. | https://discord.com/channels/462663954813157376/1280726623414390805/1555446739085951048, https://discord.com/channels/462663954813157376/1280726623414390805/1555446849375047733                                                                                                                                                                                   |
-| Capybara GIF, emoji-only, pet/flex banter, blank harvested messages | Meme/chit-chat with no content angle.                                                   | https://discord.com/channels/462663954813157376/1280726623414390805/1555461597214941255, https://discord.com/channels/462663954813157376/1280726623414390805/1555464815781093427, https://discord.com/channels/462663954813157376/1280726623414390805/1555466917181923379, https://discord.com/channels/462663954813157376/1280726623414390805/1555467472646312038 |
-| X link from baddeed                                                 | Bare external link with no harvested team discussion.                                   | https://discord.com/channels/462663954813157376/1280726623414390805/1555499695869264002                                                                                                                                                                                                                                                                            |
+Sources
 
-## Open questions
-
-- The draft uses only the Discord thread and did not inspect the external game page, so any details beyond what the builders said remain unverified.
-- The thread mentions possible boredom after 20-30 hours, but there are no playtest notes or retention data in the harvested content.
-
-## Sanitization
-
-No client names, rates, credentials, internal URLs, or NDA-bound details were present in the picked thread. Discord message links and the public itch.io link are retained as sources.
+- SF inference thread: https://discord.com/channels/462663954813157376/1284063844314120224/1556294631770292246 and https://discord.com/channels/462663954813157376/1284063844314120224/1556294768064073999
+- DeepGEMM thread: https://discord.com/channels/462663954813157376/1284063844314120224/1556471102849425528, https://discord.com/channels/462663954813157376/1284063844314120224/1556477149387423755, https://discord.com/channels/462663954813157376/1284063844314120224/1556483663850508431
+- Database thread: https://discord.com/channels/462663954813157376/1284063844314120224/1556495236434231322, https://discord.com/channels/462663954813157376/1284063844314120224/1556495921498296401, https://discord.com/channels/462663954813157376/1284063844314120224/1556496020718755902
+- Continuo thread: https://discord.com/channels/462663954813157376/1284063844314120224/1556497460392632420, https://discord.com/channels/462663954813157376/1284063844314120224/1556497602055250083, https://discord.com/channels/462663954813157376/1284063844314120224/1556497858343997522, https://discord.com/channels/462663954813157376/1284063844314120224/1556498080851959899, https://discord.com/channels/462663954813157376/1284063844314120224/1556498234413813801, https://discord.com/channels/462663954813157376/1284063844314120224/1556498546524688395, https://discord.com/channels/462663954813157376/1284063844314120224/1556498657216565269
+- Jose Valim X link: https://discord.com/channels/462663954813157376/1284063844314120224/1556563084946972734
+- Bridgemind AI X link: https://discord.com/channels/462663954813157376/1284063844314120224/1556567111986454618
