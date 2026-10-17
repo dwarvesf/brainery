@@ -28,7 +28,7 @@
 <text x="106.0" y="60" font-size="9" letter-spacing="1.5" fill="#6f8fb0" text-anchor="start">AUG 19</text>
 <text x="106.0" y="76" font-size="10" fill="#e8f1fa" text-anchor="start">Empty build exits 0</text>
 <text x="106.0" y="90" font-size="10" fill="#a7c0d9" text-anchor="start">memo answers 404</text>
-<text x="106.0" y="104" font-size="10" fill="#a7c0d9" text-anchor="start">from 09:12 to 09:25</text>
+<text x="106.0" y="104" font-size="10" fill="#a7c0d9" text-anchor="start">for about 13 minutes</text>
 <line x1="122.5" y1="168" x2="122.5" y2="222" stroke="#e8c56a" stroke-width="1.5"/>
 <circle cx="122.5" cy="168" r="5" fill="#e8c56a" stroke="#e8c56a" stroke-width="1.5"/>
 <text x="122.5" y="238" font-size="9" letter-spacing="1.5" fill="#e8c56a" text-anchor="start">AUG 20</text>
@@ -49,5 +49,5 @@
 <text x="601.0" y="268" font-size="10" fill="#a7c0d9" text-anchor="end">squash message; no</text>
 <text x="601.0" y="282" font-size="10" fill="#a7c0d9" text-anchor="end">publish run until a</text>
 <text x="601.0" y="296" font-size="10" fill="#a7c0d9" text-anchor="end">manual dispatch</text>
-<text x="14" y="316" font-size="9" fill="#6f8fb0">dates and counts from the cited PRs and run logs</text>
+<text x="14" y="316" font-size="9" fill="#6f8fb0">dates and counts from PRs and run logs</text>
 </svg>
