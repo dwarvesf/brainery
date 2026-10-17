@@ -13,9 +13,6 @@ redirect:
   - /OBHAlio
 ---
 
-We use email as our formal tool for both internal and external communication.
-Every email is utilized for a specific field, which comes along with different instructions.
-
 We currently go with these:
 
 ### <team@d.foundation>

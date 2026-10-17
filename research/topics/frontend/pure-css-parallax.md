@@ -15,8 +15,6 @@ redirect:
   - /PqGoGA
 ---
 
-This article demonstrates how to use CSS transforms, perspective and some scaling trickery to create a pure CSS parallax scrolling website.
-
 ## Advantages of using pure CSS over JS
 
 Although using Javascript will give us more flexibility on how we want to construct our parallax effect, it also comes with the cost of performance & implementation complexity. We listen to the `scroll` event & modify the DOM with the handler, triggering needless reflows and paints.

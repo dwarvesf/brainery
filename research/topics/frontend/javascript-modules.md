@@ -14,8 +14,6 @@ redirect:
   - /exuqdw
 ---
 
-**Modules** have always been a part of JavaScript development and providing mechanisms for splitting JavaScript programs up into separate modules that can be imported when needed was the absolutely necessity for JavaScript developers.
-
 > "Modules are like building blocks that we can create software by combining."
 
 ### So what is a module?

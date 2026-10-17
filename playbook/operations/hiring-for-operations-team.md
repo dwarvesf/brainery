@@ -13,8 +13,6 @@ redirect:
   - /yC5FeA
 ---
 
-Operations is a very sensitive area of the company, so be very picky. A great ops person can dramatically improve the way your company works and make your life a lot easier.
-
 **Operations is operations, no matter the industry**
 
 Operations problems are almost the same everywhere (in ultra-specialized and regulated industries we just surround ourselves with specialists and attorneys). Industry experience is helpful, but not as much as you think.

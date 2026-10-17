@@ -13,8 +13,6 @@ redirect:
   - /9E43lQ
 ---
 
-When building a chatbot agent, it's important to evaluate its performance and user satisfaction. One effective method is user simulation, which involves creating virtual users to interact with the chatbot and assess its responses. This approach allows for a more realistic evaluation of the chatbot's capabilities and user experience.
-
 ## Introduction
 
 User Simulation is a technique of using AI evaluating AI, which can be more efficient and cost-effective than traditional methods. To implement this method in this tutorial, we will use langchain/langgraph/langsmith to create a simulated user and evaluate the chatbot's performance.

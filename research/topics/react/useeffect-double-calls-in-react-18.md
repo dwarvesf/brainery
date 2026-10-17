@@ -13,8 +13,6 @@ redirect:
   - /pCYbXA
 ---
 
-In the React 18 version, the `useEffect` hook has been updated to called twice compare to only one in the older version in StrictMode.
-
 ### What are the changes and why?
 
 - Beginning with React 18, when in development mode, the components will be mounted, unmounted, and then mounted once again in StrictMode.

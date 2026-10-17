@@ -12,8 +12,6 @@ redirect:
   - /V6UqeQ
 ---
 
-Rust's **trait** system is a powerful feature that enables developers to define shared behavior across different types. Traits play a crucial role in achieving code reusability, abstraction, and flexibility.
-
 ## Understanding traits
 
 In Rust, a trait is a collection of methods that can be implemented by types to define shared behavior. Think of traits as a way to express what abilities a type should have, without dictating its internal structure. This promotes a high degree of abstraction and allows for code that is more generic and adaptable.
