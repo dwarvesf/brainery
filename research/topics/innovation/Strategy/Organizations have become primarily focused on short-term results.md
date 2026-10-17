@@ -34,4 +34,4 @@ Real change requires delayed gratification. Many things that are the most valuab
 Gupta, Sunil. _Driving Digital Strategy: A Guide to Reimagining Your Business_. Boston, Massachusetts: Harvard Business Review Press, 2018.
 
 - [[≈ The Infinite Game]]
-- [Varol - Think like a rocket scientist](https://publish.obsidian.md/mobydiction/Varol+-+Think+Like+a+Rocket+Scientist)
+- [Varol - think like a rocket scientist](https://publish.obsidian.md/mobydiction/Varol+-+Think+Like+a+Rocket+Scientist)
