@@ -52,7 +52,7 @@ Here's where Devbox shines:
 
 3. **No new language required**: Nix has its own programming language. It's powerful, sure, but do you really want to learn a new language just to set up your dev environment? With Devbox, if you can write JSON, you're golden.
 
-## But What About...?
+## But what about...?
 
 You might be thinking, "Sure, but what if I need Nix's advanced features?" Here's the secret: Devbox can tap into those too. Need a custom Nix derivation? Devbox has your back. Want to use Nix Flakes? Go for it.
 
