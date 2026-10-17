@@ -1,9 +1,9 @@
 ---
+draft: true
 title: Production checklist
 description: A checklist to run before a service goes to production, covering deployment, config, backups, logging and error tracking.
-date: null
-redirect:
-  - /ZEmonw
+date: 2026-08-27
+redirect: []
 ---
 
 Related pages: [Logging system](log.md), [Application health checks and status pages](monitoring.md).

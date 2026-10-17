@@ -1,9 +1,9 @@
 ---
+draft: true
 title: Frontend UI checklist
 description: A pre-ship checklist for spacing, responsiveness, states, copy and icons when building or implementing a design.
-date: null
-redirect:
-  - /3HShrA
+date: 2026-08-27
+redirect: []
 ---
 
 Frontend engineering is not just about producing high quality code but also attentive design. Whether you work on a design or transform a design to code, make sure the below checklist is done before you ship.
