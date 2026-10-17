@@ -28,18 +28,18 @@ The Worker watches three hosts and about 190 background jobs on two Cloudflare a
 
 Pages concentrate. Five alert sources produced 3,668 of the 5,068 pages: three copies of a log feed that started shipping on 31 August, a host whose daemon list drifted, and a ten-minute cron job with 60 seconds of grace.
 
-| What | Number, as of 18 October 2026 |
-| ---- | ----------------------------- |
-| Cloudflare accounts running the Worker | 2, each pings the other |
-| Host agents | 3: a VPS, a Mac Mini, a laptop |
-| Heartbeat rows, enabled | 193 of 267 |
-| Heartbeat pings received | about 1.49 million |
-| Rows in the job catalog | 185: 134 scheduled, 42 daemons, 9 on-demand |
-| Alert rows written | 6,475: 5,068 pages and 1,407 recovery notices |
-| Rule firings behind those rows | 61,074 |
-| Distinct rules that fired | 133 |
-| Incident write-ups | 11 |
-| Tool commits, 5 May to 18 October | 858, of which 712 after 1 August |
+| What                                   | Number, as of 18 October 2026                 |
+| -------------------------------------- | --------------------------------------------- |
+| Cloudflare accounts running the Worker | 2, each pings the other                       |
+| Host agents                            | 3: a VPS, a Mac Mini, a laptop                |
+| Heartbeat rows, enabled                | 193 of 267                                    |
+| Heartbeat pings received               | about 1.49 million                            |
+| Rows in the job catalog                | 185: 134 scheduled, 42 daemons, 9 on-demand   |
+| Alert rows written                     | 6,475: 5,068 pages and 1,407 recovery notices |
+| Rule firings behind those rows         | 61,074                                        |
+| Distinct rules that fired              | 133                                           |
+| Incident write-ups                     | 11                                            |
+| Tool commits, 5 May to 18 October      | 858, of which 712 after 1 August              |
 
 A page here means a new CRIT or WARN alert row. A row opens at the first firing and absorbs repeats inside the dedup window, which is why 61,074 firings became 6,475 rows. Rows are not incidents: one bad night can write dozens.
 
@@ -53,18 +53,18 @@ State lands in D1. KV holds dedup markers and probe counters, and Analytics Engi
 
 The build went in layers. Dates come from git history and the database:
 
-| Date, 2026 | Change |
-| ---------- | ------ |
-| 22 to 23 April | Agent skeleton, then the first host posting end to end |
-| 29 April | Second role: the Mac Mini |
-| 5 May | Code moved into the tools monorepo |
-| 30 May | Company checks and cron heartbeats moved in; the old uptime service retired: 34 monitors, 16 moved, 18 already dead |
-| 1 June | Discovery catalog: the Worker lists jobs instead of me listing them |
-| 17 August | Agent tick interval doubled, 60 to 120 seconds, to cut traffic |
-| 24 August | The laptop joined as a third host |
-| 31 August | Agent runtime log lines began shipping as alerts |
-| 5 September | Mini jobs regrouped into five stage runners |
-| 10 September | Auto-park: a retired job's heartbeat stops paging by itself |
+| Date, 2026     | Change                                                                                                              |
+| -------------- | ------------------------------------------------------------------------------------------------------------------- |
+| 22 to 23 April | Agent skeleton, then the first host posting end to end                                                              |
+| 29 April       | Second role: the Mac Mini                                                                                           |
+| 5 May          | Code moved into the tools monorepo                                                                                  |
+| 30 May         | Company checks and cron heartbeats moved in; the old uptime service retired: 34 monitors, 16 moved, 18 already dead |
+| 1 June         | Discovery catalog: the Worker lists jobs instead of me listing them                                                 |
+| 17 August      | Agent tick interval doubled, 60 to 120 seconds, to cut traffic                                                      |
+| 24 August      | The laptop joined as a third host                                                                                   |
+| 31 August      | Agent runtime log lines began shipping as alerts                                                                    |
+| 5 September    | Mini jobs regrouped into five stage runners                                                                         |
+| 10 September   | Auto-park: a retired job's heartbeat stops paging by itself                                                         |
 
 Most of the work came late. Of 858 commits to the tool since the move into the monorepo, 712 landed after 1 August, when the estate grew faster than the monitor's habits.
 
@@ -86,13 +86,13 @@ The rule is one line of arithmetic. A heartbeat is silent when `now - last_ping 
 
 The page lands between about one and four intervals after the last ping, depending on the grace. I took the first silence alert of every episode (the job's first, or one that follows a recovery) and read how long the job had been quiet:
 
-| Job interval | Episodes | Median silence before the page | As a multiple of the interval |
-| ------------ | -------- | ------------------------------ | ----------------------------- |
-| 5 minutes, my jobs | 38 | 18 minutes | 3.7 |
-| 10 minutes, company jobs | 787 | 13 minutes | 1.3 |
-| 30 minutes, my jobs | 167 | 63 minutes | 2.1 |
-| 1 hour, my jobs | 51 | 2.0 hours | 2.0 |
-| 1 day, my jobs | 58 | 28 hours | 1.2 |
+| Job interval             | Episodes | Median silence before the page | As a multiple of the interval |
+| ------------------------ | -------- | ------------------------------ | ----------------------------- |
+| 5 minutes, my jobs       | 38       | 18 minutes                     | 3.7                           |
+| 10 minutes, company jobs | 787      | 13 minutes                     | 1.3                           |
+| 30 minutes, my jobs      | 167      | 63 minutes                     | 2.1                           |
+| 1 hour, my jobs          | 51       | 2.0 hours                      | 2.0                           |
+| 1 day, my jobs           | 58       | 28 hours                       | 1.2                           |
 
 The half-hour jobs I set up mostly carry a grace of one full interval, so they page after an hour. The company's ten-minute jobs carry little grace and page at 13 minutes, though most of those 787 episodes belong to the one noisy job in the next section. For a host, the agent-silent rule waits 10 minutes plus the sweep, and the first row of the 11 May incident below landed 14.5 minutes after the last post.
 
@@ -126,13 +126,13 @@ The chart has one broad hump and one spike, and each traces to a single source.
 
 **Six weeks down.** By the week of 12 October the total was 192: 90 log lines, 74 silence rows and 28 from everything else. Part of the fall is filters in the shipper. It now drops retry loops that heal themselves in seconds (a websocket reconnect, a fallback address walk) and holds a Discord reconnect storm until the gateway's state file says it recovered. I did not date each filter, so I cannot split the fall between them. The same weeks carried the 8 September hygiene sweep, the 10 September auto-park and the 19 September empty-tick guard, all covered below. Meanwhile the number of heartbeat rows nearly doubled, from 138 on 31 August to 267 on 18 October, and weekly silence rows went from 109 to 74.
 
-| Source | Pages | What it was |
-| ------ | ----- | ----------- |
-| Log feed, the company's agents | 1,494 | Started 31 August, one rule per logger |
-| The Mac Mini itself | 896 | 375 daemon-down, 176 disk-crit, 173 agent-silent, 71 memory pressure |
-| One ten-minute cron job | 830 | 603 of them in June |
-| Log feed, my own agents | 282 | Same shipper, second tenant |
-| Log feed, a third tenant | 166 | Same shipper, third tenant |
+| Source                         | Pages | What it was                                                          |
+| ------------------------------ | ----- | -------------------------------------------------------------------- |
+| Log feed, the company's agents | 1,494 | Started 31 August, one rule per logger                               |
+| The Mac Mini itself            | 896   | 375 daemon-down, 176 disk-crit, 173 agent-silent, 71 memory pressure |
+| One ten-minute cron job        | 830   | 603 of them in June                                                  |
+| Log feed, my own agents        | 282   | Same shipper, second tenant                                          |
+| Log feed, a third tenant       | 166   | Same shipper, third tenant                                           |
 
 By kind, the 5,068 pages split into 2,296 silence pages (45%), 1,922 log-line pages (38%) and 850 from everything else: disk, memory, HTTP checks, job-reported events (17%).
 
