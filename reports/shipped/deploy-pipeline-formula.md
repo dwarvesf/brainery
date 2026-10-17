@@ -199,8 +199,6 @@ The tags did three jobs, and none of them needed one tag per deploy: a live mark
 
 As of 2026-10-17 the repo lists three weekly releases and 39 older `prod-` ones. The weekly Release is published on Sundays at 03:17 UTC (2026-09-27, 10-04 and 10-11). The repo's pipeline doc says Monday, and that doc has since been corrected: in Cloudflare's weekday numbering the cron `17 3 * * 1` fires on Sundays (#1139). A deploy posts the commit, the merged PR, a run link, and the drift line, and mints nothing.
 
-<!-- needs Han: Releases-tab counts for the same window before and after the 2026-08-12 gate. The releases were deleted by hand and later pruned, so the vault cannot reconstruct them. If you have the Discord notices, count those. -->
-
 Our position after all three: a Release is a calendar cut at the commit that is live. A trigger-driven release, whether per deploy or per merged PR, makes retention a permanent chore. We learned that by building the retention job and then failing to turn it on.
 
 ## Four more rules, for the release side
@@ -216,11 +214,11 @@ Notifications stay quiet when things are fine. The drift line is valuable becaus
 
 ## What the log says today
 
-While re-checking this page's numbers we ran the command from the first section on the latest runs. The second-slowest step is `setup-node`, at 86 seconds. That step was 50 seconds on 2026-08-27, and #758 removed the pnpm cache option on 2026-08-28 because restoring a 400MB tarball over the network is slower than reading the disk the runner already has. A comment in the workflow still says so. Figure 8 plots the step for the latest successful Deploy run of each day.
+While re-checking this page's numbers we ran the command from the first section on the latest runs. On 2026-10-17 the second-slowest step was `setup-node`, at 86 seconds. That step was 50 seconds on 2026-08-27, and #758 removed the pnpm cache option on 2026-08-28 because restoring a 400MB tarball over the network is slower than reading the disk the runner already has. A comment in the workflow said so the whole time. Figure 8 plots the step for the latest successful Deploy run of each day.
 
 ![The setup-node step per day, 2026-08-27 to 2026-10-17 {#fig-setup-node}](assets/deploy-pipeline-fig8-setup-node.svg 'The setup-node step, in seconds, for the latest successful Deploy run of each day. It sat at 0 or 1 second from 2026-08-28 to 2026-09-07 and ran 18 to 117 seconds from 2026-09-09 to 2026-10-17.')
 
-The step sat at 0 or 1 second on every sampled day from 2026-08-28 through 2026-09-07. On 2026-09-09 it read 33 seconds. It stayed between 18 and 37 seconds through 2026-09-30, and from 2026-10-01 it has run between 68 and 117 seconds. On the 2026-10-17 run it took 86 of the job's 311 seconds.
+The step sat at 0 or 1 second on every sampled day from 2026-08-28 through 2026-09-07. On 2026-09-09 it read 33 seconds. It stayed between 18 and 37 seconds through 2026-09-30, and from 2026-10-01 it ran between 68 and 117 seconds. On the 2026-10-17 run it took 86 of the job's 311 seconds.
 
 The log of that run names what the step is doing. `package-manager-cache` is true, the step reports "This project is configured to use pnpm because package.json has a packageManager field", and a pnpm cache restore follows: 617MB on that run. The cause is proven. A change on 2026-09-07 (#875) added that `packageManager` field so CI would run pnpm 11 and honor our 14-day dependency-age rule. With the field present, `setup-node@v5` turns its package-manager cache on by default, so every run downloaded a cloud-cache tarball for a store the runner already holds. The tarball was 177MB on 2026-09-10 and had grown to 617MB by 2026-10-01, which is the second jump in Fig. 8. A supply-chain fix had re-enabled the cache that #758 removed.
 
@@ -231,7 +229,7 @@ Our own fix stayed undone for five weeks while the runs stayed green, until #113
 ## Limits
 
 - **The 78 seconds is one run.** It is the first run after the change, not a median, and the pipeline split in two the next day. The merge-to-live numbers cover nine merges on one day.
-- **The release counts before and after the gate are missing.** The only measured pair is five dispatches to four releases in half a day, from the PR that added the gate.
+- **No Releases-tab counts survive from before and after the gate.** The releases were deleted by hand and later pruned, so the page compares the designs by their rules and dates, not by tab size.
 - **The gate was not tried end to end.** It was checked against a real merge commit and against an existing release's commit, with a live negative control. A full production dispatch to test it was not worth a real deploy of about twenty Workers (#448, #544).
 - **The deploy counts mix workflows.** Figure 5 counts every job that started on the production environment. It includes the memo publish and probably dry-run dispatches, and it starts on 2026-07-22 because that is the earliest record the API returned.
 - **The ordering rules are one stack.** They come from Cloudflare Workers, GitHub Actions, and a self-hosted runner on a single Mac. We make no claim about any other.
