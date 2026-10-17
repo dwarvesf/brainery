@@ -48,7 +48,7 @@ Members take the first call in a crisis, whether it's an outage, a client proble
 
 The price is real. Their work gets scrutinised more closely, so mistakes cost more. They take the assignments others can't or won't handle, which means longer hours and harder problems. They have less say in which project they work on, because the company points them at its highest priorities. And they stay reachable during a crisis, whatever the day.
 
-An earlier version of this page said membership has no set criteria, then listed duties and costs, which are criteria. The criterion is visible in the list: the person kept shipping, kept being right about technical facts, and kept things confidential. Nobody is invited. A person gets called, and the calls repeat. <!-- needs Han: the entry trail, anonymised: for N people who entered, what each did and how long it took, plus one who left the circle -->
+An earlier version of this page said membership has no set criteria, then listed duties and costs, which are criteria. The criterion is visible in the list: the person kept shipping and kept being right about technical facts. Nobody is invited. A person gets called, and the calls repeat. <!-- needs Han: the entry trail, anonymised: for N people who entered, what each did and how long it took, plus one who left the circle -->
 
 ## The last piece of work counts most
 

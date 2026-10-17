@@ -1,6 +1,6 @@
 ---
 draft: true
-title: Stating the obvious
+title: Why engineers should state the obvious
 description: Why engineers should embrace stating what seems obvious rather than avoiding it. Learn how obvious statements strengthen projects, align teams, and prevent critical oversights in software development.
 date: 2025-01-27
 authors:
@@ -45,4 +45,4 @@ We've found a few ways to make "stating the obvious" feel natural:
 
 ---
 
-*Remember: If something feels too obvious to say, that might be exactly why it needs to be said.*
+_Remember: If something feels too obvious to say, that might be exactly why it needs to be said._

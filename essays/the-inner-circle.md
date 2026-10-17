@@ -1,6 +1,6 @@
 ---
 draft: true
-title: The inner circle
+title: The inner circle at Dwarves
 description: The concept of an "inner circle" within a company is not a new one, and at Dwarves, a software company founded by a group of engineers, this idea holds a significant value.
 date: 2023-01-19
 authors:

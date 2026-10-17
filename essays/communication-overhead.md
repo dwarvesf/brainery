@@ -20,7 +20,7 @@ slug: communication-overhead
 
 In early October a brief of mine told a worker agent to time our test suites by running the full suite five times. Each run takes 15 to 20 minutes on our Mac mini. The worker spent over an hour doing exactly that, and it set an environment variable that walked past a guard built to stop full runs, because the brief told it to.
 
-That is the kind of cost this page is about. Between 24 September and 17 October 2026 my Claude Code sessions dispatched 3,016 subagents. I measured what each brief looked like, how long each run took, and how often I had to send a follow-up.
+This page is about that kind of cost. Between 24 September and 17 October 2026 my Claude Code sessions dispatched 3,016 subagents. I measured what each brief looked like, how long each run took, and how often I had to send a follow-up.
 
 An earlier version of this page said agents finish routine work 3 to 5 times faster than human delegation, and backed it with a table of 27 figures. None of those figures had a source. They are gone. I did not time delegations to people, so this page makes no comparison between people and agents.
 
@@ -30,14 +30,14 @@ An earlier version of this page said agents finish routine work 3 to 5 times fas
 
 Claude Code keeps a transcript for every subagent. For each one I took the first message as the brief, the span from first to last event as the run, and any later message I sent to that agent as a follow-up. I kept only the agents my own sessions launched, not the ones those agents launched in turn.
 
-| Phase | What the log can show | Result |
-|---|---|---|
-| Setup | Words in the brief | Median 289 words, middle half 164 to 427 |
-| Execution | First to last event of the agent | Median 6.4 minutes, middle half 2.7 to 14.8, 90th percentile 31.2 |
-| Review | Not logged | Not measured |
-| Rework | Agents that got a follow-up message | 437 of 3,016 (14.5%), 785 messages in all |
+| Phase     | What the log can show               | Result                                                            |
+| --------- | ----------------------------------- | ----------------------------------------------------------------- |
+| Setup     | Words in the brief                  | Median 289 words, middle half 164 to 427                          |
+| Execution | First to last event of the agent    | Median 6.4 minutes, middle half 2.7 to 14.8, 90th percentile 31.2 |
+| Review    | Not logged                          | Not measured                                                      |
+| Rework    | Agents that got a follow-up message | 437 of 3,016 (14.5%), 785 messages in all                         |
 
-Most of the briefs are long because I don't write them. My sessions held 2,701 typed messages in this window, with a median of 13 words, and the opening message of a session had a median of 20. The orchestrating model expands those into briefs of about 290 words. The setup cost I pay is a short instruction plus the reading of the brief afterwards, which the log doesn't capture.
+I rarely write these briefs myself. My sessions held 2,701 typed messages in this window, with a median of 13 words, and the opening message of a session had a median of 20. The orchestrating model expands those into briefs of about 290 words. The setup cost I pay is a short instruction plus the reading of the brief afterwards, which the log doesn't capture.
 
 ## Longer briefs, longer runs
 
@@ -47,7 +47,7 @@ Bigger tasks need longer briefs, so the figure shows a correlation and no cost o
 
 ![How long 3,016 delegations ran {#fig-runs}](assets/communication-overhead-fig2-runs.svg 'Run time per agent, first to last event. Most runs finish within ten minutes.')
 
-Most delegations are short. 1,923 of the 3,016 (63.8%) finished within 10 minutes, and 541 within two. A brief of 289 words earns its cost on a job like that. The 317 runs past 30 minutes are where a wrong brief gets expensive.
+Most delegations are short. 1,923 of the 3,016 (63.8%) finished within 10 minutes, and 541 within two. The 317 runs past 30 minutes are where a wrong brief costs the most wall-clock time.
 
 ## When the brief cost more than the work
 
@@ -59,9 +59,9 @@ The worker followed the brief literally. It ran the suite, hit the guard, set th
 
 Two August 2026 cases show what a plausible wrong answer costs.
 
-On 23 August an alert-triage bot posted two false claims about a production alert: that the deploy named in the alert belonged to another service, and that no change lined up with the errors. The model wasn't the cause. Its git commands ran in a mirror of the wrong repository, so the lookup of the deploy failed without a message, and a stale context pack then supplied a tidy explanation for the gap. Settling it took the error events themselves: two of the four errors came from the version before the deploy, which ruled the deploy out. The bot's final no-action verdict was right, for the wrong reasons. The fix was three changes to the tool, a table mapping each service to the repository it ships from, an evidence file that shows route and script version, and a rewritten context pack.
+On 23 August an alert-triage bot posted two false claims about a production alert: that the deploy named in the alert belonged to another service, and that no change lined up with the errors. The cause was the tooling. Its git commands ran in a mirror of the wrong repository, so the lookup of the deploy failed without a message, and a stale context pack then supplied a tidy explanation for the gap. Settling it took the error events themselves: two of the four errors came from the version before the deploy, which ruled the deploy out. The bot's final no-action verdict was right, for the wrong reasons. The fix was three changes to the tool, a table mapping each service to the repository it ships from, an evidence file that shows route and script version, and a rewritten context pack.
 
-The same month I dispatched an estate-wide audit with a line telling it to skip two items as already handled. It came back clean. One of the two held the only real gap: an earlier fix had covered about a tenth of what was owed. I found it when I questioned the count.
+In the same month I dispatched an estate-wide audit with a line telling it to skip two items as already handled. It came back clean. One of the two held the only real gap: an earlier fix had covered about a tenth of what was owed. I found it when I questioned the count.
 
 ## What I do now
 
@@ -76,24 +76,24 @@ The last rule explains a caveat on the 14.5%. A follow-up counts any message I s
 
 I route the cheapest model that can do the job. Sonnet ran 2,002 of the 3,016 agents (66%) and Opus 879 (29%). Haiku, Fable and agents that inherited my session's model make up the rest.
 
-| Model | Agents | Median run (min) | Median brief (words) | Follow-up share |
-|---|---|---|---|---|
-| Sonnet | 2,002 | 6.8 | 312 | 13.7% |
-| Opus | 879 | 5.9 | 258 | 15.5% |
-| Inherited | 78 | 2.6 | 134 | 20.5% |
-| Haiku | 29 | 1.4 | 145 | 3.4% |
-| Fable | 28 | 21.6 | 490 | 35.7% |
+| Model     | Agents | Median run (min) | Median brief (words) | Follow-up share |
+| --------- | ------ | ---------------- | -------------------- | --------------- |
+| Sonnet    | 2,002  | 6.8              | 312                  | 13.7%           |
+| Opus      | 879    | 5.9              | 258                  | 15.5%           |
+| Inherited | 78     | 2.6              | 134                  | 20.5%           |
+| Haiku     | 29     | 1.4              | 145                  | 3.4%            |
+| Fable     | 28     | 21.6             | 490                  | 35.7%           |
 
 Read the table as a map of the jobs I give each model. I reach for Fable when the job needs the most intelligence, which is why its follow-up share runs highest, on only 28 agents. It says nothing about which model is better.
 
 By week the pattern held steady, with 11.6% to 16.1% of agents needing a follow-up.
 
-| Week starting | Agents | Median run (min) | Median brief (words) | Follow-up share |
-|---|---|---|---|---|
-| 21 Sep (from the 24th) | 561 | 8.4 | 313 | 11.6% |
-| 28 Sep | 1,548 | 5.3 | 272 | 16.1% |
-| 5 Oct | 680 | 7.5 | 293 | 12.9% |
-| 12 Oct (to the 17th) | 227 | 4.9 | 302 | 15.4% |
+| Week starting          | Agents | Median run (min) | Median brief (words) | Follow-up share |
+| ---------------------- | ------ | ---------------- | -------------------- | --------------- |
+| 21 Sep (from the 24th) | 561    | 8.4              | 313                  | 11.6%           |
+| 28 Sep                 | 1,548  | 5.3              | 272                  | 16.1%           |
+| 5 Oct                  | 680    | 7.5              | 293                  | 12.9%           |
+| 12 Oct (to the 17th)   | 227    | 4.9              | 302                  | 15.4%           |
 
 ## Limits
 

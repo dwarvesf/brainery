@@ -21,7 +21,7 @@ redirect:
 slug: capability-cliff
 ---
 
-For years our technical interview scored engineers on how fast they solved algorithm problems. The problems ran 40 minutes under time pressure and carried 60% of the score. In February 2026 we rewrote the hour. The candidate now works a realistic problem with AI tools switched on, and raw coding is 15% of the score.
+Until February 2026 our technical interview scored engineers on how fast they solved algorithm problems. The problems ran 40 minutes under time pressure and carried 60% of the score. Then we rewrote the hour. The candidate now works a realistic problem with AI tools switched on, and raw coding is 15% of the score. <!-- confirm: the new format replaced the old one; the plan is dated February 2026 and the week-6 checkpoint outcome is not in the record -->
 
 This page gives the dates, the weights, and the one number I can't give you yet: whether the new hour picks better people.
 
@@ -37,13 +37,13 @@ I have one clean case from my own records, and it's about me.
 
 On 12 October 2026 the router in my home office started failing every DNS lookup. A Mac mini behind it runs our team's bots, so everything that needed a name lookup went dark: monitoring, bot gateways, backups. The first failed lookup in the logs is at 02:01. By 07:22 I had tried four resets: the router, its WAN link, the Mini's network paths, the Mini itself. Each takes minutes and each feels like progress. None changed the symptom.
 
-At 09:06 pinning the Mini to a public resolver brought that one machine back. The cause was still unknown. The incident record's first useful comparison is at 22:20, about 20 hours after the first failure: the same query with DNSSEC validation switched off succeeded. The router validates answers against a root key that had rotated the day before, and it rejected every one. Turning its validation off at 09:12 the next day fixed every device in the house.
+At 09:06 pinning the Mini to a public resolver brought that one machine back. The cause was still unknown. The first useful comparison in my notes is at 22:20, about 20 hours after the first failure: the same query with DNSSEC validation switched off succeeded. The router validates answers against a root key that had rotated the day before, and it rejected every one. Turning its validation off at 09:12 the next day fixed name lookups for every device that used the router.
 
-![One outage on a timeline, from the first failed lookup to the fix {#fig-outage}](assets/capability-cliff-fig3-outage.svg 'Hours since the first failed lookup. The amber point is the one comparison that located the failing layer.')
+![One outage on a timeline, from the first failed lookup to the fix {#fig-outage}](assets/capability-cliff-fig2-outage.svg 'Hours since the first failed lookup. The amber point is the one comparison that located the failing layer.')
 
 That night I was missing one idea: a resolver can reject answers its upstream serves correctly. Resets don't test that idea, so more resets never got me closer.
 
-That's one night, and I wouldn't build a hiring theory on it. It does bear on a claim I disagree with. Goedecke writes that someone great at one of these capabilities is likely to be great at most of the others. My night says capability is lumpier. I run this infrastructure myself and still spent a night on the wrong layer. A loop that ranks people on a single axis misses that lumpiness in both directions. <!-- confirm: first-person account of the outage; the 22:20 entry is the first comparison in the written record, not proof that nobody ran it earlier -->
+That's one night, and I wouldn't build a hiring theory on it. It does bear on a claim I disagree with. Goedecke writes that someone great at one of the capabilities he lists, such as solving very difficult bugs, is likely to be great at most of the others. My night says capability is lumpier. I run this infrastructure myself and still spent a night on the wrong layer. A loop that ranks people on a single axis misses that lumpiness in both directions. <!-- confirm: first-person account of the outage; the 22:20 entry is the first comparison in the written record, not proof that nobody ran it earlier -->
 
 ## What the old loop measured
 
@@ -55,15 +55,15 @@ A hiring note from February 2026 described the technical hour as 40 minutes of a
 
 The table lists what I can date.
 
-| When | What | What it looked like |
-|---|---|---|
-| March 2022 | Whole loop, as published | A 20-minute form, a 30-minute phone screen and a one-hour technical interview: 1 hour 50 minutes in all |
-| Until February 2026 | Technical interview | 40 minutes of algorithm problems under time pressure, 60% of the score |
-| February 2026 | Technical interview | 60 minutes in three sections: AI-augmented problem solving (25 min), architecture and tradeoffs (20 min), communication (15 min). Raw coding 15%, domain knowledge 10% |
-| February 2026 | Rollout rule | Pilot the new format on the next 3 to 5 candidates beside the old one, with a checkpoint at week 6 |
-| By April 2026 | Screening | A 10-question AI-fluency census of 3 to 5 minutes for every contractor, and a revised design challenge, both on file |
+| When                | What                     | What it looked like                                                                                                                                                    |
+| ------------------- | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| March 2022          | Whole loop, as published | A 20-minute form, a 30-minute phone screen and a one-hour technical interview: 1 hour 50 minutes in all                                                                |
+| Until February 2026 | Technical interview      | 40 minutes of algorithm problems under time pressure, 60% of the score                                                                                                 |
+| February 2026       | Technical interview      | 60 minutes in three sections: AI-augmented problem solving (25 min), architecture and tradeoffs (20 min), communication (15 min). Raw coding 15%, domain knowledge 10% |
+| February 2026       | Rollout rule             | Pilot the new format on the next 3 to 5 candidates beside the old one, with a checkpoint at week 6                                                                     |
+| By April 2026       | Screening                | A 10-question AI-fluency census of 3 to 5 minutes for every contractor, and a revised design challenge, both on file                                                   |
 
-![Interview score weights before and after the February 2026 rewrite {#fig-weights .live}](assets/capability-cliff-fig2-weights.svg 'The algorithm and raw-coding share fell from 60% to 15%. Sections A, B and C take 25, 20 and 15 minutes.')
+![Interview score weights before and after the February 2026 rewrite {#fig-weights .live}](assets/capability-cliff-fig3-weights.svg 'The algorithm and raw-coding share fell from 60% to 15%. Sections A, B and C take 25, 20 and 15 minutes.')
 
 Two details of the guide matter more than the weights.
 

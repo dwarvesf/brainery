@@ -1,6 +1,6 @@
 ---
 draft: true
-title: Glue work
+title: The unglamorous work that keeps teams running
 description: Why the unglamorous work that keeps teams running matters more than you think, and how AI agents are changing the game. Learn when to do glue work tactically and how to leverage AI to handle the routine parts while you focus on shipping.
 date: 2025-01-27
 authors:
