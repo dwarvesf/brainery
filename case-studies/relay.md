@@ -53,18 +53,18 @@ We planned to support Relay for a few months. The engagement ran into 2022, beca
 
 For project management we used Slack for communication, Notion for documents and Trello for tasks. All designs lived in Figma. Every week from July 2021 we wrote a changelog for Relay with three headings: what is new, what improved, and the plan for next week. The table below is those changelogs, reduced to ten dated changes.
 
-| Changelog dated | What shipped |
-|---|---|
-| 18 Jul 2021 | A staging environment. The extension syncs its badge count when the network returns |
-| 30 Jul 2021 | Relay Sequence work stops mid-week and the team moves to the Performance dashboard |
-| 21 Aug 2021 | Performance dashboard live on production, a week after staging |
-| 28 Aug 2021 | Single sign-on with Okta through omniauth |
-| 11 Sep 2021 | Flagging on staging, a closed feedback loop between sender and receiver |
-| 2 Oct 2021 | Slack app submitted to the Slack App Directory |
-| 30 Oct 2021 | Gmail add-on, version 1, under review for the Google Workspace Marketplace |
-| 20 Dec 2021 | Free-tier limits implemented, scheduling for paid plans under way |
-| 3 Jan 2022 | Weekly summary email to team leads |
-| 14 Mar 2022 | Export for a single Relay, a team and an individual |
+| Changelog dated | What shipped                                                                        |
+| --------------- | ----------------------------------------------------------------------------------- |
+| 18 Jul 2021     | A staging environment. The extension syncs its badge count when the network returns |
+| 30 Jul 2021     | Relay Sequence work stops mid-week and the team moves to the Performance dashboard  |
+| 21 Aug 2021     | Performance dashboard live on production, a week after staging                      |
+| 28 Aug 2021     | Single sign-on with Okta through omniauth                                           |
+| 11 Sep 2021     | Flagging on staging, a closed feedback loop between sender and receiver             |
+| 2 Oct 2021      | Slack app submitted to the Slack App Directory                                      |
+| 30 Oct 2021     | Gmail add-on, version 1, under review for the Google Workspace Marketplace          |
+| 20 Dec 2021     | Free-tier limits implemented, scheduling for paid plans under way                   |
+| 3 Jan 2022      | Weekly summary email to team leads                                                  |
+| 14 Mar 2022     | Export for a single Relay, a team and an individual                                 |
 
 ## One API, four surfaces
 

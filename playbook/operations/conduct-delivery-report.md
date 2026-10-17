@@ -39,11 +39,11 @@ The write-up of this process says the ratings run from 1 to 5. The sample uses h
 
 The sample does not define the points. We read them this way <!-- confirm: proposed anchors, not recorded in the original page -->:
 
-| Score | Client happiness | Lead and account rating |
-|---|---|---|
-| 1 | The client has raised an escalation or missed a target because of us | The lead or account manager missed a commitment this month |
-| 3 | Targets met, no surprises | Commitments met, nothing proactive |
-| 5 | The client expanded scope or referred us | The lead or account manager changed the client's outcome |
+| Score | Client happiness                                                     | Lead and account rating                                    |
+| ----- | -------------------------------------------------------------------- | ---------------------------------------------------------- |
+| 1     | The client has raised an escalation or missed a target because of us | The lead or account manager missed a commitment this month |
+| 3     | Targets met, no surprises                                            | Commitments met, nothing proactive                         |
+| 5     | The client expanded scope or referred us                             | The lead or account manager changed the client's outcome   |
 
 We read the 0 on lead rating as "no lead assigned or not rated". <!-- confirm: meaning of 0 -->
 
