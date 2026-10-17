@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Billing
 description: This checklist illustrates the process of billing approval.
 date: 2020-01-01

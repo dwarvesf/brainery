@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Onboarding
 description: What we have to do when a new employee come to our team.
 date: 2020-01-01

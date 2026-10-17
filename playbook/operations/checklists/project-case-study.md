@@ -1,5 +1,6 @@
 ---
-title: Project case study
+draft: true
+title: Project case study checklist
 description: The checklist outline the criteria of a project case study article
 date: 2022-01-01
 authors:
