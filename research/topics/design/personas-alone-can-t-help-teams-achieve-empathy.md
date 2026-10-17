@@ -2,7 +2,7 @@
 draft: false
 title: Personas alone can t help teams achieve empathy
 description: Discover why personas alone may not build true user empathy in design teams and how relying on them can create a false sense of user understanding in product development.
-date: null
+date: 2026-08-27
 redirect:
   - /33cgpw
 ---
@@ -20,3 +20,5 @@ There is also the risk that the creation and use of personas provides the design
 #### Citation
 
 Haag, Maren, and Nicola Marsden. _“Exploring Personas as a Method to Foster Empathy in Student IT Design Teams.”_ International Journal of Technology and Design Education, April 24, 2018. [Link](https://doi.org/10.1007/s10798-018-9452-5).
+
+Adapted from David Drysdale's Moby Diction notes.

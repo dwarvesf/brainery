@@ -2,7 +2,7 @@
 draft: false
 title: Personas may create space for assumptions
 description: Learn why personas can mislead design teams by including unnecessary demographic details and how focusing on real user research improves understanding and creates better user experiences.
-date: null
+date: 2026-08-27
 redirect:
   - /Xv9vQg
 ---
@@ -25,9 +25,11 @@ Better than any persona is ongoing exposure to actual users.
 
 #### Related
 
-- [[People fill information gaps with assumptions]]
-- [[Personas lack rich context]]
+- People fill information gaps with assumptions
+- Personas lack rich context
 
 #### Related
 
 Klement, Alan. “Replacing Personas With Characters.” Medium (blog), September 2, 2017. [Link](https://medium.com/down-the-rabbit-hole/replacing-personas-with-characters-aa72d3cf6c69).
+
+Adapted from David Drysdale's Moby Diction notes.
