@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 352" role="group" aria-label="Fig. 2: three kinds of job and the signal that turns each one green" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid2" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/></pattern>
+    <marker id="ar2" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#c3d7ea"/></marker>
+    <marker id="am2" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#e8c56a"/></marker>
+  </defs>
+  <rect width="760" height="352" fill="#12395f"/>
+  <rect width="760" height="352" fill="url(#grid2)"/>
+  <rect x="0.5" y="0.5" width="759" height="351" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 2 · THREE KINDS OF JOB</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">COUNTS FROM THE CATALOG, 18 OCTOBER 2026</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+<rect x="24" y="56" width="190" height="76" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+<text x="38" y="75" font-size="9" letter-spacing="1.5" fill="#6f8fb0">SCHEDULED</text>
+<text x="38" y="93" font-size="10" fill="#e8f1fa">134 jobs</text>
+<rect x="236" y="56" width="214" height="76" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+<text x="250" y="75" font-size="9" letter-spacing="1.5" fill="#6f8fb0">WHAT IT IS</text>
+<text x="250" y="93" font-size="10" fill="#e8f1fa">cron triggers, launchd timers,</text>
+<text x="250" y="108" font-size="10" fill="#a7c0d9">stages of a runner</text>
+<rect x="468" y="56" width="268" height="76" fill="#21466a" stroke="#e8c56a" stroke-width="1.5"/>
+<text x="482" y="75" font-size="9" letter-spacing="1.5" fill="#e8c56a">A HEARTBEAT</text>
+<text x="482" y="93" font-size="10" fill="#e8f1fa">the job pings when it ends;</text>
+<text x="482" y="108" font-size="10" fill="#a7c0d9">silence past interval + grace pages</text>
+<line x1="214" y1="94" x2="234" y2="94" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#ar2)"/>
+<line x1="450" y1="94" x2="466" y2="94" stroke="#e8c56a" stroke-width="1.5" marker-end="url(#am2)"/>
+<rect x="24" y="148" width="190" height="76" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+<text x="38" y="167" font-size="9" letter-spacing="1.5" fill="#6f8fb0">DAEMON</text>
+<text x="38" y="185" font-size="10" fill="#e8f1fa">42 jobs</text>
+<rect x="236" y="148" width="214" height="76" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+<text x="250" y="167" font-size="9" letter-spacing="1.5" fill="#6f8fb0">WHAT IT IS</text>
+<text x="250" y="185" font-size="10" fill="#e8f1fa">KeepAlive services that</text>
+<text x="250" y="200" font-size="10" fill="#a7c0d9">should always run</text>
+<rect x="468" y="148" width="268" height="76" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+<text x="482" y="167" font-size="9" letter-spacing="1.5" fill="#6f8fb0">A PIN, A PROBE OR A LINK</text>
+<text x="482" y="185" font-size="10" fill="#e8f1fa">the agent reads the launchd label,</text>
+<text x="482" y="200" font-size="10" fill="#a7c0d9">or a link names who covers it</text>
+<line x1="214" y1="186" x2="234" y2="186" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#ar2)"/>
+<line x1="450" y1="186" x2="466" y2="186" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#ar2)"/>
+<rect x="24" y="240" width="190" height="76" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+<text x="38" y="259" font-size="9" letter-spacing="1.5" fill="#6f8fb0">ON-DEMAND</text>
+<text x="38" y="277" font-size="10" fill="#e8f1fa">9 jobs</text>
+<rect x="236" y="240" width="214" height="76" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+<text x="250" y="259" font-size="9" letter-spacing="1.5" fill="#6f8fb0">WHAT IT IS</text>
+<text x="250" y="277" font-size="10" fill="#e8f1fa">run by hand, or once at boot</text>
+<text x="250" y="292" font-size="10" fill="#a7c0d9">and then exit</text>
+<rect x="468" y="240" width="268" height="76" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+<text x="482" y="259" font-size="9" letter-spacing="1.5" fill="#6f8fb0">NOTHING</text>
+<text x="482" y="277" font-size="10" fill="#e8f1fa">listed for the record,</text>
+<text x="482" y="292" font-size="10" fill="#a7c0d9">never counted as a gap</text>
+<line x1="214" y1="278" x2="234" y2="278" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#ar2)"/>
+<line x1="450" y1="278" x2="466" y2="278" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#ar2)"/>
+<text x="24" y="338" font-size="9" fill="#a7c0d9">no match for a scheduled or daemon job: GAP, red. A near match: LIKELY, amber. A fresh parked heartbeat: PENDING, never a gap.</text>
+</svg>

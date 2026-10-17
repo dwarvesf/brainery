@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 392" role="group" aria-label="Fig. 3: the eleven incident write-ups on a dated axis" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid3" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/></pattern>
+    <marker id="ar3" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#c3d7ea"/></marker>
+    <marker id="am3" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#e8c56a"/></marker>
+  </defs>
+  <rect width="760" height="392" fill="#12395f"/>
+  <rect width="760" height="392" fill="url(#grid3)"/>
+  <rect x="0.5" y="0.5" width="759" height="391" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 3 · ELEVEN INCIDENTS, SIX MONTHS</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">21 APRIL TO 18 OCTOBER 2026</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+<line x1="40" y1="92" x2="720" y2="92" stroke="#68839d" stroke-width="1"/>
+<line x1="81.3" y1="87" x2="81.3" y2="97" stroke="#68839d"/>
+<text x="85.3" y="80" font-size="9" letter-spacing="1" fill="#6f8fb0">MAY</text>
+<line x1="197.8" y1="87" x2="197.8" y2="97" stroke="#68839d"/>
+<text x="201.8" y="80" font-size="9" letter-spacing="1" fill="#6f8fb0">JUN</text>
+<line x1="310.5" y1="87" x2="310.5" y2="97" stroke="#68839d"/>
+<text x="314.5" y="80" font-size="9" letter-spacing="1" fill="#6f8fb0">JUL</text>
+<line x1="427.0" y1="87" x2="427.0" y2="97" stroke="#68839d"/>
+<text x="431.0" y="80" font-size="9" letter-spacing="1" fill="#6f8fb0">AUG</text>
+<line x1="543.4" y1="87" x2="543.4" y2="97" stroke="#68839d"/>
+<text x="547.4" y="80" font-size="9" letter-spacing="1" fill="#6f8fb0">SEP</text>
+<line x1="656.1" y1="87" x2="656.1" y2="97" stroke="#68839d"/>
+<text x="660.1" y="80" font-size="9" letter-spacing="1" fill="#6f8fb0">OCT</text>
+<circle cx="55.0" cy="78" r="6" fill="#12395f" stroke="#c3d7ea" stroke-width="1.5"/>
+<text x="55.0" y="81.5" font-size="9" fill="#c3d7ea" text-anchor="middle">A</text>
+<circle cx="55.0" cy="106" r="6" fill="#12395f" stroke="#c3d7ea" stroke-width="1.5"/>
+<text x="55.0" y="109.5" font-size="9" fill="#c3d7ea" text-anchor="middle">B</text>
+<circle cx="77.6" cy="92" r="6" fill="#12395f" stroke="#c3d7ea" stroke-width="1.5"/>
+<text x="77.6" y="95.5" font-size="9" fill="#c3d7ea" text-anchor="middle">C</text>
+<circle cx="100.1" cy="92" r="6" fill="#12395f" stroke="#c3d7ea" stroke-width="1.5"/>
+<text x="100.1" y="95.5" font-size="9" fill="#c3d7ea" text-anchor="middle">D</text>
+<circle cx="118.9" cy="92" r="6" fill="#12395f" stroke="#e8c56a" stroke-width="2"/>
+<text x="118.9" y="95.5" font-size="9" fill="#e8c56a" text-anchor="middle">E</text>
+<circle cx="201.5" cy="92" r="6" fill="#12395f" stroke="#c3d7ea" stroke-width="1.5"/>
+<text x="201.5" y="95.5" font-size="9" fill="#c3d7ea" text-anchor="middle">F</text>
+<circle cx="231.6" cy="92" r="6" fill="#12395f" stroke="#c3d7ea" stroke-width="1.5"/>
+<text x="231.6" y="95.5" font-size="9" fill="#c3d7ea" text-anchor="middle">G</text>
+<circle cx="363.1" cy="92" r="6" fill="#12395f" stroke="#c3d7ea" stroke-width="1.5"/>
+<text x="363.1" y="95.5" font-size="9" fill="#c3d7ea" text-anchor="middle">H</text>
+<circle cx="569.7" cy="92" r="6" fill="#12395f" stroke="#c3d7ea" stroke-width="1.5"/>
+<text x="569.7" y="95.5" font-size="9" fill="#c3d7ea" text-anchor="middle">I</text>
+<circle cx="611.0" cy="92" r="6" fill="#12395f" stroke="#c3d7ea" stroke-width="1.5"/>
+<text x="611.0" y="95.5" font-size="9" fill="#c3d7ea" text-anchor="middle">J</text>
+<circle cx="686.2" cy="92" r="6" fill="#12395f" stroke="#c3d7ea" stroke-width="1.5"/>
+<text x="686.2" y="95.5" font-size="9" fill="#c3d7ea" text-anchor="middle">K</text>
+<text x="24" y="150" font-size="10" letter-spacing="1.5" fill="#c3d7ea">WHAT EACH ONE WAS</text>
+<text x="24" y="176" font-size="11" fill="#c3d7ea">A</text>
+<text x="44" y="176" font-size="10" fill="#e8f1fa">request counter burns the KV quota</text>
+<text x="44" y="190" font-size="9" fill="#6f8fb0">24 APR</text>
+<text x="24" y="210" font-size="11" fill="#c3d7ea">B</text>
+<text x="44" y="210" font-size="10" fill="#e8f1fa">retry buffer jams for good</text>
+<text x="44" y="224" font-size="9" fill="#6f8fb0">24 APR</text>
+<text x="24" y="244" font-size="11" fill="#c3d7ea">C</text>
+<text x="44" y="244" font-size="10" fill="#e8f1fa">probe aimed at a private address</text>
+<text x="44" y="258" font-size="9" fill="#6f8fb0">30 APR</text>
+<text x="24" y="278" font-size="11" fill="#c3d7ea">D</text>
+<text x="44" y="278" font-size="10" fill="#e8f1fa">dashboard denies everyone</text>
+<text x="44" y="292" font-size="9" fill="#6f8fb0">6 MAY</text>
+<text x="24" y="312" font-size="11" fill="#e8c56a">E</text>
+<text x="44" y="312" font-size="10" fill="#e8c56a">a forgotten Worker starves the account</text>
+<text x="44" y="326" font-size="9" fill="#6f8fb0">11 MAY</text>
+<text x="24" y="346" font-size="11" fill="#c3d7ea">F</text>
+<text x="44" y="346" font-size="10" fill="#e8f1fa">a second quota burn, same cause</text>
+<text x="44" y="360" font-size="9" fill="#6f8fb0">2 JUN</text>
+<text x="396" y="176" font-size="11" fill="#c3d7ea">G</text>
+<text x="416" y="176" font-size="10" fill="#e8f1fa">edge probe loses packets, pages</text>
+<text x="416" y="190" font-size="9" fill="#6f8fb0">10 JUN</text>
+<text x="396" y="210" font-size="11" fill="#c3d7ea">H</text>
+<text x="416" y="210" font-size="10" fill="#e8f1fa">empty docker output reads as down</text>
+<text x="416" y="224" font-size="9" fill="#6f8fb0">15 JUL</text>
+<text x="396" y="244" font-size="11" fill="#c3d7ea">I</text>
+<text x="416" y="244" font-size="10" fill="#e8f1fa">three flappers, one real defect</text>
+<text x="416" y="258" font-size="9" fill="#6f8fb0">8 SEP</text>
+<text x="396" y="278" font-size="11" fill="#c3d7ea">J</text>
+<text x="416" y="278" font-size="10" fill="#e8f1fa">one empty tick, three false pages</text>
+<text x="416" y="292" font-size="9" fill="#6f8fb0">19 SEP</text>
+<text x="396" y="312" font-size="11" fill="#c3d7ea">K</text>
+<text x="416" y="312" font-size="10" fill="#e8f1fa">monitors drift from the estate</text>
+<text x="416" y="326" font-size="9" fill="#6f8fb0">9 OCT</text>
+<text x="24" y="380" font-size="9" fill="#a7c0d9">Amber marks E: both hosts went silent within 20 seconds of each other, for about 9.5 hours.</text>
+</svg>
