@@ -37,7 +37,7 @@ The sample above has ten projects. Two are High, two are Medium +, five are Medi
 
 The write-up of this process says the ratings run from 1 to 5. The sample uses half points, and one lead rating is 0. No cell in it reaches 5. Client happiness runs from 2 to 4 and averages 3.1. Lead rating averages 2.2 and account rating averages 2.2. One month and ten projects prove little, but the pattern is plain: we rate our leads and account managers nearly a point below how happy we judge the client to be, and a 3 is a good month.
 
-The sample does not define the points. We read them this way <!-- confirm: proposed anchors, not recorded in the original page -->:
+The sample does not define the points. We read them this way:
 
 | Score | Client happiness                                                     | Lead and account rating                                    |
 | ----- | -------------------------------------------------------------------- | ---------------------------------------------------------- |
@@ -45,7 +45,7 @@ The sample does not define the points. We read them this way <!-- confirm: propo
 | 3     | Targets met, no surprises                                            | Commitments met, nothing proactive                         |
 | 5     | The client expanded scope or referred us                             | The lead or account manager changed the client's outcome   |
 
-We read the 0 on lead rating as "no lead assigned or not rated". <!-- confirm: meaning of 0 -->
+We read the 0 on lead rating as "no lead assigned or not rated".
 
 ## Data gathering
 
@@ -70,7 +70,7 @@ Evaluate the team's performance based on the following criteria:
 
 ### Project priority
 
-Assess the importance of each project based on its deal size, its potential to open new opportunities and any strategic partnership. The sample records these as the Important level and the Deal types tags. It shows no weighted formula. <!-- confirm: there is no numeric weighting behind Important -->
+Assess the importance of each project based on its deal size, its potential to open new opportunities and any strategic partnership. The sample records these as the Important level and the Deal types tags. It shows no weighted formula.
 
 ## Conducting the report
 
@@ -80,6 +80,4 @@ Once all data is collected, compile the table with highlights for:
 - **Client happiness and performance ratings:** rate client satisfaction, lead performance and account performance.
 - **Issues and resolutions logs:** document each issue and the resolution we applied.
 
-<!-- needs Han: owner, hours to produce one report, and the decisions the last three reports triggered (reassign, escalate, cut) -->
-
-The [project reports system](/ai-powered-monthly-project-reports) summarizes each project's Discord traffic every month and can feed the artifact collection step. <!-- confirm: that the delivery report uses its output today --> The original screenshot of this page is still available as [the Notion capture](assets/how-to-conduct-delivery-reports_delivery-report-sample.webp).
+The [project reports system](/ai-powered-monthly-project-reports) summarizes each project's Discord traffic every month and can feed the artifact collection step. The original screenshot of this page is still available as [the Notion capture](assets/how-to-conduct-delivery-reports_delivery-report-sample.webp).

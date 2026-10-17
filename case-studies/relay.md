@@ -28,10 +28,10 @@ United States
 Relay at teamrelay.co, a tool that shows a manager who acknowledged an assignment, who finished it and how long it took. It is not the later relay.app automation product.
 
 **Engagement**\
-Weekly changelogs run from 4 July 2021 to 14 March 2022, 32 issues in all. <!-- needs Han: kickoff date and MVP date, which the Notion records for 2021 do not carry -->
+Weekly changelogs run from 4 July 2021 to 14 March 2022, 32 issues in all.
 
 **Team**\
-Two engineers until the end of September 2021, one from October. <!-- confirm: the 25 Sep 2021 changelog says one engineer's last week is the next one and the other continues to maintain the product -->
+Two engineers until the end of September 2021, one from October.
 
 **Stack**\
 Ruby on Rails, React with TailwindCSS and Storybook, AWS Amplify, WebSockets, Amplitude.
@@ -82,20 +82,20 @@ Three decisions came out of that shape.
 
 Every action a user takes also records where it came from: dashboard, extension or Slack. We added that source tracking on 16 October 2021, alongside the Amplitude events.
 
-Flipper and Sidekiq together drove A/B tests and gradual rollouts, and the codebase was one monorepo. <!-- needs Han: one Flipper flag followed from creation to removal, and what the monorepo cost in build time, from the client repository -->
+Flipper and Sidekiq together drove A/B tests and gradual rollouts, and the codebase was one monorepo.
 
 ## What it cost
 
-Relay Sequence never shipped. The chain relay form started on 4 July 2021, the sequence component followed on 11 July, and the Sequence Chart and Progress view were designed on 23 July. On 30 July the priorities changed, and the team moved to the Performance dashboard that same week. <!-- needs Han: client permission to say why Sequence stopped; the changelog gives the reason, and it concerns a Relay customer -->
+Relay Sequence never shipped. The chain relay form started on 4 July 2021, the sequence component followed on 11 July, and the Sequence Chart and Progress view were designed on 23 July. On 30 July the priorities changed, and the team moved to the Performance dashboard that same week.
 
 The Slack app spent months in review. We submitted it on 2 October 2021. On 28 February 2022 we were still working through feedback from the Slack team, and the 7 March changelog reports the app "pending for another round of review". The changelogs never record a listing approval.
 
-The team also thinned. After the end of September 2021 the project moved from product speed to fundraising and sales, and one engineer carried it. Slack flagging, company tiers, bulk invitations, the Gmail add-on, scheduling, SMS notifications and exports all appear in the changelogs of the five months that followed. <!-- confirm: single engineer after September 2021 -->
+The team also thinned. After the end of September 2021 the project moved from product speed to fundraising and sales, and one engineer carried it. Slack flagging, company tiers, bulk invitations, the Gmail add-on, scheduling, SMS notifications and exports all appear in the changelogs of the five months that followed.
 
 ## Outcome
 
-The MVP went out with a Chrome extension, a web app for settings, an analytics dashboard and a Slack bot. Relay began to acquire paying customers and prepared its seed round, and we kept shipping. Relay published its own notes on this period, including its [May 2021 product update](https://teamrelay.medium.com/relay-product-updates-may-2021-f7b3db7002c5). <!-- confirm: that page returned 403 and has no web archive copy, so its content was not checked against the Sequence Chart and Progress claims in the first draft -->
+The MVP went out with a Chrome extension, a web app for settings, an analytics dashboard and a Slack bot. We kept shipping after launch. Relay published its own notes on this period, including its [May 2021 product update](https://teamrelay.medium.com/relay-product-updates-may-2021-f7b3db7002c5).
 
 ![Relay's web dashboard: weekly counts on the left and the acknowledge prompt on the right](assets/relay-dashboard-interface.webp)
 
-By early 2022 the Relay site carried named customer quotes from support teams and a pricing page, whose new UI is in our 13 December 2021 changelog. <!-- needs Han: client permission for any customer count, revenue or funding figure; none is public -->
+By early 2022 the Relay site carried named customer quotes from support teams and a pricing page, whose new UI is in our 13 December 2021 changelog.

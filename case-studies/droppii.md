@@ -23,10 +23,10 @@ E-commerce, dropshipping
 Vietnam, with a US web build in October 2022
 
 **Engagement**\
-August 2022 to October 2023, in two phases <!-- confirm: start date is the first Team Info start date, 8 Aug 2022; end date is the last weekly changelog, 9 Oct 2023 -->
+August 2022 to October 2023, in two phases
 
 **Team**\
-Eight people at the September 2022 peak: a project manager, a designer, a tech lead, two web engineers, two React Native engineers and an automation QA. Three by mid-2023. <!-- confirm: headcount from the project's Team Info table -->
+Eight people at the September 2022 peak: a project manager, a designer, a tech lead, two web engineers, two React Native engineers and an automation QA. Three by mid-2023.
 
 **Stack**\
 React and React Native on our side. Droppii's own engineers owned the .NET and Java services behind them.
@@ -70,10 +70,9 @@ The Issue and Block list in a weekly report is a short list by design, and ours 
 
 One ticket shows how a thin team spends its time. "Update README to include release process" sat under In Progress in 22 weekly reports between 6 February and 9 October 2023, and never reached Done in any of them. The monorepo release flow itself was set up in January 2023. Writing it down lost every sprint to a feature ticket.
 
-The team also shrank faster than the scope. Eight people peaked in September 2022, four remained after 30 December, and three after 26 April 2023, while ERP and dashboard work kept arriving. <!-- confirm: peak 8 and the later drops come from the Team Info start and last dates, which may omit later joiners -->
+The team also shrank faster than the scope. Eight people peaked in September 2022, four remained after 30 December, and three after 26 April 2023, while ERP and dashboard work kept arriving.
 
 ## Outcome
 
 Public evidence is thin and Droppii's own numbers belong to Droppii. The app has since moved from v3 to v4.22 and its App Store listing shows 4.8 stars from 15,000 ratings as of October 2026 ([listing](https://apps.apple.com/vn/app/droppii-biz-d%C3%A0nh-cho-ng%C6%B0%E1%BB%9Di-b%C3%A1n/id1623128934)). At the December 2023 launch of its consumer app, Droppii Mall, Droppii said the seller app had passed 100,000 downloads and distributed more than 135,000 SKUs a month, per [Congly](https://congly.vn/ra-mat-ung-dung-droppii-mall-mo-rong-giai-phap-mua-sam-danh-cho-khach-hang-408018.html). Those figures describe the product, not our share of it.
 
-<!-- needs Han: client permission for one before and after number (release cadence, crash-free sessions or dashboard load time) and a short quote from Droppii -->
