@@ -18,7 +18,7 @@ slug: event-takeaways-3rd
 
 Just wrapped up three crypto events that painted a pretty clear picture of where we're at right now. Here's what I saw on the ground.
 
-## **Web3 builders' summit: speed is everything**
+## **Web3 Builders' Summit: speed is everything**
 
 The pace is absolutely wild. Teams are going from idea to beta in two weeks flat. Not two months, not six weeks – _two weeks_.
 
@@ -31,7 +31,7 @@ Key observations:
 - The days of raising on whitepapers are long gone
 - Now it's all about traction, users, and real metrics
 
-## **Supervietnam in danang: the quiet revolution**
+## **SuperVietnam in Da Nang: the quiet revolution**
 
 Danang caught me off guard. While everyone's been watching Thailand and Singapore, Vietnam has been quietly building serious blockchain infrastructure.
 
@@ -54,7 +54,7 @@ The conversations I overheard between government officials and builders felt ref
 
 This feels like the early Singapore playbook all over again.
 
-## **Solana summit APAC: pivots and realizations**
+## **Solana Summit APAC: pivots and realizations**
 
 The Solana event revealed something interesting about market maturity. Teams that started building DeFi protocols are quietly pivoting to enterprise solutions.
 

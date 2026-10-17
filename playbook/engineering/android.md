@@ -1,5 +1,5 @@
 ---
-title: Best practices in android development
+title: Best practices in Android development
 description: Android development practices covering Gradle setup, libraries, app structure, resources, testing, ProGuard, storage and CI, forked from the Futurice guide.
 date: null
 redirect:
@@ -141,7 +141,7 @@ Sharing the debug APK keystore file via the app repository saves time when testi
 **Share code style formatting defintions**
 Sharing the code style and formatting definitions via the app repository helps ensure a visually consistent code base and makes code comprehension and reviews easier.
 
-### Android studio as your main IDE
+### Android Studio as your main IDE
 
 The recommended IDE for Android development is [Android Studio](https://developer.android.com/sdk/installing/studio.html) because it is developed and constantly updated by Google, has good support for Gradle, contains a range of useful monitoring and analysis tools and is fully tailored for Android development.
 
@@ -533,13 +533,13 @@ You still need to write some parsing code yourself to read the data objects from
 
 We generally do not recommend using an Object-Relation Mapping library unless you have unusually complex data and you have a dire need. They tend to be complex and require time to learn. If you decide to go with an ORM you should pay attention to whether or not it is _process safe_ if your application requires it, as many of the existing ORM solutions surprisingly are not.
 
-### Use stetho
+### Use Stetho
 
 [Stetho](http://facebook.github.io/stetho/) is a debug bridge for Android applications from Facebook that integrates with the Chrome desktop browser's Developer Tools. With Stetho you can easily inspect your application, most notably the network traffic. It also allows you to easily inspect and edit SQLite databases and the shared preferences in your app. You should, however, make sure that Stetho is only enabled in the debug build and not in the release build variant.
 
 Another alternative is [Chuck](https://github.com/jgilfelt/chuck) which, although offering slightly more simplified functionality, is still useful for testers as the logs are displayed on the device, rather than in the more complicated connected Chrome browser setup that Stetho requires.
 
-### Use leakcanary
+### Use LeakCanary
 
 [LeakCanary](https://github.com/square/leakcanary) is a library that makes runtime detection and identification of memory leaks a more routine part of your application development process. See the library [wiki](https://github.com/square/leakcanary/wiki) for details on configuration and usage. Just remember to configure only the "no-op" dependency in your release build!
 
