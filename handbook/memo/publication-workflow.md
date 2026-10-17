@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Memo publication workflow
 description: This guide will help you step-by-step create content and publish on memo.
 date: 2024-06-12
@@ -8,8 +9,7 @@ authors:
 tags:
   - guide
   - memo
-redirect:
-  - /cbnI7g
+redirect: []
 ---
 
 ### Choosing the right directory for the right topic

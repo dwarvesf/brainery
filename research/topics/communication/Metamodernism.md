@@ -1,8 +1,8 @@
 ---
 draft: false
-title: null
-description: null
-date: null
+title: "Metamodernism (reading note)"
+description: "Metamodernism, a cultural mode following modernism and postmodernism, describes a pattern of cultural philosophy emerged in the late twentieth century."
+date: 2026-08-27
 tags:
   - communication
   - story-telling
@@ -21,3 +21,5 @@ Metamodernism works often combine honesty with irony, and "remix" past cultural 
 #### Reference
 
 Cunff, Anne-Laure Le. “An Introduction to Metamodernism: The Cultural Philosophy of the Digital Age.” _Ness Labs_ (blog), December 12, 2019. [https://nesslabs.com/metamodernism](https://nesslabs.com/metamodernism).
+
+Adapted from David Drysdale's Moby Diction notes.

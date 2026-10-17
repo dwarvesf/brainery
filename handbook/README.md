@@ -46,9 +46,8 @@ If you've just joined us, you're in a unique position. You can see things we've 
 
 - [How we work](how-we-work.md) - Our approach to delivering quality software
 - [Work routine](routine.md) - Our daily, weekly, and cycle-based workflows
-- [Where we work](where-we-work.md) - Office, remote, and hybrid options
+- [Where we work](where-we-work-office-home-cafes.md) - Office, home, cafés and coworking spaces, and how to pick one
 - [Hybrid working](hybrid-working.md) - Balancing remote and office work
-- [Places to work](places-to-work.md) - Finding productive environments
 - [How we hire](how-we-hire.md) - Our approach to finding the right people
 - [How we spend money](how-we-spend-money.md) - Our financial principles
 - [Security rules](security-rules.md) - Keeping data and devices secure

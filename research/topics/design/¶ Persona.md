@@ -1,8 +1,8 @@
 ---
 draft: false
-title: ¶ persona
+title: "Persona (reading note)"
 description: User personas help product teams understand user needs, behaviors, and goals by creating realistic profiles that guide design and improve user experience in marketing and development.
-date: null
+date: 2026-08-27
 redirect:
   - /fEiH4w
 ---
@@ -19,8 +19,8 @@ A user persona should be realistic, not idealized, and serve to help teams under
 
 #### Related
 
-- [[Personas alone can't help teams achieve empathy]]
-- [[Personas document shared understanding about users]]
+- Personas alone can't help teams achieve empathy
+- Personas document shared understanding about users
 
 #### Citations
 
@@ -33,3 +33,5 @@ Harley, Aurora. _“Personas Make Users Memorable for Product Team Members.”_ 
 Salazar, Kim. _“Just-Right Personas: How to Choose the Scope of Your Personas.”_ Nielsen Norman Group. Accessed October 12, 2020. [Link](https://www.nngroup.com/articles/persona-scope/).
 
 Young, Indi. _“Describing Personas.”_ Medium (blog), August 13, 2020. [Link](https://medium.com/inclusive-software/describing-personas-af992e3fc527)
+
+Adapted from David Drysdale's Moby Diction notes.

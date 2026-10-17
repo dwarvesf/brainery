@@ -1,11 +1,10 @@
 ---
-draft: false
-title: Finite state automata
+draft: true
+title: "Finite-state automata: definition, states and transitions"
 description: Learn what finite-state automata are, how they model systems using states and transitions, and see practical examples of state machines in programming with key concepts like states, events, and transitions.
 date: 2022-06-28
 github_id: monotykamary
-redirect:
-  - /i0OgDQ
+redirect: []
 ---
 
 ## What are finite-state automata?
