@@ -4,7 +4,7 @@ title: "Waterfall and Agile: no perfect method (reading note)"
 description: "Each software lifecycle is designed for a particular type of development."
 date: 2026-08-27
 tags:
-  - 101
+  - "101"
   - agile
   - engineering
   - process

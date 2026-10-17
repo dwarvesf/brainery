@@ -1,6 +1,6 @@
 ---
 draft: true
-title: Stream aligned team
+title: "Stream-aligned teams: owning a flow of work end to end"
 description: Learn how stream-aligned teams enable fast delivery by owning end-to-end work, reducing hand-offs, and adapting quickly to change for better software flow and customer feedback.
 date: 2022-09-19
 github_id: zlatanpham

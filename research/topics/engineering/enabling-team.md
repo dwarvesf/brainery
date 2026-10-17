@@ -1,6 +1,6 @@
 ---
 draft: true
-title: Enabling team
+title: "Enabling teams: how they help stream-aligned teams learn"
 description: Learn how enabling teams support stream-aligned teams by bridging skill gaps, sharing expertise, and improving delivery through collaboration, technical guidance, and knowledge transfer.
 date: 2022-08-15
 github_id: zlatanpham

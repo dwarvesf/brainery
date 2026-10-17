@@ -1,6 +1,6 @@
 ---
 draft: true
-title: UIKit builder pattern
+title: "Build reusable UIKit interfaces with the builder pattern"
 description: Learn how to build reusable, flexible UIKit user interfaces using the builder pattern with Swift extensions and @discardableResult for cleaner, declarative UI code.
 date: 2022-08-05
 github_id: viettrungphan

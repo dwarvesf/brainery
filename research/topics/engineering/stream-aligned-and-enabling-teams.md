@@ -82,13 +82,13 @@ The goal is to help stream-aligned teams deliver working software in a sustainab
 
 ## How the two fit
 
-| | Stream-aligned team | Enabling team |
-|---|---|---|
-| Job | Delivers a stream of valuable work end to end | Raises the capabilities of stream-aligned teams |
-| Owns | The product, service, feature set or persona | Guidance, tools and learning, not delivery |
-| Time with a given team | Ongoing | Weeks or months, then it moves on |
+|                        | Stream-aligned team                           | Enabling team                                   |
+| ---------------------- | --------------------------------------------- | ----------------------------------------------- |
+| Job                    | Delivers a stream of valuable work end to end | Raises the capabilities of stream-aligned teams |
+| Owns                   | The product, service, feature set or persona  | Guidance, tools and learning, not delivery      |
+| Time with a given team | Ongoing                                       | Weeks or months, then it moves on               |
 
 ## References
 
-- Manuel Pais and Matthew Skelton, *Team Topologies: Organizing Business and Technology Teams for Fast Flow*
+- Manuel Pais and Matthew Skelton, _Team Topologies: Organizing Business and Technology Teams for Fast Flow_
 - [Key concepts](https://teamtopologies.com/key-concepts) on teamtopologies.com

@@ -20,7 +20,7 @@ redirect:
   - /noIBDA
 ---
 
-Three short team notes cover Nir Eyal's *Hooked: How to Build Habit-Forming Products*: the four phases of the Hook Model, a checklist of six hook elements, and a comparison with the AARRR funnel. Han curated them into this page. The wording is restated in short form, and the ideas belong to Eyal.
+Three short team notes cover Nir Eyal's _Hooked: How to Build Habit-Forming Products_: the four phases of the Hook Model, a checklist of six hook elements, and a comparison with the AARRR funnel. Han curated them into this page. The wording is restated in short form, and the ideas belong to Eyal.
 
 ## The Hook Model in four phases
 
@@ -45,10 +45,10 @@ For a product to become a habit, it must couple tightly to a negative feeling. P
 
 The action is what the user does in anticipation of a reward. Without it, the trigger is useless. Three factors drive it:
 
-| Factor | Question it answers |
-|---|---|
-| Motivation | How much does the user want to do it? |
-| Ability | Is anything in the way? |
+| Factor     | Question it answers                                       |
+| ---------- | --------------------------------------------------------- |
+| Motivation | How much does the user want to do it?                     |
+| Ability    | Is anything in the way?                                   |
 | Simplicity | How many steps stand between the user and what they need? |
 
 ### 3. Variable reward
@@ -76,15 +76,15 @@ The second note turns the model into six points an entrepreneur should weigh bef
 
 AARRR is a strategy for building the user journey. The Hook Model is a process for making a product habitual.
 
-| | AARRR | Hook Model |
-|---|---|---|
-| Purpose | Strategy to build the user journey | Process to create a habitual product |
-| Number of steps | 5 | 4 |
-| Step 1 | Acquisition | Trigger |
-| Step 2 | Activation | Action |
-| Step 3 | Retention | Variable reward |
-| Step 4 | Referral | Investment |
-| Step 5 | Revenue | none |
+|                 | AARRR                              | Hook Model                           |
+| --------------- | ---------------------------------- | ------------------------------------ |
+| Purpose         | Strategy to build the user journey | Process to create a habitual product |
+| Number of steps | 5                                  | 4                                    |
+| Step 1          | Acquisition                        | Trigger                              |
+| Step 2          | Activation                         | Action                               |
+| Step 3          | Retention                          | Variable reward                      |
+| Step 4          | Referral                           | Investment                           |
+| Step 5          | Revenue                            | none                                 |
 
 AARRR focuses on bringing in new users. The Hook Model focuses on keeping current customers using the product. Both start by getting users to engage and steering them toward an intended action, so they look alike until the action step:
 
@@ -103,6 +103,6 @@ The note ends with a personal view. It reads the pairing as a case of Agile in p
 
 ## References
 
-- Nir Eyal, [*Hooked: How to Build Habit-Forming Products*](http://www.nirandfar.com/hooked)
+- Nir Eyal, [_Hooked: How to Build Habit-Forming Products_](http://www.nirandfar.com/hooked)
 - [Want to hook your users? Drive them crazy](http://www.nirandfar.com/2012/03/want-to-hook-your-users-drive-them-crazy.html) on Nir and Far
 - [Video games can activate the brain's pleasure circuits](https://www.psychologytoday.com/blog/the-compass-pleasure/201110/video-games-can-activate-the-brains-pleasure-circuits-0) on Psychology Today

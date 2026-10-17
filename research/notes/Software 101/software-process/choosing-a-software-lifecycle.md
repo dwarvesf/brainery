@@ -2,12 +2,12 @@
 title: "Waterfall, iterative or Agile: how to choose a software lifecycle for a project"
 description: "Software 101 notes on when Waterfall, iterative and Agile each fit, where each one breaks, and why no single lifecycle suits every software project."
 slug: choosing-waterfall-iterative-or-agile
-kind: essay
+kind: note
 date: 2026-10-18
 authors:
   - tieubao
 tags:
-  - 101
+  - "101"
   - engineering
   - process
   - waterfall
@@ -25,11 +25,11 @@ Two Software 101 notes ask one question: which software lifecycle fits a given p
 
 Both approaches follow a well-defined process with specific details. They differ in when they fit and what they risk.
 
-| | Waterfall | Iterative |
-|---|---|---|
-| Choose it when | Requirements are well understood. The project must follow rules and regulations, such as a large critical project or a government one, and needs a high level of quality and documentation. | Requirements are unclear and still change. The product must reach customers quickly, even if it is not complete yet. |
-| Release | You complete everything, then release the product to customers all at once. | You deliver fast, and customers use the product in small parts as they need it. |
-| Main risk | If requirements change, much of the work has to be redone. If the project is too big and takes too long, the technology may change and make it obsolete. | The team can become too reactive to a stream of small changes. Too many changes make the product more complex and harder to maintain, and the speed of delivery can compromise quality. |
+|                | Waterfall                                                                                                                                                                                   | Iterative                                                                                                                                                                               |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Choose it when | Requirements are well understood. The project must follow rules and regulations, such as a large critical project or a government one, and needs a high level of quality and documentation. | Requirements are unclear and still change. The product must reach customers quickly, even if it is not complete yet.                                                                    |
+| Release        | You complete everything, then release the product to customers all at once.                                                                                                                 | You deliver fast, and customers use the product in small parts as they need it.                                                                                                         |
+| Main risk      | If requirements change, much of the work has to be redone. If the project is too big and takes too long, the technology may change and make it obsolete.                                    | The team can become too reactive to a stream of small changes. Too many changes make the product more complex and harder to maintain, and the speed of delivery can compromise quality. |
 
 Each approach has strengths and weaknesses, and each should be used where it is strong. Knowing the weaknesses lets you plan risk mitigation ahead of time.
 
