@@ -12,6 +12,8 @@ tags:
   - tooling
   - hidden-bar
 slug: macbook-notch-macos-27
+redirect:
+  - /reports/commentary/macbook-notch-macos-27
 ---
 
 ## TL;DR

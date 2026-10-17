@@ -12,6 +12,7 @@ tags:
   - frontend
   - debugging
 slug: browser-loop-layout-debug
+series: harness-engineering
 ---
 
 ## TL;DR
