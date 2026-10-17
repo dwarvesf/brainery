@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" role="group" aria-label="Fig. 2: Relay&#x27;s Chrome extension, web dashboard, Slack app and Gmail add-on all call one Rails API, with Okta for sign-in, Amplitude for events and Flipper with Sidekiq for rollout" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<defs>
+<pattern id="rsgrid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/></pattern>
+</defs>
+<rect width="760" height="330" fill="#12395f"/>
+<rect width="760" height="330" fill="url(#rsgrid)"/>
+<rect x="0.5" y="0.5" width="759" height="329" fill="none" stroke="#68839d"/>
+<text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 2 · FOUR SURFACES, ONE RAILS API</text>
+<text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">STEP THROUGH THEM</text>
+<line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+<rect x="24" y="62" width="200" height="46" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/><text x="124.0" y="83.0" font-size="10" fill="#e8f1fa" text-anchor="middle" letter-spacing="0.6">CHROME EXTENSION</text><text x="124.0" y="97.0" font-size="10" fill="#a7c0d9" text-anchor="middle">-develop.x builds hit staging</text>
+<rect x="24" y="124" width="200" height="46" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/><text x="124.0" y="145.0" font-size="10" fill="#e8f1fa" text-anchor="middle" letter-spacing="0.6">WEB DASHBOARD</text><text x="124.0" y="159.0" font-size="10" fill="#a7c0d9" text-anchor="middle">on AWS Amplify</text>
+<rect x="24" y="186" width="200" height="46" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/><text x="124.0" y="207.0" font-size="10" fill="#e8f1fa" text-anchor="middle" letter-spacing="0.6">SLACK APP</text><text x="124.0" y="221.0" font-size="10" fill="#a7c0d9" text-anchor="middle">reminders, flagging, invites</text>
+<rect x="24" y="248" width="200" height="46" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/><text x="124.0" y="269.0" font-size="10" fill="#e8f1fa" text-anchor="middle" letter-spacing="0.6">GMAIL ADD-ON</text><text x="124.0" y="283.0" font-size="10" fill="#a7c0d9" text-anchor="middle">Apps Script, OAuth2</text>
+<rect x="306" y="130" width="168" height="80" rx="4" fill="#21466a" stroke="#e8c56a" stroke-width="2"/><text x="390.0" y="168.0" font-size="10" fill="#e8c56a" text-anchor="middle" letter-spacing="0.6">RAILS API</text><text x="390.0" y="182.0" font-size="10" fill="#a7c0d9" text-anchor="middle">one API, every surface</text>
+<rect x="546" y="62" width="190" height="46" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/><text x="641.0" y="83.0" font-size="10" fill="#e8f1fa" text-anchor="middle" letter-spacing="0.6">OKTA SSO</text><text x="641.0" y="97.0" font-size="10" fill="#a7c0d9" text-anchor="middle">omniauth, 28 Aug 2021</text>
+<rect x="546" y="148" width="190" height="46" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/><text x="641.0" y="169.0" font-size="10" fill="#e8f1fa" text-anchor="middle" letter-spacing="0.6">AMPLITUDE</text><text x="641.0" y="183.0" font-size="10" fill="#a7c0d9" text-anchor="middle">events + action source</text>
+<rect x="546" y="234" width="190" height="46" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/><text x="641.0" y="255.0" font-size="10" fill="#e8f1fa" text-anchor="middle" letter-spacing="0.6">FLIPPER + SIDEKIQ</text><text x="641.0" y="269.0" font-size="10" fill="#a7c0d9" text-anchor="middle">A/B tests, gradual rollout</text>
+<line x1="224" y1="85" x2="306" y2="150" stroke="#c3d7ea" stroke-width="1.5"/>
+<line x1="224" y1="147" x2="306" y2="163" stroke="#c3d7ea" stroke-width="1.5"/>
+<line x1="224" y1="209" x2="306" y2="177" stroke="#c3d7ea" stroke-width="1.5"/>
+<line x1="224" y1="271" x2="306" y2="192" stroke="#c3d7ea" stroke-width="1.5"/>
+<line x1="474" y1="150" x2="546" y2="85" stroke="#c3d7ea" stroke-width="1.5"/>
+<line x1="474" y1="170" x2="546" y2="171" stroke="#c3d7ea" stroke-width="1.5"/>
+<line x1="474" y1="192" x2="546" y2="257" stroke="#c3d7ea" stroke-width="1.5"/>
+<text x="14" y="314" font-size="10" fill="#6f8fb0">Hover a box or a line for the dated fact behind it.</text>
+</svg>
