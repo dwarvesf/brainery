@@ -386,4 +386,4 @@ Beyond very simple examples, state machines grow numerous states, many with iden
 - [wickstrom.tech: finite-state machines, part 1](https://wickstrom.tech/finite-state-machines/2017/11/10/finite-state-machines-part-1-modeling-with-haskell.html)
 - [dev.to: modelling domain with state machines in ReasonML](https://dev.to/margaretkrutikova/modelling-domain-with-state-machines-in-reasonml-n29)
 - [blog.honosoft.com: partial state machine](https://blog.honosoft.com/2019/10/31/partial-state-machine/)
-- [unstop.com: difference between Mealy and Moore machine](https://unstop.com/blog/difference-between-mealy-and-moore-machine)
+- [Unstop.com: difference between Mealy and Moore machine](https://unstop.com/blog/difference-between-mealy-and-moore-machine)
