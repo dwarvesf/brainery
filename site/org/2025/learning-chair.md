@@ -1,5 +1,6 @@
 ---
-title: Learning chair
+draft: true
+title: Learning chair in the 2025 roadmap
 description: Leading our labs team to explore, assess, and share the newest technologies across the organization
 date: 2025-01-14
 authors:
@@ -8,10 +9,8 @@ tags:
   - roadmap
   - learning
   - labs
-redirect:
-  - /org/2025/learning-chair
-  - /U4XMXQ
 slug: org-learning-chair
+redirect: []
 ---
 
 ## Our mission

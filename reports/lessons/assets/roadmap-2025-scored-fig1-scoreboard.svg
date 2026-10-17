@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 732" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<defs>
+    <pattern id="g1" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="732" fill="#12395f"/>
+  <rect width="760" height="732" fill="url(#g1)"/>
+  <rect x="0.5" y="0.5" width="759" height="731" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 1 · 22 PROMISES, SCORED</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">KEPT, HALF KEPT, DROPPED</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+  <rect x="14.0" y="46" width="164.4" height="34" fill="#12395f" fill-opacity="0.01"/>
+  <rect x="14.0" y="66" width="164.4" height="14" fill="#e8f1fa"/>
+  <text x="14.0" y="58" font-size="10" letter-spacing="1" fill="#e8f1fa">5 KEPT</text>
+  <rect x="180.4" y="46" width="264.2" height="34" fill="#12395f" fill-opacity="0.01"/>
+  <rect x="180.4" y="66" width="264.2" height="14" fill="#68839d"/>
+  <text x="180.4" y="58" font-size="10" letter-spacing="1" fill="#a7c0d9">8 HALF KEPT</text>
+  <rect x="446.5" y="46" width="297.5" height="34" fill="#12395f" fill-opacity="0.01"/>
+  <rect x="446.5" y="66" width="297.5" height="14" fill="#e8c56a"/>
+  <text x="446.5" y="58" font-size="10" letter-spacing="1" fill="#e8c56a">9 DROPPED</text>
+  <text x="556" y="112" font-size="9" letter-spacing="1" fill="#6f8fb0" text-anchor="middle">KEPT</text>
+  <text x="622" y="112" font-size="9" letter-spacing="1" fill="#6f8fb0" text-anchor="middle">HALF</text>
+  <text x="688" y="112" font-size="9" letter-spacing="1" fill="#e8c56a" text-anchor="middle">DROPPED</text>
+  <line x1="14" y1="118" x2="746" y2="118" stroke="#385a7b"/>
+  <text x="14" y="132" font-size="9" letter-spacing="1.5" fill="#6f8fb0">THE PLAN</text>
+  <line x1="318" y1="149" x2="720" y2="149" stroke="#385a7b" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+  <text x="28" y="153" font-size="10" fill="#e8f1fa">AI engineering and agentic systems</text>
+  <circle cx="556" cy="149" r="5.5" fill="#e8f1fa"/>
+  <circle cx="622" cy="149" r="1.6" fill="#385a7b"/>
+  <circle cx="688" cy="149" r="1.6" fill="#385a7b"/>
+  <line x1="318" y1="168" x2="720" y2="168" stroke="#385a7b" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+  <text x="28" y="172" font-size="10" fill="#e8f1fa">Blockchain</text>
+  <circle cx="556" cy="168" r="1.6" fill="#385a7b"/>
+  <circle cx="622" cy="168" r="5" fill="none" stroke="#a7c0d9" stroke-width="2"/>
+  <circle cx="688" cy="168" r="1.6" fill="#385a7b"/>
+  <line x1="318" y1="187" x2="720" y2="187" stroke="#385a7b" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+  <text x="28" y="191" font-size="10" fill="#e8f1fa">Platform engineering</text>
+  <circle cx="556" cy="187" r="5.5" fill="#e8f1fa"/>
+  <circle cx="622" cy="187" r="1.6" fill="#385a7b"/>
+  <circle cx="688" cy="187" r="1.6" fill="#385a7b"/>
+  <line x1="318" y1="206" x2="720" y2="206" stroke="#385a7b" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+  <text x="28" y="210" font-size="10" fill="#e8f1fa">Spatial computing</text>
+  <circle cx="556" cy="206" r="1.6" fill="#385a7b"/>
+  <circle cx="622" cy="206" r="1.6" fill="#385a7b"/>
+  <circle cx="688" cy="206" r="5.5" fill="#e8c56a"/>
+  <line x1="318" y1="225" x2="720" y2="225" stroke="#385a7b" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+  <text x="28" y="229" font-size="10" fill="#e8f1fa">Formalize the chair model</text>
+  <circle cx="556" cy="225" r="1.6" fill="#385a7b"/>
+  <circle cx="622" cy="225" r="1.6" fill="#385a7b"/>
+  <circle cx="688" cy="225" r="5.5" fill="#e8c56a"/>
+  <text x="14" y="251" font-size="9" letter-spacing="1.5" fill="#6f8fb0">LEARNING CHAIR</text>
+  <line x1="318" y1="268" x2="720" y2="268" stroke="#385a7b" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+  <text x="28" y="272" font-size="10" fill="#e8f1fa">Treasury allocation for the labs team</text>
+  <circle cx="556" cy="268" r="1.6" fill="#385a7b"/>
+  <circle cx="622" cy="268" r="1.6" fill="#385a7b"/>
+  <circle cx="688" cy="268" r="5.5" fill="#e8c56a"/>
+  <line x1="318" y1="287" x2="720" y2="287" stroke="#385a7b" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+  <text x="28" y="291" font-size="10" fill="#e8f1fa">A build-log for every experiment</text>
+  <circle cx="556" cy="287" r="1.6" fill="#385a7b"/>
+  <circle cx="622" cy="287" r="5" fill="none" stroke="#a7c0d9" stroke-width="2"/>
+  <circle cx="688" cy="287" r="1.6" fill="#385a7b"/>
+  <line x1="318" y1="306" x2="720" y2="306" stroke="#385a7b" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+  <text x="28" y="310" font-size="10" fill="#e8f1fa">AI Apprenticeship batch 2025</text>
+  <circle cx="556" cy="306" r="1.6" fill="#385a7b"/>
+  <circle cx="622" cy="306" r="1.6" fill="#385a7b"/>
+  <circle cx="688" cy="306" r="5.5" fill="#e8c56a"/>
+  <line x1="318" y1="325" x2="720" y2="325" stroke="#385a7b" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+  <text x="28" y="329" font-size="10" fill="#e8f1fa">Unlock: AI as copilot for everyone</text>
+  <circle cx="556" cy="325" r="1.6" fill="#385a7b"/>
+  <circle cx="622" cy="325" r="5" fill="none" stroke="#a7c0d9" stroke-width="2"/>
+  <circle cx="688" cy="325" r="1.6" fill="#385a7b"/>
+  <text x="14" y="351" font-size="9" letter-spacing="1.5" fill="#6f8fb0">DELIVERY CHAIR</text>
+  <line x1="318" y1="368" x2="720" y2="368" stroke="#385a7b" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+  <text x="28" y="372" font-size="10" fill="#e8f1fa">Grow the delivery team</text>
+  <circle cx="556" cy="368" r="1.6" fill="#385a7b"/>
+  <circle cx="622" cy="368" r="1.6" fill="#385a7b"/>
+  <circle cx="688" cy="368" r="5.5" fill="#e8c56a"/>
+  <line x1="318" y1="387" x2="720" y2="387" stroke="#385a7b" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+  <text x="28" y="391" font-size="10" fill="#e8f1fa">Control quality at scale</text>
+  <circle cx="556" cy="387" r="1.6" fill="#385a7b"/>
+  <circle cx="622" cy="387" r="5" fill="none" stroke="#a7c0d9" stroke-width="2"/>
+  <circle cx="688" cy="387" r="1.6" fill="#385a7b"/>
+  <line x1="318" y1="406" x2="720" y2="406" stroke="#385a7b" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+  <text x="28" y="410" font-size="10" fill="#e8f1fa">Measure delivery wins</text>
+  <circle cx="556" cy="406" r="5.5" fill="#e8f1fa"/>
+  <circle cx="622" cy="406" r="1.6" fill="#385a7b"/>
+  <circle cx="688" cy="406" r="1.6" fill="#385a7b"/>
+  <text x="14" y="432" font-size="9" letter-spacing="1.5" fill="#6f8fb0">COMMUNICATION CHAIR</text>
+  <line x1="318" y1="449" x2="720" y2="449" stroke="#385a7b" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+  <text x="28" y="453" font-size="10" fill="#e8f1fa">Short video for TikTok, Facebook, YouTube</text>
+  <circle cx="556" cy="449" r="1.6" fill="#385a7b"/>
+  <circle cx="622" cy="449" r="5" fill="none" stroke="#a7c0d9" stroke-width="2"/>
+  <circle cx="688" cy="449" r="1.6" fill="#385a7b"/>
+  <line x1="318" y1="468" x2="720" y2="468" stroke="#385a7b" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+  <text x="28" y="472" font-size="10" fill="#e8f1fa">Vietnamese translations</text>
+  <circle cx="556" cy="468" r="1.6" fill="#385a7b"/>
+  <circle cx="622" cy="468" r="1.6" fill="#385a7b"/>
+  <circle cx="688" cy="468" r="5.5" fill="#e8c56a"/>
+  <line x1="318" y1="487" x2="720" y2="487" stroke="#385a7b" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+  <text x="28" y="491" font-size="10" fill="#e8f1fa">An IP character for content</text>
+  <circle cx="556" cy="487" r="1.6" fill="#385a7b"/>
+  <circle cx="622" cy="487" r="5" fill="none" stroke="#a7c0d9" stroke-width="2"/>
+  <circle cx="688" cy="487" r="1.6" fill="#385a7b"/>
+  <text x="14" y="513" font-size="9" letter-spacing="1.5" fill="#6f8fb0">PARTNERSHIP CHAIR</text>
+  <line x1="318" y1="530" x2="720" y2="530" stroke="#385a7b" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+  <text x="28" y="534" font-size="10" fill="#e8f1fa">WALA with established companies</text>
+  <circle cx="556" cy="530" r="1.6" fill="#385a7b"/>
+  <circle cx="622" cy="530" r="1.6" fill="#385a7b"/>
+  <circle cx="688" cy="530" r="5.5" fill="#e8c56a"/>
+  <line x1="318" y1="549" x2="720" y2="549" stroke="#385a7b" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+  <text x="28" y="553" font-size="10" fill="#e8f1fa">VC packages for AI startups</text>
+  <circle cx="556" cy="549" r="1.6" fill="#385a7b"/>
+  <circle cx="622" cy="549" r="1.6" fill="#385a7b"/>
+  <circle cx="688" cy="549" r="5.5" fill="#e8c56a"/>
+  <line x1="318" y1="568" x2="720" y2="568" stroke="#385a7b" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+  <text x="28" y="572" font-size="10" fill="#e8f1fa">CTO and PM retainers into platform ops</text>
+  <circle cx="556" cy="568" r="1.6" fill="#385a7b"/>
+  <circle cx="622" cy="568" r="5" fill="none" stroke="#a7c0d9" stroke-width="2"/>
+  <circle cx="688" cy="568" r="1.6" fill="#385a7b"/>
+  <text x="14" y="594" font-size="9" letter-spacing="1.5" fill="#6f8fb0">ENGAGEMENT CHAIR</text>
+  <line x1="318" y1="611" x2="720" y2="611" stroke="#385a7b" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+  <text x="28" y="615" font-size="10" fill="#e8f1fa">Hybrid working</text>
+  <circle cx="556" cy="611" r="5.5" fill="#e8f1fa"/>
+  <circle cx="622" cy="611" r="1.6" fill="#385a7b"/>
+  <circle cx="688" cy="611" r="1.6" fill="#385a7b"/>
+  <line x1="318" y1="630" x2="720" y2="630" stroke="#385a7b" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+  <text x="28" y="634" font-size="10" fill="#e8f1fa">Gossip protocol</text>
+  <circle cx="556" cy="630" r="5.5" fill="#e8f1fa"/>
+  <circle cx="622" cy="630" r="1.6" fill="#385a7b"/>
+  <circle cx="688" cy="630" r="1.6" fill="#385a7b"/>
+  <line x1="318" y1="649" x2="720" y2="649" stroke="#385a7b" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+  <text x="28" y="653" font-size="10" fill="#e8f1fa">DFG earning by contribution weight</text>
+  <circle cx="556" cy="649" r="1.6" fill="#385a7b"/>
+  <circle cx="622" cy="649" r="1.6" fill="#385a7b"/>
+  <circle cx="688" cy="649" r="5.5" fill="#e8c56a"/>
+  <line x1="318" y1="668" x2="720" y2="668" stroke="#385a7b" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+  <text x="28" y="672" font-size="10" fill="#e8f1fa">A talent recognition framework</text>
+  <circle cx="556" cy="668" r="1.6" fill="#385a7b"/>
+  <circle cx="622" cy="668" r="5" fill="none" stroke="#a7c0d9" stroke-width="2"/>
+  <circle cx="688" cy="668" r="1.6" fill="#385a7b"/>
+  <line x1="0" y1="694" x2="760" y2="694" stroke="#385a7b"/>
+  <text x="14" y="716" font-size="10" fill="#a7c0d9">· my scores, from the evidence below; the amber dot marks a promise we dropped</text>
+</svg>

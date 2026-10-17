@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 2025 Roadmap
 description: Our strategic direction for 2025, focusing on AI engineering, blockchain, platform engineering, and spatial computing
 date: 2025-06-15
@@ -11,14 +12,8 @@ tags:
   - leading-chair
   - research
   - consulting
-redirect:
-  - /org/2025/roadmap-2025
-  - /8ike6A
-  - /arc
-  - /arc/on-blockchain
-  - /arc/on-platform
-  - /arc/on-spatial
 slug: org-roadmap-2025
+redirect: []
 ---
 
 We're entering a pivotal year. 2025 is the year of agentic AI, where everything becomes automated and development costs plummet. Startups are racing to build agents that replace repetitive work, and we're positioning ourselves right at the center of this transformation.

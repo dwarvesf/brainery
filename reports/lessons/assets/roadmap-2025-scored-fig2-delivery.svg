@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 392" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<defs>
+    <pattern id="g2" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="392" fill="#12395f"/>
+  <rect width="760" height="392" fill="url(#g2)"/>
+  <rect x="0.5" y="0.5" width="759" height="391" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 2 · DELIVERY, DEC 2025 TO SEP 2026</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">HOURS LOGGED · CONTRACTORS REPORTING</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+  <text x="14" y="58" font-size="9" letter-spacing="1" fill="#6f8fb0">HOURS LOGGED PER MONTH</text>
+  <g stroke="#385a7b" stroke-width="1" opacity="0.6">
+    <line x1="70" y1="130.0" x2="730" y2="130.0"/>
+    <line x1="70" y1="70.0" x2="730" y2="70.0"/>
+  </g>
+  <line x1="70" y1="190" x2="730" y2="190" stroke="#68839d"/>
+  <g fill="#6f8fb0" font-size="9" text-anchor="end">
+    <text x="62" y="193.0">0</text>
+    <text x="62" y="133.0">3,000</text>
+    <text x="62" y="73.0">6,000</text>
+  </g>
+  <path d="M 96.0 100.9 L 164.0 94.6 L 232.0 124.2 L 300.0 80.8 L 368.0 97.6 L 436.0 110.0 L 504.0 117.6 L 572.0 132.1 L 640.0 151.4 L 708.0 155.4" fill="none" stroke="#c3d7ea" stroke-width="2.5" stroke-linejoin="round"/>
+  <circle cx="96" cy="100.9" r="3" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <circle cx="164" cy="94.6" r="3" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <circle cx="232" cy="124.2" r="3" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <circle cx="300" cy="80.8" r="4" fill="#12395f" stroke="#e8c56a" stroke-width="2"/>
+  <circle cx="368" cy="97.6" r="3" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <circle cx="436" cy="110.0" r="3" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <circle cx="504" cy="117.6" r="3" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <circle cx="572" cy="132.1" r="3" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <circle cx="640" cy="151.4" r="3" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <circle cx="708" cy="155.4" r="3" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <text x="300" y="68.8" font-size="10" fill="#e8c56a" text-anchor="middle">5,458 peak</text>
+  <text x="96" y="88.9" font-size="10" fill="#e8f1fa" text-anchor="middle">4,456</text>
+  <text x="708" y="143.4" font-size="10" fill="#e8f1fa" text-anchor="middle">1,728</text>
+  <text x="14" y="226" font-size="9" letter-spacing="1" fill="#6f8fb0">CONTRACTORS REPORTING HOURS</text>
+  <g stroke="#385a7b" stroke-width="1" opacity="0.6">
+    <line x1="70" y1="271.0" x2="730" y2="271.0"/>
+  </g>
+  <line x1="70" y1="306" x2="730" y2="306" stroke="#68839d"/>
+  <g fill="#6f8fb0" font-size="9" text-anchor="end">
+    <text x="62" y="309.0">0</text>
+    <text x="62" y="274.0">20</text>
+    <text x="62" y="239.0">40</text>
+  </g>
+  <path d="M 96.0 248.2 L 164.0 248.2 L 232.0 246.5 L 300.0 244.8 L 368.0 244.8 L 436.0 250.0 L 504.0 255.2 L 572.0 264.0 L 640.0 276.2 L 708.0 283.2" fill="none" stroke="#a7c0d9" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="96" cy="248.2" r="2.8" fill="#12395f" stroke="#a7c0d9" stroke-width="2"/>
+  <circle cx="164" cy="248.2" r="2.8" fill="#12395f" stroke="#a7c0d9" stroke-width="2"/>
+  <circle cx="232" cy="246.5" r="2.8" fill="#12395f" stroke="#a7c0d9" stroke-width="2"/>
+  <circle cx="300" cy="244.8" r="2.8" fill="#12395f" stroke="#a7c0d9" stroke-width="2"/>
+  <circle cx="368" cy="244.8" r="2.8" fill="#12395f" stroke="#a7c0d9" stroke-width="2"/>
+  <circle cx="436" cy="250.0" r="2.8" fill="#12395f" stroke="#a7c0d9" stroke-width="2"/>
+  <circle cx="504" cy="255.2" r="2.8" fill="#12395f" stroke="#a7c0d9" stroke-width="2"/>
+  <circle cx="572" cy="264.0" r="2.8" fill="#12395f" stroke="#a7c0d9" stroke-width="2"/>
+  <circle cx="640" cy="276.2" r="2.8" fill="#12395f" stroke="#a7c0d9" stroke-width="2"/>
+  <circle cx="708" cy="283.2" r="2.8" fill="#12395f" stroke="#a7c0d9" stroke-width="2"/>
+  <text x="96" y="238.2" font-size="10" fill="#e8f1fa" text-anchor="middle">33</text>
+  <text x="300" y="234.8" font-size="10" fill="#e8f1fa" text-anchor="middle">35</text>
+  <text x="708" y="273.2" font-size="10" fill="#e8f1fa" text-anchor="middle">13</text>
+  <g fill="#6f8fb0" font-size="9" text-anchor="middle">
+    <line x1="96" y1="306" x2="96" y2="310" stroke="#68839d"/>
+    <text x="96" y="323">DEC</text>
+    <line x1="164" y1="306" x2="164" y2="310" stroke="#68839d"/>
+    <text x="164" y="323">JAN</text>
+    <line x1="232" y1="306" x2="232" y2="310" stroke="#68839d"/>
+    <text x="232" y="323">FEB</text>
+    <line x1="300" y1="306" x2="300" y2="310" stroke="#68839d"/>
+    <text x="300" y="323">MAR</text>
+    <line x1="368" y1="306" x2="368" y2="310" stroke="#68839d"/>
+    <text x="368" y="323">APR</text>
+    <line x1="436" y1="306" x2="436" y2="310" stroke="#68839d"/>
+    <text x="436" y="323">MAY</text>
+    <line x1="504" y1="306" x2="504" y2="310" stroke="#68839d"/>
+    <text x="504" y="323">JUN</text>
+    <line x1="572" y1="306" x2="572" y2="310" stroke="#68839d"/>
+    <text x="572" y="323">JUL</text>
+    <line x1="640" y1="306" x2="640" y2="310" stroke="#68839d"/>
+    <text x="640" y="323">AUG</text>
+    <line x1="708" y1="306" x2="708" y2="310" stroke="#68839d"/>
+    <text x="708" y="323">SEP</text>
+    <text x="96" y="336">2025</text>
+    <text x="164" y="336">2026</text>
+  </g>
+  <line x1="0" y1="344" x2="760" y2="344" stroke="#385a7b"/>
+  <text x="14" y="362" font-size="10" fill="#a7c0d9">· source: the progress form every contractor files; it went live in Dec 2025, so earlier months are not comparable</text>
+  <text x="14" y="378" font-size="10" fill="#a7c0d9">· Sep 2026 falls 68% below the Mar 2026 peak; reporters fall from 35 to 13</text>
+</svg>
