@@ -63,17 +63,17 @@ An entity is an object that the model tracks over time. Two definitions apply.
 
 ### Examples from the real world
 
-- **Banking (A).** A banknote has an ID that identifies it on digital systems or in a physical log book, even if all its other attributes (value, printing date, printing batch) match another banknote.
-- **Online shopping (a, b).** An order has an ID.
+- **Banking, definition A.** A banknote has an ID that identifies it on digital systems or in a physical log book, even if all its other attributes (value, printing date, printing batch) match another banknote.
+- **Online shopping, definitions A and B.** An order has an ID.
   - After checkout, the system sends the order ID to the payment service.
   - After payment completes, the system calls the shipping service API to generate a shipment with a tracking ID.
   - On the shopping website, the order detail page lets the user check payment and shipping status. The payment and shipping systems show the order ID and details. When the package arrives, the order ID, shipping fee, total items and prices can be viewed.
 
 ### Ways to implement identity in a system
 
-- **Generated ID (a).**
-- **Combination of attributes (A).** A batch of newspapers identified by name, city and publish date.
-- **Request time (B).** A service logs each incoming call and identifies it by request time combined with an IP address. This is not recommended when the caller is a middleware service or gateway.
+- **Generated ID, definition A.**
+- **Combination of attributes, definition A.** A batch of newspapers identified by name, city and publish date.
+- **Request time, definition B.** A service logs each incoming call and identifies it by request time combined with an IP address. This is not recommended when the caller is a middleware service or gateway.
 
 ### The entity's role in DDD
 
