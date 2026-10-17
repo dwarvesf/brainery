@@ -9,7 +9,7 @@ redirect:
 
 According to Sam Ladner inductive research seeks to develop a new theory or hypothesis based on the observation of limited data. The purpose of inductive research isn't to articulate a hard truth, but to develop a position that is cogent. That is, it's a hypothesis that is likely true based on the available data. Inductive research adds to human knowledge, and creates frameworks whereby future events or otherwise unobserved phenomena may be predicted (accurately or not).
 
-Cedric Chin associates inductive reasoning with creativity. In contrast to deduction, which looks to apply an existing mental model to data, inductive reasoning requires the observation and processing of raw observation into a new mental model—of linking together disparate threads into a new perspective. However, he points out as well that we always be prepared to destroy those mental models if we find internal incoherence, or if the mental model does not align with reality.
+Cedric Chin associates inductive reasoning with creativity. In contrast to deduction, which looks to apply an existing mental model to data, inductive reasoning requires the observation and processing of raw observation into a new mental model, of linking together disparate threads into a new perspective. However, he points out as well that we always be prepared to destroy those mental models if we find internal incoherence, or if the mental model does not align with reality.
 
 ---
 

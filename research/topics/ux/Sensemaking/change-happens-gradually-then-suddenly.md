@@ -9,11 +9,11 @@ redirect:
 
 Large-scale changes seem to happen quickly. However, changes generally gestate over long periods of time. In the beginning, there may be weak signals of change. These are usually on the periphery of our vision and can be difficult to observe as they occur outside of our typical frame of reference.
 
-These changes often become apparent through qualitative evidence and storytelling—in narratives, not charts.
+These changes often become apparent through qualitative evidence and storytelling, in narratives, not charts.
 
 Bill Gates wrote, "We always overestimate the change that will occur in the next two years and underestimate the change that will occur in the next ten. Don’t let yourself be lulled into inaction"
 
-William Gibson wrote, "The future is already here—it's not not evenly distributed."
+William Gibson wrote, "The future is already here, it's not not evenly distributed."
 
 ---
 

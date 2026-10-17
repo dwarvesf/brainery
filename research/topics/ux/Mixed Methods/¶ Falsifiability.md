@@ -24,7 +24,7 @@ Sam Ladner suggests we should be skeptical of data that is designed and used wit
 
 - Ladner, Sam. _Mixed Methods: A Short Guide to Applied Mixed Methods Research_. Sam Ladner, 2019.
 
-> "But I often tell people to tamp down their excitement about data exhaust because none of these data are actually designed for falsifiability in mind—it’s simply the detritus of our digital lives. Just because we have more data doesn’t mean we are doing better research."
+> "But I often tell people to tamp down their excitement about data exhaust because none of these data are actually designed for falsifiability in mind, it’s simply the detritus of our digital lives. Just because we have more data doesn’t mean we are doing better research."
 
 - Madsbjerg, Christian. _Sensemaking: The Power of the Humanities in the Age of the Algorithm_. Hachette Books, 2017.
 - McGrath, Rita Gunther. _Seeing around Corners: How to Spot Inflection Points in Business before They Happen_. Boston, Massachusetts: Houghton Mifflin Harcourt, 2019.
