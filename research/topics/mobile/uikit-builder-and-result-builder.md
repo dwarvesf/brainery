@@ -211,7 +211,7 @@ VStack {
 }
 ```
 
-Swift 5.4 introduced `@resultBuilder`. It extends the DSL capability from SwiftUI to the rest of the language, so you can use DSLs in more places in a codebase (the [proposal](https://github.com/apple/swift-evolution/blob/main/proposals/0289-result-builders.md) has the detail). For example, an HTML form in Swift:
+Swift 5.4 introduced `@resultBuilder`. It extends the DSL capability from SwiftUI to the rest of the language, so you can use DSLs in more places in a codebase (the [proposal](https://github.com/apple/swift-evolution/blob/main/proposals/0289-result-builders.md?plain=1) has the detail). For example, an HTML form in Swift:
 
 ```swift
 HTML {
