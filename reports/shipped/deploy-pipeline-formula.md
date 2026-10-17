@@ -25,7 +25,7 @@ The site you're reading publishes itself when a post merges. On 2026-08-19 that 
 
 **TL;DR.** A green step hides its phases until you index the timestamps. Ours hid a 40-second serial tail and three bugs that had shipped for weeks. Then agents began pressing deploy all day, and the Releases tab went through three designs in 43 days: one release per deploy, one per merged PR, one per week. The second design let 184 releases pile up. The same log reading also caught our own earlier fix coming undone, which is the last section.
 
-Numbers dated 2026-08-19 describe the memo publish job as it was that day. The platform monorepo (`dwarvesf/foundation-workers`, private) supplies the release numbers. A `#NNN` below is a pull request there unless the text names another repo.
+Numbers dated 2026-08-19 describe the memo publish job as it was that day. The platform monorepo (`dwarvesf/foundation-workers`, private) supplies the release numbers. A `#NNN` below is a pull request there unless the text names another repo. The repo is private, so the numbers are plain references for traceability and link nowhere; only Dwarves staff can open them.
 
 ## Read the log as a timeline
 
@@ -108,7 +108,7 @@ The first run on the new pipeline, phase by phase, straight from the log (fig. 4
 
 That is one run, not a distribution, and it has aged. The next day the monorepo's frontend copy was retired in favor of the one in `foundation-apps`, and the data plane moved to its own publish script (#629, #631, #633 on 2026-08-20). The single 78-second job no longer exists. The ordering rules carried over to both halves. The number did not.
 
-<!-- needs Han: current publish wall clock for the data plane (foundation-workers) and the frontend deploy (foundation-apps), median of the last 10 full publishes, to replace the aged 78 seconds -->
+Here is the current number, measured end to end. For the nine brainery PRs merged on 2026-10-17 (#361 to #367, #369 and #370; #368 was still open), we took GitHub's `mergedAt` as the start. The end is the completion time of the first successful `Deploy memo` run on `foundation-apps` created after the merge, because a merge dispatches both repos and that run is the frontend going live. The median is 5m22s, with a range of 3m55s to 9m31s. The data plane (`memo-publish-on-push` on `foundation-workers`) finishes first: a median of 2m56s, from 2m43s to 9m06s. The two slowest merges, #365 and #366, landed within four minutes of each other and of #367, so their runs overlapped. The first frontend run for #366 was cancelled, and the next run covered both. The other seven merges went live in 3m55s to 5m39s. These figures time a merge to a live page, so they do not compare with the 78 seconds, which timed one step.
 
 The platform deploy, which ships about twenty Workers from one monorepo run, got the same pass on 2026-08-28 (#758). One job replaced two, the pnpm cloud cache was dropped, and the wrangler loop ran four Workers at a time. The baseline run measured 507 seconds of wall clock. A production run later that day took 181.
 
@@ -180,8 +180,6 @@ A pull-based script only helps someone who thinks to run it. The failure mode wo
 
 It is appended to the deploy notification only when there is drift, and never as an all-clear on a clean deploy, because a line that appears every time stops being read.
 
-<!-- needs Han: how many drift warnings have fired since 2026-08-12, and one real one with its date, to show the line earning its place -->
-
 ![Deploy, release, and live registry across two eras {#fig-gates .live}](assets/deploy-pipeline-fig6-gates.svg 'The release path as built on 2026-08-12 and the layout that replaced it on 2026-09-23. The stamped commit links the deploy to the registry and to the weekly release.')
 
 Figure 6 puts the pieces together. The top lane is the design this section described, and it stayed in place for six weeks. The bottom lane is what runs today.
@@ -199,7 +197,7 @@ The tags did three jobs, and none of them needed one tag per deploy: a live mark
 
 ![Three release designs, and the stretch where retention never ran {#fig-designs}](assets/deploy-pipeline-fig7-designs.svg 'Release triggers from 2026-08-10 to 2026-09-28. The amber box is the stretch where the retention job existed and deleted nothing.')
 
-As of 2026-10-17 the repo lists three weekly releases and 39 older `prod-` ones. A deploy posts the commit, the merged PR, a run link, and the drift line, and mints nothing.
+As of 2026-10-17 the repo lists three weekly releases and 39 older `prod-` ones. The weekly Release is published on Sundays at 03:17 UTC (2026-09-27, 10-04 and 10-11). The repo's pipeline doc says Monday, and that doc is being corrected. A deploy posts the commit, the merged PR, a run link, and the drift line, and mints nothing.
 
 <!-- needs Han: Releases-tab counts for the same window before and after the 2026-08-12 gate. The releases were deleted by hand and later pruned, so the vault cannot reconstruct them. If you have the Discord notices, count those. -->
 
@@ -224,15 +222,13 @@ While re-checking this page's numbers we ran the command from the first section 
 
 The step sat at 0 or 1 second on every sampled day from 2026-08-28 through 2026-09-07. On 2026-09-09 it read 33 seconds. It stayed between 18 and 37 seconds through 2026-09-30, and from 2026-10-01 it has run between 68 and 117 seconds. On the 2026-10-17 run it took 86 of the job's 311 seconds.
 
-The log of that run names what the step is doing. `package-manager-cache` is true, the step reports "This project is configured to use pnpm because package.json has a packageManager field", and a pnpm cache restore of 617MB follows. A change on 2026-09-07 (#875) added that `packageManager` field so CI would run pnpm 11 and honor our 14-day dependency-age rule. The most likely story is that `setup-node` turns its package-manager cache on by default when it sees the field, so a supply-chain fix re-enabled the cache that #758 had removed. That is a hypothesis. We have not reverted anything to confirm it, and nothing explains why the step jumped again on 2026-10-01.
-
-<!-- needs Han: decide whether to fix this before the page ships (the setup-node step takes a `package-manager-cache: false` input) or leave it as the open item the text says it is. Nothing in foundation-workers was changed for this page. -->
+The log of that run names what the step is doing. `package-manager-cache` is true, the step reports "This project is configured to use pnpm because package.json has a packageManager field", and a pnpm cache restore of 617MB follows. A change on 2026-09-07 (#875) added that `packageManager` field so CI would run pnpm 11 and honor our 14-day dependency-age rule. The most likely story is that `setup-node` turns its package-manager cache on by default when it sees the field, so a supply-chain fix re-enabled the cache that #758 had removed. That is a hypothesis. We have not reverted anything to confirm it, and nothing explains why the step jumped again on 2026-10-01. A fix is in progress.
 
 Our own fix stayed undone for five weeks while the runs stayed green.
 
 ## Limits
 
-- **The 78 seconds is one run.** It is the first run after the change, not a median, and the pipeline split in two the next day.
+- **The 78 seconds is one run.** It is the first run after the change, not a median, and the pipeline split in two the next day. The merge-to-live numbers cover nine merges on one day.
 - **The release counts before and after the gate are missing.** The only measured pair is five dispatches to four releases in half a day, from the PR that added the gate.
 - **The gate was not tried end to end.** It was checked against a real merge commit and against an existing release's commit, with a live negative control. A full production dispatch to test it was not worth a real deploy of about twenty Workers (#448, #544).
 - **The deploy counts mix workflows.** Figure 5 counts every job that started on the production environment. It includes the memo publish and probably dry-run dispatches, and it starts on 2026-07-22 because that is the earliest record the API returned.
@@ -240,8 +236,6 @@ Our own fix stayed undone for five weeks while the runs stayed green.
 - **The setup-node cause is a hypothesis.** Fig. 8 shows the cost. The #875 link is inferred from the log text and the dates.
 
 ## Receipts
-
-<!-- needs Han: dwarvesf/foundation-workers is private, so these PR numbers can only be checked by Dwarves staff. Keep the table, strip the numbers, or link none. -->
 
 | Date       | PR               | What                                                                       |
 | ---------- | ---------------- | -------------------------------------------------------------------------- |
