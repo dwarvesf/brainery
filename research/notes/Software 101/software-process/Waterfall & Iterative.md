@@ -1,15 +1,14 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: "Waterfall and iterative: when to use which (reading note)"
+description: "When do we use the Waterfall and when do we use the Iterative approach?"
+date: 2026-08-27
 tags:
   - 101
   - engineering
   - process
   - waterfall
-redirect:
-  - /kGSuCQ
+redirect: []
 ---
 
 When do we use the Waterfall and when do we use the Iterative approach? How do we select which is best for software project?
