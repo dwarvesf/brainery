@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Safe external calls in Solidity: reentrancy and error handling"
+title: "Safe external calls in solidity: reentrancy and error handling"
 description: Learn best practices for safe external calls in Solidity, including avoiding reentrancy, handling errors, using call() over transfer(), and never delegatecall untrusted contracts to secure smart contracts.
 date: 2026-08-27
 redirect:

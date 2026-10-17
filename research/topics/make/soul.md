@@ -50,4 +50,4 @@ In an era of rapid change and AI, soul creates the emotional connection that kee
 
 **The choice is yours:** build something users love that happens to scale, or build something that scales that users happen to tolerate. Only one creates lasting value.
 
-*Sources: Insights from [Stanford Commencement Address 2005](https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says) and [Soul vs Scale](https://hvpandya.com/soul-vs-scale).*
+_Sources: Insights from [Stanford Commencement Address 2005](https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says) and [Soul vs Scale](https://hvpandya.com/soul-vs-scale)._

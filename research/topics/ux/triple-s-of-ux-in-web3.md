@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "The triple S of UX in Web3: simple, secure and self-custodial"
+title: "The triple s of UX in Web3: simple, secure and self-custodial"
 description: Discover the Triple S of UX—Simple, Secure, and Self-custodial designs that make Web3 easy and safe for users to access and control decentralized applications.
 date: 2022-08-05
 github_id: Maniub102

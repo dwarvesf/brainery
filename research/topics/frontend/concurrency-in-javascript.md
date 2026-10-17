@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Concurrency in JavaScript: the event loop, callbacks and Promises"
+title: "Concurrency in JavaScript: the event loop, callbacks and promises"
 description: Learn how JavaScript’s single-threaded event loop enables asynchronous, non-blocking concurrency using callbacks, Promises, and async/await to handle tasks efficiently and avoid callback hell.
 date: 2022-08-26
 github_id: hieuphq

@@ -46,7 +46,7 @@ An essential aspect of using Gomock effectively is understanding the abstraction
 
 Before we can start using Gomock for testing in Go, we need to ensure that it is properly installed and set up in our development environment.
 
-### Step 1: Install Gomock
+### Step 1: install Gomock
 
 Gomock is a Go module and can be installed using the standard **`go get`** command. Open your terminal or command prompt and execute the following command:
 
@@ -56,7 +56,7 @@ go get github.com/golang/mock/gomock
 
 This command downloads the Gomock package and its dependencies from the official GitHub repository and installs it in your Go workspace.
 
-### Step 2: Install the Mockgen tool
+### Step 2: install the mockgen tool
 
 Gomock relies on the **`mockgen`** tool to generate mock implementations from interfaces. To install **`mockgen`**, execute the following command:
 
@@ -66,7 +66,7 @@ go install github.com/golang/mock/mockgen@latest
 
 This command fetches the latest version of **`mockgen`** and installs it in your Go bin directory.
 
-### Step 3: Set up your project
+### Step 3: set up your project
 
 To use Gomock in your project, you need to import the necessary packages. In your Go source code file, include the following import statements:
 
@@ -80,7 +80,7 @@ import (
 
 The **`testing`** package is Go's built-in testing package, and **`gomock`** provides the functionalities of Gomock.
 
-### Step 4: Generate mocks
+### Step 4: generate mocks
 
 Before we can start using Gomock, we need to generate mock implementations for our interfaces. To do this, we'll use the **`mockgen`** tool we installed earlier.
 
@@ -102,7 +102,7 @@ Once the mocks are generated, you can import the **`mocks/mocks.go`** file into 
 
 It's important to note that you should replace **`main.go`** with the appropriate path to your Go source file, and **`mocks/mocks.go`** with the desired path and filename for your mock implementation file based on your project structure and naming conventions.
 
-### Step 5: Start testing with Gomock
+### Step 5: start testing with Gomock
 
 With Gomock installed and mock implementations generated, you are now ready to start testing your Go code. You can import the generated mock and use it in your test files to simulate dependencies and define expectations.
 

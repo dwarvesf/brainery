@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Federated Byzantine agreement: Stellar consensus with quorum slices"
+title: "Federated byzantine agreement: Stellar consensus with quorum slices"
 description: "Learn how Stellar's consensus protocol uses trusted validators and quorum slices to prevent Sybil attacks and ensure secure, reliable transactions through federated voting and network trust."
 date: 2019-05-18
 authors:
@@ -43,9 +43,9 @@ As soon as a node can verify that a ballot is prepared, it starts trying to “c
 
 Once a node can confirm that a ballot is committed, it can “externalize” the value in that ballot, using it as the outcome of consensus.
 
-## The Byzantine generals problem
+## The byzantine generals problem
 
-- [Understanding the Byzantines general problems](https://medium.com/coinmonks/a-note-from-anthony-if-you-havent-already-please-read-the-article-gaining-clarity-on-key-787989107969)
+- [Understanding the byzantines general problems](https://medium.com/coinmonks/a-note-from-anthony-if-you-havent-already-please-read-the-article-gaining-clarity-on-key-787989107969)
 - [Origin paper](https://people.eecs.berkeley.edu/~luca/cs174/byzantine.pdf)
 
 → How do you make sure that multiple entities, which are separated by distance, are in absolute full agreement before an action is taken?

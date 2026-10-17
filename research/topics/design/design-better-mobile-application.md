@@ -30,7 +30,7 @@ This workshop wraps up the useful information on 2 types of operating system for
 - iOS manages RAM better, so the performance is fast and barely has any error
 - Android: The performance is slow easy to get config that causes errors
 
-### Application upload on Appstore/ CH Play
+### Application upload on appstore/ CH play
 
 - iOS takes more time to upload: 7 days on average due to personal expert verification
 - Android takes less time to upload thanks to automated test

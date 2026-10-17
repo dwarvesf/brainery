@@ -11,7 +11,7 @@ authors:
   - tieubao
 ---
 
-## About Dwarves Consulting
+## About Dwarves consulting
 
 ![Contact Info Graphic](assets/contact-info-graphic.png)
 
@@ -30,7 +30,7 @@ We prioritize creating the right product that brings tangible business values, r
 
 **Technology is our core passion** - 8 years in existence, technology expertise and advancement remain our top focus. As we expand the team, we push forward to reach new technology every day.
 
-## Facts & Figures
+## Facts & figures
 
 - **80+ developers** with 3-9 years of experience
 - **4 designers**
@@ -50,18 +50,18 @@ Our services are tailored to blend into the nature of each client we work with. 
 
 #### AI Development
 
-- **AI Engineering**: Build, deploy, and optimize AI models
-- **AI-Powered Digital Products**: Create digital products with AI to enhance user experiences and business results
-- **AI-Powered Chatbots**: Develop intelligent chatbots and assistants for better customer support
-- **Custom AI Platforms**: Design scalable AI platforms tailored to industry needs
+- **AI engineering**: Build, deploy, and optimize AI models
+- **AI-Powered digital products**: Create digital products with AI to enhance user experiences and business results
+- **AI-Powered chatbots**: Develop intelligent chatbots and assistants for better customer support
+- **Custom AI platforms**: Design scalable AI platforms tailored to industry needs
 
 #### DataOps
 
-- **AI Integration and Deployment**: Integrate AI models into existing systems and ensure smooth deployment across various environments
-- **Data Pipeline Development**: Build strong data pipelines for efficient data flow and integration
+- **AI Integration and deployment**: Integrate AI models into existing systems and ensure smooth deployment across various environments
+- **Data pipeline Development**: Build strong data pipelines for efficient data flow and integration
 - **MLOps and LLMOps**: Streamline ML and language model operations for efficient development and deployment
 
-#### AI Projects
+#### AI projects
 
 ![AI stack](assets/plot-ai-project.png)
 
@@ -117,14 +117,14 @@ Console Labs is a Dwarves' subsidiary focusing highly on web3 R&D and services:
 
 - **Blockchain Integration**: Build a layer to manage and manipulate data between current system and public blockchain network
 - **Architecture Design**: Right architecture planning for novel blockchain systems
-- **Indexing Node**: Pull and organize blockchain data into offchain nodes for further use and query
-- **Vesting Contract**: Smart contracts for token unlocking at specified block heights/slots
-- **Smart Contract**: Custom smart contracts and logic on EVM compatible chains
+- **Indexing node**: Pull and organize blockchain data into offchain nodes for further use and query
+- **Vesting contract**: Smart contracts for token unlocking at specified block heights/slots
+- **Smart contract**: Custom smart contracts and logic on EVM compatible chains
 - **DeFi**: Development of blockchain-based financial solutions, asset tokenization platforms, p2p lending, neobanks
-- **Contract Audit**: Manual code review and automatic analysis for security issues
-- **NFT Launch**: Build contracts and tools to support NFT collection launching
+- **Contract audit**: Manual code review and automatic analysis for security issues
+- **NFT launch**: Build contracts and tools to support NFT collection launching
 
-#### Web3 Projects
+#### Web3 projects
 
 - **Neutronpay**: Payment platform on Bitcoin's Lightning Network
 - **Mochi**: Web3 tooling/infrastructure
@@ -138,7 +138,7 @@ Console Labs is a Dwarves' subsidiary focusing highly on web3 R&D and services:
 
 ![Client Sizes Illustration](assets/client-sizes-illustration.png)
 
-### Client Highlights
+### Client highlights
 
 **SP Group** (Singapore)
 
@@ -214,9 +214,9 @@ After issues are resolved, we will conduct issue investigation and provide preve
 
 ![Company Strengths Diagram](assets/company-strengths-diagram.png)
 
-## Service Offerings
+## Service offerings
 
-### Staff Augmentation
+### Staff augmentation
 
 Scale up your tech team quick to meet your development roadmap and get to market faster.
 
@@ -263,7 +263,7 @@ Build and ship in small, continuous releases, focusing on quality, speed and agi
 - Managed Services
 - MVP Development
 
-## Client Testimonials
+## Client testimonials
 
 > "They left us with great development and improvement, in terms of work result and team synchronization. A worthy evidence for Attrace's investments and we hope nothing more than to keep going with them in long-term, provide opportunities for these devs to grow with Attrace."
 >

@@ -19,7 +19,7 @@ _Our team has always faced some bit of friction when deploying apps for our clie
 
 Introducing [Mochi Bot](https://mochi.gg/) to the Web3 space, our team has developed a flexible and user-friendly product with features like NFT rarity queries, sales alerts on Discord and Twitter, and showing various tips. To enhance user experience and streamline deployment, we had the chance to implement [blue-green deployment](https://radar.d.foundation/Blue-green-deployment-a93ea5c3d4d8439ba8701aec57d7ea3c) for the Mochi Bot application. Below is our case study that evaluates the cost and practicality of this deployment strategy in our current infrastructure.
 
-## **Current Infrastructure & Implementation Plan**
+## **Current infrastructure & implementation plan**
 
 Mochi Bot runs on a Kubernetes infrastructure managed by ArgoCD, with two pods. By implementing blue-green deployment, we aim to eliminate downtime and ensure consistent updates across pods. To achieve this, we set up two identical production environments (blue and green) and followed these steps:
 
@@ -28,7 +28,7 @@ Mochi Bot runs on a Kubernetes infrastructure managed by ArgoCD, with two pods. 
 1. Apply new configurations to clusters.
 1. Test deployment process, including traffic switching and rollback procedures.
 
-## **Preparation & Resource Definition**
+## **Preparation & resource definition**
 
 To implement blue-green deployment in Kubernetes, we needed to define the application resources and the rollout strategy. We defined the application resources using three YAML files:
 

@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "DiSC personality types: how Dominance, Influence, Steadiness and Conscientiousness shape teamwork"
+title: "DiSC personality types: how dominance, influence, steadiness and conscientiousness shape teamwork"
 description: "Learn about the DiSC personality model's four types—Dominance, Influence, Steadiness, and Conscientiousness—and how understanding these traits improves teamwork and communication."
 date: 2022-09-10
 github_id: huytieu
@@ -18,7 +18,7 @@ DiSC is an acronym that stands for the four main personality profiles described 
 
 ## About each personality type
 
-### D = Dominance (RED)
+### D = dominance (RED)
 
 #### Red indicators
 
@@ -58,7 +58,7 @@ _Keywords: Are tactile, are relaxed and jocular, show friendly eye contact, use 
 - Push him, but push gently
 - Clarity
 
-### S = Steadiness (GREEN)
+### S = steadiness (GREEN)
 
 #### Green indicator
 

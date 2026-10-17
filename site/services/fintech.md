@@ -58,7 +58,7 @@ LIMIT 6;
 We're focused on emerging opportunities:
 
 - **DeFAI**: AI-integrated DeFi protocols
-- **Bitcoin Layer 2**: Lightning Network and payment solutions
+- **Bitcoin layer 2**: Lightning Network and payment solutions
 - **Embedded finance**: APIs that turn any app into a fintech platform
 - **Regulatory tech**: Compliance automation for Southeast Asian markets
 
@@ -70,7 +70,7 @@ We've built 15+ fintech projects across Southeast Asia and beyond. Here are some
 
 **[Open Fabric](https://memo.d.foundation/consulting/case-study/open-fabric)** - Joined their team to build a BNPL platform from scratch. Launched in one year, now expanding across Southeast Asia.
 
-**[Neutronpay]()** - Created a Lightning Network payment solution for instant, low-cost Bitcoin transactions.
+**[Neutronpay](<>)** - Created a Lightning Network payment solution for instant, low-cost Bitcoin transactions.
 
 ### Blockchain projects
 

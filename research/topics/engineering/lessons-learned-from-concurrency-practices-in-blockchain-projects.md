@@ -146,4 +146,4 @@ Designing concurrent systems for distributed-like systems can be a bit tricky. N
 
 ## References
 
-- [PostgreSQL: Documentation: 15: 13.3. Explicit locking](https://www.postgresql.org/docs/current/explicit-locking.html)
+- [PostgreSQL: documentation: 15: 13.3. explicit locking](https://www.postgresql.org/docs/current/explicit-locking.html)

@@ -242,7 +242,7 @@ emergency stop or circuit-breaker.
 Regardless of your approach, it is important to have some way to upgrade your contracts, or they
 will become unusable when the inevitable bugs are discovered in them.
 
-#### Example 1: Use a registry contract to store the latest version of a contract
+#### Example 1: use a registry contract to store the latest version of a contract
 
 In this example, the calls aren't forwarded, so users should fetch the current address each time
 before interacting with it.

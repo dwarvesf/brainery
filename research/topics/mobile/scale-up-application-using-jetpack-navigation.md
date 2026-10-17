@@ -173,5 +173,5 @@ class EntryFragment : Fragment() {
 ## References
 
 - [PROS and CONS of Android Jetpack navigation Component](https://medium.com/accenture-ix-turkey/pros-and-cons-of-android-jetpack-navigation-component-d7a5e3bcfe50)
-- [Jetpack navigation Documentation](https://developer.android.com/jetpack/androidx/releases/navigation)
-- [Firebase Analytics with Jetpack navigation](https://techdroid.kbeanie.com/2020/08/30/jetpack-navigation-and-firebase-analytics/)
+- [Jetpack navigation documentation](https://developer.android.com/jetpack/androidx/releases/navigation)
+- [Firebase analytics with Jetpack navigation](https://techdroid.kbeanie.com/2020/08/30/jetpack-navigation-and-firebase-analytics/)

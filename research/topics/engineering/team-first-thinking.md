@@ -47,7 +47,7 @@ When establishing a team, organizations should also ensure that the [[Cognitive 
 
 For software delivery teams, a team-first approach to cognitive load means limiting the size of the software system that a team is expected to work with, and not overloading individual members of the team by giving them too many responsibilities at once.
 
-## Define "Team APIs" that include code, documentation, and user experience
+## Define "team APIs" that include code, documentation, and user experience
 
 With stable, long-lived teams owning specific bits of the software systems, we can begin to build a stable team API: an API for interacting with each team. The team API includes:
 

@@ -81,7 +81,7 @@ Experiments are and will be made to get us close to the goal. For now, we are se
 
 ![](assets/how-we-setup-cicd_f38b955faad846c6c75b4252b56fe1b4_md5.webp)
 
-## CI - Continuous improving
+## CI - continuous improving
 
 In the spirit of CI/CD, It's good to keep the final notes like this.
 

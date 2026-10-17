@@ -73,4 +73,4 @@ This isn't about letting AI do everything. It's leveraging coding agents for mec
 
 Working with legacy code is a technical and human challenge enhanced by AI capabilities. Master all three sides, and you'll thrive in any codebase.
 
-*Sources: Insights from [Sean Goedecke's blog](https://www.seangoedecke.com/large-established-codebases/) and [Hacker News discussion](https://news.ycombinator.com/item?id=42627227).*
+_Sources: Insights from [Sean Goedecke's blog](https://www.seangoedecke.com/large-established-codebases/) and [Hacker News discussion](https://news.ycombinator.com/item?id=42627227)._

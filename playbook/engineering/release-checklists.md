@@ -23,11 +23,11 @@ redirect:
 
 Three checklists guard what ships. The production checklist covers the service, the UAT checklist covers sign-off with the product team, and the frontend UI checklist covers what the user sees. Run each one before the matching step.
 
-| Checklist   | Use it when                                                     |
-| ----------- | --------------------------------------------------------------- |
-| Production  | A service is about to go to production                          |
-| UAT         | The product team starts user acceptance testing                 |
-| Frontend UI | You build a design or turn a design into code, before you ship  |
+| Checklist   | Use it when                                                    |
+| ----------- | -------------------------------------------------------------- |
+| Production  | A service is about to go to production                         |
+| UAT         | The product team starts user acceptance testing                |
+| Frontend UI | You build a design or turn a design into code, before you ship |
 
 For the general release flow, see the [release checklist](release.md).
 

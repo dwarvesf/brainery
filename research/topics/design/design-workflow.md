@@ -36,7 +36,7 @@ This is an example of a Job Story.
 
 After that, you write a scenario base on your job story.
 
-When you write a Job Story, the story need three things: **_Situation, Motivation _**and**_ Outcome_**.
+When you write a Job Story, the story need three things: **\_Situation, Motivation _**and**\_ Outcome_**.
 
 Your final design should be a list of jobs to be done which help the users achieve their goals. Therefore, writing down job stories will help you know exactly what you should put in your final design for your users.
 
@@ -79,7 +79,7 @@ Sketching wire-frames using pencil & paper make easier to iterate your design an
 
 1. _Pencils are inclusive_. They’re not just for designers—anyone can use a pencil to express their ideas clearly. The pencil is the great equalizer.
 2. _Pencils are low-fi_. Quick sketches give no impression of a complete thought, signaling to all that it’s okay to offer feedback.
-3. _Pencils aren’t fiddly_. Instead of getting lost in software settings or style, you’ll focus on your *ideas*.
+3. _Pencils aren’t fiddly_. Instead of getting lost in software settings or style, you’ll focus on your _ideas_.
 4. _Pencils are fast_. You can explore vastly different solutions to the same problem in minutes, and you won’t feel bad throwing your sketches out because you invested so little time.
 
 But you can also choose your right tools for better delivery, such as [Balsamiq](https://balsamiq.com/index.html)

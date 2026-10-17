@@ -181,5 +181,5 @@ fun main() {
 
 ## References
 
-- [Article - Structured concurrency](https://proandroiddev.com/structured-concurrency-in-action-97c749a8f755#:~:text=%E2%80%9CStructured%20concurrency%E2%80%9D%20refers%20to%20a,scope%20of%20a%20parent%20operation.)
+- [Article - structured concurrency](https://proandroiddev.com/structured-concurrency-in-action-97c749a8f755#:~:text=%E2%80%9CStructured%20concurrency%E2%80%9D%20refers%20to%20a,scope%20of%20a%20parent%20operation.)
 - [Kotlin doc - Coroutine basic](https://kotlinlang.org/docs/coroutines-basics.html)

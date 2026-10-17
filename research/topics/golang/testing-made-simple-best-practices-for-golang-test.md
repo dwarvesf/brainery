@@ -59,7 +59,7 @@ By separating the test case into the Arrange, Act, and Assert sections, it becom
 
 ## 2. Test organization and structure
 
-### Organizing Test Files and Packages:
+### Organizing Test files and packages:
 
 A common and convenient practice is to keep the test files in the same directory as the package files they are testing. This approach simplifies the organization of your project and makes it easier to locate and manage the associated tests. For example, consider a project with a package called **`myapp`** that contains multiple files. You can place the test files in the same directory as the package files, like this:
 
@@ -76,7 +76,7 @@ myapp
 		└──	user_test.go
 ```
 
-### Subtests and Test Helpers:
+### Subtests and Test helpers:
 
 Subtests and test helpers are powerful tools for improving test readability and maintainability. Let's consider an example of testing a **`Calculator`** struct with multiple operations.
 
@@ -145,7 +145,7 @@ func TestCalculator(t *testing.T) {
 
 By extracting the assertion logic into a helper function, we improve code readability and ensure consistent and DRY (Don't Repeat Yourself) test code.
 
-### Table-Driven Tests:
+### Table-driven tests:
 
 Table-driven tests are an effective technique for handling multiple inputs and expected outputs in a concise and structured manner. By defining a table of test cases, you can easily add new scenarios and maintain a clear overview of the different input-output combinations being tested.
 

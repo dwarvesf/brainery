@@ -88,5 +88,5 @@ The hypothesis behind this technique is that if one condition/value in a partiti
 
 ## Reference
 
-- [ISTQB Exam Questions On Equivalence Partitioning And Boundary value analysis](https://www.softwaretestinghelp.com/istqb-exam-questions-equivalence-partitioning-boundary-value-analysis/)
+- [ISTQB exam questions on Equivalence Partitioning and Boundary value analysis](https://www.softwaretestinghelp.com/istqb-exam-questions-equivalence-partitioning-boundary-value-analysis/)
 - [Functional testing guide](https://www.softwaretestinghelp.com/guide-to-functional-testing/)

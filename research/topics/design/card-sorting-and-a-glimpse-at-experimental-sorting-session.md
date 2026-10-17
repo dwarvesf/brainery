@@ -20,7 +20,7 @@ And plus, a real lesson learned with our team’s workshop.
 
 Card sorting is a method used to help design or evaluate the information architecture of a site and broader a digital product (web-app and mobile app).
 
-## Information Architecture (IA)
+## Information architecture (IA)
 
 As [Nielsen Norman Group](https://www.nngroup.com/articles/ia-vs-navigation/) defines, IA is the skeleton of a digital product, including the labelling of content and how they are organized in order for the user to find the content as easy as possible. A good IA, mostly presented as navigation, needs to be clear and intuitive enough to guide the users to the right flow.
 
@@ -154,7 +154,7 @@ _If you’d like to get deeper into this method, here are some sources that may 
 - [Usability.gov](http://usability.gov/) [Card Sorting](https://www.usability.gov/how-to-and-tools/methods/card-sorting.html)
 - Donna Spencer (2007) [Eurostar Card Sorting Case Study — Rosenfeld Media](https://rosenfeldmedia.com/card-sorting/eurostar-card-sorting-case-stu/)
 - Pierre Croft (2014) [https://www.smashingmagazine.com/2014/10/improving-information-architecture-card-sorting-beginners-guide/](https://www.smashingmagazine.com/2014/10/improving-information-architecture-card-sorting-beginners-guide/)
-- [Advices to running card sorting from Optimal workshop](https://support.optimalworkshop.com/en/collections/1524584-optimalsort#advice-for-running-effective-card-sorts-using-optimalsort)
+- [Advices to running card sorting from Optimal Workshop](https://support.optimalworkshop.com/en/collections/1524584-optimalsort#advice-for-running-effective-card-sorts-using-optimalsort)
 
 ### 📚 Book
 

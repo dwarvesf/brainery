@@ -98,6 +98,6 @@ We have known the importance of SQA then we should have effective plan for our s
 
 ## Reference
 
-- [Blogs of Prof. John Vu, Carnegie Mellon University](https://science-technology.vn/?s=chất+lượng+phần+mềm)
+- [Blogs of prof. John Vu, Carnegie Mellon University](https://science-technology.vn/?s=chất+lượng+phần+mềm)
 - [Altexsoft whitepapers](https://www.altexsoft.com/whitepapers/quality-assurance-quality-control-and-testing-the-basics-of-software-quality-management/)
-- [Blogs of Danlew](https://blog.danlew.net/2022/06/22/maintaining-software-correctness/)
+- [Blogs of danlew](https://blog.danlew.net/2022/06/22/maintaining-software-correctness/)

@@ -31,7 +31,7 @@ This is just a simple example. We also have many related scenarios like this, bu
 
 > _Note that I will approach the problem by using PostgreSQL, so every concept in this article should be biased towards this database. Different databases can be implemented in different ways with different concepts and names, but under the hood, they should be similar._
 
-## Firstly, what is the Explicit Locking in Database?
+## Firstly, what is the explicit Locking in database?
 
 Database locking is one of the most common mechanisms that helps us achieve concurrency control in a database by preventing multiple transactions from accessing the same data simultaneously. The first thing that we need to explore is the types of locking in SQL databases.
 
