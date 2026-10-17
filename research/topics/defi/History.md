@@ -31,9 +31,9 @@ ICO, crowdfunding. Issuing Tokens in exchange for ETH => creating many ghost pro
 
 Launched on November 2, 2018, in contrast to EtherDelta, Uniswap is built on completely new concepts such as “liquidity provider”, “automate market maker”. Leverage the previous “user-to-contract” model.
 
-### Back thursday
+### March 2020 crash
 
-On March 12, 2020, ETH price plummeted more than 30% in less than 24 hours amid the outbreak of the Corona pandemic. GAS fees increased to 200 gwei as many users tried to deposit more of their collateral to secure various loans or were trying to escape from the bloodbath. Maker is the most affected. => add MKR tokens to compensate.
+The day is known as Black Thursday. On March 12, 2020, ETH price plummeted more than 30% in less than 24 hours amid the outbreak of the Corona pandemic. GAS fees increased to 200 gwei as many users tried to deposit more of their collateral to secure various loans or were trying to escape from the bloodbath. Maker is the most affected. => add MKR tokens to compensate.
 
 ### Defi timeline
 
