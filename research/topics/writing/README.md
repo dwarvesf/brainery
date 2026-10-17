@@ -5,6 +5,12 @@ description: Discover essential writing tips to create compelling stories, impro
 date: null
 redirect:
   - /KgycuQ
+  - /research/topics/writing/dialogue-illustrates-the-nature-of-the-character
+  - /gSyMnA
+  - /research/topics/writing/place-characters-within-a-landscape
+  - /WAaSTA
+  - /research/topics/writing/flashbulb-memory
+  - /jWqA6g
 ---
 
 ## Write better

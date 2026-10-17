@@ -11,6 +11,8 @@ tags:
   - people
 redirect:
   - /GZQMNw
+  - /research/topics/personas/mbti/build-productive-team
+  - /mhresw
 ---
 
 ## Getting started

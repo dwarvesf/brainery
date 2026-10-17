@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: 8 preferences
 description: Learn about Personality Types and MBTI to better understand yourself and others, improve interactions, and gain insights for personal growth and career direction using four key preference pairs.
 date: null

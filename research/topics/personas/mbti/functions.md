@@ -7,6 +7,8 @@ URL: "https://personalityjunkie.com/functional-stack-type-dynamics-theory/"
 tag: function, mbti
 redirect:
   - /jh1SvA
+  - /research/topics/personas/mbti/strategies-for-accurate-typing
+  - /CTsaQQ
 ---
 
 - https://www.youtube.com/watch?v=9xf13VRNPp8
