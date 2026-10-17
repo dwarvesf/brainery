@@ -1,8 +1,8 @@
 ---
 draft: false
-title: null
-description: null
-date: null
+title: "Ideas are networks (reading note)"
+description: "Ideas are networks: they emerge as clusters of neurons firing together to form a conscious thought."
+date: 2026-08-27
 tags:
   - idea
   - innovation
@@ -29,3 +29,5 @@ See also [[Ideas are constellations]].
 #### Reference
 
 [[≈ Where Good Ideas Come From | Johnson, Steven. Where Good Ideas Come from: The Seven Patterns of Innovation. London: Penguin, 2011.]]
+
+Adapted from David Drysdale's Moby Diction notes.

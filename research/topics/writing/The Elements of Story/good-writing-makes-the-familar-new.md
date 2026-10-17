@@ -1,8 +1,8 @@
 ---
 draft: false
-title: Good writing makes the familar new
+title: "Good writing makes the familar new (reading note)"
 description: Discover how good writing transforms the familiar into something fresh by creating new perspectives and focusing on themes without distracting the reader.
-date: null
+date: 2026-08-27
 redirect:
   - /y9VRFQ
 ---
@@ -19,3 +19,5 @@ Good writing makes something familiar seem new again, and the mundane fantastic.
 #### Citations
 
 Flaherty, Francis. _The Elements of Story: Field Notes on Nonfiction Writing._ Reprint edition. Harper Perennial, 2010.
+
+Adapted from David Drysdale's Moby Diction notes.

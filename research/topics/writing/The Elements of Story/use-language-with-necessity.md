@@ -1,8 +1,8 @@
 ---
 draft: false
-title: Use language with necessity
+title: "Use language with necessity (reading note)"
 description: Learn how to write clearly by cutting unnecessary words and focusing only on impactful details that support your main theme for stronger, more effective storytelling.
-date: null
+date: 2026-08-27
 redirect:
   - /0dIFgQ
 ---
@@ -19,3 +19,5 @@ Writing demands a certain economy. Extraneous words, flowery phrases, unnecessar
 #### Citations
 
 Flaherty, Francis. _The Elements of Story: Field Notes on Nonfiction Writing._ Reprint edition. Harper Perennial, 2010.
+
+Adapted from David Drysdale's Moby Diction notes.
