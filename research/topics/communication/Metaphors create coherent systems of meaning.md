@@ -1,8 +1,8 @@
 ---
 draft: false
-title: null
-description: null
-date: null
+title: "Metaphors create coherent systems of meaning (reading note)"
+description: "\"Metaphor\" means understanding one thing in terms of another."
+date: 2026-08-27
 tags:
   - communication
   - metaphor
@@ -20,8 +20,10 @@ redirect:
 - [[Metaphors structure our interpretation of the world]]
 - [[Narratives generate real-world effects]]
 - [[≈ Metaphors We Live By]]
-- [[§ Writing]]
+- Writing
 
 #### Reference
 
 [[≈ Metaphors We Live By | Lakoff, George, and Mark Johnson. Metaphors We Live By. University of Chicago Press, 2008.]]
+
+Adapted from David Drysdale's Moby Diction notes.
