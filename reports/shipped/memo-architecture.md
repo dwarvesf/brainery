@@ -22,14 +22,14 @@ This document provides a quick overview of the Memo platform's architecture and 
 The development environment and key technologies for Memo include:
 
 - **Devbox:** Provides isolated, reproducible environments with Nix.
-- **Git Submodules:** Manages content repositories and dependencies.
+- **Git submodules:** Manages content repositories and dependencies.
 - **Elixir:** Powers the content processing pipeline.
 - **Node.js and PNPM:** Used for the web application.
 - **DuckDB:** Our choice for data storage and querying.
 - **Git:** Essential for version control and tracking content history.
 - **Makefile:** Provides convenient commands for common development tasks.
 - **Arweave:** Used for permanent, decentralized content storage.
-- **Base Blockchain:** Underpins NFT minting and onchain interactions.
+- **Base blockchain:** Underpins NFT minting and onchain interactions.
 - **RainbowKit:** Facilitates wallet connections for Web3 features.
 
 ## Component diagrams

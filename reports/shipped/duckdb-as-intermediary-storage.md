@@ -47,12 +47,12 @@ CREATE TABLE vault(
 
 This schema is designed to capture a wide range of information about each content item:
 
-- **File Metadata:** Essential details like the file path, raw Markdown content, title, description, date, and authors.
+- **File metadata:** Essential details like the file path, raw Markdown content, title, description, date, and authors.
 - **Organization:** Tags and other categorizations to help structure and find content.
-- **Display Settings:** Flags that control visibility and options for pinning or featuring content.
-- **AI-Processed Data:** Includes generated embeddings (both OpenAI and custom), compressed content, and token counts for search and analysis.
-- **Integration Flags:** Boolean values that control whether content should be deployed to permanent storage or minted as an NFT.
-- **Historical Data:** Tracks previous file paths to maintain references even when files are renamed or moved.
+- **Display settings:** Flags that control visibility and options for pinning or featuring content.
+- **AI-Processed data:** Includes generated embeddings (both OpenAI and custom), compressed content, and token counts for search and analysis.
+- **Integration flags:** Boolean values that control whether content should be deployed to permanent storage or minted as an NFT.
+- **Historical data:** Tracks previous file paths to maintain references even when files are renamed or moved.
 
 ![](assets/duckdb-intermediary.png)
 

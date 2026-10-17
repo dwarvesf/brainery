@@ -37,7 +37,7 @@ The development environment primarily interacts with these key elements:
 
 1. **`content/`**: This directory holds our markdown files and is ignored in Git.
 2. **`lib/obsidian-compiler/`**: Contains the Elixir code responsible for processing Obsidian markdown.
-3. **Next.js Application**: This is the web application that displays our content.
+3. **Next.js application**: This is the web application that displays our content.
 4. **`vault.duckdb`**: The database file used for storing our processed content.
 
 ## Working with the development environment

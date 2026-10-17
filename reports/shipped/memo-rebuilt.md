@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Memo, rebuilt: Elixir and DuckDB out, Workers and D1 in"
+title: "Memo, rebuilt: Elixir and DuckDB out, workers and D1 in"
 description: "Memo's May 2025 build notes described Elixir, DuckDB and GitHub Pages. This report sets them beside today's Workers, D1, R2 and two-repo publish, with the dates, PRs and incidents behind each change."
 slug: memo-rebuilt
 kind: field-report
@@ -186,7 +186,7 @@ The page count moved as well. A 23 July pull request names a 4,181-page build, a
 
 Just before the split, a single combined step went from 110 to 78 seconds, and reading its log turned up three silent bugs. That story has its own post: [the deploy pipeline formula](../../essays/deploy-pipeline-formula.md).
 
-## What I would change
+## What i would change
 
 This section is my reading of the sources, and a few of the choices are open.
 
