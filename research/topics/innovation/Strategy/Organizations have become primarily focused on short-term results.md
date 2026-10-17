@@ -1,12 +1,13 @@
 ---
-draft: true
-title: "Organizations have become primarily focused on short-term results (reading note)"
-description: "The short-term perspective views the world as a finite game, contained, and with limited players and clear rules."
-date: 2026-10-18
+draft: false
+title: null
+description: null
+date: null
 tags:
   - business
   - strategy
-redirect: []
+redirect:
+  - /2iF2CA
 ---
 
 The short-term perspective views the world as a finite game, contained, and with limited players and clear rules. According to [[≈ The Infinite Game | Simon Sinek]], recent years have seen a pronounced shift toward short-term thinking. He characterizes it as a rental mindset: there's less of a sense of ownership, and businesses are built to be sold rather than to be sustainable. It's a rental mindset: businesses are built to be sold, not sustained.
