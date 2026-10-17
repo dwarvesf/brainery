@@ -1,6 +1,6 @@
 ---
 draft: true
-title: "Devbox.json: Your project's DNA"
+title: "Devbox.json: your project's DNA"
 description: Master your Devbox environment with this no-nonsense guide to devbox.json
 date: 2024-08-01
 authors:
@@ -16,7 +16,7 @@ Ever wished you could clone your perfect dev environment? With `devbox.json`, yo
 
 ## The anatomy of devbox.json
 
-### Packages: Your toolbox
+### Packages: your toolbox
 
 ```json
 "packages": [
@@ -29,7 +29,7 @@ This is where you list all the packages you need. Think of it as your project's 
 
 **Pro tip:** Use `devbox search <package>` to find available versions.
 
-### ENV: Set the stage
+### ENV: set the stage
 
 ```json
 "env": {
@@ -39,7 +39,7 @@ This is where you list all the packages you need. Think of it as your project's 
 
 Here's where you declare or override environment variables. It's like setting up the perfect lighting before a photoshoot - everything just works better.
 
-### Shell: Your command center
+### Shell: your command center
 
 ```json
 "shell": {
@@ -63,7 +63,7 @@ This is where the magic happens:
 - `init_hook`: These commands run every time you fire up your Devbox shell. Perfect for setup tasks.
 - `scripts`: Define your own commands here. It's like creating shortcuts for complex tasks.
 
-### Include: Extend your powers
+### Include: extend your powers
 
 ```json
 "include": [

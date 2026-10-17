@@ -104,5 +104,5 @@ The note ends with a personal view. It reads the pairing as a case of Agile in p
 ## References
 
 - Nir Eyal, [_Hooked: How to Build Habit-Forming Products_](http://www.nirandfar.com/hooked)
-- [Want to hook your users? Drive them crazy](http://www.nirandfar.com/2012/03/want-to-hook-your-users-drive-them-crazy.html) on Nir and Far
+- [Want to hook your users? drive them crazy](http://www.nirandfar.com/2012/03/want-to-hook-your-users-drive-them-crazy.html) on Nir and Far
 - [Video games can activate the brain's pleasure circuits](https://www.psychologytoday.com/blog/the-compass-pleasure/201110/video-games-can-activate-the-brains-pleasure-circuits-0) on Psychology Today
