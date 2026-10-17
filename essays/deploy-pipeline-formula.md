@@ -19,17 +19,17 @@ The site you're reading publishes itself on every push. A merged post kicks off 
 
 A CI step hides a dozen phases behind one duration number. The raw log has a timestamp on every line, so the first move is to index it: mark where each phase starts, subtract, and write down the table.
 
-| Phase | Time |
-| ----- | ---- |
-| Vault fetch + install | 9s |
-| Markdown compile (1,954 files) | 9s |
-| Metadata generators | 4s |
-| Next.js build (3,080 pages, warm cache) | 27s |
-| RSS, redirects, lint bundle | 9s |
-| Deploy static Worker | 17s |
-| Deploy API Worker | 8s |
-| R2 upload | 4s |
-| D1 seed | 11s |
+| Phase                                   | Time |
+| --------------------------------------- | ---- |
+| Vault fetch + install                   | 9s   |
+| Markdown compile (1,954 files)          | 9s   |
+| Metadata generators                     | 4s   |
+| Next.js build (3,080 pages, warm cache) | 27s  |
+| RSS, redirects, lint bundle             | 9s   |
+| Deploy static Worker                    | 17s  |
+| Deploy API Worker                       | 8s   |
+| R2 upload                               | 4s   |
+| D1 seed                                 | 11s  |
 
 Two things jump out of a table like this that never jump out of a checkmark. The build core was already tight: 27 seconds for 3,080 pages with a warm compiler cache is fine, and we didn't touch it. The tail was the problem: 40 seconds of deploys and uploads running one after another, none of which depended on each other. Figure 1 shows the same numbers to scale, before and after.
 
