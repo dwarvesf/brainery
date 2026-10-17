@@ -128,6 +128,6 @@ To reduce composing time when number of events start to grow. Snapshot is a Stat
 ## References
 
 - [Beginner's guide to event sourcing | Event store](https://www.eventstore.com/event-sourcing)
-- [Keynote: event sourcing - Greg Young - DPC2016](https://www.youtube.com/watch?v=I3uH3iiiDqY)
+- [Keynote: event sourcing - greg young - DPC2016](https://www.youtube.com/watch?v=I3uH3iiiDqY)
 - [Learning-topics: event sourcing](https://discord.com/channels/462663954813157376/1009812700022456400)
 - [Diagram about the thought process from normal CRUD operation into event sourcing](https://miro.com/app/board/uXjVPZswY00=/?share_link_id=338629629501)

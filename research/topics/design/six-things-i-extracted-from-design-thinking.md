@@ -81,7 +81,7 @@ Usually, we would think coming to a decision is the end of it. But as designers 
 
 Testing and checking are not a waste of time, they are a way of improvement. Without testing and checking, we would never be able to know how to make better decisions
 
-## Change. Adapt. Evolve
+## Change. adapt. evolve
 
 ![](assets/six-things-i-extracted-from-design-thinking_a312bb97ae7e137118339c676689e1dc_md5.webp)
 
