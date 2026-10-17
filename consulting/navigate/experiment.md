@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Choose what to build
 short_title: Experiment selection
 description: After forming our market thesis, here's how we decide which experiments are worth building. A practical framework for turning tech bets into focused action.
@@ -13,8 +14,7 @@ tags:
   - market-thesis
   - tech-bets
 pinned: true
-redirect:
-  - /EspRAQ
+redirect: []
 ---
 
 ```tldr

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: § Navigate market changes 🌊
 description: This series helps our consulting team tackle tech and market shifts with confidence. It offers a clear roadmap to spot trends, adapt plans, and lead in new tech consulting.
 date: 2025-05-09
@@ -9,8 +10,7 @@ tags:
   - market-changes
   - strategy
   - adaptation
-redirect:
-  - /pzEL0g
+redirect: []
 ---
 
 The tech world always moves. Market shifts can feel like you chart a course through new, rough waters. This series is our team's compass. It helps us not just react to changes, but proactively meet them with confidence and skill. We've put our team's wisdom and plans into focused guides that are easy to access and use.

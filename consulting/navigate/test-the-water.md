@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Test the water
 description: Learn how to test our new consulting service for emerging tech in the real world. This guide shows you how to validate quickly, find early clients, and distribute effectively.
 date: 2025-05-09
@@ -8,8 +9,7 @@ tags:
   - navigate
   - market-changes
   - validation
-redirect:
-  - /qZq5ZQ
+redirect: []
 ---
 
 ```tldr

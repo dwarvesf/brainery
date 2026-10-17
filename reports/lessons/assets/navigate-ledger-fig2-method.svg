@@ -55,13 +55,13 @@
   <text x="95.0" y="274" font-size="10" fill="#a7c0d9" text-anchor="middle">internal ops first,</text>
   <text x="95.0" y="288" font-size="10" fill="#a7c0d9" text-anchor="middle">8 to 12 weeks</text>
 </g>
-<g data-fk-node="buildlog" data-group="stalled" data-tip="Three build-log posts between June and December 2025, then none until August 2026.">
+<g data-fk-node="buildlog" data-group="stalled" data-tip="Three build-log posts between June and December 2025 (now filed as shipped reports), then none until August 2026.">
   <rect x="215" y="232" width="150" height="70" fill="#21466a" stroke="#68839d"/>
   <text x="290.0" y="256" font-size="11" letter-spacing="1.2" fill="#e8f1fa" text-anchor="middle" font-weight="bold">BUILD-LOG</text>
   <text x="290.0" y="274" font-size="10" fill="#a7c0d9" text-anchor="middle">what the build</text>
   <text x="290.0" y="288" font-size="10" fill="#a7c0d9" text-anchor="middle">taught us</text>
 </g>
-<g data-fk-node="forward" data-group="stalled" data-tip="Only three issues exist: February, May and June 2025. The last shipped on 2025-06-27.">
+<g data-fk-node="forward" data-group="stalled" data-tip="The last forward issue shipped on 2025-06-27.">
   <rect x="410" y="232" width="150" height="70" fill="#21466a" stroke="#68839d"/>
   <text x="485.0" y="256" font-size="11" letter-spacing="1.2" fill="#e8f1fa" text-anchor="middle" font-weight="bold">FORWARD ISSUE</text>
   <text x="485.0" y="274" font-size="10" fill="#a7c0d9" text-anchor="middle">monthly team</text>
@@ -79,5 +79,5 @@
 <line data-fk-edge="forward ledger" x1="560" y1="267" x2="603" y2="267" stroke="#e8c56a" stroke-width="1.5" marker-end="url(#arm2)"/>
   <line x1="0" y1="328" x2="760" y2="328" stroke="#385a7b"/>
   <text x="14" y="352" font-size="10" fill="#a7c0d9">The method ends at a plan. Nothing in it asks whether the plan paid off.</text>
-  <text x="14" y="370" font-size="10" fill="#6f8fb0">Everything to the left of the amber box ran in 2025. The pipeline thinned within weeks of the June theses.</text>
+  <text x="14" y="370" font-size="10" fill="#6f8fb0">Everything before the amber box ran in 2025. The pipeline thinned within weeks of the June theses.</text>
 </svg>

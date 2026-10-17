@@ -1,4 +1,5 @@
 ---
+draft: true
 title: How we craft a market thesis
 short_title: Market thesis
 description: Our structured approach to spotting tech trends and turning them into winning bets. From identifying early signals to building solutions that matter.
@@ -13,8 +14,7 @@ tags:
   - innovation-analysis
   - decision-making
 toc: true
-redirect:
-  - /45ARoA
+redirect: []
 ---
 
 ```tldr

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Business correction
 description: Learn how to adjust your team when the market shifts. This guide helps you assess competency, pivot goals, and keep your consulting service competitive.
 date: 2025-05-09
@@ -8,8 +9,7 @@ tags:
   - navigate
   - market-changes
   - team-adjustment
-redirect:
-  - /XqSkkA
+redirect: []
 ---
 
 ```tldr

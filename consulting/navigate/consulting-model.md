@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Consulting model
 description: This document looks at our consulting model. It shows how we act as strategic partners to meet market demands and give real value.
 date: 2025-05-09
@@ -8,8 +9,7 @@ tags:
   - navigate
   - consulting
   - business-model
-redirect:
-  - /wzPT5A
+redirect: []
 ---
 
 > **tl;dr**

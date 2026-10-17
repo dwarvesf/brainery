@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Technology cycles
 description: This document explains how tech cycles affect market changes. This knowledge helps our planning and how we advise clients.
 date: 2025-05-09
@@ -8,8 +9,7 @@ tags:
   - navigate
   - technology-cycles
   - market-analysis
-redirect:
-  - /yARSZA
+redirect: []
 ---
 
 ```tldr

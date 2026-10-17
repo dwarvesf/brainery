@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Grow our talent pool
 description: This guide covers how we build our talent pool, especially when market shifts demand new skills. We focus on finding passionate people through different hiring paths and why talent recognition matters.
 date: 2025-05-09
@@ -9,8 +10,7 @@ tags:
   - hiring
   - team-growth
   - navigate
-redirect:
-  - /DQ0QEw
+redirect: []
 ---
 
 ```tldr
