@@ -1,8 +1,8 @@
 ---
 draft: false
-title: Ensure the trunk of a narrative is more substantial than the branches
+title: "Ensure the trunk of a narrative is more substantial than the branches (reading note)"
 description: Learn how to keep your writing focused by emphasizing the main idea over qualifiers and details, ensuring your core theme remains clear and compelling.
-date: null
+date: 2026-08-27
 redirect:
   - /rjR5rA
 ---
@@ -19,3 +19,5 @@ When writing, ensure that the core theme of an idea isn't overshadowed by subord
 #### Citations
 
 Flaherty, Francis. _The Elements of Story: Field Notes on Nonfiction Writing._ Reprint edition. Harper Perennial, 2010.
+
+Adapted from David Drysdale's Moby Diction notes.

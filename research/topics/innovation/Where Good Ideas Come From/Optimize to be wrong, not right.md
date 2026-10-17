@@ -1,8 +1,8 @@
 ---
 draft: false
-title: null
-description: null
-date: null
+title: "Optimize to be wrong, not right (reading note)"
+description: "Organizations should optimize to be wrong, not right: they should look to invalidate as many ideas as they can."
+date: 2026-08-27
 tags:
   - idea
   - innovation
@@ -34,3 +34,5 @@ Investing in multiple inexpensive ideas in parallel helps the organization inval
 Johnson, Steven. _Where Good Ideas Come from: The Seven Patterns of Innovation_. London: Penguin, 2011.
 
 O’Reilly, Barry. _“Optimize to Be Wrong, Not Right.”_ Barry O’Reilly (blog), April 6, 2017. https://barryoreilly.com/optimize-to-be-wrong-not-right/.
+
+Adapted from David Drysdale's Moby Diction notes.

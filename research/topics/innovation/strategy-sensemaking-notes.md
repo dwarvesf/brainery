@@ -45,7 +45,7 @@ redirect:
   - /UB5HEw
 ---
 
-These are Han's reading notes on Richard Rumelt's _Good Strategy Bad Strategy_ (2011), Simon Sinek's _The Infinite Game_ (2019) and Rita McGrath's _Seeing around Corners_ (2019), with Cedric Chin's 2020 essays on the OODA loop. They treat strategy as a way of seeing before it is a plan. Richard Rumelt argues that having a strategy is itself a competitive advantage, because few organizations actually have one. For Rumelt a strategy rests on a kernel of three parts: a diagnosis, a guiding policy and coordinated action. The other notes here ask what feeds that diagnosis. Their answers are sensemaking, honest data, signals that arrive early, and a horizon longer than the next quarter. The page follows that order.
+These notes are adapted from David Drysdale's Moby Diction digital garden (publish.obsidian.md/mobydiction, now offline). They summarize Richard Rumelt's _Good Strategy Bad Strategy_ (2011), Simon Sinek's _The Infinite Game_ (2019) and Rita McGrath's _Seeing around Corners_ (2019), with Cedric Chin's 2020 essays on the OODA loop. Han curated and edited them for the Dwarves research vault. They treat strategy as a way of seeing before it is a plan. Richard Rumelt argues that having a strategy is itself a competitive advantage, because few organizations actually have one. For Rumelt a strategy rests on a kernel of three parts: a diagnosis, a guiding policy and coordinated action. The other notes here ask what feeds that diagnosis. Their answers are sensemaking, honest data, signals that arrive early, and a horizon longer than the next quarter. The page follows that order.
 
 ## What a strategy is
 
@@ -57,29 +57,29 @@ Good strategy simplifies. It focuses on a limited number of critical insights, a
 
 This is the essence of strategy: find the right fulcrum point and apply the right pressure to move an object. Strategy creates leverage.
 
-The original notes on Rumelt's book branch into three groups. Each links to a note in the original source garden.
+The original notes on Rumelt's book branch into three groups. Each was a separate note in the source garden, which is now offline.
 
 **The nature of strategy**
 
-- [Strategy unflinchingly identifies the nature of the challenge ahead](https://publish.obsidian.md/mobydiction/notes/Strategy+unflinchingly+identifies+the+nature+of+the+challenge+ahead)
-- [Strategy creates advantage by generating new perspectives](https://publish.obsidian.md/mobydiction/notes/Strategy+creates+advantage+by+generating+new+perspectives)
-- [Strategy requires rejecting some good opportunities in favour of others](https://publish.obsidian.md/mobydiction/notes/Strategy+requires+rejecting+some+good+opportunities+in+favour+of+others)
-- [Strategy is more design than decision-making](https://publish.obsidian.md/mobydiction/notes/Strategy+is+more+design+than+decision-making)
-- [Sustainable strategy cannot be easily replicated](https://publish.obsidian.md/mobydiction/notes/Sustainable+strategy+cannot+be+easily+replicated)
-- [Strategy cannot be discovered through deduction alone](https://publish.obsidian.md/mobydiction/notes/Strategy+cannot+be+discovered+through+deduction+alone)
+- Strategy unflinchingly identifies the nature of the challenge ahead
+- Strategy creates advantage by generating new perspectives
+- Strategy requires rejecting some good opportunities in favour of others
+- Strategy is more design than decision-making
+- Sustainable strategy cannot be easily replicated
+- Strategy cannot be discovered through deduction alone
 
 **The kernel of strategy**
 
-- [Strategy revolves around a diagnosis, a guiding policy, and coherent action.](https://publish.obsidian.md/mobydiction/notes/Strategy+revolves+around+a+diagnosis%2C+a+guiding+policy%2C+and+coherent+action.)
-  - [Strategic diagnosis is a clear, honest description of the challenge at hand](https://publish.obsidian.md/mobydiction/notes/Strategic+diagnosis+is+a+clear%2C+honest+description+of+the+challenge+at+hand)
-  - [Guiding policy is a general approach to overcoming a challenge](https://publish.obsidian.md/mobydiction/notes/Guiding+policy+is+a+general+approach+to+overcoming+a+challenge)
-  - [Strategy defines coherent action -- a set of coordinated moves that enact a guiding principle](https://publish.obsidian.md/mobydiction/notes/Strategy+defines+coherent+action+--+a+set+of+coordinated+moves+that+enact+a+guiding+principle)
+- Strategy revolves around a diagnosis, a guiding policy, and coherent action.
+  - Strategic diagnosis is a clear, honest description of the challenge at hand
+  - Guiding policy is a general approach to overcoming a challenge
+  - Strategy defines coherent action -- a set of coordinated moves that enact a guiding principle
 
 **Inertia and entropy in organizations**
 
-- [Established organizations tend to optimize for inertia](https://publish.obsidian.md/mobydiction/notes/Established+organizations+tend+to+optimize+for+inertia)
-- [Entropy forces organizations to waste energy on alignment](https://publish.obsidian.md/mobydiction/notes/Entropy+forces+organizations+to+waste+energy+on+alignment)
-- [Chain link systems cannot be improved by focusing on one link alone](https://publish.obsidian.md/mobydiction/notes/Chain+link+systems+cannot+be+improved+by+focusing+on+one+link+alone)
+- Established organizations tend to optimize for inertia
+- Entropy forces organizations to waste energy on alignment
+- Chain link systems cannot be improved by focusing on one link alone
 
 ### Strategy cannot be copied from a book
 
@@ -95,7 +95,7 @@ Cedric Chin makes the same point in a passage the note quotes at length:
 
 Problem-solving means identifying the salient features of a problem. That is subjective, and different thinkers find different things salient. Specialization narrows what we see as salient and biases us toward certain mental models and thinking tools. We focus on the aspects of a problem we are best trained to recognize and handle.
 
-When a challenge arrives we turn to specialists for their honed expertise. In particularly wicked problem domains, a specialist may be the worst fit, because specialization undermines the ability to consider the problem as a whole. The note links this to narratives (specialization inures us to specific narratives about the world), to the way people [fill information gaps with assumptions](https://publish.obsidian.md/mobydiction/notes/People+fill+information+gaps+with+assumptions) (specialization conditions the assumptions we apply under uncertainty), and to why [radical uncertainty cannot be resolved by probabilistic thinking alone](https://publish.obsidian.md/mobydiction/notes/Situations+of+radical+uncertainty+cannot+be+resolved+through+probabilistic+thinking+alone) (we rely on familiar mental models there). The source is Roger Martin's _The Opposable Mind_.
+When a challenge arrives we turn to specialists for their honed expertise. In particularly wicked problem domains, a specialist may be the worst fit, because specialization undermines the ability to consider the problem as a whole. The note links this to narratives (specialization inures us to specific narratives about the world), to the way people fill information gaps with assumptions (specialization conditions the assumptions we apply under uncertainty), and to why radical uncertainty cannot be resolved by probabilistic thinking alone (we rely on familiar mental models there). The source is Roger Martin's _The Opposable Mind_.
 
 ## Sensemaking and the OODA loop
 
@@ -103,13 +103,11 @@ When a challenge arrives we turn to specialists for their honed expertise. In pa
 
 Sensemaking is the practice of interpreting disparate sources of observed information. You can do it as analysis, which applies an existing mental model to the data deductively, or as synthesis, which creates new mental models inductively from the available information.
 
-Applying an existing mental model is unlikely to produce a winning strategy. As [Cedric Chin argues](https://publish.obsidian.md/mobydiction/Chin+-+Much+Ado+About+the+OODA+Loop), deductive analysis cannot produce the differentiated insight a defensible moat needs. A mental model known to you is probably known to others, so the strategy it yields is predictable. That is why [strategy is about developing perspective](https://publish.obsidian.md/mobydiction/strategy+is+about+developing+perspective). A winning strategy comes from a unique perspective, and once a strategy is known it loses its potency as a sustainable advantage.
+Applying an existing mental model is unlikely to produce a winning strategy. As Cedric Chin argues, deductive analysis cannot produce the differentiated insight a defensible moat needs. A mental model known to you is probably known to others, so the strategy it yields is predictable. That is why strategy is about developing perspective. A winning strategy comes from a unique perspective, and once a strategy is known it loses its potency as a sustainable advantage.
 
 ### The OODA loop
 
 The OODA (observe, orient, decide, act) loop is a decision-making concept developed by the military strategist John Boyd. It describes how an enemy can be defeated, or a goal reached, despite an imbalance of strength. It has since been applied in business, litigation, law enforcement and other fields.
-
-![The OODA loop](https://publish-01.obsidian.md/access/5bf4c22f8416d93237aa3630d0fd9c7c/assets/1000px-OODA.Boyd.svg.png)
 
 **Observe.** Build a comprehensive, accurate understanding of the situation. That takes complete awareness of the environment and of what the available information means. Learn to assess quickly which information is valuable and which distracts.
 
@@ -125,13 +123,13 @@ To gain an advantage over an opponent, focus on the Orient phase:
 - **Overwhelm your opponent** by acting with great, sudden force.
 - **Disrupt your opponent's orientation** with false information that reinforces mistaken mental models and inhibits their sensemaking.
 
-Sources and further reading: [Chin, Much ado about the OODA loop](https://publish.obsidian.md/mobydiction/Chin+-+Much+Ado+About+the+OODA+Loop), [Chin, Good synthesis is the start of good sensemaking](https://publish.obsidian.md/mobydiction/Chin+-+Good+Synthesis+is+the+Start+of+Good+Sensemaking), [Farnam Street](https://fs.blog/2018/01/john-boyd-ooda-loop/) and [Wikipedia](https://en.wikipedia.org/wiki/OODA_loop).
+Sources and further reading: [Chin, Much ado about the OODA loop](https://commoncog.com/blog/much-ado-about-the-ooda-loop/), [Chin, Good synthesis is the start of good sensemaking](https://commoncog.com/blog/good-synthesis-adapting-to-uncertainty/), [Farnam Street](https://fs.blog/2018/01/john-boyd-ooda-loop/) and [Wikipedia](https://en.wikipedia.org/wiki/OODA_loop).
 
 ### Strategy is time-sensitive
 
 Building an effective strategy is time-sensitive work. The longer you take to respond to changing conditions, the fewer options you keep. As soon as you react to conditions, you change them. You must keep reading the landscape and adjusting your perspective.
 
-Strategies also have a shelf life. The longer a strategy is in the wild, the more time competitors have to respond and adjust their own mental models. That changes the conditions again and forces a [revision to your mental model](https://publish.obsidian.md/mobydiction/strategy+is+about+developing+perspective).
+Strategies also have a shelf life. The longer a strategy is in the wild, the more time competitors have to respond and adjust their own mental models. That changes the conditions again and forces a revision to your mental model.
 
 ## Data, signals and evidence
 
@@ -143,7 +141,7 @@ In almost any process, the quality of the input limits the quality of the output
 
 Devices and software create what Davis and Davidson call "data exhaust", the detritus of our interactions with interfaces. It is a by-product, and it is not designed with falsifiability in mind. Collecting it is not research.
 
-[Analytics data cannot measure intentionality](https://publish.obsidian.md/mobydiction/notes/Quant+data+is+lossy). It needs an analyst's interpretation, and one analyst's reading may not match another's, because each brings their own values. With so much data available, we spend more time building data sets so we can ask questions than asking the questions. Worry less about hoarding data and more about collecting the right data. A related note observes that [abundant data makes us jump to quantitative data as the solution to every problem](https://publish.obsidian.md/mobydiction/notes/Abundant+data+makes+us+jump+to+quantitative+data+as+the+solution+to+every+problem.). The source is Sam Ladner's _Mixed Methods_ ([note](https://publish.obsidian.md/mobydiction/notes/%E2%89%88+Ladner+-+Mixed+Methods)).
+Analytics data cannot measure intentionality. It needs an analyst's interpretation, and one analyst's reading may not match another's, because each brings their own values. With so much data available, we spend more time building data sets so we can ask questions than asking the questions. Worry less about hoarding data and more about collecting the right data. A related note observes that abundant data makes us jump to quantitative data as the solution to every problem. The source is Sam Ladner's _Mixed Methods_.
 
 ### Base strategy on leading indicators, not lagging ones
 
@@ -153,7 +151,7 @@ Leading indicators look different. They are more qualitative and often arrive as
 
 Strategic degrees of freedom and signal strength have a roughly inverse relationship. The longer you wait to act on a signal, the fewer options you have. Early on, signals are weak and a big move at that level of uncertainty would be foolish. Wait too long and the inflection point is obvious and you are too late to benefit. Where signal strength and degrees of freedom cross lies the period of optimum warning, so stay on top of signals to find the right moment to act.
 
-Related notes in the garden: [Inflection points reveal themselves first at the edges](https://publish.obsidian.md/mobydiction/notes/Inflection+points+reveal+themselves+first+at+the+edges), [Quantitative analysis is not inherently more reliable than qualitative data](https://publish.obsidian.md/mobydiction/notes/Quantitative+analysis+is+not+inherently+more+reliable+than+qualitative+data), [Qualitative research creates mental models about the problem space](https://publish.obsidian.md/mobydiction/notes/Qualitative+research+creates+mental+models+about+the+problem+space.), [Sensemaking MOC](https://publish.obsidian.md/mobydiction/Sensemaking+MOC) and [Our vision of the future is always constrained by our view of the past](https://publish.obsidian.md/mobydiction/notes/Our+vision+of+the+future+is+always+constrained+by+our+view+of+the+past.).
+Related notes in the source garden (offline): Inflection points reveal themselves first at the edges, Quantitative analysis is not inherently more reliable than qualitative data, Qualitative research creates mental models about the problem space, Sensemaking MOC and Our vision of the future is always constrained by our view of the past.
 
 ## Seeing change coming
 
@@ -168,13 +166,13 @@ Inflection points develop in four stages: **hype**, **dismissal**, **emergence**
 3. In the emergent phase, stable players see how the world is changing.
 4. The shift reaches maturity and is absorbed into the everyday assumptions of the organization. Organizations that adjusted at the right time thrive at the expense of those that did not.
 
-The source is Rita McGrath's _Seeing around Corners_ ([note](https://publish.obsidian.md/mobydiction/McGrath+-+Seeing+Around+Corners)). A related note says that [change happens gradually, then suddenly](https://publish.obsidian.md/mobydiction/notes/Change+happens+gradually%2C+then+suddenly.).
+The source is Rita McGrath's _Seeing around Corners_. A related note says that change happens gradually, then suddenly.
 
 ### Organizations that depend on tolerability are ripe for disruption
 
 Some organizations rely on "tolerable" attributes, basic features customers put up with but view negatively. Customers tolerate them only until a viable alternative appears, and then the tolerable thing becomes a dissatisfier or worse. Customers often cannot even say what bothers them. They simply put up with it or lean on workarounds. These friction points are the places most exposed to inflection points, and understanding them is key to survival.
 
-Ask who else fulfills the same or similar jobs to be done. Then evaluate the consumption chain a customer goes through to complete the job and look for where it breaks down. What are the positives and negatives of doing business with you along that chain? Finally, consider how these configurations may change at possible inflection points. Organizations should try to identify the points where a change in constraints would let a competitor serve your customers in a new or better way. The source is McGrath's _Seeing Around Corners_ ([note](https://publish.obsidian.md/mobydiction/McGrath+-+Seeing+Around+Corners)); related notes cover [innovation cascades](https://publish.obsidian.md/mobydiction/notes/Innovation+cascades).
+Ask who else fulfills the same or similar jobs to be done. Then evaluate the consumption chain a customer goes through to complete the job and look for where it breaks down. What are the positives and negatives of doing business with you along that chain? Finally, consider how these configurations may change at possible inflection points. Organizations should try to identify the points where a change in constraints would let a competitor serve your customers in a new or better way. The source is McGrath's _Seeing Around Corners_; related notes cover innovation cascades.
 
 ### Work backwards from a long-term vision
 
@@ -198,27 +196,27 @@ The source is Miller, Nave, Deane and Clark in _Aeon_.
 
 ### Build organizations around a long-term narrative
 
-To stay sustainable over the long term, an organization needs a long-term objective, a mission or vision that gives it its reason to exist and animates its activities. Simon Sinek calls this the organization's "just cause." It orients the organization to horizons longer than the quarterly or annual report and gives people a sense of purpose. It also works as a first filter against unethical or counter-productive ideas. Narratives let us act decisively under uncertainty, and the just cause applies that at the organization level: a kind of narrative that guides decisions and strategy. It may help [express strategy as simple rules](https://publish.obsidian.md/mobydiction/notes/Express+strategy+as+simple+rules), as shorthand that guides action.
+To stay sustainable over the long term, an organization needs a long-term objective, a mission or vision that gives it its reason to exist and animates its activities. Simon Sinek calls this the organization's "just cause." It orients the organization to horizons longer than the quarterly or annual report and gives people a sense of purpose. It also works as a first filter against unethical or counter-productive ideas. Narratives let us act decisively under uncertainty, and the just cause applies that at the organization level: a kind of narrative that guides decisions and strategy. It may help express strategy as simple rules, as shorthand that guides action.
 
-A just cause, Sinek writes, is never money. Money is the means to the end of the cause. Han reads the just cause as almost an ideology. Sinek's example is Apple positioning itself against a "worthy foe" in IBM: IBM was conservative and business-like, and Apple defined itself as creative and individualistic.
+A just cause, Sinek writes, is never money. Money is the means to the end of the cause. The garden author reads the just cause as almost an ideology. Sinek's example is Apple positioning itself against a "worthy foe" in IBM: IBM was conservative and business-like, and Apple defined itself as creative and individualistic.
 
-Organizations that adopt Sinek's "infinite perspective" need not fear disruption and change. They can use change to advance the larger cause. Some business challenges, such as [digital transformation](https://publish.obsidian.md/mobydiction/notes/Digital+transformation+requires+a+long-term+view.), only work with a longer view.
+Organizations that adopt Sinek's "infinite perspective" need not fear disruption and change. They can use change to advance the larger cause. Some business challenges, such as digital transformation, only work with a longer view.
 
-That long-term vision runs against a present tendency of [organizations to focus on the short term](#short-term-results-and-the-rental-mindset). The bias connects to [presentism](https://publish.obsidian.md/mobydiction/notes/%C2%B6+Presentism), a resistance to thinking past the tyranny of the present. One possible cause is a growing emphasis on [quantification and metrics](https://publish.obsidian.md/mobydiction/notes/Fixating+on+metric+data+biases+us+to+the+short+term), itself a [symptom of a decline in social trust](https://publish.obsidian.md/mobydiction/notes/Metric+fixation+is+a+symptom+of+a+decline+in+social+trust).
+That long-term vision runs against a present tendency of [organizations to focus on the short term](#short-term-results-and-the-rental-mindset). The bias connects to presentism, a resistance to thinking past the tyranny of the present. One possible cause is a growing emphasis on quantification and metrics, itself a symptom of a decline in social trust.
 
-Similar ideas include Jay Acunzo's "aspirational anchors" and the "shared value" model of Jim Kalbach, Michael Tanamachi and Michael Schrage in the context of [jobs to be done](https://publish.obsidian.md/mobydiction/notes/%C2%B6+Jobs+to+be+done+(JTBD). The source is [Simon Sinek, _The Infinite Game_, Portfolio, 2019](https://publish.obsidian.md/mobydiction/notes/%E2%89%88+Sinek+-+The+Infinite+Game).
+Similar ideas include Jay Acunzo's "aspirational anchors" and the "shared value" model of Jim Kalbach, Michael Tanamachi and Michael Schrage in the context of jobs to be done. The source is Simon Sinek, _The Infinite Game_, Portfolio, 2019.
 
 ### Short-term results and the rental mindset
 
 The short-term view treats the world as a finite game: contained, with limited players and clear rules. According to Sinek, recent years have brought a pronounced shift toward short-term thinking. He calls it a rental mindset. There is less sense of ownership, and businesses are built to be sold rather than sustained.
 
-Part of the shift may come from changing attitudes toward the role of business in society, from a business that serves society to the [Friedman doctrine](https://publish.obsidian.md/mobydiction/Friedman+doctrine), which says a business's first commitment is to its shareholders.
+Part of the shift may come from changing attitudes toward the role of business in society, from a business that serves society to the Friedman doctrine, which says a business's first commitment is to its shareholders.
 
-Ignoring the long-term effects of chasing short-term metrics can lead to prioritizing the wrong things. As [Sunil Gupta](https://publish.obsidian.md/mobydiction/Gupta+-+Driving+Digital+Strategy) points out, digital transformation often means accepting a short-term hit for a longer-term play. [Erika Hall](https://publish.obsidian.md/mobydiction/Hall+-+Thinking+in+Triplicate) argues that designers have an ethical responsibility to consider the second-order effects of their work on the customer and on the business.
+Ignoring the long-term effects of chasing short-term metrics can lead to prioritizing the wrong things. As Sunil Gupta points out, digital transformation often means accepting a short-term hit for a longer-term play. Erika Hall argues that designers have an ethical responsibility to consider the second-order effects of their work on the customer and on the business.
 
 Real change needs delayed gratification. Many of the most valuable things in the long run require enduring short-term pain. That holds for individuals and organizations: we struggle to choose what we know pays more later when the short-term cost is higher than another option's.
 
-Related notes: [Fixating on metric data biases us to the short term](https://publish.obsidian.md/mobydiction/notes/Fixating+on+metric+data+biases+us+to+the+short+term), [Efficiency is over-valued](https://publish.obsidian.md/mobydiction/Efficiency+is+over-valued), [Loss aversion creates tension between the need to innovate and the need to protect the status quo in large organizations](https://publish.obsidian.md/mobydiction/notes/Loss+aversion+creates+tension+between+the+need+to+innovate+and+the+need+to+protect+the+status+quo+in+large+organizations) and [Varol, Think like a rocket scientist](https://publish.obsidian.md/mobydiction/Varol+-+Think+Like+a+Rocket+Scientist).
+Related notes: Fixating on metric data biases us to the short term, Efficiency is over-valued, Loss aversion creates tension between the need to innovate and the need to protect the status quo in large organizations and Varol, Think like a rocket scientist.
 
 ## Related notes
 
@@ -236,6 +234,7 @@ These notes link out to others in the research vault:
 
 ## References
 
+- Drysdale, David. _Moby Diction_ (digital garden). publish.obsidian.md/mobydiction, now offline. The reading notes on Rumelt, Sinek, McGrath and Chin on this page are adapted from it.
 - Chin, Cedric. “Much Ado About The OODA Loop.” Commonplace - The Commoncog Blog (blog), May 19, 2020. [https://commoncog.com/blog/much-ado-about-the-ooda-loop/](https://commoncog.com/blog/much-ado-about-the-ooda-loop/).
 - Chin, Cedric. “Good Synthesis Is the Start of Good Sensemaking.” Commonplace - The Commoncog Blog (blog), May 26, 2020. [https://commoncog.com/blog/good-synthesis-adapting-to-uncertainty/](https://commoncog.com/blog/good-synthesis-adapting-to-uncertainty/).
 - Gupta, Sunil. _Driving Digital Strategy: A Guide to Reimagining Your Business_. Boston, Massachusetts: Harvard Business Review Press, 2018.

@@ -80,7 +80,7 @@ redirect:
   - /7iqmIw
 ---
 
-These are Han's reading notes on Sönke Ahrens's book _How to Take Smart Notes_ (2017). Ahrens describes the zettelkasten, or slip box, as a way to take notes. These reading notes argue it is closer to a system for generating knowledge. You build a database of focused notes, link each one to the others, and let the growing web produce ideas you did not plan to have. This page gathers the notes on that book in one place, in the order the argument builds: the principles, the habits of note-taking, the systems around the notes, and the writing that comes out of them.
+These notes are adapted from David Drysdale's Moby Diction digital garden (publish.obsidian.md/mobydiction, now offline). They summarize Sönke Ahrens's book _How to Take Smart Notes_ (2017). Han curated and edited them for the Dwarves research vault. Ahrens describes the zettelkasten, or slip box, as a way to take notes. These reading notes argue it is closer to a system for generating knowledge. You build a database of focused notes, link each one to the others, and let the growing web produce ideas you did not plan to have. This page gathers the notes on that book in one place, in the order the argument builds: the principles, the habits of note-taking, the systems around the notes, and the writing that comes out of them.
 
 ## Principles
 
@@ -220,7 +220,7 @@ Note-taking is therefore critical for knowledge work. Capture ideas as notes, id
 
 ## Related notes
 
-These notes link out to others in the research vault. Related notes that exist only in the original source garden are left out.
+These notes link out to others in the research vault. Related notes that exist only in the source garden, which is now offline, are left out.
 
 - [[Ideas are constellations]]
 - [[Ideas are networks]]
@@ -236,6 +236,7 @@ These notes link out to others in the research vault. Related notes that exist o
 
 ## References
 
+- Drysdale, David. _Moby Diction_ (digital garden). publish.obsidian.md/mobydiction, now offline. The reading notes on Ahrens's book on this page are adapted from it.
 - Ahrens, Sönke. _How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking - for Students, Academics and Nonfiction Book Writers_. Sönke Ahrens, 2017.
 - Bhargava, Rohit. _Non Obvious Megatrends: How to See What Others Miss and Predict the Future_. Ideapress Publishing, 2020.
 - Flaherty, Francis. _The Elements of Story: Field Notes on Nonfiction Writing_. Reprint edition. Harper Perennial, 2010.

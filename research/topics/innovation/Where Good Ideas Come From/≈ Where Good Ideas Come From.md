@@ -1,8 +1,8 @@
 ---
 draft: false
-title: null
-description: null
-date: null
+title: "Where Good Ideas Come From (reading note)"
+description: "Innovation doesn't emerge in a flash of sudden insight, but through a longer, ongoing process across networks of adjacent possibilities."
+date: 2026-08-27
 tags:
   - idea
   - innovation
@@ -34,3 +34,5 @@ Johnson draws heavily on biological metaphors to describe how creativity and inn
 #### Reference
 
 Johnson, Steven. _Where Good Ideas Come from: The Seven Patterns of Innovation_. London: Penguin, 2011.
+
+Adapted from David Drysdale's Moby Diction notes.
