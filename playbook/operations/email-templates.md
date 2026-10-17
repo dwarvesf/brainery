@@ -82,11 +82,11 @@ Sent to confirm the interview slot. The interview runs 60 minutes and the candid
 > - Time: DD/MM/YYYY - HH:MM AM/PM
 > - Location: Floor 18, Block Iris 3, Ha Do Centrosa, 118 3/2 street, District 10, HCMC.
 >
-> Please park your bike in the basement. Once you get to block Iris 3, use the elevator to go to the 1st floor. Then contact our HR: Van - 0979291600
+> Please park your bike in the basement. Once you get to block Iris 3, use the elevator to go to the 1st floor. Then contact our HR: [contact name] - [phone]
 >
 > Note: Please bring your laptop for some quick assignment.
 >
-> Hotline: 0282 246 0 246
+> Hotline: [phone]
 >
 > Just let us know if you have any question about the interview. We look forward to hearing from you.
 >
@@ -254,7 +254,7 @@ Sent after the Welcome onboard email. It lists the channels to join and names th
 > - Mentor:
 > - Ops:
 >
-> If you face any trouble, please let us know. Or you can reach Duy via 0906906731 for urgent matters.
+> If you face any trouble, please let us know. Or you can reach [contact name] via [phone] for urgent matters.
 >
 > Regards,
 > Dwarves Foundation
@@ -394,13 +394,13 @@ The five holiday versions share one structure. Only the holiday paragraph, the e
 
 The originals differed in two small places. Check them against the table before sending.
 
-| Holiday                     | Emergency contact line     | Closing sentence                                                                                |
-| --------------------------- | -------------------------- | ----------------------------------------------------------------------------------------------- |
-| Hung King commemoration day | WhatsApp (+1) 818 408 6969 | Thank you for your understanding.                                                               |
-| International Labour Day    | WhatsApp (+1) 818 408 6969 | Thank you for your understanding and we hope you find the holiday enjoying every single minute. |
-| National Day                | (+84) 282 246 0246         | Thank you for your understanding.                                                               |
-| New Year                    | (+84) 282 246 0246         | Thank you for your understanding and we genuinely hope you enjoy the holiday to the fullest.    |
-| Tet                         | (+84) 282 246 0246         | Thank you for your understanding.                                                               |
+| Holiday                     | Emergency contact line | Closing sentence                                                                                |
+| --------------------------- | ---------------------- | ----------------------------------------------------------------------------------------------- |
+| Hung King commemoration day | WhatsApp [phone]       | Thank you for your understanding.                                                               |
+| International Labour Day    | WhatsApp [phone]       | Thank you for your understanding and we hope you find the holiday enjoying every single minute. |
+| National Day                | [phone]                | Thank you for your understanding.                                                               |
+| New Year                    | [phone]                | Thank you for your understanding and we genuinely hope you enjoy the holiday to the fullest.    |
+| Tet                         | [phone]                | Thank you for your understanding.                                                               |
 
 The National Day original had the year fixed as 2019. Use the [year] placeholder like the others.
 
