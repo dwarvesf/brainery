@@ -75,4 +75,3 @@ The team also shrank faster than the scope. Eight people peaked in September 202
 ## Outcome
 
 Public evidence is thin and Droppii's own numbers belong to Droppii. The app has since moved from v3 to v4.22 and its App Store listing shows 4.8 stars from 15,000 ratings as of October 2026 ([listing](https://apps.apple.com/vn/app/droppii-biz-d%C3%A0nh-cho-ng%C6%B0%E1%BB%9Di-b%C3%A1n/id1623128934)). At the December 2023 launch of its consumer app, Droppii Mall, Droppii said the seller app had passed 100,000 downloads and distributed more than 135,000 SKUs a month, per [Congly](https://congly.vn/ra-mat-ung-dung-droppii-mall-mo-rong-giai-phap-mua-sam-danh-cho-khach-hang-408018.html). Those figures describe the product, not our share of it.
-
