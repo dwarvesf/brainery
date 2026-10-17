@@ -8,6 +8,8 @@ tags:
   - zettelkasten
 redirect:
   - /M8PBgg
+  - /research/topics/zettelkasten/how-to-take-smart-notes/how-to-take-smart-notes
+  - /5oYS2w
 ---
 
 ## Summary

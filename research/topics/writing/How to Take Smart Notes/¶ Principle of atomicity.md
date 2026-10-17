@@ -10,6 +10,8 @@ tags:
   - zettelkasten
 redirect:
   - /TCMaNw
+  - /research/topics/zettelkasten/how-to-take-smart-notes/principle-of-atomicity
+  - /PjrFBA
 ---
 
 The principle of atomicity is a governing idea of the #Zettelkasten method of notetaking and knowledge management.

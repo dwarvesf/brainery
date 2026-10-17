@@ -9,6 +9,8 @@ tags:
   - zettelkasten
 redirect:
   - /lG5Fog
+  - /research/topics/zettelkasten/how-to-take-smart-notes/store-information-where-you-would-want-to-encounter-it-again
+  - /r1aKJw
 ---
 
 The most important question is not where we store the information, but where we would like to come across it again.

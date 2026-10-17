@@ -8,6 +8,8 @@ tags:
   - writing
 redirect:
   - /YCYCoA
+  - /research/topics/zettelkasten/how-to-take-smart-notes/design-environments-to-facilitate-behaviours
+  - /wkCWDg
 ---
 
 Willpower is a finite resource, and difficult to sustain. Designing environments to facilitate desire behaviour is a much more effective approach in the long run.
