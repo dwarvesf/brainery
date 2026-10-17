@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Farewell letter
 description: The email template is to inform employee that he/she failed the probation.
 date: 2020-01-01

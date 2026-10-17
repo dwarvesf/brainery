@@ -1,5 +1,6 @@
 ---
-title: Referral bonus confirmation note
+draft: true
+title: Referral bonus confirmation note email template
 description: Whenever a Dwarves refers to a teammate that successfully deployed to a project, we use this template to announce the official start date of their referral bonus.
 date: 2020-01-01
 authors:
