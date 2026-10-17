@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Partitions in apache Hive: static and dynamic partitioning for faster queries"
+title: "Apache Hive partitions: static and dynamic partitioning for faster queries"
 description: Learn how Hive partitions and dynamic partitions optimize query performance by targeting specific data subsets, reducing scan times, and efficiently managing large datasets for faster Hive queries.
 date: 2022-12-02
 github_id: dudaka
