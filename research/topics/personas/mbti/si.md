@@ -1,6 +1,6 @@
 ---
 draft: true
-title: Introverted Sensing (Si)
+title: Introverted sensing (Si)
 description: Discover how Introverted Sensing (Si) shapes ISTJs and ISFJs by valuing routines, traditions, and careful responsibility, highlighting their focus on preserving trusted habits and past experiences.
 date: 2026-08-27
 URL: "https://drive.google.com/file/d/1n8ID_iXqzs6cMZlRS0Su7lQUhrfd7khh/view?usp=sharing"
