@@ -1,14 +1,13 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: "Volatile environments motivate us to avoid uncertainty (reading note)"
+description: "Enduring conditions of volatility for prolonged periods can disrupt our ability to deal with other kinds of uncertainty."
+date: 2026-10-18
 tags:
   - business
   - perspectives
   - strategy
-redirect:
-  - /uwn7zg
+redirect: []
 ---
 
 Enduring conditions of [[Different kinds of uncertainty|volatility]] for prolonged periods can disrupt our ability to deal with other kinds of uncertainty. We may develop inaccurate perspectives on the world, such as learned helplessness—a state of mind in which we doubt our ability to bring about the desired or expected result.
