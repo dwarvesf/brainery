@@ -2,7 +2,7 @@
 draft: true
 title: Choose what to build
 short_title: Experiment selection
-description: After forming our market thesis, here's how we decide which experiments are worth building. A practical framework for turning tech bets into focused action.
+description: "After forming our market thesis, here's how we decide which experiments are worth building. A practical framework for turning tech bets into focused action."
 date: 2025-06-12
 authors:
   - tieubao

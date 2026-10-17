@@ -1,6 +1,6 @@
 ---
 draft: true
-title: Consulting model
+title: Our consulting model and market demand
 description: This document looks at our consulting model. It shows how we act as strategic partners to meet market demands and give real value.
 date: 2025-05-09
 authors:
