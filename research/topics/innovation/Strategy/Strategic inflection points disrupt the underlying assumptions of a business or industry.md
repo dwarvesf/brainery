@@ -28,4 +28,4 @@ Subsequently, in the emergent phase, stable players recognize how the world is c
 
 #### Reference
 
-- [McGrath - Seeing around corners](https://publish.obsidian.md/mobydiction/McGrath+-+Seeing+Around+Corners)
+- [McGrath - seeing around corners](https://publish.obsidian.md/mobydiction/McGrath+-+Seeing+Around+Corners)
