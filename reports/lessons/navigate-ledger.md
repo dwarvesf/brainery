@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "We called ten technology arcs in June 2025. Eight of the 60 experiments we planned got built."
+title: "We called ten technology arcs in June 2025. eight of the 60 experiments we planned got built."
 description: "Sixteen months after ten thesis notes, a scored ledger of what we built, which clients paid and what the market did, plus the five-step method that produced the calls."
 date: 2026-10-18
 kind: field-report
