@@ -1,5 +1,6 @@
 ---
-title: Releases when agents deploy all day
+draft: true
+title: "Releases when agents deploy all day: separating the deploy from the release"
 description: When an AI pair-programming session commits and deploys on nearly every turn, one release per deploy stops meaning anything. This is how we separated deploying from releasing across a 20-worker monorepo, gated releases behind merged PRs, and kept a live answer to the only question that matters during an incident.
 date: 2026-08-12
 authors:
@@ -8,6 +9,7 @@ tags:
   - engineering
   - ci-cd
   - ai
+redirect: []
 ---
 
 Our platform monorepo deploys about twenty Cloudflare Workers out of one repository, in one pipeline run, from a manually dispatched GitHub Actions workflow. We added a GitHub Release per production deploy so there would be a durable record of what shipped. Within about half a day the Releases tab had four entries covering roughly two distinct revisions, and we deleted them by hand.

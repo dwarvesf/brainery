@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 350" role="group" aria-label="Fig. 8: the setup-node step in the latest good Deploy run of each day" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid8" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="350" fill="#12395f"/>
+  <rect width="760" height="350" fill="url(#grid8)"/>
+  <rect x="0.5" y="0.5" width="759" height="349" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 8 · THE FIX THAT CAME BACK</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">SETUP-NODE STEP, SECONDS</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+  <line x1="56" y1="250.0" x2="736" y2="250.0" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="48" y="253.5" font-size="10" fill="#6f8fb0" text-anchor="end">0</text>
+  <line x1="56" y1="208.0" x2="736" y2="208.0" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="48" y="211.5" font-size="10" fill="#6f8fb0" text-anchor="end">30</text>
+  <line x1="56" y1="166.0" x2="736" y2="166.0" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="48" y="169.5" font-size="10" fill="#6f8fb0" text-anchor="end">60</text>
+  <line x1="56" y1="124.00000000000001" x2="736" y2="124.00000000000001" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="48" y="127.50000000000001" font-size="10" fill="#6f8fb0" text-anchor="end">90</text>
+  <line x1="56" y1="82.0" x2="736" y2="82.0" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="48" y="85.5" font-size="10" fill="#6f8fb0" text-anchor="end">120</text>
+  <rect x="58.5" y="180.0" width="8" height="70.0" fill="#68839d"/>
+  <rect x="71.6" y="248.5" width="8" height="1.5" fill="#68839d"/>
+  <rect x="84.7" y="248.5" width="8" height="1.5" fill="#68839d"/>
+  <rect x="97.8" y="248.5" width="8" height="1.5" fill="#68839d"/>
+  <rect x="123.9" y="248.5" width="8" height="1.5" fill="#68839d"/>
+  <rect x="137.0" y="248.5" width="8" height="1.5" fill="#68839d"/>
+  <rect x="150.1" y="248.5" width="8" height="1.5" fill="#68839d"/>
+  <rect x="163.2" y="248.5" width="8" height="1.5" fill="#68839d"/>
+  <rect x="176.2" y="248.5" width="8" height="1.5" fill="#68839d"/>
+  <rect x="189.3" y="248.5" width="8" height="1.5" fill="#68839d"/>
+  <rect x="202.4" y="248.5" width="8" height="1.5" fill="#68839d"/>
+  <rect x="228.5" y="203.8" width="8" height="46.2" fill="#68839d"/>
+  <rect x="241.6" y="213.6" width="8" height="36.4" fill="#68839d"/>
+  <rect x="267.8" y="212.2" width="8" height="37.8" fill="#68839d"/>
+  <rect x="280.8" y="210.8" width="8" height="39.2" fill="#68839d"/>
+  <rect x="320.1" y="210.8" width="8" height="39.2" fill="#68839d"/>
+  <rect x="333.2" y="216.4" width="8" height="33.6" fill="#68839d"/>
+  <rect x="346.2" y="210.8" width="8" height="39.2" fill="#68839d"/>
+  <rect x="372.4" y="208.0" width="8" height="42.0" fill="#68839d"/>
+  <rect x="398.5" y="208.0" width="8" height="42.0" fill="#68839d"/>
+  <rect x="411.6" y="212.2" width="8" height="37.8" fill="#68839d"/>
+  <rect x="424.7" y="198.2" width="8" height="51.8" fill="#68839d"/>
+  <rect x="437.8" y="209.4" width="8" height="40.6" fill="#68839d"/>
+  <rect x="450.8" y="215.0" width="8" height="35.0" fill="#68839d"/>
+  <rect x="463.9" y="212.2" width="8" height="37.8" fill="#68839d"/>
+  <rect x="477.0" y="210.8" width="8" height="39.2" fill="#68839d"/>
+  <rect x="490.1" y="224.8" width="8" height="25.2" fill="#68839d"/>
+  <rect x="503.2" y="209.4" width="8" height="40.6" fill="#68839d"/>
+  <rect x="516.2" y="147.8" width="8" height="102.2" fill="#68839d"/>
+  <rect x="529.3" y="152.0" width="8" height="98.0" fill="#68839d"/>
+  <rect x="542.4" y="146.4" width="8" height="103.6" fill="#68839d"/>
+  <rect x="555.5" y="136.6" width="8" height="113.4" fill="#68839d"/>
+  <rect x="568.5" y="139.4" width="8" height="110.6" fill="#68839d"/>
+  <rect x="581.6" y="142.2" width="8" height="107.8" fill="#68839d"/>
+  <rect x="594.7" y="126.8" width="8" height="123.2" fill="#68839d"/>
+  <rect x="607.8" y="153.4" width="8" height="96.6" fill="#68839d"/>
+  <rect x="620.8" y="147.8" width="8" height="102.2" fill="#68839d"/>
+  <rect x="633.9" y="86.2" width="8" height="163.8" fill="#68839d"/>
+  <rect x="647.0" y="139.4" width="8" height="110.6" fill="#68839d"/>
+  <rect x="686.2" y="154.8" width="8" height="95.2" fill="#68839d"/>
+  <rect x="699.3" y="132.4" width="8" height="117.6" fill="#68839d"/>
+  <rect x="712.4" y="138.0" width="8" height="112.0" fill="#68839d"/>
+  <rect x="725.5" y="129.6" width="8" height="120.4" fill="#68839d"/>
+  <line x1="56" y1="250" x2="736" y2="250" stroke="#68839d"/>
+  <line x1="75.6" y1="52" x2="75.6" y2="250" stroke="#6f8fb0" stroke-dasharray="4 4"/>
+  <text x="81.6" y="64" font-size="10" fill="#a7c0d9">08-28 drop the cache option: 50 s to 0</text>
+  <line x1="206.4" y1="78" x2="206.4" y2="250" stroke="#e8c56a"/>
+  <text x="212.4" y="90" font-size="10" fill="#e8c56a">09-07 packageManager added to package.json</text>
+  <text x="725.5" y="123.6" font-size="10" fill="#a7c0d9" text-anchor="end">86 s on 10-17</text>
+  <line x1="62.5" y1="250" x2="62.5" y2="255" stroke="#68839d"/>
+  <text x="62.5" y="270" font-size="10" letter-spacing="1" fill="#6f8fb0" text-anchor="start">AUG 27</text>
+  <line x1="311.0" y1="250" x2="311.0" y2="255" stroke="#68839d"/>
+  <text x="311.0" y="270" font-size="10" letter-spacing="1" fill="#6f8fb0" text-anchor="middle">SEP 15</text>
+  <line x1="520.2" y1="250" x2="520.2" y2="255" stroke="#68839d"/>
+  <text x="520.2" y="270" font-size="10" letter-spacing="1" fill="#6f8fb0" text-anchor="middle">OCT 1</text>
+  <line x1="729.5" y1="250" x2="729.5" y2="255" stroke="#68839d"/>
+  <text x="729.5" y="270" font-size="10" letter-spacing="1" fill="#6f8fb0" text-anchor="end">OCT 17</text>
+  <line x1="0" y1="282" x2="760" y2="282" stroke="#385a7b"/>
+  <text x="14" y="304" font-size="10" fill="#c3d7ea">43 days, one run each: the latest successful Deploy run, longest setup-node step in it.</text>
+  <text x="14" y="322" font-size="10" fill="#6f8fb0">The 10-17 log shows a 617 MB pnpm cache restore inside this step. Gaps are days with no successful run.</text>
+</svg>
