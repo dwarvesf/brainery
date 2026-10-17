@@ -20,7 +20,7 @@ On 24 April 2026, one day after its first agent went live, our monitor broke its
 
 ![One Worker, three ways in, and who hears the alert](assets/vps-mon-six-months-fig1-hero.svg 'The monitor as it ran on 18 October 2026. The amber box is the part that does most of the work: every job calls home when it finishes, and silence is the alert.')
 
-vps-mon is internal. It lives in a private repository and has no public page, so this report links to nothing. The pattern is small enough to rebuild, and the last section gives the pieces. What follows is what I learned by reading every alert row the Worker wrote.
+vps-mon is internal. It lives in a private repository and has no public page, so this report links to none. The pattern is small enough to rebuild, and the last section gives the pieces. What follows is what I learned by reading every alert row the Worker wrote.
 
 ## TL;DR
 
@@ -47,7 +47,7 @@ Where it runs, from the serving side: when I queried the database for this repor
 
 ## What it watches, and how it got there
 
-Three paths feed one Worker. Agents on three hosts post a signed snapshot every two minutes: disk, memory, listeners, daemon state. Each background job gets a heartbeat, a URL it calls at the end of a run. And the Worker pulls: a five-minute cron probes hosts and URLs from Cloudflare's edge and sweeps the heartbeat table for silence, a six-hour pull lists the Worker crons on both accounts, and the Mac Mini's agent pushes its launchd inventory once a day.
+Three paths feed one Worker. Agents on three hosts post a signed snapshot every two minutes: disk, memory, listeners, daemon state. Each background job gets a heartbeat, a URL it calls at the end of a run. And the Worker pulls: a five-minute cron probes hosts and URLs from Cloudflare's edge and sweeps the heartbeat table for silence, a six-hour pull lists the Worker crons on both accounts, and the agent on the Mac Mini (the Mini below) pushes its launchd inventory once a day.
 
 State lands in D1. KV holds dedup markers and probe counters, and Analytics Engine keeps per-host metrics for 90 days. Alerts go to Discord, one channel per tenant. The second copy of the Worker runs on the company's Cloudflare account and watches company cron jobs and HTTP checks. The two pings each other's liveness heartbeat, so if one dies the other says so. The design stays inside the Cloudflare free plan, and the config budgets its cron triggers against the plan's limit of five. <!-- confirm: both accounts are still on the free plan -->
 
@@ -84,15 +84,15 @@ On the Mini, scheduled jobs are stages of five LaunchAgent runners that tick eve
 
 The rule is one line of arithmetic. A heartbeat is silent when `now - last_ping > interval + grace`, and the five-minute sweep evaluates it. Detection time is a setting, and measurement only confirms it.
 
-The page lands between about one and four intervals after the last ping, depending on the grace. I took the first silence alert of every episode (a silence alert with no earlier one still open for the same job) and read how long the job had been quiet:
+The page lands between about one and four intervals after the last ping, depending on the grace. I took the first silence alert of every episode (the job's first, or one that follows a recovery) and read how long the job had been quiet:
 
 | Job interval | Episodes | Median silence before the page | As a multiple of the interval |
 | ------------ | -------- | ------------------------------ | ----------------------------- |
-| 5 minutes | 38 | 18 minutes | 3.7 |
-| 10 minutes | 787 | 13 minutes | 1.3 |
-| 30 minutes | 167 | 63 minutes | 2.1 |
-| 1 hour | 51 | 2.0 hours | 2.0 |
-| 1 day | 58 | 28 hours | 1.2 |
+| 5 minutes, my jobs | 38 | 18 minutes | 3.7 |
+| 10 minutes, company jobs | 787 | 13 minutes | 1.3 |
+| 30 minutes, my jobs | 167 | 63 minutes | 2.1 |
+| 1 hour, my jobs | 51 | 2.0 hours | 2.0 |
+| 1 day, my jobs | 58 | 28 hours | 1.2 |
 
 The half-hour jobs I set up mostly carry a grace of one full interval, so they page after an hour. The company's ten-minute jobs carry little grace and page at 13 minutes, though most of those 787 episodes belong to the one noisy job in the next section. For a host, the agent-silent rule waits 10 minutes plus the sweep, and the first row of the 11 May incident below landed 14.5 minutes after the last post.
 
@@ -124,7 +124,7 @@ The chart has one broad hump and one spike, and each traces to a single source.
 
 **31 August: a new feed.** Agent runtime log lines began shipping as alerts: WARN and ERROR lines from the agents that answer in our chat rooms. The week of 31 August wrote 726 pages, 567 of them log lines. Silence rows that week were 122, close to the 109 of the week before. The spike came from new coverage, and the log feed for the company's agents alone wrote 1,494 pages, 1,172 of them in September.
 
-**Six weeks of tuning.** By the week of 12 October the total was 192: 90 log lines, 74 silence rows and 28 from everything else. Part of the fall is filters in the shipper. It now drops retry loops that heal themselves in seconds (a websocket reconnect, a fallback address walk) and holds a Discord reconnect storm until the gateway's state file says it recovered. I did not date each filter, so I cannot split the fall between them. Meanwhile the number of heartbeat rows nearly doubled, from 138 on 31 August to 267 on 18 October, and weekly silence rows went from 109 to 74.
+**Six weeks down.** By the week of 12 October the total was 192: 90 log lines, 74 silence rows and 28 from everything else. Part of the fall is filters in the shipper. It now drops retry loops that heal themselves in seconds (a websocket reconnect, a fallback address walk) and holds a Discord reconnect storm until the gateway's state file says it recovered. I did not date each filter, so I cannot split the fall between them. The same weeks carried the 8 September hygiene sweep, the 10 September auto-park and the 19 September empty-tick guard, all covered below. Meanwhile the number of heartbeat rows nearly doubled, from 138 on 31 August to 267 on 18 October, and weekly silence rows went from 109 to 74.
 
 | Source | Pages | What it was |
 | ------ | ----- | ----------- |
@@ -162,7 +162,7 @@ On 8 September I went after three flappers that were training me to ignore the c
 
 On 9 to 11 October about 20 tickets traced to drift and not to outages. A job moved hosts and its heartbeat stayed behind. Two retired jobs kept live rows and fired more than 300 times each. A new stage shipped without a heartbeat and showed as a gap for the whole runner. Two rules were miscalibrated: the never-pinged WARN fired after 7 days even for a monthly job, and an hourly job with 1,800 seconds of grace paged after one missed tick. The rest healed on their own, mostly short egress blips and one scheduled router reboot that dropped every agent gateway's Discord connection at once. A move or a retirement is not finished until its heartbeat moves or parks. The verbs for it already existed (`retire-job`, `retire-heartbeat`, `wire-daemon-pin`), and the moves skipped them. A grace window needs the job's own cadence, and a fixed constant cannot supply that.
 
-## What I would not build again
+## What not to build again
 
 - **A retry buffer behind a replay gate.** Covered above. The silence rule does the job for free.
 - **A hand-kept list as the roster.** It wrote 298 daemon rows in May, and two days of them were for a service that no longer existed. Discovery from the plists, the Cloudflare API and the stage roster is the roster now, and a reconcile rule says what each job needs.
