@@ -5,7 +5,6 @@ description: "This page outlines how developers can connect to and utilize Brain
 date: 2025-05-06
 authors:
   - tieubao
-  - grok
 tags:
   - brainery
   - knowledge-base
