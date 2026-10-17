@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "DiSC personality types: how dominance, influence, steadiness and conscientiousness shape teamwork"
+title: "DiSC personality types and how they shape teamwork"
 description: "Learn about the DiSC personality model's four types—Dominance, Influence, Steadiness, and Conscientiousness—and how understanding these traits improves teamwork and communication."
 date: 2022-09-10
 github_id: huytieu

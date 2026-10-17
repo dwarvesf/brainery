@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Test S3, lambda and DynamoDB locally with LocalStack, no AWS bill"
+title: "LocalStack lets you test AWS services locally, no AWS bill"
 description: LocalStack lets developers locally test and develop AWS services like S3, Lambda, and DynamoDB without AWS costs, speeding up cloud application development with a simple, cost-free environment.
 date: 2023-03-17
 github_id: nguyend-nam
