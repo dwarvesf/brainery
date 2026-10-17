@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Devbox.json: Your project's DNA"
 description: Master your Devbox environment with this no-nonsense guide to devbox.json
 date: 2024-08-01
@@ -7,8 +7,7 @@ authors:
   - baenv
 tags:
   - devbox
-redirect:
-  - /1bfI9A
+redirect: []
 ---
 
 Ever wished you could clone your perfect dev environment? With `devbox.json`, you can. This little file is the beating heart of your Devbox setup. Let's crack it open and see what makes it tick.
