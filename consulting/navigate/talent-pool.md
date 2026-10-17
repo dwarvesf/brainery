@@ -35,7 +35,7 @@ To hire the right people for the team is essential. We should aim to bring them 
 
 If we find we're late to adopt a new technology, we can catch up. One way is to directly hire someone with that knowledge into the labs team and then grow the team from that base.
 
-### Talent recognition: Value our people
+### Talent recognition: value our people
 
 An important part of talent growth is to design how team vision and talent vision connect. When people feel seen and valued, they're more likely to invest their energy and grow with us. Our approach to this should reflect our company culture, which values learning, innovation, and craftsmanship. We should think about:
 
@@ -48,4 +48,5 @@ An important part of talent growth is to design how team vision and talent visio
 By a strong focus on talent recognition, we create an environment where people are motivated to learn, contribute, and grow with the company as we navigate new markets.
 
 ---
+
 > Next: [Business correction](business-correction.md)

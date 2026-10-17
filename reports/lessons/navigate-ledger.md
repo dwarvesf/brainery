@@ -59,34 +59,34 @@ Eight experiments exist as proposed. Nine exist in another shape. Forty-three ne
 
 <!-- confirm: every verdict in the ledger is proposed from the evidence table and waits for Han -->
 
-## How I scored it
+## How i scored it
 
 The theses were drafts. I wrote them with an LLM following our own method, they never went public, and they were removed in August 2026 as template output. I score the calls anyway, because the 2025 roadmap named focus areas from this list and the experiments were meant to steer the work.
 
 An arc earns a verdict from three tests:
 
-| Test | Evidence I used |
-|---|---|
-| We built for it | Repos, merged pull requests, memo posts, services pages, dated 2025-06 to 2026-10 |
-| A client paid for it | Notion project records, case studies, aggregate counts only |
-| The market moved as called | Public data opened on 18 October 2026, each source linked below |
+| Test                       | Evidence I used                                                                   |
+| -------------------------- | --------------------------------------------------------------------------------- |
+| We built for it            | Repos, merged pull requests, memo posts, services pages, dated 2025-06 to 2026-10 |
+| A client paid for it       | Notion project records, case studies, aggregate counts only                       |
+| The market moved as called | Public data opened on 18 October 2026, each source linked below                   |
 
 The verdict scale is simple. **Held** means all three tests passed. **Partly held** means the market moved as called but our work landed in another shape, or only inside our own operations. **Missed** means the market contradicted the call, or we never acted on it. **Too early** means the premise is plausible and not yet testable.
 
 For each of the 60 experiments I asked one question: does something exist that does this job? Built as proposed means yes. Another shape means something exists that serves the same purpose in a different form. Never started means nothing exists. I made those calls, and one artefact can satisfy several rows. ICY, our community token, covers the tokenized reward experiment in four theses.
 
-| Arc | Verdict | Built / other shape / never | Client pull since mid-2025 | Market since June 2025 |
-|---|---|---|---|---|
-| Agentic AI | Held | 2 / 1 / 3 | 4 projects with agent-heavy updates | MCP went to a neutral foundation; Gartner still expects heavy cancellations |
-| LLM | Partly held | 2 / 3 / 1 | 5 projects | Spend tripled; the labs hold the value |
-| Platform ops | Partly held | 2 / 1 / 3 | No AI-ops client | Adopted everywhere; incumbents shipped the agents |
-| Stablecoin | Partly held | 0 / 2 / 4 | 2 projects, in-app balances only | Supply up 23 percent; size far below the thesis |
-| Bitcoin | Partly held | 1 / 0 / 5 | None since June 2025 | ETF assets held; price down 22 percent |
-| ZKP | Too early | 0 / 0 / 6 | None | Proving cost collapsed; apps did not follow |
-| DeFi | Missed | 1 / 1 / 4 | None | TVL down 19 percent |
-| DeFAI | Missed | 0 / 1 / 5 | None | The sector is worth under $1B |
-| Algorithmic stablecoin | Missed | 0 / 0 / 6 | None | The leading synthetic dollar lost two thirds of its peak |
-| Spatial computing | Missed | 0 / 0 / 6 | None | Headsets stalled; glasses grew |
+| Arc                    | Verdict     | Built / other shape / never | Client pull since mid-2025          | Market since June 2025                                                      |
+| ---------------------- | ----------- | --------------------------- | ----------------------------------- | --------------------------------------------------------------------------- |
+| Agentic AI             | Held        | 2 / 1 / 3                   | 4 projects with agent-heavy updates | MCP went to a neutral foundation; Gartner still expects heavy cancellations |
+| LLM                    | Partly held | 2 / 3 / 1                   | 5 projects                          | Spend tripled; the labs hold the value                                      |
+| Platform ops           | Partly held | 2 / 1 / 3                   | No AI-ops client                    | Adopted everywhere; incumbents shipped the agents                           |
+| Stablecoin             | Partly held | 0 / 2 / 4                   | 2 projects, in-app balances only    | Supply up 23 percent; size far below the thesis                             |
+| Bitcoin                | Partly held | 1 / 0 / 5                   | None since June 2025                | ETF assets held; price down 22 percent                                      |
+| ZKP                    | Too early   | 0 / 0 / 6                   | None                                | Proving cost collapsed; apps did not follow                                 |
+| DeFi                   | Missed      | 1 / 1 / 4                   | None                                | TVL down 19 percent                                                         |
+| DeFAI                  | Missed      | 0 / 1 / 5                   | None                                | The sector is worth under $1B                                               |
+| Algorithmic stablecoin | Missed      | 0 / 0 / 6                   | None                                | The leading synthetic dollar lost two thirds of its peak                    |
+| Spatial computing      | Missed      | 0 / 0 / 6                   | None                                | Headsets stalled; glasses grew                                              |
 
 ## The three AI arcs paid, mostly inside other people's products
 
@@ -190,16 +190,16 @@ A thesis fails when the team cannot build it, so the method has a people side.
 
 The convergence page promised that every arc feeds four verticals. Here is what actually landed.
 
-| Vertical | Shipped | Dropped |
-|---|---|---|
-| Productivity | The dwarves-kit workflow; a fleet of desk agents | 15 archived 2025 agent and LLM repos |
-| Community | ICY rewards for memo guest writers, since October 2026 | DAO reward platforms |
-| Liquidity | The ICY-to-Bitcoin swap | Lending, escrow, bridges |
-| IP | 13 memo notes minted as NFTs | AI-verified IP protection |
+| Vertical     | Shipped                                                | Dropped                              |
+| ------------ | ------------------------------------------------------ | ------------------------------------ |
+| Productivity | The dwarves-kit workflow; a fleet of desk agents       | 15 archived 2025 agent and LLM repos |
+| Community    | ICY rewards for memo guest writers, since October 2026 | DAO reward platforms                 |
+| Liquidity    | The ICY-to-Bitcoin swap                                | Lending, escrow, bridges             |
+| IP           | 13 memo notes minted as NFTs                           | AI-verified IP protection            |
 
 <!-- confirm: the shipped and dropped list per vertical -->
 
-## What I would change
+## What i would change
 
 - **One experiment per thesis, with an owner and a date.** Sixty unowned experiments are a wish list.
 - **A named client conversation before six experiments.** If nobody has asked, the thesis waits.

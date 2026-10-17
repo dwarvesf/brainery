@@ -21,14 +21,14 @@ Technology waves come and go, but certain fundamentals remain constant. While we
 
 Every arc we document eventually flows back to four foundational verticals. These aren't just business categories, they're the pillars that compound over time, creating lasting value as we accumulate expertise and relationships.
 
-## Productivity tech: The obsession with efficiency
+## Productivity tech: the obsession with efficiency
 
 We're builders obsessed with productivity and efficiency. Every tool we create, every system we design, every process we refine serves one purpose: helping people accomplish more with less friction.
 
 **How our arcs connect:**
 
-- **LLM and Agent arcs** directly amplify human capability, turning complex tasks into simple conversations
-- **Platform arc** eliminates infrastructure complexity, letting teams focus on creating value instead of managing systems  
+- **LLM and agent arcs** directly amplify human capability, turning complex tasks into simple conversations
+- **Platform arc** eliminates infrastructure complexity, letting teams focus on creating value instead of managing systems
 - **Blockchain arc** introduces new efficiency models through decentralized coordination and trustless automation
 
 The productivity vertical isn't just about faster software. It's about removing the barriers between human creativity and execution. When AI agents can handle routine tasks, when platforms abstract away complexity, when smart contracts automate trust, we free up human potential for higher-order thinking.
@@ -40,7 +40,7 @@ The productivity vertical isn't just about faster software. It's about removing 
 - **Platform arc:** [Achievement examples to be documented]
 - **Blockchain arc:** [Achievement examples to be documented]
 
-## Community tech: Tools for connection and creation
+## Community tech: tools for connection and creation
 
 Every product needs a community around it. But more than that, communities are becoming the new moats, the new distribution channels, the new sources of innovation.
 
@@ -62,7 +62,7 @@ Community tech isn't just about social features. It's about creating environment
 - **DeFi arc:** [Achievement examples to be documented]
 - **Agent arc:** [Achievement examples to be documented]
 
-## Liquidity and funding: Following the money flows
+## Liquidity and funding: following the money flows
 
 Liquidity is where money and funding flows. Understanding these flows and their key players helps our team and company access more funding opportunities while building better financial infrastructure.
 
@@ -82,7 +82,7 @@ This vertical isn't about chasing the latest funding trends. It's about understa
 - **Platform arc:** [Achievement examples to be documented]
 - **Agent arc:** [Achievement examples to be documented]
 
-## IP: The human experience advantage
+## IP: the human experience advantage
 
 No matter how much society evolves, humans will always gravitate toward better personal experiences. IP characters, stories, and experiences become sources of inspiration and connection that transcend technological boundaries.
 
