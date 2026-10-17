@@ -4,6 +4,8 @@ description: Reading notes on the book How to Take Smart Notes by Sönke Ahrens,
 slug: smart-notes-slip-box
 kind: essay
 date: 2026-10-18
+authors:
+  - tieubao
 tags:
   - writing
   - zettelkasten
@@ -78,7 +80,7 @@ redirect:
   - /7iqmIw
 ---
 
-Sönke Ahrens describes the zettelkasten, or slip box, as a way to take notes. These reading notes argue it is closer to a system for generating knowledge. You build a database of focused notes, link each one to the others, and let the growing web produce ideas you did not plan to have. This page gathers the notes on that book in one place, in the order the argument builds: the principles, the habits of note-taking, the systems around the notes, and the writing that comes out of them.
+These are Han's reading notes on Sönke Ahrens's book _How to Take Smart Notes_ (2017). Ahrens describes the zettelkasten, or slip box, as a way to take notes. These reading notes argue it is closer to a system for generating knowledge. You build a database of focused notes, link each one to the others, and let the growing web produce ideas you did not plan to have. This page gathers the notes on that book in one place, in the order the argument builds: the principles, the habits of note-taking, the systems around the notes, and the writing that comes out of them.
 
 ## Principles
 
@@ -232,7 +234,7 @@ These notes link out to others in the research vault. Related notes that exist o
 - [[≈ Where Good Ideas Come From]]
 - [[≈ The Elements of Story]]
 
-## Reference
+## References
 
 - Ahrens, Sönke. _How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking - for Students, Academics and Nonfiction Book Writers_. Sönke Ahrens, 2017.
 - Bhargava, Rohit. _Non Obvious Megatrends: How to See What Others Miss and Predict the Future_. Ideapress Publishing, 2020.

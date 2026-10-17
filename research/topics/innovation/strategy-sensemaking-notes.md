@@ -4,6 +4,8 @@ description: Reading notes on strategy from Rumelt, Sinek, McGrath, Boyd and Ced
 slug: strategy-sensemaking-notes
 kind: essay
 date: 2026-10-18
+authors:
+  - tieubao
 tags:
   - strategy
   - business
@@ -43,7 +45,7 @@ redirect:
   - /UB5HEw
 ---
 
-These notes treat strategy as a way of seeing before it is a plan. Richard Rumelt argues that having a strategy is itself a competitive advantage, because few organizations actually have one. For Rumelt a strategy rests on a kernel of three parts: a diagnosis, a guiding policy and coordinated action. The other notes here ask what feeds that diagnosis. Their answers are sensemaking, honest data, signals that arrive early, and a horizon longer than the next quarter. The page follows that order.
+These are Han's reading notes on Richard Rumelt's _Good Strategy Bad Strategy_ (2011), Simon Sinek's _The Infinite Game_ (2019) and Rita McGrath's _Seeing around Corners_ (2019), with Cedric Chin's 2020 essays on the OODA loop. They treat strategy as a way of seeing before it is a plan. Richard Rumelt argues that having a strategy is itself a competitive advantage, because few organizations actually have one. For Rumelt a strategy rests on a kernel of three parts: a diagnosis, a guiding policy and coordinated action. The other notes here ask what feeds that diagnosis. Their answers are sensemaking, honest data, signals that arrive early, and a horizon longer than the next quarter. The page follows that order.
 
 ## What a strategy is
 
@@ -198,7 +200,7 @@ The source is Miller, Nave, Deane and Clark in _Aeon_.
 
 To stay sustainable over the long term, an organization needs a long-term objective, a mission or vision that gives it its reason to exist and animates its activities. Simon Sinek calls this the organization's "just cause." It orients the organization to horizons longer than the quarterly or annual report and gives people a sense of purpose. It also works as a first filter against unethical or counter-productive ideas. Narratives let us act decisively under uncertainty, and the just cause applies that at the organization level: a kind of narrative that guides decisions and strategy. It may help [express strategy as simple rules](https://publish.obsidian.md/mobydiction/notes/Express+strategy+as+simple+rules), as shorthand that guides action.
 
-A just cause, Sinek writes, is never money. Money is the means to the end of the cause. The note's author reads the just cause as almost an ideology. Sinek's example is Apple positioning itself against a "worthy foe" in IBM: IBM was conservative and business-like, and Apple defined itself as creative and individualistic.
+A just cause, Sinek writes, is never money. Money is the means to the end of the cause. Han reads the just cause as almost an ideology. Sinek's example is Apple positioning itself against a "worthy foe" in IBM: IBM was conservative and business-like, and Apple defined itself as creative and individualistic.
 
 Organizations that adopt Sinek's "infinite perspective" need not fear disruption and change. They can use change to advance the larger cause. Some business challenges, such as [digital transformation](https://publish.obsidian.md/mobydiction/notes/Digital+transformation+requires+a+long-term+view.), only work with a longer view.
 
@@ -232,7 +234,7 @@ These notes link out to others in the research vault:
 - [[Rationalistic models of human behaviour are limiting]]
 - [[≈ The Opposable Mind]]
 
-## Reference
+## References
 
 - Chin, Cedric. “Much Ado About The OODA Loop.” Commonplace - The Commoncog Blog (blog), May 19, 2020. [https://commoncog.com/blog/much-ado-about-the-ooda-loop/](https://commoncog.com/blog/much-ado-about-the-ooda-loop/).
 - Chin, Cedric. “Good Synthesis Is the Start of Good Sensemaking.” Commonplace - The Commoncog Blog (blog), May 26, 2020. [https://commoncog.com/blog/good-synthesis-adapting-to-uncertainty/](https://commoncog.com/blog/good-synthesis-adapting-to-uncertainty/).
