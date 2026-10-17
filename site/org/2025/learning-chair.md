@@ -50,7 +50,7 @@ Every experiment we conduct will be documented through build-logs:
 
 These build-logs become valuable resources for the entire team and contribute to our knowledge base.
 
-### AI Apprenticeship batch 2025
+### AI apprenticeship batch 2025
 
 We're launching our second AI apprenticeship program to:
 

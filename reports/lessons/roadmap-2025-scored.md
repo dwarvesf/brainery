@@ -62,36 +62,36 @@ I scored a promise **kept** when the thing exists and works today, **half kept**
 
 Hybrid working scores kept because it works, though it was policy before the roadmap named it. Take it out and the tally is four kept.
 
-| Promise | Score | What I found |
-| --- | --- | --- |
-| **The plan** | | |
-| AI engineering and agentic systems | Kept | Service page live since 12 Jan 2025. Two of the five case studies published in 2025 are AI work. The homepage today sells an AI to production track and a fixed-fee Production Readiness Assessment. |
-| Blockchain | Half kept | Web3 and Crypto is still a vertical on the homepage. The only 2025 case study in the area monitors our own ICY backend. The last case study for an outside blockchain client is dated Dec 2024. <!-- confirm: proposed Half kept --> |
-| Platform engineering | Kept | Service page since 12 Jan 2025, a retainer offer for post-MVP teams on 27 Jun 2025, a public status page since 25 Mar 2025. The homepage now sells Run and Own. |
-| Spatial computing | Dropped | No service page, case study or repo. The one spatial note, a thesis dated 14 Jun 2025, was flagged draft in Jun 2026 and deleted in Aug 2026. The roadmap's own link for it looped back to the roadmap. |
-| Formalize the chair model | Dropped | The five chair pages landed in the vault together on 15 Jun 2025. Nine role manuals written in Apr 2026 carry no chair names. Three chair pages were deleted on 17 Aug 2026. <!-- confirm: proposed Dropped --> |
-| **Learning chair** | | |
-| Treasury allocation for the labs team | Dropped | The handbook's revenue split already set aside a share of operating expense for labs before 2025. I found no new budget line. <!-- confirm: proposed Dropped --> |
-| A build-log for every experiment | Half kept | 77 build-log entries are dated 2025, 62 of them in May. Ten are standalone and 67 sit in eight series. Today 25 are live, 10 are drafts and 42 are gone. |
-| AI Apprenticeship batch 2025 | Dropped | The program page went up on 15 Dec 2024 and said applications open in late 2025. It still says stay tuned. The contractor database has no apprentice rows. A different senior-pipeline program reached draft in Sep 2026. <!-- confirm: proposed Dropped --> |
-| Unlock: AI as copilot for everyone | Half kept | Shared Claude configuration for the team (Mar 2026), a hardened Claude Code config with 38 stars and a proof-gated workflow kit, all public and all from 2026. The adoption measure the chair promised has no field in the contractor database. |
-| **Delivery chair** | | |
-| Grow the delivery team | Dropped | Hours logged peaked at 5,458 in Mar 2026 and fell to 1,728 in Sep. Contractors reporting fell from 35 to 13. The active roster went from 27 on 21 Jul to 18 on 18 Oct. |
-| Control quality at scale | Half kept | The tooling arrived in 2026: a public proof-of-done workflow kit and a written pipeline formula. I found no client score or defect series that shows quality moved. |
-| Measure delivery wins | Kept | A monthly delivery report with 1 to 5 ratings has sat in the playbook since Aug 2024. Hours moved to a progress form in Dec 2025. A project P&L has run monthly since May 2026. |
-| **Communication chair** | | |
-| Short video for TikTok, Facebook, YouTube | Half kept | A video pipeline write-up dated 10 Jul 2025 names YouTube Shorts, Instagram and Facebook reels as targets, and TikTok is not among them. The homepage links LinkedIn, X, Telegram, Discord and GitHub, and no video channel. I could not verify any output. <!-- confirm: proposed Half kept --> |
-| Vietnamese translations | Dropped | I found no translated note among 1,302 Markdown files in the vault. |
-| An IP character for content | Half kept | A cat character, Neko, is the avatar of the site chat widget in code merged in Sep 2026. No content series runs on it. A 2025 brand refresh project is marked done. <!-- confirm: proposed Half kept --> |
-| **Partnership chair** | | |
-| WALA with established companies | Dropped | Four WALA visit notes exist, dated 2022 to 2024, and none came in 2025. A fifth episode, an interview with a startup CTO, went to its guest for review in Oct 2026. The assess-first idea lives on as the fixed-fee readiness assessment. <!-- confirm: ok to mention the fifth episode before it publishes --> |
-| VC packages for AI startups | Dropped | No VC package, partner page or case. A sales plan from Apr 2026 still lists identifying five target VCs as a month-two task. <!-- confirm: proposed Dropped --> |
-| CTO and PM retainers into platform ops | Half kept | The retainer offer page went up on 27 Jun 2025. In 2026 the idea became Run and Own. I could not count retainer contracts from the records I can read. <!-- confirm: proposed Half kept --> |
-| **Engagement chair** | | |
-| Hybrid working | Kept | Already true. The policy dates from Sep 2022 and was republished on 6 Sep 2024, with one to two office days a week as the norm. An office check-in bot built in Sep 2024 was last changed in May 2026. |
-| Gossip protocol | Kept | Handbook page dated 13 Jun 2025. A peer tips a useful share with /tip and the company vault pays, after ops review. |
-| DFG earning by contribution weight | Dropped | The June 2025 proposal (eleven token pages) was not adopted. ICY pays for notes, bounties and tips, and DFG stays a share token with staking. <!-- confirm: proposed Dropped --> |
-| A talent recognition framework | Half kept | A leveling framework with IC and M ranks was written in Feb 2026. The rank fields in the contractor database hold no values on 18 Oct 2026. |
+| Promise                                   | Score     | What I found                                                                                                                                                                                                                                                                                                    |
+| ----------------------------------------- | --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **The plan**                              |           |                                                                                                                                                                                                                                                                                                                 |
+| AI engineering and agentic systems        | Kept      | Service page live since 12 Jan 2025. Two of the five case studies published in 2025 are AI work. The homepage today sells an AI to production track and a fixed-fee Production Readiness Assessment.                                                                                                            |
+| Blockchain                                | Half kept | Web3 and Crypto is still a vertical on the homepage. The only 2025 case study in the area monitors our own ICY backend. The last case study for an outside blockchain client is dated Dec 2024. <!-- confirm: proposed Half kept -->                                                                            |
+| Platform engineering                      | Kept      | Service page since 12 Jan 2025, a retainer offer for post-MVP teams on 27 Jun 2025, a public status page since 25 Mar 2025. The homepage now sells Run and Own.                                                                                                                                                 |
+| Spatial computing                         | Dropped   | No service page, case study or repo. The one spatial note, a thesis dated 14 Jun 2025, was flagged draft in Jun 2026 and deleted in Aug 2026. The roadmap's own link for it looped back to the roadmap.                                                                                                         |
+| Formalize the chair model                 | Dropped   | The five chair pages landed in the vault together on 15 Jun 2025. Nine role manuals written in Apr 2026 carry no chair names. Three chair pages were deleted on 17 Aug 2026. <!-- confirm: proposed Dropped -->                                                                                                 |
+| **Learning chair**                        |           |                                                                                                                                                                                                                                                                                                                 |
+| Treasury allocation for the labs team     | Dropped   | The handbook's revenue split already set aside a share of operating expense for labs before 2025. I found no new budget line. <!-- confirm: proposed Dropped -->                                                                                                                                                |
+| A build-log for every experiment          | Half kept | 77 build-log entries are dated 2025, 62 of them in May. Ten are standalone and 67 sit in eight series. Today 25 are live, 10 are drafts and 42 are gone.                                                                                                                                                        |
+| AI Apprenticeship batch 2025              | Dropped   | The program page went up on 15 Dec 2024 and said applications open in late 2025. It still says stay tuned. The contractor database has no apprentice rows. A different senior-pipeline program reached draft in Sep 2026. <!-- confirm: proposed Dropped -->                                                    |
+| Unlock: AI as copilot for everyone        | Half kept | Shared Claude configuration for the team (Mar 2026), a hardened Claude Code config with 38 stars and a proof-gated workflow kit, all public and all from 2026. The adoption measure the chair promised has no field in the contractor database.                                                                 |
+| **Delivery chair**                        |           |                                                                                                                                                                                                                                                                                                                 |
+| Grow the delivery team                    | Dropped   | Hours logged peaked at 5,458 in Mar 2026 and fell to 1,728 in Sep. Contractors reporting fell from 35 to 13. The active roster went from 27 on 21 Jul to 18 on 18 Oct.                                                                                                                                          |
+| Control quality at scale                  | Half kept | The tooling arrived in 2026: a public proof-of-done workflow kit and a written pipeline formula. I found no client score or defect series that shows quality moved.                                                                                                                                             |
+| Measure delivery wins                     | Kept      | A monthly delivery report with 1 to 5 ratings has sat in the playbook since Aug 2024. Hours moved to a progress form in Dec 2025. A project P&L has run monthly since May 2026.                                                                                                                                 |
+| **Communication chair**                   |           |                                                                                                                                                                                                                                                                                                                 |
+| Short video for TikTok, Facebook, YouTube | Half kept | A video pipeline write-up dated 10 Jul 2025 names YouTube Shorts, Instagram and Facebook reels as targets, and TikTok is not among them. The homepage links LinkedIn, X, Telegram, Discord and GitHub, and no video channel. I could not verify any output. <!-- confirm: proposed Half kept -->                |
+| Vietnamese translations                   | Dropped   | I found no translated note among 1,302 Markdown files in the vault.                                                                                                                                                                                                                                             |
+| An IP character for content               | Half kept | A cat character, Neko, is the avatar of the site chat widget in code merged in Sep 2026. No content series runs on it. A 2025 brand refresh project is marked done. <!-- confirm: proposed Half kept -->                                                                                                        |
+| **Partnership chair**                     |           |                                                                                                                                                                                                                                                                                                                 |
+| WALA with established companies           | Dropped   | Four WALA visit notes exist, dated 2022 to 2024, and none came in 2025. A fifth episode, an interview with a startup CTO, went to its guest for review in Oct 2026. The assess-first idea lives on as the fixed-fee readiness assessment. <!-- confirm: ok to mention the fifth episode before it publishes --> |
+| VC packages for AI startups               | Dropped   | No VC package, partner page or case. A sales plan from Apr 2026 still lists identifying five target VCs as a month-two task. <!-- confirm: proposed Dropped -->                                                                                                                                                 |
+| CTO and PM retainers into platform ops    | Half kept | The retainer offer page went up on 27 Jun 2025. In 2026 the idea became Run and Own. I could not count retainer contracts from the records I can read. <!-- confirm: proposed Half kept -->                                                                                                                     |
+| **Engagement chair**                      |           |                                                                                                                                                                                                                                                                                                                 |
+| Hybrid working                            | Kept      | Already true. The policy dates from Sep 2022 and was republished on 6 Sep 2024, with one to two office days a week as the norm. An office check-in bot built in Sep 2024 was last changed in May 2026.                                                                                                          |
+| Gossip protocol                           | Kept      | Handbook page dated 13 Jun 2025. A peer tips a useful share with /tip and the company vault pays, after ops review.                                                                                                                                                                                             |
+| DFG earning by contribution weight        | Dropped   | The June 2025 proposal (eleven token pages) was not adopted. ICY pays for notes, bounties and tips, and DFG stays a share token with staking. <!-- confirm: proposed Dropped -->                                                                                                                                |
+| A talent recognition framework            | Half kept | A leveling framework with IC and M ranks was written in Feb 2026. The rank fields in the contractor database hold no values on 18 Oct 2026.                                                                                                                                                                     |
 
 ## What the numbers say
 
@@ -133,14 +133,14 @@ The delivery, communication and engagement pages are gone. [brainery PR 214](htt
 
 All three ended with success metrics that carried no number: "Increase client satisfaction scores", "Grow total social media following significantly" and "Achieve high team satisfaction score in quarterly surveys". A promise with no number cannot be scored, so I scored the initiatives the roadmap page names. Here is where the chairs landed.
 
-| Chair | Promises | Kept | Half kept | Dropped | Page today |
-| --- | --- | --- | --- | --- | --- |
-| The plan (bets and chair model) | 5 | 2 | 1 | 2 | Live |
-| Learning | 4 | 0 | 2 | 2 | Live |
-| Delivery | 3 | 1 | 1 | 1 | Deleted |
-| Communication | 3 | 0 | 2 | 1 | Deleted |
-| Partnership | 3 | 0 | 1 | 2 | Live |
-| Engagement | 4 | 2 | 1 | 1 | Deleted |
+| Chair                           | Promises | Kept | Half kept | Dropped | Page today |
+| ------------------------------- | -------- | ---- | --------- | ------- | ---------- |
+| The plan (bets and chair model) | 5        | 2    | 1         | 2       | Live       |
+| Learning                        | 4        | 0    | 2         | 2       | Live       |
+| Delivery                        | 3        | 1    | 1         | 1       | Deleted    |
+| Communication                   | 3        | 0    | 2         | 1       | Deleted    |
+| Partnership                     | 3        | 0    | 1         | 2       | Live       |
+| Engagement                      | 4        | 2    | 1         | 1       | Deleted    |
 
 The triage kept the two pages that named specific programs. Those two scored worst: none of their seven promises counts as kept. The three deleted pages hold three of the five kept promises. Specifics on the page did not predict delivery. The roadmap page and the two surviving chair pages are drafts now, and their URLs redirect here.
 
@@ -158,7 +158,7 @@ This section is my reading of the records.
 
 The chair names gave way to nine role manuals in April 2026, written for a firm that works with AI agents. The apprentice batch became a drafted senior-pipeline program in September. The build-log habit became field reports with measured tables, such as [Memo, rebuilt](../shipped/memo-rebuilt.md) and [the deploy pipeline formula](../shipped/deploy-pipeline-formula.md). The positioning moved from four bets to a plain offer: assess a system, harden it, and run it. <!-- confirm: ok to state the role-manual change and the senior-pipeline draft publicly -->
 
-## What I would change
+## What i would change
 
 A promise goes on the page with a number and a date, or it stays in the notes. A promise that needs weekly hours names the person who gives them. The next roadmap should carry both, plus a re-score date on the page itself, so the reader can see how the last one did.
 
@@ -174,8 +174,8 @@ A promise goes on the page with a number and a date, or it stays in the notes. A
 
 The three notes are now drafts, and their URLs redirect here, along with the URLs of the three chair pages deleted in August 2026.
 
-| Old note | What survived here |
-| --- | --- |
-| 2025 Roadmap | The 22 promises, quoted and scored |
-| Learning chair | Its four initiatives and the build-log count |
+| Old note          | What survived here                              |
+| ----------------- | ----------------------------------------------- |
+| 2025 Roadmap      | The 22 promises, quoted and scored              |
+| Learning chair    | Its four initiatives and the build-log count    |
 | Partnership chair | Its three partnerships and the pipeline finding |
