@@ -1,6 +1,6 @@
 ---
-draft: false
-title: DuckDB as intermediary storage
+draft: true
+title: "DuckDB as intermediary storage (build note)"
 description: "Learn how we use DuckDB as a flexible and efficient intermediary storage solution in the Memo content pipeline."
 date: 2025-05-20
 authors:
@@ -9,8 +9,7 @@ tags:
   - memo
   - duckdb
   - build-log
-redirect:
-  - /IozGyw
+redirect: []
 slug: duckdb-as-intermediary-storage
 ---
 
@@ -22,15 +21,15 @@ All the processed content is stored in a DuckDB table named `vault`. Here's a lo
 
 ```sql
 CREATE TABLE vault(
-    file_path VARCHAR, 
-    md_content VARCHAR, 
-    tags VARCHAR[], 
-    title VARCHAR, 
-    date DATE, 
-    description VARCHAR, 
-    authors VARCHAR[], 
-    estimated_tokens BIGINT, 
-    embeddings_openai FLOAT[1536], 
+    file_path VARCHAR,
+    md_content VARCHAR,
+    tags VARCHAR[],
+    title VARCHAR,
+    date DATE,
+    description VARCHAR,
+    authors VARCHAR[],
+    estimated_tokens BIGINT,
+    embeddings_openai FLOAT[1536],
     total_tokens BIGINT,
     hide_frontmatter BOOLEAN,
     hide_title BOOLEAN,

@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: The Memo build and content quality pipeline
 description: "Understand the automated processes and tools that transform Markdown content into the published Memo website, ensuring content quality and consistency."
 date: 2025-05-20
@@ -12,8 +12,7 @@ tags:
   - linting
   - formatting
   - build-log
-redirect:
-  - /5DMXfw
+redirect: []
 slug: build-pipeline
 ---
 
@@ -48,7 +47,7 @@ The `vault` table in DuckDB is set up, updating the schema as needed and removin
 
 Beyond the core data processing, a comprehensive set of tools ensures content consistency, quality, and adherence to our standards. These tools cover linting (validating Markdown and metadata) and formatting (standardizing text styling).
 
-*Relevant source files include: `scripts/formatter/format-sentence-case.js`, `scripts/formatter/note-lint.js`, and various rule files within `scripts/formatter/rules/`.*
+_Relevant source files include: `scripts/formatter/format-sentence-case.js`, `scripts/formatter/note-lint.js`, and various rule files within `scripts/formatter/rules/`._
 
 ### Linting
 
@@ -92,18 +91,18 @@ The linting and formatting tools are designed for flexibility, usable both manua
 
 - **Running the note linter:**
 
-    ```bash
-    # Check all rules in the vault directory
-    node scripts/formatter/note-lint.js vault/
-    # Check specific rules
-    node scripts/formatter/note-lint.js vault frontmatter,no-heading1
-    ```
+  ```bash
+  # Check all rules in the vault directory
+  node scripts/formatter/note-lint.js vault/
+  # Check specific rules
+  node scripts/formatter/note-lint.js vault frontmatter,no-heading1
+  ```
 
 - **Running the sentence case formatter:**
 
-    ```bash
-    node scripts/formatter/format-sentence-case.js [optional-path-to-file-or-directory]
-    ```
+  ```bash
+  node scripts/formatter/format-sentence-case.js [optional-path-to-file-or-directory]
+  ```
 
 These tools are integral to the Memo content workflow: content is created/edited, linted, formatted, and then proceeds to the core processing pipeline before DuckDB export. These steps can be run manually, integrated into Git pre-commit hooks, or incorporated into CI/CD pipelines.
 

@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 478" aria-label="Fig. 1: memo's build and host in the May 2025 notes beside the stack today" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid1" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/></pattern>
+    <marker id="ar1" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#c3d7ea"/></marker>
+    <marker id="am1" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#e8c56a"/></marker>
+  </defs>
+  <rect width="760" height="478" fill="#12395f"/>
+  <rect width="760" height="478" fill="url(#grid1)"/>
+  <rect x="0.5" y="0.5" width="759" height="477" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 1 · MEMO, THEN AND NOW</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">SAME SITE, DIFFERENT PARTS</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+<text x="30" y="62" font-size="10" letter-spacing="1.5" fill="#c3d7ea">THEN · THE MAY 2025 NOTES</text>
+<text x="410" y="62" font-size="10" letter-spacing="1.5" fill="#c3d7ea">NOW · OCTOBER 2026</text>
+<line x1="380" y1="48" x2="380" y2="462" stroke="#385a7b" stroke-dasharray="3 5"/>
+<g>
+  <rect x="30" y="72" width="320" height="48" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="42" y="93" font-size="12" fill="#6f8fb0">1</text>
+  <text x="62" y="92" font-size="9" letter-spacing="1.5" fill="#6f8fb0">VAULT</text>
+  <text x="62" y="110" font-size="10" fill="#e8f1fa">brainery, Markdown from Obsidian</text>
+</g>
+<line x1="190.0" y1="120" x2="190.0" y2="136" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#ar)"/>
+<g>
+  <rect x="30" y="138" width="320" height="48" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="42" y="159" font-size="12" fill="#6f8fb0">2</text>
+  <text x="62" y="158" font-size="9" letter-spacing="1.5" fill="#6f8fb0">COMPILER</text>
+  <text x="62" y="176" font-size="10" fill="#e8f1fa">Elixir, mix export_markdown</text>
+</g>
+<line x1="190.0" y1="186" x2="190.0" y2="202" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#ar)"/>
+<g>
+  <rect x="30" y="204" width="320" height="48" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="42" y="225" font-size="12" fill="#6f8fb0">3</text>
+  <text x="62" y="224" font-size="9" letter-spacing="1.5" fill="#6f8fb0">STORE</text>
+  <text x="62" y="242" font-size="10" fill="#e8f1fa">DuckDB table, vault.parquet in git</text>
+</g>
+<line x1="190.0" y1="252" x2="190.0" y2="268" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#ar)"/>
+<g>
+  <rect x="30" y="270" width="320" height="48" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="42" y="291" font-size="12" fill="#6f8fb0">4</text>
+  <text x="62" y="290" font-size="9" letter-spacing="1.5" fill="#6f8fb0">SITE</text>
+  <text x="62" y="308" font-size="10" fill="#e8f1fa">Next.js static export</text>
+</g>
+<line x1="190.0" y1="318" x2="190.0" y2="334" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#ar)"/>
+<g>
+  <rect x="30" y="336" width="320" height="64" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="42" y="357" font-size="12" fill="#6f8fb0">5</text>
+  <text x="62" y="356" font-size="9" letter-spacing="1.5" fill="#6f8fb0">HOST</text>
+  <text x="62" y="374" font-size="10" fill="#e8f1fa">notes say GitHub Pages</text>
+  <text x="62" y="389" font-size="10" fill="#a7c0d9">repo ships a Docker image and nginx</text>
+</g>
+<line x1="190.0" y1="400" x2="190.0" y2="418" stroke="#68839d" stroke-dasharray="3 4"/>
+<g>
+  <rect x="30" y="420" width="320" height="46" fill="none" stroke="#68839d" stroke-width="1" stroke-dasharray="5 4"/>
+  <text x="44" y="440" font-size="9" letter-spacing="1.5" fill="#6f8fb0">ONCHAIN</text>
+  <text x="44" y="458" font-size="10" fill="#e8f1fa">Arweave upload and NFT mint, CI jobs</text>
+</g>
+<g>
+  <rect x="410" y="72" width="320" height="48" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="422" y="93" font-size="12" fill="#6f8fb0">1</text>
+  <text x="442" y="92" font-size="9" letter-spacing="1.5" fill="#6f8fb0">VAULT</text>
+  <text x="442" y="110" font-size="10" fill="#e8f1fa">brainery, same Markdown</text>
+</g>
+<line x1="570.0" y1="120" x2="570.0" y2="136" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#ar)"/>
+<g>
+  <rect x="410" y="138" width="320" height="64" fill="#21466a" stroke="#e8c56a" stroke-width="1.5"/>
+  <text x="422" y="159" font-size="12" fill="#6f8fb0">2</text>
+  <text x="442" y="158" font-size="9" letter-spacing="1.5" fill="#e8c56a">DISPATCH</text>
+  <text x="442" y="176" font-size="10" fill="#e8f1fa">publish-on-push, one bot token</text>
+  <text x="442" y="191" font-size="10" fill="#a7c0d9">one push starts two repos</text>
+</g>
+<path d="M 490 202 L 490 218" fill="none" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#ar1)"/>
+<path d="M 650 202 L 650 218" fill="none" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#ar1)"/>
+<g>
+  <rect x="410" y="220" width="155" height="82" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="424" y="240" font-size="9" letter-spacing="1.5" fill="#6f8fb0">DATA PLANE</text>
+  <text x="424" y="258" font-size="10" fill="#e8f1fa">foundation-workers</text>
+  <text x="424" y="273" font-size="10" fill="#a7c0d9">TypeScript compile</text>
+  <text x="424" y="288" font-size="10" fill="#a7c0d9">D1, R2, memo-api</text>
+</g>
+<g>
+  <rect x="575" y="220" width="155" height="82" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="589" y="240" font-size="9" letter-spacing="1.5" fill="#6f8fb0">FRONTEND</text>
+  <text x="589" y="258" font-size="10" fill="#e8f1fa">foundation-apps</text>
+  <text x="589" y="273" font-size="10" fill="#a7c0d9">Next.js export</text>
+  <text x="589" y="288" font-size="10" fill="#a7c0d9">3,078 pages</text>
+</g>
+<path d="M 490 302 L 490 320 L 570 320 L 570 334" fill="none" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#ar1)"/>
+<path d="M 650 302 L 650 320 L 570 320" fill="none" stroke="#c3d7ea" stroke-width="1.5"/>
+<g>
+  <rect x="410" y="336" width="320" height="64" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="422" y="357" font-size="12" fill="#6f8fb0">3</text>
+  <text x="442" y="356" font-size="9" letter-spacing="1.5" fill="#6f8fb0">SERVED</text>
+  <text x="442" y="374" font-size="10" fill="#e8f1fa">memo.d.foundation, one Cloudflare Worker</text>
+  <text x="442" y="389" font-size="10" fill="#a7c0d9">/api over a service binding</text>
+</g>
+<line x1="570.0" y1="400" x2="570.0" y2="418" stroke="#68839d" stroke-dasharray="3 4"/>
+<g>
+  <rect x="410" y="420" width="320" height="46" fill="none" stroke="#68839d" stroke-width="1" stroke-dasharray="5 4"/>
+  <text x="424" y="440" font-size="9" letter-spacing="1.5" fill="#6f8fb0">MEDIA</text>
+  <text x="424" y="458" font-size="10" fill="#e8f1fa">R2 bucket, served by the Worker</text>
+</g>
+</svg>

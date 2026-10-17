@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" aria-label="Fig. 4: four publish incidents on one dated axis, August 15 to September 25 2026" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid4" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/></pattern>
+    <marker id="ar4" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#c3d7ea"/></marker>
+    <marker id="am4" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#e8c56a"/></marker>
+  </defs>
+  <rect width="760" height="330" fill="#12395f"/>
+  <rect width="760" height="330" fill="url(#grid4)"/>
+  <rect x="0.5" y="0.5" width="759" height="329" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 4 · FOUR PUBLISH INCIDENTS</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">AUGUST AND SEPTEMBER 2026</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+<line x1="40" y1="168" x2="716.5" y2="168" stroke="#68839d" stroke-width="1"/>
+<line x1="73.0" y1="164" x2="73.0" y2="172" stroke="#68839d"/>
+<text x="73.0" y="186" font-size="9" fill="#6f8fb0" text-anchor="middle">AUG 17</text>
+<line x1="188.5" y1="164" x2="188.5" y2="172" stroke="#68839d"/>
+<text x="188.5" y="186" font-size="9" fill="#6f8fb0" text-anchor="middle">AUG 24</text>
+<line x1="304.0" y1="164" x2="304.0" y2="172" stroke="#68839d"/>
+<text x="304.0" y="186" font-size="9" fill="#6f8fb0" text-anchor="middle">AUG 31</text>
+<line x1="419.5" y1="164" x2="419.5" y2="172" stroke="#68839d"/>
+<text x="419.5" y="186" font-size="9" fill="#6f8fb0" text-anchor="middle">SEP 7</text>
+<line x1="535.0" y1="164" x2="535.0" y2="172" stroke="#68839d"/>
+<text x="535.0" y="186" font-size="9" fill="#6f8fb0" text-anchor="middle">SEP 14</text>
+<line x1="650.5" y1="164" x2="650.5" y2="172" stroke="#68839d"/>
+<text x="650.5" y="186" font-size="9" fill="#6f8fb0" text-anchor="middle">SEP 21</text>
+<line x1="106.0" y1="168" x2="106.0" y2="114" stroke="#68839d" stroke-width="1"/>
+<circle cx="106.0" cy="168" r="4" fill="#21466a" stroke="#68839d" stroke-width="1.5"/>
+<text x="106.0" y="60" font-size="9" letter-spacing="1.5" fill="#6f8fb0" text-anchor="start">AUG 19</text>
+<text x="106.0" y="76" font-size="10" fill="#e8f1fa" text-anchor="start">Empty build exits 0</text>
+<text x="106.0" y="90" font-size="10" fill="#a7c0d9" text-anchor="start">memo answers 404</text>
+<text x="106.0" y="104" font-size="10" fill="#a7c0d9" text-anchor="start">from 09:12 to 09:25</text>
+<line x1="122.5" y1="168" x2="122.5" y2="222" stroke="#e8c56a" stroke-width="1.5"/>
+<circle cx="122.5" cy="168" r="5" fill="#e8c56a" stroke="#e8c56a" stroke-width="1.5"/>
+<text x="122.5" y="238" font-size="9" letter-spacing="1.5" fill="#e8c56a" text-anchor="start">AUG 20</text>
+<text x="122.5" y="254" font-size="10" fill="#e8c56a" text-anchor="start">Unreviewed advance</text>
+<text x="122.5" y="268" font-size="10" fill="#a7c0d9" text-anchor="start">would drop 742 of 1,224</text>
+<text x="122.5" y="282" font-size="10" fill="#a7c0d9" text-anchor="start">search rows; 15 min</text>
+<text x="122.5" y="296" font-size="10" fill="#a7c0d9" text-anchor="start">without research</text>
+<line x1="419.5" y1="168" x2="419.5" y2="114" stroke="#68839d" stroke-width="1"/>
+<circle cx="419.5" cy="168" r="4" fill="#21466a" stroke="#68839d" stroke-width="1.5"/>
+<text x="419.5" y="60" font-size="9" letter-spacing="1.5" fill="#6f8fb0" text-anchor="middle">SEP 7</text>
+<text x="419.5" y="76" font-size="10" fill="#e8f1fa" text-anchor="middle">One 134 s timeout</text>
+<text x="419.5" y="90" font-size="10" fill="#a7c0d9" text-anchor="middle">wedges the guard;</text>
+<text x="419.5" y="104" font-size="10" fill="#a7c0d9" text-anchor="middle">five publishes refused</text>
+<line x1="601.0" y1="168" x2="601.0" y2="222" stroke="#68839d" stroke-width="1"/>
+<circle cx="601.0" cy="168" r="4" fill="#21466a" stroke="#68839d" stroke-width="1.5"/>
+<text x="601.0" y="238" font-size="9" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">SEP 18</text>
+<text x="601.0" y="254" font-size="10" fill="#e8f1fa" text-anchor="end">[skip ci] rides in a</text>
+<text x="601.0" y="268" font-size="10" fill="#a7c0d9" text-anchor="end">squash message; no</text>
+<text x="601.0" y="282" font-size="10" fill="#a7c0d9" text-anchor="end">publish run until a</text>
+<text x="601.0" y="296" font-size="10" fill="#a7c0d9" text-anchor="end">manual dispatch</text>
+<text x="14" y="316" font-size="9" fill="#6f8fb0">dates and counts from the cited PRs and run logs</text>
+</svg>
