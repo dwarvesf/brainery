@@ -1,10 +1,8 @@
 ---
 draft: false
-title: "Software modeling: core objects, diagrams and maintainability"
+title: Software modeling
 description: Learn how software modeling improves system maintainability and scalability by defining core objects, using diagrams like ERD, SMD, and USD to design clear, efficient applications.
 date: 2020-05-08
-authors:
-  - tieubao
 tags:
   - modeling
 redirect:
@@ -57,7 +55,7 @@ Our Design team is using this to follow the final goal of an application or a sy
 
 After that, we'll find out the relationship between them.
 
-### Entity relationship diagram (ERD)
+### Entity Relationship Diagram (ERD)
 
 A relationship between core objects is demonstrated in a form of an entity relationship diagram (ERD).
 
@@ -80,7 +78,7 @@ An ERD should have these things to keep in mind
 ERD helps simplify the database, giving us the first impression on a system, what kind of object, how many table and the relationship between them.
 To create an action, we need to add state - the status of how core object will change during the process of an action.
 
-## State machine diagram (SMD)
+## State Machine Diagram (SMD)
 
 Purpose
 
@@ -105,7 +103,7 @@ Important Notes
 **Giang Vu**: So that means the state will need to be business-oriented?
 **Khiem Vo**: True. Another thing to remember is we only have to list out the states if it's a part of the system flow.
 
-### Use cases diagram (USD)
+### Use Cases Diagram (USD)
 
 Definition
 

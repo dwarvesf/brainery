@@ -3,8 +3,6 @@ title: Fintech expertise & solutions
 short_title: Fintech
 description: "We build financial systems that work. From payment platforms to DeFi protocols, we've helped startups and banks across Southeast Asia create secure, scalable fintech solutions."
 date: 2025-01-12
-authors:
-  - tieubao
 tags:
   - fintech
   - blockchain
@@ -58,7 +56,7 @@ LIMIT 6;
 We're focused on emerging opportunities:
 
 - **DeFAI**: AI-integrated DeFi protocols
-- **Bitcoin layer 2**: Lightning Network and payment solutions
+- **Bitcoin Layer 2**: Lightning Network and payment solutions
 - **Embedded finance**: APIs that turn any app into a fintech platform
 - **Regulatory tech**: Compliance automation for Southeast Asian markets
 
@@ -70,7 +68,7 @@ We've built 15+ fintech projects across Southeast Asia and beyond. Here are some
 
 **[Open Fabric](https://memo.d.foundation/consulting/case-study/open-fabric)** - Joined their team to build a BNPL platform from scratch. Launched in one year, now expanding across Southeast Asia.
 
-**[Neutronpay](<>)** - Created a Lightning Network payment solution for instant, low-cost Bitcoin transactions.
+**[Neutronpay]()** - Created a Lightning Network payment solution for instant, low-cost Bitcoin transactions.
 
 ### Blockchain projects
 

@@ -3,8 +3,6 @@ draft: false
 title: Working with legacy code
 description: Learn how to navigate large, established codebases without losing your sanity. Discover technical strategies, cultural insights, and AI assistance for thriving in complex systems.
 date: 2024-12-19
-authors:
-  - tieubao
 tags:
   - legacy-code
   - technical-debt
@@ -73,4 +71,4 @@ This isn't about letting AI do everything. It's leveraging coding agents for mec
 
 Working with legacy code is a technical and human challenge enhanced by AI capabilities. Master all three sides, and you'll thrive in any codebase.
 
-_Sources: Insights from [Sean Goedecke's blog](https://www.seangoedecke.com/large-established-codebases/) and [Hacker News discussion](https://news.ycombinator.com/item?id=42627227)._
+*Sources: Insights from [Sean Goedecke's blog](https://www.seangoedecke.com/large-established-codebases/) and [Hacker News discussion](https://news.ycombinator.com/item?id=42627227).*

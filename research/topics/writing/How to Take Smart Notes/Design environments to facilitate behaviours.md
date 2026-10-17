@@ -1,12 +1,13 @@
 ---
-draft: true
-title: "Design environments to facilitate behaviours (reading note)"
-description: "Willpower is a finite resource, and difficult to sustain."
-date: 2026-10-18
+draft: false
+title: null
+description: null
+date: null
 tags:
   - smart-note
   - writing
-redirect: []
+redirect:
+  - /YCYCoA
 ---
 
 Willpower is a finite resource, and difficult to sustain. Designing environments to facilitate desire behaviour is a much more effective approach in the long run.

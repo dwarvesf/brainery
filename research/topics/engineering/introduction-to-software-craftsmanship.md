@@ -1,10 +1,8 @@
 ---
 draft: false
-title: "An introduction to software craftsmanship at Dwarves"
+title: Introduction to software craftsmanship
 description: Learn how software craftsmanship shapes quality coding, teamwork, and well-crafted software at Dwarf, emphasizing discipline, professionalism, and continuous improvement in agile environments.
 date: 2020-04-24
-authors:
-  - tieubao
 tags:
   - engineering
 redirect:

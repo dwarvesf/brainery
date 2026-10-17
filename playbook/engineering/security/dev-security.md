@@ -1,14 +1,12 @@
 ---
-title: Development security checklist
-description: A development security checklist covering transport, storage, logging, Docker, auth flows, user data, input, mobile, headers and operations.
+title: null
+description: null
 date: null
 redirect:
   - /kCjuvg
-authors:
-  - tieubao
 ---
 
-Treat this as a review checklist, not a one-time audit. Run through it when a project starts, before a release, and when a change touches authentication, user data or deployment. The [API security checklist](api-security.md) covers the API-specific items in more depth.
+# Development security checklist
 
 ##### Transmitting information
 
@@ -46,7 +44,7 @@ Treat this as a review checklist, not a one-time audit. Run through it when a pr
 - [ ] Periodically update (or rebuild) your Docker hosts with latest security updates
 - [ ] Multiple containers running on same host will by default have some level of access to other containers and the host itself. Properly secure all hosts, and run containers with a minimum set of capabilities, for example preventing network access if they don't need it.
 
-##### AUTHENTICATION SYSTEMS (Signup/Signin/2 factor/Password reset)
+##### AUTHENTICATION SYSTEMS (Signup/Signin/2 Factor/Password reset)
 
 - [ ] Use HTTPS everywhere. Never send credentials unencrypted over public network.
 - [ ] Store password hashes using `Bcrypt` (no salt necessary - `Bcrypt` does it for you).
@@ -99,7 +97,7 @@ Treat this as a review checklist, not a one-time audit. Run through it when a pr
 - [ ] `Add` [HSTS](https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) header to prevent SSL stripping attack.
 - [ ] `Add` your domain to the [HSTS Preload List](https://hstspreload.org/)
 - [ ] `Add` [X-Frame-Options](https://en.wikipedia.org/wiki/Clickjacking#X-Frame-Options) to protect against Clickjacking.
-- [ ] Do not rely on the legacy [X-XSS-Protection](https://www.owasp.org/index.php/OWASP_Secure_Headers_Project#X-XSS-Protection) header. Omit it or send `0`, and use a strict CSP to mitigate XSS attacks.
+- [ ] `Add` [X-XSS-Protection](https://www.owasp.org/index.php/OWASP_Secure_Headers_Project#X-XSS-Protection) header to mitigate XSS attacks.
 - [ ] Update DNS records to add [SPF](https://en.wikipedia.org/wiki/Sender_Policy_Framework) record to mitigate spam and phishing attacks.
 - [ ] Add [subresource integrity checks](https://en.wikipedia.org/wiki/Subresource_Integrity) if loading your JavaScript libraries from a third party CDN. For extra security, add the [require-sri-for](https://w3c.github.io/webappsec-subresource-integrity/#parse-require-sri-for) CSP-directive so you don't load resources that don't have an SRI sat.
 - [ ] Use random CSRF tokens and expose business logic APIs as HTTP POST requests. Do not expose CSRF tokens over HTTP for example in an initial request upgrade phase.
@@ -119,13 +117,3 @@ Treat this as a review checklist, not a one-time audit. Run through it when a pr
 - [ ] Set up monitoring for your systems, and log stuff (use [New Relic](https://newrelic.com/) or something like that).
 - [ ] If developing for enterprise customers, adhere to compliance requirements. If AWS S3, consider using the feature to [encrypt data](http://docs.aws.amazon.com/AmazonS3/latest/dev/UsingServerSideEncryption.html). If using AWS EC2, consider using the feature to use encrypted volumes (even boot volumes can be encrypted now).
 - [ ] Set up [Netflix's Scumblr](https://github.com/Netflix/Scumblr) to hear about talks about your organization on social platforms and Google search.
-
-## Notes on items that predate current practice
-
-This checklist was written several years ago. These items have moved on, so verify them before relying on them:
-
-- `X-XSS-Protection`: do not add it. Send `0` or omit it, and rely on a strict `Content-Security-Policy`.
-- HTTP Public Key Pinning (the certificate pinning link): browsers removed HPKP. Pinning inside a mobile app is still done, with care for certificate rotation.
-- CSP `require-sri-for`: the directive was removed from the spec and never shipped by default. Subresource Integrity attributes on script tags still work.
-- TLS 1.2 only: treat TLS 1.2 as the minimum and enable TLS 1.3.
-- Password hashing: Bcrypt is fine. Argon2id is the usual modern alternative.

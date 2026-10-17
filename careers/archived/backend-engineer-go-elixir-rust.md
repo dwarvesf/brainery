@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Backend engineer, Go/Elixir/Rust
 description: Looking for a well-rounded backend engineer with experience in shipping web applications to production, CI/CD with docker centric workflow, unit testing, performance and scaling, etc. with Go/Elixir/Rust.
 date: 2023-12-11
@@ -9,6 +8,8 @@ authors:
 tags:
   - backend
   - career
+redirect:
+  - /6qpGXQ
 ---
 
 > 🤝 As an engineer at Dwarves, you will be working closely with a team of talented, kind people and working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself.

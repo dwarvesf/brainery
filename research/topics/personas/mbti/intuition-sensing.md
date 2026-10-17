@@ -1,11 +1,12 @@
 ---
-draft: true
+draft: false
 title: Intuition vs sensing
 description: Discover the key traits of Sensors and Intuitives, highlighting how Sensors excel in practical details while Intuitives thrive on abstract ideas and creative connections.
-date: 2026-08-27
+date: null
 URL: "https://drive.google.com/file/d/1n8ID_iXqzs6cMZlRS0Su7lQUhrfd7khh/view?usp=sharing"
 tag: mbti, preferences
-redirect: []
+redirect:
+  - /4GTCHw
 ---
 
 Book: My True Type, page 33 - 38

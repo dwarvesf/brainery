@@ -13,6 +13,8 @@ redirect:
 slug: ogif-intro
 ---
 
+I would like to introduce to you our new initiative called **OGIF -- Oh God It's Friday**. Moving forward, our Friday Showcase will have a broader range of topics to discuss and share.
+
 Let's take a moment to reflect on our achievements from the past week, and look forward to the next with optimism and enthusiasm.
 
 ![](assets/ogif_a8411e1b4a3fdf5e1f29d01dbdedc0e1_md5.webp)

@@ -1,12 +1,10 @@
 ---
 draft: false
-title: "Decentralized exchange (DEX): definition and why people use one"
-description: "A decentralized exchange (DEX) lets users trade directly with each other through an automated process, with no intermediary holding their funds."
-date: 2026-08-27
+title: Definition
+description: null
+date: null
 redirect:
   - /XLTguA
-authors:
-  - tieubao
 ---
 
 ### What
@@ -38,5 +36,3 @@ Keywords:
 #### Reference
 
 https://academy.binance.com/en/articles/what-is-a-decentralized-exchange-dex
-
-Adapted from Binance Academy, [What Is a Decentralized Exchange (DEX)?](https://www.binance.com/en/academy/articles/what-is-a-decentralized-exchange-dex).

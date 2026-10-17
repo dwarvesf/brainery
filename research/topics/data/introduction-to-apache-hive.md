@@ -1,14 +1,12 @@
 ---
 draft: false
-title: "An introduction to Apache Hive: SQL queries on Hadoop data"
+title: Introduction to Apache Hive
 description: Learn how Apache Hive simplifies big data analysis by enabling SQL queries on Hadoop datasets using tables, making MapReduce easier for developers and data analysts.
 date: 2022-11-10
 github_id: dudaka
 icy: 10
 redirect:
   - /2dEn0w
-authors:
-  - dudaka
 ---
 
 Welcome to one of the widely used tools in the Hadoop ecosystem! To get the best understanding about this tool, please visit the related articles about MapReduce, Apache Pig. In this article, we're going to see a brief introduction to Hive and we're going to create a Hive table and query a dataset using the newly created Hive table.

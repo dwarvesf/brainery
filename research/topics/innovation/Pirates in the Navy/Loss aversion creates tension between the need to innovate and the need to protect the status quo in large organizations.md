@@ -1,10 +1,8 @@
 ---
 draft: false
-title: "Loss aversion creates tension between the need to innovate and the need to protect the status quo in large organizations (reading note)"
-description: "Organizations, like people, are loss averse."
-date: 2026-08-27
-authors:
-  - tieubao
+title: null
+description: null
+date: null
 tags:
   - innovation
   - organization
@@ -18,7 +16,7 @@ Organizations, like people, are loss averse. They will instinctively seek to pro
 
 #### Related
 
-- Organizations have become primarily focused on short-term results
+- [Organizations have become primarily focused on short-term results](https://publish.obsidian.md/mobydiction/notes/Organizations+have+become+primarily+focused+on+short-term+results)
 - [[Established organizations tend to optimize for inertia]]
 - [[≈ Pirates in the Navy]]
 - [[§ Innovation]]
@@ -26,5 +24,3 @@ Organizations, like people, are loss averse. They will instinctively seek to pro
 #### Reference
 
 Viki, Tendayi. _Pirates In the Navy How Innovators Lead Transformation_. Unbound, 2020.
-
-Adapted from David Drysdale's Moby Diction notes.

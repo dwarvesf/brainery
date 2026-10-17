@@ -1,12 +1,12 @@
 ---
-title: RESTful API
-description: Conventions for REST API design, from URLs and versioning to pagination, status codes, error formats, caching and rate limits.
+title: null
+description: null
 date: null
 redirect:
   - /0OkhcQ
-authors:
-  - tieubao
 ---
+
+# Restful API
 
 An API is a user interface for developers. Put the effort in to ensure it's not just functional but pleasant to use.
 
@@ -16,18 +16,18 @@ The following terms are crucial when discussing REST APIs:
 
 - **Resource**: An object or representation of something with associated data. Operations such as `delete`, `add`, and `update` can be performed on resources. Examples include Animals, schools, and employees.
 - **Collection**: A group of resources, like the collection of Company resources under Companies.
-- **URL (uniform resource locator)**: A path used to locate a resource and perform actions on it.
+- **URL (Uniform Resource Locator)**: A path used to locate a resource and perform actions on it.
 
 ## Conventions
 
-- **Documentation**: Swagger is our chosen tool for REST API documentation. Its API description format is now maintained as the OpenAPI Specification, so write new specs as OpenAPI.
+- **Documentation**: Swagger is our chosen tool for REST API documentation.
 - **Use nouns in URI**: Design REST APIs around resources. Instead of `/create-user`, use `/users`.
 - **Plurals**: Prefer using plurals in URIs, but singular forms are also acceptable.
 - **HTTP verbs**: Map actions to HTTP verbs. Avoid misusing safe methods. Match HTTP methods to the required action.
 - **SSL everywhere**: Use SSL for all communications, without exceptions.
 - **Pretty print & gzip**: Default to pretty-printing and ensure support for gzip compression.
 - **API versioning**: Always version APIs. Indicate versions in the URL, not headers.
-- **Depict resource [hierarchy](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)**: Represent resource hierarchy in URIs. If sub-resources exist, reflect this in the API. For instance, use `GET /users/123/posts/1` to fetch Post 1 by User 123.
+- **Depict Resource [Hierarchy](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)**: Represent resource hierarchy in URIs. If sub-resources exist, reflect this in the API. For instance, use `GET /users/123/posts/1` to fetch Post 1 by User 123.
 - **Field name casing**: Maintain consistent casing across the application. If using JSON for requests or responses, follow [camelCase](https://en.wikipedia.org/wiki/Camel_case) convention.
 
 ## API versioning
@@ -134,7 +134,7 @@ Batch deletion presents challenges in adhering to a clean RESTful approach due t
 
 The HTTP `DELETE` method is designed to indicate that a resource should be removed. However, according to the HTTP specification, the `DELETE` method typically doesn't include request payloads. This can hinder attempts to include a list of IDs or other data required for batch deletion.
 
-### Custom `POST` method for batch delete
+### Custom `POST` Method for Batch delete
 
 To achieve batch deletion while working within the constraints of the HTTP methods, a custom `POST` method is recommended. This approach allows you to include a request payload containing the necessary information, such as a list of IDs to be deleted.
 
@@ -264,7 +264,7 @@ When designing your API responses, consistency is key. Using standardized respon
 }
 ```
 
-### Multiple data entries with cursor-based pagination
+### Multiple Data Entries with Cursor-based pagination
 
 ```json
 {
@@ -300,36 +300,11 @@ In these response formats, the `data` field holds the actual resource data or an
 
 By using these standardized response formats, you enhance the consistency and clarity of your API responses, making it easier for developers to work with your API.
 
-## Example: one resource end to end
-
-Create a company, then list companies with the conventions above. The `/v1` prefix, camelCase fields and `data` / `metadata` envelope follow the sections earlier on this page.
-
-```text
-POST /v1/companies
-{ "name": "Acme", "category": "software" }
-
-201 Created
-Location: /v1/companies/42
-{ "data": { "id": 42, "name": "Acme", "category": "software" } }
-```
-
-```text
-GET /v1/companies?category=software&sort=-createdAt&page=1&pageSize=20
-
-200 OK
-{
-  "data": [ { "id": 42, "name": "Acme", "category": "software" } ],
-  "metadata": { "page": 1, "pageSize": 20, "totalPages": 1, "totalRecords": 1, "hasNext": false }
-}
-```
-
-Sending the same `POST` with an empty `name` returns `400` with the `CREATE_BODY_INVALID` style body shown under error handling, including a `traceId` the client can quote when it reports the problem.
-
 ## Error handling
 
 Error handling is essential to ensure that both API providers and consumers have a clear understanding of the issues that might arise during API interactions. Well-structured error responses help developers diagnose and address problems more effectively.
 
-### HTTP status codes and error responses
+### HTTP status codes and Error Responses
 
 HTTP status codes provide a standardized way of indicating the outcome of API requests. Alongside these codes, error responses should include structured information to convey the specifics of the error. Here are some common scenarios:
 

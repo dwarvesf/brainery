@@ -1,15 +1,16 @@
 ---
-draft: true
-title: "Waterfall and Agile: no perfect method (reading note)"
-description: "Each software lifecycle is designed for a particular type of development."
-date: 2026-08-27
+draft: false
+title: null
+description: null
+date: null
 tags:
-  - "101"
+  - 101
   - agile
   - engineering
   - process
   - waterfall
-redirect: []
+redirect:
+  - /YpULbg
 ---
 
 Each software lifecycle is designed for a particular type of development. There is no one lifecycle that fits everything. The Waterfall life cycle has advantages and disadvantages and so does the Agile approach. In this case you cannot say who is right and who is wrong.

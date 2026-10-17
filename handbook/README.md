@@ -46,8 +46,9 @@ If you've just joined us, you're in a unique position. You can see things we've 
 
 - [How we work](how-we-work.md) - Our approach to delivering quality software
 - [Work routine](routine.md) - Our daily, weekly, and cycle-based workflows
-- [Where we work](where-we-work-office-home-cafes.md) - Office, home, cafés and coworking spaces, and how to pick one
+- [Where we work](where-we-work.md) - Office, remote, and hybrid options
 - [Hybrid working](hybrid-working.md) - Balancing remote and office work
+- [Places to work](places-to-work.md) - Finding productive environments
 - [How we hire](how-we-hire.md) - Our approach to finding the right people
 - [How we spend money](how-we-spend-money.md) - Our financial principles
 - [Security rules](security-rules.md) - Keeping data and devices secure
@@ -83,7 +84,8 @@ If you've just joined us, you're in a unique position. You can see things we've 
 ## Practical guides
 
 - [Check-in at the office](guides/check-in-at-office.md) - Office check-in procedures
-- [How we run meetings](guides/how-we-run-meetings.md) - Scheduling, running and recording meetings
+- [Conduct a meeting](guides/conduct-a-meeting.md) - Meeting best practices
+- [Effective meeting](guides/effective-meeting.md) - Making meetings productive
 - [1-on-1 meeting](guides/one-on-one-meeting.md) - Manager-report discussions
 - [Email config](guides/configure-company-email.md) - Setting up your work email
 - [Email communication](guides/email-communication-and-use.md) - Email guidelines

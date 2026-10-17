@@ -11,11 +11,9 @@ tags:
   - team
 redirect:
   - /sjzLOw
-  - /handbook/stock-option-plan
-  - /ycA5yQ
-  - /handbook/guides/reimbursement
-  - /BPGnOw
 ---
+
+Since most Dwarves Foundation employees work in Saigon, this section is written with that as the default. Some benefits don't make sense in other countries. We will try our best to provide comparable benefits and perks as it makes sense, though.
 
 ## Team growth
 

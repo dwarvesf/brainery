@@ -12,6 +12,8 @@ redirect:
   - /CsFuag
 ---
 
+When we started working on this project aimed at the creative community, we faced an interesting challenge. We needed to build a model that was similar to a task but with a key difference: it had to support custom, dynamic, and extensible properties. If you’ve ever used Notion and appreciated how flexible its objects are, you’ll know exactly what we were trying to achieve.
+
 ## The expectation
 
 First thing would be extensibility. This wasn’t just about adding simple text fields—we needed the model to handle various types of data, like select options, date-time values, booleans, and even custom relations to other existing models, such as users. Each and every select options should be extensible as well, allowing them to be shared across each team as a common configuration.

@@ -55,7 +55,7 @@ The Engagement chair works to make Dwarves Foundation an excellent place to work
 
 ### CTO
 
-**Han** is our CTO. He sets the technical direction for Dwarves Foundation, guides our engineering strategy, and helps ensure we have the right people to achieve our vision.
+**Han** is our CTO. He sets the overall direction for Dwarves Foundation, guides our strategy, and helps ensure we have the right people to achieve our vision.
 
 ---
 

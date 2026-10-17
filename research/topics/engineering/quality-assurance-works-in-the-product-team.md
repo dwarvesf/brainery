@@ -1,14 +1,12 @@
 ---
 draft: false
-title: "How quality assurance works in the product team: test record formats"
+title: Quality assurance works in the product team
 description: Learn how to improve QA testing records with clear documentation formats for Mobile, BackEnd, and FrontEnd teams to track test status, scenarios, and related tickets effectively.
 date: 2022-11-08
 github_id: nhuthm
 icy: 10
 redirect:
   - /fk1afw
-authors:
-  - nhuthm
 ---
 
 _The following entry is from the thoughts, compositions, and conclusions from field work by one of our leads._

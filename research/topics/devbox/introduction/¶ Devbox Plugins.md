@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Devbox plugins: Turbocharge your dev setup"
 description: Discover how Devbox Plugins streamline your development workflow by automating package setup and configuration
 date: 2024-08-01
@@ -7,7 +7,8 @@ authors:
   - baenv
 tags:
   - devbox
-redirect: []
+redirect:
+  - /cT2HkA
 ---
 
 Ever spent hours configuring a new package in your dev environment? Yeah, we've all been there. It sucks. That's why we created Devbox Plugins.

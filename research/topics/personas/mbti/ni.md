@@ -1,11 +1,12 @@
 ---
-draft: true
-title: Introverted intuition (Ni)
+draft: false
+title: Introverted Intuition (Ni)
 description: Discover the power of Introverted Intuition (Ni), the rare cognitive function known for deep insight, pattern recognition, and theoretical genius found in INTJs and INFJs.
-date: 2026-08-27
+date: null
 URL: "https://drive.google.com/file/d/1n8ID_iXqzs6cMZlRS0Su7lQUhrfd7khh/view?usp=sharing"
 tag: function, mbti
-redirect: []
+redirect:
+  - /lm9Cvw
 ---
 
 Book: My True Type, page 58 - 69

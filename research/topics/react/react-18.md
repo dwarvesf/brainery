@@ -13,6 +13,8 @@ redirect:
   - /0jdfHQ
 ---
 
+React 18 was released in March 2022. This release focuses on performance improvements and updating the rendering engine.
+
 ## React 18 feature quick guide
 
 Now let's look at each of these updates in more detail.

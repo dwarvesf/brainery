@@ -12,6 +12,8 @@ redirect:
   - /MCCOBg
 ---
 
+As large language models (LLMs) continue to evolve, their parameter counts grow exponentially, with some models reaching trillions of parameters. This exponential growth presents significant challenges for deployment on edge devices and in resource-constrained environments due to extensive memory and computational requirements. Quantization emerges as a crucial technique to reduce model footprint while preserving acceptable performance.
+
 ## Understanding quantization
 
 Quantization is a sophisticated model compression technique that transforms weights and activations within a large language model from high-precision to lower-precision values. For instance, converting 32-bit floating-point numbers to 8-bit integers. This transformation yields multiple benefits:

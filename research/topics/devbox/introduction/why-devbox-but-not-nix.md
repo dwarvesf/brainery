@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Devbox vs Nix: why we chose simplicity"
 description: "Discover why Devbox is the smart choice for developers who want Nix's power without the learning curve"
 date: 2024-08-01
@@ -8,7 +8,8 @@ authors:
 tags:
   - devbox
   - nix
-redirect: []
+redirect:
+  - /e1YBYg
 ---
 
 Let's cut to the chase: Devbox is Nix with training wheels, and that's a good thing. Here's why we're all in on Devbox for building killer dev environments.
@@ -52,7 +53,7 @@ Here's where Devbox shines:
 
 3. **No new language required**: Nix has its own programming language. It's powerful, sure, but do you really want to learn a new language just to set up your dev environment? With Devbox, if you can write JSON, you're golden.
 
-## But what about...?
+## But What About...?
 
 You might be thinking, "Sure, but what if I need Nix's advanced features?" Here's the secret: Devbox can tap into those too. Need a custom Nix derivation? Devbox has your back. Want to use Nix Flakes? Go for it.
 

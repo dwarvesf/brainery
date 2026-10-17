@@ -17,6 +17,8 @@ redirect:
   - /9sKTBg
 ---
 
+We serve a single purpose: To empower innovations and co-create the next big things.
+
 ## Driven by purpose
 
 Our journey begins with purpose. Humanity exists today because of four billion years of continuous evolution, from single cells to homo sapiens, through the stone age, bronze age, iron age, medieval period, and into the renaissance. Our civilization and nations were built on production, on creating, on building.

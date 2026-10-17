@@ -1,11 +1,12 @@
 ---
-draft: true
+draft: false
 title: Thinking vs feeling
 description: Learn how Thinkers use logic and efficiency in decision-making while Feelers rely on emotions and compassion to balance work and relationships. Discover key personality traits now.
-date: 2026-08-27
+date: null
 URL: "https://drive.google.com/file/d/1n8ID_iXqzs6cMZlRS0Su7lQUhrfd7khh/view?usp=sharing"
 tag: mbti, preferences
-redirect: []
+redirect:
+  - /Cl9phQ
 ---
 
 Book: My True Type, page 39 - 45

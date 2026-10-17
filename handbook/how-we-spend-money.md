@@ -11,6 +11,8 @@ redirect:
   - /82kKDg
 ---
 
+We do the business to provide engineering capabilities to help customers on their business. A part of the benefits package is the Stock Option Plan, and the money is the sensitive topic in most companies, but we want you to understand so you could commit your best to make Dwarves Foundation a right place to work.
+
 Besides the paycheck that we agreed on the employment contract, the revenue split into a various portion
 
 - Commission is the bonus amount of 10% for the partners, marcomms, and consulting team, who help to bring the deal to the table.

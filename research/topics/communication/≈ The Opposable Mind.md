@@ -1,12 +1,10 @@
 ---
 draft: false
-title: "The Opposable Mind: integrative thinking for complex problems"
+title: ≈ the opposable mind
 description: Discover how successful leaders use integrative thinking to solve complex problems by combining different perspectives and avoiding simple either/or choices for creative solutions.
-date: 2026-08-27
+date: null
 redirect:
   - /e20g1A
-authors:
-  - tieubao
 ---
 
 ## Summary
@@ -19,15 +17,13 @@ The most successful leaders practice what Martin calls "integrative thinking": a
 
 - [[Qualities of an integrative thinker]]
 - [[Put mental models in conversation with one another]]
-- Perspective comprises our stance, our tools, and our experience
+- [Perspective comprises our stance, our tools, and our experience](https://publish.obsidian.md/mobydiction/notes/Perspective+comprises+our+stance%2C+our+tools%2C+and+our+experience)
 
 ### Salience
 
 - [[Salience is subjective]]
-- Specialization narrows our perspective on what is salient to a problem
+- [Specialization narrows our perspective on what is salient to a problem](https://publish.obsidian.md/mobydiction/notes/Specialization+narrows+our+perspective+on+what+is+salient+to+a+problem)
 
 #### Citation
 
 Martin, Roger L. The Opposable Mind: How Successful Leaders Win Through Integrative Thinking. 1st edition. Boston, Mass: Harvard Business Review Press, 2007.
-
-Adapted from David Drysdale's Moby Diction notes.

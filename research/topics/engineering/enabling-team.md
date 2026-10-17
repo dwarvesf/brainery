@@ -1,10 +1,11 @@
 ---
-draft: true
-title: "Enabling teams: how they help stream-aligned teams learn"
+draft: false
+title: Enabling team
 description: Learn how enabling teams support stream-aligned teams by bridging skill gaps, sharing expertise, and improving delivery through collaboration, technical guidance, and knowledge transfer.
 date: 2022-08-15
 github_id: zlatanpham
-redirect: []
+redirect:
+  - /fMa08g
 ---
 
 To succeed in a competitive environment, [[Stream-aligned team | stream-aligned teams]] must continually learn and improve their capabilities. But with constant pressure to deliver and respond to change quickly, how can a stream-aligned team with end-to-end ownership find time to do research, read about new skills, practice them, and then integrate the new knowledge into its service delivery?

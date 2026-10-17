@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Icy salary advance
 description: A short-term credit benefit for full-time peeps.
 date: 2023-11-23
@@ -7,7 +6,8 @@ authors:
   - huynguyenh
 tags:
   - icy
-redirect: []
+redirect:
+  - /97ew7w
 ---
 
 We're launching the first feature from our 2024 roadmap: an \$icy salary advance.

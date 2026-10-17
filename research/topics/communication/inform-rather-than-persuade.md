@@ -1,12 +1,10 @@
 ---
 draft: false
-title: "Evidence communication: inform your audience instead of persuading them"
+title: Inform rather than persuade
 description: Learn how evidence communication promotes honest, transparent sharing of research by presenting uncertainties and conflicts to inform audiences without persuasion or bias.
-date: 2026-08-27
+date: null
 redirect:
   - /cs2sgg
-authors:
-  - tieubao
 ---
 
 Researchers sharing results should strive to inform their audiences rather than persuade them with partisan reporting. The goal should not be to change beliefs, but to provide people with information that they can determine themselves how best to respond to. This means avoiding neat, tidy narratives and focusing instead of honesty and transparency.

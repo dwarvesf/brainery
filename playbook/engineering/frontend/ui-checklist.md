@@ -1,10 +1,12 @@
 ---
-draft: true
-title: Frontend UI checklist
-description: A pre-ship checklist for spacing, responsiveness, states, copy and icons when building or implementing a design.
-date: 2026-08-27
-redirect: []
+title: null
+description: null
+date: null
+redirect:
+  - /3HShrA
 ---
+
+# Ui checklist
 
 Frontend engineering is not just about producing high quality code but also attentive design. Whether you work on a design or transform a design to code, make sure the below checklist is done before you ship.
 
@@ -18,22 +20,10 @@ Frontend engineering is not just about producing high quality code but also atte
 - Are empty states accounted for?
 - Are error states accounted for?
 - Are loading states accounted for?
-- Are we using correct [writing styles](https://material.io/design/communication/writing.html#principles 'https://material.io/design/communication/writing.html#principles') to communicate?
-- Are existing patterns being used for similar actions/items? _(e.g. text link vs. secondary button, back arrow vs. back link, tooltip vs. exposed helper copy)_
+- Are we using correct [writing styles](https://material.io/design/communication/writing.html#principles "https://material.io/design/communication/writing.html#principles") to communicate?
+- Are existing patterns being used for similar actions/items?\
+  _(e.g. text link vs. secondary button, back arrow vs. back link, tooltip vs. exposed helper copy)_
 - Does your icon choice communicate effectively?
-
-## State matrix
-
-For every component that shows data, confirm each state has a design and has been seen in the browser:
-
-| State                  | Check                                                   |
-| ---------------------- | ------------------------------------------------------- |
-| Default                | Matches the design at desktop, tablet and mobile widths |
-| Loading                | Skeleton or spinner, no layout jump when data arrives   |
-| Empty                  | Explains what is missing and what to do next            |
-| Error                  | Says what went wrong and offers a retry or a way out    |
-| Long content           | Truncates or wraps as designed                          |
-| Hover, focus, disabled | Visible, and focus works from the keyboard              |
 
 ## Read on
 

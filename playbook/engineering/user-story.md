@@ -1,14 +1,14 @@
 ---
-title: Agile requirement - user story
-description: How to write agile user stories, with the INVEST test, epics and themes, and common myths.
+title: null
+description: null
 date: null
 redirect:
   - /6v6jrw
-authors:
-  - tieubao
 ---
 
-## What is user story?
+# Agile requirement - user story
+
+## What is User Story?
 
 In the traditional software development method, requirements are noted as a handful of documentations, specifications...
 
@@ -30,32 +30,13 @@ Example:
 
 **Theme**: A collection of features, epics, & stories that describe a broad business purpose.
 
-### Example: from epic to stories
-
-Epic: "Customers can pay for an order online". It is too big for one iteration, so split it into thin vertical slices, each one usable on its own:
-
-- As a **customer**, I want to **pay with a saved card** so that **I do not retype card details**
-- As a **customer**, I want to **receive an email receipt** so that **I have proof of payment**
-- As a **finance officer**, I want to **export paid orders as CSV** so that **I can reconcile them with the bank**
-
-Each story carries acceptance criteria, the conditions that make it done. A common format is Given / When / Then:
-
-```text
-Given a customer with a saved card and a cart worth 50 USD
-When they confirm the payment
-Then the order status becomes "paid"
-And a receipt email is sent within 1 minute
-```
-
-Quick INVEST check on the first story: it does not depend on the receipt story (Independent), the card flow is open to discussion (Negotiable), customers get value (Valuable), the team can size it (Estimable), it fits in one sprint (Small), and the criteria above can be tested (Testable). If a story fails any letter, split or rewrite it.
-
-## What else does user story have?
+## What else does User Story have?
 
 ![](assets/user-story_6513e3c6180031dc47efb8c4a0d05fcf_md5.webp)
 
 Sometimes the User Story will also include the design/wireframe for the screen and other extra information and will be logged as an item in the backlog (Like Trello card, Gitlab issue,...)
 
-## What defines good user story?
+## What defines good User Story?
 
 INVEST is an acronym which encompasses the following concepts which make up a good user story:
 

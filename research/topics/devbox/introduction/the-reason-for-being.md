@@ -1,13 +1,14 @@
 ---
-draft: true
-title: The reason why we use Devbox
+draft: false
+title: The reason for being
 description: The reason why we use Devbox
 date: 2024-08-01
 authors:
   - baenv
 tags:
   - devbox
-redirect: []
+redirect:
+  - /xTopbg
 ---
 
 ## The pursuit of consistency

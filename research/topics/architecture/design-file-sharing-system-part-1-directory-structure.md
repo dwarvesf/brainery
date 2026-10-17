@@ -13,6 +13,8 @@ redirect:
   - /mMud1Q
 ---
 
+This system aims to provide users with the ability to store, access, and share files directly on our website, similar to Google Drive. This system aims to enhance user convenience and collaboration by allowing seamless file management and sharing capabilities.
+
 ![File Sharing System](assets/design-file-sharing-system_1.webp)
 
 ## Overview

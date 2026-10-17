@@ -1,10 +1,8 @@
 ---
 draft: false
-title: "Building a design system that unites teams and speeds up design work"
+title: Design system
 description: Learn how to create a design system that unites teams, speeds up design workflows, and improves product quality with reusable components, visual language, design tokens, and UI libraries.
 date: 2018-03-23
-authors:
-  - tieubao
 tags:
   - design
 redirect:
@@ -144,7 +142,7 @@ The workflow of design tokens would look like:
 
 Currently, the only way to create a design tokens is by using [Theo](https://github.com/salesforce-ux/theo), it made by Salesforce. What Theo does is simple: it takes as input a tech agnostic file format like JSON or YAML and outputs tech specific files for each platforms.
 
-### 7. UI library (pattern library)
+### 7. UI Library (Pattern Library)
 
 After you complete the inventory, you can merge and remove what you don’t need (either in a spreadsheet or even directly in a code refactor if you want more immediate change). Also, document what the component is and when to use it. This will become your UI library (or pattern library, or component library, depending on what your organization chooses to call it.).
 

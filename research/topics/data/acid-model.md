@@ -1,13 +1,11 @@
 ---
 draft: false
-title: "The ACID model for reliable database transactions"
+title: Acid model
 description: Learn how the ACID model ensures database transaction reliability with atomicity, consistency, isolation, and durability for accurate, secure, and concurrent data management in ACID-compliant systems.
 date: 2022-04-18
 github_id: monotykamary
 redirect:
   - /HWltPQ
-authors:
-  - monotykamary
 ---
 
 ## What is the ACID model?

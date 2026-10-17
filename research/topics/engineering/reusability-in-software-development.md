@@ -1,10 +1,8 @@
 ---
 draft: false
-title: "Reusability in software development: components, frameworks and product lines"
+title: Reusability in software development
 description: Learn how software reuse strategies, including component reuse, frameworks, and product lines, speed development, cut costs, and improve quality while facing challenges like maintenance and tool support.
 date: 2020-05-05
-authors:
-  - tieubao
 tags:
   - engineering
 redirect:

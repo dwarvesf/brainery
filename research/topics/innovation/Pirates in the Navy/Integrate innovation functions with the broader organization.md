@@ -1,10 +1,8 @@
 ---
 draft: false
-title: "Integrate innovation functions with the broader organization (reading note)"
-description: "Organizations need to consider how innovation fits into their org chart, including defining clear career paths for innovators."
-date: 2026-08-27
-authors:
-  - tieubao
+title: null
+description: null
+date: null
 tags:
   - innovation
   - organization
@@ -37,5 +35,3 @@ The tools of innovation, adopted from agile development, new business models, le
 #### Reference
 
 Gupta, Sunil. _Driving Digital Strategy: A Guide to Reimagining Your Business_. Boston, Massachusetts: Harvard Business Review Press, 2018.
-
-Adapted from David Drysdale's Moby Diction notes.

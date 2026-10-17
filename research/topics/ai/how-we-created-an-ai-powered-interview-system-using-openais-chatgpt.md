@@ -3,8 +3,6 @@ draft: false
 title: "How we created an AI powered interview system using OpenAI's ChatGPT"
 description: Discover InterviewGPT, an AI-powered ChatGPT system that automates technical interviews by generating tailored questions and evaluating answers for engineers at all experience levels.
 date: 2023-05-29
-authors:
-  - tieubao
 tags:
   - ai
   - llm

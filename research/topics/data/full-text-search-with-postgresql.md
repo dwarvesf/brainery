@@ -1,13 +1,11 @@
 ---
 draft: false
-title: "Full-text search in PostgreSQL with GIN indexes"
+title: Full text search with postgresql
 description: Learn how to boost PostgreSQL search performance using full-text search with GIN indexes, stop words, and custom configurations for faster and flexible text queries on large datasets.
 date: 2022-07-12
 github_id: nnhuyhoang
 redirect:
   - /7UoOww
-authors:
-  - nnhuyhoang
 ---
 
 ## What is Full-text search?

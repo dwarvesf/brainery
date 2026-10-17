@@ -1,12 +1,13 @@
 ---
-draft: true
-title: "The Hook Model (reading note)"
-description: "A four-phase process that companies use to form user's habit."
-date: 2026-08-27
+draft: false
+title: null
+description: null
+date: null
 tags:
   - habit-forming
   - product
-redirect: []
+redirect:
+  - /HBM2xg
 ---
 
 ## Definition

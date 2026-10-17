@@ -12,6 +12,8 @@ redirect:
   - /MSHTyQ
 ---
 
+Working with Large Language Models (LLMs) may seem straightforward at first glance. Initially, we might think that simply prompting the AI model with a task is sufficient for it to assist us. However, when faced with more complex tasks, we need to break down the problem into smaller sub-tasks and guide the AI model to solve them sequentially. This is where the ReAct approach comes into play.
+
 ## Introduction
 
 ReAct(Reason + Act) is a paradigm that enables Large Language Models (LLMs) to solve complex tasks through natural language reasoning and actions. It allows an LLM to perform certain actions, such as retrieving external information, and then reason based on the retrieved data. It leveages the power of Chain-of-Thought (CoT) prompting to break down complex tasks into manageable steps. However, they have a difference when CoT just only reasoning step by step in its own knowledge, ReAct also allows the model to interact with external tools or APIs to retrieve additional information, and then observe the result in each step to make decisions.

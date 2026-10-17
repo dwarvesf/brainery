@@ -1,6 +1,5 @@
 ---
-draft: true
-title: New year day email template
+title: New year day
 description: "The email template that you need to send to client when it's near holiday to announce about the absence."
 date: 2020-01-01
 authors:
@@ -10,7 +9,8 @@ tags:
   - email
   - operation
   - template
-redirect: []
+redirect:
+  - /iC8nTA
 ---
 
 **Title**: Dwarves Foundation - Holiday Announcement

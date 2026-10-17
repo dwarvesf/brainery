@@ -1,10 +1,8 @@
 ---
 draft: false
-title: "The broker pattern in distributed systems: decoupling clients and servers"
+title: Overview on broker pattern in distributed system
 description: Learn how the broker pattern structures distributed systems by decoupling clients and servers, enabling scalable communication through proxies and brokers for dynamic, independent agent interaction.
 date: 2019-08-24
-authors:
-  - tieubao
 tags:
   - distributed
 redirect:

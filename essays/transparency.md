@@ -1,9 +1,7 @@
 ---
-title: "Transparency inside a company: validate the idea, then open-source the news"
+title: Transparency
 description: The essence of transparency within a company
 date: 2020-05-27
-authors:
-  - tieubao
 tags:
   - culture
   - transparency

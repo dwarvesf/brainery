@@ -1,14 +1,12 @@
 ---
 draft: false
-title: "Real-time highest and lowest symbol prices with Binance WebSocket"
+title: Update highest and lowest symbol prices in real time
 description: Learn how to update highest and lowest symbol prices in real-time using Binance WebSocket and in-memory caching to reduce database load and improve price peak tracking efficiency.
 date: 2023-06-07
 github_id: thminhVN
 icy: 10
 redirect:
   - /F7f7pg
-authors:
-  - thminhVN
 ---
 
 ## Introduction

@@ -1,13 +1,11 @@
 ---
 draft: false
-title: "Flutter widgets: stateless versus stateful"
+title: Stateless and stateful widgets in Flutter
 description: Learn the key differences between stateless and stateful widgets in Flutter, including how each manages UI state and when to use them for dynamic or static app interfaces.
 date: 2022-09-12
 github_id: knguyenuit
 redirect:
   - /XhWuWg
-authors:
-  - knguyenuit
 ---
 
 ## State
@@ -108,7 +106,7 @@ The `_MyAppState` class will override the `Widget build(BuildContext context)` m
 
 `StatefulWidget` provides the `setState()` method so you can change the State of the class. Simply put, when you want to Update UI of StatefulWidget, you need to call setState() method to notify StatefulWidget that I want you to update UI. Of course you can call `setState()` as many times as you need to change the UI during the life of your app.
 
-## Differences between Stateless and Stateful Widget:
+## Differences Between Stateless and Stateful Widget:
 
 **Stateless widget:**
 

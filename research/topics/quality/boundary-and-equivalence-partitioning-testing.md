@@ -1,14 +1,12 @@
 ---
 draft: false
-title: "Boundary and equivalence partitioning in testing"
+title: Boundary and equivalence partitioning testing
 description: Learn how equivalence partitioning and boundary value analysis reduce test cases while ensuring full functional testing coverage for software input ranges and boundary conditions.
 date: 2022-11-22
 github_id: binhle59
 icy: 10
 redirect:
   - /OuwGbg
-authors:
-  - binhle59
 ---
 
 ## Overview
@@ -88,5 +86,5 @@ The hypothesis behind this technique is that if one condition/value in a partiti
 
 ## Reference
 
-- [ISTQB exam questions on Equivalence Partitioning and Boundary value analysis](https://www.softwaretestinghelp.com/istqb-exam-questions-equivalence-partitioning-boundary-value-analysis/)
+- [ISTQB Exam Questions On Equivalence Partitioning And Boundary value analysis](https://www.softwaretestinghelp.com/istqb-exam-questions-equivalence-partitioning-boundary-value-analysis/)
 - [Functional testing guide](https://www.softwaretestinghelp.com/guide-to-functional-testing/)

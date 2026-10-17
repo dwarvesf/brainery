@@ -15,6 +15,8 @@ redirect:
   - /ll5yWg
 ---
 
+Structured Query Language (SQL) is widely used for managing data in relational database management systems (RDBMS). In the context of SQL, the optimization of database queries forms the foundation for efficient data retrieval, providing quicker response times and increasing overall database performance. One key strategy to optimize SQL queries involves the concept of "Sargable" queries.
+
 "Sargable" is derived from "Search ARGument ABLE," signifying that a query can successfully utilize indexes for efficient execution. It is a term that was initially introduced in a 1979 research paper titled "Access Path Selection in a Relational Database Management System" authored by P. Griffiths Selinger et al. (DBA.StackExchange.com). The fundamental idea behind sargable queries is geared towards forming SQL statements that allow the query execution engine to make the best use of indexes whenever available.
 
 ## Sargable vs. non-sargable queries

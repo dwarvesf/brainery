@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Devbox services: tame your daemons with process-compose"
 description: Discover how Devbox Services uses process-compose to wrangle your daemon applications without the container overhead
 date: 2024-08-01
@@ -7,7 +7,8 @@ authors:
   - baenv
 tags:
   - devbox
-redirect: []
+redirect:
+  - /mGnQEQ
 ---
 
 Ever wished you could manage your development services as easily as with Docker Compose, but without all the Docker baggage? Say hello to Devbox Services, powered by process-compose.

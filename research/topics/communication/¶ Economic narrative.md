@@ -1,10 +1,8 @@
 ---
 draft: false
-title: "Economic narrative (reading note)"
-description: "An \"economic narrative\" is a contagious story that has the potential to change how people make economic decisions, such as how, why, and where to invest; how much to spend and to save; and whether to buy a home or take a certain job."
-date: 2026-08-27
-authors:
-  - tieubao
+title: null
+description: null
+date: null
 tags:
   - story-telling
   - writing
@@ -37,10 +35,8 @@ As Shiller puts it, "new contagious narratives cause economic events, and econom
 - [[Narratives generate real-world effects]]
 - [[Metaphors structure our interpretation of the world]]
 - [[¶ Economic narrative]]
-- Writing
+- [[§ Writing]]
 
 #### Reference
 
 Shiller, Robert J. _Narrative Economics: How Stories Go Viral and Drive Major Economic Events_. Princeton: Princeton University Press, 2019.
-
-Adapted from David Drysdale's Moby Diction notes.

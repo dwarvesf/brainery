@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Ditch the containers: go containerless with Devbox"
 description: "Build a lean, mean Golang backend without the container bloat. Here's how."
 date: 2024-08-01
@@ -7,7 +7,8 @@ authors:
   - baenv
 tags:
   - devbox
-redirect: []
+redirect:
+  - /SATGoQ
 ---
 
 Containers are great, but sometimes they're overkill. With Devbox Services and Plugins, you can create a sleek, containerless environment for local development. Let's build a Golang backend to show you how it's done.

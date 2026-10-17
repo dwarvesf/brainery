@@ -1,11 +1,12 @@
 ---
-draft: true
-title: Introverted feeling (Fi)
+draft: false
+title: Introverted Feeling (Fi)
 description: Discover the IFP personality type known for deep personal values, emotional sensitivity, and caring nature, common in INFPs and ISFPs who champion justice and individuality.
-date: 2026-08-27
+date: null
 URL: "https://drive.google.com/file/d/1n8ID_iXqzs6cMZlRS0Su7lQUhrfd7khh/view?usp=sharing"
 tag: function, mbti
-redirect: []
+redirect:
+  - /w04moQ
 ---
 
 Book: My True Type, page 102 - 108

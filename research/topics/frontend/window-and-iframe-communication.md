@@ -14,6 +14,8 @@ redirect:
   - /2bwh6Q
 ---
 
+When working with web development, communicating between a main window and an embedded iframe is often necessary for various tasks, such as content creation or widget implementation. This communication can occur between windows and iframes with the same origin or across different origins.
+
 ## Same origin communication
 
 "Same origin" refers to the scenario where two URLs have the same protocol, domain, and port. For instance, the following URLs have the same origin:

@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Offboarding
 description: The process when an employee offboard from the team.
 date: 2024-08-19
@@ -11,7 +10,8 @@ tags:
   - checklist
   - operation
   - people
-redirect: []
+redirect:
+  - /M7Kgvg
 ---
 
 ## Objectives
