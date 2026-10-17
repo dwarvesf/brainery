@@ -1,11 +1,10 @@
 ---
-draft: false
-title: Entities in domain driven design
+draft: true
+title: "Entities in domain-driven design: identity and thread of continuity"
 description: Learn how Domain-Driven Design (DDD) uses entity identity and continuity to improve software by linking developers and domain experts for better system maintenance and scalability.
 date: 2022-03-28
 github_id: R-Jim
-redirect:
-  - /DB2iSA
+redirect: []
 ---
 
 ## Recap on DDD
