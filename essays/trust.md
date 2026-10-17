@@ -60,7 +60,7 @@ The usual advice is to keep what leaders tell you out of the public channel. Don
 
 A quieter failure is a secret in a log. On 3 September 2026 an upstream error made two of our workers fail for 40 minutes. One of them carried our live provider API key inside its error message, and every log line and rethrow after it published that message, three or four times over. It was the third incident of that class in five weeks. A person reading a census of the logs found the leak. A scanner didn't. The production deploy of the redaction fix started at 01:47 the next morning, and the key was rotated at 09:19 that day. No misuse turned up.
 
-What I weigh in a case like that is the report. It states the blast radius, says that rotation was still pending when it was filed, and says a person caught what the tooling missed. Confidential doesn't mean quiet. A person who files the full account promptly earns more trust than one whose record stays clean because nobody looked.
+What I weigh in a case like that is the report. It states the blast radius, says that rotation was still pending when it was filed, and says a person caught what the tooling missed. A person who files the full account promptly earns more trust than one whose record stays clean because nobody looked.
 
 ## Trust in a report works the same way
 
