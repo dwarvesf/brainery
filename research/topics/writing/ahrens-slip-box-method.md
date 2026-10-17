@@ -2,7 +2,7 @@
 title: Ahrens on the slip box, from atomic notes to writing from the bottom up
 description: Reading notes on the book How to Take Smart Notes by Sönke Ahrens, covering atomic notes, connection, rewriting in your own words, flexible systems and writing that starts from the notes you already have.
 slug: smart-notes-slip-box
-kind: essay
+kind: reference
 date: 2026-10-18
 authors:
   - tieubao

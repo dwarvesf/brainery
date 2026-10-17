@@ -2,7 +2,7 @@
 title: "The Hook Model and AARRR: reading notes on Nir Eyal's Hooked"
 description: "Reading notes on Nir Eyal's Hooked: the four phases of the Hook Model, six checks for a habit-forming product, and how the Hook Model compares with the AARRR funnel."
 slug: hook-model-and-habit-forming-products
-kind: essay
+kind: reference
 date: 2026-10-18
 authors:
   - tieubao
