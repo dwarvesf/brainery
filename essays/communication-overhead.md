@@ -43,7 +43,7 @@ I rarely write these briefs myself. My sessions held 2,701 typed messages in thi
 
 Figure 1 splits the 3,016 briefs into thirds by length. The shortest third, up to 209 words, ran a median 3.2 minutes and 7.0% needed a follow-up. The longest third, 377 words or more, ran 13.7 minutes and 23.8% needed one.
 
-Bigger tasks need longer briefs, so the figure shows a correlation and no cost of length. I still use it as a smell: when a brief runs past roughly 375 words, I check whether it holds two tasks. <!-- confirm: the 375-word check is my reading of the data, not a tested rule -->
+Bigger tasks need longer briefs, so the figure shows a correlation and no cost of length. I still use it as a smell: when a brief runs past roughly 375 words, I check whether it holds two tasks.
 
 ![How long 3,016 delegations ran {#fig-runs}](assets/communication-overhead-fig2-runs.svg 'Run time per agent, first to last event. Most runs finish within ten minutes.')
 
@@ -98,7 +98,7 @@ By week the pattern held steady, with 11.6% to 16.1% of agents needing a follow-
 ## Limits
 
 - **No review time.** The log shows when an agent finished. It doesn't show how long I spent reading its result, and that's the phase where fast and wrong cost me most.
-- **No human baseline.** I did not time 20 delegations to people. A fair comparison needs that log. <!-- needs Han: if you want the people-versus-agents comparison, a log of about 20 delegations to people over one month, with brief minutes, execution, review and rework -->
+- **No human baseline.** I did not time 20 delegations to people. A fair comparison needs that log.
 - **24 days.** My session logs start on 24 September, so this window is one stretch of work, including large fan-out batches. The week of 28 September alone holds 1,548 agents.
 - **Follow-ups undercount rework.** I sometimes dispatch a fresh agent instead of messaging the old one, and the log can't tell a redo from a new task.
 
@@ -110,4 +110,4 @@ By week the pattern held steady, with 11.6% to 16.1% of agents needing a follow-
 4. A follow-up is a later message from the parent session addressed to that agent's id.
 5. Count only agents your session launched directly.
 
-`session observe subagents --days 30` prints spawns per day and the agent-type mix. The medians above come from a short script over the same files. The script isn't public, and the five steps rebuild it. <!-- confirm: public status of the session reader and the script -->
+`session observe subagents --days 30` prints spawns per day and the agent-type mix. The medians above come from a short script over the same files. The script isn't public, and the five steps rebuild it.

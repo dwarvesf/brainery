@@ -26,7 +26,7 @@ redirect:
 slug: trust
 ---
 
-When production breaks at 2 a.m., leadership calls a short list of engineers first. Nobody appointed them and nobody published the list. This page describes how people get on it, what it costs them, and what takes a name off. <!-- needs Han: the opening incident, anonymised, in one line: "When [incident] hit at [time], we called [N] people. Nobody had appointed them." -->
+When production breaks at 2 a.m., leadership calls a short list of engineers first. Nobody appointed them and nobody published the list. This page describes how people get on it, what it costs them, and what takes a name off.
 
 ![Three circles of trust, from your team to the company {#fig-circles .live}](assets/trust-fig1-circles.svg 'Trust reaches outward in three circles. Amber marks the circle people are called from.')
 
@@ -48,7 +48,7 @@ Members take the first call in a crisis, whether it's an outage, a client proble
 
 The price is real. Their work gets scrutinised more closely, so mistakes cost more. They take the assignments others can't or won't handle, which means longer hours and harder problems. They have less say in which project they work on, because the company points them at its highest priorities. And they stay reachable during a crisis, whatever the day.
 
-An earlier version of this page said membership has no set criteria, then listed duties and costs, which are criteria. The criterion is visible in the list: the person kept shipping and kept being right about technical facts. Nobody is invited. A person gets called, and the calls repeat. <!-- needs Han: the entry trail, anonymised: for N people who entered, what each did and how long it took, plus one who left the circle -->
+An earlier version of this page said membership has no set criteria, then listed duties and costs, which are criteria. The criterion is visible in the list: the person kept shipping and kept being right about technical facts. Nobody is invited. A person gets called, and the calls repeat.
 
 ## The last piece of work counts most
 
@@ -70,7 +70,7 @@ An alert-triage bot of ours once posted a verdict that proved right, with two fa
 
 ## When trust breaks
 
-It rarely ends in a confrontation. You stop getting the direct questions. You aren't in the early planning discussions, and you aren't top of mind for high-visibility work. The relationship quietly ends. The cause is practical: if leadership can't rely on your judgment, they find someone they can. If you say something is impossible and it turns out to be doable, or you promise that something works and it doesn't, leaders can't check the details themselves, so they watch for signs your judgment is sound. <!-- needs Han: one anonymised case where trust broke and what the person lost -->
+It rarely ends in a confrontation. You stop getting the direct questions. You aren't in the early planning discussions, and you aren't top of mind for high-visibility work. The relationship quietly ends. The cause is practical: if leadership can't rely on your judgment, they find someone they can. If you say something is impossible and it turns out to be doable, or you promise that something works and it doesn't, leaders can't check the details themselves, so they watch for signs your judgment is sound.
 
 Remote work adds friction. Without a shared office, visibility stands in for trust: share progress before anyone asks, write your decisions down, answer within a reasonable time across time zones, and show up in cross-team discussions where your judgment can be seen.
 

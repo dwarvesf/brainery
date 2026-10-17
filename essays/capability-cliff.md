@@ -1,6 +1,6 @@
 ---
 title: We stopped testing engineers on speed
-description: Dwarves cut the weight of timed algorithm problems in its technical interview from 60% to 15%. The dates, the new hour, and the result we cannot show yet.
+description: Dwarves cut the weight of timed algorithm problems in its technical interview from 60% to 15%. The dates, the weights, and the new hour.
 date: 2026-10-18
 authors:
   - tieubao
@@ -21,9 +21,9 @@ redirect:
 slug: capability-cliff
 ---
 
-Until February 2026 our technical interview scored engineers on how fast they solved algorithm problems. The problems ran 40 minutes under time pressure and carried 60% of the score. Then we rewrote the hour. The candidate now works a realistic problem with AI tools switched on, and raw coding is 15% of the score. <!-- confirm: the new format replaced the old one; the plan is dated February 2026 and the week-6 checkpoint outcome is not in the record -->
+Until February 2026 our technical interview scored engineers on how fast they solved algorithm problems. The problems ran 40 minutes under time pressure and carried 60% of the score. Then we rewrote the hour. The candidate now works a realistic problem with AI tools switched on, and raw coding is 15% of the score.
 
-This page gives the dates, the weights, and the one number I can't give you yet: whether the new hour picks better people.
+This page gives the dates, the weights, and what the new hour tests. It reports no hiring outcomes.
 
 ![Three ways a problem gets solved as time passes {#fig-cliff}](assets/capability-cliff-fig1-slope-cliff.svg 'Schematic, not measured data.')
 
@@ -43,13 +43,13 @@ At 09:06 pinning the Mini to a public resolver brought that one machine back. Th
 
 That night I was missing one idea: a resolver can reject answers its upstream serves correctly. Resets don't test that idea, so more resets never got me closer.
 
-That's one night, and I wouldn't build a hiring theory on it. It does bear on a claim I disagree with. Goedecke writes that someone great at one of the capabilities he lists, such as solving very difficult bugs, is likely to be great at most of the others. My night says capability is lumpier. I run this infrastructure myself and still spent a night on the wrong layer. A loop that ranks people on a single axis misses that lumpiness in both directions. <!-- confirm: first-person account of the outage; the 22:20 entry is the first comparison in the written record, not proof that nobody ran it earlier -->
+That's one night, and I wouldn't build a hiring theory on it. It does bear on a claim I disagree with. Goedecke writes that someone great at one of the capabilities he lists, such as solving very difficult bugs, is likely to be great at most of the others. My night says capability is lumpier. I run this infrastructure myself and still spent a night on the wrong layer. A loop that ranks people on a single axis misses that lumpiness in both directions.
 
 ## What the old loop measured
 
 In March 2022 we published the shape of our loop: a 20-minute form, a 30-minute phone screen and a one-hour technical interview, 1 hour 50 minutes in all. Tech capability was the north star, and other engineers sat in the interview beside the hiring manager. We also wrote that an interview should never leave a candidate feeling they are begging for a job.
 
-A hiring note from February 2026 described the technical hour as 40 minutes of algorithm problems under time pressure, with 60% of the score on them. Its verdict was that this format measures the skill agents are replacing. <!-- confirm: the 40 minutes and 60% describe practice before February 2026, per the note; the split of the other 40% is not recorded -->
+A hiring note from February 2026 described the technical hour as 40 minutes of algorithm problems under time pressure, with 60% of the score on them. Its verdict was that this format measures the skill agents are replacing.
 
 ## The loop, then and now
 
@@ -79,12 +79,8 @@ I dropped two things from the June 2025 pages. The strong, regular and weak labe
 
 ## Where this is wrong
 
-**No outcome data.** I can't show that the new hour picks better people. The February plan set a checkpoint at week 6: did the new scoring pick different candidates from the puzzle, and did those hires get better client feedback? That answer isn't on this page yet. <!-- needs Han: week-6 checkpoint result, interview funnel before and after, probation outcomes as aggregates, and the date the old format was retired -->
+**No outcome data.** I can't show that the new hour picks better people. This page reports no hiring outcomes from either format.
 
 **Tool fluency became a filter.** The guide classifies a candidate who avoids AI tools as "AI resistant" and calls that a red flag for 2026 placements unless they show willingness to learn. We swapped one filter for another. The bet is that the new one tracks the work clients pay for, and we haven't tested the bet.
 
 **Interviewers vary.** Section A depends on the interviewer noticing the edge case the model missed. Two interviewers can score the same hour differently, and we haven't measured how much.
-
-**One counter-case is missing.** I don't have a clean story of someone we misjudged under either format. <!-- needs Han: a person you misjudged, anonymised -->
-
-The next measure is a table with one row per hire since February: the section scores at interview and the client feedback at 90 days. That table is what this page should carry. <!-- confirm: next measure -->
