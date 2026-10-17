@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Technical recruiter
 description: "The ideal candidate will play a pivotal role in sourcing, attracting, and hiring top-tier talents and take care of our team members' growth."
 date: 2023-12-15
@@ -7,8 +8,6 @@ authors:
   - tranthiaivi266
 tags:
   - career
-redirect:
-  - /sCe5Bg
 ---
 
 ## We're looking for a Technical recruiter to join Dwarves and work remotely

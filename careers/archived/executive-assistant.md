@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Executive assistant
 description: We are seeking a highly organized, proactive, and experienced Executive assistant to provide support to our senior executives. The ideal candidates will be responsible for identifying new business opportunities, fostering strong client relationships, and driving growth by promoting our services to potential clients globally.
 date: 2023-12-15
@@ -7,8 +8,6 @@ authors:
   - tranthiaivi266
 tags:
   - career
-redirect:
-  - /Sr1kJg
 ---
 
 ## We're looking for an Executive assistant to join Dwarves and work remotely

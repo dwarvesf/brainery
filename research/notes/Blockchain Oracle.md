@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: null
 description: null
 date: null
@@ -7,8 +7,6 @@ author: Vy Tran Khac
 tags:
   - blockchain
   - engineering
-redirect:
-  - /Y7zXkg
 ---
 
 ## The blockchain oracle problem

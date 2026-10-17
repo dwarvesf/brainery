@@ -9,6 +9,8 @@ tags:
   - zettelkasten
 redirect:
   - /3GLlQQ
+  - /research/topics/zettelkasten/how-to-take-smart-notes/read-broadly-with-purpose
+  - /S6xH3w
 ---
 
 Read (and consume any information) with purpose: approaching a text with intention can help focus our attention on the most important information. Read looking for connections with information you have already processed, and look explicitly for limitations, elisions, and contradictions.
