@@ -3,6 +3,8 @@ draft: false
 title: "Strength of weak ties (reading note)"
 description: "Weak ties are strong."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - innovation
 redirect:

@@ -1,8 +1,10 @@
 ---
 draft: false
-title: Design better mobile application
+title: "Designing a better mobile application: iOS and Android differences for designers"
 description: Explore key differences between iOS and Android operating systems for UX/UI designers, including performance, development, privacy, and app platforms to create better mobile applications.
 date: 2020-05-01
+authors:
+  - tieubao
 tags:
   - design
 redirect:

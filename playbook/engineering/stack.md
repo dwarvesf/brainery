@@ -4,6 +4,8 @@ description: How we evaluate technology with a tech radar, and the tools, techni
 date: null
 redirect:
   - /h2928Q
+authors:
+  - tieubao
 ---
 
 ### Our perspective on technology

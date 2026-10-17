@@ -1,8 +1,10 @@
 ---
 draft: false
-title: Fabric Hyperledger architecture explanation
+title: "Hyperledger Fabric architecture for permissioned enterprise networks"
 description: "Learn how Hyperledger's open source blockchain frameworks and tools enable secure, permissioned enterprise networks with smart contracts, distributed ledgers, and flexible governance models."
 date: 2019-05-15
+authors:
+  - tieubao
 tags:
   - architecture
   - blockchain

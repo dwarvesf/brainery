@@ -4,6 +4,8 @@ description: Why to write the README before the code, summarized from the Readme
 date: null
 redirect:
   - /wxC4HA
+authors:
+  - tieubao
 ---
 
 ### A perfect implementation of the wrong specification is worthless

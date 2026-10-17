@@ -1,11 +1,13 @@
 ---
 draft: false
-title: How one product team works when having incident
+title: "How a product team handles customer-reported incidents"
 description: Learn two effective ways to handle customer-reported software incidents, including using an engineering support SWAT team and creating incident channels for faster communication and resolution.
 date: 2022-10-15
 github_id: nhuthm
 redirect:
   - /hUWRqw
+authors:
+  - tieubao
 ---
 
 _The following entry is from the thoughts, compositions, and conclusions from field work by one of our leads._

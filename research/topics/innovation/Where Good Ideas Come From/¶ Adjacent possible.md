@@ -3,6 +3,8 @@ draft: false
 title: "Adjacent possible (reading note)"
 description: "The \"adjacent possible\" describes the open space of direction that the future may take—the realm of the possible that is available at a given moment."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - innovation
 redirect:

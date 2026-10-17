@@ -4,6 +4,8 @@ description: How to write agile user stories, with the INVEST test, epics and th
 date: null
 redirect:
   - /6v6jrw
+authors:
+  - tieubao
 ---
 
 ## What is user story?

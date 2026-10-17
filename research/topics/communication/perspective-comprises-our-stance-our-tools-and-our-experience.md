@@ -1,10 +1,12 @@
 ---
 draft: false
-title: Perspective comprises our stance our tools and our experience
+title: "Perspective as the mix of our stance, our tools and our experience"
 description: Learn how perspective is shaped by the interaction of stance, tools, and experience to better understand and approach complex problems effectively.
-date: null
+date: 2026-08-27
 redirect:
   - /zR3teQ
+authors:
+  - tieubao
 ---
 
 According to Roger Martin, perspective on a given issue is formed by the interaction between three things: our **stance**, our **tools**, and our **experience**.

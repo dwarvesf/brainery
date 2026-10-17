@@ -4,6 +4,8 @@ description: Best practices for iOS development, from project setup and architec
 date: null
 redirect:
   - /Fzxk4w
+authors:
+  - tieubao
 ---
 
 Avoid reinventing the wheel by following these guidelines.

@@ -3,6 +3,8 @@ draft: false
 title: "Constellation (reading note)"
 description: "According to Robert Shiller, large-scale economic narratives may comprise many other, smaller narratives."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - communication
   - innovation

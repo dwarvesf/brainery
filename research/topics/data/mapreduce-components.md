@@ -1,11 +1,13 @@
 ---
 draft: false
-title: Mapreduce components
+title: "MapReduce components: finding maximum closing prices with map, shuffle and reduce"
 description: Learn how MapReduce processes large stock data to find maximum closing prices using map, shuffle, reduce phases, input splits, and optional combiners for efficient distributed computing and performance.
 date: 2022-10-24
 github_id: dudaka
 redirect:
   - /jOA1wMc
+authors:
+  - tieubao
 ---
 
 ## Introduction

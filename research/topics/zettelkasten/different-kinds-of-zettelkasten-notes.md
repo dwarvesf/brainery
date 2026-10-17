@@ -5,6 +5,8 @@ description: Learn how the Zettelkasten method uses fleeting, permanent, and pro
 date: 2026-08-27
 redirect:
   - /HNhMPw
+authors:
+  - tieubao
 ---
 
 In the Zettelkasten method as described by Ahrens in How to Take Smart Notes, there are three kinds of notes:

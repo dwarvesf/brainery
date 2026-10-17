@@ -1,12 +1,14 @@
 ---
 draft: false
-title: Solid principles
+title: "SOLID principles for clean and maintainable object-oriented code"
 description: Learn the SOLID principles of object-oriented design to create clean, maintainable, and flexible code with key concepts like Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion.
 date: 2023-04-20
 github_id: nguyend-nam
 icy: 10
 redirect:
   - /Pqjh0A
+authors:
+  - tieubao
 ---
 
 ## What & Why?

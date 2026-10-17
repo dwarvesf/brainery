@@ -4,6 +4,8 @@ description: How the team picks a code editor, why to learn keybindings, and why
 date: null
 redirect:
   - /I53IiA
+authors:
+  - tieubao
 ---
 
 Right now our team is scattered between VSCode and Emacs (Spacemacs).

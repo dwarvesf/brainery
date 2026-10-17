@@ -1,12 +1,14 @@
 ---
 draft: false
-title: Redis streaming
+title: "Redis streaming for event sourcing and messaging"
 description: Learn how to use Redis Streaming for event sourcing and messaging with Docker setup, stream publishing, reading, consumer groups, and message claiming in Redis key-value database.
 date: 2023-04-21
 github_id: R-Jim
 icy: 10
 redirect:
   - /9zPIWA
+authors:
+  - tieubao
 ---
 
 ## What is Redis

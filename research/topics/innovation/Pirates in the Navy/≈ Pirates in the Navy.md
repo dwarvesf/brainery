@@ -3,6 +3,8 @@ draft: false
 title: "Pirates in the Navy (reading note)"
 description: "Innovation within established organizations goes very differently than innovation in start-ups."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - innovation
 redirect:

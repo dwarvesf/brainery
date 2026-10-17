@@ -1,12 +1,14 @@
 ---
 draft: false
-title: Test cases breakdown structure
+title: "A test case breakdown structure for manual and automated tests"
 description: Learn how to manage manual and automated test cases in one documentation using clear naming, separating functional and non-functional tests, and updating early for efficient software testing.
 date: 2022-12-12
 github_id: binhle59
 icy: 10
 redirect:
   - /WCosNQ
+authors:
+  - tieubao
 ---
 
 ## Note

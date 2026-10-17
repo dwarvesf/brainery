@@ -1,11 +1,13 @@
 ---
 draft: false
-title: Hadoop distributed file system hdfs
+title: "The Hadoop Distributed File System: block storage and fault tolerance"
 description: Learn why Hadoop Distributed File system HDFS is essential for big data, enabling block-based storage, fault tolerance through replication, and scalable distributed file management across clusters.
 date: 2022-06-15
 github_id: dudaka
 redirect:
   - /unxtGQ
+authors:
+  - tieubao
 ---
 
 ## HDFS - Why Another FileSystem?

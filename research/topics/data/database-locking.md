@@ -1,12 +1,14 @@
 ---
 draft: false
-title: Database locking
+title: "Database locking in PostgreSQL: explicit locks for concurrency control"
 description: Learn how explicit locking techniques in PostgreSQL help manage concurrency control and prevent data conflicts in high workload databases by using table-level, row-level, and advisory locks effectively.
 date: 2023-04-22
 github_id: vhbien000
 icy: 10
 redirect:
   - /X9ZN9A
+authors:
+  - tieubao
 ---
 
 Some of us had built a game, while others were familiar with e-commerce platforms, dapps, or even all of these types of applications, and more. Each type of software that we were working on needed different techniques, some of which were similar. So the same problem can happen in every software product. In this post, we will discuss an issue in high workload databases together. It is **Concurrency Control**.

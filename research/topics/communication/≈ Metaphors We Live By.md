@@ -3,6 +3,8 @@ draft: false
 title: "Metaphors We Live By (reading note)"
 description: "Metaphors are not simply linguistic flourishes that we use to artfully describe the world around us."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - communication
 redirect:

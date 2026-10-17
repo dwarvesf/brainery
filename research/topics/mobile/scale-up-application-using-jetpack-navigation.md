@@ -1,12 +1,14 @@
 ---
 draft: false
-title: Scale up application using Jetpack navigation
+title: "Scaling up an Android app with Jetpack Navigation"
 description: Learn how to simplify Android app navigation with Jetpack navigation Component, handling fragment transitions, dynamic start destinations, modular flows, and integration with Firebase Analytics.
 date: 2022-11-14
 github_id: truong-dwarvesv
 icy: 10
 redirect:
   - /2ZpwlA
+authors:
+  - tieubao
 ---
 
 In the past, to implement based on fragment navigation, we used `FragmentManager` and `FragmentTransaction` to

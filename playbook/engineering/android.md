@@ -4,6 +4,8 @@ description: Android development practices covering Gradle setup, libraries, app
 date: null
 redirect:
   - /7IUNoA
+authors:
+  - tieubao
 ---
 
 Avoid reinventing the wheel by following these guidelines.

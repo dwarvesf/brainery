@@ -1,8 +1,10 @@
 ---
 draft: false
-title: Federated Byzantine
+title: "Federated Byzantine agreement: Stellar consensus with quorum slices"
 description: "Learn how Stellar's consensus protocol uses trusted validators and quorum slices to prevent Sybil attacks and ensure secure, reliable transactions through federated voting and network trust."
 date: 2019-05-18
+authors:
+  - tieubao
 tags:
   - blockchain
   - distributed

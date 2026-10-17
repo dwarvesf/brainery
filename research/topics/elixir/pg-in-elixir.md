@@ -1,12 +1,14 @@
 ---
 draft: false
-title: Pg in elixir
+title: "Process groups in Elixir with Erlang pg"
 description: "Learn how to use Erlang's pg library for process groups to broadcast messages across clustered Elixir services, enabling scalable WebSocket communication without third-party tools."
 date: 2022-11-01
 github_id: hieuphq
 icy: 10
 redirect:
   - /P02Y6g
+authors:
+  - tieubao
 ---
 
 pg2 is an erlang module that implements **process groups**. Each message may be sent to one, some, or all group members.

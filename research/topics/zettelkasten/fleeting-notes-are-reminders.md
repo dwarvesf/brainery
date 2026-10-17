@@ -5,6 +5,8 @@ description: Fleeting notes are quick reminders taken during reading or thinking
 date: 2026-08-27
 redirect:
   - /UP4Kew
+authors:
+  - tieubao
 ---
 
 "Fleeting notes" as described by Sönke Ahrens, refer to the scraps of notes we (should) habitually take while reading or thinking via some ubiquitous capture method (digital or analog). These are the raw material of ideas. They don't serve much purpose on their own but to act as reminders. Put them in an inbox to be processed later, but not too much later. If there's too much of a delay between capturing the fleeting notes and when we process them, we may forget information we wanted to keep.

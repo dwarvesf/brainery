@@ -1,10 +1,12 @@
 ---
 draft: false
-title: Salience is subjective
+title: "Salience is subjective: Roger Martin on what we notice in a problem"
 description: Learn how Roger Martin explains problem solving by focusing on the most important information shaped by our stance, tools, and experience to improve decision-making and perspective.
-date: null
+date: 2026-08-27
 redirect:
   - /cii1GA
+authors:
+  - tieubao
 ---
 
 Problem solving, Roger Martin writes, involves first identifying the features of a problem that are most important. We can't possibly consider every facet of the challenge ahead, so we must pick and choose what we will care about. We therefore have to assess the salience of available information to the problem at hand.

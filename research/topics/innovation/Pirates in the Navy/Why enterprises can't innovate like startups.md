@@ -3,6 +3,8 @@ draft: false
 title: "Why enterprises can't innovate like startups (reading note)"
 description: "A large organization isn't a startup; nor should it try to act like one."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - enterprise
   - innovation

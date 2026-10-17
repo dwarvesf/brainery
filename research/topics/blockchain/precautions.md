@@ -1,10 +1,12 @@
 ---
 draft: false
-title: Precautions
+title: "Smart contract precautions: circuit breakers, rate limits and speed bumps"
 description: Learn how to prepare smart contracts for failure with techniques like circuit breakers, rate limits, speed bumps, and upgradeability to enhance blockchain security and reduce risks.
-date: null
+date: 2026-08-27
 redirect:
   - /y1jyKw
+authors:
+  - tieubao
 ---
 
 As we discussed in the General Philosophy section, it is not enough to protect yourself against the known attacks. Since the cost of failure on a blockchain can be very high, you must also adapt the way you write software, to account for that risk.

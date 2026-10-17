@@ -1,12 +1,14 @@
 ---
 draft: false
-title: A and cname records in dns
+title: "A and CNAME records in DNS: when to use each"
 description: Learn the key differences between A records and CNAME records in DNS, including their uses for domain mapping, subdomains, and IP address management to optimize your website setup.
 date: 2022-01-06
 github_id: namtrhg
 icy: 10
 redirect:
   - /71LEhQ
+authors:
+  - tieubao
 ---
 
 **A record** and **CNAME** are one of the most common types of records when you want to deploy your `domain` or `subdomain` on the internet.

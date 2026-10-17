@@ -1,12 +1,14 @@
 ---
 draft: false
-title: Self balanced bsts avl trees
+title: "Self-balancing binary search trees: BST and AVL trees"
 description: Learn how trees, especially binary search trees (BST) and AVL trees, organize hierarchical data for fast search, insertion, and deletion with guaranteed balanced height and efficient operations.
 date: 2023-02-13
 github_id: mirageruler
 icy: 10
 redirect:
   - /ndx4Lw
+authors:
+  - tieubao
 ---
 
 ## What are trees?

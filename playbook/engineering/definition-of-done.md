@@ -4,6 +4,8 @@ description: The checklist a story must pass before the team calls it done, for 
 date: null
 redirect:
   - /t42LFg
+authors:
+  - tieubao
 ---
 
 Definition of done also known as **DoD** is a list of criteria which must be met before a product increment (story) is considered "done".

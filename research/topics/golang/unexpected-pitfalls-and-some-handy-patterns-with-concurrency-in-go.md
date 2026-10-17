@@ -1,11 +1,13 @@
 ---
 draft: false
-title: Unexpected pitfalls and some handy patterns with concurrency in go
+title: "Unexpected pitfalls and handy patterns for concurrency in Go"
 description: Learn about common Go concurrency pitfalls and master handy patterns like goroutines, channels, fan-in, timeouts, and replication to build fast, robust concurrent programs with easy-to-use synchronization.
 date: 2022-10-11
 github_id: mirageruler
 redirect:
   - /lV33jg
+authors:
+  - tieubao
 ---
 
 ## Preamble

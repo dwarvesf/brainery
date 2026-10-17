@@ -1,12 +1,14 @@
 ---
 draft: false
-title: Boundary and equivalence partitioning testing
+title: "Boundary and equivalence partitioning in testing"
 description: Learn how equivalence partitioning and boundary value analysis reduce test cases while ensuring full functional testing coverage for software input ranges and boundary conditions.
 date: 2022-11-22
 github_id: binhle59
 icy: 10
 redirect:
   - /OuwGbg
+authors:
+  - tieubao
 ---
 
 ## Overview

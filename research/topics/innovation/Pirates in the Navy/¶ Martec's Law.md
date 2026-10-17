@@ -3,6 +3,8 @@ draft: false
 title: "Martec's Law (reading note)"
 description: "Martec's law describes a conflict between the pace at which technology changes and the pace at which organizations change."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - innovation
   - martec

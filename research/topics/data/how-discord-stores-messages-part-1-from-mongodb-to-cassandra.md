@@ -1,12 +1,14 @@
 ---
 draft: false
-title: How discord stores messages part 1 from mongodb to cassandra
+title: "How Discord stores messages, part 1: from MongoDB to Cassandra"
 description: Learn how Discord migrated from MongoDB to Cassandra for scalable, low-maintenance data storage, handling billions of messages with predictable performance and eventual consistency.
 date: 2023-06-02
 github_id: fuatto
 icy: 10
 redirect:
   - /3SGG8w
+authors:
+  - tieubao
 ---
 
 ## Introduction

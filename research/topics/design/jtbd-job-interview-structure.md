@@ -5,6 +5,8 @@ description: Discover a step-by-step interview guide to uncover customer jobs-to
 date: 2026-08-27
 redirect:
   - /YZVVUg
+authors:
+  - tieubao
 ---
 
 This interview structure can be used to uncover customer jobs-to-be-done.

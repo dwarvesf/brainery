@@ -3,6 +3,8 @@ draft: false
 title: "Ideas are remixes (reading note)"
 description: "In ≈ Where Good Ideas Come From, Steven Johnson cites Robert Darnton's account of how early modern readers in England didn’t simply consume ideas."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - idea
   - innovation

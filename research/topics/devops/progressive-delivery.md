@@ -1,11 +1,13 @@
 ---
 draft: false
-title: Progressive delivery
+title: "Progressive delivery: gradual releases with feature flags and CI/CD"
 description: Progressive delivery lets teams release new software features gradually using feature flags and mature CI/CD pipelines to reduce risks and improve user experience.
 date: 2022-09-25
 github_id: zlatanpham
 redirect:
   - /FdF4Xg
+authors:
+  - tieubao
 ---
 
 Progressive delivery is a modern software development methodology for gradually rolling out new features in order to assess the user response and limit the potential negative impact. With progressive delivery, features are released first to an internal QA team, then to real users in a controlled, measured manner.

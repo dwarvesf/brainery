@@ -1,8 +1,10 @@
 ---
 draft: false
-title: Are we really engineers
+title: "Are we really engineers? The case that software engineering is engineering"
 description: Explore why software engineering is truly engineering, highlighting its use of discrete math, agile methods, professionalism, and unique tools like version control that set it apart yet align it with traditional engineering.
 date: 2021-03-08
+authors:
+  - tieubao
 tags:
   - engineering
 redirect:

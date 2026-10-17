@@ -3,6 +3,8 @@ draft: false
 title: "Innovation theater (reading note)"
 description: "Innovation theater is the creation of shiny workspaces that don't actually produce results."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - innovation
 redirect:

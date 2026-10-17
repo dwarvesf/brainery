@@ -3,6 +3,8 @@ draft: false
 title: "Novel metaphors create novel ways of thinking (reading note)"
 description: "Imaginative or novel metaphors offer new ways of thinking about familiar ideas or concepts."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - communication
   - metaphor

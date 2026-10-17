@@ -4,6 +4,8 @@ description: A pre-release checklist covering git, testing, changelog, dependenc
 date: null
 redirect:
   - /AUqO3Q
+authors:
+  - tieubao
 ---
 
 When you are ready to release, remember to check off everything on your release checklist.
