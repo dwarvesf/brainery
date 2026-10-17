@@ -1,12 +1,12 @@
 ---
-title: Readme driven development
-description: Why to write the README before the code, summarized from the Readme Driven Development essay by Tom Preston-Werner.
+title: null
+description: null
 date: null
 redirect:
   - /wxC4HA
-authors:
-  - tieubao
 ---
+
+# Readme driven development
 
 ### A perfect implementation of the wrong specification is worthless
 
@@ -37,29 +37,5 @@ By writing your Readme first you give yourself some pretty significant advantage
 - It’s a lot simpler to have a discussion based on something written down. It’s easy to talk endlessly and in circles about a problem if nothing is ever put to text. The simple act of writing down a proposed solution means everyone has a concrete idea that can be argued about and iterated upon.
 
 Consider the process of writing the Readme for your project as the true act of creation. This is where all your brilliant ideas should be expressed. This document should stand on its own as a testament to your creativity and expressiveness. The Readme should be the single most important document in your codebase; writing it first is the proper thing to do.
-
-## Example: a README written first
-
-A sketch for a hypothetical CLI, written before any code exists. Writing the Usage section first exposes design questions early (here: what happens with an unknown flag).
-
-````markdown
-# csv-slice
-
-Cut columns out of a CSV file from the command line.
-
-## Usage
-
-```shell
-csv-slice --cols name,email people.csv > out.csv
-```
-
-Prints the selected columns to stdout. An unknown column name exits with code 1 and a message on stderr.
-````
-
-## When to use it and when not
-
-- **Use it** for libraries, services and internal tools where other people will call your code, because the README doubles as the interface agreement.
-- **Skip it** for throwaway spikes. Write the README when the spike turns into something others will use.
-- See [How to write a README](readme-how.md) for the sections to include.
 
 Source: <http://tom.preston-werner.com/2010/08/23/readme-driven-development.html>

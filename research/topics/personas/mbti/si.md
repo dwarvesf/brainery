@@ -1,11 +1,12 @@
 ---
-draft: true
-title: Introverted sensing (Si)
+draft: false
+title: Introverted Sensing (Si)
 description: Discover how Introverted Sensing (Si) shapes ISTJs and ISFJs by valuing routines, traditions, and careful responsibility, highlighting their focus on preserving trusted habits and past experiences.
-date: 2026-08-27
+date: null
 URL: "https://drive.google.com/file/d/1n8ID_iXqzs6cMZlRS0Su7lQUhrfd7khh/view?usp=sharing"
 tag: function, mbti
-redirect: []
+redirect:
+  - /lvo0iQ
 ---
 
 Book: My True Type, page 79 - 85

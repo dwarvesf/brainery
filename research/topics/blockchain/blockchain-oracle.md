@@ -12,8 +12,6 @@ tags:
   - oracle
 redirect:
   - /4rTExA
-  - /research/notes/blockchain-oracle
-  - /Y7zXkg
 ---
 
 ## The blockchain oracle problem

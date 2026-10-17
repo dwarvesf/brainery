@@ -1,6 +1,5 @@
 ---
-draft: true
-title: Welcome onboard email template
+title: Welcome onboard
 description: The email template is inform new employee about the onboarding meeting and information request.
 date: 2020-01-01
 authors:
@@ -11,7 +10,8 @@ tags:
   - hiring
   - operation
   - template
-redirect: []
+redirect:
+  - /FhxsAg
 ---
 
 **Title**: Dwarves Foundation - Welcome onboard

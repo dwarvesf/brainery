@@ -1,12 +1,12 @@
 ---
-title: Writing a useful changelog
-description: What makes a changelog useful to people, with a change-type convention, a worked entry and a template.
+title: null
+description: null
 date: null
 redirect:
   - /vMt0gg
-authors:
-  - tieubao
 ---
+
+# Writing a useful changelog
 
 Remember the last time you read over the changelog of your favorite app and found it sucks with useless information like they don't care about the product that they sell out. Something like below
 
@@ -56,36 +56,3 @@ They are not the standard but should capture what we want to deliver.
 >
 > -
 > -
-
-## A filled-in example
-
-The product and changes below are illustrative. Each line says what changed for the user, not what changed in the code.
-
-> **1.4.0**
->
-> 2026-10-15
->
-> #### Added
->
-> - Export your order history as CSV from Settings > Account.
-> - Dark mode follows the system setting.
->
-> #### Changed
->
-> - Search results now load as you type instead of after you press Enter.
->
-> #### Fixed
->
-> - Password reset emails arrive within a minute instead of sometimes taking an hour.
->
-> #### Security
->
-> - Sessions now expire after 30 days of inactivity.
-
-Compare this with "Bug fixes and improvements". The entries above let a user decide whether to upgrade and where to look for the change.
-
-### Keeping it current
-
-- Add a line to an `Unreleased` section in the same pull request that makes the change. Writing it later means guessing.
-- At release time, rename `Unreleased` to the version and date, and start a new empty `Unreleased`.
-- Link the version heading to the diff or tag so a curious reader can see the code.

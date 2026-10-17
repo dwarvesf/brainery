@@ -1,10 +1,8 @@
 ---
 draft: false
-title: "Constellation (reading note)"
-description: "According to Robert Shiller, large-scale economic narratives may comprise many other, smaller narratives."
-date: 2026-08-27
-authors:
-  - tieubao
+title: null
+description: null
+date: null
 tags:
   - communication
   - innovation
@@ -22,5 +20,3 @@ According to Robert Shiller, large-scale [[¶ Economic narrative | economic narr
 - [[Economic narratives spread like diseases]]
 - [[Narrative helps the human mind make sense of events]]
 - [[≈ Narrative Economics]]
-
-Adapted from David Drysdale's Moby Diction notes.

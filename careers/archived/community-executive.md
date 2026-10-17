@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Community executive
 description: As a community executive at Dwarves, you will be working closely with a team of talented, kind people and working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself
 date: 2023-03-21
@@ -8,6 +7,8 @@ authors:
 tags:
   - career
   - communication
+redirect:
+  - /vjyp9A
 ---
 
 ### What it takes to succeed

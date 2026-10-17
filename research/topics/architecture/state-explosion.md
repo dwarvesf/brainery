@@ -1,13 +1,11 @@
 ---
 draft: false
-title: "State explosion in state machines and how statecharts solve it"
+title: State explosion
 description: Learn how statecharts solve the state explosion problem in state machines using parallel states, hierarchical states, and guard conditions for simpler and more efficient designs.
 date: 2022-05-22
 github_id: monotykamary
 redirect:
   - /H4aYCg
-authors:
-  - monotykamary
 ---
 
 ## What is state explosion?

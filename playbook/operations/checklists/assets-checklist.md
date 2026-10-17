@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Assets
 description: "This checklist is for administrators and employee to manage company's assets."
 date: 2020-01-01
@@ -10,7 +9,8 @@ tags:
   - checklist
   - operation
   - people
-redirect: []
+redirect:
+  - /j5Vpeg
 ---
 
 ## For admin

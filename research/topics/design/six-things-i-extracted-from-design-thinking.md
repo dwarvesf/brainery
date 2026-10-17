@@ -1,10 +1,8 @@
 ---
 draft: false
-title: "Six lessons from design thinking for everyday decisions"
+title: Six things I extracted from design thinking
 description: Discover how applying Design Thinking in everyday life enhances problem solving, decision making, and adaptability with practical tips on gathering information, organizing data, and embracing change.
 date: 2021-04-14
-authors:
-  - tieubao
 tags:
   - design-thinking
 redirect:
@@ -17,7 +15,7 @@ Being a self-learned designer, I research and read a lot. One of my all-time fav
 
 Six months of applying Design Thinking in real life turns out to be the best investment of my time and effort, for all the positive changes I’ve got (and documented). Cue this article.
 
-## The six things i learned from design thinking
+## The six things I learned from design thinking
 
 The hype around Design Thinking started a couple of years back, along with “UIUX Design”. For some of you who haven't got used to the Design Thinking concept, you can [read more about it here](https://www.interaction-design.org/literature/article/what-is-design-thinking-and-why-is-it-so-popular).
 
@@ -81,7 +79,7 @@ Usually, we would think coming to a decision is the end of it. But as designers 
 
 Testing and checking are not a waste of time, they are a way of improvement. Without testing and checking, we would never be able to know how to make better decisions
 
-## Change. adapt. evolve
+## Change. Adapt. Evolve
 
 ![](assets/six-things-i-extracted-from-design-thinking_a312bb97ae7e137118339c676689e1dc_md5.webp)
 

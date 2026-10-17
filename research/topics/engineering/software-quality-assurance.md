@@ -1,13 +1,11 @@
 ---
 draft: false
-title: "Software quality assurance: testing, planning and process control"
+title: Software quality assurance
 description: Learn how Software Quality Assurance ensures software meets requirements through testing, planning, and process control to improve reliability, usability, and maintainability in development projects.
 date: 2022-10-04
 github_id: trkhoi
 redirect:
   - /ruz1fA
-authors:
-  - trkhoi
 ---
 
 ## Definition of software quality assurance
@@ -98,6 +96,6 @@ We have known the importance of SQA then we should have effective plan for our s
 
 ## Reference
 
-- [Blogs of prof. John Vu, Carnegie Mellon University](https://science-technology.vn/?s=chất+lượng+phần+mềm)
+- [Blogs of Prof. John Vu, Carnegie Mellon University](https://science-technology.vn/?s=chất+lượng+phần+mềm)
 - [Altexsoft whitepapers](https://www.altexsoft.com/whitepapers/quality-assurance-quality-control-and-testing-the-basics-of-software-quality-management/)
-- [Blogs of danlew](https://blog.danlew.net/2022/06/22/maintaining-software-correctness/)
+- [Blogs of Danlew](https://blog.danlew.net/2022/06/22/maintaining-software-correctness/)

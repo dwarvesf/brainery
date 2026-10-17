@@ -1,5 +1,4 @@
 ---
-draft: true
 title: How to withdraw ICY to fiat
 description: This guide show how to swap and withdraw ICY to fiat
 date: 2024-03-13
@@ -8,7 +7,8 @@ authors:
 tags:
   - dfg
   - icy
-redirect: []
+redirect:
+  - /nwqc9A
 ---
 
 Before you can withdraw ICY, please make sure that you have already had the crypto wallet and Binance wallet. If you don't have any, please follow this [guideline](https://memo.d.foundation/playbook/community/how-to-setup-crypto-wallet-to-withdraw-icy/).

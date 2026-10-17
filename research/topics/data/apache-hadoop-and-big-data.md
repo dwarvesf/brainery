@@ -1,13 +1,11 @@
 ---
 draft: false
-title: "Apache Hadoop and big data: volume, velocity and variety"
+title: Apache Hadoop and big data
 description: "Learn what Big Data is by exploring the 3 V's—Volume, Velocity, and Variety—and discover how Hadoop provides scalable, cost-effective solutions for storing and processing massive data sets."
 date: 2022-06-12
 github_id: dudaka
 redirect:
   - /yNqyVA
-authors:
-  - dudaka
 ---
 
 ## What is Big Data?

@@ -31,7 +31,7 @@ This is where good ideas either become real value or get lost in endless possibi
 
 Think of this as step 5+ in our market thesis method. Here's how it flows:
 
-**[News](growth-engine.md)** → **[Arc](/org-roadmap-2025)** → **Experiment** → **Build-log** → **[Forward engineering](/forward-engineering)**
+**[News](growth-engine.md)** → **[Arc](/arc)** → **Experiment** → **Build-log** → **[Forward engineering](/forward-engineering)**
 
 - **Arc** is our term for each technology breakthrough we bet on
 - **Experiment** is each specific thing we decide to build within that arc
@@ -119,4 +119,4 @@ Each experiment feeds back into our market thesis. What we learn building one th
 
 ---
 
-> Next: [Test the water](test-the-water.md) or explore our [arc series](/org-roadmap-2025) to see specific technology bets in action.
+> Next: [Test the water](test-the-water.md) or explore our [arc series](/arc) to see specific technology bets in action.

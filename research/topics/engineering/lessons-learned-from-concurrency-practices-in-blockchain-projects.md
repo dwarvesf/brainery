@@ -1,10 +1,8 @@
 ---
 draft: false
-title: "Lessons learned from concurrency in blockchain projects"
+title: Lessons learned from concurrency practices in blockchain projects
 description: Learn how to handle concurrency and race conditions in Go blockchain projects using PostgreSQL advisory locks for efficient distributed locking and safe cronjob execution on Kubernetes.
 date: 2023-04-17
-authors:
-  - tieubao
 tags:
   - backend
   - engineering
@@ -146,4 +144,4 @@ Designing concurrent systems for distributed-like systems can be a bit tricky. N
 
 ## References
 
-- [PostgreSQL: documentation: 15: 13.3. explicit locking](https://www.postgresql.org/docs/current/explicit-locking.html)
+- [PostgreSQL: Documentation: 15: 13.3. Explicit locking](https://www.postgresql.org/docs/current/explicit-locking.html)

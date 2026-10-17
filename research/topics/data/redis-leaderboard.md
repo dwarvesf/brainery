@@ -1,14 +1,12 @@
 ---
 draft: false
-title: "Building a Redis leaderboard with sorted sets and hashes"
+title: Redis leaderboard
 description: Learn how to build a fast user leaderboard system using Redis sorted sets and hashes to track scores and store user profiles like usernames and avatars.
 date: 2023-08-08
 github_id: Tuanpm31
 icy: 10
 redirect:
   - /kDTinQ
-authors:
-  - Tuanpm31
 ---
 
 In this post, we're going to explore how to implement a user leaderboard system using Redis. The leaderboard will keep track of user scores and profile information such as username and avatar.

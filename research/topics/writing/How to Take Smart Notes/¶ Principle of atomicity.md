@@ -1,14 +1,15 @@
 ---
-draft: true
-title: "Principle of atomicity (reading note)"
-description: "The principle of atomicity is a governing idea of the Zettelkasten method of notetaking and knowledge management."
-date: 2026-10-18
+draft: false
+title: null
+description: null
+date: null
 tags:
   - atomicity
   - idea
   - writing
   - zettelkasten
-redirect: []
+redirect:
+  - /TCMaNw
 ---
 
 The principle of atomicity is a governing idea of the #Zettelkasten method of notetaking and knowledge management.

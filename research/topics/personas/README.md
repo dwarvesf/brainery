@@ -2,11 +2,9 @@
 draft: false
 title: § Personas
 description: Learn how to create effective user personas based on qualitative research to improve UX by focusing on user tasks, goals, and motivations while avoiding assumptions and lack of context.
-date: 2026-08-27
+date: null
 redirect:
   - /hv6r9w
-authors:
-  - tieubao
 ---
 
 ## General information

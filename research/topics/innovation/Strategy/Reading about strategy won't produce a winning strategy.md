@@ -1,12 +1,13 @@
 ---
-draft: true
-title: "Reading about strategy won't produce a winning strategy (reading note)"
-description: "Good strategies are doomed by their own success."
-date: 2026-10-18
+draft: false
+title: null
+description: null
+date: null
 tags:
   - business
   - strategy
-redirect: []
+redirect:
+  - /nM1oXA
 ---
 
 Good strategies are doomed by their own success. An especially effective strategy will be studied, repackaged by consultancies, adopted by competitors, and ultimately become a best practice. And, a best practice is never a winning strategy. After all, the core of strategy is differentiation.

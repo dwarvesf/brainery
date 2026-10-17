@@ -1,11 +1,9 @@
 ---
-title: Incident management and postmortems
-description: How we report and classify incidents by priority, plus a blameless postmortem template with a 5 Whys example.
+title: null
+description: null
 date: null
 redirect:
   - /tbFyYQ
-authors:
-  - tieubao
 ---
 
 **Incident management** is the practice of responding to an unplanned event, user disruption, or service interruption and involves restoring the service to an operational or acceptable state. There are 2 general labels for incidents:
@@ -22,12 +20,6 @@ In order to establish trust in our software or the delivery of our software, we 
 ## Incident management
 
 The overall procedure for monitoring alerts and taking action includes determining an incident's possible impact and severity and identifying it as an issue and giving it a priority. If a problem condition cannot be found, we will reject it as a non-impacting event.
-
-The lifecycle at a glance:
-
-![](assets/incident-management-fig1-lifecycle.svg)
-
-_Fig. 1: Incident lifecycle, from alert to postmortem._
 
 ### Reporting the problem
 
@@ -63,22 +55,6 @@ After acknowledging the alert, we should triage the problem by assigning it a ca
 - **P3**: _This priority not need any immediate action and can be resolved in batch with other issues, ideally with a target resolution time of within 1 week._
   - operational issues, procedural problems or service requests that have little or no effect on end-users
   - the default priority level for issues with undetermined severity level
-
-### Example: a filled-in incident report
-
-An illustrative report (made-up system) showing how the fields above read once filled in:
-
-| Field            | Value                                                                   |
-| ---------------- | ----------------------------------------------------------------------- |
-| Submitter source | Uptime monitor alert on the orders API                                  |
-| Customer(s)      | All customers using web checkout                                        |
-| System           | `orders-api`, production, 2 of 2 instances                              |
-| Time of alert    | 14:05 UTC                                                               |
-| Scope of impact  | All regions; checkout requests fail                                     |
-| Type of impact   | Loss of access to a core function                                       |
-| Priority         | P0: complete loss of access to the API, so aim to resolve within 1 hour |
-
-Send an update to the team and stakeholders at a regular interval until the incident is resolved, even when the update is "no change yet".
 
 ## Postmortems
 
@@ -191,4 +167,4 @@ Discuss the incident response's positive aspects, its shortcomings, and its pote
 
 ### Corrective actions
 
-Describe actions to stop this kind of situation from happening again. Make sure to note who is responsible and what task will need to be completed in what time span.
+Descrive actions to stop this kind of situation from happening again. Make sure to note who is responsible and what task will need to be completed in what time span.

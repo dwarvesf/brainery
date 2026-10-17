@@ -1,14 +1,12 @@
 ---
 draft: false
-title: "Data race versus race condition in multithreaded programming"
+title: Data race and race condition
 description: Learn the difference between data race and race condition in multithreaded programming, and discover how mutex and atomic operations ensure data safety by controlling access to shared resources.
 date: 2022-12-11
 github_id: pthung1311
 icy: 10
 redirect:
   - /V7D4rQ
-authors:
-  - pthung1311
 ---
 
 This article will present a concept, which is `Data Race`. And what are we going to do to ensure data safety in multithreaded programming.

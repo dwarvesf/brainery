@@ -1,12 +1,10 @@
 ---
 draft: false
-title: "Smart contract precautions: circuit breakers, rate limits and speed bumps"
+title: Precautions
 description: Learn how to prepare smart contracts for failure with techniques like circuit breakers, rate limits, speed bumps, and upgradeability to enhance blockchain security and reduce risks.
-date: 2026-08-27
+date: null
 redirect:
   - /y1jyKw
-authors:
-  - tieubao
 ---
 
 As we discussed in the General Philosophy section, it is not enough to protect yourself against the known attacks. Since the cost of failure on a blockchain can be very high, you must also adapt the way you write software, to account for that risk.
@@ -242,7 +240,7 @@ emergency stop or circuit-breaker.
 Regardless of your approach, it is important to have some way to upgrade your contracts, or they
 will become unusable when the inevitable bugs are discovered in them.
 
-#### Example 1: use a registry contract to store the latest version of a contract
+#### Example 1: Use a registry contract to store the latest version of a contract
 
 In this example, the calls aren't forwarded, so users should fetch the current address each time
 before interacting with it.

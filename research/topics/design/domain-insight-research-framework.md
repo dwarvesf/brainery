@@ -1,10 +1,8 @@
 ---
 draft: false
-title: "The Domain Insight Research framework for understanding a new industry"
+title: Domain insight research framework
 description: Learn how Domain Insight Research (DIR) helps UX researchers quickly understand industries, analyze markets, and design user-focused digital products using market research, competitor analysis, and technology trends.
 date: 2020-10-21
-authors:
-  - tieubao
 tags:
   - design
 redirect:
@@ -75,7 +73,7 @@ There are many market research methods; you can try to find some on Google. Howe
 
 It is essential to choose the right methods, apply them flexibly to each industry or product to maximize the time and cost.
 
-### How we do m**arket research**
+### How we do M**arket research**
 
 **1. Gather information**
 There are different ways to conduct market research and collect data. Still, we don’t limit ourselves to just one research method. This is one of our simple methods we applied to our previous projects

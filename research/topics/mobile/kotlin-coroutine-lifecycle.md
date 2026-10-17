@@ -1,13 +1,11 @@
 ---
 draft: false
-title: "Kotlin coroutine lifecycle: scope, context and Job states"
+title: Kotlin coroutine lifecycle
 description: Learn the difference between CoroutineScope and CoroutineContext, understand the Job lifecycle states, and discover how cooperative cancellation works in Kotlin coroutines for effective concurrency control.
 date: 2022-10-10
 github_id: khanhtruong
 redirect:
   - /EeyRlw
-authors:
-  - khanhtruong
 ---
 
 As you may know about coroutine previously, coroutine is a structured concurrency, which means it can control flow to ensure that every concurrent tasks work well until it completed or being canceled. Because of that, each coroutine have it own lifecycle and scope, represent by CoroutineContext and CoroutineScope.
@@ -135,6 +133,6 @@ In this article, we know the difference between CoroutineScope and CoroutineCont
 
 ## References
 
-- [Kotlin-doc: CoroutineContext & dispatchers](https://kotlinlang.org/docs/coroutine-context-and-dispatchers.html)
+- [Kotlin-doc: CoroutineContext & Dispatchers](https://kotlinlang.org/docs/coroutine-context-and-dispatchers.html)
 - [Kotlin-doc: Job](https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/-job/)
-- [Kotlin-doc: cancellation](https://kotlinlang.org/docs/cancellation-and-timeouts.html#cancellation-is-cooperative)
+- [Kotlin-doc: Cancellation](https://kotlinlang.org/docs/cancellation-and-timeouts.html#cancellation-is-cooperative)

@@ -1,12 +1,10 @@
 ---
 draft: false
-title: "How many users should you interview?"
+title: How many users should you interview
 description: Learn how to determine the right number of qualitative interviews by considering research domain, participant diversity, and researcher experience to achieve data saturation efficiently.
-date: 2026-08-27
+date: null
 redirect:
   - /SoioNQ
-authors:
-  - tieubao
 ---
 
 The number of interviews of participants you might need to engage with in a round of qualitative interviews to achieve data saturation can be difficult to estimate. But, there are a few variables that usually factor in.

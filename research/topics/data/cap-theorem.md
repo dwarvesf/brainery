@@ -1,13 +1,11 @@
 ---
 draft: false
-title: "The CAP theorem: consistency, availability and partition tolerance"
+title: Cap theorem
 description: Learn about the CAP theorem, which explains how distributed databases balance consistency, availability, and partition tolerance, and how different database types prioritize these guarantees.
 date: 2022-04-18
 github_id: monotykamary
 redirect:
   - /TbxCnQ
-authors:
-  - monotykamary
 ---
 
 ## What is CAP theorem

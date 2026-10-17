@@ -1,12 +1,13 @@
 ---
-draft: true
-title: "How to Take Smart Notes (reading note)"
-description: "Ahrens outlines the zettelkasten, or slip box, method of note taking."
-date: 2026-10-18
+draft: false
+title: null
+description: null
+date: null
 tags:
   - note
   - zettelkasten
-redirect: []
+redirect:
+  - /M8PBgg
 ---
 
 ## Summary

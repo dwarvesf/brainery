@@ -1,12 +1,10 @@
 ---
 draft: false
-title: "NFT: what non-fungible tokens are, their standards and storage"
-description: "NFT stands for non-fungible token, a token that represents ownership of a rare digital good such as artwork or a collectible."
-date: 2026-08-27
+title: ¶ NFT
+description: null
+date: null
 redirect:
   - /NjozjA
-authors:
-  - tieubao
 ---
 
 NFT is an abbreviation for non-fungible token. It's one the tokens that represents an ownership of rare digital goods such as digital artworks or collectibles.
@@ -43,5 +41,3 @@ Storage:
 
 - https://www.christies.com/features/NFT-101-Collection-Guide-to-NFT-11654-7.aspx
 - https://finematics.com/what-are-nfts-and-how-can-they-be-used-in-defi/
-
-Follows Finematics, [What Are NFTs and How Can They Be Used in DeFi?](https://finematics.com/what-are-nfts-and-how-can-they-be-used-in-defi/).

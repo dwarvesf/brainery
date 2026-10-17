@@ -1,11 +1,12 @@
 ---
-draft: true
+draft: false
 title: The history
 description: Discover the difference between MBTI personality types and Big Five traits, explaining how types categorize over 50% traits while Big Five measures personality degrees without strict types.
-date: 2026-08-27
+date: null
 URL: "https://www.16personalities.com/articles/our-theory"
 tag: mbti
-redirect: []
+redirect:
+  - /XlybAA
 ---
 
 [[MBTI]] (Myers-Briggs Type Indicator) > 1920s theo theory của nhà tâm lý học Carl Jung và nhiều framework khác vào những thập kỉ sau. Trong đó quan trọng nhất là Five Big Personalities Traits.

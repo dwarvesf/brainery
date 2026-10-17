@@ -3,8 +3,6 @@ draft: false
 title: Soul vs scale
 description: Explore the tension between putting care and love into products versus scaling for market demands. Learn how companies like Apple maintain their essence while growing.
 date: 2024-12-19
-authors:
-  - tieubao
 tags:
   - make
   - product
@@ -50,4 +48,4 @@ In an era of rapid change and AI, soul creates the emotional connection that kee
 
 **The choice is yours:** build something users love that happens to scale, or build something that scales that users happen to tolerate. Only one creates lasting value.
 
-_Sources: Insights from [Stanford Commencement Address 2005](https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says) and [Soul vs Scale](https://hvpandya.com/soul-vs-scale)._
+*Sources: Insights from [Stanford Commencement Address 2005](https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says) and [Soul vs Scale](https://hvpandya.com/soul-vs-scale).*

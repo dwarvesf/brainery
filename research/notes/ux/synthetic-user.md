@@ -3,8 +3,6 @@ draft: false
 title: Synthetic users in UX research
 description: Explore AI-generated user profiles in UX research and their potential benefits and limitations. Learn when synthetic users can complement real user research and best practices for responsible use.
 date: 2024-12-19
-authors:
-  - tieubao
 tags:
   - ux
   - research
@@ -82,4 +80,4 @@ Rather than replacing human research, synthetic users should enhance efficiency 
 - Use synthetic users as a complement to real-user research, not a substitute, and validate findings with human feedback
 - Responsible use involves clear inputs, bias checks, and a commitment to maintaining empathy in the design process
 
-_Sources: Adapted from "Synthetic Users: Is there a place for AI-generated users in UX research?" by Anabella Ritchey, UX Collective, May 27, 2024. Additional insights from [NN Group](https://www.nngroup.com/articles/synthetic-users/), [Making Science](https://www.makingscience.com/blog/enhancing-ux-ui-research-with-synthetic-users-the-future-of-design-testing/), and [IDEO](https://www.ideo.com/journal/the-case-against-ai-generated-users)._
+*Sources: Adapted from "Synthetic Users: Is there a place for AI-generated users in UX research?" by Anabella Ritchey, UX Collective, May 27, 2024. Additional insights from [NN Group](https://www.nngroup.com/articles/synthetic-users/), [Making Science](https://www.makingscience.com/blog/enhancing-ux-ui-research-with-synthetic-users-the-future-of-design-testing/), and [IDEO](https://www.ideo.com/journal/the-case-against-ai-generated-users).*

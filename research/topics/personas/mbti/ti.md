@@ -1,11 +1,12 @@
 ---
-draft: true
-title: Introverted thinking (Ti)
+draft: false
+title: Introverted Thinking (Ti)
 description: Explore the traits of ITP personalities like INTPs and ISTPs, known for deep logic, skepticism, and independence, with famous examples including Einstein and Bill Gates.
-date: 2026-08-27
+date: null
 URL: "https://drive.google.com/file/d/1n8ID_iXqzs6cMZlRS0Su7lQUhrfd7khh/view?usp=sharing"
 tag: function, mbti
-redirect: []
+redirect:
+  - /N1LMvQ
 ---
 
 Book: My True Type, page 92 - 97

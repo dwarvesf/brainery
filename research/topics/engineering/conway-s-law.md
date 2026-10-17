@@ -1,13 +1,11 @@
 ---
 draft: false
-title: "Conway's Law: how communication structure shapes software design"
+title: Conway s law
 description: "Conway's Law explains how a company's communication structure shapes its software design, highlighting the need to align team organization with system architecture for better development outcomes."
 date: 2022-06-12
 github_id: zlatanpham
 redirect:
   - /zLgLEw
-authors:
-  - zlatanpham
 ---
 
 > Any organization that designs a system will produce a **design** whose structure is a **copy of the organization's communication structure**.

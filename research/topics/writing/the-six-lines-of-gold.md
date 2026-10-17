@@ -1,13 +1,11 @@
 ---
 draft: false
-title: "The Six Lines of Gold: learning the key structures of a language fast"
+title: The six lines of gold
 description: "Discover Tim Ferriss's Six Lines of Gold method to quickly learn key language structures and common phrases, helping you grasp syntax, semantics, and fluency basics in just one hour."
 date: 2022-09-26
 github_id: monotykamary
 redirect:
   - /4HZDRw
-authors:
-  - monotykamary
 ---
 
 ## Introduction

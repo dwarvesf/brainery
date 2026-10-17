@@ -1,10 +1,8 @@
 ---
 draft: false
-title: "Micro-investment in real estate: a low-cost entry for new investors"
+title: An overview of micro investment in real estate
 description: Discover how micro-investing in real estate offers an easy, low-cost way for millennials and new investors to enter the property market using technology-driven platforms and digital tools.
 date: 2020-08-26
-authors:
-  - tieubao
 tags:
   - design
   - research

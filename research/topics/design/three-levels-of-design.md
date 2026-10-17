@@ -1,10 +1,8 @@
 ---
 draft: false
-title: "Don Norman's three levels of design: visceral, behavioral and reflective"
+title: Three levels of design
 description: Learn how Don Norman’s three levels of design—visceral, behavioral, and reflective—shape user experience and determine whether a product succeeds or fails.
 date: 2018-03-21
-authors:
-  - tieubao
 tags:
   - design
 redirect:

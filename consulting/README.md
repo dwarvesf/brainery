@@ -25,7 +25,7 @@ Browse the newest consulting posts on the [consulting tag page](/tags/consulting
 
 - [Navigate framework](./navigate): Comprehensive guide to our navigation changes methodology.
 - [Case studies](/case-studies): Learn from our practical consulting experiences.
-- [Arc](/org-roadmap-2025): Deep dive into our research methodology and findings.
+- [Arc](/updates/arc): Deep dive into our research methodology and findings.
 
 ## Key articles for consultants
 

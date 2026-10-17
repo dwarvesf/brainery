@@ -1,12 +1,10 @@
 ---
 draft: false
-title: "A scene has large-scale and small-scale structures"
+title: A scene comprises large scale and small scale structures
 description: Learn how to craft powerful scenes using large-scale structures like goals, conflicts, and disasters, plus small-scale motivation-reaction units to engage readers and build compelling fiction.
-date: 2026-08-27
+date: null
 redirect:
   - /rWcN8Q
-authors:
-  - tieubao
 ---
 
 A well-crafted scene comprises both a large-scale structure and a small-scale structure.

@@ -2,11 +2,9 @@
 draft: false
 title: § Zettelkasten
 description: Discover how the Zettelkasten method, inspired by Niklas Luhmann, enhances personal knowledge management and learning through organized notes and creative surprise.
-date: 2026-08-27
+date: null
 redirect:
   - /oBTXrw
-authors:
-  - tieubao
 ---
 
 Zettelkästen describes a method of personal knowledge management inspired by prolific sociologist Niklas Luhmann.

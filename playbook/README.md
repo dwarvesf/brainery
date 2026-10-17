@@ -1,7 +1,7 @@
 ---
 title: Dwarves playbook
 short_title: Playbook
-description: Entry point to the Dwarves playbook, covering product design, engineering practices, production and business process.
+description: null
 date: 2021-12-30
 authors:
   - tieubao
@@ -31,7 +31,7 @@ This repo is our playbook which contains our practices in software development a
 - [UX research](/design/UX-research.md)
 - [Information structure: IA design](/design/IA.md)
 - [Low fidelity prototype: UI design](/design/UI.md)
-- [High fidelity prototype: iterative design](/design/IX.md)
+- [High fidelity prototype: interative design](/design/IX.md)
 - [The design system](/design/design-system.md)
 
 ## Developing
@@ -52,7 +52,7 @@ This repo is our playbook which contains our practices in software development a
 - [Repository setup](/engineering/setup-repository.md)
 - [Write a good README file](/engineering/readme-how.md)
 - [Environments](/engineering/environment.md)
-- [Version control with git](/engineering/git.md)
+- [Version control with Git](/engineering/git.md)
 - [Working together: pair programming](/engineering/working-together.md)
 - [README driven development](/engineering/rdd.md)
 - [Agile requirement: user story](/engineering/user-story.md)
@@ -92,7 +92,7 @@ This repo is our playbook which contains our practices in software development a
 
 - [Overall process](/business/README.md)
 - [Fixed budget, scope controlled](/business/fbsc.md)
-- [Collaboration guideline](/collaboration-guideline.md)
+- [Collaboration guildeline](/collaboration-guideline.md)
 
 ## Contributing
 

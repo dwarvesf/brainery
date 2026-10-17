@@ -84,7 +84,7 @@ You can earn ICY tokens through various activities:
 - **Quality assurance**: 10-100 ICY per review
 - **Governance participation**: 100-500 ICY per vote
 
-For detailed earning opportunities, see the [tokenomics documentation](/programs/icy/dwarves-plus#contributor-rewards).
+For detailed earning opportunities, see the [tokenomics documentation](README.md#contributor-rewards).
 
 ### What determines ICY reward amounts?
 
@@ -375,7 +375,7 @@ We prioritize compliance through:
 
 1. **Visit Website**: Start at [memo.d.foundation][website]
 2. **Join Discord**: Connect at our [Discord community][discord]
-3. **Read Documentation**: Check the [tokenomics documentation](/programs/icy/dwarves-plus) for context
+3. **Read Documentation**: Check the [tokenomics documentation](README.md) for context
 4. **Complete Onboarding**: Fill out contributor application
 5. **Attend Events**: Join community calls and virtual events
 6. **Start Contributing**: Begin with small contributions to build reputation
