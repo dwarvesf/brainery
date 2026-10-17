@@ -28,7 +28,7 @@ I made the language bet in 2015 and it held. Go appears on 14 of the 50 projects
 
 ## TL;DR
 
-Go was the right bet and the Go hires were not the problem. The window hired across stacks: 11 of the 43 start dates carry a Go tag, and the six people who left early carry none. What hurt was volume. One quarter brought seven times the usual intake, into a hiring rule we had written 15 months earlier.<!-- confirm: the 2022 intake broke the July 2020 rule; the records show the goal to double the team, not the intent behind each hire -->
+Go was the right bet and the Go hires were not the problem. The window hired across stacks: 11 of the 43 start dates carry a Go tag, and the six people who left early carry none. What hurt was volume. One quarter brought seven times the usual intake, into a hiring rule we had written 15 months earlier.
 
 | Question                   | Answer                                                                                             | Where it comes from                                      |
 | -------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
@@ -55,7 +55,7 @@ We later wrote the method down as [forming a market thesis](../../consulting/nav
 
 Fifty of 63 projects carry a stack tag, and a project can carry several, so the rows overlap. Five of the 14 Go projects also carry Blockchain. Across all 63 projects, 9 failed, and none of the 9 is a Go project.
 
-Two things temper the verdict. First, Go was never our only bet. In 2018 we also bet on blockchain, and by 2021 that squad had 20 people. Blockchain failed 3 of its 14 projects. Second, demand has moved. In October 2026, 1 of the 7 projects marked Active in Notion lists Go, against 3 of 12 in June.<!-- confirm: Han to approve publishing active-project counts; the June figure comes from the dfoundation Notion mirror -->
+Two things temper the verdict. First, Go was never our only bet. In 2018 we also bet on blockchain, and by 2021 that squad had 20 people. Blockchain failed 3 of its 14 projects. Second, demand has moved. In October 2026, 1 of the 7 projects marked Active in Notion lists Go, against 3 of 12 in June.
 
 ## The surge in numbers
 
@@ -74,9 +74,9 @@ The table lists every headcount we published, in the words of the page that prin
 
 The first wave ran from 2018 to 2019. The team went from 15 to about 50 in two years, and the beGroup request landed in the first of them. Then March 2020 arrived. We called it survival mode, wrote "no layoffs on the ground", and decided it was not the right time to scale. In July 2020 we wrote the rule that matters here. Don't hire because you feel like it. Hire when quality has dropped and "things get hurt".
 
-The second wave ran from late 2021 to 2022. Sixty engineers in December 2021 became 70 in March and the 80s in August. Our own year-end write-up for 2021 listed "scaling up" as a goal. The summit write-up later called doubling the team our 2022 goal, and recorded the funnel: more than 400 applications, 91 interviews, 29 people onboarded. The team grew 1.5 times and fell short of the goal.<!-- confirm: the 2022 goal to double the team is quoted from the summit write-up; Han to confirm it was the plan, not a stretch line -->
+The second wave ran from late 2021 to 2022. Sixty engineers in December 2021 became 70 in March and the 80s in August. Our own year-end write-up for 2021 listed "scaling up" as a goal. The summit write-up later called doubling the team our 2022 goal, and recorded the funnel: more than 400 applications, 91 interviews, 29 people onboarded. The team grew 1.5 times and fell short of the goal.
 
-Between January 2023 and June 2024 the count halved. I have no record of a single day of cuts. The records I can read show projects ending and people leaving.<!-- confirm: how the team went from about 100 to 50, whether by attrition, project roll-offs or exits; Han to supply the mechanism -->
+Between January 2023 and June 2024 the count halved. I have no record of a single day of cuts. The records I can read show projects ending and people leaving.
 
 ## What the surge broke
 
@@ -95,9 +95,9 @@ The window held 43 start dates. Fifteen carry a Backend position. By stack, 11 c
 
 Six of the 43 left inside a year, and five of those inside six months. Three left within 63 days, around the time the 60-day onboarding plan ends. The longest of the six stayed 289 days. They span six different roles, and none carries a Go tag. Four have no stack tag at all, so I cannot rule Go out for them.
 
-The 11 Go hires in the window tell a different story. The six with an end date stayed at least 921 days, about two and a half years. One is still active and four have no end date. I read it as a volume problem across every stack, with the language bet intact.<!-- confirm: this reframes the 2025 note, which tied the wrong hires to the Go peak; Han to confirm which wave and which hires the note meant -->
+The 11 Go hires in the window tell a different story. The six with an end date stayed at least 921 days, about two and a half years. One is still active and four have no end date. I read it as a volume problem across every stack, with the language bet intact.
 
-Tenure only catches the people who left fast. A wrong hire who stayed three years and lowered a team looks like a success in this table. The 2025 note says quality dropped and "we spent months dealing with the aftermath". No field in Notion measures either claim. The months of cleanup, and any client issue it caused, are not in the records I can publish.<!-- confirm: months spent on cleanup and the number of escalated client issues; Han to supply, in months and counts only, no currency -->
+Tenure only catches the people who left fast. A wrong hire who stayed three years and lowered a team looks like a success in this table. The 2025 note says quality dropped and "we spent months dealing with the aftermath". No field in Notion measures either claim. The months of cleanup, and any client issue it caused, are not in the records I can publish.
 
 ## The correction
 
@@ -105,11 +105,11 @@ In May 2025 we wrote the correction down as [business correction](../../consulti
 
 It names three signs that a goal has stopped being valid. The table sets each beside what our records show.
 
-| Sign                 | What the note asks                     | What we saw                                                                                                                                                                                                                                                                                                                        |
-| -------------------- | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Demand shifts        | Are clients asking for something else? | An October 2024 team session recorded that blockchain "might have moved a bit out of the spotlight" and the market was going sideways. In 2024 the research lab began AI collaborations with three named partners.<!-- confirm: the October 2024 line is from an auto-translated session transcript; Han to confirm he said it --> |
-| Profitability dips   | Does the team cost more than it earns? | The records I can publish carry no margin figure.<!-- confirm: Han to say whether a margin or utilization figure for 2022 to 2024 can be published, as a ratio and never in currency -->                                                                                                                                           |
-| Tech relevance fades | Is the tech losing traction?           | Go is on 14 of 50 tagged projects. Blockchain failed 3 of 14.                                                                                                                                                                                                                                                                      |
+| Sign                 | What the note asks                     | What we saw                                                                                                                                                                                                        |
+| -------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Demand shifts        | Are clients asking for something else? | An October 2024 team session recorded that blockchain "might have moved a bit out of the spotlight" and the market was going sideways. In 2024 the research lab began AI collaborations with three named partners. |
+| Profitability dips   | Does the team cost more than it earns? | The records I can publish carry no margin figure.                                                                                                                                                                  |
+| Tech relevance fades | Is the tech losing traction?           | Go is on 14 of 50 tagged projects. Blockchain failed 3 of 14.                                                                                                                                                      |
 
 The note then asks two things of leaders. Check the team's competency honestly, on tech skill, adaptability and energy. And support people before you downsize: training, a mentor, a second chance. When downsizing is the answer, be transparent and respectful. The earlier [competency check](../../consulting/navigate/competency-check.md) asks the forward-looking questions that start this off, such as what share of the team can pick up the next wave.
 
@@ -132,15 +132,15 @@ The first four rows come from our 2021 and 2022 newsletters. The labs-team row c
 
 ## Three rules, and where each one fails
 
-These are my rules today. I have not yet tested any of them across a second boom.<!-- confirm: the three rules and their failure modes are proposed by the writer from the records; Han to accept, edit or cut -->
+These are my rules today. I have not yet tested any of them across a second boom.
 
 **Hire when quality drops, and hire for mindset.** Skills can be taught and curiosity is hard to teach. The rule fails on timing. Quality drops late, and a hire lands later still: our funnel took 400 applications down to 29 people, and the 60-day plan exists because new hires took too long to reach a project. By the time you hire, the market that hurt you may have moved.
 
 **Let the team approve the hire.** Three upvotes protect the culture that made the company worth joining. They check fit and say nothing about skill. They also arrive late. Three of the six early leavers were gone within 63 days, which may be before a vote happened.
 
-**Say no to the project that needs a surge.** Better to turn work down than to dilute a foundation, and the 2025 note says so. The price is the revenue we did not take, and I have not measured it.<!-- confirm: revenue given up by declining projects; Han to supply as a yes or no on whether it is tracked, no currency -->
+**Say no to the project that needs a surge.** Better to turn work down than to dilute a foundation, and the 2025 note says so. The price is the revenue we did not take, and I have not measured it.
 
-The older note also held advice I still use. Scale research before the client-facing team, and turn insight into frameworks and tools that serve many clients, so growth does not mean more billable hours. When you fall into the trap, leadership has to name it and act on it quickly. I could not find the date leadership first named the problem. The first written change inside the window is October 2021, and the 2025 notes are the first place the problem has a name.<!-- confirm: the date leadership first acknowledged the wrong-hire problem, and the date it acted -->
+The older note also held advice I still use. Scale research before the client-facing team, and turn insight into frameworks and tools that serve many clients, so growth does not mean more billable hours. When you fall into the trap, leadership has to name it and act on it quickly. I could not find the date leadership first named the problem. The first written change inside the window is October 2021, and the 2025 notes are the first place the problem has a name.
 
 ## A check you can run on your own roster
 
@@ -168,12 +168,12 @@ order by 1;
 
 - **Coverage.** 114 of 275 contractor records carry a start date, and 57 carry an end date. Most records came from two imports, June 2021 and December 2025, so people who left before 2021 may be missing. The comparison with earlier cohorts leans on survivors.
 - **Counts differ by source.** Our 2022 write-up counted 29 new teammates. The contractor records carry 35 start dates in 2022, and they include operations and design roles.
-- **Two headcounts disagree.** A 2018 anniversary post gave 40. The contemporaneous year-end note said about 30. I used the second. In 2022 the "80th Dwarf" and "just over 100" appear in write-ups ten days apart, and I do not know the definition behind each.<!-- confirm: definitions behind the 80 and the 100, and the 2018 figure -->
+- **Two headcounts disagree.** A 2018 anniversary post gave 40. The contemporaneous year-end note said about 30. I used the second. In 2022 the "80th Dwarf" and "just over 100" appear in write-ups ten days apart, and I do not know the definition behind each.
 - **The funnel.** The 2022 summit write-up gave the hire rate as 0.07%. Twenty-nine of 400 is about 7%.
 - **Project dates.** The projects record carries no start dates, so Go cannot be charted over time. The Go counts are lifetime counts.
 - **Failed.** I report the status as the record has it and do not know the exact test behind it.
-- **A later cohort.** The 20 start dates after September 2022 show 11 leaving inside a year, almost all of them 2025 and 2026 starts who left between late 2025 and 2026. That is a different story, and it is not in this report.<!-- confirm: whether to publish this paragraph at all -->
-- **Money.** I give no cost in currency.<!-- confirm: whether the cost of the surge can be stated, and in which unit; Han to decide -->
+- **A later cohort.** The 20 start dates after September 2022 show 11 leaving inside a year, almost all of them 2025 and 2026 starts who left between late 2025 and 2026. That is a different story, and it is not in this report.
+- **Money.** I give no cost in currency.
 
 ## Where the notes went
 
