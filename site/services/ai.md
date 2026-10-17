@@ -3,6 +3,8 @@ title: AI expertise & solutions
 short_title: AI
 description: We build AI that actually works. From intelligent chatbots to custom AI platforms, we help companies integrate AI into their products and workflows to solve real business problems.
 date: 2025-01-12
+authors:
+  - tieubao
 tags:
   - ai
   - llm

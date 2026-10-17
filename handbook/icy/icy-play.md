@@ -1,4 +1,5 @@
 ---
+draft: true
 title: $icy play
 description: "Here's our draft internal map/v0 for 🧊 $icy play, based on our current activities at this borderless software firm..."
 date: 2023-11-22
@@ -7,8 +8,7 @@ authors:
 tags:
   - dfg
   - icy
-redirect:
-  - /V7eaZg
+redirect: []
 ---
 
 ![](assets/df-protocol-icy-dfg_💠-df-protocol,-$icy-and-$dfg-20231122144733966.webp)

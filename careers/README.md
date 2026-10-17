@@ -9,6 +9,44 @@ tags:
   - career
 redirect:
   - /g8A3FQ
+  - /careers/archived/frontend-developer-junior
+  - /TMwqFQ
+  - /careers/archived/ios-developer
+  - /A8L7tA
+  - /careers/archived/product-designer
+  - /aGlNPw
+  - /careers/archived/macos-developer
+  - /GWkgOg
+  - /careers/archived/react.js-web-engineer
+  - /izc8WQ
+  - /careers/archived/community-executive
+  - /vjyp9A
+  - /careers/archived/backend-engineer-go-elixir-rust
+  - /6qpGXQ
+  - /careers/archived/full-stack-engineer
+  - /wp17wg
+  - /careers/archived/product-designer-new-grad
+  - /f5yyzg
+  - /careers/archived/executive-assistant
+  - /Sr1kJg
+  - /careers/archived/react-native-developer
+  - /2ZCKGA
+  - /careers/archived/data-engineering
+  - /sgrDew
+  - /careers/archived/intern
+  - /KNXCsQ
+  - /careers/archived/visual-designer
+  - /9eVXUQ
+  - /careers/archived/technical-recruiter
+  - /sCe5Bg
+  - /careers/archived/qc-automation
+  - /aKHIcQ
+  - /careers/archived/devops
+  - /3jNTjg
+  - /careers/archived/qc-manual
+  - /nLLmvg
+  - /careers/archived/android-developer
+  - /BfJdEg
 ---
 
 We're forging a band of craftspeople to shape the future: one well-crafted line of code, design, or idea at a time. Think of it like building a sturdy longhouse; it starts with skilled hands, a clear purpose, and a team that thrives together. If you're ready to wield your talents and join our woodland crew, here's what you need to know.

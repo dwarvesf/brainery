@@ -1,12 +1,12 @@
 ---
-title: null
-description: null
+title: Dotfiles
+description: Why we keep dotfiles in git and use an automated script to set up a developer laptop in minutes.
 date: null
 redirect:
   - /pZbnCg
+authors:
+  - tieubao
 ---
-
-# Dotfiles
 
 In UNIX, the files start with a dot “.” are hidden. If you list files in the directory, they don’t show up and keep them safe from the end users. Because of that reason, the developer usually uses it to store configurations of their tools.
 
@@ -29,3 +29,15 @@ We have our [dotfiles](https://github.com/dwarvesf/dotfiles), a script to share 
 Using an automated setup helps us to stay up-to-date with new operating system and program versions. Also, because the setup is standardized, new team members are able to quickly join a project without wasting time re-configuring their machine.
 
 Using the [dotfiles](https://github.com/dwarvesf/dotfiles) make pair programming with teammates easier and make each other more productive.
+
+## Example: keeping a dotfile in git
+
+A common minimal pattern keeps the real files in a repository and symlinks them into the home directory. The paths below are placeholders.
+
+```sh
+git clone <your-dotfiles-repo> ~/.dotfiles
+ln -s ~/.dotfiles/vimrc ~/.vimrc
+ln -s ~/.dotfiles/gitconfig ~/.gitconfig
+```
+
+After that, every edit to `~/.vimrc` lands in the repository, so `git commit` records it and a new laptop gets it back with one `git clone`. Keep secrets, tokens and private keys out of the repository.

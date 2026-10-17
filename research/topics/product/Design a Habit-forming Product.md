@@ -1,13 +1,12 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: "Design a habit-forming product (reading note)"
+description: "According to Nir Eyal, there are 6 Hooks Elements for entrepreneur to consider before start building engaging & habit-forming products"
+date: 2026-08-27
 tags:
   - habit-forming
   - product
-redirect:
-  - /5BfPjA
+redirect: []
 ---
 
 According to Nir Eyal, there are 6 **Hooks Elements** for entrepreneur to consider before start building engaging & habit-forming products

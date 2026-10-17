@@ -1,8 +1,10 @@
 ---
 draft: false
-title: How a design system work
+title: "How a design system works: naming for colors, text styles and components"
 description: Learn effective design system naming conventions for colors, text styles, and components using Figma tools and atomic design to improve UI consistency and team collaboration.
 date: 2020-05-09
+authors:
+  - tieubao
 tags:
   - design
   - technique

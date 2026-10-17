@@ -75,4 +75,4 @@ Apply the complementary-goods lens to the factor that deflates in your market. N
 
 Our working answer to the title question is short: judgment inside, trust outside. The rest is the craft of getting good at both.
 
-Related: [On agentic AI](../updates/arc/on-agent.md), [The convergence](../updates/arc/final.md), and the [arc series](../updates/arc/README.md).
+Related: [On agentic AI](../updates/arc/on-agent.md), [The convergence](../updates/arc/final.md), and the [arc series](/org-roadmap-2025).

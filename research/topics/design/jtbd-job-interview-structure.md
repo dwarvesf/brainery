@@ -1,10 +1,12 @@
 ---
 draft: false
-title: Jtbd job interview structure
+title: "Jobs-to-be-done interview structure: a five-step customer interview guide"
 description: Discover a step-by-step interview guide to uncover customer jobs-to-be-done, including how to explore tasks, needs, feelings, and circumstances for better product and service insights.
-date: null
+date: 2026-08-27
 redirect:
   - /YZVVUg
+authors:
+  - tieubao
 ---
 
 This interview structure can be used to uncover customer jobs-to-be-done.
@@ -44,8 +46,10 @@ This interview structure can be used to uncover customer jobs-to-be-done.
 #### Related
 
 - [[¶ Persona]]
-- [[Methods to overcome the limitations of personas]]
+- Methods to overcome the limitations of personas
 
 #### Citations
 
 Kalbach, Jim, and Michael Schrage. _The Jobs To Be Done Playbook: Align Your Markets, Organization, and Strategy Around Customer Needs_. New York: Two Waves Books, 2020.
+
+Adapted from David Drysdale's Moby Diction notes.

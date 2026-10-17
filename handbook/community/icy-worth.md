@@ -1,4 +1,5 @@
 ---
+draft: true
 title: How much is your ICY worth
 description: "Learn how ICY's value has evolved from a fixed USDC-backed model to a dynamic Bitcoin-backed system. We'll explain what this means for your holdings and how to track your ICY's value."
 date: 2025-03-06
@@ -6,19 +7,18 @@ authors:
   - huynguyenh
 tags:
   - icy
-redirect:
-  - /191Oig
+redirect: []
 ---
 
 We're excited to share a significant update about ICY's value model. We've moved from a fixed USDC-backed system to a dynamic Bitcoin-backed model. This change brings new opportunities and considerations for ICY holders. Let's break down what this means for you.
 
 ![How much icy worth](assets/how-much-is-your-icy-worth.webp)
 
-## The old model: Simple and stable
+## The old model: simple and stable
 
 Previously, ICY had a straightforward value proposition. Each ICY was worth exactly `1.5 USDC`, and this value remained constant regardless of market conditions. This made it easy to understand and trade, providing stability and predictability for our community.
 
-## The new model: Dynamic and Bitcoin-backed
+## The new model: dynamic and Bitcoin-backed
 
 Now, ICY's value is tied to Bitcoin (BTC) through our liquidity pools. We manage two separate pools, one for ICY and one for BTC, and the interaction between these pools determines ICY's value. The initial conversion rate is set at a predetermined ratio, but the value will fluctuate based on BTC's price and pool dynamics.
 

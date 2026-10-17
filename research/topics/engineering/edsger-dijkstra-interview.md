@@ -1,11 +1,13 @@
 ---
 draft: false
-title: Edsger dijkstra interview
+title: "An Edsger Dijkstra interview on programming, elegance and testing limits"
 description: "Discover Edsger W. Dijkstra's insights on programming, software elegance, testing limits, and the challenges of writing code, revealing why simplicity and hard work lead to successful software development."
 date: 2022-05-09
 github_id: zlatanpham
 redirect:
   - /mt03cQ
+authors:
+  - zlatanpham
 ---
 
 Edsger W. Dijkstra was an influential computer scientist and is well known for his contributions to graph theory algorithms. But, in fact, he also had a deep programming perspective. Here are notes extracted from one of his interviews that give us so much insight.

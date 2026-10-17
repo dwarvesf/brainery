@@ -1,8 +1,10 @@
 ---
 draft: false
-title: null
-description: null
-date: null
+title: "Novel metaphors create novel ways of thinking (reading note)"
+description: "Imaginative or novel metaphors offer new ways of thinking about familiar ideas or concepts."
+date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - communication
   - metaphor
@@ -28,3 +30,5 @@ Imaginative or novel metaphors offer new ways of thinking about familiar ideas o
 #### Reference
 
 [[≈ Metaphors We Live By | Lakoff, George, and Mark Johnson. Metaphors We Live By. University of Chicago Press, 2008.]]
+
+Adapted from David Drysdale's Moby Diction notes.

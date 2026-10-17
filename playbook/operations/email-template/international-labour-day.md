@@ -1,5 +1,6 @@
 ---
-title: International labour day
+draft: true
+title: International labour day email template
 description: "The email template that you need to send to client when it's near holiday to announce about the absence."
 date: 2020-01-01
 authors:
@@ -9,8 +10,7 @@ tags:
   - email
   - operation
   - template
-redirect:
-  - /DS7ZfQ
+redirect: []
 ---
 
 **Title:** Dwarves Foundation - Holiday Announcement

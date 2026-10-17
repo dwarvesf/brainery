@@ -1,11 +1,13 @@
 ---
 draft: false
-title: Deno
+title: "Deno: a secure JavaScript runtime built in Rust"
 description: Discover Deno, a secure JavaScript runtime built in Rust with native TypeScript, WASM, and ESM support, designed for modern web APIs and easy deployment without complex build tools.
 date: 2022-03-17
 github_id: huygn
 redirect:
   - /Jqv03w
+authors:
+  - huygn
 ---
 
 ## What

@@ -1,8 +1,10 @@
 ---
 draft: false
-title: Be careful with your code splitting setup
+title: "Be careful with your code splitting setup: scroll resets in virtual lists"
 description: Learn how improper Webpack code-splitting can cause React virtual lists to reset scroll position unexpectedly and how grouping related chunks fixes navigation glitches in mobile-first PWAs.
 date: 2017-07-17
+authors:
+  - tieubao
 tags:
   - engineering
   - practice

@@ -1,12 +1,11 @@
 ---
-draft: false
-title: Extraverted Thinking (Te)
+draft: true
+title: Extraverted thinking (Te)
 description: "Discover how Te users like ENTJs and ESTJs make clear, logic-based decisions using facts and efficient systems, contrasting with Ti's internal thought organization."
-date: null
+date: 2026-08-27
 URL: "https://drive.google.com/file/d/1n8ID_iXqzs6cMZlRS0Su7lQUhrfd7khh/view?usp=sharing,https://practicaltyping.com/thinking-functions-te-ti/"
 tag: function, mbti
-redirect:
-  - /kLUpWQ
+redirect: []
 ---
 
 Book: My True Type, page 98 - 102

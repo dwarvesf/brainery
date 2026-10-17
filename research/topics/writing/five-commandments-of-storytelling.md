@@ -1,10 +1,12 @@
 ---
 draft: false
-title: Five commandments of storytelling
+title: "The five commandments of storytelling from the Story Grid"
 description: "Learn Shawn Coyne's five essential Story Grid commandments—Inciting incident, Crisis, Climax, and Resolution—to craft powerful, effective scenes in fiction writing."
-date: null
+date: 2026-08-27
 redirect:
   - /oyjgXw
+authors:
+  - tieubao
 ---
 
 In his _Story Grid_ approach to writing a novel, Shawn Coyne lists five commandments that he argues are essential to effective fiction. These elements, he says, determine whether or not a scene works:

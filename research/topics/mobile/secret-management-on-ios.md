@@ -1,10 +1,12 @@
 ---
 draft: false
-title: Secret management on iOS
+title: "Secret management on iOS: from obfuscation to keeping secrets off the device"
 description: Learn the best ways to securely manage and store secrets in iOS apps, from code obfuscation to why keeping secrets off the client is the safest approach for developers.
 date: 2022-09-09
 redirect:
   - /LS4RWg
+authors:
+  - tieubao
 ---
 
 One thing that I realized after few years doing iOS application development. iOS developer seem not handle secret management properly. Secret management is one of important aspects which we should think about when doing the software development. And while other side (like backend/frontend) have no problem with it, or they already have a common standard for doing it. in iOS world, people do it in many different ways or worst, not do it at all.
@@ -18,7 +20,7 @@ So the purpose of this article is to answer for the question "How do I store sec
 
 There are several ways to manage secret info
 
-### Level 1: Hard-code secrets in source code
+### Level 1: hard-code secrets in source code
 
 ```swift
 enum Secrets {
@@ -31,7 +33,7 @@ enum Secrets {
 - The secret apiKey still can be found by using a **reverse-engineering** tool like [Radare2](https://rada.re/)
 - Live forever in source control
 
-### Level 2: Store Secrets in Xcode Configuration and `Info.plist`
+### Level 2: store secrets in xcode configuration and `info.plist`
 
 We can use the xcconfig file to externalize configuration from code (12-Factor app). And then read them from `Info.plist`.
 
@@ -80,7 +82,7 @@ In this way, the reverse-engineer tools won't work. **BUT**
 - The API key will be store in `Info.plist` file and anyone can read it, even if we archive the app, they just need to open the App bundle content 🤦‍♂
 - This still work in case our application's platform is iOS and our archive file is not leaked.
 
-### Level 3: Obfuscate secrets using code generation
+### Level 3: obfuscate secrets using code generation
 
 We can use a combination of Swift and Python code (via GYB) to obfuscate secrets in a way that’s more difficult to reverse-engineer.
 
@@ -113,7 +115,7 @@ enum Secrets {
 Secrets.apiKey // "6a0f0731d84afa4082031e3a72354991"
 ```
 
-### Level 4: Don’t store secrets on-device
+### Level 4: don’t store secrets on-device
 
 No matter how much we obfuscate a secret on the client, it’s only a matter of time before the secret gets out. Given enough time and sufficient motivation, an attacker will be able to reverse-engineer whatever you throw their way.
 

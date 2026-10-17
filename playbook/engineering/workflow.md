@@ -1,9 +1,11 @@
 ---
-title: null
-description: null
+title: Agile team workflow
+description: How our teams apply agile and Scrum, including team formation, sprint loops, roles and answers to common questions.
 date: null
 redirect:
   - /KjoHhA
+authors:
+  - tieubao
 ---
 
 The workflow we chose to adopt is a team agreement on why we should be a team player and how we should act to benefit as a whole, not just an individual.
@@ -37,7 +39,7 @@ The way we see it is a collaboration between a team of multiple people with the 
 
 ![](assets/workflow_agile-team.webp)
 
-Keeping agile teams intact takes some organizational discipline, but it pays to protect the team–within reason, of course. When change is introduced (new hire, employee departure, etc.), the team reverts back to the forming stage as it absorbs the change.
+Keeping agile teams intact takes some organizational discipline, but it pays to protect the team, within reason, of course. When change is introduced (new hire, employee departure, etc.), the team reverts back to the forming stage as it absorbs the change.
 
 There are two other pillars of great agile teams: **continuous mentoring** and **shared skill sets**. When the team reaches the stage of Performing, they can work on the project at their full collaboration potential. All the obstacles will be removed, and risks will be minimized.
 
@@ -58,6 +60,35 @@ There are
 - Sprint: a small loop of 1, 2, or 4 weeks. It consists of planning at the beginning of the sprint, daily sync up, product review, and team retro at the end of the sprint.
 
 To maintain the sustainable pace, the agile team should know each other and try to measure the capability using the agile point.
+
+### The sprint loop at a glance
+
+```text
+ +---------+    +-----------------+    +---------------+
+ | Backlog |--->| Sprint planning |--->| Daily sync up |<-+
+ +---------+    +-----------------+    +-------+-------+  | every day
+      ^                                        |          |
+      |                                        +----------+
+      |                                        v
+      |         +------------+         +----------------+
+      +---------| Team retro |<--------| Product review |
+                +------------+         +----------------+
+```
+
+Each pass through the loop ends with feedback that reshapes the backlog. That is the small feedback loop the FAQ below refers to.
+
+### Example: a two-week sprint
+
+This is a generic cadence, not a fixed rule. Adjust the length to the project (1, 2 or 4 weeks).
+
+| When      | Activity              | Output                                                                        |
+| --------- | --------------------- | ----------------------------------------------------------------------------- |
+| Day 1     | Sprint planning       | Sprint goal and the backlog items the team commits to                         |
+| Every day | Daily sync up (short) | Blockers surfaced, work re-balanced                                           |
+| Last day  | Product review        | Working software shown to the product owner, feedback logged as backlog items |
+| Last day  | Team retro            | One or two concrete changes to try next sprint                                |
+
+When to use Scrum: the scope is uncertain and the client can give feedback every few weeks. When not to: the work is a one-off task with fixed steps, or the client cannot review increments. In that case a simple Kanban board, or the smaller group mentioned in the FAQ, fits better.
 
 ## FAQ
 

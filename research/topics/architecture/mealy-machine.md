@@ -1,11 +1,10 @@
 ---
-draft: false
-title: Mealy machine
+draft: true
+title: "Mealy machines: output from state and input"
 description: Learn what a Mealy machine is, its mathematical model, and how it differs from Moore machines and finite-state transducers in this clear explanation of finite-state automata concepts.
 date: 2022-06-28
 github_id: monotykamary
-redirect:
-  - /iyzVHA
+redirect: []
 ---
 
 ## What is a Mealy machine?
@@ -20,11 +19,11 @@ As per the general classification noted on [UC Davis outline on transducers](htt
 
 - $\Sigma$ is the _input alphabet_ (a finite non-empty set of symbols) -> our events;
 - $S$ is a finite non-empty set of states;
-- $\Gamma$ is the *output alphabet*;
+- $\Gamma$ is the _output alphabet_;
 - $\delta$ is the state-transition function: $\delta: S \times \Sigma \rightarrow S$
 - $\omega$ is the output-transition function: $\omega: S \times \Sigma \rightarrow \Gamma$
 - $s_0$ is an _initial state_, an element of $S$; and
-- $\delta \subseteq S \times (\Sigma \cup \{\epsilon\}) \times (\Gamma \cup \{\epsilon\}) \times S$ (where ε is the [empty string](https://en.wikipedia.org/wiki/Empty_string "Empty string")) is the *transition relation*.
+- $\delta \subseteq S \times (\Sigma \cup \{\epsilon\}) \times (\Gamma \cup \{\epsilon\}) \times S$ (where ε is the [empty string](https://en.wikipedia.org/wiki/Empty_string 'Empty string')) is the _transition relation_.
 
 Some formulations also allow transition and output functions to be combined as a single function:
 

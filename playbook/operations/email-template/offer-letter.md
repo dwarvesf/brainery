@@ -1,5 +1,6 @@
 ---
-title: Offer letter
+draft: true
+title: Offer letter email template
 description: The email template is to annouce about new employment.
 date: 2020-01-01
 authors:
@@ -10,8 +11,7 @@ tags:
   - hiring
   - operation
   - template
-redirect:
-  - /OQnMQA
+redirect: []
 ---
 
 **Title**: Dwarves Foundation - Offer letter

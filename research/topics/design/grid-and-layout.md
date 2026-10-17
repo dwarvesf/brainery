@@ -1,8 +1,10 @@
 ---
 draft: false
-title: Grid and layout
+title: "Grids and layout: columns, gutters and responsive techniques"
 description: Learn how to create strong digital design layouts using grids, columns, gutters, and responsive techniques to make your graphic and web designs look clean and professional.
 date: 2020-08-17
+authors:
+  - tieubao
 tags:
   - design
   - technique

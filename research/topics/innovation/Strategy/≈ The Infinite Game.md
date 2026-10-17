@@ -1,13 +1,11 @@
 ---
-draft: false
+draft: true
 title: null
 description: null
 date: null
 tags:
   - business
   - strategy
-redirect:
-  - /NlMKECo
 ---
 
 ### Notes

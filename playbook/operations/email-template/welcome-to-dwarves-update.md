@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Welcome to dwarves updates
 description: The email template is to announce every updates to the comminity and subscriber.
 date: 2020-01-01
@@ -9,8 +10,7 @@ tags:
   - email
   - operation
   - template
-redirect:
-  - /PmYQ4A
+redirect: []
 ---
 
 Hey there!

@@ -1,8 +1,10 @@
 ---
 draft: false
-title: null
-description: null
-date: null
+title: "Narrative Economics (reading note)"
+description: "Shiller explores how \"economic narratives\" spread like contagions through societies, ultimately creating real-world economic effects."
+date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - communication
 redirect:
@@ -17,7 +19,7 @@ Shiller explores how "economic narratives" spread like contagions through societ
 
 - [[¶ Consilience]]
 - [[¶ Constellation]]
-- [[¶ Flashbulb memory]]
+- Flashbulb memory
 
 ## Notes
 
@@ -29,3 +31,5 @@ Shiller explores how "economic narratives" spread like contagions through societ
 #### Reference
 
 Shiller, Robert J. _Narrative Economics: How Stories Go Viral and Drive Major Economic Events_. Princeton: Princeton University Press, 2019.
+
+Adapted from David Drysdale's Moby Diction notes.

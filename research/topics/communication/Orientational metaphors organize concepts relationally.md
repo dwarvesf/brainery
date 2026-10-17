@@ -1,8 +1,10 @@
 ---
 draft: false
-title: null
-description: null
-date: null
+title: "Orientational metaphors organize concepts relationally (reading note)"
+description: "Orientational metaphors organize concepts in relation to one another, typically using spatial orientations."
+date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - communication
 redirect:
@@ -23,3 +25,5 @@ Orientational metaphors organize concepts in relation to one another, typically 
 #### Reference
 
 - [[≈ Metaphors We Live By | Lakoff, George, and Mark Johnson. Metaphors We Live By. University of Chicago Press, 2008.]]
+
+Adapted from David Drysdale's Moby Diction notes.

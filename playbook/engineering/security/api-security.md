@@ -1,12 +1,14 @@
 ---
-title: null
-description: null
+title: API security checklist
+description: A checklist for securing an API across authentication, access, input, processing and output.
 date: null
 redirect:
   - /EESv0A
+authors:
+  - tieubao
 ---
 
-# API security checklist
+Use this checklist at design time, before each release, and when reviewing a pull request that adds an endpoint. Tick an item only when you have checked it in the code or the running service. If an item does not apply, write why next to it instead of leaving it blank.
 
 ## Authentication
 
@@ -66,3 +68,18 @@ redirect:
 - [ ] Return the proper status code according to the operation completed. (e.g. `200 OK`, `400 Bad Request`, `401 Unauthorized`, `405 Method Not Allowed`, etc.).
 
 Source: [API security checklist](https://github.com/shieldfy/API-Security-Checklist)
+
+## Example: baseline response headers
+
+The output section asks for a few headers on every response. A response from a JSON API can look like this:
+
+```text
+HTTP/1.1 200 OK
+Content-Type: application/json
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+Content-Security-Policy: default-src 'none'
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+```
+
+Check them against a running service with `curl -s -D - -o /dev/null https://api.example.com/v1/health`, and confirm that `Server` and `X-Powered-By` are absent.

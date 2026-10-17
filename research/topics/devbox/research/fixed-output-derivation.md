@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Fixed-output derivation in Nix
 description: An explanation of fixed-output derivations in Nix and their role in ensuring reproducible builds
 date: 2024-08-01
@@ -9,8 +9,7 @@ tags:
   - devbox
   - docker
   - nix
-redirect:
-  - /lShD4w
+redirect: []
 ---
 
 On different machines with different nixpkgs versions, Nix build will result different packages.

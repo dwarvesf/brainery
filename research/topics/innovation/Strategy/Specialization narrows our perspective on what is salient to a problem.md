@@ -1,13 +1,12 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: "Specialization narrows our perspective on what is salient to a problem (reading note)"
+description: "Problem-solving involves identifying the salient features of a problem."
+date: 2026-10-18
 tags:
   - business
   - strategy
-redirect:
-  - /xHFmvE
+redirect: []
 ---
 
 Problem-solving involves identifying the salient features of a problem. This is a subjective activity; different thinkers will identify different matters of salience.
