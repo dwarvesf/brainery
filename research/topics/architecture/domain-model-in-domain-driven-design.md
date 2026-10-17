@@ -1,11 +1,10 @@
 ---
-draft: false
-title: Domain model in domain driven design
+draft: true
+title: "Domain model in domain-driven design: events, commands, aggregates and bounded contexts"
 description: Learn what a Domain Model is in Domain Driven Design, including key components like Domain events, Commands, Aggregates, and Bounded Contexts to organize business knowledge effectively.
 date: 2022-07-02
 github_id: R-Jim
-redirect:
-  - /lDeHFw
+redirect: []
 ---
 
 ## What is domain model
