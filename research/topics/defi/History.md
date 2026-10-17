@@ -23,7 +23,7 @@ One of the oldest projects on Ethereum is Maker - a protocol for minting the fir
 
 Appearing since 2017, EtherDelta allows the exchange of tokens of the ERC20 standard through an order-book mechanism similar to centralized exchanges. Little known due to poor and complicated UX, users mainly use EtherDelta to trade tokens after ICO but not yet listed on centralized exchanges. Hackers gained access to EtherDelta's interface and redirected them to a phishing site - an estimated $800,000 was stolen.
 
-### ICO - Initial coin offering
+### ICO - initial coin offering
 
 ICO, crowdfunding. Issuing Tokens in exchange for ETH => creating many ghost projects One of the major breakthroughs at the time was the idea of ​​users interacting with smart contracts containing other users' assets, rather than p2p peer-to-peer interaction. This idea created a new “user-to-contract” model, shaping the future of DeFi. After the ICO trend ended, DeFi went through a rather quiet time.
 
@@ -31,7 +31,7 @@ ICO, crowdfunding. Issuing Tokens in exchange for ETH => creating many ghost pro
 
 Launched on November 2, 2018, in contrast to EtherDelta, Uniswap is built on completely new concepts such as “liquidity provider”, “automate market maker”. Leverage the previous “user-to-contract” model.
 
-### Back Thursday
+### Back thursday
 
 On March 12, 2020, ETH price plummeted more than 30% in less than 24 hours amid the outbreak of the Corona pandemic. GAS fees increased to 200 gwei as many users tried to deposit more of their collateral to secure various loans or were trying to escape from the bloodbath. Maker is the most affected. => add MKR tokens to compensate.
 
