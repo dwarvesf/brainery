@@ -8,7 +8,7 @@ icy: 10
 redirect:
   - /fMaFEw
 authors:
-  - tieubao
+  - dudaka
 ---
 
 With the understanding about partitions, the benefits of partitions and how to work with partitions from the article [[Partitions on Apache Hive]], we are going to see a couple of potential problems that we may see with partitions, especially, with dynamic partitions. And, of course, how to address them using buckets. In this article, we'll discuss about:

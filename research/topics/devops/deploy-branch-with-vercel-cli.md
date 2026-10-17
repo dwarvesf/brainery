@@ -7,7 +7,7 @@ github_id: chinhld12
 redirect:
   - /SqTzGw
 authors:
-  - tieubao
+  - chinhld12
 ---
 
 ## Introduction

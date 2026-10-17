@@ -8,7 +8,7 @@ icy: 10
 redirect:
   - /kJrkXw
 authors:
-  - tieubao
+  - dudaka
 ---
 
 If you're a SQL or PL/SQL developer or developed an ETL process before, you know just plain SQL is not going to get the job done. To implement complex use cases, we need powerful window and analytical functions. The good news is Hive supports both window and analytical functions. Before we look at an example of window and analytical functions, let's understand what they are and why do we need them. Let's take our very old stocks data set and say we want to calculate average volume by stocks by year. We've done this before already on some previous articles about Apache Hive. And the following query show it looks like in Hive.

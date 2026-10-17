@@ -7,7 +7,7 @@ github_id: monotykamary
 redirect:
   - /F6NH0w
 authors:
-  - tieubao
+  - monotykamary
 ---
 
 ## Introduction

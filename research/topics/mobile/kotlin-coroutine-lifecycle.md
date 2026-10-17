@@ -7,7 +7,7 @@ github_id: khanhtruong
 redirect:
   - /EeyRlw
 authors:
-  - tieubao
+  - khanhtruong
 ---
 
 As you may know about coroutine previously, coroutine is a structured concurrency, which means it can control flow to ensure that every concurrent tasks work well until it completed or being canceled. Because of that, each coroutine have it own lifecycle and scope, represent by CoroutineContext and CoroutineScope.

@@ -7,7 +7,7 @@ github_id: dudaka
 redirect:
   - /unxtGQ
 authors:
-  - tieubao
+  - dudaka
 ---
 
 ## HDFS - why another FileSystem?

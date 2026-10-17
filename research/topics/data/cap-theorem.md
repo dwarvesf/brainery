@@ -7,7 +7,7 @@ github_id: monotykamary
 redirect:
   - /TbxCnQ
 authors:
-  - tieubao
+  - monotykamary
 ---
 
 ## What is CAP theorem

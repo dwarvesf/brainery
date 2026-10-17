@@ -7,7 +7,7 @@ github_id: monotykamary
 redirect:
   - /H4aYCg
 authors:
-  - tieubao
+  - monotykamary
 ---
 
 ## What is state explosion?

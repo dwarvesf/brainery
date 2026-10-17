@@ -8,7 +8,7 @@ icy: 10
 redirect:
   - /cNd0sA
 authors:
-  - tieubao
+  - nhuthm
 ---
 
 _The following entry is from the reality experience that I'm doing in the team project that is running with Agile._

@@ -8,7 +8,7 @@ icy: 10
 redirect:
   - /WCosNQ
 authors:
-  - tieubao
+  - binhle59
 ---
 
 ## Note

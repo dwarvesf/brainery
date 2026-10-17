@@ -7,7 +7,7 @@ github_id: hieuphq
 redirect:
   - /oDLurA
 authors:
-  - tieubao
+  - hieuphq
 ---
 
 ### What is git?

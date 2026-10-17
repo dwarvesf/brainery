@@ -9,7 +9,7 @@ icy: 15
 redirect:
   - /XrgOmw
 authors:
-  - tieubao
+  - datphamcode295
 ---
 
 In the Go programming language, a popular framework called Gomock provides a powerful solution for mocking dependencies during testing. Gomock simplifies the process of isolating units of code, enabling more focused and effective testing.

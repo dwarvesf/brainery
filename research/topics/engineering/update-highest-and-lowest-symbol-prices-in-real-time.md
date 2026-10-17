@@ -8,7 +8,7 @@ icy: 10
 redirect:
   - /F7f7pg
 authors:
-  - tieubao
+  - thminhVN
 ---
 
 ## Introduction

@@ -7,7 +7,7 @@ github_id: nguyennh4522
 redirect:
   - /Bri4uw
 authors:
-  - tieubao
+  - nguyennh4522
 ---
 
 - `Kubeseal`: Encrypt your Secret into a SealedSecret, which is safe to store - even to a public repository. The SealedSecret can be decrypted only by the controller running in the target cluster and nobody else (not even the original author) is able to obtain the original Secret from the SealedSecret. SealedSecret is composed of two parts:

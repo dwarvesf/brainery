@@ -7,7 +7,7 @@ github_id: monotykamary
 redirect:
   - /sTVhcA
 authors:
-  - tieubao
+  - monotykamary
 ---
 
 ## What is a question tree?

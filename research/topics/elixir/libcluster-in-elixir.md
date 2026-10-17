@@ -8,7 +8,7 @@ icy: 10
 redirect:
   - /FJ9Qmg
 authors:
-  - tieubao
+  - hieuphq
 ---
 
 In the Dwarves Foundation, we applied some practices to decrease the operation cost. We set up the runtime environments in the team.

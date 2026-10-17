@@ -8,7 +8,7 @@ icy: 10
 redirect:
   - /V7D4rQ
 authors:
-  - tieubao
+  - pthung1311
 ---
 
 This article will present a concept, which is `Data Race`. And what are we going to do to ensure data safety in multithreaded programming.

@@ -8,7 +8,7 @@ icy: 10
 redirect:
   - /dDz2CQ
 authors:
-  - tieubao
+  - trankhacvy
 ---
 
 ## UML state machine diagram

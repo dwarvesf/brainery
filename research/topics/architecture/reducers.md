@@ -7,7 +7,7 @@ github_id: monotykamary
 redirect:
   - /wubE6w
 authors:
-  - tieubao
+  - monotykamary
 ---
 
 _This note refers to frontend reducers, and not to be confused with other reducers like from MapReduce._

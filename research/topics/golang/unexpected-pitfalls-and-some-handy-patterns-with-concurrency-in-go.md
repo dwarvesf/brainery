@@ -7,7 +7,7 @@ github_id: mirageruler
 redirect:
   - /lV33jg
 authors:
-  - tieubao
+  - mirageruler
 ---
 
 ## Preamble

@@ -7,7 +7,7 @@ github_id: viettrungphan
 redirect:
   - /ieuvcQ
 authors:
-  - tieubao
+  - viettrungphan
 ---
 
 ## How to create an XCode build tools with Swift

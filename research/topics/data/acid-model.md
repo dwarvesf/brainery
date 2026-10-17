@@ -7,7 +7,7 @@ github_id: monotykamary
 redirect:
   - /HWltPQ
 authors:
-  - tieubao
+  - monotykamary
 ---
 
 ## What is the ACID model?

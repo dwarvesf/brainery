@@ -7,7 +7,7 @@ github_id: nnhuyhoang
 redirect:
   - /7UoOww
 authors:
-  - tieubao
+  - nnhuyhoang
 ---
 
 ## What is Full-text search?

@@ -8,7 +8,7 @@ icy: 10
 redirect:
   - /FGFsgw
 authors:
-  - tieubao
+  - dudaka
 ---
 
 In short, Apache Pig takes a set of instructions from the user and converts those instructions into MapReduce jobs and execute the MapReduce jobs in Hadoop cluster.

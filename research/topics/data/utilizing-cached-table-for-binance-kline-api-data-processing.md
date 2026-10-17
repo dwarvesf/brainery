@@ -8,7 +8,7 @@ icy: 10
 redirect:
   - /HIjFSQ
 authors:
-  - tieubao
+  - thminhVN
 ---
 
 ## Introduction

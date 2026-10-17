@@ -8,7 +8,7 @@ icy: 10
 redirect:
   - /P02Y6g
 authors:
-  - tieubao
+  - hieuphq
 ---
 
 pg2 is an erlang module that implements **process groups**. Each message may be sent to one, some, or all group members.

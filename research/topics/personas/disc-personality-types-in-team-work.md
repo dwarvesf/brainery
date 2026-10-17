@@ -7,7 +7,7 @@ github_id: huytieu
 redirect:
   - /Tl57CL4
 authors:
-  - tieubao
+  - huytieu
 ---
 
 ## What is DiSC?

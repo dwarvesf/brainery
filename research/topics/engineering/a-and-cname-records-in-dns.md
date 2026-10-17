@@ -8,7 +8,7 @@ icy: 10
 redirect:
   - /71LEhQ
 authors:
-  - tieubao
+  - namtrhg
 ---
 
 **A record** and **CNAME** are one of the most common types of records when you want to deploy your `domain` or `subdomain` on the internet.

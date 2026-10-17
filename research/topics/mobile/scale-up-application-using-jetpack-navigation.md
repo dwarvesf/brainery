@@ -8,7 +8,7 @@ icy: 10
 redirect:
   - /2ZpwlA
 authors:
-  - tieubao
+  - truong-dwarvesv
 ---
 
 In the past, to implement based on fragment navigation, we used `FragmentManager` and `FragmentTransaction` to

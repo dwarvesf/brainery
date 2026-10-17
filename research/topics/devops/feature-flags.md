@@ -7,7 +7,7 @@ github_id: zlatanpham
 redirect:
   - /fEZEkQ
 authors:
-  - tieubao
+  - zlatanpham
 ---
 
 Feature flags are a software engineering technique that allows you to enable or disable select functionality during runtime without having to deploy new code. The ability to control the visibility of features enables development teams to manage the full lifecycle of a feature — rather than being constrained by the traditional "code-deploy-test" cycle.

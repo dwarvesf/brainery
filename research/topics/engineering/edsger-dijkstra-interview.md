@@ -7,7 +7,7 @@ github_id: zlatanpham
 redirect:
   - /mt03cQ
 authors:
-  - tieubao
+  - zlatanpham
 ---
 
 Edsger W. Dijkstra was an influential computer scientist and is well known for his contributions to graph theory algorithms. But, in fact, he also had a deep programming perspective. Here are notes extracted from one of his interviews that give us so much insight.

@@ -8,7 +8,7 @@ icy: 10
 redirect:
   - /RmRrkw
 authors:
-  - tieubao
+  - nhuthm
 ---
 
 From the team product, when the Project Manager want to report with their client for the question: "How is our project coming along?", to have a catch-up on the product's process.

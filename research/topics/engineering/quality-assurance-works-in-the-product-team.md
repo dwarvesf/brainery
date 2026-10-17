@@ -8,7 +8,7 @@ icy: 10
 redirect:
   - /fk1afw
 authors:
-  - tieubao
+  - nhuthm
 ---
 
 _The following entry is from the thoughts, compositions, and conclusions from field work by one of our leads._

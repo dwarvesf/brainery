@@ -7,7 +7,7 @@ github_id: namtrhg
 redirect:
   - /JbbLGg
 authors:
-  - tieubao
+  - namtrhg
 ---
 
 _This note focus on utilizing some of the **` console`** object methods and the **` debugger`** statement to better debug JavaScript application in the [Chrome DevTools](https://developer.chrome.com/docs/devtools/)._

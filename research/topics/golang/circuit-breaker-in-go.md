@@ -8,7 +8,7 @@ icy: 10
 redirect:
   - /WMlbGA
 authors:
-  - tieubao
+  - R-Jim
 ---
 
 ## The problem statement

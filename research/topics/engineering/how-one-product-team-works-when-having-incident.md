@@ -7,7 +7,7 @@ github_id: nhuthm
 redirect:
   - /hUWRqw
 authors:
-  - tieubao
+  - nhuthm
 ---
 
 _The following entry is from the thoughts, compositions, and conclusions from field work by one of our leads._

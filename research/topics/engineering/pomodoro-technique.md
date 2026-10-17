@@ -7,7 +7,7 @@ github_id: namtrhg
 redirect:
   - /8xnxpA
 authors:
-  - tieubao
+  - namtrhg
 ---
 
 ## What is Pomodoro Technique?

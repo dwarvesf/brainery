@@ -7,7 +7,7 @@ github_id: dudaka
 redirect:
   - /yNqyVA
 authors:
-  - tieubao
+  - dudaka
 ---
 
 ## What is Big Data?

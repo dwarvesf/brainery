@@ -7,7 +7,7 @@ github_id: trkhoi
 redirect:
   - /ruz1fA
 authors:
-  - tieubao
+  - trkhoi
 ---
 
 ## Definition of software quality assurance

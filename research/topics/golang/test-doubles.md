@@ -9,7 +9,7 @@ icy: 15
 redirect:
   - /PKmGtg
 authors:
-  - tieubao
+  - datphamcode295
 ---
 
 In the world of software development, testing plays a vital role in ensuring the reliability and stability of our applications. When writing tests, we often come across situations where certain dependencies need to be simulated or replaced to isolate the behavior of the code under test. This is where Test Doubles come into play.
