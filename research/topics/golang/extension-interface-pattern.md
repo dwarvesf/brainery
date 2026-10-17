@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Go extension interface pattern
 description: Note about using Go extension interface pattern
 date: 2024-10-25
@@ -8,8 +8,7 @@ authors:
 tags:
   - golang
   - interface
-redirect:
-  - /vCeEag
+redirect: []
 ---
 
 The extension interface pattern is when an interface embeds another one. The extension pattern helps to add new features to an existing object without changing its original code.

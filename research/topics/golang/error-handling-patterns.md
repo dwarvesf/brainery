@@ -1,6 +1,6 @@
 ---
-draft: false
-title: Error handling patterns
+draft: true
+title: Error handling patterns in programming languages
 description: Quick note on error handling patterns in programming languages
 date: 2024-10-14
 authors:
@@ -8,8 +8,7 @@ authors:
 tags:
   - error
   - golang
-redirect:
-  - /oDpnjA
+redirect: []
 ---
 
 Error handling is one of the most critical aspects of software development, as it ensures that applications behave correctly even in the presence of unexpected inputs or conditions. Over the years, many error-handling patterns have evolved in different programming languages.
