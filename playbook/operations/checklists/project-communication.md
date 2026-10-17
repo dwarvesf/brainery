@@ -11,8 +11,7 @@ tags:
   - checklist
   - operation
   - project
-redirect:
-  - /J9QGYQ
+redirect: []
 ---
 
 **Transparency**

@@ -10,8 +10,7 @@ tags:
   - email
   - operation
   - template
-redirect:
-  - /B18sHg
+redirect: []
 ---
 
 **Title**: Dwarves Foundation - Welcome Back

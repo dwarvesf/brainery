@@ -11,8 +11,7 @@ tags:
   - hiring
   - operation
   - template
-redirect:
-  - /vNX64w
+redirect: []
 ---
 
 **Title:** Dwarves Foundation - Assignment Invitation

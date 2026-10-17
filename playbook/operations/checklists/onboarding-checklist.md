@@ -10,8 +10,7 @@ tags:
   - checklist
   - operation
   - people
-redirect:
-  - /B1jXRA
+redirect: []
 ---
 
 Through this process, the employee gradually form their own perspective and their fit with the Dwarves. This is the stage when they decide whether or not to commit to our company.

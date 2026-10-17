@@ -10,8 +10,7 @@ tags:
   - checklist
   - operation
   - people
-redirect:
-  - /VHDvgg
+redirect: []
 ---
 
 ### Content

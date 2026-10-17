@@ -10,8 +10,7 @@ tags:
   - checklist
   - operation
   - people
-redirect:
-  - /j5Vpeg
+redirect: []
 ---
 
 ## For admin

@@ -11,8 +11,7 @@ tags:
   - hiring
   - operation
   - template
-redirect:
-  - /OQnMQA
+redirect: []
 ---
 
 **Title**: Dwarves Foundation - Offer letter

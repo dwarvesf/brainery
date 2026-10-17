@@ -11,8 +11,7 @@ tags:
   - checklist
   - operation
   - people
-redirect:
-  - /M7Kgvg
+redirect: []
 ---
 
 ## Objectives

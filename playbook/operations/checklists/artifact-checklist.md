@@ -10,8 +10,7 @@ tags:
   - checklist
   - delivery
   - operation
-redirect:
-  - /yRz86w
+redirect: []
 ---
 
 ## Why do we need artifacts?

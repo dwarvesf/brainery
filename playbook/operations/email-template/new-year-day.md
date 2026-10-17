@@ -10,8 +10,7 @@ tags:
   - email
   - operation
   - template
-redirect:
-  - /iC8nTA
+redirect: []
 ---
 
 **Title**: Dwarves Foundation - Holiday Announcement

@@ -10,8 +10,7 @@ tags:
   - email
   - operation
   - template
-redirect:
-  - /lm57xA
+redirect: []
 ---
 
 **Title**: Dwarves Foundation - Farewell letter

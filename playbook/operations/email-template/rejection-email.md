@@ -11,8 +11,7 @@ tags:
   - hiring
   - operation
   - template
-redirect:
-  - /OLORwg
+redirect: []
 ---
 
 ### Screening rejection

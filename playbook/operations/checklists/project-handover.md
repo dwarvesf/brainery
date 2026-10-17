@@ -12,8 +12,7 @@ tags:
   - checklist
   - operation
   - project
-redirect:
-  - /AHIv4w
+redirect: []
 ---
 
 **Source code**

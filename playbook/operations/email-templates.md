@@ -13,25 +13,44 @@ tags:
   - operation
   - template
 redirect:
-  - /playbook/operations/email-template/assignment-invitation
-  - /playbook/operations/email-template/assignment-invitation-2
-  - /playbook/operations/email-template/confirm-resume-date
-  - /playbook/operations/email-template/farewell
-  - /playbook/operations/email-template/follow-up-onboarding-items
   - /playbook/operations/email-template/hung-king-commemoration-day
+  - /CaodpA
+  - /playbook/operations/email-template/follow-up-onboarding-items
+  - /2yerrQ
   - /playbook/operations/email-template/information-about-resource-change
-  - /playbook/operations/email-template/international-labour-day
-  - /playbook/operations/email-template/interview-invitation
-  - /playbook/operations/email-template/national-day
-  - /playbook/operations/email-template/new-year-day
-  - /playbook/operations/email-template/offer-letter
-  - /playbook/operations/email-template/referral-bonus-confirmation-note
-  - /playbook/operations/email-template/rejection-email
-  - /playbook/operations/email-template/salary-increment
-  - /playbook/operations/email-template/tet-holiday
+  - /XhPmgQ
   - /playbook/operations/email-template/thank-you-letter
+  - /1uVapQ
+  - /playbook/operations/email-template/referral-bonus-confirmation-note
+  - /hH7E0g
+  - /playbook/operations/email-template/salary-increment
+  - /nZHRcw
+  - /playbook/operations/email-template/assignment-invitation-2
+  - /XTrFsQ
+  - /playbook/operations/email-template/assignment-invitation
+  - /vNX64w
+  - /playbook/operations/email-template/new-year-day
+  - /iC8nTA
   - /playbook/operations/email-template/welcome-onboard
+  - /FhxsAg
   - /playbook/operations/email-template/welcome-to-dwarves-update
+  - /PmYQ4A
+  - /playbook/operations/email-template/rejection-email
+  - /OLORwg
+  - /playbook/operations/email-template/confirm-resume-date
+  - /B18sHg
+  - /playbook/operations/email-template/farewell
+  - /lm57xA
+  - /playbook/operations/email-template/offer-letter
+  - /OQnMQA
+  - /playbook/operations/email-template/international-labour-day
+  - /DS7ZfQ
+  - /playbook/operations/email-template/tet-holiday
+  - /ZlajXg
+  - /playbook/operations/email-template/interview-invitation
+  - /0WFBTg
+  - /playbook/operations/email-template/national-day
+  - /6L4CZw
 ---
 
 This page holds the email templates Dwarves Foundation Operations and HR use, from an interview slot to an offer to a holiday notice for clients. They are grouped by who receives the email. Each template shows the subject line, then the body. Replace everything in square brackets before sending.

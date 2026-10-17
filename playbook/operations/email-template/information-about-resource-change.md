@@ -10,8 +10,7 @@ tags:
   - email
   - operation
   - template
-redirect:
-  - /XhPmgQ
+redirect: []
 ---
 
 **Title:** Dwarves Foundation - Resource Changes Agreement on [**Name of Project**] from [**date**]

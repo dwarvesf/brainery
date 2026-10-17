@@ -10,8 +10,7 @@ tags:
   - email
   - operation
   - template
-redirect:
-  - /PmYQ4A
+redirect: []
 ---
 
 Hey there!

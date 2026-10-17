@@ -10,8 +10,7 @@ tags:
   - email
   - operation
   - template
-redirect:
-  - /0WFBTg
+redirect: []
 ---
 
 **Title:** Dwarves Foundation - Interview invitation

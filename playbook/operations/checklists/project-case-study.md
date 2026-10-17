@@ -11,8 +11,7 @@ tags:
   - checklist
   - operation
   - project
-redirect:
-  - /yAkaUA
+redirect: []
 ---
 
 The case study should focus on what the audience want to read

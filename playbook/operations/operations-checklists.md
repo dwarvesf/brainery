@@ -20,18 +20,30 @@ tags:
   - project
   - delivery
 redirect:
-  - /playbook/operations/checklists/artifact-checklist
-  - /playbook/operations/checklists/assets-checklist
-  - /playbook/operations/checklists/billing-checklist
-  - /playbook/operations/checklists/consulting-contract-checklist
-  - /playbook/operations/checklists/hiring-checklist
-  - /playbook/operations/checklists/leave-and-request-checklist
-  - /playbook/operations/checklists/offboarding-checklist
-  - /playbook/operations/checklists/onboarding-checklist
-  - /playbook/operations/checklists/project-case-study
-  - /playbook/operations/checklists/project-communication
-  - /playbook/operations/checklists/project-handover
   - /playbook/operations/checklists/vietnam-invoice-checklist
+  - /2SRPhw
+  - /playbook/operations/checklists/onboarding-checklist
+  - /B1jXRA
+  - /playbook/operations/checklists/project-handover
+  - /AHIv4w
+  - /playbook/operations/checklists/project-communication
+  - /J9QGYQ
+  - /playbook/operations/checklists/assets-checklist
+  - /j5Vpeg
+  - /playbook/operations/checklists/artifact-checklist
+  - /yRz86w
+  - /playbook/operations/checklists/hiring-checklist
+  - /Xop3XQ
+  - /playbook/operations/checklists/leave-and-request-checklist
+  - /XnXPKA
+  - /playbook/operations/checklists/consulting-contract-checklist
+  - /VHDvgg
+  - /playbook/operations/checklists/billing-checklist
+  - /AEQnmA
+  - /playbook/operations/checklists/project-case-study
+  - /yAkaUA
+  - /playbook/operations/checklists/offboarding-checklist
+  - /M7Kgvg
 ---
 
 The Dwarves Operations team keeps one checklist per recurring job. This page gathers them so a person on duty can find the right list without browsing a folder. The lists fall into three groups: people, clients and money, and projects.
