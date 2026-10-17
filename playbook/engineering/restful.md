@@ -4,6 +4,8 @@ description: Conventions for REST API design, from URLs and versioning to pagina
 date: null
 redirect:
   - /0OkhcQ
+authors:
+  - tieubao
 ---
 
 An API is a user interface for developers. Put the effort in to ensure it's not just functional but pleasant to use.
@@ -14,7 +16,7 @@ The following terms are crucial when discussing REST APIs:
 
 - **Resource**: An object or representation of something with associated data. Operations such as `delete`, `add`, and `update` can be performed on resources. Examples include Animals, schools, and employees.
 - **Collection**: A group of resources, like the collection of Company resources under Companies.
-- **URL (Uniform Resource Locator)**: A path used to locate a resource and perform actions on it.
+- **URL (uniform resource locator)**: A path used to locate a resource and perform actions on it.
 
 ## Conventions
 
@@ -25,7 +27,7 @@ The following terms are crucial when discussing REST APIs:
 - **SSL everywhere**: Use SSL for all communications, without exceptions.
 - **Pretty print & gzip**: Default to pretty-printing and ensure support for gzip compression.
 - **API versioning**: Always version APIs. Indicate versions in the URL, not headers.
-- **Depict Resource [Hierarchy](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)**: Represent resource hierarchy in URIs. If sub-resources exist, reflect this in the API. For instance, use `GET /users/123/posts/1` to fetch Post 1 by User 123.
+- **Depict resource [hierarchy](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)**: Represent resource hierarchy in URIs. If sub-resources exist, reflect this in the API. For instance, use `GET /users/123/posts/1` to fetch Post 1 by User 123.
 - **Field name casing**: Maintain consistent casing across the application. If using JSON for requests or responses, follow [camelCase](https://en.wikipedia.org/wiki/Camel_case) convention.
 
 ## API versioning

@@ -3,6 +3,8 @@ draft: false
 title: "Narrative Economics (reading note)"
 description: "Shiller explores how \"economic narratives\" spread like contagions through societies, ultimately creating real-world economic effects."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - communication
 redirect:

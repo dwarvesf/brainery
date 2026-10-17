@@ -4,6 +4,8 @@ description: What a test plan and test case contain, plus a test closure checkli
 date: null
 redirect:
   - /HRkHHw
+authors:
+  - tieubao
 ---
 
 ## Testing materials

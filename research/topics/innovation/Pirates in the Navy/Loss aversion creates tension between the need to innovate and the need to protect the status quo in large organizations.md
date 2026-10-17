@@ -3,6 +3,8 @@ draft: false
 title: "Loss aversion creates tension between the need to innovate and the need to protect the status quo in large organizations (reading note)"
 description: "Organizations, like people, are loss averse."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - innovation
   - organization

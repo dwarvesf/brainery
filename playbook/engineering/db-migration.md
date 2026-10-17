@@ -4,6 +4,8 @@ description: Checklist and tooling pointers for database migrations on mobile an
 date: null
 redirect:
   - /e5W9zg
+authors:
+  - tieubao
 ---
 
 ## Mobile

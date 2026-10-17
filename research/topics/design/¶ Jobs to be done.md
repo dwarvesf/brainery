@@ -5,6 +5,8 @@ description: Learn how the Jobs to Be Done (JTBD) framework helps product teams 
 date: 2026-08-27
 redirect:
   - /xEeUHQ
+authors:
+  - tieubao
 ---
 
 Jobs to be done (JTBD) is a product development methodology that assumes that people only engage with products or services insofar as they help them satisfy some fundamental need, called a job. A "job" is a process of reaching some objective under given circumstances. It might be emotional, functional, or social. And, any given job may itself comprise many smaller jobs.

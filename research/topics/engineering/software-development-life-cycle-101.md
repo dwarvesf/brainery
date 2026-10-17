@@ -1,8 +1,10 @@
 ---
 draft: false
-title: Software development life cycle 101
+title: "Software development life cycle 101: phases and artifacts"
 description: Learn the Software development life cycle (SDLC) basics, key project phases, and essential artifacts to build high-quality software on time and within budget for successful project delivery.
 date: 2020-05-19
+authors:
+  - tieubao
 tags:
   - sdlc
 redirect:

@@ -3,6 +3,8 @@ draft: false
 title: "Corporate innovation means discovering sustainable new business models (reading note)"
 description: "Innovation doesn't mean simply coming with the newest shiny thing; it means discovering new business models that yield long-term profit for the organization."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - corporate
   - innovation

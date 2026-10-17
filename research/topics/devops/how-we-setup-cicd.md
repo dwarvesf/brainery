@@ -1,8 +1,10 @@
 ---
 draft: false
-title: How we setup cicd
+title: "How we set up CI/CD at Dwarves"
 description: Learn how Dwarves simplifies CI/CD with Gitlab, Github Actions, automated linting, testing, previewing, building Docker images, and deploying to Kubernetes for faster, reliable software delivery.
 date: 2021-02-16
+authors:
+  - tieubao
 tags:
   - devops
 redirect:
@@ -79,7 +81,7 @@ Experiments are and will be made to get us close to the goal. For now, we are se
 
 ![](assets/how-we-setup-cicd_f38b955faad846c6c75b4252b56fe1b4_md5.webp)
 
-## CI - Continuous improving
+## CI - continuous improving
 
 In the spirit of CI/CD, It's good to keep the final notes like this.
 

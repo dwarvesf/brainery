@@ -1,10 +1,12 @@
 ---
 draft: false
-title: Skeuoumorphic models limit possibilities for innovation
+title: "Skeuomorphic models can limit room for innovation"
 description: Skeuomorphism in design uses real-life metaphors to shape digital tools, but this can limit how we understand and innovate with digital technology beyond physical constraints.
-date: null
+date: 2026-08-27
 redirect:
   - /0pkcJw
+authors:
+  - tieubao
 ---
 
 Skeuomorphism in design describes the rendering of digital items in terms of their real-life counterparts. For example, skeuomorphic design might render a notebook application such that it resembles a physical notebook.

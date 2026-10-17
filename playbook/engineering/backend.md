@@ -4,6 +4,8 @@ description: Backend practices covering the N commandments, data persistence cho
 date: null
 redirect:
   - /dNPWQw
+authors:
+  - tieubao
 ---
 
 - [N commandments](#n-commandments)

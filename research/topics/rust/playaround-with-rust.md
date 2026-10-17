@@ -1,8 +1,10 @@
 ---
 draft: false
-title: Playaround with Rust
+title: "Playing around with Rust: ownership, lifetimes and safe parallelism"
 description: "Learn how Mozilla uses Rust to build safer, parallel browsers by leveraging Rust's ownership, immutability, lifetime tracking, and expression-based design for error-free, efficient code."
 date: 2019-08-30
+authors:
+  - tieubao
 tags:
   - rust
 redirect:
@@ -63,9 +65,9 @@ let x: i64 // x is un-addresable value, cannot be use util set x = somevalue
 
 ## Expression-base language
 
-Rust is *primarily* an expression language. This means that most forms of value-producing or effect-causing evaluation are directed by the uniform syntax category of *expressions*. Each kind of expression can typically *nest* within each other kind of expression, and rules for evaluation of expressions involve specifying both the value produced by the expression and the order in which its sub-expressions are themselves evaluated.
+Rust is _primarily_ an expression language. This means that most forms of value-producing or effect-causing evaluation are directed by the uniform syntax category of _expressions_. Each kind of expression can typically _nest_ within each other kind of expression, and rules for evaluation of expressions involve specifying both the value produced by the expression and the order in which its sub-expressions are themselves evaluated.
 
-In contrast, statements in Rust serve *mostly* to contain and explicitly sequence expression evaluation.
+In contrast, statements in Rust serve _mostly_ to contain and explicitly sequence expression evaluation.
 
 Rust allow user do something like
 
@@ -110,7 +112,7 @@ fn main() {
 }
 ```
 
-Hence, we can say, no matter what we do with **borrowing**, Rust must know the lifetime of parameter, it we don't provide it, Rust stopping what you do by the error: *missing lifetime specifier*.\*\*
+Hence, we can say, no matter what we do with **borrowing**, Rust must know the lifetime of parameter, it we don't provide it, Rust stopping what you do by the error: _missing lifetime specifier_.\*\*
 
 _E.g:_ When you are trying to put the function parameter by borrow some variable, or trying to borrow the function parameter inside function, Rust need to know the lifetime of it, otherwise, Rust compiler will stopping by the error
 

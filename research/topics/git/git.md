@@ -1,11 +1,13 @@
 ---
 draft: false
-title: Git
+title: "Git basics: tracking changes, branching and collaborating"
 description: Learn how Git, the popular version control system, helps developers track changes, manage branches, and collaborate effectively using workflows like GitHub flow and Git-flow for software development.
 date: 2021-08-11
 github_id: hieuphq
 redirect:
   - /oDLurA
+authors:
+  - hieuphq
 ---
 
 ### What is git?

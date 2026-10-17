@@ -3,6 +3,8 @@ draft: false
 title: "Innovation thrives in open environments (reading note)"
 description: "New ideas are built from the scraps of other ideas that we've encountered."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - idea
   - innovation

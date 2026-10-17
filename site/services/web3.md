@@ -3,6 +3,8 @@ title: Web3 & blockchain expertise
 short_title: Web3
 description: We build blockchain systems that solve real problems. From DeFi protocols to cross-chain bridges, we help companies navigate the Web3 space and create solutions that actually work.
 date: 2025-01-12
+authors:
+  - tieubao
 tags:
   - blockchain
   - web3
@@ -124,7 +126,7 @@ Whether you're exploring blockchain for the first time or scaling an existing We
 
 **Email**: <team@d.foundation>  
 **Phone**: (+1) 818 408 6969  
-**Telegram**: [dfoundation](https://t.me/dfoundation)  
+**Telegram**: [dfoundation](https://t.me/dfoundation)
 
 - [View our team](https://memo.d.foundation/profile)
 - [See more case studies](https://memo.d.foundation/consulting)

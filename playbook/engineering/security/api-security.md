@@ -4,6 +4,8 @@ description: A checklist for securing an API across authentication, access, inpu
 date: null
 redirect:
   - /EESv0A
+authors:
+  - tieubao
 ---
 
 Use this checklist at design time, before each release, and when reviewing a pull request that adds an endpoint. Tick an item only when you have checked it in the code or the running service. If an item does not apply, write why next to it instead of leaving it blank.

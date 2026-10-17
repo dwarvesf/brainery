@@ -1,8 +1,10 @@
 ---
 draft: false
-title: What I learned on design thinking and software development
+title: "Design thinking and the software development life cycle: lessons learned"
 description: Learn how design thinking and the Software Development Life Cycle (SDLC) guide software projects to create user-focused products efficiently with quality, budget, and time management.
 date: 2021-05-10
+authors:
+  - tieubao
 tags:
   - design-thinking
 redirect:
@@ -37,7 +39,7 @@ Consequently, there is a methodology called Software Development Life Cycle (SDL
 
 Those phases are compulsory in software development, but I think the first 2 phases are essential. Because we need to know what we are going to build, its purpose and the current problem. More importantly, we must have a plan about the cost and the risk of the project if it fails. In the planning phase, three constraints that decide the success of a project are quality, budget and time. There are 2 common SDLC models: Waterfall and Agile.
 
-- **The Waterfall model** goes straight from the beginning to the ending. In this model, we finish one stage and then go to the next one. But this model has a restriction - *any small error in one phase can affect the whole process.*
+- **The waterfall model** goes straight from the beginning to the ending. In this model, we finish one stage and then go to the next one. But this model has a restriction - _any small error in one phase can affect the whole process._
 - **The Agile model** has an iterative cycle that allows us to test and fix each outcome to make a new and better version.
 
 This is the first time I've gotten to know about the development software process properly. As a designer, I understand that creating a product needs more than a beautiful visual. It must be easy for users to use. And finally, the most important thing is: _”A good product is a product finished in the shortest time with the lowest cost and the highest quality”_.

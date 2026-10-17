@@ -3,6 +3,8 @@ draft: false
 title: "Metamodernism (reading note)"
 description: "Metamodernism, a cultural mode following modernism and postmodernism, describes a pattern of cultural philosophy emerged in the late twentieth century."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - communication
   - story-telling

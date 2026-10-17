@@ -3,6 +3,8 @@ draft: false
 title: "Metaphors create coherent systems of meaning (reading note)"
 description: "\"Metaphor\" means understanding one thing in terms of another."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - communication
   - metaphor

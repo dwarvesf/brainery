@@ -1,8 +1,10 @@
 ---
 draft: false
-title: Xpc services on macOS app using Swift
+title: "XPC services in a macOS app with Swift"
 description: Learn how to implement XPC Services for secure interprocess communication on macOS, enabling modular app design, crash isolation, and efficient resource management with NSXPCConnection and launchd.
 date: 2020-11-05
+authors:
+  - tieubao
 tags:
   - macos
   - swift

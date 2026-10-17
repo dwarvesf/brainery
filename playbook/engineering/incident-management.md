@@ -4,6 +4,8 @@ description: How we report and classify incidents by priority, plus a blameless 
 date: null
 redirect:
   - /tbFyYQ
+authors:
+  - tieubao
 ---
 
 **Incident management** is the practice of responding to an unplanned event, user disruption, or service interruption and involves restoring the service to an operational or acceptable state. There are 2 general labels for incidents:

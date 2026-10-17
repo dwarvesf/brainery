@@ -3,6 +3,8 @@ draft: false
 title: "Metonymy facilitates understanding by focusing our attention (reading note)"
 description: "Metaphor and metonymy are each distinct processes."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - communication
   - metaphor

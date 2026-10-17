@@ -3,6 +3,8 @@ draft: false
 title: "Structural metaphors reveal and conceal different aspects of experience (reading note)"
 description: "Structural metaphors emphasize some aspects of experience but hide others."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - communication
   - metaphor

@@ -4,6 +4,8 @@ description: A learning map for blockchain development covering cryptography bas
 date: null
 redirect:
   - /Xrs4ag
+authors:
+  - tieubao
 ---
 
 - [N commandments](#n-commandments)

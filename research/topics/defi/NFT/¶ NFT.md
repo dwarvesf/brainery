@@ -5,6 +5,8 @@ description: "NFT stands for non-fungible token, a token that represents ownersh
 date: 2026-08-27
 redirect:
   - /NjozjA
+authors:
+  - tieubao
 ---
 
 NFT is an abbreviation for non-fungible token. It's one the tokens that represents an ownership of rare digital goods such as digital artworks or collectibles.

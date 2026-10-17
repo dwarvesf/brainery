@@ -3,6 +3,8 @@ draft: false
 title: "Orientational metaphors organize concepts relationally (reading note)"
 description: "Orientational metaphors organize concepts in relation to one another, typically using spatial orientations."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - communication
 redirect:

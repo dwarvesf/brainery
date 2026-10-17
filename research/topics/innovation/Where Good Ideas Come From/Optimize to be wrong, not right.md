@@ -3,6 +3,8 @@ draft: false
 title: "Optimize to be wrong, not right (reading note)"
 description: "Organizations should optimize to be wrong, not right: they should look to invalidate as many ideas as they can."
 date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - idea
   - innovation

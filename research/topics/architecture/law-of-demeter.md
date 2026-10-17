@@ -1,12 +1,14 @@
 ---
 draft: false
-title: Law of demeter
+title: "The Law of Demeter: loose coupling by limiting object dependencies"
 description: Learn how the Law of Demeter reduces object dependencies by promoting loose coupling and improving code flexibility, maintainability, and testability in object-oriented programming.
 date: 2023-01-17
 github_id: namtrhg
 icy: 10
 redirect:
   - /jNbxnw
+authors:
+  - namtrhg
 ---
 
 **The Law of Demeter (LoD)**, also known as the Philosophy of Least Knowledge, is a program design principle that states that an object should only communicate with objects that are close to it in the object graph. This concept contributes to reducing object dependency and making code more manageable and testable.
