@@ -18,8 +18,6 @@ redirect:
   - /culture/what-stays-valuable-when-anyone-can-build
 ---
 
-# What stays valuable when anyone can build anything
-
 When building gets cheap, value moves to the two inputs that cannot be made: judgment inside the firm and trust outside it. This post shows the mechanism from first principles. It uses figures and it names where the argument leaks. It is a framework, not a prediction. Dwarves uses this lens to run its build-by-fleet operations.
 
 ## What actually stays valuable when building gets cheap?
@@ -75,4 +73,4 @@ Apply the complementary-goods lens to the factor that deflates in your market. N
 
 Our working answer to the title question is short: judgment inside, trust outside. The rest is the craft of getting good at both.
 
-Related: [On agentic AI](../updates/arc/on-agent.md), [The convergence](../updates/arc/final.md), and the [arc series](/org-roadmap-2025).
+Related: [On agentic AI](/arc-on-agent), [The convergence](/arc-convergence), and the [arc series](/org-roadmap-2025).

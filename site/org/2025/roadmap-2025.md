@@ -51,7 +51,7 @@ New initiatives:
 - AI Apprenticeship batch 2025
 - Unlock: AI as copilot for everyone
 
-### [Delivery chair](delivery-chair.md)
+### Delivery chair
 
 Delivery is straightforward: we keep doing what we do best, but leverage new tech to **increase quality and ship faster**.
 
@@ -61,7 +61,7 @@ Key questions we're answering:
 - How do we control quality at scale?
 - How do we measure delivery wins?
 
-### [Communication chair](communication-chair.md)
+### Communication chair
 
 We're doubling down on our research-first approach and **building our reputation** as an inbound engineering team. The goal is to use content from our learning team to build audience and attract talent.
 
@@ -81,7 +81,7 @@ Strategic partnerships:
 - Partner with VCs to offer packages for AI startups
 - Work with CTOs and PMs on retainer projects, leading to platform ops opportunities
 
-### [Engagement chair](engagement-chair.md)
+### Engagement chair
 
 We're creating the best-in-class environment for our team. People need freedom to consult and co-build with partners while growing their skills.
 

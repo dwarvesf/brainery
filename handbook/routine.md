@@ -64,7 +64,7 @@ While client projects are our bread and butter, we invest time in other activiti
 
 ### Open source and internal products
 
-We create tools and products that solve our own problems first. We use them internally, refining them through real-world testing before considering wider release. Our [Open Source](/opensource/README.md) projects reflect this philosophy.
+We create tools and products that solve our own problems first. We use them internally, refining them through real-world testing before considering wider release. Our [Open Source](/about/open-source) projects reflect this philosophy.
 
 ### Ventures products
 

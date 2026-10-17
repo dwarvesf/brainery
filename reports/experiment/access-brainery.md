@@ -1,7 +1,7 @@
 ---
 draft: false
 title: Access the brainery
-description: This page outlines how developers can connect to and utilize Brainery's extensive knowledge base and AI-driven capabilities. By integrating a straightforward MCP configuration, you can seamlessly access powerful insights directly within your existing development tools and workflows.
+description: "This page outlines how developers can connect to and utilize Brainery's extensive knowledge base and AI-driven capabilities. By integrating a straightforward MCP configuration, you can seamlessly access powerful insights directly within your existing development tools and workflows."
 date: 2025-05-06
 authors:
   - tieubao
@@ -40,4 +40,4 @@ Essentially, adding the **MCP config** to your environment lets you make **Brain
 
 ---
 
-> Next: [Reading after brainery](reading.md)
+> Next: Reading after brainery

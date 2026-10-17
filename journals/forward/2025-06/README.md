@@ -46,22 +46,22 @@ Think of it as a guided tour through our month of discovery.
 
 We've organized everything to make your reading experience smooth and engaging. Here's what awaits you:
 
-**[Overview](01-overview.md)** - Jump in here for a quick snapshot of our latest deliverables, team updates, and research directions. It's your starting point for understanding where we've been focusing our energy.
+**Overview** - Jump in here for a quick snapshot of our latest deliverables, team updates, and research directions. It's your starting point for understanding where we've been focusing our energy.
 
-**[Tech narratives](02-narrative.md)** - Come along as we explore agent-first development and agentic workflows. We're seeing the lines blur between traditional software and AI-driven systems, and we want to share what that means for all of us.
+**Tech narratives** - Come along as we explore agent-first development and agentic workflows. We're seeing the lines blur between traditional software and AI-driven systems, and we want to share what that means for all of us.
 
-**[Market pulses](03-pulse.md)** - Discover the early signals we're tracking, from AI orchestration layers to how AI products are approaching SEO. These are the movements that might become tomorrow's big shifts.
+**Market pulses** - Discover the early signals we're tracking, from AI orchestration layers to how AI products are approaching SEO. These are the movements that might become tomorrow's big shifts.
 
-**[Tech radar](04-radar.md)** - See what we've actually tested this month. From DSPy and Claude Code to Swift 6 concurrency and our experiments with vibe coding, these are tools and frameworks we've put through real trials.
+**Tech radar** - See what we've actually tested this month. From DSPy and Claude Code to Swift 6 concurrency and our experiments with vibe coding, these are tools and frameworks we've put through real trials.
 
-**[Misc finds](05-misc.md)** - Browse our collection of external resources that caught our attention and added value to our thinking. Sometimes the best insights come from outside our usual circles.
+**Misc finds** - Browse our collection of external resources that caught our attention and added value to our thinking. Sometimes the best insights come from outside our usual circles.
 
-**[Reflection](06-reflection.md)** - Join us as we step back and share our honest take on this month's themes. This is where we connect the dots and look ahead to what's coming next.
+**Reflection** - Join us as we step back and share our honest take on this month's themes. This is where we connect the dots and look ahead to what's coming next.
 
-**[Wrap up](07-wrap.md)** - Meet the Dwarves who made this issue happen. We believe in recognizing the people who push our understanding forward and make these insights possible.
+**Wrap up** - Meet the Dwarves who made this issue happen. We believe in recognizing the people who push our understanding forward and make these insights possible.
 
 Welcome aboard. Let's explore what June taught us about building software in an age of intelligence.
 
 ---
 
-> Next: [Overview](01-overview.md)
+> Next: Overview

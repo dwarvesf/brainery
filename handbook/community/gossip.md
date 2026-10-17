@@ -17,7 +17,7 @@ redirect:
 
 Knowledge moves fast in tech. By the time you schedule a formal presentation, that breakthrough insight might already be old news. Our gossip protocol rewards the spontaneous moments when someone drops valuable knowledge in casual conversation.
 
-It's the missing piece between structured [knowledge sharing](sharing.md) and our [tech transfer framework](transfer.md). While formal presentations have their place, some of the best learning happens in casual exchanges: "Hey, I just figured out a cleaner way to handle state management" or "That API issue? I found a workaround."
+It's the missing piece between structured [knowledge sharing](sharing.md) and our [tech transfer framework](/research/transfer). While formal presentations have their place, some of the best learning happens in casual exchanges: "Hey, I just figured out a cleaner way to handle state management" or "That API issue? I found a workaround."
 
 The gossip protocol captures these moments, creates immediate positive feedback, and ensures valuable insights spread quickly without getting lost in the noise.
 

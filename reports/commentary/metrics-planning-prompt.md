@@ -302,4 +302,4 @@ Remember: The goal isn't perfect monitoring from day one. Use these prompts to b
 
 ---
 
-> Next: [Understanding the metrics that matter most](metrics.md)
+> Next: Understanding the metrics that matter most

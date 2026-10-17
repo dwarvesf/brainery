@@ -23,76 +23,76 @@ This repo is our playbook which contains our practices in software development a
 ## Product design
 
 - [Design workshop](/)
-- [Design sprint](/design/design-sprint.md)
-- [AARRR framework](/design/AARRR.md)
-- [Lean canvas](/design/lean-canvas.md)
-- [Wireframe](/design/wireframe.md)
-- [Prototype](/design/prototype.md)
-- [UX research](/design/UX-research.md)
-- [Information structure: IA design](/design/IA.md)
-- [Low fidelity prototype: UI design](/design/UI.md)
-- [High fidelity prototype: iterative design](/design/IX.md)
-- [The design system](/design/design-system.md)
+- [Design sprint](/playbook/design/design-sprint)
+- [AARRR framework](/playbook/design/aarrr)
+- [Lean canvas](/playbook/design/lean-canvas)
+- Wireframe
+- [Prototype](/playbook/design/prototype)
+- [UX research](/playbook/design/ux-design)
+- Information structure: IA design
+- [Low fidelity prototype: UI design](/playbook/design/prototype)
+- High fidelity prototype: iterative design
+- The design system
 
 ## Developing
 
-- [Software philosophy: engineering-driven, craftsmanship & minifesto](/engineering/README.md)
-- [Workflow: agile & scrum framework](/engineering/workflow.md)
-- [Technology stack: our POV on technology](/engineering/stack.md)
+- [Software philosophy: engineering-driven, craftsmanship & minifesto](/playbook/engineering)
+- [Workflow: agile & scrum framework](/playbook/engineering/workflow)
+- [Technology stack: our POV on technology](/playbook/engineering/stack)
 
 ### Setup
 
-- [Automate your development environment](/engineering/setup-laptop.md)
-- [Using right editor for the job](/engineering/editor.md)
-- [Keep your devices safe](/engineering/basic-security.md)
+- [Automate your development environment](/playbook/engineering/setup-laptop)
+- [Using right editor for the job](/playbook/engineering/editor)
+- [Keep your devices safe](/playbook/engineering/basic-security)
 
 ### Practices
 
-- [Start a new project](/engineering/setup-project.md)
-- [Repository setup](/engineering/setup-repository.md)
-- [Write a good README file](/engineering/readme-how.md)
-- [Environments](/engineering/environment.md)
-- [Version control with git](/engineering/git.md)
-- [Working together: pair programming](/engineering/working-together.md)
-- [README driven development](/engineering/rdd.md)
-- [Agile requirement: user story](/engineering/user-story.md)
-- [Document diagrams](/engineering/diagram.md)
-- [Writing REST API](/engineering/restful.md)
-- [Error convention](/engineering/error.md)
-- [Writing test & materials](/engineering/testing/testing.md)
-- [Code review](/engineering/code-review.md)
-- [Definition of done](/engineering/definition-of-done.md)
-- [Versioning](/engineering/versioning.md)
-- [Write a useful changelog](/engineering/changelog.md)
-- [CI/CD](/engineering/ci-cd.md)
-- [The 12 factor app](/engineering/12-factor-app.md)
-- [Development security rules](/engineering/security/dev-security.md)
-- [Licenses](/engineering/license.md)
-- [Release checklist](/engineering/release.md)
-- [UAT checklist](/engineering/testing/UAT.md)
-- [QA best practices](/engineering/testing/QA-best-practices.md)
-- [Defect template](/engineering/testing/defect-template.md)
+- [Start a new project](/playbook/engineering/setup-project)
+- [Repository setup](/playbook/engineering/setup-repository)
+- [Write a good README file](/playbook/engineering/readme-how)
+- [Environments](/playbook/engineering/environment)
+- [Version control with git](/playbook/engineering/git)
+- [Working together: pair programming](/playbook/engineering/working-together)
+- [README driven development](/playbook/engineering/rdd)
+- [Agile requirement: user story](/playbook/engineering/user-story)
+- [Document diagrams](/playbook/engineering/diagram)
+- [Writing REST API](/playbook/engineering/restful)
+- [Error convention](/playbook/engineering/error)
+- [Writing test & materials](/playbook/engineering/qa/testing)
+- [Code review](/playbook/engineering/code-review)
+- [Definition of done](/playbook/engineering/definition-of-done)
+- [Versioning](/playbook/engineering/versioning)
+- [Write a useful changelog](/playbook/engineering/changelog)
+- [CI/CD](/playbook/engineering/ci-cd)
+- [The 12 factor app](/playbook/engineering/12-factor-app)
+- [Development security rules](/playbook/engineering/security/dev-security)
+- [Licenses](/playbook/engineering/license)
+- [Release checklist](/playbook/engineering/release)
+- UAT checklist
+- [QA best practices](/playbook/engineering/qa/qa-best-practices)
+- [Defect template](/playbook/engineering/qa/defect-template)
 
 ### Platforms
 
-- [Android](/engineering/android.md)
-- [iOS](/engineering/ios.md)
-- [Frontend](/engineering/frontend/tech-ecosystem.md)
-- [Backend](/engineering/backend.md)
-  - [API Security Checklist](/engineering/security/api-security.md)
+- [Android](/playbook/engineering/android)
+- [iOS](/playbook/engineering/ios)
+- [Frontend](/playbook/engineering/frontend/tech-ecosystem)
+- [Backend](/playbook/engineering/backend)
+  - [API Security Checklist](/playbook/engineering/security/api-security)
 
 ## Production
 
-- [Logging](/engineering/log.md)
-- [Monitoring](/engineering/monitoring.md)
-- [Production checklist](/engineering/production.md)
-- [Handover checklist](/engineering/handover.md)
+- [Logging](/playbook/engineering/log)
+- [Monitoring](/playbook/engineering/monitoring)
+- [Production checklist](/engineering-release-checklists)
+- [Handover checklist](/playbook/engineering/handover)
 
 ## Business
 
-- [Overall process](/business/README.md)
-- [Fixed budget, scope controlled](/business/fbsc.md)
-- [Collaboration guideline](/collaboration-guideline.md)
+- Overall process
+- [Fixed budget, scope controlled](/consulting/fixed-budget-scope-controlled)
+- Collaboration guideline
 
 ## Contributing
 

@@ -1,5 +1,5 @@
 ---
-title: Protocol cheatsheet
+title: Tokenomics protocol cheatsheet
 description: Quick reference guide with essential protocol information at a glance. This cheatsheet covers token economics, governance structure, earning opportunities, and key metrics for easy reference.
 date: 2025-06-18
 authors:
@@ -269,7 +269,7 @@ Newcomer (10-50 ICY/month) → Active Contributor (50-500 ICY/month)
 - Read the [Whitepaper](whitepaper.md) for a deep dive into our vision
 - Check the [Economic Model](economic-model.md) for tokenomics details
 - Review the [Governance Framework](governance-framework.md) to understand decision-making
-- Browse the [Earning Opportunities Guide](earning-opportunities.md) to start contributing
+- Browse the Earning Opportunities Guide to start contributing
 
 **3. Start contributing**:
 
