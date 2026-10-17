@@ -117,8 +117,6 @@ Nix knows the exact content of packages and dependencies before the build. It us
 - **No base image.** Nix creates Docker images from scratch. A normal Docker build needs an existing base image such as Ubuntu or Alpine.
 - **No build-time tools in the image.** Building a Docker image in Nix means building the program into a Nix package, checking that it works, and turning it into an image. Build-time dependencies are not needed, so build tools and redundant libraries are easy to leave out.
 
-Taken together, Nix builds Docker images more efficiently, faster and cheaper.
-
 ## References
 
 - _Understanding the image layers_. (n.d.). Docker Docs. Retrieved August 2, 2024, from <https://docs.docker.com/guides/docker-concepts/building-images/understanding-image-layers/>
