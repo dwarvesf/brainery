@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "The Go bet worked. Then we tried to double the team."
+title: "The Go bet worked, then we tried to double the team"
 description: "A hindsight report on Dwarves' Go bet: headcount from 2015 to 2024, 43 start dates in four quarters, who stayed past a year, and the hiring rules we changed afterwards. Aggregates from our own records."
 slug: company-scaling
 kind: field-report
