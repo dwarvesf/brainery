@@ -1,8 +1,8 @@
 ---
 draft: false
-title: "Narrative sequencing informs meaning (reading note)"
+title: Narrative sequencing informs meaning
 description: Learn how the sequence of information in a story shapes meaning and persuasion, and why adjusting your approach is key when your goal is to inform rather than persuade.
-date: 2026-08-27
+date: null
 redirect:
   - /1T1VWw
 ---
@@ -23,5 +23,3 @@ But, keep in mind your purpose: if your goal is to inform rather than to persuad
 #### Citations
 
 [[≈ The Elements of Story | Flaherty, Francis. The Elements of Story: Field Notes on Nonfiction Writing. Reprint edition. Harper Perennial, 2010.]]
-
-Adapted from David Drysdale's Moby Diction notes.

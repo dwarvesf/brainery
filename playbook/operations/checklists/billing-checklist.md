@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Billing
 description: This checklist illustrates the process of billing approval.
 date: 2020-01-01
@@ -10,12 +9,13 @@ tags:
   - checklist
   - operation
   - people
-redirect: []
+redirect:
+  - /AEQnmA
 ---
 
 ## Invoice process
 
-### Person in Charge (PIC)
+### Person In Charge (PIC)
 
 Person In Charge for invoice will be the person in charge of the Account, if the Account doesn't have any person in charge, other people in the Operation team will be in charge. Ideally, the second Person In Charge will be the Salesperson of the project.
 

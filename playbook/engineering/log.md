@@ -1,10 +1,12 @@
 ---
-title: Logging system
-description: How we structure and centralize system and business logs, with the Grafana Loki stack for search and Sentry for error tracking.
+title: null
+description: null
 date: null
 redirect:
   - /AL3v5g
 ---
+
+# Logging system
 
 Logs are for auditing. There is a well-defined process for accessing and searching through logs. For every project that we worked with, a single server or multiple services, we always bring on our log stack to track what happens in the system.
 
@@ -63,19 +65,6 @@ Trace: call service is failed
          - at pkg/handler/order.go:60 (Handler.doValidateCreateOrder)
 ```
 
-## Choosing a level
-
-A made-up payments service, to show the intended split:
-
-| Level   | Example message                     | Why this level                                |
-| ------- | ----------------------------------- | --------------------------------------------- |
-| `Debug` | `parsed request body, 3 line items` | Only useful while developing                  |
-| `Info`  | `order created, id=1042`            | A normal computation worth auditing           |
-| `Error` | `payment provider returned 502`     | The request failed, the service keeps running |
-| `Fatal` | `unable to connect postgres`        | The service cannot continue                   |
-
-Keep secrets and personal data out of every level: no passwords, tokens, card numbers or full request bodies containing them.
-
 ## Remote logging service
 
 We use GLP stack as a remote logging service.
@@ -85,12 +74,6 @@ We use GLP stack as a remote logging service.
 - Grafana: the visualization tool which consumes data from Loki data sources
 
 ![](assets/log_glp.webp)
-
-An example Loki query in Grafana, assuming your log agent (Promtail, or its successor Grafana Alloy) attaches `service` and `level` labels as in the structure above, to find one failing request by its trace id:
-
-```
-{service="example-be", level="error"} |= "BBk56KzbYdF7Uha2CJ5h"
-```
 
 ## Remote error tracking service
 

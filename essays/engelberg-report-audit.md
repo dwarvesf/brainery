@@ -20,13 +20,17 @@ I read it twice, and the second time with a different feeling. Most of what that
 
 This post is that walk-through. For each idea: what it is, in plain words, and the scene where it shows up at the foundation. Then what we learned, and what's next.
 
-![Nine learnings from the report against our own documents: what we had, what was missing, what changed this week {#fig-matrix .live}](assets/engelberg-report-audit-fig1-matrix.svg "The whole thing in one grid. Each row is something the report says. The columns are what we already had, what was missing on the day I looked, and what changed in the week after. Amber means it shipped, an amber ring means it's named and next.")
+![Nine learnings from the report against our own documents: what we had, what was missing, what changed this week](assets/engelberg-report-audit-fig1-matrix.svg)
+
+_Fig. 1: The whole thing in one grid. Each row is something the report says. The columns are what we already had, what was missing on the day I looked, and what changed in the week after. Amber means it shipped, an amber ring means it's named and next._
 
 ## 1. Checking is the bottleneck now, not writing
 
 **What it is.** The report's first and loudest point. Agents write code, tests, and infrastructure faster than anyone can read it, so the hard part moved from "can we produce the thing" to "can we trust the thing we produced". And checking has an order. First you measure coverage, which lines your tests touch. Then you have an agent actively try to break the code without breaking any test, because the input your tests forgot is the one that matters. Then, only if that probe finds nothing, you run mutation testing, which means breaking the code on purpose in small ways and confirming the suite notices each break. If it doesn't notice, your tests aren't testing. The room also admitted nobody there could cite data on how many defects manual code review actually catches. They called it a status quo illusion.
 
-![The verification ladder from the report: coverage, break-it probe, mutation test, human review; rung two was the gap {#fig-ladder .live}](assets/engelberg-report-audit-fig2-ladder.svg 'The order the report gives, page 11. We had rungs one and three. Rung two is the one we added. Only if it finds nothing does mutation testing run.')
+![The verification ladder from the report: coverage, break-it probe, mutation test, human review; rung two was the gap](assets/engelberg-report-audit-fig2-ladder.svg)
+
+_Fig. 2: The order the report gives, page 11. We had rungs one and three. Rung two is the one we added. Only if it finds nothing does mutation testing run._
 
 **The scene at the foundation.** Every repo that adopts our kit pushes through a proof-of-done gate: no push without a recorded green run and a negative control, which is a test that the check fails when it should fail, so you know the green isn't fake. The Workers monorepo runs a mutation ratchet. Our code review rubric says, in its own words, that agent-produced pull requests get reviewed against the same rubric, agents don't get relaxed standards. So rungs one and three were already ours.
 
@@ -83,7 +87,9 @@ And what the agent sees after a `tsc --strict` run that produced TS2345 and TS18
 
 **The scene at the foundation.** Mildly embarrassing. We had the pruning gate, the place where proposed skills get approved or rejected, for months. What we didn't have was anything feeding it. My settings file, the one that decides what runs around the model every session, read `"PreCompact": []` and `"SessionEnd": []`. Those two events are where the session-end review is supposed to fire. Empty. Nothing had ever reached the gate. Shears, no garden.
 
-![The learn loop: a session ends, a reviewer reads what went wrong, drafts a proposal, a human prunes; the first arrow was never wired {#fig-loop .live}](assets/engelberg-report-audit-fig3-loop.svg 'The loop the report describes. The gate on the right existed for months. The dashed amber arrow is the one that was missing.')
+![The learn loop: a session ends, a reviewer reads what went wrong, drafts a proposal, a human prunes; the first arrow was never wired](assets/engelberg-report-audit-fig3-loop.svg)
+
+_Fig. 3: The loop the report describes. The gate on the right existed for months. The dashed amber arrow is the one that was missing._
 
 It's wired now, with a guard so a missing script can't break a session. The whole fix is one entry, and the guard is the `[ -x ... ] && exec ... || exit 0` shape, which is there because the last time a hook pointed at a script that had been removed, every session died with exit 127:
 
@@ -114,7 +120,9 @@ And the same command a day later, captured while writing this. Two more rows arr
 
 ![Terminal: board-all decisions --summary a day later, eleven rows, median three days](assets/engelberg-report-audit-term-decisions.png)
 
-![The second clock, first reading: median decision-wait per board {#fig-decisions .live}](assets/engelberg-report-audit-fig5-decisions.svg 'The same run as a chart. That 43-day bar is one row on the learning board that has waited on me since July. I know.')
+![The second clock, first reading: median decision-wait per board](assets/engelberg-report-audit-fig5-decisions.svg)
+
+_Fig. 4: The same run as a chart. That 43-day bar is one row on the learning board that has waited on me since July. I know._
 
 Nine things waiting on me, median three days. I checked three rows by hand: two were real waits, one had already been decided and only its execution was pending, so read the number as a ceiling. If you're blocked on a decision, write it on the board with the words "waits on" and a date. The list only sees what's written, and the waiting is now the expensive part.
 
@@ -174,7 +182,9 @@ The gaps were mostly in checking, which is the report's whole point. The break-i
 
 And the fixes were small. Seven gaps closed as pull requests in five repositories in one week, each through the full path: a spec, an adversarial review of the spec, a build, a fresh-context verifier that re-runs the spec's own verification commands, then a review battery of several lenses. Those batteries caught fifty findings before anything merged. The path itself is public, in [dwarves-kit](https://github.com/dwarvesf/dwarves-kit): the [workflow](https://github.com/dwarvesf/dwarves-kit/blob/master/docs/WORKFLOW.md?plain=1) is the map, the [battery](https://github.com/dwarvesf/dwarves-kit/blob/master/commands/battery.md?plain=1) is the last gate, and the break-it change is the worked example.
 
-![Findings the review battery caught before merge, per branch: 19, 15, 9, 7 {#fig-battery .live}](assets/engelberg-report-audit-fig4-battery.svg 'Fifty findings across four branches before anything merged. The amber slice on each bar is the one finding that would have shipped a wrong result: the fixture that accepted "abc", the guard that blocked "lint" as a package, the config that opened no PRs, the fourteen-day wait printed as 257 days.')
+![Findings the review battery caught before merge, per branch: 19, 15, 9, 7](assets/engelberg-report-audit-fig4-battery.svg)
+
+_Fig. 5: Fifty findings across four branches before anything merged. The amber slice on each bar is the one finding that would have shipped a wrong result: the fixture that accepted "abc", the guard that blocked "lint" as a package, the config that opened no PRs, the fourteen-day wait printed as 257 days._
 
 That cost about five hours of session time and roughly three and a half million tokens across seventeen subagent runs, on top of the lead session. A week of the fleet, not a free lunch.
 

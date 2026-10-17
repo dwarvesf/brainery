@@ -1,13 +1,14 @@
 ---
-draft: true
-title: "AARRR vs Hook (reading note)"
-description: "While the AARRR is a strategy focus on bringing new users, the Hook model is the process to ensure current customer to keep using the products."
-date: 2026-08-27
+draft: false
+title: null
+description: null
+date: null
 tags:
   - model
   - framework
   - product
-redirect: []
+redirect:
+  - /noIBDA
 ---
 
 | type/function | aarrr                          | hook                                 |

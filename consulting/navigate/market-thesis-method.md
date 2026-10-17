@@ -142,7 +142,7 @@ Our method succeeds because it's:
 
 We're testing this approach on spatial computing and advanced AI automation. By trying things internally first and sticking to our strengths, we'll keep building solutions that matter.
 
-This methodology helps us build solid assumptions about what to create in our [arc series](/org-roadmap-2025), where we explore specific tech trends and their potential applications. Once we have these assumptions, we use our [experiment selection framework](experiment.md) to choose which ideas to actually build.
+This methodology helps us build solid assumptions about what to create in our [arc series](/arc), where we explore specific tech trends and their potential applications. Once we have these assumptions, we use our [experiment selection framework](experiment.md) to choose which ideas to actually build.
 
 ---
 

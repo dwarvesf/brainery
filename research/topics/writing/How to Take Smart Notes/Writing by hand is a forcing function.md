@@ -1,11 +1,12 @@
 ---
-draft: true
-title: "Writing by hand is a forcing function (reading note)"
-description: "Writing by hand rather than on a computer has a number of benefits."
-date: 2026-10-18
+draft: false
+title: null
+description: null
+date: null
 tags:
   - writing
-redirect: []
+redirect:
+  - /62TUJg
 ---
 
 Writing by hand rather than on a computer has a number of benefits. Some studies have found that writing by hand activates more areas of the brain than typing, leading some scientists to argue that it promotes "deep encoding." Students who took notes by hand were found to remember more of what they recorded; those who typed their notes tended to transcribe rather than take notes and were less likely to process the information in the same way as those students who wrote by hand.

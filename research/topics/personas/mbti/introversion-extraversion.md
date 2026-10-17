@@ -1,11 +1,12 @@
 ---
-draft: true
+draft: false
 title: Introversion vs extraverion
 description: Discover key differences between introverted and extraverted traits, including mindset, behavior, and lifestyle preferences, to better understand your Myers-Briggs personality type.
-date: 2026-08-27
+date: null
 URL: "https://drive.google.com/file/d/1n8ID_iXqzs6cMZlRS0Su7lQUhrfd7khh/view?usp=sharing"
 tag: mbti, preferences
-redirect: []
+redirect:
+  - /tB3hiA
 ---
 
 Book: My True Type, page 24 - 32

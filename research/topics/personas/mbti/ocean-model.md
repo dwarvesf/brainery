@@ -1,12 +1,13 @@
 ---
-draft: true
-title: OCEAN model of the Big Five personality traits
+draft: false
+title: OCEAN model
 description: Discover how the Big Five personality traits (OCEAN) shape your behavior and personality, including openness, conscientiousness, extraversion, agreeableness, and neuroticism, with insights on change over time.
-date: 2026-08-27
+date: null
 tags:
   - model
   - mbti
-redirect: []
+redirect:
+  - /HMNPag
 ---
 
 Bài trắc nghiệm trên 16personalities còn kết hợp với Five Big personalities traits (OCEAN model), nên kết qủa thường có 5 kí tự.

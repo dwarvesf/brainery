@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: Pinning nixpkgs in Nix
 description: An explanation of pinning nixpkgs in Nix and its importance for reproducible builds
 date: 2024-08-01
@@ -9,7 +9,8 @@ tags:
   - devbox
   - docker
   - nix
-redirect: []
+redirect:
+  - /sUefhg
 ---
 
 Pinning nixpkgs means you can choose the version of nixpkgs, and then all packages required for building your application and its dependencies are fetched from this nixpkgs version where the version of each package is specified and not changed over time.

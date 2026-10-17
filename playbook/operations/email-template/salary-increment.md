@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Salary increment announcement
 description: "The email template that you need to send to client when it's near holiday to announce about the absence."
 date: 2020-01-01
@@ -10,7 +9,8 @@ tags:
   - email
   - operation
   - template
-redirect: []
+redirect:
+  - /nZHRcw
 ---
 
 **Title:** Dwarves Foundation - Salary Increment

@@ -1,6 +1,5 @@
 ---
-draft: true
-title: Follow-up onboarding items email template
+title: Follow-up onboarding items
 description: The email template is inform new employee about company communication channel and mentor profile. - nikkingtr - hnh
 date: 2020-01-01
 tags:
@@ -8,7 +7,8 @@ tags:
   - hiring
   - operation
   - template
-redirect: []
+redirect:
+  - /2yerrQ
 ---
 
 **Title**: Follow-up on Welcome Onboard email

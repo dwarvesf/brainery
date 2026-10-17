@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Inform about resource change
 description: "The email template that you need to send to client when it's near holiday to announce about the resource changes."
 date: 2020-01-01
@@ -10,7 +9,8 @@ tags:
   - email
   - operation
   - template
-redirect: []
+redirect:
+  - /XhPmgQ
 ---
 
 **Title:** Dwarves Foundation - Resource Changes Agreement on [**Name of Project**] from [**date**]

@@ -1,10 +1,12 @@
 ---
-title: Database migration in iOS development
-description: How to migrate Core Data models in iOS apps with the progressive migration method, including the Swift types that implement it.
+title: null
+description: null
 date: null
 redirect:
   - /h7hxNA
 ---
+
+# Database migration in iOS development
 
 Database migration is one of the most important aspects of software development in general and of iOS development in specific. If we do not handle it correctly, it would cause some bad user experiences, such as data loss, app crashing, etc. And finally, lead to the bad reputation for the company. So, we **MUST** handle it correctly. And this post is a lighthouse which lead you to the right path.
 
@@ -53,15 +55,6 @@ These automatic migrations are performed as one-step migrations; directly from t
 It's possible to reduce the amount of work required to perform a Core Data migration by disabling automatic migrations and so break the requirement to perform migrations in one-step. With a manual migration approach, we can perform the full migration by chaining multiple smaller migrations together. As the full migration is split into smaller migrations when adding a new model version we only need to handle migrating to the new model version from its direct predecessor rather than all it's predecessors e.g. 4 to 5 because we can reuse the existing 1 to 2, 2 to 3 and 3 to 4 mapping models. Not only do manual migrations reduce the amount of work involved they also help to reduce the complexity of the migration as the conceptional distance between the source and destination version is reduced when compared to one-step migrations i.e. version 4 is much nearer to the structure of version 5 than version 1 is - this should make it easier spot any issues with the migration.
 
 We follow the method called **Progressive Core Data Migration**. It gives us the clear way to structure the migration steps.
-
-A store created on version 1 reaches the current model by walking every step in order. A store already on version 3 runs one step:
-
-```
- +----------+  step 1 to 2  +----------+  step 2 to 3  +----------+  step 3 to 4  +--------------+
- | Model v1 | ------------> | Model v2 | ------------> | Model v3 | ------------> | Model v4     |
- +----------+               +----------+               +----------+               | (current)    |
-                                                                                  +--------------+
-```
 
 In order to support progressive migrations we'll need to answer a few questions:
 
@@ -491,18 +484,6 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
     return true
 }
 ```
-
-## Checklist for shipping a model change
-
-Generic Core Data practice to run through before a release that changes the model:
-
-- [ ] Add a new model version. Never edit a version that has already shipped.
-- [ ] Add the new case to `CoreDataMigrationVersion` and extend `nextVersion()` so the previous version points at it.
-- [ ] Decide per step: lightweight (inferred) or standard (mapping model, migration policy).
-- [ ] Test the migration from every supported older version, using a store file created by that version with realistic data, not an empty one.
-- [ ] Check row counts and a few known records before and after the migration.
-- [ ] Run the migration off the main thread, as in the `setup` method above, and keep the launch UI responsive while it runs.
-- [ ] Keep a copy of the store file before migrating, so a failed migration can be retried or diagnosed.
 
 ## Misc
 

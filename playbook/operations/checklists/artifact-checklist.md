@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Back up artifact
 description: To make sure that project’s progress is aligned with the team plan, we collect artifacts every 3 months and save as record of what was done.
 date: 2024-07-22
@@ -10,7 +9,8 @@ tags:
   - checklist
   - delivery
   - operation
-redirect: []
+redirect:
+  - /yRz86w
 ---
 
 ## Why do we need artifacts?

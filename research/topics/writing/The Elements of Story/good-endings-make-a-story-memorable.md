@@ -1,8 +1,8 @@
 ---
 draft: false
-title: "Good endings make a story memorable (reading note)"
+title: Good endings make a story memorable
 description: Learn how to craft a strong kicker ending that leaves readers thinking by adding depth, surprise, or a human touch without simply repeating the story’s main points.
-date: 2026-08-27
+date: null
 redirect:
   - /zjzGLA
 ---
@@ -18,5 +18,3 @@ Writing a "kicker" ending is challenging. A good ending isn't a bare summary or 
 #### Citations
 
 Flaherty, Francis. _The Elements of Story: Field Notes on Nonfiction Writing_. Reprint edition. Harper Perennial, 2010.
-
-Adapted from David Drysdale's Moby Diction notes.

@@ -1,8 +1,8 @@
 ---
 draft: false
-title: "Community-owned NFT characters: DAOs, tokens and well-known examples"
-description: "How DAOs let creators around the world form NFT characters and communities with real money, plus three well-known NFT character projects."
-date: 2026-08-27
+title: Community owned characters
+description: null
+date: null
 redirect:
   - /sAfPxA
 ---
@@ -39,5 +39,3 @@ There are currently 2 approaches:
 #### Reference
 
 https://academy.binance.com/vi/articles/what-are-cryptopunks https://academy.binance.com/vi/articles/a-guide-to-crypto-collectibles-and-non-fungible-tokens-nfts
-
-Passages adapted from a16z crypto, [The power of community-owned characters and decentralized media](https://a16zcrypto.com/posts/article/community-owned-characters-decentralized-media-blockchains-fantasy-hollywood/).

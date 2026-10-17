@@ -1,8 +1,8 @@
 ---
 draft: false
-title: "Good story leads entice and inform (reading note)"
+title: Good story leads entice and inform
 description: Learn how to craft an effective story lead that balances broad themes with vivid specifics to engage readers and build tension, using anecdotes and strong storytelling techniques.
-date: 2026-08-27
+date: null
 redirect:
   - /p0yTBA
 ---
@@ -20,5 +20,3 @@ One common approach to a lead is to use an anecdote. But for this to be effectiv
 #### Citations
 
 Flaherty, Francis. _The Elements of Story: Field Notes on Nonfiction Writing._ Reprint edition. Harper Perennial, 2010.
-
-Adapted from David Drysdale's Moby Diction notes.

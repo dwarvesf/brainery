@@ -1,14 +1,12 @@
 ---
-title: Project README template
-description: A copy-paste README skeleton for a new project with setup, tests, deployment, contributing, versioning and license sections.
+title: null
+description: null
 date: null
 redirect:
   - /nIdKHA
 ---
 
-> How to use this template: copy everything below the line into the new repository's `README.md`, replace every placeholder (project name, links, commands, the Built with list), and delete any section that does not apply. For guidance on content, see [how to write a good README](readme-how.md).
-
----
+# Project title
 
 One Paragraph of project description goes here
 

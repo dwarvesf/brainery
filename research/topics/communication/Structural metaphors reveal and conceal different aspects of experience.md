@@ -1,8 +1,8 @@
 ---
 draft: false
-title: "Structural metaphors reveal and conceal different aspects of experience (reading note)"
-description: "Structural metaphors emphasize some aspects of experience but hide others."
-date: 2026-08-27
+title: null
+description: null
+date: null
 tags:
   - communication
   - metaphor
@@ -30,5 +30,3 @@ Some examples of structural metaphors:
 #### Reference
 
 [[≈ Metaphors We Live By | Lakoff, George, and Mark Johnson. Metaphors We Live By. University of Chicago Press, 2008.]]
-
-Adapted from David Drysdale's Moby Diction notes.

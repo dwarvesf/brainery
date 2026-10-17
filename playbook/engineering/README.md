@@ -1,10 +1,12 @@
 ---
-title: The dwarf principles
-description: The Dwarves engineering philosophy as 15 principles across engineering drive, craftsmanship and the minifesto.
+title: null
+description: null
 date: null
 redirect:
   - /ITTTxA
 ---
+
+# The dwarf principles
 
 Our definition of Engineering Philosophy, the guiding ideas that help to shape up the way we think and work, to ensure the core values and to deliver quality softwares.
 

@@ -1,10 +1,12 @@
 ---
-title: Logging and monitoring
-description: What to track in a frontend app, from error tracing to loading time, interactivity, visual stability and events.
+title: null
+description: null
 date: null
 redirect:
   - /CidQXQ
 ---
+
+# Logging and monitoring
 
 This document provides guidance on some key metrics to track when logging and monitoring a frontend application.
 
@@ -22,20 +24,6 @@ Frontend applications receive a lot of user interactions and unexpected errors c
 
 In light of these criteria, we chose [Sentry](https://sentry.io/) as the platform with which to monitor issues happening on our client side.
 
-Minimal Sentry setup for a browser app (in Next.js use `@sentry/nextjs`):
-
-```js
-import * as Sentry from "@sentry/browser";
-
-Sentry.init({
-  dsn: process.env.NEXT_PUBLIC_SENTRY_DSN,
-  environment: process.env.NEXT_PUBLIC_APP_ENV, // dev, staging, production
-  release: process.env.NEXT_PUBLIC_RELEASE, // lets Sentry link errors to a deploy
-});
-
-Sentry.setUser({ id: user.id }); // user from your auth context; identify who was affected, without email or name
-```
-
 ## Performance
 
 To provide users with the best experience, it is important to know how good your application is. The [performance insights](https://developer.chrome.com/docs/devtools/performance-insights/) feature of DevTools allows you to measure which areas of your application are performing well and where improvements can be made.
@@ -43,16 +31,6 @@ To provide users with the best experience, it is important to know how good your
 1. **Loading time:** the main content should load quickly.
 2. **Interactivity:** how much time it takes to respond when users interact with our application.
 3. **Visual stability:** the content must be visually stable and without unexpected changes in layout.
-
-These map to Google's Core Web Vitals, the metrics PageSpeed Insights and Lighthouse report:
-
-| Aspect           | Core Web Vital                  | Commonly cited "good" threshold |
-| ---------------- | ------------------------------- | ------------------------------- |
-| Loading time     | Largest Contentful Paint (LCP)  | 2.5 s or less                   |
-| Interactivity    | Interaction to Next Paint (INP) | 200 ms or less                  |
-| Visual stability | Cumulative Layout Shift (CLS)   | 0.1 or less                     |
-
-Thresholds are Google's published guidance and can change, so confirm them on [web.dev](https://web.dev/vitals/). INP replaced First Input Delay (FID) in March 2024.
 
 ### Loading time
 
@@ -79,14 +57,6 @@ We recommend using [BrowserStack](https://www.browserstack.com/) to run automate
 We use [Google Analytics](https://analytics.google.com/) on our projects by default to log important user interactions. In addition, custom events can be set for specific goals based on Marketing team requirements.
 
 Based on analytic data, we can identify which page needs to be improved to decrease bounce rate and fix broken links.
-
-## Release checklist
-
-- [ ] Error tracking is on in staging and production, with the release version attached.
-- [ ] Lighthouse or PageSpeed scores for the key pages are recorded before and after the release.
-- [ ] Bundle size is checked against the last release.
-- [ ] Analytics events for the new feature are defined with the Marketing team and verified in a test session.
-- [ ] Someone is named to watch the error dashboard after deploy.
 
 ## Read on
 

@@ -7,8 +7,6 @@ tags:
   - innovation
 redirect:
   - /lIZiiw
-  - /research/topics/innovation/the-innovation-stack/innovation-cascades
-  - /WThqTw
 ---
 
 Innovation begets [[§ Innovation | innovation]]. It cascades. When we innovate in one area, we're often compelled to innovate in others. As [Jim McKelvey](https://publish.obsidian.md/mobydiction/McKelvey+-+The+Innovation+Stack) frames it, innovation tends to create a nested series of consequences. We innovate in one space, "so we have to" introduce another innovation to support it. We want to achieve _x_; to enable that, we have to achieve _y_.

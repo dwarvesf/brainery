@@ -1,6 +1,5 @@
 ---
-draft: true
-title: Project case study checklist
+title: Project case study
 description: The checklist outline the criteria of a project case study article
 date: 2022-01-01
 authors:
@@ -11,7 +10,8 @@ tags:
   - checklist
   - operation
   - project
-redirect: []
+redirect:
+  - /yAkaUA
 ---
 
 The case study should focus on what the audience want to read

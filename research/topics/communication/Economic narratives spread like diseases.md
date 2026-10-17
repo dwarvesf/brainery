@@ -1,8 +1,8 @@
 ---
 draft: false
-title: "Economic narratives spread like diseases (reading note)"
-description: "The spread of economic narratives follows a similar pattern to the spread of diseases: there is a rapid rise in the number of the “infected” people spreading the story, but over time, the curve flattens and begins to diminish as people forget and lose interest in talking about the narrative."
-date: 2026-08-27
+title: null
+description: null
+date: null
 tags:
   - communication
   - narrative
@@ -30,5 +30,3 @@ Economic narratives are difficult to trace and predict. The economy is complex, 
 #### Reference
 
 [[≈ Narrative Economics | Shiller, Robert J. Narrative Economics: How Stories Go Viral and Drive Major Economic Events. Princeton: Princeton University Press, 2019.]]
-
-Adapted from David Drysdale's Moby Diction notes.

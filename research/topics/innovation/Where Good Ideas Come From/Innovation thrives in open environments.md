@@ -1,8 +1,8 @@
 ---
 draft: false
-title: "Innovation thrives in open environments (reading note)"
-description: "New ideas are built from the scraps of other ideas that we've encountered."
-date: 2026-08-27
+title: null
+description: null
+date: null
 tags:
   - idea
   - innovation
@@ -32,5 +32,3 @@ Notably, innovative systems ride a tight line between order and chaos. They allo
 #### Reference
 
 [[≈ Where Good Ideas Come From]]
-
-Adapted from David Drysdale's Moby Diction notes.

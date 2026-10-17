@@ -1,8 +1,8 @@
 ---
 draft: false
-title: "Stories need action and commentary (reading note)"
+title: Stories need action and commentary
 description: Learn how balancing strong action with insightful commentary can create compelling stories using vivid verbs and clear interpretation to engage readers effectively.
-date: 2026-08-27
+date: null
 redirect:
   - /kOdcWw
 ---
@@ -20,5 +20,3 @@ Action may be direct and natural, hidden and potential, or mental; it should be 
 #### Citations
 
 Flaherty, Francis. _The Elements of Story: Field Notes on Nonfiction Writing._ Reprint edition. Harper Perennial, 2010.
-
-Adapted from David Drysdale's Moby Diction notes.

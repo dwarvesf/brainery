@@ -1,8 +1,8 @@
 ---
 draft: false
-title: "Fostering serendipity (reading note)"
-description: "According to Steven Johnson, the word “serendipity” comes from to us from a Persian fairy tale, by way of Horace Walpole."
-date: 2026-08-27
+title: null
+description: null
+date: null
 tags:
   - innovation
 redirect:
@@ -29,5 +29,3 @@ One way to promote serendipity is to force encounters with ideas and writing tha
 #### Reference
 
 [[≈ Where Good Ideas Come From | Johnson, Steven. Where Good Ideas Come from: The Seven Patterns of Innovation. London: Penguin, 2011.]]
-
-Adapted from David Drysdale's Moby Diction notes.

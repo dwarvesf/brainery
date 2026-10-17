@@ -1,10 +1,12 @@
 ---
-title: Environments
-description: The five environments every project needs (local, CI, testing, staging, production) and what each one is for.
+title: null
+description: null
 date: null
 redirect:
   - /unCMng
 ---
+
+# Environments
 
 This section describes the environments you should have, at a minimum. It might sound like a lot, but there is a purpose for each one.
 
@@ -15,12 +17,6 @@ This section describes the environments you should have, at a minimum. It might 
 - [Production](#production-environment)
 
 We use docker and docker-compose to set up our environments. Before getting more profound, we suggest you install our [dotfiles](https://github.com/dwarvesf/dotfiles), where we share the configuration and setting.
-
-```
- Local development ─▶ Continuous integration ─▶ Testing ─▶ Staging ─▶ Production
-```
-
-A change moves left to right. Nothing reaches production without passing the stage before it.
 
 ## Local development environment
 
@@ -43,27 +39,3 @@ Staging is set up precisely like production. No changes to the production enviro
 The big iron. Logged, monitored, cleaned up periodically, squared away and secured.
 
 This set helps developers to come up with the best technical solutions and resolve issues quickly, and users will only ever notice a new release by the product's increased awesomeness.
-
-## At a glance
-
-| Environment            | Who uses it                 | Data                                                                  | External services        |
-| ---------------------- | --------------------------- | --------------------------------------------------------------------- | ------------------------ |
-| Local development      | Developers                  | Local database, seed data                                             | Mocks or stubs           |
-| Continuous integration | The pipeline                | Created and thrown away per run                                       | Mocks or stubs           |
-| Testing                | Testers and developers      | Test data                                                             | Staging-level versions   |
-| Staging                | Whole team, final rehearsal | Production-like, never real customer data unless access is controlled | Same setup as production |
-| Production             | Users                       | Real data                                                             | Real services            |
-
-## Example: one config shape, many environments
-
-The same build runs everywhere. Only configuration changes, supplied through environment variables, never edited in code.
-
-```bash
-# .env.example (committed; copy to .env and fill in locally)
-APP_ENV=local
-DATABASE_URL=postgres://app:app@localhost:5432/app_dev
-PAYMENT_API_URL=http://localhost:4010   # mock server
-LOG_LEVEL=debug
-```
-
-In staging and production the same keys are set by the deploy system, with `APP_ENV=staging` or `APP_ENV=production` and real secrets kept out of the repo.

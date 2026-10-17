@@ -1,10 +1,12 @@
 ---
-title: Project handover checklists
-description: Checklists for handing a project to new people or a new team, covering project, source code, system and completeness.
+title: null
+description: null
 date: null
 redirect:
   - /tzJoDw
 ---
+
+# Handover
 
 This is the checklist for our handover process. When a new person joins a project, project members are changed, or project is moved to another team, a
 handover should be thoroughly planned and executed.
@@ -21,27 +23,6 @@ Handover is not a task, and it is not instant. Handover is always a project. The
 - Handover process should only take **maximum 2 weeks**.
 - Diagrams should be made using draw.io, [excalidraw](https://excalidraw.com/) or gliffy.
 - Documents should be written in markdown (.md) format and posted directly to source repo.
-
-![](assets/handover-fig1-handover-flow.svg)
-
-_Fig. 1: Handover phases and the weekly completeness check._
-
-## Handover plan template
-
-Create this at the start and keep it in the source repo next to the README.
-
-```markdown
-## Handover plan: <project name>
-
-- Outgoing: <names and roles>
-- Incoming: <names and roles>
-- Start date / target end date: <dates> (maximum 2 weeks)
-- Time allocated per person: <hours per day>
-- Checklists in scope: project / source code / system
-- Sessions: <walkthrough, pair programming, Q&A: date and owner>
-- Open questions: <list>
-- Sign-off: <who confirms the completeness checklist>
-```
 
 ## Checklists
 

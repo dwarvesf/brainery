@@ -1,8 +1,8 @@
 ---
 draft: false
-title: "Metaphors create coherent systems of meaning (reading note)"
-description: "\"Metaphor\" means understanding one thing in terms of another."
-date: 2026-08-27
+title: null
+description: null
+date: null
 tags:
   - communication
   - metaphor
@@ -11,7 +11,7 @@ redirect:
   - /Gvi99A
 ---
 
-"Metaphor" means understanding one thing in terms of another. This can be explicit or subtle. Sometimes, often?, metaphors are such a deep part of our psyche that we're unaware that we are using a metaphor at all. For instance, describing an argument in terms of war, or an idea in terms of a structure or building. Metaphors form coherent systems: when a concept is described using different metaphors, these usually fit together in a logical way.
+"Metaphor" means understanding one thing in terms of another. This can be explicit or subtle. Sometimes—often?—metaphors are such a deep part of our psyche that we're unaware that we are using a metaphor at all. For instance, describing an argument in terms of war, or an idea in terms of a structure or building. Metaphors form coherent systems: when a concept is described using different metaphors, these usually fit together in a logical way.
 
 ---
 
@@ -20,10 +20,8 @@ redirect:
 - [[Metaphors structure our interpretation of the world]]
 - [[Narratives generate real-world effects]]
 - [[≈ Metaphors We Live By]]
-- Writing
+- [[§ Writing]]
 
 #### Reference
 
 [[≈ Metaphors We Live By | Lakoff, George, and Mark Johnson. Metaphors We Live By. University of Chicago Press, 2008.]]
-
-Adapted from David Drysdale's Moby Diction notes.

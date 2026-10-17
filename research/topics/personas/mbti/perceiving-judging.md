@@ -1,11 +1,12 @@
 ---
-draft: true
+draft: false
 title: Perceiving vs judging
 description: Discover the key traits of J and P personality types, including their decision-making styles, work preferences, and communication habits to better understand behavior and learning approaches.
-date: 2026-08-27
+date: null
 URL: "https://drive.google.com/file/d/1n8ID_iXqzs6cMZlRS0Su7lQUhrfd7khh/view?usp=sharing"
 tag: mbti, preferences
-redirect: []
+redirect:
+  - /IOFnHg
 ---
 
 Book: My True Type, page 46 - 57

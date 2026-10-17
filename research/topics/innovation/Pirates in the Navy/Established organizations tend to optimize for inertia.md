@@ -1,8 +1,8 @@
 ---
 draft: false
-title: "Established organizations tend to optimize for inertia (reading note)"
-description: "Large, established organizations evolved to succeed in a particular context."
-date: 2026-08-27
+title: null
+description: null
+date: null
 tags:
   - innovation
   - organization
@@ -14,16 +14,16 @@ Large, established organizations evolved to succeed in a particular context. As 
 
 This creates inertia: these long-term habits are deeply entrenched, and come to be seen as entitlements. Inertia describes the organization's unwillingness to adapt to change; this, in turn, creates embedded narratives about "the way things are done" that filter perceptions and limit action. (See [[Narrative helps the human mind make sense of events]] on how narratives inform our sense of events.) To correct inertia, Rumelt advises, it may be necessary to pursue an agenda of simplification, removing unnecessary administrative layers.
 
-This can result in tension between a need to respond to changing conditions and the comfort of the status quo.
+This can result in [tension between a need to respond to changing conditions and the comfort of the status quo.](https://publish.obsidian.md/mobydiction/notes/Loss+aversion+creates+tension+between+the+need+to+innovate+and+the+need+to+protect+the+status+quo+in+large+organizations)
 
-Inertia may often be seen with its companion, entropy.
+Inertia may often be seen with its companion, [entropy](https://publish.obsidian.md/mobydiction/notes/Entropy+forces+organizations+to+waste+energy+on+alignment).
 
 ---
 
 #### Related
 
 - [[Loss aversion creates tension between the need to innovate and the need to protect the status quo in large organizations]]
-- Organizations have become primarily focused on short-term results
+- [Organizations have become primarily focused on short-term results](https://publish.obsidian.md/mobydiction/notes/Organizations+have+become+primarily+focused+on+short-term+results)
 - [[Narrative helps the human mind make sense of events]]
 - [[§ Innovation]]
 - [[≈ Pirates in the Navy]]
@@ -31,8 +31,6 @@ Inertia may often be seen with its companion, entropy.
 
 #### Reference
 
-Rumelt, Richard. Good Strategy Bad Strategy: The Difference and Why It Matters. Illustrated edition. New York: Currency, 2011.
+[Rumelt, Richard. Good Strategy Bad Strategy: The Difference and Why It Matters. Illustrated edition. New York: Currency, 2011.](https://publish.obsidian.md/mobydiction/notes/%E2%89%88+Rumelt+-+Good+Strategy+Bad+Strategy)
 
-Viki, Tendayi. Pirates In the Navy How Innovators Lead Transformation. Unbound, 2020.
-
-Adapted from David Drysdale's Moby Diction notes.
+[Viki, Tendayi. Pirates In the Navy How Innovators Lead Transformation. Unbound, 2020.](https://publish.obsidian.md/mobydiction/notes/%E2%89%88+Viki+-+Pirates+in+the+Navy)

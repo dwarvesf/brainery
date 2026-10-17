@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Onboarding
 description: What we have to do when a new employee come to our team.
 date: 2020-01-01
@@ -10,7 +9,8 @@ tags:
   - checklist
   - operation
   - people
-redirect: []
+redirect:
+  - /B1jXRA
 ---
 
 Through this process, the employee gradually form their own perspective and their fit with the Dwarves. This is the stage when they decide whether or not to commit to our company.
@@ -45,7 +45,7 @@ After sending the offer email and getting the confirmation from candidate, the o
 - [ ] Create onboarding schedule
 - [ ] Invite to Dwarves Foundation Discord server
 
-## Onboarding call with operations team
+## Onboarding call with Operations team
 
 The Operation team make sure the new hire knows about his/her position, prepares his/her personal account for company access, and understands the daily workflow.
 
@@ -90,7 +90,7 @@ The detail information for each section is shown below.
 
 ## Meeting with team lead
 
-### Probation guideline (60-day plan)
+### Probation Guideline (60-day plan)
 
 - [ ] Goals and targets for 2 month probation period
 - [ ] Schedule review date after 2 months

@@ -1,8 +1,8 @@
 ---
 draft: false
-title: "Why enterprises can't innovate like startups (reading note)"
-description: "A large organization isn't a startup; nor should it try to act like one."
-date: 2026-08-27
+title: null
+description: null
+date: null
 tags:
   - enterprise
   - innovation
@@ -24,12 +24,10 @@ redirect:
 
 #### Related
 
-- If two parts of a system move at different rates, it can create conflict
+- [If two parts of a system move at different rates, it can create conflict](https://publish.obsidian.md/mobydiction/If+two+parts+of+a+system+move+at+different+rates%2C+it+can+create+conflict)
 - [[≈ Pirates in the Navy]]
 - [[§ Innovation]]
 
 #### Reference
 
-Viki, Tendayi. Pirates In the Navy How Innovators Lead Transformation. Unbound, 2020.
-
-Adapted from David Drysdale's Moby Diction notes.
+[Viki, Tendayi. Pirates In the Navy How Innovators Lead Transformation. Unbound, 2020.](https://publish.obsidian.md/mobydiction/notes/%E2%89%88+Viki+-+Pirates+in+the+Navy)

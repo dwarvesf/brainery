@@ -1,5 +1,4 @@
 ---
-draft: true
 title: How to publish content on Dwarves Memo
 description: This is a guide on how to setup your environment and settings to push content to our Dwarves Memo.
 date: 2024-03-04
@@ -8,7 +7,8 @@ authors:
 tags:
   - guide
   - memo
-redirect: []
+redirect:
+  - /xyPMcA
 ---
 
 ## Before edit or create a new post

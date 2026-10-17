@@ -1,11 +1,12 @@
 ---
-draft: true
-title: "Knowledge work means transforming old ideas into new ones (reading note)"
-description: "Knowledge work is not about coming up with some random insight; it’s about transforming existing ideas into something new."
-date: 2026-10-18
+draft: false
+title: null
+description: null
+date: null
 tags:
   - writing
-redirect: []
+redirect:
+  - /lUVM5Q
 ---
 
 Knowledge work is not about coming up with some random insight; it’s about transforming existing ideas into something new. “Every intellectual effort starts with an already existing preconception,” Ahrens writes, “that can be transformed during further inquiries and can serve as a starting point for following endeavours.”

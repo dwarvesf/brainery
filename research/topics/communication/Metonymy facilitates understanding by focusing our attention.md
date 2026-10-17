@@ -1,8 +1,8 @@
 ---
 draft: false
-title: "Metonymy facilitates understanding by focusing our attention (reading note)"
-description: "Metaphor and metonymy are each distinct processes."
-date: 2026-08-27
+title: null
+description: null
+date: null
 tags:
   - communication
   - metaphor
@@ -24,5 +24,3 @@ Metaphor and metonymy are each distinct processes. Where metaphor describes one 
 #### Reference
 
 [[≈ Metaphors We Live By | Lakoff, George, and Mark Johnson. Metaphors We Live By. University of Chicago Press, 2008.]]
-
-Adapted from David Drysdale's Moby Diction notes.

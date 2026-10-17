@@ -1,10 +1,11 @@
 ---
-draft: true
-title: "Overview of domain-driven design: purpose and when to use it"
+draft: false
+title: Overview of domain driven design
 description: Domain Driven Design (DDD) improves software by creating clear domain models and shared language between developers and business experts, helping solve complex business problems effectively.
 date: 2022-06-21
 github_id: R-Jim
-redirect: []
+redirect:
+  - /rT8p8Q
 ---
 
 ### What is Domain Driven Design?

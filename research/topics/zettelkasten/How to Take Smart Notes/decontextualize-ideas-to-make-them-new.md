@@ -1,8 +1,10 @@
 ---
-draft: true
+draft: false
 title: Decontextualize ideas to make them new
 description: Learn how decontextualizing ideas and breaking familiar patterns boosts creativity and critical thinking by embracing uncertainty, divergent thinking, and fresh perspectives to generate new knowledge.
 date: null
+redirect:
+  - /9ytGFg
 ---
 
 To be able to truly engage with ideas, we need to #decontextualize them. Our brains try to fit ideas into existing, comfortable boxes and categories. Our impulse is to make things familiar. But, familiarity tricks us into thinking that we understand an idea—and that we like it. We short-circuit our ability to evaluate the idea critically.

@@ -1,10 +1,11 @@
 ---
-draft: true
-title: "Moore machines: output from state only"
+draft: false
+title: Moore machine
 description: Learn about Moore machines, a type of finite-state machine where outputs depend only on current states, and explore their differences from Mealy machines and formal definitions.
 date: 2022-06-28
 github_id: monotykamary
-redirect: []
+redirect:
+  - /TNr8jCE
 ---
 
 ## What is a Moore machine?
@@ -19,11 +20,11 @@ As per the general classification noted on [UC Davis outline on transducers](htt
 
 - $\Sigma$ is the _input alphabet_ (a finite non-empty set of symbols) -> our events;
 - $S$ is a finite non-empty set of states;
-- $\Gamma$ is the _output alphabet_;
+- $\Gamma$ is the *output alphabet*;
 - $\delta$ is the state-transition function: $\delta: S \times \Sigma \rightarrow S$
 - $\omega$ is the output-transition function: $\omega: S \rightarrow \Gamma$
 - $s_0$ is an _initial state_, an element of $S$; and
-- $\delta \subseteq S \times (\Sigma \cup \{\epsilon\}) \times (\Gamma \cup \{\epsilon\}) \times S$ (where ε is the [empty string](https://en.wikipedia.org/wiki/Empty_string 'Empty string')) is the _transition relation_.
+- $\delta \subseteq S \times (\Sigma \cup \{\epsilon\}) \times (\Gamma \cup \{\epsilon\}) \times S$ (where ε is the [empty string](https://en.wikipedia.org/wiki/Empty_string "Empty string")) is the *transition relation*.
 
 Given any initial state in $s_0$, to transition our state to the next state with our output alphabet, our transition would be:
 

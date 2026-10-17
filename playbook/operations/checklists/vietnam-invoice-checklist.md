@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Vietnam invoice
 description: The processs of taking Vietnam invoice
 date: 2020-01-01
@@ -10,7 +9,8 @@ tags:
   - checklist
   - operation
   - people
-redirect: []
+redirect:
+  - /2SRPhw
 ---
 
 ### Invoice checklist

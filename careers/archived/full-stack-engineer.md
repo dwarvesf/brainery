@@ -1,5 +1,4 @@
 ---
-draft: true
 title: Full-stack engineer
 description: We are looking for a Full-stack engineer who is passionate about building scalable, secure, and efficient web applications. The ideal candidate will have a strong understanding of both frontend and backend technologies, and the ability to work across the entire stack.
 date: 2025-02-05
@@ -9,6 +8,8 @@ featured: true
 tags:
   - career
   - fullstack
+redirect:
+  - /wp17wg
 ---
 
 ## We are hiring full-stack engineers

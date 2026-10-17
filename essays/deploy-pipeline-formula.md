@@ -18,21 +18,23 @@ The site you're reading publishes itself on every push. A merged post kicks off 
 
 A CI step hides a dozen phases behind one duration number. The raw log has a timestamp on every line, so the first move is to index it: mark where each phase starts, subtract, and write down the table.
 
-| Phase                                   | Time |
-| --------------------------------------- | ---- |
-| Vault fetch + install                   | 9s   |
-| Markdown compile (1,954 files)          | 9s   |
-| Metadata generators                     | 4s   |
-| Next.js build (3,080 pages, warm cache) | 27s  |
-| RSS, redirects, lint bundle             | 9s   |
-| Deploy static Worker                    | 17s  |
-| Deploy API Worker                       | 8s   |
-| R2 upload                               | 4s   |
-| D1 seed                                 | 11s  |
+| Phase | Time |
+| ----- | ---- |
+| Vault fetch + install | 9s |
+| Markdown compile (1,954 files) | 9s |
+| Metadata generators | 4s |
+| Next.js build (3,080 pages, warm cache) | 27s |
+| RSS, redirects, lint bundle | 9s |
+| Deploy static Worker | 17s |
+| Deploy API Worker | 8s |
+| R2 upload | 4s |
+| D1 seed | 11s |
 
 Two things jump out of a table like this that never jump out of a checkmark. The build core was already tight: 27 seconds for 3,080 pages with a warm compiler cache is fine, and we didn't touch it. The tail was the problem: 40 seconds of deploys and uploads running one after another, none of which depended on each other. Figure 1 shows the same numbers to scale, before and after.
 
-![The publish step before and after, in seconds, to scale {#fig-timeline .live}](assets/deploy-pipeline-fig1-timeline.svg "The publish step to scale. The build core stayed untouched; the entire win came from the tail's shape.")
+![](assets/deploy-pipeline-fig1-timeline.svg)
+
+_Fig. 1: the publish step to scale. The build core stayed untouched; the entire win came from the tail's shape._
 
 ## The green checkmark was hiding three bugs
 
@@ -40,7 +42,9 @@ Reading that closely also surfaced errors that had been shipping for weeks, beca
 
 The generator DAG ran one step a stage too early (fig. 2). `generate-directory-tree` reads two JSON files that another generator writes, and it ran in the stage before the one that writes them. It logged an ENOENT stack trace, caught it, and printed "Done (0.8s)". Every publish shipped a directory tree built from files that didn't exist yet. The fix is one line in the stage list, plus the habit the bug taught us: write the dependency reason as a comment next to the stage, so the next person who reorders it has to argue with the comment.
 
-![The generator DAG and the step that ran too early {#fig-dag .live}](assets/deploy-pipeline-fig2-dag.svg 'The generator DAG. The dashed box is where directory-tree used to run; its two inputs are written by the stage it now follows.')
+![](assets/deploy-pipeline-fig2-dag.svg)
+
+_Fig. 2: the generator DAG. The dashed box is where directory-tree used to run; its two inputs are written by the stage it now follows._
 
 The API Worker deployed before its database migrations ran. Nothing had blown up yet because no recent migration was load-bearing at deploy time. The day one is, the new code hits production a few seconds before the table it needs. Expand/contract is the boring, correct order: migrate first, deploy second.
 
@@ -61,7 +65,9 @@ Here's the order we now hold every pipeline to, general first:
 9. Retry idempotent network calls three times. Never retry a step whose repeat changes state.
 10. Sweep hazards by property. Oversized files get dropped by a size test; a filename list rots on the next addition.
 
-![The deploy tail, serial against parallel {#fig-tail .live}](assets/deploy-pipeline-fig3-tail.svg 'The deploy tail restructured. Same four jobs; the only ordering that matters survives inside the data-plane lane, and a diff-clean push skips the api deploy outright.')
+![](assets/deploy-pipeline-fig3-tail.svg)
+
+_Fig. 3: the deploy tail restructured. Same four jobs; the only ordering that matters survives inside the data-plane lane, and a diff-clean push skips the api deploy outright._
 
 The memo-specific parts stay memo-specific: the vault submodule advance, the redirect-map dance around Cloudflare's 2,000-rule cap, the search-index seeds. A formula that claims those would be lying about its portability.
 
@@ -69,7 +75,9 @@ The memo-specific parts stay memo-specific: the vault submodule advance, the red
 
 The first run on the new pipeline, phase by phase, straight from the log (fig. 4):
 
-![Where the first run on the new pipeline landed {#fig-landed .live}](assets/deploy-pipeline-fig4-landed.svg 'The landed shape. The step reads 79 seconds; the job wall clock reads ~113, because 34 seconds of Actions overhead (runner prep, toolchain setup, a 1Password CLI download) sits outside the step we measured.')
+![](assets/deploy-pipeline-fig4-landed.svg)
+
+_Fig. 4: the landed shape. The step reads 79 seconds; the job wall clock reads ~113, because 34 seconds of Actions overhead (runner prep, toolchain setup, a 1Password CLI download) sits outside the step we measured._
 
 ## The habit underneath
 
