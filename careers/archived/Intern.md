@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Intern
 description: Working at Dwarves, you will be working closely with a team of talented, kind people and working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself
 date: 2022-07-21
@@ -8,8 +9,6 @@ show_frontmatter: true
 tags:
   - career
   - internship
-redirect:
-  - /KNXCsQ
 ---
 
 ## The program
