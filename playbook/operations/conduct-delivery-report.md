@@ -28,8 +28,8 @@ The report is one Notion table with a row per project. The columns are:
 - **Important:** High, Medium +, Medium - or Low.
 - **Deal types:** Size+, New opportunity, Enterprise or Partnership, as many as apply.
 - **Priority:** a flame on the projects that need a decision this month.
-- **Client happiness, Lead rating, Account rating:** the three scores.
-- **Issues and Resolutions:** a relation to the log of what went wrong and what we did.
+- **Client happiness, Lead rating, account rating:** the three scores.
+- **Issues and resolutions:** a relation to the log of what went wrong and what we did.
 
 The sample above has ten projects. Two are High, two are Medium +, five are Medium - and one is Low. The four flames sit on the four most important rows.
 
