@@ -49,19 +49,19 @@ Eight build notes from May 2025 made those claims. This report replaces them. It
 
 ## TL;DR
 
-The static site stayed. Next.js still exports one page per Markdown file, 3,078 of them in the August 2026 read-back. Almost everything around it moved. The compiler went from Elixir to TypeScript, the DuckDB parquet disappeared, the host went from a Railway container, through Cloudflare Pages, to one Cloudflare Worker, and one repo became two. Those moves landed between 23 July and 21 August 2026.
+The static site stayed. Next.js still exports one page per Markdown file, 3,078 of them in the August 2026 read-back. Almost everything around it moved. The compiler went from Elixir to TypeScript, the DuckDB parquet disappeared, the host moved to Cloudflare Pages and then to one Cloudflare Worker, and one repo became two. Those moves landed between 23 July and 21 August 2026.
 
 The incidents carry most of the cost. On 19 August a build that compiled nothing exited 0, and memo answered 404 for about 13 minutes. On 20 August an unreviewed submodule bump would have deleted 742 of 1,224 search rows. Both failures lived in the seams between parts, and the 2025 notes never described a seam.
 
-| Part     | May 2025 notes                                                   | October 2026                                       | Why it changed                                                            |
-| -------- | ---------------------------------------------------------------- | -------------------------------------------------- | ------------------------------------------------------------------------- |
-| Compiler | Elixir, `export_duckdb.ex`                                       | TypeScript, `export-markdown.ts`                   | One toolchain; the Elixir exporter silently skipped the 30 largest notes  |
-| Store    | DuckDB table, `vault.parquet` in git                             | JSON from the compile, rows in D1, objects in R2   | Nothing read the vectors; the parquet drifted stale                       |
-| Site     | Next.js static export                                            | Next.js static export, 3,078 pages                 | Unchanged                                                                 |
-| Host     | GitHub Pages in the notes, a Docker image on Railway in the repo | One Worker, `df-memo`                              | Pages gives no same-origin backend and no private bindings                |
-| Backend  | None; search ran in the browser                                  | `df-memo-api` on D1: search, identity, writer rows | Search, wallet identity and author identity needed a server               |
-| Repos    | One                                                              | Two, split by plane                                | The repo that held memo also holds code outside contributors must not see |
-| Media    | Committed next to the post                                       | R2 bucket, vault holds text only                   | History carried about 660 MB of deleted media                             |
+| Part     | May 2025 notes                       | October 2026                                                   | Why it changed                                                            |
+| -------- | ------------------------------------ | -------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Compiler | Elixir, `export_duckdb.ex`           | TypeScript, `export-markdown.ts`                               | One toolchain; the Elixir exporter silently skipped the 30 largest notes  |
+| Store    | DuckDB table, `vault.parquet` in git | JSON from the compile, rows in D1, objects in R2               | Nothing read the vectors; the parquet drifted stale                       |
+| Site     | Next.js static export                | Next.js static export, 3,078 pages                             | Unchanged                                                                 |
+| Host     | GitHub Pages in the notes            | Cloudflare Pages from 23 July 2026, then one Worker, `df-memo` | Pages gives no same-origin backend and no private bindings                |
+| Backend  | None; search ran in the browser      | `df-memo-api` on D1: search, identity, writer rows             | Search, wallet identity and author identity needed a server               |
+| Repos    | One                                  | Two, split by plane                                            | The repo that held memo also holds code outside contributors must not see |
+| Media    | Committed next to the post           | R2 bucket, vault holds text only                               | History carried about 660 MB of deleted media                             |
 
 ## The goal we set in 2025
 
@@ -93,11 +93,7 @@ The developer loop was `devbox shell`, then `make run` to preview and `make duck
 
 ## Version 1, as it actually ran
 
-The notes were stale on the day they went up. They carry a date of 20 May 2025. Publishing had already moved on 28 April 2025. Between 07:26 and 10:47 UTC that day the memo repo gained a Dockerfile for the static export (`e52f6280`), went through a dozen build fixes, then added `chore(deploy): make sure we pass in railway args` (`72370803`) and `chore(actions): remove publish logic for gh-pages` (`42b48970`, 2 lines added, 48 removed). The `CNAME` file that served GitHub Pages had arrived on 1 April, the day the site moved to the Next.js engine (`a246f002`, `d4f80d3c`).
-
-So the publish path left GitHub Pages for a Railway Docker build 22 days before the notes were dated. Git does not record the DNS change, so the day Railway began serving traffic is not in the history. Three estate records from 2026 confirm that Railway did serve the site. The May 2026 cloud footprint note says "Railway hosts one thing: the memo website", with the final nginx container on Railway and the base image built on GCP. The cloud estate map lists "memo on Railway". And the consolidation plan sets the goal "migrate memo off Railway". The July 2026 cutover record confirms the end state: until 23 July, DNS pointed at Railway. The page that taught readers "deployment means GitHub Pages" described a publish path the repo had already removed.
-
-The schema in the notes drifted too. The `vault` table lists an OpenAI embedding column of 1,536 floats. The August 2026 decision record for the AI stack names a Gemini column of 768 floats in that slot, and records that nothing in the site read either vector.
+The schema in the notes had drifted from the code. The `vault` table lists an OpenAI embedding column of 1,536 floats. The August 2026 decision record for the AI stack names a Gemini column of 768 floats in that slot, and records that nothing in the site read either vector.
 
 Three failures from this era taught more than the diagrams:
 
@@ -117,9 +113,9 @@ What the repos do record is a decision. In July 2026 the migration plan looked a
 
 ## Four moves in four weeks
 
-![From the first Docker commit to the squashed vault, in dates](assets/memo-rebuilt-fig2-moves.svg 'The dated moves. Amber marks the day the frontend changed owner.')
+![From May 2025 to the squashed vault, in dates](assets/memo-rebuilt-fig2-moves.svg 'The dated moves. Amber marks the day the frontend changed owner.')
 
-**1. Railway to Cloudflare Pages, 23 July 2026.** PR 304 prepared the config and the cutover record shows the run. Cloudflare Pages caps static redirects at 2,000 rules, so a Functions middleware carried the full 4,287-rule map, and a parity script confirmed 4,287 of 4,287 rules present with no target mismatches. The deploy uploaded 14,431 files in 263 seconds. Pages also rejects files over 25 MiB. Five asset paths broke that limit, all copies of two files, so they went to R2 and a small hand-kept map served them. Rollback was a DNS change, because Railway stayed up untouched. The reason is on record. A May 2026 estate review found six providers, with Fly and Railway each carrying about one live workload while adding billing, notification and access surfaces. The consolidation plan set the goal to move memo off Railway and drop Railway as a provider.
+**1. Cloudflare Pages, 23 July 2026.** PR 304 prepared the config, and the cutover record shows the run: a Pages project created and memo.d.foundation attached to it. Cloudflare Pages caps static redirects at 2,000 rules, so a Functions middleware carried the full 4,287-rule map, and a parity script confirmed 4,287 of 4,287 rules present with no target mismatches. The deploy uploaded 14,431 files in 263 seconds. Pages also rejects files over 25 MiB. Five asset paths broke that limit, all copies of two files, so they went to R2 and a small hand-kept map served them.
 
 **2. Elixir to TypeScript, 12 August 2026.** PR 318 switched CI to a TypeScript port of the compiler, after checking the port against the original. Both compilers ran against 687 source files and the output trees compared byte for byte: 655 Markdown files, 1,222 assets and 5 database files, 1,882 files in all, identical. One Elixir-only cache file differed, and the port deliberately skips it. The comparison also found a bug in the path handling that Elixir's usual invocation never reached. PR 330 then ported the 1,907-line parquet exporter and fixed the silent row loss. The Elixir code stayed in the tree as a test oracle. The reason is in the ADR: the build ran on two toolchains, and the reindex needed Elixir, DuckDB and a devbox shell, so it ran only by hand and the parquet drifted.
 

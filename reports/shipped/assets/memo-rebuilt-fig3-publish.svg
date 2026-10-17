@@ -56,7 +56,7 @@
 <g>
   <rect x="430" y="412" width="300" height="44" fill="none" stroke="#68839d" stroke-width="1" stroke-dasharray="5 4"/>
   <text x="444" y="432" font-size="9" letter-spacing="1.5" fill="#6f8fb0">WAS</text>
-  <text x="444" y="450" font-size="10" fill="#e8f1fa">Railway container, then Pages</text>
+  <text x="444" y="450" font-size="10" fill="#e8f1fa">Cloudflare Pages project</text>
 </g>
 <line x1="380" y1="116" x2="380" y2="136" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#ar)"/>
 <path d="M 330 202 L 330 218 L 180 218 L 180 230" fill="none" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#ar3)"/>
