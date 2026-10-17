@@ -2,7 +2,7 @@
 draft: false
 title: ¶ deductive reasoning
 description: Deductive research tests theories by gathering data to confirm or reject hypotheses, focusing on concrete conclusions rather than generating new knowledge or predicting future events.
-date: null
+date: 2026-08-27
 redirect:
   - /1brZIw
 ---
@@ -24,8 +24,10 @@ Roger Martin has argued that Western education favours deductive (and inductive)
 
 #### Citations
 
-[[≈ Mixed Methods | Ladner, Sam. Mixed Methods: A Short Guide to Applied Mixed Methods Research. Sam Ladner, 2019.]]
+Ladner, Sam. Mixed Methods: A Short Guide to Applied Mixed Methods Research. Sam Ladner, 2019.
 
-[[≈ Sensemaking | Madsbjerg, Christian. Sensemaking: The Power of the Humanities in the Age of the Algorithm. Hachette Books, 2017.]]
+Madsbjerg, Christian. Sensemaking: The Power of the Humanities in the Age of the Algorithm. Hachette Books, 2017.
 
 [[≈ The Opposable Mind | Martin, Roger L. The Opposable Mind: How Successful Leaders Win Through Integrative Thinking. 1st edition. Boston, Mass: Harvard Business Review Press, 2007.]]
+
+Adapted from David Drysdale's Moby Diction notes.
