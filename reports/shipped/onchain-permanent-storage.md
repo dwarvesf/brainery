@@ -26,11 +26,11 @@ Storing content onchain significantly reduces future maintenance efforts and cos
 
 The Memo platform allows selected content to be marked for permanent storage on Arweave or for minting as an NFT. Here's a brief overview of these processes:
 
-1. **Arweave Storage:** Content intended for permanent storage is marked with `should_deploy_perma_storage: true` in its frontmatter. The `deploy-arweave.yml` workflow identifies these files and uploads them. After a successful upload, the `perma_storage_id` field in DuckDB is updated with the Arweave transaction ID.
+1. **Arweave storage:** Content intended for permanent storage is marked with `should_deploy_perma_storage: true` in its frontmatter. The `deploy-arweave.yml` workflow identifies these files and uploads them. After a successful upload, the `perma_storage_id` field in DuckDB is updated with the Arweave transaction ID.
 
-2. **NFT Minting:** Content designated for NFT minting is marked with `should_mint: true` in its frontmatter. The `add-mint-post.yml` workflow processes these files for minting. Upon successful minting, the `token_id` and `minted_at` fields are updated in DuckDB.
+2. **NFT minting:** Content designated for NFT minting is marked with `should_mint: true` in its frontmatter. The `add-mint-post.yml` workflow processes these files for minting. Upon successful minting, the `token_id` and `minted_at` fields are updated in DuckDB.
 
-3. **Database Updates:** Both Arweave storage and NFT minting operations trigger updates in the DuckDB database. The updated database is then exported to a parquet file, which in turn triggers rebuilds of the web application to reflect the changes.
+3. **Database updates:** Both Arweave storage and NFT minting operations trigger updates in the DuckDB database. The updated database is then exported to a parquet file, which in turn triggers rebuilds of the web application to reflect the changes.
 
 ![](assets/arweave-flow.png)
 
