@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Stating the obvious
 description: Why engineers should embrace stating what seems obvious rather than avoiding it. Learn how obvious statements strengthen projects, align teams, and prevent critical oversights in software development.
 date: 2025-01-27

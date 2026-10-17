@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Your last work is what counts'
 description: 'Your last work shapes what people notice most, whether it’s a sturdy app or a wobbly update. This article explores staying aware and motivated to deliver meaningful work, especially in software, through practical steps and team support.'
 date: 2024-06-24
@@ -12,9 +13,7 @@ tags:
 perma_storage_id: 'XBTMaZOQBPLJ9GIqn-IM0LGkVIaXh1BWs_NfZRf_w4s'
 minted_at: '2025-05-12'
 token_id: '8'
-redirect:
-  - /culture/as-your-last-delivery
-  - /PXeiCw
+redirect: []
 slug: as-your-last-delivery
 ---
 

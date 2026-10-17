@@ -1,4 +1,5 @@
 ---
+draft: true
 title: What makes a strong engineer in the AI era
 description: Explore how AI is redefining engineering excellence beyond technical skills. Learn why critical thinking and communication matter more than coding prowess.
 date: 2025-06-06
@@ -11,9 +12,7 @@ tags:
   - communication
   - critical-thinking
   - culture
-redirect:
-  - /culture/weak-engineer
-  - /63gjpg
+redirect: []
 slug: weak-engineer
 ---
 
