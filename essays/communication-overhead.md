@@ -26,7 +26,7 @@ An earlier version of this page said agents finish routine work 3 to 5 times fas
 
 ![Median run time and follow-up share by brief length {#fig-briefs .live}](assets/communication-overhead-fig1-briefs.svg 'Briefs split into thirds by word count. The longest third ran 13.7 minutes at the median, and 23.8% of its agents needed a follow-up message.')
 
-## What I logged
+## What i logged
 
 Claude Code keeps a transcript for every subagent. For each one I took the first message as the brief, the span from first to last event as the run, and any later message I sent to that agent as a follow-up. I kept only the agents my own sessions launched, not the ones those agents launched in turn.
 
@@ -63,7 +63,7 @@ On 23 August an alert-triage bot posted two false claims about a production aler
 
 In the same month I dispatched an estate-wide audit with a line telling it to skip two items as already handled. It came back clean. One of the two held the only real gap: an earlier fix had covered about a tenth of what was owed. I found it when I questioned the count.
 
-## What I do now
+## What i do now
 
 - **Name what to check, never what to skip.** Let the audit re-derive the items you think are handled.
 - **Put a budget in the brief.** Affected suites only, timings from history, and a wall-clock limit.
