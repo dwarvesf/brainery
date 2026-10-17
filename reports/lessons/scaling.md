@@ -30,13 +30,13 @@ I made the language bet in 2015 and it held. Go appears on 14 of the 50 projects
 
 Go was the right bet and the Go hires were not the problem. The window hired across stacks: 11 of the 43 start dates carry a Go tag, and the six people who left early carry none. What hurt was volume. One quarter brought seven times the usual intake, into a hiring rule we had written 15 months earlier.<!-- confirm: the 2022 intake broke the July 2020 rule; the records show the goal to double the team, not the intent behind each hire -->
 
-| Question | Answer | Where it comes from |
-| --- | --- | --- |
-| Did the language bet hold? | Yes. Go is on 14 of 50 tagged projects, 0 failed. Blockchain failed 3 of 14. | Notion projects record |
-| How big was the surge? | 43 start dates in Oct 2021 to Sep 2022. The median quarter from 2019 to 2023 has 3. | Notion contractor records, 114 of 275 carry a start date |
-| Who left early? | 6 of 43 inside a year, 5 inside six months. None carries a Go tag. | same records |
-| Is that a lot? | Against 0 of 51 before the window, yes. The 21 records with no end date keep the real figure open. | same records |
-| What did we change? | Peer approval, a 60-day ramp, a four-stage interview, project screening. | our newsletters, 2021 to 2022 |
+| Question                   | Answer                                                                                             | Where it comes from                                      |
+| -------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Did the language bet hold? | Yes. Go is on 14 of 50 tagged projects, 0 failed. Blockchain failed 3 of 14.                       | Notion projects record                                   |
+| How big was the surge?     | 43 start dates in Oct 2021 to Sep 2022. The median quarter from 2019 to 2023 has 3.                | Notion contractor records, 114 of 275 carry a start date |
+| Who left early?            | 6 of 43 inside a year, 5 inside six months. None carries a Go tag.                                 | same records                                             |
+| Is that a lot?             | Against 0 of 51 before the window, yes. The 21 records with no end date keep the real figure open. | same records                                             |
+| What did we change?        | Peer approval, a 60-day ramp, a four-stage interview, project screening.                           | our newsletters, 2021 to 2022                            |
 
 ## The bet
 
@@ -46,12 +46,12 @@ The market signal arrived as a client request. Our [beGroup case study](../../ca
 
 We later wrote the method down as [forming a market thesis](../../consulting/navigate/forming-market-thesis.md): use data, add informed gut, and watch the community. Go is the case I know best, and the Notion record lets me count the result.
 
-| Stack tag | Projects | Closed or done | Active | Failed |
-| --- | ---: | ---: | ---: | ---: |
-| React | 16 | 14 | 2 | 0 |
-| Golang | 14 | 13 | 1 | 0 |
-| Blockchain | 14 | 10 | 1 | 3 |
-| AI | 14 | 9 | 3 | 2 |
+| Stack tag  | Projects | Closed or done | Active | Failed |
+| ---------- | -------: | -------------: | -----: | -----: |
+| React      |       16 |             14 |      2 |      0 |
+| Golang     |       14 |             13 |      1 |      0 |
+| Blockchain |       14 |             10 |      1 |      3 |
+| AI         |       14 |              9 |      3 |      2 |
 
 Fifty of 63 projects carry a stack tag, and a project can carry several, so the rows overlap. Five of the 14 Go projects also carry Blockchain. Across all 63 projects, 9 failed, and none of the 9 is a Go project.
 
@@ -61,16 +61,16 @@ Two things temper the verdict. First, Go was never our only bet. In 2018 we also
 
 The table lists every headcount we published, in the words of the page that printed it.
 
-| When | Count | Source page |
-| --- | --- | --- |
-| End of 2018 | about 30, up from 15 | 2018 in review |
-| End of 2019 | about 50 | 2019 in review |
-| End of 2020 | "the 50s" | 2020 in review |
-| Dec 2021 | 60 engineers | 2021 in review |
-| Mar 2022 | 70 engineers and designers, plus a handful of operating staff | hiring stages newsletter |
-| Aug 2022 | "a team of 80s", 46% growth | the next leading chairs |
-| Jan 2023 | just over 100, 1.5x growth | summit 2022 write-up |
-| Jun 2024 | 50 members | team-session summary |
+| When        | Count                                                         | Source page              |
+| ----------- | ------------------------------------------------------------- | ------------------------ |
+| End of 2018 | about 30, up from 15                                          | 2018 in review           |
+| End of 2019 | about 50                                                      | 2019 in review           |
+| End of 2020 | "the 50s"                                                     | 2020 in review           |
+| Dec 2021    | 60 engineers                                                  | 2021 in review           |
+| Mar 2022    | 70 engineers and designers, plus a handful of operating staff | hiring stages newsletter |
+| Aug 2022    | "a team of 80s", 46% growth                                   | the next leading chairs  |
+| Jan 2023    | just over 100, 1.5x growth                                    | summit 2022 write-up     |
+| Jun 2024    | 50 members                                                    | team-session summary     |
 
 The first wave ran from 2018 to 2019. The team went from 15 to about 50 in two years, and the beGroup request landed in the first of them. Then March 2020 arrived. We called it survival mode, wrote "no layoffs on the ground", and decided it was not the right time to scale. In July 2020 we wrote the rule that matters here. Don't hire because you feel like it. Hire when quality has dropped and "things get hurt".
 
@@ -88,10 +88,10 @@ The window held 43 start dates. Fifteen carry a Backend position. By stack, 11 c
 
 ![Who stayed past a year, by cohort {#fig-stayed}](assets/company-scaling-fig3-stayed.svg 'Two cohorts from the same table. Amber marks people who left in under a year.')
 
-| Cohort | Starts | Left in under a year | Ended after a year or more | Still active | Ended, no end date |
-| --- | ---: | ---: | ---: | ---: | ---: |
-| Before Oct 2021 | 51 | 0 | 24 | 11 | 16 |
-| Oct 2021 to Sep 2022 | 43 | 6 | 13 | 3 | 21 |
+| Cohort               | Starts | Left in under a year | Ended after a year or more | Still active | Ended, no end date |
+| -------------------- | -----: | -------------------: | -------------------------: | -----------: | -----------------: |
+| Before Oct 2021      |     51 |                    0 |                         24 |           11 |                 16 |
+| Oct 2021 to Sep 2022 |     43 |                    6 |                         13 |            3 |                 21 |
 
 Six of the 43 left inside a year, and five of those inside six months. Three left within 63 days, around the time the 60-day onboarding plan ends. The longest of the six stayed 289 days. They span six different roles, and none carries a Go tag. Four have no stack tag at all, so I cannot rule Go out for them.
 
@@ -105,11 +105,11 @@ In May 2025 we wrote the correction down as [business correction](../../consulti
 
 It names three signs that a goal has stopped being valid. The table sets each beside what our records show.
 
-| Sign | What the note asks | What we saw |
-| --- | --- | --- |
-| Demand shifts | Are clients asking for something else? | An October 2024 team session recorded that blockchain "might have moved a bit out of the spotlight" and the market was going sideways. In 2024 the research lab began AI collaborations with three named partners.<!-- confirm: the October 2024 line is from an auto-translated session transcript; Han to confirm he said it --> |
-| Profitability dips | Does the team cost more than it earns? | The records I can publish carry no margin figure.<!-- confirm: Han to say whether a margin or utilization figure for 2022 to 2024 can be published, as a ratio and never in currency --> |
-| Tech relevance fades | Is the tech losing traction? | Go is on 14 of 50 tagged projects. Blockchain failed 3 of 14. |
+| Sign                 | What the note asks                     | What we saw                                                                                                                                                                                                                                                                                                                        |
+| -------------------- | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Demand shifts        | Are clients asking for something else? | An October 2024 team session recorded that blockchain "might have moved a bit out of the spotlight" and the market was going sideways. In 2024 the research lab began AI collaborations with three named partners.<!-- confirm: the October 2024 line is from an auto-translated session transcript; Han to confirm he said it --> |
+| Profitability dips   | Does the team cost more than it earns? | The records I can publish carry no margin figure.<!-- confirm: Han to say whether a margin or utilization figure for 2022 to 2024 can be published, as a ratio and never in currency -->                                                                                                                                           |
+| Tech relevance fades | Is the tech losing traction?           | Go is on 14 of 50 tagged projects. Blockchain failed 3 of 14.                                                                                                                                                                                                                                                                      |
 
 The note then asks two things of leaders. Check the team's competency honestly, on tech skill, adaptability and energy. And support people before you downsize: training, a mentor, a second chance. When downsizing is the answer, be transparent and respectful. The earlier [competency check](../../consulting/navigate/competency-check.md) asks the forward-looking questions that start this off, such as what share of the team can pick up the next wave.
 
@@ -119,14 +119,14 @@ The decisions run in order in Fig. 4. The rule from July 2020 sits fifteen month
 
 ## What changed in hiring
 
-| Area | What we do now | Since |
-| --- | --- | --- |
-| Approval | The team approves: 3 upvotes out of 4 groups (project, chapter, mentor, social) | Aug 2022 |
-| Interview | Tech capability first, few stock questions, engineers in the room, candidates ask back; 1h50 in all | Mar 2022 |
-| New hires | A 60-day plan. Before it, onboarding was not scheduled and new hires took too long to reach a project | Dec 2021 |
-| New projects | Four tests, with engineers heard before we say yes. The old trap was taking any project that pays | Oct 2021 |
-| Late to a tech | Hire one person with the knowledge into the labs team and grow from there | May 2025 |
-| Calibration | Research mindset, evidence of sharing, long-term thinking, as in [role strategy](../../essays/role-strategy.md) | May 2025 |
+| Area           | What we do now                                                                                                  | Since    |
+| -------------- | --------------------------------------------------------------------------------------------------------------- | -------- |
+| Approval       | The team approves: 3 upvotes out of 4 groups (project, chapter, mentor, social)                                 | Aug 2022 |
+| Interview      | Tech capability first, few stock questions, engineers in the room, candidates ask back; 1h50 in all             | Mar 2022 |
+| New hires      | A 60-day plan. Before it, onboarding was not scheduled and new hires took too long to reach a project           | Dec 2021 |
+| New projects   | Four tests, with engineers heard before we say yes. The old trap was taking any project that pays               | Oct 2021 |
+| Late to a tech | Hire one person with the knowledge into the labs team and grow from there                                       | May 2025 |
+| Calibration    | Research mindset, evidence of sharing, long-term thinking, as in [role strategy](../../essays/role-strategy.md) | May 2025 |
 
 The first four rows come from our 2021 and 2022 newsletters. The labs-team row comes from [grow our talent pool](../../consulting/navigate/talent-pool.md).
 
@@ -146,13 +146,13 @@ The older note also held advice I still use. Scale research before the client-fa
 
 The same five checks work on any people table that has start and end dates.
 
-| Check | What a problem looks like |
-| --- | --- |
-| Starts per quarter against your own median | One quarter above 3 times the median |
-| Share of that cohort leaving inside a year, against earlier cohorts | A cohort that leaves where earlier ones stayed |
-| Share of the new stack in the cohort, against its earlier share | A share that falls while intake rises |
-| Applications, interviews and starts in the same period | Starts far below the goal you set |
-| Records with no end date | Any count above zero, because they bound every other claim |
+| Check                                                               | What a problem looks like                                  |
+| ------------------------------------------------------------------- | ---------------------------------------------------------- |
+| Starts per quarter against your own median                          | One quarter above 3 times the median                       |
+| Share of that cohort leaving inside a year, against earlier cohorts | A cohort that leaves where earlier ones stayed             |
+| Share of the new stack in the cohort, against its earlier share     | A share that falls while intake rises                      |
+| Applications, interviews and starts in the same period              | Starts far below the goal you set                          |
+| Records with no end date                                            | Any count above zero, because they bound every other claim |
 
 ```sql
 select date_trunc('quarter', start_date) as quarter,
@@ -179,8 +179,8 @@ order by 1;
 
 The business correction note is now a draft, and its URLs, including the short code, redirect to this page. The forming market thesis note stays, because the navigate method still needs it, and it points here for the Go case. Several navigate pages still link to the business correction note, and those links now land here.
 
-| Old page | What survived here |
-| --- | --- |
-| Scale smart: Grow big but stay research-first | The story, the traps and the three rules, now checked against records |
-| Business correction | The team lifecycle, the three signs, the competency check and support before downsizing |
-| Forming market thesis, the Golang case | The 2015 bet, the signals and the verdict |
+| Old page                                      | What survived here                                                                      |
+| --------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Scale smart: Grow big but stay research-first | The story, the traps and the three rules, now checked against records                   |
+| Business correction                           | The team lifecycle, the three signs, the competency check and support before downsizing |
+| Forming market thesis, the Golang case        | The 2015 bet, the signals and the verdict                                               |
