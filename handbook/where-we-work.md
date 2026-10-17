@@ -1,5 +1,6 @@
 ---
-title: Where we work
+draft: true
+title: "Where we work at Dwarves"
 description: The Dwarves HQ is in Saigon, Vietnam. Fifty-ish people and two cats have desk space in the Saigon office, but those people also work from home regularly. We expand the office space when the old one is full and people want the new office. Anyone is welcome to visit Saigon and work from the office at any time.
 date: 2019-02-21
 authors:
@@ -9,8 +10,7 @@ tags:
   - remote
   - team
   - work
-redirect:
-  - /uKflewA
+redirect: []
 ---
 
 ### Office

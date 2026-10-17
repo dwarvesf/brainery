@@ -1,12 +1,12 @@
 ---
-title: null
-description: null
+title: Pair programming
+description: How we pair program, with driver and navigator roles, what to agree before, during and after a session, and what to avoid.
 date: null
 redirect:
   - /Ql8wug
+authors:
+  - tieubao
 ---
-
-# Pair programming
 
 We encourage pair programming between all levels of experience. Nobody is required to pair program for a certain amount of time, but it is a great tool to help solve complex problems quickly and more efficiently with an extra set of eyes.
 
@@ -15,6 +15,16 @@ Code that is written by two people who sit next to each other at the same comput
 That code is considered high quality and should result in cost savings due to less maintenance. The matter of fact is, pair programming technique can take around 15% longer, yet produces 15% lesser defects. In the long run, this style of development saves money because fewer bugs are written and therefore do not need to be fixed later.
 
 Generally we use it for complex pull requests review and coaching and fixing
+
+```text
+ +------------------------------+   timer or finished test   +------------------+
+ | Driver types, navigator      |--------------------------->| Switch roles     |
+ | reviews and explains         |<---------------------------|                  |
+ +--------------+---------------+                            +------------------+
+                |
+                v
+        Break and feedback
+```
 
 ## How?
 
@@ -66,7 +76,7 @@ Paired programmers are only 15% slower than two independent individual programme
 Around 96% of the pair programmers reported in an online survey that they enjoyed their work in a pair programming environment than working alone.
 Establishing a senior-junior combo might be a great step to refine the junior’s skills and proficiency.
 
-## Significant Pair programming Markers
+## Significant pair programming markers
 
 Some notes that we should consider applying
 
@@ -103,3 +113,15 @@ Some notes that we should consider applying
 
 - Sync
 - Communicate to sync
+
+## Example: a 90-minute pairing session
+
+A generic plan for fixing a bug in an unfamiliar module:
+
+1. **Before (5 min)**: agree the goal ("reproduce the bug and get a failing test"), the stop condition (ticket done, or 90 minutes), and the style (switch every 25 minutes).
+2. **Round 1 (25 min)**: A drives and writes the failing test. B navigates, reads the code paths aloud and asks questions.
+3. **Round 2 (25 min, after a 5-minute break)**: B drives and writes the fix, A navigates.
+4. **Round 3 (25 min)**: switch back, then both clean up, run the full test suite and write the pull request description together.
+5. **After (5 min)**: each person says one thing that went well and one thing to change next time.
+
+If one person has not spoken for several minutes, switch roles. That is usually the sign the pairing has become one person coding and one person watching.

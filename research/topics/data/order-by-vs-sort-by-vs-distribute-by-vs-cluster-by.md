@@ -1,12 +1,14 @@
 ---
 draft: false
-title: Order by vs sort by vs distribute by vs cluster by
+title: "Hive ORDER BY, SORT BY, DISTRIBUTE BY and CLUSTER BY compared"
 description: Learn how to optimize Hive queries by using ORDER BY, SORT BY, DISTRIBUTE BY, and CLUSTER BY to efficiently order large datasets with multiple reducers and improve performance.
 date: 2022-11-23
 github_id: dudaka
 icy: 10
 redirect:
   - /THOKIQ
+authors:
+  - dudaka
 ---
 
 These are very interesting concepts which are about ordering records in a data set. What is so special about ordering? If we want to order the records in the stocks data set by closing price in descending order, we can write a simple query like

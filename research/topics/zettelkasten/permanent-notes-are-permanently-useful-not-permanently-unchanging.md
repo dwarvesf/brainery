@@ -1,10 +1,12 @@
 ---
 draft: false
-title: Permanent notes are permanently useful not permanently unchanging
+title: "Permanent notes in a zettelkasten stay useful, not unchanging"
 description: Learn the difference between permanent and literature notes in the zettelkasten method, focusing on creating flexible, permanently useful notes that evolve with new ideas.
-date: null
+date: 2026-08-27
 redirect:
   - /pUDQcw
+authors:
+  - tieubao
 ---
 
 There's much confusion between "permanent" notes and "literature" notes in the zettelkasten world. In fact, permanent notes are not specially appointed by any means; a more productive way to think about it is to think of "permanent" as signifying "permanently useful," regardless of the originality of its content.
@@ -17,4 +19,6 @@ Notes are not carved in stone. They change, evolve, mutate, flex, adapt, shrink,
 
 @Will. _“All Notes Are Malleable: Strive for Permanently Useful Notes, Not Permanently Unchanging Notes.”_ Zettelkasten Method (blog). Accessed October 21, 2020. https://www.zettelkasten.de/posts/literature-notes-vs-permanent-notes/
 
-Schmidt, Johannes F. K. _“Niklas Luhmann’s Card Index: The Fabrication of Serendipity.”_ Sociologica 12, no. 1 (2018): 53—60.
+Schmidt, Johannes F. K. _“Niklas Luhmann’s Card Index: The Fabrication of Serendipity.”_ Sociologica 12, no. 1 (2018): 53-60.
+
+Adapted from David Drysdale's Moby Diction notes.

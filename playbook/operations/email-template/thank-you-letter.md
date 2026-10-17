@@ -1,5 +1,6 @@
 ---
-title: Thank you letter
+draft: true
+title: Thank you letter email template
 description: The email template is to show appreciation to partner after the project closed.
 date: 2020-01-01
 authors:
@@ -9,8 +10,7 @@ tags:
   - email
   - operation
   - template
-redirect:
-  - /1uVapQ
+redirect: []
 ---
 
 **Title:** Dwarves Foundation - Thank you Letter

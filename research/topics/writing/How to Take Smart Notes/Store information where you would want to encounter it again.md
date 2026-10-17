@@ -1,14 +1,13 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: "Store information where you would want to encounter it again (reading note)"
+description: "The most important question is not where we store the information, but where we would like to come across it again."
+date: 2026-10-18
 tags:
   - note
   - writing
   - zettelkasten
-redirect:
-  - /lG5Fog
+redirect: []
 ---
 
 The most important question is not where we store the information, but where we would like to come across it again.

@@ -1,8 +1,10 @@
 ---
 draft: false
-title: null
-description: null
-date: null
+title: "Exaptation (reading note)"
+description: "“Exaptation” describes how a trait developed by a given organism may be adapted for a completely different function than its original purpose."
+date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - innovation
 redirect:
@@ -26,3 +28,5 @@ Steven Johnson borrows this concept from Stephen Jay Gould and Elisabeth Vrba's 
 #### Reference
 
 [[≈ Where Good Ideas Come From | Johnson, Steven. Where Good Ideas Come from: The Seven Patterns of Innovation. London: Penguin, 2011.]]
+
+Adapted from David Drysdale's Moby Diction notes.

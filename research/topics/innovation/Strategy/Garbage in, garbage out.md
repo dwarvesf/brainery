@@ -1,13 +1,12 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: "Garbage in, garbage out (reading note)"
+description: "In nearly any process, the quality of the input is a constraint on the quality of the output."
+date: 2026-10-18
 tags:
   - business
   - strategy
-redirect:
-  - /CAj8Qw
+redirect: []
 ---
 
 In nearly any process, the quality of the input is a constraint on the quality of the output.

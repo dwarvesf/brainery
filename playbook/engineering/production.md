@@ -1,14 +1,14 @@
 ---
-title: null
-description: null
-date: null
-redirect:
-  - /ZEmonw
+draft: true
+title: Production checklist
+description: A checklist to run before a service goes to production, covering deployment, config, backups, logging and error tracking.
+date: 2026-08-27
+redirect: []
 ---
 
-# Production checklist
+Related pages: [Logging system](log.md), [Application health checks and status pages](monitoring.md).
 
-- [ ] Long-running processes such as email should delivery being run in background jobs?
+- [ ] Are long-running processes such as email delivery run in background jobs?
 - [ ] Are there redundant (at least two) web and background processes running?
 - [ ] Are we using SSL? Never send credentials unencrypted over public network. Always use encryption (such as HTTPS, SSL, etc.).
 - [ ] Are API requests being made via a separate subdomain (api.example.com)? Even if the same app, this gives us architectural flexibility in the future.

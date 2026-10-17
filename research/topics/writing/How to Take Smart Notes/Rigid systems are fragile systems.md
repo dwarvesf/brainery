@@ -1,14 +1,13 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: "Rigid systems are fragile systems (reading note)"
+description: "Systems that are unnecessarily rigid are prone to failure."
+date: 2026-10-18
 tags:
   - note
   - writing
   - zettelkasten
-redirect:
-  - /pqv97Q
+redirect: []
 ---
 
 Systems that are unnecessarily rigid are prone to failure. They are threatened by what is unexpected or what does not conform to the environment that was considered during the system's design. Rigid systems, therefore, are poor tools in situations of uncertainty or volatility.

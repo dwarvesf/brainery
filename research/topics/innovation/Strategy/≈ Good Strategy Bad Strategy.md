@@ -1,13 +1,12 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: "Good Strategy Bad Strategy (reading note)"
+description: "Rumelt argues that having a strategy is itself a competitive advantage, in that few organizations actually have strategies."
+date: 2026-10-18
 tags:
   - business
   - strategy
-redirect:
-  - /WyYpGw
+redirect: []
 ---
 
 ### Summary

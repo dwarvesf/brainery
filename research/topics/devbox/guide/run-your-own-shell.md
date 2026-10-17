@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Devbox shell: your dev environment, your rules"
 description: Master the art of running your own shell with Devbox - locally or globally. No more environment headaches.
 date: 2024-08-01
@@ -7,8 +7,7 @@ authors:
   - baenv
 tags:
   - devbox
-redirect:
-  - /yArQUQ
+redirect: []
 ---
 
 So you've installed Devbox with that nifty one-liner:

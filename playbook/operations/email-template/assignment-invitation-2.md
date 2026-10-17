@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Assignment Inviation (Skip pre-assessment)
 description: The email template is to invite camdidate to the assignment round in case the pre-assessment is skipped.
 date: 2020-01-01
@@ -10,8 +11,7 @@ tags:
   - hiring
   - operation
   - template
-redirect:
-  - /XTrFsQ
+redirect: []
 ---
 
 **Title:** Dwarves Foundation - Assignment Invitation

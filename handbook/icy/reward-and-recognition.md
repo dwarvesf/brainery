@@ -1,14 +1,14 @@
 ---
+draft: true
 title: ICY reward and recognition
-description: null
+description: "We have recently moved to ICY, a token we use to reward writers in our Discord server."
 date: null
 authors:
   - zlatanpham
 tags:
   - recognition
   - icy
-redirect:
-  - /7mHWnw
+redirect: []
 ---
 
 We have recently moved to [ICY](https://icy.d.foundation/), a token we use to reward writers in our [Discord server](http://discord.gg/dfoundation).

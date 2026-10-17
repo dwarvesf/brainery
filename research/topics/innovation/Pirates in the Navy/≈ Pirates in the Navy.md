@@ -1,8 +1,10 @@
 ---
 draft: false
-title: null
-description: null
-date: null
+title: "Pirates in the Navy (reading note)"
+description: "Innovation within established organizations goes very differently than innovation in start-ups."
+date: 2026-08-27
+authors:
+  - tieubao
 tags:
   - innovation
 redirect:
@@ -31,13 +33,15 @@ Innovation within established organizations goes very differently than innovatio
 
 #### Succeeding at innovation
 
-- [Innovation is management as much as it is creativity](https://publish.obsidian.md/mobydiction/notes/Innovation+is+management+as+much+as+it+is+creativity)
-- [Integrate innovation functions with the broader organization](https://publish.obsidian.md/mobydiction/notes/Integrate+innovation+functions+with+the+broader+organization)
-- [Leading innovation requires providing a vision and facilitating its execution](https://publish.obsidian.md/mobydiction/notes/Leading+innovation+requires+providing+a+vision+and+facilitating+its+execution)
-- [¶ Innovation accounting](https://publish.obsidian.md/mobydiction/notes/%C2%B6+Innovation+accounting)
+- Innovation is management as much as it is creativity
+- Integrate innovation functions with the broader organization
+- Leading innovation requires providing a vision and facilitating its execution
+- ¶ Innovation accounting
 
 ---
 
 #### Reference
 
 - [[§ Innovation]]
+
+Adapted from David Drysdale's Moby Diction notes.

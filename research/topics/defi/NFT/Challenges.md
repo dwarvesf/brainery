@@ -1,10 +1,12 @@
 ---
 draft: false
-title: Challenges
-description: null
-date: null
+title: "Challenges for community-owned NFT characters run by a DAO"
+description: "Four open questions for DAOs that own NFT characters: how much to put to a vote, who runs daily administration, how to protect quality and how to bring off-chain revenue on-chain."
+date: 2026-08-27
 redirect:
   - /Gjge0A
+authors:
+  - tieubao
 ---
 
 ### Current problem
@@ -21,6 +23,8 @@ Once an NFT can maintain a community with enthusiastic early collectors who have
 
 **3. How can DAO maintain the quality output of IP?**
 
-Character brands have strict rules about what characters can and cannot do or say, to establish consistency, identity, and quality. Communities will need to establish separate **'guidelines'** or **'rules'** for their characters that members can use to evaluate new proposals. Ultimately, if communities pursue a variety of character activities across different forms of media at the same time, some of these will be more successful and a better experience than others. --> The key here is that all of these experiments can happen in a way that they can't in companies.
+Established character brands set firm limits on what a character may do or say, which keeps the character consistent and the quality high. A community needs its own written **guidelines** that members can apply when they judge a new proposal. If the community runs several character projects across different media at once, some will land better than others. A DAO can run all of those experiments in parallel, which a company cannot.
 
-**4. How DAOs convert revenue from IP off-chain back to on-chain?** DAOs may need a **third-party** that provides DAO-directed contract and payment services to bridge off-chain (e.g. real world) and manage revenue, expenses, and budgets. on the chain.
+**4. How DAOs convert revenue from IP off-chain back to on-chain?** DAOs may need a **third party** that offers contract and payment services on the DAO's behalf, linking real-world revenue, expenses and budgets to the on-chain treasury.
+
+Passages adapted from a16z crypto, [The power of community-owned characters and decentralized media](https://a16zcrypto.com/posts/article/community-owned-characters-decentralized-media-blockchains-fantasy-hollywood/).

@@ -1,5 +1,6 @@
 ---
-title: Project handover
+draft: true
+title: Project handover checklist
 description: The checklist shows the process of project handover
 date: 2022-01-01
 authors:
@@ -11,8 +12,7 @@ tags:
   - checklist
   - operation
   - project
-redirect:
-  - /AHIv4w
+redirect: []
 ---
 
 **Source code**

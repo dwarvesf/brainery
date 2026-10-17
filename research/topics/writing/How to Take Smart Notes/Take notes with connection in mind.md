@@ -1,14 +1,13 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: "Take notes with connection in mind (reading note)"
+description: "When taking notes, always write them with consideration for the notes that you already have."
+date: 2026-10-18
 tags:
   - idea
   - note
   - writing
-redirect:
-  - /r8ldew
+redirect: []
 ---
 
 When taking notes, always write them with consideration for the notes that you already have. Notes are far more powerful when we connect them to a larger [[Ideas are networks | network of thought]], crafting idea [[Ideas are constellations | constellations]] from discrete ideas that we have [[Decontextualize ideas to make them new | recontextualized]] into new conversations.

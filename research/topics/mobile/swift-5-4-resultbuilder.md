@@ -1,11 +1,10 @@
 ---
-draft: false
-title: Swift 5 4 resultbuilder
+draft: true
+title: "Build UIKit stack views with Swift @resultBuilder"
 description: Learn how to use Swift’s @resultBuilder and UIKit Builder pattern to create flexible container views like UIStackView with clean, DSL-style code for easier UI development in Swift.
 date: 2022-08-31
 github_id: viettrungphan
-redirect:
-  - /39s7gQ
+redirect: []
 ---
 
 The [[UIKit Builder pattern]] enables us to create and configure a UIView object. This article is part two of the series that explains how we can wrap a container element in Swift by using the builder pattern.

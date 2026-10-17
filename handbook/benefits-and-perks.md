@@ -11,6 +11,10 @@ tags:
   - team
 redirect:
   - /sjzLOw
+  - /handbook/stock-option-plan
+  - /ycA5yQ
+  - /handbook/guides/reimbursement
+  - /BPGnOw
 ---
 
 ## Team growth

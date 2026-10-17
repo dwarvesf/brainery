@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Devbox: your dev environment on steroids"
 description: Forget setup headaches. Devbox delivers instant, rock-solid dev environments powered by Nix.
 date: 2024-08-01
@@ -7,8 +7,7 @@ authors:
   - baenv
 tags:
   - devbox
-redirect:
-  - /tezymg
+redirect: []
 ---
 
 Remember the last time you onboarded a new developer? Or tried a new tool without wrecking your setup? Yeah, it probably sucked. But it doesn't have to.

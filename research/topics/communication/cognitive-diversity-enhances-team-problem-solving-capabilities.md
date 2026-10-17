@@ -1,10 +1,12 @@
 ---
 draft: false
-title: Cognitive diversity enhances team problem solving capabilities
+title: "Cognitive diversity helps teams solve problems faster and more creatively"
 description: Teams with cognitive diversity solve problems faster and think more creatively than homogeneous groups, showing the value of diverse thinking styles in improving team performance and problem-solving.
-date: null
+date: 2026-08-27
 redirect:
   - /IKPLDw
+authors:
+  - tieubao
 ---
 
 A study conducted by Alison Reynolds and David Lewis found that teams that comprised individuals representing a variety of thinking or information processing styles (i.e. cognitive diversity) solved problems faster than cognitively homogeneous groups. This suggests that organizations or teams that hire for "fit" may be hampering their own problem-solving capabilities and creative acuity.

@@ -1,12 +1,14 @@
 ---
 draft: false
-title: Redis rate limiter
+title: "A Redis rate limiter with counters and lists"
 description: Learn how to implement basic rate limiting in Redis using counters and lists to control user access by IP address, preventing too many requests in a set time period.
 date: 2023-06-01
 github_id: Tuanpm31
 icy: 10
 redirect:
   - /dUvCTw
+authors:
+  - Tuanpm31
 ---
 
 ## Introduction

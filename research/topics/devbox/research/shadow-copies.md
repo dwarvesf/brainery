@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Shadow copies in Docker builds
 description: An explanation of shadow copies in Docker builds
 date: 2024-08-01
@@ -9,8 +9,7 @@ tags:
   - devbox
   - docker
   - nix
-redirect:
-  - /nMW5EA
+redirect: []
 ---
 
 One more issue that comes from internet access of Docker build is Shadow copies aka redundant files that are not cleaned after new versions of packages are installed.

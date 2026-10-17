@@ -1,12 +1,23 @@
 ---
-title: How we contribute to homebrew
-description: null
+title: How we contribute to Homebrew
+description: A walkthrough of writing a Homebrew formula for a Go CLI and submitting it, from our 2016 glod-cli contribution, with notes on what changed since.
 date: 2016-03-13
+authors:
+  - tieubao
 tags:
   - open-source
 redirect:
   - /HaECDQ
 ---
+
+> Note (October 2026): this post describes the process in 2016 and the commands have changed since. What to use today:
+>
+> - Formulae live in the `Homebrew/homebrew-core` repository, under `Formula/<first letter>/`. The `Homebrew/homebrew` repository named below was retired.
+> - Install Homebrew with the command on <https://brew.sh>. The Ruby installer script shown below no longer exists. On Apple silicon the prefix is `/opt/homebrew` instead of `/usr/local`.
+> - `brew create <URL>` and `brew edit <formula>` still scaffold and edit a formula. Use `brew audit --new <formula>` for a new formula, and `brew test <formula>`.
+> - Go formulae no longer use `go_resource` or `godep`. Current formulae build with Go modules and `std_go_args`. Copy a recent Go formula from homebrew-core.
+> - The notability thresholds for new formulae (stars, forks, age) have changed. Read the "Acceptable Formulae" document before you start.
+> - To ship a tool without waiting for core, create your own tap with `brew tap-new <user>/<tap>`, and users install it with `brew install <user>/<tap>/<formula>`.
 
 ## Homebrew
 

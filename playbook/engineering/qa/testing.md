@@ -1,12 +1,12 @@
 ---
-title: null
-description: null
+title: Test plans, test cases and closure
+description: What a test plan and test case contain, plus a test closure checklist and agile QA practices.
 date: null
 redirect:
   - /HRkHHw
+authors:
+  - tieubao
 ---
-
-# Testing
 
 ## Testing materials
 
@@ -29,6 +29,23 @@ Test case should includes those information:
 | ---------------------------------- | ----------------------------------------------------------------- | ---------------------------- | ---------------------------- | ----------------------------------------- |
 | Brief about TC                     | Pre-condition steps before executing TC                           | Test Case Steps              | Expected result for the step | User Story # or requirement specification |
 | Ex: Login successfully with google | User is at login page (<https://staging.fort.d.foundation/login>) | Hit Login with Google button | Login successfully           | User Story 001                            |
+
+An unhappy-path case for the same login page:
+
+| Name                                | Pre-condition                  | Test Steps                                            | Expected Result                         | Requirement Ref |
+| ----------------------------------- | ------------------------------ | ----------------------------------------------------- | --------------------------------------- | --------------- |
+| Login is refused for a blocked user | User is at login page, blocked | Hit Login with Google button with the blocked account | Error message shown, no session created | User Story 001  |
+
+### Example test plan outline
+
+An illustrative outline for a login feature, following the items above:
+
+- **In scope:** login with Google, logout, session expiry.
+- **Out of scope:** password reset (not part of this release).
+- **Risks:** the identity provider is unavailable in staging, so use a stubbed provider and say so in the report.
+- **Resources:** one QC engineer, one developer for triage.
+- **External testing:** UAT with the product team after QC sign-off (see [UAT checklist](UAT.md)).
+- **Communication:** defects in the tracker, a daily summary in the project channel.
 
 ### Defect
 

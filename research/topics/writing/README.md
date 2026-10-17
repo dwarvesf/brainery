@@ -2,9 +2,17 @@
 draft: false
 title: § Writing
 description: Discover essential writing tips to create compelling stories, improve characterization, and master dialogue techniques that engage readers and make your narratives memorable.
-date: null
+date: 2026-08-27
 redirect:
   - /KgycuQ
+  - /research/topics/writing/dialogue-illustrates-the-nature-of-the-character
+  - /gSyMnA
+  - /research/topics/writing/place-characters-within-a-landscape
+  - /WAaSTA
+  - /research/topics/writing/flashbulb-memory
+  - /jWqA6g
+authors:
+  - tieubao
 ---
 
 ## Write better

@@ -1,11 +1,10 @@
 ---
-draft: false
-title: Finite state transducer
+draft: true
+title: "Finite-state transducers: inputs, outputs and the formal model"
 description: Learn what a finite-state transducer is, its mathematical model, and how it processes inputs to outputs with states, including examples in programming and applications in natural language processing.
 date: 2022-06-28
 github_id: monotykamary
-redirect:
-  - /mKfGnw
+redirect: []
 ---
 
 ## What is finite-state transducer?
@@ -23,12 +22,12 @@ As per the general classification noted on [UC Davis outline on transducers](htt
 
 - $\Sigma$ is the _input alphabet_ (a finite non-empty set of symbols) -> our events;
 - $S$ is a finite non-empty set of states;
-- $\Gamma$ is the *output alphabet*;
+- $\Gamma$ is the _output alphabet_;
 - $\delta$ is the state-transition function: $\delta: S \times \Sigma \rightarrow S$
 - $\omega$ is the output-transition function: $\omega: S \times \Sigma \rightarrow \Gamma$
 - $s_0$ is an _initial state_, an element of $S$;
-- $F$ is the set of *final states* and is a subset of $S$; and
-- $\delta \subseteq S \times (\Sigma \cup \{\epsilon\}) \times (\Gamma \cup \{\epsilon\}) \times S$ (where ε is the [empty string](https://en.wikipedia.org/wiki/Empty_string "Empty string")) is the *transition relation*.
+- $F$ is the set of _final states_ and is a subset of $S$; and
+- $\delta \subseteq S \times (\Sigma \cup \{\epsilon\}) \times (\Gamma \cup \{\epsilon\}) \times S$ (where ε is the [empty string](https://en.wikipedia.org/wiki/Empty_string 'Empty string')) is the _transition relation_.
 
 Given any initial state in $s_0$, to transition our state to the next state with our output alphabet, our transition would be:
 

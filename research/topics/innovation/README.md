@@ -8,6 +8,12 @@ tags:
   - moc
 redirect:
   - /KVhx5Q
+  - /research/topics/innovation/innovation-accrues-in-small-incremental-steps
+  - /X5TDVw
+  - /research/topics/innovation/law-of-accelerating-returns
+  - /Jvt9Hw
+  - /research/topics/innovation/strategy/the-infinite-game
+  - /NlMKECo
 ---
 
 ## What is innovation?

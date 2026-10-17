@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Assignment inviations
 description: The email template is to invite camdidate to the assignment round.
 date: 2020-01-01
@@ -10,8 +11,7 @@ tags:
   - hiring
   - operation
   - template
-redirect:
-  - /vNX64w
+redirect: []
 ---
 
 **Title:** Dwarves Foundation - Assignment Invitation

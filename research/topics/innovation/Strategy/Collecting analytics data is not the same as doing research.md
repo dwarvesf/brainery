@@ -1,13 +1,12 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: "Collecting analytics data is not the same as doing research (reading note)"
+description: "Devices and software create what Davis and Davidson call “data exhaust,” the detritus of our interactions with various interfaces."
+date: 2026-10-18
 tags:
   - data
   - strategy
-redirect:
-  - /kZa20w
+redirect: []
 ---
 
 Devices and software create what Davis and Davidson call “data exhaust,” the detritus of our interactions with various interfaces. But this information is not designed with [[¶ Falsifiability | falsifiability]] in mind. It’s a by-product. Collecting it is not the same as doing research.

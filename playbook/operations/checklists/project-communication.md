@@ -1,5 +1,6 @@
 ---
-title: Project communication
+draft: true
+title: Project communication checklist
 description: The checklist shows the rule of communication in a project
 date: 2022-01-01
 authors:
@@ -10,8 +11,7 @@ tags:
   - checklist
   - operation
   - project
-redirect:
-  - /J9QGYQ
+redirect: []
 ---
 
 **Transparency**

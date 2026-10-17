@@ -1,10 +1,12 @@
 ---
 draft: false
-title: Qualitative researchers care more about data saturation than sample size
+title: "Qualitative researchers care more about data saturation than sample size (reading note)"
 description: Learn how qualitative UX research focuses on data saturation over sample size to uncover key user insights and improve products through ongoing Agile feedback and diverse user interviews.
-date: null
+date: 2026-08-27
 redirect:
   - /d5bSig
+authors:
+  - tieubao
 ---
 
 Qualitative research is less concerned with reaching a particular sample size. Its focus isn't on measuring scale, but on discovering high-level problems and mental models. Instead of sample size, qualitative researchers strive for data saturation: the point at which new data yields only minor, incremental returns and the broad trends have been identified. Therefore, as Seaman and Yocco have each argued, the number of users interviewed may vary depending on factors such as the diversity of your audience, the experience of the researcher, and the extent of the problem space.
@@ -17,8 +19,8 @@ Still, as Kay points out, researchers should take care the sample size is approp
 
 #### Related
 
-- [[How many users should you interview]]
-- [[Qualitative and quantitative research represent different philosophies of knowledge]]
+- How many users should you interview
+- Qualitative and quantitative research represent different philosophies of knowledge
 
 #### Citations
 
@@ -29,3 +31,5 @@ Seaman, Mitchel. “The Right Number of User Interviews.” _Medium_ (blog), Oct
 Travis, David. “Why You Don’t Need a Representative Sample in Your User Research.” _Userfocus_ (blog). Accessed October 12, 2020. [Link](https://www.userfocus.co.uk/articles/myth-of-the-representative-sample.html).
 
 Yocco, Victor. “Filling Up Your Tank, Or How To Justify User Research Sample Size And Data.” _Smashing Magazine_ (blog). [Link](https://www.smashingmagazine.com/2017/03/user-research-sample-size-data/).
+
+Adapted from David Drysdale's Moby Diction notes.

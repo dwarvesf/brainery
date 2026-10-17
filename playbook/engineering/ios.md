@@ -1,14 +1,16 @@
 ---
-title: null
-description: null
+title: Best practices in iOS development
+description: Best practices for iOS development, from project setup and architecture to coding style, security, diagnostics, build and deployment.
 date: null
 redirect:
   - /Fzxk4w
+authors:
+  - tieubao
 ---
 
-# Best practices in iOS development
-
 Avoid reinventing the wheel by following these guidelines.
+
+> Note: this page predates SwiftUI, Swift concurrency (`async`/`await`) and Swift Package Manager as a mainstream dependency tool, and parts of it assume Objective-C and the tooling of that time. JetBrains has also discontinued AppCode. Treat the library and tooling sections as historical context and check current Apple documentation before adopting a recommendation.
 
 ## Why?
 
@@ -61,7 +63,7 @@ A common question when beginning an iOS project is whether to write all views in
 
 [dry]: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 
-#### Why Storyboards?
+#### Why storyboards?
 
 - For the less technically inclined, Storyboards can be a great way to contribute to the project directly, e.g. by tweaking colors or layout constraints. However, this requires a working project setup and some time to learn the basics.
 
@@ -250,7 +252,7 @@ These are the idiomatic ways for components to notify others about things:
 - **Delegation:** _(one-to-one)_ Apple uses this a lot (some would say, too much). Use when you want to communicate stuff back e.g. from a modal view.
 - **Callback blocks:** _(one-to-one)_ Allow for a more loose coupling, while keeping related code sections close to each other. Also scales better than delegation when there are many senders.
 - **Notification center:** _(one-to-many)_ Possibly the most common way for objects to emit “events” to multiple observers. Very loose coupling , notifications can even be observed globally without reference to the dispatching object.
-- **Key-Value Observing (KVO):** _(one-to-many)_ Does not require the observed object to explicitly “emit events” as long as it is _Key-Value Coding (KVC)_ compliant for the observed keys (properties). Usually not recommended due to its implicit nature and the cumbersome standard library API.
+- **Key-Value observing (KVO):** _(one-to-many)_ Does not require the observed object to explicitly “emit events” as long as it is _Key-Value Coding (KVC)_ compliant for the observed keys (properties). Usually not recommended due to its implicit nature and the cumbersome standard library API.
 - **Signals:** _(one-to-many)_ The centerpiece of [ReactiveCocoa][reactivecocoa-github], they allow chaining and combining to your heart's content, thereby offering a way out of "callback hell".
 
 ### Models
@@ -658,7 +660,7 @@ After uploading the build, be patient as it can take up to an hour for it to sho
 
 [appstore-connect]: https://appstoreconnect.apple.com
 
-## In-App Purchases (IAP)
+## In-app purchases (IAP)
 
 When validating in-app purchase receipts, remember to perform the following checks:
 
