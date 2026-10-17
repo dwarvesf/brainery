@@ -31,9 +31,9 @@ Good news! You don’t need to wrestle with a whole new set of complex APIs for 
 
 Once configured, you can:
 
-* Query for specific data points or insights.
-* Ask the LLM to process or summarize information.
-* Fetch connected ideas and trends directly within your workflow.
+- Query for specific data points or insights.
+- Ask the LLM to process or summarize information.
+- Fetch connected ideas and trends directly within your workflow.
 
 Essentially, adding the **MCP config** to your environment lets you make **Brainery** a natural extension of how you already work. We believe this approach makes accessing our second brain both powerful and practical for your daily tasks.
 

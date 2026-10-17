@@ -31,18 +31,18 @@ The evidence is the release record, the Hex registry, and the adoption data, not
 
 ## The stack at a glance
 
-| Component | Current | Released | Note |
-|---|---|---|---|
-| Elixir | 1.20.3 | 2026-08-04 | Gradual typing since 1.20.0 (2026-06-03) |
-| Erlang/OTP | 28.x | 2025 | Base requirement; regex moved from struct defaults |
-| Phoenix | 1.8.x | 2025-08 | Adopts LiveView 1.2 |
-| LiveView | 1.2.9 | 2026-06 | Colocated CSS, the 1.2 headline |
-| Ecto | current | ongoing | The data underlay Ash builds on |
-| Ash | 3.31.3 | 2026-08-12 | Two security patches this month |
-| Oban | 2.23.1 | 2026-08-03 | Default for background jobs |
-| Nx / Axon | 0.8.x | 2026 | Bumblebee models on Nx |
-| Livebook | current | ongoing | Distributed Python cells |
-| Hologram | 0.11 | 2026-08 | Pure-Elixir apps in the browser |
+| Component  | Current | Released   | Note                                               |
+| ---------- | ------- | ---------- | -------------------------------------------------- |
+| Elixir     | 1.20.3  | 2026-08-04 | Gradual typing since 1.20.0 (2026-06-03)           |
+| Erlang/OTP | 28.x    | 2025       | Base requirement; regex moved from struct defaults |
+| Phoenix    | 1.8.x   | 2025-08    | Adopts LiveView 1.2                                |
+| LiveView   | 1.2.9   | 2026-06    | Colocated CSS, the 1.2 headline                    |
+| Ecto       | current | ongoing    | The data underlay Ash builds on                    |
+| Ash        | 3.31.3  | 2026-08-12 | Two security patches this month                    |
+| Oban       | 2.23.1  | 2026-08-03 | Default for background jobs                        |
+| Nx / Axon  | 0.8.x   | 2026       | Bumblebee models on Nx                             |
+| Livebook   | current | ongoing    | Distributed Python cells                           |
+| Hologram   | 0.11    | 2026-08    | Pure-Elixir apps in the browser                    |
 
 The dates are release dates from the maintainers. Patch levels move fast. Treat the table as a point-in-time slice.
 

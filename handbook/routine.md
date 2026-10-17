@@ -36,23 +36,23 @@ Our workdays follow a consistent rhythm that balances focused work with necessar
 
 While Monday marks the official start of our workweek, many of us begin forming our to-do lists by Sunday evening. Sound familiar?
 
-### Monday: Planning day
+### Monday: planning day
 
 Monday revolves around business planning and project meetings. These typically run from our 9 AM start until lunchtime. Your afternoon is for catching up on work and perhaps completing a few small tasks. Don't expect to tackle major items on Mondays, they're for getting oriented.
 
-### Tuesday: Discussion day
+### Tuesday: discussion day
 
 Tuesday is prime time for team discussions and client stand-ups. If you need to discuss something with colleagues or hand off tasks, don't wait, Tuesday is your window. We've learned from experience that tasks assigned later in the week (Wednesday or Thursday) often slide to the following week.
 
-### Wednesday & Thursday: Deep work days
+### Wednesday & Thursday: deep work days
 
 These are your most productive days, protect them. With meetings behind you, use this uninterrupted time to focus on substantial work and clear your plate of important tasks.
 
-### Friday: Wrap-up day
+### Friday: wrap-up day
 
 Friday arrives faster than you'd expect. We use it to close loops, summarize weekly progress, and prepare for what's next. Our Project Status meeting at 1 PM gives PMs the chance to update everyone on team progress and client feedback.
 
-### Saturday: Your choice
+### Saturday: your choice
 
 How you spend Saturday is up to you. Most of us consider our week complete by Friday afternoon and dedicate weekend time to personal life and family. It's perfectly fine, encouraged, even, to disconnect completely.
 

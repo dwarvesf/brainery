@@ -15,7 +15,6 @@ redirect:
 slug: token
 ---
 
-
 This collection covers everything from high-level vision to technical implementation details. Start with the whitepaper for context, then dive into specific areas based on your interests.
 
 ## Overview
@@ -222,13 +221,13 @@ The protocol maintains a Bitcoin treasury that backs ICY token value through:
 
 ### Token specifications
 
-| Aspect | ICY Token | DFG Token |
-|--------|-----------|-----------|
-| Type | Utility (ERC-20) | Governance (ERC-20) |
-| Supply | Dynamic (100M start, 1B max) | Fixed (10M total) |
-| Primary use | Rewards, Staking, Services | Governance, Dividends |
-| Earning method | Contributions, Activities | Allocation, Conversion |
-| Key benefit | Protocol Access & Rewards | Control & Value Accrual |
+| Aspect         | ICY Token                    | DFG Token               |
+| -------------- | ---------------------------- | ----------------------- |
+| Type           | Utility (ERC-20)             | Governance (ERC-20)     |
+| Supply         | Dynamic (100M start, 1B max) | Fixed (10M total)       |
+| Primary use    | Rewards, Staking, Services   | Governance, Dividends   |
+| Earning method | Contributions, Activities    | Allocation, Conversion  |
+| Key benefit    | Protocol Access & Rewards    | Control & Value Accrual |
 
 ### Activity chairs
 
@@ -329,7 +328,7 @@ This documentation suite is regularly updated to reflect protocol evolution and 
 For questions, suggestions, or clarifications about the tokenomics design:
 
 - **Community Discord**: [discord.gg/dfoundation](https://discord.gg/dfoundation)
-- **GitHub Repository**: [github.com/dwarvesf/memo.d.foundation](https://github.com/dwarvesf/memo.d.foundation)
+- **GitHub repository**: [github.com/dwarvesf/memo.d.foundation](https://github.com/dwarvesf/memo.d.foundation)
 - **Website**: [memo.d.foundation](https://memo.d.foundation)
 - **General inquiries**: [team@d.foundation](mailto:team@d.foundation)
 

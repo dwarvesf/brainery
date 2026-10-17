@@ -62,7 +62,7 @@ Please organize recommendations by system maturity:
 - Absolute minimum for basic health monitoring
 - Focus on preventing major outages
 
-**Stage 2 (Growth): 15-25 metrics**  
+**Stage 2 (Growth): 15-25 metrics**
 - Add performance optimization metrics
 - User experience improvements
 - Capacity planning basics
@@ -82,7 +82,7 @@ For each metric, provide:
 
 ## Additional Context
 - We use Prometheus for metrics storage
-- Grafana for visualization  
+- Grafana for visualization
 - We prefer structured logging with correlation IDs
 - Team has [beginner/intermediate/advanced] monitoring experience
 
@@ -267,7 +267,7 @@ Ask the LLM to consider specific failure scenarios:
 ```
 "For this system, what metrics would help us detect and respond to:
 1. Database connection pool exhaustion
-2. Memory leaks in long-running processes  
+2. Memory leaks in long-running processes
 3. Third-party API rate limiting or failures
 4. Gradual performance degradation over time
 5. Security issues like unusual access patterns"

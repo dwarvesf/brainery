@@ -44,7 +44,7 @@ flowchart TD
     H --> J["Member can resubmit<br/>with corrections"]
     I --> K["Positive feedback loop<br/>encourages more sharing"]
     J --> E
-    
+
     style A fill:#e1f5fe
     style G fill:#c8e6c9
     style H fill:#ffcdd2
