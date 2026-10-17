@@ -11,11 +11,11 @@ redirect: []
 
 A software design focusing on the **Domain**, one of the keys to a program success, by removing _communication lag_ between **Developers** and **Domain Experts**, _separate important Domain-specific components_ for maintenance and scalability.
 
-## A) Entities Defined by **Identity**
+## A) entities defined by **Identity**
 
 _ID or Identity, identify 2 objects with the same attributes_ (2 persons with the same name, DoB but different ID card number).
 
-## B) Entities Defined by **Thread of continuity**
+## B) entities defined by **Thread of continuity**
 
 _A set of fingerprints or traces of an object when going through multiple systems._
 
@@ -36,7 +36,7 @@ _A set of fingerprints or traces of an object when going through multiple system
 
 - **Combination of attributes(A)**, a batch of newspapers identify by name, city, and publish date.
 
-- **Logging Request time(B)**, when calling to a service, that service will log the request and identify it by request time in combination with an IP address (not recommended if the caller is a middleware service or gateway).
+- **Logging request time(B)**, when calling to a service, that service will log the request and identify it by request time in combination with an IP address (not recommended if the caller is a middleware service or gateway).
 
 ## Entities's role in DDD
 
