@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid4" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="360" fill="#12395f"/>
+  <rect width="760" height="360" fill="url(#grid4)"/>
+  <rect x="0.5" y="0.5" width="759" height="359" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 4 · WHERE IT LANDED: THE FIRST RUN ON THE NEW PIPELINE</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">BAR WIDTH = SECONDS</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <text x="240" y="66" font-size="10" fill="#6f8fb0" text-anchor="end">actions overhead</text>
+  <rect x="250" y="52" width="442" height="20" fill="none" stroke="#6f8fb0" stroke-dasharray="4 3"/>
+  <text x="700" y="66" font-size="10" fill="#6f8fb0">34s</text>
+
+  <line x1="250" y1="82" x2="692" y2="82" stroke="#385a7b"/>
+  <text x="250" y="96" font-size="9" letter-spacing="1" fill="#6f8fb0">THE STEP ITSELF</text>
+
+  <text x="240" y="120" font-size="10" fill="#a7c0d9" text-anchor="end">1P env + vault + install</text>
+  <rect x="250" y="106" width="130" height="20" fill="#21466a" stroke="#68839d"/>
+  <text x="388" y="120" font-size="10" fill="#e8f1fa">10s</text>
+
+  <text x="240" y="150" font-size="10" fill="#a7c0d9" text-anchor="end">markdown compile, 1,954 files</text>
+  <rect x="250" y="136" width="117" height="20" fill="#21466a" stroke="#68839d"/>
+  <text x="375" y="150" font-size="10" fill="#e8f1fa">9s</text>
+
+  <text x="240" y="180" font-size="10" fill="#a7c0d9" text-anchor="end">generator DAG, order fixed</text>
+  <rect x="250" y="166" width="65" height="20" fill="#21466a" stroke="#e8c56a"/>
+  <text x="323" y="180" font-size="10" fill="#e8f1fa">5s</text>
+
+  <text x="240" y="210" font-size="10" fill="#a7c0d9" text-anchor="end">next build, 3,080 pages, warm cache</text>
+  <rect x="250" y="196" width="416" height="20" fill="#21466a" stroke="#68839d"/>
+  <text x="674" y="210" font-size="10" fill="#e8f1fa">32s</text>
+
+  <text x="240" y="240" font-size="10" fill="#a7c0d9" text-anchor="end">rss + redirects + cache save</text>
+  <rect x="250" y="226" width="65" height="20" fill="#21466a" stroke="#68839d"/>
+  <text x="323" y="240" font-size="10" fill="#e8f1fa">5s</text>
+
+  <text x="240" y="270" font-size="10" fill="#a7c0d9" text-anchor="end">deploy tail, parallel</text>
+  <rect x="250" y="256" width="234" height="20" fill="#21466a" stroke="#e8c56a"/>
+  <text x="492" y="270" font-size="10" fill="#e8c56a">18s &#183; diff gate fired</text>
+
+  <line x1="0" y1="296" x2="760" y2="296" stroke="#385a7b"/>
+  <text x="14" y="316" font-size="10" letter-spacing="1" fill="#c3d7ea">STEP TOTAL 79s &#183; JOB WALL 113s</text>
+  <text x="14" y="334" font-size="10" fill="#e8c56a">&#183; the diff-clean push skipped the api deploy and the migrations check outright</text>
+  <text x="14" y="350" font-size="10" fill="#a7c0d9">&#183; overhead = runner prep, toolchain setup, 1P CLI download; a different fight with a different owner</text>
+</svg>

@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 404" role="group" aria-label="Fig. 7: three release designs in 43 days, and the stretch where retention never ran" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid7" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="404" fill="#12395f"/>
+  <rect width="760" height="404" fill="url(#grid7)"/>
+  <rect x="0.5" y="0.5" width="759" height="403" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 7 · THREE RELEASE DESIGNS IN 43 DAYS</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">2026-08-10 TO 2026-09-28</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+  <line x1="137.1" y1="48" x2="137.1" y2="248" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="137.1" y="62" font-size="10" fill="#6f8fb0" text-anchor="middle">08-17</text>
+  <line x1="234.3" y1="48" x2="234.3" y2="248" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="234.3" y="62" font-size="10" fill="#6f8fb0" text-anchor="middle">08-24</text>
+  <line x1="331.4" y1="48" x2="331.4" y2="248" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="331.4" y="62" font-size="10" fill="#6f8fb0" text-anchor="middle">08-31</text>
+  <line x1="428.6" y1="48" x2="428.6" y2="248" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="428.6" y="62" font-size="10" fill="#6f8fb0" text-anchor="middle">09-07</text>
+  <line x1="525.7" y1="48" x2="525.7" y2="248" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="525.7" y="62" font-size="10" fill="#6f8fb0" text-anchor="middle">09-14</text>
+  <line x1="622.9" y1="48" x2="622.9" y2="248" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="622.9" y="62" font-size="10" fill="#6f8fb0" text-anchor="middle">09-21</text>
+  <line x1="720.0" y1="48" x2="720.0" y2="248" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="720.0" y="62" font-size="10" fill="#6f8fb0" text-anchor="middle">09-28</text>
+  <text x="40" y="86" font-size="10" letter-spacing="1" fill="#c3d7ea">1 · A RELEASE PER DEPLOY</text>
+  <rect x="53.9" y="92" width="13.9" height="30" fill="#21466a" stroke="#68839d"/>
+  <text x="77.8" y="111" font-size="10" fill="#a7c0d9">08-11: 5 dispatches, 4 Releases in half a day</text>
+  <text x="40" y="140" font-size="10" letter-spacing="1" fill="#c3d7ea">2 · A RELEASE PER MERGED PR</text>
+  <rect x="67.8" y="146" width="582.9" height="30" fill="#21466a" stroke="#68839d"/>
+  <text x="77.8" y="165" font-size="10" fill="#e8f1fa">gates: merged PR, not already released</text>
+  <text x="40" y="194" font-size="10" letter-spacing="1" fill="#c3d7ea">3 · ONE RELEASE A WEEK</text>
+  <rect x="650.6" y="200" width="69.4" height="30" fill="#21466a" stroke="#68839d"/>
+  <path d="M 720.0 208 L 730.0 215 L 720.0 222" fill="none" stroke="#68839d"/>
+  <text x="640.6" y="219" font-size="10" fill="#e8f1fa" text-anchor="end">09-23: a notice per deploy, no tag</text>
+  <line x1="0" y1="262" x2="760" y2="262" stroke="#385a7b"/>
+  <text x="40" y="284" font-size="10" letter-spacing="1" fill="#c3d7ea">RETENTION: KEEP THE NEWEST 30 PER PREFIX</text>
+  <rect x="192.7" y="292" width="458.0" height="26" fill="none" stroke="#e8c56a" stroke-dasharray="5 4"/>
+  <text x="204.7" y="309" font-size="10" fill="#e8c56a">armed, then not: 184 prod-* releases pile up</text>
+  <circle cx="178.8" cy="318" r="3.5" fill="#12395f" stroke="#68839d"/>
+  <text x="172.8" y="322" font-size="10" fill="#a7c0d9" text-anchor="end">08-20 job written</text>
+  <circle cx="470.2" cy="318" r="3.5" fill="#12395f" stroke="#68839d"/>
+  <circle cx="650.6" cy="318" r="3.5" fill="#12395f" stroke="#68839d"/>
+  <line x1="192.7" y1="288" x2="192.7" y2="322" stroke="#e8c56a"/>
+  <text x="196.7" y="338" font-size="10" fill="#6f8fb0">08-21: armed; its one scheduled run crashed</text>
+  <text x="660.6" y="338" font-size="10" fill="#6f8fb0" text-anchor="end">09-23: armed again</text>
+  <text x="470.2" y="354" font-size="10" fill="#6f8fb0" text-anchor="middle">09-10: the Worker port leaves it unarmed</text>
+  <line x1="0" y1="368" x2="760" y2="368" stroke="#385a7b"/>
+  <text x="14" y="390" font-size="10" fill="#a7c0d9">Same Releases tab, three triggers. Under the merged-PR gate it still held 184 prod-* releases by 09-23.</text>
+</svg>

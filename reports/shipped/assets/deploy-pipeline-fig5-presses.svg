@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" role="group" aria-label="Fig. 5: production deploy jobs per day, 88 days" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid5" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="340" fill="#12395f"/>
+  <rect width="760" height="340" fill="url(#grid5)"/>
+  <rect x="0.5" y="0.5" width="759" height="339" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 5 · THE BUTTON GETS PRESSED ALL DAY</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">JOBS PER DAY, 2026-07-22 TO 2026-10-17</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+  <line x1="56" y1="250.0" x2="736" y2="250.0" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="48" y="253.5" font-size="10" fill="#6f8fb0" text-anchor="end">0</text>
+  <line x1="56" y1="214.0" x2="736" y2="214.0" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="48" y="217.5" font-size="10" fill="#6f8fb0" text-anchor="end">10</text>
+  <line x1="56" y1="178.0" x2="736" y2="178.0" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="48" y="181.5" font-size="10" fill="#6f8fb0" text-anchor="end">20</text>
+  <line x1="56" y1="142.0" x2="736" y2="142.0" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="48" y="145.5" font-size="10" fill="#6f8fb0" text-anchor="end">30</text>
+  <line x1="56" y1="106.0" x2="736" y2="106.0" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="48" y="109.5" font-size="10" fill="#6f8fb0" text-anchor="end">40</text>
+  <line x1="56" y1="232.0" x2="736" y2="232.0" stroke="#6f8fb0" stroke-dasharray="4 4"/>
+  <text x="66" y="226.0" font-size="10" fill="#6f8fb0">median 5</text>
+  <rect x="57.1" y="239.2" width="5.5" height="10.8" fill="#68839d"/>
+  <rect x="134.4" y="188.8" width="5.5" height="61.2" fill="#68839d"/>
+  <rect x="142.1" y="145.6" width="5.5" height="104.4" fill="#68839d"/>
+  <rect x="149.8" y="185.2" width="5.5" height="64.8" fill="#68839d"/>
+  <rect x="157.6" y="228.4" width="5.5" height="21.6" fill="#68839d"/>
+  <rect x="165.3" y="228.4" width="5.5" height="21.6" fill="#68839d"/>
+  <rect x="173.0" y="224.8" width="5.5" height="25.2" fill="#68839d"/>
+  <rect x="180.8" y="246.4" width="5.5" height="3.6" fill="#68839d"/>
+  <rect x="188.5" y="242.8" width="5.5" height="7.2" fill="#68839d"/>
+  <rect x="196.2" y="203.2" width="5.5" height="46.8" fill="#68839d"/>
+  <rect x="203.9" y="181.6" width="5.5" height="68.4" fill="#68839d"/>
+  <rect x="211.7" y="178.0" width="5.5" height="72.0" fill="#68839d"/>
+  <rect x="219.4" y="214.0" width="5.5" height="36.0" fill="#68839d"/>
+  <rect x="227.1" y="246.4" width="5.5" height="3.6" fill="#68839d"/>
+  <rect x="234.8" y="246.4" width="5.5" height="3.6" fill="#68839d"/>
+  <rect x="250.3" y="199.6" width="5.5" height="50.4" fill="#68839d"/>
+  <rect x="258.0" y="149.2" width="5.5" height="100.8" fill="#68839d"/>
+  <rect x="265.8" y="152.8" width="5.5" height="97.2" fill="#68839d"/>
+  <rect x="273.5" y="192.4" width="5.5" height="57.6" fill="#68839d"/>
+  <rect x="281.2" y="138.4" width="5.5" height="111.6" fill="#68839d"/>
+  <rect x="288.9" y="192.4" width="5.5" height="57.6" fill="#68839d"/>
+  <rect x="296.7" y="242.8" width="5.5" height="7.2" fill="#68839d"/>
+  <rect x="304.4" y="235.6" width="5.5" height="14.4" fill="#68839d"/>
+  <rect x="312.1" y="228.4" width="5.5" height="21.6" fill="#68839d"/>
+  <rect x="319.8" y="235.6" width="5.5" height="14.4" fill="#68839d"/>
+  <rect x="327.6" y="239.2" width="5.5" height="10.8" fill="#68839d"/>
+  <rect x="335.3" y="163.6" width="5.5" height="86.4" fill="#68839d"/>
+  <rect x="343.0" y="88.0" width="5.5" height="162.0" fill="#e8c56a"/>
+  <rect x="350.8" y="242.8" width="5.5" height="7.2" fill="#68839d"/>
+  <rect x="358.5" y="221.2" width="5.5" height="28.8" fill="#68839d"/>
+  <rect x="366.2" y="235.6" width="5.5" height="14.4" fill="#68839d"/>
+  <rect x="373.9" y="224.8" width="5.5" height="25.2" fill="#68839d"/>
+  <rect x="381.7" y="224.8" width="5.5" height="25.2" fill="#68839d"/>
+  <rect x="389.4" y="217.6" width="5.5" height="32.4" fill="#68839d"/>
+  <rect x="397.1" y="228.4" width="5.5" height="21.6" fill="#68839d"/>
+  <rect x="404.8" y="181.6" width="5.5" height="68.4" fill="#68839d"/>
+  <rect x="412.6" y="174.4" width="5.5" height="75.6" fill="#68839d"/>
+  <rect x="420.3" y="163.6" width="5.5" height="86.4" fill="#68839d"/>
+  <rect x="428.0" y="242.8" width="5.5" height="7.2" fill="#68839d"/>
+  <rect x="435.8" y="239.2" width="5.5" height="10.8" fill="#68839d"/>
+  <rect x="443.5" y="224.8" width="5.5" height="25.2" fill="#68839d"/>
+  <rect x="451.2" y="246.4" width="5.5" height="3.6" fill="#68839d"/>
+  <rect x="458.9" y="235.6" width="5.5" height="14.4" fill="#68839d"/>
+  <rect x="466.7" y="221.2" width="5.5" height="28.8" fill="#68839d"/>
+  <rect x="474.4" y="246.4" width="5.5" height="3.6" fill="#68839d"/>
+  <rect x="482.1" y="246.4" width="5.5" height="3.6" fill="#68839d"/>
+  <rect x="489.8" y="239.2" width="5.5" height="10.8" fill="#68839d"/>
+  <rect x="497.6" y="239.2" width="5.5" height="10.8" fill="#68839d"/>
+  <rect x="505.3" y="235.6" width="5.5" height="14.4" fill="#68839d"/>
+  <rect x="513.0" y="246.4" width="5.5" height="3.6" fill="#68839d"/>
+  <rect x="520.8" y="242.8" width="5.5" height="7.2" fill="#68839d"/>
+  <rect x="528.5" y="246.4" width="5.5" height="3.6" fill="#68839d"/>
+  <rect x="536.2" y="239.2" width="5.5" height="10.8" fill="#68839d"/>
+  <rect x="543.9" y="134.8" width="5.5" height="115.2" fill="#68839d"/>
+  <rect x="551.7" y="221.2" width="5.5" height="28.8" fill="#68839d"/>
+  <rect x="559.4" y="242.8" width="5.5" height="7.2" fill="#68839d"/>
+  <rect x="567.1" y="242.8" width="5.5" height="7.2" fill="#68839d"/>
+  <rect x="574.8" y="232.0" width="5.5" height="18.0" fill="#68839d"/>
+  <rect x="582.6" y="232.0" width="5.5" height="18.0" fill="#68839d"/>
+  <rect x="590.3" y="239.2" width="5.5" height="10.8" fill="#68839d"/>
+  <rect x="598.0" y="235.6" width="5.5" height="14.4" fill="#68839d"/>
+  <rect x="605.8" y="224.8" width="5.5" height="25.2" fill="#68839d"/>
+  <rect x="613.5" y="206.8" width="5.5" height="43.2" fill="#68839d"/>
+  <rect x="621.2" y="239.2" width="5.5" height="10.8" fill="#68839d"/>
+  <rect x="628.9" y="224.8" width="5.5" height="25.2" fill="#68839d"/>
+  <rect x="636.7" y="206.8" width="5.5" height="43.2" fill="#68839d"/>
+  <rect x="644.4" y="235.6" width="5.5" height="14.4" fill="#68839d"/>
+  <rect x="652.1" y="235.6" width="5.5" height="14.4" fill="#68839d"/>
+  <rect x="659.8" y="228.4" width="5.5" height="21.6" fill="#68839d"/>
+  <rect x="667.6" y="134.8" width="5.5" height="115.2" fill="#68839d"/>
+  <rect x="675.3" y="174.4" width="5.5" height="75.6" fill="#68839d"/>
+  <rect x="683.0" y="232.0" width="5.5" height="18.0" fill="#68839d"/>
+  <rect x="690.8" y="239.2" width="5.5" height="10.8" fill="#68839d"/>
+  <rect x="698.5" y="242.8" width="5.5" height="7.2" fill="#68839d"/>
+  <rect x="706.2" y="224.8" width="5.5" height="25.2" fill="#68839d"/>
+  <rect x="713.9" y="178.0" width="5.5" height="72.0" fill="#68839d"/>
+  <rect x="721.7" y="203.2" width="5.5" height="46.8" fill="#68839d"/>
+  <rect x="729.4" y="210.4" width="5.5" height="39.6" fill="#68839d"/>
+  <line x1="56" y1="250" x2="736" y2="250" stroke="#68839d"/>
+  <text x="357.8" y="98.0" font-size="10" fill="#e8c56a">45 on 2026-08-28</text>
+  <line x1="59.9" y1="250" x2="59.9" y2="255" stroke="#68839d"/>
+  <text x="59.9" y="270" font-size="10" letter-spacing="1" fill="#6f8fb0" text-anchor="start">JUL 22</text>
+  <line x1="137.1" y1="250" x2="137.1" y2="255" stroke="#68839d"/>
+  <text x="137.1" y="270" font-size="10" letter-spacing="1" fill="#6f8fb0" text-anchor="middle">AUG 1</text>
+  <line x1="376.7" y1="250" x2="376.7" y2="255" stroke="#68839d"/>
+  <text x="376.7" y="270" font-size="10" letter-spacing="1" fill="#6f8fb0" text-anchor="middle">SEP 1</text>
+  <line x1="608.5" y1="250" x2="608.5" y2="255" stroke="#68839d"/>
+  <text x="608.5" y="270" font-size="10" letter-spacing="1" fill="#6f8fb0" text-anchor="middle">OCT 1</text>
+  <line x1="732.1" y1="250" x2="732.1" y2="255" stroke="#68839d"/>
+  <text x="732.1" y="270" font-size="10" letter-spacing="1" fill="#6f8fb0" text-anchor="end">OCT 17</text>
+  <line x1="0" y1="282" x2="760" y2="282" stroke="#385a7b"/>
+  <text x="14" y="304" font-size="10" fill="#c3d7ea">754 jobs in 88 days &#183; 10 days with none &#183; 26 days with ten or more</text>
+  <text x="14" y="322" font-size="10" fill="#6f8fb0">One job = one start on the production environment (Deploy, memo publish; pass or fail). Source: GitHub deployments API.</text>
+</svg>

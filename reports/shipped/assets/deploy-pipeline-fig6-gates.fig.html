@@ -1,0 +1,84 @@
+<figure class="fig"><div class="fig-body">
+<svg xmlns="http://www.w3.org/2000/svg" data-fk="graph" viewBox="0 0 760 410" role="group" aria-label="Fig. 6: deploy, release and live registry, the per-merge era and today" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid6" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr6" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/></marker>
+    <marker id="arm6" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#e8c56a"/></marker>
+  </defs>
+  <rect width="760" height="410" fill="#12395f"/>
+  <rect width="760" height="410" fill="url(#grid6)"/>
+  <rect x="0.5" y="0.5" width="759" height="409" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 6 · DEPLOY, RELEASE, AND WHAT IS LIVE</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">TWO ERAS, ONE DEPLOY</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+  <text x="20" y="62" font-size="10" letter-spacing="1.5" fill="#c3d7ea">08-12 TO 09-23 · A RELEASE PER MERGED PR</text>
+<g data-fk-node="dispatch" data-tip="A person or an agent dispatches the Deploy workflow by hand. Nothing deploys on merge.">
+  <rect x="20" y="74" width="118" height="70" fill="#21466a" stroke="#68839d"/>
+  <text x="79.0" y="96" font-size="11" letter-spacing="1.5" fill="#e8f1fa" text-anchor="middle" font-weight="bold">DISPATCH</text>
+  <text x="79.0" y="114" font-size="10" fill="#a7c0d9" text-anchor="middle">by hand,</text>
+  <text x="79.0" y="128" font-size="10" fill="#a7c0d9" text-anchor="middle">any time</text>
+</g>
+<g data-fk-node="deploy" data-tip="Every dispatch deploys about twenty Workers and stamps the commit on each one as a plain variable.">
+  <rect x="170" y="74" width="150" height="70" fill="#21466a" stroke="#68839d"/>
+  <text x="245.0" y="96" font-size="11" letter-spacing="1.5" fill="#e8f1fa" text-anchor="middle" font-weight="bold">DEPLOY</text>
+  <text x="245.0" y="114" font-size="10" fill="#a7c0d9" text-anchor="middle">every dispatch</text>
+  <text x="245.0" y="128" font-size="10" fill="#a7c0d9" text-anchor="middle">stamps GIT_SHA</text>
+</g>
+<g data-fk-node="gate1" data-group="retired" data-tip="Skip the release unless the deployed commit came from a merged pull request. A direct commit returns nothing.">
+  <rect x="352" y="74" width="118" height="70" fill="#21466a" stroke="#68839d"/>
+  <text x="411.0" y="96" font-size="11" letter-spacing="1.5" fill="#e8f1fa" text-anchor="middle" font-weight="bold">GATE 1</text>
+  <text x="411.0" y="114" font-size="10" fill="#a7c0d9" text-anchor="middle">commit came from</text>
+  <text x="411.0" y="128" font-size="10" fill="#a7c0d9" text-anchor="middle">a merged PR</text>
+</g>
+<g data-fk-node="gate2" data-group="retired" data-tip="Skip the release if a recent Release already targets this commit. A re-dispatch used to mint a second one.">
+  <rect x="502" y="74" width="118" height="70" fill="#21466a" stroke="#68839d"/>
+  <text x="561.0" y="96" font-size="11" letter-spacing="1.5" fill="#e8f1fa" text-anchor="middle" font-weight="bold">GATE 2</text>
+  <text x="561.0" y="114" font-size="10" fill="#a7c0d9" text-anchor="middle">revision not</text>
+  <text x="561.0" y="128" font-size="10" fill="#a7c0d9" text-anchor="middle">released yet</text>
+</g>
+<g data-fk-node="release" data-group="retired" data-tip="One Release and one alert per merged PR. Retired on 2026-09-23.">
+  <rect x="652" y="74" width="88" height="70" fill="#21466a" stroke="#68839d"/>
+  <text x="696.0" y="96" font-size="11" letter-spacing="1.5" fill="#e8f1fa" text-anchor="middle" font-weight="bold">RELEASE</text>
+  <text x="696.0" y="114" font-size="10" fill="#a7c0d9" text-anchor="middle">+ alert</text>
+</g>
+<line data-fk-edge="dispatch deploy" x1="138" y1="109" x2="168" y2="109" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr6)"/>
+<line data-fk-edge="deploy gate1" data-group="retired" x1="320" y1="109" x2="350" y2="109" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr6)"/>
+<line data-fk-edge="gate1 gate2" data-group="retired" x1="470" y1="109" x2="500" y2="109" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr6)"/>
+<line data-fk-edge="gate2 release" data-group="retired" x1="620" y1="109" x2="650" y2="109" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr6)"/>
+  <line x1="0" y1="200" x2="760" y2="200" stroke="#385a7b"/>
+  <text x="20" y="224" font-size="10" letter-spacing="1.5" fill="#c3d7ea">TODAY</text>
+  <text x="262" y="224" font-size="10" letter-spacing="1.5" fill="#c3d7ea">A NOTICE PER DEPLOY, ONE RELEASE A WEEK</text>
+<g data-fk-node="registry" data-tip="A script reads the stamped commit off every Worker and checks it against the Releases tab.">
+  <rect x="170" y="238" width="150" height="70" fill="#21466a" stroke="#68839d"/>
+  <text x="245.0" y="260" font-size="11" letter-spacing="1.5" fill="#e8f1fa" text-anchor="middle" font-weight="bold">LIVE REGISTRY</text>
+  <text x="245.0" y="278" font-size="10" fill="#a7c0d9" text-anchor="middle">reads GIT_SHA back</text>
+  <text x="245.0" y="292" font-size="10" fill="#a7c0d9" text-anchor="middle">from Cloudflare</text>
+</g>
+<g data-fk-node="drift" data-tip="A warning line in the deploy notice, only when more than one commit is live.">
+  <rect x="352" y="238" width="150" height="70" fill="#21466a" stroke="#68839d"/>
+  <text x="427.0" y="260" font-size="11" letter-spacing="1.5" fill="#e8f1fa" text-anchor="middle" font-weight="bold">DRIFT LINE</text>
+  <text x="427.0" y="278" font-size="10" fill="#a7c0d9" text-anchor="middle">only when the</text>
+  <text x="427.0" y="292" font-size="10" fill="#a7c0d9" text-anchor="middle">estate is split</text>
+</g>
+<g data-fk-node="weekly" data-tip="Since 2026-09-23 one Release per live surface per week, cut at the live commit.">
+  <rect x="552" y="238" width="188" height="70" fill="#21466a" stroke="#e8c56a"/>
+  <text x="646.0" y="260" font-size="11" letter-spacing="1.5" fill="#e8c56a" text-anchor="middle" font-weight="bold">WEEKLY RELEASE</text>
+  <text x="646.0" y="278" font-size="10" fill="#a7c0d9" text-anchor="middle">at the live commit</text>
+  <text x="646.0" y="292" font-size="10" fill="#a7c0d9" text-anchor="middle">notes: PRs since the last</text>
+</g>
+<line data-fk-edge="deploy registry" x1="245" y1="146" x2="245" y2="236" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr6)" data-tip="The stamped commit is the only link between the two lanes."/>
+<line data-fk-edge="registry drift" x1="320" y1="273" x2="350" y2="273" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr6)"/>
+<path data-fk-edge="registry weekly" d="M 245 310 L 245 336 L 646 336 L 646 310" fill="none" stroke="#e8c56a" stroke-width="1.5" marker-end="url(#arm6)"/>
+  <text x="445" y="330" font-size="10" fill="#6f8fb0" text-anchor="middle">once a week, from the live commit</text>
+  <line x1="0" y1="354" x2="760" y2="354" stroke="#385a7b"/>
+  <text x="14" y="374" font-size="10" fill="#a7c0d9">The deploy posts a notice on every dispatch, with the merged PR and the drift line, and mints no tag.</text>
+  <text x="14" y="392" font-size="10" fill="#6f8fb0">The registry reads the stamped commit off the platform, not out of a log.</text>
+</svg>
+<div data-fk-controls hidden>
+<span data-fk-walk="dispatch deploy gate1 gate2 release" data-fk-label="Walk one commit"></span>
+<span data-fk-toggle="retired" data-fk-label="Show what retired" data-fk-note="Gate 1, gate 2 and the per-merge Release were retired on 2026-09-23, when the weekly release replaced them"></span>
+<span data-fk-hint="Hover a box to read its rule, or walk one commit through the per-merge gates."></span>
+</div>
+</div></figure>
