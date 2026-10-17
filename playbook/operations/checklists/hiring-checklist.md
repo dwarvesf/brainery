@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Hiring
 description: The checklist presents how the hiring is proceeded.
 date: 2020-01-01
@@ -10,8 +11,7 @@ tags:
   - hiring
   - operation
   - people
-redirect:
-  - /Xop3XQ
+redirect: []
 ---
 
 ### Resume collecting

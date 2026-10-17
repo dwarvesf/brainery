@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Rejection
 description: The email template is to reject a candidate that is not qualified in the recruitment process.
 date: 2020-01-01
@@ -10,8 +11,7 @@ tags:
   - hiring
   - operation
   - template
-redirect:
-  - /OLORwg
+redirect: []
 ---
 
 ### Screening rejection

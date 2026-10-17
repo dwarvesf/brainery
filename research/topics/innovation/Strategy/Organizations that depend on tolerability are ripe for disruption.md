@@ -1,13 +1,12 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: "Organizations that depend on tolerability are ripe for disruption (reading note)"
+description: "Some organizations rely on “tolerable” attributes, basic features that customers put up with, but view negatively."
+date: 2026-10-18
 tags:
   - business
   - strategy
-redirect:
-  - /Tquxow
+redirect: []
 ---
 
 Some organizations rely on “tolerable” attributes—basic features that customers put up with, but view negatively. Customers will put up with these, but only until a viable alternative presents itself. Then, what was once tolerable may become a dissatisfier, or worse. Often, customers aren’t even able to articulate these points; they simply put up with them or unconsciously rely on workarounds. These friction points are the places most vulnerable to inflection points. Understanding them are key to survival.

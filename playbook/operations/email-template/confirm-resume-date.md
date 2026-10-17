@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Confirm employee's resume date day"
 description: The email template is to welcome employee back to work.
 date: 2020-01-01
@@ -9,8 +10,7 @@ tags:
   - email
   - operation
   - template
-redirect:
-  - /B18sHg
+redirect: []
 ---
 
 **Title**: Dwarves Foundation - Welcome Back

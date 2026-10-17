@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Consulting contract
 description: The checklist presents the process of contract evaluation.
 date: 2020-01-01
@@ -9,8 +10,7 @@ tags:
   - checklist
   - operation
   - people
-redirect:
-  - /VHDvgg
+redirect: []
 ---
 
 ### Content
