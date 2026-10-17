@@ -59,7 +59,7 @@ Eight experiments exist as proposed. Nine exist in another shape. Forty-three ne
 
 <!-- confirm: every verdict in the ledger is proposed from the evidence table and waits for Han -->
 
-## How i scored it
+## How the ledger was scored
 
 The theses were drafts. I wrote them with an LLM following our own method, they never went public, and they were removed in August 2026 as template output. I score the calls anyway, because the 2025 roadmap named focus areas from this list and the experiments were meant to steer the work.
 
