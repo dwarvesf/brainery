@@ -68,7 +68,7 @@ In mid-2023 we also prototyped a GPT-based product consultation chatbot for Drop
 
 The Issue and Block list in a weekly report is a short list by design, and ours stayed nearly empty. Three entries in 51 weeks were not "None", and all three describe the same dependency. On 14 November 2022 it read "FE sometimes need to wait for BE work to complete: potential blockage". On 9 and 13 January 2023 it asked for planning so that frontend engineers had enough work, with the fallback of pulling items found during the audit phase. A frontend team in one company that waits on a backend team in another will always carry this cost, and we never removed it.
 
-One ticket shows how a thin team spends its time. "Update README to include release process" sat under In Progress in 22 weekly reports between 6 February and 9 October 2023, and never reached Done in any of them. The release flow existed and worked. Writing it down lost every sprint to a feature ticket.
+One ticket shows how a thin team spends its time. "Update README to include release process" sat under In Progress in 22 weekly reports between 6 February and 9 October 2023, and never reached Done in any of them. The monorepo release flow itself was set up in January 2023. Writing it down lost every sprint to a feature ticket.
 
 The team also shrank faster than the scope. Eight people peaked in September 2022, four remained after 30 December, and three after 26 April 2023, while ERP and dashboard work kept arriving. <!-- confirm: peak 8 and the later drops come from the Team Info start and last dates, which may omit later joiners -->
 

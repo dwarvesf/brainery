@@ -70,7 +70,7 @@ Evaluate the team's performance based on the following criteria:
 
 ### Project priority
 
-Assess the importance of each project based on its deal size, its potential to open new opportunities and any strategic partnership. The sample shows these as the Important level and the Deal types tags rather than as a weighted formula. <!-- confirm: there is no numeric weighting behind Important -->
+Assess the importance of each project based on its deal size, its potential to open new opportunities and any strategic partnership. The sample records these as the Important level and the Deal types tags. It shows no weighted formula. <!-- confirm: there is no numeric weighting behind Important -->
 
 ## Conducting the report
 

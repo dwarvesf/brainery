@@ -41,11 +41,11 @@ Full-stack development / Agile project management
 
 Relay was an early-stage startup that needed a basic but viable product to put in front of customers and to raise a seed round on. The brief had two parts that pull against each other: ship fast, and expect the requirements to change with market feedback. We supplied two engineers who could pick up the product context quickly and keep a steady weekly pace.
 
-![Relay delivery timeline from July 2021 to March 2022 {#fig-relay-timeline .live}](assets/relay-fig1-timeline.svg 'Relay from July 2021 to March 2022: 32 weekly changelogs, ten dated releases, and the point where the team went from two engineers to one.')
+![Relay delivery timeline from July 2021 to March 2022 {#fig-relay-timeline .live}](assets/relay-fig1-timeline.svg 'Relay from July 2021 to March 2022: 32 weekly changelogs, nine dated changes, and the point where the team went from two engineers to one.')
 
 ## Challenge
 
-Hetong stated the need plainly: a version with basic features, finished fast and clean, that could attract customers and support the seed round. Speed mattered, and so did the code. Early customers would ask for changes within weeks, and a codebase that resisted change would cost more than a late launch. Relay needed a team that could shift with the product without slowing the weekly rhythm.
+Hetong stated the need plainly: a version with basic features, finished fast and clean, that could attract customers and support the seed round. Speed mattered. Early customers would ask for changes within weeks, and a codebase that resisted change would cost more than a late launch. Relay needed a team that could shift with the product without slowing the weekly rhythm.
 
 ## Solution
 
@@ -96,6 +96,6 @@ The team also thinned. After the end of September 2021 the project moved from pr
 
 The MVP went out with a Chrome extension, a web app for settings, an analytics dashboard and a Slack bot. Relay began to acquire paying customers and prepared its seed round, and we kept shipping. Relay published its own notes on this period, including its [May 2021 product update](https://teamrelay.medium.com/relay-product-updates-may-2021-f7b3db7002c5). <!-- confirm: that page returned 403 and has no web archive copy, so its content was not checked against the Sequence Chart and Progress claims in the first draft -->
 
-![Relay's web dashboard design with mock data: weekly counts on the left and the acknowledge prompt on the right](assets/relay-dashboard-interface.webp)
+![Relay's web dashboard: weekly counts on the left and the acknowledge prompt on the right](assets/relay-dashboard-interface.webp)
 
 By early 2022 the Relay site carried named customer quotes from support teams and a pricing page, whose new UI is in our 13 December 2021 changelog. <!-- needs Han: client permission for any customer count, revenue or funding figure; none is public -->
