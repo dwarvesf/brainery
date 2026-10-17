@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Nix flakes: next-level package management"
 description: Discover how Nix Flakes revolutionize package management with reproducibility and discoverability
 date: 2024-08-01
@@ -8,8 +8,7 @@ authors:
 tags:
   - devbox
   - nix
-redirect:
-  - /xTgTBQ
+redirect: []
 ---
 
 Ever tried to share your perfect dev setup, only to hear "It doesn't work on my machine"? Nix Flakes is about to make that headache a thing of the past.

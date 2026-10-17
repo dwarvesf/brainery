@@ -84,8 +84,7 @@ If you've just joined us, you're in a unique position. You can see things we've 
 ## Practical guides
 
 - [Check-in at the office](guides/check-in-at-office.md) - Office check-in procedures
-- [Conduct a meeting](guides/conduct-a-meeting.md) - Meeting best practices
-- [Effective meeting](guides/effective-meeting.md) - Making meetings productive
+- [How we run meetings](guides/how-we-run-meetings.md) - Scheduling, running and recording meetings
 - [1-on-1 meeting](guides/one-on-one-meeting.md) - Manager-report discussions
 - [Email config](guides/configure-company-email.md) - Setting up your work email
 - [Email communication](guides/email-communication-and-use.md) - Email guidelines
