@@ -2,7 +2,7 @@
 draft: false
 title: ¶ sensemaking
 description: Sensemaking is a humanities-based method that uses cultural understanding and empathy to interpret how people relate to their world, offering deep insights beyond data and algorithms.
-date: null
+date: 2026-08-27
 redirect:
   - /wlR6Rw
 ---
@@ -13,7 +13,7 @@ Focusing more heavily on cultures rather than individuals, sensemaking seeks to 
 
 Sensemaking is a process of analytical empathy that seeks to understand not just what happened, but how people relate to what happened. It is less interested in what people think about things than the structures that undergird that thinking.
 
-Madsbjerg positions sensemaking in opposition to what he calls [[Cultural bias toward scientific models leaves us less equipped to interpret qualitative information | algorithmic thinking]]. Where the latter is broad and shallow, sensemaking is concrete, [deep](https://publish.obsidian.md/mobydiction/notes/Sensemaking+produces+thick+data), and rich.
+Madsbjerg positions sensemaking in opposition to what he calls [[Cultural bias toward scientific models leaves us less equipped to interpret qualitative information | algorithmic thinking]]. Where the latter is broad and shallow, sensemaking is concrete, deep, and rich.
 
 Sensemaking helps us identify the most appropriate contexts for data collection, and then helps us bring that data together into a perspective on the world. It doesn't provide strict turn-by-turn directions, but a north star we can use to orient ourselves.
 
@@ -22,8 +22,10 @@ Sensemaking helps us identify the most appropriate contexts for data collection,
 #### Related
 
 - [[¶ Abductive reasoning]]
-- [[Different forms of empathy]]
+- Different forms of empathy
 
 #### Citations
 
 Madsbjerg, Christian. Sensemaking: The Power of the Humanities in the Age of the Algorithm. Hachette Books, 2017.
+
+Adapted from David Drysdale's Moby Diction notes.
