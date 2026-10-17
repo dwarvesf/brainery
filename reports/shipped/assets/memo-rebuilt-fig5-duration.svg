@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" aria-label="Fig. 5: median publish time, one Cloudflare Pages job against today's two lanes" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" aria-label="Fig. 5: median publish time, one Pages-era job against today's two lanes" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
   <defs>
     <pattern id="grid5" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/></pattern>
     <marker id="ar5" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#c3d7ea"/></marker>
@@ -18,7 +18,7 @@
 <text x="550.0" y="280" font-size="9" fill="#6f8fb0" text-anchor="middle">1,000</text>
 <line x1="710.0" y1="66" x2="710.0" y2="262" stroke="#385a7b" stroke-opacity="0.6" stroke-width="1"/>
 <text x="710.0" y="280" font-size="9" fill="#6f8fb0" text-anchor="middle">1,500</text>
-<text x="216" y="94" font-size="11" fill="#e8f1fa" text-anchor="end">Cloudflare Pages publish</text>
+<text x="216" y="94" font-size="11" fill="#e8f1fa" text-anchor="end">Pages-era publish</text>
 <text x="216" y="109" font-size="9" fill="#6f8fb0" text-anchor="end">median, 7 successful runs</text>
 <rect x="230" y="82" width="431.7" height="26" fill="#e8c56a" stroke="#e8c56a" stroke-width="1"/>
 <text x="240" y="99" font-size="11" fill="#12395f" font-weight="bold">1,349 s</text>
