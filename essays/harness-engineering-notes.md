@@ -27,7 +27,7 @@ Each note stands alone. Read in this order if you are new to agents, or jump to 
 **Understand it**
 
 1. [Five layers to tune before you fork your agent](/agent-tuning-layers) answers whether better tool calls and context management mean rebuilding the agent. It does not: five layers sit outside the harness, and it prices each one in tokens on a system we run.
-2. [DeepSeek Harness, dissected](/deepseek-harness-architecture) answers what a new open-source harness does differently and whether to bet automation on it. Our verdict: study the design now, hold off on production use until the plugin API settles.
+2. [DeepSeek harness, dissected](/deepseek-harness-architecture) answers what a new open-source harness does differently and whether to bet automation on it. Our verdict: study the design now, hold off on production use until the plugin API settles.
 
 **Check and guard it**
 
