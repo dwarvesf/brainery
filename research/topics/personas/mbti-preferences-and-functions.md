@@ -92,106 +92,106 @@ Two notes. A person's traits can change with age, and they are heritable. And be
 
 ## The four preference pairs
 
-Pages 24 to 57 of the book.
+Drenth covers the four pairs on pages 24 to 57. The lists below restate his points in short form. Where he ties a trait to particular types, such as IJs or EPs, the list says so.
 
 ### Introversion and extraversion
 
 Pages 24 to 32.
 
-Common introverted traits:
+Introverts:
 
-- Inner and self-focus
-- More independent-minded
-- More cautious, conservative, and discriminating; "look before they leap"; rely heavily on forethought (especially IJs)
-- Prefer a slower, quieter, reflective life
-- More easily overwhelmed by external stimuli
-- Feel somewhat alien, uncomfortable, or inadequate in the world
-- Often less talkative (especially ISPs)
-- More self-reflective and self-aware
-- Require more time to themselves
+- Look inward and focus on themselves
+- Think independently
+- Weigh things carefully and lean conservative and selective; they plan before they move, IJs most of all
+- Favor a slower, quieter life with room to reflect
+- Get overwhelmed by outside stimulation more easily
+- Can feel out of place, uneasy or not up to the world
+- Often talk less, ISPs most
+- Know their own inner state well
+- Need more time alone
 
-Common extraverted traits:
+Extraverts:
 
-- Outer and world-focus
-- More collective-minded
-- "Act now, think later" (especially EPs); more assertive and risk-tolerant
-- Enjoy a busier, "on the go" lifestyle
-- Less concerned with being harmed or overwhelmed by the world
-- Feel rather at home in the world
-- Often more talkative (especially ENJs)
-- More world-reflective and world-aware
-- Require less time to themselves
+- Look outward at the world
+- Think more as part of a group
+- Lean toward "act now, think later" (pp. 24 to 32), EPs most, and tolerate risk and assertiveness more
+- Like a busy life on the move
+- Worry less about being harmed or swamped by the world
+- Feel at home in it
+- Often talk more, ENJs most
+- Know the world around them well
+- Need less time alone
 
 ### Intuition and sensing
 
 Pages 33 to 38.
 
-Characteristics of Sensors:
+Sensors:
 
-- Caught up in living life, they may forget to reflect on it (especially ESPs)
-- Generally prefer and are at their best with practical, concrete activities, and excel in handling details and daily affairs
-- Lovers of new sights, tastes, and sensations (SPs) or routines and traditions (SJs)
-- More concerned with the facts, details, or particulars than the connections between them
-- Most effective on the back end of the creative process, with enacting and implementing
+- Get absorbed in living and can forget to reflect on it, ESPs most
+- Do their best work on practical, hands-on tasks and handle details and daily affairs well
+- Split by subtype: SPs love new sights, tastes and sensations, while SJs prefer routine and tradition
+- Care more about facts and particulars than about how they connect
+- Work best at the back end of the creative process, where ideas get carried out
 
-Characteristics of Intuitives:
+Intuitives:
 
-- Often lost in thought, their minds are "somewhere else"
-- May struggle to attend to the concrete details of daily life (especially INJs and ENPs)
-- Prefer to deal in theoretical, imaginative, or speculative realms; love working with ideas
-- Enjoy contemplating abstract patterns, connections, and languages, be they verbal, mathematical, or computer-based
-- More interested in the connections between things (especially abstract things) than in the things themselves
-- Most effective on the front end of the creative process, with generating ideas or insights
+- Often sit deep in thought, with the mind elsewhere
+- Can struggle with the concrete details of daily life, INJs and ENPs most
+- Prefer theoretical, imaginative or speculative ground and enjoy working with ideas
+- Like abstract patterns, connections and languages, whether verbal, mathematical or computer-based
+- Care more about the links between things, abstract things especially, than about the things themselves
+- Work best at the front end of the creative process, where ideas and insights get generated
 
 ### Thinking and feeling
 
 Pages 39 to 45.
 
-Characteristics of Thinkers:
+Thinkers:
 
-- Take a logic-based approach to reasoning and decision-making
-- Focus on matters of logic, strategy, logistics, utility, functionality, and classification; strive to make things more useful, rational, and efficient
-- More readily detach from their emotions to make decisions in an impersonal fashion
-- Less concerned with the needs and feelings of others
-- Focus more on their own work and interests
+- Reason and decide on logic
+- Focus on logic, strategy, logistics, utility, function and classification, and try to make things more useful, rational and efficient
+- Step back from their emotions more easily and decide in an impersonal way
+- Pay less attention to the needs and feelings of others
+- Concentrate on their own work and interests
 
-Characteristics of Feelers:
+Feelers:
 
-- Consult tastes and feelings in reasoning and decision-making
-- Enrich life with colors, sounds, tastes, scents, textures, stories, images, and so on
-- More attuned and responsive to feelings, both their own and those of others
-- Generally more caring, compassionate, and nurturing
-- More apt to divide time among work, relationships, and caregiving
+- Bring taste and feeling into reasoning and decisions
+- Fill life with colors, sounds, flavors, scents, textures, stories and images
+- Tune in more closely to feelings, their own and other people's
+- Tend to be caring, compassionate and nurturing
+- Spread their time across work, relationships and caregiving
 
 ### Perceiving and judging
 
 Pages 46 to 57.
 
-Characteristics of J types:
+J types:
 
-- Outwardly firm, direct, and opinionated
-- Undeterred from directly expressing their views or wishes (especially EJs); utilize declarative statements
-- Tone and mannerisms convey a sense of closure, seriousness, or formalness
-- Others may turn to them for answers or decision-making
-- See planning as a way of reducing risk and ensuring desirable outcomes
-- Experience and express convergence in beliefs and worldview
-- More apt to prefer structure and predictability in work settings
-- Prefer "traditional" methods of teaching and learning, such as lectures or direct instruction
-- Not necessarily neat, tidy, organized, uptight, or punctual
-- Less restless and less dependent on a breadth of activities for stimulation (especially IJs)
+- Come across as firm, direct and opinionated
+- State their views and wishes plainly, EJs most, and speak in declarative sentences
+- Signal closure, seriousness or formality through tone and manner
+- Get asked by others for answers and decisions
+- Treat planning as a way to cut risk and secure good outcomes
+- Hold converging beliefs and a settled worldview, and show it
+- Prefer structure and predictability at work
+- Favor traditional teaching and learning, such as lectures and direct instruction
+- Are not necessarily neat, tidy, organized, uptight or punctual
+- Need less variety to stay stimulated and feel less restless, IJs most
 
-Characteristics of P types:
+P types:
 
-- Outwardly open, receptive, and adaptable
-- Can be reluctant to state things directly (especially IPs); may express themselves in a more tangential fashion, for example with hints or questions
-- Typically unenthusiastic about making detailed plans, especially when involving other people; enjoy the uncertainty of leaving things open-ended
-- Slow to reach closure in beliefs or decisions
-- Often viewed as good, non-judgmental listeners
-- Can be skeptical toward external laws; prefer to make and follow their own rules
-- Desire variety, novelty, informality, and minimal structure at work
-- Often prefer to teach themselves (especially IPs); teach others by example or facilitation
-- Not necessarily messy, disorganized, procrastinating, or chronically late
-- Often restless, turning to a breadth of activities for stimulation (especially EPs)
+- Come across as open, receptive and adaptable
+- Can hold back from saying things directly, IPs most, and tend to hint or ask questions instead
+- Dislike detailed plans, especially ones that involve other people, and like leaving things open
+- Take a long time to settle beliefs or decisions
+- Often earn a reputation as good, non-judgmental listeners
+- May doubt external rules and prefer to set and follow their own
+- Want variety, novelty, informality and little structure at work
+- Often teach themselves, IPs most, and teach others by example or by facilitating
+- Are not necessarily messy, disorganized, procrastinating or late
+- Often feel restless and chase a wide range of activities for stimulation, EPs most
 
 ## Cognitive functions
 
@@ -241,110 +241,110 @@ A stack is two such pairs. Each function behaves differently depending on its po
 
 ## The eight functions in profile
 
-Every profile below comes from _My True Type_ at the page range given.
+Each profile restates Drenth's description of the function at the page range given. The names in the lists of famous examples are his.
 
 ### Introverted intuition (Ni)
 
 Pages 58 to 69.
 
-- Primary roles: to collect conscious and subconscious information, then synthesize it to produce impressions, insights, answers, and theories; to see deep causes, patterns, and laws underlying sense data
-- Most prominent in: INTJs and INFJs; also prominent in ENTJs and ENFJs
-- Associated with: deep perceptiveness and insight, deep "knowing," theoretical genius, powers of analysis and focus, advising and troubleshooting
+- Role: gathers conscious and subconscious information and synthesizes it into impressions, insights, answers and theories, looking for the deep causes, patterns and laws behind what the senses report
+- Most common in INTJs and INFJs, and also strong in ENTJs and ENFJs
+- Shows up as deep perceptiveness, a sense of simply knowing, theoretical brilliance, strong analysis and focus, and a knack for advising and troubleshooting
 - Famous INJs: Plato, Jesus, Nietzsche, Jung, Stephen Hawking
 
-Ni is the rarest of the eight functions, and a note in Vietnamese describes it as carrying a "signal from the universe." Ni users are skilled at seeing the "dark skies before the storm." They like to explore the submerged part of the iceberg in a problem.
+Ni is the rarest of the eight functions, and a note in Vietnamese describes it as carrying a "signal from the universe." Ni users are good at sensing the "dark skies before the storm" (pp. 58 to 69). They like to explore the submerged part of the iceberg in a problem.
 
 ### Extraverted intuition (Ne)
 
 Pages 70 to 78. Practical Typing has a longer comparison: [7 differences between Ne and Ni users](https://practicaltyping.com/2020/02/24/7-differences-between-ne-and-ni-users/).
 
-- Primary role: to broadly explore, synthesize, and express ideas, associations, and possibilities
-- Most prominent in: ENTPs and ENFPs; also prominent in INTPs and INFPs
-- Associated with: brainstorming, innovative, artistic and ideational creativity, divergent thinking, holistic and weblike associations, a nose for promising new enterprises
+- Role: explores widely, pulls ideas together and voices associations and possibilities
+- Most common in ENTPs and ENFPs, and also strong in INTPs and INFPs
+- Shows up as brainstorming, inventive, artistic and idea-driven creativity, divergent thinking, web-like association, and a nose for promising new ventures
 - Famous ENPs: Benjamin Franklin, Walt Disney, Steve Jobs, Ellen DeGeneres, Jon Stewart, John Edward
 
-Ne users feel compelled to explore all the options and possibilities ("the possibilities are endless!"), which makes it hard for them to draw conclusions or make decisions. They often present as open-minded, receptive, creative, inquisitive, random, distractible, and playful. They love playing with words, ideas, associations, and quips. Ne openness can also make NPs uncomfortable around types, typically J types. A Vietnamese note adds that strong Ne tends to crave everything and tire of it quickly.
+Ne users feel pulled to explore every option ("the possibilities are endless!", pp. 70 to 78), so they find it hard to reach conclusions or decide. They often seem open-minded, receptive, creative, curious, random, easily distracted and playful. They enjoy play with words, ideas, associations and quips. Their openness can unsettle NPs around other types, typically J types. A Vietnamese note adds that strong Ne tends to crave everything and tire of it quickly.
 
-The difference between Ne and Ni:
+How Ne differs from Ni:
 
-- As an extraverted function, Ne relies more on circulating ideas than Ni does. Ne users seem more concerned with which thinkers and theories are in vogue. They are notorious for "name dropping," constantly referencing books or theorists to support their arguments.
-- NPs also rely heavily on contrasts and comparisons.
-- Ni penetrates deep rather than wide, seeing things as structured hierarchies rather than webs (especially when paired with Te).
-- Ne shares information, while Ni gathers information.
-- Ne knows a little about a lot, while Ni knows a lot about a little.
-- Ne is good at producing words, while Ni struggles to verbalize thoughts.
+- Ne leans on ideas in circulation more than Ni does. Ne users track which thinkers and theories are in fashion, and they tend to drop names, citing books or theorists to back an argument.
+- NPs also rely heavily on contrast and comparison.
+- Ni goes deep rather than wide and sees structured hierarchies rather than webs, especially when paired with Te.
+- Ne shares information. Ni collects it.
+- Ne knows a little about a lot. Ni knows a lot about a little.
+- Ne produces words easily. Ni struggles to put thoughts into words.
 
 ### Introverted sensing (Si)
 
 Pages 79 to 85.
 
-- Primary roles: to retain, condense, and recollect information; to consult past experiences, routines, and traditions; to perceive inner bodily sensations
-- Most prominent in: ISTJs and ISFJs; also prominent in ESTJs and ESFJs
-- Associated with: routines, habits, valuing and preserving "the tried and true," material conservatism, high regard for traditions and authority
+- Role: stores, condenses and recalls information, draws on past experience, routine and tradition, and registers sensations inside the body
+- Most common in ISTJs and ISFJs, and also strong in ESTJs and ESFJs
+- Shows up as routines and habits, valuing and preserving "the tried and true" (pp. 79 to 85), conservatism about material things, and high regard for tradition and authority
 - Famous ISJs: Dick Cheney, Martin Luther, Mother Teresa, George H.W. Bush
 
-Si is more interested in the routine and familiar. It is a careful and conservative function. It draws on existing resources, beliefs, or practices instead of exploring or developing new ones. ISJs take their responsibilities seriously, down to the last detail.
+Si cares most about the routine and familiar. It is cautious and conservative, and it builds on existing resources, beliefs and practices instead of seeking out new ones. ISJs take their responsibilities seriously, down to the last detail.
 
 ### Extraverted sensing (Se)
 
 Pages 86 to 91.
 
-- Primary roles: to perceive and mediate prompt responses to external details and events; to seek a breadth of novel sensory experiences; to physically interact with the world
-- Most prominent in: ESTPs and ESFPs; also prominent in ISTPs and ISFPs
-- Associated with: sensation-seeking, kinesthetic intelligence, an "eye for detail," attunement to style and appearances, hands-on activities, effortless performance
+- Role: reads external details and events and reacts to them quickly, hunts for a wide range of new sensory experience, and engages physically with the world
+- Most common in ESTPs and ESFPs, and also strong in ISTPs and ISFPs
+- Shows up as a hunger for sensation, bodily intelligence, a sharp eye for detail, a feel for style and appearance, hands-on activity, and performance that looks effortless
 - Famous ESPs: George W. Bush, LeBron James, Beyoncé, Shakira, Donald Trump
 
-The difference between Si and Se:
+How Se differs from Si:
 
-- Se attends to environmental details. Si is concerned with recalling or reconciling past details with those of the present.
-- Se gathers concrete information broadly, seeking diversity and novelty. Si perceives more narrowly, drawing on past experiences.
-- Se types are also more concerned with physical appearances.
+- Se attends to details in the surroundings. Si recalls past details and reconciles them with the present.
+- Se gathers concrete information widely and wants variety and novelty. Si takes in less and draws on past experience.
+- Se types also care more about physical appearance.
 
 ### Introverted thinking (Ti)
 
 Pages 92 to 97.
 
-- Primary role: to examine practical or conceptual issues using deep, implicit, and nuanced logic; to develop and refine subjective methods, strategies, or concepts
-- Most prominent in: INTPs and ISTPs; also prominent in ENTPs and ESTPs
-- Associated with: deep skepticism, tacit logic, self-regulation and self-optimization, personal independence and autonomy
+- Role: examines practical or conceptual problems with deep, implicit and finely graded logic, and builds and refines personal methods, strategies and concepts
+- Most common in INTPs and ISTPs, and also strong in ENTPs and ESTPs
+- Shows up as deep skepticism, tacit logic, self-regulation and self-improvement, and a strong need for independence and autonomy
 - Famous ITPs: Einstein, Bill Gates, Henri Bergson, Robert Pirsig, Robert Nozick, Ken Wilber, Lance Armstrong
 
 ### Extraverted thinking (Te)
 
 Pages 98 to 102. Practical Typing covers the pair in [Thinking functions, Te and Ti](https://practicaltyping.com/thinking-functions-te-ti/).
 
-- Primary roles: to succinctly express logic-based judgments; to understand or render systems and operations more rational, efficient, and effective
-- Most prominent in: ENTJs and ESTJs; also prominent in INTJs and ISTJs
-- Associated with: explicit logic, precise and pointed expressions, bureaucracy and "red tape," quantitative methods ("Show me the numbers!")
+- Role: states logical judgments concisely, and makes systems and operations more rational, efficient and effective
+- Most common in ENTJs and ESTJs, and also strong in INTJs and ISTJs
+- Shows up as explicit logic, precise and pointed speech, bureaucracy and red tape, and a taste for quantitative methods ("Show me the numbers!", pp. 98 to 102)
 - Famous ETJs: Henry Ford, Bill O'Reilly
 
-The difference between Ti and Te:
+How Te differs from Ti:
 
-- Ti users introvert and organize their thoughts and judgments.
-- Te users extrovert thinking and make decisions based on facts.
+- Ti users turn their thinking inward and organize their own thoughts and judgments.
+- Te users turn thinking outward and decide on facts.
 
 ### Introverted feeling (Fi)
 
 Pages 102 to 108.
 
-- Primary roles: to explore and refine personal tastes, feelings, and values, contributing to a strong sense of personal uniqueness; to maintain inner emotional and moral order; to emotionally invest in a limited number of persons, animals, or interests
-- Most prominent in: INFPs and ISFPs; also prominent in ENFPs and ESFPs
-- Associated with: fighting for "underdogs," emotional restraint, nuanced morals and values, nurture and caregiving, sensitivity to perceived inequities and injustice
+- Role: explores and refines personal tastes, feelings and values, which builds a strong sense of individuality; keeps inner emotional and moral order; invests emotionally in a small number of people, animals or interests
+- Most common in INFPs and ISFPs, and also strong in ENFPs and ESFPs
+- Shows up as support for underdogs, emotional restraint, nuanced morals and values, nurturing and caregiving, and sensitivity to perceived unfairness and injustice
 - Famous IFPs: Henry David Thoreau, Jean-Jacques Rousseau, Kierkegaard, Camus, Virginia Woolf, Van Gogh, Luke Skywalker, J.D. Salinger, Jane Austen, Bob Dylan
 
 ### Extraverted feeling (Fe)
 
 Pages 109 to 114. Practical Typing covers the pair in [Feeling functions, Fe and Fi](https://practicaltyping.com/feeling-functions-fe-fi/).
 
-- Primary roles: to survey a breadth of human emotions, values, and morals, striving toward interpersonal or group consensus; to directly express feelings and judgments; to instruct or motivate others toward growth and excellence
-- Most prominent in: ENFJs and ESFJs; also prominent in INFJs and ISFJs
-- Associated with: an interpersonal focus, emotional expressiveness, communication skills, talkativeness, attunement to social norms, advice-giving
+- Role: surveys a wide range of human emotions, values and morals while working toward consensus between people or in a group; voices feelings and judgments directly; coaches and motivates others toward growth and excellence
+- Most common in ENFJs and ESFJs, and also strong in INFJs and ISFJs
+- Shows up as a focus on people, emotional expressiveness, communication skill, talkativeness, attunement to social norms and a habit of giving advice
 - Famous EFJs: Dr. Martin Luther King, Dr. Phil McGraw, Frasier Crane (television)
 
-The difference between Fi and Fe:
+How Fe differs from Fi:
 
-- Fi users focus on their own personal inner feelings.
-- Fe users focus on feelings in the external world.
+- Fi users focus on their own inner feelings.
+- Fe users focus on feelings in the outside world.
 
 ## Confirming a type
 
