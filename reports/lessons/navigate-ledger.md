@@ -199,7 +199,7 @@ The convergence page promised that every arc feeds four verticals. Here is what 
 
 <!-- confirm: the shipped and dropped list per vertical -->
 
-## What i would change
+## Changes for the next ledger
 
 - **One experiment per thesis, with an owner and a date.** Sixty unowned experiments are a wish list.
 - **A named client conversation before six experiments.** If nobody has asked, the thesis waits.
