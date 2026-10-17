@@ -197,7 +197,7 @@ The tags did three jobs, and none of them needed one tag per deploy: a live mark
 
 ![Three release designs, and the stretch where retention never ran {#fig-designs}](assets/deploy-pipeline-fig7-designs.svg 'Release triggers from 2026-08-10 to 2026-09-28. The amber box is the stretch where the retention job existed and deleted nothing.')
 
-As of 2026-10-17 the repo lists three weekly releases and 39 older `prod-` ones. The weekly Release is published on Sundays at 03:17 UTC (2026-09-27, 10-04 and 10-11). The repo's pipeline doc says Monday, and that doc is being corrected. A deploy posts the commit, the merged PR, a run link, and the drift line, and mints nothing.
+As of 2026-10-17 the repo lists three weekly releases and 39 older `prod-` ones. The weekly Release is published on Sundays at 03:17 UTC (2026-09-27, 10-04 and 10-11). The repo's pipeline doc says Monday, and that doc has since been corrected: in Cloudflare's weekday numbering the cron `17 3 * * 1` fires on Sundays (#1139). A deploy posts the commit, the merged PR, a run link, and the drift line, and mints nothing.
 
 <!-- needs Han: Releases-tab counts for the same window before and after the 2026-08-12 gate. The releases were deleted by hand and later pruned, so the vault cannot reconstruct them. If you have the Discord notices, count those. -->
 
@@ -218,13 +218,15 @@ Notifications stay quiet when things are fine. The drift line is valuable becaus
 
 While re-checking this page's numbers we ran the command from the first section on the latest runs. The second-slowest step is `setup-node`, at 86 seconds. That step was 50 seconds on 2026-08-27, and #758 removed the pnpm cache option on 2026-08-28 because restoring a 400MB tarball over the network is slower than reading the disk the runner already has. A comment in the workflow still says so. Figure 8 plots the step for the latest successful Deploy run of each day.
 
-![The setup-node step per day, 2026-08-27 to 2026-10-17 {#fig-setup-node}](assets/deploy-pipeline-fig8-setup-node.svg 'The setup-node step, in seconds, for the latest successful Deploy run of each day. It sat at 0 or 1 second from 2026-08-28 to 2026-09-07 and has run 18 to 117 seconds since 2026-09-09.')
+![The setup-node step per day, 2026-08-27 to 2026-10-17 {#fig-setup-node}](assets/deploy-pipeline-fig8-setup-node.svg 'The setup-node step, in seconds, for the latest successful Deploy run of each day. It sat at 0 or 1 second from 2026-08-28 to 2026-09-07 and ran 18 to 117 seconds from 2026-09-09 to 2026-10-17.')
 
 The step sat at 0 or 1 second on every sampled day from 2026-08-28 through 2026-09-07. On 2026-09-09 it read 33 seconds. It stayed between 18 and 37 seconds through 2026-09-30, and from 2026-10-01 it has run between 68 and 117 seconds. On the 2026-10-17 run it took 86 of the job's 311 seconds.
 
-The log of that run names what the step is doing. `package-manager-cache` is true, the step reports "This project is configured to use pnpm because package.json has a packageManager field", and a pnpm cache restore of 617MB follows. A change on 2026-09-07 (#875) added that `packageManager` field so CI would run pnpm 11 and honor our 14-day dependency-age rule. The most likely story is that `setup-node` turns its package-manager cache on by default when it sees the field, so a supply-chain fix re-enabled the cache that #758 had removed. That is a hypothesis. We have not reverted anything to confirm it, and nothing explains why the step jumped again on 2026-10-01. A fix is in progress.
+The log of that run names what the step is doing. `package-manager-cache` is true, the step reports "This project is configured to use pnpm because package.json has a packageManager field", and a pnpm cache restore follows: 617MB on that run. The cause is proven. A change on 2026-09-07 (#875) added that `packageManager` field so CI would run pnpm 11 and honor our 14-day dependency-age rule. With the field present, `setup-node@v5` turns its package-manager cache on by default, so every run downloaded a cloud-cache tarball for a store the runner already holds. The tarball was 177MB on 2026-09-10 and had grown to 617MB by 2026-10-01, which is the second jump in Fig. 8. A supply-chain fix had re-enabled the cache that #758 removed.
 
-Our own fix stayed undone for five weeks while the runs stayed green.
+The fix is one input, `package-manager-cache: false` on the `setup-node` step (#1139, merged 2026-10-17). We proved it on the same runner with the same steps, one line apart: 66 seconds with the default, 0 seconds with the cache off. The last Deploy run before the fix showed 57 seconds.
+
+Our own fix stayed undone for five weeks while the runs stayed green, until #1139 on 2026-10-17.
 
 ## Limits
 
@@ -233,7 +235,7 @@ Our own fix stayed undone for five weeks while the runs stayed green.
 - **The gate was not tried end to end.** It was checked against a real merge commit and against an existing release's commit, with a live negative control. A full production dispatch to test it was not worth a real deploy of about twenty Workers (#448, #544).
 - **The deploy counts mix workflows.** Figure 5 counts every job that started on the production environment. It includes the memo publish and probably dry-run dispatches, and it starts on 2026-07-22 because that is the earliest record the API returned.
 - **The ordering rules are one stack.** They come from Cloudflare Workers, GitHub Actions, and a self-hosted runner on a single Mac. We make no claim about any other.
-- **The setup-node cause is a hypothesis.** Fig. 8 shows the cost. The #875 link is inferred from the log text and the dates.
+- **Fig. 8 stops before the fix.** It plots 2026-08-27 to 2026-10-17, so it shows the cost and not the 0-second result of #1139, which was measured in a controlled probe on the same runner.
 
 ## Receipts
 
