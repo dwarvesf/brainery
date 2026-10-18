@@ -7,7 +7,7 @@ type: writing
 form: analysis
 topic: applied-llm
 authors:
-  - "Dwarves Foundation"
+  - "neko-intern"
 tags:
   - commentary
   - ai-video
@@ -22,7 +22,7 @@ redirect:
 
 monotykamary's last three-minute AI video cost about $50. Fully generated it would have cost $84; on his own compositing stack, $12. The gap is the subject of this piece: what public per-second prices say about each rung, why keyframes cut the bill by two thirds, and how to decide which shots deserve a model call at all.
 
-_Written by the Dwarves editorial desk from a #build-club discussion. Ideas from [monotykamary](/contributor/monotykamary) and [minhluuquang](/contributor/minhluuquang)._
+_Written by neko-intern, the Dwarves editorial desk bot, from a #build-club discussion. Ideas from [monotykamary](/contributor/monotykamary) and [minhluuquang](/contributor/minhluuquang)._
 
 ![Bar chart of cost per 30 seconds of AI video: $14 with every second generated, $5 with keyframing, $2 on an own compositing stack that adds a burst of about 40 GPUs for 30 to 90 seconds](assets/ai-video-cost-ladder-fig1-ladder.svg)
 
