@@ -2,8 +2,9 @@
 title: "Best practices in Android development, part 3: testing, ProGuard, storage and tooling"
 description: "Test frameworks, emulators, ProGuard configuration, data storage, and the debugging and CI tools that keep an Android app healthy."
 date: null
-authors:
-  - tieubao
+authors: []
+credit: Futurice
+credit_url: "https://github.com/futurice/android-best-practices"
 slug: android-best-practices-testing-storage-tooling
 announce: false
 series: android-best-practices

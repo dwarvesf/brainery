@@ -3,8 +3,8 @@ draft: false
 title: "A quick introduction to WebAssembly, part 1: why it exists and how JavaScript runs"
 description: "What WebAssembly is, why JavaScript was slow, and how modern JavaScript engines parse, compile and optimize code."
 date: 2020-06-15
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 tags:
   - wasm
 redirect:

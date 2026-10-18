@@ -2,8 +2,9 @@
 title: "Best practices in iOS development, part 3: coding style, security, diagnostics and analytics"
 description: "Naming and code structure, secure storage and networking, compiler warnings, the static analyzer, debugging, profiling, analytics and crash logs."
 date: null
-authors:
-  - tieubao
+authors: []
+credit: Futurice
+credit_url: "https://github.com/futurice/ios-good-practices"
 slug: ios-best-practices-style-security-diagnostics
 announce: false
 series: ios-best-practices

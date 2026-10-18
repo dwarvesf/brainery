@@ -4,8 +4,9 @@ description: "Android SDK, Gradle configuration, project structure, IDE choice a
 date: null
 redirect:
   - /7IUNoA
-authors:
-  - tieubao
+authors: []
+credit: Futurice
+credit_url: "https://github.com/futurice/android-best-practices"
 series: android-best-practices
 series_part: 1
 series_total: 3

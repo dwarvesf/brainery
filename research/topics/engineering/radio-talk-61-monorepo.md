@@ -3,8 +3,8 @@ draft: false
 title: "Radio talk 61: adopting a monorepo with Turborepo and Nx"
 description: Learn how adopting monorepos and tools like Turborepo and Nx can simplify code management, reduce duplication, and boost developer productivity for faster, cost-effective software development.
 date: 2023-03-27
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 tags:
   - engineering
   - web

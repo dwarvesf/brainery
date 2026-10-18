@@ -3,6 +3,7 @@ draft: false
 title: "Harness engineering notes from a team running agents all day"
 description: "Nine field notes on running coding agents in production at Dwarves: the harness around the model, how we check and guard it, what we put it to work on, and what it does to the pages we publish."
 date: 2026-10-18
+featured: true
 kind: reference
 authors:
   - tieubao
