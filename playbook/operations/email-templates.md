@@ -4,6 +4,7 @@ description: Copy-ready email templates Dwarves Foundation uses for candidates, 
 slug: email-template-library
 kind: playbook
 date: 2020-01-01
+announce: false
 authors:
   - nikkingtr
   - huynguyenh
