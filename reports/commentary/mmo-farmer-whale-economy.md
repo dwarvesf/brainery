@@ -36,13 +36,13 @@ On 8 October bievh showed the last offline build of 9T and said the online versi
 
 monotykamary's rule for the market side: "if you want proper MRR in a game, you need to make an exchangeable marketplace". bievh: "i have it sir". Players farm items, sell them, and spend the proceeds on levelling.
 
-tieubao added where the spend peaks: "tien` thuong spend nhieu nhat la luc dua rank cho guild" (money is spent most when guilds race for rank), so let players found sects; PvP makes money too. bievh: already in the build.
+tieubao added where the spend peaks: "tien` thuong spend nhieu nhat la luc dua rank cho guild" (money is spent most when guilds race for rank), so let players found sects; PvP, he thinks, makes money too. bievh: already in the build.
 
 ## The Võ Lâm audience
 
 tieubao then suggested retheming into another game, "1 market ngoai tu tien nua" (a market outside cultivation). bievh: "yep đúng r a, cộng đồng vltk còn đông và giàu lắm" (the Võ Lâm community is still large and rich). tieubao pointed at short dramas, "trung sinh cac kieu" (the rebirth kind). bievh: "miễn nó farm quái đấm nhau đx" / "là có ng chơi" (as long as they can farm monsters and fight, people will play). The 20-account explanation quoted above followed.
 
-The record behind that community: VNG launched Võ Lâm Truyền Kỳ in 2005, and VietnamNet records [120,000 accounts in the first 48 hours of closed beta and 200,000 concurrent players by early July 2006](https://vietnamnet.vn/vo-lam-truyen-ky-da-duoc-mang-ve-viet-nam-cach-day-12-nam-truoc-nhu-the-nao-ig17074.html).
+The record behind that community: VNG launched Võ Lâm Truyền Kỳ in 2005, and VietnamNet records [120,000 accounts in the first 48 hours of closed-beta registration and 200,000 concurrent players by early July 2006](https://vietnamnet.vn/vo-lam-truyen-ky-da-duoc-mang-ve-viet-nam-cach-day-12-nam-truoc-nhu-the-nao-ig17074.html).
 
 bievh had a live example, the Võ Lâm-style game he lurks in. On 8 October it was in beta with about 2,000 users, and "tụi nó nạp kinh luôn" (they were paying heavily). Some mobile players had complained the newbie gift did not arrive, which he read as a bug. By 12 October he reported two Zalo groups of 1,000 members each and a community price list for items. About 500 players were online daily.
 

@@ -49,7 +49,7 @@ Take a ten-minute match with four players. Each player gets about two and a half
 
 On the morning of 13 October tieubao proposed story mode first: win solo users, add PvP later. Matchmaking against bots, wrapped as story mode, would double as the tutorial. tuanddd: that is the campaign, and it needs a huge amount of art.
 
-Four minutes later came the T/N messages. tieubao's first fix for downtime was an option after death, ghost mode. tuanddd replied that a ghost already exists: "mà nó bay vòng vòng v thôi" (it only floats around). tieubao kept going: the ghost sees the shot path, chats with teammates, maybe influences aim or helps defend. At that point he wrote "chac add backlog roi intro tu tu :))" (probably add to the backlog and introduce them slowly). The list grew for another ten minutes.
+Four minutes after the story-mode proposal came the T/N messages. tieubao's first fix for downtime was an option after death, ghost mode. tuanddd replied that a ghost already exists: "mà nó bay vòng vòng v thôi" (it only floats around). tieubao kept going: the ghost sees the shot path, chats with "bo`" (a buddy), maybe influences aim or helps defend. At that point he wrote "chac add backlog roi intro tu tu :))" (probably add to the backlog and introduce them slowly). The list grew for another ten minutes.
 
 | Option                        | Source                                                                                                                                                                          |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

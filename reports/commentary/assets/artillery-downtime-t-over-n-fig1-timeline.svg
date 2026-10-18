@@ -34,7 +34,7 @@
   <rect x="390" y="106" width="30" height="16" fill="#c3d7ea"/>
   <rect x="510" y="106" width="30" height="16" fill="#c3d7ea"/>
   <rect x="630" y="106" width="30" height="16" fill="#c3d7ea"/>
-  <!-- Player 3: dies at 5:30 -->
+  <!-- Player 3: dies at 6:00 -->
   <text x="40" y="158" fill="#e8f1fa" font-size="11">P3</text>
   <rect x="120" y="146" width="600" height="16" fill="#21466a" stroke="#68839d"/>
   <rect x="180" y="146" width="30" height="16" fill="#c3d7ea"/>
