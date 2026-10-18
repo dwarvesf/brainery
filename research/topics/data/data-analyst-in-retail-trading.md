@@ -13,6 +13,8 @@ redirect:
   - /AGqYPg
 ---
 
+_Snapshot from 2022. Some tools and numbers have changed._
+
 > I am Bach Phuong and I work at Dwarves Foundation as a Data Analyst, helping partner companies realize insights and understand their business better.
 
 ## What does a Data Analyst do?

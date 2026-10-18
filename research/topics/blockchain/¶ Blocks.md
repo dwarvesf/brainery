@@ -14,6 +14,8 @@ redirect:
   - /4hnW3g
 ---
 
+_Snapshot from 2022. Some tools and numbers have changed._
+
 ## Blocks
 
 ![](assets/blocks_lzrylgx.webp)
@@ -27,6 +29,8 @@ A block is thus a permanent store of records that, once written, cannot be alter
 ### 2. Block data
 
 #### 2.1 Standard data
+
+Update (2026): this list describes Ethereum's proof of work era. Since The Merge in September 2022 there are no miners, mining rewards, difficulty or uncle blocks. A validator proposes each block, and [the block fields](https://ethereum.org/en/developers/docs/blocks/) are now a slot, a proposer index, a parent root, a state root and a body with the execution payload.
 
 - Block height – The block number and length of the blockchain (in blocks) on creation of the current block.
 - Timestamp – The time at which a miner mined the block.
@@ -65,11 +69,13 @@ Block explorers provide information about uncle blocks like:
 
 Block time refers to the time it takes to mine a new block. In Ethereum, the average block time is between 12 to 14 seconds and is evaluated after each block. The expected block time is set as a constant at the protocol level and is used to protect the network's security when the miners add more computational power. The average block time gets compared with the expected block time, and if the average block time is higher, then the difficulty is decreased in the block header. If the average block time is smaller, then the difficulty in the block header will be increased.
 
+Update (2026): on proof of stake, time is divided into [12-second slots](https://ethereum.org/en/developers/docs/blocks/) and one validator is selected per slot to propose a block, so the block time is a fixed 12 seconds (a slot goes empty if the validator is offline).
+
 A new block can be rejected, please be careful with the new block, You need to wait for maximum node to verify this block before use.
 
 ### 4. block size
 
-A final important note is that blocks themselves are bounded in size. Each block has a target size of 15 million gas but the size of blocks will increase or decrease in accordance with network demands, up until the block limit of 30 million gas (2x target block size). The total amount of gas extended by all transactions in the block must be less than the block gas limit. This is important because it ensures that blocks can’t be arbitrarily large. If blocks could be arbitrarily large, then less performant full nodes would stop being able to keep up with the network due to space and speed requirements.
+A final important note is that blocks themselves are bounded in size. Each block has a target size of 15 million gas but the size of blocks will increase or decrease in accordance with network demands, up until the block limit of 30 million gas (2x target block size). Update (2026): [ethereum.org now gives](https://ethereum.org/en/developers/docs/blocks/) a target of 30 million gas and a maximum of 60 million gas, still 2x the target. The total amount of gas extended by all transactions in the block must be less than the block gas limit. This is important because it ensures that blocks can’t be arbitrarily large. If blocks could be arbitrarily large, then less performant full nodes would stop being able to keep up with the network due to space and speed requirements.
 
 ### 5. mining's relationship to blocks
 

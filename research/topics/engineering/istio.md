@@ -11,6 +11,8 @@ redirect:
   - /PtbUfg
 ---
 
+_Snapshot from 2019. Some tools and numbers have changed._
+
 Istio is an implementation of the Service mesh architecture, which is a network of microservices that interactive with each other to form an application. Besides Istio, there are several concept applying service mesh architecture such as Linkerd, Consul.
 
 ## Service mesh vs API gateway
@@ -88,6 +90,8 @@ Our system's network now becomes more under controlled:
 ![](assets/istio_5ad7aeee9b729f36ab6d6a0cb8c33acc_md5.webp)
 
 ## Istio architecture
+
+Update (2026): the component list below describes Istio as of 2019. Since [Istio 1.5](https://istio.io/latest/news/releases/1.5.x/announcing-1.5/) the control plane is consolidated into a single binary, Istiod, and Mixer is gone. The current [architecture docs](https://istio.io/latest/docs/ops/deployment/architecture/) name only istiod, which "provides service discovery, configuration and certificate management". Istio also now offers [ambient mode](https://istio.io/latest/docs/ambient/overview/), a sidecar-less data plane built on a per-node ztunnel and optional waypoint proxies, which [reached General Availability in Istio 1.24](https://istio.io/latest/blog/2024/ambient-reaches-ga/). The sidecar model described in this note is still supported as the other data plane mode.
 
 ### Envoy
 

@@ -51,17 +51,19 @@ Before we can start using Gomock for testing in Go, we need to ensure that it is
 Gomock is a Go module and can be installed using the standard **`go get`** command. Open your terminal or command prompt and execute the following command:
 
 ```go
-go get github.com/golang/mock/gomock
+go get go.uber.org/mock/gomock
 ```
 
-This command downloads the Gomock package and its dependencies from the official GitHub repository and installs it in your Go workspace.
+This command downloads the Gomock package and its dependencies into your Go module.
+
+Update (2026): the original `github.com/golang/mock` repository was [archived in June 2023](https://github.com/golang/mock) and its README points to a maintained fork. Gomock now lives at [`go.uber.org/mock`](https://pkg.go.dev/go.uber.org/mock/gomock), so the commands and imports in this article use that path instead of `github.com/golang/mock`.
 
 ### Step 2: install the mockgen tool
 
 Gomock relies on the **`mockgen`** tool to generate mock implementations from interfaces. To install **`mockgen`**, execute the following command:
 
 ```go
-go install github.com/golang/mock/mockgen@latest
+go install go.uber.org/mock/mockgen@latest
 ```
 
 This command fetches the latest version of **`mockgen`** and installs it in your Go bin directory.
@@ -74,7 +76,7 @@ To use Gomock in your project, you need to import the necessary packages. In you
 import (
 	"testing"
 
-	"github.com/golang/mock/gomock"
+	"go.uber.org/mock/gomock"
 )
 ```
 
@@ -110,7 +112,7 @@ With Gomock installed and mock implementations generated, you are now ready to s
 import (
 	"testing"
 
-	"github.com/golang/mock/gomock"
+	"go.uber.org/mock/gomock"
 	"github.com/your-module-path/mocks"
 )
 ```
@@ -135,7 +137,7 @@ First, let’s talk about the source code. This is the directory tree graph for 
     └── user.go
 ```
 
-Note: _You can find the code in the Github_ [HERE](https://github.com/datphamcode295/gomock_testing_example) !!!
+Note: _The example code was on GitHub as datphamcode295/gomock_testing_example. The repository is gone._
 
 In the source, `models` package contains declare of all models in the system and `store` package includes functions which interact with the database. In the `controller` package we import above packages to use:
 
@@ -194,7 +196,7 @@ testAuthController := &controller.Auth{UserRepository: mockUserRepository}
 defer mockCtrl.Finish()
 ```
 
-The `defer mockCtrl.Finish()` method is deferred to ensure that it is called at the end of the test execution. It tells the **`gomock.Controller`** that all expected calls on the mock objects have been specified, and any unfulfilled expectations should result in test failures. It is important to call **`Finish`** to clean up the resources held by the controller after the test finishes.
+The `defer mockCtrl.Finish()` method is deferred to ensure that it is called at the end of the test execution. It tells the **`gomock.Controller`** that all expected calls on the mock objects have been specified, and any unfulfilled expectations should result in test failures. It is important to call **`Finish`** to clean up the resources held by the controller after the test finishes. Update (2026): when you pass a `*testing.T` into `NewController`, [you no longer need to call `ctrl.Finish()`](https://pkg.go.dev/go.uber.org/mock/gomock), because it is registered as a test cleanup.
 
 The next step is define the behavior of the Mock Object before writing the tests for the UserClient’s `GetUser()` function. Although GoMock and `mockgen` are smart, they can’t analyze your code to generate responses. This is why you should analyze your code as part of your test. Do this using the `EXPECT()` function:
 
@@ -212,7 +214,7 @@ The last two functions, `Return(tt.want, tt.wantRepositoryError)` and `Times(1)`
 
 Then we can make the struct input for testing and test the output.
 
-Note: You can find full test file [here](https://github.com/datphamcode295/gomock_testing_example/blob/main/controller_test.go)
+Note: The full test file was in datphamcode295/gomock_testing_example, which is gone.
 
 **Verify test**
 
@@ -226,7 +228,7 @@ ok      example.com/testing     0.001s
 
 This is a simple example of how to use GoMock in your tests. With Gomock we can implement testing without needing the real repository. Mock object could be use to replace the real one isolating dependencies and making the testing process easier.
 
-Note: The official **[GoMock README](https://github.com/golang/mock)** is a great place to get started if you want to learn more.
+Note: The official **[GoMock README](https://github.com/golang/mock)** is a great place to get started if you want to learn more. That repository is now archived; use the maintained [`go.uber.org/mock`](https://pkg.go.dev/go.uber.org/mock/gomock) docs for current usage.
 
 ## Conclusion
 
@@ -237,4 +239,4 @@ In conclusion, this article explores Gomock, a widely used Go framework designed
 - [https://speedscale.com/blog/getting-started-gomock/](https://speedscale.com/blog/getting-started-gomock/)
 - [https://betterprogramming.pub/a-gomock-quick-start-guide-71bee4b3a6f1](https://betterprogramming.pub/a-gomock-quick-start-guide-71bee4b3a6f1)
 
-You can find full source code in the repo: [gomock_testing_example](https://github.com/datphamcode295/gomock_testing_example)
+The full source code was in the repo datphamcode295/gomock_testing_example, which is gone.

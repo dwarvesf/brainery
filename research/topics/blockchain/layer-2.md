@@ -60,11 +60,12 @@ High demand -> Need to scale without sacrificing decentralization and security =
 - Have 2 approaches (different on posting transaction data to L1):
   - Optimistic
   - ZK Rollups aka Zero-knowledge Rollups
+- Update (2026): since the Dencun upgrade in [March 2024](https://ethereum.org/en/roadmap/danksharding/), rollups can post their data in blobs, "a cheaper way" to post data to Ethereum than the older calldata. ethereum.org now calls [layer 2 rollups the primary scaling technique](https://ethereum.org/en/developers/docs/scaling/).
 
 ## Example
 
 - Arbitrum One
-- Optimism
+- Optimism (listed on [ethereum.org](https://ethereum.org/en/layer-2/) as OP Mainnet)
 - Boba Network
 
 ## References

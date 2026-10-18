@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Story map for LLMs
+title: A story map for building with LLMs
 description: A comprehensive guide outlining the journey for engineers developing applications on top of Large Language Models (LLMs), covering key stages from understanding AI basics to fine-tuning models.
 date: 2023-08-09
 authors:
@@ -13,6 +13,8 @@ tags:
 redirect:
   - /irBppw
 ---
+
+_Snapshot from 2023. Some tools and numbers have changed._
 
 ## Story Map: Journey for Engineers Developing Applications on top of Large Language Models (LLMs)
 
@@ -43,7 +45,7 @@ Most startups using LLMs like ChatGPT in their applications ultimately build on 
 
 #### a. Building chatbots with LLMs
 
-Most often, the first step to working with LLMs is by creating a chatbot to enable conversations with it. This requires exploring various APIs for machine learning-based chatbot development and familiarizing yourself with chatbot templates like [OpenAssistant](https://open-assistant.io/) or creating your own. Building chatbots with LLMs will enable to create more advanced and interactive conversational agents that can handle complex tasks and provide better user experiences.
+Most often, the first step to working with LLMs is by creating a chatbot to enable conversations with it. This requires exploring various APIs for machine learning-based chatbot development and familiarizing yourself with chatbot templates like [OpenAssistant](https://open-assistant.io/) or creating your own. Update (2026): the OpenAssistant project has since ended; its README says ["OpenAssistant is completed, and the project is now finished"](https://github.com/LAION-AI/Open-Assistant), so treat it as a reference dataset, not a live template. Building chatbots with LLMs will enable to create more advanced and interactive conversational agents that can handle complex tasks and provide better user experiences.
 
 #### b. Building personal assistants
 
@@ -145,7 +147,6 @@ The general idea of this story map is to help engineers develop a strong foundat
 - https://www.marktechpost.com/2023/04/02/meet-vicuna-an-open-source-chatbot-that-achieves-90-chatgpt-quality-and-is-based-on-llama-13b/
 - https://www.width.ai/post/gpt-j-vs-gpt-3
 - https://paperswithcode.com/paper/hugginggpt-solving-ai-tasks-with-chatgpt-and/review/
-- https://docs.argilla.io/en/latest/guides/llms/conceptual_guides/rlhf.html
 - https://blog.apify.com/what-is-data-ingestion-for-large-language-models/
 - https://www.oasis-open.org/2023/06/12/the-importance-of-llm-in-developing-disinformation-data-standards/
 - https://wandb.ai/wandb_gen/llm-data-processing/reports/Processing-Data-for-Large-Language-Models--VmlldzozMDg4MTM2

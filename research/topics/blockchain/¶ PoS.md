@@ -57,6 +57,8 @@ To effectively control the network and approve fraudulent transactions, a node w
 
 In 2017, Ethereum (ETH) started its full transition from PoW to PoS system and by 2022 it has successfully deployed on Ropsten testnet.
 
+Update (2026): Ethereum completed the switch at The Merge on [September 15, 2022](https://ethereum.org/en/roadmap/merge/), which retired proof of work and cut energy use by about 99.95%. Validators now deposit [32 ETH](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/) to take part. Ropsten, Rinkeby and Goerli are [deprecated testnets](https://ethereum.org/en/developers/docs/networks/); the maintained public testnets are Sepolia and Hoodi.
+
 ## Advantages of PoS:
 
 - Fast transaction processing.

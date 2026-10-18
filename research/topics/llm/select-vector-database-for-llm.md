@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Select vector database for LLM
+title: Choosing a vector database for LLM applications
 description: An overview of vector databases and their application in LLM systems. This article covers the history and core concepts of vector databases, their use cases, implementation considerations with LLMs, and a comparison of popular vector database options.
 date: 2023-05-18
 authors:
@@ -13,6 +13,8 @@ tags:
 redirect:
   - /0pfSfA
 ---
+
+_Snapshot from 2023. Some tools and numbers have changed._
 
 During our research on applying LLM to real-world applications, we have observed the widespread usage and increasing popularity of Vector databases in various fields. Therefore, we have delved into understanding and summarizing what we have learned in this article.
 
@@ -92,6 +94,15 @@ To achieve optimal efficiency, configure the search parameters appropriately. Pa
 | Support for both stream and batch of vector data | y                         | n                                            | y            | y                                      | y                                                                            |        |
 | Binary Vector support                            | y                         | n                                            | y            | y                                      | y                                                                            |        |
 | Multi-language SDK                               | Python, Node.js           | Python, Go, Rust                             | y            | Python, Java, Go                       | Python, Java, Go, C++, Node.js                                               |        |
+
+Update (2026): several cells in this table are out of date.
+
+- **Qdrant:** it now has role-based access. Read-only API keys arrived in v1.7.0 and JWT-based granular access keys arrived in v1.9.0, per the [Qdrant security docs](https://qdrant.tech/documentation/security/).
+- **Weaviate:** RBAC is no longer "coming soon". The [Weaviate RBAC docs](https://docs.weaviate.io/weaviate/configuration/rbac) describe it as a configurable feature. Weaviate also supports multi-tenancy, where ["each tenant's data is isolated on a dedicated shard"](https://docs.weaviate.io/weaviate/concepts/data), so the "Partitions" cell no longer holds.
+- **Pinecone:** the "Pods" index choice is legacy. The [Pinecone docs](https://docs.pinecone.io/guides/indexes/pods/understanding-pod-based-indexes) say "Pod-based indexes are legacy" and point new users to serverless indexes. Namespaces are still supported.
+- **Supabase:** it runs pgvector, which supports HNSW and IVFFlat vector indexes according to the [Supabase docs](https://supabase.com/docs/guides/ai/vector-indexes), not only B-Tree and Hash.
+
+The other cells, including Milvus and Chroma, were not re-checked.
 
 These vector databases offer various features and optimizations to handle large-scale vector data efficiently. The choice of the most suitable vector database depends on factors such as the specific requirements of your language model, the size of the dataset, the expected query throughput, and the available hardware resources. It is recommended to evaluate and benchmark different vector databases to determine which one best fits your specific use case.
 

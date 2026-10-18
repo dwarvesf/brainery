@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Tool-level security for remote MCP servers
+title: Tool-level access control for remote MCP servers
 description: A comprehensive guide to implementing granular access control for Model Context Protocol (MCP) servers, allowing organizations to securely expose tool capabilities based on user roles and permissions while maintaining data privacy.
 date: 2025-03-27
 authors:
@@ -75,6 +75,8 @@ While our previous guide covered securing the MCP connection itself through OAut
 Production MCP servers require **granular permission management** that allows different users or applications to access specific subsets of available tools based on their responsibilities and authorization level. These servers must also implement **data privacy protection** since tools often expose sensitive data that should only be accessible to properly authorized users. Proper **regulatory compliance** becomes essential as many organizations operate under strict data protection regulations like GDPR, HIPAA, or CCPA that mandate precise controls over data access. Finally, the principle of least privilege embodied in **operational security** dictates that users should only have access to the minimum set of tools needed to perform their tasks.
 
 MCP servers often serve as gateways to powerful capabilities, from querying databases and accessing internal knowledge bases to modifying production systems or sending authenticated messages. Without proper access controls, an authenticated but malicious user could potentially access sensitive information or perform unauthorized actions that extend far beyond their intended privileges.
+
+Update (2026): the MCP spec has changed in ways that touch the examples below. The [2026-07-28 changelog](https://modelcontextprotocol.io/specification/latest/changelog) removes protocol-level sessions, so code that reads `request.transport.session.userId` should take the user identity from the validated access token on each request instead. The [current authorization spec](https://modelcontextprotocol.io/specification/latest/basic/authorization) also defines how to signal a permission gap. A server answers a request with insufficient scope using HTTP 403 and a `WWW-Authenticate` header carrying `error="insufficient_scope"` and the needed `scope`, and clients can then run a step-up authorization flow. That gives tool-level permissions a standard wire format. The RBAC design itself still applies.
 
 ## Security architecture for tool-level access control
 
