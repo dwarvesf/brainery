@@ -10,7 +10,7 @@ tags:
   - style-guide
 slug: memo-media-standard
 kind: reference
-draft: true
+draft: false
 ---
 
 This page is the single rule set for images and figures on memo. It applies to every post, whichever door it came through. [Contribute to memo](/contribute-to-memo) summarizes it in chapters 2 and 5, and the contributor skills link here instead of copying it.

@@ -10,7 +10,7 @@ tags:
   - guide
 slug: contribute-to-memo
 kind: playbook
-draft: true
+draft: false
 redirect:
   - /publish-a-memo-step-by-step
   - /handbook/memo/publish-a-memo-step-by-step
@@ -344,11 +344,13 @@ The door has worked once, for the maintainer's own domain. No outside writer has
 
 Every door has a file an agent can read. You paste one sentence and the agent does the setup. A person still approves the steps that need one.
 
-| Your path                            | What to tell your agent                                                                                                                             | The file              |
-| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
-| Guest writer, or fellow with a blog  | `Read https://memo.d.foundation/skill.md and get me onto Dwarves Memo.`                                                                             | `skill.md`, live      |
-| Member with write access             | `Read https://memo.d.foundation/contribute-skill.md and help me publish a post on memo. I have write access to dwarvesf/brainery, use branch mode.` | `contribute-skill.md` |
-| Staff or fellow without write access | `Read https://memo.d.foundation/contribute-skill.md and help me publish a post on memo. I do not have write access, use fork mode.`                 | `contribute-skill.md` |
+| Your path                            | What to tell your agent                                                                                                                                                        | The file              |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- |
+| Guest writer, or fellow with a blog  | `Fetch https://memo.d.foundation/skill.md with curl, read it whole, and get me onto Dwarves Memo.`                                                                             | `skill.md`            |
+| Member with write access             | `Fetch https://memo.d.foundation/contribute-skill.md with curl, read it whole, and help me publish a post on memo. I have write access to dwarvesf/brainery, use branch mode.` | `contribute-skill.md` |
+| Staff or fellow without write access | `Fetch https://memo.d.foundation/contribute-skill.md with curl, read it whole, and help me publish a post on memo. I do not have write access, use fork mode.`                 | `contribute-skill.md` |
+
+Ask for `curl` by name. Some assistants summarise a page they fetch, and a summary drops the exact commands. In a test run, an agent that read a summary took its commit message from the wrong file.
 
 ### What the guest skill does
 
