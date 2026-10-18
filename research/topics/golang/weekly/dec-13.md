@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Go commentary #24: Coming in Go 1.24: testing/synctest experiment for time and concurrency testing"
 short_title: "#24 Go 1.24 testing/synctest experiment for time and concurrency testing"
 description: Go 1.24 testing/synctest experiment for time and concurrency testing
@@ -9,8 +9,6 @@ authors:
 tags:
   - go-weekly
   - golang
-redirect:
-  - /9WflnQ
 ---
 
 ## [Coming in Go 1.24: testing/synctest experiment for time and concurrency testing](https://danp.net/posts/synctest-experiment/)

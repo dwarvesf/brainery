@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Go commentary #3: Generic collections, generics constraints, AI bot"
 short_title: "#3 Generic Collections, Generics Constraints, AI Bot"
 description: "Implementing generic collections in Go: challenges and solutions, with examples of sortable sets and constraints. Updates on Go's generics support and insights on a new AI bot being developed for the Go community. Stay current with Go's evolving ecosystem and best practices for using generics effectively."
@@ -10,8 +10,6 @@ tags:
   - generics
   - go-weekly
   - golang
-redirect:
-  - /pgOP9w
 ---
 
 ## [Writing generic collection types in Go: the missing documentation](https://www.dolthub.com/blog/2024-07-01-golang-generic-collections/#the-solution)

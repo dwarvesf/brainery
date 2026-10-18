@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Go weekly #2: Go 1.23 iterators"
 short_title: "#2 Go 1.23 Iterators"
 description: Exploring the new Go package for iterators - learn what it is, what the controversy is about, and how to use it.
@@ -10,8 +10,6 @@ tags:
   - iterators
   - go-weekly
   - golang
-redirect:
-  - /o06LZQ
 ---
 
 ## [Why People are Angry over Go 1.23 Iterators](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)

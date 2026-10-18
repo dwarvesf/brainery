@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Go commentary #23: Draft release notes for Go 1.24 and weak pointers in Go"
 short_title: "#23 Draft Release Notes for Go 1.24 and weak pointers in Go"
 description: Draft Release Notes for Go 1.24 and the incoming of weak pointers in Go
@@ -9,8 +9,6 @@ authors:
 tags:
   - go-weekly
   - golang
-redirect:
-  - /gFO3lw
 ---
 
 ## [Draft Release Notes Go 1.24](https://tip.golang.org/doc/go1.24)

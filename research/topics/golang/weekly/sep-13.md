@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Go commentary #11: The gopher's LLM revolution - actors, frameworks, and the future of Go"
 short_title: "#11 Actors, Frameworks, and the Future of Go"
 description: "A critical look at Go's evolving role in the LLM ecosystem and the frameworks shaping its future"
@@ -9,8 +9,6 @@ authors:
 tags:
   - go-weekly
   - golang
-redirect:
-  - /iYhe9A
 ---
 
 ## [Go Survey](https://google.qualtrics.com/jfe/form/SV_ei0CDV2K9qQIsp8?s=b)

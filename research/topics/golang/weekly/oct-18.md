@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Go commentary #16: Understand sync.Map"
 short_title: "#16 Understand sync.Map"
 description: Understanding sync.Map and using the right tools for atomic operations in Go.
@@ -9,8 +9,6 @@ authors:
 tags:
   - go-weekly
   - golang
-redirect:
-  - /gdZm3g
 ---
 
 ## [Go sync.Map: The Right Tool for the Right Job](https://victoriametrics.com/blog/go-sync-map/index.html)

@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Go commentary #6: GUI framework, leadership change"
 short_title: "#6 Cogent Core, Russ Cox stepping down"
 description: Introducing Cogent Core, a new GUI framework for Go, and announcing Russ Cox stepping down as Tech Lead of Go after 12 years.
@@ -10,8 +10,6 @@ tags:
   - networking
   - go-weekly
   - golang
-redirect:
-  - /pPTvPw
 ---
 
 ## [Cogent Core: A New GUI Framework for Go](https://www.cogentcore.org/blog/initial-release)

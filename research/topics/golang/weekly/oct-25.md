@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Go commentary #17: Leveraging benchstat projects in Go benchmark and Go Plan9 memo on 450% speeding up calculations"
 short_title: "#17 Leveraging benchstat Projects in Go benchmark and Go Plan9 memo on 450% speeding up calculations"
 description: Understanding benchstat usage in Go benchmark and Go Plan9 on boosting up performance
@@ -9,8 +9,6 @@ authors:
 tags:
   - go-weekly
   - golang
-redirect:
-  - /BIH5Mg
 ---
 
 ## [Leveraging benchstat Projections in Go Benchmark Analysis!](https://www.bwplotka.dev/2024/go-microbenchmarks-benchstat/)
