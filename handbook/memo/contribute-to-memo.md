@@ -360,11 +360,9 @@ Every door has a file an agent can read. You paste one sentence and the agent do
 
 The skill has hard stops. It never merges, never pushes to `main`, never skips the hook with `--no-verify`, never force-pushes, and never writes `[skip ci]` into a pull request body. It puts your GitHub handle in `authors`, never a Discord name, and checks that your slug is free. It reads the taxonomy file for the folder choice, and when two folders fit, it asks you.
 
-<!-- ch6: screenshot pending until contribute-skill.md is deployed -->
+![Terminal transcript of a headless Claude Code session following contribute-skill.md in branch mode: permission check, taxonomy read, hook install, post written, commit, and a stop before git push.](assets/contribute-to-memo-fig8-shot-agent.png)
 
-![](assets/contribute-to-memo-fig8-shot-agent.png)
-
-_Fig. 8: An agent session running `contribute-skill.md` end to end, in a real Terminal window._
+_Fig. 8: An agent session running `contribute-skill.md` in branch mode, stopped before the push. Lines are trimmed from the real transcript._
 
 The skills do not replace a person at the two steps that need one. An editor approves a guest join, and a maintainer clicks "Approve and run" on a first-time fork pull request. Your agent can report that the step is waiting.
 
