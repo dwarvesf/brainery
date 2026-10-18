@@ -3,6 +3,9 @@ title: "From $14 to $2 per 30 seconds: where the money goes in an AI video pipel
 description: "One builder's three price points for 30 seconds of AI video, $14, $5 and $2, and the trade behind them: generate fewer seconds, composite more, and pay the difference in GPU time."
 date: 2026-10-18
 toc: true
+type: writing
+form: analysis
+topic: applied-llm
 authors:
   - monotykamary
   - minhluuquang
@@ -15,7 +18,7 @@ tags:
 slug: ai-video-cost-ladder
 ---
 
-Tom's last three-minute AI video cost about $50. Fully generated it would have cost $84; on his own compositing stack, $12. The gap is the subject of this piece: what public per-second prices say about each rung, why keyframes cut the bill by two thirds, and how to decide which shots deserve a model call at all.
+monotykamary's last three-minute AI video cost about $50. Fully generated it would have cost $84; on his own compositing stack, $12. The gap is the subject of this piece: what public per-second prices say about each rung, why keyframes cut the bill by two thirds, and how to decide which shots deserve a model call at all.
 
 ![Bar chart of cost per 30 seconds of AI video: $14 with every second generated, $5 with keyframing, $2 on an own compositing stack that adds a burst of about 40 GPUs for 30 to 90 seconds](assets/ai-video-cost-ladder-fig1-ladder.svg)
 
@@ -23,7 +26,7 @@ _Fig. 1: Three ways to make the same 30 seconds. The cost drops as work moves fr
 
 ## A question about cost
 
-Tom posted an AI video experiment in #build-club, the Dwarves Discord channel where we post prototypes, and described the stack behind it: an app layer, a feedback-loop layer, and Modal, a serverless GPU platform billed by the second, for rendering and compositing. Minh asked the only question that matters for anyone thinking of building the same thing: cost per video?
+monotykamary posted an AI video experiment in #build-club, the Dwarves Discord channel where we post prototypes, and described the stack behind it: an app layer, a feedback-loop layer, and Modal, a serverless GPU platform billed by the second, for rendering and compositing. minhluuquang asked the only question that matters for anyone thinking of building the same thing: cost per video?
 
 The answer came as a ladder.
 
@@ -49,15 +52,15 @@ Keyframing changes what you ask the model for. Instead of generating 30 continuo
 
 The research side says why this is cheaper. KeyWorld, a 2025 paper on keyframe-first world models, measures that generating only the keyframes [costs roughly K over N of generating all N frames, that over 90 percent of pipeline compute sits in the keyframe generator, and that turning keyframes into a complete video takes under 20 seconds, about 5 percent of runtime](https://arxiv.org/pdf/2509.21027). The interpolator is nearly free. The keyframes are the bill.
 
-Tom's $5 per 30 seconds is consistent with that: a third of the full-generation price for the same duration, because a third of the seconds were generated.
+monotykamary's $5 per 30 seconds is consistent with that: a third of the full-generation price for the same duration, because a third of the seconds were generated.
 
 ## The bottom rung: compositing on a burst
 
 The own-stack rung is where the trade gets explicit. Compositing means building the final frame from layers that were rendered deterministically: a short generated loop extended, a camera move applied in post, text and transitions, upscaling, interpolation between generated fragments. None of that calls a video model. All of it needs compute, and a three-minute composite at 24 frames per second is over 4,000 frames of work.
 
-Modal bills per second of GPU and CPU, which is what makes a fan-out of 40 GPUs for one minute affordable. At current list prices an [L4 is $0.000222 per second and an A100 80GB is $0.000694](https://continuumcode.ai/guides/modal-pricing/), with CPU at $0.0000131 per core-second. Forty L4s for 60 seconds is about $0.53. Forty A100s for the same minute is about $1.67. Two hundred CPU cores for a minute add about $0.16. That is our arithmetic from list prices, not Tom's invoice, but it brackets his $2 per 30 seconds: a one-minute burst across 40 mid-range GPUs costs between fifty cents and two dollars, and it returns a finished composite in the time it takes a single hosted generation to come back.
+Modal bills per second of GPU and CPU, which is what makes a fan-out of 40 GPUs for one minute affordable. At current list prices an [L4 is $0.000222 per second and an A100 80GB is $0.000694](https://continuumcode.ai/guides/modal-pricing/), with CPU at $0.0000131 per core-second. Forty L4s for 60 seconds is about $0.53. Forty A100s for the same minute is about $1.67. Two hundred CPU cores for a minute add about $0.16. That is our arithmetic from list prices, not monotykamary's invoice, but it brackets his $2 per 30 seconds: a one-minute burst across 40 mid-range GPUs costs between fifty cents and two dollars, and it returns a finished composite in the time it takes a single hosted generation to come back.
 
-The thing to notice is what the burst buys besides money. Wall-clock time stays at 30 to 90 seconds, so the feedback loop that would have been a regeneration becomes a re-render. Tom's stack puts that loop in the app's UI layer rather than inside the prompt cycle. Fixing a transition no longer means paying for 30 seconds of new video.
+The thing to notice is what the burst buys besides money. Wall-clock time stays at 30 to 90 seconds, so the feedback loop that would have been a regeneration becomes a re-render. monotykamary's stack puts that loop in the app's UI layer rather than inside the prompt cycle. Fixing a transition no longer means paying for 30 seconds of new video.
 
 ## Deciding which shots get generated
 
