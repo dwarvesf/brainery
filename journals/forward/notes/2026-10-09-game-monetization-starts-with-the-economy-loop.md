@@ -4,7 +4,7 @@ description: 'A small game-build thread turned into a useful checklist for makin
 date: 2026-10-09
 authors:
   - bievh
-  - baddeed
+  - tieubao
   - monotykamary
   - datnguyennnx
 tags:
