@@ -11,7 +11,7 @@ tags:
 redirect: []
 ---
 
-## To turn on Gmail Canned Response (Template)
+## To turn on Gmail Canned response (template)
 
 - Login to your Gmail account
 - Access to Settings -> Settings -> Advanced tab

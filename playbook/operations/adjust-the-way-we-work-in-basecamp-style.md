@@ -75,7 +75,7 @@ We use this for time-reserved activities.
 - Webinar/ Topic Discussion
 - Sprint planning/ Retrospective
 
-#### Link it with Google Calendar/ Apple Calendar
+#### Link it with Google Calendar/ apple Calendar
 
 Link Basecamp Schedule with Google/Apple Calendar helps us track the meeting easier from a broader view, combining our personal schedules & team schedules to make sure it won't get overlapped.
 

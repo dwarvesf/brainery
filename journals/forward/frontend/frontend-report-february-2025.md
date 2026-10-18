@@ -1,6 +1,6 @@
 ---
 draft: true
-title: "Frontend report February 2025 (archived)"
+title: "Frontend report february 2025 (archived)"
 short_title: February 2025
 description: "Our February 2025 report covers what's new in frontend development - from React's move away from Create React App to Next.js improvements, browser compatibility updates, and cool new tools like React Scan. Get practical tips for better auth, faster websites, and making your sites work for everyone."
 date: 2025-02-28

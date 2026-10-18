@@ -48,7 +48,7 @@ Phoenix LiveView 1.1 introduces function components for portals, transitions fro
 
 Teams spent more time on performance, looking at bundle sizes and loading speeds.
 
-### [How Polymarket.com reached a 9 MB bundle size](https://www.catchmetrics.io/blog/nextjs-how-polymarketcom-reached-a-9-mb-bundle-size-and-what-you-can-do-to-avoid-it)
+### [How polymarket.com reached a 9 MB bundle size](https://www.catchmetrics.io/blog/nextjs-how-polymarketcom-reached-a-9-mb-bundle-size-and-what-you-can-do-to-avoid-it)
 
 Real-world analysis of Next.js bundle bloat causes reveals systematic patterns in inefficient imports, barrel files, and wildcard exports affecting Core Web Vitals.
 
