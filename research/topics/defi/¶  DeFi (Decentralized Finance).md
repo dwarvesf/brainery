@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "DeFi (decentralized finance): definition, waves and criteria"
 description: "DeFi is an ecosystem of financial services built on blockchain technologies, typically using smart contracts, with no access rights needed to lend, borrow or trade."
 date: 2026-08-27
@@ -8,8 +8,7 @@ authors:
 tags:
   - blockchain
   - defi
-redirect:
-  - /DoT09w
+redirect: []
 ---
 
 DeFi is an ecosystem of financial services built on Blockchain technologies, typically using [[Smart Contract]]. DeFi consists of applications and peer-to-peer protocols developed on decentralized blockchain networks that require no access rights for easy lending, borrowing, or trading of financial tools.

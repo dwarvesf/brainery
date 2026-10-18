@@ -1,13 +1,12 @@
 ---
-draft: false
-title: DAO
-description: null
-date: null
+draft: true
+title: DAO (research note)
+description: Usually each organization will have a person to make decisions on behalf of, for example, administrators will represent shareholders, politicians will represent citizens.
+date: 2026-10-18
 tags:
   - blockchain
   - defi
-redirect:
-  - /aPAPaw
+redirect: []
 ---
 
 ### Decentralized autonomous organization
