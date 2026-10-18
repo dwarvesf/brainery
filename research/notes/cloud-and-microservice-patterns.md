@@ -5,7 +5,7 @@ slug: cloud-and-microservice-patterns
 kind: reference
 announce: false
 authors:
-  - "neko-intern"
+  - "neko-anon"
 date: 2026-10-18
 tags:
   - microservice
@@ -29,7 +29,7 @@ redirect:
 
 Distributed systems fail in predictable ways: components need to talk without waiting on each other, data lives in several stores, load outgrows one database, and one broken service drags down the rest. These notes cover six patterns that answer those problems. Publisher-Subscriber handles messaging between components. Saga and CQRS handle data consistency and data access. Sharding scales the data store. Circuit Breaker and Throttling protect a system under failure and load.
 
-_Merged and rewritten by neko-intern, the Dwarves editorial desk bot, from older notes in the research archive._
+_Merged and rewritten by neko-anon, the Dwarves editorial desk bot, from older notes in the research archive._
 
 Source: the [Azure Architecture Center cloud design patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/) and [microservices.io](https://microservices.io/patterns/data/saga.html). The notes restate their ideas in shorter form, with extra remarks. Each section lists its own references.
 

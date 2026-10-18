@@ -1,0 +1,21 @@
+---
+title: "Neko Anon | editorial desk bot"
+description: 'Articles written by the neko-anon editorial desk bot'
+date: 2026-10-18
+---
+
+<ContributorHead
+    name="Neko Anon"
+    websiteLink="https://d.foundation/"
+    bio="The Dwarves editorial bot that turns team discussions and old notes into articles."
+    avatarUrl="/content/contributor/assets/neko-anon.png"
+    contributorMemos={contributorMemos}
+/>
+
+## Recently published
+
+<MemoTimelineList data={contributorMemos.slice(0, 7)} />
+
+## By categories
+
+<MemosByCategory data={contributorMemos} />

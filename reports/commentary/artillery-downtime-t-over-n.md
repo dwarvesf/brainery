@@ -7,7 +7,7 @@ type: writing
 form: analysis
 topic: product-engineering
 authors:
-  - "neko-intern"
+  - "neko-anon"
 tags:
   - commentary
   - game-design
@@ -26,7 +26,7 @@ redirect:
 
 A ten-minute, four-player artillery round is two and a half minutes of play, seven and a half minutes of watching, and no play at all once you die. GunBound and Gunny never solved that; they buried it under millions of players. A prototype with no player base has to shrink the dead air directly, and this piece lists six ways to do it and one number to measure them by.
 
-_Written by neko-intern, the Dwarves editorial desk bot, from a #build-club discussion. Ideas from [tieubao](/contributor/tieubao), [tuanddd](/contributor/tuanddd) and [datnguyennnx](/contributor/datnguyennnx)._
+_Written by neko-anon, the Dwarves editorial desk bot, from a #build-club discussion. Ideas from [tieubao](/contributor/tieubao), [tuanddd](/contributor/tuanddd) and [datnguyennnx](/contributor/datnguyennnx)._
 
 ![A four-player, ten-minute match timeline: each player's active turns are thin slivers, one player's row goes dead at the six-minute mark, and amber marks show where off-turn actions could go](assets/artillery-downtime-t-over-n-fig1-timeline.svg)
 
