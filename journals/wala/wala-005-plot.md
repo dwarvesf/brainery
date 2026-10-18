@@ -29,7 +29,7 @@ I talked with Ethan Phan, CTO of Plot, about how a small AI-native startup decid
 | Top 10%        | Still top 10% against startups of the same engineering size, every quarter. So the whole industry doubles too.   |
 | 2.5 to 3 years | Time to product-market fit (the stage where real customers want the product enough to keep using and buying it). |
 | Fewer than 20  | People in the whole company.                                                                                     |
-| \$10M           | Seed round, announced June 2026 (public).                                                                        |
+| \$10M          | Seed round, announced June 2026 (public).                                                                        |
 
 **Who is Plot**
 
