@@ -32,12 +32,12 @@ That is three observations from three people who have each watched this genre fr
 
 The machine has three roles and one bridge.
 
-| Role | Has | Wants | Gives the game |
-|---|---|---|---|
-| Farmer | Time, many accounts | Progress, a small income | Supply of items and currency |
-| Whale | Money | Status, rank, speed | Most of the revenue |
-| Marketplace | Rules, fees | Liquidity | The reason farmers and whales both stay |
-| Publisher | The bridge token | Recurring revenue | Time shortcuts, VIP, cosmetics, event items |
+| Role        | Has                 | Wants                    | Gives the game                              |
+| ----------- | ------------------- | ------------------------ | ------------------------------------------- |
+| Farmer      | Time, many accounts | Progress, a small income | Supply of items and currency                |
+| Whale       | Money               | Status, rank, speed      | Most of the revenue                         |
+| Marketplace | Rules, fees         | Liquidity                | The reason farmers and whales both stay     |
+| Publisher   | The bridge token    | Recurring revenue        | Time shortcuts, VIP, cosmetics, event items |
 
 The whale numbers are old and still the best we have. Swrve tracked ten million new players across more than thirty mobile games for ninety days and found that [2.2 percent of players paid anything, and a tenth of that group produced 46 percent of revenue](https://gamerant.com/free-to-play-games-profits-statistics/). The 2015 follow-up had the [top 10 percent of payers producing 64 percent of revenue](https://mcvuk.com/business-news/mobile/influence-of-whales-over-f2p-mobile-game-revenue-on-the-rise-report/). Roughly a fifth of one percent of your players carry the game.
 
