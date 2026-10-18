@@ -238,7 +238,7 @@ _2024-12-06_
 
 ### [Draft Release Notes Go 1.24](https://tip.golang.org/doc/go1.24)
 
-#### Go 1.24 is not yet released. These are work-in-progress release notes. Go 1.24 is expected to be released in February 2025.
+#### Go 1.24 is not yet released. These are work-in-progress release notes. Go 1.24 is expected to be released in february 2025.
 
 - Fully supports _generic type aliases_: a type alias may be parameterized like a defined type
 
@@ -1730,7 +1730,7 @@ _2024-10-18_
 
 https://victoriametrics.com/blog/go-sync-map/index.html
 
-## Issue 15: using Go embed, and Reflect
+## Issue 15: Using Go embed, and Reflect
 
 _2024-10-11_
 
