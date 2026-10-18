@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Talks and takeaways from the scene: part 1"
 short_title: 1st Talks and Takeaways
 description: Talks and Takeaways from the Scene Part 1
@@ -12,8 +12,7 @@ tags:
   - consulting
   - market-report
   - report
-redirect:
-  - /wlB39Q
+redirect: []
 slug: event-takeaways-1st
 ---
 

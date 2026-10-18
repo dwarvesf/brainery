@@ -1,5 +1,6 @@
 ---
-title: MBTI type ISTJ
+draft: true
+title: "MBTI type ISTJ (archived)"
 description: All about the ISTJ personality type
 date: 2021-07-20
 authors:
@@ -9,8 +10,7 @@ tags:
   - mbti
   - operation
   - people
-redirect:
-  - /LUR2FQ
+redirect: []
 ---
 
 ### Preferred work environment

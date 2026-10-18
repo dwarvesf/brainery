@@ -1,6 +1,6 @@
 ---
-draft: false
-title: Frontend Report June 2025
+draft: true
+title: "Frontend Report June 2025 (archived)"
 short_title: Frontend Web Development in June 2025 - AI Tools and Web Platform Updates
 description: "June 2025 brought significant changes to frontend web development. This report covers the widespread adoption of AI coding tools, new CSS conditional logic features, browser updates with AI integration, React Server Components in production, TypeScript's native Node.js support, and improved development workflows."
 date: 2025-06-30
@@ -9,8 +9,7 @@ authors:
 tags:
   - frontend
   - market-report
-redirect:
-  - /6uWkDg
+redirect: []
 slug: frontend-report-june-2025
 ---
 

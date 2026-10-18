@@ -1,5 +1,6 @@
 ---
-title: Memo meeting
+draft: true
+title: "Memo meeting (archived)"
 description: Here are the simple steps we follow each week to keep the Memo content pipeline organized and our team informed.
 date: 2024-06-20
 authors:
@@ -7,8 +8,7 @@ authors:
 tags:
   - guide
   - memo
-redirect:
-  - /9eELaA
+redirect: []
 ---
 
 ### Memo knowledge base meeting

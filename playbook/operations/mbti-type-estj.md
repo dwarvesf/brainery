@@ -1,5 +1,6 @@
 ---
-title: MBTI type ESTJ
+draft: true
+title: "MBTI type ESTJ (archived)"
 description: All about the ESTJ personality type
 date: 2021-07-24
 authors:
@@ -9,8 +10,7 @@ tags:
   - mbti
   - operation
   - people
-redirect:
-  - /f8wtJw
+redirect: []
 ---
 
 ### Preferred work tasks

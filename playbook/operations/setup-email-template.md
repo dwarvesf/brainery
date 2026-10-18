@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Setup email template in Gmail
 description: How to setup template for email in Gmail
 date: 2020-01-01
@@ -7,8 +8,7 @@ authors:
 tags:
   - operation
   - people
-redirect:
-  - /FdMzhw
+redirect: []
 ---
 
 ## To turn on Gmail Canned Response (Template)

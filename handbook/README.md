@@ -10,6 +10,12 @@ tags:
   - handbook
 redirect:
   - /OIHpPw
+  - /handbook/misc/marketing-assets
+  - /YjK0eQ
+  - /handbook/memo/memo-meeting
+  - /9eELaA
+  - /handbook/guides/password-sharing
+  - /LOadJw
 ---
 
 Dwarves are a group of software engineers, designers, and innovation advocates. We serve a single purpose: To empower innovations and co-create the next big things.
@@ -87,7 +93,6 @@ If you've just joined us, you're in a unique position. You can see things we've 
 - [1-on-1 meeting](guides/one-on-one-meeting.md) - Manager-report discussions
 - [Email config](guides/configure-company-email.md) - Setting up your work email
 - [Email communication](guides/email-communication-and-use.md) - Email guidelines
-- [Password sharing](guides/password-sharing.md) - Secure credential management
 - [Leave request](guides/leave-request.md) - How to request time off
 - [Asset request](guides/asset-request.md) - Borrowing or requesting company equipment
 - [Reimbursement](guides/reimbursement.md) - Getting reimbursed for expenses
@@ -96,7 +101,6 @@ If you've just joined us, you're in a unique position. You can see things we've 
 ## Tools & resources
 
 - [Tools and systems](tools-and-systems.md) - Software and platforms we use
-- [Marketing assets](misc/marketing-assets.md) - Brand resources and information
 
 ## Contributing
 

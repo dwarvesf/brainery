@@ -1,5 +1,6 @@
 ---
-title: Bric a brac
+draft: true
+title: "Bric a brac (archived)"
 description: "Simple operational guidelines for efficiency - outsource what we're not great at, automate repetitive tasks, avoid bottlenecks through broad access, and use existing solutions before building custom ones."
 date: 2020-04-10
 authors:
@@ -7,8 +8,7 @@ authors:
 tags:
   - performance
   - operation
-redirect:
-  - /kPRN5Q
+redirect: []
 ---
 
 - Outsource things which are super important but we are not excellent at.

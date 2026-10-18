@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Talks and takeaways from the scene: part 2"
 short_title: 2nd Talks and Takeaways
 description: Talks and Takeaways from the Scene Part 2
@@ -10,8 +10,7 @@ tags:
   - consulting
   - market-report
   - report
-redirect:
-  - /worwKA
+redirect: []
 slug: event-takeaways-2nd
 ---
 

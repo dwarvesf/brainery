@@ -1,6 +1,6 @@
 ---
-draft: false
-title: Frontend report August 2025
+draft: true
+title: "Frontend report August 2025 (archived)"
 short_title: Frontend Web Development in August 2025
 description: "August 2025 frontend developments covering React ecosystem updates, performance optimization techniques, modern web technologies, security practices, developer tooling improvements, and AI integration in frontend workflows."
 date: 2025-09-05
@@ -9,8 +9,7 @@ authors:
 tags:
   - frontend
   - market-report
-redirect:
-  - /urdRThw
+redirect: []
 slug: frontend-report-august-2025
 ---
 

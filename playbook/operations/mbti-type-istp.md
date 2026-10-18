@@ -1,5 +1,6 @@
 ---
-title: MBTI type ISTP
+draft: true
+title: "MBTI type ISTP (archived)"
 description: All about the ISTP personality type
 date: 2021-07-25
 authors:
@@ -9,8 +10,7 @@ tags:
   - mbti
   - operation
   - people
-redirect:
-  - /dVmgvA
+redirect: []
 ---
 
 ### Preferred work environment

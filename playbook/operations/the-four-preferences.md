@@ -1,5 +1,6 @@
 ---
-title: The four preferences
+draft: true
+title: "The four preferences (archived)"
 description: The four preferences in MBTI personalities
 date: 2021-07-16
 authors:
@@ -8,8 +9,7 @@ tags:
   - mbti
   - operation
   - personalities
-redirect:
-  - /uoiKrg
+redirect: []
 ---
 
 ## The four preferences are

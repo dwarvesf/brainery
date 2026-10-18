@@ -11,6 +11,8 @@ tags:
   - consulting
 redirect:
   - /YnApuQ
+  - /consulting/service-feedbacks
+  - /IlZYhg
 ---
 
 The Consulting team is a strategic spin-off built on the foundation of our Tech Research team. While Tech Research explores emerging technologies and builds innovative solutions, we take those insights and apply them directly to real business challenges.
@@ -53,7 +55,6 @@ Browse the newest consulting posts on the [consulting tag page](/tags/consulting
 - [Project delivery and soft skills](client-delivery.md): How to do great work for clients and get along with people.
 - [Required dev skills](dev-skill-required.md): Required skills for developers working with clients.
 - [Client-side and Agency-side](client-side-agency-side.md): What it's like being a client vs. being an agency.
-- [Service feedbacks](service-feedbacks.md): How to get and use feedback from clients to get better.
 
 ### Others
 

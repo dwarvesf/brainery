@@ -1,5 +1,6 @@
 ---
-title: Milestone sign-off
+draft: true
+title: "Milestone sign-off (archived)"
 description: The email template is to confirm about the milestone with client.
 date: 2020-01-01
 authors:
@@ -9,8 +10,7 @@ tags:
   - email
   - operation
   - template
-redirect:
-  - /ABh8Yg
+redirect: []
 ---
 
 **Title:** Project XX - Milestone Signoff

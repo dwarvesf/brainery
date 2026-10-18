@@ -1,5 +1,6 @@
 ---
-title: Password sharing
+draft: true
+title: "Password sharing (archived)"
 description: "How to access to team's password folder"
 date: 2020-01-01
 authors:
@@ -7,8 +8,7 @@ authors:
 tags:
   - guide
   - handbook
-redirect:
-  - /LOadJw
+redirect: []
 ---
 
 ## 1Password storage

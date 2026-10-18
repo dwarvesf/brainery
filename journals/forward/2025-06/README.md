@@ -15,6 +15,60 @@ tags:
   - agent
 redirect:
   - /jGV3qQ
+  - /journals/forward/2025-02
+  - /forward-2025-02
+  - /07oeqg
+  - /journals/forward/2025-05
+  - /forward-2025-05
+  - /pOnGyg
+  - /journals/forward/frontend/frontend-report-january-2025
+  - /frontend-report-january-2025
+  - /VR5yGg
+  - /journals/forward/frontend/frontend-report-february-2025
+  - /frontend-report-february-2025
+  - /c7bheQ
+  - /journals/forward/frontend/frontend-report-march-2025
+  - /frontend-report-march-2025
+  - /BZXK4A
+  - /journals/forward/frontend/frontend-report-april-2025
+  - /frontend-report-april-2025
+  - /sgS3SA
+  - /journals/forward/frontend/frontend-report-june-2025
+  - /frontend-report-june-2025
+  - /6uWkDg
+  - /journals/forward/frontend/frontend-report-august-2025
+  - /frontend-report-august-2025
+  - /urdRThw
+  - /journals/forward/market-commentary/2025-3rd-jan
+  - /market-commentary-2025-3rd-jan
+  - /eUmkZw
+  - /journals/forward/market-commentary/2025-10th-jan
+  - /market-commentary-2025-10th-jan
+  - /Sclbog
+  - /journals/forward/market-commentary/2025-17th-jan
+  - /market-commentary-2025-17th-jan
+  - /RjrX7w
+  - /journals/forward/market-commentary/2025-7th-feb
+  - /market-commentary-2025-7th-feb
+  - /7rz5Cw
+  - /journals/forward/market-commentary/2025-14th-feb
+  - /market-commentary-2025-14th-feb
+  - /xYILLw
+  - /journals/forward/market-commentary/2025-21th-feb
+  - /market-commentary-2025-21th-feb
+  - /MxpwOg
+  - /journals/forward/market-commentary/2025-28th-feb
+  - /market-commentary-2025-28th-feb
+  - /bmlOvg
+  - /journals/forward/market-commentary/event-takeaways-1st
+  - /event-takeaways-1st
+  - /wlB39Q
+  - /journals/forward/market-commentary/event-takeaways-2nd
+  - /event-takeaways-2nd
+  - /worwKA
+  - /journals/forward/market-commentary/event-takeaways-3rd
+  - /event-takeaways-3rd
+  - /WJltiw
 slug: forward-2025-06
 ---
 

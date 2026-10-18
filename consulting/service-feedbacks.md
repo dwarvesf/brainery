@@ -1,6 +1,7 @@
 ---
-title: Service feedbacks
-description: null
+draft: true
+title: "Service feedbacks (archived)"
+description: "Client feedback question list Dwarves used to review service quality."
 date: 2023-10-16
 authors:
   - tieubao
@@ -8,8 +9,7 @@ tags:
   - consulting
   - project
   - software
-redirect:
-  - /IlZYhg
+redirect: []
 ---
 
 ## General questions for service feedbacks

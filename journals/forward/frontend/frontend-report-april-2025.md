@@ -1,16 +1,15 @@
 ---
-draft: false
+draft: true
 tags:
   - frontend
   - market-report
-title: "Frontend Report April 2025"
+title: "Frontend Report April 2025 (archived)"
 short_title: "April 2025"
 description: "April 2025 brings exciting frontend developments! React Server Components revolutionize API design with JSX over the wire, Next.js 15.3 delivers 60% faster Turbopack builds, and AI agents transform web interaction beyond traditional browsers."
 date: 2025-04-30
 authors:
   - hthai2201
-redirect:
-  - /sgS3SA
+redirect: []
 slug: frontend-report-april-2025
 ---
 
