@@ -12,7 +12,6 @@ tags:
   - agents
   - harness-engineering
 slug: harness-engineering-notes
-series: harness-engineering
 ---
 
 We run agents all day at Dwarves. They write code, deploy Workers, review incoming posts and measure layouts in a real browser. Under each of them sits a model, and the model is the part we do not write. Around it sits the harness: the loop that calls tools, the rules loaded when a session starts, and the checks that run before and after every action. Our working bet is that the harness decides whether an agent is useful, more than the model does. [What the Engelberg report got right about us](/engelberg-report-audit) tests that bet against a report written by forty CTOs and senior engineers. The other eight notes are the evidence, written while things were breaking.
