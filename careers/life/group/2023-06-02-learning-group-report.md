@@ -1,10 +1,10 @@
 ---
+draft: true
 title: Learning group report
-description: null
+description: "Weekly report from the Dwarves learning group: members, activities, study groups and tech radar topics."
 date: 2023-06-02
 last_edited: "2023-06-19T00:00:00.000Z"
-redirect:
-  - /l38fgA
+redirect: []
 ---
 
 ### Group members
