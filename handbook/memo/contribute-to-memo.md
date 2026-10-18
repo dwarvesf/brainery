@@ -30,7 +30,7 @@ No outside writer has published on memo yet. The only guest note so far comes fr
 
 ![](assets/contribute-to-memo-fig1-path-chooser.svg)
 
-_Fig. 1: Find your badge, follow the branch. Each leaf names the chapter that walks it._
+_Fig. 1: Find your badge, follow the branch. The bottom row names the agent skill for each path._
 
 ## Find your path in 30 seconds
 
@@ -99,7 +99,7 @@ Three fields are required: `title`, `description` and `date`. Playbooks and hand
 
 The lint does not parse YAML. It counts any `key:` line as a top-level key and wants exactly one colon outside quotes on each. A title like `Why: a thing` fails until you quote it. Put nested values on one line in flow style, and quote a numeric tag such as `"101"`.
 
-Everything else is optional: `authors`, `tags`, `kind`, `series`, `image` and `redirect`. A moved file keeps its slug and appends its old URL to `redirect:`. `draft: true` hides a page in production, and a draft cannot be a redirect target. Two things never go in the frontmatter. An `evidence` key is out because the build derives the tier from the folder. A Discord name in `authors` is out because it creates a wrong contributor page, which chapter 7 covers.
+The lint treats everything else as optional: `authors`, `tags`, `kind`, `series`, `image` and `redirect`. Set `authors` anyway, or the post credits nobody. A moved file keeps its slug and appends its old URL to `redirect:`. `draft: true` hides a page in production, and a draft cannot be a redirect target. Two things never go in the frontmatter. An `evidence` key is out because the build derives the tier from the folder. A Discord name in `authors` is out because it creates a wrong contributor page, which chapter 7 covers.
 
 ### Kinds and word floors
 
@@ -195,7 +195,7 @@ The repo does not delete merged branches by itself, so the flag keeps the branch
 
 ![](assets/contribute-to-memo-fig4-publish-pipeline.svg)
 
-_Fig. 4: A merge to main fires two publishes. Median open-to-merge is 113 seconds; the formatting bot lands within about a minute; the publish pair takes 5 to 15 minutes._
+_Fig. 4: A merge to main fires two publishes. The formatting bot lands within about a minute, and the publish pair takes 5 to 15 minutes._
 
 A merge to `main` triggers the workflow "Publish memo.d.foundation on content push". It dispatches two other repos with one bot token. `dwarvesf/foundation-workers` publishes the data plane: the memo API, search index, menus, rollups and the media bucket. `dwarvesf/foundation-apps` publishes the `df-memo` frontend Worker that serves the site. A full pair takes 5 to 15 minutes, since each repo runs its publishes one at a time.
 
@@ -281,7 +281,7 @@ Two routes lead to the same request. Tell your agent to read `memo.d.foundation/
 
 _Fig. 6: The join page. The agent route sits at the top and the form below it files the same request._
 
-The request carries your domain, an optional handle, a display name, an email and a consent scope. Memo answers with a one-time code. You publish it at `https://<domain>/.well-known/dwarves.json` next to your name, and it expires after 24 hours. The file requires `name` and accepts optional `avatar`, `feed` and `memo_verification` fields. Memo fetches it to confirm you control the domain, and then an editor approves or declines. Nothing is automatic.
+The request carries your domain, an optional handle, a display name, an email and a consent scope. Memo answers with a one-time code. You publish it at `https://<domain>/.well-known/dwarves.json` next to your name, and it expires after 24 hours. The file requires `name` and accepts optional `avatar`, `feed`, `bio`, `memo_verification` and `native` fields. Unknown fields are rejected. Memo fetches it to confirm you control the domain, and then an editor approves or declines. Nothing is automatic.
 
 ![](../../reports/shipped/assets/memo-guest-writers-shot-skill.png)
 
@@ -316,7 +316,7 @@ Delete or unpublish the post on your own site and memo takes its note down at th
 Memo does not copy your images. The importer keeps each `<img>` as a Markdown image that points at your server. It never fetches the file, and the committer writes `.md` files only. So today:
 
 - Your images are hotlinked. A post shows an image only while you keep it online at the same address. Remove the post from memo before you move or delete its images, or the memo copy breaks until the next check.
-- Memo does not compress them. Aim for a raster under 200 KB and at least 704 pixels wide. Nothing measures either number today. An editor opens each image address during review, and an over-budget image never blocks an approval. Memo does not check alt text either.
+- Memo does not compress them. Aim for a raster under 200 KB and at least 704 pixels wide. Nothing measures either number today. The editors' checklist on the media standard page has them open each image address during review, and an over-budget image never blocks an approval. Memo does not check alt text either.
 - Only `https` image addresses survive. An `http:` or `data:` image is dropped with no warning, and so is an `<img>` inside a `figure.fig`.
 - Your own share image is not carried. The social card uses the site default unless an editor sets a hero.
 - Whether your consent covers copying images is an open question for the editors, and re-hosting is not built.
@@ -344,23 +344,23 @@ The door has worked once, for the maintainer's own domain. No outside writer has
 
 Every door has a file an agent can read. You paste one sentence and the agent does the setup. A person still approves the steps that need one.
 
-| Your path                            | What to tell your agent                                                                                                                             | The file                            |
-| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| Guest writer, or fellow with a blog  | `Read https://memo.d.foundation/skill.md and get me onto Dwarves Memo.`                                                                             | `skill.md`, live                    |
-| Member with write access             | `Read https://memo.d.foundation/contribute-skill.md and help me publish a post on memo. I have write access to dwarvesf/brainery, use branch mode.` | `contribute-skill.md`, not live yet |
-| Staff or fellow without write access | `Read https://memo.d.foundation/contribute-skill.md and help me publish a post on memo. I do not have write access, use fork mode.`                 | `contribute-skill.md`, not live yet |
+| Your path                            | What to tell your agent                                                                                                                             | The file              |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| Guest writer, or fellow with a blog  | `Read https://memo.d.foundation/skill.md and get me onto Dwarves Memo.`                                                                             | `skill.md`, live      |
+| Member with write access             | `Read https://memo.d.foundation/contribute-skill.md and help me publish a post on memo. I have write access to dwarvesf/brainery, use branch mode.` | `contribute-skill.md` |
+| Staff or fellow without write access | `Read https://memo.d.foundation/contribute-skill.md and help me publish a post on memo. I do not have write access, use fork mode.`                 | `contribute-skill.md` |
 
 ### What the guest skill does
 
-`skill.md` is named `memo-guest-writer`. The agent asks you for a domain you control, an optional handle, a display name, a contact email and one of three consent scopes. It posts the join request, publishes the one-time code at `https://<domain>/.well-known/dwarves.json` on your site (or stops and tells you when it cannot write there), and checks the result with a read-only call until an editor approves or declines. Memo sends no email today, so that check is how you hear the outcome. It refuses to improvise: on a `409`, `422` or `429`, or an expired code, it reports the error to you. Anything outside the join flow ends with a pointer to team@d.foundation. It also refuses to tell you your contributor URL from memory. The page address can change after an editor links you to a member profile, so the agent reads it from the API.
+`skill.md` is named `memo-guest-writer`. The agent asks you for a domain you control, an optional handle, a display name, a contact email and one of three consent scopes. It posts the join request, publishes the one-time code at `https://<domain>/.well-known/dwarves.json` on your site (or stops and tells you when it cannot write there), and checks the result with a read-only call until an editor approves or declines. Memo sends no email about the outcome today, so that check is how you hear it. It refuses to improvise: on a `409`, `422` or `429`, or an expired code, it reports the error to you. Anything outside the join flow ends with a pointer to team@d.foundation. It also refuses to tell you your contributor URL from memory. The page address can change after an editor links you to a member profile, so the agent reads it from the API.
 
-### What the contributor skill will do
+### What the contributor skill does
 
-`contribute-skill.md`, named `memo-contributor`, is written for people who edit the repo. The file does not exist at its address yet; a request returns 404 today. It has two modes. In branch mode, the agent clones, branches, writes, installs the hook, opens a pull request with a body that replaces the template, and verifies the live page with the `curl` check from chapter 3. In fork mode, it forks first and then covers the same ground, and it warns you about the two fork differences: the first-run approval and the missing bot.
+`contribute-skill.md`, named `memo-contributor`, is written for people who edit the repo. The agent first asks GitHub what access you have, and that answer picks the mode. In branch mode, it clones, branches, writes, installs the hook, opens a draft pull request with a body that replaces the template, and verifies the live page with the `curl` check from chapter 3. In fork mode, it forks first and then covers the same ground, and it warns you about the two fork differences: the first-run approval and the missing bot. With no GitHub account, it writes the post and an email to team@d.foundation for you to send.
 
-The skill treats chapter 8 as its list of hard stops. It will not push to `main`, will not write `[skip ci]` into a pull request body, will not put a Discord name in `authors`, and will not invent a date or a slug that collides with an existing one. It points at the taxonomy file for the folder choice instead of guessing.
+The skill has hard stops. It never merges, never pushes to `main`, never skips the hook with `--no-verify`, never force-pushes, and never writes `[skip ci]` into a pull request body. It puts your GitHub handle in `authors`, never a Discord name, and checks that your slug is free. It reads the taxonomy file for the folder choice, and when two folders fit, it asks you.
 
-<!-- ch6: screenshot pending until contribute-skill.md is live -->
+<!-- ch6: screenshot pending until contribute-skill.md is deployed -->
 
 ![](assets/contribute-to-memo-fig8-shot-agent.png)
 

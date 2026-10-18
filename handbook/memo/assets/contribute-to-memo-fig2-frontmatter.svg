@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 534" role="img" aria-label="Annotated frontmatter block with ten fields. Required, lint error if missing: title, description, date. Set on every new post: slug, kind, authors as a GitHub-style handle. Optional: tags, redirect, image, draft. Never: an evidence field, or an H1 heading in the body." style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid2" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr2" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+    <marker id="arra2" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#e8c56a"/>
+    </marker>
+  </defs>
+  <rect width="760" height="534" fill="#12395f"/>
+  <rect width="760" height="534" fill="url(#grid2)"/>
+  <rect x="0.5" y="0.5" width="759" height="533" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 2 · FRONTMATTER FIELDS</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">WHAT THE LINT NEEDS, WHAT TO SET, WHAT TO LEAVE OUT</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+  <line x1="24" y1="85" x2="736" y2="85" stroke="#385a7b" stroke-opacity="0.6"/>
+  <line x1="24" y1="154" x2="736" y2="154" stroke="#385a7b" stroke-opacity="0.6"/>
+  <line x1="24" y1="246" x2="736" y2="246" stroke="#385a7b" stroke-opacity="0.6"/>
+  <line x1="24" y1="384" x2="736" y2="384" stroke="#385a7b" stroke-opacity="0.6"/>
+  <rect x="24" y="52" width="272" height="365" fill="#21466a" stroke="#68839d"/>
+  <line x1="24" y1="85" x2="296" y2="85" stroke="#385a7b" stroke-opacity="0.9"/>
+  <line x1="24" y1="154" x2="296" y2="154" stroke="#385a7b" stroke-opacity="0.9"/>
+  <line x1="24" y1="246" x2="296" y2="246" stroke="#385a7b" stroke-opacity="0.9"/>
+  <line x1="24" y1="384" x2="296" y2="384" stroke="#385a7b" stroke-opacity="0.9"/>
+  <text x="38" y="78" font-size="11.5" fill="#6f8fb0">---</text>
+  <text x="38" y="101" font-size="11.5" fill="#e8f1fa">title:</text>
+  <text x="86.3" y="101" font-size="11.5" fill="#c3d7ea">Getting your post onto memo</text>
+  <text x="312" y="101" font-size="10" fill="#a7c0d9">renders as the page title</text>
+  <text x="38" y="124" font-size="11.5" fill="#e8f1fa">description:</text>
+  <text x="127.7" y="124" font-size="11.5" fill="#c3d7ea">How to publish on memo</text>
+  <text x="312" y="124" font-size="10" fill="#a7c0d9">must not be empty</text>
+  <text x="38" y="147" font-size="11.5" fill="#e8f1fa">date:</text>
+  <text x="79.4" y="147" font-size="11.5" fill="#c3d7ea">2026-10-18</text>
+  <text x="312" y="147" font-size="10" fill="#a7c0d9">YYYY-MM-DD, never invented</text>
+  <text x="38" y="170" font-size="11.5" fill="#e8f1fa">slug:</text>
+  <text x="79.4" y="170" font-size="11.5" fill="#c3d7ea">contribute-to-memo</text>
+  <text x="312" y="170" font-size="10" fill="#a7c0d9">flat kebab-case, becomes the URL</text>
+  <text x="38" y="193" font-size="11.5" fill="#e8f1fa">kind:</text>
+  <text x="79.4" y="193" font-size="11.5" fill="#c3d7ea">playbook</text>
+  <text x="312" y="193" font-size="10" fill="#a7c0d9">overrides the folder default</text>
+  <text x="38" y="216" font-size="11.5" fill="#e8f1fa">authors:</text>
+  <text x="312" y="216" font-size="10" fill="#a7c0d9">GitHub-style handle, not Discord</text>
+  <text x="51.8" y="239" font-size="11.5" fill="#c3d7ea">- tieubao</text>
+  <text x="38" y="262" font-size="11.5" fill="#e8f1fa">tags:</text>
+  <text x="312" y="262" font-size="10" fill="#a7c0d9">quote numeric tags: - "101"</text>
+  <text x="51.8" y="285" font-size="11.5" fill="#c3d7ea">- memo</text>
+  <text x="38" y="308" font-size="11.5" fill="#e8f1fa">redirect:</text>
+  <text x="312" y="308" font-size="10" fill="#a7c0d9">old URLs that 301 to the slug</text>
+  <text x="51.8" y="331" font-size="11.5" fill="#c3d7ea">- /old-url</text>
+  <text x="38" y="354" font-size="11.5" fill="#e8f1fa">image:</text>
+  <text x="86.3" y="354" font-size="11.5" fill="#c3d7ea">/content/.../fig.png</text>
+  <text x="312" y="354" font-size="10" fill="#a7c0d9">overrides the automatic share image</text>
+  <text x="38" y="377" font-size="11.5" fill="#e8f1fa">draft:</text>
+  <text x="86.3" y="377" font-size="11.5" fill="#c3d7ea">true</text>
+  <text x="312" y="377" font-size="10" fill="#a7c0d9">true hides the page in production</text>
+  <text x="38" y="400" font-size="11.5" fill="#6f8fb0">---</text>
+  <path d="M 548 89 L 556 89 L 556 150 L 548 150" fill="none" stroke="#e8c56a"/>
+  <path d="M 548 158 L 556 158 L 556 242 L 548 242" fill="none" stroke="#68839d"/>
+  <path d="M 548 250 L 556 250 L 556 380 L 548 380" fill="none" stroke="#68839d"/>
+  <text x="570" y="102" font-size="10.5" letter-spacing="1.2" fill="#e8c56a">REQUIRED</text>
+  <text x="570" y="116" font-size="10" fill="#a7c0d9">lint error if missing</text>
+  <text x="570" y="130" font-size="10" fill="#6f8fb0">date is optional under</text>
+  <text x="570" y="143" font-size="10" fill="#6f8fb0">playbook/ and handbook/</text>
+  <text x="570" y="171" font-size="10.5" letter-spacing="1.2" fill="#e8f1fa">SET ON EVERY</text>
+  <text x="570" y="185" font-size="10.5" letter-spacing="1.2" fill="#e8f1fa">NEW POST</text>
+  <text x="570" y="263" font-size="10.5" letter-spacing="1.2" fill="#e8f1fa">OPTIONAL</text>
+  <text x="570" y="277" font-size="10" fill="#6f8fb0">add when it applies</text>
+  <rect x="24" y="435" width="712" height="80" fill="none" stroke="#68839d" stroke-dasharray="4 3"/>
+  <text x="40" y="464" font-size="10.5" letter-spacing="1.2" fill="#e8f1fa">NEVER</text>
+  <text x="130" y="464" font-size="11.5" fill="#e8f1fa">evidence: ...</text>
+  <text x="290" y="464" font-size="10" fill="#a7c0d9">the build derives the tier from the folder path</text>
+  <text x="130" y="492" font-size="11.5" fill="#e8f1fa"># Heading</text>
+  <text x="290" y="492" font-size="10" fill="#a7c0d9">in the body: the title already renders, so H1 is a lint error</text>
+</svg>

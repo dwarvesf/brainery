@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 352" role="img" aria-label="Fork flow. Fork the repo, branch with the local lint hook installed, open a pull request from the fork to dwarvesf/brainery. Difference one: the first-time fork pull request waits for a maintainer to click Approve and run before the lint workflow starts. Difference two: no formatting bot runs on forks, so you run ./pre-commit-hook.sh yourself. Then a maintainer squash merges, the publish pair runs, and the page goes live." style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid5" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr5" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+    <marker id="arra5" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#e8c56a"/>
+    </marker>
+  </defs>
+  <rect width="760" height="352" fill="#12395f"/>
+  <rect width="760" height="352" fill="url(#grid5)"/>
+  <rect x="0.5" y="0.5" width="759" height="351" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 5 · FORK FLOW</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">TWO STEPS DIFFER FROM THE MEMBER PATH</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+  <text x="576" y="72" font-size="10" letter-spacing="1.5" fill="#e8c56a">DIFFERENCE 1</text>
+  <rect x="24" y="80" width="160" height="72" fill="#21466a" stroke="#68839d"/>
+  <text x="104.0" y="105.0" font-size="11" letter-spacing="1.2" fill="#e8f1fa" text-anchor="middle">FORK</text>
+  <text x="104.0" y="120.0" font-size="10" fill="#a7c0d9" text-anchor="middle">gh repo fork --clone</text>
+  <text x="104.0" y="135.0" font-size="10" fill="#a7c0d9" text-anchor="middle">your fork is origin</text>
+  <rect x="208" y="80" width="160" height="72" fill="#21466a" stroke="#68839d"/>
+  <text x="288.0" y="105.0" font-size="11" letter-spacing="1.2" fill="#e8f1fa" text-anchor="middle">BRANCH + HOOK</text>
+  <text x="288.0" y="120.0" font-size="10" fill="#a7c0d9" text-anchor="middle">git switch -c post/...</text>
+  <text x="288.0" y="135.0" font-size="10" fill="#a7c0d9" text-anchor="middle">installs the lint hook</text>
+  <rect x="392" y="80" width="160" height="72" fill="#21466a" stroke="#68839d"/>
+  <text x="472.0" y="105.0" font-size="11" letter-spacing="1.2" fill="#e8f1fa" text-anchor="middle">PULL REQUEST</text>
+  <text x="472.0" y="120.0" font-size="10" fill="#a7c0d9" text-anchor="middle">from your fork to</text>
+  <text x="472.0" y="135.0" font-size="10" fill="#a7c0d9" text-anchor="middle">dwarvesf/brainery</text>
+  <line x1="184" y1="116" x2="208" y2="116" stroke="#c3d7ea" marker-end="url(#arr5)"/>
+  <line x1="368" y1="116" x2="392" y2="116" stroke="#c3d7ea" marker-end="url(#arr5)"/>
+  <line x1="552" y1="116" x2="576" y2="116" stroke="#c3d7ea" marker-end="url(#arr5)"/>
+  <rect x="576" y="80" width="160" height="72" fill="#21466a" stroke="#e8c56a" stroke-width="2"/>
+  <text x="656.0" y="97.5" font-size="11" letter-spacing="1.2" fill="#e8c56a" text-anchor="middle">CHECKS</text>
+  <text x="656.0" y="112.5" font-size="10" fill="#a7c0d9" text-anchor="middle">lint stays idle until</text>
+  <text x="656.0" y="127.5" font-size="10" fill="#a7c0d9" text-anchor="middle">a maintainer clicks</text>
+  <text x="656.0" y="142.5" font-size="10" fill="#e8f1fa" text-anchor="middle">Approve and run</text>
+  <path d="M 656 152 L 656 182 L 164 182 L 164 222" fill="none" stroke="#c3d7ea" marker-end="url(#arr5)"/>
+  <text x="24" y="216" font-size="10" letter-spacing="1.5" fill="#c3d7ea">DIFFERENCE 2</text>
+  <rect x="24" y="224" width="160" height="72" fill="none" stroke="#68839d" stroke-dasharray="4 3"/>
+  <text x="104.0" y="241.5" font-size="11" letter-spacing="1.0" fill="#e8f1fa" text-anchor="middle">NO FORMATTING BOT</text>
+  <text x="104.0" y="256.5" font-size="10" fill="#a7c0d9" text-anchor="middle">a fork token cannot push</text>
+  <text x="104.0" y="271.5" font-size="10" fill="#a7c0d9" text-anchor="middle">so you run the local hook</text>
+  <text x="104.0" y="286.5" font-size="10" fill="#e8f1fa" text-anchor="middle">./pre-commit-hook.sh</text>
+  <line x1="184" y1="260" x2="208" y2="260" stroke="#c3d7ea" marker-end="url(#arr5)"/>
+  <rect x="208" y="224" width="160" height="72" fill="#21466a" stroke="#68839d"/>
+  <text x="288.0" y="249.0" font-size="11" letter-spacing="1.2" fill="#e8f1fa" text-anchor="middle">SQUASH MERGE</text>
+  <text x="288.0" y="264.0" font-size="10" fill="#a7c0d9" text-anchor="middle">a maintainer merges</text>
+  <text x="288.0" y="279.0" font-size="10" fill="#a7c0d9" text-anchor="middle">you have no write access</text>
+  <line x1="368" y1="260" x2="392" y2="260" stroke="#c3d7ea" marker-end="url(#arr5)"/>
+  <rect x="392" y="224" width="160" height="72" fill="#21466a" stroke="#68839d"/>
+  <text x="472.0" y="249.0" font-size="11" letter-spacing="1.2" fill="#e8f1fa" text-anchor="middle">PUBLISH PAIR</text>
+  <text x="472.0" y="264.0" font-size="10" fill="#a7c0d9" text-anchor="middle">as in Fig. 4</text>
+  <text x="472.0" y="279.0" font-size="10" fill="#a7c0d9" text-anchor="middle">5 to 15 minutes</text>
+  <line x1="552" y1="260" x2="576" y2="260" stroke="#c3d7ea" marker-end="url(#arr5)"/>
+  <rect x="576" y="224" width="160" height="72" fill="#21466a" stroke="#68839d"/>
+  <text x="656.0" y="249.0" font-size="12" letter-spacing="2" fill="#e8f1fa" text-anchor="middle">LIVE</text>
+  <text x="656.0" y="264.0" font-size="10" fill="#a7c0d9" text-anchor="middle">verify with the</text>
+  <text x="656.0" y="279.0" font-size="10" fill="#a7c0d9" text-anchor="middle">curl check</text>
+  <text x="24" y="330" font-size="10" fill="#6f8fb0">Unchanged from the member path: write, commit, squash merge, publish, verify.</text>
+</svg>
