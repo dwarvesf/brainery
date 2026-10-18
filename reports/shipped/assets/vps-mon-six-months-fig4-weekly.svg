@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 398" role="group" aria-label="Fig. 4: new paging alert rows per week, all pages against silence pages" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid4" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/></pattern>
+    <marker id="ar4" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#c3d7ea"/></marker>
+    <marker id="am4" viewBox="0 0 10 10" refX="8.5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#e8c56a"/></marker>
+  </defs>
+  <rect width="760" height="398" fill="#12395f"/>
+  <rect width="760" height="398" fill="url(#grid4)"/>
+  <rect x="0.5" y="0.5" width="759" height="397" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 4 · PAGES PER WEEK, 26 WEEKS</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">ICT WEEKS</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+<line x1="76" y1="292.0" x2="724" y2="292.0" stroke="#385a7b" stroke-opacity="0.6" stroke-width="1"/>
+<text x="68" y="295.0" font-size="9" fill="#6f8fb0" text-anchor="end">0</text>
+<line x1="76" y1="239.5" x2="724" y2="239.5" stroke="#385a7b" stroke-opacity="0.6" stroke-width="1"/>
+<text x="68" y="242.5" font-size="9" fill="#6f8fb0" text-anchor="end">200</text>
+<line x1="76" y1="187.0" x2="724" y2="187.0" stroke="#385a7b" stroke-opacity="0.6" stroke-width="1"/>
+<text x="68" y="190.0" font-size="9" fill="#6f8fb0" text-anchor="end">400</text>
+<line x1="76" y1="134.5" x2="724" y2="134.5" stroke="#385a7b" stroke-opacity="0.6" stroke-width="1"/>
+<text x="68" y="137.5" font-size="9" fill="#6f8fb0" text-anchor="end">600</text>
+<line x1="76" y1="82.0" x2="724" y2="82.0" stroke="#385a7b" stroke-opacity="0.6" stroke-width="1"/>
+<text x="68" y="85.0" font-size="9" fill="#6f8fb0" text-anchor="end">800</text>
+<text x="76.0" y="310" font-size="9" fill="#6f8fb0" text-anchor="middle">20 APR</text>
+<text x="205.6" y="310" font-size="9" fill="#6f8fb0" text-anchor="middle">25 MAY</text>
+<text x="335.2" y="310" font-size="9" fill="#6f8fb0" text-anchor="middle">29 JUN</text>
+<text x="464.8" y="310" font-size="9" fill="#6f8fb0" text-anchor="middle">3 AUG</text>
+<text x="594.4" y="310" font-size="9" fill="#6f8fb0" text-anchor="middle">7 SEP</text>
+<text x="724.0" y="310" font-size="9" fill="#6f8fb0" text-anchor="middle">12 OCT</text>
+<g><polygon points="76.0,279.9 101.9,275.5 127.8,276.2 153.8,272.6 179.7,247.1 205.6,242.7 231.5,240.0 257.4,233.5 283.4,250.8 309.3,262.6 335.2,245.5 361.1,276.5 387.0,270.2 413.0,277.3 438.9,274.4 464.8,287.8 490.7,278.4 516.6,272.6 542.6,262.3 568.5,101.4 594.4,152.6 620.3,187.5 646.2,182.0 672.2,194.9 698.1,175.7 724.0,241.6 724.0,272.6 698.1,267.3 672.2,272.8 646.2,270.5 620.3,262.1 594.4,222.2 568.5,260.0 542.6,263.4 516.6,273.4 490.7,278.6 464.8,288.1 438.9,282.3 413.0,285.4 387.0,278.1 361.1,276.8 335.2,248.9 309.3,264.4 283.4,251.1 257.4,239.0 231.5,241.1 205.6,284.4 179.7,276.8 153.8,274.7 127.8,291.5 101.9,283.6 76.0,280.4" fill="#e8f1fa" fill-opacity="0.07" stroke="none"/></g>
+<polyline points="76.0,280.4 101.9,283.6 127.8,291.5 153.8,274.7 179.7,276.8 205.6,284.4 231.5,241.1 257.4,239.0 283.4,251.1 309.3,264.4 335.2,248.9 361.1,276.8 387.0,278.1 413.0,285.4 438.9,282.3 464.8,288.1 490.7,278.6 516.6,273.4 542.6,263.4 568.5,260.0 594.4,222.2 620.3,262.1 646.2,270.5 672.2,272.8 698.1,267.3 724.0,272.6" fill="none" stroke="#6f8fb0" stroke-width="2" stroke-linejoin="round"/>
+<polyline points="76.0,279.9 101.9,275.5 127.8,276.2 153.8,272.6 179.7,247.1 205.6,242.7 231.5,240.0 257.4,233.5 283.4,250.8 309.3,262.6 335.2,245.5 361.1,276.5 387.0,270.2 413.0,277.3 438.9,274.4 464.8,287.8 490.7,278.4 516.6,272.6 542.6,262.3 568.5,101.4 594.4,152.6 620.3,187.5 646.2,182.0 672.2,194.9 698.1,175.7 724.0,241.6" fill="none" stroke="#c3d7ea" stroke-width="2.5" stroke-linejoin="round"/>
+<line x1="84" y1="76" x2="110" y2="76" stroke="#c3d7ea" stroke-width="2.5"/>
+<text x="118" y="79.5" font-size="9" fill="#c3d7ea">ALL PAGES</text>
+<line x1="206" y1="76" x2="232" y2="76" stroke="#6f8fb0" stroke-width="2"/>
+<text x="240" y="79.5" font-size="9" fill="#6f8fb0">SILENCE ONLY</text>
+<g><circle cx="76.0" cy="279.9" r="4" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/></g>
+<g><circle cx="205.6" cy="242.7" r="4" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/></g>
+<g><circle cx="257.4" cy="233.5" r="4" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/></g>
+<g><circle cx="568.5" cy="101.4" r="5" fill="#12395f" stroke="#e8c56a" stroke-width="2"/></g>
+<g><circle cx="724.0" cy="241.6" r="4" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/></g>
+<text x="556.5" y="104.4" font-size="10" fill="#e8c56a" text-anchor="end">726 · 31 AUG: LOG LINES START</text>
+<line x1="0" y1="324" x2="760" y2="324" stroke="#385a7b"/>
+<text x="14" y="346" font-size="10" letter-spacing="1" fill="#c3d7ea">READ THE SHAPE</text>
+<text x="14" y="366" font-size="10" fill="#a7c0d9">· the spike is new coverage, not new failure: 567 of the 726 pages that week were log lines</text>
+<text x="14" y="383" font-size="10" fill="#a7c0d9">· by 12 October all pages are down to 192: log lines 90, silence 74, everything else 28</text>
+</svg>
