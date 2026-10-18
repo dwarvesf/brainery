@@ -60,11 +60,11 @@ The folder tests in the next chapter show the bar for each kind of post. A repor
 
 What you get back depends on your door.
 
-| Door              | Byline                                                                                          | Reward                                                                                       |
-| ----------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| Member            | A contributor page at `memo.d.foundation/contributor/<handle>`                                  | No per-post reward for member posts today                                                    |
-| Fellow, fork path | The same contributor page                                                                       | No per-post reward rule is published                                                         |
-| Guest writer      | A contributor page with your verified domain, plus a `rel=canonical` link back to your own site | 5 to 20 ICY per published post, set by an editor, under a monthly cap the editors can change |
+| Door              | Byline                                                                                                             | Reward                                                                                       |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- |
+| Member            | A contributor page at `memo.d.foundation/contributor/<handle>`, with a Team badge for current staff or contractors | No per-post reward for member posts today                                                    |
+| Fellow, fork path | The same contributor page, with a Fellow badge for former staff or contractors                                     | No per-post reward rule is published                                                         |
+| Guest writer      | A contributor page with your verified domain and a Guest badge, plus a `rel=canonical` link back to your own site  | 5 to 20 ICY per published post, set by an editor, under a monthly cap the editors can change |
 
 Dwarves has no rule that pays members for posts in the repo, so this page promises none. The ICY figures for guests come from the live join page, and chapter 5 covers them.
 
@@ -297,6 +297,8 @@ You pick one scope at join, and editors can only select posts inside it.
 | "Only posts I name"           | Memo lists only the URLs you give. Nothing else is touched             |
 | "New posts only"              | Nothing from before today. Memo may suggest posts you publish later    |
 
+Your consent also covers memo storing a copy of the images in a post it imports. Removing the post removes the copies.
+
 ### How posts get picked
 
 A post reaches review in one of three ways. If you gave memo a `feed`, it checks the feed daily and suggests new posts to the editors. An editor can also pick past posts from your site, inside your scope. Or you email the URLs to team@d.foundation. There is no submit API, so the email is the whole mechanism, and no reply time is published.
@@ -313,15 +315,16 @@ Delete or unpublish the post on your own site and memo takes its note down at th
 
 ### What happens to your images and styling
 
-Memo does not copy your images. The importer keeps each `<img>` as a Markdown image that points at your server. It never fetches the file, and the committer writes `.md` files only. So today:
+When an editor publishes your post, memo copies each `https` raster image into its own storage and serves it from `memo.d.foundation/content/guest-media/`. The links in the note point to memo's copy. Memo checks the file bytes, so a renamed file does not pass. Nothing is copied when you submit or when an editor previews. Copying happens at publish only. So:
 
-- Your images are hotlinked. A post shows an image only while you keep it online at the same address. Remove the post from memo before you move or delete its images, or the memo copy breaks until the next check.
-- Memo does not compress them. Aim for a raster under 200 KB and at least 704 pixels wide. Nothing measures either number today. The editors' checklist on the media standard page has them open each image address during review, and an over-budget image never blocks an approval. Memo does not check alt text either.
-- Only `https` image addresses survive. An `http:` or `data:` image is dropped with no warning, and so is an `<img>` inside a `figure.fig`.
-- Your own share image is not carried. The social card uses the site default unless an editor sets a hero.
-- Whether your consent covers copying images is an open question for the editors, and re-hosting is not built.
+- Memo accepts png, jpeg, webp, gif and avif. The first copied image becomes the note's share image, so the social card uses your first image.
+- An image over 200 KB is still copied, and the editor sees a warning. An image over 5 MB keeps its original link. So does any image past 25 MB or 30 images in one post. Those links still point at your server, so keep them online.
+- An SVG file in an `<img>` stays linked to your site, with a warning. Memo does not copy it. Inline `<svg>` rich figures work as before.
+- An `http:` or `data:` image is dropped, and so is an `<img>` inside a `figure.fig`. The editor now sees a `dropped_images=N` warning.
+- Memo does not compress or resize the copy. Aim for a raster under 200 KB and at least 704 pixels wide. The editors' checklist on the media standard page covers both.
+- When memo takes your note down, it deletes the copies too. When an editor re-imports an edited post, memo removes the old copies after about 30 minutes. Takedown runs once the takedown switch is on, and the guest writer report tracks that status.
 
-The one live guest note, "Designing Out SNAP Fraud", shows what survives. All 26 of its rich figures came through intact. It has no raster image, so the hotlink path is untested in production.
+The one live guest note, "Designing Out SNAP Fraud", has no raster image. All 26 of its rich figures came through intact, and it has not yet exercised the copy path.
 
 Your site probably does more than memo carries over. The table lists the common cases. The full list is in the [Memo media and styling standard](/memo-media-standard).
 
@@ -331,7 +334,7 @@ Your site probably does more than memo carries over. The table lists the common 
 | Page-wide CSS, theme or layout | Not loaded. Only figure stylesheets load   | Put figure styles in a `figures.css`, with `fig` in the path   |
 | Inline `<script>` or `<style>` | Ignored                                    | Use figkit attributes such as `data-tip` and `data-animate`    |
 | `<iframe>` embeds              | Removed                                    | Link out, and add a still image with alt text                  |
-| `<img>` inside `figure.fig`    | Dropped silently                           | Draw it as inline SVG, or place the image in a plain paragraph |
+| `<img>` inside `figure.fig`    | Dropped, with a `dropped_images` warning   | Draw it as inline SVG, or place the image in a plain paragraph |
 | `<svg>` outside `figure.fig`   | Removed, with a `dropped_figures` warning  | Wrap it in `<figure class="fig">`                              |
 
 Rich figures follow their own contract at [`memo.d.foundation/figures.md`](https://memo.d.foundation/figures.md). The static figure must read fully with scripts off, and memo loads at most three same-host stylesheets whose path contains `fig`.
@@ -401,13 +404,11 @@ Memo builds a contributor page for every author string it finds. The route is `/
 
 A Discord username is the wrong value. Discord names create wrong pages, and the editors spent a pass cleaning them up: brainery #387 credited `minhluuquang` instead of the `0xm` alias, #388 credited `tuanddd` and `zlatanpham` instead of Discord aliases, and #389 credited `tieubao` instead of the `baddeed` alias. All three merged on 2026-10-18.
 
-<!-- ch7: screenshot pending, headless browser capture only -->
-
 ![](assets/contribute-to-memo-fig9-shot-contributor.png)
 
-_Fig. 9: A contributor page: name, avatar, linked GitHub and Discord accounts, and a DID. Memo shows no team or fellow badge on this page today._
+_Fig. 9: The header of a contributor page: name, avatar, the Team badge, and linked GitHub and Discord accounts with a DID._
 
-The page shows a name, an avatar, a bio and links when the contributor has a profile record. A handle with no profile still gets a page. It shows the handle as the name and no picture. The page shows no team, fellow or guest badge today. Guest writers get a handle that memo assigns, so they never choose a byline in frontmatter.
+The page shows a name, an avatar, a bio and links when the contributor has a profile record. A handle with no profile still gets a page. It shows the handle as the name and no picture. The page also shows one badge. Team marks current staff or contractors. Fellow marks former staff or contractors, taken from the Notion Contractors status that memo syncs into its people list. Guest marks an approved guest writer from the guest registry. A handle with no known source shows no badge, as `/contributor/claude` does. Guest writers get a handle that memo assigns, so they never choose a byline in frontmatter.
 
 If you are outside the Dwarves Discord and want to prove that a GitHub byline is yours, open [memo.d.foundation/claim](https://memo.d.foundation/claim). You add one token to your GitHub profile README, and memo checks it. There is no account to create and no password to enter.
 

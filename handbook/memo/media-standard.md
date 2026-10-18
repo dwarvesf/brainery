@@ -64,15 +64,15 @@ A rule that says target is a budget the editors check by hand. No automatic chec
 ## Hotlinked versus re-hosted media
 
 27. **Repo posts.** Commit all media next to the post, under `assets/`. Raster files move to the storage bucket after the merge, and SVG stays in git. Test: `relative-link-exists` is green, and `gh run list -R dwarvesf/brainery --workflow media-sync.yml --limit 1` shows success after the merge.
-28. **Guest imports.** Memo hotlinks your image address and does not copy the file. The image lives as long as you keep the same address online. Test: the editor opens each image address during review and confirms status 200 and a matching content type.
-29. **Guest imports.** Serve every image over `https` from a stable address with no version in it. Memo drops `http:` and `data:` images with no warning, so a post that relies on them loses them silently. Test: `rg '<img[^>]*src="(http:|data:)'` on your source page finds nothing.
-30. **Guest imports, target.** Keep each hotlinked image within the raster targets in rules 6 to 8. Memo does not compress it. Test: `curl -sI <url>` shows a `content-length` of 204800 or less.
-31. **Guest imports.** Remove a post through the removal flow before you move or delete its images. A moved image breaks the memo copy until the next re-check.
+28. **Guest imports.** At publish, memo copies each `https` raster image (png, jpeg, webp, gif or avif, checked by file bytes) into its own storage and serves it from `memo.d.foundation/content/guest-media/`. The first copied image becomes the note's share image. Nothing is copied at submit or preview. An SVG file in an `<img>` is not copied. It stays linked to your site, with a warning, so keep it online. Inline `<svg>` rich figures are unaffected. Test: after publish, the image addresses on the note page contain `/content/guest-media/`, each returns status 200 with a matching content type, and `rg '<img[^>]*src="[^"]*\.svg'` on your source page lists every image that stays linked.
+29. **Guest imports.** Serve every image over `https` from an address that stays online until the editor publishes. Memo drops `http:` and `data:` images and shows the editor a `dropped_images=N` warning. Test: `rg '<img[^>]*src="(http:|data:)'` on your source page finds nothing, and the editor preview shows no `dropped_images` warning.
+30. **Guest imports, target.** Keep each image within the raster targets in rules 6 to 8. Memo does not compress it. An image over 200 KB is still copied, with an editor warning. An image over 5 MB, or any image past 25 MB or 30 images in one post, keeps its original link, so it must stay online. Test: `curl -sI <url>` shows a `content-length` of 204800 or less, and the post stays within 25 MB and 30 images.
+31. **Guest imports.** Memo deletes a note's image copies when the note is taken down. After an editor re-imports an edited post, memo removes the old copies about 30 minutes later. Takedown runs once the takedown switch is on, and the guest writer report tracks that status. Test: after a takedown, a former copy address returns `404`.
 
 ## Third-party images and attribution
 
 32. **Everyone.** Use only images you made, own or hold a licence for. Credit any other image on the line under the caption: `Image: <author>, <source link>, <licence>`. Do not scrape images. Test: every image whose origin is not the author carries a credit line.
-33. **Guest imports.** The consent line on a guest note covers the text. It does not clearly cover copying images, so memo does not copy them today. Do not ask for a third-party image to be re-hosted without that image's licence. Whether consent should cover images is an open question for the editors.
+33. **Guest imports.** A writer's consent covers memo storing a copy of the images in an imported post, and removing the post removes the copies. It does not cover a third-party image the writer has no licence for. Test: every image the writer did not make carries a credit line (rule 32).
 
 ## Interactive figures in guest posts
 
@@ -100,12 +100,12 @@ The contract lives at [`memo.d.foundation/figures.md`](https://memo.d.foundation
 | Inline `<script>` or `<style>`               | Ignored                                     | Use figkit attributes (`data-tip`, `data-animate`, `data-fk-*`) |
 | Breakout widths, negative margins            | Overridden by memo's figure box             | Design for the column and the 60rem cap                         |
 | `<iframe>` embeds (video, tweets, sandboxes) | Removed                                     | Link out, and add a still image with alt text                   |
-| `<img>` inside a `figure.fig`                | Dropped silently                            | Draw it as inline SVG, or put the image in a plain paragraph    |
+| `<img>` inside a `figure.fig`                | Dropped, with a `dropped_images` warning    | Draw it as inline SVG, or put the image in a plain paragraph    |
 | `<picture>` with `srcset` and sources        | Only the fallback `<img>` is kept           | Make the fallback `<img>` the best single file                  |
 | `<svg>` outside `figure.fig`                 | Removed, with a `dropped_figures` warning   | Wrap it in `<figure class="fig">`                               |
 | Inline `style=` on prose                     | Removed                                     | Style in figure CSS only, or accept memo's prose style          |
-| `http:` or `data:` images                    | Removed silently                            | Use `https` image addresses                                     |
-| Your own share image                         | Not carried. The card uses the site default | Ask the editors to set a hero                                   |
+| `http:` or `data:` images                    | Removed, with a `dropped_images` warning    | Use `https` image addresses                                     |
+| Your own share image                         | Not carried. The first copied image is used | Put the image you want on the card first in the post            |
 | Header, nav, footer, aside                   | Dropped                                     | Keep the post in one `<article>`                                |
 
 ## House palette
@@ -118,7 +118,7 @@ The contract lives at [`memo.d.foundation/figures.md`](https://memo.d.foundation
 
 Run this before approving any post, repo or imported.
 
-- [ ] Open every image address. Status 200, correct type, not an error page.
+- [ ] Open every image address. Status 200, correct type, not an error page. On a guest import, open the memo copy after publish.
 - [ ] Check bytes: raster 200 KB or less, SVG 60 KB or less (150 KB with a reason).
 - [ ] Check raster width: 704 to 1600 pixels, with no blurry upscale.
 - [ ] Open the page in light and dark. No transparent figure floats on the dark theme and no edge is clipped.
@@ -126,7 +126,7 @@ Run this before approving any post, repo or imported.
 - [ ] Every image has real alt text, and every figure has a caption.
 - [ ] Check the hero. The first image reads at thumbnail size, and the share card is not the site default by accident.
 - [ ] Confirm credit for every image the author did not make, with no scraped images.
-- [ ] Guest import: list what the importer dropped in the preview warnings, and ask the writer to fix `http:`, `data:` and `<img>`-in-figure cases.
-- [ ] Guest import: confirm the writer knows images are hotlinked and must stay online.
+- [ ] Guest import: read the preview warnings, including `dropped_images=N`, and ask the writer to fix `http:`, `data:` and `<img>`-in-figure cases.
+- [ ] Guest import: after publish, confirm each raster image links to `content/guest-media/`. Warn the writer to keep SVG files and any image over 5 MB online, because memo keeps those original links.
 - [ ] Interactive figure: view it with scripts off. The static figure must be complete.
 - [ ] Repo post: run `xmllint --noout` on each SVG and `./pre-commit-hook.sh install`, and read the formatting bot's diff.
