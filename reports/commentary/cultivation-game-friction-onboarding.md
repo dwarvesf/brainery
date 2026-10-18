@@ -58,7 +58,7 @@ One market data point: PCGamesN reported in March 2021 that Tale of Immortal, a 
 
 Two weeks later, under a graphics update, tuanddd proposed a story opening: "làm story kiểu mình là đại thần tiên trên trời, đầu game nhảy vô là full trang bị + phép, đi tung hoành tùm lum xong bị đày xuống trùng sinh thành người thường (reset lv1)" (make the story so you are a great immortal in the heavens; you start with full gear and spells, wreak havoc, then get banished and reborn as a mortal, reset to level 1). bievh answered "legit" and said he would try it.
 
-Read against phucld's confusion, which nobody in the thread did, such a prologue shows the fantasy at full strength before the rice grind. It also gives the level-1 start a cause inside the fiction. Whether the opening is playable or a cutscene did not come up.
+Nobody in the thread tied it to phucld's confusion. Read that way, such a prologue shows the fantasy at full strength before the rice grind. It also gives the level-1 start a cause inside the fiction. Whether the opening is playable or a cutscene did not come up.
 
 ## Sources
 
