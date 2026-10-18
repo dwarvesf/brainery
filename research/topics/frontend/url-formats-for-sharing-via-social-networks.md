@@ -1,6 +1,6 @@
 ---
 draft: false
-title: URL formats for sharing via social networks
+title: URL formats for sharing a link on social networks
 description: Each social network has its own unique way of handling URLs, and understanding the correct formatting can make a significant difference in the visibility and engagement of your shared content.
 date: 2023-05-26
 authors:
@@ -57,11 +57,11 @@ const sharingUrl = `https://button-share.zalo.me/share_external?d=${encodeB64(JS
 
 ## Other platforms
 
-Check out some other formats that allow you to share a URL via some social networks.
+Check out some other formats that allow you to share a URL via some social networks. Update (2026): X documents its share link as [`https://x.com/intent/tweet`](https://docs.x.com/x-for-websites/post-button/guides/web-intent) with `text` and `url` parameters, and Telegram documents [`t.me/share/url?url=`](https://core.telegram.org/api/links). Meta documents the Facebook [Share Dialog](https://developers.facebook.com/docs/sharing/reference/share-dialog) as `https://www.facebook.com/dialog/share?app_id=${appId}&href=${url}`, and does not document `sharer.php`.
 
-| Platform | URL format                                                              |
-| -------- | ----------------------------------------------------------------------- |
-| LinkedIn | <pre>`https://www.linkedin.com/sharing/share-offsite/?url=${url}`</pre> |
-| Twitter  | <pre>`http://twitter.com/share?url=${url}`</pre>                        |
-| Telegram | <pre>`https://telegram.me/share/?url=${url}`</pre>                      |
-| Reddit   | <pre>`https://www.reddit.com/submit?url=${url}&title=${title}`</pre>    |
+| Platform    | URL format                                                              |
+| ----------- | ----------------------------------------------------------------------- |
+| LinkedIn    | <pre>`https://www.linkedin.com/sharing/share-offsite/?url=${url}`</pre> |
+| X (Twitter) | <pre>`https://x.com/intent/tweet?url=${url}`</pre>                      |
+| Telegram    | <pre>`https://telegram.me/share/?url=${url}`</pre>                      |
+| Reddit      | <pre>`https://www.reddit.com/submit?url=${url}&title=${title}`</pre>    |

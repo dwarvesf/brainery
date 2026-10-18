@@ -299,4 +299,6 @@ Not only store data, you can also process data, fetch data from remote source, c
 
 React hooks used to be proposed specification but since react 16.8: the one with hooks, It’s has been made to become official feature so your guys can just use it sparingly to splitting your repetitive code into.
 
-Here is the full source code of our application: [https://github.com/phmngocnghia/modal-hook](https://github.com/phmngocnghia/modal-hook)
+Update (2026): the React docs now say class components are still supported but are not recommended in new code ([Component reference](https://react.dev/reference/react/Component)). Read the class and render props examples above as the "before" picture. Custom hooks are the standard way to share this kind of logic.
+
+The full source code of our application was on GitHub as phmngocnghia/modal-hook. The repository is gone.

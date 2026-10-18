@@ -11,6 +11,8 @@ redirect:
   - /WYmA8w
 ---
 
+_Snapshot from 2020. Some tools and numbers have changed._
+
 ![](assets/infinite-image-gallery-with-r3f---an-approach_eb91b6c0aa14997e1a88191e1acaa8dd_md5.webp)
 
 As I was looking for inspiration on Awwwards, I came across this beautiful little site: [Bien Joué](https://bien-joue.ca/fr/). The site features an infinite image gallery in a 3D space, with some amazing WebGL effects on user interactions.

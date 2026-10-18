@@ -11,6 +11,8 @@ redirect:
   - /LJ20vQ
 ---
 
+_Snapshot from 2021. Some tools and numbers have changed._
+
 ![](assets/getting-started-with-webflow_5386df53f5360ba922dbe2c4b467dfdb_md5.webp)
 
 No-code platform has becoming a thing recently. With convenient and user-friendly workflow, no-code platform is a must to pick up for design and operation process, to shorten the development time and remove the misunderstanding between them with developers.

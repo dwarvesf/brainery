@@ -8,6 +8,8 @@ authors:
   - tieubao
 ---
 
+_Snapshot from 2015. Some tools and numbers have changed._
+
 Avoid reinventing the wheel by following these guidelines.
 
 > Note: this page predates SwiftUI, Swift concurrency (`async`/`await`) and Swift Package Manager as a mainstream dependency tool, and parts of it assume Objective-C and the tooling of that time. JetBrains has also discontinued AppCode. Treat the library and tooling sections as historical context and check current Apple documentation before adopting a recommendation.
@@ -107,6 +109,9 @@ Note that from now on, you'll need to open the `.xcworkspace` file instead of `.
 will update all pods to the newest versions permitted by the Podfile. You can use a wealth of [operators][cocoapods-pod-syntax] to specify your exact version requirements.
 
 [cocoapods]: https://cocoapods.org/
+
+Update (2026): the CocoaPods team [plans to make trunk read-only][cocoapods-trunk-readonly]. Per their schedule, trunk stops accepting new Podspecs on December 2nd, 2026. Existing builds keep working, but pods from trunk will not get new versions after that.
+[cocoapods-trunk-readonly]: https://blog.cocoapods.org/CocoaPods-Specs-Repo/
 [cocoapods-pod-syntax]: http://guides.cocoapods.org/syntax/podfile.html#pod
 [committing-pods]: https://www.dzombak.com/blog/2014/03/including-pods-in-source-control.html
 [committing-pods-cocoapods]: https://guides.cocoapods.org/using/using-cocoapods.html#should-i-check-the-pods-directory-into-source-control
@@ -448,7 +453,7 @@ The most important point is to keep these consistent across your project's class
 - GitHub: [Swift](https://github.com/github/swift-style-guide) and [Objective-C](https://github.com/github/objective-c-style-guide)
 
 - Ray Wenderlich: [Swift](https://github.com/raywenderlich/swift-style-guide) and [Objective-C](https://github.com/raywenderlich/objective-c-style-guide)
-- Google: [Objective-C](https://google.github.io/styleguide/objcguide.xml)
+- Google: [Objective-C](https://google.github.io/styleguide/objcguide.html)
 - The New York Times: [Objective-C](https://github.com/NYTimes/objective-c-style-guide)
 - Sam Soffes: [Objective-C](https://gist.github.com/soffes/812796)
 - Luke Redpath: [Objective-C](http://lukeredpath.co.uk/blog/2011/06/28/my-objective-c-style-guide/)
@@ -559,9 +564,9 @@ This has the additional advantage of allowing you to swap out the entire Analyti
 First you should make your app send crash logs onto a server somewhere so that you can access them. You can implement this manually (using [PLCrashReporter][plcrashreporter] and your own backend) but it’s recommended that you use an existing service instead , for example one of the following:
 
 - [Fabric](https://get.fabric.io)
-- [HockeyApp](http://hockeyapp.net)
+- HockeyApp (retired by Microsoft on 11/17/2019, see the [lifecycle page](https://learn.microsoft.com/en-us/lifecycle/products/hockeyapp))
 - [Crittercism](https://www.crittercism.com)
-- [Splunk MINTexpress](https://mint.splunk.com)
+- Splunk MINTexpress
 - [Instabug](https://instabug.com/)
 
 [plcrashreporter]: https://www.plcrashreporter.org
@@ -631,14 +636,13 @@ Whenever you want to run software on an actual device (as opposed to the simulat
 
 Besides certificates, there are also **provisioning profiles**, which are basically the missing link between devices and certificates. Again, there are two types to distinguish between development and distribution purposes:
 
-- **Development provisioning profile:** It contains a list of all devices that are authorized to install and run the software. It is also linked to one or more development certificates, one for each developer that is allowed to use the profile. The profile can be tied to a specific app or use a wildcard App ID (\*). The latter is [discouraged][jared-sinclair-signing-tips], because Xcode is notoriously bad at picking the correct files for signing unless guided in the right direction. Also, certain capabilities like Push Notifications or App Groups require an explicit App ID.
+- **Development provisioning profile:** It contains a list of all devices that are authorized to install and run the software. It is also linked to one or more development certificates, one for each developer that is allowed to use the profile. The profile can be tied to a specific app or use a wildcard App ID (\*). The latter is discouraged, because Xcode is notoriously bad at picking the correct files for signing unless guided in the right direction. Also, certain capabilities like Push Notifications or App Groups require an explicit App ID.
 
 - **Distribution provisioning profile:** There are three different ways of distribution, each for a different use case. Each distribution profile is linked to a distribution certificate, and will be invalid when the certificate expires.
-  - **Ad-Hoc:** Just like development profiles, it contains a whitelist of devices the app can be installed to. This type of profile can be used for beta testing on 100 devices per year. For a smoother experience and up to 1000 distinct users, you can use Apple's newly acquired [TestFlight][testflight] service. Supertop offers a good [summary of its advantages and issues][testflight-discussion].
+  - **Ad-Hoc:** Just like development profiles, it contains a whitelist of devices the app can be installed to. This type of profile can be used for beta testing on 100 devices per year. For a smoother experience, you can use Apple's [TestFlight][testflight] service, which today allows up to 100 internal testers and up to 10,000 external testers. Supertop offers a good [summary of its advantages and issues][testflight-discussion].
   - **App store:** This profile has no list of allowed devices, as anyone can install it through Apple's official distribution channel. This profile is required for all App store releases.
   - **Enterprise:** Just like App store, there is no device whitelist, and the app can be installed by anyone with access to the enterprise's internal "app store", which can be just a website with links. This profile is available only on Enterprise accounts.
 
-[jared-sinclair-signing-tips]: http://blog.jaredsinclair.com/post/116436789850/
 [testflight]: https://developer.apple.com/testflight/
 [testflight-discussion]: http://blog.supertop.co/post/108759935377/app-developer-friends-try-testflight
 

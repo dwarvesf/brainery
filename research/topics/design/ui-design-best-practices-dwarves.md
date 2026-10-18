@@ -12,6 +12,8 @@ redirect:
   - /9KonVA
 ---
 
+_Snapshot from 2020. Some tools and numbers have changed._
+
 One of the factors that could make or break a project is the process of communication between designers and developers. Designers and developers have their own working “_languages_.”
 
 It’s important to find a protocol in which a mutual language can bridge the gap between designers and developers.  This protocol helps everyone in the team understand the ultimate objective of the project, minimize the guesswork, save time and effort, ensuring the high-quality standard outcomes we promised to deliver to clients.

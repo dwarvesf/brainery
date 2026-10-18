@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Why we chose our tech stack accelerating development with a robust frontend solution
+title: Why we chose our frontend tech stack
 description: "We pride ourselves on being a team of seasoned technology experts, passionate about crafting innovative solutions for our clients. With years of experience in the technology industry, we understand the importance of selecting the right tools and technologies to deliver exceptional results. In today's fast-paced world, staying ahead of the competition requires building and deploying features quickly without sacrificing quality or stability."
 date: 2023-03-20
 authors:
@@ -12,6 +12,8 @@ tags:
 redirect:
   - /MA1Bhw
 ---
+
+_Snapshot from 2023. Some tools and numbers have changed._
 
 We pride ourselves on being a team of seasoned technology experts, passionate about crafting innovative solutions for our clients. With years of experience in the technology industry, we understand the importance of selecting the right tools and technologies to deliver exceptional results. In today's fast-paced world, staying ahead of the competition requires building and deploying features quickly without sacrificing quality or stability. When selecting a technology for our frontend tech stack, the foremost question we ask is: "Has this technology achieved a certain level of stability and maturity?" Quick wins are important, but truly transformative products, teams, and infrastructures require years of sustained effort. In this article, we'll discuss the key components of our tech stack and explain how they contribute to our ability to develop high-quality, scalable applications at lightning-fast speeds.
 
@@ -59,13 +61,15 @@ We endorse **[React Hook Forms](https://react-hook-form.com/)** for form managem
 
 Although TailwindCSS may initially appear verbose and lead to larger HTML files, the framework's automatic removal of unused CSS in production builds ensures that the final bundle remains lean and performant. Additionally, the utility-first approach quickly becomes intuitive, leading to faster development and easier maintenance.
 
+Update (2026): Tailwind v4 moved configuration into CSS with `@import "tailwindcss"` and `@theme`. A `tailwind.config.js` file is no longer detected automatically and must be loaded with `@config` ([upgrade guide](https://tailwindcss.com/docs/upgrade-guide)).
+
 ## Architecture
 
 Our frontend applications rely on a thoughtfully designed, multi-layered architecture that guarantees production-readiness and exceptional results. Each layer plays a critical role in the overall performance and scalability of the application.
 
 ![](assets/why-we-chose-our-tech-stack-accelerating-development-with-a-robust-frontend-solution_1ff4c200530392d7cfd5ff04c8edb60a_md5.webp)
 
-### Service Connector: Fetch API
+### Service connector: Fetch API
 
 The service connector layer is responsible for handling communication between the frontend and backend services. We utilize the Fetch API for all our API calls. By integrating the [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) with SWR, we can efficiently manage API requests, caching, and error handling. This combination ensures a fast and reactive user experience while maintaining a clean and organized codebase.
 
@@ -99,7 +103,7 @@ When testing React components, we utilize the **[React Testing Library](https://
 
 ### Cypress
 
-For end-to-end testing, we rely on **[Cypress](https://www.cypress.io/)**, a powerful and user-friendly testing framework designed specifically for modern web applications. While Cypress excels in many areas, it currently supports only the Chromium-based browsers for end-to-end testing. However, given that the majority of users utilize Chromium-based browsers, and since Cypress tests closely simulate real-world user interactions, we believe that this limitation does not significantly impact our ability to deliver high-quality applications. Cypress enables us to write reliable, easy-to-debug tests that run directly in the browser, closely simulating real-world user interactions. This allows us to identify and resolve issues that might not be caught by unit and integration tests, ensuring a seamless and bug-free user experience.
+For end-to-end testing, we rely on **[Cypress](https://www.cypress.io/)**, a powerful and user-friendly testing framework designed specifically for modern web applications. While Cypress excels in many areas, it currently supports only the Chromium-based browsers for end-to-end testing (update 2026: Cypress now also supports Firefox, and WebKit as an experimental option, per the [Cypress docs](https://docs.cypress.io/app/references/launching-browsers)). However, given that the majority of users utilize Chromium-based browsers, and since Cypress tests closely simulate real-world user interactions, we believe that this limitation does not significantly impact our ability to deliver high-quality applications. Cypress enables us to write reliable, easy-to-debug tests that run directly in the browser, closely simulating real-world user interactions. This allows us to identify and resolve issues that might not be caught by unit and integration tests, ensuring a seamless and bug-free user experience.
 
 ## Conclusion
 
