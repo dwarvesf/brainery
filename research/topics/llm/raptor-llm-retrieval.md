@@ -1,6 +1,6 @@
 ---
-draft: false
-title: "RAPTOR: Tree-based retrieval for language models"
+draft: true
+title: "RAPTOR: tree-based retrieval for language models"
 description: An overview of RAPTOR, a novel approach for improving retrieval-augmented language models for long documents using hierarchical tree summaries.
 date: 2024-07-10
 authors:
@@ -9,8 +9,7 @@ tags:
   - document-processing
   - information-retrieval
   - llm
-redirect:
-  - /xUMeFw
+redirect: []
 ---
 
 ## What is it?

@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "The grind behind GEO: what it really takes to stay seen"
 description: "Discover the real work behind staying visible in the age of AI search. This guide breaks down the habits, tracking, and edits that keep your memos in the game."
 date: 2025-06-18
@@ -9,8 +9,7 @@ tags:
   - workflow
   - writing
   - AI
-redirect:
-  - /geo-grind-guide
+redirect: []
 ---
 
 It’s easy to talk about GEO like it’s a checklist: optimize your memo, track your reference rate, celebrate when an AI finally quotes you. But the reality is messier. Staying visible in the age of generative engines is a grind. It’s not a one-time win, it’s a cycle of writing, tracking, editing, and adapting. Here’s what the work really looks like behind the scenes.

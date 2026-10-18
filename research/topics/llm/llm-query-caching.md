@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Query caching for large language models
 description: An exploration of query caching in Large Language Models (LLMs), focusing on how semantic vector databases can drastically improve efficiency and reduce computational costs by reusing cached answers for semantically similar queries.
 date: 2023-06-09
@@ -10,8 +10,7 @@ tags:
   - ai
   - vector-database
   - llm
-redirect:
-  - /vWIcXA
+redirect: []
 ---
 
 It's quite fascinating to see the increasingly pivotal role that Large Language Models (LLMs) are playing in various applications, covering the spectrum from natural language processing tasks to predictive typing, and more. An undeniable challenge, however, comes in the form of processing speed and computational cost associated with these models. But there's light at the end of the tunnel with a ground-breaking approach known as query caching, which holds potential for drastically transforming LLMs' efficiency and cost-effectiveness.

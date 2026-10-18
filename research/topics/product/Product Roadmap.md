@@ -1,13 +1,12 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Product roadmap (research note)
+description: Product roadmap is created at the beginning of product development.
+date: 2026-10-18
 tags:
   - product
   - roadmap
-redirect:
-  - /F0hupQ
+redirect: []
 ---
 
 ## What is a product roadmap
@@ -46,6 +45,6 @@ For products that rely on foreign/external investment, product roadmap is what y
 
 #### Reference
 
-- [What is a product roadmap? The ultimate guide and resources (productplan.com)](https://www.productplan.com/learn/what-is-a-product-roadmap/)
-- [What is a product roadmap? Definition and product roadmap examples (airfocus.com)](https://airfocus.com/glossary/what-is-a-product-roadmap/)
-- [A complete guide to product roadmaps (with examples) | Aha!](https://www.aha.io/roadmapping/guide/product-roadmap)
+- [What is a product roadmap? the ultimate guide and resources (productplan.com)](https://www.productplan.com/learn/what-is-a-product-roadmap/)
+- [What is a product roadmap? definition and product roadmap examples (airfocus.com)](https://airfocus.com/glossary/what-is-a-product-roadmap/)
+- [A complete guide to product roadmaps (with examples) | aha!](https://www.aha.io/roadmapping/guide/product-roadmap)

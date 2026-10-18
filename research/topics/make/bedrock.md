@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: From beta to bedrock
 description: Build products that actually stick by focusing on what users need, not feature bloat. Learn how the bedrock philosophy beats AI cloning and creates lasting value through simplicity and trust.
 date: 2025-01-27
@@ -14,6 +14,7 @@ tags:
   - design
   - focus
   - unix
+redirect: []
 ---
 
 Most products fail because they try to do everything. They become "feature salad," bloated with unnecessary features that confuse users.

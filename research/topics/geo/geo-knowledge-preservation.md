@@ -1,6 +1,6 @@
 ---
-draft: false
-title: "GEO and the future of knowledge: Who gets to be remembered?"
+draft: true
+title: "GEO and the future of knowledge: who gets to be remembered?"
 description: "As AI increasingly selects what we read and recall, understanding citations becomes crucial. Discover whose stories risk fading away and how to keep meaningful knowledge visible"
 date: 2025-06-12
 authors:
@@ -9,8 +9,7 @@ tags:
   - guide
   - writing
   - AI
-redirect:
-  - /geo-citation-future
+redirect: []
 ---
 
 > **TL;DR**: As generative AI engines take the wheel in deciding what we see, read, and remember, the question isn’t just about how to optimize for algorithms. The real question is whose stories survive the next wave of digital memory and whose fade away.
@@ -40,6 +39,7 @@ If a local historian’s blog isn’t cited by generative searching, does that k
 If you’re a writer, editor, or builder of digital spaces, you’re part of this story. The choices you make, what you publish, how you structure it, and who you cite decide what gets remembered.
 
 We should ask hard questions:
+
 - How do we make sure underrepresented voices aren’t erased by algorithmic convenience?
 - What can we do to keep the web weird, diverse, and surprising?
 - How do we balance optimization with authenticity?
@@ -50,4 +50,4 @@ GEO gives us tools to surface knowledge, but it also gives us a responsibility. 
 
 If AI is the new librarian, let’s make sure its shelves aren’t missing the best, strangest, and most vital books.
 
-*Who gets to be remembered? The answer isn’t written yet. It’s up to us to make sure it’s not just the loudest voices, but the ones that matter most.*
+_Who gets to be remembered? The answer isn’t written yet. It’s up to us to make sure it’s not just the loudest voices, but the ones that matter most._
