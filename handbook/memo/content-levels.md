@@ -9,8 +9,7 @@ tags:
   - knowledge-base
   - memo
   - zettelkasten
-redirect:
-  - /vYSR0A
+redirect: []
 draft: true
 ---
 
