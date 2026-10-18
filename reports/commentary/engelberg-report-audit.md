@@ -13,6 +13,7 @@ tags:
   - strategy
 slug: engelberg-report-audit
 series: harness-engineering
+series_part: 3
 redirect:
   - /essays/engelberg-report-audit
 ---

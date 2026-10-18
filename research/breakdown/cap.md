@@ -4,6 +4,9 @@ title: CAP breakdown
 short_title: CAP
 description: Technical analysis of CAP, an open-source, cross-platform screen recording system and its Instant mode screen recording implementation.
 date: 2025-09-09
+series: breakdown
+series_part: 12
+series_total: 12
 authors:
   - R-Jim
 tags:

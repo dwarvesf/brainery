@@ -1,8 +1,11 @@
 ---
 draft: false
-title: Architecture
-description: An overview of Brainery's architecture, detailing how it ingests, processes, and transforms data from diverse sources into a dynamic knowledge base.
+title: Brainery architecture
+description: "An overview of Brainery's architecture, detailing how it ingests, processes, and transforms data from diverse sources into a dynamic knowledge base."
 date: 2025-05-06
+series: brainery-memory
+series_part: 2
+series_total: 9
 authors:
   - tieubao
   - grok

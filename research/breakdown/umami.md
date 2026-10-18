@@ -4,6 +4,9 @@ title: Umami breakdown
 short_title: Umami
 description: Comprehensive technical analysis of Umami, a modern, privacy-focused web analytics platform.
 date: 2025-08-15
+series: breakdown
+series_part: 7
+series_total: 12
 authors:
   - chinhld12
 tags:

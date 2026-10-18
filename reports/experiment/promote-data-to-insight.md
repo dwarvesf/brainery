@@ -3,6 +3,9 @@ draft: false
 title: "Promoting raw data to insight"
 description: This post explains the multi-stage process of transforming raw data into structured information, and then synthesizing that information into persistent insight and knowledge within a true second brain, leveraging tools like TimescaleDB and LLMs.
 date: 2025-05-07
+series: brainery-memory
+series_part: 4
+series_total: 9
 authors:
   - monotykamary
 tags:

@@ -3,6 +3,9 @@ draft: false
 title: Append-only concept embedding log
 description: RFC proposing a novel approach to track concept evolution using TimescaleDB with pgvector/pgvectorscale, enabling historical semantic analysis and preventing catastrophic forgetting in continual learning systems.
 date: 2025-05-08
+series: brainery-memory
+series_part: 5
+series_total: 9
 authors:
   - monotykamary
 tags:

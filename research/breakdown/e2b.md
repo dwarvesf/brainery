@@ -4,6 +4,9 @@ title: 'E2b breakdown'
 short_title: E2B
 description: 'Technical analysis of E2B, a cloud infrastructure platform that runs AI-generated code in secure, isolated sandboxes using lightweight virtual machines that start in under 200ms.'
 date: 2025-08-27
+series: breakdown
+series_part: 10
+series_total: 12
 authors:
   - ngolapnguyen
 tags:

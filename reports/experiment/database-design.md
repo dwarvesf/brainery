@@ -1,8 +1,11 @@
 ---
 draft: false
 title: Database design and philosophy
-description: A migration-less, append-only database design using TimescaleDB's hypertables and continuous aggregates to capture observational data and detect emerging patterns through LLM analysis.
+description: "A migration-less, append-only database design using TimescaleDB's hypertables and continuous aggregates to capture observational data and detect emerging patterns through LLM analysis."
 date: 2025-05-08
+series: brainery-memory
+series_part: 8
+series_total: 9
 authors:
   - monotykamary
 tags:

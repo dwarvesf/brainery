@@ -4,6 +4,9 @@ title: "Context7 breakdown"
 short_title: Context7
 description: "Technical analysis of Context7, an intelligent documentation indexing and retrieval system that transforms raw library docs into AI-optimized, ranked snippets for real-time LLM context injection"
 date: 2025-08-27
+series: breakdown
+series_part: 9
+series_total: 12
 authors:
   - hthai2201
 tags:

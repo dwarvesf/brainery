@@ -4,6 +4,9 @@ title: 'Mem0 & Mem0-Graph breakdown'
 short_title: Mem0 & Mem0-Graph
 description: 'Technical analysis of Mem0, a scalable memory architecture for LLMs, and its graph-based variant, Mem0-Graph, designed for long-term conversational coherence.'
 date: 2025-08-07
+series: breakdown
+series_part: 5
+series_total: 12
 authors:
   - minhluuquang
 tags:

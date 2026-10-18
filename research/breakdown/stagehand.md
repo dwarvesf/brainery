@@ -4,6 +4,9 @@ title: Stagehand breakdown
 short_title: Stagehand
 description: A comprehensive technical breakdown of Stagehand, an advanced browser automation framework by Browserbase
 date: 2025-08-28
+series: breakdown
+series_part: 11
+series_total: 12
 authors:
   - chinhld12
 tags:

@@ -4,6 +4,9 @@ title: Zen MCP breakdown
 short_title: Zen MCP
 description: 'Technical analysis of the Zen MCP (Model Context Protocol) Server architecture, implementation, and design patterns.'
 date: 2025-07-29
+series: breakdown
+series_part: 3
+series_total: 12
 authors:
   - vdhieu
 tags:

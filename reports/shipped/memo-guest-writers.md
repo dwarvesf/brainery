@@ -11,6 +11,7 @@ tags:
   - architecture
 slug: memo-guest-writers
 series: harness-engineering
+series_part: 7
 ---
 
 The first guest post memo ever reviewed was judged on 175 characters. The post, "Designing Out SNAP Fraud" from truonghan.com, runs to 93,252 characters of extracted text. The extractor took the first `<article>` element on the page, which happened to be a figure card, and the review agent read that fragment and held the post as incoherent. An editor rejected it as an extraction bug and resubmitted it. The resubmit never showed up in the editors' channel, because its notification key had already been used and was deduplicated.
