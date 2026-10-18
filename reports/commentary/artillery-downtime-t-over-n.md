@@ -38,12 +38,12 @@ Take a ten-minute match with four players. Each player gets about two and a half
 
 ## Four layers of feedback
 
-| Layer                 | What came up, and who said it                                                                                                                                                                                          |
-| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| First-session clarity | tieubao, on the night of the release: the wind changes constantly and the game is a bit hard to play; add a countdown before the wind changes; the angle reads relative to horizontal                                        |
-| Core-loop feel        | datnguyennnx: the weapons lack force, and this kind of game lives on weapon effects; keep the Gunny base and vary the effects, the way Valorant does. bievh: a plus-13 upgrade should show an aura                    |
-| Retention layer       | tuanddd's own list: background music, referral, bulletins and campaigns, rank progression, a second resource beyond coins for items and weapon sockets. bievh: special characters                                     |
-| Launch constraints    | tuanddd: the name lobshot reads awkwardly, and keeping it right after approval risks the attention of "mấy anh catalog" (the catalog people)                                                                           |
+| Layer                 | What came up, and who said it                                                                                                                                                                      |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| First-session clarity | tieubao, on the night of the release: the wind changes constantly and the game is a bit hard to play; add a countdown before the wind changes; the angle reads relative to horizontal              |
+| Core-loop feel        | datnguyennnx: the weapons lack force, and this kind of game lives on weapon effects; keep the Gunny base and vary the effects, the way Valorant does. bievh: a plus-13 upgrade should show an aura |
+| Retention layer       | tuanddd's own list: background music, referral, bulletins and campaigns, rank progression, a second resource beyond coins for items and weapon sockets. bievh: special characters                  |
+| Launch constraints    | tuanddd: the name lobshot reads awkwardly, and keeping it right after approval risks the attention of "mấy anh catalog" (the catalog people)                                                       |
 
 ## The options the thread raised
 
@@ -51,12 +51,12 @@ On the morning of 13 October tieubao proposed story mode first: win solo users, 
 
 Four minutes after the story-mode proposal came the T/N messages. tieubao's first fix for downtime was an option after death, ghost mode. tuanddd replied that a ghost already exists: "mà nó bay vòng vòng v thôi" (it only floats around). tieubao kept going: the ghost sees the shot path, chats with "bo`" (bồ: a friend or partner), maybe influences aim or helps defend. At that point he wrote "chac add backlog roi intro tu tu :))" (probably add to the backlog and introduce them slowly). The list grew for another ten minutes.
 
-| Option                        | Source                                                                                                                                                                          |
-| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Ghost with a job              | tieubao: sees the shot path, chats with "bo`", influences aim or defends. tuanddd: "bóng ma phù hộ đồng đội" (the ghost blesses teammates)                                                   |
-| Off-turn defence              | tieubao: a skill to raise a shield while defending, a small chance to defend, dice-like resolution as in strategy games, or a tap minigame like bievh's alchemy                 |
-| Team combo, terrain, elements | tieubao, after a search: alter shot or power through a team combo, alter the terrain, add elements with effectiveness                                                             |
-| Bot matches as story mode     | tieubao, earlier that morning, as above                                                                                                                                         |
+| Option                        | Source                                                                                                                                                          |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ghost with a job              | tieubao: sees the shot path, chats with "bo`", influences aim or defends. tuanddd: "bóng ma phù hộ đồng đội" (the ghost blesses teammates)                      |
+| Off-turn defence              | tieubao: a skill to raise a shield while defending, a small chance to defend, dice-like resolution as in strategy games, or a tap minigame like bievh's alchemy |
+| Team combo, terrain, elements | tieubao, after a search: alter shot or power through a team combo, alter the terrain, add elements with effectiveness                                           |
+| Bot matches as story mode     | tieubao, earlier that morning, as above                                                                                                                         |
 
 tuanddd's own shortlist read "weapon idea + cool effect / story mode / ghost mode / new maps".
 
