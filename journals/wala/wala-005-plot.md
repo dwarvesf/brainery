@@ -17,7 +17,9 @@ tags:
   - ai
   - startup
   - engineering
-slug: wala-005-plot
+slug: wala-plot-ethan-phan
+redirect:
+  - /wala-005-plot
 ---
 
 I talked with Ethan Phan, CTO of Plot, about how a small AI-native startup decides when to pivot, stays lean, and runs engineering when every engineer works with agents. His short answer: **building is cheap now, so reaching the right people is the hard part**. The people who direct the agents still need taste, accountability, and a habit of sharing what they know.
@@ -43,6 +45,10 @@ _The Plot team in their New York office. Photo: [plot.so](https://plot.so)._
 **Who is Ethan, and why this talk**
 
 Ethan is Plot's co-founder and CTO. Before Plot he led product engineering at Formation Bio and was a software engineer at Microsoft.
+
+![Ethan Phan and Megan Duong, Plot's co-founders](assets/wala-005-plot-founders.jpg)
+
+_Ethan Phan (left) and Megan Duong, Plot's co-founders. Photo via [Founding Tools](https://foundingtools.substack.com/p/founding-tools-megan-and-ethan-plot)._
 
 My own engineering has slowed lately, so I asked what I wanted answered: how does someone who runs an AI-native team every day keep moving? What follows is the call, edited for grammar and filler, with Ethan's sign-off.
 
