@@ -3,6 +3,9 @@ title: "Play a quarter, wait the rest: the dead-air problem in turn-based artill
 description: "In a four-player artillery match you play a quarter of the time and nothing after you die. Why that dead air drives churn, what the genre's history says, and six ways a prototype can fill it."
 date: 2026-10-18
 toc: true
+type: writing
+form: analysis
+topic: product-engineering
 authors:
   - tieubao
   - tuanddd
@@ -26,9 +29,9 @@ _Fig. 1: A ten-minute, four-player match. Each player's active time is a sliver,
 
 A browser artillery prototype landed in #build-club, the Dwarves Discord channel where we post prototypes. It is a Gunbound-style game: you pick an angle and power, account for wind, and lob a shot at the other side. The first wave of ideas was the usual one: stronger weapon effects, a story mode, new maps, unlockable weapons.
 
-Han pushed on the loop underneath. A match of duration T with N players gives each player roughly T over N of real play. Subtract the time after you die, when you have nothing at all. Most of the session is dead air, and dead air is where someone switches tabs.
+tieubao pushed on the loop underneath. A match of duration T with N players gives each player roughly T over N of real play. Subtract the time after you die, when you have nothing at all. Most of the session is dead air, and dead air is where someone switches tabs.
 
-The rest of the thread sorted itself around that. Dat's point was that the weapons have to carry identity, the way Valorant keeps a base shooter loop and makes every agent feel different through effects. Vincent, who built the prototype, already had a ghost that floats around after death and a campaign on the backlog that needs a mountain of art. Han's proposal was to make the campaign carry two jobs at once: when there are no users yet, matchmaking against bots is wrapped as story mode, and the story mode is the tutorial.
+The rest of the thread sorted itself around that. datnguyennnx's point was that the weapons have to carry identity, the way Valorant keeps a base shooter loop and makes every agent feel different through effects. tuanddd, who built the prototype, already had a ghost that floats around after death and a campaign on the backlog that needs a mountain of art. tieubao's proposal was to make the campaign carry two jobs at once: when there are no users yet, matchmaking against bots is wrapped as story mode, and the story mode is the tutorial.
 
 ## Sorting feedback before fixing anything
 
@@ -43,7 +46,7 @@ The feedback the prototype got came in layers, and they are worth keeping apart.
 
 Mixing layers hides the real blocker. Nobody cares about a wizard-hat reward if the first minute is confusing, and a builder can lose a sprint polishing referral loops before the wind indicator works. Fix layers one and two before adding anything from layer three.
 
-The same thread produced a second scope lesson. The prototype already had daily quests, level ranking, seasonal events with limited items, an event scheduler, a metrics dashboard and gift codes, most of it generated quickly. Vincent's own note was that the ranking still needed a simulation to know how long it takes to hit max level. Han's take: let the system be complete first, then choose what to keep. Breadth is cheap now. The filter is the work.
+The same thread produced a second scope lesson. The prototype already had daily quests, level ranking, seasonal events with limited items, an event scheduler, a metrics dashboard and gift codes, most of it generated quickly. tuanddd's own note was that the ranking still needed a simulation to know how long it takes to hit max level. tieubao's take: let the system be complete first, then choose what to keep. Breadth is cheap now. The filter is the work.
 
 ## The genre has been here before
 
@@ -76,7 +79,7 @@ For a Gunbound-style game that wants to stay turn-based, the thread produced a s
 | Bot matches as story mode   | Plays solo from day one; learns the loop with no queue | Needs campaign art and dialogue; the bots must read as the story |
 | Terrain and element effects | Watches the map change rather than a static screen     | Pure spectacle unless it changes decisions                       |
 
-Vincent's instinct was to add the backlog and introduce these slowly, which is right. Each one changes the active ratio, so the order matters.
+tuanddd's instinct was to add the backlog and introduce these slowly, which is right. Each one changes the active ratio, so the order matters.
 
 ## What to do with this
 

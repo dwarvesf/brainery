@@ -3,6 +3,9 @@ title: "Onboarding without flattening: what 9T keeps hard on purpose"
 description: "9T keeps its cultivation-genre friction on purpose and makes one loop legible. Where that bet has paid off before, and the prologue trick that shows players the destination before the grind."
 date: 2026-10-18
 toc: true
+type: writing
+form: analysis
+topic: product-engineering
 authors:
   - bievh
   - tuanddd
@@ -24,11 +27,11 @@ _Fig. 1: Two ways to onboard a niche game. Flattening makes the first hour easy 
 
 ## A tester who understood nothing
 
-Bien dropped [9T](https://bienvh.itch.io/9t) into #build-club, the Dwarves Discord channel where we post prototypes, at eleven at night. It is a cultivation game in the xianxia tradition: Chinese immortal-hero fiction where a mortal grinds through stages of power toward immortality. The first request was for a cheat code to skip straight to the good sword technique. The second, from a different tester the next morning, was blunter: "I went in and understood nothing. I'd have to read a few cultivation novels first." He also said the map looked great.
+bievh dropped [9T](https://bienvh.itch.io/9t) into #build-club, the Dwarves Discord channel where we post prototypes, at eleven at night. It is a cultivation game in the xianxia tradition: Chinese immortal-hero fiction where a mortal grinds through stages of power toward immortality. The first request was for a cheat code to skip straight to the good sword technique. The second, from a different tester the next morning, was blunter: "I went in and understood nothing. I'd have to read a few cultivation novels first." He also said the map looked great.
 
-Bien's answer was not a tutorial. It was: read the guide in the character menu, there are a lot of hidden mechanics, and if you're into the genre you'll dig; if not, bye. The in-game guide had already been cut from 15 tabs to 4. The loop you need to know fits in a sentence: cultivate to level 1, fight monsters, sell the drops, buy rice, cultivate again, and after level 3 you need spirit stones. Sit by the rock and you cultivate faster, because there is a spirit vein underneath.
+bievh's answer was not a tutorial. It was: read the guide in the character menu, there are a lot of hidden mechanics, and if you're into the genre you'll dig; if not, bye. The in-game guide had already been cut from 15 tabs to 4. The loop you need to know fits in a sentence: cultivate to level 1, fight monsters, sell the drops, buy rice, cultivate again, and after level 3 you need spirit stones. Sit by the rock and you cultivate faster, because there is a spirit vein underneath.
 
-Everything else stays hidden on purpose. Alchemy done with firewood produces low-grade pills, and the game never tells you. Spiritual roots, the innate talent that sets how fast a character can cultivate, are rolled at random and each one carries a different aura; a bad roll means a longer game, and that is treated as a feature. Once you outlevel a monster it runs instead of fighting. There are no quests. Bien's estimate was 20 to 30 hours of play without cheats, with one admitted risk: players might get bored before they find the fun. His own phrase for the design was that there are many easter eggs from cultivation fiction, play slowly and it's fun, hack and it's over.
+Everything else stays hidden on purpose. Alchemy done with firewood produces low-grade pills, and the game never tells you. Spiritual roots, the innate talent that sets how fast a character can cultivate, are rolled at random and each one carries a different aura; a bad roll means a longer game, and that is treated as a feature. Once you outlevel a monster it runs instead of fighting. There are no quests. bievh's estimate was 20 to 30 hours of play without cheats, with one admitted risk: players might get bored before they find the fun. His own phrase for the design was that there are many easter eggs from cultivation fiction, play slowly and it's fun, hack and it's over.
 
 That is a position. Onboarding is not the same as simplification, and for a niche genre the harder path is also the signal that you are in the right place.
 
@@ -40,15 +43,15 @@ Closer to 9T's genre, Tale of Immortal (鬼谷八荒) launched on Steam in Janua
 
 There is even a small study behind the instinct. A paper on intentional friction in games cites a 2019 experiment in which [67 percent of users reported higher satisfaction and clearer understanding of an app's purpose when more friction was present](https://axelftv.github.io/content/university/Rory-Lyons-Intentional-Friction.pdf). Friction is where the player learns what the thing is for.
 
-The pattern across these is the same as Bien's: keep the depth, keep the obscurity, and make exactly one path visible. Dwarf Fortress added the path. Dark Souls has the Undead Burg. 9T has rice and the rock.
+The pattern across these is the same as bievh's: keep the depth, keep the obscurity, and make exactly one path visible. Dwarf Fortress added the path. Dark Souls has the Undead Burg. 9T has rice and the rock.
 
 ## The prologue that teaches the destination
 
-Two weeks later, on a thread about 9T's graphics update, Vincent added the second half of the onboarding answer. Open with the player as a great immortal in the heavens, full gear, full spells, wrecking everything. Then get cast down and reborn as an ordinary mortal, reset to level 1. Bien's reply was one word, legit, and that he would try it.
+Two weeks later, on a thread about 9T's graphics update, tuanddd added the second half of the onboarding answer. Open with the player as a great immortal in the heavens, full gear, full spells, wrecking everything. Then get cast down and reborn as an ordinary mortal, reset to level 1. bievh's reply was one word, legit, and that he would try it.
 
 The trope has a name, [A Taste of Power](https://tvtropes.org/pmwiki/pmwiki.php/Main/ATasteOfPower), and two of the best-loved games in the genre adjacent to 9T are built on it. Castlevania: Symphony of the Night opens with Alucard carrying his full signature kit, every enemy dying in one hit, until [Death confiscates the lot at the end of the first corridor](https://castlevania.fandom.com/wiki/Alucard/Symphony_of_the_Night), and getting it back becomes a quest that spans both castles. Metroid Prime does the same with a fully suited Samus for one short level before [the real game begins with her abilities stripped](https://tvtropes.org/pmwiki/pmwiki.php/Main/ATasteOfPower).
 
-What the prologue does for a friction-heavy game is specific. It shows the fantasy at full strength before the grind starts, so the player knows what the rice and the rock are for. It gives the level-1 reset a narrative cause instead of an arbitrary one. And in cultivation fiction the fall-and-rebirth is one of the genre's own stock openings, so it reads as native rather than as a tutorial device. Vincent's instinct was to borrow the genre's own story shape to do the onboarding the tutorial refuses to do.
+What the prologue does for a friction-heavy game is specific. It shows the fantasy at full strength before the grind starts, so the player knows what the rice and the rock are for. It gives the level-1 reset a narrative cause instead of an arbitrary one. And in cultivation fiction the fall-and-rebirth is one of the genre's own stock openings, so it reads as native rather than as a tutorial device. tuanddd's instinct was to borrow the genre's own story shape to do the onboarding the tutorial refuses to do.
 
 ## What to do with this
 

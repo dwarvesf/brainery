@@ -3,6 +3,9 @@ title: "Twenty accounts and one whale: the economy loop that makes cultivation M
 description: "Cultivation MMOs pay because farmers sell time, whales buy it, and the publisher sells the token between them. The loop, three famous marketplaces, and the Vietnam licensing wall."
 date: 2026-10-18
 toc: true
+type: writing
+form: analysis
+topic: markets-strategy
 authors:
   - bievh
   - tieubao
@@ -26,7 +29,7 @@ _Fig. 1: The loop. Time-rich players farm, money-rich players buy, and the publi
 
 One of us is taking a cultivation game, [9T](https://bienvh.itch.io/9t), from a single-player build to an online one. Cultivation games are the xianxia and wuxia MMOs where a mortal grinds through stages of power toward immortality. In #build-club, the Dwarves Discord channel where we post prototypes, the question came up: why go online at all when the offline version already has players asking about the art?
 
-The answer came back in one sentence. The genre is the easiest one to make money in, because players run 20 accounts to farm early-game resources, sell the output to the rich players, and the rich players stay because they can keep buying their way up. Han added the pattern from the idle side of the genre: these games sell time. Instead of farming, you pay for the shortcut. And spend peaks at one predictable moment, when guild ranking turns competitive. Tom compressed the market side into one rule: if you want recurring revenue from a game, you need an exchangeable marketplace.
+The answer came back in one sentence. The genre is the easiest one to make money in, because players run 20 accounts to farm early-game resources, sell the output to the rich players, and the rich players stay because they can keep buying their way up. tieubao added the pattern from the idle side of the genre: these games sell time. Instead of farming, you pay for the shortcut. And spend peaks at one predictable moment, when guild ranking turns competitive. monotykamary compressed the market side into one rule: if you want recurring revenue from a game, you need an exchangeable marketplace.
 
 ## Three roles, one bridge
 
