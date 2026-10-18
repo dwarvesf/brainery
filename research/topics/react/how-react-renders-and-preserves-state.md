@@ -4,6 +4,7 @@ description: How React turns state changes into DOM updates, why it ties state t
 slug: how-react-renders-and-preserves-state
 kind: reference
 announce: false
+draft: true
 date: 2022-06-11
 authors:
   - namtrhg
@@ -16,17 +17,7 @@ tags:
   - hooks
   - performance
   - virtual-dom
-redirect:
-  - /research/topics/react/react-fiber
-  - /EKLjgA
-  - /research/topics/react/why-virtual-dom-is-fast
-  - /JAvmBQ
-  - /research/topics/react/invoking-component-functions-in-react
-  - /y57Ftw
-  - /research/topics/react/preserving-and-resetting-state-in-react
-  - /hTeekA
-  - /research/topics/react/useeffect-double-calls-in-react-18
-  - /pCYbXA
+redirect: []
 ---
 
 React builds a tree of elements from your components, compares it with the previous tree, and applies the difference to the DOM. State lives in React, not in the component, and React attaches it to a spot in that tree. Most surprises with rendering, hooks and effects follow from these two facts. This page covers how React finds and applies changes, how it decides which state belongs to which component, what goes wrong when you call a component as a plain function, and why effects run twice in development.

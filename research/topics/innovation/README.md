@@ -1,8 +1,8 @@
 ---
 draft: false
-title: null
-description: null
-date: null
+title: § Innovation
+description: Map of our innovation notes, covering what innovation is, why large organizations struggle with it, how it grows through connection, and how to find opportunities.
+date: 2026-08-27
 tags:
   - innovation
   - moc
@@ -14,6 +14,40 @@ redirect:
   - /Jvt9Hw
   - /research/topics/innovation/strategy/the-infinite-game
   - /NlMKECo
+  - /research/topics/innovation/strategy-sensemaking-notes
+  - /strategy-sensemaking-notes
+  - /research/topics/innovation/strategy/volatile-environments-motivate-us-to-avoid-uncertainty
+  - /uwn7zg
+  - /research/topics/innovation/strategy/build-organizations-around-a-long-term-narrative
+  - /LIZt0Q
+  - /research/topics/innovation/strategy/specialization-narrows-our-perspective-on-what-is-salient-to-a-problem
+  - /xHFmvE
+  - /research/topics/innovation/strategy/strategic-inflection-points-disrupt-the-underlying-assumptions-of-a-business-or-industry
+  - /tAdTRQ
+  - /research/topics/innovation/strategy/organizations-that-depend-on-tolerability-are-ripe-for-disruption
+  - /Tquxow
+  - /research/topics/innovation/strategy/work-backwards-from-a-long-term-vision-of-the-future-to-define-proximate-objectives
+  - /VPvjGw
+  - /research/topics/innovation/strategy/base-strategy-on-leading-not-lagging-indicators
+  - /ZYfiWw
+  - /research/topics/innovation/strategy/winning-strategies-result-from-good-sensemaking
+  - /ouezAA
+  - /research/topics/innovation/strategy/ooda-loop
+  - /DuBGYw
+  - /research/topics/innovation/strategy/organizations-have-become-primarily-focused-on-short-term-results
+  - /2iF2CA
+  - /research/topics/innovation/strategy/collecting-analytics-data-is-not-the-same-as-doing-research
+  - /kZa20w
+  - /research/topics/innovation/strategy/good-strategy-simplifies-a-complex-problem-space
+  - /HAsc1A
+  - /research/topics/innovation/strategy/reading-about-strategy-wont-produce-a-winning-strategy
+  - /nM1oXA
+  - /research/topics/innovation/strategy/garbage-in-garbage-out
+  - /CAj8Qw
+  - /research/topics/innovation/strategy/good-strategy-bad-strategy
+  - /WyYpGw
+  - /research/topics/innovation/strategy/strategy-is-time-sensitive
+  - /UB5HEw
 ---
 
 ## What is innovation?

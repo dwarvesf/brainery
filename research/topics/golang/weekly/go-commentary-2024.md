@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Go commentary 2024: all 24 issues"
 short_title: Go commentary 2024
 description: Twenty-four weekly Go reading notes from June to December 2024, covering eBPF and profile-guided optimization, generics, fuzzing, sync.Map, weak pointers and the Go 1.24 synctest experiment.
@@ -12,79 +12,7 @@ authors:
 tags:
   - golang
   - go-weekly
-redirect:
-  - /research/topics/golang/weekly/dec-13
-  - /golang/weekly/dec-13
-  - /9WflnQ
-  - /research/topics/golang/weekly/dec-06
-  - /golang/weekly/dec-06
-  - /gFO3lw
-  - /research/topics/golang/weekly/nov-29
-  - /golang/weekly/nov-29
-  - /8kRYVg
-  - /research/topics/golang/weekly/nov-22
-  - /golang/weekly/nov-22
-  - /ss79sg
-  - /research/topics/golang/weekly/nov-15
-  - /golang/weekly/nov-15
-  - /2zSckw
-  - /research/topics/golang/weekly/nov-08
-  - /golang/weekly/nov-08
-  - /HnwwKQ
-  - /research/topics/golang/weekly/nov-01
-  - /golang/weekly/nov-01
-  - /VKUSGQ
-  - /research/topics/golang/weekly/oct-25
-  - /golang/weekly/oct-25
-  - /BIH5Mg
-  - /research/topics/golang/weekly/oct-18
-  - /golang/weekly/oct-18
-  - /gdZm3g
-  - /research/topics/golang/weekly/oct-11
-  - /golang/weekly/oct-11
-  - /NH3X3A
-  - /research/topics/golang/weekly/oct-04
-  - /golang/weekly/oct-04
-  - /fwmuJg
-  - /research/topics/golang/weekly/sep-27
-  - /golang/weekly/sep-27
-  - /1xjGmA
-  - /research/topics/golang/weekly/sep-20
-  - /golang/weekly/sep-20
-  - /2CXLdg
-  - /research/topics/golang/weekly/sep-13
-  - /golang/weekly/sep-13
-  - /iYhe9A
-  - /research/topics/golang/weekly/sep-06
-  - /golang/weekly/sep-06
-  - /JFAicg
-  - /research/topics/golang/weekly/aug-30
-  - /golang/weekly/aug-30
-  - /3XNmKw
-  - /research/topics/golang/weekly/aug-23
-  - /golang/weekly/aug-23
-  - /dWE8Qg
-  - /research/topics/golang/weekly/aug-16
-  - /golang/weekly/aug-16
-  - /Hr1PNQ
-  - /research/topics/golang/weekly/aug-09
-  - /golang/weekly/aug-09
-  - /pPTvPw
-  - /research/topics/golang/weekly/aug-02
-  - /golang/weekly/aug-02
-  - /j5UpVg
-  - /research/topics/golang/weekly/jul-26
-  - /golang/weekly/jul-26
-  - /ydKC7Q
-  - /research/topics/golang/weekly/jul-12
-  - /golang/weekly/jul-12
-  - /pgOP9w
-  - /research/topics/golang/weekly/jul-05
-  - /golang/weekly/jul-05
-  - /o06LZQ
-  - /research/topics/golang/weekly/june-27
-  - /golang/weekly/june-27
-  - /DxHvbw
+redirect: []
 ---
 
 Weekly commentary on what the Go community published in 2024. Each issue summarizes a few articles and records the takeaways. Issues #1 and #2 ran as Go weekly; every issue after that ran as Go commentary. This page holds all 24, newest first.

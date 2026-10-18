@@ -5,16 +5,34 @@ description: Discover how the Zettelkasten method, inspired by Niklas Luhmann, e
 date: 2026-08-27
 redirect:
   - /oBTXrw
+  - /research/topics/zettelkasten/zettelkasten-concept-notes
+  - /zettelkasten-concept-notes
+  - /research/topics/zettelkasten/build-randomness-into-knowledge-generation-systems
+  - /zd7hpg
+  - /research/topics/zettelkasten/fleeting-notes-are-reminders
+  - /UP4Kew
+  - /research/topics/zettelkasten/permanent-notes-are-permanently-useful-not-permanently-unchanging
+  - /pUDQcw
+  - /research/topics/zettelkasten/luhmanns-zettelkasten
+  - /4M6BQA
+  - /research/topics/zettelkasten/write-literature-notes-to-inform-permanent-notes
+  - /jELjwg
+  - /research/topics/zettelkasten/learning-is-enhanced-by-surprise
+  - /rzHAZw
+  - /research/topics/zettelkasten/different-kinds-of-zettelkasten-notes
+  - /HNhMPw
+  - /research/topics/zettelkasten/purpose-of-zettelkasten
+  - /E1fSsg
 authors:
   - tieubao
 ---
 
 Zettelkästen describes a method of personal knowledge management inspired by prolific sociologist Niklas Luhmann.
 
-- [Luhmann's zettelkasten](/zettelkasten-concept-notes#luhmanns-zettelkasten)
-- [Purpose of zettelkasten](/zettelkasten-concept-notes#the-purpose-of-a-zettelkasten)
-- [Different kinds of zettelkasten notes](/zettelkasten-concept-notes#kinds-of-notes)
-  - [Permanent notes are permanently useful, not permanently unchanging](/zettelkasten-concept-notes#permanent-notes-stay-useful-not-unchanging)
-- [Build randomness into knowledge generation systems](/zettelkasten-concept-notes#add-randomness-to-surface-unexpected-connections)
-- [Learning is enhanced by surprise](/zettelkasten-concept-notes#surprising-connections-make-learning-stick)
+- Luhmann's zettelkasten
+- Purpose of zettelkasten
+- Different kinds of zettelkasten notes
+  - Permanent notes are permanently useful, not permanently unchanging
+- Build randomness into knowledge generation systems
+- Learning is enhanced by surprise
 - [[Writing with a zettelkasten]]

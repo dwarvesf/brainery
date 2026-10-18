@@ -4,6 +4,7 @@ description: Reading notes on strategy from Rumelt, Sinek, McGrath, Boyd and Ced
 slug: strategy-sensemaking-notes
 kind: reference
 announce: false
+draft: true
 date: 2026-10-18
 authors: []
 credit: David Drysdale (Moby Diction)
@@ -11,39 +12,7 @@ tags:
   - strategy
   - business
   - innovation
-redirect:
-  - /research/topics/innovation/strategy/volatile-environments-motivate-us-to-avoid-uncertainty
-  - /uwn7zg
-  - /research/topics/innovation/strategy/build-organizations-around-a-long-term-narrative
-  - /LIZt0Q
-  - /research/topics/innovation/strategy/specialization-narrows-our-perspective-on-what-is-salient-to-a-problem
-  - /xHFmvE
-  - /research/topics/innovation/strategy/strategic-inflection-points-disrupt-the-underlying-assumptions-of-a-business-or-industry
-  - /tAdTRQ
-  - /research/topics/innovation/strategy/organizations-that-depend-on-tolerability-are-ripe-for-disruption
-  - /Tquxow
-  - /research/topics/innovation/strategy/work-backwards-from-a-long-term-vision-of-the-future-to-define-proximate-objectives
-  - /VPvjGw
-  - /research/topics/innovation/strategy/base-strategy-on-leading-not-lagging-indicators
-  - /ZYfiWw
-  - /research/topics/innovation/strategy/winning-strategies-result-from-good-sensemaking
-  - /ouezAA
-  - /research/topics/innovation/strategy/ooda-loop
-  - /DuBGYw
-  - /research/topics/innovation/strategy/organizations-have-become-primarily-focused-on-short-term-results
-  - /2iF2CA
-  - /research/topics/innovation/strategy/collecting-analytics-data-is-not-the-same-as-doing-research
-  - /kZa20w
-  - /research/topics/innovation/strategy/good-strategy-simplifies-a-complex-problem-space
-  - /HAsc1A
-  - /research/topics/innovation/strategy/reading-about-strategy-wont-produce-a-winning-strategy
-  - /nM1oXA
-  - /research/topics/innovation/strategy/garbage-in-garbage-out
-  - /CAj8Qw
-  - /research/topics/innovation/strategy/good-strategy-bad-strategy
-  - /WyYpGw
-  - /research/topics/innovation/strategy/strategy-is-time-sensitive
-  - /UB5HEw
+redirect: []
 ---
 
 These notes are adapted from David Drysdale's Moby Diction digital garden (publish.obsidian.md/mobydiction, now offline). They summarize Richard Rumelt's _Good Strategy Bad Strategy_ (2011), Simon Sinek's _The Infinite Game_ (2019) and Rita McGrath's _Seeing around Corners_ (2019), with Cedric Chin's 2020 essays on the OODA loop. Han curated and edited them for the Dwarves research vault. They treat strategy as a way of seeing before it is a plan. Richard Rumelt argues that having a strategy is itself a competitive advantage, because few organizations actually have one. For Rumelt a strategy rests on a kernel of three parts: a diagnosis, a guiding policy and coordinated action. The other notes here ask what feeds that diagnosis. Their answers are sensemaking, honest data, signals that arrive early, and a horizon longer than the next quarter. The page follows that order.

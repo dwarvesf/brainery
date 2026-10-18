@@ -15,7 +15,7 @@ Once an NFT can maintain a community with enthusiastic early collectors who have
 
 ### Questions
 
-**1. What kind of decision can optimize [[defi-dapps-daos#DAOs|DAO]]?** If the community needs to vote on every detail of a character, the experience is less exciting, less in effectiveness and leads to a big chance in low ratio of participants. Howver, if the decision gets voted by a higher level, the member of BOD might feel like they don't have enough authorization or ownership.
+**1. What kind of decision can optimize DAO?** If the community needs to vote on every detail of a character, the experience is less exciting, less in effectiveness and leads to a big chance in low ratio of participants. Howver, if the decision gets voted by a higher level, the member of BOD might feel like they don't have enough authorization or ownership.
 
 **2. Who will be in charge of daily administration and community management?** DAO will be effective once there are more "creator board" - who will vote for key decision and play as strategic roles in business decision, while product management and creative development can be outsourced from third-parties through RFP.
 

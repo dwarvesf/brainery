@@ -4,6 +4,7 @@ description: How Solana stores data in accounts, how tokens and NFTs are built o
 slug: solana-basics
 kind: reference
 announce: false
+draft: true
 date: 2022-06-07
 authors:
   - trankhacvy
@@ -12,13 +13,7 @@ tags:
   - blockchain
   - token
   - nft
-redirect:
-  - /research/topics/solana/metaplex-nft-compression
-  - /2wFHbg
-  - /research/topics/solana/solana-account
-  - /GqoGDA
-  - /research/topics/solana/how-tokens-work-on-solana
-  - /QXkUZw
+redirect: []
 ---
 
 Solana separates logic and data into two components: programs and accounts. Programs do not keep data in internal variables. They interact with external data stored in accounts, and they can mutate it. This note starts with the account model and its rules, then shows how tokens and NFTs sit on top of it, and ends with Metaplex compression, which brings the cost of NFTs down.
