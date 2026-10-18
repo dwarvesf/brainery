@@ -1,13 +1,9 @@
 ---
-draft: false
+draft: true
 title: "History of DeFi: from Bitcoin to Uniswap and the 2020 yield farming wave"
 description: "Timeline of DeFi from Bitcoin and Ethereum through Maker, EtherDelta, Uniswap, Black Thursday and the 2020 liquidity mining boom."
 date: 2026-08-27
-redirect:
-  - /C4I18A
-  - /research/topics/defi/uniswap/note
-  - /M1Tg9g
-  - /defi/uniswap/note
+redirect: []
 authors: []
 credit: Finematics
 credit_url: "https://finematics.com/history-of-defi-explained/"

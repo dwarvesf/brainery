@@ -4,6 +4,7 @@ description: What DeFi is and the two criteria that define it, how a DApp is bui
 slug: defi-dapps-daos
 kind: reference
 announce: false
+draft: true
 date: 2026-08-27
 authors: []
 credit: a16z crypto, Mastering Ethereum and d-core.net
@@ -11,28 +12,7 @@ tags:
   - blockchain
   - defi
   - dapp
-redirect:
-  - /research/topics/defi/defi-decentralized-finance
-  - /DoT09w
-  - /research/topics/defi/dapp
-  - /fLduHg
-  - /research/topics/defi/uniswap/dao
-  - /aPAPaw
-  - /research/topics/defi/definition
-  - /XLTguA
-  - /research/topics/defi/nft/challenges
-  - /Gjge0A
-  - /research/topics/defi/nft/community-owned-characters
-  - /sAfPxA
-  - /research/topics/defi/nft/nft
-  - /NjozjA
-  - /research/topics/defi/unstoppable-code
-  - /1noeuw
-  - /defi/definition
-  - /defi/nft/challenges
-  - /defi/nft/community-owned-characters
-  - /defi/nft/nft
-  - /defi/unstoppable-code
+redirect: []
 ---
 
 DeFi, DApps and DAOs describe three layers of the same idea. DeFi is the set of financial services that run on blockchains. DApps are the applications those services are built as. DAOs are the organizations that govern them without a central authority. This note defines each one, then covers how a DApp is put together and where DAOs are used.

@@ -4,27 +4,14 @@ description: "Reading notes on Robert Shiller's Narrative Economics, covering wh
 slug: narrative-economics-reading-notes
 date: 2026-08-27
 announce: false
+draft: true
 authors: []
 credit: David Drysdale (Moby Diction)
 tags:
   - communication
   - narrative
   - story-telling
-redirect:
-  - /research/topics/communication/economic-narratives-spread-like-diseases
-  - /Ryljag
-  - /research/topics/communication/narratives-generate-real-world-effects
-  - /7yT2ywQ
-  - /research/topics/communication/constellation
-  - /l1OA8t0
-  - /research/topics/communication/economic-narrative
-  - /H0MR6w
-  - /research/topics/communication/narrative-economics
-  - /vdqnLQ
-  - /research/topics/innovation/consilience
-  - /4vfkJw
-  - /research/topics/writing/narrative-helps-the-human-mind-make-sense-of-events
-  - /Bat6pg
+redirect: []
 ---
 
 These are reading notes on _Narrative Economics: How Stories Go Viral and Drive Major Economic Events_ by Robert J. Shiller (Princeton University Press, 2019). They are adapted from David Drysdale's Moby Diction notes.

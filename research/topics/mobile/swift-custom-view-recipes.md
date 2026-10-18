@@ -23,6 +23,8 @@ redirect:
 
 Each recipe below builds one custom view from a small set of primitives. The passcode view takes keyboard input and maps it to dots. The bottom menu follows a drag gesture and snaps between heights. The circular text measures each character and rotates it around a circle. The first two use UIKit, the third uses SwiftUI. Each recipe links to its full source code.
 
+Source: the code in these recipes comes from [viettrungphan on GitHub](https://github.com/viettrungphan), in the Passcode, BottomMenu and SwiftUIGeometryPractice repositories, each linked under its recipe.
+
 ## Passcode view
 
 The passcode view can `becomeFirstResponder` and `resignFirstResponder` to show and hide the virtual keyboard when needed. That makes it behave much like a `TextField`.

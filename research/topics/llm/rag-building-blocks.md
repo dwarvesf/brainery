@@ -299,5 +299,5 @@ The exact details depend on your application and chatbot design.
 - <https://arxiv.org/html/2401.18059v1>
 - <https://cohere.com/blog/rerank>
 - <https://cohere.com/rerank>
-- <https://www.rungalileo.io/blog/mastering-rag-how-to-select-a-reranking-model>
+- Galileo, "Mastering RAG: how to select a reranking model" (rungalileo.io, domain no longer resolves)
 - <https://github.com/zilliztech/GPTCache>

@@ -4,32 +4,13 @@ description: "Reading notes on Steven Johnson's Where Good Ideas Come From, cove
 slug: where-good-ideas-come-from-reading-notes
 date: 2026-08-27
 announce: false
+draft: true
 authors: []
 credit: David Drysdale (Moby Diction)
 tags:
   - innovation
   - idea
-redirect:
-  - /research/topics/innovation/where-good-ideas-come-from/fostering-serendipity
-  - /34LNWQ
-  - /research/topics/innovation/where-good-ideas-come-from/ideas-are-constellations
-  - /gKhUFw
-  - /research/topics/innovation/where-good-ideas-come-from/ideas-are-networks
-  - /KpOMlg
-  - /research/topics/innovation/where-good-ideas-come-from/ideas-are-remixes
-  - /tpiTxw
-  - /research/topics/innovation/where-good-ideas-come-from/innovation-thrives-in-open-environments
-  - /b35cSQ
-  - /research/topics/innovation/where-good-ideas-come-from/optimize-to-be-wrong-not-right
-  - /EVGcZw
-  - /research/topics/innovation/where-good-ideas-come-from/strength-of-weak-ties
-  - /dd9V4A
-  - /research/topics/innovation/where-good-ideas-come-from/adjacent-possible
-  - /QUEPnw
-  - /research/topics/innovation/where-good-ideas-come-from/exaptation
-  - /D0TnsQ
-  - /research/topics/innovation/where-good-ideas-come-from/where-good-ideas-come-from
-  - /0YTbDA
+redirect: []
 ---
 
 These are reading notes on _Where Good Ideas Come From: The Seven Patterns of Innovation_ by Steven Johnson (Penguin, 2011). They are adapted from David Drysdale's Moby Diction notes.

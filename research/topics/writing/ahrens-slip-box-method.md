@@ -111,7 +111,7 @@ Four examples show the move in practice:
 
 The question that matters is where you would like to come across the information again.
 
-When we archive notes we usually file them in a box that makes logical sense to the archivist. That suits a librarian, whose business is archiving. Someone who wants inspiration and new insight should ask instead when they would most like to meet the idea again. This is a central tenet of how a zettelkasten is organized. Its heavily linked structure confronts us with ideas from our past and [surprises us](/zettelkasten-concept-notes#surprising-connections-make-learning-stick) with thoughts we forgot we had, at the right moment.
+When we archive notes we usually file them in a box that makes logical sense to the archivist. That suits a librarian, whose business is archiving. Someone who wants inspiration and new insight should ask instead when they would most like to meet the idea again. This is a central tenet of how a zettelkasten is organized. Its heavily linked structure confronts us with ideas from our past and surprises us with thoughts we forgot we had, at the right moment.
 
 ### Knowledge is a compounding investment
 
@@ -230,7 +230,7 @@ These notes link out to others in the research vault. Related notes that exist o
 - [[Innovation thrives in open environments]]
 - [[Narrative sequencing informs meaning]]
 - [[¶ Abductive reasoning]]
-- [Different kinds of zettelkasten notes](/zettelkasten-concept-notes#kinds-of-notes)
+- Different kinds of zettelkasten notes
 - [[≈ Where Good Ideas Come From]]
 - [[≈ The Elements of Story]]
 

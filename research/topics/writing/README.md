@@ -28,6 +28,26 @@ redirect:
   - /topics/writing/elizabeth-george-s-character-prompt-sheet
   - /topics/writing/give-abstract-concepts-a-human-face
   - /topics/writing/stock-and-flow
+  - /research/topics/writing/elements-of-story-reading-notes
+  - /elements-of-story-reading-notes
+  - /research/topics/writing/marry-form-with-function
+  - /jzhqKg
+  - /research/topics/writing/the-elements-of-story/ensure-the-trunk-of-a-narrative-is-more-substantial-than-the-branches
+  - /rjR5rA
+  - /research/topics/writing/the-elements-of-story/good-endings-make-a-story-memorable
+  - /zjzGLA
+  - /research/topics/writing/the-elements-of-story/good-story-leads-entice-and-inform
+  - /p0yTBA
+  - /research/topics/writing/the-elements-of-story/good-writing-makes-the-familar-new
+  - /y9VRFQ
+  - /research/topics/writing/the-elements-of-story/narrative-sequencing-informs-meaning
+  - /1T1VWw
+  - /research/topics/writing/the-elements-of-story/stories-need-action-and-commentary
+  - /kOdcWw
+  - /research/topics/writing/the-elements-of-story/use-language-with-necessity
+  - /0dIFgQ
+  - /research/topics/writing/the-elements-of-story/the-elements-of-story
+  - /BjMCWg
 authors:
   - tieubao
 ---

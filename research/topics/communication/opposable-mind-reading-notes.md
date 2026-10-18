@@ -4,26 +4,14 @@ description: "Reading notes on Roger Martin's The Opposable Mind, covering integ
 slug: opposable-mind-reading-notes
 date: 2026-08-27
 announce: false
+draft: true
 authors: []
 credit: David Drysdale (Moby Diction)
 tags:
   - communication
   - thinking
   - problem-solving
-redirect:
-  - /research/topics/communication/perspective-comprises-our-stance-our-tools-and-our-experience
-  - /PKTgAA
-  - /research/topics/communication/cognitive-diversity-enhances-team-problem-solving-capabilities
-  - /IKPLDw
-  - /zR3teQ
-  - /research/topics/communication/put-mental-models-in-conversation-with-one-another
-  - /P6lnow
-  - /research/topics/communication/salience-is-subjective
-  - /cii1GA
-  - /research/topics/communication/the-opposable-mind
-  - /e20g1A
-  - /research/notes/qualities-of-an-integrative-thinker
-  - /cMcK9Q
+redirect: []
 ---
 
 These are reading notes on _The Opposable Mind: How Successful Leaders Win Through Integrative Thinking_ by Roger L. Martin (Harvard Business Review Press, 2007). They are adapted from David Drysdale's Moby Diction notes.

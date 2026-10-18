@@ -4,21 +4,14 @@ description: "Reading notes on Sam Ladner's Mixed Methods, covering the three mo
 slug: mixed-methods-reading-notes
 date: 2026-08-27
 announce: false
+draft: true
 authors: []
 credit: David Drysdale (Moby Diction)
 tags:
   - ux
   - research
   - method
-redirect:
-  - /research/topics/ux/mixed-methods/abductive-reasoning
-  - /PA2E4A
-  - /research/topics/ux/mixed-methods/deductive-reasoning
-  - /1brZIw
-  - /research/topics/ux/mixed-methods/falsifiability
-  - /ye0BtQ
-  - /research/topics/ux/mixed-methods/inductive-reasoning
-  - /SJoAgQ
+redirect: []
 ---
 
 These are reading notes on _Mixed Methods: A Short Guide to Applied Mixed Methods Research_ by Sam Ladner (2019). They also draw on Christian Madsbjerg, Roger Martin, Rita McGrath and Cedric Chin. They are adapted from David Drysdale's Moby Diction notes.

@@ -55,7 +55,7 @@ Sự kiện cuối cùng: Token UNI. Tất cả người dùng trước đây c�
 
 #### Related
 
-- [[defi-dapps-daos#DeFi|DeFi]]
+- DeFi
 - [[¶ Decentralized Exchange]]
 
 #### Reference

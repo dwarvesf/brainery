@@ -4,6 +4,7 @@ description: Concept notes on the zettelkasten method, covering the linked note 
 slug: zettelkasten-concept-notes
 kind: reference
 announce: false
+draft: true
 date: 2026-08-27
 authors: []
 credit: David Drysdale (Moby Diction)
@@ -12,23 +13,7 @@ tags:
   - note
   - method
   - learning
-redirect:
-  - /research/topics/zettelkasten/build-randomness-into-knowledge-generation-systems
-  - /zd7hpg
-  - /research/topics/zettelkasten/fleeting-notes-are-reminders
-  - /UP4Kew
-  - /research/topics/zettelkasten/permanent-notes-are-permanently-useful-not-permanently-unchanging
-  - /pUDQcw
-  - /research/topics/zettelkasten/luhmanns-zettelkasten
-  - /4M6BQA
-  - /research/topics/zettelkasten/write-literature-notes-to-inform-permanent-notes
-  - /jELjwg
-  - /research/topics/zettelkasten/learning-is-enhanced-by-surprise
-  - /rzHAZw
-  - /research/topics/zettelkasten/different-kinds-of-zettelkasten-notes
-  - /HNhMPw
-  - /research/topics/zettelkasten/purpose-of-zettelkasten
-  - /E1fSsg
+redirect: []
 ---
 
 A zettelkasten is a method of personal knowledge management inspired by the sociologist Niklas Luhmann. These notes explain what the system is, what it is for and how its notes are sorted. Its purpose is to generate ideas from linked notes, and surprise is the mechanism that produces them. The book-level argument and the writing process are covered in [Ahrens on the slip box](/smart-notes-slip-box), which these notes point to where the ground overlaps.

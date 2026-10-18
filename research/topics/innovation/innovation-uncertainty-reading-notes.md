@@ -4,35 +4,14 @@ description: "Reading notes on how organizations can innovate when the future is
 slug: innovation-uncertainty-reading-notes
 date: 2026-08-21
 announce: false
+draft: true
 authors: []
 credit: David Drysdale (Moby Diction)
 tags:
   - innovation
   - uncertainty
   - strategy
-redirect:
-  - /research/topics/innovation/brains-have-evolved-to-minimize-surprise
-  - /DyPRAQ
-  - /research/topics/innovation/de-risk-innovation-by-making-smaller-bets
-  - /6j7kfA
-  - /research/topics/innovation/different-kinds-of-uncertainty
-  - /t3uTpQ
-  - /research/topics/innovation/honing-intuition
-  - /31aaxw
-  - /research/topics/innovation/innovation-cascades
-  - /lIZiiw
-  - /research/topics/innovation/the-innovation-stack/innovation-cascades
-  - /WThqTw
-  - /research/topics/innovation/tom-brady-principle
-  - /rUgRVg
-  - /research/topics/writing/narratives-enable-us-to-act-decisively-in-conditions-of-uncertainty
-  - /pKRAJQ
-  - /research/topics/innovation/human-colossus
-  - /DmfiKA
-  - /research/topics/ux/sensemaking/change-happens-gradually-then-suddenly
-  - /8losCg
-  - /topics/innovation/human-colossus
-  - /ux/sensemaking/change-happens-gradually-then-suddenly
+redirect: []
 ---
 
 These reading notes gather seven short pieces on innovation and uncertainty. They draw on McGrath, Rumelt, Varol, Viki, O'Reilly, Kay and King, Miller and colleagues, Ahrens, McKelvey and Paul Millerd. They are adapted from David Drysdale's Moby Diction notes.

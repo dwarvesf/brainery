@@ -4,6 +4,7 @@ description: Why LLM-powered systems need observability, what the three pillars 
 slug: llm-observability-basics
 kind: reference
 announce: false
+draft: true
 date: 2024-09-11
 authors:
   - datnguyennnx
@@ -12,11 +13,7 @@ tags:
   - ai
   - llm
   - observability
-redirect:
-  - /research/topics/llm/llm-tracing-in-ai-system
-  - /DgozRA
-  - /research/topics/llm/observability-in-ai-platforms
-  - /yFJFeQ
+redirect: []
 ---
 
 Observability means understanding what happens inside a complex system. For LLM-powered applications it relies on three signals: metrics, logs and traces. This page covers why such applications need it, what each pillar records, which metrics to watch, the benefits and challenges, and the tools that support tracing.

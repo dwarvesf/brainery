@@ -341,8 +341,6 @@ Diagram: [Strategy design pattern (PDF)](assets/strategy-design-pattern.pdf)
 
 State is a behavioral pattern that lets an object change its behavior when its internal state changes. It is useful when an object can exist in many states and its behavior depends on them.
 
-![State pattern](assets/state-pattern_state-en-2x.webp)
-
 #### Example scenario
 
 Consider a `Document` class with three states: Draft, Moderation and Published. The `publish` method behaves differently in each one:
@@ -350,8 +348,6 @@ Consider a `Document` class with three states: Draft, Moderation and Published. 
 - Draft: moves the document to Moderation.
 - Moderation: publishes the document if the current user is an administrator.
 - Published: does nothing.
-
-![Document state change](assets/state-pattern_problem2-en-2x.webp)
 
 #### Common implementation issues
 
@@ -382,15 +378,9 @@ class Document is
 
 State moves state-specific behavior into separate state classes. The context class delegates behavior to the state objects, which keeps the code cleaner and easier to manage.
 
-![Solution](assets/state-pattern_solution-en-2x.webp)
-
-![Finite-State Machine](assets/state-pattern_problem1-2x.webp)
-
 The state of the object is a set of state-specific classes. The object, called the context, delegates state-specific behavior to its current state object. As the state of the context changes, it moves between state objects, and each one implements its own set of behaviors.
 
 #### Structure
-
-![Structure of the State pattern](assets/state-pattern_structure-en-2x.webp)
 
 - **Context**: holds an instance of a `ConcreteState` subclass that defines the current state.
 - **State**: defines an interface for the behavior tied to one state of the Context.
@@ -421,15 +411,11 @@ State can be seen as an extension of Strategy. Both are based on composition, an
 
 Observer is a design pattern where an object, the subject, keeps a list of its dependents, the observers, and notifies them of state changes.
 
-![Observer pattern](assets/observer-pattern.webp)
-
 #### Problem
 
 Take two kinds of objects: a Customer and a Store. The customer wants a particular product, say a new iPhone model, that the store will stock soon.
 
 The customer could visit the store every day to check. While the product is still on its way, most of those trips are wasted.
-
-![Observer problem](assets/observer-pattern-problem.webp)
 
 The store could instead email every customer whenever a new product arrives. That spares some customers the trips, but it looks like spam to customers who do not care about new products.
 
@@ -511,11 +497,7 @@ Cons:
 
 Command is a behavioral pattern that encapsulates a request as an object. That lets you parameterize methods with different requests, delay or queue a request's execution, and support undoable operations. It also decouples the sender of a request from its receiver, which improves flexibility and maintainability.
 
-![Command pattern](assets/command-pattern_command-en-2x.webp)
-
 #### Key components
-
-![Structure of the Command design pattern](assets/command-pattern_structure-2x.webp)
 
 Command interface
 
@@ -538,8 +520,6 @@ Invoker
 - Responsibility: holds a reference to a Command object (or a list of them) and calls `execute()` on it.
 
 #### Real-life example
-
-![Restaurant order flow](assets/command-pattern_command-comic-1-2x.webp)
 
 Imagine you run a small restaurant and you are both the chef and the person taking orders. As the restaurant gets popular, you cannot keep up with the orders, so you hire a waiter. The waiter takes orders from customers and writes them on paper.
 
