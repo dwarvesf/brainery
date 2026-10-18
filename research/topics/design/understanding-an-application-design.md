@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Understanding application design: project types, rendering and atomic components"
 description: Learn how to design web applications by choosing the right project type, rendering technique, atomic components, and frameworks like Next.js or Ant-design for fast, SEO-friendly websites.
 date: 2021-07-09
@@ -7,8 +7,6 @@ authors:
   - tieubao
 tags:
   - design
-redirect:
-  - /9z8Abg
 ---
 
 Requested by our Apprentices, and hosted by Thanh Pham - our Head of Web. Understanding an Application Design is the upfront work for every web project. An application design consists of different main parts, which we highlighted a few below.

@@ -1,6 +1,6 @@
 ---
-draft: false
-title: How to talk to ChatGPT effectively
+draft: true
+title: how-to-talk-to-chatgpt-effectively (research note)
 description: This post presents technique to improve the your output when prompting ChatGPT.
 date: 2024-06-21
 authors:
@@ -9,8 +9,6 @@ tags:
   - ai
   - chatgpt
   - prompt
-redirect:
-  - /MmO8dw
 ---
 
 ChatGPT, an advanced language model by OpenAI, offers a unique way to interact with AI. The quality of results depends on the information and how well you craft your input. Then, it’s essential to understand how to talk with ChatGPT effectively.

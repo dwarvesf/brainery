@@ -1,15 +1,13 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Machine learning (research note)
+description: The relationship between X and Y is more complex! Machine learning or Deep learning is used when you want to automate this process of finding a functional mapping.
+date: 2026-10-18
 tags:
   - machine-learning
-  - 101
+  - "101"
   - engineering
   - syllabus
-redirect:
-  - /RMWkGw
 ---
 
 ## Deep learning

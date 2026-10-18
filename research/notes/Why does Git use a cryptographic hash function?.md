@@ -1,13 +1,11 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Why does Git use a cryptographic hash function? (research note)
+description: Why does Git use SHA-1, a cryptographic hash function, instead of a faster non-cryptographic hash function?
+date: 2026-10-18
 tags:
   - git
   - practice
-redirect:
-  - /tttXDg
 ---
 
 Why does Git use [SHA-1](http://en.wikipedia.org/wiki/SHA-1), a cryptographic hash function, instead of a faster non-cryptographic hash function?

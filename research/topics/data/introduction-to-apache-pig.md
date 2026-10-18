@@ -1,12 +1,10 @@
 ---
-draft: false
+draft: true
 title: "An introduction to Apache Pig: Pig Latin scripts that run as MapReduce"
 description: Apache Pig simplifies Hadoop data processing by converting easy-to-write Pig Latin scripts into MapReduce jobs, enabling non-programmers to handle big data without coding in Java or Python.
 date: 2022-11-14
 github_id: dudaka
 icy: 10
-redirect:
-  - /FGFsgw
 authors:
   - dudaka
 ---

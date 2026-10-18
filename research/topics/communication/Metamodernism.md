@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Metamodernism (reading note)"
 description: "Metamodernism, a cultural mode following modernism and postmodernism, describes a pattern of cultural philosophy emerged in the late twentieth century."
 date: 2026-08-27
@@ -8,8 +8,6 @@ authors:
 tags:
   - communication
   - story-telling
-redirect:
-  - /ShlBfQ
 ---
 
 Metamodernism, a cultural mode following modernism and postmodernism, describes a pattern of cultural philosophy emerged in the late twentieth century. The term was coined in 1975 by Mas'ud Zavarzade, but has become associated primarily with the Age of the Internet.

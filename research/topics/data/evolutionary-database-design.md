@@ -10,6 +10,8 @@ tags:
   - software-design
 redirect:
   - /OvS1Hw
+  - /research/notes/data-erd
+  - /C8UYgg
 ---
 
 ## Problem statement

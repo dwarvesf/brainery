@@ -1,12 +1,10 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Qualities of an integrative thinker (research note)
+description: An integrative thinker, according to Roger Martin, rejects binary frameworks and either/or decision-making, instead seeking synthesis between apparently opposed options.
+date: 2026-10-18
 tags:
   - insight
-redirect:
-  - /cMcK9Q
 ---
 
 An integrative thinker, according to Roger Martin, rejects binary frameworks and either/or decision-making, instead seeking synthesis between apparently opposed options.
@@ -24,8 +22,10 @@ The integrative thinker evinces four key qualities:
 
 - [[Salience is subjective]] - Integrative thinking recognizes that our perspective on what matters is subjective and personal.
 - [[Specialization narrows our perspective on what is salient to a problem]] - Adopting only the perspective of our specialization limits our ability to recognize what is salient.
-- [Put mental models in conversation with one another](https://publish.obsidian.md/mobydiction/notes/Put+mental+models+in+conversation+with+one+another) \- Integrative thinkers apply multiple and even contradictory mental models to expand their lens on what is salient.
+- Put mental models in conversation with one another \- Integrative thinkers apply multiple and even contradictory mental models to expand their lens on what is salient.
 
 #### Reference
 
 Martin, Roger L. The Opposable Mind: How Successful Leaders Win Through Integrative Thinking. 1st edition. Boston, Mass: Harvard Business Review Press, 2007.
+
+Adapted from David Drysdale's Moby Diction notes.

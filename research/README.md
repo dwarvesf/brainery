@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Dwarves Research
+title: Dwarves research
 short_title: § Dwarves Research 🧪
 description: This is our Labs team homepage, where we list out the latest advances in our engineering team, our publications, events & workshops, as well as frequently asked questions on who and what team labs are.
 date: 2023-11-30
@@ -12,6 +12,65 @@ tags:
   - labs
 redirect:
   - /XnEouw
+  - /research/notes/advice-should-be-unique-to-the-problem
+  - /UlLAEg
+  - /research/notes/maslows-hierarchy-of-needs
+  - /eeOaKA
+  - /research/notes/nerds-arent-fierce
+  - /GxzNNw
+  - /research/notes/seven-deadly-sins
+  - /8AavRQ
+  - /research/notes/skandhas-the-five-aggregates
+  - /QwUtbw
+  - /research/notes/software-101/software-engineering/software-engineering
+  - /gsTsSDI
+  - /research/notes/software-101/software-syllabus/business-intelligence
+  - /GmV8QQ
+  - /research/notes/software-101/software-syllabus/machine-learning
+  - /RMWkGw
+  - /research/notes/software-101/software-syllabus/syllabus
+  - /W2D1IQ
+  - /research/notes/technology-trend/technology-trend
+  - /jQOINg
+  - /research/notes/value-chain
+  - /t3kYUA
+  - /research/notes/why-does-git-use-a-cryptographic-hash-function
+  - /tttXDg
+  - /research/notes/hr/mbti/calculate-function-stack
+  - /zPoczQ
+  - /research/notes/hr/mbti/how-to-work-with-all-the-mbti-types
+  - /qP3rlQ
+  - /research/notes/social-capital
+  - /3vfQag
+  - /research/topics/communication/metamodernism
+  - /ShlBfQ
+  - /research/topics/design/understanding-an-application-design
+  - /9z8Abg
+  - /research/topics/design/understanding-saving-investing-and-speculating-key-differences-and-strategies
+  - /mxK8aQ
+  - /research/topics/frontend/recursively-export-file-pattern-in-javascript-es6-application
+  - /2fjm8w
+  - /research/topics/frontend/remove-unused-css-styles-from-bootstrap-using-purgecss
+  - /nUoqeQ
+  - /research/topics/liquidity/an-overview-of-micro-investment-in-real-estate
+  - /0xevvQ
+  - /research/topics/llm/how-to-talk-to-chatgpt-effectively
+  - /MmO8dw
+  - /research/topics/wealth/choose-a-trade-network
+  - /research/topics/wealth/pass-down-why-and-how
+  - /research/topics/wealth/sg-political-challenges
+  - /research/topics/wealth/sgd-pegged-to-usd
+  - /topics/communication/metamodernism
+  - /topics/design/understanding-an-application-design
+  - /topics/design/understanding-saving-investing-and-speculating-key-differences-and-strategies
+  - /topics/frontend/recursively-export-file-pattern-in-javascript-es6-application
+  - /topics/frontend/remove-unused-css-styles-from-bootstrap-using-purgecss
+  - /liquidity/an-overview-of-micro-investment-in-real-estate
+  - /llm/how-to-talk-to-chatgpt-effectively
+  - /wealth/choose-a-trade-network
+  - /wealth/pass-down-why-and-how
+  - /wealth/sg-political-challenges
+  - /wealth/sgd-pegged-to-usd
 ---
 
 <p>
@@ -23,7 +82,7 @@ redirect:
     </a>
 </p>
 
-## Latest from Research team
+## Latest from research team
 
 ```dsql-list
 SELECT markdown_link(COALESCE(short_title, title), file_path)
@@ -51,10 +110,10 @@ LIMIT 5;
 
 ### Tech domains
 
-- [AI & Machine Learning](/topics/ai): Artificial intelligence research and applications.
+- [AI & machine learning](/topics/ai): Artificial intelligence research and applications.
 - [Blockchain & DeFi](/topics/blockchain): Distributed systems and decentralized finance.
-- [Engineering & Architecture](/topics/engineering): Software construction and system design.
-- [Frontend & Mobile](/topics/frontend): User interface and mobile development.
+- [Engineering & architecture](/topics/engineering): Software construction and system design.
+- [Frontend & mobile](/topics/frontend): User interface and mobile development.
 - [Security & ZKP](/topics/security): Cybersecurity and zero-knowledge proofs.
 
 ### Design & UX

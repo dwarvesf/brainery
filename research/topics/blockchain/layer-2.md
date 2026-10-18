@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Layer 2: Scaling solutions for Ethereum"
+title: "Layer 2: scaling solutions for Ethereum"
 description: "Explore Layer 2 solutions for Ethereum scaling, including rollups and their benefits. Learn how Layer 2 extends Ethereum's capabilities, reduces gas fees, and maintains security while improving transaction throughput and efficiency."
 date: 2022-12-06
 authors:
@@ -12,6 +12,9 @@ tags:
   - ethereum
 redirect:
   - /rIxY9A
+  - /research/topics/blockchain/polygon-zkevm-architecture
+  - /blockchain/polygon-zkevm-architecture
+  - /W0MdwQ
 ---
 
 ## What?

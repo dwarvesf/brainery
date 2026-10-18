@@ -21,6 +21,8 @@ redirect:
   - /cii1GA
   - /research/topics/communication/the-opposable-mind
   - /e20g1A
+  - /research/notes/qualities-of-an-integrative-thinker
+  - /cMcK9Q
 ---
 
 These are reading notes on _The Opposable Mind: How Successful Leaders Win Through Integrative Thinking_ by Roger L. Martin (Harvard Business Review Press, 2007). They are adapted from David Drysdale's Moby Diction notes.

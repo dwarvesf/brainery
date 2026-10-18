@@ -1,23 +1,21 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Syllabus (research note)
+description: The goal of the Software Engineering degree is to produce a software engineer who can rapidly assume a position of substantial responsibility within an organization. To.
+date: 2026-10-18
 tags:
-  - 101
+  - "101"
   - engineering
   - syllabus
-redirect:
-  - /W2D1IQ
 ---
 
 The goal of the Software Engineering degree is to produce a software engineer who can rapidly assume a position of substantial responsibility within an organization. To achieve this goal, the curriculum must be designed to give the student a strong foundation of knowledge and practical skills that includes the software engineering process activities, software development lifecycle, various software development methodologies and tools, so they can develop quality products that meet the need of users.
 
-## First year (General knowledge & Comprehension)
+## First year (general knowledge & comprehension)
 
 a. Programming language and data structure. (Skills) b. Software process (Knowledge) c. Software Lifecycle (The evolution of software) Waterfall, Incremental, Spiral, Agile etc. d. Software methods (various method concepts from design, code, reuse, parallel etc.) e. Software maintenance (Modify, adaptive, corrective etc.) f. Technical communication (Soft-skills) writing, reading, terminology, presentation etc.
 
-## Second year (General knowledge & Comprehension)
+## Second year (general knowledge & comprehension)
 
 a. Programming language (Skills) b. Software configuration management and software quality assurance (Support activities) c. Software testing (Several concepts and test methods) d. Software project management (planning, and monitoring etc.) e. Software economics (Estimates, budget, plan, track etc.) f. Software operation (Issues, personnel, risks etc.)
 
@@ -25,7 +23,7 @@ a. Programming language (Skills) b. Software configuration management and softwa
 
 a. Requirements Engineering (Analysis, specification, customer relations, market analysis) b. Architecture & Design (Specification, plan, design, interfaces, quality attributes etc.) c. Implementation (A mini project to practice from req. to code, each week is review a topic in each phase) d. Measurement & Metrics (data collection and analysis, action, reports, status, quality etc.) e. Integration (How to put everything together) f. Database or embedded (Choice between two area)
 
-## Fourth year (Mostly Practicum – Evaluation and integration)
+## Fourth year (mostly practicum – evaluation and integration)
 
 a. Capstone (Real project given by industry) b. Soft-skills (Several workshops with various topics) c. Market & industry trends (Read news and discuss)
 
@@ -37,13 +35,13 @@ a. Capstone (Real project given by industry) b. Soft-skills (Several workshops w
 - Aspects: All aspects, as appropriate for the various activities.
 - Objectives: Knowledge of activities and aspects. Some comprehension of the issues, especially the distinctions among the various classes of activities. The students should begin to understand the substantial differences between programming, and software engineering, as it is practiced professionally in the industry.
 
-### Software Evolution (Lifecycle)
+### Software evolution (Lifecycle)
 
 - Topics: The concept of a software product life cycle. The various forms of a software product, from initial conception through development and operation to retirement. Controlling activities and disciplines to support evolution. Planned and unplanned events that affect software evolution. The role of changing technology.
 - Aspects: Models of software evolution, including development life cycle models such as the waterfall, iterative enhancement, phased development, spiral.
 - Objectives: Knowledge and comprehension of the models. Knowledge and comprehension of the controlling activities. Students should know all phases of the lifecycle in details and be able to follow it from requirements to retirement of software products.
 
-### Software Generation (Models and Methods)
+### Software generation (models and methods)
 
 - Topics: Various methods of software generation, including designing and coding from scratch, use of reusable components (including examples such as Mathematical procedure libraries, packages designed specifically for reuse, generic program units, open source software, and program concatenation as with pipes, use of program or application generators and very high level languages, role of prototyping. Factors affecting choice of a software generation method. Effects of generation method on other software development activities, such as testing and maintenance.
 - Aspects: Models of software generation. Representations for software generation, including design and implementation languages, very high level Languages, and application generators. Tools to support generation methods, including application generators.
@@ -55,7 +53,7 @@ a. Capstone (Real project given by industry) b. Soft-skills (Several workshops w
 - Aspects: Models of maintenance. Current methods.
 - Objectives: Knowledge and comprehension of the issues of software maintenance and current maintenance practice.
 
-### Technical Communication (Soft-skills)
+### Technical communication (Soft-skills)
 
 - Topics: Fundamentals of technical communication. Oral and written communications. Preparing oral presentations and supporting materials. Software project documentation of all kinds. Teamwork communication, public speaking, presentation skills.
 - Aspects: Principles of communication. Document preparation tools. Standards for presentations and documents.

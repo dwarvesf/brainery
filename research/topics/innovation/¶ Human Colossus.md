@@ -1,14 +1,12 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Human Colossus
+description: We evolved from blobs of cells that did nothing, to humans who learned to communicate with language to people who could mass produce books and share them across the.
+date: 2026-10-18
 tags:
   - human-colossus
   - human-progress
   - innovation
-redirect:
-  - /DmfiKA
 ---
 
 We evolved from blobs of cells that did nothing, to humans who learned to communicate with language to people who could mass produce books and share them across the world; at which point humanity became the **Human Colossus**, essentially one large organism with shared knowledge.
@@ -24,3 +22,5 @@ The takeaway is that **human knowledge compounds**, we build new things on the s
 #### Reference
 
 https://www.notboring.co/p/compounding-crazy
+
+Adapted from David Drysdale's Moby Diction notes.

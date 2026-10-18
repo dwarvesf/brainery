@@ -1,13 +1,11 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Social Capital
+description: Introduction to social capital.
+date: 2026-10-18
 tags:
   - social-capital
   - social-network
-redirect:
-  - /3vfQag
 ---
 
 ### Introduction to social capital
@@ -45,3 +43,5 @@ The fifth category, the “holy grail,” is **Both Social Capital and Utility S
 - There are many paths social networks follow, but the best is to have high social capital and utility from the start.
 - There are two asymptotes that even successful social networks might hit: the proof of work ceiling and social capital inflation/deflation.
 - Networks that start with high social capital need to figure out how to build utility before they hit those asymptotes to survive and thrive.
+
+Adapted from David Drysdale's Moby Diction notes.

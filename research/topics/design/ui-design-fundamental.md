@@ -9,6 +9,9 @@ tags:
   - design
 redirect:
   - /p4Hp0g
+  - /research/topics/design/design-better-mobile-application
+  - /vofZhQ
+  - /topics/design/design-better-mobile-application
 ---
 
 When you design UI for an app or a website, the first thing that the designer needs to determine the purpose of the product and the target audience. You should plan and calculate for your UI design.

@@ -1,10 +1,8 @@
 ---
-draft: false
+draft: true
 title: "Smart contract precautions: circuit breakers, rate limits and speed bumps"
 description: Learn how to prepare smart contracts for failure with techniques like circuit breakers, rate limits, speed bumps, and upgradeability to enhance blockchain security and reduce risks.
 date: 2026-08-27
-redirect:
-  - /y1jyKw
 authors:
   - tieubao
 ---

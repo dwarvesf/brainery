@@ -1,13 +1,11 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Data ERD (research note)
+description: ERD stands for Entity Relationship Diagram, a structural diagram that contains symbols nad connectors that visualizes 2 types of information.
+date: 2026-10-18
 tags:
   - data
   - diagram
-redirect:
-  - /C8UYgg
 ---
 
 ### What

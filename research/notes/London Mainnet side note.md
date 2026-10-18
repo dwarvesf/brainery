@@ -1,13 +1,11 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: London Mainnet side note (research note)
+description: London hardfork will go live on mainnet on block 1296500 (Aug 3-5).
+date: 2026-10-18
 tags:
   - blockchain
   - ethereum
-redirect:
-  - /4hnW3g
 ---
 
 ### POV

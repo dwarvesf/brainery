@@ -5,6 +5,12 @@ description: Learn best practices for Solidity smart contracts including abstrac
 date: 2026-08-27
 redirect:
   - /VQSEAA
+  - /research/topics/blockchain/external-calls
+  - /blockchain/external-calls
+  - /2m57IQ
+  - /research/topics/blockchain/precautions
+  - /blockchain/precautions
+  - /y1jyKw
 authors:
   - tieubao
 ---

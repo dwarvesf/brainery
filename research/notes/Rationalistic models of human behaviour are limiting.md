@@ -1,12 +1,10 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Rationalistic models of human behaviour are limiting (research note)
+description: "Human beings aren't clockwork machines. We might like to pretend that they are—it fits our mental model of a rational, orderly universe—but behaviour is not reducible to."
+date: 2026-10-18
 tags:
   - insight
-redirect:
-  - /4yB2pw
 ---
 
 Human beings aren't clockwork machines. We might like to pretend that they are—it fits our mental model of a rational, orderly universe—but behaviour is not reducible to a machine-like system of inputs and outputs. Nevertheless, a common understanding of human cognition assumes just this, informed by an operational metaphor that borrows from computation.
@@ -27,4 +25,6 @@ In fact, there's good evidence that human beings are not rational actors at all.
 
 [[≈ Sensemaking | Madsbjerg, Christian. Sensemaking: The Power of the Humanities in the Age of the Algorithm. Hachette Books, 2017.]]
 
-[Sutherland, Rory. Alchemy: The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life. Illustrated edition. William Morrow, 2019.](https://publish.obsidian.md/mobydiction/Sutherland+-+Alchemy)
+Sutherland, Rory. Alchemy: The Dark Art and Curious Science of Creating Magic in Brands, Business, and Life. Illustrated edition. William Morrow, 2019.
+
+Adapted from David Drysdale's Moby Diction notes.

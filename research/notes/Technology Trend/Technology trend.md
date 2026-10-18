@@ -1,12 +1,10 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Technology trend (research note)
+description: Technology is evolving day by day and has a huge impact on both our individual and social lives. It plays a tool to solve our problems, helps improve the quality of.
+date: 2026-10-18
 tags:
   - technology
-redirect:
-  - /jQOINg
 ---
 
 Technology is evolving day by day and has a huge impact on both our individual and social lives. It plays a tool to solve our problems, helps improve the quality of lives and makes it much easier to live. As technology thrives, businesses must continually embrace technology trends to seize new opportunities and not fall behind. This study will learn what the technology trend is, how to evaluate new technology and how to follow the trend.
@@ -43,10 +41,10 @@ Technology has a significant influence on life and is evolving, more and more ne
 
 According to Cleverism, technology trend awareness as a skill refers to being mindful of the recent becoming popular technology and is readily accepted in the market or industry. It also encompasses one's ability to recognize and understand the usefulness of any such technology for the success of his business. To improve the technology trend awareness skill, there are some ways as below:
 
-- **Follow KOL on Social Media.** Twitter, Facebook, LinkedIn, even Reddit and Quora, or podcasts are great platforms to connect with experts worldwide. Follow and connect with them on social media platforms is the easiest way to know what's happening in this industry. Social media also lets us see what's trending at the exact moment in geographic areas.
+- **Follow KOL on social media.** Twitter, Facebook, LinkedIn, even Reddit and Quora, or podcasts are great platforms to connect with experts worldwide. Follow and connect with them on social media platforms is the easiest way to know what's happening in this industry. Social media also lets us see what's trending at the exact moment in geographic areas.
 - **Newsletter.** Warm-up a typical workday with a cup of coffee and a newsletter before deep burry in tasks is also a way to improve skill. Find some technology-focused websites and subscribe to their newsletters, the aggregated news will help you reduce the time searching information and identify trends quickly. Practicing reading habits every day allows us to recognize the technology movement.
-- **Seminar and Community.** Reading is not the only way to gain knowledge, as there are some sources for which we are uncertain about the accuracy. So, after reading, try to discuss with people with the same interests and levels; or attend seminars, listen to experts directly, join in the discussion to express opinions and explore more.
-- **Keep up with Competitors.** Learning from competitors is a great way to ensure we stay updated. Pursuing new technology is a race to grab the market pie, so learning and observing our competitors help us reposition, track and accelerate when necessary to avoid getting left behind.
+- **Seminar and community.** Reading is not the only way to gain knowledge, as there are some sources for which we are uncertain about the accuracy. So, after reading, try to discuss with people with the same interests and levels; or attend seminars, listen to experts directly, join in the discussion to express opinions and explore more.
+- **Keep up with competitors.** Learning from competitors is a great way to ensure we stay updated. Pursuing new technology is a race to grab the market pie, so learning and observing our competitors help us reposition, track and accelerate when necessary to avoid getting left behind.
 - **Be open to change.** It is the most important thing when it comes to learning new technology. The change could be challenging and might be failed, but be flexible and open to changes, learn from the failure will keep us stay on the top of technology innovation.
 - **Expand the area of focus.** It's not about the technology, it's an industry. Besides pursuing new technology, we need to learn more about the industry and its economic value. From the above evaluation criteria, we can make a judgment on that trend, avoiding the overwhelm of technology news.
 

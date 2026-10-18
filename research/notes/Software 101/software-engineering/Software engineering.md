@@ -1,13 +1,11 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Software engineering (research note)
+description: Software engineering is an engineering discipline that’s applied to the development of software in a systematic approach (software process). It’s the application of.
+date: 2026-10-18
 tags:
-  - 101
+  - "101"
   - engineering
-redirect:
-  - /gsTsSDI
 ---
 
 Software engineering is an engineering discipline that’s applied to the development of software in a **systematic approach** (software process). It’s the application of theories, methods, and tools to design build a software that meets the specifications efficiently, cost-effectively, and ensuring quality. (**time** - **budget** - **quality**)

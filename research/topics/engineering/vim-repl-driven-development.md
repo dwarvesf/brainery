@@ -6,6 +6,10 @@ date: 2023-06-09
 github_id: thanhnguyen2187
 redirect:
   - /lW1gvg
+  - /research/topics/golang/connecting-vim-with-golang
+  - /weekly/connecting-vim-with-golang
+  - /YIc6xA
+  - /golang/connecting-vim-with-golang
 authors:
   - thanhnguyen2187
 ---

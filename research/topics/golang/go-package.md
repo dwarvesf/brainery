@@ -25,6 +25,10 @@ redirect:
   - /research/topics/golang/error-handling-patterns
   - /YftkWA
   - /research/topics/golang/go-generics-type-safety
+  - /research/topics/golang/use-go-selenium-to-crawl-data
+  - /weekly/use-go-selenium-to-crawl-data
+  - /mJ10Tg
+  - /golang/use-go-selenium-to-crawl-data
 ---
 
 Go pushes [composition over inheritance](https://go.dev/doc/faq#Is_Go_an_object-oriented_language), so the unit you build with is different from other languages. In Go, packages serve as the basic building blocks for creating modular, reusable and maintainable software, and the language encourages you to organize code in a package-oriented way.

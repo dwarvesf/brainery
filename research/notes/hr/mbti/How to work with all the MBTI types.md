@@ -1,13 +1,11 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: How to work with all the MBTI types (research note)
+description: The best practices to work with all MBTI types, ref from Atlassian.
+date: 2026-10-18
 tags:
   - mbti
   - team-building
-redirect:
-  - /qP3rlQ
 ---
 
 The best practices to work with all MBTI types, ref from Atlassian
@@ -50,7 +48,7 @@ The best practices to work with all MBTI types, ref from Atlassian
 
 #### INTP: Logician
 
-- Really needs to be given the freedom to do things in an original way, and to be *listened* to, because they come up with the smartest solutions
+- Really needs to be given the freedom to do things in an original way, and to be _listened_ to, because they come up with the smartest solutions
 - Their weak spot is that they often neglect to share decisions and solutions. If there’s an INTP on your team, encourage them to use shared documents and software as much as possible.
 
 #### ESTP: Entrepreneur

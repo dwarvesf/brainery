@@ -1,12 +1,10 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Advice should be unique to the problem (research note)
+description: The problem of bad advice is the unrelativity between the advice and the situation.
+date: 2026-10-18
 tags:
   - productivity
-redirect:
-  - /UlLAEg
 ---
 
 The problem of bad advice is the unrelativity between the advice and the situation.

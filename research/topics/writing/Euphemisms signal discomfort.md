@@ -1,13 +1,11 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Euphemisms signal discomfort (research note)
+description: A euphemism is a sign that something makes us uncomfortable. Euphemisms are a means of distancing ourselves from decisions or activities that we don’t align with our.
+date: 2026-10-18
 tags:
   - euphemism
   - writing
-redirect:
-  - /ICjhqA
 ---
 
 A euphemism is a sign that something makes us uncomfortable. Euphemisms are a means of distancing ourselves from decisions or activities that we don’t align with our values. They in turn can enable negative behaviours because they become softened through the language used to describe them.
@@ -25,3 +23,5 @@ Simon Sinek suggests that in business, euphemisms are used to discuss matters th
 #### Reference
 
 [[≈ The Infinite Game | Sinek, Simon. The Infinite Game. New York: Portfolio, 2019.]]
+
+Adapted from David Drysdale's Moby Diction notes.
