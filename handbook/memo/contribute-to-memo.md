@@ -1,5 +1,5 @@
 ---
-title: Getting your post onto memo, whichever badge you hold
+title: Getting your post onto memo, whether you are staff, alumni or a guest
 description: How staff, alumni and outside writers publish on Dwarves Memo, from the path chooser and the pull request to credit, agent prompts and the lint errors you will meet.
 date: 2026-10-18
 authors:
@@ -24,13 +24,13 @@ redirect:
   - /eFskmA
 ---
 
-Memo has three doors, and the one you use depends on the badge you hold: team, fellow or guest. Staff with write access open a branch in `dwarvesf/brainery` and send a pull request. Staff without write access and alumni without a blog send the same pull request from a fork. A writer who owns a blog domain skips the repo: they prove the domain, an editor approves, and each approved post lands as a native note.
+Memo has three doors, and the one you use depends on who you are: a member (current staff), a fellow (alumni) or a guest writer. Staff with write access open a branch in `dwarvesf/brainery` and send a pull request. Staff without write access and alumni without a blog send the same pull request from a fork. A writer who owns a blog domain skips the repo: they prove the domain, an editor approves, and each approved post lands as a native note.
 
 No outside writer has published on memo yet. The only guest note so far comes from truonghan.com, the maintainer's own blog, so the guest door works and has never been used by a stranger. The fork door has a similar record, covered in the fellow path below.
 
 ![](assets/contribute-to-memo-fig1-path-chooser.svg)
 
-_Fig. 1: Find your badge, follow the branch. The bottom row names the agent skill for each path._
+_Fig. 1: Find yourself, follow the branch. The bottom row names the agent skill for each path._
 
 ## Find your path in 30 seconds
 
@@ -60,11 +60,11 @@ The folder tests in the next chapter show the bar for each kind of post. A repor
 
 What you get back depends on your door.
 
-| Door              | Byline and badge                                                                                                  | Reward                                                                                       |
-| ----------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| Member            | A contributor page at `memo.d.foundation/contributor/<handle>`, badge team                                        | No per-post reward for member posts today                                                    |
-| Fellow, fork path | The same page, badge fellow when the member profile marks you as alumni                                           | No per-post reward rule is published                                                         |
-| Guest writer      | A contributor page with a guest badge and your verified domain, plus a `rel=canonical` link back to your own site | 5 to 20 ICY per published post, set by an editor, under a monthly cap the editors can change |
+| Door              | Byline                                                                                          | Reward                                                                                       |
+| ----------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Member            | A contributor page at `memo.d.foundation/contributor/<handle>`                                  | No per-post reward for member posts today                                                    |
+| Fellow, fork path | The same contributor page                                                                       | No per-post reward rule is published                                                         |
+| Guest writer      | A contributor page with your verified domain, plus a `rel=canonical` link back to your own site | 5 to 20 ICY per published post, set by an editor, under a monthly cap the editors can change |
 
 Dwarves has no rule that pays members for posts in the repo, so this page promises none. The ICY figures for guests come from the live join page, and chapter 5 covers them.
 
@@ -229,7 +229,7 @@ A fellow with a blog could use either door, and the choice decides where the pos
 
 Use the guest writer flow. The fellow program page's own "Write as a Fellow" button leads to `memo.d.foundation/writers/join`. Tell your agent to read `memo.d.foundation/skill.md` and get you onto Dwarves Memo, or fill in the form on the join page. Chapter 5 walks the flow.
 
-Two points apply to fellows. If you already have a contributor handle from earlier posts, ask the editors at team@d.foundation to link your domain to it. The `dwarves.json` file you publish has an optional `native` field for that link, and memo treats it as a proposal that an admin confirms. After the link, your page is the member page, and the old contributor URL redirects there. The badge on a member page follows the member profile, which reads fellow for alumni. Posts that arrive through the guest flow follow the guest reward rule in chapter 5.
+Two points apply to fellows. If you already have a contributor handle from earlier posts, ask the editors at team@d.foundation to link your domain to it. The `dwarves.json` file you publish has an optional `native` field for that link, and memo treats it as a proposal that an admin confirms. After the link, your page is the member page, and the old contributor URL redirects there. Posts that arrive through the guest flow follow the guest reward rule in chapter 5.
 
 ### You have no blog
 
@@ -263,11 +263,11 @@ The fork door has a thin record. In the repo's history, all 17 fork pull request
 
 ### You have no GitHub account
 
-Email the draft to team@d.foundation. Include the Markdown in the message, say which badge you hold, and say what the post is about. An editor takes it from there. No reply time is published, so plan around that.
+Email the draft to team@d.foundation. Include the Markdown in the message, say whether you are staff or alumni, and say what the post is about. An editor takes it from there. No reply time is published, so plan around that.
 
 ### Staff without write access
 
-The fork steps above are yours too. Your badge is team.
+The fork steps above are yours too.
 
 ## The guest writer path
 
@@ -387,7 +387,7 @@ A Discord username is the wrong value. Discord names create wrong pages, and the
 
 _Fig. 9: A contributor page: name, avatar, linked GitHub and Discord accounts, and a DID. Memo shows no team or fellow badge on this page today._
 
-The page shows a name, an avatar, a bio and links when the contributor has a profile record. A handle with no profile still gets a page. It shows the handle as the name and no picture. The badge comes from who you are: team by default, fellow when the profile marks you as alumni, guest when the registry has badged you. Guest writers get a handle that memo assigns, so they never choose a byline in frontmatter.
+The page shows a name, an avatar, a bio and links when the contributor has a profile record. A handle with no profile still gets a page. It shows the handle as the name and no picture. The page shows no team, fellow or guest badge today. Guest writers get a handle that memo assigns, so they never choose a byline in frontmatter.
 
 If you are outside the Dwarves Discord and want to prove that a GitHub byline is yours, open `memo.d.foundation/claim`. You add one token to your GitHub profile README, and memo checks it. There is no account to create and no password to enter.
 

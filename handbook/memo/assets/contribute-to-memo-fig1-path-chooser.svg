@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 482" role="img" aria-label="Path chooser. Who are you? A member, meaning current Dwarves staff or contractor, asks whether they have write access: yes means a branch and pull request, no means a fork and pull request. A fellow, meaning alumni, asks whether they own a blog: yes means the guest writer flow with a fellow badge, no means a fork pull request or an email draft to team@d.foundation. A guest writer, meaning an outsider with a blog domain, uses the guest writer flow with domain proof and approval. The agent skills are contribute-skill.md in branch mode, contribute-skill.md in fork mode, and skill.md." style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 482" role="img" aria-label="Path chooser. Who are you? A member, meaning current Dwarves staff or contractor, asks whether they have write access: yes means a branch and pull request, no means a fork and pull request. A fellow, meaning alumni, asks whether they own a blog: yes means the guest writer flow, linked to their member page, no means a fork pull request or an email draft to team@d.foundation. A guest writer, meaning an outsider with a blog domain, uses the guest writer flow with domain proof and approval. The agent skills are contribute-skill.md in branch mode, contribute-skill.md in fork mode, and skill.md." style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
   <defs>
     <pattern id="grid1" width="26" height="26" patternUnits="userSpaceOnUse">
       <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
@@ -14,7 +14,7 @@
   <rect width="760" height="482" fill="url(#grid1)"/>
   <rect x="0.5" y="0.5" width="759" height="481" fill="none" stroke="#68839d"/>
   <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 1 · PATH CHOOSER</text>
-  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">FIND YOUR BADGE, FOLLOW THE BRANCH</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">FIND YOURSELF, FOLLOW THE BRANCH</text>
   <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
   <rect x="24" y="196" width="140" height="58" fill="#21466a" stroke="#e8c56a" stroke-width="2"/>
   <text x="94.0" y="219.5" font-size="16" letter-spacing="2" fill="#e8c56a" text-anchor="middle">WHO ARE</text>
@@ -62,7 +62,7 @@
   <text x="642.0" y="157.0" font-size="10" fill="#a7c0d9" text-anchor="middle">a maintainer merges it</text>
   <rect x="548" y="184" width="188" height="50" fill="#21466a" stroke="#68839d"/>
   <text x="642.0" y="205.0" font-size="13" fill="#e8f1fa" text-anchor="middle">Guest writer flow</text>
-  <text x="642.0" y="221.0" font-size="10" fill="#a7c0d9" text-anchor="middle">fellow badge</text>
+  <text x="642.0" y="221.0" font-size="10" fill="#a7c0d9" text-anchor="middle">linked to your member page</text>
   <rect x="548" y="248" width="188" height="50" fill="#21466a" stroke="#68839d"/>
   <text x="642.0" y="269.0" font-size="13" fill="#e8f1fa" text-anchor="middle">Fork PR, or email</text>
   <text x="642.0" y="285.0" font-size="10" fill="#a7c0d9" text-anchor="middle">draft to team@d.foundation</text>
