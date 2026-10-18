@@ -76,7 +76,7 @@ A rule that says target is a budget the editors check by hand. No automatic chec
 
 ## Interactive figures in guest posts
 
-The contract lives at [`memo.d.foundation/figures.md`](https://memo.d.foundation/figures.md?plain=1). These rules are the editor's side of it.
+The contract lives at [`memo.d.foundation/figures.md`](https://memo.d.foundation/figures.md). These rules are the editor's side of it.
 
 34. **Guest imports.** The static figure is the figure. It must read fully with no script, in RSS and with reduced motion. Test: view the page with scripts off.
 35. **Guest imports.** Use `figure.fig` blocks only. Memo ignores inline `<script>` and `<style>` and every stylesheet except up to three same-host `https` sheets. Each sheet's path contains `fig`, or its tag carries `data-figkit`, and the total is at most 512 KB. Test: the figure stylesheet path matches `fig`.
