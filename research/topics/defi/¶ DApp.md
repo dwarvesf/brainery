@@ -1,13 +1,12 @@
 ---
-draft: false
+draft: true
 title: DApps
-description: null
-date: null
+description: A Dapp is an application that is mostly or entirely decentralized.
+date: 2026-10-18
 tags:
   - blockchain
   - dapp
-redirect:
-  - /fLduHg
+redirect: []
 ---
 
 ### DApps

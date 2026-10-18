@@ -1,12 +1,11 @@
 ---
-draft: false
+draft: true
 title: "Writing literature notes to inform permanent notes"
 description: Learn how to make effective literature notes by summarizing texts in your own words, avoiding information overload, and linking notes to develop new ideas for better understanding and writing.
 date: 2026-08-27
-redirect:
-  - /jELjwg
 authors:
   - tieubao
+redirect: []
 ---
 
 Literature notes are notes that record anything from a text that you might want to use later. They should accurately and faithfully reflect the work you are consuming, but translate the ideas into new words to help facilitate better understanding.

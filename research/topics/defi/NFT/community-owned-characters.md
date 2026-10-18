@@ -11,7 +11,7 @@ authors:
 
 ## The trend of owning a character
 
-These decentralized autonomous organizations [[DAO]] provide creators around the world with a mechanism to form new NFT characters and communities, with real money - just like compelling fantasy sports that want to take the place of sports fans in terms of team ownership (and potentially financial returns).
+These decentralized autonomous organizations [[defi-dapps-daos#DAOs|DAO]] provide creators around the world with a mechanism to form new NFT characters and communities, with real money - just like compelling fantasy sports that want to take the place of sports fans in terms of team ownership (and potentially financial returns).
 
 ## How DAO make this happen?
 

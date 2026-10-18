@@ -15,7 +15,7 @@ According to Steven Johnson, the word “serendipity” comes from to us from a 
 
 We can foster serendipity by designing our physical and our mental environments, creating conditions where ideas can collide with one another. Unconscious states, like dreaming, can help provoke the collision of ideas in ways that generate new insight.
 
-One way to promote serendipity is to force encounters with ideas and writing that we’ve forgotten about. There are now software tools that facilitate this, as does [[¶ Luhmann's zettelkasten]].
+One way to promote serendipity is to force encounters with ideas and writing that we’ve forgotten about. There are now software tools that facilitate this, as does [Luhmann's zettelkasten](/zettelkasten-concept-notes#luhmanns-zettelkasten).
 
 ---
 
@@ -24,7 +24,7 @@ One way to promote serendipity is to force encounters with ideas and writing tha
 - [[Ideas are remixes]]
 - [[Ideas are networks]]
 - [[Ideas are constellations]]
-- [[Build randomness into knowledge generation systems]]
+- [Build randomness into knowledge generation systems](/zettelkasten-concept-notes#add-randomness-to-surface-unexpected-connections)
 - [[≈ Where Good Ideas Come From]]
 - [[§ Innovation]]
 

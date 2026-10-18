@@ -1,12 +1,11 @@
 ---
-draft: false
+draft: true
 title: "Surprising connections between ideas make learning stick"
 description: Discover how surprising connections between ideas spark new insights and why broad reading and random linking in knowledge systems boost creativity and understanding.
 date: 2026-08-27
-redirect:
-  - /rzHAZw
 authors:
   - tieubao
+redirect: []
 ---
 
 Information is created through the juxtaposition of one idea with another. But insight emerges when that juxtaposition creates a sense of surprise. When we are surprised—when we are confronted not with the expected message but a novel perspective—it expands our understanding by provoking comparison and contrast, evaluation and re-imagination.

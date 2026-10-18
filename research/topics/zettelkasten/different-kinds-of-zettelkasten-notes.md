@@ -1,12 +1,11 @@
 ---
-draft: false
+draft: true
 title: "Fleeting, permanent and project notes in a zettelkasten"
 description: Learn how the Zettelkasten method uses fleeting, permanent, and project notes to boost writing and thinking by capturing and rephrasing ideas for better understanding and lasting value.
 date: 2026-08-27
-redirect:
-  - /HNhMPw
 authors:
   - tieubao
+redirect: []
 ---
 
 In the Zettelkasten method as described by Ahrens in How to Take Smart Notes, there are three kinds of notes:

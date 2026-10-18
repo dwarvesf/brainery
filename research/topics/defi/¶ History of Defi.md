@@ -1,8 +1,8 @@
 ---
 draft: false
-title: ¶ History of defi
-description: null
-date: null
+title: History of DeFi
+description: A timeline of DeFi from Bitcoin and Ethereum through Maker, ICOs, Uniswap and yield farming to the 2020 token launches.
+date: 2026-10-18
 redirect:
   - /aWOPCA
 ---
@@ -55,7 +55,7 @@ Sự kiện cuối cùng: Token UNI. Tất cả người dùng trước đây c�
 
 #### Related
 
-- [[¶  DeFi (Decentralized Finance)]]
+- [[defi-dapps-daos#DeFi|DeFi]]
 - [[¶ Decentralized Exchange]]
 
 #### Reference
