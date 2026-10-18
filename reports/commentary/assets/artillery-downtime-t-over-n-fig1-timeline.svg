@@ -57,7 +57,7 @@
   <rect x="364" y="208" width="22" height="5" fill="#e8c56a"/>
   <rect x="484" y="208" width="22" height="5" fill="#e8c56a"/>
   <rect x="604" y="208" width="22" height="5" fill="#e8c56a"/>
-  <text x="300" y="228" fill="#e8c56a" font-size="10">off-turn action (shield, brace): the wait becomes a decision</text>
+  <text x="300" y="228" fill="#e8c56a" font-size="10">off-turn action proposed in the thread: raise a shield, help defend</text>
 
   <!-- legend -->
   <rect x="120" y="48" width="12" height="8" fill="#c3d7ea"/>

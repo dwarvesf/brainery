@@ -22,7 +22,7 @@ redirect:
   - /overpowered-prologue-reset
 ---
 
-phucld opened [9T](https://bienvh.itch.io/9t), bievh's cultivation game, and wrote: "vo choi ko hieu gi het, chac phai doc may bo tu tien moi tham noi" (I went in and understood nothing, I would have to read a few cultivation novels first). bievh pointed him at the guide in the character menu and left the rest for people who love the genre, closing with "ko thì bye".
+phucld opened [9T](https://bienvh.itch.io/9t), bievh's cultivation game, and wrote: "vo choi ko hieu gi het, chac phai doc may bo tu tien moi tham noi" (I went in and understood nothing, I would have to read a few cultivation novels first). bievh pointed him at the guide in the character menu and left the rest for fans to find, adding "ko thì bye" (otherwise, bye).
 
 _Written by neko-anon, the Dwarves editorial desk bot, from a #build-club discussion. Ideas from [bievh](/contributor/bievh), [tuanddd](/contributor/tuanddd) and [phucld](/contributor/phucld)._
 
@@ -34,7 +34,7 @@ _Fig. 1: What 9T's four-tab guide shows, what bievh leaves for players to find, 
 
 bievh dropped 9T into #build-club late on 1 October. A cultivation game follows xianxia fiction: a mortal grinds through stages of power toward immortality. tieubao's first request was a cheat code to skip to a sword technique.
 
-phucld's message came the next morning, with one compliment: the map looked great. bievh's reply: "cơ chế hơi ... nma em thích v hơn" (the mechanics are a bit ..., but I like it this way), then "còn nhiều cơ chế ẩn ai mê thì tự mò" (there are many hidden mechanics, fans dig for them). The guide had already been cut: "cái guide 15 tab em rút còn 4 tab thì phải" (the 15-tab guide, I cut to 4, I think).
+phucld's message came the next morning, with one compliment: the map looked great. bievh's reply: "cơ chế hơi ... nma em thic v hơn" (the mechanics are a bit ..., but I like it this way), then "còn nhiều cơ chế ẩn ai mê thì tự mò" (there are many hidden mechanics, fans dig for them). bievh had already cut the guide: "cái guide 15 tab em rút còn 4 tab thì phải" (the 15-tab guide, I cut to 4, I think).
 
 ## The loop the guide shows
 
@@ -44,11 +44,11 @@ bievh stated the first loop in one message: "tu lên lvl 1 => đánh quái => b�
 
 On release night bievh wrote: "co nhieu easter egg tu tien trong design lam, ma choi tu tu moi vui, hack ti het vui" (many cultivation easter eggs are in the design; play slowly and it is fun; hack and the fun is gone). His examples that night:
 
-- Apprentice alchemy burns firewood, so the fire is "phàm hỏa", mundane fire. bievh listed it as an easter egg.
+- Apprentice alchemy burns firewood, so the fire is "pham hoa" (phàm hỏa, mundane fire). bievh listed it as an easter egg.
 - Spiritual roots are random, each with its own aura. A weak root means a longer game.
 - Once the character outlevels a monster, the monster runs instead of fighting.
 
-The next morning he added a tip in chat, after phucld's screenshot: sitting by the rock cultivates faster, because a spirit vein runs under it. huymaius asked whether the game has a pit with a secret manual at the bottom. bievh: "co", he is designing "bí cảnh", secret realms.
+The next morning, after phucld's screenshot, he added a tip in chat. Sitting by the rock cultivates faster, because a spirit vein runs under it. huymaius asked whether the game has a pit with a secret manual at the bottom. bievh: "co", he is designing "bi canh" (bí cảnh, secret realms).
 
 bievh's own doubt sits next to the design: "hien tai choi ko cheat chac cung duoc 20-30h. dieu ko biet co bi chán ko thoi" (without cheats it is probably 20 to 30 hours; I just do not know whether it gets boring). His plan is to widen the map with low-level features, then design the next stage.
 
@@ -58,7 +58,7 @@ One market data point: PCGamesN reported in March 2021 that Tale of Immortal, a 
 
 Two weeks later, under a graphics update, tuanddd proposed the other half of the onboarding: "làm story kiểu mình là đại thần tiên trên trời, đầu game nhảy vô là full trang bị + phép, đi tung hoành tùm lum xong bị đày xuống trùng sinh thành người thường (reset lv1)" (make the story so you are a great immortal in the heavens; you start with full gear and spells, wreak havoc, then get banished and reborn as a mortal, reset to level 1). bievh answered "legit" and said he would try it.
 
-The prologue shows the fantasy at full strength before the rice grind, and gives the level-1 start a cause inside the fiction. Whether the opening is playable or a cutscene did not come up.
+The prologue shows the fantasy at full strength before the rice grind. It also gives the level-1 start a cause inside the fiction. Whether the opening is playable or a cutscene did not come up.
 
 ## Sources
 

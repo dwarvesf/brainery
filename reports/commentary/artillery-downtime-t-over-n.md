@@ -62,11 +62,11 @@ tuanddd's own shortlist read "weapon idea + cool effect / story mode / ghost mod
 
 ## Scope, the same evening
 
-That evening tuanddd listed what the build already had: a story, daily quests, level ranking, seasonal events with limited items, a dashboard to schedule events, and a dashboard for metrics and gift codes. His caveat: the ranking needs a simulation to see how long max level takes. tieubao asked to see the lore. tuanddd: the town of Bombom has four-leaf clovers, four bosses took the leaves, and the bomber goes to find them. "story need more work". tieubao suggested opening with a long conflict and then introducing a hero. His closing line on scope: "cho no day du truoc, roi lua. cai gi thi lua" (let it be complete first, then choose what to keep).
+That evening tuanddd listed what the build already had. A story, daily quests, level ranking, seasonal events with limited items. A dashboard to schedule events, and another for metrics and gift codes. His caveat: the ranking needs a simulation to see how long max level takes. tieubao asked to see the lore. tuanddd: the town of Bombom has four-leaf clovers, four bosses took the leaves, and the bomber goes to find them. "story need more work". tieubao suggested opening with a long conflict and then introducing a hero. His closing line on scope: "cho no day du truoc, roi lua. cai gi thi lua" (let it be complete first, then choose what to keep).
 
 ## One number to track
 
-T/N gives the prototype a measurement: seconds a player spends deciding, divided by match seconds, with dead time counted as zero. The off-turn options target the waiting share of that ratio. Nobody in the thread measured it.
+T/N gives the prototype a measurement. Seconds a player spends deciding, divided by match seconds, with dead time counted as zero. The off-turn options target the waiting share of that ratio. Nobody in the thread measured it.
 
 ## Sources
 
