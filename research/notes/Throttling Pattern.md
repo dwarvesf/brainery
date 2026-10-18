@@ -1,6 +1,6 @@
 ---
 draft: true
-title: Throttling Pattern (research note)
+title: Throttling pattern (research note)
 description: Control the consumption of resources used by an instance of an application, an individual tenant, or an entire service.
 date: 2026-10-18
 tags:

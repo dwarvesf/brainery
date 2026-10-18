@@ -115,7 +115,7 @@ References:
 - https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/saga/saga
 - https://blog.couchbase.com/saga-pattern-implement-business-transactions-using-microservices-part/
 
-### Command Query Responsibility Segregation (CQRS)
+### Command query responsibility segregation (CQRS)
 
 CQRS separates read and update operations for a data store.
 

@@ -148,7 +148,7 @@ Back to the example at the beginning of the article
 - Q: If we use approach 1, what happens?
 - A: Because the counter component in two case is the same component + same position => The state still the same. That makes a bug, although the name props changed, but the `score` still stay. It's normal in React, but it isn't what we want, right? We have 2 options for it
 
-### Option 1: Rendering component with different positions
+### Option 1: rendering component with different positions
 
 - It's exactly what Approach 2 does, rendering component with different positions
 
@@ -163,7 +163,7 @@ Back to the example at the beginning of the article
 
 ![](assets/preserving-and-resetting-state-in-react_opt1-diff-position.webp)
 
-### Option 2: Resetting state with a key (recommendation)
+### Option 2: resetting state with a key (recommendation)
 
 ```js
 {

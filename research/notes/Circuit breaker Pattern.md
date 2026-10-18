@@ -1,6 +1,6 @@
 ---
 draft: true
-title: Circuit breaker Pattern (research note)
+title: Circuit breaker pattern (research note)
 description: A circuit breaker proxies operations that might fail and stops retrying a faulty service.
 date: 2026-10-18
 tags:

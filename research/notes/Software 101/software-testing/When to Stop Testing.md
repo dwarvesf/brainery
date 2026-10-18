@@ -1,6 +1,6 @@
 ---
 draft: true
-title: When to Stop Testing (research note)
+title: When to stop testing (research note)
 description: In theory, testers should stop testing until all defects are found and fixed.
 date: 2026-10-18
 tags:

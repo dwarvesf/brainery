@@ -1,6 +1,6 @@
 ---
 draft: true
-title: Publisher Subscriber pattern (research note)
+title: Publisher subscriber pattern (research note)
 description: Asynchronous messaging that decouples senders from consumers in distributed applications.
 date: 2026-10-18
 tags:
