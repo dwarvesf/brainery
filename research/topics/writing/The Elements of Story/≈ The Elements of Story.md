@@ -1,10 +1,9 @@
 ---
-draft: false
+draft: true
 title: "The Elements of Story: nonfiction writing techniques from Francis Flaherty"
 description: Learn key nonfiction writing techniques from Francis Flaherty’s manual, covering narrative sequencing, strong leads, clear language, and storytelling that makes abstract ideas relatable and memorable.
 date: 2026-08-27
-redirect:
-  - /BjMCWg
+redirect: []
 authors:
   - tieubao
 ---

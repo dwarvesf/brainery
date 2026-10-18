@@ -1,10 +1,9 @@
 ---
-draft: false
+draft: true
 title: "Falsifiability (reading note)"
 description: Falsifiability is the ability to prove a statement false and helps turn observations into scientific laws by seeking disconfirming evidence rather than just confirming data.
 date: 2026-08-27
-redirect:
-  - /ye0BtQ
+redirect: []
 authors:
   - tieubao
 ---

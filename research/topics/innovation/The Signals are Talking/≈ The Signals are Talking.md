@@ -1,15 +1,14 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: "The Signals are Talking (reading note)"
+description: "Outline of the ideas in Amy Webb's The Signals Are Talking, grouped as trendspotting, barriers to spotting trends, methods and communicating about the future."
+date: 2026-08-21
 tags:
   - future
   - innovation
   - signal
   - ux
-redirect:
-  - /Aq7NTg
+redirect: []
 ---
 
 ### Notes

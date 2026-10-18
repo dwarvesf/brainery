@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Structural metaphors reveal and conceal different aspects of experience (reading note)"
 description: "Structural metaphors emphasize some aspects of experience but hide others."
 date: 2026-08-27
@@ -8,8 +8,7 @@ authors:
 tags:
   - communication
   - metaphor
-redirect:
-  - /lQgKNw
+redirect: []
 ---
 
 Structural metaphors emphasize some aspects of experience but hide others. For example, using martial terms to discuss argument occludes argument as a potentially cooperative activity. Metaphors can never capture the full aspect of what they are used to describe; therefore, they shape our perspective of what they describe. They reveal and conceal. In so doing, they may sanction or prohibit different inferences and actions by implying an appropriate relation to what is being described.

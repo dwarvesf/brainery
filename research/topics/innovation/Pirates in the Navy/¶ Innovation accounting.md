@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Innovation accounting (reading note)"
 description: "Supporting innovation requires organizations adopt new methods of investment decision-making and innovation accounting."
 date: 2026-08-27
@@ -7,8 +7,7 @@ authors:
   - tieubao
 tags:
   - innovation
-redirect:
-  - /jdyOMQ
+redirect: []
 ---
 
 Supporting innovation requires organizations adopt new methods of investment decision-making and innovation accounting. This means linking investing to specific, incremental goals rather than funding a long-term project up front.

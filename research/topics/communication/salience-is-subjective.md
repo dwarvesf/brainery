@@ -1,10 +1,9 @@
 ---
-draft: false
+draft: true
 title: "Salience is subjective: Roger Martin on what we notice in a problem"
 description: Learn how Roger Martin explains problem solving by focusing on the most important information shaped by our stance, tools, and experience to improve decision-making and perspective.
 date: 2026-08-27
-redirect:
-  - /cii1GA
+redirect: []
 authors:
   - tieubao
 ---

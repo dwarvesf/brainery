@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Optimize to be wrong, not right (reading note)"
 description: "Organizations should optimize to be wrong, not right: they should look to invalidate as many ideas as they can."
 date: 2026-08-27
@@ -8,8 +8,7 @@ authors:
 tags:
   - idea
   - innovation
-redirect:
-  - /EVGcZw
+redirect: []
 ---
 
 Organizations should optimize to be wrong, not right: they should look to invalidate as many ideas as they can. Limiting initial investments and spreading risk across many possible ideas helps “narrow the cone of uncertainty” and enables the organization to home in on the most impactful solution.

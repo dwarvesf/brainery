@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Innovation thrives in open environments (reading note)"
 description: "New ideas are built from the scraps of other ideas that we've encountered."
 date: 2026-08-27
@@ -8,8 +8,7 @@ authors:
 tags:
   - idea
   - innovation
-redirect:
-  - /b35cSQ
+redirect: []
 ---
 
 New ideas are built from the scraps of other ideas that we've encountered. When we piece those scraps together in new ways, we innovate and create. In contrast, siloed societies and organizations prevent flow of ideas between minds, what Johnson describes as "information spillover."

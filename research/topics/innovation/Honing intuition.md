@@ -1,13 +1,12 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: "Honing intuition (reading note)"
+description: "In Sönke Ahrens words, intuition is the \"sedimented experience on which we build our conscious, explicit knowledge.\" To intuit good ideas, we must first consume good ideas."
+date: 2026-08-21
 tags:
   - innovation
   - intuition
-redirect:
-  - /31aaxw
+redirect: []
 ---
 
 In Sönke Ahrens words, intuition is the "sedimented experience on which we build our conscious, explicit knowledge." To intuit good ideas, we must first consume good ideas.

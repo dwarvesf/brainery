@@ -1,10 +1,9 @@
 ---
-draft: false
+draft: true
 title: "Narrative sequencing informs meaning (reading note)"
 description: Learn how the sequence of information in a story shapes meaning and persuasion, and why adjusting your approach is key when your goal is to inform rather than persuade.
 date: 2026-08-27
-redirect:
-  - /1T1VWw
+redirect: []
 authors:
   - tieubao
 ---

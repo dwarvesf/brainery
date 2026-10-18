@@ -1,12 +1,11 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: "Consilience (reading note)"
+description: "In Narrative Economics, Robert Shiller uses the word \"consilience\" to describe the unity of knowledge among disparate academic disciplines, particularly the sciences and the humanities."
+date: 2026-08-21
 tags:
   - innovation
-redirect:
-  - /4vfkJw
+redirect: []
 ---
 
 In [[≈ Narrative Economics | Narrative Economics]], Robert Shiller uses the word "consilience" to describe the unity of knowledge among disparate academic disciplines, particularly the sciences and the humanities. This is a metaphor from biology; biologist E. O. Wilson used the term for his concept of synthesizing knowledge from disparate fields.

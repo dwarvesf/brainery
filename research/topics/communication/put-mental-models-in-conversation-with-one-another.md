@@ -1,10 +1,9 @@
 ---
-draft: false
+draft: true
 title: "Put mental models in conversation to reveal hidden insights"
 description: Learn how applying multiple mental models and diverse perspectives improves decision-making by revealing hidden insights and overcoming narrow, specialized thinking.
 date: 2026-08-27
-redirect:
-  - /P6lnow
+redirect: []
 authors:
   - tieubao
 ---
