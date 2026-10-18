@@ -1,6 +1,6 @@
 ---
 draft: true
-title: invoking-component-functions-in-react (research note)
+title: Invoking component functions in React (research note)
 description: What happens if you invoked the component function directly in React?
 date: 2023-01-09
 authors:

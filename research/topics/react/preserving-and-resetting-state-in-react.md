@@ -1,6 +1,6 @@
 ---
 draft: true
-title: preserving-and-resetting-state-in-react (research note)
+title: Preserving and resetting state in React (research note)
 description: State in React is tied to a position in the UI tree.
 date: 2023-02-27
 authors:
