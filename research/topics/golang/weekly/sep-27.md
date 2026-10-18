@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Go commentary #13: Compiler quests and vector vexations"
 short_title: "#13 Compiler Quests and Vector Vexations"
 description: "A scathing look at Go's compiler internals and the vector search gold rush, exposing the industry's obsession with speed over substance"
@@ -10,8 +10,6 @@ tags:
   - llm
   - go-weekly
   - golang
-redirect:
-  - /1xjGmA
 ---
 
 ## [Register Allocation in the Go Compiler](https://developers.redhat.com/articles/2024/09/24/go-compiler-register-allocation#go_s_register_allocator__a_high_level_view)

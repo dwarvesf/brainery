@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Go commentary #15: using Go embed, and Reflect"
 short_title: "#15 Go embed and Reflect"
 description: Quick notes on Go embed and Go Reflect
@@ -9,8 +9,6 @@ authors:
 tags:
   - go-weekly
   - golang
-redirect:
-  - /NH3X3A
 ---
 
 ## [Using Go Embed](https://www.bytesizego.com/blog/go-embed)

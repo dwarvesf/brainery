@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Go commentary #14: Golang compile-time evaluation and Go bindings to SQLite using wazero"
 short_title: "#14 Compile-time eval & SQLite with wazero"
 description: A quick toolings for compile-time evaluation and SQLite wrapper with WebAssembly runtime for Go
@@ -9,8 +9,6 @@ authors:
 tags:
   - go-weekly
   - golang
-redirect:
-  - /fwmuJg
 ---
 
 ## [Prep: Golang comptime. Pure blasphemy](https://github.com/pijng/prep)
@@ -70,7 +68,7 @@ func fibonacci(n int) int {
 
   - Only functions that can be fully resolved with the provided literal arguments can be evaluated at compile-time, therefore it is impossible to use any values from IO operations.
 
-## [go-sqlite3: Go bindings to SQLite using wazero](https://github.com/ncruces/go-sqlite3)
+## [Go-sqlite3: Go bindings to SQLite using wazero](https://github.com/ncruces/go-sqlite3)
 
 - Go module **github.com/ncruces/go-sqlite3** is a cgo-free SQLite wrapper. It provides a **database/sql** compatible driver, as well as direct access to most of the C SQLite API.
 

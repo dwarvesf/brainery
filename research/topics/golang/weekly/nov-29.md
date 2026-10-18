@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Go commentary #22: GoMLX: ML in Go without Python"
 short_title: "#22 GoMLX: ML in Go without Python"
 description: Running Machine Learning inference in Go without Python
@@ -9,8 +9,6 @@ authors:
 tags:
   - go-weekly
   - golang
-redirect:
-  - /8kRYVg
 ---
 
 ## [GoMLX: ML in Go without Python](https://eli.thegreenplace.net/2024/gomlx-ml-in-go-without-python)

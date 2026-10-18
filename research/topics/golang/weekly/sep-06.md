@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Go commentary #10: Script, telemetry"
 short_title: "#10 Script, Telemetry"
 description: "Exploring a Go library for shell-like scripting and Go's telemetry feature."
@@ -10,8 +10,6 @@ tags:
   - networking
   - go-weekly
   - golang
-redirect:
-  - /JFAicg
 ---
 
 ## [Script: Making it easy to write shell-like scripts in Go](https://github.com/bitfield/script)

@@ -1,6 +1,6 @@
 ---
-draft: false
-title: "Go commentary #18: Fuzz testing Go HTTP services"
+draft: true
+title: "Go commentary #18: fuzz testing Go HTTP services"
 short_title: "#18 Fuzz Testing Go HTTP Services"
 description: Understanding how to use Fuzz Testing in Go
 date: 2024-11-01
@@ -9,11 +9,9 @@ authors:
 tags:
   - go-weekly
   - golang
-redirect:
-  - /VKUSGQ
 ---
 
-## [Fuzz Testing Go HTTP Services](https://packagemain.tech/p/fuzzing-http-services-golang)
+## [Fuzz testing Go HTTP services](https://packagemain.tech/p/fuzzing-http-services-golang)
 
 Context:
 

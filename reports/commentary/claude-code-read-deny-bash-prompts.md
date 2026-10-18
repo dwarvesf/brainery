@@ -13,6 +13,7 @@ tags:
   - security
 slug: claude-code-read-deny-bash-prompts
 series: harness-engineering
+series_part: 4
 ---
 
 ## TL;DR

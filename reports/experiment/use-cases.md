@@ -3,6 +3,9 @@ draft: false
 title: Building use-cases
 description: Building systems that actually learn and get smarter over time is hard, facing challenges with traditional databases and LLMs. This post outlines an approach to building a true second brain that continuously learns, generates insight, and remembers it through an append-only log and flexible data structures.
 date: 2025-05-07
+series: brainery-memory
+series_part: 3
+series_total: 9
 authors:
   - monotykamary
 tags:
@@ -22,9 +25,9 @@ slug: brainery-use-cases
 
 ## Core architecture: the observation log
 
-At the core of our system lies a single, massive log called the **observation_log**. This runs on **TimescaleDB** and follows an **append-only** pattern. Every piece of data, processed thought, and new **insight** gets written as a new entry. *Nothing ever gets deleted or changed in place*. This is how we prevent **catastrophic forgetting** at the data layer.
+At the core of our system lies a single, massive log called the **observation_log**. This runs on **TimescaleDB** and follows an **append-only** pattern. Every piece of data, processed thought, and new **insight** gets written as a new entry. _Nothing ever gets deleted or changed in place_. This is how we prevent **catastrophic forgetting** at the data layer.
 
-The magic for flexibility comes from each entry's **JSONB payload**. This means the *structure* of what we store can change on the fly. No rigid schemas breaking when we discover something new. If the **LLM** figures out a new way to categorize information, it just starts doing it. The **LLM** acts as the cognitive engine, processing raw inputs, structuring them, and analyzing the entire log to extract new **knowledge**.
+The magic for flexibility comes from each entry's **JSONB payload**. This means the _structure_ of what we store can change on the fly. No rigid schemas breaking when we discover something new. If the **LLM** figures out a new way to categorize information, it just starts doing it. The **LLM** acts as the cognitive engine, processing raw inputs, structuring them, and analyzing the entire log to extract new **knowledge**.
 
 ## How the brain learns
 
@@ -62,11 +65,11 @@ graph TD
 
 Let's see how this works by analyzing Hacker News data to spot emerging tech trends.
 
-### Step 1: Data ingestion and processing
+### Step 1: data ingestion and processing
 
 We start with Hacker News posts and comments. An **LLM** job processes this through:
 
-- **Named Entity Recognition (NER)** to identify technologies and companies
+- **Named entity recognition (NER)** to identify technologies and companies
 - **Sentiment analysis** to gauge community reaction
 - **Trend detection** to spot emerging patterns
 
@@ -88,7 +91,7 @@ The processed information gets structured into the **observation_log**:
 }
 ```
 
-### Step 2: Find patterns
+### Step 2: find patterns
 
 The brain's internal **LLM** analyzes these observations over time. It might notice:
 
@@ -115,7 +118,7 @@ This leads to the synthesis of new knowledge:
 }
 ```
 
-### Step 3: Use the insights
+### Step 3: use the insights
 
 This synthesized knowledge can then be used to:
 

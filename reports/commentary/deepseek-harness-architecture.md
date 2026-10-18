@@ -12,6 +12,7 @@ tags:
   - architecture
 slug: deepseek-harness-architecture
 series: harness-engineering
+series_part: 2
 ---
 
 ## TL;DR

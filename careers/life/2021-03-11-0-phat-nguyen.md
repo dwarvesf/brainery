@@ -1,9 +1,11 @@
 ---
-title: "#0 Phat Nguyen on career transition"
+title: "#3 Phat Nguyen on career transition"
 short_title: Phat Nguyen
 description: "Phat Nguyen shares his bold journey from medical school to pursuing IT, highlighting the importance of following one's true passion even when it means starting over and making difficult decisions"
 date: 2021-03-11
 last_edited: "2024-03-08T00:00:00.000Z"
+series: life-at-dwarves
+series_part: 3
 authors:
   - tieubao
 tags:

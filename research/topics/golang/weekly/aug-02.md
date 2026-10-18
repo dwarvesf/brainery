@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Go commentary #5: Features, memory optimization, Minecraft server, code editor, and LLM tool"
 short_title: "#5 Go 1.23 features, Memory, Minecraft, and More"
 description: Explore Go version features, memory optimization techniques, a Go-powered Minecraft server, a pure Go source code editor, and a tool for running large language models.
@@ -10,11 +10,9 @@ tags:
   - networking
   - go-weekly
   - golang
-redirect:
-  - /j5UpVg
 ---
 
-## [Go Features By Version](https://antonz.org/which-go/)
+## [Go features by version](https://antonz.org/which-go/)
 
 - Context:
 
@@ -26,7 +24,7 @@ redirect:
 
   ![](assets/go-features-by-version.png)
 
-## [Make Your Programs Use Less Memory](https://github.com/dkorunic/betteralign)
+## [Make your programs use less memory](https://github.com/dkorunic/betteralign)
 
 - Context:
 
@@ -49,7 +47,7 @@ redirect:
 
   - Blazingly fast, highly optimized server implementation written in Go for Minecraft 1.21
 
-## [A Source Code Editor in Pure Go](https://github.com/jmigpin/editor)
+## [A source Code editor in pure Go](https://github.com/jmigpin/editor)
 
 - Auto-indentation of wrapped lines.
 - No code coloring (except comments and strings).
@@ -74,7 +72,7 @@ redirect:
 
 ![](assets/go-editor-image.png)
 
-## [Ollama 0.3 Quickly Run Large Language Models](https://github.com/ollama/ollama)
+## [Ollama 0.3 quickly run large language models](https://github.com/ollama/ollama)
 
 ![](assets/ollama.png)
 

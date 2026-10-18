@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Go commentary #11: The gopher's LLM revolution - actors, frameworks, and the future of Go"
 short_title: "#11 Actors, Frameworks, and the Future of Go"
 description: "A critical look at Go's evolving role in the LLM ecosystem and the frameworks shaping its future"
@@ -9,8 +9,6 @@ authors:
 tags:
   - go-weekly
   - golang
-redirect:
-  - /iYhe9A
 ---
 
 ## [Go Survey](https://google.qualtrics.com/jfe/form/SV_ei0CDV2K9qQIsp8?s=b)
@@ -85,7 +83,7 @@ Genkit: Google's Answer to... Everything? Not to be outdone, Google throws its h
 
 Genkit promises "production features" and "integrated developer tooling." Because apparently, what the world really needed was another way to manage prompts and deployments. It's as if Google looked at the mess of AI tooling and thought, "You know what this needs? More complexity!"
 
-### [The Ergo Framework: Erlang's Ghost Haunts Go](https://github.com/ergo-services/ergo)
+### [The Ergo framework: Erlang's Ghost haunts Go](https://github.com/ergo-services/ergo)
 
 Just when you thought we couldn't possibly need another framework, along comes Ergo. It's bringing the actor model to Go, because apparently, we all miss the days of Erlang and its byzantine approach to concurrency.
 

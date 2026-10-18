@@ -1,6 +1,6 @@
 ---
-draft: false
-title: "Go commentary #8: Jupyter notebooks, Kubernetes tools, GopherCon talks"
+draft: true
+title: "Go commentary #8: jupyter notebooks, Kubernetes tools, GopherCon talks"
 short_title: "#8 GoNB, kubetrim, and GopherCon UK 2024"
 description: "Explore GoNB for Jupyter notebooks, kubetrim for KUBECONFIG management, and key highlights from GopherCon UK 2024 talks, covering performance testing, software design, event-driven workflows, and AI's impact on tech jobs."
 date: 2024-08-23
@@ -10,11 +10,9 @@ tags:
   - networking
   - go-weekly
   - golang
-redirect:
-  - /dWE8Qg
 ---
 
-## [GoNB: A Go Notebook Kernel for Jupyter](https://github.com/janpfeifer/gonb)
+## [GoNB: a go notebook kernel for jupyter](https://github.com/janpfeifer/gonb)
 
 - Auto-complete and contextual help while coding.
 - Rich content display: HTML, markdown (with latex), images, javascript, svg, videos, etc.
@@ -27,7 +25,7 @@ redirect:
 
 ![](assets/go-commentary-aug-23_gonb-chart.webp)
 
-## [kubetrim: Trim Your KUBECONFIG Automatically](https://github.com/alexellis/kubetrim)
+## [Kubetrim: trim your KUBECONFIG automatically](https://github.com/alexellis/kubetrim)
 
 ```cli
 $ kubectx

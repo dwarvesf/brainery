@@ -1,6 +1,6 @@
 ---
-draft: false
-title: "Go commentary #17: Leveraging benchstat projects in Go benchmark and Go Plan9 memo on 450% speeding up calculations"
+draft: true
+title: "Go commentary #17: leveraging benchstat projects in Go benchmark and Go Plan9 memo on 450% speeding up calculations"
 short_title: "#17 Leveraging benchstat Projects in Go benchmark and Go Plan9 memo on 450% speeding up calculations"
 description: Understanding benchstat usage in Go benchmark and Go Plan9 on boosting up performance
 date: 2024-10-25
@@ -9,11 +9,9 @@ authors:
 tags:
   - go-weekly
   - golang
-redirect:
-  - /BIH5Mg
 ---
 
-## [Leveraging benchstat Projections in Go Benchmark Analysis!](https://www.bwplotka.dev/2024/go-microbenchmarks-benchstat/)
+## [Leveraging benchstat projections in Go benchmark analysis!](https://www.bwplotka.dev/2024/go-microbenchmarks-benchstat/)
 
 Context: (golang.org/x/perf/cmd/benchstat)
 
@@ -270,7 +268,7 @@ Conclusion:
 
 - Can even use more features like `-format csv` to export to sheets and render charts
 
-## [Go Plan9 Memo, Speeding Up Calculations 450%](https://pehringer.info/go_plan9_memo.html)
+## [Go Plan9 memo, speeding up calculations 450%](https://pehringer.info/go_plan9_memo.html)
 
 Context
 

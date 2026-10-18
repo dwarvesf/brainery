@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Go commentary #9: TinyGo, SQLite vector search, and authorization"
 short_title: "#9 TinyGo, SQLite vector search, and Permify"
 description: "Exploring TinyGo's latest release, a new vector search extension for SQLite, and an open-source authorization service inspired by Google Zanzibar."
@@ -10,11 +10,9 @@ tags:
   - networking
   - go-weekly
   - golang
-redirect:
-  - /3XNmKw
 ---
 
-## [TinyGo 0.33.0: The Go Compiler for 'Small Places'](https://github.com/tinygo-org/tinygo/releases/tag/v0.33.0)
+## [TinyGo 0.33.0: The Go compiler for 'small places'](https://github.com/tinygo-org/tinygo/releases/tag/v0.33.0)
 
 - Context:
 
@@ -27,7 +25,7 @@ redirect:
   - **Go 1.23 support** (including the new range-over-func language feature)
   - ...
 
-## [sqlite-vec: A Vector Search Extension for SQLite](https://github.com/asg017/sqlite-vec)
+## [Sqlite-vec: A vector search extension for SQLite](https://github.com/asg017/sqlite-vec)
 
 - Context:
 
@@ -104,7 +102,7 @@ limit 2;
 */
 ```
 
-## [Permify 1.0: Open Source Authorization as a Service](https://github.com/Permify/permify)
+## [Permify 1.0: open source authorization as a service](https://github.com/Permify/permify)
 
 - Permify is an open-source authorization as a service inspired by [Google Zanzibar](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41f08f03da59f5518802898f68730e247e23c331.pdf).
 

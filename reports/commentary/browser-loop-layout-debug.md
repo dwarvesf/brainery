@@ -13,6 +13,7 @@ tags:
   - debugging
 slug: browser-loop-layout-debug
 series: harness-engineering
+series_part: 5
 ---
 
 ## TL;DR

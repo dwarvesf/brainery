@@ -1,7 +1,7 @@
 ---
 draft: false
-title: "Design file-sharing system - part 1: directory structure"
-description: This system aims to provide users with the ability to store, access, and share files directly on our website, similar to Google Drive. This system aims to enhance user convenience and collaboration by allowing seamless file management and sharing capabilities.
+title: "Design a file-sharing system: directory structure, permissions and passwords"
+description: How I designed a Google Drive-style file storage and sharing system for our website, covering the data model, a path field for the folder hierarchy, role-based permissions with inheritance, public sharing and password protection.
 date: 2024-07-31
 authors:
   - datphamcode295
@@ -9,8 +9,12 @@ tags:
   - file-management
   - file-system
   - directory-structure
+  - permissions
 redirect:
   - /mMud1Q
+  - /oV9oNw
+  - /research/topics/data/design-file-sharing-system-part-2-permission-and-password
+  - /data/design-file-sharing-system-part-2-permission-and-password
 ---
 
 ![File Sharing System](assets/design-file-sharing-system_1.webp)
@@ -77,8 +81,110 @@ Using the `path` field in this format allows for efficient retrieval and updates
 
 This approach significantly reduces the computational overhead and complexity associated with managing hierarchical file structures, ensuring swift and efficient operations.
 
+## Permissions
+
+In this section, I will discuss how I handle the logic and design the data model for the following features: setting permissions, sharing files for public access, and setting a password for a file. Refer to the diagram below to understand how permissions work in this system.
+
+![Permission Diagram](../data/assets/design-file-sharing-system_3.webp)
+
+### Functional requirements
+
+- Each file will be set permission, and when users interact with it, they must satisfy it.
+- Files will inherit permission from the parent by default.
+- There are 2 scopes, allow permission for all members in workspace or invite only.
+
+### Permission data model
+
+![Permission Tables](../data/assets/design-file-sharing-system_4.webp)
+
+**MainPermission Table**
+Each asset has one and only one record in this table, it contains general permission details for the asset.
+`Public Role` field: Showing the role of guest user when accessing the file
+
+- EDITOR: Can view and edit
+- VIEWER: Can only view
+- NO_ACCESS: Cannot access the asset
+
+`Child Role` field: Show the permission workspace members and only have value
+
+- FULL_ACCESS: Can perform all operations
+- EDITOR: Can view and edit
+- VIEWER: Can only view
+- NO_ACCESS: Cannot access the asset
+- INHERIT: Inherit from parent folder
+
+`Is Inherit` field: `true` if the permission for this asset is inherit from the parent
+
+**SubPermission**
+An asset can have many records in this table, showing role for a specific email
+Role field: Show the permission for an invitee or project members in this record
+
+- FULL_ACCESS: Can perform all operations
+- EDITOR: Can view and edit
+- VIEWER: Can only view
+- NO_ACCESS: Cannot access the asset
+- INHERIT: Inherit from parent folder
+
+### Logic
+
+**Permission Hierarchy**
+
+Permissions are checked in this order:
+
+- Direct user permission on the asset in SubPermission table
+- Main permission's childRole (default for workspace members)
+- Inherited permission from parent directories
+
+**Permission record rules:**
+
+- When init an asset, we will create a record in MainPermission, with `isInherit = true` and `childRole = 'INHERIT'`, this means the asset inherit permission from parent directories.
+- If there is any update in the permission, the `isInherit = false` and `chilRole` value will be set as specific permission but not `INHERIT`.
+
+## Sharing file
+
+### Functional requirement:
+
+- **Setting public access**
+  - Asset owners can set the `publicRole` in the permission table.
+  - The role can be either `VIEWER,` `EDITOR` or `NO_ASSET`.
+- **Accessing public assets**
+  - When a guest user attempts to access a public asset, the system checks the `publicRole`.
+  - Based on the `publicRole`, the user is granted view or edit permissions.
+  - If the user is not logged in, they are restricted to view-only access.
+
+![Sharing file Diagram](../data/assets/design-file-sharing-system_5.webp)
+
+### Key components
+
+**`publicRole` in Permission Table**
+
+- **publicRole:** Defines the level of access for public users.
+  - `VIEWER`: Allows public users to view the asset.
+  - `EDITOR`: Allows public users to edit the asset.
+  - `NO_ASSET`: value means the files is not allow public asset
+
+## Password protection feature
+
+### Functional requirement
+
+The password protection feature allows users to set a password on their assets to restrict access. If an asset has a password, any user attempting to access the file must provide the correct password.
+
+### Key components
+
+**`passwordHash` in Permission Table**
+
+- **passwordHash:** Stores the hashed password for the asset.
+- When this field has a value, password protection is enabled for the asset.
+- The password is securely hashed before being stored to ensure security.
+
+### Workflow
+
+To make it easy to understand, I will show the workflow for getting file details. This process also applies to other features like updating and setting permissions.
+
+The idea is that the user will get an `asset-file-token` by using `GET /assets/:id/login`. Then, add it to the header for authorization when calling `GET /assets/:id` to get detailed info.
+
+![Password workflow](../data/assets/design-file-sharing-system_6.webp)
+
 ## Conclusion
 
-In this memo, I discuss the various requirements of the system, detailing what is necessary for its optimal performance. Additionally, I explain how I optimize the file structure to ensure efficient storage and retrieval of data. In the next part of this memo, I will continue the discussion by elaborating on how I handle permissions, manage file sharing, and set passwords to enhance the security and accessibility of the system. This comprehensive approach ensures that all aspects of system management are covered thoroughly.
-
-[Continue to Part 2: Permission & Password](https://memo.d.foundation/playground/01_literature/design-file-sharing-system-part-2-permission-and-password/)
+In conclusion, this system implements a robust and flexible permissions model for file management. It covers essential features such as upload, manage, setting permissions, public file sharing, and password protection. The design allows for granular control over access levels, inheritance of permissions, and secure sharing options. This comprehensive approach ensures that users can effectively manage their files while maintaining appropriate levels of security and collaboration within the workspace.

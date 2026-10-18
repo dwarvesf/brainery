@@ -14,6 +14,7 @@ tags:
   - architecture
 slug: agent-tuning-layers
 series: harness-engineering
+series_part: 1
 ---
 
 ## TL;DR

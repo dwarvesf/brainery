@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Go commentary #12: CLI renaissance with Kubernetes, REST, and terminal readers in the age of complexity"
 short_title: "#12 CLI Tools for K8s, REST, and Terminals"
 description: "A critical examination of Go's resurgence in CLI tool development, exploring recent projects in Kubernetes log viewing, REST API interaction, and terminal-based readers, while questioning the industry's shift back to command-line interfaces."
@@ -10,11 +10,9 @@ tags:
   - llm
   - go-weekly
   - golang
-redirect:
-  - /2CXLdg
 ---
 
-## [kl: An interactive Kubernetes log viewer for your terminal](https://github.com/robinovitch61/kl)
+## [Kl: An interactive Kubernetes log viewer for your terminal](https://github.com/robinovitch61/kl)
 
 An interactive Kubernetes log viewer for your terminal.
 

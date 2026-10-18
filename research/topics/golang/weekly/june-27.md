@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Go weekly #1: mastering Go performance - eBPF and PGO optimization techniques"
 short_title: "#1 eBPF and PGO Optimization Techniques"
 description: Explore advanced Go optimization techniques using eBPF for kernel-level insights and Profile-Guided Optimization (PGO) for compiler enhancements. Learn how to boost performance and efficiency in Go applications.
@@ -10,8 +10,6 @@ tags:
   - go-weekly
   - golang
   - kernel-programing
-redirect:
-  - /DxHvbw
 ---
 
 ## [An Applied Introduction to eBPF with Go](https://sazak.io/articles/an-applied-introduction-to-ebpf-with-go-2024-06-06)
@@ -33,7 +31,7 @@ redirect:
 - Solution:
 
   - **BPF** was originally used in Linux to filter network packets.
-  - **eBPF (Extended Berkeley Packet Filter)** allows to trace syscalls, user space/ library functions, network packets... => system performance, monitoring, security...
+  - **EBPF (Extended Berkeley Packet Filter)** allows to trace syscalls, user space/ library functions, network packets... => system performance, monitoring, security...
 
   ![](assets/ebpf_overview.webp)
 
