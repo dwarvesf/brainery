@@ -7,9 +7,7 @@ type: writing
 form: analysis
 topic: product-engineering
 authors:
-  - tieubao
-  - tuanddd
-  - datnguyennnx
+  - "Dwarves Foundation"
 tags:
   - commentary
   - game-design
@@ -17,9 +15,18 @@ tags:
   - multiplayer
   - build-club
 slug: artillery-downtime-t-over-n
+redirect:
+  - /journals/forward/notes/turn-downtime-into-play
+  - /turn-downtime-into-play
+  - /journals/forward/notes/2026-10-12-lobshot-prototype-feedback
+  - /2026-10-12-lobshot-prototype-feedback
+  - /journals/forward/notes/2026-10-14-build-club-prototype-scope-note
+  - /2026-10-14-build-club-prototype-scope-note
 ---
 
 A ten-minute, four-player artillery round is two and a half minutes of play, seven and a half minutes of watching, and no play at all once you die. GunBound and Gunny never solved that; they buried it under millions of players. A prototype with no player base has to shrink the dead air directly, and this piece lists six ways to do it and one number to measure them by.
+
+_Written by the Dwarves editorial desk from a #build-club discussion. Ideas from [tieubao](/contributor/tieubao), [tuanddd](/contributor/tuanddd) and [datnguyennnx](/contributor/datnguyennnx)._
 
 ![A four-player, ten-minute match timeline: each player's active turns are thin slivers, one player's row goes dead at the six-minute mark, and amber marks show where off-turn actions could go](assets/artillery-downtime-t-over-n-fig1-timeline.svg)
 
@@ -94,8 +101,6 @@ tuanddd's instinct was to add the backlog and introduce these slowly, which is r
 ## Where this breaks
 
 Every off-turn action lengthens the turn for everyone, so the fix can make T bigger faster than it makes the wait smaller. Ghost mode is the easiest to overdo, and a dead player who decides a match is the fastest way to make a living one quit. And the story-mode trick only works if the bots are good enough to feel like a campaign and bad enough to be beaten; a bot that aims perfectly is a tutorial nobody finishes. The prototype is the place to find those limits, which is why the active ratio has to be measured and not guessed.
-
-This piece expands three notes from [Build club notes, Oct 2 to 17](https://memo.d.foundation/build-club-notes-oct-2-17), the digest of the threads it came from.
 
 ## Sources
 

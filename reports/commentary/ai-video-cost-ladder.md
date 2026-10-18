@@ -7,8 +7,7 @@ type: writing
 form: analysis
 topic: applied-llm
 authors:
-  - monotykamary
-  - minhluuquang
+  - "Dwarves Foundation"
 tags:
   - commentary
   - ai-video
@@ -16,9 +15,14 @@ tags:
   - modal
   - build-club
 slug: ai-video-cost-ladder
+redirect:
+  - /journals/forward/notes/2026-10-10-ai-tech-compositing-ai-video-costs
+  - /2026-10-10-ai-tech-compositing-ai-video-costs
 ---
 
 monotykamary's last three-minute AI video cost about $50. Fully generated it would have cost $84; on his own compositing stack, $12. The gap is the subject of this piece: what public per-second prices say about each rung, why keyframes cut the bill by two thirds, and how to decide which shots deserve a model call at all.
+
+_Written by the Dwarves editorial desk from a #build-club discussion. Ideas from [monotykamary](/contributor/monotykamary) and [minhluuquang](/contributor/minhluuquang)._
 
 ![Bar chart of cost per 30 seconds of AI video: $14 with every second generated, $5 with keyframing, $2 on an own compositing stack that adds a burst of about 40 GPUs for 30 to 90 seconds](assets/ai-video-cost-ladder-fig1-ladder.svg)
 
@@ -88,8 +92,6 @@ Count the seconds in the left column. That number times the per-second rate of y
 ## Where this breaks
 
 Compositing shows its seams. A push-in on a still reads as a push-in on a still, and audiences notice loops faster than builders expect. Some motion cannot be faked, which is why the left column of the table never goes to zero. The engineering layer is itself a cost: an orchestrator, a render graph, storage for intermediate frames, and the time to build them, none of which appear in the $2 figure. And $50 for three minutes is cheaper than $84, but it is still $50 per iteration of the full piece, so the discipline of approving shots before assembling the cut matters more than the rung you pick. The ladder lowers the floor. It does not remove the need to decide what deserves to be generated.
-
-This piece expands one note from [Build club notes, Oct 2 to 17](https://memo.d.foundation/build-club-notes-oct-2-17), the digest of the threads it came from.
 
 ## Sources
 
