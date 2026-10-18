@@ -29,11 +29,11 @@ I talked with Ethan Phan, CTO of Plot, about how a small AI-native startup decid
 | Top 10%        | Still top 10% against startups of the same engineering size, every quarter. So the whole industry doubles too.   |
 | 2.5 to 3 years | Time to product-market fit (the stage where real customers want the product enough to keep using and buying it). |
 | Fewer than 20  | People in the whole company.                                                                                     |
-| $10M           | Seed round, announced June 2026 (public).                                                                        |
+| \$10M           | Seed round, announced June 2026 (public).                                                                        |
 
 **Who is Plot**
 
-Plot ([plot.so](https://plot.so)) is a New York startup founded in 2022 by Megan Duong (CEO) and Ethan Phan (CTO), who met through Y Combinator's co-founder matching. About 80% of brand mentions in TikTok and Instagram video carry no tag, so Plot's multimodal AI watches the video itself. Today it calls itself a social intelligence platform, "a brain for marketing teams", with named customers that include Visa, Mastercard, PepsiCo, Fenty Beauty, and Benefit Cosmetics. In June 2026 it announced a $10M seed led by XYZ Venture Capital and Mischief Ventures, $14M raised in total. Dwarves engineers have worked alongside the team.
+Plot ([plot.so](https://plot.so)) is a New York startup founded in 2022 by Megan Duong (CEO) and Ethan Phan (CTO), who met through Y Combinator's co-founder matching. About 80% of brand mentions in TikTok and Instagram video carry no tag, so Plot's multimodal AI watches the video itself. Today it calls itself a social intelligence platform, "a brain for marketing teams", with named customers that include Visa, Mastercard, PepsiCo, Fenty Beauty, and Benefit Cosmetics. In June 2026 it announced a \$10M seed led by XYZ Venture Capital and Mischief Ventures, \$14M raised in total. Dwarves engineers have worked alongside the team.
 
 ![The Plot team on a couch in their New York office](assets/wala-005-plot-team.jpg)
 
