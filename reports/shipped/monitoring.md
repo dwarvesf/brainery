@@ -1,8 +1,9 @@
 ---
 draft: false
-title: Monitoring
+title: Dual-mode monitoring for memo.d.foundation
 description: "Learn about our dual approach to monitoring at memo.d.foundation, combining synthetic and instrumental monitoring to ensure system health and community engagement."
 date: 2025-07-05
+kind: note
 authors:
   - lmquang
 tags:

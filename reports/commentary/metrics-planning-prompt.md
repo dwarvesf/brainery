@@ -5,6 +5,7 @@ description: A comprehensive prompt template to get tailored metrics recommendat
 authors:
   - tieubao
 date: 2025-05-14
+kind: reference
 tags:
   - monitoring
   - metrics

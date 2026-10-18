@@ -53,6 +53,8 @@ Fullstack Development / Cloud Infrastructure / AI Integration / Data Engineering
 
 The client leverages AI to revolutionize knowledge sharing and team collaboration. They engaged us for engineering development to build a mission-critical social listening pipeline capable of tracking millions of social media conversations and providing organizations with AI-powered competitive intelligence insights.
 
+Plot is a New York startup founded in 2022 by Megan Duong and Ethan Phan. About 80% of brand mentions in TikTok and Instagram video carry no tag, so its multimodal AI watches the video itself. Ethan, its CTO, talks about how the team works in [WALA #5](/wala-plot-ethan-phan).
+
 We provided fullstack engineering support to work alongside their core development team. The pipeline processes an average of 100,000 posts per day from multiple social platforms, along with the top 100 comments per post every hour.
 
 ![](assets/plot-1.webp)

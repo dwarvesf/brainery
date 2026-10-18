@@ -1,7 +1,8 @@
 ---
-title: Hiring for operations team
+title: What to look for when hiring an operations lead
 description: Operations is a very sensitive area of the company, so be very picky. A great ops person can dramatically improve the way your company works and make your life a lot easier.
 date: 2020-01-25
+kind: note
 authors:
   - tieubao
   - duynglam

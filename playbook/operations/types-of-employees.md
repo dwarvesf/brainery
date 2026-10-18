@@ -1,7 +1,8 @@
 ---
-title: Types of employees
+title: Job-minded and mission-driven employees
 description: Employees are either job-focused or mission-driven "mitochondria" who drive company growth. Prioritizing the latter through values interviews is key to startup success.
 date: 2018-08-26
+kind: note
 authors:
   - tieubao
 tags:

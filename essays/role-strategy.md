@@ -1,7 +1,8 @@
 ---
 title: Strategic thinking behind our hiring
-description: Why we're building a complete pipeline from research to delivery - the philosophy behind our role strategy and how it supports our research-first consulting model.
+description: "Why we're building a complete pipeline from research to delivery - the philosophy behind our role strategy and how it supports our research-first consulting model."
 date: 2025-05-30
+kind: note
 authors:
   - tieubao
 tags:

@@ -2,6 +2,7 @@
 title: Database migration
 description: Checklist and tooling pointers for database migrations on mobile and backend projects, with a safe rollout sequence.
 date: null
+kind: reference
 redirect:
   - /e5W9zg
 authors:

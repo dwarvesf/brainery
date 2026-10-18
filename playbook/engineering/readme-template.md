@@ -2,6 +2,7 @@
 title: Project README template
 description: A copy-paste README skeleton for a new project with setup, tests, deployment, contributing, versioning and license sections.
 date: null
+kind: reference
 redirect:
   - /nIdKHA
 authors:

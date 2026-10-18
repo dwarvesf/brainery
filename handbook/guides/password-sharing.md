@@ -1,7 +1,8 @@
 ---
-title: Password sharing
+title: Share team passwords through 1Password
 description: "How to access to team's password folder"
 date: 2020-01-01
+kind: reference
 authors:
   - huynguyenh
 tags:

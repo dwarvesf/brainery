@@ -2,6 +2,7 @@
 title: The tells
 description: AI writing gives itself away at the level of structure, not word choice. A field guide to the patterns, and the guideline change that bans them from our posts.
 date: 2026-08-13
+kind: note
 authors:
   - tieubao
 tags:
