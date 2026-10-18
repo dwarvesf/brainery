@@ -1,5 +1,6 @@
 ---
-title: Learning chair
+draft: true
+title: Learning chair in the 2025 roadmap
 description: Leading our labs team to explore, assess, and share the newest technologies across the organization
 date: 2025-01-14
 authors:
@@ -8,10 +9,8 @@ tags:
   - roadmap
   - learning
   - labs
-redirect:
-  - /org/2025/learning-chair
-  - /U4XMXQ
 slug: org-learning-chair
+redirect: []
 ---
 
 ## Our mission
@@ -51,7 +50,7 @@ Every experiment we conduct will be documented through build-logs:
 
 These build-logs become valuable resources for the entire team and contribute to our knowledge base.
 
-### AI Apprenticeship batch 2025
+### AI apprenticeship batch 2025
 
 We're launching our second AI apprenticeship program to:
 
