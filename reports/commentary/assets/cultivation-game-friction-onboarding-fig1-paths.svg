@@ -10,45 +10,43 @@
   <rect width="760" height="300" fill="#12395f"/>
   <rect width="760" height="300" fill="url(#grid)"/>
   <rect x="0.5" y="0.5" width="759" height="299" fill="none" stroke="#68839d"/>
-  <text x="16" y="24" fill="#a7c0d9" font-size="10" letter-spacing="2">FIG. 1 · TWO ONBOARDING PATHS</text>
-  <text x="744" y="24" fill="#6f8fb0" font-size="10" letter-spacing="2" text-anchor="end">NICHE GAME, FIRST HOUR</text>
+  <text x="16" y="24" fill="#a7c0d9" font-size="10" letter-spacing="2">FIG. 1 · THE GUIDE AND THE REST</text>
+  <text x="744" y="24" fill="#6f8fb0" font-size="10" letter-spacing="2" text-anchor="end">FIRST SESSION</text>
   <line x1="16" y1="36" x2="744" y2="36" stroke="#68839d"/>
 
-  <!-- Path A: flatten -->
-  <text x="40" y="70" fill="#a7c0d9" font-size="11">A · FLATTEN</text>
-  <rect x="40" y="80" width="150" height="44" rx="4" fill="#21466a" stroke="#68839d"/>
-  <text x="115" y="98" fill="#e8f1fa" font-size="11" text-anchor="middle">tutorial for</text>
-  <text x="115" y="114" fill="#e8f1fa" font-size="11" text-anchor="middle">every mechanic</text>
+  <!-- Row A: the guide -->
+  <text x="40" y="70" fill="#e8c56a" font-size="11">A · SHOWN: THE GUIDE, 15 TABS CUT TO 4</text>
+  <rect x="40" y="80" width="150" height="44" rx="4" fill="#21466a" stroke="#e8c56a" stroke-width="2"/>
+  <text x="115" y="98" fill="#e8f1fa" font-size="11" text-anchor="middle">cultivate to level 1</text>
+  <text x="115" y="114" fill="#a7c0d9" font-size="10" text-anchor="middle">fight monsters</text>
   <line x1="190" y1="102" x2="238" y2="102" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr)"/>
   <rect x="240" y="80" width="150" height="44" rx="4" fill="#21466a" stroke="#68839d"/>
-  <text x="315" y="98" fill="#e8f1fa" font-size="11" text-anchor="middle">easy hour one</text>
-  <text x="315" y="114" fill="#a7c0d9" font-size="10" text-anchor="middle">generic by hour two</text>
+  <text x="315" y="98" fill="#e8f1fa" font-size="11" text-anchor="middle">sell the drops</text>
+  <text x="315" y="114" fill="#a7c0d9" font-size="10" text-anchor="middle">buy rice, cultivate</text>
   <line x1="390" y1="102" x2="438" y2="102" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr)"/>
-  <rect x="440" y="80" width="150" height="44" rx="4" fill="#21466a" stroke="#68839d" stroke-dasharray="4 3"/>
-  <text x="515" y="98" fill="#a7c0d9" font-size="11" text-anchor="middle">genre fans leave</text>
-  <text x="515" y="114" fill="#6f8fb0" font-size="10" text-anchor="middle">nothing to discover</text>
+  <rect x="440" y="80" width="150" height="44" rx="4" fill="#21466a" stroke="#68839d"/>
+  <text x="515" y="98" fill="#e8f1fa" font-size="11" text-anchor="middle">after level 3</text>
+  <text x="515" y="114" fill="#a7c0d9" font-size="10" text-anchor="middle">spirit stones to cultivate</text>
 
-  <!-- Path B: keep friction -->
-  <text x="40" y="162" fill="#e8c56a" font-size="11">B · KEEP THE FRICTION (9T)</text>
-  <rect x="40" y="172" width="150" height="44" rx="4" fill="#21466a" stroke="#e8c56a" stroke-width="2"/>
-  <text x="115" y="190" fill="#e8f1fa" font-size="11" text-anchor="middle">one legible loop</text>
-  <text x="115" y="206" fill="#a7c0d9" font-size="9" text-anchor="middle">rice, rock, spirit stones</text>
-  <line x1="190" y1="194" x2="238" y2="194" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr)"/>
-  <rect x="240" y="172" width="150" height="44" rx="4" fill="#21466a" stroke="#68839d"/>
-  <text x="315" y="190" fill="#e8f1fa" font-size="11" text-anchor="middle">hidden mechanics</text>
-  <text x="315" y="206" fill="#a7c0d9" font-size="10" text-anchor="middle">roots, fleeing mobs, alchemy</text>
-  <line x1="390" y1="194" x2="438" y2="194" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr)"/>
-  <rect x="440" y="172" width="150" height="44" rx="4" fill="#21466a" stroke="#68839d"/>
-  <text x="515" y="190" fill="#e8f1fa" font-size="11" text-anchor="middle">20-30h without cheats</text>
-  <text x="515" y="206" fill="#a7c0d9" font-size="10" text-anchor="middle">guide: 15 tabs to 4</text>
+  <!-- Row B: hidden -->
+  <text x="40" y="162" fill="#a7c0d9" font-size="11">B · BIEVH'S EASTER EGGS AND TIPS</text>
+  <rect x="40" y="172" width="150" height="44" rx="4" fill="#21466a" stroke="#68839d" stroke-dasharray="4 3"/>
+  <text x="115" y="190" fill="#e8f1fa" font-size="11" text-anchor="middle">random roots (hackable)</text>
+  <text x="115" y="206" fill="#a7c0d9" font-size="10" text-anchor="middle">each with its own aura</text>
+  <rect x="240" y="172" width="150" height="44" rx="4" fill="#21466a" stroke="#68839d" stroke-dasharray="4 3"/>
+  <text x="315" y="190" fill="#e8f1fa" font-size="11" text-anchor="middle">apprentice alchemy</text>
+  <text x="315" y="206" fill="#a7c0d9" font-size="10" text-anchor="middle">firewood, mundane fire</text>
+  <rect x="440" y="172" width="150" height="44" rx="4" fill="#21466a" stroke="#68839d" stroke-dasharray="4 3"/>
+  <text x="515" y="190" fill="#e8f1fa" font-size="11" text-anchor="middle">the rock</text>
+  <text x="515" y="206" fill="#a7c0d9" font-size="10" text-anchor="middle">spirit vein under it, faster</text>
 
   <!-- prologue strip -->
-  <rect x="40" y="238" width="550" height="36" rx="4" fill="#21466a" stroke="#68839d"/>
-  <text x="56" y="261" fill="#c3d7ea" font-size="11">PROLOGUE: full power as an immortal, cast down, reborn at level 1. The fall explains the grind.</text>
+  <rect x="40" y="238" width="680" height="36" rx="4" fill="#21466a" stroke="#68839d"/>
+  <text x="56" y="261" fill="#c3d7ea" font-size="11">PROLOGUE (tuanddd): an immortal at full power, cast down, reborn at level 1. bievh: "legit"</text>
 
   <!-- side note -->
-  <text x="615" y="100" fill="#6f8fb0" font-size="10">confusion at hour 1</text>
-  <text x="615" y="114" fill="#6f8fb0" font-size="10">is the filter working</text>
-  <text x="615" y="192" fill="#6f8fb0" font-size="10">boredom at hour 15</text>
-  <text x="615" y="206" fill="#6f8fb0" font-size="10">is the real churn</text>
+  <text x="615" y="100" fill="#6f8fb0" font-size="10">no quests</text>
+  <text x="615" y="114" fill="#6f8fb0" font-size="10">NPCs show how to play</text>
+  <text x="615" y="192" fill="#6f8fb0" font-size="10">bievh: 20-30h, no cheats</text>
+  <text x="615" y="206" fill="#6f8fb0" font-size="10">"ko biet co bi chán ko"</text>
 </svg>
