@@ -7,9 +7,7 @@ type: writing
 form: analysis
 topic: product-engineering
 authors:
-  - bievh
-  - tuanddd
-  - phucld
+  - "Dwarves Foundation"
 tags:
   - commentary
   - game-design
@@ -17,9 +15,16 @@ tags:
   - indie-games
   - build-club
 slug: cultivation-game-friction-onboarding
+redirect:
+  - /journals/forward/notes/9t-cultivation-game-friction
+  - /9t-cultivation-game-friction
+  - /journals/forward/notes/overpowered-prologue-reset
+  - /overpowered-prologue-reset
 ---
 
 A tester opened 9T, understood nothing, and said he would need to read a few cultivation novels first. The builder's reply was to keep the guide at four tabs and let the genre filter at the door. Dark Souls, Tale of Immortal and Dwarf Fortress say that bet works when exactly one path stays visible, and a prologue idea from the same thread shows the player where the grind leads.
+
+_Written by the Dwarves editorial desk from a #build-club discussion. Ideas from [bievh](/contributor/bievh), [tuanddd](/contributor/tuanddd) and [phucld](/contributor/phucld)._
 
 ![Two onboarding paths for a niche game: flattening with a tutorial for every mechanic leads to a generic game that genre fans leave; keeping the friction with one legible loop, hidden mechanics and a prologue keeps the genre intact](assets/cultivation-game-friction-onboarding-fig1-paths.svg)
 
@@ -66,8 +71,6 @@ What the prologue does for a friction-heavy game is specific. It shows the fanta
 ## Where this breaks
 
 The tester who understood nothing is also a real player who left. A genre filter at the door keeps the audience small, and 9T is betting that the small audience spends and stays, which is a monetization bet as much as a design one. The prologue trick has a failure mode too: a reset that feels like loss instead of beginning, which is why the rejection test above matters more than the idea. And friction only works when it is consistent. One accidental difficulty spike reads as a bug; a deliberate one reads as the world. The player can only tell the difference if the rest of the game earns the trust.
-
-This piece expands two notes from [Build club notes, Oct 2 to 17](https://memo.d.foundation/build-club-notes-oct-2-17), the digest of the threads it came from.
 
 ## Sources
 

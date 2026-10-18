@@ -7,9 +7,7 @@ type: writing
 form: analysis
 topic: markets-strategy
 authors:
-  - bievh
-  - tieubao
-  - monotykamary
+  - "Dwarves Foundation"
 tags:
   - commentary
   - game-dev
@@ -17,9 +15,16 @@ tags:
   - vietnam
   - build-club
 slug: mmo-farmer-whale-economy
+redirect:
+  - /journals/forward/notes/2026-10-09-game-monetization-starts-with-the-economy-loop
+  - /2026-10-09-game-monetization-starts-with-the-economy-loop
+  - /journals/forward/notes/2026-10-07-game-distribution-vietnam-launch-surface
+  - /2026-10-07-game-distribution-vietnam-launch-surface
 ---
 
 One of us is taking a cultivation game online because the genre is the easiest one to make money in. Here is the loop that makes it pay, the three famous marketplaces that broke or saved themselves on it, and the Vietnamese decrees that stand between a solo builder and a launch.
+
+_Written by the Dwarves editorial desk from a #build-club discussion. Ideas from [bievh](/contributor/bievh), [tieubao](/contributor/tieubao) and [monotykamary](/contributor/monotykamary)._
 
 ![The farmer-whale loop: farmers sell to an in-game marketplace, whales buy from it with cash, and the publisher sells the tradeable time token that bridges the two](assets/mmo-farmer-whale-economy-fig1-loop.svg)
 
@@ -92,8 +97,6 @@ What we would do with a cultivation game that already has an offline audience:
 ## Where this breaks
 
 The loop that pays is also the one that inflates. Farmers inject supply faster than sinks remove it, and the price list the community formed in week one will be wrong by month two unless the sinks grow with the player base. Bots arrive the moment the marketplace has value. And the genre clones fast: the thread's own view was that a working loop gets copied within weeks, and the only moat left is feel, content depth, and the community that formed around the first server. 9T is going online as a test of exactly that.
-
-This piece expands two notes from [Build club notes, Oct 2 to 17](https://memo.d.foundation/build-club-notes-oct-2-17), the digest of the threads it came from.
 
 ## Sources
 

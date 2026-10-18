@@ -7,9 +7,7 @@ type: writing
 form: analysis
 topic: product-engineering
 authors:
-  - tieubao
-  - tuanddd
-  - datnguyennnx
+  - "Dwarves Foundation"
 tags:
   - commentary
   - game-design
@@ -17,9 +15,18 @@ tags:
   - multiplayer
   - build-club
 slug: artillery-downtime-t-over-n
+redirect:
+  - /journals/forward/notes/turn-downtime-into-play
+  - /turn-downtime-into-play
+  - /journals/forward/notes/2026-10-12-lobshot-prototype-feedback
+  - /2026-10-12-lobshot-prototype-feedback
+  - /journals/forward/notes/2026-10-14-build-club-prototype-scope-note
+  - /2026-10-14-build-club-prototype-scope-note
 ---
 
 A ten-minute, four-player artillery round is two and a half minutes of play, seven and a half minutes of watching, and no play at all once you die. GunBound and Gunny never solved that; they buried it under millions of players. A prototype with no player base has to shrink the dead air directly, and this piece lists six ways to do it and one number to measure them by.
+
+_Written by the Dwarves editorial desk from a #build-club discussion. Ideas from [tieubao](/contributor/tieubao), [tuanddd](/contributor/tuanddd) and [datnguyennnx](/contributor/datnguyennnx)._
 
 ![A four-player, ten-minute match timeline: each player's active turns are thin slivers, one player's row goes dead at the six-minute mark, and amber marks show where off-turn actions could go](assets/artillery-downtime-t-over-n-fig1-timeline.svg)
 
@@ -95,14 +102,12 @@ tuanddd's instinct was to add the backlog and introduce these slowly, which is r
 
 Every off-turn action lengthens the turn for everyone, so the fix can make T bigger faster than it makes the wait smaller. Ghost mode is the easiest to overdo, and a dead player who decides a match is the fastest way to make a living one quit. And the story-mode trick only works if the bots are good enough to feel like a campaign and bad enough to be beaten; a bot that aims perfectly is a tutorial nobody finishes. The prototype is the place to find those limits, which is why the active ratio has to be measured and not guessed.
 
-This piece expands three notes from [Build club notes, Oct 2 to 17](https://memo.d.foundation/build-club-notes-oct-2-17), the digest of the threads it came from.
-
 ## Sources
 
 - Build-club threads: [downtime and story mode](https://discord.com/channels/462663954813157376/1280726623414390805/1559404273681309800), [prototype feedback](https://discord.com/channels/462663954813157376/1280726623414390805/1558855357575471235), [prototype scope](https://discord.com/channels/462663954813157376/1280726623414390805/1559597749870010390)
 - [GunBound, wikipedia](https://en.wikipedia.org/wiki/Gunbound) and [NamuWiki](https://en.namu.wiki/w/%EA%B1%B4%EB%B0%94%EC%9A%B4%EB%93%9C); [GunBound shutdown, MMOs.com](https://mmos.com/review/gunbound)
-- [GunBound closed beta 2025, PR newswire](https://www.prnewswire.com/apac/news-releases/legendary-pc-online-multi-player-game-gunbound-returns-with-closed-beta-for-southeast-asia-and-latin-america-302353949.html) and [grand launch, Yahoo Finance](https://finance.yahoo.com/news/gunbound-grand-launch-legendary-artillery-110000180.html)
+- [GunBound closed beta 2025, PR Newswire](https://www.prnewswire.com/apac/news-releases/legendary-pc-online-multi-player-game-gunbound-returns-with-closed-beta-for-southeast-asia-and-latin-america-302353949.html) and [grand launch, Yahoo Finance](https://finance.yahoo.com/news/gunbound-grand-launch-legendary-artillery-110000180.html)
 - [Gunny, vietnamese wikipedia](https://vi.wikipedia.org/wiki/Gunny); [Gunny Origin downloads, GameGeek](https://gamegeek.asia/news/the-rise-of-vietnams-game-industry-in-the-last-10-years); [Gunny at Vietnam GameVerse 2025, VnExpress](https://vnexpress.net/cong-nghe/vgv-2025/de-cu/gunny-1176)
-- [Frozen Synapse, wikipedia](https://en.wikipedia.org/wiki/Frozen_Synapse); [WEGO vs IGOUGO discussion, Unity forums](https://discussions.unity.com/t/wego-or-igougo/889027)
+- [Frozen Synapse, Wikipedia](https://en.wikipedia.org/wiki/Frozen_Synapse); [WEGO vs IGOUGO discussion, Unity forums](https://discussions.unity.com/t/wego-or-igougo/889027)
 - [Worms armageddon game style settings, worms knowledge base](https://worms.miraheze.org/wiki/Game_Style)
-- [Clash Royale, wikipedia](https://en.wikipedia.org/wiki/Clash_Royale); [The three-minute match, PocketGamer](https://www.pocketgamer.biz/7-reasons-why-you-cant-stop-playing-supercells-clash-royale/)
+- [Clash Royale, Wikipedia](https://en.wikipedia.org/wiki/Clash_Royale); [The three-minute match, PocketGamer](https://www.pocketgamer.biz/7-reasons-why-you-cant-stop-playing-supercells-clash-royale/)
