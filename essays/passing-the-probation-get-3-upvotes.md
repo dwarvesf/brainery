@@ -1,7 +1,8 @@
 ---
 title: You need 3 upvotes to pass probation
-description: null
+description: A new Dwarf passes probation when current Dwarves accept them, through three upvotes from project, chapter, mentor and social peers.
 date: 2022-08-26
+kind: note
 authors:
   - tieubao
 tags:

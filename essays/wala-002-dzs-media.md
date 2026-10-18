@@ -4,6 +4,7 @@ title: "#2 Film production lessons for software engineering"
 short_title: DZS Media
 description: Our visit to DZS Media revealed surprising parallels between film production and software development. Their meticulous planning, focus on getting things right the first time, and expertise-driven approach offers valuable insights for our engineering practices.
 date: 2024-10-16
+kind: digest
 series: WALA
 series_part: 2
 authors:

@@ -1,8 +1,9 @@
 ---
 draft: false
-title: Redirect and Alias
+title: URL redirects and folder aliases for memo
 description: 'Implementing a URL redirect system for NextJS static memo pages to create SEO-friendly, shareable URLs while maintaining backward compatibility.'
 date: 2025-05-28
+kind: note
 authors:
   - zlatanpham
   - chinhld12

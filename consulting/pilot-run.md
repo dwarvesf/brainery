@@ -1,7 +1,8 @@
 ---
 title: A pilot run
-description: The pilot run offers a low-risk way for clients to experience our services firsthand. It's a paid trial designed to build trust and ensure a good fit before a long-term commitment.
+description: "The pilot run offers a low-risk way for clients to experience our services firsthand. It's a paid trial designed to build trust and ensure a good fit before a long-term commitment."
 date: 2025-05-18
+kind: note
 authors:
   - tieubao
 tags:

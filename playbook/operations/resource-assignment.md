@@ -2,6 +2,7 @@
 title: Strategic resource allocation
 description: Discover how our consulting team optimizes resource allocation to deliver high-quality results while ensuring team well-being.
 date: 2019-04-10
+kind: note
 authors:
   - tieubao
 tags:

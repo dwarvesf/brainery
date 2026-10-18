@@ -3,6 +3,7 @@ draft: false
 title: Composing the Dwarves video pipeline
 description: "A behind-the-scenes look at how we built our video pipeline for long-form explainers and short-form content, from script to screen, with AI in the loop."
 date: 2025-07-10
+kind: note
 tags:
   - workflows
   - guides
@@ -25,11 +26,11 @@ Because we want our videos to sound like us: clear, clever, and just the right a
 
 **Target channels:** YouTube, LinkedIn
 
-**Use case:**  Explainers, dev logs, research stories, design walkthroughs
+**Use case:** Explainers, dev logs, research stories, design walkthroughs
 
 ### Draft the script
 
-*Tool: Notion*
+_Tool: Notion_
 
 We start with a clear requirement:
 
@@ -41,13 +42,13 @@ This becomes the draft script. Everyone chimes in until the script hits the righ
 
 ### Generate the script
 
-*Tool: Generative AI*
+_Tool: Generative AI_
 
-We write or co-write the video script using LLMs to help reshape ideas from memos, meetings, or chat threads into a clear voiceover-ready script. The goal is to make the message clear and structured, keeping it aligned with how we’d speak as builders. Think of this as refactoring written insight into spoken form. 
+We write or co-write the video script using LLMs to help reshape ideas from memos, meetings, or chat threads into a clear voiceover-ready script. The goal is to make the message clear and structured, keeping it aligned with how we’d speak as builders. Think of this as refactoring written insight into spoken form.
 
 ### Choose the reader voice
 
-*Tool: ElevenLabs, Google AI Studio or a Dwarves voice*
+_Tool: ElevenLabs, Google AI Studio or a Dwarves voice_
 
 Sometimes it’s a Dwarves teammate. Sometimes it’s AI from Elevenlabs. Either way, the voice should match the vibe: grounded, calm, witty, a little smug (in a good way), never robotic.
 
@@ -55,13 +56,13 @@ Sometimes it’s a Dwarves teammate. Sometimes it’s AI from Elevenlabs. Either
 
 ### Add transcript
 
-*Tool: Capcut*
+_Tool: Capcut_
 
 We pull a clean transcript for captions. Captions help with clarity, accessibility, repurposing and easier to clip down later. Makes sure keep it clean and time-synced.
 
 ### Gather visuals
 
-*Tools: Figma, Google, Meme Kitchen, Giphy, Reddit community*
+_Tools: Figma, Google, Meme Kitchen, Giphy, Reddit community_
 
 We source or create visuals to match the story, diagrams, code snippets, product screenshots, doodles, or memes. Rule of thumb: visuals should add clarity, not just decoration.
 
@@ -69,7 +70,7 @@ We source or create visuals to match the story, diagrams, code snippets, product
 
 ### Edit and output production video
 
-*Tool: Capcut desktop*
+_Tool: Capcut desktop_
 
 Capcut handles most of our editing from syncing visuals and audio to adding subtitles, transitions, and some flair. Final output: 1080p, platform-ready title and description.
 
@@ -103,17 +104,17 @@ Shorts are where we get to mess around. Memes, quick hits, highlights whatever g
 ## Support layer (behind the scenes)
 
 - **Where do we store things?**
-    - All assets (scripts, audio, visuals, exports) go into Google Drive.
-    - Organized by episode or series folder.
-    - Notion Content calendar is used for asset tracking and version control.
+  - All assets (scripts, audio, visuals, exports) go into Google Drive.
+  - Organized by episode or series folder.
+  - Notion Content calendar is used for asset tracking and version control.
 - **How do we notify the team?**
-    - Use Dwarves discord when the draft is ready.
-    - Feedback and final review tracked at internal channel.
-    - Tag stakeholders for final sign-off.
+  - Use Dwarves discord when the draft is ready.
+  - Feedback and final review tracked at internal channel.
+  - Tag stakeholders for final sign-off.
 - **How are credentials managed?**
-    - Platform credentials (YouTube, LinkedIn) are managed by the content lead.
-    - Access is shared only with designated team members.
-    - Credential list reviewed and rotated quarterly.
+  - Platform credentials (YouTube, LinkedIn) are managed by the content lead.
+  - Access is shared only with designated team members.
+  - Credential list reviewed and rotated quarterly.
 
 ## Script for short teel: “AI-agent explained” example
 

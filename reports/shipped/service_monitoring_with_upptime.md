@@ -3,6 +3,7 @@ draft: false
 title: Secure and transparent uptime monitoring with Upptime and GitHub secrets
 description: Discover how Dwarves Foundation uses Upptime and GitHub Actions for transparent public uptime monitoring while securely keeping tabs on internal services.
 date: 2025-03-31
+kind: note
 authors:
   - lmquang
 tags:

@@ -2,6 +2,7 @@
 title: Code editors
 description: How the team picks a code editor, why to learn keybindings, and why Vim is worth trying.
 date: null
+kind: note
 redirect:
   - /I53IiA
 authors:

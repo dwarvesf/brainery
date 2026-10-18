@@ -4,6 +4,7 @@ title: "#4 Transforming healthcare with technology"
 short_title: Momby
 description: Momby founder Ruby Nguyen on building a maternity health app from personal need, the data accuracy health tech demands, leading with care, and starting before it is perfect.
 date: 2022-11-22
+kind: digest
 series: WALA
 series_part: 4
 authors:
