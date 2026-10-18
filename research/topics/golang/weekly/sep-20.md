@@ -12,7 +12,7 @@ tags:
   - golang
 ---
 
-## [kl: An interactive Kubernetes log viewer for your terminal](https://github.com/robinovitch61/kl)
+## [Kl: An interactive Kubernetes log viewer for your terminal](https://github.com/robinovitch61/kl)
 
 An interactive Kubernetes log viewer for your terminal.
 

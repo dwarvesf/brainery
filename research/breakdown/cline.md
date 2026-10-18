@@ -31,7 +31,7 @@ Cline is an AI coding assistant implemented as a VS Code extension that demonstr
 
 The system integrates techniques from multiple domains:
 
-- **XML Tool Calling**: Response parsing mechanism that enables models without native JSON tool support to participate in agent workflows
+- **XML Tool calling**: Response parsing mechanism that enables models without native JSON tool support to participate in agent workflows
 - **Generative streaming UI**: Real-time visualization of tool execution including diffs, browser interactions, and command outputs
 - **Git shadow versioning**: Rollback system that enables autonomous operation without affecting user Git history
 - **Multi-provider API abstraction**: Interface supporting 33+ providers with graceful degradation
@@ -73,11 +73,11 @@ Cline functions as an AI coding assistant that handles software development work
 
 ![System_Flows](./assets/cline-system-flows.png)
 
-#### Level 2: Container architecture
+#### Level 2: container architecture
 
 ![Container_architect](./assets/cline-container-architect.png)
 
-#### Level 3: Core components
+#### Level 3: core components
 
 ![Cline_core_components](./assets/cline-core-components.png)
 

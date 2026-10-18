@@ -1,6 +1,6 @@
 ---
 draft: true
-title: "Go commentary #19: Writing secure Go code"
+title: "Go commentary #19: writing secure Go code"
 short_title: "#19 Writing secure Go code"
 description: Pratices to write secure Go code
 date: 2024-11-08

@@ -31,7 +31,7 @@ tags:
 - Solution:
 
   - **BPF** was originally used in Linux to filter network packets.
-  - **eBPF (Extended Berkeley Packet Filter)** allows to trace syscalls, user space/ library functions, network packets... => system performance, monitoring, security...
+  - **EBPF (Extended Berkeley Packet Filter)** allows to trace syscalls, user space/ library functions, network packets... => system performance, monitoring, security...
 
   ![](assets/ebpf_overview.webp)
 

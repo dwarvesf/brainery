@@ -83,7 +83,7 @@ Genkit: Google's Answer to... Everything? Not to be outdone, Google throws its h
 
 Genkit promises "production features" and "integrated developer tooling." Because apparently, what the world really needed was another way to manage prompts and deployments. It's as if Google looked at the mess of AI tooling and thought, "You know what this needs? More complexity!"
 
-### [The Ergo Framework: Erlang's Ghost Haunts Go](https://github.com/ergo-services/ergo)
+### [The Ergo framework: Erlang's Ghost haunts Go](https://github.com/ergo-services/ergo)
 
 Just when you thought we couldn't possibly need another framework, along comes Ergo. It's bringing the actor model to Go, because apparently, we all miss the days of Erlang and its byzantine approach to concurrency.
 

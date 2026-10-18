@@ -12,7 +12,7 @@ tags:
   - golang
 ---
 
-## [Go Features By Version](https://antonz.org/which-go/)
+## [Go features by version](https://antonz.org/which-go/)
 
 - Context:
 
@@ -24,7 +24,7 @@ tags:
 
   ![](assets/go-features-by-version.png)
 
-## [Make Your Programs Use Less Memory](https://github.com/dkorunic/betteralign)
+## [Make your programs use less memory](https://github.com/dkorunic/betteralign)
 
 - Context:
 
@@ -47,7 +47,7 @@ tags:
 
   - Blazingly fast, highly optimized server implementation written in Go for Minecraft 1.21
 
-## [A Source Code Editor in Pure Go](https://github.com/jmigpin/editor)
+## [A source Code editor in pure Go](https://github.com/jmigpin/editor)
 
 - Auto-indentation of wrapped lines.
 - No code coloring (except comments and strings).
@@ -72,7 +72,7 @@ tags:
 
 ![](assets/go-editor-image.png)
 
-## [Ollama 0.3 Quickly Run Large Language Models](https://github.com/ollama/ollama)
+## [Ollama 0.3 quickly run large language models](https://github.com/ollama/ollama)
 
 ![](assets/ollama.png)
 

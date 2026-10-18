@@ -51,7 +51,7 @@ graph TD
     style E fill:#ff9,stroke:#333,stroke-width:2px,color:black
 ```
 
-## Stage 1: Taming the raw chaos
+## Stage 1: taming the raw chaos
 
 Raw **data** is wild. It's the untamed frontier. Think of scraping Hacker News comments: we get everything from brilliant insights to flame wars. Or CRM logs: a mix of crucial updates and automated entries. Our **ICY token** transactions? Just a ledger of numbers without context.
 
@@ -59,10 +59,10 @@ We don't dump this raw data directly into our second brain. That would be like f
 
 These systems handle the initial heavy lifting:
 
-* Basic **data cleaning** (stripping HTML, normalizing dates)
-* **Entity extraction** (identifying "NVIDIA," "React," or "Q2 Financials")
-* Preliminary **sentiment analysis** on feedback
-* Initial **tagging** and categorization
+- Basic **data cleaning** (stripping HTML, normalizing dates)
+- **Entity extraction** (identifying "NVIDIA," "React," or "Q2 Financials")
+- Preliminary **sentiment analysis** on feedback
+- Initial **tagging** and categorization
 
 They transform raw **data** into structured **information**. Here's what that looks like for a Hacker News comment:
 
@@ -80,32 +80,32 @@ They transform raw **data** into structured **information**. Here's what that lo
 }
 ```
 
-## Stage 2: Feeding the brain
+## Stage 2: feeding the brain
 
 Once our supporting systems transform raw **data** into structured **information**, it's ready for the next step. We pipe it directly into the **observation_log** of our **true second brain**. This creates a permanent, **append-only** record of this **information**.
 
 The **JSONB payload** in our **TimescaleDB hypertable** handles this structured **information** without rigid schemas. Different data sources (Hacker News, CRM, token logs) can coexist in the same unified log, each with its own relevant structure.
 
-## Stage 3: The synthesis engine
+## Stage 3: the synthesis engine
 
 Inside our **true second brain**, all this structured **information** accumulates in the `observation_log`. This is where our internal **LLM** takes over. Its job isn't just storage, but understanding and pattern recognition across different sources and time periods.
 
 **TimescaleDB continuous aggregates** make this efficient. Instead of rescanning terabytes of historical **information** every few minutes, we pre-compute summaries and trends. Our aggregates track:
 
-* **Entity** co-occurrence frequencies (like "serverless" and "AI ethics")
-* **Sentiment** velocity around specific topics
-* Correlation between CRM activities and sales performance
-* ICY token platform feature adoption rates alongside developer forum discussions
+- **Entity** co-occurrence frequencies (like "serverless" and "AI ethics")
+- **Sentiment** velocity around specific topics
+- Correlation between CRM activities and sales performance
+- ICY token platform feature adoption rates alongside developer forum discussions
 
 Our internal **LLM** queries these aggregates and raw **information** to find signals above the noise. It looks for:
 
-* Non-obvious correlations
-* Interesting anomalies
-* Emerging themes across unrelated data streams
+- Non-obvious correlations
+- Interesting anomalies
+- Emerging themes across unrelated data streams
 
 This is where **information** transforms into genuine **insight**. For example, detecting that "discussions about 'decentralized AI compute' are spiking on Hacker News at the same time as increased ICY token transactions from wallets interacting with known DePIN projects."
 
-## Stage 4: Crystallizing knowledge
+## Stage 4: crystallizing knowledge
 
 When our internal **LLM** identifies significant patterns or trends, it doesn't just keep them to itself. It makes this understanding concrete and reusable through **coined terms** (formal knowledge structures).
 
@@ -143,9 +143,9 @@ Most importantly, it produces **actionable insights**. We're not just collecting
 
 Our system mirrors human intelligence. Psychologists talk about **fluid intelligence** (reasoning and problem-solving) and **crystallized intelligence** (accumulated knowledge). Our system has both:
 
-* **Fluid intelligence**: Our **LLMs** can understand language, make connections, and reason about novel inputs. However, their core knowledge is a "snapshot" from training.
+- **Fluid intelligence**: Our **LLMs** can understand language, make connections, and reason about novel inputs. However, their core knowledge is a "snapshot" from training.
 
-* **Crystallized intelligence**: Our **true second brain** (the `observation_log` and knowledge persistence) represents accumulated experience. Every piece of structured **information**, every **insight**, every **coined term** becomes part of this growing knowledge base.
+- **Crystallized intelligence**: Our **true second brain** (the `observation_log` and knowledge persistence) represents accumulated experience. Every piece of structured **information**, every **insight**, every **coined term** becomes part of this growing knowledge base.
 
 The **LLM's** **fluid intelligence** processes data and generates insights, which then crystallize into the `observation_log`. This ensures our system builds upon continuously expanding knowledge, not just reacting with "snapshot" understanding.
 

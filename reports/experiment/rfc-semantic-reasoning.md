@@ -76,7 +76,7 @@ graph TD
     style D fill:#9cf,stroke:#333,stroke-width:2px;,color:black
 ```
 
-*Diagram 1: How data flows from source through LLM processing to our embedding log*
+_Diagram 1: How data flows from source through LLM processing to our embedding log_
 
 ### Schema definition
 
@@ -132,7 +132,7 @@ classDiagram
     observation_log "1" -- "0..*" concept_embedding_log : contains source for
 ```
 
-*Diagram 2: How our concept embedding log relates to the observation log*
+_Diagram 2: How our concept embedding log relates to the observation log_
 
 ### Data flow and operational logic
 
@@ -167,7 +167,7 @@ sequenceDiagram
     end
 ```
 
-*Diagram 3: The sequence of events when generating and logging a new concept embedding*
+_Diagram 3: The sequence of events when generating and logging a new concept embedding_
 
 ## Reasoning capabilities
 
@@ -192,7 +192,7 @@ Here's an example of querying the semantic history of 'Vibe Coding':
 +---------------------+---------------+--------------------------+------------------------+
 ```
 
-*Figure 1: How we track the evolution of a concept's semantic meaning over time*
+_Figure 1: How we track the evolution of a concept's semantic meaning over time_
 
 ## Considerations and tradeoffs
 

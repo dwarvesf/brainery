@@ -400,7 +400,7 @@ flowchart LR
     class B,C,D,E,F stage
 ```
 
-#### Stage 1: Parse - Documentation extraction
+#### Stage 1: parse - documentation extraction
 
 Context7 doesn't discriminate - it parses everything: Markdown, MDX, plain text, reStructuredText, even Jupyter notebooks. The clever bit: projects can control parsing behavior with a `context7.json` config:
 
@@ -417,11 +417,11 @@ Context7 doesn't discriminate - it parses everything: Markdown, MDX, plain text,
 
 Why this works: Instead of blindly indexing everything, Context7 respects project structure. Documentation stays documentation, source code doesn't pollute the index.
 
-#### Stage 2: Enrich - LLM-powered metadata generation
+#### Stage 2: enrich - LLM-powered metadata generation
 
 Raw code snippets aren't enough. Context7 uses LLMs to generate contextual metadata - not just what the code does, but when and why to use it. This enrichment phase transforms dead examples into living documentation.
 
-#### Stage 3: Vectorize - Embedding generation
+#### Stage 3: vectorize - embedding generation
 
 Context7 leverages Upstash Vector with multiple embedding model options:
 
@@ -431,11 +431,11 @@ Context7 leverages Upstash Vector with multiple embedding model options:
 
 The trick: Different models for different use cases. Small snippets get fast models, complex examples get high-precision embeddings.
 
-#### Stage 4: Rerank - Proprietary relevance scoring
+#### Stage 4: rerank - proprietary relevance scoring
 
 This is where the 5-metric evaluation system kicks in. Context7's proprietary algorithm doesn't just rely on vector similarity - it considers question relevance, code quality, formatting, metadata, and initialization guidance to surface the best snippets first.
 
-#### Stage 5: Cache - Redis-powered optimization
+#### Stage 5: cache - redis-powered optimization
 
 The final optimization: Redis caching at multiple levels. Popular snippets, common queries, frequently accessed libraries - all cached for instant retrieval. No redundant processing, just immediate responses.
 
@@ -486,7 +486,7 @@ interface CodeSnippet {
 const SNIPPET_DELIMITER = "\n" + "-".repeat(40) + "\n";
 ```
 
-#### Metric 1: Question relevance (80% weight)
+#### Metric 1: question relevance (80% weight)
 
 The dominant factor. Unlike generic quality metrics, this tests against real developer questions:
 
@@ -555,7 +555,7 @@ async llmEvaluate(snippets: string): Promise<LLMScores> {
 
 The trick: LLM evaluation catches subtle issues like deprecated APIs or anti-patterns that rule-based checks miss. The AI evaluates relevancy, clarity, and correctness, but at 5% weight, it refines rather than dominates the ranking.
 
-#### Metric 3: Formatting validation (5% weight)
+#### Metric 3: formatting validation (5% weight)
 
 Rule-based checks ensure structural completeness:
 

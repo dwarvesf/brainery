@@ -45,9 +45,9 @@ When you fine-tune an **LLM**, you're adjusting its internal parameters through 
 
 Not exactly. This is where **catastrophic forgetting (CF)** comes in. When you optimize for new data, you risk overwriting parameters that were crucial for old knowledge. It's like trying to learn a new language and forgetting your native tongue in the process.
 
-## Our solution: Learning without forgetting
+## Our solution: learning without forgetting
 
-We took a different approach with our **MCP knowledge base** design. Instead of modifying the **LLM's** parameters, we keep it frozen. The learning happens by manipulating the *context* we feed into the model, using our database as an evolving external knowledge store.
+We took a different approach with our **MCP knowledge base** design. Instead of modifying the **LLM's** parameters, we keep it frozen. The learning happens by manipulating the _context_ we feed into the model, using our database as an evolving external knowledge store.
 
 Here's how it works with **softmax**:
 
@@ -96,7 +96,7 @@ Our database design achieves something similar through its structure:
 
 ## The technical payoff
 
-The `observation_log` holds raw potential. The **continuous aggregates** provide scoring based on historical frequency. The **LLM** interprets high scores and synthesizes them. Together, they model the *outcome* of **softmax**: highlighting and prioritizing statistically significant information from a vast dataset.
+The `observation_log` holds raw potential. The **continuous aggregates** provide scoring based on historical frequency. The **LLM** interprets high scores and synthesizes them. Together, they model the _outcome_ of **softmax**: highlighting and prioritizing statistically significant information from a vast dataset.
 
 We're not changing how the **Transformer** calculates attention. Instead, we're building an external system that learns by structuring, summarizing, and synthesizing information over time. This allows us to feed more relevant and distilled context into the **LLM's** existing attention mechanism.
 

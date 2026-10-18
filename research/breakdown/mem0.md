@@ -30,18 +30,18 @@ Large Language Models (LLMs) are limited by fixed context windows, which restric
 
 ### Key technical advances
 
-- **Two-Phase Memory Pipeline:** Mem0 processes each new message pair (user message and assistant response) in two phases:
+- **Two-Phase Memory pipeline:** Mem0 processes each new message pair (user message and assistant response) in two phases:
 
   - **Extraction:** Uses both a conversation summary and a sequence of recent messages to provide context. An LLM-based extraction function identifies salient memories (candidate facts) for the knowledge base.
   - **Update:** Each candidate fact is compared to existing memories using vector similarity. An LLM determines whether to ADD, UPDATE, DELETE, or NOOP (no change) for each fact, ensuring consistency and avoiding redundancy.
 
-- **Graph-Based Memory Representation:** The Mem0g variant represents memories as a directed labeled graph, where:
+- **Graph-Based Memory representation:** The Mem0g variant represents memories as a directed labeled graph, where:
 
   - **Nodes** represent entities (with types, embeddings, and metadata).
   - **Edges** represent relationships as triplets (source, relation, destination).
   - **Labels** assign semantic types to nodes. LLMs extract entities and relationships, and an update resolver manages conflicts and temporal reasoning. This structure supports advanced reasoning and multi-hop queries.
 
-- **Implicit Forgetting via Relevance Filtering:** Mem0 avoids context overload by selectively extracting and retrieving only relevant information, rather than processing entire conversation histories. This reduces computational overhead, latency, and token costs, while preventing the model from being burdened by irrelevant data.
+- **Implicit forgetting via relevance filtering:** Mem0 avoids context overload by selectively extracting and retrieving only relevant information, rather than processing entire conversation histories. This reduces computational overhead, latency, and token costs, while preventing the model from being burdened by irrelevant data.
 
 ### Component categories and responsibilities
 
@@ -50,22 +50,22 @@ Large Language Models (LLMs) are limited by fixed context windows, which restric
 - **Retriever:** Accesses relevant information from the memory store.
   - For Mem0: Uses dense embeddings in a vector database for similarity search.
   - For Mem0g: Combines entity-centric graph traversal and semantic triplet matching for flexible retrieval.
-- **Memory Store:** Pluggable backend for persistent storage and vector-based indexing.
+- **Memory store:** Pluggable backend for persistent storage and vector-based indexing.
   - Mem0 supports a wide range of vector store providers (e.g., Qdrant, ChromaDB, PineconeDB, FAISS).
   - Mem0g primarily uses Neo4j and other graph databases, combining structural richness with semantic flexibility.
 
 ### Example use cases
 
-- **Personalized AI Assistants:** Remember user preferences and details across sessions for tailored assistance (e.g., dietary restrictions for dinner recommendations).
-- **Multi-Session Customer Support:** Maintain context across multiple interactions, enabling seamless and effective support over days or weeks.
-- **Complex Problem-Solving Agents:** Recall facts and constraints from long-running tasks, anticipate needs, learn from mistakes, and generalize knowledge for improved decision-making and long-term reasoning.
-- **Cross-Platform Memory Sync:** The [Mem0 Chrome Extension](https://github.com/mem0ai/mem0-chrome-extension) maintains and synchronizes memory context across different AI chat interfaces, ensuring consistent experiences regardless of the platform used.
-- **Conversational Memory Management:** The [OpenMemory MCP Server](https://mem0.ai/openmemory-mcp) manages and surfaces relevant memories during conversations, enabling AI systems to maintain contextual awareness across sessions.
-- **Ambient Intelligence Applications:** When deployed in ambient computing scenarios, Mem0 can power:
-  - **Recommendation Engines:** Learn user preferences over time to provide increasingly personalized suggestions.
-  - **Health Trackers:** Monitor patterns, behaviors, and health metrics across extended periods for comprehensive wellness insights.
-  - **Procedural Memory for Automation:** Store and recall complex workflows and automation sequences, adapting to user habits.
-  - **Interactive Storytelling:** Create rich, persistent narrative experiences in gaming (imagine AI Dungeon with deep, consistent world memory and character development).
+- **Personalized AI assistants:** Remember user preferences and details across sessions for tailored assistance (e.g., dietary restrictions for dinner recommendations).
+- **Multi-Session customer support:** Maintain context across multiple interactions, enabling seamless and effective support over days or weeks.
+- **Complex problem-Solving agents:** Recall facts and constraints from long-running tasks, anticipate needs, learn from mistakes, and generalize knowledge for improved decision-making and long-term reasoning.
+- **Cross-Platform Memory sync:** The [Mem0 Chrome Extension](https://github.com/mem0ai/mem0-chrome-extension) maintains and synchronizes memory context across different AI chat interfaces, ensuring consistent experiences regardless of the platform used.
+- **Conversational Memory management:** The [OpenMemory MCP Server](https://mem0.ai/openmemory-mcp) manages and surfaces relevant memories during conversations, enabling AI systems to maintain contextual awareness across sessions.
+- **Ambient intelligence applications:** When deployed in ambient computing scenarios, Mem0 can power:
+  - **Recommendation engines:** Learn user preferences over time to provide increasingly personalized suggestions.
+  - **Health trackers:** Monitor patterns, behaviors, and health metrics across extended periods for comprehensive wellness insights.
+  - **Procedural Memory for automation:** Store and recall complex workflows and automation sequences, adapting to user habits.
+  - **Interactive storytelling:** Create rich, persistent narrative experiences in gaming (imagine AI Dungeon with deep, consistent world memory and character development).
 
 ---
 
@@ -80,7 +80,7 @@ LLMs typically "forget" information once it falls outside their context window, 
 - **Extractor:** Identifies and captures key information from ongoing conversations.
 - **Updater:** Compares extracted information with existing memories to maintain consistency and avoid redundancy.
 - **Retriever:** Dynamically fetches relevant information from the memory store for new interactions.
-- **Memory Store:** Central repository for storing and organizing memories. Mem0 uses dense, text-based storage, while Mem0g represents memories as directed labeled graphs (entities as nodes, relationships as edges).
+- **Memory store:** Central repository for storing and organizing memories. Mem0 uses dense, text-based storage, while Mem0g represents memories as directed labeled graphs (entities as nodes, relationships as edges).
 
 This architecture mimics human cognition by selectively storing, consolidating, and retrieving important information, even as conversations exceed context window limits or lose thematic continuity.
 
@@ -91,12 +91,12 @@ This architecture mimics human cognition by selectively storing, consolidating, 
 
 A typical interaction with a Mem0-powered AI agent follows a structured, incremental process across two main phases: extraction and update.
 
-1. **User Message:** The user sends a message, initiating a new interaction.
-2. **Memory Retrieval:** The agent retrieves relevant memories using the message as a query.
+1. **User message:** The user sends a message, initiating a new interaction.
+2. **Memory retrieval:** The agent retrieves relevant memories using the message as a query.
    - Mem0 uses two sources: a conversation summary (semantic overview of the history) and a sequence of recent messages (controlled by a recency window hyperparameter, e.g., last 10 messages).
    - Mem0g combines entity-centric graph traversal (identifying key entities and relationships) with semantic triplet matching (using dense embeddings to match relationship triplets).
-3. **Context Construction:** Retrieved memories, the conversation summary, recent messages, and the new message are combined into a prompt for the LLM.
-4. **LLM Response:** The LLM generates a response using the constructed context.
+3. **Context construction:** Retrieved memories, the conversation summary, recent messages, and the new message are combined into a prompt for the LLM.
+4. **LLM response:** The LLM generates a response using the constructed context.
 5. **Extraction Phase:** The conversation turn (user message + agent response) is sent to the Extractor, which uses an LLM to extract salient facts (candidate memories) from the exchange.
    - In Mem0g, this involves entity extraction and relationship generation to form triplets.
 6. **Update Phase:** The Updater evaluates each candidate fact against existing memories.
@@ -202,13 +202,13 @@ graph TD
 
 Mem0 manages conversational memory using several foundational data models:
 
-- **Memory Object:** The primary unit of stored information, represented by the `MemoryItem` class. Each memory object includes:
+- **Memory object:** The primary unit of stored information, represented by the `MemoryItem` class. Each memory object includes:
 
   - **Fact/Data:** The core content of the memory.
-  - **Vector Embedding:** A dense vector capturing the semantic meaning of the memory, generated by an Embedder component.
+  - **Vector embedding:** A dense vector capturing the semantic meaning of the memory, generated by an Embedder component.
   - **Metadata:** Contextual details such as a unique ID, hash, timestamps (`created_at`, `updated_at`), and identifiers like `user_id` and `agent_id`. For Mem0g, entities also have a type classification.
 
-- **Conversation Turn:** A complete exchange (user message and agent response), serving as the main source for fact extraction. Each turn is processed by the Extractor to identify new facts.
+- **Conversation turn:** A complete exchange (user message and agent response), serving as the main source for fact extraction. Each turn is processed by the Extractor to identify new facts.
 
 - **Retrieved Context:** A curated set of relevant Memory Objects fetched to inform the LLM's current turn. This context combines a conversation summary and a sequence of recent messages, forming a comprehensive prompt for the LLM.
 
@@ -216,7 +216,7 @@ Mem0 manages conversational memory using several foundational data models:
 
 Mem0 employs several algorithms throughout its memory management lifecycle:
 
-- **Salient Fact Extraction:** An LLM analyzes conversational text using a specialized prompt that includes the conversation summary, recent messages, and the current message pair. The Extractor identifies salient memories (candidate facts) for the knowledge base. In Mem0g, this involves:
+- **Salient fact extraction:** An LLM analyzes conversational text using a specialized prompt that includes the conversation summary, recent messages, and the current message pair. The Extractor identifies salient memories (candidate facts) for the knowledge base. In Mem0g, this involves:
 
   - Entity extraction (identifying key entities and types).
   - Relationship generation (deriving connections between entities as triplets), using tools like `EXTRACT_ENTITIES_TOOL` and `RELATIONS_TOOL`.
@@ -228,7 +228,7 @@ Mem0 employs several algorithms throughout its memory management lifecycle:
   - The LLM determines whether to **ADD**, **UPDATE**, **DELETE**, or **NOOP** each fact.
   - In Mem0g, conflict detection and an LLM-based resolver mark relationships as invalid (supporting temporal reasoning) rather than deleting them, using tools such as `ADD_MEMORY_TOOL_GRAPH`, `UPDATE_MEMORY_TOOL_GRAPH`, `DELETE_MEMORY_TOOL_GRAPH`, and `NOOP_TOOL`.
 
-- **Relevance-Based Retrieval:** Efficiently fetches the most pertinent information for the LLM's context window:
+- **Relevance-Based retrieval:** Efficiently fetches the most pertinent information for the LLM's context window:
   - Uses vector similarity search (e.g., cosine similarity) to find the top-k relevant memories.
   - Mem0g combines entity-centric graph traversal with semantic triplet matching (encoding queries as dense vectors and matching against relationship triplets).
   - Supports various vector database providers (e.g., Qdrant, Chroma, Pinecone, FAISS, and others).
@@ -237,11 +237,11 @@ Mem0 employs several algorithms throughout its memory management lifecycle:
 
 Mem0 features an abstracted storage layer and mechanisms for organizing conversational history:
 
-- **Vector Store Structure:** An abstracted `VectorStore` layer supports multiple vector databases, enabling flexible deployment. Memories are indexed by embeddings for efficient retrieval. The `VectorStoreBase` class defines standard operations:
+- **Vector store structure:** An abstracted `VectorStore` layer supports multiple vector databases, enabling flexible deployment. Memories are indexed by embeddings for efficient retrieval. The `VectorStoreBase` class defines standard operations:
 
   - `create_col`, `insert`, `search`, `update`, `delete`, `get`, `list_cols`, `delete_col`, `col_info`, `list`, `reset`.
 
-- **Conversation Chains:** Memories are logically associated with users or agents via metadata (`user_id`, `agent_id`), enabling:
+- **Conversation chains:** Memories are logically associated with users or agents via metadata (`user_id`, `agent_id`), enabling:
 
   - Separation and retrieval of individual conversation histories.
   - Consistent personas and tracking of evolving preferences.
@@ -278,8 +278,8 @@ This dual-context approach, along with selective retrieval of relevant Memory Ob
 
 LLMs have strict token limits, making it impractical to feed the entire conversation history. Mem0 addresses this by:
 
-- **Salient Fact Extraction:** Using LLMs to extract only the most important facts and preferences, resulting in concise, structured memories.
-- **Relevance-Based Retrieval:** Employing vector similarity search to retrieve only the top-k most relevant memories for each turn.
+- **Salient fact extraction:** Using LLMs to extract only the most important facts and preferences, resulting in concise, structured memories.
+- **Relevance-Based retrieval:** Employing vector similarity search to retrieve only the top-k most relevant memories for each turn.
 
 This selective approach significantly reduces token consumption and latency, achieving substantial cost and performance improvements over full-context methods.
 
@@ -298,19 +298,19 @@ Production-ready AI agents require flexible storage solutions. Mem0 provides an 
 
 ## Clever tricks and tips we discovered
 
-- **Prioritizing Recent Information:** Mem0 focuses memory extraction on the most immediate and relevant conversational exchanges, operating on the assumption that new information is typically the most pertinent. Extraction is triggered upon ingestion of each new message pair (user message and assistant response), with additional context provided by a configurable window of recent messages (e.g., last 10). This approach efficiently captures evolving user needs and preferences.
+- **Prioritizing recent information:** Mem0 focuses memory extraction on the most immediate and relevant conversational exchanges, operating on the assumption that new information is typically the most pertinent. Extraction is triggered upon ingestion of each new message pair (user message and assistant response), with additional context provided by a configurable window of recent messages (e.g., last 10). This approach efficiently captures evolving user needs and preferences.
 
-- **Dual Context Extraction:** To ensure comprehensive context, Mem0 combines two sources for memory extraction:
+- **Dual Context extraction:** To ensure comprehensive context, Mem0 combines two sources for memory extraction:
 
   - A **conversation summary** (semantic overview of the entire history), asynchronously generated and periodically refreshed to provide global thematic understanding.
   - A **sequence of recent messages** (e.g., last 10), offering granular temporal context and capturing details not yet consolidated into the summary.
     This dual-context prompt enables the LLM to extract salient memories while maintaining awareness of both broad themes and recent specifics.
 
-- **Proactive Fact Extraction:** Mem0 keeps its memory store consistently up-to-date by extracting and evaluating salient facts after every conversation turn. This continuous, proactive process ensures that the memory reflects the latest interactions, reducing the risk of stale or outdated information.
+- **Proactive fact extraction:** Mem0 keeps its memory store consistently up-to-date by extracting and evaluating salient facts after every conversation turn. This continuous, proactive process ensures that the memory reflects the latest interactions, reducing the risk of stale or outdated information.
 
-- **Implicit Forgetting:** Rather than explicitly deleting old data, Mem0 "forgets" by selectively storing only the most salient facts and preferences. As new, more relevant information is extracted, older or less important details naturally become less likely to be retrieved. While DELETE operations exist for contradictions, the main mechanism is relevance-based retrieval—ensuring that only the most pertinent information is surfaced for each query.
+- **Implicit forgetting:** Rather than explicitly deleting old data, Mem0 "forgets" by selectively storing only the most salient facts and preferences. As new, more relevant information is extracted, older or less important details naturally become less likely to be retrieved. While DELETE operations exist for contradictions, the main mechanism is relevance-based retrieval—ensuring that only the most pertinent information is surfaced for each query.
 
-- **Switching to Graphs for Complexity:** Mem0 supports two memory architectures:
+- **Switching to graphs for complexity:** Mem0 supports two memory architectures:
   - The base **Mem0** uses dense natural language memories in vector databases, excelling at rapid retrieval and efficient multi-hop reasoning with low latency and token cost.
   - For tasks requiring deeper relational understanding, **Mem0g** leverages graph-based memory, structuring memories as directed labeled graphs (entities as nodes, relationships as edges). This enables nuanced temporal and contextual reasoning, at the cost of moderate additional latency and token usage, making it ideal for complex, open-domain queries.
 

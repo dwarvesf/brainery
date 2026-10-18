@@ -84,7 +84,7 @@ graph TD
 
 1. **Data collection**: Raw data flows into the system from three primary sources:
    - **Discord**: Technical discussions and insights from #tech channel
-   - **Memo Blog**: User actions like subscriptions and content interactions
+   - **Memo blog**: User actions like subscriptions and content interactions
    - **GitHub**: Repository activities including commits and issues
 
 2. **Landing zone**: All raw data is initially stored in **GCP S3** buckets in JSON/CSV format, acting as a reliable buffer for incoming data.

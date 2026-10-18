@@ -349,7 +349,7 @@ class AdaptiveConfig:
 
 ## Technical challenges and solutions
 
-### Challenge 1: Browser anti-detection
+### Challenge 1: browser anti-detection
 
 **Problem**: Modern websites use sophisticated bot detection including fingerprinting, behavioral analysis, and CAPTCHA systems.
 
@@ -379,7 +379,7 @@ magic=True  # Enable stealth mode
 proxy_config=ProxyConfig(rotation_enabled=True)
 ```
 
-### Challenge 2: Large-scale concurrent crawling
+### Challenge 2: large-scale concurrent crawling
 
 **Problem**: Memory exhaustion and resource contention when crawling thousands of URLs concurrently.
 
@@ -408,7 +408,7 @@ class MemoryAdaptiveDispatcher:
         # Proceed with crawl only when memory is available
 ```
 
-### Challenge 3: Content quality for LLMs
+### Challenge 3: content quality for LLMs
 
 **Problem**: Raw web content contains navigation menus, ads, footers, and other noise that degrades LLM performance.
 
@@ -437,7 +437,7 @@ config = CrawlerRunConfig(content_filter=content_filter)
 result = await crawler.arun(url, config=config)
 ```
 
-### Challenge 4: Dynamic content handling
+### Challenge 4: dynamic content handling
 
 **Problem**: JavaScript-heavy websites with infinite scroll, lazy loading, and dynamic content generation.
 

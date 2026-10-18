@@ -1903,7 +1903,7 @@ func fibonacci(n int) int {
 
   - Only functions that can be fully resolved with the provided literal arguments can be evaluated at compile-time, therefore it is impossible to use any values from IO operations.
 
-### [go-sqlite3: Go bindings to SQLite using wazero](https://github.com/ncruces/go-sqlite3)
+### [Go-sqlite3: Go bindings to SQLite using wazero](https://github.com/ncruces/go-sqlite3)
 
 - Go module **github.com/ncruces/go-sqlite3** is a cgo-free SQLite wrapper. It provides a **database/sql** compatible driver, as well as direct access to most of the C SQLite API.
 
@@ -1982,7 +1982,7 @@ https://blog.daxe.ai/p/bbqvec-a-scalable-vector-search-library
 
 _2024-09-20_
 
-### [kl: An interactive Kubernetes log viewer for your terminal](https://github.com/robinovitch61/kl)
+### [Kl: An interactive Kubernetes log viewer for your terminal](https://github.com/robinovitch61/kl)
 
 An interactive Kubernetes log viewer for your terminal.
 
@@ -2260,7 +2260,7 @@ _2024-08-30_
   - **Go 1.23 support** (including the new range-over-func language feature)
   - ...
 
-### [sqlite-vec: A Vector Search Extension for SQLite](https://github.com/asg017/sqlite-vec)
+### [Sqlite-vec: A Vector Search Extension for SQLite](https://github.com/asg017/sqlite-vec)
 
 - Context:
 
@@ -2373,7 +2373,7 @@ _2024-08-23_
 
 ![](assets/go-commentary-aug-23_gonb-chart.webp)
 
-### [kubetrim: Trim Your KUBECONFIG Automatically](https://github.com/alexellis/kubetrim)
+### [Kubetrim: Trim Your KUBECONFIG Automatically](https://github.com/alexellis/kubetrim)
 
 ```cli
 $ kubectx
@@ -2995,7 +2995,7 @@ _2024-07-05_
 ### [Why People are Angry over Go 1.23 Iterators](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)
 
 - Context:
-  - Most languages provide standardized way to iterate over values stored in [containers](https://en.wikipedia.org/wiki/Container_(abstract_data_type)).
+  - Most languages provide standardized way to iterate over values stored in [containers](<https://en.wikipedia.org/wiki/Container_(abstract_data_type)>).
 - Problem:
 
   - Go has `for` `range` for maps, slices, strings, arrays and channels but no generic mechanism for user-written containers.
@@ -3066,7 +3066,7 @@ _2024-07-05_
 - https://github.com/golang/go/issues/61897
 - https://en.wikipedia.org/wiki/Container_(abstract_data_type)
 
-## Issue 1: mastering Go performance - eBPF and PGO optimization techniques
+## Issue 1: Mastering Go performance - eBPF and PGO optimization techniques
 
 _2024-06-27_
 
@@ -3089,7 +3089,7 @@ _2024-06-27_
 - Solution:
 
   - **BPF** was originally used in Linux to filter network packets.
-  - **eBPF (Extended Berkeley Packet Filter)** allows to trace syscalls, user space/ library functions, network packets... => system performance, monitoring, security...
+  - **EBPF (Extended Berkeley Packet Filter)** allows to trace syscalls, user space/ library functions, network packets... => system performance, monitoring, security...
 
   ![](assets/ebpf_overview.webp)
 

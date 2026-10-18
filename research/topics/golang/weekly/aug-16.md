@@ -1,6 +1,6 @@
 ---
 draft: true
-title: "Go commentary #7: Releases, websockets, and struct behavior"
+title: "Go commentary #7: releases, websockets, and struct behavior"
 short_title: "#7 Go 1.23, Websockets, and Structs"
 description: Exploring Go 1.23 release notes, the new home for nhooyr/websocket, and common mistakes with Go structs and slices.
 date: 2024-08-16
@@ -12,11 +12,11 @@ tags:
   - golang
 ---
 
-## [Go 1.23 Release Note](https://go.dev/doc/go1.23)
+## [Go 1.23 release note](https://go.dev/doc/go1.23)
 
 - Full notes that you should skim through to get full-fledged of Go 1.23
 
-## [A New Home for nhooyr/websocket](https://coder.com/blog/websocket)
+## [A new home for nhooyr/websocket](https://coder.com/blog/websocket)
 
 - [nhooyr/websocket](https://github.com/nhooyr/websocket) is adopted by [Coder](https://coder.com/), CDE - Cloud Development Environment
 

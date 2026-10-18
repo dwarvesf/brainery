@@ -22,7 +22,7 @@ E2B is a cloud-based code execution platform designed for AI applications. By le
 
 ![E2B](./assets/e2b-illustration-01.png)
 
-## Introduction: The AI code execution challenge
+## Introduction: the AI code execution challenge
 
 ### The problem space
 
@@ -140,10 +140,10 @@ graph TB
 
 The platform's core components include:
 
-- **API Server**: Built with FastAPI to handle sandbox management and client requests[⁴](https://github.com/e2b-dev/infra/)
+- **API server**: Built with FastAPI to handle sandbox management and client requests[⁴](https://github.com/e2b-dev/infra/)
 - **Daemon (envd)**: Runs inside each instance to manage the execution environment and handle code execution[⁴](https://github.com/e2b-dev/infra/)
-- **Instance Management Service**: Oversees sandbox lifecycle including creation, monitoring, and termination[⁴](https://github.com/e2b-dev/infra/)
-- **Environment Builder Service**: Constructs custom execution environments based on predefined templates[⁴](https://github.com/e2b-dev/infra/)
+- **Instance management service**: Oversees sandbox lifecycle including creation, monitoring, and termination[⁴](https://github.com/e2b-dev/infra/)
+- **Environment builder service**: Constructs custom execution environments based on predefined templates[⁴](https://github.com/e2b-dev/infra/)
 - **Firecracker microVMs**: AWS's open-source microVM virtualization technology, as the foundation for their sandbox infrastructure[⁴](https://github.com/e2b-dev/infra/). See [Firecracker microVM technology](#firecracker-microvm-technology) for more details.
 
 ### Session lifecycle management
@@ -219,7 +219,7 @@ Firecracker introduces MicroVMs as a minimalist virtual machine abstraction that
 - **Minimal device emulation**: Scoped to essentials—virtio block and network, serial console, and minimal keyboard controller—trading flexibility for dramatically reduced Trusted Computing Base[²](https://www.usenix.org/system/files/nsdi20-paper-agache.pdf)
 - **Built-in rate limiting**: Token-bucket rate limiters on disk and network I/O enforce bandwidth and IOPS caps per MicroVM, ensuring noisy-neighbor containment[²](https://www.usenix.org/system/files/nsdi20-paper-agache.pdf)
 
-#### Architecture and Thread Model
+#### Architecture and thread model
 
 ![Firecracker architecture](./assets/e2b-illustration-02.png)
 
@@ -229,7 +229,7 @@ Each Firecracker process encapsulates one microVM and runs three types of thread
 - **VMM thread**: Manages the machine model and device emulation
 - **vCPU threads**: Execute guest code via KVM (one thread per virtual CPU)
 
-#### Security and Isolation
+#### Security and isolation
 
 Firecracker implements multi-layered security[³](https://github.com/firecracker-microvm/firecracker/blob/main/docs/design.md):
 
@@ -238,7 +238,7 @@ Firecracker implements multi-layered security[³](https://github.com/firecracker
 - **Thread-specific seccomp filters**: Limit system calls per thread type for enhanced security[³](https://github.com/firecracker-microvm/firecracker/blob/main/docs/design.md)
 - **Minimal attack surface** through limited device emulation (VirtIO block/network, serial console)[²](https://www.usenix.org/system/files/nsdi20-paper-agache.pdf)
 
-#### Performance and Resource Management
+#### Performance and Resource management
 
 - **Memory overhead**: ~3-5 MB per MicroVM, regardless of guest memory size (versus ~131 MB for QEMU)[²](https://www.usenix.org/system/files/nsdi20-paper-agache.pdf)
 - **Boot latency**: Cold-start to guest init in ≤125 ms (pre-configured) and ~160-180 ms end-to-end (including API calls), roughly 2× faster than QEMU[²](https://www.usenix.org/system/files/nsdi20-paper-agache.pdf)
@@ -247,7 +247,7 @@ Firecracker implements multi-layered security[³](https://github.com/firecracker
 - **Production scale**: Supports millions of simultaneous workloads and processes trillions of serverless invocations per month in AWS Lambda and Fargate[²](https://www.usenix.org/system/files/nsdi20-paper-agache.pdf)
 - **Persistent state management** across code executions with up to 24-hour session duration[¹](https://e2b.dev/docs)
 
-#### Serverless Specialization and Production Readiness
+#### Serverless specialization and production readiness
 
 Firecracker's design reflects specialization for serverless workloads, enabling massive simplification[²](https://www.usenix.org/system/files/nsdi20-paper-agache.pdf):
 

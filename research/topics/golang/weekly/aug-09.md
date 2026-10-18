@@ -12,7 +12,7 @@ tags:
   - golang
 ---
 
-## [Cogent Core: A New GUI Framework for Go](https://www.cogentcore.org/blog/initial-release)
+## [Cogent Core: A New GUI framework for Go](https://www.cogentcore.org/blog/initial-release)
 
 - GUI framework written in Go that allows you Code Once, Rune Everywhere (Core) (macOS, Windows, Linux, iOS, Android and web)
 

@@ -31,14 +31,14 @@ This document outlines a **TimescaleDB**-based schema designed for capturing obs
 
 The primary objective is to enable an evolving knowledge base where a **large language model (LLM)** can:
 
-* Ingest raw observations
-* Detect emerging trends
-* Coin terms like "Vibe Coding" to encapsulate patterns
-* Maintain scalability and temporal integrity
+- Ingest raw observations
+- Detect emerging trends
+- Coin terms like "Vibe Coding" to encapsulate patterns
+- Maintain scalability and temporal integrity
 
 The system is explicitly **append-only**, ensuring that historical data remains immutable as new insights accrete over time.
 
-## Core structure: The observation_log hypertable
+## Core structure: the observation_log hypertable
 
 The **observation_log** serves as the sole **hypertable** within this schema, functioning as the append-only repository for all observational data. Configured atop **TimescaleDB**, it harnesses time-based partitioning to optimize performance for time-series analysis.
 
@@ -79,9 +79,9 @@ The **payload** column, encoded in **JSONB**, encapsulates the observation's con
 
 The **payload** within **observation_log** is the linchpin of this design, housing raw observational data and evolving to reflect coined terms as trends emerge. Initially, the **LLM** populates the **payload** with:
 
-* Raw **content**
-* Atomic **entities**
-* Direct **relations**
+- Raw **content**
+- Atomic **entities**
+- Direct **relations**
 
 Higher-level concepts like **coined_terms** remain undefined until patterns solidify. As trends are detected, the **LLM** appends new observations that introduce **coined_terms**, encapsulating emergent phenomena such as "Vibe Coding"—a term coined to describe developers leveraging **AI** to generate code without manual intervention.
 
@@ -336,8 +336,8 @@ The **LLM** engages with **observation_log** in a cyclical process that drives t
 1. **Initial ingestion**: The **LLM** ingests raw data from diverse sources—such as Discord or X—recording observations with minimal **entities** and **relations**, focusing on **content** and **tags**.
 
 2. **Pattern detection**: Periodically, it queries the **continuous aggregates** to identify recurring patterns, such as:
-   * A surge in mentions of "generate code without writing" within **content_trends**
-   * "devs uses AI" in **relation_trends**
+   - A surge in mentions of "generate code without writing" within **content_trends**
+   - "devs uses AI" in **relation_trends**
 
 3. **Term coining**: Upon detecting a threshold—say, a **mention_count** exceeding 10—the **LLM** coins a term like "Vibe Coding" and appends a new observation to **observation_log**, populating the **coined_terms** array.
 

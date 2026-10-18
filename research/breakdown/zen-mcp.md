@@ -450,7 +450,7 @@ def build_conversation_history(context: ThreadContext):
 
 ## Technical challenges and solutions
 
-### Challenge 1: Stateless protocol + stateful conversations
+### Challenge 1: stateless protocol + stateful conversations
 
 **The problem**: MCP is inherently stateless. Each tool call is independent with no knowledge of previous interactions. But real AI collaboration requires memory.
 
@@ -595,7 +595,7 @@ CURRENT REQUEST: Now do a comprehensive security audit focusing on the issues fo
 
 **Result**: The `secaudit` tool has complete context from the `analyze` tool without any manual re-explanation.
 
-### Challenge 4: Token budget management across models
+### Challenge 4: token budget management across models
 
 **The problem**: Different AI models have vastly different context windows:
 
@@ -654,7 +654,7 @@ def calculate_token_allocation(self) -> TokenAllocation:
 
 **Adaptive behavior**: Smaller models prioritize conversation history over files. Larger models can afford generous file embedding.
 
-### Challenge 5: Workflow tool step enforcement
+### Challenge 5: workflow tool step enforcement
 
 **The problem**: How do you ensure users actually investigate between workflow steps instead of just calling the tool repeatedly without doing any work?
 
@@ -706,7 +706,7 @@ def _get_required_actions(self, request) -> str:
 - ✅ **Natural workflow**: Mimics real debugging process
 - ✅ **Quality control**: Tools track confidence progression
 
-### Challenge 6: Multi-provider model routing
+### Challenge 6: multi-provider model routing
 
 **The problem**: Supporting 6+ different AI providers (Google, OpenAI, OpenRouter, XAI, DIAL, Custom) with different APIs, model names, capabilities, and failure modes.
 
@@ -764,7 +764,7 @@ class OpenRouterProvider(ModelProvider):
 
 **Robustness**: This architecture gracefully handles provider outages, API key issues, and model availability changes without user-visible failures.
 
-### Challenge 7: Auto vs manual model selection
+### Challenge 7: auto vs manual model selection
 
 **The problem**: Users want both simplicity (just work!) and control (use the right model for the job). How do you provide both without confusing UX?
 
@@ -779,7 +779,7 @@ class OpenRouterProvider(ModelProvider):
 
 The automatic model selection system operates through four sophisticated layers:
 
-#### Layer 1: Configuration detection (`config.py`)
+#### Layer 1: configuration detection (`config.py`)
 
 ```python
 # Auto mode activation patterns
@@ -799,7 +799,7 @@ def is_effective_auto_mode(self) -> bool:
     return not bool(provider)
 ```
 
-#### Layer 2: Tool category requirements
+#### Layer 2: tool category requirements
 
 **Tool category distribution**:
 
@@ -812,7 +812,7 @@ def is_effective_auto_mode(self) -> bool:
 - **BALANCED**: Default fallback category for new tools
   - Selection priority: `o4-mini` → `o3-mini` → `grok-3` → `gemini-2.5-flash`
 
-#### Layer 3: Provider priority routing
+#### Layer 3: provider priority routing
 
 **Provider priority order**:
 
@@ -838,7 +838,7 @@ def get_provider_for_model(model_name: str) -> Optional[ModelProvider]:
     return None
 ```
 
-#### Layer 4: Early resolution (`server.py:639`)
+#### Layer 4: early resolution (`server.py:639`)
 
 **Request Processing Flow**:
 
@@ -874,7 +874,7 @@ OPENROUTER_ALLOWED_MODELS="opus,sonnet"
 
 ## Clever tricks and tips we discovered
 
-### Trick 1: The "newest-first" file strategy
+### Trick 1: the "newest-first" file strategy
 
 **The challenge**: In multi-turn conversations, the same file often appears multiple times. Which version should we use?
 
@@ -899,7 +899,7 @@ def get_conversation_file_list(context: ThreadContext) -> list[str]:
 
 **Result**: Tools always see the most recent version of files, preventing outdated content from contaminating analysis.
 
-### Trick 2: The dual prioritization strategy
+### Trick 2: the dual prioritization strategy
 
 **The challenge**: For optimal token usage, we want newest content first. But for LLM understanding, we want chronological order.
 
@@ -924,7 +924,7 @@ def build_conversation_history(context: ThreadContext) -> tuple[str, int]:
 
 **Result**: Optimal token allocation AND natural conversation flow.
 
-### Trick 3: Early model resolution
+### Trick 3: early model resolution
 
 **The challenge**: Model resolution is expensive and error-prone when done repeatedly.
 
@@ -948,7 +948,7 @@ async def handle_call_tool(name: str, arguments: dict[str, Any]):
 
 **Result**: Single point of failure, consistent resolution, clear error messages.
 
-### Trick 4: Model-specific token allocation
+### Trick 4: model-specific token allocation
 
 **The challenge**: O3 has 200K tokens, Gemini has 1M tokens. How do you allocate efficiently?
 
@@ -968,7 +968,7 @@ def calculate_token_allocation(self) -> TokenAllocation:
 
 **Examples**: O3 gets 36K for files, 60K for history. Gemini gets 320K for files, 320K for history.
 
-### Trick 5: Provider priority cascade
+### Trick 5: provider priority cascade
 
 **The challenge**: Not all AI providers are equal in performance and cost.
 
@@ -987,7 +987,7 @@ PROVIDER_PRIORITY_ORDER = [
 
 **Result**: Best performance provider is always chosen first, with automatic fallback.
 
-### Trick 6: The "continuation offer" pattern
+### Trick 6: the "continuation offer" pattern
 
 **The challenge**: How do you make cross-tool collaboration feel natural?
 
@@ -1004,7 +1004,7 @@ def generate_continuation_offer(self, thread_id: str) -> str:
 
 **User Flow**: analyze → continuation offer → secaudit gets FULL context → seamless handoff.
 
-### Trick 7: Confidence-driven workflow termination
+### Trick 7: confidence-driven workflow termination
 
 **The challenge**: When should workflow tools stop investigating?
 

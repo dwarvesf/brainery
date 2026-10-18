@@ -11,7 +11,7 @@ tags:
   - golang
 ---
 
-## [Go sync.Map: The Right Tool for the Right Job](https://victoriametrics.com/blog/go-sync-map/index.html)
+## [Go sync.Map: The right tool for the right job](https://victoriametrics.com/blog/go-sync-map/index.html)
 
 - Context:
 
