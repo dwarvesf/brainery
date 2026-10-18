@@ -57,11 +57,11 @@
   <rect x="364" y="208" width="22" height="5" fill="#e8c56a"/>
   <rect x="484" y="208" width="22" height="5" fill="#e8c56a"/>
   <rect x="604" y="208" width="22" height="5" fill="#e8c56a"/>
-  <text x="300" y="228" fill="#e8c56a" font-size="10">off-turn action proposed in the thread: raise a shield, help defend</text>
+  <text x="300" y="228" fill="#e8c56a" font-size="10">off-turn action proposed in the thread: raise a shield, a small chance to defend</text>
 
   <!-- legend -->
   <rect x="120" y="48" width="12" height="8" fill="#c3d7ea"/>
-  <text x="138" y="56" fill="#a7c0d9" font-size="10">my turn (~T/N = 2.5 min of 10)</text>
+  <text x="138" y="56" fill="#a7c0d9" font-size="10">active turn (~T/N = 2.5 min of 10)</text>
   <rect x="380" y="48" width="12" height="8" fill="#21466a" stroke="#68839d"/>
   <text x="398" y="56" fill="#a7c0d9" font-size="10">waiting (7.5 min)</text>
 </svg>

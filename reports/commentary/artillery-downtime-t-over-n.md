@@ -34,7 +34,7 @@ _Fig. 1: A ten-minute, four-player match as an example of T/N. Each player's act
 
 ## The formula
 
-Take a ten-minute match with four players. Each player gets about two and a half minutes of decisions and seven and a half minutes of watching. A player who dies at minute six gets nothing for the last four. tieubao called this a GunBound problem that the prototype could change. He said he was reading up on why GunBound and Gunny failed. The thread did not take that further.
+Take a ten-minute match with four players. Each player gets about two and a half minutes of decisions and seven and a half minutes of watching. A player who dies at minute six gets nothing for the last four. tieubao called this a GunBound problem that the prototype could change. He said he was still looking into why GunBound and Gunny failed. The thread did not take that further.
 
 ## Four layers of feedback
 

@@ -28,7 +28,7 @@ _Written by neko-anon, the Dwarves editorial desk bot, from a #build-club discus
 
 ![A sketch of the loop: farmers with 20 accounts sell on a marketplace, rich players buy, the publisher sells time shortcuts, and a dashed stub marks cash-out as fined for the operator](assets/mmo-farmer-whale-economy-fig1-loop.svg)
 
-_Fig. 1: A sketch combining remarks from bievh, tieubao and monotykamary._
+_Fig. 1: A sketch combining remarks from bievh, tieubao and monotykamary, plus the Decree 174 penalty._
 
 ## Where the loop came from
 
@@ -44,7 +44,7 @@ tieubao then suggested retheming into another game, "1 market ngoai tu tien nua"
 
 The record behind that community: VNG launched Võ Lâm Truyền Kỳ in 2005, and VietnamNet records [120,000 accounts in the first 48 hours of closed-beta registration and 200,000 concurrent players by early July 2006](https://vietnamnet.vn/vo-lam-truyen-ky-da-duoc-mang-ve-viet-nam-cach-day-12-nam-truoc-nhu-the-nao-ig17074.html).
 
-bievh had a live example, the Võ Lâm-style game he lurks in. On 8 October it was in beta with about 2,000 users, and "tụi nó nạp kinh luôn" (they were paying heavily). Some mobile players had complained the newbie gift did not arrive, which he read as a bug. By 12 October he reported two Zalo groups of 1,000 members each and a community price list for items. About 500 players were online daily.
+bievh had a live example, the Võ Lâm-style game he lurks in. On 8 October it was in beta with about 2,000 users, and "tụi nó nạp kinh luôn" (they were paying heavily). Some mobile players had complained the newbie gift did not arrive, which he read as a bug. By 12 October he reported two Zalo groups of 1,000 members each, and market prices had already formed. About 500 players were online daily.
 
 On reaching players for 9T, tieubao suggested seeding in comic groups and "radio cac kieu" (radio and the like), given the theme. bievh's own plan: "chac di shill tu tu thoi" (shill it slowly). The offline version, he said, drew people who "hỏi asset" (ask about the assets) rather than play.
 
@@ -52,7 +52,7 @@ On reaching players for 9T, tieubao suggested seeding in comic groups and "radio
 
 When phucld posted a game listing on 6 October, bievh asked whether selling that way gets you fined. 0xm: "làm game ko biết kiếm đc tiền chưa mà bị phạt là 70 củ" (you do not know yet if the game makes money, and the fine is 70 million). The published numbers run higher, and 70 million is one tier among several.
 
-An online game with a server in the middle is a G1 game under [Decree 147/2024](https://www.tilleke.com/insights/a-closer-look-at-vietnams-decree-147-on-internet-services-and-online-information/). 9T becomes one the moment it goes multiplayer. Releasing one needs a licence to provide G1 game services and a decision on release of the specific game. [Article 39 of the decree](https://vietanlaw.com/g1-game-license/), as Viet An Law summarises it, lists conditions including a Vietnamese enterprise with game services on its business registration, a registered domain, and a game copyright certificate. The server rental contract needs at least six months left, from a licensed telecom provider. Players under 18 are capped at 60 minutes a day per game and 180 minutes a day across the enterprise's games. Cross-border provision of online games to Vietnamese users [remains prohibited](https://www.tilleke.com/insights/a-closer-look-at-vietnams-decree-147-on-internet-services-and-online-information/).
+An online game where players interact with each other through the game server is a G1 game under [Decree 147/2024](https://www.tilleke.com/insights/a-closer-look-at-vietnams-decree-147-on-internet-services-and-online-information/). 9T becomes one the moment it goes multiplayer. Releasing one needs a licence to provide G1 game services and a decision on release of the specific game. [Article 39 of the decree](https://vietanlaw.com/g1-game-license/), as Viet An Law summarises it, lists conditions including a Vietnamese enterprise with game services on its business registration, a registered domain, and a game copyright certificate. The server rental contract needs at least six months left, from a licensed telecom provider. Players under 18 are capped at 60 minutes a day per game and 180 minutes a day across the enterprise's games. Cross-border provision of online games to Vietnamese users [remains prohibited](https://www.tilleke.com/insights/a-closer-look-at-vietnams-decree-147-on-internet-services-and-online-information/).
 
 The penalty side, as [BLawyers summarises it](https://www.blawyersvn.com/how-does-vietnamese-law-regulate-sanctions-for-violations-committed-by-video-game-businesses/): up to 170 million VND for providing a G1 game without a valid licence. Up to 100 million for a G2 to G4 game without a valid registration certificate. Up to 70 million for failing to notify a G2 to G4 game, or for running a G1 game on an expired licence.
 
