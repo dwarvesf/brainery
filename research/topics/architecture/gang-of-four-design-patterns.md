@@ -192,7 +192,7 @@ jQuery was one of the early pioneers of this pattern in its API. Those little `$
 
 - [wretch](https://github.com/elbywan/wretch), a wrapper for the native Fetch API with intuitive syntax
 - [zod](https://github.com/colinhacks/zod), a schema validation library
-- [Spotify Nodejs wrapper](https://github.com/thelinmichael/spotify-web-api-node), a wrapper for Spotify's web API
+- [Spotify nodejs wrapper](https://github.com/thelinmichael/spotify-web-api-node), a wrapper for Spotify's web API
 - and many others
 
 #### Pros and cons
