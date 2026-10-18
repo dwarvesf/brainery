@@ -10,6 +10,16 @@ tags:
   - playbook
 redirect:
   - /6iu25w
+  - /playbook/operations/adjust-the-way-we-work-in-basecamp-style
+  - /rojSFw
+  - /playbook/operations/naming-convention
+  - /b4Esnw
+  - /playbook/operations/compliance-check-process
+  - /4D0jsQ
+  - /playbook/operations/bric-a-brac
+  - /kPRN5Q
+  - /playbook/operations/objective
+  - /DjBf8Is
 ---
 
 Dwarves Foundation is an innovation service firm. We have been building an organization with high standard software practices and business growth capabilities, helping tech startups, entrepreneurs and makers deliver their innovative software product since 2013.

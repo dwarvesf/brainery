@@ -1,6 +1,6 @@
 ---
 draft: false
-title: AI agent explained
+title: "AI agent explained: LLMs, workflows and agents"
 description: Most people confuse LLMs, workflows, and agents, but understanding these three levels unlocks the real potential of AI automation. The key difference lies in who makes the decisions.
 date: 2025-06-23
 authors:
@@ -11,6 +11,13 @@ tags:
   - automation
   - llm
   - workflow
+redirect:
+  - /reports/commentary/salesforce-ai-use-cases
+  - /salesforce-ai-use-cases
+  - /WTULNQ
+  - /reports/commentary/yelp-ai-use-cases
+  - /yelp-ai-use-cases
+  - /jDxK1A
 ---
 
 ## The three levels that define modern AI
@@ -22,35 +29,35 @@ Understanding these levels isn't just academic. It determines whether you're usi
 ```mermaid
 %%{init: {'flowchart': {'curve': 'stepBefore'}}}%%
 graph TD
-    
+
     subgraph Level3 ["🤖 Level 3: AI agents"]
         A3["Autonomous decision making"]
         B3["Self-judgment & iteration"]
         C3["Non-deterministic paths"]
         D3["Goal-oriented behavior"]
     end
-    
+
     subgraph Level2 ["⚙️ Level 2: AI workflows"]
         A2["Predefined steps"]
         B2["Human decision making"]
         C2["Deterministic process"]
         D2["Multi-step automation"]
     end
-    
+
     subgraph Level1 ["📝 Level 1: Large language models"]
         A1["Text generation"]
         B1["Passive response"]
         C1["Non-deterministic output"]
         D1["Human controlled"]
     end
-    
+
     Level1 -.-> Level2
     Level2 -.-> Level3
-    
+
     classDef level1 fill:#e1f5fe,stroke:#0277bd,stroke-width:2px
     classDef level2 fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
     classDef level3 fill:#e8f5e8,stroke:#2e7d32,stroke-width:2px
-    
+
     class A1,B1,C1,D1 level1
     class A2,B2,C2,D2 level2
     class A3,B3,C3,D3 level3

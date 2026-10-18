@@ -4,6 +4,7 @@ description: Copy-ready email templates Dwarves Foundation uses for candidates, 
 slug: email-template-library
 kind: playbook
 date: 2020-01-01
+announce: false
 authors:
   - nikkingtr
   - huynguyenh
@@ -51,18 +52,22 @@ redirect:
   - /0WFBTg
   - /playbook/operations/email-template/national-day
   - /6L4CZw
+  - /playbook/operations/email-template/milestone-sign-off
+  - /ABh8Yg
+  - /playbook/operations/setup-email-template
+  - /FdMzhw
 ---
 
 This page holds the email templates Dwarves Foundation Operations and HR use, from an interview slot to an offer to a holiday notice for clients. They are grouped by who receives the email. Each template shows the subject line, then the body. Replace everything in square brackets before sending.
 
-To keep your own copies in Gmail, see [Setup email template in Gmail](/playbook/operations/setup-email-template).
+To keep your own copies in Gmail, see [Set up templates in Gmail](#set-up-templates-in-gmail) at the end of this page.
 
 | Audience   | Templates                                                                                             |
 | ---------- | ----------------------------------------------------------------------------------------------------- |
 | Candidates | Interview invitation, assignment invitation (two versions), rejection (two stages), offer letter      |
 | New hires  | Welcome onboard, follow-up onboarding items                                                           |
 | Employees  | Confirm resume date, salary increment, referral bonus confirmation, farewell after a failed probation |
-| Clients    | Holiday announcement (five holidays), resource change, thank-you letter                               |
+| Clients    | Holiday announcement (five holidays), resource change, milestone sign-off, thank-you letter           |
 | Community  | Welcome to Dwarves Updates                                                                            |
 
 ## Candidates
@@ -440,6 +445,22 @@ The example below shows the three resource lists filled in.
 
 ![Example of a filled-in resource change email](email-template/assets/information-about-resource-change_template-resource-change.webp)
 
+### Milestone sign-off
+
+Sent to a client to confirm that the last milestone is done. The invoice email follows the client's confirmation.
+
+**Subject:** Project XX - Milestone Signoff
+
+> Dear [**Name**],
+>
+> As discussed in previous meeting, we have agreed to sign off the last milestone [**name of milestone**] of [**project**]. Please help us to confirm on this email, upon confirmed we will send another invoice email.
+>
+> Thank you for your collaboration.
+>
+> Sincerely,
+>
+> Dwarves Foundation
+
 ### Thank-you letter
 
 Sent to a partner after the project closes.
@@ -485,3 +506,22 @@ Sent to people who have interacted with Dwarves through the website, Facebook or
 > - [Oct 31: The path to growth at dwarves](https://log.d.foundation/06d0a46163914f10831d3146867dde2d#3c1fa5109e9643ab9ca31c5fcc3a3a5c)
 >
 > _In case this email doesn't suit your need, please kindly unsubscribe here. Hope to see you again real soon._
+
+## Set up templates in Gmail
+
+**Turn on Canned Responses (Templates)**
+
+- Log in to your Gmail account.
+- Open Settings, then the Advanced tab.
+- Change Canned Responses (Templates) to **Enabled**.
+
+![Gmail Settings, Advanced tab, with Canned Responses (Templates) enabled](setup-email-template.webp)
+
+**Add and use a template**
+
+When you compose an email, you can either:
+
+- Save the current draft as a template for later.
+- Pick a saved template for the email.
+
+If a template contains placeholders, mark them red so teammates notice and replace them when they use the template.

@@ -1,5 +1,6 @@
 ---
-title: Marketing assets
+draft: true
+title: "Marketing assets (archived)"
 description: Dwarves marketing assets
 date: 2019-02-21
 authors:
@@ -7,8 +8,7 @@ authors:
 tags:
   - handbook
   - marketing
-redirect:
-  - /YjK0eQ
+redirect: []
 ---
 
 - About: <https://d.foundation/about>

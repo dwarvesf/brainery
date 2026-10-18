@@ -1,5 +1,6 @@
 ---
-title: Adjust the way we work in Basecamp style
+draft: true
+title: "Adjust the way we work in Basecamp style (archived)"
 description: "Our path with Basecamp didn't cross by accident. Years ago, we embarked on the Slack community and had it applied for internal communication. And project management on another tool, where documents & files are in G-suite."
 date: 2021-04-20
 authors:
@@ -9,8 +10,7 @@ tags:
   - management
   - operation
   - process
-redirect:
-  - /rojSFw
+redirect: []
 ---
 
 Being in a remote team is dope. Manage your own stuff, remove the time and cost of commuting, select your work ambiance, and got equipped with all types of supporting tools.
@@ -75,7 +75,7 @@ We use this for time-reserved activities.
 - Webinar/ Topic Discussion
 - Sprint planning/ Retrospective
 
-#### Link it with Google Calendar/ Apple Calendar
+#### Link it with Google Calendar/ apple Calendar
 
 Link Basecamp Schedule with Google/Apple Calendar helps us track the meeting easier from a broader view, combining our personal schedules & team schedules to make sure it won't get overlapped.
 

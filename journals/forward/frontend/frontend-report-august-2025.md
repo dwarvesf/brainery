@@ -1,6 +1,6 @@
 ---
-draft: false
-title: Frontend report August 2025
+draft: true
+title: "Frontend report August 2025 (archived)"
 short_title: Frontend Web Development in August 2025
 description: "August 2025 frontend developments covering React ecosystem updates, performance optimization techniques, modern web technologies, security practices, developer tooling improvements, and AI integration in frontend workflows."
 date: 2025-09-05
@@ -9,8 +9,7 @@ authors:
 tags:
   - frontend
   - market-report
-redirect:
-  - /urdRThw
+redirect: []
 slug: frontend-report-august-2025
 ---
 
@@ -49,7 +48,7 @@ Phoenix LiveView 1.1 introduces function components for portals, transitions fro
 
 Teams spent more time on performance, looking at bundle sizes and loading speeds.
 
-### [How Polymarket.com reached a 9 MB bundle size](https://www.catchmetrics.io/blog/nextjs-how-polymarketcom-reached-a-9-mb-bundle-size-and-what-you-can-do-to-avoid-it)
+### [How polymarket.com reached a 9 MB bundle size](https://www.catchmetrics.io/blog/nextjs-how-polymarketcom-reached-a-9-mb-bundle-size-and-what-you-can-do-to-avoid-it)
 
 Real-world analysis of Next.js bundle bloat causes reveals systematic patterns in inefficient imports, barrel files, and wildcard exports affecting Core Web Vitals.
 

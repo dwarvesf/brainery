@@ -10,6 +10,10 @@ tags:
   - handbook
 redirect:
   - /OIHpPw
+  - /handbook/misc/marketing-assets
+  - /YjK0eQ
+  - /handbook/memo/memo-meeting
+  - /9eELaA
 ---
 
 Dwarves are a group of software engineers, designers, and innovation advocates. We serve a single purpose: To empower innovations and co-create the next big things.
@@ -96,7 +100,6 @@ If you've just joined us, you're in a unique position. You can see things we've 
 ## Tools & resources
 
 - [Tools and systems](tools-and-systems.md) - Software and platforms we use
-- [Marketing assets](misc/marketing-assets.md) - Brand resources and information
 
 ## Contributing
 

@@ -11,6 +11,8 @@ tags:
   - consulting
 redirect:
   - /YnApuQ
+  - /consulting/service-feedbacks
+  - /IlZYhg
 ---
 
 The Consulting team is a strategic spin-off built on the foundation of our Tech Research team. While Tech Research explores emerging technologies and builds innovative solutions, we take those insights and apply them directly to real business challenges.
@@ -43,7 +45,7 @@ Browse the newest consulting posts on the [consulting tag page](/tags/consulting
 - [Engagement models](engagement-models.md): Different ways to work with clients.
 - [On deal making](deal-making.md): Tips for closing deals successfully.
 - [Setting the budget](setting-the-budget.md): How to figure out and handle project money.
-- [Fixed-budget, Scope-controlled](fixed-budget-scope-controlled.md): Managing fixed budget and scope.
+- [Fixed-budget, scope-controlled](fixed-budget-scope-controlled.md): Managing fixed budget and scope.
 - [Understanding billing by hours](bill-by-hours.md): Understanding billing by hours.
 - [A pilot run](pilot-run.md): Experience our services firsthand.
 
@@ -52,8 +54,7 @@ Browse the newest consulting posts on the [consulting tag page](/tags/consulting
 - [Client onboarding](client-onboarding.md): How to onboard client.
 - [Project delivery and soft skills](client-delivery.md): How to do great work for clients and get along with people.
 - [Required dev skills](dev-skill-required.md): Required skills for developers working with clients.
-- [Client-side and Agency-side](client-side-agency-side.md): What it's like being a client vs. being an agency.
-- [Service feedbacks](service-feedbacks.md): How to get and use feedback from clients to get better.
+- [Client-side and agency-side](client-side-agency-side.md): What it's like being a client vs. being an agency.
 
 ### Others
 

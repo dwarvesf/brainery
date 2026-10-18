@@ -1,5 +1,6 @@
 ---
-title: MBTI type INTJ
+draft: true
+title: "MBTI type INTJ (archived)"
 description: All about the INTJ personality type
 date: 2021-07-26
 authors:
@@ -9,8 +10,7 @@ tags:
   - mbti
   - operation
   - people
-redirect:
-  - /vuF3BQ
+redirect: []
 ---
 
 ### Preferred work environment

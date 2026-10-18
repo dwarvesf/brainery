@@ -51,11 +51,23 @@ redirect:
   - /UiLoDw
   - /research/topics/personas/mbti/theory-team-building-based-on-mbti
   - /1Dv3bw
+  - /playbook/operations/apply-mbti-in-hr
+  - /GZQMNw
+  - /research/topics/personas/mbti/build-productive-team
+  - /mhresw
+  - /playbook/operations/mbti-type-istj
+  - /LUR2FQ
+  - /playbook/operations/mbti-type-estj
+  - /f8wtJw
+  - /playbook/operations/mbti-type-intj
+  - /vuF3BQ
+  - /playbook/operations/mbti-type-istp
+  - /dVmgvA
+  - /playbook/operations/the-four-preferences
+  - /uoiKrg
 ---
 
 These are reading notes from the Dwarves research vault on Dr. A.J. Drenth's _My True Type: Clarifying Your Personality Type, Preferences & Functions_. Page ranges point back to the book. Other notes draw on Personality Junkie, 16Personalities, Practical Typing and David Keirsey's work on temperaments. The order follows the book: what a type is, the four preference pairs, the eight cognitive functions, how to confirm a type, and a team-level view. Several source notes were written in Vietnamese, and this page carries them in English.
-
-For a hiring-side application, see [Apply MBTI in hiring](/playbook/operations/apply-mbti-in-hr).
 
 ## What a type is
 

@@ -1,6 +1,6 @@
 ---
-draft: false
-title: Frontend report March 2025
+draft: true
+title: "Frontend report march 2025 (archived)"
 short_title: March 2025
 description: "March 2025 brings critical frontend updates! Learn about the Next.js security exploit you must patch nows. Explore TypeScript's upcoming 10x speed boost with Corsa, React Router's game-changing middleware, and why prefetching can surprisingly slow down your site. Plus: CSS functions are finally here, new in Chrome 133, Node.js is dropping Corepack, and TanStack Start finds an official deployment home!"
 date: 2025-03-31
@@ -9,8 +9,7 @@ authors:
 tags:
   - frontend
   - market-report
-redirect:
-  - /BZXK4A
+redirect: []
 slug: frontend-report-march-2025
 ---
 
@@ -32,10 +31,10 @@ React 19's cache() API for Server Components caches data fetches/computations pe
 
 ### Quick links
 
-- [Beyond React.memo: Smart performance optimization that actually works](https://cekrem.github.io/posts/beyond-react-memo-smarter-performance-optimization/)
+- [Beyond react.memo: Smart performance optimization that actually works](https://cekrem.github.io/posts/beyond-react-memo-smarter-performance-optimization/)
 - [The URL: React's underrated state manager](https://iamsahaj.xyz/blog/react-state-in-the-url/)
 - [React: The unexpected perfect engine for LLM workflows](https://www.gensx.com/blog/why-react-is-the-best-backend-workflow-engine)
-- [Server Actions with Toast: React's useActionState explained](https://www.robinwieruch.de/react-server-actions-useactionstate-toast/)
+- [Server actions with toast: React's useActionState explained](https://www.robinwieruch.de/react-server-actions-useactionstate-toast/)
 
 ## Next.js
 
@@ -57,8 +56,8 @@ Sometimes the popular choice isn't right! This team abandoned Next.js and found 
 
 ### Quick links
 
-- [Vercel's Fluid Compute: How it slashes AI costs](https://vercel.com/blog/how-fluid-compute-works-on-vercel)
-- [How Preply boosted INP without App Router](https://medium.com/preply-engineering/how-preply-improved-inp-on-a-next-js-application-without-react-server-components-and-app-router-491713149875)
+- [Vercel's Fluid compute: How it slashes AI costs](https://vercel.com/blog/how-fluid-compute-works-on-vercel)
+- [How preply boosted INP without app Router](https://medium.com/preply-engineering/how-preply-improved-inp-on-a-next-js-application-without-react-server-components-and-app-router-491713149875)
 
 ## Others
 
@@ -94,14 +93,14 @@ Get ready for `Corsa` - TypeScript's new Go-based compiler that promises 10x fas
 
 The **Node.js TSC has voted to stop distributing Corepack** in future releases (25+), though it remains experimental in v24 and earlier . This move reflects **low adoption**, **distribution concerns**, and the desire for **independent evolution of package managers**. Developers may need to **install Corepack separately** if needed.
 
-### [TanStack Start on Netlify: Official deployment partner](https://www.netlify.com/blog/tanstack-start-netlify-official-deployment-partner/)
+### [TanStack Start on netlify: Official deployment partner](https://www.netlify.com/blog/tanstack-start-netlify-official-deployment-partner/)
 
 **Netlify** is now the **official deployment partner** for **TanStack Start**, the hot new full-stack React framework! Expect seamless, **zero-config deployments** and a killer developer experience.
 
 ### Quick links
 
 - [How we migrated 160,000 lines to TypeScript with zero downtime](https://benhowdle.im/migrating-js-to-ts-zero-downtime.html)
-- [Prisma replaces Rust with WASM and TypeScript, gets 3.4x faster](https://www.prisma.io/blog/rust-to-typescript-update-boosting-prisma-orm-performance)
+- [Prisma replaces rust with WASM and TypeScript, gets 3.4x faster](https://www.prisma.io/blog/rust-to-typescript-update-boosting-prisma-orm-performance)
 
 ## Tools
 

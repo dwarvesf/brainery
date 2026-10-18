@@ -1,5 +1,6 @@
 ---
-title: Naming convention
+draft: true
+title: "Naming convention (archived)"
 description: This is the guide how to name your Email, Basecamp, Slack, Trello username.
 date: 2020-01-01
 authors:
@@ -7,8 +8,7 @@ authors:
 tags:
   - operation
   - people
-redirect:
-  - /b4Esnw
+redirect: []
 ---
 
 ## Email

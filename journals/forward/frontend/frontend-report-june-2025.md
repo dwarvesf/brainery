@@ -1,6 +1,6 @@
 ---
-draft: false
-title: Frontend Report June 2025
+draft: true
+title: "Frontend report June 2025 (archived)"
 short_title: Frontend Web Development in June 2025 - AI Tools and Web Platform Updates
 description: "June 2025 brought significant changes to frontend web development. This report covers the widespread adoption of AI coding tools, new CSS conditional logic features, browser updates with AI integration, React Server Components in production, TypeScript's native Node.js support, and improved development workflows."
 date: 2025-06-30
@@ -9,8 +9,7 @@ authors:
 tags:
   - frontend
   - market-report
-redirect:
-  - /6uWkDg
+redirect: []
 slug: frontend-report-june-2025
 ---
 
@@ -34,7 +33,7 @@ React continues its evolution with Server Components maturation and Next.js adva
 - [Prefetching - Next.js Documentation](https://nextjs.org/docs/app/guides/prefetching) - Official guide to Next.js prefetching strategies
 - [Composable streaming with Suspense](https://twofoldframework.com/blog/composable-streaming-with-suspense) - Performance optimization with React Suspense
 - [The Two Reacts](https://overreacted.io/the-two-reacts/) - Splitting React components across different programming environments while preserving React benefits.
-- [RSC for LISP Developers](https://overreacted.io/rsc-for-lisp-developers/) - Exploring parallels between React Server Components and LISP's quoting concept.
+- [RSC for LISP developers](https://overreacted.io/rsc-for-lisp-developers/) - Exploring parallels between React Server Components and LISP's quoting concept.
 
 ## 🎨 CSS features & Web standards
 
@@ -56,17 +55,17 @@ June 2025 introduced new CSS features and web platform updates that affect how w
 
 ### Quick links
 
-- [CSS Spotlight Effect](https://frontendmasters.com/blog/css-spotlight-effect/) - Dynamic spotlight effects with mobile support
+- [CSS spotlight effect](https://frontendmasters.com/blog/css-spotlight-effect/) - Dynamic spotlight effects with mobile support
 - [New to the web platform in May](https://web.dev/blog/web-platform-05-2025?hl=en) - Google's monthly web platform updates
 - [State of CSS 2025 Survey](https://survey.devographics.com/en-US/survey/state-of-css/2025) - Track CSS feature adoption
 - [Liquid Glass, But In CSS](https://atlaspuplabs.com/blog/liquid-glass-but-in-css) - Creating liquid glass effects with SVG filters
-- [Color Everything in CSS](https://css-tricks.com/color-everything-in-css/) - Comprehensive guide to CSS color systems
+- [Color everything in CSS](https://css-tricks.com/color-everything-in-css/) - Comprehensive guide to CSS color systems
 
 ## ⚡ TypeScript & JavaScript advancements
 
 JavaScript celebrates its 30th anniversary while TypeScript reaches new performance milestones.
 
-### Featured Articles
+### Featured articles
 
 **[Node.js 23.6 with Native TypeScript Support](https://nodejs.org/en/blog/announcements/node-18-eol-support)** - Node.js now executes TypeScript natively without build steps.
 
@@ -110,7 +109,7 @@ Development tooling continues to evolve with AI integration and performance impr
 
 AI-powered development tools gained widespread adoption in June 2025, changing how developers write code.
 
-### Featured Articles
+### Featured articles
 
 **[Revenge of the Junior Developer](https://sourcegraph.com/blog/revenge-of-the-junior-developer)** - Analysis of how AI agents will change software development productivity, creating a landscape where AI budget becomes competitive advantage.
 
@@ -127,7 +126,7 @@ AI-powered development tools gained widespread adoption in June 2025, changing h
 ### Quick links
 
 - [Introducing Anthropic's Free Interactive Prompt Engineering Course](https://substack.com/@alphasignalai/note/c-120940100?utm_source=feed-email-digest) - 9 step-by-step chapters with exercises
-- [AI-Powered Coding Tool Anysphere Raises $900M at $9.9B Valuation](https://news.crunchbase.com/ai/anysphere-cursor-venture-funding-thrive/) - Cursor's massive funding round
+- [AI-Powered Coding tool Anysphere raises $900M at $9.9B valuation](https://news.crunchbase.com/ai/anysphere-cursor-venture-funding-thrive/) - Cursor's massive funding round
 - [Vibe coding is here to stay. Can it ever be secure?](https://cyberscoop.com/vibe-coding-ai-cybersecurity-llm/) - Security concerns about AI-generated code
 - [How to get your entire team prototyping with AI](https://www.lennysnewsletter.com/p/how-to-get-your-entire-team-prototyping) - Guide to v0, Bolt, Cursor, Magic Patterns
 
@@ -135,7 +134,7 @@ AI-powered development tools gained widespread adoption in June 2025, changing h
 
 The browser landscape is changing with AI-native approaches and major platform updates.
 
-### Featured Articles
+### Featured articles
 
 **[The Browser Company mulls selling or open sourcing Arc Browser amid AI-focused pivot](https://techcrunch.com/2025/05/27/the-browser-company-mulls-selling-or-open-sourcing-arc-browser-amid-ai-focused-pivot/)** - Browser Company considering selling Arc as they pivot to AI-powered Dia browser.
 
@@ -171,8 +170,8 @@ Growing security threats and performance optimization remain critical concerns f
 
 ### Quick links
 
-- [SlimImg: Privacy-Safe Image Compression](https://slimimg.tools/) - Local browser image optimization
-- [Faster Dashboards with Multi-Column Approximate Sorting](https://duckdb.org/2025/06/06/advanced-sorting-for-fast-selective-queries.html) - Database query optimization
+- [SlimImg: Privacy-Safe image compression](https://slimimg.tools/) - Local browser image optimization
+- [Faster dashboards with Multi-Column Approximate Sorting](https://duckdb.org/2025/06/06/advanced-sorting-for-fast-selective-queries.html) - Database query optimization
 - [Comparing gzip, brotli and zstd compression in Go](https://blog.kowalczyk.info/a-5hum/compressing-for-the-browser-in-go.html) - Web compression benchmarks
 
 ## 🎯 Design & user experience
@@ -208,9 +207,9 @@ Design-to-development integration improved with AI-powered tools and acquisition
 
 ## 📊 Key statistics
 
-- **AI Investment**: Cursor raises $900M at $9.9B valuation
-- **Market Growth**: Anthropic hits $3B annualized revenue
-- **Security Threats**: 270K websites compromised via JSF-ck obfuscation
+- **AI investment**: Cursor raises $900M at $9.9B valuation
+- **Market growth**: Anthropic hits $3B annualized revenue
+- **Security threats**: 270K websites compromised via JSF-ck obfuscation
 - **Browser Evolution**: Safari 26 beta introduces 12+ new web technologies
-- **Developer Adoption**: 67% of developers now use AI coding assistants regularly
-- **Funding Activity**: $2.5B+ invested in AI development tools in June 2025
+- **Developer adoption**: 67% of developers now use AI coding assistants regularly
+- **Funding activity**: $2.5B+ invested in AI development tools in June 2025

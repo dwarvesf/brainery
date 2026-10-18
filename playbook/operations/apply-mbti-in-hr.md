@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Apply MBTI in hiring
 description: A guide to using MBTI personality types to better understand job candidates and team members, with specific traits to look for in engineering, design, sales, and people operations roles.
 date: 2021-07-17
@@ -9,10 +10,7 @@ tags:
   - mbti
   - operation
   - people
-redirect:
-  - /GZQMNw
-  - /research/topics/personas/mbti/build-productive-team
-  - /mhresw
+redirect: []
 ---
 
 ## Getting started

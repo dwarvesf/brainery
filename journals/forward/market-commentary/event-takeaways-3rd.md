@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Talks and takeaways from the scene part 3: three crypto events, one reality check"
 short_title: 3rd Talks and Takeaways
 description: Talks and Takeaways from the Scene Part 3
@@ -11,8 +11,7 @@ tags:
   - consulting
   - market-report
   - report
-redirect:
-  - /WJltiw
+redirect: []
 slug: event-takeaways-3rd
 ---
 
