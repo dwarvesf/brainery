@@ -2,8 +2,9 @@
 title: "Best practices in Android development, part 2: app structure and resources"
 description: "When to use activities or fragments, how to lay out Java packages, and how to keep layout XML, styles, colors and dimens organized."
 date: null
-authors:
-  - tieubao
+authors: []
+credit: Futurice
+credit_url: "https://github.com/futurice/android-best-practices"
 slug: android-best-practices-app-structure-resources
 announce: false
 series: android-best-practices

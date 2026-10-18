@@ -2,8 +2,9 @@
 title: "Best practices in iOS development, part 4: building, deployment and in-app purchases"
 description: "Build configurations, targets and schemes, code signing and provisioning, uploading to App Store Connect, and in-app purchases."
 date: null
-authors:
-  - tieubao
+authors: []
+credit: Futurice
+credit_url: "https://github.com/futurice/ios-good-practices"
 slug: ios-best-practices-build-deploy-iap
 announce: false
 series: ios-best-practices

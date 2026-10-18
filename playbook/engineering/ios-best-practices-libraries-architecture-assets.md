@@ -2,8 +2,9 @@
 title: "Best practices in iOS development, part 2: libraries, architecture, stores and assets"
 description: "Which libraries earn a place in an iOS app, how to structure models, views and controllers, where to keep data, and how to handle images."
 date: null
-authors:
-  - tieubao
+authors: []
+credit: Futurice
+credit_url: "https://github.com/futurice/ios-good-practices"
 slug: ios-best-practices-libraries-architecture-assets
 announce: false
 series: ios-best-practices

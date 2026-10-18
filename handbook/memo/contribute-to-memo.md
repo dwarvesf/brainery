@@ -89,6 +89,8 @@ Each folder holds one kind of claim, and each has a test. [`_meta/taxonomy.md`](
 
 A second classification goes in `tags` or `series`, never in a new folder. Reports stay flat: `reports/<tier>/<name>.md`, with no subfolders.
 
+A series is a set of notes that read in order. Put `series: <kebab-slug>` in the frontmatter of every part and number them with `series_part: 1`, `series_part: 2` and so on. The slug names the series, and memo groups the parts on the note pages and on each author's contributor page. Editors can also define a series for existing notes in the site code. Either route works, and a frontmatter `series` needs no code change.
+
 ### Write the frontmatter
 
 ![](assets/contribute-to-memo-fig2-frontmatter.svg)
@@ -99,7 +101,7 @@ Three fields are required: `title`, `description` and `date`. Playbooks and hand
 
 The lint does not parse YAML. It counts any `key:` line as a top-level key and wants exactly one colon outside quotes on each. A title like `Why: a thing` fails until you quote it. Put nested values on one line in flow style, and quote a numeric tag such as `"101"`.
 
-The lint treats everything else as optional: `authors`, `tags`, `kind`, `series`, `image` and `redirect`. Set `authors` anyway, or the post credits nobody. A page adapted from someone outside the contributor list sets `credit: <source name>` instead (add a quoted `credit_url:` for a link) and leaves `authors: []`. The byline then reads "Adapted from <source name>" and links no contributor page. A moved file keeps its slug and appends its old URL to `redirect:`. `draft: true` hides a page in production, and a draft cannot be a redirect target. Two things never go in the frontmatter. An `evidence` key is out because the build derives the tier from the folder. A Discord name in `authors` is out because it creates a wrong contributor page, which chapter 7 covers.
+The lint treats everything else as optional: `authors`, `tags`, `kind`, `series`, `image` and `redirect`. Set `authors` anyway, or the post credits nobody. A page adapted from someone outside the contributor list sets `credit: <source name>` instead (add a quoted `credit_url:` for a link) and leaves `authors: []`. The byline then reads "Adapted from <source name>" and links no contributor page. The same pair covers a note nobody can name an author for: use `credit: Dwarves Foundation` with `authors: []`, and the note counts toward no one's contributor page. A moved file keeps its slug and appends its old URL to `redirect:`. `draft: true` hides a page in production, and a draft cannot be a redirect target. Two things never go in the frontmatter. An `evidence` key is out because the build derives the tier from the folder. A Discord name in `authors` is out because it creates a wrong contributor page, which chapter 7 covers.
 
 ### Kinds and word floors
 
@@ -411,6 +413,10 @@ _Fig. 9: The header of a contributor page: name, avatar, the Team badge, and lin
 The page shows a name, an avatar, a bio and links when the contributor has a profile record. A handle with no profile still gets a page. It shows the handle as the name and no picture. The page also shows one badge. Team marks current staff or contractors. Fellow marks former staff or contractors, taken from the Notion Contractors status that memo syncs into its people list. Guest marks an approved guest writer from the guest registry. A handle with no known source shows no badge, as `/contributor/claude` does. Guest writers get a handle that memo assigns, so they never choose a byline in frontmatter.
 
 If you are outside the Dwarves Discord and want to prove that a GitHub byline is yours, open [memo.d.foundation/claim](https://memo.d.foundation/claim). You add one token to your GitHub profile README, and memo checks it. There is no account to create and no password to enter.
+
+**Choose your Selected work.** A team member's contributor page shows up to three notes under "Selected work". You pick them. Add `featured: true` to the frontmatter of the notes you want shown, and memo lists them newest first. More than three flagged notes show the newest three. If you flag none, the page falls back to your newest three notes under the heading "Latest". The flag sits on the note, so on a co-authored note it counts on every co-author's page.
+
+**Notes with no individual author.** Unsigned or adapted pages carry `authors: []` and a `credit:` line (chapter 2). They appear on no contributor page, so they never inflate anyone's count or series list. Do not put your own handle on a note you did not write to make it show up.
 
 Two things live in code and have no frontmatter field. Merging two bylines into one needs a row in `dwarvesf/foundation-apps` for the redirect, and so does a request to have your Discord handle tagged when memo announces your post. The foundation-apps code keeps that directory by hand on purpose, because a wrong guess would tag the wrong person. Ask the editors, and attach the handle you want.
 

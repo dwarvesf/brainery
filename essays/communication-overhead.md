@@ -2,6 +2,7 @@
 title: "3,016 delegations to agents: the long briefs cost the most"
 description: "Median brief 289 words, median run 6.4 minutes, 14.5% needed a follow-up. What 24 days of Claude Code subagent logs say about briefing agents, and where a brief cost more than the work."
 date: 2026-10-18
+featured: true
 authors:
   - tieubao
 kind: essay

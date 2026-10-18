@@ -3,8 +3,8 @@ draft: false
 title: "Reusability in software development, part 2: application frameworks and product lines"
 description: "How object-oriented application frameworks package reuse, and how software product lines reuse a common core across a family of related products."
 date: 2020-05-05
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 tags:
   - engineering
 slug: software-reuse-frameworks-product-lines

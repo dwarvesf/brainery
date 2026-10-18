@@ -12,8 +12,8 @@ redirect:
   - /research/topics/communication/sensemaking-produces-thick-data
   - /59fWwg
   - /topics/communication/sensemaking-produces-thick-data
-authors:
-  - tieubao
+authors: []
+credit: David Drysdale (Moby Diction)
 ---
 
 Reducing human activity to numbers involves a kind of compression, and a particularly lossy one at that. Simply, there aspects of human activity that do not translate well into scorecards or dashboards; when we reduce those activities to a quantitative measure, we sacrifice rich contextual data. Many activities are immeasurable or even invisible; there's always a gap between behaviour and what can be counted. Rory Sutherland reminds us that human beings are messy: they are not machines, gathering inputs and processing outputs; relying too heavily on quantitative data leads us to neglect information that lies outside the data model. In fact, context can make all the difference in how someone behaves, thinks, and acts; reducing actions to numbers loses this essential data. As Madsbjerg suggests, this kind of algorithmic thinking sacrifices the "thick" data of context that help us understand why people behave the way they do-knowledge about how people relate to and understand the world around them and undergird the structures of our social reality.

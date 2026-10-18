@@ -4,8 +4,8 @@ title: "Inductive reasoning (reading note)"
 description: Inductive research develops new theories by observing limited data, linking ideas creatively to form hypotheses that help predict future events or explain phenomena.
 date: 2026-08-27
 redirect: []
-authors:
-  - tieubao
+authors: []
+credit: David Drysdale (Moby Diction)
 ---
 
 According to Sam Ladner inductive research seeks to develop a new theory or hypothesis based on the observation of limited data. The purpose of inductive research isn't to articulate a hard truth, but to develop a position that is cogent. That is, it's a hypothesis that is likely true based on the available data. Inductive research adds to human knowledge, and creates frameworks whereby future events or otherwise unobserved phenomena may be predicted (accurately or not).
