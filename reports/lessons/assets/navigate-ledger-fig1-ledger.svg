@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 500" role="group" aria-label="Fig. 1: ten arcs called in June 2025, each with six planned experiments, client pull, market outcome and a proposed verdict" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid1" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr1" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/></marker>
+    <marker id="arm1" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#e8c56a"/></marker>
+  </defs>
+  <rect width="760" height="500" fill="#12395f"/>
+  <rect width="760" height="500" fill="url(#grid1)"/>
+  <rect x="0.5" y="0.5" width="759" height="499" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 1 · THE LEDGER, OCTOBER 2026</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">TEN ARCS · 60 EXPERIMENTS</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+  <text x="20" y="58" font-size="9" letter-spacing="1.5" fill="#6f8fb0" text-anchor="start">ARC</text>
+  <text x="190" y="58" font-size="9" letter-spacing="1.5" fill="#6f8fb0" text-anchor="start">SIX EXPERIMENTS</text>
+  <text x="312" y="58" font-size="9" letter-spacing="1.5" fill="#6f8fb0" text-anchor="start">CLIENT PULL</text>
+  <text x="456" y="58" font-size="9" letter-spacing="1.5" fill="#6f8fb0" text-anchor="start">MARKET SINCE JUNE 2025</text>
+  <text x="740" y="58" font-size="9" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">VERDICT</text>
+  <line x1="14" y1="66" x2="746" y2="66" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="20" y="92" font-size="11" letter-spacing="1" fill="#e8f1fa" font-weight="bold">AGENTIC AI</text>
+  <rect x="190" y="81" width="14" height="14" fill="#e8f1fa" stroke="#e8f1fa"/>
+  <rect x="210" y="81" width="14" height="14" fill="#e8f1fa" stroke="#e8f1fa"/>
+  <rect x="230" y="81" width="14" height="14" fill="#68839d" stroke="#68839d"/>
+  <rect x="250" y="81" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="270" y="81" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="290" y="81" width="14" height="14" fill="none" stroke="#68839d"/>
+  <text x="312" y="92" font-size="10" fill="#a7c0d9">4 projects</text>
+  <text x="456" y="92" font-size="10" fill="#a7c0d9">confirmed, hype risk</text>
+  <text x="740" y="92" font-size="10" letter-spacing="1.5" fill="#e8c56a" text-anchor="end" font-weight="bold">HELD</text>
+  <line x1="14" y1="105" x2="746" y2="105" stroke="#385a7b" stroke-opacity="0.35"/>
+  <text x="20" y="127" font-size="11" letter-spacing="1" fill="#e8f1fa" font-weight="bold">LLM</text>
+  <rect x="190" y="116" width="14" height="14" fill="#e8f1fa" stroke="#e8f1fa"/>
+  <rect x="210" y="116" width="14" height="14" fill="#e8f1fa" stroke="#e8f1fa"/>
+  <rect x="230" y="116" width="14" height="14" fill="#68839d" stroke="#68839d"/>
+  <rect x="250" y="116" width="14" height="14" fill="#68839d" stroke="#68839d"/>
+  <rect x="270" y="116" width="14" height="14" fill="#68839d" stroke="#68839d"/>
+  <rect x="290" y="116" width="14" height="14" fill="none" stroke="#68839d"/>
+  <text x="312" y="127" font-size="10" fill="#a7c0d9">5 projects</text>
+  <text x="456" y="127" font-size="10" fill="#a7c0d9">partly confirmed</text>
+  <text x="740" y="127" font-size="10" letter-spacing="1.5" fill="#e8f1fa" text-anchor="end" font-weight="bold">PARTLY HELD</text>
+  <line x1="14" y1="140" x2="746" y2="140" stroke="#385a7b" stroke-opacity="0.35"/>
+  <text x="20" y="162" font-size="11" letter-spacing="1" fill="#e8f1fa" font-weight="bold">PLATFORM OPS</text>
+  <rect x="190" y="151" width="14" height="14" fill="#e8f1fa" stroke="#e8f1fa"/>
+  <rect x="210" y="151" width="14" height="14" fill="#e8f1fa" stroke="#e8f1fa"/>
+  <rect x="230" y="151" width="14" height="14" fill="#68839d" stroke="#68839d"/>
+  <rect x="250" y="151" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="270" y="151" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="290" y="151" width="14" height="14" fill="none" stroke="#68839d"/>
+  <text x="312" y="162" font-size="10" fill="#a7c0d9">no AI-ops client</text>
+  <text x="456" y="162" font-size="10" fill="#a7c0d9">adopted, incumbents won</text>
+  <text x="740" y="162" font-size="10" letter-spacing="1.5" fill="#e8f1fa" text-anchor="end" font-weight="bold">PARTLY HELD</text>
+  <line x1="14" y1="175" x2="746" y2="175" stroke="#385a7b" stroke-opacity="0.35"/>
+  <text x="20" y="197" font-size="11" letter-spacing="1" fill="#e8f1fa" font-weight="bold">STABLECOIN</text>
+  <rect x="190" y="186" width="14" height="14" fill="#68839d" stroke="#68839d"/>
+  <rect x="210" y="186" width="14" height="14" fill="#68839d" stroke="#68839d"/>
+  <rect x="230" y="186" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="250" y="186" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="270" y="186" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="290" y="186" width="14" height="14" fill="none" stroke="#68839d"/>
+  <text x="312" y="197" font-size="10" fill="#a7c0d9">2 projects, in-app</text>
+  <text x="456" y="197" font-size="10" fill="#a7c0d9">direction yes, size no</text>
+  <text x="740" y="197" font-size="10" letter-spacing="1.5" fill="#e8f1fa" text-anchor="end" font-weight="bold">PARTLY HELD</text>
+  <line x1="14" y1="210" x2="746" y2="210" stroke="#385a7b" stroke-opacity="0.35"/>
+  <text x="20" y="232" font-size="11" letter-spacing="1" fill="#e8f1fa" font-weight="bold">BITCOIN</text>
+  <rect x="190" y="221" width="14" height="14" fill="#e8f1fa" stroke="#e8f1fa"/>
+  <rect x="210" y="221" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="230" y="221" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="250" y="221" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="270" y="221" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="290" y="221" width="14" height="14" fill="none" stroke="#68839d"/>
+  <text x="312" y="232" font-size="10" fill="#a7c0d9">none since June</text>
+  <text x="456" y="232" font-size="10" fill="#a7c0d9">ETFs up, price -22%</text>
+  <text x="740" y="232" font-size="10" letter-spacing="1.5" fill="#e8f1fa" text-anchor="end" font-weight="bold">PARTLY HELD</text>
+  <line x1="14" y1="245" x2="746" y2="245" stroke="#385a7b" stroke-opacity="0.35"/>
+  <text x="20" y="267" font-size="11" letter-spacing="1" fill="#e8f1fa" font-weight="bold">ZKP</text>
+  <rect x="190" y="256" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="210" y="256" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="230" y="256" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="250" y="256" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="270" y="256" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="290" y="256" width="14" height="14" fill="none" stroke="#68839d"/>
+  <text x="312" y="267" font-size="10" fill="#a7c0d9">none</text>
+  <text x="456" y="267" font-size="10" fill="#a7c0d9">infra yes, apps no</text>
+  <text x="740" y="267" font-size="10" letter-spacing="1.5" fill="#e8f1fa" text-anchor="end" font-weight="bold">TOO EARLY</text>
+  <line x1="14" y1="280" x2="746" y2="280" stroke="#385a7b" stroke-opacity="0.35"/>
+  <text x="20" y="302" font-size="11" letter-spacing="1" fill="#e8f1fa" font-weight="bold">DEFI</text>
+  <rect x="190" y="291" width="14" height="14" fill="#e8f1fa" stroke="#e8f1fa"/>
+  <rect x="210" y="291" width="14" height="14" fill="#68839d" stroke="#68839d"/>
+  <rect x="230" y="291" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="250" y="291" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="270" y="291" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="290" y="291" width="14" height="14" fill="none" stroke="#68839d"/>
+  <text x="312" y="302" font-size="10" fill="#a7c0d9">none</text>
+  <text x="456" y="302" font-size="10" fill="#a7c0d9">TVL -19%</text>
+  <text x="740" y="302" font-size="10" letter-spacing="1.5" fill="#e8f1fa" text-anchor="end" font-weight="bold">MISSED</text>
+  <line x1="14" y1="315" x2="746" y2="315" stroke="#385a7b" stroke-opacity="0.35"/>
+  <text x="20" y="337" font-size="11" letter-spacing="1" fill="#e8f1fa" font-weight="bold">DEFAI</text>
+  <rect x="190" y="326" width="14" height="14" fill="#68839d" stroke="#68839d"/>
+  <rect x="210" y="326" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="230" y="326" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="250" y="326" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="270" y="326" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="290" y="326" width="14" height="14" fill="none" stroke="#68839d"/>
+  <text x="312" y="337" font-size="10" fill="#a7c0d9">none</text>
+  <text x="456" y="337" font-size="10" fill="#a7c0d9">$0.8B vs the $10B claim</text>
+  <text x="740" y="337" font-size="10" letter-spacing="1.5" fill="#e8f1fa" text-anchor="end" font-weight="bold">MISSED</text>
+  <line x1="14" y1="350" x2="746" y2="350" stroke="#385a7b" stroke-opacity="0.35"/>
+  <text x="20" y="372" font-size="11" letter-spacing="1" fill="#e8f1fa" font-weight="bold">ALGO STABLECOIN</text>
+  <rect x="190" y="361" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="210" y="361" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="230" y="361" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="250" y="361" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="270" y="361" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="290" y="361" width="14" height="14" fill="none" stroke="#68839d"/>
+  <text x="312" y="372" font-size="10" fill="#a7c0d9">none</text>
+  <text x="456" y="372" font-size="10" fill="#a7c0d9">USDe -68% from peak</text>
+  <text x="740" y="372" font-size="10" letter-spacing="1.5" fill="#e8f1fa" text-anchor="end" font-weight="bold">MISSED</text>
+  <line x1="14" y1="385" x2="746" y2="385" stroke="#385a7b" stroke-opacity="0.35"/>
+  <text x="20" y="407" font-size="11" letter-spacing="1" fill="#e8f1fa" font-weight="bold">SPATIAL</text>
+  <rect x="190" y="396" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="210" y="396" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="230" y="396" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="250" y="396" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="270" y="396" width="14" height="14" fill="none" stroke="#68839d"/>
+  <rect x="290" y="396" width="14" height="14" fill="none" stroke="#68839d"/>
+  <text x="312" y="407" font-size="10" fill="#a7c0d9">none</text>
+  <text x="456" y="407" font-size="10" fill="#a7c0d9">headsets stalled</text>
+  <text x="740" y="407" font-size="10" letter-spacing="1.5" fill="#e8f1fa" text-anchor="end" font-weight="bold">MISSED</text>
+  <line x1="0" y1="430" x2="760" y2="430" stroke="#385a7b"/>
+  <rect x="20" y="434" width="12" height="12" fill="#e8f1fa" stroke="#e8f1fa"/>
+  <text x="40" y="444" font-size="10" fill="#a7c0d9">built as proposed (8)</text>
+  <rect x="194.20000000000002" y="434" width="12" height="12" fill="#68839d" stroke="#68839d"/>
+  <text x="214.20000000000002" y="444" font-size="10" fill="#a7c0d9">built in another shape (9)</text>
+  <rect x="399.40000000000003" y="434" width="12" height="12" fill="none" stroke="#68839d"/>
+  <text x="419.40000000000003" y="444" font-size="10" fill="#a7c0d9">never started (43)</text>
+  <text x="20" y="468" font-size="10" fill="#6f8fb0">Client pull counts Notion projects with a keyword hit in their updates, August 2025 to October 2026.</text>
+  <text x="20" y="484" font-size="10" fill="#6f8fb0">HELD needs all three: experiments built, a client paid, the market moved as called. Verdicts are proposed.</text>
+</svg>

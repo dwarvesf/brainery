@@ -1,4 +1,5 @@
 ---
+draft: true
 title: The growth engine
 description: Discover how our growth engine spots new tech trends early. This guide shows you how to use it to find consulting opportunities and stay ahead of market shifts.
 date: 2025-05-09
@@ -8,8 +9,7 @@ tags:
   - navigate
   - market-changes
   - tech-trends
-redirect:
-  - /6rFhXA
+redirect: []
 ---
 
 > **tl;dr**

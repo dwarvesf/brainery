@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" data-fk="graph" viewBox="0 0 760 420" role="group" aria-label="Fig. 2: the five-step market thesis method, the experiment pipeline after it, and the ledger step that was missing" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid2" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr2" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/></marker>
+    <marker id="arm2" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#e8c56a"/></marker>
+  </defs>
+  <rect width="760" height="420" fill="#12395f"/>
+  <rect width="760" height="420" fill="url(#grid2)"/>
+  <rect x="0.5" y="0.5" width="759" height="419" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 2 · FROM A PULSE TO A SCORE</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">FIVE STEPS, THEN FOUR STAGES</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+  <text x="20" y="62" font-size="10" letter-spacing="1.5" fill="#c3d7ea">INSIDE ONE THESIS</text>
+<g data-fk-node="spot" data-tip="Funding rounds, hackathon activity, KOL buzz and hiring trends. The DeFAI worked example cited $500M of 2024 funding.">
+  <rect x="20" y="74" width="128" height="70" fill="#21466a" stroke="#68839d"/>
+  <text x="84.0" y="98" font-size="11" letter-spacing="1.2" fill="#e8f1fa" text-anchor="middle" font-weight="bold">1 SPOT</text>
+  <text x="84.0" y="116" font-size="10" fill="#a7c0d9" text-anchor="middle">the pulse: funding,</text>
+  <text x="84.0" y="130" font-size="10" fill="#a7c0d9" text-anchor="middle">X chatter, hiring</text>
+</g>
+<g data-fk-node="dig" data-tip="Why the tech emerged, how it works, what it does badly. The DeFAI example priced training one LLM at about $50,000.">
+  <rect x="168" y="74" width="128" height="70" fill="#21466a" stroke="#68839d"/>
+  <text x="232.0" y="98" font-size="11" letter-spacing="1.2" fill="#e8f1fa" text-anchor="middle" font-weight="bold">2 DIG IN</text>
+  <text x="232.0" y="116" font-size="10" fill="#a7c0d9" text-anchor="middle">origin, mechanics,</text>
+  <text x="232.0" y="130" font-size="10" fill="#a7c0d9" text-anchor="middle">strengths, limits</text>
+</g>
+<g data-fk-node="people" data-tip="Pick industries where the tech creates value and tie each to one of four verticals: productivity, community, liquidity, IP.">
+  <rect x="316" y="74" width="128" height="70" fill="#21466a" stroke="#68839d"/>
+  <text x="380.0" y="98" font-size="11" letter-spacing="1.2" fill="#e8f1fa" text-anchor="middle" font-weight="bold">3 FIND PEOPLE</text>
+  <text x="380.0" y="116" font-size="10" fill="#a7c0d9" text-anchor="middle">industries and pain</text>
+  <text x="380.0" y="130" font-size="10" fill="#a7c0d9" text-anchor="middle">points per vertical</text>
+</g>
+<g data-fk-node="match" data-tip="Use the tech on our own work first, then map what it can do to each group&#x27;s pain points.">
+  <rect x="464" y="74" width="128" height="70" fill="#21466a" stroke="#68839d"/>
+  <text x="528.0" y="98" font-size="11" letter-spacing="1.2" fill="#e8f1fa" text-anchor="middle" font-weight="bold">4 MATCH</text>
+  <text x="528.0" y="116" font-size="10" fill="#a7c0d9" text-anchor="middle">test it ourselves,</text>
+  <text x="528.0" y="130" font-size="10" fill="#a7c0d9" text-anchor="middle">then map to pain</text>
+</g>
+<g data-fk-node="plan" data-tip="Filter on revenue, fit and build effort. Each June 2025 thesis ended with six experiments, one per vertical plus two.">
+  <rect x="612" y="74" width="128" height="70" fill="#21466a" stroke="#68839d"/>
+  <text x="676.0" y="98" font-size="11" letter-spacing="1.2" fill="#e8f1fa" text-anchor="middle" font-weight="bold">5 PLAN</text>
+  <text x="676.0" y="116" font-size="10" fill="#a7c0d9" text-anchor="middle">3 to 5 ideas per</text>
+  <text x="676.0" y="130" font-size="10" fill="#a7c0d9" text-anchor="middle">industry, filtered</text>
+</g>
+<line data-fk-edge="spot dig" x1="148" y1="109" x2="166" y2="109" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr2)"/>
+<line data-fk-edge="dig people" x1="296" y1="109" x2="314" y2="109" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr2)"/>
+<line data-fk-edge="people match" x1="444" y1="109" x2="462" y2="109" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr2)"/>
+<line data-fk-edge="match plan" x1="592" y1="109" x2="610" y2="109" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr2)"/>
+  <line x1="0" y1="190" x2="760" y2="190" stroke="#385a7b"/>
+  <text x="20" y="214" font-size="10" letter-spacing="1.5" fill="#c3d7ea">AFTER THE THESIS</text>
+<g data-fk-node="experiment" data-group="stalled" data-tip="Priority: internal ops, then startup ecosystem tech, then long-term assets, then spin-off. 60 were planned. 8 exist as proposed, 9 in another shape, 43 never started.">
+  <rect x="20" y="232" width="150" height="70" fill="#21466a" stroke="#68839d"/>
+  <text x="95.0" y="256" font-size="11" letter-spacing="1.2" fill="#e8f1fa" text-anchor="middle" font-weight="bold">EXPERIMENT</text>
+  <text x="95.0" y="274" font-size="10" fill="#a7c0d9" text-anchor="middle">internal ops first,</text>
+  <text x="95.0" y="288" font-size="10" fill="#a7c0d9" text-anchor="middle">8 to 12 weeks</text>
+</g>
+<g data-fk-node="buildlog" data-group="stalled" data-tip="Three build-log posts between June and December 2025 (now filed as shipped reports), then none until August 2026.">
+  <rect x="215" y="232" width="150" height="70" fill="#21466a" stroke="#68839d"/>
+  <text x="290.0" y="256" font-size="11" letter-spacing="1.2" fill="#e8f1fa" text-anchor="middle" font-weight="bold">BUILD-LOG</text>
+  <text x="290.0" y="274" font-size="10" fill="#a7c0d9" text-anchor="middle">what the build</text>
+  <text x="290.0" y="288" font-size="10" fill="#a7c0d9" text-anchor="middle">taught us</text>
+</g>
+<g data-fk-node="forward" data-group="stalled" data-tip="The last forward issue shipped on 2025-06-27.">
+  <rect x="410" y="232" width="150" height="70" fill="#21466a" stroke="#68839d"/>
+  <text x="485.0" y="256" font-size="11" letter-spacing="1.2" fill="#e8f1fa" text-anchor="middle" font-weight="bold">FORWARD ISSUE</text>
+  <text x="485.0" y="274" font-size="10" fill="#a7c0d9" text-anchor="middle">monthly team</text>
+  <text x="485.0" y="288" font-size="10" fill="#a7c0d9" text-anchor="middle">snapshot</text>
+</g>
+<g data-fk-node="ledger" data-tip="No scored review of any thesis existed before this report.">
+  <rect x="605" y="232" width="135" height="70" fill="#21466a" stroke="#e8c56a" stroke-dasharray="5 3"/>
+  <text x="672.5" y="256" font-size="11" letter-spacing="1.2" fill="#e8c56a" text-anchor="middle" font-weight="bold">LEDGER</text>
+  <text x="672.5" y="274" font-size="10" fill="#a7c0d9" text-anchor="middle">score every call</text>
+  <text x="672.5" y="288" font-size="10" fill="#a7c0d9" text-anchor="middle">against the record</text>
+</g>
+<path data-fk-edge="plan experiment" d="M 676 146 L 676 200 L 150 200 L 150 230" fill="none" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr2)"/>
+<line data-fk-edge="experiment buildlog" x1="170" y1="267" x2="213" y2="267" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr2)"/>
+<line data-fk-edge="buildlog forward" x1="365" y1="267" x2="408" y2="267" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr2)"/>
+<line data-fk-edge="forward ledger" x1="560" y1="267" x2="603" y2="267" stroke="#e8c56a" stroke-width="1.5" marker-end="url(#arm2)"/>
+  <line x1="0" y1="328" x2="760" y2="328" stroke="#385a7b"/>
+  <text x="14" y="352" font-size="10" fill="#a7c0d9">The method ends at a plan. Nothing in it asks whether the plan paid off.</text>
+  <text x="14" y="370" font-size="10" fill="#6f8fb0">Everything before the amber box ran in 2025. The pipeline thinned within weeks of the June theses.</text>
+</svg>

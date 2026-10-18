@@ -1,4 +1,5 @@
 ---
+draft: true
 title: How we form a market thesis
 description: This guide shows how we make a market thesis. We use data and our gut to find good tech trends and make smart bets that fit our team.
 date: 2025-05-09
@@ -10,8 +11,7 @@ tags:
   - strategic-bets
   - innovation-analysis
   - decision-making
-redirect:
-  - /GZAm9w
+redirect: []
 ---
 
 ```tldr

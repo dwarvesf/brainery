@@ -44,7 +44,7 @@ In 2015 the first technical choices at Dwarves were Go, Docker and Ansible, and 
 
 The market signal arrived as a client request. Our [beGroup case study](../../case-studies/begroup.md) says that in 2018 building an in-house team of experienced Golang developers on short notice was particularly challenging in Vietnam. We put an augmented team of six developers on their beCorporate product, and beGroup described itself as "one of the first teams in Vietnam that picked up Golang as the strategic language". Demand for Go engineers had outrun supply, and we had the engineers.
 
-We later wrote the method down as [forming a market thesis](../../consulting/navigate/forming-market-thesis.md): use data, add informed gut, and watch the community. Go is the case I know best, and the Notion record lets me count the result.
+We later wrote the method down as [forming a market thesis](./navigate-ledger.md): use data, add informed gut, and watch the community. Go is the case I know best, and the Notion record lets me count the result.
 
 | Stack tag  | Projects | Closed or done | Active | Failed |
 | ---------- | -------: | -------------: | -----: | -----: |
@@ -177,7 +177,7 @@ order by 1;
 
 ## Where the notes went
 
-The business correction note is now a draft, and its URLs, including the short code, redirect to this page. The forming market thesis note stays, because the navigate method still needs it, and it points here for the Go case. Several navigate pages still link to the business correction note, and those links now land here.
+The business correction note is now a draft, and its URLs, including the short code, redirect to this page. The forming market thesis note now lives inside the [navigate ledger](./navigate-ledger.md), which keeps the method; this page holds the Go case. Several navigate pages still link to the business correction note, and those links now land here.
 
 | Old page                                      | What survived here                                                                      |
 | --------------------------------------------- | --------------------------------------------------------------------------------------- |

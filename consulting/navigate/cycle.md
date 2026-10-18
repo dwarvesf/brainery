@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Technology cycles
 description: This document explains how tech cycles affect market changes. This knowledge helps our planning and how we advise clients.
 date: 2025-05-09
@@ -8,8 +9,7 @@ tags:
   - navigate
   - technology-cycles
   - market-analysis
-redirect:
-  - /yARSZA
+redirect: []
 ---
 
 ```tldr
@@ -41,7 +41,7 @@ These cycles have a start and an end:
 
 - **Funding flows in** when people see high potential in a new tech.
 - **Funding pulls back** when that potential seems used up, or there are fewer new "games to play" or "things to build" with that tech.
-Market demand naturally goes up and down with these fund and innovation cycles.
+  Market demand naturally goes up and down with these fund and innovation cycles.
 
 It's also key to recall that while major cycles happen, thousands of smaller "pulses" of activity are always present. There's always old tech that people still work on and brand-new tech that innovators want to explore. It's vital for us to build a culture of proactive tests around these early signals.
 
@@ -51,18 +51,18 @@ To **avoid a surprise** from these shifts, we need a proactive plan.
 
 To understand these cycles is key to both **lower the risk** to become out of date and **grab the chance** to lead in new areas. It's how we make sure we can guide our clients well through their own changes.
 
-#### **Recognize that markets *will* shift**
+#### **Recognize that markets _will_ shift**
 
 The first step is to accept that change is constant. One early sign of a big shift can be less news and general 'noise' about tech that is now mainstream or known to us. This quiet can mean the focus moves elsewhere.
 
-#### **Be aware when a market *is* shifting**
+#### **Be aware when a market _is_ shifting**
 
 This is a key phase. Often, the first signs of a major shift don't appear in mainstream media. Instead, they come from:
 
 - Niche tech groups or early adopters show new tools or solutions.
 - Talks on platforms like Reddit, X (formerly Twitter), or GitHub. This early phase, before wide notice, is our window of opportunity. It's when we have the vital time to invest in R&D, prepare our team with new skills, learn new things, and run tests. This investment, guided by tools like our [Growth engine](growth-engine.md) and solid internal knowledge share, lets us learn, adapt, and get ready to advise our clients on new trends.
 
-#### **Understand when a market *has already* shifted**
+#### **Understand when a market _has already_ shifted**
 
 If we only spot a shift once it's mainstream, we might be too late to get a strong consulting spot. To catch up takes a lot of time and effort. Signs that a market has already shifted include:
 

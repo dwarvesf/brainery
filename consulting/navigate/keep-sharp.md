@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Keep it sharp
 description: Learn how to maintain our tech edge and delivery quality. This guide shows you how to stay ahead in consulting by building know-how, experimenting, and sharing knowledge.
 date: 2025-05-09
@@ -8,8 +9,7 @@ tags:
   - navigate
   - consulting
   - tech-edge
-redirect:
-  - /j6w42w
+redirect: []
 ---
 
 > tl;dr

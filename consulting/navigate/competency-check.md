@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Check team competency frequently
 short_title: Competency check
 description: "Boost **tech consulting** success with **team competency**, assess **collective know-how**, stay **relevant**, and build **passionate teams** to win deals."
@@ -9,8 +10,7 @@ tags:
   - navigate
   - performance
   - competency
-redirect:
-  - /BpQtqA
+redirect: []
 ---
 
 > **tl;dr**
