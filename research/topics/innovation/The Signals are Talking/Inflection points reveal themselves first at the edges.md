@@ -34,5 +34,5 @@ By carefully observing and testing these patterns, a futurist can offer a valuab
 
 #### Reference
 
-- [McGrath - Seeing around corners](https://publish.obsidian.md/mobydiction/McGrath+-+Seeing+Around+Corners)
-- [≈ Webb - The signals are talking](https://publish.obsidian.md/mobydiction/notes/%E2%89%88+Webb+-+The+Signals+are+Talking)
+- [McGrath - seeing around corners](https://publish.obsidian.md/mobydiction/McGrath+-+Seeing+Around+Corners)
+- [≈ Webb - the signals are talking](https://publish.obsidian.md/mobydiction/notes/%E2%89%88+Webb+-+The+Signals+are+Talking)
