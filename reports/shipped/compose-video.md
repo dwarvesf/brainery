@@ -12,6 +12,11 @@ authors:
   - innnotruong
   - monotykamary
 slug: compose-video
+redirect:
+  - /ai-video-cost-ladder
+  - /reports/commentary/ai-video-cost-ladder
+  - /journals/forward/notes/2026-10-10-ai-tech-compositing-ai-video-costs
+  - /2026-10-10-ai-tech-compositing-ai-video-costs
 ---
 
 We care about doing things right and having a bit of fun along the way. Our new video pipeline is built to help us tell better stories, faster. Whether it’s a deep tech explainer or a meme with bite, every piece now flows through a system that keeps us sharp and in sync.
