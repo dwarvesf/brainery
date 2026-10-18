@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "The Signals are Talking (reading note)"
 description: "Reading note adapted from David Drysdale's Moby Diction notes."
 date: 2026-08-21
@@ -8,8 +8,7 @@ tags:
   - innovation
   - signal
   - ux
-redirect:
-  - /Aq7NTg
+redirect: []
 ---
 
 ### Notes

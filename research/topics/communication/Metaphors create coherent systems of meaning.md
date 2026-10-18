@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Metaphors create coherent systems of meaning (reading note)"
 description: "\"Metaphor\" means understanding one thing in terms of another."
 date: 2026-08-27
@@ -9,8 +9,7 @@ tags:
   - communication
   - metaphor
   - story-telling
-redirect:
-  - /Gvi99A
+redirect: []
 ---
 
 "Metaphor" means understanding one thing in terms of another. This can be explicit or subtle. Sometimes, often?, metaphors are such a deep part of our psyche that we're unaware that we are using a metaphor at all. For instance, describing an argument in terms of war, or an idea in terms of a structure or building. Metaphors form coherent systems: when a concept is described using different metaphors, these usually fit together in a logical way.

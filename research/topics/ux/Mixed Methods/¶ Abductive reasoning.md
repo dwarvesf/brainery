@@ -1,10 +1,9 @@
 ---
-draft: false
+draft: true
 title: "Abductive reasoning (reading note)"
 description: Abductive reasoning involves forming the most likely explanation from new, incomplete data and is widely used in medicine and complex problem-solving for generating insightful theories.
 date: 2026-08-27
-redirect:
-  - /PA2E4A
+redirect: []
 authors:
   - tieubao
 ---

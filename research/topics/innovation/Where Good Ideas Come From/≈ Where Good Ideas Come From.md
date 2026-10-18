@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Where Good Ideas Come From (reading note)"
 description: "Innovation doesn't emerge in a flash of sudden insight, but through a longer, ongoing process across networks of adjacent possibilities."
 date: 2026-08-27
@@ -8,8 +8,7 @@ authors:
 tags:
   - idea
   - innovation
-redirect:
-  - /0YTbDA
+redirect: []
 ---
 
 ## Summary

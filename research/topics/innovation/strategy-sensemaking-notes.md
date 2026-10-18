@@ -4,8 +4,8 @@ description: Reading notes on strategy from Rumelt, Sinek, McGrath, Boyd and Ced
 slug: strategy-sensemaking-notes
 kind: reference
 date: 2026-10-18
-authors:
-  - tieubao
+authors: []
+credit: David Drysdale (Moby Diction)
 tags:
   - strategy
   - business
