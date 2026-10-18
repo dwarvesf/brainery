@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "From $14 to $2 per 30 seconds: where the money goes in an AI video pipeline"
 description: "One builder's three price points for 30 seconds of AI video, $14, $5 and $2, and the trade behind them: generate fewer seconds, composite more, and pay the difference in GPU time."
 date: 2026-10-18
@@ -15,9 +16,6 @@ tags:
   - modal
   - build-club
 slug: ai-video-cost-ladder
-redirect:
-  - /journals/forward/notes/2026-10-10-ai-tech-compositing-ai-video-costs
-  - /2026-10-10-ai-tech-compositing-ai-video-costs
 ---
 
 monotykamary's last three-minute AI video cost about $50. Fully generated it would have cost $84; on his own compositing stack, $12. The gap is the subject of this piece: what public per-second prices say about each rung, why keyframes cut the bill by two thirds, and how to decide which shots deserve a model call at all.
