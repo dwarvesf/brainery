@@ -5,8 +5,8 @@ description: Learn how to enforce smart contract invariants in Solidity using as
 date: 2026-08-27
 redirect:
   - /EomPiQ
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 ---
 
 #### Enforce invariants with `assert()`

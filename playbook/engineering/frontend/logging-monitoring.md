@@ -4,8 +4,8 @@ description: What to track in a frontend app, from error tracing to loading time
 date: null
 redirect:
   - /CidQXQ
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 ---
 
 This document provides guidance on some key metrics to track when logging and monitoring a frontend application.

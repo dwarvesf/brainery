@@ -4,8 +4,8 @@ description: Commit message and branch conventions, the Github flow, contributin
 date: null
 redirect:
   - /ZCHV4Q
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 ---
 
 It's like a time machine. We can save and reload anytime we want to, like in the old day of Game Boy Advance. We can work in parallel universes of our source code, experimenting without fear of losing work, and rolling back if something goes wrong.

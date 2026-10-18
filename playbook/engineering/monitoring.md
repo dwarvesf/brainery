@@ -4,8 +4,8 @@ description: A convention for application health endpoints, with /healthz status
 date: null
 redirect:
   - /0e46Cg
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 ---
 
 - [Monitoring](#monitoring)

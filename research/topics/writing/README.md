@@ -48,8 +48,8 @@ redirect:
   - /0dIFgQ
   - /research/topics/writing/the-elements-of-story/the-elements-of-story
   - /BjMCWg
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 ---
 
 ## Write better

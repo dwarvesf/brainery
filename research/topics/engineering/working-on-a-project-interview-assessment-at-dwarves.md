@@ -3,8 +3,8 @@ draft: false
 title: "A paid project as an interview assessment at Dwarves"
 description: Discover how a paid coding project at Dwarves using Discord API and Elixir provided a unique interview experience focused on real backend data engineering and engagement analytics.
 date: 2023-06-08
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 tags:
   - bounty
   - community

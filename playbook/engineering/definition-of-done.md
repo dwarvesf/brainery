@@ -5,8 +5,8 @@ date: null
 kind: reference
 redirect:
   - /t42LFg
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 ---
 
 Definition of done also known as **DoD** is a list of criteria which must be met before a product increment (story) is considered "done".

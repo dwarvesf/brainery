@@ -3,8 +3,8 @@ draft: false
 title: "Reusability in software development, part 1: benefits, problems and the reuse landscape"
 description: "Why software teams reuse code, what goes wrong, and the landscape of reuse from single classes to complete systems."
 date: 2020-05-05
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 tags:
   - engineering
 redirect:

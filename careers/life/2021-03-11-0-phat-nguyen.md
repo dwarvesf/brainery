@@ -7,8 +7,8 @@ date: 2021-03-11
 last_edited: "2024-03-08T00:00:00.000Z"
 series: life-at-dwarves
 series_part: 3
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 tags:
   - backend-engineer
   - career

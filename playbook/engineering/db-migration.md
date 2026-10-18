@@ -5,8 +5,8 @@ date: null
 kind: reference
 redirect:
   - /e5W9zg
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 ---
 
 ## Mobile

@@ -4,8 +4,8 @@ description: The error structure, code ranges, log levels and wire format used a
 date: null
 redirect:
   - /nq7gfA
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 ---
 
 We use the following structure for our error message. It helps our system stay consistent, easier to present between components and also better for error tracking.

@@ -23,8 +23,8 @@ redirect:
   - /HNhMPw
   - /research/topics/zettelkasten/purpose-of-zettelkasten
   - /E1fSsg
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 ---
 
 Zettelkästen describes a method of personal knowledge management inspired by prolific sociologist Niklas Luhmann.

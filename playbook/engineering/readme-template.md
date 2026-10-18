@@ -5,8 +5,8 @@ date: null
 kind: reference
 redirect:
   - /nIdKHA
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 ---
 
 > How to use this template: copy everything below the line into the new repository's `README.md`, replace every placeholder (project name, links, commands, the Built with list), and delete any section that does not apply. For guidance on content, see [how to write a good README](readme-how.md).

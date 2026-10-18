@@ -4,8 +4,8 @@ description: What a test plan and test case contain, plus a test closure checkli
 date: null
 redirect:
   - /HRkHHw
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 ---
 
 ## Testing materials

@@ -3,8 +3,8 @@ draft: false
 title: "The correct way to build a KPI, with a mindful view of measurement"
 description: Discover how mindful meditation can transform your view on KPIs, promoting positive communication and reducing workplace stress for a healthier business environment.
 date: 2020-11-03
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 tags:
   - productivity
   - tips
