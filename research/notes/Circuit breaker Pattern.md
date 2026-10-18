@@ -1,14 +1,13 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Circuit breaker pattern (research note)
+description: A circuit breaker proxies operations that might fail and stops retrying a faulty service.
+date: 2026-10-18
 tags:
   - cloud-pattern
   - engineering
   - microservice
-redirect:
-  - /bNuXhA
+redirect: []
 ---
 
 ### Context

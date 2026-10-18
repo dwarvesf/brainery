@@ -1,6 +1,6 @@
 ---
-draft: false
-title: Invoking component functions in React
+draft: true
+title: invoking-component-functions-in-react (research note)
 description: What happens if you invoked the component function directly in React?
 date: 2023-01-09
 authors:
@@ -10,8 +10,7 @@ tags:
   - frontend
   - hooks
   - react
-redirect:
-  - /y57Ftw
+redirect: []
 ---
 
 **What happens if you invoked the component function directly in React?:

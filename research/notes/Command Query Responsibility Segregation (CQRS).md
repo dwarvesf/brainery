@@ -1,14 +1,13 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Command Query Responsibility Segregation (CQRS) (research note)
+description: A pattern that separates read and update operations for a data store.
+date: 2026-10-18
 tags:
   - cqrs
   - engineering
   - pattern
-redirect:
-  - /UAbbdA
+redirect: []
 ---
 
 ### What

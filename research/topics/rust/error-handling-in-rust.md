@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Error handling on Rust
 description: "nrecoverable errors are those that occur when something goes fundamentally wrong, and the program cannot safely proceed. For example, if a file that is essential for the program to run is missing or corrupted, the program can panic and display an appropriate error message. Rust provides a mechanism for handling such situations through the **`panic!`** macro. When a **`panic!`** occurs, the program stops execution, unwinding the stack and providing a clear panic message..."
 date: 2024-07-03
@@ -8,15 +8,14 @@ authors:
 tags:
   - error-handling
   - rust
-redirect:
-  - /L118fg
+redirect: []
 ---
 
 ## **Introduction**
 
 In the world of programming, errors are inevitable. Rust, a modern systems programming language, takes a unique approach to error handling by categorizing errors into two main types: **unrecoverable** and **recoverable**. This distinction allows developers to manage errors more effectively, ensuring robust and reliable code.
 
-### **Unrecoverable Errors: The Power of Panic!**
+### **Unrecoverable errors: The power of panic!**
 
 Unrecoverable errors are those that occur when something goes fundamentally wrong, and the program cannot safely proceed. For example, if a file that is essential for the program to run is missing or corrupted, the program can panic and display an appropriate error message. Rust provides a mechanism for handling such situations through the **`panic!`** macro. When a **`panic!`** occurs, the program stops execution, unwinding the stack and providing a clear panic message.
 
@@ -35,7 +34,7 @@ fn main() {
 
 While panicking is not a solution for every error, it's a powerful tool for signaling critical issues and preventing the program from continuing in an undefined state.
 
-### **Recoverable Errors: Embracing `Option` and `Result`**
+### **Recoverable errors: Embracing `option` and `result`**
 
 In contrast to unrecoverable errors, recoverable errors are situations where the program can gracefully handle the issue and proceed with execution. Rust provides two main types to address these errors: **`Option`** and **`Result`**.
 
@@ -93,7 +92,7 @@ fn main() {
 
 ```
 
-### **`unwrap` and `expect`: Proceed with Caution**
+### **`Unwrap` and `expect`: Proceed with caution**
 
 The **`unwrap`** and **`expect`** methods are convenient but should be used judiciously. They extract the value from **`Option`** or **`Result`** and panic if the value is **`None`** or **`Err`**. While they can simplify code, excessive use may lead to unexpected panics.
 
@@ -112,7 +111,7 @@ fn main() {
 }
 ```
 
-### **Early-Return Error Handling with `?`**
+### **Early-return error handling with `?`**
 
 The **`?`** operator provides a concise way to propagate errors early in a function. It can be used with functions that return **`Result`** or **`Option`**, automatically unwrapping the value or returning early on an error.
 
@@ -153,7 +152,7 @@ fn main() {
 }
 ```
 
-### **Handling Multiple Errors: Creating Custom Errors**
+### **Handling multiple errors: Creating custom errors**
 
 Up until now, our focus has been on handling a single error. However, what if your function has the potential to return multiple errors, and you want the caller to precisely identify and handle each error scenario? In such cases, Rust allows you to implement your own custom error types.
 
@@ -225,7 +224,7 @@ fn read_and_parse(path: &str) -> Result<i32, MyError> {
 }
 ```
 
-## **Making Your Error Composable**
+## **Making your error composable**
 
 While our custom error solution is functional, seasoned developers often recommend implementing the **`std::error::Error`** trait for custom errors. By embracing this practice, our error becomes easily composable with other parts of the program, offering users the ability to obtain a string representation of an error. This is achieved by ensuring implementations for both **`fmt::Debug`** and **`fmt::Display`** are provided.
 

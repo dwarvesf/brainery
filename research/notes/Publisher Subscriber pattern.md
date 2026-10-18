@@ -1,12 +1,11 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Publisher subscriber pattern (research note)
+description: Asynchronous messaging that decouples senders from consumers in distributed applications.
+date: 2026-10-18
 tags:
   - microservice
-redirect:
-  - /HPViwA
+redirect: []
 ---
 
 ### Context

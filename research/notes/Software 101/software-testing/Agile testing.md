@@ -1,15 +1,14 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Agile testing (research note)
+description: Do we need an independent test group for agile project?
+date: 2026-10-18
 tags:
-  - 101
+  - "101"
   - agile
   - engineering
   - testing
-redirect:
-  - /XCf5bA
+redirect: []
 ---
 
 Do we need an independent test group for agile project? Some people said if the company uses agile they do not need testers anymore. Is it true?

@@ -1,6 +1,6 @@
 ---
-draft: false
-title: UseEffect double calls in React 18
+draft: true
+title: useeffect-double-calls-in-react-18 (research note)
 description: "In the React 18 version, the `useEffect` hook has been updated to called twice compare to only one in the older version in StrictMode."
 date: 2022-06-11
 authors:
@@ -9,8 +9,7 @@ tags:
   - frontend
   - react
   - use-effect
-redirect:
-  - /pCYbXA
+redirect: []
 ---
 
 ### What are the changes and why?

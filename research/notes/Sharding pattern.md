@@ -1,12 +1,11 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Sharding pattern (research note)
+description: This advanced pattern focuses on horizontally scaling data through sharding.
+date: 2026-10-18
 tags:
   - pattern
-redirect:
-  - /iF0lVg
+redirect: []
 ---
 
 ### What
