@@ -1,5 +1,5 @@
 ---
-title: Annual bonus for sales
+title: How we calculated the annual sales bonus
 description: Guide to calculate annual bonus for sales
 date: 2020-01-01
 authors:
@@ -10,6 +10,8 @@ tags:
 redirect:
   - /XYqGXQ
 ---
+
+_Snapshot from 2020. Some tools and numbers have changed._
 
 The annual bonus for sales are the sum of 2 portions
 
