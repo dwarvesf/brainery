@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Reference video can become a rigging shortcut'
 description: 'A build-club note on treating video reference as a structured input for character segmentation, body-part separation, and motion skeleton setup.'
 date: 2026-10-05

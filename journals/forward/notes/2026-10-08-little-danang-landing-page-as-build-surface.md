@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Use the landing page as the first playable surface'
 description: 'A small build-club note on turning a landing page into a lightweight product surface instead of a static launch page.'
 date: 2026-10-08

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Game monetization starts with the economy loop'
 description: 'A small game-build thread turned into a useful checklist for making free-to-play monetization less random.'
 date: 2026-10-09
