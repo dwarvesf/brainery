@@ -18,8 +18,6 @@ redirect:
   - /consulting/navigate
   - /consulting/navigate/README
   - /pzEL0g
-  - /consulting/navigate/business-correction
-  - /XqSkkA
   - /consulting/navigate/competency-check
   - /BpQtqA
   - /consulting/navigate/consulting-model
