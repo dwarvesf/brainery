@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Dwarves Research
+title: Dwarves research
 short_title: § Dwarves Research 🧪
 description: This is our Labs team homepage, where we list out the latest advances in our engineering team, our publications, events & workshops, as well as frequently asked questions on who and what team labs are.
 date: 2023-11-30
@@ -82,7 +82,7 @@ redirect:
     </a>
 </p>
 
-## Latest from Research team
+## Latest from research team
 
 ```dsql-list
 SELECT markdown_link(COALESCE(short_title, title), file_path)
@@ -110,10 +110,10 @@ LIMIT 5;
 
 ### Tech domains
 
-- [AI & Machine Learning](/topics/ai): Artificial intelligence research and applications.
+- [AI & machine learning](/topics/ai): Artificial intelligence research and applications.
 - [Blockchain & DeFi](/topics/blockchain): Distributed systems and decentralized finance.
-- [Engineering & Architecture](/topics/engineering): Software construction and system design.
-- [Frontend & Mobile](/topics/frontend): User interface and mobile development.
+- [Engineering & architecture](/topics/engineering): Software construction and system design.
+- [Frontend & mobile](/topics/frontend): User interface and mobile development.
 - [Security & ZKP](/topics/security): Cybersecurity and zero-knowledge proofs.
 
 ### Design & UX

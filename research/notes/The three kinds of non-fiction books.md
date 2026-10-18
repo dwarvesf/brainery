@@ -10,7 +10,7 @@ tags:
 
 There are three kinds of non-fiction book: 💁‍♀️ narrative, 🌳 tree, and 🌿 branch.
 
-### 💁‍♀️ Narrative Books
+### 💁‍♀️ Narrative books
 
 **Narrative** books are books that tell a story. Examples include biographies, memoirs, and histories.
 

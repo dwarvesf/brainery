@@ -37,7 +37,7 @@ The main purpose of this architecture is Efficiency, the first strategy is incen
 
 ### How does it work?
 
-#### What is Proof of efficiency?
+#### What is proof of efficiency?
 
 PoE solve the problem relate to decentralized and permissionless validators in Layer 2. Using zk-STARK for proving purpose, this proof are very fast but they are very big size. So, using zk-SNARK to attest to the correctness of the zk-STARK proofs. This help in reducing the gas cost from 5M to 350k.
 

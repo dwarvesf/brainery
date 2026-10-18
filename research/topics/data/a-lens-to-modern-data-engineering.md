@@ -122,7 +122,7 @@ This generalized flow demonstrates how data engineering systems typically operat
 4. Create optimized views for specific use cases
 5. Serve data through multiple interfaces
 
-## A real-world example: Project reporting
+## A real-world example: project reporting
 
 Let's see how these principles apply to our specific use case of building an automated project reporting system. Here's how we can architect a solution that handles Discord communications, Git metrics, and team performance data:
 
@@ -225,7 +225,7 @@ These patterns become second nature to data engineers, forming a mental toolkit 
 
 ## Architectural decisions that shape systems
 
-### 1. Storage format: The foundation of scale
+### 1. Storage format: the foundation of scale
 
 Choosing Parquet as our storage format isn't just about storing data – it's about anticipating how that data will be accessed, processed, and evolved over time:
 
@@ -234,7 +234,7 @@ Choosing Parquet as our storage format isn't just about storing data – it's ab
 - Schema enforcement ensures data consistency across your entire ecosystem
 - Predicate pushdown optimization means your queries work smarter, not harder
 
-### 2. Query engine: The power of perspective
+### 2. Query engine: the power of perspective
 
 DuckDB serves as our primary query engine because it embodies the data engineering mindset:
 
@@ -243,7 +243,7 @@ DuckDB serves as our primary query engine because it embodies the data engineeri
 - Scale vertically within reasonable bounds before adding complexity
 - Integrate seamlessly with existing tools and workflows
 
-### 3. Orchestration: The conductor's podium
+### 3. Orchestration: the conductor's podium
 
 Modal as our orchestration framework reflects system-level thinking:
 
@@ -252,7 +252,7 @@ Modal as our orchestration framework reflects system-level thinking:
 - Monitor and log with a holistic view of system health
 - Optimize costs across the entire processing pipeline
 
-## The data engineering toolbox: A systems approach
+## The data engineering toolbox: a systems approach
 
 The transition to data engineering requires an introductive or mastery look at the tools that support system-level thinking:
 
@@ -293,7 +293,7 @@ The transition from application development to data engineering represents a fun
 | **Processing Mode**   | Synchronous, immediate              | Asynchronous, batch-oriented  | Balance immediacy with efficiency          |
 | **Development Flow**  | Iterative feature addition          | Holistic system evolution     | Small changes have system-wide impacts     |
 
-## The path forward: From components to systems
+## The path forward: from components to systems
 
 The journey from application development to data engineering demands more than learning new tools – it requires developing a new way of seeing. Like an architect who must consider both the individual bricks and the entire skyline, data engineers must balance immediate needs with system-level considerations.
 

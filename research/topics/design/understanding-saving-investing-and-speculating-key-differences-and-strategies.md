@@ -10,7 +10,7 @@ tags:
   - personal-finance
 ---
 
-## What Are saving, investing, and speculating?
+## What are saving, investing, and speculating?
 
 **Saving** involves putting money aside in secure forms like savings accounts or CDs. It’s characterized by very low risk and variable timeframes, suitable for short-term financial goals or as an emergency fund.
 **Investing** is the process of purchasing assets, such as stocks, bonds, or real estate, with the expectation of long-term appreciation and profit. Investors take on moderate risks and typically aim for gradual wealth accumulation.

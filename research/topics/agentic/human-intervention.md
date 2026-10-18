@@ -44,32 +44,32 @@ Systems should route requests based on urgency, expertise, authority levels, and
 ```mermaid
 graph LR
     User["👤 User"] --> Agent["🤖 Agent"]
-    
+
     Agent --> Decision{"Should human<br/>intervene?"}
-    
+
     Decision -->|"No"| Execute["✅ Execute<br/>autonomously"]
     Decision -->|"Yes"| Inbox["📥 Inbox<br/>request"]
-    
+
     Inbox --> Human["🧠 Human<br/>review"]
-    
+
     Human --> Response{"Human<br/>decision"}
     Response -->|"Approve"| Execute
     Response -->|"Modify"| Agent
     Response -->|"Take over"| HumanWork["🤝 Human<br/>handles task"]
-    
+
     Execute --> Result1["📤 Result"]
     HumanWork --> Result2["📤 Result"]
-    
+
     %% Right-angled connections
     %%{init: {"flowchart": {"curve": "stepBefore"}}}%%
-    
+
     %% Node styling
     classDef userClass fill:#e1f5fe,stroke:#01579b,stroke-width:2px
     classDef agentClass fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
     classDef humanClass fill:#e8f5e8,stroke:#1b5e20,stroke-width:2px
     classDef decisionClass fill:#fff3e0,stroke:#e65100,stroke-width:2px
     classDef processClass fill:#e0f2f1,stroke:#00695c,stroke-width:2px
-    
+
     class User userClass
     class Agent agentClass
     class Human,HumanWork humanClass
