@@ -4,7 +4,7 @@ description: 'A small game prototype thread shows why generated features still n
 date: 2026-10-14
 authors:
   - tuanddd
-  - baddeed
+  - tieubao
   - bievh
 tags:
   - prototyping

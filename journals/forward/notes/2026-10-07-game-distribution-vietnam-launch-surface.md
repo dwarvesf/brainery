@@ -6,7 +6,7 @@ authors:
   - phucld
   - minhluuquang
   - huymaius
-  - baddeed
+  - tieubao
 tags:
   - game-dev
   - distribution

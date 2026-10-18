@@ -4,7 +4,7 @@ description: 'A build-club thread shows why early playable feedback should sort 
 date: 2026-10-12
 authors:
   - tuanddd
-  - baddeed
+  - tieubao
   - bievh
   - hieuvd
 tags:
