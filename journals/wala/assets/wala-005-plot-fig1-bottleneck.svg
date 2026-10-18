@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 412" role="img" aria-labelledby="t d" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+  <title id="t">The new bottleneck</title>
+  <desc id="d">Two pipelines, Idea to Build to Reach users to Learn. Before AI, Build is the narrow stage. Now, Build is fast and Reach users is the narrow stage.</desc>
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="#68839d" stroke-width="1" opacity="0.12"/>
+    </pattern>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 1L9 5L0 9z" fill="#c3d7ea"/>
+    </marker>
+  </defs>
+
+  <rect x="0" y="0" width="760" height="412" fill="#12395f"/>
+  <rect x="0" y="0" width="760" height="412" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="759" height="411" fill="none" stroke="#68839d" stroke-width="1"/>
+
+  <text x="24" y="24" font-size="10" letter-spacing="2" fill="#6f8fb0">FIG. 1 · THE NEW BOTTLENECK</text>
+  <text x="736" y="24" font-size="10" letter-spacing="2" fill="#6f8fb0" text-anchor="end">BUILD IS CHEAP, REACH IS NOT</text>
+  <line x1="24" y1="36" x2="736" y2="36" stroke="#68839d" stroke-width="1"/>
+
+  <!-- BEFORE -->
+  <text x="40" y="68" font-size="10" letter-spacing="2" fill="#6f8fb0">BEFORE</text>
+  <g font-size="12" text-anchor="middle" fill="#e8f1fa">
+    <rect x="40" y="98" width="140" height="64" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="110" y="134">Idea</text>
+    <rect x="220" y="112" width="140" height="36" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="290" y="134">Build</text>
+    <rect x="400" y="98" width="140" height="64" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="470" y="134">Reach users</text>
+    <rect x="580" y="98" width="140" height="64" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="650" y="134">Learn</text>
+  </g>
+  <g stroke="#c3d7ea" stroke-width="1" marker-end="url(#arrow)">
+    <line x1="182" y1="130" x2="218" y2="130"/>
+    <line x1="362" y1="130" x2="398" y2="130"/>
+    <line x1="542" y1="130" x2="578" y2="130"/>
+  </g>
+  <text x="290" y="178" font-size="10" letter-spacing="1" fill="#a7c0d9" text-anchor="middle">SLOW AND COSTLY</text>
+
+  <!-- NOW -->
+  <text x="40" y="228" font-size="10" letter-spacing="2" fill="#6f8fb0">NOW (AI ERA)</text>
+  <g font-size="12" text-anchor="middle" fill="#e8f1fa">
+    <rect x="40" y="258" width="140" height="64" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="110" y="294">Idea</text>
+    <rect x="220" y="258" width="140" height="64" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="290" y="294">Build</text>
+    <rect x="400" y="272" width="140" height="36" fill="#21466a" stroke="#e8c56a" stroke-width="2"/>
+    <text x="470" y="294" fill="#e8c56a">Reach users</text>
+    <rect x="580" y="258" width="140" height="64" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="650" y="294">Learn</text>
+  </g>
+  <g stroke="#c3d7ea" stroke-width="1" marker-end="url(#arrow)">
+    <line x1="182" y1="290" x2="218" y2="290"/>
+    <line x1="362" y1="290" x2="398" y2="290"/>
+    <line x1="542" y1="290" x2="578" y2="290"/>
+  </g>
+  <text x="290" y="338" font-size="10" letter-spacing="1" fill="#a7c0d9" text-anchor="middle">FAST AND CHEAP</text>
+  <text x="470" y="338" font-size="10" letter-spacing="1" fill="#e8c56a" text-anchor="middle">THE NARROW STAGE</text>
+
+  <text x="40" y="376" font-size="11" fill="#c3d7ea">Everyone ships fast, so buyers get flooded.</text>
+  <text x="40" y="394" font-size="11" fill="#c3d7ea">Relationships and distribution decide.</text>
+</svg>
