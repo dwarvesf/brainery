@@ -6,7 +6,7 @@ kind: reference
 redirect:
   - /e5W9zg
 authors:
-  - neko
+  - neko-anon
 ---
 
 ## Mobile

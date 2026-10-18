@@ -5,7 +5,7 @@ date: null
 redirect:
   - /aorrpw
 authors:
-  - neko
+  - neko-anon
 ---
 
 Larger applications consists of multiple components that reference each other and rely on compatibility of the interfaces of the components.

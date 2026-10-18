@@ -5,7 +5,7 @@ date: null
 redirect:
   - /ZCHV4Q
 authors:
-  - neko
+  - neko-anon
 ---
 
 It's like a time machine. We can save and reload anytime we want to, like in the old day of Game Boy Advance. We can work in parallel universes of our source code, experimenting without fear of losing work, and rolling back if something goes wrong.

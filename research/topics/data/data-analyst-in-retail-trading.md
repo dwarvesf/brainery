@@ -4,7 +4,7 @@ title: "A data analyst in retail trading: Power BI and SQL for business insight"
 description: Discover how data analysts use tools like Power BI and SQL to transform retail trading data into actionable business insights on sales, finance, and marketing performance.
 date: 2022-08-29
 authors:
-  - neko
+  - neko-anon
 tags:
   - engineering
   - practice

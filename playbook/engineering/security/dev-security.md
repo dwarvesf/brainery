@@ -5,7 +5,7 @@ date: null
 redirect:
   - /kCjuvg
 authors:
-  - neko
+  - neko-anon
 ---
 
 Treat this as a review checklist, not a one-time audit. Run through it when a project starts, before a release, and when a change touches authentication, user data or deployment. The [API security checklist](api-security.md) covers the API-specific items in more depth.

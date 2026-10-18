@@ -5,7 +5,7 @@ date: null
 redirect:
   - /6v6jrw
 authors:
-  - neko
+  - neko-anon
 ---
 
 ## What is user story?

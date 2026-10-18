@@ -5,7 +5,7 @@ date: null
 redirect:
   - /tbFyYQ
 authors:
-  - neko
+  - neko-anon
 ---
 
 **Incident management** is the practice of responding to an unplanned event, user disruption, or service interruption and involves restoring the service to an operational or acceptable state. There are 2 general labels for incidents:

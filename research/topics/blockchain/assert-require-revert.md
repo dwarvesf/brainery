@@ -6,7 +6,7 @@ date: 2026-08-27
 redirect:
   - /EomPiQ
 authors:
-  - neko
+  - neko-anon
 ---
 
 #### Enforce invariants with `assert()`

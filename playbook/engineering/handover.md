@@ -5,7 +5,7 @@ date: null
 redirect:
   - /tzJoDw
 authors:
-  - neko
+  - neko-anon
 ---
 
 This is the checklist for our handover process. When a new person joins a project, project members are changed, or project is moved to another team, a

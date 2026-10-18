@@ -4,7 +4,7 @@ title: "Six lessons from design thinking for everyday decisions"
 description: Discover how applying Design Thinking in everyday life enhances problem solving, decision making, and adaptability with practical tips on gathering information, organizing data, and embracing change.
 date: 2021-04-14
 authors:
-  - neko
+  - neko-anon
 tags:
   - design-thinking
 redirect:

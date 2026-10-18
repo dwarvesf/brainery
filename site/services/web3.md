@@ -4,7 +4,7 @@ short_title: Web3
 description: We build blockchain systems that solve real problems. From DeFi protocols to cross-chain bridges, we help companies navigate the Web3 space and create solutions that actually work.
 date: 2025-01-12
 authors:
-  - neko
+  - neko-anon
 tags:
   - blockchain
   - web3

@@ -6,7 +6,7 @@ kind: note
 redirect:
   - /I53IiA
 authors:
-  - neko
+  - neko-anon
 ---
 
 Right now our team is scattered between VSCode and Emacs (Spacemacs).

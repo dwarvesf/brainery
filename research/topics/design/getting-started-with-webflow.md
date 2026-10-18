@@ -4,7 +4,7 @@ title: "Getting started with Webflow: responsive sites on a no-code platform"
 description: Learn how to design responsive, high-quality websites quickly with Webflow’s no-code platform, featuring visual design tools, CMS, hosting, and easy animations for faster web development.
 date: 2021-01-23
 authors:
-  - neko
+  - neko-anon
 tags:
   - nocode
 redirect:

@@ -4,7 +4,7 @@ title: "Software modeling: core objects, diagrams and maintainability"
 description: Learn how software modeling improves system maintainability and scalability by defining core objects, using diagrams like ERD, SMD, and USD to design clear, efficient applications.
 date: 2020-05-08
 authors:
-  - neko
+  - neko-anon
 tags:
   - modeling
 redirect:

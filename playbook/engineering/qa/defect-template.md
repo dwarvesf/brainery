@@ -5,7 +5,7 @@ date: null
 redirect:
   - /gQk3hg
 authors:
-  - neko
+  - neko-anon
 ---
 
 ### Summary

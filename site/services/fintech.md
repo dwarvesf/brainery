@@ -4,7 +4,7 @@ short_title: Fintech
 description: "We build financial systems that work. From payment platforms to DeFi protocols, we've helped startups and banks across Southeast Asia create secure, scalable fintech solutions."
 date: 2025-01-12
 authors:
-  - neko
+  - neko-anon
 tags:
   - fintech
   - blockchain

@@ -24,7 +24,7 @@ redirect:
   - /research/topics/zettelkasten/purpose-of-zettelkasten
   - /E1fSsg
 authors:
-  - neko
+  - neko-anon
 ---
 
 Zettelkästen describes a method of personal knowledge management inspired by prolific sociologist Niklas Luhmann.

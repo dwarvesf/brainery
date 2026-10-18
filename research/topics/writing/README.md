@@ -49,7 +49,7 @@ redirect:
   - /research/topics/writing/the-elements-of-story/the-elements-of-story
   - /BjMCWg
 authors:
-  - neko
+  - neko-anon
 ---
 
 ## Write better

@@ -4,7 +4,7 @@ title: "Gestalt principles in UI design: proximity, similarity and closure"
 description: Learn how Gestalt principles like Proximity, Similarity, and Closure improve UI design by organizing elements for better usability, clear visual hierarchy, and enhanced user experience.
 date: 2020-07-13
 authors:
-  - neko
+  - neko-anon
 tags:
   - design
   - technique

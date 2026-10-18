@@ -4,7 +4,7 @@ title: "Istio service mesh: traffic management, security and observability"
 description: Learn how Istio service mesh improves microservices networking with features like traffic management, security, and monitoring, and why it complements API gateways for scalable applications.
 date: 2019-06-09
 authors:
-  - neko
+  - neko-anon
 tags:
   - tool
 redirect:

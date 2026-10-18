@@ -5,7 +5,7 @@ date: null
 redirect:
   - /nq7gfA
 authors:
-  - neko
+  - neko-anon
 ---
 
 We use the following structure for our error message. It helps our system stay consistent, easier to present between components and also better for error tracking.
