@@ -25,18 +25,15 @@ Therefore this section has been deliberately kept rather short. The libraries fe
 
 The majority of iOS developers use one of these network libraries. While `NSURLSession` is surprisingly powerful by itself, [AFNetworking][afnetworking-github] and [Alamofire][alamofire-github] remain unbeaten when it comes to actually managing queues of requests, which is pretty much a requirement of any modern app. We recommend AFNetworking for Objective-C projects and Alamofire for Swift projects. While the two frameworks have subtle differences, they share the same ideology and are published by the same foundation.
 
-
 ### DateTools
 
 As a general rule, [don't write your date calculations yourself][timezones-youtube]. Luckily, in [DateTools][datetools-github] you get an MIT-licensed, thoroughly tested library that covers pretty much all your calendar needs.
-
 
 ### Auto layout libraries
 
 If you prefer to write your views in code, chances are you've heard of either Apple's awkward syntaxes – the regular `NSLayoutConstraint` factory or the so-called [Visual Format Language][visual-format-language]. The former is extremely verbose and the latter based on strings, which effectively prevents compile-time checking. Fortunately, they've addressed the issue in iOS 9, allowing [a more concise specification of constraints][nslayoutanchor].
 
 If you're stuck with an earlier iOS version, [Masonry/SnapKit][snapkit-github] remedies the problem by introducing its own [DSL][dsl-wikipedia] to make, update and replace constraints. [PureLayout][purelayout-github] solves the same problem using Cocoa API style. For Swift, there is also [Cartography][cartography-github], which builds on the language's powerful operator overloading features. For the more conservative, [FLKAutoLayout][flkautolayout-github] offers a clean, but rather non-magical wrapper around the native APIs.
-
 
 ## Architecture
 
@@ -51,7 +48,6 @@ If you're stuck with an earlier iOS version, [Masonry/SnapKit][snapkit-github] r
 - [View-Interactor-Presenter-Entity-Routing (VIPER)][viper]
   - Rather exotic architecture that might be worth looking into in larger projects, where even MVVM feels too cluttered and testability is a major concern.
 
-
 ### “Event” Patterns
 
 These are the idiomatic ways for components to notify others about things:
@@ -65,7 +61,6 @@ These are the idiomatic ways for components to notify others about things:
 ### Models
 
 Keep your models immutable, and use them to translate the remote API's semantics and types to your app. For Objective-C projects, Github's [Mantle](https://github.com/Mantle/Mantle) is a good choice. In Swift, you can use structs instead of classes to ensure immutability, and use Swift's [Codable][codableLink] to do the JSON-to-model mapping. There are also few third party libraries available. [SwiftyJSON][swiftyjson] and [Argo][argo] are the popular among them.
-
 
 ### Views
 
@@ -95,7 +90,6 @@ Objective-C:
 
 Otherwise, you may encounter strange bugs when the system doesn't call `updateConstraints()` as you would expect it to. [This blog post][edward-huynh-requiresconstraintbasedlayout] by Edward Huynh offers a more detailed explanation.
 
-
 ### Controllers
 
 Use dependency injection, i.e. pass any required objects in as parameters, instead of keeping all state around in singletons. The latter is okay only if the state _really_ is global.
@@ -113,7 +107,6 @@ FooViewController *fooViewController = [[FooViewController alloc] initWithViewMo
 ```
 
 Try to avoid bloating your view controllers with logic that can safely reside in other places. Soroush Khanlou has a [good writeup][khanlou-destroy-massive-vc] of how to achieve this, and architectures like [MVVM](#architecture) treat view controllers as views, thereby greatly reducing their complexity.
-
 
 ## Stores
 
@@ -147,7 +140,6 @@ If you don't want to use signals, futures or similar mechanisms to represent you
 
 [Asset catalogs][asset-catalogs] are the best way to manage all your project's visual assets. They can hold both universal and device-specific (iPhone 4-inch, iPhone Retina, iPad, etc.) assets and will automatically serve the correct ones for a given name. Teaching your designer(s) how to add and commit things there (Xcode has its own built-in Git client) can save a lot of time that would otherwise be spent copying stuff from emails or other channels to the codebase. It also allows them to instantly try out their changes and iterate if needed.
 
-
 ### Using bitmap images
 
 Asset catalogs expose only the names of image sets, abstracting away the actual file names within the set. This nicely prevents asset name conflicts, as files such as `button_large@2x.png` are now namespaced inside their image sets. Appending the modifiers `-568h`, `@2x`, `~iphone` and `~ipad` are not required per se, but having them in the file name when dragging the file to an image set will automatically place them in the right "slot", thereby preventing assignment mistakes that can be hard to hunt down.
@@ -155,7 +147,6 @@ Asset catalogs expose only the names of image sets, abstracting away the actual 
 ### Using vector images
 
 You can include the original [vector graphics (PDFs)][vector-assets] produced by designers into the asset catalogs, and have Xcode automatically generate the bitmaps from that. This reduces the complexity of your project (the number of files to manage.)
-
 
 ### Image optimisation
 

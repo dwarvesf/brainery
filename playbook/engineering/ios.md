@@ -49,13 +49,11 @@ Getting on board with iOS can be intimidating. Neither Swift nor Objective-C are
 
 If you're coming from another platform, do take some time to familiarize yourself with Apple's [Human interface guidelines][ios-hig] for the platform. There is a strong emphasis on good design in the iOS world, and your app should be no exception. The guidelines also provide a handy overview of native UI elements, technologies such as 3D Touch or Wallet, and icon dimensions for designers.
 
-
 ### Xcode
 
 [Xcode][xcode] is the IDE of choice for most iOS developers, and the only one officially supported by Apple. There are some alternatives, of which [AppCode][appcode] is arguably the most famous, but unless you're already a seasoned iOS person, go with Xcode. Despite its shortcomings, it's actually quite usable nowadays!
 
 To install, simply download [Xcode on the Mac App store][xcode-app-store]. It comes with the newest SDK and simulators, and you can install more stuff under _Preferences > Downloads_.
-
 
 ### Project setup
 
@@ -68,7 +66,6 @@ A common question when beginning an iOS project is whether to write all views in
 - It's easier to structure and reuse views in code, thereby keeping your codebase [DRY][dry].
 - All information is in one place. In Interface Builder you have to click through all the inspectors to find what you're looking for.
 - Storyboards introduce coupling between your code and UI, which can lead to crashes e.g. when an outlet or action is not set up correctly. These issues are not detected by the compiler.
-
 
 #### Why storyboards?
 
@@ -85,7 +82,6 @@ To get the best of both worlds, you can also take a hybrid approach: Start off b
 ### Ignores
 
 A good first step when putting a project under version control is to have a decent `.gitignore` file. That way, unwanted files (user settings, temporary files, etc.) will never even make it into your repository. Luckily, GitHub has us covered for both [Swift][swift-gitignore] and [Objective-C][objc-gitignore].
-
 
 ### Dependency management
 
@@ -111,7 +107,6 @@ Note that from now on, you'll need to open the `.xcworkspace` file instead of `.
 
 will update all pods to the newest versions permitted by the Podfile. You can use a wealth of [operators][cocoapods-pod-syntax] to specify your exact version requirements.
 
-
 Update (2026): the CocoaPods team [plans to make trunk read-only][cocoapods-trunk-readonly]. Per their schedule, trunk stops accepting new Podspecs on December 2nd, 2026. Existing builds keep working, but pods from trunk will not get new versions after that.
 
 #### Carthage
@@ -121,7 +116,6 @@ Update (2026): the CocoaPods team [plans to make trunk read-only][cocoapods-trun
 There is no centralized repository of projects, which means any library that can be compiled into a framework supports Carthage out of the box.
 
 To get started, follow the [instructions][carthage-instructions] in Carthage's documentation.
-
 
 ### Project structure
 
@@ -144,7 +138,6 @@ Keep all user strings in localization files right from the beginning. This is go
 For more complex translations such as plural forms that depending on a number of items (e.g. "1 person" vs. "3 people"), you should use the [`.stringsdict` format][stringsdict-format] instead of a regular `localizable.strings` file. As soon as you've wrapped your head around the crazy syntax, you have a powerful tool that knows how to make plurals for "one", some", "few" and "many" items, as needed [e.g. in Russian or Arabic][language-plural-rules].
 
 Find more information about localization in [these presentation slides][l10n-slides] from the February 2012 HelsinkiOS meetup. Most of the talk is still relevant.
-
 
 #### Constants
 

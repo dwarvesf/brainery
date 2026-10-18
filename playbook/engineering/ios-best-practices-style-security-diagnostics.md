@@ -21,7 +21,6 @@ This part covers how to keep an iOS codebase readable, safe and observable: nami
 
 Apple pays great attention to keeping naming consistent. Adhering to their [coding guidelines for Objective-C][cocoa-coding-guidelines] and [API design guidelines for Swift][swift-api-design-guidelines] makes it much easier for new people to join the project.
 
-
 Here are some basic takeaways you can start using right away:
 
 A method beginning with a _verb_ indicates that it performs some side effects, but won't return anything:
@@ -89,7 +88,6 @@ class FooViewController : UIViewController, FoobarDelegate {
 
 The most important point is to keep these consistent across your project's classes.
 
-
 ### External style guides
 
 - GitHub: [Swift](https://github.com/github/swift-style-guide) and [Objective-C](https://github.com/github/objective-c-style-guide)
@@ -124,7 +122,6 @@ When using `UITextField`s for password entry, remember to set their `secureTextE
 
 When this happens, it's also good practice to clear the Pasteboard to avoid passwords and other sensitive data from leaking. As iOS may take screenshots of your app for display in the app switcher, make sure to clear any sensitive data from the UI _before_ returning from `applicationDidEnterBackground`.
 
-
 ## Diagnostics
 
 ### Compiler warnings
@@ -139,7 +136,6 @@ For Objective-C code, add these values to the _“Other Warning Flags”_ build 
 and then enable the _“Treat warnings as errors”_ build setting.
 
 To treat warnings as errors for Swift code, add `-warnings-as-errors` to the _"Other Swift Flags"_ build setting.
-
 
 ### Clang static analyzer
 
@@ -162,7 +158,6 @@ When your app crashes, Xcode does not break into the debugger by default. To ach
 
 For view debugging, [Reveal][reveal] and [Spark Inspector][spark-inspector] are two powerful visual inspectors that can save you hours of time, especially if you're using Auto Layout and want to locate views that are collapsed or off-screen. Xcode also has integrated [view debugger][xcode-view-debugging] which is good enough and free to use.
 
-
 ### Profiling
 
 Xcode comes with a profiling suite called Instruments. It contains a myriad of tools for profiling memory usage, CPU, network communications, graphics and much more. It's a complex beast, but one of its more straight-forward use cases is tracking down memory leaks with the Allocations instrument. Simply choose _Product_ > _Profile_ in Xcode, select the Allocations instrument, hit the Record button and filter the Allocation Summary on some useful string, like the prefix of your own app's class names. The count in the Persistent column then tells you how many instances of each object you have. Any class for which the instance count increases indiscriminately indicates a memory leak.
@@ -172,7 +167,6 @@ Pay extra attention to how and where you create expensive classes. `NSDateFormat
 ## Analytics
 
 Including some analytics framework in your app is strongly recommended, as it allows you to gain insights on how people actually use it. Does feature X add value? Is button Y too hard to find? To answer these, you can send events, timings and other measurable information to a service that aggregates and visualizes them – for instance, [Google Tag Manager][google-tag-manager]. The latter is more versatile than Google Analytics in that it inserts a data layer between app and Analytics, so that the data logic can be modified through a web service without having to update the app.
-
 
 A good practice is to create a slim helper class, e.g. `AnalyticsHelper`, that handles the translation from app-internal models and data formats (`FooModel`, `NSTimeInterval`, …) to the mostly string-based data layer:
 
@@ -201,7 +195,6 @@ First you should make your app send crash logs onto a server somewhere so that y
 - [Crittercism](https://www.crittercism.com)
 - Splunk MINTexpress
 - [Instabug](https://instabug.com/)
-
 
 Once you have this set up, ensure that you _save the Xcode archive (`.xcarchive`)_ of every build you release. The archive contains the built app binary and the debug symbols (`dSYM`) which you will need to symbolicate crash reports from that particular version of your app.
 

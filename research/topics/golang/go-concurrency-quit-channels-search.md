@@ -124,7 +124,7 @@ The `gopher` func receives value from the right then send to the left. The whole
 
 For the sake of fun, you can try to run the above snippet then see how long it takes to do 100,000 goroutines and all the communication.
 
-## Example: Google Search
+## Example: Google search
 
 So far, everything we've been doing is very toy-like. What we're going to do is buid sort of a Google search engine, it's still going to be a toy, obviously we can't develop a Google search engine in less than an hour.
 
@@ -145,7 +145,7 @@ type Result string
 
 Well, let's fake it, completely. Let's construct a thing caleld a `fakeSearch`, all our `fakeSearch` is going to do is sleep for a while then return whatever the fake answer is that it wants, which is very uninteresting, it says, here's your result. But the point is that there's multiple of them. Notice here, this `Search` is a new type of a function that takes a query an returns a `Result`, so that's sort of a type definition for what a search actually does. We construct these functions for a web, an image, and a video service. Very simple, all they do is pause for a while, then print. They're set to wait for up to 100 milliseconds.
 
-## Google Search 1.0
+## Google search 1.0
 
 The `Google` function takes a query and returns a slice of `Result` (which are just strings). `Google` invokes Web, Image, Video searches serially, appending them to the result slice.
 
@@ -215,7 +215,7 @@ Now for each of the **back ends**, we independently launch a goroutine to do the
 
 Now we're really only waiting for the single slowest web search. Notice that this is a parallel program now with multiple **back ends** running. But we don't have any mutexes or locks or condition variables or callbacks. The model of Go's concurrency is taking care of the intricacy of setting up and running this safely.
 
-## Google Search 2.1
+## Google search 2.1
 
 Now sometimes, servers take a long time, they can be really, really slow. Remember, we set these up for 100 milliseconds. Once in a while, an individual search might take more than 80 milliseconds. Let's say we don't want to wait more than a total of 80 milliseconds for the whole thing to run. We want to use the _timeout_ pattern now.
 
@@ -269,7 +269,7 @@ Here, we timed out because, in this case, all 2 queries took too long. So we got
 
 However, timing out a communication is kinda annoying. What if the server really is going to take a long time?
 
-## Avoid timeout (using Replication)
+## Avoid timeout (using replication)
 
 Q: How do we avoid discarding results from the slow servers?
 A: Replicate the servers. Send requests to multiple replicas, then use the first response.
@@ -315,7 +315,7 @@ You can see, it's which ever one comes back first. For fun and demonstration, af
 
 With this little tool, now, we can build the next piece, which is to stitch all of these little magic together.
 
-## Google Search 3.0
+## Google search 3.0
 
 Now this is full on, it's got everything in it.
 

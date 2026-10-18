@@ -43,29 +43,32 @@ Workflows in Mastra are for your multi-step dances and complex agent collabs. Pr
 
 **Hierarchical and sequential multi-agent moves**:
 Mastra handles common multi-agent patterns:
-*   **Sequential workflows**: `createWorkflow` plus chaining steps with `.then(nextStep).commit()`. If the output schema of one step matches the input of the next, data flows automatically. Clean.
-*   **Hierarchical multi-agent systems**: The classic supervisor-sub-agent setup. Sub-agents get wrapped as "tools" that the supervisor agent calls. Mastra's `createTool` function can wrap a whole agent, making it callable by another boss agent.
+
+- **Sequential workflows**: `createWorkflow` plus chaining steps with `.then(nextStep).commit()`. If the output schema of one step matches the input of the next, data flows automatically. Clean.
+- **Hierarchical multi-agent systems**: The classic supervisor-sub-agent setup. Sub-agents get wrapped as "tools" that the supervisor agent calls. Mastra's `createTool` function can wrap a whole agent, making it callable by another boss agent.
 
 **Quick example: hierarchical blog post factory**
 This is straight from Mastra's playbook: a Publisher agent bosses around a Copywriter and an Editor by treating them as tools.
+
 1.  **Define sub-agents** (`CopywriterAgent`, `EditorAgent`): Each is an `Agent` instance with its own instructions and model.
 2.  **Wrap sub-agents as tools** (`copywriterTool`, `editorTool`):
-    *   Use `createTool` for each.
-    *   Define `id`, `description`, `inputSchema` (e.g., for `copywriterTool`, `{ topic: z.string() }`), and `outputSchema` (e.g., `{ copy: z.string() }`).
-    *   The `execute` function of the tool calls the respective agent's `.generate()` method with the input.
+    - Use `createTool` for each.
+    - Define `id`, `description`, `inputSchema` (e.g., for `copywriterTool`, `{ topic: z.string() }`), and `outputSchema` (e.g., `{ copy: z.string() }`).
+    - The `execute` function of the tool calls the respective agent's `.generate()` method with the input.
 3.  **Define supervisor agent** (`PublisherAgent`):
-    *   An `Agent` instance.
-    *   Instructions: "First, call copywriter to write copy on a topic. Then, call editor to edit it. Return final edited copy."
-    *   Its `tools` property includes `copywriterTool` and `editorTool`.
+    - An `Agent` instance.
+    - Instructions: "First, call copywriter to write copy on a topic. Then, call editor to edit it. Return final edited copy."
+    - Its `tools` property includes `copywriterTool` and `editorTool`.
 
 **Flow**:
 PublisherAgent gets a topic ("Future of AI Agents"):
-*   Its LLM, guided by instructions, knows it needs content. Calls `copywriterTool` with the topic.
-*   `copywriterTool` runs, calling `copywriterAgent.generate()`. Draft blog post comes back.
-*   PublisherAgent's LLM takes this draft, calls `editorTool`.
-*   `editorTool` runs, calling `editorAgent.generate()`. Edited post comes back.
-*   PublisherAgent returns the final, polished copy.
-This clearly shows Mastra building hierarchies where a supervisor runs the show by calling specialized sub-agents as tools. Powerful stuff for breaking down big jobs.
+
+- Its LLM, guided by instructions, knows it needs content. Calls `copywriterTool` with the topic.
+- `copywriterTool` runs, calling `copywriterAgent.generate()`. Draft blog post comes back.
+- PublisherAgent's LLM takes this draft, calls `editorTool`.
+- `editorTool` runs, calling `editorAgent.generate()`. Edited post comes back.
+- PublisherAgent returns the final, polished copy.
+  This clearly shows Mastra building hierarchies where a supervisor runs the show by calling specialized sub-agents as tools. Powerful stuff for breaking down big jobs.
 
 ```typescript
 // Mastra Code Snippet: Hierarchical Blog Post Generation (Conceptual TypeScript)
@@ -85,11 +88,11 @@ class Agent {
 //     return { text: `Generated content for: ${prompt}` };
 //   }
 // Allow any config for conceptual example
-  constructor(config: any) { 
+  constructor(config: any) {
     this.name = config.name;
     console.log(`Conceptual Mastra Agent '${config.name}' created.`);
   }
-  async generate(prompt: string): Promise<{ text: string }> { 
+  async generate(prompt: string): Promise<{ text: string }> {
     console.log(`[${this.name}] Generating for prompt: ${prompt.substring(0,30)}...`);
     return { text: `Generated content for: ${prompt}` };
   }
@@ -235,48 +238,52 @@ ${finalEditedCopy.copy}
 
 **Core bits (agents, tasks, crew) & the role-goal-backstory vibe**:
 CrewAI stands on three legs:
-*   **Agents**: Your individual AI workers. Each gets:
-    *   `role`: Their job title (e.g., 'Market Researcher', 'Code Ninja').
-    *   `goal`: What they're trying to achieve.
-    *   `backstory`: A bit of flavor text to shape their behavior and perspective. Surprisingly effective.
-    *   `llm`: The brain (your chosen LLM).
-    *   `tools` (optional): What they can use.
-    *   `allow_delegation` (optional): Can they pass the buck to other agents in the crew?
-*   **Tasks**: The actual assignments. Each includes:
-    *   `description`: Detailed orders.
-    *   `expected_output`: What success looks like (format, content).
-    *   `agent`: Who's doing it.
-    *   `dependencies` (optional): Other tasks that gotta be done first. Builds your sequence.
-*   **Crew**: Brings agents and tasks together. Manages the collaboration and workflow.
+
+- **Agents**: Your individual AI workers. Each gets:
+  - `role`: Their job title (e.g., 'Market Researcher', 'Code Ninja').
+  - `goal`: What they're trying to achieve.
+  - `backstory`: A bit of flavor text to shape their behavior and perspective. Surprisingly effective.
+  - `llm`: The brain (your chosen LLM).
+  - `tools` (optional): What they can use.
+  - `allow_delegation` (optional): Can they pass the buck to other agents in the crew?
+- **Tasks**: The actual assignments. Each includes:
+  - `description`: Detailed orders.
+  - `expected_output`: What success looks like (format, content).
+  - `agent`: Who's doing it.
+  - `dependencies` (optional): Other tasks that gotta be done first. Builds your sequence.
+- **Crew**: Brings agents and tasks together. Manages the collaboration and workflow.
 
 The **role-goal-backstory** thing is central to CrewAI. It pushes you to give your agents personas. The idea? Clear roles, motivating goals, and contextual backstories make agents behave more coherently and effectively. It's an interesting way to map AI collaboration to human team dynamics, potentially making it easier for non-AI-experts to design agent systems.
 
 **Sequential vs. hierarchical action**:
 CrewAI lets tasks flow in a couple of ways:
-*   **Sequential process**: Tasks run one after another, dictated by order or dependencies. Good for linear jobs where output of one feeds the next.
-*   **Hierarchical process**: A designated manager agent runs the crew. This boss can delegate, monitor, and even sign off on work before the crew moves on. More complex coordination and oversight.
+
+- **Sequential process**: Tasks run one after another, dictated by order or dependencies. Good for linear jobs where output of one feeds the next.
+- **Hierarchical process**: A designated manager agent runs the crew. This boss can delegate, monitor, and even sign off on work before the crew moves on. More complex coordination and oversight.
 
 **Quick example: market research report (sequential grind)**
 A team of specialists building a market report, step-by-step.
+
 1.  **Define Agents**:
-    *   `research_agent`: Role: 'Market Researcher', Goal: 'Find latest AI market trend articles/data for 2025', Backstory: 'Experienced web-surfing analyst'. Has a web search tool.
-    *   `analysis_agent`: Role: 'Data Analyst', Goal: 'Analyze research data for key insights, growth, challenges', Backstory: 'Quantitative guru'.
-    *   `report_writer_agent`: Role: 'Business Report Writer', Goal: 'Write concise report from analyzed insights', Backstory: 'Pro writer, makes complex stuff clear'.
+    - `research_agent`: Role: 'Market Researcher', Goal: 'Find latest AI market trend articles/data for 2025', Backstory: 'Experienced web-surfing analyst'. Has a web search tool.
+    - `analysis_agent`: Role: 'Data Analyst', Goal: 'Analyze research data for key insights, growth, challenges', Backstory: 'Quantitative guru'.
+    - `report_writer_agent`: Role: 'Business Report Writer', Goal: 'Write concise report from analyzed insights', Backstory: 'Pro writer, makes complex stuff clear'.
 2.  **Define Tasks**:
-    *   `research_task`: Description: 'Find 5 recent articles, 3 data points on 2025 AI market trends', Expected Output: 'List of URLs, data summary', Agent: `research_agent`.
-    *   `analysis_task`: Description: 'Analyze findings for top 3 insights, 2 growth areas, 1 challenge', Expected Output: 'Structured summary of insights/growth/challenges', Agent: `analysis_agent`, Dependencies: `[research_task]`.
-    *   `writing_task`: Description: 'Write 500-word report (intro, insights, growth, challenges, conclusion)', Expected Output: 'Formatted 500-word Markdown report', Agent: `report_writer_agent`, Dependencies: `[analysis_task]`.
-3.  **Assemble the Crew**:
-    *   `market_research_crew`: Agents: `[research_agent, analysis_agent, report_writer_agent]`, Tasks: `[research_task, analysis_task, writing_task]`, Process: `Process.sequential`.
+    - `research_task`: Description: 'Find 5 recent articles, 3 data points on 2025 AI market trends', Expected Output: 'List of URLs, data summary', Agent: `research_agent`.
+    - `analysis_task`: Description: 'Analyze findings for top 3 insights, 2 growth areas, 1 challenge', Expected Output: 'Structured summary of insights/growth/challenges', Agent: `analysis_agent`, Dependencies: `[research_task]`.
+    - `writing_task`: Description: 'Write 500-word report (intro, insights, growth, challenges, conclusion)', Expected Output: 'Formatted 500-word Markdown report', Agent: `report_writer_agent`, Dependencies: `[analysis_task]`.
+3.  **Assemble the crew**:
+    - `market_research_crew`: Agents: `[research_agent, analysis_agent, report_writer_agent]`, Tasks: `[research_task, analysis_task, writing_task]`, Process: `Process.sequential`.
 
 **Flow**:
 When `market_research_crew.kickoff()` is called:
-*   `research_task` runs (research_agent uses web search).
-*   Its output (articles, data) feeds `analysis_task` (thanks to dependency).
-*   `analysis_agent` chews on it, extracts insights.
-*   Its output (insights summary) feeds `writing_task`.
-*   `report_writer_agent` drafts the final report.
-Boom. A clear pipeline, specialized agents contributing in sequence. That's CrewAI for structured, multi-step teamwork.
+
+- `research_task` runs (research_agent uses web search).
+- Its output (articles, data) feeds `analysis_task` (thanks to dependency).
+- `analysis_agent` chews on it, extracts insights.
+- Its output (insights summary) feeds `writing_task`.
+- `report_writer_agent` drafts the final report.
+  Boom. A clear pipeline, specialized agents contributing in sequence. That's CrewAI for structured, multi-step teamwork.
 
 ```python
 # CrewAI Code Snippet: Market Research Report (Conceptual)

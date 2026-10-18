@@ -22,7 +22,6 @@ This section contains an overview of this topic , please refer here for more com
 - [iOS Developer Library: Xcode Concepts][apple-xcode-concepts]
 - [Samantha Marshall: Managing Xcode][pewpew-managing-xcode]
 
-
 ### Build configurations
 
 Even simple apps can be built in different ways. The most basic separation that Xcode gives you is that between _debug_ and _release_ builds. For the latter, there is a lot more optimization going on at compile time, at the expense of debugging possibilities. Apple suggests that you use the _debug_ build configuration for development, and create your App store packages using the _release_ build configuration. This is codified in the default scheme (the dropdown next to the Play and Stop buttons in Xcode), which commands that _debug_ be used for Run and _release_ for Archive.
@@ -40,7 +39,6 @@ Typically build settings are specified in the Xcode GUI, but you can also use _c
 - Conflict resolution and merging becomes easier.
 
 Find more information about this topic in [these presentation slides][xcconfig-slides].
-
 
 ### Targets
 
@@ -82,7 +80,6 @@ Besides certificates, there are also **provisioning profiles**, which are basica
   - **App store:** This profile has no list of allowed devices, as anyone can install it through Apple's official distribution channel. This profile is required for all App store releases.
   - **Enterprise:** Just like App store, there is no device whitelist, and the app can be installed by anyone with access to the enterprise's internal "app store", which can be just a website with links. This profile is available only on Enterprise accounts.
 
-
 To sync all certificates and profiles to your machine, go to Accounts in Xcode's Preferences, add your Apple ID if needed, and double-click your team name. There is a refresh button at the bottom, but sometimes you just need to restart Xcode to make everything show up.
 
 #### Debugging provisioning
@@ -91,13 +88,11 @@ Sometimes you need to debug a provisioning issue. For instance, Xcode may refuse
 
 When dealing with an existing app archive (`.ipa`), you can inspect its provisioning profile in a similar fashion: Simply rename the `*.ipa` to `*.zip`, unpack it and find the `.app` package within. From its Finder context menu, choose "Show Package Contents" to see a file called `embedded.mobileprovision` that you can examine with the above method.
 
-
 ### Uploading
 
 [App store Connect][appstore-connect] is Apple's portal for managing your apps on the App store. To upload a build, Xcode requires an Apple ID that is part of the developer account used for signing. Nowadays Apple has allowed for single Apple IDs to be part of multiple App store Connect accounts (i.e. client organizations) in both Apple's developer portal as well as App store Connect.
 
 After uploading the build, be patient as it can take up to an hour for it to show up under the Builds section of your app version. When it appears, you can link it to the app version and submit your app for review.
-
 
 ## In-app purchases (IAP)
 

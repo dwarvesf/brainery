@@ -38,22 +38,25 @@ OpenAI isn't just sitting back; they're building tools to make agentic apps easi
 
 **Swarm ideas & the responses API**:
 OpenAI's early thinking with Swarm was about **lightweight, controllable, and testable agent coordination**. Core bits:
-*   **Agent**: Instructions (goals, behavior) + functions/tools (what it can do).
-*   **Handoffs**: How one agent passes the baton to another (usually by a function returning another Agent object).
+
+- **Agent**: Instructions (goals, behavior) + functions/tools (what it can do).
+- **Handoffs**: How one agent passes the baton to another (usually by a function returning another Agent object).
 
 Building on this, they dropped the **Responses API**. This thing aims to mix the simplicity of Chat Completions with the smarter tool-use of the Assistants API. They do this by handling tasks with multiple tool uses and several model turns in one API call. Comes with built-in tools like web and file search.
 
 **Orchestration via the agents SDK**:
 To really streamline multi-agent workflows, OpenAI launched a new open-source **Agents SDK**. This gives you more structure:
-*   **Agents**: LLM instances you can easily configure with instructions and tools (theirs or yours).
-*   **Handoffs**: Formalized mechanism for smart, context-aware control transfer between agents.
-*   **Guardrails**: Configurable safety checks for input/output validation. Keeps your agents from going totally rogue.
-*   **Tracing & Observability**: Tools to see what your agents are actually doing. Critical for debugging and tuning.
+
+- **Agents**: LLM instances you can easily configure with instructions and tools (theirs or yours).
+- **Handoffs**: Formalized mechanism for smart, context-aware control transfer between agents.
+- **Guardrails**: Configurable safety checks for input/output validation. Keeps your agents from going totally rogue.
+- **Tracing & observability**: Tools to see what your agents are actually doing. Critical for debugging and tuning.
 
 Features like Guardrails and Tracing show they're thinking about production readiness (safety, reliability, maintenance). That’s vital for enterprise adoption because businesses want agents that don’t just work, but work predictably and securely. Raw model power isn't enough; they're building out the whole ecosystem.
 
 **Quick example: tiered customer support system**
 A classic multi-agent play: different support tiers.
+
 1.  **TriageAgent**: First contact. Instructions: "Figure out what the user wants. Shopping query? Hand off to ShoppingAgent. Returns/tech support? Hand off to SupportAgent." Has `handoffs=` capability.
 2.  **ShoppingAgent**: Instructions: "Help find products, compare, use WebSearchTool."
 3.  **SupportAgent**: Instructions: "Assist with support, refunds, tech issues. Use `submit_refund_request` tool (your custom backend interaction)."
@@ -94,7 +97,7 @@ class Runner:
                 print(f"Handing off to {target_agent.name}")
                 # Simulate agent execution
                 if any("WebSearchTool" in str(t) for t in target_agent.tools):
-                    return type('obj', (object,), {'output_text': f'{target_agent.name} used WebSearchTool for: {input_text}'}) 
+                    return type('obj', (object,), {'output_text': f'{target_agent.name} used WebSearchTool for: {input_text}'})
             return type('obj', (object,), {'output_text': f'{self.starting_agent.name} processed: {input_text}'})
         elif ("return" in input_text.lower() or "support" in input_text.lower()) and self.starting_agent.handoffs:
             target_agent = next((h for h in self.starting_agent.handoffs if "Support" in h.name), None)
@@ -102,7 +105,7 @@ class Runner:
                 print(f"Handing off to {target_agent.name}")
                 # Simulate agent execution with a custom tool
                 if any("submit_refund_request" in str(t.name) for t in target_agent.tools):
-                     return type('obj', (object,), {'output_text': f'{target_agent.name} used submit_refund_request for: {input_text}'}) 
+                     return type('obj', (object,), {'output_text': f'{target_agent.name} used submit_refund_request for: {input_text}'})
             return type('obj', (object,), {'output_text': f'{self.starting_agent.name} processed: {input_text}'})
         else:
             return type('obj', (object,), {'output_text': f'{self.starting_agent.name} handled: {input_text}'})
@@ -173,9 +176,10 @@ The **Model Context Protocol (MCP)** is an open shot at standardizing how your a
 
 **MCP Guts**:
 It’s a client-server dance:
-*   **Hosts**: Your LLM apps (IDEs like Cursor, desktop apps, custom agent setups). They run and manage connections.
-*   **Clients**: Live in the host app, chat one-on-one with an MCP server. They handle protocol negotiation, message routing, and subscriptions.
-*   **Servers**: Lightweight programs exposing specific powers (tools, resources, prompts) via MCP. Can be local or remote, focused on doing one thing well.
+
+- **Hosts**: Your LLM apps (IDEs like Cursor, desktop apps, custom agent setups). They run and manage connections.
+- **Clients**: Live in the host app, chat one-on-one with an MCP server. They handle protocol negotiation, message routing, and subscriptions.
+- **Servers**: Lightweight programs exposing specific powers (tools, resources, prompts) via MCP. Can be local or remote, focused on doing one thing well.
 
 Communication is layered: a protocol layer (JSON-RPC 2.0 for message framing, request/response) and a transport layer (stdio for local, HTTP with Server-Sent Events for remote). Messages are Requests, Results, Errors, or Notifications (one-way pings).
 
@@ -184,26 +188,29 @@ MCP wants to standardize how agents grab and use outside functions. Servers shou
 
 **Architectural patterns MCP enables**:
 MCP itself is just the protocol, but it lights up various agent system designs:
-*   **Single-agent MCP**: One LLM agent calls tools from MCP servers. Simple, direct, but can bottleneck or overload context if the agent juggles too many tools.
-*   **Multi-agent orchestrated MCP**: Many specialized agents collaborate, each using MCP clients to get tools for their specialty. Better for parallel work and resilience.
-*   **Hierarchical MCP agents**: Agents in layers; planners up top, executors below. Each might use MCP tools. Good for breaking down big tasks.
-*   **Event-driven MCP agents**: Agents react to events, often asynchronously. MCP tools could be called on events, or MCP servers might fire off events themselves.
+
+- **Single-agent MCP**: One LLM agent calls tools from MCP servers. Simple, direct, but can bottleneck or overload context if the agent juggles too many tools.
+- **Multi-agent orchestrated MCP**: Many specialized agents collaborate, each using MCP clients to get tools for their specialty. Better for parallel work and resilience.
+- **Hierarchical MCP agents**: Agents in layers; planners up top, executors below. Each might use MCP tools. Good for breaking down big tasks.
+- **Event-driven MCP agents**: Agents react to events, often asynchronously. MCP tools could be called on events, or MCP servers might fire off events themselves.
 
 **Quick example: agent tapping an mcp server for file system access**
 Agent needs to read a log file.
+
 1.  **Host app**: Your Python script running the AI agent.
 2.  **Agent component**: The AI agent (could be simple LLM loop) gets a request: "Summarize critical errors in 'application.log' today."
 3.  **MCP client component**: Part of the agent, talks to MCP servers.
 4.  **FileSystemMCPServer**: Separate local process. Speaks MCP, offers tools like `readFile(path)`, `writeFile(path, content)`, `listFiles(directory)`.
 
 **Flow**:
-*   User asks agent.
-*   Agent's LLM decides it needs to read `application.log`.
-*   Agent tells MCPClient to call `readFile(path='application.log')` on FileSystemMCPServer.
-*   MCPClient sends JSON-RPC request (e.g., via stdio).
-*   FileSystemMCPServer gets request, reads file, sends MCP Result with content (or Error).
-*   Response goes to MCPClient, then to Agent.
-*   Agent uses LLM to process log, summarize errors for user.
+
+- User asks agent.
+- Agent's LLM decides it needs to read `application.log`.
+- Agent tells MCPClient to call `readFile(path='application.log')` on FileSystemMCPServer.
+- MCPClient sends JSON-RPC request (e.g., via stdio).
+- FileSystemMCPServer gets request, reads file, sends MCP Result with content (or Error).
+- Response goes to MCPClient, then to Agent.
+- Agent uses LLM to process log, summarize errors for user.
 
 This shows MCP's core value: letting an AI agent securely and standard-ly use external powers (like local file access) not built into the LLM, by chatting with a specialized server. No custom integration per tool; that's the promise.
 
@@ -213,49 +220,52 @@ This shows MCP's core value: letting an AI agent securely and standard-ly use ex
 
 **fast-agent** jumps in as a framework for building and playing with AI agents and workflows, proudly waving the **Model Context Protocol (MCP)** flag. It's an **MCP-native** solution, meaning its bones are built around MCP ideas. It supports the full MCP toolkit: Tools, Prompts, Resources, Sampling, and Roots. A cool trick? **Multi-modal support**, letting agents chew on images and PDFs in prompts, resources, and MCP tool results.
 
-This framework wants to get you building *fast*. It throws pre-built agent and workflow examples at you (many inspired by [Anthropic's agent-building insights](https://www.anthropic.com/engineering/building-effective-agents) and lets you string agents into complex workflows with a slick set of Python **decorators**. That decorator-based vibe for defining chains, parallel runs, routers, and orchestrators is a big deal. It massively lowers the bar for cooking up sophisticated multi-agent systems. You focus on *what* you want (the logic, the agent skills) instead of the gnarly *how* (managing chats, state, errors). This screams rapid prototyping and quick iteration. And because it's MCP-native, these easy-to-build workflows can plug into a wider, standardized world of MCP tools and services without a fuss.
+This framework wants to get you building _fast_. It throws pre-built agent and workflow examples at you (many inspired by [Anthropic's agent-building insights](https://www.anthropic.com/engineering/building-effective-agents) and lets you string agents into complex workflows with a slick set of Python **decorators**. That decorator-based vibe for defining chains, parallel runs, routers, and orchestrators is a big deal. It massively lowers the bar for cooking up sophisticated multi-agent systems. You focus on _what_ you want (the logic, the agent skills) instead of the gnarly _how_ (managing chats, state, errors). This screams rapid prototyping and quick iteration. And because it's MCP-native, these easy-to-build workflows can plug into a wider, standardized world of MCP tools and services without a fuss.
 
 **Key composition patterns (the decorator magic)**:
 fast-agent gives you these workflow-building decorators:
-*   `@fast.agent`: Your basic building block. Defines an agent with instructions, request params, tools, etc.
-*   `@fast.chain`: Links agents in a sequence. Output of one feeds the next. Simple.
-*   `@fast.parallel`: Fan-out/fan-in. Message hits multiple agents at once. Optionally, a fan-in agent mops up the combined results.
-*   `@fast.evaluator_optimizer`: A duo: a generator (makes content/solutions) and an evaluator (judges it, gives feedback). They iterate, generator refines based on feedback, until a quality bar is met or it hits max tries.
-*   `@fast.router`: Uses an LLM to look at a message and send it to the right agent from a list, based on their instructions.
-*   `@fast.orchestrator`: For the big jobs. An LLM-powered orchestrator agent figures out a plan to spread work among available agents. Can plan it all upfront or go step-by-step.
+
+- `@fast.agent`: Your basic building block. Defines an agent with instructions, request params, tools, etc.
+- `@fast.chain`: Links agents in a sequence. Output of one feeds the next. Simple.
+- `@fast.parallel`: Fan-out/fan-in. Message hits multiple agents at once. Optionally, a fan-in agent mops up the combined results.
+- `@fast.evaluator_optimizer`: A duo: a generator (makes content/solutions) and an evaluator (judges it, gives feedback). They iterate, generator refines based on feedback, until a quality bar is met or it hits max tries.
+- `@fast.router`: Uses an LLM to look at a message and send it to the right agent from a list, based on their instructions.
+- `@fast.orchestrator`: For the big jobs. An LLM-powered orchestrator agent figures out a plan to spread work among available agents. Can plan it all upfront or go step-by-step.
 
 **Quick example: multi-lingual content factory with quality control**
 Let's say you want product descriptions in English, French, and Spanish, and you want them good.
+
 1.  **English content writer agent** (`@fast.agent`): Takes product details, writes a compelling English description.
 2.  **Translator agents** (`@fast.agent` for French, `@fast.agent` for Spanish): Each takes English text, translates accurately.
 3.  **Translation aggregator agent** (`@fast.agent`): Takes French and Spanish translations, bundles them into a neat JSON object (`{'french_text': '...', 'spanish_text': '...'}`).
 4.  **Parallel translation workflow** (`@fast.parallel`):
-    *   Fans out the English description to the French and Spanish translator agents simultaneously.
-    *   The `translation_aggregator_agent` is the fan-in, collecting and structuring their outputs.
+    - Fans out the English description to the French and Spanish translator agents simultaneously.
+    - The `translation_aggregator_agent` is the fan-in, collecting and structuring their outputs.
 5.  **Quality assurance evaluator agent** (`@fast.agent`): Reviews the structured translations. Rates them (e.g., POOR, FAIR, GOOD, EXCELLENT). If not EXCELLENT, it spits out specific feedback.
 6.  **Content refinement workflow** (`@fast.evaluator_optimizer`):
-    *   The `generator` is our `parallel_translation_workflow`.
-    *   The `evaluator` is our `quality_assurance_evaluator_agent`.
-    *   It aims for a `min_rating` (e.g., "GOOD") with a `max_refinements` (e.g., 2 retries).
+    - The `generator` is our `parallel_translation_workflow`.
+    - The `evaluator` is our `quality_assurance_evaluator_agent`.
+    - It aims for a `min_rating` (e.g., "GOOD") with a `max_refinements` (e.g., 2 retries).
 
 **Flow**:
-*   User gives product details.
-*   `english_writer_agent` (maybe first in a chain) makes the English version.
-*   This goes to `content_refinement_workflow`.
-*   Inside, `parallel_translation_workflow` runs: English text hits French and Spanish translators at the same time.
-*   Their outputs go to `translation_aggregator_agent`.
-*   This structured output is judged by `quality_assurance_evaluator_agent`.
-*   If quality is meh (below GOOD), the `evaluator_optimizer` logic (conceptually) feeds the feedback and original input back to `parallel_translation_workflow` for another shot. Rinse and repeat until quality is met or retries run out. The final, polished multi-lingual content (a dictionary) is the result.
-This shows fast-agent's declarative power: parallel processing for speed, an evaluator loop for quality, all strung together with decorators.
+
+- User gives product details.
+- `english_writer_agent` (maybe first in a chain) makes the English version.
+- This goes to `content_refinement_workflow`.
+- Inside, `parallel_translation_workflow` runs: English text hits French and Spanish translators at the same time.
+- Their outputs go to `translation_aggregator_agent`.
+- This structured output is judged by `quality_assurance_evaluator_agent`.
+- If quality is meh (below GOOD), the `evaluator_optimizer` logic (conceptually) feeds the feedback and original input back to `parallel_translation_workflow` for another shot. Rinse and repeat until quality is met or retries run out. The final, polished multi-lingual content (a dictionary) is the result.
+  This shows fast-agent's declarative power: parallel processing for speed, an evaluator loop for quality, all strung together with decorators.
 
 ```python
 # fast-agent Code Snippet: Multi-Lingual Content Factory (Conceptual)
-# Heads-up: This is conceptual. You'll need the fast-agent library 
+# Heads-up: This is conceptual. You'll need the fast-agent library
 # and an LLM provider set up for this to be more than just fancy text.
 
 # import fast_agent as fast # Or however the library is actually imported
 
-# --- Agent Definitions --- 
+# --- Agent Definitions ---
 
 # Let's imagine 'fast' is our imported library access point.
 # These would be decorated functions if 'fast' was a real imported object.
@@ -332,7 +342,7 @@ def content_refinement_workflow(english_description: str) -> dict:
     # Conceptual: fast-agent manages the loop.
     # 1. Calls parallel_translation_workflow(english_description).
     # 2. Passes its output to quality_assurance_evaluator_agent.
-    # 3. If rating < GOOD and refinements < max_refinements, uses feedback 
+    # 3. If rating < GOOD and refinements < max_refinements, uses feedback
     #    (conceptually, by re-prompting or guiding the generator) and retries.
     print(f"[content_refinement_workflow] STARTING for: {english_description[:30]}...")
     attempts = 0
@@ -347,7 +357,7 @@ def content_refinement_workflow(english_description: str) -> dict:
         print(f"  Attempt {attempts + 1}")
         generated_content = parallel_translation_workflow(current_input_for_generator)
         evaluation = quality_assurance_evaluator_agent(generated_content)
-        
+
         current_rating_score = min_rating_map.get(evaluation['quality_rating'], -1)
 
         if current_rating_score >= target_rating_score:
@@ -364,7 +374,7 @@ def content_refinement_workflow(english_description: str) -> dict:
         if attempts > max_refinements:
             print("  Max refinements reached.")
             break
-            
+
     print(f"[content_refinement_workflow] COMPLETED. Final result: {str(final_result)[:50]}...")
     return final_result
 
