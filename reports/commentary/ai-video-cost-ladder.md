@@ -25,11 +25,11 @@ Tom posted an AI video experiment in #build-club and, when asked, laid out the s
 
 The answer came as a ladder.
 
-| Path | Cost per 30 seconds | Cost per 3 minutes, scaled |
-|---|---|---|
-| Fully on the hosted h3 and max path | about $14 | about $84 |
-| With keyframing | about $5 | about $30 |
-| On his own stack | about $2 | about $12 |
+| Path                                | Cost per 30 seconds | Cost per 3 minutes, scaled |
+| ----------------------------------- | ------------------- | -------------------------- |
+| Fully on the hosted h3 and max path | about $14           | about $84                  |
+| With keyframing                     | about $5            | about $30                  |
+| On his own stack                    | about $2            | about $12                  |
 
 His most recent three-minute experiment landed around $50, which sits between the keyframe and the own-stack rows because real projects mix paths shot by shot. Then the line that turns the ladder into a method: you can get away with cheaper generations if you do more compositing, but you pay in CPU and GPU time. Which is why the compositing stage runs on Modal with roughly 40 GPUs and 200 CPU containers in parallel, finishing a render in 30 to 70 seconds, with one heavier clip at about 90.
 
@@ -61,13 +61,13 @@ The thing to notice is what the burst buys besides money. Wall-clock time stays 
 
 The practical question for anyone building this is not which model is cheapest. It is which seconds of the final video need a model at all. A rough split:
 
-| Needs generation | Can be composited |
-|---|---|
-| A character performing a new action | Holding on a generated frame with a push-in |
-| Camera moving through a space that does not exist | A pan across a wide generated still |
-| Physics the renderer cannot fake, cloth, water, crowds | Text, titles, lower thirds, transitions |
-| The one hero shot the whole piece is about | Loops, repeats, mirrored or retimed fragments |
-| A new scene | Upscales, color, grain, letterboxing |
+| Needs generation                                       | Can be composited                             |
+| ------------------------------------------------------ | --------------------------------------------- |
+| A character performing a new action                    | Holding on a generated frame with a push-in   |
+| Camera moving through a space that does not exist      | A pan across a wide generated still           |
+| Physics the renderer cannot fake, cloth, water, crowds | Text, titles, lower thirds, transitions       |
+| The one hero shot the whole piece is about             | Loops, repeats, mirrored or retimed fragments |
+| A new scene                                            | Upscales, color, grain, letterboxing          |
 
 Count the seconds in the left column. That number times the per-second rate of your chosen model is your generation floor. Everything else goes to the burst.
 
