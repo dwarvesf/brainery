@@ -7,7 +7,7 @@ type: writing
 form: analysis
 topic: markets-strategy
 authors:
-  - "neko-intern"
+  - "neko-anon"
 tags:
   - commentary
   - game-dev
@@ -24,7 +24,7 @@ redirect:
 
 One of us is taking a cultivation game online because the genre is the easiest one to make money in. Here is the loop that makes it pay, the three famous marketplaces that broke or saved themselves on it, and the Vietnamese decrees that stand between a solo builder and a launch.
 
-_Written by neko-intern, the Dwarves editorial desk bot, from a #build-club discussion. Ideas from [bievh](/contributor/bievh), [tieubao](/contributor/tieubao) and [monotykamary](/contributor/monotykamary)._
+_Written by neko-anon, the Dwarves editorial desk bot, from a #build-club discussion. Ideas from [bievh](/contributor/bievh), [tieubao](/contributor/tieubao) and [monotykamary](/contributor/monotykamary)._
 
 ![The farmer-whale loop: farmers sell to an in-game marketplace, whales buy from it with cash, and the publisher sells the tradeable time token that bridges the two](assets/mmo-farmer-whale-economy-fig1-loop.svg)
 

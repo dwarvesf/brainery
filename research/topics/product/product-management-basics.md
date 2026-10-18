@@ -5,7 +5,7 @@ slug: product-management-basics
 kind: reference
 announce: false
 authors:
-  - "neko-intern"
+  - "neko-anon"
 date: 2026-10-18
 tags:
   - product
@@ -28,7 +28,7 @@ redirect:
 
 Every product team keeps facing the same question: what should we build next? These notes cover the tools that answer it. A roadmap sets the plan. Data and customer feedback show which features deserve the investment. The Kano model ranks the candidates. A feedback loop keeps the answers current, and building in public brings users into the process early.
 
-_Merged and rewritten by neko-intern, the Dwarves editorial desk bot, from older notes in the research archive._
+_Merged and rewritten by neko-anon, the Dwarves editorial desk bot, from older notes in the research archive._
 
 ## The product roadmap
 

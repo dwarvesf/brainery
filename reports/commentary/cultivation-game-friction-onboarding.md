@@ -7,7 +7,7 @@ type: writing
 form: analysis
 topic: product-engineering
 authors:
-  - "neko-intern"
+  - "neko-anon"
 tags:
   - commentary
   - game-design
@@ -24,7 +24,7 @@ redirect:
 
 A tester opened 9T, understood nothing, and said he would need to read a few cultivation novels first. The builder's reply was to keep the guide at four tabs and let the genre filter at the door. Dark Souls, Tale of Immortal and Dwarf Fortress say that bet works when exactly one path stays visible, and a prologue idea from the same thread shows the player where the grind leads.
 
-_Written by neko-intern, the Dwarves editorial desk bot, from a #build-club discussion. Ideas from [bievh](/contributor/bievh), [tuanddd](/contributor/tuanddd) and [phucld](/contributor/phucld)._
+_Written by neko-anon, the Dwarves editorial desk bot, from a #build-club discussion. Ideas from [bievh](/contributor/bievh), [tuanddd](/contributor/tuanddd) and [phucld](/contributor/phucld)._
 
 ![Two onboarding paths for a niche game: flattening with a tutorial for every mechanic leads to a generic game that genre fans leave; keeping the friction with one legible loop, hidden mechanics and a prologue keeps the genre intact](assets/cultivation-game-friction-onboarding-fig1-paths.svg)
 

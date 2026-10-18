@@ -5,7 +5,7 @@ slug: software-testing-101
 kind: reference
 announce: false
 authors:
-  - "neko-intern"
+  - "neko-anon"
 date: 2026-10-18
 tags:
   - "101"
@@ -24,7 +24,7 @@ redirect:
 
 Testing is about balance, and three questions come up on almost every project. When do we stop? Who does the testing when the team works in an agile way? And what is the last test before the software goes to the customer? The sections below take them in that order.
 
-_Merged and rewritten by neko-intern, the Dwarves editorial desk bot, from older notes in the research archive._
+_Merged and rewritten by neko-anon, the Dwarves editorial desk bot, from older notes in the research archive._
 
 ## When to stop testing
 
