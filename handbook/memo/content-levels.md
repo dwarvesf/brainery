@@ -30,11 +30,11 @@ Once polished, notes move to the `topics/` folder as **permanent notes**. These 
 
 Articles here focus on the basics: **what** a topic is, **why** it matters, and **how** to use it. For example, a note might explain “What is React, why it’s useful, and how to build with it.” These notes form a content map, feeding into our **second brain database** for easy access and future reference.
 
-### Level 3: Playbook articles
+### Level 3: playbook articles
 
 Playbook articles take knowledge to the next level. Stored separately, these focus on **processes**, **practices**, and **lessons learned**. They’re practical guides, like how we streamline code reviews or manage remote teams. Think of them as recipes for getting things done, built from real experience. Like other content, playbooks feed into our second brain database, making them reusable across projects.
 
-### Level 4: Build-logs
+### Level 4: build-logs
 
 Alongside playbooks, `build-logs/` document specific projects and their challenges. These case studies follow a “problem-solution” format, capturing what we learned while building something like the Memo itself. For example, a build-log might detail how we designed the sorting bot, including technical hurdles and solutions. These logs are stored with playbooks and also enrich our second brain database.
 

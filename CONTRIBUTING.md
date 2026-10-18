@@ -1,12 +1,12 @@
 ---
-title: Contributing to the Brainery
+title: Contributing to the brainery
 description: The contribution guide for the Brainery now lives on Dwarves Memo, with one path for staff, alumni and outside writers.
 date: 2026-10-18
 redirect:
   - /Wtk9EQ
 ---
 
-## Contributing to the Brainery
+## Contributing to the brainery
 
 The contribution guide moved to [memo.d.foundation/contribute-to-memo](https://memo.d.foundation/contribute-to-memo).
 
