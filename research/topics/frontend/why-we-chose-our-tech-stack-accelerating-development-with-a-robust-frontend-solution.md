@@ -69,7 +69,7 @@ Our frontend applications rely on a thoughtfully designed, multi-layered archite
 
 ![](assets/why-we-chose-our-tech-stack-accelerating-development-with-a-robust-frontend-solution_1ff4c200530392d7cfd5ff04c8edb60a_md5.webp)
 
-### Service Connector: Fetch API
+### Service connector: Fetch API
 
 The service connector layer is responsible for handling communication between the frontend and backend services. We utilize the Fetch API for all our API calls. By integrating the [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) with SWR, we can efficiently manage API requests, caching, and error handling. This combination ensures a fast and reactive user experience while maintaining a clean and organized codebase.
 
