@@ -65,5 +65,5 @@ Adopting #buildinpublic for Readify goes through these steps:
 
 #### Reference
 
-- [Product hunt 101: how to launch your product from early idea to revenue | by Martijn Verbove | the startup | medium](https://medium0.com/swlh/product-hunt-101-how-to-launch-your-product-from-early-idea-to-revenue-c3f01864cdde)
-- [Launching digital products 101. put theory to practice. these workable… | by Justyna Aptowicz-Aydın | agile insider | medium](https://medium0.com/agileinsider/launching-digital-products-101-af566104f6aa)
+- [Product hunt 101: how to launch your product from early idea to revenue | by Martijn Verbove | the startup | Medium](https://medium0.com/swlh/product-hunt-101-how-to-launch-your-product-from-early-idea-to-revenue-c3f01864cdde)
+- [Launching digital products 101. put theory to practice. these workable… | by Justyna Aptowicz-Aydın | Agile Insider | Medium](https://medium0.com/agileinsider/launching-digital-products-101-af566104f6aa)

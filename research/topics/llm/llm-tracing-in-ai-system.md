@@ -50,7 +50,7 @@ While basic metrics like latency and throughput measure operational performance,
 Some popular tools that support various aspects of LLM tracing:
 
 - [LangSmith](https://docs.smith.langchain.com/)
-- [Phoenix (by Arize)](https://arize.com/)
+- [Phoenix (by arize)](https://arize.com/)
 - [TraceLoop](https://arize.com/)
 - [OpenTelemetry](https://opentelemetry.io/blog/2024/llm-observability/)
 - [Portkey](https://portkey.ai/)
