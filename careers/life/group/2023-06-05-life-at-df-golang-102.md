@@ -1,10 +1,10 @@
 ---
+draft: true
 title: "Life at Dwarves: Golang 102"
-description: null
+description: "Golang 102, the Dwarves club that helps junior engineers catch up on backend practice with four Go concurrency patterns."
 date: 2023-06-05
 last_edited: "2023-06-27T00:00:00.000Z"
-redirect:
-  - /0WTdlg
+redirect: []
 ---
 
 [Life at Dwarves] Golang 102

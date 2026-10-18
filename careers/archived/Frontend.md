@@ -1,5 +1,6 @@
 ---
-title: Frontend
+draft: true
+title: Frontend engineer (closed role)
 description: As an engineer at Dwarves, you will be working closely with a team of talented, kind people and working directly with our clients. There is a lot of freedom to contribute to the quality of the project and improve, or prove yourself
 date: 2023-03-21
 authors:
@@ -8,8 +9,7 @@ show_frontmatter: true
 tags:
   - career
   - frontend
-redirect:
-  - /Agto4A
+redirect: []
 ---
 
 WE ARE LOOKING FOR A FRONTEND ENGINEER TO JOIN OUR TEAM IN SAIGON. Join a team of developers and designers dedicated to creating products people love to use

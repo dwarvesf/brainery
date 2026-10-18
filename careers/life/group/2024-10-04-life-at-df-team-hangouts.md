@@ -1,10 +1,10 @@
 ---
+draft: true
 title: "Life at Dwarves: Team hangouts"
-description: null
+description: "How Dwarves teammates keep in touch through casual hangouts, dinners and Discord chat."
 date: 2024-10-04
 last_edited: "2024-10-15T00:00:00.000Z"
-redirect:
-  - /3l27GQ
+redirect: []
 ---
 
 Dwarves Hangouts: Casual Moments, Real Connection

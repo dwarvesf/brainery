@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Software design group: Nurturing architects at Dwarves"
 short_title: Software Design Group
 description: At the end of 2021, starting with engineering practices, the core idea behind creating a software design group is to enable engineers to develop the skills required to become software architects.
@@ -9,8 +10,7 @@ tags:
   - career
   - life-at-dwarves
   - software
-redirect:
-  - /pnkfeA
+redirect: []
 ---
 
 ### The idea: A path to better software

@@ -1,5 +1,6 @@
 ---
-title: Android
+draft: true
+title: Android developer (closed role)
 description: WE ARE LOOKING FOR AN ANDROID DEVELOPER TO JOIN OUR TEAM IN SAIGON. Join a team of developers and designers dedicated to creating products people love to use.
 date: 2022-07-21
 authors:
@@ -8,8 +9,7 @@ show_frontmatter: true
 tags:
   - career
   - mobile
-redirect:
-  - /J9BQJQ
+redirect: []
 ---
 
 ## About us
