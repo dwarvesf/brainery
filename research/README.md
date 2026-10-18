@@ -263,7 +263,6 @@ redirect:
   - /ye0BtQ
   - /research/topics/ux/mixed-methods/inductive-reasoning
   - /SJoAgQ
-||||||| parent of 5e44de0 (chore(content): unpublish three audited pages, restore the product notes to Duy)
   - /cloud-and-microservice-patterns
   - /research/notes/cloud-and-microservice-patterns
   - /research/notes/saga-pattern
