@@ -277,7 +277,7 @@ Panicking is not the answer to every error. It is a strong way to signal critica
 
 A recoverable error is a situation the program can handle gracefully before it carries on. Rust gives you two types for this: `Option` and `Result`.
 
-### Working with option
+### Option for missing values
 
 `Option` is for a computation that might return a value or nothing. It removes the need for null or undefined values, which makes code safer.
 
@@ -302,7 +302,7 @@ fn main() {
 }
 ```
 
-### Working with result
+### Result for operations that can fail
 
 `Result` is similar to `Option` but has an `Err` variant that holds information about the error. That makes it the fit for functions that may fail.
 
