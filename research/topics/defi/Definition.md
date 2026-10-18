@@ -1,10 +1,8 @@
 ---
-draft: false
+draft: true
 title: "Decentralized exchange (DEX): definition and why people use one"
 description: "A decentralized exchange (DEX) lets users trade directly with each other through an automated process, with no intermediary holding their funds."
 date: 2026-08-27
-redirect:
-  - /XLTguA
 authors:
   - tieubao
 ---

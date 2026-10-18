@@ -1,14 +1,12 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: "Maslow's hierarchy of needs (research note)"
+description: "Maslow's hierarchy of needs is a motivational theory in psychology comprising a five-tier model of human needs, often depicted as hierarchical levels within a pyramid."
+date: 2026-10-18
 tags:
   - design
   - maslow
   - ux
-redirect:
-  - /eeOaKA
 ---
 
 ![](https://www.simplypsychology.org/maslow-5.jpg)

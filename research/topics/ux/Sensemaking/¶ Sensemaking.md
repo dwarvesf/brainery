@@ -15,7 +15,7 @@ Focusing more heavily on cultures rather than individuals, sensemaking seeks to 
 
 Sensemaking is a process of analytical empathy that seeks to understand not just what happened, but how people relate to what happened. It is less interested in what people think about things than the structures that undergird that thinking.
 
-Madsbjerg positions sensemaking in opposition to what he calls [[Cultural bias toward scientific models leaves us less equipped to interpret qualitative information | algorithmic thinking]]. Where the latter is broad and shallow, sensemaking is concrete, deep, and rich.
+Madsbjerg positions sensemaking in opposition to what he calls [algorithmic thinking](quant-data-is-lossy.md). Where the latter is broad and shallow, sensemaking is concrete, deep, and rich.
 
 Sensemaking helps us identify the most appropriate contexts for data collection, and then helps us bring that data together into a perspective on the world. It doesn't provide strict turn-by-turn directions, but a north star we can use to orient ourselves.
 

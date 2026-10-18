@@ -10,6 +10,8 @@ tags:
 redirect:
   - /culture
   - /UJN9wA
+  - /research/topics/wealth/skillmax
+  - /wealth/skillmax
 slug: culture
 ---
 

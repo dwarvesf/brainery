@@ -1,13 +1,11 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: How to work with all the MBTI types (research note)
+description: The best practices to work with all MBTI types, ref from Atlassian.
+date: 2026-10-18
 tags:
   - mbti
   - team-building
-redirect:
-  - /qP3rlQ
 ---
 
 The best practices to work with all MBTI types, ref from Atlassian

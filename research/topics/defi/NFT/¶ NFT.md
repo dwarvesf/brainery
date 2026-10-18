@@ -1,10 +1,8 @@
 ---
-draft: false
+draft: true
 title: "NFT: what non-fungible tokens are, their standards and storage"
 description: "NFT stands for non-fungible token, a token that represents ownership of a rare digital good such as artwork or a collectible."
 date: 2026-08-27
-redirect:
-  - /NjozjA
 authors:
   - tieubao
 ---
@@ -45,3 +43,5 @@ Storage:
 - https://finematics.com/what-are-nfts-and-how-can-they-be-used-in-defi/
 
 Follows Finematics, [What Are NFTs and How Can They Be Used in DeFi?](https://finematics.com/what-are-nfts-and-how-can-they-be-used-in-defi/).
+
+Adapted from David Drysdale's Moby Diction notes.

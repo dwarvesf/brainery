@@ -1,11 +1,9 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: XML and JSON (research note)
+description: Markup language, to store and process data into computer readable-format.
+date: 2026-10-18
 tag: data
-redirect:
-  - /H3HdeQ
 ---
 
 ### XML

@@ -1,16 +1,14 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Proof of Personhood
+description: "I, robot (2004): crypto version."
+date: 2026-10-18
 tags:
   - blockchain
   - web3
-redirect:
-  - /c4NSUw
 ---
 
-# I, robot (2004): crypto version
+## I, robot (2004): crypto version
 
 **What is the Turing Test？**
 

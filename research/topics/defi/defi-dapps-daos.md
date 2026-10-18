@@ -17,6 +17,21 @@ redirect:
   - /fLduHg
   - /research/topics/defi/uniswap/dao
   - /aPAPaw
+  - /research/topics/defi/definition
+  - /XLTguA
+  - /research/topics/defi/nft/challenges
+  - /Gjge0A
+  - /research/topics/defi/nft/community-owned-characters
+  - /sAfPxA
+  - /research/topics/defi/nft/nft
+  - /NjozjA
+  - /research/topics/defi/unstoppable-code
+  - /1noeuw
+  - /defi/definition
+  - /defi/nft/challenges
+  - /defi/nft/community-owned-characters
+  - /defi/nft/nft
+  - /defi/unstoppable-code
 ---
 
 DeFi, DApps and DAOs describe three layers of the same idea. DeFi is the set of financial services that run on blockchains. DApps are the applications those services are built as. DAOs are the organizations that govern them without a central authority. This note defines each one, then covers how a DApp is put together and where DAOs are used.

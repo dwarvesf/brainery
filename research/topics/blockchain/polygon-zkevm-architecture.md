@@ -1,6 +1,6 @@
 ---
-draft: false
-title: Polygon zkEVM architecture
+draft: true
+title: polygon-zkevm-architecture (research note)
 description: This article provides an overview of the Polygon zkEVM architecture, including its main components, how it works, and its benefits.
 date: 2023-01-03
 authors:
@@ -11,8 +11,6 @@ tags:
   - evm
   - polygon
   - zk-rollup
-redirect:
-  - /W0MdwQ
 ---
 
 ## Polygon zkEVM architecture

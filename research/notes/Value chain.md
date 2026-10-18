@@ -1,14 +1,12 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Value chain (research note)
+description: After analyzing Human needs, we all understand where humans incentive comes from. However, we do not work alone, but with many people. Each person in a group of people.
+date: 2026-10-18
 tags:
   - design
   - ux
   - value-chain
-redirect:
-  - /t3kYUA
 ---
 
 After analyzing [[Human needs]], we all understand where humans incentive comes from. However, we do not work alone, but with many people. Each person in a group of people has their own needs to motivate their action, actions are linked together to form a chain of activities, creating things, images, it called a **value chain**. For example, a project's value chain includes management design, implementation, quality assurance, and delivery to users. Each participant in the project provides value so that the product is fully built, if one of those values is lost, the product will not deliver well, or sometimes cannot be made.
@@ -30,3 +28,5 @@ We can see whether there is an implicit relationship between nodes, if not then 
 - [[Human needs]]
 - [[Domain Research Framework]]
 - [[§ UX Research]]
+
+Adapted from David Drysdale's Moby Diction notes.

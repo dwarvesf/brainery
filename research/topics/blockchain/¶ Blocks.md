@@ -10,6 +10,8 @@ tags:
   - blockchain
 redirect:
   - /8DodyQ
+  - /research/notes/london-mainnet-side-note
+  - /4hnW3g
 ---
 
 ## Blocks

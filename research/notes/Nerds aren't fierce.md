@@ -1,13 +1,11 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: "Nerds aren't fierce (research note)"
+description: to be a nerd is to be socially awkward.
+date: 2026-10-18
 tags:
   - developer
   - insight
-redirect:
-  - /GxzNNw
 ---
 
 `to be a nerd is to be socially awkward`

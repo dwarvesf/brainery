@@ -12,6 +12,9 @@ tags:
   - smart-contract
 redirect:
   - /GS5dBg
+  - /research/topics/defi/smart-contract
+  - /eBsb5A
+  - /defi/smart-contract
 ---
 
 ## Smart contracts

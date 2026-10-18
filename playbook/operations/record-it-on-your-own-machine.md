@@ -11,6 +11,8 @@ tags:
 slug: record-it-on-your-own-machine
 redirect:
   - /essays/record-it-on-your-own-machine
+  - /research/notes/recording-flow
+  - /ngxh3y8
 ---
 
 You give a talk on a Discord stage. Record it on your own machine.

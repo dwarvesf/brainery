@@ -13,6 +13,11 @@ tags:
   - system-design
 redirect:
   - /4C8YXg
+  - /research/notes/xml-and-json
+  - /H3HdeQ
+  - /research/topics/data/introduction-to-apache-pig
+  - /data/introduction-to-apache-pig
+  - /FGFsgw
 ---
 
 ![](assets/a-lens-to-modern-data-engineering.png)

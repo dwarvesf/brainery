@@ -1,13 +1,11 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: The three kinds of non-fiction books (research note)
+description: "There are three kinds of non-fiction book: 💁‍♀️ narrative, 🌳 tree, and 🌿 branch."
+date: 2026-10-18
 tags:
   - book
   - reading
-redirect:
-  - /ISXoQw
 ---
 
 There are three kinds of non-fiction book: 💁‍♀️ narrative, 🌳 tree, and 🌿 branch.

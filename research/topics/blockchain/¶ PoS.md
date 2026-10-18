@@ -12,6 +12,11 @@ tags:
   - po-s
 redirect:
   - /CHTrmw
+  - /research/notes/202204212022-proof-of-personhood
+  - /c4NSUw
+  - /research/topics/defi/economic-limits-of-proof-of-stake-blockchains
+  - /NnFtxg
+  - /defi/economic-limits-of-proof-of-stake-blockchains
 ---
 
 ## The proof of stake

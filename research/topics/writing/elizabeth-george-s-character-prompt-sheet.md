@@ -1,10 +1,8 @@
 ---
-draft: false
+draft: true
 title: "Elizabeth George's character prompt sheet"
 description: Discover Elizabeth George’s character development prompt sheet from *Mastering the Process* to create rich, believable characters using simple, freewriting prompts that inspire story depth and detail.
 date: 2026-08-27
-redirect:
-  - /6DnVmQ
 authors:
   - tieubao
 ---
@@ -51,3 +49,5 @@ In _Mastering the Process: From Idea to Novel_, Elizabeth George offers a prompt
 #### Related
 
 George, Elizabeth. _Mastering the Process: From Idea to Novel_. Viking, 2020.
+
+Adapted from David Drysdale's Moby Diction notes.

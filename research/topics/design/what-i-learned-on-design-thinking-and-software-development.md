@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Design thinking and the software development life cycle: lessons learned"
 description: Learn how design thinking and the Software Development Life Cycle (SDLC) guide software projects to create user-focused products efficiently with quality, budget, and time management.
 date: 2021-05-10
@@ -7,8 +7,6 @@ authors:
   - tieubao
 tags:
   - design-thinking
-redirect:
-  - /UjlC1g
 ---
 
 I'm Huyen Le - newcomer of Dwarves Foundation. Last week, I was taught under the instruction of Khai Le about design thinking and how it works in a design process of a software project. So I decided to write a recap of what I've learned.

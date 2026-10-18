@@ -1,13 +1,11 @@
 ---
-draft: false
-title: Note
-description: null
-date: null
+draft: true
+title: "Uniswap: pools, swaps and fees (research note)"
+description: Uniswap is a leading decentralized crypto exchange that runs on the Ethereum blockchain.
+date: 2026-10-18
 tags:
   - blockchain
   - defi
-redirect:
-  - /M1Tg9g
 ---
 
 ### Uniswap

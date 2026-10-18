@@ -1,10 +1,8 @@
 ---
-draft: false
-title: Smart contract
-description: null
-date: null
-redirect:
-  - /eBsb5A
+draft: true
+title: smart-contract (research note)
+description: Also known as contract programming, programming by contract and design-by-contract programming, is an approach for designing software.
+date: 2026-10-18
 ---
 
 ## Design by contract

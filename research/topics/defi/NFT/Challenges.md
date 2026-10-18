@@ -1,10 +1,8 @@
 ---
-draft: false
+draft: true
 title: "Challenges for community-owned NFT characters run by a DAO"
 description: "Four open questions for DAOs that own NFT characters: how much to put to a vote, who runs daily administration, how to protect quality and how to bring off-chain revenue on-chain."
 date: 2026-08-27
-redirect:
-  - /Gjge0A
 authors:
   - tieubao
 ---

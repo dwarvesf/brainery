@@ -1,10 +1,8 @@
 ---
-draft: false
+draft: true
 title: "Stock and flow: Robin Sloan on balancing evergreen and fresh content"
 description: 'Learn how Robin Sloan''''s "stock and flow" theory helps creators balance evergreen content with fresh updates to grow long-term traffic and audience engagement effectively.'
 date: 2026-08-27
-redirect:
-  - /EiZu3A
 authors:
   - tieubao
 ---
@@ -16,3 +14,5 @@ authors:
 #### Citations
 
 Kleon, Austin. _Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered_. New York: Workman, 2014.
+
+Adapted from David Drysdale's Moby Diction notes.

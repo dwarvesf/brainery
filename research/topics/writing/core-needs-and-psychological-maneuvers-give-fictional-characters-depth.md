@@ -1,10 +1,8 @@
 ---
-draft: false
+draft: true
 title: "Give fictional characters depth with core needs and psychological maneuvers"
 description: "Learn how to create deep, multidimensional characters by exploring their core needs and psychological maneuvers, key concepts from Elizabeth George's _Mastering the Process: From Idea to Novel_."
 date: 2026-08-27
-redirect:
-  - /7y0HAQ
 authors:
   - tieubao
 ---
@@ -58,3 +56,5 @@ Examples of a psychological maneuver might include:
 #### Citations
 
 George, Elizabeth. _Mastering the Process: From Idea to Novel_. Viking, 2020.
+
+Adapted from David Drysdale's Moby Diction notes.

@@ -10,6 +10,13 @@ tags:
   - human-in-the-loop
   - agent-systems
   - decision-making
+redirect:
+  - /research/topics/agentic/agent-layer
+  - /research/topics/agentic/agentic-architecture
+  - /research/topics/agentic/approach
+  - /topics/agentic/agent-layer
+  - /topics/agentic/agentic-architecture
+  - /topics/agentic/approach
 ---
 
 **Agents are getting scary good at making decisions.** We're moving from prompt engineering to actual delegation, where AI systems handle complex workflows with minimal human oversight. But just because agents can make decisions doesn't mean they should make all of them.

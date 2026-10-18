@@ -1,14 +1,12 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Skandhas - the five aggregates (research note)
+description: "Skandhas means \"heaps, aggregates, collections, groupings\". In Buddhism, it refers to the five aggregates of clinging, the five material and mental factors that take."
+date: 2026-10-18
 tags:
   - process
   - skandhas
   - ux
-redirect:
-  - /QwUtbw
 ---
 
 ![](http://payattention.ca/wp-content/uploads/2020/09/5aggregates-1080x675.jpg)

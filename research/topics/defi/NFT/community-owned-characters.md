@@ -1,10 +1,8 @@
 ---
-draft: false
+draft: true
 title: "Community-owned NFT characters: DAOs, tokens and well-known examples"
 description: "How DAOs let creators around the world form NFT characters and communities with real money, plus three well-known NFT character projects."
 date: 2026-08-27
-redirect:
-  - /sAfPxA
 authors:
   - tieubao
 ---

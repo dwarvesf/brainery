@@ -12,6 +12,9 @@ tags:
   - ethereum
 redirect:
   - /rIxY9A
+  - /research/topics/blockchain/polygon-zkevm-architecture
+  - /blockchain/polygon-zkevm-architecture
+  - /W0MdwQ
 ---
 
 ## What?

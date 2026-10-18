@@ -229,7 +229,7 @@ These notes link out to others in the research vault:
 - [[Narratives generate real-world effects]]
 - [[Narratives enable us to act decisively in conditions of uncertainty]]
 - [[Brains have evolved to minimize surprise]]
-- [[Rationalistic models of human behaviour are limiting]]
+- [Rationalistic models of human behaviour are limiting](../ux/Sensemaking/quant-data-is-lossy.md)
 - [[≈ The Opposable Mind]]
 
 ## References

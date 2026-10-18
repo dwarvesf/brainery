@@ -11,6 +11,23 @@ redirect:
   - /WAaSTA
   - /research/topics/writing/flashbulb-memory
   - /jWqA6g
+  - /research/notes/the-three-kinds-of-non-fiction-books
+  - /ISXoQw
+  - /research/topics/writing/euphemisms-signal-discomfort
+  - /ICjhqA
+  - /research/topics/writing/core-needs-and-psychological-maneuvers-give-fictional-characters-depth
+  - /7y0HAQ
+  - /research/topics/writing/elizabeth-george-s-character-prompt-sheet
+  - /6DnVmQ
+  - /research/topics/writing/give-abstract-concepts-a-human-face
+  - /dhWMQg
+  - /research/topics/writing/stock-and-flow
+  - /EiZu3A
+  - /topics/writing/euphemisms-signal-discomfort
+  - /topics/writing/core-needs-and-psychological-maneuvers-give-fictional-characters-depth
+  - /topics/writing/elizabeth-george-s-character-prompt-sheet
+  - /topics/writing/give-abstract-concepts-a-human-face
+  - /topics/writing/stock-and-flow
 authors:
   - tieubao
 ---
@@ -29,7 +46,7 @@ authors:
 
 ## Blogging
 
-- [[¶ Stock and Flow]]
+- ¶ Stock and Flow
 
 ## Story structure
 
