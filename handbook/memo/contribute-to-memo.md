@@ -385,7 +385,7 @@ A Discord username is the wrong value. Discord names create wrong pages, and the
 
 ![](assets/contribute-to-memo-fig9-shot-contributor.png)
 
-_Fig. 9: A contributor page with its badge._
+_Fig. 9: A contributor page: name, avatar, linked GitHub and Discord accounts, and a DID. Memo shows no team or fellow badge on this page today._
 
 The page shows a name, an avatar, a bio and links when the contributor has a profile record. A handle with no profile still gets a page. It shows the handle as the name and no picture. The badge comes from who you are: team by default, fellow when the profile marks you as alumni, guest when the registry has badged you. Guest writers get a handle that memo assigns, so they never choose a byline in frontmatter.
 
