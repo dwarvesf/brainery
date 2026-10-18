@@ -4,7 +4,7 @@ description: 'A short note on why an indie game aimed at Vietnam should choose i
 date: 2026-10-07
 authors:
   - phucld
-  - 0xm
+  - minhluuquang
   - huymaius
   - baddeed
 tags:
