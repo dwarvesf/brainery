@@ -5,8 +5,6 @@ slug: software-testing-101
 kind: reference
 announce: false
 date: 2026-10-18
-authors:
-  - duynglam
 tags:
   - "101"
   - engineering

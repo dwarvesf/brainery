@@ -5,8 +5,6 @@ slug: cloud-and-microservice-patterns
 kind: reference
 announce: false
 date: 2026-10-18
-authors:
-  - tieubao
 tags:
   - microservice
   - cloud-pattern

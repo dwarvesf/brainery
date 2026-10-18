@@ -5,8 +5,6 @@ slug: product-management-basics
 kind: reference
 announce: false
 date: 2026-10-18
-authors:
-  - duynglam
 tags:
   - product
   - roadmap
