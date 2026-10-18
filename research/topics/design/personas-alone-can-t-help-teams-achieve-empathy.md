@@ -5,8 +5,8 @@ description: Discover why personas alone may not build true user empathy in desi
 date: 2026-08-27
 redirect:
   - /33cgpw
-authors:
-  - tieubao
+authors: []
+credit: David Drysdale (Moby Diction)
 ---
 
 Personas are frequently cited as helping development teams achieve empathy for their users.

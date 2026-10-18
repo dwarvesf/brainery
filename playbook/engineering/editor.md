@@ -5,8 +5,8 @@ date: null
 kind: note
 redirect:
   - /I53IiA
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 ---
 
 Right now our team is scattered between VSCode and Emacs (Spacemacs).

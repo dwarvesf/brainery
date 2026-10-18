@@ -4,8 +4,8 @@ description: How we run code review, covering the pull request flow, review prin
 date: null
 redirect:
   - /TeWzXQ
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 ---
 
 How we do code review.

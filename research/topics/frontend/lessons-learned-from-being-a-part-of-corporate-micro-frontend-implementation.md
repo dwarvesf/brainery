@@ -3,8 +3,8 @@ draft: false
 title: "Lessons learned from a corporate micro-frontend implementation"
 description: Discover how micro-frontend architecture boosts large-scale frontend development with independent teams, shared components, and efficient communication for scalable, maintainable, and collaborative web applications.
 date: 2023-04-24
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 tags:
   - micro-frontend
   - web

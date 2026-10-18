@@ -5,8 +5,8 @@ description: Explore the limits of traditional personas and discover alternative
 date: 2026-08-27
 redirect:
   - /myobfQ
-authors:
-  - tieubao
+authors: []
+credit: David Drysdale (Moby Diction)
 ---
 
 Personas have a number of shortcomings:

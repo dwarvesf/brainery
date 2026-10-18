@@ -5,13 +5,11 @@ description: Learn how to craft powerful scenes using large-scale structures lik
 date: 2026-08-27
 redirect:
   - /rWcN8Q
-authors:
-  - tieubao
+authors: []
+credit: David Drysdale (Moby Diction)
 ---
 
 A well-crafted scene comprises both a large-scale structure and a small-scale structure.
-
-![The-Overall-Scene-Structure-by-Better-Novel-Project.png](https://publish-01.obsidian.md/access/5bf4c22f8416d93237aa3630d0fd9c7c/assets/The-Overall-Scene-Structure-by-Better-Novel-Project.png)
 
 ## Large-scale structure
 
@@ -52,3 +50,5 @@ Each scene and sequel is a series of MRUs.
 #### Citation
 
 Ingermanson, Randy. “Writing The Perfect Scene: Advanced Fiction Writing Tips.” _Advanced Fiction Writing_ (blog). Accessed January 9, 2021. [Link](https://www.advancedfictionwriting.com/articles/writing-the-perfect-scene/).
+
+Adapted from David Drysdale's Moby Diction notes.

@@ -3,8 +3,8 @@ draft: false
 title: "The key security mechanisms for tackling cyber threats"
 description: Learn essential cybersecurity tips from expert Hieu PC on building secure products, protecting data, and staying updated on security standards to prevent hacking and safeguard your code effectively.
 date: 2022-12-26
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 tags:
   - dwarves
   - engineering

@@ -4,8 +4,8 @@ description: How we approach continuous integration and delivery, covering pract
 date: null
 redirect:
   - /fa8afg
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 ---
 
 ## What

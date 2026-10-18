@@ -3,8 +3,8 @@ draft: false
 title: "How blue-green deployment helped Mochi Bot ship updates"
 description: Learn how implementing blue-green deployment with Argo Rollouts on Kubernetes improved Mochi Bot’s updates by eliminating downtime and ensuring seamless releases for Web3 Discord applications.
 date: 2023-04-03
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 tags:
   - performance
   - devops

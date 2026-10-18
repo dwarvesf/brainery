@@ -4,7 +4,7 @@ title: "An infinite image gallery with react-three-fiber"
 description: Learn how to create an infinite image gallery with react-three-fiber featuring smooth mouse navigation and WebGL distortion effects for an endless 3D browsing experience.
 date: 2020-09-14
 authors:
-  - tieubao
+  - ngolapnguyen
 tags:
   - tutorial
 redirect:

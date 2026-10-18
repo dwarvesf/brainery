@@ -7,8 +7,8 @@ hide_title: true
 pinned: true
 redirect:
   - /xUhOSA
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 ---
 
 ## About Dwarves consulting

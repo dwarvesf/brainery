@@ -4,8 +4,9 @@ description: Why to write the README before the code, summarized from the Readme
 date: null
 redirect:
   - /wxC4HA
-authors:
-  - tieubao
+authors: []
+credit: Tom Preston-Werner (Readme Driven Development)
+credit_url: "http://tom.preston-werner.com/2010/08/23/readme-driven-development.html"
 ---
 
 ### A perfect implementation of the wrong specification is worthless

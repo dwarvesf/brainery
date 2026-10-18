@@ -5,8 +5,8 @@ description: Learn how job stories focus on user context and motivations to impr
 date: 2026-08-27
 redirect:
   - /7ZoAEw
-authors:
-  - tieubao
+authors: []
+credit: David Drysdale (Moby Diction)
 ---
 
 A "job story" is an alternative to the traditional user story format. In contrast to the user story, which foregrounds the persona performing an action, a job story highlights the context in which the action is performed.

@@ -2,8 +2,8 @@
 title: UX
 description: A two-phase UX research framework (gather data, then analyze it) covering interviews, competitor analysis, personas, journey maps and flows.
 date: 2023-10-16
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 tags:
   - design
   - playbook

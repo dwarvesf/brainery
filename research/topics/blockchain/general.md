@@ -11,8 +11,8 @@ redirect:
   - /research/topics/blockchain/precautions
   - /blockchain/precautions
   - /y1jyKw
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 ---
 
 ### 1. Abstract-vs-interfaces

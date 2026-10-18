@@ -3,8 +3,8 @@ draft: false
 title: "How we set up CI/CD at Dwarves"
 description: Learn how Dwarves simplifies CI/CD with Gitlab, Github Actions, automated linting, testing, previewing, building Docker images, and deploying to Kubernetes for faster, reliable software delivery.
 date: 2021-02-16
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 tags:
   - devops
 redirect:

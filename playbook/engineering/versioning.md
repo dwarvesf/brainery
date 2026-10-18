@@ -4,8 +4,8 @@ description: How we version software with Semantic Versioning (MAJOR.MINOR.PATCH
 date: null
 redirect:
   - /aorrpw
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 ---
 
 Larger applications consists of multiple components that reference each other and rely on compatibility of the interfaces of the components.

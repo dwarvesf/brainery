@@ -3,8 +3,8 @@ draft: false
 title: "Git commit message convention: types, scopes and subjects"
 description: "Learn how to write clear git commit messages using types, scopes, and subjects with practical examples to improve your team's coding workflow and commit history."
 date: 2021-04-06
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 tags:
   - git
 redirect:

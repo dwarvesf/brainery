@@ -4,8 +4,8 @@ description: How we evaluate technology with a tech radar, and the tools, techni
 date: null
 redirect:
   - /h2928Q
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 ---
 
 ### Our perspective on technology

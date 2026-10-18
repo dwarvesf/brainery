@@ -4,8 +4,9 @@ description: Backend practices covering the N commandments, data persistence cho
 date: null
 redirect:
   - /dNPWQw
-authors:
-  - tieubao
+authors: []
+credit: Futurice
+credit_url: "https://github.com/futurice/backend-best-practices"
 ---
 
 - [N commandments](#n-commandments)

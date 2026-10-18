@@ -3,8 +3,9 @@ draft: false
 title: Working with legacy code
 description: Learn how to navigate large, established codebases without losing your sanity. Discover technical strategies, cultural insights, and AI assistance for thriving in complex systems.
 date: 2024-12-19
-authors:
-  - tieubao
+authors: []
+credit: Sean Goedecke
+credit_url: "https://www.seangoedecke.com/large-established-codebases/"
 tags:
   - legacy-code
   - technical-debt

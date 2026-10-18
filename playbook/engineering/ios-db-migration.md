@@ -4,8 +4,8 @@ description: How to migrate Core Data models in iOS apps with the progressive mi
 date: null
 redirect:
   - /h7hxNA
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 ---
 
 Database migration is one of the most important aspects of software development in general and of iOS development in specific. If we do not handle it correctly, it would cause some bad user experiences, such as data loss, app crashing, etc. And finally, lead to the bad reputation for the company. So, we **MUST** handle it correctly. And this post is a lighthouse which lead you to the right path.
