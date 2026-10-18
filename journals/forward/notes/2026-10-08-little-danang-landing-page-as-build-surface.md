@@ -5,7 +5,7 @@ date: 2026-10-08
 authors:
   - baddeed
   - phucld
-  - 0xm
+  - minhluuquang
 tags:
   - indie-games
   - launch
