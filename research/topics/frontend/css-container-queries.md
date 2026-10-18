@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Css container queries
+title: Container queries in CSS
 description: Container Queries is a CSS feature that allows us to style elements based on the size of a container.
 date: 2022-09-02
 authors:
@@ -27,7 +27,7 @@ The CSS3 property "container queries" allows us to style elements based on the s
 
 ## How to use Container Queries?
 
-To query a component based on its parent width, we need to use the `container-type` property with possible values: `size`, `inline-size`, `block-size`, `style`, `state`.
+To query a component based on its parent width, we need to use the `container-type` property. Its values are `normal` (the default), `size`, `inline-size`, and `scroll-state` ([MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/container-type)). Use `inline-size` for width-based queries.
 
 ```css
 .sidebar {
@@ -74,11 +74,12 @@ Then, to query a specific container, we can use `@container` with `container-nam
 
 ## Browser support
 
-Currently, Container Queries is only available in [modern browsers](https://caniuse.com/?search=Container%20Queries):
+Container Queries is available in all major browsers and has been [Baseline "widely available" since February 2023](https://developer.mozilla.org/en-US/docs/Web/CSS/container-type). First supported versions, per [MDN browser compat data](https://github.com/mdn/browser-compat-data/blob/main/css/properties/container-type.json):
 
 - Chrome 105+
-- Safari 15+
 - Edge 105+
+- Safari 16+
+- Firefox 110+
 
 Universal support can be achieved by using [Polyfill](https://github.com/GoogleChromeLabs/container-query-polyfill).
 

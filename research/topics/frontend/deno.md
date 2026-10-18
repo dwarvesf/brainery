@@ -10,6 +10,8 @@ authors:
   - huygn
 ---
 
+_Snapshot from 2022. Some tools and numbers have changed._
+
 ## What
 
 - A new JavaScript runtime, written in Rust (JsVM 💃🏻)
@@ -35,6 +37,8 @@ authors:
 - dependencies on Deno are imported by URL, so it makes it somewhat messy, but [`import map`](https://deno.land/manual/linking_to_external_code/import_maps) can be used to improve readability
   - `import lodash from "https://deno.land/x/lodash@4.17.19"`
   - `deno` will download available imports online and cache locally before running
+
+Update (2026): Deno 2 added Node and npm compatibility. It reads `package.json` and `node_modules`, imports npm packages with `npm:` specifiers, and adds `deno install` ([Deno 2.0](https://deno.com/blog/v2.0), [Node and npm docs](https://docs.deno.com/runtime/fundamentals/node/)). So the "no `package.json`" and URL-only import points above no longer describe how most Deno projects work.
 
 ## What about Node.js?
 
@@ -64,6 +68,8 @@ Deno, on the other hand, strives to move along with the modern JavaScript standa
 Similar to Cloudflare Workers, Deno deploy is a serverless deployment platform using the Service Worker API to create deployments, currently in (free) public beta.
 
 What's really cool about Deno deploy is that it only requires a link to your entry file to deploy, and deploy time is super fast.
+
+Update (2026): the Deno Deploy described here is now called Deploy Classic. The new Deno Deploy is a rework of it on Deno 2, and Deploy Classic was announced to shut down on July 20, 2026 ([Deno Deploy docs](https://docs.deno.com/deploy/)).
 
 ![](assets/deno_gygtlws.webp)
 

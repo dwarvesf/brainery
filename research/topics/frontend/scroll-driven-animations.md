@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Scroll-driven animations
+title: Scroll-driven animations in CSS
 description: Scroll-driven animations are popular effects used in web design. They are animations that are connected to the scroll position of a scroll container.
 date: 2023-06-01
 authors:
@@ -27,7 +27,7 @@ The Scroll-driven Animations Specification defines two new types of timelines th
 
 ### Scroll progress timeline
 
-A **Scroll progress timeline** is an animation timeline that is linked to progress in the scroll position of a scroll container–also called scrollport or scroller–along a particular axis. It converts a position in a scroll range into a percentage of progress.
+A **Scroll progress timeline** is an animation timeline that is linked to progress in the scroll position of a scroll container (also called scrollport or scroller) along a particular axis. It converts a position in a scroll range into a percentage of progress.
 
 The starting scroll position represents 0% progress and the ending scroll position represents 100% progress. In the following visualization, you can see that the progress counts up from 0% to 100% as you scroll the scroller from top to bottom.
 
@@ -103,7 +103,7 @@ In our case, to bind an animation to the root scroller on the block axis, you ca
 
 You can find the full code of this example at this [link](https://codepen.io/Levi-ackerman/pen/BaqeENy)
 
-Note: Make sure you run this example in Chrome 115 or above with the 'Experimental Web Platform Features' enabled.
+Note: Make sure you run this example in a browser that supports scroll-driven animations. Chrome 115 and above ship it without a flag, so 'Experimental Web Platform Features' is no longer needed. Safari 26 and Firefox 159 also support `animation-timeline` ([MDN browser compat data](https://github.com/mdn/browser-compat-data/blob/main/css/properties/animation-timeline.json)). MDN still marks it [limited availability](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-timeline), so wrap it in `@supports (animation-timeline: scroll())`.
 
 That's it! With just a few lines of CSS code, we've created an awesome scroll animation. You can create many amazing animations with Scroll-driven Animation. To discover more examples, please check the reference link.
 

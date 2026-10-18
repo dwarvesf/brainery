@@ -12,6 +12,8 @@ redirect:
   - /RVm9gg
 ---
 
+_Snapshot from 2020. Some tools and numbers have changed._
+
 This talk is created from my experiences & lesson learnt, the rule and self-code I've built and believe to be applicable. So I can guarantee you may not find some of it in any other places on the internet.
 
 ## Color style naming convention

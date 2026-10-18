@@ -1,6 +1,6 @@
 ---
 draft: false
-title: React 18
+title: React 18 feature quick guide
 description: React 18 was released in March 2022. This release focuses on performance improvements and updating the rendering engine.
 date: 2022-06-06
 authors:
@@ -173,6 +173,8 @@ const root = createRoot(container); // createRoot(container!) if you use TypeScr
 root.render(<App tab="home" />);
 
 ```
+
+Update (2026): React 19 has shipped and the current line is [19.3](https://react.dev/versions). The old `render` from `react-dom` is removed in React 19, so `createRoot` is no longer optional ([React 19 upgrade guide](https://react.dev/blog/2024/04/25/react-19-upgrade-guide)).
 
 ## Conclusion
 
