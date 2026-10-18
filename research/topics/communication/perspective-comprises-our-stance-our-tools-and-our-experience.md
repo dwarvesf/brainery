@@ -1,10 +1,9 @@
 ---
-draft: false
+draft: true
 title: "Perspective as the mix of our stance, our tools and our experience"
 description: Learn how perspective is shaped by the interaction of stance, tools, and experience to better understand and approach complex problems effectively.
 date: 2026-08-27
-redirect:
-  - /zR3teQ
+redirect: []
 authors:
   - tieubao
 ---

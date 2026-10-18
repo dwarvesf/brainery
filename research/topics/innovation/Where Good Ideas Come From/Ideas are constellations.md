@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Ideas are constellations (reading note)"
 description: "Ideas are not self-contained, discrete objects."
 date: 2026-08-27
@@ -10,8 +10,7 @@ tags:
   - idea
   - innovation
   - writing
-redirect:
-  - /gKhUFw
+redirect: []
 ---
 
 Ideas are not self-contained, discrete objects. Rather, they emerge as connections between different thoughts and concepts.

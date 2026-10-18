@@ -99,7 +99,7 @@ Three fields are required: `title`, `description` and `date`. Playbooks and hand
 
 The lint does not parse YAML. It counts any `key:` line as a top-level key and wants exactly one colon outside quotes on each. A title like `Why: a thing` fails until you quote it. Put nested values on one line in flow style, and quote a numeric tag such as `"101"`.
 
-The lint treats everything else as optional: `authors`, `tags`, `kind`, `series`, `image` and `redirect`. Set `authors` anyway, or the post credits nobody. A moved file keeps its slug and appends its old URL to `redirect:`. `draft: true` hides a page in production, and a draft cannot be a redirect target. Two things never go in the frontmatter. An `evidence` key is out because the build derives the tier from the folder. A Discord name in `authors` is out because it creates a wrong contributor page, which chapter 7 covers.
+The lint treats everything else as optional: `authors`, `tags`, `kind`, `series`, `image` and `redirect`. Set `authors` anyway, or the post credits nobody. A page adapted from someone outside the contributor list sets `credit: <source name>` instead (add a quoted `credit_url:` for a link) and leaves `authors: []`. The byline then reads "Adapted from <source name>" and links no contributor page. A moved file keeps its slug and appends its old URL to `redirect:`. `draft: true` hides a page in production, and a draft cannot be a redirect target. Two things never go in the frontmatter. An `evidence` key is out because the build derives the tier from the folder. A Discord name in `authors` is out because it creates a wrong contributor page, which chapter 7 covers.
 
 ### Kinds and word floors
 

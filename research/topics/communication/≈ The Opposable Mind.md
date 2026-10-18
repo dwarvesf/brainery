@@ -1,10 +1,9 @@
 ---
-draft: false
+draft: true
 title: "The Opposable Mind: integrative thinking for complex problems"
 description: Discover how successful leaders use integrative thinking to solve complex problems by combining different perspectives and avoiding simple either/or choices for creative solutions.
 date: 2026-08-27
-redirect:
-  - /e20g1A
+redirect: []
 authors:
   - tieubao
 ---

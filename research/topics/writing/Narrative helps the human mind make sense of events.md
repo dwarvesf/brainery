@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Narrative helps the human mind make sense of events (reading note)"
 description: "The human mind crafts its understanding of events by forming them into a narrative."
 date: 2026-08-21
@@ -8,8 +8,7 @@ tags:
   - narrative
   - story-telling
   - writing
-redirect:
-  - /Bat6pg
+redirect: []
 ---
 
 The human mind crafts its understanding of events by forming them into a narrative. Kahnemann and Tversky’s “representativeness heuristic” suggests that people form expectations based on an idealized story or model, and evaluate expectations based on how well it fits that model rather than probabilities.

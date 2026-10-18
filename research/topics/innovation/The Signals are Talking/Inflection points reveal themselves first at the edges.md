@@ -1,13 +1,12 @@
 ---
-draft: false
+draft: true
 title: "Inflection points reveal themselves first at the edges (reading note)"
 description: "Because strategic inflection points transform the fundamental assumptions under which a business operates, it can be difficult for organizations to fathom the new possibilities that they create."
 date: 2026-08-21
 tags:
   - innovation
   - strategy
-redirect:
-  - /UN9Gog
+redirect: []
 ---
 
 Because strategic inflection points transform the fundamental assumptions under which a business operates, it can be difficult for organizations to fathom the new possibilities that they create. The signs of an inflection point begin on the fringes; only those who are directly in contact with the signs will be able to identify them. It’s important to have an apparatus for identifying them early.

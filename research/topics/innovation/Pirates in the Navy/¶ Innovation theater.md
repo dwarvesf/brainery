@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Innovation theater (reading note)"
 description: "Innovation theater is the creation of shiny workspaces that don't actually produce results."
 date: 2026-08-27
@@ -7,8 +7,7 @@ authors:
   - tieubao
 tags:
   - innovation
-redirect:
-  - /cPPtDw
+redirect: []
 ---
 
 Innovation theater is the creation of shiny workspaces that don't actually produce results. It may be characterized by innovation labs or teams that go through the motions of innovation without ever producing a sustainable business model.

@@ -1,12 +1,11 @@
 ---
-draft: false
+draft: true
 title: "Perspective comprises our stance, our tools, and our experience (reading note)"
 description: "According to Roger Martin, perspective on a given issue is formed by the interaction between three things: our stance, our tools, and our experience."
 date: 2026-08-21
 tags:
   - communication
-redirect:
-  - /PKTgAA
+redirect: []
 ---
 
 According to Roger Martin, perspective on a given issue is formed by the interaction between three things: our **stance**, our **tools**, and our **experience**.

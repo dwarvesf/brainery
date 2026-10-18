@@ -1,10 +1,9 @@
 ---
-draft: false
+draft: true
 title: "Cognitive diversity helps teams solve problems faster and more creatively"
 description: Teams with cognitive diversity solve problems faster and think more creatively than homogeneous groups, showing the value of diverse thinking styles in improving team performance and problem-solving.
 date: 2026-08-27
-redirect:
-  - /IKPLDw
+redirect: []
 authors:
   - tieubao
 ---

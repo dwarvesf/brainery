@@ -1,10 +1,9 @@
 ---
-draft: false
+draft: true
 title: "Use language with necessity (reading note)"
 description: Learn how to write clearly by cutting unnecessary words and focusing only on impactful details that support your main theme for stronger, more effective storytelling.
 date: 2026-08-27
-redirect:
-  - /0dIFgQ
+redirect: []
 authors:
   - tieubao
 ---

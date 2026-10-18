@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: "Common innovation anti-patterns (reading note)"
 description: "There are a number of common anti-patterns among large organizations that stifle innovation."
 date: 2026-08-27
@@ -8,8 +8,7 @@ authors:
 tags:
   - innovation
   - pattern
-redirect:
-  - /rwvjgQ
+redirect: []
 ---
 
 ### Common innovation anti-patterns

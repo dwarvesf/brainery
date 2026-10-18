@@ -1,10 +1,9 @@
 ---
-draft: false
+draft: true
 title: "Good writing makes the familar new (reading note)"
 description: Discover how good writing transforms the familiar into something fresh by creating new perspectives and focusing on themes without distracting the reader.
 date: 2026-08-27
-redirect:
-  - /y9VRFQ
+redirect: []
 authors:
   - tieubao
 ---

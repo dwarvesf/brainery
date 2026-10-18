@@ -1,13 +1,12 @@
 ---
-draft: false
+draft: true
 title: "Different kinds of uncertainty (reading note)"
 description: "Our brains have evolved to deal with uncertainty."
 date: 2026-08-21
 tags:
   - brain-behaviour
   - innovation
-redirect:
-  - /t3uTpQ
+redirect: []
 ---
 
 [[Brains have evolved to minimize surprise|Our brains have evolved to deal with uncertainty]]. Knowing the different kinds can help us better deal with uncertainty.
