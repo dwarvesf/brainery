@@ -4,7 +4,7 @@ description: 'A small operating playbook can turn time-limited model credit into
 date: 2026-10-17
 authors:
   - minhluuquang
-  - thanh.pham
+  - zlatanpham
 tags:
   - ai-agents
   - model-routing

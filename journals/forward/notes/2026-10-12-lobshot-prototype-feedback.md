@@ -3,7 +3,7 @@ title: 'Prototype feedback should separate game feel from growth loops'
 description: 'A build-club thread shows why early playable feedback should sort immediate UX affordances before adding progression and campaign layers.'
 date: 2026-10-12
 authors:
-  - vincent.console
+  - tuanddd
   - baddeed
   - bievh
   - hieuvd
