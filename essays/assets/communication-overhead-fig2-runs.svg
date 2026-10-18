@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid2c" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="330" fill="#12395f"/>
+  <rect width="760" height="330" fill="url(#grid2c)"/>
+  <rect x="0.5" y="0.5" width="759" height="329" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 2 · HOW LONG 3,016 DELEGATIONS RAN</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">FIRST TO LAST EVENT, PER AGENT</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+  <g stroke="#385a7b" stroke-opacity="0.6" stroke-width="1">
+    <line x1="200.0" y1="60" x2="200.0" y2="262"/>
+    <line x1="350.0" y1="60" x2="350.0" y2="262"/>
+    <line x1="500.0" y1="60" x2="500.0" y2="262"/>
+    <line x1="650.0" y1="60" x2="650.0" y2="262"/>
+  </g>
+  <text x="188" y="86" font-size="10.5" fill="#e8f1fa" text-anchor="end">under 2 min</text>
+  <rect x="200" y="70" width="162.3" height="24" fill="#21466a" stroke="#68839d"/>
+  <text x="370.3" y="86" font-size="10.5" fill="#c3d7ea">541 · 17.9%</text>
+  <text x="188" y="128" font-size="10.5" fill="#e8c56a" text-anchor="end">2 to 10 min</text>
+  <rect x="200" y="112" width="414.6" height="24" fill="#e8c56a" stroke="#e8c56a"/>
+  <text x="622.6" y="128" font-size="10.5" fill="#e8c56a">1,382 · 45.8%</text>
+  <text x="188" y="170" font-size="10.5" fill="#e8f1fa" text-anchor="end">10 to 30 min</text>
+  <rect x="200" y="154" width="232.8" height="24" fill="#21466a" stroke="#68839d"/>
+  <text x="440.8" y="170" font-size="10.5" fill="#c3d7ea">776 · 25.7%</text>
+  <text x="188" y="212" font-size="10.5" fill="#e8f1fa" text-anchor="end">30 to 120 min</text>
+  <rect x="200" y="196" width="76.5" height="24" fill="#21466a" stroke="#68839d"/>
+  <text x="284.5" y="212" font-size="10.5" fill="#c3d7ea">255 · 8.5%</text>
+  <text x="188" y="254" font-size="10.5" fill="#e8f1fa" text-anchor="end">over 120 min</text>
+  <rect x="200" y="238" width="18.6" height="24" fill="#21466a" stroke="#68839d"/>
+  <text x="226.6" y="254" font-size="10.5" fill="#c3d7ea">62 · 2.1%</text>
+  <line x1="200" y1="262" x2="650" y2="262" stroke="#68839d" stroke-width="1"/>
+  <g font-size="9.5" fill="#a7c0d9" text-anchor="middle">
+    <text x="200" y="278">0</text><text x="350.0" y="278">500</text><text x="500.0" y="278">1,000</text><text x="650.0" y="278">1,500</text>
+  </g>
+  <text x="425" y="296" font-size="9" letter-spacing="1" fill="#6f8fb0" text-anchor="middle">AGENTS</text>
+  <text x="14" y="318" font-size="9" fill="#6f8fb0">1,923 of 3,016 (63.8%) finished within 10 minutes.</text>
+</svg>

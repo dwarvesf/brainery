@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid3a" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="330" fill="#12395f"/>
+  <rect width="760" height="330" fill="url(#grid3a)"/>
+  <rect x="0.5" y="0.5" width="759" height="329" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 2 · ONE OUTAGE, THIRTY-ONE HOURS</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">HOURS SINCE THE FIRST FAILED LOOKUP</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <!-- axis: x = 70 + hours * 18.5 -->
+  <line x1="70" y1="170" x2="660" y2="170" stroke="#68839d" stroke-width="1.5"/>
+  <g stroke="#68839d" stroke-width="1">
+    <line x1="70" y1="166" x2="70" y2="174"/>
+    <line x1="255" y1="166" x2="255" y2="174"/>
+    <line x1="440" y1="166" x2="440" y2="174"/>
+    <line x1="625" y1="166" x2="625" y2="174"/>
+  </g>
+  <g font-size="9.5" fill="#a7c0d9" text-anchor="middle">
+    <text x="70" y="188">0</text>
+    <text x="255" y="188">10 h</text>
+    <text x="440" y="188">20 h</text>
+    <text x="625" y="188">30 h</text>
+  </g>
+
+  <!-- 0h: first failure -->
+  <circle cx="70" cy="170" r="4" fill="#21466a" stroke="#c3d7ea"/>
+  <line x1="70" y1="166" x2="70" y2="118" stroke="#385a7b"/>
+  <text x="14" y="70" font-size="10" fill="#e8f1fa">02:01</text>
+  <text x="14" y="84" font-size="9" fill="#a7c0d9">first failed</text>
+  <text x="14" y="96" font-size="9" fill="#a7c0d9">lookup</text>
+  <line x1="70" y1="104" x2="70" y2="118" stroke="#385a7b"/>
+
+  <!-- 5h cluster: four resets -->
+  <rect x="160" y="162" width="11" height="16" fill="#21466a" stroke="#68839d"/>
+  <text x="165" y="70" font-size="10" fill="#e8f1fa">07:00 to 07:22</text>
+  <text x="165" y="84" font-size="9" fill="#a7c0d9">four resets,</text>
+  <text x="165" y="96" font-size="9" fill="#a7c0d9">nothing changes</text>
+  <line x1="165" y1="104" x2="165" y2="160" stroke="#385a7b"/>
+
+  <!-- 7.1h: workaround -->
+  <circle cx="201" cy="170" r="4" fill="#21466a" stroke="#c3d7ea"/>
+  <line x1="201" y1="174" x2="201" y2="212" stroke="#385a7b"/>
+  <text x="201" y="224" font-size="10" fill="#e8f1fa">09:06</text>
+  <text x="201" y="237" font-size="9" fill="#a7c0d9">one machine pinned to a</text>
+  <text x="201" y="249" font-size="9" fill="#a7c0d9">public resolver: back up,</text>
+  <text x="201" y="261" font-size="9" fill="#a7c0d9">cause still unknown</text>
+
+  <!-- 20.3h: the comparison -->
+  <circle cx="446" cy="170" r="6" fill="#e8c56a"/>
+  <line x1="446" y1="164" x2="446" y2="110" stroke="#e8c56a"/>
+  <text x="446" y="70" font-size="10" fill="#e8c56a" text-anchor="middle">22:20</text>
+  <text x="446" y="84" font-size="9.5" fill="#e8c56a" text-anchor="middle">the same query with validation</text>
+  <text x="446" y="97" font-size="9.5" fill="#e8c56a" text-anchor="middle">off succeeds: the router is the layer</text>
+
+  <!-- 31.2h: fixed -->
+  <circle cx="647" cy="170" r="4" fill="#21466a" stroke="#c3d7ea"/>
+  <line x1="647" y1="174" x2="647" y2="212" stroke="#385a7b"/>
+  <text x="647" y="224" font-size="10" fill="#e8f1fa" text-anchor="middle">next day 09:12</text>
+  <text x="647" y="237" font-size="9" fill="#a7c0d9" text-anchor="middle">router validation off:</text>
+  <text x="647" y="249" font-size="9" fill="#a7c0d9" text-anchor="middle">fixed for every device</text>
+
+  <!-- the gap -->
+  <line x1="70" y1="288" x2="446" y2="288" stroke="#c3d7ea" stroke-width="1"/>
+  <line x1="70" y1="283" x2="70" y2="293" stroke="#c3d7ea" stroke-width="1"/>
+  <line x1="446" y1="283" x2="446" y2="293" stroke="#c3d7ea" stroke-width="1"/>
+  <text x="258" y="304" font-size="10" fill="#e8f1fa" text-anchor="middle">about 20 hours from first failure to first useful comparison</text>
+  <text x="746" y="318" font-size="8.5" fill="#6f8fb0" text-anchor="end">times are local, 12 to 13 October 2026</text>
+</svg>

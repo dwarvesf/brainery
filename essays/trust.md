@@ -1,9 +1,10 @@
 ---
-title: Building trust as an engineer
-description: Learn how trust grows in concentric circles from your team to company leadership through consistency and competence. Discover practical strategies for maintaining trust with senior leaders and why craft excellence forms the foundation of career advancement.
-date: 2025-01-06
+title: "How trust works at Dwarves: from your team to the people we call first"
+description: Trust grows in three circles, from your team to the people we call first in a crisis. What each circle gets, what membership costs, and how a person or a report loses it.
+date: 2026-10-18
 authors:
   - tieubao
+kind: essay
 tags:
   - culture
   - career
@@ -14,81 +15,69 @@ tags:
 redirect:
   - /culture/trust
   - /PxbhVg
+  - /the-inner-circle
+  - /essays/the-inner-circle
+  - /culture/the-inner-circle
+  - /K91YtA
+  - /as-your-last-delivery
+  - /essays/as-your-last-delivery
+  - /culture/as-your-last-delivery
+  - /PXeiCw
 slug: trust
 ---
 
-Trust opens doors to the work that matters most. The challenging projects, the strategic initiatives, the stuff that actually moves the needle. But trust isn't something you can demand or negotiate for. It's earned through consistency, competence, and the right kind of conversations.
+When production breaks at 2 a.m., leadership calls a short list of engineers first. Nobody appointed them and nobody published the list. This page describes how people get on it, what it costs them, and what takes a name off.
 
-## How trust builds in layers
+![Three circles of trust, from your team to the company {#fig-circles .live}](assets/trust-fig1-circles.svg 'Trust reaches outward in three circles. Amber marks the circle people are called from.')
 
-Trust doesn't happen all at once. It grows in concentric circles, starting small and expanding outward based on your track record.
+## Three circles
 
-**Your team circle**
-This is where it starts. Be reliable, ship quality work, and help your teammates succeed. When your manager needs someone for a critical task, they think of you first. Simple as that.
+Trust doesn't arrive all at once. It grows outward from the people who see your work every day.
 
-**Your organization circle**
-Other managers start noticing your work. Maybe through cross-team projects, maybe because your manager mentions you in leadership meetings. Directors and VPs learn your name. You get invited to planning sessions and strategy discussions.
+**Your team.** Be reliable, ship quality work and help teammates succeed. When your manager needs someone for a critical task, they think of you first.
 
-**The company circle**
-You become one of the go-to engineers across the entire organization. Senior leadership pulls you into high-stakes projects. You're considered a key resource, someone they trust to execute on the company's most important bets.
+**Your organisation.** Other managers notice your work through cross-team projects, or because your manager mentions you in a leadership meeting. Directors learn your name and invite you to planning and strategy discussions.
 
-At Dwarves, this inner circle of trusted engineers becomes part of what we call [the inner circle](the-inner-circle.md) - the people who step up during crises and help steer the company through challenges.
+**The company.** You become one of the go-to engineers across the whole organisation, and senior leadership pulls you into the highest-stakes projects. This is the circle we call the inner circle, the people who step up in a crisis.
 
-Each level requires the previous one. You can't skip steps. Your VP only trusts you because your director does, and your director only trusts you because your manager vouched for you first.
+Each circle vouches for the next one out. A director trusts you partly because your manager already did, so you can't skip a step.
 
-![](assets/trust-circle.png)
+## What the inner circle does and what it costs
 
-## Why trust is fragile at senior levels
+Members take the first call in a crisis, whether it's an outage, a client problem or a change of direction. They give technical input on planning, mentor newcomers, sit in hiring decisions and carry information between the technical and business sides.
 
-The higher you go, the more delicate these relationships become. Senior leaders have enormous institutional power but depend entirely on engineers to get technical work done. They can mobilize hundreds of people toward a goal, but they need your help to understand what's actually possible.
+The price is real. Their work gets scrutinised more closely, so mistakes cost more. They take the assignments others can't or won't handle, which means longer hours and harder problems. They have less say in which project they work on, because the company points them at its highest priorities. And they stay reachable during a crisis, whatever the day.
 
-This creates an unusual dynamic. These are powerful people who genuinely need your expertise, but they have limited technical context to evaluate your advice. They're making decisions worth millions of dollars based on your input. That's why trust matters so much, and why breaking it has serious consequences.
+An earlier version of this page said membership has no set criteria, then listed duties and costs, which are criteria. The criterion is visible in the list: the person kept shipping and kept being right about technical facts. Nobody is invited. A person gets called, and the calls repeat.
 
-## Maintaining trust with leadership
+## The last piece of work counts most
 
-**Keep things confidential**
-When senior leaders share information with you, they're trusting you with company secrets. Don't immediately broadcast "as I discussed with the CEO yesterday" in Slack. Show that you understand the difference between public and private information.
+People weigh your most recent delivery heavily. A strong history doesn't shield a shaky last release, and a solid next one can rebuild what the shaky one cost. We wrote this up once as a Lego tower: everyone talks about the last one you built. It sounds unfair. It also keeps every task a fresh chance to show what you can do.
 
-**Speak their language**
-Your CTO doesn't care about your SLOs when they ask if a feature is working well. They're probably responding to customer feedback or board questions. Figure out what they actually need to know before diving into technical details.
+## Confidentiality is a habit with a report attached
 
-**Get the technical stuff right**
-If you say something is impossible and it turns out to be doable, or if you promise something works when it doesn't, the trust evaporates immediately. Senior leaders can't verify technical details themselves, so they're watching closely for signs that your judgment is sound.
+The usual advice is to keep what leaders tell you out of the public channel. Don't write "as I discussed with the CEO yesterday" where everyone can read it. That advice holds.
 
-**Stay in your management chain**
-It's tempting to help managers from other organizations who reach out directly. Don't do it. These relationships rarely benefit you during promotion discussions, and they can create tension with your actual manager. If someone outside your org wants your time, involve your manager in the conversation.
+A quieter failure is a secret in a log. On 3 September 2026 an upstream error made two of our workers fail for 40 minutes. One of them carried our live provider API key inside its error message, and every log line and rethrow after it published that message, three or four times over. It was the third incident of that class in five weeks. A person reading a census of the logs found the leak. A scanner didn't. The production deploy of the redaction fix started at 01:47 the next morning, and the key was rotated at 09:19 that day. No misuse turned up.
 
-## Trust in remote teams
+What I weigh in a case like that is the report. It states the blast radius, says that rotation was still pending when it was filed, and says a person caught what the tooling missed. A person who files the full account promptly earns more trust than one whose record stays clean because nobody looked.
 
-Building trust in distributed teams requires extra intentionality. Without face-to-face interactions, you need to be more deliberate about demonstrating reliability and competence.
+## Trust in a report works the same way
 
-**Over-communicate your progress**
-In remote settings, visibility becomes trust. Share updates proactively, document your decisions, and make your work visible to others. When leadership can't see you in the office, they need other signals that you're delivering value.
+I now apply the same layers to agents, because I read their reports the way a director reads mine. A report earns trust by what it checked and how.
 
-**Be reliable across time zones**
-Show up consistently for meetings, respond to messages within reasonable timeframes, and deliver on commitments even when working asynchronously. Your reliability becomes more noticeable when coordination is harder.
-
-**Build relationships intentionally**
-Trust develops through repeated positive interactions. In remote settings, you need to create these opportunities. Contribute meaningfully in video calls, help teammates in Slack, and engage in cross-team discussions that showcase your judgment and expertise.
+An alert-triage bot of ours once posted a verdict that proved right, with two false claims on the way to it. Its git lookups had failed silently in the wrong repository, and a stale context pack filled the gap with a tidy story. The verdict was right for the wrong reasons, which is no basis for trust. Trust attaches to the reasoning behind a verdict. The details are in [the delegation log](communication-overhead.md).
 
 ## When trust breaks
 
-Breaking trust with senior leadership isn't catastrophic for your career, but it does close certain doors. You won't get those direct questions anymore, won't be included in early planning discussions, and won't be top-of-mind for high-visibility projects. The relationship just quietly ends.
+It rarely ends in a confrontation. You stop getting the direct questions. You aren't in the early planning discussions, and you aren't top of mind for high-visibility work. The relationship quietly ends. The cause is practical: if leadership can't rely on your judgment, they find someone they can. If you say something is impossible and it turns out to be doable, or you promise that something works and it doesn't, leaders can't check the details themselves, so they watch for signs your judgment is sound.
 
-This isn't personal vindictiveness. It's practical risk management. If leadership can't rely on your judgment, they'll find someone they can trust instead.
+Remote work adds friction. Without a shared office, visibility stands in for trust: share progress before anyone asks, write your decisions down, answer within a reasonable time across time zones, and show up in cross-team discussions where your judgment can be seen.
 
-## Building trust starts with craft
+## Where this is wrong
 
-Everything else builds on this foundation: be genuinely good at your job. Write clean code, ship on time, help your teammates succeed, and solve problems that matter to the business.
+The criterion rewards what leadership can see. A person who prevents a crisis quietly never enters the room where crises get called. Work that nobody notices doesn't earn the first call.
 
-Trust isn't about politics or networking. It's about demonstrating competence consistently over time. Do excellent work, and the rest follows naturally.
+An unwritten rule also excludes people. A newcomer learns the rule by watching, and watching favours people who already sit near the circle. I haven't measured who gets in and who doesn't, so I can't say how much this costs us.
 
-The most important projects go to engineers who have proven they can handle them. Focus on earning that reputation through your craft, and the opportunities will find you.
-
----
-
-*Trust is the bridge between individual excellence and organizational impact. Build it carefully, maintain it thoughtfully, and use it wisely.*
-
----
-
-> Next: [The inner circle](the-inner-circle.md)
+The same few people get the first call each time, and the cost list above lands on them. I have no data on how long a person stays in the circle before burning out.

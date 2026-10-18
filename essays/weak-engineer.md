@@ -1,4 +1,5 @@
 ---
+draft: true
 title: What makes a strong engineer in the AI era
 description: Explore how AI is redefining engineering excellence beyond technical skills. Learn why critical thinking and communication matter more than coding prowess.
 date: 2025-06-06
@@ -11,9 +12,7 @@ tags:
   - communication
   - critical-thinking
   - culture
-redirect:
-  - /culture/weak-engineer
-  - /63gjpg
+redirect: []
 slug: weak-engineer
 ---
 
@@ -80,4 +79,4 @@ The shift is already happening. Companies that adapt their hiring, training, and
 
 The age of the "10x engineer" who cranks out code in isolation is ending. The future belongs to engineers who can think critically, communicate clearly, and orchestrate AI to solve meaningful problems.
 
-*Sources: Insights from [Sean Goedecke's "Weak Engineers"](https://www.seangoedecke.com/weak-engineers/) and [Hacker News discussion](https://news.ycombinator.com/item?id=42520482).*
+_Sources: Insights from [Sean Goedecke's "Weak Engineers"](https://www.seangoedecke.com/weak-engineers/) and [Hacker News discussion](https://news.ycombinator.com/item?id=42520482)._

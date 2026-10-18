@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid1a" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr1a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#c3d7ea"/>
+    </marker>
+  </defs>
+  <rect width="760" height="340" fill="#12395f"/>
+  <rect width="760" height="340" fill="url(#grid1a)"/>
+  <rect x="0.5" y="0.5" width="759" height="339" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 1 · SLOPE OR CLIFF</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">SCHEMATIC, NOT MEASURED DATA</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <!-- plot frame: x 80..540, y 66..270 -->
+  <g stroke="#385a7b" stroke-opacity="0.6" stroke-width="1">
+    <line x1="80" y1="66" x2="500" y2="66"/>
+    <line x1="80" y1="168" x2="500" y2="168"/>
+  </g>
+  <line x1="80" y1="270" x2="500" y2="270" stroke="#68839d" stroke-width="1"/>
+  <line x1="80" y1="270" x2="80" y2="60" stroke="#68839d" stroke-width="1"/>
+
+  <!-- the model most teams use: more time, steadily more done -->
+  <line x1="80" y1="262" x2="500" y2="96" stroke="#a7c0d9" stroke-width="2" stroke-dasharray="6 5"/>
+
+  <!-- lacks the model: flat -->
+  <path d="M 80 262 L 500 254" fill="none" stroke="#6f8fb0" stroke-width="2"/>
+
+  <!-- has the model: early step -->
+  <path d="M 80 262 L 160 260 L 186 92 L 500 86" fill="none" stroke="#e8c56a" stroke-width="2.5"/>
+  <circle cx="186" cy="92" r="4" fill="#e8c56a"/>
+
+  <!-- direct labels -->
+  <text x="514" y="90" font-size="10.5" fill="#e8c56a">has the model for this problem</text>
+  <text x="514" y="104" font-size="9" fill="#a7c0d9">finishes early, extra time adds little</text>
+
+  <text x="514" y="164" font-size="10.5" fill="#c3d7ea">the model most hiring loops assume</text>
+  <text x="514" y="178" font-size="9" fill="#a7c0d9">more time, steadily more done</text>
+
+  <text x="514" y="250" font-size="10.5" fill="#c3d7ea">lacks the model</text>
+  <text x="514" y="264" font-size="9" fill="#a7c0d9">hours added, almost nothing gained</text>
+
+  <!-- axes -->
+  <line x1="80" y1="292" x2="500" y2="292" stroke="#c3d7ea" stroke-width="1" marker-end="url(#arr1a)"/>
+  <text x="290" y="310" font-size="9" letter-spacing="1" fill="#6f8fb0" text-anchor="middle">TIME GIVEN TO THE PROBLEM</text>
+  <text x="66" y="70" font-size="9" fill="#a7c0d9" text-anchor="end">solved</text>
+  <text x="66" y="274" font-size="9" fill="#a7c0d9" text-anchor="end">not yet</text>
+  <text x="14" y="330" font-size="9" fill="#6f8fb0">A speed test reads the dashed line. The problems that matter sit on the other two.</text>
+</svg>
