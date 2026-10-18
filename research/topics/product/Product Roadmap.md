@@ -1,12 +1,18 @@
 ---
-draft: true
+draft: false
 title: Product roadmap (research note)
 description: Product roadmap is created at the beginning of product development.
-date: 2026-10-18
+date: 2021-06-30
+authors:
+  - duynglam
+announce: false
 tags:
   - product
   - roadmap
-redirect: []
+redirect:
+  - /F0hupQ
+  - /product-management-basics
+  - /research/topics/product/product-management-basics
 ---
 
 ## What is a product roadmap

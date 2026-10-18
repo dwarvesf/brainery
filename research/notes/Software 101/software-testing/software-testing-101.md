@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Software testing 101, when to stop, who tests in agile and user acceptance
 description: Three practical questions about software testing, covering when testers should stop, whether agile teams need testers, and what user acceptance testing adds as the last test.
 slug: software-testing-101
@@ -13,13 +14,6 @@ tags:
   - testing
   - agile
   - uat
-redirect:
-  - /research/notes/software-101/software-testing/user-acceptance-testing
-  - /50htSA
-  - /research/notes/software-101/software-testing/when-to-stop-testing
-  - /PgD5xA
-  - /research/notes/software-101/software-testing/agile-testing
-  - /XCf5bA
 ---
 
 Testing is about balance, and three questions come up on almost every project. When do we stop? Who does the testing when the team works in an agile way? And what is the last test before the software goes to the customer? The sections below take them in that order.

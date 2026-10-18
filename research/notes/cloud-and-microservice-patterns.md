@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Cloud and microservice patterns, notes on six distributed system patterns
 description: Notes on Publisher-Subscriber, Saga, CQRS, Sharding, Circuit Breaker and Throttling, with the problem each solves, how it works, when to use it and what to watch for.
 slug: cloud-and-microservice-patterns
@@ -12,19 +13,6 @@ tags:
   - cloud-pattern
   - system-design
   - pattern
-redirect:
-  - /research/notes/saga-pattern
-  - /XW4BqA
-  - /research/notes/publisher-subscriber-pattern
-  - /HPViwA
-  - /research/notes/sharding-pattern
-  - /iF0lVg
-  - /research/notes/throttling-pattern
-  - /mCW16g
-  - /research/notes/circuit-breaker-pattern
-  - /bNuXhA
-  - /research/notes/command-query-responsibility-segregation-cqrs
-  - /UAbbdA
 ---
 
 Distributed systems fail in predictable ways: components need to talk without waiting on each other, data lives in several stores, load outgrows one database, and one broken service drags down the rest. These notes cover six patterns that answer those problems. Publisher-Subscriber handles messaging between components. Saga and CQRS handle data consistency and data access. Sharding scales the data store. Circuit Breaker and Throttling protect a system under failure and load.

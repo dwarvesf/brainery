@@ -1,13 +1,17 @@
 ---
-draft: true
+draft: false
 title: The Kano model (research note)
 description: "- A model to define the essential level of the next features - Based on Kano model, product's features are created out of 3 level - Threshold Attribut"
-date: 2026-10-18
+date: 2021-08-11
+authors:
+  - duynglam
+announce: false
 tags:
   - features
   - kano
   - product
-redirect: []
+redirect:
+  - /FPvmtg
 ---
 
 ## Definition

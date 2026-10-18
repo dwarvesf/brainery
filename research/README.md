@@ -263,6 +263,20 @@ redirect:
   - /ye0BtQ
   - /research/topics/ux/mixed-methods/inductive-reasoning
   - /SJoAgQ
+  - /cloud-and-microservice-patterns
+  - /research/notes/cloud-and-microservice-patterns
+  - /research/notes/saga-pattern
+  - /XW4BqA
+  - /research/notes/publisher-subscriber-pattern
+  - /HPViwA
+  - /research/notes/sharding-pattern
+  - /iF0lVg
+  - /research/notes/throttling-pattern
+  - /mCW16g
+  - /research/notes/circuit-breaker-pattern
+  - /bNuXhA
+  - /research/notes/command-query-responsibility-segregation-cqrs
+  - /UAbbdA
 ---
 
 <p>
