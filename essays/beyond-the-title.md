@@ -1,7 +1,8 @@
 ---
-title: 'Beyond the title'
+draft: true
+title: 'Beyond the job title'
 description: 'We want to make impacts or influence people in some ways. That doesn''t happen if we wait for the right moment because there isn''t. Taking the shot means opening the door to mistakes and failures, and that''s a good thing. We learn from them.'
-date: 2021-02-19T00:00:00.000Z
+date: 2021-02-19
 authors:
   - 'tieubao'
 should_deploy_perma_storage: true
@@ -11,9 +12,7 @@ tags:
 perma_storage_id: 'fq18sduTOl4opng_UQ5knJa5R5acSoxPFF4W-PPWvOw'
 minted_at: '2025-05-12'
 token_id: '10'
-redirect:
-  - /culture/beyond-the-title
-  - /a43m2A
+redirect: []
 slug: beyond-the-title
 ---
 

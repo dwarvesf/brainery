@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Building a solid high performing team
 description: Sustainable growth companies are built by teams of shining constellations rather than just several bright stars. It all starts with recruiting.
 date: 2020-02-21
@@ -7,9 +8,7 @@ authors:
 tags:
   - management
   - productivity
-redirect:
-  - /culture/high-performing-team
-  - /QTAEhQ
+redirect: []
 slug: high-performing-team
 ---
 

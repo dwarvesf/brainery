@@ -1,4 +1,5 @@
 ---
+draft: true
 title: The dwarves culture handbook
 description: "For the past 5 years, we didn't have something called 'Culture Book'. Whenever a newbie steps in, it's natural to pick up the job and go with the flow. We hardly force them into other periodical office traps like team-bonding activities or late night drinks."
 date: 2020-07-27
@@ -7,9 +8,7 @@ authors:
 tags:
   - culture
   - handbook
-redirect:
-  - /culture/culture-handbook
-  - /u0wCOQ
+redirect: []
 slug: culture-handbook
 ---
 

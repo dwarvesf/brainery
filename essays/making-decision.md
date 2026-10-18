@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Making decision as a team member
 description: "Being able to make decision trains ourselves to accept responsibility with an open mind. Either it's a success or a failure, we move forward."
 date: 2021-07-12
@@ -7,9 +8,7 @@ authors:
 tags:
   - management
   - process
-redirect:
-  - /culture/making-decision
-  - /hQIVhA
+redirect: []
 slug: making-decision
 ---
 

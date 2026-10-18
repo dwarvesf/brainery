@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Candidate
 description: The checklist will show how to evaluate a candidate.
 date: 2020-01-01
@@ -9,8 +10,7 @@ tags:
   - checklist
   - hiring
   - operation
-redirect:
-  - /kgkrJg
+redirect: []
 ---
 
 ### Background & skills
