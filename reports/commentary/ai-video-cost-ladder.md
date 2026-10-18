@@ -15,7 +15,7 @@ tags:
 slug: ai-video-cost-ladder
 ---
 
-The same 30 seconds of AI video cost one builder about $14 fully generated, $5 with keyframes, and $2 on his own compositing stack. The price drops as seconds move out of the video model and into deterministic rendering, and you pay the difference in GPU time. Here is the ladder, the public prices behind it, and how to decide which shots deserve a model.
+Tom's last three-minute AI video cost about $50. Fully generated it would have cost $84; on his own compositing stack, $12. The gap is the subject of this piece: what public per-second prices say about each rung, why keyframes cut the bill by two thirds, and how to decide which shots deserve a model call at all.
 
 ![Bar chart of cost per 30 seconds of AI video: $14 with every second generated, $5 with keyframing, $2 on an own compositing stack that adds a burst of about 40 GPUs for 30 to 90 seconds](assets/ai-video-cost-ladder-fig1-ladder.svg)
 
