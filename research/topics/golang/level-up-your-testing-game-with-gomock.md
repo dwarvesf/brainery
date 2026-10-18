@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Level up Go unit tests with gomock mock objects"
+title: "Level up Go unit tests with Gomock mock objects"
 description: Learn how to use Gomock in Go to create mock objects, isolate dependencies, and write effective unit tests that improve code quality and detect bugs early.
 date: 2023-08-08
 blog: "https://dwarvesf.hashnode.dev/level-up-your-testing-game-harnessing-gomock-for-unbeatable-unit-testing-in-go"

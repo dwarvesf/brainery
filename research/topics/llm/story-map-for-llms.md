@@ -16,7 +16,7 @@ redirect:
 
 _Snapshot from 2023. Some tools and numbers have changed._
 
-## Story Map: Journey for Engineers Developing Applications on top of Large Language Models (LLMs)
+## Story Map: Journey for engineers developing applications on top of Large Language Models (LLMs)
 
 Below is a story map of a kind of simplified learning and execution path for engineers starting out in developing AI. Not every engineering story follows the same path, but hopefully below will give you a general idea as to where you are in your story and what is left ahead.
 
@@ -33,7 +33,7 @@ It's best to follow step-by-step guides and tutorials on various AI topics, incl
 - [DeepLearning.AI's YouTube playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [Lex Fridman's up-to-date deep learning course](https://www.youtube.com/watch?v=0VH1Lim8gL8&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&ab_channel=LexFridman)
 
-#### a. Understand prompt engineering and why it's important for LLMs and generative AI
+#### A. Understand prompt engineering and why it's important for LLMs and generative AI
 
 Prompt engineering involves providing enough context, instruction, and examples to the model at inference time without changing the underlying weights of the model. It focuses on coaxing the model's latent space to produce the desired output. Prompt engineering uses manually-provided "hard prompts" to guide the model's behavior. It is about getting the model to do what you want without updating the model parameters. You can learn more about prompt engineering at:
 
@@ -43,7 +43,7 @@ Prompt engineering involves providing enough context, instruction, and examples 
 
 Most startups using LLMs like ChatGPT in their applications ultimately build on top of the model without the need to fine-tune it. Understand the process of building, testing, and deploying AI applications, which will enable you to create custom AI solutions tailored to specific use cases and requirements. Developing AI applications from scratch will give you the flexibility to create unique and innovative solutions that leverage the power of AI.
 
-#### a. Building chatbots with LLMs
+#### A. Building chatbots with LLMs
 
 Most often, the first step to working with LLMs is by creating a chatbot to enable conversations with it. This requires exploring various APIs for machine learning-based chatbot development and familiarizing yourself with chatbot templates like [OpenAssistant](https://open-assistant.io/) or creating your own. Update (2026): the OpenAssistant project has since ended; its README says ["OpenAssistant is completed, and the project is now finished"](https://github.com/LAION-AI/Open-Assistant), so treat it as a reference dataset, not a live template. Building chatbots with LLMs will enable to create more advanced and interactive conversational agents that can handle complex tasks and provide better user experiences.
 
