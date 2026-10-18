@@ -4,19 +4,14 @@ description: "Reading notes on Amy Webb's The Signals Are Talking, covering why 
 slug: signals-are-talking-reading-notes
 date: 2026-08-21
 announce: false
+draft: true
 authors: []
 credit: David Drysdale (Moby Diction)
 tags:
   - future
   - innovation
   - strategy
-redirect:
-  - /research/topics/innovation/the-signals-are-talking/inflection-points-reveal-themselves-first-at-the-edges
-  - /UN9Gog
-  - /research/topics/innovation/the-signals-are-talking/our-vision-of-the-future-is-always-constrained-by-our-view-of-the-past
-  - /B8sVLA
-  - /research/topics/innovation/the-signals-are-talking/the-signals-are-talking
-  - /Aq7NTg
+redirect: []
 ---
 
 These are reading notes on Amy Webb's _The Signals Are Talking_. They are adapted from David Drysdale's Moby Diction notes. Two notes carry the substance. The rest of the original outline survives only as a list of idea titles, which this page keeps at the end.

@@ -204,6 +204,65 @@ redirect:
   - /research/topics/make/bedrock
   - /research/topics/make/soul
   - /research/topics/make/small-sharp-tool
+  - /research/topics/communication/metaphors-we-live-by-reading-notes
+  - /metaphors-we-live-by-reading-notes
+  - /research/topics/communication/metaphors-create-coherent-systems-of-meaning
+  - /Gvi99A
+  - /research/topics/communication/metonymy-facilitates-understanding-by-focusing-our-attention
+  - /UcsYww
+  - /research/topics/communication/novel-metaphors-create-novel-ways-of-thinking
+  - /ATbuvg
+  - /research/topics/communication/objectivism-assumes-a-concrete-knowable-world
+  - /Z1VrFA
+  - /research/topics/communication/orientational-metaphors-organize-concepts-relationally
+  - /bd1Wug
+  - /research/topics/communication/structural-metaphors-reveal-and-conceal-different-aspects-of-experience
+  - /lQgKNw
+  - /research/topics/communication/metaphors-we-live-by
+  - /sXHRRg
+  - /research/topics/writing/metaphors-structure-our-interpretation-of-the-world
+  - /YrTYXQ
+  - /research/topics/communication/narrative-economics-reading-notes
+  - /narrative-economics-reading-notes
+  - /research/topics/communication/economic-narratives-spread-like-diseases
+  - /Ryljag
+  - /research/topics/communication/narratives-generate-real-world-effects
+  - /7yT2ywQ
+  - /research/topics/communication/constellation
+  - /l1OA8t0
+  - /research/topics/communication/economic-narrative
+  - /H0MR6w
+  - /research/topics/communication/narrative-economics
+  - /vdqnLQ
+  - /research/topics/innovation/consilience
+  - /4vfkJw
+  - /research/topics/writing/narrative-helps-the-human-mind-make-sense-of-events
+  - /Bat6pg
+  - /research/topics/communication/opposable-mind-reading-notes
+  - /opposable-mind-reading-notes
+  - /research/topics/communication/perspective-comprises-our-stance-our-tools-and-our-experience
+  - /PKTgAA
+  - /research/topics/communication/cognitive-diversity-enhances-team-problem-solving-capabilities
+  - /IKPLDw
+  - /zR3teQ
+  - /research/topics/communication/put-mental-models-in-conversation-with-one-another
+  - /P6lnow
+  - /research/topics/communication/salience-is-subjective
+  - /cii1GA
+  - /research/topics/communication/the-opposable-mind
+  - /e20g1A
+  - /research/notes/qualities-of-an-integrative-thinker
+  - /cMcK9Q
+  - /research/topics/ux/mixed-methods-reading-notes
+  - /mixed-methods-reading-notes
+  - /research/topics/ux/mixed-methods/abductive-reasoning
+  - /PA2E4A
+  - /research/topics/ux/mixed-methods/deductive-reasoning
+  - /1brZIw
+  - /research/topics/ux/mixed-methods/falsifiability
+  - /ye0BtQ
+  - /research/topics/ux/mixed-methods/inductive-reasoning
+  - /SJoAgQ
 ---
 
 <p>

@@ -4,29 +4,14 @@ description: "Reading notes on Lakoff and Johnson's Metaphors We Live By, coveri
 slug: metaphors-we-live-by-reading-notes
 date: 2026-08-27
 announce: false
+draft: true
 authors: []
 credit: David Drysdale (Moby Diction)
 tags:
   - communication
   - metaphor
   - story-telling
-redirect:
-  - /research/topics/communication/metaphors-create-coherent-systems-of-meaning
-  - /Gvi99A
-  - /research/topics/communication/metonymy-facilitates-understanding-by-focusing-our-attention
-  - /UcsYww
-  - /research/topics/communication/novel-metaphors-create-novel-ways-of-thinking
-  - /ATbuvg
-  - /research/topics/communication/objectivism-assumes-a-concrete-knowable-world
-  - /Z1VrFA
-  - /research/topics/communication/orientational-metaphors-organize-concepts-relationally
-  - /bd1Wug
-  - /research/topics/communication/structural-metaphors-reveal-and-conceal-different-aspects-of-experience
-  - /lQgKNw
-  - /research/topics/communication/metaphors-we-live-by
-  - /sXHRRg
-  - /research/topics/writing/metaphors-structure-our-interpretation-of-the-world
-  - /YrTYXQ
+redirect: []
 ---
 
 These are reading notes on _Metaphors We Live By_ by George Lakoff and Mark Johnson (University of Chicago Press, 2008 edition). They are adapted from David Drysdale's Moby Diction notes.

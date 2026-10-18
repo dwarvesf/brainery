@@ -4,35 +4,14 @@ description: "Reading notes on Tendayi Viki's Pirates in the Navy, covering why 
 slug: pirates-in-the-navy-reading-notes
 date: 2026-08-27
 announce: false
+draft: true
 authors: []
 credit: David Drysdale (Moby Diction)
 tags:
   - innovation
   - organization
   - corporate
-redirect:
-  - /research/topics/innovation/pirates-in-the-navy/common-innovation-anti-patterns
-  - /rwvjgQ
-  - /research/topics/innovation/pirates-in-the-navy/common-myths-about-innovation
-  - /NrAgKw
-  - /research/topics/innovation/pirates-in-the-navy/corporate-innovation-means-discovering-sustainable-new-business-models
-  - /vs35dA
-  - /research/topics/innovation/pirates-in-the-navy/established-organizations-tend-to-optimize-for-inertia
-  - /kOxe8A
-  - /research/topics/innovation/pirates-in-the-navy/integrate-innovation-functions-with-the-broader-organization
-  - /Na0XbQ
-  - /research/topics/innovation/pirates-in-the-navy/loss-aversion-creates-tension-between-the-need-to-innovate-and-the-need-to-protect-the-status-quo-in-large-organizations
-  - /XE0HOQ
-  - /research/topics/innovation/pirates-in-the-navy/why-enterprises-cant-innovate-like-startups
-  - /VDNsGA
-  - /research/topics/innovation/pirates-in-the-navy/innovation-accounting
-  - /jdyOMQ
-  - /research/topics/innovation/pirates-in-the-navy/innovation-theater
-  - /cPPtDw
-  - /research/topics/innovation/pirates-in-the-navy/martecs-law
-  - /EDqxjQ
-  - /research/topics/innovation/pirates-in-the-navy/pirates-in-the-navy
-  - /j2Lubw
+redirect: []
 ---
 
 These are reading notes on _Pirates in the Navy: How Innovators Lead Transformation_ by Tendayi Viki (Unbound, 2020). They are adapted from David Drysdale's Moby Diction notes, with a few ideas from Rumelt, Gupta and Brinker that the original notes tie in.

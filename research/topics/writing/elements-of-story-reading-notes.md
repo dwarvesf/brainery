@@ -4,30 +4,13 @@ description: "Reading notes on Francis Flaherty's The Elements of Story, coverin
 slug: elements-of-story-reading-notes
 date: 2026-08-27
 announce: false
+draft: true
 authors: []
 credit: David Drysdale (Moby Diction)
 tags:
   - writing
   - story-telling
-redirect:
-  - /research/topics/writing/marry-form-with-function
-  - /jzhqKg
-  - /research/topics/writing/the-elements-of-story/ensure-the-trunk-of-a-narrative-is-more-substantial-than-the-branches
-  - /rjR5rA
-  - /research/topics/writing/the-elements-of-story/good-endings-make-a-story-memorable
-  - /zjzGLA
-  - /research/topics/writing/the-elements-of-story/good-story-leads-entice-and-inform
-  - /p0yTBA
-  - /research/topics/writing/the-elements-of-story/good-writing-makes-the-familar-new
-  - /y9VRFQ
-  - /research/topics/writing/the-elements-of-story/narrative-sequencing-informs-meaning
-  - /1T1VWw
-  - /research/topics/writing/the-elements-of-story/stories-need-action-and-commentary
-  - /kOdcWw
-  - /research/topics/writing/the-elements-of-story/use-language-with-necessity
-  - /0dIFgQ
-  - /research/topics/writing/the-elements-of-story/the-elements-of-story
-  - /BjMCWg
+redirect: []
 ---
 
 These are reading notes on _The Elements of Story: Field Notes on Nonfiction Writing_ by Francis Flaherty (Harper Perennial, 2010 reprint). They are adapted from David Drysdale's Moby Diction notes.
