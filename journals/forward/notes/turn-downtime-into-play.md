@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Turn downtime into play in turn-based artillery games'
 description: 'A small product-design note on reducing dead time in Gunbound-style multiplayer loops.'
 date: 2026-10-13

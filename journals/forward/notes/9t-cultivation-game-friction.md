@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Intentional friction can make a niche game feel native'
 description: 'A build-club note on how 9T uses cultivation-game friction, randomness, and discovery instead of flattening the learning curve.'
 date: 2026-10-02

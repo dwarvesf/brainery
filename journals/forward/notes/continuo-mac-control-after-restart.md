@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Mac control tools need to survive restart and sleep'
 description: 'A small note on turning a personal Mac workflow pain into a sharper control utility.'
 date: 2026-10-05
