@@ -43,7 +43,7 @@ We encourage members to make decisions. Thinking independently generates origina
 
 Being able to make decision trains ourselves to accept responsibility with an open mind. Either it's a success or a failure, we move forward.
 
-### And the people. Engage them
+### And the people. engage them
 
 Decision-making is a team thing. And team involves people.
 

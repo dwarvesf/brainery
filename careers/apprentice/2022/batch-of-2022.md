@@ -73,7 +73,6 @@ None We have a lot to learn ourselves, and we hope to improve them at our next y
 
 ![Portraits of the 2022 apprentice cohort members](assets/apprenticeship-members.webp)
 
-
 ## The mentors
 
 Two mentors introduced themselves in April 2022, before the batch started. Their titles and roles are as of that month.

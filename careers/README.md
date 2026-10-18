@@ -80,7 +80,7 @@ We've got spots open for engineers, designers, marketers, and learners ready to 
 
 ### Community
 
-- [🔬 Community labs member](open-positions/community-labs-member.md) *Side gig with allowances and research perks*
+- [🔬 Community labs member](open-positions/community-labs-member.md) _Side gig with allowances and research perks_
 
 ### Apprenticeship program [Opening late 2025]
 

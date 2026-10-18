@@ -29,7 +29,7 @@ We develop a tendency to think outside the box. It's a part of our hiring cultur
 
 Pay the upfront cost, take a longer landsight, and the math will add up in the end. Tweaking the plan with long-term thinking.
 
-## Fail. Explore. Grow
+## Fail. explore. grow
 
 We want to make impacts or influence people in some ways. That doesn't happen if we wait for the right moment because there isn't. Taking the shot means opening the door to mistakes and failures, and that's a good thing. We learn from them.
 
