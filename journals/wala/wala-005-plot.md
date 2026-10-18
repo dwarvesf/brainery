@@ -6,6 +6,7 @@ description: Han talks with Ethan Phan, co-founder and CTO of Plot, about readin
 date: 2026-10-18
 type: writing
 form: essay
+kind: essay
 topic: markets-strategy
 series: WALA
 series_part: 5
