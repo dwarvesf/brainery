@@ -1,6 +1,6 @@
 ---
 draft: true
-title: Password sharing
+title: How the team shared 1Password access (archived)
 description: "How to access to team's password folder"
 date: 2020-01-01
 authors:
