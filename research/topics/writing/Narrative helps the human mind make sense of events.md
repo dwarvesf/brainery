@@ -1,8 +1,8 @@
 ---
 draft: false
-title: null
-description: null
-date: null
+title: "Narrative helps the human mind make sense of events (reading note)"
+description: "The human mind crafts its understanding of events by forming them into a narrative."
+date: 2026-08-21
 tags:
   - communication
   - narrative
@@ -35,3 +35,5 @@ Amy Webb suggests that narratives are powerful tools for communicating future sc
 #### Reference
 
 [[≈ Narrative Economics | Shiller, Robert J. Narrative Economics: How Stories Go Viral and Drive Major Economic Events. Princeton: Princeton University Press, 2019.]]
+
+Adapted from David Drysdale's Moby Diction notes.

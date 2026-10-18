@@ -22,10 +22,12 @@ Roger Martin calls this practice "assertive inquiry."
 #### Related
 
 - [[Narratives enable us to act decisively in conditions of uncertainty]] - A mental model is a kind of narrative to help us maneuver through complexity.
-- [Cognitive diversity enhances team problem solving capabilities](https://publish.obsidian.md/mobydiction/notes/Cognitive+diversity+enhances+team+problem+solving+capabilities) \- Teams that are cognitively diverse expend our view of what is salient to the problem space.
-- [Specialization narrows our perspective on what is salient to a problem](https://publish.obsidian.md/mobydiction/notes/Specialization+narrows+our+perspective+on+what+is+salient+to+a+problem) \- When we specialize, we risk narrowing our focus and might overlook salient information or data.
-- [Protect dissent](https://publish.obsidian.md/mobydiction/notes/Protect+dissent) \- It's important to enshrine the capacity to question decisions and push back against popular modes of thought.
+- Cognitive diversity enhances team problem solving capabilities \- Teams that are cognitively diverse expend our view of what is salient to the problem space.
+- Specialization narrows our perspective on what is salient to a problem \- When we specialize, we risk narrowing our focus and might overlook salient information or data.
+- Protect dissent \- It's important to enshrine the capacity to question decisions and push back against popular modes of thought.
 
 #### Citations
 
-[Martin, Roger L. The Opposable Mind: How Successful Leaders Win Through Integrative Thinking. 1st edition. Boston, Mass: Harvard Business Review Press, 2007.](https://publish.obsidian.md/mobydiction/notes/%E2%89%88+Martin+-+The+Opposable+Mind)
+Martin, Roger L. The Opposable Mind: How Successful Leaders Win Through Integrative Thinking. 1st edition. Boston, Mass: Harvard Business Review Press, 2007.
+
+Adapted from David Drysdale's Moby Diction notes.

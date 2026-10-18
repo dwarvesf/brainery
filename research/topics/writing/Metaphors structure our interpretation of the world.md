@@ -1,8 +1,8 @@
 ---
 draft: false
-title: null
-description: null
-date: null
+title: "Metaphors structure our interpretation of the world (reading note)"
+description: "Metaphors construct they ways in which we experience and comprehend the world around us."
+date: 2026-08-21
 tags:
   - metaphor
   - research
@@ -22,3 +22,5 @@ Metaphors allow us to organize and manage our experiences, and, by extension, re
 
 - [[Narratives generate real-world effects]]
 - [[§ Writing]]
+
+Adapted from David Drysdale's Moby Diction notes.

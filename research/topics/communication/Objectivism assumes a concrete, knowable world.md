@@ -1,8 +1,8 @@
 ---
 draft: false
-title: null
-description: null
-date: null
+title: "Objectivism assumes a concrete, knowable world (reading note)"
+description: "\"Objectivism\" assumes that the world comprises concrete, knowable objects that are classified in terms of inherent properties."
+date: 2026-08-21
 tags:
   - communication
 redirect:
@@ -22,3 +22,5 @@ redirect:
 #### Reference
 
 [[≈ Metaphors We Live By | Lakoff, George, and Mark Johnson. Metaphors We Live By. University of Chicago Press, 2008.]]
+
+Adapted from David Drysdale's Moby Diction notes.

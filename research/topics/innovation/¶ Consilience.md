@@ -1,8 +1,8 @@
 ---
 draft: false
-title: null
-description: null
-date: null
+title: "Consilience (reading note)"
+description: "In Narrative Economics, Robert Shiller uses the word \"consilience\" to describe the unity of knowledge among disparate academic disciplines, particularly the sciences and the humanities."
+date: 2026-08-21
 tags:
   - innovation
 redirect:
@@ -25,3 +25,5 @@ In [[≈ Narrative Economics | Narrative Economics]], Robert Shiller uses the wo
 [[≈ Narrative Economics | Shiller, Robert J. Narrative Economics: How Stories Go Viral and Drive Major Economic Events. Princeton: Princeton University Press, 2019.]]
 
 Wilson, E. O. _Consilience: The Unity of Knowledge_. New York: Alfred Knopf, 2014.
+
+Adapted from David Drysdale's Moby Diction notes.

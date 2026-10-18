@@ -1,8 +1,8 @@
 ---
 draft: false
-title: null
-description: null
-date: null
+title: "Marry form with function (reading note)"
+description: "In creative work, strive to marry form with function."
+date: 2026-08-21
 tags:
   - writing
 redirect:
@@ -22,3 +22,5 @@ Choose details that reinforce or accent the theme. In writing, this might extend
 #### Reference
 
 Flaherty, Francis. _The Elements of Story: Field Notes on Nonfiction Writing_. Reprint edition. Harper Perennial, 2010.
+
+Adapted from David Drysdale's Moby Diction notes.
