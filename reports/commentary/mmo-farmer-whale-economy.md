@@ -22,13 +22,13 @@ redirect:
   - /2026-10-07-game-distribution-vietnam-launch-surface
 ---
 
-bievh is taking his cultivation game, [9T](https://bienvh.itch.io/9t), from a single-player build to an online one. In #build-club, while discussing a Võ Lâm-style web game he lurks in, he described how that kind of MMO pays: "tại thật ra, thể loại đó dễ kiếm tiền nhất" (because that genre is the easiest to make money in), "tụi player cắm 20 acc farm resource đầu game, r bán cho ng giàu, cuối cùng ng giàu nạp nhiều nên ở lại nạp giếp" (players park 20 accounts to farm early-game resources, then sell to the rich players; in the end the rich have paid so much that they stay and keep paying).
+bievh is taking his cultivation game, [9T](https://bienvh.itch.io/9t), from a single-player build to an online one. In #build-club, while discussing a Võ Lâm-style game he lurks in, he described how that kind of MMO pays: "tại thật ra, thể loại đó dễ kiếm tiền nhất" (because that genre is the easiest to make money in), "tụi player cắm 20 acc farm resource đầu game, r bán cho ng giàu, cuối cùng ng giàu nạp nhiều nên ở lại nạp giếp" (players park 20 accounts to farm early-game resources, then sell to the rich players; in the end the rich have paid so much that they stay and keep paying).
 
 _Written by neko-anon, the Dwarves editorial desk bot, from a #build-club discussion. Ideas from [bievh](/contributor/bievh), [tieubao](/contributor/tieubao) and [monotykamary](/contributor/monotykamary)._
 
 ![A sketch of the loop: farmers with 20 accounts sell on a marketplace, rich players buy, the publisher sells time shortcuts, and a dashed line marks cash-out as fined](assets/mmo-farmer-whale-economy-fig1-loop.svg)
 
-_Fig. 1: A sketch combining remarks from bievh, tieubao and monotykamary. Farmers sell, rich players buy, and the publisher sells time._
+_Fig. 1: A sketch combining remarks from bievh, tieubao and monotykamary._
 
 ## Where the loop came from
 
@@ -36,7 +36,7 @@ On 8 October bievh showed the last offline build of 9T and said the online versi
 
 monotykamary's rule for the market side: "if you want proper MRR in a game, you need to make an exchangeable marketplace". bievh: "i have it sir". Players farm items, sell them, and spend the proceeds on levelling.
 
-tieubao added where the spend peaks: "tien thuong spend nhieu nhat la luc dua rank cho guild" (money is spent most when guilds race for rank), so let players found sects; PvP makes money too. bievh: already in the build.
+tieubao added where the spend peaks: "tien` thuong spend nhieu nhat la luc dua rank cho guild" (money is spent most when guilds race for rank), so let players found sects; PvP makes money too. bievh: already in the build.
 
 ## The Võ Lâm audience
 
@@ -44,9 +44,9 @@ tieubao then suggested retheming into another game, "1 market ngoai tu tien nua"
 
 The record behind that community: VNG launched Võ Lâm Truyền Kỳ in 2005, and VietnamNet records [120,000 accounts in the first 48 hours of closed beta and 200,000 concurrent players by early July 2006](https://vietnamnet.vn/vo-lam-truyen-ky-da-duoc-mang-ve-viet-nam-cach-day-12-nam-truoc-nhu-the-nao-ig17074.html).
 
-bievh had a live example, the Võ Lâm-style web game he lurks in. On 8 October it was in beta with about 2,000 users, and "tụi nó nạp kinh luôn" (they were paying heavily). Some mobile players had complained the newbie gift did not arrive, which he read as a bug. By 12 October he reported two Zalo groups of 1,000 members each and a community price list for items. About 500 players were online daily.
+bievh had a live example, the Võ Lâm-style game he lurks in. On 8 October it was in beta with about 2,000 users, and "tụi nó nạp kinh luôn" (they were paying heavily). Some mobile players had complained the newbie gift did not arrive, which he read as a bug. By 12 October he reported two Zalo groups of 1,000 members each and a community price list for items. About 500 players were online daily.
 
-On reaching players for 9T, tieubao suggested seeding in comic groups and "radio cac kieu" (radio and the like), given the theme. bievh's own plan: "chac di shill tu tu thoi" (shill it slowly). The offline version, he said, drew people asking about the art rather than playing.
+On reaching players for 9T, tieubao suggested seeding in comic groups and "radio cac kieu" (radio and the like), given the theme. bievh's own plan: "chac di shill tu tu thoi" (shill it slowly). The offline version, he said, drew people who "hỏi asset" (ask about the assets) rather than play.
 
 ## The wall before any of this is legal
 

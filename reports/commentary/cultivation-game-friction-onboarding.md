@@ -1,6 +1,6 @@
 ---
 title: "Onboarding without flattening: what 9T keeps hard on purpose"
-description: "A tester opened 9T and understood nothing. bievh kept the guide at four tabs and left the rest hidden; tuanddd proposed a prologue that shows the destination before the grind."
+description: "A tester opened 9T and understood nothing. bievh kept the guide at four tabs and left the rest hidden. Two weeks later tuanddd proposed a story opening at full power, reset to level 1."
 date: 2026-10-18
 toc: true
 type: writing
@@ -28,7 +28,7 @@ _Written by neko-anon, the Dwarves editorial desk bot, from a #build-club discus
 
 ![What 9T shows and what it hides: the guide's loop of rice and spirit stones on one row, the hidden mechanics of roots, alchemy and the rock on the other, and the proposed prologue underneath](assets/cultivation-game-friction-onboarding-fig1-paths.svg)
 
-_Fig. 1: What 9T's four-tab guide shows, what bievh leaves for players to find, and the prologue tuanddd proposed._
+_Fig. 1: What 9T's four-tab guide shows, what bievh leaves for players to find, and the story opening tuanddd proposed._
 
 ## The exchange
 
@@ -46,7 +46,7 @@ On release night bievh wrote: "co nhieu easter egg tu tien trong design lam, ma 
 
 - Apprentice alchemy burns firewood, so the fire is "pham hoa" (phàm hỏa, mundane fire). bievh listed it as an easter egg.
 - Spiritual roots are random, each with its own aura. A weak root means a longer game.
-- Once the character outlevels a monster, the monster runs instead of fighting.
+- Once stronger than the monsters, "no se chay chu ko danh" (it runs instead of fighting).
 
 The next morning, after phucld's screenshot, he added a tip in chat. Sitting by the rock cultivates faster, because a spirit vein runs under it. huymaius asked whether the game has a pit with a secret manual at the bottom. bievh: "co", he is designing "bi canh" (bí cảnh, secret realms).
 
@@ -56,9 +56,9 @@ One market data point: PCGamesN reported in March 2021 that Tale of Immortal, a 
 
 ## The prologue idea
 
-Two weeks later, under a graphics update, tuanddd proposed the other half of the onboarding: "làm story kiểu mình là đại thần tiên trên trời, đầu game nhảy vô là full trang bị + phép, đi tung hoành tùm lum xong bị đày xuống trùng sinh thành người thường (reset lv1)" (make the story so you are a great immortal in the heavens; you start with full gear and spells, wreak havoc, then get banished and reborn as a mortal, reset to level 1). bievh answered "legit" and said he would try it.
+Two weeks later, under a graphics update, tuanddd proposed a story opening: "làm story kiểu mình là đại thần tiên trên trời, đầu game nhảy vô là full trang bị + phép, đi tung hoành tùm lum xong bị đày xuống trùng sinh thành người thường (reset lv1)" (make the story so you are a great immortal in the heavens; you start with full gear and spells, wreak havoc, then get banished and reborn as a mortal, reset to level 1). bievh answered "legit" and said he would try it.
 
-The prologue shows the fantasy at full strength before the rice grind. It also gives the level-1 start a cause inside the fiction. Whether the opening is playable or a cutscene did not come up.
+Read against phucld's confusion, which nobody in the thread did, such a prologue shows the fantasy at full strength before the rice grind. It also gives the level-1 start a cause inside the fiction. Whether the opening is playable or a cutscene did not come up.
 
 ## Sources
 

@@ -24,7 +24,7 @@ redirect:
   - /2026-10-14-build-club-prototype-scope-note
 ---
 
-tuanddd posted lobshot, a browser artillery prototype in the GunBound style, in #build-club on 11 October. Two days of feedback followed. tieubao's reading of the core loop: "game T duration, N player thi that ra chi choi duoc T/N" (a game of duration T with N players really gives you T/N of play), "tru them thoi gian chet nua" (minus the time you are dead), "nen thanh ra rat de lam user bo game" (so it is very easy for users to quit).
+tuanddd posted lobshot, a browser artillery prototype in the GunBound style, in #build-club on 11 October. Two days of feedback followed. tieubao's reading of the core loop: "game T duration, N player thi that ra chi choi duoc T/N" (a game of duration T with N players really gives you T/N of play), "tru` them thoi gian chet nua" (minus the time you are dead), "nen thanh ra rat de lam user bo game" (so it is very easy for users to quit).
 
 _Written by neko-anon, the Dwarves editorial desk bot, from a #build-club discussion. Ideas from [tieubao](/contributor/tieubao), [tuanddd](/contributor/tuanddd) and [datnguyennnx](/contributor/datnguyennnx)._
 
@@ -40,7 +40,7 @@ Take a ten-minute match with four players. Each player gets about two and a half
 
 | Layer                 | What came up, and who said it                                                                                                                                                                                          |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| First-session clarity | tieubao, on the night of the release: the wind changes constantly and the game is hard to play; add a countdown before the wind changes; the angle reads relative to horizontal                                        |
+| First-session clarity | tieubao, on the night of the release: the wind changes constantly and the game is a bit hard to play; add a countdown before the wind changes; the angle reads relative to horizontal                                        |
 | Core-loop feel        | datnguyennnx: the weapons lack force, and this kind of game lives on weapon effects; keep the Gunny base and vary the effects, the way Valorant does. bievh: a plus-13 upgrade should show an aura                    |
 | Retention layer       | tuanddd's own list: background music, referral, bulletins and campaigns, rank progression, a second resource beyond coins for items and weapon sockets. bievh: special characters                                     |
 | Launch constraints    | tuanddd: the name lobshot reads awkwardly, and keeping it right after approval risks the attention of "mấy anh catalog" (the catalog people)                                                                           |
@@ -62,7 +62,7 @@ tuanddd's own shortlist read "weapon idea + cool effect / story mode / ghost mod
 
 ## Scope, the same evening
 
-That evening tuanddd listed what the build already had. A story, daily quests, level ranking, seasonal events with limited items. A dashboard to schedule events, and another for metrics and gift codes. His caveat: the ranking needs a simulation to see how long max level takes. tieubao asked to see the lore. tuanddd: the town of Bombom has four-leaf clovers, four bosses took the leaves, and the bomber goes to find them. "story need more work". tieubao suggested opening with a long conflict and then introducing a hero. His closing line on scope: "cho no day du truoc, roi lua. cai gi thi lua" (let it be complete first, then choose what to keep).
+That evening tuanddd listed what the build already had. A story, daily quests, level ranking, seasonal events with limited items. A dashboard to schedule events, and another for metrics and gift codes. His caveat: the ranking needs a simulation to see how long max level takes. tieubao asked to see the lore. tuanddd: the town of Bombom has four-leaf clovers, four bosses took the leaves, and the bomber goes to find them. "story need more work". tieubao suggested opening with a long conflict and then introducing a hero. His closing line on scope: "cho no day du truoc, roi` lua. cai gi thi lua." (let it be complete first, then choose what to keep).
 
 ## One number to track
 
