@@ -122,43 +122,6 @@ You can contribute to the knowledge base by sharing valuable links in tech chann
 
 ![ICY intro](../community/assets/icy-intro.webp)
 
-### Reward criteria for Brainery notes
-
-We moved to [ICY](https://icy.d.foundation/), a token we use to reward writers in our [Discord server](http://discord.gg/dfoundation). Before ICY, we gave out rewards based on what we felt our writers deserved for their work. These criteria tell writers the value of their content when contributing to our Brainery.
-
-The monthly budget for ICY rewards is around **260-300 ICY per month**. This may change in the future, especially if we see greater traction and input to the Brainery. As of December 14, 2022, the criteria to claim ICY for notes are:
-
-**Permanent notes**
-
-| Range ICY | Criteria                                                                                                                                                                                                                                                           |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 7.5 - 10  | The note is above 200 words and is succinctly composed of proper sentences and paragraphs. The note is relatively coherent and may have some visuals or images to better explain the entry.                                                                        |
-| 5 - 7.5   | The note is around 200 words or less, containing some sentences, but may be mainly composed of bullet points. The entry is somewhat coherent, but may be obscured due to a lack of written words.                                                                  |
-| 0 - 5     | The note is around 200 words or less, containing some or no complete sentences and is mostly composed of bullet points. The entry is mostly in the form of a fleeting note, such that the audience for the summary is more for the writer, rather than the reader. |
-
-**Fleeting notes**
-
-| Range ICY | Criteria                                                                                                                                                                              |
-| --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2.5 - 5   | The note is around 200 words or less, containing has some sentences, but may be mainly composed of bullet points. The entry is contextually coherent.                                 |
-| 0 - 2.5   | The note is around 100 words or less, containing no complete sentences and is mostly composed of bullet points. The entry is not apparently coherent, and may contain copied phrases. |
-
-**Reward per note.** A few people can output many high-quality notes easily. We want to reward their effort without overshadowing others and creating participation inequality. To give equal opportunity, the reward drops off with the number of notes submitted to the Brainery in a month:
-
-| Range ICY% | Note range relative to # of notes submitted this month |
-| ---------- | ------------------------------------------------------ |
-| 100%       | 1st - 2nd note                                         |
-| 75%        | 3rd note                                               |
-| 50%        | 4th note                                               |
-| 25%        | 5th note                                               |
-| 10%        | 6th note and thereafter                                |
-
-The exception: if the submitted note [links](https://help.obsidian.md/Getting+started/Link+notes) to 2 or more unique notes of different authors, and the links are coherent and relevant, you can claim 100% of the ICY in the criteria above regardless of how many notes you have submitted.
-
-**Over budget.** Any notes above the 260-300 ICY per month go to the next month. This also helps us re-evaluate and update the reward pool when output is high. This is subject to change.
-
-**Recognition.** The Latest Notes page shows recent notes, major contributors and the newest contributors to the Brainery. We update its format regularly to give active recognition to everyone who participates.
-
 ## What your ICY is worth
 
 ICY moved from a fixed USDC-backed value to a dynamic Bitcoin-backed one. The change brings new opportunities and considerations for holders.
@@ -195,21 +158,6 @@ Visit [icy.so](https://icy.so) to redeem your ICY. You can:
 - Withdraw it to your wallet ([Withdraw ICY to fiat](#withdraw-icy-to-fiat))
 - Use it in the upcoming ICY store
 
-### ICY salary advance
-
-The salary advance is the first feature from the 2024 roadmap. It is a short-term credit benefit for all full-time employees.
-
-![ICY salary advance](assets/salary-advance.webp)
-
-For example, if an employee earns \$5000 a month, they can ask for up to `25%` (\$1250) of their monthly allowance in advance. The credit is paid back automatically on the next pay day, plus a `0.5% service fee`.
-
-To use it:
-
-1. Open the DMs of the Fortress bot.
-2. Type `?salary advance`.
-3. Input the credit amount in ICY.
-4. Done.
-
 ### Peeps NFT
 
 Peeps NFT is an NFT collection for Dwarves Foundation members. The NFT grants access to internal communication channels and many earning opportunities.
@@ -227,7 +175,7 @@ To claim it:
 
 ### What is next for ICY
 
-The roadmap includes salary advances for full-time team members, deeper Discord integration, direct bank withdrawals to simplify the conversion process, ICY staking to reward long-term holders, and NFT integration to widen the ecosystem's utility.
+The roadmap includes deeper Discord integration, direct bank withdrawals to simplify the conversion process, ICY staking to reward long-term holders, and NFT integration to widen the ecosystem's utility.
 
 To continue through the handbook, read [Discord](/handbook/community/discord) next.
 
