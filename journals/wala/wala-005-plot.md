@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "#5 Building is cheap now. getting heard is the hard part."
+title: "#5 Building is cheap now, getting heard is the hard part"
 short_title: Plot
 description: Han talks with Ethan Phan, co-founder and CTO of Plot, about reading a pivot signal, staying lean for 2.5 to 3 years, and running an AI-native engineering team where distribution, not building, is the bottleneck.
 date: 2026-10-18
