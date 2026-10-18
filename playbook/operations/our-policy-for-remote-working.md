@@ -73,7 +73,7 @@ Always take the following steps to let the team know:
 - Communicate verbally with the people you work closest with
 - Update your calendar to mark which days you are working remotely
 
-### Meeting: Proper setup for meeting
+### Meeting: proper setup for meeting
 
 <!-- synced_block 32ad30fb-9659-4e38-bb96-0f270a4bcf9c -->
 

@@ -1,5 +1,5 @@
 ---
-title: "Pricing model: Bill by hours"
+title: "Pricing model: bill by hours"
 description: A new hourly billing model is introduced to ensure fair compensation for effort, flexibility in project scope, control over additional work, and transparency with clients.
 date: 2024-07-30
 authors:

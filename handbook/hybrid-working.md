@@ -53,7 +53,7 @@ The key to successful hybrid work is finding the right balance between individua
 To support our hybrid model, we rely on several key tools:
 
 - **Discord**: Our primary hub for team communication and standups
-- **Google Workspace**: For collaborative documents and calendar management
+- **Google workspace**: For collaborative documents and calendar management
 - **Zoom**: For virtual meetings when we can't be together in person
 - **Notion**: Our source of truth for ops data such as projects and leave
 
