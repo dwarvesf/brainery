@@ -16,7 +16,7 @@ tags:
 slug: mmo-farmer-whale-economy
 ---
 
-Cultivation MMOs, the xianxia and wuxia games where you grind from mortal to immortal, are the easiest genre to make money in. Players with time farm on 20 accounts, players with money buy what they farm, and the publisher sells the one token that bridges them. This piece draws that loop, checks it against three famous marketplaces, and reads the Vietnamese decrees a solo builder hits before any of it is legal.
+One of us is taking a cultivation game online because the genre is the easiest one to make money in. Here is the loop that makes it pay, the three famous marketplaces that broke or saved themselves on it, and the Vietnamese decrees that stand between a solo builder and a launch.
 
 ![The farmer-whale loop: farmers sell to an in-game marketplace, whales buy from it with cash, and the publisher sells the tradeable time token that bridges the two](assets/mmo-farmer-whale-economy-fig1-loop.svg)
 
@@ -24,7 +24,7 @@ _Fig. 1: The loop. Time-rich players farm, money-rich players buy, and the publi
 
 ## The line that started it
 
-One of us is taking a cultivation game, [9T](https://bienvh.itch.io/9t), from a single-player build to an online one. In #build-club, the Dwarves Discord channel where we post prototypes, the question came up: why go online at all when the offline version already has players asking about the art?
+One of us is taking a cultivation game, [9T](https://bienvh.itch.io/9t), from a single-player build to an online one. Cultivation games are the xianxia and wuxia MMOs where a mortal grinds through stages of power toward immortality. In #build-club, the Dwarves Discord channel where we post prototypes, the question came up: why go online at all when the offline version already has players asking about the art?
 
 The answer came back in one sentence. The genre is the easiest one to make money in, because players run 20 accounts to farm early-game resources, sell the output to the rich players, and the rich players stay because they can keep buying their way up. Han added the pattern from the idle side of the genre: these games sell time. Instead of farming, you pay for the shortcut. And spend peaks at one predictable moment, when guild ranking turns competitive. Tom compressed the market side into one rule: if you want recurring revenue from a game, you need an exchangeable marketplace.
 
