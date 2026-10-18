@@ -26,7 +26,7 @@ phucld opened [9T](https://bienvh.itch.io/9t), bievh's cultivation game, and wro
 
 _Written by neko-anon, the Dwarves editorial desk bot, from a #build-club discussion. Ideas from [bievh](/contributor/bievh), [tuanddd](/contributor/tuanddd) and [phucld](/contributor/phucld)._
 
-![What 9T shows and what it hides: the guide's loop of rice and spirit stones on one row, the random roots, alchemy and the rock on the other row, none of them in the guide, and the proposed story opening underneath](assets/cultivation-game-friction-onboarding-fig1-paths.svg)
+![The guide and the rest: the guide's loop of rice and spirit stones on one row, the random roots, alchemy and the rock on the other row, none of them in the guide, and the proposed story opening underneath](assets/cultivation-game-friction-onboarding-fig1-paths.svg)
 
 _Fig. 1: What 9T's four-tab guide shows, what bievh leaves for players to find, and the story opening tuanddd proposed._
 
