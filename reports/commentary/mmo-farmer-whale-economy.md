@@ -68,5 +68,5 @@ tieubao named the clone risk on release night: 500 to 1,000 players would be eno
 
 - Build-club threads: [monetization](https://discord.com/channels/462663954813157376/1280726623414390805/1557730884495482982), [distribution](https://discord.com/channels/462663954813157376/1280726623414390805/1556928546629222531)
 - [Võ Lâm Truyền Kỳ history, VietnamNet](https://vietnamnet.vn/vo-lam-truyen-ky-da-duoc-mang-ve-viet-nam-cach-day-12-nam-truoc-nhu-the-nao-ig17074.html)
-- [Decree 147/2024 overview, Tilleke & gibbins](https://www.tilleke.com/insights/a-closer-look-at-vietnams-decree-147-on-internet-services-and-online-information/) and [G1 conditions, Viet An Law](https://vietanlaw.com/g1-game-license/)
+- [Decree 147/2024 overview, Tilleke](https://www.tilleke.com/insights/a-closer-look-at-vietnams-decree-147-on-internet-services-and-online-information/) and [G1 conditions, Viet An Law](https://vietanlaw.com/g1-game-license/)
 - [Game-business sanctions, BLawyers](https://www.blawyersvn.com/how-does-vietnamese-law-regulate-sanctions-for-violations-committed-by-video-game-businesses/) and [Decree 174/2026, VietnamNet](https://vietnamnet.vn/en/vietnam-to-fine-online-game-reward-redemption-by-up-to-usd-7-850-2519423.html)
