@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Unemployment, social, health insurance
 description: The checklist of unemployment, social, health insurance
 date: 2020-01-01
@@ -9,8 +10,7 @@ tags:
   - checklist
   - operation
   - people
-redirect:
-  - /8dD0tQ
+redirect: []
 ---
 
 ### When an employee ask for social insurance and contract

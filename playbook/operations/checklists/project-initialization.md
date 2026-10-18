@@ -1,5 +1,6 @@
 ---
-title: Project initialization
+draft: true
+title: Project initialization checklist
 description: The checklist shows the process of project initialization
 date: 2022-01-01
 authors:
@@ -11,8 +12,7 @@ tags:
   - checklist
   - operation
   - project
-redirect:
-  - /6UOtFw
+redirect: []
 ---
 
 **Paperwork**

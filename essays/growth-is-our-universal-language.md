@@ -1,7 +1,8 @@
 ---
-title: 'Growth is our universal language'
-description: null
-date: 2023-02-16T00:00:00.000Z
+draft: true
+title: 'Growth as our universal language'
+description: 'The core team lives and breathes growth, and the unspoken 70/50 culture puts extra effort into it after the day job.'
+date: 2023-02-16
 authors:
   - 'tieubao'
 should_deploy_perma_storage: true
@@ -13,9 +14,7 @@ tags:
 perma_storage_id: 'HHmgkmHlIQupPrA8mxrMb4WgakbrPnOV7SXLlJlhkn0'
 minted_at: '2025-05-12'
 token_id: '11'
-redirect:
-  - /culture/growth-is-our-universal-language
-  - /Hkx7GQ
+redirect: []
 slug: growth-is-our-universal-language
 ---
 

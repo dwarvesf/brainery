@@ -1,5 +1,6 @@
 ---
-title: Project archive
+draft: true
+title: Project archive checklist
 description: The checklist shows how the project will be archive
 date: 2022-01-01
 authors:
@@ -10,8 +11,7 @@ tags:
   - checklist
   - operation
   - project
-redirect:
-  - /6uSI1g
+redirect: []
 ---
 
 **Project: Archive**
