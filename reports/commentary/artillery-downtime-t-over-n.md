@@ -1,6 +1,6 @@
 ---
 title: "Play a quarter, wait the rest: the dead-air problem in turn-based artillery games"
-description: "In a four-player artillery match you play about a quarter of the time and nothing after you die. tieubao's T/N formula, the feedback the lobshot prototype got, and the off-turn options the thread raised."
+description: "In a four-player artillery match you play about a quarter of the time and nothing after you die. tieubao's T/N formula and the off-turn options the lobshot thread raised."
 date: 2026-10-18
 toc: true
 type: writing
@@ -34,41 +34,39 @@ _Fig. 1: A ten-minute, four-player match as an example of T/N. Each player's act
 
 ## The formula
 
-Take a ten-minute match with four players. Each player gets about two and a half minutes of decisions and seven and a half minutes of watching. A player who dies at minute six gets nothing for the last four. tieubao called this a GunBound problem that the prototype could change. He said he was reading up on why GunBound and Gunny failed. The thread did not reach an answer on that.
+Take a ten-minute match with four players. Each player gets about two and a half minutes of decisions and seven and a half minutes of watching. A player who dies at minute six gets nothing for the last four. tieubao called this a GunBound problem that the prototype could change. He said he was reading up on why GunBound and Gunny failed. The thread did not take that further.
 
 ## Four layers of feedback
 
-The feedback came from different people on different days. Sorted, it falls into four layers.
-
-| Layer                 | What came up, and who said it                                                                                                                                                                                         | Why it matters                                                   |
-| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| First-session clarity | tieubao: the wind changes constantly and the game is hard to play; add a countdown before the wind changes; the angle reads relative to horizontal                                                                   | A player who cannot read the wind or the angle rarely plays twice |
-| Core-loop feel        | datnguyennnx: the weapons lack force, and this kind of game lives on weapon effects; keep the Gunny base and vary the effects, the way Valorant does. bievh: a plus-13 upgrade should show an aura                   | Where fans of the genre judge the feel                            |
-| Retention layer       | tuanddd's own list: background music, referral, bulletins and campaigns, rank progression, a second resource beyond coins for items and weapon sockets. bievh: special characters                                    | Only counts once the first two layers hold                        |
-| Launch constraints    | tuanddd: the name lobshot reads awkwardly, and keeping it may draw the store catalog's attention right after approval                                                                                                | A naming and distribution decision, separate from gameplay        |
+| Layer                 | What came up, and who said it                                                                                                                                                                                          |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| First-session clarity | tieubao, on the night of the release: the wind changes constantly and the game is hard to play; add a countdown before the wind changes; the angle reads relative to horizontal                                        |
+| Core-loop feel        | datnguyennnx: the weapons lack force, and this kind of game lives on weapon effects; keep the Gunny base and vary the effects, the way Valorant does. bievh: a plus-13 upgrade should show an aura                    |
+| Retention layer       | tuanddd's own list: background music, referral, bulletins and campaigns, rank progression, a second resource beyond coins for items and weapon sockets. bievh: special characters                                     |
+| Launch constraints    | tuanddd: the name lobshot reads awkwardly, and keeping it right after approval risks the attention of "mấy anh catalog" (the catalog people)                                                                           |
 
 ## The options the thread raised
 
-tieubao's first proposal was an option after death, ghost mode. tuanddd replied that a ghost already exists: "mà nó bay vòng vòng v thôi" (it only floats around). The rest of the list grew over the next twenty minutes.
+On the morning of 13 October tieubao proposed story mode first: win solo users, add PvP later. Matchmaking against bots, wrapped as story mode, would double as the tutorial. tuanddd: that is the campaign, and it needs a huge amount of art.
 
-| Option                      | Source                                                                                                                                   | Cost named in the thread                            |
-| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| Ghost with a job            | tieubao: the ghost sees the shot path, chats with teammates, maybe influences aim or helps defend. tuanddd: "bóng ma phù hộ đồng đội" (the ghost blesses teammates) | None named                                          |
-| Off-turn defence            | tieubao: a skill to raise a shield while defending, a small chance to defend, dice-like resolution as in strategy games, or a tap minigame like bievh's alchemy | None named                                          |
-| Team combo, terrain, elements | tieubao, after a search: alter shot or power through a team combo, alter the terrain, add elements with effectiveness                    | None named                                          |
-| Bot matches as story mode   | tieubao: story mode first, win solo users, add PvP later; matchmaking against bots wrapped as story mode, doubling as the tutorial         | tuanddd: that is the campaign, and it needs a huge amount of art |
+Four minutes later came the T/N messages. tieubao's first fix for downtime was an option after death, ghost mode. tuanddd replied that a ghost already exists: "mà nó bay vòng vòng v thôi" (it only floats around). tieubao kept going: the ghost sees the shot path, chats with teammates, maybe influences aim or helps defend. At that point he wrote "chac add backlog roi intro tu tu :))" (probably add to the backlog and introduce them slowly). The list grew for another ten minutes.
 
-tuanddd's own shortlist read "weapon idea + cool effect / story mode / ghost mode / new maps". tieubao's call: "chac add backlog roi intro tu tu" (add to the backlog and introduce them slowly).
+| Option                        | Source                                                                                                                                                                          |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ghost with a job              | tieubao: sees the shot path, chats, influences aim or defends. tuanddd: "bóng ma phù hộ đồng đội" (the ghost blesses teammates)                                                   |
+| Off-turn defence              | tieubao: a skill to raise a shield while defending, a small chance to defend, dice-like resolution as in strategy games, or a tap minigame like bievh's alchemy                 |
+| Team combo, terrain, elements | tieubao, after a search: alter shot or power through a team combo, alter the terrain, add elements with effectiveness                                                             |
+| Bot matches as story mode     | tieubao, earlier that morning, as above                                                                                                                                         |
 
-## Scope two days later
+tuanddd's own shortlist read "weapon idea + cool effect / story mode / ghost mode / new maps".
 
-On 13 October tuanddd listed what the build already had: a story, daily quests, level ranking, seasonal events with limited items, a dashboard to schedule events, and a dashboard for metrics and gift codes. His own caveat: the ranking needs a simulation to see how long max level takes. tieubao's answer: "cho no day du truoc, roi lua. cai gi thi lua" (let it be complete first, then choose what to keep).
+## Scope, the same evening
 
-The story so far: the town of Bombom has four-leaf clovers, four bosses took the leaves, and the bomber goes to find them. tuanddd: "story need more work". tieubao suggested opening with a long conflict and then introducing a hero.
+That evening tuanddd listed what the build already had: a story, daily quests, level ranking, seasonal events with limited items, a dashboard to schedule events, and a dashboard for metrics and gift codes. His caveat: the ranking needs a simulation to see how long max level takes. tieubao asked to see the lore. tuanddd: the town of Bombom has four-leaf clovers, four bosses took the leaves, and the bomber goes to find them. "story need more work". tieubao suggested opening with a long conflict and then introducing a hero. His closing line on scope: "cho no day du truoc, roi lua. cai gi thi lua" (let it be complete first, then choose what to keep).
 
 ## One number to track
 
-T/N gives the prototype a measurement: seconds a player spends deciding, divided by match seconds, with dead time counted as zero. Every option above moves that ratio. The off-turn ones also lengthen each turn, so T grows while the wait shrinks. The thread did not measure it. The next build can.
+T/N gives the prototype a measurement: seconds a player spends deciding, divided by match seconds, with dead time counted as zero. The off-turn options target the waiting share of that ratio. Nobody in the thread measured it.
 
 ## Sources
 
