@@ -70,7 +70,59 @@ Dwarves has no rule that pays members for posts in the repo, so this page promis
 
 ## Anatomy of a memo post
 
-<!-- ch2: pending media standard -->
+A memo post is one Markdown file, a folder of media beside it, and a frontmatter block the lint reads line by line. Four decisions shape it: the folder, the frontmatter, the voice and the figures.
+
+### Pick the folder
+
+Each folder holds one kind of claim, and each has a test. [`_meta/taxonomy.md`](https://github.com/dwarvesf/brainery/blob/main/_meta/taxonomy.md?plain=1) is the source of truth for the full list. This table keeps the folders most posts land in.
+
+| Folder                | Test                                                          | Default kind | Word floor |
+| --------------------- | ------------------------------------------------------------- | ------------ | ---------- |
+| `reports/shipped/`    | A live deployment, two weeks or more, with real metrics       | Field report | 1,200      |
+| `reports/experiment/` | A controlled, reproducible setup with honest limitations      | Field report | 1,200      |
+| `reports/lessons/`    | Hindsight on a project three months or more old, from records | Field report | 1,200      |
+| `reports/commentary/` | Cited sources plus an original Dwarves angle                  | Essay        | 800        |
+| `essays/`             | Remove the date and it still reads                            | Essay        | 800        |
+| `journals/<series>/`  | Remove the date and it loses its meaning                      | Digest       | none       |
+| `case-studies/`       | A client project outcome                                      | Case study   | 800        |
+| `site/`               | A website function page                                       | Reference    | none       |
+
+A second classification goes in `tags` or `series`, never in a new folder. Reports stay flat: `reports/<tier>/<name>.md`, with no subfolders.
+
+### Write the frontmatter
+
+![](assets/contribute-to-memo-fig2-frontmatter.svg)
+
+_Fig. 2: A frontmatter block, annotated. Required fields, optional fields, and the two things that never belong._
+
+Three fields are required: `title`, `description` and `date`. Playbooks and handbook pages may skip the date. Add a `slug` to every new post. It is flat kebab-case, unique across the vault, and it becomes the URL, `memo.d.foundation/<slug>`. The build fails on a duplicate.
+
+The lint does not parse YAML. It counts any `key:` line as a top-level key and wants exactly one colon outside quotes on each. A title like `Why: a thing` fails until you quote it. Put nested values on one line in flow style, and quote a numeric tag such as `"101"`.
+
+Everything else is optional: `authors`, `tags`, `kind`, `series`, `image` and `redirect`. A moved file keeps its slug and appends its old URL to `redirect:`. `draft: true` hides a page in production, and a draft cannot be a redirect target. Two things never go in the frontmatter. An `evidence` key is out because the build derives the tier from the folder. A Discord name in `authors` is out because it creates a wrong contributor page, which chapter 7 covers.
+
+### Kinds and word floors
+
+Every note resolves to one kind: note, reference, digest, playbook, essay, field report or case study. The folder sets the default and a `kind:` line overrides it. The lint warns when the body falls under the floor: 150 words for a note, 400 for a playbook, 800 for an essay or a case study, 1,200 for a field report. Reference and digest have no floor. Code blocks, images and link addresses do not count. A warning does not fail the check. Expand the post, merge it into a sibling, or set the kind it really is.
+
+### Voice
+
+Memo reads as an essay, so first person and contractions are fine. Three things make a post worth reading: something firsthand that only the author could write, a verdict a peer could dispute, and evidence in the page, such as a command, a pull request or a before-and-after.
+
+AI writing gives itself away through structure more than word choice. [The tells](/ai-writing-tells) lists the patterns the editors reject, among them corrective negation, antithesis pairs, setup-and-payoff landings and summary closers. Name the concrete thing in your title, and leave the body H1 out because the title already renders.
+
+### Figures and media
+
+The full rules sit on their own page, the [Memo media and styling standard](/memo-media-standard). They apply to every path, guest imports included. The budgets are targets that editors check by hand.
+
+- **Format.** Draw diagrams as SVG. Use a raster only for photos, screenshots and scans, as webp at quality 80 or PNG after `pngquant`. Keep one file per image, because the worker never serves a `.webp` twin beside a `.png`.
+- **Size.** Aim for a raster under 200 KB and between 704 and 1600 pixels wide, and an SVG under 60 KB. The reading column is about 704 pixels wide, so a narrower image blurs.
+- **SVG.** Author at a `viewBox` width of 720 to 760 with no fixed `width` or `height`, and add `style="width:100%;height:auto;max-width:<W>px;display:block"`. Start with an opaque background rect, or the figure floats on the dark theme.
+- **Alt and captions.** Every image gets non-empty alt text. Put an italic `_Fig. N: caption._` line under each figure, and name files `<slug>-figN-<name>.svg`.
+- **Hero and share card.** The first image in the body is the hero and the social card. Set `image:` only when the hero is not first, with an absolute path like `/content/<vault-path>/assets/<file>.png`.
+- **Credit.** Credit any image you did not make on the line under the caption.
+
+After a merge, `media-sync` moves raster files to the storage bucket and strips them from git. SVG stays in the repo. The workflow compresses each raster first and prints a warning in the run summary for any file still over 200 KB. The warning never fails the run.
 
 ## The member path
 
@@ -219,8 +271,74 @@ The fork steps above are yours too. Your badge is team.
 
 ## The guest writer path
 
-<!-- ch5: pending media standard -->
-<!-- ch5 notes for the writer: Figs. 6 and 7 are reserved for the two guest-writer screenshots. They live at reports/shipped/assets/memo-guest-writers-shot-join.png and reports/shipped/assets/memo-guest-writers-shot-skill.png. From handbook/memo/ the relative path is ../../reports/shipped/assets/<file>.png; the renderer resolves it with path.resolve and the lint exempts raster links. -->
+You own a blog domain, and your post lives on your own site first. After approval, an editor imports it as a native memo note with your name, your avatar and a link back to your original. The import is a bot commit straight to `main`, so there is no pull request to open.
+
+### Join
+
+Two routes lead to the same request. Tell your agent to read `memo.d.foundation/skill.md`, or fill in the form on `memo.d.foundation/writers/join`. The form emails you the verification code and the setup steps. Your agent shows them in the chat instead.
+
+![](../../reports/shipped/assets/memo-guest-writers-shot-join.png)
+
+_Fig. 6: The join page. The agent route sits at the top and the form below it files the same request._
+
+The request carries your domain, an optional handle, a display name, an email and a consent scope. Memo answers with a one-time code. You publish it at `https://<domain>/.well-known/dwarves.json` next to your name, and it expires after 24 hours. The file requires `name` and accepts optional `avatar`, `feed` and `memo_verification` fields. Memo fetches it to confirm you control the domain, and then an editor approves or declines. Nothing is automatic.
+
+![](../../reports/shipped/assets/memo-guest-writers-shot-skill.png)
+
+_Fig. 7: The top of `skill.md`, the one file an agent reads to run the join._
+
+### Consent scope
+
+You pick one scope at join, and editors can only select posts inside it.
+
+| You choose                    | What it means                                                          |
+| ----------------------------- | ---------------------------------------------------------------------- |
+| "Everything I have published" | Memo may list any post from before today. Editors pick which to import |
+| "Only posts I name"           | Memo lists only the URLs you give. Nothing else is touched             |
+| "New posts only"              | Nothing from before today. Memo may suggest posts you publish later    |
+
+### How posts get picked
+
+A post reaches review in one of three ways. If you gave memo a `feed`, it checks the feed daily and suggests new posts to the editors. An editor can also pick past posts from your site, inside your scope. Or you email the URLs to team@d.foundation. There is no submit API, so the email is the whole mechanism, and no reply time is published.
+
+### Review and rewards
+
+A review agent judges each post against a written rubric: original, grounded in real work, and coherent. The bar is deliberately permissive. The verdict is published, rejected with a plain reason, or held for a human. A published post becomes an ordinary note in a folder an editor chooses, credited to you and linked to your original.
+
+A published post earns 5 to 20 ICY, a whole number an editor sets for that post. A skipped post earns 0 and carries a written reason. Each person has a monthly cap that the editors can change. Views and likes never enter the math. Payouts are manual and batched, and wallet linking opens later.
+
+### Removal
+
+Delete or unpublish the post on your own site and memo takes its note down at the next daily check. Serve a `410` and it goes that day. A `404` gets a one-day grace period. Small edits sync through, and a rewrite or a new title goes back through review.
+
+### What happens to your images and styling
+
+Memo does not copy your images. The importer keeps each `<img>` as a Markdown image that points at your server. It never fetches the file, and the committer writes `.md` files only. So today:
+
+- Your images are hotlinked. A post shows an image only while you keep it online at the same address. Remove the post from memo before you move or delete its images, or the memo copy breaks until the next check.
+- Memo does not compress them. Aim for a raster under 200 KB and at least 704 pixels wide. Nothing measures either number today. An editor opens each image address during review, and an over-budget image never blocks an approval. Memo does not check alt text either.
+- Only `https` image addresses survive. An `http:` or `data:` image is dropped with no warning, and so is an `<img>` inside a `figure.fig`.
+- Your own share image is not carried. The social card uses the site default unless an editor sets a hero.
+- Whether your consent covers copying images is an open question for the editors, and re-hosting is not built.
+
+The one live guest note, "Designing Out SNAP Fraud", shows what survives. All 26 of its rich figures came through intact. It has no raster image, so the hotlink path is untested in production.
+
+Your site probably does more than memo carries over. The table lists the common cases. The full list is in the [Memo media and styling standard](/memo-media-standard).
+
+| Your site does this            | On memo                                    | Do this instead                                                |
+| ------------------------------ | ------------------------------------------ | -------------------------------------------------------------- |
+| Custom web fonts               | Dropped. Type maps to memo's sans and mono | Set type with `--font-body`, `--fk-font` and `--fk-mono`       |
+| Page-wide CSS, theme or layout | Not loaded. Only figure stylesheets load   | Put figure styles in a `figures.css`, with `fig` in the path   |
+| Inline `<script>` or `<style>` | Ignored                                    | Use figkit attributes such as `data-tip` and `data-animate`    |
+| `<iframe>` embeds              | Removed                                    | Link out, and add a still image with alt text                  |
+| `<img>` inside `figure.fig`    | Dropped silently                           | Draw it as inline SVG, or place the image in a plain paragraph |
+| `<svg>` outside `figure.fig`   | Removed, with a `dropped_figures` warning  | Wrap it in `<figure class="fig">`                              |
+
+Rich figures follow their own contract at [`memo.d.foundation/figures.md`](https://memo.d.foundation/figures.md). The static figure must read fully with scripts off, and memo loads at most three same-host stylesheets whose path contains `fig`.
+
+### Where this stands
+
+The door has worked once, for the maintainer's own domain. No outside writer has gone through it. The rubric and the reward rule are written down, and neither has been tested on a stranger's post. If you are the first, tell the editors at team@d.foundation what confused you.
 
 ## Let your agent do it
 

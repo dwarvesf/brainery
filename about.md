@@ -1,7 +1,7 @@
 ---
-title: null
-description: null
-date: null
+title: About Dwarves Memo
+description: Dwarves Memo is the learning-in-public notebook of Dwarves, built on the brainery repo and written by product craftsmen for engineers.
+date: 2026-10-18
 redirect:
   - /CyAKEw
 ---
@@ -21,7 +21,7 @@ Applying the Zettelkasten method to construct our reference neuron network, we c
 
 ### Contributing
 
-We encourage our members to read, write, share what we learn with others, and [contributing to the Brainery](CONTRIBUTING.md) is an important part of our learning culture.
+We encourage our members to read, write, share what we learn with others, and [contributing to the Brainery](/contribute-to-memo) is an important part of our learning culture.
 
 For visitors, you are welcome to read them, contribute to them, and [suggest additions](https://discord.gg/dfoundation). We maintain a monthly pool of $1500 to reward contributors who support our journey of lifelong growth in knowledge and network.
 

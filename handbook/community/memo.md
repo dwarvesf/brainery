@@ -11,9 +11,10 @@ tags:
   - memo
 redirect:
   - /eFskmA
+draft: true
 ---
 
-Every company has stories. We just happen to have _lots_ of them – tales of building teams, surviving milestones, how we live, how we work. We share these stories, our learnings, and pretty much everything else on [Dwarves Memo](https://memo.d.foundation). Think of it as pulling back the curtain so you can understand us better.
+Every company has stories. We just happen to have _lots_ of them: tales of building teams, surviving milestones, how we live, how we work. We share these stories, our learnings, and pretty much everything else on [Dwarves Memo](https://memo.d.foundation). Think of it as pulling back the curtain so you can understand us better.
 
 ## What's memo all about?
 
@@ -59,7 +60,7 @@ Please do! Memo is built on Markdown files stored directly in our [GitHub reposi
    - `author`: Your GitHub username or identifier used in the system (e.g., `tieubao`).
    - `date`: `YYYY-MM-DD`.
 3. **Formatting:**
-   - Use standard Markdown headings (`#`, `##`, `###`). Keep it simple – `###` should generally be the deepest level. Use **bold** for emphasis if needed, not smaller headings.
+   - Use standard Markdown headings (`#`, `##`, `###`). Keep it simple: `###` should generally be the deepest level. Use **bold** for emphasis if needed, not smaller headings.
    - Keep paragraphs relatively short and focused. Use lists, images, and code blocks where helpful.
 4. **Submit a pull request:** Commit your changes and open a PR against the main branch of the repository. Once reviewed and merged, GitHub Pages will automatically rebuild the site, and your post will appear on [memo.d.foundation](https://memo.d.foundation).
 
@@ -67,7 +68,7 @@ Please do! Memo is built on Markdown files stored directly in our [GitHub reposi
 
 We loosely follow a Zettelkasten-like idea. Quick notes or initial findings might start as simple Markdown files or drafts within the repository (perhaps in a personal fork or a specific drafts area). As ideas mature and become more robust, they get refined, given proper frontmatter, and moved into the main `vault/` structure to become official Memo posts via the PR process.
 
-We genuinely encourage everyone to contribute. Your voice, your experiences – that's what makes Memo valuable. Nothing reveals who we are better than the people living it every day.
+We genuinely encourage everyone to contribute. Your voice, your experiences: that's what makes Memo valuable. Nothing reveals who we are better than the people living it every day.
 
 ---
 

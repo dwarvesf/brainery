@@ -11,6 +11,7 @@ tags:
   - zettelkasten
 redirect:
   - /vYSR0A
+draft: true
 ---
 
 Our content starts as rough ideas and matures into polished insights. Here’s how we break it down into four levels, each with a clear purpose.
