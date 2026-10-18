@@ -77,7 +77,7 @@ Areas like deeper AI automation and spatial computing are on our radar.
 
 ### Case study: Golang adoption
 
-My Golang bet is an example. As an engineer, I studied languages. Go fixed many pain points and had potential for concurrent systems. I helped build the Golang Vietnam community, which gave real-world signals. Go delivered; we built a strong team and worked with top companies, proving the thesis right.
+My Golang bet is an example. As an engineer, I studied languages. Go fixed many pain points and had potential for concurrent systems. I helped build the Golang Vietnam community, which gave real-world signals. Go delivered; we built a strong team and worked with top companies, proving the thesis right. The hiring around the bet did not go as well, and [the Go bet report](../../reports/lessons/scaling.md) counts both.
 
 ### Resources
 

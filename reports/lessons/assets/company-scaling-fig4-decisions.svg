@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 412" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<defs>
+    <pattern id="g4" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="412" fill="#12395f"/>
+  <rect width="760" height="412" fill="url(#g4)"/>
+  <rect x="0.5" y="0.5" width="759" height="411" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 4 · TEN DATED DECISIONS</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">HIRING AND INTAKE, IN ORDER</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+  <line x1="150" y1="66" x2="150" y2="327" stroke="#68839d"/>
+  <text x="136" y="69" font-size="10" fill="#a7c0d9" text-anchor="end">2015</text>
+  <circle cx="150" cy="66" r="4" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <text x="166" y="70" font-size="11" fill="#e8f1fa">First stack: Go, Docker, Ansible</text>
+  <text x="746" y="69" font-size="9" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">THE BET</text>
+  <text x="136" y="98" font-size="10" fill="#a7c0d9" text-anchor="end">2018</text>
+  <circle cx="150" cy="95" r="4" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <text x="166" y="99" font-size="11" fill="#e8f1fa">A client asks for a Go team on short notice</text>
+  <text x="746" y="98" font-size="9" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">THE SIGNAL</text>
+  <text x="136" y="127" font-size="10" fill="#e8c56a" text-anchor="end">JUL 2020</text>
+  <circle cx="150" cy="124" r="4" fill="#e8c56a" stroke="#e8c56a" stroke-width="2"/>
+  <text x="166" y="128" font-size="11" fill="#e8c56a">Rule written: hire when quality drops, not when work arrives</text>
+  <text x="746" y="127" font-size="9" letter-spacing="1.5" fill="#e8c56a" text-anchor="end">THE RULE</text>
+  <text x="136" y="156" font-size="10" fill="#a7c0d9" text-anchor="end">OCT 2021</text>
+  <circle cx="150" cy="153" r="4" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <text x="166" y="157" font-size="11" fill="#e8f1fa">Screen projects on four tests; engineers get a say</text>
+  <text x="746" y="156" font-size="9" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">INTAKE</text>
+  <text x="136" y="185" font-size="10" fill="#a7c0d9" text-anchor="end">DEC 2021</text>
+  <circle cx="150" cy="182" r="4" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <text x="166" y="186" font-size="11" fill="#e8f1fa">A 60-day plan for new hires; senior engineers promoted to leads</text>
+  <text x="746" y="185" font-size="9" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">RAMP-UP</text>
+  <text x="136" y="214" font-size="10" fill="#a7c0d9" text-anchor="end">MAR 2022</text>
+  <circle cx="150" cy="211" r="4" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <text x="166" y="215" font-size="11" fill="#e8f1fa">Four-stage hiring, 1h50 of candidate time, peers in the room</text>
+  <text x="746" y="214" font-size="9" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">FILTER</text>
+  <text x="136" y="243" font-size="10" fill="#a7c0d9" text-anchor="end">AUG 2022</text>
+  <circle cx="150" cy="240" r="4" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <text x="166" y="244" font-size="11" fill="#e8f1fa">Probation passes on 3 upvotes from the team</text>
+  <text x="746" y="243" font-size="9" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">FIT</text>
+  <text x="136" y="272" font-size="10" fill="#a7c0d9" text-anchor="end">SEP 2023</text>
+  <circle cx="150" cy="269" r="4" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <text x="166" y="273" font-size="11" fill="#e8f1fa">Fundamentals, full-stack engineers, half company, half community</text>
+  <text x="746" y="272" font-size="9" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">SKILL</text>
+  <text x="136" y="301" font-size="10" fill="#a7c0d9" text-anchor="end">OCT 2024</text>
+  <circle cx="150" cy="298" r="4" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <text x="166" y="302" font-size="11" fill="#e8f1fa">Foundation and Lab teams named as the core</text>
+  <text x="746" y="301" font-size="9" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">FOCUS</text>
+  <text x="136" y="330" font-size="10" fill="#a7c0d9" text-anchor="end">MAY 2025</text>
+  <circle cx="150" cy="327" r="4" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <text x="166" y="331" font-size="11" fill="#e8f1fa">Business correction and role strategy written down</text>
+  <text x="746" y="330" font-size="9" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">RECORD</text>
+  <line x1="0" y1="353" x2="760" y2="353" stroke="#385a7b"/>
+  <text x="14" y="375" font-size="10" fill="#e8c56a">&#183; the rule came 15 months before the surge; the 2022 goal to double the team came after it</text>
+  <text x="14" y="393" font-size="10" fill="#a7c0d9">&#183; every date is the date printed on the page that records the decision</text>
+</svg>
