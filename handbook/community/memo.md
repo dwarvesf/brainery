@@ -9,8 +9,7 @@ tags:
   - handbook
   - learning
   - memo
-redirect:
-  - /eFskmA
+redirect: []
 draft: true
 ---
 

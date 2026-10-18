@@ -3,8 +3,12 @@ draft: false
 title: "Sensemaking (reading note)"
 description: Sensemaking is a humanities-based method that uses cultural understanding and empathy to interpret how people relate to their world, offering deep insights beyond data and algorithms.
 date: 2026-08-27
+slug: sensemaking-reading-note
 redirect:
   - /wlR6Rw
+  - /research/topics/ux/sensemaking/sensemaking
+  - /topics/ux/sensemaking/sensemaking
+  - /ux/sensemaking/sensemaking
 authors:
   - tieubao
 ---

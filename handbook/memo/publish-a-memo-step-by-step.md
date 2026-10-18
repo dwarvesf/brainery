@@ -11,11 +11,7 @@ authors:
 tags:
   - guide
   - memo
-redirect:
-  - /handbook/memo/publish-on-memo
-  - /xyPMcA
-  - /handbook/memo/publication-workflow
-  - /cbnI7g
+redirect: []
 draft: true
 ---
 
