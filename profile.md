@@ -7,8 +7,8 @@ hide_title: true
 pinned: true
 redirect:
   - /xUhOSA
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 ---
 
 ## About Dwarves consulting

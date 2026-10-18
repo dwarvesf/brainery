@@ -4,8 +4,8 @@ description: A pre-release checklist covering git, testing, changelog, dependenc
 date: null
 redirect:
   - /AUqO3Q
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 ---
 
 When you are ready to release, remember to check off everything on your release checklist.

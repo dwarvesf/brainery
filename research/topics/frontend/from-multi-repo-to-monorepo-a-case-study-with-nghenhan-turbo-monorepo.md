@@ -3,8 +3,8 @@ draft: false
 title: "From multi-repo to monorepo: a case study with Nghenhan Turbo"
 description: Learn how migrating to a Turbo-powered monorepo cut build times by 60%, boosted developer productivity by 40%, and simplified dependency management in a real trading platform case study.
 date: 2023-03-20
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 tags:
   - engineering
   - framework

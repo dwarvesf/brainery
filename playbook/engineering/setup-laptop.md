@@ -5,8 +5,8 @@ date: null
 kind: note
 redirect:
   - /pZbnCg
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 ---
 
 In UNIX, the files start with a dot “.” are hidden. If you list files in the directory, they don’t show up and keep them safe from the end users. Because of that reason, the developer usually uses it to store configurations of their tools.

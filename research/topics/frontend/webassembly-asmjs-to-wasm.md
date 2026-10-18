@@ -3,8 +3,8 @@ draft: false
 title: "A quick introduction to WebAssembly, part 2: from asm.js to WebAssembly"
 description: "How asm.js made a subset of JavaScript fast, why it still fell short, and how that led to WebAssembly."
 date: 2020-06-15
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 tags:
   - wasm
 slug: webassembly-asmjs-to-wasm

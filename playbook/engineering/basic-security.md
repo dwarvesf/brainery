@@ -4,8 +4,8 @@ description: Security checklists for laptops, phones, passwords and encryption, 
 date: null
 redirect:
   - /1P3kIw
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 ---
 
 ## Devices

@@ -4,8 +4,8 @@ description: A learning map for blockchain development covering cryptography bas
 date: null
 redirect:
   - /Xrs4ag
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 ---
 
 - [N commandments](#n-commandments)

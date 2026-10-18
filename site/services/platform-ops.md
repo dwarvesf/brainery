@@ -3,8 +3,8 @@ title: Platform ops expertise & solutions
 short_title: Platform Ops
 description: We automate infrastructure that scales. From AI-driven DevOps to intelligent observability, we help companies build platform operations that actually work in production, not just demos.
 date: 2025-01-12
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 tags:
   - platform-ops
   - devops

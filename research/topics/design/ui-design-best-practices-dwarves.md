@@ -3,8 +3,8 @@ draft: false
 title: "UI design best practices at Dwarves: Figma handover to developers"
 description: Learn essential Figma best practices for designers to ensure smooth handovers to developers, including version control, layer management, naming conventions, and effective communication for high-quality UI projects.
 date: 2020-11-24
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 tags:
   - design
   - process

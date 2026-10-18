@@ -5,8 +5,8 @@ description: Learn Lester Dent’s simple master plot for crafting suspenseful 6
 date: 2026-08-27
 redirect:
   - /VwWGpA
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 ---
 
 Prolific pulp writer Lester Dent (Doc Savage) outlines a simple master plot for crafting short (6000-word) stories.

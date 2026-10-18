@@ -4,8 +4,8 @@ description: What makes a changelog useful to people, with a change-type convent
 date: null
 redirect:
   - /vMt0gg
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 ---
 
 Remember the last time you read over the changelog of your favorite app and found it sucks with useless information like they don't care about the product that they sell out. Something like below

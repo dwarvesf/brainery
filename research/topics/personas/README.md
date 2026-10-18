@@ -5,8 +5,8 @@ description: Learn how to create effective user personas based on qualitative re
 date: 2026-08-27
 redirect:
   - /hv6r9w
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 ---
 
 ## General information

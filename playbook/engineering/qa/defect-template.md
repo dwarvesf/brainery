@@ -4,8 +4,8 @@ description: A template for writing a defect report, with priority and severity 
 date: null
 redirect:
   - /gQk3hg
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 ---
 
 ### Summary

@@ -3,8 +3,8 @@ title: Borrowing & requesting company assets
 short_title: Request an asset
 description: How to borrow company assets like books or devices, or request new ones. Simple steps for getting the gear you need.
 date: 2019-02-21
-authors: []
-credit: Dwarves Foundation
+authors:
+  - neko
 tags:
   - assets
   - guide
