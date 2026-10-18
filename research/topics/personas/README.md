@@ -6,7 +6,7 @@ date: 2026-08-27
 redirect:
   - /hv6r9w
 authors:
-  - neko
+  - neko-anon
 ---
 
 ## General information

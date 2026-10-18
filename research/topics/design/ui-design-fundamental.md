@@ -4,7 +4,7 @@ title: "UI design fundamentals: aesthetics, content and interaction"
 description: Learn how to design effective user interfaces by focusing on aesthetics, content, and interaction to create user-centered apps and websites that engage and meet user needs.
 date: 2018-03-20
 authors:
-  - neko
+  - neko-anon
 tags:
   - design
 redirect:

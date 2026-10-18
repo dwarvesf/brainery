@@ -5,7 +5,7 @@ date: null
 redirect:
   - /CidQXQ
 authors:
-  - neko
+  - neko-anon
 ---
 
 This document provides guidance on some key metrics to track when logging and monitoring a frontend application.

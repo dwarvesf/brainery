@@ -12,7 +12,7 @@ redirect:
   - /blockchain/precautions
   - /y1jyKw
 authors:
-  - neko
+  - neko-anon
 ---
 
 ### 1. Abstract-vs-interfaces

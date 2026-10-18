@@ -3,7 +3,7 @@ title: Seven traits to assess in an interview
 description: Seven traits to probe in a hiring interview (grit, rigor, impact, teamwork, ownership, curiosity, polish) and a question that tests each.
 date: 2019-09-20
 authors:
-  - neko
+  - neko-anon
 tags:
   - people
 redirect:

@@ -4,7 +4,7 @@ title: "An i18n guideline for frontends: locale detection, routing and RTL text"
 description: Learn how to implement multi-language support with locale detection, internationalized routing, RTL/LTR text handling, and i18next formatting in React.js and Next.js front-end applications.
 date: 2023-04-03
 authors:
-  - neko
+  - neko-anon
 tags:
   - performance
   - engineering

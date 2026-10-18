@@ -6,7 +6,7 @@ date: 2026-08-27
 redirect:
   - /SoioNQ
 authors:
-  - neko
+  - neko-anon
 ---
 
 The number of interviews of participants you might need to engage with in a round of qualitative interviews to achieve data saturation can be difficult to estimate. But, there are a few variables that usually factor in.

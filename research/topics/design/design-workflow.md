@@ -4,7 +4,7 @@ title: "A design workflow from user research to UI principles"
 description: Learn how to improve product design with user research, job stories, guerrilla usability testing, wireframing, UI principles, prototyping, and design systems for consistent and effective user interfaces.
 date: 2018-03-22
 authors:
-  - neko
+  - neko-anon
 tags:
   - design
 redirect:

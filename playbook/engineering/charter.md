@@ -5,7 +5,7 @@ date: null
 redirect:
   - /xD6Npg
 authors:
-  - neko
+  - neko-anon
 ---
 
 ## Definitions

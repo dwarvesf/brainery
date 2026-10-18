@@ -4,7 +4,7 @@ title: "About DevOps: continuous integration, automation and collaboration"
 description: Learn how DevOps improves software delivery with continuous integration, automation, testing, and collaboration between development and operations for faster, reliable releases.
 date: 2018-07-23
 authors:
-  - neko
+  - neko-anon
 tags:
   - devops
 redirect:

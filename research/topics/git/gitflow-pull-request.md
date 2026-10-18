@@ -4,7 +4,7 @@ title: "Gitflow and pull requests: branching models, reviews and workflows"
 description: Learn the best Git workflows, branching models, commit message tips, pull request strategies, code review practices, and merge vs rebase guidance to boost team productivity and code quality.
 date: 2021-04-10
 authors:
-  - neko
+  - neko-anon
 tags:
   - git
 redirect:

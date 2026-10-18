@@ -5,7 +5,7 @@ date: null
 redirect:
   - /GHb2lA
 authors:
-  - neko
+  - neko-anon
 ---
 
 Following setup helps us maintain stability and increase the transparency among team members.

@@ -5,7 +5,7 @@ date: null
 redirect:
   - /ITTTxA
 authors:
-  - neko
+  - neko-anon
 ---
 
 Our definition of Engineering Philosophy, the guiding ideas that help to shape up the way we think and work, to ensure the core values and to deliver quality softwares.

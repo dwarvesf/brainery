@@ -5,7 +5,7 @@ date: null
 redirect:
   - /h2928Q
 authors:
-  - neko
+  - neko-anon
 ---
 
 ### Our perspective on technology

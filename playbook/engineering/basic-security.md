@@ -5,7 +5,7 @@ date: null
 redirect:
   - /1P3kIw
 authors:
-  - neko
+  - neko-anon
 ---
 
 ## Devices

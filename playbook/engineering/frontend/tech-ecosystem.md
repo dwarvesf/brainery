@@ -5,7 +5,7 @@ date: null
 redirect:
   - /Qy1Zdw
 authors:
-  - neko
+  - neko-anon
 ---
 
 This document is intended to give you a taste of how we build frontend applications at Dwarves, and more importantly, why we choose the technology. It still assumes basic knowledge of React and [Next.js](https://nextjs.org/docs/getting-started). **If you're completely new to React, please refer to <https://github.com/petehunt/react-howto> instead!**

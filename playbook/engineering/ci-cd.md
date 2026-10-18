@@ -5,7 +5,7 @@ date: null
 redirect:
   - /fa8afg
 authors:
-  - neko
+  - neko-anon
 ---
 
 ## What

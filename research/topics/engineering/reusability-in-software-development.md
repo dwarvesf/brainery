@@ -4,7 +4,7 @@ title: "Reusability in software development, part 1: benefits, problems and the 
 description: "Why software teams reuse code, what goes wrong, and the landscape of reuse from single classes to complete systems."
 date: 2020-05-05
 authors:
-  - neko
+  - neko-anon
 tags:
   - engineering
 redirect:

@@ -4,7 +4,7 @@ title: "What makes good design: usability, accessibility, credibility and typogr
 description: Learn what makes good UX and UI design by exploring key factors like usability, accessibility, credibility, color, typography, and layout to create effective, user-friendly digital products.
 date: 2018-04-02
 authors:
-  - neko
+  - neko-anon
 tags:
   - design
 redirect:

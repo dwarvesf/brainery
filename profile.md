@@ -8,7 +8,7 @@ pinned: true
 redirect:
   - /xUhOSA
 authors:
-  - neko
+  - neko-anon
 ---
 
 ## About Dwarves consulting

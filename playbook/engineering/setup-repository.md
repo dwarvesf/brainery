@@ -5,7 +5,7 @@ date: null
 redirect:
   - /4LejNg
 authors:
-  - neko
+  - neko-anon
 ---
 
 How we expect projects to be setup.

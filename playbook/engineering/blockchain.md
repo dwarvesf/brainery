@@ -5,7 +5,7 @@ date: null
 redirect:
   - /Xrs4ag
 authors:
-  - neko
+  - neko-anon
 ---
 
 - [N commandments](#n-commandments)

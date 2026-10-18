@@ -4,7 +4,7 @@ title: "Reusability in software development, part 2: application frameworks and 
 description: "How object-oriented application frameworks package reuse, and how software product lines reuse a common core across a family of related products."
 date: 2020-05-05
 authors:
-  - neko
+  - neko-anon
 tags:
   - engineering
 slug: software-reuse-frameworks-product-lines

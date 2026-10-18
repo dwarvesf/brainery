@@ -5,7 +5,7 @@ date: null
 redirect:
   - /unCMng
 authors:
-  - neko
+  - neko-anon
 ---
 
 This section describes the environments you should have, at a minimum. It might sound like a lot, but there is a purpose for each one.

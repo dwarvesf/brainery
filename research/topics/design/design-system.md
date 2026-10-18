@@ -4,7 +4,7 @@ title: "Building a design system that unites teams and speeds up design work"
 description: Learn how to create a design system that unites teams, speeds up design workflows, and improves product quality with reusable components, visual language, design tokens, and UI libraries.
 date: 2018-03-23
 authors:
-  - neko
+  - neko-anon
 tags:
   - design
 redirect:

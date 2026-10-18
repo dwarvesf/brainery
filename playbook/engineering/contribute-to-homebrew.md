@@ -3,7 +3,7 @@ title: How we contribute to Homebrew
 description: A walkthrough of writing a Homebrew formula for a Go CLI and submitting it, from our 2016 glod-cli contribution, with notes on what changed since.
 date: 2016-03-13
 authors:
-  - neko
+  - neko-anon
 tags:
   - open-source
 redirect:

@@ -5,7 +5,7 @@ date: null
 redirect:
   - /ovB8uw
 authors:
-  - neko
+  - neko-anon
 ---
 
 Dwarves Design is a young and small design studio, founded in 2018.

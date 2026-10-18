@@ -5,7 +5,7 @@ date: null
 redirect:
   - /0OkhcQ
 authors:
-  - neko
+  - neko-anon
 ---
 
 An API is a user interface for developers. Put the effort in to ensure it's not just functional but pleasant to use.

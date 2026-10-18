@@ -5,7 +5,7 @@ date: null
 redirect:
   - /xYYbTg
 authors:
-  - neko
+  - neko-anon
 ---
 
 ## Why license?

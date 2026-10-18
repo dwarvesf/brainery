@@ -5,7 +5,7 @@ date: null
 redirect:
   - /8YSu0g
 authors:
-  - neko
+  - neko-anon
 ---
 
 Testing your application is a vital part of serious development. For the front-end, you don't need 100% code coverage, about 70% is probably good enough. Following are some principles:
