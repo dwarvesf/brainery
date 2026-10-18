@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Vietnamese game launches need a distribution plan before store submission'
 description: 'A short note on why an indie game aimed at Vietnam should choose its launch surface before the store paperwork starts.'
 date: 2026-10-07

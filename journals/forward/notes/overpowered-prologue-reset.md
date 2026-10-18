@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'An overpowered prologue can make a level-one reset feel earned'
 description: 'A game-opening idea turns the usual loss-of-power tutorial into the reason the story begins.'
 date: 2026-10-16

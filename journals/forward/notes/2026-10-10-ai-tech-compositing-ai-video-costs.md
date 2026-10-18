@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Compositing can make AI video experiments cheaper'
 description: 'A short note on why AI video prototypes can spend less on generation when more of the work moves into rendering and compositing.'
 date: 2026-10-10
