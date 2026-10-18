@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Do one thing well
 description: Explore the Unix philosophy of small, sharp tools and how it applies to modern product development and agentic AI. Learn why focused, composable solutions beat bloated all-in-one products.
 date: 2025-06-05
@@ -14,6 +14,7 @@ tags:
   - ai
   - design
   - focus
+redirect: []
 ---
 
 **The best products do one thing exceptionally well.** This isn't just a nice-to-have philosophy, it's the foundation of sustainable product development. Rooted in the Unix tradition of small, sharp tools, this mindset offers a powerful alternative to the bloated, everything-and-the-kitchen-sink approach that plagues modern software.
@@ -55,4 +56,4 @@ This philosophy becomes crucial for AI systems:
 
 The future belongs to products and AI systems that do one thing exceptionally well and compose beautifully with others. In a world of infinite possibilities, focus becomes your competitive advantage.
 
-*Sources: Adapted from "Small, Sharp Tools" by Brandur Leach, [brandur.org](https://brandur.org/small-sharp-tools), December 12, 2014. Additional insights from "The Art of Unix Programming" by Eric S. Raymond and modern Unix tool communities.*
+_Sources: Adapted from "Small, Sharp Tools" by Brandur Leach, [brandur.org](https://brandur.org/small-sharp-tools), December 12, 2014. Additional insights from "The Art of Unix Programming" by Eric S. Raymond and modern Unix tool communities._

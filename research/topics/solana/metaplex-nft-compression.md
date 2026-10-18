@@ -1,6 +1,6 @@
 ---
-draft: false
-title: Metaplex NFT compression
+draft: true
+title: Metaplex NFT compression (research note)
 description: Metaplex NFT compression is a technology that allows for the compression of NFTs on the Solana blockchain, reducing the cost of on-chain storage for NFTs. This article provides an overview of the technology, how it works, and its potential impact on the Solana ecosystem.
 date: 2023-03-13
 authors:
@@ -10,8 +10,7 @@ tags:
   - blockchain
   - nft
   - solana
-redirect:
-  - /2wFHbg
+redirect: []
 ---
 
 With the rise of NFTs on the Solana blockchain, there is a growing demand for these digital assets to be as commonplace as any other item on the internet. This includes every single item in a game's inventory, proof of engagement in popular consumer apps, and even a personal profile for every human on Earth.

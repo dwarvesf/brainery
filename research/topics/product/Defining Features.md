@@ -1,13 +1,12 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Defining features (research note)
+description: This phase usually happens after the MVP stage.
+date: 2026-10-18
 tags:
   - features
   - product
-redirect:
-  - /IXMQww
+redirect: []
 ---
 
 This phase usually happens after the MVP stage. Once the idea is validated as an early version, product owners tend to get overwhelmed with feature request and nubmers of way to develop the next highlight.
