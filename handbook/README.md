@@ -10,6 +10,8 @@ tags:
   - handbook
 redirect:
   - /OIHpPw
+  - /LOadJw
+  - /handbook/guides/password-sharing
   - /handbook/misc/marketing-assets
   - /YjK0eQ
   - /handbook/memo/memo-meeting
