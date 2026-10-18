@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "#5 Building is cheap now. Getting heard is the hard part."
+title: "#5 Building is cheap now. getting heard is the hard part."
 short_title: Plot
 description: Han talks with Ethan Phan, co-founder and CTO of Plot, about reading a pivot signal, staying lean for 2.5 to 3 years, and running an AI-native engineering team where distribution, not building, is the bottleneck.
 date: 2026-10-18
@@ -23,13 +23,13 @@ I talked with Ethan Phan, CTO of Plot, about how a small AI-native startup decid
 
 **By the numbers**
 
-| | |
-|---|---|
-| About 8x | Per-engineer velocity since Q1. It doubled every quarter. |
-| Top 10% | Still top 10% against startups of the same engineering size, every quarter. So the whole industry doubles too. |
+|                |                                                                                                                  |
+| -------------- | ---------------------------------------------------------------------------------------------------------------- |
+| About 8x       | Per-engineer velocity since Q1. It doubled every quarter.                                                        |
+| Top 10%        | Still top 10% against startups of the same engineering size, every quarter. So the whole industry doubles too.   |
 | 2.5 to 3 years | Time to product-market fit (the stage where real customers want the product enough to keep using and buying it). |
-| Fewer than 20 | People in the whole company. |
-| $10M | Seed round, announced June 2026 (public). |
+| Fewer than 20  | People in the whole company.                                                                                     |
+| $10M           | Seed round, announced June 2026 (public).                                                                        |
 
 **Who is Plot**
 
@@ -47,7 +47,7 @@ My own engineering has slowed lately, so I asked what I wanted answered: how doe
 
 ## The pivot signal
 
-*The hard part of a pivot is knowing when the old idea is done.*
+_The hard part of a pivot is knowing when the old idea is done._
 
 **Han:** How do you know when to switch? Do you track the market, talk to investors, run a pilot for three to six months?
 
@@ -71,7 +71,7 @@ _Plot's AI Search reads thousands of creator videos to answer one marketing ques
 
 ## Stay lean, expect a long road
 
-*Lean sounds like a style. For Plot it was a bill that ran for years.*
+_Lean sounds like a style. For Plot it was a bill that ran for years._
 
 **Han:** Were you self-funded in the early days?
 
@@ -87,7 +87,7 @@ _Plot announced a \$10M seed in June 2026. Image: Plot newsroom._
 
 ## Distribution is the new bottleneck
 
-*Anyone can ship in a weekend now. If that is true for everyone, shipping stops being the edge.*
+_Anyone can ship in a weekend now. If that is true for everyone, shipping stops being the edge._
 
 **Ethan:** You can build an app in a couple of hours these days. But **building fast is no longer the constraint**. The question is whether you can reach the right people fast enough for them to use the product and for you to iterate. Everyone is fast, so those people get bombarded. You need connections in place.
 
@@ -103,7 +103,7 @@ _Fig. 1: Building got cheap; reaching the right people is the new bottleneck._
 
 ## Running engineering with agents
 
-*This is the part I came for. When I talk to an agent, I often trust my own judgment more than a handoff to a person. I wanted to know if that is a trap.*
+_This is the part I came for. When I talk to an agent, I often trust my own judgment more than a handoff to a person. I wanted to know if that is a trap._
 
 **Han:** How big is the team, and how do you split the work?
 
@@ -121,7 +121,7 @@ _Fig. 1: Building got cheap; reaching the right people is the new bottleneck._
 
 **Ethan:** No. We are project-based, and **almost every engineer leads their own projects** as the directly responsible individual. We are building a Claude-assisted process for transparency and alignment, without making engineers project managers. It comes from a Q3 lesson: no process, projects slipped, and engineers handed off to design too early.
 
-*That Q3 is the cost side of the story. With no process, work bounced between engineering and design and the team lost time.*
+_That Q3 is the cost side of the story. With no process, work bounced between engineering and design and the team lost time._
 
 **Han:** How do you balance time with agents and time with people?
 
