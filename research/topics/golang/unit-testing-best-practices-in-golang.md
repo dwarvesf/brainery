@@ -1,7 +1,7 @@
 ---
 draft: false
-title: Unit testing best practices in Golang
-description: An in-depth exploration of arrays and slices in Go, covering their differences, internal implementations, and key operations like append. Learn about fixed-length arrays, flexible slices, and how Go manages memory allocation for growing slices.
+title: Unit testing in Go, conventions and best practices
+description: How to write unit tests in Go, from file and function naming to table-driven tests and mocking with gomock.
 date: 2023-04-11
 authors:
   - taynguyen
@@ -226,7 +226,7 @@ Although it depends on the project's status, ideally, we recommend aiming for a 
 
 Golang possesses a robust testing framework; however, employing supplementary tools can enhance the development experience and reduce code creation efforts.
 
-- **Mocking**: Rather than creating mock code manually, consider utilizing a mocking library, such as gomock or mockery, which supports mocking and generates mocks from interfaces, thereby reducing time expenditure.
+- **Mocking**: Rather than creating mock code manually, consider utilizing a mocking library, such as gomock or mockery, which supports mocking and generates mocks from interfaces, thereby reducing time expenditure. Update (2026): the original `golang/mock` repository is [archived](https://github.com/golang/mock); gomock is now maintained as [`go.uber.org/mock`](https://pkg.go.dev/go.uber.org/mock/gomock).
 - **Assert**: The default Golang testing framework has limited assertion capabilities. Alternatively, tools like testify provide improved support and more user-friendly assertions.
 
 ## Conclusion

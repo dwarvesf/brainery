@@ -1,10 +1,7 @@
 ---
 draft: false
-title: Agent-centric design
-description: As AI agents become inevitable, software design must 
-shift from human-centric to agent-centric experiences. The future 
-belongs to systems that optimize for machine-to-machine 
-interaction, not just human interfaces.
+title: Designing software for AI agents
+description: As AI agents become inevitable, software design must shift from human-centric to agent-centric experiences. The future belongs to systems that optimize for machine-to-machine interaction, not just human interfaces.
 date: 2025-06-20
 authors:
   - tieubao
@@ -14,13 +11,15 @@ tags:
   - agent
 ---
 
+_Snapshot from 2025. Some tools and numbers have changed._
+
 **Agent systems aren't coming, they're here.** While most software still prioritizes human interfaces, a fundamental shift is already underway. The companies building tomorrow's dominant platforms are designing for agent-to-agent interactions first, human experiences second.
 
 ## The delegation revolution is accelerating
 
 AI agents now handle 40% of customer service interactions across major platforms. The pattern emerging from early adopters reveals something more profound: **people don't just want AI assistance, they want AI delegation.**
 
-Modern professionals already delegate 3-4 tasks daily to AI agents. Email drafting, schedule management, data analysis, and content creation have become agent territory. This isn't about replacing humans. It's about *amplifying human decision-making capacity* while agents handle routine cognitive work.
+Modern professionals already delegate 3-4 tasks daily to AI agents. Email drafting, schedule management, data analysis, and content creation have become agent territory. This isn't about replacing humans. It's about _amplifying human decision-making capacity_ while agents handle routine cognitive work.
 
 ## Agent-first design changes everything
 
@@ -28,9 +27,9 @@ Traditional software design assumes human interaction at every step. But when ag
 
 **Agent-centric systems prioritize different values:**
 
-- *Speed over aesthetics:* Agents need rapid data exchange, not visual polish
-- *Structure over flexibility:* Machines excel with consistent, predictable interfaces
-- *Semantic clarity over intuitive design:* Clear communication matters more than user-friendly presentation
+- _Speed over aesthetics:_ Agents need rapid data exchange, not visual polish
+- _Structure over flexibility:_ Machines excel with consistent, predictable interfaces
+- _Semantic clarity over intuitive design:_ Clear communication matters more than user-friendly presentation
 
 Companies that redesigned their APIs for agent consumption report **60% faster integration times** and 40% fewer support tickets. The agent-friendly approach reduces friction for both machine and human users.
 
@@ -38,10 +37,10 @@ Companies that redesigned their APIs for agent consumption report **60% faster i
 
 Agent-centric software demands different infrastructure priorities. Traditional systems optimize for human usage patterns. Agent systems require different optimization strategies:
 
-- *API-first architecture:* Every feature must be accessible programmatically
-- *Asynchronous processing:* Agents work 24/7, requiring always-available systems
-- *Structured data exchange:* JSON and machine-readable formats replace human-readable text
-- *Comprehensive error handling:* Agents need detailed error information to recover gracefully
+- _API-first architecture:_ Every feature must be accessible programmatically
+- _Asynchronous processing:_ Agents work 24/7, requiring always-available systems
+- _Structured data exchange:_ JSON and machine-readable formats replace human-readable text
+- _Comprehensive error handling:_ Agents need detailed error information to recover gracefully
 
 Companies building agent-first infrastructure report **30% lower operational costs** compared to human-centric systems.
 

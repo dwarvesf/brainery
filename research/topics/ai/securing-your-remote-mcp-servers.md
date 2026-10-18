@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Securing your remote MCP servers
+title: Authorization for remote MCP servers over SSE
 description: This guide explores implementing robust authorization for Model Context Protocol (MCP) over Server-Sent Events (SSE) transport, providing a standardized framework for secure AI-to-tool communication while maintaining vendor independence.
 date: 2025-03-27
 authors:
@@ -14,15 +14,19 @@ redirect:
   - /oBFhMg
 ---
 
+_Snapshot from 2025. Some tools and numbers have changed._
+
 ![](assets/securing-your-remote-mcp-servers-1.webp)
 
 The AI ecosystem is rapidly evolving beyond isolated systems toward integrated networks of AI models and tools. At the core of this evolution lies the **Model Context Protocol (MCP)**, a standardized communication framework that enables AI systems to interact with external tools and services. However, as we build these powerful interconnections, security becomes paramount.
 
 This guide explores how to implement robust authorization for MCP over **Server-Sent Events (SSE)** transport. While the core MCP specification establishes a foundation for AI-to-tool communication, it intentionally leaves security implementation details to system architects. Here, we'll extend the MCP draft authorization guidelines while maintaining vendor independence.
 
+Update (2026): this guide was written against the 2025-03-26 draft, and the spec has moved since. The HTTP+SSE transport used here has been deprecated since protocol version 2025-03-26. The [2026-07-28 changelog](https://modelcontextprotocol.io/specification/latest/changelog) reclassifies it as Deprecated and says to migrate to Streamable HTTP, so treat the SSE code below as a legacy pattern. Authorization also changed. Per the [current authorization spec](https://modelcontextprotocol.io/specification/latest/basic/authorization), an MCP server is an OAuth 2.1 resource server and must implement OAuth 2.0 Protected Resource Metadata (RFC 9728). Clients use that metadata to find the authorization server, instead of probing `/.well-known/oauth-authorization-server` on the MCP server. Clients must also send the RFC 8707 `resource` parameter, and Dynamic Client Registration is deprecated in favor of Client ID Metadata Documents. The current [transports page](https://modelcontextprotocol.io/specification/latest/basic/transports) lists only stdio and Streamable HTTP as standard transports.
+
 ## TL;DR: Speedrunning MCP auth with SSE transport
 
-Here is a practical implementation of authorization for the Model Context Protocol (MCP) following Anthropic's [specifications](https://spec.modelcontextprotocol.io/specification/draft/basic/authorization/). We use standard OAuth 2.1 with PKCE for authentication while leveraging SSE for transport. The approach uses Bearer token authorization in request headers to secure the connection.
+Here is a practical implementation of authorization for the Model Context Protocol (MCP) following Anthropic's [specifications](https://modelcontextprotocol.io/specification/latest/basic/authorization). We use standard OAuth 2.1 with PKCE for authentication while leveraging SSE for transport. The approach uses Bearer token authorization in request headers to secure the connection.
 
 **Client-side implementation:**
 

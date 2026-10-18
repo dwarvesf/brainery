@@ -11,9 +11,11 @@ redirect:
   - /F5AIbQ
 ---
 
+_Snapshot from 2016. Some tools and numbers have changed._
+
 **Estimation** (or **estimating**) is the process of finding an **estimate**, or approximation, which is a value that is usable for some purpose even if input data may be incomplete, uncertain, or unstable.
 
-The value is nonetheless usable because it is derived from the best information available. [1](https://piemapping.atlassian.net/wiki/spaces/EN/pages/37486626/Estimations#Estimations-source-1)
+The value is nonetheless usable because it is derived from the best information available.
 
 ## Estimation units
 
@@ -37,7 +39,7 @@ _The reason for using the Fibonacci sequence is to reflect the inherent uncertai
 
 ### Time
 
-Estimation using time is also used for some specific [issue types](https://piemapping.atlassian.net/wiki/spaces/EN/pages/32997407/Issue+types). This estimation is the amount of time originally anticipated to resolve the issue.
+Estimation using time is also used for some specific issue types. This estimation is the amount of time originally anticipated to resolve the issue.
 
 When estimating using time the team must consider how long something will take if:
 

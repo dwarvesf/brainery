@@ -15,6 +15,8 @@ redirect:
   - /Ue22pw
 ---
 
+Update (2026): the removal described here has shipped. [Apache Kafka 4.0](https://kafka.apache.org/blog/2025/03/18/apache-kafka-4.0.0-release-announcement/) is the first major release to run entirely without ZooKeeper, and KRaft is now the only mode. The [4.0 upgrade guide](https://kafka.apache.org/40/getting-started/upgrade/) says "Apache Kafka 4.0 only supports KRaft mode - ZooKeeper mode has been removed", so clusters still on ZooKeeper must be migrated to KRaft before they can move to 4.0. Read the sentences below that say Kafka "continues to rely on" Zookeeper as describing the pre-4.0 state.
+
 ## Before the removal
 
 ### Importance of Zookeeper
@@ -71,8 +73,8 @@ For simple local setup, can refer to [Apache Kafka's quickstart guide](https://k
 
 ## References
 
-- [https://www.conduktor.io/kafka/zookeeper-with-kafka/](https://www.conduktor.io/kafka/zookeeper-with-kafka/ "https://www.conduktor.io/kafka/zookeeper-with-kafka/")
-- [https://developer.confluent.io/learn/kraft/](https://developer.confluent.io/learn/kraft/ "https://developer.confluent.io/learn/kraft/")
-- [https://raft.github.io/](https://raft.github.io/ "https://raft.github.io/")
-- [https://cwiki.apache.org/confluence/display/KAFKA/KIP-500%3A+Replace+ZooKeeper+with+a+Self-Managed+Metadata+Quorum](https://cwiki.apache.org/confluence/display/KAFKA/KIP-500%3A+Replace+ZooKeeper+with+a+Self-Managed+Metadata+Quorum "https://cwiki.apache.org/confluence/display/KAFKA/KIP-500%3A+Replace+ZooKeeper+with+a+Self-Managed+Metadata+Quorum")
-- [https://kafka.apache.org/documentation/#zk](https://kafka.apache.org/documentation/#zk "https://kafka.apache.org/documentation/#zk")
+- [https://www.conduktor.io/kafka/zookeeper-with-kafka/](https://www.conduktor.io/kafka/zookeeper-with-kafka/ 'https://www.conduktor.io/kafka/zookeeper-with-kafka/')
+- [https://developer.confluent.io/learn/kraft/](https://developer.confluent.io/learn/kraft/ 'https://developer.confluent.io/learn/kraft/')
+- [https://raft.github.io/](https://raft.github.io/ 'https://raft.github.io/')
+- [https://cwiki.apache.org/confluence/display/KAFKA/KIP-500%3A+Replace+ZooKeeper+with+a+Self-Managed+Metadata+Quorum](https://cwiki.apache.org/confluence/display/KAFKA/KIP-500%3A+Replace+ZooKeeper+with+a+Self-Managed+Metadata+Quorum 'https://cwiki.apache.org/confluence/display/KAFKA/KIP-500%3A+Replace+ZooKeeper+with+a+Self-Managed+Metadata+Quorum')
+- [https://kafka.apache.org/documentation/#zk](https://kafka.apache.org/documentation/#zk 'https://kafka.apache.org/documentation/#zk')

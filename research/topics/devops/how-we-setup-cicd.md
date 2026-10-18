@@ -11,6 +11,8 @@ redirect:
   - /aUmWYw
 ---
 
+_Snapshot from 2021. Some tools and numbers have changed._
+
 Before we dig through a detailed process, let's set some grounded knowledge about the CI/CD:
 
 `CI` stands for continuous integration. It involves linting, testing, building, and merging developers' various code changes into a shared repository such as GitHub, Gitlab, or pushing software images to a container registry, usually multiple times per day.
@@ -47,7 +49,7 @@ It is a bit more complicated when it comes to the system level. We have to mimic
 
 ### Building
 
-When things look right, we hit the merge button. This action will build a Docker image of a new codebase and put it in the container registry. We use Google Container Registry by default, Dockerhub for any experiments, and recently Amazon Elastic Container Registry.
+When things look right, we hit the merge button. This action will build a Docker image of a new codebase and put it in the container registry. We use Google Container Registry by default, Dockerhub for any experiments, and recently Amazon Elastic Container Registry. Update (2026): Google [shut down Container Registry on March 18, 2025](https://docs.cloud.google.com/container-registry/docs/deprecations/container-registry-deprecation) and recommends Artifact Registry instead.
 
 ### Deploying
 
@@ -63,7 +65,7 @@ When we have all the green lights, we pull the image from the Registry in our pr
 
 We believe that setting up CI/CD is everyone's job. It should be a culture, not a DevOps thingy. Things should be simple, the process needs to be well-defined, we seek for tools that help us remove some of the obstacles.
 
-A year ago, if we want to build an image inside a CI environment, we must know about Docker-in-Docker concept or mount the socket port. That's crazy, if you think about it because all we need to do is run a `docker build` and `docker push`. Then we found [kaniko](https://github.com/GoogleContainerTools/kaniko), a tool to build and push docker image without installing docker engine into our builder image.
+A year ago, if we want to build an image inside a CI environment, we must know about Docker-in-Docker concept or mount the socket port. That's crazy, if you think about it because all we need to do is run a `docker build` and `docker push`. Then we found [kaniko](https://github.com/GoogleContainerTools/kaniko), a tool to build and push docker image without installing docker engine into our builder image. Update (2026): the kaniko repository was [archived in June 2025](https://github.com/GoogleContainerTools/kaniko) and is no longer maintained.
 
 Seeking for simplicity is a must in everything we do; setting up CI should be a 30-minute job instead of a long day waiting for Quang to come for the rescue.
 
@@ -89,4 +91,4 @@ Technology is eating the world. The technology we used yesterday may be deprecat
 
 We build a team that wants to do innovative things, but innovation does not happen in a vacuum. It happens through many thoughts, experiments, assessments.
 
-By the time we write this article, we are giving [Earthly](https://github.com/earthly/earthly) the shot to further upgrade our stacks. And we don't mean to stop exploring, pushing the boundaries so perhaps we will write a follow up article of this, maybe a year later
+By the time we write this article, we are giving [Earthly](https://github.com/earthly/earthly) the shot to further upgrade our stacks. Update (2026): the Earthly README now says [Earthly is no longer actively maintained](https://github.com/earthly/earthly). And we don't mean to stop exploring, pushing the boundaries so perhaps we will write a follow up article of this, maybe a year later

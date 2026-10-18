@@ -70,6 +70,8 @@ This gives rise to a concept of difficulty, Once there are too many computers in
 
 The downside is that performance issues arise because every node calculates all the smart contracts in real-time. As of January 2016, the Ethereum protocol could process about 25 transactions per second. In comparison, the Visa payment platform processes 45,000 payments per second. The next Ethereum 2.0 can serve more than 100.000 transactions
 
+Update (2026): the ["Ethereum 2.0" name was phased out](https://blog.ethereum.org/2022/01/24/the-great-eth2-renaming) in favor of the execution layer and consensus layer. Ethereum moved to proof of stake at [The Merge on September 15, 2022](https://ethereum.org/en/roadmap/merge/), so the difficulty mechanism above no longer applies to it. The roadmap now treats [layer 2 rollups as the primary scaling technique](https://ethereum.org/en/developers/docs/scaling/), not sharding.
+
 Today we have a series of solutions to improve transaction speed on ethereum such as: Layer 2.
 
 ## Reference
