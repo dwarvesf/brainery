@@ -4,7 +4,7 @@ description: 'A small product-design note on reducing dead time in Gunbound-styl
 date: 2026-10-13
 authors:
   - baddeed
-  - vincent.console
+  - tuanddd
   - datnguyennnx
 tags:
   - game-design

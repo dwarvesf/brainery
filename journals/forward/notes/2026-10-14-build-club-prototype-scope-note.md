@@ -3,7 +3,7 @@ title: 'Prototype breadth needs a filter before it becomes product scope'
 description: 'A small game prototype thread shows why generated features still need simulation, selection, and a product filter.'
 date: 2026-10-14
 authors:
-  - vincent.console
+  - tuanddd
   - baddeed
   - bievh
 tags:

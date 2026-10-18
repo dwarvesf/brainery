@@ -3,7 +3,7 @@ title: 'An overpowered prologue can make a level-one reset feel earned'
 description: 'A game-opening idea turns the usual loss-of-power tutorial into the reason the story begins.'
 date: 2026-10-16
 authors:
-  - vincent.console
+  - tuanddd
 tags:
   - game-design
   - onboarding
@@ -30,5 +30,5 @@ This structure gives a familiar level-one reset an explicit narrative cause. It 
 ## Sources
 
 https://discord.com/channels/462663954813157376/1280726623414390805/1560507981802766488
-https://discord.com/channels/4626663954813157376/1280726623414390805/1560509347967148065
+https://discord.com/channels/462663954813157376/1280726623414390805/1560509347967148065
 https://discord.com/channels/462663954813157376/1280726623414390805/1560530413175312536
