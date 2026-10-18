@@ -184,8 +184,8 @@ It is simple: when you do something, share it publicly. I was trialling it with 
 
 ## References
 
-- [What is a product roadmap? The ultimate guide and resources (productplan.com)](https://www.productplan.com/learn/what-is-a-product-roadmap/)
-- [What is a product roadmap? Definition and product roadmap examples (airfocus.com)](https://airfocus.com/glossary/what-is-a-product-roadmap/)
+- [What is a product roadmap? the ultimate guide and resources (productplan.com)](https://www.productplan.com/learn/what-is-a-product-roadmap/)
+- [What is a product roadmap? definition and product roadmap examples (airfocus.com)](https://airfocus.com/glossary/what-is-a-product-roadmap/)
 - [A complete guide to product roadmaps (with examples) | Aha!](https://www.aha.io/roadmapping/guide/product-roadmap)
-- [Product Hunt 101: How to launch your product from early idea to revenue | by Martijn Verbove | The Startup | Medium](https://medium0.com/swlh/product-hunt-101-how-to-launch-your-product-from-early-idea-to-revenue-c3f01864cdde)
-- [Launching digital products 101. Put theory to practice. These workable… | by Justyna Aptowicz-Aydın | Agile Insider | Medium](https://medium0.com/agileinsider/launching-digital-products-101-af566104f6aa)
+- [Product Hunt 101: how to launch your product from early idea to revenue | by Martijn Verbove | The Startup | Medium](https://medium0.com/swlh/product-hunt-101-how-to-launch-your-product-from-early-idea-to-revenue-c3f01864cdde)
+- [Launching digital products 101. put theory to practice. these workable… | by Justyna Aptowicz-Aydın | Agile Insider | Medium](https://medium0.com/agileinsider/launching-digital-products-101-af566104f6aa)
