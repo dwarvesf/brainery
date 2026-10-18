@@ -177,7 +177,7 @@ order by 1;
 
 ## Where the notes went
 
-The business correction note is now a draft, and its URLs, including the short code, redirect to this page. The forming market thesis note now lives inside the [navigate ledger](./navigate-ledger.md), which keeps the method and points here for the Go case. Several navigate pages still link to the business correction note, and those links now land here.
+The business correction note is now a draft, and its URLs, including the short code, redirect to this page. The forming market thesis note now lives inside the [navigate ledger](./navigate-ledger.md), which keeps the method; this page holds the Go case. Several navigate pages still link to the business correction note, and those links now land here.
 
 | Old page                                      | What survived here                                                                      |
 | --------------------------------------------- | --------------------------------------------------------------------------------------- |
