@@ -74,7 +74,7 @@ A memo post is one Markdown file, a folder of media beside it, and a frontmatter
 
 ### Pick the folder
 
-Each folder holds one kind of claim, and each has a test. [`_meta/taxonomy.md`](https://github.com/dwarvesf/brainery/blob/main/_meta/taxonomy.md?plain=1) is the source of truth for the full list. This table keeps the folders most posts land in.
+Each folder holds one kind of claim, and each has a test. [`_meta/taxonomy.md`](https://github.com/dwarvesf/brainery/blob/main/_meta/taxonomy.md) is the source of truth for the full list. This table keeps the folders most posts land in.
 
 | Folder                | Test                                                          | Default kind | Word floor |
 | --------------------- | ------------------------------------------------------------- | ------------ | ---------- |
@@ -227,7 +227,7 @@ A fellow with a blog could use either door, and the choice decides where the pos
 
 ### You have a blog
 
-Use the guest writer flow. The fellow program page's own "Write as a Fellow" button leads to [memo.d.foundation/writers/join](https://memo.d.foundation/writers/join). Tell your agent to read [memo.d.foundation/skill.md](https://memo.d.foundation/skill.md?plain=1) and get you onto Dwarves Memo, or fill in the form on the join page. Chapter 5 walks the flow.
+Use the guest writer flow. The fellow program page's own "Write as a Fellow" button leads to [memo.d.foundation/writers/join](https://memo.d.foundation/writers/join). Tell your agent to read [memo.d.foundation/skill.md](https://memo.d.foundation/skill.md) and get you onto Dwarves Memo, or fill in the form on the join page. Chapter 5 walks the flow.
 
 Two points apply to fellows. If you already have a contributor handle from earlier posts, ask the editors at team@d.foundation to link your domain to it. The `dwarves.json` file you publish has an optional `native` field for that link, and memo treats it as a proposal that an admin confirms. After the link, your page is the member page, and the old contributor URL redirects there. Posts that arrive through the guest flow follow the guest reward rule in chapter 5.
 
@@ -275,7 +275,7 @@ You own a blog domain, and your post lives on your own site first. After approva
 
 ### Join
 
-Two routes lead to the same request. Tell your agent to read [memo.d.foundation/skill.md](https://memo.d.foundation/skill.md?plain=1), or fill in the form on [memo.d.foundation/writers/join](https://memo.d.foundation/writers/join). The form emails you the verification code and the setup steps. Your agent shows them in the chat instead.
+Two routes lead to the same request. Tell your agent to read [memo.d.foundation/skill.md](https://memo.d.foundation/skill.md), or fill in the form on [memo.d.foundation/writers/join](https://memo.d.foundation/writers/join). The form emails you the verification code and the setup steps. Your agent shows them in the chat instead.
 
 ![](../../reports/shipped/assets/memo-guest-writers-shot-join.png)
 
@@ -334,7 +334,7 @@ Your site probably does more than memo carries over. The table lists the common 
 | `<img>` inside `figure.fig`    | Dropped silently                           | Draw it as inline SVG, or place the image in a plain paragraph |
 | `<svg>` outside `figure.fig`   | Removed, with a `dropped_figures` warning  | Wrap it in `<figure class="fig">`                              |
 
-Rich figures follow their own contract at [`memo.d.foundation/figures.md`](https://memo.d.foundation/figures.md?plain=1). The static figure must read fully with scripts off, and memo loads at most three same-host stylesheets whose path contains `fig`.
+Rich figures follow their own contract at [`memo.d.foundation/figures.md`](https://memo.d.foundation/figures.md). The static figure must read fully with scripts off, and memo loads at most three same-host stylesheets whose path contains `fig`.
 
 ### Where this stands
 
@@ -344,11 +344,11 @@ The door has worked once, for the maintainer's own domain. No outside writer has
 
 Every door has a file an agent can read. You paste one sentence and the agent does the setup. A person still approves the steps that need one.
 
-| Your path                            | Agent skill                                                                                    | Mode   |
-| ------------------------------------ | ---------------------------------------------------------------------------------------------- | ------ |
-| Guest writer, or fellow with a blog  | [memo.d.foundation/skill.md](https://memo.d.foundation/skill.md?plain=1)                       | Join   |
-| Member with write access             | [memo.d.foundation/contribute-skill.md](https://memo.d.foundation/contribute-skill.md?plain=1) | Branch |
-| Staff or fellow without write access | [memo.d.foundation/contribute-skill.md](https://memo.d.foundation/contribute-skill.md?plain=1) | Fork   |
+| Your path                            | Agent skill                                                                            | Mode   |
+| ------------------------------------ | -------------------------------------------------------------------------------------- | ------ |
+| Guest writer, or fellow with a blog  | [memo.d.foundation/skill.md](https://memo.d.foundation/skill.md)                       | Join   |
+| Member with write access             | [memo.d.foundation/contribute-skill.md](https://memo.d.foundation/contribute-skill.md) | Branch |
+| Staff or fellow without write access | [memo.d.foundation/contribute-skill.md](https://memo.d.foundation/contribute-skill.md) | Fork   |
 
 Paste the prompt for your path into Claude Code, Codex, Cursor or any agent that can run shell commands.
 
@@ -425,7 +425,6 @@ Run the hook before you push, and most of these never reach CI. The messages bel
 | `TypeError: e.replace is not a function`, no file reported                     | A numeric tag such as `- 101` crashes the lint                                                               | Quote it: `- "101"`                                                                                                         |
 | Headline changed after the bot's commit, for example `What i'd do`             | The sentence-case bot lowercases a mid-heading `I` or a product name outside its short proper-noun list      | Rephrase the heading to avoid a mid-heading `I` or a product name                                                           |
 | Publish skipped after a merge                                                  | `[skip ci]` in the pull request body ended up in the squash message                                          | Dispatch the manual publish from chapter 3, and keep the string out of future bodies                                        |
-| A link renders as a short site path such as `/essays` and goes dead            | A link target ending in `.md` is rewritten as a vault-internal link                                          | For a GitHub file, add something after the extension: `https://github.com/<org>/<repo>/blob/<branch>/path/file.md?plain=1`  |
 | A figure runs into the sidebar                                                 | A fixed-width SVG wider than the reading column                                                              | Drop the fixed `width` and `height`, keep `viewBox`, and add `style="width:100%;height:auto;max-width:<W>px;display:block"` |
 | `git push` rejected as non-fast-forward                                        | The formatting bot pushed a commit to your branch                                                            | `git pull --rebase`, then push again. Do not force                                                                          |
 | A fork pull request shows no checks                                            | First-time contributor approval is pending                                                                   | Wait for a maintainer to click "Approve and run"                                                                            |
@@ -442,7 +441,6 @@ Run down this list before you open the pull request. The contributor skill check
 - [ ] `authors:` holds a GitHub-style handle, not a Discord name
 - [ ] No H1 in the body; headings are in sentence case
 - [ ] Figures are SVG without a fixed width, or optimized raster; every image has alt text and a caption
-- [ ] No link target ends in `.md` unless it has `?plain=1` after it
 - [ ] `./pre-commit-hook.sh install` ran and the commit passed
 - [ ] The pull request body is mine, and contains no `[skip ci]`
 - [ ] Fork path only: I asked a maintainer to click "Approve and run"
