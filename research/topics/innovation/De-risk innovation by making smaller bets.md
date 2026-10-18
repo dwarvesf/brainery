@@ -1,11 +1,12 @@
 ---
-draft: true
+draft: false
 title: "De-risk innovation by making smaller bets (reading note)"
 description: "Organizations should stake a balance between type 1 decisions, which are big, significant and risky; and type 2 decisions, which are low-risk, reversible, and offer new insights."
 date: 2026-08-21
 tags:
   - innovation
-redirect: []
+redirect:
+  - /6j7kfA
 ---
 
 Organizations should stake a balance between type 1 decisions, which are big, significant and risky; and type 2 decisions, which are low-risk, reversible, and offer new insights. At Amazon, for example, small teams are empowered to make decisions and act on type 2 decisions without heavy bureaucratic control; this helps ensure Amazon has a steady stream of new insights.
@@ -23,19 +24,21 @@ Relatedly, Richard Rumelt advocates the pursuit of "proximate objectives"—obje
 #### Related
 
 - [[Change happens gradually, then suddenly]]
-- [strategy is about developing perspective](https://publish.obsidian.md/mobydiction/strategy+is+about+developing+perspective)
+- strategy is about developing perspective
 - [[Different kinds of uncertainty]]
 - [[§ Innovation]]
 - [[≈ Good Strategy Bad Strategy]]
 
 #### Reference
 
-[McGrath, Rita Gunther. Seeing around Corners: How to Spot Inflection Points in Business before They Happen. Boston, Massachusetts: Houghton Mifflin Harcourt, 2019.](https://publish.obsidian.md/mobydiction/McGrath+-+Seeing+Around+Corners)
+McGrath, Rita Gunther. Seeing around Corners: How to Spot Inflection Points in Business before They Happen. Boston, Massachusetts: Houghton Mifflin Harcourt, 2019.
 
 O’Reilly, Barry. “Optimize to Be Wrong, Not Right.” Barry O’Reilly (blog), April 6, 2017. [https://barryoreilly.com/optimize-to-be-wrong-not-right/](https://barryoreilly.com/optimize-to-be-wrong-not-right/).
 
-[Rumelt, Richard. Good Strategy Bad Strategy: The Difference and Why It Matters. Illustrated edition. New York: Currency, 2011.](https://publish.obsidian.md/mobydiction/notes/%E2%89%88+Rumelt+-+Good+Strategy+Bad+Strategy)
+Rumelt, Richard. Good Strategy Bad Strategy: The Difference and Why It Matters. Illustrated edition. New York: Currency, 2011.
 
-[Varol, Ozan. Think Like a Rocket Scientist: Simple Strategies You Can Use to Make Giant Leaps in Work and Life. New York: PublicAffairs, 2020.](https://publish.obsidian.md/mobydiction/Varol+-+Think+Like+a+Rocket+Scientist)
+Varol, Ozan. Think Like a Rocket Scientist: Simple Strategies You Can Use to Make Giant Leaps in Work and Life. New York: PublicAffairs, 2020.
 
-[Viki, Tendayi. Pirates In the Navy How Innovators Lead Transformation. Unbound, 2020.](https://publish.obsidian.md/mobydiction/notes/%E2%89%88+Viki+-+Pirates+in+the+Navy)
+Viki, Tendayi. Pirates In the Navy How Innovators Lead Transformation. Unbound, 2020.
+
+Adapted from David Drysdale's Moby Diction notes.

@@ -1,11 +1,12 @@
 ---
-draft: true
+draft: false
 title: "Perspective comprises our stance, our tools, and our experience (reading note)"
 description: "According to Roger Martin, perspective on a given issue is formed by the interaction between three things: our stance, our tools, and our experience."
 date: 2026-08-21
 tags:
   - communication
-redirect: []
+redirect:
+  - /PKTgAA
 ---
 
 According to Roger Martin, perspective on a given issue is formed by the interaction between three things: our **stance**, our **tools**, and our **experience**.
@@ -22,10 +23,12 @@ These different elements do not flow linearly from one to another; they mutually
 
 #### Related
 
-- [Honing intuition](https://publish.obsidian.md/mobydiction/notes/Honing+intuition) \- We can hone our intuition by acquiring new knowledge and experiences.
-- [Salience is subjective](https://publish.obsidian.md/mobydiction/notes/Salience+is+subjective) \- What we view as salient to a problem or situation is informed by our subjective experiences
+- Honing intuition \- We can hone our intuition by acquiring new knowledge and experiences.
+- Salience is subjective \- What we view as salient to a problem or situation is informed by our subjective experiences
 - [[≈ The Opposable Mind]]
 
 #### Reference
 
 Martin, Roger L. The Opposable Mind: How Successful Leaders Win Through Integrative Thinking. 1st edition. Boston, Mass: Harvard Business Review Press, 2007.
+
+Adapted from David Drysdale's Moby Diction notes.

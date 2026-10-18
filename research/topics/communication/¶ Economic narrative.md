@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Economic narrative (reading note)"
 description: "An \"economic narrative\" is a contagious story that has the potential to change how people make economic decisions, such as how, why, and where to invest; how much to spend and to save; and whether to buy a home or take a certain job."
 date: 2026-08-27
@@ -8,7 +8,8 @@ authors:
 tags:
   - story-telling
   - writing
-redirect: []
+redirect:
+  - /H0MR6w
 ---
 
 An "economic narrative" is a contagious story that has the potential to change how people make economic decisions, such as how, why, and where to invest; how much to spend and to save; and whether to buy a home or take a certain job.

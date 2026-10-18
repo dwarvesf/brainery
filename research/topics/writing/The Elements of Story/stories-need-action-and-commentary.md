@@ -1,9 +1,10 @@
 ---
-draft: true
+draft: false
 title: "Stories need action and commentary (reading note)"
 description: Learn how balancing strong action with insightful commentary can create compelling stories using vivid verbs and clear interpretation to engage readers effectively.
 date: 2026-08-27
-redirect: []
+redirect:
+  - /kOdcWw
 authors:
   - tieubao
 ---

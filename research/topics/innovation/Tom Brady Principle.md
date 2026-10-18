@@ -1,12 +1,13 @@
 ---
-draft: true
+draft: false
 title: "Tom Brady Principle (reading note)"
 description: "The \"Tom Brady Principle\" questions the common practice of elevating high performers in an organization into management roles."
 date: 2026-08-21
 tags:
   - innovation
   - principle
-redirect: []
+redirect:
+  - /rUgRVg
 ---
 
 The "Tom Brady Principle" questions the common practice of elevating high performers in an organization into management roles. The argument imagines a hypothetical situation in which New England Patriots quarterback Tom Brady, after having won the SuperBowl and an MVP award, would be offered a "promotion" into a role as general manager of the team.
@@ -22,3 +23,5 @@ Instead of promoting top performers, organizations should compensate individuals
 #### Reference
 
 Milerd, Paul. “The Tom Brady Principle: Don’t Promote Your Best People.” _Boundless: Beyond The Default Path_ (blog), November 4, 2018. [Link](https://think-boundless.com/tom-brady-principle-dont-promote-your-best-peopl/).
+
+Adapted from David Drysdale's Moby Diction notes.

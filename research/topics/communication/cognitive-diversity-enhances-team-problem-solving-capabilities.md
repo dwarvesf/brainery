@@ -1,9 +1,10 @@
 ---
-draft: true
+draft: false
 title: "Cognitive diversity helps teams solve problems faster and more creatively"
 description: Teams with cognitive diversity solve problems faster and think more creatively than homogeneous groups, showing the value of diverse thinking styles in improving team performance and problem-solving.
 date: 2026-08-27
-redirect: []
+redirect:
+  - /IKPLDw
 authors:
   - tieubao
 ---
@@ -24,3 +25,5 @@ Roger L. Martin suggests that organizing teams for diverse specializations can a
 Martin, Roger L. The Opposable Mind: How Successful Leaders Win Through Integrative Thinking. 1st edition. Boston, Mass: Harvard Business Review Press, 2007.
 
 Reynolds, Alison, and David Lewis. “Teams Solve Problems Faster When They’re More Cognitively Diverse.” _Harvard Business Review_, March 30, 2017. [Link](https://hbr.org/2017/03/teams-solve-problems-faster-when-theyre-more-cognitively-diverse).
+
+Adapted from David Drysdale's Moby Diction notes.

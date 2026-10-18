@@ -1,9 +1,10 @@
 ---
-draft: true
+draft: false
 title: "Perspective as the mix of our stance, our tools and our experience"
 description: Learn how perspective is shaped by the interaction of stance, tools, and experience to better understand and approach complex problems effectively.
 date: 2026-08-27
-redirect: []
+redirect:
+  - /zR3teQ
 authors:
   - tieubao
 ---
@@ -22,9 +23,11 @@ These different elements do not flow linearly from one to another; they mutually
 
 #### Related
 
-- [Honing intuition](https://publish.obsidian.md/mobydiction/notes/Honing+intuition) \- We can hone our intuition by acquiring new knowledge and experiences.
-- [Salience is subjective](https://publish.obsidian.md/mobydiction/notes/Salience+is+subjective) \- What we view as salient to a problem or situation is informed by our subjective experiences
+- Honing intuition \- We can hone our intuition by acquiring new knowledge and experiences.
+- Salience is subjective \- What we view as salient to a problem or situation is informed by our subjective experiences
 
 #### Citations
 
 Martin, Roger L. The Opposable Mind: How Successful Leaders Win Through Integrative Thinking. 1st edition. Boston, Mass: Harvard Business Review Press, 2007.
+
+Adapted from David Drysdale's Moby Diction notes.

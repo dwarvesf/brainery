@@ -1,12 +1,13 @@
 ---
-draft: true
+draft: false
 title: "Inflection points reveal themselves first at the edges (reading note)"
 description: "Because strategic inflection points transform the fundamental assumptions under which a business operates, it can be difficult for organizations to fathom the new possibilities that they create."
 date: 2026-08-21
 tags:
   - innovation
   - strategy
-redirect: []
+redirect:
+  - /UN9Gog
 ---
 
 Because strategic inflection points transform the fundamental assumptions under which a business operates, it can be difficult for organizations to fathom the new possibilities that they create. The signs of an inflection point begin on the fringes; only those who are directly in contact with the signs will be able to identify them. It’s important to have an apparatus for identifying them early.
@@ -15,7 +16,7 @@ Organizations and their leaders can easily become prisoners of their own frames 
 
 To forecast accurately, we must understand that the future is woven together by threads that may already be emergent in the present. When we understand that, we create the possibility of identifying and influencing possible and probable futures.
 
-This can be uncomfortable. In many cases, business incentives make people reluctant to share uncomfortable lessons; this creates blind spots and allows problems to fester. [Organizations should protect their bearers of bad news.](https://publish.obsidian.md/mobydiction/notes/Protect+dissent)
+This can be uncomfortable. In many cases, business incentives make people reluctant to share uncomfortable lessons; this creates blind spots and allows problems to fester. Organizations should protect their bearers of bad news.
 
 Warning signs of strategic inflection points—once identified—should become a topic of discussion at management review meetings.
 
@@ -25,14 +26,16 @@ By carefully observing and testing these patterns, a futurist can offer a valuab
 
 #### Related
 
-- [Strategic inflection points disrupt the underlying assumptions of a business or industry](https://publish.obsidian.md/mobydiction/notes/Strategic+inflection+points+disrupt+the+underlying+assumptions+of+a+business+or+industry)
-- [Change happens gradually, then suddenly.](https://publish.obsidian.md/mobydiction/notes/Change+happens+gradually%2C+then+suddenly.)
-- [Innovation cascades](https://publish.obsidian.md/mobydiction/notes/Innovation+cascades)
-- [Sensemaking MOC](https://publish.obsidian.md/mobydiction/Sensemaking+MOC)
+- Strategic inflection points disrupt the underlying assumptions of a business or industry
+- Change happens gradually, then suddenly.
+- Innovation cascades
+- Sensemaking MOC
 - [[≈ The Signals are Talking]]
 - [[§ Innovation]]
 
 #### Reference
 
-- [McGrath - seeing around corners](https://publish.obsidian.md/mobydiction/McGrath+-+Seeing+Around+Corners)
-- [≈ Webb - the signals are talking](https://publish.obsidian.md/mobydiction/notes/%E2%89%88+Webb+-+The+Signals+are+Talking)
+- McGrath - Seeing around corners
+- ≈ Webb - The signals are talking
+
+Adapted from David Drysdale's Moby Diction notes.

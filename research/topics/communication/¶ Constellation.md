@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Constellation (reading note)"
 description: "According to Robert Shiller, large-scale economic narratives may comprise many other, smaller narratives."
 date: 2026-08-27
@@ -8,7 +8,8 @@ authors:
 tags:
   - communication
   - innovation
-redirect: []
+redirect:
+  - /l1OA8t0
 ---
 
 According to Robert Shiller, large-scale [[¶ Economic narrative | economic narratives]] may comprise many other, smaller narratives. Shiller calls these constellations: They are narratives that reinforce one another and are made more plausible by dint of their relationship to other narratives. No single economic event can be explained by just one economic narrative; they are not so easily explicable. Rather, they emerge in constellations.

@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Narratives generate real-world effects (reading note)"
 description: "Narratives, alone or in constellation with one another, produce real-world effects."
 date: 2026-08-27
@@ -9,7 +9,8 @@ tags:
   - communication
   - narrative
   - story-telling
-redirect: []
+redirect:
+  - /7yT2ywQ
 ---
 
 Narratives, alone or in constellation with one another, produce real-world effects. People use narratives to help them interpret events. As Kahnemann and Tversky outline in their model of the "representativeness heuristic," stories frame people's expectations and therefore inform how they will behave.

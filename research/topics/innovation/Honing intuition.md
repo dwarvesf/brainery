@@ -1,12 +1,13 @@
 ---
-draft: true
+draft: false
 title: "Honing intuition (reading note)"
 description: "In Sönke Ahrens words, intuition is the \"sedimented experience on which we build our conscious, explicit knowledge.\" To intuit good ideas, we must first consume good ideas."
 date: 2026-08-21
 tags:
   - innovation
   - intuition
-redirect: []
+redirect:
+  - /31aaxw
 ---
 
 In Sönke Ahrens words, intuition is the "sedimented experience on which we build our conscious, explicit knowledge." To intuit good ideas, we must first consume good ideas.
@@ -27,7 +28,7 @@ Not only that, we need to be able to process that information. According to Hube
 
 #### Reference
 
-[Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.](https://publish.obsidian.md/mobydiction/notes/%E2%89%88+Ahrens+-+How+to+Take+Smart+Notes)
+Ahrens, Sönke. How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers. Sönke Ahrens, 2017.
 
 Bhargava, Rohit. _Non Obvious Megatrends: How to See What Others Miss and Predict the Future_. Ideapress Publishing, 2020.
 
@@ -35,4 +36,6 @@ Dreyfus, S.E., and Hubert Dreyfus. “A Five-Stage Model of the Mental Activitie
 
 Kahneman, Daniel. _Thinking, Fast and Slow_. Anchor Canada, 2013.
 
-[Madsbjerg, Christian. Sensemaking: The Power of the Humanities in the Age of the Algorithm. Hachette Books, 2017.](https://publish.obsidian.md/mobydiction/notes/%E2%89%88+Madsbjerg+-+Sensemaking)
+Madsbjerg, Christian. Sensemaking: The Power of the Humanities in the Age of the Algorithm. Hachette Books, 2017.
+
+Adapted from David Drysdale's Moby Diction notes.

@@ -1,9 +1,10 @@
 ---
-draft: true
+draft: false
 title: "Ensure the trunk of a narrative is more substantial than the branches (reading note)"
 description: Learn how to keep your writing focused by emphasizing the main idea over qualifiers and details, ensuring your core theme remains clear and compelling.
 date: 2026-08-27
-redirect: []
+redirect:
+  - /rjR5rA
 authors:
   - tieubao
 ---

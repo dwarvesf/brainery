@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Common myths about innovation (reading note)"
 description: "One myth around innovation is that there are no bad ideas."
 date: 2026-08-27
@@ -8,7 +8,8 @@ authors:
 tags:
   - innovation
   - myth
-redirect: []
+redirect:
+  - /NrAgKw
 ---
 
 - One myth around innovation is that there are no bad ideas. This is not true. Innovative projects must continue to align with the larger business strategy.

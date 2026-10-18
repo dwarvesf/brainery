@@ -1,9 +1,10 @@
 ---
-draft: true
+draft: false
 title: "Deductive reasoning (reading note)"
 description: Deductive research tests theories by gathering data to confirm or reject hypotheses, focusing on concrete conclusions rather than generating new knowledge or predicting future events.
 date: 2026-08-27
-redirect: []
+redirect:
+  - /1brZIw
 authors:
   - tieubao
 ---

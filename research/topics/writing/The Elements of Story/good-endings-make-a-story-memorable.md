@@ -1,9 +1,10 @@
 ---
-draft: true
+draft: false
 title: "Good endings make a story memorable (reading note)"
 description: Learn how to craft a strong kicker ending that leaves readers thinking by adding depth, surprise, or a human touch without simply repeating the story’s main points.
 date: 2026-08-27
-redirect: []
+redirect:
+  - /zjzGLA
 authors:
   - tieubao
 ---

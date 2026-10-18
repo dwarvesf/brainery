@@ -1,9 +1,10 @@
 ---
-draft: true
+draft: false
 title: "Salience is subjective: Roger Martin on what we notice in a problem"
 description: Learn how Roger Martin explains problem solving by focusing on the most important information shaped by our stance, tools, and experience to improve decision-making and perspective.
 date: 2026-08-27
-redirect: []
+redirect:
+  - /cii1GA
 authors:
   - tieubao
 ---
@@ -24,3 +25,5 @@ This sense of salience can vary dramatically between different people: it is inf
 #### Citations
 
 Martin, Roger L. The Opposable Mind: How Successful Leaders Win Through Integrative Thinking. 1st edition. Boston, Mass: Harvard Business Review Press, 2007.
+
+Adapted from David Drysdale's Moby Diction notes.

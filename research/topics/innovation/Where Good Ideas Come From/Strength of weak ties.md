@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Strength of weak ties (reading note)"
 description: "Weak ties are strong."
 date: 2026-08-27
@@ -7,7 +7,8 @@ authors:
   - tieubao
 tags:
   - innovation
-redirect: []
+redirect:
+  - /dd9V4A
 ---
 
 Weak ties are strong. Steven Johnson suggests that weak ties help promote exaptation of ideas, and force encounters with alternative “idea spaces.”

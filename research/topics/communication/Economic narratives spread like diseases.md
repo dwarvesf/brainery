@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Economic narratives spread like diseases (reading note)"
 description: "The spread of economic narratives follows a similar pattern to the spread of diseases: there is a rapid rise in the number of the “infected” people spreading the story, but over time, the curve flattens and begins to diminish as people forget and lose interest in talking about the narrative."
 date: 2026-08-27
@@ -9,7 +9,8 @@ tags:
   - communication
   - narrative
   - story-telling
-redirect: []
+redirect:
+  - /Ryljag
 ---
 
 The spread of economic narratives follows a similar pattern to the spread of diseases: there is a rapid rise in the number of the “infected” people spreading the story, but over time, the curve flattens and begins to diminish as people forget and lose interest in talking about the narrative. Spread follows a familiar hump-shaped pattern of rising then falling over months, years, or even decades.

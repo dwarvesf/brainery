@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Narrative helps the human mind make sense of events (reading note)"
 description: "The human mind crafts its understanding of events by forming them into a narrative."
 date: 2026-08-21
@@ -8,7 +8,8 @@ tags:
   - narrative
   - story-telling
   - writing
-redirect: []
+redirect:
+  - /Bat6pg
 ---
 
 The human mind crafts its understanding of events by forming them into a narrative. Kahnemann and Tversky’s “representativeness heuristic” suggests that people form expectations based on an idealized story or model, and evaluate expectations based on how well it fits that model rather than probabilities.
@@ -34,3 +35,5 @@ Amy Webb suggests that narratives are powerful tools for communicating future sc
 #### Reference
 
 [[≈ Narrative Economics | Shiller, Robert J. Narrative Economics: How Stories Go Viral and Drive Major Economic Events. Princeton: Princeton University Press, 2019.]]
+
+Adapted from David Drysdale's Moby Diction notes.

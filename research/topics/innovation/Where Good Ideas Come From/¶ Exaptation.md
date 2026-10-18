@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Exaptation (reading note)"
 description: "“Exaptation” describes how a trait developed by a given organism may be adapted for a completely different function than its original purpose."
 date: 2026-08-27
@@ -7,7 +7,8 @@ authors:
   - tieubao
 tags:
   - innovation
-redirect: []
+redirect:
+  - /D0TnsQ
 ---
 
 “Exaptation” describes how a trait developed by a given organism may be adapted for a completely different function than its original purpose.
