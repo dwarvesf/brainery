@@ -3,10 +3,11 @@ title: LLM observability and tracing basics
 description: Why LLM-powered systems need observability, what the three pillars (metrics, logs, traces) cover, which metrics to track, and which tools support tracing.
 slug: llm-observability-basics
 kind: reference
+announce: false
 date: 2024-09-11
 authors:
-  - tienan92it
   - datnguyennnx
+  - tienan92it
 tags:
   - ai
   - llm

@@ -8,8 +8,9 @@ redirect:
   - /research/topics/defi/uniswap/note
   - /M1Tg9g
   - /defi/uniswap/note
-authors:
-  - tieubao
+authors: []
+credit: Finematics
+credit_url: "https://finematics.com/history-of-defi-explained/"
 ---
 
 ### Bitcoin
@@ -56,4 +57,4 @@ After that, many more clones appeared.
 
 Last event: Token UNI. All previous users of Uniswap suddenly received an amount of more than 1000 USD (at that time) => regain liquidity from Sushiswap.
 
-Follows the arc of Finematics, [History of DeFi](https://finematics.com/history-of-defi-explained/).
+Adapted from Finematics, [History of DeFi](https://finematics.com/history-of-defi-explained/).

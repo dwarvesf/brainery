@@ -3,6 +3,7 @@ title: Cloud and microservice patterns, notes on six distributed system patterns
 description: Notes on Publisher-Subscriber, Saga, CQRS, Sharding, Circuit Breaker and Throttling, with the problem each solves, how it works, when to use it and what to watch for.
 slug: cloud-and-microservice-patterns
 kind: reference
+announce: false
 date: 2026-10-18
 tags:
   - microservice

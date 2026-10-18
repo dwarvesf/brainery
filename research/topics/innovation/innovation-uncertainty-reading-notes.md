@@ -3,6 +3,7 @@ title: "Innovation under uncertainty: small bets, kinds of uncertainty and train
 description: "Reading notes on how organizations can innovate when the future is uncertain, covering type 1 and type 2 decisions, three kinds of uncertainty, narratives as decision tools, intuition, cascades and the Tom Brady principle."
 slug: innovation-uncertainty-reading-notes
 date: 2026-08-21
+announce: false
 authors: []
 credit: David Drysdale (Moby Diction)
 tags:

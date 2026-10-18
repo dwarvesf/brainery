@@ -3,12 +3,13 @@ title: How React renders components and preserves state
 description: How React turns state changes into DOM updates, why it ties state to a position in the UI tree, and what that means for calling components, hooks and effects.
 slug: how-react-renders-and-preserves-state
 kind: reference
+announce: false
 date: 2022-06-11
 authors:
-  - ngolapnguyen
-  - zlatanpham
   - namtrhg
   - toanbku
+  - zlatanpham
+  - ngolapnguyen
 tags:
   - react
   - frontend

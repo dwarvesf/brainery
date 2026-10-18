@@ -3,6 +3,7 @@ title: "The Opposable Mind: integrative thinking, salience and mental models in 
 description: "Reading notes on Roger Martin's The Opposable Mind, covering integrative thinking, why salience is subjective, how stance, tools and experience shape perspective, and why diverse teams solve problems faster."
 slug: opposable-mind-reading-notes
 date: 2026-08-27
+announce: false
 authors: []
 credit: David Drysdale (Moby Diction)
 tags:

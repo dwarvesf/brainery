@@ -3,6 +3,7 @@ title: Product management basics, from roadmap to feedback loop
 description: How a product team decides what to build next, covering the roadmap, data-driven feature definition, the Kano model, feedback loops and building in public.
 slug: product-management-basics
 kind: reference
+announce: false
 date: 2026-10-18
 tags:
   - product

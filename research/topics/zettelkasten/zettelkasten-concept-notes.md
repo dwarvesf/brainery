@@ -3,6 +3,7 @@ title: How a zettelkasten works, from the Luhmann slip box to note types
 description: Concept notes on the zettelkasten method, covering the linked note cards Luhmann used, the purpose of the system, fleeting, literature, permanent and project notes, and the role of surprise and randomness.
 slug: zettelkasten-concept-notes
 kind: reference
+announce: false
 date: 2026-08-27
 authors: []
 credit: David Drysdale (Moby Diction)

@@ -3,10 +3,11 @@ title: "Rust language notes: ownership, lifetimes, traits and error handling"
 description: A tour of Rust for beginners, covering ownership, immutability, lifetimes, traits, and how to handle recoverable and unrecoverable errors.
 slug: rust-language-notes
 kind: reference
+announce: false
 date: 2019-08-30
 authors:
-  - tieubao
   - trankhacvy
+  - tieubao
 tags:
   - rust
   - trait
