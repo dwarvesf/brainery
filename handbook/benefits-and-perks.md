@@ -17,6 +17,8 @@ redirect:
   - /BPGnOw
 ---
 
+_Snapshot from 2019. Some tools and numbers have changed._
+
 ## Team growth
 
 ### Continuing Education Allowance (CEA)

@@ -17,6 +17,8 @@ redirect:
   - /HtXH7A
 ---
 
+_Snapshot from 2019. Some tools and numbers have changed._
+
 Meetings are a staple of our work. They help us share information and tackle issues, and they turn into time-wasters when they are run badly. This guide sets the rules we follow for scheduling, attending and recording a meeting, so that working together stays flexible and productive, especially when we are not all in the same place. It runs in the order of a meeting: before, during and after.
 
 ## Before the meeting

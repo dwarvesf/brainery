@@ -11,6 +11,8 @@ redirect:
   - /7kN5qg
 ---
 
+_Snapshot from 2024. Some tools and numbers have changed._
+
 We are all aware of the uncertain economy, as well as the long funding winter in the tech market. These forces have led to companies being extremely cautious with their tech budgeting and resources. We have seen more than enough budget cutdowns and layoff across the tech industry.
 
 There still is an upside to the matter. When there is a need to build, companies now prefer partnering with teams who can deliver comprehensive, end-to-end solutions. This means the role of Dwarves is no longer deploying engineers who can code. We now can also offer research, business analysis, consulting, solution design, and much more.

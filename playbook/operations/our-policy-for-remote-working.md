@@ -1,5 +1,5 @@
 ---
-title: Our policy for remote working
+title: Our remote working policy
 description: Some useful practices we adopted to keep the remote working system goes smoothly. This policy is written in the context of our current company setup.
 date: 2016-01-10
 authors:
@@ -11,6 +11,8 @@ tags:
 redirect:
   - /QAfBxQ
 ---
+
+_Snapshot from 2016. Some tools and numbers have changed._
 
 Some useful practices we adopted to keep the remote working system goes smoothly.
 

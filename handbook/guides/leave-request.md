@@ -14,6 +14,8 @@ redirect:
   - /KCC5wQ
 ---
 
+_Snapshot from 2024. Some tools and numbers have changed._
+
 To keep everything running smoothly, it’s important that we all follow a clear process when requesting leave. Whether you’re planning a half-shift or a full day off, we want to make sure your absence doesn’t disrupt the team or the project.
 
 By following these steps, you help ensure that everyone is on the same page and that your work is covered while you're away:

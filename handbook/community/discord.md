@@ -14,6 +14,8 @@ redirect:
   - /dvzlKQ
 ---
 
+_Snapshot from 2024. Some tools and numbers have changed._
+
 We know there are countless Discord servers out there. Ours aims to be different. From the start, we designed it as a space _for developers_, prioritizing genuine connection and knowledge sharing over corporate speak. We operate it as a blend of company and community because we believe that's the most valuable approach.
 
 So, what actually happens here?

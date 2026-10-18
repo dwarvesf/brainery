@@ -26,7 +26,7 @@ It holds two kinds of info:
 1. **Private stuff:** This is our internal info, like team details, notes on projects, client info, sales leads, money stuff, and reports. We keep this private because it's important for running the company day-to-day.
 2. **Public stuff:** We also collect useful info that's out there for anyone to see. This could be about what's happening in our field, new tech, who's hiring, interesting articles, or what competitors are up to. Looking at this helps us see the bigger picture and spot chances.
 
-Also, important chats and decisions from **Basecamp** and **Discord** get added here too, so good ideas don't get lost.
+Also, important chats and decisions from **Discord** get added here too, so good ideas don't get lost.
 
 ## How do we actually use it?
 

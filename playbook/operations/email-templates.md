@@ -58,6 +58,8 @@ redirect:
   - /FdMzhw
 ---
 
+_Snapshot from 2020. Some tools and numbers have changed._
+
 This page holds the email templates Dwarves Foundation Operations and HR use, from an interview slot to an offer to a holiday notice for clients. They are grouped by who receives the email. Each template shows the subject line, then the body. Replace everything in square brackets before sending.
 
 To keep your own copies in Gmail, see [Set up templates in Gmail](#set-up-templates-in-gmail) at the end of this page.

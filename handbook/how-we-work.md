@@ -1,5 +1,5 @@
 ---
-title: How we work
+title: How we work at Dwarves Foundation
 description: We organize our work in 8-week cycles with a focus on autonomy and craftsmanship. This framework helps us deliver high-quality software while maintaining flexibility and work-life balance.
 date: 2017-07-21
 authors:
@@ -10,6 +10,8 @@ tags:
 redirect:
   - /LWx1wQ
 ---
+
+_Snapshot from 2017. Some tools and numbers have changed._
 
 ## Our approach to work
 

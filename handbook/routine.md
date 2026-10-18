@@ -12,6 +12,8 @@ redirect:
   - /9UIq6A
 ---
 
+_Snapshot from 2020. Some tools and numbers have changed._
+
 As mentioned in [how we work](how-we-work.md), we keep our teams small and embrace agile principles at scale. This approach helps us stay nimble while delivering consistent quality.
 
 ## The 8-week cycle
