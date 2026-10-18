@@ -54,6 +54,8 @@ redirect:
   - /6uSI1g
 ---
 
+_Snapshot from 2024. Some tools and numbers have changed._
+
 The Dwarves Operations team keeps one checklist per recurring job. This page gathers them so a person on duty can find the right list without browsing a folder. The lists fall into three groups: people, clients and money, and projects.
 
 | Checklist                   | Use it when                                                |

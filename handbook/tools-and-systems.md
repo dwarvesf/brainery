@@ -1,5 +1,5 @@
 ---
-title: Tools and systems
+title: Tools and systems at Dwarves Foundation
 description: tools and systems for work
 date: 2019-02-21
 authors:
@@ -17,7 +17,6 @@ redirect:
 
 - Foundation: [dwarves.foundation](https://dwarves.foundation)
 - Ventures: [dwarves.ventures](https://dwarves.ventures)
-- Careers: [dwarves.careers](https://dwarves.careers)
 - Memo: [memo.d.foundation](https://memo.d.foundation)
 
 ### Social network
@@ -31,11 +30,13 @@ redirect:
 
 Besides the customer-facing applications, like the different versions of the website, we have a number of internal systems that help us support, report, and operate the company. They are as follows:
 
-### Basecamp
+### Discord
 
-Basecamp is where daily work happens. We use Basecamp for task tracking and team discussion. Its workflow encourages real productivity and avoids distraction.
+Discord is our primary hub. Community, day-to-day ops and team standups all run through it.
 
-<https://3.basecamp.com/4108948/>
+### Notion
+
+Notion is the source of truth for ops data: contractors, projects, deals, payroll and leave.
 
 ### Email & storage
 
@@ -58,9 +59,9 @@ Github is the place we put all the open source codebase. If you are a developer,
 
 <https://github.com/dwarvesf>
 
-### Slack
+### Slack and Basecamp
 
-Slack is the secondary communication tool that we use to collaborate with the customer. The Dwarves will join with the customer team on the Shared Channel.
+We retired both. Discord replaced them. If an older page mentions either, treat that page as out of date.
 
 ### 1Password
 

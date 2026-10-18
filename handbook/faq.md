@@ -10,6 +10,8 @@ redirect:
   - /qAkrEA
 ---
 
+_Snapshot from 2018. Some tools and numbers have changed._
+
 ## Frequently asked questions
 
 Here are answers to common questions about working at Dwarves. If you don't find what you're looking for, please reach out to us directly.
@@ -36,11 +38,11 @@ Absolutely. If you need business cards, email <ops@d.foundation> with your detai
 
 We expect everyone to stay up-to-date with:
 
-- Important announcements in Basecamp
+- Important announcements in Discord
 - Messages directed personally to you
 - Your project-related communications
 
-We don't expect you to read everything in Basecamp or every message in every channel. Focus on what's relevant to your work and team.
+We don't expect you to read everything in Discord or every message in every channel. Focus on what's relevant to your work and team.
 
 ### What are the communication expectations?
 

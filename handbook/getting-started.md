@@ -11,6 +11,8 @@ redirect:
   - /rHfWfA
 ---
 
+_Snapshot from 2019. Some tools and numbers have changed._
+
 ## What to expect
 
 Welcome aboard! Starting at Dwarves Foundation mixes excitement with challenges. You're learning a new job, meeting new colleagues, and adapting to our remote culture, all at once. It's a lot to take in, but we're here to help you navigate this journey.
@@ -21,7 +23,7 @@ Working remotely is both a privilege and a responsibility. Make sure you underst
 
 ## Getting set up
 
-When you join, your manager will create a Basecamp space called "Welcome, [your name]!" to guide your onboarding. There, you'll find to-dos for accounts you need to set up, like 1Password and enabling 2FA for various services. You'll also see tasks assigned to your Ops buddy or manager for setting up essential tools like Basecamp, email, and GitHub access.
+When you join, your manager will create a Basecamp space called "Welcome, [your name]!" to guide your onboarding. There, you'll find to-dos for accounts you need to set up, like 1Password and enabling 2FA for various services. You'll also see tasks assigned to your Ops buddy or manager for setting up essential tools like Notion, email, and GitHub access.
 
 Your onboarding checklist includes:
 
@@ -39,7 +41,7 @@ Your onboarding checklist includes:
 - [ ] GitHub
 - [ ] Memo
 - [ ] Email
-- [ ] Basecamp
+- [ ] Notion
 - [ ] Fortress
 
 ![Dwarves team onboarding](assets/team-welcome.webp)

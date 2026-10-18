@@ -18,6 +18,8 @@ redirect:
   - /0uYpFQ
 ---
 
+_Snapshot from 2019. Some tools and numbers have changed._
+
 The Dwarves HQ is in Saigon, Vietnam. Fifty-ish people and two cats have desk space in the Saigon office, but those people also work from home regularly. We expand the office space when the old one is full and people want the new office. Anyone is welcome to visit Saigon and work from the office at any time.
 
 This page covers the other places people work from, home, cafés and coworking spaces, and how to pick one. For how remote and office time balance, see [Hybrid working](hybrid-working.md).

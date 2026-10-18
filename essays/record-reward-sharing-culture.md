@@ -16,6 +16,8 @@ redirect:
 slug: record-reward-sharing-culture
 ---
 
+_Snapshot from 2024. Some tools and numbers have changed._
+
 ## Record & reward sharing at Dwarves
 
 If you're part of the Dwarves community, you'll notice our culture of continuous learning and knowledge sharing. This culture isn’t just about individual growth; it’s also about building a strong, connected community.

@@ -13,6 +13,8 @@ redirect:
   - /03Ifkg
 ---
 
+_Snapshot from 2024. Some tools and numbers have changed._
+
 Remote work is great, but there's something about the in-person vibe that helps us learn, share, and connect. To make the most of our hybrid style, we’ve set up an easy check-in process to reward those who pop by the office.
 
 ![Check-in at office to earn ICY tokens](assets/check-in-earn-icy.webp)

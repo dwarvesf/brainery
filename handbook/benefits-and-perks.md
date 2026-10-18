@@ -17,9 +17,11 @@ redirect:
   - /BPGnOw
 ---
 
+_Snapshot from 2019. Some tools and numbers have changed._
+
 ## Team growth
 
-### Continuing Education Allowance (CEA)
+### Continuing education allowance (CEA)
 
 We encourage you to grow by learning and playing with new technologies. You'll get a yearly budget for your learning and development goals, from books to conferences.
 

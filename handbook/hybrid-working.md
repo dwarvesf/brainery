@@ -1,5 +1,5 @@
 ---
-title: Hybrid working
+title: Hybrid working at Dwarves Foundation
 description: How we balance remote and office work at Dwarves
 date: 2022-09-19
 authors:
@@ -52,10 +52,10 @@ The key to successful hybrid work is finding the right balance between individua
 
 To support our hybrid model, we rely on several key tools:
 
-- **Basecamp**: Our primary platform for project management and communication
-- **Google Workspace**: For collaborative documents and calendar management
+- **Discord**: Our primary hub for team communication and standups
+- **Google workspace**: For collaborative documents and calendar management
 - **Zoom**: For virtual meetings when we can't be together in person
-- **Slack**: For quick, real-time communication and social interaction
+- **Notion**: Our source of truth for ops data such as projects and leave
 
 Make sure you're comfortable with these tools and reach out if you need additional training.
 

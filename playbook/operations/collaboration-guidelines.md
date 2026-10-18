@@ -1,5 +1,5 @@
 ---
-title: Collaboration guidelines
+title: Project collaboration guidelines
 description: Guidelines for project collaboration between Dwarves and our Clients.
 date: 2020-01-01
 authors:
@@ -12,6 +12,8 @@ tags:
 redirect:
   - /BvrBkw
 ---
+
+_Snapshot from 2020. Some tools and numbers have changed._
 
 ## Tools
 
@@ -141,9 +143,9 @@ Our invoice will contain the necessary information for the Client to proceed wit
 - Invoice description
 - Invoice details
 
-The Client will have **10** **(Ten) business days** to complete these invoices. If the Client needs to extend the payment deadline, the Client is required to submit a written request to Dwarves Foundation within *72 hours* after the invoice date. A new deadline then will be decided and agreed by both parties, before it can be implemented officially.
+The Client will have **10** **(Ten) business days** to complete these invoices. If the Client needs to extend the payment deadline, the Client is required to submit a written request to Dwarves Foundation within _72 hours_ after the invoice date. A new deadline then will be decided and agreed by both parties, before it can be implemented officially.
 
-Our Accountant and Account Manager will send out reminders to the Clients who may have forgotten about the outstanding invoices. If any Client failed to complete the payment on time and failed to submit a request for an extended payment deadline to Dwarves Foundation, we will add a *10% interest rate/month* to the outstanding invoice(s).
+Our Accountant and Account Manager will send out reminders to the Clients who may have forgotten about the outstanding invoices. If any Client failed to complete the payment on time and failed to submit a request for an extended payment deadline to Dwarves Foundation, we will add a _10% interest rate/month_ to the outstanding invoice(s).
 
 ## Project responsibility scope
 

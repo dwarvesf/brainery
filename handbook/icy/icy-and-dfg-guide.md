@@ -43,6 +43,8 @@ redirect:
   - /191Oig
 ---
 
+_Snapshot from 2025. Some tools and numbers have changed._
+
 Dwarves runs two tokens. ICY rewards contributions, and you can spend it or cash it out. DFG represents shares of Dwarves Foundation and can be staked for rewards. This page follows the order a contributor meets them: what the tokens are, how to earn and value ICY, what you can do with it, then the step-by-step guides.
 
 | I want to                 | Go to                                                                                                               |

@@ -1,5 +1,5 @@
 ---
-title: "Pricing model: Bill by hours"
+title: "Pricing model: bill by hours"
 description: A new hourly billing model is introduced to ensure fair compensation for effort, flexibility in project scope, control over additional work, and transparency with clients.
 date: 2024-07-30
 authors:
@@ -10,6 +10,8 @@ tags:
 redirect:
   - /7kN5qg
 ---
+
+_Snapshot from 2024. Some tools and numbers have changed._
 
 We are all aware of the uncertain economy, as well as the long funding winter in the tech market. These forces have led to companies being extremely cautious with their tech budgeting and resources. We have seen more than enough budget cutdowns and layoff across the tech industry.
 

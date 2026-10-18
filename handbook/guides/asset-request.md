@@ -13,6 +13,8 @@ redirect:
   - /0HdOqw
 ---
 
+_Snapshot from 2019. Some tools and numbers have changed._
+
 Need a piece of gear to get your job done? We've got company assets like books and devices available, and we're happy for you to use them! Here's how the process works for borrowing, returning, and requesting new items.
 
 ### Borrowing company assets
