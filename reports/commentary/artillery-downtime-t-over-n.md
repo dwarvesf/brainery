@@ -1,5 +1,5 @@
 ---
-title: "T over N: the dead-air problem in turn-based artillery games"
+title: "T over n: the dead-air problem in turn-based artillery games"
 description: "In a four-player Gunbound-style match you play a quarter of the time and zero after you die. Why that quietly kills retention, how the genre's history backs it up, and what a prototype can do about it."
 date: 2026-10-18
 toc: true
@@ -32,12 +32,12 @@ The rest of the thread sorted itself around that. Dat's point was that the weapo
 
 The feedback the prototype got came in two layers, and they are worth keeping apart.
 
-| Layer | What came up | Why it matters |
-|---|---|---|
+| Layer                 | What came up                                                                                                                         | Why it matters                                                                                        |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- |
 | First-session clarity | Wind changes constantly with no warning; a countdown before the change; the angle reads relative to horizontal and needs a reference | A player who cannot tell when the round starts or what the angle means never reaches the second match |
-| Core-loop feel | Weapon effects lack punch; a plus-13 upgrade should show an aura | This is where the genre's fans decide whether it feels right |
-| Retention layer | Background music, referral rewards, rank progression, campaign bulletins, a second resource type for gems and weapon sockets | Only matters once the first two layers hold |
-| Launch constraints | The working name is hard to say and may draw store attention; distribution in Vietnam | Separate from gameplay; decide before launch, not during feedback |
+| Core-loop feel        | Weapon effects lack punch; a plus-13 upgrade should show an aura                                                                     | This is where the genre's fans decide whether it feels right                                          |
+| Retention layer       | Background music, referral rewards, rank progression, campaign bulletins, a second resource type for gems and weapon sockets         | Only matters once the first two layers hold                                                           |
+| Launch constraints    | The working name is hard to say and may draw store attention; distribution in Vietnam                                                | Separate from gameplay; decide before launch, not during feedback                                     |
 
 Mixing layers hides the real blocker. Nobody cares about a wizard-hat reward if the first minute is confusing, and a builder can lose a sprint polishing referral loops before the wind indicator works. Fix layer one and two before adding anything from layer three.
 
@@ -67,14 +67,14 @@ Three different answers to the same problem: remove the turn, shorten the turn, 
 
 For a Gunbound-style game that wants to stay turn-based, the thread produced a shortlist. We have ranked it by how little it changes the core.
 
-| Option | What the waiting player does | Risk |
-|---|---|---|
-| Turn and round timers | Waits less | Too short a turn punishes new players who need time to aim |
-| Off-turn defensive action | A small timing window to raise a shield or brace | Each extra action lengthens everyone's turn; T grows |
-| Ghost mode after death | Floats, chats, nudges a shot or blesses a teammate | Dead players with real influence feel unfair to living ones |
-| Team combo shots | Living teammates alter a shot's power or path | Adds coordination load to a casual game |
-| Bot matches as story mode | Plays solo from day one; learns the loop with no queue | Needs campaign art and dialogue; the bots must read as the story |
-| Terrain and element effects | Watches the map change rather than a static screen | Pure spectacle unless it changes decisions |
+| Option                      | What the waiting player does                           | Risk                                                             |
+| --------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------- |
+| Turn and round timers       | Waits less                                             | Too short a turn punishes new players who need time to aim       |
+| Off-turn defensive action   | A small timing window to raise a shield or brace       | Each extra action lengthens everyone's turn; T grows             |
+| Ghost mode after death      | Floats, chats, nudges a shot or blesses a teammate     | Dead players with real influence feel unfair to living ones      |
+| Team combo shots            | Living teammates alter a shot's power or path          | Adds coordination load to a casual game                          |
+| Bot matches as story mode   | Plays solo from day one; learns the loop with no queue | Needs campaign art and dialogue; the bots must read as the story |
+| Terrain and element effects | Watches the map change rather than a static screen     | Pure spectacle unless it changes decisions                       |
 
 Vincent's instinct was to add the backlog and introduce these slowly, which is right. Each one changes the active ratio, so the order matters.
 
@@ -98,5 +98,5 @@ Every off-turn action lengthens the turn for everyone, so the fix can make T big
 - [GunBound, Wikipedia](https://en.wikipedia.org/wiki/Gunbound) and [NamuWiki](https://en.namu.wiki/w/%EA%B1%B4%EB%B0%94%EC%9A%B4%EB%93%9C); [GunBound shutdown, MMOs.com](https://mmos.com/review/gunbound)
 - [Gunny, Vietnamese Wikipedia](https://vi.wikipedia.org/wiki/Gunny); [Gunny at Vietnam GameVerse 2025](https://vnexpress.net/cong-nghe/vgv-2025/de-cu/gunny-1176)
 - [Frozen Synapse, Wikipedia](https://en.wikipedia.org/wiki/Frozen_Synapse); [WEGO vs IGOUGO discussion](https://discussions.unity.com/t/wego-or-igougo/889027)
-- [Worms Armageddon game style settings](https://worms.miraheze.org/wiki/Game_Style)
+- [Worms armageddon game style settings](https://worms.miraheze.org/wiki/Game_Style)
 - [Clash Royale, Wikipedia](https://en.wikipedia.org/wiki/Clash_Royale); [PocketGamer on the three-minute match](https://www.pocketgamer.biz/7-reasons-why-you-cant-stop-playing-supercells-clash-royale/)
