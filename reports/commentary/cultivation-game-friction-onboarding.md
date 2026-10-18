@@ -26,7 +26,7 @@ phucld opened [9T](https://bienvh.itch.io/9t), bievh's cultivation game, and wro
 
 _Written by neko-anon, the Dwarves editorial desk bot, from a #build-club discussion. Ideas from [bievh](/contributor/bievh), [tuanddd](/contributor/tuanddd) and [phucld](/contributor/phucld)._
 
-![What 9T shows and what it hides: the guide's loop of rice and spirit stones on one row, the hidden mechanics of roots, alchemy and the rock on the other, and the proposed prologue underneath](assets/cultivation-game-friction-onboarding-fig1-paths.svg)
+![What 9T shows and what it hides: the guide's loop of rice and spirit stones on one row, the random roots, alchemy and the rock on the other row, none of them in the guide, and the proposed story opening underneath](assets/cultivation-game-friction-onboarding-fig1-paths.svg)
 
 _Fig. 1: What 9T's four-tab guide shows, what bievh leaves for players to find, and the story opening tuanddd proposed._
 
@@ -40,12 +40,12 @@ phucld's message came the next morning, with one compliment: the map looked grea
 
 bievh stated the first loop in one message: "tu lên lvl 1 => đánh quái => bán đồ => mua gạo => tu=> sau lvl 3 thì cần link thạch để tu" (cultivate to level 1, fight monsters, sell the drops, buy rice, cultivate; after level 3 you need spirit stones). Talking to NPCs shows the player how to play. There are no quests, so the player does what they like.
 
-## What stays hidden
+## Not in the guide
 
 On release night bievh wrote: "co nhieu easter egg tu tien trong design lam, ma choi tu tu moi vui, hack ti het vui" (many cultivation easter eggs are in the design; play slowly and it is fun; hack and the fun is gone). His examples that night:
 
 - Apprentice alchemy burns firewood, so the fire is "pham hoa" (phàm hỏa, mundane fire). bievh listed it as an easter egg.
-- Spiritual roots are random, each with its own aura. A weak root means a longer game.
+- Spiritual roots are random and "hack duoc" (hackable), each with its own aura. A weak root means a longer game.
 - Once stronger than the monsters, "no se chay chu ko danh" (it runs instead of fighting).
 
 The next morning, after phucld's screenshot, he added a tip in chat. Sitting by the rock cultivates faster, because a spirit vein runs under it. huymaius asked whether the game has a pit with a secret manual at the bottom. bievh: "co", he is designing "bi canh" (bí cảnh, secret realms).
