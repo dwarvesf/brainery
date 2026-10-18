@@ -57,7 +57,7 @@ bievh cut the in-game guide from 15 tabs to 4 and estimates 20 to 30 hours of pl
 
 Credit: bievh. Oct 2.
 
-Sources: [bienvh.itch.io](https://bienvh.itch.io/9t), [Discord 1](https://discord.com/channels/462663954813157376/1280726623414390805/1555245198466879650), [Discord 2](https://discord.com/channels/462663954813157376/1280726623414390805/1555251288785158357), [Discord 3](https://discord.com/channels/462663954813157376/1280726623414390805/1555251416556114044), [Discord 4](https://discord.com/channels/462663954813157376/1280726623414390805/1555251915628085258), [Discord 5](https://discord.com/channels/462663954813157376/1280726623414390805/1555252426456571924), [Discord 6](https://discord.com/channels/462663954813157376/1280726623414390805/1555254896834642043), [Discord 7](https://discord.com/channels/462663954813157376/1280726623414390805/1555255678136746085), [Discord 8](https://discord.com/channels/462663954813157376/1280726623414390805/1555255797888450661), [Discord 9](https://discord.com/channels/462663954813157376/1280726623414390805/1555418773568098395), [Discord 10](https://discord.com/channels/462663954813157376/1280726623414390805/1555420454536093719), [Discord 11](https://discord.com/channels/462663954813157376/1280726623414390805/1555420689949925387), [Discord 12](https://discord.com/channels/462663954813157376/1280726623414390805/1555421085980303443), [Discord 13](https://discord.com/channels/462663954813157376/1280726623414390805/1555421383964762143), [Discord 14](https://discord.com/channels/462663954813157376/1280726623414390805/1555421707362242561)
+Source: [#build-club thread (14 messages)](https://discord.com/channels/462663954813157376/1280726623414390805/1555245198466879650), [bienvh.itch.io](https://bienvh.itch.io/9t)
 
 Read the full piece: [Onboarding without flattening: what 9T keeps hard on purpose](https://memo.d.foundation/cultivation-game-friction-onboarding)
 
@@ -69,7 +69,7 @@ Developer tools tend to fail in the transitions around the main workflow. iCloud
 
 Credit: hieuvd. Oct 5.
 
-Sources: [Discord 1](https://discord.com/channels/462663954813157376/1284063844314120224/1556495921498296401), [Discord 2](https://discord.com/channels/462663954813157376/1284063844314120224/1556497460392632420), [Discord 3](https://discord.com/channels/462663954813157376/1284063844314120224/1556497602055250083), [Discord 4](https://discord.com/channels/462663954813157376/1284063844314120224/1556497858343997522), [Discord 5](https://discord.com/channels/462663954813157376/1284063844314120224/1556498080851959899), [Discord 6](https://discord.com/channels/462663954813157376/1284063844314120224/1556498234413813801), [Discord 7](https://discord.com/channels/462663954813157376/1284063844314120224/1556498546524688395), [Discord 8](https://discord.com/channels/462663954813157376/1284063844314120224/1556498657216565269)
+Source: [#build-club thread (8 messages)](https://discord.com/channels/462663954813157376/1284063844314120224/1556495921498296401)
 
 ## Reference video can shortcut character rigging
 
@@ -79,7 +79,7 @@ If it holds up, a builder reaches motion experiments before hand-cutting every b
 
 Credit: minhluuquang. Oct 5.
 
-Sources: [Discord 1](https://discord.com/channels/462663954813157376/1280726623414390805/1556562054494822462)
+Source: [#build-club thread (1 message)](https://discord.com/channels/462663954813157376/1280726623414390805/1556562054494822462)
 
 ## Pick the launch surface before store paperwork
 
@@ -89,7 +89,7 @@ For a small team, distribution is architecture. A web build lets players try the
 
 Credit: phucld, minhluuquang, huymaius, tieubao. Oct 7.
 
-Sources: [Discord 1](https://discord.com/channels/462663954813157376/1280726623414390805/1556927016140275793), [Discord 2](https://discord.com/channels/462663954813157376/1280726623414390805/1556927429694455840), [Discord 3](https://discord.com/channels/462663954813157376/1280726623414390805/1556928546629222531), [Discord 4](https://discord.com/channels/462663954813157376/1280726623414390805/1556936048846700586), [Discord 5](https://discord.com/channels/462663954813157376/1280726623414390805/1556937272085979209), [Discord 6](https://discord.com/channels/462663954813157376/1280726623414390805/1557003031785246781)
+Source: [#build-club thread (6 messages)](https://discord.com/channels/462663954813157376/1280726623414390805/1556927016140275793)
 
 Read the full piece: [Twenty accounts and one whale: the economy loop that makes cultivation MMOs pay](https://memo.d.foundation/mmo-farmer-whale-economy)
 
@@ -101,7 +101,7 @@ That fits the web-first path from the previous thread. Define the smallest signa
 
 Credit: tieubao, phucld, minhluuquang. Oct 8.
 
-Sources: [Discord 1](https://discord.com/channels/462663954813157376/1280726623414390805/1556927429694455840), [Discord 2](https://discord.com/channels/462663954813157376/1280726623414390805/1557333926526189581), [Discord 3](https://discord.com/channels/462663954813157376/1280726623414390805/1557368513369473054), [littledanang.oryzen.cloud](https://littledanang.oryzen.cloud/)
+Source: [#build-club thread (3 messages)](https://discord.com/channels/462663954813157376/1280726623414390805/1556927429694455840), [littledanang.oryzen.cloud](https://littledanang.oryzen.cloud/)
 
 ## Design the economy loop before monetization
 
@@ -111,7 +111,7 @@ Any marketplace or community product hits the same problem. Activity turns into 
 
 Credit: bievh, tieubao, monotykamary, datnguyennnx. Oct 9.
 
-Sources: [Discord 1](https://discord.com/channels/462663954813157376/1280726623414390805/1557729945319506100), [Discord 2](https://discord.com/channels/462663954813157376/1280726623414390805/1557730597198364704), [Discord 3](https://discord.com/channels/462663954813157376/1280726623414390805/1557730763598733353), [Discord 4](https://discord.com/channels/462663954813157376/1280726623414390805/1557730884495482982), [Discord 5](https://discord.com/channels/462663954813157376/1280726623414390805/1557730926216224811), [Discord 6](https://discord.com/channels/462663954813157376/1280726623414390805/1557731390340993035), [Discord 7](https://discord.com/channels/462663954813157376/1280726623414390805/1557732258486685707), [Discord 8](https://discord.com/channels/462663954813157376/1280726623414390805/1557732412979413024), [Discord 9](https://discord.com/channels/462663954813157376/1280726623414390805/1557734053598470305), [Discord 10](https://discord.com/channels/462663954813157376/1280726623414390805/1557734439016996955), [Discord 11](https://discord.com/channels/462663954813157376/1280726623414390805/1557734785626144829), [Discord 12](https://discord.com/channels/462663954813157376/1280726623414390805/1557934163825393675), [apps.apple.com](https://apps.apple.com/us/app/underguild-offense/id6752882356), [ezyplatform.com](https://ezyplatform.com/blog/huong-dan-dang-ky-chi-phi-phat-hanh-game-online-tai-viet-nam)
+Source: [#build-club thread (12 messages)](https://discord.com/channels/462663954813157376/1280726623414390805/1557729945319506100), [apps.apple.com](https://apps.apple.com/us/app/underguild-offense/id6752882356), [ezyplatform.com](https://ezyplatform.com/blog/huong-dan-dang-ky-chi-phi-phat-hanh-game-online-tai-viet-nam)
 
 Read the full piece: [Twenty accounts and one whale: the economy loop that makes cultivation MMOs pay](https://memo.d.foundation/mmo-farmer-whale-economy)
 
@@ -123,7 +123,7 @@ Pipeline design moves the bill more than model choice does. Feedback loops, reus
 
 Credit: monotykamary. Oct 10.
 
-Sources: [Discord 1](https://discord.com/channels/462663954813157376/1284063844314120224/1558036401042235473), [Discord 2](https://discord.com/channels/462663954813157376/1284063844314120224/1558036629254447256), [Discord 3](https://discord.com/channels/462663954813157376/1284063844314120224/1558037429577850882), [Discord 4](https://discord.com/channels/462663954813157376/1284063844314120224/1558037607819124760), [Discord 5](https://discord.com/channels/462663954813157376/1284063844314120224/1558037700077162579), [fixupx.com](https://fixupx.com/GaryLau0101/status/2108121004614857197)
+Source: [#build-club thread (5 messages)](https://discord.com/channels/462663954813157376/1284063844314120224/1558036401042235473), [fixupx.com](https://fixupx.com/GaryLau0101/status/2108121004614857197)
 
 Read the full piece: [From $14 to $2 per 30 seconds: where the money goes in an AI video pipeline](https://memo.d.foundation/ai-video-cost-ladder)
 
@@ -135,7 +135,7 @@ Mixing the layers too early hides the real blocker. A wizard hat reward means no
 
 Credit: tuanddd, tieubao, bievh, hieuvd. Oct 12.
 
-Sources: [Discord 1](https://discord.com/channels/462663954813157376/1280726623414390805/1558850925412749344), [Discord 2](https://discord.com/channels/462663954813157376/1280726623414390805/1558854370404339803), [Discord 3](https://discord.com/channels/462663954813157376/1280726623414390805/1558854698906157109), [Discord 4](https://discord.com/channels/462663954813157376/1280726623414390805/1558854859166326901), [Discord 5](https://discord.com/channels/462663954813157376/1280726623414390805/1558855357575471235), [Discord 6](https://discord.com/channels/462663954813157376/1280726623414390805/1558861526449000582), [Discord 7](https://discord.com/channels/462663954813157376/1280726623414390805/1558861876916396054), [Discord 8](https://discord.com/channels/462663954813157376/1280726623414390805/1559029936440737845), [Discord 9](https://discord.com/channels/462663954813157376/1280726623414390805/1559041089992786001), [Discord 10](https://discord.com/channels/462663954813157376/1280726623414390805/1559052176599425045), [Discord 11](https://discord.com/channels/462663954813157376/1280726623414390805/1559052379716976742), [Discord 12](https://discord.com/channels/462663954813157376/1280726623414390805/1559063519989735487)
+Source: [#build-club thread (12 messages)](https://discord.com/channels/462663954813157376/1280726623414390805/1558850925412749344)
 
 Read the full piece: [Play a quarter, wait the rest: the dead-air problem in turn-based artillery games](https://memo.d.foundation/artillery-downtime-t-over-n)
 
@@ -147,7 +147,7 @@ That reframes retention as less dead air between turns and after death. Wrap bot
 
 Credit: tieubao, tuanddd, datnguyennnx. Oct 13.
 
-Sources: [Discord 1](https://discord.com/channels/462663954813157376/1280726623414390805/1559399374247821313), [Discord 2](https://discord.com/channels/462663954813157376/1280726623414390805/1559403363660071057), [Discord 3](https://discord.com/channels/462663954813157376/1280726623414390805/1559403449630588942), [Discord 4](https://discord.com/channels/462663954813157376/1280726623414390805/1559404156224274493), [Discord 5](https://discord.com/channels/462663954813157376/1280726623414390805/1559404273681309800), [Discord 6](https://discord.com/channels/462663954813157376/1280726623414390805/1559404414811377675), [Discord 7](https://discord.com/channels/462663954813157376/1280726623414390805/1559404642129940604), [Discord 8](https://discord.com/channels/462663954813157376/1280726623414390805/1559404681988542537), [Discord 9](https://discord.com/channels/462663954813157376/1280726623414390805/1559405277433036923), [Discord 10](https://discord.com/channels/462663954813157376/1280726623414390805/1559405785124048897)
+Source: [#build-club thread (10 messages)](https://discord.com/channels/462663954813157376/1280726623414390805/1559399374247821313)
 
 Read the full piece: [Play a quarter, wait the rest: the dead-air problem in turn-based artillery games](https://memo.d.foundation/artillery-downtime-t-over-n)
 
@@ -159,7 +159,7 @@ AI widens the design surface fast and leaves the filtering to people. The same p
 
 Credit: tuanddd, tieubao, bievh. Oct 14.
 
-Sources: [Discord 1](https://discord.com/channels/462663954813157376/1280726623414390805/1559594542087274557), [Discord 2](https://discord.com/channels/462663954813157376/1280726623414390805/1559596627977699459), [Discord 3](https://discord.com/channels/462663954813157376/1280726623414390805/1559597232469311549), [Discord 4](https://discord.com/channels/462663954813157376/1280726623414390805/1559597363205771399), [Discord 5](https://discord.com/channels/462663954813157376/1280726623414390805/1559597698854817943), [Discord 6](https://discord.com/channels/462663954813157376/1280726623414390805/1559597749870010390), [Discord 7](https://discord.com/channels/462663954813157376/1280726623414390805/1559597862642262067)
+Source: [#build-club thread (7 messages)](https://discord.com/channels/462663954813157376/1280726623414390805/1559594542087274557)
 
 Read the full piece: [Play a quarter, wait the rest: the dead-air problem in turn-based artillery games](https://memo.d.foundation/artillery-downtime-t-over-n)
 
@@ -171,7 +171,7 @@ The fall gives the familiar level-one reset an explicit narrative cause, and the
 
 Credit: tuanddd. Oct 16.
 
-Sources: [Discord 1](https://discord.com/channels/462663954813157376/1280726623414390805/1560530413175312536), [Discord 2](https://discord.com/channels/462663954813157376/1280726623414390805/1560507981802766488), [Discord 3](https://discord.com/channels/462663954813157376/1280726623414390805/1560509347967148065)
+Source: [#build-club thread (3 messages)](https://discord.com/channels/462663954813157376/1280726623414390805/1560530413175312536)
 
 Read the full piece: [Onboarding without flattening: what 9T keeps hard on purpose](https://memo.d.foundation/cultivation-game-friction-onboarding)
 
@@ -183,4 +183,4 @@ A short window helps compare routing choices only if the team fixes the task, th
 
 Credit: minhluuquang, zlatanpham. Oct 17.
 
-Sources: [Discord 1](https://discord.com/channels/462663954813157376/1280726623414390805/1560932258582634497), [Discord 2](https://discord.com/channels/462663954813157376/1280726623414390805/1560932736766574613), [Discord 3](https://discord.com/channels/462663954813157376/1280726623414390805/1560932932070285357)
+Source: [#build-club thread (3 messages)](https://discord.com/channels/462663954813157376/1280726623414390805/1560932258582634497)
