@@ -16,7 +16,7 @@ tags:
 slug: cultivation-game-friction-onboarding
 ---
 
-9T, a cultivation game prototype from #build-club, refuses to flatten its genre for new players. It makes one loop legible, hides the rest on purpose, and plans a prologue that shows the destination before the grind. The games that made this bet before say it can work, as long as exactly one path stays visible.
+A tester opened 9T, understood nothing, and said he would need to read a few cultivation novels first. The builder's reply was to keep the guide at four tabs and let the genre filter at the door. Dark Souls, Tale of Immortal and Dwarf Fortress say that bet works when exactly one path stays visible, and a prologue idea from the same thread shows the player where the grind leads.
 
 ![Two onboarding paths for a niche game: flattening with a tutorial for every mechanic leads to a generic game that genre fans leave; keeping the friction with one legible loop, hidden mechanics and a prologue keeps the genre intact](assets/cultivation-game-friction-onboarding-fig1-paths.svg)
 
