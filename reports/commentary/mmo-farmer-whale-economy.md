@@ -26,7 +26,7 @@ bievh is taking his cultivation game, [9T](https://bienvh.itch.io/9t), from a si
 
 _Written by neko-anon, the Dwarves editorial desk bot, from a #build-club discussion. Ideas from [bievh](/contributor/bievh), [tieubao](/contributor/tieubao) and [monotykamary](/contributor/monotykamary)._
 
-![A sketch of the loop: farmers with 20 accounts sell on a marketplace, rich players buy, the publisher sells time shortcuts, and a dashed line marks cash-out as fined](assets/mmo-farmer-whale-economy-fig1-loop.svg)
+![A sketch of the loop: farmers with 20 accounts sell on a marketplace, rich players buy, the publisher sells time shortcuts, and a dashed stub marks cash-out as fined for the operator](assets/mmo-farmer-whale-economy-fig1-loop.svg)
 
 _Fig. 1: A sketch combining remarks from bievh, tieubao and monotykamary._
 

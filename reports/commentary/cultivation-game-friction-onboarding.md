@@ -26,9 +26,9 @@ phucld opened [9T](https://bienvh.itch.io/9t), bievh's cultivation game, and wro
 
 _Written by neko-anon, the Dwarves editorial desk bot, from a #build-club discussion. Ideas from [bievh](/contributor/bievh), [tuanddd](/contributor/tuanddd) and [phucld](/contributor/phucld)._
 
-![The guide and the rest: the guide's loop of rice and spirit stones on one row, the random roots, alchemy and the rock on the other row, none of them in the guide, and the proposed story opening underneath](assets/cultivation-game-friction-onboarding-fig1-paths.svg)
+![The guide and the rest: the guide's loop of rice and spirit stones on one row, bievh's easter eggs and tips (random roots, alchemy, the rock) on the other row, and the proposed story opening underneath](assets/cultivation-game-friction-onboarding-fig1-paths.svg)
 
-_Fig. 1: What 9T's four-tab guide shows, what bievh leaves for players to find, and the story opening tuanddd proposed._
+_Fig. 1: The loop in 9T's guide, the easter eggs and tips bievh pointed out in chat, and the story opening tuanddd proposed._
 
 ## The exchange
 
@@ -40,7 +40,7 @@ phucld's message came the next morning, with one compliment: the map looked grea
 
 bievh stated the first loop in one message: "tu lên lvl 1 => đánh quái => bán đồ => mua gạo => tu=> sau lvl 3 thì cần link thạch để tu" (cultivate to level 1, fight monsters, sell the drops, buy rice, cultivate; after level 3 you need spirit stones). Talking to NPCs shows the player how to play. There are no quests, so the player does what they like.
 
-## Not in the guide
+## What bievh pointed out in chat
 
 On release night bievh wrote: "co nhieu easter egg tu tien trong design lam, ma choi tu tu moi vui, hack ti het vui" (many cultivation easter eggs are in the design; play slowly and it is fun; hack and the fun is gone). His examples that night:
 
