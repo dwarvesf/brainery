@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 272" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<defs>
+    <pattern id="g4" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="272" fill="#12395f"/>
+  <rect width="760" height="272" fill="url(#g4)"/>
+  <rect x="0.5" y="0.5" width="759" height="271" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 4 · THE CHAIR MODEL, SEVEN DATES</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">EVENLY SPACED, NOT TO SCALE</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+  <line x1="50" y1="118" x2="710" y2="118" stroke="#68839d" stroke-width="1.5"/>
+  <circle cx="74" cy="118" r="4.5" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <text x="74" y="98" font-size="10" letter-spacing="0.5" fill="#c3d7ea" text-anchor="middle">FEB 2019</text>
+  <text x="74" y="146" font-size="10" fill="#e8f1fa" text-anchor="middle">handbook names</text>
+  <text x="74" y="160" font-size="10" fill="#e8f1fa" text-anchor="middle">the leading</text>
+  <text x="74" y="174" font-size="10" fill="#e8f1fa" text-anchor="middle">chairs</text>
+  <circle cx="176" cy="118" r="4.5" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <text x="176" y="98" font-size="10" letter-spacing="0.5" fill="#c3d7ea" text-anchor="middle">AUG 2022</text>
+  <text x="176" y="146" font-size="10" fill="#e8f1fa" text-anchor="middle">post: the next</text>
+  <text x="176" y="160" font-size="10" fill="#e8f1fa" text-anchor="middle">leading chairs</text>
+  <circle cx="278" cy="118" r="4.5" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <text x="278" y="98" font-size="10" letter-spacing="0.5" fill="#c3d7ea" text-anchor="middle">14 JAN 2025</text>
+  <text x="278" y="146" font-size="10" fill="#e8f1fa" text-anchor="middle">five chair pages</text>
+  <text x="278" y="160" font-size="10" fill="#e8f1fa" text-anchor="middle">carry this</text>
+  <text x="278" y="174" font-size="10" fill="#e8f1fa" text-anchor="middle">date</text>
+  <circle cx="380" cy="118" r="4.5" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <text x="380" y="98" font-size="10" letter-spacing="0.5" fill="#c3d7ea" text-anchor="middle">15 JUN 2025</text>
+  <text x="380" y="146" font-size="10" fill="#e8f1fa" text-anchor="middle">roadmap and</text>
+  <text x="380" y="160" font-size="10" fill="#e8f1fa" text-anchor="middle">chairs land in</text>
+  <text x="380" y="174" font-size="10" fill="#e8f1fa" text-anchor="middle">the vault</text>
+  <circle cx="482" cy="118" r="4.5" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <text x="482" y="98" font-size="10" letter-spacing="0.5" fill="#c3d7ea" text-anchor="middle">22 APR 2026</text>
+  <text x="482" y="146" font-size="10" fill="#e8f1fa" text-anchor="middle">nine role</text>
+  <text x="482" y="160" font-size="10" fill="#e8f1fa" text-anchor="middle">manuals, no</text>
+  <text x="482" y="174" font-size="10" fill="#e8f1fa" text-anchor="middle">chair names</text>
+  <circle cx="584" cy="118" r="6" fill="#12395f" stroke="#e8c56a" stroke-width="2"/>
+  <text x="584" y="98" font-size="10" letter-spacing="0.5" fill="#e8c56a" text-anchor="middle">17 AUG 2026</text>
+  <text x="584" y="146" font-size="10" fill="#e8c56a" text-anchor="middle">three chair</text>
+  <text x="584" y="160" font-size="10" fill="#e8c56a" text-anchor="middle">pages deleted</text>
+  <text x="584" y="174" font-size="10" fill="#e8c56a" text-anchor="middle">as role bullets</text>
+  <circle cx="686" cy="118" r="4.5" fill="#12395f" stroke="#c3d7ea" stroke-width="2"/>
+  <text x="686" y="98" font-size="10" letter-spacing="0.5" fill="#c3d7ea" text-anchor="middle">18 OCT 2026</text>
+  <text x="686" y="146" font-size="10" fill="#e8f1fa" text-anchor="middle">this</text>
+  <text x="686" y="160" font-size="10" fill="#e8f1fa" text-anchor="middle">scorecard</text>
+  <line x1="0" y1="206" x2="760" y2="206" stroke="#385a7b"/>
+  <text x="14" y="228" font-size="10" fill="#a7c0d9">· the January date is the frontmatter; the archive shows the first commit on 15 Jun 2025</text>
+  <text x="14" y="244" font-size="10" fill="#a7c0d9">· the three deleted pages were delivery, communication and engagement</text>
+</svg>

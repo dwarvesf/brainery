@@ -1,5 +1,6 @@
 ---
-title: Partnership chair
+draft: true
+title: Partnership chair in the 2025 roadmap
 description: Driving go-to-market strategy by leveraging content and research to spot and develop business opportunities
 date: 2025-01-14
 authors:
@@ -8,10 +9,8 @@ tags:
   - roadmap
   - partnerships
   - business-development
-redirect:
-  - /org/2025/partnership-chair
-  - /sLJGew
 slug: org-partnership-chair
+redirect: []
 ---
 
 ## Our mission

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: 'Your last work is what counts'
 description: 'Your last work shapes what people notice most, whether it’s a sturdy app or a wobbly update. This article explores staying aware and motivated to deliver meaningful work, especially in software, through practical steps and team support.'
 date: 2024-06-24
@@ -12,9 +13,7 @@ tags:
 perma_storage_id: 'XBTMaZOQBPLJ9GIqn-IM0LGkVIaXh1BWs_NfZRf_w4s'
 minted_at: '2025-05-12'
 token_id: '8'
-redirect:
-  - /culture/as-your-last-delivery
-  - /PXeiCw
+redirect: []
 slug: as-your-last-delivery
 ---
 
@@ -34,7 +33,7 @@ The challenge isn’t just the low mood; it’s not noticing or letting it linge
 
 ## Getting back on track
 
-Every job offers a shot to deliver something worthwhile. When motivation slips, a few steps can spark it again. Picture a developer stuck on a tricky bug. Breaking it into small pieces, like isolating one error, builds momentum. Completing that step feels rewarding. Chatting with a teammate can unlock a new angle—maybe they’ve tackled a similar issue. Reframing a task to see its impact, like how clean code helps users, makes it matter more.
+Every job offers a shot to deliver something worthwhile. When motivation slips, a few steps can spark it again. Picture a developer stuck on a tricky bug. Breaking it into small pieces, like isolating one error, builds momentum. Completing that step feels rewarding. Chatting with a teammate can unlock a new angle, maybe they’ve tackled a similar issue. Reframing a task to see its impact, like how clean code helps users, makes it matter more.
 
 Exploring a new challenge, like diving into a fresh coding problem, keeps things engaging. Pair-programming with someone energized can lift the mood; their drive is contagious. Places like ours offer open conversations to get unstuck. A coder once felt burned out but refocused by tackling a small feature. Their next release won users over, proving it’s possible. **The goal is staying aware and making each job count**, one step at a time.
 

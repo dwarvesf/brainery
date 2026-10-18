@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 346" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<defs>
+    <pattern id="g2" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="346" fill="#12395f"/>
+  <rect width="760" height="346" fill="url(#g2)"/>
+  <rect x="0.5" y="0.5" width="759" height="345" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 2 · START DATES PER QUARTER</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">CONTRACTOR RECORDS · 2019 TO 2023</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+  <g stroke="#385a7b" stroke-width="1" opacity="0.6">
+    <line x1="70" y1="170" x2="690" y2="170"/>
+    <line x1="70" y1="90" x2="690" y2="90"/>
+  </g>
+  <line x1="70" y1="250" x2="690" y2="250" stroke="#68839d"/>
+  <g fill="#6f8fb0" font-size="9" text-anchor="end">
+    <text x="62" y="253">0</text>
+    <text x="62" y="173">10</text>
+    <text x="62" y="93">20</text>
+  </g>
+  <rect x="74.0" y="242" width="23" height="8" fill="#21466a" stroke="#68839d"/>
+  <rect x="105.0" y="202" width="23" height="48" fill="#21466a" stroke="#68839d"/>
+  <rect x="136.0" y="234" width="23" height="16" fill="#21466a" stroke="#68839d"/>
+  <rect x="167.0" y="234" width="23" height="16" fill="#21466a" stroke="#68839d"/>
+  <rect x="198.0" y="210" width="23" height="40" fill="#21466a" stroke="#68839d"/>
+  <rect x="229.0" y="226" width="23" height="24" fill="#21466a" stroke="#68839d"/>
+  <rect x="260.0" y="226" width="23" height="24" fill="#21466a" stroke="#68839d"/>
+  <line x1="291.0" y1="250" x2="314.0" y2="250" stroke="#68839d"/>
+  <rect x="322.0" y="210" width="23" height="40" fill="#21466a" stroke="#68839d"/>
+  <rect x="353.0" y="226" width="23" height="24" fill="#21466a" stroke="#68839d"/>
+  <rect x="384.0" y="210" width="23" height="40" fill="#21466a" stroke="#68839d"/>
+  <rect x="415.0" y="162" width="23" height="88" fill="#21466a" stroke="#68839d"/>
+  <rect x="446.0" y="210" width="23" height="40" fill="#21466a" stroke="#68839d"/>
+  <rect x="477.0" y="74" width="23" height="176" fill="#e8c56a" stroke="#e8c56a"/>
+  <rect x="508.0" y="210" width="23" height="40" fill="#21466a" stroke="#68839d"/>
+  <rect x="539.0" y="226" width="23" height="24" fill="#21466a" stroke="#68839d"/>
+  <rect x="570.0" y="218" width="23" height="32" fill="#21466a" stroke="#68839d"/>
+  <rect x="601.0" y="242" width="23" height="8" fill="#21466a" stroke="#68839d"/>
+  <line x1="632.0" y1="250" x2="655.0" y2="250" stroke="#68839d"/>
+  <line x1="663.0" y1="250" x2="686.0" y2="250" stroke="#68839d"/>
+  <g fill="#a7c0d9" font-size="10" text-anchor="middle">
+    <text x="132" y="270">2019</text>
+    <text x="256" y="270">2020</text>
+    <line x1="194" y1="250" x2="194" y2="256" stroke="#68839d"/>
+    <text x="380" y="270">2021</text>
+    <line x1="318" y1="250" x2="318" y2="256" stroke="#68839d"/>
+    <text x="504" y="270">2022</text>
+    <line x1="442" y1="250" x2="442" y2="256" stroke="#68839d"/>
+    <text x="628" y="270">2023</text>
+    <line x1="566" y1="250" x2="566" y2="256" stroke="#68839d"/>
+  </g>
+  <line x1="70" y1="226" x2="690" y2="226" stroke="#6f8fb0" stroke-dasharray="4 4"/>
+  <text x="698" y="229" font-size="9" fill="#6f8fb0">median 3</text>
+  <text x="426.5" y="156" font-size="10" fill="#e8f1fa" text-anchor="middle">11</text>
+  <text x="488.5" y="90" font-size="10" fill="#12395f" text-anchor="middle">22</text>
+  <path d="M 413 66 L 413 58 L 533 58 L 533 66" fill="none" stroke="#a7c0d9"/>
+  <text x="473.0" y="50" font-size="9" letter-spacing="1" fill="#a7c0d9" text-anchor="middle">43 IN FOUR QUARTERS</text>
+  <line x1="0" y1="288" x2="760" y2="288" stroke="#385a7b"/>
+  <text x="14" y="308" font-size="10" fill="#a7c0d9">&#183; counts the 86 records with a start date in 2019 to 2023; 114 of 275 contractor records carry any start date</text>
+  <text x="14" y="326" font-size="10" fill="#a7c0d9">&#183; start dates only, so the bars show intake and leave out who stayed</text>
+</svg>
