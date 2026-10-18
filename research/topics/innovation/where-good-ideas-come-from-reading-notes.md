@@ -3,6 +3,7 @@ title: "Where Good Ideas Come From: ideas as networks, remixes and adjacent step
 description: "Reading notes on Steven Johnson's Where Good Ideas Come From, covering the adjacent possible, open environments, serendipity, weak ties and why error helps innovation."
 slug: where-good-ideas-come-from-reading-notes
 date: 2026-08-27
+announce: false
 authors: []
 credit: David Drysdale (Moby Diction)
 tags:

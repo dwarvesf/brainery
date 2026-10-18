@@ -3,13 +3,14 @@ title: Gang of Four design patterns, notes on seven creational and behavioral pa
 description: Working notes on Singleton, Builder, Prototype, Strategy, State, Observer and Command, each with its problem, structure, examples, trade-offs and use cases.
 slug: gang-of-four-design-patterns
 kind: reference
+announce: false
 date: 2024-06-10
 authors:
   - vdhieu
   - R-Jim
   - leduyhien152
-  - tuanddd
   - anhnh12
+  - tuanddd
 tags:
   - design-pattern
   - gang-of-four

@@ -6,6 +6,7 @@ description: Twenty-four weekly Go reading notes from June to December 2024, cov
 date: 2024-06-27
 slug: go-commentary-2024
 kind: digest
+announce: false
 authors:
   - fuatto
 tags:

@@ -3,6 +3,7 @@ title: "The Elements of Story: nonfiction writing techniques from Francis Flaher
 description: "Reading notes on Francis Flaherty's The Elements of Story, covering leads, endings, sequencing, action and commentary, economy of language, and marrying form with function."
 slug: elements-of-story-reading-notes
 date: 2026-08-27
+announce: false
 authors: []
 credit: David Drysdale (Moby Diction)
 tags:

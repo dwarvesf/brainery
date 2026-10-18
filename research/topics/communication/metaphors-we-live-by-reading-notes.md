@@ -3,6 +3,7 @@ title: "Lakoff and Johnson on how metaphor shapes what we see and do"
 description: "Reading notes on Lakoff and Johnson's Metaphors We Live By, covering structural and orientational metaphors, metonymy, novel metaphors and why they challenge the objectivist view of truth."
 slug: metaphors-we-live-by-reading-notes
 date: 2026-08-27
+announce: false
 authors: []
 credit: David Drysdale (Moby Diction)
 tags:

@@ -3,6 +3,7 @@ title: Ideas over titles at Dwarves
 description: The working principles behind how Dwarves runs its team, from ideas that win on merit to open check-ins, hiring on skill and shipping to users, collected from culture essays written between 2020 and 2023.
 date: 2020-02-21
 kind: essay
+announce: false
 authors:
   - tieubao
   - duynglam

@@ -3,8 +3,10 @@ title: Apprenticeship batch of 2022
 short_title: Batch of 2022
 description: "It's our second attempt rolling out this program. But the motivation stays the same: Accelerating someone's current software development skillset."
 date: 2022-04-20
+announce: false
 authors:
   - duynglam
+  - tieubao
   - nikkingtr
 tags:
   - apprenticeship

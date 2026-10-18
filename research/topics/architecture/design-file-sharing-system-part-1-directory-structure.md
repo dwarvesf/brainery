@@ -3,6 +3,7 @@ draft: false
 title: "Design a file-sharing system: directory structure, permissions and passwords"
 description: How I designed a Google Drive-style file storage and sharing system for our website, covering the data model, a path field for the folder hierarchy, role-based permissions with inheritance, public sharing and password protection.
 date: 2024-07-31
+announce: false
 authors:
   - datphamcode295
 tags:

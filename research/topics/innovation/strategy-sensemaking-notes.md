@@ -3,6 +3,7 @@ title: Strategy as sensemaking, from the OODA loop to inflection points and the 
 description: Reading notes on strategy from Rumelt, Sinek, McGrath, Boyd and Cedric Chin, on diagnosis and guiding policy, sensemaking, leading indicators, strategic inflection points, short-termism and long-term narrative.
 slug: strategy-sensemaking-notes
 kind: reference
+announce: false
 date: 2026-10-18
 authors: []
 credit: David Drysdale (Moby Diction)

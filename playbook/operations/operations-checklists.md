@@ -3,15 +3,16 @@ title: Dwarves operations checklists for hiring, onboarding, billing, handover a
 description: Operations checklists in one place, covering the people lifecycle, client contracts and invoices, and project start, communication, backup, handover, case studies and archive.
 slug: operations-checklists
 kind: playbook
+announce: false
 date: 2024-08-20
 authors:
   - tieubao
   - huynguyenh
-  - minhcloud
-  - zlatanpham
   - innnotruong
+  - zlatanpham
   - huytieu
   - nikkingtr
+  - minhcloud
 tags:
   - checklist
   - operation

@@ -3,6 +3,7 @@ title: Building custom iOS views in Swift
 description: Three step-by-step recipes for custom views in Swift, a passcode input, a draggable bottom menu and circular text in SwiftUI, each built from gestures, input handling or geometry.
 slug: swift-custom-view-recipes
 kind: reference
+announce: false
 date: 2019-06-22
 authors:
   - tieubao

@@ -3,6 +3,7 @@ title: "Solana basics: accounts, tokens and compressed NFTs"
 description: How Solana stores data in accounts, how tokens and NFTs are built on the token program, and how Metaplex compression cuts the on-chain cost of NFTs.
 slug: solana-basics
 kind: reference
+announce: false
 date: 2022-06-07
 authors:
   - trankhacvy

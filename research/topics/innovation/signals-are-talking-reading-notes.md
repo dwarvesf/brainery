@@ -3,6 +3,7 @@ title: "The Signals Are Talking: how to spot strategic inflection points at the 
 description: "Reading notes on Amy Webb's The Signals Are Talking, covering why inflection points show up first at the fringe, how the past limits our foresight, and the trendspotting ideas the book lists."
 slug: signals-are-talking-reading-notes
 date: 2026-08-21
+announce: false
 authors: []
 credit: David Drysdale (Moby Diction)
 tags:

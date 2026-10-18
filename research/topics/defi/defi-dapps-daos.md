@@ -3,6 +3,7 @@ title: "DeFi, DApps and DAOs: definitions, components and uses"
 description: What DeFi is and the two criteria that define it, how a DApp is built from smart contracts, a frontend and off-chain storage, and how DAOs organize people without a central authority.
 slug: defi-dapps-daos
 kind: reference
+announce: false
 date: 2026-08-27
 authors: []
 credit: a16z crypto, Mastering Ethereum and d-core.net

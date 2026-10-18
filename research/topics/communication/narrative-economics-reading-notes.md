@@ -3,6 +3,7 @@ title: "Narrative Economics: how contagious stories drive economic events"
 description: "Reading notes on Robert Shiller's Narrative Economics, covering what an economic narrative is, how narratives spread like diseases, constellations of narratives and why stories shape decisions."
 slug: narrative-economics-reading-notes
 date: 2026-08-27
+announce: false
 authors: []
 credit: David Drysdale (Moby Diction)
 tags:

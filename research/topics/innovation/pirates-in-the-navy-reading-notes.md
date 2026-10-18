@@ -3,6 +3,7 @@ title: "Pirates in the Navy: why large companies fail at innovation and how lead
 description: "Reading notes on Tendayi Viki's Pirates in the Navy, covering why enterprise innovation differs from startup innovation, the barriers inside large organizations, and what leaders can do about them."
 slug: pirates-in-the-navy-reading-notes
 date: 2026-08-27
+announce: false
 authors: []
 credit: David Drysdale (Moby Diction)
 tags:

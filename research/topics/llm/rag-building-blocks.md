@@ -3,11 +3,12 @@ title: Building blocks of a RAG pipeline
 description: How chunking, hierarchical tree summaries, re-ranking, query caching and vector-store chat memory fit together around a vector database in an LLM application.
 slug: rag-building-blocks
 kind: reference
+announce: false
 date: 2023-06-09
 authors:
   - zlatanpham
-  - monotykamary
   - nnhuyhoang
+  - monotykamary
 tags:
   - ai
   - llm

@@ -3,6 +3,7 @@ title: Product principles for makers, focus, bedrock and soul
 description: Three principles for building products that last, covering small sharp tools, the bedrock core that outlives feature cloning, and keeping soul while scaling.
 slug: product-principles-make
 kind: reference
+announce: false
 date: 2024-12-19
 authors:
   - tieubao

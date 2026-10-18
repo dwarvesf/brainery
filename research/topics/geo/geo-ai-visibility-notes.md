@@ -3,6 +3,7 @@ title: Staying visible in AI search with GEO
 description: Why generative engine optimization (GEO) decides whose knowledge AI answers cite, what the daily work of staying visible involves, and how to choose an AI visibility tracking tool.
 slug: geo-ai-visibility-notes
 kind: reference
+announce: false
 date: 2025-06-12
 authors:
   - innnotruong

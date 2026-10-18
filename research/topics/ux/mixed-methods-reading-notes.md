@@ -3,6 +3,7 @@ title: "Mixed Methods: induction, deduction, abduction and falsifiability in app
 description: "Reading notes on Sam Ladner's Mixed Methods, covering the three modes of reasoning in research, why falsifiability matters, and why data exhaust is not research."
 slug: mixed-methods-reading-notes
 date: 2026-08-27
+announce: false
 authors: []
 credit: David Drysdale (Moby Diction)
 tags:
