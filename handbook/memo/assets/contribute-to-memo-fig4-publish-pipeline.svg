@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 384" role="img" aria-label="Publish pipeline. A branch becomes a pull request. Checks run on the pull request: the Markdown-lint Check and a formatting bot commit within about a minute. A squash merge triggers publish on push, which dispatches two halves with one bot token: the data plane in foundation-workers and the df-memo frontend in foundation-apps. The pair takes 5 to 15 minutes to go live." style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid4" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr4" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+    <marker id="arra4" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#e8c56a"/>
+    </marker>
+  </defs>
+  <rect width="760" height="384" fill="#12395f"/>
+  <rect width="760" height="384" fill="url(#grid4)"/>
+  <rect x="0.5" y="0.5" width="759" height="383" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 4 · PUBLISH PIPELINE</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">A MERGE FIRES TWO PUBLISHES</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+  <rect x="24" y="80" width="160" height="64" fill="#21466a" stroke="#68839d"/>
+  <text x="104.0" y="101.0" font-size="11" letter-spacing="1.2" fill="#e8f1fa" text-anchor="middle">BRANCH</text>
+  <text x="104.0" y="116.0" font-size="10" fill="#a7c0d9" text-anchor="middle">git switch -c post/...</text>
+  <text x="104.0" y="131.0" font-size="10" fill="#a7c0d9" text-anchor="middle">in dwarvesf/brainery</text>
+  <rect x="208" y="80" width="160" height="64" fill="#21466a" stroke="#68839d"/>
+  <text x="288.0" y="101.0" font-size="11" letter-spacing="1.2" fill="#e8f1fa" text-anchor="middle">PULL REQUEST</text>
+  <text x="288.0" y="116.0" font-size="10" fill="#a7c0d9" text-anchor="middle">gh pr create</text>
+  <text x="288.0" y="131.0" font-size="10" fill="#a7c0d9" text-anchor="middle">template body replaced</text>
+  <rect x="392" y="80" width="160" height="64" fill="#21466a" stroke="#68839d"/>
+  <text x="472.0" y="101.0" font-size="11" letter-spacing="1.2" fill="#e8f1fa" text-anchor="middle">CHECKS ON THE PR</text>
+  <text x="472.0" y="116.0" font-size="10" fill="#a7c0d9" text-anchor="middle">Markdown-lint Check</text>
+  <text x="472.0" y="131.0" font-size="10" fill="#a7c0d9" text-anchor="middle">bot commit, about 1 min</text>
+  <rect x="576" y="80" width="160" height="64" fill="#21466a" stroke="#68839d"/>
+  <text x="656.0" y="101.0" font-size="11" letter-spacing="1.2" fill="#e8f1fa" text-anchor="middle">SQUASH MERGE</text>
+  <text x="656.0" y="116.0" font-size="10" fill="#a7c0d9" text-anchor="middle">gh pr merge --squash</text>
+  <text x="656.0" y="131.0" font-size="10" fill="#a7c0d9" text-anchor="middle">the only method allowed</text>
+  <line x1="184" y1="112" x2="208" y2="112" stroke="#c3d7ea" marker-end="url(#arr4)"/>
+  <line x1="368" y1="112" x2="392" y2="112" stroke="#c3d7ea" marker-end="url(#arr4)"/>
+  <line x1="552" y1="112" x2="576" y2="112" stroke="#c3d7ea" marker-end="url(#arr4)"/>
+  <path d="M 656 144 L 656 168 L 114 168 L 114 220" fill="none" stroke="#c3d7ea" marker-end="url(#arr4)"/>
+  <rect x="24" y="222" width="180" height="68" fill="#21466a" stroke="#e8c56a" stroke-width="2"/>
+  <text x="114.0" y="245.0" font-size="11" letter-spacing="1.2" fill="#e8c56a" text-anchor="middle">PUBLISH ON PUSH</text>
+  <text x="114.0" y="260.0" font-size="10" fill="#a7c0d9" text-anchor="middle">dispatches both repos</text>
+  <text x="114.0" y="275.0" font-size="10" fill="#a7c0d9" text-anchor="middle">with one bot token</text>
+  <line x1="204" y1="256" x2="233" y2="256" stroke="#c3d7ea"/>
+  <line x1="233" y1="216" x2="233" y2="296" stroke="#c3d7ea"/>
+  <line x1="233" y1="216" x2="262" y2="216" stroke="#c3d7ea" marker-end="url(#arr4)"/>
+  <line x1="233" y1="296" x2="262" y2="296" stroke="#c3d7ea" marker-end="url(#arr4)"/>
+  <rect x="262" y="186" width="284" height="60" fill="#21466a" stroke="#68839d"/>
+  <text x="404.0" y="205.0" font-size="11" letter-spacing="1.2" fill="#e8f1fa" text-anchor="middle">DATA PLANE</text>
+  <text x="404.0" y="220.0" font-size="10" fill="#c3d7ea" text-anchor="middle">foundation-workers</text>
+  <text x="404.0" y="235.0" font-size="10" fill="#a7c0d9" text-anchor="middle">memo API, search, menus, rollups, media</text>
+  <rect x="262" y="266" width="284" height="60" fill="#21466a" stroke="#68839d"/>
+  <text x="404.0" y="285.0" font-size="11" letter-spacing="1.2" fill="#e8f1fa" text-anchor="middle">FRONTEND</text>
+  <text x="404.0" y="300.0" font-size="10" fill="#c3d7ea" text-anchor="middle">foundation-apps</text>
+  <text x="404.0" y="315.0" font-size="10" fill="#a7c0d9" text-anchor="middle">df-memo Worker that serves the site</text>
+  <line x1="546" y1="216" x2="581" y2="216" stroke="#c3d7ea"/>
+  <line x1="546" y1="296" x2="581" y2="296" stroke="#c3d7ea"/>
+  <line x1="581" y1="216" x2="581" y2="296" stroke="#c3d7ea"/>
+  <line x1="581" y1="256" x2="616" y2="256" stroke="#c3d7ea" marker-end="url(#arr4)"/>
+  <rect x="616" y="222" width="120" height="68" fill="#21466a" stroke="#68839d"/>
+  <text x="676.0" y="251.0" font-size="12" letter-spacing="2" fill="#e8f1fa" text-anchor="middle">LIVE</text>
+  <text x="676.0" y="269.0" font-size="10" fill="#a7c0d9" text-anchor="middle">memo.d.foundation</text>
+  <path d="M 24 340 L 24 348 L 736 348 L 736 340" fill="none" stroke="#68839d"/>
+  <text x="380" y="368" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="middle">5 TO 15 MINUTES FOR THE PUBLISH PAIR</text>
+</svg>

@@ -59,9 +59,16 @@ case "$ext" in
   *) exit 0;;
 esac
 
-[ -s "$out" ] || exit 0
+warn_oversize() { # $1 file; rasters only, the 200 KB target
+  case "$ext" in png|jpg|jpeg|gif|webp|avif) ;; *) return 0;; esac
+  local sz; sz=$(stat -f%z "$1" 2>/dev/null || stat -c%s "$1")
+  [ "$sz" -le 204800 ] || echo "::warning file=$1::$1 is $sz bytes, over the 204800 byte raster target; shrink it or crop it"
+}
+
+[ -s "$out" ] || { warn_oversize "$f"; exit 0; }
 nsz=$(stat -f%z "$out" 2>/dev/null || stat -c%s "$out")
 if [ "$nsz" -lt $((osz * 90 / 100)) ]; then
   /bin/cp -f "$out" "$f"
   echo "compressed $f: $osz -> $nsz"
 fi
+warn_oversize "$f"

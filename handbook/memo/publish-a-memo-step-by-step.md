@@ -16,6 +16,7 @@ redirect:
   - /xyPMcA
   - /handbook/memo/publication-workflow
   - /cbnI7g
+draft: true
 ---
 
 This guide takes you from a blank file to a pull request on the Memo repository. The steps run in order: pick a folder, set up and sync your environment, write, preview, get a review, commit and open the pull request.
