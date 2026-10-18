@@ -131,13 +131,13 @@ _Fig. 1: Building got cheap; reaching the right people is the new bottleneck._
 
 Ethan says the process is still a work in progress. These are the habits he described. Copy the ones that fit.
 
-- [ ] **One owner per project.** Name one person who owns it end to end. Add people only for a missing skill or a very large scope.
-- [ ] **Hold an RFC review before building.** Share the written plan in a short technical critique to improve the architecture, even when the agent drafted it.
-- [ ] **Demo after shipping.** The demo is how the team builds taste and judgment.
-- [ ] **Count bugs from handoff.** From the moment code goes to stakeholders, count the bugs against its owner.
-- [ ] **Be curious, and make it the culture.** Ask how things work and what the fix was. Everyone should be able to explain what they shipped, because that knowledge is where taste and judgment come from.
-- [ ] **Talk to agents in Simplified Technical English.** Have them answer in it too, so output stays short.
-- [ ] **Decide where slop is fine.** Name which output can be rough and which must be right.
+- **One owner per project.** Name one person who owns it end to end. Add people only for a missing skill or a very large scope.
+- **Hold an RFC review before building.** Share the written plan in a short technical critique to improve the architecture, even when the agent drafted it.
+- **Demo after shipping.** The demo is how the team builds taste and judgment.
+- **Count bugs from handoff.** From the moment code goes to stakeholders, count the bugs against its owner.
+- **Be curious, and make it the culture.** Ask how things work and what the fix was. Everyone should be able to explain what they shipped, because that knowledge is where taste and judgment come from.
+- **Talk to agents in Simplified Technical English.** Have them answer in it too, so output stays short.
+- **Decide where slop is fine.** Name which output can be rough and which must be right.
 
 ## Hiring: research mindset, agency, learning
 
