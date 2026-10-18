@@ -1,14 +1,22 @@
 ---
 draft: false
-title: null
-description: null
-date: null
+title: Software 101, the impact, types and history of software
+description: The opening section of the Software 101 syllabus, covering what software is, why it matters, the main types of software and a short history of how it is built.
+date: 2021-07-27
 tags:
-  - 101
+  - "101"
   - engineering
   - syllabus
 redirect:
   - /C3oh3w
+  - /software-testing-101
+  - /research/notes/software-101/software-testing/software-testing-101
+  - /research/notes/software-101/software-testing/user-acceptance-testing
+  - /50htSA
+  - /research/notes/software-101/software-testing/when-to-stop-testing
+  - /PgD5xA
+  - /research/notes/software-101/software-testing/agile-testing
+  - /XCf5bA
 ---
 
 In this section we try to cover a few parts of software development. You can't expect much except some keywords or starting pieces that you have to do your our study over the internet and get back with questions (and lots of questions). We try to get them align in some forms of hierarchy.

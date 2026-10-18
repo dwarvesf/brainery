@@ -1,12 +1,16 @@
 ---
-draft: true
+draft: false
 title: Build in public (research note)
 description: "#buildinpublic in a process where creators are being transparent about their product building process."
-date: 2026-10-18
+date: 2021-06-30
+authors:
+  - duynglam
+announce: false
 tags:
   - build-in-public
   - product
-redirect: []
+redirect:
+  - /o0aZOA
 ---
 
 ## What is #buildinpublic
@@ -65,5 +69,5 @@ Adopting #buildinpublic for Readify goes through these steps:
 
 #### Reference
 
-- [Product hunt 101: how to launch your product from early idea to revenue | by Martijn Verbove | the startup | Medium](https://medium0.com/swlh/product-hunt-101-how-to-launch-your-product-from-early-idea-to-revenue-c3f01864cdde)
-- [Launching digital products 101. put theory to practice. these workable… | by Justyna Aptowicz-Aydın | Agile Insider | Medium](https://medium0.com/agileinsider/launching-digital-products-101-af566104f6aa)
+- Product hunt 101: how to launch your product from early idea to revenue | by Martijn Verbove | the startup | Medium
+- Launching digital products 101. put theory to practice. these workable… | by Justyna Aptowicz-Aydın | Agile Insider | Medium

@@ -1,12 +1,16 @@
 ---
-draft: true
+draft: false
 title: Setup Feedback Loop (research note)
 description: "The process of witnessing users using your product, seeing how they respond, collecting their reactions and putting them in measure."
-date: 2026-10-18
+date: 2021-08-11
+authors:
+  - duynglam
+announce: false
 tags:
   - feedback
   - product
-redirect: []
+redirect:
+  - /Ryscsg
 ---
 
 ## What is feedback-loop

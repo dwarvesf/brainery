@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Product management basics, from roadmap to feedback loop
 description: How a product team decides what to build next, covering the roadmap, data-driven feature definition, the Kano model, feedback loops and building in public.
 slug: product-management-basics
@@ -13,17 +14,6 @@ tags:
   - features
   - feedback
   - build-in-public
-redirect:
-  - /research/topics/product/defining-features
-  - /IXMQww
-  - /research/topics/product/product-roadmap
-  - /F0hupQ
-  - /research/topics/product/the-kano-model
-  - /FPvmtg
-  - /research/topics/product/build-in-public
-  - /o0aZOA
-  - /research/topics/product/setup-feedback-loop
-  - /Ryscsg
 ---
 
 Every product team keeps facing the same question: what should we build next? These notes cover the tools that answer it. A roadmap sets the plan. Data and customer feedback show which features deserve the investment. The Kano model ranks the candidates. A feedback loop keeps the answers current, and building in public brings users into the process early.

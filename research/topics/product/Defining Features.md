@@ -1,12 +1,16 @@
 ---
-draft: true
+draft: false
 title: Defining features (research note)
 description: This phase usually happens after the MVP stage.
-date: 2026-10-18
+date: 2021-07-28
+authors:
+  - duynglam
+announce: false
 tags:
   - features
   - product
-redirect: []
+redirect:
+  - /IXMQww
 ---
 
 This phase usually happens after the MVP stage. Once the idea is validated as an early version, product owners tend to get overwhelmed with feature request and nubmers of way to develop the next highlight.
