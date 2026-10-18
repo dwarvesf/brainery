@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Introduce the observer pattern and its use cases
 description: Concept of the observer pattern with its pros and cons.
 date: 2024-07-12
@@ -9,8 +9,7 @@ tags:
   - observer-pattern
   - design-pattern
   - gang-of-four
-redirect:
-  - /EcmfsQ
+redirect: []
 ---
 
 ![](assets/observer-pattern.webp)

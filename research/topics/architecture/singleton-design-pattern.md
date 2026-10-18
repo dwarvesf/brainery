@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: A tour of Singleton design pattern with Golang
 description: Singleton real-world problem, concept, solution, use cases, implementations, pros & cons, references
 date: 2024-06-10
@@ -10,8 +10,7 @@ tags:
   - gang-of-four
   - golang
   - software-design
-redirect:
-  - /us0xGQ
+redirect: []
 ---
 
 ![](assets/singleton-design-pattern.pdf)

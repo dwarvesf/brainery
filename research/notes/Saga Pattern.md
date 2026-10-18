@@ -1,13 +1,12 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Saga Pattern (research note)
+description: The saga design pattern is a way to manage data consistency across microservices in distributed transaction scenarios.
+date: 2026-10-18
 tags:
   - microservice
   - pattern
-redirect:
-  - /XW4BqA
+redirect: []
 ---
 
 The saga design pattern is a way to manage data consistency across microservices in distributed transaction scenarios.

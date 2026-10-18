@@ -1,6 +1,6 @@
 ---
-draft: false
-title: Rust trait
+draft: true
+title: rust-trait (research note)
 description: "Rust's **trait** system is a powerful feature that enables developers to define shared behavior across different types. Traits play a crucial role in achieving code reusability, abstraction, and flexibility..."
 date: 2024-07-03
 authors:
@@ -8,8 +8,7 @@ authors:
 tags:
   - rust
   - trait
-redirect:
-  - /V6UqeQ
+redirect: []
 ---
 
 ## Understanding traits

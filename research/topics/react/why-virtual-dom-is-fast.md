@@ -1,6 +1,6 @@
 ---
-draft: false
-title: Why Virtual DOM is fast?
+draft: true
+title: why-virtual-dom-is-fast (research note)
 description: React and Vue, two popular front-end frameworks, both use Virtual DOM to improve page rendering efficiency. Understanding the concept of Virtual DOM sheds light on an important aspect of performance optimization on the client side.
 date: 2022-08-09
 authors:
@@ -11,8 +11,7 @@ tags:
   - frontend
   - react
   - virtual-dom
-redirect:
-  - /JAvmBQ
+redirect: []
 ---
 
 Under the hood, virtual DOM is a mapping of JavaScript objects to actual DOM. In React, an example of this looks like this:

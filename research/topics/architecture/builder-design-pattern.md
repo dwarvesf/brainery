@@ -1,5 +1,5 @@
 ---
-draft: false
+draft: true
 title: Introduce the builder pattern and its use cases
 description: Builder, one of the creational patterns, allows user to construct complex object step by step while still maintaining flexibility.
 date: 2024-06-10
@@ -8,8 +8,7 @@ authors:
 tags:
   - design-pattern
   - gang-of-four
-redirect:
-  - /IQSM9g
+redirect: []
 ---
 
 ![](assets/builder-design-pattern.pdf)

@@ -1,15 +1,14 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: User acceptance testing (research note)
+description: Today customers expect software companies to deliver quality software at lowest costs and shorter time to meet their business needs.
+date: 2026-10-18
 tags:
-  - 101
+  - "101"
   - engineering
   - testing
   - uat
-redirect:
-  - /50htSA
+redirect: []
 ---
 
 Today customers expect software companies to deliver quality software at lowest costs and shorter time to meet their business needs. However many software companies only focus on the functional aspects via several tests such as unite test, integration test, system test etc. in their development environment. Few pay attention on how the software will work in the users environment. Many times, the software meet all functional requirements but failed during the user acceptance test because of incompatible testing environment.

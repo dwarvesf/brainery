@@ -1,14 +1,13 @@
 ---
-draft: false
-title: null
-description: null
-date: null
+draft: true
+title: Throttling Pattern (research note)
+description: Control the consumption of resources used by an instance of an application, an individual tenant, or an entire service.
+date: 2026-10-18
 tags:
   - pattern
   - system-design
   - throttling
-redirect:
-  - /mCW16g
+redirect: []
 ---
 
 Control the consumption of resources used by an instance of an application, an individual tenant, or an entire service.
