@@ -1,5 +1,4 @@
 ---
-draft: true
 title: 'Expiring model credits need a routing plan'
 description: 'A small operating playbook can turn time-limited model credit into useful agent experiments instead of last-minute spend.'
 date: 2026-10-17
