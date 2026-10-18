@@ -2,7 +2,7 @@
 title: Apprenticeship batch of 2022
 short_title: Batch of 2022
 description: "It's our second attempt rolling out this program. But the motivation stays the same: Accelerating someone's current software development skillset."
-date: 2022-09-23
+date: 2022-04-20
 authors:
   - duynglam
   - nikkingtr
@@ -11,6 +11,10 @@ tags:
   - career
 redirect:
   - /sdwCmg
+  - /careers/apprentice/2022/2022-meet-tuan-dao
+  - /hsCvig
+  - /careers/apprentice/2022/2022-meet-ngoc-thanh-pham
+  - /doFsXg
 ---
 
 ![Dwarves Foundation Apprenticeship program banner showing a group of apprentices](assets/apprenticeship-banner.webp)
@@ -68,3 +72,26 @@ With this summary, we're delighted to welcome a new batch of well-trained Appren
 None We have a lot to learn ourselves, and we hope to improve them at our next year program. Until then, let's meet the **Dwarves Apprentices, batch of 2022** ↓
 
 ![Portraits of the 2022 apprentice cohort members](assets/apprenticeship-members.webp)
+
+## The mentors
+
+Two mentors introduced themselves in April 2022, before the batch started. Their titles and roles are as of that month.
+
+### Tuan Dao, frontend and blockchain
+
+![Tuan Dao, Senior Frontend and Blockchain Engineer at Dwarves Foundation](assets/tuan-dao-mentor.webp)
+
+Tuan had 4+ years of experience, two of them at Dwarves, across projects of many sizes and domains. His working principle is "To find joy in your profession". The joy comes from owning exciting products, learning and applying new things, and having people he can rely on. He took charge of the apprentices' frontend skills, with React as his strongest ground, and taught them to stay flexible and patient as requirements keep changing.
+
+His mentoring follows the 1:1 method his own mentor at Dwarves used. The goal is an environment where the mentee feels cared for and gets accurate guidance.
+
+### Thanh Pham, blockchain
+
+![Ngoc Thanh Pham, blockchain mentor at Dwarves Foundation, during a presentation](assets/thanh-pham-mentor.webp)
+
+Thanh led the blockchain work. Dwarves was shifting its focus to the technology in 2022 and offered study groups and blockchain projects for people to grow with it. Those projects ranged from trading platforms to blockchain games, and they called for cross-chain and swapping techniques. His answers to four questions:
+
+- **Is blockchain knowledge critical to an engineer's career?** Blockchain is more than a framework for a business problem. It is an open foundation for decentralized applications and their ecosystem. It started from backend technique, and it opens a career path next to frontend or backend.
+- **What should a new blockchain engineer note?** Young engineers pick up new things fast, and some start with blockchain after a few months. The risk is diving in too fast and forgetting long-term value. The work needs accuracy and a logical, testing-minded approach before you design, test and validate any model.
+- **What makes a product succeed?** It must first solve a user's need. Whether it is a utility, a platform or an application, it should support company revenue and the business goal.
+- **What is the mentor's secret?** Slow a hurried mentee down so they take one thing at a time. That builds attention to detail and the habit of knowing what went wrong. Cloning a project and editing it does not show you where an error came from. Combine best practices, project experience and research, and document them. That gives a bird's-eye view and the reason behind each step.

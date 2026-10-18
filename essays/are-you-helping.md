@@ -1,7 +1,8 @@
 ---
+draft: true
 title: 'Are you helping?'
 description: 'In a recent post I wrote "Inner Circle", I expounded on the importance of contribution and value in relation to a person''s work or performance.'
-date: 2023-01-31T00:00:00.000Z
+date: 2023-01-31
 authors:
   - 'tieubao'
 should_deploy_perma_storage: true
@@ -12,9 +13,7 @@ tags:
 perma_storage_id: 'WxB72egTI0dSAt1LPrTLFj9LYIozOnx19gNizA6EBMQ'
 minted_at: '2025-05-12'
 token_id: '9'
-redirect:
-  - /culture/are-you-helping
-  - /0LcNnA
+redirect: []
 slug: are-you-helping
 ---
 

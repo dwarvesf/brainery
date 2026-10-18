@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Transparency inside a company: validate the idea, then open-source the news"
 description: The essence of transparency within a company
 date: 2020-05-27
@@ -7,9 +8,7 @@ authors:
 tags:
   - culture
   - transparency
-redirect:
-  - /culture/transparency
-  - /ajxBag
+redirect: []
 slug: transparency
 ---
 

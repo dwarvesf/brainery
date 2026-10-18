@@ -1,6 +1,6 @@
 ---
 title: Dwarves operations checklists for hiring, onboarding, billing, handover and offboarding
-description: Twelve operations checklists in one place, covering the people lifecycle, client contracts and invoices, and project communication, backup, handover and case studies.
+description: Operations checklists in one place, covering the people lifecycle, client contracts and invoices, and project start, communication, backup, handover, case studies and archive.
 slug: operations-checklists
 kind: playbook
 date: 2024-08-20
@@ -44,6 +44,14 @@ redirect:
   - /yAkaUA
   - /playbook/operations/checklists/offboarding-checklist
   - /M7Kgvg
+  - /playbook/operations/checklists/candidate-checklist
+  - /kgkrJg
+  - /playbook/operations/checklists/unemployment-social-health-insurance
+  - /8dD0tQ
+  - /playbook/operations/checklists/project-initialization
+  - /6UOtFw
+  - /playbook/operations/checklists/project-archive
+  - /6uSI1g
 ---
 
 The Dwarves Operations team keeps one checklist per recurring job. This page gathers them so a person on duty can find the right list without browsing a folder. The lists fall into three groups: people, clients and money, and projects.
@@ -51,17 +59,21 @@ The Dwarves Operations team keeps one checklist per recurring job. This page gat
 | Checklist                   | Use it when                                                |
 | --------------------------- | ---------------------------------------------------------- |
 | Hiring                      | Running a recruiting round, from job post to offer         |
+| Candidate evaluation        | Judging whether a candidate fits                           |
 | Onboarding                  | A new employee joins the team                              |
 | Leave requests and holidays | An employee asks for leave, or a public holiday approaches |
 | Offboarding                 | An employee leaves the team                                |
+| Social insurance paperwork  | An employee asks for social insurance and a contract       |
 | Company assets              | Anyone borrows or returns a company asset                  |
 | Consulting contract         | Reviewing a client contract before signing                 |
 | Billing and invoices        | Issuing, sending and chasing a client invoice              |
 | Vietnam invoice             | Producing a Vietnamese tax invoice                         |
+| Project initialization      | Starting a new project, from paperwork to setup            |
 | Project communication       | Setting the communication rules of a project               |
 | Back up artifacts           | Every 3 months, to record the project's progress           |
 | Project handover            | A new member takes over project work                       |
 | Project case study          | Writing the case study of a finished project               |
+| Project archive             | Closing a finished project                                 |
 
 ## People
 
@@ -109,6 +121,29 @@ The checklist presents how hiring proceeds.
 - [ ] Pre-assignment Test
 - [ ] Assignment
 - [ ] Templates for multiple scenarios (see [Dwarves email templates](/email-template-library))
+
+### Candidate evaluation
+
+The checklist shows how to evaluate a candidate.
+
+**Background and skills**
+
+- [ ] Logic qualified
+- [ ] English skills qualified
+- [ ] Technical (specialized) knowledge and skills qualified
+
+**Personalities.** The [hiring approach](hiring-approach.md) shows how we read these. A short list works as a shortcut:
+
+- [ ] Doer
+- [ ] Curiosity
+- [ ] Problem-solving
+- [ ] Learner
+- [ ] Teamwork
+- [ ] Open-minded
+- [ ] Collaborative
+- [ ] Supportive
+- [ ] Any issues in previous works?
+- [ ] Personality check via social?
 
 ### Onboarding
 
@@ -285,6 +320,23 @@ An offboarding process must ensure three things:
 
 This checklist aims for a smooth, positive offboarding that keeps good relations with the departing employee while protecting company interests. Adapt it to the specific role and the company's technology and processes.
 
+### Social insurance paperwork
+
+**When an employee asks for social insurance and a contract**
+
+- [ ] Adjusted salary will be noted
+- [ ] Notice to Quang & Han about salary adjustment
+
+**Required documents**
+
+- [ ] Social Insurance number
+- [ ] PIT number
+- [ ] Household Registration Book
+- [ ] ID card (photo)
+- [ ] Number of inhabitants (photo)
+- [ ] Declaration of Temporary Residence
+- [ ] Labour Contract
+
 ### Company assets
 
 This checklist is for administrators and employees to manage company assets.
@@ -403,6 +455,26 @@ The process of taking a Vietnam invoice.
 
 ## Projects
 
+### Project initialization
+
+The checklist shows the process of project initialization.
+
+**Paperwork**
+
+- [ ] NDA (depends on clients)
+- [ ] Legally signed agreements (hellosign.com for the e-contract)
+- [ ] All related papers such as agreements are put on Drive
+
+**Process**
+
+- [ ] Resources prepared and ready
+- [ ] Got deposit after the agreements are signed (depends on the agreements)
+- [ ] Communication channel setup
+- [ ] Task and project management tool setup
+- [ ] Project meeting scheduled
+- [ ] Requirements are clear
+- [ ] Project init and setup
+
 ### Project communication
 
 The rules of communication in a project.
@@ -498,3 +570,12 @@ The case study should focus on what the audience wants to read.
 
 - [ ] Does it contain the technical challenge?
 - [ ] Does it contain the system design and architecture design?
+
+### Project archive
+
+The checklist shows how a project is archived.
+
+- [ ] Collect and put all artifacts to Google Drive.
+- [ ] Write a case study to share experience.
+- [ ] Thank the client and ask for a referral if possible.
+- [ ] Update the audience database.

@@ -1,5 +1,5 @@
 ---
-title: Culture
+title: Culture at Dwarves
 description: Keep learning and growing. We started this team out of software practice advancement.
 date: 2023-12-15
 authors:
@@ -45,7 +45,7 @@ Shiny toys can cloud our judgement. Sometimes, simple is harder than complex.
 
 Try to do more than what required to do. Make the 5% impossible possible.
 
-Spend a bit extra effort. Little things count. How you approach. How you solve or react to it. You'll be amazed by how effective it becomes by [going extra](/culture/go-the-extra-mile).
+Spend a bit extra effort. Little things count. How you approach. How you solve or react to it. You'll be amazed by how effective it becomes by [going extra](/dwarves-team-principles).
 
 Software gets updated to bring a better experience. That should applies in everything else. Every time you look back on your work, there should be something to improve.
 

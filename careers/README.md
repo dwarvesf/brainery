@@ -80,7 +80,7 @@ We've got spots open for engineers, designers, marketers, and learners ready to 
 
 ### Community
 
-- [🔬 Community labs member](open-positions/community-labs-member.md) *Side gig with allowances and research perks*
+- [🔬 Community labs member](open-positions/community-labs-member.md) _Side gig with allowances and research perks_
 
 ### Apprenticeship program [Opening late 2025]
 
@@ -143,7 +143,7 @@ Here's what some Dwarves say about life in our hall:
 - "Challenges are chances to level up. This place thrives on that."
   - **Minh Luu**, Full-stack engineer ([LinkedIn](https://www.linkedin.com/in/minhluuquang/))
 
-Curious about the journey? Check out stories from [Huy Tieu](https://techiestory.net/post/23-huy-tieu), [An Tran](https://memo.d.foundation/careers/life/life-at-dwarves-with-an-tran/), and [Ngoc Thanh](apprentice/2022/2022-meet-ngoc-thanh-pham.md).
+Curious about the journey? Check out stories from [Huy Tieu](https://techiestory.net/post/23-huy-tieu), [An Tran](https://memo.d.foundation/careers/life/life-at-dwarves-with-an-tran/), and [Ngoc Thanh](apprentice/2022/batch-of-2022.md#thanh-pham-blockchain).
 
 ## How to step into the hall
 

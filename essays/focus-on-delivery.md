@@ -1,10 +1,8 @@
 ---
-title: Focus on delivery
-description: >-
-  Focus on shipping when you are struggling with what to do next to be better as
-  a software engineer. When you ship something new, users will try out your
-  build and give you feedback.
-date: 2023-02-04T00:00:00.000Z
+draft: true
+title: Focus on shipping
+description: 'Focus on shipping when you are struggling with what to do next to be better as a software engineer. When you ship something new, users will try out your build and give you feedback.'
+date: 2023-02-04
 authors:
   - tieubao
 should_deploy_perma_storage: true
@@ -15,9 +13,7 @@ tags:
 perma_storage_id: skv0aCQ2qqeaoihHhR9ymXeumD8VwoSuXYDNKrW6Cdc
 minted_at: '2025-05-12'
 token_id: '3'
-redirect:
-  - /culture/focus-on-delivery
-  - /TtykwA
+redirect: []
 slug: focus-on-delivery
 ---
 
