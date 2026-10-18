@@ -4,7 +4,7 @@ title: "Drawing a watch face with SwiftUI"
 description: Learn how to create a custom watch face with circular bezel, ticks, numbers, and moving hands using SwiftUI Shapes, Paths, and real-time updates in this step-by-step guide.
 date: 2020-03-23
 authors:
-  - tieubao
+  - viettrungphan
 tags:
   - swift
 redirect:

@@ -4,8 +4,8 @@ description: What copyright and copyleft mean for our code, and the rules for li
 date: null
 redirect:
   - /xYYbTg
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 ---
 
 ## Why license?

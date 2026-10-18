@@ -3,8 +3,8 @@ draft: false
 title: "Card sorting for information architecture and an experimental sorting session"
 description: Learn how card sorting improves information architecture and user experience by organizing content based on real user feedback for clearer navigation in websites and digital products.
 date: 2018-08-26
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 tags:
   - design
   - technique

@@ -4,8 +4,8 @@ description: What to set up when a project starts, including the agreement folde
 date: null
 redirect:
   - /GHb2lA
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 ---
 
 Following setup helps us maintain stability and increase the transparency among team members.

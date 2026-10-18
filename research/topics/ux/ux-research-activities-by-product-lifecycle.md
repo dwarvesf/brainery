@@ -5,8 +5,8 @@ description: Learn how different UX research methods fit each product lifecycle 
 date: 2026-08-27
 redirect:
   - /VSnAig
-authors:
-  - tieubao
+authors: []
+credit: David Drysdale (Moby Diction)
 ---
 
 Different UX research methods align with different phases of the product lifecycle. The earlier in the process UX research is incorporated, the greater the value it can deliver. When possible, focus your budget, time, and energy on Discovery and Explore research tasks. However, there is useful information to gather at any point in development.
@@ -27,8 +27,6 @@ Test to make sure that what you have been building is going to hit the mark with
 
 Continually monitor and gather data to help understand existing problems and identify new ones.
 
-![UX Research Methods.png](https://publish-01.obsidian.md/access/5bf4c22f8416d93237aa3630d0fd9c7c/assets/UX%20Research%20Methods.png)
-
 When choosing a method, you will also need to consider any operating constraints. These may include budget, available tools, and top concerns.
 
 If you can do only one thing, do qualitative (think-aloud) usability testing. Nielsen-Norman Group contends that this is the most effective method to improve usability.
@@ -38,11 +36,13 @@ If you can do only one thing, do qualitative (think-aloud) usability testing. Ni
 #### Related
 
 - [[Landscape of UX research methods]]
-- [Base strategy on leading, not lagging, indicators](https://publish.obsidian.md/mobydiction/notes/Base+strategy+on+leading%2C+not+lagging%2C+indicators)
-- [De-risk innovation by making smaller bets](https://publish.obsidian.md/mobydiction/notes/De-risk+innovation+by+making+smaller+bets)
-- [Qualitative research creates mental models about the problem space.](https://publish.obsidian.md/mobydiction/notes/Qualitative+research+creates+mental+models+about+the+problem+space.)
-- [Qualitative researchers care more about data saturation than sample size](https://publish.obsidian.md/mobydiction/notes/Qualitative+researchers+care+more+about+data+saturation+than+sample+size)
+- Base strategy on leading, not lagging, indicators
+- De-risk innovation by making smaller bets
+- Qualitative research creates mental models about the problem space.
+- Qualitative researchers care more about data saturation than sample size
 
 #### Citations
 
 Rohrer, Christian. “When to Use Which User-Experience Research Methods.” Nielsen Norman Group (blog). Accessed October 13, 2020. [https://www.nngroup.com/articles/which-ux-research-methods/](https://www.nngroup.com/articles/which-ux-research-methods/).
+
+Adapted from David Drysdale's Moby Diction notes.

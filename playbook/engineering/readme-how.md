@@ -4,8 +4,8 @@ description: What a good README contains, who writes it and when, with section g
 date: null
 redirect:
   - /2Fz0UQ
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 ---
 
 A README is a text file that introduces and explains a project. It contains information that is commonly required to understand what the project is about.

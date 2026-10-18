@@ -4,8 +4,8 @@ description: How our teams apply agile and Scrum, including team formation, spri
 date: null
 redirect:
   - /KjoHhA
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 ---
 
 The workflow we chose to adopt is a team agreement on why we should be a team player and how we should act to benefit as a whole, not just an individual.

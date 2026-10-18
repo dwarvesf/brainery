@@ -5,8 +5,8 @@ description: "Learn Shawn Coyne's five essential Story Grid commandments—Incit
 date: 2026-08-27
 redirect:
   - /oyjgXw
-authors:
-  - tieubao
+authors: []
+credit: David Drysdale (Moby Diction)
 ---
 
 In his _Story Grid_ approach to writing a novel, Shawn Coyne lists five commandments that he argues are essential to effective fiction. These elements, he says, determine whether or not a scene works:
@@ -29,3 +29,5 @@ In his _Story Grid_ approach to writing a novel, Shawn Coyne lists five commandm
 Coyne, Shawn, and Steven Pressfield. _The Story Grid: What Good Editors Know_. Illustrated edition. Black Irish Entertainment LLC, 2015.
 
 Kerry, Abigail K. “Use The Story Grid Scene Analysis Template to Read With Purpose,” March 30, 2020. [Link](https://diymfa.com/reading/story-grid-scene-analysis-template).
+
+Adapted from David Drysdale's Moby Diction notes.

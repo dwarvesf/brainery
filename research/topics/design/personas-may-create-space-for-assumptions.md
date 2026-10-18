@@ -5,8 +5,8 @@ description: Learn why personas can mislead design teams by including unnecessar
 date: 2026-08-27
 redirect:
   - /Xv9vQg
-authors:
-  - tieubao
+authors: []
+credit: David Drysdale (Moby Diction)
 ---
 
 Personas have come under fire for including extraneous information that, beyond simply being unnecessary, can distract or contribute to misunderstandings about users and their contexts. For instance, Alan Klement suggests that by describing a set of attributes, personas distract teams from the actual problems their users are hoping to solve.

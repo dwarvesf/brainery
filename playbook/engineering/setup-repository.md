@@ -4,8 +4,8 @@ description: What every repository must provide, including one-command run and d
 date: null
 redirect:
   - /4LejNg
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 ---
 
 How we expect projects to be setup.

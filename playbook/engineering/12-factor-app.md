@@ -4,8 +4,8 @@ description: How Dwarves applies each of the twelve factors in real projects, fr
 date: null
 redirect:
   - /2hYHHQ
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 ---
 
 _The 12-factor apps let us write modern software as a service which is easy to deploy, scale up, maximize portability, and minimize time, the cost for new developers joining the project._

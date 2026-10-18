@@ -5,8 +5,8 @@ description: Explore the four main theories of truth—correspondence, coherence
 date: 2026-08-27
 redirect:
   - /W3bWug
-authors:
-  - tieubao
+authors: []
+credit: David Drysdale (Moby Diction)
 ---
 
 In epistemology, there are generally four theories by which a claim may be evaluated as true. These are
@@ -18,7 +18,7 @@ In epistemology, there are generally four theories by which a claim may be evalu
 
 Understanding each of these methods provides a rubric by which a claim can be evaluated. Weighing the claim against each model in turn can help facilitate critical thought.
 
-Some groups or cultures may skew more heavily toward one model than another. For instance, the scientific method relies on the correspondence theory of truth when it considers and experimentally evaluates a hypothesis. As another example, [Cedric Chin](https://publish.obsidian.md/mobydiction/Cedric+Chin) notes that Singaporean culture tends to put much stock in pragmatic theories of truth.
+Some groups or cultures may skew more heavily toward one model than another. For instance, the scientific method relies on the correspondence theory of truth when it considers and experimentally evaluates a hypothesis. As another example, Cedric Chin notes that Singaporean culture tends to put much stock in pragmatic theories of truth.
 
 Outcome-oriented product management seems to favour the pragmatic theory as well. an approach is valid if it produces the desired result, regardless of why it succeeded. However, practitioners would likely suggest that their method is more akin to the correspondence theory, which feels more scientifically grounded. Of course, neither theory is innately superior to the other, so it probably doesn't matter.
 
@@ -29,10 +29,12 @@ Collectively, we rely on each of these theories of truth in different situations
 #### Related
 
 - [[¶ Falsifiability]]
-- [Objectivism assumes a concrete, knowable world](https://publish.obsidian.md/mobydiction/notes/Objectivism+assumes+a+concrete%2C+knowable+world)
-- [Quantitative analysis is not inherently more reliable than qualitative data](https://publish.obsidian.md/mobydiction/notes/Quantitative+analysis+is+not+inherently+more+reliable+than+qualitative+data)
-- [§ Research](https://publish.obsidian.md/mobydiction/notes/%C2%A7+Research)
+- Objectivism assumes a concrete, knowable world
+- Quantitative analysis is not inherently more reliable than qualitative data
+- § Research
 
 #### Citations
 
 Chin, Cedric. “The Four Theories of Truth As a Method for Critical Thinking.” Commonplace - The Commoncog Blog (blog), September 15, 2020. [Link](https://commoncog.com/blog/four-theories-of-truth/).
+
+Adapted from David Drysdale's Moby Diction notes.

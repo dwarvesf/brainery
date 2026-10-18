@@ -4,8 +4,8 @@ description: How to write agile user stories, with the INVEST test, epics and th
 date: null
 redirect:
   - /6v6jrw
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 ---
 
 ## What is user story?

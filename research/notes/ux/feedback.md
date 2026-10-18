@@ -3,8 +3,9 @@ draft: false
 title: Real feedback
 description: "Learn what true feedback is and isn't. Discover practical steps for giving and receiving feedback that fosters growth and trust."
 date: 2025-06-03
-authors:
-  - tieubao
+authors: []
+credit: UX Collective
+credit_url: "https://uxdesign.cc/your-company-doesnt-know-what-feedback-is-0194d6d82a62"
 tags:
   - feedback
   - communication

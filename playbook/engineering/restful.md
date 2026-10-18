@@ -4,8 +4,8 @@ description: Conventions for REST API design, from URLs and versioning to pagina
 date: null
 redirect:
   - /0OkhcQ
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 ---
 
 An API is a user interface for developers. Put the effort in to ensure it's not just functional but pleasant to use.

@@ -4,8 +4,8 @@ description: How we pair program, with driver and navigator roles, what to agree
 date: null
 redirect:
   - /Ql8wug
-authors:
-  - tieubao
+authors: []
+credit: Dwarves Foundation
 ---
 
 We encourage pair programming between all levels of experience. Nobody is required to pair program for a certain amount of time, but it is a great tool to help solve complex problems quickly and more efficiently with an extra set of eyes.
