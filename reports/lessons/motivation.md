@@ -33,8 +33,8 @@ In traditional development, knowledge often resides in formal documentation, cod
 
 The `mcp-playbook` was conceived to address this challenge head-on. Its primary motivations were:
 
-1. **Systematizing AI Interactions:** To provide a structured way for AI agents (and the humans guiding them) to interact with project documentation and knowledge repositories.
-2. **Automating Documentation Overhead:** Tedious tasks like creating initial drafts for Architectural Decision Records (ADRs), specifications, or changelog entries could be partially or fully automated, freeing up developers to focus on higher-level thinking.
+1. **Systematizing AI interactions:** To provide a structured way for AI agents (and the humans guiding them) to interact with project documentation and knowledge repositories.
+2. **Automating documentation overhead:** Tedious tasks like creating initial drafts for Architectural Decision Records (ADRs), specifications, or changelog entries could be partially or fully automated, freeing up developers to focus on higher-level thinking.
 3. **Capturing the "Why" and "How":** To ensure that the reasoning and context behind AI-generated code or solutions were not lost.
 
 By providing tools like `create_spec`, `create_adr`, and `create_changelog`, `mcp-playbook` began to form a bridge between the AI's workspace and our project's documented knowledge base. It was the first step towards a more automated approach to knowledge management in an AI-driven environment.
@@ -45,18 +45,18 @@ While we had the concept of a "playbook", a set of strategies or methods, we did
 
 The introduction of `mcp-playbook` inadvertently highlighted the need for such a resource. As the AI, guided by `mcp-playbook` tools, started generating documentation and interacting with project data, patterns began to emerge:
 
-* Reusable solutions to common problems.
-* Effective sequences of diagnostic steps.
-* Standard procedures for specific operational tasks.
+- Reusable solutions to common problems.
+- Effective sequences of diagnostic steps.
+- Standard procedures for specific operational tasks.
 
-These weren't always formal ADRs or specifications; they were often more practical, "in-the-trenches" insights. The `mcp-playbook` tool `suggest_runbook` was a direct response to this, providing a mechanism to capture these learnings and contribute them to a centralized `runbook`. The `mcp-playbook` provided the *means* (the tools and processes), which in turn created the demand and a pathway for the `runbook` (the *repository*) to flourish as a dynamic, community-driven knowledge base.
+These weren't always formal ADRs or specifications; they were often more practical, "in-the-trenches" insights. The `mcp-playbook` tool `suggest_runbook` was a direct response to this, providing a mechanism to capture these learnings and contribute them to a centralized `runbook`. The `mcp-playbook` provided the _means_ (the tools and processes), which in turn created the demand and a pathway for the `runbook` (the _repository_) to flourish as a dynamic, community-driven knowledge base.
 
 ## New data, new rituals: Valuing AI's digital footprint
 
 Beyond formal documentation and runbook entries, AI-assisted development generates other types of valuable data:
 
-* **AI Chat Logs:** These conversations are rich with context, showing the iterative process of problem-solving, the exploration of different approaches, and the rationale behind final decisions. The `save_and_upload_chat_log` tool in `mcp-playbook` treats these logs as first-class citizens, ensuring they are archived and accessible. They become an invaluable resource for understanding past work, onboarding new team members, or revisiting complex decisions.
-* **Prompts:** Effective prompts are the key to unlocking an LLM's potential. They are, in essence, codified instructions and context. The `sync_prompt` tool allows us to capture, share, and version these prompts, turning them into reusable assets for the entire team. This accelerates learning and consistency in how we leverage AI.
+- **AI chat logs:** These conversations are rich with context, showing the iterative process of problem-solving, the exploration of different approaches, and the rationale behind final decisions. The `save_and_upload_chat_log` tool in `mcp-playbook` treats these logs as first-class citizens, ensuring they are archived and accessible. They become an invaluable resource for understanding past work, onboarding new team members, or revisiting complex decisions.
+- **Prompts:** Effective prompts are the key to unlocking an LLM's potential. They are, in essence, codified instructions and context. The `sync_prompt` tool allows us to capture, share, and version these prompts, turning them into reusable assets for the entire team. This accelerates learning and consistency in how we leverage AI.
 
 The `mcp-playbook` thus helps establish new "data patterns" and "digital rituals" around these AI-generated assets, recognizing their intrinsic value in our knowledge ecosystem.
 
@@ -66,13 +66,13 @@ The `mcp-playbook`, the `runbook`, and the practices for managing AI chat logs a
 
 By reducing the friction of knowledge capture and sharing, we aim to:
 
-* **Speed up learning and onboarding.**
-* **Improve decisions by making relevant information easy to find.**
-* **Preserve institutional memory, especially tacit knowledge made explicit through AI interactions.**
-* **Foster a culture of proactive documentation and collaborative improvement.**
+- **Speed up learning and onboarding.**
+- **Improve decisions by making relevant information easy to find.**
+- **Preserve institutional memory, especially tacit knowledge made explicit through AI interactions.**
+- **Foster a culture of proactive documentation and collaborative improvement.**
 
 The journey is ongoing, but the `mcp-playbook` has been a critical enabler, demonstrating the power of thoughtful automation in not just managing, but actively enhancing how we share and grow our collective knowledge.
 
 ---
 
-* Next: [MCP playbook data flow](data-flow.md)
+- Next: [MCP playbook data flow](data-flow.md)

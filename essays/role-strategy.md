@@ -30,7 +30,7 @@ Traditional consulting firms chase deals. We build credibility first, then oppor
 This requires a different kind of team - one that can:
 
 - **Generate authentic thought leadership** through real research and experimentation
-- **Convert technical expertise into business opportunities** using inefficiency arbitrage  
+- **Convert technical expertise into business opportunities** using inefficiency arbitrage
 - **Deliver at the highest technical standards** while maintaining research velocity
 
 ![](assets/role-strategy.png)
@@ -48,7 +48,7 @@ Each cycle strengthens the next:
 - **Community labs** generate research insights and expand our capacity
 - **Growth lead** builds technical credibility that attracts the right opportunities
 - **Business dev** converts this credibility into partnerships and strategic relationships
-- **Sales manager** closes deals faster because of our reputation  
+- **Sales manager** closes deals faster because of our reputation
 - **Software engineers** deliver solutions that showcase our technical depth
 - **Platform engineers** enable both internal tools and client infrastructure
 - **Comic artist** makes technical concepts memorable, amplifying our content reach
@@ -78,7 +78,7 @@ Business dev systematically spots market gaps. Software engineers deliver soluti
 ### Cultural alignment indicators
 
 - **Excited about AI/emerging tech**: Everyone needs understanding of our focus areas
-- **Evidence of knowledge sharing**: Research-first culture requires contributors, not just consumers  
+- **Evidence of knowledge sharing**: Research-first culture requires contributors, not just consumers
 - **Long-term thinking**: We're building brand credibility, not churning projects
 - **Can explain complex concepts simply**: If you can't teach it, you don't really understand it
 - **Attracted to our research approach**: Cultural alignment prevents friction

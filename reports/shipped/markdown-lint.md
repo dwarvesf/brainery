@@ -34,7 +34,7 @@ Initially, relying on contributors to follow conventions might seem sufficient. 
 We developed a modular linting engine that dynamically loads rule modules from `scripts/formatter/rules/`. Each rule is implemented as a TypeScript file following a standardized interface: it analyzes files, reports violations, and optionally provides automated fixes. Our current rule set includes:
 
 - **Frontmatter validation**: Guarantees every note contains required fields (`title`, `description`, `date`), proper YAML structure, and canonical field ordering.
-- **No H1 headings**: Prohibits the use of `#` level headings in content, ensuring titles are consistently sourced from frontmatter.
+- **No h1 headings**: Prohibits the use of `#` level headings in content, ensuring titles are consistently sourced from frontmatter.
 - **Relative link existence**: Verifies that all relative links within content point to valid, existing files.
 - **Prettier formatting**: Applies Prettier across the entire file, leveraging project-specific configuration when available.
 - **Sentence case via LLM**: Utilizes OpenRouter (GPT-4) to convert headings, titles, and key phrases to sentence case while intelligently preserving proper nouns and acronyms.

@@ -28,7 +28,7 @@ Our hybrid monitoring strategy delivers significant operational advantages by ad
 
 ![memo-monitoring](assets/memo-monitoring.webp)
 
-### Proactive health audits: Synthetic monitoring
+### Proactive health audits: synthetic monitoring
 
 Our synthetic monitoring platform operates on a fixed schedule, executing a series of checks against our core data assets and business logic. It serves as our early warning system, providing a regular pulse on the health of the entire **memo.d.foundation** system and catching issues before they escalate.
 
@@ -61,7 +61,7 @@ This daily audit, running via a `cron` schedule in **GitHub Actions**, tracks ke
 
 - **Minting pipeline health**: Monitors success rates, queue depth, and pending content.
 - **Collection activity**: Analyzes total collection events, revenue, and unique collectors.
-- **Author and content Trends**: Identifies top contributors and popular content tags.
+- **Author and content trends**: Identifies top contributors and popular content tags.
 
 #### Data vault integrity (`monitor-vault-parquet.ts`)
 
@@ -96,7 +96,7 @@ const healthStatus = hasCritical ? '🔴 Critical' : hasWarnings ? '🟡 Warning
 
 This provides **actionable insights** by immediately flagging which specific metrics have crossed their warning or critical thresholds, enabling focused remediation.
 
-### Real-time event notifications: Instrumental monitoring
+### Real-time event notifications: instrumental monitoring
 
 Where synthetic monitoring is proactive, our instrumental monitoring is reactive. It operates across several integration layers to provide immediate notifications based on specific system events.
 
@@ -200,7 +200,7 @@ We built our monitoring system with security and responsible data handling as co
 
 We track a set of key performance indicators to measure the effectiveness of our monitoring infrastructure:
 
-- **Monitoring with Uptime**: Targeting 99.9% uptime for all monitoring services, ensuring continuous visibility.
+- **Monitoring with uptime**: Targeting 99.9% uptime for all monitoring services, ensuring continuous visibility.
 - **Alert latency**: Average delivery time for critical alerts is under 2 minutes.
 - **Data freshness**: Reports leverage data that is never more than 6 hours old.
 - **Query performance**: Complex analytical reports complete in under 30 seconds.

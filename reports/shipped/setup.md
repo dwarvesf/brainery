@@ -35,7 +35,7 @@ The `mcp-playbook` server enhances your AI-assisted development workflow by prov
 - **GitHub account:** You'll need a GitHub account to create a Personal Access Token.
 - **MCP client:** An application that can use MCP servers, such as Claude Desktop, Cursor, or a compatible LLM environment.
 
-## Step 1: Create a GitHub personal access token (PAT)
+## Step 1: create a GitHub personal access token (PAT)
 
 The `mcp-playbook` server interacts with GitHub repositories (like `dwarvesf/prompt-log`, `dwarvesf/prompt-db`, and `dwarvesf/runbook`) and potentially GitHub Packages. For these interactions, you need a Personal Access Token (PAT) with appropriate permissions.
 
@@ -66,7 +66,7 @@ The `mcp-playbook` server interacts with GitHub repositories (like `dwarvesf/pro
 
   ![Generated PAT token](assets/generated-pat-token.png)
 
-## Step 2: Configure your MCP client
+## Step 2: configure your MCP client
 
 The final step is to tell your MCP client (e.g., Claude Desktop, Cursor) how to run the `mcp-playbook` server. The server will be run using `npx`, using the PAT for GitHub authentication.
 
@@ -76,23 +76,23 @@ This varies by application. For example, in Claude Desktop, you might find a JSO
 
 **Add the `mcp-playbook` server configuration:**
 
-  You'll need to add a JSON object similar to the following. Replace `your_github_token_here` with the actual PAT you generated in Step 1.
+You'll need to add a JSON object similar to the following. Replace `your_github_token_here` with the actual PAT you generated in Step 1.
 
-  ```json
-  {
-    "mcpServers": {
-      "mcp-playbook": {
-        "command": "npx",
-        "args": ["-y", "@dwarvesf/mcp-playbook@latest"],
-        "env": {
-          "GITHUB_PERSONAL_ACCESS_TOKEN": "your_github_token_here"
-        }
+```json
+{
+  "mcpServers": {
+    "mcp-playbook": {
+      "command": "npx",
+      "args": ["-y", "@dwarvesf/mcp-playbook@latest"],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "your_github_token_here"
       }
     }
   }
-  ```
+}
+```
 
-  **Explanation of parameters:**
+**Explanation of parameters:**
 
 - `"command": "npx"`: Tells the client to use `npx` to run the package.
 - `"args"`:
@@ -113,11 +113,11 @@ Add this to your client's global prompts or rules for when `mcp-playbook` should
 
 ![MCP Client](assets/mcp-client.png)
 
-## Step 3: Test the setup
+## Step 3: test the setup
 
 1. **Restart your MCP client** to ensure it picks up the new configuration.
 2. **Attempt to use an `mcp-playbook` tool.** A simple test is to ask your AI assistant to run the `init_playbook` tool.
-    For example: \"MCP Playbook, initialize yourself.\" or trigger a tool call for `init_playbook` directly.
+   For example: \"MCP Playbook, initialize yourself.\" or trigger a tool call for `init_playbook` directly.
 
 If the setup is correct, the MCP client should execute the `npx` command, and the `mcp-playbook` server should start and respond. You should see output in your MCP client\'s logs or the AI\'s response indicating the `init_playbook` instruction.
 
