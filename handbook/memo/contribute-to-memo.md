@@ -227,7 +227,7 @@ A fellow with a blog could use either door, and the choice decides where the pos
 
 ### You have a blog
 
-Use the guest writer flow. The fellow program page's own "Write as a Fellow" button leads to `memo.d.foundation/writers/join`. Tell your agent to read `memo.d.foundation/skill.md` and get you onto Dwarves Memo, or fill in the form on the join page. Chapter 5 walks the flow.
+Use the guest writer flow. The fellow program page's own "Write as a Fellow" button leads to [memo.d.foundation/writers/join](https://memo.d.foundation/writers/join). Tell your agent to read [memo.d.foundation/skill.md](https://memo.d.foundation/skill.md?plain=1) and get you onto Dwarves Memo, or fill in the form on the join page. Chapter 5 walks the flow.
 
 Two points apply to fellows. If you already have a contributor handle from earlier posts, ask the editors at team@d.foundation to link your domain to it. The `dwarves.json` file you publish has an optional `native` field for that link, and memo treats it as a proposal that an admin confirms. After the link, your page is the member page, and the old contributor URL redirects there. Posts that arrive through the guest flow follow the guest reward rule in chapter 5.
 
@@ -275,7 +275,7 @@ You own a blog domain, and your post lives on your own site first. After approva
 
 ### Join
 
-Two routes lead to the same request. Tell your agent to read `memo.d.foundation/skill.md`, or fill in the form on `memo.d.foundation/writers/join`. The form emails you the verification code and the setup steps. Your agent shows them in the chat instead.
+Two routes lead to the same request. Tell your agent to read [memo.d.foundation/skill.md](https://memo.d.foundation/skill.md?plain=1), or fill in the form on [memo.d.foundation/writers/join](https://memo.d.foundation/writers/join). The form emails you the verification code and the setup steps. Your agent shows them in the chat instead.
 
 ![](../../reports/shipped/assets/memo-guest-writers-shot-join.png)
 
@@ -334,7 +334,7 @@ Your site probably does more than memo carries over. The table lists the common 
 | `<img>` inside `figure.fig`    | Dropped silently                           | Draw it as inline SVG, or place the image in a plain paragraph |
 | `<svg>` outside `figure.fig`   | Removed, with a `dropped_figures` warning  | Wrap it in `<figure class="fig">`                              |
 
-Rich figures follow their own contract at [`memo.d.foundation/figures.md`](https://memo.d.foundation/figures.md). The static figure must read fully with scripts off, and memo loads at most three same-host stylesheets whose path contains `fig`.
+Rich figures follow their own contract at [`memo.d.foundation/figures.md`](https://memo.d.foundation/figures.md?plain=1). The static figure must read fully with scripts off, and memo loads at most three same-host stylesheets whose path contains `fig`.
 
 ### Where this stands
 
@@ -344,11 +344,31 @@ The door has worked once, for the maintainer's own domain. No outside writer has
 
 Every door has a file an agent can read. You paste one sentence and the agent does the setup. A person still approves the steps that need one.
 
-| Your path                            | What to tell your agent                                                                                                                                                        | The file              |
-| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- |
-| Guest writer, or fellow with a blog  | `Fetch https://memo.d.foundation/skill.md with curl, read it whole, and get me onto Dwarves Memo.`                                                                             | `skill.md`            |
-| Member with write access             | `Fetch https://memo.d.foundation/contribute-skill.md with curl, read it whole, and help me publish a post on memo. I have write access to dwarvesf/brainery, use branch mode.` | `contribute-skill.md` |
-| Staff or fellow without write access | `Fetch https://memo.d.foundation/contribute-skill.md with curl, read it whole, and help me publish a post on memo. I do not have write access, use fork mode.`                 | `contribute-skill.md` |
+| Your path                            | Agent skill                                                                                    | Mode   |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------- | ------ |
+| Guest writer, or fellow with a blog  | [memo.d.foundation/skill.md](https://memo.d.foundation/skill.md?plain=1)                       | Join   |
+| Member with write access             | [memo.d.foundation/contribute-skill.md](https://memo.d.foundation/contribute-skill.md?plain=1) | Branch |
+| Staff or fellow without write access | [memo.d.foundation/contribute-skill.md](https://memo.d.foundation/contribute-skill.md?plain=1) | Fork   |
+
+Paste the prompt for your path into Claude Code, Codex, Cursor or any agent that can run shell commands.
+
+**Guest writer, or fellow with a blog**
+
+```text
+Fetch https://memo.d.foundation/skill.md with curl, read it whole, and get me onto Dwarves Memo.
+```
+
+**Member with write access**
+
+```text
+Fetch https://memo.d.foundation/contribute-skill.md with curl, read it whole, and help me publish a post on memo. I have write access to dwarvesf/brainery, use branch mode.
+```
+
+**Staff or fellow without write access**
+
+```text
+Fetch https://memo.d.foundation/contribute-skill.md with curl, read it whole, and help me publish a post on memo. I do not have write access, use fork mode.
+```
 
 Ask for `curl` by name. Some assistants summarise a page they fetch, and a summary drops the exact commands. In a test run, an agent that read a summary took its commit message from the wrong file.
 
@@ -389,7 +409,7 @@ _Fig. 9: A contributor page: name, avatar, linked GitHub and Discord accounts, a
 
 The page shows a name, an avatar, a bio and links when the contributor has a profile record. A handle with no profile still gets a page. It shows the handle as the name and no picture. The page shows no team, fellow or guest badge today. Guest writers get a handle that memo assigns, so they never choose a byline in frontmatter.
 
-If you are outside the Dwarves Discord and want to prove that a GitHub byline is yours, open `memo.d.foundation/claim`. You add one token to your GitHub profile README, and memo checks it. There is no account to create and no password to enter.
+If you are outside the Dwarves Discord and want to prove that a GitHub byline is yours, open [memo.d.foundation/claim](https://memo.d.foundation/claim). You add one token to your GitHub profile README, and memo checks it. There is no account to create and no password to enter.
 
 Two things live in code and have no frontmatter field. Merging two bylines into one needs a row in `dwarvesf/foundation-apps` for the redirect, and so does a request to have your Discord handle tagged when memo announces your post. The foundation-apps code keeps that directory by hand on purpose, because a wrong guess would tag the wrong person. Ask the editors, and attach the handle you want.
 
@@ -414,9 +434,8 @@ Warnings do not fail the check, but two are worth reading. A `markdown/relative-
 
 ## Pre-PR checklist
 
-Copy this block into your pull request description or your notes and tick it off.
+Run down this list before you open the pull request. The contributor skill checks the same items.
 
-```markdown
 - [ ] File lives in the folder that matches its test (taxonomy)
 - [ ] Frontmatter has title, description, date and a unique slug
 - [ ] Every tag is a quoted string, and no value has a stray second colon
@@ -428,4 +447,3 @@ Copy this block into your pull request description or your notes and tick it off
 - [ ] The pull request body is mine, and contains no `[skip ci]`
 - [ ] Fork path only: I asked a maintainer to click "Approve and run"
 - [ ] After the merge: the publish run shows my sha, and the curl check finds my phrase
-```
