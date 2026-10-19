@@ -1,6 +1,6 @@
 ---
-title: 'A graphics upgrade exposed the build-time cost'
-description: 'bievh shared a graphics upgrade for a game and noted that the updated build took ten hours'
+title: 'A graphics upgrade took ten hours to build'
+description: 'bievh shared a graphics upgrade for a game and said the work took ten hours to build'
 date: 2026-10-17
 authors:
   - baenv
@@ -9,11 +9,11 @@ slug: digest-graphics-upgrade-build-cost
 
 ## Finding
 
-bievh shared a graphics upgrade for a game and noted that the updated build took ten hours. The thread does not break down where that time went, but it turns a visual update into a concrete build-pipeline concern rather than treating it only as an art change.
+bievh shared a graphics upgrade for a game and said the work took ten hours to build. The thread does not separate implementation, asset preparation, or compilation time, so the useful receipt is the total effort rather than a diagnosis of the pipeline.
 
 ## Why it matters
 
-Long builds slow the test loop for small game updates. Recording the build time now gives the team a baseline for the next graphics pass and a reason to inspect which stage dominates it.
+A visual update can carry a meaningful delivery cost even when the change looks narrow. Breaking the next pass into implementation, asset, and compilation time would show where the team can shorten the loop.
 
 ## Sources
 
