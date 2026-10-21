@@ -125,7 +125,9 @@ _Fig. 10: the team, Fellows and guests on one page._
 - Retired pages become drafts, never deletions, and their old URLs redirect to the page that absorbed them.
 - We change a fact only when a current record proves it. Otherwise the page gets a dated snapshot banner, because an old fact marked as old beats a new one we guessed.
 
-## Known gaps (as of october 2026)
+## Known gaps
+
+As of October 2026:
 
 - The reader menu hasn't been tested on a real phone with VoiceOver.
 - Bionic and BeeLine switch on after the page loads, so plain text shows for a moment first.
