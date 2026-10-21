@@ -1,51 +1,27 @@
 ---
 title: About Dwarves memo
-description: Dwarves Memo is the learning-in-public notebook of Dwarves, built on the brainery repo and written by product craftsmen for engineers.
-date: 2026-10-18
+description: Memo is the research shelf of Dwarves Foundation, where the people who build, run and audit production systems publish dated, signed reports, essays and notes on what they found.
+date: 2026-10-21
 redirect:
   - /CyAKEw
 ---
 
-What memo is for, who it serves and how we run it: [What memo is for](/memo-handbook). The reading tools: [What memo does for readers](/memo-features).
+Memo is where Dwarves Foundation publishes what it learns from production systems. We build, run, audit and break software for clients, and memo carries the part of that record we're allowed to share: field reports, essays, case studies and playbooks, each one dated and signed by the person who did the work.
 
-## Welcome to Dwarves memo
+The writers are our team, fellows who once worked here, and guest writers who publish from their own blogs. Behind the recent work sits the learning notebook the team kept between 2022 and 2025. It still lives here, behind topic pages and search, for readers who want depth on a subject.
 
-Dwarves are a group of technology innovation advocates. This project is a part of our continuous learning engine, where we want to build up the 1% improvement habit, _learning in public_. We believe that behind every success comes great preparation, accumulation and compound every single day. This brainery repo contains our notes and studies for any upcoming challenges.
+The full account of what memo is for, who reads it and the rules we hold ourselves to is [What memo is for](/memo-handbook). Start there if you want the reasoning. Otherwise, pick the door that fits you.
 
-Written by Dwarves for product craftsmen.\
-Learned by engineers. Experimented by engineers.
+## If you came to read
 
-### Workflow
+[What memo does for readers](/memo-features) covers the reading tools, including asking a question about the page you're on and getting an answer with citations. To follow new posts, subscribe to the [RSS feed](/rss.xml). If an assistant reads for you, point it at [llms.txt](https://memo.d.foundation/llms.txt).
 
-Applying the Zettelkasten method to construct our reference neuron network, we collect learning pieces from articles, books, papers, videos and then put them here to evaluate before boarding them on our technology adoption radar. We also adopted the LYT method with an initial setup and notes from Moby Diction Publish. It sets a great standard and we find it very helpful.
+## If you want to write
 
-![](handbook/memo/assets/content-level.webp)
+[Getting your post onto memo](/contribute-to-memo) walks each path in. Staff and contractors open a pull request, people who once worked here come in as fellows, and anyone who owns a blog domain can apply as a guest writer. Every post meets the same bar: firsthand data, a verdict a peer could argue with, or an angle nobody else has. [Writers](/writers) shows who is on the shelf today. [Programs](/programs) lists what else you can join, from the Fellow program to [ICY](/programs/icy), our community token.
 
-### Contributing
+## If you're deciding whether to hire us
 
-We encourage our members to read, write, share what we learn with others, and [contributing to the Brainery](/contribute-to-memo) is an important part of our learning culture.
+Read three pages before you judge. Pick a [field report](/reports) in your domain, then a [case study](/case-studies), then [Memo, rebuilt](/memo-rebuilt), our report on the site you're reading, which names what broke. If that matches a problem you hold, [dwarves.foundation](https://dwarves.foundation) is where we talk about engagements, and [careers](/careers) is where we talk about joining.
 
-For visitors, you are welcome to read them, contribute to them, and [suggest additions](https://discord.gg/dfoundation). We maintain a monthly pool of $1500 to reward contributors who support our journey of lifelong growth in knowledge and network.
-
-### Dwarves+ protocol
-
-As we evolve into a decentralized protocol, we're building a community-governed ecosystem that rewards research, development, and knowledge sharing through tokenomics. Learn more about our transformation:
-
-- **[Tokenomics Documentation](misc/tokenomics/README.md)** - Comprehensive guide to our dual-token system
-- **[Whitepaper](misc/tokenomics/whitepaper.md)** - Vision and technical overview
-- **[FAQ](misc/tokenomics/faq.md)** - Common questions about the protocol
-
-### Love what we are doing?
-
-- Visit our [Discord learning network](https://discord.gg/dfoundation)
-- Join us, [we are also hiring](https://memo.d.foundation/careers)
-- Hire us to [build your software](https://d.foundation)
-- Check out our [products](https://superbits.co)
-
----
-
-> Next: [Site index](links.md)
-
----
-
-![](assets/home_cover.webp)
+Questions go to team@d.foundation.
