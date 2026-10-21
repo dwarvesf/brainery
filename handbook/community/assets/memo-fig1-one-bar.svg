@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 372" style="width:100%;height:auto;max-width:760px;display:block" role="img" aria-labelledby="t d">
+  <title id="t">Fig. 1: one bar for every note on memo</title>
+  <desc id="d">Notes from team members, fellows and guest writers meet one bar: firsthand data, a verdict worth disputing, or an angle nobody else has. A note that clears it goes to the lead shelf. A useful but generic note becomes depth under topic pages. An overlapping or stale note is merged or drafted and its URL redirects. Nothing is deleted.</desc>
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="#385a7b" stroke-width="1" opacity="0.35"/>
+    </pattern>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="#c3d7ea"/>
+    </marker>
+    <marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="#e8c56a"/>
+    </marker>
+  </defs>
+  <rect x="0" y="0" width="760" height="372" fill="#12395f"/>
+  <rect x="0" y="0" width="760" height="372" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="759" height="371" fill="none" stroke="#68839d" stroke-width="1"/>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <text x="20" y="24" font-size="10" letter-spacing="1.5" fill="#a7c0d9">FIG. 1 · WHAT EARNS A PAGE ON MEMO</text>
+    <text x="740" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">EVERY NOTE, ONE BAR</text>
+    <line x1="20" y1="36" x2="740" y2="36" stroke="#68839d" stroke-width="1"/>
+
+    <text x="24" y="66" font-size="10" letter-spacing="1.2" fill="#6f8fb0">WHO WRITES</text>
+    <rect x="24" y="80" width="150" height="44" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="99" y="107" font-size="12" fill="#e8f1fa" text-anchor="middle">Team</text>
+    <rect x="24" y="140" width="150" height="44" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="99" y="167" font-size="12" fill="#e8f1fa" text-anchor="middle">Fellows</text>
+    <rect x="24" y="200" width="150" height="44" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="99" y="227" font-size="12" fill="#e8f1fa" text-anchor="middle">Guest writers</text>
+
+    <line x1="176" y1="102" x2="216" y2="102" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr)"/>
+    <line x1="176" y1="162" x2="216" y2="162" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr)"/>
+    <line x1="176" y1="222" x2="216" y2="222" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr)"/>
+
+    <text x="220" y="66" font-size="10" letter-spacing="1.2" fill="#6f8fb0">THE BAR</text>
+    <rect x="220" y="78" width="220" height="170" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="236" y="102" font-size="12" fill="#e8f1fa">Would an assistant cite it</text>
+    <text x="236" y="120" font-size="12" fill="#e8f1fa">over a generic page?</text>
+    <line x1="236" y1="138" x2="424" y2="138" stroke="#68839d" stroke-width="1"/>
+    <text x="236" y="164" font-size="11" fill="#c3d7ea">+ firsthand data</text>
+    <text x="236" y="190" font-size="11" fill="#c3d7ea">+ a verdict worth disputing</text>
+    <text x="236" y="216" font-size="11" fill="#c3d7ea">+ an angle nobody else has</text>
+    <text x="236" y="238" font-size="10" fill="#6f8fb0">one of these is enough</text>
+
+    <line x1="442" y1="103" x2="516" y2="103" stroke="#e8c56a" stroke-width="2" marker-end="url(#arrA)"/>
+    <text x="479" y="96" font-size="10" fill="#e8c56a" text-anchor="middle">yes</text>
+    <line x1="442" y1="161" x2="516" y2="161" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr)"/>
+    <text x="479" y="154" font-size="10" fill="#a7c0d9" text-anchor="middle">partly</text>
+    <line x1="442" y1="219" x2="516" y2="219" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#arr)"/>
+    <text x="479" y="212" font-size="10" fill="#a7c0d9" text-anchor="middle">no</text>
+
+    <text x="520" y="66" font-size="10" letter-spacing="1.2" fill="#6f8fb0">WHERE IT LANDS</text>
+    <rect x="520" y="78" width="216" height="50" rx="4" fill="#21466a" stroke="#e8c56a" stroke-width="2"/>
+    <text x="532" y="98" font-size="13" fill="#e8c56a">Lead shelf</text>
+    <text x="532" y="117" font-size="11" fill="#c3d7ea">reports, writing, cases</text>
+    <rect x="520" y="136" width="216" height="50" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="532" y="156" font-size="13" fill="#e8f1fa">Depth</text>
+    <text x="532" y="175" font-size="11" fill="#c3d7ea">notes behind topic pages</text>
+    <rect x="520" y="194" width="216" height="50" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="532" y="214" font-size="13" fill="#e8f1fa">Merged or drafted</text>
+    <text x="532" y="233" font-size="11" fill="#c3d7ea">its old URL redirects</text>
+
+    <rect x="24" y="284" width="712" height="64" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="40" y="310" font-size="11" fill="#e8f1fa">Nothing is deleted. A retired page becomes a draft and its URL redirects.</text>
+    <text x="40" y="332" font-size="11" fill="#a7c0d9">A fact we cannot re-prove keeps its old value under a dated snapshot line.</text>
+  </g>
+</svg>
