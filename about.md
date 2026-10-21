@@ -6,6 +6,8 @@ redirect:
   - /CyAKEw
 ---
 
+What memo is for, who it serves and how we run it: [What memo is for](/memo-handbook). The reading tools: [What memo does for readers](/memo-features).
+
 ## Welcome to Dwarves memo
 
 Dwarves are a group of technology innovation advocates. This project is a part of our continuous learning engine, where we want to build up the 1% improvement habit, _learning in public_. We believe that behind every success comes great preparation, accumulation and compound every single day. This brainery repo contains our notes and studies for any upcoming challenges.
