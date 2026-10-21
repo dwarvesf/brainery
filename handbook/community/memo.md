@@ -1,5 +1,5 @@
 ---
-title: "Memo, the part of our work record we can publish"
+title: "What memo is for"
 short_title: Memo
 description: "What memo.d.foundation is for, who reads it, what each kind of post does, who writes it, and the rules that keep an old vault honest: merge, draft instead of delete, redirect, and mark old facts as old."
 date: 2021-03-21
