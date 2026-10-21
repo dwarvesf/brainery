@@ -189,4 +189,4 @@ Decision 0043 names the condition: the embed index at least as good as the topic
 
 Until a rerun clears the bar, a table a person maintains keeps answering chat, and the index built to retire it picks Ask's related notes on every deploy.
 
-For the rest of memo's stack, from the vault to the Workers that serve it, see [Memo, rebuilt](memo-rebuilt.md).
+For the rest of memo's stack, from the vault to the Workers that serve it, see [Memo, rebuilt](../shipped/memo-rebuilt.md).
