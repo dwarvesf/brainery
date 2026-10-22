@@ -49,7 +49,7 @@ _Fig. 2: "The Orchestration Tax", mượn chữ của Addy Osmani. Hình minh h�
 
 Có một bài của Addy Osmani cho vấn đề này là "The Orchestration Tax". Nghe hơi fancy, mà khá đúng với cảm giác của mình dạo này. Khi giao nhiều việc hơn cho model, thời gian viết code giảm đi; đổi lại, mình tốn công hơn ở chỗ giữ context, đọc output, kiểm tra logic, và quyết định có nên dùng kết quả AI đưa ra.
 
-Đúng là mình code ít hơn thiệt, và nghĩ nhiều hơn ở phần problem framing. Người ta có thể gọi đó là "engineer as orchestrator", mình vẫn thấy từ này hơi buzzword, mà harness engineering nghe còn buzz hơn *omegalul*. Bỏ lớp chữ nghĩa đó ra, việc hằng ngày của mình thật ra khá đơn giản: biết task nào giao được, cần đưa thông tin gì vào, đoạn nào để tool tự xử, đoạn nào mình phải tự quyết. Muốn làm vậy vẫn phải hiểu code, requirement, và có testcase hoặc một cách kiểm chứng rõ ràng hơn.
+Đúng là mình code ít hơn thiệt, và nghĩ nhiều hơn ở phần problem framing. Người ta có thể gọi đó là "engineer as orchestrator", mình vẫn thấy từ này hơi buzzword, mà harness engineering nghe còn buzz hơn _omegalul_. Bỏ lớp chữ nghĩa đó ra, việc hằng ngày của mình thật ra khá đơn giản: biết task nào giao được, cần đưa thông tin gì vào, đoạn nào để tool tự xử, đoạn nào mình phải tự quyết. Muốn làm vậy vẫn phải hiểu code, requirement, và có testcase hoặc một cách kiểm chứng rõ ràng hơn.
 
 ## Ba điều Tuấn rút ra
 

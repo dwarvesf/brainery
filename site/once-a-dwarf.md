@@ -1,6 +1,7 @@
 ---
-title: "Once a Dwarf"
-description: "Notes from people who were here. Field notes from people who passed through Dwarves and people who are still here, in their own words."
+title: "Once a Dwarf: notes from people who were here"
+short_title: "Once a Dwarf"
+description: "Field notes from people who passed through Dwarves and people who are still here, in their own words. The series index and about page."
 date: 2026-10-22
 slug: once-a-dwarf
 kind: reference
