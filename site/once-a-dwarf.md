@@ -31,7 +31,7 @@ Người đi đã lâu hay người còn ở lại, với chúng tôi cũng vậ
 
 Series chia thành nhiều phần, mỗi phần xoay quanh một chủ đề. Phần nào cũng cùng một tinh thần: đây là góc nhìn riêng của một người, ở một thời điểm, chứ không phải câu trả lời chung cho tất cả.
 
-### AI in Their Words
+### AI in their words
 
 Người Dwarves kể về việc AI đã thay đổi cách họ làm việc ra sao, đâu là điều có thật và đâu chỉ là tiếng ồn.
 
@@ -45,7 +45,7 @@ Nếu bạn từng là người Dwarves và có một câu chuyện muốn kể,
 
 Những câu chuyện về người Dwarves từ trước đó nằm trong [Life at Dwarves](../careers/life.md).
 
-## In English
+## In english
 
 Some people passed through Dwarves and went on to roads of their own. Others are still here, sitting beside us every day. This series is where we sit down with them, pour a cup of tea, and listen: where they've gone, what they're working on, and how they see this craft now, while everything keeps shifting underfoot.
 
@@ -63,7 +63,7 @@ This isn't the company's official voice, and it certainly isn't sweeping predict
 
 The series comes in parts, each built around a theme. They all share one spirit: this is one person's own view, at one moment in time, not a single answer meant for everyone.
 
-#### AI in Their Words
+#### AI in their words
 
 People at Dwarves on how AI has changed the way they work, what's real and what's just noise.
 
