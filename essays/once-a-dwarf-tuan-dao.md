@@ -5,8 +5,8 @@ description: "Tuấn Đào kể cách anh dùng AI để code: từ pair program
 date: 2026-10-22
 slug: once-a-dwarf-tuan-dao
 kind: essay
-authors: []
-credit: Tuấn Đào
+authors:
+  - tuanddd
 series: once-a-dwarf
 series_part: 1
 tags:
