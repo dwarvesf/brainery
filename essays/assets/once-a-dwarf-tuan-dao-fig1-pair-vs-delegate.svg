@@ -1,23 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" role="img" aria-label="Hai cách làm việc với AI: pair programming chia việc 60/30/10, delegate giao gần hết rồi đánh giá" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" role="img" aria-label="Two ways to work with AI: pair programming splits a task 60/30/10, delegating hands over almost all of it and judges the result" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
   <rect width="760" height="250" fill="#12395f"/>
   <rect x="1" y="1" width="758" height="248" fill="none" stroke="#68839d"/>
   <text x="20" y="24" font-size="10" letter-spacing="1.5" fill="#e8f1fa">FIG. 1 · PAIR VS DELEGATE</text>
-  <text x="740" y="24" font-size="10" letter-spacing="1.5" fill="#a7c0d9" text-anchor="end">CÁCH GIAO VIỆC CHO AI</text>
+  <text x="740" y="24" font-size="10" letter-spacing="1.5" fill="#a7c0d9" text-anchor="end">HANDING WORK TO AI</text>
   <line x1="0" y1="36" x2="760" y2="36" stroke="#68839d"/>
 
-  <text x="40" y="66" font-size="13" fill="#a7c0d9">Hồi đầu: pair programming</text>
-  <text x="40" y="92" font-size="13" fill="#e8f1fa">Mình giao task</text>
+  <text x="40" y="66" font-size="13" fill="#a7c0d9">Early on: pair programming</text>
+  <text x="40" y="92" font-size="13" fill="#e8f1fa">I hand over a task</text>
   <rect x="40" y="104" width="408" height="32" fill="#21466a" stroke="#68839d"/>
   <text x="244" y="125" font-size="13" fill="#e8f1fa" text-anchor="middle">AI 60%</text>
   <rect x="448" y="104" width="204" height="32" fill="none" stroke="#68839d"/>
-  <text x="550" y="125" font-size="13" fill="#e8f1fa" text-anchor="middle">mình 30%</text>
+  <text x="550" y="125" font-size="13" fill="#e8f1fa" text-anchor="middle">me 30%</text>
   <rect x="652" y="104" width="68" height="32" fill="none" stroke="#68839d"/>
   <text x="686" y="125" font-size="13" fill="#e8f1fa" text-anchor="middle">10%</text>
-  <text x="40" y="158" font-size="12" fill="#c3d7ea">context switching liên tục</text>
+  <text x="40" y="158" font-size="12" fill="#c3d7ea">constant context switching</text>
 
   <line x1="40" y1="176" x2="720" y2="176" stroke="#385a7b" stroke-opacity="0.6"/>
 
-  <text x="40" y="200" font-size="13" fill="#a7c0d9">Gần đây: delegate</text>
+  <text x="40" y="200" font-size="13" fill="#a7c0d9">Lately: delegate</text>
   <rect x="40" y="210" width="680" height="28" fill="#21466a" stroke="#e8c56a" stroke-width="2"/>
-  <text x="380" y="229" font-size="13" fill="#e8f1fa" text-anchor="middle">AI làm gần hết · mình đánh giá kết quả</text>
+  <text x="380" y="229" font-size="13" fill="#e8f1fa" text-anchor="middle">AI does almost all of it · I judge the result</text>
 </svg>

@@ -1,74 +1,114 @@
 ---
 title: "Once a Dwarf: notes from people who were here"
 short_title: "Once a Dwarf"
-description: "Field notes from people who passed through Dwarves and people who are still here, in their own words. The series index and about page."
+description: "Once a Dwarf is a series of first-person notes from people who passed through Dwarves and people still here: what they saw and how they work now, in their own words."
 date: 2026-10-22
 slug: once-a-dwarf
 kind: reference
+announce: false
 authors:
   - tieubao
 tags:
   - once-a-dwarf
   - culture
   - career
+redirect:
+  - /careers/life/2020-05-08-0-thanh-pham
+  - /cizjrg
+  - /careers/life/2021-03-11-0-phat-nguyen
+  - /bD3jhg
+  - /careers/life/2022-02-14-1-thanh-pham
+  - /CuLI8A
+  - /careers/life/2022-08-03-5-nam-nguyen
+  - /nTzALA
+  - /careers/life/2022-08-04-6-duy-nguyen
+  - /uIoCVA
+  - /careers/life/2022-08-11-6-hieu-vu
+  - /ajbkrQ
+  - /careers/life/2022-09-21-7-my-anh
+  - /DeTA1Q
+  - /careers/life/2023-06-30-7-khac-vy
+  - /i6x4vw
+  - /careers/life/2023-07-24-8-nhut-huynh
+  - /8FdYwQ
+  - /careers/life/2023-08-07-9-hoang-anh
+  - /OUsuhQ
+  - /careers/life/2023-08-17-10-cuong-mai
+  - /OkjxDQ
+  - /careers/life/2023-09-05-11-dinh-nam
+  - /k8ctQA
+  - /careers/life/2023-09-18-12-toan-ho
+  - /zSubGA
+  - /careers/life/2023-09-29-13-bien-vo
+  - /VpwdmQ
+  - /careers/life/2023-10-02-14-dat-pham
+  - /2jpjmg
+  - /careers/life/2023-10-13-17-hoang-nguyen
+  - /dnH7YQ
+  - /careers/life/2023-10-30-18-tuan-tran
+  - /FEf8xQ
+  - /careers/life/2023-11-03-19-vi-tran
+  - /lcNMxQ
+  - /careers/life/2023-11-13-20-hoai-khang
+  - /ZBZ9QQ
+  - /careers/life/2023-11-20-21-minh-cloud
+  - /9ljTOA
+  - /careers/life/2023-11-27-22-cat-nguyen
+  - /DtqT4s
+  - /careers/life/2023-12-12-23-hieu-nghia
+  - /mhUMeA
+  - /careers/life/2023-12-13-24-tai-pham
+  - /YAZjpA
+  - /careers/life/2024-01-03-25-khoi-nguyen
+  - /BHodKA
+  - /careers/life/2024-01-15-26-quoc-tuan
+  - /BZLMWQ
+  - /careers/life/2024-01-22-27-tri-tran
+  - /CLTlQg
+  - /careers/life/2024-02-19-28-duyen-tran
+  - /wXdZqw
+  - /careers/life/2024-09-26-29-dat-nguyen
+  - /Wt2blA
 ---
 
-**Notes from people who were here.**
+Once a Dwarf collects notes from people who were here. Some passed through Dwarves and went their own way. Some still sit next to us every day. We draw no line between the two: once a Dwarf, always a Dwarf.
 
-Có những người từng đi qua Dwarves, rồi rẽ sang những ngả đường riêng. Cũng có những người đến giờ vẫn ở lại, ngồi cạnh nhau mỗi ngày. Series này là nơi chúng tôi ngồi lại với họ, pha một ấm trà, và nghe họ kể chuyện: họ đã đi đến đâu, đang làm gì, và nhìn cái nghề này thế nào giữa lúc mọi thứ đang đổi thay từng ngày.
+Each piece is one person telling where they went, what they work on now, and how they see the craft while it keeps shifting. It is their view at one moment. It does not speak for Dwarves, and it makes no forecast.
 
-Người đi đã lâu hay người còn ở lại, với chúng tôi cũng vậy thôi. Một khi đã là người Dwarves thì mãi là người Dwarves. Nên ở đây không có ranh giới nào giữa họ, chỉ có những con người và những câu chuyện, kể bằng chính giọng của mình.
+**Who it is for**
 
-## Đây là gì
+People who passed through Dwarves and people who are still here, and anyone who wants to hear how they work today.
 
-Đây là những trang ghi chép, không phải bài phân tích. Chúng tôi cố giữ lại nguyên vẹn điều mà người trong cuộc thật sự thấy và thật sự nghĩ, kể cả những điều họ còn đang dò dẫm, còn chưa gọi được thành tên. Chúng tôi không nắn chúng thành những bài học to tát, cũng không mài đi những chỗ gồ ghề. Bởi đôi khi, chính những chỗ gồ ghề ấy mới là phần thật nhất.
+**What a piece looks like**
 
-## Đây không phải gì
+- One person, in first person. We edit for length and clarity and keep their voice, slang included.
+- It opens with their short answer, then a few sections, each on one thing they saw.
+- The lessons at the end come from their own words. We add none.
+- A diagram goes in only where it helps you read faster.
+- The person reads the edited text before it goes up.
 
-Đây không phải tiếng nói chính thức của công ty, càng không phải những lời tiên đoán lớn lao về tương lai. Xin đừng đọc chúng như một lập trường đã được chốt lại, hay một câu trả lời cuối cùng. Hãy đọc thong thả, như khi bạn ngồi nghe một người trong nghề tâm sự: thành thật, và còn nguyên những chỗ chưa kịp gọt giũa.
+## The parts
 
-## Các phần
+The series runs in parts, one theme each.
 
-Series chia thành nhiều phần, mỗi phần xoay quanh một chủ đề. Phần nào cũng cùng một tinh thần: đây là góc nhìn riêng của một người, ở một thời điểm, chứ không phải câu trả lời chung cho tất cả.
+**AI in their words.** People at Dwarves on how AI changed the way they work, and what is real versus noise.
 
-### AI in their words
+- No. 01, Tuan Dao: [I code less now, but it isn't any easier](../essays/once-a-dwarf-tuan-dao.md)
 
-Người Dwarves kể về việc AI đã thay đổi cách họ làm việc ra sao, đâu là điều có thật và đâu chỉ là tiếng ồn.
+More parts will follow, on other technologies and the quieter things that shape the craft.
 
-- [No. 01: Tuấn Đào, "Mình code ít hơn, nhưng không có nghĩa là nhàn hơn"](../essays/once-a-dwarf-tuan-dao.md)
+## Take part
 
-### Sắp tới
+If you were once a Dwarf, or still are, and you have a story, tell anyone on the team you already talk to. We will get in touch, listen, and write it down with you.
 
-Sẽ còn những phần khác, về các công nghệ và những điều đang lặng lẽ định hình nghề này.
+## Life at Dwarves, 2020 to 2024
 
-Nếu bạn từng là người Dwarves và có một câu chuyện muốn kể, chúng tôi luôn sẵn lòng lắng nghe.
+Before Once a Dwarf, the team ran Life at Dwarves: short interviews with people at Dwarves, written up in English by the ops team. Seven of them stay up here as they were first published. Each one is dated, and roles and plans in it are as of that year.
 
-Những câu chuyện về người Dwarves từ trước đó nằm trong [Life at Dwarves](../careers/life.md).
-
-## In english
-
-Some people passed through Dwarves and went on to roads of their own. Others are still here, sitting beside us every day. This series is where we sit down with them, pour a cup of tea, and listen: where they've gone, what they're working on, and how they see this craft now, while everything keeps shifting underfoot.
-
-Whether someone left long ago or is still around, it's all the same to us. Once a Dwarf, always a Dwarf. So there's no line drawn between them here, only people and their stories, told in their own voice.
-
-### What this is
-
-These are field notes, not analysis. We try to keep, intact, what the people in them actually saw and actually thought, including the parts they're still feeling their way through, still can't quite name. We don't shape it into grand lessons, and we don't sand off the rough edges, because sometimes the rough edges are the truest part.
-
-### What this isn't
-
-This isn't the company's official voice, and it certainly isn't sweeping predictions about the future. Please don't read these as a settled position, or a final word. Read them slowly, the way you'd listen to someone in the trade open up: honest, and still carrying the parts no one got around to polishing.
-
-### The parts
-
-The series comes in parts, each built around a theme. They all share one spirit: this is one person's own view, at one moment in time, not a single answer meant for everyone.
-
-#### AI in their words
-
-People at Dwarves on how AI has changed the way they work, what's real and what's just noise.
-
-#### More to come
-
-Other parts will follow, on the technologies and the quieter things shaping this craft.
-
-If you were once a Dwarf and have a story to share, we'd love to hear it.
+- #1, Huy Nguyen, 2020: [software engineering values](../careers/life/2020-04-10-0-huy-nguyen.md)
+- #4, Tuan Dao, 2021: [learning from mistakes](../careers/life/2021-03-31-0-tuan-dao.md)
+- #6, Anh Tran, 2022: [UI design journey](../careers/life/2022-02-25-2-anh-tran.md)
+- #7, Tom Nguyen, 2022: [remote working](../careers/life/2022-03-17-3-tom-nguyen.md)
+- #8, An Tran, 2022: [senior engineering](../careers/life/2022-07-22-4-an-tran.md)
+- #21, Khoi Ngo, 2023: [mentorship culture](../careers/life/2023-10-09-15-khoi-ngo.md)
+- #23, Le Kim Ngan, 2023: [QA standards](../careers/life/2023-10-16-16-kim-ngan.md)

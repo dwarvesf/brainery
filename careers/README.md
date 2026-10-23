@@ -47,62 +47,6 @@ redirect:
   - /nLLmvg
   - /careers/archived/android-developer
   - /BfJdEg
-  - /careers/life/2020-05-08-0-thanh-pham
-  - /cizjrg
-  - /careers/life/2021-03-11-0-phat-nguyen
-  - /bD3jhg
-  - /careers/life/2022-02-14-1-thanh-pham
-  - /CuLI8A
-  - /careers/life/2022-08-03-5-nam-nguyen
-  - /nTzALA
-  - /careers/life/2022-08-04-6-duy-nguyen
-  - /uIoCVA
-  - /careers/life/2022-08-11-6-hieu-vu
-  - /ajbkrQ
-  - /careers/life/2022-09-21-7-my-anh
-  - /DeTA1Q
-  - /careers/life/2023-06-30-7-khac-vy
-  - /i6x4vw
-  - /careers/life/2023-07-24-8-nhut-huynh
-  - /8FdYwQ
-  - /careers/life/2023-08-07-9-hoang-anh
-  - /OUsuhQ
-  - /careers/life/2023-08-17-10-cuong-mai
-  - /OkjxDQ
-  - /careers/life/2023-09-05-11-dinh-nam
-  - /k8ctQA
-  - /careers/life/2023-09-18-12-toan-ho
-  - /zSubGA
-  - /careers/life/2023-09-29-13-bien-vo
-  - /VpwdmQ
-  - /careers/life/2023-10-02-14-dat-pham
-  - /2jpjmg
-  - /careers/life/2023-10-13-17-hoang-nguyen
-  - /dnH7YQ
-  - /careers/life/2023-10-30-18-tuan-tran
-  - /FEf8xQ
-  - /careers/life/2023-11-03-19-vi-tran
-  - /lcNMxQ
-  - /careers/life/2023-11-13-20-hoai-khang
-  - /ZBZ9QQ
-  - /careers/life/2023-11-20-21-minh-cloud
-  - /9ljTOA
-  - /careers/life/2023-11-27-22-cat-nguyen
-  - /DtqT4s
-  - /careers/life/2023-12-12-23-hieu-nghia
-  - /mhUMeA
-  - /careers/life/2023-12-13-24-tai-pham
-  - /YAZjpA
-  - /careers/life/2024-01-03-25-khoi-nguyen
-  - /BHodKA
-  - /careers/life/2024-01-15-26-quoc-tuan
-  - /BZLMWQ
-  - /careers/life/2024-01-22-27-tri-tran
-  - /CLTlQg
-  - /careers/life/2024-02-19-28-duyen-tran
-  - /wXdZqw
-  - /careers/life/2024-09-26-29-dat-nguyen
-  - /Wt2blA
   - /careers/life/group/2023-06-01-software-design-group
   - /pnkfeA
   - /careers/life/group/2023-06-02-learning-group-report
@@ -193,7 +137,7 @@ Our days are filled with meaningful work that echoes through the tech world. Her
 
 **Knowledge shared freely**. We're deep into Blockchain, AI, and more. Join the chat on [Discord](https://discord.gg/dfoundation) or explore [Brainery](https://memo.d.foundation).
 
-**Roots in the community**. We power [Golang Vietnam](https://golang.org.vn), [WeBuild](https://webuild.community) and projects like [Techie Story](https://techiestory.net).
+**Roots in the community**. We power [Golang Vietnam](https://golang.org.vn), [WeBuild](https://webuild.community) and projects like [Techie Story](https://web.archive.org/web/20240228104256/https://techiestory.net/) (archived).
 
 Want the full story? Our [handbook](https://github.com/dwarvesf/handbook/) and [playbook](https://github.com/dwarvesf/playbook) lay out how we work and why it matters.
 
@@ -219,7 +163,7 @@ Here's what some Dwarves say about life in our hall:
 - "Challenges are chances to level up. This place thrives on that."
   - **Minh Luu**, Full-stack engineer ([LinkedIn](https://www.linkedin.com/in/minhluuquang/))
 
-Curious about the journey? Check out stories from [Huy Tieu](https://techiestory.net/post/23-huy-tieu), [An Tran](https://memo.d.foundation/careers/life/life-at-dwarves-with-an-tran/), and [Ngoc Thanh](apprentice/2022/batch-of-2022.md#thanh-pham-blockchain).
+Curious about the journey? Check out stories from [Huy Tieu](https://web.archive.org/web/20230331115205/https://techiestory.net/post/23-huy-tieu) (archived), [An Tran](https://memo.d.foundation/once/an-tran/senior-engineering), and [Ngoc Thanh](apprentice/2022/batch-of-2022.md#thanh-pham-blockchain).
 
 ## How to step into the hall
 
