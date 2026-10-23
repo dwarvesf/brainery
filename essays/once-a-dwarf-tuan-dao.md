@@ -20,6 +20,7 @@ tags:
   - career
 redirect:
   - /once-a-dwarf/tuan-dao
+  - /once/tuan-dao
 ---
 
 Tuan Dao writes code at Dwarves and has worked with AI in two phases: first as a pair programmer, then as something he delegates to. His short answer: **"Can AI code?" is an old question now. It can. The hard part is reviewing its work without a jam.** What follows is his account, in his words.
@@ -40,7 +41,7 @@ Tuan Dao is a full-stack engineer on web projects at Dwarves. He joined in Novem
 
 _Tuan Dao. Photo: GitHub._
 
-He is on GitHub as [tuanddd](https://github.com/tuanddd), goes by `vincent` on the Dwarves Discord, and has a memo profile at [/contributor/tuanddd](/contributor/tuanddd). He told an earlier story in [#4 Tuan Dao on learning from mistakes](https://memo.d.foundation/careers/life/2021-03-31-0-tuan-dao), part of Life at Dwarves.
+He is on GitHub as [tuanddd](https://github.com/tuanddd), goes by `vincent` on the Dwarves Discord, and has a memo profile at [/contributor/tuanddd](/contributor/tuanddd). He told an earlier story in [#4 Tuan Dao on learning from mistakes](https://memo.d.foundation/programs/once/tuan-dao-2021), part of Life at Dwarves.
 
 **Why this piece**
 
