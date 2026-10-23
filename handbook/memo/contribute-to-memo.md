@@ -126,6 +126,10 @@ The full rules sit on their own page, the [Memo media and styling standard](/mem
 
 After a merge, `media-sync` moves raster files to the storage bucket and strips them from git. SVG stays in the repo. The workflow compresses each raster first and prints a warning in the run summary for any file still over 200 KB. The warning never fails the run.
 
+### Parts that come from Markdown
+
+Memo lays out a term peek, a step rail, a checklist, a definition grid, avoid and prefer pairs, a status line and an abstract from plain Markdown and frontmatter. [Write memo notes that lay out as parts](/memo-note-parts) shows the exact shape each one needs.
+
 ## The member path
 
 You are Dwarves staff or a contractor and you can push to `dwarvesf/brainery`. This road is short, and it has fewer guard rails than most people assume.
