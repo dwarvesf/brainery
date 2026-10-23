@@ -3,6 +3,7 @@ title: "No. 01: I code less now, but it isn't any easier"
 short_title: "Tuan Dao"
 description: "Tuan Dao, an engineer at Dwarves, on moving from pair programming with AI to delegating to it, and why human review is always the bottleneck."
 date: 2026-10-22
+program_path: tuan-dao/delegating-to-ai
 slug: once-a-dwarf-tuan-dao
 type: writing
 form: essay
@@ -40,7 +41,7 @@ Tuan Dao is a full-stack engineer on web projects at Dwarves. He joined in Novem
 
 _Tuan Dao. Photo: GitHub._
 
-He is on GitHub as [tuanddd](https://github.com/tuanddd), goes by `vincent` on the Dwarves Discord, and has a memo profile at [/contributor/tuanddd](/contributor/tuanddd). He told an earlier story in [#4 Tuan Dao on learning from mistakes](https://memo.d.foundation/once/tuan-dao/2021), part of Life at Dwarves.
+He is on GitHub as [tuanddd](https://github.com/tuanddd), goes by `vincent` on the Dwarves Discord, and has a memo profile at [/contributor/tuanddd](/contributor/tuanddd). He told an earlier story in [#4 Tuan Dao on learning from mistakes](https://memo.d.foundation/once/tuan-dao/learning-from-mistakes), part of Life at Dwarves.
 
 **Why this piece**
 
