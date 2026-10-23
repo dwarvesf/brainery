@@ -125,4 +125,4 @@ Thank you to Tuan for writing this down and letting us share it.
 
 **Once a Dwarf: notes from people who were here.** People who passed through Dwarves and people still here, in their own words. Read the rest of the series on the [Once a Dwarf](../site/once-a-dwarf.md) page.
 
-_This piece was translated and edited from Tuan's Vietnamese original. His sign-off on the English text is PENDING._
+_Translated and edited from Tuan's Vietnamese original._
