@@ -229,7 +229,7 @@ A fellow with a blog could use either door, and the choice decides where the pos
 
 ### You have a blog
 
-Use the guest writer flow. The fellow program page's own "Write as a Fellow" button leads to [memo.d.foundation/writers/join](https://memo.d.foundation/writers/join). Tell your agent to read [memo.d.foundation/skill.md](https://memo.d.foundation/skill.md) and get you onto Dwarves Memo, or fill in the form on the join page. Chapter 5 walks the flow.
+Use the guest writer flow. The fellow program page's own "Write as a Fellow" button leads to [memo.d.foundation/programs/guest-writers/join](https://memo.d.foundation/programs/guest-writers/join). Tell your agent to read [memo.d.foundation/skill.md](https://memo.d.foundation/skill.md) and get you onto Dwarves Memo, or fill in the form on the join page. Chapter 5 walks the flow.
 
 Two points apply to fellows. If you already have a contributor handle from earlier posts, ask the editors at team@d.foundation to link your domain to it. The `dwarves.json` file you publish has an optional `native` field for that link, and memo treats it as a proposal that an admin confirms. After the link, your page is the member page, and the old contributor URL redirects there. Posts that arrive through the guest flow follow the guest reward rule in chapter 5.
 
@@ -277,7 +277,7 @@ You own a blog domain, and your post lives on your own site first. After approva
 
 ### Join
 
-Two routes lead to the same request. Tell your agent to read [memo.d.foundation/skill.md](https://memo.d.foundation/skill.md), or fill in the form on [memo.d.foundation/writers/join](https://memo.d.foundation/writers/join). The form emails you the verification code and the setup steps. Your agent shows them in the chat instead.
+Two routes lead to the same request. Tell your agent to read [memo.d.foundation/skill.md](https://memo.d.foundation/skill.md), or fill in the form on [memo.d.foundation/programs/guest-writers/join](https://memo.d.foundation/programs/guest-writers/join). The form emails you the verification code and the setup steps. Your agent shows them in the chat instead.
 
 ![](../../reports/shipped/assets/memo-guest-writers-shot-join.png)
 

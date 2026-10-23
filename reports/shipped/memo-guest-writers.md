@@ -244,4 +244,4 @@ The design choice worth copying is the split between the human layer and the mac
 
 ## Joining
 
-A writer who publishes on their own domain can join by pointing an assistant at [memo.d.foundation/skill.md](https://memo.d.foundation/skill.md), or by using the form on [memo.d.foundation/writers/join](https://memo.d.foundation/writers/join). Validate the profile file against [memo.d.foundation/schemas/dwarves.json](https://memo.d.foundation/schemas/dwarves.json) before the code expires.
+A writer who publishes on their own domain can join by pointing an assistant at [memo.d.foundation/skill.md](https://memo.d.foundation/skill.md), or by using the form on [memo.d.foundation/programs/guest-writers/join](https://memo.d.foundation/programs/guest-writers/join). Validate the profile file against [memo.d.foundation/schemas/dwarves.json](https://memo.d.foundation/schemas/dwarves.json) before the code expires.
