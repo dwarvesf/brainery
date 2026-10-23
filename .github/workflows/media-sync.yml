@@ -42,6 +42,9 @@ jobs:
           # Media budget gate: every asset is compressed to the vault budget
           # (1600px stills, lossy gif, 1280px crf30 video, /ebook pdf) before
           # it reaches the bucket. Same script authors run locally.
+          # Refresh the index first: the runner image's cached index can name
+          # package versions the mirror has already dropped (404 on install).
+          sudo apt-get update -qq
           sudo apt-get install -qq -y pngquant gifsicle webp ghostscript >/dev/null
           echo "$FILES" | while read -r f; do
             bash _meta/scripts/compress-media.sh "$f"
