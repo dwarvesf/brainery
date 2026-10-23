@@ -137,7 +137,7 @@ Our days are filled with meaningful work that echoes through the tech world. Her
 
 **Knowledge shared freely**. We're deep into Blockchain, AI, and more. Join the chat on [Discord](https://discord.gg/dfoundation) or explore [Brainery](https://memo.d.foundation).
 
-**Roots in the community**. We power [Golang Vietnam](https://golang.org.vn), [WeBuild](https://webuild.community) and projects like [Techie Story](https://techiestory.net).
+**Roots in the community**. We power [Golang Vietnam](https://golang.org.vn), [WeBuild](https://webuild.community) and projects like [Techie Story](https://web.archive.org/web/20240228104256/https://techiestory.net/) (archived).
 
 Want the full story? Our [handbook](https://github.com/dwarvesf/handbook/) and [playbook](https://github.com/dwarvesf/playbook) lay out how we work and why it matters.
 
@@ -163,7 +163,7 @@ Here's what some Dwarves say about life in our hall:
 - "Challenges are chances to level up. This place thrives on that."
   - **Minh Luu**, Full-stack engineer ([LinkedIn](https://www.linkedin.com/in/minhluuquang/))
 
-Curious about the journey? Check out stories from [Huy Tieu](https://techiestory.net/post/23-huy-tieu), [An Tran](https://memo.d.foundation/programs/once/an-tran-2022), and [Ngoc Thanh](apprentice/2022/batch-of-2022.md#thanh-pham-blockchain).
+Curious about the journey? Check out stories from [Huy Tieu](https://web.archive.org/web/20230331115205/https://techiestory.net/post/23-huy-tieu) (archived), [An Tran](https://memo.d.foundation/programs/once/an-tran-2022), and [Ngoc Thanh](apprentice/2022/batch-of-2022.md#thanh-pham-blockchain).
 
 ## How to step into the hall
 
