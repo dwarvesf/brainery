@@ -1,10 +1,11 @@
 ---
 title: "Once a Dwarf: notes from people who were here"
 short_title: "Once a Dwarf"
-description: "Field notes from people who passed through Dwarves and people who are still here, in their own words. The series index and about page."
+description: "Once a Dwarf is a series of first-person notes from people who passed through Dwarves and people still here: what they saw and how they work now, in their own words."
 date: 2026-10-22
 slug: once-a-dwarf
 kind: reference
+announce: false
 authors:
   - tieubao
 tags:
@@ -13,62 +14,34 @@ tags:
   - career
 ---
 
-**Notes from people who were here.**
+Once a Dwarf collects notes from people who were here. Some passed through Dwarves and went their own way. Some still sit next to us every day. We draw no line between the two: once a Dwarf, always a Dwarf.
 
-Có những người từng đi qua Dwarves, rồi rẽ sang những ngả đường riêng. Cũng có những người đến giờ vẫn ở lại, ngồi cạnh nhau mỗi ngày. Series này là nơi chúng tôi ngồi lại với họ, pha một ấm trà, và nghe họ kể chuyện: họ đã đi đến đâu, đang làm gì, và nhìn cái nghề này thế nào giữa lúc mọi thứ đang đổi thay từng ngày.
+Each piece is one person telling where they went, what they work on now, and how they see the craft while it keeps shifting. It is their view at one moment. It does not speak for Dwarves, and it makes no forecast.
 
-Người đi đã lâu hay người còn ở lại, với chúng tôi cũng vậy thôi. Một khi đã là người Dwarves thì mãi là người Dwarves. Nên ở đây không có ranh giới nào giữa họ, chỉ có những con người và những câu chuyện, kể bằng chính giọng của mình.
+**Who it is for**
 
-## Đây là gì
+People who passed through Dwarves and people who are still here, and anyone who wants to hear how they work today.
 
-Đây là những trang ghi chép, không phải bài phân tích. Chúng tôi cố giữ lại nguyên vẹn điều mà người trong cuộc thật sự thấy và thật sự nghĩ, kể cả những điều họ còn đang dò dẫm, còn chưa gọi được thành tên. Chúng tôi không nắn chúng thành những bài học to tát, cũng không mài đi những chỗ gồ ghề. Bởi đôi khi, chính những chỗ gồ ghề ấy mới là phần thật nhất.
+**What a piece looks like**
 
-## Đây không phải gì
+- One person, in first person. We edit for length and clarity and keep their voice, slang included.
+- It opens with their short answer, then a few sections, each on one thing they saw.
+- The lessons at the end come from their own words. We add none.
+- A diagram goes in only where it helps you read faster.
+- The person reads the edited text before it goes up.
 
-Đây không phải tiếng nói chính thức của công ty, càng không phải những lời tiên đoán lớn lao về tương lai. Xin đừng đọc chúng như một lập trường đã được chốt lại, hay một câu trả lời cuối cùng. Hãy đọc thong thả, như khi bạn ngồi nghe một người trong nghề tâm sự: thành thật, và còn nguyên những chỗ chưa kịp gọt giũa.
+## The parts
 
-## Các phần
+The series runs in parts, one theme each.
 
-Series chia thành nhiều phần, mỗi phần xoay quanh một chủ đề. Phần nào cũng cùng một tinh thần: đây là góc nhìn riêng của một người, ở một thời điểm, chứ không phải câu trả lời chung cho tất cả.
+**AI in their words.** People at Dwarves on how AI changed the way they work, and what is real versus noise.
 
-### AI in their words
+- [No. 01: Tuấn Đào, "I code less now, but it isn't any easier"](../essays/once-a-dwarf-tuan-dao.md)
 
-Người Dwarves kể về việc AI đã thay đổi cách họ làm việc ra sao, đâu là điều có thật và đâu chỉ là tiếng ồn.
+More parts will follow, on other technologies and the quieter things that shape the craft.
 
-- [No. 01: Tuấn Đào, "Mình code ít hơn, nhưng không có nghĩa là nhàn hơn"](../essays/once-a-dwarf-tuan-dao.md)
+## Take part
 
-### Sắp tới
+If you were once a Dwarf, or still are, and you have a story, tell anyone on the team you already talk to. We will get in touch, listen, and write it down with you.
 
-Sẽ còn những phần khác, về các công nghệ và những điều đang lặng lẽ định hình nghề này.
-
-Nếu bạn từng là người Dwarves và có một câu chuyện muốn kể, chúng tôi luôn sẵn lòng lắng nghe.
-
-Những câu chuyện về người Dwarves từ trước đó nằm trong [Life at Dwarves](../careers/life.md).
-
-## In english
-
-Some people passed through Dwarves and went on to roads of their own. Others are still here, sitting beside us every day. This series is where we sit down with them, pour a cup of tea, and listen: where they've gone, what they're working on, and how they see this craft now, while everything keeps shifting underfoot.
-
-Whether someone left long ago or is still around, it's all the same to us. Once a Dwarf, always a Dwarf. So there's no line drawn between them here, only people and their stories, told in their own voice.
-
-### What this is
-
-These are field notes, not analysis. We try to keep, intact, what the people in them actually saw and actually thought, including the parts they're still feeling their way through, still can't quite name. We don't shape it into grand lessons, and we don't sand off the rough edges, because sometimes the rough edges are the truest part.
-
-### What this isn't
-
-This isn't the company's official voice, and it certainly isn't sweeping predictions about the future. Please don't read these as a settled position, or a final word. Read them slowly, the way you'd listen to someone in the trade open up: honest, and still carrying the parts no one got around to polishing.
-
-### The parts
-
-The series comes in parts, each built around a theme. They all share one spirit: this is one person's own view, at one moment in time, not a single answer meant for everyone.
-
-#### AI in their words
-
-People at Dwarves on how AI has changed the way they work, what's real and what's just noise.
-
-#### More to come
-
-Other parts will follow, on the technologies and the quieter things shaping this craft.
-
-If you were once a Dwarf and have a story to share, we'd love to hear it.
+Older stories about Dwarves people live in [Life at Dwarves](../careers/life.md).

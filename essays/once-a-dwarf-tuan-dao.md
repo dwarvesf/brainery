@@ -1,10 +1,13 @@
 ---
-title: "Mình code ít hơn, nhưng không có nghĩa là nhàn hơn"
+title: "No. 01: I code less now, but it isn't any easier"
 short_title: "Tuấn Đào"
-description: "Tuấn Đào kể cách anh dùng AI để code: từ pair programming mệt mỏi sang delegate, và vì sao bottleneck luôn nằm ở bước con người ngồi review."
+description: "Tuấn Đào, an engineer at Dwarves, on moving from pair programming with AI to delegating to it, and why human review is always the bottleneck."
 date: 2026-10-22
 slug: once-a-dwarf-tuan-dao
+type: writing
+form: essay
 kind: essay
+announce: false
 authors:
   - tuanddd
 series: once-a-dwarf
@@ -19,46 +22,100 @@ redirect:
   - /once-a-dwarf/tuan-dao
 ---
 
-**Câu hỏi "AI có code được không?" giờ cũ quá rồi. AI code được. Cái khó là review sao cho đỡ nghẽn.**
+Tuấn Đào writes code at Dwarves and has worked with AI in two phases: first as a pair programmer, then as something he delegates to. His short answer: **"Can AI code?" is an old question now. It can. The hard part is reviewing its work without a jam.** What follows is his account, in his words.
 
-Mình là Tuấn Đào, hiện mình làm software engineer ở Dwarves. Công việc hằng ngày vẫn là mấy việc quen thuộc của một dev: đọc code, hiểu requirement, tìm hướng xử lý, viết implementation, refactor, rồi kiểm tra lại trước khi đưa vào sản phẩm. Mình dùng AI nhiều nhất ở mấy đoạn như investigation, implementation, refactor. Những phần khác như test, debug, docs hay review thì vẫn có dùng, nhưng chưa nhiều bằng. Mình cũng muốn offload thêm mấy phần đó, hiện tại mình chưa tìm được setup nào đủ hiệu quả để dùng lâu dài.
+**By the numbers**
 
-## Pair programming, và sự mệt mỏi của nó
+|              |                                                                                       |
+| ------------ | ------------------------------------------------------------------------------------- |
+| 60 / 30 / 10 | His old split on a task: the assistant's first pass, his hand edits, one last prompt. |
+| 1 to 2       | Sessions he keeps open at once. Three at most, for a batch of small tasks.            |
+| 2019         | The year he joined Dwarves.                                                           |
 
-Hồi đầu, mình dùng AI gần giống như pair programming. Mình input task, assistant làm được khoảng 60%. Mình đọc qua, nhảy vào code tay thêm 30%, rồi lại prompt tiếp cho 10% còn lại. Mỗi bên làm một đoạn và ghép lại thành output cuối cùng. Làm một thời gian thì mình thấy cách đó vô cùng mất thời gian. Mình cứ phải đọc output, chỉnh sửa, quay lại prompt, rồi lại đọc tiếp. Nó tạo ra một kiểu context switching mới. Code vẫn ra thôi nhưng không còn là mình ngồi làm từ đầu tới cuối nữa, mà bị kéo qua nhiều vai cùng lúc: vừa là người viết, vừa là người sửa, vừa là người giải thích, vừa là người review. Có lúc cảm giác không giống pair programming nữa, mà như đang ngồi canh một output dở dang để chắp vá.
+**Who is Tuấn**
 
-![Hai cách làm việc với AI: pair programming chia việc 60/30/10, delegate giao gần hết rồi đánh giá](assets/once-a-dwarf-tuan-dao-fig1-pair-vs-delegate.svg)
+Tuấn Đào is a full-stack engineer on web projects at Dwarves. He joined in November 2019.
 
-_Fig. 1: Từ ghép code từng mảnh sang giao trọn task rồi đánh giá._
+**Why this piece**
 
-## Delegate, không phải ném task rồi ngồi chơi
+It is the first piece in AI in their words, a part of [Once a Dwarf](../site/once-a-dwarf.md) where Dwarves people say how AI changed the way they work.
 
-Gần đây, mình chuyển sang hướng delegate nhiều hơn. Mình giao task cho AI làm gần hết, rồi đánh giá kết quả của nó. Cách này hợp với mình hơn, nhưng nó không phải kiểu ném task cho AI xong ngồi chơi. Ngược lại, nó bắt mình chuẩn bị kỹ hơn trước khi giao việc. Nếu context thiếu, AI rất dễ hiểu sai. Mà cái khó chịu là nhiều khi nó hiểu sai nhưng output nhìn vẫn rất ổn, code sạch, flow có vẻ hợp lý, giải thích nghe cũng xuôi tai. Tới khi nhìn lại requirement mới thấy nó đang đi lan man giải sang bài toán khác.
+## Where AI fits in my day
 
-Vì vậy, với mình, câu hỏi "AI làm tốt task nào nhất?" không quan trọng bằng chuyện mình giao việc cho nó như thế nào. Refactor, debug hay test chỉ là bề mặt. Cốt lõi vẫn là context. Nói đơn giản thì miễn là nó không chệch khỏi mục tiêu ban đầu, vậy là đã làm tốt rồi.
+_He uses it most where the work is open-ended, and wants to hand it more._
 
-Những lần AI nhìn như có vẻ làm được hết nhưng cuối cùng vẫn cần mình review lại, thường là do planning ban đầu chưa kỹ và thiếu dữ kiện. Nó hỏi ngược lại mình, hoặc tự suy đoán. Mà tự suy đoán nhiều khi còn nguy hiểm hơn, vì nó đoán rất tự tin. Và một lỗi hay gặp nữa là không nói rõ definition of done. Thành thử, trước khi giao task, mình sẽ có một session planning với AI để làm rõ những chỗ nó còn thắc mắc. Cách này hơi mất công xíu, nhưng đỡ hơn nhiều so với để nó chạy sai rồi ngồi sửa lại.
+I'm Tuấn Đào, a software engineer at Dwarves. My days are still the usual dev work: read code, understand the requirement, find an approach, write the implementation, refactor, then check it again before it goes into the product.
+
+I use AI most for investigation, implementation and refactoring. I use it for testing, debugging, docs and review too, just not as much. I'd like to offload more of those. I haven't found a setup that works well enough to keep using.
+
+## Pair programming, and why it wore me out
+
+_The 60/30/10 split looked like teamwork. In practice it meant constant switching._
+
+At first I used AI almost like pair programming. I'd put in a task and the assistant got about 60% done. I'd read through it, jump in and hand-code another 30%, then prompt again for the last 10%. Each side did a piece, and the pieces made the final output.
+
+After a while I found this took a huge amount of time. I kept reading output, fixing it, going back to the prompt, then reading again. It created a new kind of context switching. The code still came out, but I no longer worked on it from start to finish. I got pulled into several roles at once: writer, fixer, explainer and reviewer. Some days it didn't feel like pair programming anymore. It felt like babysitting a half-done output and patching it.
+
+![Two ways to work with AI: pair programming splits a task 60/30/10, delegating hands over almost all of it and judges the result](assets/once-a-dwarf-tuan-dao-fig1-pair-vs-delegate.svg)
+
+_Fig. 1: From stitching code together piece by piece to handing over the whole task and judging the result._
+
+## Delegating means preparing more
+
+_The worst miss is the one that looks right._
+
+Lately I delegate more. I hand AI almost the whole task, then judge what it gives back. This suits me better. It doesn't mean tossing the task to AI and sitting back, though. It makes me prepare more before I hand anything over.
+
+With thin context, AI misreads the task easily. The annoying part is that it can misread it and the output still looks fine: clean code, a flow that seems reasonable, an explanation that sounds right. Only when I check the requirement again do I see it has wandered off and solved a different problem.
+
+So for me, "which task does AI do best?" matters less than how I hand the task over. Refactor, debug or test is just the surface. The core is context. Put simply, if it doesn't drift from the original goal, it did a good job.
+
+When AI looks like it got everything done and I still have to review it again, the cause is usually thin planning up front and missing facts. Either it asks me back, or it guesses. Guessing is often worse, because it guesses with full confidence. Another common miss is not stating the definition of done. So before I hand off a task, I run a planning session with the AI to clear up whatever it is unsure about. It takes a bit more effort, but far less than letting it run wrong and fixing it after.
 
 ## The orchestration tax
 
-Do vậy mà testing với validation lại quan trọng hơn mình nghĩ. Nó góp phần không nhỏ trong việc kiểm soát được độ "ảo tưởng" của AI và giúp mình bớt review bằng cảm giác đi. Khả năng nhận thức của con người có giới hạn, còn số lượng agent mà 1 dev có thể spawn ra thì không, tỉ lệ này quá bất cân xứng nên bottleneck luôn luôn nằm ở bước con người review. Mình cũng không mở quá nhiều session cùng lúc: bình thường một hoặc hai, nhiều task nhỏ thì tối đa ba. Mở thêm session nghe có vẻ năng suất hơn, nhưng mỗi session lại tạo thêm một thứ phải đọc và check. Hoặc đơn giản là do mình gà hehe.
+_Agents scale without limit. Human review does not._
 
-![Giao càng nhiều cho AI thì thời gian viết code giảm, còn công giữ context, đọc output và kiểm logic tăng](assets/once-a-dwarf-tuan-dao-fig2-orchestration-tax.svg)
+That's why testing and validation matter more than I thought. They do a lot to keep AI's "hallucinations" in check, and they let me review less by gut feeling. A person's attention has limits. The number of agents one dev can spawn doesn't. The ratio is so lopsided that the bottleneck is always the human review step.
 
-_Fig. 2: "The Orchestration Tax", mượn chữ của Addy Osmani. Hình minh họa, không phải số đo._
+I also don't open many sessions at once: usually one or two, three at most for a batch of small tasks. More sessions sound more productive, but each one adds one more thing to read and check. Or maybe I'm just a noob, hehe.
 
-Có một bài của Addy Osmani cho vấn đề này là "The Orchestration Tax". Nghe hơi fancy, mà khá đúng với cảm giác của mình dạo này. Khi giao nhiều việc hơn cho model, thời gian viết code giảm đi; đổi lại, mình tốn công hơn ở chỗ giữ context, đọc output, kiểm tra logic, và quyết định có nên dùng kết quả AI đưa ra.
+![The more you hand to AI, the less time goes to writing code and the more effort goes to holding context, reading output and checking logic](assets/once-a-dwarf-tuan-dao-fig2-orchestration-tax.svg)
 
-Đúng là mình code ít hơn thiệt, và nghĩ nhiều hơn ở phần problem framing. Người ta có thể gọi đó là "engineer as orchestrator", mình vẫn thấy từ này hơi buzzword, mà harness engineering nghe còn buzz hơn _omegalul_. Bỏ lớp chữ nghĩa đó ra, việc hằng ngày của mình thật ra khá đơn giản: biết task nào giao được, cần đưa thông tin gì vào, đoạn nào để tool tự xử, đoạn nào mình phải tự quyết. Muốn làm vậy vẫn phải hiểu code, requirement, và có testcase hoặc một cách kiểm chứng rõ ràng hơn.
+_Fig. 2: "The Orchestration Tax", a term borrowed from Addy Osmani. An illustration, not a measurement._
 
-## Ba điều Tuấn rút ra
+Addy Osmani has a piece on this called "The Orchestration Tax". It sounds a bit fancy, but it fits how I've felt lately. The more work I hand to the model, the less time I spend writing code. In exchange I spend more effort holding context, reading output, checking logic, and deciding whether to use what the AI gave me.
 
-1. Bottleneck không nằm ở chỗ AI code nhanh hay chậm. Nó nằm ở bước con người ngồi review. Số agent gần như vô hạn, sức đọc của mình thì có giới hạn.
-2. Mở thêm session không tự động bằng năng suất cao hơn. Mỗi session là một thứ nữa phải đọc và kiểm.
-3. Context và "definition of done" quan trọng hơn việc chọn task nào cho AI. AI đoán sai một cách rất tự tin.
+It's true I code less, and I think more about framing the problem. People might call that "engineer as orchestrator". I still find that a bit of a buzzword, and "harness engineering" sounds even buzzier _omegalul_. Strip the labels off and my day is fairly simple: know which tasks I can hand off, what information to put in, which parts the tool can handle on its own, and which parts I have to decide myself. To do that I still need to understand the code and the requirement, and have test cases or some clearer way to verify.
 
-## 6 đến 12 tháng tới
+## Steal this: handing a task to an agent
 
-Nếu có cải thiện workflow AI của mình thì chắc mình sẽ nhìn nhiều hơn vào testing và validation. Làm sao để bớt phải review mọi thứ bằng mắt. Làm sao để có cách kiểm chứng rõ hơn trước khi tin output. Nếu automate được một phần bước đó thì có lẽ hữu ích hơn việc chỉ cố làm cho AI viết thêm nhiều code.
+These are the habits Tuấn describes above. Copy the ones that fit.
 
-Còn nếu không giải được chuyện review, mở thêm agent nhiều khi chỉ là tự tạo thêm việc cho mình thôi.
+- **Plan with the AI first.** Run a short planning session and let it ask its questions before it starts.
+- **Give it the context.** With thin context it guesses, and it guesses with confidence.
+- **State the definition of done.** Leaving it out is one of the most common misses.
+- **Keep few sessions open.** One or two, three at most for small tasks. Each one is more to read.
+- **Have a way to verify.** Test cases or another clear check, so you review less by gut feeling.
+
+## The next 6 to 12 months
+
+_Next, he wants better ways to check output before he trusts it._
+
+If I improve my AI workflow, I'll probably look more at testing and validation. How to stop reviewing everything by eye. How to have a clearer way to verify before I trust the output. If I could automate part of that step, it would likely help more than just trying to make AI write more code.
+
+And if I can't solve review, opening more agents is often just making more work for myself.
+
+## Takeaways
+
+- **Review is the bottleneck.** How fast AI writes code matters less than the human reading it. Agents are close to unlimited; a person's reading is not.
+- **Each session costs review.** Opening more does not raise output by itself. Each one is one more thing to read and check.
+- **Context and a definition of done matter most.** They matter more than picking which task to give AI, because AI guesses wrong with full confidence.
+
+Thank you to Tuấn for writing this down and letting us share it.
+
+---
+
+**Once a Dwarf: notes from people who were here.** People who passed through Dwarves and people still here, in their own words. Read the rest of the series on the [Once a Dwarf](../site/once-a-dwarf.md) page.
+
+_This piece was translated and edited from Tuấn's Vietnamese original. His sign-off on the English text is PENDING._
