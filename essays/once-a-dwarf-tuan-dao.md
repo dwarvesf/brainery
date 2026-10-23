@@ -1,7 +1,7 @@
 ---
 title: "No. 01: I code less now, but it isn't any easier"
-short_title: "Tuấn Đào"
-description: "Tuấn Đào, an engineer at Dwarves, on moving from pair programming with AI to delegating to it, and why human review is always the bottleneck."
+short_title: "Tuan Dao"
+description: "Tuan Dao, an engineer at Dwarves, on moving from pair programming with AI to delegating to it, and why human review is always the bottleneck."
 date: 2026-10-22
 slug: once-a-dwarf-tuan-dao
 type: writing
@@ -22,7 +22,7 @@ redirect:
   - /once-a-dwarf/tuan-dao
 ---
 
-Tuấn Đào writes code at Dwarves and has worked with AI in two phases: first as a pair programmer, then as something he delegates to. His short answer: **"Can AI code?" is an old question now. It can. The hard part is reviewing its work without a jam.** What follows is his account, in his words.
+Tuan Dao writes code at Dwarves and has worked with AI in two phases: first as a pair programmer, then as something he delegates to. His short answer: **"Can AI code?" is an old question now. It can. The hard part is reviewing its work without a jam.** What follows is his account, in his words.
 
 **By the numbers**
 
@@ -32,9 +32,15 @@ Tuấn Đào writes code at Dwarves and has worked with AI in two phases: first 
 | 1 to 2       | Sessions he keeps open at once. Three at most, for a batch of small tasks.            |
 | 2019         | The year he joined Dwarves.                                                           |
 
-**Who is Tuấn**
+**Who is Tuan**
 
-Tuấn Đào is a full-stack engineer on web projects at Dwarves. He joined in November 2019.
+Tuan Dao is a full-stack engineer on web projects at Dwarves. He joined in November 2019.
+
+![Tuan Dao. Photo: GitHub.](assets/once-a-dwarf-tuan-dao-portrait.jpg)
+
+_Tuan Dao. Photo: GitHub._
+
+He is on GitHub as [tuanddd](https://github.com/tuanddd), goes by `vincent` on the Dwarves Discord, and has a memo profile at [/contributor/tuanddd](/contributor/tuanddd). He told an earlier story in [#4 Tuan Dao on learning from mistakes](https://memo.d.foundation/careers/life/2021-03-31-0-tuan-dao), part of Life at Dwarves.
 
 **Why this piece**
 
@@ -44,7 +50,7 @@ It is the first piece in AI in their words, a part of [Once a Dwarf](../site/onc
 
 _He uses it most where the work is open-ended, and wants to hand it more._
 
-I'm Tuấn Đào, a software engineer at Dwarves. My days are still the usual dev work: read code, understand the requirement, find an approach, write the implementation, refactor, then check it again before it goes into the product.
+I'm Tuan Dao, a software engineer at Dwarves. My days are still the usual dev work: read code, understand the requirement, find an approach, write the implementation, refactor, then check it again before it goes into the product.
 
 I use AI most for investigation, implementation and refactoring. I use it for testing, debugging, docs and review too, just not as much. I'd like to offload more of those. I haven't found a setup that works well enough to keep using.
 
@@ -90,7 +96,7 @@ It's true I code less, and I think more about framing the problem. People might 
 
 ## Steal this: handing a task to an agent
 
-These are the habits Tuấn describes above. Copy the ones that fit.
+These are the habits Tuan describes above. Copy the ones that fit.
 
 - **Plan with the AI first.** Run a short planning session and let it ask its questions before it starts.
 - **Give it the context.** With thin context it guesses, and it guesses with confidence.
@@ -112,10 +118,10 @@ And if I can't solve review, opening more agents is often just making more work 
 - **Each session costs review.** Opening more does not raise output by itself. Each one is one more thing to read and check.
 - **Context and a definition of done matter most.** They matter more than picking which task to give AI, because AI guesses wrong with full confidence.
 
-Thank you to Tuấn for writing this down and letting us share it.
+Thank you to Tuan for writing this down and letting us share it.
 
 ---
 
 **Once a Dwarf: notes from people who were here.** People who passed through Dwarves and people still here, in their own words. Read the rest of the series on the [Once a Dwarf](../site/once-a-dwarf.md) page.
 
-_This piece was translated and edited from Tuấn's Vietnamese original. His sign-off on the English text is PENDING._
+_This piece was translated and edited from Tuan's Vietnamese original. His sign-off on the English text is PENDING._

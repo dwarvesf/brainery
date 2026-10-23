@@ -36,7 +36,7 @@ The series runs in parts, one theme each.
 
 **AI in their words.** People at Dwarves on how AI changed the way they work, and what is real versus noise.
 
-- [No. 01: Tuấn Đào, "I code less now, but it isn't any easier"](../essays/once-a-dwarf-tuan-dao.md)
+- [No. 01: Tuan Dao, "I code less now, but it isn't any easier"](../essays/once-a-dwarf-tuan-dao.md)
 
 More parts will follow, on other technologies and the quieter things that shape the craft.
 
