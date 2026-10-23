@@ -13,7 +13,6 @@ tags:
   - culture
   - career
 redirect:
-  - /once
   - /careers/life/2020-05-08-0-thanh-pham
   - /cizjrg
   - /careers/life/2021-03-11-0-phat-nguyen
