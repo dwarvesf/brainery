@@ -25,7 +25,7 @@ A rule that says target is a budget the editors check by hand. No automatic chec
 
 ## Formats
 
-1. **Everyone.** Draw diagrams and charts as SVG, never as a screenshot of a diagram. Test: no raster file in the post holds a diagram.
+1. **Everyone.** Draw diagrams and charts as SVG, never as a screenshot of a diagram. Test: no raster file in the post holds a diagram. From Excalidraw, export SVG with "Embed scene" turned on, so the same file reopens in Excalidraw for later edits. Test: `rg -c 'excalidraw' <f>.svg` prints a count above 0. Reason: without the scene, a later fix to a typo or a color means redrawing the figure.
 2. **Everyone.** Use a raster only for photos, screenshots and scans. Use webp at quality 80, or PNG after `pngquant`, for screenshots, and jpeg or webp for photos. Test: `file <f>` reports png, webp or jpeg.
 3. **Repo posts.** Reference one file per image. Do not commit a `.webp` twin beside a `.png`. Test: no two files in `assets/` share a basename. Reason: the worker does not negotiate formats, so the twin is never served.
 4. **Everyone.** Use GIF or video only when motion carries meaning that a still cannot. Prefer a short mp4 to a GIF. Test: the post says in text what the motion shows.
