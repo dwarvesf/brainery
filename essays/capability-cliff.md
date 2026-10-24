@@ -39,7 +39,7 @@ On 12 October 2026 the router in my home office started failing every DNS lookup
 
 At 09:06 pinning the Mini to a public resolver brought that one machine back. The cause was still unknown. The first useful comparison in my notes is at 22:20, about 20 hours after the first failure: the same query with DNSSEC validation switched off succeeded. The router validates answers against a root key that had rotated the day before, and it rejected every one. Turning its validation off at 09:12 the next day fixed name lookups for every device that used the router.
 
-![One outage on a timeline, from the first failed lookup to the fix {#fig-outage}](assets/capability-cliff-fig2-outage.svg 'Hours since the first failed lookup. The amber point is the one comparison that located the failing layer.')
+![One outage on a timeline, from the first failed lookup to the fix {#fig-outage}](assets/capability-cliff-fig2-outage.svg 'Hours since the first failed lookup. The highlighted point is the one comparison that located the failing layer.')
 
 That night I was missing one idea: a resolver can reject answers its upstream serves correctly. Resets don't test that idea, so more resets never got me closer.
 

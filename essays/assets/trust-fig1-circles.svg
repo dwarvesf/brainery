@@ -42,5 +42,5 @@
     <text x="400" y="274" font-size="9" fill="#a7c0d9">your manager thinks of you for the critical task</text>
   </g>
   <text x="400" y="318" font-size="9.5" fill="#c3d7ea">Each circle vouches for the next one out.</text>
-  <text x="14" y="376" font-size="9" fill="#6f8fb0">Concentric reach of trust at Dwarves. Amber marks the circle people are called from.</text>
+  <text x="14" y="376" font-size="9" fill="#6f8fb0">Concentric reach of trust at Dwarves. The highlight marks the circle people are called from.</text>
 </svg>

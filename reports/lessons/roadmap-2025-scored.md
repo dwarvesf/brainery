@@ -40,7 +40,7 @@ redirect:
 
 The 2025 roadmap still sits on this site in the future tense. "We're entering a pivotal year," it says, and then lists four bets and five chairs, 22 promises in all. It is October 2026. I went through every promise, looked for what happened to it, and scored it kept, half kept or dropped.
 
-![The 22 promises of the 2025 roadmap, scored {#fig-scoreboard .live}](assets/roadmap-2025-scored-fig1-scoreboard.svg 'Each row is one promise from the roadmap and its chair pages. White is kept, a ring is half kept, amber is dropped. Light up one score, or hover a row for the promise as written.')
+![The 22 promises of the 2025 roadmap, scored {#fig-scoreboard .live}](assets/roadmap-2025-scored-fig1-scoreboard.svg 'Each row is one promise from the roadmap and its chair pages. White is kept, a ring is half kept, the highlight colour is dropped. Light up one score, or hover a row for the promise as written.')
 
 The tally is 5 kept, 8 half kept and 9 dropped. Every score has its evidence in the table below. Where the records cannot settle a score, the row says what I could not find.
 
@@ -99,7 +99,7 @@ Hybrid working scores kept because it works, though it was policy before the roa
 
 The Delivery chair's first question was how to grow the team. I can measure the answer from December 2025, when every contractor started filing hours through a progress form.
 
-![Hours logged per month and contractors reporting, December 2025 to September 2026](assets/roadmap-2025-scored-fig2-delivery.svg 'Hours logged peaked at 5,458 in March 2026 and fell to 1,728 in September. Contractors reporting fell from 35 to 13. Amber marks the peak.')
+![Hours logged per month and contractors reporting, December 2025 to September 2026](assets/roadmap-2025-scored-fig2-delivery.svg 'Hours logged peaked at 5,458 in March 2026 and fell to 1,728 in September. Contractors reporting fell from 35 to 13. The highlight marks the peak.')
 
 Logged hours rose from 4,456 in December to 5,458 in March, then fell every month after March. September logged 1,728 hours, 68% below the peak, from 13 contractors against 35 in March. The roster says the same. Our Notion database held 27 active contractors on 21 July, 24 on 27 August and 18 on 18 October.
 
@@ -111,7 +111,7 @@ Two causes explain most of the decline: client roll-offs through summer 2026, an
 
 The Communication chair wanted content to build an audience. Output fell in 2025.
 
-![Content pull requests merged per year in four vault repos, and case studies dated per year](assets/roadmap-2025-scored-fig3-published.svg 'Left: PRs merged in research, brainery, handbook and playbook. Right: case studies by frontmatter date. Amber marks 2025, the year after the peak.')
+![Content pull requests merged per year in four vault repos, and case studies dated per year](assets/roadmap-2025-scored-fig3-published.svg 'Left: PRs merged in research, brainery, handbook and playbook. Right: case studies by frontmatter date. The highlight marks 2025, the year after the peak.')
 
 Across research, brainery, handbook and playbook, 333 PRs merged in 2024 and 148 in 2025. Case studies went the other way before they stopped: 3 dated in 2024, 5 in 2025 and none in 2026. The last one, on monitoring our own ICY backend, is dated 7 August 2025.
 
@@ -123,7 +123,7 @@ The Partnership chair listed success metrics with no numbers: "Maintain efficien
 
 ## What happened to the three chairs we deleted
 
-![The chair model on seven dates](assets/roadmap-2025-scored-fig4-chairs.svg 'The chair model, from the 2019 handbook to this scorecard. The dates are evenly spaced, not to scale. Amber marks the deletion.')
+![The chair model on seven dates](assets/roadmap-2025-scored-fig4-chairs.svg 'The chair model, from the 2019 handbook to this scorecard. The dates are evenly spaced, not to scale. The highlight marks the deletion.')
 
 The delivery, communication and engagement pages are gone. [brainery PR 214](https://github.com/dwarvesf/brainery/pull/214) deleted them on 17 August 2026, among 609 files cut in one triage of low-value content. Its description lists them as "generic chair descriptions". The learning and partnership pages survived the same triage. I recovered the deleted three from the vault's history and read them against the roadmap.
 

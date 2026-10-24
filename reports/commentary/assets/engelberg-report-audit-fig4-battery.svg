@@ -48,6 +48,6 @@
     <rect x="200" y="146" width="24" height="26" fill="#e8c56a"/>
     <rect x="200" y="186" width="24" height="26" fill="#e8c56a"/>
   </g>
-  <text x="20" y="272" fill="#6f8fb0" font-size="9">Fifty findings; the amber slice is the one per branch that would have shipped a wrong result: the fixture that accepted "abc", the guard that</text>
+  <text x="20" y="272" fill="#6f8fb0" font-size="9">Fifty findings; the highlighted slice is the one per branch that would have shipped a wrong result: the fixture that accepted "abc", the guard that</text>
   <text x="20" y="284" fill="#6f8fb0" font-size="9">blocked "lint" as a package, the config that opened no PRs, the 14-day wait printed as 257 days.</text>
 </svg>

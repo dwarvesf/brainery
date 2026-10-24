@@ -197,7 +197,7 @@ The gate stopped the duplicates. It did not keep the tab small, and what happene
 
 The tags did three jobs, and none of them needed one tag per deploy: a live marker for drift, a hook for the Discord post, and a changelog. The live marker now comes from Cloudflare. The post is a plain notice. The changelog is a weekly release, cut by the housekeeping Worker at the live commit, with notes from GitHub's generated list of PRs since the previous weekly tag. While reading the old code we also found that the Worker's drift check filtered for tags shaped like `prod-YYYY-`, and the real tags look like `prod-20260816.113205`. It had logged "no prod-YYYY-* tag found" every day.
 
-![Three release designs, and the stretch where retention never ran {#fig-designs}](assets/deploy-pipeline-fig7-designs.svg 'Release triggers from 2026-08-10 to 2026-09-28. The amber box is the stretch where the retention job existed and deleted nothing.')
+![Three release designs, and the stretch where retention never ran {#fig-designs}](assets/deploy-pipeline-fig7-designs.svg 'Release triggers from 2026-08-10 to 2026-09-28. The highlighted box is the stretch where the retention job existed and deleted nothing.')
 
 As of 2026-10-17 the repo lists three weekly releases and 39 older `prod-` ones. The weekly Release is published on Sundays at 03:17 UTC (2026-09-27, 10-04 and 10-11). The repo's pipeline doc says Monday, and that doc has since been corrected: in Cloudflare's weekday numbering the cron `17 3 * * 1` fires on Sundays (#1139). A deploy posts the commit, the merged PR, a run link, and the drift line, and mints nothing.
 
