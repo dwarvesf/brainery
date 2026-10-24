@@ -13,6 +13,8 @@ redirect:
   - /y1jyKw
 authors:
   - neko-anon
+type: research
+topic: digital-assets
 ---
 
 ### 1. Abstract-vs-interfaces

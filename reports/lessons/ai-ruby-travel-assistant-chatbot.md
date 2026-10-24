@@ -12,6 +12,10 @@ tags:
 redirect:
   - /H9XnuQ
 slug: ai-ruby-travel-assistant-chatbot
+type: report
+form: field
+topic: ai-agents
+fit: 3
 ---
 
 > "When the easy path isn't the right path, true engineering shines in adapting the right tools for the job."

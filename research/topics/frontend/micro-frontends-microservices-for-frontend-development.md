@@ -9,6 +9,8 @@ tags:
   - micro-frontend
 redirect:
   - /DZMsRw
+type: research
+topic: product-engineering
 ---
 
 ## What is Micro-frontend ?

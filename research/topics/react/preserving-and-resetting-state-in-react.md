@@ -12,6 +12,8 @@ tags:
   - hooks
   - react
 redirect: []
+type: research
+topic: product-engineering
 ---
 
 ## Why should you read this article?

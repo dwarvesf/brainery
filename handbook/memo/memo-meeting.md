@@ -9,6 +9,8 @@ tags:
   - guide
   - memo
 redirect: []
+type: company
+topic: company
 ---
 
 ### Memo knowledge base meeting

@@ -5,6 +5,8 @@ description: "Four open questions for DAOs that own NFT characters: how much to 
 date: 2026-08-27
 authors:
   - tieubao
+type: research
+topic: digital-assets
 ---
 
 ### Current problem

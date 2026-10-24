@@ -8,6 +8,9 @@ authors:
 tags:
   - innovation
 redirect: []
+type: research
+topic: markets-strategy
+series: book-pirates-in-the-navy
 ---
 
 Innovation theater is the creation of shiny workspaces that don't actually produce results. It may be characterized by innovation labs or teams that go through the motions of innovation without ever producing a sustainable business model.

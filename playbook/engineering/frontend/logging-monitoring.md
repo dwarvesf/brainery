@@ -6,6 +6,10 @@ redirect:
   - /CidQXQ
 authors:
   - neko-anon
+type: playbook
+topic: platform-ops
+secondary_topics:
+  - product-engineering
 ---
 
 This document provides guidance on some key metrics to track when logging and monitoring a frontend application.

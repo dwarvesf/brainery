@@ -6,6 +6,10 @@ redirect:
   - /vMt0gg
 authors:
   - neko-anon
+type: playbook
+topic: engineering-practice
+secondary_topics:
+  - platform-ops
 ---
 
 Remember the last time you read over the changelog of your favorite app and found it sucks with useless information like they don't care about the product that they sell out. Something like below

@@ -7,6 +7,8 @@ authors:
   - tieubao
 tags:
   - design
+type: research
+topic: product-engineering
 ---
 
 This workshop wraps up the useful information on 2 types of operating system for UX/UI designers, based on the personal research on iOS and Android. The purpose is to create an application that brings comfortability and a great experience to the end user.

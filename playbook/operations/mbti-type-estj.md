@@ -11,6 +11,8 @@ tags:
   - operation
   - people
 redirect: []
+type: research
+topic: engineering-practice
 ---
 
 ### Preferred work tasks

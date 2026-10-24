@@ -14,6 +14,9 @@ redirect:
   - /consulting/case-study/joinpara
   - /3q5Juw
 slug: joinpara
+type: case-study
+topic: product-engineering
+fit: 2
 ---
 
 **Industry**\

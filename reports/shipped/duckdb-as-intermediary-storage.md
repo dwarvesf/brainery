@@ -11,6 +11,11 @@ tags:
   - build-log
 redirect: []
 slug: duckdb-as-intermediary-storage
+type: report
+form: field
+topic: data
+series: memo-platform
+fit: 2
 ---
 
 The Elixir pipeline is responsible for extracting content and metadata from our Markdown files. It processes this information using AI techniques and stores the results in a DuckDB database.

@@ -17,6 +17,9 @@ tags:
   - techiestory
   - career
   - work-culture
+type: writing
+form: essay
+topic: knowledge-work
 ---
 
 _First published on TechieStory, 11 March 2021: [archived copy](https://web.archive.org/web/20220925164434/https://techiestory.net/en/post/16-loc-nguyen). TechieStory also ran it in Vietnamese: [archived copy](https://web.archive.org/web/20230128010744/https://techiestory.net/vi/post/16-loc-nguyen). Roles and plans are as of that date._

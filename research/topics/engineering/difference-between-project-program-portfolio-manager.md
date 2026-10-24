@@ -9,6 +9,8 @@ redirect:
   - /XIr61w
 authors:
   - nhuthm
+type: research
+topic: engineering-practice
 ---
 
 When working in the Software Development team, especially for those Product team, we might recognize several manager roles: Project manager - product manager, Program manager, and Portfolio manager. On the Internet, we can find those definition for them, on this note, it just a short summarize on what I understand after reading from the specific source.

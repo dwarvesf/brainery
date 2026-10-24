@@ -7,6 +7,9 @@ redirect:
   - /q5qS2w
 authors: []
 credit: David Drysdale (Moby Diction)
+type: research
+topic: product-engineering
+series: book-mixed-methods
 ---
 
 It’s naive to assume that quantitative analysis is inherently a more reliable or scientific than human judgment. Quantitative data, too, is the product of bias.

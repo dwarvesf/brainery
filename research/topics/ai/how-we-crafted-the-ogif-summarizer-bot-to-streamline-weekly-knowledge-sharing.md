@@ -12,6 +12,9 @@ tags:
   - ogif
 redirect:
   - /ASY8Vw
+type: research
+topic: ai-agents
+fit: 3
 ---
 
 ### What’s OGIF?

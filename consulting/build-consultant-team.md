@@ -9,6 +9,8 @@ tags:
   - consulting
 redirect:
   - /ZNNtMQ
+type: company
+topic: company
 ---
 
 ## Our culture & approach

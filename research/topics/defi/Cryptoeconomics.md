@@ -5,6 +5,8 @@ description: null
 date: null
 redirect:
   - /WNxdbA
+type: research
+topic: digital-assets
 ---
 
 ### Cryptoeconomics

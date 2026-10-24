@@ -6,6 +6,8 @@ date: 2026-10-18
 tags:
   - blockchain
   - ethereum
+type: research
+topic: digital-assets
 ---
 
 ### POV

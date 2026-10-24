@@ -11,6 +11,9 @@ tags:
   - AI
 redirect:
   - /geo-tracking-tools-guide
+type: research
+topic: knowledge-work
+fit: 2
 ---
 
 *Measure what matters, iterate with confidence.*

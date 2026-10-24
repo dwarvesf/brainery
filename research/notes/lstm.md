@@ -9,6 +9,8 @@ tags:
   - AI
   - LSTM
   - RNN
+type: research
+topic: applied-llm
 ---
 
 Long short-term memory (LSTM) networks represent a significant leap forward for anyone working with sequential data. If you have ever tried to train a basic recurrent neural network (RNN) and found it struggled to learn patterns over longer sequences, you are not alone. The primary challenge? Exploding and vanishing gradients. These issues make it tough for standard RNNs to recall events from more than a few steps ago.

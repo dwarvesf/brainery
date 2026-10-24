@@ -7,6 +7,9 @@ tags:
   - business
   - strategy
 redirect: []
+type: research
+topic: markets-strategy
+series: book-strategy
 ---
 
 ### Summary

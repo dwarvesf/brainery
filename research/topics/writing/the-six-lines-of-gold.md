@@ -8,6 +8,8 @@ redirect:
   - /4HZDRw
 authors:
   - monotykamary
+type: research
+topic: knowledge-work
 ---
 
 ## Introduction

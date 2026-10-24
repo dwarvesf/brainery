@@ -11,6 +11,8 @@ tags:
   - web
 redirect:
   - /Guzjvw
+type: research
+topic: product-engineering
 ---
 
 ![](assets/continuous-translation_eaf982ca480d0677ec9d8fd34553b51a_md5.webp)

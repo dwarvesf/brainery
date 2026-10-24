@@ -15,6 +15,12 @@ redirect:
   - /culture/glue-work
   - /BgDfQg
 slug: glue-work
+type: writing
+form: essay
+topic: engineering-practice
+secondary_topics:
+  - applied-llm
+fit: 2
 ---
 
 You know that feeling when you spend your day updating documentation, helping teammates get unstuck, or making sure the deployment pipeline actually works? That's glue work. It's the unglamorous stuff that keeps teams running, and chances are you're not getting promoted for it.

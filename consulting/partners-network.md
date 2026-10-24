@@ -10,6 +10,8 @@ tags:
   - partners
 redirect:
   - /lkvLIg
+type: company
+topic: company
 ---
 
 We seek for Partners, individuals and companies likewise, to develop a co-creation system driven by mutual purposes and interests.

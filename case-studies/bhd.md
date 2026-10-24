@@ -11,6 +11,9 @@ redirect:
   - /consulting/case-study/bhd
   - /XNazLA
 slug: bhd
+type: case-study
+topic: product-engineering
+fit: 2
 ---
 
 **Industry**\

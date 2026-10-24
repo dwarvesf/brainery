@@ -10,6 +10,8 @@ tags:
   - project
   - software
 redirect: []
+type: playbook
+topic: markets-strategy
 ---
 
 ## General questions for service feedbacks

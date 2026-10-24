@@ -11,6 +11,8 @@ tags:
   - golang
 redirect:
   - /c0Sbfw
+type: research
+topic: languages
 ---
 
 ## Profiling in Go: Gotta catch 'em all

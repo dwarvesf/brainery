@@ -10,6 +10,8 @@ announce: false
 series: android-best-practices
 series_part: 3
 series_total: 3
+type: playbook
+topic: product-engineering
 ---
 
 This part covers what happens around the code: test frameworks, emulators, shrinking and obfuscation with ProGuard, local data storage, and three tools worth wiring in early (Stetho, LeakCanary and continuous integration). The guide dates from 2017. R8 now replaces ProGuard as the default shrinker but reads the same rule files, and Room and DataStore are the usual storage choices today. Part 1 lists the other changes.

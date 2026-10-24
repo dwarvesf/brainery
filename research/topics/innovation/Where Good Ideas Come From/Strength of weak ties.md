@@ -8,6 +8,9 @@ authors:
 tags:
   - innovation
 redirect: []
+type: research
+topic: markets-strategy
+series: book-where-good-ideas-come-from
 ---
 
 Weak ties are strong. Steven Johnson suggests that weak ties help promote exaptation of ideas, and force encounters with alternative “idea spaces.”

@@ -5,6 +5,8 @@ description: null
 date: null
 redirect:
   - /CumOSQ
+type: research
+topic: digital-assets
 ---
 
 Different types of hacks How can you minimize your chances of being negatively affected by a hack?

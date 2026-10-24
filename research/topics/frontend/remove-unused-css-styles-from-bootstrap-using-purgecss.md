@@ -8,6 +8,8 @@ authors:
 tags:
   - css
   - frontend
+type: research
+topic: product-engineering
 ---
 
 ![](assets/remove-unused-css-styles-from-bootstrap-using-purgecss_50067f1125ee42d2d68068bd93443235_md5.webp)

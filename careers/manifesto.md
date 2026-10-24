@@ -9,6 +9,9 @@ tags:
   - culture
 redirect:
   - /hq0bOw
+type: company
+topic: company
+fit: 2
 ---
 
 ## Aim for quality

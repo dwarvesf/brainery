@@ -9,6 +9,11 @@ authors:
 tags:
   - go-weekly
   - golang
+type: research
+topic: production-readiness
+secondary_topics:
+  - languages
+series: golang-weekly
 ---
 
 ## [Fuzz testing Go HTTP services](https://packagemain.tech/p/fuzzing-http-services-golang)

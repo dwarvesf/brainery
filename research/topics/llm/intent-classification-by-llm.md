@@ -11,6 +11,8 @@ tags:
   - prompt
 redirect:
   - /4LHkAw
+type: research
+topic: applied-llm
 ---
 
 ## Introduction

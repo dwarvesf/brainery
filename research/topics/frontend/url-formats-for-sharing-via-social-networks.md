@@ -11,6 +11,8 @@ tags:
   - social-network
 redirect:
   - /JinvYg
+type: research
+topic: product-engineering
 ---
 
 ## Why?

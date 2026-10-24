@@ -11,6 +11,8 @@ authors:
 series: hadoop-and-big-data
 series_part: 1
 series_total: 2
+type: research
+topic: data
 ---
 
 Big data is data that outgrows one machine in volume, velocity or variety. This part defines those three Vs, lists use cases and challenges, explains why traditional solutions fall short, and introduces Hadoop. It ends by posing a concrete problem: the maximum closing price of every stock symbol in a 1 TB data set.

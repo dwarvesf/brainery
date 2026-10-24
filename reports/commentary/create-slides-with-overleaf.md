@@ -17,6 +17,9 @@ tags:
 redirect:
   - /74wy1A
 slug: create-slides-with-overleaf
+type: playbook
+topic: applied-llm
+fit: 2
 ---
 
 ## My workflow with Overleaf and ChatGPT

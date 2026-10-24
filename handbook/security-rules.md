@@ -9,6 +9,8 @@ tags:
   - security
 redirect:
   - /BvLEow
+type: company
+topic: company
 ---
 
 ## Basic security

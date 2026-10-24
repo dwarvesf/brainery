@@ -19,6 +19,9 @@ tags:
   - techiestory
   - career
   - engineering
+type: writing
+form: essay
+topic: engineering-practice
 ---
 
 _First published on TechieStory, 22 February 2023. Written by Vi Tran. Translated from the Vietnamese. Tay was a Senior Software Engineer at Dwarves Foundation then, and roles and plans are as of that date. The interview ran on TechieStory's social pages; we found no archived web copy._

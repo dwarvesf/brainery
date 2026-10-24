@@ -12,6 +12,8 @@ tags:
   - frontend
 redirect:
   - /Yaww9Q
+type: research
+topic: product-engineering
 ---
 
 ## What's variable font?

@@ -10,6 +10,10 @@ tags:
   - llm
 redirect:
   - /3XGu2w
+type: research
+topic: applied-llm
+secondary_topics:
+  - ai-agents
 ---
 
 ## Introduction

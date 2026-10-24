@@ -10,6 +10,9 @@ tags:
   - writing
   - AI
 redirect: []
+type: research
+topic: knowledge-work
+fit: 2
 ---
 
 > **TL;DR**: As generative AI engines take the wheel in deciding what we see, read, and remember, the question isn’t just about how to optimize for algorithms. The real question is whose stories survive the next wave of digital memory and whose fade away.

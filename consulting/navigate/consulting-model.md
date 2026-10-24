@@ -10,6 +10,11 @@ tags:
   - consulting
   - business-model
 redirect: []
+type: writing
+form: essay
+topic: markets-strategy
+series: navigate
+fit: 2
 ---
 
 > **tl;dr**

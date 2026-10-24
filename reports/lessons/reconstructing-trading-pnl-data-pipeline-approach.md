@@ -12,6 +12,14 @@ tags:
 redirect:
   - /l5r7QQ
 slug: reconstructing-trading-pnl-data-pipeline-approach
+type: report
+form: field
+topic: data
+secondary_topics:
+  - digital-assets
+  - financial-systems
+series: trading-platform-hardening
+fit: 2
 ---
 
 ## Executive summary

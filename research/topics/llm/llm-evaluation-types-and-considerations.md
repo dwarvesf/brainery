@@ -13,6 +13,9 @@ announce: false
 series: llm-evaluation-guidelines
 series_part: 2
 series_total: 2
+type: research
+topic: applied-llm
+fit: 2
 ---
 
 Part 1 gave a checklist for judging an LLM integration. This part covers how to evaluate: model evaluations versus product evaluations, then the considerations that keep an evaluation honest over time, namely coverage and monitoring, analytics and user feedback, and the point at which a model needs fine-tuning.

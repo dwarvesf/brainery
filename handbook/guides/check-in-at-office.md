@@ -11,6 +11,8 @@ tags:
   - hybrid-work
 redirect:
   - /03Ifkg
+type: company
+topic: company
 ---
 
 _Snapshot from 2024. Some tools and numbers have changed._

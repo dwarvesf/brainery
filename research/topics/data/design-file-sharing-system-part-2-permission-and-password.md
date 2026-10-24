@@ -10,6 +10,10 @@ tags:
   - file-system
   - directory-structure
   - permissions
+type: writing
+form: puzzle
+topic: data
+fit: 2
 ---
 
 In this section, I will discuss how I handle the logic and design the data model for the following features: setting permissions, sharing files for public access, and setting a password for a file. Refer to the diagram below to understand how permissions work in this system.

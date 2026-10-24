@@ -15,6 +15,8 @@ minted_at: '2025-05-12'
 token_id: '7'
 redirect:
   - /cyVgBQ
+type: company
+topic: company
 ---
 
 ## Why MMA?

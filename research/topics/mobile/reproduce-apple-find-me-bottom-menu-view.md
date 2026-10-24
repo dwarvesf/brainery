@@ -8,6 +8,8 @@ authors:
 tags:
   - swift
 redirect: []
+type: research
+topic: product-engineering
 ---
 
 Today we are going to recreate Find Me Bottom Menu view in few lines of code.

@@ -10,6 +10,9 @@ tags:
   - startup
 redirect:
   - /OpFjTA
+type: research
+topic: production-readiness
+fit: 2
 ---
 
 Security is no longer just a technical concern—it’s a core component of client trust. When our team launched a new collaboration tool, we quickly realized this. Early in the development process, we were focused on delivering features, but as we started engaging with enterprise clients, security-related questions became a priority:

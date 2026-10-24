@@ -10,6 +10,9 @@ tags:
   - soft-skill
 redirect:
   - /nl1Olw
+type: playbook
+topic: markets-strategy
+fit: 2
 ---
 
 > **tl;dr**

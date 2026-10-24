@@ -10,6 +10,9 @@ tags:
   - networking
   - go-weekly
   - golang
+type: research
+topic: languages
+series: golang-weekly
 ---
 
 ## [GoNB: a go notebook kernel for jupyter](https://github.com/janpfeifer/gonb)

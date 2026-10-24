@@ -13,6 +13,9 @@ tags:
   - future-of-work
   - llms
 toc: true
+type: research
+topic: ai-agents
+fit: 2
 ---
 
 ## The agent continuum: mapping the path to AGI

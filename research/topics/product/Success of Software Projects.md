@@ -9,6 +9,8 @@ tags:
   - success
 redirect:
   - /YekZdA
+type: research
+topic: engineering-practice
 ---
 
 There are three important key factors that can determine the successful of software project: People, Process, and Tools.

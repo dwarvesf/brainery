@@ -13,6 +13,8 @@ tags:
 toc: true
 redirect:
   - /gossip
+type: company
+topic: company
 ---
 
 Knowledge moves fast in tech. By the time you schedule a formal presentation, that breakthrough insight might already be old news. Our gossip protocol rewards the spontaneous moments when someone drops valuable knowledge in casual conversation.

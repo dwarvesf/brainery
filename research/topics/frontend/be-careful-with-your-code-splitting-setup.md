@@ -11,6 +11,9 @@ tags:
   - technique
 redirect:
   - /o0VeRA
+type: research
+topic: product-engineering
+fit: 2
 ---
 
 I thought I have been through hell this evening. Took me 6 hours debugging in the deep dark of hell. Oh right.

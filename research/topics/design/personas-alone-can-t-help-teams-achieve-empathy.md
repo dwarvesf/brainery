@@ -7,6 +7,9 @@ redirect:
   - /33cgpw
 authors: []
 credit: David Drysdale (Moby Diction)
+type: research
+topic: product-engineering
+fit: 2
 ---
 
 Personas are frequently cited as helping development teams achieve empathy for their users.

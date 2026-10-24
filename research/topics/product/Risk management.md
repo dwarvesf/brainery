@@ -9,6 +9,8 @@ tags:
   - risk
 redirect:
   - /J9O36A
+type: research
+topic: engineering-practice
 ---
 
 Today, most software projects are large and more complex therefore they are more riskier than before. Project managers must take time to manage project risks because it is a key factor in determining a project’s success. To managing risks, managers must identify all risks, plan prevention, monitor risks, and managing changes. By understanding risk management, project manager can avoid and reduce the impact of risks, provide better schedule and budget estimations and achieve customer satisfaction.

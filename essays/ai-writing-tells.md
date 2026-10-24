@@ -15,6 +15,12 @@ series: harness-engineering
 series_part: 9
 redirect:
   - /culture/ai-writing-tells
+type: writing
+form: essay
+topic: knowledge-work
+secondary_topics:
+  - applied-llm
+fit: 2
 ---
 
 A friend sent me a writing checklist last week. One line of instruction came with it: use this when you make the post, so it doesn't sound so load bearing.

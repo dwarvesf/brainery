@@ -13,6 +13,9 @@ tags:
   - craftsmanship
   - vision
 redirect: []
+type: research
+topic: markets-strategy
+fit: 2
 ---
 
 **Here's the brutal truth about product development:** the market rewards scale, but users fall in love with soul. And these two forces often pull in opposite directions.

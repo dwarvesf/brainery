@@ -11,6 +11,8 @@ tags:
   - react
 redirect:
   - /TsWVSg
+type: research
+topic: product-engineering
 ---
 
 Code splitting is a technique used to optimize JavaScript bundles by breaking them into smaller chunks, loading only the necessary parts when they’re needed. This reduces the initial loading time for users, as they only download the essential code to render the initial view. Code splitting is particularly valuable in large applications where bundling everything together can lead to slow load times and performance issues.

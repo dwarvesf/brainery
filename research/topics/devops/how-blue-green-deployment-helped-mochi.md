@@ -11,6 +11,9 @@ tags:
   - engineering
 redirect:
   - /VTZqXQ
+type: research
+topic: platform-ops
+fit: 2
 ---
 
 _Our team has always faced some bit of friction when deploying apps for our clients. We’ve known about blue-green deployments for a while and were recently given the chance to evaluate and demonstrate them for one of our Discord bot projects._

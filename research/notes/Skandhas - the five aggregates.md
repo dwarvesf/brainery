@@ -7,6 +7,8 @@ tags:
   - process
   - skandhas
   - ux
+type: research
+topic: product-engineering
 ---
 
 ![](http://payattention.ca/wp-content/uploads/2020/09/5aggregates-1080x675.jpg)

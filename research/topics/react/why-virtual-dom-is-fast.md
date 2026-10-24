@@ -12,6 +12,8 @@ tags:
   - react
   - virtual-dom
 redirect: []
+type: research
+topic: product-engineering
 ---
 
 Under the hood, virtual DOM is a mapping of JavaScript objects to actual DOM. In React, an example of this looks like this:

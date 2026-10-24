@@ -11,6 +11,11 @@ tags:
   - phoenix
   - ecosystem
   - market-report
+type: report
+form: market
+topic: languages
+series: market-report
+fit: 2
 ---
 
 This edition covers the Elixir ecosystem, current to 2026-08-15. In 2026 the language became gradually typed, and the BEAM became a default home for production AI agents. Both shifts took years, and both landed within months of each other. The report covers the release record, the platform stack, the adoption signal, the durability and data layer, the embedded and local-first flanks, and the security posture.

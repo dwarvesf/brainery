@@ -12,6 +12,8 @@ tags:
   - modules
 redirect:
   - /exuqdw
+type: research
+topic: product-engineering
 ---
 
 > "Modules are like building blocks that we can create software by combining."

@@ -9,6 +9,8 @@ tags:
   - recognition
   - icy
 redirect: []
+type: program
+topic: company
 ---
 
 We have recently moved to [ICY](https://icy.d.foundation/), a token we use to reward writers in our [Discord server](http://discord.gg/dfoundation).

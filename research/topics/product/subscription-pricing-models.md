@@ -11,6 +11,10 @@ tags:
   - subscription
 redirect:
   - /RLDTiw
+type: research
+topic: engineering-practice
+secondary_topics:
+  - markets-strategy
 ---
 
 ## Pricing models

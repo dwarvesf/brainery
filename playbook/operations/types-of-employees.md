@@ -11,6 +11,8 @@ tags:
   - people
 redirect:
   - /rgACVg
+type: playbook
+topic: company
 ---
 
 There are 2 types of employees:

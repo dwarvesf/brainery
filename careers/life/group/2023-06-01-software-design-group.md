@@ -11,6 +11,8 @@ tags:
   - life-at-dwarves
   - software
 redirect: []
+type: company
+topic: company
 ---
 
 ### The idea: A path to better software

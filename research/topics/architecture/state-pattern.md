@@ -9,6 +9,8 @@ tags:
   - design-pattern
   - gang-of-four
 redirect: []
+type: research
+topic: architecture
 ---
 
 ![State pattern](assets/state-pattern_state-en-2x.webp)

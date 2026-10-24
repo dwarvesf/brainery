@@ -8,6 +8,8 @@ tags:
   - git-flow
 redirect:
   - /k925EQ
+type: research
+topic: platform-ops
 ---
 
 ### What is git?

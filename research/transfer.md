@@ -14,6 +14,9 @@ tags:
   - experiments
   - research
 toc: true
+type: research
+topic: markets-strategy
+fit: 2
 ---
 
 As a tech-first consulting firm, our strength lies in turning cutting-edge research into game-changing solutions for clients. Our labs team produces innovative pilot experiments every tech wave across blockchain, AI, data, DevOps, and software construction. Meanwhile, our consulting team translates these ideas into real-world client success.

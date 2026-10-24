@@ -9,6 +9,11 @@ tags:
   - blockchain
 redirect:
   - /uTm2yQ
+type: research
+topic: digital-assets
+secondary_topics:
+  - architecture
+fit: 2
 ---
 
 <!-- table_of_contents adbd9b7d-46a4-4a1f-ab90-ce4abf276231 -->

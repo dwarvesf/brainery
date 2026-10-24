@@ -15,6 +15,11 @@ tags:
   - design
   - focus
 redirect: []
+type: research
+topic: markets-strategy
+secondary_topics:
+  - ai-agents
+fit: 2
 ---
 
 **The best products do one thing exceptionally well.** This isn't just a nice-to-have philosophy, it's the foundation of sustainable product development. Rooted in the Unix tradition of small, sharp tools, this mindset offers a powerful alternative to the bloated, everything-and-the-kitchen-sink approach that plagues modern software.

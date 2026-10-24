@@ -12,6 +12,8 @@ tags:
   - frontend
 redirect:
   - /8FBLVg
+type: research
+topic: product-engineering
 ---
 
 ## Overview & when to use IndexedDB

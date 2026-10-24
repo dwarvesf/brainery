@@ -14,6 +14,11 @@ redirect:
   - /consulting/case-study/setel
   - /XEFZLw
 slug: setel
+type: case-study
+topic: product-engineering
+secondary_topics:
+  - financial-systems
+fit: 2
 ---
 
 **Industry**\

@@ -8,6 +8,8 @@ redirect:
   - /H4aYCg
 authors:
   - monotykamary
+type: research
+topic: architecture
 ---
 
 ## What is state explosion?

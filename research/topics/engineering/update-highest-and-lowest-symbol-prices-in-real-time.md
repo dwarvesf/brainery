@@ -9,6 +9,9 @@ redirect:
   - /F7f7pg
 authors:
   - thminhVN
+type: research
+topic: financial-systems
+fit: 3
 ---
 
 ## Introduction

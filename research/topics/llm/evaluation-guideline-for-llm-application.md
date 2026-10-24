@@ -13,6 +13,9 @@ redirect:
 series: llm-evaluation-guidelines
 series_part: 1
 series_total: 2
+type: research
+topic: applied-llm
+fit: 2
 ---
 
 ## Overview

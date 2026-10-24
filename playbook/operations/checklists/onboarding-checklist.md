@@ -11,6 +11,8 @@ tags:
   - operation
   - people
 redirect: []
+type: playbook
+topic: company
 ---
 
 Through this process, the employee gradually form their own perspective and their fit with the Dwarves. This is the stage when they decide whether or not to commit to our company.

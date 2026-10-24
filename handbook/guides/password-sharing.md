@@ -8,6 +8,8 @@ authors:
 tags:
   - guide
   - handbook
+type: company
+topic: company
 ---
 
 ## 1Password storage

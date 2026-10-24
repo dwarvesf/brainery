@@ -11,6 +11,8 @@ tags:
   - tool
 redirect:
   - /TqyybQ
+type: research
+topic: applied-llm
 ---
 
 ## Generative AI

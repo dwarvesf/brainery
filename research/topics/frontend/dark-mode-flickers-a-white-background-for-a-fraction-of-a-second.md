@@ -12,6 +12,8 @@ tags:
   - tips
 redirect:
   - /IZjSsw
+type: research
+topic: product-engineering
 ---
 
 The dark mode feature uses local storage to store a user's preference for future usage. The problem is that when the dark mode is enabled and the page is reloaded, there's a flicker of white background all over the page before it turns dark. This happens for a fraction of a second and doesn't look natural.

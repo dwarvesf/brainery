@@ -8,6 +8,9 @@ authors:
 tags:
   - devbox
 redirect: []
+type: research
+topic: platform-ops
+series: devbox
 ---
 
 Ever wished you could clone your perfect dev environment? With `devbox.json`, you can. This little file is the beating heart of your Devbox setup. Let's crack it open and see what makes it tick.

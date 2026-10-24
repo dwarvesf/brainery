@@ -11,6 +11,9 @@ authors:
 series: go-concurrency
 series_part: 1
 series_total: 3
+type: research
+topic: languages
+fit: 2
 ---
 
 ## Preamble

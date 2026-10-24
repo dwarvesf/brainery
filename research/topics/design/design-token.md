@@ -11,6 +11,9 @@ tags:
   - design-systems
   - ai-tools
   - automation
+type: research
+topic: product-engineering
+fit: 2
 ---
 
 **Design tokens are the shared language between designers and developers.** These platform-agnostic variables store visual attributes like colors, typography, and spacing, ensuring consistency across web, mobile, and other platforms. AI tools now automate much of the heavy lifting in token creation and management.

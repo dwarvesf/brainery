@@ -9,6 +9,8 @@ tags:
   - handbook
 redirect:
   - /ztmoKQ
+type: company
+topic: company
 ---
 
 ## You are our voice

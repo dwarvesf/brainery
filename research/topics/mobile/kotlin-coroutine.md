@@ -8,6 +8,8 @@ redirect:
   - /cCn0tw
 authors:
   - khanhtruong
+type: research
+topic: product-engineering
 ---
 
 Starting from Kotlin 1.3, JetBrain introduces coroutine a light-weight thread. This article will focus on the basic concept of the coroutine and how you can use it in Kotlin.

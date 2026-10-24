@@ -13,6 +13,8 @@ tags:
   - typescript
 redirect:
   - /TkhYYA
+type: research
+topic: product-engineering
 ---
 
 Let's say we want to create a `Text` component with React and Typescript. A basic implementation could look like:

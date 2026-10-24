@@ -11,6 +11,8 @@ tags:
   - apprenticeship
   - career
 redirect: []
+type: program
+topic: company
 ---
 
 ![Tuan Dao, Senior Frontend and Blockchain Engineer at Dwarves Foundation](assets/tuan-dao-mentor.webp)

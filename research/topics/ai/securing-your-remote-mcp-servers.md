@@ -12,6 +12,11 @@ tags:
   - security
 redirect:
   - /oBFhMg
+type: research
+topic: ai-agents
+secondary_topics:
+  - production-readiness
+fit: 2
 ---
 
 _Snapshot from 2025. Some tools and numbers have changed._

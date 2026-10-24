@@ -8,6 +8,8 @@ authors:
 tags:
   - guide
   - handbook
+type: company
+topic: company
 ---
 
 The request should follow this format in: Basecamp > Woodland > [Request](https://3.basecamp.com/4108948/buckets/9403032/todolists/1557155199)

@@ -6,6 +6,9 @@ redirect:
   - /0e46Cg
 authors:
   - neko-anon
+type: playbook
+topic: platform-ops
+fit: 2
 ---
 
 - [Monitoring](#monitoring)

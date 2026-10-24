@@ -10,6 +10,8 @@ tags:
   - handbook
   - meeting
 redirect: []
+type: company
+topic: company
 ---
 
 Meetings are a staple in our work, helping us share info and tackle issues. But let's be honest, they can easily become time-wasters if not run well. To make them productive, we need a clear process that gets straight to the point.

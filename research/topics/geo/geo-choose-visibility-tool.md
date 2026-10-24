@@ -10,6 +10,9 @@ tags:
   - tools
   - AI
 redirect: []
+type: research
+topic: knowledge-work
+fit: 2
 ---
 
 AI visibility tracking is no longer optional if you want your content to stay seen. But with new tools popping up every month, picking the right one can feel like a maze. Here’s how to navigate the options, what to look for, and how to avoid getting stuck with a tool that doesn’t fit your workflow.

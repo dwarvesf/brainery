@@ -7,6 +7,8 @@ tags:
   - blockchain
   - dapp
 redirect: []
+type: research
+topic: digital-assets
 ---
 
 ### DApps

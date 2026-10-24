@@ -6,6 +6,8 @@ date: 2026-10-18
 tags:
   - mbti
   - team-building
+type: research
+topic: engineering-practice
 ---
 
 The best practices to work with all MBTI types, ref from Atlassian

@@ -8,6 +8,9 @@ redirect:
   - /sTVhcA
 authors:
   - monotykamary
+type: research
+topic: knowledge-work
+fit: 2
 ---
 
 ## What is a question tree?

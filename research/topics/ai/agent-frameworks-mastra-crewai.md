@@ -26,6 +26,12 @@ announce: false
 series: ai-agent-frameworks
 series_part: 3
 series_total: 5
+type: writing
+form: analysis
+topic: ai-agents
+secondary_topics:
+  - architecture
+fit: 3
 ---
 
 Mastra and CrewAI sit at opposite ends of the style spectrum. Mastra gives TypeScript developers workflows, memory and tools that feel native to the web stack. CrewAI casts agents as members of a crew with roles, goals and tasks. This part walks through how each one defines an agent, coordinates work and handles memory, and who should reach for it.

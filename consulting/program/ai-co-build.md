@@ -10,6 +10,8 @@ tags:
   - collaboration
 redirect:
   - /xF6qEA
+type: company
+topic: company
 ---
 
 ## Join the Intelligence Age revolution

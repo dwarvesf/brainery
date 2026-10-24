@@ -15,6 +15,9 @@ minted_at: '2025-05-12'
 token_id: '5'
 redirect:
   - /9sKTBg
+type: company
+topic: company
+fit: 2
 ---
 
 ## Driven by purpose

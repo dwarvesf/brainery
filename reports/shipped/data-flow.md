@@ -16,6 +16,12 @@ tags:
 redirect:
   - /UC0Exw
 slug: playbook-data-flow
+type: report
+form: field
+topic: ai-agents
+secondary_topics:
+  - architecture
+fit: 3
 ---
 
 > **tl;dr**

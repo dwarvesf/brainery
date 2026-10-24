@@ -9,6 +9,9 @@ tags:
   - engineering
 redirect:
   - /E4NCgA
+type: research
+topic: engineering-practice
+fit: 2
 ---
 
 ![](assets/are-we-really-engineers_6cf3675a02ca90a8745a69479b359671_md5.webp)

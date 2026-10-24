@@ -13,6 +13,12 @@ redirect:
   - /culture/vetting-proven-talents
   - /unOZ9g
 slug: vetting-proven-talents
+type: writing
+form: essay
+topic: engineering-practice
+secondary_topics:
+  - applied-llm
+fit: 2
 ---
 
 ## Overview

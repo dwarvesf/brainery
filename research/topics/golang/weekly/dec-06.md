@@ -9,6 +9,9 @@ authors:
 tags:
   - go-weekly
   - golang
+type: research
+topic: languages
+series: golang-weekly
 ---
 
 ## [Draft Release Notes Go 1.24](https://tip.golang.org/doc/go1.24)

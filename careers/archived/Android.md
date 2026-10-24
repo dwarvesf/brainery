@@ -10,6 +10,8 @@ tags:
   - career
   - mobile
 redirect: []
+type: company
+topic: company
 ---
 
 ## About us

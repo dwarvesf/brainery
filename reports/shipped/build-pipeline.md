@@ -14,6 +14,11 @@ tags:
   - build-log
 redirect: []
 slug: build-pipeline
+type: report
+form: field
+topic: platform-ops
+series: memo-platform
+fit: 3
 ---
 
 The Memo platform uses a sophisticated pipeline to transform raw Markdown content into the final, published website. This process involves automated builds, data processing, and a suite of tools dedicated to ensuring content quality and consistency. This document outlines these key aspects.

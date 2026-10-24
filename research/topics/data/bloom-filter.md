@@ -11,6 +11,8 @@ tags:
   - data-structure
 redirect:
   - /RQEpfsM
+type: research
+topic: data
 ---
 
 ## What is Bloom filter?

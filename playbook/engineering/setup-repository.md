@@ -6,6 +6,9 @@ redirect:
   - /4LejNg
 authors:
   - neko-anon
+type: playbook
+topic: platform-ops
+fit: 2
 ---
 
 How we expect projects to be setup.

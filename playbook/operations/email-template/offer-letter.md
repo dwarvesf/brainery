@@ -12,6 +12,8 @@ tags:
   - operation
   - template
 redirect: []
+type: playbook
+topic: engineering-practice
 ---
 
 **Title**: Dwarves Foundation - Offer letter

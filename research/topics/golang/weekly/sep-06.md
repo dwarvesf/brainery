@@ -10,6 +10,9 @@ tags:
   - networking
   - go-weekly
   - golang
+type: research
+topic: languages
+series: golang-weekly
 ---
 
 ## [Script: Making it easy to write shell-like scripts in Go](https://github.com/bitfield/script)

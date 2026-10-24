@@ -12,6 +12,9 @@ redirect:
   - /consulting/case-study/sol
   - /rW7dkA
 slug: sol
+type: case-study
+topic: product-engineering
+fit: 2
 ---
 
 **Industry**\

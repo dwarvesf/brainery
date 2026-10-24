@@ -10,6 +10,10 @@ tags:
   - productivity
 redirect: []
 slug: high-performing-team
+type: writing
+form: essay
+topic: engineering-practice
+fit: 2
 ---
 
 Sustainable growth companies are built by teams of shining constellations rather than just several bright stars.

@@ -10,6 +10,8 @@ announce: false
 series: android-best-practices
 series_part: 2
 series_total: 3
+type: playbook
+topic: product-engineering
 ---
 
 This part covers how to shape the app itself: the choice between activities and fragments, a package layout, and the discipline for resources. Layout XML counts as code here, so the section on styles, colors and dimens is the longest. The guide dates from 2017 and Kotlin and Compose have since changed the picture; part 1 lists what has moved on.

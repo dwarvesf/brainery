@@ -12,6 +12,9 @@ tags:
 toc: true
 redirect:
   - /social-proof
+type: playbook
+topic: markets-strategy
+series: navigate
 ---
 
 > **tl;dr**  

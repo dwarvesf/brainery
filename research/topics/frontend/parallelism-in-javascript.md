@@ -13,6 +13,8 @@ tags:
   - javascript
 redirect:
   - /T7Gjkg
+type: research
+topic: product-engineering
 ---
 
 Most of applications nowadays are created with the aim to be on the web. JavaScript has become a mainstream programming language to support the direction. However, being designed as a single-threaded language doesn't give JavaScript the power to support heavyweight applications as when we talk about image/video processing, online games or even data mining. This naturally creates a demand to support Parallelism in the language.

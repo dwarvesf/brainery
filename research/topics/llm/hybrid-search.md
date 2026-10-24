@@ -12,6 +12,11 @@ tags:
   - evaluation
 redirect:
   - /QHqeGg
+type: research
+topic: applied-llm
+secondary_topics:
+  - data
+fit: 2
 ---
 
 ## Introduction

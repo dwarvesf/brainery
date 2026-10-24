@@ -18,6 +18,14 @@ token_id: '13'
 redirect:
   - /QsNXzQ
 slug: database-hardening-for-trading-platform
+type: report
+form: field
+topic: data
+secondary_topics:
+  - financial-systems
+  - production-readiness
+series: trading-platform-hardening
+fit: 2
 ---
 
 ## Introduction

@@ -13,6 +13,12 @@ tags:
 redirect:
   - /6tFQVg
 slug: building-data-pipeline-ogif-transcriber
+type: report
+form: field
+topic: ai-agents
+secondary_topics:
+  - data
+fit: 3
 ---
 
 At Dwarves, we faced the challenge of efficiently transcribing and summarizing our weekly OGIF event recordings for our Brainery knowledge hub. This required developing a scalable data pipeline capable of processing YouTube videos, extracting audio, and leveraging AI models for transcription.

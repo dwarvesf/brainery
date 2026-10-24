@@ -11,6 +11,8 @@ tags:
   - delivery
   - operation
 redirect: []
+type: playbook
+topic: company
 ---
 
 ## Why do we need artifacts?

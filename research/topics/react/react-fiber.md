@@ -10,6 +10,8 @@ tags:
   - engineering
   - react
 redirect: []
+type: research
+topic: product-engineering
 ---
 
 ### An introduction to React fiber

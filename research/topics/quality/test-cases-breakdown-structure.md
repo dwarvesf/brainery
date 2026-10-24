@@ -9,6 +9,9 @@ redirect:
   - /WCosNQ
 authors:
   - binhle59
+type: research
+topic: production-readiness
+fit: 2
 ---
 
 ## Note

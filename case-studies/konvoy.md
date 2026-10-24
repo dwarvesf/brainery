@@ -13,6 +13,9 @@ redirect:
   - /consulting/case-study/konvoy
   - /zOPkzQ
 slug: konvoy
+type: case-study
+topic: platform-ops
+fit: 3
 ---
 
 **Industry**\

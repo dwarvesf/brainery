@@ -7,6 +7,8 @@ redirect:
   - /yNlRiA
 authors:
   - tieubao
+type: research
+topic: engineering-practice
 ---
 
 The Pyramid Principle, popularized by McKinsey's Barbara Minto, is a framework for organizing information.

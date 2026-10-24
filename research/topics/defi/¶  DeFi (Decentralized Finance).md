@@ -9,6 +9,8 @@ tags:
   - blockchain
   - defi
 redirect: []
+type: research
+topic: digital-assets
 ---
 
 DeFi is an ecosystem of financial services built on Blockchain technologies, typically using [[Smart Contract]]. DeFi consists of applications and peer-to-peer protocols developed on decentralized blockchain networks that require no access rights for easy lending, borrowing, or trading of financial tools.

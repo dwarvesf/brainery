@@ -11,6 +11,10 @@ tags:
   - team-growth
   - navigate
 redirect: []
+type: playbook
+topic: markets-strategy
+series: navigate
+fit: 2
 ---
 
 ```tldr

@@ -9,6 +9,9 @@ tags:
   - devops
 redirect:
   - /aUmWYw
+type: research
+topic: platform-ops
+fit: 2
 ---
 
 _Snapshot from 2021. Some tools and numbers have changed._

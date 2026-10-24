@@ -11,6 +11,8 @@ tags:
   - handbook
 redirect:
   - /BlT8Iw
+type: program
+topic: company
 ---
 
 We run Dwarves as an open company/community.

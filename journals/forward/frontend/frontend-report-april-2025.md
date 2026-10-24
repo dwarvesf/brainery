@@ -11,6 +11,11 @@ authors:
   - hthai2201
 redirect: []
 slug: frontend-report-april-2025
+type: report
+form: market
+topic: product-engineering
+series: forward
+fit: 2
 ---
 
 ![](assets/frontend-report-202504.webp)

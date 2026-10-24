@@ -9,6 +9,8 @@ tags:
   - practice
 redirect:
   - /njm1vg
+type: research
+topic: engineering-practice
 ---
 
 ### Concept

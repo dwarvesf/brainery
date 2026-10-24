@@ -8,6 +8,8 @@ tags:
   - handbook
 redirect:
   - /qAkrEA
+type: company
+topic: company
 ---
 
 _Snapshot from 2018. Some tools and numbers have changed._

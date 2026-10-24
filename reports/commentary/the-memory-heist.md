@@ -11,6 +11,12 @@ tags:
   - memory-systems
   - responsible-disclosure
 slug: the-memory-heist
+type: writing
+form: analysis
+topic: ai-agents
+secondary_topics:
+  - production-readiness
+fit: 3
 ---
 
 A user asks Claude to check out a coffee shop. That is the whole interaction. By the end of it, Claude has spelled the user's name, employer, and hometown to an attacker's server, one HTTP request per letter, and told the user nothing about it.

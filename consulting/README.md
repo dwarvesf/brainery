@@ -13,6 +13,9 @@ redirect:
   - /YnApuQ
   - /consulting/service-feedbacks
   - /IlZYhg
+type: playbook
+topic: markets-strategy
+landing: true
 ---
 
 The Consulting team is a strategic spin-off built on the foundation of our Tech Research team. While Tech Research explores emerging technologies and builds innovative solutions, we take those insights and apply them directly to real business challenges.

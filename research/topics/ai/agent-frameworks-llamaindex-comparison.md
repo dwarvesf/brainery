@@ -26,6 +26,12 @@ announce: false
 series: ai-agent-frameworks
 series_part: 4
 series_total: 5
+type: writing
+form: analysis
+topic: ai-agents
+secondary_topics:
+  - architecture
+fit: 3
 ---
 
 LlamaIndex started as a data framework for retrieval and grew agent features on top. This part covers those, then closes the tour with a side-by-side comparison: what sets each framework apart, where each one is strong or weak, and how fast a team can build and scale with it. The comparison table covers the frameworks from parts 1 to 3 as well.

@@ -7,6 +7,8 @@ tags:
   - human-colossus
   - human-progress
   - innovation
+type: research
+topic: markets-strategy
 ---
 
 We evolved from blobs of cells that did nothing, to humans who learned to communicate with language to people who could mass produce books and share them across the world; at which point humanity became the **Human Colossus**, essentially one large organism with shared knowledge.

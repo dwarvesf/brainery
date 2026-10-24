@@ -13,6 +13,8 @@ redirect:
   - /misc/tokenomics/faq
   - /qFYdrQ
 slug: token-faq
+type: program
+topic: company
 ---
 
 ## Table of contents

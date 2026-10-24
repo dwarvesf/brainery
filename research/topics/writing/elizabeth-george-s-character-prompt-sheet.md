@@ -5,6 +5,8 @@ description: Discover Elizabeth George’s character development prompt sheet fr
 date: 2026-08-27
 authors:
   - tieubao
+type: research
+topic: knowledge-work
 ---
 
 In _Mastering the Process: From Idea to Novel_, Elizabeth George offers a prompt sheet that she uses to help her develop characters. The prompt sheet is a prompt, not a form; it should be used to prompt stream-of-consciousness freewriting about the character being considered. It's not intended as a rigid set of requirements.

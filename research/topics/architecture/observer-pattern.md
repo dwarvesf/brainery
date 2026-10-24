@@ -10,6 +10,8 @@ tags:
   - design-pattern
   - gang-of-four
 redirect: []
+type: research
+topic: architecture
 ---
 
 ![](assets/observer-pattern.webp)

@@ -14,6 +14,12 @@ tags:
 redirect:
   - /o6KGpg
 slug: implement-binance-future-pnl-analysis-page
+type: report
+form: field
+topic: digital-assets
+secondary_topics:
+  - financial-systems
+fit: 3
 ---
 
 As Binance doesn't allow Master Account see MSA account Future PNL Analysis, so we decide to clone Binance Future PNL Analysis page with Phoenix Live View to show all Account Future PNL

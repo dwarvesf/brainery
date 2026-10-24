@@ -9,6 +9,8 @@ tags:
   - design-pattern
   - gang-of-four
 redirect: []
+type: research
+topic: architecture
 ---
 
 ![Command pattern](assets/command-pattern_command-en-2x.webp)

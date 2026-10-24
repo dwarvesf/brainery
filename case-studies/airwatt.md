@@ -13,6 +13,11 @@ redirect:
   - /consulting/case-study/airwatt
   - /yjdh3g
 slug: airwatt
+type: case-study
+topic: product-engineering
+secondary_topics:
+  - applied-llm
+fit: 2
 ---
 
 **Industry**\

@@ -10,6 +10,8 @@ credit_url: "https://github.com/futurice/android-best-practices"
 series: android-best-practices
 series_part: 1
 series_total: 3
+type: playbook
+topic: product-engineering
 ---
 
 Avoid reinventing the wheel by following these guidelines.

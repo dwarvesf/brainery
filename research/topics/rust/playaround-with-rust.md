@@ -8,6 +8,8 @@ authors:
 tags:
   - rust
 redirect: []
+type: research
+topic: languages
 ---
 
 Mozilla intends to use Rust as a platform for prototyping experimental browser architectures.

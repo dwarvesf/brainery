@@ -9,6 +9,8 @@ tags:
   - design
 redirect:
   - /O4JEzg
+type: research
+topic: product-engineering
 ---
 
 Now having a Design system in place unites product teams around a common visual language, accelerates your design process ten-fold and gives you a strong foundation to build any project. Learn how you can create a design system and help your team improve product quality when increase the speed of your workflow.

@@ -16,6 +16,9 @@ redirect:
   - /YjK0eQ
   - /handbook/memo/memo-meeting
   - /9eELaA
+type: company
+topic: company
+landing: true
 ---
 
 Dwarves are a group of software engineers, designers, and innovation advocates. We serve a single purpose: To empower innovations and co-create the next big things.

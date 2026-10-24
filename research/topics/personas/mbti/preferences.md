@@ -6,6 +6,8 @@ date: 2026-08-27
 URL: "https://personalityjunkie.com/typology-101/#anchor1"
 tag: mbti, preferences
 redirect: []
+type: research
+topic: engineering-practice
 ---
 
 Why learn about Personality Type (PT)?

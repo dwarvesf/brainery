@@ -6,6 +6,8 @@ date: 2026-10-18
 tags:
   - developer
   - insight
+type: research
+topic: engineering-practice
 ---
 
 `to be a nerd is to be socially awkward`

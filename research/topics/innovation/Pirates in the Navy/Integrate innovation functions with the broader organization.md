@@ -9,6 +9,9 @@ tags:
   - innovation
   - organization
 redirect: []
+type: research
+topic: markets-strategy
+series: book-pirates-in-the-navy
 ---
 
 Organizations need to consider how innovation fits into their org chart, including defining clear career paths for innovators.

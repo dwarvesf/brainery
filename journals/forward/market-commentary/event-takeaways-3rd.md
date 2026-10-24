@@ -13,6 +13,13 @@ tags:
   - report
 redirect: []
 slug: event-takeaways-3rd
+type: report
+form: market
+topic: digital-assets
+secondary_topics:
+  - markets-strategy
+series: forward
+fit: 2
 ---
 
 Just wrapped up three crypto events that painted a pretty clear picture of where we're at right now. Here's what I saw on the ground.

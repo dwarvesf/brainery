@@ -11,6 +11,9 @@ tags:
   - creativity
   - productivity
   - design-thinking
+type: research
+topic: ai-agents
+fit: 2
 ---
 
 **AI handles the technical complexity, humans focus on the vibe.** This division of labor represents a fundamental shift in how we approach creative work, but also signals growing reliance on AI systems for basic functionality.

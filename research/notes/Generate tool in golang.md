@@ -8,6 +8,9 @@ tags:
   - golang
 redirect:
   - /iSaoBw
+type: research
+topic: languages
+fit: 2
 ---
 
 ### Story about generate a file

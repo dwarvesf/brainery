@@ -9,6 +9,9 @@ tags:
   - practice
 redirect:
   - /HZyIIQ
+type: research
+topic: data
+fit: 2
 ---
 
 ### Orm vs plain SQL

@@ -16,6 +16,12 @@ tags:
   - marketing-attribution-system
   - report
 toc: true
+type: writing
+form: analysis
+topic: architecture
+secondary_topics:
+  - data
+fit: 3
 ---
 
 ## System overview

@@ -7,6 +7,10 @@ tags:
   - habit-forming
   - product
 redirect: []
+type: research
+topic: engineering-practice
+secondary_topics:
+  - markets-strategy
 ---
 
 ## Definition

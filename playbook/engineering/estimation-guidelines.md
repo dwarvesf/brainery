@@ -12,6 +12,9 @@ tags:
   - internal
 redirect:
   - /XMuwcA
+type: playbook
+topic: markets-strategy
+fit: 2
 ---
 
 Below’s an example of an estimation table based on the matrix of complexity, uncertainty, and effort:

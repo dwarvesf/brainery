@@ -9,6 +9,9 @@ tags:
   - idea
   - innovation
 redirect: []
+type: research
+topic: markets-strategy
+series: book-where-good-ideas-come-from
 ---
 
 Organizations should optimize to be wrong, not right: they should look to invalidate as many ideas as they can. Limiting initial investments and spreading risk across many possible ideas helps “narrow the cone of uncertainty” and enables the organization to home in on the most impactful solution.

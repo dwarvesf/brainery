@@ -9,6 +9,9 @@ redirect:
   - /HIjFSQ
 authors:
   - thminhVN
+type: research
+topic: data
+fit: 2
 ---
 
 ## Introduction

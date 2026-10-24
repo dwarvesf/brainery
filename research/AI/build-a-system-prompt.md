@@ -9,6 +9,11 @@ tags:
 - "ai"
 - "mcp"
 - "system-prompt"
+type: research
+topic: applied-llm
+secondary_topics:
+  - ai-agents
+fit: 3
 ---
 ## Introduction
 

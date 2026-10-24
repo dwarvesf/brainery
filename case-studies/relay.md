@@ -14,6 +14,9 @@ redirect:
   - /consulting/case-study/relay
   - /SZG44Q
 slug: relay
+type: case-study
+topic: product-engineering
+fit: 2
 ---
 
 > "The context changes. We change accordingly." That was Relay's product owner, Hetong, on the brief.

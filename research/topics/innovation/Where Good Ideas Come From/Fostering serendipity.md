@@ -8,6 +8,9 @@ authors:
 tags:
   - innovation
 redirect: []
+type: research
+topic: markets-strategy
+series: book-where-good-ideas-come-from
 ---
 
 According to Steven Johnson, the word “serendipity” comes from to us from a Persian fairy tale, by way of Horace Walpole. Walpole described in a letter how the protagonists in the fairy tale made discoveries “by accident and sagacity, of things they were not in quest of.” There is power in allowing yourself to veer off the beaten path and following ideas where they lead you.

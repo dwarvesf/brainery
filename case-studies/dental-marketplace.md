@@ -13,6 +13,9 @@ redirect:
   - /consulting/case-study/dental-marketplace
   - /NnQxNQ
 slug: dental-marketplace
+type: case-study
+topic: product-engineering
+fit: 2
 ---
 
 **Industry**\

@@ -14,6 +14,11 @@ redirect:
   - /consulting/case-study/voconic
   - /X3tQAQ
 slug: voconic
+type: case-study
+topic: product-engineering
+secondary_topics:
+  - platform-ops
+fit: 2
 ---
 
 **Industry**\

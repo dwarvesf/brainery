@@ -10,6 +10,13 @@ tags:
   - ci-cd
   - ai
 redirect: []
+type: report
+form: field
+topic: platform-ops
+secondary_topics:
+  - ai-agents
+series: build-log
+fit: 3
 ---
 
 Our platform monorepo deploys about twenty Cloudflare Workers out of one repository, in one pipeline run, from a manually dispatched GitHub Actions workflow. We added a GitHub Release per production deploy so there would be a durable record of what shipped. Within about half a day the Releases tab had four entries covering roughly two distinct revisions, and we deleted them by hand.

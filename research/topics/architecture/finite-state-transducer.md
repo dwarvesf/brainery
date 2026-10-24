@@ -5,6 +5,8 @@ description: Learn what a finite-state transducer is, its mathematical model, an
 date: 2022-06-28
 github_id: monotykamary
 redirect: []
+type: research
+topic: architecture
 ---
 
 ## What is finite-state transducer?

@@ -9,6 +9,8 @@ redirect:
   - /xUhOSA
 authors:
   - neko-anon
+type: company
+topic: company
 ---
 
 ## About Dwarves consulting

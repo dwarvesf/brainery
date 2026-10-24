@@ -11,6 +11,11 @@ tags:
   - build-log
 redirect: []
 slug: memo-architecture
+type: report
+form: field
+topic: architecture
+series: memo-platform
+fit: 3
 ---
 
 In designing the Dwarves Memo, a key goal was to **minimize maintenance costs**. In software development and operations, these costs can accumulate significantly over time, encompassing everything from debugging and updates to server upkeep and dependency management. Our tech stack selection and architectural choices were made with this in mind, aiming for a lean, efficient, and sustainable system.

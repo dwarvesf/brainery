@@ -12,6 +12,9 @@ redirect:
   - /consulting/case-study/swift
   - /uwYQxw
 slug: swift
+type: case-study
+topic: product-engineering
+fit: 2
 ---
 
 **Industry**\

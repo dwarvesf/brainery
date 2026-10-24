@@ -14,6 +14,9 @@ redirect:
   - /consulting/case-study/droppii
   - /rVcCnw
 slug: droppii
+type: case-study
+topic: product-engineering
+fit: 2
 ---
 
 **Industry**\

@@ -13,6 +13,8 @@ tags:
   - zookeeper
 redirect:
   - /Ue22pw
+type: research
+topic: engineering-practice
 ---
 
 Update (2026): the removal described here has shipped. [Apache Kafka 4.0](https://kafka.apache.org/blog/2025/03/18/apache-kafka-4.0.0-release-announcement/) is the first major release to run entirely without ZooKeeper, and KRaft is now the only mode. The [4.0 upgrade guide](https://kafka.apache.org/40/getting-started/upgrade/) says "Apache Kafka 4.0 only supports KRaft mode - ZooKeeper mode has been removed", so clusters still on ZooKeeper must be migrated to KRaft before they can move to 4.0. Read the sentences below that say Kafka "continues to rely on" Zookeeper as describing the pre-4.0 state.

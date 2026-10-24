@@ -11,6 +11,8 @@ tags:
   - html
 redirect:
   - /bdkG1A
+type: research
+topic: product-engineering
 ---
 
 ## Website accessibility

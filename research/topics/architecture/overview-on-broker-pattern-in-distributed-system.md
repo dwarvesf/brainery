@@ -9,6 +9,8 @@ tags:
   - distributed
 redirect:
   - /8gOaVo
+type: research
+topic: architecture
 ---
 
 ## Definition

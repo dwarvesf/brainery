@@ -11,6 +11,9 @@ tags:
   - hsl
 redirect:
   - /elx7QA
+type: research
+topic: product-engineering
+fit: 2
 ---
 
 Frontend engineers use Hexadecimal color codes to represent colors, but they have some limitations:

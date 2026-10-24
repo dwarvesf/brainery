@@ -11,6 +11,11 @@ tags:
   - market-report
 redirect: []
 slug: frontend-report-march-2025
+type: report
+form: market
+topic: product-engineering
+series: forward
+fit: 2
 ---
 
 ![](assets/frontend-report-202503.png)

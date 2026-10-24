@@ -11,6 +11,10 @@ tags:
   - product
 redirect:
   - /o0aZOA
+type: research
+topic: engineering-practice
+secondary_topics:
+  - markets-strategy
 ---
 
 ## What is #buildinpublic

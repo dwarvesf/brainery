@@ -6,6 +6,9 @@ redirect:
   - /tzJoDw
 authors:
   - neko-anon
+type: playbook
+topic: engineering-practice
+fit: 2
 ---
 
 This is the checklist for our handover process. When a new person joins a project, project members are changed, or project is moved to another team, a

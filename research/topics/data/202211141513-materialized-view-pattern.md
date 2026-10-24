@@ -13,6 +13,8 @@ tags:
   - materialized-view
 redirect:
   - /xgpj8Q
+type: research
+topic: data
 ---
 
 **Materialized view pattern**

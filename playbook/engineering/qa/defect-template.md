@@ -6,6 +6,8 @@ redirect:
   - /gQk3hg
 authors:
   - neko-anon
+type: playbook
+topic: production-readiness
 ---
 
 ### Summary

@@ -9,6 +9,9 @@ authors:
 tags:
   - go-weekly
   - golang
+type: research
+topic: languages
+series: golang-weekly
 ---
 
 ## [Prep: Golang comptime. Pure blasphemy](https://github.com/pijng/prep)

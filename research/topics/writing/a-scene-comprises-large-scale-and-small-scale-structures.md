@@ -7,6 +7,8 @@ redirect:
   - /rWcN8Q
 authors: []
 credit: David Drysdale (Moby Diction)
+type: research
+topic: knowledge-work
 ---
 
 A well-crafted scene comprises both a large-scale structure and a small-scale structure.

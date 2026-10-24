@@ -13,6 +13,12 @@ tags:
   - culture
   - refactoring
   - ai
+type: research
+topic: production-readiness
+secondary_topics:
+  - architecture
+  - applied-llm
+fit: 2
 ---
 
 **Every developer has been there:** you join a new team, open the codebase, and immediately question your life choices. The code is messy, poorly documented, and nobody knows why that critical module works the way it does. Welcome to the world of legacy code.

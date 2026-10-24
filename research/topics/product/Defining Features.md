@@ -11,6 +11,10 @@ tags:
   - product
 redirect:
   - /IXMQww
+type: research
+topic: engineering-practice
+secondary_topics:
+  - markets-strategy
 ---
 
 This phase usually happens after the MVP stage. Once the idea is validated as an early version, product owners tend to get overwhelmed with feature request and nubmers of way to develop the next highlight.

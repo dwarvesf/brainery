@@ -11,6 +11,8 @@ announce: false
 series: self-balancing-trees
 series_part: 2
 series_total: 3
+type: research
+topic: data
 ---
 
 A binary search tree keeps its keys in order, so search, insertion and deletion cost O(h), where h is the height of the tree. This part uses a runway-reservation problem to show why that ordering helps, then shows why the height must stay near log n and what a balancing scheme has to guarantee. It assumes the vocabulary from part 1.

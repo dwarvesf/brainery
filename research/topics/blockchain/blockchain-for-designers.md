@@ -10,6 +10,11 @@ tags:
   - design
 redirect:
   - /ak9kiA
+type: research
+topic: digital-assets
+secondary_topics:
+  - product-engineering
+fit: 2
 ---
 
 ## Intro

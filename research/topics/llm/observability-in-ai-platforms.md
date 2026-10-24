@@ -9,6 +9,10 @@ tags:
   - observability
   - llm
 redirect: []
+type: research
+topic: applied-llm
+secondary_topics:
+  - platform-ops
 ---
 
 ## Introduction

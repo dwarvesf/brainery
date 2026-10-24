@@ -10,6 +10,11 @@ pinned: true
 tags:
   - make
   - breakdown
+type: writing
+form: analysis
+topic: ai-agents
+series: breakdown
+landing: true
 ---
 
 We believe that true understanding comes from building things ourselves. If we cannot recreate something, we probably do not understand it as well as we think. This principle shapes how we approach technology and learning across our woodland.

@@ -6,6 +6,8 @@ date: 2026-10-18
 tags:
   - blockchain
   - defi
+type: research
+topic: digital-assets
 ---
 
 ### Uniswap

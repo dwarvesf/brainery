@@ -8,6 +8,8 @@ tags:
   - open-source
 redirect:
   - /HaECDQ
+type: playbook
+topic: engineering-practice
 ---
 
 > Note (October 2026): this post describes the process in 2016 and the commands have changed since. What to use today:

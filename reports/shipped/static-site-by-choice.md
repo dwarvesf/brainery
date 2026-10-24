@@ -12,6 +12,11 @@ tags:
   - build-log
 redirect: []
 slug: static-site-by-choice
+type: report
+form: field
+topic: architecture
+series: memo-platform
+fit: 3
 ---
 
 The Memo web application is built using Next.js. We opted for a static site architecture coupled with dynamic rendering to provide a seamless user experience, complete with powerful search and navigation features.

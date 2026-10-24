@@ -11,6 +11,8 @@ tags:
   - prompt
 redirect:
   - /RqYHUg
+type: research
+topic: applied-llm
 ---
 
 ## The problem with prompt engineering

@@ -7,6 +7,8 @@ tags:
   - microservice
   - pattern
 redirect: []
+type: research
+topic: architecture
 ---
 
 The saga design pattern is a way to manage data consistency across microservices in distributed transaction scenarios.

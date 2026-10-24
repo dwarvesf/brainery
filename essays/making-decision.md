@@ -10,6 +10,10 @@ tags:
   - process
 redirect: []
 slug: making-decision
+type: writing
+form: essay
+topic: engineering-practice
+fit: 2
 ---
 
 ## Democracy in a nutshell

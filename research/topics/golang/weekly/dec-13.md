@@ -9,6 +9,9 @@ authors:
 tags:
   - go-weekly
   - golang
+type: research
+topic: languages
+series: golang-weekly
 ---
 
 ## [Coming in Go 1.24: testing/synctest experiment for time and concurrency testing](https://danp.net/posts/synctest-experiment/)

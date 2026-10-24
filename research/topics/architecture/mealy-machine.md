@@ -5,6 +5,8 @@ description: Learn what a Mealy machine is, its mathematical model, and how it d
 date: 2022-06-28
 github_id: monotykamary
 redirect: []
+type: research
+topic: architecture
 ---
 
 ## What is a Mealy machine?

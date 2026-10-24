@@ -4,7 +4,7 @@ description: "How the brainery vault is organized: one axis per folder, what eac
 date: 2026-08-21
 ---
 
-One axis per folder. A second classification goes in frontmatter (`tags`, `series`), never a new folder. A series is `series: <kebab-slug>` plus `series_part: N` on each part; editors may also define one in the site code. URL identity = frontmatter `slug` (flat, unique vault-wide); the folder is storage and nav only.
+One axis per folder. A second classification goes in frontmatter (`tags`, `series`), never a new folder. A series is `series: <kebab-slug>` plus `series_part: N` on each part; the slug must be in the site's series registry. Site placement is frontmatter too: `type`, `form`, `topic`, `secondary_topics`, `fit`, `landing` (values and defaults: handbook/memo/contribute-to-memo.md, "Place the post"). URL identity = frontmatter `slug` (flat, unique vault-wide); the folder is storage and nav only.
 
 ## Registers
 

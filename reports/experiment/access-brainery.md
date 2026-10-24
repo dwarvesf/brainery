@@ -19,6 +19,12 @@ tags:
 redirect:
   - /ux12bw
 slug: access-brainery
+type: writing
+form: puzzle
+topic: knowledge-work
+secondary_topics:
+  - ai-agents
+fit: 2
 ---
 
 > **tl;dr**

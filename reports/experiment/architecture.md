@@ -18,6 +18,12 @@ tags:
 redirect:
   - /HnEsBQ
 slug: brainery-architecture
+type: writing
+form: puzzle
+topic: knowledge-work
+secondary_topics:
+  - architecture
+fit: 2
 ---
 
 > **tl;dr**

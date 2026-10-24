@@ -9,6 +9,8 @@ tags:
   - career
 redirect:
   - /T9JYgw
+type: company
+topic: company
 ---
 
 > We're like-minded teammates who pursue ambitious goals with tech culture and codes of conduct.

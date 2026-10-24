@@ -10,6 +10,8 @@ tags:
   - llm
 redirect:
   - /MCCOBg
+type: research
+topic: applied-llm
 ---
 
 ## Understanding quantization

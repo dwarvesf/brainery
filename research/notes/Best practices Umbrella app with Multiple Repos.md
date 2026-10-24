@@ -7,6 +7,11 @@ tags:
   - elixir
 redirect:
   - /rHzHIQ
+type: research
+topic: languages
+secondary_topics:
+  - architecture
+fit: 2
 ---
 
 ## Brief

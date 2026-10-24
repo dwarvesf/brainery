@@ -14,6 +14,11 @@ redirect:
   - /consulting/case-study/hedge-foundation
   - /zgltuw
 slug: hedge-foundation
+type: case-study
+topic: financial-systems
+secondary_topics:
+  - digital-assets
+fit: 3
 ---
 
 **Industry**\

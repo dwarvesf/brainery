@@ -17,6 +17,13 @@ tags:
   - architecture
   - python
 toc: true
+type: writing
+form: analysis
+topic: ai-agents
+secondary_topics:
+  - applied-llm
+  - architecture
+fit: 3
 ---
 
 ![](assets/zen-mcp-cheatsheet.png)

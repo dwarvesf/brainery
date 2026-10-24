@@ -12,6 +12,9 @@ tags:
   - htmx
 redirect:
   - /3ZSGXg
+type: research
+topic: product-engineering
+fit: 2
 ---
 
 ## What is HTMX

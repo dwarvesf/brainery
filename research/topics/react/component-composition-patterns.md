@@ -10,6 +10,8 @@ tags:
   - react
 redirect:
   - /jiMSZw
+type: research
+topic: product-engineering
 ---
 
 Component composition patterns are foundational for creating scalable, flexible, and reusable React components. They allow us to build UIs by combining smaller, single-purpose components in various ways.

@@ -6,6 +6,8 @@ redirect:
   - /6v6jrw
 authors:
   - neko-anon
+type: playbook
+topic: engineering-practice
 ---
 
 ## What is user story?

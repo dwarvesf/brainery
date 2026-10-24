@@ -11,6 +11,8 @@ tags:
   - web-design
 redirect:
   - /LhTJuw
+type: research
+topic: product-engineering
 ---
 
 ## Infinite scroll - benefits and challenges

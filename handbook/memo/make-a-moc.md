@@ -9,6 +9,8 @@ tags:
   - moc
 redirect:
   - /W4vj0Q
+type: company
+topic: company
 ---
 
 This memo explains how to create a Map of Content (MOC) for our knowledge hubs. The concept was introduced by Nick Milo, who also runs courses on [Linking Your Thinking](https://www.linkingyourthinking.com/learn-more).

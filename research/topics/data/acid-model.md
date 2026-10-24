@@ -8,6 +8,8 @@ redirect:
   - /HWltPQ
 authors:
   - monotykamary
+type: research
+topic: data
 ---
 
 ## What is the ACID model?

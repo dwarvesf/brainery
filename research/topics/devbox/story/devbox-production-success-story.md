@@ -11,6 +11,11 @@ tags:
   - nix
 redirect:
   - /6P3Y8A
+type: report
+form: field
+topic: platform-ops
+series: devbox
+fit: 3
 ---
 
 Remember when setting up a new project felt like assembling IKEA furniture blindfolded? Yeah, those days are over. Here's how Devbox revolutionized our workflow, from dev to production.

@@ -8,6 +8,10 @@ redirect:
   - /wubE6w
 authors:
   - monotykamary
+type: research
+topic: architecture
+secondary_topics:
+  - product-engineering
 ---
 
 _This note refers to frontend reducers, and not to be confused with other reducers like from MapReduce._

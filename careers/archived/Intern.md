@@ -9,6 +9,8 @@ show_frontmatter: true
 tags:
   - career
   - internship
+type: company
+topic: company
 ---
 
 ## The program

@@ -11,6 +11,11 @@ tags:
   - use-cases
 redirect: []
 slug: salesforce-ai-use-cases
+type: writing
+form: analysis
+topic: applied-llm
+secondary_topics:
+  - ai-agents
 ---
 
 ## Salesforce agentforce platform

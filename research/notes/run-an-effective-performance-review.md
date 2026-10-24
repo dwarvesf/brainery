@@ -10,6 +10,9 @@ tags:
   - team
 redirect:
   - /RNziNw
+type: research
+topic: engineering-practice
+fit: 2
 ---
 
 ### Performance review

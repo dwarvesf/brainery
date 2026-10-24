@@ -10,6 +10,10 @@ tags:
   - blockchain
 redirect:
   - /kAJQFA
+type: research
+topic: digital-assets
+secondary_topics:
+  - architecture
 ---
 
 ## What is Hyperledger

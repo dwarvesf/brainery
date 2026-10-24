@@ -10,6 +10,8 @@ tags:
   - software-design
 redirect:
   - /kKNTjA
+type: research
+topic: architecture
 ---
 
 ![](assets/c4-modelling.pdf)

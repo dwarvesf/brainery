@@ -9,6 +9,8 @@ tags:
   - operation
   - people
 redirect: []
+type: playbook
+topic: company
 ---
 
 ## Email

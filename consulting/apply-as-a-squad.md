@@ -10,6 +10,8 @@ tags:
   - sales
 redirect:
   - /uUxutw
+type: playbook
+topic: markets-strategy
 ---
 
 > **tl;dr**

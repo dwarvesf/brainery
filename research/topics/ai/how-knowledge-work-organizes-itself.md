@@ -13,6 +13,11 @@ tags:
   - compression-fidelity
   - cognitive-labor
 toc: true
+type: research
+topic: ai-agents
+secondary_topics:
+  - knowledge-work
+fit: 2
 ---
 
 ## It is what it is

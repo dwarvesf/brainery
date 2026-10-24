@@ -14,6 +14,9 @@ redirect:
   - /consulting/case-study/icrosschain
   - /7qt7zw
 slug: icrosschain
+type: case-study
+topic: digital-assets
+fit: 3
 ---
 
 **Industry**\

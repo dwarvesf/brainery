@@ -11,6 +11,8 @@ tags:
   - engineering
 redirect:
   - /ZV0qWw
+type: research
+topic: engineering-practice
 ---
 
 <!-- table_of_contents a2f93f20-d45e-4906-92a7-66296b684356 -->

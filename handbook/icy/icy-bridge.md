@@ -11,6 +11,8 @@ tags:
   - icy
   - tutorial
 redirect: []
+type: program
+topic: company
 ---
 
 \$DFG is a token that represents the shares of Dwarves Foundation for Dwarves and active contributors of our communitiy. Dwarves team introduced a [program](stake-dfg-and-earn.md) to help \$DFG holders earn \$USDC from staking \$DFG on Base. However, the orgin \$DFG is on Ethereum Network, which means to stake \$DFG and earn reward, \$DFG holders need to move \$DFG from Ethereum to Base using a bridge.

@@ -11,6 +11,12 @@ tags:
 redirect:
   - /zgugkQ
 slug: discord-mcp-bot
+type: report
+form: field
+topic: ai-agents
+secondary_topics:
+  - architecture
+fit: 2
 ---
 
 diagram

@@ -7,4 +7,6 @@ authors:
   - tieubao
 tags:
   - handbook
+type: company
+topic: company
 ---

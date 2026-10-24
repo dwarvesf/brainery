@@ -8,6 +8,9 @@ tags:
   - elixir
 redirect:
   - /PbhRfw
+type: research
+topic: languages
+fit: 2
 ---
 
 ### Fire and forget

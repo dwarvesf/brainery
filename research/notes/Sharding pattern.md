@@ -6,6 +6,10 @@ date: 2026-10-18
 tags:
   - pattern
 redirect: []
+type: research
+topic: architecture
+secondary_topics:
+  - data
 ---
 
 ### What

@@ -9,6 +9,9 @@ tags:
   - git
 redirect:
   - /QEGs4w
+type: research
+topic: platform-ops
+fit: 2
 ---
 
 ![](assets/gitflow-pull-request_0150827f46aae013c7fa3a68c509e812_md5.webp)

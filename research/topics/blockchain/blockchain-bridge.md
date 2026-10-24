@@ -12,6 +12,8 @@ tags:
   - web3
 redirect:
   - /PJqkBw
+type: research
+topic: digital-assets
 ---
 
 ![](assets/blockchain-bridge_blockruption-blockchain-300h.webp)

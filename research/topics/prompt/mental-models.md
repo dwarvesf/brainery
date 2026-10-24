@@ -12,6 +12,9 @@ tags:
   - prompting
   - thinking-tools
   - decision-making
+type: research
+topic: applied-llm
+fit: 2
 ---
 
 **Mental models are thinking frameworks that can dramatically improve your prompting effectiveness by helping you structure problems and guide AI reasoning.**

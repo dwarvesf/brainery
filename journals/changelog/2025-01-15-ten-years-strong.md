@@ -14,6 +14,8 @@ tags:
 redirect:
   - /bgm05w
 slug: changelog-2025-01-15-ten-years-strong
+type: company
+topic: company
 ---
 
 > "Not so many tech companies could last this long" - and yet here we are, ten years later, stronger and more innovative than ever.

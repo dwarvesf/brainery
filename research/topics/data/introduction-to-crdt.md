@@ -14,6 +14,8 @@ tags:
   - data-structures
 redirect:
   - /qXYdhA
+type: research
+topic: data
 ---
 
 ## What is CRDT?

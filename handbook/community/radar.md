@@ -11,6 +11,8 @@ tags:
   - handbook
 redirect:
   - /7mcyAA
+type: company
+topic: company
 ---
 
 ## The dwarves tech radar program

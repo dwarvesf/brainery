@@ -10,6 +10,10 @@ tags:
   - technology-cycles
   - market-analysis
 redirect: []
+type: writing
+form: essay
+topic: markets-strategy
+series: navigate
 ---
 
 ```tldr

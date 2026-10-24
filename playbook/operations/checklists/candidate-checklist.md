@@ -11,6 +11,8 @@ tags:
   - hiring
   - operation
 redirect: []
+type: playbook
+topic: company
 ---
 
 ### Background & skills

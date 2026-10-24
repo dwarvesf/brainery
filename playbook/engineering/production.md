@@ -4,6 +4,10 @@ title: Production checklist
 description: A checklist to run before a service goes to production, covering deployment, config, backups, logging and error tracking.
 date: 2026-08-27
 redirect: []
+type: playbook
+topic: platform-ops
+secondary_topics:
+  - production-readiness
 ---
 
 Related pages: [Logging system](log.md), [Application health checks and status pages](monitoring.md).

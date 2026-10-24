@@ -9,6 +9,9 @@ tags:
   - writing
   - zettelkasten
 redirect: []
+type: research
+topic: knowledge-work
+series: book-how-to-take-smart-notes
 ---
 
 The principle of atomicity is a governing idea of the #Zettelkasten method of notetaking and knowledge management.

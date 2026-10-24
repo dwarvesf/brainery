@@ -15,6 +15,10 @@ tags:
   - decision-making
 toc: true
 redirect: []
+type: playbook
+topic: markets-strategy
+series: navigate
+fit: 2
 ---
 
 ```tldr

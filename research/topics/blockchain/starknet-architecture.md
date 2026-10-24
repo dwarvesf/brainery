@@ -13,6 +13,8 @@ tags:
   - zk-rollup
 redirect:
   - /KqI5Xg
+type: research
+topic: digital-assets
 ---
 
 _Snapshot from 2022. Some tools and numbers have changed._

@@ -11,6 +11,8 @@ announce: false
 series: mapreduce-components
 series_part: 2
 series_total: 2
+type: research
+topic: data
 ---
 
 Part 1 followed a job through input split, map and reduce. This part covers what happens between map and reduce: the shuffle phase, which moves map output to the right reducers, and the combiner, which shrinks that output before it travels.

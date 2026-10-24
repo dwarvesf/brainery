@@ -11,6 +11,8 @@ tags:
   - productivity
 redirect:
   - /uOW2tw
+type: playbook
+topic: markets-strategy
 ---
 
 ## AARRR framework

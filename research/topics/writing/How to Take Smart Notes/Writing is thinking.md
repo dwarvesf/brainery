@@ -8,6 +8,9 @@ tags:
   - writing
   - zettelkasten
 redirect: []
+type: research
+topic: knowledge-work
+series: book-how-to-take-smart-notes
 ---
 
 Rather than the result of thinking, writing _is_ thinking. Translating the ideas of others into _one's own words_ forces deep consideration of what is being said, and thinking through any contradictions, gaps in logic, or elisions in the text.

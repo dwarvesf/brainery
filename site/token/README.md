@@ -13,6 +13,9 @@ redirect:
   - /misc/tokenomics
   - /vuw1228
 slug: token
+type: program
+topic: company
+landing: true
 ---
 
 This collection covers everything from high-level vision to technical implementation details. Start with the whitepaper for context, then dive into specific areas based on your interests.

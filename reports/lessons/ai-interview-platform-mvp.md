@@ -14,6 +14,10 @@ token_id: 15
 redirect:
   - /kurbSw
 slug: ai-interview-platform-mvp
+type: report
+form: field
+topic: applied-llm
+fit: 3
 ---
 
 Our engineering team collaborated with a confidential HRTech client to create an **MVP** for AI-based, real-time voice interviews. Built in just **two weeks** to validate the concept, the solution leverages advanced **AI** and **AI voice processing** to conduct sales-specific interviews. Despite the short development timeline, the initial results have been very promising.

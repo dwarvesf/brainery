@@ -14,6 +14,9 @@ tags:
   - abstraction-hierarchy
   - compression-fidelity
 toc: true
+type: research
+topic: ai-agents
+fit: 2
 ---
 
 ## The cognitive continuum

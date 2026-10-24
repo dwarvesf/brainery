@@ -17,6 +17,8 @@ redirect:
   - /hsCvig
   - /careers/apprentice/2022/2022-meet-ngoc-thanh-pham
   - /doFsXg
+type: program
+topic: company
 ---
 
 ![Dwarves Foundation Apprenticeship program banner showing a group of apprentices](assets/apprenticeship-banner.webp)

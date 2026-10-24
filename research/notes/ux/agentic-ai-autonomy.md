@@ -9,6 +9,11 @@ tags:
   - agentic-ai
 authors:
   - bringastar
+type: research
+topic: ai-agents
+secondary_topics:
+  - product-engineering
+fit: 2
 ---
 
 ![](../assets/autonomy-automation.webp)

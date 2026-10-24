@@ -13,6 +13,9 @@ redirect:
   - /consulting/case-study/attrace
   - /l0RoyQ
 slug: attrace
+type: case-study
+topic: digital-assets
+fit: 3
 ---
 
 **Industry**\

@@ -8,6 +8,8 @@ redirect:
   - /ruz1fA
 authors:
   - trkhoi
+type: research
+topic: engineering-practice
 ---
 
 ## Definition of software quality assurance

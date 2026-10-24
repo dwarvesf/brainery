@@ -10,6 +10,8 @@ announce: false
 series: ios-best-practices
 series_part: 3
 series_total: 4
+type: playbook
+topic: product-engineering
 ---
 
 This part covers how to keep an iOS codebase readable, safe and observable: naming and structure, security basics for data, networking and logging, the diagnostic tools Xcode ships, and analytics with crash logs. It is a snapshot from 2015. Some tools named here have changed, and part 1 explains how.

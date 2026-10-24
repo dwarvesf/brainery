@@ -9,6 +9,8 @@ tags:
   - zettelkasten
 redirect:
   - /ds43aA
+type: research
+topic: knowledge-work
 ---
 
 Permanent notes are not intended just for the [[¶ Collector's Fallacy | collection of ideas]]; instead, they help us develop ideas.

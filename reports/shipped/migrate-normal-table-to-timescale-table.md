@@ -14,6 +14,14 @@ tags:
 redirect:
   - /B4E90Q
 slug: migrate-normal-table-to-timescale-table
+type: report
+form: field
+topic: data
+secondary_topics:
+  - financial-systems
+  - digital-assets
+series: trading-platform-hardening
+fit: 2
 ---
 
 Due to increasing trading volume, the `user_trades` and `incomes` tables have grown significantly, causing slower performance in our reporting queries. To address this, we propose migrating these tables to TimescaleDB, which will allow us to partition the data into time-based chunks. This partitioning strategy should optimize our report query performance.

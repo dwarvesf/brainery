@@ -10,6 +10,8 @@ tags:
   - learning
 redirect:
   - /DzRHjQ
+type: company
+topic: company
 ---
 
 _Snapshot from 2021. Some tools and numbers have changed._

@@ -18,6 +18,13 @@ tags:
 redirect:
   - /vprqtA
 slug: brainery-use-cases
+type: writing
+form: puzzle
+topic: knowledge-work
+secondary_topics:
+  - applied-llm
+  - data
+fit: 2
 ---
 
 > **tl;dr**

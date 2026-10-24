@@ -10,6 +10,9 @@ tags:
   - networking
   - go-weekly
   - golang
+type: research
+topic: languages
+series: golang-weekly
 ---
 
 ## [Go features by version](https://antonz.org/which-go/)

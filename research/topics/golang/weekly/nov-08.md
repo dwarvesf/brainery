@@ -9,6 +9,11 @@ authors:
 tags:
   - go-weekly
   - golang
+type: research
+topic: production-readiness
+secondary_topics:
+  - languages
+series: golang-weekly
 ---
 
 ## [Writing secure Go code](https://jarosz.dev/article/writing-secure-go-code/)

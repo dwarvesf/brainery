@@ -8,6 +8,8 @@ tags:
   - "101"
   - engineering
   - syllabus
+type: research
+topic: applied-llm
 ---
 
 ## Deep learning

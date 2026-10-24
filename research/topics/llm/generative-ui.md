@@ -12,6 +12,10 @@ tags:
   - generative-ui
 redirect:
   - /fpcBoQ
+type: research
+topic: applied-llm
+secondary_topics:
+  - product-engineering
 ---
 
 ## What is generative UI?

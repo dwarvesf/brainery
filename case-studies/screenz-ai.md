@@ -14,6 +14,9 @@ redirect:
   - /consulting/case-study/screenz-ai
   - /FpPJZw
 slug: screenz-ai
+type: case-study
+topic: product-engineering
+fit: 2
 ---
 
 **Industry**

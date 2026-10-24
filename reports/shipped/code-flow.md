@@ -19,6 +19,12 @@ tags:
 redirect:
   - /fI5q0A
 slug: playbook-code-flow
+type: report
+form: field
+topic: architecture
+secondary_topics:
+  - ai-agents
+fit: 3
 ---
 
 > **tl;dr**

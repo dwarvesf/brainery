@@ -9,6 +9,8 @@ tags:
   - error-handling
   - rust
 redirect: []
+type: research
+topic: languages
 ---
 
 ## **Introduction**

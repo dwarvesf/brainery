@@ -6,6 +6,8 @@ date: 2026-08-27
 authors:
   - tieubao
 redirect: []
+type: research
+topic: knowledge-work
 ---
 
 Literature notes are notes that record anything from a text that you might want to use later. They should accurately and faithfully reflect the work you are consuming, but translate the ideas into new words to help facilitate better understanding.

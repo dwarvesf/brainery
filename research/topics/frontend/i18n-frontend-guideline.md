@@ -12,6 +12,9 @@ tags:
   - web
 redirect:
   - /COklGg
+type: research
+topic: product-engineering
+fit: 2
 ---
 
 ![](assets/i18n-frontend-guideline_0d5e0a2c5a795b96f65caa5b7a360578_md5.webp)

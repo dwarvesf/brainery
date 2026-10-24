@@ -11,6 +11,11 @@ tags:
   - supervisor-architecture
 redirect:
   - /oOn8mQ
+type: research
+topic: ai-agents
+secondary_topics:
+  - applied-llm
+fit: 2
 ---
 
 ## Introduction

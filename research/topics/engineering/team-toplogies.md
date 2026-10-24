@@ -8,6 +8,8 @@ redirect:
   - /qJZZ9g
 authors:
   - zlatanpham
+type: research
+topic: engineering-practice
 ---
 
 Many organizations experience problems with software delivery because they have an unhelpful model of what software development is really about. An obsession with “feature delivery” ignores human-related and team-related dynamics inherent in modern software development, leading to disengagement from staff, especially when there are high cognitive loads.

@@ -16,6 +16,10 @@ guest_scope: "gn-designing-out-snap-fraud"
 mirrored_at: 2026-10-09
 last_checked: 2026-10-12
 rights: "Republished with the writer's consent; the original is the source of truth."
+type: writing
+form: analysis
+topic: financial-systems
+fit: 3
 ---
 
 The Supplemental Nutrition Assistance Program (SNAP) cost about \$100 billion in federal funds in fiscal year 2024 and served an average of 41.7 million people each month. Public debate often treats the program's payment error rate, near 11 percent in recent years, as a fraud rate. That reading is wrong. The error rate counts overpayments and underpayments from all causes, and most of it reflects mistakes by households and state agencies. The most studied fraud, trafficking (selling benefits for cash), diverted an estimated 1.6 to 2.0 percent of benefits from 2015 to 2017, almost all of it through small stores. Card skimming, a newer threat, steals from recipients. This report builds a taxonomy of SNAP fraud and explains why trafficking persists: the payment record carries no item list, and the shopper and the cashier both profit from the lie. It proposes a layered architecture covering eligibility, credentials, transactions, merchant payouts, and analytics. Its central problem is finding price anomalies across millions of daily transactions without human basket review. The answer is store-level scoring, automated graduated responses, and an investigation queue capped by budget. A simulation on synthetic data finds that price features alone miss disguised trafficking, while reconciling sales against supplier purchases still reaches stores holding about 60 percent of trafficked dollars when investigations are perfect and invoices honest. Under more realistic assumptions, with imperfect investigations, labels only from reviewed stores, some forged invoices, and a mix of disguises, capture falls to 38.6 percent, though review still pays for itself. The report also reviews related work and closes with harms, a policy alternative, and a phased roadmap.

@@ -13,6 +13,10 @@ tags:
 redirect:
   - /W2KjYmo
 slug: memo-monitoring
+type: report
+form: field
+topic: platform-ops
+fit: 3
 ---
 
 To ensure the operational reliability of our **memo.d.foundation**, we have developed a comprehensive, dual-mode monitoring system that combines proactive **synthetic monitoring** with reactive **instrumental alerts**. This integrated strategy provides complete visibility into platform health, from business metrics to real-time system events.

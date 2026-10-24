@@ -10,6 +10,9 @@ tags:
   - research
 redirect:
   - /k6XD0Q
+type: research
+topic: engineering-practice
+fit: 2
 ---
 
 ![](assets/database-designs-for-multilingual-apps_c9a1b2c55d33bd432d3b0ace8d0a65e7_md5.webp)

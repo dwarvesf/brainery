@@ -6,6 +6,8 @@ redirect:
   - /1P3kIw
 authors:
   - neko-anon
+type: playbook
+topic: production-readiness
 ---
 
 ## Devices

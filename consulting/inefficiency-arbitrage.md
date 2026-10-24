@@ -12,6 +12,10 @@ tags:
   - strategy
 redirect:
   - /DcYqug
+type: writing
+form: essay
+topic: markets-strategy
+fit: 2
 ---
 
 > **tl;dr**

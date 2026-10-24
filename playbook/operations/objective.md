@@ -9,6 +9,9 @@ tags:
   - operation
   - tips
 redirect: []
+type: writing
+form: essay
+topic: engineering-practice
 ---
 
 Operating a company is not much different from operating a machine or a system. The company has departments and people working together towards a goal as a car has many components connected by gears moving towards a destination.

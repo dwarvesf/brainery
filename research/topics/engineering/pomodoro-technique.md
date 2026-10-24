@@ -8,6 +8,8 @@ redirect:
   - /8xnxpA
 authors:
   - namtrhg
+type: research
+topic: engineering-practice
 ---
 
 ## What is Pomodoro Technique?

@@ -14,6 +14,9 @@ redirect:
   - /consulting/case-study/tokenomy
   - /s1ndUQ
 slug: tokenomy
+type: case-study
+topic: digital-assets
+fit: 3
 ---
 
 **Industry**\

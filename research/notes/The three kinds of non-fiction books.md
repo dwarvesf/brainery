@@ -6,6 +6,8 @@ date: 2026-10-18
 tags:
   - book
   - reading
+type: research
+topic: knowledge-work
 ---
 
 There are three kinds of non-fiction book: 💁‍♀️ narrative, 🌳 tree, and 🌿 branch.

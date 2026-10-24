@@ -14,6 +14,8 @@ tags:
   - full-time
 redirect:
   - /platform-2025
+type: company
+topic: company
 ---
 
 ## We are hiring a platform engineer

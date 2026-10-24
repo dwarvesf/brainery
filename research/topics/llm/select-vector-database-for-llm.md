@@ -12,6 +12,11 @@ tags:
   - llm
 redirect:
   - /0pfSfA
+type: research
+topic: applied-llm
+secondary_topics:
+  - data
+fit: 2
 ---
 
 _Snapshot from 2023. Some tools and numbers have changed._

@@ -26,6 +26,12 @@ announce: false
 series: ai-agent-frameworks
 series_part: 5
 series_total: 5
+type: writing
+form: analysis
+topic: ai-agents
+secondary_topics:
+  - architecture
+fit: 3
 ---
 
 After the individual frameworks, this part steps back. It lists the composition patterns that show up across all of them, names the problems that remain hard, and looks at where the field is heading. It ends with the key findings and a set of questions to ask before committing to a framework.

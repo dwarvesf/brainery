@@ -9,6 +9,8 @@ redirect:
   - /VpylAA
 authors:
   - mirageruler
+type: research
+topic: engineering-practice
 ---
 
 ## Preamble

@@ -16,6 +16,12 @@ redirect:
   - /oV9oNw
   - /research/topics/data/design-file-sharing-system-part-2-permission-and-password
   - /data/design-file-sharing-system-part-2-permission-and-password
+type: writing
+form: puzzle
+topic: architecture
+secondary_topics:
+  - data
+fit: 2
 ---
 
 ![File Sharing System](assets/design-file-sharing-system_1.webp)

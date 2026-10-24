@@ -6,6 +6,8 @@ date: 2026-08-27
 redirect: []
 authors:
   - tieubao
+type: research
+topic: engineering-practice
 ---
 
 ## Summary

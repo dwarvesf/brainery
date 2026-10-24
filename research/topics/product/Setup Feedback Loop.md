@@ -11,6 +11,10 @@ tags:
   - product
 redirect:
   - /Ryscsg
+type: research
+topic: engineering-practice
+secondary_topics:
+  - markets-strategy
 ---
 
 ## What is feedback-loop

@@ -9,6 +9,9 @@ authors:
 tags:
   - go-weekly
   - golang
+type: research
+topic: languages
+series: golang-weekly
 ---
 
 ## [Go Turns 15](https://go.dev/blog/15years)

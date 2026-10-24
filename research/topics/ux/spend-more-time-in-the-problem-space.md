@@ -7,6 +7,8 @@ redirect:
   - /cVskzw
 authors:
   - neko-anon
+type: research
+topic: product-engineering
 ---
 
 It's tempting to rush to an answer. As Christian Madsbjerg has argued, we seem to want as a culture to turn creativity into an assembly line: we input problems, we output answers, all through some standardized process. We want to move as quickly as we can away from uncertainty and toward some kind of resolution.

@@ -6,6 +6,8 @@ date: 2026-10-18
 tags:
   - social-capital
   - social-network
+type: research
+topic: markets-strategy
 ---
 
 ### Introduction to social capital

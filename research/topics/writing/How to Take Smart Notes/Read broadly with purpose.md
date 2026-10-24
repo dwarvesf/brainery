@@ -8,6 +8,9 @@ tags:
   - writing
   - zettelkasten
 redirect: []
+type: research
+topic: knowledge-work
+series: book-how-to-take-smart-notes
 ---
 
 Read (and consume any information) with purpose: approaching a text with intention can help focus our attention on the most important information. Read looking for connections with information you have already processed, and look explicitly for limitations, elisions, and contradictions.

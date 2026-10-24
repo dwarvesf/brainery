@@ -7,6 +7,9 @@ tags:
   - deployment
 redirect:
   - /RWkf2w
+type: research
+topic: platform-ops
+fit: 2
 ---
 
 ### Recreate

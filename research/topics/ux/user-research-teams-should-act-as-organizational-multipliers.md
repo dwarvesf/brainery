@@ -7,6 +7,8 @@ redirect:
   - /WrLE3w
 authors:
   - neko-anon
+type: research
+topic: product-engineering
 ---
 
 An effective user research team cannot proceed as though it holds a monopoly on intelligence about the user. In a mature, design-centric organization, customer knowledge is everyone's concern. Therefore, the purpose of user research specialists is to act as a "multiplier" who helps cross-functional teams discover and learn and facilitates what Microsoft's Monty Hammontree calls "co-experienced learning." They enable everyone to hear from and learn about their customers so that they are confident in their understanding and are energized to develop customer-centric solutions.

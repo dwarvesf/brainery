@@ -11,6 +11,10 @@ tags:
   - performance
   - competency
 redirect: []
+type: playbook
+topic: markets-strategy
+series: navigate
+fit: 2
 ---
 
 > **tl;dr**

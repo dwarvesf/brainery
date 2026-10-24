@@ -9,6 +9,8 @@ tags:
   - design
 redirect:
   - /HLlfLg
+type: research
+topic: product-engineering
 ---
 
 We identified skills and actions showing someone has one competency or not.

@@ -14,6 +14,11 @@ redirect:
   - /consulting/case-study/kafi-design
   - /CYcY4w
 slug: kafi-design
+type: case-study
+topic: financial-systems
+secondary_topics:
+  - product-engineering
+fit: 3
 ---
 
 **Industry**\

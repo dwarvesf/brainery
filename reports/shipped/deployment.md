@@ -12,6 +12,11 @@ tags:
   - build-log
 redirect: []
 slug: memo-deployment
+type: report
+form: field
+topic: platform-ops
+series: memo-platform
+fit: 3
 ---
 
 The Memo platform leverages GitHub Actions to automate the deployment process. This includes publishing the website and integrating with our blockchain and permanent storage systems.

@@ -11,6 +11,8 @@ tags:
   - solana
 redirect:
   - /ajcMvA
+type: research
+topic: digital-assets
 ---
 
 ![](assets/introduce-to-solana-token-2022-new-standard-to-create-a-token-in-solana-1.webp)

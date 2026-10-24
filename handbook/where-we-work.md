@@ -11,6 +11,8 @@ tags:
   - team
   - work
 redirect: []
+type: company
+topic: company
 ---
 
 ### Office

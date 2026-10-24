@@ -14,6 +14,9 @@ redirect:
   - /consulting/case-study/searchio
   - /Qr2LLA
 slug: searchio
+type: case-study
+topic: product-engineering
+fit: 2
 ---
 
 **Industry**\

@@ -12,6 +12,8 @@ redirect:
 series: webassembly-intro
 series_part: 1
 series_total: 2
+type: research
+topic: product-engineering
 ---
 
 If you haven’t heard of WebAssembly yet, then you will soon. It’s one of the industry’s best-kept secrets, but it’s everywhere. It’s supported by all the major browsers, and it’s coming to the server-side, too. It’s fast. It’s being used for gaming. It’s an open standard from the World Wide Web Consortium (W3C), the main international standards organization for the web.

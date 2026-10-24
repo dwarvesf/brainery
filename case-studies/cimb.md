@@ -13,6 +13,9 @@ redirect:
   - /consulting/case-study/cimb
   - /DEt3Fw
 slug: cimb
+type: case-study
+topic: financial-systems
+fit: 3
 ---
 
 **Industry**\

@@ -9,6 +9,9 @@ authors:
 tags:
   - go-weekly
   - golang
+type: research
+topic: languages
+series: golang-weekly
 ---
 
 ## [Using Go Embed](https://www.bytesizego.com/blog/go-embed)

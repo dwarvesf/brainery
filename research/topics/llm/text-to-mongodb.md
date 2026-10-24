@@ -13,6 +13,11 @@ tags:
   - llm
 redirect:
   - /vktRZg
+type: research
+topic: applied-llm
+secondary_topics:
+  - data
+fit: 2
 ---
 
 ```mermaid

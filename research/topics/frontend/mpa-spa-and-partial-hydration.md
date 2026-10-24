@@ -10,6 +10,8 @@ tags:
   - frontend
 redirect:
   - /nBMWig
+type: research
+topic: product-engineering
 ---
 
 If you've been on Twitter lately, you might've seen the term "Partial Hydration" as well as MPA going along and hyped by web advocates, wondering what about them?

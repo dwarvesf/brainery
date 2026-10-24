@@ -5,6 +5,8 @@ description: Learn what finite-state automata are, how they model systems using 
 date: 2022-06-28
 github_id: monotykamary
 redirect: []
+type: research
+topic: architecture
 ---
 
 ## What are finite-state automata?

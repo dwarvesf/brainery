@@ -11,6 +11,11 @@ tags:
   - productivity
   - communication
   - workflow
+type: research
+topic: engineering-practice
+secondary_topics:
+  - applied-llm
+fit: 2
 ---
 
 ## The conversation shift that changes everything

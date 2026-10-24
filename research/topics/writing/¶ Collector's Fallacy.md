@@ -12,6 +12,8 @@ tags:
   - writing
 redirect:
   - /1cfEoQ
+type: research
+topic: knowledge-work
 ---
 
 Knowing _about_ something isn't the same as knowing something. Therein lies the root of "the collector's fallacy," a mistaken belief that by capturing information we have mastered it.

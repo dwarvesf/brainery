@@ -13,6 +13,10 @@ tags:
   - ubiquitous-language
 redirect:
   - /bCvFdw
+type: research
+topic: engineering-practice
+secondary_topics:
+  - production-readiness
 ---
 
 ### Behavior driven development (BDD) Three Practices

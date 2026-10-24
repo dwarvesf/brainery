@@ -15,6 +15,12 @@ redirect:
   - /culture/role-strategy
   - /role-strategy
 slug: role-strategy
+type: writing
+form: essay
+topic: markets-strategy
+secondary_topics:
+  - engineering-practice
+fit: 2
 ---
 
 ## The inflection point

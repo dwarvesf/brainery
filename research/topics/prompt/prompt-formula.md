@@ -11,6 +11,9 @@ tags:
   - productivity
   - communication
   - framework
+type: research
+topic: applied-llm
+fit: 2
 ---
 
 ## The anatomy of prompts that actually work

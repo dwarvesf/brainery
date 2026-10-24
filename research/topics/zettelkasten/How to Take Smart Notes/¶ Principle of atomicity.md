@@ -3,6 +3,9 @@ draft: true
 title: ¶ principle of atomicity
 description: Learn how the atomicity principle in the Zettelkasten method improves note-taking by focusing each note on a single clear idea for better connections and easier reuse.
 date: null
+type: research
+topic: knowledge-work
+series: book-how-to-take-smart-notes
 ---
 
 The principle of atomicity is a governing idea of the #Zettelkasten method of notetaking and knowledge management.

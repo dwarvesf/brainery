@@ -7,6 +7,8 @@ github_id: dudaka
 icy: 10
 authors:
   - dudaka
+type: research
+topic: data
 ---
 
 In short, Apache Pig takes a set of instructions from the user and converts those instructions into MapReduce jobs and execute the MapReduce jobs in Hadoop cluster.

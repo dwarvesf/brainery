@@ -11,6 +11,8 @@ tags:
   - frontend
 redirect:
   - /cPgVWA
+type: research
+topic: product-engineering
 ---
 
 ## What is layout thrashing

@@ -14,6 +14,11 @@ tags:
   - development-tools
   - tidewave
   - dashbit
+type: research
+topic: languages
+secondary_topics:
+  - applied-llm
+  - ai-agents
 ---
 
 Tidewave.ai is a development tool designed to enhance web application development by integrating AI assistants with your application's runtime environment. Below is a detailed breakdown to help understand its purpose, features, and functionality.

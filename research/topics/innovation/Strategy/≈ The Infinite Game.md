@@ -6,6 +6,9 @@ date: null
 tags:
   - business
   - strategy
+type: research
+topic: markets-strategy
+series: book-strategy
 ---
 
 ### Notes

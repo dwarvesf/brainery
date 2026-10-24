@@ -15,6 +15,8 @@ redirect:
   - /research/topics/defi/smart-contract
   - /eBsb5A
   - /defi/smart-contract
+type: research
+topic: digital-assets
 ---
 
 ## Smart contracts

@@ -12,6 +12,8 @@ tags:
   - typescript
 redirect:
   - /UTQheg
+type: research
+topic: product-engineering
 ---
 
 **Zod** is the TypeScript-first schema validation library with static type inference. It's functional approach to data validation is [[Parse, don't validate in TypeScript]] which parses the data in order to validate and catch errors.

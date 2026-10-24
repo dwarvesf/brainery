@@ -11,6 +11,8 @@ tags:
   - liquidity
 redirect:
   - /dPGSLA
+type: research
+topic: digital-assets
 ---
 
 ## 1. What is a Liquidity Pool?

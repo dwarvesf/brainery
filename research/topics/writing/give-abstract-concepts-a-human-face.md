@@ -5,6 +5,8 @@ description: Learn how giving abstract concepts a human face makes economic and 
 date: 2026-08-27
 authors:
   - tieubao
+type: research
+topic: knowledge-work
 ---
 
 > In other words, the column put a human cast on a bloodless topic—a central skill for the writer, because people are the prism through which readers love to view the world. (Flaherty 6)

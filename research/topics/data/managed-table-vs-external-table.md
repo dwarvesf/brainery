@@ -9,6 +9,8 @@ redirect:
   - /ci6C5LU
 authors:
   - dudaka
+type: research
+topic: data
 ---
 
 In this article, we're going to take a look to two different types of Hive tables and the significance of each. There are two types of tables in Hive: Managed table and External table. Managed table has full control over its data, i.e. when we drop the table, the tables, data set or files will be also deleted from HDFS. External table, however, does not have full control over its data set, i.e. when we drop the table, the data set is not deleted from HDFS.

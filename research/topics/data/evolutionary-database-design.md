@@ -12,6 +12,11 @@ redirect:
   - /OvS1Hw
   - /research/notes/data-erd
   - /C8UYgg
+type: research
+topic: data
+secondary_topics:
+  - architecture
+fit: 2
 ---
 
 ## Problem statement

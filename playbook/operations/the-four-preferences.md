@@ -10,6 +10,8 @@ tags:
   - operation
   - personalities
 redirect: []
+type: research
+topic: engineering-practice
 ---
 
 ## The four preferences are

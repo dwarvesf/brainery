@@ -8,6 +8,10 @@ tags:
   - framework
   - product
 redirect: []
+type: research
+topic: engineering-practice
+secondary_topics:
+  - markets-strategy
 ---
 
 | type/function | aarrr                          | hook                                 |

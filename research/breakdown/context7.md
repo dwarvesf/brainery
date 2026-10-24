@@ -17,6 +17,13 @@ tags:
   - architecture
   - context7
 toc: true
+type: writing
+form: analysis
+topic: ai-agents
+secondary_topics:
+  - applied-llm
+  - architecture
+fit: 3
 ---
 
 ## Overview

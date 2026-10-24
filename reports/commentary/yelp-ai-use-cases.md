@@ -10,6 +10,9 @@ tags:
   - use-cases
 redirect: []
 slug: yelp-ai-use-cases
+type: writing
+form: analysis
+topic: applied-llm
 ---
 
 Yelp Inc. is a platform that helps users discover local businesses through reviews, ratings, and recommendations. Recently, they've integrated AI and large language models (LLMs) to improve content moderation, search capabilities, and user interactions with features like Yelp assistant.

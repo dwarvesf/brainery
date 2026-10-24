@@ -12,6 +12,10 @@ tags:
   - tracing
 redirect:
   - /dZwsEA
+type: research
+topic: applied-llm
+secondary_topics:
+  - platform-ops
 ---
 
 ## What is tracing

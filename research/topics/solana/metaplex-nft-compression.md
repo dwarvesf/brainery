@@ -11,6 +11,8 @@ tags:
   - nft
   - solana
 redirect: []
+type: research
+topic: digital-assets
 ---
 
 With the rise of NFTs on the Solana blockchain, there is a growing demand for these digital assets to be as commonplace as any other item on the internet. This includes every single item in a game's inventory, proof of engagement in popular consumer apps, and even a personal profile for every human on Earth.

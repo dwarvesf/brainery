@@ -6,6 +6,8 @@ date: 2026-10-18
 tags:
   - data
   - diagram
+type: research
+topic: data
 ---
 
 ### What

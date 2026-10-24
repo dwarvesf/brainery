@@ -8,6 +8,8 @@ authors:
 tags:
   - icy
 redirect: []
+type: program
+topic: company
 ---
 
 We're launching the first feature from our 2024 roadmap: an \$icy salary advance.

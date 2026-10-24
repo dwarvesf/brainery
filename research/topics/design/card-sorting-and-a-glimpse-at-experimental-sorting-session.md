@@ -10,6 +10,9 @@ tags:
   - technique
 redirect:
   - /xMom6OU
+type: research
+topic: product-engineering
+fit: 2
 ---
 
 > As part of our team’s weekly activities is a knowledge sharing session. So, in this article I’d like to share a UX technique we practiced recently — Card Sorting.

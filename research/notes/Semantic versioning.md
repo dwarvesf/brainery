@@ -8,6 +8,8 @@ tags:
   - versioning
 redirect:
   - /zjBkqw
+type: research
+topic: engineering-practice
 ---
 
 Versioning system that represents the product version, using a formal convention based on 3 parts in alpha numerics.

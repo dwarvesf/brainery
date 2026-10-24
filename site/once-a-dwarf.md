@@ -12,6 +12,8 @@ tags:
   - once-a-dwarf
   - culture
   - career
+type: program
+topic: company
 ---
 
 Once a Dwarf collects notes from people who were here. Some passed through Dwarves and went their own way. Some still sit next to us every day. We draw no line between the two: once a Dwarf, always a Dwarf.

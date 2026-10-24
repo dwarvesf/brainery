@@ -9,6 +9,8 @@ tags:
   - handbook
   - remote
 redirect: []
+type: company
+topic: company
 ---
 
 ### Noise levels

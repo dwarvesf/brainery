@@ -11,6 +11,8 @@ tags:
   - react
 redirect:
   - /0jdfHQ
+type: research
+topic: product-engineering
 ---
 
 ## React 18 feature quick guide

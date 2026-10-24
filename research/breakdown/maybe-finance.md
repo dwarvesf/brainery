@@ -14,6 +14,12 @@ tags:
   - finance
   - ruby-on-rails
   - rails
+type: writing
+form: analysis
+topic: financial-systems
+secondary_topics:
+  - architecture
+fit: 2
 ---
 
 ## Overview

@@ -9,6 +9,8 @@ tags:
   - devops
 redirect:
   - /OvfD2A
+type: research
+topic: platform-ops
 ---
 
 ## What is DevOps actually?

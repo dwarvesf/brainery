@@ -11,6 +11,8 @@ authors:
 series: mapreduce-components
 series_part: 1
 series_total: 2
+type: research
+topic: data
 ---
 
 ## Introduction

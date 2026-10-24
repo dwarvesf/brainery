@@ -12,6 +12,8 @@ tags:
   - operation
   - project
 redirect: []
+type: playbook
+topic: company
 ---
 
 **Transparency**

@@ -24,6 +24,10 @@ redirect:
   - /culture/as-your-last-delivery
   - /PXeiCw
 slug: trust
+type: writing
+form: essay
+topic: engineering-practice
+fit: 2
 ---
 
 When production breaks at 2 a.m., leadership calls a short list of engineers first. Nobody appointed them and nobody published the list. This page describes how people get on it, what it costs them, and what takes a name off.

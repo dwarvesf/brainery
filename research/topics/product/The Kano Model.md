@@ -12,6 +12,10 @@ tags:
   - product
 redirect:
   - /FPvmtg
+type: research
+topic: engineering-practice
+secondary_topics:
+  - markets-strategy
 ---
 
 ## Definition

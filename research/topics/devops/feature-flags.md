@@ -8,6 +8,8 @@ redirect:
   - /fEZEkQ
 authors:
   - zlatanpham
+type: research
+topic: platform-ops
 ---
 
 Feature flags are a software engineering technique that allows you to enable or disable select functionality during runtime without having to deploy new code. The ability to control the visibility of features enables development teams to manage the full lifecycle of a feature — rather than being constrained by the traditional "code-deploy-test" cycle.

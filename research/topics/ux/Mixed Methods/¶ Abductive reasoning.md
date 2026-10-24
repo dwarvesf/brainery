@@ -6,6 +6,9 @@ date: 2026-08-27
 redirect: []
 authors: []
 credit: David Drysdale (Moby Diction)
+type: research
+topic: product-engineering
+series: book-mixed-methods
 ---
 
 Interestingly, Sherlock Holmes is famously associated with the art of [[¶ Deductive reasoning | deduction]]. However, his methods typically illustrate a third type of reasoning, called abductive reasoning. Abductive reasoning describes the inference of the most likely explanation based on novel, observed details that do not fit an existing model. It's non-linear; it does not start with any suppositions or hypotheses, but starts from a state of openness to all forms of data and are then synthesized into a theory or theories. Theories, then, develop into an explanatory insight.

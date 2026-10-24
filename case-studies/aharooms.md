@@ -14,6 +14,9 @@ redirect:
   - /consulting/case-study/aharooms
   - /KS8TLg
 slug: aharooms
+type: case-study
+topic: product-engineering
+fit: 2
 ---
 
 **Industry**\

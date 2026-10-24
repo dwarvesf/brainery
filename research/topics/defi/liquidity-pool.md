@@ -6,6 +6,8 @@ date: null
 author: Hien Le
 redirect:
   - /ZiMN8w
+type: research
+topic: digital-assets
 ---
 
 ## 1. What is a Liquidity Pool?

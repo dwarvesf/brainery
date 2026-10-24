@@ -12,6 +12,11 @@ tags:
   - build-log
 redirect: []
 slug: multi-git-submodules
+type: report
+form: field
+topic: platform-ops
+series: memo-platform
+fit: 3
 ---
 
 We heavily rely on Git submodules to link multiple content repositories together for the Memo platform. Initially, these repositories were organized based on purpose, such as **handbook** or **playbook** content. As the project evolved, more repositories were introduced, eventually leading to the structure centered around the **brainery** vault.

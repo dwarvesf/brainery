@@ -8,6 +8,8 @@ authors:
 tags:
   - swift
 redirect: []
+type: research
+topic: product-engineering
 ---
 
 ![](assets/build-a-passcode-view-with-swift_38059dcec9bd2edb9ac9b1433eb8870c_md5.webp)

@@ -45,6 +45,8 @@ announce: false
 series: email-template-library
 series_part: 2
 series_total: 2
+type: playbook
+topic: engineering-practice
 ---
 
 These are the email templates Dwarves Operations and HR send to employees, clients and the community mailing list. The templates for candidates and new hires are in part 1, which also has the table that lists every audience. This part ends with how to keep your own copies as Gmail templates. The set is a snapshot from 2020, so some tools and numbers have changed.

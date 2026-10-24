@@ -15,6 +15,9 @@ minted_at: '2025-05-12'
 token_id: '6'
 redirect:
   - /wu1RPg
+type: company
+topic: company
+fit: 2
 ---
 
 Values come first. They guide our decisions, shape our culture, and define who we are as a company. They're what we're proud of and what helps us navigate difficult choices. They'll likely be what you appreciate most about working with us.

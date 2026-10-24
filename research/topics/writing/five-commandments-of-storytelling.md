@@ -7,6 +7,8 @@ redirect:
   - /oyjgXw
 authors: []
 credit: David Drysdale (Moby Diction)
+type: research
+topic: knowledge-work
 ---
 
 In his _Story Grid_ approach to writing a novel, Shawn Coyne lists five commandments that he argues are essential to effective fiction. These elements, he says, determine whether or not a scene works:

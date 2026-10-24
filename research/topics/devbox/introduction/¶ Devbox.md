@@ -8,6 +8,10 @@ authors:
 tags:
   - devbox
 redirect: []
+type: research
+topic: platform-ops
+series: devbox
+fit: 2
 ---
 
 Remember the last time you onboarded a new developer? Or tried a new tool without wrecking your setup? Yeah, it probably sucked. But it doesn't have to.

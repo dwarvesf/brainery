@@ -21,6 +21,13 @@ tags:
 redirect:
   - /mYAlMQ
 slug: never-forget
+type: writing
+form: puzzle
+topic: knowledge-work
+secondary_topics:
+  - applied-llm
+  - ai-agents
+fit: 2
 ---
 
 > **tl;dr**

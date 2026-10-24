@@ -12,6 +12,8 @@ authors:
 series: self-balancing-trees
 series_part: 1
 series_total: 3
+type: research
+topic: data
 ---
 
 This series shows how a binary search tree keeps itself fast by balancing, with the AVL tree as the worked example. Part 1 is the groundwork: what a tree is, the vocabulary for nodes and heights, and the properties and kinds of binary trees.

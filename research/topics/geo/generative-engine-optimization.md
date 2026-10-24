@@ -11,6 +11,9 @@ tags:
   - AI
 redirect:
   - /geo-concepts
+type: research
+topic: knowledge-work
+fit: 2
 ---
 
 ## Snapshot view

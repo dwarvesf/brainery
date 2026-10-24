@@ -14,6 +14,9 @@ redirect:
   - /consulting/case-study/naru
   - /UkMRhw
 slug: naru
+type: case-study
+topic: product-engineering
+fit: 2
 ---
 
 **Industry**\

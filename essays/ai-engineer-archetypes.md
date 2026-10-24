@@ -13,6 +13,10 @@ redirect:
   - /culture/ai-engineer-archetypes
   - /6oKjKw
 slug: ai-engineer-archetypes
+type: writing
+form: essay
+topic: applied-llm
+fit: 3
 ---
 
 The ground is shifting beneath our feet. If you're a software engineer and you're not feeling it, you're either lying or you're already obsolete. The introduction of powerful large language models is not just another tool; it's a fundamental paradigm shift that is cleaving the engineering world into distinct archetypes. I've noticed a few patterns emerge from the chaos. Understanding where you and your team fit in is the difference between building the future and getting buried by it.

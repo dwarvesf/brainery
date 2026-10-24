@@ -4,7 +4,7 @@ title: "#3 Digital transformation insights from the energy sector"
 short_title: SP Group
 description: Our visit to SP Group offered valuable perspectives on enterprise digital transformation challenges. We learned that successful transformation depends more on people and organizational culture than technology, while strong partnerships require treating external teams as part of your own.
 date: 2024-06-05
-series: WALA
+series: wala
 series_part: 3
 authors:
   - nikkingtr
@@ -16,6 +16,12 @@ tags:
 redirect:
   - /aqPKXg
 slug: wala-003-sp-group
+type: writing
+form: essay
+topic: markets-strategy
+secondary_topics:
+  - engineering-practice
+fit: 2
 ---
 
 > **Recap:** Our long-awaited visit to SP Group revealed that digital transformation in large enterprises faces more cultural than technical challenges. We discovered that successful partnerships require treating external engineers as part of one team, and that effective engineers need to understand industry-specific problems beyond just coding solutions.

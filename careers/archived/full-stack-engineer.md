@@ -9,6 +9,8 @@ featured: true
 tags:
   - career
   - fullstack
+type: company
+topic: company
 ---
 
 ## We are hiring full-stack engineers

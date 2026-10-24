@@ -6,6 +6,8 @@ date: 2026-08-27
 redirect: []
 authors:
   - tieubao
+type: research
+topic: knowledge-work
 ---
 
 A story needs both action and commentary, not just one or the other. Action propels the story forward, while commentary slows it down. The deft application of each is needed: movement and explanation; action with interpretation.

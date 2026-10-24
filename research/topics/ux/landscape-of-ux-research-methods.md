@@ -7,6 +7,8 @@ redirect:
   - /bcAt1w
 authors: []
 credit: David Drysdale (Moby Diction)
+type: research
+topic: product-engineering
 ---
 
 UX research methods can be organized according to a 3-dimensional framework with the following axes:

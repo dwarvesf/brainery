@@ -11,6 +11,9 @@ tags:
   - nix
 redirect:
   - /ZFoIEg
+type: research
+topic: platform-ops
+series: devbox
 ---
 
 Nix gives us the ability to build Docker image with minimum deterministic by providing some solid mechanisms.

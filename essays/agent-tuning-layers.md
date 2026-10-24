@@ -15,6 +15,12 @@ tags:
 slug: agent-tuning-layers
 series: harness-engineering
 series_part: 1
+type: writing
+form: analysis
+topic: ai-agents
+secondary_topics:
+  - architecture
+fit: 3
 ---
 
 ## TL;DR

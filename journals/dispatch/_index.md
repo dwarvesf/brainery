@@ -11,6 +11,10 @@ tags:
   - discord
   - show-and-tell
 slug: dispatch
+type: writing
+topic: engineering-practice
+series: dispatch
+landing: true
 ---
 
 A member takes the stage for ten to fifteen minutes and shows what they built or found on a live project, before the numbers harden into a written field report. Each episode ships as a video, a chapter list, and a transcript in Vietnamese with an English twin when we have it. The written field report, when it lands, links back here.

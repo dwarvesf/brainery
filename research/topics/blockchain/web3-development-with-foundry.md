@@ -13,6 +13,9 @@ tags:
   - web3
 redirect:
   - /BBc4Xw
+type: research
+topic: digital-assets
+fit: 2
 ---
 
 ## Overview of Foundry

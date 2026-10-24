@@ -25,6 +25,9 @@ redirect:
   - /E1fSsg
 authors:
   - neko-anon
+type: research
+topic: knowledge-work
+landing: true
 ---
 
 Zettelkästen describes a method of personal knowledge management inspired by prolific sociologist Niklas Luhmann.

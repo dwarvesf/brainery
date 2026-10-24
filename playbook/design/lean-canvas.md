@@ -10,6 +10,8 @@ tags:
   - startup
 redirect:
   - /R1wSbQ
+type: playbook
+topic: markets-strategy
 ---
 
 ## Lean canvas

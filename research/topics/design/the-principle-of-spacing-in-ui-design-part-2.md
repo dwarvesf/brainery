@@ -10,6 +10,8 @@ tags:
   - technique
 redirect:
   - /YoRagA
+type: research
+topic: product-engineering
 ---
 
 ## Vertical spacing

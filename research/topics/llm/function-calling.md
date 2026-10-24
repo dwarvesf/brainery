@@ -11,6 +11,10 @@ tags:
   - function-calling
 redirect:
   - /7ZBDcA
+type: research
+topic: ai-agents
+secondary_topics:
+  - applied-llm
 ---
 
 ## Introduction

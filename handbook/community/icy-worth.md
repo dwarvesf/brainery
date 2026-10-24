@@ -8,6 +8,8 @@ authors:
 tags:
   - icy
 redirect: []
+type: program
+topic: company
 ---
 
 We're excited to share a significant update about ICY's value model. We've moved from a fixed USDC-backed system to a dynamic Bitcoin-backed model. This change brings new opportunities and considerations for ICY holders. Let's break down what this means for you.

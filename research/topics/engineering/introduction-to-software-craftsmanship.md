@@ -9,6 +9,9 @@ tags:
   - engineering
 redirect:
   - /sQnE8A
+type: research
+topic: engineering-practice
+fit: 2
 ---
 
 Craftsmanship has been our motto since the first day. But to the newbies and even some current Dwarves, the real definition of software craftsmanship is still vague, or being understood in different ways.

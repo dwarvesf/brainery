@@ -25,6 +25,12 @@ tags:
 redirect:
   - /jGkESA
 slug: rfc-semantic-reasoning
+type: writing
+form: puzzle
+topic: architecture
+secondary_topics:
+  - applied-llm
+fit: 3
 ---
 
 ## Abstract

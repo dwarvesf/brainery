@@ -17,6 +17,12 @@ tags:
 redirect:
   - /LbtSZA
 slug: playbook-motivation
+type: report
+form: field
+topic: ai-agents
+secondary_topics:
+  - applied-llm
+fit: 3
 ---
 
 > **tl;dr**

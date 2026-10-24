@@ -5,6 +5,8 @@ description: Domain Driven Design (DDD) improves software by creating clear doma
 date: 2022-06-21
 github_id: R-Jim
 redirect: []
+type: research
+topic: architecture
 ---
 
 ### What is Domain Driven Design?

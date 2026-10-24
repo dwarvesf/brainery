@@ -12,6 +12,8 @@ tags:
   - llm
 redirect:
   - /bFiN3A
+type: research
+topic: applied-llm
 ---
 
 Q-learning is a model-free reinforcement learning algorithm used to learn an optimal policy in a Markov Decision Process (MDP). It is an off-policy method, meaning that it learns by observing and updating a value function based on the maximum expected future rewards.

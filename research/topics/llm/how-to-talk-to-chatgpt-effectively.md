@@ -9,6 +9,8 @@ tags:
   - ai
   - chatgpt
   - prompt
+type: research
+topic: applied-llm
 ---
 
 ChatGPT, an advanced language model by OpenAI, offers a unique way to interact with AI. The quality of results depends on the information and how well you craft your input. Then, it’s essential to understand how to talk with ChatGPT effectively.

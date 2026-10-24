@@ -8,6 +8,8 @@ redirect:
   - /7ge9Sg
 authors:
   - hieuphq
+type: research
+topic: product-engineering
 ---
 
 Javascript is a single-threaded programming language that has single-threaded at the runtime. It has a single call stack so it can do one thing simultaneously. JavaScript has a runtime model based on an **event loop**, which is responsible for executing the code, collecting and processing events, and executing queued sub-tasks. Javascript is a single-threaded, non-blocking asynchronous concurrent language. A JavaScript runtime uses a message queue, a list of messages to be processed. Each message has an associated function that gets called to handle the message.

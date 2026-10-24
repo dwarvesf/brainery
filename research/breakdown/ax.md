@@ -17,6 +17,13 @@ tags:
   - architecture
   - optimization
 toc: true
+type: writing
+form: analysis
+topic: ai-agents
+secondary_topics:
+  - applied-llm
+  - architecture
+fit: 3
 ---
 
 ![](assets/ax-framework-cheatsheet.png)

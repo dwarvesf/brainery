@@ -8,6 +8,9 @@ tags:
   - consulting
 redirect:
   - /jnMWig
+type: writing
+form: essay
+topic: markets-strategy
 ---
 
 ## The consulting world

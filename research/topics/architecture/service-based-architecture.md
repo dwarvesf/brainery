@@ -8,6 +8,8 @@ redirect:
   - /E67zHg
 authors:
   - monotykamary
+type: research
+topic: architecture
 ---
 
 ## What is service-based architecture?

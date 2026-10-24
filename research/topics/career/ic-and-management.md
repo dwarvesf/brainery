@@ -11,6 +11,9 @@ tags:
   - leadership
   - engineering
   - growth
+type: research
+topic: engineering-practice
+fit: 2
 ---
 
 ## The career question that changes everything

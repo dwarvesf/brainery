@@ -9,6 +9,8 @@ redirect:
   - /kDTinQ
 authors:
   - Tuanpm31
+type: research
+topic: data
 ---
 
 In this post, we're going to explore how to implement a user leaderboard system using Redis. The leaderboard will keep track of user scores and profile information such as username and avatar.

@@ -9,6 +9,9 @@ tags:
   - quality
 redirect:
   - /GItZxA
+type: research
+topic: engineering-practice
+fit: 2
 ---
 
 What is the best way to build high quality software product? How can we reduce the time it takes to build software?

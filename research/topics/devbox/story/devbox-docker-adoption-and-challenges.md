@@ -14,6 +14,10 @@ tags:
   - virtualization
 redirect:
   - /d0SXng
+type: research
+topic: platform-ops
+series: devbox
+fit: 2
 ---
 
 This is the 2nd post of Devbox series includes

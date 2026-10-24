@@ -8,6 +8,8 @@ redirect:
   - /XhWuWg
 authors:
   - knguyenuit
+type: research
+topic: product-engineering
 ---
 
 ## State

@@ -10,6 +10,9 @@ tags:
   - memo
 redirect:
   - /q92alw
+type: playbook
+topic: knowledge-work
+fit: 2
 ---
 
 > “ It’s not that we need a unified language in all contexts; rather we just need enough context to get everyone on the same page." _Jake Albaugh, Developer Advocate, Figma_

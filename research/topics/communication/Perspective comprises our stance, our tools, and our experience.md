@@ -6,6 +6,8 @@ date: 2026-08-21
 tags:
   - communication
 redirect: []
+type: research
+topic: engineering-practice
 ---
 
 According to Roger Martin, perspective on a given issue is formed by the interaction between three things: our **stance**, our **tools**, and our **experience**.

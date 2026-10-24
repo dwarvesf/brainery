@@ -10,6 +10,8 @@ tags:
   - react
   - use-effect
 redirect: []
+type: research
+topic: product-engineering
 ---
 
 ### What are the changes and why?

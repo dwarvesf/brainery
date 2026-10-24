@@ -9,6 +9,10 @@ tags:
   - story-telling
   - writing
 redirect: []
+type: research
+topic: knowledge-work
+secondary_topics:
+  - engineering-practice
 ---
 
 Far from being deceptive, narratives in fact are an important tool in our decision-making processes. Narratives help us make decisions in which probability judgments are not feasible due to uncertainty. We use metaphor, analogy, and other linguistic tools to better understand and make sense of a situation, and to make what is abstract more concrete. It helps us answer the question of "what is going on here?" We need narratives to help us make sense of facts—even (or perhaps especially) when we there is quantitative or mathematical data available.

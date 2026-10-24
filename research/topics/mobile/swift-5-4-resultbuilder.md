@@ -5,6 +5,8 @@ description: Learn how to use Swift’s @resultBuilder and UIKit Builder pattern
 date: 2022-08-31
 github_id: viettrungphan
 redirect: []
+type: research
+topic: product-engineering
 ---
 
 The [[UIKit Builder pattern]] enables us to create and configure a UIView object. This article is part two of the series that explains how we can wrap a container element in Swift by using the builder pattern.

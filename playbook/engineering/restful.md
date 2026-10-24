@@ -6,6 +6,9 @@ redirect:
   - /0OkhcQ
 authors:
   - neko-anon
+type: playbook
+topic: architecture
+fit: 2
 ---
 
 An API is a user interface for developers. Put the effort in to ensure it's not just functional but pleasant to use.

@@ -8,6 +8,9 @@ authors:
 tags:
   - devbox
 redirect: []
+type: research
+topic: platform-ops
+series: devbox
 ---
 
 So you've installed Devbox with that nifty one-liner:

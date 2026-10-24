@@ -7,6 +7,8 @@ redirect:
   - /myobfQ
 authors: []
 credit: David Drysdale (Moby Diction)
+type: research
+topic: product-engineering
 ---
 
 Personas have a number of shortcomings:

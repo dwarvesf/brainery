@@ -16,6 +16,8 @@ tags:
   - life-at-dwarves
 redirect:
   - /bD3jhg
+type: program
+topic: company
 ---
 
 _Recorded in 2021 for Life at Dwarves. Roles and plans are as of then._

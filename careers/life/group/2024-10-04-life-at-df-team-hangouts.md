@@ -5,6 +5,8 @@ description: "How Dwarves teammates keep in touch through casual hangouts, dinne
 date: 2024-10-04
 last_edited: "2024-10-15T00:00:00.000Z"
 redirect: []
+type: company
+topic: company
 ---
 
 Dwarves Hangouts: Casual Moments, Real Connection

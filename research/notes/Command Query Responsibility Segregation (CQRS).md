@@ -8,6 +8,10 @@ tags:
   - engineering
   - pattern
 redirect: []
+type: research
+topic: architecture
+secondary_topics:
+  - data
 ---
 
 ### What

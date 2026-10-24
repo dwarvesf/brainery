@@ -11,6 +11,9 @@ tags:
   - service
 redirect:
   - /9hOrMw
+type: writing
+form: essay
+topic: markets-strategy
 ---
 
 > **tl;dr**

@@ -9,6 +9,9 @@ redirect:
   - /FJ9Qmg
 authors:
   - hieuphq
+type: research
+topic: languages
+fit: 2
 ---
 
 In the Dwarves Foundation, we applied some practices to decrease the operation cost. We set up the runtime environments in the team.

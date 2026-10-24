@@ -9,6 +9,9 @@ tags:
   - agile
 redirect:
   - /F5AIbQ
+type: research
+topic: engineering-practice
+fit: 2
 ---
 
 _Snapshot from 2016. Some tools and numbers have changed._

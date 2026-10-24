@@ -11,6 +11,9 @@ tags:
   - handbook
 redirect:
   - /NUTYUQ
+type: company
+topic: company
+landing: true
 ---
 
 We believe that learning is one of the most important aspects of any organization. We also believe in creating a culture that fosters learning and innovation.

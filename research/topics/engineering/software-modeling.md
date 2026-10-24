@@ -9,6 +9,8 @@ tags:
   - modeling
 redirect:
   - /fhLz3Q
+type: research
+topic: engineering-practice
 ---
 
 This is how I approach a new topic or knowledge, starts with why, understand the concept and figure out how to make it happen.

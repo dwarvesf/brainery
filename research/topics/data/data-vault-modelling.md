@@ -9,6 +9,8 @@ redirect:
   - /s9Fo7w
 authors:
   - Bachpx2911
+type: research
+topic: data
 ---
 
 ## Introduction

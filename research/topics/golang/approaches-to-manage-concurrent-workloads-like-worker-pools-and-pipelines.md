@@ -15,6 +15,8 @@ redirect:
 series: go-concurrent-workloads
 series_part: 1
 series_total: 2
+type: research
+topic: languages
 ---
 
 ## Introduction

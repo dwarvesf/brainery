@@ -10,6 +10,9 @@ tags:
   - docker
   - nix
 redirect: []
+type: research
+topic: platform-ops
+series: devbox
 ---
 
 Pinning nixpkgs means you can choose the version of nixpkgs, and then all packages required for building your application and its dependencies are fetched from this nixpkgs version where the version of each package is specified and not changed over time.

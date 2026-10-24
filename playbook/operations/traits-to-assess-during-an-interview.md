@@ -8,6 +8,8 @@ tags:
   - people
 redirect:
   - /A8X03Q
+type: playbook
+topic: engineering-practice
 ---
 
 - **Grit**: Look for a time the candidate wanted something so badly, they were unstoppable in pursuing it. Or a time they overcame an obstacle.

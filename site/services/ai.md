@@ -15,6 +15,8 @@ redirect:
   - /services/ai
   - /YlHkuU
 slug: services-ai
+type: company
+topic: company
 ---
 
 We build AI that actually works. As a research-focused tech consultancy, we focus on creating AI solutions that solve real business problems, not just flashy demos that fall apart in production.

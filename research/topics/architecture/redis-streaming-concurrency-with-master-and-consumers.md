@@ -9,6 +9,11 @@ redirect:
   - /juuJmw
 authors:
   - R-Jim
+type: research
+topic: architecture
+secondary_topics:
+  - data
+fit: 3
 ---
 
 ## The problem statement
