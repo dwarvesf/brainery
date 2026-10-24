@@ -163,7 +163,7 @@ Here's what some Dwarves say about life in our hall:
 - "Challenges are chances to level up. This place thrives on that."
   - **Minh Luu**, Full-stack engineer ([LinkedIn](https://www.linkedin.com/in/minhluuquang/))
 
-Curious about the journey? Check out stories from [Huy Tieu](https://web.archive.org/web/20230331115205/https://techiestory.net/post/23-huy-tieu) (archived), [An Tran](https://memo.d.foundation/once/an-tran/senior-engineering), and [Ngoc Thanh](apprentice/2022/batch-of-2022.md#thanh-pham-blockchain).
+Curious about the journey? Check out stories from [Huy Tieu](https://memo.d.foundation/once/huy-tieu/joining-a-nonprofit), [An Tran](https://memo.d.foundation/once/an-tran/senior-engineering), and [Ngoc Thanh](apprentice/2022/batch-of-2022.md#thanh-pham-blockchain).
 
 ## How to step into the hall
 
