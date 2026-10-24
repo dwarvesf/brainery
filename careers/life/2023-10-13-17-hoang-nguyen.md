@@ -4,6 +4,10 @@ short_title: Hoang Nguyen
 description: Hoang Nguyen reflects on the vibrant learning culture at Dwarves, where young engineers eagerly explore new technologies and embrace challenges
 date: 2023-10-13
 program_path: hoang-nguyen/youthful-energy
+chapter: how-we-work
+chapters_also:
+  - learning
+pearl: "In an environment where mentors, leaders, and seniors are always learning and upgrading themselves, newbies are encouraged to do the same."
 last_edited: "2024-03-08T00:00:00.000Z"
 series: life-at-dwarves
 series_part: 22

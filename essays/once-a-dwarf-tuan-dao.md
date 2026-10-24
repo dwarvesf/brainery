@@ -4,6 +4,8 @@ short_title: "Tuan Dao"
 description: "Tuan Dao, an engineer at Dwarves, on moving from pair programming with AI to delegating to it, and why human review is always the bottleneck."
 date: 2026-10-22
 program_path: tuan-dao/delegating-to-ai
+chapter: craft
+pearl: "Guessing is often worse, because it guesses with full confidence."
 slug: once-a-dwarf-tuan-dao
 type: writing
 form: essay

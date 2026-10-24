@@ -4,6 +4,10 @@ short_title: "Loc Nguyen"
 description: "Loc Nguyen, ten years into system architecture in Vietnam when he moved to Germany in 2019, on the culture shock of German work: no pings, booked time, consensus, and doing everything yourself. A TechieStory interview from 2021."
 date: 2021-03-11
 program_path: loc-nguyen/working-in-germany
+chapter: how-we-work
+chapters_also:
+  - turns
+pearl: "We don't make a decision just because a lot of people vote for it."
 slug: once-a-dwarf-loc-nguyen
 kind: note
 announce: false

@@ -4,6 +4,8 @@ short_title: "Duc Nghiem"
 description: "Duc Nghiem, part 1 of his story as a father: an unplanned pregnancy, stepping back from his startup career for his daughter's first three years, and what raising her taught him. A TechieStory interview from 2021."
 date: 2021-06-21
 program_path: duc-nghiem/raising-a-daughter
+chapter: life-and-drive
+pearl: "To stay motivated, mix in your favorite activity."
 slug: once-a-dwarf-duc-nghiem-raising-a-daughter
 kind: note
 announce: false

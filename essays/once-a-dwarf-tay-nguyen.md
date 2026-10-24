@@ -4,6 +4,10 @@ short_title: "Tay Nguyen"
 description: "Tay Nguyen, a Senior Software Engineer at Dwarves in 2023, on how he knew IT was his field, his rule of fixing the core of a problem, and leaving a good job that did not fit."
 date: 2023-02-22
 program_path: tay-nguyen/focus-on-the-core
+chapter: craft
+chapters_also:
+  - turns
+pearl: "When you hit a problem, find where its core is and solve that, instead of getting tangled up fixing the side things that miss the point."
 slug: once-a-dwarf-tay-nguyen
 kind: note
 announce: false
