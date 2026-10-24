@@ -1,5 +1,5 @@
 ---
-title: "No. 08: Huy Tieu on joining a nonprofit"
+title: "Huy Tieu on joining a nonprofit"
 short_title: "Huy Tieu"
 description: "Huy Tieu on feeling lost when work stops teaching you, moving from business analyst at a tech company to product manager at a nonprofit, and staying kind through workplace drama. A TechieStory interview from 2021."
 date: 2021-05-18
