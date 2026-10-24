@@ -4,6 +4,8 @@ short_title: "Duc Nghiem"
 description: "Duc Nghiem, part 2 of his story as a father: how his own dad shaped him, how his drive came from proving himself to his dad until he burned out, and why he sets no expectations for his daughter. A TechieStory interview from 2021."
 date: 2021-06-22
 program_path: duc-nghiem/motivation-from-within
+chapter: life-and-drive
+pearl: "I didn't see the destination, because the motivation came from outside, not from within me."
 slug: once-a-dwarf-duc-nghiem-motivation-from-within
 kind: note
 announce: false
