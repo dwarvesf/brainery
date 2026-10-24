@@ -7,8 +7,6 @@ program_path: phat-nguyen/career-transition
 chapter: turns
 pearl: "Starting a bit late is okay, as long as you have the will to make it happen."
 last_edited: "2024-03-08T00:00:00.000Z"
-series: life-at-dwarves
-series_part: 3
 authors: []
 credit: "Life at Dwarves interview, Dwarves Foundation, 2021"
 announce: false

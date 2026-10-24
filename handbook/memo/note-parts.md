@@ -1,6 +1,6 @@
 ---
 title: Write memo notes that lay out as parts
-description: The plain Markdown and frontmatter that memo turns into term peeks, step rails, checklists, definition grids, avoid and prefer pairs, case study fields, a status line, an age line and an abstract box.
+description: The plain Markdown and frontmatter that memo turns into term peeks, step rails, checklists, definition grids, avoid and prefer pairs, case study fields, a status line, an age line, an abstract box and the Once a Dwarf story fields.
 date: 2026-10-23
 authors:
   - tieubao
@@ -162,6 +162,31 @@ An `abstract:` in the frontmatter sets a short summary in a boxed block labelled
 ```yaml
 abstract: "We cut the publish step from 110 to 78 seconds by skipping unchanged workers. The change held for two weeks."
 ```
+
+## Once a Dwarf stories
+
+Type: program, for the stories at [/once](/once).
+
+A story is one person's piece in the Once a Dwarf program. The program registry in foundation-apps (`apps/memo/src/data/programs.ts`) lists every story, and the story's number comes from its date there. Add a story in this order:
+
+1. **Register it first**: Add a child to the registry with the slug `<person>/<topic>`, the title `<Name> on <topic>`, the date the piece first ran, and the vault path. Merge that before the note.
+2. **Write the note**: Repeat the registry slug as `program_path` in the frontmatter, so the URL never follows the title. A piece imported from an older source sets `announce: false`.
+3. **Pick a chapter and a pearl**: Fill the three fields below, then build and check `/once/lessons`.
+
+Seven chapters sort the stories: `craft`, `turns`, `leading`, `learning`, `how-we-work`, `community` and `life-and-drive`. Each chapter page opens with one question that starts "If you knew then what you know now". A new interview opens with its chapter's question.
+
+```yaml
+chapter: learning
+chapters_also:
+  - leading
+pearl: "Some training topics don't appear in my daily work, so I prefer to focus on those I apply almost every day"
+```
+
+- `chapter` is the one primary chapter.
+- `chapters_also` is optional and holds at most one other chapter.
+- `pearl` is one sentence copied word for word from the story: the most portable advice in it. You may cut words from the start or the end. Never reword it, and put no double quotes inside it. Skip a sentence that needs the one before it, names a colleague, or is private.
+- The pearl shows on the chapter page and on `/once/lessons`, never on the story page. The story shows a "Chapter" link instead.
+- The build fails on an unknown chapter, a second `chapters_also` entry, or a pearl that is not in the story text.
 
 ## Layout families
 
