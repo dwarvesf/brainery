@@ -5,7 +5,6 @@
 <rect width="760" height="340" fill="#12395f"/>
 <rect width="760" height="340" fill="url(#dpgrid)"/>
 <rect x="0.5" y="0.5" width="759" height="339" fill="none" stroke="#68839d"/>
-<text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 1 · DROPPII V3, DATED</text>
 <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">FROM THE WEEKLY CHANGELOGS</text>
 <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
 <line x1="63.6" y1="150" x2="63.6" y2="72" stroke="#6f8fb0" stroke-width="1.5"/><circle cx="63.6" cy="150" r="3" fill="#6f8fb0"/><text x="69.6" y="62" font-size="10" fill="#a7c0d9" letter-spacing="0.5">20 MAY 2022</text><text x="69.6" y="74" font-size="10" fill="#a7c0d9">seller app live (public)</text>

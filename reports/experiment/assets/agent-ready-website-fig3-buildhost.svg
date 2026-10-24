@@ -24,7 +24,7 @@
   <text x="48" y="136" font-size="9.5" fill="#c3d7ea">build a finished ./out</text>
 
   <line x1="248" y1="109" x2="426" y2="109" stroke="#c3d7ea" marker-end="url(#arr3)"/>
-  <text x="337" y="101" font-size="8.5" fill="#6f8fb0" text-anchor="middle">hands over ./out</text>
+  <text x="337" y="101" font-size="9" fill="#6f8fb0" text-anchor="middle">hands over ./out</text>
 
   <rect x="428" y="70" width="298" height="78" fill="#21466a" stroke="#e8c56a"/>
   <text x="444" y="92" font-size="11" letter-spacing="1" fill="#e8c56a">WORKER  df-memo</text>
@@ -38,7 +38,7 @@
   <text x="48" y="240" font-size="9.5" fill="#c3d7ea">build a finished ./out</text>
 
   <line x1="248" y1="213" x2="426" y2="213" stroke="#c3d7ea" marker-end="url(#arr3)"/>
-  <text x="337" y="205" font-size="8.5" fill="#6f8fb0" text-anchor="middle">hands over ./out</text>
+  <text x="337" y="205" font-size="9" fill="#6f8fb0" text-anchor="middle">hands over ./out</text>
 
   <rect x="428" y="174" width="298" height="78" fill="#21466a" stroke="#68839d"/>
   <text x="444" y="196" font-size="11" letter-spacing="1" fill="#e8f1fa">PAGES  d-foundation-web</text>

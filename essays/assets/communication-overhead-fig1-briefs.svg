@@ -7,7 +7,6 @@
   <rect width="760" height="330" fill="#12395f"/>
   <rect width="760" height="330" fill="url(#grid1c)"/>
   <rect x="0.5" y="0.5" width="759" height="329" fill="none" stroke="#68839d"/>
-  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 1 · LONGER BRIEFS, LONGER RUNS, MORE FOLLOW-UPS</text>
   <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">3,016 SUBAGENTS · 24 SEP TO 17 OCT 2026</text>
   <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
   <text x="230" y="64" font-size="9.5" letter-spacing="1" fill="#a7c0d9">MEDIAN RUN, MINUTES</text>
