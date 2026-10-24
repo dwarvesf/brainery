@@ -46,11 +46,11 @@
   <text x="92" y="267" font-size="9" fill="#6f8fb0" text-anchor="end">0</text>
 
   <line x1="100" y1="94" x2="680" y2="94" stroke="#6f8fb0" stroke-dasharray="4 3"/>
-  <text x="676" y="90" font-size="8.5" fill="#6f8fb0" text-anchor="end">VERCEL 85</text>
+  <text x="676" y="90" font-size="9" fill="#6f8fb0" text-anchor="end">VERCEL 85</text>
   <line x1="100" y1="116" x2="680" y2="116" stroke="#6f8fb0" stroke-dasharray="4 3"/>
-  <text x="676" y="112" font-size="8.5" fill="#6f8fb0" text-anchor="end">STRIPE 74</text>
+  <text x="676" y="112" font-size="9" fill="#6f8fb0" text-anchor="end">STRIPE 74</text>
   <line x1="100" y1="142" x2="680" y2="142" stroke="#6f8fb0" stroke-dasharray="4 3"/>
-  <text x="230" y="138" font-size="8.5" fill="#6f8fb0" text-anchor="end">GITHUB 61</text>
+  <text x="230" y="138" font-size="9" fill="#6f8fb0" text-anchor="end">GITHUB 61</text>
 
   <polyline class="line-blue" points="150,160 320,106 490,94" fill="none" stroke="#a7c0d9" stroke-width="2"/>
   <circle class="mark mark-blue" cx="150" cy="160" r="3.5" fill="#a7c0d9"/>
