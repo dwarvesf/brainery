@@ -148,7 +148,7 @@ The platform's core components include:
 
 ### Session lifecycle management
 
-E2B implements session management for persistent development environments. The boot times shown reflect Firecracker's performance characteristics[²](https://www.usenix.org/system/files/nsdi20-paper-agache.pdf):
+E2B implements session management for persistent development environments. The boot times shown reflect [Firecracker](#ref-13)'s performance characteristics[²](https://www.usenix.org/system/files/nsdi20-paper-agache.pdf):
 
 ```mermaid
 sequenceDiagram
@@ -429,7 +429,7 @@ This template-based architecture represents a sophisticated approach to environm
 
 ## Security and isolation models
 
-E2B implements a **multi-layered security and isolation model** that combines Firecracker microVM isolation, dual authentication mechanisms, and secure communication protocols to provide safe execution environments for AI agents.
+E2B implements a **multi-layered security and isolation model** that combines Firecracker [microVM](#ref-12) isolation, dual authentication mechanisms, and secure communication protocols to provide safe execution environments for AI agents.
 
 ### Authentication and access control
 
@@ -670,6 +670,8 @@ This **scaling-focused architecture** leverages the technical implementations de
 9. [E2B Enterprise Solutions](https://e2b.dev/enterprise)
 10. [E2B Cookbook - Code Examples](https://github.com/e2b-dev/e2b-cookbook)
 11. [DeepWiki - E2B](https://deepwiki.com/e2b-dev/E2B)
+12. **MicroVM**: A lightweight virtual machine designed to provide the security and isolation of traditional VMs while maintaining the resource efficiency and rapid startup times of containers.
+13. **Firecracker**: AWS's purpose-built Virtual Machine Monitor (VMM) written in Rust.
 
 ---
 

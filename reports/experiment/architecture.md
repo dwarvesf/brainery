@@ -22,7 +22,7 @@ slug: brainery-architecture
 
 > **tl;dr**
 >
-> Brainery uses a multi-part architecture: **Fortress DB** for structured data, a **Landing area** for raw unstructured data, and a **Pipeline** that processes everything into the **brainery-db**. This core **TimescaleDB** is accessed via the **MCP Server** to turn diverse inputs into a living knowledge base.
+> Brainery uses a multi-part architecture: **Fortress DB** for structured data, a **Landing area** for raw unstructured data, and a **Pipeline** that processes everything into the **brainery-db**. This core **[TimescaleDB](#ref-2)** is accessed via the **[MCP](#ref-1) Server** to turn diverse inputs into a living knowledge base.
 
 Our second brain project, internally known as **Brainery**, is engineered to be more than just a data repository; it's a dynamic and evolving **knowledge base**. It’s designed to empower you to truly understand and connect disparate pieces of information, moving beyond simple AI queries to genuine insight. This article will walk you through the architecture that makes this possible, explaining how data flows and transforms into actionable knowledge.
 
@@ -49,7 +49,7 @@ Collecting data is just the first step. The real power of **Brainery** comes fro
 2. **Landing area (collector):**
 
 - This is an initial aggregation point for **unstructured** and **semi-structured data** (from protected and public sources) before it enters the main processing pipeline.
-- Data is often stored in **Parquet files**, a columnar format optimized for big data analytics, typically within **cloud storage** (GCP, AWS).
+- Data is often stored in **[Parquet](#ref-3) files**, a columnar format optimized for big data analytics, typically within **cloud storage** (GCP, AWS).
 - It's crucial for our **social listening module**, capturing external signals.
 
 3. **Pipeline (consume):**
@@ -78,6 +78,12 @@ Collecting data is just the first step. The real power of **Brainery** comes fro
 ### The goal: a living knowledge base
 
 This architecture aims to create a **living knowledge base** that grows and adapts. By systematically capturing, structuring, and intelligently processing diverse data, **Brainery** helps us uncover insights, track trends, and foster continuous learning and informed decision-making.
+
+## References
+
+1. **MCP**: Standardizes data exchange between services and models, ensuring consistent communication.
+2. **TimescaleDB**: An extension of PostgreSQL optimized for time-series data.
+3. **Parquet**: A columnar format optimized for big data analytics.
 
 ---
 

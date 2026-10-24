@@ -27,7 +27,7 @@ redirect:
   - /PflC0w
 ---
 
-A retrieval-augmented generation (RAG) app is a vector database with a few stages around it. Text goes in as chunks, gets indexed, comes back as candidates, and is ranked before the model sees it. Two more pieces sit at the edges: a cache that skips the pipeline for repeated questions, and a memory that turns past chat messages into retrievable data. This page walks through those stages in pipeline order, with the techniques and code the notes collected.
+A retrieval-augmented generation (RAG) app is a vector database with a few stages around it. Text goes in as [chunks](#ref-7), gets indexed, comes back as candidates, and is ranked before the model sees it. Two more pieces sit at the edges: a cache that skips the pipeline for repeated questions, and a memory that turns past chat messages into retrievable data. This page walks through those stages in pipeline order, with the techniques and code the notes collected.
 
 ## Chunking source text
 
@@ -147,7 +147,7 @@ Evaluation used the NarrativeQA, QASPER and QuALITY datasets, with BLEU, ROUGE, 
 
 ## Re-ranking retrieved results
 
-Retrieval returns a heterogeneous set of documents. They relate to the query, but they often carry extraneous details that clutter the generation model's input. The generated text then loses coherence, accuracy or pertinence, which undermines the system's reliability. Re-ranking is the step that addresses this.
+Retrieval returns a heterogeneous set of documents. They relate to the query, but they often carry extraneous details that clutter the generation model's input. The generated text then loses coherence, accuracy or pertinence, which undermines the system's reliability. [Re-ranking](#ref-8) is the step that addresses this.
 
 ### Why retrieval needs a second pass
 
@@ -295,9 +295,11 @@ The exact details depend on your application and chatbot design.
 
 ## References
 
-- <https://www.pinecone.io/learn/chunking-strategies/>
-- <https://arxiv.org/html/2401.18059v1>
-- <https://cohere.com/blog/rerank>
-- <https://cohere.com/rerank>
-- Galileo, "Mastering RAG: how to select a reranking model" (rungalileo.io, domain no longer resolves)
-- <https://github.com/zilliztech/GPTCache>
+1. <https://www.pinecone.io/learn/chunking-strategies/>
+2. <https://arxiv.org/html/2401.18059v1>
+3. <https://cohere.com/blog/rerank>
+4. <https://cohere.com/rerank>
+5. Galileo, "Mastering RAG: how to select a reranking model" (rungalileo.io, domain no longer resolves)
+6. <https://github.com/zilliztech/GPTCache>
+7. **Chunking**: You split large text into smaller segments, feed them to an embedding model, and store them in a vector database for similarity search.
+8. **Re-ranking**: A second-pass document filter in an information retrieval system. It evaluates and re-orders the retrieved documents so the most relevant and useful ones go to the generation model first.

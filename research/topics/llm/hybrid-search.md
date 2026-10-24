@@ -16,7 +16,7 @@ redirect:
 
 ## Introduction
 
-Retrieval-Augmented Generation is challenging the world of traditional search engines and LLM information retrieval. Hybrid search, which combines the strengths of vector search and full-text search, offers a powerful solution for the lack of precision in vector search and meaning in full-text search. In this article, we will know how hybrid search approach and how to evaluate each search method through metrics in information retrieval.
+Retrieval-Augmented Generation is challenging the world of traditional search engines and LLM information retrieval. Hybrid search, which combines the strengths of [vector search](#ref-6) and full-text search, offers a powerful solution for the lack of precision in vector search and meaning in full-text search. In this article, we will know how hybrid search approach and how to evaluate each search method through metrics in information retrieval.
 
 ## Search methodology in RAG system
 
@@ -30,7 +30,7 @@ However, in a large dataset, their suggestions might sometimes miss the keyword 
 
 ### Full text search
 
-Imagine searching for "adventure" and "mystery" in a library of thousands of books - full-text search makes it possible! To make this magic happen, various algorithms come into play. **The inverted index** acts like a giant dictionary, mapping each word to the documents it appears in. **TF-IDF** ( term frequency-inverse document frequency ) considers the frequency and uniqueness of words to prioritize relevant documents. Boolean retrieval lets you combine search terms using logical operators like AND, OR, and NOT. Full-text search allows you to find exact keyword by enclosing words in quotes. These algorithms work together to make searching through large amounts of text quick, efficient, and accurate.
+Imagine searching for "adventure" and "mystery" in a library of thousands of books - full-text search makes it possible! To make this magic happen, various algorithms come into play. **The [inverted index](#ref-7)** acts like a giant dictionary, mapping each word to the documents it appears in. **TF-IDF** ( term frequency-inverse document frequency ) considers the frequency and uniqueness of words to prioritize relevant documents. Boolean retrieval lets you combine search terms using logical operators like AND, OR, and NOT. Full-text search allows you to find exact keyword by enclosing words in quotes. These algorithms work together to make searching through large amounts of text quick, efficient, and accurate.
 
 The problem with full-text search is that many documents might have the same keywords but entirely different content, leading to a heap of irrelevant results. For example, we have 10 articles on each topic: design pattern, design UI/UX, and design workflow. That means the word “design” will appear throughout the document, but the meaning of the document is different. 
 
@@ -235,10 +235,12 @@ NDCG@3 comparison across query types and search configurations. All vector retri
 
 To summarize, we will choose a hybrid search in cases where we need to combine meaning and precision. Using the re-rank model will increase accuracy, but the cost and context window length will be challenges. After that, we make decisions based on metrics when testing the datasets. Recall lets you know the percentage of missing chunks or get all chunks relevant, and precision makes sure the chunk retrieval is correct with the chunk you want. This metric will tell you what kind of search method will fit your datasets.
 
-## Reference
+## References
 
-- https://www.pinecone.io/learn/offline-evaluation
-- https://www.evidentlyai.com/ranking-metrics/ndcg-metric
-- https://deepchecks.com/glossary/normalized-discounted-cumulative-gain
-- https://superlinked.com/vectorhub/articles/optimizing-rag-with-hybrid-search-reranking
-- https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search
+1. https://www.pinecone.io/learn/offline-evaluation
+2. https://www.evidentlyai.com/ranking-metrics/ndcg-metric
+3. https://deepchecks.com/glossary/normalized-discounted-cumulative-gain
+4. https://superlinked.com/vectorhub/articles/optimizing-rag-with-hybrid-search-reranking
+5. https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search
+6. **Vector search**: A simple way for finding data that looks at the context of search queries and data inputs rather than just matching text.
+7. **Inverted index**: Acts like a giant dictionary, mapping each word to the documents it appears in.
