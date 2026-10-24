@@ -1,5 +1,5 @@
 ---
-title: "No. 09: Duc Nghiem on raising a daughter"
+title: "Duc Nghiem on raising a daughter"
 short_title: "Duc Nghiem"
 description: "Duc Nghiem, part 1 of his story as a father: an unplanned pregnancy, stepping back from his startup career for his daughter's first three years, and what raising her taught him. A TechieStory interview from 2021."
 date: 2021-06-21

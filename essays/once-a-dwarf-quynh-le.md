@@ -1,5 +1,5 @@
 ---
-title: "No. 03: Quynh Le on testing as a career"
+title: "Quynh Le on testing as a career"
 short_title: "Quynh Le"
 description: "Quynh Le on fighting her way into IT, moving from Java developer to tester, and why testing is a career, not a fallback for people who cannot code. A TechieStory interview from 2020."
 date: 2020-08-12

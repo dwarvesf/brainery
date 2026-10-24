@@ -1,5 +1,5 @@
 ---
-title: "No. 43: Tuan Dao on delegating to AI"
+title: "Tuan Dao on delegating to AI"
 short_title: "Tuan Dao"
 description: "Tuan Dao, an engineer at Dwarves, on moving from pair programming with AI to delegating to it, and why human review is always the bottleneck."
 date: 2026-10-22

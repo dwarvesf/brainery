@@ -1,5 +1,5 @@
 ---
-title: "No. 04: Duc Nghiem on backing startups"
+title: "Duc Nghiem on backing startups"
 short_title: "Duc Nghiem"
 description: "Duc Nghiem on moving from photography and design into startups, building the SHIELD startup community in Vietnam, and how he weighs a startup as an investor. A TechieStory interview from 2021."
 date: 2021-02-01

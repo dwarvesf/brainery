@@ -1,5 +1,5 @@
 ---
-title: "No. 06: Loc Nguyen on working in Germany"
+title: "Loc Nguyen on working in Germany"
 short_title: "Loc Nguyen"
 description: "Loc Nguyen, ten years into system architecture in Vietnam when he moved to Germany in 2019, on the culture shock of German work: no pings, booked time, consensus, and doing everything yourself. A TechieStory interview from 2021."
 date: 2021-03-11
