@@ -24,7 +24,7 @@ In August 2022 our newsletter called Dwarves "a team of 80s". In January 2023 th
 
 I made the language bet in 2015 and it held. Go appears on 14 of the 50 projects in our Notion record that carry a stack tag, and none of those 14 closed as failed. The hiring around the bet is the part I would do differently. In 2022 we set out to double the team and reached 1.5 times. The contractor records carry 43 start dates in the four quarters from October 2021 to September 2022, 22 of them in a single quarter. Six of the 43 left inside a year. Of the 51 start dates before that window, none did, though 16 of those have no end date either.
 
-![Headcount as we published it, 2015 to 2024 {#fig-headcount .live}](assets/company-scaling-fig1-headcount.svg 'Every dot is a headcount we printed at the time. Amber marks the hiring window and the peak. The dashed stretches have no count we trust.')
+![Headcount as we published it, 2015 to 2024 {#fig-headcount .live}](assets/company-scaling-fig1-headcount.svg 'Every dot is a headcount we printed at the time. The highlight marks the hiring window and the peak. The dashed stretches have no count we trust.')
 
 ## TL;DR
 
@@ -80,13 +80,13 @@ Between January 2023 and June 2024 the count halved. I have no record of a singl
 
 ## What the surge broke
 
-![Start dates per quarter, 2019 to 2023 {#fig-starts}](assets/company-scaling-fig2-starts.svg 'Contractor records with a start date. The median quarter has 3. The amber bar is the second quarter of 2022.')
+![Start dates per quarter, 2019 to 2023 {#fig-starts}](assets/company-scaling-fig2-starts.svg 'Contractor records with a start date. The median quarter has 3. The highlighted bar is the second quarter of 2022.')
 
 The Notion contractor table is the only roster I can query by date. It holds 275 records, and 114 carry a start date. Between 2019 and 2023 the median quarter has 3 of them. The fourth quarter of 2021 has 11 and the second quarter of 2022 has 22.
 
 The window held 43 start dates. Fifteen carry a Backend position. By stack, 11 carry Go, 8 NodeJS, 8 React and 4 Blockchain. The Go share of dated starts fell as intake rose: 4 of 11 in 2019, 4 of 11 in 2020, 6 of 24 in 2021, 8 of 35 in 2022. The surge came from hiring in every direction at once.
 
-![Who stayed past a year, by cohort {#fig-stayed}](assets/company-scaling-fig3-stayed.svg 'Two cohorts from the same table. Amber marks people who left in under a year.')
+![Who stayed past a year, by cohort {#fig-stayed}](assets/company-scaling-fig3-stayed.svg 'Two cohorts from the same table. The highlight marks people who left in under a year.')
 
 | Cohort               | Starts | Left in under a year | Ended after a year or more | Still active | Ended, no end date |
 | -------------------- | -----: | -------------------: | -------------------------: | -----------: | -----------------: |
@@ -113,7 +113,7 @@ It names three signs that a goal has stopped being valid. The table sets each be
 
 The note then asks two things of leaders. Check the team's competency honestly, on tech skill, adaptability and energy. And support people before you downsize: training, a mentor, a second chance. When downsizing is the answer, be transparent and respectful. The earlier [competency check](../../consulting/navigate/competency-check.md) asks the forward-looking questions that start this off, such as what share of the team can pick up the next wave.
 
-![Ten dated decisions on hiring and intake {#fig-decisions}](assets/company-scaling-fig4-decisions.svg 'Each date is the date printed on the page that records the decision. Amber is the rule from July 2020.')
+![Ten dated decisions on hiring and intake {#fig-decisions}](assets/company-scaling-fig4-decisions.svg 'Each date is the date printed on the page that records the decision. The highlight is the rule from July 2020.')
 
 The decisions run in order in Fig. 4. The rule from July 2020 sits fifteen months before the surge. Everything else landed during it or after. October 2021 added four tests for new projects. December 2021 added a 60-day plan for new hires. March 2022 fixed the interview at four stages and 1 hour 50 minutes of a candidate's time, with other engineers in the room. In August 2022 we moved probation approval to the team: three upvotes, as described in [You need 3 upvotes to pass probation](../../essays/passing-the-probation-get-3-upvotes.md). Our 2022 review says approval "happens when someone is accepted by the team, not by management".
 

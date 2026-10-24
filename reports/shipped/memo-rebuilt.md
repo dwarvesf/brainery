@@ -43,7 +43,7 @@ redirect:
 
 memo.d.foundation still serves a page called Memo architecture. It says the content pipeline runs on Elixir and keeps its data in DuckDB, and a sibling note says the site deploys to GitHub Pages. I curled the live page while writing this, and it still says Elixir. CI stopped using the Elixir compiler on 12 August 2026, and the site now runs as a Cloudflare Worker.
 
-![Memo's build and host in the May 2025 notes beside the stack today](assets/memo-rebuilt-fig1-hero.svg 'Left: the stack the May 2025 notes describe. Right: the stack that serves the site today. The amber box is the new part: one push now starts two repos.')
+![Memo's build and host in the May 2025 notes beside the stack today](assets/memo-rebuilt-fig1-hero.svg 'Left: the stack the May 2025 notes describe. Right: the stack that serves the site today. The highlighted box is the new part: one push now starts two repos.')
 
 Eight build notes from May 2025 made those claims. This report replaces them. It reads them as the "then", lines them up against what runs today, and records what changed and why, with the dates and public PRs. Two of the three repos behind today's stack are private, so the report describes their changes in words.
 
@@ -113,7 +113,7 @@ What the repos do record is a decision. In July 2026 the migration plan looked a
 
 ## Four moves in four weeks
 
-![From May 2025 to the squashed vault, in dates](assets/memo-rebuilt-fig2-moves.svg 'The dated moves. Amber marks the day the frontend changed owner.')
+![From May 2025 to the squashed vault, in dates](assets/memo-rebuilt-fig2-moves.svg 'The dated moves. The highlight marks the day the frontend changed owner.')
 
 **1. Cloudflare Pages, 23 July 2026.** PR 304 prepared the config, and the cutover record shows the run: a Pages project created and memo.d.foundation attached to it. Cloudflare Pages caps static redirects at 2,000 rules, so a Functions middleware carried the full 4,287-rule map, and a parity script confirmed 4,287 of 4,287 rules present with no target mismatches. The deploy uploaded 14,431 files in 263 seconds. Pages also rejects files over 25 MiB. Five asset paths broke that limit, all copies of two files, so they went to R2 and a small hand-kept map served them.
 
@@ -145,7 +145,7 @@ The guest-writer side of `df-memo-api` has its own report in [the guest-writer d
 
 ## What went wrong
 
-![Four publish incidents on one axis](assets/memo-rebuilt-fig4-incidents.svg 'Four incidents between 19 August and 18 September 2026. Amber marks the one the prune guard caught.')
+![Four publish incidents on one axis](assets/memo-rebuilt-fig4-incidents.svg 'Four incidents between 19 August and 18 September 2026. The highlight marks the one the prune guard caught.')
 
 **19 August: a green build with no pages.** Both repos held a Worker config with the same name, and Cloudflare resolves a Worker by script name, so the last deploy wins with no warning. A deploy from the frontend repo published a build with 14 pages. The whole site answered 404 with an empty body for about 13 minutes, until the other repo's publish replaced it. The deploy exited 0 because a build that compiles nothing still exits 0. The fixes are mechanical. A completeness gate compares the Markdown count in the vault to the HTML page count in the output and fails the run if the build is too small. Every deploy reads back which script Cloudflare holds and which commit it carries before it passes. Deploys default to a preview version that takes no traffic. The deeper fix removed the second writer: foundation-workers lost its frontend directory, so only one repo can reach `df-memo`.
 

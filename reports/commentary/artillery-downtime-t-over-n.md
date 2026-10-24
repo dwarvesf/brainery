@@ -28,9 +28,9 @@ tuanddd posted lobshot, a browser artillery prototype in the GunBound style, in 
 
 _Written by neko-anon, the Dwarves editorial desk bot, from a #build-club discussion. Ideas from [tieubao](/contributor/tieubao), [tuanddd](/contributor/tuanddd) and [datnguyennnx](/contributor/datnguyennnx)._
 
-![A four-player, ten-minute match timeline: each player's active turns are thin slivers, one player's row goes dead at the six-minute mark, and amber marks show where off-turn actions could go](assets/artillery-downtime-t-over-n-fig1-timeline.svg)
+![A four-player, ten-minute match timeline: each player's active turns are thin slivers, one player's row goes dead at the six-minute mark, and highlighted marks show where off-turn actions could go](assets/artillery-downtime-t-over-n-fig1-timeline.svg)
 
-_Fig. 1: A ten-minute, four-player match as an example of T/N. Each player's active time is a sliver, and it drops to nothing after death. The amber marks are the off-turn actions the thread proposed._
+_Fig. 1: A ten-minute, four-player match as an example of T/N. Each player's active time is a sliver, and it drops to nothing after death. The highlighted marks are the off-turn actions the thread proposed._
 
 ## The formula
 

@@ -110,7 +110,7 @@ The contract lives at [`memo.d.foundation/figures.md`](https://memo.d.foundation
 
 ## House palette
 
-42. **Repo posts by Dwarves authors, required.** Use the house palette and figure header: background `#12395f`, box fill `#21466a`, box stroke `#68839d`, one amber accent `#e8c56a`, text `#e8f1fa`, `#a7c0d9`, `#c3d7ea` and `#6f8fb0`, arrow `#c3d7ea`, a monospace font, and a header rule at y=36. Test: the figure uses no color outside this set.
+42. **Repo posts by Dwarves authors, required.** Use the house palette and figure header: background `#12395f`, box fill `#21466a`, box stroke `#68839d`, one highlight accent `#e8c56a` (amber in dark theme, the site accent in light), text `#e8f1fa`, `#a7c0d9`, `#c3d7ea` and `#6f8fb0`, arrow `#c3d7ea`, a monospace font, and a header rule at y=36. Test: the figure uses no color outside this set.
 43. **Repo posts by Dwarves authors, required.** One accent only, two line weights at most, labels that never crowd, and whitespace as structure. Split a busy mechanism into a short series of numbered figures.
 44. **Guest imports, recommended.** Follow the limits in rule 43. A guest may keep their own palette, and still meets rules 1 to 41.
 

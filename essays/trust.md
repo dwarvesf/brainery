@@ -28,7 +28,7 @@ slug: trust
 
 When production breaks at 2 a.m., leadership calls a short list of engineers first. Nobody appointed them and nobody published the list. This page describes how people get on it, what it costs them, and what takes a name off.
 
-![Three circles of trust, from your team to the company {#fig-circles .live}](assets/trust-fig1-circles.svg 'Trust reaches outward in three circles. Amber marks the circle people are called from.')
+![Three circles of trust, from your team to the company {#fig-circles .live}](assets/trust-fig1-circles.svg 'Trust reaches outward in three circles. The highlight marks the circle people are called from.')
 
 ## Three circles
 

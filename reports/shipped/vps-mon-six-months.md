@@ -18,7 +18,7 @@ tags:
 
 On 24 April 2026, one day after its first agent went live, our monitor broke itself. Its rate limiter spent the daily Cloudflare KV quota, the ingest path started answering 500, and the host it watched looked silent for 47 minutes. Six months later the same Worker, called vps-mon inside Dwarves, has paged us 5,068 times. Five of its 259 alert sources made 72% of those pages.
 
-![One Worker, three ways in, and who hears the alert](assets/vps-mon-six-months-fig1-hero.svg 'The monitor as it ran on 18 October 2026. The amber box is the part that does most of the work: every job calls home when it finishes, and silence is the alert.')
+![One Worker, three ways in, and who hears the alert](assets/vps-mon-six-months-fig1-hero.svg 'The monitor as it ran on 18 October 2026. The highlighted box is the part that does most of the work: every job calls home when it finishes, and silence is the alert.')
 
 vps-mon is internal. It lives in a private repository and has no public page, so this report links to none. The pattern is small enough to rebuild, and the last section gives the pieces. What follows is what I learned by reading every alert row the Worker wrote.
 
@@ -114,7 +114,7 @@ SELECT hb_id FROM heartbeats
 
 ## Where the 5,068 pages came from
 
-![New paging alert rows per week, all pages against silence pages {#fig-weekly .live}](assets/vps-mon-six-months-fig4-weekly.svg 'Weekly new CRIT and WARN rows across both instances, 26 ISO weeks. The amber point is the week log lines started shipping. The shaded band between the two lines is log lines and other rules.')
+![New paging alert rows per week, all pages against silence pages {#fig-weekly .live}](assets/vps-mon-six-months-fig4-weekly.svg 'Weekly new CRIT and WARN rows across both instances, 26 ISO weeks. The highlighted point is the week log lines started shipping. The shaded band between the two lines is log lines and other rules.')
 
 The chart has one broad hump and one spike, and each traces to a single source.
 
@@ -138,7 +138,7 @@ By kind, the 5,068 pages split into 2,296 silence pages (45%), 1,922 log-line pa
 
 ## Eleven incidents, six lessons
 
-![The eleven incident write-ups on a dated axis](assets/vps-mon-six-months-fig3-incidents.svg 'Letters match the paragraphs below. Amber marks E, the one that silenced both hosts at once.')
+![The eleven incident write-ups on a dated axis](assets/vps-mon-six-months-fig3-incidents.svg 'Letters match the paragraphs below. The highlight marks E, the one that silenced both hosts at once.')
 
 Each write-up has a timeline, the hypotheses I ruled out and the fix. Six lessons survive across them.
 

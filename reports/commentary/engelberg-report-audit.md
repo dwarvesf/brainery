@@ -24,7 +24,7 @@ I read it twice, and the second time with a different feeling. Most of what that
 
 This post is that walk-through. For each idea: what it is, in plain words, and the scene where it shows up at the foundation. Then what we learned, and what's next.
 
-![Nine learnings from the report against our own documents: what we had, what was missing, what changed this week {#fig-matrix .live}](assets/engelberg-report-audit-fig1-matrix.svg "The whole thing in one grid. Each row is something the report says. The columns are what we already had, what was missing on the day I looked, and what changed in the week after. Amber means it shipped, an amber ring means it's named and next.")
+![Nine learnings from the report against our own documents: what we had, what was missing, what changed this week {#fig-matrix .live}](assets/engelberg-report-audit-fig1-matrix.svg "The whole thing in one grid. Each row is something the report says. The columns are what we already had, what was missing on the day I looked, and what changed in the week after. The highlight colour means it shipped, a highlighted ring means it's named and next.")
 
 ## 1. Checking is the bottleneck now, not writing
 
@@ -87,7 +87,7 @@ And what the agent sees after a `tsc --strict` run that produced TS2345 and TS18
 
 **The scene at the foundation.** Mildly embarrassing. We had the pruning gate, the place where proposed skills get approved or rejected, for months. What we didn't have was anything feeding it. My settings file, the one that decides what runs around the model every session, read `"PreCompact": []` and `"SessionEnd": []`. Those two events are where the session-end review is supposed to fire. Empty. Nothing had ever reached the gate. Shears, no garden.
 
-![The learn loop: a session ends, a reviewer reads what went wrong, drafts a proposal, a human prunes; the first arrow was never wired {#fig-loop .live}](assets/engelberg-report-audit-fig3-loop.svg 'The loop the report describes. The gate on the right existed for months. The dashed amber arrow is the one that was missing.')
+![The learn loop: a session ends, a reviewer reads what went wrong, drafts a proposal, a human prunes; the first arrow was never wired {#fig-loop .live}](assets/engelberg-report-audit-fig3-loop.svg 'The loop the report describes. The gate on the right existed for months. The dashed highlighted arrow is the one that was missing.')
 
 It's wired now, with a guard so a missing script can't break a session. The whole fix is one entry, and the guard is the `[ -x ... ] && exec ... || exit 0` shape, which is there because the last time a hook pointed at a script that had been removed, every session died with exit 127:
 
@@ -178,7 +178,7 @@ The gaps were mostly in checking, which is the report's whole point. The break-i
 
 And the fixes were small. Seven gaps closed as pull requests in five repositories in one week, each through the full path: a spec, an adversarial review of the spec, a build, a fresh-context verifier that re-runs the spec's own verification commands, then a review battery of several lenses. Those batteries caught fifty findings before anything merged. The path itself is public, in [dwarves-kit](https://github.com/dwarvesf/dwarves-kit): the [workflow](https://github.com/dwarvesf/dwarves-kit/blob/master/docs/WORKFLOW.md?plain=1) is the map, the [battery](https://github.com/dwarvesf/dwarves-kit/blob/master/commands/battery.md?plain=1) is the last gate, and the break-it change is the worked example.
 
-![Findings the review battery caught before merge, per branch: 19, 15, 9, 7 {#fig-battery .live}](assets/engelberg-report-audit-fig4-battery.svg 'Fifty findings across four branches before anything merged. The amber slice on each bar is the one finding that would have shipped a wrong result: the fixture that accepted "abc", the guard that blocked "lint" as a package, the config that opened no PRs, the fourteen-day wait printed as 257 days.')
+![Findings the review battery caught before merge, per branch: 19, 15, 9, 7 {#fig-battery .live}](assets/engelberg-report-audit-fig4-battery.svg 'Fifty findings across four branches before anything merged. The highlighted slice on each bar is the one finding that would have shipped a wrong result: the fixture that accepted "abc", the guard that blocked "lint" as a package, the config that opened no PRs, the fourteen-day wait printed as 257 days.')
 
 That cost about five hours of session time and roughly three and a half million tokens across seventeen subagent runs, on top of the lead session. A week of the fleet, not a free lunch.
 
