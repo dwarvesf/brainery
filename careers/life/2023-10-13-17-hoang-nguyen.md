@@ -9,8 +9,6 @@ chapters_also:
   - learning
 pearl: "In an environment where mentors, leaders, and seniors are always learning and upgrading themselves, newbies are encouraged to do the same."
 last_edited: "2024-03-08T00:00:00.000Z"
-series: life-at-dwarves
-series_part: 22
 authors: []
 credit: "Life at Dwarves interview, Dwarves Foundation, 2023"
 announce: false
