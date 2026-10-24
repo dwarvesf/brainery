@@ -1,5 +1,5 @@
 ---
-title: "No. 23: Hoang Nguyen on youthful energy"
+title: "No. 29: Hoang Nguyen on youthful energy"
 short_title: Hoang Nguyen
 description: Hoang Nguyen reflects on the vibrant learning culture at Dwarves, where young engineers eagerly explore new technologies and embrace challenges
 date: 2023-10-13

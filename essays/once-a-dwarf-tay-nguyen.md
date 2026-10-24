@@ -1,5 +1,5 @@
 ---
-title: "No. 13: Tay Nguyen on focusing on the core"
+title: "No. 19: Tay Nguyen on focusing on the core"
 short_title: "Tay Nguyen"
 description: "Tay Nguyen, a Senior Software Engineer at Dwarves in 2023, on how he knew IT was his field, his rule of fixing the core of a problem, and leaving a good job that did not fit."
 date: 2023-02-22
