@@ -13,8 +13,6 @@ kind: essay
 announce: false
 authors:
   - tuanddd
-series: once-a-dwarf
-series_part: 1
 tags:
   - once-a-dwarf
   - ai-in-their-words
