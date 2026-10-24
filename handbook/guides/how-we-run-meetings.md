@@ -15,6 +15,8 @@ redirect:
   - /jBTzlA
   - /handbook/guides/conduct-a-meeting
   - /HtXH7A
+type: company
+topic: company
 ---
 
 _Snapshot from 2019. Some tools and numbers have changed._

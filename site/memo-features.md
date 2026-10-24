@@ -10,6 +10,8 @@ tags:
   - memo
   - product
   - ai
+type: company
+topic: company
 ---
 
 This page lists what memo can do for you as a reader, and we keep it current. When a feature ships, it lands in the log below and gets its own section.

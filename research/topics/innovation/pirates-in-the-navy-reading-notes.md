@@ -12,6 +12,8 @@ tags:
   - organization
   - corporate
 redirect: []
+type: research
+topic: markets-strategy
 ---
 
 These are reading notes on _Pirates in the Navy: How Innovators Lead Transformation_ by Tendayi Viki (Unbound, 2020). They are adapted from David Drysdale's Moby Diction notes, with a few ideas from Rumelt, Gupta and Brinker that the original notes tie in.

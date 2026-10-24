@@ -10,6 +10,9 @@ tags:
   - workflow-tools
   - product-design
 slug: continuo-mac-control-after-restart
+type: research
+topic: engineering-practice
+series: forward
 ---
 
 ## The finding

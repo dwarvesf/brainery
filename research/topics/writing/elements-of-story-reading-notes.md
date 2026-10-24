@@ -11,6 +11,8 @@ tags:
   - writing
   - story-telling
 redirect: []
+type: research
+topic: knowledge-work
 ---
 
 These are reading notes on _The Elements of Story: Field Notes on Nonfiction Writing_ by Francis Flaherty (Harper Perennial, 2010 reprint). They are adapted from David Drysdale's Moby Diction notes.

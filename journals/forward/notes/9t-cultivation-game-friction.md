@@ -10,6 +10,9 @@ tags:
   - indie-games
   - prototyping
 slug: 9t-cultivation-game-friction
+type: research
+topic: engineering-practice
+series: forward
 ---
 
 ## The finding

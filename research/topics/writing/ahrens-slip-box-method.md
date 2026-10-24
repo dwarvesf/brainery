@@ -78,6 +78,8 @@ redirect:
   - /5oYS2w
   - /research/topics/writing/how-to-take-smart-notes/hierarchical-systems-limit-connections-across-their-horizontal-layers
   - /7iqmIw
+type: research
+topic: knowledge-work
 ---
 
 These notes are adapted from David Drysdale's Moby Diction digital garden (publish.obsidian.md/mobydiction, now offline). They summarize Sönke Ahrens's book _How to Take Smart Notes_ (2017). Han curated and edited them for the Dwarves research vault. Ahrens describes the zettelkasten, or slip box, as a way to take notes. These reading notes argue it is closer to a system for generating knowledge. You build a database of focused notes, link each one to the others, and let the growing web produce ideas you did not plan to have. This page gathers the notes on that book in one place, in the order the argument builds: the principles, the habits of note-taking, the systems around the notes, and the writing that comes out of them.

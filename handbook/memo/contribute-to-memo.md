@@ -22,6 +22,8 @@ redirect:
   - /vYSR0A
   - /handbook/community/memo
   - /eFskmA
+type: company
+topic: company
 ---
 
 Memo has three doors, and the one you use depends on who you are: a member (current staff), a fellow (alumni) or a guest writer. Staff with write access open a branch in `dwarvesf/brainery` and send a pull request. Staff without write access and alumni without a blog send the same pull request from a fork. A writer who owns a blog domain skips the repo: they prove the domain, an editor approves, and each approved post lands as a native note.

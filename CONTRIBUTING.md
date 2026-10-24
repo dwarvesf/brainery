@@ -4,6 +4,8 @@ description: The contribution guide for the Brainery now lives on Dwarves Memo, 
 date: 2026-10-18
 redirect:
   - /Wtk9EQ
+type: company
+topic: company
 ---
 
 ## Contributing to the brainery

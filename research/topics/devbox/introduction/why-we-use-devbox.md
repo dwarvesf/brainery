@@ -24,6 +24,8 @@ redirect:
   - /mGnQEQ
   - /research/topics/devbox/introduction/devbox-plugins
   - /cT2HkA
+type: research
+topic: platform-ops
 ---
 
 Our local development environments used to live in Docker. We moved them to Devbox, a tool built on Nix that gives each project an isolated, reproducible set of native packages. This page follows the order in which the questions come up: what went wrong with Docker for local work, what Devbox does about it, why we use Devbox instead of plain Nix, how the Nix pieces underneath work (shells and flakes), and the two Devbox features we lean on most (services and plugins).

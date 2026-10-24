@@ -14,6 +14,8 @@ tags:
   - features
   - feedback
   - build-in-public
+type: research
+topic: engineering-practice
 ---
 
 Every product team keeps facing the same question: what should we build next? These notes cover the tools that answer it. A roadmap sets the plan. Data and customer feedback show which features deserve the investment. The Kano model ranks the candidates. A feedback loop keeps the answers current, and building in public brings users into the process early.

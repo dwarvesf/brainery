@@ -11,6 +11,9 @@ tags:
   - model-routing
   - developer-tooling
 slug: 2026-10-17-expiring-model-credits-routing
+type: research
+topic: engineering-practice
+series: forward
 ---
 
 ## The finding

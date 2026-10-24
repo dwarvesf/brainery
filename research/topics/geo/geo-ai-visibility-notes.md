@@ -20,6 +20,8 @@ redirect:
   - /geo-citation-future
   - /research/topics/geo/geo-grind-guide
   - /geo-grind-guide
+type: research
+topic: knowledge-work
 ---
 
 As generative AI engines take the wheel in deciding what we see, read and remember, GEO raises a question beyond algorithm optimization: whose stories survive the next wave of digital memory, and whose fade away? This page covers three parts of that question. First, why citation by AI matters. Second, the repeated work of staying cited. Third, how to pick a tool that tracks your AI visibility.

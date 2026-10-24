@@ -14,6 +14,9 @@ tags:
   - cloudflare
   - incidents
   - operations
+type: report
+form: field
+topic: engineering-practice
 ---
 
 On 24 April 2026, one day after its first agent went live, our monitor broke itself. Its rate limiter spent the daily Cloudflare KV quota, the ingest path started answering 500, and the host it watched looked silent for 47 minutes. Six months later the same Worker, called vps-mon inside Dwarves, has paged us 5,068 times. Five of its 259 alert sources made 72% of those pages.

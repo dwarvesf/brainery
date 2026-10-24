@@ -21,6 +21,8 @@ redirect:
   - /lShD4w
   - /research/topics/devbox/research/nix-is-faster-than-docker-build
   - /CgQjYA
+type: research
+topic: platform-ops
 ---
 
 Docker build is not deterministic. The same `Dockerfile` can give different images at different times, because a build has access to the public internet. This note covers the two problems that causes, how Nix answers them with pinned package sets and fixed hashes, and why a Nix-built Docker image builds faster. It is part of the research behind [why we use Devbox](../introduction/why-we-use-devbox.md).

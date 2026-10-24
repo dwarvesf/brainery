@@ -12,6 +12,8 @@ tags:
   - metaphor
   - story-telling
 redirect: []
+type: research
+topic: engineering-practice
 ---
 
 These are reading notes on _Metaphors We Live By_ by George Lakoff and Mark Johnson (University of Chicago Press, 2008 edition). They are adapted from David Drysdale's Moby Diction notes.

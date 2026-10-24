@@ -12,6 +12,8 @@ tags:
   - narrative
   - story-telling
 redirect: []
+type: research
+topic: engineering-practice
 ---
 
 These are reading notes on _Narrative Economics: How Stories Go Viral and Drive Major Economic Events_ by Robert J. Shiller (Princeton University Press, 2019). They are adapted from David Drysdale's Moby Diction notes.

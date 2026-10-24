@@ -39,6 +39,9 @@ redirect:
   - /static-site-by-choice
   - /reports/shipped/static-site-by-choice
   - /xh2uZA
+type: report
+form: field
+topic: engineering-practice
 ---
 
 memo.d.foundation still serves a page called Memo architecture. It says the content pipeline runs on Elixir and keeps its data in DuckDB, and a sibling note says the site deploys to GitHub Pages. I curled the live page while writing this, and it still says Elixir. CI stopped using the Elixir compiler on 12 August 2026, and the site now runs as a Cloudflare Worker.

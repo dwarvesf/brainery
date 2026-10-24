@@ -14,6 +14,9 @@ tags:
   - marketplaces
   - go-to-market
 slug: 2026-10-09-game-monetization-starts-with-the-economy-loop
+type: research
+topic: engineering-practice
+series: forward
 ---
 
 ## The finding

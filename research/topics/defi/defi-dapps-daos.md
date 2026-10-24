@@ -13,6 +13,8 @@ tags:
   - defi
   - dapp
 redirect: []
+type: research
+topic: digital-assets
 ---
 
 DeFi, DApps and DAOs describe three layers of the same idea. DeFi is the set of financial services that run on blockchains. DApps are the applications those services are built as. DAOs are the organizations that govern them without a central authority. This note defines each one, then covers how a DApp is put together and where DAOs are used.

@@ -11,6 +11,8 @@ redirect:
   - /ux/sensemaking/sensemaking
 authors: []
 credit: David Drysdale (Moby Diction)
+type: research
+topic: product-engineering
 ---
 
 Sensemaking is a humanities-based approach to knowledge production that looks to build deep understanding of a people and what matters to them. It is derived heavily from phenomenology, particularly Martin Heidegger's notion of "being" as a filter through which we understand and interpret the world around us.

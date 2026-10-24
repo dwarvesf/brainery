@@ -13,6 +13,8 @@ tags:
   - business
   - innovation
 redirect: []
+type: research
+topic: markets-strategy
 ---
 
 These notes are adapted from David Drysdale's Moby Diction digital garden (publish.obsidian.md/mobydiction, now offline). They summarize Richard Rumelt's _Good Strategy Bad Strategy_ (2011), Simon Sinek's _The Infinite Game_ (2019) and Rita McGrath's _Seeing around Corners_ (2019), with Cedric Chin's 2020 essays on the OODA loop. Han curated and edited them for the Dwarves research vault. They treat strategy as a way of seeing before it is a plan. Richard Rumelt argues that having a strategy is itself a competitive advantage, because few organizations actually have one. For Rumelt a strategy rests on a kernel of three parts: a diagnosis, a guiding policy and coordinated action. The other notes here ask what feeds that diagnosis. Their answers are sensemaking, honest data, signals that arrive early, and a horizon longer than the next quarter. The page follows that order.

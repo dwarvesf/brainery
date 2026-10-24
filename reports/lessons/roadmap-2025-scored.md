@@ -36,6 +36,9 @@ redirect:
   - /oPwc3w
   - /org/2025/engagement-chair
   - /O2qaVQ
+type: report
+form: field
+topic: engineering-practice
 ---
 
 The 2025 roadmap still sits on this site in the future tense. "We're entering a pivotal year," it says, and then lists four bets and five chairs, 22 promises in all. It is October 2026. I went through every promise, looked for what happened to it, and scored it kept, half kept or dropped.

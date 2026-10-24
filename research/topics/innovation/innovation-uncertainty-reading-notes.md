@@ -12,6 +12,8 @@ tags:
   - uncertainty
   - strategy
 redirect: []
+type: research
+topic: markets-strategy
 ---
 
 These reading notes gather seven short pieces on innovation and uncertainty. They draw on McGrath, Rumelt, Varol, Viki, O'Reilly, Kay and King, Miller and colleagues, Ahrens, McKelvey and Paul Millerd. They are adapted from David Drysdale's Moby Diction notes.

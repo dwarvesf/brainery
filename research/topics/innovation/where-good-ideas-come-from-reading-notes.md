@@ -11,6 +11,8 @@ tags:
   - innovation
   - idea
 redirect: []
+type: research
+topic: markets-strategy
 ---
 
 These are reading notes on _Where Good Ideas Come From: The Seven Patterns of Innovation_ by Steven Johnson (Penguin, 2011). They are adapted from David Drysdale's Moby Diction notes.

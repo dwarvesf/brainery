@@ -19,6 +19,8 @@ redirect:
   - /V6UqeQ
   - /research/topics/rust/playaround-with-rust
   - /TVYfqQ
+type: research
+topic: languages
 ---
 
 These notes tour the parts of Rust a newcomer meets first. Ownership, immutability and lifetimes let the compiler reject unsafe code before it runs. Traits describe behavior that different types share. `Option`, `Result` and custom error types handle failure without nulls or exceptions.

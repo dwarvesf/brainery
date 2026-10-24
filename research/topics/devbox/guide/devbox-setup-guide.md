@@ -15,6 +15,8 @@ redirect:
   - /1bfI9A
   - /research/topics/devbox/guide/run-your-own-shell
   - /yArQUQ
+type: research
+topic: platform-ops
 ---
 
 This guide follows the order in which you meet Devbox in a project. Install it and pick a local or global shell, learn what goes into `devbox.json`, then use both to run a Go backend with PostgreSQL and no containers. For the reasons behind the move from Docker, see [why we use Devbox](../introduction/why-we-use-devbox.md).

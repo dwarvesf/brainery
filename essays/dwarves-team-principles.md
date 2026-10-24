@@ -58,6 +58,9 @@ redirect:
   - /site/culture-handbook
   - /culture/culture-handbook
   - /u0wCOQ
+type: writing
+form: essay
+topic: engineering-practice
 ---
 
 Between 2020 and 2023 we wrote a run of short culture essays. Each one covered a single habit of the team. This page keeps what they said in one place. Tool names, team structure and numbers are as of the year each essay was written, and the year is named where it matters.

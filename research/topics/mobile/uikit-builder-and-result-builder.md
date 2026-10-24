@@ -15,6 +15,8 @@ redirect:
   - /6Qg7AQ
   - /research/topics/mobile/swift-5-4-resultbuilder
   - /39s7gQ
+type: research
+topic: product-engineering
 ---
 
 SwiftUI writes UI code declaratively. This two-part tutorial brings the same style to UIKit. Part one builds a fluent builder pattern from `@discardableResult` and extensions. Part two adds `@resultBuilder` so that stack views and containers read like SwiftUI. By the end you can write a screen like this:
