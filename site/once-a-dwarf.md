@@ -112,3 +112,9 @@ Before Once a Dwarf, the team ran Life at Dwarves: short interviews with people 
 - #8, An Tran, 2022: [senior engineering](../careers/life/2022-07-22-4-an-tran.md)
 - #21, Khoi Ngo, 2023: [mentorship culture](../careers/life/2023-10-09-15-khoi-ngo.md)
 - #23, Le Kim Ngan, 2023: [QA standards](../careers/life/2023-10-16-16-kim-ngan.md)
+
+## Translated from Vietnamese
+
+TechieStory was a Vietnamese interview series about people in tech. A few of its interviews were with Dwarves people. The ones that never ran in English are translated here as first published, dated, with the original writer credited.
+
+- #47, Tay Nguyen, 2023: [focusing on the core](../essays/once-a-dwarf-tay-nguyen.md)
