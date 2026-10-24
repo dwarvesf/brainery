@@ -5,6 +5,7 @@ description: "Tay Nguyen, a Senior Software Engineer at Dwarves in 2023, on how 
 date: 2023-02-22
 program_path: tay-nguyen/focus-on-the-core
 slug: once-a-dwarf-tay-nguyen
+kind: note
 announce: false
 authors:
   - taynguyen
