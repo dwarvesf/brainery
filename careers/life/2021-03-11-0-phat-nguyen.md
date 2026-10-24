@@ -1,20 +1,26 @@
 ---
-draft: true
-title: "#3 Phat Nguyen on career transition"
+title: "No. 03: Phat Nguyen on career transition"
 short_title: Phat Nguyen
 description: "Phat Nguyen shares his bold journey from medical school to pursuing IT, highlighting the importance of following one's true passion even when it means starting over and making difficult decisions"
 date: 2021-03-11
+program_path: phat-nguyen/career-transition
 last_edited: "2024-03-08T00:00:00.000Z"
 series: life-at-dwarves
 series_part: 3
-authors:
-  - neko-anon
+authors: []
+credit: "Life at Dwarves interview, Dwarves Foundation, 2021"
+announce: false
 tags:
   - backend-engineer
   - career
   - life-at-dwarves
-redirect: []
+redirect:
+  - /bD3jhg
 ---
+
+_Recorded in 2021 for Life at Dwarves. Roles and plans are as of then._
+
+_The Vietnamese original ran on TechieStory as #15: [archived copy](https://web.archive.org/web/20220925182828/https://techiestory.net/vi/post/15-phat-nguyen)._
 
 **A Backend Engineer reflects on his courageous decision to drop out of medical school and pursue IT instead, emphasizing that while starting later than his peers felt challenging, following his true passion was the right choice, and the will to keep learning has been key to his success.**
 
