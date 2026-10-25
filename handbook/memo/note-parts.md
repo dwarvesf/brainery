@@ -1,6 +1,6 @@
 ---
 title: Write memo notes that lay out as parts
-description: The plain Markdown and frontmatter that memo turns into term peeks, step rails, checklists, definition grids, avoid and prefer pairs, case study fields, a status line, an age line, an abstract box and the Once a Dwarf story fields.
+description: The plain Markdown and frontmatter that memo turns into term peeks, highlights, accent text, step rails, checklists, definition grids, avoid and prefer pairs, case study fields, a status line, an age line, an abstract box and the Once a Dwarf story fields.
 date: 2026-10-23
 authors:
   - tieubao
@@ -46,6 +46,26 @@ term: Vector database
 ```
 
 Every link to that note from another note then reads as a term. The card shows the `term` value and the note's first sentence. Write that first sentence as the definition. A page carries at most 80 peeking note links.
+
+## Highlight and accent text
+
+Use a highlight for the one clause a skimming reader must not miss. Use accent text for a number or a term the eye should land on. Both work in every note type.
+
+```md
+Give each domain one owner agent, and keep ==the work inside it as plain functions==.
+Of 163 jobs in the lab, [125 stay plain code]{.accent}.
+```
+
+- `==text==` and `[text]{.mark}` give the text a light accent-coloured background. Obsidian shows `==text==` as a highlight too.
+- `[text]{.accent}` sets the text in the accent colour at semi-bold weight, with no underline, so it never reads as a link.
+- Only `.mark` and `.accent` exist. `[text]{.other}` shows as plain text. Nothing converts inside code or math.
+
+When to use them:
+
+- **Highlight**: at most one per section, and at most about one per 500 words of the note. Mark the clause that answers the section's question, usually in its opening sentences. Never a heading, a link, a single word, a sentence fragment or a status note.
+- **Accent**: a key number or a term at its first use, 1 to 4 words, at most one per paragraph. Never a whole sentence, never next to a link, never a citation.
+- **Never both** in one sentence. Bold stays for list leads and labels.
+- **Skim test**: read only the highlights, top to bottom. They should read as the note's summary. A highlight that adds nothing to that summary comes out.
 
 ## Step rail
 
