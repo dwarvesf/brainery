@@ -235,39 +235,39 @@ Our own numbers are aggregate and partial. Our estate is one team's lab, the fix
 
 ## What to read
 
-If you read one book on this, read Victor Dibia's *Designing Multi-Agent Systems* (2025). It treats workflows as a first-class option and covers when a single agent wins. Dibia built AutoGen, so expect that lean.
+If you read one book on this, read Victor Dibia's _Designing Multi-Agent Systems_ (2025). It treats workflows as a first-class option and covers when a single agent wins. Dibia built AutoGen, so expect that lean.
 
 The rest of the shelf, in the order I'd read it:
 
-- **Chip Huyen, *AI Engineering* (O'Reilly, 2025)**: evals, cost and latency. Without evals you can't tell whether an agent beats a script.
-- **Sinan Ozdemir, *Building Agentic AI* (Addison-Wesley, 2025)**: runs from workflows to agents, the same order as this question. Few reviews yet.
-- **Matthew Skelton and Manuel Pais, *Team Topologies*, 2nd edition (IT Revolution, 2025)**: narrow roles, clear interfaces and cognitive load, the best template I know for the "agents as staff" idea.
-- **Michael Nygard, *Release It!*, 2nd edition (Pragmatic, 2018)**: timeouts, circuit breakers and bulkheads, which is where the deterministic guardrails go.
+- **Chip huyen, *AI engineering* (o'reilly, 2025)**: evals, cost and latency. Without evals you can't tell whether an agent beats a script.
+- **Sinan ozdemir, *building Agentic AI* (addison-wesley, 2025)**: runs from workflows to agents, the same order as this question. Few reviews yet.
+- **Matthew skelton and manuel pais, *team topologies*, 2nd edition (IT revolution, 2025)**: narrow roles, clear interfaces and cognitive load, the best template I know for the "agents as staff" idea.
+- **Michael nygard, *release it!*, 2nd edition (pragmatic, 2018)**: timeouts, circuit breakers and bulkheads, which is where the deterministic guardrails go.
 
 ## References
 
-1. **Anthropic, Building effective agents**: engineering guide that separates workflows from agents, 2024-12. [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents).
+1. **Anthropic, building effective agents**: engineering guide that separates workflows from agents, 2024-12. [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents).
 2. **Harrison Chase, LangChain**: essay placing agentic systems on a spectrum, 2025-04. [How to think about agent frameworks](https://blog.langchain.com/how-to-think-about-agent-frameworks/).
 3. **Simon Willison**: working definition of an agent as tools in a loop, 2025-09. [I think agent may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/).
 4. **Anthropic, multi-agent research system**: lead agent with parallel subagents, 90.2% gain and token costs, 2025-06. [How we built our multi-agent research system](https://www.anthropic.com/engineering/built-multi-agent-research-system).
 5. **Kim et al., Google and MIT**: controlled study of multi-agent gains and losses by task type, 2025-12. [arXiv 2512.08296](https://arxiv.org/abs/2512.08296).
 6. **OpenAI, practical guide**: when to build an agent and when a deterministic solution suffices, 2025. [A practical guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf).
-7. **Walden Yan, Cognition**: single-threaded writes and clean-context review in production, 2026-04. [Multi-Agents: What's Actually Working](https://cognition.com/blog/multi-agents-working).
-8. **Xia et al., Agentless**: fixed pipeline on SWE-bench Lite with no agent loop, 2024. [arXiv 2407.01489](https://arxiv.org/abs/2407.01489).
+7. **Walden yan, Cognition**: single-threaded writes and clean-context review in production, 2026-04. [Multi-Agents: What's Actually Working](https://cognition.com/blog/multi-agents-working).
+8. **Xia et al., agentless**: fixed pipeline on SWE-bench Lite with no agent loop, 2024. [arXiv 2407.01489](https://arxiv.org/abs/2407.01489).
 9. **Ridnik et al., AlphaCodium**: flow engineering for code generation, 2024. [arXiv 2401.08500](https://arxiv.org/abs/2401.08500).
 10. **Kumar et al.**: hand-built against dynamically planned workflows on cost and accuracy, 2026. [arXiv 2606.00189](https://arxiv.org/abs/2606.00189).
 11. **Sinha et al.**: long-horizon execution and errors that grow from self-conditioning, ICLR 2026. [arXiv 2509.09677](https://arxiv.org/abs/2509.09677).
 12. **Yao et al., tau-bench**: tool-agent benchmark with the pass-all-k consistency metric, 2024. [arXiv 2406.12045](https://arxiv.org/abs/2406.12045).
 13. **METR, frontier risk report**: time horizons at 50% and 80% success, 2026-05. [Frontier Risk Report](https://metr.org/blog/2026-05-19-frontier-risk-report/).
-14. **CooperBench, Stanford**: two cooperating coding agents against one, 2026-01. [arXiv 2601.13295](https://arxiv.org/abs/2601.13295).
+14. **CooperBench, stanford**: two cooperating coding agents against one, 2026-01. [arXiv 2601.13295](https://arxiv.org/abs/2601.13295).
 15. **Fu et al.**: six multi-agent systems compared with a single agent on accuracy and tokens, 2026. [arXiv 2606.05670](https://arxiv.org/abs/2606.05670).
 16. **Cemri et al., MAST**: taxonomy of 14 multi-agent failure modes from 1,600+ traces, 2025. [arXiv 2503.13657](https://arxiv.org/abs/2503.13657).
-17. **Walden Yan, Cognition**: the case against parallel multi-agent writers, 2025-06. [Don't Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents).
+17. **Walden yan, Cognition**: the case against parallel multi-agent writers, 2025-06. [Don't Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents).
 18. **Chroma, context rot**: 18 models tested on retrieval as input length grows, 2025. [Context Rot](https://research.trychroma.com/context-rot).
 19. **Laban et al.**: LLMs get lost in multi-turn conversation, ICLR 2026. [arXiv 2505.06120](https://arxiv.org/abs/2505.06120).
 20. **Wu et al., LongMemEval**: benchmark for long-term memory in chat assistants, 2024. [arXiv 2410.10813](https://arxiv.org/abs/2410.10813).
-21. **Shopify Engineering, Sidekick**: lessons on tool count and multi-agent timing from a production agent, 2025-08. [Building production-ready agentic systems](https://shopify.engineering/building-production-ready-agentic-systems).
-22. **Anthropic Applied AI**: when to fold subagents into one agent loop and when a split still pays, 2026-10. [When to fold subagents into your main agent loop](https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop).
+21. **Shopify engineering, sidekick**: lessons on tool count and multi-agent timing from a production agent, 2025-08. [Building production-ready agentic systems](https://shopify.engineering/building-production-ready-agentic-systems).
+22. **Anthropic applied AI**: when to fold subagents into one agent loop and when a split still pays, 2026-10. [When to fold subagents into your main agent loop](https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop).
 23. **HumanLayer, 12-factor agents**: principles for production LLM software, 2025. [12-factor agents](https://github.com/humanlayer/12-factor-agents).
 24. **Anthropic, Claude Agent SDK**: agent loop design and rule-based verification before LLM judges, 2025-09. [Building agents with the Claude Agent SDK](https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk).
 25. **LangChain**: guidance to start with an agent harness and add graphs for control, 2026-08. [Deep Agents vs LangChain vs LangGraph](https://www.langchain.com/blog/deep-agents-vs-langchain-vs-langgraph).
