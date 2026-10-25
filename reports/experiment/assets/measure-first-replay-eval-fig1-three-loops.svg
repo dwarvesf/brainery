@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" style="width:100%;height:auto;max-width:760px;display:block" role="img" aria-label="Three loops: bootstrap, measure, improve, with a dogfood arrow back to measure">
+  <defs>
+    <pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#385a7b" stroke-width="1" opacity="0.6"/></pattern>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#c3d7ea"/></marker>
+    <marker id="aa" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#e8c56a"/></marker>
+  </defs>
+  <rect width="760" height="400" fill="#12395f"/>
+  <rect width="760" height="400" fill="url(#g)"/>
+  <rect x="0.5" y="0.5" width="759" height="399" fill="none" stroke="#68839d"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <text x="20" y="24" font-size="10" letter-spacing="2" fill="#a7c0d9">FIG. 1 · THREE LOOPS</text>
+    <text x="740" y="24" font-size="10" letter-spacing="2" fill="#a7c0d9" text-anchor="end">THE MODEL DRAWS THE MAP · REALITY KEEPS THE KEY</text>
+    <line x1="20" y1="36" x2="740" y2="36" stroke="#68839d"/>
+
+    <rect x="40" y="70" width="200" height="150" rx="6" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="140" y="96" font-size="13" fill="#e8f1fa" text-anchor="middle">LOOP 1 · BOOTSTRAP</text>
+    <text x="56" y="124" font-size="11" fill="#c3d7ea">field map + keywords</text>
+    <text x="56" y="144" font-size="11" fill="#c3d7ea">how experts judge quality</text>
+    <text x="56" y="164" font-size="11" fill="#c3d7ea">candidate measures</text>
+    <text x="56" y="184" font-size="11" fill="#c3d7ea">correct-when sentence</text>
+    <text x="140" y="208" font-size="10" fill="#6f8fb0" text-anchor="middle">mostly model knowledge</text>
+
+    <rect x="280" y="70" width="200" height="150" rx="6" fill="#21466a" stroke="#e8c56a" stroke-width="2"/>
+    <text x="380" y="96" font-size="13" fill="#e8c56a" text-anchor="middle">LOOP 2 · MEASURE</text>
+    <text x="296" y="124" font-size="11" fill="#c3d7ea">frozen answer key</text>
+    <text x="296" y="144" font-size="11" fill="#c3d7ea">baseline + gates</text>
+    <text x="296" y="164" font-size="11" fill="#c3d7ea">noise band</text>
+    <text x="296" y="184" font-size="11" fill="#c3d7ea">validated before use</text>
+    <text x="380" y="208" font-size="10" fill="#6f8fb0" text-anchor="middle">from reality, versioned</text>
+
+    <rect x="520" y="70" width="200" height="150" rx="6" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="620" y="96" font-size="13" fill="#e8f1fa" text-anchor="middle">LOOP 3 · IMPROVE</text>
+    <text x="536" y="124" font-size="11" fill="#c3d7ea">machine loop overnight</text>
+    <text x="536" y="144" font-size="11" fill="#c3d7ea">or practice loop weekly</text>
+    <text x="536" y="164" font-size="11" fill="#c3d7ea">keep only above noise</text>
+    <text x="536" y="184" font-size="11" fill="#c3d7ea">tie keeps the simpler</text>
+    <text x="620" y="208" font-size="10" fill="#6f8fb0" text-anchor="middle">input, output, schedule</text>
+
+    <line x1="240" y1="145" x2="276" y2="145" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#a)"/>
+    <line x1="480" y1="145" x2="516" y2="145" stroke="#c3d7ea" stroke-width="1.5" marker-end="url(#a)"/>
+
+    <path d="M620 220 V300 H380 V226" fill="none" stroke="#e8c56a" stroke-width="2" marker-end="url(#aa)"/>
+    <text x="500" y="320" font-size="11" fill="#e8c56a" text-anchor="middle">dogfood failure the metric missed: new case, next version</text>
+    <path d="M380 300 H140 V226" fill="none" stroke="#68839d" stroke-width="1" style="stroke-dasharray:5 4" marker-end="url(#a)"/>
+    <text x="260" y="350" font-size="11" fill="#a7c0d9" text-anchor="middle">wrong problem: back to loop 1</text>
+  </g>
+</svg>
