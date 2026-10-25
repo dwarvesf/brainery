@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 414" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" role="img" aria-labelledby="t d">
+  <title id="t">Fig. 10 timer versus trigger token cost</title>
+  <desc id="d">Tokens per day against new tickets per day. A 15 minute timer runs 96 times a day at 15k to 90k tokens per run, 1.44M to 8.64M tokens a day, whether or not anything changed. A trigger runs once per new ticket, 0.6M to 3.6M tokens a day at 40 tickets. At 90k tokens per run the trigger matches the timer's lowest day at 16 tickets a day. At 15k per run it matches it at 96 tickets a day.</desc>
+  <defs>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+  </defs>
+  <rect width="760" height="414" fill="#12395f"/>
+  <rect width="760" height="414" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="759" height="413" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 10 · TIMER VS TRIGGER</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">COMPUTED FROM THE PER-RUN RANGE, NOT MEASURED</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+  <line x1="70" y1="330.0" x2="620" y2="330.0" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="62" y="333.0" font-size="9" fill="#6f8fb0" text-anchor="end">0</text>
+  <line x1="70" y1="265.0" x2="620" y2="265.0" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="62" y="268.0" font-size="9" fill="#6f8fb0" text-anchor="end">2.5M</text>
+  <line x1="70" y1="200.0" x2="620" y2="200.0" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="62" y="203.0" font-size="9" fill="#6f8fb0" text-anchor="end">5M</text>
+  <line x1="70" y1="135.0" x2="620" y2="135.0" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="62" y="138.0" font-size="9" fill="#6f8fb0" text-anchor="end">7.5M</text>
+  <line x1="70" y1="70.0" x2="620" y2="70.0" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="62" y="73.0" font-size="9" fill="#6f8fb0" text-anchor="end">10M</text>
+  <line x1="70" y1="330" x2="620" y2="330" stroke="#68839d"/>
+  <line x1="70" y1="70" x2="70" y2="330" stroke="#68839d"/>
+  <line x1="196" y1="70" x2="196" y2="330" stroke="#385a7b"/>
+  <text x="70" y="56" font-size="9" letter-spacing="1.5" fill="#6f8fb0">TOKENS PER DAY</text>
+  <rect x="108" y="105.4" width="44" height="187.2" fill="#68839d" stroke="#c3d7ea"/>
+  <text x="130" y="99.4" font-size="10" fill="#e8f1fa" text-anchor="middle">8.64M</text>
+  <text x="130" y="306.6" font-size="10" fill="#e8f1fa" text-anchor="middle">1.44M</text>
+  <text x="130" y="346" font-size="9" letter-spacing="1" fill="#c3d7ea" text-anchor="middle">TIMER</text>
+  <text x="130" y="358" font-size="9" letter-spacing="0.5" fill="#6f8fb0" text-anchor="middle">96 RUNS/DAY</text>
+  <line x1="214.0" y1="330" x2="214.0" y2="334" stroke="#68839d"/>
+  <text x="214.0" y="346" font-size="9" fill="#6f8fb0" text-anchor="middle">0</text>
+  <line x1="315.5" y1="330" x2="315.5" y2="334" stroke="#68839d"/>
+  <text x="315.5" y="346" font-size="9" fill="#6f8fb0" text-anchor="middle">10</text>
+  <line x1="417.0" y1="330" x2="417.0" y2="334" stroke="#68839d"/>
+  <text x="417.0" y="346" font-size="9" fill="#6f8fb0" text-anchor="middle">20</text>
+  <line x1="518.5" y1="330" x2="518.5" y2="334" stroke="#68839d"/>
+  <text x="518.5" y="346" font-size="9" fill="#6f8fb0" text-anchor="middle">30</text>
+  <line x1="620.0" y1="330" x2="620.0" y2="334" stroke="#68839d"/>
+  <text x="620.0" y="346" font-size="9" fill="#6f8fb0" text-anchor="middle">40</text>
+  <text x="417.0" y="366" font-size="9" letter-spacing="1.5" fill="#6f8fb0" text-anchor="middle">NEW TICKETS PER DAY, ONE RUN EACH</text>
+  <text x="218" y="84" font-size="10" letter-spacing="1.5" fill="#e8c56a">TRIGGER</text>
+  <line x1="152" y1="292.6" x2="620" y2="292.6" stroke="#c3d7ea" stroke-opacity="0.7" style="stroke-dasharray:4 3"/>
+  <text x="218" y="285.6" font-size="9" fill="#c3d7ea">timer's lowest day: 1.44M</text>
+  <polygon points="214.0,330 620.0,236.4 620.0,314.4" fill="#e8c56a" fill-opacity="0.22"/>
+  <line x1="214.0" y1="330" x2="620.0" y2="236.4" stroke="#e8c56a" stroke-width="2"/>
+  <line x1="214.0" y1="330" x2="620.0" y2="314.4" stroke="#e8c56a" stroke-width="2"/>
+  <text x="628" y="239.4" font-size="9" fill="#e8c56a">90k per run · 3.6M</text>
+  <text x="628" y="317.4" font-size="9" fill="#e8c56a">15k per run · 0.6M</text>
+  <line x1="376.4" y1="292.6" x2="376.4" y2="330" stroke="#e8c56a" stroke-opacity="0.6" style="stroke-dasharray:3 3"/>
+  <circle cx="376.4" cy="292.6" r="5" fill="#12395f" stroke="#e8c56a" stroke-width="2"/>
+  <line x1="376.4" y1="285.6" x2="376.4" y2="244.6" stroke="#e8c56a"/>
+  <text x="384.4" y="222.6" font-size="10" fill="#e8c56a" text-anchor="end">16 tickets a day at 90k</text>
+  <text x="384.4" y="236.6" font-size="10" fill="#e8f1fa" text-anchor="end">equals the timer's lowest day</text>
+  <text x="70" y="392" font-size="9" fill="#6f8fb0">the timer pays for all 96 runs whether or not anything changed; at 15k per run</text>
+  <text x="70" y="405" font-size="9" fill="#6f8fb0">a trigger matches its lowest day only at 96 tickets a day, off this chart</text>
+</svg>

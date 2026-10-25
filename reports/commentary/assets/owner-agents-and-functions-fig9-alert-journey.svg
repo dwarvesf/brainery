@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 404" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" role="img" aria-labelledby="t d">
+  <title id="t">Fig. 9 one alert end to end</title>
+  <desc id="d">A swimlane with four lanes: job, LLM step, owner agent and you. A probe detects a failure and intake files a ticket (job). A triage crew returns JSON with a verdict and code validates and writes it (LLM step). The owner agent reads it, decides, and proposes or runs a fix through a tool. You get one report and approve anything irreversible. A recovery job proposes the close and the owner agent closes the ticket.</desc>
+  <defs>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+  </defs>
+  <rect width="760" height="404" fill="#12395f"/>
+  <rect width="760" height="404" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="759" height="403" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 9 · ONE ALERT, END TO END</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">JOBS DETECT, THE OWNER DECIDES</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+  <rect x="14" y="46" width="732" height="80" fill="none" stroke="#385a7b" stroke-width="1"/>
+  <text x="24" y="76" font-size="10" letter-spacing="1" fill="#e8f1fa">JOB</text>
+  <text x="24" y="92" font-size="9" fill="#6f8fb0">deterministic</text>
+  <rect x="14" y="130" width="732" height="80" fill="none" stroke="#385a7b" stroke-width="1"/>
+  <text x="24" y="160" font-size="10" letter-spacing="1" fill="#e8f1fa">LLM STEP</text>
+  <text x="24" y="176" font-size="9" fill="#6f8fb0">returns JSON</text>
+  <rect x="14" y="214" width="732" height="80" fill="none" stroke="#e8c56a" stroke-width="1"/>
+  <text x="24" y="244" font-size="10" letter-spacing="1" fill="#e8c56a">OWNER AGENT</text>
+  <text x="24" y="260" font-size="9" fill="#c3d7ea">judgment, text</text>
+  <rect x="14" y="298" width="732" height="80" fill="none" stroke="#385a7b" stroke-width="1"/>
+  <text x="24" y="328" font-size="10" letter-spacing="1" fill="#e8f1fa">YOU</text>
+  <text x="24" y="344" font-size="9" fill="#6f8fb0">approve</text>
+  <rect x="106" y="57" width="70" height="58" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="110" y="55" font-size="9" fill="#6f8fb0">1</text>
+  <text x="141.0" y="77" font-size="9" fill="#e8f1fa" text-anchor="middle">probe</text>
+  <text x="141.0" y="89" font-size="9" fill="#a7c0d9" text-anchor="middle">detects a</text>
+  <text x="141.0" y="101" font-size="9" fill="#a7c0d9" text-anchor="middle">failure</text>
+  <rect x="184" y="57" width="70" height="58" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="188" y="55" font-size="9" fill="#6f8fb0">2</text>
+  <text x="219.0" y="77" font-size="9" fill="#e8f1fa" text-anchor="middle">intake</text>
+  <text x="219.0" y="89" font-size="9" fill="#a7c0d9" text-anchor="middle">files a</text>
+  <text x="219.0" y="101" font-size="9" fill="#a7c0d9" text-anchor="middle">ticket</text>
+  <rect x="262" y="141" width="70" height="58" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="266" y="139" font-size="9" fill="#6f8fb0">3</text>
+  <text x="297.0" y="155" font-size="9" fill="#e8f1fa" text-anchor="middle">triage crew</text>
+  <text x="297.0" y="167" font-size="9" fill="#a7c0d9" text-anchor="middle">sends JSON;</text>
+  <text x="297.0" y="179" font-size="9" fill="#a7c0d9" text-anchor="middle">code checks</text>
+  <text x="297.0" y="191" font-size="9" fill="#a7c0d9" text-anchor="middle">and writes</text>
+  <rect x="340" y="225" width="70" height="58" fill="#21466a" stroke="#e8c56a" stroke-width="1"/>
+  <text x="344" y="223" font-size="9" fill="#e8c56a">4</text>
+  <text x="375.0" y="245" font-size="9" fill="#e8f1fa" text-anchor="middle">owner reads</text>
+  <text x="375.0" y="257" font-size="9" fill="#a7c0d9" text-anchor="middle">it and</text>
+  <text x="375.0" y="269" font-size="9" fill="#a7c0d9" text-anchor="middle">decides</text>
+  <rect x="418" y="225" width="70" height="58" fill="#21466a" stroke="#e8c56a" stroke-width="1"/>
+  <text x="422" y="223" font-size="9" fill="#e8c56a">5</text>
+  <text x="453.0" y="245" font-size="9" fill="#e8f1fa" text-anchor="middle">proposes or</text>
+  <text x="453.0" y="257" font-size="9" fill="#a7c0d9" text-anchor="middle">runs a fix</text>
+  <text x="453.0" y="269" font-size="9" fill="#a7c0d9" text-anchor="middle">via a tool</text>
+  <rect x="496" y="309" width="70" height="58" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="500" y="307" font-size="9" fill="#6f8fb0">6</text>
+  <text x="531.0" y="323" font-size="9" fill="#e8f1fa" text-anchor="middle">one report;</text>
+  <text x="531.0" y="335" font-size="9" fill="#a7c0d9" text-anchor="middle">you approve</text>
+  <text x="531.0" y="347" font-size="9" fill="#a7c0d9" text-anchor="middle">irreversible</text>
+  <text x="531.0" y="359" font-size="9" fill="#a7c0d9" text-anchor="middle">actions</text>
+  <rect x="574" y="57" width="70" height="58" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="578" y="55" font-size="9" fill="#6f8fb0">7</text>
+  <text x="609.0" y="77" font-size="9" fill="#e8f1fa" text-anchor="middle">recovery job</text>
+  <text x="609.0" y="89" font-size="9" fill="#a7c0d9" text-anchor="middle">proposes</text>
+  <text x="609.0" y="101" font-size="9" fill="#a7c0d9" text-anchor="middle">a close</text>
+  <rect x="652" y="225" width="70" height="58" fill="#21466a" stroke="#e8c56a" stroke-width="1"/>
+  <text x="656" y="223" font-size="9" fill="#e8c56a">8</text>
+  <text x="687.0" y="245" font-size="9" fill="#e8f1fa" text-anchor="middle">owner</text>
+  <text x="687.0" y="257" font-size="9" fill="#a7c0d9" text-anchor="middle">closes the</text>
+  <text x="687.0" y="269" font-size="9" fill="#a7c0d9" text-anchor="middle">ticket</text>
+  <path d="M 176 86.0 L 183 86.0" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <path d="M 219.0 115 L 219.0 170.0 L 261 170.0" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <path d="M 297.0 199 L 297.0 254.0 L 339 254.0" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <path d="M 410 254.0 L 417 254.0" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <path d="M 453.0 283 L 453.0 338.0 L 495 338.0" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <path d="M 531.0 309 L 531.0 86.0 L 573 86.0" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <path d="M 609.0 115 L 609.0 254.0 L 651 254.0" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" role="img" aria-labelledby="t d">
+  <title id="t">Fig. 6 the lab before</title>
+  <desc id="d">One ticket board in the centre with twelve arrows into it from different writers. Six are named: the recovery-close job, the personal orchestrator, desk spokes, the sweep session, the hourly board sync and the mirror cleanup. Six more are grouped. A dropped ticket came back, and tickets addressed to an agent got archived.</desc>
+  <defs>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+  </defs>
+  <rect width="760" height="380" fill="#12395f"/>
+  <rect width="760" height="380" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="759" height="379" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 6 · THE LAB BEFORE</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">MANY WRITERS, NO OWNER</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+  <rect x="290" y="150" width="180" height="100" fill="#21466a" stroke="#e8c56a" stroke-width="2"/>
+  <text x="380" y="184" font-size="12" letter-spacing="2" fill="#e8c56a" text-anchor="middle">TICKET BOARD</text>
+  <text x="380" y="206" font-size="10" fill="#c3d7ea" text-anchor="middle">one board</text>
+  <text x="380" y="222" font-size="9" fill="#a7c0d9" text-anchor="middle">every writer changes state</text>
+  <rect x="30" y="69" width="190" height="34" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="125" y="90" font-size="10" fill="#e8f1fa" text-anchor="middle">recovery-close job</text>
+  <path d="M 220 86 L 288 172" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <rect x="30" y="149" width="190" height="34" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="125" y="170" font-size="10" fill="#e8f1fa" text-anchor="middle">personal orchestrator</text>
+  <path d="M 220 166 L 288 200" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <rect x="30" y="229" width="190" height="34" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="125" y="250" font-size="10" fill="#e8f1fa" text-anchor="middle">desk spokes</text>
+  <path d="M 220 246 L 288 228" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <rect x="540" y="69" width="190" height="34" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="635" y="90" font-size="10" fill="#e8f1fa" text-anchor="middle">sweep session</text>
+  <path d="M 540 86 L 472 172" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <rect x="540" y="149" width="190" height="34" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="635" y="170" font-size="10" fill="#e8f1fa" text-anchor="middle">hourly board sync</text>
+  <path d="M 540 166 L 472 200" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <rect x="540" y="229" width="190" height="34" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="635" y="250" font-size="10" fill="#e8f1fa" text-anchor="middle">mirror cleanup</text>
+  <path d="M 540 246 L 472 228" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <rect x="300" y="312" width="160" height="38" fill="none" stroke="#68839d" stroke-width="1" style="stroke-dasharray:4 3"/>
+  <text x="380" y="335" font-size="10" letter-spacing="1" fill="#c3d7ea" text-anchor="middle">+6 MORE WRITERS</text>
+  <path d="M 310 312 L 310 252" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <path d="M 338 312 L 338 252" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <path d="M 366 312 L 366 252" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <path d="M 394 312 L 394 252" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <path d="M 422 312 L 422 252" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <path d="M 450 312 L 450 252" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <rect x="30" y="296" width="230" height="66" fill="none" stroke="#68839d" stroke-width="1"/>
+  <text x="42" y="314" font-size="9" letter-spacing="1.5" fill="#6f8fb0">WHAT BROKE</text>
+  <text x="42" y="330" font-size="9" fill="#a7c0d9">a dropped ticket came back;</text>
+  <text x="42" y="343" font-size="9" fill="#a7c0d9">tickets addressed to an agent</text>
+  <text x="42" y="356" font-size="9" fill="#a7c0d9">got archived</text>
+  <rect x="500" y="296" width="230" height="66" fill="none" stroke="#68839d" stroke-width="1"/>
+  <text x="512" y="314" font-size="9" letter-spacing="1.5" fill="#6f8fb0">READ IT AS</text>
+  <text x="512" y="330" font-size="9" fill="#a7c0d9">each arrow is one process</text>
+  <text x="512" y="343" font-size="9" fill="#a7c0d9">that changes ticket state</text>
+</svg>

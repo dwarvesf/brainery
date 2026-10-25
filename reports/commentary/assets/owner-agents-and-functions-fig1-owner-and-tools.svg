@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" role="img" aria-labelledby="t d">
+  <title id="t">Fig. 1 owner agent and its tools</title>
+  <desc id="d">You delegate a goal to one owner agent and read its report. The owner calls deterministic functions and workflows, and read-only helpers that return summaries. Boards, ledgers and files hold the shared state.</desc>
+  <defs>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+  </defs>
+  <rect width="760" height="400" fill="#12395f"/>
+  <rect width="760" height="400" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="759" height="399" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 1 · ONE OWNER, MANY FUNCTIONS</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">THE AGENT DECIDES, THE CODE DOES</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+  <rect x="30" y="56" width="140" height="100" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="100" y="90" font-size="12" letter-spacing="2" fill="#e8f1fa" text-anchor="middle">YOU</text>
+  <text x="100" y="112" font-size="10" fill="#a7c0d9" text-anchor="middle">delegates a goal</text>
+  <text x="100" y="128" font-size="10" fill="#a7c0d9" text-anchor="middle">reads the report</text>
+  <rect x="250" y="56" width="260" height="100" fill="#21466a" stroke="#e8c56a" stroke-width="2"/>
+  <text x="380" y="84" font-size="12" letter-spacing="2" fill="#e8c56a" text-anchor="middle">OWNER AGENT</text>
+  <text x="380" y="106" font-size="10" fill="#c3d7ea" text-anchor="middle">role + tools + permissions</text>
+  <text x="380" y="122" font-size="10" fill="#a7c0d9" text-anchor="middle">owns outcome, judgment, text</text>
+  <text x="380" y="138" font-size="10" fill="#a7c0d9" text-anchor="middle">one per domain</text>
+  <text x="210" y="88" font-size="9" letter-spacing="1" fill="#6f8fb0" text-anchor="middle">goal</text>
+  <path d="M 170 94 L 248 94" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <path d="M 250 122 L 172 122" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <text x="210" y="138" font-size="9" letter-spacing="1" fill="#6f8fb0" text-anchor="middle">report</text>
+  <rect x="570" y="56" width="160" height="100" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="650" y="84" font-size="10" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">READ-ONLY HELPERS</text>
+  <text x="650" y="106" font-size="10" fill="#a7c0d9" text-anchor="middle">search · review</text>
+  <text x="650" y="122" font-size="10" fill="#a7c0d9" text-anchor="middle">clean context,</text>
+  <text x="650" y="138" font-size="10" fill="#a7c0d9" text-anchor="middle">return a summary</text>
+  <text x="540" y="88" font-size="9" letter-spacing="1" fill="#6f8fb0" text-anchor="middle">ask</text>
+  <path d="M 510 94 L 568 94" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <path d="M 570 122 L 512 122" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <text x="540" y="138" font-size="9" letter-spacing="1" fill="#6f8fb0" text-anchor="middle">summary</text>
+  <path d="M 380 156 L 380 198" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <text x="392" y="182" font-size="9" letter-spacing="1" fill="#6f8fb0">CALLS</text>
+  <rect x="90" y="202" width="580" height="100" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="380" y="224" font-size="12" letter-spacing="2" fill="#e8f1fa" text-anchor="middle">FUNCTIONS AND WORKFLOWS</text>
+  <rect x="106" y="236" width="128" height="26" fill="#12395f" stroke="#68839d" stroke-width="1"/>
+  <text x="170" y="253" font-size="10" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">detection</text>
+  <rect x="246" y="236" width="128" height="26" fill="#12395f" stroke="#68839d" stroke-width="1"/>
+  <text x="310" y="253" font-size="10" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">money</text>
+  <rect x="386" y="236" width="128" height="26" fill="#12395f" stroke="#68839d" stroke-width="1"/>
+  <text x="450" y="253" font-size="10" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">state</text>
+  <rect x="526" y="236" width="128" height="26" fill="#12395f" stroke="#68839d" stroke-width="1"/>
+  <text x="590" y="253" font-size="10" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">schedule</text>
+  <text x="380" y="286" font-size="10" fill="#a7c0d9" text-anchor="middle">same input, same output · cheap · testable · durable</text>
+  <path d="M 380 302 L 380 330" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <text x="392" y="320" font-size="9" letter-spacing="1" fill="#6f8fb0">READ AND WRITE</text>
+  <rect x="90" y="334" width="580" height="50" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="380" y="355" font-size="12" letter-spacing="2" fill="#e8f1fa" text-anchor="middle">SHARED STATE</text>
+  <text x="380" y="373" font-size="10" fill="#a7c0d9" text-anchor="middle">boards · ledgers · files, the real memory, read by the owner too</text>
+</svg>
