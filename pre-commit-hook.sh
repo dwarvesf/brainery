@@ -167,6 +167,12 @@ else
     "$TEMP_SCRIPT"
 fi
 
+# Warn-only post check (handbook/memo/post-rubric.md, part A). Never blocks the commit.
+POST_CHECK="_meta/scripts/post-check.mjs"
+if [ -f "$POST_CHECK" ] && command -v node >/dev/null 2>&1; then
+    git diff --cached --name-only --diff-filter=AM -z -- '*.md' | xargs -0 node "$POST_CHECK" || true
+fi
+
 echo "pre-commit hook completed successfully for vault"
 EOF
 

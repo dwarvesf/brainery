@@ -119,12 +119,14 @@ The full rules sit on their own page, the [Memo media and styling standard](/mem
 
 - **Format.** Draw diagrams as SVG. Use a raster only for photos, screenshots and scans, as webp at quality 80 or PNG after `pngquant`. Keep one file per image, because the worker never serves a `.webp` twin beside a `.png`.
 - **Size.** Aim for a raster under 200 KB and between 704 and 1600 pixels wide, and an SVG under 60 KB. The reading column is about 704 pixels wide, so a narrower image blurs.
-- **SVG.** Author at a `viewBox` width of 720 to 760 with no fixed `width` or `height`, and add `style="width:100%;height:auto;max-width:<W>px;display:block"`. Start with an opaque background rect, or the figure floats on the dark theme.
-- **Alt and captions.** Every image gets non-empty alt text. Put an italic `_Fig. N: caption._` line under each figure, and name files `<slug>-figN-<name>.svg`.
+- **SVG.** Author at a `viewBox` width of 760 with no fixed `width` or `height`, and add `style="width:100%;height:auto;max-width:<W>px;display:block"`. Start with an opaque background rect, or the figure floats on the dark theme.
+- **Alt and captions.** Every image gets non-empty alt text. Write each figure as `![Title {#fig-id}](assets/x.svg 'Short title. Caption sentence.')` and refer to it with `@fig-id`. Name files in lowercase, `<slug>-figN-<name>.svg`.
 - **Hero and share card.** The first image in the body is the hero and the social card. Set `image:` only when the hero is not first, with an absolute path like `/content/<vault-path>/assets/<file>.png`.
 - **Credit.** Credit any image you did not make on the line under the caption.
 
 After a merge, `media-sync` moves raster files to the storage bucket and strips them from git. SVG stays in the repo. The workflow compresses each raster first and prints a warning in the run summary for any file still over 200 KB. The warning never fails the run.
+
+Before review, run the [post rubric](/memo-post-rubric): a script for the mechanical rules and fifteen judgment questions for the rest.
 
 ### Parts that come from Markdown
 
@@ -163,6 +165,8 @@ If your post carries raster images, expect a follow-up commit after the merge. B
 ```
 
 The script writes a `pre-commit` hook into `.git/hooks`. On every `git commit` the hook downloads the current `ci-lint.js` from `memo.d.foundation/tools/ci-lint.js` and runs it on your staged Markdown files. It needs `node` and either `curl` or `wget`. `./pre-commit-hook.sh status` shows whether the hook is installed, and `remove` takes it out.
+
+After the lint, the hook runs `_meta/scripts/post-check.mjs` on the same files. It only warns and never blocks the commit. Its rules are part A of the [post rubric](/memo-post-rubric). Reinstall the hook once to get this step.
 
 The hook also fixes. On a test file with a double-spaced heading and star bullets, it ran prettier, rewrote the file to a single space and dash bullets, and staged the result. It does not run the sentence-case check without AI-gateway credentials. It prints `sentence-case: CF_AI_GATEWAY_URL/CF_AIG_TOKEN not set ... skipping`, and CI runs that check for you.
 
@@ -359,6 +363,8 @@ Every door has a file an agent can read. You paste one sentence and the agent do
 | Member with write access             | [memo.d.foundation/contribute-skill.md](https://memo.d.foundation/contribute-skill.md) | Branch |
 | Staff or fellow without write access | [memo.d.foundation/contribute-skill.md](https://memo.d.foundation/contribute-skill.md) | Fork   |
 
+Whichever path you use, tell the agent to fetch the [post rubric](/memo-post-rubric) and run both parts on the draft before it opens the pull request.
+
 Paste the prompt for your path into Claude Code, Codex, Cursor or any agent that can run shell commands.
 
 **Guest writer, or fellow with a blog**
@@ -452,6 +458,7 @@ Run down this list before you open the pull request. The contributor skill check
 - [ ] `authors:` holds a GitHub-style handle, not a Discord name
 - [ ] No H1 in the body; headings are in sentence case
 - [ ] Figures are SVG without a fixed width, or optimized raster; every image has alt text and a caption
+- [ ] The [post rubric](/memo-post-rubric) ran: `node _meta/scripts/post-check.mjs <note>` is clean or each warning is explained, and part B has a verdict
 - [ ] `./pre-commit-hook.sh install` ran and the commit passed
 - [ ] The pull request body is mine, and contains no `[skip ci]`
 - [ ] Fork path only: I asked a maintainer to click "Approve and run"
