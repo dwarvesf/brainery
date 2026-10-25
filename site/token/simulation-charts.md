@@ -13,6 +13,8 @@ redirect:
   - /misc/tokenomics/simulation-charts
   - /obL39w
 slug: token-simulation-charts
+type: program
+topic: company
 ---
 
 

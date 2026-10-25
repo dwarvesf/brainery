@@ -70,6 +70,14 @@ redirect:
   - /event-takeaways-3rd
   - /WJltiw
 slug: forward-2025-06
+type: report
+form: market
+topic: ai-agents
+secondary_topics:
+  - markets-strategy
+series: forward
+fit: 2
+landing: true
 ---
 
 ## Welcome to forward engineering

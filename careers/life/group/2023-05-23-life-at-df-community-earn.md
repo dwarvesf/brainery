@@ -5,6 +5,8 @@ date: 2023-05-23
 last_edited: "2023-06-19T00:00:00.000Z"
 redirect:
   - /sU9Fmw
+type: company
+topic: company
 ---
 
 ### Life at Dwarves: Community earn

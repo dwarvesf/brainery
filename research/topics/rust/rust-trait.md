@@ -9,6 +9,8 @@ tags:
   - rust
   - trait
 redirect: []
+type: research
+topic: languages
 ---
 
 ## Understanding traits

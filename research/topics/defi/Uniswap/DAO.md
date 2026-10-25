@@ -7,6 +7,8 @@ tags:
   - blockchain
   - defi
 redirect: []
+type: research
+topic: digital-assets
 ---
 
 ### Decentralized autonomous organization

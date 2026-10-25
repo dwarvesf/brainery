@@ -10,6 +10,9 @@ tags:
   - docker
   - nix
 redirect: []
+type: research
+topic: platform-ops
+series: devbox
 ---
 
 On different machines with different nixpkgs versions, Nix build will result different packages.

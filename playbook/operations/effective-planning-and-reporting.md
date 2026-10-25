@@ -9,6 +9,9 @@ tags:
   - workflow
 redirect:
   - /1gr2lA
+type: playbook
+topic: company
+fit: 2
 ---
 
 We are now a borderless company with team members working remotely everywhere they want. Clear communication, at least in weekly planning and reporting is required for everyone.

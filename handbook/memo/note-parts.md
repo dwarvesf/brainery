@@ -11,6 +11,8 @@ tags:
 slug: memo-note-parts
 kind: reference
 draft: false
+type: company
+topic: company
 ---
 
 Memo lays a note out from the Markdown you already write. There is no new syntax to learn and no block to import. If your note has the shape a part looks for, the part appears. If it does not, the note reads as plain prose, which is fine.

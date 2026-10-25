@@ -10,6 +10,10 @@ tags:
   - llm
 redirect:
   - /MSHTyQ
+type: research
+topic: applied-llm
+secondary_topics:
+  - ai-agents
 ---
 
 ## Introduction

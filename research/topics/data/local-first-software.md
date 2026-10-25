@@ -13,6 +13,8 @@ tags:
   - real-time
 redirect:
   - /ri84Ig
+type: research
+topic: data
 ---
 
 ## What is Local-first software?

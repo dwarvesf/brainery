@@ -10,6 +10,9 @@ tags:
   - memo
 redirect:
   - /y8XpiA
+type: playbook
+topic: knowledge-work
+fit: 2
 ---
 
 Road to Discover Dwarves’ Voice: As you know, each individual at Dwarves represents craftsmanship and well-crafted products. I consider craftsmanship as one of the most fundamental aspects of our work, reflected in every piece of content we create.

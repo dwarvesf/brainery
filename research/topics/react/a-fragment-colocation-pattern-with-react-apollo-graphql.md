@@ -12,6 +12,9 @@ tags:
   - react
 redirect:
   - /NSl5tw
+type: research
+topic: product-engineering
+fit: 2
 ---
 
 By colocating fragments, we can easily reuse them across components that share common fields, reducing redundant code and promoting consistency. This can be further enhanced by using other layers of tooling, i.e. converting fragments into Typescript interfaces or auto generating React hooks for queries & mutations.

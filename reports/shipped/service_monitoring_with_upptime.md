@@ -13,6 +13,12 @@ tags:
 redirect:
   - /6babFw
 slug: service-monitoring-with-upptime
+type: report
+form: field
+topic: platform-ops
+secondary_topics:
+  - production-readiness
+fit: 3
 ---
 
 Ensuring services are up and running is crucial. But how do you monitor _everything_, including internal tools and sensitive APIs, without exposing them to the world? This is the story of how we adopted Upptime, leveraging the power of GitHub Actions and Secrets to achieve comprehensive and secure uptime monitoring.

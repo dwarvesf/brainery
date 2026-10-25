@@ -15,6 +15,9 @@ redirect:
   - /consulting/case-study/momos
   - /Kuhcmg
 slug: momos
+type: case-study
+topic: product-engineering
+fit: 2
 ---
 
 **Industry**\

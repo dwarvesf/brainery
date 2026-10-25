@@ -9,6 +9,9 @@ tags:
   - workflow
 redirect:
   - /LWx1wQ
+type: company
+topic: company
+fit: 2
 ---
 
 _Snapshot from 2017. Some tools and numbers have changed._

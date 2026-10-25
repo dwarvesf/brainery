@@ -6,6 +6,8 @@ date: 2026-08-27
 authors:
   - tieubao
 redirect: []
+type: research
+topic: knowledge-work
 ---
 
 The purpose of the Zettelkasten is [[¶ Collector's Fallacy | not just to store notes]]. Rather, it helps facilitate thinking. A well-maintained zettelkasten isn't just a notebook; it provokes new ideas by bringing disparate sources into conversation with one another and the researcher. It frees the brain up from having to remember dry facts so that it can spend its effort on the more important work of [[Knowledge work means transforming old ideas into new ones|generating new insight]].

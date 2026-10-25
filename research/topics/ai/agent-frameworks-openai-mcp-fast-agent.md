@@ -26,6 +26,12 @@ announce: false
 series: ai-agent-frameworks
 series_part: 2
 series_total: 5
+type: writing
+form: analysis
+topic: ai-agents
+secondary_topics:
+  - architecture
+fit: 3
 ---
 
 This part covers three ways to build agents on top of tools: OpenAI's own toolkit (Swarm, the Responses API and the Agents SDK), the Model Context Protocol (MCP) that standardizes how agents reach tools, and fast-agent, a framework built on MCP from the start. Each section says what the piece does, how an agent gets defined, and where it fits. Part 1 sets out the vocabulary (agents, orchestration, composition) and covers LangGraph and Autogen.

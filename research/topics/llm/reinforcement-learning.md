@@ -13,6 +13,8 @@ tags:
   - llm
 redirect:
   - /LWmmQA
+type: research
+topic: applied-llm
 ---
 
 ## Introduction

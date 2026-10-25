@@ -11,6 +11,10 @@ tags:
   - micro-frontend
 redirect:
   - /sYApew
+type: research
+topic: product-engineering
+secondary_topics:
+  - architecture
 ---
 
 ## Micro-Frontend - What & Why?

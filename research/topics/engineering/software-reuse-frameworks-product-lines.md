@@ -12,6 +12,8 @@ announce: false
 series: software-reuse
 series_part: 2
 series_total: 2
+type: research
+topic: engineering-practice
 ---
 
 Part 1 set out why teams reuse software and the landscape of ways to do it. This part looks at two larger-scale forms: application frameworks, which package a reusable skeleton in object-oriented code, and software product lines, which reuse a common core across a family of related products.

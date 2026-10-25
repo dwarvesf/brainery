@@ -13,6 +13,8 @@ tags:
   - bounty
 redirect:
   - /labs-2025
+type: company
+topic: company
 ---
 
 ## We are hiring community labs members

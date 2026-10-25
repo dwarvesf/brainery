@@ -11,6 +11,9 @@ tags:
   - forward-engineering
 redirect:
   - /WcQ7rA
+type: playbook
+topic: knowledge-work
+fit: 2
 ---
 
 We put together the forward engineering newsletter every month to share what the Dwarves uncover through tech research, experiments, and market trends.

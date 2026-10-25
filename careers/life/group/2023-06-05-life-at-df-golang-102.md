@@ -5,6 +5,8 @@ description: "Golang 102, the Dwarves club that helps junior engineers catch up 
 date: 2023-06-05
 last_edited: "2023-06-27T00:00:00.000Z"
 redirect: []
+type: company
+topic: company
 ---
 
 [Life at Dwarves] Golang 102

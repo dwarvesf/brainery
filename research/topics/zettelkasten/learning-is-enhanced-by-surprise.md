@@ -6,6 +6,8 @@ date: 2026-08-27
 authors:
   - tieubao
 redirect: []
+type: research
+topic: knowledge-work
 ---
 
 Information is created through the juxtaposition of one idea with another. But insight emerges when that juxtaposition creates a sense of surprise. When we are surprised—when we are confronted not with the expected message but a novel perspective—it expands our understanding by provoking comparison and contrast, evaluation and re-imagination.

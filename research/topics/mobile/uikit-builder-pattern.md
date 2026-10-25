@@ -5,6 +5,8 @@ description: Learn how to build reusable, flexible UIKit user interfaces using t
 date: 2022-08-05
 github_id: viettrungphan
 redirect: []
+type: research
+topic: product-engineering
 ---
 
 SwiftUI introduces a way to write UI code declaratively. Can we use the same paradigm with UIKit? We will show you how.

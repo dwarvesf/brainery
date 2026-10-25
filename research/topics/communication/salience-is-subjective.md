@@ -6,6 +6,8 @@ date: 2026-08-27
 redirect: []
 authors:
   - tieubao
+type: research
+topic: engineering-practice
 ---
 
 Problem solving, Roger Martin writes, involves first identifying the features of a problem that are most important. We can't possibly consider every facet of the challenge ahead, so we must pick and choose what we will care about. We therefore have to assess the salience of available information to the problem at hand.

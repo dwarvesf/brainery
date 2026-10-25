@@ -7,6 +7,9 @@ redirect:
   - /Xv9vQg
 authors: []
 credit: David Drysdale (Moby Diction)
+type: research
+topic: product-engineering
+fit: 2
 ---
 
 Personas have come under fire for including extraneous information that, beyond simply being unnecessary, can distract or contribute to misunderstandings about users and their contexts. For instance, Alan Klement suggests that by describing a set of attributes, personas distract teams from the actual problems their users are hoping to solve.

@@ -10,6 +10,8 @@ tags:
   - graphical-notation
   - software-design
 redirect: []
+type: research
+topic: architecture
 ---
 
 ![](assets/prototype-design-pattern.pdf)

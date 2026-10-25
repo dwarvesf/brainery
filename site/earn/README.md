@@ -12,6 +12,9 @@ redirect:
   - /earn
   - /Ufbods
 slug: earn
+type: program
+topic: company
+landing: true
 ---
 
 This program is part of our ICY initiative, which you can learn more about at [handbook](https://github.com/dwarvesf/handbook/blob/master/community/icy.md). ICY connects contributors with meaningful projects while rewarding valuable work across our ecosystem.

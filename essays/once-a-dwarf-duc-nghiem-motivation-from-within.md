@@ -15,6 +15,9 @@ tags:
   - techiestory
   - career
   - parenting
+type: writing
+form: essay
+topic: knowledge-work
 ---
 
 _First published on TechieStory, 22 June 2021: [archived copy](https://web.archive.org/web/20211202055822/https://techiestory.net/en/post/26-duc-nghiem). TechieStory also ran it in Vietnamese: [archived copy](https://web.archive.org/web/20230128010903/https://techiestory.net/vi/post/26-duc-nghiem). Roles and plans are as of that date. Part 1 is [Duc Nghiem on raising a daughter](https://memo.d.foundation/once/duc-nghiem/raising-a-daughter)._

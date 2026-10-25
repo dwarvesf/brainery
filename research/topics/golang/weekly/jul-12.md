@@ -10,6 +10,9 @@ tags:
   - generics
   - go-weekly
   - golang
+type: research
+topic: languages
+series: golang-weekly
 ---
 
 ## [Writing generic collection types in Go: the missing documentation](https://www.dolthub.com/blog/2024-07-01-golang-generic-collections/#the-solution)

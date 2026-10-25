@@ -11,6 +11,8 @@ tags:
   - operation
   - people
 redirect: []
+type: playbook
+topic: engineering-practice
 ---
 
 ## Getting started

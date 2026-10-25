@@ -9,6 +9,9 @@ tags:
   - signal
   - ux
 redirect: []
+type: research
+topic: markets-strategy
+series: book-the-signals-are-talking
 ---
 
 ### Notes

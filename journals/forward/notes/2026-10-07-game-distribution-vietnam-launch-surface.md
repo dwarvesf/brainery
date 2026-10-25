@@ -14,6 +14,9 @@ tags:
   - vietnam
   - product-launch
 slug: 2026-10-07-game-distribution-vietnam-launch-surface
+type: research
+topic: engineering-practice
+series: forward
 ---
 
 ## The finding

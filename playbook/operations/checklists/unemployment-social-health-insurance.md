@@ -11,6 +11,8 @@ tags:
   - operation
   - people
 redirect: []
+type: playbook
+topic: company
 ---
 
 ### When an employee ask for social insurance and contract

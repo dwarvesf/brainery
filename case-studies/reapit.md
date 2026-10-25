@@ -14,6 +14,9 @@ redirect:
   - /consulting/case-study/reapit
   - /oOpWiA
 slug: reapit
+type: case-study
+topic: product-engineering
+fit: 2
 ---
 
 **Industry**\

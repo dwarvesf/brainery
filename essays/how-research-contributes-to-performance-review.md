@@ -12,6 +12,8 @@ redirect:
   - /culture/how-research-contributes-to-performance-review
   - /eqjIYA
 slug: how-research-contributes-to-performance-review
+type: company
+topic: company
 ---
 
 ## Key assessment factors

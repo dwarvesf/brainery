@@ -5,6 +5,8 @@ description: Learn what a Domain Model is in Domain Driven Design, including key
 date: 2022-07-02
 github_id: R-Jim
 redirect: []
+type: research
+topic: architecture
 ---
 
 ## What is domain model

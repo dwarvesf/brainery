@@ -8,6 +8,8 @@ redirect:
   - /Tl57CL4
 authors:
   - huytieu
+type: research
+topic: engineering-practice
 ---
 
 ## What is DiSC?

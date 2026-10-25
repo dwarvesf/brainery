@@ -10,6 +10,8 @@ tags:
   - showcase
 redirect:
   - /RMW9jA
+type: program
+topic: company
 ---
 
 ## Showcase: sharing our work

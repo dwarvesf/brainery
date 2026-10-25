@@ -9,6 +9,9 @@ tags:
 - "claude-code"
 - "subagents"
 - "workflow"
+type: research
+topic: ai-agents
+fit: 3
 ---
 
 ## Thinking in teams

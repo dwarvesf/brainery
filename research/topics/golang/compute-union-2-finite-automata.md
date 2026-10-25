@@ -12,6 +12,8 @@ tags:
   - golang
 redirect:
   - /vUYAbg
+type: research
+topic: languages
 ---
 
 ## 1. What is Finite Automata? (A Simple Explanation)

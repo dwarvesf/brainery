@@ -6,6 +6,9 @@ redirect:
   - /h2928Q
 authors:
   - neko-anon
+type: playbook
+topic: engineering-practice
+fit: 2
 ---
 
 ### Our perspective on technology

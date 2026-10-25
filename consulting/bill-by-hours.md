@@ -9,6 +9,10 @@ tags:
   - engagement
 redirect:
   - /7kN5qg
+type: writing
+form: essay
+topic: markets-strategy
+fit: 2
 ---
 
 _Snapshot from 2024. Some tools and numbers have changed._

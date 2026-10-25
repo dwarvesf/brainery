@@ -9,6 +9,9 @@ tags:
   - agentic
   - software-design
   - agent
+type: research
+topic: ai-agents
+fit: 2
 ---
 
 _Snapshot from 2025. Some tools and numbers have changed._

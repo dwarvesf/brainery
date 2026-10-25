@@ -12,6 +12,8 @@ redirect:
   - /research/topics/design/what-i-learned-on-design-thinking-and-software-development
   - /UjlC1g
   - /topics/design/what-i-learned-on-design-thinking-and-software-development
+type: research
+topic: product-engineering
 ---
 
 I’m Minh Truong, I've been working as a UI/UX Design for 2 years. I'm currently part of the [Dwarves Foundation](https://dwarves.foundation/) team. My intention has always been to become a better problem solver, with creativity and productivity being my main goals and focus.

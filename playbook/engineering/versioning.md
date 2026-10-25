@@ -6,6 +6,8 @@ redirect:
   - /aorrpw
 authors:
   - neko-anon
+type: playbook
+topic: engineering-practice
 ---
 
 Larger applications consists of multiple components that reference each other and rely on compatibility of the interfaces of the components.

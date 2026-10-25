@@ -18,6 +18,11 @@ redirect:
   - /reports/commentary/yelp-ai-use-cases
   - /yelp-ai-use-cases
   - /jDxK1A
+type: research
+topic: ai-agents
+secondary_topics:
+  - applied-llm
+fit: 2
 ---
 
 ## The three levels that define modern AI

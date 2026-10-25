@@ -18,6 +18,10 @@ redirect:
   - /S2nKqG
   - /XqSkkA
   - /consulting/navigate/business-correction
+type: writing
+form: essay
+topic: engineering-practice
+fit: 2
 ---
 
 In August 2022 our newsletter called Dwarves "a team of 80s". In January 2023 the summit write-up counted just over 100. In June 2024 a team-session summary counted 50. This report is about what sits between those three numbers.

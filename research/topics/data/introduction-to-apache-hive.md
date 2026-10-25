@@ -9,6 +9,8 @@ redirect:
   - /2dEn0w
 authors:
   - dudaka
+type: research
+topic: data
 ---
 
 Welcome to one of the widely used tools in the Hadoop ecosystem! To get the best understanding about this tool, please visit the related articles about MapReduce, Apache Pig. In this article, we're going to see a brief introduction to Hive and we're going to create a Hive table and query a dataset using the newly created Hive table.

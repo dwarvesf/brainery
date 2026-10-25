@@ -13,6 +13,10 @@ redirect:
   - /F0hupQ
   - /product-management-basics
   - /research/topics/product/product-management-basics
+type: research
+topic: engineering-practice
+secondary_topics:
+  - markets-strategy
 ---
 
 ## What is a product roadmap

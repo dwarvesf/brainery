@@ -13,6 +13,9 @@ tags:
   - data-pipeline
 redirect:
   - /KS2h5w
+type: research
+topic: data
+fit: 2
 ---
 
 ## Motivation of designing data pipeline framework

@@ -9,6 +9,8 @@ tags:
   - nocode
 redirect:
   - /LJ20vQ
+type: research
+topic: product-engineering
 ---
 
 _Snapshot from 2021. Some tools and numbers have changed._

@@ -8,6 +8,8 @@ authors:
 tags:
   - communication
 redirect: []
+type: research
+topic: engineering-practice
 ---
 
 ## Summary

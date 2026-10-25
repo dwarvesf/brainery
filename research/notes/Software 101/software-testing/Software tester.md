@@ -10,6 +10,11 @@ tags:
   - testing
 redirect:
   - /3zL0qA
+type: research
+topic: engineering-practice
+secondary_topics:
+  - production-readiness
+fit: 2
 ---
 
 Today, many things are controlled by software and software quality is becoming the number one issue. With the world more interconnected by the internet, software has reached more people and more businesses than ever. With that, software defects have also increased significantly. While some defects can disrupt work, others can create damages with millions dollars in losses.

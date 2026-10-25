@@ -10,6 +10,9 @@ tags:
   - networking
   - go-weekly
   - golang
+type: research
+topic: languages
+series: golang-weekly
 ---
 
 ## [TinyGo 0.33.0: The Go compiler for 'small places'](https://github.com/tinygo-org/tinygo/releases/tag/v0.33.0)

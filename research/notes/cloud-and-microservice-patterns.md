@@ -13,6 +13,8 @@ tags:
   - cloud-pattern
   - system-design
   - pattern
+type: research
+topic: architecture
 ---
 
 Distributed systems fail in predictable ways: components need to talk without waiting on each other, data lives in several stores, load outgrows one database, and one broken service drags down the rest. These notes cover six patterns that answer those problems. Publisher-Subscriber handles messaging between components. Saga and CQRS handle data consistency and data access. Sharding scales the data store. Circuit Breaker and Throttling protect a system under failure and load.

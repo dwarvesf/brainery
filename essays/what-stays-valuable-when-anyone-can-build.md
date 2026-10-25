@@ -16,6 +16,12 @@ tags:
 slug: what-stays-valuable-when-anyone-can-build
 redirect:
   - /culture/what-stays-valuable-when-anyone-can-build
+type: writing
+form: essay
+topic: applied-llm
+secondary_topics:
+  - markets-strategy
+fit: 3
 ---
 
 When building gets cheap, value moves to the two inputs that cannot be made: judgment inside the firm and trust outside it. This post shows the mechanism from first principles. It uses figures and it names where the argument leaks. It is a framework, not a prediction. Dwarves uses this lens to run its build-by-fleet operations.

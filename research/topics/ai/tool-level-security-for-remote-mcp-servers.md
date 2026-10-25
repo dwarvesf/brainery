@@ -15,6 +15,11 @@ redirect:
 series: mcp-tool-security
 series_part: 1
 series_total: 2
+type: research
+topic: ai-agents
+secondary_topics:
+  - production-readiness
+fit: 2
 ---
 
 ![](assets/tool-level-security-for-remote-mcp-servers.webp)

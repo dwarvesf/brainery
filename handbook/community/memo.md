@@ -12,6 +12,8 @@ tags:
   - memo
 redirect: []
 draft: false
+type: company
+topic: company
 ---
 
 Dwarves Foundation sells something that is hard to show in a pitch deck: judgment about production systems. The website says it in six words, "Code got cheap. Consequences did not." Memo is where you can watch that judgment at work. It holds the reports, verdicts and case studies we're able to publish from the systems we build, run, audit and break, each one dated and signed by the person who did the work.

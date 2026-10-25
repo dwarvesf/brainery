@@ -7,6 +7,8 @@ redirect:
   - /W3bWug
 authors: []
 credit: David Drysdale (Moby Diction)
+type: research
+topic: product-engineering
 ---
 
 In epistemology, there are generally four theories by which a claim may be evaluated as true. These are

@@ -7,6 +7,10 @@ tags:
   - micro-frontend
 redirect:
   - /lNA1ug
+type: research
+topic: architecture
+secondary_topics:
+  - product-engineering
 ---
 
 ### What is Micro-frontend?

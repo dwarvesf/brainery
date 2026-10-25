@@ -8,6 +8,8 @@ authors:
 tags:
   - career
   - engineering
+type: company
+topic: company
 ---
 
 > We're looking for talented developer with experience in React Native to join Dwarves and work remotely, on a fast-growing US startup.

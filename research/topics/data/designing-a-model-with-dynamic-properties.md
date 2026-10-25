@@ -10,6 +10,9 @@ tags:
   - system-design
 redirect:
   - /CsFuag
+type: research
+topic: data
+fit: 2
 ---
 
 ## The expectation

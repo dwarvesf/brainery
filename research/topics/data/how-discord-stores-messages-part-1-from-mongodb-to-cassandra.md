@@ -9,6 +9,8 @@ redirect:
   - /3SGG8w
 authors:
   - fuatto
+type: research
+topic: data
 ---
 
 ## Introduction

@@ -126,6 +126,9 @@ redirect:
   - /D0TnsQ
   - /research/topics/innovation/where-good-ideas-come-from/where-good-ideas-come-from
   - /0YTbDA
+type: research
+topic: markets-strategy
+landing: true
 ---
 
 ## What is innovation?

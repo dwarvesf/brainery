@@ -31,6 +31,8 @@ redirect:
 series: email-template-library
 series_part: 1
 series_total: 2
+type: playbook
+topic: engineering-practice
 ---
 
 _Snapshot from 2020. Some tools and numbers have changed._

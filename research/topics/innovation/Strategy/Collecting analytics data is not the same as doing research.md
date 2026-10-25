@@ -7,6 +7,11 @@ tags:
   - data
   - strategy
 redirect: []
+type: research
+topic: markets-strategy
+secondary_topics:
+  - data
+series: book-strategy
 ---
 
 Devices and software create what Davis and Davidson call “data exhaust,” the detritus of our interactions with various interfaces. But this information is not designed with [[¶ Falsifiability | falsifiability]] in mind. It’s a by-product. Collecting it is not the same as doing research.

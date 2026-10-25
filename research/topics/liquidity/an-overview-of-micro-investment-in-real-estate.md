@@ -8,6 +8,8 @@ authors:
 tags:
   - design
   - research
+type: research
+topic: markets-strategy
 ---
 
 ![](assets/an-overview-of-micro-investment-in-real-estate_c090fa939fb85f75f0df5757eca321e4_md5.webp)

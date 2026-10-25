@@ -8,6 +8,8 @@ redirect:
   - /oDLurA
 authors:
   - hieuphq
+type: research
+topic: platform-ops
 ---
 
 ### What is git?

@@ -12,6 +12,8 @@ redirect:
   - /golang/connecting-vim-with-golang
 authors:
   - thanhnguyen2187
+type: research
+topic: engineering-practice
 ---
 
 ## Introduction

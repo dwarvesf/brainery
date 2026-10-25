@@ -6,6 +6,9 @@ redirect:
   - /AL3v5g
 authors:
   - neko-anon
+type: playbook
+topic: platform-ops
+fit: 2
 ---
 
 Logs are for auditing. There is a well-defined process for accessing and searching through logs. For every project that we worked with, a single server or multiple services, we always bring on our log stack to track what happens in the system.

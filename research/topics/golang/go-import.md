@@ -9,6 +9,8 @@ tags:
   - golang
   - import
 redirect: []
+type: research
+topic: languages
 ---
 
 Go’s import system, linked directly to git repository paths, was crucial to its early adoption. Unlike most languages, Go’s approach tightly integrates version control with package management, enhancing developer experience and reusability.

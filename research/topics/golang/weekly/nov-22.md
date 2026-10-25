@@ -9,6 +9,9 @@ authors:
 tags:
   - go-weekly
   - golang
+type: research
+topic: languages
+series: golang-weekly
 ---
 
 ## [Go sync.Once is simple... Is it really?](https://victoriametrics.com/blog/go-sync-once/)

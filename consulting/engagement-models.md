@@ -8,6 +8,9 @@ tags:
   - consulting
 redirect:
   - /H1gC0Q
+type: playbook
+topic: markets-strategy
+fit: 2
 ---
 
 Welcome, consultants (and maybe a few curious clients). In this guide, we’ll cover how we bill and how we engage, with advice to make you a trusted partner.

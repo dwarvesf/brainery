@@ -7,6 +7,9 @@ tags:
   - smart-note
   - writing
 redirect: []
+type: research
+topic: knowledge-work
+series: book-how-to-take-smart-notes
 ---
 
 Willpower is a finite resource, and difficult to sustain. Designing environments to facilitate desire behaviour is a much more effective approach in the long run.

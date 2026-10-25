@@ -11,6 +11,8 @@ tags:
   - nda
 redirect:
   - /Ykl3xQ
+type: company
+topic: company
 ---
 
 When you joined Dwarves, you signed some key agreements. Think of them less like paperwork and more like the bedrock of trust between you, the company, and our clients.

@@ -14,6 +14,12 @@ tags:
 slug: claude-code-read-deny-bash-prompts
 series: harness-engineering
 series_part: 4
+type: writing
+form: analysis
+topic: ai-agents
+secondary_topics:
+  - production-readiness
+fit: 3
 ---
 
 ## TL;DR

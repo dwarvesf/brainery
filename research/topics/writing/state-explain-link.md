@@ -10,6 +10,8 @@ tags:
   - writing
 redirect:
   - /thyJvw
+type: research
+topic: knowledge-work
 ---
 
 ## Introduction

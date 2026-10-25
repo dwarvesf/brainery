@@ -8,6 +8,8 @@ redirect:
   - /hTiS1Q
 authors:
   - monotykamary
+type: research
+topic: architecture
 ---
 
 ## What are C4 diagrams?

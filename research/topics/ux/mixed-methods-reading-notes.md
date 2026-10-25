@@ -12,6 +12,8 @@ tags:
   - research
   - method
 redirect: []
+type: research
+topic: product-engineering
 ---
 
 These are reading notes on _Mixed Methods: A Short Guide to Applied Mixed Methods Research_ by Sam Ladner (2019). They also draw on Christian Madsbjerg, Roger Martin, Rita McGrath and Cedric Chin. They are adapted from David Drysdale's Moby Diction notes.

@@ -12,6 +12,8 @@ redirect:
   - /culture/ogif-intro
   - /1uobZQ
 slug: ogif-intro
+type: company
+topic: company
 ---
 
 Let's take a moment to reflect on our achievements from the past week, and look forward to the next with optimism and enthusiasm.

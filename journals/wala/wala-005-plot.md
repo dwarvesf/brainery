@@ -8,7 +8,7 @@ type: writing
 form: essay
 kind: essay
 topic: markets-strategy
-series: WALA
+series: wala
 series_part: 5
 authors:
   - tieubao
@@ -20,6 +20,8 @@ tags:
 slug: wala-plot-ethan-phan
 redirect:
   - /wala-005-plot
+secondary_topics:
+  - engineering-practice
 ---
 
 I talked with Ethan Phan, CTO of Plot, about how a small AI-native startup decides when to pivot, stays lean, and runs engineering when every engineer works with agents. His short answer: **building is cheap now, so reaching the right people is the hard part**. The people who direct the agents still need taste, accountability, and a habit of sharing what they know.

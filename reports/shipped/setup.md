@@ -16,6 +16,9 @@ tags:
 redirect:
   - /D4YNKw
 slug: playbook-setup
+type: playbook
+topic: ai-agents
+fit: 2
 ---
 
 > **tl;dr**

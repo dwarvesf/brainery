@@ -20,6 +20,12 @@ tags:
 redirect:
   - /gxgU2w
 slug: database-design
+type: writing
+form: puzzle
+topic: data
+secondary_topics:
+  - applied-llm
+fit: 2
 ---
 
 > **tl;dr**

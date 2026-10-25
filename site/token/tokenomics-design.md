@@ -13,6 +13,8 @@ redirect:
   - /misc/tokenomics/tokenomics-design
   - /aY2sdg
 slug: token-tokenomics-design
+type: program
+topic: company
 ---
 
 Two tokens solve different problems. ICY handles daily rewards and transactions. DFG enables governance and long-term value capture. Bitcoin backing provides stability and growth potential that pure utility tokens can't match.

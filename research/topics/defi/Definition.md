@@ -5,6 +5,8 @@ description: "A decentralized exchange (DEX) lets users trade directly with each
 date: 2026-08-27
 authors:
   - tieubao
+type: research
+topic: digital-assets
 ---
 
 ### What

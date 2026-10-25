@@ -13,6 +13,9 @@ tags:
   - react
 redirect:
   - /YfwGSw
+type: research
+topic: product-engineering
+fit: 2
 ---
 
 ## The problem

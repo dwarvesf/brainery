@@ -13,6 +13,8 @@ tags:
   - responsive-design
 redirect:
   - /RAsm8w
+type: research
+topic: product-engineering
 ---
 
 Published on August 30, 2022, Chrome 105 included Container Queries, one of the most highly requested features in CSS.

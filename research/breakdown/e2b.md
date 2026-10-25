@@ -16,6 +16,13 @@ tags:
   - ai
   - architecture
 toc: true
+type: writing
+form: analysis
+topic: ai-agents
+secondary_topics:
+  - applied-llm
+  - architecture
+fit: 3
 ---
 
 E2B is a cloud-based code execution platform designed for AI applications. By leveraging [Firecracker microVMs](https://firecracker-microvm.github.io/) instead of traditional [containers](https://en.wikipedia.org/wiki/OS-level_virtualization), E2B provides fast startup times and hardware-level isolation for untrusted AI-generated code. This technical breakdown analyzes E2B's architecture and the key components that power its performance.

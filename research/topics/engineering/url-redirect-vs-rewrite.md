@@ -15,6 +15,8 @@ tags:
   - url-rewrite
 redirect:
   - /dRrkZA
+type: research
+topic: engineering-practice
 ---
 
 ## Redirect URLs: navigating the path

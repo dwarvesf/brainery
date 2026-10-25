@@ -13,6 +13,8 @@ redirect:
   - /misc/tokenomics/utility-economics
   - /Ox0Frg
 slug: token-utility-economics
+type: program
+topic: company
 ---
 
 A token needs real reasons to be used, held, and valued beyond speculation. ICY utility design focuses on productive uses that benefit both individual holders and the protocol ecosystem.

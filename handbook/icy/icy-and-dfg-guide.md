@@ -41,6 +41,8 @@ redirect:
   - /1CF2DQ
   - /handbook/community/icy-worth
   - /191Oig
+type: program
+topic: company
 ---
 
 _Snapshot from 2025. Some tools and numbers have changed._

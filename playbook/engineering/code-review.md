@@ -6,6 +6,9 @@ redirect:
   - /TeWzXQ
 authors:
   - neko-anon
+type: playbook
+topic: production-readiness
+fit: 2
 ---
 
 How we do code review.

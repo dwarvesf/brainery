@@ -9,6 +9,9 @@ tags:
   - report
 redirect:
   - /GzOT4w
+type: playbook
+topic: engineering-practice
+fit: 2
 ---
 
 The report exists to answer three questions:

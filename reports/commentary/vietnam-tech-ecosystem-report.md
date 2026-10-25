@@ -10,6 +10,10 @@ tags:
 redirect:
   - /Sa3TwA
 slug: vietnam-tech-ecosystem-report
+type: report
+form: market
+topic: markets-strategy
+fit: 2
 ---
 
 ## Current state of the Vietnam tech market

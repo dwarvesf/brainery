@@ -12,6 +12,8 @@ tags:
   - storybook
 redirect:
   - /TOFe9g
+type: research
+topic: product-engineering
 ---
 
 Design system integration in React involves creating a set of reusable, consistent, and easily maintainable components that reflect your app’s design guidelines. Integrating a design system helps ensure visual and functional consistency across your application while allowing for scalability as new components and features are added. Design systems often include UI components, design tokens, typography, colors, icons, spacing guidelines, and accessibility standards.

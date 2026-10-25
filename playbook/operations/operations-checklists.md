@@ -38,6 +38,8 @@ redirect:
 series: operations-checklists
 series_part: 1
 series_total: 2
+type: playbook
+topic: engineering-practice
 ---
 
 _Snapshot from 2024. Some tools and numbers have changed._

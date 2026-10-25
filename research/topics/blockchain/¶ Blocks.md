@@ -12,6 +12,8 @@ redirect:
   - /8DodyQ
   - /research/notes/london-mainnet-side-note
   - /4hnW3g
+type: research
+topic: digital-assets
 ---
 
 _Snapshot from 2022. Some tools and numbers have changed._

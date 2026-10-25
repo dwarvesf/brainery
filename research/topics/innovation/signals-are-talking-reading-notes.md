@@ -12,6 +12,8 @@ tags:
   - innovation
   - strategy
 redirect: []
+type: research
+topic: markets-strategy
 ---
 
 These are reading notes on Amy Webb's _The Signals Are Talking_. They are adapted from David Drysdale's Moby Diction notes. Two notes carry the substance. The rest of the original outline survives only as a list of idea titles, which this page keeps at the end.

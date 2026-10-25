@@ -10,6 +10,8 @@ tags:
   - technique
 redirect:
   - /HPhrqg
+type: research
+topic: product-engineering
 ---
 
 ![](assets/gestalt-principles-in-ui-design_261d02efd9a855cdb1eed8a98112d3ae_md5.webp)

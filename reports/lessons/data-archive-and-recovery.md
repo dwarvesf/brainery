@@ -12,6 +12,14 @@ tags:
 redirect:
   - /8K6huA
 slug: data-archive-and-recovery
+type: report
+form: field
+topic: data
+secondary_topics:
+  - digital-assets
+  - financial-systems
+series: trading-platform-hardening
+fit: 2
 ---
 
 ## Data safeguarding strategies

@@ -8,6 +8,9 @@ tags:
   - writing
   - zettelkasten
 redirect: []
+type: research
+topic: knowledge-work
+series: book-how-to-take-smart-notes
 ---
 
 The most important question is not where we store the information, but where we would like to come across it again.

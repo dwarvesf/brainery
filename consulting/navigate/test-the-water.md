@@ -10,6 +10,10 @@ tags:
   - market-changes
   - validation
 redirect: []
+type: playbook
+topic: markets-strategy
+series: navigate
+fit: 2
 ---
 
 ```tldr

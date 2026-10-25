@@ -17,6 +17,9 @@ tags:
   - techiestory
   - career
   - startups
+type: writing
+form: essay
+topic: markets-strategy
 ---
 
 _First published on TechieStory, 1 February 2021: [archived copy](https://web.archive.org/web/20231205211034/https://techiestory.net/en/post/14-duc-nghiem). TechieStory also ran it in Vietnamese: [archived copy](https://web.archive.org/web/20230128011256/https://techiestory.net/vi/post/14-duc-nghiem). Roles and plans are as of that date._

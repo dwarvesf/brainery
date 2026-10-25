@@ -11,6 +11,10 @@ tags:
   - testing
 redirect:
   - /iupfMQ
+type: research
+topic: production-readiness
+secondary_topics:
+  - product-engineering
 ---
 
 Testing is essential for ensuring that your code works as expected, is maintainable, and doesn't introduce bugs with future changes. React testing involves **unit tests, integration tests, and end-to-end (e2e) tests**, each targeting different aspects of your application's functionality.

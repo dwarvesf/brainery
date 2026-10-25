@@ -9,6 +9,8 @@ tags:
   - engineering
 redirect:
   - /oLnneg
+type: research
+topic: engineering-practice
 ---
 
 ![](assets/split-and-reuse-code-in-react-application_5f86abdbff47c3d17d6258e3b001ceb8_md5.webp)

@@ -8,6 +8,8 @@ tags:
   - team-building
 redirect:
   - /4IUC5g
+type: research
+topic: engineering-practice
 ---
 
 To use the idea of temperament most effectively, it is important to understand that the** four temperaments** are not simply arbitrary collections of characteristics, but spring from an interaction of the two basic dimensions of human behavior: **our communication** and**our action**, our words and our deeds, or, simply, what we say and what we do.

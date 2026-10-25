@@ -15,6 +15,10 @@ tags:
   - hybrid-intelligence
   - breakdown
 toc: true
+type: writing
+form: analysis
+topic: ai-agents
+fit: 3
 ---
 
 **Stagehand** a browser automation framework that fundamentally redefines how we approach web interaction programmatically. Developed by Browserbase, Stagehand successfully bridges the long-standing gap between the brittleness of traditional automation tools and the unpredictability of pure AI agents. This innovation allows developers to seamlessly blend deterministic code with natural language instructions, achieving unparalleled resilience and adaptability in automation workflows.

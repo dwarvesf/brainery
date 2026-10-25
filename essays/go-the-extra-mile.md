@@ -17,6 +17,9 @@ minted_at: '2025-05-09'
 token_id: '2'
 redirect: []
 slug: go-the-extra-mile
+type: writing
+form: essay
+topic: engineering-practice
 ---
 
 A couple days ago, I was asked if I were ever a product person, what would I do to make the best out of it.

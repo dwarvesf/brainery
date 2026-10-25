@@ -11,6 +11,9 @@ tags:
   - work-adoption
 redirect:
   - /50sl8w
+type: research
+topic: production-readiness
+fit: 3
 ---
 
 ## Background

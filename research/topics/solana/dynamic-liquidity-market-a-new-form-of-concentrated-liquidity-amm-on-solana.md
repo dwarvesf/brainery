@@ -11,6 +11,8 @@ tags:
   - solana
 redirect:
   - /aPDKtg
+type: research
+topic: digital-assets
 ---
 
 ![](assets/dynamic-liquidity-market-a-new-form-of-concentrated-liquidity-amm-on-solana-1.webp)

@@ -21,6 +21,13 @@ tags:
 redirect:
   - /jFBOeA
 slug: rfc-mcp-security
+type: writing
+form: puzzle
+topic: architecture
+secondary_topics:
+  - ai-agents
+  - production-readiness
+fit: 3
 ---
 
 ## Introduction

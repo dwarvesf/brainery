@@ -8,6 +8,9 @@ authors:
 tags:
   - devbox
 redirect: []
+type: research
+topic: platform-ops
+series: devbox
 ---
 
 Ever spent hours configuring a new package in your dev environment? Yeah, we've all been there. It sucks. That's why we created Devbox Plugins.

@@ -15,6 +15,8 @@ redirect:
   - /services/web3
   - /sv96wg
 slug: services-web3
+type: company
+topic: company
 ---
 
 We build blockchain systems that solve real problems. As engineers who've been in crypto since 2017, we focus on creating Web3 solutions that deliver real utility, not just riding the hype waves.

@@ -12,6 +12,9 @@ tags:
   - launch
   - product-surface
 slug: 2026-10-08-little-danang-landing-page-as-build-surface
+type: research
+topic: engineering-practice
+series: forward
 ---
 
 ## The finding

@@ -6,6 +6,9 @@ redirect:
   - /GMeWVQ
 authors:
   - neko-anon
+type: playbook
+topic: product-engineering
+fit: 2
 ---
 
 While the vast majority of base code style is enforced by [ESLint](https://eslint.org/) and [Prettier](https://prettier.io/), please also where possible, stick to the contribution guidelines below. These rules should be kept in mind when reviewing Pull Requests:

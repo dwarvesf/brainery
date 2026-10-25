@@ -12,6 +12,9 @@ redirect:
   - /consulting/case-study/begroup
   - /PsA31g
 slug: begroup
+type: case-study
+topic: product-engineering
+fit: 2
 ---
 
 **Industry**\

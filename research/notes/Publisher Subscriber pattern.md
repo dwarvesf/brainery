@@ -6,6 +6,8 @@ date: 2026-10-18
 tags:
   - microservice
 redirect: []
+type: research
+topic: architecture
 ---
 
 ### Context

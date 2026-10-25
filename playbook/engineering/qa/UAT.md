@@ -4,6 +4,8 @@ title: UAT checklist
 description: A before, during and after checklist for running user acceptance testing with the product team.
 date: 2026-08-27
 redirect: []
+type: playbook
+topic: production-readiness
 ---
 
 User Acceptance Testing can be a daunting and frustrating experience. Too often, the exercise becomes an ordeal of tight deadlines, stress, and system issues. While UAT will always be a high-effort activity, good preparation, responsiveness, and follow-up will multiply your chances of success.

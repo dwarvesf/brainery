@@ -14,6 +14,8 @@ tags:
   - full-time
 redirect:
   - /growth-2025
+type: company
+topic: company
 ---
 
 ## We are hiring a growth lead

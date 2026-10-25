@@ -10,6 +10,8 @@ tags:
   - rag
 redirect:
   - /l9C0WA
+type: research
+topic: applied-llm
 ---
 
 ## What is Knowledge Graph?

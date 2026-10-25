@@ -5,6 +5,8 @@ description: Learn how Domain-Driven Design (DDD) uses entity identity and conti
 date: 2022-03-28
 github_id: R-Jim
 redirect: []
+type: research
+topic: architecture
 ---
 
 ## Recap on DDD

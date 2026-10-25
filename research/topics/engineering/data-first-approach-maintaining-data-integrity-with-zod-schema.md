@@ -10,6 +10,10 @@ tags:
   - code-quality
   - software-development
   - typescript
+type: research
+topic: engineering-practice
+secondary_topics:
+  - product-engineering
 ---
 
 ## Which is data integrity?

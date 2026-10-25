@@ -8,6 +8,8 @@ redirect:
   - /mt03cQ
 authors:
   - zlatanpham
+type: research
+topic: engineering-practice
 ---
 
 Edsger W. Dijkstra was an influential computer scientist and is well known for his contributions to graph theory algorithms. But, in fact, he also had a deep programming perspective. Here are notes extracted from one of his interviews that give us so much insight.

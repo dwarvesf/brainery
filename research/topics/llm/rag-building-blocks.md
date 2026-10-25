@@ -25,6 +25,8 @@ redirect:
   - /gzKcjg
   - /research/topics/llm/chunking-strategies-to-overcome-context-limitation-in-llm
   - /PflC0w
+type: research
+topic: applied-llm
 ---
 
 A retrieval-augmented generation (RAG) app is a vector database with a few stages around it. Text goes in as [chunks](#ref-7), gets indexed, comes back as candidates, and is ranked before the model sees it. Two more pieces sit at the edges: a cache that skips the pipeline for repeated questions, and a memory that turns past chat messages into retrievable data. This page walks through those stages in pipeline order, with the techniques and code the notes collected.

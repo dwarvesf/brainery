@@ -9,6 +9,9 @@ tags:
   - innovation
   - pattern
 redirect: []
+type: research
+topic: markets-strategy
+series: book-pirates-in-the-navy
 ---
 
 ### Common innovation anti-patterns

@@ -11,6 +11,8 @@ tags:
   - frontend
 redirect:
   - /DhK8NA
+type: research
+topic: product-engineering
 ---
 
 ## Atomic design pattern

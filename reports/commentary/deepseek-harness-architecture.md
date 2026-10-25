@@ -13,6 +13,10 @@ tags:
 slug: deepseek-harness-architecture
 series: harness-engineering
 series_part: 2
+type: writing
+form: analysis
+topic: ai-agents
+fit: 3
 ---
 
 ## TL;DR

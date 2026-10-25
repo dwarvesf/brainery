@@ -5,6 +5,8 @@ description: null
 date: null
 redirect:
   - /evDpCg
+type: research
+topic: digital-assets
 ---
 
 ### What

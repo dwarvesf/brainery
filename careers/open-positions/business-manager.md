@@ -12,6 +12,8 @@ tags:
   - full-time
 redirect:
   - /bizdev-2025
+type: company
+topic: company
 ---
 
 ## We are hiring a business development manager

@@ -277,6 +277,9 @@ redirect:
   - /bNuXhA
   - /research/notes/command-query-responsibility-segregation-cqrs
   - /UAbbdA
+type: research
+topic: engineering-practice
+landing: true
 ---
 
 <p>

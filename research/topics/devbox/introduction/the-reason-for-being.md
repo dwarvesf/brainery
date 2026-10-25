@@ -8,6 +8,10 @@ authors:
 tags:
   - devbox
 redirect: []
+type: research
+topic: platform-ops
+series: devbox
+fit: 3
 ---
 
 ## The pursuit of consistency

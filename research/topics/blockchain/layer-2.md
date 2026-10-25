@@ -15,6 +15,8 @@ redirect:
   - /research/topics/blockchain/polygon-zkevm-architecture
   - /blockchain/polygon-zkevm-architecture
   - /W0MdwQ
+type: research
+topic: digital-assets
 ---
 
 ## What?

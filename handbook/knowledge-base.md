@@ -11,6 +11,8 @@ tags:
   - handbook
 redirect:
   - /JnPgrA
+type: company
+topic: company
 ---
 
 ## What is this knowledge base thing?

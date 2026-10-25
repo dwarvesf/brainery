@@ -4,6 +4,8 @@ description: Memo is the research shelf of Dwarves Foundation, where the people 
 date: 2026-10-21
 redirect:
   - /CyAKEw
+type: company
+topic: company
 ---
 
 Memo is where Dwarves Foundation publishes what it learns from production systems. We build, run, audit and break software for clients, and memo carries the part of that record we're allowed to share: field reports, essays, case studies and playbooks, each one dated and signed by the person who did the work.

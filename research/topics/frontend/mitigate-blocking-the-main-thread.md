@@ -10,6 +10,9 @@ tags:
   - javascript
 redirect:
   - /l65jew
+type: research
+topic: product-engineering
+fit: 2
 ---
 
 Fortunately for us, JavaScript provides a couple of tools to solve these problems with some new features: Threading (through Web Worker) and Coroutines (through generators).

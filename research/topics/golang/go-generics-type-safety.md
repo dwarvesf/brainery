@@ -9,6 +9,8 @@ tags:
   - generics
   - golang
 redirect: []
+type: research
+topic: languages
 ---
 
 Go introduced generics with Go 1.18, which was officially released in March 2022. This update allowed Go developers to write more flexible and reusable code by supporting type parameters, enabling functions, and data structures to work with different types without sacrificing type safety.

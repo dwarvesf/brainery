@@ -8,6 +8,8 @@ tags:
   - guide
 redirect:
   - /Llu7BQ
+type: company
+topic: company
 ---
 
 I grab screenshots pretty often. Although macOS’s native screenshot tool is decent for most cases, it’s still a very basic one. Here are a few tips on how to take great-looking screenshots with a simple tool and in less time.

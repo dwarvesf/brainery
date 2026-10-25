@@ -10,6 +10,8 @@ tags:
   - okr
 redirect:
   - /Xzpr5g
+type: playbook
+topic: engineering-practice
 ---
 
 ### What is OKR

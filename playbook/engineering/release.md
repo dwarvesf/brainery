@@ -6,6 +6,8 @@ redirect:
   - /AUqO3Q
 authors:
   - neko-anon
+type: playbook
+topic: platform-ops
 ---
 
 When you are ready to release, remember to check off everything on your release checklist.

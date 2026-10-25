@@ -15,6 +15,9 @@ redirect:
   - /consulting/case-study/open-fabric
   - /yXH9Uw
 slug: open-fabric
+type: case-study
+topic: financial-systems
+fit: 3
 ---
 
 **Industry**\

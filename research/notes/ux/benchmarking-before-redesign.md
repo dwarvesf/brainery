@@ -9,6 +9,9 @@ tags:
   - redesign
 authors:
   - bringastar
+type: research
+topic: product-engineering
+fit: 2
 ---
 
 ![](../assets/ux-benchmarking.webp)

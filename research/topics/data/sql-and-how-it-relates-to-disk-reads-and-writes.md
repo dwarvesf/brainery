@@ -16,6 +16,8 @@ tags:
   - engineering
 redirect:
   - /1475ug
+type: research
+topic: data
 ---
 
 ## What are random and sequential reads and writes?

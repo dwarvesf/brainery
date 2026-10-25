@@ -10,6 +10,8 @@ announce: false
 series: ios-best-practices
 series_part: 4
 series_total: 4
+type: playbook
+topic: product-engineering
 ---
 
 This part covers getting an iOS app from source to the App Store: build configurations, targets and schemes, code signing and provisioning, uploading a build, and in-app purchases. Provisioning is the longest section. It is a snapshot from 2015, so check Apple's current documentation for exact screens. Part 1 explains what else has moved on.

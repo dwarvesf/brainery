@@ -12,6 +12,8 @@ tags:
   - frontend
 redirect:
   - /Y6bTjQ
+type: research
+topic: product-engineering
 ---
 
 ## Definition

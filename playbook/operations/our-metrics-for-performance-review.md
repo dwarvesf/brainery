@@ -10,6 +10,8 @@ tags:
   - people
 redirect:
   - /AH6mug
+type: playbook
+topic: company
 ---
 
 **_P = f(r, t, c, r)_**

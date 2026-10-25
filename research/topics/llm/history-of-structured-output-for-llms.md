@@ -10,6 +10,8 @@ tags:
   - history
 redirect:
   - /2mXm0w
+type: research
+topic: applied-llm
 ---
 
 ## Overview

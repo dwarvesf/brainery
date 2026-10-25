@@ -13,6 +13,8 @@ redirect:
   - /misc/tokenomics/whitepaper
   - /gLzEKA
 slug: token-whitepaper
+type: program
+topic: company
 ---
 ## Abstract
 

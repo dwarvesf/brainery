@@ -11,6 +11,10 @@ tags:
   - golang
   - software-design
 redirect: []
+type: research
+topic: architecture
+secondary_topics:
+  - languages
 ---
 
 ![](assets/singleton-design-pattern.pdf)

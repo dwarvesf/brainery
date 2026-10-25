@@ -14,6 +14,8 @@ tags:
   - distributed
 redirect:
   - /2KVHtg
+type: research
+topic: data
 ---
 
 ## What is MapReduce?

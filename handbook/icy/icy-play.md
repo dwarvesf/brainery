@@ -9,6 +9,8 @@ tags:
   - dfg
   - icy
 redirect: []
+type: program
+topic: company
 ---
 
 ![](assets/df-protocol-icy-dfg_💠-df-protocol,-$icy-and-$dfg-20231122144733966.webp)

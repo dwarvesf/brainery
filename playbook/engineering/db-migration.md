@@ -7,6 +7,10 @@ redirect:
   - /e5W9zg
 authors:
   - neko-anon
+type: playbook
+topic: data
+secondary_topics:
+  - platform-ops
 ---
 
 ## Mobile

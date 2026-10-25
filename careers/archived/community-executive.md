@@ -8,6 +8,8 @@ authors:
 tags:
   - career
   - communication
+type: company
+topic: company
 ---
 
 ### What it takes to succeed

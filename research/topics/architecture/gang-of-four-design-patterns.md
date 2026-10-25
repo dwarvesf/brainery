@@ -31,6 +31,8 @@ redirect:
   - /IQSM9g
   - /research/topics/architecture/singleton-design-pattern
   - /us0xGQ
+type: research
+topic: architecture
 ---
 
 These notes cover seven of the classic Gang of Four patterns. Each one answers a recurring design problem: how to create objects (Singleton, Builder, Prototype) and how objects share work and talk to each other (Strategy, State, Observer, Command). Every pattern below follows the same path: the problem, the idea, a concrete example, then trade-offs and where it fits. The examples mix pseudocode, Go, TypeScript and JavaScript, because each author wrote in the language they knew best.

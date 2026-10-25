@@ -11,6 +11,11 @@ tags:
   - workflow
   - tools
   - automation
+type: research
+topic: engineering-practice
+secondary_topics:
+  - applied-llm
+fit: 2
 ---
 
 ## You're not behind, you're overwhelmed

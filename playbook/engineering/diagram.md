@@ -6,6 +6,9 @@ redirect:
   - /AaPX7w
 authors:
   - neko-anon
+type: playbook
+topic: engineering-practice
+fit: 2
 ---
 
 We have talked about [SDLC](https://dwarves.foundation/memo/software-development-life-cycle-101-yedyrmilyi) before and have learned that with a lot of constraints, the project is easy to fail. We could have plenty of reasons why a software project fails: team politics, overdue payment,... but three of them could be prevented easily with proper methodology, framework

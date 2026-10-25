@@ -42,6 +42,8 @@ announce: false
 series: operations-checklists
 series_part: 2
 series_total: 2
+type: playbook
+topic: engineering-practice
 ---
 
 The Dwarves Operations team keeps one checklist per recurring job. This part holds the client and project groups: reviewing a consulting contract, billing and Vietnamese tax invoices, and the project checklists from initialization to archive. The people checklists (hiring to company assets) are in part 1, which also has the table that says when to use each list. These lists are a snapshot from 2024, so some tools and numbers have changed.

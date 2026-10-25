@@ -9,6 +9,8 @@ tags:
   - handbook
   - marketing
 redirect: []
+type: company
+topic: company
 ---
 
 - About: <https://d.foundation/about>

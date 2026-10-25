@@ -19,6 +19,13 @@ tags:
 redirect:
   - /Bohwcw
 slug: promote-data-to-insight
+type: writing
+form: puzzle
+topic: data
+secondary_topics:
+  - knowledge-work
+  - applied-llm
+fit: 2
 ---
 
 > **tl;dr**

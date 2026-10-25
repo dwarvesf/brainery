@@ -17,6 +17,8 @@ redirect:
   - /DB2iSA
   - /research/topics/architecture/domain-model-in-domain-driven-design
   - /lDeHFw
+type: research
+topic: architecture
 ---
 
 These notes follow Eric Evans' _Domain-Driven Design_ and the book notes on herbertograca.com. They run in the order a newcomer needs: what DDD is and when it pays off, how entities are identified, and how a domain model is assembled.

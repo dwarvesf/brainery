@@ -10,6 +10,10 @@ tags:
   - ai
   - productivity
   - skillmax
+type: research
+topic: markets-strategy
+secondary_topics:
+  - applied-llm
 ---
 
 The productivity race is heating up, and if you're not **skillmaxing**, you're already behind! (Don't believe me?) On April 26, 2025, Sam Altman sparked a fire on X with [a post](https://x.com/sama/status/1915826042729861357) that racked up 4.4 million views: "if you are not skillsmaxxing with o3 at minimum 3 hours every day, ngmi." In plain terms, he's saying use AI to max out your skills, or you won't make it. With the AI world moving at lightning speed, let's explore how **skillmaxing** helps you learn fast, why you need to start today, and how to jump in.

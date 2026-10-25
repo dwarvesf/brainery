@@ -5,6 +5,10 @@ description: Discover how sensemaking, a humanities-based approach, helps busine
 date: null
 redirect:
   - /0hrqCA
+type: research
+topic: product-engineering
+series: book-sensemaking
+landing: true
 ---
 
 ## Summary

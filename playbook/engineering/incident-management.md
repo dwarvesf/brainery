@@ -6,6 +6,11 @@ redirect:
   - /tbFyYQ
 authors:
   - neko-anon
+type: playbook
+topic: platform-ops
+secondary_topics:
+  - production-readiness
+fit: 2
 ---
 
 **Incident management** is the practice of responding to an unplanned event, user disruption, or service interruption and involves restoring the service to an operational or acceptable state. There are 2 general labels for incidents:

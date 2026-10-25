@@ -14,6 +14,10 @@ redirect:
   - /culture/skillmaxing
   - /xKWpug
 slug: skillmaxing
+type: writing
+form: essay
+topic: applied-llm
+fit: 3
 ---
 
 ## The art of skillmaxing in the AI era

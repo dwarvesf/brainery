@@ -10,6 +10,8 @@ tags:
   - crypto
 redirect:
   - /YMoOqQ
+type: research
+topic: digital-assets
 ---
 
 Hey peeps! Ever heard of DCA (Dollar-Cost Averaging)? It's like the hottest strategy in town, and for good reason - it can seriously boost your chances of crypto success. This article is your one-stop shop for all things DCA. I'll break down what it is, the different ways you can do it, and some mistakes to avoid so you can DCA like a pro.

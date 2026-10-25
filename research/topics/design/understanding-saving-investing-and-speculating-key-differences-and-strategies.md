@@ -8,6 +8,8 @@ authors:
 tags:
   - investment
   - personal-finance
+type: research
+topic: markets-strategy
 ---
 
 ## What are saving, investing, and speculating?

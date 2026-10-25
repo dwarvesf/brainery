@@ -9,6 +9,9 @@ tags:
   - idea
   - innovation
 redirect: []
+type: research
+topic: markets-strategy
+series: book-where-good-ideas-come-from
 ---
 
 ## Summary

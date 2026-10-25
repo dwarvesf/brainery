@@ -7,6 +7,8 @@ tags:
   - architecture
 redirect:
   - /QVRdGw
+type: research
+topic: architecture
 ---
 
 ### Software Architecture (SA)

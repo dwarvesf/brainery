@@ -16,6 +16,9 @@ redirect:
   - /consulting/case-study/discovery-inloop
   - /bsjQH2M
 slug: discovery-inloop
+type: case-study
+topic: applied-llm
+fit: 3
 ---
 
 **Industry**

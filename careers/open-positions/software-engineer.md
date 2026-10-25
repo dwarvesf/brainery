@@ -14,6 +14,8 @@ tags:
   - full-time
 redirect:
   - /ai-eng-2025
+type: company
+topic: company
 ---
 
 ## We are hiring AI consulting engineers

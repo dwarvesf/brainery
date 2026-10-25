@@ -3,6 +3,9 @@ draft: true
 title: Knowledge work means transforming old ideas into new ones
 description: Effective knowledge work transforms existing ideas into new insights by connecting diverse information through note-taking and fresh perspectives, boosting creativity and strategic thinking.
 date: null
+type: research
+topic: knowledge-work
+series: book-how-to-take-smart-notes
 ---
 
 Knowledge work is not about coming up with some random insight; it’s about transforming existing ideas into something new. “Every intellectual effort starts with an already existing preconception,” Ahrens writes, “that can be transformed during further inquiries and can serve as a starting point for following endeavours.”

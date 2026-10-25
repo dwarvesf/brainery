@@ -4,6 +4,8 @@ title: Calculate function stack (research note)
 description: The first letter (I or E) indicates the trend (internal - external) of the 4 functions. If it is Exxx, the set of functions will be E-I-E-I. Otherwise, if it is Ixxx.
 date: 2026-10-18
 tag: function, mbti
+type: research
+topic: engineering-practice
 ---
 
 #### Rule

@@ -12,6 +12,9 @@ tags:
   - tool
 redirect:
   - /biVWUA
+type: research
+topic: product-engineering
+fit: 2
 ---
 
 In today's fast-paced world of software development, project initiation can often be a challenging and time-consuming process, with teams facing issues such as inconsistent code quality, slow setup times, and suboptimal workflows. To address these obstacles and streamline the project initiation process, we've developed two powerful libraries, **NextJS-Boilerplate** and **React-Toolkit**, that can help teams get started quickly and efficiently.

@@ -10,6 +10,9 @@ tags:
   - golang
 redirect:
   - /ohSbLg
+type: research
+topic: languages
+fit: 2
 ---
 
 Go is a type-safe, cloud-native language designed for simplicity with first-class support for concurrency.

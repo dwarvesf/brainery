@@ -9,6 +9,8 @@ tags:
   - design-pattern
   - gang-of-four
 redirect: []
+type: research
+topic: architecture
 ---
 
 ![](assets/strategy-design-pattern.pdf)

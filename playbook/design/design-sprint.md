@@ -11,6 +11,8 @@ tags:
   - ux
 redirect:
   - /epiG7Q
+type: playbook
+topic: product-engineering
 ---
 
 ### What is the design sprint?

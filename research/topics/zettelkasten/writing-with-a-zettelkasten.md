@@ -3,6 +3,8 @@ draft: true
 title: Writing with a zettelkasten
 description: "Learn how Sönke Ahrens' zettelkasten method helps writers develop ideas from notes to drafts, avoiding blank pages and creating clear, connected, and well-organized articles."
 date: null
+type: research
+topic: knowledge-work
 ---
 
 Sönke Ahrens describes his method for writing an article with a zettelkasten. Writing should not start with a blank sheet of paper, but emerge from the bottom up through conversation with one's notes. Writing does not begin with a blank page.

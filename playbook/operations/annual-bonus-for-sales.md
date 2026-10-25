@@ -9,6 +9,8 @@ tags:
   - project
 redirect:
   - /XYqGXQ
+type: playbook
+topic: company
 ---
 
 _Snapshot from 2020. Some tools and numbers have changed._

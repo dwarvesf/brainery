@@ -10,6 +10,9 @@ tags:
   - animation
   - prototyping
 slug: reference-video-rigging-shortcut
+type: research
+topic: engineering-practice
+series: forward
 ---
 
 ## The finding

@@ -9,6 +9,8 @@ redirect:
   - /WMlbGA
 authors:
   - R-Jim
+type: research
+topic: languages
 ---
 
 ## The problem statement

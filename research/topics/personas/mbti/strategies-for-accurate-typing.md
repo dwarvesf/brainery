@@ -5,6 +5,8 @@ description: Discover how to understand your personality type using the function
 date: null
 URL: "https://drive.google.com/file/d/1n8ID_iXqzs6cMZlRS0Su7lQUhrfd7khh/view?usp=sharing"
 tag: mbti
+type: research
+topic: engineering-practice
 ---
 
 Book: My True Type, page 18 - 22

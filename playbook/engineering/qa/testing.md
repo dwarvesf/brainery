@@ -6,6 +6,8 @@ redirect:
   - /HRkHHw
 authors:
   - neko-anon
+type: playbook
+topic: production-readiness
 ---
 
 ## Testing materials

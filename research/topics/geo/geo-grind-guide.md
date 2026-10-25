@@ -10,6 +10,11 @@ tags:
   - writing
   - AI
 redirect: []
+type: research
+topic: knowledge-work
+secondary_topics:
+  - engineering-practice
+fit: 2
 ---
 
 It’s easy to talk about GEO like it’s a checklist: optimize your memo, track your reference rate, celebrate when an AI finally quotes you. But the reality is messier. Staying visible in the age of generative engines is a grind. It’s not a one-time win, it’s a cycle of writing, tracking, editing, and adapting. Here’s what the work really looks like behind the scenes.

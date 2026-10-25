@@ -5,6 +5,9 @@ description: Discover how long-term change unfolds through subtle signals and st
 date: 2026-08-27
 authors: []
 credit: David Drysdale (Moby Diction)
+type: research
+topic: product-engineering
+series: book-sensemaking
 ---
 
 Large-scale changes seem to happen quickly. However, changes generally gestate over long periods of time. In the beginning, there may be weak signals of change. These are usually on the periphery of our vision and can be difficult to observe as they occur outside of our typical frame of reference.

@@ -12,6 +12,8 @@ tags:
   - people
 redirect:
   - /yC5FeA
+type: playbook
+topic: engineering-practice
 ---
 
 **Operations is operations, no matter the industry**

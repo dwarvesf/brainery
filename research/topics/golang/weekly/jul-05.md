@@ -10,6 +10,9 @@ tags:
   - iterators
   - go-weekly
   - golang
+type: research
+topic: languages
+series: golang-weekly
 ---
 
 ## [Why people are angry over Go 1.23 iterators](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)

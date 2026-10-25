@@ -23,6 +23,13 @@ tags:
 redirect:
   - /alm7fQ
 slug: brainery-data-flow
+type: writing
+form: puzzle
+topic: data
+secondary_topics:
+  - applied-llm
+  - ai-agents
+fit: 2
 ---
 
 > **tl;dr**

@@ -15,6 +15,8 @@ announce: false
 series: go-concurrent-workloads
 series_part: 2
 series_total: 2
+type: research
+topic: languages
 ---
 
 Part 1 covered the worker pool and fan-out/fan-in patterns. This part adds two more: the pipeline, which chains processing stages, and the semaphore, which caps how many goroutines run at once. It closes with how to choose the number of goroutines for a given workload.

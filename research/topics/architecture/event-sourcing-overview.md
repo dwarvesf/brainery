@@ -9,6 +9,10 @@ redirect:
   - /aBH0GQ
 authors:
   - R-Jim
+type: research
+topic: architecture
+secondary_topics:
+  - data
 ---
 
 ## What is event sourcing

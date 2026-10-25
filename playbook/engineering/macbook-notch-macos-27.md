@@ -14,6 +14,9 @@ tags:
 slug: macbook-notch-macos-27
 redirect:
   - /reports/commentary/macbook-notch-macos-27
+type: playbook
+topic: engineering-practice
+fit: 2
 ---
 
 ## TL;DR

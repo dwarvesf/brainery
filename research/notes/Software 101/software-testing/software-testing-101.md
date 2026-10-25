@@ -14,6 +14,8 @@ tags:
   - testing
   - agile
   - uat
+type: research
+topic: engineering-practice
 ---
 
 Testing is about balance, and three questions come up on almost every project. When do we stop? Who does the testing when the team works in an agile way? And what is the last test before the software goes to the customer? The sections below take them in that order.

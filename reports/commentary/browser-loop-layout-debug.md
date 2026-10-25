@@ -14,6 +14,12 @@ tags:
 slug: browser-loop-layout-debug
 series: harness-engineering
 series_part: 5
+type: writing
+form: analysis
+topic: ai-agents
+secondary_topics:
+  - product-engineering
+fit: 3
 ---
 
 ## TL;DR

@@ -13,6 +13,10 @@ redirect:
   - /research/topics/wealth/skillmax
   - /wealth/skillmax
 slug: culture
+type: writing
+form: essay
+topic: engineering-practice
+landing: true
 ---
 
 ## Beyond the handbook

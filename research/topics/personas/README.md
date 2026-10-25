@@ -7,6 +7,9 @@ redirect:
   - /hv6r9w
 authors:
   - neko-anon
+type: research
+topic: engineering-practice
+landing: true
 ---
 
 ## General information

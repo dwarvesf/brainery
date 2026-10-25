@@ -6,6 +6,8 @@ date: 2026-08-27
 authors:
   - tieubao
 redirect: []
+type: research
+topic: knowledge-work
 ---
 
 In the Zettelkasten method as described by Ahrens in How to Take Smart Notes, there are three kinds of notes:

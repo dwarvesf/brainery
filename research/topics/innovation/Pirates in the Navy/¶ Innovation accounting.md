@@ -8,6 +8,9 @@ authors:
 tags:
   - innovation
 redirect: []
+type: research
+topic: markets-strategy
+series: book-pirates-in-the-navy
 ---
 
 Supporting innovation requires organizations adopt new methods of investment decision-making and innovation accounting. This means linking investing to specific, incremental goals rather than funding a long-term project up front.

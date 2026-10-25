@@ -9,6 +9,9 @@ tags:
   - design
 redirect:
   - /5urfoA
+type: research
+topic: product-engineering
+fit: 2
 ---
 
 ## Project research

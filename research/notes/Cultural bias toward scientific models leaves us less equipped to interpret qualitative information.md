@@ -5,6 +5,8 @@ description: Our culture is currently biased toward science, math, and engineeri
 date: 2026-10-18
 tags:
   - insight
+type: research
+topic: engineering-practice
 ---
 
 Our culture is currently biased toward science, math, and engineering as modes of producing new knowledge, often at the expense of the humanities.

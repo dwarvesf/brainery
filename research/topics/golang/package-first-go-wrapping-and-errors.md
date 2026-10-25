@@ -23,6 +23,9 @@ announce: false
 series: package-first-go
 series_part: 2
 series_total: 3
+type: research
+topic: languages
+fit: 2
 ---
 
 Part 1 set the package as the unit and the import path as its identity. This part covers the next two rules: extend a type by wrapping it instead of editing it, and choose among eight error patterns on purpose. Each pattern comes with code, a rule of thumb and a failure mode.

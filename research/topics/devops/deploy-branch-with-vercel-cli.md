@@ -8,6 +8,9 @@ redirect:
   - /SqTzGw
 authors:
   - chinhld12
+type: research
+topic: platform-ops
+fit: 2
 ---
 
 ## Introduction

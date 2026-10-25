@@ -5,6 +5,8 @@ description: The problem of bad advice is the unrelativity between the advice an
 date: 2026-10-18
 tags:
   - productivity
+type: research
+topic: engineering-practice
 ---
 
 The problem of bad advice is the unrelativity between the advice and the situation.

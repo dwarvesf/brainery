@@ -19,6 +19,12 @@ series_part: 6
 redirect:
   - /essays/deploy-pipeline-formula
   - /updates/build-log/releases-when-agents-deploy-all-day
+type: report
+form: field
+topic: platform-ops
+secondary_topics:
+  - ai-agents
+fit: 3
 ---
 
 The site you're reading publishes itself when a post merges. On 2026-08-19 that meant CI compiled about 2,000 markdown files, built 3,080 static pages, and deployed three Cloudflare surfaces: a static Worker, an API Worker, and a D1 search index. The publish step showed 1m50s under a green checkmark. We spent a morning reading its raw log line by line. The step now runs in 78 seconds, and the time was the least valuable thing we found.

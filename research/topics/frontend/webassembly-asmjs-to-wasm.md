@@ -12,6 +12,8 @@ announce: false
 series: webassembly-intro
 series_part: 2
 series_total: 2
+type: research
+topic: product-engineering
 ---
 
 Part 1 explained why JavaScript was slow and how engines optimize it. This part follows the next step: asm.js, a restricted subset of JavaScript that engines could run much faster, why that still was not enough, and how it led to WebAssembly.

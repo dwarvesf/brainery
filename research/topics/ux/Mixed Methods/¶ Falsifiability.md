@@ -6,6 +6,9 @@ date: 2026-08-27
 redirect: []
 authors: []
 credit: David Drysdale (Moby Diction)
+type: research
+topic: product-engineering
+series: book-mixed-methods
 ---
 
 _Faslifiability_ describes the capacity of a statement to be proven false. For example, the presence of a black swan _falsifies_ the statement "All swans are white." Karl Popper suggested that a focus on falsifiability may enable us to more quickly move from observation to scientific law. That is, it may be impossible to verify that all swans are white; however, finding a swan that is not white quickly invalidates the statement.  

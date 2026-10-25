@@ -19,6 +19,8 @@ redirect:
   - /iyzVHA
   - /research/topics/architecture/moore-machine
   - /TNr8jCE
+type: research
+topic: architecture
 ---
 
 A state machine is a model with a fixed set of states and rules for moving between them. Four related models cover most of what a programmer meets: the finite-state automaton, the finite-state transducer, the Mealy machine and the Moore machine. The last three extend the first. This note walks them in that order, with the formal definition and a code example for each, then compares them.

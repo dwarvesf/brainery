@@ -13,6 +13,8 @@ redirect:
   - /misc/tokenomics/governance-framework
   - /upUIEg
 slug: token-governance-framework
+type: program
+topic: company
 ---
 
 Moving from team control to community governance requires careful design. The transition must maintain protocol direction while gradually distributing decision-making power to stakeholders.

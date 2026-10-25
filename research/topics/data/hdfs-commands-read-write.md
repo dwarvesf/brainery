@@ -11,6 +11,8 @@ announce: false
 series: hdfs-explained
 series_part: 2
 series_total: 2
+type: research
+topic: data
 ---
 
 Part 1 covered why HDFS exists and how it stores blocks. This part shows how to use it: the shell commands that mirror local file commands, then the read and write paths through the name node and data nodes, including node proximity and replica placement.

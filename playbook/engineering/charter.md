@@ -6,6 +6,8 @@ redirect:
   - /xD6Npg
 authors:
   - neko-anon
+type: playbook
+topic: engineering-practice
 ---
 
 ## Definitions

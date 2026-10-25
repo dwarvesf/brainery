@@ -11,6 +11,10 @@ tags:
   - strategy
   - adaptation
 redirect: []
+type: playbook
+topic: markets-strategy
+series: navigate
+landing: true
 ---
 
 The tech world always moves. Market shifts can feel like you chart a course through new, rough waters. This series is our team's compass. It helps us not just react to changes, but proactively meet them with confidence and skill. We've put our team's wisdom and plans into focused guides that are easy to access and use.

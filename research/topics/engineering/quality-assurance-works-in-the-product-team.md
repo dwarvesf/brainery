@@ -9,6 +9,9 @@ redirect:
   - /fk1afw
 authors:
   - nhuthm
+type: research
+topic: engineering-practice
+fit: 2
 ---
 
 _The following entry is from the thoughts, compositions, and conclusions from field work by one of our leads._

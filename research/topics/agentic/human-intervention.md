@@ -17,6 +17,9 @@ redirect:
   - /topics/agentic/agent-layer
   - /topics/agentic/agentic-architecture
   - /topics/agentic/approach
+type: research
+topic: ai-agents
+fit: 2
 ---
 
 **Agents are getting scary good at making decisions.** We're moving from prompt engineering to actual delegation, where AI systems handle complex workflows with minimal human oversight. But just because agents can make decisions doesn't mean they should make all of them.

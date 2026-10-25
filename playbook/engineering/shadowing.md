@@ -13,6 +13,9 @@ tags:
   - collaboration
   - tailscale
   - aerc
+type: playbook
+topic: engineering-practice
+fit: 2
 ---
 
 ## Introduction: a standard for high-fidelity mentorship

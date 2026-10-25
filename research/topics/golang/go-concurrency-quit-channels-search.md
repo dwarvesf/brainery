@@ -11,6 +11,9 @@ announce: false
 series: go-concurrency
 series_part: 3
 series_total: 3
+type: research
+topic: languages
+fit: 2
 ---
 
 This part finishes the toolkit with the quit channel, which tells a goroutine to stop, and the daisy-chain of goroutines. It then applies every pattern from part 2 to one problem: a toy search that queries several back ends. Version 1.0 runs them one after another, version 2.1 runs them concurrently with a timeout, and version 3.0 replicates each back end so the first answer wins. The summary collects the lessons from all three parts.

@@ -10,6 +10,8 @@ tags:
   - hiring
 redirect:
   - /i8XnFA
+type: company
+topic: company
 ---
 
 ## Why we hire the way we do

@@ -9,6 +9,10 @@ tags:
   - engineering
 redirect:
   - /2RFXmg
+type: research
+topic: data
+secondary_topics:
+  - architecture
 ---
 
 ### Why?

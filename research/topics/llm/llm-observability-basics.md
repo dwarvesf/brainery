@@ -14,6 +14,8 @@ tags:
   - llm
   - observability
 redirect: []
+type: research
+topic: applied-llm
 ---
 
 Observability means understanding what happens inside a complex system. For LLM-powered applications it relies on three signals: metrics, logs and traces. This page covers why such applications need it, what each pillar records, which metrics to watch, the benefits and challenges, and the tools that support tracing.

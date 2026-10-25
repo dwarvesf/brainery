@@ -9,6 +9,8 @@ tags:
   - guide
   - memo
 redirect: []
+type: company
+topic: company
 ---
 
 ## Before edit or create a new post

@@ -14,6 +14,9 @@ redirect:
   - /consulting/case-study/basehq
   - /f8k7Aw
 slug: basehq
+type: case-study
+topic: product-engineering
+fit: 2
 ---
 
 **Industry**\

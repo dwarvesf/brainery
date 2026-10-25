@@ -5,7 +5,7 @@ short_title: 43 Factory
 description: Our visit to 43 Factory coffee shop in Danang revealed surprising parallels between coffee craftsmanship and software engineering. We discovered valuable insights about talent management, quality delivery, and continuous learning that directly apply to our tech practices.
 date: 2024-10-16
 kind: digest
-series: WALA
+series: wala
 series_part: 1
 authors:
   - nikkingtr
@@ -15,6 +15,9 @@ tags:
 redirect:
   - /LvQEyQ
 slug: wala-001-43-factory
+type: writing
+form: essay
+topic: engineering-practice
 ---
 
 > **Recap:** We visited 43 Factory, a unique coffee shop in Danang run by passionate craftspeople. Their approach to talent management, quality focus, attention to detail, and brand representation through staff mirrors our software engineering values. The experience reinforced that principles of excellence transcend industries.

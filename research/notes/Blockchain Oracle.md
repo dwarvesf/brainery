@@ -7,6 +7,8 @@ author: Vy Tran Khac
 tags:
   - blockchain
   - engineering
+type: research
+topic: digital-assets
 ---
 
 ## The blockchain oracle problem

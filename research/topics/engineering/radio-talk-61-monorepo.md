@@ -10,6 +10,8 @@ tags:
   - web
 redirect:
   - /uFLhfg
+type: research
+topic: engineering-practice
 ---
 
 ## Demystifying monorepos: a recap of our recent sharing session

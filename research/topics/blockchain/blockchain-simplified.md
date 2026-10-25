@@ -11,6 +11,8 @@ tags:
   - distributed-systems
   - security
   - bitcoin
+type: research
+topic: digital-assets
 ---
 
 # Blockchain fundamentals

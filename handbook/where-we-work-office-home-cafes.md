@@ -16,6 +16,8 @@ redirect:
   - /uKflewA
   - /handbook/places-to-work
   - /0uYpFQ
+type: company
+topic: company
 ---
 
 _Snapshot from 2019. Some tools and numbers have changed._

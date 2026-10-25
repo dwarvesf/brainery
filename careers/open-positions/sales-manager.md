@@ -12,6 +12,8 @@ tags:
   - full-time
 redirect:
   - /sales-2025
+type: company
+topic: company
 ---
 
 ## We are hiring a sales manager

@@ -17,6 +17,8 @@ redirect:
   - /kGSuCQ
   - /research/notes/software-101/software-process/waterfall-agile
   - /YpULbg
+type: research
+topic: engineering-practice
 ---
 
 Two Software 101 notes ask one question: which software lifecycle fits a given project? One compares Waterfall with the iterative approach, the other compares Waterfall with Agile. Han curated them into this page. The original notes name no author and no source.

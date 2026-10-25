@@ -16,6 +16,13 @@ series: harness-engineering
 series_part: 3
 redirect:
   - /essays/engelberg-report-audit
+type: writing
+form: analysis
+topic: ai-agents
+secondary_topics:
+  - production-readiness
+  - markets-strategy
+fit: 3
 ---
 
 There's a new report out from Thoughtworks. In June, they and Martin Fowler put forty CTOs and senior engineers in a room in Engelberg, Switzerland, for three days and let them argue about what software engineering is turning into, then wrote it down: [The Future of Software Engineering, Europe 2026](https://www.thoughtworks.com/content/dam/thoughtworks/documents/report/tw_future_of_software_engineering_europe_2026.pdf). Sixteen pages. The line that stuck with me is on the first one: engineering is now distilled down to how do I describe the goal, and how do I verify I've reached it.

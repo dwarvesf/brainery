@@ -8,6 +8,8 @@ tags:
   - handbook
 redirect:
   - /0R3BQA
+type: company
+topic: company
 ---
 
 ## Balancing outside work

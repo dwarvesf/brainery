@@ -14,6 +14,8 @@ tags:
   - token
   - nft
 redirect: []
+type: research
+topic: digital-assets
 ---
 
 Solana separates logic and data into two components: programs and accounts. Programs do not keep data in internal variables. They interact with external data stored in accounts, and they can mutate it. This note starts with the account model and its rules, then shows how tokens and NFTs sit on top of it, and ends with Metaplex compression, which brings the cost of NFTs down.

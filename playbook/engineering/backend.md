@@ -7,6 +7,11 @@ redirect:
 authors: []
 credit: Futurice
 credit_url: "https://github.com/futurice/backend-best-practices"
+type: playbook
+topic: engineering-practice
+secondary_topics:
+  - data
+  - production-readiness
 ---
 
 - [N commandments](#n-commandments)

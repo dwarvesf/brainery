@@ -15,6 +15,13 @@ tags:
 redirect:
   - /tTzoQA
 slug: redirect-and-alias
+type: report
+form: field
+topic: product-engineering
+secondary_topics:
+  - platform-ops
+series: memo-platform
+fit: 2
 ---
 
 We implemented a comprehensive **URL redirect system** for NextJS static memo pages that transforms deeply nested directory structures into SEO-friendly, shareable URLs. The system addresses the core problem of user-unfriendly URLs like `/research/topics/blockchain/defi-protocols.md` by creating clean aliases such as `/blockchain/defi-protocols` while maintaining full backward compatibility.

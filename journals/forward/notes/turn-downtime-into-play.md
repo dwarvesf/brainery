@@ -13,6 +13,9 @@ tags:
   - prototyping
   - multiplayer
 slug: turn-downtime-into-play
+type: research
+topic: engineering-practice
+series: forward
 ---
 
 ## The finding

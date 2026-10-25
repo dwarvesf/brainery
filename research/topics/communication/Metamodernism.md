@@ -8,6 +8,8 @@ authors:
 tags:
   - communication
   - story-telling
+type: research
+topic: engineering-practice
 ---
 
 Metamodernism, a cultural mode following modernism and postmodernism, describes a pattern of cultural philosophy emerged in the late twentieth century. The term was coined in 1975 by Mas'ud Zavarzade, but has become associated primarily with the Age of the Internet.

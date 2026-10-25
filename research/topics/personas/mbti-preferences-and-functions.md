@@ -65,6 +65,8 @@ redirect:
   - /dVmgvA
   - /playbook/operations/the-four-preferences
   - /uoiKrg
+type: research
+topic: engineering-practice
 ---
 
 These are reading notes from the Dwarves research vault on Dr. A.J. Drenth's _My True Type: Clarifying Your Personality Type, Preferences & Functions_. Page ranges point back to the book. Other notes draw on Personality Junkie, 16Personalities, Practical Typing and David Keirsey's work on temperaments. The order follows the book: what a type is, the four preference pairs, the eight cognitive functions, how to confirm a type, and a team-level view. Several source notes were written in Vietnamese, and this page carries them in English.

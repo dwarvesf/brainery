@@ -11,6 +11,9 @@ tags:
   - AI
 redirect:
   - /geo-seeding-guide
+type: research
+topic: knowledge-work
+fit: 2
 ---
 
 *Leverage the platforms LLMs love so your memos get quoted and drive AI-first discovery.*

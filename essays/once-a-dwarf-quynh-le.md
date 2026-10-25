@@ -17,6 +17,9 @@ tags:
   - techiestory
   - career
   - testing
+type: writing
+form: essay
+topic: engineering-practice
 ---
 
 _First published on TechieStory, 12 August 2020: [archived copy](https://web.archive.org/web/20211202064234/https://techiestory.net/en/post/10-quynh-le). TechieStory also ran it in Vietnamese: [archived copy](https://web.archive.org/web/20230127233617/https://techiestory.net/vi/post/10-quynh-le). Roles and plans are as of that date._

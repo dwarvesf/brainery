@@ -11,6 +11,11 @@ tags:
   - ai
   - synthetic-users
   - user-testing
+type: research
+topic: product-engineering
+secondary_topics:
+  - applied-llm
+fit: 2
 ---
 
 AI-generated "synthetic users" are becoming a hot topic in UX research. These artificial profiles, created by large language models, promise to simulate real user behaviors and feedback. Companies like Synthetic Users say they can deliver faster, cheaper research by skipping the hassle of recruiting real participants. But can AI truly capture the nuanced, messy reality of human experience that makes UX research valuable?

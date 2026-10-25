@@ -13,6 +13,8 @@ redirect:
   - /misc/tokenomics/protocol-cheatsheet
   - /gdJomQ
 slug: token-protocol-cheatsheet
+type: program
+topic: company
 ---
 
 ## 🎯 Protocol overview

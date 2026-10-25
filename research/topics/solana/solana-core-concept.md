@@ -11,6 +11,8 @@ tags:
   - solana
 redirect:
   - /23Tzyw
+type: research
+topic: digital-assets
 ---
 
 ## Introduction

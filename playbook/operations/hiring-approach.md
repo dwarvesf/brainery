@@ -11,6 +11,8 @@ tags:
   - people
 redirect:
   - /js8Xkw
+type: playbook
+topic: engineering-practice
 ---
 
 ## Philosophy

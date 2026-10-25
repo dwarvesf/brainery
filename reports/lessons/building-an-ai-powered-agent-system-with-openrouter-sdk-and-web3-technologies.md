@@ -11,6 +11,12 @@ tags:
 redirect:
   - /v9yu5w
 slug: building-an-ai-powered-agent-system-with-openrouter-sdk-and-web3-technologies
+type: report
+form: field
+topic: ai-agents
+secondary_topics:
+  - digital-assets
+fit: 3
 ---
 
 ## Project summary

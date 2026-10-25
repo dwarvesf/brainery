@@ -12,6 +12,8 @@ tags:
   - handbook
 redirect:
   - /OBHAlio
+type: company
+topic: company
 ---
 
 We currently go with these:

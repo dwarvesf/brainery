@@ -6,6 +6,9 @@ redirect:
   - /Ql8wug
 authors:
   - neko-anon
+type: playbook
+topic: engineering-practice
+fit: 2
 ---
 
 We encourage pair programming between all levels of experience. Nobody is required to pair program for a certain amount of time, but it is a great tool to help solve complex problems quickly and more efficiently with an extra set of eyes.

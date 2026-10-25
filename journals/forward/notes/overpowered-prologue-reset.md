@@ -11,6 +11,9 @@ tags:
   - progression
   - narrative-design
 slug: overpowered-prologue-reset
+type: research
+topic: engineering-practice
+series: forward
 ---
 
 ## The finding

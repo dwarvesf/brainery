@@ -8,6 +8,8 @@ redirect:
   - /JbbLGg
 authors:
   - namtrhg
+type: research
+topic: product-engineering
 ---
 
 _This note focus on utilizing some of the **` console`** object methods and the **` debugger`** statement to better debug JavaScript application in the [Chrome DevTools](https://developer.chrome.com/docs/devtools/)._

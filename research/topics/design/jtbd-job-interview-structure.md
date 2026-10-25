@@ -7,6 +7,8 @@ redirect:
   - /YZVVUg
 authors: []
 credit: David Drysdale (Moby Diction)
+type: research
+topic: product-engineering
 ---
 
 This interview structure can be used to uncover customer jobs-to-be-done.

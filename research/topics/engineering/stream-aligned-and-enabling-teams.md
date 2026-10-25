@@ -15,6 +15,8 @@ redirect:
   - /2fZP2w
   - /research/topics/engineering/enabling-team
   - /fMa08g
+type: research
+topic: engineering-practice
 ---
 
 Team Topologies, by Manuel Pais and Matthew Skelton, sorts software teams into four types. Two of them matter most to how we work: the stream-aligned team, which delivers, and the enabling team, which helps it learn. These notes restate the book's definitions in our own words. For the full model, see [Team Topologies](team-toplogies.md) and [the key concepts on teamtopologies.com](https://teamtopologies.com/key-concepts).

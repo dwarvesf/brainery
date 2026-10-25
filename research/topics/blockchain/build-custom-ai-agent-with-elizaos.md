@@ -11,6 +11,10 @@ tags:
   - icy
 redirect:
   - /VzMqWg
+type: research
+topic: ai-agents
+secondary_topics:
+  - digital-assets
 ---
 
 ![](assets/build_custom_ai_agent_with_elizaos_intro.webp)

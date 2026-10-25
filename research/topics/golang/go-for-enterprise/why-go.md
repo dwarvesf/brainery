@@ -12,6 +12,9 @@ tags:
   - programming
 redirect:
   - /LvqJpQ
+type: research
+topic: languages
+fit: 2
 ---
 
 ## Why go

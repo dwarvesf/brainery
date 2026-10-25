@@ -12,6 +12,8 @@ tags:
   - handbook
 redirect:
   - /dvzlKQ
+type: program
+topic: company
 ---
 
 _Snapshot from 2024. Some tools and numbers have changed._

@@ -5,6 +5,8 @@ description: null
 date: null
 redirect:
   - /8x5J0g
+type: research
+topic: digital-assets
 ---
 
 A bit of rabbit hole leads me here, but great podcast sofar:

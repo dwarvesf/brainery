@@ -6,6 +6,9 @@ redirect:
   - /unCMng
 authors:
   - neko-anon
+type: playbook
+topic: platform-ops
+fit: 2
 ---
 
 This section describes the environments you should have, at a minimum. It might sound like a lot, but there is a purpose for each one.

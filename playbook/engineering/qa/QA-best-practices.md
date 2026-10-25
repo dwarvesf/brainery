@@ -6,6 +6,9 @@ redirect:
   - /rXv1ow
 authors:
   - neko-anon
+type: playbook
+topic: production-readiness
+fit: 2
 ---
 
 This is a summary of best practices our QA engineers at Dwarves use and recommends to be used. It is not supposed to be a detailed description and sometimes cannot fully be used for all tasks but as an overview of the most important QA processes and a list of good practices that should be used.

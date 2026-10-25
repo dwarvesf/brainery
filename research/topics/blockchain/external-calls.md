@@ -5,6 +5,10 @@ description: Learn best practices for safe external calls in Solidity, including
 date: 2026-08-27
 authors:
   - tieubao
+type: research
+topic: digital-assets
+secondary_topics:
+  - production-readiness
 ---
 
 #### Use caution when making external calls

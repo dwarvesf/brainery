@@ -11,6 +11,9 @@ tags:
   - web
 redirect:
   - /MA1Bhw
+type: research
+topic: product-engineering
+fit: 2
 ---
 
 _Snapshot from 2023. Some tools and numbers have changed._

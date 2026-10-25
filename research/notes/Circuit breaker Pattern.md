@@ -8,6 +8,8 @@ tags:
   - engineering
   - microservice
 redirect: []
+type: research
+topic: architecture
 ---
 
 ### Context

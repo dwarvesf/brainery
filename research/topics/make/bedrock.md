@@ -15,6 +15,9 @@ tags:
   - focus
   - unix
 redirect: []
+type: research
+topic: markets-strategy
+fit: 2
 ---
 
 Most products fail because they try to do everything. They become "feature salad," bloated with unnecessary features that confuse users.

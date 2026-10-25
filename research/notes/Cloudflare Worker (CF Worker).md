@@ -9,6 +9,9 @@ tags:
   - worker
 redirect:
   - /QPdf7Q
+type: research
+topic: platform-ops
+fit: 2
 ---
 
 ### What

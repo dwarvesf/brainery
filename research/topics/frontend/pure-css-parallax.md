@@ -13,6 +13,8 @@ tags:
   - html
 redirect:
   - /PqGoGA
+type: research
+topic: product-engineering
 ---
 
 ## Advantages of using pure CSS over JS

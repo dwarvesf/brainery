@@ -11,6 +11,8 @@ tags:
   - operation
   - template
 redirect: []
+type: playbook
+topic: company
 ---
 
 **Title:** Dwarves Foundation - Resource Changes Agreement on [**Name of Project**] from [**date**]

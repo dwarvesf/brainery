@@ -6,6 +6,8 @@ date: 2026-08-27
 authors:
   - tieubao
 redirect: []
+type: research
+topic: knowledge-work
 ---
 
 It's tempting to structure our knowledge systematically; but, this has significant pitfalls. Systematizing knowledge forces us to make decisions early on that may confine us to narrow lanes of inquiry, rather than confront us with [[Learning is enhanced by surprise | novel information]] and connections we would not otherwise have expected.

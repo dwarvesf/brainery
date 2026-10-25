@@ -6,6 +6,8 @@ date: 2026-10-18
 tags:
   - git
   - practice
+type: research
+topic: platform-ops
 ---
 
 Why does Git use [SHA-1](http://en.wikipedia.org/wiki/SHA-1), a cryptographic hash function, instead of a faster non-cryptographic hash function?

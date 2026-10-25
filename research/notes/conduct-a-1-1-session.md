@@ -9,6 +9,9 @@ tags:
   - radio-talk
 redirect:
   - /7WuKBQ
+type: research
+topic: engineering-practice
+fit: 2
 ---
 
 In this Radio Talk, [Thanh Pham](https://github.com/zlatanpham) - our Head of Web, shared how he conducts a 1-1 meeting with the Fellows. Working already four years at Dwarves, he has mentored a bunch of Juniors and realized many lesson-learned.

@@ -9,6 +9,8 @@ tags:
   - tool
 redirect:
   - /HeLQ4Q
+type: company
+topic: company
 ---
 
 ## Public-facing channel

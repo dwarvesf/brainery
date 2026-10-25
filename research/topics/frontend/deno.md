@@ -8,6 +8,8 @@ redirect:
   - /Jqv03w
 authors:
   - huygn
+type: research
+topic: product-engineering
 ---
 
 _Snapshot from 2022. Some tools and numbers have changed._

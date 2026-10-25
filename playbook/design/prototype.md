@@ -9,6 +9,8 @@ tags:
   - ui
 redirect:
   - /gg0W3w
+type: playbook
+topic: product-engineering
 ---
 
 ## Research

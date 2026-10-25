@@ -9,6 +9,8 @@ redirect:
   - /OuwGbg
 authors:
   - binhle59
+type: research
+topic: production-readiness
 ---
 
 ## Overview

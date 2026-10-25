@@ -11,6 +11,11 @@ tags:
   - llm
 redirect:
   - /9E43lQ
+type: research
+topic: ai-agents
+secondary_topics:
+  - applied-llm
+fit: 2
 ---
 
 ## Introduction

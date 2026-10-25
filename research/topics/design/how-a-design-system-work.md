@@ -10,6 +10,9 @@ tags:
   - technique
 redirect:
   - /RVm9gg
+type: research
+topic: product-engineering
+fit: 2
 ---
 
 _Snapshot from 2020. Some tools and numbers have changed._

@@ -12,6 +12,8 @@ tags:
   - career
 redirect:
   - /7M620A
+type: program
+topic: company
 ---
 
 ## About the program

@@ -21,6 +21,9 @@ announce: false
 series: package-first-go
 series_part: 3
 series_total: 3
+type: research
+topic: languages
+fit: 2
 ---
 
 The last rule is to let constraints carry the type safety: type parameters, type constraints and compile-time checks that stop a wrong type before it runs. The part ends with a checklist that turns all five rules into lines to run against a repo, package by package.

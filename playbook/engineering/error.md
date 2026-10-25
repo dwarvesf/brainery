@@ -6,6 +6,9 @@ redirect:
   - /nq7gfA
 authors:
   - neko-anon
+type: playbook
+topic: engineering-practice
+fit: 2
 ---
 
 We use the following structure for our error message. It helps our system stay consistent, easier to present between components and also better for error tracking.

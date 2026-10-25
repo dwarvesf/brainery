@@ -13,6 +13,8 @@ redirect:
   - /misc/tokenomics/economic-model
   - /rsAjfA
 slug: token-economic-model
+type: program
+topic: company
 ---
 
 A sustainable protocol needs predictable revenue, manageable costs, and aligned incentives. The dual-token system with Bitcoin backing creates multiple value capture mechanisms while maintaining operational flexibility.

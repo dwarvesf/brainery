@@ -8,6 +8,8 @@ redirect:
   - /TbxCnQ
 authors:
   - monotykamary
+type: research
+topic: data
 ---
 
 ## What is CAP theorem

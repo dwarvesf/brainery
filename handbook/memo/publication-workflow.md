@@ -10,6 +10,8 @@ tags:
   - guide
   - memo
 redirect: []
+type: company
+topic: company
 ---
 
 ### Choosing the right directory for the right topic

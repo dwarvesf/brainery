@@ -8,6 +8,8 @@ tags:
   - RESTful
 redirect:
   - /213WqQ
+type: research
+topic: engineering-practice
 ---
 
 ## The demand of API

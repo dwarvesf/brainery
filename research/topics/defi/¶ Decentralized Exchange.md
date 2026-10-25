@@ -5,6 +5,8 @@ description: null
 date: null
 redirect:
   - /r7AfvQ
+type: research
+topic: digital-assets
 ---
 
 DEX (Decentralized exchange) or decentralized exchange, in which all transactions take place automatically and directly between users (peer-to-peer network), without having to rely on an intermediary to avoid security risks, hackers or scams.

@@ -5,6 +5,8 @@ description: Learn about Moore machines, a type of finite-state machine where ou
 date: 2022-06-28
 github_id: monotykamary
 redirect: []
+type: research
+topic: architecture
 ---
 
 ## What is a Moore machine?

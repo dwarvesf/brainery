@@ -8,6 +8,8 @@ authors:
 tags:
   - golang
   - vim
+type: research
+topic: languages
 ---
 
 ## An introduction to Vim and how to use Vim with Golang

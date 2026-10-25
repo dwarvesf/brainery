@@ -10,6 +10,9 @@ tags:
   - transparency
 redirect: []
 slug: transparency
+type: writing
+form: essay
+topic: engineering-practice
 ---
 
 **How much do you know about this woodland?**

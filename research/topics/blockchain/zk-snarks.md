@@ -12,6 +12,8 @@ tags:
   - zero-knowledge
 redirect:
   - /I8Ri1A
+type: research
+topic: digital-assets
 ---
 
 ## What is this?

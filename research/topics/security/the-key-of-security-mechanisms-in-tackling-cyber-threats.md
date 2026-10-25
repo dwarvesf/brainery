@@ -11,6 +11,9 @@ tags:
   - security
 redirect:
   - /sQXI2w
+type: research
+topic: production-readiness
+fit: 2
 ---
 
 _Hosted by Thanh Pham - Engineering Manager, Dwarves had a great time with the best minds in cybersecurity- Mr. Hieu PC to share his knowledge and experience. As someone who is always looking to improve skills, this event is extremely valuable. We learned a lot about the different elements of cybersecurity and how to better protect our code._

@@ -11,6 +11,8 @@ tags:
   - vibe-coding
 redirect:
   - /MacqQw
+type: company
+topic: company
 ---
 
 ## Vibe coders, don’t let ops kill your flow

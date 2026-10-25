@@ -11,6 +11,8 @@ tags:
   - multisign-wallet
 redirect:
   - /oPw4zQ
+type: research
+topic: digital-assets
 ---
 
 ![](assets/multisign-wallet-hero-image.webp)

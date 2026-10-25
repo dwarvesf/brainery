@@ -6,6 +6,8 @@ date: 2026-10-18
 tags:
   - "101"
   - engineering
+type: research
+topic: engineering-practice
 ---
 
 Software engineering is an engineering discipline that’s applied to the development of software in a **systematic approach** (software process). It’s the application of theories, methods, and tools to design build a software that meets the specifications efficiently, cost-effectively, and ensuring quality. (**time** - **budget** - **quality**)

@@ -11,6 +11,8 @@ tags:
   - handbook
   - icy
 redirect: []
+type: program
+topic: company
 ---
 
 ## What is ICY? 🧊

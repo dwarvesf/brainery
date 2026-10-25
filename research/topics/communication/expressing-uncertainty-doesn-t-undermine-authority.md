@@ -7,6 +7,8 @@ redirect:
   - /U5kZ0A
 authors:
   - neko-anon
+type: research
+topic: engineering-practice
 ---
 
 When reporting their findings, researchers should not be reluctant to admitting what they don't know. What we know might remain in flux as new evidence comes to light, and identifying remaining uncertainties is more informative than presenting false confidence in an assertion. Indeed, uncertainty may be a critical part of the message that needs to be shared, such as when reporting on dynamic situations (like COVID guidelines and trends).

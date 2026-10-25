@@ -8,6 +8,8 @@ redirect:
   - /ieuvcQ
 authors:
   - viettrungphan
+type: research
+topic: product-engineering
 ---
 
 ## How to create an XCode build tools with Swift

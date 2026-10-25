@@ -11,6 +11,8 @@ tags:
   - labs
 slug: org-learning-chair
 redirect: []
+type: company
+topic: company
 ---
 
 ## Our mission

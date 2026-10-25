@@ -12,6 +12,13 @@ tags:
 redirect:
   - /Mdz1JA
 slug: optimizing-ui-for-effective-investment-experience
+type: report
+form: field
+topic: digital-assets
+secondary_topics:
+  - product-engineering
+  - financial-systems
+fit: 3
 ---
 
 ## UI design principles for data visualization

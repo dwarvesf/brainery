@@ -10,6 +10,10 @@ tags:
   - docker
   - nix
 redirect: []
+type: research
+topic: platform-ops
+series: devbox
+fit: 2
 ---
 
 For example, let's suppose that we have the following `Dockerfile`.

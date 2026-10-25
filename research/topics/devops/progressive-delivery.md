@@ -8,6 +8,8 @@ redirect:
   - /FdF4Xg
 authors:
   - zlatanpham
+type: research
+topic: platform-ops
 ---
 
 Progressive delivery is a modern software development methodology for gradually rolling out new features in order to assess the user response and limit the potential negative impact. With progressive delivery, features are released first to an internal QA team, then to real users in a controlled, measured manner.

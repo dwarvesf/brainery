@@ -7,6 +7,8 @@ redirect:
   - /I53IiA
 authors:
   - neko-anon
+type: playbook
+topic: engineering-practice
 ---
 
 Right now our team is scattered between VSCode and Emacs (Spacemacs).

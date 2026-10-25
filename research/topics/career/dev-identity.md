@@ -11,6 +11,12 @@ tags:
   - career
   - software-engineering
   - career-development
+type: writing
+form: essay
+topic: engineering-practice
+secondary_topics:
+  - ai-agents
+fit: 2
 ---
 
 After studying how developers are navigating the AI transformation, one finding stands out: **developer identity is fundamentally changing, and those who quickly embrace their new role are thriving**.

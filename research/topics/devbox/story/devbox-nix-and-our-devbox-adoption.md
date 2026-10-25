@@ -14,6 +14,10 @@ tags:
   - virtualization
 redirect:
   - /XemHjg
+type: research
+topic: platform-ops
+series: devbox
+fit: 2
 ---
 
 This is the 3rd post of Devbox series includes

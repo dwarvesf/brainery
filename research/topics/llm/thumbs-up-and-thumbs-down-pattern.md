@@ -11,6 +11,9 @@ tags:
   - pattern
 redirect:
   - /9feVNg
+type: research
+topic: applied-llm
+fit: 2
 ---
 
 Collecting user feedback is importance for improving the accuracy and relevance of responses. One simple yet powerful feedback mechanism is the thumbs up and thumbs down system. This article explores how labeling feedback in this manner can enhance the training data for LLMs and provides a case study for obtaining human feedback.

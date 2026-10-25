@@ -9,6 +9,10 @@ tags:
   - story-telling
   - writing
 redirect: []
+type: research
+topic: knowledge-work
+secondary_topics:
+  - engineering-practice
 ---
 
 The human mind crafts its understanding of events by forming them into a narrative. Kahnemann and Tversky’s “representativeness heuristic” suggests that people form expectations based on an idealized story or model, and evaluate expectations based on how well it fits that model rather than probabilities.

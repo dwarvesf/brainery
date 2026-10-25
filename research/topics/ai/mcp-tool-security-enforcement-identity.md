@@ -15,6 +15,11 @@ announce: false
 series: mcp-tool-security
 series_part: 2
 series_total: 2
+type: research
+topic: ai-agents
+secondary_topics:
+  - production-readiness
+fit: 2
 ---
 
 Part 1 designed the role-based model and the tool registry. This part puts it to work: enforcing permissions inside the server, filtering data by access policy, connecting to existing identity systems, and rolling the controls out in practice. It closes with the security practices that keep the system sound.

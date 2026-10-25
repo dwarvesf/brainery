@@ -12,6 +12,10 @@ tags:
   - golang
 redirect:
   - /ZMZkXQ
+type: research
+topic: languages
+secondary_topics:
+  - architecture
 ---
 
 ![](assets/template-method-design-pattern.pdf)

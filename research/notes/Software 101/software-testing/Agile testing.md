@@ -9,6 +9,9 @@ tags:
   - engineering
   - testing
 redirect: []
+type: research
+topic: production-readiness
+fit: 2
 ---
 
 Do we need an independent test group for agile project? Some people said if the company uses agile they do not need testers anymore. Is it true?

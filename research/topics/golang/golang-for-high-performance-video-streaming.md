@@ -11,6 +11,8 @@ tags:
   - webrtc
 redirect:
   - /eNTo4A
+type: research
+topic: languages
 ---
 
 When you need to get video from point A to point B _fast_ and reliably, directly in a browser without extra installs, **WebRTC** (**Web Real-Time Communication**) is fundamentally the right tool. It establishes direct peer-to-peer connections between browsers for media, which drastically cuts latency compared to constantly relaying video through a central server. It's built into browsers, no plugins needed. Simple concept, powerful results.

@@ -8,6 +8,8 @@ authors:
 tags:
   - career
   - design
+type: company
+topic: company
 ---
 
 ### What it takes to succeed

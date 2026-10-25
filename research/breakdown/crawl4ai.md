@@ -15,6 +15,13 @@ tags:
   - llm
   - architecture
   - python
+type: writing
+form: analysis
+topic: ai-agents
+secondary_topics:
+  - applied-llm
+  - architecture
+fit: 3
 ---
 
 ![](assets/crawl4ai-cheatsheet.png)

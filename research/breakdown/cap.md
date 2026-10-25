@@ -15,6 +15,10 @@ tags:
   - audio
   - screen-recording
 toc: true
+type: writing
+form: analysis
+topic: architecture
+fit: 2
 ---
 
 [Cap](https://github.com/CapSoftware/Cap) is an open-source, cross-platform screen recording system. It provides desktop and web apps for recording, editing, and sharing videos. All components are modular and can be self-hosted.

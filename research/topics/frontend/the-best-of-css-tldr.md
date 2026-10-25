@@ -11,6 +11,8 @@ tags:
   - ui
 redirect:
   - /B7fbbg
+type: research
+topic: product-engineering
 ---
 
 https://www.youtube.com/watch?v=CQuTF-bkOgc

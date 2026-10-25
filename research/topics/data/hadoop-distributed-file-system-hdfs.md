@@ -11,6 +11,8 @@ authors:
 series: hdfs-explained
 series_part: 1
 series_total: 2
+type: research
+topic: data
 ---
 
 HDFS is the storage layer of Hadoop. This part explains why Hadoop needs a file system of its own, how it differs from the file systems on a single machine, and how block storage and replication give it scale and fault tolerance.

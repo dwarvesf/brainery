@@ -12,6 +12,10 @@ announce: false
 series: go-test-doubles
 series_part: 2
 series_total: 2
+type: research
+topic: languages
+secondary_topics:
+  - production-readiness
 ---
 
 Part 1 defined test doubles and covered dummies and stubs. This part covers the other three kinds, spies, mocks and fakes, each with a definition, guidance on when to use it and a Go example. It ends with best practices for picking the right double.

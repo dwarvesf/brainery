@@ -11,6 +11,9 @@ tags:
   - web
 redirect:
   - /7SoIyQ
+type: research
+topic: product-engineering
+fit: 2
 ---
 
 ## What is PNPM?

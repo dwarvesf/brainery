@@ -10,6 +10,8 @@ tags:
   - distributed
 redirect:
   - /LGBnlQ
+type: research
+topic: digital-assets
 ---
 
 Stellar is all about trust (validators). After all, when you have to trust somebody, you'd trust the reputated nodes, rather than a random stranger node on the internet.

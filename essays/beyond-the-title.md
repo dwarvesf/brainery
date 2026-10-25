@@ -14,6 +14,10 @@ minted_at: '2025-05-12'
 token_id: '10'
 redirect: []
 slug: beyond-the-title
+type: writing
+form: essay
+topic: engineering-practice
+fit: 2
 ---
 
 ## The common dilemma

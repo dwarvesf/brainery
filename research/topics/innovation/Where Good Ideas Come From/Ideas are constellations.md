@@ -11,6 +11,11 @@ tags:
   - innovation
   - writing
 redirect: []
+type: research
+topic: markets-strategy
+secondary_topics:
+  - knowledge-work
+series: book-where-good-ideas-come-from
 ---
 
 Ideas are not self-contained, discrete objects. Rather, they emerge as connections between different thoughts and concepts.

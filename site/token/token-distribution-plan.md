@@ -13,6 +13,8 @@ redirect:
   - /misc/tokenomics/token-distribution-plan
   - /TaNdRQ
 slug: token-token-distribution-plan
+type: program
+topic: company
 ---
 
 Fair distribution builds trust and prevents concentration risk. The allocation balances community rewards, team incentives, and operational needs while maintaining long-term sustainability.

@@ -9,6 +9,9 @@ tags:
   - career
 redirect:
   - /ypsBag
+type: company
+topic: company
+fit: 2
 ---
 
 ## Towards growth

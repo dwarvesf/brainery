@@ -14,6 +14,8 @@ tags:
   - method
   - learning
 redirect: []
+type: research
+topic: knowledge-work
 ---
 
 A zettelkasten is a method of personal knowledge management inspired by the sociologist Niklas Luhmann. These notes explain what the system is, what it is for and how its notes are sorted. Its purpose is to generate ideas from linked notes, and surprise is the mechanism that produces them. The book-level argument and the writing process are covered in [Ahrens on the slip box](/smart-notes-slip-box), which these notes point to where the ground overlaps.

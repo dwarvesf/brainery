@@ -18,6 +18,13 @@ tags:
   - architecture
   - graph-database
 toc: true
+type: writing
+form: analysis
+topic: ai-agents
+secondary_topics:
+  - applied-llm
+  - architecture
+fit: 3
 ---
 
 ## Overview

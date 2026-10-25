@@ -11,6 +11,9 @@ tags:
   - data-modeling
 redirect:
   - /6GISag
+type: research
+topic: data
+fit: 2
 ---
 
 In the database solution design, there is the bad practices is called circular references.

@@ -7,6 +7,9 @@ tags:
   - business
   - strategy
 redirect: []
+type: research
+topic: markets-strategy
+series: book-strategy
 ---
 
 In nearly any process, the quality of the input is a constraint on the quality of the output.

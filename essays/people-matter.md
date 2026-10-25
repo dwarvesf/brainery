@@ -11,6 +11,10 @@ tags:
   - people
 redirect: []
 slug: people-matter
+type: writing
+form: essay
+topic: engineering-practice
+fit: 2
 ---
 
 We get to read many articles these days that states '_People are the Core of the Business_', or '_Why People are the Key to Success_', or something like that. Something that polishes the importance of human to the company. Something that emphasizes how HR should do their best to nurture the talents.

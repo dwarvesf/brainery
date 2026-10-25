@@ -18,6 +18,8 @@ redirect:
   - /HBM2xg
   - /research/topics/product/aarrr-vs-hook
   - /noIBDA
+type: research
+topic: engineering-practice
 ---
 
 Three short team notes cover Nir Eyal's _Hooked: How to Build Habit-Forming Products_: the four phases of the Hook Model, a checklist of six hook elements, and a comparison with the AARRR funnel. Han curated them into this page. The wording is restated in short form, and the ideas belong to Eyal.

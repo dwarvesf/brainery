@@ -9,6 +9,8 @@ redirect:
   - /dDz2CQ
 authors:
   - trankhacvy
+type: research
+topic: architecture
 ---
 
 ## UML state machine diagram

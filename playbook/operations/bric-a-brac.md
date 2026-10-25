@@ -9,6 +9,8 @@ tags:
   - performance
   - operation
 redirect: []
+type: playbook
+topic: company
 ---
 
 - Outsource things which are super important but we are not excellent at.

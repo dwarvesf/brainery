@@ -12,6 +12,9 @@ tags:
   - architecture
   - cloudflare
   - rag
+type: report
+form: field
+topic: engineering-practice
 ---
 
 Until 19 October, if you opened [Five layers to tune before you fork your agent](../../essays/agent-tuning-layers.md) on memo and asked its Ask box a question, the model answering you also read "Designing Out SNAP Fraud". It read "How trust works at Dwarves" as well. Neither has anything to say about agents. They were there because all three files live in `essays/`, and the rule that picked an article's related notes was the folder.

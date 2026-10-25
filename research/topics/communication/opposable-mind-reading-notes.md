@@ -12,6 +12,8 @@ tags:
   - thinking
   - problem-solving
 redirect: []
+type: research
+topic: engineering-practice
 ---
 
 These are reading notes on _The Opposable Mind: How Successful Leaders Win Through Integrative Thinking_ by Roger L. Martin (Harvard Business Review Press, 2007). They are adapted from David Drysdale's Moby Diction notes.

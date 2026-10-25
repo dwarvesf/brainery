@@ -5,6 +5,8 @@ description: An integrative thinker, according to Roger Martin, rejects binary f
 date: 2026-10-18
 tags:
   - insight
+type: research
+topic: engineering-practice
 ---
 
 An integrative thinker, according to Roger Martin, rejects binary frameworks and either/or decision-making, instead seeking synthesis between apparently opposed options.

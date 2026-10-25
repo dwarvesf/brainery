@@ -11,6 +11,9 @@ announce: false
 series: go-concurrency
 series_part: 2
 series_total: 3
+type: research
+topic: languages
+fit: 2
 ---
 
 Part 1 showed what goes wrong. This part turns to what works: the building blocks of Go concurrency, from launching a goroutine to waiting on several channels with select and putting a timeout on a receive. Each pattern comes with a small runnable program. Part 3 adds quit channels and a worked example.

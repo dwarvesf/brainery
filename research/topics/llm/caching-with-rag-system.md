@@ -12,6 +12,9 @@ tags:
   - rag
 redirect:
   - /XmXKLQ
+type: research
+topic: applied-llm
+fit: 2
 ---
 
 ## Introduction

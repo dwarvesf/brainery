@@ -7,6 +7,8 @@ tags:
   - design
   - maslow
   - ux
+type: research
+topic: product-engineering
 ---
 
 ![](https://www.simplypsychology.org/maslow-5.jpg)

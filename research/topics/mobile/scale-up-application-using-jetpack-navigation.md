@@ -9,6 +9,8 @@ redirect:
   - /2ZpwlA
 authors:
   - truong-dwarvesv
+type: research
+topic: product-engineering
 ---
 
 In the past, to implement based on fragment navigation, we used `FragmentManager` and `FragmentTransaction` to

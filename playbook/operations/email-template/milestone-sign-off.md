@@ -11,6 +11,8 @@ tags:
   - operation
   - template
 redirect: []
+type: playbook
+topic: company
 ---
 
 **Title:** Project XX - Milestone Signoff

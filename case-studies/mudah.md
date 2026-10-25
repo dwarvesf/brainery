@@ -15,6 +15,9 @@ redirect:
   - /consulting/case-study/mudah
   - /FRzphQ
 slug: mudah
+type: case-study
+topic: architecture
+fit: 3
 ---
 
 **Industry**\

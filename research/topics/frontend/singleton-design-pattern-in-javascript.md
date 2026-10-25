@@ -11,6 +11,10 @@ tags:
   - frontend
 redirect:
   - /pAWixg
+type: research
+topic: product-engineering
+secondary_topics:
+  - architecture
 ---
 
 ## Overview

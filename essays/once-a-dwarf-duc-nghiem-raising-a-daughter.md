@@ -15,6 +15,9 @@ tags:
   - techiestory
   - career
   - parenting
+type: writing
+form: essay
+topic: knowledge-work
 ---
 
 _First published on TechieStory, 21 June 2021: [archived copy](https://web.archive.org/web/20211202073650/https://techiestory.net/en/post/25-duc-nghiem). TechieStory also ran it in Vietnamese: [archived copy](https://web.archive.org/web/20230128003835/https://techiestory.net/vi/post/25-duc-nghiem). Roles and plans are as of that date. Part 2 is [Duc Nghiem on motivation from within](https://memo.d.foundation/once/duc-nghiem/motivation-from-within)._

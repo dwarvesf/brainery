@@ -21,6 +21,10 @@ tags:
   - career
 redirect:
   - /once-a-dwarf/tuan-dao
+topic: ai-agents
+secondary_topics:
+  - engineering-practice
+fit: 2
 ---
 
 Tuan Dao writes code at Dwarves and has worked with AI in two phases: first as a pair programmer, then as something he delegates to. His short answer: **"Can AI code?" is an old question now. It can. The hard part is reviewing its work without a jam.** What follows is his account, in his words.

@@ -6,6 +6,8 @@ redirect:
   - /GHb2lA
 authors:
   - neko-anon
+type: playbook
+topic: engineering-practice
 ---
 
 Following setup helps us maintain stability and increase the transparency among team members.

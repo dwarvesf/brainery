@@ -14,6 +14,12 @@ tags:
   - culture
 redirect: []
 slug: weak-engineer
+type: writing
+form: essay
+topic: applied-llm
+secondary_topics:
+  - engineering-practice
+fit: 3
 ---
 
 **The software industry has a hiring problem.** We've spent decades optimizing for algorithmic wizards who can reverse binary trees in their sleep, while completely ignoring the skills that actually matter for building great software. Now, with AI agents writing code faster than any human, this misalignment isn't just inefficient, it's existential.

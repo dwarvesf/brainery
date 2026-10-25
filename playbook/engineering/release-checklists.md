@@ -19,6 +19,8 @@ redirect:
   - /JuuhaQ
   - /playbook/engineering/frontend/ui-checklist
   - /3HShrA
+type: playbook
+topic: engineering-practice
 ---
 
 Three checklists guard what ships. The production checklist covers the service, the UAT checklist covers sign-off with the product team, and the frontend UI checklist covers what the user sees. Run each one before the matching step.

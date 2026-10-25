@@ -50,6 +50,9 @@ redirect:
   - /BjMCWg
 authors:
   - neko-anon
+type: research
+topic: knowledge-work
+landing: true
 ---
 
 ## Write better

@@ -10,6 +10,8 @@ tags:
   - ux
 redirect:
   - /eTiacw
+type: playbook
+topic: product-engineering
 ---
 
 ## UX research framework

@@ -13,6 +13,10 @@ tags:
   - verticals
 redirect: []
 slug: arc-convergence
+type: writing
+form: essay
+topic: markets-strategy
+fit: 2
 ---
 
 ## Where arcs meet our vision

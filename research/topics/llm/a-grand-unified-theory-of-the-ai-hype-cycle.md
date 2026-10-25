@@ -11,6 +11,9 @@ tags:
   - llm
 redirect:
   - /s5Efuw
+type: research
+topic: applied-llm
+fit: 2
 ---
 
 ## The cycle

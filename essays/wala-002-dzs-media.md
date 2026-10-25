@@ -5,7 +5,7 @@ short_title: DZS Media
 description: Our visit to DZS Media revealed surprising parallels between film production and software development. Their meticulous planning, focus on getting things right the first time, and expertise-driven approach offers valuable insights for our engineering practices.
 date: 2024-10-16
 kind: digest
-series: WALA
+series: wala
 series_part: 2
 authors:
   - innnotruong
@@ -16,6 +16,9 @@ tags:
 redirect:
   - /0yBnHg
 slug: wala-002-dzs-media
+type: writing
+form: essay
+topic: engineering-practice
 ---
 
 > **Recap:** Our visit to DZS Media, a successful film production company, showed us how another creative industry approaches quality and production. Their meticulous planning, expertise-driven decisions, and commitment to getting things right the first time mirror effective software development principles and reinforce the value of cross-industry learning.

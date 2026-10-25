@@ -10,6 +10,8 @@ announce: false
 series: ios-best-practices
 series_part: 2
 series_total: 4
+type: playbook
+topic: product-engineering
 ---
 
 This part covers the shape of the app itself: the few libraries worth adding, an architecture split into models, views and controllers, the stores that hold app data, and how to handle bitmap and vector images. It is a snapshot from 2015, written before SwiftUI and Swift concurrency. Part 1 explains what has changed since.

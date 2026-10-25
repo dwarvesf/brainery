@@ -8,6 +8,8 @@ redirect:
   - /F6NH0w
 authors:
   - monotykamary
+type: research
+topic: financial-systems
 ---
 
 ## Introduction

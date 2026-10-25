@@ -7,6 +7,10 @@ tags:
   - habit-forming
   - product
 redirect: []
+type: research
+topic: engineering-practice
+secondary_topics:
+  - markets-strategy
 ---
 
 According to Nir Eyal, there are 6 **Hooks Elements** for entrepreneur to consider before start building engaging & habit-forming products

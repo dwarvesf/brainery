@@ -15,6 +15,10 @@ redirect:
   - /culture/better-engineering-ai
   - /N3SLXqc
 slug: better-engineering-ai
+type: writing
+form: essay
+topic: applied-llm
+fit: 3
 ---
 
 I've been staring at my screen for the past hour, watching Cursor AI suggest a database query that's syntactically perfect but will absolutely murder our performance when we have real users.

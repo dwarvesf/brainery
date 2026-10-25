@@ -9,6 +9,8 @@ tags:
   - consulting
 redirect:
   - /b0WCuQ
+type: playbook
+topic: markets-strategy
 ---
 
 One of the most important questions at the start of a project is how much it will cost. It is vital to make sure that enough budget is available to allow for the development of a viable product.

@@ -1,5 +1,9 @@
 ---
 slug: arc-on-llm
+type: writing
+form: essay
+topic: applied-llm
+fit: 2
 ---
 
 

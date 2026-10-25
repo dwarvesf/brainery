@@ -10,6 +10,8 @@ credit_url: "https://github.com/futurice/ios-good-practices"
 series: ios-best-practices
 series_part: 1
 series_total: 4
+type: playbook
+topic: product-engineering
 ---
 
 _Snapshot from 2015. Some tools and numbers have changed._

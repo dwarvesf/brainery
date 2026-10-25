@@ -11,6 +11,8 @@ tags:
   - foundry
 redirect:
   - /lsQ8Wg
+type: research
+topic: digital-assets
 ---
 
 ## Introduction

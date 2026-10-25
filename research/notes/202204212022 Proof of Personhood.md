@@ -6,6 +6,8 @@ date: 2026-10-18
 tags:
   - blockchain
   - web3
+type: research
+topic: digital-assets
 ---
 
 ## I, robot (2004): crypto version

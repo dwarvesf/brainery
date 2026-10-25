@@ -8,6 +8,10 @@ authors:
 tags:
   - devbox
 redirect: []
+type: research
+topic: platform-ops
+series: devbox
+fit: 2
 ---
 
 Ever wished you could manage your development services as easily as with Docker Compose, but without all the Docker baggage? Say hello to Devbox Services, powered by process-compose.

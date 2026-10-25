@@ -7,6 +7,9 @@ authors:
   - tieubao
 tags:
   - design
+type: research
+topic: product-engineering
+fit: 2
 ---
 
 Requested by our Apprentices, and hosted by Thanh Pham - our Head of Web. Understanding an Application Design is the upfront work for every web project. An application design consists of different main parts, which we highlighted a few below.

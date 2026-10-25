@@ -18,6 +18,11 @@ redirect:
   - /research/topics/data/introduction-to-apache-pig
   - /data/introduction-to-apache-pig
   - /FGFsgw
+type: research
+topic: data
+secondary_topics:
+  - architecture
+fit: 2
 ---
 
 ![](assets/a-lens-to-modern-data-engineering.png)

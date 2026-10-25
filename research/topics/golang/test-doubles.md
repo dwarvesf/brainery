@@ -13,6 +13,10 @@ authors:
 series: go-test-doubles
 series_part: 1
 series_total: 2
+type: research
+topic: languages
+secondary_topics:
+  - production-readiness
 ---
 
 In the world of software development, testing plays a vital role in ensuring the reliability and stability of our applications. When writing tests, we often come across situations where certain dependencies need to be simulated or replaced to isolate the behavior of the code under test. This is where Test Doubles come into play.

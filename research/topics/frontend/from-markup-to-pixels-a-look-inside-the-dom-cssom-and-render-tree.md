@@ -13,6 +13,8 @@ tags:
   - rendering
 redirect:
   - /WG6bbQ
+type: research
+topic: product-engineering
 ---
 
 Inside a web browser, there exists a software component responsible for determining the content to show you based on the data it receives. This component is known as the browser engine.

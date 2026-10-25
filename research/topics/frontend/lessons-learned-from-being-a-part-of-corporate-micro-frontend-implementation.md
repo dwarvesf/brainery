@@ -10,6 +10,9 @@ tags:
   - web
 redirect:
   - /mOp3KQ
+type: research
+topic: product-engineering
+fit: 2
 ---
 
 ## Introduction

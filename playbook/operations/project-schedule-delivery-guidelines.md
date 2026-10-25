@@ -11,6 +11,8 @@ tags:
   - internal
 redirect:
   - /tPymmA
+type: playbook
+topic: markets-strategy
 ---
 
 ## Weekly activities

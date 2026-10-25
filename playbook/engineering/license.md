@@ -6,6 +6,8 @@ redirect:
   - /xYYbTg
 authors:
   - neko-anon
+type: playbook
+topic: engineering-practice
 ---
 
 ## Why license?

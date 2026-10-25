@@ -14,6 +14,8 @@ redirect:
   - /culture/record-reward-sharing-culture
   - /KaApeg
 slug: record-reward-sharing-culture
+type: company
+topic: company
 ---
 
 _Snapshot from 2024. Some tools and numbers have changed._

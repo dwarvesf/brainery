@@ -12,6 +12,8 @@ tags:
   - java
 redirect:
   - /i9YTBw
+type: research
+topic: languages
 ---
 
 ## Why Java is chosen by enterprises

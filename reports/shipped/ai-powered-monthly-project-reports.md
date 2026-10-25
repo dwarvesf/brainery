@@ -13,6 +13,12 @@ tags:
 redirect:
   - /gFafAQ
 slug: ai-powered-monthly-project-reports
+type: report
+form: field
+topic: ai-agents
+secondary_topics:
+  - data
+fit: 3
 ---
 
 At Dwarves, we've developed a Monthly Project Reports system that transforms communication data into actionable intelligence. This lean system orchestrates multiple data streams into comprehensive project insights while maintaining enterprise-grade security and cost efficiency.

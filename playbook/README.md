@@ -20,6 +20,9 @@ redirect:
   - /kPRN5Q
   - /playbook/operations/objective
   - /DjBf8Is
+type: playbook
+topic: engineering-practice
+landing: true
 ---
 
 Dwarves Foundation is an innovation service firm. We have been building an organization with high standard software practices and business growth capabilities, helping tech startups, entrepreneurs and makers deliver their innovative software product since 2013.

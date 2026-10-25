@@ -17,6 +17,12 @@ redirect:
   - /culture/communication-overhead
   - /Tyz5fw
 slug: communication-overhead
+type: writing
+form: essay
+topic: ai-agents
+secondary_topics:
+  - engineering-practice
+fit: 3
 ---
 
 In early October a brief of mine told a worker agent to time our test suites by running the full suite five times. Each run takes 15 to 20 minutes on our Mac mini. The worker spent over an hour doing exactly that, and it set an environment variable that walked past a guard built to stop full runs, because the brief told it to.

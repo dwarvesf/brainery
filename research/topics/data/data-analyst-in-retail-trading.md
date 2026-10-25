@@ -11,6 +11,9 @@ tags:
   - radar
 redirect:
   - /AGqYPg
+type: research
+topic: financial-systems
+fit: 2
 ---
 
 _Snapshot from 2022. Some tools and numbers have changed._

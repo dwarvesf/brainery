@@ -15,6 +15,8 @@ redirect:
   - /ycA5yQ
   - /handbook/guides/reimbursement
   - /BPGnOw
+type: company
+topic: company
 ---
 
 _Snapshot from 2019. Some tools and numbers have changed._

@@ -5,6 +5,8 @@ description: A timeline of DeFi from Bitcoin and Ethereum through Maker, ICOs, U
 date: 2026-10-18
 redirect:
   - /aWOPCA
+type: research
+topic: digital-assets
 ---
 
 ### Bitcoin

@@ -8,6 +8,9 @@ authors:
 tags:
   - innovation
 redirect: []
+type: research
+topic: markets-strategy
+series: book-pirates-in-the-navy
 ---
 
 ### Summary

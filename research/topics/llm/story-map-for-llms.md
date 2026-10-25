@@ -12,6 +12,8 @@ tags:
   - prompt
 redirect:
   - /irBppw
+type: research
+topic: applied-llm
 ---
 
 _Snapshot from 2023. Some tools and numbers have changed._

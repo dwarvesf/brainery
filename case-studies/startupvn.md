@@ -14,6 +14,9 @@ redirect:
   - /consulting/case-study/startupvn
   - /h4yfsA
 slug: startupvn
+type: case-study
+topic: product-engineering
+fit: 2
 ---
 
 **Industry**\

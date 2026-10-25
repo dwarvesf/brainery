@@ -9,6 +9,10 @@ redirect:
   - /9zPIWA
 authors:
   - R-Jim
+type: research
+topic: architecture
+secondary_topics:
+  - data
 ---
 
 ## What is Redis

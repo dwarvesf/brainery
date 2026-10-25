@@ -26,6 +26,9 @@ redirect:
 series: package-first-go
 series_part: 1
 series_total: 3
+type: research
+topic: languages
+fit: 2
 ---
 
 Go pushes [composition over inheritance](https://go.dev/doc/faq#Is_Go_an_object-oriented_language), so the unit you build with is different from other languages. In Go, packages serve as the basic building blocks for creating modular, reusable and maintainable software, and the language encourages you to organize code in a package-oriented way.

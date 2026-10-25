@@ -8,6 +8,8 @@ redirect:
   - /z9Q1Ew
 authors:
   - nhuthm
+type: research
+topic: engineering-practice
 ---
 
 From most of the team project, with higher roles like: project manager, product owner, and engineering manager will need to understand the workload of each members from the team, to see what they has been doing so far in the product development. The story point is one of the way to determine that.

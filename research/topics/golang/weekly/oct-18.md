@@ -9,6 +9,9 @@ authors:
 tags:
   - go-weekly
   - golang
+type: research
+topic: languages
+series: golang-weekly
 ---
 
 ## [Go sync.Map: The right tool for the right job](https://victoriametrics.com/blog/go-sync-map/index.html)

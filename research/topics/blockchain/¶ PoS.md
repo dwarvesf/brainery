@@ -17,6 +17,8 @@ redirect:
   - /research/topics/defi/economic-limits-of-proof-of-stake-blockchains
   - /NnFtxg
   - /defi/economic-limits-of-proof-of-stake-blockchains
+type: research
+topic: digital-assets
 ---
 
 ## The proof of stake

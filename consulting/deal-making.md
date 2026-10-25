@@ -9,6 +9,8 @@ tags:
   - deal-making
 redirect:
   - /mwtfEg
+type: playbook
+topic: markets-strategy
 ---
 
 > **tl;dr**

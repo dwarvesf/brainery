@@ -7,6 +7,9 @@ tags:
   - business
   - strategy
 redirect: []
+type: research
+topic: markets-strategy
+series: book-strategy
 ---
 
 Problem-solving involves identifying the salient features of a problem. This is a subjective activity; different thinkers will identify different matters of salience.

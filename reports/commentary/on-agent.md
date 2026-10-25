@@ -13,6 +13,10 @@ tags:
   - ai-strategy
 redirect: []
 slug: arc-on-agent
+type: writing
+form: essay
+topic: ai-agents
+fit: 3
 ---
 
 ## The wave we're riding

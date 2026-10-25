@@ -16,6 +16,8 @@ tags:
   - ai
 pinned: true
 redirect: []
+type: research
+topic: markets-strategy
 ---
 
 Most products fail because they try to do everything. They become feature salad, bloated with features that confuse users. These notes collect three principles that push the other way. Do one thing well, so the product stays focused and composable. Keep a bedrock core that serves what users need, so feature cloning cannot wear it down. Protect the soul, so growth does not strip out the care that made people love the product.

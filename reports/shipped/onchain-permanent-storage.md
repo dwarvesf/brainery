@@ -14,6 +14,11 @@ tags:
   - build-log
 redirect: []
 slug: onchain-permanent-storage
+type: report
+form: field
+topic: digital-assets
+series: memo-platform
+fit: 3
 ---
 
 ### Why we use onchain permanent storage

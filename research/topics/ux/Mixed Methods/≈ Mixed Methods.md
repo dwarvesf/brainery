@@ -5,6 +5,10 @@ description: Explore the key differences between qualitative and quantitative re
 date: null
 redirect:
   - /h1k5yg
+type: research
+topic: product-engineering
+series: book-mixed-methods
+landing: true
 ---
 
 ## Summary

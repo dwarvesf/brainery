@@ -19,6 +19,10 @@ redirect:
   - /culture/weak-engineer
   - /63gjpg
 slug: capability-cliff
+type: writing
+form: essay
+topic: engineering-practice
+fit: 2
 ---
 
 Until February 2026 our technical interview scored engineers on how fast they solved algorithm problems. The problems ran 40 minutes under time pressure and carried 60% of the score. Then we rewrote the hour. The candidate now works a realistic problem with AI tools switched on, and raw coding is 15% of the score.

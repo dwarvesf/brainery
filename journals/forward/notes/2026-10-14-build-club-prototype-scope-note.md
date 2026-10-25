@@ -13,6 +13,9 @@ tags:
   - ai-assisted-development
   - product-scope
 slug: 2026-10-14-build-club-prototype-scope-note
+type: research
+topic: engineering-practice
+series: forward
 ---
 
 ## The finding

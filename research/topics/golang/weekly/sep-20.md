@@ -10,6 +10,9 @@ tags:
   - llm
   - go-weekly
   - golang
+type: research
+topic: languages
+series: golang-weekly
 ---
 
 ## [Kl: An interactive Kubernetes log viewer for your terminal](https://github.com/robinovitch61/kl)

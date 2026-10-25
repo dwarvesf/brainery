@@ -14,6 +14,10 @@ redirect:
   - /culture/stating-the-obvious
   - /6jXZLQ
 slug: stating-the-obvious
+type: writing
+form: essay
+topic: engineering-practice
+fit: 2
 ---
 
 Here's something we've learned: the most important things to say are often the ones that feel too obvious to mention. You know that feeling when you're in a meeting and think "everyone already knows this," so you stay quiet? That instinct might be holding your team back.

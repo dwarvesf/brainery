@@ -11,6 +11,8 @@ tags:
   - frontend
 redirect:
   - /CRb65g
+type: research
+topic: product-engineering
 ---
 
 The key to improving your website speed is to understand where the bottlenecks are, and how much time each step takes. When we talk about web performance basically we talk about either the two aspects: network latency and browser rendering.

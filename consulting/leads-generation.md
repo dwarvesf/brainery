@@ -9,6 +9,8 @@ tags:
   - sales
 redirect:
   - /rbH3bg
+type: playbook
+topic: markets-strategy
 ---
 
 ## Kicking off the sales cycle

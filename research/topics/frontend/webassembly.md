@@ -13,6 +13,8 @@ tags:
   - webassembly
 redirect:
   - /r0g4Ug
+type: research
+topic: product-engineering
 ---
 
 ### What

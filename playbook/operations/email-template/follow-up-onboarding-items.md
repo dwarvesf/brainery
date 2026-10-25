@@ -9,6 +9,8 @@ tags:
   - operation
   - template
 redirect: []
+type: playbook
+topic: company
 ---
 
 **Title**: Follow-up on Welcome Onboard email

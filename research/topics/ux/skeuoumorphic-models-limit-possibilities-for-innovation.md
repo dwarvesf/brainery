@@ -7,6 +7,8 @@ redirect:
   - /0pkcJw
 authors: []
 credit: David Drysdale (Moby Diction)
+type: research
+topic: product-engineering
 ---
 
 Skeuomorphism in design describes the rendering of digital items in terms of their real-life counterparts. For example, skeuomorphic design might render a notebook application such that it resembles a physical notebook.

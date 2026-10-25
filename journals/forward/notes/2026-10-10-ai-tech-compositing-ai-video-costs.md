@@ -11,6 +11,9 @@ tags:
   - modal
   - prototyping
 slug: 2026-10-10-ai-tech-compositing-ai-video-costs
+type: research
+topic: engineering-practice
+series: forward
 ---
 
 ## The finding

@@ -10,6 +10,8 @@ tags:
   - swift
 redirect:
   - /X0fM2A
+type: research
+topic: product-engineering
 ---
 
 Before XPC we used to pick up Sockets and Mach Messages (Mach Ports).

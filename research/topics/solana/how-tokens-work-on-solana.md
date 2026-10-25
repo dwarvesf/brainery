@@ -11,6 +11,8 @@ tags:
   - blockchain
   - solana
 redirect: []
+type: research
+topic: digital-assets
 ---
 
 ## How tokens work on Solana - explain for EVM developers

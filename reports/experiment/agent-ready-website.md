@@ -13,6 +13,12 @@ tags:
 slug: agent-ready-website
 series: harness-engineering
 series_part: 8
+type: report
+form: field
+topic: ai-agents
+secondary_topics:
+  - platform-ops
+fit: 3
 ---
 
 A new kind of visitor shows up at our sites now. It runs no JavaScript, and it gives up in about a second if it can't find what it came for. It's an AI agent fetching a page for a person who asked it a question, and it wants text, a status code, and links it can follow. We spent a day making [memo.d.foundation](https://memo.d.foundation) and [dwarves.foundation](https://dwarves.foundation) legible to that visitor. The docs site went from 50 to 93 on one scanner, the marketing site from 52 to 85. Here's what the scanner looks for, and what a day of fixes did to the page an agent sees.

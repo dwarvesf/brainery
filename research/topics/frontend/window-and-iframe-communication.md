@@ -12,6 +12,8 @@ tags:
   - post-message
 redirect:
   - /2bwh6Q
+type: research
+topic: product-engineering
 ---
 
 ## Same origin communication

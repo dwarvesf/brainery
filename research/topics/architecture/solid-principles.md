@@ -9,6 +9,8 @@ redirect:
   - /Pqjh0A
 authors:
   - nguyend-nam
+type: research
+topic: architecture
 ---
 
 ## What & why?

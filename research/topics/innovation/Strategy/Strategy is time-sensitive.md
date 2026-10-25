@@ -7,6 +7,9 @@ tags:
   - business
   - strategy
 redirect: []
+type: research
+topic: markets-strategy
+series: book-strategy
 ---
 
 Developing an effective strategy is time-sensitive work. The longer you take to respond to changing conditions, the more constrained your options become. And, as soon as you react to the conditions, you change the conditions. You must be ready and willing to continually read the landscape and adjust your perspective accordingly.

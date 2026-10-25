@@ -6,6 +6,8 @@ redirect:
   - /fa8afg
 authors:
   - neko-anon
+type: playbook
+topic: platform-ops
 ---
 
 ## What

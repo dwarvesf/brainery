@@ -11,6 +11,8 @@ tags:
   - business-development
 slug: org-partnership-chair
 redirect: []
+type: company
+topic: company
 ---
 
 ## Our mission

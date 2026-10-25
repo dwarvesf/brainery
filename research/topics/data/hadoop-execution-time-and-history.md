@@ -11,6 +11,8 @@ announce: false
 series: hadoop-and-big-data
 series_part: 2
 series_total: 2
+type: research
+topic: data
 ---
 
 Part 1 posed a problem: find the maximum closing price of every stock symbol in a 1 TB data set. This part works out how long one machine takes to read and process that data, which shows why a cluster is needed, and then covers how Hadoop grew out of the Nutch web crawler.

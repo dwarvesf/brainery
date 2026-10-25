@@ -17,6 +17,12 @@ tags:
   - context-management
   - api-providers
 toc: true
+type: writing
+form: analysis
+topic: ai-agents
+secondary_topics:
+  - architecture
+fit: 3
 ---
 
 ![](assets/cline-cheatsheet.png)

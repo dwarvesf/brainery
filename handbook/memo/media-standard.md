@@ -11,6 +11,8 @@ tags:
 slug: memo-media-standard
 kind: reference
 draft: false
+type: company
+topic: company
 ---
 
 This page is the single rule set for images and figures on memo. It applies to every post, whichever door it came through. [Contribute to memo](/contribute-to-memo) summarizes it in chapters 2 and 5, and the contributor skills link here instead of copying it. The [post rubric](/memo-post-rubric) turns these rules, and the content rules around them, into a script and a checklist you run before review.

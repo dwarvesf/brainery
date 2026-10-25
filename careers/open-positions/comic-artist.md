@@ -13,6 +13,8 @@ tags:
   - full-time
 redirect:
   - /comic-2025
+type: company
+topic: company
 ---
 
 ## We are hiring a comic artist & IP developer

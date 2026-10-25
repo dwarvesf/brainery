@@ -9,6 +9,9 @@ authors:
 tags:
   - go-weekly
   - golang
+type: research
+topic: languages
+series: golang-weekly
 ---
 
 ## [Leveraging benchstat projections in Go benchmark analysis!](https://www.bwplotka.dev/2024/go-microbenchmarks-benchstat/)

@@ -11,6 +11,8 @@ tags:
   - apprenticeship
   - career
 redirect: []
+type: program
+topic: company
 ---
 
 Dwarves Team is shifting our focus to blockchain technology. We offer study groups and blockchain-based projects for peeps to grow and catch up with this rising trend. Thanh is one of the vital elements of this team; and we know he'll be more than happy to have you onboard.

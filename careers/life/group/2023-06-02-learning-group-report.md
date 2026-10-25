@@ -5,6 +5,8 @@ description: "Weekly report from the Dwarves learning group: members, activities
 date: 2023-06-02
 last_edited: "2023-06-19T00:00:00.000Z"
 redirect: []
+type: company
+topic: company
 ---
 
 ### Group members

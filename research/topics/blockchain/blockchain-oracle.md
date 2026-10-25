@@ -14,6 +14,8 @@ redirect:
   - /4rTExA
   - /research/notes/blockchain-oracle
   - /Y7zXkg
+type: research
+topic: digital-assets
 ---
 
 ## The blockchain oracle problem

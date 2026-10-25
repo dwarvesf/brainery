@@ -12,6 +12,8 @@ tags:
   - operation
   - project
 redirect: []
+type: playbook
+topic: company
 ---
 
 The case study should focus on what the audience want to read

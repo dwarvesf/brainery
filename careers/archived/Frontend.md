@@ -10,6 +10,8 @@ tags:
   - career
   - frontend
 redirect: []
+type: company
+topic: company
 ---
 
 WE ARE LOOKING FOR A FRONTEND ENGINEER TO JOIN OUR TEAM IN SAIGON. Join a team of developers and designers dedicated to creating products people love to use

@@ -10,6 +10,9 @@ tags:
   - remote
 redirect:
   - /QAfBxQ
+type: playbook
+topic: company
+fit: 2
 ---
 
 _Snapshot from 2016. Some tools and numbers have changed._

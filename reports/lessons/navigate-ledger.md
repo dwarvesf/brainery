@@ -45,6 +45,9 @@ redirect:
   - /arc-on-agent
   - /Bg60FM
   - /arc/on-agent
+type: report
+form: field
+topic: engineering-practice
 ---
 
 On 13 and 14 June 2025 I wrote ten technology theses with our five-step method: agentic AI, LLM, platform ops, spatial computing, zero-knowledge proofs, DeFi, DeFAI, stablecoins, algorithmic stablecoins and Bitcoin. Each thesis ended with six experiments, so we planned 60. It is now 18 October 2026, and this week I counted what exists.

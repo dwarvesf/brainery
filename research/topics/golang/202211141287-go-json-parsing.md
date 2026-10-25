@@ -15,6 +15,9 @@ tags:
   - json
 redirect:
   - /m5xVQw
+type: research
+topic: languages
+fit: 2
 ---
 
 ### Go JSON parser: number <-> interface

@@ -11,6 +11,10 @@ tags:
 redirect:
   - /bPA4Jg
 slug: prompt-db
+type: report
+form: field
+topic: applied-llm
+fit: 2
 ---
 
 1/ prompt database

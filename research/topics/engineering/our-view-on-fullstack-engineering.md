@@ -10,6 +10,9 @@ tags:
   - engineering
 redirect:
   - /8oGw9A
+type: research
+topic: engineering-practice
+fit: 2
 ---
 
 In tackling challenges in the world of software development, the term "full-stack engineer" often evokes a sense of wonder. I'm reminded of my school days when our chemistry teacher explained the fundamental principles behind chemical reactions. Just as every chemical reaction is governed by the behavior of atoms, there's an underlying principle in software development that defines full-stack engineering.

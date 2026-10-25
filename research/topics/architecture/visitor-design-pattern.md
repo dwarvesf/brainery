@@ -10,6 +10,8 @@ tags:
   - gang-of-four
 redirect:
   - /7XpmUw
+type: research
+topic: architecture
 ---
 
 ![](assets/visitor-design-pattern.pdf)

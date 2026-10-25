@@ -10,6 +10,9 @@ tags:
   - ai
   - agent
   - consulting
+type: program
+topic: company
+landing: true
 ---
 
 ## About the program

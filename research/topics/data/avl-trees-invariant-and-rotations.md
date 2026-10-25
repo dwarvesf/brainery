@@ -11,6 +11,8 @@ announce: false
 series: self-balancing-trees
 series_part: 3
 series_total: 3
+type: research
+topic: data
 ---
 
 The AVL tree was the first self-balancing binary search tree. This part states its rule (the two subtrees of every node differ in height by at most one), proves that the rule bounds the height at O(log n), and shows how insertions and deletions restore the rule with rotations. Part 2 explains why balance matters in the first place.

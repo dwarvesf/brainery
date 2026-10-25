@@ -8,6 +8,8 @@ authors:
   - tranthiaivi266
 tags:
   - career
+type: company
+topic: company
 ---
 
 ## We're looking for a Technical recruiter to join Dwarves and work remotely

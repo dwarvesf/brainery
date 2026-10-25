@@ -13,6 +13,9 @@ tags:
   - co-build
 redirect:
   - /baNtUQ
+type: playbook
+topic: markets-strategy
+landing: true
 ---
 
 **Building tomorrow's tech with today's innovation.**

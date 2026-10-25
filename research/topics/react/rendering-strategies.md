@@ -10,6 +10,9 @@ tags:
   - react
 redirect:
   - /LuLFOA
+type: research
+topic: product-engineering
+fit: 2
 ---
 
 Client-side rendering (CSR), server-side rendering (SSR), and static-site generation (SSG) are three key rendering strategies in modern web development. Each approach has unique advantages and trade-offs, impacting application performance, SEO, and user experience.

@@ -11,6 +11,8 @@ tags:
   - llm
 redirect:
   - /2DubVg
+type: research
+topic: applied-llm
 ---
 
 ## Introduction

@@ -4,6 +4,8 @@ title: XML and JSON (research note)
 description: Markup language, to store and process data into computer readable-format.
 date: 2026-10-18
 tag: data
+type: research
+topic: data
 ---
 
 ### XML

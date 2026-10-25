@@ -8,6 +8,9 @@ redirect:
   - /TeJtTw
 authors:
   - neko-anon
+type: research
+topic: product-engineering
+fit: 2
 ---
 
 The so-called "three clicks rule," which stipulated that all information on a website should be accessible within three clicks, is a myth. This "best practice" originated in Jerry Zeldman's 2001 book _Taking Your Talent to the Web_. Researchers going as far back as 2003 have found that there's little correlation between the three clicks rule and conversion rate. Moreover, users don't necessarily perceive fewer clicks as being any easier to use.

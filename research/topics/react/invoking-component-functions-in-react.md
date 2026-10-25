@@ -11,6 +11,8 @@ tags:
   - hooks
   - react
 redirect: []
+type: research
+topic: product-engineering
 ---
 
 **What happens if you invoked the component function directly in React?:

@@ -8,6 +8,9 @@ tags:
   - consulting
 redirect:
   - /LuG8Kg
+type: playbook
+topic: markets-strategy
+fit: 2
 ---
 
 Once the contract is signed, our client onboarding process aligns client and developer teams into a cohesive unit, focused on a shared blueprint. This guide details how we build this foundation to deliver exceptional software. Like a craftsman listening before carving, onboarding ensures a clear process that aligns objectives, prevents misunderstandings, and fosters collaboration, creating a seamless partnership.

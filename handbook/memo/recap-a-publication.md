@@ -10,6 +10,8 @@ tags:
   - memo
 redirect:
   - /UShzfA
+type: company
+topic: company
 ---
 
 Recap a publication is the work of summarizing its key points, analyzing why it matters, and providing insights or opinions on its content.

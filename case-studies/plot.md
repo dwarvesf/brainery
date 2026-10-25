@@ -14,6 +14,11 @@ redirect:
   - /consulting/case-study/plot
   - /DJR3nU0
 slug: plot
+type: case-study
+topic: applied-llm
+secondary_topics:
+  - data
+fit: 3
 ---
 
 **Industry**

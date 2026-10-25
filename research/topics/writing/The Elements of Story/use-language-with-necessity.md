@@ -6,6 +6,8 @@ date: 2026-08-27
 redirect: []
 authors:
   - tieubao
+type: research
+topic: knowledge-work
 ---
 
 Writing demands a certain economy. Extraneous words, flowery phrases, unnecessary details are clutter. Each one comes at a cost to the reader; too many dilutes the value of the text, adding noise instead of signal. Choose only words that will have impact, and include only details that support the theme.

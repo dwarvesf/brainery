@@ -10,6 +10,8 @@ tags:
   - information-retrieval
   - llm
 redirect: []
+type: research
+topic: applied-llm
 ---
 
 ## What is it?

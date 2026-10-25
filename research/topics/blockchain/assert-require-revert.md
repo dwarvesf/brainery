@@ -7,6 +7,8 @@ redirect:
   - /EomPiQ
 authors:
   - neko-anon
+type: research
+topic: digital-assets
 ---
 
 #### Enforce invariants with `assert()`

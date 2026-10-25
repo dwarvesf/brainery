@@ -6,6 +6,9 @@ redirect:
   - /ovB8uw
 authors:
   - neko-anon
+type: playbook
+topic: product-engineering
+landing: true
 ---
 
 Dwarves Design is a young and small design studio, founded in 2018.

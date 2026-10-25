@@ -14,6 +14,13 @@ tags:
   - report
 redirect: []
 slug: event-takeaways-1st
+type: report
+form: market
+topic: digital-assets
+secondary_topics:
+  - markets-strategy
+series: forward
+fit: 2
 ---
 
 Hey everyone. I went to 2 cool events in Vietnam recently and I’ve got some fun thoughts to share. Tired of boring tech talk? I’ll tell you what I saw and what got me excited or curious. No big words, just my real take. Let me know what you think.

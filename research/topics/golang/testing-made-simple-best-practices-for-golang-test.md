@@ -9,6 +9,11 @@ redirect:
   - /zDQXJg
 authors:
   - datphamcode295
+type: research
+topic: production-readiness
+secondary_topics:
+  - languages
+fit: 2
 ---
 
 This article focuses on the best practices for testing in Golang. By following these recommended approaches, you can ensure the effectiveness and efficiency of your testing efforts. We will explore various aspects such as writing effective test cases, organizing tests and using test doubles. Implementing these best practices will help you write reliable, maintainable, and high-quality tests for your Golang projects.

@@ -14,6 +14,11 @@ redirect:
   - /consulting/case-study/kafi-securities
   - /XTD5rfc
 slug: kafi-securities
+type: case-study
+topic: financial-systems
+secondary_topics:
+  - architecture
+fit: 3
 ---
 
 **Industry**

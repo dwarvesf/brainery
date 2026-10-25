@@ -10,6 +10,9 @@ tags:
   - purpose
 redirect:
   - /JFPfeg
+type: company
+topic: company
+fit: 2
 ---
 
 ## Empower innovation with software craftsmanship

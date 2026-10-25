@@ -67,6 +67,9 @@ redirect:
   - /Agto4A
   - /careers/internship
   - /mtXKmg
+type: company
+topic: company
+landing: true
 ---
 
 We're forging a band of craftspeople to shape the future: one well-crafted line of code, design, or idea at a time. Think of it like building a sturdy longhouse; it starts with skilled hands, a clear purpose, and a team that thrives together. If you're ready to wield your talents and join our woodland crew, here's what you need to know.

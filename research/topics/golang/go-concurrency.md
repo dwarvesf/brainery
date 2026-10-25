@@ -10,6 +10,8 @@ tags:
   - golang
 redirect:
   - /AcvvEg
+type: research
+topic: languages
 ---
 
 ## Golang concurrency

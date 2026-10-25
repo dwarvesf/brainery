@@ -13,6 +13,9 @@ tags:
   - sargable-queries
 redirect:
   - /ll5yWg
+type: research
+topic: data
+fit: 2
 ---
 
 "Sargable" is derived from "Search ARGument ABLE," signifying that a query can successfully utilize indexes for efficient execution. It is a term that was initially introduced in a 1979 research paper titled "Access Path Selection in a Relational Database Management System" authored by P. Griffiths Selinger et al. (DBA.StackExchange.com). The fundamental idea behind sargable queries is geared towards forming SQL statements that allow the query execution engine to make the best use of indexes whenever available.

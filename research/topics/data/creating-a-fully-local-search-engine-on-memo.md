@@ -12,6 +12,9 @@ tags:
   - transformersjs
 redirect:
   - /3zocGA
+type: research
+topic: data
+fit: 2
 ---
 
 ![command-palette](assets/creating-a-fully-local-search-engine-on-memo-search.webp)

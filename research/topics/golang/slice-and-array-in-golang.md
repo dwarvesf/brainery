@@ -10,6 +10,8 @@ tags:
   - golang
 redirect:
   - /lvuZWQ
+type: research
+topic: languages
 ---
 
 ### Array

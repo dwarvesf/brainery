@@ -9,6 +9,8 @@ tags:
   - automata
 redirect:
   - /jYvaag
+type: research
+topic: architecture
 ---
 
 ### What are Finite State Automata and why should a programmer know about them?

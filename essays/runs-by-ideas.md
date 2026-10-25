@@ -10,6 +10,8 @@ tags:
   - productivity
 redirect: []
 slug: runs-by-ideas
+type: company
+topic: company
 ---
 
 ## Minimal human intervention

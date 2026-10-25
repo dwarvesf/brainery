@@ -3,6 +3,8 @@ draft: true
 title: unstoppable-code (research note)
 description: "This is the website of DeFi100, a \"decentralized finance\" system running on the Binance Smart Chain, after the promoters pulled a $32M exit scam. Their message sums up."
 date: 2026-10-18
+type: research
+topic: digital-assets
 ---
 
 ### Unstoppable code

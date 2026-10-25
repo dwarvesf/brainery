@@ -6,6 +6,8 @@ date: 2026-08-27
 URL: "https://drive.google.com/file/d/1n8ID_iXqzs6cMZlRS0Su7lQUhrfd7khh/view?usp=sharing,https://practicaltyping.com/feeling-functions-fe-fi/"
 tag: function, mbti
 redirect: []
+type: research
+topic: engineering-practice
 ---
 
 Book: My True Type, page 109 - 114

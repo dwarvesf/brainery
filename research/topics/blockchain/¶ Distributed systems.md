@@ -12,6 +12,8 @@ tags:
   - foundational-topics
 redirect:
   - /Lud4qA
+type: research
+topic: digital-assets
 ---
 
 ![](assets/blockchain-bridge_blockruption-blockchain-300h.webp)

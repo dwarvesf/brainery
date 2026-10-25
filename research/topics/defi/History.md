@@ -7,6 +7,8 @@ redirect: []
 authors: []
 credit: Finematics
 credit_url: "https://finematics.com/history-of-defi-explained/"
+type: research
+topic: digital-assets
 ---
 
 ### Bitcoin

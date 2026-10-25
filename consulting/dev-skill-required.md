@@ -10,6 +10,8 @@ tags:
   - client
 redirect:
   - /JouGaA
+type: playbook
+topic: markets-strategy
 ---
 
 Working well with clients is key. It's about building trust and understanding their needs, not just delivering code. This document covers the essential skills and behaviors you'll need when working with clients, the fundamental tools for successful partnerships.

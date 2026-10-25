@@ -12,6 +12,8 @@ tags:
   - websocket
 redirect:
   - /gbOqgQ
+type: research
+topic: product-engineering
 ---
 
 ## What are WebSockets

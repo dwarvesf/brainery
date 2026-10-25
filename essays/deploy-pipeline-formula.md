@@ -11,6 +11,11 @@ tags:
   - devops
   - cloudflare
 redirect: []
+type: report
+form: field
+topic: platform-ops
+series: memo-platform
+fit: 3
 ---
 
 The site you're reading publishes itself on every push. A merged post kicks off CI, which compiles about 2,000 markdown files, builds 3,080 static pages, and deploys three Cloudflare surfaces: a static Worker, an API Worker, and a D1 search index. That step showed 1m50s under a green checkmark. We spent a morning reading its raw log line by line. The step now runs in 78 seconds, and the time was the least valuable thing we found.

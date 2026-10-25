@@ -13,6 +13,8 @@ tags:
   - golang
   - go-weekly
 redirect: []
+type: research
+topic: languages
 ---
 
 Weekly commentary on what the Go community published in 2024. Each issue summarizes a few articles and records the takeaways. Issues #1 and #2 ran as Go weekly; every issue after that ran as Go commentary. This page holds all 24, newest first.

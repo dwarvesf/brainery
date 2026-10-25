@@ -11,6 +11,10 @@ tags:
   - evm
   - polygon
   - zk-rollup
+type: research
+topic: digital-assets
+secondary_topics:
+  - architecture
 ---
 
 ## Polygon zkEVM architecture

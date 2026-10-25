@@ -10,6 +10,9 @@ tags:
   - team
 redirect:
   - /mVh0Lw
+type: writing
+form: essay
+topic: markets-strategy
 ---
 
 During our study about innovation, we find the topic of adjacent possible. Innovation happens but not many people can point out clearly. Getting to know the foundation of innovation helps understanding its natures and could lead to further exploration. Enjoy your reading.

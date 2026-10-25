@@ -18,6 +18,8 @@ tags:
   - performance
   - virtual-dom
 redirect: []
+type: research
+topic: product-engineering
 ---
 
 React builds a tree of elements from your components, compares it with the previous tree, and applies the difference to the DOM. State lives in React, not in the component, and React attaches it to a spot in that tree. Most surprises with rendering, hooks and effects follow from these two facts. This page covers how React finds and applies changes, how it decides which state belongs to which component, what goes wrong when you call a component as a plain function, and why effects run twice in development.

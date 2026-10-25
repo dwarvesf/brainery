@@ -14,6 +14,9 @@ tags:
   - prototyping
   - build-club
 slug: 2026-10-12-lobshot-prototype-feedback
+type: research
+topic: engineering-practice
+series: forward
 ---
 
 ## The finding

@@ -9,6 +9,9 @@ tags:
   - engineering
 redirect:
   - /690X6g
+type: research
+topic: engineering-practice
+fit: 2
 ---
 
 This post ain't gonna be a speech of Uncle Bob's Software Craftsmanship Manifesto. We've all known that. And to people who don't, for God's sake. Google.

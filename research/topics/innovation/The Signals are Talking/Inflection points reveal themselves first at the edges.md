@@ -7,6 +7,9 @@ tags:
   - innovation
   - strategy
 redirect: []
+type: research
+topic: markets-strategy
+series: book-the-signals-are-talking
 ---
 
 Because strategic inflection points transform the fundamental assumptions under which a business operates, it can be difficult for organizations to fathom the new possibilities that they create. The signs of an inflection point begin on the fringes; only those who are directly in contact with the signs will be able to identify them. It’s important to have an apparatus for identifying them early.

@@ -13,6 +13,11 @@ redirect:
   - /consulting/case-study/neutronpay
   - /Z4WUPDs
 slug: neutronpay
+type: case-study
+topic: financial-systems
+secondary_topics:
+  - digital-assets
+fit: 3
 ---
 
 **Industry**

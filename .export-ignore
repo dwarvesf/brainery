@@ -20,3 +20,5 @@ _base.md
 .DocumentRevisions-V100
 .Spotlight-V100
 .Trash*
+# a git hook readme, not a note
+research/PRE_COMMIT_HOOK_README.md

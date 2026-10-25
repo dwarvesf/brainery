@@ -12,6 +12,9 @@ tags:
   - disruption
   - startup
   - competition
+type: research
+topic: markets-strategy
+fit: 2
 ---
 
 **The most effective way to disrupt established players is to attack their most profitable business practices.** Counter-positioning isn't about competing head-to-head, it's about creating a business model that forces incumbents to choose between copying you and protecting their existing revenue streams. When done right, they can't do both.

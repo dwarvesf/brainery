@@ -6,6 +6,8 @@ redirect:
   - /Xrs4ag
 authors:
   - neko-anon
+type: playbook
+topic: digital-assets
 ---
 
 - [N commandments](#n-commandments)

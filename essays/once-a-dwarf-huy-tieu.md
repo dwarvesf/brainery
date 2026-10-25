@@ -16,6 +16,9 @@ tags:
   - techiestory
   - career
   - product-management
+type: writing
+form: essay
+topic: knowledge-work
 ---
 
 _First published on TechieStory, 18 May 2021: [archived copy](https://web.archive.org/web/20211202071307/https://techiestory.net/en/post/23-huy-tieu). TechieStory also ran it in Vietnamese: [archived copy](https://web.archive.org/web/20230128001105/https://techiestory.net/vi/post/23-huy-tieu). Huy was a Product Manager at the World Mosquito Program then, and roles and plans are as of that date._

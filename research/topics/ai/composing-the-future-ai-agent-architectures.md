@@ -24,6 +24,12 @@ toc: true
 series: ai-agent-frameworks
 series_part: 1
 series_total: 5
+type: writing
+form: analysis
+topic: ai-agents
+secondary_topics:
+  - architecture
+fit: 3
 ---
 
 ## So you want to build real AI agents, huh?

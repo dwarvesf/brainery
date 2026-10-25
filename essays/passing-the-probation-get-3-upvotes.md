@@ -11,6 +11,8 @@ redirect:
   - /culture/passing-the-probation-get-3-upvotes
   - /ofUqCw
 slug: passing-the-probation-get-3-upvotes
+type: company
+topic: company
 ---
 
 ## The talent pool

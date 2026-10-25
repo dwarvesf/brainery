@@ -10,6 +10,10 @@ tags:
   - llm
   - tool
 redirect: []
+type: research
+topic: applied-llm
+secondary_topics:
+  - platform-ops
 ---
 
 ## When

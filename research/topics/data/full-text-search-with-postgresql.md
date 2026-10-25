@@ -8,6 +8,8 @@ redirect:
   - /7UoOww
 authors:
   - nnhuyhoang
+type: research
+topic: data
 ---
 
 ## What is Full-text search?

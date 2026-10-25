@@ -5,6 +5,8 @@ description: "Learn how to create deep, multidimensional characters by exploring
 date: 2026-08-27
 authors:
   - tieubao
+type: research
+topic: knowledge-work
 ---
 
 In _Mastering the Process: From Idea to Novel_ Elizabeth George suggests that two ingredients that help understand characters are their **core need** and their **psychopathology** or psychological maneuver.
