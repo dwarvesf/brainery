@@ -34,9 +34,7 @@ Here is the classic loop on one question. An ops person asks: "Of my Cloudflare 
 
 What the model reads over the whole task is roughly @eq-loop-cost: every request carries the menu again, plus everything returned so far.
 
-$$
-I_{\text{classic}} = \sum_{r=1}^{R} \Big( M + \sum_{k<r} D_k \Big)
-$$ {#eq-loop-cost}
+$$ I_{\text{classic}} = \sum_{r=1}^{R} \Big( M + \sum_{k<r} D_k \Big) $$ {#eq-loop-cost}
 
 where:
 
@@ -49,11 +47,7 @@ Both terms grow with the job. The data grows with the account: in our bench [20]
 
 Code mode, which @sec-what-code-mode-is-two-loops explains, changes the sum to @eq-code-cost: the menu shrinks to one tool and the data never comes back.
 
-$$
-
-I_{\text{code}} \approx R \cdot (M_1 + V)
-
-$$ {#eq-code-cost}
+$$ I_{\text{code}} \approx R \cdot (M_1 + V) $$ {#eq-code-cost}
 
 where:
 
@@ -610,4 +604,3 @@ Means over 3 runs per cell. Anthropic's PTC overhead figure in @sec-when-it-pays
 42. **The MCP project**: client best practices, spec 2026-07-28. [Client best practices](https://modelcontextprotocol.io/docs/2026-07-28/develop/clients/client-best-practices).
 43. **OpenAI**: the programmatic tool calling guide. [Programmatic tool calling](https://developers.openai.com/api/docs/guides/tools-programmatic-tool-calling).
 44. **Rizel Scarlett**: Staff Developer Advocate at goose, now under the Agentic AI Foundation, 2026-02-06. [8 things you didn't know about Code Mode](https://goose-docs.ai/blog/2026/02/06/8-things-you-didnt-know-about-code-mode/).
-$$
