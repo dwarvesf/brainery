@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 350" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" style="width:100%;height:auto;max-width:760px;display:block" role="img">
+<title>Code that fails type-check returns as text and never runs</title>
+<desc>A four-stage pipeline: repair, type-check, transpile with source map, QuickJS. From type-check a branch goes down on errors to an amber text box reading Type errors; code was not executed, with zero side effects. Type mismatches such as 2339, 2322 and 2345 are filtered out by default.</desc>
+<defs>
+<pattern id="g3" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05"/></pattern>
+<marker id="a" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L8 4L0 8z" fill="#c3d7ea"/></marker>
+<marker id="am" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L8 4L0 8z" fill="#e8c56a"/></marker>
+<marker id="ad" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L8 4L0 8z" fill="#6f8fb0"/></marker>
+</defs>
+<rect width="760" height="350" fill="#12395f"/>
+<rect width="760" height="350" fill="url(#g3)"/>
+<rect x="0.5" y="0.5" width="759" height="349" fill="none" stroke="#68839d"/>
+<text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. A1 · THE TYPE GATE</text>
+<text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">STEP 2 · TYPE-CHECKER.TS:114</text>
+<line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+<rect x="24" y="64" width="112" height="66" fill="#21466a" stroke="#68839d"/><text x="80.0" y="94" font-size="10" fill="#e8f1fa" text-anchor="middle">repair</text><text x="80.0" y="114" font-size="9" fill="#c3d7ea" text-anchor="middle">paths · quotes</text>
+<rect x="188" y="64" width="150" height="66" fill="#21466a" stroke="#68839d"/><text x="263.0" y="94" font-size="10" fill="#e8f1fa" text-anchor="middle">type-check</text><text x="263.0" y="114" font-size="9" fill="#c3d7ea" text-anchor="middle">strict: false</text>
+<rect x="390" y="64" width="170" height="66" fill="#21466a" stroke="#68839d"/><text x="475.0" y="94" font-size="10" fill="#e8f1fa" text-anchor="middle">transpile</text><text x="475.0" y="114" font-size="9" fill="#c3d7ea" text-anchor="middle">+ source map</text>
+<rect x="612" y="64" width="112" height="66" fill="#21466a" stroke="#68839d"/><text x="668.0" y="94" font-size="10" fill="#e8f1fa" text-anchor="middle">QuickJS</text><text x="668.0" y="114" font-size="9" fill="#c3d7ea" text-anchor="middle">runs</text>
+<line x1="136" y1="97" x2="186" y2="97" stroke="#c3d7ea" stroke-width="1.2" marker-end="url(#a)"/>
+<line x1="338" y1="97" x2="388" y2="97" stroke="#c3d7ea" stroke-width="1.2" marker-end="url(#a)"/>
+<line x1="560" y1="97" x2="610" y2="97" stroke="#c3d7ea" stroke-width="1.2" marker-end="url(#a)"/>
+<line x1="263" y1="130" x2="263" y2="188" stroke="#c3d7ea" stroke-width="1.2" marker-end="url(#a)"/><text x="275" y="164" font-size="9" fill="#c3d7ea" text-anchor="start">errors</text>
+<rect x="96" y="190" width="360" height="62" fill="#21466a" stroke="#e8c56a"/>
+<text x="114" y="216" font-size="9.5" fill="#e8c56a" text-anchor="start">Type errors; code was not executed:</text><text x="114" y="238" font-size="9.5" fill="#e8c56a" text-anchor="start">Line 3:14 - Cannot find name 'pi_read'.</text>
+<text x="476" y="226" font-size="9.5" fill="#a7c0d9" text-anchor="start">0 side effects</text>
+<text x="24" y="288" font-size="9" fill="#6f8fb0" text-anchor="start">filtered out by default: 2339 property-missing,</text><text x="24" y="306" font-size="9" fill="#6f8fb0" text-anchor="start">2322/2345 assignability, null checks · type-checker.ts:35-40</text>
+</svg>

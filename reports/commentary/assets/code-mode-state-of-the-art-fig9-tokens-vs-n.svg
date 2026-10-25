@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 430" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" style="width:100%;height:auto;max-width:760px;display:block" role="img">
+<title>Input tokens against zone count for four modes, log scale</title>
+<desc>Line chart on a log y axis from 5k to 250k input tokens, with N of 10, 30 and 100 zones. Native rises from 101,545 to 233,719. Tool-search rises from 26,212 to 159,424. Ptc is flat near 10.4k and diy code mode flat near 6.7k.</desc>
+<defs>
+<pattern id="g10" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05"/></pattern>
+<marker id="a" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L8 4L0 8z" fill="#c3d7ea"/></marker>
+<marker id="am" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L8 4L0 8z" fill="#e8c56a"/></marker>
+<marker id="ad" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L8 4L0 8z" fill="#6f8fb0"/></marker>
+</defs>
+<rect width="760" height="430" fill="#12395f"/>
+<rect width="760" height="430" fill="url(#g10)"/>
+<rect x="0.5" y="0.5" width="759" height="429" fill="none" stroke="#68839d"/>
+<text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 9 · INPUT TOKENS AGAINST ZONE COUNT</text>
+<text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">LOG SCALE · MEAN OF 3</text>
+<line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+<text x="96" y="62" font-size="9" fill="#6f8fb0" text-anchor="start">input tokens</text>
+<line x1="96" y1="76.0" x2="610" y2="76.0" stroke="#385a7b" stroke-opacity="0.6"/>
+<text x="88" y="80.0" font-size="9" fill="#a7c0d9" text-anchor="end">250k</text>
+<line x1="96" y1="136.9" x2="610" y2="136.9" stroke="#385a7b" stroke-opacity="0.6"/>
+<text x="88" y="140.9" font-size="9" fill="#a7c0d9" text-anchor="end">100k</text>
+<line x1="96" y1="183.0" x2="610" y2="183.0" stroke="#385a7b" stroke-opacity="0.6"/>
+<text x="88" y="187.0" font-size="9" fill="#a7c0d9" text-anchor="end">50k</text>
+<line x1="96" y1="289.9" x2="610" y2="289.9" stroke="#385a7b" stroke-opacity="0.6"/>
+<text x="88" y="293.9" font-size="9" fill="#a7c0d9" text-anchor="end">10k</text>
+<line x1="96" y1="336.0" x2="610" y2="336.0" stroke="#385a7b" stroke-opacity="0.6"/>
+<text x="88" y="340.0" font-size="9" fill="#a7c0d9" text-anchor="end">5k</text>
+<rect x="96" y="76" width="514" height="260" fill="none" stroke="#68839d"/>
+<text x="180" y="358" font-size="9" fill="#a7c0d9" text-anchor="middle">10</text>
+<text x="370" y="358" font-size="9" fill="#a7c0d9" text-anchor="middle">30</text>
+<text x="560" y="358" font-size="9" fill="#a7c0d9" text-anchor="middle">100</text>
+<text x="353" y="380" font-size="9" fill="#6f8fb0" text-anchor="middle">zones (N)</text>
+<polyline points="180,135.9 370,118.8 560,80.5" fill="none" stroke="#e8f1fa" stroke-width="2.4" stroke-linejoin="round"/>
+<circle cx="180" cy="135.9" r="3.5" fill="#e8f1fa"/>
+<circle cx="370" cy="118.8" r="3.5" fill="#e8f1fa"/>
+<circle cx="560" cy="80.5" r="3.5" fill="#e8f1fa"/>
+<text x="624" y="84.5" font-size="9.5" fill="#e8f1fa" text-anchor="start">native</text>
+<polyline points="180,225.9 370,175.0 560,105.9" fill="none" stroke="#a7c0d9" stroke-width="2.4" stroke-linejoin="round"/>
+<circle cx="180" cy="225.9" r="3.5" fill="#a7c0d9"/>
+<circle cx="370" cy="175.0" r="3.5" fill="#a7c0d9"/>
+<circle cx="560" cy="105.9" r="3.5" fill="#a7c0d9"/>
+<text x="624" y="109.9" font-size="9.5" fill="#a7c0d9" text-anchor="start">tool-search</text>
+<polyline points="180,287.9 370,287.1 560,286.5" fill="none" stroke="#68839d" stroke-width="2.4" stroke-linejoin="round"/>
+<circle cx="180" cy="287.9" r="3.5" fill="#68839d"/>
+<circle cx="370" cy="287.1" r="3.5" fill="#68839d"/>
+<circle cx="560" cy="286.5" r="3.5" fill="#68839d"/>
+<text x="624" y="290.5" font-size="9.5" fill="#68839d" text-anchor="start">ptc</text>
+<polyline points="180,316.2 370,316.3 560,316.3" fill="none" stroke="#e8c56a" stroke-width="2.4" stroke-linejoin="round"/>
+<circle cx="180" cy="316.2" r="3.5" fill="#e8c56a"/>
+<circle cx="370" cy="316.3" r="3.5" fill="#e8c56a"/>
+<circle cx="560" cy="316.3" r="3.5" fill="#e8c56a"/>
+<text x="624" y="320.3" font-size="9.5" fill="#e8c56a" text-anchor="start">diy code mode</text>
+<text x="380" y="412" font-size="9" fill="#6f8fb0" text-anchor="middle">claude-sonnet-5-5 · 100 distractor tools · mean of 3 runs · ptc excludes container time</text>
+</svg>

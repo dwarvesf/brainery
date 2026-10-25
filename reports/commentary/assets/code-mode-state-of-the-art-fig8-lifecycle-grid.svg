@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 420" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" style="width:100%;height:auto;max-width:760px;display:block" role="img">
+<title>Where the code runs and how a call crosses back, for eight implementations in three families</title>
+<desc>A grid of eight columns with two rows. Row 3 shows where the code runs: QuickJS local for pi-fabric, V8 isolates on Cloudflare for the SDK and MCP server, no code for Anthropic tool search, a container at Anthropic, V8 at OpenAI, an AST interpreter or remote sandbox for smolagents, Jupyter in Docker for CodeAct. Row 4 shows how a call crosses back: pi-fabric uses a JSON bridge, drawn in amber; Cloudflare uses Workers RPC or fetch with injected auth; the two hosted runtimes pause and resume the API request; the last three have no crossing. Three families are bracketed.</desc>
+<defs>
+<pattern id="g14" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05"/></pattern>
+<marker id="a" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L8 4L0 8z" fill="#c3d7ea"/></marker>
+<marker id="am" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L8 4L0 8z" fill="#e8c56a"/></marker>
+<marker id="ad" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L8 4L0 8z" fill="#6f8fb0"/></marker>
+</defs>
+<rect width="760" height="420" fill="#12395f"/>
+<rect width="760" height="420" fill="url(#g14)"/>
+<rect x="0.5" y="0.5" width="759" height="419" fill="none" stroke="#68839d"/>
+<text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 8 · THE SAME SIX STEPS, EIGHT IMPLEMENTATIONS</text>
+<text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">STEPS 3 AND 4 ONLY</text>
+<line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+<text x="147.0" y="62" font-size="9" fill="#a7c0d9" text-anchor="middle">pi-fabric</text>
+<text x="225.0" y="62" font-size="9" fill="#a7c0d9" text-anchor="middle">CF SDK</text>
+<text x="303.0" y="62" font-size="9" fill="#a7c0d9" text-anchor="middle">CF MCP</text>
+<text x="381.0" y="62" font-size="9" fill="#a7c0d9" text-anchor="middle">Anthropic</text>
+<text x="381.0" y="76" font-size="9" fill="#a7c0d9" text-anchor="middle">tool search</text>
+<text x="459.0" y="62" font-size="9" fill="#a7c0d9" text-anchor="middle">Anthropic</text>
+<text x="459.0" y="76" font-size="9" fill="#a7c0d9" text-anchor="middle">PTC</text>
+<text x="537.0" y="62" font-size="9" fill="#a7c0d9" text-anchor="middle">OpenAI</text>
+<text x="537.0" y="76" font-size="9" fill="#a7c0d9" text-anchor="middle">PTC</text>
+<text x="615.0" y="62" font-size="9" fill="#a7c0d9" text-anchor="middle">smolagents</text>
+<text x="693.0" y="62" font-size="9" fill="#a7c0d9" text-anchor="middle">CodeAct</text>
+<text x="14" y="124" font-size="9" fill="#c3d7ea" text-anchor="start">3 · where the</text><text x="14" y="140" font-size="9" fill="#c3d7ea" text-anchor="start">code runs</text>
+<rect x="112" y="96" width="70" height="56" fill="#21466a" stroke="#68839d"/>
+<text x="147.0" y="120" font-size="9" fill="#e8f1fa" text-anchor="middle">QuickJS</text>
+<text x="147.0" y="136" font-size="9" fill="#c3d7ea" text-anchor="middle">local</text>
+<rect x="190" y="96" width="70" height="56" fill="#21466a" stroke="#68839d"/>
+<text x="225.0" y="112" font-size="9" fill="#e8f1fa" text-anchor="middle">V8</text>
+<text x="225.0" y="127" font-size="9" fill="#c3d7ea" text-anchor="middle">isolate</text>
+<text x="225.0" y="142" font-size="9" fill="#c3d7ea" text-anchor="middle">CF</text>
+<rect x="268" y="96" width="70" height="56" fill="#21466a" stroke="#68839d"/>
+<text x="303.0" y="112" font-size="9" fill="#e8f1fa" text-anchor="middle">V8</text>
+<text x="303.0" y="127" font-size="9" fill="#c3d7ea" text-anchor="middle">isolate</text>
+<text x="303.0" y="142" font-size="9" fill="#c3d7ea" text-anchor="middle">CF</text>
+<rect x="346" y="96" width="70" height="56" fill="none" stroke="#68839d" style="stroke-dasharray:4 3"/><text x="381.0" y="128" font-size="9" fill="#6f8fb0" text-anchor="middle">no code</text>
+<rect x="424" y="96" width="70" height="56" fill="#21466a" stroke="#68839d"/>
+<text x="459.0" y="120" font-size="9" fill="#e8f1fa" text-anchor="middle">container</text>
+<text x="459.0" y="136" font-size="9" fill="#c3d7ea" text-anchor="middle">Anthropic</text>
+<rect x="502" y="96" width="70" height="56" fill="#21466a" stroke="#68839d"/>
+<text x="537.0" y="120" font-size="9" fill="#e8f1fa" text-anchor="middle">V8</text>
+<text x="537.0" y="136" font-size="9" fill="#c3d7ea" text-anchor="middle">OpenAI</text>
+<rect x="580" y="96" width="70" height="56" fill="#21466a" stroke="#68839d"/>
+<text x="615.0" y="120" font-size="9" fill="#e8f1fa" text-anchor="middle">AST or</text>
+<text x="615.0" y="136" font-size="9" fill="#c3d7ea" text-anchor="middle">remote</text>
+<rect x="658" y="96" width="70" height="56" fill="#21466a" stroke="#68839d"/>
+<text x="693.0" y="120" font-size="9" fill="#e8f1fa" text-anchor="middle">Jupyter</text>
+<text x="693.0" y="136" font-size="9" fill="#c3d7ea" text-anchor="middle">Docker</text>
+<line x1="108" y1="172" x2="732" y2="172" stroke="#385a7b" stroke-width="1"/><text x="14" y="176" font-size="9" fill="#6f8fb0" text-anchor="start">your host</text>
+<line x1="108" y1="188" x2="732" y2="188" stroke="#385a7b" stroke-width="1"/><text x="14" y="192" font-size="9" fill="#6f8fb0" text-anchor="start">provider</text>
+<line x1="147.0" y1="152" x2="147.0" y2="172" stroke="#6f8fb0" stroke-width="1"/><circle cx="147.0" cy="172" r="2.5" fill="#c3d7ea"/>
+<line x1="225.0" y1="152" x2="225.0" y2="188" stroke="#6f8fb0" stroke-width="1"/><circle cx="225.0" cy="188" r="2.5" fill="#c3d7ea"/>
+<line x1="303.0" y1="152" x2="303.0" y2="188" stroke="#6f8fb0" stroke-width="1"/><circle cx="303.0" cy="188" r="2.5" fill="#c3d7ea"/>
+<line x1="459.0" y1="152" x2="459.0" y2="188" stroke="#6f8fb0" stroke-width="1"/><circle cx="459.0" cy="188" r="2.5" fill="#c3d7ea"/>
+<line x1="537.0" y1="152" x2="537.0" y2="188" stroke="#6f8fb0" stroke-width="1"/><circle cx="537.0" cy="188" r="2.5" fill="#c3d7ea"/>
+<line x1="615.0" y1="152" x2="615.0" y2="172" stroke="#6f8fb0" stroke-width="1"/><circle cx="615.0" cy="172" r="2.5" fill="#c3d7ea"/>
+<line x1="693.0" y1="152" x2="693.0" y2="172" stroke="#6f8fb0" stroke-width="1"/><circle cx="693.0" cy="172" r="2.5" fill="#c3d7ea"/>
+<text x="14" y="236" font-size="9" fill="#c3d7ea" text-anchor="start">4 · how a call</text><text x="14" y="252" font-size="9" fill="#c3d7ea" text-anchor="start">crosses back</text>
+<line x1="125.0" y1="232" x2="169.0" y2="232" stroke="#e8c56a" stroke-width="1.4" marker-start="url(#am)" marker-end="url(#am)"/>
+<text x="147.0" y="256" font-size="9" fill="#e8f1fa" text-anchor="middle">JSON</text>
+<text x="147.0" y="270" font-size="9" fill="#e8f1fa" text-anchor="middle">bridge</text>
+<line x1="203.0" y1="232" x2="247.0" y2="232" stroke="#c3d7ea" stroke-width="1.4" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="225.0" y="256" font-size="9" fill="#e8f1fa" text-anchor="middle">Workers</text>
+<text x="225.0" y="270" font-size="9" fill="#e8f1fa" text-anchor="middle">RPC</text>
+<line x1="281.0" y1="232" x2="325.0" y2="232" stroke="#c3d7ea" stroke-width="1.4" marker-start="url(#a)" marker-end="url(#a)"/>
+<text x="303.0" y="256" font-size="9" fill="#e8f1fa" text-anchor="middle">fetch +</text>
+<text x="303.0" y="270" font-size="9" fill="#e8f1fa" text-anchor="middle">injected</text>
+<text x="303.0" y="284" font-size="9" fill="#e8f1fa" text-anchor="middle">auth</text>
+<text x="381.0" y="236" font-size="9" fill="#6f8fb0" text-anchor="middle">(none)</text>
+<line x1="433.0" y1="232" x2="454.0" y2="232" stroke="#c3d7ea" stroke-width="1.2" marker-start="url(#a)"/>
+<line x1="464.0" y1="232" x2="485.0" y2="232" stroke="#c3d7ea" stroke-width="1.2" marker-end="url(#a)"/>
+<text x="459.0" y="256" font-size="9" fill="#e8f1fa" text-anchor="middle">API</text>
+<text x="459.0" y="270" font-size="9" fill="#e8f1fa" text-anchor="middle">pause/</text>
+<text x="459.0" y="284" font-size="9" fill="#e8f1fa" text-anchor="middle">resume</text>
+<line x1="511.0" y1="232" x2="532.0" y2="232" stroke="#c3d7ea" stroke-width="1.2" marker-start="url(#a)"/>
+<line x1="542.0" y1="232" x2="563.0" y2="232" stroke="#c3d7ea" stroke-width="1.2" marker-end="url(#a)"/>
+<text x="537.0" y="256" font-size="9" fill="#e8f1fa" text-anchor="middle">API</text>
+<text x="537.0" y="270" font-size="9" fill="#e8f1fa" text-anchor="middle">pause/</text>
+<text x="537.0" y="284" font-size="9" fill="#e8f1fa" text-anchor="middle">resume</text>
+<text x="615.0" y="236" font-size="9" fill="#6f8fb0" text-anchor="middle">in-process</text>
+<text x="615.0" y="250" font-size="9" fill="#6f8fb0" text-anchor="middle">/ none</text>
+<text x="693.0" y="236" font-size="9" fill="#6f8fb0" text-anchor="middle">none</text>
+<path d="M112 304V312H338V304" fill="none" stroke="#6f8fb0" stroke-width="1"/>
+<text x="225.0" y="332" font-size="9.5" fill="#a7c0d9" text-anchor="middle">local sandbox + host bridge</text>
+<path d="M424 304V312H572V304" fill="none" stroke="#6f8fb0" stroke-width="1"/>
+<text x="498.0" y="332" font-size="9.5" fill="#a7c0d9" text-anchor="middle">hosted runtime</text>
+<text x="498.0" y="348" font-size="9.5" fill="#a7c0d9" text-anchor="middle">+ pause/resume</text>
+<path d="M580 304V312H728V304" fill="none" stroke="#6f8fb0" stroke-width="1"/>
+<text x="654.0" y="332" font-size="9.5" fill="#a7c0d9" text-anchor="middle">no boundary</text>
+<text x="381.0" y="332" font-size="9" fill="#6f8fb0" text-anchor="middle">no code</text>
+<text x="380" y="380" font-size="9" fill="#6f8fb0" text-anchor="middle">read from source and docs on 2026-10-24 · cells not stated by the vendor</text><text x="380" y="396" font-size="9" fill="#6f8fb0" text-anchor="middle">are marked &quot;not documented&quot; in the table above</text>
+</svg>

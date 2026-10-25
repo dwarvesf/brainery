@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" style="width:100%;height:auto;max-width:760px;display:block" role="img">
+<title>A fresh QuickJS context with three limits, fixed globals and no way out</title>
+<desc>A QuickJS context box with three limit stamps on its top edge: 64 MiB, 256 KiB stack and 120 s with a 900 s maximum. Inside, the globals present and the globals absent. On the left wall a struck-through __fabricHostCall in amber, deleted after capture.</desc>
+<defs>
+<pattern id="g4" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05"/></pattern>
+<marker id="a" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L8 4L0 8z" fill="#c3d7ea"/></marker>
+<marker id="am" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L8 4L0 8z" fill="#e8c56a"/></marker>
+<marker id="ad" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L8 4L0 8z" fill="#6f8fb0"/></marker>
+</defs>
+<rect width="760" height="340" fill="#12395f"/>
+<rect width="760" height="340" fill="url(#g4)"/>
+<rect x="0.5" y="0.5" width="759" height="339" fill="none" stroke="#68839d"/>
+<text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. A2 · THE QUICKJS BOX</text>
+<text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">STEP 3 · QUICKJS-RUNTIME.TS:884</text>
+<line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+<rect x="196" y="88" width="540" height="180" fill="none" stroke="#68839d"/>
+<text x="262" y="66" font-size="9.5" fill="#a7c0d9" text-anchor="middle">64 MiB</text><line x1="262" y1="72" x2="262" y2="88" stroke="#6f8fb0" stroke-width="1"/>
+<text x="452" y="66" font-size="9.5" fill="#a7c0d9" text-anchor="middle">256 KiB stack</text><line x1="452" y1="72" x2="452" y2="88" stroke="#6f8fb0" stroke-width="1"/>
+<text x="628" y="66" font-size="9.5" fill="#a7c0d9" text-anchor="middle">120 s (max 900 s)</text><line x1="628" y1="72" x2="628" y2="88" stroke="#6f8fb0" stroke-width="1"/>
+<text x="216" y="114" font-size="9.5" fill="#a7c0d9" text-anchor="start">QuickJS context (fresh per call)</text>
+<text x="216" y="150" font-size="9" fill="#6f8fb0" text-anchor="start" letter-spacing="1.5">PRESENT</text><text x="216" y="170" font-size="9.5" fill="#e8f1fa" text-anchor="start">pi · tools · mcp · extensions · memory</text><text x="216" y="190" font-size="9.5" fill="#e8f1fa" text-anchor="start">state · compact · agents · mesh · print · π</text>
+<text x="216" y="226" font-size="9" fill="#6f8fb0" text-anchor="start" letter-spacing="1.5">ABSENT</text><text x="216" y="246" font-size="9.5" fill="#c3d7ea" text-anchor="start">process · require · fs · network · subprocess</text>
+<text x="24" y="168" font-size="9.5" fill="#e8c56a" text-anchor="start" text-decoration="line-through">__fabricHostCall</text><text x="24" y="188" font-size="9" fill="#e8c56a" text-anchor="start">deleted after capture</text><text x="24" y="206" font-size="9" fill="#e8c56a" text-anchor="start">quickjs-runtime.ts:82</text>
+<line x1="150" y1="164" x2="192" y2="164" stroke="#e8c56a" stroke-width="1.2" style="stroke-dasharray:3 3"/>
+<text x="466" y="304" font-size="9" fill="#6f8fb0" text-anchor="middle">fresh context per call · disposed in finally · quickjs-runtime.ts:884, :1277</text>
+</svg>
