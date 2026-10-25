@@ -15,9 +15,9 @@ draft: false
 
 This page is the rubric for a new memo post. Run it on your draft before you open a pull request, whether you are staff, alumni or a guest. An agent can run it for you, and the last section says how.
 
-The rubric has two parts. Part A is mechanical: a script finds each problem and says where it is. Part B is judgment: you answer yes or no and fix what fails. Both parts apply to every path. The [media standard](/memo-media-standard) holds the file-level rules for images and SVG. [Contribute to memo](/contribute-to-memo) holds the paths.
+The rubric has two parts. The mechanical checks come first: a script finds each problem and says where it is. The judgment checks come second: you answer yes or no and fix what fails. Both parts apply to every path. The [media standard](/memo-media-standard) holds the file-level rules for images and SVG. [Contribute to memo](/contribute-to-memo) holds the paths.
 
-## Part a: mechanical checks
+## Mechanical checks
 
 Run the checker on your note. It needs Node 18 or newer and nothing else.
 
@@ -44,7 +44,7 @@ Table: Mechanical checks, with the id the script prints {#tbl-checks}
 | `version-body`       | No version string in the body.                                                                                          | Move it to the appendix table.                                                |
 | `fileline-body`      | No `file:line` reference or `#L12` link in the body.                                                                    | Move it to the appendix table.                                                |
 | `url-bare`           | No bare URL in prose.                                                                                                   | Link it as `[Title](url)`, or move it to References.                          |
-| `ai-tell`            | No phrase from the short tell list, such as "here's the thing" or "in conclusion".                                      | Rewrite the sentence. Part B covers the rest of the tells.                    |
+| `ai-tell`            | No phrase from the short tell list, such as "here's the thing" or "in conclusion".                                      | Rewrite the sentence. The judgment checks cover the rest of the tells.                    |
 | `ascii-art`          | No box-drawing diagram in a code fence.                                                                                 | Make it a figure.                                                             |
 | `fence-lang`         | Every code fence sets a language.                                                                                       | Add one. Use `text` when nothing fits.                                        |
 | `eq-id`              | Display math is `$$ ... $$ {#eq-id}`.                                                                                   | Add the id after the closing `$$`.                                            |
@@ -75,13 +75,13 @@ Table: Mechanical checks, with the id the script prints {#tbl-checks}
 | `ref-unused`         | Every entry is cited somewhere, as `[n]` or `[term](#ref-n)`.                                                           | Cite it or delete it.                                                         |
 | `cite-missing`       | Every `[n]` has an entry.                                                                                               | Add the entry.                                                                |
 
-The script reads the note and the SVG files it links. It cannot judge a figure's content, so Part B still applies.
+The script reads the note and the SVG files it links. It cannot judge a figure's content, so the judgment checks still apply.
 
 ### What the script does not check
 
 The script does not decide whether a rule is worth breaking once. A hash in the body is fine when the post is about that commit. Use your judgment, then say so in the pull request. It flags the bad examples quoted on this page too, because it cannot tell a quote from a mistake. It also skips a missing raster image on a note that is already merged and unchanged, because `media-sync` moves rasters out of git after the merge.
 
-## Part b: judgment checks
+## Judgment checks
 
 Answer each question yes or no. A "no" means rework, not rewording. The weakest items are usually 1, 2 and 11.
 
@@ -164,7 +164,7 @@ An item is blocking when it is 1, 2, 11 or 13, or when `ref-missing` fires (the 
 Fetch this page and run both parts before you open a pull request.
 
 1. Fetch the rubric with `curl`, and read it whole. A summary drops the rules. The page is at `https://memo.d.foundation/memo-post-rubric`, and the source is `handbook/memo/post-rubric.md` in `dwarvesf/brainery`.
-2. Run the checker from a clone of `dwarvesf/brainery`: `node _meta/scripts/post-check.mjs <your note>`. Fix every warning, or write one line in the pull request body for each one you keep. A guest writer without a clone applies Part A by hand from the table.
-3. Answer the fifteen questions in Part B, and return the verdict block above. Put it in the pull request body.
+2. Run the checker from a clone of `dwarvesf/brainery`: `node _meta/scripts/post-check.mjs <your note>`. Fix every warning, or write one line in the pull request body for each one you keep. A guest writer without a clone applies the mechanical checks by hand from the table.
+3. Answer the fifteen judgment questions, and return the verdict block above. Put it in the pull request body.
 4. Do the render check from item 15 and attach the screenshots, or say that you could not.
 5. Stop and ask the human when the weakest spot needs facts only the author has, such as a number, a decision date, or something that broke. Never invent evidence to pass an item.
