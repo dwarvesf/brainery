@@ -20,7 +20,7 @@ abstract: "Papers, vendor guides and public deployments from 2024 to 2026 mostly
 
 I wanted to run our operations the way I run a team. I hand a goal to someone who owns it, they come back with a report, and I never read the steps. With LLM agents that idea is tempting, because an agent with a role and its own tools looks a lot like a staff member. So before we turned more of our scripts into agents, I read what the papers, the vendor guides and the framework authors say about when that works.
 
-The short answer is that delegation to agents is right at the edge and wrong in the middle. Each domain gets one agent that owns the outcome and reports back to me. The work inside that domain stays as deterministic functions the agent calls. The evidence punishes agents split along an org chart, several writers on one artifact, and a model running where a script would give the same answer. We had all of those in our own estate.
+The short answer is that ==delegation to agents is right at the edge and wrong in the middle==. Each domain gets one agent that owns the outcome and reports back to me. The work inside that domain stays as deterministic functions the agent calls. The evidence punishes agents split along an org chart, several writers on one artifact, and a model running where a script would give the same answer. We had all of those in our own estate.
 
 ![Owner agent and its tools {#fig-owner}](assets/owner-agents-and-functions-fig1-owner-and-tools.svg 'Owner agent and its tools. I delegate a goal to one owner agent per domain, it calls functions and read-only helpers, and the shared boards, ledgers and files hold the memory.')
 
@@ -42,7 +42,7 @@ It breaks in the middle, where the work happens:
 - **Reliability.** Small per-step error rates compound over long chains, which @sec-when-a-workflow-wins works through.
 - **Multiple writers.** Agents that each write to the same artifact are the most repeated failure in the multi-agent literature [7] [16].
 
-So I keep the actor at the edge and functions in the middle: the owner agent is the actor, and everything it calls is a function.
+So ==I keep the actor at the edge and functions in the middle==: the owner agent is the actor, and everything it calls is a function.
 
 ## What separates an agent from a workflow
 
@@ -58,7 +58,7 @@ That is the line Anthropic draws in its guide to building agents [1], and Simon 
 
 ## What each model costs you
 
-The owner agent buys flexibility and a natural interface for a manager. The function buys repeatability, a near-zero cost per run, and failures that announce themselves.
+The owner agent buys flexibility and a natural interface for a manager. ==The function buys repeatability, a near-zero cost per run, and failures that announce themselves==.
 
 Table: Owner agent against function or workflow {#tbl-pros-cons}
 
@@ -77,11 +77,11 @@ The audit row is the one teams notice last. A durable workflow engine records ev
 
 ## When an agent earns its cost
 
-An agent earns its cost when the next step depends on what the last step found, when the work spreads wide and only reads, or when the input is messy enough that rules would be unwieldy. Outside those cases you are paying for flexibility you don't use.
+==An agent earns its cost when the next step depends on what the last step found==, when the work spreads wide and only reads, or when the input is messy enough that rules would be unwieldy. Outside those cases you are paying for flexibility you don't use.
 
 The open path is the defining case. If I can't tell you the steps before the run starts, a fixed workflow has nothing to encode [1]. OpenAI's practical guide reserves agents for complex decisions, unwieldy rule sets and unstructured data, and says plainly that otherwise "a deterministic solution may suffice" [6].
 
-Breadth-first research is where the biggest number comes from. Anthropic's lead agent with parallel subagents beat a single agent by 90.2% on its internal research eval [4]. Read the cost line in the same post before copying the design: the multi-agent system used about 15 times the tokens of a chat, and token use alone explained 80% of the variance in performance [4].
+Breadth-first research is where the biggest number comes from. Anthropic's lead agent with parallel subagents beat a single agent by [90.2%]{.accent} on its internal research eval [4]. Read the cost line in the same post before copying the design: the multi-agent system used about 15 times the tokens of a chat, and token use alone explained 80% of the variance in performance [4].
 
 Decomposable work also gains. Kim and colleagues at Google and MIT measured multi-agent setups gaining up to 80.8% on finance tasks that split into independent parts [5].
 
@@ -89,7 +89,7 @@ A clean-context reviewer is the cheapest win I found. Cognition reports that a r
 
 ## When a workflow wins
 
-A workflow wins when you can write the steps down today or when the chain is long, and it should always own money and irreversible state. Fixed flows cost less and fail loudly where an agent fails quietly.
+==A workflow wins when you can write the steps down today or when the chain is long==, and it should always own money and irreversible state. Fixed flows cost less and fail loudly where an agent fails quietly.
 
 The accuracy result surprised me most. Agentless solved 32% of SWE-bench Lite at an average of $0.70 per issue with no agent loop at all [8]. AlphaCodium's fixed flow nearly doubled GPT-4's accuracy on competitive programming [9]. Kumar and colleagues found hand-built workflows beat dynamically planned ones on both cost and accuracy [10].
 
@@ -103,23 +103,23 @@ where:
 - H is the number of steps that must all succeed
 - P chain is the chance that the whole run succeeds
 
-At 95% per step, a 20-step task finishes 36% of the time. At 99% per step it finishes about 82% of the time, and at 90% it drops to about 12% (@fig-chain). Steps are rarely independent in practice, and the dependence runs the wrong way: errors grow once the model sees its own earlier mistakes in context [11].
+At 95% per step, a 20-step task finishes [36%]{.accent} of the time. At 99% per step it finishes about 82% of the time, and at 90% it drops to about 12% (@fig-chain). Steps are rarely independent in practice, and the dependence runs the wrong way: errors grow once the model sees its own earlier mistakes in context [11].
 
 ![Chain reliability by step count {#fig-chain}](assets/owner-agents-and-functions-fig3-chain-reliability.svg 'Chain reliability by step count. Success of a chain of H steps at three per-step rates, with 20 steps at 95% marked at 36%.')
 
-Benchmarks that demand consistency show the same shape. On the retail half of tau-bench, success fell from about 61% on one try to about 25% when all eight tries had to pass [12]. METR puts the public frontier at about 12 hours of human-equivalent work at 50% success, but only about 1.5 hours at 80% success [13]. If your job has to work every night, the 80% line is the one that matters.
+Benchmarks that demand consistency show the same shape. On the retail half of tau-bench, success fell from about 61% on one try to about 25% when all eight tries had to pass [12]. METR puts the public frontier at about 12 hours of human-equivalent work at 50% success, but only [about 1.5 hours]{.accent} at 80% success [13]. If your job has to work every night, the 80% line is the one that matters.
 
-Sequential, tightly coupled work is the clearest loss for multi-agent designs. In the same Kim study that found the finance gain, every multi-agent variant lost between 39% and 70% on sequential planning [5]. CooperBench found two coding agents working together succeed about 30% less often than one agent alone [14]. Fu and colleagues compared six multi-agent systems against a single agent, and five of them trailed it, one while using 4.34 times the tokens [15].
+Sequential, tightly coupled work is the clearest loss for multi-agent designs. In the same Kim study that found the finance gain, every multi-agent variant lost between [39% and 70%]{.accent} on sequential planning [5]. CooperBench found two coding agents working together succeed about 30% less often than one agent alone [14]. Fu and colleagues compared six multi-agent systems against a single agent, and five of them trailed it, one while using 4.34 times the tokens [15].
 
 ## Why multi-agent setups fail
 
-Multi-agent setups mostly fail by design: unclear specifications, agents that disagree about who does what, and nobody checking the result. The model's raw ability is rarely the bottleneck.
+==Multi-agent setups mostly fail by design==: unclear specifications, agents that disagree about who does what, and nobody checking the result. The model's raw ability is rarely the bottleneck.
 
 MAST, from Berkeley, sorted more than 1,600 multi-agent traces into 14 failure modes under three groups: specification, misalignment between agents, and verification [16]. That framing changed how I read our own incidents.
 
-Unchecked chains amplify errors. Kim and colleagues measured independent agents amplifying errors 17.2 times, while a central [orchestrator](#ref-42) cut that to 4.4 times [5].
+Unchecked chains amplify errors. Kim and colleagues measured independent agents amplifying errors [17.2 times]{.accent}, while a central [orchestrator](#ref-42) cut that to 4.4 times [5].
 
-Parallel writers are the failure everyone repeats. Cognition argued in 2025 against building multi-agent systems at all [17], and their 2026 follow-up keeps the core of it: setups work when writes stay single-threaded and extra agents add intelligence rather than actions [7].
+Parallel writers are the failure everyone repeats. Cognition argued in 2025 against building multi-agent systems at all [17], and their 2026 follow-up keeps the core of it: setups work when writes stay [single-threaded]{.accent} and extra agents add intelligence rather than actions [7].
 
 ![Evidence scoreboard {#fig-evidence}](assets/owner-agents-and-functions-fig4-evidence-scoreboard.svg 'Evidence scoreboard. Change from adding agents, by task type: gains on breadth-first research and decomposable finance, losses on sequential planning and two-agent coding.')
 
@@ -151,7 +151,7 @@ Copy this list and run it against the job you're thinking of turning into an age
 
 ## Does this hold outside ops?
 
-Yes, as far as the public cases go. In every domain I checked, the agent owns the search, the draft or the recommendation, and code or a person owns the step with a side effect.
+Yes, as far as the public cases go. In every domain I checked, ==the agent owns the search, the draft or the recommendation, and code or a person owns the step with a side effect==.
 
 Table: Who owns what, by domain {#tbl-domains}
 
@@ -168,7 +168,7 @@ Table: Who owns what, by domain {#tbl-domains}
 
 **IT ops.** ServiceNow says about 90% of its own internal IT tickets now resolve with no human, and that 85% of the people who did that work moved to other teams [30]. Those are a vendor's numbers about its own product. Change policy, approvals and the audit trail stay in the platform.
 
-**Customer support.** This is the mixed one. Klarna's launch release claimed 2.3 million chats in the first month, the work of 700 agents, resolution time down from 11 minutes to under 2, and repeat inquiries down 25%, all company numbers [31]. In May 2025 its CEO reportedly told Bloomberg that cost had been weighted too heavily and quality had dropped, and Klarna disputes calling that a reversal. Commonwealth Bank of Australia cut 45 call-centre jobs after launching a voice bot, then reversed the cut within weeks and called its own decision an error [32].
+**Customer support.** This is the mixed one. Klarna's launch release claimed 2.3 million chats in the first month, the work of 700 agents, resolution time down from 11 minutes to under 2, and repeat inquiries down 25%, all company numbers [31]. In May 2025 its CEO reportedly told Bloomberg that cost had been weighted too heavily and quality had dropped, and Klarna disputes calling that a reversal. Commonwealth Bank of Australia cut [45 call-centre jobs]{.accent} after launching a voice bot, then reversed the cut within weeks and called its own decision an error [32].
 
 **Finance and back office.** Ramp's AP agent codes invoices and recommends approvals, and Ramp claims about a 90% acceptance rate on those recommendations without defining acceptance [33]. The three-way match, payment limits and posting to the ledger stay in code.
 
@@ -199,7 +199,7 @@ Five terms come up below: a [cron job](#ref-41), the [orchestrator](#ref-42), an
 
 ### Before: a dozen writers on one board
 
-Before the audit, 12 separate processes could change the state of a ticket, and none of them owned it (@fig-lab-before). Two things broke in ways nobody noticed for a while.
+Before the audit, ==12 separate processes could change the state of a ticket, and none of them owned it== (@fig-lab-before). Two things broke in ways nobody noticed for a while.
 
 ![The lab before {#fig-lab-before}](assets/owner-agents-and-functions-fig6-lab-before.svg 'The lab before. Twelve processes, from a recovery job to an hourly board sync, each change ticket state on one board, and nobody owns the result.')
 
@@ -211,7 +211,7 @@ We put every item in one register and gave each a target rung and a move. The re
 
 ![Lab register by rung {#fig-lab-by-rung}](assets/owner-agents-and-functions-fig8-lab-by-rung.svg 'Lab register by rung. All 163 register items sorted onto a target rung, with most staying L0 and 10 leaving the register.')
 
-By target rung, 125 items are L0 functions, 7 are L1 workflows with one typed LLM step, 19 are L2 owner-agent work, and 2 are L3 with read-only helpers. The last 10 have no target rung because they leave the register, either retired or folded into a job that survives. Only 21 items out of 163 need an agent loop at all.
+By target rung, 125 items are L0 functions, 7 are L1 workflows with one typed LLM step, 19 are L2 owner-agent work, and 2 are L3 with read-only helpers. The last 10 have no target rung because they leave the register, either retired or folded into a job that survives. Only [21 items]{.accent} out of 163 need an agent loop at all.
 
 By move:
 
@@ -226,7 +226,7 @@ Absorbing a job into an agent is the move people misread. The job stays code and
 
 ### After: one writer per board
 
-After the moves, each cluster's board has exactly one writer, its owner agent (@fig-lab-after). Every other process either becomes a tool the owner calls or sends the owner a proposal.
+After the moves, ==each cluster's board has exactly one writer, its owner agent== (@fig-lab-after). Every other process either becomes a tool the owner calls or sends the owner a proposal.
 
 ![The lab after {#fig-lab-after}](assets/owner-agents-and-functions-fig7-lab-after.svg 'The lab after. Each cluster has one owner that alone writes its board, calls scripts and jobs for detection, money, state and schedule, and receives proposals instead of writes.')
 
@@ -259,13 +259,13 @@ Filing a ticket and attaching a triage note add information. Only step 8, and an
 
 Our sweep already follows the "script watches, wakes the agent only on a change" rule, and @fig-sweep-cost shows what it would cost without it. The jobs that still start the model on every run are seven low-frequency reports.
 
-The sweep fires every 15 minutes. Before any model starts, the engine runs a monitor: a small script lists the inbox, the engine hashes that output, and when the hash matches the last tick or the output is empty, the model run is suppressed at zero tokens.
+The sweep fires every 15 minutes. Before any model starts, the engine runs a monitor: a small script lists the inbox, the engine hashes that output, and when the hash matches the last tick or the output is empty, the model run is suppressed at [zero tokens]{.accent}.
 
 The gate had one hole until a patch in October 2026. Each time the inbox went from busy to empty, the output changed, so the model woke up only to report that there was nothing to do. The patch counts empty output as no change.
 
 ![What the sweep would cost on a bare timer {#fig-sweep-cost}](assets/owner-agents-and-functions-fig10-sweep-cost.svg 'What the sweep would cost on a bare timer. Daily tokens on a 15-minute timer against one run per new ticket, computed from the per-run range, not measured.')
 
-On a bare timer, the same sweep would run 96 times a day at 15,000 to 90,000 tokens each, which is 1.44 million to 8.64 million tokens a day. Those figures are computed from the per-run range, not measured. With the gate, cost follows new tickets instead of the clock. At 90,000 tokens a run, the gated sweep reaches the timer's cheapest day only at 16 new tickets a day, and at 15,000 tokens a run it would take 96, one per tick.
+On a bare timer, the same sweep would run [96 times a day]{.accent} at 15,000 to 90,000 tokens each, which is 1.44 million to 8.64 million tokens a day. Those figures are computed from the per-run range, not measured. With the gate, cost follows new tickets instead of the clock. At 90,000 tokens a run, the gated sweep reaches the timer's cheapest day only at 16 new tickets a day, and at 15,000 tokens a run it would take 96, one per tick.
 
 Seven jobs in the lab still start the model every time they fire, with no gate: daily, weekly and monthly report jobs. They run rarely, so the cost is small. Where a report's output is fixed, it is a candidate to move to a plain scheduler, one of the 11 moves of that kind in the register.
 
@@ -275,9 +275,9 @@ These moves are decided and partly in flight. The sweep gate is the one change a
 
 ## How to bring agents into a platform you already run
 
-Grow the agent around the old system one decision at a time, and keep the legacy path in charge until the numbers say otherwise. Autonomy goes up a level only when an eval shows the current level works.
+==Grow the agent around the old system one decision at a time==, and keep the legacy path in charge until the numbers say otherwise. Autonomy goes up a level only when an eval shows the current level works.
 
-The shape is the strangler fig pattern from Microsoft's architecture guidance: a facade routes each request either to the legacy path or to the new one, and rollback stays possible until the legacy part is retired [37]. For agents, the tool layer is that facade.
+The shape is the [strangler fig]{.accent} pattern from Microsoft's architecture guidance: a facade routes each request either to the legacy path or to the new one, and rollback stays possible until the legacy part is retired [37]. For agents, the tool layer is that facade.
 
 The autonomy levels come from Feng, McDonald and Zhang at the Knight First Amendment Institute, who name each level after the human's role [39]. Autonomy rises in this order. As operator the human decides and the agent assists. As collaborator the two share the work. As consultant the agent leads and consults the human. As approver the agent acts and asks for approval on high-risk steps. As observer the human only watches, and the agent runs with full autonomy. Read-only and shadow runs sit at operator. One gated action is approver. Observer comes last, and only on evidence. The authors warn that the approver level fails quietly when people rubber-stamp what they are shown.
 
