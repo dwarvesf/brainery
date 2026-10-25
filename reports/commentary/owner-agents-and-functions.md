@@ -62,16 +62,16 @@ The owner agent buys flexibility and a natural interface for a manager. The func
 
 Table: Owner agent against function or workflow {#tbl-pros-cons}
 
-| Property                | Owner agent                       | Function or workflow        |
-| :---------------------- | :-------------------------------- | :-------------------------- |
-| Handles new situations  | Yes                               | No, fails loudly            |
-| Same input, same output | No                                | Yes                         |
-| Cost per run            | High, grows with context          | Near zero                   |
-| Debugging               | Read traces                       | Read code and logs          |
-| Interface for a manager | Delegate, get a report            | Read a dashboard            |
-| Failure mode            | Silent and confident              | Loud and specific           |
-| Memory                  | Weak inside; strong in files      | State in a store by design  |
-| Audit                   | Only what you log                 | Event history, replayable   |
+| Property                | Owner agent                  | Function or workflow       |
+| :---------------------- | :--------------------------- | :------------------------- |
+| Handles new situations  | Yes                          | No, fails loudly           |
+| Same input, same output | No                           | Yes                        |
+| Cost per run            | High, grows with context     | Near zero                  |
+| Debugging               | Read traces                  | Read code and logs         |
+| Interface for a manager | Delegate, get a report       | Read a dashboard           |
+| Failure mode            | Silent and confident         | Loud and specific          |
+| Memory                  | Weak inside; strong in files | State in a store by design |
+| Audit                   | Only what you log            | Event history, replayable  |
 
 The audit row is the one teams notice last. A durable workflow engine records every step and can replay a run from its history [40]. An agent leaves a trace only if you built the logging around it.
 
@@ -155,14 +155,14 @@ Yes, as far as the public cases go. In every domain I checked, the agent owns th
 
 Table: Who owns what, by domain {#tbl-domains}
 
-| Domain               | Agent owns                       | Stays deterministic              | Case                   |
-| :------------------- | :------------------------------- | :------------------------------- | :--------------------- |
-| Incident response    | Hypotheses, root-cause drafts    | Paging, escalation, runbook runs | Datadog, PagerDuty     |
-| IT ops               | Routine ticket triage and fixes  | Change policy, approvals, audit  | ServiceNow             |
-| Customer support     | Routine answers                  | Refunds, policy, human handoff   | Klarna, CBA            |
-| Finance, back office | Invoice coding, approval advice  | Matching, limits, ledger posting | Ramp                   |
-| Sales and HR         | Research, qualification, drafts  | Sending, CRM writes, rejections  | Vercel, McHire         |
-| Software engineering | The code change                  | CI, tests, merge gate            | Stripe                 |
+| Domain               | Agent owns                      | Stays deterministic              | Case               |
+| :------------------- | :------------------------------ | :------------------------------- | :----------------- |
+| Incident response    | Hypotheses, root-cause drafts   | Paging, escalation, runbook runs | Datadog, PagerDuty |
+| IT ops               | Routine ticket triage and fixes | Change policy, approvals, audit  | ServiceNow         |
+| Customer support     | Routine answers                 | Refunds, policy, human handoff   | Klarna, CBA        |
+| Finance, back office | Invoice coding, approval advice | Matching, limits, ledger posting | Ramp               |
+| Sales and HR         | Research, qualification, drafts | Sending, CRM writes, rejections  | Vercel, McHire     |
+| Software engineering | The code change                 | CI, tests, merge gate            | Stripe             |
 
 **Incident response.** Datadog's SRE agent forms root-cause hypotheses and tests each one against telemetry, and Datadog evaluates it on real incidents its teams labeled, without publishing an accuracy number [27]. PagerDuty's SRE agent runs diagnostics and suggests remediation, and runs the fix on approval [28]. incident.io's guide tells teams to backtest on 5 to 10 closed incidents and aim for precision above 80% with recall near 60% [29].
 
