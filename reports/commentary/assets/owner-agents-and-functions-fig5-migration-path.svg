@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 396" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" role="img" aria-labelledby="t d">
+  <title id="t">Fig. 5 migration path for bringing an agent into an existing platform</title>
+  <desc id="d">A seven step staircase: pick one decision point, wrap scripts as tools, build the eval set, run read-only then shadow, enable one reversible action behind approval, keep orchestration deterministic, expand on evidence. Below it, the human role moves from operator, to approver, to observer only on evidence. The legacy path stays the authority until step 7.</desc>
+  <defs>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="396" fill="#12395f"/>
+  <rect width="760" height="396" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="759" height="395" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 5 · MIGRATION PATH</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">BRING AN AGENT INTO A PLATFORM YOU ALREADY RUN</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+  <rect x="26" y="46" width="600" height="24" fill="none" stroke="#6f8fb0" stroke-width="1" style="stroke-dasharray:4 3"/>
+  <text x="326" y="62" font-size="10" letter-spacing="1.5" fill="#c3d7ea" text-anchor="middle">LEGACY PATH STAYS THE AUTHORITY</text>
+  <text x="686" y="58" font-size="9" letter-spacing="0.5" fill="#6f8fb0" text-anchor="middle">AUTHORITY MAY</text>
+  <text x="686" y="70" font-size="9" letter-spacing="0.5" fill="#6f8fb0" text-anchor="middle">MOVE HERE</text>
+  <text x="482" y="106" font-size="9" letter-spacing="0.5" fill="#e8c56a" text-anchor="middle">FIRST REAL</text>
+  <text x="482" y="118" font-size="9" letter-spacing="0.5" fill="#e8c56a" text-anchor="middle">ACTION</text>
+  <rect x="26" y="222" width="96" height="64" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="74" y="240" font-size="12" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">1</text>
+  <text x="74" y="260" font-size="9" fill="#a7c0d9" text-anchor="middle">pick one</text>
+  <text x="74" y="274" font-size="9" fill="#a7c0d9" text-anchor="middle">decision point</text>
+  <rect x="128" y="198" width="96" height="64" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="176" y="216" font-size="12" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">2</text>
+  <text x="176" y="236" font-size="9" fill="#a7c0d9" text-anchor="middle">wrap scripts</text>
+  <text x="176" y="250" font-size="9" fill="#a7c0d9" text-anchor="middle">as tools</text>
+  <rect x="230" y="174" width="96" height="64" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="278" y="192" font-size="12" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">3</text>
+  <text x="278" y="212" font-size="9" fill="#a7c0d9" text-anchor="middle">build the</text>
+  <text x="278" y="226" font-size="9" fill="#a7c0d9" text-anchor="middle">eval set</text>
+  <rect x="332" y="150" width="96" height="64" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="380" y="168" font-size="12" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">4</text>
+  <text x="380" y="188" font-size="9" fill="#a7c0d9" text-anchor="middle">read-only,</text>
+  <text x="380" y="202" font-size="9" fill="#a7c0d9" text-anchor="middle">then shadow</text>
+  <rect x="434" y="126" width="96" height="64" fill="#21466a" stroke="#e8c56a" stroke-width="2"/>
+  <text x="482" y="144" font-size="12" letter-spacing="1" fill="#e8c56a" text-anchor="middle">5</text>
+  <text x="482" y="164" font-size="9" fill="#c3d7ea" text-anchor="middle">one reversible</text>
+  <text x="482" y="178" font-size="9" fill="#c3d7ea" text-anchor="middle">action, gated</text>
+  <rect x="536" y="102" width="96" height="64" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="584" y="120" font-size="12" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">6</text>
+  <text x="584" y="140" font-size="9" fill="#a7c0d9" text-anchor="middle">orchestration</text>
+  <text x="584" y="154" font-size="9" fill="#a7c0d9" text-anchor="middle">deterministic</text>
+  <rect x="638" y="78" width="96" height="64" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="686" y="96" font-size="12" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">7</text>
+  <text x="686" y="116" font-size="9" fill="#a7c0d9" text-anchor="middle">expand on</text>
+  <text x="686" y="130" font-size="9" fill="#a7c0d9" text-anchor="middle">evidence</text>
+  <text x="26" y="322" font-size="9" letter-spacing="1.5" fill="#6f8fb0" text-anchor="start">HUMAN ROLE, KNIGHT LEVELS</text>
+  <rect x="26" y="342" width="402" height="30" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="227.0" y="361.0" font-size="10" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">OPERATOR: HUMAN DECIDES, AGENT SUGGESTS</text>
+  <rect x="434" y="328" width="198" height="44" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="533.0" y="354.0" font-size="10" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">APPROVER</text>
+  <rect x="638" y="314" width="96" height="58" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="686.0" y="338" font-size="9" letter-spacing="0.5" fill="#e8f1fa" text-anchor="middle">OBSERVER,</text>
+  <text x="686.0" y="354" font-size="9" letter-spacing="0.5" fill="#e8f1fa" text-anchor="middle">ON EVIDENCE</text>
+</svg>
