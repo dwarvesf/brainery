@@ -239,50 +239,50 @@ If you read one book on this, read Victor Dibia's _Designing Multi-Agent Systems
 
 The rest of the shelf, in the order I'd read it:
 
-- **Chip huyen, *AI engineering* (o'reilly, 2025)**: evals, cost and latency. Without evals you can't tell whether an agent beats a script.
-- **Sinan ozdemir, *building Agentic AI* (addison-wesley, 2025)**: runs from workflows to agents, the same order as this question. Few reviews yet.
-- **Matthew skelton and manuel pais, *team topologies*, 2nd edition (IT revolution, 2025)**: narrow roles, clear interfaces and cognitive load, the best template I know for the "agents as staff" idea.
-- **Michael nygard, *release it!*, 2nd edition (pragmatic, 2018)**: timeouts, circuit breakers and bulkheads, which is where the deterministic guardrails go.
+- Chip Huyen, _AI Engineering_ (O'Reilly, 2025): evals, cost and latency. Without evals you can't tell whether an agent beats a script.
+- Sinan Ozdemir, _Building Agentic AI_ (Addison-Wesley, 2025): runs from workflows to agents, the same order as this question. Few reviews yet.
+- Matthew Skelton and Manuel Pais, _Team Topologies_, 2nd edition (IT Revolution, 2025): narrow roles, clear interfaces and cognitive load, the best template I know for the "agents as staff" idea.
+- Michael Nygard, _Release It!_, 2nd edition (Pragmatic, 2018): timeouts, circuit breakers and bulkheads, which is where the deterministic guardrails go.
 
 ## References
 
-1. **Anthropic, building effective agents**: engineering guide that separates workflows from agents, 2024-12. [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents).
-2. **Harrison Chase, LangChain**: essay placing agentic systems on a spectrum, 2025-04. [How to think about agent frameworks](https://blog.langchain.com/how-to-think-about-agent-frameworks/).
-3. **Simon Willison**: working definition of an agent as tools in a loop, 2025-09. [I think agent may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/).
-4. **Anthropic, multi-agent research system**: lead agent with parallel subagents, 90.2% gain and token costs, 2025-06. [How we built our multi-agent research system](https://www.anthropic.com/engineering/built-multi-agent-research-system).
-5. **Kim et al., Google and MIT**: controlled study of multi-agent gains and losses by task type, 2025-12. [arXiv 2512.08296](https://arxiv.org/abs/2512.08296).
-6. **OpenAI, practical guide**: when to build an agent and when a deterministic solution suffices, 2025. [A practical guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf).
-7. **Walden yan, Cognition**: single-threaded writes and clean-context review in production, 2026-04. [Multi-Agents: What's Actually Working](https://cognition.com/blog/multi-agents-working).
-8. **Xia et al., agentless**: fixed pipeline on SWE-bench Lite with no agent loop, 2024. [arXiv 2407.01489](https://arxiv.org/abs/2407.01489).
-9. **Ridnik et al., AlphaCodium**: flow engineering for code generation, 2024. [arXiv 2401.08500](https://arxiv.org/abs/2401.08500).
-10. **Kumar et al.**: hand-built against dynamically planned workflows on cost and accuracy, 2026. [arXiv 2606.00189](https://arxiv.org/abs/2606.00189).
-11. **Sinha et al.**: long-horizon execution and errors that grow from self-conditioning, ICLR 2026. [arXiv 2509.09677](https://arxiv.org/abs/2509.09677).
-12. **Yao et al., tau-bench**: tool-agent benchmark with the pass-all-k consistency metric, 2024. [arXiv 2406.12045](https://arxiv.org/abs/2406.12045).
-13. **METR, frontier risk report**: time horizons at 50% and 80% success, 2026-05. [Frontier Risk Report](https://metr.org/blog/2026-05-19-frontier-risk-report/).
-14. **CooperBench, stanford**: two cooperating coding agents against one, 2026-01. [arXiv 2601.13295](https://arxiv.org/abs/2601.13295).
-15. **Fu et al.**: six multi-agent systems compared with a single agent on accuracy and tokens, 2026. [arXiv 2606.05670](https://arxiv.org/abs/2606.05670).
-16. **Cemri et al., MAST**: taxonomy of 14 multi-agent failure modes from 1,600+ traces, 2025. [arXiv 2503.13657](https://arxiv.org/abs/2503.13657).
-17. **Walden yan, Cognition**: the case against parallel multi-agent writers, 2025-06. [Don't Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents).
-18. **Chroma, context rot**: 18 models tested on retrieval as input length grows, 2025. [Context Rot](https://research.trychroma.com/context-rot).
-19. **Laban et al.**: LLMs get lost in multi-turn conversation, ICLR 2026. [arXiv 2505.06120](https://arxiv.org/abs/2505.06120).
-20. **Wu et al., LongMemEval**: benchmark for long-term memory in chat assistants, 2024. [arXiv 2410.10813](https://arxiv.org/abs/2410.10813).
-21. **Shopify engineering, sidekick**: lessons on tool count and multi-agent timing from a production agent, 2025-08. [Building production-ready agentic systems](https://shopify.engineering/building-production-ready-agentic-systems).
-22. **Anthropic applied AI**: when to fold subagents into one agent loop and when a split still pays, 2026-10. [When to fold subagents into your main agent loop](https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop).
-23. **HumanLayer, 12-factor agents**: principles for production LLM software, 2025. [12-factor agents](https://github.com/humanlayer/12-factor-agents).
-24. **Anthropic, Claude Agent SDK**: agent loop design and rule-based verification before LLM judges, 2025-09. [Building agents with the Claude Agent SDK](https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk).
+1. **Anthropic**: Building effective agents, engineering guide that separates workflows from agents, 2024-12. [Building effective agents](https://www.anthropic.com/engineering/building-effective-agents).
+2. **LangChain**: Harrison Chase, essay placing agentic systems on a spectrum, 2025-04. [How to think about agent frameworks](https://blog.langchain.com/how-to-think-about-agent-frameworks/).
+3. **Willison**: Simon Willison, working definition of an agent as tools in a loop, 2025-09. [I think agent may finally have a widely enough agreed upon definition to be useful jargon now](https://simonwillison.net/2025/Sep/18/agents/).
+4. **Anthropic**: multi-agent research system, lead agent with parallel subagents, 90.2% gain and token costs, 2025-06. [How we built our multi-agent research system](https://www.anthropic.com/engineering/built-multi-agent-research-system).
+5. **Kim**: Kim et al., Google and MIT, controlled study of multi-agent gains and losses by task type, 2025-12. [arXiv 2512.08296](https://arxiv.org/abs/2512.08296).
+6. **OpenAI**: practical guide, when to build an agent and when a deterministic solution suffices, 2025. [A practical guide to building agents](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf).
+7. **Cognition**: Walden Yan, single-threaded writes and clean-context review in production, 2026-04. [Multi-Agents: What's Actually Working](https://cognition.com/blog/multi-agents-working).
+8. **Agentless**: Xia et al., fixed pipeline on SWE-bench Lite with no agent loop, 2024. [arXiv 2407.01489](https://arxiv.org/abs/2407.01489).
+9. **AlphaCodium**: Ridnik et al., flow engineering for code generation, 2024. [arXiv 2401.08500](https://arxiv.org/abs/2401.08500).
+10. **Kumar**: Kumar et al., hand-built against dynamically planned workflows on cost and accuracy, 2026. [arXiv 2606.00189](https://arxiv.org/abs/2606.00189).
+11. **Sinha**: Sinha et al., long-horizon execution and errors that grow from self-conditioning, ICLR 2026. [arXiv 2509.09677](https://arxiv.org/abs/2509.09677).
+12. **tau-bench**: Yao et al., tool-agent benchmark with the pass-all-k consistency metric, 2024. [arXiv 2406.12045](https://arxiv.org/abs/2406.12045).
+13. **METR**: frontier risk report, time horizons at 50% and 80% success, 2026-05. [Frontier Risk Report](https://metr.org/blog/2026-05-19-frontier-risk-report/).
+14. **CooperBench**: Stanford, two cooperating coding agents against one, 2026-01. [arXiv 2601.13295](https://arxiv.org/abs/2601.13295).
+15. **Fu**: Fu et al., six multi-agent systems compared with a single agent on accuracy and tokens, 2026. [arXiv 2606.05670](https://arxiv.org/abs/2606.05670).
+16. **MAST**: Cemri et al., taxonomy of 14 multi-agent failure modes from 1,600+ traces, 2025. [arXiv 2503.13657](https://arxiv.org/abs/2503.13657).
+17. **Cognition**: Walden Yan, the case against parallel multi-agent writers, 2025-06. [Don't Build Multi-Agents](https://cognition.ai/blog/dont-build-multi-agents).
+18. **Chroma**: context rot report, 18 models tested on retrieval as input length grows, 2025. [Context Rot](https://research.trychroma.com/context-rot).
+19. **Laban**: Laban et al., LLMs get lost in multi-turn conversation, ICLR 2026. [arXiv 2505.06120](https://arxiv.org/abs/2505.06120).
+20. **LongMemEval**: Wu et al., benchmark for long-term memory in chat assistants, 2024. [arXiv 2410.10813](https://arxiv.org/abs/2410.10813).
+21. **Shopify**: Sidekick engineering post, lessons on tool count and multi-agent timing from a production agent, 2025-08. [Building production-ready agentic systems](https://shopify.engineering/building-production-ready-agentic-systems).
+22. **Anthropic**: Applied AI, when to fold subagents into one agent loop and when a split still pays, 2026-10. [When to fold subagents into your main agent loop](https://claude.com/resources/articles/building-agents-when-to-fold-subagents-into-your-main-agent-loop).
+23. **HumanLayer**: 12-factor agents, principles for production LLM software, 2025. [12-factor agents](https://github.com/humanlayer/12-factor-agents).
+24. **Anthropic**: Claude Agent SDK, agent loop design and rule-based verification before LLM judges, 2025-09. [Building agents with the Claude Agent SDK](https://www.anthropic.com/engineering/building-agents-with-the-claude-agent-sdk).
 25. **LangChain**: guidance to start with an agent harness and add graphs for control, 2026-08. [Deep Agents vs LangChain vs LangGraph](https://www.langchain.com/blog/deep-agents-vs-langchain-vs-langgraph).
-26. **Gergely Orosz with Dex Horthy, The Pragmatic Engineer**: an unreviewed agent coding setup shut down after production breaks, 2026-07. [Context engineering with Dex Horthy](https://newsletter.pragmaticengineer.com/p/context-engineering-with-dex-horthy).
-27. **Datadog, Bits AI SRE**: hypothesis-test loop over telemetry, evaluated on labeled real incidents, 2026-01. [How we built an AI SRE agent that investigates like a team of engineers](https://www.datadoghq.com/blog/building-bits-ai-sre/).
-28. **PagerDuty, SRE Agent**: diagnostics and suggested remediation that runs on human approval, 2025-10. [PagerDuty H2 2025 release](https://www.pagerduty.com/blog/product/product-launch-2025-h2/).
+26. **Horthy**: Dex Horthy with Gergely Orosz, The Pragmatic Engineer, an unreviewed agent coding setup shut down after production breaks, 2026-07. [Context engineering with Dex Horthy](https://newsletter.pragmaticengineer.com/p/context-engineering-with-dex-horthy).
+27. **Datadog**: Bits AI SRE, hypothesis-test loop over telemetry, evaluated on labeled real incidents, 2026-01. [How we built an AI SRE agent that investigates like a team of engineers](https://www.datadoghq.com/blog/building-bits-ai-sre/).
+28. **PagerDuty**: SRE Agent, diagnostics and suggested remediation that runs on human approval, 2025-10. [PagerDuty H2 2025 release](https://www.pagerduty.com/blog/product/product-launch-2025-h2/).
 29. **incident.io**: backtesting AI root-cause analysis on closed incidents with precision and recall targets, 2026-02. [AI root cause analysis: accuracy testing guide](https://incident.io/blog/ai-root-cause-analysis-accuracy-testing-guide).
-30. **CX Today, ServiceNow**: a vendor running agentic AI on its own IT and HR service desks, 2026-05. [ServiceNow ran agentic AI on itself](https://cxtoday.com/servicenow-ran-agentic-ai-on-itself-heres-what-happened).
+30. **ServiceNow**: reported by CX Today, a vendor running agentic AI on its own IT and HR service desks, 2026-05. [ServiceNow ran agentic AI on itself](https://cxtoday.com/servicenow-ran-agentic-ai-on-itself-heres-what-happened).
 31. **Klarna**: company launch numbers for its AI customer service assistant, 2024-02. [Klarna AI assistant handles two-thirds of customer service chats in its first month](https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/).
-32. **ABC News, Commonwealth Bank**: 45 call-centre job cuts after a voice bot, reversed and called an error, 2025-08. [Commonwealth Bank backtracks on AI job cuts](https://www.abc.net.au/news/2025-08-21/cba-backtracks-on-ai-job-cuts-as-chatbot-lifts-call-volumes/105679492).
-33. **Ramp, AP agents**: vendor launch of invoice coding and approval recommendation agents, 2025-10. [AP just became autonomous](https://ramp.com/blog/ramp-ap-agents-announcement).
-34. **SaaStr, Vercel**: inbound sales development team moved from 10 people to 1 behind a lead agent, 2026-01. [Vercel took a 10-person SDR team down to 1](https://www.saastr.com/vercel-took-a-10-person-sdr-team-down-to-1-the-whole-thing-costs-5000-a-year-with-vercels-coo-jeanne-dewitt-grosser/).
-35. **TechCrunch, McHire**: hiring chatbot admin account protected by the password 123456, 2025-07. [AI chatbot's simple 123456 password risked exposing data of McDonald's job applicants](https://techcrunch.com/2025/07/11/ai-chatbots-simple-123456-password-risked-exposing-personal-data-of-millions-of-mcdonalds-job-applicants/).
-36. **Alistair Gray, Stripe**: unattended coding agents with deterministic steps, human review and isolated dev boxes, 2026-02. [Minions: Stripe's one-shot, end-to-end coding agents](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents).
-37. **Microsoft Azure Architecture Center**: the strangler fig pattern for incremental migration behind a facade. [Strangler Fig pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/strangler-fig).
-38. **Joyce Johnson, Camunda**: deterministic process logic with the agent as one bounded step, 2026-01. [Guardrails and best practices for agentic orchestration](https://camunda.com/blog/2026/01/guardrails-and-best-practices-for-agentic-orchestration/).
-39. **Feng, McDonald and Zhang, Knight First Amendment Institute**: five autonomy levels named after the human's role, 2025-07. [Levels of Autonomy for AI Agents](https://knightcolumbia.org/content/levels-of-autonomy-for-ai-agents-1).
+32. **CBA**: Commonwealth Bank of Australia, reported by ABC News, 45 call-centre job cuts after a voice bot, reversed and called an error, 2025-08. [Commonwealth Bank backtracks on AI job cuts](https://www.abc.net.au/news/2025-08-21/cba-backtracks-on-ai-job-cuts-as-chatbot-lifts-call-volumes/105679492).
+33. **Ramp**: AP agents, vendor launch of invoice coding and approval recommendation agents, 2025-10. [AP just became autonomous](https://ramp.com/blog/ramp-ap-agents-announcement).
+34. **Vercel**: interview on SaaStr, inbound sales development team moved from 10 people to 1 behind a lead agent, 2026-01. [Vercel took a 10-person SDR team down to 1](https://www.saastr.com/vercel-took-a-10-person-sdr-team-down-to-1-the-whole-thing-costs-5000-a-year-with-vercels-coo-jeanne-dewitt-grosser/).
+35. **McHire**: reported by TechCrunch, hiring chatbot admin account protected by the password 123456, 2025-07. [AI chatbot's simple 123456 password risked exposing data of McDonald's job applicants](https://techcrunch.com/2025/07/11/ai-chatbots-simple-123456-password-risked-exposing-personal-data-of-millions-of-mcdonalds-job-applicants/).
+36. **Stripe**: Alistair Gray, unattended coding agents with deterministic steps, human review and isolated dev boxes, 2026-02. [Minions: Stripe's one-shot, end-to-end coding agents](https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents).
+37. **Microsoft**: Azure Architecture Center, the strangler fig pattern for incremental migration behind a facade. [Strangler Fig pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/strangler-fig).
+38. **Camunda**: Joyce Johnson, deterministic process logic with the agent as one bounded step, 2026-01. [Guardrails and best practices for agentic orchestration](https://camunda.com/blog/2026/01/guardrails-and-best-practices-for-agentic-orchestration/).
+39. **Knight**: Feng, McDonald and Zhang, Knight First Amendment Institute, five autonomy levels named after the human's role, 2025-07. [Levels of Autonomy for AI Agents](https://knightcolumbia.org/content/levels-of-autonomy-for-ai-agents-1).
 40. **Temporal**: deterministic workflow code with model and tool calls as replayable activities, 2025-11. [Of course you can build dynamic AI agents with Temporal](https://temporal.io/blog/of-course-you-can-build-dynamic-ai-agents-with-temporal).
