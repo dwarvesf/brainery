@@ -13,7 +13,7 @@ kind: reference
 draft: false
 ---
 
-This page is the single rule set for images and figures on memo. It applies to every post, whichever door it came through. [Contribute to memo](/contribute-to-memo) summarizes it in chapters 2 and 5, and the contributor skills link here instead of copying it.
+This page is the single rule set for images and figures on memo. It applies to every post, whichever door it came through. [Contribute to memo](/contribute-to-memo) summarizes it in chapters 2 and 5, and the contributor skills link here instead of copying it. The [post rubric](/memo-post-rubric) turns these rules, and the content rules around them, into a script and a checklist you run before review.
 
 Each rule names who it applies to and how to test it.
 
@@ -37,7 +37,7 @@ A rule that says target is a budget the editors check by hand. No automatic chec
 7. **Everyone.** No raster over 1600 pixels on the long edge. Test: `identify -format "%w x %h" <f>`.
 8. **Everyone, target.** A full-width raster is at least 704 pixels wide and at most 1600. Reason: the reading column is about 704 pixels, so a narrower image upscales and blurs.
 9. **Everyone, target.** An SVG is 60 KB or less. Over 150 KB needs a written reason in the pull request. Reason: across the 99 SVGs in the vault, the median is 4,735 bytes and the 90th percentile is 55,684.
-10. **Repo posts.** Author each SVG at a `viewBox` width of 720 to 760 with no fixed `width` or `height`, and add `style="width:100%;height:auto;max-width:<W>px;display:block"`. Test: `rg '<svg[^>]*\swidth="[0-9]+"'` finds nothing. Reason: a fixed-width SVG wider than the column overflows into the sidebar.
+10. **Repo posts.** Author each SVG at a `viewBox` width of 760 with no fixed `width` or `height`, and add `style="width:100%;height:auto;max-width:<W>px;display:block"`. Test: `rg '<svg[^>]*\swidth="[0-9]+"'` finds nothing. Reason: a fixed-width SVG wider than the column overflows into the sidebar.
 11. **Guest imports.** An inline SVG inside a `figure.fig` keeps a `viewBox` and sets no pixel width. Memo owns the figure box and ignores width, margin and transform rules from the writer. Test: the figure renders inside its 60rem cap with no page-level horizontal scroll.
 12. **Guest imports.** Wide content scrolls inside a `<div class="fk-scroll">`. Test: the rest of the figure keeps the plate width.
 13. **Everyone.** Name files `<slug>-figN-<name>.<ext>` for figures and `<slug>-<what>.<ext>` for screenshots. Test: `ls assets/` matches the pattern.
@@ -54,7 +54,7 @@ A rule that says target is a budget the editors check by hand. No automatic chec
 ## Alt text, captions and the hero image
 
 20. **Everyone, target.** Every image embed has non-empty alt text that says what the figure shows. Test: `rg '!\[\]\('` finds nothing in the post. Today 383 files in brainery contain an empty-alt image, so this is a standard to move toward.
-21. **Repo posts.** Put an italic `_Fig. N: caption._` line under each figure. Test: the line follows every figure embed.
+21. **Repo posts.** Give each figure a caption in its image title, with the head-figure form `![Title {#fig-id}](assets/x.svg 'Short title. Caption sentence.')`. The first sentence of the caption is the short title. Add no separate `_Fig. N_` line, and refer to the figure as `@fig-id`. Test: `post-check.mjs` prints no `fig-embed`, `fig-title` or `fig-line` warning.
 22. **Guest imports.** Use `figure.fig` with a `figcaption`, or the figure head block, for the caption. A plain `<figure><img>` loses its structure, and the caption becomes a plain paragraph. Test: the figure appears as one block on the live page.
 23. **Guest imports.** An inline SVG figure has `role="img"` plus an `aria-label`, or a `<title>` and `<desc>`. Every `data-tip` states a fact already in the text and adds no new number.
 24. **Everyone.** Use one hero image, and make it the first image in the body. It must still read at thumbnail size. Test: the first embed in the body is the intended hero.
@@ -124,6 +124,7 @@ Run this before approving any post, repo or imported.
 - [ ] Open the page in light and dark. No transparent figure floats on the dark theme and no edge is clipped.
 - [ ] Resize to a phone width. No page-level horizontal scroll, and wide parts scroll inside their own box.
 - [ ] Every image has real alt text, and every figure has a caption.
+- [ ] Run `node _meta/scripts/post-check.mjs <note>` and read the [post rubric](/memo-post-rubric) result for the figure, SVG and reference rules.
 - [ ] Check the hero. The first image reads at thumbnail size, and the share card is not the site default by accident.
 - [ ] Confirm credit for every image the author did not make, with no scraped images.
 - [ ] Guest import: read the preview warnings, including `dropped_images=N`, and ask the writer to fix `http:`, `data:` and `<img>`-in-figure cases.
