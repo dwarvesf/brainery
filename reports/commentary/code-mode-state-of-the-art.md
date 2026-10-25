@@ -84,12 +84,12 @@ Hold on to one more thing. The sandbox is fast and exact, and it is literal. It 
 
 Nothing in the inner loop knows whether the logic is right. Four layers catch mistakes, and only the last one has judgment.
 
-| Layer | When | What it catches | In the defu run |
-|---|---|---|---|
-| 1. The compiler | before the program runs | code that does not compile: unknown names, wrong argument shapes, syntax slips | no program tripped it; all nine compiled first time |
-| 2. The sandbox | while the program runs | exceptions, timeouts, memory overrun | none fired |
-| 3. Tests the model runs | inside the program | wrong logic that a test or a type covers | turn 8: tests, 24 of 24; turn 9: type check |
-| 4. The model reading the result | after the program returns | what the tests miss | turn 6 found the flag missing in the recursive calls; turn 7 fixed it |
+| Layer                           | When                      | What it catches                                                                | In the defu run                                                       |
+| ------------------------------- | ------------------------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
+| 1. The compiler                 | before the program runs   | code that does not compile: unknown names, wrong argument shapes, syntax slips | no program tripped it; all nine compiled first time                   |
+| 2. The sandbox                  | while the program runs    | exceptions, timeouts, memory overrun                                           | none fired                                                            |
+| 3. Tests the model runs         | inside the program        | wrong logic that a test or a type covers                                       | turn 8: tests, 24 of 24; turn 9: type check                           |
+| 4. The model reading the result | after the program returns | what the tests miss                                                            | turn 6 found the flag missing in the recursive calls; turn 7 fixed it |
 
 Layers 1 and 2 are mechanical and free. The compiler stops a program that cannot run; the sandbox stops one that runs away. Neither knows what the program was for.
 
@@ -113,18 +113,18 @@ The run is from our own bench [22], inside a container that was offline except f
 
 ![Ten turns: what each program called and how much came back {#fig-turn-strip .live}](assets/code-mode-state-of-the-art-fig4-turn-strip.svg 'Ten turns: what each program called and how much came back. Each turn is one program; the bar is how much text came back into context. Turns 3, 5, 8 and 9 return under 220 characters each because the program filtered its own output.')
 
-| Turn | What the model decided | What the program did | What came back |
-|---|---|---|---|
-| 1 | Look at the repo | Listed the directory, read the package file and the source, printed all three | 4,011 characters |
-| 2 | Read the tests, the types and the README | Read three files and printed them whole | 16,700 characters |
-| 3 | Does the README have an API section? How long is it? | One grep (no match) and a line count | 70 characters |
-| 4 | Implement the feature | One edit call, four blocks: helper, flag, factory wiring, export | The diff, 4,312 characters |
-| 5 | Add the test and the README line | Two edit calls, returned two booleans | 27 characters |
-| 6 | Verify the edit | Re-read the source and printed it | 2,584 characters |
-| 7 | The flag is not forwarded where the function calls itself; fix that | One edit call, two replace blocks | 1,260 characters |
-| 8 | Run the tests | Ran the suite, kept the last 3,000 characters of output | 218 characters: 2 files, 24 tests, passed |
-| 9 | Run the type check too | Ran it, printed one word on success | 53 characters: types OK |
-| 10 | Done; report | No program | |
+| Turn | What the model decided                                              | What the program did                                                          | What came back                            |
+| ---- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------- |
+| 1    | Look at the repo                                                    | Listed the directory, read the package file and the source, printed all three | 4,011 characters                          |
+| 2    | Read the tests, the types and the README                            | Read three files and printed them whole                                       | 16,700 characters                         |
+| 3    | Does the README have an API section? How long is it?                | One grep (no match) and a line count                                          | 70 characters                             |
+| 4    | Implement the feature                                               | One edit call, four blocks: helper, flag, factory wiring, export              | The diff, 4,312 characters                |
+| 5    | Add the test and the README line                                    | Two edit calls, returned two booleans                                         | 27 characters                             |
+| 6    | Verify the edit                                                     | Re-read the source and printed it                                             | 2,584 characters                          |
+| 7    | The flag is not forwarded where the function calls itself; fix that | One edit call, two replace blocks                                             | 1,260 characters                          |
+| 8    | Run the tests                                                       | Ran the suite, kept the last 3,000 characters of output                       | 218 characters: 2 files, 24 tests, passed |
+| 9    | Run the type check too                                              | Ran it, printed one word on success                                           | 53 characters: types OK                   |
+| 10   | Done; report                                                        | No program                                                                    |                                           |
 
 Turn 2 is where code mode bought nothing. The model wanted three files in its context, so the program printed them, and 16,700 characters came back. The saving only appears when the program chooses to filter.
 
@@ -153,16 +153,16 @@ Totals: 19,006 input tokens, 7,014 output tokens, $0.0053 billed, 44.5 seconds. 
 
 Now the same task and model with Pi's ordinary tools and no code mode.
 
-| | Plain Pi | pi-fabric |
-|---|---|---|
-| Turns | 8 | 10 |
-| Tool calls | 9 (read 4, shell 2, edit 3) | 9 programs |
-| Tokens in / out | 10,037 / 3,229 | 19,006 / 7,014 |
-| Billed cost | $0.0026 | $0.0053 |
-| Repo suite and held-out test | pass | pass |
-| Type check | fail, never run by the agent | pass, run by the agent |
-| Mean of 4: turns / cost | 10 / $0.0039 | 6.5 / $0.0046 |
-| Mean of 4: type check | 0 of 4 | 2 of 4 |
+|                              | Plain Pi                     | pi-fabric              |
+| ---------------------------- | ---------------------------- | ---------------------- |
+| Turns                        | 8                            | 10                     |
+| Tool calls                   | 9 (read 4, shell 2, edit 3)  | 9 programs             |
+| Tokens in / out              | 10,037 / 3,229               | 19,006 / 7,014         |
+| Billed cost                  | $0.0026                      | $0.0053                |
+| Repo suite and held-out test | pass                         | pass                   |
+| Type check                   | fail, never run by the agent | pass, run by the agent |
+| Mean of 4: turns / cost      | 10 / $0.0039                 | 6.5 / $0.0046          |
+| Mean of 4: type check        | 0 of 4                       | 2 of 4                 |
 
 ![Plain Pi against pi-fabric on the same task {#fig-s1-vs-s2}](assets/code-mode-state-of-the-art-fig5-s1-vs-s2.svg 'Plain Pi against pi-fabric on the same task. Turns and billed cost, this pair of runs and the mean of four. Code mode cut turns by about a third and cost about 18% more on average; on this pair it cost 2x.')
 
@@ -207,14 +207,14 @@ This is the shape Cloudflare argued for when it named the pattern [23]: the sand
 
 Every other code mode we could find walks the same six steps, with different answers at each. The differences that matter are where the code runs and who holds the credentials.
 
-| Step | pi-fabric | Cloudflare Code Mode SDK | Cloudflare Code Mode MCP | Anthropic tool search | Anthropic PTC | OpenAI PTC | smolagents CodeAgent | CodeAct |
-|---|---|---|---|---|---|---|---|---|
-| 1. What the model sees | one tool; prose guidance; a names-only index (about 1,900 tokens) | one code tool; generated TypeScript declarations in its description | search and execute tools, each taking code (about 1,100 tokens) | a search tool; deferred definitions stay out of the prompt | a code-execution tool; your tools as Python functions | a hosted program tool; your tools as JavaScript functions | a long system prompt; every tool as a Python stub | a ten-line prompt plus Python signatures |
-| 2. Discovery | search, describe and call from inside the program | runtime path only: search and describe | model JavaScript filters the OpenAPI spec in the sandbox | regex or BM25, server side; up to 10,000 deferred tools | not documented | top-level search only; not from a running program | none; every tool in every prompt | none; the model may install packages |
-| 3. Where the code runs | QuickJS in WebAssembly, in the Pi process; memory, stack and time limits | a V8 isolate on Cloudflare; network blocked; 60 s default | a fresh isolate per call; no filesystem, environment or network | no code | Anthropic container: Python 3.11, 5 GiB, 1 CPU, no internet; 90 s per cell | an OpenAI-hosted V8; no Node, network, filesystem or subprocess | a local AST interpreter ("not a security sandbox") or a remote executor | a Jupyter kernel in Docker, one per session |
-| 4. How a call crosses back | a Proxy makes one host call with JSON; the host resolves a promise | a Proxy over Workers RPC to a host dispatcher; JSON back | plain fetch; an outbound handler allows one host and injects the token | no code | the API pauses; your client runs the tool and replies with the result | the same pause and resume; you return the output with the caller copied | local: an in-process Python call; remote: the tool source ships into the sandbox | none; tools are functions in the same interpreter |
-| 5. What returns into context | print logs plus the return value as YAML; 50,000-character cap | result and logs; no cap by default; opt-in truncation near 6,000 tokens | the return value as text; about a 6,000-token cap | matching tool definitions, expanded inline | stdout, stderr and return code; intermediate results excluded | a program output with result and status | execution logs plus the last output; 20,000-character truncation | the execution output as the next observation |
-| 6. Errors | type errors return without running; runtime errors mapped to model line numbers | a host error rethrown in the sandbox; uncaught means a failure message; no retry | an error flag; scope step-up only when every request was a read | error codes; no match is an empty array | the tool's error string returns into the code; timeout near 4 minutes | guidance only; throw semantics not documented | a retry prompt; 20 steps max | the traceback is the observation |
+| Step                         | pi-fabric                                                                       | Cloudflare Code Mode SDK                                                         | Cloudflare Code Mode MCP                                               | Anthropic tool search                                      | Anthropic PTC                                                              | OpenAI PTC                                                              | smolagents CodeAgent                                                             | CodeAct                                           |
+| ---------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------- |
+| 1. What the model sees       | one tool; prose guidance; a names-only index (about 1,900 tokens)               | one code tool; generated TypeScript declarations in its description              | search and execute tools, each taking code (about 1,100 tokens)        | a search tool; deferred definitions stay out of the prompt | a code-execution tool; your tools as Python functions                      | a hosted program tool; your tools as JavaScript functions               | a long system prompt; every tool as a Python stub                                | a ten-line prompt plus Python signatures          |
+| 2. Discovery                 | search, describe and call from inside the program                               | runtime path only: search and describe                                           | model JavaScript filters the OpenAPI spec in the sandbox               | regex or BM25, server side; up to 10,000 deferred tools    | not documented                                                             | top-level search only; not from a running program                       | none; every tool in every prompt                                                 | none; the model may install packages              |
+| 3. Where the code runs       | QuickJS in WebAssembly, in the Pi process; memory, stack and time limits        | a V8 isolate on Cloudflare; network blocked; 60 s default                        | a fresh isolate per call; no filesystem, environment or network        | no code                                                    | Anthropic container: Python 3.11, 5 GiB, 1 CPU, no internet; 90 s per cell | an OpenAI-hosted V8; no Node, network, filesystem or subprocess         | a local AST interpreter ("not a security sandbox") or a remote executor          | a Jupyter kernel in Docker, one per session       |
+| 4. How a call crosses back   | a Proxy makes one host call with JSON; the host resolves a promise              | a Proxy over Workers RPC to a host dispatcher; JSON back                         | plain fetch; an outbound handler allows one host and injects the token | no code                                                    | the API pauses; your client runs the tool and replies with the result      | the same pause and resume; you return the output with the caller copied | local: an in-process Python call; remote: the tool source ships into the sandbox | none; tools are functions in the same interpreter |
+| 5. What returns into context | print logs plus the return value as YAML; 50,000-character cap                  | result and logs; no cap by default; opt-in truncation near 6,000 tokens          | the return value as text; about a 6,000-token cap                      | matching tool definitions, expanded inline                 | stdout, stderr and return code; intermediate results excluded              | a program output with result and status                                 | execution logs plus the last output; 20,000-character truncation                 | the execution output as the next observation      |
+| 6. Errors                    | type errors return without running; runtime errors mapped to model line numbers | a host error rethrown in the sandbox; uncaught means a failure message; no retry | an error flag; scope step-up only when every request was a read        | error codes; no match is an empty array                    | the tool's error string returns into the code; timeout near 4 minutes      | guidance only; throw semantics not documented                           | a retry prompt; 20 steps max                                                     | the traceback is the observation                  |
 
 ![The same six steps across eight implementations {#fig-lifecycle-grid}](assets/code-mode-state-of-the-art-fig8-lifecycle-grid.svg 'The same six steps across eight implementations. Where the code runs and how a call crosses back, per implementation. Three families: a local sandbox with a host bridge, a hosted runtime with API pause and resume, and no boundary at all.')
 
@@ -276,12 +276,12 @@ Code mode pays when a task reads many results to produce a small answer, and it 
 
 The DNSSEC bench [20] is the easy case: one question, a wide fan-out, a tiny answer. A mock Cloudflare account with N zones, 100 distractor tools, the model `claude-sonnet-5-5`, three repeats per cell, and four ways to expose the same two tools.
 
-| Mode | Input tokens, N=10 | Input tokens, N=100 | Cost USD, N=10 | Cost USD, N=100 | Correct, 9 runs |
-|---|---|---|---|---|---|
-| native | 101,545 | 233,719 | 0.211 | 0.551 | 3 of 9 |
-| tool search | 26,212 | 159,424 | 0.061 | 0.415 | 6 of 9 |
-| Anthropic PTC | 10,305 | 10,536 | 0.023 | 0.023 | 9 of 9 |
-| DIY code mode | 6,732 | 6,729 | 0.016 | 0.016 | 9 of 9 |
+| Mode          | Input tokens, N=10 | Input tokens, N=100 | Cost USD, N=10 | Cost USD, N=100 | Correct, 9 runs |
+| ------------- | ------------------ | ------------------- | -------------- | --------------- | --------------- |
+| native        | 101,545            | 233,719             | 0.211          | 0.551           | 3 of 9          |
+| tool search   | 26,212             | 159,424             | 0.061          | 0.415           | 6 of 9          |
+| Anthropic PTC | 10,305             | 10,536              | 0.023          | 0.023           | 9 of 9          |
+| DIY code mode | 6,732              | 6,729               | 0.016          | 0.016           | 9 of 9          |
 
 ![Input tokens against zone count for the four modes {#fig-tokens-vs-n}](assets/code-mode-state-of-the-art-fig9-tokens-vs-n.svg 'Input tokens against zone count for the four modes. Input tokens per task against zone count, log scale. Native and tool search climb with N; both code modes are flat. Means over 3 runs; the full matrix is in the appendix.')
 
@@ -317,32 +317,32 @@ Everything source-level the body leaves out, as tables. Identifiers live in the 
 
 ### Bench setup
 
-| Setting | The defu run | The DNSSEC bench |
-|---|---|---|
-| Harness | `pi-stack-trial` Phase 2 [22] | `code-mode-bench` [20] |
-| Task | add `defuUniqueArray` to `unjs/defu` at v6.1.7 (commit `82632b6`), test, README line, run `pnpm vitest run` | find zones without DNSSEC active in a mock Cloudflare account answering instantly |
-| Model | `deepseek-v4-flash` via NeuralWatt | `claude-sonnet-5-5` |
-| Versions | Pi 1.0.4, pi-fabric 0.109.3 | DIY sandbox on `node:vm`, a convenience and no boundary |
-| Environment | Apple container, offline except the model call | 100 distractor tools; PTC distractors deferred, PTC container time not costed |
-| Runs | S1-baseline and S1-rep1 to rep3 (plain Pi); S2-fabric and S2-rep1 to rep3 (pi-fabric); the run shown is S2-fabric | three repeats per cell, N in 10, 30, 100, four modes; 36 main-matrix runs |
-| Acceptance | held-out test in a fresh container: 3 files, 30 tests, exit 0; type check `tsgo --noEmit`, exit 0 | correct zone list |
-| Cost | $0.0053 billed for S2-fabric; 122,880 cache-read tokens | $5.38 total |
-| Trace source | `README.md` and session traces in `lab/runs/`; fan-out timings from the S2-rep1 trace | `README.md`, `results/summary.md` and four `results/trace-*-n30.md` files |
+| Setting      | The defu run                                                                                                      | The DNSSEC bench                                                                  |
+| ------------ | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Harness      | `pi-stack-trial` Phase 2 [22]                                                                                     | `code-mode-bench` [20]                                                            |
+| Task         | add `defuUniqueArray` to `unjs/defu` at v6.1.7 (commit `82632b6`), test, README line, run `pnpm vitest run`       | find zones without DNSSEC active in a mock Cloudflare account answering instantly |
+| Model        | `deepseek-v4-flash` via NeuralWatt                                                                                | `claude-sonnet-5-5`                                                               |
+| Versions     | Pi 1.0.4, pi-fabric 0.109.3                                                                                       | DIY sandbox on `node:vm`, a convenience and no boundary                           |
+| Environment  | Apple container, offline except the model call                                                                    | 100 distractor tools; PTC distractors deferred, PTC container time not costed     |
+| Runs         | S1-baseline and S1-rep1 to rep3 (plain Pi); S2-fabric and S2-rep1 to rep3 (pi-fabric); the run shown is S2-fabric | three repeats per cell, N in 10, 30, 100, four modes; 36 main-matrix runs         |
+| Acceptance   | held-out test in a fresh container: 3 files, 30 tests, exit 0; type check `tsgo --noEmit`, exit 0                 | correct zone list                                                                 |
+| Cost         | $0.0053 billed for S2-fabric; 122,880 cache-read tokens                                                           | $5.38 total                                                                       |
+| Trace source | `README.md` and session traces in `lab/runs/`; fan-out timings from the S2-rep1 trace                             | `README.md`, `results/summary.md` and four `results/trace-*-n30.md` files         |
 
 ### The defu run, per turn
 
-| Turn | Tokens in | Tokens out | Characters back | Note |
-|---|---|---|---|---|
-| 1 | 3,782 | 136 | 4,011 | three sequential reads |
-| 2 | 1,691 | 142 | 16,700 | whole files printed |
-| 3 | 5,591 | 1,816 | 70 | 9.3 s of model time, the design turn |
-| 4 | 277 | 2,580 | 4,312 | one edit, four blocks |
-| 5 | 3,984 | 706 | 27 | two edits, two booleans |
-| 6 | 870 | 79 | 2,584 | re-read, the read in @fig-callstack-single |
-| 7 | 839 | 587 | 1,260 | the recursion fix |
-| 8 | 1,086 | 95 | 218 | vitest, last 3,000 chars kept |
-| 9 | 249 | 351 | 53 | type check, `settle: true` so a nonzero exit would not throw |
-| 10 | 637 | 522 | none | final report, no program |
+| Turn | Tokens in | Tokens out | Characters back | Note                                                         |
+| ---- | --------- | ---------- | --------------- | ------------------------------------------------------------ |
+| 1    | 3,782     | 136        | 4,011           | three sequential reads                                       |
+| 2    | 1,691     | 142        | 16,700          | whole files printed                                          |
+| 3    | 5,591     | 1,816      | 70              | 9.3 s of model time, the design turn                         |
+| 4    | 277       | 2,580      | 4,312           | one edit, four blocks                                        |
+| 5    | 3,984     | 706        | 27              | two edits, two booleans                                      |
+| 6    | 870       | 79         | 2,584           | re-read, the read in @fig-callstack-single                   |
+| 7    | 839       | 587        | 1,260           | the recursion fix                                            |
+| 8    | 1,086     | 95         | 218             | vitest, last 3,000 chars kept                                |
+| 9    | 249       | 351        | 53              | type check, `settle: true` so a nonzero exit would not throw |
+| 10   | 637       | 522        | none            | final report, no program                                     |
 
 Turn 4, trimmed to the two blocks that matter:
 
@@ -367,11 +367,11 @@ const t = await pi.bash({ cmd: 'cd /work/defu && pnpm test:types 2>&1', timeout:
 console.log(t.exitCode === 0 ? 'types: OK' : t.output.slice(-2000));
 ```
 
-| Run | Reads | Started at | Finished at | Turns | Type check |
-|---|---|---|---|---|---|
-| S2-fabric | sequential awaits | +4, +15, +25 ms | in order | 10 | pass |
-| S2-rep1 | `Promise.all` of three reads, turns 1 and 2 (@fig-callstack-fanout) | +5, +5, +6 ms | +18 (test), +26 (src), +32 (README) ms | 6 | pass |
-| S1-baseline | plain Pi tools | | | 8 | fail, `TS2322`, never run by the agent |
+| Run         | Reads                                                               | Started at      | Finished at                            | Turns | Type check                             |
+| ----------- | ------------------------------------------------------------------- | --------------- | -------------------------------------- | ----- | -------------------------------------- |
+| S2-fabric   | sequential awaits                                                   | +4, +15, +25 ms | in order                               | 10    | pass                                   |
+| S2-rep1     | `Promise.all` of three reads, turns 1 and 2 (@fig-callstack-fanout) | +5, +5, +6 ms   | +18 (test), +26 (src), +32 (README) ms | 6     | pass                                   |
+| S1-baseline | plain Pi tools                                                      |                 |                                        | 8     | fail, `TS2322`, never run by the agent |
 
 Trace drops: 3 to 5 values per program.
 
@@ -379,61 +379,61 @@ Trace drops: 3 to 5 values per program.
 
 Read at commit [`ee558be9`](https://github.com/fabric-runtime/pi-fabric/tree/ee558be9ed9d3483a119d7d1772c3d1efa106ced) (v0.120.0, 2026-10-23); the bench ran v0.109.3 at `b74d6fd9`. The six steps are the same in both.
 
-| File | Change between v0.109.3 and v0.120.0 |
-|---|---|
-| `quickjs-runtime.ts` | +21 / -2 |
-| `execution-service.ts` | +25 / -11 |
-| `fabric-exec-tool.ts` | +3 / -3 |
-| `system-guidance.ts`, `type-checker.ts`, `speculation/*`, `compact-controller.ts`, `output-budget.ts` | unchanged |
+| File                                                                                                  | Change between v0.109.3 and v0.120.0 |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| `quickjs-runtime.ts`                                                                                  | +21 / -2                             |
+| `execution-service.ts`                                                                                | +25 / -11                            |
+| `fabric-exec-tool.ts`                                                                                 | +3 / -3                              |
+| `system-guidance.ts`, `type-checker.ts`, `speculation/*`, `compact-controller.ts`, `output-budget.ts` | unchanged                            |
 
 **Step 1: what the model sees**
 
-| What we checked | What the source does | Where |
-|---|---|---|
-| The one tool | registers a single model-visible tool whose argument is a program | [fabric-exec-tool.ts:152](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/fabric-exec-tool.ts#L152) |
-| Default mode | "full code mode" is the shipped default | [config.ts:486](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/config.ts#L486) |
-| Where other tools go | every other registered tool moves under a hidden-declarations list; inside the program Pi's tools are `pi.read`, `pi.bash`, `pi.edit` and so on, MCP servers are `mcp.<server>.<tool>`, other extensions are `extensions.<name>` | [tool-ownership.ts:23-47](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/core/tool-ownership.ts#L23-L47) |
-| Schema shape | a code string plus a few scalars (`payloads`, `resultFormat`, `timeoutMs`, `maxOutputTokens`, `display`), no extra properties allowed; a comment says strong models "can invent trailing keys at the highest-entropy point of a nested escaped-JSON field", so there are no nested arrays of objects | [fabric-exec-tool.ts:203-264](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/fabric-exec-tool.ts#L203-L264) |
-| The guidance text | six guideline lines, a usage paragraph, a names-only roster; the comment says "the standing prompt cost is a bare name index. Descriptions and schemas are on demand through tools.list/search/describe." | [system-guidance.ts:74-114](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/core/system-guidance.ts#L74-L114) |
-| The one-line rule quoted in @sec-what-code-mode-is-two-loops | "Return only the compact final value; intermediate results stay in the sandbox." | [fabric-exec-tool.ts:176](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/fabric-exec-tool.ts#L176) |
-| The 1,900-token figure | our count of the static string literals at those lines, about 7.5 KB at the 4-characters-per-token estimate the repo uses; the dynamic parts (names roster, folded guidelines from hidden tools) grow with your setup; we did not run Pi to measure the live prompt | same lines |
-| Cache stability | turn-varying text rides a message, not the system prompt | [extension.ts:1096-1122](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/extension.ts#L1096-L1122) |
+| What we checked                                              | What the source does                                                                                                                                                                                                                                                                                 | Where                                                                                                                                                       |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The one tool                                                 | registers a single model-visible tool whose argument is a program                                                                                                                                                                                                                                    | [fabric-exec-tool.ts:152](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/fabric-exec-tool.ts#L152)           |
+| Default mode                                                 | "full code mode" is the shipped default                                                                                                                                                                                                                                                              | [config.ts:486](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/config.ts#L486)                               |
+| Where other tools go                                         | every other registered tool moves under a hidden-declarations list; inside the program Pi's tools are `pi.read`, `pi.bash`, `pi.edit` and so on, MCP servers are `mcp.<server>.<tool>`, other extensions are `extensions.<name>`                                                                     | [tool-ownership.ts:23-47](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/core/tool-ownership.ts#L23-L47)     |
+| Schema shape                                                 | a code string plus a few scalars (`payloads`, `resultFormat`, `timeoutMs`, `maxOutputTokens`, `display`), no extra properties allowed; a comment says strong models "can invent trailing keys at the highest-entropy point of a nested escaped-JSON field", so there are no nested arrays of objects | [fabric-exec-tool.ts:203-264](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/fabric-exec-tool.ts#L203-L264)  |
+| The guidance text                                            | six guideline lines, a usage paragraph, a names-only roster; the comment says "the standing prompt cost is a bare name index. Descriptions and schemas are on demand through tools.list/search/describe."                                                                                            | [system-guidance.ts:74-114](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/core/system-guidance.ts#L74-L114) |
+| The one-line rule quoted in @sec-what-code-mode-is-two-loops | "Return only the compact final value; intermediate results stay in the sandbox."                                                                                                                                                                                                                     | [fabric-exec-tool.ts:176](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/fabric-exec-tool.ts#L176)           |
+| The 1,900-token figure                                       | our count of the static string literals at those lines, about 7.5 KB at the 4-characters-per-token estimate the repo uses; the dynamic parts (names roster, folded guidelines from hidden tools) grow with your setup; we did not run Pi to measure the live prompt                                  | same lines                                                                                                                                                  |
+| Cache stability                                              | turn-varying text rides a message, not the system prompt                                                                                                                                                                                                                                             | [extension.ts:1096-1122](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/extension.ts#L1096-L1122)            |
 
 **Step 2: repair and type-check**
 
-| What we checked | What the source does | Where |
-|---|---|---|
-| Repair pass | fixes unquoted paths and Unicode quotes before compiling | [guest-code-repair.ts:325-335](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/guest-code-repair.ts#L325-L335) |
-| Repeat guard | warns at three identical programs in a row, blocks at six; the comment says it was written after a model burned a session on 220 identical no-op shell calls | [repeat-guard.ts:5-12](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/repeat-guard.ts#L5-L12) |
-| Compile | wraps the body in an async main function and compiles with the real TypeScript program API against a generated declaration file covering every tool surface, live MCP schemas included; emits JavaScript plus a source map used to remap runtime traces | [type-checker.ts:114-160](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/type-checker.ts#L114-L160) |
-| Error return | errors go back as text flagged as an error; nothing runs | [fabric-exec-tool.ts:970-993](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/fabric-exec-tool.ts#L970-L993) |
-| What the gate filters | a set of type-correctness diagnostics (property-missing 2339, assignability 2322 and 2345, null checks, implicit-any) is dropped unless a flag is set, and the tool passes it off; strict mode is off | [type-checker.ts:35-40](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/type-checker.ts#L35-L40), [typescript-kernel.ts:31](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/typescript-kernel.ts#L31) |
-| Runtime fallback | a method call on a result envelope is caught at runtime by a Proxy that throws a readable TypeError | [quickjs-runtime.ts:204-228](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/quickjs-runtime.ts#L204-L228) |
+| What we checked       | What the source does                                                                                                                                                                                                                                    | Where                                                                                                                                                                                                                                                                                                             |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Repair pass           | fixes unquoted paths and Unicode quotes before compiling                                                                                                                                                                                                | [guest-code-repair.ts:325-335](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/guest-code-repair.ts#L325-L335)                                                                                                                                              |
+| Repeat guard          | warns at three identical programs in a row, blocks at six; the comment says it was written after a model burned a session on 220 identical no-op shell calls                                                                                            | [repeat-guard.ts:5-12](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/repeat-guard.ts#L5-L12)                                                                                                                                                                      |
+| Compile               | wraps the body in an async main function and compiles with the real TypeScript program API against a generated declaration file covering every tool surface, live MCP schemas included; emits JavaScript plus a source map used to remap runtime traces | [type-checker.ts:114-160](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/type-checker.ts#L114-L160)                                                                                                                                                        |
+| Error return          | errors go back as text flagged as an error; nothing runs                                                                                                                                                                                                | [fabric-exec-tool.ts:970-993](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/fabric-exec-tool.ts#L970-L993)                                                                                                                                                        |
+| What the gate filters | a set of type-correctness diagnostics (property-missing 2339, assignability 2322 and 2345, null checks, implicit-any) is dropped unless a flag is set, and the tool passes it off; strict mode is off                                                   | [type-checker.ts:35-40](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/type-checker.ts#L35-L40), [typescript-kernel.ts:31](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/typescript-kernel.ts#L31) |
+| Runtime fallback      | a method call on a result envelope is caught at runtime by a Proxy that throws a readable TypeError                                                                                                                                                     | [quickjs-runtime.ts:204-228](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/quickjs-runtime.ts#L204-L228)                                                                                                                                                  |
 
 ![The gate: repair, type-check, transpile {#fig-type-gate}](assets/code-mode-state-of-the-art-figa1-type-gate.svg 'The gate: repair, type-check, transpile. Code that fails to compile returns as text and never runs. The gate checks names and shapes; type mismatches are filtered out by default.')
 
 **Step 3: the sandbox**
 
-| What we checked | What the source does | Where |
-|---|---|---|
-| Lifetime | a fresh context per call, disposed in a finally block | [quickjs-runtime.ts:884](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/quickjs-runtime.ts#L884), [:1277](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/quickjs-runtime.ts#L1277) |
-| Memory limit | 64 MiB | [config.ts:499](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/config.ts#L499) |
-| Stack limit | 256 KiB | [quickjs-runtime.ts:899](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/quickjs-runtime.ts#L899) |
-| Deadline | 120 s default, 900 s max; enforced by an engine interrupt handler and a host timer racing the program promise; it can only grow (a per-call timeout, known slow host calls, a paused approval prompt) | [config.ts:494-495](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/config.ts#L494-L495), [quickjs-runtime.ts:900-909](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/quickjs-runtime.ts#L900-L909) |
-| No process object | a test asserts it is undefined inside the guest | [quickjs-runtime.test.ts:427-434](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/tests/quickjs-runtime.test.ts#L427-L434) |
-| Bridge removal | the injected host function is deleted from the guest global object once captured | [quickjs-runtime.ts:82](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/quickjs-runtime.ts#L82) |
-| Guest globals | `pi`, `tools`, `mcp`, `extensions`, `memory`, `state`, `compact`, `agents`, `mesh`, `print`, `π` for payloads, and `setTimeout` shims that are host timers | same file |
+| What we checked   | What the source does                                                                                                                                                                                  | Where                                                                                                                                                                                                                                                                                                    |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Lifetime          | a fresh context per call, disposed in a finally block                                                                                                                                                 | [quickjs-runtime.ts:884](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/quickjs-runtime.ts#L884), [:1277](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/quickjs-runtime.ts#L1277)         |
+| Memory limit      | 64 MiB                                                                                                                                                                                                | [config.ts:499](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/config.ts#L499)                                                                                                                                                                            |
+| Stack limit       | 256 KiB                                                                                                                                                                                               | [quickjs-runtime.ts:899](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/quickjs-runtime.ts#L899)                                                                                                                                                  |
+| Deadline          | 120 s default, 900 s max; enforced by an engine interrupt handler and a host timer racing the program promise; it can only grow (a per-call timeout, known slow host calls, a paused approval prompt) | [config.ts:494-495](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/config.ts#L494-L495), [quickjs-runtime.ts:900-909](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/quickjs-runtime.ts#L900-L909) |
+| No process object | a test asserts it is undefined inside the guest                                                                                                                                                       | [quickjs-runtime.test.ts:427-434](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/tests/quickjs-runtime.test.ts#L427-L434)                                                                                                                                     |
+| Bridge removal    | the injected host function is deleted from the guest global object once captured                                                                                                                      | [quickjs-runtime.ts:82](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/quickjs-runtime.ts#L82)                                                                                                                                                    |
+| Guest globals     | `pi`, `tools`, `mcp`, `extensions`, `memory`, `state`, `compact`, `agents`, `mesh`, `print`, `π` for payloads, and `setTimeout` shims that are host timers                                            | same file                                                                                                                                                                                                                                                                                                |
 
 ![A fresh QuickJS context with limits and no escape {#fig-quickjs-box}](assets/code-mode-state-of-the-art-figa2-quickjs-box.svg 'A fresh QuickJS context with limits and no escape. The guest has memory, stack and time limits, a fixed set of globals, and no filesystem, network or process. The bridge function is removed after capture.')
 
 **Step 4: the bridge**
 
-| What we checked | What the source does | Where |
-|---|---|---|
-| The Proxy | normalizes arguments (aliases, positional forms, numeric strings) and forwards one call with a string ref and JSON | [quickjs-runtime.ts:98-103](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/quickjs-runtime.ts#L98-L103), [:229-267](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/quickjs-runtime.ts#L229-L267) |
-| The host function | reads the ref, dumps the arguments out of the engine as JSON, creates an engine promise and returns its handle at once; on success serializes the result, parses it inside the guest, resolves, and pumps pending jobs; on failure builds a guest error and rejects | [quickjs-runtime.ts:1003-1077](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/quickjs-runtime.ts#L1003-L1077) |
-| Serialization | JSON only: dates, maps, functions and undefined inside objects do not survive; non-finite numbers become null | same function |
-| Concurrency | several pending handles become concurrent host tasks in a task set; a test proves the fan-out | [quickjs-runtime.test.ts:56-81](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/tests/quickjs-runtime.test.ts#L56-L81) |
+| What we checked   | What the source does                                                                                                                                                                                                                                                | Where                                                                                                                                                                                                                                                                                                          |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The Proxy         | normalizes arguments (aliases, positional forms, numeric strings) and forwards one call with a string ref and JSON                                                                                                                                                  | [quickjs-runtime.ts:98-103](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/quickjs-runtime.ts#L98-L103), [:229-267](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/quickjs-runtime.ts#L229-L267) |
+| The host function | reads the ref, dumps the arguments out of the engine as JSON, creates an engine promise and returns its handle at once; on success serializes the result, parses it inside the guest, resolves, and pumps pending jobs; on failure builds a guest error and rejects | [quickjs-runtime.ts:1003-1077](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/quickjs-runtime.ts#L1003-L1077)                                                                                                                                           |
+| Serialization     | JSON only: dates, maps, functions and undefined inside objects do not survive; non-finite numbers become null                                                                                                                                                       | same function                                                                                                                                                                                                                                                                                                  |
+| Concurrency       | several pending handles become concurrent host tasks in a task set; a test proves the fan-out                                                                                                                                                                       | [quickjs-runtime.test.ts:56-81](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/tests/quickjs-runtime.test.ts#L56-L81)                                                                                                                                               |
 
 The guest-side path of one call:
 
@@ -444,30 +444,30 @@ pi.read(x)  →  Proxy get "read"  →  __call("pi.read", args)
 
 The call stack behind @fig-callstack-single, nine frames in push order, with what happens as each pops:
 
-| Frame | Pushed | Popped |
-|---|---|---|
-| 1 | the model emits the tool call; Pi validates and repairs the arguments | the model sees one result string |
-| 2 | the tool's execute function begins ([fabric-exec-tool.ts:844](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/fabric-exec-tool.ts#L844)) | logs and YAML value formatted under the 50,000-character cap |
-| 3 | repair and type-check | hands JavaScript plus a source map onward, pops at once |
-| 4 | the runtime opens a fresh context | the context is disposed |
-| 5 | the transpiled main function starts inside the guest | the program ends |
-| 6 | the read call hits the Proxy | the await returns, the program runs its second line |
-| 7 | the host function carries ref and JSON across the WASM boundary, returns a promise handle | the text crosses back as JSON and the job queue resumes the guest |
-| 8 | the registry runs the host pipeline | the result is bounded to 2,000,000 characters |
-| 9 | Pi's own read tool reads the file | the file text returns |
+| Frame | Pushed                                                                                                                                                                                 | Popped                                                            |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| 1     | the model emits the tool call; Pi validates and repairs the arguments                                                                                                                  | the model sees one result string                                  |
+| 2     | the tool's execute function begins ([fabric-exec-tool.ts:844](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/fabric-exec-tool.ts#L844)) | logs and YAML value formatted under the 50,000-character cap      |
+| 3     | repair and type-check                                                                                                                                                                  | hands JavaScript plus a source map onward, pops at once           |
+| 4     | the runtime opens a fresh context                                                                                                                                                      | the context is disposed                                           |
+| 5     | the transpiled main function starts inside the guest                                                                                                                                   | the program ends                                                  |
+| 6     | the read call hits the Proxy                                                                                                                                                           | the await returns, the program runs its second line               |
+| 7     | the host function carries ref and JSON across the WASM boundary, returns a promise handle                                                                                              | the text crosses back as JSON and the job queue resumes the guest |
+| 8     | the registry runs the host pipeline                                                                                                                                                    | the result is bounded to 2,000,000 characters                     |
+| 9     | Pi's own read tool reads the file                                                                                                                                                      | the file text returns                                             |
 
 In @fig-callstack-fanout, three handles exist before any host work finishes, the guest parks on a single await, each completion resolves its own promise and pumps the job queue, and the combined promise settles on the third with the results in call order.
 
 **Step 5: the host pipeline**
 
-| What we checked | What the source does | Where |
-|---|---|---|
-| One pipeline | resolve, guard, prepare, validate, approve, invoke, post, for every kind of tool | [action-registry.ts:850-1157](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/core/action-registry.ts#L850-L1157) |
-| Pi tools | the provider builds Pi's own tool definitions and replays Pi's native tool lifecycle | [pi-tools-provider.ts:288-297](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/providers/pi-tools-provider.ts#L288-L297) |
-| MCP and agents | MCP goes through mcporter; an agent call spawns a child process | same registry |
-| Failure semantics | a failed core call throws into the guest; a nonzero shell exit throws unless the program asked to settle | same registry |
-| Approval classes | five risk classes (read, write, execute, network, agent), each allow, ask, auto or deny; shipped default allow for all five | [config.ts:504-510](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/config.ts#L504-L510) |
-| The two sentences quoted in @sec-when-it-pays-and-when-it-does-not | "Hiding a tool schema optimizes context. It does not sandbox anything" and "Type checking improves reliability. It is not a security boundary" | [architecture.md:129-132](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/docs/architecture.md#L129-L132) |
+| What we checked                                                    | What the source does                                                                                                                           | Where                                                                                                                                                                  |
+| ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| One pipeline                                                       | resolve, guard, prepare, validate, approve, invoke, post, for every kind of tool                                                               | [action-registry.ts:850-1157](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/core/action-registry.ts#L850-L1157)        |
+| Pi tools                                                           | the provider builds Pi's own tool definitions and replays Pi's native tool lifecycle                                                           | [pi-tools-provider.ts:288-297](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/providers/pi-tools-provider.ts#L288-L297) |
+| MCP and agents                                                     | MCP goes through mcporter; an agent call spawns a child process                                                                                | same registry                                                                                                                                                          |
+| Failure semantics                                                  | a failed core call throws into the guest; a nonzero shell exit throws unless the program asked to settle                                       | same registry                                                                                                                                                          |
+| Approval classes                                                   | five risk classes (read, write, execute, network, agent), each allow, ask, auto or deny; shipped default allow for all five                    | [config.ts:504-510](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/config.ts#L504-L510)                                 |
+| The two sentences quoted in @sec-when-it-pays-and-when-it-does-not | "Hiding a tool schema optimizes context. It does not sandbox anything" and "Type checking improves reliability. It is not a security boundary" | [architecture.md:129-132](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/docs/architecture.md#L129-L132)                    |
 
 ```text
 resolve   parse "pi.edit", find the descriptor, suggest near names on a miss
@@ -483,12 +483,12 @@ post      result middleware, bound to 2,000,000 chars, audit record
 
 **Step 6: what comes back**
 
-| What we checked | What the source does | Where |
-|---|---|---|
-| Result string | print logs, then the return value as YAML, then any runtime error line; multiline strings hoisted out of the YAML under path headers | [fabric-exec-tool.ts:921-1010](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/fabric-exec-tool.ts#L921-L1010) |
-| Cap | 50,000 characters, or four times the requested output tokens if smaller; 20,000 on failure | [config.ts:500](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/config.ts#L500) |
-| Overflow | the full text goes to a mode-0600 temp file; the visible text keeps head and tail and ends with the path | same function |
-| Partial failure | the error text lists the completed refs so the model does not repeat side effects | same function |
+| What we checked | What the source does                                                                                                                 | Where                                                                                                                                                        |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Result string   | print logs, then the return value as YAML, then any runtime error line; multiline strings hoisted out of the YAML under path headers | [fabric-exec-tool.ts:921-1010](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/fabric-exec-tool.ts#L921-L1010) |
+| Cap             | 50,000 characters, or four times the requested output tokens if smaller; 20,000 on failure                                           | [config.ts:500](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/config.ts#L500)                                |
+| Overflow        | the full text goes to a mode-0600 temp file; the visible text keeps head and tail and ends with the path                             | same function                                                                                                                                                |
+| Partial failure | the error text lists the completed refs so the model does not repeat side effects                                                    | same function                                                                                                                                                |
 
 ```text
 [Full output (183,402 chars) saved to: /tmp/pi-fabric-output-….txt]
@@ -498,65 +498,65 @@ post      result middleware, bound to 2,000,000 chars, audit record
 
 **Beyond one call**
 
-| Feature | What the source does | Where |
-|---|---|---|
-| Namespaces | search, describe and call for discovery; recall over past sessions; hypothesize, verify and commit for evidence-gated edits; a mesh of shared topics; workflow and parallel helpers over child agents | [quickjs-runtime.ts:439-735](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/quickjs-runtime.ts#L439-L735) |
-| Child agents | run is spawn then wait: a separate Pi process in RPC mode with its own program tool, reporting back through files the manager polls | [manager.ts:1500-1520](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/agents/manager.ts#L1500-L1520) |
-| [Speculation](#ref-15) | a stream tap watches the code field as it arrives and launches any completed literal-argument call from a closed set of 21 read-only actions; take-once store, 180 s TTL, invalidated by any effectful call; on by default | [eligibility.ts:9-31](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/speculation/eligibility.ts#L9-L31) |
-| Compaction | the program records an intent and touches nothing; the host commits it when the agent settles; "The model cannot compact the running context directly. It can only ask." | [compact-controller.ts:111-132](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/core/compact-controller.ts#L111-L132) |
-| Entropy and repairs | a silent spell-checker for tool arguments, bounded by "the result must pass the original schema"; neither hides a tool nor narrows a schema | [entropy.md](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/docs/entropy.md) |
+| Feature                | What the source does                                                                                                                                                                                                       | Where                                                                                                                                                               |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Namespaces             | search, describe and call for discovery; recall over past sessions; hypothesize, verify and commit for evidence-gated edits; a mesh of shared topics; workflow and parallel helpers over child agents                      | [quickjs-runtime.ts:439-735](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/quickjs-runtime.ts#L439-L735)    |
+| Child agents           | run is spawn then wait: a separate Pi process in RPC mode with its own program tool, reporting back through files the manager polls                                                                                        | [manager.ts:1500-1520](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/agents/manager.ts#L1500-L1520)                 |
+| [Speculation](#ref-15) | a stream tap watches the code field as it arrives and launches any completed literal-argument call from a closed set of 21 read-only actions; take-once store, 180 s TTL, invalidated by any effectful call; on by default | [eligibility.ts:9-31](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/speculation/eligibility.ts#L9-L31)              |
+| Compaction             | the program records an intent and touches nothing; the host commits it when the agent settles; "The model cannot compact the running context directly. It can only ask."                                                   | [compact-controller.ts:111-132](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/core/compact-controller.ts#L111-L132) |
+| Entropy and repairs    | a silent spell-checker for tool arguments, bounded by "the result must pass the original schema"; neither hides a tool nor narrows a schema                                                                                | [entropy.md](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/docs/entropy.md)                                             |
 
 ### Doc-vs-source findings
 
-| Docs say | Source does | Where |
-|---|---|---|
-| README: "TypeScript is statically checked before execution" | true in the narrow sense: type-correctness diagnostics are filtered out and strict mode is off, so a wrong type passes the gate and fails at runtime | [type-checker.ts:35-40](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/type-checker.ts#L35-L40) |
-| README: "Guardrails: Approvals, isolation, timeouts", reading as protective by default | all five approval classes ship as allow; nothing prompts until you tighten | [config.ts:504-510](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/config.ts#L504-L510) |
-| Default config sample: output cap 100,000 characters | the source default and the architecture doc both say 50,000 | [config.ts:500](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/config.ts#L500), `docs/configuration.md` |
+| Docs say                                                                               | Source does                                                                                                                                          | Where                                                                                                                                                  |
+| -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| README: "TypeScript is statically checked before execution"                            | true in the narrow sense: type-correctness diagnostics are filtered out and strict mode is off, so a wrong type passes the gate and fails at runtime | [type-checker.ts:35-40](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/runtime/type-checker.ts#L35-L40) |
+| README: "Guardrails: Approvals, isolation, timeouts", reading as protective by default | all five approval classes ship as allow; nothing prompts until you tighten                                                                           | [config.ts:504-510](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/config.ts#L504-L510)                 |
+| Default config sample: output cap 100,000 characters                                   | the source default and the architecture doc both say 50,000                                                                                          | [config.ts:500](https://github.com/fabric-runtime/pi-fabric/blob/ee558be9ed9d3483a119d7d1772c3d1efa106ced/src/config.ts#L500), `docs/configuration.md` |
 
 ### Lifecycle grid, identifiers behind the plain-words cells
 
 Read from source files and API docs fetched on 2026-10-24 ([23] to [30]); "not documented" means we looked and the page or repo does not state it. Cells the grid shortens: prompt size is not documented for the Cloudflare SDK, Anthropic tool search, Anthropic PTC and OpenAI PTC; runtime limits are not documented for the two Cloudflare sandboxes, OpenAI PTC, remote smolagents executors and CodeAct; output caps are not documented for Anthropic PTC, OpenAI PTC and CodeAct; the Cloudflare MCP console channel is not documented.
 
-| Implementation | Identifiers | Source |
-|---|---|---|
-| Cloudflare Code Mode SDK | the docs say the single-tool pattern "works well when the generated type declarations fit comfortably"; the opt-in cap is `truncateResult`; files read: `src/shared.ts`, `src/executor.ts`, `src/run-code.ts` | [23] |
-| Cloudflare Code Mode MCP | tools `search` and `execute` (now also `docs`, `whoami`); outbound handler `globalOutbound`; flag `replaySafe`; cut marker `--- TRUNCATED ---`; files read: `src/tools/search.ts`, `src/tools/execute.ts`, README | [25] |
-| Anthropic tool search | result blocks `tool_reference`; error type `tool_search_tool_result_error` | [26] |
-| Anthropic PTC | tool `{"type": "code_execution_20260120", "name": "code_execution"}`; tools marked `"allowed_callers": ["code_execution_20260120"]`; pause as a `server_tool_use` block plus a `tool_use` block tagged `caller: {type: "code_execution_20260120", tool_id: "srvtoolu_…"}` and a top-level `container: {id}`; the reply may hold only `tool_result` blocks; result `code_execution_tool_result`; about 4 min gives `TimeoutError` in stderr | [27] |
-| OpenAI PTC | a `program` item with an opaque `fingerprint`; `function_call` items tagged `caller: {type: "program"}`; `function_call_output` with the `caller` copied; `program_output {result, status}`; "An already-running program cannot invoke tool search" | [28] |
-| smolagents | print buffer 50,000; `max_steps` 20; executors e2b, modal, docker, blaxel; files read at `main` on 2026-10-24: `src/smolagents/prompts/code_agent.yaml`, `local_python_executor.py`, `remote_executors.py`, `agents.py`, `memory.py` | [29] |
-| CodeAct | Jupyter in Docker per session | [30] |
+| Implementation           | Identifiers                                                                                                                                                                                                                                                                                                                                                                                                                                | Source |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------ |
+| Cloudflare Code Mode SDK | the docs say the single-tool pattern "works well when the generated type declarations fit comfortably"; the opt-in cap is `truncateResult`; files read: `src/shared.ts`, `src/executor.ts`, `src/run-code.ts`                                                                                                                                                                                                                              | [23]   |
+| Cloudflare Code Mode MCP | tools `search` and `execute` (now also `docs`, `whoami`); outbound handler `globalOutbound`; flag `replaySafe`; cut marker `--- TRUNCATED ---`; files read: `src/tools/search.ts`, `src/tools/execute.ts`, README                                                                                                                                                                                                                          | [25]   |
+| Anthropic tool search    | result blocks `tool_reference`; error type `tool_search_tool_result_error`                                                                                                                                                                                                                                                                                                                                                                 | [26]   |
+| Anthropic PTC            | tool `{"type": "code_execution_20260120", "name": "code_execution"}`; tools marked `"allowed_callers": ["code_execution_20260120"]`; pause as a `server_tool_use` block plus a `tool_use` block tagged `caller: {type: "code_execution_20260120", tool_id: "srvtoolu_…"}` and a top-level `container: {id}`; the reply may hold only `tool_result` blocks; result `code_execution_tool_result`; about 4 min gives `TimeoutError` in stderr | [27]   |
+| OpenAI PTC               | a `program` item with an opaque `fingerprint`; `function_call` items tagged `caller: {type: "program"}`; `function_call_output` with the `caller` copied; `program_output {result, status}`; "An already-running program cannot invoke tool search"                                                                                                                                                                                        | [28]   |
+| smolagents               | print buffer 50,000; `max_steps` 20; executors e2b, modal, docker, blaxel; files read at `main` on 2026-10-24: `src/smolagents/prompts/code_agent.yaml`, `local_python_executor.py`, `remote_executors.py`, `agents.py`, `memory.py`                                                                                                                                                                                                       | [29]   |
+| CodeAct                  | Jupyter in Docker per session                                                                                                                                                                                                                                                                                                                                                                                                              | [30]   |
 
 ### The DNSSEC bench, full matrix
 
 Means over 3 runs per cell. Anthropic's PTC overhead figure in @sec-when-it-pays-and-when-it-does-not, 8% on τ²-bench, is from its own docs [27].
 
-| Mode | N | API requests | Model turns | Input tokens | Cost USD | Correct |
-|---|---|---|---|---|---|---|
-| native | 10 | 3.0 | 3.0 | 101,545 | 0.211 | 0/3 |
-| native | 30 | 3.0 | 3.0 | 131,236 | 0.293 | 1/3 |
-| native | 100 | 3.0 | 3.0 | 233,719 | 0.551 | 2/3 |
-| tool search | 10 | 3.0 | 3.0 | 26,212 | 0.061 | 1/3 |
-| tool search | 30 | 3.0 | 3.0 | 56,362 | 0.146 | 2/3 |
-| tool search | 100 | 3.0 | 3.0 | 159,424 | 0.415 | 3/3 |
-| Anthropic PTC | 10 | 9.0 | 2.0 | 10,305 | 0.023 | 3/3 |
-| Anthropic PTC | 30 | 22.3 | 2.0 | 10,430 | 0.023 | 3/3 |
-| Anthropic PTC | 100 | 69.0 | 2.0 | 10,536 | 0.023 | 3/3 |
-| DIY code mode | 10 | 3.0 | 3.0 | 6,732 | 0.016 | 3/3 |
-| DIY code mode | 30 | 3.0 | 3.0 | 6,724 | 0.016 | 3/3 |
-| DIY code mode | 100 | 3.0 | 3.0 | 6,729 | 0.016 | 3/3 |
+| Mode          | N   | API requests | Model turns | Input tokens | Cost USD | Correct |
+| ------------- | --- | ------------ | ----------- | ------------ | -------- | ------- |
+| native        | 10  | 3.0          | 3.0         | 101,545      | 0.211    | 0/3     |
+| native        | 30  | 3.0          | 3.0         | 131,236      | 0.293    | 1/3     |
+| native        | 100 | 3.0          | 3.0         | 233,719      | 0.551    | 2/3     |
+| tool search   | 10  | 3.0          | 3.0         | 26,212       | 0.061    | 1/3     |
+| tool search   | 30  | 3.0          | 3.0         | 56,362       | 0.146    | 2/3     |
+| tool search   | 100 | 3.0          | 3.0         | 159,424      | 0.415    | 3/3     |
+| Anthropic PTC | 10  | 9.0          | 2.0         | 10,305       | 0.023    | 3/3     |
+| Anthropic PTC | 30  | 22.3         | 2.0         | 10,430       | 0.023    | 3/3     |
+| Anthropic PTC | 100 | 69.0         | 2.0         | 10,536       | 0.023    | 3/3     |
+| DIY code mode | 10  | 3.0          | 3.0         | 6,732        | 0.016    | 3/3     |
+| DIY code mode | 30  | 3.0          | 3.0         | 6,724        | 0.016    | 3/3     |
+| DIY code mode | 100 | 3.0          | 3.0         | 6,729        | 0.016    | 3/3     |
 
 ### Limitations
 
-| Area | Limit |
-|---|---|
-| pi-fabric read | one commit, a shallow clone; prompt bytes counted from source strings, the live prompt never measured |
-| Lifecycle grid | docs and source read on one day; "[not documented](#pill-warn)" cells may be documented elsewhere or change next release |
-| The defu run | one run per cell, one small task, one model; wall times swung 3x on provider load |
+| Area             | Limit                                                                                                                                                  |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| pi-fabric read   | one commit, a shallow clone; prompt bytes counted from source strings, the live prompt never measured                                                  |
+| Lifecycle grid   | docs and source read on one day; "[not documented](#pill-warn)" cells may be documented elsewhere or change next release                               |
+| The defu run     | one run per cell, one small task, one model; wall times swung 3x on provider load                                                                      |
 | The DNSSEC bench | one task, one model, three repeats; a mock that answers instantly; PTC distractors deferred, container time not costed; the DIY sandbox is no boundary |
-| Voices | quotes what each page says; not a survey |
-| Reproducibility | both harnesses live in a private Dwarves repository (`experiments/pi-stack-trial`, `experiments/code-mode-bench`); no public URL |
+| Voices           | quotes what each page says; not a survey                                                                                                               |
+| Reproducibility  | both harnesses live in a private Dwarves repository (`experiments/pi-stack-trial`, `experiments/code-mode-bench`); no public URL                       |
 
 ## References
 
