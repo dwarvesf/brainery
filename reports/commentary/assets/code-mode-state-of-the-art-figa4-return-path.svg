@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 390" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" style="width:100%;height:auto;max-width:760px;display:block" role="img">
+<title>Only printed output and the return value come back, capped at 50,000 characters</title>
+<desc>A program-ends box with print logs and the return value as YAML flows through an amber cap of 50,000 characters, 20,000 on failure, into the model context. Overflow goes down to a file with mode 0600, and the next program can read it by range.</desc>
+<defs>
+<pattern id="g7" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05"/></pattern>
+<marker id="a" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L8 4L0 8z" fill="#c3d7ea"/></marker>
+<marker id="am" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L8 4L0 8z" fill="#e8c56a"/></marker>
+<marker id="ad" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L8 4L0 8z" fill="#6f8fb0"/></marker>
+</defs>
+<rect width="760" height="390" fill="#12395f"/>
+<rect width="760" height="390" fill="url(#g7)"/>
+<rect x="0.5" y="0.5" width="759" height="389" fill="none" stroke="#68839d"/>
+<text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. A4 · THE RETURN PATH</text>
+<text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">STEP 6 · FABRIC-EXEC-TOOL.TS:921</text>
+<line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+<rect x="24" y="62" width="190" height="100" fill="#21466a" stroke="#68839d"/><text x="40" y="86" font-size="9.5" fill="#a7c0d9" text-anchor="start">program ends</text><text x="40" y="110" font-size="10" fill="#e8f1fa" text-anchor="start">print logs</text><text x="40" y="130" font-size="10" fill="#e8f1fa" text-anchor="start">return value → YAML</text>
+<rect x="290" y="62" width="190" height="100" fill="#21466a" stroke="#e8c56a"/><text x="385" y="106" font-size="10" fill="#e8c56a" text-anchor="middle">cap 50,000 chars</text><text x="385" y="128" font-size="9" fill="#e8c56a" text-anchor="middle">20,000 on failure</text>
+<rect x="546" y="62" width="190" height="100" fill="#21466a" stroke="#68839d"/><text x="562" y="86" font-size="9.5" fill="#a7c0d9" text-anchor="start">model context</text><text x="562" y="108" font-size="9.5" fill="#e8f1fa" text-anchor="start">logs</text><text x="562" y="126" font-size="9.5" fill="#e8f1fa" text-anchor="start">value as YAML</text><text x="562" y="144" font-size="9.5" fill="#c3d7ea" text-anchor="start">head … tail</text>
+<line x1="216" y1="112" x2="288" y2="112" stroke="#c3d7ea" stroke-width="1.2" marker-end="url(#a)"/><line x1="482" y1="112" x2="544" y2="112" stroke="#c3d7ea" stroke-width="1.2" marker-end="url(#a)"/>
+<line x1="385" y1="164" x2="385" y2="218" stroke="#c3d7ea" stroke-width="1.2" marker-end="url(#a)"/><text x="397" y="190" font-size="9" fill="#c3d7ea" text-anchor="start">overflow</text>
+<rect x="250" y="220" width="270" height="56" fill="#21466a" stroke="#68839d"/><text x="266" y="244" font-size="10" fill="#e8f1fa" text-anchor="start">file, mode 0600</text><text x="266" y="264" font-size="9" fill="#c3d7ea" text-anchor="start">[Full output (N chars) saved to: …]</text>
+<path d="M385 278V312H119V164" fill="none" stroke="#6f8fb0" stroke-width="1.2" style="stroke-dasharray:5 4" marker-end="url(#ad)"/><text x="130" y="332" font-size="9" fill="#c3d7ea" text-anchor="start">next program: pi.read({path, offset, limit})</text>
+<text x="380" y="368" font-size="9" fill="#6f8fb0" text-anchor="middle">docs sample says 100000; source says 50,000 · config.ts:500</text>
+</svg>

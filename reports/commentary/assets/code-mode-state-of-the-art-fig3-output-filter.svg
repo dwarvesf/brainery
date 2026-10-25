@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" style="width:100%;height:auto;max-width:760px;display:block" role="img">
+<title>The program slices the test log inside the sandbox; the model reads a summary</title>
+<desc>A sandbox box holds the full pnpm vitest run log and the code line result.output.slice(-3000) in amber. A narrow pipe carries 218 characters to the model context box, which holds the summary: 2 files, 24 tests, passed.</desc>
+<defs>
+<pattern id="g10" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0V26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05"/></pattern>
+<marker id="a" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L8 4L0 8z" fill="#c3d7ea"/></marker>
+<marker id="am" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L8 4L0 8z" fill="#e8c56a"/></marker>
+<marker id="ad" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L8 4L0 8z" fill="#6f8fb0"/></marker>
+</defs>
+<rect width="760" height="340" fill="#12395f"/>
+<rect width="760" height="340" fill="url(#g10)"/>
+<rect x="0.5" y="0.5" width="759" height="339" fill="none" stroke="#68839d"/>
+<text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 3 · THE OUTPUT FILTER</text>
+<text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">S2-FABRIC · TURN 8</text>
+<line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+<rect x="24" y="58" width="306" height="212" fill="none" stroke="#68839d"/><text x="40" y="80" font-size="9" fill="#6f8fb0" text-anchor="start" letter-spacing="1.5">SANDBOX</text>
+<rect x="44" y="94" width="266" height="106" fill="#21466a" stroke="#68839d"/><text x="177" y="140" font-size="10" fill="#e8f1fa" text-anchor="middle">pnpm vitest run</text><text x="177" y="160" font-size="9" fill="#c3d7ea" text-anchor="middle">full log stays here</text>
+<text x="44" y="236" font-size="9.5" fill="#e8c56a" text-anchor="start">result.output.slice(-3000)</text>
+<line x1="332" y1="147" x2="516" y2="147" stroke="#c3d7ea" stroke-width="1.2" marker-end="url(#a)"/><text x="424" y="134" font-size="9.5" fill="#e8f1fa" text-anchor="middle">218 chars</text>
+<rect x="518" y="58" width="218" height="212" fill="none" stroke="#68839d"/><text x="534" y="80" font-size="9" fill="#6f8fb0" text-anchor="start" letter-spacing="1.5">MODEL CONTEXT</text>
+<text x="534" y="140" font-size="10" fill="#e8f1fa" text-anchor="start">2 files, 24 tests,</text><text x="534" y="162" font-size="10" fill="#e8f1fa" text-anchor="start">passed</text>
+<text x="380" y="312" font-size="9" fill="#a7c0d9" text-anchor="middle">turn 8 · 1,086 in / 95 out · program wall 0.67 s</text>
+</svg>
