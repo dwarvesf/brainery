@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 380" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" role="img" aria-labelledby="t d">
+  <title id="t">Fig. 8 where 163 lab items land</title>
+  <desc id="d">Two bar panels from the workflow register, 163 items. Target rung: L0 125, L1 7, L2 19, L3 2, L4 0 (avoid), leaves 10. Move: keep 116, absorb as tool 15, fold 11, move to scheduler 11, retire 7, owner change 3. Most of the lab stays plain code.</desc>
+  <defs>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="380" fill="#12395f"/>
+  <rect width="760" height="380" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="759" height="379" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 8 · WHERE 163 ITEMS LAND</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">TARGET RUNG PER JOB OR AGENT, AS OF OCT 2026</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+  <line x1="380" y1="52" x2="380" y2="318" stroke="#385a7b"/>
+  <text x="24" y="64" font-size="10" letter-spacing="1.5" fill="#c3d7ea">TARGET RUNG</text>
+  <text x="396" y="64" font-size="10" letter-spacing="1.5" fill="#c3d7ea">MOVE</text>
+  <text x="24" y="100" font-size="10" fill="#e8c56a">L0 function</text>
+  <rect x="146" y="86" width="170.0" height="20" fill="#e8c56a"/>
+  <text x="324.0" y="100" font-size="10" fill="#e8c56a">125</text>
+  <text x="24" y="142" font-size="10" fill="#e8f1fa">L1 workflow</text>
+  <rect x="146" y="128" width="9.5" height="20" fill="#68839d"/>
+  <text x="163.52" y="142" font-size="10" fill="#e8f1fa">7</text>
+  <text x="24" y="184" font-size="10" fill="#e8f1fa">L2 owner agent</text>
+  <rect x="146" y="170" width="25.8" height="20" fill="#68839d"/>
+  <text x="179.84" y="184" font-size="10" fill="#e8f1fa">19</text>
+  <text x="24" y="226" font-size="10" fill="#e8f1fa">L3 owner+helpers</text>
+  <rect x="146" y="212" width="2.7" height="20" fill="#68839d"/>
+  <text x="156.72" y="226" font-size="10" fill="#e8f1fa">2</text>
+  <text x="24" y="268" font-size="10" fill="#6f8fb0">L4 peer agents</text>
+  <line x1="146" y1="254" x2="146" y2="274" stroke="#6f8fb0"/>
+  <text x="154.0" y="268" font-size="10" fill="#6f8fb0">0 · avoid</text>
+  <text x="24" y="310" font-size="10" fill="#e8f1fa">leaves</text>
+  <rect x="146" y="296" width="13.6" height="20" fill="#68839d"/>
+  <text x="167.6" y="310" font-size="10" fill="#e8f1fa">10</text>
+  <text x="396" y="96" font-size="10" fill="#e8f1fa">keep</text>
+  <rect x="540" y="83" width="141.2" height="18" fill="#68839d"/>
+  <text x="689.2" y="96" font-size="10" fill="#e8f1fa">116</text>
+  <text x="396" y="132" font-size="10" fill="#e8f1fa">absorb as tool</text>
+  <rect x="540" y="119" width="18.3" height="18" fill="#68839d"/>
+  <text x="566.2608695652174" y="132" font-size="10" fill="#e8f1fa">15</text>
+  <text x="396" y="168" font-size="10" fill="#e8f1fa">fold</text>
+  <rect x="540" y="155" width="13.4" height="18" fill="#68839d"/>
+  <text x="561.3913043478261" y="168" font-size="10" fill="#e8f1fa">11</text>
+  <text x="396" y="204" font-size="10" fill="#e8f1fa">move to scheduler</text>
+  <rect x="540" y="191" width="13.4" height="18" fill="#68839d"/>
+  <text x="561.3913043478261" y="204" font-size="10" fill="#e8f1fa">11</text>
+  <text x="396" y="240" font-size="10" fill="#e8f1fa">retire</text>
+  <rect x="540" y="227" width="8.5" height="18" fill="#68839d"/>
+  <text x="556.5217391304348" y="240" font-size="10" fill="#e8f1fa">7</text>
+  <text x="396" y="276" font-size="10" fill="#e8f1fa">owner change</text>
+  <rect x="540" y="263" width="3.7" height="18" fill="#68839d"/>
+  <text x="551.6521739130435" y="276" font-size="10" fill="#e8f1fa">3</text>
+  <text x="24" y="346" font-size="10" fill="#e8c56a">125 of 163 items target L0: most of the lab stays plain code</text>
+  <text x="24" y="364" font-size="9" fill="#6f8fb0">each row is one item; a grouped row counts once. source: workflow register summary</text>
+</svg>
