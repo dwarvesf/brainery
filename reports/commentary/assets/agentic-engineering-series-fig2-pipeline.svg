@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 372" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" role="img" aria-labelledby="t d">
+  <title id="t">Fig. 2 how each part is built</title>
+  <desc id="d">Each part passes eight stages left to right: brief, white-paper sweep, firsthand experiment, draft, claim check, voice and rubric, owner review with a hands-on exercise, publish. The firsthand experiment is one dated measurement from our own estate. Each part ends in two outputs: the memo article and the learning Day with an on-ramp.</desc>
+  <defs>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+  </defs>
+  <rect width="760" height="372" fill="#12395f"/>
+  <rect width="760" height="372" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="759" height="371" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 2 · THE PIPELINE</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">EIGHT STAGES, TWO OUTPUTS PER PART</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+  <rect x="22" y="60" width="150" height="64" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="32" y="78" font-size="10" fill="#6f8fb0">1</text>
+  <text x="32" y="96" font-size="10" fill="#e8f1fa">brief</text>
+  <text x="32" y="112" font-size="9" fill="#a7c0d9">reader questions</text>
+  <path d="M 172 92.0 L 211 92.0" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <rect x="212" y="60" width="150" height="64" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="222" y="78" font-size="10" fill="#6f8fb0">2</text>
+  <text x="222" y="96" font-size="10" fill="#e8f1fa">white-paper sweep</text>
+  <text x="222" y="112" font-size="9" fill="#a7c0d9">sources table</text>
+  <path d="M 362 92.0 L 401 92.0" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <rect x="402" y="60" width="150" height="64" fill="#21466a" stroke="#e8c56a" stroke-width="2"/>
+  <text x="412" y="78" font-size="10" fill="#e8c56a">3</text>
+  <text x="412" y="96" font-size="10" fill="#e8c56a">firsthand experiment</text>
+  <text x="412" y="112" font-size="9" fill="#c3d7ea">one dated number</text>
+  <path d="M 552 92.0 L 591 92.0" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <rect x="592" y="60" width="150" height="64" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="602" y="78" font-size="10" fill="#6f8fb0">4</text>
+  <text x="602" y="96" font-size="10" fill="#e8f1fa">draft</text>
+  <text x="602" y="112" font-size="9" fill="#a7c0d9">reader-question form</text>
+  <rect x="22" y="170" width="150" height="64" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="32" y="188" font-size="10" fill="#6f8fb0">5</text>
+  <text x="32" y="206" font-size="10" fill="#e8f1fa">claim check</text>
+  <text x="32" y="222" font-size="9" fill="#a7c0d9">every number traced</text>
+  <path d="M 172 202.0 L 211 202.0" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <rect x="212" y="170" width="150" height="64" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="222" y="188" font-size="10" fill="#6f8fb0">6</text>
+  <text x="222" y="206" font-size="10" fill="#e8f1fa">voice and rubric</text>
+  <text x="222" y="222" font-size="9" fill="#a7c0d9">style, privacy strip</text>
+  <path d="M 362 202.0 L 401 202.0" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <rect x="402" y="170" width="150" height="64" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="412" y="188" font-size="10" fill="#6f8fb0">7</text>
+  <text x="412" y="206" font-size="10" fill="#e8f1fa">owner review</text>
+  <text x="412" y="222" font-size="9" fill="#a7c0d9">hands-on exercise</text>
+  <path d="M 552 202.0 L 591 202.0" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <rect x="592" y="170" width="150" height="64" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="602" y="188" font-size="10" fill="#6f8fb0">8</text>
+  <text x="602" y="206" font-size="10" fill="#e8f1fa">publish</text>
+  <text x="602" y="222" font-size="9" fill="#a7c0d9">series slug, live URL</text>
+  <path d="M 667.0 124 L 667.0 147 L 97.0 147 L 97.0 169" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <path d="M 667.0 234 L 667.0 287" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <path d="M 667.0 262 L 395 262 L 395 287" fill="none" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <rect x="290" y="290" width="210" height="56" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="302" y="312" font-size="10" fill="#e8f1fa">memo article</text>
+  <text x="302" y="330" font-size="9" fill="#a7c0d9">one part of the series</text>
+  <rect x="526" y="290" width="210" height="56" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+  <text x="538" y="312" font-size="10" fill="#e8f1fa">learning Day</text>
+  <text x="538" y="330" font-size="9" fill="#a7c0d9">on-ramp, board, 30-min task</text>
+  <text x="22" y="280" font-size="9" letter-spacing="1.5" fill="#6f8fb0">TWO OUTPUTS PER PART</text>
+  <text x="22" y="302" font-size="9" fill="#a7c0d9">the on-ramp and the Day</text>
+  <text x="22" y="316" font-size="9" fill="#a7c0d9">run alongside stages 3 to 7</text>
+</svg>
