@@ -1,5 +1,5 @@
 ---
-title: 'Forward Engineering October 2026'
+title: 'Forward engineering October 2026'
 description: 'October''s notes connect game prototype judgment, practical launch surfaces, and more deliberate AI-assisted production workflows.'
 date: 2026-11-01
 authors:
