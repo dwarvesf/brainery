@@ -1,5 +1,5 @@
 ---
-title: "How many agents can one person run? the orchestrator attention cap"
+title: "The orchestrator attention cap: how many agents one person can run"
 description: "One person can supervise about three parallel agents well, and the evidence for that limit is older than AI."
 date: 2026-11-02
 toc: true
