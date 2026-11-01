@@ -1,5 +1,5 @@
 ---
-title: "How many agents can one person run? The orchestrator attention cap"
+title: "How many agents can one person run? the orchestrator attention cap"
 description: "One person can supervise about three parallel agents well, and the evidence for that limit is older than AI."
 date: 2026-11-02
 toc: true
@@ -55,12 +55,12 @@ The plus one is the agent you are serving right now. Plug in numbers from a norm
 
 Table: Fan-out for typical agent loops {#tbl-fanout}
 
-| Loop              | NT     | IT    | WT    | Fan-out |
-| :---------------- | :----- | :---- | :---- | :------ |
+| Loop                 | NT     | IT    | WT    | Fan-out |
+| :------------------- | :----- | :---- | :---- | :------ |
 | Quick back-and-forth | 3 min  | 2 min | 0     | 2.5     |
-| Ten-minute task   | 10 min | 3 min | 0     | 4.3     |
-| Same, re-orient   | 10 min | 3 min | 1 min | 3.5     |
-| Spec'd long task  | 40 min | 5 min | 2 min | 6.7     |
+| Ten-minute task      | 10 min | 3 min | 0     | 4.3     |
+| Same, re-orient      | 10 min | 3 min | 1 min | 3.5     |
+| Spec'd long task     | 40 min | 5 min | 2 min | 6.7     |
 
 Short interactive loops cap you at two or three agents no matter how disciplined you are. A long, well-specified task is the only way past four.
 
@@ -113,13 +113,13 @@ They show me running at well over twice my own fan-out. I parsed thirty days of 
 
 Table: Thirty days of my Claude Code sessions {#tbl-mine}
 
-| Measure                     | Median  | p90      |
-| :-------------------------- | :------ | :------- |
-| Sessions touched per day    | 17      | 26       |
-| Peak live sessions per day  | 5       | 8        |
-| Agent works alone (NT)      | 2.0 min | 32 min   |
-| Agent waits for me (WT)     | 2.5 min | 15.8 min |
-| Session switches per hour   | 6.6     | 10.1     |
+| Measure                    | Median  | p90      |
+| :------------------------- | :------ | :------- |
+| Sessions touched per day   | 17      | 26       |
+| Peak live sessions per day | 5       | 8        |
+| Agent works alone (NT)     | 2.0 min | 32 min   |
+| Agent waits for me (WT)    | 2.5 min | 15.8 min |
+| Session switches per hour  | 6.6     | 10.1     |
 
 The median turn is short: the agent works two minutes, then waits two and a half for me. Put those into the formula and my fan-out is about 1.8 before I spend a single second reading. Yet my daily peak is five live sessions, and on the worst day it was fourteen. Almost two-thirds of my active time runs at two or more live sessions, which is already above that fan-out, and 61% of my prompts go to a different session than the one before.
 
@@ -135,12 +135,12 @@ The people who write most about parallel agents land in the same low range, and 
 
 Table: Parallel agent counts practitioners report {#tbl-practitioners}
 
-| Who               | Count  | Conditions                    |
-| :---------------- | :----- | :---------------------------- |
-| Hashimoto, Beck   | 1      | One deep task, one loop       |
-| ParallelPilot study | 2 to 4 | Most common: 3              |
-| Osmani, Willison  | 3 to 4 | Crisp briefs, time-boxed      |
-| Anthropic team tips | 3 to 5 | Separate worktrees          |
+| Who                 | Count  | Conditions               |
+| :------------------ | :----- | :----------------------- |
+| Hashimoto, Beck     | 1      | One deep task, one loop  |
+| ParallelPilot study | 2 to 4 | Most common: 3           |
+| Osmani, Willison    | 3 to 4 | Crisp briefs, time-boxed |
+| Anthropic team tips | 3 to 5 | Separate worktrees       |
 
 Simon Willison says he can review and land only one significant change at a time, and keeps parallel slots for research, explanation and chores [28]. Mitchell Hashimoto turns off agent notifications because switching is expensive, and runs one background agent at a time [29]. Addy Osmani puts the ceiling at three or four threads and calls review throughput the bottleneck [30], [31]. Kent Beck said two agents on one codebase made his head explode, because he held state the system should have held [32]. The Hacker News thread on Willison's post reads the same way: commenters run two, sometimes five, and several say they cannot focus while an agent runs [34].
 
@@ -175,16 +175,16 @@ Treat your own attention as the scarce resource and plan the day around it.
 
 Table: Do and don't for the human orchestrator {#tbl-dodont}
 
-| Do                                 | Don't                                  |
-| :--------------------------------- | :------------------------------------- |
-| One deep task in front             | Rotate through every tab               |
-| Agents end with a result card      | Reread transcripts to recover state    |
-| Check status at chosen times       | React to every completion ping         |
-| Let cheap agents wait for you      | Keep yourself 100% busy                |
-| Longer briefs with tests           | Many short check-in loops              |
-| Verify with independent checks     | Approve "obviously fine" output        |
-| Long runs overnight                | Start a new thread while waiting       |
-| Measure your real throughput       | Trust how busy you feel                |
+| Do                             | Don't                               |
+| :----------------------------- | :---------------------------------- |
+| One deep task in front         | Rotate through every tab            |
+| Agents end with a result card  | Reread transcripts to recover state |
+| Check status at chosen times   | React to every completion ping      |
+| Let cheap agents wait for you  | Keep yourself 100% busy             |
+| Longer briefs with tests       | Many short check-in loops           |
+| Verify with independent checks | Approve "obviously fine" output     |
+| Long runs overnight            | Start a new thread while waiting    |
+| Measure your real throughput   | Trust how busy you feel             |
 
 ## Where this evidence is thin
 
@@ -218,11 +218,11 @@ The cost of this approach is real too. Running fewer threads means some agents s
 20. **Weinberg**: estimated time lost to switching between projects, 1992. [Wastes caused by context switching](https://chrisgagne.com/4619/wastes-caused-by-context-switching/).
 21. **Paul Graham**: the maker's and manager's schedules, 2009. [Maker's schedule, manager's schedule](https://paulgraham.com/makersschedule.html).
 22. **Andy Grove**: task-relevant maturity and monitoring delegated work, 1983. [High Output Management notes](https://robdix.com/high-output-management/).
-23. **Microsoft Work Trend Index**: interruption frequency from workplace telemetry, 2025. [2025: the year the frontier firm is born](https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born).
+23. **Microsoft work trend index**: interruption frequency from workplace telemetry, 2025. [2025: the year the frontier firm is born](https://www.microsoft.com/en-us/worklab/work-trend-index/2025-the-year-the-frontier-firm-is-born).
 24. **Parasuraman and Manzey**: complacency and automation bias, 2010. [Complacency and bias in human use of automation](https://www.semanticscholar.org/paper/Complacency-and-Bias-in-Human-Use-of-Automation:-An-Parasuraman-Manzey/b0e5a85803bb959ed2cbd47c51009cc48059c02c).
 25. **METR**: randomized trial of experienced developers using AI, 2025. [Measuring the impact of early-2025 AI on experienced open-source developer productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/).
 26. **ParallelPilot**: formative and tool study of developers running parallel agents, 2026. [ParallelPilot](https://arxiv.org/html/2609.33113v1).
-27. **When Help Hurts**: AI assistance, verification load and fatigue, 2026. [When help hurts](https://doi.org/10.1145/3772318.3791176).
+27. **When help hurts**: AI assistance, verification load and fatigue, 2026. [When help hurts](https://doi.org/10.1145/3772318.3791176).
 28. **Simon Willison**: practitioner account of parallel coding agents, 2025. [Embracing the parallel coding agent lifestyle](https://simonwillison.net/2025/Oct/5/parallel-coding-agents/).
 29. **Mitchell Hashimoto**: practitioner account of agent adoption, 2026. [My AI adoption journey](https://mitchellh.com/writing/my-ai-adoption-journey).
 30. **Addy Osmani**: the cognitive limit on parallel agents, 2026. [Cognitive parallel agents](https://addyosmani.com/blog/cognitive-parallel-agents/).
