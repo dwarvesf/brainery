@@ -31,16 +31,11 @@ The attention cap is the number of parallel work threads one person can keep mov
 
 The model behind it is simple. Agents are cheap and many. You are one reviewer. Every agent eventually needs you to read, judge or steer, so they all queue at the same server. ==Once you see yourself as the server, the goal flips: keep the server healthy, and let the cheap customers wait.==
 
-Four separate limits set the cap, and the lowest one wins:
-
-- **Fan-out**: how long an agent runs alone compared with how long it needs you.
-- **Open loops**: how many unfinished threads you can hold in your head, about three to five.
-- **Review rate**: how fast you can read output honestly.
-- **Energy**: experienced practitioners report three to four hours of supervision before they are spent.
+Four separate limits set the cap, and the lowest one wins. Fan-out compares how long an agent runs alone with how long it needs you. Open loops are the unfinished threads you can hold in your head, about three to five of them. Review rate is how fast you can read output honestly. And energy runs out: experienced practitioners report three to four hours of supervision before they're spent.
 
 ## How many agents can one person run?
 
-Human-robot interaction research answered this for robots twenty years ago, with a formula called fan-out [1], [2]. Fan-out is the number of robots one operator can keep at acceptable performance. It depends on two times: how long a robot can be ignored before it drifts (neglect time), and how long the operator needs to service it (interaction time). Cummings later added a third term for waiting and lost awareness [3], [5].
+Human-robot interaction research answered this for robots twenty years ago, with a formula called fan-out. Fan-out is the number of robots one operator can keep at acceptable performance. It depends on two times: how long a robot can be ignored before it drifts (neglect time), and how long the operator needs to service it (interaction time). Cummings later added a third term for waiting and lost awareness [2].
 
 $$ FO = \frac{NT}{IT + WT} + 1 $$ {#eq-fanout}
 
@@ -66,7 +61,7 @@ Short interactive loops cap you at two or three agents no matter how disciplined
 
 ![Three agents, one human {#fig-timeline}](assets/orchestrator-attention-cap-fig2-timeline.svg 'Three agents, one human. With ten minutes alone, three of review and one to re-orient, three agents keep the human almost fully busy, and the third agent waits longest.')
 
-The formula is a ceiling. In the study that compared fan-out predictions with real operators, people managed four to six robots, and every prediction method missed [3]. Cummings and Mitchell found that the wait terms alone cut predicted capacity by up to 67%, and lost situation awareness by itself cut it by 36% [5]. Drone studies landed in the same range: four to five vehicles when the operator approves each step, eight to twelve only when the vehicles call the operator only on exceptions [6].
+The formula is a ceiling. When researchers checked fan-out predictions against real operators, people managed four to six robots, and every prediction method missed, mostly because waiting and lost awareness ate into capacity. Drone studies landed in the same range when the operator approved each step. Operators only got to eight to twelve vehicles when the vehicles called them on exceptions alone [3].
 
 That second number is the hopeful part: the cap rises when the automation calls you less often.
 
@@ -76,22 +71,21 @@ Because a queue's waiting time explodes as its server gets busy. In the textbook
 
 ![Wait explodes past 70% busy {#fig-queue-knee}](assets/orchestrator-attention-cap-fig3-queue-knee.svg 'Wait explodes past 70% busy. At 95% busy, each agent waits about nineteen review-lengths for you.')
 
-At 50% busy an agent waits one review-length. At 90% it waits nine. At 95% it waits nineteen. That is why filling every gap with another thread feels productive and is not: you are the server, and a server near 100% turns every queue into a backlog.
+At 50% busy an agent waits one review-length for you, and at 90% it waits nine. That's why filling every gap with another thread feels productive while it slows everything down. You're the server, and a server near 100% turns every queue into a backlog.
 
-Navy operators supervising cruise missiles showed the same knee. Performance and awareness fell once they were busy more than about 70% of the time [4]. The threshold is soft, and later work found that too little load also hurts. Reinertsen made the same argument for product teams: queues grow nonlinearly with utilization, so manage queue size, not how busy people look [8].
+Navy operators supervising cruise missiles showed the same knee, with performance and awareness falling once they were busy more than about 70% of the time. The threshold is soft, and later work found that too little load hurts as well. Reinertsen made the same argument for product teams: queues grow nonlinearly with utilization, so the thing worth managing is queue size, whatever people's calendars look like [4].
 
 ## What does a switch cost the human?
 
-More than the switch itself. The lab cost of switching between simple tasks is a fraction of a second, and it never drops to zero even with time to prepare [9]. The real cost comes after: getting back into the work you left.
+More than the switch itself. In the lab, switching between simple tasks costs a fraction of a second, and that cost never drops to zero even with time to prepare. The expensive part comes after, when you try to get back into the work you left [9].
 
-- In a two-week field study, people who followed an email or chat alert spent about ten minutes on the diversion, then another ten to fifteen before they were back in focused work on the original task [12].
-- An unfinished task keeps a share of attention while you do the next one. Leroy called this attention residue [10].
-- A suspended goal decays and needs a cue to come back [15]. Resuming at a natural break costs less than resuming mid-step [33].
-- People interrupted every two minutes finished an email task faster, with no more errors, and reported more stress and effort [13]. Fast switching can look efficient while it drains you.
+A two-week field study shows where that time goes. People who followed an email or chat alert spent about ten minutes on the diversion, then another ten to fifteen before they were focused on the original task again. Part of the drag is that the old task doesn't let go. Leroy called it attention residue, the share of attention an unfinished task keeps while you work on the next one. Memory research sees the same thing from the goal's side: a suspended goal decays and needs a cue to come back, which is why resuming at a natural break is cheaper than resuming mid-step [15].
+
+Fast switching can also look efficient while it drains you. People interrupted every two minutes finished an email task faster, with no more errors, and reported more stress and effort [13].
 
 Two popular numbers deserve retirement. "Twenty-three minutes to refocus" comes from a 2006 interview, and it measured the time until people returned to the interrupted task, with other work in between [14]. "Multitasking costs 40% of productivity" is a press extrapolation from millisecond lab data, never a measurement.
 
-The useful finding is the cheap fix. Writing a short plan for where you stopped and what comes next removed the residue penalty in Leroy and Glomb's studies [11]. A specific plan for an unfinished goal also stopped it from intruding on unrelated work [17].
+The useful finding is the cheap fix. In Leroy and Glomb's studies, writing a short plan for where you stopped and what comes next removed the residue penalty, and a specific plan for an unfinished goal also kept it from intruding on unrelated work [11].
 
 ## Is this only an agent problem?
 
@@ -99,13 +93,13 @@ No. Agents make an old management problem visible, because they produce work fas
 
 The cleanest evidence comes from Italian courts. Judges get cases by lottery, so Coviello, Ichino and Persico could compare judges with the same workload who juggled different numbers of cases at once. ==The judges who worked on more cases in parallel took longer to finish each one, and their decisions were no better on appeal.== [18]
 
-Software shows the same shape. Developers spread across many projects were more productive when they touched few projects per day [19]. Kanban teams with lower work in progress had shorter lead times [36]. Little's Law makes this arithmetic: average lead time equals work in progress divided by throughput, so more open items at the same throughput means every item takes longer [7].
+Software shows the same shape. Developers spread across many projects were more productive when they touched few projects per day, and kanban teams that held work in progress lower had shorter lead times. Little's Law turns this into arithmetic: average lead time equals work in progress divided by throughput, so at the same throughput every extra open item makes each item take longer [7].
 
-Weinberg's well-known table claims that two projects cost 20% of your time to switching and five cost 75% [20]. It is a consultant's estimate, never measured, but its shape matches the judges and the queue curve. Paul Graham's split between the maker's schedule and the manager's schedule names the same cost from the other side: one meeting in the middle of an afternoon breaks it into pieces too small for hard work [21]. Microsoft's telemetry now counts an interruption every two minutes in core hours for heavy users [23].
+Weinberg's well-known table claims that two projects cost 20% of your time to switching and five cost 75%. It's a consultant's estimate and was never measured, but its shape matches the judges and the queue curve. Paul Graham names the same cost from the other side with his split between the maker's schedule and the manager's schedule, where one meeting in the middle of an afternoon breaks it into pieces too small for hard work [20].
 
-Andy Grove supplies the delegation half. How closely you supervise depends on the delegate's task-relevant maturity: a newcomer to the task gets step-by-step direction, an expert gets an objective and periodic checks [22]. Monitoring falls as maturity rises, and it never reaches zero. Delegation without follow-through is abdication.
+Andy Grove supplies the delegation half. How closely you supervise depends on the delegate's task-relevant maturity: a newcomer to the task gets step-by-step direction, and an expert gets an objective and periodic checks. Monitoring falls as maturity rises, but it never reaches zero, because delegation without follow-through is abdication [22].
 
-The analogy breaks in two places. Agents do not tire, so the whole cost sits on the human side of the queue. And agents do not report trouble the way a mature colleague does, so a confident wrong answer looks the same as a right one.
+The analogy breaks in two places. Agents don't tire, so the whole cost sits on the human side of the queue. And agents don't report trouble the way a mature colleague does, so a confident wrong answer looks the same as a right one.
 
 ## What do our own sessions show?
 
@@ -121,13 +115,15 @@ Table: Thirty days of my Claude Code sessions {#tbl-mine}
 | Agent waits for me (WT)    | 2.5 min | 15.8 min |
 | Session switches per hour  | 6.6     | 10.1     |
 
-The median turn is short: the agent works two minutes, then waits two and a half for me. Put those into the formula and my fan-out is about 1.8 before I spend a single second reading. Yet my daily peak is five live sessions, and on the worst day it was fourteen. Almost two-thirds of my active time runs at two or more live sessions, which is already above that fan-out, and 61% of my prompts go to a different session than the one before.
+The median turn is short. The agent works two minutes, then waits two and a half for me, and with those in the formula my fan-out is about 1.8 before I spend a single second reading.
+
+Yet my daily peak is five live sessions, and on the worst day it hit fourteen. Almost two-thirds of my active time runs at two or more live sessions, which is already above that fan-out, and 61% of my prompts go to a different session from the one before.
 
 ![Thirty days of my sessions {#fig-my-sessions}](assets/orchestrator-attention-cap-fig4-my-sessions.svg 'Thirty days of my sessions. Almost two-thirds of my active time runs above the fan-out my own loops allow.')
 
-The surprise was the wait. Agents did not wait longer for me when more sessions were live: the median was 2.6 minutes with one session and 2.7 with three or more. ==I kept response time flat by switching faster, so the cost landed on me and not on the agents.== That matches the interrupted-email study, where people under constant interruption worked faster and paid in stress [13]. The time between prompts was also the same whether I switched or stayed, about two minutes. I was answering every session at the same shallow tempo.
+The surprise was the wait. Agents didn't wait longer for me when more sessions were live: the median was 2.6 minutes with one session and 2.7 with three or more. ==I kept response time flat by switching faster, so the cost landed on me and not on the agents.== The time between prompts also held at about two minutes whether I switched or stayed, so I was answering every session at the same shallow tempo. It's the interrupted-email result again, where people under constant interruption worked faster and paid for it in stress [13].
 
-The numbers carry caveats. About a third of the sessions have two prompts or fewer, many of them dispatched workers, so concurrency is overstated. The data covers one machine and not my laptop, so real switching is probably higher. Interaction time was not measured, so the true fan-out is lower than 1.8, not higher.
+The numbers carry caveats. About a third of the sessions have two prompts or fewer, many of them dispatched workers, so concurrency is overstated. The data covers one machine and leaves out my laptop, so real switching is probably higher. I didn't measure interaction time either, which puts the true fan-out somewhere below 1.8.
 
 ## What do other practitioners report?
 
@@ -142,9 +138,11 @@ Table: Parallel agent counts practitioners report {#tbl-practitioners}
 | Osmani, Willison    | 3 to 4 | Crisp briefs, time-boxed |
 | Anthropic team tips | 3 to 5 | Separate worktrees       |
 
-Simon Willison says he can review and land only one significant change at a time, and keeps parallel slots for research, explanation and chores [28]. Mitchell Hashimoto turns off agent notifications because switching is expensive, and runs one background agent at a time [29]. Addy Osmani puts the ceiling at three or four threads and calls review throughput the bottleneck [30], [31]. Kent Beck said two agents on one codebase made his head explode, because he held state the system should have held [32]. The Hacker News thread on Willison's post reads the same way: commenters run two, sometimes five, and several say they cannot focus while an agent runs [34].
+Simon Willison draws the line at review. He can land only one significant change at a time, so his other parallel slots go to research, explanation and chores. Addy Osmani puts the ceiling at three or four threads for the same reason, and calls review throughput the bottleneck [28].
 
-The studies agree on the human cost. In ParallelPilot's formative study, most developers ran two to four sessions and every one of the fourteen reported a monitoring burden; a status and triage view raised throughput by 63% but did not improve trust in the output [26]. A CHI 2026 study found AI help cut task time by 22% while stress and fatigue rose, driven by verification load [27]. METR's randomized trial found experienced developers 19% slower with AI while they believed they were 20% faster [25]. That last gap matters here: how busy you feel is a poor gauge of throughput.
+Others hit the limit as focus. Mitchell Hashimoto turns off agent notifications because switching is expensive, and runs one background agent at a time. Kent Beck said two agents on one codebase made his head explode, because he was holding state the system should have held. The Hacker News thread on Willison's post reads the same way, with commenters running two, sometimes five, and several saying they can't focus while an agent runs [29].
+
+The studies agree on the human cost. In ParallelPilot's formative study every participant reported a monitoring burden, and a status and triage view raised their throughput without making them trust the output more. METR's randomized trial is the sharpest result: experienced developers were 19% slower with AI while they believed they were 20% faster. That gap matters here, because how busy you feel turns out to be a poor gauge of throughput [25].
 
 Practitioners split on notifications. Some rely on them, and ParallelPilot's gain came from helping people notice finished agents. Others turn them off. Our reading: pull status at moments you choose, and allow push only for "blocked, needs input".
 
@@ -154,10 +152,10 @@ Set agents up to need you less often and to cost less when they do. Both raise f
 
 1. **Raise neglect time**: give each agent a brief with an acceptance test and a stop condition, so it can run longer before it needs a decision. My two-minute median turn is the single biggest reason my fan-out is under two. A forty-minute task with a test beats twenty two-minute check-ins.
 2. **Shrink interaction time**: every agent ends with a result card that says what it did, what it needs from you, the next step and how to check it. Reading a card takes a minute; reconstructing a transcript takes ten.
-3. **Write the resume plan for the human**: the result card doubles as the ready-to-resume note from the research [11], [17]. You stop holding that thread in your head.
-4. **Batch the review queue**: use one status view, such as Claude Code's agent view [35], and check it at boundaries you choose. Silence per-agent completion alerts.
-5. **Tier autonomy by task maturity**: a familiar, well-tested task gets an objective and a check; a new or risky area gets step-level review, as Grove prescribes [22].
-6. **Verify with checks you did not write**: tests, a fresh-context verifier, and spot audits of output that looks obviously fine. Automation bias appears in experts and does not fade with practice [24].
+3. **Write the resume plan for the human**: the result card doubles as the ready-to-resume note from the research. You stop holding that thread in your head.
+4. **Batch the review queue**: use one status view, such as Claude Code's agent view, and check it at boundaries you choose. Silence per-agent completion alerts.
+5. **Tier autonomy by task maturity**: a familiar, well-tested task gets an objective and a check; a new or risky area gets step-level review, as Grove prescribes.
+6. **Verify with checks you did not write**: tests, a fresh-context verifier, and spot audits of output that looks obviously fine. Automation bias appears in experts and does not fade with practice.
 7. **Run long work unattended**: send research, sweeps and long builds out in the evening, when your queue is empty anyway.
 
 ## What habits should the orchestrator keep?
@@ -188,11 +186,50 @@ Table: Do and don't for the human orchestrator {#tbl-dodont}
 
 ## Where this evidence is thin
 
-No study measures the cap for coding agents directly. The fan-out formula, the queue curve and the court data come from neighbouring fields, and we assume the human side transfers. The number three rests on working-memory research [16] and practitioner reports, not on a controlled agent study.
+No study measures the cap for coding agents directly. The fan-out formula, the queue curve and the court data come from neighbouring fields, and we assume the human side transfers. The number three rests on working-memory research and practitioner reports, with no controlled agent study behind it [16].
 
-Several famous findings are weaker than their reputation. Weinberg's table is an estimate. The 70% knee is soft. Ego depletion, the usual story behind "decision fatigue", failed a 23-lab replication [37], so we do not lean on it. Our own session numbers come from one person on one machine, and unattended sessions inflate concurrency.
+Several famous findings are weaker than their reputation. Weinberg's table is an estimate, and the 70% knee is soft. Our own session numbers come from one person on one machine, and unattended sessions inflate concurrency. Ego depletion, the usual story behind "decision fatigue", failed a 23-lab replication, so we don't lean on it at all [37].
 
 The cost of this approach is real too. Running fewer threads means some agents sit idle, and that feels wasteful even when the numbers say it is cheaper. We have not yet run a controlled before-and-after on ourselves.
+
+## Evidence table
+
+The body cites the sources it argues from. This table holds the supporting claims and the numbers that sit behind them.
+
+Table: Supporting claims and how strong they are {#tbl-evidence}
+
+| Claim                               | Source | Strength  |
+| :---------------------------------- | :----- | :-------- |
+| Fan-out defined for robots          | [1]    | strong    |
+| Wait term added to fan-out          | [3]    | strong    |
+| Queues grow nonlinearly with load   | [8]    | moderate  |
+| Refocus takes 10 to 15 min        | [12]   | strong    |
+| A specific plan stops intrusions    | [17]   | moderate  |
+| Lower WIP, shorter lead time        | [36]   | moderate  |
+| One meeting splits an afternoon     | [21]   | essay     |
+| Review throughput is the bottleneck | [31]   | opinion   |
+| Wait cuts capacity up to 67%        | [5]    | moderate  |
+| Lost awareness alone cut 36%        | [5]    | moderate  |
+| Four to five drones, step approval  | [6]    | moderate  |
+| Busy past 70% hurts performance     | [4]    | weak      |
+| Attention residue after a switch    | [10]   | moderate  |
+| Resuming at a break costs less      | [33]   | moderate  |
+| Few projects a day, more output     | [19]   | moderate  |
+| Interruption every two minutes      | [23]   | moderate  |
+| Weinberg switching percentages      | [20]   | estimate  |
+| Working memory holds three to five  | [16]   | strong    |
+| Ceiling of three to four threads    | [30]   | weak      |
+| One background agent at a time      | [29]   | weak      |
+| Two agents on one codebase hurt     | [32]   | weak      |
+| Commenters run two to five          | [34]   | weak      |
+| All fourteen report monitoring load | [26]   | moderate  |
+| Triage view lifts throughput 63%    | [26]   | moderate  |
+| AI cuts time 22%, adds fatigue      | [27]   | moderate  |
+| Developers 19% slower with AI       | [25]   | strong    |
+| One status view for sessions        | [35]   | strong    |
+| Automation bias persists in experts | [24]   | strong    |
+| Planning removes residue penalty    | [11]   | moderate  |
+| Ego depletion failed replication    | [37]   | contested |
 
 ## References
 

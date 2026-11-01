@@ -21,9 +21,9 @@ abstract: "One person can supervise only a few parallel agents, and the limit fo
 
 ![Three knobs on one formula {#fig-knobs}](assets/raising-orchestrator-cap-fig1-knobs.svg 'Three knobs on one formula. Each trick raises the cap by moving one term: longer runs alone, cheaper reviews, or faster re-entry.')
 
-In the [first post](/orchestrator-attention-cap) I measured myself running about five agent sessions at peak when my own loops allowed fewer than two. The obvious next question is how to raise that limit instead of just obeying it. I had two guesses going in: make agents work longer before they need me, and keep a note so I can catch up faster when I come back. Both held up in the data, and each needed a second half I had not planned.
+In the [first post](/orchestrator-attention-cap) I measured myself running about five agent sessions at peak when my own loops allowed fewer than two. The obvious next question is how to raise that limit instead of just obeying it. I had two guesses going in: make agents work longer before they need me, and keep a note so I can catch up faster when I come back. Both held up in the data, and each needed a second half I hadn't planned.
 
-This post sorts the tricks by which part of the limit they change, grades the evidence behind each, tests two against our own logs, and ends with the harness changes we are building.
+This post sorts the tricks by which part of the limit they move and how good the evidence behind them is. I checked two of them against our own logs, and the last sections turn the winners into harness changes we're building.
 
 ## Which knob moves the cap?
 
@@ -38,15 +38,15 @@ where:
 - $IT$ is interaction time, how long a review or decision takes.
 - $WT$ is the extra time you spend getting back into a thread and waiting your turn.
 
-There are three ways up. Raise NT so agents need you less often. Cut IT so each visit is cheaper. Cut WT so coming back costs less. A fourth lever sits beside the formula: hold fewer open loops in your head, which protects the working memory that every term draws on [16].
+Raising NT means agents need you less often. IT and WT share the denominator, so a cheaper visit or a quicker return lifts the cap as well. One more lever sits outside the formula: holding fewer open loops in your head protects the working memory every term draws on [16].
 
-The terms are not equal. My own median loop is two minutes alone and two and a half waiting, so a small NT gain moves my cap more than any polish on re-entry. Somebody whose agents already run for an hour gets more from cutting review cost. ==Find your smallest term first, because the same trick can double one person's cap and barely move another's.==
+The terms aren't equal. My own median loop is two minutes alone and two and a half waiting, so a small NT gain moves my cap more than any polish on re-entry. Somebody whose agents already run for an hour gets more from cutting review cost. ==Find your smallest term first, because the same trick can double one person's cap and barely move another's.==
 
 ## How do i make agents run longer alone?
 
 Give them a bigger, checkable job. Of all the levers, raising NT has the clearest evidence, and our own logs back it.
 
-Models can already work much longer than most of us let them. METR's measure of how long a task an agent can finish at 50% success went from minutes in 2024 to around twelve hours for frontier models in early 2026, doubling every four to seven months [1]. The catch is reliability: at 80% success the horizon is closer to three hours. For most coding sessions, the brief runs out before the model does.
+Models can already work much longer than most of us let them, and in most coding sessions the brief runs out before the model does. METR's measure of how long a task frontier agents can finish reached around twelve hours at even odds in early 2026, though if you want four successes in five the horizon shrinks to about three hours [1].
 
 Our transcripts show it plainly. I bucketed 3,351 turns from thirty days of sessions by the length of the prompt that started them.
 
@@ -65,27 +65,27 @@ Table: How long agents ran alone, by the size of the brief {#tbl-nt}
 
 A thousand-character brief bought nearly seven times the unattended time of a one-liner, and a turn that ran a packaged skill bought five times. The data is observational, and big briefs go with big tasks, so part of the gap is the task and not the brief. The direction still matches every other source.
 
-Length alone is not the point. A long run is only useful if you can trust where it ends, and three things make that true:
+Length alone doesn't help, though. A long run is only worth having if you can trust where it ends, and that starts with a done-check the agent can't fake. Anthropic's long-running harness gives the agent a JSON feature list where the only thing it may touch is a "passes" field, backed by end-to-end tests, and that stopped agents from declaring victory early [2].
 
-1. **A done-check the agent cannot fake**: Anthropic's long-running harness gives the agent a feature list in JSON where it may only flip a "passes" field, plus end-to-end tests, and reports that this stopped agents from declaring victory early [2]. Huntley's Ralph loop calls the same idea backpressure: tests, types and lints push back until the work is real [3].
-2. **The questions asked before the run**: an agent that asks about an underspecified task before it starts reached 69.4% on those tasks, close to the 70.8% it scored with a full spec [4]. Left alone, agents ask in only about 3% of turns [5], and in our logs they asked in 3.8%. Asking once, up front, is cheaper than being asked mid-run.
-3. **Fewer permission stops**: Anthropic found people approved about 93% of permission prompts, which it reads as fatigue, and that sandboxing cut prompts by 84% [6]. In our logs pure go-ahead replies such as "proceed" and "approve" were only 5% of prompts, so the gain there is real but smaller than I expected.
+The brief matters as much as the check, and the cheapest way to fix a vague one is to let the agent ask before it starts. Left alone, agents rarely ask: in our logs they did it in 3.8% of turns. Yet on underspecified tasks, an agent that asked first scored almost as well as one handed the full spec, so one round of questions up front beats being pulled back mid-run [4].
 
-Supervisory-control research found the same thing about robots and drones. Operators handled four to five drones when they approved every step and eight to twelve when the drones only called on exceptions [7]. In Olsen and Goodrich's driving study, giving each robot goal-seeking autonomy raised measured fan-out from 0.93 to 2.2 robots [32]. The same field adds a caution. In a small drone study, operators did better approving each step than handling exceptions only [33], and other work ties exception mode to complacency and lost awareness. Raise NT on reversible work, and keep a consent gate on anything you cannot undo.
+Permission prompts are the other thing that stops a long run for no good reason. In our logs, pure go-ahead replies such as "proceed" and "approve" were only 5% of my prompts, so the gain there is real but smaller than I expected. Anthropic saw a bigger effect: people approved about 93% of permission prompts, which it reads as fatigue, and sandboxing cut those prompts by 84% [6].
+
+Supervisory-control research found the same pattern with robots and drones. Operators handled four to five drones when they approved every step and eight to twelve when the drones only called on exceptions [7].
+
+The same field adds a caution, so raise NT on reversible work and keep a consent gate on anything you can't undo. In a small drone study, operators did better approving each step than handling exceptions only, and other work ties exception mode to complacency and lost awareness [33].
 
 ## How do i make each review cheaper?
 
 Make every result arrive in the same shape, small enough to judge, with the evidence attached. Review is where AI coding speed currently stalls.
 
-A working paper covering 718 firms found that code added rose about 30% after AI adoption while resolved issues did not move, and the time from pull request to merge rose 49% [8]. Teams produce more and land the same amount, because review absorbs the difference. Cutting IT is how you get the 30% back.
+A working paper on firms adopting AI found that code added rose about 30% while resolved issues didn't move, and the time from pull request to merge went up 49%. Teams produce more and land the same amount, because review absorbs the difference. Cutting IT is how you win that 30% back [8].
 
-The strongest evidence for a fixed shape comes from hospitals. When nine children's hospitals adopted I-PASS, a structured handoff format, medical errors fell 23% and preventable adverse events fell 30% [9]. The WHO surgical checklist cut complications from 11% to 7% [10]. In software, a randomized experiment found that a checklist made code review more effective [11]. Fixed formats work through chunking: experts read a familiar structure as one unit, and the advantage vanishes when the structure changes [12]. ==A result card only speeds review if every agent writes it the same way, every time.==
+The strongest evidence for a fixed shape comes from hospitals. When children's hospitals adopted I-PASS, a structured handoff format, medical errors fell 23% [9].
 
-Three more tricks have weaker support:
+==A result card only speeds review if every agent writes it the same way, every time.== Experts read a familiar structure as one unit, and that advantage disappears once the structure changes [12].
 
-- **Small diffs and stacked pull requests**: vendor data reports faster merges and less reviewer time, with no independent study behind it [13].
-- **An AI first-pass review**: catch rates in vendor benchmarks range from 6% to 82% across tools [14]. Use it as an advisory pass, never as the merge gate.
-- **Review the plan instead of the code**: approve the plan up front, then check only that the code matches it [15]. This is practitioner advice, untested.
+The other review tricks rest on thinner evidence. Stacked pull requests have only vendor data behind them, and reviewing the plan instead of the code is untested practitioner advice. AI first-pass review is the one I'd be most careful with: vendor benchmarks put its catch rate anywhere from 6% to 82% depending on the tool, so I treat it as an advisory pass and never as the merge gate [14].
 
 ## How do i get back into a thread faster?
 
@@ -95,44 +95,49 @@ Our logs show why re-entry matters. When I switched sessions, I landed on a thre
 
 ![Switching lands on a cold thread {#fig-staleness}](assets/raising-orchestrator-cap-fig3-staleness.svg 'Switching lands on a cold thread. How long a thread had been idle when I came back to it, after a switch and when I stayed.')
 
-The research is consistent about what helps:
+The research is consistent about what helps, and the work starts before you leave. People warned ahead of an interruption spent those seconds planning what they'd do on return, and they resumed faster [17].
 
-- **Rehearse the next step before you leave**: people warned before an interruption used the seconds to plan what they would do on return, and resumed faster [17]. Cues present just before an interruption shorten the time to resume [18].
-- **Keep the context visible**: programmers with a task list or problem view open resumed within a minute 35% of the time, against 10% overall [19].
-- **Combine a generated summary with your own note**: in a 2026 lab study, developers resumed in 45 seconds with an LLM summary of their work and 69 seconds with only a note they wrote themselves [20]. They also said the summary missed the one thing their own notes had: what they meant to do next.
-- **Offload the intention**: setting an external reminder removed the memory cost that interruptions otherwise caused [21].
+After you're back, it helps to have the context in view. Programmers with a task list or problem view open resumed within a minute 35% of the time, against 10% overall [19].
 
-So the right re-entry card has two authors. The agent writes what it did, what changed and what it needs. You write one line: what you will check or decide next, before you leave the thread. The Leroy and Glomb ready-to-resume plan from the first post is the same move [22].
+The closest test to our setting is a 2026 lab study of developers returning to their own work. With an LLM summary of what they'd done, they resumed in 45 seconds, against 69 with only a note they wrote themselves. They also said the summary missed the one thing their own notes had: what they meant to do next [20].
+
+So the right re-entry card has two authors. The agent writes what it did, what changed and what it needs. You write one line: what you'll check or decide next, before you leave the thread. The Leroy and Glomb ready-to-resume plan from the first post is the same move [22].
 
 ## When should agents interrupt me?
 
 Only when they need a decision, and through one queue you check at moments you choose. Batching alerts calms you down; a triage view is what raises throughput.
 
-ParallelPilot is the closest direct test. Developers supervising parallel agents got a plan interface, a run log and a triage dashboard that sorted sessions into those needing input and those ready for review. Throughput rose 63%, the number of agents they could supervise comfortably rose from 2.6 to 4.0, and tracking effort fell sharply [23]. Peak concurrency with the tool was still only 3.25, which fits the cap from the first post. The most common miss without the tool was a clarification request left waiting.
+ParallelPilot is the closest direct test. Developers supervising parallel agents got a plan interface, a run log and a triage dashboard that sorted sessions into those needing input and those ready for review. Throughput rose 63%, and the number of agents they could supervise comfortably went from under three to four. Even with the tool, peak concurrency stayed close to three, which fits the cap from the first post, and the most common miss without it was a clarification request left waiting [23].
 
-Timing helps less than it seems. Deferring alerts to natural breakpoints cut frustration, but it did not shorten the time to resume [24]. Batching phone notifications three times a day improved attention and mood, while hourly batching did not [25]. Read that as a wellbeing gain more than a capacity gain.
+Timing helps less than it seems. Deferring alerts to natural breakpoints cut frustration but didn't shorten the time to resume, and batching phone notifications three times a day improved attention and mood where hourly batching didn't. I read that as a wellbeing gain more than a capacity gain [24].
 
-Robot research says wait is the term to attack. When Crandall and Cummings grew a team from two robots to eight, review time per robot stayed flat at 16 to 18 seconds, while time spent waiting for the operator rose from 9 seconds to 68 [34]. Performance stopped improving at six robots. Three findings from that line of work carry over to agents:
+Robot research says wait is the term to attack. When Crandall and Cummings grew a robot team, review time per robot stayed flat while time spent waiting for the operator rose from 9 seconds to 68, and performance stopped improving at six robots [34].
 
-- **Push beats polling**: operators noticed a stuck robot significantly later when nothing alerted them, and an alarm removed the delay [35].
-- **Show the whole queue**: displaying every pending request beat showing one at a time, and serving the shortest job first matched the best result [36]. Shortest-first scheduling alone cut robot downtime by only 2 to 16% [37].
-- **Skip the prediction dashboard**: operators given a forecast of future attention needs did worse than those given none, because they chased a global optimum [38].
+That line of work also shows how to cut the wait. Operators noticed a stuck robot significantly later when nothing alerted them, and an alarm removed the delay, which is why a push beats polling [35].
+
+The queue itself should be visible. Showing every pending request beat showing one at a time, and serving the shortest job first matched the best result [36].
+
+One aid backfired. Operators given a forecast of their future attention needs did worse than those given none, because they chased a global optimum, so I'd skip the prediction dashboard [38].
 
 ## Can more automation take decisions off me?
 
-Yes, for low-risk decisions with a clear rule, and only with a check you did not write. Automation shifts the cap furthest when it changes which decisions reach you at all.
+Yes, for low-risk decisions with a clear rule, and only with a check you didn't write. Automation shifts the cap furthest when it changes which decisions reach you at all.
 
-The drone research calls this delegation by play. The operator picks a named play, such as "search this area", and the automation fills in the steps. In a NASA and Air Force study with three and five drones, the playbook interface scored 66% on a composite measure, against 61% for manual control and 48% for a set of separate tools [39]. Workload did not change and performance still fell at five drones, so plays help at the margin. Adaptive automation, which takes on more work when the operator is overloaded, beat fixed automation on change detection and workload [40]. In agent terms, a play is a packaged skill with a fixed brief, and our logs already show skill turns running five times longer alone.
+The drone research calls this delegation by play. The operator picks a named play, such as "search this area", and the automation fills in the steps. In agent terms, a play is a packaged skill with a fixed brief, and our logs already show skill turns running five times longer alone. In a NASA and Air Force study, the playbook interface beat both manual control and a set of separate tools, but performance still fell at five drones, so plays help at the margin [39].
 
-The warning from the first post still applies. Automation bias appears in experts and does not fade with practice [26]. Anthropic's own auto-approval classifier misses about 17% of overeager actions [6], and an independent stress test reported a much higher miss rate on ambiguous work [27]. Hand off decisions by risk tier, and keep the risky ones yours.
+Hand off decisions by risk tier and keep the risky ones yours. The automation bias warning from the first post still applies, and the classifiers that approve actions for you miss things too. Anthropic's own auto-approval classifier misses about 17% of overeager actions, and an independent stress test reported a much higher miss rate on ambiguous work [6].
 
 ## Does a lead agent raise my cap?
 
 Not on current evidence. A supervising agent moves your queue one level up and adds cost and merge risk on the way.
 
-A study of 2,124 runs found parallel sub-agents raised pass rates on some long tasks by up to 14 points, cut Claude Code's SWE-bench pass rate by 24 points on another, used 1.4 to 3.3 times the tokens, and traced a third of failures to shared state and merge conflicts [28]. Declaring each agent's write scope up front raised integration success from 66% to 97% [29]. Cursor's long-running experiment ended up removing its planner and judge layers in favor of a simpler setup [30]. Anthropic's multi-agent research system did beat a single agent by 90%, on breadth-first research rather than code, at about fifteen times the tokens [31].
+A large study of parallel sub-agents found they helped on some long tasks and hurt badly on others, cutting Claude Code's SWE-bench pass rate by 24 points on one, while using up to 3.3 times the tokens. A third of the failures came from shared state and merge conflicts, a problem that declaring each agent's write scope up front mostly fixes [28].
 
-A second human is better supported than a supervising agent. Queueing math predicts that two operators sharing one queue can handle up to 50% more vehicles per person than two separate queues [41]. Human studies are mixed: pooled pairs reported lower workload [42], but in another study a single operator with good tools stabilized a mission in 3.5 minutes against 13 for a team of three, and the team filed duplicate reports three times as often [43]. Pooling helps when ownership of each item is explicit.
+The bigger setups point both ways. Cursor's long-running experiment ended up removing its planner and judge layers in favor of something simpler, while Anthropic's multi-agent research system beat a single agent by 90% on breadth-first research rather than code, at about fifteen times the tokens [30].
+
+A second human is better supported than a supervising agent. Queueing math predicts that two operators sharing one queue can each handle up to 50% more vehicles than they would with two separate queues [41].
+
+The human studies are mixed, and they suggest pooling only helps when ownership of each item is explicit. In one, a single operator with good tools stabilized a mission in 3.5 minutes against 13 for a team of three, and the team filed duplicate reports three times as often [43].
 
 ## Which tricks are worth it?
 
@@ -173,13 +178,60 @@ We are turning the top tricks into defaults, so they happen without anyone remem
 7. **A stall watchdog**: an idle or looping worker gets nudged or flagged into the queue instead of waiting silently. Moves NT and WT.
 8. **A live-thread counter**: a new dispatch warns when more than three threads are live. Holds the cap instead of raising it.
 
-We will rerun the session measurement after a few weeks with these in place. The test is simple: median time alone should rise, staleness on return should fall, and peak live threads should stay near three.
+We'll rerun the session measurement after a few weeks with these in place. The test is simple: median time alone should rise, staleness on return should fall, and peak live threads should stay near three.
 
 ## Where this evidence is thin
 
-The strongest re-entry and handoff results come from hospitals and lab tasks, not agent supervision. ParallelPilot is the only study of the exact setting, and it used twenty-minute tasks and sixteen people. Vendor numbers on review tools and stacked pull requests are not independent.
+The strongest re-entry and handoff results come from hospitals and lab tasks, not agent supervision. ParallelPilot is the only study of the exact setting, and it used twenty-minute tasks and sixteen people. Vendor numbers on review tools and stacked pull requests aren't independent.
 
-Our own numbers are observational and come from one person on one machine. Longer briefs go with bigger tasks, so the NT gap overstates what a longer prompt alone would buy. The harness upgrades are planned, not measured, and some will not pay off.
+Our own numbers are observational and come from one person on one machine. Longer briefs go with bigger tasks, so the NT gap overstates what a longer prompt alone would buy. The harness upgrades are planned, not measured, and some won't pay off.
+
+## Evidence table
+
+The findings below back the body, with the figures I left out of the prose.
+
+Table: Supporting claims, by source and strength {#tbl-evidence}
+
+| Claim                                | Source | Strength |
+| :----------------------------------- | :----- | :------- |
+| Working memory: 3 to 5 chunks        | [16]   | strong   |
+| Horizon doubles every 4-7 months     | [1]    | moderate |
+| Pass-field list stops early victory  | [2]    | vendor   |
+| Ralph loop test backpressure         | [3]    | weak     |
+| Asking first: 69.4% vs 70.8%         | [4]    | moderate |
+| Agents ask in 3% of turns            | [5]    | moderate |
+| Fan-out 0.93 to 2.2 robots           | [32]   | moderate |
+| Consent beat exception mode          | [33]   | weak     |
+| Review-bottleneck paper: 718 firms   | [8]    | moderate |
+| I-PASS: preventable events down 30%  | [9]    | strong   |
+| WHO checklist: 11% to 7%             | [10]   | strong   |
+| Pre-interruption cues speed return   | [18]   | strong   |
+| External reminders offload intent    | [21]   | moderate |
+| Review checklist, randomized         | [11]   | moderate |
+| Chunking fails on changed structure  | [12]   | strong   |
+| Stacked PRs merge faster             | [13]   | vendor   |
+| AI review catches 6% to 82%          | [14]   | vendor   |
+| Plan-first review                    | [15]   | weak     |
+| Ready-to-resume plan                 | [22]   | moderate |
+| Supervisable agents 2.6 to 4.0       | [23]   | moderate |
+| Peak concurrency 3.25 with tool      | [23]   | moderate |
+| Breakpoint alerts: less frustration  | [24]   | moderate |
+| Batching thrice daily, not hourly    | [25]   | moderate |
+| Review time flat at 16-18 s          | [34]   | moderate |
+| Shortest-first cuts downtime 2-16%   | [37]   | weak     |
+| Forecast display hurt operators      | [38]   | weak     |
+| Playbook 66%, manual 61%, tools 48%  | [39]   | moderate |
+| Adaptive beat fixed automation       | [40]   | moderate |
+| Automation bias persists in experts  | [26]   | strong   |
+| Higher misses on ambiguous work      | [27]   | moderate |
+| Sub-agents: 2,124 runs, up to +14    | [28]   | moderate |
+| Sub-agent tokens 1.4 to 3.3x         | [28]   | moderate |
+| Write scope: 66% to 97% success      | [29]   | moderate |
+| Cursor dropped planner and judge     | [30]   | vendor   |
+| Multi-agent research: +90%, 15x      | [31]   | vendor   |
+| Shared queue: up to 50% more         | [41]   | moderate |
+| Pooled pairs: lower workload         | [42]   | mixed    |
+| Solo 3.5 min, team 13 min            | [43]   | mixed    |
 
 ## References
 
