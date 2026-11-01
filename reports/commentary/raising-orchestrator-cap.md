@@ -192,46 +192,46 @@ The findings below back the body, with the figures I left out of the prose.
 
 Table: Supporting claims, by source and strength {#tbl-evidence}
 
-| Claim                                | Source | Strength |
-| :----------------------------------- | :----- | :------- |
-| Working memory: 3 to 5 chunks        | [16]   | strong   |
-| Horizon doubles every 4-7 months     | [1]    | moderate |
-| Pass-field list stops early victory  | [2]    | vendor   |
-| Ralph loop test backpressure         | [3]    | weak     |
-| Asking first: 69.4% vs 70.8%         | [4]    | moderate |
-| Agents ask in 3% of turns            | [5]    | moderate |
-| Fan-out 0.93 to 2.2 robots           | [32]   | moderate |
-| Consent beat exception mode          | [33]   | weak     |
-| Review-bottleneck paper: 718 firms   | [8]    | moderate |
-| I-PASS: preventable events down 30%  | [9]    | strong   |
-| WHO checklist: 11% to 7%             | [10]   | strong   |
-| Pre-interruption cues speed return   | [18]   | strong   |
-| External reminders offload intent    | [21]   | moderate |
-| Review checklist, randomized         | [11]   | moderate |
-| Chunking fails on changed structure  | [12]   | strong   |
-| Stacked PRs merge faster             | [13]   | vendor   |
-| AI review catches 6% to 82%          | [14]   | vendor   |
-| Plan-first review                    | [15]   | weak     |
-| Ready-to-resume plan                 | [22]   | moderate |
-| Supervisable agents 2.6 to 4.0       | [23]   | moderate |
-| Peak concurrency 3.25 with tool      | [23]   | moderate |
-| Breakpoint alerts: less frustration  | [24]   | moderate |
-| Batching thrice daily, not hourly    | [25]   | moderate |
-| Review time flat at 16-18 s          | [34]   | moderate |
-| Shortest-first cuts downtime 2-16%   | [37]   | weak     |
-| Forecast display hurt operators      | [38]   | weak     |
-| Playbook 66%, manual 61%, tools 48%  | [39]   | moderate |
-| Adaptive beat fixed automation       | [40]   | moderate |
-| Automation bias persists in experts  | [26]   | strong   |
-| Higher misses on ambiguous work      | [27]   | moderate |
-| Sub-agents: 2,124 runs, up to +14    | [28]   | moderate |
-| Sub-agent tokens 1.4 to 3.3x         | [28]   | moderate |
-| Write scope: 66% to 97% success      | [29]   | moderate |
-| Cursor dropped planner and judge     | [30]   | vendor   |
-| Multi-agent research: +90%, 15x      | [31]   | vendor   |
-| Shared queue: up to 50% more         | [41]   | moderate |
-| Pooled pairs: lower workload         | [42]   | mixed    |
-| Solo 3.5 min, team 13 min            | [43]   | mixed    |
+| Claim                               | Source | Strength |
+| :---------------------------------- | :----- | :------- |
+| Working memory: 3 to 5 chunks       | [16]   | strong   |
+| Horizon doubles every 4-7 months    | [1]    | moderate |
+| Pass-field list stops early victory | [2]    | vendor   |
+| Ralph loop test backpressure        | [3]    | weak     |
+| Asking first: 69.4% vs 70.8%        | [4]    | moderate |
+| Agents ask in 3% of turns           | [5]    | moderate |
+| Fan-out 0.93 to 2.2 robots          | [32]   | moderate |
+| Consent beat exception mode         | [33]   | weak     |
+| Review-bottleneck paper: 718 firms  | [8]    | moderate |
+| I-PASS: preventable events down 30% | [9]    | strong   |
+| WHO checklist: 11% to 7%            | [10]   | strong   |
+| Pre-interruption cues speed return  | [18]   | strong   |
+| External reminders offload intent   | [21]   | moderate |
+| Review checklist, randomized        | [11]   | moderate |
+| Chunking fails on changed structure | [12]   | strong   |
+| Stacked PRs merge faster            | [13]   | vendor   |
+| AI review catches 6% to 82%         | [14]   | vendor   |
+| Plan-first review                   | [15]   | weak     |
+| Ready-to-resume plan                | [22]   | moderate |
+| Supervisable agents 2.6 to 4.0      | [23]   | moderate |
+| Peak concurrency 3.25 with tool     | [23]   | moderate |
+| Breakpoint alerts: less frustration | [24]   | moderate |
+| Batching thrice daily, not hourly   | [25]   | moderate |
+| Review time flat at 16-18 s         | [34]   | moderate |
+| Shortest-first cuts downtime 2-16%  | [37]   | weak     |
+| Forecast display hurt operators     | [38]   | weak     |
+| Playbook 66%, manual 61%, tools 48% | [39]   | moderate |
+| Adaptive beat fixed automation      | [40]   | moderate |
+| Automation bias persists in experts | [26]   | strong   |
+| Higher misses on ambiguous work     | [27]   | moderate |
+| Sub-agents: 2,124 runs, up to +14   | [28]   | moderate |
+| Sub-agent tokens 1.4 to 3.3x        | [28]   | moderate |
+| Write scope: 66% to 97% success     | [29]   | moderate |
+| Cursor dropped planner and judge    | [30]   | vendor   |
+| Multi-agent research: +90%, 15x     | [31]   | vendor   |
+| Shared queue: up to 50% more        | [41]   | moderate |
+| Pooled pairs: lower workload        | [42]   | mixed    |
+| Solo 3.5 min, team 13 min           | [43]   | mixed    |
 
 ## References
 
@@ -266,7 +266,7 @@ Table: Supporting claims, by source and strength {#tbl-evidence}
 29. **Claim Plane**: declared write scope for concurrent agents, 2026. [Claim Plane](https://arxiv.org/abs/2608.00947).
 30. **Cursor**: long-running autonomous coding experiment, 2026. [Self-driving codebases](https://cursor.com/blog/self-driving-codebases).
 31. **Anthropic multi-agent research system**: lead and worker agents for research, 2025. [How Anthropic built a multi-agent research system](https://blog.bytebytego.com/p/how-anthropic-built-a-multi-agent).
-32. **Olsen and Goodrich**: metrics for one person driving several robots. [Metrics for human driving of multiple robots](http://byu.danrolsenjr.org/paperPDFs/FanoutIEEE.pdf).
+32. **Olsen and goodrich**: metrics for one person driving several robots. [Metrics for human driving of multiple robots](http://byu.danrolsenjr.org/paperPDFs/FanoutIEEE.pdf).
 33. **Ruff, narayanan and draper**: consent and exception automation with several drones, 2002. [Human interaction with levels of automation and decision-aid fidelity](https://www.semanticscholar.org/paper/Human-Interaction-with-Levels-of-Automation-and-in-Ruff-Narayanan/98be4f42ebf95843365467af8cfad0079ef261da).
 34. **Crandall and Cummings**: neglect, interaction and wait times as a team grows, 2007. [Developing performance metrics for the supervisory control of multiple robots](https://faculty.cs.byu.edu/~crandall/papers/CrandallCummingsHRI2007.pdf).
 35. **Goodrich and colleagues**: operator detection of stuck robots with and without alerts, 2007. [Managing autonomy in robot teams](https://faculty.cs.byu.edu/~mike/mikeg/papers/GoodrichHRI2007.pdf).

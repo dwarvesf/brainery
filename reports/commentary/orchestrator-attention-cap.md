@@ -203,7 +203,7 @@ Table: Supporting claims and how strong they are {#tbl-evidence}
 | Fan-out defined for robots          | [1]    | strong    |
 | Wait term added to fan-out          | [3]    | strong    |
 | Queues grow nonlinearly with load   | [8]    | moderate  |
-| Refocus takes 10 to 15 min        | [12]   | strong    |
+| Refocus takes 10 to 15 min          | [12]   | strong    |
 | A specific plan stops intrusions    | [17]   | moderate  |
 | Lower WIP, shorter lead time        | [36]   | moderate  |
 | One meeting splits an afternoon     | [21]   | essay     |
