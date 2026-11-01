@@ -196,7 +196,7 @@ The cost of this approach is real too. Running fewer threads means some agents s
 
 ## References
 
-1. **Olsen and Wood**: fan-out definition for multi-robot control, 2004. [Fan-out: measuring human control of multiple robots](https://www.researchgate.net/publication/221519367_Fan-out_Measuring_human_control_of_multiple_robots).
+1. **Olsen and wood**: fan-out definition for multi-robot control, 2004. [Fan-out: measuring human control of multiple robots](https://www.researchgate.net/publication/221519367_Fan-out_Measuring_human_control_of_multiple_robots).
 2. **Crandall, Goodrich, Olsen and Nielsen**: neglect tolerance and the NT/IT fan-out form, 2005. [Validating human-robot interaction schemes in multitasking environments](https://students.cs.byu.edu/~crandall/papers/CGON_SMCa_05.pdf).
 3. **Crandall and Cummings**: fan-out with wait time and a user study of four to six robots, 2007. [Identifying predictive metrics for supervisory control of multiple robots](https://faculty.cs.byu.edu/~crandall/papers/CrandallCummingsTRO2007_Final.pdf).
 4. **Cummings and Guerlain**: operator utilization and the 70% threshold, 2007. [Developing operator capacity estimates for supervisory control of autonomous vehicles](https://journals.sagepub.com/doi/10.1518/001872007779598109).

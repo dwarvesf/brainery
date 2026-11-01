@@ -42,7 +42,7 @@ There are three ways up. Raise NT so agents need you less often. Cut IT so each 
 
 The terms are not equal. My own median loop is two minutes alone and two and a half waiting, so a small NT gain moves my cap more than any polish on re-entry. Somebody whose agents already run for an hour gets more from cutting review cost. ==Find your smallest term first, because the same trick can double one person's cap and barely move another's.==
 
-## How do I make agents run longer alone?
+## How do i make agents run longer alone?
 
 Give them a bigger, checkable job. Of all the levers, raising NT has the clearest evidence, and our own logs back it.
 
@@ -73,7 +73,7 @@ Length alone is not the point. A long run is only useful if you can trust where 
 
 Supervisory-control research found the same thing about robots and drones. Operators handled four to five drones when they approved every step and eight to twelve when the drones only called on exceptions [7]. In Olsen and Goodrich's driving study, giving each robot goal-seeking autonomy raised measured fan-out from 0.93 to 2.2 robots [32]. The same field adds a caution. In a small drone study, operators did better approving each step than handling exceptions only [33], and other work ties exception mode to complacency and lost awareness. Raise NT on reversible work, and keep a consent gate on anything you cannot undo.
 
-## How do I make each review cheaper?
+## How do i make each review cheaper?
 
 Make every result arrive in the same shape, small enough to judge, with the evidence attached. Review is where AI coding speed currently stalls.
 
@@ -87,7 +87,7 @@ Three more tricks have weaker support:
 - **An AI first-pass review**: catch rates in vendor benchmarks range from 6% to 82% across tools [14]. Use it as an advisory pass, never as the merge gate.
 - **Review the plan instead of the code**: approve the plan up front, then check only that the code matches it [15]. This is practitioner advice, untested.
 
-## How do I get back into a thread faster?
+## How do i get back into a thread faster?
 
 Write down your next step before you leave, and let the agent write down what it did. This is the trick behind my "keep a note" guess, and it needs both halves.
 
@@ -140,23 +140,23 @@ Start with the two-author re-entry card and longer verified runs. The card has t
 
 Table: Tricks ranked by evidence and fit {#tbl-ranked}
 
-| Trick                     | Moves      | Evidence | Cost   |
-| :------------------------ | :--------- | :------- | :----- |
-| Bigger brief with a test  | NT         | Moderate | Low    |
-| Ask questions up front    | NT         | Moderate | Low    |
-| Two-author re-entry card  | WT         | Strong   | Low    |
-| Fixed result card format  | IT         | Moderate | Low    |
-| Push alert when blocked   | WT         | Moderate | Low    |
-| Needs-input triage queue  | WT         | Moderate | Medium |
-| Packaged plays (skills)   | NT, IT     | Moderate | Medium |
-| Exception-only escalation | NT         | Moderate | Medium |
-| Sandbox and risk tiers    | NT         | Moderate | Medium |
-| Small diffs, stacked PRs  | IT         | Weak     | Medium |
-| AI first-pass review      | IT         | Weak     | Low    |
-| Alert batching            | wellbeing  | Mixed    | Low    |
-| Shared queue, two humans  | WT         | Mixed    | Medium |
-| Shortest review first     | WT         | Weak     | Low    |
-| Lead agent over workers   | moves queue| Weak     | High   |
+| Trick                     | Moves       | Evidence | Cost   |
+| :------------------------ | :---------- | :------- | :----- |
+| Bigger brief with a test  | NT          | Moderate | Low    |
+| Ask questions up front    | NT          | Moderate | Low    |
+| Two-author re-entry card  | WT          | Strong   | Low    |
+| Fixed result card format  | IT          | Moderate | Low    |
+| Push alert when blocked   | WT          | Moderate | Low    |
+| Needs-input triage queue  | WT          | Moderate | Medium |
+| Packaged plays (skills)   | NT, IT      | Moderate | Medium |
+| Exception-only escalation | NT          | Moderate | Medium |
+| Sandbox and risk tiers    | NT          | Moderate | Medium |
+| Small diffs, stacked PRs  | IT          | Weak     | Medium |
+| AI first-pass review      | IT          | Weak     | Low    |
+| Alert batching            | wellbeing   | Mixed    | Low    |
+| Shared queue, two humans  | WT          | Mixed    | Medium |
+| Shortest review first     | WT          | Weak     | Low    |
+| Lead agent over workers   | moves queue | Weak     | High   |
 
 ## How are we upgrading our harness?
 
@@ -185,44 +185,44 @@ Our own numbers are observational and come from one person on one machine. Longe
 
 1. **METR time horizons**: task-length horizon of frontier agents and its doubling time, 2026. [METR time horizons in 2026](https://agitracker.io/blog/metr-time-horizons-2026/).
 2. **Anthropic engineering**: harness patterns for long-running coding agents, 2025. [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents).
-3. **Geoffrey Huntley**: the Ralph loop and test backpressure, 2025. [How to Ralph Wiggum](https://github.com/ghuntley/how-to-ralph-wiggum).
-4. **Ask or Assume?**: clarifying underspecified tasks before execution, 2026. [Ask or assume?](https://arxiv.org/abs/2603.26233).
+3. **Geoffrey huntley**: the Ralph loop and test backpressure, 2025. [How to Ralph Wiggum](https://github.com/ghuntley/how-to-ralph-wiggum).
+4. **Ask or assume?**: clarifying underspecified tasks before execution, 2026. [Ask or assume?](https://arxiv.org/abs/2603.26233).
 5. **SWE-chat**: how often real coding agents ask questions, 2026. [SWE-chat](https://arxiv.org/html/2604.20779v1).
 6. **Anthropic engineering**: auto mode, approval rates and sandboxing, 2026. [Claude Code auto mode](https://www.anthropic.com/engineering/claude-code-auto-mode).
 7. **Cummings**: vehicles per operator by automation architecture. [Automation architecture for single operator, multiple UAV command and control](http://www.dodccrp.org/files/IC2J_v1n2_01_Cummings.pdf).
-8. **Chen and Stratton**: AI coding agents and the code review bottleneck, 2026. [Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/).
+8. **Chen and stratton**: AI coding agents and the code review bottleneck, 2026. [Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/).
 9. **Starmer and colleagues**: I-PASS handoff program and medical errors, 2014. [Changes in medical errors after implementation of a handoff program](https://www.nejm.org/doi/full/10.1056/NEJMsa1405556).
 10. **Haynes and colleagues**: WHO surgical safety checklist, 2009. [A surgical safety checklist to reduce morbidity and mortality](https://www.nejm.org/doi/full/10.1056/NEJMsa0810119).
 11. **Gonçalves and colleagues**: checklists in code review, randomized experiment, 2022. [Do explicit review strategies improve code review performance?](https://link.springer.com/article/10.1007/s10664-022-10123-8).
-12. **Gobet and Simon**: expert memory relies on templates of familiar structure, 1998. [Expert chess memory: revisiting the chunking hypothesis](http://www.chrest.info/Fribourg_Cours_Expertise/Articles-www/II%20Donnees%20empiriques/Gobet%20&%20Simon-1998-Memory.pdf).
+12. **Gobet and simon**: expert memory relies on templates of familiar structure, 1998. [Expert chess memory: revisiting the chunking hypothesis](http://www.chrest.info/Fribourg_Cours_Expertise/Articles-www/II%20Donnees%20empiriques/Gobet%20&%20Simon-1998-Memory.pdf).
 13. **Graphite**: vendor case study on stacked pull requests at Asana. [Asana customer story](https://graphite.com/customer/asana).
 14. **Greptile**: vendor benchmark of AI code review catch rates. [AI code review benchmarks](https://www.greptile.com/benchmarks).
 15. **Pocus engineering**: reviewing the plan alongside the code. [Rethinking code reviews](https://i0exception.substack.com/p/rethinking-code-reviews).
 16. **Cowan**: working memory holds about three to five chunks, 2001. [The magical number 4 in short-term memory](https://philpapers.org/rec/COWTMN).
 17. **Trafton and colleagues**: preparing for an interruption speeds resumption, 2003. [Preparing to resume an interrupted task](https://www.interruptions.net/literature/Trafton-IJHCS03.pdf).
-18. **Altmann and Trafton**: task interruption and resumption lag, 2004. [Task interruption: resumption lag and the role of cues](https://www.interruptions.net/literature/Altmann-CogSci04.pdf).
-19. **Parnin and Rugaber**: resumption strategies of 86 programmers, 2011. [Resumption strategies for interrupted programming tasks](https://link.springer.com/article/10.1007/s11219-010-9104-9).
+18. **Altmann and trafton**: task interruption and resumption lag, 2004. [Task interruption: resumption lag and the role of cues](https://www.interruptions.net/literature/Altmann-CogSci04.pdf).
+19. **Parnin and rugaber**: resumption strategies of 86 programmers, 2011. [Resumption strategies for interrupted programming tasks](https://link.springer.com/article/10.1007/s11219-010-9104-9).
 20. **Lill and colleagues**: LLM summaries, timelines and notes for developer resumption, 2026. [TaCoS preprint](https://hasel.dev/wp-content/uploads/2026/01/TACOS-pre-print.pdf).
 21. **Gilbert**: offloading intentions to external reminders, 2015. [Strategic offloading of delayed intentions into the external environment](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4448673/).
 22. **Leroy and Glomb**: a ready-to-resume plan removes the residue penalty, 2018. [Tasks interrupted](https://www.semanticscholar.org/paper/Tasks-Interrupted:-How-Anticipating-Time-Pressure-a-Leroy-Glomb/eeeab9fec8439ae2821ba127ef5d398b4f7f5d4a).
 23. **ParallelPilot**: a triage view for developers running parallel agents, 2026. [ParallelPilot](https://arxiv.org/html/2609.33113v1).
-24. **Iqbal and Bailey**: deferring notifications to breakpoints, 2008. [Effects of intelligent notification management on users and their tasks](https://interruptions.net/literature/Iqbal-CHI08.pdf).
+24. **Iqbal and bailey**: deferring notifications to breakpoints, 2008. [Effects of intelligent notification management on users and their tasks](https://interruptions.net/literature/Iqbal-CHI08.pdf).
 25. **Fitz and colleagues**: batching smartphone notifications, randomized, 2019. [Batching smartphone notifications can improve well-being](https://www.kushlev.com/s/2019-Fitz-Batching.pdf).
-26. **Parasuraman and Manzey**: complacency and automation bias, 2010. [Complacency and bias in human use of automation](https://www.semanticscholar.org/paper/Complacency-and-Bias-in-Human-Use-of-Automation:-An-Parasuraman-Manzey/b0e5a85803bb959ed2cbd47c51009cc48059c02c).
+26. **Parasuraman and manzey**: complacency and automation bias, 2010. [Complacency and bias in human use of automation](https://www.semanticscholar.org/paper/Complacency-and-Bias-in-Human-Use-of-Automation:-An-Parasuraman-Manzey/b0e5a85803bb959ed2cbd47c51009cc48059c02c).
 27. **Independent stress test of auto mode**: classifier misses on ambiguous workloads, 2026. [Stress testing agent auto-approval](https://arxiv.org/html/2604.04978v1).
 28. **When sub-agents work in parallel**: cost and failure modes of parallel sub-agents, 2026. [When sub-agents work in parallel](https://arxiv.org/html/2610.10263).
 29. **Claim Plane**: declared write scope for concurrent agents, 2026. [Claim Plane](https://arxiv.org/abs/2608.00947).
 30. **Cursor**: long-running autonomous coding experiment, 2026. [Self-driving codebases](https://cursor.com/blog/self-driving-codebases).
 31. **Anthropic multi-agent research system**: lead and worker agents for research, 2025. [How Anthropic built a multi-agent research system](https://blog.bytebytego.com/p/how-anthropic-built-a-multi-agent).
 32. **Olsen and Goodrich**: metrics for one person driving several robots. [Metrics for human driving of multiple robots](http://byu.danrolsenjr.org/paperPDFs/FanoutIEEE.pdf).
-33. **Ruff, Narayanan and Draper**: consent and exception automation with several drones, 2002. [Human interaction with levels of automation and decision-aid fidelity](https://www.semanticscholar.org/paper/Human-Interaction-with-Levels-of-Automation-and-in-Ruff-Narayanan/98be4f42ebf95843365467af8cfad0079ef261da).
+33. **Ruff, narayanan and draper**: consent and exception automation with several drones, 2002. [Human interaction with levels of automation and decision-aid fidelity](https://www.semanticscholar.org/paper/Human-Interaction-with-Levels-of-Automation-and-in-Ruff-Narayanan/98be4f42ebf95843365467af8cfad0079ef261da).
 34. **Crandall and Cummings**: neglect, interaction and wait times as a team grows, 2007. [Developing performance metrics for the supervisory control of multiple robots](https://faculty.cs.byu.edu/~crandall/papers/CrandallCummingsHRI2007.pdf).
 35. **Goodrich and colleagues**: operator detection of stuck robots with and without alerts, 2007. [Managing autonomy in robot teams](https://faculty.cs.byu.edu/~mike/mikeg/papers/GoodrichHRI2007.pdf).
 36. **Chien and colleagues**: request queues and scheduling aids for multi-robot operators, 2012. [Scheduling operator attention for multi-robot control](https://www.ri.cmu.edu/pub_files/2012/10/Chien_IROS12_Final_Version.pdf).
-37. **Mau and Dolan**: scheduling operator attention across robots, 2007. [Scheduling for humans in multirobot supervisory control](https://www.ri.cmu.edu/pub_files/pub4/mau_sandra_2007_2/mau_sandra_2007_2.pdf).
-38. **Cummings and Mitchell**: schedule prediction displays for drone operators, 2005. [Management of multiple dynamic human supervisory control tasks](https://scholars.duke.edu/display/pub1108379).
+37. **Mau and dolan**: scheduling operator attention across robots, 2007. [Scheduling for humans in multirobot supervisory control](https://www.ri.cmu.edu/pub_files/pub4/mau_sandra_2007_2/mau_sandra_2007_2.pdf).
+38. **Cummings and mitchell**: schedule prediction displays for drone operators, 2005. [Management of multiple dynamic human supervisory control tasks](https://scholars.duke.edu/display/pub1108379).
 39. **NASA and AFRL**: playbook, tools and manual control of several drones, 2018. [NASA TP-2018-219875](https://ntrs.nasa.gov/api/citations/20180003961/downloads/20180003961.pdf).
-40. **Parasuraman, Cosenzo and de Visser**: adaptive automation for supervising several vehicles, 2009. [Adaptive automation for human supervision of multiple uninhabited vehicles](https://www.researchgate.net/publication/247503506_Adaptive_Automation_for_Human_Supervision_of_Multiple_Uninhabited_Vehicles_Effects_on_Change_Detection_Situation_Awareness_and_Mental_Workload).
+40. **Parasuraman, cosenzo and de visser**: adaptive automation for supervising several vehicles, 2009. [Adaptive automation for human supervision of multiple uninhabited vehicles](https://www.researchgate.net/publication/247503506_Adaptive_Automation_for_Human_Supervision_of_Multiple_Uninhabited_Vehicles_Effects_on_Change_Detection_Situation_Awareness_and_Mental_Workload).
 41. **Nehme and Cummings**: multiserver queueing for supervisory control. [Multiserver queueing for supervisory control of autonomous vehicles](https://ieeexplore.ieee.org/document/6314967/).
-42. **Gao, Cummings and Bertuccelli**: pooled and split teams supervising 24 robots, 2012. [Teamwork in controlling multiple robots](https://dl.acm.org/doi/10.1145/2157689.2157703).
-43. **Frontiers in Psychology**: single operator against a team in multi-vehicle control, 2016. [Supervisory control of multiple vehicles, team and solo](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00568/full).
+42. **Gao, Cummings and bertuccelli**: pooled and split teams supervising 24 robots, 2012. [Teamwork in controlling multiple robots](https://dl.acm.org/doi/10.1145/2157689.2157703).
+43. **Frontiers in psychology**: single operator against a team in multi-vehicle control, 2016. [Supervisory control of multiple vehicles, team and solo](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00568/full).
