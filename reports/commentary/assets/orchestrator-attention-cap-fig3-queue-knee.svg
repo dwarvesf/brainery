@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 404" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" role="img" aria-labelledby="t d">
+  <title id="t">Fig. 3 agent wait against human utilisation, M/M/1</title>
+  <desc id="d">Line chart of agent wait in review-lengths, Wq = rho / (1 - rho), for utilisation rho from 0.30 to 0.95. Marked points: 50% busy waits 1.0, 70% waits 2.3 (highlighted as the knee), 80% waits 4, 90% waits 9, 95% waits 19. A shaded band from 0.4 to 0.7 is labelled healthy.</desc>
+  <defs>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+    <marker id="arrdim" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#6f8fb0"/>
+    </marker>
+  </defs>
+  <rect width="760" height="404" fill="#12395f"/>
+  <rect width="760" height="404" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="759" height="403" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 3 · THE QUEUE KNEE</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">WAIT EXPLODES PAST 70% BUSY</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <rect x="168.462" y="70" width="235.385" height="260" fill="#385a7b" stroke="none" fill-opacity="0.35"/>
+  <text x="286.154" y="88" font-size="9" letter-spacing="1.5" fill="#a7c0d9" text-anchor="middle">HEALTHY</text>
+  <text x="286.154" y="102" font-size="9" fill="#6f8fb0" text-anchor="middle">agents wait, you stay sharp</text>
+  <line x1="90" y1="330" x2="600" y2="330" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="82" y="333" font-size="9" fill="#6f8fb0" text-anchor="end">0</text>
+  <line x1="90" y1="265" x2="600" y2="265" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="82" y="268" font-size="9" fill="#6f8fb0" text-anchor="end">5</text>
+  <line x1="90" y1="200" x2="600" y2="200" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="82" y="203" font-size="9" fill="#6f8fb0" text-anchor="end">10</text>
+  <line x1="90" y1="135" x2="600" y2="135" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="82" y="138" font-size="9" fill="#6f8fb0" text-anchor="end">15</text>
+  <line x1="90" y1="70" x2="600" y2="70" stroke="#385a7b" stroke-opacity="0.6"/>
+  <text x="82" y="73" font-size="9" fill="#6f8fb0" text-anchor="end">20</text>
+  <line x1="90" y1="330" x2="90" y2="70" stroke="#385a7b" stroke-opacity="0.3"/>
+  <text x="90" y="346" font-size="9" fill="#6f8fb0" text-anchor="middle">0.3</text>
+  <line x1="246.923" y1="330" x2="246.923" y2="70" stroke="#385a7b" stroke-opacity="0.3"/>
+  <text x="246.923" y="346" font-size="9" fill="#6f8fb0" text-anchor="middle">0.5</text>
+  <line x1="403.846" y1="330" x2="403.846" y2="70" stroke="#385a7b" stroke-opacity="0.3"/>
+  <text x="403.846" y="346" font-size="9" fill="#6f8fb0" text-anchor="middle">0.7</text>
+  <line x1="560.769" y1="330" x2="560.769" y2="70" stroke="#385a7b" stroke-opacity="0.3"/>
+  <text x="560.769" y="346" font-size="9" fill="#6f8fb0" text-anchor="middle">0.9</text>
+  <line x1="90" y1="330" x2="600" y2="330" stroke="#68839d"/>
+  <line x1="90" y1="70" x2="90" y2="330" stroke="#68839d"/>
+  <text x="90" y="56" font-size="9" letter-spacing="1.5" fill="#6f8fb0">AGENT WAIT, IN REVIEW-LENGTHS</text>
+  <text x="345" y="366" font-size="9" letter-spacing="1.5" fill="#6f8fb0" text-anchor="middle">HOW BUSY YOU ARE (ρ)</text>
+  <polyline points="90.0,324.4 97.8,324.2 105.7,323.9 113.5,323.6 121.4,323.3 129.2,323.0 137.1,322.7 144.9,322.4 152.8,322.0 160.6,321.7 168.5,321.3 176.3,321.0 184.2,320.6 192.0,320.2 199.8,319.8 207.7,319.4 215.5,318.9 223.4,318.5 231.2,318.0 239.1,317.5 246.9,317.0 254.8,316.5 262.6,315.9 270.5,315.3 278.3,314.7 286.2,314.1 294.0,313.5 301.8,312.8 309.7,312.0 317.5,311.3 325.4,310.5 333.2,309.7 341.1,308.8 348.9,307.9 356.8,306.9 364.6,305.9 372.5,304.8 380.3,303.6 388.2,302.4 396.0,301.1 403.8,299.7 411.7,298.2 419.5,296.6 427.4,294.9 435.2,293.0 443.1,291.0 450.9,288.8 458.8,286.5 466.6,283.9 474.5,281.1 482.3,278.0 490.2,274.6 498.0,270.8 505.8,266.5 513.7,261.8 521.5,256.3 529.4,250.1 537.2,243.0 545.1,234.7 552.9,224.8 560.8,213.0 568.6,198.6 576.5,180.5 584.3,157.3 592.2,126.3 600.0,83.0" fill="none" stroke="#c3d7ea" stroke-width="2.25" stroke-linejoin="round"/>
+  <text x="614" y="81" font-size="10" fill="#c3d7ea">Wq = ρ / (1 - ρ)</text>
+  <text x="614" y="96" font-size="10" fill="#e8f1fa">95% busy: waits 19</text>
+  <circle cx="246.9" cy="317.0" r="3.5" fill="#c3d7ea"/>
+  <text x="246.9" y="305" font-size="10" fill="#c3d7ea" text-anchor="middle">50%: 1.0</text>
+  <circle cx="482.3" cy="278.0" r="3.5" fill="#c3d7ea"/>
+  <text x="472.3" y="272" font-size="10" fill="#c3d7ea" text-anchor="end">80%: 4</text>
+  <circle cx="560.8" cy="213.0" r="3.5" fill="#c3d7ea"/>
+  <text x="550.8" y="211" font-size="10" fill="#c3d7ea" text-anchor="end">90%: 9</text>
+  <circle cx="600.0" cy="83.0" r="3.5" fill="#c3d7ea"/>
+  <line x1="403.846" y1="299.667" x2="403.846" y2="330" stroke="#e8c56a" stroke-opacity="0.6" style="stroke-dasharray:3 3"/>
+  <circle cx="403.8" cy="299.7" r="5" fill="#12395f" stroke="#e8c56a" stroke-width="2"/>
+  <line x1="399.846" y1="293.667" x2="389.846" y2="269.667" stroke="#e8c56a"/>
+  <text x="385.846" y="251.667" font-size="10.5" fill="#e8c56a" text-anchor="end">70%: the knee</text>
+  <text x="385.846" y="265.667" font-size="10" fill="#e8f1fa" text-anchor="end">waits 2.3 reviews</text>
+  <text x="90" y="392" font-size="9" fill="#6f8fb0">M/M/1, one reviewer, random arrivals; wait in units of one review (IT)</text>
+</svg>
