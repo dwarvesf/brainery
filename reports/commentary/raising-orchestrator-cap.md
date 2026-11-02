@@ -163,6 +163,49 @@ Table: Tricks ranked by evidence and fit {#tbl-ranked}
 | Shortest review first     | WT          | Weak     | Low    |
 | Lead agent over workers   | moves queue | Weak     | High   |
 
+## How do you set this up yourself?
+
+Most of it is already in your tools. Claude Code ships the loop, the hooks and the status line; your terminal or editor supplies the place where waiting work shows up. What's missing is the wiring between them, and that is an afternoon of config.
+
+The table maps each lever to what your tools already have, what you set up, and how we did it. Rows marked planned are the ones we are wiring now.
+
+Table: Levers, built-in features and what to set up {#tbl-setup}
+
+| Lever           | Built in                  | You set up                       | Our setup                         |
+| :-------------- | :------------------------ | :------------------------------- | :-------------------------------- |
+| Longer runs     | /goal loop, skills        | Brief with a test to stop on     | Briefs carry a Done line          |
+| Fewer stops     | Permission modes, deny    | Allow routine, deny irreversible | Prompts off, deny rules, guards   |
+| One queue       | Notification hook         | Send "needs input" to one place  | Hook marks the Orca board (tested)|
+| Quiet when done | Notification settings     | Alert on input, not on done      | Sounds on input only (planned)    |
+| Re-entry        | SessionStart hook         | Next-step line before a switch   | /park writes it (planned)         |
+| Cheaper review  | Stop and SubagentStop     | Fixed result card, checked       | Card lint on workers (planned)    |
+| Thread cap      | Status line, agent view   | Show live threads, warn above 3  | Count in status line (planned)    |
+
+Start with the first three rows. They need no new code, and our logs say longer runs and a single queue carry most of the gain.
+
+The queue row is two hooks. When Claude Code needs input, the first hook marks the workspace on Orca's board with the ask as a comment; when you reply, the second clears it. We ran both hook commands exactly as written here against our own board, and wiring them into every session ships with our next setup batch. If you use tmux or a plain terminal, swap the board command for a desktop notification or a line appended to one file.
+
+```json {file="~/.claude/settings.json"}
+{
+  "hooks": {
+    "Notification": [
+      { "hooks": [ { "type": "command",
+        "command": "msg=$(jq -r '.message // \"needs input\"'); orca worktree set --worktree current --workspace-status in-review --unread --comment \"$msg\" >/dev/null" } ] }
+    ],
+    "UserPromptSubmit": [
+      { "hooks": [ { "type": "command",
+        "command": "orca worktree set --worktree current --workspace-status in-progress --read >/dev/null" } ] }
+    ]
+  }
+}
+```
+
+Then check the board at moments you choose, with one command across every worktree:
+
+```bash
+orca worktree ps --agent-wait
+```
+
 ## How are we upgrading our harness?
 
 We are turning the top tricks into defaults, so they happen without anyone remembering them. Most of the parts already exist in our setup; the gaps are the glue between them.
