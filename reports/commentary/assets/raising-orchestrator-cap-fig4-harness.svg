@@ -22,7 +22,7 @@
   <text x="232" y="127.5" font-size="9.5" font-weight="700" fill="#17212b" text-anchor="middle">5</text>
   <rect x="270" y="104" width="220" height="92" rx="6" fill="#ffffff" stroke="#4e5b69" stroke-width="1.2"/>
   <text x="284" y="130" font-size="11.5" font-weight="700" fill="#17212b">worker runs alone</text>
-  <text x="284" y="154" font-size="10" fill="#4e5b69">auto-approve inside its worktree</text>
+  <text x="284" y="154" font-size="10" fill="#4e5b69">hard stop on irreversible steps</text>
   <text x="284" y="171" font-size="10" fill="#4e5b69">stall watchdog nudges</text>
   <circle cx="474" cy="124" r="8.5" fill="#ffffff" stroke="#17212b" stroke-width="1.2"/>
   <text x="474" y="127.5" font-size="9.5" font-weight="700" fill="#17212b" text-anchor="middle">7</text>
@@ -41,7 +41,7 @@
   <text x="716" y="291.5" font-size="9.5" font-weight="700" fill="#17212b" text-anchor="middle">2</text>
   <rect x="270" y="268" width="220" height="92" rx="6" fill="#ffffff" stroke="#4e5b69" stroke-width="1.2"/>
   <text x="284" y="294" font-size="11.5" font-weight="700" fill="#17212b">needs-me queue</text>
-  <text x="284" y="318" font-size="10" fill="#4e5b69">one list, oldest first,</text>
+  <text x="284" y="318" font-size="10" fill="#4e5b69">a board status + the ask,</text>
   <text x="284" y="335" font-size="10" fill="#4e5b69">push only when blocked</text>
   <circle cx="474" cy="288" r="8.5" fill="#ffffff" stroke="#17212b" stroke-width="1.2"/>
   <text x="474" y="291.5" font-size="9.5" font-weight="700" fill="#17212b" text-anchor="middle">3</text>
