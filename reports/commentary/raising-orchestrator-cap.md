@@ -171,15 +171,15 @@ The table maps each lever to what your tools already have, what you set up, and 
 
 Table: Levers, built-in features and what to set up {#tbl-setup}
 
-| Lever           | Built in                  | You set up                       | Our setup                         |
-| :-------------- | :------------------------ | :------------------------------- | :-------------------------------- |
-| Longer runs     | /goal loop, skills        | Brief with a test to stop on     | Briefs carry a Done line          |
-| Fewer stops     | Permission modes, deny    | Allow routine, deny irreversible | Prompts off, deny rules, guards   |
-| One queue       | Notification hook         | Send "needs input" to one place  | Hook marks the Orca board (tested)|
-| Quiet when done | Notification settings     | Alert on input, not on done      | Sounds on input only (planned)    |
-| Re-entry        | SessionStart hook         | Next-step line before a switch   | /park writes it (planned)         |
-| Cheaper review  | Stop and SubagentStop     | Fixed result card, checked       | Card lint on workers (planned)    |
-| Thread cap      | Status line, agent view   | Show live threads, warn above 3  | Count in status line (planned)    |
+| Lever           | Built in                | You set up                       | Our setup                          |
+| :-------------- | :---------------------- | :------------------------------- | :--------------------------------- |
+| Longer runs     | /goal loop, skills      | Brief with a test to stop on     | Briefs carry a Done line           |
+| Fewer stops     | Permission modes, deny  | Allow routine, deny irreversible | Prompts off, deny rules, guards    |
+| One queue       | Notification hook       | Send "needs input" to one place  | Hook marks the Orca board (tested) |
+| Quiet when done | Notification settings   | Alert on input, not on done      | Sounds on input only (planned)     |
+| Re-entry        | SessionStart hook       | Next-step line before a switch   | /park writes it (planned)          |
+| Cheaper review  | Stop and SubagentStop   | Fixed result card, checked       | Card lint on workers (planned)     |
+| Thread cap      | Status line, agent view | Show live threads, warn above 3  | Count in status line (planned)     |
 
 Start with the first three rows. They need no new code, and our logs say longer runs and a single queue carry most of the gain.
 
