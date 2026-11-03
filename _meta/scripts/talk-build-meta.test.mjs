@@ -36,15 +36,16 @@ function pdf(pages) {
   return Buffer.from(out, 'latin1')
 }
 
-// Build a one-deck talk from frontmatter lines, return pdfinfo of its deck.pdf.
-function build(frontmatter, runs = 1) {
+// Build a one-deck talk from frontmatter lines (talkExtra: extra lines in its talk: block),
+// return pdfinfo of its deck.pdf and the post text after the build.
+function build(frontmatter, runs = 1, talkExtra = []) {
   const root = mkdtempSync(join(tmpdir(), 'talk-meta-'))
   try {
     const assets = join(root, 'assets', NAME)
     mkdirSync(assets, { recursive: true })
     writeFileSync(join(assets, 'deck.pdf'), pdf(2))
     const file = join(root, `${NAME}.md`)
-    writeFileSync(file, `---\n${frontmatter.join('\n')}\nlayout: talk\ntalk:\n  deck: assets/${NAME}/deck.pdf\n---\n\nIntro.\n`)
+    writeFileSync(file, `---\n${frontmatter.join('\n')}\nlayout: talk\ntalk:\n  deck: assets/${NAME}/deck.pdf\n${talkExtra.map((l) => `  ${l}\n`).join('')}---\n\nIntro.\n`)
     let r
     for (let i = 0; i < runs; i++) {
       r = spawnSync(process.execPath, [BUILD, file, '--from', 'pdf'], { encoding: 'utf8' })
@@ -52,7 +53,7 @@ function build(frontmatter, runs = 1) {
       assert.ok(r.status === 0 || r.status === 1, `talk-build died (${r.status}): ${r.stderr}`)
     }
     const info = spawnSync('pdfinfo', [join(assets, 'deck.pdf')], { encoding: 'utf8' }).stdout
-    return { info, out: r.stdout, field: (k) => info.match(new RegExp(`^${k}:\\s*(.*)$`, 'm'))?.[1] }
+    return { info, out: r.stdout, post: readFileSync(file, 'utf8'), field: (k) => info.match(new RegExp(`^${k}:\\s*(.*)$`, 'm'))?.[1] }
   } finally {
     rmSync(root, { recursive: true, force: true })
   }
@@ -84,4 +85,24 @@ test('rebuilding the same deck keeps the metadata', { skip }, () => {
   assert.equal(r.field('Title'), 'Same again', r.info)
   assert.equal(r.field('Author'), 'no-such-speaker', r.info)
   assert.equal(r.field('Pages'), '2', r.info)
+})
+
+const talkBlock = (post) => post.match(/^talk:\n((?:  .*\n)+)/m)?.[1] ?? ''
+
+test('talk.speaker is written from the speaker file for the first author', { skip }, () => {
+  const name = JSON.parse(readFileSync(join(SPEAKERS, 'tieubao.json'), 'utf8')).name
+  const r = build(['title: A talk', 'description: About a thing.', 'authors:', '  - tieubao'])
+  assert.match(talkBlock(r.post), new RegExp(`^  speaker: "${name}"$`, 'm'), r.post)
+  assert.match(r.out, /talk\.speaker: ".+" written/)
+})
+
+test('a talk.speaker set by hand is kept', { skip }, () => {
+  const r = build(['title: A talk', 'description: About a thing.', 'authors:', '  - tieubao'], 2, ['speaker: "Hand Set"'])
+  assert.match(talkBlock(r.post), /^  speaker: "Hand Set"$/m, r.post)
+  assert.equal(talkBlock(r.post).match(/speaker:/g).length, 1, r.post)
+})
+
+test('no speaker file leaves talk.speaker absent', { skip }, () => {
+  const r = build(['title: A talk', 'description: About a thing.', 'authors:', '  - no-such-speaker'])
+  assert.doesNotMatch(r.post, /speaker:/, r.post)
 })

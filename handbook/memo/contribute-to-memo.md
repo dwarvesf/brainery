@@ -169,9 +169,10 @@ talk:
   source: <link to the editable deck, or a vault path>
   video: <YouTube id of the recording>
   ratio: "16:9"
+  speaker: "Your Name"
 ```
 
-`layout: talk` and `talk.deck` are required. `event`, `given`, `source` and `video` are optional. `ratio` is the slide shape, `"16:9"`, `"16:10"` or `"4:3"`, and the default is 16:9. Quote it, because the lint allows one bare colon per line. The build script writes it for you from slide 1. Keep the media in one folder named after the note's file name:
+`layout: talk` and `talk.deck` are required. `event`, `given`, `source`, `video` and `speaker` are optional. `ratio` is the slide shape, `"16:9"`, `"16:10"` or `"4:3"`, and the default is 16:9. Quote it, because the lint allows one bare colon per line. The build script writes it for you from slide 1. `speaker` is the name the Download button puts in the file name, `<post-title>-<speaker>.pdf`; without it the file carries your handle. The build script writes it from `name` in `_meta/talk-template/speakers/<your-handle>.json` when your handle has that file, and never overwrites a value you set by hand. Keep the media in one folder named after the note's file name:
 
 ```text
 <slug>.md
@@ -194,7 +195,7 @@ A speaker profile as slide 2 is a pattern we recommend for any speaker, not a ru
 node _meta/scripts/talk-build.mjs path/to/<slug>.md
 ```
 
-It writes the slides as webp with a long edge of 1600 pixels at the deck's own ratio, never cropped or stretched. It renders `og.png` from slide 1, writes `talk.ratio`, and prints the talk checks `T1` to `T8` from the [post rubric](/memo-post-rubric). It needs a Chromium browser for the HTML path, plus poppler (`pdftoppm`, `pdfinfo`, `pdfunite`), `cwebp`, and ImageMagick or macOS `sips`. It installs nothing and names any tool it cannot find. [How to publish a talk on memo](https://github.com/dwarvesf/brainery/blob/main/handbook/memo/publish-a-talk.md) is a full example: a deck written as HTML, with a profile slide, with its source in the post's `deck-src/` folder.
+It writes the slides as webp with a long edge of 1600 pixels at the deck's own ratio, never cropped or stretched. It renders `og.png` from slide 1, writes `talk.ratio` and `talk.speaker`, sets the PDF's Title, Author and Subject, and prints the talk checks `T1` to `T8` from the [post rubric](/memo-post-rubric). It needs a Chromium browser for the HTML path, plus poppler (`pdftoppm`, `pdfinfo`, `pdfunite`), `cwebp`, and ImageMagick or macOS `sips`. It installs nothing and names any tool it cannot find. [How to publish a talk on memo](https://github.com/dwarvesf/brainery/blob/main/handbook/memo/publish-a-talk.md) is a full example: a deck written as HTML, with a profile slide, with its source in the post's `deck-src/` folder.
 
 Two of the editor's talk checks block review: the skim test (`J1`, the slides alone carry the argument) and fit (`J6`, the piece is a linear argument). A fit failure never rejects your piece. Drop `layout: talk` and publish it as a normal post, with the notes as prose.
 
