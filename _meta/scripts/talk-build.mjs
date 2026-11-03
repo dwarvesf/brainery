@@ -1,6 +1,11 @@
 #!/usr/bin/env node
 // talk-build.mjs: build the slide files of a `layout: talk` post.
 // Usage: node _meta/scripts/talk-build.mjs <post.md> [--from html|pdf]
+//        node _meta/scripts/talk-build.mjs --init <post.md>
+//
+// --init copies the house deck theme (_meta/talk-template/: theme.css and the
+// example layouts) into assets/<slug>/deck-src/ to start a deck. The theme is
+// optional; a deck exported from any tool needs no deck-src at all.
 //
 // The talk lives in <post-dir>/assets/<slug>/ (the slug is the note's file name):
 //   deck-src/*.html   optional source, one HTML file per slide, sorted by name
@@ -9,9 +14,13 @@
 //
 // From HTML (the default when deck-src/ holds .html files): print every slide to
 // a one-page PDF with headless Chrome, join the pages into deck.pdf, then go on
-// as from a PDF. Each slide sets `@page { size: 1600px 900px; margin: 0 }`.
-// From a PDF (guest decks exported from Keynote, Slides, Canva, PowerPoint):
-// split each page to slides/slide-NN.webp at 1600x900, webp q80, 200 KB cap.
+// as from a PDF. Each slide sets its page size, `@page { size: 1600px 900px;
+// margin: 0 }` for 16:9. When deck-src has no fonts.css, the template's copy
+// (the memo faces) is added to the render, so decks do not carry the fonts.
+// From a PDF (decks exported from Keynote, Slides, Canva, PowerPoint): split
+// each page to slides/slide-NN.webp at the page's own ratio, long edge 1600,
+// webp q80, 200 KB cap. Nothing is cropped or stretched. Post-check T5 accepts
+// 16:9, 16:10 and 4:3, one ratio per deck.
 // Always: render og.png (1200x630) from slide 1, then print the talk checks.
 //
 // Binaries (none are installed by this script; it names any that is missing):
@@ -21,19 +30,22 @@
 // Rule list: handbook/memo/post-rubric.md, "Talk posts".
 
 import { spawn, spawnSync } from 'node:child_process'
-import { copyFileSync, existsSync, mkdirSync, mkdtempSync, readdirSync, readFileSync, rmSync, statSync } from 'node:fs'
+import { copyFileSync, cpSync, existsSync, mkdirSync, mkdtempSync, readdirSync, readFileSync, rmSync, statSync, writeFileSync } from 'node:fs'
 import { tmpdir } from 'node:os'
 import { basename, dirname, join, resolve } from 'node:path'
 import { fileURLToPath, pathToFileURL } from 'node:url'
 
-const SLIDE_W = 1600
-const SLIDE_H = 900
+const LONG_EDGE = 1600
+const RATIOS = [[16, 9], [16, 10], [4, 3]]
 const SLIDE_MAX = 200 * 1024
 const OG_W = 1200
 const OG_H = 630
 const OG_MAX = 300 * 1024
+let firstRatio = null // set by rasterize from slide 1, written to talk.ratio
 
 const args = process.argv.slice(2)
+const TEMPLATE = join(dirname(fileURLToPath(import.meta.url)), '..', 'talk-template')
+if (args[0] === '--init') init(args[1])
 const fromAt = args.indexOf('--from')
 const fromArg = fromAt >= 0 ? args[fromAt + 1] : null
 const note = args.find((a, i) => !a.startsWith('--') && (fromAt < 0 || i !== fromAt + 1))
@@ -65,6 +77,7 @@ try {
   const pages = pdfPageCount(deckPdf)
   console.log(`deck.pdf: ${pages} pages, ${Math.round(statSync(deckPdf).size / 1024)} KB`)
   const firstPng = rasterize(pages)
+  writeRatio(firstRatio)
   makeOg(firstPng)
   const stale = readdirSync(slideDir).filter((f) => /^slide-\d+\.(webp|png)$/.test(f) && Number(f.match(/\d+/)[0]) > pages)
   if (stale.length) console.log(`note: ${stale.join(', ')} left over from a longer deck; remove them (post-check T2 flags them)`)
@@ -86,17 +99,20 @@ process.exit(talkLines.length ? 1 : 0)
 
 async function htmlToPdf() {
   const pagesOut = []
+  const stage = join(work, 'deck-src')
+  cpSync(srcDir, stage, { recursive: true })
+  if (!existsSync(join(stage, 'fonts.css')) && existsSync(join(TEMPLATE, 'fonts.css'))) copyFileSync(join(TEMPLATE, 'fonts.css'), join(stage, 'fonts.css'))
   for (const [k, f] of htmlSlides.entries()) {
     const pdf = join(work, `page-${String(k + 1).padStart(2, '0')}.pdf`)
     await runChrome(pdf, [
       '--headless=new', '--no-first-run', '--no-default-browser-check', '--disable-gpu',
       '--disable-extensions', '--hide-scrollbars', '--no-pdf-header-footer',
       '--virtual-time-budget=5000', `--user-data-dir=${join(work, 'profile')}`,
-      `--print-to-pdf=${pdf}`, pathToFileURL(join(srcDir, f)).href,
+      `--print-to-pdf=${pdf}`, pathToFileURL(join(stage, f)).href,
     ])
     if (!existsSync(pdf) || statSync(pdf).size === 0) die(`Chrome produced no PDF for ${f}`)
     const n = pdfPageCount(pdf)
-    if (n !== 1) die(`${f} printed to ${n} pages; set @page { size: ${SLIDE_W}px ${SLIDE_H}px; margin: 0 } and keep the slide inside one page`)
+    if (n !== 1) die(`${f} printed to ${n} pages; set @page { size: 1600px 900px; margin: 0 } (or your deck's size) and keep the slide inside one page`)
     pagesOut.push(pdf)
   }
   if (joiner === 'pdfunite') run('pdfunite', [...pagesOut, deckPdf])
@@ -105,16 +121,15 @@ async function htmlToPdf() {
 }
 
 function rasterize(pages) {
-  const info = run('pdfinfo', [deckPdf]).match(/Page size:\s+([\d.]+) x ([\d.]+)/)
-  if (info && Math.abs(Number(info[1]) / Number(info[2]) - SLIDE_W / SLIDE_H) > 0.01)
-    console.log(`warning: page size ${info[1]} x ${info[2]} pt is not 16:9; slides are letterboxed to ${SLIDE_W}x${SLIDE_H}`)
   let first = null
+  const seen = new Set()
   for (let p = 1; p <= pages; p++) {
     const nn = String(p).padStart(2, '0')
     const base = join(work, `r-${nn}`)
-    run('pdftoppm', ['-f', String(p), '-l', String(p), '-singlefile', '-png', '-scale-to', String(SLIDE_W), deckPdf, base])
-    const png = fitSlide(`${base}.png`, join(work, `f-${nn}.png`))
-    if (p === 1) first = png
+    run('pdftoppm', ['-f', String(p), '-l', String(p), '-singlefile', '-png', '-scale-to', String(LONG_EDGE), deckPdf, base])
+    const { png, w, h, ratio } = snapRatio(`${base}.png`, join(work, `f-${nn}.png`))
+    seen.add(ratio)
+    if (p === 1) { first = png; firstRatio = ratio }
     const webp = join(slideDir, `slide-${nn}.webp`)
     let q = 80
     run('cwebp', ['-quiet', '-q', String(q), '-m', '6', png, '-o', webp])
@@ -123,22 +138,54 @@ function rasterize(pages) {
       run('cwebp', ['-quiet', '-q', String(q), '-m', '6', png, '-o', webp])
     }
     const kb = Math.round(statSync(webp).size / 1024)
-    console.log(`slides/slide-${nn}.webp  ${SLIDE_W}x${SLIDE_H}  ${kb} KB  q${q}${kb > 200 ? '  OVER 200 KB' : ''}`)
+    console.log(`slides/slide-${nn}.webp  ${w}x${h} ${ratio}  ${kb} KB  q${q}${kb > 200 ? '  OVER 200 KB' : ''}`)
   }
+  if (seen.size > 1) console.log(`warning: the deck mixes page ratios (${[...seen].join(', ')}); post-check T5 wants one ratio per deck`)
+  for (const r of seen) if (r.startsWith('other')) console.log(`warning: a page ratio of ${r.slice(6)} is not 16:9, 16:10 or 4:3; re-export the deck at one of those (post-check T5)`)
   return first
 }
 
-// pdftoppm keeps the page aspect (long edge 1600). A 16:9 page that rounds to
-// 1600x899 or 1600x901 is stretched by one pixel; any other shape is letterboxed.
-function fitSlide(png, out) {
+// Keep the page's own ratio. pdftoppm sets the long edge to 1600; a page that
+// is a supported ratio up to rounding gets its exact size (1600x900, 1600x1000,
+// 1600x1200), by at most two pixels of resize. Anything else stays as it is.
+function snapRatio(png, out) {
   const [w, h] = pngSize(png)
-  if (w === SLIDE_W && h === SLIDE_H) return png
-  if (w === SLIDE_W && Math.abs(h - SLIDE_H) <= 2 && has('magick')) {
-    run('magick', [png, '-resize', `${SLIDE_W}x${SLIDE_H}!`, out])
-    return out
+  const long = Math.max(w, h)
+  const short = Math.min(w, h)
+  for (const [a, b] of RATIOS) {
+    const exact = Math.round((long * b) / a)
+    if (Math.abs(short - exact) > 2) continue
+    const [tw, th] = w >= h ? [long, exact] : [exact, long]
+    const ratio = `${a}:${b}`
+    if (tw === w && th === h) return { png, w, h, ratio }
+    if (has('magick')) run('magick', [png, '-resize', `${tw}x${th}!`, out])
+    else { copyFileSync(png, out); run('sips', ['-z', String(th), String(tw), out]) }
+    return { png: out, w: tw, h: th, ratio }
   }
-  pad(png, out, SLIDE_W, SLIDE_H)
-  return out
+  return { png, w, h, ratio: `other ${(long / short).toFixed(3)}` }
+}
+
+// Record slide 1's ratio as talk.ratio in the note's frontmatter, so the site
+// knows the slide shape after media-sync has moved the rasters to the bucket.
+function writeRatio(ratio) {
+  if (!ratio || ratio.startsWith('other')) return
+  const text = readFileSync(note, 'utf8')
+  const lines = text.split('\n')
+  const end = lines[0]?.trim() === '---' ? lines.findIndex((l, i) => i > 0 && l.trim() === '---') : -1
+  const at = lines.findIndex((l, i) => i > 0 && i < end && /^talk:\s*$/.test(l))
+  if (at < 0) return console.log(`warning: no talk: block in the frontmatter; add talk.ratio: "${ratio}" by hand`)
+  let k = at + 1
+  while (k < end && /^\s+\S/.test(lines[k])) {
+    if (/^\s+ratio:/.test(lines[k])) break
+    k++
+  }
+  const line = `  ratio: "${ratio}"`
+  if (k < end && /^\s+ratio:/.test(lines[k])) {
+    if (lines[k] === line) return
+    lines[k] = line
+  } else lines.splice(k, 0, line)
+  writeFileSync(note, lines.join('\n'))
+  console.log(`talk.ratio: "${ratio}" written to the frontmatter`)
 }
 
 function makeOg(firstPng) {
@@ -162,6 +209,23 @@ function pad(src, out, w, h) {
   if (sw / sh > w / h) run('sips', ['--resampleWidth', String(w), out])
   else run('sips', ['--resampleHeight', String(h), out])
   run('sips', ['--padToHeightWidth', String(h), String(w), '--padColor', 'FFFFFF', out])
+}
+
+function init(target) {
+  if (!target) die('usage: talk-build.mjs --init <post.md>')
+  const slug = basename(target).replace(/\.mdx?$/, '')
+  const dest = join(dirname(resolve(target)), 'assets', slug, 'deck-src')
+  if (existsSync(dest) && readdirSync(dest).some((f) => f.endsWith('.html'))) die(`${dest} already has slides; nothing copied`)
+  mkdirSync(dest, { recursive: true })
+  const files = readdirSync(TEMPLATE).filter((f) => f !== 'fonts.css').sort()
+  let n = 0
+  for (const f of files) {
+    const to = /^slide-\d+-.*\.html$/.test(f) ? `slide-${String(++n).padStart(2, '0')}.html` : f
+    copyFileSync(join(TEMPLATE, f), join(dest, to))
+    console.log(`deck-src/${to}${to !== f ? `  (from ${f})` : ''}`)
+  }
+  console.log(`\nStarted a deck in ${dest}. Edit the slides, add or copy layouts, then run:\n  node _meta/scripts/talk-build.mjs ${target}`)
+  process.exit(0)
 }
 
 function pngSize(p) {

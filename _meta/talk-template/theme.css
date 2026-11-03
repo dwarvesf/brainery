@@ -1,0 +1,266 @@
+/* memo talk template: the house deck theme.
+ *
+ * Optional. A member may bring slides from any tool; this is the default look
+ * for anyone who wants their deck to read like memo. Scaffold a deck with
+ *   node _meta/scripts/talk-build.mjs --init <post.md>
+ * which copies this file and the example layouts into assets/<slug>/deck-src/.
+ * One HTML file per slide; talk-build prints each one to a PDF page.
+ *
+ * Every colour and face below is a memo token, copied with its name from
+ * foundation-apps apps/memo/src/styles/memo-tokens.css (--m-*) and
+ * brand-tokens.css (--dw-*). Light values only: a slide is a fixed image, and
+ * memo shows it on white in both site themes. Sizes are the memo type scale
+ * multiplied by 1.8 for a 1600 px wide slide, rounded.
+ *
+ * Rules carried over from the design system:
+ * - Paper and ink neutrals carry text and surfaces.
+ * - Brand crimson is identity only: the dither rule, the speaker mark. It
+ *   never carries data or state.
+ * - A diagram may highlight one element, in --m-fig-accent, as memo figures do.
+ * - The dither (repeating-conic checker) is the texture for rules and bands.
+ */
+
+:root {
+  /* memo-tokens.css, light */
+  --m-paper: #ffffff;
+  --m-paper-2: #f5f4f2;
+  --m-ink: #1b1c1f;
+  --m-ink-2: #45474d;
+  --m-ink-3: #50535a;
+  --m-rule: #e2e0dd;
+  --m-rule-2: #eeecea;
+  --m-accent: #c22d5a;
+  --m-accent-soft: #f8e7ed;
+  --m-fig-plate: var(--m-paper-2);
+  --m-fig-box: var(--m-paper);
+  --m-fig-box-2: color-mix(in srgb, var(--m-ink-3) 30%, var(--m-paper));
+  --m-fig-stroke: color-mix(in srgb, var(--m-ink-3) 70%, var(--m-paper-2));
+  --m-fig-fg: var(--m-ink);
+  --m-fig-muted: var(--m-ink-3);
+  --m-fig-accent: var(--m-accent);
+  --m-serif: 'Source Serif 4', 'Source Serif Pro', Georgia, 'Times New Roman', serif;
+  --m-sans: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif;
+  --m-mono: 'IBM Plex Mono', ui-monospace, Menlo, Consolas, monospace;
+  --m-w-text: 460;
+  --m-w-head: 660;
+  --m-w-meta: 500;
+
+  /* brand-tokens.css */
+  --dw-brand: #d04d61;
+  --dw-accent: #23252c;
+
+  /* memo type scale x 1.8 (title 40, h2 26, lead 22, body 19, ui 14.5, label 11) */
+  --t-title: 72px;
+  --t-h2: 47px;
+  --t-lead: 40px;
+  --t-body: 34px;
+  --t-ui: 26px;
+  --t-label: 20px;
+  --t-statement: 96px; /* the title slide and the statement layout only */
+
+  /* memo rhythm x 1.8 (8 px base) */
+  --s-3: 29px;
+  --s-4: 43px;
+  --s-5: 58px;
+  --s-6: 86px;
+  --s-8: 130px;
+
+  /* slide box: 16:9 by default. A 4:3 deck sets 1600 x 1200 in all three places. */
+  --slide-w: 1600px;
+  --slide-h: 900px;
+}
+
+@page { size: 1600px 900px; margin: 0; }
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  width: var(--slide-w);
+  height: var(--slide-h);
+  overflow: hidden;
+  background: var(--m-paper);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.slide {
+  position: relative;
+  width: var(--slide-w);
+  height: var(--slide-h);
+  padding: var(--s-6) var(--s-8) 0;
+  background: var(--m-paper);
+  color: var(--m-ink);
+  font-family: var(--m-sans);
+  font-size: var(--t-body);
+  line-height: 1.5;
+  overflow: hidden;
+}
+
+/* top band: section label, neutral dither line, deck name (brand-tokens .dw-band) */
+.band {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  font-family: var(--m-mono);
+  font-weight: var(--m-w-meta);
+  font-size: var(--t-label);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--m-ink-3);
+}
+.band .rule {
+  flex: 1;
+  height: 9px;
+  border-radius: 2px;
+  background: repeating-conic-gradient(var(--dw-accent) 0 25%, transparent 0 50%) 0 0 / 9px 9px;
+  opacity: 0.35;
+}
+.band .label { color: var(--m-ink); }
+
+/* foot: speaker left, slide number right */
+.foot {
+  position: absolute;
+  left: var(--s-8);
+  right: var(--s-8);
+  bottom: var(--s-5);
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  font-family: var(--m-mono);
+  font-size: var(--t-label);
+  letter-spacing: 0.06em;
+  color: var(--m-ink-3);
+  border-top: 1px solid var(--m-rule);
+  padding-top: 18px;
+}
+
+/* type */
+h1, .title {
+  font-family: var(--m-serif);
+  font-weight: var(--m-w-head);
+  font-size: var(--t-title);
+  line-height: 1.12;
+  letter-spacing: -0.008em;
+  text-wrap: balance;
+  color: var(--m-ink);
+  margin-top: var(--s-5);
+  max-width: 1300px;
+}
+.lead {
+  font-family: var(--m-serif);
+  font-weight: var(--m-w-text);
+  font-size: var(--t-lead);
+  line-height: 1.45;
+  color: var(--m-ink-2);
+  text-wrap: pretty;
+  max-width: 1150px;
+}
+.ui { font-size: var(--t-ui); color: var(--m-ink-2); }
+.mono { font-family: var(--m-mono); }
+.muted { color: var(--m-ink-3); }
+.mark { color: var(--dw-brand); }
+
+/* the house texture: crimson dither rule (brand-tokens .dw-rule) */
+.dither {
+  height: 11px;
+  width: 320px;
+  border-radius: 2px;
+  background: repeating-conic-gradient(var(--dw-brand) 0 25%, transparent 0 50%) 0 0 / 11px 11px;
+  opacity: 0.85;
+}
+
+/* bottom caption line on a diagram or screenshot slide */
+.caption {
+  position: absolute;
+  left: var(--s-8);
+  right: var(--s-8);
+  bottom: 150px;
+  font-family: var(--m-serif);
+  font-weight: var(--m-w-text);
+  font-size: var(--t-body);
+  line-height: 1.45;
+  color: var(--m-ink-2);
+}
+
+/* layout: title */
+.layout-title .title { font-size: var(--t-statement); line-height: 1.05; margin-top: 80px; max-width: 1150px; }
+.layout-title .dither { margin-top: var(--s-5); }
+.layout-title .lead { margin-top: var(--s-4); }
+.layout-title .speaker { position: absolute; left: var(--s-8); bottom: 150px; }
+.speaker .name { font-family: var(--m-serif); font-weight: var(--m-w-head); font-size: var(--t-h2); color: var(--m-ink); }
+.speaker .role { font-size: var(--t-ui); color: var(--m-ink-2); margin-top: 6px; }
+
+/* layout: statement, one sentence carries the slide */
+.layout-statement .title { font-size: var(--t-statement); line-height: 1.08; margin-top: 150px; max-width: 1340px; }
+.layout-statement .lead { margin-top: var(--s-4); }
+
+/* layout: diagram, a title and an inline SVG figure (any layout may carry one) */
+svg.fig { position: absolute; left: 0; top: 0; width: var(--slide-w); height: var(--slide-h); }
+svg.fig text { font-family: var(--m-sans); fill: var(--m-fig-fg); font-size: 27px; }
+svg.fig text.mono { font-family: var(--m-mono); font-size: 25px; }
+svg.fig text.muted { fill: var(--m-fig-muted); }
+svg.fig text.hot { fill: var(--m-fig-accent); }
+svg.fig .plate { fill: var(--m-fig-plate); stroke: none; }
+svg.fig .box { fill: var(--m-fig-box); stroke: var(--m-fig-stroke); stroke-width: 2; }
+svg.fig .box.alt { fill: var(--m-fig-box-2); }
+svg.fig .box.hot { stroke: var(--m-fig-accent); stroke-width: 3; }
+svg.fig .box.dash { stroke-dasharray: 10 8; fill: none; }
+svg.fig .line { fill: none; stroke: var(--m-fig-stroke); stroke-width: 2; stroke-linecap: round; }
+svg.fig .line.hot { stroke: var(--m-fig-accent); }
+svg.fig .line.thin { stroke-width: 1.5; }
+svg.fig .head { fill: var(--m-fig-stroke); }
+svg.fig .head.hot { fill: var(--m-fig-accent); }
+pre.code {
+  font-family: var(--m-mono);
+  font-size: 30px;
+  line-height: 1.7;
+  color: var(--m-ink);
+  background: var(--m-paper-2);
+  border: 1px solid var(--m-rule);
+  border-radius: 8px;
+  padding: 28px 36px;
+}
+pre.code .hot { color: var(--m-accent); }
+pre.code .muted { color: var(--m-ink-3); }
+
+/* layout: quote */
+.layout-quote blockquote {
+  margin-top: 130px;
+  max-width: 1200px;
+  font-family: var(--m-serif);
+  font-weight: var(--m-w-text);
+  font-style: normal;
+  font-size: 62px;
+  line-height: 1.25;
+  text-wrap: balance;
+  color: var(--m-ink);
+  border-left: 6px solid var(--m-rule);
+  padding-left: 48px;
+}
+.layout-quote cite { display: block; margin-top: var(--s-4); padding-left: 54px; font-style: normal; font-size: var(--t-ui); color: var(--m-ink-2); }
+
+/* layout: screenshot, one image in a thin frame (contract: thin border, 4 px radius, soft shadow) */
+.layout-screenshot .shot {
+  position: absolute;
+  left: var(--s-8);
+  right: var(--s-8);
+  top: 300px;
+  bottom: 210px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.layout-screenshot .shot img {
+  max-width: 100%;
+  max-height: 100%;
+  border: 1px solid var(--m-rule);
+  border-radius: 4px;
+  box-shadow: 0 2px 10px rgba(27, 28, 31, 0.08);
+}
+.layout-screenshot .caption { bottom: 140px; font-size: var(--t-ui); }
+
+/* layout: closing, the takeaway and where to find the speaker */
+.layout-closing .title { font-size: 84px; line-height: 1.1; margin-top: 120px; max-width: 1300px; }
+.layout-closing .dither { margin-top: var(--s-5); }
+.layout-closing .speaker { position: absolute; left: var(--s-8); bottom: 150px; }
+.layout-closing .links { font-family: var(--m-mono); font-size: var(--t-ui); color: var(--m-ink-2); margin-top: 10px; line-height: 1.6; }
