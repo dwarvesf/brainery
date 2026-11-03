@@ -18,6 +18,7 @@ image: /content/handbook/memo/assets/publish-a-talk/og.png
 talk:
   deck: assets/publish-a-talk/deck.pdf
   source: assets/publish-a-talk/deck-src/
+  ratio: "16:9"
 ---
 
 This is a talk about the talk format, built in that format. Each slide below sits beside the words that go with it. Read the slides alone for the argument, or read the notes for the evidence. The deck is the reference implementation that [Contribute to memo](/contribute-to-memo) links to, so every file named here exists in this post's folder.
@@ -38,7 +39,7 @@ The layout comes from [Geoffrey Litt's talk page](https://www.geoffreylitt.com/2
 
 ![A folder tree: the post file, then assets with slides slide-01 to slide-12 as webp, deck.pdf, og.png and an optional deck-src folder](assets/publish-a-talk/slides/slide-04.webp)
 
-Everything for a talk lives in one folder named after the post. The slides are webp rasters at 1600 by 900, which matches a 16:9 deck and stays under the 200 KB cap at quality 80. The PDF is the file people download and present from, so its page count must equal the slide count. After the merge, media-sync moves the rasters and the PDF to the storage bucket, and the site keeps serving them at the same address.
+Everything for a talk lives in one folder named after the post. The slides are webp rasters with a long edge of 1600 pixels at the deck's own ratio, 16:9, 16:10 or 4:3, and they stay under the 200 KB cap at quality 80. The PDF is the file people download and present from, so its page count must equal the slide count. After the merge, media-sync moves the rasters and the PDF to the storage bucket, and the site keeps serving them at the same address.
 
 ![The frontmatter block: layout talk and talk.deck are required; event, given, source and video are optional](assets/publish-a-talk/slides/slide-05.webp)
 
@@ -52,11 +53,11 @@ There is no new syntax. A paragraph that holds only one slide image starts a seg
 
 ![Path A: a stack of slide HTML files goes through Chrome into deck.pdf, which is rasterized into slide webp files](assets/publish-a-talk/slides/slide-07.webp)
 
-I wrote this deck as 12 HTML files and one stylesheet in deck-src. Each file sets a print page of 1600 by 900 pixels with no margin, so headless Chrome prints it to exactly one PDF page. The hand-drawn strokes are an SVG displacement filter on plain rectangles and lines, so editing a box means editing one rect, with no drawing tool in the loop. The font is Excalifont, embedded in the stylesheet so the deck renders the same on any machine.
+I wrote this deck as 12 HTML files on the memo deck theme, which `talk-build.mjs --init` copies into a new deck-src folder. The theme takes its colors and faces from the memo design tokens: paper and ink, Source Serif 4 for titles, IBM Plex for labels, and crimson only for the dither rule. My first version used a dark blueprint look, and it read as a different publication, so I rebuilt it on the tokens. Each file sets a print page of 1600 by 900 pixels, so headless Chrome prints it to exactly one PDF page.
 
 ![Path B: Keynote, Google Slides, Canva and PowerPoint each export a PDF, and talk-build splits it into slides and a share card](assets/publish-a-talk/slides/slide-08.webp)
 
-A guest speaker should not have to learn HTML to publish a talk. Export the deck you already have to PDF, put it at deck.pdf in the talk folder, and run the same script. It splits each page into a slide file. A deck that is not 16:9 gets letterboxed rather than stretched, and the script prints a warning so you can fix the export instead.
+A guest speaker should not have to learn HTML to publish a talk. Export the deck you already have to PDF, put it at deck.pdf in the talk folder, and run the same script. It splits each page into a slide file at the page's own ratio, never cropped or stretched, and writes that ratio into the frontmatter. Your own template stays as it is; the memo theme is only a default.
 
 ![talk-build runs deck-src through deck.pdf, slides and og.png, then the T1 to T8 checks](assets/publish-a-talk/slides/slide-09.webp)
 
