@@ -168,9 +168,10 @@ talk:
   given: 2026-11-03
   source: <link to the editable deck, or a vault path>
   video: <YouTube id of the recording>
+  ratio: "16:9"
 ```
 
-`layout: talk` and `talk.deck` are required. `event`, `given`, `source` and `video` are optional. Keep the media in one folder named after the note's file name:
+`layout: talk` and `talk.deck` are required. `event`, `given`, `source` and `video` are optional. `ratio` is the slide shape, `"16:9"`, `"16:10"` or `"4:3"`, and the default is 16:9. Quote it, because the lint allows one bare colon per line. The build script writes it for you from slide 1. Keep the media in one folder named after the note's file name:
 
 ```text
 <slug>.md
@@ -182,16 +183,23 @@ assets/<slug>/deck-src/        optional, HTML source
 
 The body is plain Markdown. Paragraphs before the first slide are the intro. A paragraph that holds only one slide image starts a segment, `![What the slide says](assets/<slug>/slides/slide-04.webp)`, and the paragraphs after it are that slide's notes. `##` headings group the slides into sections. A `---` rule after the last slide starts the outro.
 
-There are two ways to build the slide files, and one script covers both:
+Bring your own slides. Any tool's export is welcome, in your own template and colors. The talk checks ask only for one visual language within the deck, never for memo's look. There are two ways to build the slide files, and one script covers both:
 
-- **Write the slides as HTML.** One file per slide in `deck-src/`, each sized `@page { size: 1600px 900px; margin: 0 }`. The script prints them to `deck.pdf` with headless Chrome, then writes the slides.
-- **Export a PDF from your tool.** Keynote, Google Slides, Canva and PowerPoint all export PDF. Save it as `assets/<slug>/deck.pdf` at 16:9, one page per slide, and the script splits it into slides.
+- **Export a PDF from your tool.** Keynote, Google Slides, Canva and PowerPoint all export PDF. Save it as `assets/<slug>/deck.pdf`, one page per slide, at 16:9, 16:10 or 4:3. The script splits it into slides at the deck's own ratio.
+- **Write the slides as HTML on the memo theme.** This is optional, for anyone who wants their deck to look like memo. `node _meta/scripts/talk-build.mjs --init path/to/<slug>.md` copies the house theme from `_meta/talk-template/` into `deck-src/`: paper and ink, Source Serif 4 and IBM Plex, crimson only for the dither rule, and six layouts (title, statement, diagram, quote, screenshot, closing). Edit one HTML file per slide, and the script prints them to `deck.pdf` with headless Chrome.
 
 ```bash
 node _meta/scripts/talk-build.mjs path/to/<slug>.md
 ```
 
-It writes the slides as 1600 by 900 webp, renders `og.png` from slide 1, and prints the talk checks `T1` to `T8` from the [post rubric](/memo-post-rubric). It needs a Chromium browser for the HTML path, plus poppler (`pdftoppm`, `pdfinfo`, `pdfunite`), `cwebp`, and ImageMagick or macOS `sips`. It installs nothing and names any tool it cannot find. [How to publish a talk on memo](https://github.com/dwarvesf/brainery/blob/main/handbook/memo/publish-a-talk.md) is a full example: a 12-slide deck written as HTML, with its source in the post's `deck-src/` folder.
+It writes the slides as webp with a long edge of 1600 pixels at the deck's own ratio, never cropped or stretched. It renders `og.png` from slide 1, writes `talk.ratio`, and prints the talk checks `T1` to `T8` from the [post rubric](/memo-post-rubric). It needs a Chromium browser for the HTML path, plus poppler (`pdftoppm`, `pdfinfo`, `pdfunite`), `cwebp`, and ImageMagick or macOS `sips`. It installs nothing and names any tool it cannot find. [How to publish a talk on memo](https://github.com/dwarvesf/brainery/blob/main/handbook/memo/publish-a-talk.md) is a full example: a 12-slide deck written as HTML, with its source in the post's `deck-src/` folder.
+
+What memo does with your slides:
+
+- Shows each slide at its own ratio beside your notes, and stacks them on a phone.
+- Keeps the slide edge visible on the light and dark site themes, whether your slides are dark or light. A transparent PNG slide sits on white.
+- Offers "Download slides (PDF)" and a full-screen Present mode that letterboxes your slides on black, at any ratio.
+- Uses slide 1 as the share card and as the thumbnail in feeds and on the talks list.
 
 ## The member path
 
