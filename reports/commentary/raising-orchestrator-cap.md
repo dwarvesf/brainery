@@ -16,12 +16,12 @@ type: writing
 form: analysis
 topic: ai-agents
 fit: 3
-abstract: "One person can supervise only a few parallel agents, and the limit follows a formula with three terms you can change. We sorted the tricks people use by which term they move and how strong the evidence is, checked two of them against our own session logs, and turned the winners into harness upgrades. Longer, verified agent runs and a re-entry card with a self-written next step have the best support; a lead agent that supervises the others has the weakest."
+abstract: "One person can supervise only a few parallel agents, and the limit follows a formula with three terms you can change. We sorted the tricks people use by which term they move and how strong the evidence is, checked two of them against our own session logs, and turned the winners into harness upgrades. A bigger brief with a test and a fixed result card have the best support for their cost, a re-entry card with your own next-step line is the cheapest re-entry fix, and a lead agent that supervises the others has the weakest support."
 ---
 
 ![Three knobs on one formula {#fig-knobs}](assets/raising-orchestrator-cap-fig1-knobs.svg 'Three knobs on one formula. Each trick raises the cap by moving one term: longer runs alone, cheaper reviews, or faster re-entry.')
 
-In the [first post](/orchestrator-attention-cap) I measured myself running about five agent sessions at peak when my own loops allowed fewer than two. The obvious next question is how to raise that limit instead of just obeying it. I had two guesses going in: make agents work longer before they need me, and keep a note so I can catch up faster when I come back. Both held up in the data, and each needed a second half I hadn't planned.
+In the [first post](/orchestrator-attention-cap) I measured myself running about five agent sessions at peak when my own loops allowed fewer than two. The obvious next question is how to raise that limit instead of just obeying it. I had two guesses going in: make agents work longer before they need me, and keep a note so I can catch up faster when I come back. Both held up in the data. Each also needed a half I hadn't planned.
 
 This post sorts the tricks by which part of the limit they move and how good the evidence behind them is. I checked two of them against our own logs, and the last sections turn the winners into harness changes we're building.
 
@@ -40,30 +40,19 @@ where:
 
 Raising NT means agents need you less often. IT and WT share the denominator, so a cheaper visit or a quicker return lifts the cap as well. One more lever sits outside the formula: holding fewer open loops in your head protects the working memory every term draws on [1].
 
-The terms aren't equal. My own median loop is two minutes alone and two and a half waiting, so a small NT gain moves my cap more than any polish on re-entry. Somebody whose agents already run for an hour gets more from cutting review cost. ==Find your smallest term first, because the same trick can double one person's cap and barely move another's.==
+The terms aren't equal. My own median loop is two minutes alone and two and a half waiting, so a minute more alone buys me a little more than a minute off the wait. Somebody whose agents already run for an hour gets more from cutting review cost. ==Find your smallest term first, because the same trick can double one person's cap and barely move another's.==
 
 ## How do you make agents run longer alone?
 
 Give them a bigger, checkable job. Of all the levers, raising NT has the clearest evidence, and our own logs back it.
 
-Models can already work much longer than most of us let them, and in most coding sessions the brief runs out before the model does. METR's measure of how long a task frontier agents can finish reached around twelve hours at even odds in early 2026, though if you want four successes in five the horizon shrinks to about three hours [2].
+Models can take on much bigger jobs than most of us hand them. METR measures task length in human working time, and frontier agents finished half of the tasks around twelve hours long in early 2026, though at four successes in five the length falls to about three hours [2].
 
-Our transcripts show it plainly. I bucketed 3,351 turns from thirty days of sessions by the length of the prompt that started them.
+Our transcripts show it plainly. I bucketed the 3,351 turns with a measurable run time from thirty days of sessions by the length of the prompt that started them.
 
 ![Bigger briefs, longer runs {#fig-nt-by-brief}](assets/raising-orchestrator-cap-fig2-nt-by-brief.svg 'Bigger briefs, longer runs. Median time an agent worked alone, by prompt length and by whether the turn ran a skill.')
 
-Table: How long agents ran alone, by the size of the brief {#tbl-nt}
-
-| Prompt that started the turn | Turns | Median alone | p75 alone |
-| :--------------------------- | :---- | :----------- | :-------- |
-| Under 50 characters          | 1,358 | 1.4 min      | 7.4 min   |
-| 50 to 200 characters         | 1,433 | 2.0 min      | 7.9 min   |
-| 200 to 1,000 characters      | 460   | 3.9 min      | 12.2 min  |
-| Over 1,000 characters        | 100   | 9.4 min      | 28.5 min  |
-| Turn ran a skill or command  | 349   | 7.9 min      | 23.1 min  |
-| Turn ran neither             | 3,002 | 1.6 min      | 7.2 min   |
-
-A thousand-character brief bought nearly seven times the unattended time of a one-liner, and a turn that ran a packaged skill bought five times. The data is observational, and big briefs go with big tasks, so part of the gap is the task and not the brief. The direction still matches every other source.
+A thousand-character brief bought nearly seven times the unattended time of a one-liner, and a turn that ran a packaged skill bought five times. The data is observational, and big briefs go with big tasks, so part of the gap is the task and not the brief. Other sources point the same way.
 
 Length alone doesn't help, though. A long run is only worth having if you can trust where it ends, and that starts with a done-check the agent can't fake. Anthropic's long-running harness gives the agent a JSON feature list where the only thing it may touch is a "passes" field, backed by end-to-end tests, and that stopped agents from declaring victory early [3].
 
@@ -91,7 +80,7 @@ The other review tricks rest on thinner evidence. Stacked pull requests have onl
 
 Write down your next step before you leave, and let the agent write down what it did. This is the trick behind my "keep a note" guess, and it needs both halves.
 
-Our logs show why re-entry matters. When I switched sessions, I landed on a thread that had been idle 5.4 minutes at the median, against 1.6 minutes when I stayed. Nearly a quarter of switches landed on a thread idle more than thirty minutes. Every one of those is a cold start.
+Our logs show why re-entry matters. The gap between my prompts stayed near two minutes either way, as the first post found; the thread was what changed. When I switched sessions, I landed on a thread that had been idle 5.4 minutes at the median, against 1.6 minutes when I stayed. Nearly a quarter of switches landed on a thread idle more than thirty minutes. Every one of those is a cold start.
 
 ![Switching lands on a cold thread {#fig-staleness}](assets/raising-orchestrator-cap-fig3-staleness.svg 'Switching lands on a cold thread. How long a thread had been idle when I came back to it, after a switch and when I stayed.')
 
@@ -129,7 +118,7 @@ Hand off decisions by risk tier and keep the risky ones yours. The automation bi
 
 ## Does a lead agent raise your cap?
 
-Not on current evidence. A supervising agent moves your queue one level up and adds cost and merge risk on the way.
+Not on current evidence. A supervising agent moves your queue one level up and adds cost and merge risk on the way. Our own setup runs a lead agent that dispatches workers, and the reviews still land on me.
 
 A large study of parallel sub-agents found they helped on some long tasks and hurt badly on others, cutting Claude Code's SWE-bench pass rate by 24 points on one, while using up to 3.3 times the tokens [25]. A third of the failures came from shared state and merge conflicts. Declaring each agent's write scope up front mostly fixes that problem [26].
 
@@ -141,7 +130,7 @@ The human studies are mixed, and they suggest pooling only helps when ownership 
 
 ## Which tricks are worth it?
 
-Start with the two-author re-entry card and longer verified runs. The card has the strongest lab evidence, the runs have our own logs behind them, and both cost little.
+Start with a bigger brief that carries a test, and a fixed result card. Both cost little, both have solid support, and our own logs back the first.
 
 Table: Tricks ranked by evidence and fit {#tbl-ranked}
 
@@ -149,7 +138,7 @@ Table: Tricks ranked by evidence and fit {#tbl-ranked}
 | :------------------------ | :---------- | :------- | :----- |
 | Bigger brief with a test  | NT          | Moderate | Low    |
 | Ask questions up front    | NT          | Moderate | Low    |
-| Two-author re-entry card  | WT          | Strong   | Low    |
+| Two-author re-entry card  | WT          | Moderate | Low    |
 | Fixed result card format  | IT          | Moderate | Low    |
 | Push alert when blocked   | WT          | Moderate | Low    |
 | Needs-input triage queue  | WT          | Moderate | Medium |
@@ -165,7 +154,7 @@ Table: Tricks ranked by evidence and fit {#tbl-ranked}
 
 ## How do you set this up yourself?
 
-Most of it is already in your tools. Claude Code ships the loop, the hooks and the status line; your terminal or editor supplies the place where waiting work shows up. What's missing is the wiring between them, and that is an afternoon of config.
+Most of it is already in your tools. Claude Code ships the loop, the hooks and the status line; your terminal or editor supplies the place where waiting work shows up. What's missing is the wiring between them, and most of that is config.
 
 The table maps each lever to what your tools already have, what you set up, and how we did it. Rows marked planned are the ones we are wiring now.
 
@@ -173,7 +162,7 @@ Table: Levers, built-in features and what to set up {#tbl-setup}
 
 | Lever           | Built in                | You set up                       | Our setup                          |
 | :-------------- | :---------------------- | :------------------------------- | :--------------------------------- |
-| Longer runs     | /goal loop, skills      | Brief with a test to stop on     | Briefs carry a Done line           |
+| Longer runs     | /goal loop, skills      | Brief with a test to stop on     | Worker briefs carry a Done line    |
 | Fewer stops     | Permission modes, deny  | Allow routine, deny irreversible | Prompts off, deny rules, guards    |
 | One queue       | Notification hook       | Send "needs input" to one place  | Hook marks the Orca board (tested) |
 | Quiet when done | Notification settings   | Alert on input, not on done      | Sounds on input only (planned)     |
@@ -181,7 +170,7 @@ Table: Levers, built-in features and what to set up {#tbl-setup}
 | Cheaper review  | Stop and SubagentStop   | Fixed result card, checked       | Card lint on workers (planned)     |
 | Thread cap      | Status line, agent view | Show live threads, warn above 3  | Count in status line (planned)     |
 
-Start with the first three rows. They need no new code, and our logs say longer runs and a single queue carry most of the gain.
+Start with the first three rows. They need no new code, and our logs back the first one.
 
 The queue row is two hooks. When Claude Code needs input, the first hook marks the workspace on Orca's board with the ask as a comment; when you reply, the second clears it. We ran both hook commands exactly as written here against our own board, and wiring them into every session ships with our next setup batch. If you use tmux or a plain terminal, swap the board command for a desktop notification or a line appended to one file.
 
@@ -221,7 +210,7 @@ We are turning the top tricks into defaults, so they happen without anyone remem
 7. **A stall watchdog**: an idle or looping worker gets nudged or flagged into the queue instead of waiting silently. Moves NT and WT.
 8. **A live-thread counter**: a new dispatch warns when more than three threads are live. Holds the cap instead of raising it.
 
-We'll rerun the session measurement after a few weeks with these in place. The test is simple: median time alone should rise, staleness on return should fall, and peak live threads should stay near three.
+We'll rerun the session measurement after a few weeks with these in place. The check: median time alone should rise, staleness on return should fall, and peak live threads should stay near three.
 
 ## Where this evidence is thin
 
@@ -236,7 +225,7 @@ Our own numbers are observational and come from one person on one machine. Longe
 3. **Long-running agent harness**: Anthropic engineering, harness patterns for long-running coding agents, 2025. [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents).
 4. **Clarifying questions up front**: arXiv preprint, clarifying underspecified tasks before execution, 2026. [Ask or Assume?](https://arxiv.org/abs/2603.26233).
 5. **Auto-approval and sandboxing**: Anthropic engineering, auto mode, approval rates and sandboxing, 2026. [Claude Code auto mode](https://www.anthropic.com/engineering/claude-code-auto-mode).
-6. **Automation architecture**: Cummings, vehicles per operator by automation architecture. [Automation architecture for single operator, multiple UAV command and control](http://www.dodccrp.org/files/IC2J_v1n2_01_Cummings.pdf).
+6. **Automation architecture**: Cummings, vehicles per operator by automation architecture. [Automation architecture for single operator, multiple UAV command and control](https://apps.dtic.mil/sti/tr/pdf/ADA567799.pdf).
 7. **Consent and exception automation**: Ruff, Narayanan and Draper, consent and exception automation with several drones, 2002. [Human interaction with levels of automation and decision-aid fidelity](https://www.semanticscholar.org/paper/Human-Interaction-with-Levels-of-Automation-and-in-Ruff-Narayanan/98be4f42ebf95843365467af8cfad0079ef261da).
 8. **Code review bottleneck**: Chen and Stratton, AI coding agents and the code review bottleneck, 2026. [Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/).
 9. **Structured handoffs**: Starmer and colleagues, the I-PASS handoff program and medical errors, 2014. [Changes in medical errors after implementation of a handoff program](https://www.nejm.org/doi/full/10.1056/NEJMsa1405556).

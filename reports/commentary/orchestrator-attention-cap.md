@@ -23,7 +23,7 @@ abstract: "Running several AI agents at once makes the human the bottleneck, and
 
 I run a lead agent in one terminal tab and workers in the others. While a worker thinks, I jump to another tab so I don't sit idle. On a median day that means seventeen sessions and six or seven session switches an hour. I stopped wasting time on waiting, and I lost the ability to stay on one problem.
 
-So I went looking for the limit. The question sounds new, but it is old. Robot teleoperators, drone pilots, air traffic controllers, judges and engineering managers have all hit the same wall, and researchers have measured it. This post collects that evidence, adds our own session data, and ends with the changes we are making.
+So I went looking for the limit. The question is old. Robot teleoperators, drone pilots, air traffic controllers, judges and engineering managers have all hit the same wall, and researchers have measured it. This post collects that evidence, adds our own session data, and ends with the changes we are making.
 
 ## What is the attention cap?
 
@@ -61,9 +61,9 @@ Short interactive loops cap you at two or three agents no matter how disciplined
 
 ![Three agents, one human {#fig-timeline}](assets/orchestrator-attention-cap-fig2-timeline.svg 'Three agents, one human. With ten minutes alone, three of review and one to re-orient, three agents keep the human almost fully busy, and the third agent waits longest.')
 
-The formula is a ceiling. When researchers checked fan-out predictions against real operators, people managed four to six robots, and every prediction method missed, mostly because waiting and lost awareness ate into capacity [1]. Drone studies landed in the same range when the operator approved each step. Operators only got to eight to twelve vehicles when the vehicles called them on exceptions alone [2].
+That timeline already runs the human at 86% busy, past the 70% line the next section explains. The formula is also a ceiling. When researchers checked fan-out predictions against real operators, people managed four to six robots, and every prediction method missed, mostly because waiting and lost awareness ate into capacity [1]. Drone studies found four to five vehicles when the operator approved each step. Operators only got to eight to twelve when the vehicles called them on exceptions alone [2].
 
-That second number is the hopeful part: the cap rises when the automation calls you less often.
+So the cap rises when the automation calls you less often.
 
 ## Why does running yourself at full load backfire?
 
@@ -85,7 +85,7 @@ Fast switching can also look efficient while it drains you. People interrupted e
 
 Two popular numbers deserve retirement. "Twenty-three minutes to refocus" comes from a 2006 interview, and it measured the time until people returned to the interrupted task, with other work in between [9]. "Multitasking costs 40% of productivity" is a press extrapolation from millisecond lab data, never a measurement.
 
-The useful finding is the cheap fix. In Leroy and Glomb's studies, writing a short plan for where you stopped and what comes next removed the residue penalty, and a specific plan for an unfinished goal also kept it from intruding on unrelated work [10].
+There is a cheap fix. In Leroy and Glomb's studies, writing a short plan for where you stopped and what comes next removed the residue penalty, and a specific plan for an unfinished goal also kept it from intruding on unrelated work [10].
 
 ## Is this only an agent problem?
 
@@ -115,15 +115,15 @@ Table: Thirty days of my Claude Code sessions {#tbl-mine}
 | Agent waits for me (WT)    | 2.5 min | 15.8 min |
 | Session switches per hour  | 6.6     | 10.1     |
 
-The median turn is short. The agent works two minutes, then waits two and a half for me, and with those in the formula my fan-out is about 1.8 before I spend a single second reading.
+The median turn is short. The agent works two minutes, then waits two and a half for me, and that wait already includes my reading time. Put into the formula, my fan-out comes out at about 1.8.
 
 Yet my daily peak is five live sessions, and on the worst day it hit fourteen. Almost two-thirds of my active time runs at two or more live sessions, which is already above that fan-out, and 61% of my prompts go to a different session from the one before.
 
 ![Thirty days of my sessions {#fig-my-sessions}](assets/orchestrator-attention-cap-fig4-my-sessions.svg 'Thirty days of my sessions. Almost two-thirds of my active time runs above the fan-out my own loops allow.')
 
-The surprise was the wait. Agents didn't wait longer for me when more sessions were live: the median was 2.6 minutes with one session and 2.7 with three or more. ==I kept response time flat by switching faster, so the cost landed on me and not on the agents.== The time between prompts also held at about two minutes whether I switched or stayed, so I was answering every session at the same shallow tempo. It's the interrupted-email result again, where people under constant interruption worked faster and paid for it in stress [8].
+The surprise was the wait. Agents didn't wait longer for me when more sessions were live: the median was 2.6 minutes with one session and 2.7 with three or more. ==I kept response time flat by switching faster, so the cost landed on me and not on the agents.== The gap between my prompts also held at about two minutes whether I switched or stayed, so I was answering every session at the same shallow tempo. It's the interrupted-email result again, where people under constant interruption worked faster and paid for it in stress [8].
 
-The numbers carry caveats. About a third of the sessions have two prompts or fewer, many of them dispatched workers, so concurrency is overstated. The data covers one machine and leaves out my laptop, so real switching is probably higher. I didn't measure interaction time either, which puts the true fan-out somewhere below 1.8.
+The numbers carry caveats. About a third of the sessions have two prompts or fewer, many of them dispatched workers, so concurrency is overstated. The data covers one machine and leaves out my laptop, so real switching is probably higher. Reading time sits inside the measured wait, so 1.8 is an estimate, not a bound.
 
 ## What do other practitioners report?
 
@@ -152,7 +152,7 @@ Set agents up to need you less often and to cost less when they do. Both raise f
 
 1. **Raise neglect time**: give each agent a brief with an acceptance test and a stop condition, so it can run longer before it needs a decision. My two-minute median turn is the single biggest reason my fan-out is under two. A forty-minute task with a test beats twenty two-minute check-ins.
 2. **Shrink interaction time**: every agent ends with a result card that says what it did, what it needs from you, the next step and how to check it. Reading a card takes a minute; reconstructing a transcript takes ten.
-3. **Write the resume plan for the human**: the result card doubles as the ready-to-resume note from the research. You stop holding that thread in your head.
+3. **Write your own next step**: before you leave a thread, add one line on what you will check next. The agent's card says what it did; your line says what comes next, and the [follow-up post](/raising-orchestrator-cap) shows why the card needs both.
 4. **Batch the review queue**: use one status view, such as Claude Code's agent view, and check it at boundaries you choose. Silence per-agent completion alerts.
 5. **Tier autonomy by task maturity**: a familiar, well-tested task gets an objective and a check; a new or risky area gets step-level review, as Grove prescribes.
 6. **Verify with checks you did not write**: tests, a fresh-context verifier, and spot audits of output that looks obviously fine. Automation bias appears in experts and does not fade with practice.
@@ -195,16 +195,16 @@ The cost of this approach is real too. Running fewer threads means some agents s
 ## References
 
 1. **Fan-out with wait time**: Crandall and Cummings, predictive metrics and a user study of four to six robots, 2007. [Identifying predictive metrics for supervisory control of multiple robots](https://faculty.cs.byu.edu/~crandall/papers/CrandallCummingsTRO2007_Final.pdf).
-2. **Automation architecture**: Cummings, vehicles per operator by automation architecture. [Automation architecture for single operator, multiple UAV command and control](http://www.dodccrp.org/files/IC2J_v1n2_01_Cummings.pdf).
+2. **Automation architecture**: Cummings, vehicles per operator by automation architecture. [Automation architecture for single operator, multiple UAV command and control](https://apps.dtic.mil/sti/tr/pdf/ADA567799.pdf).
 3. **Operator utilization**: Cummings and Guerlain, operator utilization and the 70% threshold, 2007. [Developing operator capacity estimates for supervisory control of autonomous vehicles](https://journals.sagepub.com/doi/10.1518/001872007779598109).
 4. **Product development flow**: Reinertsen, queues, utilization and cost of delay in product development, 2009. [Principles of product development flow, summary](https://ttoss.dev/docs/product/product-development/principles).
-5. **Task switching**: Monsell, review of task switching and the residual switch cost, 2003. [Task switching](http://epa.psy.ntu.edu.tw/perception/pdf/Monsell_2003.pdf).
+5. **Task switching**: Monsell, review of task switching and the residual switch cost, 2003. [Task switching](https://doi.org/10.1016/S1364-6613(03)00028-7).
 6. **Recovery after alerts**: Iqbal and Horvitz, field study of alert-driven switches and resumption, 2007. [Disruption and recovery of computing tasks](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/CHI_2007_Iqbal_Horvitz-1.pdf).
 7. **Memory for goals**: Altmann and Trafton, the memory-for-goals model, 2002. [Memory for goals](https://philpapers.org/rec/ALTMFG).
 8. **Cost of interrupted work**: Mark, Gudith and Klocke, interrupted work is faster and more stressful, 2008. [The cost of interrupted work](https://ics.uci.edu/~gmark/chi08-mark.pdf).
 9. **The 23-minute figure**: Gallup interview with Gloria Mark, origin of the 23-minute figure, 2006. [Too many interruptions at work?](https://news.gallup.com/businessjournal/23146/Too-Many-Interruptions-Work.aspx).
 10. **Ready-to-resume plan**: Leroy and Glomb, a ready-to-resume plan removes the residue penalty, 2018. [Tasks interrupted](https://www.semanticscholar.org/paper/Tasks-Interrupted:-How-Anticipating-Time-Pressure-a-Leroy-Glomb/eeeab9fec8439ae2821ba127ef5d398b4f7f5d4a).
-11. **Task juggling in courts**: Coviello, Ichino and Persico, Italian judges who juggle more cases finish slower, 2014. [Time allocation and task juggling](http://tintin.hec.ca/pages/decio.coviello/research_files/continuous.pdf).
+11. **Task juggling in courts**: Coviello, Ichino and Persico, Italian judges who juggle more cases finish slower, 2014. [Time allocation and task juggling](https://tintin.hec.ca/pages/decio.coviello/research_files/continuous.pdf).
 12. **Little's Law**: Little, lead time equals work in progress over throughput, 1961. [A proof for the queuing formula L = λW](https://pubsonline.informs.org/doi/10.1287/opre.9.3.383).
 13. **Context-switching estimates**: Weinberg, estimated time lost to switching between projects, 1992. [Wastes caused by context switching](https://chrisgagne.com/4619/wastes-caused-by-context-switching/).
 14. **Task-relevant maturity**: Andy Grove, task-relevant maturity and monitoring delegated work, 1983. [High Output Management notes](https://robdix.com/high-output-management/).

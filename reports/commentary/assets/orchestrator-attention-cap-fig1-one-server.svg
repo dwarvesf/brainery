@@ -62,5 +62,5 @@
   <polygon points="135,318 139.5,328 130.5,328" fill="#4e5b69"/>
   <text x="380" y="329" font-size="9.5" fill="#4e5b69" text-anchor="middle" paint-order="stroke" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">steered, back to work alone</text>
   <line x1="28" y1="350" x2="732" y2="350" stroke="#d3dae2" stroke-width="1"/>
-  <text x="380" y="380" font-size="12" font-weight="500" fill="#17212b" text-anchor="middle">cap = min( fan-out, open loops ~3-4, review rate, energy )</text>
+  <text x="380" y="380" font-size="12" font-weight="500" fill="#17212b" text-anchor="middle">cap = min( fan-out, open loops ~3-5, review rate, energy )</text>
 </svg>
