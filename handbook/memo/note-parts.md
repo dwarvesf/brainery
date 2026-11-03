@@ -212,13 +212,14 @@ pearl: "Some training topics don't appear in my daily work, so I prefer to focus
 
 ## Layout families
 
-The note type picks one of three layouts. You do not choose it.
+The note type picks one of three layouts. You do not choose it, with one exception: `layout: talk` in the frontmatter picks the talk layout for any type.
 
 | Layout | Notes that get it                                                                                                                      |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------- |
 | Paper  | Research, reports, and writing that is an analysis, a puzzle or a market report. A 640 px column, numbered sections, a centered title. |
 | Blog   | Essays, playbooks and company notes. A 680 px column with the writer up front.                                                         |
 | Press  | Case studies and program notes. A facts band across the top, over a centered story.                                                    |
+| Talk   | Any note with `layout: talk`. Slide left, notes right, wider than the column. |
 
 ## Check before you open the pull request
 

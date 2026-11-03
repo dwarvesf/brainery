@@ -151,6 +151,48 @@ Before review, run the [post rubric](/memo-post-rubric): a script for the mechan
 
 Memo lays out a term peek, a step rail, a checklist, a definition grid, avoid and prefer pairs, a status line and an abstract from plain Markdown and frontmatter. [Write memo notes that lay out as parts](/memo-note-parts) shows the exact shape each one needs.
 
+### Talks: slides beside your notes
+
+If you gave a talk at OGIF, a meetup or a client session, publish it as a talk post. Each slide sits on the left and what you said over it sits on the right, so a reader can skim the slides and still get the argument. The slides and a downloadable PDF ship with the post, under your name.
+
+Pick a talk when the piece is a linear argument with distinct beats and you already have the slides. A reference page, a playbook or a data-heavy report stays as prose, even if you once presented it.
+
+A talk is a layout, not a folder. Put the note in the folder its content belongs to, and add the talk fields:
+
+```yaml
+layout: talk
+image: /content/<vault-path>/assets/<slug>/og.png
+talk:
+  deck: assets/<slug>/deck.pdf
+  event: "OGIF, Da Nang"
+  given: 2026-11-03
+  source: <link to the editable deck, or a vault path>
+  video: <YouTube id of the recording>
+```
+
+`layout: talk` and `talk.deck` are required. `event`, `given`, `source` and `video` are optional. Keep the media in one folder named after the note's file name:
+
+```text
+<slug>.md
+assets/<slug>/slides/slide-01.webp ... slide-NN.webp
+assets/<slug>/deck.pdf
+assets/<slug>/og.png
+assets/<slug>/deck-src/        optional, HTML source
+```
+
+The body is plain Markdown. Paragraphs before the first slide are the intro. A paragraph that holds only one slide image starts a segment, `![What the slide says](assets/<slug>/slides/slide-04.webp)`, and the paragraphs after it are that slide's notes. `##` headings group the slides into sections. A `---` rule after the last slide starts the outro.
+
+There are two ways to build the slide files, and one script covers both:
+
+- **Write the slides as HTML.** One file per slide in `deck-src/`, each sized `@page { size: 1600px 900px; margin: 0 }`. The script prints them to `deck.pdf` with headless Chrome, then writes the slides.
+- **Export a PDF from your tool.** Keynote, Google Slides, Canva and PowerPoint all export PDF. Save it as `assets/<slug>/deck.pdf` at 16:9, one page per slide, and the script splits it into slides.
+
+```bash
+node _meta/scripts/talk-build.mjs path/to/<slug>.md
+```
+
+It writes the slides as 1600 by 900 webp, renders `og.png` from slide 1, and prints the talk checks `T1` to `T8` from the [post rubric](/memo-post-rubric). It needs a Chromium browser for the HTML path, plus poppler (`pdftoppm`, `pdfinfo`, `pdfunite`), `cwebp`, and ImageMagick or macOS `sips`. It installs nothing and names any tool it cannot find. [How to publish a talk on memo](https://github.com/dwarvesf/brainery/blob/main/handbook/memo/publish-a-talk.md) is a full example: a 12-slide deck written as HTML, with its source in the post's `deck-src/` folder.
+
 ## The member path
 
 You are Dwarves staff or a contractor and you can push to `dwarvesf/brainery`. This road is short, and it has fewer guard rails than most people assume.
@@ -482,6 +524,7 @@ Run down this list before you open the pull request. The contributor skill check
 - [ ] `authors:` holds a GitHub-style handle, not a Discord name
 - [ ] No H1 in the body; headings are in sentence case
 - [ ] Figures are SVG without a fixed width, or optimized raster; every image has alt text and a caption
+- [ ] Talk post only: `talk-build.mjs` ran, `T1` to `T8` pass, and `deck.pdf` opens
 - [ ] The [post rubric](/memo-post-rubric) ran: `node _meta/scripts/post-check.mjs <note>` is clean or each warning is explained, and part B has a verdict
 - [ ] `./pre-commit-hook.sh install` ran and the commit passed
 - [ ] The pull request body is mine, and contains no `[skip ci]`

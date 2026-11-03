@@ -116,6 +116,17 @@ The contract lives at [`memo.d.foundation/figures.md`](https://memo.d.foundation
 43. **Repo posts by Dwarves authors, required.** One accent only, two line weights at most, labels that never crowd, and whitespace as structure. Split a busy mechanism into a short series of numbered figures.
 44. **Guest imports, recommended.** Follow the limits in rule 43. A guest may keep their own palette, and still meets rules 1 to 41.
 
+## Talk slides, deck and share card
+
+A talk post (`layout: talk`) pairs each slide with the speaker's notes. Its media lives in one folder beside the post, `assets/<slug>/`, where `<slug>` is the note's file name. The [post rubric](/memo-post-rubric) checks rules 45 to 48 as `T1` to `T8`, and `node _meta/scripts/talk-build.mjs <note>` writes files that meet them.
+
+45. **Everyone.** Slides are rasters at `assets/<slug>/slides/slide-01.webp` to `slide-NN.webp`: two digits, no gap, 1600 by 900, webp at quality 80 (png is allowed), and 200 KB or less each. Test: `post-check.mjs` prints no `T2` or `T5` warning. Reason: a 16:9 deck at 1600 wide is the raster ceiling in rule 7, and a slide is a picture of text, so it stays a raster even when it holds a diagram. These names replace rule 13 for slides.
+46. **Everyone.** The deck ships as `assets/<slug>/deck.pdf`, one page per slide, so a reader can download and present it. Test: `pdfinfo deck.pdf` prints a page count equal to the slide count. `media-sync` moves the PDF to the bucket with the slides, and compresses it first.
+47. **Everyone.** The share image is `assets/<slug>/og.png`, a 1200 by 630 PNG of 300 KB or less rendered from slide 1, and `image:` points at it with an absolute `/content/<vault-path>/assets/<slug>/og.png` path. Test: `post-check.mjs` prints no `T8` warning. `talk-build.mjs` letterboxes slide 1 in its own background color, so nothing on the slide is cropped. Rule 26 still applies.
+48. **Everyone.** Slide alt text says what the slide says, in 8 or more characters. Slides take no caption title and no `{#fig-id}`, so rule 21 does not apply to them. The notes beside the slide are its caption.
+49. **Everyone.** A talk is the one documented exception to the single reading measure. On a wide screen the slide and notes sit in a grid of about 1,200 pixels, slide 58 and notes 42, wider than the 704 pixel column, because a slide squeezed into the column is too small to read. Under 900 pixels wide the slide stacks on top of its notes. The intro and the outro stay at the normal measure. Test: open the post at 1440 and 390 pixels wide.
+50. **Repo posts, optional.** Editable slide source may sit in `assets/<slug>/deck-src/` as one HTML file per slide, each with `@page { size: 1600px 900px; margin: 0 }`. It stays in git like an SVG. A deck from Keynote, Google Slides, Canva or PowerPoint needs no source folder; export the PDF and link the original with `talk.source`.
+
 ## Editor checklist
 
 Run this before approving any post, repo or imported.
@@ -128,6 +139,7 @@ Run this before approving any post, repo or imported.
 - [ ] Every image has real alt text, and every figure has a caption.
 - [ ] Run `node _meta/scripts/post-check.mjs <note>` and read the [post rubric](/memo-post-rubric) result for the figure, SVG and reference rules.
 - [ ] Check the hero. The first image reads at thumbnail size, and the share card is not the site default by accident.
+- [ ] Talk post: `talk-build.mjs` or `post-check.mjs` reports `T1` to `T8` clean, `deck.pdf` opens, and the page reads at 1440 and 390 pixels wide.
 - [ ] Confirm credit for every image the author did not make, with no scraped images.
 - [ ] Guest import: read the preview warnings, including `dropped_images=N`, and ask the writer to fix `http:`, `data:` and `<img>`-in-figure cases.
 - [ ] Guest import: after publish, confirm each raster image links to `content/guest-media/`. Warn the writer to keep SVG files and any image over 5 MB online, because memo keeps those original links.
