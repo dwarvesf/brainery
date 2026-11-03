@@ -3,20 +3,21 @@ title: "Verification: media-sync strip lands through a pull request"
 description: "Proof that the Media sync to R2 strip commit reaches protected main through a squash-merged PR, with the local harness cases and the post-merge test plan."
 date: 2026-11-03
 ---
+
 The Media sync to R2 workflow no longer pushes its strip commit to protected main. It pushes a `media-sync/<run>-<attempt>` branch, opens a PR and squash-merges it with the default token, then retries with the dwarves-ops-bot App token if the default one cannot open or merge. If both fail it closes the PR, deletes the branch and fails the job.
 
 ## Green run
 
 Extracted the upload-and-strip `run:` block from the changed workflow and ran it in a scratch repo (bare remote under `/private/tmp`) with `sudo`, `npm` and `wrangler` stubbed and a token-aware `gh` stub (`GH_TOKEN` DEFAULT or APP). The stub controls which tokens fail `pr create` / `pr merge` and what `pr view --json state` returns.
 
-| Case | Stub behavior | Step exit | Calls that matter | Remote after |
-|---|---|---|---|---|
-| 1 default merges | none | 0 | create, merge (DEFAULT) | main unchanged, branch deleted |
-| 2 merge errors, PR already merged | DEFAULT merge fails, state MERGED | 0 | merge, view; no fallback, no warning | main unchanged, branch deleted |
-| 3 default merge refused | DEFAULT merge fails, state OPEN | 0 | 5 DEFAULT merge+view retries, then APP merge; `::warning::` fallback line | main unchanged, branch deleted |
-| 4 default create fails | DEFAULT create fails | 0 | DEFAULT create, then APP create + merge | main unchanged, branch deleted |
-| 5 both refused | DEFAULT and APP merge fail | 1 | 5 retries per token, then `gh pr close`; `::error::` line | main unchanged, branch deleted |
-| 6 refused, no App token | DEFAULT merge fails, APP_TOKEN empty | 1 | 5 DEFAULT retries, `gh pr close`; `::error::` | main unchanged, branch deleted |
+| Case                              | Stub behavior                        | Step exit | Calls that matter                                                         | Remote after                   |
+| --------------------------------- | ------------------------------------ | --------- | ------------------------------------------------------------------------- | ------------------------------ |
+| 1 default merges                  | none                                 | 0         | create, merge (DEFAULT)                                                   | main unchanged, branch deleted |
+| 2 merge errors, PR already merged | DEFAULT merge fails, state MERGED    | 0         | merge, view; no fallback, no warning                                      | main unchanged, branch deleted |
+| 3 default merge refused           | DEFAULT merge fails, state OPEN      | 0         | 5 DEFAULT merge+view retries, then APP merge; `::warning::` fallback line | main unchanged, branch deleted |
+| 4 default create fails            | DEFAULT create fails                 | 0         | DEFAULT create, then APP create + merge                                   | main unchanged, branch deleted |
+| 5 both refused                    | DEFAULT and APP merge fail           | 1         | 5 retries per token, then `gh pr close`; `::error::` line                 | main unchanged, branch deleted |
+| 6 refused, no App token           | DEFAULT merge fails, APP_TOKEN empty | 1         | 5 DEFAULT retries, `gh pr close`; `::error::`                             | main unchanged, branch deleted |
 
 Static checks:
 
