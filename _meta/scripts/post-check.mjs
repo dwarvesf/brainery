@@ -438,18 +438,34 @@ function checkTalk({ file, lines, fm, bodyStart, inFence, mergedClean, warn }) {
       warn('T4', s.line, `slide alt text "${s.alt}" is too thin; write 8+ characters that say what the slide says`)
   }
 
-  // T5: each slide file.
+  // T5: each slide file, and one ratio across the deck.
+  const ratios = new Map()
   for (const s of slides) {
     if (s.n === null) continue
     const abs = normalize(join(dir, s.src))
     const ok = present(abs)
     if (ok === null) continue
     if (!ok) { warn('T5', s.line, `slide file not found: ${s.src}`); continue }
+    const fname = basename(s.src)
     const dim = imageSize(abs)
-    if (!dim || !/^(webp|png)$/.test(dim.type)) warn('T5', s.line, `${basename(s.src)} is not a webp or png file`)
-    else if (dim.w !== 1600 || dim.h !== 900) warn('T5', s.line, `${basename(s.src)} is ${dim.w}x${dim.h}; slides are 1600x900`)
+    if (!dim || !/^(webp|png)$/.test(dim.type)) warn('T5', s.line, `${fname} is not a webp or png file`)
+    else {
+      const long = Math.max(dim.w, dim.h)
+      const r = slideRatio(dim.w, dim.h)
+      if (long < 1200 || long > 1600) warn('T5', s.line, `${fname} is ${dim.w}x${dim.h}; the long edge is 1200 to 1600 px`)
+      if (!r) warn('T5', s.line, `${fname} is ${dim.w}x${dim.h}, ratio ${(long / Math.min(dim.w, dim.h)).toFixed(3)}; slides are 16:9, 16:10 or 4:3`)
+      else if (!ratios.has(r)) ratios.set(r, s.line)
+    }
     const size = statSync(abs).size
-    if (size > SLIDE_MAX_BYTES) warn('T5', s.line, `${basename(s.src)} is ${Math.round(size / 1024)} KB; the cap is 200 KB`)
+    if (size > SLIDE_MAX_BYTES) warn('T5', s.line, `${fname} is ${Math.round(size / 1024)} KB; the cap is 200 KB`)
+  }
+  if (ratios.size > 1) warn('T5', [...ratios.values()][1], `the deck mixes ratios (${[...ratios.keys()].join(', ')}); use one ratio for every slide`)
+  // talk.ratio tells the renderer the slide shape once media-sync has moved the rasters; default 16:9.
+  const declared = talk.ratio?.value
+  if (declared && !['16:9', '16:10', '4:3'].includes(declared)) warn('T5', talk.ratio.line, `talk.ratio is "${declared}"; use 16:9, 16:10 or 4:3`)
+  else if (ratios.size === 1) {
+    const actual = [...ratios.keys()][0]
+    if ((declared ?? '16:9') !== actual) warn('T5', talk.ratio?.line ?? top.talk?.line ?? fmLine, declared ? `talk.ratio is ${declared} but the slides are ${actual}; set talk.ratio: "${actual}"` : `the slides are ${actual} and talk.ratio is not set (the default is 16:9); set talk.ratio: "${actual}"`)
   }
 
   // T1: the deck PDF.
@@ -510,6 +526,14 @@ function checkTalk({ file, lines, fm, bodyStart, inFence, mergedClean, warn }) {
     const size = statSync(og).size
     if (size > OG_MAX_BYTES) warn('T8', top.image?.line ?? fmLine, `${ogRel} is ${Math.round(size / 1024)} KB; the cap is 300 KB`)
   }
+}
+
+// 16:9, 16:10 or 4:3 within one pixel of rounding on the short edge, either orientation.
+function slideRatio(w, h) {
+  const long = Math.max(w, h)
+  const short = Math.min(w, h)
+  for (const [x, y] of [[16, 9], [16, 10], [4, 3]]) if (Math.abs(short - (long * y) / x) <= 1) return `${x}:${y}`
+  return null
 }
 
 function countWords(block) {
