@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 470" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" role="img" aria-labelledby="t d">
+  <title id="t">Fig. 4 the harness loop with eight numbered upgrades</title>
+  <desc id="d">A brief with a done-check goes to a worker that runs alone, then a verifier gate, a result card, the needs-me queue, and you, emphasised, who review and decide. Parked work returns to the worker with a next-step line. Upgrades: 1 verifier gate, 2 result card schema, 3 needs-me queue, 4 next-step line on park, 5 brief template with done-check, 6 safe auto-approve, 7 stall watchdog, 8 live-thread counter.</desc>
+  <defs>
+    <pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M0 .5H20M.5 0V20" fill="none" stroke="#edf0f4" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="470" fill="#eef1f4"/>
+  <rect x="8" y="8" width="744" height="454" fill="#ffffff"/>
+  <rect x="8" y="8" width="744" height="454" fill="url(#g)"/>
+  <rect x="8.5" y="8.5" width="743" height="453" fill="none" stroke="#d3dae2"/>
+  <text x="28" y="38" font-size="13.5" font-family="Archivo, 'Arial Narrow', 'Helvetica Neue', Arial, ui-monospace, monospace" font-weight="700" fill="#17212b">The harness loop after the upgrades</text>
+  <text x="28" y="56" font-size="9.5" letter-spacing="1.2" font-weight="500" fill="#4e5b69">FIG. 4 · WHAT WE ARE BUILDING</text>
+  <line x1="8" y1="70" x2="752" y2="70" stroke="#d3dae2"/>
+
+  <rect x="28" y="104" width="220" height="92" rx="6" fill="#ffffff" stroke="#4e5b69" stroke-width="1.2"/>
+  <text x="42" y="130" font-size="11.5" font-weight="700" fill="#17212b">brief + done-check</text>
+  <text x="42" y="154" font-size="10" fill="#4e5b69">dispatch refuses a brief</text>
+  <text x="42" y="171" font-size="10" fill="#4e5b69">without a test</text>
+  <circle cx="232" cy="124" r="8.5" fill="#ffffff" stroke="#17212b" stroke-width="1.2"/>
+  <text x="232" y="127.5" font-size="9.5" font-weight="700" fill="#17212b" text-anchor="middle">5</text>
+  <rect x="270" y="104" width="220" height="92" rx="6" fill="#ffffff" stroke="#4e5b69" stroke-width="1.2"/>
+  <text x="284" y="130" font-size="11.5" font-weight="700" fill="#17212b">worker runs alone</text>
+  <text x="284" y="154" font-size="10" fill="#4e5b69">hard stop on irreversible steps</text>
+  <text x="284" y="171" font-size="10" fill="#4e5b69">stall watchdog nudges</text>
+  <circle cx="474" cy="124" r="8.5" fill="#ffffff" stroke="#17212b" stroke-width="1.2"/>
+  <text x="474" y="127.5" font-size="9.5" font-weight="700" fill="#17212b" text-anchor="middle">7</text>
+  <circle cx="452" cy="124" r="8.5" fill="#ffffff" stroke="#17212b" stroke-width="1.2"/>
+  <text x="452" y="127.5" font-size="9.5" font-weight="700" fill="#17212b" text-anchor="middle">6</text>
+  <rect x="512" y="104" width="220" height="92" rx="6" fill="#ffffff" stroke="#4e5b69" stroke-width="1.2"/>
+  <text x="526" y="130" font-size="11.5" font-weight="700" fill="#17212b">verifier gate</text>
+  <text x="526" y="154" font-size="10" fill="#4e5b69">fresh-context acceptance check</text>
+  <circle cx="716" cy="124" r="8.5" fill="#ffffff" stroke="#17212b" stroke-width="1.2"/>
+  <text x="716" y="127.5" font-size="9.5" font-weight="700" fill="#17212b" text-anchor="middle">1</text>
+  <rect x="512" y="268" width="220" height="92" rx="6" fill="#ffffff" stroke="#4e5b69" stroke-width="1.2"/>
+  <text x="526" y="294" font-size="11.5" font-weight="700" fill="#17212b">result card</text>
+  <text x="526" y="318" font-size="10" fill="#4e5b69">schema: result, changes, proof,</text>
+  <text x="526" y="335" font-size="10" fill="#4e5b69">not done, needs from you</text>
+  <circle cx="716" cy="288" r="8.5" fill="#ffffff" stroke="#17212b" stroke-width="1.2"/>
+  <text x="716" y="291.5" font-size="9.5" font-weight="700" fill="#17212b" text-anchor="middle">2</text>
+  <rect x="270" y="268" width="220" height="92" rx="6" fill="#ffffff" stroke="#4e5b69" stroke-width="1.2"/>
+  <text x="284" y="294" font-size="11.5" font-weight="700" fill="#17212b">needs-me queue</text>
+  <text x="284" y="318" font-size="10" fill="#4e5b69">a board status + the ask,</text>
+  <text x="284" y="335" font-size="10" fill="#4e5b69">push only when blocked</text>
+  <circle cx="474" cy="288" r="8.5" fill="#ffffff" stroke="#17212b" stroke-width="1.2"/>
+  <text x="474" y="291.5" font-size="9.5" font-weight="700" fill="#17212b" text-anchor="middle">3</text>
+  <rect x="28" y="268" width="220" height="92" rx="6" fill="#e2f0f8" stroke="#0a6aa1" stroke-width="1.6"/>
+  <text x="42" y="294" font-size="11.5" font-weight="700" fill="#0a6aa1">you</text>
+  <text x="42" y="318" font-size="10" fill="#4e5b69">review + decide</text>
+  <line x1="248" y1="150" x2="261" y2="150" stroke="#4e5b69" stroke-width="1.3"/>
+  <polygon points="270,150 260,154.5 260,145.5" fill="#4e5b69"/>
+  <line x1="490" y1="150" x2="503" y2="150" stroke="#4e5b69" stroke-width="1.3"/>
+  <polygon points="512,150 502,154.5 502,145.5" fill="#4e5b69"/>
+  <line x1="622" y1="196" x2="622" y2="259" stroke="#4e5b69" stroke-width="1.3"/>
+  <polygon points="622,268 617.5,258 626.5,258" fill="#4e5b69"/>
+  <line x1="512" y1="314" x2="499" y2="314" stroke="#4e5b69" stroke-width="1.3"/>
+  <polygon points="490,314 500,309.5 500,318.5" fill="#4e5b69"/>
+  <line x1="270" y1="314" x2="257" y2="314" stroke="#4e5b69" stroke-width="1.3"/>
+  <polygon points="248,314 258,309.5 258,318.5" fill="#4e5b69"/>
+  <path d="M 138.0 268 V 232.0 H 380.0 V 205" fill="none" stroke="#4e5b69" stroke-width="1.3" style="stroke-dasharray:5 4"/>
+  <polygon points="380,196 384.5,206 375.5,206" fill="#4e5b69"/>
+  <text x="265" y="225" font-size="10" fill="#17212b" text-anchor="middle" paint-order="stroke" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">park with a next-step line</text>
+  <circle cx="167.0" cy="221.5" r="8.5" fill="#ffffff" stroke="#17212b" stroke-width="1.2"/>
+  <text x="167" y="225" font-size="9.5" font-weight="700" fill="#17212b" text-anchor="middle">4</text>
+  <line x1="138" y1="360" x2="138" y2="390" stroke="#4e5b69" stroke-width="1.2" style="stroke-dasharray:2 3"/>
+  <rect x="28" y="390" width="220" height="40" rx="6" fill="#ffffff" stroke="#4e5b69" stroke-width="1.2"/>
+  <circle cx="46" cy="410" r="8.5" fill="#ffffff" stroke="#17212b" stroke-width="1.2"/>
+  <text x="46" y="413.5" font-size="9.5" font-weight="700" fill="#17212b" text-anchor="middle">8</text>
+  <text x="62" y="407" font-size="10" font-weight="600" fill="#17212b">live-thread counter</text>
+  <text x="62" y="421" font-size="10" fill="#4e5b69">warns above 3</text>
+  <circle cx="279" cy="410" r="8.5" fill="#ffffff" stroke="#17212b" stroke-width="1.2"/>
+  <text x="279" y="413.5" font-size="9.5" font-weight="700" fill="#17212b" text-anchor="middle">n</text>
+  <text x="296" y="414" font-size="9.5" letter-spacing="1.1" font-weight="500" fill="#4e5b69">UPGRADE NUMBER, 1 TO 8</text>
+</svg>
