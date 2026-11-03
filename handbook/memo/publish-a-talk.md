@@ -19,6 +19,7 @@ talk:
   deck: assets/publish-a-talk/deck.pdf
   source: assets/publish-a-talk/deck-src/
   ratio: "16:9"
+  speaker: "Han Ngo"
 ---
 
 This is a talk about the talk format, built in that format. Each slide below sits beside the words that go with it. Read the slides alone for the argument, or read the notes for the evidence. The deck is the reference implementation that [Contribute to memo](/contribute-to-memo) links to, so every file named here exists in this post's folder.

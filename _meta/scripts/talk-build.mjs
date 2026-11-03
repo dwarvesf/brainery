@@ -26,12 +26,22 @@
 // each page to slides/slide-NN.webp at the page's own ratio, long edge 1600,
 // webp q80, 200 KB cap. Nothing is cropped or stretched. Post-check T5 accepts
 // 16:9, 16:10 and 4:3, one ratio per deck.
-// Always: render og.png (1200x630) from slide 1, then print the talk checks.
+// Always: write talk.ratio and talk.speaker to the frontmatter (speaker only
+// when the first author has a speakers/<handle>.json and the writer set none),
+// stamp deck.pdf with the post's Title (title), Author (the speaker's
+// name from _meta/talk-template/speakers/<handle>.json when that file exists,
+// else the first author handle) and Subject (description), render og.png
+// (1200x630) from slide 1, then print the talk checks. Joining pages drops all
+// document info, and the media-sync compression (Ghostscript /ebook) keeps what
+// the file carries, so the stamp is what a reader's PDF viewer and the browser
+// Save dialog show.
 //
 // Binaries (none are installed by this script; it names any that is missing):
 // a Chromium browser for HTML (Chrome, Edge, Brave, Chromium, or $TALK_CHROME),
 // pdfunite or qpdf to join pages, pdftoppm and pdfinfo (poppler), cwebp (webp),
 // and ImageMagick `magick` or macOS `sips` for og.png. pngquant is optional.
+// Ghostscript `gs` writes the PDF Title and Author; without it the build warns
+// and leaves them out.
 // Rule list: handbook/memo/post-rubric.md, "Talk posts".
 
 import { spawn, spawnSync } from 'node:child_process'
@@ -79,10 +89,12 @@ const work = mkdtempSync(join(tmpdir(), 'talk-build-'))
 try {
   mkdirSync(slideDir, { recursive: true })
   if (from === 'html') await htmlToPdf()
+  stampMeta()
   const pages = pdfPageCount(deckPdf)
   console.log(`deck.pdf: ${pages} pages, ${Math.round(statSync(deckPdf).size / 1024)} KB`)
   const firstPng = rasterize(pages)
   writeRatio(firstRatio)
+  writeSpeaker()
   makeOg(firstPng)
   const stale = readdirSync(slideDir).filter((f) => /^slide-\d+\.(webp|png)$/.test(f) && Number(f.match(/\d+/)[0]) > pages)
   if (stale.length) console.log(`note: ${stale.join(', ')} left over from a longer deck; remove them (post-check T2 flags them)`)
@@ -101,6 +113,56 @@ if (talkLines.length) talkLines.forEach((l) => console.log(l))
 else console.log('T1 to T8 PASS')
 if (other) console.log(`(${other} other post-check warning(s); run post-check.mjs on the note to see them)`)
 process.exit(talkLines.length ? 1 : 0)
+
+// The post's title, description and first author handle, read from the
+// frontmatter (scalars, plus `authors` as a list, an inline list or one value).
+function postMeta() {
+  const lines = readFileSync(note, 'utf8').split('\n')
+  const end = lines[0]?.trim() === '---' ? lines.findIndex((l, i) => i > 0 && l.trim() === '---') : -1
+  const fm = end > 0 ? lines.slice(1, end) : []
+  const unquote = (v) => {
+    const q = v.trim().match(/^(["'])(.*)\1$/)
+    if (!q) return v.trim()
+    return q[1] === '"' ? q[2].replace(/\\(["\\])/g, '$1') : q[2].replace(/''/g, "'")
+  }
+  const scalar = (key) => unquote(fm.find((l) => l.startsWith(`${key}:`))?.slice(key.length + 1) ?? '')
+  const at = fm.findIndex((l) => /^authors:/.test(l))
+  let handle = ''
+  if (at >= 0) {
+    const rest = fm[at].slice('authors:'.length).trim()
+    if (rest) handle = unquote(rest.replace(/^\[/, '').split(',')[0].replace(/\]$/, ''))
+    else handle = unquote((fm.slice(at + 1).find((l) => /^\s*-\s+\S/.test(l)) ?? '').replace(/^\s*-\s+/, ''))
+  }
+  return { title: scalar('title'), description: scalar('description'), handle }
+}
+
+// A PDF text string for pdfmark: UTF-16BE hex, so accents and Đ survive.
+function pdfText(s) {
+  return `<FEFF${Buffer.from(s, 'utf16le').swap16().toString('hex').toUpperCase()}>`
+}
+
+// The `name` in speakers/<handle>.json, or null when the handle has no usable file.
+function speakerName(handle) {
+  const file = join(TEMPLATE, 'speakers', `${handle}.json`)
+  if (!/^[\w-]+$/.test(handle) || !existsSync(file)) return null
+  try { return JSON.parse(readFileSync(file, 'utf8')).name || null }
+  catch { console.log(`warning: speakers/${handle}.json is not valid JSON; its name is ignored`); return null }
+}
+
+// Write Title, Author and Subject into deck.pdf with a Ghostscript pdfmark.
+function stampMeta() {
+  const { title, description, handle } = postMeta()
+  const author = speakerName(handle) ?? handle
+  const fields = [['Title', title], ['Author', author], ['Subject', description]].filter(([, v]) => v)
+  if (!fields.length) return
+  if (!has('gs')) return console.log('warning: gs (Ghostscript) is not installed; deck.pdf has no Title or Author')
+  const marks = join(work, 'docinfo.ps')
+  const stamped = join(work, 'deck-stamped.pdf')
+  writeFileSync(marks, `[ ${fields.map(([k, v]) => `/${k} ${pdfText(v)}`).join(' ')} /DOCINFO pdfmark\n`)
+  run('gs', ['-q', '-dNOPAUSE', '-dBATCH', '-sDEVICE=pdfwrite', '-o', stamped, marks, deckPdf])
+  copyFileSync(stamped, deckPdf)
+  console.log(`deck.pdf: ${fields.map(([k]) => k).join(', ')} written`)
+}
 
 async function htmlToPdf() {
   const pagesOut = []
@@ -171,27 +233,44 @@ function snapRatio(png, out) {
   return { png, w, h, ratio: `other ${(long / short).toFixed(3)}` }
 }
 
-// Record slide 1's ratio as talk.ratio in the note's frontmatter, so the site
-// knows the slide shape after media-sync has moved the rasters to the bucket.
-function writeRatio(ratio) {
-  if (!ratio || ratio.startsWith('other')) return
+// Set one key of the note's `talk:` block. `overwrite` false keeps a value the
+// writer set by hand. Returns true when the file changed.
+function setTalkField(key, line, overwrite) {
   const text = readFileSync(note, 'utf8')
   const lines = text.split('\n')
   const end = lines[0]?.trim() === '---' ? lines.findIndex((l, i) => i > 0 && l.trim() === '---') : -1
   const at = lines.findIndex((l, i) => i > 0 && i < end && /^talk:\s*$/.test(l))
-  if (at < 0) return console.log(`warning: no talk: block in the frontmatter; add talk.ratio: "${ratio}" by hand`)
+  if (at < 0) return null
   let k = at + 1
+  const has = new RegExp(`^\\s+${key}:`)
   while (k < end && /^\s+\S/.test(lines[k])) {
-    if (/^\s+ratio:/.test(lines[k])) break
+    if (has.test(lines[k])) break
     k++
   }
-  const line = `  ratio: "${ratio}"`
-  if (k < end && /^\s+ratio:/.test(lines[k])) {
-    if (lines[k] === line) return
+  if (k < end && has.test(lines[k])) {
+    if (!overwrite || lines[k] === line) return false
     lines[k] = line
   } else lines.splice(k, 0, line)
   writeFileSync(note, lines.join('\n'))
-  console.log(`talk.ratio: "${ratio}" written to the frontmatter`)
+  return true
+}
+
+// Record slide 1's ratio as talk.ratio in the note's frontmatter, so the site
+// knows the slide shape after media-sync has moved the rasters to the bucket.
+function writeRatio(ratio) {
+  if (!ratio || ratio.startsWith('other')) return
+  const changed = setTalkField('ratio', `  ratio: "${ratio}"`, true)
+  if (changed === null) return console.log(`warning: no talk: block in the frontmatter; add talk.ratio: "${ratio}" by hand`)
+  if (changed) console.log(`talk.ratio: "${ratio}" written to the frontmatter`)
+}
+
+// Record the first author's name from speakers/<handle>.json as talk.speaker, so
+// the Download button names the file after the speaker. A value set by hand stays.
+function writeSpeaker() {
+  const name = speakerName(postMeta().handle)
+  if (!name) return
+  const quoted = name.replace(/\\/g, '\\\\').replace(/"/g, '\\"')
+  if (setTalkField('speaker', `  speaker: "${quoted}"`, false)) console.log(`talk.speaker: "${name}" written to the frontmatter`)
 }
 
 function makeOg(firstPng) {
