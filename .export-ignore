@@ -22,3 +22,6 @@ _base.md
 .Trash*
 # a git hook readme, not a note
 research/PRE_COMMIT_HOOK_README.md
+
+# vault machinery: scripts, templates, taxonomy, proof records; never notes
+_meta/
