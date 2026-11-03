@@ -1,5 +1,8 @@
-# Verification: media-sync strip lands through a pull request
-
+---
+title: "Verification: media-sync strip lands through a pull request"
+description: "Proof that the Media sync to R2 strip commit reaches protected main through a squash-merged PR, with the local harness cases and the post-merge test plan."
+date: 2026-11-03
+---
 The Media sync to R2 workflow no longer pushes its strip commit to protected main. It pushes a `media-sync/<run>-<attempt>` branch, opens a PR and squash-merges it with the default token, then retries with the dwarves-ops-bot App token if the default one cannot open or merge. If both fail it closes the PR, deletes the branch and fails the job.
 
 ## Green run
