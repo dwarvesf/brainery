@@ -231,33 +231,33 @@ Our own numbers are observational and come from one person on one machine. Longe
 
 ## References
 
-1. **Working memory capacity**: Cowan, working memory holds about three to five chunks, 2001. [The magical number 4 in short-term memory](https://philpapers.org/rec/COWTMN).
-2. **Agent time horizons**: METR data, task-length horizon of frontier agents and its doubling time, 2026. [METR time horizons in 2026](https://agitracker.io/blog/metr-time-horizons-2026/).
-3. **Long-running agent harness**: Anthropic engineering, harness patterns for long-running coding agents, 2025. [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents).
-4. **Clarifying questions up front**: arXiv preprint, clarifying underspecified tasks before execution, 2026. [Ask or Assume?](https://arxiv.org/abs/2603.26233).
-5. **Auto-approval and sandboxing**: Anthropic engineering, auto mode, approval rates and sandboxing, 2026. [Claude Code auto mode](https://www.anthropic.com/engineering/claude-code-auto-mode).
-6. **Automation architecture**: Cummings, vehicles per operator by automation architecture. [Automation architecture for single operator, multiple UAV command and control](http://www.dodccrp.org/files/IC2J_v1n2_01_Cummings.pdf).
-7. **Consent and exception automation**: Ruff, Narayanan and Draper, consent and exception automation with several drones, 2002. [Human interaction with levels of automation and decision-aid fidelity](https://www.semanticscholar.org/paper/Human-Interaction-with-Levels-of-Automation-and-in-Ruff-Narayanan/98be4f42ebf95843365467af8cfad0079ef261da).
-8. **Code review bottleneck**: Chen and Stratton, AI coding agents and the code review bottleneck, 2026. [Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/).
-9. **Structured handoffs**: Starmer and colleagues, the I-PASS handoff program and medical errors, 2014. [Changes in medical errors after implementation of a handoff program](https://www.nejm.org/doi/full/10.1056/NEJMsa1405556).
-10. **Expert chunking**: Gobet and Simon, expert memory relies on templates of familiar structure, 1998. [Expert chess memory: revisiting the chunking hypothesis](http://www.chrest.info/Fribourg_Cours_Expertise/Articles-www/II%20Donnees%20empiriques/Gobet%20&%20Simon-1998-Memory.pdf).
-11. **AI code review benchmarks**: Greptile, vendor benchmark of AI code review catch rates. [AI code review benchmarks](https://www.greptile.com/benchmarks).
-12. **Preparing for an interruption**: Trafton and colleagues, preparing for an interruption speeds resumption, 2003. [Preparing to resume an interrupted task](https://www.interruptions.net/literature/Trafton-IJHCS03.pdf).
-13. **Programmer resumption strategies**: Parnin and Rugaber, resumption strategies of 86 programmers, 2011. [Resumption strategies for interrupted programming tasks](https://link.springer.com/article/10.1007/s11219-010-9104-9).
-14. **LLM summaries for resumption**: Lill and colleagues, LLM summaries, timelines and notes for developer resumption, 2026. [TaCoS preprint](https://hasel.dev/wp-content/uploads/2026/01/TACOS-pre-print.pdf).
-15. **Ready-to-resume plan**: Leroy and Glomb, a ready-to-resume plan removes the residue penalty, 2018. [Tasks interrupted](https://www.semanticscholar.org/paper/Tasks-Interrupted:-How-Anticipating-Time-Pressure-a-Leroy-Glomb/eeeab9fec8439ae2821ba127ef5d398b4f7f5d4a).
-16. **Triage for parallel agents**: ParallelPilot study, a triage view for developers running parallel agents, 2026. [ParallelPilot](https://arxiv.org/html/2609.33113v1).
-17. **Notifications at breakpoints**: Iqbal and Bailey, deferring notifications to breakpoints, 2008. [Effects of intelligent notification management on users and their tasks](https://interruptions.net/literature/Iqbal-CHI08.pdf).
-18. **Batched notifications**: Fitz and colleagues, randomized trial of batching smartphone notifications, 2019. [Batching smartphone notifications can improve well-being](https://www.kushlev.com/s/2019-Fitz-Batching.pdf).
-19. **Wait time as teams grow**: Crandall and Cummings, neglect, interaction and wait times as a team grows, 2007. [Developing performance metrics for the supervisory control of multiple robots](https://faculty.cs.byu.edu/~crandall/papers/CrandallCummingsHRI2007.pdf).
-20. **Alerts for stuck robots**: Goodrich and colleagues, operator detection of stuck robots with and without alerts, 2007. [Managing autonomy in robot teams](https://faculty.cs.byu.edu/~mike/mikeg/papers/GoodrichHRI2007.pdf).
-21. **Operator request queues**: Chien and colleagues, request queues and scheduling aids for multi-robot operators, 2012. [Scheduling operator attention for multi-robot control](https://www.ri.cmu.edu/pub_files/2012/10/Chien_IROS12_Final_Version.pdf).
-22. **Schedule prediction displays**: Cummings and Mitchell, schedule prediction displays for drone operators, 2005. [Management of multiple dynamic human supervisory control tasks](https://scholars.duke.edu/display/pub1108379).
-23. **Delegation by play**: NASA and AFRL, playbook, tools and manual control of several drones, 2018. [NASA TP-2018-219875](https://ntrs.nasa.gov/api/citations/20180003961/downloads/20180003961.pdf).
-24. **Auto-approval stress test**: Independent arXiv preprint, classifier misses on ambiguous workloads, 2026. [Stress testing agent auto-approval](https://arxiv.org/html/2604.04978v1).
-25. **Parallel sub-agents**: arXiv preprint, cost and failure modes of parallel sub-agents, 2026. [When sub-agents work in parallel](https://arxiv.org/html/2610.10263).
-26. **Declared write scope**: Claim Plane preprint, declared write scope for concurrent agents, 2026. [Claim Plane](https://arxiv.org/abs/2608.00947).
-27. **Long-running autonomous coding**: Cursor, long-running autonomous coding experiment, 2026. [Self-driving codebases](https://cursor.com/blog/self-driving-codebases).
-28. **Multi-agent research**: Anthropic, lead and worker agents for research, 2025. [How Anthropic built a multi-agent research system](https://blog.bytebytego.com/p/how-anthropic-built-a-multi-agent).
-29. **Shared operator queues**: Nehme and Cummings, multiserver queueing for supervisory control. [Multiserver queueing for supervisory control of autonomous vehicles](https://ieeexplore.ieee.org/document/6314967/).
-30. **Team against solo supervision**: Frontiers in Psychology study, a single operator against a team in multi-vehicle control, 2016. [Supervisory control of multiple vehicles, team and solo](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00568/full).
+1. **Working memory capacity**: Cowan, 2001. [The magical number 4 in short-term memory](https://philpapers.org/rec/COWTMN).
+2. **Agent time horizons**: METR data, 2026. [METR time horizons in 2026](https://agitracker.io/blog/metr-time-horizons-2026/).
+3. **Long-running agent harness**: Anthropic engineering, 2025. [Effective harnesses for long-running agents](https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents).
+4. **Clarifying questions up front**: arXiv preprint, 2026. [Ask or Assume?](https://arxiv.org/abs/2603.26233).
+5. **Auto-approval and sandboxing**: Anthropic engineering, 2026. [Claude Code auto mode](https://www.anthropic.com/engineering/claude-code-auto-mode).
+6. **Automation architecture**: Cummings. [Automation architecture for single operator, multiple UAV command and control](http://www.dodccrp.org/files/IC2J_v1n2_01_Cummings.pdf).
+7. **Consent and exception automation**: Ruff, Narayanan and Draper, 2002. [Human interaction with levels of automation and decision-aid fidelity](https://www.semanticscholar.org/paper/Human-Interaction-with-Levels-of-Automation-and-in-Ruff-Narayanan/98be4f42ebf95843365467af8cfad0079ef261da).
+8. **Code review bottleneck**: Chen and Stratton, 2026. [Harvard researchers find AI coding agents shifted the bottleneck to code review](https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/).
+9. **Structured handoffs**: Starmer and colleagues, 2014. [Changes in medical errors after implementation of a handoff program](https://www.nejm.org/doi/full/10.1056/NEJMsa1405556).
+10. **Expert chunking**: Gobet and Simon, 1998. [Expert chess memory: revisiting the chunking hypothesis](http://www.chrest.info/Fribourg_Cours_Expertise/Articles-www/II%20Donnees%20empiriques/Gobet%20&%20Simon-1998-Memory.pdf).
+11. **AI code review benchmarks**: Greptile. [AI code review benchmarks](https://www.greptile.com/benchmarks).
+12. **Preparing for an interruption**: Trafton and colleagues, 2003. [Preparing to resume an interrupted task](https://www.interruptions.net/literature/Trafton-IJHCS03.pdf).
+13. **Programmer resumption strategies**: Parnin and Rugaber, 2011. [Resumption strategies for interrupted programming tasks](https://link.springer.com/article/10.1007/s11219-010-9104-9).
+14. **LLM summaries for resumption**: Lill and colleagues, 2026. [TaCoS preprint](https://hasel.dev/wp-content/uploads/2026/01/TACOS-pre-print.pdf).
+15. **Ready-to-resume plan**: Leroy and Glomb, 2018. [Tasks interrupted](https://www.semanticscholar.org/paper/Tasks-Interrupted:-How-Anticipating-Time-Pressure-a-Leroy-Glomb/eeeab9fec8439ae2821ba127ef5d398b4f7f5d4a).
+16. **Triage for parallel agents**: ParallelPilot study, 2026. [ParallelPilot](https://arxiv.org/html/2609.33113v1).
+17. **Notifications at breakpoints**: Iqbal and Bailey, 2008. [Effects of intelligent notification management on users and their tasks](https://interruptions.net/literature/Iqbal-CHI08.pdf).
+18. **Batched notifications**: Fitz and colleagues, 2019. [Batching smartphone notifications can improve well-being](https://www.kushlev.com/s/2019-Fitz-Batching.pdf).
+19. **Wait time as teams grow**: Crandall and Cummings, 2007. [Developing performance metrics for the supervisory control of multiple robots](https://faculty.cs.byu.edu/~crandall/papers/CrandallCummingsHRI2007.pdf).
+20. **Alerts for stuck robots**: Goodrich and colleagues, 2007. [Managing autonomy in robot teams](https://faculty.cs.byu.edu/~mike/mikeg/papers/GoodrichHRI2007.pdf).
+21. **Operator request queues**: Chien and colleagues, 2012. [Scheduling operator attention for multi-robot control](https://www.ri.cmu.edu/pub_files/2012/10/Chien_IROS12_Final_Version.pdf).
+22. **Schedule prediction displays**: Cummings and Mitchell, 2005. [Management of multiple dynamic human supervisory control tasks](https://scholars.duke.edu/display/pub1108379).
+23. **Delegation by play**: NASA and AFRL, 2018. [NASA TP-2018-219875](https://ntrs.nasa.gov/api/citations/20180003961/downloads/20180003961.pdf).
+24. **Auto-approval stress test**: Independent arXiv preprint, 2026. [Stress testing agent auto-approval](https://arxiv.org/html/2604.04978v1).
+25. **Parallel sub-agents**: arXiv preprint, 2026. [When sub-agents work in parallel](https://arxiv.org/html/2610.10263).
+26. **Declared write scope**: Claim Plane preprint, 2026. [Claim Plane](https://arxiv.org/abs/2608.00947).
+27. **Long-running autonomous coding**: Cursor, 2026. [Self-driving codebases](https://cursor.com/blog/self-driving-codebases).
+28. **Multi-agent research**: Anthropic, 2025. [How Anthropic built a multi-agent research system](https://blog.bytebytego.com/p/how-anthropic-built-a-multi-agent).
+29. **Shared operator queues**: Nehme and Cummings. [Multiserver queueing for supervisory control of autonomous vehicles](https://ieeexplore.ieee.org/document/6314967/).
+30. **Team against solo supervision**: Frontiers in Psychology study, 2016. [Supervisory control of multiple vehicles, team and solo](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.00568/full).

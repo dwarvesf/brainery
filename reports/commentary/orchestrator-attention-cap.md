@@ -194,24 +194,24 @@ The cost of this approach is real too. Running fewer threads means some agents s
 
 ## References
 
-1. **Fan-out with wait time**: Crandall and Cummings, predictive metrics and a user study of four to six robots, 2007. [Identifying predictive metrics for supervisory control of multiple robots](https://faculty.cs.byu.edu/~crandall/papers/CrandallCummingsTRO2007_Final.pdf).
-2. **Automation architecture**: Cummings, vehicles per operator by automation architecture. [Automation architecture for single operator, multiple UAV command and control](http://www.dodccrp.org/files/IC2J_v1n2_01_Cummings.pdf).
-3. **Operator utilization**: Cummings and Guerlain, operator utilization and the 70% threshold, 2007. [Developing operator capacity estimates for supervisory control of autonomous vehicles](https://journals.sagepub.com/doi/10.1518/001872007779598109).
-4. **Product development flow**: Reinertsen, queues, utilization and cost of delay in product development, 2009. [Principles of product development flow, summary](https://ttoss.dev/docs/product/product-development/principles).
-5. **Task switching**: Monsell, review of task switching and the residual switch cost, 2003. [Task switching](http://epa.psy.ntu.edu.tw/perception/pdf/Monsell_2003.pdf).
-6. **Recovery after alerts**: Iqbal and Horvitz, field study of alert-driven switches and resumption, 2007. [Disruption and recovery of computing tasks](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/CHI_2007_Iqbal_Horvitz-1.pdf).
-7. **Memory for goals**: Altmann and Trafton, the memory-for-goals model, 2002. [Memory for goals](https://philpapers.org/rec/ALTMFG).
-8. **Cost of interrupted work**: Mark, Gudith and Klocke, interrupted work is faster and more stressful, 2008. [The cost of interrupted work](https://ics.uci.edu/~gmark/chi08-mark.pdf).
-9. **The 23-minute figure**: Gallup interview with Gloria Mark, origin of the 23-minute figure, 2006. [Too many interruptions at work?](https://news.gallup.com/businessjournal/23146/Too-Many-Interruptions-Work.aspx).
-10. **Ready-to-resume plan**: Leroy and Glomb, a ready-to-resume plan removes the residue penalty, 2018. [Tasks interrupted](https://www.semanticscholar.org/paper/Tasks-Interrupted:-How-Anticipating-Time-Pressure-a-Leroy-Glomb/eeeab9fec8439ae2821ba127ef5d398b4f7f5d4a).
-11. **Task juggling in courts**: Coviello, Ichino and Persico, Italian judges who juggle more cases finish slower, 2014. [Time allocation and task juggling](http://tintin.hec.ca/pages/decio.coviello/research_files/continuous.pdf).
-12. **Little's Law**: Little, lead time equals work in progress over throughput, 1961. [A proof for the queuing formula L = λW](https://pubsonline.informs.org/doi/10.1287/opre.9.3.383).
-13. **Context-switching estimates**: Weinberg, estimated time lost to switching between projects, 1992. [Wastes caused by context switching](https://chrisgagne.com/4619/wastes-caused-by-context-switching/).
-14. **Task-relevant maturity**: Andy Grove, task-relevant maturity and monitoring delegated work, 1983. [High Output Management notes](https://robdix.com/high-output-management/).
-15. **Parallel agent lifestyle**: Simon Willison, practitioner account of parallel coding agents, 2025. [Embracing the parallel coding agent lifestyle](https://simonwillison.net/2025/Oct/5/parallel-coding-agents/).
-16. **Orchestration tax**: Addy Osmani, review throughput as the orchestration bottleneck, 2026. [The orchestration tax](https://addyosmani.com/blog/orchestration-tax/).
-17. **Agent adoption**: Mitchell Hashimoto, practitioner account of agent adoption, 2026. [My AI adoption journey](https://mitchellh.com/writing/my-ai-adoption-journey).
-18. **Triage for parallel agents**: ParallelPilot study, formative and tool study of developers running parallel agents, 2026. [ParallelPilot](https://arxiv.org/html/2609.33113v1).
-19. **AI and developer speed**: METR, randomized trial of experienced developers using AI, 2025. [Measuring the impact of early-2025 AI on experienced open-source developer productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/).
-20. **Working memory capacity**: Cowan, working memory holds about three to five chunks, 2001. [The magical number 4 in short-term memory](https://philpapers.org/rec/COWTMN).
-21. **Ego depletion replication**: Hagger and colleagues, 23-lab replication of ego depletion, 2016. [A multilab preregistered replication of the ego-depletion effect](https://journals.sagepub.com/doi/10.1177/1745691616652873).
+1. **Fan-out with wait time**: Crandall and Cummings, 2007. [Identifying predictive metrics for supervisory control of multiple robots](https://faculty.cs.byu.edu/~crandall/papers/CrandallCummingsTRO2007_Final.pdf).
+2. **Automation architecture**: Cummings. [Automation architecture for single operator, multiple UAV command and control](http://www.dodccrp.org/files/IC2J_v1n2_01_Cummings.pdf).
+3. **Operator utilization**: Cummings and Guerlain, 2007. [Developing operator capacity estimates for supervisory control of autonomous vehicles](https://journals.sagepub.com/doi/10.1518/001872007779598109).
+4. **Product development flow**: Reinertsen, 2009. [Principles of product development flow, summary](https://ttoss.dev/docs/product/product-development/principles).
+5. **Task switching**: Monsell, 2003. [Task switching](http://epa.psy.ntu.edu.tw/perception/pdf/Monsell_2003.pdf).
+6. **Recovery after alerts**: Iqbal and Horvitz, 2007. [Disruption and recovery of computing tasks](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/CHI_2007_Iqbal_Horvitz-1.pdf).
+7. **Memory for goals**: Altmann and Trafton, 2002. [Memory for goals](https://philpapers.org/rec/ALTMFG).
+8. **Cost of interrupted work**: Mark, Gudith and Klocke, 2008. [The cost of interrupted work](https://ics.uci.edu/~gmark/chi08-mark.pdf).
+9. **The 23-minute figure**: Gallup interview with Gloria Mark, 2006. [Too many interruptions at work?](https://news.gallup.com/businessjournal/23146/Too-Many-Interruptions-Work.aspx).
+10. **Ready-to-resume plan**: Leroy and Glomb, 2018. [Tasks interrupted](https://www.semanticscholar.org/paper/Tasks-Interrupted:-How-Anticipating-Time-Pressure-a-Leroy-Glomb/eeeab9fec8439ae2821ba127ef5d398b4f7f5d4a).
+11. **Task juggling in courts**: Coviello, Ichino and Persico, 2014. [Time allocation and task juggling](http://tintin.hec.ca/pages/decio.coviello/research_files/continuous.pdf).
+12. **Little's Law**: Little, 1961. [A proof for the queuing formula L = λW](https://pubsonline.informs.org/doi/10.1287/opre.9.3.383).
+13. **Context-switching estimates**: Weinberg, 1992. [Wastes caused by context switching](https://chrisgagne.com/4619/wastes-caused-by-context-switching/).
+14. **Task-relevant maturity**: Andy Grove, 1983. [High Output Management notes](https://robdix.com/high-output-management/).
+15. **Parallel agent lifestyle**: Simon Willison, 2025. [Embracing the parallel coding agent lifestyle](https://simonwillison.net/2025/Oct/5/parallel-coding-agents/).
+16. **Orchestration tax**: Addy Osmani, 2026. [The orchestration tax](https://addyosmani.com/blog/orchestration-tax/).
+17. **Agent adoption**: Mitchell Hashimoto, 2026. [My AI adoption journey](https://mitchellh.com/writing/my-ai-adoption-journey).
+18. **Triage for parallel agents**: ParallelPilot study, 2026. [ParallelPilot](https://arxiv.org/html/2609.33113v1).
+19. **AI and developer speed**: METR, 2025. [Measuring the impact of early-2025 AI on experienced open-source developer productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/).
+20. **Working memory capacity**: Cowan, 2001. [The magical number 4 in short-term memory](https://philpapers.org/rec/COWTMN).
+21. **Ego depletion replication**: Hagger and colleagues, 2016. [A multilab preregistered replication of the ego-depletion effect](https://journals.sagepub.com/doi/10.1177/1745691616652873).
