@@ -157,7 +157,7 @@ Weakest:    one sentence naming the single weakest spot and where it is
 Blocking:   the failing items that must be fixed before review (empty if none)
 ```
 
-An item is blocking when it is 1, 2, 11 or 13, or when `ref-missing` fires (the build fails on it). Every other failure is a fix before review that an editor may waive.
+An item is blocking when it is 1, 2, 11 or 13, when a talk fails `J1` or `J6`, or when `ref-missing` fires (the build fails on it). Every other failure, `J2` to `J5` included, is a fix before review that an editor may waive.
 
 ## Talk posts
 
@@ -197,7 +197,7 @@ Table: Talk judgment checks {#tbl-talk-judgment}
 | `J5` | Does slide 1 name the speaker and role, and the last give the takeaway?     |
 | `J6` | Is the piece a linear argument with distinct beats?                         |
 
-Quotes and screenshots are exempt from the word limit in `J2`. The last slide also says where to find the speaker (`J5`). A reference page, a playbook or a data-heavy report fails `J6` and stays as prose.
+Quotes and screenshots are exempt from the word limit in `J2`. The last slide also says where to find the speaker (`J5`). A reference page, a playbook or a data-heavy report fails `J6` and stays as prose. `J1` and `J6` are blocking, like items 1, 2, 11 and 13. A `J6` failure never rejects the piece: drop `layout: talk` and publish it as a normal post.
 
 Add a line for the talk checks to the verdict block:
 
