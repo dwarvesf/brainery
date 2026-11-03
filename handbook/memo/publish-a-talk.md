@@ -29,7 +29,7 @@ This is a talk about the talk format, built in that format. Each slide below sit
 
 ![Speaker profile: Han Ngo, backend and AI systems engineer and CTO at Dwarves, with what he built, what he works on now, and his links](assets/publish-a-talk/slides/slide-02.webp)
 
-Every deck of mine opens with this slide, a habit from my 2019 decks: the audience should know who is talking before the argument starts. The slide is not hand-made. It reads one data file, the speaker file in the talk template, at every build, so a new role or link changes every deck on its next build. The photo is my GitHub avatar, saved next to the deck source instead of hotlinked, and the memo note count is read live from my contributor page.
+Every deck of mine opens with this slide, a habit from my 2019 decks: the audience should know who is talking before the argument starts. The slide is not hand-made. It reads one data file, the speaker file in the talk template, at every build, so a new role or link changes every deck on its next build. The photo is a headshot stored beside the deck source, so the slide never hotlinks it, and the memo note count is read live from my contributor page.
 
 ![Three cards compare a PDF deck, a recording and a talk page; only the talk page keeps both the slides and the words and stays skimmable](assets/publish-a-talk/slides/slide-03.webp)
 

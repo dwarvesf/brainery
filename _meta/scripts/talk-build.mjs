@@ -8,9 +8,9 @@
 // optional; a deck exported from any tool needs no deck-src at all. With
 // --speaker, slide 2 is the speaker profile, read from
 // _meta/talk-template/speakers/<handle>.json at every render, so one edit to
-// that file updates the profile in every deck on its next build. The render
-// saves the speaker's photo into deck-src (never hotlinked) and reads the
-// live memo note count when the contributor page answers within a few seconds.
+// that file updates the profile in every deck on its next build. The photo is
+// the vault file the data file names (never hotlinked), and the render reads
+// the live memo note count when the contributor page answers within seconds.
 //
 // The talk lives in <post-dir>/assets/<slug>/ (the slug is the note's file name):
 //   deck-src/*.html   optional source, one HTML file per slide, sorted by name
@@ -37,7 +37,7 @@
 import { spawn, spawnSync } from 'node:child_process'
 import { copyFileSync, cpSync, existsSync, mkdirSync, mkdtempSync, readdirSync, readFileSync, rmSync, statSync, writeFileSync } from 'node:fs'
 import { tmpdir } from 'node:os'
-import { basename, dirname, join, resolve } from 'node:path'
+import { basename, dirname, extname, join, resolve } from 'node:path'
 import { fileURLToPath, pathToFileURL } from 'node:url'
 
 const LONG_EDGE = 1600
@@ -243,8 +243,8 @@ function init(target, speaker) {
 }
 
 // Fill every <div class="profile" data-speaker="<id>"></div> in the staged deck
-// from speakers/<id>.json. The photo is saved next to the deck source, so the
-// slide never hotlinks it; a later build reuses the saved copy.
+// from speakers/<id>.json. The photo is the vault file the data file names, so
+// the slide never hotlinks it.
 async function fillProfiles(stage) {
   const esc = (t) => String(t).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
   for (const f of readdirSync(stage).filter((x) => x.endsWith('.html'))) {
@@ -255,18 +255,19 @@ async function fillProfiles(stage) {
     const dataFile = join(TEMPLATE, 'speakers', `${m[1]}.json`)
     if (!existsSync(dataFile)) die(`${f} asks for speaker ${m[1]}, but ${dataFile} does not exist`)
     const sp = JSON.parse(readFileSync(dataFile, 'utf8'))
-    const photoName = `speaker-${sp.id}.png`
-    const saved = join(srcDir, photoName)
-    if (!existsSync(saved) && sp.photo_url) {
-      const r = await fetch(sp.photo_url, { signal: AbortSignal.timeout(15000) }).catch(() => null)
-      if (r?.ok) {
-        const raw = join(work, `photo-${sp.id}`)
-        writeFileSync(raw, Buffer.from(await r.arrayBuffer()))
-        run(has('magick') ? 'magick' : 'sips', has('magick') ? [raw, '-resize', '600x600>', `png:${saved}`] : ['-s', 'format', 'png', '-Z', '600', raw, '--out', saved])
-        console.log(`profile: saved ${photoName} from ${sp.photo_url}`)
-      } else console.log(`warning: could not fetch ${sp.photo_url}; the profile slide has no photo`)
+    // The photo is a vault path in the data file. After merge, media-sync moves
+    // it to the bucket, so a later build reads memo's copy of the same path.
+    let photoName = null
+    if (sp.photo) {
+      photoName = `speaker-${sp.id}${extname(sp.photo)}`
+      const local = join(TEMPLATE, '..', '..', sp.photo)
+      if (existsSync(local)) copyFileSync(local, join(stage, photoName))
+      else {
+        const r = await fetch(`https://memo.d.foundation/content/${sp.photo}`, { signal: AbortSignal.timeout(15000) }).catch(() => null)
+        if (r?.ok) writeFileSync(join(stage, photoName), Buffer.from(await r.arrayBuffer()))
+        else { console.log(`warning: photo ${sp.photo} not found locally or on memo; the profile slide has no photo`); photoName = null }
+      }
     }
-    if (existsSync(saved)) copyFileSync(saved, join(stage, photoName))
     const facts = [...(sp.facts ?? [])]
     if (sp.memo_contributor) {
       const r = await fetch(`https://memo.d.foundation/contributor/${sp.memo_contributor}`, { signal: AbortSignal.timeout(6000) }).catch(() => null)
@@ -274,7 +275,7 @@ async function fillProfiles(stage) {
       if (count) facts.push({ label: 'Memo', text: `${count} notes on memo.d.foundation` })
       else console.log('profile: memo note count unavailable, line omitted')
     }
-    const body = `<div class="profile">${existsSync(saved) ? `<img class="photo" src="${photoName}" alt="${esc(sp.name)}">` : '<div class="photo"></div>'}<div>
+    const body = `<div class="profile">${photoName ? `<img class="photo" src="${photoName}" alt="${esc(sp.name)}">` : '<div class="photo"></div>'}<div>
 <div class="name">${esc(sp.name)}</div><div class="headline">${esc(sp.headline)}</div><div class="role">${esc(sp.role)}</div><div class="dither"></div>
 <dl>${facts.map((x) => `<dt>${esc(x.label)}</dt><dd>${esc(x.text)}</dd>`).join('')}</dl></div></div>
 <div class="links">${(sp.links ?? []).map(esc).join('  ·  ')}</div>`
