@@ -28,7 +28,7 @@ This is a talk about the talk format, built in that format. Each slide below sit
 
 ![Three cards compare a PDF deck, a recording and a talk page; only the talk page keeps both the slides and the words and stays skimmable](assets/publish-a-talk/slides/slide-02.webp)
 
-We give talks at OGIF and to clients, and afterwards the deck goes into a drive folder. Reopened a month later, the bullets no longer say why they mattered, because the why was spoken. The recording has the why, but a reader who wants one number from minute 31 has to scrub for it. A talk page puts the slide and the spoken part side by side, and the reader scrolls to the number they want.
+A deck shared as a PDF keeps the bullets and drops the explanation that went with them, because that part was spoken. The recording has the explanation, but a reader who wants one number from minute 31 has to scrub for it. A talk page puts the slide and the spoken part side by side, and the reader scrolls to the number they want.
 
 ![A wide page with the slide on the left at 58 percent and the notes on the right at 42 percent, and a phone layout with the notes under the slide](assets/publish-a-talk/slides/slide-03.webp)
 
