@@ -198,7 +198,7 @@ The cost of this approach is real too. Running fewer threads means some agents s
 2. **Automation architecture**: Cummings, vehicles per operator by automation architecture. [Automation architecture for single operator, multiple UAV command and control](https://apps.dtic.mil/sti/tr/pdf/ADA567799.pdf).
 3. **Operator utilization**: Cummings and Guerlain, operator utilization and the 70% threshold, 2007. [Developing operator capacity estimates for supervisory control of autonomous vehicles](https://journals.sagepub.com/doi/10.1518/001872007779598109).
 4. **Product development flow**: Reinertsen, queues, utilization and cost of delay in product development, 2009. [Principles of product development flow, summary](https://ttoss.dev/docs/product/product-development/principles).
-5. **Task switching**: Monsell, review of task switching and the residual switch cost, 2003. [Task switching](https://doi.org/10.1016/S1364-6613(03)00028-7).
+5. **Task switching**: Monsell, review of task switching and the residual switch cost, 2003. [Task switching](<https://doi.org/10.1016/S1364-6613(03)00028-7>).
 6. **Recovery after alerts**: Iqbal and Horvitz, field study of alert-driven switches and resumption, 2007. [Disruption and recovery of computing tasks](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/CHI_2007_Iqbal_Horvitz-1.pdf).
 7. **Memory for goals**: Altmann and Trafton, the memory-for-goals model, 2002. [Memory for goals](https://philpapers.org/rec/ALTMFG).
 8. **Cost of interrupted work**: Mark, Gudith and Klocke, interrupted work is faster and more stressful, 2008. [The cost of interrupted work](https://ics.uci.edu/~gmark/chi08-mark.pdf).
