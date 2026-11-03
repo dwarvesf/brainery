@@ -6,6 +6,14 @@ name: Media sync to R2
 # stays small without changing anyone's writing flow. History grows one tiny
 # strip-commit per media merge; the periodic history squash (see README)
 # resets that.
+#
+# main is protected (pull request required, 0 approvals), so the strip never
+# pushes to main. It goes up on a media-sync/<run> branch, opens a PR and
+# squash-merges it. The default token merges it; a merge made with the default
+# token fires no workflow run, so the strip cannot loop or republish the site.
+# If the default token is refused, the dwarves-ops-bot App token merges
+# instead (same App publish-on-push uses). Its merge does fire push workflows;
+# publish-on-push skips them by the strip commit subject.
 on:
   push:
     branches: [main]
@@ -26,10 +34,13 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pull-requests: write
     steps:
       - uses: actions/checkout@v5
-      - name: Upload media to R2 and strip from the repo
+      - name: Upload media to R2 and open the strip PR
+        id: strip
         env:
+          GH_TOKEN: ${{ github.token }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.R2_SYNC_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
         run: |
@@ -59,5 +70,39 @@ jobs:
           echo "$FILES" | while read -r f; do git rm -qf "$f"; done
           git config user.name "media-sync"
           git config user.email "ops@d.foundation"
-          git commit -m "chore: media synced to R2 and stripped from the repo"
-          git push
+          TITLE="chore: media synced to R2 and stripped from the repo"
+          BRANCH="media-sync/${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
+          git switch -c "$BRANCH"
+          git commit -m "$TITLE"
+          git push origin "$BRANCH"
+          PR_URL=$(gh pr create --base main --head "$BRANCH" --title "$TITLE" \
+            --body "Automated by the Media sync to R2 workflow (run ${GITHUB_RUN_ID}). Every file removed here is already in the memo-vault-assets bucket.")
+          echo "pr=$PR_URL" >> "$GITHUB_OUTPUT"
+          # Mergeability is computed async after create; retry briefly.
+          for _ in 1 2 3 4 5; do
+            if gh pr merge "$PR_URL" --squash --delete-branch --subject "$TITLE" --body ""; then
+              echo "merged=true" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "::warning::default token could not merge $PR_URL; falling back to the ops-bot App token"
+          echo "merged=false" >> "$GITHUB_OUTPUT"
+      - name: Mint ops-bot token
+        if: steps.strip.outputs.merged == 'false'
+        id: app
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: ${{ vars.OPS_BOT_APP_ID }}
+          private-key: ${{ secrets.OPS_BOT_PRIVATE_KEY }}
+          owner: dwarvesf
+          repositories: brainery
+      - name: Merge the strip PR as the ops-bot App
+        if: steps.strip.outputs.merged == 'false'
+        env:
+          GH_TOKEN: ${{ steps.app.outputs.token }}
+          PR_URL: ${{ steps.strip.outputs.pr }}
+        run: |
+          set -euo pipefail
+          gh pr merge "$PR_URL" --squash --delete-branch \
+            --subject "chore: media synced to R2 and stripped from the repo" --body ""
