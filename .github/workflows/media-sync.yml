@@ -9,11 +9,12 @@ name: Media sync to R2
 #
 # main is protected (pull request required, 0 approvals), so the strip never
 # pushes to main. It goes up on a media-sync/<run> branch, opens a PR and
-# squash-merges it. The default token merges it; a merge made with the default
-# token fires no workflow run, so the strip cannot loop or republish the site.
-# If the default token is refused, the dwarves-ops-bot App token merges
-# instead (same App publish-on-push uses). Its merge does fire push workflows;
-# publish-on-push skips them by the strip commit subject.
+# squash-merges it. The default token goes first; a merge made with it fires
+# no workflow run, so the strip cannot loop or republish the site. If the
+# default token cannot open or merge the PR, the dwarves-ops-bot App token
+# (same App publish-on-push uses) does it, and if that fails too the PR is
+# closed and the job fails. An App merge does fire push workflows; the job
+# guard below and publish-on-push skip the strip subject.
 on:
   push:
     branches: [main]
@@ -31,16 +32,38 @@ on:
 
 jobs:
   sync:
+    # main only: a dispatch from another branch would squash that branch into
+    # main unreviewed. Skip the strip commit itself (an App merge fires a push).
+    if: >-
+      github.ref == 'refs/heads/main' &&
+      (github.event_name == 'workflow_dispatch' ||
+       !startsWith(github.event.head_commit.message, 'chore: media synced to R2'))
+    concurrency:
+      group: media-sync
+      cancel-in-progress: false
     runs-on: ubuntu-latest
     permissions:
       contents: write
       pull-requests: write
     steps:
       - uses: actions/checkout@v5
-      - name: Upload media to R2 and open the strip PR
-        id: strip
+      # Fallback credential only; a failed mint (App not installed here) must
+      # not break the default-token path, so it never fails the job.
+      - name: Mint ops-bot token
+        id: app
+        continue-on-error: true
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: ${{ vars.OPS_BOT_APP_ID }}
+          private-key: ${{ secrets.OPS_BOT_PRIVATE_KEY }}
+          owner: dwarvesf
+          repositories: brainery
+          permission-contents: write
+          permission-pull-requests: write
+      - name: Upload media to R2 and land the strip through a PR
         env:
           GH_TOKEN: ${{ github.token }}
+          APP_TOKEN: ${{ steps.app.outputs.token }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.R2_SYNC_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
         run: |
@@ -75,34 +98,39 @@ jobs:
           git switch -c "$BRANCH"
           git commit -m "$TITLE"
           git push origin "$BRANCH"
-          PR_URL=$(gh pr create --base main --head "$BRANCH" --title "$TITLE" \
-            --body "Automated by the Media sync to R2 workflow (run ${GITHUB_RUN_ID}). Every file removed here is already in the memo-vault-assets bucket.")
-          echo "pr=$PR_URL" >> "$GITHUB_OUTPUT"
-          # Mergeability is computed async after create; retry briefly.
-          for _ in 1 2 3 4 5; do
-            if gh pr merge "$PR_URL" --squash --delete-branch --subject "$TITLE" --body ""; then
-              echo "merged=true" >> "$GITHUB_OUTPUT"
-              exit 0
+          pr_url=""
+          # Opens the PR once, then squash-merges it with the caller's GH_TOKEN.
+          # No --delete-branch: the runner sits on the PR head with no local
+          # main, so gh's post-merge branch switch can fail after GitHub merged.
+          # A failed merge call with state MERGED still counts as success.
+          merge_strip_pr() {
+            if [ -z "$pr_url" ]; then
+              pr_url=$(gh pr create --base main --head "$BRANCH" --title "$TITLE" \
+                --body "Automated by the Media sync to R2 workflow (run ${GITHUB_RUN_ID}). Every file removed here is already in the memo-vault-assets bucket.") || return 1
             fi
-            sleep 5
-          done
-          echo "::warning::default token could not merge $PR_URL; falling back to the ops-bot App token"
-          echo "merged=false" >> "$GITHUB_OUTPUT"
-      - name: Mint ops-bot token
-        if: steps.strip.outputs.merged == 'false'
-        id: app
-        uses: actions/create-github-app-token@v2
-        with:
-          app-id: ${{ vars.OPS_BOT_APP_ID }}
-          private-key: ${{ secrets.OPS_BOT_PRIVATE_KEY }}
-          owner: dwarvesf
-          repositories: brainery
-      - name: Merge the strip PR as the ops-bot App
-        if: steps.strip.outputs.merged == 'false'
-        env:
-          GH_TOKEN: ${{ steps.app.outputs.token }}
-          PR_URL: ${{ steps.strip.outputs.pr }}
-        run: |
-          set -euo pipefail
-          gh pr merge "$PR_URL" --squash --delete-branch \
-            --subject "chore: media synced to R2 and stripped from the repo" --body ""
+            # Mergeability is computed async after create; retry briefly.
+            for _ in 1 2 3 4 5; do
+              gh pr merge "$pr_url" --squash --subject "$TITLE" --body "" && return 0
+              [ "$(gh pr view "$pr_url" --json state -q .state || true)" = "MERGED" ] && return 0
+              sleep 5
+            done
+            return 1
+          }
+          merged=0
+          if merge_strip_pr; then
+            merged=1
+          elif [ -n "${APP_TOKEN:-}" ]; then
+            echo "::warning::default token could not open or merge the strip PR; retrying with the ops-bot App token"
+            if GH_TOKEN="$APP_TOKEN" merge_strip_pr; then merged=1; fi
+          fi
+          if [ "$merged" = 1 ]; then
+            git push origin --delete "$BRANCH" || true
+            exit 0
+          fi
+          # Leave no stale PR or branch behind; the rerun opens a fresh one.
+          if [ -n "$pr_url" ]; then
+            GH_TOKEN="${APP_TOKEN:-$GH_TOKEN}" gh pr close "$pr_url" || true
+          fi
+          git push origin --delete "$BRANCH" || true
+          echo "::error::strip PR could not be merged with the default or the App token"
+          exit 1
