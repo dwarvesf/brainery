@@ -1,11 +1,16 @@
 #!/usr/bin/env node
 // talk-build.mjs: build the slide files of a `layout: talk` post.
 // Usage: node _meta/scripts/talk-build.mjs <post.md> [--from html|pdf]
-//        node _meta/scripts/talk-build.mjs --init <post.md>
+//        node _meta/scripts/talk-build.mjs --init <post.md> [--speaker <handle>]
 //
 // --init copies the house deck theme (_meta/talk-template/: theme.css and the
 // example layouts) into assets/<slug>/deck-src/ to start a deck. The theme is
-// optional; a deck exported from any tool needs no deck-src at all.
+// optional; a deck exported from any tool needs no deck-src at all. With
+// --speaker, slide 2 is the speaker profile, read from
+// _meta/talk-template/speakers/<handle>.json at every render, so one edit to
+// that file updates the profile in every deck on its next build. The render
+// saves the speaker's photo into deck-src (never hotlinked) and reads the
+// live memo note count when the contributor page answers within a few seconds.
 //
 // The talk lives in <post-dir>/assets/<slug>/ (the slug is the note's file name):
 //   deck-src/*.html   optional source, one HTML file per slide, sorted by name
@@ -45,7 +50,7 @@ let firstRatio = null // set by rasterize from slide 1, written to talk.ratio
 
 const args = process.argv.slice(2)
 const TEMPLATE = join(dirname(fileURLToPath(import.meta.url)), '..', 'talk-template')
-if (args[0] === '--init') init(args[1])
+if (args[0] === '--init') init(args[1], args.includes('--speaker') ? args[args.indexOf('--speaker') + 1] : null)
 const fromAt = args.indexOf('--from')
 const fromArg = fromAt >= 0 ? args[fromAt + 1] : null
 const note = args.find((a, i) => !a.startsWith('--') && (fromAt < 0 || i !== fromAt + 1))
@@ -102,6 +107,7 @@ async function htmlToPdf() {
   const stage = join(work, 'deck-src')
   cpSync(srcDir, stage, { recursive: true })
   if (!existsSync(join(stage, 'fonts.css')) && existsSync(join(TEMPLATE, 'fonts.css'))) copyFileSync(join(TEMPLATE, 'fonts.css'), join(stage, 'fonts.css'))
+  await fillProfiles(stage)
   for (const [k, f] of htmlSlides.entries()) {
     const pdf = join(work, `page-${String(k + 1).padStart(2, '0')}.pdf`)
     await runChrome(pdf, [
@@ -211,21 +217,69 @@ function pad(src, out, w, h) {
   run('sips', ['--padToHeightWidth', String(h), String(w), '--padColor', 'FFFFFF', out])
 }
 
-function init(target) {
-  if (!target) die('usage: talk-build.mjs --init <post.md>')
+function init(target, speaker) {
+  if (!target) die('usage: talk-build.mjs --init <post.md> [--speaker <handle>]')
+  if (speaker && !existsSync(join(TEMPLATE, 'speakers', `${speaker}.json`))) die(`no speaker file _meta/talk-template/speakers/${speaker}.json; copy tieubao.json and fill in your own public facts`)
   const slug = basename(target).replace(/\.mdx?$/, '')
   const dest = join(dirname(resolve(target)), 'assets', slug, 'deck-src')
   if (existsSync(dest) && readdirSync(dest).some((f) => f.endsWith('.html'))) die(`${dest} already has slides; nothing copied`)
   mkdirSync(dest, { recursive: true })
-  const files = readdirSync(TEMPLATE).filter((f) => f !== 'fonts.css').sort()
+  const files = readdirSync(TEMPLATE, { withFileTypes: true }).filter((d) => d.isFile() && !['fonts.css', 'profile.html'].includes(d.name)).map((d) => d.name).sort()
   let n = 0
   for (const f of files) {
-    const to = /^slide-\d+-.*\.html$/.test(f) ? `slide-${String(++n).padStart(2, '0')}.html` : f
+    const slide = /^slide-\d+-.*\.html$/.test(f)
+    const to = slide ? `slide-${String(++n).padStart(2, '0')}.html` : f
     copyFileSync(join(TEMPLATE, f), join(dest, to))
     console.log(`deck-src/${to}${to !== f ? `  (from ${f})` : ''}`)
+    if (slide && n === 1) {
+      if (!speaker) { console.log('(no --speaker: the profile slide is skipped; add one with your own speakers/<handle>.json)'); continue }
+      const profile = readFileSync(join(TEMPLATE, 'profile.html'), 'utf8').replaceAll('{{speaker}}', speaker)
+      writeFileSync(join(dest, `slide-${String(++n).padStart(2, '0')}.html`), profile)
+      console.log(`deck-src/slide-${String(n).padStart(2, '0')}.html  (profile, from speakers/${speaker}.json)`)
+    }
   }
   console.log(`\nStarted a deck in ${dest}. Edit the slides, add or copy layouts, then run:\n  node _meta/scripts/talk-build.mjs ${target}`)
   process.exit(0)
+}
+
+// Fill every <div class="profile" data-speaker="<id>"></div> in the staged deck
+// from speakers/<id>.json. The photo is saved next to the deck source, so the
+// slide never hotlinks it; a later build reuses the saved copy.
+async function fillProfiles(stage) {
+  const esc = (t) => String(t).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+  for (const f of readdirSync(stage).filter((x) => x.endsWith('.html'))) {
+    const file = join(stage, f)
+    const html = readFileSync(file, 'utf8')
+    const m = html.match(/<div class="profile" data-speaker="([\w-]+)"><\/div>/)
+    if (!m) continue
+    const dataFile = join(TEMPLATE, 'speakers', `${m[1]}.json`)
+    if (!existsSync(dataFile)) die(`${f} asks for speaker ${m[1]}, but ${dataFile} does not exist`)
+    const sp = JSON.parse(readFileSync(dataFile, 'utf8'))
+    const photoName = `speaker-${sp.id}.png`
+    const saved = join(srcDir, photoName)
+    if (!existsSync(saved) && sp.photo_url) {
+      const r = await fetch(sp.photo_url, { signal: AbortSignal.timeout(15000) }).catch(() => null)
+      if (r?.ok) {
+        const raw = join(work, `photo-${sp.id}`)
+        writeFileSync(raw, Buffer.from(await r.arrayBuffer()))
+        run(has('magick') ? 'magick' : 'sips', has('magick') ? [raw, '-resize', '600x600>', `png:${saved}`] : ['-s', 'format', 'png', '-Z', '600', raw, '--out', saved])
+        console.log(`profile: saved ${photoName} from ${sp.photo_url}`)
+      } else console.log(`warning: could not fetch ${sp.photo_url}; the profile slide has no photo`)
+    }
+    if (existsSync(saved)) copyFileSync(saved, join(stage, photoName))
+    const facts = [...(sp.facts ?? [])]
+    if (sp.memo_contributor) {
+      const r = await fetch(`https://memo.d.foundation/contributor/${sp.memo_contributor}`, { signal: AbortSignal.timeout(6000) }).catch(() => null)
+      const count = r?.ok ? (await r.text()).match(/(\d[\d,]*) notes since/)?.[1] : null
+      if (count) facts.push({ label: 'Memo', text: `${count} notes on memo.d.foundation` })
+      else console.log('profile: memo note count unavailable, line omitted')
+    }
+    const body = `<div class="profile">${existsSync(saved) ? `<img class="photo" src="${photoName}" alt="${esc(sp.name)}">` : '<div class="photo"></div>'}<div>
+<div class="name">${esc(sp.name)}</div><div class="headline">${esc(sp.headline)}</div><div class="role">${esc(sp.role)}</div><div class="dither"></div>
+<dl>${facts.map((x) => `<dt>${esc(x.label)}</dt><dd>${esc(x.text)}</dd>`).join('')}</dl></div></div>
+<div class="links">${(sp.links ?? []).map(esc).join('  ·  ')}</div>`
+    writeFileSync(file, html.replace(m[0], body))
+  }
 }
 
 function pngSize(p) {
