@@ -190,6 +190,19 @@ h1, .title {
 .speaker .name { font-family: var(--m-serif); font-weight: var(--m-w-head); font-size: var(--t-h2); color: var(--m-ink); }
 .speaker .role { font-size: var(--t-ui); color: var(--m-ink-2); margin-top: 6px; }
 
+/* layout: profile, the speaker slide after the title. talk-build fills
+   <div class="profile" data-speaker="<id>"> from speakers/<id>.json at render time. */
+.layout-profile .profile { position: absolute; left: var(--s-8); right: var(--s-8); top: 210px; display: grid; grid-template-columns: 300px 1fr; gap: 72px; }
+.profile .photo { width: 300px; height: 300px; border-radius: 8px; border: 1px solid var(--m-rule); object-fit: cover; background: var(--m-paper-2); }
+.profile .name { font-family: var(--m-serif); font-weight: var(--m-w-head); font-size: var(--t-title); line-height: 1.1; letter-spacing: -0.008em; color: var(--m-ink); }
+.profile .headline { font-family: var(--m-serif); font-weight: var(--m-w-text); font-size: var(--t-lead); line-height: 1.35; color: var(--m-ink-2); margin-top: 10px; }
+.profile .role { font-size: var(--t-ui); color: var(--m-ink); margin-top: 8px; }
+.profile .dither { width: 220px; margin-top: 26px; }
+.profile dl { display: grid; grid-template-columns: 110px 1fr; gap: 14px 24px; margin-top: 30px; font-size: 29px; line-height: 1.35; }
+.profile dt { font-family: var(--m-mono); font-weight: var(--m-w-meta); font-size: var(--t-label); letter-spacing: 0.14em; text-transform: uppercase; color: var(--m-ink-3); padding-top: 6px; }
+.profile dd { color: var(--m-ink); }
+.layout-profile .links { position: absolute; left: var(--s-8); right: var(--s-8); bottom: 140px; font-family: var(--m-mono); font-size: 23px; color: var(--m-ink-2); }
+
 /* layout: statement, one sentence carries the slide */
 .layout-statement .title { font-size: var(--t-statement); line-height: 1.08; margin-top: 150px; max-width: 1340px; }
 .layout-statement .lead { margin-top: var(--s-4); }
