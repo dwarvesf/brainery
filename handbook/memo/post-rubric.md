@@ -169,16 +169,16 @@ The same script runs these, and only on a talk. A slide image is not a figure, s
 
 Table: Talk checks, with the id the script prints {#tbl-talk-checks}
 
-| Id   | Rule                                                                  | How to fix                                                        |
-| :--- | :-------------------------------------------------------------------- | :---------------------------------------------------------------- |
-| `T1` | `talk.deck` is `assets/<slug>/deck.pdf`, a PDF with one page per slide. | Export the deck again, or add or drop slides to match.            |
+| Id   | Rule                                                                          | How to fix                                                        |
+| :--- | :---------------------------------------------------------------------------- | :---------------------------------------------------------------- |
+| `T1` | `talk.deck` is `assets/<slug>/deck.pdf`, a PDF with one page per slide.       | Export the deck again, or add or drop slides to match.            |
 | `T2` | Slides run `slide-01` to `slide-NN` in order, each used once, no unused file. | Rename the files and links. Remove a slide file you cut.          |
-| `T3` | The talk has 8 to 40 slides.                                          | Merge thin slides, or split a long talk into two posts.           |
-| `T4` | Alt text has 8 or more characters and says what the slide says.       | Write the slide's point in words, not "Slide 4".                  |
-| `T5` | Each slide is 1600 by 900, webp or png, 200 KB or less.               | Run `talk-build.mjs`, which writes webp at quality 80.            |
-| `T6` | 15 to 150 words of notes per slide; the first and last may skip. | Say what you said over the slide. Move a long aside to the outro. |
-| `T7` | 2 to 8 `##` sections, each holding 2 to 10 slides.                    | Group the slides by the beats of the argument.                    |
-| `T8` | `image:` points at `og.png`, a 1200 by 630 PNG of 300 KB or less.     | Run `talk-build.mjs`, which renders it from slide 1.              |
+| `T3` | The talk has 8 to 40 slides.                                                  | Merge thin slides, or split a long talk into two posts.           |
+| `T4` | Alt text has 8 or more characters and says what the slide says.               | Write the slide's point in words, not "Slide 4".                  |
+| `T5` | Each slide is 1600 by 900, webp or png, 200 KB or less.                       | Run `talk-build.mjs`, which writes webp at quality 80.            |
+| `T6` | 15 to 150 words of notes per slide; the first and last may skip.              | Say what you said over the slide. Move a long aside to the outro. |
+| `T7` | 2 to 8 `##` sections, each holding 2 to 10 slides.                            | Group the slides by the beats of the argument.                    |
+| `T8` | `image:` points at `og.png`, a 1200 by 630 PNG of 300 KB or less.             | Run `talk-build.mjs`, which renders it from slide 1.              |
 
 Like the figure checks, these skip a missing slide, deck or share image on a talk that is already merged and unchanged, because `media-sync` moves those files out of git. The script's own test builds a small talk and breaks one rule at a time: `node --test _meta/scripts/post-check-talk.test.mjs`.
 
@@ -188,14 +188,14 @@ Answer each one yes or no, the same way as the fifteen questions above.
 
 Table: Talk judgment checks {#tbl-talk-judgment}
 
-| Id   | Question                                                                 |
-| :--- | :----------------------------------------------------------------------- |
-| `J1` | Skim test: do the slides alone carry the whole argument?                 |
-| `J2` | One idea per slide, about 25 words at most on a text slide?               |
-| `J3` | Do the notes add what the slide cannot, and never read it aloud?         |
+| Id   | Question                                                                   |
+| :--- | :------------------------------------------------------------------------- |
+| `J1` | Skim test: do the slides alone carry the whole argument?                   |
+| `J2` | One idea per slide, about 25 words at most on a text slide?                |
+| `J3` | Do the notes add what the slide cannot, and never read it aloud?           |
 | `J4` | Is there one visual language: one template, house palette, one type scale? |
-| `J5` | Does slide 1 name the speaker and role, and the last give the takeaway?  |
-| `J6` | Is the piece a linear argument with distinct beats?                      |
+| `J5` | Does slide 1 name the speaker and role, and the last give the takeaway?    |
+| `J6` | Is the piece a linear argument with distinct beats?                        |
 
 Quotes and screenshots are exempt from the word limit in `J2`. The last slide also says where to find the speaker (`J5`). A reference page, a playbook or a data-heavy report fails `J6` and stays as prose.
 
