@@ -157,7 +157,53 @@ Weakest:    one sentence naming the single weakest spot and where it is
 Blocking:   the failing items that must be fixed before review (empty if none)
 ```
 
-An item is blocking when it is 1, 2, 11 or 13, or when `ref-missing` fires (the build fails on it). Every other failure is a fix before review that an editor may waive.
+An item is blocking when it is 1, 2, 11 or 13, when a talk fails `J1` or `J6`, or when `ref-missing` fires (the build fails on it). Every other failure, `J2` to `J5` included, is a fix before review that an editor may waive.
+
+## Talk posts
+
+A note with `layout: talk` in its frontmatter is a talk: each slide sits beside the notes for it. [How to publish a talk on memo](https://github.com/dwarvesf/brainery/blob/main/handbook/memo/publish-a-talk.md) is the worked example, and [Contribute to memo](/contribute-to-memo) has the file layout. A talk gets every check above, plus the eight below and the six judgment questions after them.
+
+### Talk mechanical checks
+
+The same script runs these, and only on a talk. A slide image is not a figure, so the figure rules (`fig-embed`, `fig-title`, `fig-alt`, `asset-missing`) skip it and the talk checks take over. To build the slide files and see these results in one step, run `node _meta/scripts/talk-build.mjs <note>`.
+
+Table: Talk checks, with the id the script prints {#tbl-talk-checks}
+
+| Id   | Rule                                                                          | How to fix                                                        |
+| :--- | :---------------------------------------------------------------------------- | :---------------------------------------------------------------- |
+| `T1` | `talk.deck` is `assets/<slug>/deck.pdf`, a PDF with one page per slide.       | Export the deck again, or add or drop slides to match.            |
+| `T2` | Slides run `slide-01` to `slide-NN` in order, each used once, no unused file. | Rename the files and links. Remove a slide file you cut.          |
+| `T3` | The talk has 8 to 40 slides.                                                  | Merge thin slides, or split a long talk into two posts.           |
+| `T4` | Alt text has 8 or more characters and says what the slide says.               | Write the slide's point in words, not "Slide 4".                  |
+| `T5` | Webp or png, 200 KB at most, long edge 1200 to 1600, one ratio.               | Export at 16:9, 16:10 or 4:3; set `talk.ratio` to match.          |
+| `T6` | 15 to 150 words of notes per slide; the first and last may skip.              | Say what you said over the slide. Move a long aside to the outro. |
+| `T7` | 2 to 8 `##` sections, each holding 2 to 10 slides.                            | Group the slides by the beats of the argument.                    |
+| `T8` | `image:` points at `og.png`, a 1200 by 630 PNG of 300 KB or less.             | Run `talk-build.mjs`, which renders it from slide 1.              |
+
+`T5` accepts 16:9, 16:10 and 4:3. It also compares the slides with `talk.ratio`, which defaults to 16:9, because the site reads the ratio from the frontmatter once `media-sync` has moved the slides out of git. `talk-build.mjs` writes the field. Like the figure checks, these skip a missing slide, deck or share image on a talk that is already merged and unchanged, because `media-sync` moves those files out of git. The script's own test builds a small talk and breaks one rule at a time: `node --test _meta/scripts/post-check-talk.test.mjs`.
+
+### Talk judgment checks
+
+Answer each one yes or no, the same way as the fifteen questions above.
+
+Table: Talk judgment checks {#tbl-talk-judgment}
+
+| Id   | Question                                                                    |
+| :--- | :-------------------------------------------------------------------------- |
+| `J1` | Skim test: do the slides alone carry the whole argument?                    |
+| `J2` | One idea per slide, about 25 words at most on a text slide?                 |
+| `J3` | Do the notes add what the slide cannot, and never read it aloud?            |
+| `J4` | Is there one visual language within the deck: one template, one type scale? |
+| `J5` | Does slide 1 name the speaker and role, and the last give the takeaway?     |
+| `J6` | Is the piece a linear argument with distinct beats?                         |
+
+Quotes and screenshots are exempt from the word limit in `J2`. The last slide also says where to find the speaker (`J5`). A reference page, a playbook or a data-heavy report fails `J6` and stays as prose. `J1` and `J6` are blocking, like items 1, 2, 11 and 13. A `J6` failure never rejects the piece: drop `layout: talk` and publish it as a normal post.
+
+Add a line for the talk checks to the verdict block:
+
+```text
+Talk:       T1 to T8 PASS | N warnings; J1 pass, J2 pass, ... J6 pass
+```
 
 ## For writers' agents
 
@@ -165,6 +211,6 @@ Fetch this page and run both parts before you open a pull request.
 
 1. Fetch the rubric with `curl`, and read it whole. A summary drops the rules. The page is at `https://memo.d.foundation/memo-post-rubric`, and the source is `handbook/memo/post-rubric.md` in `dwarvesf/brainery`.
 2. Run the checker from a clone of `dwarvesf/brainery`: `node _meta/scripts/post-check.mjs <your note>`. Fix every warning, or write one line in the pull request body for each one you keep. A guest writer without a clone applies the mechanical checks by hand from the table.
-3. Answer the fifteen judgment questions, and return the verdict block above. Put it in the pull request body.
+3. Answer the fifteen judgment questions, plus `J1` to `J6` for a talk, and return the verdict block above. Put it in the pull request body.
 4. Do the render check from item 15 and attach the screenshots, or say that you could not.
 5. Stop and ask the human when the weakest spot needs facts only the author has, such as a number, a decision date, or something that broke. Never invent evidence to pass an item.

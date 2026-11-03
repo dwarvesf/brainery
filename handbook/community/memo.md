@@ -66,6 +66,8 @@ Every post has a kind, which says what job it does. The folder sets a default, a
 
 Series sit on top of the kinds. A series is a set of notes that read in order, and we use it three ways: codebase breakdowns, long guides split into parts, and the shape we want more of, a puzzle. A puzzle is one hard, open question worked in public. Each part records what we tried, what happened, and what changed in our belief. The dead ends stay published, because watching someone reason under uncertainty is the closest a reader gets to seeing judgment before hiring it.
 
+A talk also sits on top of the kinds. When a member gives a talk, the post pairs each slide with what the speaker said over it, and the slides ship with the post as a PDF. `layout: talk` in the frontmatter turns it on. [Contribute to memo](/contribute-to-memo) has the file layout and the build script.
+
 ## Why we publish in public
 
 We started memo to learn in public, and that reason still holds. Writing a thing down for strangers is the quickest way we know to find the hole in it.

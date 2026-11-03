@@ -4,10 +4,17 @@
 // Prints `PASS <file>` or one `WARN <id> <file:line> <message>` per finding.
 // Exit 0 unless --strict and at least one WARN. No dependencies.
 // Rule list and fixes: handbook/memo/post-rubric.md (part A).
+// A note with `layout: talk` also gets the talk checks T1 to T8 (checkTalk below).
+// Test: node --test _meta/scripts/post-check-talk.test.mjs
 
 import { spawnSync } from 'node:child_process'
-import { existsSync, readFileSync } from 'node:fs'
-import { dirname, join, normalize, relative } from 'node:path'
+import { existsSync, readdirSync, readFileSync, realpathSync, statSync } from 'node:fs'
+import { basename, dirname, join, normalize, relative } from 'node:path'
+
+// Talk slide paths and budgets (checkTalk below).
+const SLIDE_DIR = /(^|[/(])assets\/[^/]+\/slides\//
+const SLIDE_MAX_BYTES = 200 * 1024
+const OG_MAX_BYTES = 300 * 1024
 
 const args = process.argv.slice(2)
 const strict = args.includes('--strict')
@@ -215,6 +222,7 @@ function checkNote(file) {
 
   // Images and figures.
   const mergedClean = isMergedClean(file)
+  const talk = isTalk(fm)
   const svgSeen = new Set()
   for (let i = bodyStart; i < lines.length; i++) {
     if (inFence[i]) continue
@@ -224,6 +232,8 @@ function checkNote(file) {
       const alt = m[1].replace(/\s*\{[^}]*\}\s*$/, '').trim()
       const src = m[2]
       const title = m[3] ?? m[4] ?? ''
+      // A talk slide is not a figure: it takes no caption or fig id, and T1 to T8 own its checks.
+      if (talk && SLIDE_DIR.test(src)) continue
       if (!alt) warn('fig-alt', ln, 'image has no alt text')
       if (!title) warn('fig-embed', ln, `image has no caption title; use ![Title {#fig-id}](${src} 'Short title. Caption sentence.')`)
       if (!braces || !/#fig-[\w-]+/.test(braces[1])) warn('fig-embed', ln, 'image has no {#fig-id} in its alt text')
@@ -335,7 +345,236 @@ function checkNote(file) {
     }
   }
 
+  if (talk) checkTalk({ file, lines, fm, bodyStart, inFence, mergedClean, warn })
+
   return out.sort((a, b) => a.file.localeCompare(b.file) || a.line - b.line)
+}
+
+// Talk checks. Contract: handbook/memo/post-rubric.md, "Talk posts".
+function isTalk(fm) {
+  return fm.some((l) => /^layout:\s*["']?talk["']?\s*$/.test(l))
+}
+
+// Line-based, like the CI lint: top-level `key: value`, plus the indented keys under `talk:`.
+function readTalkFrontmatter(fm) {
+  const unq = (v) => v.trim().replace(/^["']|["']$/g, '')
+  const top = {}
+  const talk = {}
+  let inTalk = false
+  fm.forEach((l, i) => {
+    const t = l.match(/^([A-Za-z_][\w-]*):\s*(.*)$/)
+    if (t) {
+      inTalk = t[1] === 'talk'
+      top[t[1]] = { value: unq(t[2]), line: i + 1 }
+      return
+    }
+    const n = inTalk && l.match(/^\s+([A-Za-z_][\w-]*):\s*(.*)$/)
+    if (n) talk[n[1]] = { value: unq(n[2]), line: i + 1 }
+  })
+  return { top, talk }
+}
+
+function checkTalk({ file, lines, fm, bodyStart, inFence, mergedClean, warn }) {
+  const dir = dirname(file)
+  const name = basename(file).replace(/\.mdx?$/, '')
+  const assetRel = `assets/${name}`
+  const assetDir = join(dir, assetRel)
+  const { top, talk } = readTalkFrontmatter(fm)
+  const fmLine = top.layout?.line ?? 1
+  // media-sync moves rasters and PDFs to the bucket after merge, so a merged, unchanged talk lacks them.
+  const present = (p) => existsSync(p) || (mergedClean ? null : false)
+
+  // Body: slide paragraphs, sections, the outro break.
+  const isBreak = (l) => /^\s{0,3}([-*_])(\s*\1){2,}\s*$/.test(l)
+  const slideRe = /^\s*!\[([^\]]*)\]\(([^)\s]+)(?:\s+(?:'[^']*'|"[^"]*"))?\)\s*$/
+  const slides = []
+  const sections = []
+  for (let i = bodyStart; i < lines.length; i++) {
+    if (inFence[i]) continue
+    const l = lines[i]
+    if (/^##\s/.test(l)) sections.push({ line: i + 1, at: i, title: l.replace(/^##\s+/, '').trim() })
+    if (!/!\[/.test(l) || !SLIDE_DIR.test(l)) continue
+    const m = l.match(slideRe)
+    const alone = m && !(lines[i - 1] ?? '').trim() && !(lines[i + 1] ?? '').trim()
+    if (!m || !alone) {
+      warn('T2', i + 1, 'a slide image must sit alone in its own paragraph, ![alt](assets/<slug>/slides/slide-NN.webp)')
+      continue
+    }
+    slides.push({ line: i + 1, at: i, alt: m[1].trim(), src: m[2] })
+  }
+  const lastSlide = slides.at(-1)?.at ?? -1
+  let outroAt = lines.length
+  for (let i = lastSlide + 1; i < lines.length && lastSlide >= 0; i++) {
+    if (!inFence[i] && isBreak(lines[i])) { outroAt = i; break }
+  }
+
+  // T3: deck size.
+  if (slides.length < 8 || slides.length > 40) warn('T3', slides[0]?.line ?? fmLine, `${slides.length} slides; a talk has 8 to 40`)
+
+  // T2: names, order, one reference each, no stray files.
+  const esc = assetRel.replace(/[.*+?^$()|[\]{}\\]/g, '\\$&')
+  const want = new RegExp('^' + esc + '/slides/slide-(\\d{2})\\.(webp|png)$')
+  const seen = new Map()
+  slides.forEach((s, k) => {
+    const m = s.src.match(want)
+    s.n = m ? Number(m[1]) : null
+    if (!m) return warn('T2', s.line, `slide path ${s.src} should be ${assetRel}/slides/slide-${String(k + 1).padStart(2, '0')}.webp`)
+    if (seen.has(s.src)) return warn('T2', s.line, `${basename(s.src)} is referenced twice (also line ${seen.get(s.src)})`)
+    seen.set(s.src, s.line)
+    if (s.n !== k + 1) warn('T2', s.line, `slide ${k + 1} in reading order points at ${basename(s.src)}; number slides 01..NN in order with no gap`)
+  })
+  const slideDir = join(assetDir, 'slides')
+  if (existsSync(slideDir)) {
+    const referenced = new Set(slides.map((s) => basename(s.src)))
+    for (const f of readdirSync(slideDir).sort()) {
+      if (f.startsWith('.')) continue
+      if (!referenced.has(f)) warn('T2', slides[0]?.line ?? fmLine, `${assetRel}/slides/${f} is never referenced; remove it or add its slide`)
+    }
+  }
+
+  // T4: alt text says what the slide says.
+  for (const s of slides) {
+    if (s.alt.length < 8 || /^(slide|image|img)[\s_-]*\d*$/i.test(s.alt))
+      warn('T4', s.line, `slide alt text "${s.alt}" is too thin; write 8+ characters that say what the slide says`)
+  }
+
+  // T5: each slide file, and one ratio across the deck.
+  const ratios = new Map()
+  for (const s of slides) {
+    if (s.n === null) continue
+    const abs = normalize(join(dir, s.src))
+    const ok = present(abs)
+    if (ok === null) continue
+    if (!ok) { warn('T5', s.line, `slide file not found: ${s.src}`); continue }
+    const fname = basename(s.src)
+    const dim = imageSize(abs)
+    if (!dim || !/^(webp|png)$/.test(dim.type)) warn('T5', s.line, `${fname} is not a webp or png file`)
+    else {
+      const long = Math.max(dim.w, dim.h)
+      const r = slideRatio(dim.w, dim.h)
+      if (long < 1200 || long > 1600) warn('T5', s.line, `${fname} is ${dim.w}x${dim.h}; the long edge is 1200 to 1600 px`)
+      if (!r) warn('T5', s.line, `${fname} is ${dim.w}x${dim.h}, ratio ${(long / Math.min(dim.w, dim.h)).toFixed(3)}; slides are 16:9, 16:10 or 4:3`)
+      else if (!ratios.has(r)) ratios.set(r, s.line)
+    }
+    const size = statSync(abs).size
+    if (size > SLIDE_MAX_BYTES) warn('T5', s.line, `${fname} is ${Math.round(size / 1024)} KB; the cap is 200 KB`)
+  }
+  if (ratios.size > 1) warn('T5', [...ratios.values()][1], `the deck mixes ratios (${[...ratios.keys()].join(', ')}); use one ratio for every slide`)
+  // talk.ratio tells the renderer the slide shape once media-sync has moved the rasters; default 16:9.
+  const declared = talk.ratio?.value
+  if (declared && !['16:9', '16:10', '4:3'].includes(declared)) warn('T5', talk.ratio.line, `talk.ratio is "${declared}"; use 16:9, 16:10 or 4:3`)
+  else if (ratios.size === 1) {
+    const actual = [...ratios.keys()][0]
+    if ((declared ?? '16:9') !== actual) warn('T5', talk.ratio?.line ?? top.talk?.line ?? fmLine, declared ? `talk.ratio is ${declared} but the slides are ${actual}; set talk.ratio: "${actual}"` : `the slides are ${actual} and talk.ratio is not set (the default is 16:9); set talk.ratio: "${actual}"`)
+  }
+
+  // T1: the deck PDF.
+  const deck = talk.deck
+  if (!deck?.value) warn('T1', top.talk?.line ?? fmLine, 'talk.deck is missing; set it to ' + `${assetRel}/deck.pdf`)
+  else if (deck.value !== `${assetRel}/deck.pdf`) warn('T1', deck.line, `talk.deck is ${deck.value}; it should be ${assetRel}/deck.pdf`)
+  else {
+    const abs = join(dir, deck.value)
+    const ok = present(abs)
+    if (ok === false) warn('T1', deck.line, `deck not found: ${deck.value}`)
+    else if (ok) {
+      const head = readFileSync(abs).subarray(0, 5).toString('latin1')
+      if (head !== '%PDF-') warn('T1', deck.line, `${deck.value} is not a PDF`)
+      else {
+        const pages = pdfPages(abs)
+        if (pages === null) warn('T1', deck.line, `could not count the pages of ${deck.value}`)
+        else if (pages !== slides.length) warn('T1', deck.line, `deck.pdf has ${pages} pages and the post has ${slides.length} slides; they must match`)
+      }
+    }
+  }
+
+  // T6: notes per slide.
+  const stops = new Set([...slides.map((s) => s.at), ...sections.map((s) => s.at), outroAt])
+  slides.forEach((s, k) => {
+    let end = s.at + 1
+    while (end < lines.length && !stops.has(end)) end++
+    const words = countWords(lines.slice(s.at + 1, end).filter((_, j) => !inFence[s.at + 1 + j]))
+    const edge = k === 0 || k === slides.length - 1
+    if (words === 0 && edge) return
+    if (words < 15 || words > 150) warn('T6', s.line, `slide ${k + 1} has ${words} words of notes; write 15 to 150${edge ? ', or none on the first and last slide' : ''}`)
+  })
+
+  // T7: sections.
+  const inBody = sections.filter((s) => s.at < outroAt)
+  if (inBody.length < 2 || inBody.length > 8) warn('T7', inBody[0]?.line ?? fmLine, `${inBody.length} ## sections before the outro; a talk has 2 to 8`)
+  inBody.forEach((sec, k) => {
+    const end = inBody[k + 1]?.at ?? outroAt
+    const n = slides.filter((s) => s.at > sec.at && s.at < end).length
+    if (n < 2 || n > 10) warn('T7', sec.line, `section "${sec.title}" holds ${n} slides; a section holds 2 to 10`)
+  })
+
+  // T8: the share image.
+  const image = top.image?.value
+  const ogRel = `${assetRel}/og.png`
+  if (!image) warn('T8', fmLine, `image: is not set; point it at /content/<vault-path>/${ogRel}`)
+  else {
+    const root = vaultRoot(dir)
+    const expect = root !== null ? '/content/' + [relative(root, realpathSync(dir)), ogRel].filter(Boolean).join('/') : null
+    if (expect ? image !== expect : !image.endsWith('/' + ogRel)) warn('T8', top.image.line, `image: is ${image}; it should be ${expect ?? `/content/<vault-path>/${ogRel}`}`)
+  }
+  const og = join(dir, ogRel)
+  const ogOk = present(og)
+  if (ogOk === false) warn('T8', top.image?.line ?? fmLine, `share image not found: ${ogRel}`)
+  else if (ogOk) {
+    const dim = imageSize(og)
+    if (!dim || dim.type !== 'png') warn('T8', top.image?.line ?? fmLine, `${ogRel} is not a PNG file`)
+    else if (dim.w !== 1200 || dim.h !== 630) warn('T8', top.image?.line ?? fmLine, `${ogRel} is ${dim.w}x${dim.h}; the share image is 1200x630`)
+    const size = statSync(og).size
+    if (size > OG_MAX_BYTES) warn('T8', top.image?.line ?? fmLine, `${ogRel} is ${Math.round(size / 1024)} KB; the cap is 300 KB`)
+  }
+}
+
+// 16:9, 16:10 or 4:3 within one pixel of rounding on the short edge, either orientation.
+function slideRatio(w, h) {
+  const long = Math.max(w, h)
+  const short = Math.min(w, h)
+  for (const [x, y] of [[16, 9], [16, 10], [4, 3]]) if (Math.abs(short - (long * y) / x) <= 1) return `${x}:${y}`
+  return null
+}
+
+function countWords(block) {
+  const text = block
+    .join(' ')
+    .replace(/<!--[\s\S]*?-->/g, ' ')
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, ' ')
+    .replace(/\]\([^)]*\)/g, ']')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/^\s*(```|~~~).*$/gm, ' ')
+  return (text.match(/[\p{L}\p{N}][\p{L}\p{N}'’.-]*/gu) ?? []).length
+}
+
+// Width, height and type from the file header: png and webp (VP8, VP8L, VP8X). No dependencies.
+function imageSize(abs) {
+  const b = readFileSync(abs)
+  if (b.length > 24 && b.readUInt32BE(0) === 0x89504e47) return { type: 'png', w: b.readUInt32BE(16), h: b.readUInt32BE(20) }
+  if (b.length > 30 && b.toString('latin1', 0, 4) === 'RIFF' && b.toString('latin1', 8, 12) === 'WEBP') {
+    const chunk = b.toString('latin1', 12, 16)
+    if (chunk === 'VP8 ') return { type: 'webp', w: b.readUInt16LE(26) & 0x3fff, h: b.readUInt16LE(28) & 0x3fff }
+    if (chunk === 'VP8L') {
+      const v = b.readUInt32LE(21)
+      return { type: 'webp', w: (v & 0x3fff) + 1, h: ((v >> 14) & 0x3fff) + 1 }
+    }
+    if (chunk === 'VP8X') return { type: 'webp', w: b.readUIntLE(24, 3) + 1, h: b.readUIntLE(27, 3) + 1 }
+  }
+  return null
+}
+
+// pdfinfo when present (poppler), else the largest /Count in the page tree.
+function pdfPages(abs) {
+  const r = spawnSync('pdfinfo', [abs], { encoding: 'utf8' })
+  const m = r.status === 0 && r.stdout.match(/^Pages:\s+(\d+)/m)
+  if (m) return Number(m[1])
+  const counts = [...readFileSync(abs).toString('latin1').matchAll(/\/Type\s*\/Pages\b[^>]*?\/Count\s+(\d+)|\/Count\s+(\d+)[^>]*?\/Type\s*\/Pages\b/g)].map((x) => Number(x[1] ?? x[2]))
+  return counts.length ? Math.max(...counts) : null
+}
+
+function vaultRoot(dir) {
+  const r = spawnSync('git', ['rev-parse', '--show-toplevel'], { cwd: dir, encoding: 'utf8' })
+  return r.status === 0 ? r.stdout.trim() : null
 }
 
 function checkSvg(abs, warn) {

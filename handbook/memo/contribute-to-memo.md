@@ -151,6 +151,60 @@ Before review, run the [post rubric](/memo-post-rubric): a script for the mechan
 
 Memo lays out a term peek, a step rail, a checklist, a definition grid, avoid and prefer pairs, a status line and an abstract from plain Markdown and frontmatter. [Write memo notes that lay out as parts](/memo-note-parts) shows the exact shape each one needs.
 
+### Talks: slides beside your notes
+
+If you gave a talk at OGIF, a meetup or a client session, publish it as a talk post. Each slide sits on the left and what you said over it sits on the right, so a reader can skim the slides and still get the argument. The slides and a downloadable PDF ship with the post, under your name.
+
+Pick a talk when the piece is a linear argument with distinct beats and you already have the slides. A reference page, a playbook or a data-heavy report stays as prose, even if you once presented it.
+
+A talk is a layout, not a folder. Put the note in the folder its content belongs to, and add the talk fields:
+
+```yaml
+layout: talk
+image: /content/<vault-path>/assets/<slug>/og.png
+talk:
+  deck: assets/<slug>/deck.pdf
+  event: "OGIF, Da Nang"
+  given: 2026-11-03
+  source: <link to the editable deck, or a vault path>
+  video: <YouTube id of the recording>
+  ratio: "16:9"
+```
+
+`layout: talk` and `talk.deck` are required. `event`, `given`, `source` and `video` are optional. `ratio` is the slide shape, `"16:9"`, `"16:10"` or `"4:3"`, and the default is 16:9. Quote it, because the lint allows one bare colon per line. The build script writes it for you from slide 1. Keep the media in one folder named after the note's file name:
+
+```text
+<slug>.md
+assets/<slug>/slides/slide-01.webp ... slide-NN.webp
+assets/<slug>/deck.pdf
+assets/<slug>/og.png
+assets/<slug>/deck-src/        optional, HTML source
+```
+
+The body is plain Markdown. Paragraphs before the first slide are the intro. A paragraph that holds only one slide image starts a segment, `![What the slide says](assets/<slug>/slides/slide-04.webp)`, and the paragraphs after it are that slide's notes. `##` headings group the slides into sections. A `---` rule after the last slide starts the outro.
+
+Bring your own slides. Any tool's export is welcome, in your own template and colors. The talk checks ask only for one visual language within the deck, never for memo's look. There are two ways to build the slide files, and one script covers both:
+
+- **Export a PDF from your tool.** Keynote, Google Slides, Canva and PowerPoint all export PDF. Save it as `assets/<slug>/deck.pdf`, one page per slide, at 16:9, 16:10 or 4:3. The script splits it into slides at the deck's own ratio.
+- **Write the slides as HTML on the memo theme.** This is optional, for anyone who wants their deck to look like memo. `node _meta/scripts/talk-build.mjs --init path/to/<slug>.md` copies the house theme from `_meta/talk-template/` into `deck-src/`: paper and ink, Source Serif 4 and IBM Plex, crimson only for the dither rule, and layouts for a title, a speaker profile, a statement, a diagram, a quote, a screenshot and a closing. Edit one HTML file per slide, and the script prints them to `deck.pdf` with headless Chrome.
+
+A speaker profile as slide 2 is a pattern we recommend for any speaker, not a rule. It tells the audience who is talking before the argument starts. Keep your public facts in one data file, `_meta/talk-template/speakers/<your-handle>.json`, copied from `tieubao.json`: name, headline, role, a few labelled facts, links, and the vault path of a square photo (a JPEG of 60 KB or less). Add `--speaker <your-handle>` to `--init` and slide 2 becomes your profile. The script reads the data file at every build, so one edit updates every deck you have, puts the photo from that path on the slide (never a hotlink), and adds your live memo note count when the contributor page answers. Use only facts you would put on a public about page.
+
+```bash
+node _meta/scripts/talk-build.mjs path/to/<slug>.md
+```
+
+It writes the slides as webp with a long edge of 1600 pixels at the deck's own ratio, never cropped or stretched. It renders `og.png` from slide 1, writes `talk.ratio`, and prints the talk checks `T1` to `T8` from the [post rubric](/memo-post-rubric). It needs a Chromium browser for the HTML path, plus poppler (`pdftoppm`, `pdfinfo`, `pdfunite`), `cwebp`, and ImageMagick or macOS `sips`. It installs nothing and names any tool it cannot find. [How to publish a talk on memo](https://github.com/dwarvesf/brainery/blob/main/handbook/memo/publish-a-talk.md) is a full example: a deck written as HTML, with a profile slide, with its source in the post's `deck-src/` folder.
+
+Two of the editor's talk checks block review: the skim test (`J1`, the slides alone carry the argument) and fit (`J6`, the piece is a linear argument). A fit failure never rejects your piece. Drop `layout: talk` and publish it as a normal post, with the notes as prose.
+
+What memo does with your slides:
+
+- Shows each slide at its own ratio beside your notes, and stacks them on a phone.
+- Keeps the slide edge visible on the light and dark site themes, whether your slides are dark or light. A transparent PNG slide sits on white.
+- Offers "Download slides (PDF)" and a full-screen Present mode that letterboxes your slides on black, at any ratio.
+- Uses slide 1 as the share card and as the thumbnail in feeds and on the talks list.
+
 ## The member path
 
 You are Dwarves staff or a contractor and you can push to `dwarvesf/brainery`. This road is short, and it has fewer guard rails than most people assume.
@@ -482,6 +536,7 @@ Run down this list before you open the pull request. The contributor skill check
 - [ ] `authors:` holds a GitHub-style handle, not a Discord name
 - [ ] No H1 in the body; headings are in sentence case
 - [ ] Figures are SVG without a fixed width, or optimized raster; every image has alt text and a caption
+- [ ] Talk post only: `talk-build.mjs` ran, `T1` to `T8` pass, and `deck.pdf` opens
 - [ ] The [post rubric](/memo-post-rubric) ran: `node _meta/scripts/post-check.mjs <note>` is clean or each warning is explained, and part B has a verdict
 - [ ] `./pre-commit-hook.sh install` ran and the commit passed
 - [ ] The pull request body is mine, and contains no `[skip ci]`

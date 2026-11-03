@@ -1,0 +1,32 @@
+{
+  "id": "tieubao",
+  "name": "Han Ngo",
+  "headline": "Backend and AI systems engineer",
+  "role": "CTO, Dwarves",
+  "facts": [
+    {
+      "label": "Built",
+      "text": "Payment systems, a retail stock broker, a quant trading platform"
+    },
+    {
+      "label": "Now",
+      "text": "LLM agents: memory, model routing, verification"
+    },
+    {
+      "label": "Also",
+      "text": "Contributes to Console Labs"
+    }
+  ],
+  "memo_contributor": "tieubao",
+  "links": [
+    "truonghan.com",
+    "memo.d.foundation/contributor/tieubao",
+    "github.com/tieubao",
+    "mail@truonghan.com"
+  ],
+  "photo": "handbook/memo/assets/publish-a-talk/deck-src/speaker-tieubao.jpg",
+  "sources": [
+    "https://truonghan.com/about",
+    "https://memo.d.foundation/contributor/tieubao"
+  ]
+}
