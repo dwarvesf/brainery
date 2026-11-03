@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<title>20 The five layers</title>
+<link rel="stylesheet" href="fonts.css">
+<link rel="stylesheet" href="theme.css">
+</head><body><div class="slide layout-diagram">
+<div class="band"><span class="label">The five layers</span><span class="rule"></span><span>Five layers to tune</span></div>
+<h1 class="title">The context dials are config</h1>
+<pre class="code" style="margin-top:50px;max-width:1340px">compression:
+  enabled: true
+<span class="hot">  threshold: 0.5        # compact when the window is half full</span>
+  target_ratio: 0.2     <span class="muted"># squeeze old turns to about a fifth</span>
+  protect_last_n: 20    <span class="muted"># never compact the newest 20 messages</span></pre>
+<p class="caption">The loop-guard defaults live in the engine source.</p>
+<div class="foot"><span>Han Ngo · memo.d.foundation</span><span>20 / 24</span></div>
+</div></body></html>
