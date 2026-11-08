@@ -92,7 +92,7 @@ Our estate is a few dozen repos and a team coordinator that already owns tickets
 
 **Projects follow goals.** A repo-shaped Project looks tidy and fails on the first cross-repo task, because a thread can only clone the repos its Project knows about. A goal-shaped Project ("move every service to the new auth client") carries the right repos by design. We cap it at three to five open Projects per person. More than that and nobody reads the **Waiting on you** list.
 
-**Add one or two repos, name the rest.** Add only the repos that nearly every task touches. Name the others in the instructions, with one line on when each one matters, and let threads add them on demand. This is how a cross-repo goal fits without every thread cloning everything.
+**Add one or two repos, name the rest.** Add only the repos that nearly every task touches. Name the others in the instructions, with one line on when each one matters, and let threads add them on demand. This is how a cross-repo goal fits without every thread cloning everything. One catch: a repo a thread adds mid-task arrives after the thread started, so its CLAUDE.md was never loaded. The instruction line for each named repo should tell the thread to read that file before it edits anything there.
 
 **Repo rules live in the repo.** Build commands, test commands, branch rules and review conventions belong in each repo's CLAUDE.md or AGENTS.md file. Every Project and every normal session then reads the same rules, and nobody keeps a copy in Project instructions that drifts.
 
@@ -106,10 +106,27 @@ Done when: the checks that prove it (tests, a command, a PR merged).
 Target branch: where PRs go, and the branch naming rule.
 Needs approval: anything irreversible, any new dependency, any schema change.
 Report: one line per thread, PR link, what is left.
-Other repos: <name>: when a task touches X.
+Other repos: <name>: when a task touches X. Read its CLAUDE.md first.
+GitHub: use gh api (REST) in cloud threads; gh pr and gh issue fail.
 ```
 
 **Pilot one before opening five.** Run one Project for two weeks on a goal you already have. Track tickets closed per week against plan usage. If the ratio does not beat your normal sessions, the coordinator is overhead for that kind of work.
+
+## GitHub settings
+
+A Project lives or dies on GitHub setup, and the docs spread it over four pages. Here is what they say, plus the calls we made where they are silent.
+
+**Install the Claude GitHub App on selected repos.** Project threads need the App on every repo they touch; the token from the terminal setup command is not enough. In an organization, only an owner can finish the install. The docs allow "all repositories" or a selection and recommend neither. We pick selected repos, because ==the App asks for one fixed permission set, and GitHub does not let you accept a subset.== That set includes write access to contents, pull requests, workflows, Actions and repository hooks.
+
+**Protect the default branch with rulesets nobody on the Project can bypass.** A cloud thread pushes through a proxy that blocks branch deletions and tag pushes. It does not limit which branch a push updates. GitHub applies your branch protection and rulesets to the account you connected, and a rule that account can bypass does not stop the push. So an org admin who runs a Project has no guard on main unless the ruleset covers admins too. Some third-party posts say a session can only push to its own branch; the docs say otherwise, so plan for the docs.
+
+**Make required reviews and status checks the merge gate.** Every thread opens a PR and offers a **Merge it** button. The docs do not recommend a ruleset shape, so this one is our call: one required review from a human and green checks before merge, plus a line in the instructions that says "do not merge, force-push or change CI config without asking".
+
+**Check comment-triggered automation before threads answer reviews.** A thread watches its PR with auto-fix on. It pushes fixes when CI fails and replies to review comments under your GitHub username, labeled as Claude Code. A workflow that runs on comment events (an `issue_comment` Action, Atlantis, Terraform Cloud) will fire on those replies. Audit those workflows first.
+
+**Budget CI for many PRs.** Each thread runs your CI once per PR and again on every fix push. The docs say nothing about this cost. We add a concurrency group that cancels in-progress runs on the same branch, and we run PR checks on self-hosted runners.
+
+**Authorize the App for SAML SSO.** If the organization enforces SAML SSO, reconnect GitHub and authorize the Claude app for that organization. Until then its private repos do not appear in the Project dialog.
 
 ## Do
 
@@ -122,6 +139,10 @@ Other repos: <name>: when a task touches X.
 - Send plain GitHub code work to cloud threads.
 - Send work that needs secrets, a specific host or local tools to a local thread or a normal session.
 - Tell the coordinator to stop a thread from watching its PR once you take the PR over.
+- Install the Claude GitHub App on selected repos, not the whole organization.
+- Protect the default branch with a ruleset that has no bypass for the people who run Projects.
+- Require a human review and green checks before any thread PR merges.
+- Tell each thread to read an on-demand repo's CLAUDE.md before it edits that repo.
 - Pilot one Project for two weeks and measure tickets closed per week against plan usage.
 
 ## Don't
@@ -135,6 +156,8 @@ Other repos: <name>: when a task touches X.
 - Don't rely on Project memory reaching a local thread.
 - Don't start a Project for a single task or for one scheduled job.
 - Don't leave threads watching merged or abandoned PRs; an idle thread wakes on every CI failure and review comment.
+- Don't trust a session to stay on its own branch; only your rulesets limit where it pushes.
+- Don't let threads reply to reviews on a repo where comment events trigger deploys.
 
 ## Limits and cost (as of November 2026)
 
@@ -158,4 +181,8 @@ This note rests on the official guide and one live session. We have not run the 
 - Anthropic, [Let Claude coordinate ongoing work with Projects](https://code.claude.com/docs/en/claude-projects) (official docs).
 - MarkTechPost, [Anthropic launches Claude Code Projects in beta](https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-close-your-laptop/).
 - Claude Developers on X, [launch post](https://x.com/ClaudeDevs/status/2102893178273874102).
+- Anthropic, [Configure cloud environments](https://code.claude.com/docs/en/cloud-environments), the GitHub proxy section.
+- Anthropic, [Security](https://code.claude.com/docs/en/security), push restrictions.
+- Anthropic, [Claude Code GitHub Actions](https://code.claude.com/docs/en/github-actions), GitHub App permissions.
+- Anthropic, [Claude Code on the web](https://code.claude.com/docs/en/claude-code-on-the-web), auto-fix and review replies.
 - aaddrick, [Claude Code Projects beta: under the hood](https://aaddrick.com/blog/claude-code-projects-beta-under-the-hood).
