@@ -42,22 +42,22 @@ Creating one takes a name, an optional goal and optional context. The goal line 
 
 A Project gives each new thread four kinds of standing context:
 
-| Context | What it holds | Limit |
-|---|---|---|
-| Project instructions | The brief every new thread and the coordinator receive | 16,000 characters |
-| Project memory | Files Claude writes itself: decisions, pitfalls, requirements | Read by cloud threads only |
-| Repositories | The repos every cloud thread clones | Add the few most tasks need |
-| Files and folders | Uploaded files, folders and Drive folders | Up to 10 folders combined |
+| Context              | What it holds                                                 | Limit                       |
+| -------------------- | ------------------------------------------------------------- | --------------------------- |
+| Project instructions | The brief every new thread and the coordinator receive        | 16,000 characters           |
+| Project memory       | Files Claude writes itself: decisions, pitfalls, requirements | Read by cloud threads only  |
+| Repositories         | The repos every cloud thread clones                           | Add the few most tasks need |
+| Files and folders    | Uploaded files, folders and Drive folders                     | Up to 10 folders combined   |
 
 The part that matters most for a team that already has a tuned setup is what a cloud thread **does not** load from a repo:
 
-| In the repo | Cloud thread |
-|---|---|
-| Root `CLAUDE.md` and `.claude/rules/` | Loaded, with `.claude/CLAUDE.md` |
-| Skills under `.claude/skills/` | Not loaded; enable them on your claude.ai account |
-| MCP servers in `.mcp.json` | Not loaded; use claude.ai connectors |
-| `.claude/settings.json` | Plugins, permission rules, hooks and `env`: not loaded or not applied |
-| Your global `~/.claude` config | Not loaded |
+| In the repo                           | Cloud thread                                                          |
+| ------------------------------------- | --------------------------------------------------------------------- |
+| Root `CLAUDE.md` and `.claude/rules/` | Loaded, with `.claude/CLAUDE.md`                                      |
+| Skills under `.claude/skills/`        | Not loaded; enable them on your claude.ai account                     |
+| MCP servers in `.mcp.json`            | Not loaded; use claude.ai connectors                                  |
+| `.claude/settings.json`               | Plugins, permission rules, hooks and `env`: not loaded or not applied |
+| Your global `~/.claude` config        | Not loaded                                                            |
 
 We read this table as a migration list. ==Anything you enforce through a hook or a permission rule does not exist in a cloud thread.== If a guard lives only in a hook (a secret-file block, a branch rule, a format check), a cloud thread will not trip it. The rule has to move into `CLAUDE.md` as an instruction, or into CI where it is enforced, or the work has to run local.
 
