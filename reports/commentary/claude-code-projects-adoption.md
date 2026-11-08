@@ -3,7 +3,6 @@ title: "One Claude Code Project per goal: adopting Projects across many repos"
 description: "How a team with many repos should adopt Claude Code Projects: what a thread sees, where it runs, and the Do and Don't lists we set."
 date: 2026-11-08
 toc: true
-draft: true
 authors:
   - tieubao
 tags:
@@ -13,8 +12,6 @@ tags:
   - claude-code
   - playbook
 slug: claude-code-projects-adoption
-series: harness-engineering
-series_part: 11
 type: writing
 form: analysis
 topic: ai-agents
