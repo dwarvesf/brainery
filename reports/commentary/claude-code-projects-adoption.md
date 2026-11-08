@@ -180,10 +180,6 @@ A Project lives or dies on GitHub setup, and the docs spread it over four pages.
 
 ![Project settings, General tab {#fig-models}](assets/claude-code-projects-ui-models.png 'Project settings, General tab. Separate models for the coordinator and the threads, a default thread effort, and the auto-continue toggle that carries work into the next usage window.')
 
-## What we have not tested yet
-
-This note rests on the official guide and one live session. We have not run the two-week pilot yet, so the ratio we told you to measure has no number from us. We will add it to this note when the pilot closes.
-
 ## References
 
 1. **Cloud session**: Claude Code running in a cloud VM against a GitHub repo, independent of your laptop.
