@@ -37,6 +37,10 @@ The coordinator keeps going for as long as the Project lives. It does not carry 
 
 Projects also link to the sessions you already run. The coordinator reads your recent sessions. A cloud session's sidebar menu has **Continue in project**, which copies that work into a Project. The original session stays in your list, unchanged. The link runs one way: Project threads do not show up in the normal session list, and a thread cannot move out of its Project.
 
+Creating one takes a name, an optional goal and optional context. The goal line becomes the outcome the coordinator works toward.
+
+![New project dialog {#fig-new-project}](assets/claude-code-projects-ui-new-project.png 'New project dialog. A name, the goal the coordinator works toward, and optional files or folders as context; repos come later in settings.')
+
 ## Standing context: what every thread starts with
 
 A Project gives each new thread four kinds of standing context:
@@ -62,7 +66,9 @@ We read this table as a migration list. ==Anything you enforce through a hook or
 
 ## Local threads: where the model really runs
 
-The **+** menu has **Work locally**, which runs a thread in a folder on your own machine through [Remote Control](#ref-2). **Link folder** trusts a folder ahead of time. Each local thread still asks first, with three choices: Deny, Allow once, Always allow.
+The **+** menu has **Work locally**, which runs a thread in a folder on your own machine through [Remote Control](#ref-2). **Link folder** trusts a folder ahead of time. Each local thread still asks first, with three choices: Deny, Allow once, Always allow. The same switches live in **Project settings > Environment**: one toggle lets threads use your device at all, a list holds the pre-approved folders, and **Use worktrees** starts each local thread in its own git worktree. Worktrees are off by default. Turn them on, because the docs warn that two threads in one folder can overwrite each other's changes.
+
+![Project settings, Environment tab {#fig-environment}](assets/claude-code-projects-ui-environment.png 'Project settings, Environment tab. Cloud repos and the cloud environment on top; the device toggle, pre-approved folders and the worktree switch for local threads below.')
 
 A live test surprised us. The thread's own Claude ran in a cloud VM and reached the local folder through the desktop app. The files, tools, hooks and permission rules on the machine apply, because the commands run there. The model and its reasoning stay in the cloud.
 
@@ -110,6 +116,10 @@ Other repos: <name>: when a task touches X. Read its CLAUDE.md first.
 GitHub: use gh api (REST) in cloud threads; gh pr and gh issue fail.
 ```
 
+The brief goes into **Project settings > Memory > Project instructions**. Here it is filled in for a demo Project:
+
+![Project instructions written as a ticket {#fig-instructions}](assets/claude-code-projects-ui-instructions.png 'Project instructions written as a ticket. Objective, done checks, branch rule, approval list, report format and the GitHub caveat, in under 500 of the 16,000 characters.')
+
 **Pilot one before opening five.** Run one Project for two weeks on a goal you already have. Track tickets closed per week against plan usage. If the ratio does not beat your normal sessions, the coordinator is overhead for that kind of work.
 
 ## GitHub settings
@@ -138,6 +148,7 @@ A Project lives or dies on GitHub setup, and the docs spread it over four pages.
 - Move any rule you care about out of hooks and into `CLAUDE.md` or CI before cloud threads touch that repo.
 - Send plain GitHub code work to cloud threads.
 - Send work that needs secrets, a specific host or local tools to a local thread or a normal session.
+- Turn on **Use worktrees** before two local threads share a folder.
 - Tell the coordinator to stop a thread from watching its PR once you take the PR over.
 - Install the Claude GitHub App on selected repos, not the whole organization.
 - Protect the default branch with a ruleset that has no bypass for the people who run Projects.
@@ -164,7 +175,10 @@ A Project lives or dies on GitHub setup, and the docs spread it over four pages.
 - Projects are a public beta on Pro, Max and Ultra plans. They are not offered on Team or Enterprise plans yet, so a team adopts them seat by seat.
 - A Project draws on the same plan limits as your other sessions and uses them faster. Running threads, the coordinator's own reading and PR-watching threads all count.
 - The enforced cap is 500 new threads per day across your Projects. A thread limit you give in chat is only a preference.
-- A thread that stops at a usage limit continues by default when the limit resets, so its work lands in your next window.
+- A thread that stops at a usage limit continues by default when the limit resets, so its work lands in your next window. The toggle sits in **Project settings > General**.
+- The same tab sets the coordinator model, the thread model and the thread effort, which defaults to medium. A cheaper thread model is the first lever on plan usage.
+
+![Project settings, General tab {#fig-models}](assets/claude-code-projects-ui-models.png 'Project settings, General tab. Separate models for the coordinator and the threads, a default thread effort, and the auto-continue toggle that carries work into the next usage window.')
 
 ## What we have not tested yet
 
