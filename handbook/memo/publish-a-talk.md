@@ -44,7 +44,7 @@ The layout comes from [Geoffrey Litt's talk page](https://www.geoffreylitt.com/2
 
 ![A folder tree: the post file, then assets with slides slide-01 to slide-13 as webp, deck.pdf, og.png and an optional deck-src folder](assets/publish-a-talk/slides/slide-05.webp)
 
-Everything for a talk lives in one folder named after the post. The slides are webp rasters with a long edge of 1600 pixels at the deck's own ratio, 16:9, 16:10 or 4:3, and they stay under the 200 KB cap at quality 80. The PDF is the file people download and present from, so its page count must equal the slide count. After the merge, media-sync moves the rasters and the PDF to the storage bucket, and the site keeps serving them at the same address.
+Everything for a talk lives in one folder named after the post. The slides are webp rasters with a long edge of 3200 pixels, twice the page size, at the deck's own ratio, 16:9, 16:10 or 4:3, and they stay under the 500 KB cap at quality 80. The PDF is the file people download and present from, so its page count must equal the slide count. After the merge, media-sync moves the rasters and the PDF to the storage bucket, and the site keeps serving them at the same address.
 
 ![The frontmatter block: layout talk and talk.deck are required; event, given, source and video are optional](assets/publish-a-talk/slides/slide-06.webp)
 

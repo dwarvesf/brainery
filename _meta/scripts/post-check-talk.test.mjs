@@ -171,6 +171,19 @@ test('T5: a long edge under 1200 px fails', () => {
   assert.deepEqual(ids(check(fixture({ sizes }))), ['T5'])
 })
 
+test('T5: a 3200 px long edge passes (2x raster)', () => {
+  const sizes = Object.fromEntries(Array.from({ length: 8 }, (_, i) => [i + 1, [3200, 1800]]))
+  const out = check(fixture({ sizes }))
+  assert.match(out, /^PASS /m, out)
+})
+
+test('T5: a 4000 px long edge fails (negative control)', () => {
+  const sizes = Object.fromEntries(Array.from({ length: 8 }, (_, i) => [i + 1, [4000, 2250]]))
+  const out = check(fixture({ sizes }))
+  assert.deepEqual(ids(out), ['T5'], out)
+  assert.match(out, /the long edge is 1200 to 3200 px/)
+})
+
 test('T6: notes too short', () => {
   const sections = goodSections()
   sections[0].slides[2].notes = 'Too short to explain anything.'

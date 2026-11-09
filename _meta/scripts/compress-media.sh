@@ -6,7 +6,9 @@
 #
 # Budget: stills capped at 1600px on the long edge (png/jpg quantized or
 # re-encoded, webp q80), gif lossy-optimized (scaled 0.8 when still over 3MB),
-# video 1280px h264 crf30. Needs: imagemagick or sips, pngquant, gifsicle,
+# video 1280px h264 crf30. Talk slides (assets/<slug>/slides/slide-*) are the
+# exception: they keep a 3200px edge and a 500 KB target, since a slide shown
+# wider than 800 CSS px blurs on a 2x screen at 1600. Needs: imagemagick or sips, pngquant, gifsicle,
 # ffmpeg, webp tools. Missing tool = that type passes through untouched.
 set -uo pipefail
 f="$1"
@@ -14,10 +16,12 @@ f="$1"
 ext="${f##*.}"; ext=$(printf '%s' "$ext" | tr '[:upper:]' '[:lower:]')
 d=$(mktemp -d); out="$d/out.$ext"
 osz=$(stat -f%z "$f" 2>/dev/null || stat -c%s "$f")
+edge=1600; target=204800
+case "$f" in */assets/*/slides/slide-*) edge=3200; target=512000;; esac
 
 resize_still() { # $1 in, $2 out (png)
-  if command -v magick >/dev/null; then magick "$1" -resize '1600x1600>' "$2"
-  elif command -v sips >/dev/null; then /bin/cp -f "$1" "$2" && sips -Z 1600 "$2" >/dev/null 2>&1
+  if command -v magick >/dev/null; then magick "$1" -resize "${edge}x${edge}>" "$2"
+  elif command -v sips >/dev/null; then /bin/cp -f "$1" "$2" && sips -Z "$edge" "$2" >/dev/null 2>&1
   else /bin/cp -f "$1" "$2"; fi
 }
 
@@ -27,7 +31,7 @@ case "$ext" in
     command -v pngquant >/dev/null && pngquant --quality=40-85 --speed 1 --force --output "$out" "$d/r.png" 2>/dev/null || /bin/cp -f "$d/r.png" "$out"
     ;;
   jpg|jpeg)
-    if command -v magick >/dev/null; then magick "$f" -resize '1600x1600>' -quality 82 "$out"; fi
+    if command -v magick >/dev/null; then magick "$f" -resize "${edge}x${edge}>" -quality 82 "$out"; fi
     ;;
   webp)
     if command -v dwebp >/dev/null && dwebp "$f" -o "$d/r.png" >/dev/null 2>&1; then
@@ -59,10 +63,10 @@ case "$ext" in
   *) exit 0;;
 esac
 
-warn_oversize() { # $1 file; rasters only, the 200 KB target
+warn_oversize() { # $1 file; rasters only, the 200 KB target (500 KB for talk slides)
   case "$ext" in png|jpg|jpeg|gif|webp|avif) ;; *) return 0;; esac
   local sz; sz=$(stat -f%z "$1" 2>/dev/null || stat -c%s "$1")
-  [ "$sz" -le 204800 ] || echo "::warning file=$1::$1 is $sz bytes, over the 204800 byte raster target; shrink it or crop it"
+  [ "$sz" -le "$target" ] || echo "::warning file=$1::$1 is $sz bytes, over the $target byte raster target; shrink it or crop it"
 }
 
 [ -s "$out" ] || { warn_oversize "$f"; exit 0; }

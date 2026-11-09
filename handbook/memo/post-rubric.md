@@ -175,7 +175,7 @@ Table: Talk checks, with the id the script prints {#tbl-talk-checks}
 | `T2` | Slides run `slide-01` to `slide-NN` in order, each used once, no unused file. | Rename the files and links. Remove a slide file you cut.          |
 | `T3` | The talk has 8 to 40 slides.                                                  | Merge thin slides, or split a long talk into two posts.           |
 | `T4` | Alt text has 8 or more characters and says what the slide says.               | Write the slide's point in words, not "Slide 4".                  |
-| `T5` | Webp or png, 200 KB at most, long edge 1200 to 1600, one ratio.               | Export at 16:9, 16:10 or 4:3; set `talk.ratio` to match.          |
+| `T5` | Webp or png, 500 KB at most, long edge 1200 to 3200, one ratio.               | Export at 16:9, 16:10 or 4:3; set `talk.ratio` to match.          |
 | `T6` | 15 to 150 words of notes per slide; the first and last may skip.              | Say what you said over the slide. Move a long aside to the outro. |
 | `T7` | 2 to 8 `##` sections, each holding 2 to 10 slides.                            | Group the slides by the beats of the argument.                    |
 | `T8` | `image:` points at `og.png`, a 1200 by 630 PNG of 300 KB or less.             | Run `talk-build.mjs`, which renders it from slide 1.              |

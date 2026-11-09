@@ -23,9 +23,10 @@
 // margin: 0 }` for 16:9. When deck-src has no fonts.css, the template's copy
 // (the memo faces) is added to the render, so decks do not carry the fonts.
 // From a PDF (decks exported from Keynote, Slides, Canva, PowerPoint): split
-// each page to slides/slide-NN.webp at the page's own ratio, long edge 1600,
-// webp q80, 200 KB cap. Nothing is cropped or stretched. Post-check T5 accepts
-// 16:9, 16:10 and 4:3, one ratio per deck.
+// each page to slides/slide-NN.webp at the page's own ratio, long edge 3200
+// (2x of the 1600x900 page, so a slide shown wider than 800 CSS px stays sharp
+// on a 2x screen), webp q80, 500 KB cap. Nothing is cropped or stretched.
+// Post-check T5 accepts 16:9, 16:10 and 4:3, one ratio per deck.
 // Always: write talk.ratio and talk.speaker to the frontmatter (speaker only
 // when the first author has a speakers/<handle>.json and the writer set none),
 // stamp deck.pdf with the post's Title (title), Author (the speaker's
@@ -50,9 +51,9 @@ import { tmpdir } from 'node:os'
 import { basename, dirname, extname, join, resolve } from 'node:path'
 import { fileURLToPath, pathToFileURL } from 'node:url'
 
-const LONG_EDGE = 1600
+const LONG_EDGE = 3200
 const RATIOS = [[16, 9], [16, 10], [4, 3]]
-const SLIDE_MAX = 200 * 1024
+const SLIDE_MAX = 500 * 1024
 const OG_W = 1200
 const OG_H = 630
 const OG_MAX = 300 * 1024
@@ -206,16 +207,16 @@ function rasterize(pages) {
       run('cwebp', ['-quiet', '-q', String(q), '-m', '6', png, '-o', webp])
     }
     const kb = Math.round(statSync(webp).size / 1024)
-    console.log(`slides/slide-${nn}.webp  ${w}x${h} ${ratio}  ${kb} KB  q${q}${kb > 200 ? '  OVER 200 KB' : ''}`)
+    console.log(`slides/slide-${nn}.webp  ${w}x${h} ${ratio}  ${kb} KB  q${q}${kb > SLIDE_MAX / 1024 ? `  OVER ${SLIDE_MAX / 1024} KB` : ''}`)
   }
   if (seen.size > 1) console.log(`warning: the deck mixes page ratios (${[...seen].join(', ')}); post-check T5 wants one ratio per deck`)
   for (const r of seen) if (r.startsWith('other')) console.log(`warning: a page ratio of ${r.slice(6)} is not 16:9, 16:10 or 4:3; re-export the deck at one of those (post-check T5)`)
   return first
 }
 
-// Keep the page's own ratio. pdftoppm sets the long edge to 1600; a page that
-// is a supported ratio up to rounding gets its exact size (1600x900, 1600x1000,
-// 1600x1200), by at most two pixels of resize. Anything else stays as it is.
+// Keep the page's own ratio. pdftoppm sets the long edge to 3200; a page that
+// is a supported ratio up to rounding gets its exact size (3200x1800, 3200x2000,
+// 3200x2400), by at most two pixels of resize. Anything else stays as it is.
 function snapRatio(png, out) {
   const [w, h] = pngSize(png)
   const long = Math.max(w, h)
@@ -354,10 +355,11 @@ async function fillProfiles(stage) {
       if (count) facts.push({ label: 'Memo', text: `${count} notes on memo.d.foundation` })
       else console.log('profile: memo note count unavailable, line omitted')
     }
+    // Two links at most: a longer row crowds the speaker slide, whatever the speaker file lists.
     const body = `<div class="profile">${photoName ? `<img class="photo" src="${photoName}" alt="${esc(sp.name)}">` : '<div class="photo"></div>'}<div>
 <div class="name">${esc(sp.name)}</div><div class="headline">${esc(sp.headline)}</div><div class="role">${esc(sp.role)}</div><div class="dither"></div>
 <dl>${facts.map((x) => `<dt>${esc(x.label)}</dt><dd>${esc(x.text)}</dd>`).join('')}</dl></div></div>
-<div class="links">${(sp.links ?? []).map(esc).join('  ·  ')}</div>`
+<div class="links">${(sp.links ?? []).slice(0, 2).map(esc).join('  ·  ')}</div>`
     writeFileSync(file, html.replace(m[0], body))
   }
 }

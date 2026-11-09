@@ -13,7 +13,7 @@ import { basename, dirname, join, normalize, relative } from 'node:path'
 
 // Talk slide paths and budgets (checkTalk below).
 const SLIDE_DIR = /(^|[/(])assets\/[^/]+\/slides\//
-const SLIDE_MAX_BYTES = 200 * 1024
+const SLIDE_MAX_BYTES = 500 * 1024
 const OG_MAX_BYTES = 300 * 1024
 
 const args = process.argv.slice(2)
@@ -452,12 +452,12 @@ function checkTalk({ file, lines, fm, bodyStart, inFence, mergedClean, warn }) {
     else {
       const long = Math.max(dim.w, dim.h)
       const r = slideRatio(dim.w, dim.h)
-      if (long < 1200 || long > 1600) warn('T5', s.line, `${fname} is ${dim.w}x${dim.h}; the long edge is 1200 to 1600 px`)
+      if (long < 1200 || long > 3200) warn('T5', s.line, `${fname} is ${dim.w}x${dim.h}; the long edge is 1200 to 3200 px`)
       if (!r) warn('T5', s.line, `${fname} is ${dim.w}x${dim.h}, ratio ${(long / Math.min(dim.w, dim.h)).toFixed(3)}; slides are 16:9, 16:10 or 4:3`)
       else if (!ratios.has(r)) ratios.set(r, s.line)
     }
     const size = statSync(abs).size
-    if (size > SLIDE_MAX_BYTES) warn('T5', s.line, `${fname} is ${Math.round(size / 1024)} KB; the cap is 200 KB`)
+    if (size > SLIDE_MAX_BYTES) warn('T5', s.line, `${fname} is ${Math.round(size / 1024)} KB; the cap is ${SLIDE_MAX_BYTES / 1024} KB`)
   }
   if (ratios.size > 1) warn('T5', [...ratios.values()][1], `the deck mixes ratios (${[...ratios.keys()].join(', ')}); use one ratio for every slide`)
   // talk.ratio tells the renderer the slide shape once media-sync has moved the rasters; default 16:9.
