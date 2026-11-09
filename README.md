@@ -159,7 +159,7 @@ beyond the squash date means checking the archive.
 
 No images, video, or PDFs live in this repo. Commit them next to your
 post as usual; after merge, the media-sync workflow compresses each file
-to the vault budget (1600px stills, lossy gif, 1280px crf30 video),
+to the vault budget (1600px stills, 3200px for talk slides, lossy gif, 1280px crf30 video),
 uploads it to the memo-vault-assets R2 bucket (served at
 `/content/<vault-path>` by the site worker), and strips it from the repo
 in a follow-up commit. Local Obsidian preview keeps working until your
