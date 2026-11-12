@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="330" fill="#12395f"/>
+  <rect width="760" height="330" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="759" height="329" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 5 · HOURS OF HEAVY USE PER BATTERY</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">1 MEASURED · 3 ESTIMATED</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <!-- gridlines at 0,2,4,6,8 h (55.56 px per hour from x=230) -->
+  <g stroke="#385a7b" stroke-opacity="0.6" stroke-width="1">
+    <line x1="341.1" y1="62" x2="341.1" y2="252"/>
+    <line x1="452.2" y1="62" x2="452.2" y2="252"/>
+    <line x1="563.3" y1="62" x2="563.3" y2="252"/>
+    <line x1="674.4" y1="62" x2="674.4" y2="252"/>
+  </g>
+  <line x1="230" y1="62" x2="230" y2="252" stroke="#68839d" stroke-width="1"/>
+  <line x1="230" y1="252" x2="730" y2="252" stroke="#68839d" stroke-width="1"/>
+  <g font-size="9" fill="#6f8fb0" text-anchor="middle">
+    <text x="230" y="268">0</text>
+    <text x="341.1" y="268">2</text>
+    <text x="452.2" y="268">4</text>
+    <text x="563.3" y="268">6</text>
+    <text x="674.4" y="268">8 h</text>
+  </g>
+
+  <!-- row 1 measured -->
+  <text x="220" y="84" font-size="10" fill="#e8f1fa" text-anchor="end">built-in 65 mAh</text>
+  <text x="220" y="97" font-size="9" letter-spacing="1" fill="#6f8fb0" text-anchor="end">MEASURED BY A REVIEWER</text>
+  <rect x="230" y="76" width="26.7" height="22" fill="#e8c56a"/>
+  <text x="264" y="91" font-size="10" fill="#e8c56a">about 29 min, nearly empty</text>
+
+  <!-- row 2 -->
+  <text x="220" y="134" font-size="10" fill="#e8f1fa" text-anchor="end">+ 300 mAh module</text>
+  <text x="220" y="147" font-size="9" letter-spacing="1" fill="#6f8fb0" text-anchor="end">ESTIMATE</text>
+  <rect x="230" y="126" width="155.6" height="22" fill="#21466a" stroke="#a7c0d9" stroke-width="1" style="stroke-dasharray:4 3"/>
+  <text x="394" y="141" font-size="10" fill="#c3d7ea">about 2.8 h</text>
+
+  <!-- row 3 -->
+  <text x="220" y="184" font-size="10" fill="#e8f1fa" text-anchor="end">+ 500 mAh module</text>
+  <text x="220" y="197" font-size="9" letter-spacing="1" fill="#6f8fb0" text-anchor="end">ESTIMATE</text>
+  <rect x="230" y="176" width="238.9" height="22" fill="#21466a" stroke="#a7c0d9" stroke-width="1" style="stroke-dasharray:4 3"/>
+  <text x="477" y="191" font-size="10" fill="#c3d7ea">about 4.3 h</text>
+
+  <!-- row 4 -->
+  <text x="220" y="234" font-size="10" fill="#e8f1fa" text-anchor="end">+ 1000 mAh module</text>
+  <text x="220" y="247" font-size="9" letter-spacing="1" fill="#6f8fb0" text-anchor="end">ESTIMATE</text>
+  <rect x="230" y="226" width="455.6" height="22" fill="#21466a" stroke="#a7c0d9" stroke-width="1" style="stroke-dasharray:4 3"/>
+  <text x="694" y="241" font-size="10" fill="#c3d7ea">~8.2 h</text>
+
+  <text x="14" y="296" font-size="9" fill="#a7c0d9">Estimates divide total capacity by the ~130 mA the measured run implies (screen, Wi-Fi, agent session).</text>
+  <text x="14" y="312" font-size="9" fill="#a7c0d9">Espressif has not published the battery module's capacity. No conversion losses counted.</text>
+</svg>
