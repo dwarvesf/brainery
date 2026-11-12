@@ -35,17 +35,17 @@ The $59 "Vision Combo Kit" on the official store [10] holds three parts: the cor
 
 The numbers come from Espressif's user guide [8] and CNX Software's launch write-up [9].
 
-| Part | What it is |
-| --- | --- |
-| Chip | ESP32-S31, dual-core RISC-V at 320 MHz, plus a low-power core |
-| Memory | 512 KB SRAM, 16 MB [PSRAM](#ref-2), 16 MB flash, 128 MB NAND |
-| Screen | 2.16 inch touch, 480 by 480, OLED per Espressif's site |
-| Audio | One mic, ES8311 codec, 3 W amplifier, speaker |
-| Sensors | BMI270 IMU, two BMM150 magnetometers, vibration motor |
-| Power | 65 mAh Li-ion, TP4057 charger, BQ27220 [fuel gauge](#ref-3), USB-C |
-| Radios | Wi-Fi 6, Bluetooth 5.4, [Thread](#ref-4) and Zigbee, [Matter](#ref-5) per CNX |
-| Camera module | 3.2 MP or 1 MP sensor by board revision, 1024 by 768 output |
-| Interaction module | Light sensor, PIR motion sensor, IR LED, six RGB LEDs |
+| Part               | What it is                                                                    |
+| ------------------ | ----------------------------------------------------------------------------- |
+| Chip               | ESP32-S31, dual-core RISC-V at 320 MHz, plus a low-power core                 |
+| Memory             | 512 KB SRAM, 16 MB [PSRAM](#ref-2), 16 MB flash, 128 MB NAND                  |
+| Screen             | 2.16 inch touch, 480 by 480, OLED per Espressif's site                        |
+| Audio              | One mic, ES8311 codec, 3 W amplifier, speaker                                 |
+| Sensors            | BMI270 IMU, two BMM150 magnetometers, vibration motor                         |
+| Power              | 65 mAh Li-ion, TP4057 charger, BQ27220 [fuel gauge](#ref-3), USB-C            |
+| Radios             | Wi-Fi 6, Bluetooth 5.4, [Thread](#ref-4) and Zigbee, [Matter](#ref-5) per CNX |
+| Camera module      | 3.2 MP or 1 MP sensor by board revision, 1024 by 768 output                   |
+| Interaction module | Light sensor, PIR motion sensor, IR LED, six RGB LEDs                         |
 
 Espressif's own site also shows an 8 by 8 RGB LED matrix module [11], so the module list will grow.
 
@@ -76,10 +76,10 @@ What nobody has published is the module's capacity. Neither the store listing, t
 ![Hours of heavy use per battery {#fig-battery}](assets/esp-mosaico-agent-first-hardware-fig5-battery.svg 'Hours of heavy use per battery. Only the built-in 65 mAh bar is a measurement. The module bars assume capacities Espressif has not confirmed.')
 
 | If the module holds | Total with the built-in cell | Heavy-use runtime (estimate) |
-| --- | --- | --- |
-| 300 mAh | 365 mAh | about 2.8 hours |
-| 500 mAh | 565 mAh | about 4.3 hours |
-| 1,000 mAh | 1,065 mAh | about 8 hours |
+| ------------------- | ---------------------------- | ---------------------------- |
+| 300 mAh             | 365 mAh                      | about 2.8 hours              |
+| 500 mAh             | 565 mAh                      | about 4.3 hours              |
+| 1,000 mAh           | 1,065 mAh                    | about 8 hours                |
 
 Those numbers ignore conversion losses, and an idle screen with Wi-Fi off will run far longer. Nobody has measured that case yet. When the board arrives, the BQ27220 fuel gauge reports voltage, current and state of charge, so I'll replace this table with measured draw.
 
@@ -121,17 +121,17 @@ What's different this time is who does the coding. ==Espressif is courting the c
 
 While checking Mosaico I went through Espressif's devkit list [18] for anything worth pairing with it. Prices are Espressif's sample prices or the cheapest distributor listing I found in November 2026, so check before ordering.
 
-| Kit | Chip | Key hardware | Good for | Approx. USD |
-| --- | --- | --- | --- | --- |
-| ESP-Mosaico | S31 | Touch screen, IMU, mic, speaker, modules | Agent-written desk devices | 59 |
-| ESP32-S31-Korvo-1 | S31 | Dual mics, LCD, camera, TF card | Voice and vision on S31 | 59 |
-| ESP-VoCat | S3 | Round screen, dual mics, wake word | Always-listening voice | 40 |
-| ESP32-S3-BOX-3 | S3 | LCD, mics, speaker | Xiaozhi or Home Assistant voice | 49 |
-| ESP-SensairShuttle | C5 | Bosch air and motion sensing, LCD, mic | Sensing on dual-band Wi-Fi 6 | 50 |
-| ESP32-P4X-Function-EV | P4 + C6 | 7 inch touch, MIPI camera, Ethernet | Wall dashboards, edge vision | 56 |
-| ESP32-P4X-EYE | P4 | MIPI camera, LCD, mic | Small vision camera | 33 |
-| ESP32-C5-DevKitC-1 | C5 | Dual-band Wi-Fi 6, Thread, Zigbee | Cheap starter | 15 |
-| ESP32-C6 / H2 DevKit | C6 / H2 | Wi-Fi 6 plus Thread, or Thread only | Matter sensor nodes | 9 to 10 |
+| Kit                   | Chip    | Key hardware                             | Good for                        | Approx. USD |
+| --------------------- | ------- | ---------------------------------------- | ------------------------------- | ----------- |
+| ESP-Mosaico           | S31     | Touch screen, IMU, mic, speaker, modules | Agent-written desk devices      | 59          |
+| ESP32-S31-Korvo-1     | S31     | Dual mics, LCD, camera, TF card          | Voice and vision on S31         | 59          |
+| ESP-VoCat             | S3      | Round screen, dual mics, wake word       | Always-listening voice          | 40          |
+| ESP32-S3-BOX-3        | S3      | LCD, mics, speaker                       | Xiaozhi or Home Assistant voice | 49          |
+| ESP-SensairShuttle    | C5      | Bosch air and motion sensing, LCD, mic   | Sensing on dual-band Wi-Fi 6    | 50          |
+| ESP32-P4X-Function-EV | P4 + C6 | 7 inch touch, MIPI camera, Ethernet      | Wall dashboards, edge vision    | 56          |
+| ESP32-P4X-EYE         | P4      | MIPI camera, LCD, mic                    | Small vision camera             | 33          |
+| ESP32-C5-DevKitC-1    | C5      | Dual-band Wi-Fi 6, Thread, Zigbee        | Cheap starter                   | 15          |
+| ESP32-C6 / H2 DevKit  | C6 / H2 | Wi-Fi 6 plus Thread, or Thread only      | Matter sensor nodes             | 9 to 10     |
 
 Two gaps stood out. Espressif has no game handheld kit, and Mosaico's single mic with no documented wake word makes the $40 VoCat the stronger pick for always-listening voice. DigiKey shows the P4X-EYE back in stock around January 2027.
 
