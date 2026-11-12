@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 430" style="width:100%;height:auto;max-width:760px;display:block" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+  <defs>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M 26 0 L 0 0 0 26" fill="none" stroke="#e8f1fa" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <marker id="arr" viewBox="0 0 8 8" refX="7" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0,0 L8,4 L0,8 z" fill="#c3d7ea"/>
+    </marker>
+    <marker id="arrs" viewBox="0 0 8 8" refX="1" refY="4" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M8,0 L0,4 L8,8 z" fill="#c3d7ea"/>
+    </marker>
+  </defs>
+  <rect width="760" height="430" fill="#12395f"/>
+  <rect width="760" height="430" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="759" height="429" fill="none" stroke="#68839d"/>
+  <text x="14" y="24" font-size="10" letter-spacing="1.5" fill="#c3d7ea">FIG. 6 · THE ESP-MOSAICO ECOSYSTEM</text>
+  <text x="746" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">DESKTOP · BOARD · CLOUD</text>
+  <line x1="0" y1="36" x2="760" y2="36" stroke="#385a7b"/>
+
+  <text x="126" y="58" font-size="10" letter-spacing="2" fill="#6f8fb0" text-anchor="middle">DESKTOP</text>
+  <text x="380" y="58" font-size="10" letter-spacing="2" fill="#6f8fb0" text-anchor="middle">BOARD</text>
+  <text x="634" y="58" font-size="10" letter-spacing="2" fill="#6f8fb0" text-anchor="middle">CLOUD</text>
+
+  <!-- desktop column -->
+  <rect x="16" y="70" width="220" height="44" fill="#21466a" stroke="#68839d"/>
+  <text x="126" y="89" font-size="11" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">CLAUDE CODE</text>
+  <text x="126" y="104" font-size="9" fill="#a7c0d9" text-anchor="middle">or another coding agent</text>
+  <line x1="126" y1="114" x2="126" y2="130" stroke="#c3d7ea" marker-end="url(#arr)"/>
+
+  <rect x="16" y="132" width="220" height="58" fill="#21466a" stroke="#68839d"/>
+  <text x="126" y="151" font-size="11" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">ESP-MOSAICO-VIBE</text>
+  <text x="126" y="166" font-size="9" fill="#a7c0d9" text-anchor="middle">CLAUDE.md · AGENTS.md · skills</text>
+  <text x="126" y="180" font-size="9" fill="#a7c0d9" text-anchor="middle">mosaico.py CLI</text>
+  <line x1="126" y1="190" x2="126" y2="206" stroke="#c3d7ea" marker-end="url(#arr)"/>
+
+  <rect x="16" y="208" width="220" height="44" fill="#21466a" stroke="#68839d"/>
+  <text x="126" y="227" font-size="11" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">SIMULATOR</text>
+  <text x="126" y="242" font-size="9" fill="#a7c0d9" text-anchor="middle">project sim, no board needed</text>
+  <line x1="126" y1="252" x2="126" y2="268" stroke="#c3d7ea" marker-end="url(#arr)"/>
+
+  <rect x="16" y="270" width="220" height="44" fill="#21466a" stroke="#68839d"/>
+  <text x="126" y="289" font-size="11" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">BUILD + IRIS</text>
+  <text x="126" y="304" font-size="9" fill="#a7c0d9" text-anchor="middle">iris app-update · iris run</text>
+
+  <rect x="16" y="344" width="220" height="58" fill="none" stroke="#68839d" style="stroke-dasharray:4 3"/>
+  <text x="126" y="363" font-size="11" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">ESP-IDF 6</text>
+  <text x="126" y="378" font-size="9" fill="#a7c0d9" text-anchor="middle">idf.py mcp-server</text>
+  <text x="126" y="392" font-size="9" fill="#a7c0d9" text-anchor="middle">raw firmware path</text>
+
+  <!-- board column -->
+  <rect x="270" y="70" width="220" height="162" fill="none" stroke="#68839d"/>
+  <rect x="282" y="80" width="196" height="38" fill="#21466a" stroke="#68839d"/>
+  <text x="380" y="96" font-size="11" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">COREBOARD</text>
+  <text x="380" y="110" font-size="9" fill="#a7c0d9" text-anchor="middle">S31 · 480x480 touch · mic · IMU</text>
+  <rect x="282" y="124" width="196" height="38" fill="#21466a" stroke="#68839d"/>
+  <text x="380" y="140" font-size="11" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">BASEBOARD</text>
+  <text x="380" y="154" font-size="9" fill="#a7c0d9" text-anchor="middle">speaker · 65 mAh · 2 x 20-pin</text>
+  <rect x="282" y="176" width="60" height="44" fill="#21466a" stroke="#68839d"/>
+  <text x="312" y="196" font-size="9" fill="#e8f1fa" text-anchor="middle">CAMERA</text>
+  <text x="312" y="210" font-size="9" fill="#6f8fb0" text-anchor="middle">left slot</text>
+  <rect x="350" y="176" width="60" height="44" fill="#21466a" stroke="#68839d"/>
+  <text x="380" y="196" font-size="9" fill="#e8f1fa" text-anchor="middle">INTERACT</text>
+  <text x="380" y="210" font-size="9" fill="#6f8fb0" text-anchor="middle">PIR · IR</text>
+  <rect x="418" y="176" width="60" height="44" fill="#21466a" stroke="#68839d"/>
+  <text x="448" y="196" font-size="9" fill="#e8f1fa" text-anchor="middle">BATTERY</text>
+  <text x="448" y="210" font-size="9" fill="#6f8fb0" text-anchor="middle">back pads</text>
+
+  <rect x="270" y="244" width="220" height="44" fill="#21466a" stroke="#68839d"/>
+  <text x="380" y="263" font-size="11" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">MOSAICO-CLAW</text>
+  <text x="380" y="278" font-size="9" fill="#a7c0d9" text-anchor="middle">factory firmware · Iris installer</text>
+  <line x1="380" y1="288" x2="380" y2="304" stroke="#c3d7ea" marker-end="url(#arr)"/>
+
+  <rect x="270" y="306" width="220" height="70" fill="#21466a" stroke="#e8c56a" stroke-width="2"/>
+  <text x="380" y="327" font-size="12" letter-spacing="2" fill="#e8c56a" text-anchor="middle">ESP-CLAW</text>
+  <text x="380" y="344" font-size="9" fill="#c3d7ea" text-anchor="middle">on-device agent runtime</text>
+  <text x="380" y="358" font-size="9" fill="#c3d7ea" text-anchor="middle">Lua rules · MCP client + server</text>
+
+  <!-- cloud column -->
+  <rect x="524" y="244" width="220" height="44" fill="#21466a" stroke="#68839d"/>
+  <text x="634" y="263" font-size="11" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">IDEAS STORE</text>
+  <text x="634" y="278" font-size="9" fill="#a7c0d9" text-anchor="middle">mosaico.ai · 6-digit codes</text>
+
+  <rect x="524" y="306" width="220" height="30" fill="#21466a" stroke="#68839d"/>
+  <text x="634" y="325" font-size="10" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">MCP PEERS</text>
+
+  <rect x="524" y="346" width="220" height="44" fill="#21466a" stroke="#68839d"/>
+  <text x="634" y="365" font-size="11" letter-spacing="1" fill="#e8f1fa" text-anchor="middle">LLM APIs</text>
+  <text x="634" y="380" font-size="9" fill="#a7c0d9" text-anchor="middle">Anthropic-style · OpenAI-style</text>
+
+  <!-- arrows across columns -->
+  <line x1="236" y1="290" x2="268" y2="270" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <text x="252" y="302" font-size="9" fill="#6f8fb0" text-anchor="middle">WI-FI</text>
+  <line x1="236" y1="372" x2="268" y2="360" stroke="#c3d7ea" style="stroke-dasharray:3 3" marker-end="url(#arr)"/>
+  <line x1="522" y1="266" x2="492" y2="266" stroke="#c3d7ea" marker-end="url(#arr)"/>
+  <line x1="492" y1="321" x2="522" y2="321" stroke="#c3d7ea" marker-start="url(#arrs)" marker-end="url(#arr)"/>
+  <line x1="492" y1="366" x2="522" y2="366" stroke="#c3d7ea" marker-start="url(#arrs)" marker-end="url(#arr)"/>
+
+  <text x="634" y="416" font-size="9" fill="#6f8fb0" text-anchor="middle">amber = the piece that makes it agent-first</text>
+</svg>
