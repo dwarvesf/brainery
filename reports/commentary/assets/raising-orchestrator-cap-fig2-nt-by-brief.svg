@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 452" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" role="img" aria-labelledby="t d">
+  <title id="t">Fig. 2 median minutes an agent worked alone, by brief length and by whether the turn ran a skill</title>
+  <desc id="d">Horizontal bars of median minutes alone with a p75 tick. Under 50 chars 1.4 (p75 7.4), 50 to 200 chars 2.0 (7.9), 200 to 1,000 chars 3.9 (12.2), over 1,000 chars 9.4 (28.5). Turn ran a skill 7.9 (23.1), turn ran neither 1.6 (7.2). Over 1,000 chars and ran a skill are emphasised.</desc>
+  <defs>
+    <pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M0 .5H20M.5 0V20" fill="none" stroke="#edf0f4" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="452" fill="#eef1f4"/>
+  <rect x="8" y="8" width="744" height="436" fill="#ffffff"/>
+  <rect x="8" y="8" width="744" height="436" fill="url(#g)"/>
+  <rect x="8.5" y="8.5" width="743" height="435" fill="none" stroke="#d3dae2"/>
+  <text x="28" y="38" font-size="13.5" font-family="Archivo, 'Arial Narrow', 'Helvetica Neue', Arial, ui-monospace, monospace" font-weight="700" fill="#17212b">Bigger briefs, longer runs</text>
+  <text x="28" y="56" font-size="9.5" letter-spacing="1.2" font-weight="500" fill="#4e5b69">FIG. 2 · MY 3,351 TURNS</text>
+  <line x1="8" y1="70" x2="752" y2="70" stroke="#d3dae2"/>
+
+  <line x1="220" y1="96" x2="220" y2="334" stroke="#d3dae2" stroke-width="1"/>
+  <text x="220" y="351" font-size="9.5" fill="#4e5b69" text-anchor="middle">0</text>
+  <line x1="370" y1="96" x2="370" y2="334" stroke="#d3dae2" stroke-width="1"/>
+  <text x="370" y="351" font-size="9.5" fill="#4e5b69" text-anchor="middle">10</text>
+  <line x1="520" y1="96" x2="520" y2="334" stroke="#d3dae2" stroke-width="1"/>
+  <text x="520" y="351" font-size="9.5" fill="#4e5b69" text-anchor="middle">20</text>
+  <line x1="670" y1="96" x2="670" y2="334" stroke="#d3dae2" stroke-width="1"/>
+  <text x="670" y="351" font-size="9.5" fill="#4e5b69" text-anchor="middle">30</text>
+  <line x1="220" y1="334" x2="670" y2="334" stroke="#4e5b69" stroke-width="1.2"/>
+  <text x="445" y="370" font-size="9.5" letter-spacing="1.1" font-weight="500" fill="#4e5b69" text-anchor="middle">MINUTES THE AGENT WORKED ALONE</text>
+  <text x="28" y="104" font-size="9.5" letter-spacing="1.1" font-weight="500" fill="#4e5b69">BY BRIEF LENGTH</text>
+  <text x="208" y="127.5" font-size="10.5" fill="#17212b" text-anchor="end">under 50 chars</text>
+  <rect x="220" y="114" width="21" height="18" rx="2" fill="#ffffff" stroke="#4e5b69" stroke-width="1.2"/>
+  <text x="247" y="127.5" font-size="10.5" font-weight="700" fill="#17212b" paint-order="stroke" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">1.4</text>
+  <line x1="331" y1="111" x2="331" y2="135" stroke="#17212b" stroke-width="2"/>
+  <text x="337" y="127.5" font-size="9.5" fill="#4e5b69" paint-order="stroke" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">7.4</text>
+  <text x="208" y="159.5" font-size="10.5" fill="#17212b" text-anchor="end">50-200 chars</text>
+  <rect x="220" y="146" width="30" height="18" rx="2" fill="#ffffff" stroke="#4e5b69" stroke-width="1.2"/>
+  <text x="256" y="159.5" font-size="10.5" font-weight="700" fill="#17212b" paint-order="stroke" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">2.0</text>
+  <line x1="338.5" y1="143" x2="338.5" y2="167" stroke="#17212b" stroke-width="2"/>
+  <text x="344.5" y="159.5" font-size="9.5" fill="#4e5b69" paint-order="stroke" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">7.9</text>
+  <text x="208" y="191.5" font-size="10.5" fill="#17212b" text-anchor="end">200-1,000 chars</text>
+  <rect x="220" y="178" width="58.5" height="18" rx="2" fill="#ffffff" stroke="#4e5b69" stroke-width="1.2"/>
+  <text x="284.5" y="191.5" font-size="10.5" font-weight="700" fill="#17212b" paint-order="stroke" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">3.9</text>
+  <line x1="403" y1="175" x2="403" y2="199" stroke="#17212b" stroke-width="2"/>
+  <text x="409" y="191.5" font-size="9.5" fill="#4e5b69" paint-order="stroke" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">12.2</text>
+  <text x="208" y="223.5" font-size="10.5" font-weight="600" fill="#0a6aa1" text-anchor="end">over 1,000 chars</text>
+  <rect x="220" y="210" width="141" height="18" rx="2" fill="#e2f0f8" stroke="#0a6aa1" stroke-width="1.6"/>
+  <text x="367" y="223.5" font-size="10.5" font-weight="700" fill="#0a6aa1" paint-order="stroke" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">9.4</text>
+  <line x1="647.5" y1="207" x2="647.5" y2="231" stroke="#0a6aa1" stroke-width="2"/>
+  <text x="653.5" y="223.5" font-size="9.5" fill="#4e5b69" paint-order="stroke" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">28.5</text>
+  <text x="28" y="256" font-size="9.5" letter-spacing="1.1" font-weight="500" fill="#4e5b69">BY WHAT THE TURN RAN</text>
+  <text x="208" y="279.5" font-size="10.5" font-weight="600" fill="#0a6aa1" text-anchor="end">turn ran a skill</text>
+  <rect x="220" y="266" width="118.5" height="18" rx="2" fill="#e2f0f8" stroke="#0a6aa1" stroke-width="1.6"/>
+  <text x="344.5" y="279.5" font-size="10.5" font-weight="700" fill="#0a6aa1" paint-order="stroke" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">7.9</text>
+  <line x1="566.5" y1="263" x2="566.5" y2="287" stroke="#0a6aa1" stroke-width="2"/>
+  <text x="572.5" y="279.5" font-size="9.5" fill="#4e5b69" paint-order="stroke" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">23.1</text>
+  <text x="208" y="311.5" font-size="10.5" fill="#17212b" text-anchor="end">turn ran neither</text>
+  <rect x="220" y="298" width="24" height="18" rx="2" fill="#ffffff" stroke="#4e5b69" stroke-width="1.2"/>
+  <text x="250" y="311.5" font-size="10.5" font-weight="700" fill="#17212b" paint-order="stroke" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">1.6</text>
+  <line x1="328" y1="295" x2="328" y2="319" stroke="#17212b" stroke-width="2"/>
+  <text x="334" y="311.5" font-size="9.5" fill="#4e5b69" paint-order="stroke" stroke="#ffffff" stroke-width="4" stroke-linejoin="round">7.2</text>
+  <rect x="220" y="388" width="26" height="14" rx="2" fill="#ffffff" stroke="#4e5b69" stroke-width="1.2"/>
+  <text x="254" y="399" font-size="9.5" letter-spacing="1.1" font-weight="500" fill="#4e5b69">BAR = MEDIAN</text>
+  <line x1="375.8" y1="386" x2="375.8" y2="404" stroke="#17212b" stroke-width="2"/>
+  <text x="396.8" y="399" font-size="9.5" letter-spacing="1.1" font-weight="500" fill="#4e5b69">TICK = P75</text>
+  <text x="28" y="424" font-size="9.5" fill="#4e5b69">Mac Mini transcripts, 3 Oct to 2 Nov 2026.</text>
+  <text x="28" y="438" font-size="9.5" fill="#4e5b69">Observational: big briefs go with big tasks.</text>
+</svg>

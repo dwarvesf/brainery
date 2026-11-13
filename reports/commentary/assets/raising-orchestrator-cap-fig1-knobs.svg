@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 376" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" role="img" aria-labelledby="t d">
+  <title id="t">Fig. 1 three knobs on the fan-out formula</title>
+  <desc id="d">The formula FO = NT / (IT + WT) + 1 with each term boxed. NT, emphasised, runs longer alone: bigger brief with a test, questions asked up front, packaged plays, safe auto-approve. IT, cheaper review: fixed result card, small diffs, plan review. WT, faster re-entry: two-author re-entry card, one needs-input queue, push alert when blocked. Beside the formula: fewer open loops in your head.</desc>
+  <defs>
+    <pattern id="g" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M0 .5H20M.5 0V20" fill="none" stroke="#edf0f4" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="760" height="376" fill="#eef1f4"/>
+  <rect x="8" y="8" width="744" height="360" fill="#ffffff"/>
+  <rect x="8" y="8" width="744" height="360" fill="url(#g)"/>
+  <rect x="8.5" y="8.5" width="743" height="359" fill="none" stroke="#d3dae2"/>
+  <text x="28" y="38" font-size="13.5" font-family="Archivo, 'Arial Narrow', 'Helvetica Neue', Arial, ui-monospace, monospace" font-weight="700" fill="#17212b">Three knobs on one formula</text>
+  <text x="28" y="56" font-size="9.5" letter-spacing="1.2" font-weight="500" fill="#4e5b69">FIG. 1 · THE LEVERS</text>
+  <line x1="8" y1="70" x2="752" y2="70" stroke="#d3dae2"/>
+
+  <text x="88.3" y="145" font-size="13.5" font-weight="600" fill="#17212b" text-anchor="middle">FO =</text>
+  <rect x="116.7" y="121" width="60" height="38" rx="5" fill="#e2f0f8" stroke="#0a6aa1" stroke-width="1.6"/>
+  <text x="146.7" y="145" font-size="13.5" font-weight="700" fill="#0a6aa1" text-anchor="middle">NT</text>
+  <text x="192.8" y="145" font-size="13.5" font-weight="600" fill="#17212b" text-anchor="middle">/</text>
+  <text x="213" y="145" font-size="13.5" font-weight="600" fill="#17212b" text-anchor="middle">(</text>
+  <rect x="229.1" y="121" width="60" height="38" rx="5" fill="#ffffff" stroke="#4e5b69" stroke-width="1.2"/>
+  <text x="259.1" y="145" font-size="13.5" font-weight="700" fill="#17212b" text-anchor="middle">IT</text>
+  <text x="305.2" y="145" font-size="13.5" font-weight="600" fill="#17212b" text-anchor="middle">+</text>
+  <rect x="321.3" y="121" width="60" height="38" rx="5" fill="#ffffff" stroke="#4e5b69" stroke-width="1.2"/>
+  <text x="351.3" y="145" font-size="13.5" font-weight="700" fill="#17212b" text-anchor="middle">WT</text>
+  <text x="397.4" y="145" font-size="13.5" font-weight="600" fill="#17212b" text-anchor="middle">)</text>
+  <text x="425.8" y="145" font-size="13.5" font-weight="600" fill="#17212b" text-anchor="middle">+ 1</text>
+  <rect x="476" y="114" width="256" height="52" rx="6" fill="#ffffff" stroke="#4e5b69" stroke-width="1.2" style="stroke-dasharray:4 3"/>
+  <text x="490" y="135" font-size="10.5" fill="#4e5b69">beside the formula:</text>
+  <text x="490" y="153" font-size="10.5" fill="#4e5b69">fewer open loops in your head</text>
+  <rect x="28" y="224" width="224" height="124" rx="6" fill="#e2f0f8" stroke="#0a6aa1" stroke-width="1.6"/>
+  <text x="42" y="249" font-size="11.5" font-weight="700" fill="#0a6aa1">NT: runs longer alone</text>
+  <circle cx="46" cy="272.5" r="2" fill="#0a6aa1"/>
+  <text x="55" y="276" font-size="10.5" fill="#17212b">bigger brief with a test</text>
+  <circle cx="46" cy="290.5" r="2" fill="#0a6aa1"/>
+  <text x="55" y="294" font-size="10.5" fill="#17212b">questions asked up front</text>
+  <circle cx="46" cy="308.5" r="2" fill="#0a6aa1"/>
+  <text x="55" y="312" font-size="10.5" fill="#17212b">packaged plays</text>
+  <circle cx="46" cy="326.5" r="2" fill="#0a6aa1"/>
+  <text x="55" y="330" font-size="10.5" fill="#17212b">safe auto-approve</text>
+  <path d="M 140.0 224 V 194 H 146.7 V 168.0" fill="none" stroke="#0a6aa1" stroke-width="1.6"/>
+  <polygon points="146.7,159 151.2,169 142.2,169" fill="#0a6aa1"/>
+  <rect x="266" y="224" width="224" height="124" rx="6" fill="#ffffff" stroke="#4e5b69" stroke-width="1.2"/>
+  <text x="280" y="249" font-size="11.5" font-weight="700" fill="#17212b">IT: cheaper review</text>
+  <circle cx="284" cy="272.5" r="2" fill="#4e5b69"/>
+  <text x="293" y="276" font-size="10.5" fill="#17212b">fixed result card</text>
+  <circle cx="284" cy="290.5" r="2" fill="#4e5b69"/>
+  <text x="293" y="294" font-size="10.5" fill="#17212b">small diffs</text>
+  <circle cx="284" cy="308.5" r="2" fill="#4e5b69"/>
+  <text x="293" y="312" font-size="10.5" fill="#17212b">plan review</text>
+  <path d="M 378.0 224 V 204 H 259.09999999999997 V 168.0" fill="none" stroke="#4e5b69" stroke-width="1.3"/>
+  <polygon points="259.1,159 263.6,169 254.6,169" fill="#4e5b69"/>
+  <rect x="504" y="224" width="224" height="124" rx="6" fill="#ffffff" stroke="#4e5b69" stroke-width="1.2"/>
+  <text x="518" y="249" font-size="11.5" font-weight="700" fill="#17212b">WT: faster re-entry</text>
+  <circle cx="522" cy="272.5" r="2" fill="#4e5b69"/>
+  <text x="531" y="276" font-size="10.5" fill="#17212b">two-author re-entry card</text>
+  <circle cx="522" cy="290.5" r="2" fill="#4e5b69"/>
+  <text x="531" y="294" font-size="10.5" fill="#17212b">one needs-input queue</text>
+  <circle cx="522" cy="308.5" r="2" fill="#4e5b69"/>
+  <text x="531" y="312" font-size="10.5" fill="#17212b">push alert when blocked</text>
+  <path d="M 616.0 224 V 186 H 351.29999999999995 V 168.0" fill="none" stroke="#4e5b69" stroke-width="1.3"/>
+  <polygon points="351.3,159 355.8,169 346.8,169" fill="#4e5b69"/>
+</svg>
