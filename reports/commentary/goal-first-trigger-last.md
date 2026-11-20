@@ -3,7 +3,7 @@ title: "Goal first, trigger last: how poteto teaches a bot a job"
 description: "The cycle, the beliefs and the method in Lauren's guide to automating work with Grok Bot, plus a prompt to teach it to your own agent."
 date: 2026-11-20
 toc: true
-draft: true
+draft: false
 authors:
   - tieubao
 tags:
@@ -138,7 +138,7 @@ We run desk bots for Dwarves operations, using the model in [Owner agents, plain
 
 The front half is where the guide leads. Our desk charters open with access and limits, and none states the result the desk exists for. Our bots also improve mostly when a person corrects them, which keeps that person in every improvement.
 
-The guide is light on what production adds. A bot needs explicit limits on money, sending and secrets. It must treat review and email text as data, never as instructions. It also needs a way to show it has stopped running. We're adding the guide's front half to our new-bot playbook: each charter will state its goal, its done check and where it hears how a run went.
+The guide is light on what production adds. A bot needs explicit limits on money, sending and secrets. It must treat review and email text as data, never as instructions. It also needs a way to show it has stopped running. We added the guide's front half to our new-bot playbook: each charter now states its goal, its done check and where it hears how a run went.
 
 ## References
 
