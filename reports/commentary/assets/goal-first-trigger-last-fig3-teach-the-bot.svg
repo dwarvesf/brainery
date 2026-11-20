@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" role="img" aria-label="Left: six things to tell the bot. Right: three hidden rules the interview finds">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#385a7b" stroke-width="0.5" opacity="0.6"/></pattern>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#c3d7ea"/></marker>
+    <marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#e8c56a"/></marker>
+  </defs>
+  <rect width="760" height="340" fill="#12395f"/>
+  <rect width="760" height="340" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="759" height="339" fill="none" stroke="#68839d"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <text x="20" y="24" font-size="10" letter-spacing="1.5" fill="#a7c0d9">FIG. 3 · WHAT YOU TELL THE BOT</text>
+    <text x="740" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">BEFORE IT RUNS ANYTHING</text>
+    <line x1="20" y1="36" x2="740" y2="36" stroke="#68839d"/>
+    <text x="20" y="64" font-size="11" fill="#c3d7ea" text-anchor="start">BRAIN DUMP: SIX THINGS (VOICE IS FINE)</text>
+    <rect x="20" y="76" width="340" height="30" rx="3" fill="#21466a" stroke="#68839d"/>
+    <text x="32" y="95" font-size="11" fill="#e8f1fa" text-anchor="start">STEPS</text>
+    <text x="150" y="95" font-size="10" fill="#a7c0d9" text-anchor="start">what you usually do</text>
+    <rect x="20" y="114" width="340" height="30" rx="3" fill="#21466a" stroke="#68839d"/>
+    <text x="32" y="133" font-size="11" fill="#e8f1fa" text-anchor="start">WATCH-OUTS</text>
+    <text x="150" y="133" font-size="10" fill="#a7c0d9" text-anchor="start">what you pay attention to</text>
+    <rect x="20" y="152" width="340" height="30" rx="3" fill="#21466a" stroke="#68839d"/>
+    <text x="32" y="171" font-size="11" fill="#e8f1fa" text-anchor="start">TOOLS</text>
+    <text x="150" y="171" font-size="10" fill="#a7c0d9" text-anchor="start">apps you use</text>
+    <rect x="20" y="190" width="340" height="30" rx="3" fill="#21466a" stroke="#68839d"/>
+    <text x="32" y="209" font-size="11" fill="#e8f1fa" text-anchor="start">DONE CHECK</text>
+    <text x="150" y="209" font-size="10" fill="#a7c0d9" text-anchor="start">how you know it went right</text>
+    <rect x="20" y="228" width="340" height="30" rx="3" fill="#21466a" stroke="#68839d"/>
+    <text x="32" y="247" font-size="11" fill="#e8f1fa" text-anchor="start">INPUTS</text>
+    <text x="150" y="247" font-size="10" fill="#a7c0d9" text-anchor="start">where the information comes from</text>
+    <rect x="20" y="266" width="340" height="30" rx="3" fill="#21466a" stroke="#68839d"/>
+    <text x="32" y="285" font-size="11" fill="#e8f1fa" text-anchor="start">FEEDBACK</text>
+    <text x="150" y="285" font-size="10" fill="#a7c0d9" text-anchor="start">where you hear how it went</text>
+    <rect x="14" y="184" width="352" height="118" rx="5" fill="none" stroke="#e8c56a" stroke-width="2"/>
+    <text x="20" y="324" font-size="10" fill="#e8c56a" text-anchor="start">most job notes skip the outlined three</text>
+    <text x="400" y="64" font-size="11" fill="#c3d7ea" text-anchor="start">HIDDEN RULES THE INTERVIEW DIGS OUT</text>
+    <rect x="400" y="76" width="340" height="60" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="570.0" y="103.0" font-size="12" fill="#e8f1fa" text-anchor="middle">WHICH SOURCE WINS</text>
+    <text x="570.0" y="119.0" font-size="10" fill="#a7c0d9" text-anchor="middle">email says 3pm, system says 4pm</text>
+    <rect x="400" y="152" width="340" height="60" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="570.0" y="179.0" font-size="12" fill="#e8f1fa" text-anchor="middle">DONE = END STATE</text>
+    <text x="570.0" y="195.0" font-size="10" fill="#a7c0d9" text-anchor="middle">booked and confirmed, not 'email sent'</text>
+    <rect x="400" y="228" width="340" height="60" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="570.0" y="255.0" font-size="12" fill="#e8f1fa" text-anchor="middle">TRACK WHAT'S PENDING</text>
+    <text x="570.0" y="271.0" font-size="10" fill="#a7c0d9" text-anchor="middle">pick up later, never book twice</text>
+    <text x="400" y="324" font-size="10" fill="#6f8fb0" text-anchor="start">one question at a time, on real cases, failures included</text>
+
+  </g>
+</svg>

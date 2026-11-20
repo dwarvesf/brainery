@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 350" role="img" aria-label="Seven steps in a loop: goal, process, restate, tacit knowledge, connect, feedback, trigger, then back to the goal">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#385a7b" stroke-width="0.5" opacity="0.6"/></pattern>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#c3d7ea"/></marker>
+    <marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#e8c56a"/></marker>
+  </defs>
+  <rect width="760" height="350" fill="#12395f"/>
+  <rect width="760" height="350" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="759" height="349" fill="none" stroke="#68839d"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <text x="20" y="24" font-size="10" letter-spacing="1.5" fill="#a7c0d9">FIG. 1 · THE CYCLE</text>
+    <text x="740" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">GOAL FIRST, TRIGGER LAST</text>
+    <line x1="20" y1="36" x2="740" y2="36" stroke="#68839d"/>
+    <ellipse cx="380" cy="205" rx="285" ry="118" fill="none" stroke="#68839d" stroke-width="1" style="stroke-dasharray:2 4"/>
+    <line x1="452.0" y1="101.4" x2="530.8" y2="117.1" stroke="#c3d7ea" stroke-width="1" marker-end="url(#arr)"/>
+    <line x1="617.7" y1="158.4" x2="643.0" y2="204.3" stroke="#c3d7ea" stroke-width="1" marker-end="url(#arr)"/>
+    <line x1="605.8" y1="258.3" x2="555.7" y2="284.3" stroke="#c3d7ea" stroke-width="1" marker-end="url(#arr)"/>
+    <line x1="431.7" y1="311.3" x2="328.3" y2="311.3" stroke="#c3d7ea" stroke-width="1" marker-end="url(#arr)"/>
+    <line x1="204.3" y1="284.3" x2="154.2" y2="258.3" stroke="#c3d7ea" stroke-width="1" marker-end="url(#arr)"/>
+    <line x1="117.0" y1="204.3" x2="142.3" y2="158.4" stroke="#c3d7ea" stroke-width="1" marker-end="url(#arr)"/>
+    <line x1="229.2" y1="117.1" x2="308.0" y2="101.4" stroke="#e8c56a" stroke-width="1" marker-end="url(#arrA)"/>
+    <rect x="312" y="64" width="136" height="46" rx="4" fill="#21466a" stroke="#e8c56a" stroke-width="2"/>
+    <text x="380.0" y="84.0" font-size="12" fill="#e8c56a" text-anchor="middle" font-weight="bold">1 GOAL</text>
+    <text x="380.0" y="100.0" font-size="10" fill="#a7c0d9" text-anchor="middle">what it's for</text>
+    <rect x="535" y="108" width="136" height="46" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="603.0" y="128.0" font-size="12" fill="#e8f1fa" text-anchor="middle">2 PROCESS</text>
+    <text x="603.0" y="144.0" font-size="10" fill="#a7c0d9" text-anchor="middle">talk it out</text>
+    <rect x="590" y="208" width="136" height="46" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="658.0" y="228.0" font-size="12" fill="#e8f1fa" text-anchor="middle">3 RESTATE</text>
+    <text x="658.0" y="244.0" font-size="10" fill="#a7c0d9" text-anchor="middle">nothing runs yet</text>
+    <rect x="436" y="288" width="136" height="46" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="504.0" y="308.0" font-size="12" fill="#e8f1fa" text-anchor="middle">4 TACIT</text>
+    <text x="504.0" y="324.0" font-size="10" fill="#a7c0d9" text-anchor="middle">bot interviews you</text>
+    <rect x="188" y="288" width="136" height="46" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="256.0" y="308.0" font-size="12" fill="#e8f1fa" text-anchor="middle">5 CONNECT</text>
+    <text x="256.0" y="324.0" font-size="10" fill="#a7c0d9" text-anchor="middle">apps and tools</text>
+    <rect x="34" y="208" width="136" height="46" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="102.0" y="228.0" font-size="12" fill="#e8f1fa" text-anchor="middle">6 FEEDBACK</text>
+    <text x="102.0" y="244.0" font-size="10" fill="#a7c0d9" text-anchor="middle">bot's own data</text>
+    <rect x="89" y="108" width="136" height="46" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="157.0" y="128.0" font-size="12" fill="#e8f1fa" text-anchor="middle">7 TRIGGER</text>
+    <text x="157.0" y="144.0" font-size="10" fill="#a7c0d9" text-anchor="middle">event or schedule</text>
+    <text x="380" y="197" font-size="11" fill="#e8f1fa" text-anchor="middle">HUMAN TALKS: 1 to 4</text>
+    <text x="380" y="215" font-size="11" fill="#e8f1fa" text-anchor="middle">BOT ACTS: 5 to 7</text>
+    <text x="380" y="235" font-size="10" fill="#6f8fb0" text-anchor="middle">then review against the goal</text>
+
+  </g>
+</svg>

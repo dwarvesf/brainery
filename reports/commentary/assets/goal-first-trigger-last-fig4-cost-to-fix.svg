@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" role="img" aria-label="Illustrative step chart: the cost to fix a mistake stays low while the job is words and jumps once the bot acts and repeats">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#385a7b" stroke-width="0.5" opacity="0.6"/></pattern>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#c3d7ea"/></marker>
+    <marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#e8c56a"/></marker>
+  </defs>
+  <rect width="760" height="340" fill="#12395f"/>
+  <rect width="760" height="340" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="759" height="339" fill="none" stroke="#68839d"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <text x="20" y="24" font-size="10" letter-spacing="1.5" fill="#a7c0d9">FIG. 4 · WHY RESTATE FIRST AND TRIGGER LAST</text>
+    <text x="740" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">ILLUSTRATIVE</text>
+    <line x1="20" y1="36" x2="740" y2="36" stroke="#68839d"/>
+    <line x1="70" y1="290" x2="730" y2="290" stroke="#68839d"/>
+    <line x1="70" y1="290" x2="70" y2="60" stroke="#68839d"/>
+    <text x="60" y="66" font-size="10" fill="#6f8fb0" text-anchor="end">high</text>
+    <text x="60" y="290" font-size="10" fill="#6f8fb0" text-anchor="end">low</text>
+    <text x="22" y="175.0" font-size="10" fill="#a7c0d9" transform="rotate(-90 22 175.0)" text-anchor="middle">cost to fix a mistake</text>
+    <text x="125.71428571428572" y="306" font-size="10" fill="#a7c0d9" text-anchor="middle">goal</text>
+    <text x="217.14285714285717" y="306" font-size="10" fill="#a7c0d9" text-anchor="middle">process</text>
+    <text x="308.5714285714286" y="306" font-size="10" fill="#a7c0d9" text-anchor="middle">restate</text>
+    <text x="400.0" y="306" font-size="10" fill="#a7c0d9" text-anchor="middle">tacit</text>
+    <text x="491.42857142857144" y="306" font-size="10" fill="#a7c0d9" text-anchor="middle">connect</text>
+    <text x="582.8571428571429" y="306" font-size="10" fill="#a7c0d9" text-anchor="middle">feedback</text>
+    <text x="674.2857142857142" y="306" font-size="10" fill="#a7c0d9" text-anchor="middle">trigger</text>
+    <path d="M80 272 L171 272 L171 268 L263 268 L263 264 L354 264 L354 258 L446 258 L446 200 L537 200 L537 170 L629 170 L629 80 L720 80 " fill="none" stroke="#e8c56a" stroke-width="2.5"/>
+    <line x1="446" y1="60" x2="446" y2="290" stroke="#68839d" style="stroke-dasharray:4 3"/>
+    <text x="435.7142857142857" y="80" font-size="10" fill="#c3d7ea" text-anchor="end">words: fix with a sentence</text>
+    <text x="455.7142857142857" y="80" font-size="10" fill="#c3d7ea" text-anchor="start">side effects:</text>
+    <text x="455.7142857142857" y="94" font-size="10" fill="#c3d7ea" text-anchor="start">fix the booking,</text>
+    <text x="455.7142857142857" y="108" font-size="10" fill="#c3d7ea" text-anchor="start">email, payment</text>
+    <text x="730" y="120" font-size="10" fill="#e8c56a" text-anchor="end">x every run</text>
+    <text x="730" y="324" font-size="10" fill="#6f8fb0" text-anchor="end">shape is illustrative, not measured</text>
+
+  </g>
+</svg>

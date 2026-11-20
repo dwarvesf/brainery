@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" role="img" aria-label="Eight beliefs: goal over process, ownership, cheap start, experts forget, words before action, data over prompts, automate last, teach the method once">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#385a7b" stroke-width="0.5" opacity="0.6"/></pattern>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#c3d7ea"/></marker>
+    <marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#e8c56a"/></marker>
+  </defs>
+  <rect width="760" height="320" fill="#12395f"/>
+  <rect width="760" height="320" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="759" height="319" fill="none" stroke="#68839d"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <text x="20" y="24" font-size="10" letter-spacing="1.5" fill="#a7c0d9">FIG. 6 · THE BELIEFS UNDER THE STEPS</text>
+    <text x="740" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">PHILOSOPHY</text>
+    <line x1="20" y1="36" x2="740" y2="36" stroke="#68839d"/>
+    <rect x="20" y="60" width="170" height="86" rx="4" fill="#21466a" stroke="#e8c56a" stroke-width="2"/>
+    <text x="105.0" y="100.0" font-size="11" fill="#e8c56a" text-anchor="middle" font-weight="bold">GOAL OVER PROCESS</text>
+    <text x="105.0" y="116.0" font-size="10" fill="#a7c0d9" text-anchor="middle">the process is a means</text>
+    <rect x="202" y="60" width="170" height="86" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="287.0" y="100.0" font-size="11" fill="#e8f1fa" text-anchor="middle">HAND OVER OWNERSHIP</text>
+    <text x="287.0" y="116.0" font-size="10" fill="#a7c0d9" text-anchor="middle">brief it like a new hire</text>
+    <rect x="384" y="60" width="170" height="86" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="469.0" y="100.0" font-size="11" fill="#e8f1fa" text-anchor="middle">MAKE STARTING CHEAP</text>
+    <text x="469.0" y="116.0" font-size="10" fill="#a7c0d9" text-anchor="middle">call it Potato, just talk</text>
+    <rect x="566" y="60" width="170" height="86" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="651.0" y="100.0" font-size="11" fill="#e8f1fa" text-anchor="middle">EXPERTS FORGET</text>
+    <text x="651.0" y="116.0" font-size="10" fill="#a7c0d9" text-anchor="middle">the bot asks, case by case</text>
+    <rect x="20" y="170" width="170" height="86" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="105.0" y="210.0" font-size="11" fill="#e8f1fa" text-anchor="middle">WORDS BEFORE ACTION</text>
+    <text x="105.0" y="226.0" font-size="10" fill="#a7c0d9" text-anchor="middle">restate, then run</text>
+    <rect x="202" y="170" width="170" height="86" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="287.0" y="210.0" font-size="11" fill="#e8f1fa" text-anchor="middle">DATA OVER PROMPTS</text>
+    <text x="287.0" y="226.0" font-size="10" fill="#a7c0d9" text-anchor="middle">give it eyes, not lectures</text>
+    <rect x="384" y="170" width="170" height="86" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="469.0" y="210.0" font-size="11" fill="#e8f1fa" text-anchor="middle">AUTOMATE LAST</text>
+    <text x="469.0" y="226.0" font-size="10" fill="#a7c0d9" text-anchor="middle">trigger after it works</text>
+    <rect x="566" y="170" width="170" height="86" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <text x="651.0" y="210.0" font-size="11" fill="#e8f1fa" text-anchor="middle">TEACH THE METHOD ONCE</text>
+    <text x="651.0" y="226.0" font-size="10" fill="#a7c0d9" text-anchor="middle">a bot that designs bots</text>
+    <text x="380" y="300" font-size="11" fill="#e8f1fa" text-anchor="middle">Read as a list, it is advice for onboarding a new teammate.</text>
+
+  </g>
+</svg>
