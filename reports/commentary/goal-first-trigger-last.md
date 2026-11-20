@@ -88,6 +88,23 @@ Each step rests on a belief about how delegation works:
 - **Automate last**: earn trust by hand before adding a schedule.
 - **Teach the method once**: the guide closes by pointing at Dr Eggbot, a bot that designs bots. The method is itself a process with a goal, so a bot can run it.
 
+## Does it hold up?
+
+We checked each claim against published evidence and our own records. Most of the method holds; one claim goes too far.
+
+| Claim | Verdict | Evidence |
+|---|---|---|
+| Interview with real cases | ✅ Holds | Experts omit about 70% of decisions ([CTA](#ref-4)) |
+| Brain dump by voice | ✅ Holds | Speech is about 3x faster than phone typing ([study](#ref-5)) |
+| Start from the goal | 🟡 Little proof | Backed by single-company cases only |
+| Restate before running | 🟡 Little proof | Plan approval itself is untested |
+| Add the trigger last | 🟡 Practice | Common advice, not measured |
+| Bot does anything on a computer | ❌ Too strong | Agents take 1.4 to 2.7x more steps than people ([OSWorld-Human](#ref-3)) |
+
+One warning the guide skips: email and review text can carry hidden instructions, and there is no known reliable fix ([OWASP LLM01](#ref-6)). Treat that text as data.
+
+Our own records agree with the strongest row. We keep a few hundred notes, each a rule someone had to teach a bot or an agent after a mistake.
+
 ## Teach the method to your agent
 
 The guide closes by pointing at Dr Eggbot, a bot that designs bots with this method. Its instructions aren't public, so we wrote our own version. It runs the cycle above and adds the limits from the last row of the Do and Don't figure.
@@ -144,3 +161,7 @@ The guide is light on what production adds. A bot needs explicit limits on money
 
 1. **Lauren (poteto)**: builds Grok Bot at xAI, 18 November 2026. [Automate Anything with Grok Bot](https://x.com/poteto/status/2123159537016533493).
 2. **Owner agents, plain functions**: our model for desk bots and the functions they call, 25 October 2026. [Owner agents, plain functions](owner-agents-and-functions.md).
+3. **OSWorld-Human**: a study of how efficiently computer-use agents finish OSWorld tasks compared with people, 2025. [OSWorld-Human](https://arxiv.org/html/2506.16042v1).
+4. **Cognitive task analysis**: interview methods that capture the decisions experts make without noticing, Utah State University. [Abstract](https://digitalcommons.usu.edu/itls_facpub/454).
+5. **Speech vs typing**: a lab study of speech and phone-keyboard text entry, 2016. [arXiv 1608.07323](https://arxiv.org/abs/1608.07323).
+6. **OWASP LLM01**: prompt injection, the top risk in the OWASP list for LLM apps. [LLM01](https://genai.owasp.org/llmrisk/llm01-prompt-injection/).
