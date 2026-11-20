@@ -92,14 +92,14 @@ Each step rests on a belief about how delegation works:
 
 We checked each claim against published evidence and our own records. Most of the method holds; one claim goes too far.
 
-| Claim | Verdict | Evidence |
-|---|---|---|
-| Interview with real cases | ✅ Holds | Experts omit about 70% of decisions ([CTA](#ref-4)) |
-| Brain dump by voice | ✅ Holds | Speech is about 3x faster than phone typing ([study](#ref-5)) |
-| Start from the goal | 🟡 Little proof | Backed by single-company cases only |
-| Restate before running | 🟡 Little proof | Plan approval itself is untested |
-| Add the trigger last | 🟡 Practice | Common advice, not measured |
-| Bot does anything on a computer | ❌ Too strong | Agents take 1.4 to 2.7x more steps than people ([OSWorld-Human](#ref-3)) |
+| Claim                           | Verdict         | Evidence                                                                 |
+| ------------------------------- | --------------- | ------------------------------------------------------------------------ |
+| Interview with real cases       | ✅ Holds        | Experts omit about 70% of decisions ([CTA](#ref-4))                      |
+| Brain dump by voice             | ✅ Holds        | Speech is about 3x faster than phone typing ([study](#ref-5))            |
+| Start from the goal             | 🟡 Little proof | Backed by single-company cases only                                      |
+| Restate before running          | 🟡 Little proof | Plan approval itself is untested                                         |
+| Add the trigger last            | 🟡 Practice     | Common advice, not measured                                              |
+| Bot does anything on a computer | ❌ Too strong   | Agents take 1.4 to 2.7x more steps than people ([OSWorld-Human](#ref-3)) |
 
 One warning the guide skips: email and review text can carry hidden instructions, and there is no known reliable fix ([OWASP LLM01](#ref-6)). Treat that text as data.
 
