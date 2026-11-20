@@ -112,15 +112,15 @@ One limit for this reading: the guide doesn't publish Dr Eggbot's instructions, 
 
 Each step rests on a belief about how delegation works. Pulled out, they read like advice for onboarding a person.
 
-| Belief | Where it shows | What it buys |
-|---|---|---|
-| Goal over process | "It's important not to be too attached to a specific process" | The bot may find a shorter path, and nobody automates a bad procedure faithfully |
-| Ownership | "The goal I want you to be responsible for", and the bot names itself | You brief it like a new hire, with context and judgment |
-| Cheap start | Potato, voice dumps, "don't worry about getting it right on the first pass" | Beginners don't stall on a perfect spec |
-| Hidden know-how | The bot interviews you, one question at a time, through real cases | Rules that nobody would list unprompted come out |
-| Words before action | "I don't want you to start executing on this yet" | Mistakes get fixed while they're still words |
-| Data drives improvement | Read the reviews, log the timestamps, share the IDs | The owner stops being the only channel for feedback |
-| Automate last | Routines come after the bot works on request | A trigger never scales an unproven process |
+| Belief                  | Where it shows                                                              | What it buys                                                                     |
+| ----------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| Goal over process       | "It's important not to be too attached to a specific process"               | The bot may find a shorter path, and nobody automates a bad procedure faithfully |
+| Ownership               | "The goal I want you to be responsible for", and the bot names itself       | You brief it like a new hire, with context and judgment                          |
+| Cheap start             | Potato, voice dumps, "don't worry about getting it right on the first pass" | Beginners don't stall on a perfect spec                                          |
+| Hidden know-how         | The bot interviews you, one question at a time, through real cases          | Rules that nobody would list unprompted come out                                 |
+| Words before action     | "I don't want you to start executing on this yet"                           | Mistakes get fixed while they're still words                                     |
+| Data drives improvement | Read the reviews, log the timestamps, share the IDs                         | The owner stops being the only channel for feedback                              |
+| Automate last           | Routines come after the bot works on request                                | A trigger never scales an unproven process                                       |
 
 The fourth belief deserves a name. It's the curse of knowledge: once you know something well, you can't easily imagine not knowing it, so you leave it out when you explain. Interviewers who study expert decisions get around it by asking about specific past cases, because people remember what they noticed in a real case far better than they can list rules in the abstract. The guide makes that interview self-serve by giving the questions to the bot.
 
@@ -139,13 +139,13 @@ None of this contradicts the method. It slots into step 4 (limits are part of wh
 
 We run a set of desk bots for Dwarves operations: a front desk for contractors, an ops desk, a finance desk, a sales desk and a few more. I wrote about the model behind them in [Owner agents, plain functions](#ref-2). Set side by side with Lauren's method, the back half matches and the front half doesn't.
 
-| Step | Lauren's method | Our desk bots |
-|---|---|---|
-| Charter | Starts from the goal | Starts from access and limits |
-| Teaching | The bot interviews the owner | The owner writes the bot's charter by hand |
-| Data rules | Taught by example | Enforced by checks |
-| Feedback | Reviews and its own records | Mostly the owner's corrections |
-| Triggers | A routine, added last | Jobs with owners and liveness checks |
+| Step       | Lauren's method              | Our desk bots                              |
+| ---------- | ---------------------------- | ------------------------------------------ |
+| Charter    | Starts from the goal         | Starts from access and limits              |
+| Teaching   | The bot interviews the owner | The owner writes the bot's charter by hand |
+| Data rules | Taught by example            | Enforced by checks                         |
+| Feedback   | Reviews and its own records  | Mostly the owner's corrections             |
+| Triggers   | A routine, added last        | Jobs with owners and liveness checks       |
 
 The match on the back half isn't a surprise. Source of truth, outcome checks and triggers are the parts that break loudly, and we learned each one from an incident. The front half is quieter. Every desk charter I checked opens with its role and scope. None of them states the result the desk exists for, or where it hears how a run went. Our ops orchestrator already demands a one-sentence goal and acceptance criteria on every ticket it files, so we're goal-first per ticket and scope-first per bot.
 
