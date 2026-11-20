@@ -1,51 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" role="img" aria-label="Two lanes: the guide's bot starts from the goal and learns from the world; our desk bots start from access and learn from the owner's corrections">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 320" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" role="img" aria-label="Two lanes: the guide's bot starts from the goal and learns from the world; our desk bots start from access and learn from the owner's corrections">
   <defs>
-    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#385a7b" stroke-width="0.5" opacity="0.6"/></pattern>
     <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#c3d7ea"/></marker>
     <marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#e8c56a"/></marker>
   </defs>
   <rect width="760" height="320" fill="#12395f"/>
-  <rect width="760" height="320" fill="url(#grid)"/>
-  <rect x="0.5" y="0.5" width="759" height="319" fill="none" stroke="#68839d"/>
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
-    <text x="20" y="24" font-size="10" letter-spacing="1.5" fill="#a7c0d9">FIG. 7 · THE GUIDE VS OUR DESK BOTS</text>
+  <g>
+    <text x="20" y="24" font-size="10" letter-spacing="1.5" fill="#a7c0d9">FIG. 8 · THE GUIDE VS OUR DESK BOTS</text>
     <text x="740" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">SAME PARTS, DIFFERENT START</text>
-    <line x1="20" y1="36" x2="740" y2="36" stroke="#68839d"/>
+    <line x1="20" y1="36" x2="740" y2="36" stroke="#68839d" stroke-width="0.5"/>
     <text x="20" y="66" font-size="11" fill="#c3d7ea" text-anchor="start">THE GUIDE'S BOT</text>
-    <rect x="20" y="76" width="112" height="40" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <rect x="20" y="76" width="112" height="40" rx="6" fill="#12395f" stroke="#68839d" stroke-width="1"/>
     <text x="76.0" y="100.0" font-size="12" fill="#e8f1fa" text-anchor="middle">goal</text>
     <line x1="132.0" y1="96.0" x2="140.0" y2="96.0" stroke="#c3d7ea" stroke-width="1" marker-end="url(#arr)"/>
-    <rect x="142" y="76" width="112" height="40" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <rect x="142" y="76" width="112" height="40" rx="6" fill="#12395f" stroke="#68839d" stroke-width="1"/>
     <text x="198.0" y="100.0" font-size="12" fill="#e8f1fa" text-anchor="middle">interview</text>
     <line x1="254.0" y1="96.0" x2="262.0" y2="96.0" stroke="#c3d7ea" stroke-width="1" marker-end="url(#arr)"/>
-    <rect x="264" y="76" width="112" height="40" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <rect x="264" y="76" width="112" height="40" rx="6" fill="#12395f" stroke="#68839d" stroke-width="1"/>
     <text x="320.0" y="100.0" font-size="12" fill="#e8f1fa" text-anchor="middle">restate</text>
     <line x1="376.0" y1="96.0" x2="384.0" y2="96.0" stroke="#c3d7ea" stroke-width="1" marker-end="url(#arr)"/>
-    <rect x="386" y="76" width="112" height="40" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <rect x="386" y="76" width="112" height="40" rx="6" fill="#12395f" stroke="#68839d" stroke-width="1"/>
     <text x="442.0" y="100.0" font-size="12" fill="#e8f1fa" text-anchor="middle">connect</text>
     <line x1="498.0" y1="96.0" x2="506.0" y2="96.0" stroke="#c3d7ea" stroke-width="1" marker-end="url(#arr)"/>
-    <rect x="508" y="76" width="112" height="40" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <rect x="508" y="76" width="112" height="40" rx="6" fill="#12395f" stroke="#68839d" stroke-width="1"/>
     <text x="564.0" y="100.0" font-size="12" fill="#e8f1fa" text-anchor="middle">world feedback</text>
     <line x1="620.0" y1="96.0" x2="628.0" y2="96.0" stroke="#c3d7ea" stroke-width="1" marker-end="url(#arr)"/>
-    <rect x="630" y="76" width="112" height="40" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <rect x="630" y="76" width="112" height="40" rx="6" fill="#12395f" stroke="#68839d" stroke-width="1"/>
     <text x="686.0" y="100.0" font-size="12" fill="#e8f1fa" text-anchor="middle">trigger</text>
     <text x="20" y="166" font-size="11" fill="#c3d7ea" text-anchor="start">OUR DESK BOTS</text>
-    <rect x="20" y="176" width="112" height="40" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <rect x="20" y="176" width="112" height="40" rx="6" fill="#12395f" stroke="#68839d" stroke-width="1"/>
     <text x="76.0" y="200.0" font-size="12" fill="#e8f1fa" text-anchor="middle">access</text>
     <line x1="132.0" y1="196.0" x2="140.0" y2="196.0" stroke="#c3d7ea" stroke-width="1" marker-end="url(#arr)"/>
-    <rect x="142" y="176" width="112" height="40" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <rect x="142" y="176" width="112" height="40" rx="6" fill="#12395f" stroke="#68839d" stroke-width="1"/>
     <text x="198.0" y="200.0" font-size="12" fill="#e8f1fa" text-anchor="middle">actions</text>
     <line x1="254.0" y1="196.0" x2="262.0" y2="196.0" stroke="#c3d7ea" stroke-width="1" marker-end="url(#arr)"/>
-    <rect x="264" y="176" width="112" height="40" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <rect x="264" y="176" width="112" height="40" rx="6" fill="#12395f" stroke="#68839d" stroke-width="1"/>
     <text x="320.0" y="200.0" font-size="12" fill="#e8f1fa" text-anchor="middle">owner writes</text>
     <line x1="376.0" y1="196.0" x2="384.0" y2="196.0" stroke="#c3d7ea" stroke-width="1" marker-end="url(#arr)"/>
-    <rect x="386" y="176" width="112" height="40" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <rect x="386" y="176" width="112" height="40" rx="6" fill="#12395f" stroke="#68839d" stroke-width="1"/>
     <text x="442.0" y="200.0" font-size="12" fill="#e8f1fa" text-anchor="middle">checks</text>
     <line x1="498.0" y1="196.0" x2="506.0" y2="196.0" stroke="#c3d7ea" stroke-width="1" marker-end="url(#arr)"/>
-    <rect x="508" y="176" width="112" height="40" rx="4" fill="#21466a" stroke="#e8c56a" stroke-width="2"/>
+    <rect x="508" y="176" width="112" height="40" rx="6" fill="#12395f" stroke="#e8c56a" stroke-width="2"/>
     <text x="564.0" y="200.0" font-size="12" fill="#e8c56a" text-anchor="middle" font-weight="bold">owner fixes</text>
     <line x1="620.0" y1="196.0" x2="628.0" y2="196.0" stroke="#c3d7ea" stroke-width="1" marker-end="url(#arr)"/>
-    <rect x="630" y="176" width="112" height="40" rx="4" fill="#21466a" stroke="#68839d" stroke-width="1"/>
+    <rect x="630" y="176" width="112" height="40" rx="6" fill="#12395f" stroke="#68839d" stroke-width="1"/>
     <text x="686.0" y="200.0" font-size="12" fill="#e8f1fa" text-anchor="middle">jobs</text>
     <rect x="14" y="56" width="372" height="170" rx="5" fill="none" stroke="#68839d" style="stroke-dasharray:3 3"/>
     <text x="200" y="246" font-size="10" fill="#a7c0d9" text-anchor="middle">FRONT HALF: they lead</text>

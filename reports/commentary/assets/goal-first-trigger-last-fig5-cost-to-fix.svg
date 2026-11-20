@@ -1,16 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" role="img" aria-label="Illustrative step chart: the cost to fix a mistake stays low while the job is words and jumps once the bot acts and repeats">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 340" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" role="img" aria-label="Illustrative step chart: the cost to fix a mistake stays low while the job is words and jumps once the bot acts and repeats">
   <defs>
-    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#385a7b" stroke-width="0.5" opacity="0.6"/></pattern>
     <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#c3d7ea"/></marker>
     <marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#e8c56a"/></marker>
   </defs>
   <rect width="760" height="340" fill="#12395f"/>
-  <rect width="760" height="340" fill="url(#grid)"/>
-  <rect x="0.5" y="0.5" width="759" height="339" fill="none" stroke="#68839d"/>
-  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
-    <text x="20" y="24" font-size="10" letter-spacing="1.5" fill="#a7c0d9">FIG. 4 · WHY RESTATE FIRST AND TRIGGER LAST</text>
+  <g>
+    <text x="20" y="24" font-size="10" letter-spacing="1.5" fill="#a7c0d9">FIG. 5 · WHY RESTATE FIRST AND TRIGGER LAST</text>
     <text x="740" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">ILLUSTRATIVE</text>
-    <line x1="20" y1="36" x2="740" y2="36" stroke="#68839d"/>
+    <line x1="20" y1="36" x2="740" y2="36" stroke="#68839d" stroke-width="0.5"/>
     <line x1="70" y1="290" x2="730" y2="290" stroke="#68839d"/>
     <line x1="70" y1="290" x2="70" y2="60" stroke="#68839d"/>
     <text x="60" y="66" font-size="10" fill="#6f8fb0" text-anchor="end">high</text>

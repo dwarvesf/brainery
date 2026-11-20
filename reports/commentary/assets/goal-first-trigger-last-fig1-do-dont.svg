@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 370" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" role="img" aria-label="Eight do and don't pairs for handing a job to a bot">
+  <defs>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#c3d7ea"/></marker>
+    <marker id="arrA" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#e8c56a"/></marker>
+  </defs>
+  <rect width="760" height="370" fill="#12395f"/>
+  <g>
+    <text x="20" y="24" font-size="10" letter-spacing="1.5" fill="#a7c0d9">FIG. 1 · DO AND DON'T</text>
+    <text x="740" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">THE METHOD ON ONE CARD</text>
+    <line x1="20" y1="36" x2="740" y2="36" stroke="#68839d" stroke-width="0.5"/>
+    <text x="20" y="64" font-size="12" fill="#e8c56a" text-anchor="start" font-weight="bold">DO</text>
+    <text x="392" y="64" font-size="12" fill="#c3d7ea" text-anchor="start" font-weight="bold">DON'T</text>
+    <path d="M22 88 l5 5 l9 -11" fill="none" stroke="#e8c56a" stroke-width="2"/>
+    <text x="46" y="93" font-size="11" fill="#e8f1fa" text-anchor="start">Start from the goal: money in, cost out</text>
+    <path d="M394 80 l12 12 M406 80 l-12 12" fill="none" stroke="#6f8fb0" stroke-width="1.5"/>
+    <text x="418" y="93" font-size="11" fill="#a7c0d9" text-anchor="start">Start from the form or the steps</text>
+    <line x1="20" y1="105" x2="740" y2="105" stroke="#385a7b" stroke-width="0.5"/>
+    <path d="M22 122 l5 5 l9 -11" fill="none" stroke="#e8c56a" stroke-width="2"/>
+    <text x="46" y="127" font-size="11" fill="#e8f1fa" text-anchor="start">Talk it out by voice, messy is fine</text>
+    <path d="M394 114 l12 12 M406 114 l-12 12" fill="none" stroke="#6f8fb0" stroke-width="1.5"/>
+    <text x="418" y="127" font-size="11" fill="#a7c0d9" text-anchor="start">Wait until you can write a perfect spec</text>
+    <line x1="20" y1="139" x2="740" y2="139" stroke="#385a7b" stroke-width="0.5"/>
+    <path d="M22 156 l5 5 l9 -11" fill="none" stroke="#e8c56a" stroke-width="2"/>
+    <text x="46" y="161" font-size="11" fill="#e8f1fa" text-anchor="start">Make the bot restate the job first</text>
+    <path d="M394 148 l12 12 M406 148 l-12 12" fill="none" stroke="#6f8fb0" stroke-width="1.5"/>
+    <text x="418" y="161" font-size="11" fill="#a7c0d9" text-anchor="start">Let it act on its first reading</text>
+    <line x1="20" y1="173" x2="740" y2="173" stroke="#385a7b" stroke-width="0.5"/>
+    <path d="M22 190 l5 5 l9 -11" fill="none" stroke="#e8c56a" stroke-width="2"/>
+    <text x="46" y="195" font-size="11" fill="#e8f1fa" text-anchor="start">Let it interview you, one question at a time</text>
+    <path d="M394 182 l12 12 M406 182 l-12 12" fill="none" stroke="#6f8fb0" stroke-width="1.5"/>
+    <text x="418" y="195" font-size="11" fill="#a7c0d9" text-anchor="start">Hand it a list of twenty questions</text>
+    <line x1="20" y1="207" x2="740" y2="207" stroke="#385a7b" stroke-width="0.5"/>
+    <path d="M22 224 l5 5 l9 -11" fill="none" stroke="#e8c56a" stroke-width="2"/>
+    <text x="46" y="229" font-size="11" fill="#e8f1fa" text-anchor="start">Teach with real cases, failures included</text>
+    <path d="M394 216 l12 12 M406 216 l-12 12" fill="none" stroke="#6f8fb0" stroke-width="1.5"/>
+    <text x="418" y="229" font-size="11" fill="#a7c0d9" text-anchor="start">Try to list every rule up front</text>
+    <line x1="20" y1="241" x2="740" y2="241" stroke="#385a7b" stroke-width="0.5"/>
+    <path d="M22 258 l5 5 l9 -11" fill="none" stroke="#e8c56a" stroke-width="2"/>
+    <text x="46" y="263" font-size="11" fill="#e8f1fa" text-anchor="start">Give it the data a person learns from</text>
+    <path d="M394 250 l12 12 M406 250 l-12 12" fill="none" stroke="#6f8fb0" stroke-width="1.5"/>
+    <text x="418" y="263" font-size="11" fill="#a7c0d9" text-anchor="start">Stay the only channel for feedback</text>
+    <line x1="20" y1="275" x2="740" y2="275" stroke="#385a7b" stroke-width="0.5"/>
+    <path d="M22 292 l5 5 l9 -11" fill="none" stroke="#e8c56a" stroke-width="2"/>
+    <text x="46" y="297" font-size="11" fill="#e8f1fa" text-anchor="start">Add the trigger after it works by hand</text>
+    <path d="M394 284 l12 12 M406 284 l-12 12" fill="none" stroke="#6f8fb0" stroke-width="1.5"/>
+    <text x="418" y="297" font-size="11" fill="#a7c0d9" text-anchor="start">Schedule a process you have not watched</text>
+    <line x1="20" y1="309" x2="740" y2="309" stroke="#385a7b" stroke-width="0.5"/>
+    <path d="M22 326 l5 5 l9 -11" fill="none" stroke="#e8c56a" stroke-width="2"/>
+    <text x="46" y="331" font-size="11" fill="#e8f1fa" text-anchor="start">Set limits: money, sending, secrets ask you</text>
+    <path d="M394 318 l12 12 M406 318 l-12 12" fill="none" stroke="#6f8fb0" stroke-width="1.5"/>
+    <text x="418" y="331" font-size="11" fill="#a7c0d9" text-anchor="start">Let email or review text give it orders</text>
+    <line x1="380" y1="52" x2="380" y2="336" stroke="#68839d" stroke-width="0.5"/>
+
+  </g>
+</svg>
