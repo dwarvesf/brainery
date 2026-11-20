@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" role="img" aria-label="Seven steps from goal to trigger, with a feedback loop back to the goal">
+  <defs>
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M20 0H0V20" fill="none" stroke="#385a7b" stroke-width="0.5" opacity="0.6"/>
+    </pattern>
+    <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="#c3d7ea"/>
+    </marker>
+  </defs>
+  <rect width="760" height="330" fill="#12395f"/>
+  <rect width="760" height="330" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="759" height="329" fill="none" stroke="#68839d"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace">
+    <text x="20" y="24" font-size="10" letter-spacing="1.5" fill="#a7c0d9">FIG. 1 · GOAL FIRST, TRIGGER LAST</text>
+    <text x="740" y="24" font-size="10" letter-spacing="1.5" fill="#6f8fb0" text-anchor="end">THE ORDER IS THE METHOD</text>
+    <line x1="20" y1="36" x2="740" y2="36" stroke="#68839d"/>
+
+    <g font-size="12">
+      <rect x="20" y="70" width="92" height="62" rx="4" fill="#21466a" stroke="#e8c56a" stroke-width="2"/>
+      <text x="66" y="96" fill="#e8c56a" text-anchor="middle" font-weight="bold">1 GOAL</text>
+      <text x="66" y="114" fill="#a7c0d9" text-anchor="middle" font-size="10">what it's for</text>
+
+      <rect x="124" y="70" width="92" height="62" rx="4" fill="#21466a" stroke="#68839d"/>
+      <text x="170" y="96" fill="#e8f1fa" text-anchor="middle">2 PROCESS</text>
+      <text x="170" y="114" fill="#a7c0d9" text-anchor="middle" font-size="10">talk it out</text>
+
+      <rect x="228" y="70" width="92" height="62" rx="4" fill="#21466a" stroke="#68839d"/>
+      <text x="274" y="96" fill="#e8f1fa" text-anchor="middle">3 RESTATE</text>
+      <text x="274" y="114" fill="#a7c0d9" text-anchor="middle" font-size="10">nothing runs</text>
+
+      <rect x="332" y="70" width="92" height="62" rx="4" fill="#21466a" stroke="#68839d"/>
+      <text x="378" y="96" fill="#e8f1fa" text-anchor="middle">4 TACIT</text>
+      <text x="378" y="114" fill="#a7c0d9" text-anchor="middle" font-size="10">bot interviews</text>
+
+      <rect x="436" y="70" width="92" height="62" rx="4" fill="#21466a" stroke="#68839d"/>
+      <text x="482" y="96" fill="#e8f1fa" text-anchor="middle">5 CONNECT</text>
+      <text x="482" y="114" fill="#a7c0d9" text-anchor="middle" font-size="10">apps, tools</text>
+
+      <rect x="540" y="70" width="92" height="62" rx="4" fill="#21466a" stroke="#68839d"/>
+      <text x="586" y="96" fill="#e8f1fa" text-anchor="middle">6 FEEDBACK</text>
+      <text x="586" y="114" fill="#a7c0d9" text-anchor="middle" font-size="10">bot's own data</text>
+
+      <rect x="644" y="70" width="96" height="62" rx="4" fill="#21466a" stroke="#68839d"/>
+      <text x="692" y="96" fill="#e8f1fa" text-anchor="middle">7 TRIGGER</text>
+      <text x="692" y="114" fill="#a7c0d9" text-anchor="middle" font-size="10">event, schedule</text>
+    </g>
+
+    <g stroke="#c3d7ea" stroke-width="1" fill="none" marker-end="url(#arr)">
+      <line x1="112" y1="101" x2="122" y2="101"/>
+      <line x1="216" y1="101" x2="226" y2="101"/>
+      <line x1="320" y1="101" x2="330" y2="101"/>
+      <line x1="424" y1="101" x2="434" y2="101"/>
+      <line x1="528" y1="101" x2="538" y2="101"/>
+      <line x1="632" y1="101" x2="642" y2="101"/>
+      <path d="M586 132 V180 H66 V136" style="stroke-dasharray:4 3"/>
+      <path d="M274 132 V160 H170 V136" style="stroke-dasharray:4 3"/>
+    </g>
+    <text x="326" y="198" font-size="10" fill="#a7c0d9" text-anchor="middle">"review our process against my original goal"</text>
+    <text x="222" y="156" font-size="10" fill="#6f8fb0" text-anchor="middle">correct, repeat</text>
+
+    <line x1="20" y1="226" x2="740" y2="226" stroke="#68839d" style="stroke-dasharray:2 4"/>
+    <g font-size="11">
+      <text x="20" y="252" fill="#c3d7ea">HUMAN TALKS</text>
+      <text x="20" y="270" fill="#6f8fb0" font-size="10">steps 1 to 4: words only, cheap to fix</text>
+      <text x="436" y="252" fill="#c3d7ea">BOT ACTS</text>
+      <text x="436" y="270" fill="#6f8fb0" font-size="10">steps 5 to 7: side effects, then repetition</text>
+      <rect x="20" y="288" width="400" height="6" fill="#a7c0d9" opacity="0.5"/>
+      <rect x="436" y="288" width="304" height="6" fill="#6f8fb0" opacity="0.7"/>
+    </g>
+  </g>
+</svg>
