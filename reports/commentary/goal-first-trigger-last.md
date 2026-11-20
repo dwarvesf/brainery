@@ -23,7 +23,7 @@ On 18 November 2026, [Lauren (@poteto)](#ref-1), who builds Grok Bot at xAI, pos
 
 ## Do and don't
 
-![Do and don't {#fig-dodont}](assets/goal-first-trigger-last-fig1-do-dont.svg 'Do and don\'t. The whole method on one card. The last row is our addition for production bots.')
+![Do and don't {#fig-dodont}](assets/goal-first-trigger-last-fig1-do-dont.svg "Do and don't. The whole method on one card. The last row is our addition for production bots.")
 
 ## The cycle
 
